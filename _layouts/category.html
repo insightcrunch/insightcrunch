@@ -8,26 +8,26 @@ layout: default
 
 {% assign cat_posts = site.posts | where_exp: "p", "p.categories contains page.category" %}
 
-<div class="cat-header">
-  <div class="cat-title">{{ page.title }}</div>
-  <div class="cat-count">{{ cat_posts.size }} post{% if cat_posts.size != 1 %}s{% endif %}</div>
+<div class="category-header">
+  <h1>{{ page.title }}</h1>
+  <p>{{ cat_posts.size }} post{% if cat_posts.size != 1 %}s{% endif %}</p>
 </div>
 
 <div class="posts" id="postList">
   {% for post in cat_posts %}
   {% assign cat = post.categories | first | downcase %}
-  <article class="post{% if forloop.first %} feat{% endif %}"
+  <article class="post-card{% if forloop.first %} featured{% endif %}"
            data-title="{{ post.title | downcase }}"
            data-cat="{{ cat }}">
-    <div class="p-r1">
-      <span class="tag t{{ cat | slice: 0 }}">{{ post.categories | first }}</span>
-      <span class="p-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <div class="post-r1">
+      <a href="{{ post.url | relative_url }}" class="tag tag-{{ cat }}">{{ post.categories | first }}</a>
+      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
     </div>
-    <div class="p-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
-    <div class="p-exc">{{ post.excerpt | strip_html | truncate: 200 }}</div>
-    <div class="p-r2">
-      {% if post.read_time %}<span class="p-mins">{{ post.read_time }} min</span>{% endif %}
-      <a href="{{ post.url | relative_url }}" class="p-read">Read →</a>
+    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+    <div class="post-r2">
+      {% if post.read_time %}<span class="post-mins">{{ post.read_time }} min</span>{% endif %}
+      <a href="{{ post.url | relative_url }}" class="post-read">Read →</a>
     </div>
   </article>
   {% endfor %}

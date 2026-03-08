@@ -3,7 +3,7 @@ description: "Notes on technology, society, and life."
 tagline: "technology · society · life"
 
 url: "https://insightcrunch.github.io/"
-baseurl: "insightcrunch"
+baseurl: "/insightcrunch"
 
 author:
   name: "Rahul Bhattacharya"

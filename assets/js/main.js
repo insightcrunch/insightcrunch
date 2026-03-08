@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function initLoadMore() {
-  const posts = document.querySelectorAll('#postList .post');
+  const posts = document.querySelectorAll('#postList .post-card');
   if (!posts.length) return;
 
   let shown = 0;
@@ -69,7 +69,7 @@ function initSearch() {
 
   input.addEventListener('input', () => {
     const q = input.value.toLowerCase().trim();
-    const posts = document.querySelectorAll('#postList .post');
+    const posts = document.querySelectorAll('#postList .post-card');
     const cnt   = document.getElementById('postCount');
     let visible = 0;
 

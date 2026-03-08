@@ -1,46 +1,46 @@
 ---
 layout: default
 ---
-<article class="post-single">
+<div class="progress-container"><div class="progress-bar" id="progressBar"></div></div>
+
+<article>
   <header class="post-header">
-    <div class="p-r1">
-      {% assign cat = page.categories | first | downcase %}
-      <span class="tag t{{ cat | slice: 0 }}">{{ page.categories | first }}</span>
-      <span class="p-date">{{ page.date | date: "%B %-d, %Y" }}</span>
-      {% if page.read_time %}<span class="p-mins">{{ page.read_time }} min read</span>{% endif %}
+    {% assign cat = page.categories | first | downcase %}
+    <div class="post-r1">
+      <a href="{{ '/categories/' | append: cat | relative_url }}" class="tag tag-{{ cat }}">{{ page.categories | first }}</a>
     </div>
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle }}</p>{% endif %}
+    <h1>{{ page.title }}</h1>
+    <div class="post-meta">
+      <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+      {% if page.read_time %}<span class="sep">·</span><span>{{ page.read_time }} min read</span>{% endif %}
+      {% if page.author %}<span class="sep">·</span><span>{{ page.author }}</span>{% endif %}
+    </div>
   </header>
 
-  <div class="post-body">
+  <div class="post-content">
     {{ content }}
   </div>
 
-  <footer class="post-footer">
-    {% if page.tags.size > 0 %}
-    <div class="post-tags">
-      {% for tag in page.tags %}
-      <span class="tag-pill">{{ tag }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
+  {% if page.tags.size > 0 %}
+  <div class="post-taxonomy">
+    {% for tag in page.tags %}
+    <span class="tag tag-{{ tag | downcase }}">{{ tag }}</span>
+    {% endfor %}
+  </div>
+  {% endif %}
 
-    <div class="post-nav">
-      {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="post-nav-link prev">
-        <span class="nav-dir">← Previous</span>
-        <span class="nav-ttl">{{ page.previous.title | truncate: 50 }}</span>
-      </a>
-      {% endif %}
-      {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="post-nav-link next">
-        <span class="nav-dir">Next →</span>
-        <span class="nav-ttl">{{ page.next.title | truncate: 50 }}</span>
-      </a>
-      {% endif %}
-    </div>
-
-    <a href="{{ '/' | relative_url }}" class="back-home">← Back to all posts</a>
-  </footer>
+  <div style="margin-top:32px;padding-top:16px;border-top:1px solid var(--rule)">
+    <a href="{{ '/' | relative_url }}" style="font-family:'Lora',serif;font-style:italic;font-size:13px;color:var(--amber);text-decoration:none;">← Back to all posts</a>
+  </div>
 </article>
+
+<script>
+  const bar = document.getElementById('progressBar');
+  if (bar) {
+    window.addEventListener('scroll', () => {
+      const h = document.documentElement;
+      const p = h.scrollTop / (h.scrollHeight - h.clientHeight);
+      bar.style.setProperty('--p', p);
+    });
+  }
+</script>
