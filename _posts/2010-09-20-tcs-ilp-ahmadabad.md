@@ -1,0 +1,41 @@
+---
+layout: post
+title: "TCS ILP @ Ahmadabad"
+date: 2010-09-20
+categories: ["Industry"]
+tags: ["ILP", "TCS"]
+excerpt: "*This is a guest post by Arvind. The views expressed are solely of the writer.*"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+reading_time: 7
+author: "Insight Crunch Team"
+---
+
+*This is a guest post by Arvind. The views expressed are solely of the writer.*
+
+I never imagined everything I am about to write get over this soon. Expectations and hopes were high. The end result - it exceeded! I went through all the *emotions that life could offer in the space of 3 months. Even death came to a striking distance on 2 occasions! Under the current circumstance all I wish is that the past 4 months of my life can be re-lived at some point of my life but thats mission impossible!
+
+The 36 hr train journey looked as though it was 36 mins. That was one experience which I will never ever forget. Myself, water, sombu, ganesh, parthu and both aswins along with all my college girls occupied almost three fourth the compartment. The great Water had everything to fill our stomach for the entire journey thanks to his ‘caring’ nature. Infact he had packed food that was enough for everyone in the entire train. ----------fast forward---------. Card game…. Truth or dare at 12 midnite….early morning peeking out the train session…chit chats. The best though was the parthu-sombu incident when he actually tried to lift himself from the middle berth after sombu had given a jerk and the chain came off..:D   
+For the first time in my life I’ve actually gone to a place that is outside south India. Excitement grew as we all took a cab to Gandhi Nagar. We were soon welcomed by a sight, near the studio apartment giving us all kinds of hope which myself and water had discussed before the TCS call. But we never had time to get into that as we were more worried about getting the same room in the apartment. All efforts carried out for that went in vein as we were all separated but it was not as bad as how it could’ve gone as we were all put in same block except for Koushik, Abinanth, Azeez and Master who actually came by flight later.
+
+**First day of ILP **- We were all gathered in the auditorium and there was some kind of tension but certainly the excitement overshadowed it. I desperately wanted to experience whatever that was going to happen, the challenges I am about to face and the fun I am going to have. The batch listing came and the first thing which I looked on it was whether if anyone else from my college was there with me. To my *disappointment there wasn’t any and all kind of thoughts came as on how am I going to manage in this batch for my entire first phase without any of my close friends. Although I knew I am capable of getting along with anyone, I was still expecting to be in my comfort zone. I consoled myself and started identifying new faces of my batch. Those who know me well will know how choosy I am in selecting who I want to talk, build a relation and just get along with. I identified someone who i met in class earlier in 'Cool Point' and with all good intention I went and spoke to her and got to know her. After some struggle, :D I managed to get going with her but not that much initially but to a good level later on. While all these were happening on one side, my performance in the batch meetings were too good. :D My accumulated score in the first four batch meetings was 9 (9/400) and I was really proud of it. There is a famous saying that if all wants to become a doctor who’ll be the patient??! If you can read the relevance fine otherwise chuck it!
+
+Read more: [TCS Split Wide Open - Guest Post »](https://insightcrunch.com/2010/10/15/tcs-split-wide-open-guest-post/)
+
+**A-87 batch** - All my complaints on having no college mates in my batch drained off very soon as I realized I got into the best batch of AHD 23 (Some might disagree). It took a little time but once we got settled in there, nothing stopped us. The life skill sessions were the time we look forward to daily as that’s when we play plenty of games. We went for our first batch outing to science city and the lake. Even though the place was not that good, the time which we all spent together was really worth.
+
+Then it was all projects and tests and thankfully I cleared the first phase and it was time for posting. All I had hoped for was a location where I wont be put alone. But the person above had other ideas and thanks to his generous attitude, I got Mumbai and guess what? For all my questions and hopes, answers were obvious which actually brought me thought on whether if I am being cursed!
+
+My second phase batch was also announced and even in that I was the only one from my college and this time even from my previous batch. Little did I know at that time that I am going to enjoy more with this batch. Anyway, I didn’t have luck with my stream as well as location. But life moved on….
+
+**Call to heaven 1** - I decided to forget all those as we were given a four day break. There were talks about my college people not knowing how to have fun which only gave us good laughter as we all gathered in one of our rooms to discuss our plan to diu/somnath/gir forest trip. Thanks to the efforts of Kaushik we went on one of the most memorable trips that I would ever have, not for good reasons though but still. Apart from the breathtaking views of the beach and some ancient sites, nothing is worth mentioning from that tour. However, I should say I had one of the the most adventurous bus journey from diu to Somnath that anyone can even imagine of! The driver of the bus got drunk and was driving the bus like a formula 1 racer! If we had not stopped him, we would all have been either like Filippe Massa in hospital bed or even might have been in history books :D! It was really adventurous though.. :P
+
+**JavaB** - For the second consecutive time, I was put on a batch where I am the only guy from my college and in addition to that, this time I was the only one from my previous batch as well! While I was just thinking on how I am going to manage, entered and I made her sit with me not realizing that she’s going to be my eventual ‘enemy’. ;) But it was really nice of her to give good company as I sailed through my ILP journey with ease. The javaB national anthem, endless teasing sessions, hotseat were all part and parcel of our day to day activities in class and these clubbed together made my life in this batch very enjoyable!
+
+**Call to heaven2** – Auto incident! I don’t want to go too much detail into this but the whole day was perfect except this, yet it was really adventurous, adventure-ahm part 2! Guess it goes like this, more than me loving adventure, adventure loves me!:P I lost one of my favorite slippers thanks to all concerned. Only myself and the person who was with me knows the seriousness of that particular incident. It all happened too quickly that before I could even react everything was over and the first major relief I got was that, more than me, the person with me was fine. That was one BIG relief! Still I was really feeling guilty for few days but realized that even if it had been anyone else in my shoes he/she couldn’t have avoided this and also it wasn’t my fault at all no matter what anyone thinks or tells. But I will never ever forget and forgive the comments made by the so called left-hand or right-hand of that person and that was really really irritating!!! But when god had 100 reasons to pull me down, I had 1000 reasons to smile as I decided to get on with life..;)
+
+Keep reading: [TCS ILP Training Center at Haldia Institute of Technology »](https://insightcrunch.com/2010/09/15/tcs-ilp-training-centre-at-haldia-institute-of-technology/)
+
+Finally, the end came and emotions were running high among all of us. The thought of us parting in few days was really a hard pill to swallow but memory remains while the journey continues in MUMBAI...
+
+![TCS ILP Ahmedabad](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-4126778.jpeg)
+TCS ILP Ahmedabad

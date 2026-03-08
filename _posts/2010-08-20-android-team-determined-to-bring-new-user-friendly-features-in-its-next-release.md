@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Android team determined to bring new user friendly features in its next release"
+date: 2010-08-20
+categories: ["Leisure"]
+tags: ["Google", "Surfing"]
+excerpt: "The Google Android team has been working furiously to bring more features that would make user’s experience friendly like anything. Since the Android first hit the market in 2008, many features had ..."
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+reading_time: 1
+author: "Insight Crunch Team"
+---
+
+The Google Android team has been working furiously to bring more features that would make user’s experience friendly like anything. Since the Android first hit the market in 2008, many features had been added. But with time, Google has decided not only user’s demands in the next release, but also provide more facilities that would no doubt make it stand a lot apart from the others.
+
+![Android Latest New Features](https://insightcrunch.com/wp-content/uploads/2010/08/pexels-photo-971325.jpeg)
+Android Latest New Features
+
+It would be interesting to see what happens to the sale of the other brands like the iPhone and Windows Mobiles after the release of the new version of Android. I am myself waiting for it’s next version to arrive at my locality soon!
+
+Read more: [Add your Tweets in Google »](https://insightcrunch.com/2009/08/10/add-your-tweets-in-google/)
