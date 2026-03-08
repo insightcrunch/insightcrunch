@@ -1,0 +1,26 @@
+---
+layout: post
+title: "How to become a famous blogger"
+date: 2008-12-12
+categories: ["Leisure"]
+tags: ["Surfing"]
+excerpt: "I just came across this thing which I think will help all bloggers to try and become famous... ;)"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+reading_time: 1
+author: "Insight Crunch Team"
+---
+
+![](https://insightcrunch.com/wp-content/uploads/2022/08/90aab552-6672-435a-bcca-7eefc55cc783.gif?w=843)
+
+I just came across this thing which I think will help all bloggers to try and become famous... ;)
+
+It actually shows you two ways, he he...if you are already famous, then your blogs will automatically be famous -- that makes you a famous blogger.
+
+Read more: [Farewell Mr. President »](https://insightcrunch.com/2008/12/15/farewell-mr-president-heres-my-shoe/)
+
+Again if you blog day and night and your blogs have the latest and up-to-date contents, then your blogs are sure to get visited by many people from all over the world.....That makes you a famous blogger too!
+
+Hope this is the simplest solution :)
+
+![How to Become a Famous Blogger](https://insightcrunch.com/wp-content/uploads/2008/12/pexels-photo-851213.jpeg)
+How to Become a Famous Blogger
