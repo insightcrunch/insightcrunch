@@ -1,0 +1,56 @@
+---
+layout: post
+title: "What do you need to get hired at Amazon?"
+date: 2011-11-17
+categories: ["Industry"]
+tags: ["Amazon"]
+excerpt: "Amazon is one of the largest corporations in the world today there are a variety of positions for which Amazon hire skilled workers all across the globe However the hiring and recruitment process at ..."
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+reading_time: 9
+author: "Insight Crunch Team"
+---
+
+## Background
+
+Amazon is one of the largest corporations in the world today there are a variety of positions for which Amazon hire skilled workers all across the globe However the hiring and recruitment process at Amazon is extremely streamlined. Candidates are highly encouraged to follow the process to get hired at Amazon smoothly. At a very at various steps of the hiring process, the recruiter will provide you with guidelines and materials so that you get an understanding how the Amazon recruitment process works. Such guidance vary from how to prepare your CV and also how to answer your questions using various methods like the STAR method. The star is an abbreviation for situation task action and result. Your online journey app application journey with Amazon starts with the online application.
+
+The first step before used when you begin searching for a job at Amazon is finding a job that interests you. Using the links shared here, you begin to start searching for a job and filter by the different locations, business categories, job categories, and keywords specific to the job you are looking for. There are a variety of jobs offered by Amazon based on the different skill sets of the candidates and the requirements. When you find a job position that meets your skill sets. Click the Apply Now button next to the title of the role at the top of that page for the job. After you click the Apply Now button, follow the directions on your screen to create a new profile. Or you can also log back in to the portal if you are an already existing user.
+
+## Amazon Job Profile Creation
+
+Based on the type of job you were interested in, you can look for our warehouse or associate position in an Amazon fulfillment center as well from the link above. There are different application processes for the individual roles that are offered by Amazon. Amazon does not need cover letters for your resume a candidate's only need to make sure that their resume is up to date. And they are all set. If you do not have a formal resume or CV to enter into the form during the application process of Amazon, it is highly recommended that you create a resume even if you do not have a resume, Amazon says that it is okay for you to proceed. applying for that job position. 
+
+As a candidate, only you have to make fully sure that you fill in a brief description of your background, along with your experience and achievements and skills in the application form. While mentioning your experience, make sure you mentioned the different dates of employment where you worked in the past. Amazon highlights that this information is necessary to evaluate the candidates and their skill sets. This application this information is essential for the application. And if you do not provide these details, your application will not be considered. If you are interested in a warehouse associate position in the fulfillment center of Amazon, then Amazon highlights that you do not need a resume or CV to apply for that position. You can learn more about the Amazon fulfillment process in the links above.
+
+![What do you need to get hired at Amazon](https://insightcrunch.com/wp-content/uploads/2011/11/pexels-photo-1181309.jpeg)
+What do you need to get hired at Amazon
+
+## Amazon Portfolio Requirements
+
+Another common question that is asked by candidates is whether they should send samples of their work. Like writing or articles or codes along with the resume and CV. The hiring process at Amazon requires you to share your work samples only if you are requested to provide so after being selected for an interview. If Amazon needs you to share your work samples, they will let you know exactly where you should send your works. However, if you have a blog or an online presence in social media where people can view your work online already, then Amazon recommends that you include the links of these works in your resume. That way the interviewer and recruiter can easily check your work while reviewing your resume and CV. 
+
+A question frequently asked by candidates aspiring to join Amazon is the position they wanted to apply for does not appear anymore. Does what should a candidate do regarding applying for that job if that position is no longer listed and visible Amazon says that they regularly post new positions where candidates can apply and work and they also remove positions that are no longer open. Hence, it is important for candidates to actively monitor the job portal shared above. Amazon also recommends that if a job is not found listed, that means that they are not taking application for that job at that time, which means that candidates can expect another opening of that job later in the future when it becomes available. 
+
+## Amazon Job Vacancy and Status Updates
+
+Active monitoring of the job portal at Amazon is something that candidates should make it a top priority to find open vacancies immediately when they are made available. Many candidates who apply at Amazon have questions regarding the status of their application after they have applied. That was ensures that they follow the federal requirements for the job when they review resume is and only contact the candidates about whom they want to learn more about. Due to the large volume of applications that Amazon receives regularly, they are not able to make personal contact with every candidate who submits a resume. 
+
+Hence, Amazon updates the status of their of the candidates applications in the job portal thus candidates can log in to their application profile and review the status of the roles for which they have applied at Amazon. Candidates who have applied for the Amazon fulfillment center and the warehouse at Amazon can check their status of the applications as well. Care portfolio and fulfillment process Amazon is also making changes to their signing experience to provide the best candidate experience during the application process. They are trying to make sure that all candidates are able to make use of the latest features. resetting the password is one of the critical elements, which Amazon considers critical to their security of the profiles. 
+
+## Multiple Accounts and Account Recovery
+
+Hence, there are upcoming changes that Amazon will regularly roll out to make sure the application process and details shared by the candidate stays extremely securely if I can, the applicant has multiple accounts, Amazon suggests that you submit a support request so that the service representatives can help you with the information you need to make the changes. Many candidates have queries regarding sharing their email address and if they can create an account using their telephone number. Amazon suggests using a valid email address. However, features of signing up using only a phone number will be available shortly. If you have forgotten your Amazon jobs portal password and you want to recover it, you need to click on the Forgot Password link on the sign in page and enter your user name. 
+
+To follow the next steps of the recovery process. If we have forgotten your Amazon jobs user name, then it is recommended that you start signing in with your current email address. Candidates who apply at Amazon shops Still have questions regarding what feature and information can they access with their Amazon jobs portal account. Having an Amazon jobs portal account provides the candidate the ability to access and add to their application profile their applicant information, and also to check the application status for each of the jobs that they have applied for. Amazon is also continuously adding new features to their Amazon jobs portal so that candidates can get more clarity regarding the hiring and recruitment process. 
+
+## Amazon Resume Upload
+
+Candidates who apply at Amazon also have questions regarding upload uploading their resume to some service in the cloud. Amazon answers that to support a more mobile friendly candidate experience they have added the ability for candidates to upload their resume using cloud services. Hence, candidates can use some of the popular cloud services to share their resume directly from there to Amazon. Of course candidates who apply at Amazon will also have the ability to directly upload their resume from their local laptop or mobile devices. Candidates who apply at Amazon also have questions regarding how to upload their resume using their LinkedIn profiles. Amazon shares that applicants can definitely use their LinkedIn as an alternative method to share their resume during profile creation. 
+
+It is important to note that Amazon accepts only one resume apart application applicant hints. Candidates should choose wisely which option to use while creating their resume. Either candidates can use LinkedIn to import their profile or upload a resume from their local devices or cloud services. Candidates also often have questions that their application status is not progressing or has not changed. They are looking forward to someone whom they can ask for an update and when they can expect a change of their application status for the job. Amazon highlights that the Amazon job portal dashboard is the only source of information which is regularly updated to display the most latest and up to date information. 
+
+## Amazon Job Application Status Update
+
+Hence, if there is no change in the status, that means no other contacts or professionals in Amazon can provide any other update then different from what is shown in the Amazon job portal dashboard. Some job portal dashboard is used to reflect the current real time status of every job application by each of the candidates. Hence it is important for all the candidates to continuously monitor the status of their applications. Using the dashboard in the Amazon jobs portal. Amazon also has different statuses of their application like active and archived candidates often have questions regarding when the application moves from the active status to the archive status. 
+
+Amazon clarifies that an application for a job at Amazon is considered active as long as a final decision for that particular job profile and application has not been made. In a case where an applicant withdraws their application, or is hired for a role. What if the candidate is no longer under the consideration then their application will be archived? Or candidate if if an application is showing in an active status, that means no final decision has been yet made and the processing of that application for the candidate job is still in progress. Hence, candidates should keep checking regularly the Amazon job portal dashboard to see if the status changes and if they get hired for that job.

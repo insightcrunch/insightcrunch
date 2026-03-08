@@ -1,0 +1,36 @@
+---
+layout: post
+title: "TCS ILP Bhubaneswar – The Pastel Picture"
+date: 2011-01-10
+categories: ["Industry"]
+tags: ["ILP", "TCS"]
+excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+reading_time: 6
+author: "Insight Crunch Team"
+---
+
+This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
+
+We were 21 guys, wearing top to bottom formals.I was sitting in the left window seat in the last row of the company-bus.I closed my eyes. I was able to see a picture drawn with pastel color, a picture 4 and half years old.50 guys wearing blue striped white shirt, navy blue trouser, and navy blue tie boarding a yellow bus.The bus was going to Institute of Technology, Kolkata for the first time for its 2005-2009 batch. I was the last one to board, and I got the last seat.It was the same left window seat.I was having a mixed feeling of excitement, nervousness and fear. First time out of home, that too for 4 years, I was highly excited.No restriction, I can live my life freely.No one in my neighborhood can spot me smoking. No one can complain if I sing loudly in bathroom.Most of all no-one is going to monitor I am studying or not, I need not hide my Pornbooks. I can recreate my own slots of studying.
+
+8 years, I studied in a Bengali medium school, hence talking in English, that too in front of the street smart Kolkata chicks would be a big challenge.The whole course will be in English.Somehow I have to manage.It is really an extra struggle for a guy who had not studied in an English medium school.The Bengali medium badly screws your smartness.I was really nervous.
+
+While in school, we have written plenty of essays on the topic ragging.We have used many examples, many analogies like "gangrape of humanity" to describe ragging.I was able to portray a junior school guy writing a Ragging essay.I spotted my name as a ragging victim in the example part.I hate newspapers, if a guy have a cut in his hand they will frame it as hand cut, they double your fear.
+
+It took 20 minutes to reach the college.We had two separate buildings for the first years and the seniors.This design was to protect the lambs from the tigers, but according to the formality lambs can have a look into the tiger's den.Hence we were taken to the main building first. The bus entered the premises,It was a tiger-mela.The guy who have the record "Most irregular boy of the class" he can be spotted in the first row now.All seniors were wearing coloring dress, so that they can spot their would be servants.We were nothing but entertaining material.Everybody was measuring us.The fear-meter was showing a high reading.Some of our batch-mates came with their family.They didn't know that they were annoying the seniors.One day if they are spotted alone they are gone, long gone.
+
+We entered a huge conference room ushered by a faculty.The room was surrounded by glass walls.The teachers entered into the room.They started giving some boring speeches,but nobody was paying attention because everybody was looking the seniors waiting outside the glass-walls.I was sitting in the last row,I thought that was the safest place.But the difference between truth and assumption is huge.
+
+![TCS ILP Bhubaneswar The Pastel Picture](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-2422294.jpeg)
+TCS ILP Bhubaneswar – The Pastel Picture
+
+Read more: [TCS ILP Bhubaneswar - There were sensors everywhere! »](https://insightcrunch.com/2011/01/13/tcs-ilp-bhubaneswar-there-were-sensors-everywhere/)
+
+After an hour the 4th year guys entered into the room and asked the teachers to leave.It was a kind of college where teachers never messed with seniors.The college had a history behind that.Once the seniors saved the college, from the hand of land and development department of the Government.From then, it was an unspoken rule. We have read the story of David and Goliath, but it was the story of Davids and Goliaths. One of the Goliath stood up on the dias and started stating the rules, suddenly he spotted that nobody was noting it down.So he started it again, the rule one was: "The seniors are like Prophets, so whenever he speaks something important, the followers should write it down, not only in the mind but also in the copy, those who will obey the gospels will be given quarters in heaven, and those who disobey will be sent to the dormitory of hell" His tone was thundering the whole class.We already started fearing. "no half sleeve shirts are allowed, those who will wear a half sleeve shirt, should be forced to wear a half-pant from the next day, he should carry a school water bottle and a baby backpack in his shoulder.". The gym goers who were exposing their biceps wearing half sleeve shirts, even the ladies were fused like a leaked balloon. "who will laugh on a senior will be requested to wipe his laugh on the blackboard, his face will be the duster, and the sentence I laughed on a senior will be written on the blackboard.He should wipe that with his face". Suddenly a guy was spotted smiling silently, and he was forced to give us a demo.The boy came back with a white face, full of chalk powder. "Anyone caught with his shirt tucked in, will be asked to tuck in their trouser in their socks". Boys started to tuck-out their shirts.
+
+"The rule is not applicable for transgenders". Now the girls went red. Another Goliath did a hi-5 with that demon.
+
+"No watches, cellphones, calculators, accessories.A guy caught with any of them will be given special reception by us". Everyone started removing their watches and switching off their cellphones. Suddenly a group of seniors plunged into the room and the others left the dias and went to the corner.One of them announced "Enough of theories, people actually learn by practicals, the introduction will start from the last row.". Now I was gone."oye Chashma,tu chalu kar" he stated.My throat was almost dry, my voice choked.He said "There is one small rule for the intro, you need to stand-up on the high desk and speak with your ass". Now what the hell was that, Gosh!!.A class full of girls.I was about to break into tears."u need to turn back and shake your ass while giving the intro in the rhythm you speak"-one of them shouted. Atleast the others won't see my face.I stood up and did the task.The journey of becoming shameless started.I was asked to come in front.The senior hugged me.He said "smart guy!". Now I was watching others from the dias.One guy started crying, and he was given a local anasthasia in his left cheek for his "unsmartness and inflexibility". Now it was the turn of a girl.All the boys glanced there.The lady was about to blast in tears, suddenly a senior guy and his lady entered into the room and announced "Girls you need not". All the seniors, even the first years turned angry, why not? Everyone thought"the girls enjoyed our ragging, now they are being protected". But suddenly the senior grinned and said "Manjula is coming to take care of girls". Now the other seniors stood dumb. Even their face were reflecting the fact that something is going to happen with the girls.
+
+Suddenly the bus stopped.We were in-front of our office, the place was like digitized heaven.
