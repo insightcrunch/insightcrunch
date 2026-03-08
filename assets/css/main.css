@@ -440,13 +440,104 @@ body::before {
 
 /* ══ RESPONSIVE ══════════════════════════════════════════════════ */
 @media (max-width: 760px) {
+  html { font-size: 13px; }
+
   .layout { grid-template-columns: 1fr; }
-  .sidebar { position: relative; height: auto; width: 100%; }
-  .sb-inner { padding: 16px; }
-  .main { padding: 16px 16px 32px; }
-  .main-top { margin: -16px -16px 14px; padding: 9px 16px; }
-  .related-grid { grid-template-columns: 1fr 1fr; }
-  .post-header h1 { font-size: 22px; }
+
+  /* Sidebar collapses to a compact top bar */
+  .sidebar {
+    position: relative; height: auto; width: 100%;
+    background: linear-gradient(135deg, var(--esp) 0%, var(--esp2) 100%);
+  }
+  .sidebar::before { display: none; }
+
+  .sb-inner {
+    padding: 10px 14px 12px;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-rows: auto auto;
+    gap: 8px 10px;
+    align-items: start;
+  }
+
+  /* Logo row — left col */
+  .logo {
+    grid-column: 1; grid-row: 1;
+    margin-bottom: 0; padding-bottom: 0; border-bottom: none;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .logo-rule, .logo-tag { display: none; }
+  .logo-name { font-size: 15px; }
+
+  /* Nav links — inline pills under logo */
+  .sb-nav {
+    grid-column: 1 / -1; grid-row: 2;
+    display: flex; flex-wrap: wrap; gap: 4px;
+  }
+  .sb-nav a {
+    padding: 3px 9px; border-radius: 20px;
+    font-size: 10px; font-weight: 500;
+    border: 1px solid rgba(176,96,16,.3);
+    background: rgba(255,255,255,.04);
+    line-height: 1.6;
+  }
+  .sb-nav a.on, .sb-nav a.active {
+    background: rgba(176,96,16,.25);
+    border-color: var(--amber-lt);
+    color: var(--amber-lt);
+  }
+
+  /* Search — right col top */
+  .sb-search {
+    grid-column: 2; grid-row: 1;
+    margin-bottom: 0;
+    min-width: 130px;
+  }
+  .search-wrap input {
+    font-size: 11px;
+    padding: 6px 26px 6px 9px;
+  }
+  .search-icon { width: 12px; height: 12px; right: 7px; }
+
+  /* Hide card + tags on mobile — too noisy */
+  .sb-card, .sb-lbl, .sb-tags { display: none; }
+
+  /* Main content */
+  .main { padding: 12px 14px 28px; }
+  .main-top { margin: -12px -14px 12px; padding: 7px 14px; font-size: 10px; }
+
+  /* Post cards */
+  .post-card { padding: 10px 0; }
+  .post-title { font-size: 14px !important; }
+  .post-card.featured .post-title { font-size: 16px !important; }
+  .post-excerpt { font-size: 11px; }
+  .post-date { font-size: 10px; }
+  .post-tag, .post-cat { font-size: 9px; padding: 2px 7px; }
+  .post-byline { font-size: 10px; }
+
+  /* Single post */
+  .post-header h1 { font-size: 19px; }
+  .post-meta { font-size: 10px; }
+  .post-content { font-size: 13px; }
+  .post-content h2 { font-size: 17px; }
+  .post-content h3 { font-size: 14px; }
+
+  /* Related / pagination */
+  .related-grid { grid-template-columns: 1fr 1fr; gap: 7px; }
+  .related-title { font-size: 11px; }
+  .pager-btn { font-size: 11px; padding: 6px 14px; }
+  .pager-info { font-size: 10px; }
+  .lm-btn { font-size: 11px; }
+  .lm-status { font-size: 10px; }
+
+  /* Category / page headers */
+  .category-header h1 { font-size: 20px; }
+  .category-header p { font-size: 11px; }
+  .page-content h1 { font-size: 20px; }
+  .page-content p { font-size: 12px; }
+
+  /* Footer */
+  .site-footer { font-size: 10px; }
 }
 
 /* Hide any injected author avatar */
