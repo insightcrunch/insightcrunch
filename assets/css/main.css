@@ -81,7 +81,7 @@ body::before {
               radial-gradient(ellipse 150px 200px at 10% 95%, rgba(52,32,16,.5), transparent);
   pointer-events: none;
 }
-.sb-inner { padding: 22px 0 22px 16px; position: relative; z-index: 1; }
+.sb-inner { padding: 22px 16px; position: relative; z-index: 1; }
 
 /* Logo */
 .logo {
