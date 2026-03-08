@@ -6,7 +6,7 @@ url: "https://insightcrunch.github.io/"
 baseurl: "/insightcrunch"
 
 author:
-  name: "Rahul Bhattacharya"
+  name: "Insight Crunch Team"
   bio: "Independent writing on technology, society, and the texture of everyday life."
 
 sass:
@@ -52,7 +52,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Rahul Bhattacharya"
+      author: "Insight Crunch Team"
 
 exclude:
   - Gemfile
