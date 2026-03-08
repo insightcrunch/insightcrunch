@@ -3,39 +3,37 @@ layout: default
 ---
 <div class="main-top">
   <span class="main-top-title">All posts</span>
-  <span class="main-count" id="postCount"></span>
+  <span class="main-count" id="postCount">Showing 5 of {{ site.posts | size }}</span>
+  <div class="sort-pills">
+    <button class="sort-pill on" onclick="setSort('latest',this)">Latest</button>
+    <button class="sort-pill" onclick="setSort('popular',this)">Popular</button>
+  </div>
 </div>
 
 <div class="posts" id="postList">
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
   {% assign cat = post.categories | first | downcase %}
-  <article class="post-card{% if forloop.first %} featured{% endif %}"
+  <article class="post-card{% if forloop.first %} featured{% endif %}{% if forloop.index > 5 %} hidden{% endif %}"
            data-title="{{ post.title | downcase }}"
            data-cat="{{ cat }}"
-           data-tags="{{ post.tags | join: ' ' | downcase }}">
+           data-tags="{{ post.tags | join: ' ' | downcase }}"
+           data-index="{{ forloop.index }}"
+           onclick="window.location='{{ post.url | relative_url }}'">
     <div class="post-r1">
-      <a href="{{ post.url | relative_url }}" class="tag tag-{{ cat }}">{{ post.categories | first }}</a>
+      <span class="tag tag-{{ cat }}">{{ post.categories | first }}</span>
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
     </div>
-    <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    <div class="post-title">{{ post.title }}</div>
     <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
     <div class="post-r2">
       {% if post.read_time %}<span class="post-mins">{{ post.read_time }} min</span>{% endif %}
-      <a href="{{ post.url | relative_url }}" class="post-read">Read →</a>
+      <a href="{{ post.url | relative_url }}" class="post-read" onclick="event.stopPropagation()">Read →</a>
     </div>
   </article>
   {% endfor %}
 </div>
 
-<div class="load-more-wrap" id="loadMoreWrap" style="display:none">
-  <button class="load-more-btn" id="loadMoreBtn" onclick="loadMore()">Load more posts</button>
-  <div class="lm-status" id="lmStatus"></div>
+<div class="load-more-wrap" id="lmWrap">
+  <button class="load-more-btn" id="lmBtn" onclick="loadMore()">Load more posts</button>
+  <div class="lm-status" id="lmStatus">Showing 5 of {{ site.posts | size }} posts</div>
 </div>
-
-{% if paginator.total_pages > 1 %}
-<nav class="pager-nav">
-  {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}" class="pager-btn">← Newer</a>{% endif %}
-  <span class="pager-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}" class="pager-btn">Older →</a>{% endif %}
-</nav>
-{% endif %}

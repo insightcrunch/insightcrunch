@@ -163,7 +163,7 @@ body::before {
   font-weight: 300; letter-spacing: .3px;
 }
 .sb-nav a:hover { background: rgba(255,255,255,.06); color: rgba(255,255,255,.76); }
-.sb-nav a.active {
+.sb-nav a.active, .sb-nav a.on {
   background: rgba(176,96,16,.12); color: var(--amber-lt);
   border: 1px solid rgba(176,96,16,.2);
 }
@@ -215,6 +215,18 @@ body::before {
   background: var(--s2); color: var(--ink);
   box-shadow: 0 1px 4px rgba(0,0,0,.05);
 }
+.sort-pills button.sort-pill {
+  border: none; background: transparent;
+  font-family: 'Inter', sans-serif;
+  padding: 4px 10px; border-radius: 5px; font-size: 11px;
+  cursor: pointer; color: var(--soft); transition: all .15s;
+}
+.sort-pills button.sort-pill.on,
+.sort-pills button.sort-pill:hover {
+  background: var(--s2); color: var(--ink);
+  box-shadow: 0 1px 4px rgba(0,0,0,.05);
+}
+
 
 /* ══ POST CARDS ══════════════════════════════════════════════════ */
 .posts { display: flex; flex-direction: column; gap: 2px; }
@@ -222,7 +234,7 @@ body::before {
 .post-card {
   border: 1px solid var(--rule2); border-radius: 7px;
   padding: 12px 14px; background: var(--s1);
-  transition: all .2s;
+  transition: all .2s; cursor: pointer;
 }
 .post-card:hover {
   border-color: var(--amber-bd);
@@ -436,3 +448,7 @@ body::before {
   .related-grid { grid-template-columns: 1fr 1fr; }
   .post-header h1 { font-size: 22px; }
 }
+
+/* Hide any injected author avatar */
+.sb-card img, .sb-avatar, .author-avatar,
+.sb-card [class*="avatar"], .sb-card [class*="photo"] { display: none !important; }

@@ -9,7 +9,7 @@
 
     <div class="sb-search">
       <div class="search-wrap">
-        <input type="text" placeholder="Search posts…" id="searchInput" autocomplete="off">
+        <input type="text" placeholder="Search posts…" id="searchInput" autocomplete="off" oninput="filterPosts(this.value)">
         <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
       </div>
     </div>
@@ -30,11 +30,11 @@
     </div>
 
     <nav class="sb-nav">
-      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>◈ All posts</a>
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="on"{% endif %}>◈ All posts</a>
       {% for cat in site.categories_list %}
-      <a href="{{ '/categories/' | append: cat | downcase | relative_url }}"{% if page.title == cat %} class="active"{% endif %}>◇ {{ cat }}</a>
+      <a href="{{ '/categories/' | append: cat | downcase | relative_url }}"{% if page.title == cat %} class="on"{% endif %}>◇ {{ cat }}</a>
       {% endfor %}
-      <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} class="active"{% endif %}>◇ About</a>
+      <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} class="on"{% endif %}>◇ About</a>
     </nav>
 
     {% assign all_tags = site.posts | map: 'tags' | flatten | uniq %}

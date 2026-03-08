@@ -1,92 +1,120 @@
-/* InsightCrunch — load-more + search */
+/* InsightCrunch — load-more + search + sort */
 
-const BATCH = 4;
+var shown = 5;
+var batch = 4;
 
-document.addEventListener('DOMContentLoaded', () => {
-  initLoadMore();
-  initSearch();
-});
+function allPosts() {
+  return document.querySelectorAll('#postList .post-card');
+}
 
-function initLoadMore() {
-  const posts = document.querySelectorAll('#postList .post-card');
-  if (!posts.length) return;
+function updateCount(label) {
+  var cnt = document.getElementById('postCount');
+  if (!cnt) return;
+  cnt.textContent = label;
+}
 
-  let shown = 0;
-  posts.forEach((p, i) => {
-    if (i < 5) { p.classList.remove('hidden'); shown++; }
-    else        { p.classList.add('hidden'); }
+function updateStatus() {
+  var posts = allPosts();
+  var total = posts.length;
+  var stat = document.getElementById('lmStatus');
+  var btn  = document.getElementById('lmBtn');
+  if (stat) stat.textContent = 'Showing ' + shown + ' of ' + total + ' posts';
+  if (btn) {
+    if (shown >= total) {
+      btn.textContent = 'All posts loaded';
+      btn.classList.add('done');
+    } else {
+      btn.textContent = 'Load more posts';
+      btn.classList.remove('done');
+    }
+  }
+  updateCount('Showing ' + shown + ' of ' + total);
+}
+
+function loadMore() {
+  var btn = document.getElementById('lmBtn');
+  btn.textContent = 'Loading\u2026';
+  btn.classList.add('loading');
+
+  setTimeout(function() {
+    var posts = allPosts();
+    var revealed = 0;
+    posts.forEach(function(p) {
+      if (p.classList.contains('hidden') && !p.dataset.searchHidden && revealed < batch) {
+        p.classList.remove('hidden');
+        p.classList.add('appearing');
+        revealed++;
+        shown++;
+      }
+    });
+    btn.classList.remove('loading');
+    updateStatus();
+  }, 500);
+}
+
+function filterPosts(q) {
+  var posts = allPosts();
+  var lmWrap = document.getElementById('lmWrap');
+  var total = posts.length;
+
+  if (!q.trim()) {
+    // restore: show first 5, hide rest
+    shown = 0;
+    posts.forEach(function(p, i) {
+      p.removeAttribute('data-search-hidden');
+      if (i < 5) { p.classList.remove('hidden'); shown++; }
+      else        { p.classList.add('hidden'); }
+    });
+    if (lmWrap) lmWrap.style.display = '';
+    updateStatus();
+    return;
+  }
+
+  // searching: show all matches, hide load-more
+  if (lmWrap) lmWrap.style.display = 'none';
+  var count = 0;
+  posts.forEach(function(p) {
+    var title = (p.dataset.title || '').toLowerCase();
+    var cat   = (p.dataset.cat   || '').toLowerCase();
+    var tags  = (p.dataset.tags  || '').toLowerCase();
+    var match = title.includes(q.toLowerCase()) || cat.includes(q.toLowerCase()) || tags.includes(q.toLowerCase());
+    p.classList.toggle('hidden', !match);
+    if (match) count++;
   });
+  updateCount(count + ' result' + (count !== 1 ? 's' : '') + ' for \u201c' + q + '\u201d');
+}
 
-  const wrap = document.getElementById('loadMoreWrap');
-  const btn  = document.getElementById('loadMoreBtn');
-  const stat = document.getElementById('lmStatus');
-  const cnt  = document.getElementById('postCount');
+function setSort(type, el) {
+  // visual active state
+  document.querySelectorAll('.sort-pill').forEach(function(b) { b.classList.remove('on'); });
+  el.classList.add('on');
+  // Popular = sort by read_time descending (proxy for engagement)
+  // Latest  = original DOM order (already date-sorted by Jekyll)
+  var list  = document.getElementById('postList');
+  var cards = Array.from(allPosts());
+  if (type === 'popular') {
+    cards.sort(function(a, b) {
+      var ra = parseInt((a.querySelector('.post-mins')||{}).textContent) || 0;
+      var rb = parseInt((b.querySelector('.post-mins')||{}).textContent) || 0;
+      return rb - ra;
+    });
+  } else {
+    cards.sort(function(a, b) { return parseInt(a.dataset.index) - parseInt(b.dataset.index); });
+  }
+  cards.forEach(function(c, i) {
+    list.appendChild(c);
+    c.classList.toggle('hidden', i >= shown);
+    c.classList.toggle('featured', i === 0);
+  });
+  updateStatus();
+}
 
-  const total = posts.length;
-  if (cnt) cnt.textContent = 'Showing ' + shown + ' of ' + total;
-  if (wrap && total > 5) wrap.style.display = 'block';
+document.addEventListener('DOMContentLoaded', function() {
   updateStatus();
 
-  window.loadMore = function () {
-    btn.classList.add('loading');
-    btn.textContent = 'Loading\u2026';
-
-    setTimeout(() => {
-      let revealed = 0;
-      posts.forEach(p => {
-        if (p.classList.contains('hidden') && revealed < BATCH) {
-          p.classList.remove('hidden');
-          p.classList.add('appearing');
-          revealed++;
-          shown++;
-        }
-      });
-
-      if (cnt) cnt.textContent = 'Showing ' + shown + ' of ' + total;
-      btn.classList.remove('loading');
-      btn.textContent = 'Load more posts';
-      updateStatus();
-
-      if (shown >= total) {
-        btn.classList.add('done');
-        btn.textContent = 'All posts loaded';
-      }
-    }, 500);
-  };
-
-  function updateStatus() {
-    if (!stat) return;
-    const remaining = total - shown;
-    stat.textContent = remaining > 0
-      ? remaining + ' more post' + (remaining > 1 ? 's' : '') + ' to load'
-      : '';
+  // wire search
+  var input = document.getElementById('searchInput');
+  if (input) {
+    input.addEventListener('input', function() { filterPosts(this.value); });
   }
-}
-
-function initSearch() {
-  const input = document.getElementById('searchInput');
-  if (!input) return;
-
-  input.addEventListener('input', () => {
-    const q = input.value.toLowerCase().trim();
-    const posts = document.querySelectorAll('#postList .post-card');
-    const cnt   = document.getElementById('postCount');
-    let visible = 0;
-
-    posts.forEach(p => {
-      const title = (p.dataset.title || '').toLowerCase();
-      const cat   = (p.dataset.cat || '').toLowerCase();
-      const tags  = (p.dataset.tags || '').toLowerCase();
-      const match = !q || title.includes(q) || cat.includes(q) || tags.includes(q);
-      p.style.display = match ? '' : 'none';
-      if (match) visible++;
-    });
-
-    if (cnt) cnt.textContent = q
-      ? visible + ' result' + (visible !== 1 ? 's' : '') + ' for "' + q + '"'
-      : 'Showing ' + visible + ' of ' + posts.length;
-
-    const wrap = document.getElementById('loadMoreWrap');
-    if (wrap) wrap.style.display = q ? 'none' : '';
-  });
-}
+});
