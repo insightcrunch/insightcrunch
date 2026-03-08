@@ -8,6 +8,7 @@ baseurl: "/insightcrunch"
 author:
   name: "Rahul Bhattacharya"
   bio: "Independent writing on technology, society, and the texture of everyday life."
+  picture: null
 
 sass:
   sass_dir: assets/css
