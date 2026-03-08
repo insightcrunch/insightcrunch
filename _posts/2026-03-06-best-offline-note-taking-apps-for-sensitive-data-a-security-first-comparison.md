@@ -24,165 +24,24 @@ Before diving into individual reviews, here is a quick-reference comparison matr
 
 ## Comparison Matrix
 
-  
-    
-      
-        Feature
-        [VaultBook](https://vaultbook.net)
-        Obsidian
-        Standard Notes
-        Joplin
-        Notesnook
-        Trellis
-      
-    
-    
-      
-        Encryption
-        AES-256-GCM (local)
-        Plugin (opt-in)
-        AES-256 (cloud)
-        E2EE (cloud sync)
-        XChaCha20 (cloud)
-        AES-256 (cloud)
-      
-      
-        Fully Offline
-        Yes
-        Yes
-        Partial
-        Partial
-        Partial
-        Partial
-      
-      
-        No Account Required
-        Yes
-        Yes
-        No
-        No
-        No
-        No
-      
-      
-        File Attachments
-        Yes (deep indexed)
-        Yes (vault folder)
-        Limited
-        Yes
-        Limited
-        Limited
-      
-      
-        PDF/DOCX/XLSX Indexing
-        Yes
-        No
-        No
-        No
-        No
-        No
-      
-      
-        Outlook MSG Parsing
-        Yes
-        No
-        No
-        No
-        No
-        No
-      
-      
-        OCR (Inline Images)
-        Built-in
-        Plugin
-        No
-        No
-        No
-        No
-      
-      
-        Rich Text Editor
-        Full rich text
-        Markdown only
-        Markdown + basic
-        Markdown only
-        Rich text
-        Rich text
-      
-      
-        Kanban Board
-        Built-in
-        Plugin
-        No
-        No
-        No
-        No
-      
-      
-        RSS Reader
-        Built-in
-        No
-        No
-        No
-        No
-        No
-      
-      
-        Built-in Tools
-        12+ tools
-        No
-        No
-        No
-        No
-        No
-      
-      
-        Version History
-        Built-in
-        Plugin (paid)
-        Yes
-        Yes
-        Yes
-        Limited
-      
-      
-        Single File Portable
-        Yes (single HTML)
-        No (vault folder)
-        No
-        No
-        No
-        No
-      
-      
-        Hierarchical Pages
-        Pages + Labels + Hierarchy
-        Folder-based
-        Tags only
-        Notebooks
-        Notebooks
-        Folders
-      
-      
-        Vote-Based Search Learning
-        Yes
-        No
-        No
-        No
-        No
-        No
-      
-      
-        Calendar / Timetable
-        Built-in
-        Plugin
-        No
-        No
-        No
-        No
-      
-    
-  
+| Feature | [VaultBook](https://vaultbook.net) | Obsidian | Standard Notes | Joplin | Notesnook | Trellis |
+|---|---|---|---|---|---|---|
+| Encryption | AES-256-GCM (local) | Plugin (opt-in) | AES-256 (cloud) | E2EE (cloud sync) | XChaCha20 (cloud) | AES-256 (cloud) |
+| Fully Offline | Yes | Yes | Partial | Partial | Partial | Partial |
+| No Account Required | Yes | Yes | No | No | No | No |
+| File Attachments | Yes (deep indexed) | Yes (vault folder) | Limited | Yes | Limited | Limited |
+| PDF/DOCX/XLSX Indexing | Yes | No | No | No | No | No |
+| Outlook MSG Parsing | Yes | No | No | No | No | No |
+| OCR (Inline Images) | Built-in | Plugin | No | No | No | No |
+| Rich Text Editor | Full rich text | Markdown only | Markdown + basic | Markdown only | Rich text | Rich text |
+| Kanban Board | Built-in | Plugin | No | No | No | No |
+| RSS Reader | Built-in | No | No | No | No | No |
+| Built-in Tools | 12+ tools | No | No | No | No | No |
+| Version History | Built-in | Plugin (paid) | Yes | Yes | Yes | Limited |
+| Single File Portable | Yes (single HTML) | No (vault folder) | No | No | No | No |
+| Hierarchical Pages | Pages + Labels + Hierarchy | Folder-based | Tags only | Notebooks | Notebooks | Folders |
+| Vote-Based Search Learning | Yes | No | No | No | No | No |
+| Calendar / Timetable | Built-in | Plugin | No | No | No | No |
 
 With the overview established, let us examine each tool in detail.
 
