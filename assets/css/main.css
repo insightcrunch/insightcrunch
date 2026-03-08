@@ -380,6 +380,25 @@ body::before {
   overflow-x: auto; margin: 20px 0;
 }
 .post-content pre code { background: none; color: rgba(255,255,255,.82); }
+.post-content table {
+  width: 100%; border-collapse: collapse;
+  margin: 24px 0; font-size: 13px;
+  display: block; overflow-x: auto;
+}
+.post-content table th {
+  background: var(--esp2); color: rgba(255,255,255,.85);
+  font-family: 'Inter', sans-serif; font-weight: 600;
+  font-size: 11px; letter-spacing: .4px; text-transform: uppercase;
+  padding: 9px 12px; text-align: left;
+  border: 1px solid rgba(176,96,16,.25);
+}
+.post-content table td {
+  padding: 8px 12px; border: 1px solid var(--rule2);
+  color: var(--ink); vertical-align: top; line-height: 1.5;
+  background: var(--s1);
+}
+.post-content table tr:nth-child(even) td { background: var(--bg); }
+.post-content table tr:hover td { background: var(--amber-bg); }
 
 /* Post taxonomy */
 .post-taxonomy {
@@ -508,6 +527,8 @@ body::before {
   .post-header h1 { font-size: 19px; }
   .post-meta { font-size: 10px; }
   .post-content { font-size: 13px; }
+  .post-content table { font-size: 11px; }
+  .post-content table th, .post-content table td { padding: 6px 8px; }
 
   /* Related / pagination */
   .related-grid { grid-template-columns: 1fr 1fr; gap: 7px; }
