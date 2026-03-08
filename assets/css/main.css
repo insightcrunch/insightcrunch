@@ -381,9 +381,11 @@ body::before {
 }
 .post-content pre code { background: none; color: rgba(255,255,255,.82); }
 .post-content table {
-  width: 100%; border-collapse: collapse;
+  width: max-content; max-width: 100%;
+  border-collapse: collapse;
   margin: 24px 0; font-size: 13px;
   display: block; overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .post-content table th {
   background: var(--esp2); color: rgba(255,255,255,.85);
