@@ -452,12 +452,12 @@ body::before {
   .sidebar::before { display: none; }
 
   .sb-inner {
-    padding: 10px 14px 12px;
+    padding: 10px 14px 10px;
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1fr 140px;
     grid-template-rows: auto auto;
     gap: 8px 10px;
-    align-items: start;
+    align-items: center;
   }
 
   /* Logo row — left col */
@@ -472,14 +472,16 @@ body::before {
   /* Nav links — inline pills under logo */
   .sb-nav {
     grid-column: 1 / -1; grid-row: 2;
-    display: flex; flex-wrap: wrap; gap: 4px;
+    flex-direction: row; flex-wrap: wrap; gap: 4px;
+    margin-bottom: 0;
   }
   .sb-nav a {
     padding: 3px 9px; border-radius: 20px;
     font-size: 10px; font-weight: 500;
     border: 1px solid rgba(176,96,16,.3);
     background: rgba(255,255,255,.04);
-    line-height: 1.6;
+    line-height: 1.6; width: auto;
+    flex: 0 0 auto;
   }
   .sb-nav a.on, .sb-nav a.active {
     background: rgba(176,96,16,.25);
