@@ -81,7 +81,7 @@ body::before {
               radial-gradient(ellipse 150px 200px at 10% 95%, rgba(52,32,16,.5), transparent);
   pointer-events: none;
 }
-.sb-inner { padding: 22px 0 22px 16px; position: relative; z-index: 1; }
+.sb-inner { padding: 22px 16px 22px 16px; position: relative; z-index: 1; }
 
 /* Logo */
 .logo {
@@ -449,6 +449,6 @@ body::before {
   .post-header h1 { font-size: 22px; }
 }
 
-/* Hide any injected author avatar */
-.sb-card img, .sb-avatar, .author-avatar,
-.sb-card [class*="avatar"], .sb-card [class*="photo"] { display: none !important; }
+/* Hide any injected author avatar (Jekyll SEO tag, GitHub avatar) */
+.sidebar img, .sb-avatar, .author-avatar,
+[class*="avatar"], [class*="author-image"] { display: none !important; }
