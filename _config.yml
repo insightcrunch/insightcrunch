@@ -1,0 +1,64 @@
+title: "Insight Crunch"
+description: "Notes on technology, society, and life."
+tagline: "technology · society · life"
+
+url: "https://insightcrunch.com"
+baseurl: ""
+
+author:
+  name: "Rahul Bhattacharya"
+  bio: "Independent writing on technology, society, and the texture of everyday life."
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+excerpt_separator: "<!--more-->"
+
+# future: false hides posts dated in the future.
+# The GitHub Actions schedule cron triggers a daily rebuild
+# so that scheduled posts automatically go live on their publish date.
+future: false
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: "/page:num/"
+
+permalink: /:year/:month/:day/:title/
+
+categories_list:
+  - Technology
+  - Society
+  - Life
+  - Analytics
+  - Travel
+
+timezone: "America/Chicago"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  parse_block_html: true
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    guess_lang: false
+    line_numbers: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Rahul Bhattacharya"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore

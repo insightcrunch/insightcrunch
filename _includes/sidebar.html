@@ -1,0 +1,51 @@
+<aside class="sidebar">
+  <div class="sb-inner">
+
+    <div class="logo">
+      <div class="logo-name">Insight <em>Crunch</em></div>
+      <div class="logo-rule"></div>
+      <span class="logo-tag">technology · society · life</span>
+    </div>
+
+    <div class="sb-search">
+      <div class="search-wrap">
+        <input type="text" placeholder="Search posts…" id="searchInput" autocomplete="off">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </div>
+    </div>
+
+    <div class="sb-card">
+      <div class="sb-name">Insight Crunch</div>
+      <div class="sb-bio">Independent writing on technology, society, and the texture of everyday life.</div>
+      <div class="sb-stats">
+        <div class="sb-st">
+          <span class="sb-st-n">{{ site.posts | size }}</span>
+          <span class="sb-st-l">posts</span>
+        </div>
+        <div class="sb-st">
+          <span class="sb-st-n">{{ site.posts | map: 'categories' | flatten | uniq | size }}</span>
+          <span class="sb-st-l">topics</span>
+        </div>
+      </div>
+    </div>
+
+    <nav class="sb-nav">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="on"{% endif %}>◈ All posts</a>
+      {% for cat in site.categories_list %}
+      <a href="{{ '/categories/' | append: cat | downcase | relative_url }}"{% if page.title == cat %} class="on"{% endif %}>◇ {{ cat }}</a>
+      {% endfor %}
+      <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} class="on"{% endif %}>◇ About</a>
+    </nav>
+
+    {% assign all_tags = site.posts | map: 'tags' | flatten | uniq %}
+    {% if all_tags.size > 0 %}
+    <div class="sb-lbl">tags</div>
+    <div class="sb-tags">
+      {% for tag in all_tags limit: 10 %}
+      <span>{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+  </div>
+</aside>

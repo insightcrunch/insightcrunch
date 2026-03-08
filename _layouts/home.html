@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<div class="main-top">
+  <span class="main-top-title">All posts</span>
+  <span class="main-count" id="postCount"></span>
+</div>
+
+<div class="posts" id="postList">
+  {% for post in paginator.posts %}
+  {% assign cat = post.categories | first | downcase %}
+  <article class="post{% if forloop.first %} feat{% endif %}"
+           data-title="{{ post.title | downcase }}"
+           data-cat="{{ cat }}"
+           data-tags="{{ post.tags | join: ' ' | downcase }}">
+    <div class="p-r1">
+      <span class="tag t{{ cat | slice: 0 }}">{{ post.categories | first }}</span>
+      <span class="p-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </div>
+    <div class="p-title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </div>
+    <div class="p-exc">{{ post.excerpt | strip_html | truncate: 200 }}</div>
+    <div class="p-r2">
+      {% if post.read_time %}<span class="p-mins">{{ post.read_time }} min</span>{% endif %}
+      <a href="{{ post.url | relative_url }}" class="p-read">Read →</a>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+<div class="load-more-wrap" id="loadMoreWrap" style="display:none">
+  <button class="load-more-btn" id="loadMoreBtn" onclick="loadMore()">Load more posts</button>
+  <div class="lm-status" id="lmStatus"></div>
+</div>
+
+{% if paginator.total_pages > 1 %}
+<nav class="pager-nav">
+  {% if paginator.previous_page %}
+  <a href="{{ paginator.previous_page_path | relative_url }}" class="pager-btn">← Newer</a>
+  {% endif %}
+  <span class="pager-info">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a href="{{ paginator.next_page_path | relative_url }}" class="pager-btn">Older →</a>
+  {% endif %}
+</nav>
+{% endif %}
