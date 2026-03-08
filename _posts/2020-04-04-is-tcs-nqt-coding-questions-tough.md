@@ -10,6 +10,7 @@ reading_time: 100
 author: "Insight Crunch Team"
 ---
 
+{% raw %}
 ## Overview
 
 Tata Consultancy Services conducts the National Qualifier Test (NQT) that is taken by hundreds of thousands of candidates every year. The TCS NQT exam is the gateway to get recruited in one of the many distinguished profiles in TCS. Based on your background and skill set you then get allocated to a project. As you keep learning, you can also switch between different profiles based on how you perform and the existing demand. However succeeding in the TCS NQT exam requires rigorous practice.
@@ -6535,3 +6536,4 @@ int main()
 [s2If !current_user_can(access_s2member_level1)]
 
 [/s2If]
+{% endraw %}
