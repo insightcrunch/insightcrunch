@@ -61,7 +61,7 @@ article {
   <header class="post-header">
     {% assign cat = page.categories | first | downcase %}
     <div class="post-r1">
-      <a href="{{ '/categories/' | append: cat | relative_url }}" class="tag tag-{{ cat }}">{{ page.categories | first }}</a>
+      <a href="{{ '/categories/' | append: cat | append: '/' | relative_url }}" class="tag tag-{{ cat }}">{{ page.categories | first }}</a>
     </div>
     <h1>{{ page.title }}</h1>
     <div class="post-meta">
@@ -71,8 +71,21 @@ article {
     </div>
   </header>
 
+  {% capture asset_base %}{{ '/assets/' | relative_url }}{% endcapture %}
+  {% capture asset_src_prefix %}src="{{ asset_base }}{% endcapture %}
+  {% capture asset_href_prefix %}href="{{ asset_base }}{% endcapture %}
+  {% capture asset_poster_prefix %}poster="{{ asset_base }}{% endcapture %}
+  {% capture asset_content_prefix %}content="{{ asset_base }}{% endcapture %}
+  {% capture asset_srcset_prefix %}srcset="{{ asset_base }}{% endcapture %}
+  {% assign fixed_content = content
+    | replace: 'src="/assets/', asset_src_prefix
+    | replace: 'href="/assets/', asset_href_prefix
+    | replace: 'poster="/assets/', asset_poster_prefix
+    | replace: 'content="/assets/', asset_content_prefix
+    | replace: 'srcset="/assets/', asset_srcset_prefix
+  %}
   <div class="post-content">
-    {{ content }}
+    {{ fixed_content }}
   </div>
 
   {% if page.tags.size > 0 %}
