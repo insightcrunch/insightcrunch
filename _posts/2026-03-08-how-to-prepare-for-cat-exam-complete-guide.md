@@ -64,13 +64,6 @@ Then comes the selection funnel. CAT score is the entry lever, not the entire ma
 > **Percentile Context Box 1**  
 > Recent score-to-percentile mappings show why CAT should be treated as a relative exam, not a marks chase. In one recent cycle, around the high-70s to low-80s scaled-score range was associated with roughly 99 percentile territory depending on slot and source estimates, while mid-50s to high-50s could already move candidates into the 90-plus zone. The lesson is simple: you do not need to conquer the whole paper. You need to outperform the field with disciplined selection and accuracy.
 
-### **Visual element suggestion**
-A funnel diagram works beautifully here:
-
-`CAT registration -> Exam attempt -> Raw score -> Normalization -> Percentile -> Sectional and overall cutoffs -> WAT/AWT and PI -> Composite score -> Final convert`
-
-This single visual can instantly fix one of the biggest misconceptions among aspirants, namely that CAT percentile alone determines admission.
-
 ## **3. Self-Assessment: Building Your Preparation Foundation**
 
 Aspirants often want a plan before they want a mirror. That is human, but it is a mistake. The first serious act of preparation is not buying books or joining a batch. It is locating yourself honestly.
@@ -248,13 +241,6 @@ This is often best solved not by isolating the odd sentence first, but by groupi
 | Month 5 | Sectional timing, attempt strategy, difficult passage exposure |
 | Month 6 | Mock integration, trend correction, advanced review |
 
-### **Visual element suggestion**
-A simple flowchart can clarify VARC decision-making:
-
-`Read passage -> Mark core thesis -> Note paragraph roles -> Attempt direct questions first -> Handle inference questions -> Recheck extreme options -> Move on`
-
-This turns VARC from an emotional section into a process section.
-
 > **Expert Tip**  
 > In VARC, do not try to win arguments with the passage. Submit to its logic first. The question is not whether you agree. The question is whether you understood.
 
@@ -367,9 +353,6 @@ Attempt four to five sets in one sitting, forcing set selection under fatigue.
 
 #### **Stage 4: Full exam simulation**
 Practice DILR inside full mocks so the section is experienced with real stakes and emotional carryover.
-
-### **Visual element suggestion**
-A quadrant matrix can work beautifully:
 
 | | Easy to Model | Hard to Model |
 |---|---|---|
@@ -552,15 +535,6 @@ Confidence in QA grows less through inspiration and more through repeated compet
 > **Myth:** Non-engineers are automatically disadvantaged beyond recovery.  
 > **Reality:** A disciplined, topic-prioritized plan can narrow the gap sharply, especially because CAT rewards selection and efficiency, not just breadth.
 
-### **Visual element suggestion**
-A tiered QA priority pyramid is ideal:
-
-`Tier 1: Arithmetic and Algebra`  
-`Tier 2: Geometry and Number Systems`  
-`Tier 3: Modern Math, PnC, Probability`
-
-This helps aspirants focus their limited time intelligently.
-
 > **Expert Tip**  
 > QA improves fastest when every wrong answer is tagged. Was it concept, arithmetic, interpretation, or impatience? Without that diagnosis, repetition becomes noise.
 
@@ -667,13 +641,6 @@ A platform like [CAT Previous Year Question Papers on ReportMedic](https://repor
 
 > **Percentile Context Box 3**  
 > A score jump from the low 90s percentile to the high 90s percentile often does not come from learning an entirely new syllabus. It often comes from better mock analysis, better set selection, fewer unforced errors, and calmer decision-making under the same syllabus.
-
-### **Visual element suggestion**
-A circular cycle diagram works well:
-
-`Mock attempt -> Post-mock analysis -> Error log -> Targeted drills -> Sectional repair -> Next mock`
-
-This designer-friendly loop is one of the clearest teaching visuals in any CAT article.
 
 > **Expert Tip**  
 > Never ask only, how much did I score? Ask, how did I produce that score, and can that process survive exam day?
@@ -870,12 +837,6 @@ Plateaus become dangerous only when they trigger chaotic resource changes.
 > **Myth:** Late starters should try to study everything.  
 > **Reality:** Late starters win by prioritizing ruthlessly and executing well.
 
-### **Visual element suggestion**
-A phased timeline graphic can work beautifully with four bands:
-`Foundation -> Practice -> Mocks -> Final revision`
-
-This instantly clarifies the most important preparation truth: phases require different behaviors.
-
 ## **10. Resources and Material Selection**
 
 One of the quiet enemies of CAT preparation is resource hoarding. Aspirants accumulate books, PDFs, courses, Telegram folders, sheets, and playlists until the preparation system resembles a warehouse rather than a working desk. This creates the illusion of seriousness while reducing actual depth.
@@ -1009,18 +970,6 @@ The right mindset is neither shame nor entitlement. It is reframing. You are not
 > **Pull Quote**  
 > CAT does not ask for certainty. It asks for disciplined recovery. The student who resets faster often outperforms the student who merely starts stronger.
 
-### **Visual element suggestion**
-A three-column mental framework graphic could work well:
-
-| Stress Trigger | Unhelpful Reaction | Better Response |
-|---|---|---|
-| Low mock score | Panic and resource hopping | Analyze error categories |
-| Peer comparison | Self-doubt spiral | Return to personal trendline |
-| Tough section | Attachment and time loss | Skip, reset, re-enter |
-| Bad streak | Identity collapse | Process audit and recovery |
-
-This is practical, memorable, and visually clean.
-
 ## **12. Beyond CAT: The Bigger Picture**
 
 CAT matters enormously, but it is not the whole admissions season. Serious aspirants think in parallel lanes.
@@ -1090,27 +1039,6 @@ This is where a focused practice flow through [ReportMedic’s CAT Previous Year
 | Non-engineers are doomed in QA | Strong prioritization and steady practice can create excellent outcomes |
 | More resources mean better preparation | Focused repetition of the right resources is far more effective |
 | Mocks are only for the final stage | Mocks are a core training tool and should begin earlier than most students think |
-
-## **Appendix: Designer-Friendly Elements Summary**
-
-If this article is ever turned into a richer visual web page, these are the easiest high-value visual elements to build:
-
-1. **Selection Funnel Graphic**  
-   `CAT -> Percentile -> Shortlist -> WAT/PI -> Composite Score -> Convert`
-
-2. **VARC Process Flow**  
-   `Passage thesis -> Structure -> Tone -> Options -> Elimination`
-
-3. **DILR Set Selection Matrix**  
-   `Easy-to-model / Hard-to-model` against `High payoff / Low payoff`
-
-4. **QA Priority Pyramid**  
-   `Arithmetic and Algebra` at the base, then `Geometry and Number Systems`, then `Modern Math / PnC / Probability`
-
-5. **Mock Cycle Wheel**  
-   `Take -> Analyze -> Log -> Repair -> Re-test`
-
-These visuals do not decorate the article. They clarify it.
 
 ## **Final Strategic Reminder**
 
