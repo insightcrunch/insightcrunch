@@ -22,7 +22,7 @@ The margin of Tata Consultancy Services was 23.1%. EBIT is defined as Earnings b
 
 Read more: [TCS ITIS Frequently Asked Questions »](https://insightcrunch.com/2012/02/24/tcs-itis-and-itis-frequently-asked-questions/)
 
-![Recession TCS Infosys Accenture Wipro IBM Google Microsoft Amazon Meta Facebook Hiring Freshers Job Placement Offcampus Campus Onsite](https://insightcrunch.com/wp-content/uploads/2022/06/pexels-photo-8482518.jpeg)
+![Recession TCS Infosys Accenture Wipro IBM Google Microsoft Amazon Meta Facebook Hiring Freshers Job Placement Offcampus Campus Onsite](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Recession Analysis
 
 ## TCS Recession Impact

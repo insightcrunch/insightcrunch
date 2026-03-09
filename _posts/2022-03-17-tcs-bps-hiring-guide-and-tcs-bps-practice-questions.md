@@ -26,7 +26,7 @@ Before getting into the eligibility, take a moment to find the **TCS BPS Hiring 
 
 TCS considers only full-time courses for TCS BPS. Part-time courses will not be considered. TCS however mentions in their site that if you have completed your Secondary (Class X) or Higher Secondary (Class XII) course from National Institute of Open Schooling (NIOS), you would be considered. If you have a work experience of up to 3 months then you are eligible to apply for the TCS BPS hiring drive. Your age should be at least 18 and no more than 28 to be eligible for TCS BPS. Eligible courses and disciplines include full-time Arts, Commerce, and Science graduates from B.A., B.B.A., B.Com., B.A.F., B.B.I., B.B.M., B.M.S., B.Sc.-IT/CS/General, B.C.A., B.C.S., B.Pharm., and M.Pharm. You need to have completed these studies from any recognized university or college.
 
-![TCS BPS Hiring Guide](https://insightcrunch.com/wp-content/uploads/2022/03/pexels-photo-6913217.jpeg)
+![TCS BPS Hiring Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS BPS Hiring Guide
 
 ## TCS BPS Exam Questions

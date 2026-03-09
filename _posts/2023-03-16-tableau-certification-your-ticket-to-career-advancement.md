@@ -14,7 +14,7 @@ Much like the characters in Hemingway's stories who venture into the unknown to 
 
 Read more: [From Novice to Certified Pro: Your Tableau Journey »](https://insightcrunch.com/2023/02/16/from-novice-to-certified-pro-your-tableau-journey/)
 
-![Tableau Certification: Your Ticket to Career Advancement](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-6578395.jpeg)
+![Tableau Certification: Your Ticket to Career Advancement](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Certification: Your Ticket to Career Advancement
 
 ## **1. Elevating Your Skillset**

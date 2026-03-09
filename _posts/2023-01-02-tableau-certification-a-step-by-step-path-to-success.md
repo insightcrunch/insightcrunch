@@ -18,7 +18,7 @@ Keep Reading: [Amazon Leadership Principles »](https://insightcrunch.com/2022/1
 
 Tableau certification serves as a testament to your proficiency in using the tool for data visualization and analysis. It's a recognition of your skills by Tableau, and it can significantly enhance your credibility in the field of data analytics.
 
-![Tableau Certification: A Step-by-Step Path to Success](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-4173356.jpeg)
+![Tableau Certification: A Step-by-Step Path to Success](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Certification: A Step-by-Step Path to Success
 
 ## Setting Your Course: Step-by-Step Roadmap

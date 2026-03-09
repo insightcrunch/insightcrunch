@@ -22,7 +22,7 @@ As I have said before, it is advisable to include the extra-curricular details b
 
 For that reason, having a good resume for your Amazon job application is an important first step to proceed to apply to your dream Amazon job. One of the top Amazon jobs that candidates should consider right now is that of the Learning Specialist with the average salary of about 90,000 United States dollar per year. The job summary of the learning specialist at Amazon is pretty detailed and is responsible for the development of the employees. In particular, the learning specialist role at Amazon is focused on the execution and analysts of the different types of learning programs that Amazon has within the organization. In particular, the learning specialist job application requires a resume that clearly shows our growth in training and learning management over the last few years in your career.
 
-![Which job is best in Amazon](https://insightcrunch.com/wp-content/uploads/2022/10/pexels-photo-7888758.jpeg)
+![Which job is best in Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Which job is best in Amazon
 
 ## Amazon Technical Writer and Software Engineer Job

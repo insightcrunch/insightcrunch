@@ -18,7 +18,7 @@ Keep Reading: [Demystifying Tableau Certification: Your Questions Answered »](h
 
 Tableau certification is a testament to your expertise in wielding the power of data visualization and analysis. It elevates your credibility and widens your scope within the dynamic world of data analytics.
 
-![Mastering Tableau: Tips and Tricks for Certification Success](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-5256817.jpeg)
+![Mastering Tableau: Tips and Tricks for Certification Success](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Mastering Tableau: Tips and Tricks for Certification Success
 
 ## The Journey Begins: Mastering Tableau's Complexities

@@ -24,7 +24,7 @@ The first place to start preparing is knowing what you are dealing with. This me
 
 Read more: [What is the Passing Marks of TCS NQT? »](https://insightcrunch.com/2021/05/12/what-is-the-passing-marks-of-tcs-nqt/)
 
-![TCS NQT Syllabus Eligibility Ninja Digital Registration Results Exam Salary Preparation Package Questions Freshers](https://insightcrunch.com/wp-content/uploads/2021/11/pexels-photo-6002000.jpeg)
+![TCS NQT Syllabus Eligibility Ninja Digital Registration Results Exam Salary Preparation Package Questions Freshers](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Syllabus
 
 ## TCS NQT Foundation Section

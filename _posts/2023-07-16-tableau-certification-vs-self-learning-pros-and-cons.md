@@ -14,7 +14,7 @@ In the vein of Hemingway's protagonists who often find themselves at crossroads,
 
 Read more: [The Road to Tableau Certification: Setting Goals and Achieving Them »](https://insightcrunch.com/2023/06/16/the-road-to-tableau-certification-setting-goals-and-achieving-them/)
 
-![Tableau Certification vs. Self-Learning: Pros and Cons](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-17767239.jpeg)
+![Tableau Certification vs. Self-Learning: Pros and Cons](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Certification vs. Self-Learning: Pros and Cons
 
 ## **Tableau Certification: The Defined Path**

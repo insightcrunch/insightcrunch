@@ -14,7 +14,7 @@ In the vein of Hemingway's protagonists who embark on life-changing journeys, yo
 
 Read more: [Tableau Certification: Boost Your Data Visualization Skills »](https://insightcrunch.com/2023/05/16/tableau-certification-boost-your-data-visualization-skills/)
 
-![The Road to Tableau Certification: Setting Goals and Achieving Them](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-6347719.jpeg)
+![The Road to Tableau Certification: Setting Goals and Achieving Them](/assets/images/technology-industry-analysis-insightcrunch.webp)
 The Road to Tableau Certification: Setting Goals and Achieving Them
 
 ## **1. Setting Clear Goals**

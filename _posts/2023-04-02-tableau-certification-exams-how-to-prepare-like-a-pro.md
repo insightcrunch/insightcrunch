@@ -18,7 +18,7 @@ Read more: [The Ultimate Guide to Tableau Certification: Everything You Need to 
 
 Tableau certification validates your command over data visualization, dashboard creation, and analysis. It serves as a tangible testament to your expertise and opens doors to new opportunities in the realm of data analytics.
 
-![Tableau Certification Exams: How to Prepare Like a Pro](https://insightcrunch.com/wp-content/uploads/2023/04/pexels-photo-6146970.jpeg)
+![Tableau Certification Exams: How to Prepare Like a Pro](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Certification Exams: How to Prepare Like a Pro
 
 ## Crafting Your Strategy: Techniques to Prepare Like a Pro

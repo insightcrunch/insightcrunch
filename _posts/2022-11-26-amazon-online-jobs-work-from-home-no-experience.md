@@ -26,7 +26,7 @@ Keep reading: [TCS NQT 2023 »](https://insightcrunch.com/2022/12/16/tcs-nqt-202
 
 Another fact that confused the employees during this message was that extra minutes for hand washing was added which was apparently already in effect for the last four to five months. The extra time of for hand washing was one of the most controversial decisions which employees readily cherished. But the fact was many of the employees were never aware of this policy change that was so helpful to them until they saw that noticeboard. Amazon was particularly known for tracking its employees constantly and penalizing them for taking time offs. Hence, the few extra minutes that employees could take a break and relax was very much welcomed by the employees at Amazon.
 
-![Amazon online jobs work from home no experience](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-5198240.jpeg)
+![Amazon online jobs work from home no experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon online jobs work from home no experience
 
 ## Amazon Work-Life Balance

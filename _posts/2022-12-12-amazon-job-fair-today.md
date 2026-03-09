@@ -26,7 +26,7 @@ Keep reading: [How much does Amazon pay to work from home? »](https://insightcr
 
 Amazon emphasizes on the Diversity, Equity, and Inclusion values that it holds so close to their work culture. Employees who have worked at Amazon share their experiences of the inclusive culture that they have experienced at Amazon. They have shared that some of the things that drew them to Amazon and keep them working there was that they were inspired tremendously and were focused relentlessly on different types of issues that affected their customers and their colleagues. The fundamental beliefs of Amazon include diversity, equity, and inclusion. The treatment of black people, Amazon has repeatedly mentioned, was inequitable and unacceptable. Amazon also highlights that the rights of LGBTQ+ people must always be protected, and they always support the rights of immigration reforms and any immigrants who are working in an honest way. 
 
-![Amazon job fair today](https://insightcrunch.com/wp-content/uploads/2022/12/pexels-photo-1708936.jpeg)
+![Amazon job fair today](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon job fair today
 
 ## Amazon Vision on Inclusivity and Diversity

@@ -16,7 +16,7 @@ Happiness, that elusive emotion we all seek, can often be found in the little th
 
 Keep Reading: [Gastronomic Grandeur: Exploring High-Cost Dining Experiences in Chicago »](https://insightcrunch.com/2023/08/09/gastronomic-grandeur-exploring-high-cost-dining-experiences-in-chicago/)
 
-![](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-1263986-1024x682.jpg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 In this article, we explore 30 simple pleasures that have the power to uplift our spirits and bring a smile to our faces.
 

@@ -14,7 +14,7 @@ Tableau, a powerful data visualization tool, has revolutionized the way we analy
 
 Read more: [Top Resources for Tableau Certification Preparation »](https://insightcrunch.com/2023/01/09/top-resources-for-tableau-certification-preparation/)
 
-![Tableau Tips and Shortcuts Every User Should Know](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-17564997.jpeg)
+![Tableau Tips and Shortcuts Every User Should Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Tips and Shortcuts Every User Should Know
 
 ## **1. Quick Data Connection**

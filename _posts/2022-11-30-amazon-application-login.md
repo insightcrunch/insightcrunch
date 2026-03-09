@@ -24,7 +24,7 @@ Being a fresher it is often considered that you are completely new to the field.
 
 Some of the top certifications which are available to freshers are the Amazon Web Services certified cloud practitioner and Amazon Web Services certified Cloud Solutions Architect Associate the Amazon Web Services certified cloud practitioner certification is one of the most fundamental and popular certifications in Amazon Web Services field. With this Amazon Web Services certified cloud practitioner certification one can expect to get an overview of the entire cloud computing landscape and what Amazon Web Services actually can do. The certification on Amazon Web Services Certified Solutions Architect FCM is one of the most demanded and popular complex certification exams and is considered valuable in the cloud computing industry. 
 
-![Amazon application login](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-5648376.jpeg)
+![Amazon application login](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon application login
 
 ## Amazon Solution Architect Opportunities

@@ -22,7 +22,7 @@ The movie Black Panther: Wakanda Forever is due Novemeber 2022. The character of
 
 Keep reading: [Kyndryl Stock Price »](https://insightcrunch.com/2022/09/06/kyndryl-stock-price/)
 
-![Black Panther 2 Wakanda Forever casts Namor as main villain](https://insightcrunch.com/wp-content/uploads/2022/09/D973BE2E-70BA-4706-8672-002FAB5B428B.webp)
+![Black Panther 2 Wakanda Forever casts Namor as main villain](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Black Panther 2 Wakanda Forever casts Namor as main villain
 
 ## Black Panther: Wakanda Forever Cast

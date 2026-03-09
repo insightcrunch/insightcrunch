@@ -24,7 +24,7 @@ Practice the Tableau Data Analyst Certification practice exams above to get a co
 
 Tableau also offers official exam readiness course, which is extremely expensive. But you can also pass the Tableau Data Analyst Certification exam without taking the Tableau course. You can score well with a lot of cheaper course and practice exams like the one provided above, and which also provides you practice exams along with the learning materials. It is important to understand that many of the old courses in Udemy and other places were for the earlier format of the Tableau Associate exam, and it was for a different syllabus. However, there has been significant changes to the questions and the content, which you should pay close attention to like we did with the practice exams here. 
 
-![Tableau Data Analyst Certification Review](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-3183153.jpeg)
+![Tableau Data Analyst Certification Review](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Data Analyst Certification Review
 
 ## Tableau Data Analyst Certification Preparation

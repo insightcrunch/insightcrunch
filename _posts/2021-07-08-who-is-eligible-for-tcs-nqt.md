@@ -16,7 +16,7 @@ Tata Consultancy Services National Qualifier Test (TCS NQT) is one of the most p
 
 Keep reading: [TCS NQT Coding Questions »](https://insightcrunch.com/2019/07/24/tcs-nqt-coding-questions/)
 
-![Who is eligible for TCS NQT Eligibility Hiring Prepare Study Materials](https://insightcrunch.com/wp-content/uploads/2021/07/pexels-photo-6238175.jpeg)
+![Who is eligible for TCS NQT Eligibility Hiring Prepare Study Materials](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Who is eligible for TCS NQT
 
 ## TCS NQT Eligibility

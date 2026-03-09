@@ -30,7 +30,7 @@ Tableau offers a structured certification program that validates individuals' ex
 
 - **Tableau Desktop Certified Professional:** The pinnacle of Tableau certification, this track is for individuals who can leverage Tableau Desktop and Tableau Server to design complex enterprise-level solutions.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-6476255.jpeg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 The Ultimate Guide to Tableau Certification: Everything You Need to Know
 
 ## Benefits of Tableau Certification
@@ -63,33 +63,33 @@ The road to Tableau certification requires diligent preparation and commitment. 
 
 Familiarize yourself with the exam blueprint and syllabus for the certification track you are pursuing. The blueprint outlines the topics and skills that will be tested, serving as a roadmap for your preparation.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2022/11/17FAD79B-C93F-479E-8361-16A5FD56ACFA-1024x699.jpg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ### 2. **Leverage Tableau Resources:**
 
 Tableau provides a wealth of official resources, including documentation, whitepapers, and webinars. Take advantage of these resources to enhance your knowledge of Tableau's features and functionalities.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2022/11/FAAE293D-A123-4B2A-ADDC-D710A4CC0EC5-1024x669.jpg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ### 3. **Practice with Real Data:**
 
 Hands-on experience is crucial for Tableau certification. Practice creating various dashboards and visualizations with real datasets to strengthen your skills.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2022/11/0D46896D-BC85-402D-B40F-9B094DAEA52F-1024x943.jpg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ### 4. **Explore Sample Questions:**
 
 Tableau offers sample questions for each certification track. Attempting these questions gives you an idea of the exam's format and difficulty level.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2022/11/73F593B5-9641-4529-B613-9DD910CEFB58-1024x757.jpg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ### 5. **Join Tableau Community:**
 
 Engage with the Tableau community through forums, user groups, and social media platforms. Collaborating with other Tableau enthusiasts can provide valuable insights and support.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2022/11/B88C11BE-7E47-45E9-8B70-5AF68ECE2AC7-1024x658.jpg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](https://insightcrunch.com/wp-content/uploads/2022/11/DBE653DC-34E0-4368-A269-9D637A764B4C-1024x441.jpg)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ## The Tableau Certification Exam
 

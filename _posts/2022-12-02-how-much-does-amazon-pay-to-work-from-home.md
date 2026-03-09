@@ -24,7 +24,7 @@ The Amazon Texas employees get paid via direct deposit and the company also offe
 
 However, Amazon understands that empowering the employees is one of the best things that it can do to accelerate ahead, and hence it invests in its employees learning and career aspirations and provides them with these benefits for learning. The employees who are working at Amazon's technical hubs in Texas are also getting the opportunity to participate in different types of mentorship programs. They get funding for pursuing their educational and professional development and improvement courses. All the employees of Amazon who are in Texas get access to the free onsite gym and medical care center in the Amazon corporate offices. Amazon is one of the major players in the state of Texas, and due to this it has made a huge amount of investments in this state.
 
-![How much does Amazon pay to work from home](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-7241616.jpeg)
+![How much does Amazon pay to work from home](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How much does Amazon pay to work from home
 
 ## Amazon Growth in Texas and Florida

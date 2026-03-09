@@ -14,7 +14,7 @@ In the world of data-driven decision-making, Tableau certification serves as a b
 
 Read more: [Choosing the Right Tableau Certification Path for Your Career »](https://insightcrunch.com/2023/06/02/choosing-the-right-tableau-certification-path-for-your-career/)
 
-![Cracking the Code: Strategies for Passing Tableau Certification](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-4050290.jpeg)
+![Cracking the Code: Strategies for Passing Tableau Certification](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Cracking the Code: Strategies for Passing Tableau Certification
 
 ## **1. Know Your Certification Inside Out**

@@ -20,7 +20,7 @@ I wanted to share some insights into a TCS ITIS PRA questions and answers PDF th
 
 Read more: [TCS ITIS Detailed Analysis »](https://insightcrunch.com/2011/07/28/tcs-itis-detailed-analysis/)
 
-![TCS ITIS PRA Questions and Answers](https://insightcrunch.com/wp-content/uploads/2021/09/pexels-photo-937481.jpeg)
+![TCS ITIS PRA Questions and Answers](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ITIS PRA Questions and Answers
 
 ## TCS ITIS PRA Exam Pattern

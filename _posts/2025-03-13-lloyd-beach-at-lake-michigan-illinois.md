@@ -10,4 +10,4 @@ reading_time: 1
 author: "Insight Crunch Team"
 ---
 
-![](https://insightcrunch.com/wp-content/uploads/2025/03/img_5064-1024x768.jpg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)

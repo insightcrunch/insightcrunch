@@ -26,7 +26,7 @@ https://youtu.be/4tQYm33aIEU
 
 The number of active users in Meta continues to decline. Faced by intense scrutiny for selling user data to advertisers and analytical firms, Facebook had lost the ethical battle to keep user’s trust. People today post less in Facebook than they used to do 5 years back. Lesser posting means lesser content for users to consume. This is directly affecting the core of Meta’s business model. Without user content, their business model vaporizes into thin air. Analytics show new users are preferring platforms like TikTok over Meta products. The creepiness of the advertisements and suggested posts by Meta algorithms is too intense for humans. No one wants to see the advertisement for a bug spray all over their feed minutes after they were talking to their neighbor over some infestation. How Meta captures these user data from our voices even without us searching on the internet is a cause of intense privacy concern for many today.
 
-![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/itoFzI4ejO.I/v4/pidjEfPlU1QWZop3vfGKsrX.ke8XuWirGYh1PKgEw44kE/1014x-1.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ## Meta looking at Reels as last resort
 
@@ -38,7 +38,7 @@ https://twitter.com/60Minutes/status/1444810160921354240?s=20&t=8GsIfU1BCLxAM_Ah
 
 Meta will prioritize increasing its revenue from Facebook Reels by selling advertisements now. This highlights the reality that if a product is free, you are the end product. TikTok will undoubtedly come out as a winner again because the Facebook Ad algorithms are extremely poor and keep showing irrelevant advertisement. It is highly uncertain how far the content discovery infrastructure of Meta will improve it’s user experience. With poor experience will come poor financial profitability and in turn result in more employee performance management pressure.
 
-![Meta Hiring Freeze Facebook Data Privacy Poor Performance Stock Employee Management](https://insightcrunch.com/wp-content/uploads/2022/04/pexels-photo-5426402.jpeg)
+![Meta Hiring Freeze Facebook Data Privacy Poor Performance Stock Employee Management](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta Hiring Freeze fueled by dismal Facebook growth
 
 There is a certain line of user acceptance and algorithmic user feed generation that Facebook does not seem to realize. Just because something can be done using expert computer engineers and state of the art technologies does not mean it has to be done. A dedicated team of ethics and social impact should approve any such changes to the app and algorithm before rolling them out to the broader public. Facebook Reels continue to be a major part of the content discovery engine for Meta, but only time will tell how much user will love it more than what drove them away from Facebook in the first place. Cambria also helps sustain Meta in the mixed-reality segment.

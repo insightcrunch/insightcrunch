@@ -24,7 +24,7 @@ The first method of payment for Amazon work from home employees as well as other
 
 The rest of the wage that is remaining 30% of the earnings will be on the scheduled pay date of the employee Weekly is another form of Amazon payment process and the majority of the Amazon employees prefer the weekly payment system in Amazon. Direct deposit is provided to the registered bank accounts of employees on a weekly basis in this form of payment. The payment is made out to the Amazon employees every Friday based on the bank that is used by the Amazon employees there might be a waiting period of one or two days for the salary to reflect in the bank account. Also, many employees opt to get paid weekly for up to eight weeks and then they can change the schedule. bi weekly is another form of payment that is also available and these chosen by Amazon employees. 
 
-![Does Amazon work from home pay weekly](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-5973928.jpeg)
+![Does Amazon work from home pay weekly](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Does Amazon work from home pay weekly
 
 ## Amazon Badges and Payment Methods

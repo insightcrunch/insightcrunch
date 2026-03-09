@@ -26,7 +26,7 @@ Keep reading: [How much does Amazon pay for work from home? »](https://insightc
 
 Amazon has also emphasized that the type of task policies is mainly to make sure that all machines are working fine and are 30 minutes or more gap in the time of task usually means that the systems are not working and the employee needs help. The time of tax policy has been highlighted by Amazon as not one of the means to identify underperforming employees so that they can be fired for financial gains. Amazon also highlighted that this is one of the very common policies that is found in a number of logistics and manufacturing facilities even beyond Amazon. Amazon has also learned that as per the new policy changes They will be using the average of the time of task of individual employees over an extended period of time. 
 
-![people sitting at the table](https://insightcrunch.com/wp-content/uploads/2022/12/pexels-photo-6476256.jpeg)
+![people sitting at the table](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How do I log into my Amazon employee account
 
 ## Amazon Employee Policy

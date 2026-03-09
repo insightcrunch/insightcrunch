@@ -24,7 +24,7 @@ You remember that time as an interviewer is always focused on learning more abou
 
 Every leadership principle has A particular diverse side, which is often tested by the questions that them as an interviewer asks you as a hiring manager, a particular question that I have often come across where candidates are evaluated on their personalities by the Question and Answer quality. The hiring managers and interviewers will very closely evaluate your responses which you give against particular benchmark and a bar that is set for that particular role that you have applied for. interviewers will be voting to hire you if you are able to convince them with your answers and behaviors. Which you demonstrate during the various answers of the interview. If during the interview, you are put above the 50% of the existing Amazon employees, then you have a good chance of qualifying for that job role. 
 
-![a woman standing while drinking on white ceramic mug](https://insightcrunch.com/wp-content/uploads/2022/12/pexels-photo-8546816.jpeg)
+![a woman standing while drinking on white ceramic mug](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon work from home 30 an hour
 
 ## Amazon Interview Process

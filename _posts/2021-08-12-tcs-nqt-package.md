@@ -16,7 +16,7 @@ The Tata Consultancy Services NQT exam is one of the most popular exams today. T
 
 Keep reading: [How do I check my TCS NQT Score? »](https://insightcrunch.com/2019/11/08/how-do-i-check-my-tcs-nqt-score/)
 
-![TCS NQT Package](https://insightcrunch.com/wp-content/uploads/2021/08/pexels-photo-7988208.jpeg)
+![TCS NQT Package](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Package
 
 ## TCS NQT Package

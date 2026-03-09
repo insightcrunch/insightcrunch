@@ -46,7 +46,7 @@ Keep reading: [TCS NQT Package »](https://insightcrunch.com/2021/08/12/tcs-nqt-
 
 Have you been working for more than 2 years and still looking to join TCS? Well, maybe TCS NQT is not the right fit for you. But there are many other profiles available for you to explore and be a part of TCS. Tata Consultancy Services provides services in such a vast category of domains, it needs personnel of a variety of skill sets across different business units. The requirements vary based on the client needs, starting from technical skillset, leadership skillset, to non-technical skill sets. There are certain policies where ex-TCSers may face difficulty rejoining TCS except special scenarios. But if you are looking forward to joining TCS for the first time then there is a variety of roles and opportunities that you can explore where you might be a good fit. Check out the articles above, comment below, or ask me about how you can apply for a career in TCS.
 
-![TCS NQT Eligibility Exam date salary syllabus registration preparation package result freshers questions ion percentage](https://insightcrunch.com/wp-content/uploads/2021/12/pexels-photo-4492126.jpeg)
+![TCS NQT Eligibility Exam date salary syllabus registration preparation package result freshers questions ion percentage](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Eligibility
 
 ## Preparing for TCS NQT

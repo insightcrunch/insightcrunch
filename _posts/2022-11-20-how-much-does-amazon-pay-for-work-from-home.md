@@ -24,7 +24,7 @@ Amazon also provides multiple employee benefits due to which working at Amazon i
 
 There are different jobs of program manager, software developers, cloud developers, product designers, and operation managers who often make close to $160,000 per year. There are a variety of eligibility requirements to work at Amazon because Amazon only hires some top skilled resources in the world. The interview process of candidates who want to apply at Amazon is lengthy and exhaustive. There are various rounds to cover in the interview, and you need to succeed and prepare for each of them. Subscribe above and practice the interview questions provided here to learn about what types of questions that you can expect in the actual Amazon interview exams. You will also be evaluated based on your education level and age criteria. 
 
-![How much does Amazon pay for work from home](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-5749142.jpeg)
+![How much does Amazon pay for work from home](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How much does Amazon pay for work from home
 
 ## Amazon Skill Requirements

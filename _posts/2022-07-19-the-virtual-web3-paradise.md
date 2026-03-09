@@ -20,7 +20,7 @@ The crypto landscape is however not too user-friendly. This puts the average use
 
 As much as Web3 dreamers might shun the crypto casino, the fact remains that crypto currency – money – is the sole driving force of what everyone is trying to build. Here’s where the concepts of game theory comes in, along with the higher tenets of Web 3. This is also where Web 3 movement breaks with the economic innocence of the past waves of internet utopianism. Web 3 apps even give them a say in how the platforms are run with sort of a governance power over the platform. With tokenomics, the business model of nearly every Web 3 proposed Web 3 platform entails distributing tokens to everyone involved, and thus incentivizing them to use and improve the platform. Web 3’s approach to financial incentives is an ingenious way of solving new technology’s adoption problem.
 
-![Embracing Web 3.0](https://insightcrunch.com/wp-content/uploads/2022/07/pexels-photo-5380655.jpeg)
+![Embracing Web 3.0](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Embracing Web 3.0  
   
 Rahul is a fellow Earthian skilled in various aspects of data analytics and trail exploration. With years of consulting and leadership experience, he helps global enterprises unlock value and generate growth from their business applications. Rahul likes to read, talk and write about digital innovations, business trends, next-gen technology and it's impact on human behavior, organizational excellence and sports.  

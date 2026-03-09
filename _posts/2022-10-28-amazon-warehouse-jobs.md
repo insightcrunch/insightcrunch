@@ -24,7 +24,7 @@ The roles and responsibilities for a warehouse associate at Amazon fulfillment c
 
 Another type of job for a warehouse associate is that of a grocery warehouse Amazon associate. As a grocery warehouse associate, the candidate will be part of the Amazon grocery team, which supports one of Amazon's busiest services. The online grocery orders the candidate will be working in an Amazon grocery warehouse is not like any of the other big buildings of Amazon. Instead, it is similar to a grocery store. Amazon offers their customers all the grocery items from cereal to ice cream to fresh flowers. Hence, the grocery warehouse associate will be helping prepare orders for customers in a variety of different environments. The environments include chilled environments like refrigerated and freezer spaces to store cold items. 
 
-![Amazon Warehouse Jobs](https://insightcrunch.com/wp-content/uploads/2012/06/pexels-photo-6169668.jpeg)
+![Amazon Warehouse Jobs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon Warehouse Jobs
 
 ## Amazon Grocery Warehouse Associates

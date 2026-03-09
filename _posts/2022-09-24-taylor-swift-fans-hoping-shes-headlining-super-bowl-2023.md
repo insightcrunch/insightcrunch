@@ -19,7 +19,7 @@ Taylor Swift has an upcoming album called Midnights next month. This means there
 
 Read more: [Killers of the Flower Moon Movie Review »](https://insightcrunch.com/2022/09/22/killers-of-the-flower-moon/)
 
-![](https://insightcrunch.com/wp-content/uploads/2022/09/9ACD5C74-02C2-42E3-9C4A-A8351774EF91-1024x635.webp)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Taylor Swift in Super Bowl
 
 The headlines have got Taylor Swift fans excited as they anticipate another excellent performance from their favorite star.

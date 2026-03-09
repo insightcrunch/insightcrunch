@@ -24,7 +24,7 @@ Amazon Web Services Solution Architect Professionals should be able to plan thei
 
 Amazon is one of the largest leaders in the cloud computing space with a variety of corporations in different domains which are adopting its cloud business. The field of Amazon Web Services is only expected to grow much larger in the future. Due to a wide adoption of Amazon Web Services by the corporations today, it is expected that there will be a huge demand of Amazon Web Services professionals in the near future. Active learning and research are some of the key skills that is expected from an Amazon Web Services Solution Architect. There are different certifications as well which are provided by Amazon to its professionals. One of the first certifications that is provided by Amazon is that of the AWS Certified Solutions Architect. 
 
-![Amazon jobs login with pin](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-4050444.jpeg)
+![Amazon jobs login with pin](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon jobs login with pin
 
 ## Amazon Web Services Certification

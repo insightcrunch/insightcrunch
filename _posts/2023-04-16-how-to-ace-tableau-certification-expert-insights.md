@@ -14,7 +14,7 @@ Just as Hemingway's characters navigate challenges with determination, aspiring 
 
 Read more: [Tableau Certification: Your Ticket to Career Advancement »](https://insightcrunch.com/2023/03/16/tableau-certification-your-ticket-to-career-advancement/)
 
-![How to Ace Tableau Certification: Expert Insights](https://insightcrunch.com/wp-content/uploads/2023/04/pexels-photo-3182797.jpeg)
+![How to Ace Tableau Certification: Expert Insights](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How to Ace Tableau Certification: Expert Insights
 
 ## **1. Understand the Exam Blueprint**

@@ -22,7 +22,7 @@ The TCS NQT salary varies between 3 lakhs to 11 lakhs per year. For the TCS Ninj
 
 Read more: [What is the syllabus of TCS NQT? »](https://insightcrunch.com/2021/06/24/what-is-the-syllabus-of-tcs-nqt/)
 
-![TCS NQT Salary](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-7984777-1024x682.jpeg)
+![TCS NQT Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Salary
 
 ## Increase your TCS NQT Job Salary

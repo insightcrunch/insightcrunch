@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is taken by hundreds
 
 Keep reading: [TCS NQT Results 2023 »](https://insightcrunch.com/2019/10/18/tcs-nqt-results-2023/)
 
-![What is the passing marks of TCS NQT Cut Off Syllabus Eligibility Registration Coding Practice Questions](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-927451.jpeg)
+![What is the passing marks of TCS NQT Cut Off Syllabus Eligibility Registration Coding Practice Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 What is the passing marks of TCS NQT
 
 ## TCS NQT Cut Off Marks

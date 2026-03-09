@@ -24,7 +24,7 @@ The Amazon data analytics teams and the management were responsible for analyzin
 
 Safety in the work culture was of highest importance. If employees got a sense of job security, then they will be ready to give more than what they're asked for. Amazon wanted to find out if employees were ready to come back in the first place to work. As the situation became better in the economy it was projected that if employees were asked and brought back to work gradually, about 10% of the employees can be projected to be staying at home or ready to lose their job. If Amazon wanted to accelerate, its coming back to office, then many more employees would be ready to resign from their jobs at a faster rate. Amazon wanted to make sure its employees were getting the best benefits and work culture possible. 
 
-![Amazon warehouse near me](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-1267314.jpeg)
+![Amazon warehouse near me](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon warehouse near me
 
 ## Amazon Employee Policies and Leaves

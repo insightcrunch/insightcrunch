@@ -14,7 +14,7 @@ In the realm of literature, Hemingway's characters often face choices that shape
 
 Read more: [Unlocking Your Potential: Benefits of Tableau Certification »](https://insightcrunch.com/2023/05/02/unlocking-your-potential-benefits-of-tableau-certification/)
 
-![Choosing the Right Tableau Certification Path for Your Career](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-3844522.jpeg)
+![Choosing the Right Tableau Certification Path for Your Career](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Choosing the Right Tableau Certification Path for Your Career
 
 ## Unveiling the Spectrum: Understanding Tableau Certification Paths

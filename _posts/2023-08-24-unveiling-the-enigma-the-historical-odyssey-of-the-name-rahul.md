@@ -14,7 +14,7 @@ author: "Insight Crunch Team"
 
 Names hold within them a treasure trove of cultural, linguistic, and historical significance. One such name that has traversed through the annals of time is "Rahul." A name that resonates with millions, it carries a legacy that intertwines with history, mythology, and modernity.
 
-![](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-17941110-683x1024.jpg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ## Ancient Origins and Mythological Roots
 

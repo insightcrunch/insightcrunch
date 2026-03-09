@@ -24,7 +24,7 @@ Mark Zuckerberg also highlighted that it was one of the hardest decisions that h
 
 However, with the difficult economic situation that has started taking shape, it was no longer possible to continue that extremely fast-paced hiring speed. There was also a decline in the growth rate of Meta because there was stiff competition from other social media platforms like Tiktok and Snapchat as well. Along with that, there were many data privacy challenges due to which many users were found to be leaving Meta for other apps. Hence, Meta was forced to pause its hiring for the near term, and also it started laying off people gradually, ultimately leading to one of the largest job cuts in the history of the technology sector and also for the company itself. The layoffs that Meta has been working on were being made across a variety of different teams and geographic regions.
 
-![photo of man wearing gray sweater and track pants leaning on wall](https://insightcrunch.com/wp-content/uploads/2022/12/pexels-photo-829552.jpeg)
+![photo of man wearing gray sweater and track pants leaning on wall](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta departments facing layoffs

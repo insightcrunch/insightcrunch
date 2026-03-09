@@ -14,7 +14,7 @@ Just as Hemingway's narratives resonate with authenticity, Tableau certification
 
 Read more: [How to Ace Tableau Certification: Expert Insights »](https://insightcrunch.com/2023/04/16/how-to-ace-tableau-certification-expert-insights/)
 
-![Tableau Certification: Boost Your Data Visualization Skills](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-5784810.jpeg)
+![Tableau Certification: Boost Your Data Visualization Skills](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tableau Certification: Boost Your Data Visualization Skills
 
 ## **1. Mastering the Art of Visual Storytelling**

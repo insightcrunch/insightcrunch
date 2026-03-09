@@ -22,7 +22,7 @@ The above resources will help you prepare for the Amazon workforce staffing role
 
 There has been various issues that has been raised by the leaked documents at Amazon that casts a deep doubt over the Amazon workforce practices that has been going on. The business leaders at Amazon has a lot of explanation to do to manage this situation. There has been reports that the online retailer had an annual employee turnover rate of over 150%, which is nearly double that of the industry average. In essence, this has costs Amazon and its shareholders nearly $8 billion annually. The material that has been reported showing inside story of Amazon include several internal research papers, slide decks and spreadsheets, which paint a sorry figure of Amazon's inability to retain top employees. The current strategy of Amazon is financially dangerous to how the company is functioning overall.
 
-![Amazon workforce](https://insightcrunch.com/wp-content/uploads/2010/05/pexels-photo-301930.jpeg)
+![Amazon workforce](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon workforce
 
 ## Amazon Turnover Rate

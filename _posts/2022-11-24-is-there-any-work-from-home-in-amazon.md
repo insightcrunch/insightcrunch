@@ -24,7 +24,7 @@ During your job application and creating the profile phases of your hiring Amazo
 
 However, many of the Amazon hiring manager and some interviewers have advised that you should include your resume because it will help to make your candidature more strong for various competitive positions. This is because each position at Amazon has a variety of candidates applying because the employee benefits and salary compensation is extremely high. Due to that, if you are having a truly great resume, then it is advised that you should prepare a resume that highlights all your skill sets that helps you stand apart from the other candidates. But make sure that when you create a good resume, be ready to answer all the questions from it because it is your resume might become the topic of discussion during your interview. 
 
-![Is there any work from home in Amazon](https://insightcrunch.com/wp-content/uploads/2022/11/pexels-photo-4049459.jpeg)
+![Is there any work from home in Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Is there any work from home in Amazon
 
 ## Amazon Interview Answer Tips

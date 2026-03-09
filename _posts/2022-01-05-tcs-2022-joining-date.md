@@ -52,7 +52,7 @@ You should be aware of the benefits that you will have before downloading this d
 
 This is not an official document, but this will help you a lot in moving ahead of every one during this period and minimize a lot of uncertainty that you may have.
 
-![TCS Joining and Hiring Process. Who can join TCS. Why join TCS.](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-3765046.jpeg)
+![TCS Joining and Hiring Process. Who can join TCS. Why join TCS.](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Joining and Hiring
 
 ## Why join TCS

@@ -14,7 +14,7 @@ author: "Insight Crunch Team"
 
 In a world driven by technology and rapid communication, the allure of a tranquil haven for writers remains undeniable. As an aspiring wordsmith, if I were to open a shop, it would be a sanctuary where the art of writing is celebrated, nurtured, and shared. Join me on a journey through the pages of "Ink & Imagination," a writer's haven unlike any other.
 
-![](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-933964-1024x682.jpg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ## The Writer's Retreat: Where Words Come to Life
 

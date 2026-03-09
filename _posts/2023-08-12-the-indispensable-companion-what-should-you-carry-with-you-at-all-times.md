@@ -14,7 +14,7 @@ author: "Insight Crunch Team"
 
 In our modern world, where technology and convenience are at our fingertips, the question of what is truly essential to carry with us at all times remains a pertinent one. From smartphones to wallets, the items we choose to keep close can greatly influence our day-to-day experiences. However, amidst the array of gadgets and personal effects, one intangible yet profoundly valuable aspect emerges as the most important thing to carry with you: a positive mindset.
 
-![](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-3771813-1024x682.jpg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ## The Power of a Positive Mindset:
 

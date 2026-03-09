@@ -16,7 +16,7 @@ The Tata Consultancy Services conducts the National Qualifier Test (NQT) every y
 
 Read more: [TCS NQT Questions »](https://insightcrunch.com/2019/06/10/tcs-nqt-questions/)
 
-![What is the syllabus of TCS NQT Eligibility Registration Preparation Study](https://insightcrunch.com/wp-content/uploads/2021/06/pexels-photo-7414304.jpeg)
+![What is the syllabus of TCS NQT Eligibility Registration Preparation Study](/assets/images/technology-industry-analysis-insightcrunch.webp)
 What is the syllabus of TCS NQT
 
 ## TCS NQT Syllabus

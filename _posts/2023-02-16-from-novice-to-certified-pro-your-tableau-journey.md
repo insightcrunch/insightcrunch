@@ -14,7 +14,7 @@ Just as Hemingway's characters embark on quests of self-discovery and growth, yo
 
 Read more: [Cracking the Code: Strategies for Passing Tableau Certification »](https://insightcrunch.com/2023/01/16/cracking-the-code-strategies-for-passing-tableau-certification/)
 
-![From Novice to Certified Pro: Your Tableau Journey](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-3059748.jpeg)
+![From Novice to Certified Pro: Your Tableau Journey](/assets/images/technology-industry-analysis-insightcrunch.webp)
 From Novice to Certified Pro: Your Tableau Journey
 
 ## **1. Begin with Curiosity**

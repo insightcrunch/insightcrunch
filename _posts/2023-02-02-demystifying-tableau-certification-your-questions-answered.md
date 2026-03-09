@@ -18,7 +18,7 @@ Read more: [Does Amazon pay you to work from home? »](https://insightcrunch.com
 
 Tableau certification validates your proficiency in the art of data visualization and analysis using the Tableau platform. It not only boosts your credibility but also opens doors to a plethora of career opportunities in the ever-expanding realm of data analytics.
 
-![Demystifying Tableau Certification: Your Questions Answered](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-17621769.jpeg)
+![Demystifying Tableau Certification: Your Questions Answered](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Demystifying Tableau Certification: Your Questions Answered
 
 ## The Journey of Questions: Exploring Your Queries

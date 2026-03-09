@@ -14,7 +14,7 @@ author: "Insight Crunch Team"
 
 Blogging has evolved from being a personal journal to a powerful platform for sharing ideas, insights, and information. With its global reach, it has the potential to create ripples of change, both big and small. In this article, we'll explore the impact bloggers can have on the world by making even the smallest of changes through their blogs.
 
-![](https://insightcrunch.com/wp-content/uploads/2023/08/pexels-photo-5699491-1024x682.jpg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 ## The Butterfly Effect of Words:
 

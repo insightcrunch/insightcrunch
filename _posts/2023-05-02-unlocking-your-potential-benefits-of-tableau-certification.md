@@ -18,7 +18,7 @@ Read more: [Tableau Certification Exams: How to Prepare Like a Pro »](https://i
 
 Tableau certification serves as a beacon that guides you through the intricate landscape of data visualization and analytics. It provides you with the tools and knowledge to wield Tableau's capabilities effectively, making you a sought-after professional in the world of data-driven decision-making.
 
-![Unlocking Your Potential: Benefits of Tableau Certification](https://insightcrunch.com/wp-content/uploads/2023/05/pexels-photo-5882683.jpeg)
+![Unlocking Your Potential: Benefits of Tableau Certification](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Unlocking Your Potential: Benefits of Tableau Certification
 
 ## Expanding Your Horizons: The Advantages of Tableau Certification

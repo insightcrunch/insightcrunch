@@ -24,7 +24,7 @@ There are a variety of self service kiosks which are operated by traditional hum
 
 This feedback becomes concerning because many employees have complained that they got fired from their job because chat representatives often forget to address their queries or the message does not get through. For an organization as large as Amazon and which is aiming to achieve the highest level of customer satisfaction, issues of its employment of its employees due to a simple chatbot seems concerning. The technology that Amazon has used to develop its mobile app is designed to give its workers a variety of ways to communicate and not only rely on human individuals. The mobile app that Amazon employees often use from their home as well is not meant to replace live interaction between humans. 
 
-![Does Amazon pay you to work from home](https://insightcrunch.com/wp-content/uploads/2022/10/pexels-photo-7777692.jpeg)
+![Does Amazon pay you to work from home](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Does Amazon pay you to work from home
 
 ## Amazon Communication Gaps and Concerns

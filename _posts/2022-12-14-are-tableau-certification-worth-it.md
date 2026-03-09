@@ -22,7 +22,7 @@ A Tableau certification only adds value to your resume when you already know how
 
 In case your company has certified people in senior roles, then whether you have a certification is a very common and preferable trait question frequently asked by the company. Many candidates who are the hiring manager shared in Reddit and social media that the experience and portfolios always beat certifications, unless you are applying for a type of government job. In the government job type of cases, it is relatively more likely that a certification will be considered of greater value than the actual experience. The hiring managers also shared that in case a candidate has never touched Tableau, then the certification preparation study materials can be a good way to kickstart your learning. 
 
-![Are Tableau certification worth it](https://insightcrunch.com/wp-content/uploads/2022/12/pexels-photo-7876971.jpeg)
+![Are Tableau certification worth it](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Are Tableau certification worth it
 
 ## Tableau Career with a Certification
