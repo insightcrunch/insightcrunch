@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Insight Crunch
-
 Insight Crunch is written by a team that believes attention is one of the last forms of care. In an age that rewards speed, reaction, noise, and constant conclusion, we return again and again to the slower work of looking. We study what passes through everyday life and what remains after the moment has passed. We look at the shape of systems, the feel of memory, the discipline of work, the quiet intelligence inside tools, the pull of travel, and the strange tenderness hidden in ordinary hours. We do not think of writing as a performance of certainty. We think of it as a practice of noticing, a way of staying honest before complexity, and a way of honoring the details that most people rush past.
 
 The name Insight Crunch carries both pressure and promise. Insight asks us to move beneath the visible layer of things. Crunch reminds us that thinking often happens under friction. The mind learns when it tests assumptions against reality, when it holds contradiction without panic, when it refines a rough impression into something clearer, kinder, and more exact. We are interested in that refining process. We are interested in how experience becomes language, how language becomes reflection, and how reflection can return to life as steadier action. That cycle lies beneath everything on this site.
