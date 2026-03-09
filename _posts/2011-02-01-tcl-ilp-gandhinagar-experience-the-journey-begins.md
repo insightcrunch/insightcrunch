@@ -18,7 +18,7 @@ Our group consists of 25 people. We reached Ahemedabad on 10th December 2010. Wh
 
 The info-city at TCS ILP Gandhinagar is very good. It has all the residential apartments, bungalows and shopping complex at one side and all Offices, info-city club resort on the other. Info-city has four huge office buildings namely tower 1,tower 2,tower 3 and tower 4 respectively. TCS ILP center is at tower 3 which is also known as “Nal Sarover”. Gandhinagar is heaven for those who like peace, natural beauty, greenery, cleanliness and less crowd. Believe me this place is just like heaven, it is the second greenest city after Chandigarh. Gujarati people are very polite and helpful. They will help you in every possible way. Enough for the place I think.
 
-![TCL ILP Gandhinagar Experience NQT Ninja Digital Hiring Interview Syllabus Registration](https://insightcrunch.com/wp-content/uploads/2011/02/pexels-photo-7683681.jpeg)
+![TCL ILP Gandhinagar Experience NQT Ninja Digital Hiring Interview Syllabus Registration](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCL ILP Gandhinagar Experience
 
 At 16th December,2010, we reached TCS ILP Tower 3 “Nal Sarover” sharp at 8:45 AM. First we had to make entry at reception, and then we seated our self in auditorium. Then a group of HRs came, and they had taken sessions on introduction, company's vision, mission, its policies, processes and many more things.  

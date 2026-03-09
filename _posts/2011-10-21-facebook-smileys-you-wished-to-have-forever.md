@@ -14,5 +14,5 @@ Emoticons and smileys are the key essence to online chatting and communication. 
 
 Read more: [Dropbox vs Google Drive »](https://insightcrunch.com/2012/05/13/dropbox-vs-google-drive-the-war-begins/)
 
-![Popular Emojis and Emoticons for Social Media](https://insightcrunch.com/wp-content/uploads/2011/10/pexels-photo-6898861.jpeg)
+![Popular Emojis and Emoticons for Social Media](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Popular Emojis and Emoticons for Social Media

@@ -24,7 +24,7 @@ Amazon clarifies that they often work with temporary employment agencies like co
 
 It is important to note that Amazon takes their customers security very seriously. Hence, they need to ensure that their customers and the candidate sensitive information are protected. Amazon keeps these information about their candidates who are applying for a job and the customer who are purchasing goods from amazon.com completely kept separate. With such level of compartmentalization of sensitive data, Amazon can ensure they're providing the highest level of security to its customers and aspiring candidates. Hence, candidates and customers are encouraged to keep a separate profile to apply for the jobs at Amazon. 
 
-![Is it hard to get hired on at Amazon](https://insightcrunch.com/wp-content/uploads/2012/10/pexels-photo-8428071.jpeg)
+![Is it hard to get hired on at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Is it hard to get hired on at Amazon
 
 ## Amazon Work Permit

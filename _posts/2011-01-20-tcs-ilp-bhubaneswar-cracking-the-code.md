@@ -26,7 +26,7 @@ I was thinking -"If I would have studied in my 4 years of BTECH,I could be the h
 
 It was already morning and that typical sound was echoing from the next room.
 
-![TCS ILP Bhubaneswar Cracking the Code](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-5324855.jpeg)
+![TCS ILP Bhubaneswar Cracking the Code](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar Cracking the Code
 
 Now its time to introduce Master number 2 aka the competitor of my studious room-mate.This guy had nothing but a skeleton in his body,a spectacle on the eye of the skeleton,a terrific skull,a problematic stomach,and a hazardous(for his room-mates) habit of growling OM OM OM during his morning Pranayam.

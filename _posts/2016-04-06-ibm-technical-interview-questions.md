@@ -18,7 +18,7 @@ Read more: [TCS Hiring Steps »](https://insightcrunch.com/2015/12/11/tcs-hiring
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Technical Interview Questions](https://insightcrunch.com/wp-content/uploads/2016/04/pexels-photo-5313160.jpeg)
+![IBM Technical Interview Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 IBM Technical Interview Questions
 
 ## IBM Technical Interview Questions

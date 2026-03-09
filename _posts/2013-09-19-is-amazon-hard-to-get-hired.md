@@ -20,7 +20,7 @@ Read more: [H1B DropBox Process: Eligibility, Documents, Change of Employer »](
 
 In the [Amazon jobs](https://www.amazon.jobs/) portal, you can explore the various different Amazon jobs. You can also explore the various campus and Twitch portals besides applying on the Amazon job portal. About five to eight months ahead of the actual recruitment, you will be engaged in the assessment and interview activities with Amazon. About two months ahead of the onboarding process, you will be engaged in various team assignments with Amazon. The onboarding process begins usually one to two months ahead of your first day of working at Amazon. Let's learn about this in some more details. To get hired at Amazon, it is recommended by the senior management at Amazon that candidates should start exploring their positions almost an year ahead at the Amazon jobs portal. This will allow you as the candidate to get a complete understanding of what actually you want to do at Amazon and what roles and responsibilities are aligned with your skill sets. You also get time to build up your skills so that you can present yourself as a competitive candidate.
 
-![Is Amazon hard to get hired](https://insightcrunch.com/wp-content/uploads/2013/09/pexels-photo-3184316.jpeg)
+![Is Amazon hard to get hired](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Is Amazon hard to get hired?
 
 ## Amazon Hiring Steps Durations

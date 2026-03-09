@@ -14,7 +14,7 @@ South Point will finally be allowing its students to opt for the CBSE board. The
 
 But like all new beginnings, there are risks, speculations and expectations associated with this move. The guardians of the students have already been doing the analysis with data and information from various as to what are the pros and cons of the system if their ward is to pursue under either of the boards, what might the future implications be like. There are several factors that come into play when one starts to think of this scenario.
 
-![How is South Point School going to change with the CBSE board being introduced](https://insightcrunch.com/wp-content/uploads/2011/08/pexels-photo-4143800.jpeg)
+![How is South Point School going to change with the CBSE board being introduced](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How is South Point School going to change with the CBSE board being introduced
 
 **Change of syllabus and pattern**

@@ -24,7 +24,7 @@ Let's look at some of the top reasons why the professionals at Amazon loved work
 
 In fact, the pay provided by Amazon to its warehouse employees is so good that it had put an upward wage pressure in a variety of other large corporations and industries like restaurants and retail stores. It is also important to know that not only is compensation good for Amazon warehouse employees, but also employees are provided with considerable perks and benefits like prepaid tuition, which is considered one of the best in the industry today. In addition, there are other benefits that are provided to Amazon warehouse employees like dental, medical and vision insurance, a retirement savings plan like 401k, and numerous paid time offs, along with vacation, sick, and personal days. The Amazon warehouse employees are also provided with a stable shift schedule where you will get full shifts if you need them. 
 
-![Amazon warehouse jobs near me](https://insightcrunch.com/wp-content/uploads/2022/10/pexels-photo-9630183.jpeg)
+![Amazon warehouse jobs near me](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon warehouse jobs near me
 
 ## Amazon Warehouse Job Benefits

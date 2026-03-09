@@ -22,7 +22,7 @@ Based on the type of job you were interested in, you can look for our warehouse 
 
 As a candidate, only you have to make fully sure that you fill in a brief description of your background, along with your experience and achievements and skills in the application form. While mentioning your experience, make sure you mentioned the different dates of employment where you worked in the past. Amazon highlights that this information is necessary to evaluate the candidates and their skill sets. This application this information is essential for the application. And if you do not provide these details, your application will not be considered. If you are interested in a warehouse associate position in the fulfillment center of Amazon, then Amazon highlights that you do not need a resume or CV to apply for that position. You can learn more about the Amazon fulfillment process in the links above.
 
-![What do you need to get hired at Amazon](https://insightcrunch.com/wp-content/uploads/2011/11/pexels-photo-1181309.jpeg)
+![What do you need to get hired at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 What do you need to get hired at Amazon
 
 ## Amazon Portfolio Requirements

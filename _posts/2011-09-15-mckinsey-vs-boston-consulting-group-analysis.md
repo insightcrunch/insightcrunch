@@ -15,12 +15,12 @@ The two premium organizations in the consulting world, McKinsey and BCG, are the
 ## Work Pressure
 
 McKinsey is said to have a slightly more work pressure than it’s peers in this sector and you might just be travelling a touch more.
-![](http://www.careers-in-business.com/consulting/mckinsey.gif)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
  But that being said, the prestige and satisfaction that comes with working in the best in the sector undoubtedly gives you that extra energy to carry on and go ahead with what you do best. With having a feather in the cap for working in the top firm, I don’t think it would make much of an issue.
 
 Boston Consulting Group is a very close competitor, recruiting from nearly the same institutions as McKinsey and having a lot similar strategy and work culture. But work pressure and traveling might not seem apparently as much as McKinsey.
 
-![McKinsey vs Boston Consulting Group](https://insightcrunch.com/wp-content/uploads/2011/09/pexels-photo-3867850.jpeg)
+![McKinsey vs Boston Consulting Group](/assets/images/technology-industry-analysis-insightcrunch.webp)
 McKinsey vs Boston Consulting Group
 
 ## Advising on Technical Issues

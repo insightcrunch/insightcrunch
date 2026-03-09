@@ -22,7 +22,7 @@ Read more: [Is Meta in a hiring freeze? »](https://insightcrunch.com/2015/07/10
 
 The performance management system in Meta has been completely revised to make sure there are more stringent performance measurement parameters. Facebook CEO Mark Zuckerberg has said there are many employees who should not be there. When the CEO of an organization gives a statement like this, it means the company is heavily focused on reducing its employee strength. When the top leader of an organization says such a statement, it also means that this employee reduction goal is one of the top priorities in the company right now. The same work that the employees used to do earlier will no longer be enough to meet the new performance standard. Employees have to work much harder than before to meet the required performance standard in the new Meta performance management model. This is an extremely aggressive step taken by Meta that is sure to affect the work-life balance of many employees. The vision of the company now focuses mainly on its survival instinct, which means they have to focus on their revenue and profitability first and the welfare and overall wellness of its employees later.
 
-![Meta Hiring and Layoffs](https://insightcrunch.com/wp-content/uploads/2015/06/pexels-photo-8279205.jpeg)
+![Meta Hiring and Layoffs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta Hiring and Layoffs
 
 ## Meta Facing Tough Competition

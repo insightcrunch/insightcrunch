@@ -18,7 +18,7 @@ Read more: [Importance of Communication Skills in the Global Upfront »](https:
 
 Then came a transition, I was introduced to Java and I fell in love with it. I started reading e-books and blogs, followed some excellent people on Twitter and was just entering into a whole new world of WEB. I must confess, I never liked reading text-books more often than not and would you-tube every time I came across something new in the class. I started enjoying this interaction. I must advise everyone in this phase to watch videos and study from http://nptel.iitm.ac.in/ if you are not able to understand or digest anything.
 
-![Engineering Career Counseling Guidance](https://insightcrunch.com/wp-content/uploads/2011/10/pexels-photo-279222.jpeg)
+![Engineering Career Counseling Guidance](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Engineering Career Counseling Guidance
 
 My juniors always ask me , 'Which language to do in the first training period and which in the second? ' I always reply them do anything but with full utilization of the WEB. I got interested in Java but someone else may develop a passion of Networking , Database ,Linux.And once you get into it , Don't move out , Learn , Invent , Innovate and enjoy.Live with it and get into it's core. There is no limit , Nothing. You may not always invent but you always learn when you try. Once you know one language , you will almost know everyone. For example if you have started with JAVA SE(standard edition) then you must go for JAVA EE (Enterprise edition) later on , No point in starting with .NET and then going to learn JAVA from a scratch or something like that.

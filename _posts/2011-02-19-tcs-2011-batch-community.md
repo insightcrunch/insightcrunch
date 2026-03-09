@@ -16,7 +16,7 @@ The place that has connected thousands of TCS candidates all over the country an
 
 As with the other news and updates, there are also a lot of discussions going on amongst people regarding anything under the sun. So share your heart and soul and mind out and chat ahead with your future colleagues.
 
-![TCS Employees Community](https://insightcrunch.com/wp-content/uploads/2011/02/pexels-photo-3797402.jpeg)
+![TCS Employees Community](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Employees Community
 
 In case there is need for some urgent information or study materials, you are as always welcome to return to my blog and keep reading. You might have to search for a little while in my blog as there are lots of articles and not all are related to this organization. For all updates as they happen under one hood, you might like this stuff.

@@ -16,7 +16,7 @@ We stepped into the premises. The securities asked us to form a queue.It was the
 
 Almost all the boys were generating a negative bag-scan report. The desk beside the kiosk turned into a cigarette shop within few seconds.However the main surprise was yet to come. BEEP!!!! The scanner showed some unknown shadow in the silhouette. It was a puncher/jaw-breaker. It was discovered from one of our guy's backpack. Now that wasn't a shocking thing for our students, because of the frequent brawls in our college. All guys were quite accustomed to that thing. But securities were sent to Earth to stop brawls, so a new brawl was about to take place.We were no longer in college.
 
-![TCS ILP Bhubaneswar – There were sensors everywhere](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-6209555.jpeg)
+![TCS ILP Bhubaneswar – There were sensors everywhere](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar – There were sensors everywhere
 
 "Self - Protection " the effective phrase, some convincing train robbery story of Bihar-trains saved the guy from the catastrophe.We forced him to throw that thing away forever. Later the boy said that he had never boarded a train to Bihar. He thanked the robbers who unknowingly saved his job.

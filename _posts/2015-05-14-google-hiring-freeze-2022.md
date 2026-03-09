@@ -22,7 +22,7 @@ Read more: [Is Meta in trouble? »](https://insightcrunch.com/2015/06/18/is-meta
 
 The Google senior management is facing tough questions from its employees. Because Google had recently made record profits and huge cash reserves. Hence, Google employees are definitely curious why there are plans of salary cuts or layoffs when the company is in such a good shape, and has been performing well for so long in the past. Google mentioned that all the large technical technology companies are facing similar challenges, and they are trying their best to deal with this situation as responsibly as second. Companies like Google parent Alphabet, Meta, and other tech companies are all facing economic challenges and which might end with a long recession. The rising interest rates are also not helping the current situation, and the overall spending on advertisement is also going down. Since the business model of all the large technology companies is focused on advertisement revenue all the large technology companies are facing similar challenges.
 
-![Sundar Pichai on Google Hiring Freeze and Layoffs](https://insightcrunch.com/wp-content/uploads/2022/09/193F0549-BA6C-40BE-878A-107224472EBF.webp)
+![Sundar Pichai on Google Hiring Freeze and Layoffs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Sundar Pichai on Google Hiring Freeze and Layoffs
 
 ## Google aims more productivity

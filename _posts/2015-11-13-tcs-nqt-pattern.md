@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test is one of the most compreh
 
 Keep on reading: [TCS Hiring Steps »](https://insightcrunch.com/2015/12/11/tcs-hiring-steps/)
 
-![TCS NQT Exam Pattern](https://insightcrunch.com/wp-content/uploads/2016/07/pexels-photo-6256061.jpeg)
+![TCS NQT Exam Pattern](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Exam Pattern
 
 ## TCS NQT Exam Pattern

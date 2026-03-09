@@ -22,7 +22,7 @@ Read more: [Is Meta hiring frozen? »](https://insightcrunch.com/2014/04/17/is-m
 
 Your interview will consist of a one on one interview with the Meta technical recruitment team. Your interview will also happen with multiple teams who are interested in hiring you. The interview can be of different types. There will be a phone or video interview that you will have to attend with the hiring manager and the team members. There will be also a collaboration interview with the hiring manager, team members and other teams who will be collaborating with you. These are the different interview types and there is no fixed pattern about which interview will be held in which format. However, these are the common people whom you can expect to meet in every interview. Knowing who is present in your interview panel will give you an idea how to frame your answers to the questions. If your interviewer is from a higher position, then you will be able to highlight how your work benefited the organization. With more technical members in the interview panel, you can highlight best practices that you have implemented in your coding approaches. Meta requests you to use the STAR method for answering any interview questions. The letters in the abbreviation STAR stands for Situation, Task, Action and Result. 
 
-![Meta Interview Difficulty and Hard Questions](https://insightcrunch.com/wp-content/uploads/2014/03/pexels-photo-1181410.jpeg)
+![Meta Interview Difficulty and Hard Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta Interview Difficulty and Hard Questions
 
 ## Meta STAR Method Answers

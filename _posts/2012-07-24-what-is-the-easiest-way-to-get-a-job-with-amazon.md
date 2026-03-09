@@ -24,7 +24,7 @@ The Amazon locker plus customer service associates should be working in designat
 
 The Amazon locker plus customer service associate will also be receiving truck deliveries and managing responsibilities for locker plus location, including opening and closing site. The candidate will also be using technologies like smartphones and handheld devices to sort scan and prepare orders. The employees of Amazon are often called Amazonians. There are thousands of offices and centers around the globe of Amazon. In the United States, Amazon is one of the most sought after employers with thousands of people who are aspiring to be a part of this organization. For every available position, there is a huge competition. But it is important to note that you should not be intimidated as a candidate. 
 
-![What is the easiest way to get a job with Amazon](https://insightcrunch.com/wp-content/uploads/2012/07/pexels-photo-4484151.jpeg)
+![What is the easiest way to get a job with Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 What is the easiest way to get a job with Amazon
 
 ## Amazon Job Search

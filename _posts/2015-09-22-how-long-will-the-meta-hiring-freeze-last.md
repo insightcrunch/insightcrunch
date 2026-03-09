@@ -18,7 +18,7 @@ Read more: [How long is IBM hiring process? »](https://insightcrunch.com/2015/1
 
 [s2If current_user_can(access_s2member_level1)]
 
-![Meta Hiring Freeze and Layoffs Fired Sack Lose Job](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-8279211.jpeg)
+![Meta Hiring Freeze and Layoffs Fired Sack Lose Job](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta Hiring Freeze and Layoffs
 
 ## Meta Hiring Freeze Duration

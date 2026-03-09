@@ -32,5 +32,5 @@ Photo sessions were going on. Everyone was taking snaps of each other.Probably t
 
 We started for Kalinga park.
 
-![TCS ILP Bhubaneswar From station to Kalinga Park](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-3182778.jpeg)
+![TCS ILP Bhubaneswar From station to Kalinga Park](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar – From station to Kalinga Park

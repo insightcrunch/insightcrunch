@@ -18,7 +18,7 @@ Read more: [IBM Interview Process »](https://insightcrunch.com/2016/06/27/ibm-i
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Interview Process](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-7109087.jpeg)
+![IBM Interview Process](/assets/images/technology-industry-analysis-insightcrunch.webp)
 IBM Interview Process
 
 ## IBM Associate Developer Interview Questions

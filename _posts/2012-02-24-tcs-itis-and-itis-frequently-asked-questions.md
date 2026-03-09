@@ -60,7 +60,7 @@ https://youtu.be/NDaI7VAOkqA
 
 You can convert from TCS ITIS project to IT field. I would recommend first to start brushing up your skills and build a strong CV. If you need help, contact me to refine your CV by uploading in the TCS CV review button given above. Once you are confident and have acquired a few skills, reach out to your RMG. The TCS RMG will listen to your situation and will assist you in moving towards a role of your choice. If you have heard of specific project requirements, and you already find yourself fit for that role with the skills then you can make the task of the TCS RMG even easier. But keep in mind only the best fitted persons are taken for different roles, so even if you have learnt Python, if someone is also applying with even more experience and background in Python, then you have a competition. But overall you can shift from TCS ITIS branch to IT domain if you keep learning and trying consistently in different technologies.
 
-![TCS ITIS and IT Overview](https://insightcrunch.com/wp-content/uploads/2012/02/pexels-photo-4344878.jpeg)
+![TCS ITIS and IT Overview](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ITIS and IT Overview
 
 ## Difference between TCS ITIS and ITES

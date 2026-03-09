@@ -16,7 +16,7 @@ Software engineers all over the world were at some time or the other taught in t
 
 Often we will see Oracle, Java, Unix or for that matter codes written in any technology, often named without following the convention and reveals little about the utility of the piece of code. A coder when looks at the file in the future will have little or no idea as to what it was written for until he goes through each an every line of the code. Imagine the amount of time lost for the simple task of getting to know the functionality of a few hundred lines of code. Always include at least a few words of comment for each code block, naming conventions,  snapshot of the code (with the author name, version history, purpose). A few seconds taken by you will save many people in the future from putting their brains out to figure out the purpose of a code.
 
-![Software Engineering Best Practices](https://insightcrunch.com/wp-content/uploads/2012/02/pexels-photo-4974914.jpeg)
+![Software Engineering Best Practices](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Software Engineering Best Practices
 
 ## Development Team in UAT
@@ -26,7 +26,7 @@ The role of the development team should be up to code delivery and implementatio
 ## Allocation of due time for each phase in SDLC
 
 **
-![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CPT-SystemLifeSycle.svg/240px-CPT-SystemLifeSycle.svg.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 **Each of the phases in SDLC must be given due weight and time. It often happens due to strict timelines, the analysis and design phases are shortened. But this can lead to severe consequences as the solution approach might prove to be unsustainable on the long term. All sorts of feasibility, cost, adaptability, flexibility study should be completed with proper discussions and brainstorming which will also benefit in team-building.    
 
 These practices need to be strictly followed by budding engineers and experienced professionals alike. It’s ought to be like the untold rules of software engineering.

@@ -22,7 +22,7 @@ It took 20 minutes to reach the college.We had two separate buildings for the fi
 
 We entered a huge conference room ushered by a faculty.The room was surrounded by glass walls.The teachers entered into the room.They started giving some boring speeches,but nobody was paying attention because everybody was looking the seniors waiting outside the glass-walls.I was sitting in the last row,I thought that was the safest place.But the difference between truth and assumption is huge.
 
-![TCS ILP Bhubaneswar The Pastel Picture](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-2422294.jpeg)
+![TCS ILP Bhubaneswar The Pastel Picture](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar – The Pastel Picture
 
 Read more: [TCS ILP Bhubaneswar - There were sensors everywhere! »](https://insightcrunch.com/2011/01/13/tcs-ilp-bhubaneswar-there-were-sensors-everywhere/)

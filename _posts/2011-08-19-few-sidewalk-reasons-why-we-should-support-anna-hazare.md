@@ -19,7 +19,7 @@ Hazare says: Bring back the Black Money.
  No need to participate in this Revolution. Just support Anna Hazare by sharing this article.  
  I did my job for better India and a brighter tomorrow. Jai Hind.
 
-![Anna Hazare for Development](https://insightcrunch.com/wp-content/uploads/2011/08/pexels-photo-10629468.jpeg)
+![Anna Hazare for Development](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Anna Hazare for Development
 
 Nice Text:

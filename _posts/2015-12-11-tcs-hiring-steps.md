@@ -14,7 +14,7 @@ This is a guest post on TCS Hiring by Bhargav Gandhi. The views expressed are of
 
 Hi all, I want to share my interview experience that I have attended and will also share the interview experience for the major recruiting companies in India. Starting from service based companies to different product based companies that hire students from different colleges across India.
 
-![TCS Hiring Process](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-845451.jpeg)
+![TCS Hiring Process](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Hiring Process
 
 Let's start from the beginning.

@@ -18,7 +18,7 @@ Somebody truly said even "Microsoft does not utilise Microsoft Office fully in t
 
 Everyday thousands of PPTs are created in the software companies and unluckily half of them are for screwing the trainees like us. We were given a desktop full of those PPTs to study all through the day.In my college days PPTs were the easiest mean to finish the topics quickly, but I was no longer in the college. I really lacked the enthusiasm for studying that long that too without smoking.Global warming may kill all of us after 50years but staying long in a no smoking zone can kill the smokers in 50 minutes.
 
-![TCS ILP Bhubaneswar – Fall of an empire](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-6476788.jpeg)
+![TCS ILP Bhubaneswar – Fall of an empire](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar – Fall of an empire
 
 My cubicle was in the middle of the room hence I could see almost everyone.Everyone was damn serious to finish the syllabus before time. The Yakku came and introduced his assistant.She was our new trainer.If you place an empty wax matchbox on the table and hammer that, the cuboid becomes distorted.Now if you draw two small eyes, a blunt nose and thin lips on the cuboid it becomes her face.After every sentence she spoke she made a strange sound UUNH? Asking our acceptance and believe me it reminded me of a famous expression of Tory Lane(Google it alone :P). She knew everything apart from the subject and behaved authoritatively, showing vague seniority.Everyone of us used to curse this duo.

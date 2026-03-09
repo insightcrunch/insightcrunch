@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=D6-VS4xXW-A
 
 Read more: [TCS clarifies rumor on demand for outsourcing in 2011 »](https://insightcrunch.com/2011/06/22/tcs-clarifies-rumor-on-demand-for-outsourcing-in-2011/)
 
-![TCS Performance Detailed Analysis Quarterly Annual Investor](https://insightcrunch.com/wp-content/uploads/2011/04/pexels-photo-3783546.jpeg)
+![TCS Performance Detailed Analysis Quarterly Annual Investor](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Performance Detailed Analysis

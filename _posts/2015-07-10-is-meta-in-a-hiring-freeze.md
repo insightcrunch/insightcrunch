@@ -24,7 +24,7 @@ The performance management system in Meta is aimed at identifying employees who 
 
 Keep reading: [Black Panther: Wakanda Forever »](https://insightcrunch.com/2022/09/25/black-panther-wakanda-forever/)
 
-![Meta Layoffs and Hiring Freeze](https://insightcrunch.com/wp-content/uploads/2015/07/pexels-photo-9830810.jpeg)
+![Meta Layoffs and Hiring Freeze](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta Revenue Trouble

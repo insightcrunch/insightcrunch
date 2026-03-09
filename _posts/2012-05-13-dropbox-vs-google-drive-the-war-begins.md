@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 When the emperor is proudly marching forward conquering everything that comes it’s way, can he leave behind a kingdom that is being defended securely by its rivals over the years? Definitely not. Despite rumors that kept on emerging over the last few years, Google did not launch its Google Drive until this year. And launched it has, with seamless integration into all its services making it right away the cloud storage candy for computer lovers.
 
-![Dropbox vs Google Drive](https://insightcrunch.com/wp-content/uploads/2012/05/pexels-photo-4792747.jpeg)
+![Dropbox vs Google Drive](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Dropbox vs Google Drive
 
 But the war is yet to be won, it’s just the army that has been prepared and war has been declared. Stiff competition is being faced from its closest rival, Dropbox (not to mention Skydrive here which finds itself difficult to enter the scene in the absence of a desktop app). With the existence of an already huge reader-base, Dropbox is going to face its biggest challenge in recent times. No doubt they are going to cope with it strongly as they have proven to be supremely loyal, stable, perfectionist, professional over the years. But Google is going to come with guns blazing down as this is the territory that was pending from them over a long time, and with all of their services integrated into it, they already have an edge since so many of potential users might already been having a Google account.

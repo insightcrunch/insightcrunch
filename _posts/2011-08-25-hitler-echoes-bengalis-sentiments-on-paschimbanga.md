@@ -14,7 +14,7 @@ It has been an epic change to the state. The people of Bengal are totally agains
 
 https://www.youtube.com/watch?v=tnMamC8yu3s
 
-![Hitler on West Bengal India](https://insightcrunch.com/wp-content/uploads/2011/08/pexels-photo-208674.jpeg)
+![Hitler on West Bengal India](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Hitler on West Bengal India
 
 Read more: [Google Plus will be a Facebook and Orkut killer »](https://insightcrunch.com/2011/08/27/google-plus-will-be-a-facebook-and-orkut-killer/)

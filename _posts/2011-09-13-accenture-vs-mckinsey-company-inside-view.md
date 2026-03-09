@@ -18,7 +18,7 @@ Work pressure in McKinsey just becomes slightly more than Accenture primarily be
 
 This does not mean that work pressure at Accenture is low. In fact amongst its peers, Accenture has a good reputation of having stressful work hours across projects. Read more on [Deloitte vs Accenture](https://insightcrunch.com/2011/09/10/deloitte-vs-accenture-clash-of-the-titans/) and [TCS vs Accenture](https://insightcrunch.com/2011/09/06/tcs-vs-accenture-comparison-at-granular-level/). But McKinsey is a class above Accenture simply because it’s one of the finest leaders in this consulting sector and leading the path by example.
 
-![Accenture vs McKinsey & Company – Inside View](https://insightcrunch.com/wp-content/uploads/2011/09/pexels-photo-3761504.jpeg)
+![Accenture vs McKinsey & Company – Inside View](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Accenture vs McKinsey & Company – Inside View
 
 ## Advising on Technical Issues

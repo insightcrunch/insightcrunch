@@ -24,7 +24,7 @@ Based on the position, the timing and the number of interview rounds and evaluat
 
 Due to their busy schedule, the senior professionals will need some time before they can all agree upon a time which is also suitable for you to meet with them and answer their questions. However on an average we can get give an estimate that from the job application time, up to the job offer time for a senior position, the hiring process can take between 3 weeks to about 12 weeks. However, if you're applying for one of the lower positions at Amazon, which are not very senior like vice president or director, then you can expect the Amazon hiring process to be considerably faster. This is because there are fewer steps that need to be taken for the recruitment team and hiring team to process and understand your skills.
 
-![Odds of getting hired at Amazon](https://insightcrunch.com/wp-content/uploads/2022/10/pexels-photo-5699479.jpeg)
+![Odds of getting hired at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Odds of getting hired at Amazon
 
 ## Amazon Rejection Reasons

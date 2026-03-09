@@ -18,7 +18,7 @@ Read more: [IBM Interview Questions »](https://insightcrunch.com/2016/02/24/ibm
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Interview Technical Questions](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-8068836.jpeg)
+![IBM Interview Technical Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 IBM Interview Technical Questions
 
 ## IBM Interview Technical Questions

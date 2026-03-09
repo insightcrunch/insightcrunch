@@ -18,7 +18,7 @@ Read more: [IBM Panel Interview »](https://insightcrunch.com/2016/03/19/ibm-pan
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Interview Questions](https://insightcrunch.com/wp-content/uploads/2016/02/pexels-photo-8171219.jpeg)
+![IBM Interview Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 IBM Interview Questions
 
 ## IBM Interview Questions

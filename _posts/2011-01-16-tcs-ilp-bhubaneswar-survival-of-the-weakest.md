@@ -26,7 +26,7 @@ But this corporate was not Bhawi ki Dukaan.I need to run. The neck-tie,the locke
 
 We were given our schedule,a really tough one.Now this was not all like the college.Nobody will like to loose his .7k a day.The competitions will be tougher,I could find peoples with strong academics, I was feeling like a toddler in the world of fathers.
 
-![TCS ILP Bhubaneswar Survival of the Weakest](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-5428646.jpeg)
+![TCS ILP Bhubaneswar Survival of the Weakest](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar Survival of the Weakest
 
 "There will be two exams in a gap of 14 days each.The passing percentage is very low this year.Who fails to score over 50% will be given two chances.If you miss the chances you may try next year.Persons will be there to guide you.but you have to study all of your own.You can use the libraries.You will be given computers.This is not your college.So be serious,have a good time,All the best". The program co-ordinator announced the battle.

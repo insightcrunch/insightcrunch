@@ -18,7 +18,7 @@ Read more: [IBM Technical Interview Questions »](https://insightcrunch.com/2016
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Panel Interview Questions Hiring Technical](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-7691728.jpeg)
+![IBM Panel Interview Questions Hiring Technical](/assets/images/technology-industry-analysis-insightcrunch.webp)
 IBM Panel Interview
 
 ## IBM Panel Interview People

@@ -14,7 +14,7 @@ Microsoft’s Bing search engine has been one of the most recent disasters by an
 
 Google has become a strong brand household name, and more than that, it’s a verb now! No amount of advertising bucks can beat that. You need years of solid performance to become a verb such as Google. And to topple Google, you not only need to consistently be at your supreme best, but also need to make immense sacrifices which Bing is making right now by bleeding millions. As of now, Microsoft has lost $5.5 billion on Bing since its 2009 inception.
 
-![Bing Market Share of Search Engine](https://insightcrunch.com/wp-content/uploads/2011/10/pexels-photo-5466279.jpeg)
+![Bing Market Share of Search Engine](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Bing Market Share of Search Engine
 
 Read more: [Gesture Search App »](https://insightcrunch.com/2011/10/16/amazing-android-app-1-gesture-search/)

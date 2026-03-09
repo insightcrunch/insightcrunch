@@ -22,7 +22,7 @@ The Amazon hiring manager is spending a lot of time in reviewing numerous candid
 
 It will also help your resume to stand out among a crowd which have lesser keywords than you. Keep in mind that you should only use the keywords that are actually relevant and signifies your truthful experience. You should avoid using keywords that do not portray your actual skill in that particular tool or technology. You should also be ready to answer any type of questions that you might get asked during the Amazon interview process from your resume. In your resume, also make sure to highlight your different work experiences by using action verbs. You can also highlight your strength and skills during the interview process by using such types of action verbs. Words like designed, developed, launched, and automated help to give a clearer idea of the kind of work that you have performed and learned from. 
 
-![Is it hard to get Amazon warehouse job](https://insightcrunch.com/wp-content/uploads/2012/04/pexels-photo-7018682.jpeg)
+![Is it hard to get Amazon warehouse job](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Is it hard to get Amazon warehouse job
 
 ## Amazon Job Skills

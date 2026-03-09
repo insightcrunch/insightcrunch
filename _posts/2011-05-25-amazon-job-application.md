@@ -22,7 +22,7 @@ In order to be getting a call from the hiring manager, you will have to be consi
 
 In short, make sure that you add value to the Amazon resume screening and interview process by making sure that the formatting of your resume helps speed up the scanning of your resume with easily identifiable keywords that match the job description and responsibilities that Amazon is looking for in you. In that case, the responsibilities and accomplishments, which are the most important part of your resume will be prioritized over all your skill charts and hobbies, which as a hiring manager, I can easily attest that they have been considered most important aspects to consider as part of your job application at Amazon and your resume preparation is to make sure that your achievements in the resume a detail your personal and individual contributions that you have done in your organization and the project in the past. 
 
-![Amazon Job Application](https://insightcrunch.com/wp-content/uploads/2011/05/pexels-photo-2451567.jpeg)
+![Amazon Job Application](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon Job Application
 
 ## Amazon Resume Measurable Achievements

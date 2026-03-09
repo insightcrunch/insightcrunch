@@ -24,7 +24,7 @@ Work pressure at Accenture is often pretty high. People report often 12-15 hours
 
 Work pressure at TCS is a pretty relative term. It varies across projects. Apart from the minimum working hours, you might have to stay back sometimes a couple of hours or more to finish your tasks on few days. But on a regular basis, the working hours is seldom hectic. But in some projects you might well have to work for 10 hours daily and might have to come on weekends as well.
 
-![TCS vs Accenture – Comparison at granular level](https://insightcrunch.com/wp-content/uploads/2011/09/pexels-photo-7580636.jpeg)
+![TCS vs Accenture – Comparison at granular level](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS vs Accenture – Comparison at granular level
 
 ## Screening and Attrition

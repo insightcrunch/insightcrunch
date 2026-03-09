@@ -18,7 +18,7 @@ When it comes to job security, IT consulting field is probably one of the worst.
 
 But when it comes between Deloitte and Accenture, Deloitte has an edge over Accenture. The business model of Deloitte is slightly more humanitarian than Accenture, and it is not about getting the work done out of you for the organization no matter what. You will be feeling  this difference in the humanitarian approach better once you work in both the companies.
 
-![Deloitte vs Accenture](https://insightcrunch.com/wp-content/uploads/2011/09/pexels-photo-8127807.jpeg)
+![Deloitte vs Accenture](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Deloitte vs Accenture
 
 ## Training Facilities

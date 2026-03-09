@@ -30,7 +30,7 @@ I went outside and sat on the black sofa.The lost sailor joined me.Even the Neta
 
 "Hey don't worry Deboprio, there are people who got lesser than you.I had a list. Check it" - a sweet voice came form backside.I turned back.
 
-![TCS ILP Bhubaneswar - Picture Abhi baki hai mere dost](https://insightcrunch.com/wp-content/uploads/2011/01/pexels-photo-5940832.jpeg)
+![TCS ILP Bhubaneswar - Picture Abhi baki hai mere dost](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar - Picture Abhi baki hai mere dost
 
 Two girls were standing.They were not that hot and happening kind of girl.Rather they looked simple and friendly.But XYs will always go for XXX instead of XX.So they remained unnoticed.The voice was from one of them and she was wearing a light green salwar.

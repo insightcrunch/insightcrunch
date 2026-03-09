@@ -32,7 +32,7 @@ If they want to move all their data from the huge files on their tables to the c
 
 **Read more:** [TCS Digital Prepare](https://tcsinterviewquestions.com/how-to-prepare-for-tcs-digital-aptitude/) [TCS Digital Cracker](https://tcsinterviewquestions.com/tcs-digital-cracker-experience/) [TCS Ninja 2022 Tips](https://tcsinterviewquestions.com/tcs-ninja-hiring-2022-tips/)
 
-![TCS ITIS Joining Letter Hiring Offer Fresher Recruit Tata Consultancy Services](https://insightcrunch.com/wp-content/uploads/2011/07/pexels-photo-1181438.jpeg)
+![TCS ITIS Joining Letter Hiring Offer Fresher Recruit Tata Consultancy Services](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ITIS and Job Profiles
 
 ## **Detailed picture of job roles in TCS ITIS**

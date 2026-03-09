@@ -18,7 +18,7 @@ Read more: [How long will the Meta hiring freeze last »](https://insightcrunch.
 
 [s2If current_user_can(access_s2member_level1)]
 
-![Meta hiring freeze and Facebook having layoffs](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-3755755.jpeg)
+![Meta hiring freeze and Facebook having layoffs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Meta having layoffs
 
 ## Is Meta laying off employees

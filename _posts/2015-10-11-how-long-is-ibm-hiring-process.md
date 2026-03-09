@@ -18,7 +18,7 @@ Read more: [IBM Interview Technical Questions »](https://insightcrunch.com/2016
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM hiring process](https://insightcrunch.com/wp-content/uploads/2015/10/pexels-photo-5439368.jpeg)
+![IBM hiring process](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How long is the IBM Hiring Process
 
 ## How long is the IBM hiring process?

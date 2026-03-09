@@ -24,7 +24,7 @@ Amazon provides the ability to its candidates who have applied to check the stat
 
 The first step that a candidate can expect if Amazon is interested in hiring you is scheduling a phone interview. A phone interview will happen with the candidate and it can also be one or more phone interviews based on the panel and background check necessities. You might also be called for in person interview at an Amazon office if you are successful in their preliminary screening and assessment interviews. Thus it might not be that hard to get an interview with Amazon if this is a good match for your skill sets and your resume highlights all your strengths, making you an ideal and great fit for that job. So make sure that you highlight all your necessary and relevant skill sets and highlight them in such a way that the interviewer finds all the skills necessary when they read your profile. 
 
-![Why is it so hard to get an interview with Amazon](https://insightcrunch.com/wp-content/uploads/2012/11/pexels-photo-8518891.jpeg)
+![Why is it so hard to get an interview with Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Why is it so hard to get an interview with Amazon
 
 ## Amazon Principles Questions
