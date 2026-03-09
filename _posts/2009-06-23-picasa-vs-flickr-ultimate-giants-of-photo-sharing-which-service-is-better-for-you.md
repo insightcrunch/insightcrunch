@@ -257,5 +257,5 @@ If you are looking for a cool and casual platform just to share some special occ
 
 If you are a professional photographer or even an enthusiast, you must get a Flickr Pro account. Initially though you might find the 24.95$/year a bit too much, but it will allow you to share unlimited photos (or if you want, you can backup all your photos there with permission set to “Private”). Besides, you get several communities to discuss and share your pics where you might find several useful information.
 
-![Google Photos vs Flickr](https://insightcrunch.com/wp-content/uploads/2009/06/pexels-photo-814822.jpeg)
+![Google Photos vs Flickr](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Photos vs Flickr

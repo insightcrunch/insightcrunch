@@ -37,5 +37,5 @@ Withdraw support from the protests immediately
  Support as long as we dnt hv a favourable decision  
  5 (20%)
 
-![Path to a Brighter Future](https://insightcrunch.com/wp-content/uploads/2009/02/pexels-photo-2369217.jpeg)
+![Path to a Brighter Future](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Path to a Brighter Future

@@ -32,5 +32,5 @@ Read more: [Why do one blog? »](https://insightcrunch.com/2009/01/04/why-do-one
 
 This saved a lot of my problems as I have always wanted some place to share all my memories and my snapshots without being restricted. Thanks to Picasa Web Albums and Zooomr.
 
-![Breaking the photo limit while using Windows Live Writer and Blogger](https://insightcrunch.com/wp-content/uploads/2008/12/pexels-photo-4240505.jpeg)
+![Breaking the photo limit while using Windows Live Writer and Blogger](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Breaking the photo limit while using Windows Live Writer and Blogger

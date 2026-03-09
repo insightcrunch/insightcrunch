@@ -16,5 +16,5 @@ Read more: [Tamil Nadu Engineering Colleges Ranking »](https://insightcrunch.c
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Mumbai Engineering Colleges](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-239548.jpeg)
+![Mumbai Engineering Colleges](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Mumbai Engineering Colleges

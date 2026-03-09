@@ -18,5 +18,5 @@ There are some pretty awesome [3D](http://www.xs4all.nl/~peterned/3d/) graphics 
 
 Keep reading: [Laptop Review: Price, Feature, Durability, Ergonomics »](https://insightcrunch.com/2009/06/20/laptop-review-price-feature-durability-ergonomics/)
 
-![Google Chrome Experiments](https://insightcrunch.com/wp-content/uploads/2009/06/pexels-photo-270669.jpeg)
+![Google Chrome Experiments](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Chrome Experiments

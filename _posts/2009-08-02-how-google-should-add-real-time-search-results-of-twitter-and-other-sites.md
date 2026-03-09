@@ -18,5 +18,5 @@ Read more: [Subhas Chakraborty dies, West Bengal Sports and Transport Minister, 
 
 The best way to do what I feel should be to leave the actual search results as they appear totally intact. This is something which has made Google what it is today. Better to leave it untouched, but just add a link at the top of the page where Google shows “Web”, “Images”, “Maps”, “News” etc. Now if they add a link “Real-time” there, which on clicking would display all the millions of results from all microblogging services (probably including Digg, Flickr as well). Now this could prove to be futile as most links that appear on top could be less relevant and the ones pushed down could be the better ones. Also, a mixture of all services like Twitter, Digg and Flickr could also seem cumbersome. But with so many real-time search engines around, its pretty easy to see what are the users preferences and what they like, which would provide valuable information while adding this service. These are the issues that really need to be addressed very well by Google.
 
-![Google Search Algorithms and Results](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-10774600.jpeg)
+![Google Search Algorithms and Results](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Search Algorithms and Results

@@ -16,5 +16,5 @@ Many of them are getting placed in various training centers spread across the co
 
 So apparently it seems only a matter of time before most of the colleges gets their joining and the students are given dates to join this prestigious organization. Many of my friends placed in Infosys got joining earliest in November. With joining dates in TCS as early as September, most of them are surprised a lot. Definitely the freshers will be no doubt be ever grateful for providing them joining dates much before they were assured they would be given. The recession doesn't seem to have hit the IT giant at all. Things are looking pretty good. Scroll down and feel free to discuss below.
 
-![TCS Joining Dates for 2009 Batch](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-6457570.jpeg)
+![TCS Joining Dates for 2009 Batch](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Joining Dates for 2009 Batch

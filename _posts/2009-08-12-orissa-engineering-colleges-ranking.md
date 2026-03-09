@@ -16,5 +16,5 @@ Read more: [Mumbai Engineering Colleges Ranking »](https://insightcrunch.com/2
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Orissa Engineering Colleges](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-1251861.jpeg)
+![Orissa Engineering Colleges](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Orissa Engineering Colleges

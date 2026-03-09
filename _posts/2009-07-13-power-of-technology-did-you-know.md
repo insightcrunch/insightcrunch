@@ -18,5 +18,5 @@ This is indeed where the future of gaming is headed, and I cannot wait to be a p
 
 Read more: [Envisioning the future with technology »](https://insightcrunch.com/2009/07/08/envisioning-the-future-with-technology/)
 
-![Xbox Kinect Future Microsoft Playstation Nintendo Console VR Virtual Reality AR Augmented](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-123335.jpeg)
+![Xbox Kinect Future Microsoft Playstation Nintendo Console VR Virtual Reality AR Augmented](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Microsoft Xbox Future

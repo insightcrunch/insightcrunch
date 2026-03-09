@@ -14,5 +14,5 @@ Not that we haven’t heard of talking macaws and parrots, but having the abilit
 
 https://www.youtube.com/watch?v=7rfGEtALHYs
 
-![In love with talking parrots](https://insightcrunch.com/wp-content/uploads/2009/04/pexels-photo-1453550.jpeg)
+![In love with talking parrots](/assets/images/technology-industry-analysis-insightcrunch.webp)
 In love with talking parrots

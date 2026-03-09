@@ -16,7 +16,7 @@ We, Kolkatans are fighting hard enough to rise to the occasions when we see the 
 
 Read more: [Satyam tainted »](https://insightcrunch.com/2009/01/08/satyam-tainted/)
 
-![Kolkata Protests](https://insightcrunch.com/wp-content/uploads/2009/01/pexels-photo-2990644.jpeg)
+![Kolkata Protests](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Kolkata Protests
 
 Politics play a major role in the fate  of the state. Opposing parties simply doesn’t give a second thought to take up laws in their hands to meet their diplomatically-unsolvable-issues. Day in and day out plans of progress or solvable problems get out of hand. The current ruling party is the only party we can look up to to have any sign of hope as we have really no damn idea how competent(?) the opposition might be. Is it time for the citizens of Kolkata to do something?

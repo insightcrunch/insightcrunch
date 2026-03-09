@@ -14,5 +14,5 @@ Read more: [TCS Q1 Results : Tata Consultancy Services announces Q1 FY 2009-2010
 
 Students of the country’s best engineering colleges may now have to wait till their final year for clinching a job with an IT firm. In a bid to get greater visibility of the business environment while hiring, IT companies, such as TCS and Wipro Technologies, are now looking to push campus recruitment closer to the pass-out date. This is sure to calm down freshers aspiring to join these two leading companies. Good to hear that people are not laying off or stopped recruiting at least. 
 
-![TCS Freshers Off Campus Placement News Wipro IBM Accenture Infosys Cognizant Hiring Jobs Joining Letter](https://insightcrunch.com/wp-content/uploads/2009/02/pexels-photo-4342126.jpeg)
+![TCS Freshers Off Campus Placement News Wipro IBM Accenture Infosys Cognizant Hiring Jobs Joining Letter](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Campus Placement News for Freshers and Experienced

@@ -20,7 +20,7 @@ Keep reading: [Team work and the odd ones out in the IT sector »](https://insig
 
 Have you finished adding your photos to as many groups and backing them up. Well that’s only part of Flickr that you have explored as yet. With Flickr’s new video option, you can make and upload your own videos (90 seconds and 150MB limit). Don’t upload TV shows and lengthy movies, well you can try, but only first 90 seconds will be shown. You can even make your own time-lapse movies of the sun gradually setting or two snails racing etc. If you do not know how to make a time-lapse await my next blog article soon. So keep making your videos or uploading your existing ones and keep them sharing in as many groups you can!
 
-![Flickr Photo Upload Features](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-167832.jpeg)
+![Flickr Photo Upload Features](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Flickr Photo Upload Features
 
 This might be called as a bit of Flickr addiction by others by as for the user who gets addicted, there’s nothing more pleasurable than to keep taking snaps and sharing them on this awesome platform. So follow these steps above and keep going!!

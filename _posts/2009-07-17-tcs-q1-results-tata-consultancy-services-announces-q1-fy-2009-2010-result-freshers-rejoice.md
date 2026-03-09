@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 TCS has finally released their Quarter 1 results for the Financial year 2009-10. Amongst others, freshers who are awaiting joining dates were really eager to see how they fare. And the good news has arrived. TCS will start to call freshers from this quarter itself. You cannot be sure when they will give joining dates to your college, but people say they call according to the rankings of the colleges. An official assurance for us after a long time!
 
-![TCS Hiring Freshers NQT Ninja Digital Registration BPS Resume](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-1015568.jpeg)
+![TCS Hiring Freshers NQT Ninja Digital Registration BPS Resume](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Hiring Freshers
 
 **In a press conference, some of the main points expressed by TCS are –    

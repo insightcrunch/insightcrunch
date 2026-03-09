@@ -14,7 +14,7 @@ Here’s an awesome in-depth coverage of how things happened. No doubt why TCS i
 
 Several names began to do the rounds, including that of Wipro veteran Vivek Paul. But those who worked with the company and research analysts had a clear idea which way the wind was blowing. TCS also stood for ‘Take Chandra Seriously’, they said. They were not off the mark. Natarajan Chandrasekaran (called Chandra by colleagues and friends) will take over as the managing director and chief executive officer from Ramadorai on October 6.
 
-![Natarajan Chandrasekaran](https://insightcrunch.com/wp-content/uploads/2022/09/2E7375E1-7D73-480A-A44E-F6C6B115AA26.jpeg)
+![Natarajan Chandrasekaran](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Natarajan Chandrasekaran
 
 There were indications that Chandrasekaran, who is currently the chief operating officer and executive director of the company, was indeed the chosen one. For instance, he began to interact with the media more than a year ago. On his part, Ramadorai, who will become vice-chairman of the company he nurtured for almost 13 years, says: “I spotted him (Chandrasekaran) way back in 1996, and knew that he had the potential.”
@@ -32,7 +32,7 @@ Chandrasekaran joined TCS on January 27, 1987, after graduating from the Regiona
   
 Chandrasekaran cut his teeth as a programme director. In this role, he led a number of firsts, particularly in the acquisition and execution of transformation projects in verticals such as banking and telecom and in markets as diverse as the US and Australia. As programme director, Chandrasekaran had considerable scope to navigate the business in the direction which it is now following.
 
-![Subramanian Ramadorai](https://insightcrunch.com/wp-content/uploads/2022/09/FF33E79D-411C-4C14-B3D7-94E84064863F.png)
+![Subramanian Ramadorai](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Subramanian Ramadorai
 
 After this, for two full years, 1997 to 1999, he worked as Ramadorai’s executive assistant. It was here, many insiders say, that Chandrasekeran was silently groomed under the watchful eyes of Ramadorai. In 1999, he started the e-business unit of TCS and grew it to a business unit of over $500 million in four-and-a-half years. After this, he was made the head of global delivery at Mumbai, which was then TCS’ largest delivery centre.
@@ -79,5 +79,5 @@ Chandrasekaran’s task thus is to build an army of leaders. The organizational 
 
 “These (unit heads) are our next level of leaders. Each of these units rakes in anywhere between $250 million and $400 million. We are targeting $1 billion from each unit. The flexibility of these units lies in the fact that we can pull out any leader from within the group to create a new division if required,” says Chandrasekaran. You could call it retirement planning at 46. 
 
-![TCS Transition : How S Ramadorai groomed Natarajan Chandrasekaran as his successor](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-999267.jpeg)
+![TCS Transition : How S Ramadorai groomed Natarajan Chandrasekaran as his successor](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Transition : How S Ramadorai groomed Natarajan Chandrasekaran as his successor

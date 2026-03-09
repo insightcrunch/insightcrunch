@@ -18,5 +18,5 @@ Read more: [File sharing services review »](https://insightcrunch.com/2009/08/0
 
 His loved ones who arrived in huge numbers at the hospital broke into tears when this news was announced. Over the years, he grew up as one of the finest and able leaders handling tough situations with ease. Surely his name will be remembered for quite sometime now.
 
-![Kolkata Mourns Death](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-260954.jpeg)
+![Kolkata Mourns Death](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Kolkata Mourns Death

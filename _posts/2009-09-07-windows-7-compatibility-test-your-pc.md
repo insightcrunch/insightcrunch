@@ -20,5 +20,5 @@ Read more: [What can Picasa do to beat Flickr »](https://insightcrunch.com/2009
 
 So before asking your friends for that Windows 7 DVD or buying it, check if you meet the requirements. So far the feedback for this operating system had been pretty positive and people really felt Microsoft should have brought this version out at the time when they brought Vista, which was a huge failure. Windows 7 sure is going to pose a competition to Google’s new operating system due out soon!
 
-![Windows Compatibility](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-6177596.jpeg)
+![Windows Compatibility](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Windows Compatibility

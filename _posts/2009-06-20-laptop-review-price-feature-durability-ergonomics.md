@@ -17,5 +17,5 @@ Amongst the various brands of laptops available, some of the top brands really p
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=rrUv8SJjyeRB0YgQWs82S6Q" width="420" height="1950" /]    
 Have something more to share? Just submit in the form below. Your views and comments would be very valuable for the readers here.     
 
-![Laptop Comparisons](https://insightcrunch.com/wp-content/uploads/2009/06/pexels-photo-69432.jpeg)
+![Laptop Comparisons](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Laptop Comparisons

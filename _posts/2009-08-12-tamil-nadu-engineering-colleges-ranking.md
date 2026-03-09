@@ -14,5 +14,5 @@ This is one of the most sought after ranking list with so many engineering colle
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Tamil Nadu Engineering Colleges](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-256455.jpeg)
+![Tamil Nadu Engineering Colleges](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Tamil Nadu Engineering Colleges

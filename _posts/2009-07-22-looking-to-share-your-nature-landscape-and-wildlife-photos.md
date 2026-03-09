@@ -20,7 +20,7 @@ Keep reading: [Mahindra Satyam freshers doubtful »](https://insightcrunch.com/2
 
 What becomes addicting after some time is the community feature, because as you share your pics in more and more groups, more people see your photos and leave comments, you comment in theirs when you get time and so it fun to hang out.
 
-![Flickr Landscape Wildlife Nature Photo Group](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-733090.jpeg)
+![Flickr Landscape Wildlife Nature Photo Group](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Flickr Landscape Wildlife Nature Photo Group
 
 Many people are concerned of their privacy being breached and their photos misused. But here if you explore the Flickr’s account section a bit closely you will find lots of right and permissions you can choose to allow or not to allow. For more information you can check out this, though it’s actually a comparison yet the Flickr column alone should prove to be useful.

@@ -16,5 +16,5 @@ Read more: [TCS Passport Offices to open next month »](https://insightcrunch.co
 
 In the Dataquest ranking in India TCS stood out from the rest with a #1 position. The analysis revealed the last quarter really tested the business model of all the IT companies and TCS admirably braved the challenges with brilliant management skills. Diversification of it’s services also helped it in many aspects. With so much of positives happening around, TCS sure is looking forward to some more growth and improvements that could ensure they remain the best.
 
-![TCS ranks top amongst Global and Indian cos Performance Quarter Annual Report](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-5668465.jpeg)
+![TCS ranks top amongst Global and Indian cos Performance Quarter Annual Report](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ranks top amongst Global and Indian cos

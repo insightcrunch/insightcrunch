@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 For the past few months I had been having trouble with Google Reader. My subscriptions just wont show up under the Subscriptions heading though the respective articles all appeared fine in the body of the Reader. The day when Google improved on the Gmail buttons I found my Subscription list back there. A great moment for me, am back to reading all the stuffs am interested in as quick as possible again. I just love this piece of technology by Google.
 
-![Google Reader bug fixed](https://insightcrunch.com/wp-content/uploads/2009/02/pexels-photo-2041891.jpeg)
+![Google Reader bug fixed](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Reader bug fixed
 
 Read more: [Kolkata Maidan being mauled by rallies »](https://insightcrunch.com/2009/02/23/kolkata-maidan-being-mauled-by-rallies-again-and-again-and-again-and/)

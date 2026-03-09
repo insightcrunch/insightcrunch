@@ -18,5 +18,5 @@ This list is updated regularly based on several feedbacks on various issues and 
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Pune Engineering Colleges](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-3807746.jpeg)
+![Pune Engineering Colleges](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Pune Engineering Colleges

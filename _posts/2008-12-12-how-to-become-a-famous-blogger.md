@@ -10,7 +10,7 @@ reading_time: 1
 author: "Insight Crunch Team"
 ---
 
-![](https://insightcrunch.com/wp-content/uploads/2022/08/90aab552-6672-435a-bcca-7eefc55cc783.gif?w=843)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 I just came across this thing which I think will help all bloggers to try and become famous... ;)
 
@@ -22,5 +22,5 @@ Again if you blog day and night and your blogs have the latest and up-to-date co
 
 Hope this is the simplest solution :)
 
-![How to Become a Famous Blogger](https://insightcrunch.com/wp-content/uploads/2008/12/pexels-photo-851213.jpeg)
+![How to Become a Famous Blogger](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How to Become a Famous Blogger

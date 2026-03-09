@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 This would be really a demanding question given the current scenario. The Picasa vs Flickr war will go on forever as these two companies exist. There is absolutely a big gap considering the features of these two services as you saw in my last article. Google really wants to dominate whichever field they get into, and they will certainly not be happy with it.
 
-![Flickr Comparison](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-3024995.jpeg)
+![Flickr Comparison](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Flickr Comparison
 
 First and foremost there should be a change in the storage capacity structure of Picasa. What I mean is Flickr’s plan at the first glance looks so much appealing and attractive whereas looking at Picasa’s plan one needs to think a lot whether the cost seems justified. Moreover, the community aspect needs to be built upon a lot and related services associated with it will help make Picasa far better than what it is now. But it will take a lot of time to make existing Flickr users shift to this new Picasa. Specially those who already have integrated their life a lot into it with their valuable contents. So it’s a matter of time now to see how Google counters it’s major rival in the photo sharing segment.  

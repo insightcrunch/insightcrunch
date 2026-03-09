@@ -28,5 +28,5 @@ However, in spite of this trouble, at times the site is functioning properly. Bi
 4. Help your friends by signing out of the site after you have finished once.   
 5. If all fails, contact your TPO at the earliest!
 
-![TCS NextStep portal facing severe strain](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-1181316.jpeg)
+![TCS NextStep portal facing severe strain](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NextStep portal facing severe strain

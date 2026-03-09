@@ -18,5 +18,5 @@ Read more: [Firefox Toolbar now with Twitter, Bing, and more »](https://insight
 
 With the school keeping the option for both the boards open, it is sure to add a nice feather in the cap for the school, as now students have more options open while aspiring for various streams and avenues for higher studies. They will have option to choose a board after class Vlll final exams. The impacts of this system are yet to be seen, though they are sure to beneficial to the students, in more ways than one. With opportunities of higher studies and jobs widening everyday, this is sure a good move for the education system in the state.
 
-![South Point High School Boards](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-1516440.jpeg)
+![South Point High School Boards](/assets/images/technology-industry-analysis-insightcrunch.webp)
 South Point High School Boards

@@ -35,5 +35,5 @@ In 2007, he, along with three other senior executives, was elevated to the posit
 
 At a time, when the company is coping with a falling demand in its core overseas market, this move is seen as positive. However, analysts tracking the company said it was ‘status-quo’ and the announcement was along expected lines. **"**
 
-![TCS: N. Chandrasekaran to succeed S. Ramadorai as CEO, S. Ramadorai to take over as Vice-Chairman in a non-executive role](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-3861933.jpeg)
+![TCS: N. Chandrasekaran to succeed S. Ramadorai as CEO, S. Ramadorai to take over as Vice-Chairman in a non-executive role](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS: N. Chandrasekaran to succeed S. Ramadorai as CEO, S. Ramadorai to take over as Vice-Chairman in a non-executive role

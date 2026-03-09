@@ -16,5 +16,5 @@ https://youtu.be/cUdndePGT_I
 
 Communication technologies are ceasing to be as attractive as they were before with tele-presence and tele-conferences quiet common nowadays, yet a great deal of fortune seems to lie in communication technology itself, innovative newer inventions or making existing ones innovatively simple, that’s what it should be like. Yet some more which fascinate me are hand-held technologies you carry with you which can be made to have unlimited possibilities.
 
-![Video Games Xbox Nintendo Playstation Mario](https://insightcrunch.com/wp-content/uploads/2009/07/mario-luigi-yoschi-figures-163036.jpeg)
+![Video Games Xbox Nintendo Playstation Mario](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Video Games

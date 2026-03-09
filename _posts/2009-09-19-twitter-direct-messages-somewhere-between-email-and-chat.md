@@ -16,5 +16,5 @@ Read more: [TweetMeme: Storehouse of hot Twitter topics »](https://insightcrunc
 
 How much can you express yourself officially in a space of 140 characters after all. It all comes down to speed and getting the message across as fast as you can and replying to your friends instantly. The one Twitter client I always love to use and have bookmarked in my mobile is Twitter2Go. Feel free to use it and [add me](http://twitter.com/Rahul_B) in Twitter.
 
-![Twitter Direct Messages](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-230554.jpeg)
+![Twitter Direct Messages](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Twitter Direct Messages

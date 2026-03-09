@@ -87,5 +87,5 @@ So, which has been a more rewarding partnership?
 
 “Family comes first; without that you can’t do much,” is the candid reply. 
 
-![Mr. S. Ramadorai : The Genius](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-1002693.jpeg)
+![Mr. S. Ramadorai : The Genius](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Mr. S. Ramadorai : The Genius

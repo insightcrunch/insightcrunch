@@ -20,5 +20,5 @@ Keep reading: [Flickr's addiction: How NOT to get rid off it »](https://insight
 
 With so much of flexibility round the corners, Google’s engineers and researchers have no doubt been achieving something which many of us would have thought of but couldn’t find those services. Hope they come up with more such lab stuffs and integrate some of them into their core products.
 
-![Google Projects](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-6963740.jpg)
+![Google Projects](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Projects

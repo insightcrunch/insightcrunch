@@ -14,7 +14,7 @@ IT professionals working with Tata Consultancy Services (TCS) will now spend mor
 
 In doing so, TCS has become the second IT major to stretch its work hours, starting next year. Earlier, Accenture, in an internal communication, told its employees that they would have to work for an extra hour starting January 1.
 
-![TCS Infosys Work from Home Work Life Balance Policy Wipro IBM Cognizant Accenture Tech Mahindra](https://insightcrunch.com/wp-content/uploads/2009/02/pexels-photo-2536579.jpeg)
+![TCS Infosys Work from Home Work Life Balance Policy Wipro IBM Cognizant Accenture Tech Mahindra](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Importance of Work Life Balance
 
 A spokesperson for TCS who was approached for a response said the company is “constantly looking at ways to improve productivity and efficiency”. On the increase in working hours, no policy has been finalised or communicated yet to the employees, he said.

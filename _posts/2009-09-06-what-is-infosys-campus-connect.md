@@ -18,5 +18,5 @@ Read more: [Windows 7 Compatibility: Test your PC »](https://insightcrunch.com/
 
 Students who have undergone the program would be made to sit for a test on joining Infosys. Based on that they would be categorized for lesser or further training, which in either way, is not fatal. Even without doing the course if one just goes through the materials thoroughly it would be helpful as it would help learning and clearing useful concepts. Students or candidates of any company or placed in any organization would be benefitted by having a clear understanding of these relevant concepts. Keep in touch [here](http://feedburner.google.com/fb/a/mailverify?uri=blogspot/YwqG).
 
-![Infosys Training and Hiring](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-6209356.jpeg)
+![Infosys Training and Hiring](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Infosys Training and Hiring

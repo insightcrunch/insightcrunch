@@ -14,7 +14,7 @@ The headcount of India's largest software company shrank despite a gross additio
 
 A company spokesperson confirmed the staff decline but added that TCS's attrition levels were in line with the industry average. "Our attrition level has remained similar to what it was in the previous quarter. However, since we have controlled gross additions, the overall headcount has come down," said a TCS spokesperson.
 
-![TCS Hiring and Attrition NQT Ninja Digital Registration Syllabus Practice Question](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-7447250.jpeg)
+![TCS Hiring and Attrition NQT Ninja Digital Registration Syllabus Practice Question](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Hiring and Attrition
 
 Regarding the 24885 fresh campus recruitments, TCS confirmed they would honor their promises made to the candidates and would start to give joining from July-September. Lateral hiring would however slow down, but continue however.

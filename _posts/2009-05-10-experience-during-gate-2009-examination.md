@@ -34,7 +34,7 @@ Keep on reading: [Einstein and Alex - Refining Parrots »](https://insightcrunch
 
 The final one month before the exam was all about constant practice and nothing else. Totally dedicated towards GATE study and nothing else.
 
-![GATE Examination Experience](https://insightcrunch.com/wp-content/uploads/2009/05/pexels-photo-6684285.jpeg)
+![GATE Examination Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How to Prepare for GATE Examination
 
 Finally, the examination day came. I was surprised to see such easy questions to begin with. I became too relaxed and started solving problems slowly and steadily. And that was the mistake I made. In the end there were some tough problems and i struggled to finish off the paper. I made a total mess of the whole exam. To make it worse when i discussed the answers with my friends i found out that i made about 8 marks of silly mistakes. All my hopes of studying in IIT was completely gone.

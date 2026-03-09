@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 As a kid I often wondered if only I could have communicated with my pet dog, an Alsatian..which used to be my best friend back home. What if other than playing with balls and Freezbie we could talk to each other..just what he felt like…
 
-![Dog Comics Talking Confession Drawing Art](https://insightcrunch.com/wp-content/uploads/2022/08/5b66939e-b8f7-493a-afb7-78f420a264ce.jpeg?w=550)
+![Dog Comics Talking Confession Drawing Art](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Dogs Talking and Confessing
 
 Now after so many years, the same thoughts came back and just turned out to give some queer feeling. In today’s world, just imagine what each an animal could have done with their speech power. With their limited understanding, of course, the world would have been a very confused place for them with so much of greed and politics. But would we have any question to their answers if they asked us “Why do you wage wars?” “Why do some people terrorize others?” If every bird could sing out their heart and their express their plight..if every endangered animal could express their anxiety..perhaps they would have been looked upon differently.
@@ -21,5 +21,5 @@ Read more: [The Maestro - A.R. Rahman »](https://insightcrunch.com/2009/01/16/t
 
 What if they all were given the right to vote along with us?? Would they still be as vulnerable as they are today?
 
-![Talking to Pet Dogs](https://insightcrunch.com/wp-content/uploads/2009/01/pexels-photo-10353736.jpeg)
+![Talking to Pet Dogs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Talking to Pet Dogs

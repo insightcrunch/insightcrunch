@@ -36,7 +36,7 @@ The TCS Digital profile is a combination of various domains like Internet of Thi
 
 Preparation for the TCS National Qualifier Test (NQT) begins several months before the actual exam. It includes questions from topics like percentage, prices of products, advanced fractions, spatial reasoning, permutations and combinations, averages, and the overall number system. Strategic preparation and guidance can help crack this exam for aspirants looking to secure a job in TCS. The rules of divisibility are another important concept for this exam. Questions on seating arrangement, probability, number series, ranking problems, and string problems, are important topics for the TCS NQT exam. Download the TCS study materials guide above to get a comprehensive and solid understanding of how to prepare for the exam and related question patterns.
 
-![TCS Study Materials Guide NQT Ninja Digital ILP Job Hiring Joining Date Fresher Offer Letter](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-8199708.jpeg)
+![TCS Study Materials Guide NQT Ninja Digital ILP Job Hiring Joining Date Fresher Offer Letter](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Study Materials Guide
 
 ## Benefits of Study Materials

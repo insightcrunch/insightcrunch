@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 This is just a short post from my mobile before I fall asleep now. I just discovered the fun of blogging without using a computer! Now I can blog even in my tight schedule in the next 3 months !! Yeah, mayb I cant post cool pics and videos but I'll certainly try to makeup with my words :) ..Sleepy now...Good Night! ....Zzzzzz....
 
-![Blog from Mobile](https://insightcrunch.com/wp-content/uploads/2009/02/pexels-photo-7609048.jpeg)
+![Blog from Mobile](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Blog from Mobile
 
 Read more: [Music in Anakhronos 2009 »](https://insightcrunch.com/2009/02/26/music-in-anakhronos-2009/)

@@ -20,5 +20,5 @@ Read more: [Infosys Campusing Experience »](https://insightcrunch.com/2009/06/2
 
 It is a very queer feeling to know that your every keystroke, your every search is stored in Google’s database, all that you have searched over the years, all your transactions, all your chats are constantly being overlooked by someone. It’s true Google takes utmost care of it privacies. But who knows, cases when governments requests information from Google to know about their citizens is a tricky situation. Google refused once way back in early 2006, as appeared in an Washington Post article, but how long can they keep their user’s data private from the world is a big issue now. However, I simply cannot imagine the internet without Google, for the next few years at least. It’s going to take some awesome products one after another to take me away from it! What about you? Share this with your friends and ask them what they think!
 
-![Google Products in People's Lives](https://insightcrunch.com/wp-content/uploads/2009/06/pexels-photo-5494323.jpeg)
+![Google Products in People's Lives](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Products in People's Lives

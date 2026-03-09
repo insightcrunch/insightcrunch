@@ -44,7 +44,7 @@ Well my friend I had a unique experience a few days when I met one of the my tea
 
 - Mobile Computing & UMTS Networks.
 
-![Computer Science Research in India](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-906055.jpeg)
+![Computer Science Research in India](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Computer Science Research in India
 
 I am not going to the details of these topics but any of you interested in these must check out what these are in order to realize that how some of our opinions about computer science research is horribly wrong. India is fast becoming service only country with little or no effort into research. This is a very harmful trend as this will one day help to abate our values as development partners. We are known as terrific service providers but when do you learn to create something new. It is very important to us now since it is time we start something new on our own and there is always a chance of failure no matter how cautiously we proceed.

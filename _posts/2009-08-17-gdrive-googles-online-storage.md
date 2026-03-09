@@ -18,5 +18,5 @@ Read more: [How Google Labs will continue to be an integral part of Google produ
 
 Here’s another battle that will start. No points for guessing, Sky Drive vs GDrive! The old rivals meet again in a similar battle ground. Only concern users may face which might come in their way of using GDrive is privacy. It’s only the level of trust which you have for Google that will let you fully explore GDrive no matter however confidential your data is. So things will become clear after it is launched, if GDrive is impressive enough regarding safety and security then there’s no reason why I shouldn’t be going for their paid service!
 
-![Google Drive Storage](https://insightcrunch.com/wp-content/uploads/2009/08/pexels-photo-7594824.jpeg)
+![Google Drive Storage](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Drive Storage

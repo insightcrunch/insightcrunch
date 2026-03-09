@@ -16,7 +16,7 @@ Lets  hope he brings about the long-desired change that his campaigns spoke abo
 
 May the first Afro-American president create history during his tenure.
 
-![Obama Presidency](https://insightcrunch.com/wp-content/uploads/2009/01/pexels-photo-129112.jpeg)
+![Obama Presidency](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Obama Presidency
 
 Read more: [Gmail grows up with offline e-mail access »](https://insightcrunch.com/2009/01/28/gmail-grows-up-with-offline-e-mail-access/)

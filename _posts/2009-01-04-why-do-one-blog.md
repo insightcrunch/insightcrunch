@@ -30,5 +30,5 @@ Read more: [Rise, Calcuttans »](https://insightcrunch.com/2009/01/06/rise-calcu
 
 If you were to ask me why do I blog, I would say I belong to class 2(1). Time to take a break…would be soon back.. :)
 
-![Why do one blog?](https://insightcrunch.com/wp-content/uploads/2009/01/pexels-photo-6003823.jpeg)
+![Why do one blog?](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Why do one blog?

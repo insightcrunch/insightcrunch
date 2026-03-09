@@ -14,5 +14,5 @@ Buddhadeb Bhattacharjee, chief minister of West Bengal, in a one-on-one intervie
 
 https://www.youtube.com/watch?v=GUOQP5dUFrg
 
-![Karan Thapar Interviews Buddhadeb Bhattacharjee](https://insightcrunch.com/wp-content/uploads/2009/03/pexels-photo-320617.jpeg)
+![Karan Thapar Interviews Buddhadeb Bhattacharjee](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Karan Thapar Interviews Buddhadeb Bhattacharjee

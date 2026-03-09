@@ -20,7 +20,7 @@ Keep reading: [Looking to share your Nature, Landscape and Wildlife Photos? »]
 
 Just when you are thinking that it’s all over, a few more bits and pieces come together to make Kewll all the more appealing. You get your most essential tools like Gmail, Yahoo mail, Google News, Orkut, Facebook, YouTube, etc under “Royal Stuffs”. The best part is you can always use the Kewll button to suggest stuffs and see them appear on the toolbar soon. The News and Sports tabs deserve to speak for themselves. With updates happening every moment round the world, you won’t fall behind even for one second with it.
 
-![Firefox Browser Extensions](https://insightcrunch.com/wp-content/uploads/2009/07/pexels-photo-196660.jpeg)
+![Firefox Browser Extensions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Firefox Browser Extensions
 
 Now coming to my blog’s section. With overwhelming response from my readers about the tech articles and news of TCS, I decided to put it in the toolbar so that readers can stay updated in the browser itself and read the new articles any time.

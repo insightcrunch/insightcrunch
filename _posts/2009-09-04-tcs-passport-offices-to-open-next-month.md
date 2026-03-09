@@ -14,7 +14,7 @@ The much awaited passport project has been finally established as news flashed e
 
 **“**Tata Consultancy Services (TCS) will open six offices across India in October to provide passport services, a company official has said. The much delayed 'Passport Seva Project' is expected to take off with this move.
 
-![TCS Passport Offices to open next month](https://insightcrunch.com/wp-content/uploads/2009/09/pexels-photo-3885530.jpeg)
+![TCS Passport Offices to open next month](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Passport Offices to open next month
 
 With the launch of this Rs 100 billion project, the processing time for issuance of a passport is expected to be reduced to three days and to one day under the Tatkal (immediate) scheme.

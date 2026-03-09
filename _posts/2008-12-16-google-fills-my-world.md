@@ -16,5 +16,5 @@ Read more: [Pak tour rightfully called off »](https://insightcrunch.com/2008/12
 
 One more factor I find that contributes majorly to the success of Google is the speed of their applications. It might seem that “we may be slower, but we’re better in functionalities” strategy of some companies are taking a backseat now. Because Google is even filling its apps with as much functionalities with as much efficiency in starting up and getting their apps ready for use. Why would people switch to other apps when they get so many functionalities integrated in a fast easy-to-use application. No wonder why Gmail is the next best email service provider, probably going to be the best in near future, surpassing Yahoo! Mail. Recently after integrating video chat silently in Gmail, they seemed to have made the final breakthrough into the champions field. The simplicity yet full-of-features applications are what makes Google a great favorite to me. Am happy to have myself surrounded by some of such cool Google products am not yet thinking of switching to any other in near future too… Long live Google !!!
 
-![Google fills our world](https://insightcrunch.com/wp-content/uploads/2008/12/pexels-photo-1072851.jpeg)
+![Google fills our world](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google fills our world
