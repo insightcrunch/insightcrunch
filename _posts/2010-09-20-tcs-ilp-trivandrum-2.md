@@ -29,5 +29,5 @@ Finally it was the time for adieu, these 2 months I gained new friends which I w
 
 Happy Anniversary – 8th December 2008
 
-![TCS ILP Trivandrum](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-5256816.jpeg)
+![TCS ILP Trivandrum](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Trivandrum

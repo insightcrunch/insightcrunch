@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Most of the RSS readers work average with the iPad, many of the ones which used to provide superb performance for the iPhone work more or less efficiently in the iPad.  Reeder didn’t have such a support for the iPad until recently when it will extend its support for the iPad soon.
 
-![Best iPad Readers](https://insightcrunch.com/wp-content/uploads/2010/07/pexels-photo-2265482.jpeg)
+![Best iPad Readers](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Best iPad Readers
 
 Read more: [Google Music: iTunes Competitor unleashed? »](https://insightcrunch.com/2010/07/09/google-music-itunes-competitor-unleashed/)

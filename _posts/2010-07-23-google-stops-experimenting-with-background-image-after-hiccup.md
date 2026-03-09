@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 With rival search engine Bing keeping on flashing stunning shows of photography in its homepage, Google tried to take a step forward towards that idea. But users reportedly went crazy on June 10th, 2010 when they found their homepage clustered with crazy hippos. Hundreds of tweets went out.
 
-![close up of pictures](https://insightcrunch.com/wp-content/uploads/2010/07/pexels-photo-185933.jpeg)
+![close up of pictures](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Homepage Design
 
 Read more: [Twitter to begin wrapping up links officially with t.co link shortener »](https://insightcrunch.com/2010/07/27/twitter-to-begin-wrapping-up-links-officially-with-t-co-link-shortener/)

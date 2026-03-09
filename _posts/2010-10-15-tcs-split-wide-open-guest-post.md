@@ -156,5 +156,5 @@ I was with TCS for less than a month but the experience I gained was really good
 
 When I submitted my resignation - I really felt bad to be leaving TCS - as it was my first job. I had to submit my ID card and my smart card, and on going out of the ILP center, I was asked to sign the visitor's register because I was no more a TCS employee - but just another visitor.....
 
-![TCS Split Wide Open](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-7129700.jpeg)
+![TCS Split Wide Open](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Split Wide Open

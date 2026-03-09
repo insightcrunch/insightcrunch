@@ -42,5 +42,5 @@ I said " Hi Divya. Good morning PL". Divya said " Stop it Rahul. Now no more. We
 
 We reached training centre by 9:30. Immediately i went to Sunita's class and searched for her. By that time everybody from her class knew that sunita and i were from same college and if i have come to their class, then it must have been for sunita only. Suddenly renji waved his hand to me and directed me to sunita. Sunita said " Hi Rahul, good morning. So you must be happy that training is over and you don't have to do any more assignments right!!!". I said "Yes, after 44 days of hard work and dedication for training program, now i am tired". Sunita said " Yes i know. Divya had already told me, how much you work for assignments.
 
-![TCS ILP Pune](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-4778621.jpeg)
+![TCS ILP Pune](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Pune

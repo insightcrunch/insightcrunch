@@ -20,7 +20,7 @@ author: "Insight Crunch Team"
 
 5. [PDF Page](http://www.pdfdownload.org/pdf_bookmarklet.html) lets you save the page you are viewing right now as a PDF. This is extremely useful as we all know the benefit of a PDF document in today’s world.
 
-![Top Google Chrome Extensions](https://insightcrunch.com/wp-content/uploads/2010/11/pexels-photo-374016.jpeg)
+![Top Google Chrome Extensions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Top Google Chrome Extensions
 
 Read more: [Love to forward mails to a lot of friends? Make Gmail Contact Groups. »](https://insightcrunch.com/2010/11/16/love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups/)

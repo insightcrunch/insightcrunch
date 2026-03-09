@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Even after modifying its privacy controls, Facebook seems to still have a lot of work to do. A number of major advocacy groups, including the ACLU, EFF, and CDT, sent Facebook an open letter detailing some outstanding issues with Facebook privacy. The letter acknowledged Facebook’s recent steps to more efficient privacy controls but also said that there are still some flaws.
 
-![Facebook Privacy Concerns and Policy](https://insightcrunch.com/wp-content/uploads/2010/08/pexels-photo-927629.jpeg)
+![Facebook Privacy Concerns and Policy](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Facebook Privacy Concerns and Policy
 
 Read more: [Google Docs ready to take on Microsoft Office 2010 »](https://insightcrunch.com/2010/08/27/google-docs-ready-to-take-on-microsoft-office-2010/)

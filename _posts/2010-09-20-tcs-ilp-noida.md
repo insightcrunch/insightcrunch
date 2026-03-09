@@ -22,5 +22,5 @@ Ohh! I forget to mention the worst part of the story and its they treat us like 
 
 Freedom@TCS-ILP is actually denied and we can’t even go to the cafeteria downstairs even in the self-learning sessions, we can’t talk on phones and they have advised us to keep it switched off! And yes, only thing you will find is boredom. There is one positive point and it is some of our becoming good friends but in such a small time I still stagnant on the point of friendship as most of us even never be together again but yes lets grasp the moments and try to enjoy all the moments that we have as these are the last moments we have as friends and last breaths to hold the schooling feeling anymore, yes now I can say, we can really find some positive points in any thing we dare to think.
 
-![TCS ILP Noida](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-3563697.jpeg)
+![TCS ILP Noida](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Noida

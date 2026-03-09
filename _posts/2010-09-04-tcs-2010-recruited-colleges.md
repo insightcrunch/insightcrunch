@@ -17,5 +17,5 @@ Read more: [TCS 2010 Offcampus Joining Dates »](https://insightcrunch.com/2010/
 
 For those who are still waiting for their joining this year, this list below is going to provide a consolidated view of the current scenario. The list of recruited colleges, the number of recruits and date of receiving offer letter have been suitably filled out. There are also a lot more statistics as you keep scrolling to the right hand side by the scrollbar. This spreadsheet is updated by the information provided by thousands of TCSers across the country. This spreadsheet owes special kudos to Pradeep Alagambhat, a fellow TCSer.
 
-![TCS Recruited Colleges Hiring Offcampus Placement Hiring NQT Digital Ninja](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-6237988.jpeg)
+![TCS Recruited Colleges Hiring Offcampus Placement Hiring NQT Digital Ninja](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS 2010 Recruited Colleges

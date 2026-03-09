@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.
 
-![Google Chrome and Microsoft Edge](https://insightcrunch.com/wp-content/uploads/2010/07/pexels-photo-1438081.jpeg)
+![Google Chrome and Microsoft Edge](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Chrome and Microsoft Edge
 
 Read more: [Twitter spammers sending out malware via random replies »](https://insightcrunch.com/2010/08/03/twitter-spammers-sending-out-malware-via-random-replies/)

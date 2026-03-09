@@ -14,7 +14,7 @@ Yahoo has struck upon an innovative campaign where users share their small acts 
 
 Read more: [Facebook to have new privacy controls »](https://insightcrunch.com/2009/12/20/facebook-to-have-new-privacy-controls/)
 
-![Kindess Projects](https://insightcrunch.com/wp-content/uploads/2009/12/pexels-photo-7004950.jpeg)
+![Kindess Projects](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Kindess Projects
 
 The site till now has had only 206 updates from users. With lots of more holidays and Christmas coming soon it is sure to overflow with some real cool updates to look out for. It’’’ be interesting to see how Twitter and You In? counters each other if this campaign takes off in a massive way.

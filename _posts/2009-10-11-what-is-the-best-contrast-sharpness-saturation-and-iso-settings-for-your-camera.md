@@ -19,7 +19,7 @@ First and foremost there are some assumptions to be made before this article get
 
 So you have tried taking a few photographs with the above settings and is extremely disappointed with the results? Now choose a photo and use Photoshop to adjust the brightness and contrast. Use sharpen or smart sharpen whichever you like more. Adjust the saturation up to a point where you feel its ok. Take care of the noise. And see the result.
 
-![Popular Camera Settings ISO Contrast Sharpness Saturation](https://insightcrunch.com/wp-content/uploads/2009/10/pexels-photo-69135.jpeg)
+![Popular Camera Settings ISO Contrast Sharpness Saturation](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Popular Camera Settings ISO Contrast Sharpness Saturation
 
 Read more: [Google Wave aimed at a revolution »](https://insightcrunch.com/2009/11/26/google-wave-aimed-at-a-revolution/)

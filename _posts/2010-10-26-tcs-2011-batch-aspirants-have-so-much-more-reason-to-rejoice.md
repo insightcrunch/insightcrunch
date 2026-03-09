@@ -18,5 +18,5 @@ Read more: [TCS 2011 Batch Community »](https://insightcrunch.com/2011/02/19/tc
 
 Now that IT companies are coming near the end of the engineering course is also a very good practice as it facilitates the concept of on-demand more than before. Here are some study materials that you might want to read in case you are aspiring for this dream company of thousands. Joining of the new candidates as it has been already declared would be in a ‘staggered’ manner over the entire next year, the same way the 2010 and 2009 passouts joined.
 
-![TCS Joining Batch aspirants have so much more reason to rejoice](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-3784324.jpeg)
+![TCS Joining Batch aspirants have so much more reason to rejoice](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS 2011 Batch aspirants have so much more reason to rejoice

@@ -26,5 +26,5 @@ And finally the third most thing every engineer fears is the ‘MATC’. Everyon
 
 Now came the time to depart. I thought I was entering a mean world but here at TCS ILP I met the sweetest people of my life. Everyone was so much fun to be with. We developed a sort of harmony. We got accustomed to each other. Somewhere love blossomed and somewhere friendship .The bad corporate world seemed to be really sweet. Everyone was always ready to give a helping hand. If getting back home was something that made everyone happy losing on such wonderful friends made everyone sad. I wish this ilp lasted longer. This wonderful phase of my life is etched in my mind like one of the most beautiful memories. Thanks all of u, for this amazing memory.
 
-![TCS ILP Initial Learning Program at Trivandrum](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-6001831.jpeg)
+![TCS ILP Initial Learning Program at Trivandrum](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Initial Learning Program at Trivandrum

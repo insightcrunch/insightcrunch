@@ -14,5 +14,5 @@ This is good news for all TCS 2010 freshers. Colleges of grades C and C* have st
 
 Read more: [TCS ILP Experience »](https://insightcrunch.com/2010/09/18/tcs-ilp-experience/)
 
-![C and C* grade colleges getting TCS joining](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-7550398.jpeg)
+![C and C* grade colleges getting TCS joining](/assets/images/technology-industry-analysis-insightcrunch.webp)
 C and C* grade colleges getting TCS joining

@@ -20,7 +20,7 @@ document.write('<form method="get" action="http://www.bing.com/search" target="_
 
 It will enable you to get a search box like shown here below. Type in to check it out before you use the code above.
 
-![Bing Search Box for Blog](https://insightcrunch.com/wp-content/uploads/2010/06/pexels-photo-941572.jpeg)
+![Bing Search Box for Blog](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Bing Search Box for Blog
 
 Help your visitors engage in searching anything right from your website and help it make stickier!

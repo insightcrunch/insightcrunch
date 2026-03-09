@@ -14,7 +14,7 @@ Facebook, the popular networking site, is finally rolling out some much talked a
 
 Read more: [E-Book Readers: Battle like never before »](https://insightcrunch.com/2009/12/28/e-book-readers-battle-like-never-before/)
 
-![Facebook Privacy Settings](https://insightcrunch.com/wp-content/uploads/2009/12/pexels-photo-4525078.jpeg)
+![Facebook Privacy Settings](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Facebook Privacy Settings
 
 Facebook CEO Mark Zuckerberg has written an open letter to all it’s users about this change which will surely have a large impact on the current and future developments of this company.

@@ -78,5 +78,5 @@ My love and respect for the House of Tatas remains undiminished by the passage o
 
 Sudha Murthy is the chairperson of the Infosys Foundation. She is involved in a number of social development initiatives and is also a widely published writer.
 
-![TCS and Infosys](https://insightcrunch.com/wp-content/uploads/2010/11/pexels-photo-1438404.jpeg)
+![TCS and Infosys](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS and Infosys

@@ -28,5 +28,5 @@ Finally i got my posting at Delhi and our training ends at 18th feb 10.
 Overall TCS ILP training is something like smart training and tough for those who dreams that now TCS will not kick them out.....JUST BE SERIOUS AS TIME REQUIRED....U WILL ENJOY LIFE AT TCS.   
 BEST OF LUCK::::::
 
-![TCS ILP Bhubaneswar](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-7034588.jpeg)
+![TCS ILP Bhubaneswar](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Bhubaneswar

@@ -22,5 +22,5 @@ Around 4.30 in the evening, Sudarshan was spotted by his friends on the 11th flo
 
 He was found lying dead in a pool of blood. Sudarshan was rushed to the nearest hospital, but was declared dead on arrival by doctors.
 
-![TCS Bangalore fresher Sudarshan Commits suicide](https://insightcrunch.com/wp-content/uploads/2010/08/pexels-photo-1134204.jpeg)
+![TCS Bangalore fresher Sudarshan Commits suicide](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Bangalore fresher Sudarshan Commits suicide

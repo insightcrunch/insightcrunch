@@ -26,5 +26,5 @@ Though significantly large when compared to the current recruitment numbers , th
 
 **Update ***(Economic Times Feb 11th, 2010)* **:** With improving business sentiment and revival in IT spends, hiring seems to be back in full swing at software firm TCS and Wipro. Tata Consultancy Services, the country's largest software exporter by revenue plans to hire 30,000 employees in the financial year 2010-2011.
 
-![TCS Offer Joining Batch Campusing](https://insightcrunch.com/wp-content/uploads/2009/11/pexels-photo-3183169.jpeg)
+![TCS Offer Joining Batch Campusing](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS 2010 Batch Campusing

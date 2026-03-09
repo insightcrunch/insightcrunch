@@ -30,5 +30,5 @@ The company is expected to find it a big challenge to sustain its strong perform
 
 Rising pay is putting a strain on profit margins. TCS has said that it would spend $200m in the coming fiscal year on salary increases, and planned to give 10 per cent annual rises to Indian employees.
 
-![2011 Batch Joining Date Offer Letter TCS to increase workforce](https://insightcrunch.com/wp-content/uploads/2010/07/pexels-photo-2505056.jpeg)
+![2011 Batch Joining Date Offer Letter TCS to increase workforce](/assets/images/technology-industry-analysis-insightcrunch.webp)
 2011 Batch: TCS to increase workforce

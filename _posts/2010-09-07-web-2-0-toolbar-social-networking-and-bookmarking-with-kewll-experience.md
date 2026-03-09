@@ -14,7 +14,7 @@ With the internet advancing with newer Web 2.0 sites every day, it often becomes
 
 Keep reading: [TCS Digital Interview Experience »](https://insightcrunch.com/2017/09/07/tcs-digital-interview-experience/)
 
-![Browser Extensions for Better Productivity](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-207582.jpeg)
+![Browser Extensions for Better Productivity](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Browser Extensions for Better Productivity
 
 So get your browsers up and hot. Start running from your favorite sites to another and keep bookmarking. You will love it. And more so because Kewll is not at all like the other toolbars around, not to disrespect them, but it’s a fact! And the users across the globe who are onto Kewll every day have already realized it. Simply clicking on the green ‘Share’ button opens a ‘Share with Friends’ window. Starting from Facebook, Twitter and Digg to Blogger and a host of other sites, share with just a click. Apart from the services visible, there a lot more when the lovers of Kewll clicks ‘View All’.

@@ -62,5 +62,5 @@ After a week I started for Bhubaneshwar - Kalinga Park.
 
 Between I changed my Orkut tag:"GOT MY BIRTHDAY GIFT, A HAPPY FAMILY".
 
-![TCS Joining The Best Birthday Gift](https://insightcrunch.com/wp-content/uploads/2010/12/pexels-photo-845413.jpeg)
+![TCS Joining The Best Birthday Gift](/assets/images/technology-industry-analysis-insightcrunch.webp)
 The Best Birthday Gift

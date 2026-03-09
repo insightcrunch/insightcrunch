@@ -35,5 +35,5 @@ TCS has affiliation with HDFC bank, so we are offered customized accounts for ou
 **Weather:**   
 its colder here than mumbai, but bearable. the temperature will go down in coming weeks, so then it would be slightly tougher to manage. most people didnt anticipate this and have no warm clothes with them. only i and nikhil loya are having proper warm clothes with us. lets see how it turns out!
 
-![TCS ILP at Infocity Gandhinagar](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-8419169.jpeg)
+![TCS ILP at Infocity Gandhinagar](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP at Infocity Gandhinagar

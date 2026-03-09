@@ -16,5 +16,5 @@ With the increased number of joinees over the next few months, the joining of th
 
 The fact however remains that the scenario will continue to be good as long as a fair percentage of the total workforce continues to be utilized and is not at bench.
 
-![TCS Predictions modified to near perfection](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-3791949.jpeg)
+![TCS Predictions modified to near perfection](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Predictions modified to near perfection

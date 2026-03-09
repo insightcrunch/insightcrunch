@@ -24,7 +24,7 @@ In general, the Senior Software Development Manager will also be engaging with u
 
 One of the other job positions that is extremely critical for Amazon and popular today is that of the associate corporate counsel. The average salary of the associate corporate counsel at Amazon is close to 170,000 United States dollar per year. To begin with, the role of the associate corporate counsel at Amazon is to be a talented attorney for Amazon. To clarify, at this position of the associate corporate counsel for Amazon, you will be a partner to a legal team and their business operations clients. As Associate corporate counsel for Amazon, you will be responsible for structuring and drafting various commercial agreements for Amazon. To put it another way, you will also be in charge of negotiating a variety of commercial agreements, including contracts within the technology, licensing, and the marketing departments at Amazon.
 
-![Amazon Online Jobs](https://insightcrunch.com/wp-content/uploads/2010/05/pexels-photo-4065137.jpeg)
+![Amazon Online Jobs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Amazon Online Jobs
 
 ## Amazon Associate Corporate Counsel Job

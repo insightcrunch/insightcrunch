@@ -26,5 +26,5 @@ In the third quarter of the current fiscal, attrition rate at TCS declined to 11
 
 Mahalingam said TCS was currently focusing on emerging markets like Brazil, particularly in verticals like banking, energy and financial sectors. "We have 2,000 people in Brazil and have been there for six years now. We see a lot of opportunity there," he said.
 
-![TCS plans salary hikes in April](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-4968655.jpeg)
+![TCS plans salary hikes in April](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS plans salary hikes in April

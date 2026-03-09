@@ -37,5 +37,5 @@ Keep reading: [TCS ILP Training Center at Haldia Institute of Technology »](htt
 
 Finally, the end came and emotions were running high among all of us. The thought of us parting in few days was really a hard pill to swallow but memory remains while the journey continues in MUMBAI...
 
-![TCS ILP Ahmedabad](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-4126778.jpeg)
+![TCS ILP Ahmedabad](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Ahmedabad

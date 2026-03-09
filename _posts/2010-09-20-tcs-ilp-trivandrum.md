@@ -46,5 +46,5 @@ With this our EC4 and EC5 exams were over sooner than we could realize. After ou
 
 We all eight were supposed to return from Trivandrum to Mumbai together via train, but later MA, SB and SA chose flight. Our first day of our two day journey to Mumbai was mostly boring and glum. I don’t know why but we were again and again singing “Yeh tara woh tara har tara” in totla voice even when SB was not around to get teased. The second day of trip was great. Everybody was in form that day and the scenic beauty on the way was breathe taking. There were fifty plus tunnels on the way. NG, ShaB and MS had a great time screaming from the door into the tunnels when the train passed through them. At Thane we bid adieu to ShaB, NG and MS. At LTT I bid adieu to SD and that was it. The end of one month’s memories. Maybe ILP could have been a little longer.
 
-![TCS ILP Trivandrum Score Hiring Offer Letter Joining Date](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-7034697.jpeg)
+![TCS ILP Trivandrum Score Hiring Offer Letter Joining Date](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Trivandrum

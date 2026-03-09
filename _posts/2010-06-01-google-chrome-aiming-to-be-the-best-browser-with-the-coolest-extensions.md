@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Google Chrome had been my default browser for quite some time now. And with over nearly 5,000 extensions available, it’s cooler more than ever before.  With cool popup that tell you from Gmail mails to your desired notifications, there isn’t a chance to miss any tasks, appointments or birthdays again.
 
-![Browser Researchers of Chrome](https://insightcrunch.com/wp-content/uploads/2010/06/office-freelancer-computer-business-38547.jpeg)
+![Browser Researchers of Chrome](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Browser Researchers of Chrome
 
 Read more: [Secret powers of Time »](https://insightcrunch.com/2010/06/08/secret-powers-of-time/)

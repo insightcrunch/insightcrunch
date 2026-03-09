@@ -22,7 +22,7 @@ Amazon only wants candidates to make sure that their resume is up-to-date, and t
 
 The Amazon job portal profile should be completely updated to make sure that your application is considered. One of the first interviews that you can expect during your Amazon hiring process is the phone interview. The phone interview in your initial stages will be with the Amazon recruiter. The Amazon pay hourly online is pretty good for the different types of roles, but every candidate must go through the complete interview process by Amazon. Amazon recommends a variety of practice questions and interviews that will help you prepare for the actual exam. There are different coding questions also that are asked in the Amazon interview based on the type of role that you're applying for. 
 
-![How much does Amazon pay an hour online](https://insightcrunch.com/wp-content/uploads/2010/02/pexels-photo-7731369.jpeg)
+![How much does Amazon pay an hour online](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How much does Amazon pay an hour online
 
 ## Amazon Online Jobs Interview

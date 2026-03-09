@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 This is probably the best ever version of operating system released by Microsoft. The looks and feel of this one are better than even Vista. It may be a bit of resource hungry, but it is surely worth it. It makes the overall appearance much more appealing. Not to mention the high-res wallpapers spread all across the net, with which it looks all the more stunning. **Get the theme and the wallpapers** under the orange fire icon after installing this.
 
-![Windows Wallpapers](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-842548.jpeg)
+![Windows Wallpapers](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Windows Wallpapers
 
 No doubt, after you install and start surfing after few minutes, you will keep on appreciating the looks your PC has been gifted with. This theme will take you to as close as you can get to feel Windows 7. Even if it’s a basic task like word processing, you would love to keep working at your desktop or laptop. It’s the visual appeal that counts while using Windows 7, much, much ahead and unlike most other earlier versions of Windows.

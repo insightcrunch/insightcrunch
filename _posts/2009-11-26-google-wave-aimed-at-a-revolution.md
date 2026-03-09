@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Another amazing service started by Google. Something that would fascinate people already acquainted with collaborative working and sharing documents, presentations, sharing files and more. Google Wave apparently is the answer to everything done collaboratively amongst people in a wave (term used by Google to specify each task). The service is now invitation only, very much like what it was like when Gmail was first launched.
 
-![Google new products and features](https://insightcrunch.com/wp-content/uploads/2009/11/ipad-tablet-technology-touch.jpg)
+![Google new products and features](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google new products and features
 
 The thing that fascinated me most was the amazing versatility of this product. Nearly all kinds of collaboration can be done, along with a playback feature that helps to view all the updates that happened over time. You won’t discover the fun using it alone. Get some friends you know to start something you can do together to enjoy it’s features. Sharing photos, videos, files is a breeze. It won’t replace email however, as claimed by many sites and people. But will surely add a new flavor to online communication with the essence of an advanced emailing service, or simply put as an collaboration tool. Below is a video which will make it simple to understand and also a screenshot of Google Wave.

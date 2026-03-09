@@ -217,7 +217,7 @@ Fir bhi itne pyaare dosto me, Humne ye suhana safar hai kaata;
 Sab ko chhod jaane ka khayal, mere dil ko bilkul na bhaata,   
 Itne behtarin jo dost mile hai, Sab sath me bolo Thanks to Tata.
 
-![TCS ILP Chalisa](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-5553038.jpeg)
+![TCS ILP Chalisa](/assets/images/technology-industry-analysis-insightcrunch.webp)
 ILP Chalisa
 
 Read more: [Initial Learning Program at Trivandrum »](https://insightcrunch.com/2010/10/25/initial-learning-program-at-trivandrum/)

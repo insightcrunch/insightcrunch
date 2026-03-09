@@ -59,5 +59,5 @@ document.onmouseup=reEnable
 </script>    
 ```
 
-![Disable Text Selection and Right Click Code](https://insightcrunch.com/wp-content/uploads/2010/06/pexels-photo-5926393.jpeg)
+![Disable Text Selection and Right Click Code](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Disable Text Selection and Right Click Code

@@ -22,7 +22,7 @@ Accordingly, after reading the experiences, you can make a decision and compare 
 
 There are Amazon workers working in the Amazon warehouses who feared that moving too slowly would cause them to get laid off. And hence they were forced and stressed to keep working harder. The employees who have been working in Amazon in these conditions have often shared their experiences and have mentioned that it is extremely important for the area managers of Amazon to understand their employees more, and not to consider them just as numbers. These comments have been shared by Amazon employees on several internal feedback boards that provide an opportunity for employees to share their feedbacks. Employees working at Amazon has reported that they shared feedback that they were also human beings and not tools who can be used to meet only their daily goals and rates.
 
-![What months does Amazon hire](https://insightcrunch.com/wp-content/uploads/2010/03/pexels-photo-3862627.jpeg)
+![What months does Amazon hire](/assets/images/technology-industry-analysis-insightcrunch.webp)
 What months does Amazon hire
 
 ## Amazon Hiring and Turnover

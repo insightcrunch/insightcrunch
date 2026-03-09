@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Google may be taking note of the photogenic interface of the Bing homepage which led it to add a background image last month. The traditional neat look of the homepage faced a sharp contrast with the flashy background image behind the Google search box. But the question is that will Google users accept this change wholeheartedly.
 
-![Google Homepage Background Design](https://insightcrunch.com/wp-content/uploads/2010/07/pexels-photo-1477284.jpeg)
+![Google Homepage Background Design](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Homepage Background Design
 
 [](http://imageshack.com/a/img924/6126/o6Vcbr.gif)Google’s Marissa Mayer writes in a blog post :

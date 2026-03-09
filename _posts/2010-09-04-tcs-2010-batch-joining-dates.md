@@ -16,5 +16,5 @@ Surely the progress would calm the air down and any sort of tensions that been d
 
 Lots of hot discussions is going on now in the online space, where people who got their joining are sharing their joy and those who haven’t are trying to figure out when they might get based on last year’s joining dates. You can view your college grade here.  Have something to say? Feel free to scroll down and comment below.
 
-![TCS Offer Letter Batch Joining Dates](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-7988237.jpeg)
+![TCS Offer Letter Batch Joining Dates](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS 2010 Batch Joining Dates

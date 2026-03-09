@@ -26,5 +26,5 @@ To know the number of colleges of a particular grade for a particular recruiting
 
 If you find this article useful, click here to help it and get occasional updates.
 
-![TCS College Grade](https://insightcrunch.com/wp-content/uploads/2010/07/pexels-photo-1462630.jpeg)
+![TCS College Grade](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS College Grade

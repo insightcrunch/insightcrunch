@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Yahoo had been having this social feature for quite some time now, where the user would have to share his status updates. Then it would be visible to his friends if he had a mutual both way following and friend approval. But now with the concepts of Facebook and Twitter gaining steady grounds, Yahoo is determined not to fall behind in the race.
 
-![Social Networking and the Players](https://insightcrunch.com/wp-content/uploads/2010/08/play-stone-network-networked-interactive-163064.jpeg)
+![Social Networking and the Players](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Social Networking and the Players
 
 Read more: [eBay search now in Kewll »](https://insightcrunch.com/2010/08/22/ebay-search-now-directly-through-kewll/)

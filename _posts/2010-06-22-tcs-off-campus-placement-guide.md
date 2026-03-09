@@ -18,5 +18,5 @@ Read more: [TCS 2010 Recruited Colleges »](https://insightcrunch.com/2010/09/0
 
 Go through each of the steps slowly and as you know already, there’s no shortcut to success. All the best!
 
-![TCS Off-campus Placement Guide](https://insightcrunch.com/wp-content/uploads/2010/06/pexels-photo-6231630.jpeg)
+![TCS Off-campus Placement Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Off-campus Placement Guide

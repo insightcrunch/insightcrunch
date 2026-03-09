@@ -25,5 +25,5 @@ The initial training days at the top software company Tata Consultancy Services 
 
 Have you had any experience? Feel free to [share your experience](https://insightcrunch.com/contact/) with thousands of waiting readers here.
 
-![TCS ILP Experience](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-3768894.jpeg)
+![TCS ILP Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Experience

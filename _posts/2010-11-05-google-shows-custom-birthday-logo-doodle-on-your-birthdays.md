@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 This is a rarely known feature of Google but Google will show you a custom doodle wishing you happy birthday on your very special day.
 
-![Google Doodle on Birthday](https://insightcrunch.com/wp-content/uploads/2010/11/pexels-photo-5622361.jpeg)
+![Google Doodle on Birthday](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google Doodle on Birthday
 
 Read more: [Top popular Extensions for Google Chrome »](https://insightcrunch.com/2010/11/12/top-popular-extensions-for-google-chrome/)

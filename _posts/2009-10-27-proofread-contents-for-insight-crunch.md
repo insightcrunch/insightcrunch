@@ -32,5 +32,5 @@ I am looking for expert proofreaders to correct articles on various IT work cult
 
 Articles will be approved in 4-5 weeks. Payments will be processed by the 7th of the following month after approval. For example, if you submit an article on March 2nd, you can expect approval on April 6th, and payment on May 7th.
 
-![Guest Post for Insight Crunch](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-4050304.jpeg)
+![Guest Post for Insight Crunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Guest Post for Insight Crunch

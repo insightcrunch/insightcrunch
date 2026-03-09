@@ -14,5 +14,5 @@ For a collection of quality links and articles, see the “ILP Experiences” ar
 
 There are also other links which are viewed by thousands every day.
 
-![TCS ILP Training](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-6814340.jpeg)
+![TCS ILP Training](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Training

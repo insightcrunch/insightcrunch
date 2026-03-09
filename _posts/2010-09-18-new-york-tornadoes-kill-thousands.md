@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 As National Weather Service officials declared Friday that two tornadoes had indeed swept into New York City on Thursday, some tree-lined streets in Brooklyn and Queens looked - at least from the air - like Lego masterpieces that angry children had done their best to sweep aside.
 
-![New York Weather](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-753619.jpeg)
+![New York Weather](/assets/images/technology-industry-analysis-insightcrunch.webp)
 New York Weather
 
 Read more: [Google shows custom Birthday logo doodle on your Birthdays! »](https://insightcrunch.com/2010/11/05/google-shows-custom-birthday-logo-doodle-on-your-birthdays/)

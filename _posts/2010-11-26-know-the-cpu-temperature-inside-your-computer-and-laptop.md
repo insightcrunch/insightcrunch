@@ -14,7 +14,7 @@ This very useful program lets you know all the details that is going to save you
 
 **Monitor CPU Temperature with Core Temp – Download : **[**32 Bit**](http://www.alcpu.com/CoreTemp/CoreTemp32.zip)** | **[**64 Bit**](http://www.alcpu.com/CoreTemp/CoreTemp64.zip)
 
-![Know the CPU temperature inside your computer and laptop](https://insightcrunch.com/wp-content/uploads/2010/11/pexels-photo-2588757.jpeg)
+![Know the CPU temperature inside your computer and laptop](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Know the CPU temperature inside your computer and laptop
 
 Simply use the tools given in the link above to find out what you did not know about your PC. It’s really amazing how tools as small as this can be so much powerful.

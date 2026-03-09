@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with people giving thumbs up to the iPad, which doesn’t support Flash. Steve Jobs expressed his view on this subject.
 
-![iPad by Steve Jobs](https://insightcrunch.com/wp-content/uploads/2010/08/pexels-photo-196649.jpeg)
+![iPad by Steve Jobs](/assets/images/technology-industry-analysis-insightcrunch.webp)
 iPad by Steve Jobs
 
 Read more: [IE6 usage at 4.7%, IE8 up at 30%, browsers lookout! »](https://insightcrunch.com/2010/08/10/ie6-usage-at-4-7-ie8-up-at-30-browsers-lookout/)

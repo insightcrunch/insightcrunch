@@ -14,7 +14,7 @@ As most of the news agencies have been crying out of Google’s supposedly thiev
 
 What Google has innovatively done is it has provided these news sites a certain level of flexibility, whether they want to allow or not allow visitors who will reach their sites through them and read for free, and if they allow, by how much. Google is allowing publishers a First Five clicks free program by which a visitor will be able to click five times for free. After that he will be asked to subscribe or sign up for some specific amount of money to read through the desired articles.
 
-![Google News Updates](https://insightcrunch.com/wp-content/uploads/2010/01/pexels-photo-1652340.jpeg)
+![Google News Updates](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Google News Updates
 
 Read more: [Jyoti Basu dies at 95, an era comes to an end »](https://insightcrunch.com/2010/01/17/jyoti-basu-dies-at-95-an-era-comes-to-an-end/)

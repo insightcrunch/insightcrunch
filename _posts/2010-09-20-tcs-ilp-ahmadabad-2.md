@@ -24,5 +24,5 @@ If returning back to home made everyone happy ,on the next moment departing from
 Initially this ILP phase is like a Cactus and we are the thorns of it but later on we converted this ILP phase into a Lotus . Now we can smell deep fragrance of this Lotus.   
 Thank you all for all this .
 
-![TCS ILP Ahmedabad](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-9572632.jpeg)
+![TCS ILP Ahmedabad](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Ahmedabad

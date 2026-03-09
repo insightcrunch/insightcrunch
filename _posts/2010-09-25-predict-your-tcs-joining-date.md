@@ -28,7 +28,7 @@ The joining letter is provided to candidates who had already accepted the job of
 
 While there is no accurate way to predict the future, there are definitely a lot of tools and thinking in place. When used the right way, along with the current socio-economic conditions, we can achieve a high amount of accuracy to understand what is happening. The above document will help you understand your current situation better. As you start getting the answers to the right questions in your specific circumstances, you would be able to predict your TCS joining date.
 
-![TCS Joining Date and Hiring Joining Letter Offer Letter Digital NQT Interview Questions](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-5935235.jpeg)
+![TCS Joining Date and Hiring Joining Letter Offer Letter Digital NQT Interview Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Joining Date and Hiring
 
 ## Factors affecting Joining Date

@@ -18,5 +18,5 @@ Read more: [TCS 2010 Q2 Results »](https://insightcrunch.com/2010/10/17/tcs-20
 
 Apart from the spreadsheet below, all updates are now shared in just one place. Read to know more. Predictions and dates will be added there soon. Keep watching that space. It is only going to get more useful with time, if not less. 
 
-![TCS Offer Letter Offcampus Joining Dates](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-4017433.jpeg)
+![TCS Offer Letter Offcampus Joining Dates](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS 2010 Offcampus Joining Dates on the horizon

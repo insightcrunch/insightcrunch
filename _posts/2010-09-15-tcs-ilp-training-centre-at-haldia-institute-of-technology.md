@@ -16,5 +16,5 @@ TCS has chosen Haldia Institute of Technology as one of its ILP training centre.
 For these sessions, I had to give so much time for good preparation. Though overall, I am enjoying much these sessions due to the good quality associates (or students !). Only today I got some time to breath - and so I am writing this blog !   
 TCS Guwahati is mentoring this centre. They took our telephonic interview before inducting us as trainee. Most of the associates are from Tamil Nadu. I am taking sessions for 2 batches. Most of these associates in these 2 batches are from Biotech background. But they are picking up the subject very nicely.
 
-![TCS ILP Training Centre at Haldia Institute of Technology](https://insightcrunch.com/wp-content/uploads/2010/09/pexels-photo-7683685.jpeg)
+![TCS ILP Training Centre at Haldia Institute of Technology](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Training Centre at Haldia Institute of Technology

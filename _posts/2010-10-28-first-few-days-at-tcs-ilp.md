@@ -55,5 +55,5 @@ The most awaited and last induction was the finance induction which includes ban
 Finally, overloaded with information and tension, we left the auditorium at 6pm and went straight to the bus which was already awaiting us outside. Mind you, if you plan to stay back at office for work or completing exercises after 6:15pm, then you will have to walk back to the hostels which are about 3-4 km away from the campus.. :-D...Even after you reach the hostel, it doesn't end, you are hungry and have to walk at least 4 km for a single bite of food...As many have said, I bet 10k bucks you will lose 2 kg weight in first 10 days...anyways keep reading the blog for my experience about the next few days at tcs   
 Your comments and queries are most welcome....
 
-![First few days at TCS ILP](https://insightcrunch.com/wp-content/uploads/2010/10/pexels-photo-5257756.jpeg)
+![First few days at TCS ILP](/assets/images/technology-industry-analysis-insightcrunch.webp)
 First few days at TCS ILP

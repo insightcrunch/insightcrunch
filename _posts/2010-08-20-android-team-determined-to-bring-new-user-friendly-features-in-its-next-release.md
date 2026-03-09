@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 The Google Android team has been working furiously to bring more features that would make user’s experience friendly like anything. Since the Android first hit the market in 2008, many features had been added. But with time, Google has decided not only user’s demands in the next release, but also provide more facilities that would no doubt make it stand a lot apart from the others.
 
-![Android Latest New Features](https://insightcrunch.com/wp-content/uploads/2010/08/pexels-photo-971325.jpeg)
+![Android Latest New Features](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Android Latest New Features
 
 It would be interesting to see what happens to the sale of the other brands like the iPhone and Windows Mobiles after the release of the new version of Android. I am myself waiting for it’s next version to arrive at my locality soon!
