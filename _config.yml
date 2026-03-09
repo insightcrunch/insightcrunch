@@ -2,8 +2,8 @@ title: "Insight Crunch"
 description: "Notes on technology, society, and life."
 tagline: "technology · society · life"
 
-url: "https://insightcrunch.github.io/"
-baseurl: "/insightcrunch"
+url: "https://insightcrunch.com"
+baseurl: ""
 
 author:
   name: "Insight Crunch Team"
