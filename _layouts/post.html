@@ -2,18 +2,53 @@
 layout: default
 ---
 <style>
+/* ── text overflow fix for Bengali / long-word content ── */
+.main {
+  overflow: hidden !important;
+  min-width: 0 !important;
+}
+article {
+  overflow: hidden !important;
+  min-width: 0 !important;
+  max-width: 100% !important;
+}
 .post-content {
-  overflow-wrap: break-word;
-  word-break: break-word;
-  overflow-x: hidden;
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+  overflow-x: hidden !important;
+  max-width: 100% !important;
 }
-.post-content p, .post-content li {
-  word-wrap: break-word;
+.post-content p,
+.post-content li,
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  overflow-wrap: break-word !important;
+  word-break: break-word !important;
+  max-width: 100% !important;
 }
+.post-content img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+/* ── YouTube embed link ── */
 .yt-embed {
-  margin: 1.2em 0;
-  font-style: italic;
+  margin: 1.5em 0;
 }
+.yt-embed a {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #ff0000;
+  color: #fff !important;
+  border-radius: 4px;
+  text-decoration: none !important;
+  font-size: 0.9em;
+  font-family: sans-serif;
+}
+.yt-embed a:hover {
+  background: #cc0000;
+}
+/* ── sidebar category count ── */
 .sb-cat-count {
   opacity: 0.6;
   font-size: 0.85em;
