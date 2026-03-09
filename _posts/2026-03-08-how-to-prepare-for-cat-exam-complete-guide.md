@@ -970,6 +970,13 @@ The right mindset is neither shame nor entitlement. It is reframing. You are not
 > **Pull Quote**  
 > CAT does not ask for certainty. It asks for disciplined recovery. The student who resets faster often outperforms the student who merely starts stronger.
 
+| Stress Trigger | Unhelpful Reaction | Better Response |
+|---|---|---|
+| Low mock score | Panic and resource hopping | Analyze error categories |
+| Peer comparison | Self-doubt spiral | Return to personal trendline |
+| Tough section | Attachment and time loss | Skip, reset, re-enter |
+| Bad streak | Identity collapse | Process audit and recovery |
+
 ## **12. Beyond CAT: The Bigger Picture**
 
 CAT matters enormously, but it is not the whole admissions season. Serious aspirants think in parallel lanes.
