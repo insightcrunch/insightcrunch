@@ -16,7 +16,7 @@ The TCS National Qualifier Test (NQT) is one of the popular exams today that sof
 
 Preparation for the exam takes intensive planning and score analysis of various TCS NQT mock tests. There are TCS NQT practice questions for each syllabus topic. How good are you in advanced coding? Can you answer my advanced coding and aptitude questions? Are you ready for complex logical reasoning problems? Do you feel confident in handling verbal ability questions? If you can confidently answer and score well in my practice tests here, I can assure you that you are on the right track. Otherwise pay close attention to the real-time feedbacks I have added for each question and introspect. Reach out to me if you want me to guide your specific situation and preparation needs. 
 
-![TCS NQT Mock Test Eligibility Syllabus Registration Salary Package Hiring Freshers Practice Questions](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-5538618.jpeg)
+![TCS NQT Mock Test Eligibility Syllabus Registration Salary Package Hiring Freshers Practice Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Mock Test
 
 ## TCS NQT Mock Test

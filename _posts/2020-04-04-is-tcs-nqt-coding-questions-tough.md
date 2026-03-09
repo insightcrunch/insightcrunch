@@ -17,7 +17,7 @@ Tata Consultancy Services conducts the National Qualifier Test (NQT) that is tak
 
 If you meet the TCS NQT eligibility criteria, you will be provided with an exam date. Int he TCS NQT exam you will be asked questions based on various topics like numerical ability, logical reasoning, verbal skills, and coding knowledge. The TCS NQT exam is a mixture of basic and advanced questions. Thus you need to make sure you have strong foundation of each of the concepts. Extensive practice will help you prepare for the TCS NQT exam comprehensively. I have created a dynamic set of practice exams below that you can attempt unlimited times and filter by topic, difficulty, and your expertise.
 
-![TCS NQT Coding Questions Aptitude Syllabus Eligibility Practice](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-5553685.jpeg)
+![TCS NQT Coding Questions Aptitude Syllabus Eligibility Practice](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Coding Questions
 
 ## TCS NQT Coding Questions
@@ -6227,7 +6227,7 @@ TCS NQT Coding Question 57
 
 **C Code**:
 
-![](https://insightcrunch.com/wp-content/uploads/2022/08/74AB39E4-2C50-4667-A896-A3CF52CE8A01.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 [/s2If]
 
@@ -6242,7 +6242,7 @@ TCS NQT Coding Question 58
 
 **C Code**:
 
-![](https://insightcrunch.com/wp-content/uploads/2022/08/BC2B0B7F-1E70-4E27-9473-9D1F0ED3F5FF.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 [/s2If]
 
@@ -6309,9 +6309,9 @@ TCS NQT Coding Question 60
 
 - Program should prompt user that you want to enter a new record. If ‘Y’ ask user for new details. If ‘N’, program should terminate. (Use event controlled loop)
 
-![](https://insightcrunch.com/wp-content/uploads/2022/08/9FE9E50E-3DFB-4735-94D1-3FBF80A581A4.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
-![](https://insightcrunch.com/wp-content/uploads/2022/08/FFD2CB54-BED8-4078-B39C-DCB3DC2B895A.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 [/s2If]
 

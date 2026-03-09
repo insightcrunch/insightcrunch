@@ -20,8 +20,8 @@ Follow the below steps:
 
 - Click on 'Start Admin Server for Weblogic'
 
-![Start Weblogic Server](https://insightcrunch.com/wp-content/uploads/2022/09/8AFC68D7-CAA4-423C-B2FA-6725CF72AB8C.png)
+![Start Weblogic Server](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Start Weblogic Server
 
-![DRM Enterprise Manager services not responding](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-7437495.jpeg)
+![DRM Enterprise Manager services not responding](/assets/images/technology-industry-analysis-insightcrunch.webp)
 DRM Enterprise Manager services not responding

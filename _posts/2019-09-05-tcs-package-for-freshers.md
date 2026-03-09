@@ -16,7 +16,7 @@ Tata Consultancy Services provides attractive package to thousands of software e
 
 The salary for professionals working in TCS varies over the years. There are promotions and increments that happen in the system automatically every few years upto a certain level. Beyond a certain level your promotion is based on your performance. Salary increments are defined by your performance and thus can vary among professionals with the same experience. TCS provides a number of platforms and tools to improve your learning even while you are allocated to a specific project. The more you invest in your learning the better rewards you can expect in the future.
 
-![TCS Package for Freshers NQT Ninja Digital Salary Eligibility Registration Preparation Materials Questions](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-5902939.jpeg)
+![TCS Package for Freshers NQT Ninja Digital Salary Eligibility Registration Preparation Materials Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Package for Freshers
 
 ## TCS Package for Freshers

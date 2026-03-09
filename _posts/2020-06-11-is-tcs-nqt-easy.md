@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) consists of various 
 
 Brushing up all your skills that you learned all through your career is essential for the TCS NQT exam.  If you meet the TCS NQT eligibility criteria, you will be facing a lot of challenging questions and competing against some of the best candidates. I have created a fine collection of questions here with practice tests on a variety of topics. When you feel you are ready take my practice tests to get an understanding how well you prepared for the TCS NQT exam. It is of paramount importance that you pay attention to every section of the TCS NQT exam so that you do not end up giving away easy marks. I have come across candidates who were overly confident in data structures and logical reasoning that it cost them quite a few marks in the end.
 
-![TCS NQT Syllabus Eligibility Registration Difficulty Salary Package Hiring](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-3762803.jpeg)
+![TCS NQT Syllabus Eligibility Registration Difficulty Salary Package Hiring](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Difficulty
 
 ## TCS NQT Difficulty

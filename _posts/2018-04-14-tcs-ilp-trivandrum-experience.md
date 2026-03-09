@@ -26,7 +26,7 @@ Here is what I experienced during my ILP in Trivandrum.
 
 On the very first day of joining, I was happened to meet people from all around the country. Diversified culture of India is one of the peculiarity that makes ILP experience the most memorable. Beginning from having flatmates originating from Southern part of India, I got to know the minute details about their culture, cities and people during ILP. Discussing various topics related to sports, politics with some brilliant minds of the country helped me to sharpen my thinking methodology. We used to watch films together. I am movie buff. I used to watch Korean films other than Bollywood and Hollywood films. However, I never explored aspects of regional films other than Marathi and Gujarati films. My friends helped me to connect with South Indian films. I started watching films in the original languages rather than dubbing version. I still remember, we watched SHAMITABH directed by R.Balki in theater because of the stellar star cast comprises Dhanush and Mr. Bachchan. Celebrating birthdays, Watching WC 2015 all together, Going for tea-sessions , Exploring Cities like Cochin and Kanyakumari with them were few that I remembered the most in my life. Although English used to be communication language for us, We ended up learning so many phrases in their native language at the end of ILP, and they too happily learned Gujarati. ( In addition to that, They loved our very own Thepla and Khakhra! :) )
 
-![TCS ILP Trivandrum](https://insightcrunch.com/wp-content/uploads/2018/06/pexels-photo-1721637.jpeg)
+![TCS ILP Trivandrum](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Trivandrum
 
 2.** Vibes in Learning Environment:**

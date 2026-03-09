@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is one of the most w
 
 The difficulty spans from moderate to hard in all the sections like quantitative aptitude, logical reasoning, verbal ability, and coding concepts. Similar to the practice tests shared below, the content in the TCS NQT exam is refreshed regularly to present new questions frequently. This ensures that the fundamental concepts of the candidates are evaluated instead of learning a fixed pattern of questions. A comprehensive plan with constant supervision, and practice questions with a wide coverage of the essential concepts will help you succeed in the TCS NQT exam. Become a subscriber below to practice more.
 
-![TCS NQT Exam Results Syllabus Eligibility Registration Practice Questions Date](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-3768128.jpeg)
+![TCS NQT Exam Results Syllabus Eligibility Registration Practice Questions Date](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Exam Results
 
 ## Check your TCS NQT Results

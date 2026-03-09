@@ -20,7 +20,7 @@ The Oracle DRM to EBS integration is one of the most widely used programs to mai
 
 - CHILD_FLEX_VALUE_HIGH
 
-![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-8297442.jpeg)
+![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Oracle DRM EBS Integration Fnd Flex Loader Value Updates
 
 **Once the integration is completed**, the values are expected to be showing up fine in EBS, more specifically in FND_FLEX_VALUES and FND_FLEX_VALUE_NORM_HIERARCHY. Any new values, hierarchy changes, description changes can be verified using these and few other FND tables under APPS or APPLSYS schemas.
@@ -31,7 +31,7 @@ Understanding how the **data flows** from DRM to EBS is useful and helps troub
 
 The below **diagram** will explain schematically how the data flows, focussed mainly on the hierarchy tables in EBS. The interface tables which are truncated and loaded are GL_DRM_SEGVALUES_INTERFACE and GL_DRM_HIERARCHY_INTERFACE in the GL schema. The FND tables in APPS or APPLSYS schemas are refreshed after that.
 
-![Oracle DRM EBS Integration Data Flow](https://insightcrunch.com/wp-content/uploads/2022/09/38D6EC7E-C1B2-437E-8EDF-C14A44D32223.jpeg)
+![Oracle DRM EBS Integration Data Flow](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Oracle DRM EBS Integration Data Flow
 
 ## DRM Integration User Guide

@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 The beginning of winter brought with it some exciting rides into the world of Oracle Data Integrator and Essbase. Feels lovely when things start to unravel their beauty and prowess. After several sessions (more to come!) of brainstorming on Shared and Duplicate members, we came to a few interesting findings that can help us plan better.
 
-![Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster](https://insightcrunch.com/wp-content/uploads/2017/11/pexels-photo-6476783.jpeg)
+![Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster
 
 The “Duplicate” members are providing the below benefits:

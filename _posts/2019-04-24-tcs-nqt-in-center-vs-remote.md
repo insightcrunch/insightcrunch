@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is one of the most p
 
 The TCS iON is a strategic unit of Tata Consultancy Services that is focused on learning and educational engagements. The demand for online and proctored exams and practice tests has grown over the years. Not only does online exams and the required infrastructure provide the reach and opportunity to evaluate more candidates in lesser time, it also helps level the playing field in uncertain situations due to weather and commute challenges. The technological advancements and the ability of large corporations to leverage the benefits of such educational platforms is indeed valuable today.
 
-![TCS NQT In-center vs Remote Eligibility Syllabus Preparation Materials Practice Questions Mock Test Salary Package Freshers Exam Date](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-7092593.jpeg)
+![TCS NQT In-center vs Remote Eligibility Syllabus Preparation Materials Practice Questions Mock Test Salary Package Freshers Exam Date](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT In-center vs Remote
 
 ## TCS NQT In-center

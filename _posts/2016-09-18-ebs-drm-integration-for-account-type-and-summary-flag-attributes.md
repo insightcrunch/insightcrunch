@@ -14,7 +14,7 @@ The DRM to EBS integration using the patches 10632813 and 11659733 are not one o
 
 All the different properties like Segment Value Code, Description, Account Type, Allow Posting, Allow Budgeting, Summary Flag etc are going to flow to EBS from DRM. However, there is a special consideration in place for **Account Type and Summary Flag**.
 
-![Oracle EBS DRM Integration for Account Type and Summary Flag attributes](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-6248966.jpeg)
+![Oracle EBS DRM Integration for Account Type and Summary Flag attributes](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Oracle EBS DRM Integration for Account Type and Summary Flag attributes
 
 The attributes Account Type and Summary Flag **can only be set one-time** for each Segment Value. **Account Type cannot be null** in DRM. Once it is set up, this value cannot be updated from DRM anymore. If absolutely required to be changed, it needs to be manually updated in EBS and DRM and only after that the integration program will succeed. Else the program will fail with the error that it needs the Account Type and Summary Flag value needs to be updated for that node. This scenario is faced usually in fast-paced development projects and usually happens rarely.

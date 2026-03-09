@@ -44,7 +44,7 @@ The **DRM repository tables** provide a range of options to find and format th
 
 We have lot of options after identifying the nodes which do not meet the 4 validation criterion above. We can use Windows Batch scripting to extract the required data using SQL and dump it in a txt file and send it via mail using Windows Mail. This activity can be scheduled to run always after a specific interval (say 30 mins) to make it near real-time data monitoring. Note how we are completely bypassing the inbuilt DRM Exports functionalities here. It's totally driven by the repository tables, SQL and Windows scripting.
 
-![Oracle DRM Data Validation Techniques for Better Quality and Control](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-7709185.jpeg)
+![Oracle DRM Data Validation Techniques for Better Quality and Control](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Oracle DRM Data Validation Techniques for Better Quality and Control
 
 ## Method 2

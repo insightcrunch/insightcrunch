@@ -12,14 +12,14 @@ author: "Insight Crunch Team"
 
 Oracle Data Integrator provides a range of Knowledge Modules to integrate with and process data from and load to various applications, and it is no different with Oracle Essbase. The Knowledge Module **IKM SQL to Hyperion Essbase (DATA)** loads the data from a Oracle database to an Essbase cube - and has various parameters to customize it as per our requirement.
 
-![ODI data load using IKM SQL to Hyperion Essbase (DATA)](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-3182782.jpeg)
+![ODI data load using IKM SQL to Hyperion Essbase (DATA)](/assets/images/technology-industry-analysis-insightcrunch.webp)
 ODI data load using IKM SQL to Hyperion Essbase (DATA)
 
 Now we need to have the data ready in our **Oracle database table to be used as source**, usually having all the dimensions (like Time, Account, Department, etc) and then the fact value (Actuals) as the base columns (this is the minimum requirement). We can have more than one fact value (say Budget data), these can be loaded to the Essbase cube using the same source table or another different table, whichever is convenient.
 
 Next we select the **Essbase cube as our target** - say Sample.Sample. So now we are ready to create the ODI interface to load our data. We drag the Oracle table datastore in our source and the Cube datastore in our target. We will select the ***IKM SQL to Hyperion Essbase (DATA)*** as KM in our flow properties for the Target as shown below. It is important to observe each of the parameters closely for this ODI interface to behave exactly as expected to.
 
-![](https://insightcrunch.com/wp-content/uploads/2022/09/2730871F-B77D-43FA-9121-D8062A8AE22D.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 The **default values usually suffices**, but to optimize our loading, it is advisable to play around a little with the values for *COMMIT_INTERVAL* and the *RULES_FILE*. It can significantly enhance the performance of the loading process. Also note that the value 0 for *MAXIMUM_ERRORS_ALLOWED* does not signify the loading stops even for one error, it's just the opposite, here 0 signifies infinity. So the process will ignore all errors and succeed always, even if it is unable to load any record. The log file configured for the variable *ERROR_LOG_FILENAME* can often come in handy in such cases if the ODI Operator log or the Essbase application log do not provide any fruitful information.
 

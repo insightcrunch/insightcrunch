@@ -16,7 +16,7 @@ Our  ILP Center,Q-City, Hyderabad Although after selecting in TCS in my college
 
 So, after waiting 1 year 1 month 9 days and 15 hours I got my joining letter in TCS portal nextstep.tcs…casually I was preparing for my graduate aptitude test but, on spot I decided to join this conglomerate giant IT industry as my profession as well as from my passion. The date was 03 Jan,2013, new year, new life, and of course new as well as first job.
 
-![TCS ILP Hyderabad Experience](https://insightcrunch.com/wp-content/uploads/2016/12/pexels-photo-577269.jpeg)
+![TCS ILP Hyderabad Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Hyderabad Experience
 
 As my first location was in Hyderabad, I got that, and also booked ticket on 30th Dec in Falaknuma, to reach there. During that time I was in really a life puzzle dilemma between my hometown and my forthcoming job town. As a Bengali guy I also impact from some homesickness, nevertheless I knew I should go, whatever the place is. I was counting those days…till 30 comes. I spent lot of times to go my nearest and dearest relatives,friends,shopping mall in my hometown, my college in Durgapur and also at my sweet home with my sweetest Mom,Dad,Bro and my Grandma…! 

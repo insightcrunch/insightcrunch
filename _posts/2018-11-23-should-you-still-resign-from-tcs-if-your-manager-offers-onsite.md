@@ -18,7 +18,7 @@ Employees from a variety of backgrounds work in TCS. Many of them have aspiratio
 
 [s2If !current_user_can(access_s2member_level1)]
 
-![TCS rehire policy how to resign rejoin after resignation onsite promotion manager](https://insightcrunch.com/wp-content/uploads/2018/11/pexels-photo-920036.jpeg)
+![TCS rehire policy how to resign rejoin after resignation onsite promotion manager](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Should you still resign from TCS if your manager offers Onsite
 
 ## Should you resign from TCS?

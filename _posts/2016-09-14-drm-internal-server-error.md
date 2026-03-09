@@ -34,5 +34,5 @@ Everything looked fine, all services are up, restarting the application from DRM
 
 If this did not resolve your issue, there's [another possible scenario here](http://www.insightcrunch.com/2016/09/drm-web-client-internal-server-error.html).
 
-![DRM Internal Server Error](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-6592702.jpeg)
+![DRM Internal Server Error](/assets/images/technology-industry-analysis-insightcrunch.webp)
 DRM Internal Server Error

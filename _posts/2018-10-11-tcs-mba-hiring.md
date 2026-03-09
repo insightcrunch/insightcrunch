@@ -18,7 +18,7 @@ The number of candidates appearing for this assessment tests every year is huge.
 
 [s2If !current_user_can(access_s2member_level1)]
 
-![TCS MBA Hiring Eligibility Syllabus Practice Questions Mock Test Salary Package Exam Results](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-8190804.jpeg)
+![TCS MBA Hiring Eligibility Syllabus Practice Questions Mock Test Salary Package Exam Results](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS MBA Hiring
 
 The TCS MBA hiring drive has eligibility requirements. The **TCS MBA Eligibility Checker Tool** below will help you find if you can apply for the TCS MBA Exam.
@@ -110,11 +110,11 @@ checkall.length;
 
 if (checkall == "11111111")
 {
-predict.innerHTML = "<img style = 'float: left; margin-right: 20px' src=\'https://insightcrunch.com/wp-content/uploads/2022/08/4E7C597B-74A0-45D8-BB0F-73709899B877.gif\' width=40 height=40/>You are eligible for TCS MBA hiring drive. Start practicing once you <b>Subscribe</b> above. Get 3000+ practice questions from advanced quantitative aptitude, logical reasoning, and verbal ability. Any time you need assistance, <a href= \'http://insightcrunch.com/contact/\' target=\'_blank\'><b>contact me</b></a>.";
+predict.innerHTML = "<img style = 'float: left; margin-right: 20px' src=\'/assets/images/technology-industry-analysis-insightcrunch.webp\' width=40 height=40/>You are eligible for TCS MBA hiring drive. Start practicing once you <b>Subscribe</b> above. Get 3000+ practice questions from advanced quantitative aptitude, logical reasoning, and verbal ability. Any time you need assistance, <a href= \'http://insightcrunch.com/contact/\' target=\'_blank\'><b>contact me</b></a>.";
 }
 else if (checkall.length < 8)
 {
-predict.innerHTML = "<img style = 'float: left; margin-right: 20px' src=\'https://c.tenor.com/k3VfwdRd6cEAAAAi/loading-load.gif\' width= 40 height= 30/>Waiting for your inputs in all the requested parameters. Once you complete providing your details in the TCS MBA Eligibility Checker Tool, I can analyze and confirm if you can appear for the TCS MBA exam. If you need guidance on how to prepare for any of the TCS profiles like MBA, NQT, BPS, ITIS, and others, please comment below or <a href= \'http://insightcrunch.com/contact/\' target=\'_blank\'><b>contact me</b></a>.";
+predict.innerHTML = "<img style = 'float: left; margin-right: 20px' src=\'/assets/images/technology-industry-analysis-insightcrunch.webp\' width= 40 height= 30/>Waiting for your inputs in all the requested parameters. Once you complete providing your details in the TCS MBA Eligibility Checker Tool, I can analyze and confirm if you can appear for the TCS MBA exam. If you need guidance on how to prepare for any of the TCS profiles like MBA, NQT, BPS, ITIS, and others, please comment below or <a href= \'http://insightcrunch.com/contact/\' target=\'_blank\'><b>contact me</b></a>.";
 }
 else
 {
@@ -144,7 +144,7 @@ if (specialization.value == '0') { specialization_reason = ' You do not meet the
 
 if (age.value == '0') { age_reason = ' You do not meet the required age criteria.';}
 
-predict.innerHTML = "<img style='float: left; margin-right: 20px' src=\'https://insightcrunch.com/wp-content/uploads/2022/08/2ABAE648-0F3E-4F0C-AE03-0453E1D363F0.gif\' width=40 height=40/>You are not eligible for TCS MBA." + percentage_reason + gradqualification_reason + qualification_reason + backlog_reason + gap_reason + type_reason + specialization_reason + age_reason + ' There are many other profiles in TCS where you can apply. For any queries please comment below or <a href= \'http://insightcrunch.com/contact/\' target=\'_blank\'><b>contact me</b></a>. Meanwhile, Subscribe above to access all the Premium learning resources and Practice Questions.';
+predict.innerHTML = "<img style='float: left; margin-right: 20px' src=\'/assets/images/technology-industry-analysis-insightcrunch.webp\' width=40 height=40/>You are not eligible for TCS MBA." + percentage_reason + gradqualification_reason + qualification_reason + backlog_reason + gap_reason + type_reason + specialization_reason + age_reason + ' There are many other profiles in TCS where you can apply. For any queries please comment below or <a href= \'http://insightcrunch.com/contact/\' target=\'_blank\'><b>contact me</b></a>. Meanwhile, Subscribe above to access all the Premium learning resources and Practice Questions.';
 
 }
 

@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier (NQT) Test is conducted every y
 
 This helps TCS understand you as a complete individual before it can proceed to the next stages of hiring. I receive various questions from candidates asking how to prepare, so here you will get a complete set of mock tests that will give you a simulation of the actual exam. Only quality learning and exhaustive practice of every topic in the TCS NQT syllabus will you get a good score. Make sure to prepare well on every topic that you have ready during your career, especially programming topics and logical reasoning problems. The more you practice the better your chances are at succeeding in the TCS NQT exam.
 
-![TCS NQT Results Date Eligibility Syllabus Salary Package](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-3762940.jpeg)
+![TCS NQT Results Date Eligibility Syllabus Salary Package](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT 2022 Results Date
 
 ## TCS NQT 2022 Results Date

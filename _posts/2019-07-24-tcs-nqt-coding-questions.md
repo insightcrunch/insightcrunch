@@ -16,7 +16,7 @@ The TCS NQT exam is the most comprehensive exam that is conducted by Tata Consul
 
 I would want you to be skilled in algorithms and at least one programming language efficiently if I want you to be a part of my team. Do you write efficient codes? Do you have a good grasp on algorithms? Are you comfortable in data structures? Is your code scalable when I want to add a new logic? What is the order of complexity of your code? Will your code run for any parameter? Did you implement sufficient exception scenarios handling? I will break your code line by line and analyze it instead of just being satisfied with the output. Are you sure you are ready for the TCS NQT exam?
 
-![TCS NQT Coding Questions Mock Test Eligibility Syllabus Practice Salary Package Fresher Preparation Material](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-7683745.jpeg)
+![TCS NQT Coding Questions Mock Test Eligibility Syllabus Practice Salary Package Fresher Preparation Material](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Coding Questions
 
 ## TCS NQT Coding Questions

@@ -18,7 +18,7 @@ The requirement goes as below:
 
 To proceed with this activity, first and foremost we need to be familiar with DRM action scripts - which will involve generating Add, AddInsert and Move scripts. In addition to that, if we have an ETL tool in our environment (like ODI, Informatica PowerCenter, etc) it's beneficial - else we can also use SQL to achieve our purpose as we will see next.
 
-![DRM Data Loading Automation using ODI](https://insightcrunch.com/wp-content/uploads/2017/01/pexels-photo-3861969.jpeg)
+![DRM Data Loading Automation using ODI](/assets/images/technology-industry-analysis-insightcrunch.webp)
 DRM Data Loading Automation using ODI
 
 ## Method 1

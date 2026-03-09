@@ -152,7 +152,7 @@ Everything was fun.. The whole batch was a bunch of amazing people. Everyone was
 
 But that is what made the bonding between our batch mates stronger. All of us helped each other to overcome our homesickness. We stayed on the couch and used to chat for hours. The walk after dinner around our block is one of the best things :) Interacting with people from different cultures is a bliss. Bus journeys were wonderful. The climate was amazing.. ( 13 – 20 degrees ). The Balaji Temple and Maniram Dewan Trade Center opposite to our accommodation made our ILP days memorable. Group studies before the test day was great. Movies after dinners were splendid ( I watched so many good other language movies). You are free to go anywhere and everywhere during weekends. Weekends comprised of a lot of shopping (But we had to catch a bus from Beltola). The best part is that we also visited many places in and around Guwahati - Kamakhya Temple, Brahmaputra river. We planned batch trips to Meghalaya (Shillong, Cherrapunji, Dawki, India-Bangladesh Border, Living Root Bridge) and the list just goes on.. Donot miss the trekking experience! If you like wildlife, then Kaziranga / Pobitora WildLife Sanctuary is a must visit!
 
-![TCS ILP Guwahati Experience](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-1715193.jpeg)
+![TCS ILP Guwahati Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Guwahati Experience
 
 ***ILP************ is like earning for having fun at college.*** (Hostel life at college will be outstanding and this holds good in ILP too)

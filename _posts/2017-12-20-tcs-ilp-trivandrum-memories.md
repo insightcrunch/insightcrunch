@@ -36,7 +36,7 @@ Training is fun like you can learn and enjoy life both simultaneously don't wast
 
 The best part of ILP in Kerala is that you can explore Kerala atleast the south Kerala and parts of Tamil Nadu if you like to go on trips on weekends and if you are lucky you can get a 3-day off with national holiday combined, I visited many places in Kerala and some in Tamil Nadu like **Varkala,Kanyakumari,Munnar,Kochi** and many more details about which I will list in other answer as this will become too long.
 
-![TCS ILP Trivandrum Memories](https://insightcrunch.com/wp-content/uploads/2017/12/pexels-photo-962464.jpeg)
+![TCS ILP Trivandrum Memories](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Trivandrum Memories
 
 Diversity in ILP has its own charm almost people from different regions having their own culture and language will meet together you can know and learn about those cultures and languages.

@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 Oracle Data Integrator is one of the widely used tools for data loading into the Oracle Business Intelligence data warehouse. Often it happens that due to frequent data updates in the source systems, the data needs to be refreshed in the data warehouse during the daytime, while users might still be trying to run reports for their reporting purpose. This no doubt calls for a mechanism to restrict the user data access during the refresh activity to avoid dirty reads.
 
-![Managing BI Services using ODI](https://insightcrunch.com/wp-content/uploads/2016/11/pexels-photo-7688460.jpeg)
+![Managing BI Services using ODI](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Managing BI Services using ODI
 
 We will be using the WebLogic Scripting Tool to achieve our objective. At the start of the load plan that loads the data from source to target, we will add a step that will bring down the services so that BI cannot be accessed by the users. Again at the end of the load plan we will add a step to bring the services up. This will also help us ensure that if the load fails the services will continue to stay down.

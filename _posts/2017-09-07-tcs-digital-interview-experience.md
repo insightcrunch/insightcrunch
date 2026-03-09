@@ -14,7 +14,7 @@ This is a guest post on TCS Digital by Nikhil Chauhan. The views expressed are o
 
 I have cleared TCS Digital internal drive 2019–2020 so many of my friends and I have tried to conclude some high-level information on interview experience of TCS employees which are mentioned below.
 
-![TCS Digital Interview Experience](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-1103484.jpeg)
+![TCS Digital Interview Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Digital Interview Experience
 
 Read more: [TCS ILP Trivandrum Memories »](https://insightcrunch.com/2017/12/20/tcs-ilp-trivandrum-memories/)

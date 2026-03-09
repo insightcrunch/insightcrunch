@@ -16,7 +16,7 @@ Welcome readers, TCS announced that it will conduct TCS NQT in every quarter of 
 
 Read more: [TCS Digital Interview Experience »](https://insightcrunch.com/2017/06/02/tcs-digital-interview-experience-2/)
 
-![TCS NQT Hiring Process](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-5668838.jpeg)
+![TCS NQT Hiring Process](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Hiring Process
 
 The application will starts probably in September and Exam shall be on the dates given by TCS. It can be online proctored exam or In center exam which is conducted in TCS Ion Centre's

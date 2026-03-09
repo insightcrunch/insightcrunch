@@ -14,7 +14,7 @@ author: "Insight Crunch Team"
 
 The Tata Consultancy Services National Qualifier Test (NQT) exam is one of the most widely attempted exams today in the software industry. The exam helps assess a candidate’s ability in various fields. The evaluation is done on a comparative basis between the peers of the candidates to select the top candidates for the organization. TCS has various roles and profiles for which it selects candidates via this exam and provides them a job offer accordingly. There is a defined TCS NQT syllabus and TCS NQT eligibility criteria that candidates need to follow closely. You need to make sure you have all the proper documentations supporting your educational background and qualifications. You must also meet the educational gap, work experience, and age requirements to apply for the TCS NQT exam. Let’s learn the complete TCS NQT eligibility criteria in details. With strategic preparation, exhaustive practice, and a planned methodical approach, I believe you can definitely achieve high marks in the TCS NQT exam.
 
-![Can I appear in TCS NQT Ninja Digital Eligibility Syllabus Questions Registration](https://insightcrunch.com/wp-content/uploads/2020/10/pexels-photo-4622108.jpeg)
+![Can I appear in TCS NQT Ninja Digital Eligibility Syllabus Questions Registration](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Can I appear in TCS NQT
 
 ## TCS NQT Eligibility

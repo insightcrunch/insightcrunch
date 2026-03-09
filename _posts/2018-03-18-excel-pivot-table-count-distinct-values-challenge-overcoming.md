@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 The use of Microsoft Excel automatically becomes a powerful tool to dive deep into the sea of data and form perceptions while generating interesting data models. Recently while in the middle of such an exciting activity came a moment where we were stuck with a not-so-latest version of Excel, and thus we are missing the oh-so-lovely built-in Count Distinct formula for a Pivot Table. Yes it's a deal-breaker, when we cannot avoid a pivot, and also desperately don't want to create a different standalone table or formula for a calculation to count the number of distinct values for a combination.
 
-![](https://insightcrunch.com/wp-content/uploads/2018/03/pexels-photo-7876667.jpeg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 Say, we need to find **for each Attrib_1 values (Column B) how many distinct IDs (column A) exist**. Thus we can see AX and BY are repeated in rows 5 and 9, and so we need to tag their duplicate occurrences with a 0.
 

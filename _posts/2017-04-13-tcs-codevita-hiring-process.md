@@ -18,7 +18,7 @@ Codevita Interview Pattern:
 
 After codevita ,based on the questions that you solved in the contest ,the TCS HR Team will decide the interview type whether you will get a Ninja Interview Call or Digital Interview Call . As I said in my previous post ,if you solve 1 or more and less than 3 you will get Ninja Interview Call. Sometimes Luck Matters for Ninja Interview through TCS ,as the TCS Team will first conduct interviews for the TCS Premium Colleges and then after to other .So even if you qualified in codevita Round 1 ,sometimes luck matters in order to get interview call for Ninja through codevita.
 
-![TCS CodeVita Hiring Process](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-5474031.jpeg)
+![TCS CodeVita Hiring Process](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS CodeVita Hiring Process
 
 You can connect with your TPO'S in order to know about whether your college is TCS Premium College or Not.

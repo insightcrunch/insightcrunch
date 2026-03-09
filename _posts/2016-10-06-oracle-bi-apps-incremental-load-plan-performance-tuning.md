@@ -14,7 +14,7 @@ The Oracle Business Intelligence Applications integration with Oracle General Le
 
 The first thing that comes to mind is whether all the steps are essential, and yes, they are. In fact, some relevant practices (like gather stats, updating the W_ETL_LOAD_DATES for every scenario, etc) followed in the load plan are critical for successful loadings and long term ease of maintenance.
 
-![Oracle BI Apps Incremental Load Plan Performance Tuning](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-6592690.jpeg)
+![Oracle BI Apps Incremental Load Plan Performance Tuning](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Oracle BI Apps Incremental Load Plan Performance Tuning
 
 Before the load plan was tuned, it was observed around 90 minutes was the average execution time, whereas after the changes, the average time has come down to 70 minutes. It is important to mention here that there were some custom loads also that ran as part of the load plan, so the tuning also involved tweaking them. The execution times are dependent on data volume, so keep that in mind while dealing with the stats.

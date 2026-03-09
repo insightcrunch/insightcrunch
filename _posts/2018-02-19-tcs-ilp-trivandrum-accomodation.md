@@ -58,7 +58,7 @@ If you get a floor above 10th you could have a nice beach view.
 
 In Scarlett TCS buses are frequent in our days there used to be 15 buses from 7am to 8am.
 
-![TCS ILP Trivandrum Accomodation](https://insightcrunch.com/wp-content/uploads/2018/02/pexels-photo-1534924.jpeg)
+![TCS ILP Trivandrum Accomodation](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Trivandrum Accomodation
 
 3. **LEE FRANK**

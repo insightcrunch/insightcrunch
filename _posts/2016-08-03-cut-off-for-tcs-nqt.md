@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is one of the most p
 
 Read more: [TCS NQT Hiring Process »](https://insightcrunch.com/2017/03/20/tcs-nqt-hiring-process/)
 
-![Cut off marks for TCS NQT](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-3768724.jpeg)
+![Cut off marks for TCS NQT](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Cut off for TCS NQT
 
 ## Cut off Marks for TCS NQT

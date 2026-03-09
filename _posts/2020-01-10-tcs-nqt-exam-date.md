@@ -16,7 +16,7 @@ The TCS NQT exam is eagerly anticipated by hundreds of thousands of software eng
 
 The TCS NQT exam is held every year and candidates who are eligible are required to register at the TCS portal. The entire process is streamlined and official communications are periodically sent out from TCS from their official email ids. If you do not listen from TCS and you are waiting what to do, reach out at the contacts given below. The TCS NQT Exam date is shared below. I recommend start preparing for your TCS NQT exam months before the actual exam. Even if you are comfortable in most of the topics that are included in the TCS NQT syllabus, preparing well will make sure you have good speed. You will save time to handle the tougher questions, and this matters a lot in this large pool of candidates as every mark counts in the TCS NQT exam.
 
-![TCS NQT Exam Date Eligibility Syllabus Registration Results Practice Questions Package Salary Coding Tough](https://insightcrunch.com/wp-content/uploads/2020/01/pexels-photo-6140418.jpeg)
+![TCS NQT Exam Date Eligibility Syllabus Registration Results Practice Questions Package Salary Coding Tough](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Exam Date
 
 ## TCS NQT Exam Date

@@ -14,7 +14,7 @@ The exquisite Sierra Nevada, in the magnificent slopes of California, is the hom
 
 Driving via Three Rivers Visalia through the wild fascinating roads uphill to the Giant Forest is an experience in itself that takes some time to sink in. The gradual change in the landscape around us as we approach is magnificent, the appearance of the trees, the heights, the feeling of suddenly shrinking is so electrifying – one just gets dazed.
 
-![](https://insightcrunch.com/wp-content/uploads/2022/08/79C9DB7C-90B9-4D4D-8488-E9BA96B0A3C3.jpeg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 The role of forest fires on the lifecycle of the Sequoia trees is interesting. Due to reduction in the number of natural forest fires today, the Park Service executes controlled fires to remove competing vegetation to allow Sequoia seedlings to germinate - which has difficulty otherwise. The Giant Forest Museum is a storehouse of some gripping figures and facts – the Sentinel tree greets all the visitors as we enter the museum, a statuesque of over 250 feet high.
 
@@ -30,4 +30,4 @@ The wildlife consists of hundreds of black bears, rattlesnakes, mountain lions, 
 
 [googleapps domain="drive" dir="file/d/1G_5vRStRW2pyrkBaqpX96H50dPZ7zF6H/preview" query="" /]
 
-![](https://insightcrunch.com/wp-content/uploads/2018/06/pexels-photo-8146295.jpeg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)

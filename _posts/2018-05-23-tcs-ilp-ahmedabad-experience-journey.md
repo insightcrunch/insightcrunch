@@ -34,7 +34,7 @@ Most Java and .Net will sit at Garima Park remaining people will sit at Tower-3.
 
 Read more: [TCS ILP Guwahati Experience »](https://insightcrunch.com/2018/09/07/tcs-ilp-guwahati-experience/)
 
-![TCS ILP Ahmedabad Experience Journey](https://insightcrunch.com/wp-content/uploads/2018/05/pexels-photo-2403538.jpeg)
+![TCS ILP Ahmedabad Experience Journey](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Ahmedabad Experience Journey
 
 **Training:**

@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is one of the most w
 
 The TCS NQT Practice Questions that I have built here will prepare you for coding expertise, build you quantitative ability, enhance your logical reasoning skills, and fine tune your verbal skills. You will get to answer the questions in a real-exam simulated environment in a limited time. The best part is you can restart at the end of the every attempt with a new set of questions. Powered by 3000+ questions from every category, your preparation gets a much needed acceleration for the NQT exam. The latest TCS NQT exam Registration Last Date is shared below.
 
-![TCS NQT Registration Last Date Syllabus Link Questions Salary Eligibility Package Freshers](https://insightcrunch.com/wp-content/uploads/2020/03/pexels-photo-8052873.jpeg)
+![TCS NQT Registration Last Date Syllabus Link Questions Salary Eligibility Package Freshers](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Registration Last Date
 
 ## TCS NQT Registration Last Date

@@ -28,7 +28,7 @@ The joining process of TCS is completely managed by a robust process in their of
 
 This document will give you an understanding of what factors influence the joining date. When there is a delay in the joining date, what can you do in the meantime to enhance your skills? How long should you wait? What effect can it have on your career? Learn about all these from the document above.
 
-![TCS Joining Date and Hiring Jobs Offer Letter Joining Letter Fresher Jobs Digital NQT](https://insightcrunch.com/wp-content/uploads/2021/01/pexels-photo-3182781.jpeg)
+![TCS Joining Date and Hiring Jobs Offer Letter Joining Letter Fresher Jobs Digital NQT](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Joining and Hiring
 
 ## Dynamics of Joining Date

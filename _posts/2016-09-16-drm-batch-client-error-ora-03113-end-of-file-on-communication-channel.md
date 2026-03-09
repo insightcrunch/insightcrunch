@@ -18,7 +18,7 @@ For example, let us take the below error message which greeted me one fine day:
 
 We checked the database and everything looked fine - up and running. We checked with the Windows teams and Firewall teams, all ports appeared open and all connectivity is fine. Then on checking with the Database team it was discovered there was a scheduled database maintenance bounce that day at that specific time.
 
-![DRM Batch Client Error ORA-03113: end-of-file on communication channel](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-7550581.jpeg)
+![DRM Batch Client Error ORA-03113: end-of-file on communication channel](/assets/images/technology-industry-analysis-insightcrunch.webp)
 DRM Batch Client Error ORA-03113: end-of-file on communication channel
 
 Since then all the subsequent jobs has also started giving invalid username password error. The authentication process in use was CSS with LDAP SSO. The issue finally got resolved after restarting the DRM services.

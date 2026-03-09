@@ -25,7 +25,7 @@ We will be doing the below activities sequentially to cover all the integration 
 **Step 3:** Use Hive query to generate a file extract in the Hadoop file system  
 **Step 4:** Load the generated file in Step 3 to a new target Oracle database table
 
-![Sqoop Import and Export tables from Hive to Oracle Database](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-5439483.jpeg)
+![Sqoop Import and Export tables from Hive to Oracle Database](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Sqoop Import and Export tables from Hive to Oracle Database
 
 ## **Step 1: Sqoop import data from Oracle database to Hive table**

@@ -16,7 +16,7 @@ The error message when trying to access the DRM Web Client page is as below:
 
     "The page cannot be displayed because an internal server error has occurred."
 
-![Oracle DRM Web Client Internal Server Error](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-7550398.jpeg)
+![Oracle DRM Web Client Internal Server Error](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Oracle DRM Web Client Internal Server Error
 
 On further analysis it has been found that there is a setting in the Shared Services Console that enables the DRM application to authenticate with SSO only if that is enabled. If and only if this is enabled then CSS integration via SSO will be able to authenticate an LDAP user. The parameter is named as 'Enable SSO Compatibility' in Shared Services Console which after being enabled the authentication starts working fine.

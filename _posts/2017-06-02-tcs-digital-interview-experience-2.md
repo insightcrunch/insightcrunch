@@ -18,7 +18,7 @@ Our college got schedule on DEC 2ND-2020 for TCS Digital Interviews. My intervie
 
 If you have interview experiences you will gain some confidence of giving interviews without any fear. It's a better practice to give mock interviews. Well let's dive to into the interview.
 
-![TCS Digital Interview Experience](https://insightcrunch.com/wp-content/uploads/2017/06/pexels-photo-5699479.jpeg)
+![TCS Digital Interview Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Digital Interview Experience
 
 TCS Digital interview was online due to the covid 19 pandemic . My slot was at 10.25 AM , and it was on Cisco Webex .

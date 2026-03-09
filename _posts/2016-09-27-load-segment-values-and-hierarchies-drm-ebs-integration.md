@@ -32,7 +32,7 @@ To start with the integration, there is a list of values that needs to be config
 
 Out of these, the API Adapter URL and the WSDL URL are the first pre-requisites to be checked that they are working fine. If these are not returning any data then it is time to bring them up first. The Value Set name refers to the names of the different segments that is present in my system. Since I have multiple segment hierarchies to integrate, I have multiple Value Set Names configured in EBS.
 
-![a group of people looking at a laptop](https://insightcrunch.com/wp-content/uploads/2016/09/pexels-photo-8117438.jpeg)
+![a group of people looking at a laptop](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Load Segment Values and Hierarchies - DRM EBS Integration
 
 The program 'Load Segment Values and Hierarchies' when triggered with a specific Value Set name, calls the DRM Exports EBSValueSetExport and EBSHierarchyExport using the Data Relationship Management Web Service (which is why this needs to be up and running as the first sanity check) - the username used to login being the value used in the parameter "DRM Username". On successful completion of the program, the data is loaded into the staging interface tables GL.GL_DRM_SEGVALUES_INTERFACE and GL.GL_DRM_HIERARCHY_INTERFACE and subsequently into the EBS tables. **Download** the sample DRM EBS integration White Paper at the end of this article. This document will give you an idea of how the process works.

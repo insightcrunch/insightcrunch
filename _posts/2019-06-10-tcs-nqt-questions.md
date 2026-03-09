@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) consists of an exhau
 
 The TCS NQT exam comprises of questions of varied difficulty levels. The foundation section will evaluate your skills with questions of moderate complexity. The advanced section is focused on more complex questions to assess your in-depth understanding of the key concepts. Speed and accuracy is a key skill that is essential to score high marks in the TCS NQT exam. You can improve your speed by repeatedly practicing and solving complex problems in time-bound environments. The more you practice, the more you get habituated with the different aspects of an actual TCS NQT exam.
 
-![TCS NQT Questions Coding Practice Mock Test Syllabus Eligibility Results Preparation Material Registration Link Package Salary Fresher](https://insightcrunch.com/wp-content/uploads/2019/06/pexels-photo-4144144.jpeg)
+![TCS NQT Questions Coding Practice Mock Test Syllabus Eligibility Results Preparation Material Registration Link Package Salary Fresher](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Questions
 
 ## TCS NQT Questions

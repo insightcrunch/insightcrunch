@@ -16,7 +16,7 @@ The TCS NQT exam results is one of the most anticipated test results awaited by 
 
 The NQT exam requires you be skilled in advanced coding (see practice questions below), quantitative aptitude, logical reasoning, and verbal skills. If you can score good marks in my exams here, you can be confident you are on the right track. If you are not able to score good in my practice exams, make sure to closely read the real-time feedbacks that are provided to understand your weak areas. You can also reach out to me any time for personal study and preparation guidance for the TCS NQT exam. Make sure you invest your preparation effort equally for all the topics.
 
-![TCS NQT Results Syllabus Eligibility Marks Passing Cut off Salary Package Freshers](https://insightcrunch.com/wp-content/uploads/2019/10/pexels-photo-3813341.jpeg)
+![TCS NQT Results Syllabus Eligibility Marks Passing Cut off Salary Package Freshers](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Results
 
 ## TCS NQT Results 2023

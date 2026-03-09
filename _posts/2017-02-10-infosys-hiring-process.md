@@ -14,7 +14,7 @@ author: "Insight Crunch Team"
 
 Friends, oday iam going to share some insights on Infosys Hiring Process. Well Infosys also gives many chances to freshers to prove themselves and get into Infosys, similar to TCS.
 
-![Infosys Hiring Process](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-8067880.jpeg)
+![Infosys Hiring Process](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Infosys Hiring Process
 
 Infosys hires freshers through campuses in the following modes
@@ -35,9 +35,7 @@ During our time the process is like this
 
 1.After Registration on Infytq app on Infytq website you will be given to choose one slot for the exam which comprises of Aptitude ,Verbal and Python or Java(40 Mcqs) all questions are MCQS Only
 
-[
-![](https://1.bp.blogspot.com/-PIXCX5Eek-U/YEBWFMj99BI/AAAAAAAAAAQ/LDsr0grlAjQZcsHxHXdXLUqh33_n8DnLQCLcBGAsYHQ/w553-h304/infytq-exam-dates-registration.png)
-](https://1.bp.blogspot.com/-PIXCX5Eek-U/YEBWFMj99BI/AAAAAAAAAAQ/LDsr0grlAjQZcsHxHXdXLUqh33_n8DnLQCLcBGAsYHQ/s1880/infytq-exam-dates-registration.png)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 Here is a snapshot for how to book a slot. Be wise in booking slot as it may change your exam result and my suggestion in this is choose a 2nd or 3rd exam date . It's my suggestion only
 

@@ -107,7 +107,7 @@ Enter to Begin Exam
 function ReplaceContentInContainer(id,content) {
 var container = document.getElementById(id);
 exam.innerHTML = '<iframe style="border: 0px; height: 696px; width: 100%;" src="https://www.flexiquiz.com/SC/N/3ae35abf-67b0-4c70-8bd3-503adfdc8347"/>';
-document.getElementById("exam").style.backgroundImage = "url(https://1.bp.blogspot.com/-8QkfIBL9gfc/YKBhxAiKyPI/AAAAAAAPWu0/EPI5iJ-zLoQMvnH_yx6fg8bNjERWLl9RgCLcBGAsYHQ/s0/2021-05-15%2B19_03_18-Iframe%2BBackground.pptx%2B-%2BPowerPoint.png)";
+document.getElementById("exam").style.backgroundImage = "url(/assets/images/technology-industry-analysis-insightcrunch.webp)";
 document.getElementById("exam").style.backgroundRepeat="no-repeat";
 document.getElementById("exam").style.backgroundPosition="center top";
 button.style.display = "none";
@@ -384,7 +384,7 @@ Azure Purview helps establish the foundation for an effective data governance st
 
 In today's world of data, where an astonishing **2.5 quintillion bytes of data are created every single day**, Cloud driven computing and resource management technologies like Azure are in demand like never before. Deriving insights from data quickly and providing C-level executives with instantly actionable intelligence is the new refined present. There is so much data sitting idly in organizations today with a gold mine of information, the light is yet to shine fully in the analytical world and this is just the beginning. A quick summary of rate of data growth is below.
 
-![](https://insightcrunch.com/wp-content/uploads/2022/09/F44357ED-EC33-475E-9167-18FC8955EBE8.jpeg)
+![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 What is the actual exam like?
 
@@ -565,7 +565,7 @@ Enter to Begin Exam
 function ReplaceContentInContainer2(id,content) {
 var container = document.getElementById(id);
 examLifetime.innerHTML = '<br/><iframe style="border: 0px; height:750px; width: 100%;" src="https://www.flexiquiz.com/SC/N/2bd522c9-f4f3-49c0-a32f-74a920d0c07c"/>';
-document.getElementById("examLifetime").style.backgroundImage = "url(https://1.bp.blogspot.com/-8QkfIBL9gfc/YKBhxAiKyPI/AAAAAAAPWu0/EPI5iJ-zLoQMvnH_yx6fg8bNjERWLl9RgCLcBGAsYHQ/s0/2021-05-15%2B19_03_18-Iframe%2BBackground.pptx%2B-%2BPowerPoint.png)";
+document.getElementById("examLifetime").style.backgroundImage = "url(/assets/images/technology-industry-analysis-insightcrunch.webp)";
 document.getElementById("examLifetime").style.backgroundRepeat="no-repeat";
 document.getElementById("examLifetime").style.backgroundPosition="center top";
 button.style.display = "none";

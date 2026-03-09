@@ -16,7 +16,7 @@ Tata Consultancy Services National Qualifier Test (NQT) is one of the top assess
 
 TCS is a large organization with nearly a million employees. The TCS NQT exam is aimed at evaluating a large amount of candidates in minimal time in an efficient way. The exam consists of a variety of questions and tests, both topic wise and complexity wise that help evaluate a candidate holistically. You will be tested upon all the skills and qualities that you need to have in the software services industry. Do you know a variety of technologies? Are you proficient in more than one programming language? I would like to know you better. So make sure to practice harder, especially the advanced coding problems.
 
-![How many times TCS NQT is conducted in a year Syllabus Eligibility Registration Preparation Materials Mock Test Practice Questions Salary Package Freshers Hiring](https://insightcrunch.com/wp-content/uploads/2019/05/pexels-photo-6344239.jpeg)
+![How many times TCS NQT is conducted in a year Syllabus Eligibility Registration Preparation Materials Mock Test Practice Questions Salary Package Freshers Hiring](/assets/images/technology-industry-analysis-insightcrunch.webp)
 How many times TCS NQT is conducted in a year?
 
 ## Yearly TCS NQT Quota

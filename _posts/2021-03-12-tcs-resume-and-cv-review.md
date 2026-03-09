@@ -22,7 +22,7 @@ I encourage you not to share any personal information above. Also, this is a ser
 
 Keep reading: [TCS Rehire Policy after Resignation »](https://insightcrunch.com/2019/02/09/tcs-rehire-policy-after-resignation/)
 
-![TCS Resume and CV Job Hiring Recruitment Guidelines Tips Infosys Accenture Wipro IBM Microsoft Google Facebook Meta](https://insightcrunch.com/wp-content/uploads/2021/03/pexels-photo-3771807.jpeg)
+![TCS Resume and CV Job Hiring Recruitment Guidelines Tips Infosys Accenture Wipro IBM Microsoft Google Facebook Meta](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Resume Guidelines
 
 ## TCS CV Tips for Fresh Candidates

@@ -25,7 +25,7 @@ One of the most useful I find is the ODI tool OdiSqlUnload, which can be used i
 **OdiSqlUnload** "-FILE=/Output.txt" "-DRIVER=" "-URL=" "-USER=" "-PASS=" "-FILE_FORMAT=VARIABLE" "-FIELD_SEP=" "-ROW_SEP=" "-DATE_FORMAT=yyyy/MM/dd HH:mm:ss" "-CHARSET_ENCODING=ISO8859_1" "-XML_CHARSET_ENCODING=ISO-8859-1"  
 select <>, <>, <> from <>.<>
 
-![OdiSqlUnload and the Possibilities](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-4474047.jpeg)
+![OdiSqlUnload and the Possibilities](/assets/images/technology-industry-analysis-insightcrunch.webp)
 OdiSqlUnload and the Possibilities
 
 Now that I am able to successfully generate the ODI generated files, let's look at the different ways this can be leveraged to cater to various scenarios:

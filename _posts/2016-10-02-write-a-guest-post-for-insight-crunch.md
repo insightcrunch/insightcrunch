@@ -32,5 +32,5 @@ I am looking for creative articles on various IT work cultures, exam experiences
 
 Once you are ready with your article, upload your story above for me to review. You can be completely anonymous, or use a pseudo name. Or, you can also add links to your social media profiles if you want so that people can learn more about you.
 
-![Guest Post for Insight Crunch](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-4050304.jpeg)
+![Guest Post for Insight Crunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Guest Post for Insight Crunch

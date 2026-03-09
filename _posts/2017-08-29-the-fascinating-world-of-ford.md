@@ -10,7 +10,7 @@ reading_time: 6
 author: "Insight Crunch Team"
 ---
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/98686F82-C7CA-4D68-9036-880AE0845AF1-576x1024.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It is then that I started learning more about the smallest of the small details of Henry Ford’s life, and gradually it became an obsession. When I learnt that he has created a world where a snapshot of history is preserved so well, it was irresistible to drive up to Dearborn, Michigan.
 
@@ -18,31 +18,31 @@ The exquisite quality with which various aspects of historical importance, some 
 
 Several artifacts like Edison’s laboratory, the Wright brother’s home and shop, and detailed housing complexes consisting of schools, courts, etc. are arranged to give the feel of an actual city around us. Most of the objects are original or are close replicas of the originals, and arranged exactly how they were present in the actual laboratories. Each step felt like we needed to pause and absorb the intensity of the surroundings, the enormosity of the thoughts made even a lifeless historic backyard or fireplace grandeur.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/329D5970-1373-436D-A534-FDA19B7A9B18-1024x768.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 A visit to the world of Ford is not complete without getting a feel of the first Ford Model cars. Getting to know the stories of the struggle to create the car, and how much pain had to be endured to overcome each hurdle step by step to come where we are today, is astonishing. The respect for the legacy left behind continues to grow as we get to know more. We get to sit on the cars and assemble parts of the cars with the help of friendly guides, who walk us through the step to tighten screws for a few minutes to give us a feel of how things used to be done. Models of the Ford are kept showing each of the parts and how they can be assembled to create a car.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/20D36675-4D77-4FE0-B9DF-6B7D0DECAD8A-768x1024.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 The widespread usage of the car and the way it changed lives by allowing x-large distances to be covered in such small times was a new thing for all, and was so beautifully captured. Earlier people used to be able to cover only small distances in the limited times, and traveling to cities was elusive for the majority. But after the spread of the car population, things changed in multiple ways, leading to better industrial growth, better agriculture, medical care, and all other aspects of life. It brought all of us close to each other, marking a significant step in the human evolution story.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/1F3F1A88-9915-42C8-A74A-E2D4068BD459-768x1024.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 As we walk through the amazing time castle, we find ourselves walking through the growth of the civilization in this land, how each president contributed, and then the tumultuous 1860s during the Civil Wars. The details are explained in crisp and lucid style and is one of the most comprehensive collection that can be completed in a limited time. Several artifacts and memoirs are preserved, like Abraham Lincoln’s chair from Ford’s Theater, the bus where Rosa Parks sat before the Civil Rights Movement, and several signboards and newspapers from memorable times. Taking a seat in this bus triggered thoughts of all the events that followed decades back, it is just a grim recollection of the events that our past generations encountered.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/A8D17052-593D-412B-A574-E602C926C4BF-1024x768.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 Discriminations of decades have been vividly described with references, reports, documents, printings pertaining to that time. It is hard to imagine a time when this was all true, but yet it was right there with evidences before our eyes. The first-hand witness details and stories and reports of a time so near to our past gives chills and cannot stop us from continuously appreciating the grit and spirit of these brave people. The time is beautifully represented by lighting and color effects on fonts and texts simulating an atmosphere that gives a feel of the actual days decades back.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/BBDE700C-362A-41F4-972F-F8477906942A-1024x768.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 As we continued our dream tour of this amazing place, we learned details of various cars, how they were made, and their standout features. It showed how the efforts were continuous on moving towards where we are today, and bit by bit how we gradually came here. It was nice to learn how different routes and roads started getting prioritized as cars evolved, how hotels, motels, inns, lodges came into existence. Replicas of the earliest lodges and inns gave glimpses of the life decades back and how we might have spent our nights had we lived during that time. The basic facilities we have today, regardless of the technological advances, are far more luxurious than anything we could have imagined that time for the same lifestyle.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/8C266AAC-80C0-45D7-931A-476584905904-1024x768.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 The use of trains for large distances and the ever-increasing power and speed of the engines that led to the Industrial Revolution was described in amazing details with several replicas and actual models of the engines kept, some of which were over 20 feet high. The impact these trains had on the lives of millions of people across the geography by carrying almost any amount of anything in short times led to growth in man’s lifestyle that we have seldom seen in the recent history of man. The lives of everyone started changing due to the effect of this period, and it is an incredible feeling to actually get to learn the stories by watching movie clips, reading features and news of these actual trains from that time.
 
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](https://insightcrunch.com/wp-content/uploads/2022/08/26AF3D19-F96D-4D02-BFB3-D98CB66042FF-1024x768.jpeg)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 A section of the Presidential cars awaited us where the names of each of the Presidents were engraved with details. All the cars were there including that of John Fitzgerald Kennedy. The amount of protection and the techniques used to guarantee safety for the most important men in the country was amazing to see, read and learn so closely. It was sad however for some cases no amount of protection could protect us from ourselves leading to sad early ending of promising lives.
 

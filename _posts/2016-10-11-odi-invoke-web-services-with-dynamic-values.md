@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 The ODI Invoke Web Service utility is extremely handy and lots of users are already using it in their systems. The tool allows invoking an operation on a web service by the specified port number. Once we provide with all the required parameters, we can use the ODI tool OdiInvokeWebService to meet our required web services operation. **Download** the ODI Invoke Web Service document at the end of this article.
 
-![ODI Invoke Web Services with dynamic values](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-5324983.jpeg)
+![ODI Invoke Web Services with dynamic values](/assets/images/technology-industry-analysis-insightcrunch.webp)
 ODI Invoke Web Services with dynamic values
 
 There are credentials to be provided when we use the command OdiInvokeWebService, and the parameters we use as per Oracle's guidelines are as below:

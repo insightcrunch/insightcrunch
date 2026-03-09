@@ -18,7 +18,7 @@ Attrition and resignations have been a major issue for the software companies in
 
 [s2If !current_user_can(access_s2member_level1)]
 
-![TCS rejoin and rehire policy After resignation](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-4342496.jpeg)
+![TCS rejoin and rehire policy After resignation](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS rejoin and rehire policy
 
 ## What is the TCS rehire policy?

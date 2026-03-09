@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is an essential test
 
 The TCS NQT exam consists of quantitative aptitude questions, logical reasoning questions, verbal ability questions, and advanced coding questions. So it comprises of every possible aspect of an all-rounded evaluation exam that I can expect from a software engineer. Preparing for the NQT exam is the most crucial part, and that too strategically. Which topics would you like to improve upon? Do you know which topic you are weak in? Should you focus more on the C programs? How comfortable are you with advanced coding? Can you solve my practice questions below?
 
-![TCS NQT Eligibility Syllabus Registration Results Score Preparation Practice Mock Questions Salary Package Freshers Login](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-3856035.jpeg)
+![TCS NQT Eligibility Syllabus Registration Results Score Preparation Practice Mock Questions Salary Package Freshers Login](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Check your TCS NQT Score
 
 ## How to check TCS NQT Score

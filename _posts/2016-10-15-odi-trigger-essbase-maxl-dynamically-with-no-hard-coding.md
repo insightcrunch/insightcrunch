@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 The Oracle Data Integrator tool provides a flexible option, though customized, to call and execute MaxL scripts to perform various operations on our Essbase cubes. And more importantly, this approach using ODI is completely independent of the environment we are going to run our ODI codes in. A simple control table will contain the server information that will be referred by the ODI code to run the MaxL scripts in that specific Essbase instance.
 
-![ODI Trigger Essbase MaxL Dynamically with no hard-coding](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-3182812.jpeg)
+![ODI Trigger Essbase MaxL Dynamically with no hard-coding](/assets/images/technology-industry-analysis-insightcrunch.webp)
 ODI Trigger Essbase MaxL Dynamically with no hard-coding
 
 So the first step is to create my **control table** with all the different values that will be used by my ODI code. This control table will be present in all the instances like Development Test Production, each with it's own unique values as applicable for that environment. Usually the server admins will be having all these information and the table might only have read access in Development instance. In higher instance the developers might not be allowed to have read access on this table since it will contain sensitive information like the user credentials. The below are the parameters that will be stored in the control table:

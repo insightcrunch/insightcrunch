@@ -16,7 +16,7 @@ I am sharing my TCS Interview experience with u all, along with some tips and tr
 
 My Interview panel consisted of 3 panel members, since my TR,MR and HR round was punched in2 1.
 
-![TCS Interview Tips](https://insightcrunch.com/wp-content/uploads/2022/09/pexels-photo-7176296.jpeg)
+![TCS Interview Tips](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS Interview Tips
 
 After 1st round of TCS interview, few were asked for 2nd or even 3rd round of TCS interview. after 1st round, either you are Accepted by everybody, rejected by everybody, or a conflict arises within the panel, when HR approves you, but Techie doesn't, or the other way round... in that case you may get a 2nd chance in proving yourself to another techie or TCS interview HR. It's all up to them.

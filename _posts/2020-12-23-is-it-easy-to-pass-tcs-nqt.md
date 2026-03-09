@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is taken by thousand
 
 Read more: [TCS ILP Trivandrum »](https://insightcrunch.com/2010/09/20/tcs-ilp-trivandrum-2/)
 
-![Is it easy to pass TCS NQT Eligibility Syllabus Passing Marks Cut Off Questions Registration Ninja Digital](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-4458411.jpeg)
+![Is it easy to pass TCS NQT Eligibility Syllabus Passing Marks Cut Off Questions Registration Ninja Digital](/assets/images/technology-industry-analysis-insightcrunch.webp)
 Is it easy to pass TCS NQT
 
 ## TCS NQT Difficulty

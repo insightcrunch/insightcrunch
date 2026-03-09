@@ -12,7 +12,7 @@ author: "Insight Crunch Team"
 
 The Oracle Data Integrator load plans involve extracting and loading large volumes of data and then transforming them as per requirements. Often the volume of data becomes a bottleneck and the execution timings goes beyond the acceptable limits. That is when some of the age-old practices of performance improvement using keys and indexes come in.
 
-![ODI Performance Tuning using indexes and keys](https://insightcrunch.com/wp-content/uploads/2016/10/pexels-photo-5882683.jpeg)
+![ODI Performance Tuning using indexes and keys](/assets/images/technology-industry-analysis-insightcrunch.webp)
 ODI Performance Tuning using indexes and keys
 
 [](http://imageshack.com/a/img921/5388/0B1pqH.jpg)The intermediate C$ work tables and staging tables used in ODI are often ignored as part of the tuning process. It is not always necessary that the Extract and Load phases need to end with the same data set in the Source and the Target Staging areas. Let's say I have a unique key column (X) in my final target table that holds all the data after transformation. This unique key (X) is a sequence number that increases gradually in the source system. So now, during my extract phase, my requirement being fetching only the incremental data to the final target table, I will fetch those records in my source with the filter where the **source key is greater than the max (X) of my target final table**. So, I do not need to fetch all the records, instead only a subset of the data that meets the 'greater than' criterion.

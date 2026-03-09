@@ -16,7 +16,7 @@ Tata Consultancy Services National Qualifier Test (NQT) is the exam that many so
 
 I would like to emphasize however the TCS NQT is one of the most comprehensive tests that you will come across in the software industry today. It is aimed at testing a candidate’s ability for all the relevant skills required to be successful in the information technology sector. Your strength in one topic can often compensate for another topic in the exam that you may need improvement on, but it is essential you focus on your weak areas as well. Being a highly competitive exam, every mark in the TCS NQT exam matters.
 
-![TCS NQT Exam Cost Syllabus Eligibility Passing Mark Cut Off Registration Results](https://insightcrunch.com/wp-content/uploads/2022/08/pexels-photo-5292228.jpeg)
+![TCS NQT Exam Cost Syllabus Eligibility Passing Mark Cut Off Registration Results](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT Exam Cost
 
 ## TCS NQT exam cost
