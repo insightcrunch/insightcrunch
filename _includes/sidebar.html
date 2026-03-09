@@ -42,7 +42,8 @@
           {% assign row_parts = row | split: '|||' %}
           {% assign cat_count = row_parts[0] | plus: 0 %}
           {% assign cat_name = row_parts[1] %}
-          <a href="{{ '/categories/' | append: cat_name | slugify | append: '/' | relative_url }}"{% if page.category == cat_name %} class="on"{% endif %}>◇ {{ cat_name }} <span class="sb-cat-count">({{ cat_count }})</span></a>
+          {% assign matching_category_page = site.pages | where: 'category', cat_name | first %}
+          <a href="{{ matching_category_page.url | relative_url }}"{% if page.category == cat_name %} class="on"{% endif %}>◇ {{ cat_name }} <span class="sb-cat-count">({{ cat_count }})</span></a>
         {% endif %}
       {% endfor %}
       <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} class="on"{% endif %}>◇ About</a>
