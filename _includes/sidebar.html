@@ -23,7 +23,7 @@
           <span class="sb-st-l">posts</span>
         </div>
         <div class="sb-st">
-          <span class="sb-st-n">{{ site.posts | map: 'categories' | flatten | uniq | size }}</span>
+          <span class="sb-st-n">{{ site.categories_list | size }}</span>
           <span class="sb-st-l">topics</span>
         </div>
       </div>
@@ -32,7 +32,8 @@
     <nav class="sb-nav">
       <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="on"{% endif %}>◈ All posts</a>
       {% for cat in site.categories_list %}
-      <a href="{{ '/categories/' | append: cat | downcase | relative_url }}"{% if page.title == cat %} class="on"{% endif %}>◇ {{ cat }}</a>
+        {% assign cat_count = site.categories[cat] | size %}
+        <a href="{{ '/categories/' | append: cat | downcase | relative_url }}"{% if page.title == cat %} class="on"{% endif %}>◇ {{ cat }} <span class="sb-cat-count">({{ cat_count }})</span></a>
       {% endfor %}
       <a href="{{ '/about/' | relative_url }}"{% if page.url contains 'about' %} class="on"{% endif %}>◇ About</a>
     </nav>

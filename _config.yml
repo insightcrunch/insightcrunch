@@ -29,11 +29,11 @@ plugins:
 permalink: /:year/:month/:day/:title/
 
 categories_list:
-  - Technology
-  - Society
-  - Life
+  - Leisure
+  - Industry
   - Analytics
   - Travel
+  - Technology
 
 timezone: "America/Chicago"
 markdown: kramdown
