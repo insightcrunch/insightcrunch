@@ -2,7 +2,7 @@
 layout: post
 title: "50 Free Browser Tools Every Chromebook User Needs"
 date: 2025-11-27
-categories: ["Productivity"]
+categories: ["Technology"]
 tags: ["Chromebook", "Free Tools", "Browser Tools", "Productivity", "Online Tools"]
 excerpt: "Your Chromebook is more powerful than you think. These 50 free browser-based tools replace dozens of desktop applications, from PDF editors and video compressors to Python IDEs and SQL engines, all running ..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
