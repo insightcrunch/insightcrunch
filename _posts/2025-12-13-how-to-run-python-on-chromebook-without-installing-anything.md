@@ -2,7 +2,7 @@
 layout: post
 title: "How to Run Python on Chromebook Without Installing Anything"
 date: 2025-12-13
-categories: ["Programming"]
+categories: ["Technology"]
 tags: ["Python", "Chromebook", "Online Python", "Code Runner", "Programming"]
 excerpt: "Running Python on a Chromebook used to mean fighting with Linux containers, Crostini, or remote servers. Not anymore. This guide shows you how to write and execute Python code instantly in your browser ..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
