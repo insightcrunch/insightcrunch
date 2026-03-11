@@ -14,7 +14,7 @@ The journey from registering for the TCS National Qualifier Test to walking thro
 
 Every batch has candidates who missed a step, forgot to click "Apply For Drive," entered wrong details, or left Xplore incomplete - and paid for it with delayed joining, missed bonuses, or unnecessary stress. Every batch also has candidates who navigated every stage smoothly, arrived at ILP fully prepared, and started their career with confidence.
 
-![TCS NQT to ILP Journey](/assets/images/technology-industry-analysis-insightcrunch.webp.webp)
+![TCS NQT to ILP Journey](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS NQT to ILP - The Complete Journey From Registration to Training Day
 
 This guide maps the complete journey from start to finish, covering every stage of the pipeline: NQT registration on the NextStep portal, the NQT exam structure and preparation, results and interview rounds, the offer letter, the Xplore program and IPA assessment, document preparation, the joining letter, background verification, and the first day of ILP. The information draws from the official TCS hiring process documented on the TCS careers page, the NextStep portal structure, and the experiences of candidates across recent hiring cycles.
