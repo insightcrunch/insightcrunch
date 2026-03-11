@@ -5,7 +5,7 @@ date: 2025-10-22
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "TCS IRA1", "TCS IRA2", "Aspire", "Fresher"]
 excerpt: "The Initial Readiness Assessments are the first real tests you face at TCS ILP, and they set the tone for everything that follows. IRA1 failure can get your training rescheduled. IRA2 feeds into your cumulative rating. This is the complete breakdown of both assessments with question patterns, pass marks, preparation strategies, and what happens when things go wrong ..."
-image: "/assets/images/tcs-ira-assessment-guide-reportmedic.webp"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ The Initial Readiness Assessments are the first real tests you face at TCS ILP, 
 
 Hope is not a strategy. This guide is.
 
-![TCS IRA1 and IRA2 Complete Guide](/assets/images/tcs-ira-assessment-guide-reportmedic.webp)
+![TCS IRA1 and IRA2 Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS IRA1 and IRA2 - Questions, Pattern, Pass Marks, and How to Clear
 
 This is the most detailed resource available on TCS IRA1 and IRA2. We cover the exact format of each assessment, the question patterns drawn from years of ILP alumni feedback, the pass marks and what happens if you miss them, the re-attempt policies, the preparation strategy that maximizes your score with minimum wasted effort, and the specific Aspire and Tech Lounge topics that appear most frequently.

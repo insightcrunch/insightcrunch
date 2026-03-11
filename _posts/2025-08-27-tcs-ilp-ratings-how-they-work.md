@@ -5,7 +5,7 @@ date: 2025-08-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Rating", "ILP Score", "Fresher", "IT Career", "Project Allocation"]
 excerpt: "Your ILP rating is the first professional performance metric of your career. It influences your project allocation, your base branch flexibility, and the first impression you make on every manager who reviews your profile. Yet most freshers have no idea how the rating is calculated, what weight each assessment carries, or how to strategically maximize their score ..."
-image: "/assets/images/tcs-ilp-ratings-guide-reportmedic.webp"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ Your ILP rating is the first professional performance metric of your career. It 
 
 Some freshers treat ILP ratings as a mystery, something that happens to them after the training ends. Others treat it as trivial, assuming that post-ILP performance is all that matters. Both perspectives are wrong. The rating is neither mysterious nor trivial. It is a calculated metric with specific inputs, and understanding those inputs lets you influence the output deliberately.
 
-![TCS ILP Ratings Guide](/assets/images/tcs-ilp-ratings-guide-reportmedic.webp)
+![TCS ILP Ratings Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP Ratings - How They Work and Why They Matter for Your Career
 
 This guide demystifies the TCS ILP rating system entirely. We cover every component that feeds into the final rating, the approximate weighting of each component based on alumni analysis, the strategic implications for how you allocate your preparation effort, the real-world impact of ratings on project allocation and career progression, and the specific actions that separate top-rated freshers from average ones.

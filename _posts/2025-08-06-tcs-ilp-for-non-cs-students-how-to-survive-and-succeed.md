@@ -5,7 +5,7 @@ date: 2025-08-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Non-CS", "Mechanical Engineering", "ECE", "EEE", "Civil Engineering", "TCS Freshers", "Career Switch", "ILP Preparation", "Fresher"]
 excerpt: "Every year, thousands of engineering graduates from mechanical, electrical, civil, electronics, aerospace, and dozens of other non-CS branches receive TCS offer letters and find themselves heading into an Initial Learning Program built entirely around software development. The question that haunts every single one of them is the same: how does someone who spent four years studying thermodynamics, circuit theory, or structural analysis survive a training program centered on Java, Python, SQL, and web development ..."
-image: "/assets/images/tcs-ilp-non-cs-students-reportmedic.webp"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 30
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ Every year, thousands of engineering graduates from mechanical, electrical, civi
 
 The anxiety is real. It shows up in forums, in WhatsApp groups, and in the late-night searches that spike every time a new batch of joining letters goes out. "I am from mechanical, will I survive ILP?" "I have zero coding knowledge, which stream should I choose?" "Is Java too hard for non-CS students?" These questions repeat across every batch, every year, from every non-CS branch.
 
-![TCS ILP for Non-CS Students](/assets/images/tcs-ilp-non-cs-students-reportmedic.webp)
+![TCS ILP for Non-CS Students](/assets/images/technology-industry-analysis-insightcrunch.webp)
 TCS ILP for Non-CS Students - How to Survive and Succeed Without a Computer Science Background
 
 The short answer is that non-CS graduates not only survive TCS ILP, they often do remarkably well. But doing well requires a specific kind of preparation and mindset that is different from what CS graduates bring. This guide covers exactly what non-CS students need to know: where the real gaps are, where the perceived gaps are exaggerated, which areas to focus your preparation on, how to choose your stream, what the first weeks of ILP feel like when you have never written a program before, how to use your engineering background as a genuine advantage, and what happens after ILP when your branch truly stops mattering.
