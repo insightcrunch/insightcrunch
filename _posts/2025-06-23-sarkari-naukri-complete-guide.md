@@ -85,9 +85,9 @@ The Union Public Service Commission Civil Services Examination (UPSC CSE) is the
 
 ### Current Recruitment Cycle
 
-The UPSC CSE 2026 notification has been released for 933 vacancies. The Prelims exam is scheduled for 24 May 2026, and the Mains will commence from 21 August 2026 onwards. This represents a continuation of the annual cycle where UPSC releases its notification between January and February, with Prelims in May and Mains in September.
+The latest UPSC CSE notification is typically released for around 900-1,000 vacancies each cycle. The annual cycle follows a consistent pattern: notification released between January and February, Prelims conducted in May, and Mains commencing from August onwards.
 
-The AIR 1 in UPSC CSE 2024 was secured by Shakti Dubey, and for the 2025 cycle, Anuj Agnihotri secured AIR 1 with a total of 1,071 marks, comprising 867 marks in the written Mains examination and 204 marks in the Personality Test.
+In recent cycles, the AIR 1 scorers have achieved totals in the range of 1,060-1,080 marks out of 2,025, with the written Mains component typically contributing around 850-870 marks and the Personality Test the remaining 200-210 marks.
 
 ### Eligibility Criteria
 
@@ -127,7 +127,7 @@ The SSC CGL is the premier examination for graduate-level Group B and Group C po
 
 **Eligibility:** A bachelor's degree from any recognised university is the minimum educational qualification. The age limit is generally between 18 and 32 years, with the exact limit varying by post. Standard category-wise age relaxations apply.
 
-The previous cycle saw 14,582 vacancies announced across various posts through SSC CGL 2025. These numbers reflect the scale of the opportunity available to graduate-level aspirants through this single examination.
+Recent cycles have seen upward of 14,000 vacancies announced across various posts through SSC CGL, reflecting the scale of the opportunity available to graduate-level aspirants through this single examination.
 
 **Exam Pattern:** The SSC CGL exam is conducted in two tiers, both as computer-based tests (CBTs) with multiple-choice questions. There is no interview in the selection process.
 
@@ -141,7 +141,7 @@ Tier 2 determines the final merit and is more comprehensive. It includes Paper I
 
 The SSC CHSL is the primary recruitment examination for 12th-pass candidates seeking Central Government clerical posts, specifically Lower Division Clerk (LDC), Junior Secretariat Assistant (JSA), and Data Entry Operator (DEO).
 
-SSC CHSL 2025 had approximately 3,131 vacancies announced. Eligibility requires candidates to be between 18 and 27 years of age with a 12th Standard pass from a recognised board. The application fee is Rs 100 for General/OBC/EWS candidates, while SC/ST/PwD candidates are exempted.
+Recent SSC CHSL cycles have announced approximately 3,000-4,000 vacancies. Eligibility requires candidates to be between 18 and 27 years of age with a 12th Standard pass from a recognised board. The application fee is Rs 100 for General/OBC/EWS candidates, while SC/ST/PwD candidates are exempted.
 
 The SSC CHSL salary ranges from Rs 30,000 to Rs 50,000 per month according to the updated 7th Pay Commission structure, depending on the designation and work profile.
 
@@ -167,7 +167,7 @@ Indian Railways is the world's fourth-largest railway network by size and the la
 
 RRB NTPC is the flagship recruitment examination for non-technical clerical and operational posts in Indian Railways. The "Popular Categories" designation comes from the historically high application numbers these posts attract.
 
-The current RRB NTPC 2026 recruitment includes a total of 8,868 vacancies. Of these, 5,810 are graduate-level posts and 3,058 are undergraduate (10+2 level) posts across different Zonal Railways and Production Units. The CBT 1 for graduate-level posts (CEN 06/2025) is scheduled from 16 March to 27 March 2026.
+Recent RRB NTPC recruitment cycles have included approximately 8,000-11,000 vacancies for both graduate and undergraduate-level posts across different Zonal Railways and Production Units. Graduate-level CBT 1 is typically conducted in the first quarter of the calendar year following the notification.
 
 Graduate-level posts include Station Master, Goods Train Manager, Senior Commercial cum Ticket Clerk, Senior Clerk cum Typist, and Junior Account Assistant cum Typist. Undergraduate-level posts include Junior Clerk cum Typist, Accounts Clerk cum Typist, Junior Time Keeper, Trains Clerk, and Commercial cum Ticket Clerk.
 
@@ -185,7 +185,7 @@ RRB NTPC posts are categorised by Pay Levels under the 7th CPC. An important not
 
 RRB Group D is the entry-level railway recruitment examination, hiring Track Maintainers, Helpers in various departments (Electrical, Mechanical, Signal and Telecommunication, Engineering, IT), Pointsmen, and similar Level 1 posts.
 
-The RRB Group D 2026 notification (CEN 09/2025) has been released for 22,082 vacancies at Level 1. The minimum educational qualification is 10th pass or ITI from a recognised board, or National Apprenticeship Certificate from NCVT. The age limit is 18 to 33 years. The last date to apply was 9 March 2026.
+Recent RRB Group D notification cycles have released vacancies in the range of 18,000-26,000 at Level 1. The minimum educational qualification is 10th pass or ITI from a recognised board, or National Apprenticeship Certificate from NCVT. The age limit is 18 to 33 years.
 
 The selection process includes a Computer Based Test (CBT) covering Mathematics, General Intelligence and Reasoning, General Science, and General Awareness (100 questions, 90 minutes, 1/3 negative marking), followed by a Physical Efficiency Test (PET) and Medical Examination. The CBT is qualifying at 40% for UR/EWS and 30% for OBC/SC/ST.
 
@@ -299,7 +299,7 @@ One of the most frequently asked questions about Sarkari Naukri is "how much doe
 
 ### The Pay Matrix: India's Government Salary Framework
 
-The 7th Central Pay Commission, implemented from January 2016, introduced a simplified Pay Matrix to replace the earlier complex Grade Pay + Pay Band system. The Pay Matrix has 18 pay levels, each with an index starting from Level 1 (entry level for Group C posts) and going up to Level 18 (Cabinet Secretary).
+The 7th Central Pay Commission introduced a simplified Pay Matrix to replace the earlier complex Grade Pay + Pay Band system. The Pay Matrix has 18 pay levels, each with an index starting from Level 1 (entry level for Group C posts) and going up to Level 18 (Cabinet Secretary).
 
 Here is the basic pay range for the most relevant levels:
 
@@ -345,7 +345,7 @@ After standard deductions (NPS contribution, CGHS, etc.), the net in-hand salary
 
 ### The Pension Advantage
 
-Government employees who joined after January 2004 are covered under the National Pension System (NPS), which replaced the old Defined Benefit Pension (OPS). Under NPS, the government contributes 14% of basic pay plus DA to the pension fund, and the employee contributes 10%. The accumulated corpus is invested in equity and debt instruments and is available at retirement.
+Government employees recruited after the introduction of the National Pension System (NPS) are covered under NPS, which replaced the old Defined Benefit Pension (OPS). Under NPS, the government contributes 14% of basic pay plus DA to the pension fund, and the employee contributes 10%. The accumulated corpus is invested in equity and debt instruments and is available at retirement.
 
 There is ongoing political debate about the return to the Old Pension Scheme (OPS), and several states have already reverted to OPS for their state government employees. For the Central Government, NPS remains the applicable system, but whatever the outcome, the pension component of a government career remains significantly more secure than private sector retirement planning.
 
