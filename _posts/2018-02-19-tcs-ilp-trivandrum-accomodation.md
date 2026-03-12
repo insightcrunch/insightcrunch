@@ -373,7 +373,6 @@ Regardless of season, some practical items help across all conditions:
 - Light, breathable formal clothing handles the heat better than heavier fabrics.
 - A small portable fan can make a meaningful difference in room comfort during the pre-monsoon and monsoon heat if your accommodation's ventilation is limited.
 
-
 ---
 
 ## Mobile Connectivity, Banking, and Admin Setup for Trivandrum ILP
@@ -401,4 +400,8 @@ Ninety days away from home, with a demanding daily schedule and variable food qu
 - The TCS campus has a medical facility accessible to trainees for more significant health concerns. Know where it is.
 - Physical activity drops precipitously during ILP for most associates. The daily commute and the walk between buildings provides some baseline movement, but the sedentary demands of four daily sessions in a lab or training room accumulate. A fifteen to twenty minute walk in the evening, or a short morning run before the day begins, does more for your energy levels and mental clarity during ILP than most other interventions. The campus and surrounding Technopark roads are safe for early morning walking and jogging.
 
+---
+
 Have a great journey to Trivandrum. It is a beautiful place to live, and the memories you will make there have a long shelf life. Utilise the weekends properly and travel around Kerala whenever you can.
+
+---
