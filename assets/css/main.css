@@ -557,6 +557,42 @@ body::before {
   .site-footer { font-size: 10px; }
 }
 
+/* ── Royal ornamental separator ── */
+.post-content hr {
+  border: none;
+  position: relative;
+  height: 1px;
+  margin: 2.4em auto;
+  max-width: 480px;
+  background: linear-gradient(90deg, transparent 0%, var(--amber-bd) 18%, var(--amber) 50%, var(--amber-bd) 82%, transparent 100%);
+  overflow: visible;
+}
+.post-content hr::before {
+  content: '◈';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--s1);
+  padding: 0 14px;
+  font-size: 14px;
+  color: var(--amber);
+  letter-spacing: 6px;
+  line-height: 1;
+}
+.post-content hr::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 90px;
+  height: 7px;
+  background: linear-gradient(90deg, transparent 0%, rgba(176,96,16,.08) 30%, rgba(176,96,16,.12) 50%, rgba(176,96,16,.08) 70%, transparent 100%);
+  border-radius: 50%;
+  z-index: -1;
+}
+
 /* Hide any injected author avatar */
 .sb-card img, .sb-avatar, .author-avatar,
 .sb-card [class*="avatar"], .sb-card [class*="photo"] { display: none !important; }
