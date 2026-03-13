@@ -470,7 +470,7 @@ body::before {
 @media (max-width: 760px) {
   html { font-size: 13px; }
 
-  .layout { grid-template-columns: 1fr; }
+  .layout { grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
 
   /* Sidebar collapses to a compact top bar */
   .sidebar {
