@@ -104,21 +104,25 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 .idea-audience{font-size:11px;color:var(--green);margin-bottom:6px}
 .idea-audience span{font-weight:600}
 .idea-desc{font-size:12.5px;color:var(--mid);line-height:1.6;margin-bottom:10px}
-.idea-tags{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px}
-.tag{display:inline-block;padding:2px 9px;border-radius:10px;font-size:10px;font-weight:600;letter-spacing:.3px}
-.tag-cat{background:rgba(72,136,208,.12);color:var(--c-tech)}
-.tag-ai{background:rgba(160,108,213,.12);color:var(--c-ai)}
-.tag-swe{background:rgba(56,160,136,.12);color:var(--c-swe)}
-.tag-jobs{background:rgba(208,80,96,.12);color:var(--c-jobs)}
-.tag-start{background:rgba(200,120,48,.12);color:var(--c-start)}
-.tag-cloud{background:rgba(92,160,216,.12);color:var(--c-cloud)}
-.tag-data{background:rgba(136,96,192,.12);color:var(--c-data)}
-.tag-biz{background:rgba(208,160,48,.12);color:var(--c-biz)}
-.tag-sci{background:rgba(72,176,136,.12);color:var(--c-sci)}
-.tag-world{background:rgba(192,104,72,.12);color:var(--c-world)}
-.tag-health{background:rgba(88,176,104,.12);color:var(--c-health)}
-.tag-edu{background:rgba(112,144,208,.12);color:var(--c-edu)}
-.tag-format{background:var(--amber-bg);color:var(--amber)}
+
+/* Insight signals grid */
+.idea-signals{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+.signal{display:flex;align-items:center;gap:5px;background:var(--bg);border:1px solid var(--faint);border-radius:var(--radius);padding:5px 10px;font-size:10.5px;line-height:1.3}
+.signal-label{color:var(--soft);font-weight:600;text-transform:uppercase;font-size:9px;letter-spacing:.3px}
+.signal-val{font-weight:600}
+.signal-val.gap{color:var(--green)}
+.signal-val.related{color:var(--blue)}
+.signal-val.covered{color:var(--yellow)}
+.signal-val.hot{color:var(--red)}
+.signal-val.warm{color:var(--amber)}
+.signal-val.mild{color:var(--mid)}
+.signal-val.fresh{color:var(--green)}
+.signal-val.recent{color:var(--blue)}
+.signal-val.stale{color:var(--soft)}
+.signal-val.high-comp{color:var(--red)}
+.signal-val.med-comp{color:var(--yellow)}
+.signal-val.low-comp{color:var(--green)}
+.signal-val.length{color:var(--mid)}
 
 .idea-sources{font-size:11px;color:var(--soft);line-height:1.7;border-top:1px solid var(--faint);padding-top:8px;margin-top:4px}
 .idea-sources a{color:var(--soft);text-decoration:none}
@@ -190,8 +194,9 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   .idea-title{font-size:14px;margin-bottom:5px;line-height:1.35}
   .idea-audience{font-size:10px;margin-bottom:4px}
   .idea-desc{font-size:11px;line-height:1.45;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-  .idea-tags{gap:3px;margin-bottom:6px}
-  .tag{font-size:9px;padding:2px 7px}
+  .idea-signals{gap:4px;margin-bottom:6px}
+  .signal{padding:4px 8px;font-size:9.5px}
+  .signal-label{font-size:8px}
   .idea-sources{font-size:10px;line-height:1.45;padding-top:6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
   .idea-actions{gap:6px;margin-top:8px}
   .idea-btn{padding:5px 12px;font-size:10px}
@@ -226,11 +231,11 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 <div class="main-wrap">
   <!-- Stats -->
   <div class="stats-row" id="statsRow">
-    <div class="stat-card"><div class="stat-val amber" id="statFeeds">-</div><div class="stat-label">Feeds</div></div>
-    <div class="stat-card"><div class="stat-val" id="statArticles">-</div><div class="stat-label">Headlines</div></div>
+    <div class="stat-card"><div class="stat-val amber" id="statFeeds">-</div><div class="stat-label">Feeds Scanned</div></div>
+    <div class="stat-card"><div class="stat-val" id="statArticles">-</div><div class="stat-label">Headlines Found</div></div>
     <div class="stat-card"><div class="stat-val blue" id="statIdeas">-</div><div class="stat-label">Ideas Generated</div></div>
-    <div class="stat-card"><div class="stat-val green" id="statTopics">-</div><div class="stat-label">Topics</div></div>
-    <div class="stat-card"><div class="stat-val" id="statSources">-</div><div class="stat-label">Sources</div></div>
+    <div class="stat-card"><div class="stat-val green" id="statTopics">-</div><div class="stat-label">Topic Clusters</div></div>
+    <div class="stat-card"><div class="stat-val" id="statPosts">-</div><div class="stat-label">IC Posts Indexed</div></div>
   </div>
 
   <!-- Category chips -->
@@ -369,6 +374,85 @@ var FEEDS = {
 var PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
 var ALL_IDEAS = [];
 var ALL_HEADLINES = [];
+var EXISTING_POSTS = [];
+
+// ─── LOAD EXISTING POSTS FOR COVERAGE ANALYSIS ───
+(function loadPosts() {
+  var base = window.location.pathname.replace(/\/[^\/]*$/,'/');
+  // Try relative to admin folder
+  fetch('/admin/posts/posts-data.json').then(function(r){
+    if (!r.ok) throw new Error('not found');
+    return r.json();
+  }).then(function(data){
+    EXISTING_POSTS = data || [];
+  }).catch(function(){
+    // Fallback: try sibling path
+    fetch(base + '../posts/posts-data.json').then(function(r){ return r.json(); })
+    .then(function(data){ EXISTING_POSTS = data || []; })
+    .catch(function(){ EXISTING_POSTS = []; });
+  });
+})();
+
+// ─── SIGNAL HELPERS ───
+function checkCoverage(topicKeywords) {
+  if (!EXISTING_POSTS.length) return { type:'unknown', label:'No Data', cls:'stale', count:0, posts:[] };
+  var matched = [];
+  EXISTING_POSTS.forEach(function(p) {
+    var postText = (p.title + ' ' + (p.tags||[]).join(' ') + ' ' + (p.excerpt||'')).toLowerCase();
+    var hits = 0;
+    topicKeywords.forEach(function(kw) { if (postText.indexOf(kw) !== -1) hits++; });
+    if (hits >= 2) matched.push(p);
+  });
+  if (matched.length === 0) return { type:'gap', label:'Content Gap', cls:'gap', count:0, posts:[] };
+  if (matched.length <= 3) return { type:'related', label:'Related: ' + matched.length + ' post' + (matched.length>1?'s':''), cls:'related', count:matched.length, posts:matched };
+  return { type:'covered', label:'Covered: ' + matched.length + ' posts', cls:'covered', count:matched.length, posts:matched };
+}
+
+function getTrendingHeat(clusterSize) {
+  if (clusterSize >= 7) return { label:'On Fire', cls:'hot', icon:'&#9650;&#9650;&#9650;' };
+  if (clusterSize >= 4) return { label:'Hot', cls:'hot', icon:'&#9650;&#9650;' };
+  if (clusterSize >= 2) return { label:'Warm', cls:'warm', icon:'&#9650;' };
+  return { label:'Mild', cls:'mild', icon:'-' };
+}
+
+function getFreshness(headlines) {
+  var now = new Date();
+  var ages = headlines.map(function(h) {
+    try { return (now - new Date(h.date)) / (1000*60*60*24); }
+    catch(e) { return 30; }
+  }).filter(function(a){ return !isNaN(a); });
+  if (!ages.length) return { label:'Unknown', cls:'stale' };
+  var avg = ages.reduce(function(a,b){return a+b;},0) / ages.length;
+  if (avg <= 1) return { label:'Today', cls:'fresh' };
+  if (avg <= 3) return { label:'This Week', cls:'fresh' };
+  if (avg <= 7) return { label:'Recent', cls:'recent' };
+  return { label:'Older', cls:'stale' };
+}
+
+function getCompetition(headlines) {
+  var sources = {};
+  headlines.forEach(function(h){ if(h.source) sources[h.source]=true; });
+  var count = Object.keys(sources).length;
+  if (count >= 4) return { label:count + ' outlets', cls:'high-comp', note:'High' };
+  if (count >= 2) return { label:count + ' outlets', cls:'med-comp', note:'Medium' };
+  return { label:'1 outlet', cls:'low-comp', note:'Niche' };
+}
+
+var FORMAT_LENGTHS = {
+  'Industry Analysis': '4,000-6,000',
+  'Job Market Deep Dive': '5,000-8,000',
+  'Actionable Guide': '3,000-5,000',
+  'Trend Listicle': '2,000-3,000',
+  'Opinion / Hot Take': '1,500-2,500',
+  'Case Study Roundup': '4,000-6,000',
+  'Explainer': '2,500-4,000',
+  'Career Guide': '4,000-6,000',
+  'Comparison': '3,000-5,000',
+  'Evergreen Guide': '5,000-8,000'
+};
+function getSuggestedLength(formatType) {
+  return FORMAT_LENGTHS[formatType] || '3,000-5,000';
+}
 
 // ─── RENDER TOPIC CHIPS ───
 function renderChips() {
@@ -514,20 +598,6 @@ function clusterArticles(articles) {
   return clusters.slice(0, 12).map(function(c){ return c.indices.map(function(idx){ return articles[idx]; }); });
 }
 
-function mapTopicToTag(topWords) {
-  var text = topWords.join(' ');
-  if (/\b(ai|artificial|intelligence|llm|gpt|model|neural|machine|learning|deep)\b/.test(text)) return 'tag-ai';
-  if (/\b(software|developer|code|programming|github|engineer|devops|api)\b/.test(text)) return 'tag-swe';
-  if (/\b(jobs|hiring|layoff|salary|career|recruit|workforce|employment)\b/.test(text)) return 'tag-jobs';
-  if (/\b(startup|funding|venture|seed|series|valuation|founder)\b/.test(text)) return 'tag-start';
-  if (/\b(cloud|aws|azure|kubernetes|docker|infrastructure|serverless)\b/.test(text)) return 'tag-cloud';
-  if (/\b(data|analytics|database|sql|warehouse|pipeline|spark)\b/.test(text)) return 'tag-data';
-  if (/\b(health|medical|clinical|patient|drug|disease|mental)\b/.test(text)) return 'tag-health';
-  if (/\b(climate|space|physics|research|study|biology|chemical)\b/.test(text)) return 'tag-sci';
-  if (/\b(economy|market|stock|trade|revenue|profit|finance|bank)\b/.test(text)) return 'tag-biz';
-  return 'tag-cat';
-}
-
 function generateIdeas(clusters) {
   var ideas = [];
   var usedAngles = {};
@@ -545,18 +615,23 @@ function generateIdeas(clusters) {
       if (!usedAngles[ANGLES[a].type]) { angle=ANGLES[a]; usedAngles[angle.type]=true; break; }
     }
     if (!angle) angle = ANGLES[i % ANGLES.length];
-    var tagClass = mapTopicToTag(topWords);
+    // Compute signals
+    var coverage = checkCoverage(topWords);
+    var heat = getTrendingHeat(group.length);
+    var freshness = getFreshness(group);
+    var competition = getCompetition(group);
+    var suggestedLen = getSuggestedLength(angle.type);
     ideas.push({
       number: i+1,
       title: angle.tpl.replace(/\{topic\}/g, topic),
       type: angle.type,
       audience: angle.audience,
       desc: angle.desc.replace(/\{topic\}/g, topic),
-      headlines: group.slice(0,4).map(function(a){ return { title:a.title, link:a.link, source:a.source }; }),
+      headlines: group.slice(0,4).map(function(a){ return { title:a.title, link:a.link, source:a.source, date:a.date }; }),
       tags: topWords.slice(0,4),
-      tagClass: tagClass,
       clusterSize: group.length,
-      topic: topic
+      topic: topic,
+      signals: { coverage:coverage, heat:heat, freshness:freshness, competition:competition, suggestedLen:suggestedLen }
     });
   }
   return ideas;
@@ -641,9 +716,7 @@ function finishGenerate(allItems, feedCount) {
     document.getElementById('statArticles').textContent = unique.length;
     document.getElementById('statIdeas').textContent = ALL_IDEAS.length;
     document.getElementById('statTopics').textContent = clusters.length;
-    var srcSet = {};
-    unique.forEach(function(a){ if(a.source) srcSet[a.source]=true; });
-    document.getElementById('statSources').textContent = Object.keys(srcSet).length;
+    document.getElementById('statPosts').textContent = EXISTING_POSTS.length || '-';
 
     prog.classList.add('hidden');
     btn.disabled = false;
@@ -702,8 +775,14 @@ function renderIdeas(ideas) {
   }
 
   container.innerHTML = ideas.map(function(idea) {
-    var tags = idea.tags.map(function(t){ return '<span class="tag '+idea.tagClass+'">'+esc(t)+'</span>'; }).join('') +
-               '<span class="tag tag-format">'+esc(idea.type)+'</span>';
+    var s = idea.signals;
+    var signals = '<div class="idea-signals">' +
+      '<div class="signal"><span class="signal-label">Coverage</span> <span class="signal-val '+s.coverage.cls+'">'+esc(s.coverage.label)+'</span></div>' +
+      '<div class="signal"><span class="signal-label">Heat</span> <span class="signal-val '+s.heat.cls+'">'+s.heat.icon+' '+esc(s.heat.label)+'</span></div>' +
+      '<div class="signal"><span class="signal-label">Freshness</span> <span class="signal-val '+s.freshness.cls+'">'+esc(s.freshness.label)+'</span></div>' +
+      '<div class="signal"><span class="signal-label">Competition</span> <span class="signal-val '+s.competition.cls+'">'+esc(s.competition.label)+'</span></div>' +
+      '<div class="signal"><span class="signal-label">Word Target</span> <span class="signal-val length">'+s.suggestedLen+'</span></div>' +
+    '</div>';
     var sources = idea.headlines.map(function(h) {
       return '&#8226; <a href="'+esc(h.link)+'" target="_blank">'+esc(h.title)+'</a>'+(h.source ? ' <span style="color:var(--faint)">('+esc(h.source)+')</span>' : '');
     }).join('<br>');
@@ -717,7 +796,7 @@ function renderIdeas(ideas) {
       '<div class="idea-title">'+esc(idea.title)+'</div>'+
       '<div class="idea-audience"><span>Target:</span> '+esc(idea.audience)+'</div>'+
       '<div class="idea-desc">'+esc(idea.desc)+'</div>'+
-      '<div class="idea-tags">'+tags+'</div>'+
+      signals+
       '<div class="idea-sources">Inspired by:<br>'+sources+'</div>'+
       '<div class="idea-actions">'+
         '<button class="idea-btn" onclick="copyTitle(this,'+idea.number+')">Copy Title</button>'+
@@ -738,7 +817,8 @@ function copyTitle(btn, num) {
 function copyAll(btn, num) {
   var idea = ALL_IDEAS.find(function(i){ return i.number === num; });
   if (!idea) return;
-  var text = 'Title: '+idea.title+'\nFormat: '+idea.type+'\nTarget Audience: '+idea.audience+'\nBrief: '+idea.desc+'\nKeywords: '+idea.tags.join(', ')+'\nSource Headlines:\n'+idea.headlines.map(function(h){ return '- '+h.title; }).join('\n');
+  var s = idea.signals;
+  var text = 'Title: '+idea.title+'\nFormat: '+idea.type+'\nTarget Audience: '+idea.audience+'\nBrief: '+idea.desc+'\nKeywords: '+idea.tags.join(', ')+'\n\nSignals:\n- IC Coverage: '+s.coverage.label+'\n- Trending Heat: '+s.heat.label+' ('+idea.clusterSize+' headlines)\n- Freshness: '+s.freshness.label+'\n- Competition: '+s.competition.label+'\n- Suggested Length: '+s.suggestedLen+' words\n\nSource Headlines:\n'+idea.headlines.map(function(h){ return '- '+h.title; }).join('\n');
   navigator.clipboard.writeText(text);
   btn.textContent = 'Copied!'; btn.classList.add('copied');
   setTimeout(function(){ btn.textContent='Copy Full Brief'; btn.classList.remove('copied'); }, 1500);
