@@ -1,7 +1,7 @@
 ---
 layout: null
 sitemap: false
-permalink: /admin/posts-data.json
+permalink: /admin/posts/posts-data.json
 ---
 [{% for post in site.posts %}{
   "index": {{ forloop.index }},
