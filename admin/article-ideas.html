@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Article Ideas - Insight Crunch</title>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+html{font-size:14px;scroll-behavior:smooth}
+body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight:400;line-height:1.5;min-height:100vh}
+:root{
+  --bg:#0f0b08;--bg2:#1a1410;--bg3:#241c14;--bg4:#2e2418;
+  --ink:#e8dfd0;--mid:#a89878;--soft:#786850;--faint:#3e3428;
+  --amber:#d08020;--amber-dim:#805010;--amber-bg:rgba(208,128,32,.08);
+  --green:#48a848;--green-bg:rgba(72,168,72,.1);
+  --red:#d04040;--red-bg:rgba(208,64,64,.1);
+  --yellow:#c8a020;--yellow-bg:rgba(200,160,32,.1);
+  --blue:#4888d0;--blue-bg:rgba(72,136,208,.1);
+  --radius:6px;--radius-lg:10px;
+  --c-tech:#4888d0;--c-ai:#a06cd5;--c-swe:#38a088;--c-jobs:#d05060;
+  --c-start:#c87830;--c-cloud:#5ca0d8;--c-data:#8860c0;
+  --c-biz:#d0a030;--c-sci:#48b088;--c-world:#c06848;
+  --c-health:#58b068;--c-edu:#7090d0;
+}
+
+/* Topbar */
+.topbar{background:linear-gradient(135deg,#1a1208 0%,#0f0b08 100%);border-bottom:1px solid var(--faint);padding:14px 28px;display:flex;align-items:center;gap:16px;position:sticky;top:0;z-index:100}
+.topbar-logo{font-family:'Lora',serif;font-size:17px;color:#fff;font-weight:500}
+.topbar-logo em{font-style:italic;color:var(--amber)}
+.topbar-sep{width:1px;height:20px;background:var(--faint)}
+.topbar-title{font-size:13px;color:var(--mid);font-weight:500;letter-spacing:.3px;text-transform:uppercase}
+.topbar-right{margin-left:auto;display:flex;gap:10px;align-items:center}
+.topbar-btn{background:var(--bg3);border:1px solid var(--faint);color:var(--mid);padding:6px 14px;border-radius:var(--radius);font-size:12px;cursor:pointer;font-family:inherit;transition:all .15s;text-decoration:none}
+.topbar-btn:hover{background:var(--bg4);color:var(--ink);border-color:var(--soft)}
+.topbar-btn.primary{background:var(--amber-dim);border-color:var(--amber);color:#fff}
+.topbar-btn.primary:hover{background:var(--amber)}
+
+/* Main wrap */
+.main-wrap{max-width:1100px;margin:0 auto;padding:20px 24px 60px}
+
+/* Stats row */
+.stats-row{display:flex;gap:12px;margin-bottom:20px;flex-wrap:wrap}
+.stat-card{background:var(--bg2);border:1px solid var(--faint);border-radius:var(--radius-lg);padding:14px 18px;flex:1;min-width:120px}
+.stat-val{font-size:24px;font-weight:700;color:var(--ink);line-height:1.1}
+.stat-label{font-size:11px;color:var(--soft);text-transform:uppercase;letter-spacing:.5px;margin-top:4px}
+.stat-val.amber{color:var(--amber)}.stat-val.green{color:var(--green)}.stat-val.blue{color:var(--blue)}
+
+/* Section headers */
+.sec-label{font-size:11px;color:var(--soft);text-transform:uppercase;letter-spacing:.5px;font-weight:600;margin-bottom:8px}
+
+/* Category chips */
+.chip-row{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.chip{padding:6px 14px;border-radius:16px;border:1px solid var(--faint);background:var(--bg2);color:var(--mid);font-size:12px;cursor:pointer;transition:all .15s;user-select:none;font-family:inherit}
+.chip:hover{border-color:var(--soft);color:var(--ink)}
+.chip.on{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
+.chip .ct{font-size:10px;background:rgba(255,255,255,.06);padding:1px 6px;border-radius:8px;margin-left:4px}
+.chip.on .ct{background:rgba(208,128,32,.2)}
+
+/* Toolbar */
+.toolbar{display:flex;gap:10px;align-items:center;margin-bottom:16px;flex-wrap:wrap}
+.search-box{flex:1;min-width:220px;position:relative}
+.search-box input{width:100%;background:var(--bg2);border:1px solid var(--faint);color:var(--ink);padding:9px 12px 9px 34px;border-radius:var(--radius);font-size:13px;font-family:inherit;transition:border-color .15s}
+.search-box input:focus{outline:none;border-color:var(--amber)}
+.search-box input::placeholder{color:var(--soft)}
+.search-box svg{position:absolute;left:10px;top:50%;transform:translateY(-50%);width:16px;height:16px;stroke:var(--soft);fill:none;stroke-width:2}
+.filter-select{background:var(--bg2);border:1px solid var(--faint);color:var(--mid);padding:9px 12px;border-radius:var(--radius);font-size:12px;font-family:inherit;cursor:pointer;min-width:130px}
+.filter-select:focus{outline:none;border-color:var(--amber)}
+.filter-select option{background:var(--bg2);color:var(--ink)}
+
+/* Feed progress */
+.progress-bar{width:100%;height:4px;background:var(--faint);border-radius:2px;margin:10px 0;overflow:hidden}
+.progress-fill{height:100%;background:var(--amber);border-radius:2px;transition:width .3s}
+
+/* Loading */
+.loading-text{color:var(--soft);font-size:12px;margin:6px 0 16px}
+.spinner{display:inline-block;width:13px;height:13px;border:2px solid var(--faint);border-top-color:var(--amber);border-radius:50%;animation:spin .8s linear infinite;vertical-align:middle;margin-right:7px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Headlines strip */
+.hl-strip{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:20px}
+.hl-chip{background:var(--bg2);border:1px solid var(--faint);border-radius:var(--radius);padding:5px 10px;font-size:11px;color:var(--soft);max-width:320px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hl-chip a{color:var(--soft);text-decoration:none}
+.hl-chip a:hover{color:var(--amber)}
+
+/* Idea cards */
+.idea-card{background:var(--bg2);border:1px solid var(--faint);border-radius:var(--radius-lg);padding:18px 22px;margin-bottom:12px;transition:border-color .2s}
+.idea-card:hover{border-color:var(--amber)}
+.idea-top{display:flex;align-items:center;gap:10px;margin-bottom:6px}
+.idea-num{font-size:11px;font-weight:700;color:var(--amber);background:var(--amber-bg);padding:2px 10px;border-radius:10px;white-space:nowrap}
+.idea-type{font-size:10px;font-weight:600;color:var(--mid);text-transform:uppercase;letter-spacing:.4px;background:var(--bg3);padding:2px 10px;border-radius:10px}
+.idea-title{font-family:'Lora',serif;font-size:16px;font-weight:600;color:#fff;line-height:1.4;margin-bottom:8px}
+.idea-audience{font-size:11px;color:var(--green);margin-bottom:6px}
+.idea-audience span{font-weight:600}
+.idea-desc{font-size:12.5px;color:var(--mid);line-height:1.6;margin-bottom:10px}
+.idea-tags{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px}
+.tag{display:inline-block;padding:2px 9px;border-radius:10px;font-size:10px;font-weight:600;letter-spacing:.3px}
+.tag-cat{background:rgba(72,136,208,.12);color:var(--c-tech)}
+
+/* category-specific tag colors */
+.tag-ai{background:rgba(160,108,213,.12);color:var(--c-ai)}
+.tag-swe{background:rgba(56,160,136,.12);color:var(--c-swe)}
+.tag-jobs{background:rgba(208,80,96,.12);color:var(--c-jobs)}
+.tag-start{background:rgba(200,120,48,.12);color:var(--c-start)}
+.tag-cloud{background:rgba(92,160,216,.12);color:var(--c-cloud)}
+.tag-data{background:rgba(136,96,192,.12);color:var(--c-data)}
+.tag-biz{background:rgba(208,160,48,.12);color:var(--c-biz)}
+.tag-sci{background:rgba(72,176,136,.12);color:var(--c-sci)}
+.tag-world{background:rgba(192,104,72,.12);color:var(--c-world)}
+.tag-health{background:rgba(88,176,104,.12);color:var(--c-health)}
+.tag-edu{background:rgba(112,144,208,.12);color:var(--c-edu)}
+.tag-format{background:var(--amber-bg);color:var(--amber)}
+
+.idea-sources{font-size:11px;color:var(--soft);line-height:1.7;border-top:1px solid var(--faint);padding-top:8px;margin-top:4px}
+.idea-sources a{color:var(--soft);text-decoration:none}
+.idea-sources a:hover{color:var(--amber)}
+.idea-actions{display:flex;gap:8px;margin-top:10px}
+.idea-btn{background:var(--bg3);border:1px solid var(--faint);color:var(--mid);padding:5px 14px;border-radius:var(--radius);font-size:11px;cursor:pointer;font-family:inherit;transition:all .15s}
+.idea-btn:hover{border-color:var(--amber);color:var(--ink);background:var(--bg4)}
+.idea-btn.copied{color:var(--green);border-color:var(--green)}
+
+/* No results */
+.no-results{text-align:center;padding:50px 20px;color:var(--soft)}
+.no-results .nr-icon{font-size:36px;opacity:.4;margin-bottom:10px}
+.no-results .nr-msg{font-size:14px;color:var(--mid)}
+
+/* Footer */
+.footer{margin-top:30px;padding-top:14px;border-top:1px solid var(--faint);font-size:11px;color:var(--soft);line-height:1.7}
+.footer a{color:var(--soft);text-decoration:none}
+.footer a:hover{color:var(--amber)}
+
+@media(max-width:768px){
+  .main-wrap{padding:12px 10px 40px}.stats-row{gap:8px}.stat-card{min-width:90px;padding:10px 12px}
+  .stat-val{font-size:18px}.toolbar{flex-direction:column;align-items:stretch}
+  .topbar{padding:10px 14px;flex-wrap:wrap}.idea-title{font-size:14px}
+}
+.hidden{display:none!important}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-logo">Insight <em>Crunch</em></div>
+  <div class="topbar-sep"></div>
+  <div class="topbar-title">Article Ideas Generator</div>
+  <div class="topbar-right">
+    <button class="topbar-btn" id="exportBtn" onclick="exportIdeas()" disabled>Export CSV</button>
+    <button class="topbar-btn primary" id="fetchBtn" onclick="generate()">Fetch Ideas</button>
+  </div>
+</div>
+
+<div class="main-wrap">
+  <!-- Stats -->
+  <div class="stats-row" id="statsRow">
+    <div class="stat-card"><div class="stat-val amber" id="statFeeds">-</div><div class="stat-label">Feeds Scanned</div></div>
+    <div class="stat-card"><div class="stat-val" id="statArticles">-</div><div class="stat-label">Headlines Found</div></div>
+    <div class="stat-card"><div class="stat-val blue" id="statIdeas">-</div><div class="stat-label">Ideas Generated</div></div>
+    <div class="stat-card"><div class="stat-val green" id="statTopics">-</div><div class="stat-label">Topic Clusters</div></div>
+    <div class="stat-card"><div class="stat-val" id="statSources">-</div><div class="stat-label">Sources</div></div>
+  </div>
+
+  <!-- Category chips -->
+  <div class="sec-label">Select Topics (click to toggle)</div>
+  <div class="chip-row" id="chipRow"></div>
+
+  <!-- Toolbar -->
+  <div class="toolbar">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="searchInput" placeholder="Filter ideas by keyword, tag, topic..." autocomplete="off">
+    </div>
+    <select class="filter-select" id="formatFilter" onchange="applyFilters()">
+      <option value="">All Formats</option>
+      <option value="Industry Analysis">Industry Analysis</option>
+      <option value="Job Market Deep Dive">Job Market Deep Dive</option>
+      <option value="Actionable Guide">Actionable Guide</option>
+      <option value="Trend Listicle">Trend Listicle</option>
+      <option value="Opinion / Hot Take">Opinion / Hot Take</option>
+      <option value="Case Study Roundup">Case Study Roundup</option>
+      <option value="Explainer">Explainer</option>
+      <option value="Career Guide">Career Guide</option>
+      <option value="Comparison">Comparison</option>
+      <option value="Evergreen Guide">Evergreen Guide</option>
+    </select>
+    <select class="filter-select" id="sortSelect" onchange="applyFilters()">
+      <option value="cluster">By Cluster Size</option>
+      <option value="recent">Most Recent</option>
+      <option value="alpha">Alphabetical</option>
+    </select>
+  </div>
+
+  <!-- Progress -->
+  <div id="progressWrap" class="hidden">
+    <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+    <div class="loading-text" id="loadingText"><span class="spinner"></span> Initializing...</div>
+  </div>
+
+  <!-- Headlines strip -->
+  <div id="hlSection" class="hidden">
+    <div class="sec-label" id="hlLabel">Recent Headlines Scanned</div>
+    <div class="hl-strip" id="hlStrip"></div>
+  </div>
+
+  <!-- Ideas -->
+  <div id="ideasSection" class="hidden">
+    <div class="sec-label" id="ideasLabel">Article Ideas</div>
+    <div id="ideasContainer"></div>
+  </div>
+
+  <!-- Initial state -->
+  <div id="emptyState" style="text-align:center;padding:60px 20px">
+    <div style="font-size:36px;opacity:.3;margin-bottom:12px">&#9998;</div>
+    <div style="font-size:14px;color:var(--mid);margin-bottom:6px">Select your topics above and click <strong>Fetch Ideas</strong></div>
+    <div style="font-size:12px;color:var(--soft)">Scans live RSS headlines from 30+ feeds, clusters trending topics, and suggests SEO-friendly article ideas</div>
+  </div>
+
+  <div id="footerArea" class="hidden">
+    <div class="footer">
+      <strong style="color:var(--mid)">Insight Crunch - Article Ideas Generator</strong><br>
+      Headlines sourced from public RSS feeds including BBC, TechCrunch, The Verge, Ars Technica, VentureBeat, GitHub Blog, Stack Overflow, and others.<br>
+      Ideas are generated client-side using keyword clustering and editorial angle templates. No API key or account needed.<br>
+      For the best results, select 3-6 topics and run the generator. Refresh anytime for new ideas based on the latest headlines.
+    </div>
+  </div>
+</div>
+
+<script>
+// ─── TOPIC CONFIG ───
+const TOPICS = [
+  { id:'technology', label:'Technology',           color:'--c-tech',  tagClass:'tag-cat',   active:true },
+  { id:'business',   label:'Business',             color:'--c-biz',   tagClass:'tag-biz',   active:true },
+  { id:'science',    label:'Science',              color:'--c-sci',   tagClass:'tag-sci',   active:false },
+  { id:'world',      label:'World News',           color:'--c-world', tagClass:'tag-world', active:false },
+  { id:'health',     label:'Health',               color:'--c-health',tagClass:'tag-health',active:false },
+  { id:'education',  label:'Education',            color:'--c-edu',   tagClass:'tag-edu',   active:false },
+  { id:'ai',         label:'AI / ML',              color:'--c-ai',    tagClass:'tag-ai',    active:true },
+  { id:'swe',        label:'Software Engineering', color:'--c-swe',   tagClass:'tag-swe',   active:true },
+  { id:'jobs',       label:'Tech Job Market',      color:'--c-jobs',  tagClass:'tag-jobs',  active:true },
+  { id:'startups',   label:'Startups / Funding',   color:'--c-start', tagClass:'tag-start', active:false },
+  { id:'cloud',      label:'Cloud / DevOps',       color:'--c-cloud', tagClass:'tag-cloud', active:false },
+  { id:'data',       label:'Data Science / Analytics', color:'--c-data', tagClass:'tag-data', active:true }
+];
+
+// ─── RSS FEEDS PER TOPIC ───
+const FEEDS = {
+  technology: [
+    'https://feeds.arstechnica.com/arstechnica/index',
+    'https://www.theverge.com/rss/index.xml',
+    'https://techcrunch.com/feed/'
+  ],
+  business: [
+    'https://feeds.bbci.co.uk/news/business/rss.xml',
+    'https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147'
+  ],
+  science: [
+    'https://www.sciencedaily.com/rss/all.xml',
+    'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml'
+  ],
+  world: [
+    'https://feeds.bbci.co.uk/news/world/rss.xml',
+    'https://rss.nytimes.com/services/xml/rss/nyt/World.xml'
+  ],
+  health: [
+    'https://feeds.bbci.co.uk/news/health/rss.xml',
+    'https://www.sciencedaily.com/rss/health_medicine.xml'
+  ],
+  education: [
+    'https://feeds.bbci.co.uk/news/education/rss.xml'
+  ],
+  ai: [
+    'https://techcrunch.com/category/artificial-intelligence/feed/',
+    'https://feeds.arstechnica.com/arstechnica/technology-lab',
+    'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+    'https://venturebeat.com/category/ai/feed/',
+    'https://feeds.bbci.co.uk/news/technology/rss.xml'
+  ],
+  swe: [
+    'https://www.infoworld.com/feed/',
+    'https://stackoverflow.blog/feed/',
+    'https://github.blog/feed/',
+    'https://techcrunch.com/category/apps/feed/'
+  ],
+  jobs: [
+    'https://www.computerworld.com/feed/',
+    'https://techcrunch.com/category/enterprise/feed/',
+    'https://feeds.bbci.co.uk/news/business/rss.xml'
+  ],
+  startups: [
+    'https://techcrunch.com/category/startups/feed/',
+    'https://venturebeat.com/feed/'
+  ],
+  cloud: [
+    'https://www.infoworld.com/feed/'
+  ],
+  data: [
+    'https://www.sciencedaily.com/rss/computers_math.xml'
+  ]
+};
+
+const PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
+let ALL_IDEAS = [];
+let ALL_HEADLINES = [];
+
+// ─── RENDER TOPIC CHIPS ───
+function renderChips() {
+  document.getElementById('chipRow').innerHTML = TOPICS.map(t =>
+    `<span class="chip${t.active?' on':''}" data-id="${t.id}" onclick="toggleChip(this)">${t.label}</span>`
+  ).join('');
+}
+renderChips();
+
+function toggleChip(el) {
+  el.classList.toggle('on');
+  const t = TOPICS.find(x => x.id === el.dataset.id);
+  if (t) t.active = !t.active;
+}
+
+// ─── STOPWORDS + NLP ───
+const STOP = new Set('the a an is are was were be been being have has had do does did will would could should may might shall can need to of in for on with at by from as into through during before after above below between out off over under again further then once here there when where why how all each every both few more most other some such no nor not only own same so than too very just about up its it this that these those me my we our you your he him his she her they them their what which who whom new says said also but and or if while because until since get got like make many us via among per one two first last still now back even well way use used using take come year years much being going want think know time people world really work just into been next best good right look help tell day things'.split(' '));
+
+function keywords(text) {
+  return text.toLowerCase().replace(/[^a-z0-9\s]/g,' ').split(/\s+/).filter(w => w.length > 3 && !STOP.has(w));
+}
+
+const COMPOUNDS = {
+  'artificial,intelligence':'Artificial Intelligence','machine,learning':'Machine Learning',
+  'deep,learning':'Deep Learning','large,language':'Large Language Models',
+  'open,source':'Open Source','generative,ai':'Generative AI',
+  'tech,layoffs':'Tech Layoffs','software,engineering':'Software Engineering',
+  'remote,work':'Remote Work','return,office':'Return to Office',
+  'cloud,computing':'Cloud Computing','data,science':'Data Science',
+  'cyber,security':'Cybersecurity','climate,change':'Climate Change',
+  'quantum,computing':'Quantum Computing','electric,vehicles':'Electric Vehicles',
+  'venture,capital':'Venture Capital','supply,chain':'Supply Chain',
+  'mental,health':'Mental Health','natural,language':'Natural Language Processing'
+};
+
+function smartTopic(words) {
+  const joined = words.join(' ');
+  for (const [k,v] of Object.entries(COMPOUNDS)) {
+    if (k.split(',').every(p => joined.includes(p))) return v;
+  }
+  return words.slice(0,3).map(w => w.charAt(0).toUpperCase()+w.slice(1)).join(' ');
+}
+
+// ─── ANGLES ───
+const ANGLES = [
+  { tpl:"What {topic} Means for Professionals and Teams in 2026", type:"Industry Analysis",
+    audience:"Tech leads, engineering managers, data professionals",
+    desc:"Break down the real-world impact of {topic} on technical teams. Cover what is shifting, which skills matter, and what organizations should prioritize." },
+  { tpl:"How {topic} Is Reshaping the Tech Job Market Right Now", type:"Job Market Deep Dive",
+    audience:"Job seekers, hiring managers, career switchers",
+    desc:"Analyze how {topic} is affecting hiring trends, in-demand skills, salary benchmarks, and interview expectations across the technology sector." },
+  { tpl:"{topic}: A Practical Guide for Professionals Who Want to Stay Ahead", type:"Actionable Guide",
+    audience:"Software engineers, data scientists, full-stack developers",
+    desc:"Hands-on walkthrough of {topic} with tool recommendations, workflow tips, and a learning roadmap for practitioners looking to upskill." },
+  { tpl:"5 Ways {topic} Will Impact Tech Teams Before Year End", type:"Trend Listicle",
+    audience:"CTOs, engineering managers, startup founders",
+    desc:"Concise, shareable listicle covering near-term effects of {topic} on team structure, tooling, workflows, and hiring." },
+  { tpl:"The Real Story Behind {topic}: Hype vs. Reality", type:"Opinion / Hot Take",
+    audience:"Tech enthusiasts, LinkedIn audience, newsletter subscribers",
+    desc:"A balanced, evidence-based take on {topic} that separates marketing hype from genuine breakthroughs. Ideal for engagement." },
+  { tpl:"From {topic} to Production: What Teams Are Actually Doing", type:"Case Study Roundup",
+    audience:"DevOps engineers, platform teams, solution architects",
+    desc:"Real adoption stories around {topic} with implementation challenges, architecture decisions, and measurable outcomes." },
+  { tpl:"{topic} Explained: What Decision-Makers Need to Know", type:"Explainer",
+    audience:"Product managers, executives, non-technical stakeholders",
+    desc:"Clear, jargon-free explainer on {topic} designed for people who need to understand the technology without writing the code." },
+  { tpl:"Career Pivot: Breaking Into {topic} in 2026", type:"Career Guide",
+    audience:"Career changers, bootcamp graduates, upskilling professionals",
+    desc:"Step-by-step career transition guide with skills, certifications, portfolio projects, and realistic timelines for entering {topic}." },
+  { tpl:"{topic} vs. the Old Way: A Side-by-Side Comparison", type:"Comparison",
+    audience:"Technical evaluators, architects, engineering leads",
+    desc:"Structured comparison of {topic} against established alternatives. Cover performance, cost, ecosystem maturity, and real trade-offs." },
+  { tpl:"The Complete Beginner's Guide to {topic}", type:"Evergreen Guide",
+    audience:"Students, early-career professionals, curious generalists",
+    desc:"Foundational guide covering the what, why, and how of {topic}. Designed for long-term SEO value with an accessible entry point." }
+];
+
+// ─── FETCH ───
+async function fetchFeed(url) {
+  try {
+    const r = await fetch(PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(7000) });
+    const d = await r.json();
+    if (d.status === 'ok') return d.items.slice(0,10).map(item => ({
+      title: item.title?.replace(/<[^>]*>/g,'').trim() || '',
+      desc: (item.description||'').replace(/<[^>]*>/g,'').substring(0,300).trim(),
+      link: item.link || '',
+      date: item.pubDate || '',
+      source: d.feed?.title || ''
+    })).filter(i => i.title.length > 10);
+  } catch(e) {}
+  return [];
+}
+
+function clusterArticles(articles) {
+  const clusters = [];
+  const used = new Set();
+  for (let i = 0; i < articles.length; i++) {
+    if (used.has(i)) continue;
+    const kwI = new Set(keywords(articles[i].title + ' ' + articles[i].desc.substring(0,150)));
+    const cluster = [i]; used.add(i);
+    for (let j = i+1; j < articles.length; j++) {
+      if (used.has(j)) continue;
+      const kwJ = keywords(articles[j].title);
+      if (kwJ.filter(w => kwI.has(w)).length >= 2) { cluster.push(j); used.add(j); }
+    }
+    clusters.push({ indices: cluster, size: cluster.length });
+  }
+  clusters.sort((a,b) => b.size - a.size);
+  return clusters.slice(0, 12).map(c => c.indices.map(idx => articles[idx]));
+}
+
+function mapTopicToTag(topWords) {
+  const text = topWords.join(' ');
+  if (/\b(ai|artificial|intelligence|llm|gpt|model|neural|machine|learning|deep)\b/.test(text)) return 'tag-ai';
+  if (/\b(software|developer|code|programming|github|engineer|devops|api)\b/.test(text)) return 'tag-swe';
+  if (/\b(jobs|hiring|layoff|salary|career|recruit|workforce|employment)\b/.test(text)) return 'tag-jobs';
+  if (/\b(startup|funding|venture|seed|series|valuation|founder)\b/.test(text)) return 'tag-start';
+  if (/\b(cloud|aws|azure|kubernetes|docker|infrastructure|serverless)\b/.test(text)) return 'tag-cloud';
+  if (/\b(data|analytics|database|sql|warehouse|pipeline|spark)\b/.test(text)) return 'tag-data';
+  if (/\b(health|medical|clinical|patient|drug|disease|mental)\b/.test(text)) return 'tag-health';
+  if (/\b(climate|space|physics|research|study|biology|chemical)\b/.test(text)) return 'tag-sci';
+  if (/\b(economy|market|stock|trade|revenue|profit|finance|bank)\b/.test(text)) return 'tag-biz';
+  return 'tag-cat';
+}
+
+function generateIdeas(clusters) {
+  const ideas = [];
+  const usedAngles = new Set();
+  for (let i = 0; i < Math.min(clusters.length, 10); i++) {
+    const group = clusters[i];
+    const allText = group.map(a => a.title).join(' ');
+    const kw = keywords(allText);
+    const freq = {};
+    kw.forEach(w => freq[w]=(freq[w]||0)+1);
+    const topWords = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,5).map(e=>e[0]);
+    const topic = smartTopic(topWords);
+    let angle;
+    for (const a of ANGLES) { if (!usedAngles.has(a.type)) { angle=a; usedAngles.add(a.type); break; } }
+    if (!angle) angle = ANGLES[i % ANGLES.length];
+    const tagClass = mapTopicToTag(topWords);
+    ideas.push({
+      number: i+1, title: angle.tpl.replace(/\{topic\}/g, topic),
+      type: angle.type, audience: angle.audience,
+      desc: angle.desc.replace(/\{topic\}/g, topic),
+      headlines: group.slice(0,4).map(a => ({ title:a.title, link:a.link, source:a.source })),
+      tags: topWords.slice(0,4), tagClass, clusterSize: group.length, topic
+    });
+  }
+  return ideas;
+}
+
+// ─── MAIN GENERATE ───
+async function generate() {
+  const active = TOPICS.filter(t => t.active);
+  if (!active.length) { alert('Select at least one topic.'); return; }
+
+  const btn = document.getElementById('fetchBtn');
+  const prog = document.getElementById('progressWrap');
+  const fill = document.getElementById('progressFill');
+  const loadTxt = document.getElementById('loadingText');
+
+  btn.disabled = true;
+  document.getElementById('emptyState').classList.add('hidden');
+  prog.classList.remove('hidden');
+  document.getElementById('hlSection').classList.add('hidden');
+  document.getElementById('ideasSection').classList.add('hidden');
+  document.getElementById('footerArea').classList.add('hidden');
+
+  let urls = [];
+  active.forEach(t => { if(FEEDS[t.id]) urls.push(...FEEDS[t.id]); });
+  urls = [...new Set(urls)];
+
+  const allItems = [];
+  const batch = 4;
+  let done = 0;
+
+  for (let i = 0; i < urls.length; i += batch) {
+    const b = urls.slice(i, i+batch);
+    const res = await Promise.all(b.map(u => fetchFeed(u)));
+    res.forEach(items => allItems.push(...items));
+    done += b.length;
+    const pct = Math.round((done/urls.length)*100);
+    fill.style.width = pct+'%';
+    loadTxt.innerHTML = `<span class="spinner"></span> Fetched ${done}/${urls.length} feeds (${allItems.length} articles)...`;
+  }
+
+  if (allItems.length < 3) {
+    loadTxt.innerHTML = '<span style="color:var(--red)">Could not fetch enough headlines. Try selecting more topics or check connection.</span>';
+    btn.disabled = false; return;
+  }
+
+  loadTxt.innerHTML = `<span class="spinner"></span> Clustering ${allItems.length} headlines...`;
+  await new Promise(r => setTimeout(r, 200));
+
+  // Dedupe
+  const seen = new Set();
+  const unique = allItems.filter(a => {
+    const k = a.title.toLowerCase().substring(0,60);
+    if(seen.has(k)) return false; seen.add(k); return true;
+  });
+
+  ALL_HEADLINES = unique;
+  const clusters = clusterArticles(unique);
+  ALL_IDEAS = generateIdeas(clusters);
+
+  // Stats
+  document.getElementById('statFeeds').textContent = urls.length;
+  document.getElementById('statArticles').textContent = unique.length;
+  document.getElementById('statIdeas').textContent = ALL_IDEAS.length;
+  document.getElementById('statTopics').textContent = clusters.length;
+  document.getElementById('statSources').textContent = new Set(unique.map(a=>a.source)).size;
+
+  prog.classList.add('hidden');
+  document.getElementById('exportBtn').disabled = false;
+  btn.disabled = false;
+
+  // Show headlines
+  const hlSection = document.getElementById('hlSection');
+  const hlStrip = document.getElementById('hlStrip');
+  hlSection.classList.remove('hidden');
+  document.getElementById('hlLabel').textContent = `Recent Headlines Scanned (${unique.length} unique)`;
+  hlStrip.innerHTML = unique.slice(0,16).map(a =>
+    `<div class="hl-chip"><a href="${esc(a.link)}" target="_blank" title="${esc(a.title)}">${esc(a.title)}</a></div>`
+  ).join('');
+
+  applyFilters();
+  document.getElementById('footerArea').classList.remove('hidden');
+}
+
+// ─── FILTERS ───
+document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 200));
+function debounce(fn, ms) { let t; return function() { clearTimeout(t); t=setTimeout(fn,ms); }; }
+
+function applyFilters() {
+  const query = document.getElementById('searchInput').value.toLowerCase().trim();
+  const format = document.getElementById('formatFilter').value;
+  const sort = document.getElementById('sortSelect').value;
+
+  let filtered = [...ALL_IDEAS];
+
+  if (format) filtered = filtered.filter(i => i.type === format);
+  if (query) {
+    const terms = query.split(/\s+/);
+    filtered = filtered.filter(i => {
+      const text = (i.title+' '+i.desc+' '+i.tags.join(' ')+' '+i.type+' '+i.topic).toLowerCase();
+      return terms.every(t => text.includes(t));
+    });
+  }
+
+  if (sort === 'alpha') filtered.sort((a,b) => a.title.localeCompare(b.title));
+  else if (sort === 'recent') { /* keep original order based on headline recency */ }
+  // default: cluster size, already sorted
+
+  renderIdeas(filtered);
+}
+
+function renderIdeas(ideas) {
+  const section = document.getElementById('ideasSection');
+  const container = document.getElementById('ideasContainer');
+  section.classList.remove('hidden');
+  document.getElementById('ideasLabel').textContent = `Article Ideas (${ideas.length})`;
+
+  if (!ideas.length) {
+    container.innerHTML = '<div class="no-results"><div class="nr-icon">&#128269;</div><div class="nr-msg">No ideas match your filters. Try broadening your search.</div></div>';
+    return;
+  }
+
+  container.innerHTML = ideas.map(idea => {
+    const tags = idea.tags.map(t => `<span class="tag ${idea.tagClass}">${esc(t)}</span>`).join('') +
+                 `<span class="tag tag-format">${esc(idea.type)}</span>`;
+    const sources = idea.headlines.map(h =>
+      `&#8226; <a href="${esc(h.link)}" target="_blank">${esc(h.title)}</a>${h.source ? ' <span style="color:var(--faint)">('+esc(h.source)+')</span>' : ''}`
+    ).join('<br>');
+
+    return `<div class="idea-card">
+      <div class="idea-top">
+        <span class="idea-num">IDEA #${idea.number}</span>
+        <span class="idea-type">${esc(idea.type)}</span>
+        <span style="margin-left:auto;font-size:10px;color:var(--soft)">${idea.clusterSize} headline${idea.clusterSize>1?'s':''} clustered</span>
+      </div>
+      <div class="idea-title">${esc(idea.title)}</div>
+      <div class="idea-audience"><span>Target:</span> ${esc(idea.audience)}</div>
+      <div class="idea-desc">${esc(idea.desc)}</div>
+      <div class="idea-tags">${tags}</div>
+      <div class="idea-sources">Inspired by:<br>${sources}</div>
+      <div class="idea-actions">
+        <button class="idea-btn" onclick="copyTitle(this,'${esc(idea.title.replace(/'/g,"\\'"))}')">Copy Title</button>
+        <button class="idea-btn" onclick="copyAll(this,${idea.number-1})">Copy Full Brief</button>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function copyTitle(btn, title) {
+  navigator.clipboard.writeText(title);
+  btn.textContent = 'Copied!'; btn.classList.add('copied');
+  setTimeout(() => { btn.textContent='Copy Title'; btn.classList.remove('copied'); }, 1500);
+}
+
+function copyAll(btn, idx) {
+  const idea = ALL_IDEAS[idx];
+  if (!idea) return;
+  const text = `Title: ${idea.title}\nFormat: ${idea.type}\nTarget Audience: ${idea.audience}\nBrief: ${idea.desc}\nKeywords: ${idea.tags.join(', ')}\nSource Headlines:\n${idea.headlines.map(h=>'- '+h.title).join('\n')}`;
+  navigator.clipboard.writeText(text);
+  btn.textContent = 'Copied!'; btn.classList.add('copied');
+  setTimeout(() => { btn.textContent='Copy Full Brief'; btn.classList.remove('copied'); }, 1500);
+}
+
+function exportIdeas() {
+  const rows = [['#','Title','Format','Target Audience','Brief','Keywords','Cluster Size','Source Headlines']];
+  ALL_IDEAS.forEach(i => {
+    rows.push([i.number, '"'+i.title.replace(/"/g,'""')+'"', i.type, '"'+i.audience+'"', '"'+i.desc.replace(/"/g,'""')+'"', '"'+i.tags.join(', ')+'"', i.clusterSize, '"'+i.headlines.map(h=>h.title).join(' | ')+'"']);
+  });
+  const csv = rows.map(r => r.join(',')).join('\n');
+  const blob = new Blob([csv],{type:'text/csv'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'insightcrunch-article-ideas-'+new Date().toISOString().slice(0,10)+'.csv';
+  a.click();
+}
+
+function esc(s) { if(!s) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+</script>
+</body>
+</html>
