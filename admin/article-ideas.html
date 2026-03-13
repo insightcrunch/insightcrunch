@@ -107,9 +107,14 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 
 /* Insight signals grid */
 .idea-signals{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
-.signal{display:flex;align-items:center;gap:5px;background:var(--bg);border:1px solid var(--faint);border-radius:var(--radius);padding:5px 10px;font-size:10.5px;line-height:1.3}
+.signal{display:flex;align-items:center;gap:5px;background:var(--bg);border:1px solid var(--faint);border-radius:var(--radius);padding:5px 10px;font-size:10.5px;line-height:1.3;position:relative;cursor:default}
 .signal-label{color:var(--soft);font-weight:600;text-transform:uppercase;font-size:9px;letter-spacing:.3px}
 .signal-val{font-weight:600}
+/* Tooltip */
+.signal .signal-tip{display:none;position:absolute;bottom:calc(100% + 6px);left:50%;transform:translateX(-50%);background:#1a1410;border:1px solid var(--soft);border-radius:var(--radius);padding:8px 12px;font-size:11px;color:var(--ink);font-weight:400;line-height:1.45;white-space:normal;width:220px;z-index:50;box-shadow:0 4px 12px rgba(0,0,0,.4);pointer-events:none}
+.signal .signal-tip::after{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:var(--soft)}
+.signal:hover .signal-tip{display:block}
+.signal.tip-open .signal-tip{display:block}
 .signal-val.gap{color:var(--green)}
 .signal-val.related{color:var(--blue)}
 .signal-val.covered{color:var(--yellow)}
@@ -197,6 +202,7 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   .idea-signals{gap:4px;margin-bottom:6px}
   .signal{padding:4px 8px;font-size:9.5px}
   .signal-label{font-size:8px}
+  .signal .signal-tip{width:200px;font-size:10px;padding:6px 10px;left:0;transform:none}
   .idea-sources{font-size:10px;line-height:1.45;padding-top:6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
   .idea-actions{gap:6px;margin-top:8px}
   .idea-btn{padding:5px 12px;font-size:10px}
@@ -234,8 +240,8 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
     <div class="stat-card"><div class="stat-val amber" id="statFeeds">-</div><div class="stat-label">Feeds</div></div>
     <div class="stat-card"><div class="stat-val" id="statArticles">-</div><div class="stat-label">Headlines</div></div>
     <div class="stat-card"><div class="stat-val blue" id="statIdeas">-</div><div class="stat-label">Ideas</div></div>
-    <div class="stat-card"><div class="stat-val green" id="statTopics">-</div><div class="stat-label">Topics</div></div>
-    <div class="stat-card"><div class="stat-val" id="statPosts">-</div><div class="stat-label">Posts Indexed</div></div>
+    <div class="stat-card"><div class="stat-val green" id="statTopics">-</div><div class="stat-label">Clusters</div></div>
+    <div class="stat-card"><div class="stat-val" id="statPosts">-</div><div class="stat-label">Posts</div></div>
   </div>
 
   <!-- Category chips -->
@@ -776,12 +782,27 @@ function renderIdeas(ideas) {
 
   container.innerHTML = ideas.map(function(idea) {
     var s = idea.signals;
+    // Build tooltip texts
+    var covTip, heatTip, freshTip, compTip, lenTip;
+    if (s.coverage.type==='gap') covTip='No existing InsightCrunch posts match this topic. Great opportunity to be first.';
+    else if (s.coverage.type==='related') covTip=s.coverage.count+' existing post'+(s.coverage.count>1?'s':'')+' touch on this topic. You can expand coverage or offer a fresh angle.';
+    else if (s.coverage.type==='covered') covTip=s.coverage.count+' posts already cover this area. Consider updating an existing post instead of writing new.';
+    else covTip='Post data not loaded yet. Reload to see coverage analysis.';
+    heatTip='Based on '+idea.clusterSize+' headline'+(idea.clusterSize>1?'s':'')+' clustered around this topic. More headlines = more buzz right now.';
+    if (s.freshness.cls==='fresh') freshTip='Source headlines were published in the last 1-3 days. This topic is breaking now.';
+    else if (s.freshness.cls==='recent') freshTip='Headlines are from the past week. Still timely to write about.';
+    else freshTip='Source headlines are over a week old. The news cycle may have moved on.';
+    if (s.competition.note==='High') compTip=s.competition.label+' covering this story. Validated demand but harder to rank. Find a unique angle.';
+    else if (s.competition.note==='Medium') compTip=s.competition.label+' on this topic. Good balance of interest and opportunity.';
+    else compTip='Only '+s.competition.label+' reporting on this. Low competition, niche opportunity.';
+    lenTip='Recommended word count for the '+idea.type+' format. Longer formats rank better for competitive keywords.';
+
     var signals = '<div class="idea-signals">' +
-      '<div class="signal"><span class="signal-label">Coverage</span> <span class="signal-val '+s.coverage.cls+'">'+esc(s.coverage.label)+'</span></div>' +
-      '<div class="signal"><span class="signal-label">Heat</span> <span class="signal-val '+s.heat.cls+'">'+s.heat.icon+' '+esc(s.heat.label)+'</span></div>' +
-      '<div class="signal"><span class="signal-label">Freshness</span> <span class="signal-val '+s.freshness.cls+'">'+esc(s.freshness.label)+'</span></div>' +
-      '<div class="signal"><span class="signal-label">Competition</span> <span class="signal-val '+s.competition.cls+'">'+esc(s.competition.label)+'</span></div>' +
-      '<div class="signal"><span class="signal-label">Word Target</span> <span class="signal-val length">'+s.suggestedLen+'</span></div>' +
+      '<div class="signal" onclick="tapTip(this)"><span class="signal-label">Coverage</span> <span class="signal-val '+s.coverage.cls+'">'+esc(s.coverage.label)+'</span><div class="signal-tip">'+esc(covTip)+'</div></div>' +
+      '<div class="signal" onclick="tapTip(this)"><span class="signal-label">Heat</span> <span class="signal-val '+s.heat.cls+'">'+s.heat.icon+' '+esc(s.heat.label)+'</span><div class="signal-tip">'+esc(heatTip)+'</div></div>' +
+      '<div class="signal" onclick="tapTip(this)"><span class="signal-label">Freshness</span> <span class="signal-val '+s.freshness.cls+'">'+esc(s.freshness.label)+'</span><div class="signal-tip">'+esc(freshTip)+'</div></div>' +
+      '<div class="signal" onclick="tapTip(this)"><span class="signal-label">Competition</span> <span class="signal-val '+s.competition.cls+'">'+esc(s.competition.label)+'</span><div class="signal-tip">'+esc(compTip)+'</div></div>' +
+      '<div class="signal" onclick="tapTip(this)"><span class="signal-label">Words</span> <span class="signal-val length">'+s.suggestedLen+'</span><div class="signal-tip">'+esc(lenTip)+'</div></div>' +
     '</div>';
     var sources = idea.headlines.map(function(h) {
       return '&#8226; <a href="'+esc(h.link)+'" target="_blank">'+esc(h.title)+'</a>'+(h.source ? ' <span style="color:var(--faint)">('+esc(h.source)+')</span>' : '');
@@ -825,6 +846,20 @@ function copyAll(btn, num) {
 }
 
 function esc(s) { if(!s) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function tapTip(el) {
+  var wasOpen = el.classList.contains('tip-open');
+  // Close all open tips
+  document.querySelectorAll('.signal.tip-open').forEach(function(s){ s.classList.remove('tip-open'); });
+  // Toggle this one
+  if (!wasOpen) el.classList.add('tip-open');
+}
+// Close tips when tapping outside
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.signal')) {
+    document.querySelectorAll('.signal.tip-open').forEach(function(s){ s.classList.remove('tip-open'); });
+  }
+});
 
 function toggleHeadlines() {
   var strip = document.getElementById('hlStrip');
