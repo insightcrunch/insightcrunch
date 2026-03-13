@@ -134,43 +134,74 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 .footer a{color:var(--soft);text-decoration:none}
 .footer a:hover{color:var(--amber)}
 
-/* ─── MOBILE COMPACT ─── */
+/* Desktop: hide mobile-only elements */
+.hl-toggle{display:none}
+
+/* ─── MOBILE ─── */
 @media(max-width:768px){
-  .main-wrap{padding:12px 10px 40px}
-  .stats-row{gap:6px}
-  .stat-card{min-width:0;flex:1 1 calc(33.33% - 4px);padding:8px 10px}
-  .stat-val{font-size:16px}
-  .stat-label{font-size:9px;letter-spacing:.3px}
-  .topbar{padding:10px 14px;flex-wrap:wrap;gap:10px}
-  .topbar-title{font-size:11px}
-  .toolbar{flex-direction:column;align-items:stretch;gap:8px}
-  .filter-select{min-width:0;font-size:11px;padding:8px 10px}
-  .chip-row{gap:4px}
-  .chip{padding:4px 10px;font-size:10.5px}
-  .sec-label{font-size:10px}
-  .hl-strip{gap:4px;margin-bottom:14px}
-  .hl-chip{padding:3px 8px;font-size:10px;max-width:240px}
-  /* Compact idea cards on mobile */
+  /* Topbar: single row, hide secondary nav */
+  .topbar{padding:10px 14px;gap:10px}
+  .topbar-sep,.topbar-title{display:none}
+  .topbar-logo{font-size:15px}
+  .topbar-right{gap:6px}
+  .topbar-btn{padding:5px 10px;font-size:11px}
+  .topbar-btn.secondary{display:none}
+
+  /* Layout */
+  .main-wrap{padding:14px 12px 40px}
+
+  /* Stats: horizontal scroll strip, no wrapping */
+  .stats-row{flex-wrap:nowrap;gap:0;margin-bottom:14px;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;border:1px solid var(--faint);border-radius:var(--radius-lg)}
+  .stats-row::-webkit-scrollbar{display:none}
+  .stat-card{min-width:0;flex:1 0 auto;border:none;border-radius:0;border-right:1px solid var(--faint);padding:10px 14px;text-align:center}
+  .stat-card:last-child{border-right:none}
+  .stat-val{font-size:18px}
+  .stat-label{font-size:8.5px;letter-spacing:.3px}
+
+  /* Topics: scrollable row, not wrapping grid */
+  .sec-label{font-size:10px;margin-bottom:6px}
+  .chip-row{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;gap:5px;margin-bottom:12px;padding-bottom:2px}
+  .chip-row::-webkit-scrollbar{display:none}
+  .chip{padding:5px 12px;font-size:10.5px;white-space:nowrap;flex-shrink:0}
+
+  /* Toolbar: search + two selects side by side */
+  .toolbar{gap:8px;margin-bottom:12px}
+  .search-box{min-width:100%;order:-1}
+  .search-box input{padding:8px 10px 8px 32px;font-size:12px}
+  .filter-select{min-width:0;flex:1;font-size:11px;padding:7px 8px}
+
+  /* Headlines: collapsed by default, toggle to show */
+  .hl-strip{display:none}
+  .hl-strip.m-show{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:12px}
+  .hl-chip{padding:3px 8px;font-size:9.5px;max-width:220px}
+  .hl-toggle{display:inline-block;font-size:10px;color:var(--amber);background:none;border:none;cursor:pointer;font-family:inherit;padding:0;margin-bottom:10px}
+  .hl-toggle:hover{text-decoration:underline}
+
+  /* Idea cards: tight */
   .idea-card{padding:12px 14px;margin-bottom:8px;border-radius:var(--radius)}
   .idea-top{gap:6px;margin-bottom:4px}
-  .idea-num{font-size:10px;padding:1px 8px}
-  .idea-type{font-size:9px;padding:1px 8px}
-  .idea-cluster{font-size:9px}
-  .idea-title{font-size:13px;margin-bottom:5px;line-height:1.35}
+  .idea-num{font-size:10px;padding:2px 8px}
+  .idea-type{font-size:9px;padding:2px 8px}
+  .idea-cluster{display:none}
+  .idea-title{font-size:14px;margin-bottom:5px;line-height:1.35}
   .idea-audience{font-size:10px;margin-bottom:4px}
-  .idea-desc{font-size:11px;line-height:1.5;margin-bottom:6px}
+  .idea-desc{font-size:11px;line-height:1.45;margin-bottom:6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
   .idea-tags{gap:3px;margin-bottom:6px}
-  .tag{font-size:9px;padding:1px 7px}
-  .idea-sources{font-size:10px;line-height:1.5;padding-top:6px}
+  .tag{font-size:9px;padding:2px 7px}
+  .idea-sources{font-size:10px;line-height:1.45;padding-top:6px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
   .idea-actions{gap:6px;margin-top:8px}
-  .idea-btn{padding:4px 10px;font-size:10px}
+  .idea-btn{padding:5px 12px;font-size:10px}
   .footer{font-size:10px}
+  .progress-bar{margin:8px 0}
+  .loading-text{font-size:11px;margin:4px 0 12px}
 }
+/* Very small screens */
 @media(max-width:420px){
-  .stat-card{flex:1 1 calc(50% - 3px)}
-  .idea-title{font-size:12.5px}
-  .idea-desc{font-size:10.5px;-webkit-line-clamp:3;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
-  .idea-sources{-webkit-line-clamp:4;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+  .topbar-logo{font-size:14px}
+  .stat-val{font-size:16px}
+  .stat-card{padding:8px 10px}
+  .idea-title{font-size:13px}
+  .idea-desc{-webkit-line-clamp:2}
 }
 .hidden{display:none!important}
 </style>
@@ -183,8 +214,8 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   <div class="topbar-title">Article Ideas</div>
   <div class="topbar-right">
     <button class="topbar-btn primary" id="fetchBtn" onclick="generate()">Refresh Ideas</button>
-    <a href="/admin/posts/" class="topbar-btn">Posts Dashboard</a>
-    <a href="/" class="topbar-btn">View Site</a>
+    <a href="/admin/posts/" class="topbar-btn secondary">Posts Dashboard</a>
+    <a href="/" class="topbar-btn secondary">View Site</a>
   </div>
 </div>
 
@@ -237,6 +268,7 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   <!-- Headlines strip -->
   <div id="hlSection" class="hidden">
     <div class="sec-label" id="hlLabel">Recent Headlines Scanned</div>
+    <button class="hl-toggle" id="hlToggle" onclick="toggleHeadlines()">Show scanned headlines &#9662;</button>
     <div class="hl-strip" id="hlStrip"></div>
   </div>
 
@@ -683,6 +715,17 @@ function copyAll(btn, num) {
 }
 
 function esc(s) { if(!s) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+function toggleHeadlines() {
+  var strip = document.getElementById('hlStrip');
+  var btn = document.getElementById('hlToggle');
+  strip.classList.toggle('m-show');
+  if (strip.classList.contains('m-show')) {
+    btn.innerHTML = 'Hide headlines &#9652;';
+  } else {
+    btn.innerHTML = 'Show scanned headlines &#9662;';
+  }
+}
 
 // ─── AUTO-FETCH ON LOAD ───
 window.addEventListener('DOMContentLoaded', function() {
