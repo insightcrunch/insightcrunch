@@ -1,9 +1,15 @@
+---
+layout: null
+sitemap: false
+title: "Admin - Article Ideas"
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Article Ideas - Insight Crunch</title>
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<title>Article Ideas - Insight Crunch Admin</title>
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
@@ -89,6 +95,7 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 .idea-top{display:flex;align-items:center;gap:10px;margin-bottom:6px}
 .idea-num{font-size:11px;font-weight:700;color:var(--amber);background:var(--amber-bg);padding:2px 10px;border-radius:10px;white-space:nowrap}
 .idea-type{font-size:10px;font-weight:600;color:var(--mid);text-transform:uppercase;letter-spacing:.4px;background:var(--bg3);padding:2px 10px;border-radius:10px}
+.idea-cluster{margin-left:auto;font-size:10px;color:var(--soft)}
 .idea-title{font-family:'Lora',serif;font-size:16px;font-weight:600;color:#fff;line-height:1.4;margin-bottom:8px}
 .idea-audience{font-size:11px;color:var(--green);margin-bottom:6px}
 .idea-audience span{font-weight:600}
@@ -96,8 +103,6 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 .idea-tags{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px}
 .tag{display:inline-block;padding:2px 9px;border-radius:10px;font-size:10px;font-weight:600;letter-spacing:.3px}
 .tag-cat{background:rgba(72,136,208,.12);color:var(--c-tech)}
-
-/* category-specific tag colors */
 .tag-ai{background:rgba(160,108,213,.12);color:var(--c-ai)}
 .tag-swe{background:rgba(56,160,136,.12);color:var(--c-swe)}
 .tag-jobs{background:rgba(208,80,96,.12);color:var(--c-jobs)}
@@ -129,10 +134,43 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 .footer a{color:var(--soft);text-decoration:none}
 .footer a:hover{color:var(--amber)}
 
+/* ─── MOBILE COMPACT ─── */
 @media(max-width:768px){
-  .main-wrap{padding:12px 10px 40px}.stats-row{gap:8px}.stat-card{min-width:90px;padding:10px 12px}
-  .stat-val{font-size:18px}.toolbar{flex-direction:column;align-items:stretch}
-  .topbar{padding:10px 14px;flex-wrap:wrap}.idea-title{font-size:14px}
+  .main-wrap{padding:12px 10px 40px}
+  .stats-row{gap:6px}
+  .stat-card{min-width:0;flex:1 1 calc(33.33% - 4px);padding:8px 10px}
+  .stat-val{font-size:16px}
+  .stat-label{font-size:9px;letter-spacing:.3px}
+  .topbar{padding:10px 14px;flex-wrap:wrap;gap:10px}
+  .topbar-title{font-size:11px}
+  .toolbar{flex-direction:column;align-items:stretch;gap:8px}
+  .filter-select{min-width:0;font-size:11px;padding:8px 10px}
+  .chip-row{gap:4px}
+  .chip{padding:4px 10px;font-size:10.5px}
+  .sec-label{font-size:10px}
+  .hl-strip{gap:4px;margin-bottom:14px}
+  .hl-chip{padding:3px 8px;font-size:10px;max-width:240px}
+  /* Compact idea cards on mobile */
+  .idea-card{padding:12px 14px;margin-bottom:8px;border-radius:var(--radius)}
+  .idea-top{gap:6px;margin-bottom:4px}
+  .idea-num{font-size:10px;padding:1px 8px}
+  .idea-type{font-size:9px;padding:1px 8px}
+  .idea-cluster{font-size:9px}
+  .idea-title{font-size:13px;margin-bottom:5px;line-height:1.35}
+  .idea-audience{font-size:10px;margin-bottom:4px}
+  .idea-desc{font-size:11px;line-height:1.5;margin-bottom:6px}
+  .idea-tags{gap:3px;margin-bottom:6px}
+  .tag{font-size:9px;padding:1px 7px}
+  .idea-sources{font-size:10px;line-height:1.5;padding-top:6px}
+  .idea-actions{gap:6px;margin-top:8px}
+  .idea-btn{padding:4px 10px;font-size:10px}
+  .footer{font-size:10px}
+}
+@media(max-width:420px){
+  .stat-card{flex:1 1 calc(50% - 3px)}
+  .idea-title{font-size:12.5px}
+  .idea-desc{font-size:10.5px;-webkit-line-clamp:3;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+  .idea-sources{-webkit-line-clamp:4;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
 }
 .hidden{display:none!important}
 </style>
@@ -142,10 +180,11 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 <div class="topbar">
   <div class="topbar-logo">Insight <em>Crunch</em></div>
   <div class="topbar-sep"></div>
-  <div class="topbar-title">Article Ideas Generator</div>
+  <div class="topbar-title">Article Ideas</div>
   <div class="topbar-right">
-    <button class="topbar-btn" id="exportBtn" onclick="exportIdeas()" disabled>Export CSV</button>
-    <button class="topbar-btn primary" id="fetchBtn" onclick="generate()">Fetch Ideas</button>
+    <button class="topbar-btn primary" id="fetchBtn" onclick="generate()">Refresh Ideas</button>
+    <a href="/admin/posts/" class="topbar-btn">Posts Dashboard</a>
+    <a href="/" class="topbar-btn">View Site</a>
   </div>
 </div>
 
@@ -160,7 +199,7 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   </div>
 
   <!-- Category chips -->
-  <div class="sec-label">Select Topics (click to toggle)</div>
+  <div class="sec-label">Topics (click to toggle, then Refresh)</div>
   <div class="chip-row" id="chipRow"></div>
 
   <!-- Toolbar -->
@@ -190,9 +229,9 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   </div>
 
   <!-- Progress -->
-  <div id="progressWrap" class="hidden">
+  <div id="progressWrap">
     <div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
-    <div class="loading-text" id="loadingText"><span class="spinner"></span> Initializing...</div>
+    <div class="loading-text" id="loadingText"><span class="spinner"></span> Scanning trending headlines...</div>
   </div>
 
   <!-- Headlines strip -->
@@ -207,42 +246,35 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
     <div id="ideasContainer"></div>
   </div>
 
-  <!-- Initial state -->
-  <div id="emptyState" style="text-align:center;padding:60px 20px">
-    <div style="font-size:36px;opacity:.3;margin-bottom:12px">&#9998;</div>
-    <div style="font-size:14px;color:var(--mid);margin-bottom:6px">Select your topics above and click <strong>Fetch Ideas</strong></div>
-    <div style="font-size:12px;color:var(--soft)">Scans live RSS headlines from 30+ feeds, clusters trending topics, and suggests SEO-friendly article ideas</div>
-  </div>
-
   <div id="footerArea" class="hidden">
     <div class="footer">
-      <strong style="color:var(--mid)">Insight Crunch - Article Ideas Generator</strong><br>
+      <strong style="color:var(--mid)">Insight Crunch - Article Ideas</strong><br>
       Headlines sourced from public RSS feeds including BBC, TechCrunch, The Verge, Ars Technica, VentureBeat, GitHub Blog, Stack Overflow, and others.<br>
-      Ideas are generated client-side using keyword clustering and editorial angle templates. No API key or account needed.<br>
-      For the best results, select 3-6 topics and run the generator. Refresh anytime for new ideas based on the latest headlines.
+      Ideas generated client-side using keyword clustering and editorial angle templates. No API key or account needed.<br>
+      Toggle topics above and click Refresh for a new set of ideas based on the latest headlines.
     </div>
   </div>
 </div>
 
 <script>
-// ─── TOPIC CONFIG ───
-const TOPICS = [
+// ─── TOPIC CONFIG ─── all active by default
+var TOPICS = [
   { id:'technology', label:'Technology',           color:'--c-tech',  tagClass:'tag-cat',   active:true },
   { id:'business',   label:'Business',             color:'--c-biz',   tagClass:'tag-biz',   active:true },
-  { id:'science',    label:'Science',              color:'--c-sci',   tagClass:'tag-sci',   active:false },
-  { id:'world',      label:'World News',           color:'--c-world', tagClass:'tag-world', active:false },
-  { id:'health',     label:'Health',               color:'--c-health',tagClass:'tag-health',active:false },
-  { id:'education',  label:'Education',            color:'--c-edu',   tagClass:'tag-edu',   active:false },
+  { id:'science',    label:'Science',              color:'--c-sci',   tagClass:'tag-sci',   active:true },
+  { id:'world',      label:'World News',           color:'--c-world', tagClass:'tag-world', active:true },
+  { id:'health',     label:'Health',               color:'--c-health',tagClass:'tag-health',active:true },
+  { id:'education',  label:'Education',            color:'--c-edu',   tagClass:'tag-edu',   active:true },
   { id:'ai',         label:'AI / ML',              color:'--c-ai',    tagClass:'tag-ai',    active:true },
   { id:'swe',        label:'Software Engineering', color:'--c-swe',   tagClass:'tag-swe',   active:true },
   { id:'jobs',       label:'Tech Job Market',      color:'--c-jobs',  tagClass:'tag-jobs',  active:true },
-  { id:'startups',   label:'Startups / Funding',   color:'--c-start', tagClass:'tag-start', active:false },
-  { id:'cloud',      label:'Cloud / DevOps',       color:'--c-cloud', tagClass:'tag-cloud', active:false },
+  { id:'startups',   label:'Startups / Funding',   color:'--c-start', tagClass:'tag-start', active:true },
+  { id:'cloud',      label:'Cloud / DevOps',       color:'--c-cloud', tagClass:'tag-cloud', active:true },
   { id:'data',       label:'Data Science / Analytics', color:'--c-data', tagClass:'tag-data', active:true }
 ];
 
 // ─── RSS FEEDS PER TOPIC ───
-const FEEDS = {
+var FEEDS = {
   technology: [
     'https://feeds.arstechnica.com/arstechnica/index',
     'https://www.theverge.com/rss/index.xml',
@@ -297,32 +329,34 @@ const FEEDS = {
   ]
 };
 
-const PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
-let ALL_IDEAS = [];
-let ALL_HEADLINES = [];
+var PROXY = 'https://api.rss2json.com/v1/api.json?rss_url=';
+var ALL_IDEAS = [];
+var ALL_HEADLINES = [];
 
 // ─── RENDER TOPIC CHIPS ───
 function renderChips() {
-  document.getElementById('chipRow').innerHTML = TOPICS.map(t =>
-    `<span class="chip${t.active?' on':''}" data-id="${t.id}" onclick="toggleChip(this)">${t.label}</span>`
-  ).join('');
+  document.getElementById('chipRow').innerHTML = TOPICS.map(function(t) {
+    return '<span class="chip'+(t.active?' on':'')+'" data-id="'+t.id+'" onclick="toggleChip(this)">'+t.label+'</span>';
+  }).join('');
 }
 renderChips();
 
 function toggleChip(el) {
   el.classList.toggle('on');
-  const t = TOPICS.find(x => x.id === el.dataset.id);
+  var t = TOPICS.find(function(x){ return x.id === el.dataset.id; });
   if (t) t.active = !t.active;
 }
 
 // ─── STOPWORDS + NLP ───
-const STOP = new Set('the a an is are was were be been being have has had do does did will would could should may might shall can need to of in for on with at by from as into through during before after above below between out off over under again further then once here there when where why how all each every both few more most other some such no nor not only own same so than too very just about up its it this that these those me my we our you your he him his she her they them their what which who whom new says said also but and or if while because until since get got like make many us via among per one two first last still now back even well way use used using take come year years much being going want think know time people world really work just into been next best good right look help tell day things'.split(' '));
+var STOP_WORDS = 'the a an is are was were be been being have has had do does did will would could should may might shall can need to of in for on with at by from as into through during before after above below between out off over under again further then once here there when where why how all each every both few more most other some such no nor not only own same so than too very just about up its it this that these those me my we our you your he him his she her they them their what which who whom new says said also but and or if while because until since get got like make many us via among per one two first last still now back even well way use used using take come year years much being going want think know time people world really work just into been next best good right look help tell day things'.split(' ');
+var STOP = {};
+STOP_WORDS.forEach(function(w){ STOP[w] = true; });
 
 function keywords(text) {
-  return text.toLowerCase().replace(/[^a-z0-9\s]/g,' ').split(/\s+/).filter(w => w.length > 3 && !STOP.has(w));
+  return text.toLowerCase().replace(/[^a-z0-9\s]/g,' ').split(/\s+/).filter(function(w){ return w.length > 3 && !STOP[w]; });
 }
 
-const COMPOUNDS = {
+var COMPOUNDS = {
   'artificial,intelligence':'Artificial Intelligence','machine,learning':'Machine Learning',
   'deep,learning':'Deep Learning','large,language':'Large Language Models',
   'open,source':'Open Source','generative,ai':'Generative AI',
@@ -336,15 +370,19 @@ const COMPOUNDS = {
 };
 
 function smartTopic(words) {
-  const joined = words.join(' ');
-  for (const [k,v] of Object.entries(COMPOUNDS)) {
-    if (k.split(',').every(p => joined.includes(p))) return v;
+  var joined = words.join(' ');
+  var keys = Object.keys(COMPOUNDS);
+  for (var i = 0; i < keys.length; i++) {
+    var parts = keys[i].split(',');
+    var allMatch = true;
+    for (var j = 0; j < parts.length; j++) { if (joined.indexOf(parts[j]) === -1) { allMatch = false; break; } }
+    if (allMatch) return COMPOUNDS[keys[i]];
   }
-  return words.slice(0,3).map(w => w.charAt(0).toUpperCase()+w.slice(1)).join(' ');
+  return words.slice(0,3).map(function(w){ return w.charAt(0).toUpperCase()+w.slice(1); }).join(' ');
 }
 
 // ─── ANGLES ───
-const ANGLES = [
+var ANGLES = [
   { tpl:"What {topic} Means for Professionals and Teams in 2026", type:"Industry Analysis",
     audience:"Tech leads, engineering managers, data professionals",
     desc:"Break down the real-world impact of {topic} on technical teams. Cover what is shifting, which skills matter, and what organizations should prioritize." },
@@ -378,41 +416,49 @@ const ANGLES = [
 ];
 
 // ─── FETCH ───
-async function fetchFeed(url) {
-  try {
-    const r = await fetch(PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(7000) });
-    const d = await r.json();
-    if (d.status === 'ok') return d.items.slice(0,10).map(item => ({
-      title: item.title?.replace(/<[^>]*>/g,'').trim() || '',
-      desc: (item.description||'').replace(/<[^>]*>/g,'').substring(0,300).trim(),
-      link: item.link || '',
-      date: item.pubDate || '',
-      source: d.feed?.title || ''
-    })).filter(i => i.title.length > 10);
-  } catch(e) {}
-  return [];
+function fetchFeed(url) {
+  return fetch(PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(7000) })
+    .then(function(r){ return r.json(); })
+    .then(function(d){
+      if (d.status === 'ok') {
+        return d.items.slice(0,10).map(function(item){
+          return {
+            title: (item.title||'').replace(/<[^>]*>/g,'').trim(),
+            desc: (item.description||'').replace(/<[^>]*>/g,'').substring(0,300).trim(),
+            link: item.link || '',
+            date: item.pubDate || '',
+            source: (d.feed && d.feed.title) ? d.feed.title : ''
+          };
+        }).filter(function(i){ return i.title.length > 10; });
+      }
+      return [];
+    })
+    .catch(function(){ return []; });
 }
 
 function clusterArticles(articles) {
-  const clusters = [];
-  const used = new Set();
-  for (let i = 0; i < articles.length; i++) {
-    if (used.has(i)) continue;
-    const kwI = new Set(keywords(articles[i].title + ' ' + articles[i].desc.substring(0,150)));
-    const cluster = [i]; used.add(i);
-    for (let j = i+1; j < articles.length; j++) {
-      if (used.has(j)) continue;
-      const kwJ = keywords(articles[j].title);
-      if (kwJ.filter(w => kwI.has(w)).length >= 2) { cluster.push(j); used.add(j); }
+  var clusters = [];
+  var used = {};
+  for (var i = 0; i < articles.length; i++) {
+    if (used[i]) continue;
+    var kwI = {};
+    keywords(articles[i].title + ' ' + articles[i].desc.substring(0,150)).forEach(function(w){ kwI[w]=true; });
+    var cluster = [i]; used[i] = true;
+    for (var j = i+1; j < articles.length; j++) {
+      if (used[j]) continue;
+      var kwJ = keywords(articles[j].title);
+      var overlap = 0;
+      for (var k = 0; k < kwJ.length; k++) { if (kwI[kwJ[k]]) overlap++; }
+      if (overlap >= 2) { cluster.push(j); used[j] = true; }
     }
     clusters.push({ indices: cluster, size: cluster.length });
   }
-  clusters.sort((a,b) => b.size - a.size);
-  return clusters.slice(0, 12).map(c => c.indices.map(idx => articles[idx]));
+  clusters.sort(function(a,b){ return b.size - a.size; });
+  return clusters.slice(0, 12).map(function(c){ return c.indices.map(function(idx){ return articles[idx]; }); });
 }
 
 function mapTopicToTag(topWords) {
-  const text = topWords.join(' ');
+  var text = topWords.join(' ');
   if (/\b(ai|artificial|intelligence|llm|gpt|model|neural|machine|learning|deep)\b/.test(text)) return 'tag-ai';
   if (/\b(software|developer|code|programming|github|engineer|devops|api)\b/.test(text)) return 'tag-swe';
   if (/\b(jobs|hiring|layoff|salary|career|recruit|workforce|employment)\b/.test(text)) return 'tag-jobs';
@@ -426,202 +472,222 @@ function mapTopicToTag(topWords) {
 }
 
 function generateIdeas(clusters) {
-  const ideas = [];
-  const usedAngles = new Set();
-  for (let i = 0; i < Math.min(clusters.length, 10); i++) {
-    const group = clusters[i];
-    const allText = group.map(a => a.title).join(' ');
-    const kw = keywords(allText);
-    const freq = {};
-    kw.forEach(w => freq[w]=(freq[w]||0)+1);
-    const topWords = Object.entries(freq).sort((a,b)=>b[1]-a[1]).slice(0,5).map(e=>e[0]);
-    const topic = smartTopic(topWords);
-    let angle;
-    for (const a of ANGLES) { if (!usedAngles.has(a.type)) { angle=a; usedAngles.add(a.type); break; } }
+  var ideas = [];
+  var usedAngles = {};
+  for (var i = 0; i < Math.min(clusters.length, 10); i++) {
+    var group = clusters[i];
+    var allText = group.map(function(a){ return a.title; }).join(' ');
+    var kw = keywords(allText);
+    var freq = {};
+    kw.forEach(function(w){ freq[w]=(freq[w]||0)+1; });
+    var sorted = Object.keys(freq).sort(function(a,b){ return freq[b]-freq[a]; });
+    var topWords = sorted.slice(0,5);
+    var topic = smartTopic(topWords);
+    var angle = null;
+    for (var a = 0; a < ANGLES.length; a++) {
+      if (!usedAngles[ANGLES[a].type]) { angle=ANGLES[a]; usedAngles[angle.type]=true; break; }
+    }
     if (!angle) angle = ANGLES[i % ANGLES.length];
-    const tagClass = mapTopicToTag(topWords);
+    var tagClass = mapTopicToTag(topWords);
     ideas.push({
-      number: i+1, title: angle.tpl.replace(/\{topic\}/g, topic),
-      type: angle.type, audience: angle.audience,
+      number: i+1,
+      title: angle.tpl.replace(/\{topic\}/g, topic),
+      type: angle.type,
+      audience: angle.audience,
       desc: angle.desc.replace(/\{topic\}/g, topic),
-      headlines: group.slice(0,4).map(a => ({ title:a.title, link:a.link, source:a.source })),
-      tags: topWords.slice(0,4), tagClass, clusterSize: group.length, topic
+      headlines: group.slice(0,4).map(function(a){ return { title:a.title, link:a.link, source:a.source }; }),
+      tags: topWords.slice(0,4),
+      tagClass: tagClass,
+      clusterSize: group.length,
+      topic: topic
     });
   }
   return ideas;
 }
 
 // ─── MAIN GENERATE ───
-async function generate() {
-  const active = TOPICS.filter(t => t.active);
+function generate() {
+  var active = TOPICS.filter(function(t){ return t.active; });
   if (!active.length) { alert('Select at least one topic.'); return; }
 
-  const btn = document.getElementById('fetchBtn');
-  const prog = document.getElementById('progressWrap');
-  const fill = document.getElementById('progressFill');
-  const loadTxt = document.getElementById('loadingText');
+  var btn = document.getElementById('fetchBtn');
+  var prog = document.getElementById('progressWrap');
+  var fill = document.getElementById('progressFill');
+  var loadTxt = document.getElementById('loadingText');
 
   btn.disabled = true;
-  document.getElementById('emptyState').classList.add('hidden');
   prog.classList.remove('hidden');
+  fill.style.width = '0%';
   document.getElementById('hlSection').classList.add('hidden');
   document.getElementById('ideasSection').classList.add('hidden');
   document.getElementById('footerArea').classList.add('hidden');
 
-  let urls = [];
-  active.forEach(t => { if(FEEDS[t.id]) urls.push(...FEEDS[t.id]); });
-  urls = [...new Set(urls)];
+  var urlSet = {};
+  active.forEach(function(t){ if(FEEDS[t.id]) FEEDS[t.id].forEach(function(u){ urlSet[u]=true; }); });
+  var urls = Object.keys(urlSet);
 
-  const allItems = [];
-  const batch = 4;
-  let done = 0;
+  var allItems = [];
+  var batch = 4;
+  var done = 0;
 
-  for (let i = 0; i < urls.length; i += batch) {
-    const b = urls.slice(i, i+batch);
-    const res = await Promise.all(b.map(u => fetchFeed(u)));
-    res.forEach(items => allItems.push(...items));
-    done += b.length;
-    const pct = Math.round((done/urls.length)*100);
-    fill.style.width = pct+'%';
-    loadTxt.innerHTML = `<span class="spinner"></span> Fetched ${done}/${urls.length} feeds (${allItems.length} articles)...`;
+  function nextBatch(i) {
+    if (i >= urls.length) {
+      finishGenerate(allItems, urls.length);
+      return;
+    }
+    var b = urls.slice(i, i+batch);
+    Promise.all(b.map(fetchFeed)).then(function(results) {
+      results.forEach(function(items){ allItems = allItems.concat(items); });
+      done += b.length;
+      var pct = Math.round((done/urls.length)*100);
+      fill.style.width = pct+'%';
+      loadTxt.innerHTML = '<span class="spinner"></span> Fetched '+done+'/'+urls.length+' feeds ('+allItems.length+' articles)...';
+      nextBatch(i + batch);
+    });
   }
+  nextBatch(0);
+}
+
+function finishGenerate(allItems, feedCount) {
+  var btn = document.getElementById('fetchBtn');
+  var prog = document.getElementById('progressWrap');
+  var loadTxt = document.getElementById('loadingText');
 
   if (allItems.length < 3) {
     loadTxt.innerHTML = '<span style="color:var(--red)">Could not fetch enough headlines. Try selecting more topics or check connection.</span>';
-    btn.disabled = false; return;
+    btn.disabled = false;
+    return;
   }
 
-  loadTxt.innerHTML = `<span class="spinner"></span> Clustering ${allItems.length} headlines...`;
-  await new Promise(r => setTimeout(r, 200));
+  loadTxt.innerHTML = '<span class="spinner"></span> Clustering '+allItems.length+' headlines...';
 
-  // Dedupe
-  const seen = new Set();
-  const unique = allItems.filter(a => {
-    const k = a.title.toLowerCase().substring(0,60);
-    if(seen.has(k)) return false; seen.add(k); return true;
-  });
+  setTimeout(function() {
+    // Dedupe
+    var seen = {};
+    var unique = allItems.filter(function(a) {
+      var k = a.title.toLowerCase().substring(0,60);
+      if (seen[k]) return false;
+      seen[k] = true; return true;
+    });
 
-  ALL_HEADLINES = unique;
-  const clusters = clusterArticles(unique);
-  ALL_IDEAS = generateIdeas(clusters);
+    ALL_HEADLINES = unique;
+    var clusters = clusterArticles(unique);
+    ALL_IDEAS = generateIdeas(clusters);
 
-  // Stats
-  document.getElementById('statFeeds').textContent = urls.length;
-  document.getElementById('statArticles').textContent = unique.length;
-  document.getElementById('statIdeas').textContent = ALL_IDEAS.length;
-  document.getElementById('statTopics').textContent = clusters.length;
-  document.getElementById('statSources').textContent = new Set(unique.map(a=>a.source)).size;
+    // Stats
+    document.getElementById('statFeeds').textContent = feedCount;
+    document.getElementById('statArticles').textContent = unique.length;
+    document.getElementById('statIdeas').textContent = ALL_IDEAS.length;
+    document.getElementById('statTopics').textContent = clusters.length;
+    var srcSet = {};
+    unique.forEach(function(a){ if(a.source) srcSet[a.source]=true; });
+    document.getElementById('statSources').textContent = Object.keys(srcSet).length;
 
-  prog.classList.add('hidden');
-  document.getElementById('exportBtn').disabled = false;
-  btn.disabled = false;
+    prog.classList.add('hidden');
+    btn.disabled = false;
 
-  // Show headlines
-  const hlSection = document.getElementById('hlSection');
-  const hlStrip = document.getElementById('hlStrip');
-  hlSection.classList.remove('hidden');
-  document.getElementById('hlLabel').textContent = `Recent Headlines Scanned (${unique.length} unique)`;
-  hlStrip.innerHTML = unique.slice(0,16).map(a =>
-    `<div class="hl-chip"><a href="${esc(a.link)}" target="_blank" title="${esc(a.title)}">${esc(a.title)}</a></div>`
-  ).join('');
+    // Headlines
+    var hlSection = document.getElementById('hlSection');
+    var hlStrip = document.getElementById('hlStrip');
+    hlSection.classList.remove('hidden');
+    document.getElementById('hlLabel').textContent = 'Recent Headlines Scanned ('+unique.length+' unique)';
+    hlStrip.innerHTML = unique.slice(0,16).map(function(a) {
+      return '<div class="hl-chip"><a href="'+esc(a.link)+'" target="_blank" title="'+esc(a.title)+'">'+esc(a.title)+'</a></div>';
+    }).join('');
 
-  applyFilters();
-  document.getElementById('footerArea').classList.remove('hidden');
+    applyFilters();
+    document.getElementById('footerArea').classList.remove('hidden');
+  }, 200);
 }
 
 // ─── FILTERS ───
-document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 200));
-function debounce(fn, ms) { let t; return function() { clearTimeout(t); t=setTimeout(fn,ms); }; }
+var searchTimer;
+document.getElementById('searchInput').addEventListener('input', function() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(applyFilters, 200);
+});
 
 function applyFilters() {
-  const query = document.getElementById('searchInput').value.toLowerCase().trim();
-  const format = document.getElementById('formatFilter').value;
-  const sort = document.getElementById('sortSelect').value;
+  var query = document.getElementById('searchInput').value.toLowerCase().trim();
+  var format = document.getElementById('formatFilter').value;
+  var sort = document.getElementById('sortSelect').value;
 
-  let filtered = [...ALL_IDEAS];
+  var filtered = ALL_IDEAS.slice();
 
-  if (format) filtered = filtered.filter(i => i.type === format);
+  if (format) filtered = filtered.filter(function(i){ return i.type === format; });
   if (query) {
-    const terms = query.split(/\s+/);
-    filtered = filtered.filter(i => {
-      const text = (i.title+' '+i.desc+' '+i.tags.join(' ')+' '+i.type+' '+i.topic).toLowerCase();
-      return terms.every(t => text.includes(t));
+    var terms = query.split(/\s+/);
+    filtered = filtered.filter(function(i) {
+      var text = (i.title+' '+i.desc+' '+i.tags.join(' ')+' '+i.type+' '+i.topic).toLowerCase();
+      return terms.every(function(t){ return text.indexOf(t) !== -1; });
     });
   }
 
-  if (sort === 'alpha') filtered.sort((a,b) => a.title.localeCompare(b.title));
-  else if (sort === 'recent') { /* keep original order based on headline recency */ }
-  // default: cluster size, already sorted
+  if (sort === 'alpha') filtered.sort(function(a,b){ return a.title.localeCompare(b.title); });
 
   renderIdeas(filtered);
 }
 
 function renderIdeas(ideas) {
-  const section = document.getElementById('ideasSection');
-  const container = document.getElementById('ideasContainer');
+  var section = document.getElementById('ideasSection');
+  var container = document.getElementById('ideasContainer');
   section.classList.remove('hidden');
-  document.getElementById('ideasLabel').textContent = `Article Ideas (${ideas.length})`;
+  document.getElementById('ideasLabel').textContent = 'Article Ideas ('+ideas.length+')';
 
   if (!ideas.length) {
     container.innerHTML = '<div class="no-results"><div class="nr-icon">&#128269;</div><div class="nr-msg">No ideas match your filters. Try broadening your search.</div></div>';
     return;
   }
 
-  container.innerHTML = ideas.map(idea => {
-    const tags = idea.tags.map(t => `<span class="tag ${idea.tagClass}">${esc(t)}</span>`).join('') +
-                 `<span class="tag tag-format">${esc(idea.type)}</span>`;
-    const sources = idea.headlines.map(h =>
-      `&#8226; <a href="${esc(h.link)}" target="_blank">${esc(h.title)}</a>${h.source ? ' <span style="color:var(--faint)">('+esc(h.source)+')</span>' : ''}`
-    ).join('<br>');
+  container.innerHTML = ideas.map(function(idea) {
+    var tags = idea.tags.map(function(t){ return '<span class="tag '+idea.tagClass+'">'+esc(t)+'</span>'; }).join('') +
+               '<span class="tag tag-format">'+esc(idea.type)+'</span>';
+    var sources = idea.headlines.map(function(h) {
+      return '&#8226; <a href="'+esc(h.link)+'" target="_blank">'+esc(h.title)+'</a>'+(h.source ? ' <span style="color:var(--faint)">('+esc(h.source)+')</span>' : '');
+    }).join('<br>');
 
-    return `<div class="idea-card">
-      <div class="idea-top">
-        <span class="idea-num">IDEA #${idea.number}</span>
-        <span class="idea-type">${esc(idea.type)}</span>
-        <span style="margin-left:auto;font-size:10px;color:var(--soft)">${idea.clusterSize} headline${idea.clusterSize>1?'s':''} clustered</span>
-      </div>
-      <div class="idea-title">${esc(idea.title)}</div>
-      <div class="idea-audience"><span>Target:</span> ${esc(idea.audience)}</div>
-      <div class="idea-desc">${esc(idea.desc)}</div>
-      <div class="idea-tags">${tags}</div>
-      <div class="idea-sources">Inspired by:<br>${sources}</div>
-      <div class="idea-actions">
-        <button class="idea-btn" onclick="copyTitle(this,'${esc(idea.title.replace(/'/g,"\\'"))}')">Copy Title</button>
-        <button class="idea-btn" onclick="copyAll(this,${idea.number-1})">Copy Full Brief</button>
-      </div>
-    </div>`;
+    return '<div class="idea-card">'+
+      '<div class="idea-top">'+
+        '<span class="idea-num">IDEA #'+idea.number+'</span>'+
+        '<span class="idea-type">'+esc(idea.type)+'</span>'+
+        '<span class="idea-cluster">'+idea.clusterSize+' headline'+(idea.clusterSize>1?'s':'')+' clustered</span>'+
+      '</div>'+
+      '<div class="idea-title">'+esc(idea.title)+'</div>'+
+      '<div class="idea-audience"><span>Target:</span> '+esc(idea.audience)+'</div>'+
+      '<div class="idea-desc">'+esc(idea.desc)+'</div>'+
+      '<div class="idea-tags">'+tags+'</div>'+
+      '<div class="idea-sources">Inspired by:<br>'+sources+'</div>'+
+      '<div class="idea-actions">'+
+        '<button class="idea-btn" onclick="copyTitle(this,'+idea.number+')">Copy Title</button>'+
+        '<button class="idea-btn" onclick="copyAll(this,'+idea.number+')">Copy Full Brief</button>'+
+      '</div>'+
+    '</div>';
   }).join('');
 }
 
-function copyTitle(btn, title) {
-  navigator.clipboard.writeText(title);
+function copyTitle(btn, num) {
+  var idea = ALL_IDEAS.find(function(i){ return i.number === num; });
+  if (!idea) return;
+  navigator.clipboard.writeText(idea.title);
   btn.textContent = 'Copied!'; btn.classList.add('copied');
-  setTimeout(() => { btn.textContent='Copy Title'; btn.classList.remove('copied'); }, 1500);
+  setTimeout(function(){ btn.textContent='Copy Title'; btn.classList.remove('copied'); }, 1500);
 }
 
-function copyAll(btn, idx) {
-  const idea = ALL_IDEAS[idx];
+function copyAll(btn, num) {
+  var idea = ALL_IDEAS.find(function(i){ return i.number === num; });
   if (!idea) return;
-  const text = `Title: ${idea.title}\nFormat: ${idea.type}\nTarget Audience: ${idea.audience}\nBrief: ${idea.desc}\nKeywords: ${idea.tags.join(', ')}\nSource Headlines:\n${idea.headlines.map(h=>'- '+h.title).join('\n')}`;
+  var text = 'Title: '+idea.title+'\nFormat: '+idea.type+'\nTarget Audience: '+idea.audience+'\nBrief: '+idea.desc+'\nKeywords: '+idea.tags.join(', ')+'\nSource Headlines:\n'+idea.headlines.map(function(h){ return '- '+h.title; }).join('\n');
   navigator.clipboard.writeText(text);
   btn.textContent = 'Copied!'; btn.classList.add('copied');
-  setTimeout(() => { btn.textContent='Copy Full Brief'; btn.classList.remove('copied'); }, 1500);
-}
-
-function exportIdeas() {
-  const rows = [['#','Title','Format','Target Audience','Brief','Keywords','Cluster Size','Source Headlines']];
-  ALL_IDEAS.forEach(i => {
-    rows.push([i.number, '"'+i.title.replace(/"/g,'""')+'"', i.type, '"'+i.audience+'"', '"'+i.desc.replace(/"/g,'""')+'"', '"'+i.tags.join(', ')+'"', i.clusterSize, '"'+i.headlines.map(h=>h.title).join(' | ')+'"']);
-  });
-  const csv = rows.map(r => r.join(',')).join('\n');
-  const blob = new Blob([csv],{type:'text/csv'});
-  const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob);
-  a.download = 'insightcrunch-article-ideas-'+new Date().toISOString().slice(0,10)+'.csv';
-  a.click();
+  setTimeout(function(){ btn.textContent='Copy Full Brief'; btn.classList.remove('copied'); }, 1500);
 }
 
 function esc(s) { if(!s) return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+
+// ─── AUTO-FETCH ON LOAD ───
+window.addEventListener('DOMContentLoaded', function() {
+  setTimeout(generate, 300);
+});
 </script>
 </body>
 </html>
