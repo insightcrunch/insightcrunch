@@ -1,0 +1,24 @@
+---
+layout: null
+sitemap: false
+permalink: /admin/posts-data.json
+---
+[{% for post in site.posts %}{
+  "index": {{ forloop.index }},
+  "title": {{ post.title | jsonify }},
+  "url": {{ post.url | relative_url | jsonify }},
+  "slug": {{ post.slug | jsonify }},
+  "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+  "dateDisplay": {{ post.date | date: "%b %-d, %Y" | jsonify }},
+  "year": {{ post.date | date: "%Y" | jsonify }},
+  "categories": {{ post.categories | jsonify }},
+  "tags": {{ post.tags | jsonify }},
+  "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncate: 300 | jsonify }},
+  "image": {{ post.image | jsonify | default: "null" }},
+  "readingTime": {{ post.reading_time | default: 0 }},
+  "wordCount": {{ post.content | number_of_words | default: 0 }},
+  "titleLen": {{ post.title | size }},
+  "excerptLen": {{ post.excerpt | strip_html | strip_newlines | strip | size }},
+  "contentLen": {{ post.content | size }},
+  "hasImage": {% if post.image %}true{% else %}false{% endif %}
+}{% unless forloop.last %},{% endunless %}{% endfor %}]
