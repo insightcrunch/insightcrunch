@@ -133,10 +133,10 @@ document.addEventListener('DOMContentLoaded', function() {
     input.addEventListener('input', function() {
       var val = this.value.trim();
       clearTimeout(redirectTimer);
-      if (val.length >= 2) {
+      if (val.length > 2) {
         redirectTimer = setTimeout(function() {
           window.location.href = '/?q=' + encodeURIComponent(val);
-        }, 600);
+        }, 1000);
       }
     });
     input.addEventListener('keydown', function(e) {
