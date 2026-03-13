@@ -113,10 +113,41 @@ function setSort(type, el) {
 document.addEventListener('DOMContentLoaded', function() {
   updateStatus();
 
-  // wire search
   var input = document.getElementById('searchInput');
-  if (input) {
+  var hasPostList = document.getElementById('postList');
+
+  if (input && hasPostList) {
+    // Home / category page: filter in-page
     input.addEventListener('input', function() { filterPosts(this.value); });
+
+    // Auto-search if arrived with ?q= param
+    var params = new URLSearchParams(window.location.search);
+    var qParam = params.get('q');
+    if (qParam) {
+      input.value = qParam;
+      filterPosts(qParam);
+    }
+  } else if (input) {
+    // Post / other page: redirect to home with query
+    var redirectTimer;
+    input.addEventListener('input', function() {
+      var val = this.value.trim();
+      clearTimeout(redirectTimer);
+      if (val.length >= 2) {
+        redirectTimer = setTimeout(function() {
+          window.location.href = '/?q=' + encodeURIComponent(val);
+        }, 600);
+      }
+    });
+    input.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter') {
+        var val = this.value.trim();
+        if (val) {
+          clearTimeout(redirectTimer);
+          window.location.href = '/?q=' + encodeURIComponent(val);
+        }
+      }
+    });
   }
 
   // ── Copy intercept: first sentence + "Continue reading at URL" ──
