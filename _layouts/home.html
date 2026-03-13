@@ -17,6 +17,7 @@ layout: default
            data-title="{{ post.title | downcase }}"
            data-cat="{{ cat }}"
            data-tags="{{ post.tags | join: ' ' | downcase }}"
+           data-body="{{ post.content | strip_html | strip_newlines | truncate: 500 | downcase | escape }}"
            data-index="{{ forloop.index }}"
            onclick="window.location='{{ post.url | relative_url }}'">
     <div class="post-r1">

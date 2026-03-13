@@ -77,7 +77,8 @@ function filterPosts(q) {
     var title = (p.dataset.title || '').toLowerCase();
     var cat   = (p.dataset.cat   || '').toLowerCase();
     var tags  = (p.dataset.tags  || '').toLowerCase();
-    var match = title.includes(q.toLowerCase()) || cat.includes(q.toLowerCase()) || tags.includes(q.toLowerCase());
+    var body  = (p.dataset.body  || '').toLowerCase();
+    var match = title.includes(q.toLowerCase()) || cat.includes(q.toLowerCase()) || tags.includes(q.toLowerCase()) || body.includes(q.toLowerCase());
     p.classList.toggle('hidden', !match);
     if (match) count++;
   });

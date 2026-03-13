@@ -114,8 +114,45 @@ tr.expanded td{background:var(--bg3)}
 .error-screen .err-hint{color:var(--soft);font-size:12px;max-width:500px}
 .error-screen code{background:var(--bg3);padding:2px 6px;border-radius:3px;font-size:11px}
 @media(max-width:768px){
-  .admin-wrap{padding:12px 10px 40px}.stats-row{gap:8px}.stat-card{min-width:100px;padding:10px 12px}
-  .stat-val{font-size:18px}.toolbar{flex-direction:column;align-items:stretch}.topbar{padding:10px 14px;flex-wrap:wrap}.cell-title{max-width:200px}
+  .admin-wrap{padding:12px 10px 40px}
+  .topbar{padding:10px 14px;flex-wrap:wrap;gap:10px}
+  .topbar-sep{display:none}
+  .topbar-title{font-size:11px}
+
+  /* Stats: 3-col grid */
+  .stats-row{gap:8px}
+  .stat-card{min-width:0;flex:1 1 calc(33.3% - 6px);padding:10px 12px}
+  .stat-val{font-size:16px}
+  .stat-label{font-size:9px}
+
+  /* Toolbar: search full width, filters in 2-col grid */
+  .toolbar{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .search-box{grid-column:1/-1;min-width:0;font-size:16px}
+  .search-box input{font-size:16px}
+  .filter-select{min-width:0;width:100%;font-size:12px;padding:8px 10px}
+
+  /* Table: hide less critical columns on mobile */
+  thead th:nth-child(1),tbody tr:not(.seo-row) td:nth-child(1){display:none}  /* # */
+  thead th:nth-child(5),tbody tr:not(.seo-row) td:nth-child(5){display:none}  /* Tags */
+  thead th:nth-child(7),tbody tr:not(.seo-row) td:nth-child(7){display:none}  /* Read time */
+  th{padding:8px 8px;font-size:9px}
+  td{padding:8px 8px;font-size:11px}
+  .cell-title{max-width:160px}
+  .cell-title a{font-size:12px}
+  .cell-slug{font-size:8px}
+  .cat-badge{font-size:9px;padding:2px 6px}
+  .cell-date{font-size:10px}
+  .seo-score{width:26px;height:26px;font-size:10px}
+  .wc{font-size:11px}
+  .wc-bar{width:40px}
+
+  /* SEO detail panel: single column on mobile */
+  .seo-grid{grid-template-columns:1fr}
+
+  /* Footer */
+  .tbl-footer{flex-direction:column;align-items:flex-start;gap:8px}
+  .tbl-pages{flex-wrap:wrap}
+  .tbl-page{width:28px;height:28px;font-size:11px}
 }
 .hidden{display:none!important}.text-right{text-align:right}.text-center{text-align:center}.nowrap{white-space:nowrap}
 </style>
@@ -157,12 +194,9 @@ tr.expanded td{background:var(--bg3)}
         <option value="ok">Needs Work (50-79)</option>
         <option value="bad">Poor (0-49)</option>
       </select>
-      <div class="per-page">
-        <label>Show</label>
-        <select id="perPage" onchange="changePerPage()">
-          <option value="25">25</option><option value="50" selected>50</option><option value="100">100</option><option value="999999">All</option>
-        </select>
-      </div>
+      <select class="filter-select" id="perPage" onchange="changePerPage()">
+        <option value="25">25 rows</option><option value="50" selected>50 rows</option><option value="100">100 rows</option><option value="999999">All rows</option>
+      </select>
     </div>
     <div class="tbl-wrap">
       <div class="tbl-scroll">
@@ -336,7 +370,7 @@ function render(){
     html+='<td class="text-right nowrap" style="color:var(--mid)">'+(p.readingTime>0?p.readingTime+' min':'-')+'</td>';
     html+='<td class="text-center"><span class="seo-score '+seoClass+'" onclick="toggleSeo('+p.index+')">'+p.seo.score+'</span></td>';
     html+='</tr>';
-    html+='<tr class="hidden" id="seo-'+p.index+'"><td colspan="8"><div class="seo-grid">';
+    html+='<tr class="hidden seo-row" id="seo-'+p.index+'"><td colspan="8"><div class="seo-grid">';
     p.seo.checks.forEach(function(c){
       html+='<div class="seo-item"><div class="seo-item-label">'+escHtml(c.label)+'</div>';
       html+='<div class="seo-item-val '+c.status+'">'+escHtml(c.val)+'</div>';
