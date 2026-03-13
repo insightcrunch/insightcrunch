@@ -60,6 +60,10 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 .chip{padding:6px 14px;border-radius:16px;border:1px solid var(--faint);background:var(--bg2);color:var(--mid);font-size:12px;cursor:pointer;transition:all .15s;user-select:none;font-family:inherit}
 .chip:hover{border-color:var(--soft);color:var(--ink)}
 .chip.on{border-color:var(--amber);background:var(--amber-bg);color:var(--amber)}
+.chip.trending{font-weight:600}
+.chip.trending.on{background:var(--amber-dim);border-color:var(--amber);color:#fff}
+.chip.dimmed{opacity:.4;border-color:transparent}
+.chip.dimmed:hover{opacity:.7;border-color:var(--soft)}
 .chip .ct{font-size:10px;background:rgba(255,255,255,.06);padding:1px 6px;border-radius:8px;margin-left:4px}
 .chip.on .ct{background:rgba(208,128,32,.2)}
 
@@ -167,8 +171,8 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   /* Toolbar: search + two selects side by side */
   .toolbar{gap:8px;margin-bottom:12px}
   .search-box{min-width:100%;order:-1}
-  .search-box input{padding:8px 10px 8px 32px;font-size:12px}
-  .filter-select{min-width:0;flex:1;font-size:11px;padding:7px 8px}
+  .search-box input{padding:8px 10px 8px 32px;font-size:16px}
+  .filter-select{min-width:0;flex:1;font-size:16px;padding:7px 8px}
 
   /* Headlines: collapsed by default, toggle to show */
   .hl-strip{display:none}
@@ -230,7 +234,7 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
   </div>
 
   <!-- Category chips -->
-  <div class="sec-label">Topics (click to toggle, then Refresh)</div>
+  <div class="sec-label">Topics (Trending uses all feeds, or pick specific topics)</div>
   <div class="chip-row" id="chipRow"></div>
 
   <!-- Toolbar -->
@@ -289,20 +293,21 @@ body{background:#0f0b08;color:#e8dfd0;font-family:'Inter',sans-serif;font-weight
 </div>
 
 <script>
-// ─── TOPIC CONFIG ─── all active by default
+// ─── TOPIC CONFIG ─── individual topics start inactive, Trending mode is on
+var trendingMode = true;
 var TOPICS = [
-  { id:'technology', label:'Technology',           color:'--c-tech',  tagClass:'tag-cat',   active:true },
-  { id:'business',   label:'Business',             color:'--c-biz',   tagClass:'tag-biz',   active:true },
-  { id:'science',    label:'Science',              color:'--c-sci',   tagClass:'tag-sci',   active:true },
-  { id:'world',      label:'World News',           color:'--c-world', tagClass:'tag-world', active:true },
-  { id:'health',     label:'Health',               color:'--c-health',tagClass:'tag-health',active:true },
-  { id:'education',  label:'Education',            color:'--c-edu',   tagClass:'tag-edu',   active:true },
-  { id:'ai',         label:'AI / ML',              color:'--c-ai',    tagClass:'tag-ai',    active:true },
-  { id:'swe',        label:'Software Engineering', color:'--c-swe',   tagClass:'tag-swe',   active:true },
-  { id:'jobs',       label:'Tech Job Market',      color:'--c-jobs',  tagClass:'tag-jobs',  active:true },
-  { id:'startups',   label:'Startups / Funding',   color:'--c-start', tagClass:'tag-start', active:true },
-  { id:'cloud',      label:'Cloud / DevOps',       color:'--c-cloud', tagClass:'tag-cloud', active:true },
-  { id:'data',       label:'Data Science / Analytics', color:'--c-data', tagClass:'tag-data', active:true }
+  { id:'technology', label:'Technology',           color:'--c-tech',  tagClass:'tag-cat',   active:false },
+  { id:'business',   label:'Business',             color:'--c-biz',   tagClass:'tag-biz',   active:false },
+  { id:'science',    label:'Science',              color:'--c-sci',   tagClass:'tag-sci',   active:false },
+  { id:'world',      label:'World News',           color:'--c-world', tagClass:'tag-world', active:false },
+  { id:'health',     label:'Health',               color:'--c-health',tagClass:'tag-health',active:false },
+  { id:'education',  label:'Education',            color:'--c-edu',   tagClass:'tag-edu',   active:false },
+  { id:'ai',         label:'AI / ML',              color:'--c-ai',    tagClass:'tag-ai',    active:false },
+  { id:'swe',        label:'Software Engineering', color:'--c-swe',   tagClass:'tag-swe',   active:false },
+  { id:'jobs',       label:'Tech Job Market',      color:'--c-jobs',  tagClass:'tag-jobs',  active:false },
+  { id:'startups',   label:'Startups / Funding',   color:'--c-start', tagClass:'tag-start', active:false },
+  { id:'cloud',      label:'Cloud / DevOps',       color:'--c-cloud', tagClass:'tag-cloud', active:false },
+  { id:'data',       label:'Data Science / Analytics', color:'--c-data', tagClass:'tag-data', active:false }
 ];
 
 // ─── RSS FEEDS PER TOPIC ───
@@ -367,16 +372,36 @@ var ALL_HEADLINES = [];
 
 // ─── RENDER TOPIC CHIPS ───
 function renderChips() {
-  document.getElementById('chipRow').innerHTML = TOPICS.map(function(t) {
-    return '<span class="chip'+(t.active?' on':'')+'" data-id="'+t.id+'" onclick="toggleChip(this)">'+t.label+'</span>';
+  var html = '<span class="chip trending'+(trendingMode?' on':'')+'" data-id="_trending" onclick="toggleChip(this)">&#9733; Trending (All)</span>';
+  html += TOPICS.map(function(t) {
+    var cls = 'chip';
+    if (!trendingMode && t.active) cls += ' on';
+    if (trendingMode) cls += ' dimmed';
+    return '<span class="'+cls+'" data-id="'+t.id+'" onclick="toggleChip(this)">'+t.label+'</span>';
   }).join('');
+  document.getElementById('chipRow').innerHTML = html;
 }
 renderChips();
 
 function toggleChip(el) {
-  el.classList.toggle('on');
-  var t = TOPICS.find(function(x){ return x.id === el.dataset.id; });
-  if (t) t.active = !t.active;
+  var id = el.dataset.id;
+  if (id === '_trending') {
+    // Activate trending, deactivate all individual
+    trendingMode = true;
+    TOPICS.forEach(function(t){ t.active = false; });
+  } else {
+    // Clicking an individual topic
+    if (trendingMode) {
+      // Switch from trending to single-topic mode
+      trendingMode = false;
+      TOPICS.forEach(function(t){ t.active = false; });
+    }
+    var t = TOPICS.find(function(x){ return x.id === id; });
+    if (t) t.active = !t.active;
+    // If nothing selected, go back to trending
+    if (!TOPICS.some(function(t){ return t.active; })) trendingMode = true;
+  }
+  renderChips();
 }
 
 // ─── STOPWORDS + NLP ───
@@ -539,7 +564,12 @@ function generateIdeas(clusters) {
 
 // ─── MAIN GENERATE ───
 function generate() {
-  var active = TOPICS.filter(function(t){ return t.active; });
+  var active;
+  if (trendingMode) {
+    active = TOPICS; // use all topics
+  } else {
+    active = TOPICS.filter(function(t){ return t.active; });
+  }
   if (!active.length) { alert('Select at least one topic.'); return; }
 
   var btn = document.getElementById('fetchBtn');
