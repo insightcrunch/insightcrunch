@@ -117,4 +117,22 @@ document.addEventListener('DOMContentLoaded', function() {
   if (input) {
     input.addEventListener('input', function() { filterPosts(this.value); });
   }
+
+  // ── Copy intercept: first sentence + "Continue reading at URL" ──
+  document.addEventListener('copy', function(e) {
+    var sel = window.getSelection();
+    if (!sel || !sel.toString().trim()) return;
+
+    var raw = sel.toString().trim();
+
+    // Extract first sentence: split on . ! or ? followed by a space or end
+    var match = raw.match(/^[\s\S]*?[.!?](?=\s|$)/);
+    var firstSentence = match ? match[0].trim() : raw;
+
+    var url = window.location.href;
+    var output = firstSentence + '\n\nContinue reading at ' + url;
+
+    e.preventDefault();
+    e.clipboardData.setData('text/plain', output);
+  });
 });
