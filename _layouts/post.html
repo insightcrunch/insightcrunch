@@ -91,6 +91,30 @@ article {
   </div>
   {% endif %}
 
+  {% assign post_slug = page.date | date: "%Y-%m-%d-" | remove: "" %}
+  {% assign slug_parts = page.slug %}
+  {% assign full_slug = slug_parts %}
+  {% if site.data.related_posts[full_slug] %}
+  <div class="related-posts">
+    <h3>Related Reading</h3>
+    <ul class="related-grid">
+      {% for rel in site.data.related_posts[full_slug] %}
+      <li class="related-card">
+        <a href="{{ rel.url | relative_url }}">
+          {% if rel.image and rel.image != "" %}
+          <img class="related-thumb" src="{{ rel.image | relative_url }}" alt="{{ rel.title }}" loading="lazy">
+          {% else %}
+          <span class="related-thumb"></span>
+          {% endif %}
+          <span class="tag tag-{{ rel.category }}">{{ rel.category | capitalize }}</span>
+          <span class="related-title">{{ rel.title }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
   <div style="margin-top:32px;padding-top:16px;border-top:1px solid var(--rule)">
     <a href="{{ '/' | relative_url }}" style="font-family:'Lora',serif;font-style:italic;font-size:13px;color:var(--amber);text-decoration:none;">← Back to all posts</a>
   </div>
