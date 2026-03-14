@@ -1,0 +1,24 @@
+---
+layout: null
+sitemap: false
+permalink: /admin/related-data.json
+---
+{
+  "generated": "{{ site.time | date_to_xmlschema }}",
+  "totalPosts": {{ site.posts | size }},
+  "relations": {
+    {% for entry in site.data.related_posts %}
+    {{ entry[0] | jsonify }}: [
+      {% for rel in entry[1] %}
+      {
+        "slug": {{ rel.slug | jsonify }},
+        "title": {{ rel.title | jsonify }},
+        "url": {{ rel.url | jsonify }},
+        "category": {{ rel.category | jsonify }},
+        "image": {{ rel.image | jsonify | default: "null" }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  }
+}

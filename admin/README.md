@@ -13,7 +13,9 @@ All admin pages are encrypted with [StatiCrypt](https://github.com/robinmoisson/
 | `scheduled.html` | Encrypted | Scheduled posts viewer (GitHub API) |
 | `doctor.html` | Encrypted | Posts Doctor (quality audit, issue detection) |
 | `article-ideas.html` | Encrypted | AI article idea generator |
+| `link-inspector.html` | Encrypted | Link Inspector (cross-linking diagnostics) |
 | `posts-data.json` | Jekyll template | Generates JSON of all posts at build time |
+| `related-data.json` | Jekyll template | Generates JSON of related posts data at build time |
 | `ic-password-template.html` | Template | Custom StatiCrypt password prompt UI |
 | `README.md` | Docs | This file |
 
@@ -108,6 +110,25 @@ This is a Jekyll/Liquid template that generates JSON at build time. It iterates 
 ## Posts Doctor Page Notes
 
 `doctor.html` loads from the same `posts-data.json` as the Posts Dashboard. It runs quality diagnostics on every post and shows only those with issues. Checks include: missing featured image, missing excerpt, no tags, thin content (<300 words), short content (<600 words), title too long/short, slug too long, and poor SEO score (<50). Each issue is classified as critical or warning. Filters allow drilling down by issue type, category, and sort order.
+
+---
+
+## Link Inspector Page Notes
+
+`link-inspector.html` loads from `related-data.json` (generated at build time from `_data/related_posts.yml`) and `posts-data.json`. It provides cross-linking diagnostics across six tabs: Overview (histogram, top/bottom linked posts), Inbound Links (searchable/filterable table), Outbound Links (with cross-category count), Orphan Check (zero-inbound detection), Category Clusters (intra vs inter linking stats), and Weakest Links (posts with fewest total connections). Requires the `_scripts/generate_related_posts.py` pre-build step to populate `_data/related_posts.yml`.
+
+### Dashboard Sidebar Entry
+
+Add this to the sidebar in `index.html` (decrypted inner HTML) alongside the other nav items, using the appropriate `data-page` attribute:
+
+```html
+<a data-page="link-inspector.html">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372.1 74 321.1 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.8l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1 1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z"/></svg>
+  Link Inspector
+</a>
+```
+
+After adding the sidebar entry, encrypt both `link-inspector.html` and the updated `index.html` using the shared salt.
 
 ---
 

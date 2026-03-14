@@ -1,0 +1,777 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Link Inspector - InsightCrunch Admin</title>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0f0b08;
+  --bg2: #1a1410;
+  --bg3: #241c14;
+  --bg4: #2e241a;
+  --ink: #e8dfd0;
+  --mid: #a89878;
+  --soft: #786850;
+  --faint: #3e3428;
+  --amber: #d08020;
+  --amber-dim: #805010;
+  --amber-bg: rgba(208,128,32,.08);
+  --amber-bd: rgba(208,128,32,.2);
+  --red: #d04040;
+  --red-bg: rgba(208,64,64,.08);
+  --red-bd: rgba(208,64,64,.2);
+  --green: #40a860;
+  --green-bg: rgba(64,168,96,.08);
+  --green-bd: rgba(64,168,96,.2);
+  --blue: #4080d0;
+  --blue-bg: rgba(64,128,208,.08);
+  --blue-bd: rgba(64,128,208,.2);
+  --radius: 6px;
+  --radius-lg: 10px;
+}
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { font-size: 14px; }
+body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  padding: 24px;
+  min-height: 100vh;
+}
+
+/* ── Loading ── */
+.loading-screen {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; min-height: 60vh; gap: 16px;
+}
+.spinner {
+  width: 32px; height: 32px; border: 3px solid var(--faint);
+  border-top-color: var(--amber); border-radius: 50%;
+  animation: spin .7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.loading-text { font-size: 12px; color: var(--soft); letter-spacing: .5px; }
+
+/* ── Error ── */
+.error-banner {
+  background: var(--red-bg); border: 1px solid var(--red-bd);
+  border-radius: var(--radius); padding: 16px 20px; margin-bottom: 20px;
+  color: var(--red); font-size: 13px; line-height: 1.5;
+}
+
+/* ── Header ── */
+.page-header {
+  display: flex; align-items: center; gap: 12px;
+  margin-bottom: 28px; padding-bottom: 20px;
+  border-bottom: 1px solid var(--faint);
+}
+.page-icon {
+  width: 40px; height: 40px; border-radius: var(--radius);
+  background: var(--amber-bg); border: 1px solid var(--amber-bd);
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+}
+.page-icon svg { width: 20px; height: 20px; fill: var(--amber); }
+.page-title { font-family: 'Lora', serif; font-size: 22px; font-weight: 500; color: #fff; }
+.page-sub { font-size: 12px; color: var(--soft); margin-top: 2px; }
+.header-right { margin-left: auto; display: flex; gap: 10px; align-items: center; }
+.gen-time { font-size: 11px; color: var(--soft); text-align: right; }
+
+/* ── Stats row ── */
+.stats-row {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px; margin-bottom: 24px;
+}
+.stat-card {
+  background: var(--bg2); border: 1px solid var(--faint);
+  border-radius: var(--radius); padding: 16px 18px;
+}
+.stat-value {
+  font-family: 'Lora', serif; font-size: 28px; font-weight: 600;
+  color: #fff; line-height: 1;
+}
+.stat-value.green { color: var(--green); }
+.stat-value.amber { color: var(--amber); }
+.stat-value.red { color: var(--red); }
+.stat-value.blue { color: var(--blue); }
+.stat-label { font-size: 11px; color: var(--soft); margin-top: 6px; text-transform: uppercase; letter-spacing: .4px; }
+
+/* ── Tabs ── */
+.tabs {
+  display: flex; gap: 0; border-bottom: 1px solid var(--faint);
+  margin-bottom: 20px; overflow-x: auto;
+}
+.tab {
+  padding: 10px 20px; font-size: 12px; font-weight: 600;
+  color: var(--soft); cursor: pointer; border-bottom: 2px solid transparent;
+  white-space: nowrap; transition: all .15s; letter-spacing: .3px;
+  background: none; border-top: none; border-left: none; border-right: none;
+  font-family: inherit;
+}
+.tab:hover { color: var(--mid); }
+.tab.active { color: var(--amber); border-bottom-color: var(--amber); }
+
+/* ── Search ── */
+.search-row {
+  display: flex; gap: 10px; margin-bottom: 16px; flex-wrap: wrap; align-items: center;
+}
+.search-input {
+  flex: 1; min-width: 200px; background: var(--bg2); border: 1px solid var(--faint);
+  border-radius: var(--radius); padding: 9px 14px; font-size: 13px;
+  color: var(--ink); font-family: inherit; outline: none; transition: border-color .15s;
+}
+.search-input:focus { border-color: var(--amber); }
+.search-input::placeholder { color: var(--soft); }
+.filter-select {
+  background: var(--bg2); border: 1px solid var(--faint); border-radius: var(--radius);
+  padding: 9px 14px; font-size: 12px; color: var(--ink); font-family: inherit;
+  outline: none; cursor: pointer;
+}
+.filter-select:focus { border-color: var(--amber); }
+.sort-btn {
+  background: var(--bg2); border: 1px solid var(--faint); border-radius: var(--radius);
+  padding: 9px 14px; font-size: 12px; color: var(--mid); cursor: pointer;
+  font-family: inherit; transition: all .15s; white-space: nowrap;
+}
+.sort-btn:hover { border-color: var(--amber); color: var(--amber); }
+.sort-btn.active { background: var(--amber-bg); border-color: var(--amber); color: var(--amber); }
+
+/* ── Table ── */
+.table-wrap { overflow-x: auto; }
+table {
+  width: 100%; border-collapse: collapse; font-size: 12px;
+}
+th {
+  text-align: left; padding: 10px 14px; font-size: 10px;
+  text-transform: uppercase; letter-spacing: .5px; color: var(--soft);
+  border-bottom: 1px solid var(--faint); font-weight: 600;
+  cursor: pointer; white-space: nowrap; user-select: none;
+}
+th:hover { color: var(--amber); }
+th .sort-arrow { margin-left: 4px; font-size: 9px; }
+td {
+  padding: 10px 14px; border-bottom: 1px solid rgba(62,52,40,.4);
+  vertical-align: top;
+}
+tr:hover td { background: rgba(208,128,32,.03); }
+.title-cell {
+  max-width: 340px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  color: var(--ink); font-weight: 500;
+}
+.title-cell a { color: var(--ink); text-decoration: none; }
+.title-cell a:hover { color: var(--amber); }
+.slug-cell { font-size: 11px; color: var(--soft); font-family: monospace; }
+.cat-badge {
+  display: inline-block; padding: 2px 8px; border-radius: 4px;
+  font-size: 10px; font-weight: 600; letter-spacing: .2px;
+}
+.cat-technology { background: rgba(26,58,96,.3); color: #6090cc; }
+.cat-analytics { background: rgba(58,16,112,.3); color: #9060cc; }
+.cat-industry { background: rgba(10,74,64,.3); color: #40a890; }
+.cat-travel { background: rgba(106,0,26,.3); color: #cc5070; }
+.cat-leisure { background: rgba(106,48,0,.3); color: #cc8840; }
+.cat-society { background: rgba(26,74,40,.3); color: #50b068; }
+.cat-life { background: rgba(122,40,8,.3); color: #cc7050; }
+.num-cell { text-align: center; font-family: 'Lora', serif; font-weight: 600; font-size: 14px; }
+.num-high { color: var(--amber); }
+.num-low { color: var(--red); }
+.num-ok { color: var(--green); }
+
+/* ── Bar chart (inline) ── */
+.bar-wrap { display: flex; align-items: center; gap: 8px; min-width: 120px; }
+.bar-track { flex: 1; height: 6px; background: var(--faint); border-radius: 3px; overflow: hidden; }
+.bar-fill { height: 100%; border-radius: 3px; transition: width .3s; }
+.bar-fill.amber { background: var(--amber); }
+.bar-fill.green { background: var(--green); }
+.bar-fill.red { background: var(--red); }
+.bar-fill.blue { background: var(--blue); }
+.bar-label { font-size: 11px; color: var(--mid); min-width: 24px; text-align: right; }
+
+/* ── Cluster cards ── */
+.cluster-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+.cluster-card {
+  background: var(--bg2); border: 1px solid var(--faint);
+  border-radius: var(--radius); padding: 18px; transition: border-color .15s;
+}
+.cluster-card:hover { border-color: var(--amber-bd); }
+.cluster-cat {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 12px;
+}
+.cluster-count { font-family: 'Lora', serif; font-size: 20px; font-weight: 600; color: #fff; }
+.cluster-name { font-size: 11px; color: var(--soft); text-transform: uppercase; letter-spacing: .4px; }
+.cluster-stats { font-size: 11px; color: var(--mid); line-height: 1.8; }
+.cluster-stats span { color: var(--ink); font-weight: 600; }
+
+/* ── Detail panel ── */
+.detail-panel {
+  background: var(--bg2); border: 1px solid var(--faint);
+  border-radius: var(--radius-lg); padding: 24px; margin-bottom: 20px;
+}
+.detail-title { font-family: 'Lora', serif; font-size: 16px; color: #fff; margin-bottom: 4px; }
+.detail-meta { font-size: 11px; color: var(--soft); margin-bottom: 16px; }
+.detail-section { margin-bottom: 16px; }
+.detail-section-title { font-size: 10px; text-transform: uppercase; letter-spacing: .5px; color: var(--soft); margin-bottom: 8px; font-weight: 600; }
+.detail-link-list { list-style: none; }
+.detail-link-list li {
+  padding: 6px 0; border-bottom: 1px solid rgba(62,52,40,.3);
+  font-size: 12px; display: flex; justify-content: space-between; align-items: center;
+}
+.detail-link-list li:last-child { border-bottom: none; }
+.detail-link-name { color: var(--ink); }
+.detail-link-cat { font-size: 10px; }
+
+/* ── Pagination ── */
+.pagination {
+  display: flex; align-items: center; justify-content: center;
+  gap: 8px; margin-top: 16px; padding-top: 16px;
+  border-top: 1px solid var(--faint);
+}
+.page-btn {
+  padding: 6px 14px; border-radius: var(--radius); border: 1px solid var(--faint);
+  background: var(--bg2); color: var(--mid); font-size: 12px; cursor: pointer;
+  font-family: inherit; transition: all .15s;
+}
+.page-btn:hover { border-color: var(--amber); color: var(--amber); }
+.page-btn:disabled { opacity: .3; cursor: default; }
+.page-btn:disabled:hover { border-color: var(--faint); color: var(--mid); }
+.page-info { font-size: 11px; color: var(--soft); }
+
+/* ── Empty state ── */
+.empty-state {
+  text-align: center; padding: 60px 20px; color: var(--soft); font-size: 13px;
+}
+.empty-state svg { width: 48px; height: 48px; fill: var(--faint); margin-bottom: 12px; }
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  body { padding: 16px; }
+  .stats-row { grid-template-columns: repeat(2, 1fr); }
+  .page-header { flex-wrap: wrap; }
+  .header-right { margin-left: 0; width: 100%; justify-content: flex-start; }
+  .stat-value { font-size: 22px; }
+  .title-cell { max-width: 200px; }
+}
+@media (max-width: 480px) {
+  .stats-row { grid-template-columns: 1fr; }
+  .tabs { gap: 0; }
+  .tab { padding: 8px 12px; font-size: 11px; }
+}
+</style>
+</head>
+<body>
+
+<!-- Loading screen -->
+<div id="loadingScreen" class="loading-screen">
+  <div class="spinner"></div>
+  <div class="loading-text">Loading link data...</div>
+</div>
+
+<!-- Main content (hidden until loaded) -->
+<div id="mainContent" style="display:none;">
+
+  <!-- Header -->
+  <div class="page-header">
+    <div class="page-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372.1 74 321.1 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.8l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z"/></svg>
+    </div>
+    <div>
+      <div class="page-title">Link Inspector</div>
+      <div class="page-sub">Internal cross-linking diagnostics and health report</div>
+    </div>
+    <div class="header-right">
+      <div class="gen-time" id="genTime"></div>
+    </div>
+  </div>
+
+  <!-- Error banner (hidden by default) -->
+  <div id="errorBanner" class="error-banner" style="display:none;"></div>
+
+  <!-- Stats row -->
+  <div class="stats-row" id="statsRow"></div>
+
+  <!-- Tabs -->
+  <div class="tabs" id="tabBar">
+    <button class="tab active" data-tab="overview">Overview</button>
+    <button class="tab" data-tab="inbound">Inbound Links</button>
+    <button class="tab" data-tab="outbound">Outbound Links</button>
+    <button class="tab" data-tab="orphans">Orphan Check</button>
+    <button class="tab" data-tab="clusters">Category Clusters</button>
+    <button class="tab" data-tab="weakest">Weakest Links</button>
+  </div>
+
+  <!-- Tab panels -->
+  <div id="panelOverview" class="tab-panel"></div>
+  <div id="panelInbound" class="tab-panel" style="display:none;"></div>
+  <div id="panelOutbound" class="tab-panel" style="display:none;"></div>
+  <div id="panelOrphans" class="tab-panel" style="display:none;"></div>
+  <div id="panelClusters" class="tab-panel" style="display:none;"></div>
+  <div id="panelWeakest" class="tab-panel" style="display:none;"></div>
+
+</div>
+
+<script>
+(function() {
+  'use strict';
+
+  const PER_PAGE = 30;
+  let postsData = [];
+  let relatedData = {};
+  let postsBySlug = {};
+  let inboundMap = {};   // slug -> [slugs that link TO it]
+  let outboundMap = {};  // slug -> [slugs it links TO]
+  let allSlugs = [];
+  let generated = '';
+
+  // ── Data loading ──
+  async function loadData() {
+    try {
+      const [postsRes, relRes] = await Promise.all([
+        fetch('/admin/posts-data.json'),
+        fetch('/admin/related-data.json')
+      ]);
+      if (!postsRes.ok) throw new Error('Could not load posts-data.json');
+      if (!relRes.ok) throw new Error('Could not load related-data.json (has the site been rebuilt after adding the related posts script?)');
+
+      postsData = await postsRes.json();
+      const relRaw = await relRes.json();
+      relatedData = relRaw.relations || {};
+      generated = relRaw.generated || '';
+
+      // Build lookup
+      postsData.forEach(p => { postsBySlug[p.slug] = p; });
+      allSlugs = Object.keys(relatedData);
+
+      // Build inbound/outbound maps
+      allSlugs.forEach(slug => {
+        outboundMap[slug] = (relatedData[slug] || []).map(r => r.slug);
+      });
+      allSlugs.forEach(slug => { inboundMap[slug] = []; });
+      allSlugs.forEach(slug => {
+        (outboundMap[slug] || []).forEach(target => {
+          if (inboundMap[target]) inboundMap[target].push(slug);
+        });
+      });
+
+      return true;
+    } catch (err) {
+      document.getElementById('errorBanner').textContent = err.message;
+      document.getElementById('errorBanner').style.display = 'block';
+      return false;
+    }
+  }
+
+  // ── Helpers ──
+  function catClass(cat) { return 'cat-' + (cat || 'life').toLowerCase(); }
+  function getPost(slug) { return postsBySlug[slug] || { title: slug, slug: slug, categories: [], url: '#' }; }
+
+  function makeBar(val, max, color) {
+    const pct = max > 0 ? Math.min(val / max * 100, 100) : 0;
+    return `<div class="bar-wrap">
+      <div class="bar-track"><div class="bar-fill ${color}" style="width:${pct}%"></div></div>
+      <div class="bar-label">${val}</div>
+    </div>`;
+  }
+
+  // ── Stats ──
+  function renderStats() {
+    const totalPosts = allSlugs.length;
+    const totalLinks = allSlugs.reduce((s, sl) => s + (outboundMap[sl] || []).length, 0);
+    const avgOut = totalPosts > 0 ? (totalLinks / totalPosts).toFixed(1) : 0;
+    const inboundCounts = allSlugs.map(sl => (inboundMap[sl] || []).length);
+    const orphanCount = inboundCounts.filter(c => c === 0).length;
+    const maxInbound = Math.max(...inboundCounts, 0);
+    const avgInbound = totalPosts > 0 ? (inboundCounts.reduce((a,b) => a+b, 0) / totalPosts).toFixed(1) : 0;
+
+    // Cross-category links
+    let crossCat = 0;
+    allSlugs.forEach(slug => {
+      const srcPost = getPost(slug);
+      const srcCat = (srcPost.categories || [])[0] || '';
+      (outboundMap[slug] || []).forEach(tSlug => {
+        const tPost = getPost(tSlug);
+        const tCat = (tPost.categories || [])[0] || '';
+        if (srcCat && tCat && srcCat.toLowerCase() !== tCat.toLowerCase()) crossCat++;
+      });
+    });
+
+    document.getElementById('statsRow').innerHTML = `
+      <div class="stat-card"><div class="stat-value blue">${totalPosts}</div><div class="stat-label">Posts Indexed</div></div>
+      <div class="stat-card"><div class="stat-value amber">${totalLinks}</div><div class="stat-label">Total Links</div></div>
+      <div class="stat-card"><div class="stat-value">${avgOut}</div><div class="stat-label">Avg Outbound / Post</div></div>
+      <div class="stat-card"><div class="stat-value">${avgInbound}</div><div class="stat-label">Avg Inbound / Post</div></div>
+      <div class="stat-card"><div class="stat-value ${orphanCount === 0 ? 'green' : 'red'}">${orphanCount}</div><div class="stat-label">Orphans</div></div>
+      <div class="stat-card"><div class="stat-value">${maxInbound}</div><div class="stat-label">Max Inbound</div></div>
+      <div class="stat-card"><div class="stat-value">${crossCat}</div><div class="stat-label">Cross-Category Links</div></div>
+    `;
+    if (generated) {
+      document.getElementById('genTime').innerHTML = 'Data generated<br>' + new Date(generated).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+    }
+  }
+
+  // ── Tab: Overview ──
+  function renderOverview() {
+    const inboundCounts = allSlugs.map(sl => (inboundMap[sl] || []).length);
+    const maxInbound = Math.max(...inboundCounts, 0);
+
+    // Distribution histogram
+    const buckets = {};
+    inboundCounts.forEach(c => { buckets[c] = (buckets[c] || 0) + 1; });
+    const bucketKeys = Object.keys(buckets).map(Number).sort((a,b) => a - b);
+    const maxBucket = Math.max(...Object.values(buckets), 1);
+
+    let histHtml = '<div style="margin-bottom:24px;">';
+    histHtml += '<div class="detail-section-title">Inbound Link Distribution</div>';
+    histHtml += '<div style="display:flex;align-items:flex-end;gap:4px;height:120px;padding-top:8px;">';
+    bucketKeys.forEach(k => {
+      const h = Math.max((buckets[k] / maxBucket) * 100, 4);
+      histHtml += `<div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;">
+        <div style="font-size:10px;color:var(--mid);margin-bottom:4px;">${buckets[k]}</div>
+        <div style="width:100%;max-width:40px;height:${h}%;background:var(--amber);border-radius:3px 3px 0 0;min-height:4px;"></div>
+        <div style="font-size:9px;color:var(--soft);margin-top:4px;">${k}</div>
+      </div>`;
+    });
+    histHtml += '</div>';
+    histHtml += '<div style="font-size:10px;color:var(--soft);text-align:center;margin-top:6px;">Inbound links per post</div>';
+    histHtml += '</div>';
+
+    // Top 10 most linked
+    const topInbound = allSlugs
+      .map(sl => ({ slug: sl, count: (inboundMap[sl] || []).length }))
+      .sort((a,b) => b.count - a.count)
+      .slice(0, 10);
+
+    let topHtml = '<div class="detail-section-title">Top 10 Most Linked Posts</div>';
+    topHtml += '<div class="table-wrap"><table><thead><tr><th>Post</th><th>Category</th><th>Inbound</th></tr></thead><tbody>';
+    topInbound.forEach(item => {
+      const p = getPost(item.slug);
+      const cat = (p.categories || [])[0] || '';
+      topHtml += `<tr>
+        <td class="title-cell"><a href="${p.url}" target="_blank">${p.title || item.slug}</a></td>
+        <td><span class="cat-badge ${catClass(cat)}">${cat}</span></td>
+        <td>${makeBar(item.count, maxInbound, 'amber')}</td>
+      </tr>`;
+    });
+    topHtml += '</tbody></table></div>';
+
+    // Bottom 10 least linked
+    const botInbound = allSlugs
+      .map(sl => ({ slug: sl, count: (inboundMap[sl] || []).length }))
+      .sort((a,b) => a.count - b.count)
+      .slice(0, 10);
+
+    let botHtml = '<div class="detail-section-title" style="margin-top:24px;">Bottom 10 Least Linked Posts</div>';
+    botHtml += '<div class="table-wrap"><table><thead><tr><th>Post</th><th>Category</th><th>Inbound</th></tr></thead><tbody>';
+    botInbound.forEach(item => {
+      const p = getPost(item.slug);
+      const cat = (p.categories || [])[0] || '';
+      botHtml += `<tr>
+        <td class="title-cell"><a href="${p.url}" target="_blank">${p.title || item.slug}</a></td>
+        <td><span class="cat-badge ${catClass(cat)}">${cat}</span></td>
+        <td class="num-cell ${item.count === 0 ? 'num-low' : 'num-ok'}">${item.count}</td>
+      </tr>`;
+    });
+    botHtml += '</tbody></table></div>';
+
+    document.getElementById('panelOverview').innerHTML = histHtml + topHtml + botHtml;
+  }
+
+  // ── Paginated table builder ──
+  function renderPaginatedTable(panelId, rows, headers, pageState) {
+    const panel = document.getElementById(panelId);
+    const total = rows.length;
+    const totalPages = Math.ceil(total / PER_PAGE);
+    const page = pageState.page || 1;
+    const start = (page - 1) * PER_PAGE;
+    const pageRows = rows.slice(start, start + PER_PAGE);
+
+    let html = '<div class="table-wrap"><table><thead><tr>';
+    headers.forEach(h => { html += `<th>${h}</th>`; });
+    html += '</tr></thead><tbody>';
+    pageRows.forEach(r => { html += r; });
+    if (pageRows.length === 0) {
+      html += `<tr><td colspan="${headers.length}" style="text-align:center;color:var(--soft);padding:40px;">No results</td></tr>`;
+    }
+    html += '</tbody></table></div>';
+
+    if (totalPages > 1) {
+      html += `<div class="pagination">
+        <button class="page-btn" data-dir="prev" ${page <= 1 ? 'disabled' : ''}>Prev</button>
+        <span class="page-info">${page} / ${totalPages} (${total} posts)</span>
+        <button class="page-btn" data-dir="next" ${page >= totalPages ? 'disabled' : ''}>Next</button>
+      </div>`;
+    }
+    panel.innerHTML = html;
+
+    panel.querySelectorAll('.page-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        if (btn.dataset.dir === 'prev' && pageState.page > 1) pageState.page--;
+        if (btn.dataset.dir === 'next' && pageState.page < totalPages) pageState.page++;
+        pageState.render();
+      });
+    });
+  }
+
+  // ── Tab: Inbound ──
+  const inboundState = { page: 1, search: '', cat: '', sort: 'desc' };
+  function renderInbound() {
+    const maxIn = Math.max(...allSlugs.map(sl => (inboundMap[sl] || []).length), 1);
+    let items = allSlugs.map(sl => {
+      const p = getPost(sl);
+      return { slug: sl, title: p.title || sl, cat: (p.categories || [])[0] || '', url: p.url, count: (inboundMap[sl] || []).length };
+    });
+
+    if (inboundState.search) {
+      const q = inboundState.search.toLowerCase();
+      items = items.filter(i => i.title.toLowerCase().includes(q) || i.slug.toLowerCase().includes(q));
+    }
+    if (inboundState.cat) items = items.filter(i => i.cat.toLowerCase() === inboundState.cat.toLowerCase());
+    items.sort((a,b) => inboundState.sort === 'desc' ? b.count - a.count : a.count - b.count);
+
+    const rows = items.map(i => `<tr>
+      <td class="title-cell"><a href="${i.url}" target="_blank">${i.title}</a></td>
+      <td><span class="cat-badge ${catClass(i.cat)}">${i.cat}</span></td>
+      <td>${makeBar(i.count, maxIn, i.count === 0 ? 'red' : 'amber')}</td>
+      <td class="slug-cell">${i.slug}</td>
+    </tr>`);
+
+    // Build search row
+    const cats = [...new Set(allSlugs.map(sl => (getPost(sl).categories || [])[0] || '').filter(Boolean))].sort();
+    let searchHtml = `<div class="search-row">
+      <input class="search-input" type="text" placeholder="Search posts..." value="${inboundState.search}" id="inboundSearch">
+      <select class="filter-select" id="inboundCat">
+        <option value="">All Categories</option>
+        ${cats.map(c => `<option value="${c}" ${inboundState.cat === c ? 'selected' : ''}>${c}</option>`).join('')}
+      </select>
+      <button class="sort-btn ${inboundState.sort === 'desc' ? 'active' : ''}" id="inboundSort">
+        ${inboundState.sort === 'desc' ? 'Most First' : 'Least First'}
+      </button>
+    </div>`;
+
+    document.getElementById('panelInbound').innerHTML = searchHtml + '<div id="inboundTable"></div>';
+    renderPaginatedTable('inboundTable', rows, ['Post', 'Category', 'Inbound Links', 'Slug'], { page: inboundState.page, render: renderInbound });
+
+    document.getElementById('inboundSearch').addEventListener('input', e => { inboundState.search = e.target.value; inboundState.page = 1; renderInbound(); });
+    document.getElementById('inboundCat').addEventListener('change', e => { inboundState.cat = e.target.value; inboundState.page = 1; renderInbound(); });
+    document.getElementById('inboundSort').addEventListener('click', () => { inboundState.sort = inboundState.sort === 'desc' ? 'asc' : 'desc'; inboundState.page = 1; renderInbound(); });
+  }
+
+  // ── Tab: Outbound ──
+  const outboundState = { page: 1, search: '', cat: '' };
+  function renderOutbound() {
+    const maxOut = Math.max(...allSlugs.map(sl => (outboundMap[sl] || []).length), 1);
+    let items = allSlugs.map(sl => {
+      const p = getPost(sl);
+      const outLinks = (outboundMap[sl] || []);
+      const crossCat = outLinks.filter(tsl => {
+        const tp = getPost(tsl);
+        return ((tp.categories||[])[0]||'').toLowerCase() !== ((p.categories||[])[0]||'').toLowerCase();
+      }).length;
+      return { slug: sl, title: p.title || sl, cat: (p.categories || [])[0] || '', url: p.url, count: outLinks.length, crossCat };
+    });
+
+    if (outboundState.search) {
+      const q = outboundState.search.toLowerCase();
+      items = items.filter(i => i.title.toLowerCase().includes(q) || i.slug.toLowerCase().includes(q));
+    }
+    if (outboundState.cat) items = items.filter(i => i.cat.toLowerCase() === outboundState.cat.toLowerCase());
+    items.sort((a,b) => b.count - a.count);
+
+    const rows = items.map(i => `<tr>
+      <td class="title-cell"><a href="${i.url}" target="_blank">${i.title}</a></td>
+      <td><span class="cat-badge ${catClass(i.cat)}">${i.cat}</span></td>
+      <td>${makeBar(i.count, maxOut, 'blue')}</td>
+      <td class="num-cell" style="color:${i.crossCat > 0 ? 'var(--amber)' : 'var(--soft)'}">${i.crossCat}</td>
+    </tr>`);
+
+    const cats = [...new Set(allSlugs.map(sl => (getPost(sl).categories || [])[0] || '').filter(Boolean))].sort();
+    let searchHtml = `<div class="search-row">
+      <input class="search-input" type="text" placeholder="Search posts..." value="${outboundState.search}" id="outboundSearch">
+      <select class="filter-select" id="outboundCat">
+        <option value="">All Categories</option>
+        ${cats.map(c => `<option value="${c}" ${outboundState.cat === c ? 'selected' : ''}>${c}</option>`).join('')}
+      </select>
+    </div>`;
+
+    document.getElementById('panelOutbound').innerHTML = searchHtml + '<div id="outboundTable"></div>';
+    renderPaginatedTable('outboundTable', rows, ['Post', 'Category', 'Outbound Links', 'Cross-Category'], { page: outboundState.page, render: renderOutbound });
+
+    document.getElementById('outboundSearch').addEventListener('input', e => { outboundState.search = e.target.value; outboundState.page = 1; renderOutbound(); });
+    document.getElementById('outboundCat').addEventListener('change', e => { outboundState.cat = e.target.value; outboundState.page = 1; renderOutbound(); });
+  }
+
+  // ── Tab: Orphans ──
+  function renderOrphans() {
+    const orphans = allSlugs.filter(sl => (inboundMap[sl] || []).length === 0);
+    let html = '';
+
+    if (orphans.length === 0) {
+      html = `<div class="detail-panel" style="text-align:center;">
+        <div style="font-size:40px;margin-bottom:12px;">&#10003;</div>
+        <div class="detail-title" style="color:var(--green);">No Orphans Found</div>
+        <div class="detail-meta">Every post is linked to by at least one other post. Full crawl coverage confirmed.</div>
+      </div>`;
+    } else {
+      html = `<div class="error-banner" style="margin-bottom:16px;">
+        ${orphans.length} orphan${orphans.length > 1 ? 's' : ''} found. These posts have zero inbound links and may not be discoverable via internal navigation.
+      </div>`;
+      html += '<div class="table-wrap"><table><thead><tr><th>Post</th><th>Category</th><th>Outbound</th><th>Slug</th></tr></thead><tbody>';
+      orphans.forEach(sl => {
+        const p = getPost(sl);
+        const cat = (p.categories || [])[0] || '';
+        html += `<tr>
+          <td class="title-cell"><a href="${p.url}" target="_blank">${p.title || sl}</a></td>
+          <td><span class="cat-badge ${catClass(cat)}">${cat}</span></td>
+          <td class="num-cell">${(outboundMap[sl] || []).length}</td>
+          <td class="slug-cell">${sl}</td>
+        </tr>`;
+      });
+      html += '</tbody></table></div>';
+    }
+
+    document.getElementById('panelOrphans').innerHTML = html;
+  }
+
+  // ── Tab: Clusters ──
+  function renderClusters() {
+    const catMap = {};
+    allSlugs.forEach(sl => {
+      const p = getPost(sl);
+      const cat = (p.categories || [])[0] || 'Uncategorized';
+      if (!catMap[cat]) catMap[cat] = { posts: [], intraLinks: 0, interLinks: 0 };
+      catMap[cat].posts.push(sl);
+    });
+
+    // Count intra vs inter links
+    allSlugs.forEach(sl => {
+      const p = getPost(sl);
+      const srcCat = (p.categories || [])[0] || 'Uncategorized';
+      (outboundMap[sl] || []).forEach(tsl => {
+        const tp = getPost(tsl);
+        const tCat = (tp.categories || [])[0] || 'Uncategorized';
+        if (srcCat === tCat) { catMap[srcCat].intraLinks++; }
+        else { catMap[srcCat].interLinks++; }
+      });
+    });
+
+    const cats = Object.keys(catMap).sort((a,b) => catMap[b].posts.length - catMap[a].posts.length);
+    let html = '<div class="cluster-grid">';
+    cats.forEach(cat => {
+      const d = catMap[cat];
+      const totalOut = d.intraLinks + d.interLinks;
+      const intraPct = totalOut > 0 ? ((d.intraLinks / totalOut) * 100).toFixed(0) : 0;
+      const avgInbound = d.posts.length > 0
+        ? (d.posts.reduce((s, sl) => s + (inboundMap[sl] || []).length, 0) / d.posts.length).toFixed(1)
+        : 0;
+
+      html += `<div class="cluster-card">
+        <div class="cluster-cat">
+          <span class="cat-badge ${catClass(cat)}">${cat}</span>
+          <span class="cluster-count">${d.posts.length}</span>
+          <span class="cluster-name">posts</span>
+        </div>
+        <div class="cluster-stats">
+          Intra-category links: <span>${d.intraLinks}</span><br>
+          Cross-category links: <span>${d.interLinks}</span><br>
+          Same-category ratio: <span>${intraPct}%</span><br>
+          Avg inbound per post: <span>${avgInbound}</span>
+        </div>
+      </div>`;
+    });
+    html += '</div>';
+
+    document.getElementById('panelClusters').innerHTML = html;
+  }
+
+  // ── Tab: Weakest Links ──
+  const weakestState = { page: 1, search: '' };
+  function renderWeakest() {
+    // Posts with fewest total connections (inbound + outbound)
+    let items = allSlugs.map(sl => {
+      const p = getPost(sl);
+      const inCount = (inboundMap[sl] || []).length;
+      const outCount = (outboundMap[sl] || []).length;
+      return {
+        slug: sl, title: p.title || sl, cat: (p.categories || [])[0] || '',
+        url: p.url, inbound: inCount, outbound: outCount, total: inCount + outCount
+      };
+    }).sort((a,b) => a.total - b.total);
+
+    if (weakestState.search) {
+      const q = weakestState.search.toLowerCase();
+      items = items.filter(i => i.title.toLowerCase().includes(q) || i.slug.toLowerCase().includes(q));
+    }
+
+    const maxTotal = Math.max(...items.map(i => i.total), 1);
+    const rows = items.map(i => `<tr>
+      <td class="title-cell"><a href="${i.url}" target="_blank">${i.title}</a></td>
+      <td><span class="cat-badge ${catClass(i.cat)}">${i.cat}</span></td>
+      <td class="num-cell">${i.inbound}</td>
+      <td class="num-cell">${i.outbound}</td>
+      <td>${makeBar(i.total, maxTotal, i.total <= 2 ? 'red' : i.total <= 5 ? 'amber' : 'green')}</td>
+    </tr>`);
+
+    let searchHtml = `<div class="search-row">
+      <input class="search-input" type="text" placeholder="Search posts..." value="${weakestState.search}" id="weakestSearch">
+      <div style="font-size:11px;color:var(--soft);">Sorted by total connections (inbound + outbound), weakest first</div>
+    </div>`;
+
+    document.getElementById('panelWeakest').innerHTML = searchHtml + '<div id="weakestTable"></div>';
+    renderPaginatedTable('weakestTable', rows, ['Post', 'Category', 'In', 'Out', 'Total Connections'], { page: weakestState.page, render: renderWeakest });
+
+    document.getElementById('weakestSearch').addEventListener('input', e => { weakestState.search = e.target.value; weakestState.page = 1; renderWeakest(); });
+  }
+
+  // ── Tab switching ──
+  function initTabs() {
+    const panels = {
+      overview: { el: 'panelOverview', render: renderOverview },
+      inbound: { el: 'panelInbound', render: renderInbound },
+      outbound: { el: 'panelOutbound', render: renderOutbound },
+      orphans: { el: 'panelOrphans', render: renderOrphans },
+      clusters: { el: 'panelClusters', render: renderClusters },
+      weakest: { el: 'panelWeakest', render: renderWeakest },
+    };
+    const rendered = {};
+
+    document.getElementById('tabBar').addEventListener('click', e => {
+      const tab = e.target.closest('.tab');
+      if (!tab) return;
+      const key = tab.dataset.tab;
+
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      tab.classList.add('active');
+      document.querySelectorAll('.tab-panel').forEach(p => p.style.display = 'none');
+      document.getElementById(panels[key].el).style.display = 'block';
+
+      if (!rendered[key]) { panels[key].render(); rendered[key] = true; }
+    });
+
+    // Render default tab
+    renderOverview();
+    rendered.overview = true;
+  }
+
+  // ── Init ──
+  async function init() {
+    const ok = await loadData();
+    document.getElementById('loadingScreen').style.display = 'none';
+    document.getElementById('mainContent').style.display = 'block';
+    if (!ok) return;
+    renderStats();
+    initTabs();
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+</body>
+</html>
