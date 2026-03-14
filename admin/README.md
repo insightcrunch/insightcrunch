@@ -11,6 +11,7 @@ All admin pages are encrypted with [StatiCrypt](https://github.com/robinmoisson/
 | `index.html` | Encrypted | Dashboard shell with sidebar navigation |
 | `posts.html` | Encrypted | Posts dashboard (table, search, SEO scores) |
 | `scheduled.html` | Encrypted | Scheduled posts viewer (GitHub API) |
+| `doctor.html` | Encrypted | Posts Doctor (quality audit, issue detection) |
 | `article-ideas.html` | Encrypted | AI article idea generator |
 | `posts-data.json` | Jekyll template | Generates JSON of all posts at build time |
 | `ic-password-template.html` | Template | Custom StatiCrypt password prompt UI |
@@ -66,7 +67,7 @@ npx staticrypt <inner-file>.html \
   -d output \
   --remember 30 \
   --template-title "Admin Area" \
-  --template-button "UNLOCK" \
+  --template-button UNLOCK \
   --template-placeholder "Enter password" \
   --template-error "Incorrect password. Please try again." \
   --template-instructions "Enter the admin password to access this page." \
@@ -100,7 +101,13 @@ This is a Jekyll/Liquid template that generates JSON at build time. It iterates 
 
 ## Scheduled Posts Page Notes
 
-`scheduled.html` uses the public GitHub API (`api.github.com/repos/insightcrunch/insightcrunch/contents/_posts`) to list files and filter for future-dated filenames. It does NOT use `site.posts` because `_config.yml` has `future: false`, so Jekyll excludes future posts from all Liquid loops. No API key is needed since the repo is public.
+`scheduled.html` uses the public GitHub API to list files in `_posts/` and filters for future-dated filenames. For each future file, it fetches the raw markdown from `raw.githubusercontent.com` to parse YAML frontmatter (title, categories, tags, image, excerpt) and count words from the body. This is needed because `_config.yml` has `future: false`, so Jekyll excludes future posts from all Liquid loops including `posts-data.json`. No API key is needed since the repo is public.
+
+---
+
+## Posts Doctor Page Notes
+
+`doctor.html` loads from the same `posts-data.json` as the Posts Dashboard. It runs quality diagnostics on every post and shows only those with issues. Checks include: missing featured image, missing excerpt, no tags, thin content (<300 words), short content (<600 words), title too long/short, slug too long, and poor SEO score (<50). Each issue is classified as critical or warning. Filters allow drilling down by issue type, category, and sort order.
 
 ---
 
