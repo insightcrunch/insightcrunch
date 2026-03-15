@@ -58,7 +58,7 @@ jobs:
       # ── Freshness + meta description rotation (schedule/manual only) ──
       - name: Update post freshness and rotate meta descriptions
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
-        run: python _scripts/update_freshness.py --batch-size 500
+        run: python _scripts/update_freshness.py --batch-size 15
 
       - name: Commit freshness and meta updates
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
