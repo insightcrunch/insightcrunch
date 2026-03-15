@@ -20,7 +20,7 @@ layout: default
            data-title="{{ post.title | downcase }}"
            data-cat="{{ cat }}"
            data-tags="{{ post.tags | join: ' ' | downcase }}"
-           data-body="{{ post.content | strip_html | strip_newlines | truncate: 500 | downcase | escape }}">>
+           data-body="{{ post.content | strip_html | strip_newlines | truncate: 500 | downcase | escape }}">
     <div class="post-r1">
       <a href="{{ post.url | relative_url }}" class="tag tag-{{ cat }}">{{ post.categories | first }}</a>
       <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
