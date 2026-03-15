@@ -8,8 +8,8 @@ excerpt: "One of the greatest setbacks for the IT industry a horrifying moment f
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 One of the greatest setbacks for the IT industry a horrifying moment for the stock market.. Satyam chief B. Ramalinga Raju played around with 7136 crores to reduce his company to shambles !! 
 ![Angry](/assets/images/technology-industry-analysis-insightcrunch.webp)
 

@@ -8,8 +8,8 @@ excerpt: "The most staggering question in today’s world of Wordpress, Blogger,
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The most staggering question in today’s world of Wordpress, Blogger, Typepad and several such sites has left me wondering, actually why do so many people blog? In fact, why was it that I started blogging, though being not into writing for the last seven years (I loved writing long essays in school). It seems to have a charm of its own, true, but to engross so many people all over the world is not just its charm, but have got to be something more than that. Frankly, I just thought of jotting down some reasons which just might explain the cause…
 
 **1.** A class of people who love writing, have been gifted with tremendous writing skills, have made their names as writers. Their articles regularly get published in renowned magazines, etc. They love to have their own blog as a secondary way of expressing their emotions, whatever they feel like saying..only without getting paid in this case, maybe even getting paid in some cases.

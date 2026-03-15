@@ -8,8 +8,8 @@ excerpt: "Yesterday’s incident was really one to be remembered. Bush came to I
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Yesterday’s incident was really one to be remembered. Bush came to Iraq to meet the Prime Minister. Later, while holding a press conference, where he highlighted how America played a role in bringing the country’s peace back and  how to move forward, a reported working for an Iraqi television station just suddenly took off one of his shoes and hurled them at the president. Shouting that this was his farewell gift, summoning him as a dog. The incident really made me feel strange. The most powerful man on earth being confronted with a shoe like this.
 
 ![George Bush Shoe Throw Incident in Iraq](/assets/images/technology-industry-analysis-insightcrunch.webp)

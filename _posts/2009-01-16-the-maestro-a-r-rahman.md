@@ -8,8 +8,8 @@ excerpt: "I have always been an ardent fan of this amazingly talented musician..
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 I have always been an ardent fan of this amazingly talented musician..just hope its time for him to bag a few Oscars after this Golden Globe award. His songs simply stand apart from the lot, filled with extreme passion and emotion..a trademark of his own.
 
 ![The Genius of A.R. Rahman](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -8,8 +8,8 @@ excerpt: "Its been quite a while since I cracked TCS this year on the 19th of Fe
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Its been quite a while since I cracked TCS this year on the 19th of Feb. But I have been longing to share the wonderful experience that I went through during that time, and here it is. It was really unique. I never really did anything special for it except for revising a few subjects of previous semesters. After spending 15 years in South Point, I was more than a bit confident that my communication skill wouldn’t be a problem. So it all came down to brushing up my soft skills, revising subjects from old semesters and practising quantitave aptitude and reasoning from R.S.Agarwal, the very popular book amongst all engineering students.

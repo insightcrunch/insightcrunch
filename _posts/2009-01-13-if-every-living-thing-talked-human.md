@@ -8,8 +8,8 @@ excerpt: "As a kid I often wondered if only I could have communicated with my pe
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 As a kid I often wondered if only I could have communicated with my pet dog, an Alsatian..which used to be my best friend back home. What if other than playing with balls and Freezbie we could talk to each other..just what he felt like…
 
 ![Dog Comics Talking Confession Drawing Art](/assets/images/technology-industry-analysis-insightcrunch.webp)

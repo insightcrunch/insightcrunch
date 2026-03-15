@@ -8,8 +8,8 @@ excerpt: "The tragedy in Mumbai can be nothing but a total collapse of our Intel
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The tragedy in Mumbai can be nothing but a total collapse of our Intelligence failure. When we have been warned of the attacks, even their locations specified as 5-star hotels by the US and some other countries, its really a shame that we couldn’t deal with it efficiently. Credits goes to the NSG, commandos, jawans and the hotel staff. That we at least put up a fight with our old guns and *so-called* bulletproof jackets (one of which was pierced and led to the death of a brave official) is a miracle in itself. I think its high time that we act, the politicians act, the entire administration and security system acts as Indians. Not to save our chairs, but to save our future generations.
 
 Read more: [How to become a famous blogger »](https://insightcrunch.com/2008/12/12/how-to-become-a-famous-blogger/)

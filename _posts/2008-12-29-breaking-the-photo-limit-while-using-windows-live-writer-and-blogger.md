@@ -8,8 +8,8 @@ excerpt: "As we all know, Blogger uses Picasa Web Albums to store any image that
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 As we all know, Blogger uses Picasa Web Albums to store any image that we upload in our blog. It creates an album with the same name as the blog and stores all images from Blogger in it. As for Windows Live Writer, it creates an album of the name Windows Live Writer and stores all images (which are blogged using Windows Live Writer) there.
 
 Read more: [Box.net adopts HTML5 and adds Drag and Drop Functionality »](https://insightcrunch.com/2010/06/11/box-net-adopts-html5-and-adds-drag-and-drop-functionality/)
