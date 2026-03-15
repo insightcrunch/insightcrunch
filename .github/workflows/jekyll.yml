@@ -19,7 +19,7 @@ on:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -36,6 +36,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Ruby
         # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
@@ -52,6 +54,21 @@ jobs:
           python-version: '3.12'
       - name: Install Python dependencies
         run: pip install pyyaml
+
+      # ── Freshness rotation (runs only on schedule/manual, not on push) ──
+      - name: Update post freshness
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python _scripts/update_freshness.py --batch-size 15
+
+      - name: Commit freshness updates
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _posts/ _data/freshness_manifest.json
+          git diff --cached --quiet || git commit -m "chore: refresh last_updated on post batch [skip ci]"
+          git push
+
       - name: Generate related posts data
         run: python _scripts/generate_related_posts.py
       - name: Build with Jekyll
