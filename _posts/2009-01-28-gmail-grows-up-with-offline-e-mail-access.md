@@ -8,8 +8,8 @@ excerpt: "Significantly increasing the utility and competitiveness of its Web-ba
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Significantly increasing the utility and competitiveness of its Web-based e-mail service, Google is enabling an experimental ability to read, write, and search Gmail messages even while not connected to the network.
 
 ![Gmail grows up with offline e-mail access](/assets/images/technology-industry-analysis-insightcrunch.webp)

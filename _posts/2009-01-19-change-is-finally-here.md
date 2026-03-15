@@ -8,8 +8,8 @@ excerpt: "The D-day has finally come . The world will wait to see how the major 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The D-day has finally come . The world will wait to see how the major issues like Gaza and India-Pakistan are tackled. The economy is at its helm of turmoil at this point of time adding to the woes of his competency . Certainly he has seemed to be pretty strategic in appointing and selecting his staff.
 
 Lets  hope he brings about the long-desired change that his campaigns spoke about. I am mainly looking forward how the Indian IT industry’s future turns out to be under his leadership where so much of US works are outsourced to India in this so-very closely knit world.

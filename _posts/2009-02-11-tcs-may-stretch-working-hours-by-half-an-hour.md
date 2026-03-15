@@ -8,8 +8,8 @@ excerpt: "IT professionals working with Tata Consultancy Services (TCS) will now
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 IT professionals working with Tata Consultancy Services (TCS) will now spend more time at their workplaces, possibly as a fallout of the global economic crisis. The country’s largest software exporter has increased its work hours by 30 minutes — from the existing nine hours a day, to nine-and-a-half hours a day — two persons familiar with the development told *Business Line*.
 
 In doing so, TCS has become the second IT major to stretch its work hours, starting next year. Earlier, Accenture, in an internal communication, told its employees that they would have to work for an extra hour starting January 1.

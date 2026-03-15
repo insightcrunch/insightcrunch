@@ -8,8 +8,8 @@ excerpt: "This is just a short post from my mobile before I fall asleep now. I j
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is just a short post from my mobile before I fall asleep now. I just discovered the fun of blogging without using a computer! Now I can blog even in my tight schedule in the next 3 months !! Yeah, mayb I cant post cool pics and videos but I'll certainly try to makeup with my words :) ..Sleepy now...Good Night! ....Zzzzzz....
 
 ![Blog from Mobile](/assets/images/technology-industry-analysis-insightcrunch.webp)

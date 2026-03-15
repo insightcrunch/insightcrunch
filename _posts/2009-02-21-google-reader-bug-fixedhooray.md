@@ -8,8 +8,8 @@ excerpt: "For the past few months I had been having trouble with Google Reader. 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 For the past few months I had been having trouble with Google Reader. My subscriptions just wont show up under the Subscriptions heading though the respective articles all appeared fine in the body of the Reader. The day when Google improved on the Gmail buttons I found my Subscription list back there. A great moment for me, am back to reading all the stuffs am interested in as quick as possible again. I just love this piece of technology by Google.
 
 ![Google Reader bug fixed](/assets/images/technology-industry-analysis-insightcrunch.webp)
