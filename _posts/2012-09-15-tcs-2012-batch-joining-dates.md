@@ -8,8 +8,8 @@ excerpt: "The candidates of 2012 batch have started getting their joining dates 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The candidates of 2012 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the prestigious organization of their dreams have started providing them the joining dates. The candidates are maintaining a spreadsheet as found in several social networking sites. I am providing it here hoping you might find it useful.
 
 Read more: [TCS 2011 Batch Joining Dates »](https://insightcrunch.com/2011/06/28/tcs-2011-batch-joining-dates/)

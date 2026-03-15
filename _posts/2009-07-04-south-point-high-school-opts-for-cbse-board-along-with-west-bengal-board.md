@@ -8,8 +8,8 @@ excerpt: "South Point High School, Kolkata has got approval from the School Educ
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 South Point High School, Kolkata has got approval from the School Education Authorities to keep CBSE Board besides it’s existing famous West Bengal Board which churns out some of the best students in the state. Now it seems only a matter of time before the CBSE authorities approve this affiliation request. This system is expected to be applied 2010 onwards. This news has been announced by the Principal at the Annual Prize Distribution Ceremony at Science City today.
 
 This news comes as a new milestone for this 55 year old heritage. A Bengali news channel showed clippings of this news today. As an ex-Pointer, it feels good to say the least. Students will now be able to prepare at par with the syllabus of some of the coolest all India exams like IIT-JEE and AIEEE. Some pressure will also be relieved from the students if they choose this board as syllabus will be much lighter compared to West Bengal board. Students can choose their board before class lX or after their class X exams. But there is uncertainty whether students currently in class Vlll will be able to avail this new system.

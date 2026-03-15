@@ -8,8 +8,8 @@ excerpt: "The Oracle Data Integrator is one of the best futuristic data transfor
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle Data Integrator is one of the best futuristic data transformation and loading tools with a variety of features for the end-user. ODI as an ELT tool provides a lot of inbuilt features for data processing using different technologies.
 
 One of the most useful I find is the ODI tool OdiSqlUnload, which can be used in multiple ways in different scenarios for different purposes. To use this feature, create a new ODI procedure and in the Source tab select technology as "ODI Tools". Then using the below syntax we can create files with the listed customization options:

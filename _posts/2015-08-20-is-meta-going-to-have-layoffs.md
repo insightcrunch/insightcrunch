@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest corporations in the world with a variety of
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Meta is one of the largest corporations in the world with a variety of products in the social media segment and the virtual reality world. With a great reach across the internet population, there is a set of responsibilities that all great corporations need to adhere to in this digital age. The challenges that came with data privacy has created turbulent waters for Meta in the recent times. Consumers have become increasingly aware of their rights, and how data broker firms have been using their data too much to sell them ads. This led to phone makers like Apple implement robust privacy control features like Apple Private Relay, and other modifications to ensure user privacy. Now Facebook cannot track its users as much as before as every user can choose whether to allow each app to track them or not. With lesser data at its hands, Facebook and other Meta products are unable to show useful relevant ads to their users, thus resulting in fewer clicks and lesser revenue. Financial losses are directly affecting the Meta hiring process. Practice the Meta interview questions when you Subscribe below.

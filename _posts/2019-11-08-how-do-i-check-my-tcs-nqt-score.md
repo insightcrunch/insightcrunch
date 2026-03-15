@@ -4,12 +4,12 @@ title: "How do I check my TCS NQT Score?"
 date: 2019-11-08
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is an essential test for candidates who are looking forward to be a part of TCS. Achieving a good score in the TCS NQT exam will help you ..."
+excerpt: "How to check your TCS NQT score: step-by-step login process on the TCS portal, scorecard components, and what each section score means for your candidacy."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The Tata Consultancy Services National Qualifier Test (NQT) is an essential test for candidates who are looking forward to be a part of TCS. Achieving a good score in the TCS NQT exam will help you choose from a variety of different TCS job profiles. The TCS NQT is a large scale evaluation test that helps TCS understand the essential capabilities of each individual. Based on the assessment results there are a variety of profiles which candidates get assigned to. The salary for each of these profiles are different, hence scoring well in the TCS NQT exam can kickstart your career with a decent salary.

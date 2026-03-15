@@ -8,8 +8,8 @@ excerpt: "This is a guest post by Kaustav Dey Biswas. He is a total tech geek an
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 15
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Kaustav Dey Biswas. He is a total tech geek and loves his computer and computing stuff like anything in the world. Programming is something as natural to him as sleep. He’s sharing his Microsoft Internship Experience here.   
 
 Last summer, I got an opportunity for an Internship at Microsoft – India Development Center (MS-IDC), Hyderabad for my summer training. Microsoft IDC provides Internship to several students from all over the country every summer. For this, many engineering colleges are notified and interested pre-final year students from CS & IT disciplines are asked to submit their CVs online. The CVs are then filtered (usually by the 10+2 & Semester marks) and shortlisted students from each geographical zone are called in a written technical round consisting of MCQs. The students qualifying this test have to go through two rounds of technical interviews to make it as an ‘Intern @ Microsoft’.   

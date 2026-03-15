@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar - Picture Abhi baki hai mere dost"
 date: 2011-01-27
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "Life after TCS ILP Bhubaneswar: project allocation wait, friendships continuing, and the realization that ILP was just the beginning of the TCS journey."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 I was never a hero, and after this tragedy I had lost all possible chances to become one. Persons who had passed the exam will have great salary, great luxury, great girlfriend and my dreams were swirling down the waterfalls like the jumping heroes of Bollywood who often jump into a waterfall and get a life again without getting a small cut.

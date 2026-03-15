@@ -8,8 +8,8 @@ excerpt: "TCS has started giving out joining letters to it’s 2010 batch select
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 TCS has started giving out joining letters to it’s 2010 batch selected candidates. The wait is finally over for the thousands of candidates. The mood sure is up amongst the freshers. But the chord seems to be a bit out of tune, with a lot of discussion going on about the distribution of joining dates. For the latest batch joining information, read below.
 
 Unlike [joining dates of 2009 batch](https://insightcrunch.com/2009/09/11/tcs-joining-dates-for-2009-batch/), where joining dates where given on the basis of college rankings and streams, [joining dates of 2010 batch](https://insightcrunch.com/2010/09/04/tcs-2010-batch-joining-dates/) seems to be given on a basis which few can decipher. A lot of discussion is going on in online communities about this. But despite all this, the mood is in a brilliantly positive side. There are absolutely no causes of worries as the top IT company continues to honor the offers it made to the candidates.

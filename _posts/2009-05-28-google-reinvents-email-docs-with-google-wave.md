@@ -8,8 +8,8 @@ excerpt: "What would e-mail look like if it were invented today, rather than sev
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 What would e-mail look like if it were invented today, rather than several years ago? Here comes Google Wave, a preview application shown off at the Google I/O conference. Below is the video which would give the users a cool idea of what this is about.
 
 Read more: [My Life without Google »](https://insightcrunch.com/2009/06/03/my-life-without-google/)

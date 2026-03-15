@@ -4,12 +4,12 @@ title: "Software Engineering best practices we do ‘Not’ follow at our own ri
 date: 2012-02-16
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Software engineers all over the world were at some time or the other taught in their initial days some best practices to treat as the Bible while developing software and writing codes. But most of ..."
+excerpt: "Software engineering best practices that developers skip at their own risk. Code reviews, testing, documentation, and the shortcuts that create tech debt."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Software engineers all over the world were at some time or the other taught in their initial days some best practices to treat as the Bible while developing software and writing codes. But most of the time, we fail to undertake these steps. Due to lethargy, or time constraint, or taking things too easily, we skip the so very essential part of the best practices which can lead to some immense trouble and loss to others in the future. We will be discussing some of these serious issues now. And how we can focus on fixing our habits.
 
 ## Commenting

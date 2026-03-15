@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the top technology companies in the world that employ
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the top technology companies in the world that employs thousands of people globally. Candidates who were freshers also can get jobs at Amazon if they plan strategically and build up their skills. There are a variety of full time, part-time, and hourly opportunities at Amazon where freshers can get a job. Amazon also is one of the major leaders in the cloud computing space with Amazon Web Services where freshers can get a job where the salary and compensation is significantly higher. Amazon is one of the most competitive organizations in the technology sector and offers a great salary and employee benefits to all its employees. Besides salary, Amazon also provides medical and health insurance, along with retirement plan and generous leaves and paid time off policies. 

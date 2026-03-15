@@ -4,12 +4,12 @@ title: "TCS ILP @ Ahmadabad"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by Arvind. The views expressed are solely of the writer.*"
+excerpt: "TCS ILP Ahmedabad detailed account: daily schedule, classroom sessions, coding assessments, hostel routine, and weekend exploration in the city."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 7
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Arvind. The views expressed are solely of the writer.*
 
 I never imagined everything I am about to write get over this soon. Expectations and hopes were high. The end result - it exceeded! I went through all the *emotions that life could offer in the space of 3 months. Even death came to a striking distance on 2 occasions! Under the current circumstance all I wish is that the past 4 months of my life can be re-lived at some point of my life but thats mission impossible!

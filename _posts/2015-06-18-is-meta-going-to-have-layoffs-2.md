@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest software companies in the world today. Meta
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Meta is one of the largest software companies in the world today. Meta is the parent company, which owns multiple products like Facebook, Instagram and WhatsApp. The CEO of Meta is Mark Zuckerberg. Mark Zuckerberg has informed the employees of Meta that there is a deep recession and economic uncertainty lying ahead of us. This justification has been provided to begin a new performance management model. That aims at raising the performance standard of all employees. The hiring targets have been reduced considerably for the current year. One of the highest priority factors that the management is observing and discussing regularly is related to resource utilization, and attrition. Initially there were a lot of plans of hiring huge number of employees. There were multiple projects that Meta was working on and had big plans to deliver. However, currently Meta is closing and sizing down multiple projects. This means there will be smaller teams working and many projects that are not critical, will not be continued. Meta salary hikes and employees promotion are likely to see delay. Subscribe to learn and practice the Meta interview questions on different topics.

@@ -8,8 +8,8 @@ excerpt: "TCS has ranked as one of the top outsourcing service providers with an
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 TCS has ranked as one of the top outsourcing service providers with an outstanding #4 position amongst the best 100 companies in the world in the Global Outsourcing 100 List of 2009. The list which has been prepared by the International Association of Outsourcing Professionals not only includes only IT companies but also all sorts of outsourcing companies from all fields.
 
 Read more: [TCS Passport Offices to open next month »](https://insightcrunch.com/2009/09/04/tcs-passport-offices-to-open-next-month/)

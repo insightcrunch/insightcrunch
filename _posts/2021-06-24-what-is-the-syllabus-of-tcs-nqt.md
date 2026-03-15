@@ -4,12 +4,12 @@ title: "What is the syllabus of TCS NQT?"
 date: 2021-06-24
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services conducts the National Qualifier Test (NQT) every year to assess thousands of candidates. The TCS NQT exam is the recruitment test for TCS for the different profiles they ..."
+excerpt: "TCS NQT syllabus breakdown: every topic covered in aptitude, verbal, reasoning, and coding sections with weightage and recommended preparation order."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The Tata Consultancy Services conducts the National Qualifier Test (NQT) every year to assess thousands of candidates. The TCS NQT exam is the recruitment test for TCS for the different profiles they have in the organization. Successful candidates in the TCS NQT are prioritized based on their score, and accordingly profiles are allocated to them. Given the pattern and dynamic set of questions in the TCS NQT every year, it is crucial to prepare well and practice extensively for several months before the actual exam. Many of the topics you will find that you have already come across during different phases of your career, however it is important to fine tune yourself. This will ensure you have both the speed and accuracy needed to score well in the TCS NQT exam. I am often asked by candidates what is the cutoff marks? It is important to note that the cutoff is a relative figure based on how the majority of the candidates perform. Hence, the importance of scoring well.

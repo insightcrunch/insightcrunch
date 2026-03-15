@@ -8,8 +8,8 @@ excerpt: "The popular concept that hard work is the main key behind success migh
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The popular concept that hard work is the main key behind success might take a small back foot in this discussion. True that there is no alternative to hard work, but apart from that, there are some X-factors that come into play when you are looking for success in the outsourcing world. It comes more into play when you are directly interacting with some people whom you need to convince and get a deal or something done.
 
 ![Outsourcing Industry](/assets/images/technology-industry-analysis-insightcrunch.webp)

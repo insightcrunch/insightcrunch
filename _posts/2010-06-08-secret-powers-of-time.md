@@ -8,8 +8,8 @@ excerpt: "All of us have different perspectives of time as we move forward in ou
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 All of us have different perspectives of time as we move forward in our life. Here let’s take a look at how we can view the perspectives yet from more different angles. And as we watch this video, let’s flood our minds with more different perceptions and contradictions. Which time zone are we actually living in? Or are we navigating across several zones every moment of our days?
 
 ![Power of Time](/assets/images/technology-industry-analysis-insightcrunch.webp)

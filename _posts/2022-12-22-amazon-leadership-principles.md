@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today and there
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 13
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today and there are a variety of principles that Amazon uses to nurture its employees. Amazon has a specific set of core values and leadership principles which it wants to see in every employee that it hires. There is a lot of importance and emphasis provided on the Amazon leadership principles during the recruitment and hiring phases of Amazon as well. Most of the questions that Amazon asked to its interviews and candidates who want to be a part of Amazon is focused on these Amazon leadership principles. Let us learn more about these leadership principles. subscribe below to get different questions that are fully focused on the Amazon leadership principles. 

@@ -8,8 +8,8 @@ excerpt: "This is a guest posy by MALAY MAJITHIA. The views expressed are entire
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author.   
 2nd December ko Infocity me,   
 AHD07 ki batch thi aayi;   

@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world and every year 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world and every year it employs and hires hundreds of thousands of hourly workers. We see a huge number of employees that are leaving Amazon and who are being replaced every year. The company often declines to share the detailed numbers of these employees leaving every year. Many of the jobs that are taken up by candidates who work at Amazon are short term. There were different types of employees who joined from backgrounds like dancing, which they found was a good way to make extra money at Amazon if they joined. The schedule of Amazon did not clash with their dancing schedule, and it fit them appropriately due to which they continue to work at Amazon. 

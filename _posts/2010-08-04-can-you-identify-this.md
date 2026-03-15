@@ -8,6 +8,6 @@ excerpt: "..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ![](/assets/images/technology-industry-analysis-insightcrunch.webp)

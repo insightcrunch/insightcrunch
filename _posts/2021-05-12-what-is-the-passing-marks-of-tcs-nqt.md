@@ -4,12 +4,12 @@ title: "What is the Passing Marks for TCS NQT?"
 date: 2021-05-12
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is taken by hundreds of thousands of aspiring candidates every year. A successful TCS NQT candidate qualifies for various different ..."
+excerpt: "TCS NQT passing marks: minimum qualifying scores for foundation and advanced sections, how cutoffs differ by category, and what score lands interviews."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The Tata Consultancy Services National Qualifier Test (NQT) is taken by hundreds of thousands of aspiring candidates every year. A successful TCS NQT candidate qualifies for various different profiles in TCS like the TCS Digital, TCS Ninja, and more. The tagging of a candidate to the appropriate profile is done based on the score achieved by the candidate in the TCS NQT exam. Hence, it is important to score good marks in the exam to get selected for the most prestigious profiles. If you have CodeVita expertise you can even get selected for the TCS Innovator profile that focuses in the research and development wing in TCS. Speed and accuracy is the deciding factor that sets candidates apart in the TCS NQT exam. Explore my practice tests and keep practicing to fine tune your skills. There are advanced coding questions, along with questions on quantitative aptitude, logical reasoning ability, and verbal skills. If you can get a good score in my practice tests, you can be sure that your preparation is on the right track.

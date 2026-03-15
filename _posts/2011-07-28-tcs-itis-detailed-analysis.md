@@ -4,12 +4,12 @@ title: "TCS ITIS: Detailed Analysis"
 date: 2011-07-28
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "It has been quite sometime while the discussion had been going on as to what ITIS actually is. Well, to begin with, ITIS (IT Infrastructure Services) is just another position offered by TCS, but one that deserves far more attention than it typically gets."
+excerpt: "TCS ITIS detailed analysis: what IT Infrastructure Services means, the work involved, career trajectory in ITIS, and how it differs from application..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 35
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 It has been quite some time while the discussion had been going on as to what ITIS actually is. Well, to begin with, ITIS (IT Infrastructure Services) is just another position offered by TCS. People across social networking sites, forums, and engineering college communities have been going quite curious to understand it in depth. For freshers and new candidates, it is a genuinely new domain with very little structured information available in one place. The curiosity is understandable and entirely justified, because ITIS represents a career path that is distinct from the mainstream software development roles that most engineering graduates think of first when they picture an IT job.

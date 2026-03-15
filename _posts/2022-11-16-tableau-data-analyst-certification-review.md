@@ -8,8 +8,8 @@ excerpt: "Tableau is one of the most widely used data visualization and analytic
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Tableau is one of the most widely used data visualization and analytical tool today. Businesses of all sizes are in critical need of getting insights from their business data to make sure they are taking the right decisions. A good data analytics and visualization-driven business will always be taking better decisions and make an effort to improve the right areas based on what they find. Hence, the need for efficient data visualization developers in Tableau is always high. It has been reported by industry study that the data visualization industry will be in need of experts 30% more in the coming years, which will create a huge demand for skilled professionals in Tableau. Tableau Data Analyst is one of the most popular certifications because it evaluates a candidate from an end to end basis. 

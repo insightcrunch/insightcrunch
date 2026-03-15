@@ -8,8 +8,8 @@ excerpt: "Amidst lots of rumors, Google’s new online storage platform is all s
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Amidst lots of rumors, Google’s new online storage platform is all set to launch soon, maybe within an year. No official launch date has been announced as yet. The specialty of this system with respect to others is in the fact it will let you backup your entire hard disk and will provide some synching techniques of some sort between your desktop and your GDrive files.
 
 This product will be more than anticipated by worldwide users as Google has been really competent about their products and their innovativeness is outstanding. So there is constant rumor and a hidden hype that is engulfing all users. There will be free version and may be a paid one to offer unlimited (well, almost!) storage.

@@ -8,8 +8,8 @@ excerpt: "The Oracle DRM to EBS integration is one of the most widely used progr
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle DRM to EBS integration is one of the most widely used programs to maintain and refresh master data easily. The EBS concurrent program pulls the data from DRM and **refreshes the existing values and hierarchies** with the new information. There's a specific list of attributes which demands constant special attention for every integration, they are as below:
 
 - FLEX_VALUE_SET_NAME

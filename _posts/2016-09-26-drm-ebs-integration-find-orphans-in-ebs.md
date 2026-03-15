@@ -8,8 +8,8 @@ excerpt: "The Oracle Data Relationship Management application is integrated with
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often observed during integration with different EBS environments that orphans are sometimes created in EBS. It gives rise to issues during reporting for the transactions for that specific orphan and so becomes necessary to track the orphans and keep them identified for troubleshooting purposes.
 
 ![Oracle DRM Hierarchy in EBS](/assets/images/technology-industry-analysis-insightcrunch.webp)

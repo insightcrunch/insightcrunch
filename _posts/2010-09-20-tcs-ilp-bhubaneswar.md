@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by Ashish. The views expressed are solely of the writer."
+excerpt: "TCS ILP Bhubaneswar experience: training center facilities, classroom sessions, hostel life, and what freshers should expect at this location."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Ashish. The views expressed are solely of the writer.   
 *Hi Friends   
 This blog is related to those TCS fresher who are going to join for ILP Phase.   

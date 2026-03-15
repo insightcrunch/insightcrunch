@@ -8,8 +8,8 @@ excerpt: "The ORA_HASH is one of my favorite functions to generate a hash value 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances where even an useful function like ORA_HASH can have it's limitations. Let's take a look at how this function can act while implementing SCD2.
 
 ![](/assets/images/technology-industry-analysis-insightcrunch.webp)

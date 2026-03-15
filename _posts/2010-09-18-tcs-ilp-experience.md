@@ -4,12 +4,12 @@ title: "TCS ILP Experience"
 date: 2010-09-18
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "The initial training days at the top software company Tata Consultancy Services are really enjoyed by the candidates. With having their days spent at exotic locations during the training, the ..."
+excerpt: "TCS ILP experience from a fresher's perspective: the initial days of corporate training, learning to code, and adjusting from college to professional life."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The initial training days at the top software company Tata Consultancy Services are really enjoyed by the candidates. With having their days spent at exotic locations during the training, the pressure of work and study seems to be absorbed by the immense balance with life at TCS. Here are some of the experiences shared by the candidates themselves:
 
 [Noida](https://insightcrunch.com/2010/09/20/tcs-ilp-noida/)  

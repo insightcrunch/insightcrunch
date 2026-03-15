@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world, and it provide
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world, and it provides a variety of job opportunities for people of different skill sets. Amazon offers a variety of jobs for different skill sets and even offers various hourly roles. The roles for people who are interested can be full time, part time, seasonal jobs, or flexible scheduled jobs. Let's look at some of these hourly jobs. The first type of the job is a warehouse job. There are different types of warehouse jobs that are offered by Amazon. Based on the type of the Amazon warehouse which has an opening, the different types of Amazon warehouse jobs are Amazon fulfillment center associate job, Amazon grocery warehouse associate job, Amazon delivery station associate job, and Amazon sortation center associate job.

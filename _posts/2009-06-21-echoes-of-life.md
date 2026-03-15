@@ -8,8 +8,8 @@ excerpt: "Pink Floyd often called the greatest band of Progressive Psychedelic R
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Pink Floyd often called the greatest band of Progressive Psychedelic Rock, perhaps the greatest rock band ever is always known for its bizarre experimentation with music. It’s obsession with harangued lyrics, obscure musical ballets and often far stretched guitar solos often contribute to the mystique of their composition.
 
 Floyd has produced many such songs namely Shine on you Crazy Diamond, Alan’s psychedelic breakfast, Sorrow, Careful with that Axe, Eugene etc. but never have this been more visible than ECHOES (Meddle Album). The song is a 23 min display of their supreme mastery over music and psychedelia. It deals with diverse sounds, musical ballets, harangued sounds and unusual twists. This masterpiece may seem to be a cacophony to many but today me being a diehard fan of Floyd will try to explain the song in my own way, dissect the meaning and some philosophy behind this song !!!

@@ -8,8 +8,8 @@ excerpt: "In a report in the Business Line today, “Mr N. Chandrasekaran will t
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 In a report in the Business Line today, “Mr N. Chandrasekaran will take over as the Managing Director and Chief Executive Officer of Tata Consultancy Services effective October 6. He was the Chief Operating Officer of TCS for the last two years.
 
 Mr Chandrasekaran takes over from Mr S. Ramadorai, who has been designated as the non-executive Vice-Chairman and Additional Director

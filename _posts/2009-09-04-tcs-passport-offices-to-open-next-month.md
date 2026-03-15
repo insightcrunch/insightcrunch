@@ -8,8 +8,8 @@ excerpt: "The much awaited passport project has been finally established as news
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The much awaited passport project has been finally established as news flashed everywhere today regarding the announcements. Passport related matters are sure to get a lot faster with the proceedings. As reported in a few news sites, here is the update:
 
 **“**Tata Consultancy Services (TCS) will open six offices across India in October to provide passport services, a company official has said. The much delayed 'Passport Seva Project' is expected to take off with this move.

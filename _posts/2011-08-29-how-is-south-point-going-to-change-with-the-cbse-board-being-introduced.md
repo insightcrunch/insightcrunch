@@ -8,8 +8,8 @@ excerpt: "South Point will finally be allowing its students to opt for the CBSE 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 South Point will finally be allowing its students to opt for the CBSE board. The previous West Bengal board will also continue to be present alongside. Needless to say, this top prestigious institution is headed towards a major infrastructural revamp following this change. The administration must be accomplishing awareness and training drives to prepare the existing faculties for the challenge. New faculties might also be included in the new
 
 But like all new beginnings, there are risks, speculations and expectations associated with this move. The guardians of the students have already been doing the analysis with data and information from various as to what are the pros and cons of the system if their ward is to pursue under either of the boards, what might the future implications be like. There are several factors that come into play when one starts to think of this scenario.

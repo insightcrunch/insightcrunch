@@ -8,8 +8,8 @@ excerpt: "Do you know what will happen if 1,456 Lakh Crores come back to our cou
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Hazare says: Bring back the Black Money.  
  Do you know what will happen if 1,456 Lakh Crores come back to our country?  
  1. India will be financially Number 1.  

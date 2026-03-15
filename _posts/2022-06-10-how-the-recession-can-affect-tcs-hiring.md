@@ -8,8 +8,8 @@ excerpt: "A recession is defined as a decline in economic activity spread across
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 A recession is defined as a decline in economic activity spread across various sectors, and lasting for a few months. A decline in GDP for two consecutive quarters is a major indicator of a recession, accompanied by impact to income, employment, industrial production, and retail sales. Recently, Union finance minister Nirmala Sitharaman addressed the Parliament, fending off debate on rising prices and recession. India is in a much better and resilient condition than their western counterparts. Inflation, however, remained an area where India continues to contain it under the 7% mark. But how will organizations like TCS, Infosys, and others who are considerably exposed to the United States economy deal with this looming fear of recession. Let’s find out.

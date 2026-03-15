@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services provides attractive package to thousands of 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tata Consultancy Services provides attractive package to thousands of software engineers every year. TCS conducts a variety of recruitment drives to assess candidates in minimum time. The official TCS portals help candidates register with their details if they meet the eligibility criteria. After the different rounds of exams and interviews, candidates are selected by the software company to undergo internal TCS trainings. Successful completion of the training makes candidates eligible for project. At this project readiness stage candidates are allocated based on their skill sets and project requirements.

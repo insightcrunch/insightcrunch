@@ -8,8 +8,8 @@ excerpt: "It is always a delight to visit this place. Loaded with the all-famous
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It is always a delight to visit this place. Loaded with the all-famous starters (some people finish their course with only the starters and desserts itself!), there is no doubt that every single IT pro has visited this place more than once :)
 
 ![Kolkata Chicken Kebabs Skewer Grilled](/assets/images/technology-industry-analysis-insightcrunch.webp)

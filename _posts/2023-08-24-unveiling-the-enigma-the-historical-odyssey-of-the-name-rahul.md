@@ -8,8 +8,8 @@ excerpt: "Names hold within them a treasure trove of cultural, linguistic, and h
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Introduction
 
 Names hold within them a treasure trove of cultural, linguistic, and historical significance. One such name that has traversed through the annals of time is "Rahul." A name that resonates with millions, it carries a legacy that intertwines with history, mythology, and modernity.

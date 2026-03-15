@@ -8,8 +8,8 @@ excerpt: "Security in Oracle Data Relationship Management is of immense signific
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Security in Oracle Data Relationship Management is of immense significance in situations where I do not want to give all the application users the full visibility of all the data present. DRM provides the feature to restrict visibility of the existing DRM data at user-level which is amazing and provides the admin a lot of flexibility to work with.
 
 [](http://imageshack.com/a/img924/2394/tAYMfL.jpg)The feature that enables this called DRM Node Access Groups. Say I want to give access to User U1 access to the DRM Version V1, but not to Version V2 and V3. My first step is to create a new Node Access Group, say AG1. I will add U1 to AG1, save and close.

@@ -4,12 +4,12 @@ title: "TCS ILP Trivandrum Experience"
 date: 2018-04-14
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post. The views expressed are of the author."
+excerpt: "Detailed TCS ILP Trivandrum experience post: full training account covering sessions, assessments, hostel life, city trips, and batch dynamics."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 35
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post. The views expressed are of the author.
 
 *All the adjectives used to describe the goodness of something would fall short in order to share my experience during my ILP at TCS Trivandrum.* I was one of the few in my batch who came out of their hometown for the first time in their life. Living twenty-two years with family was pretty much similar to playing in thirty yards of a cricket ground. Coming out of that shell was more like being allowed to **meet and greet new cultures**. I guess that excited me more than anything else.

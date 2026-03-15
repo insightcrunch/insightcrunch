@@ -8,8 +8,8 @@ excerpt: "I wanted to share this awesome article written by my friend Somdas on 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 6
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 I wanted to share this awesome article written by my friend Somdas on his experience during the Graduate Aptitude Test in Engineering 2009. He ranked a stunning 87 and is invariably a role model for all examinees. Right now though he’s busy with IIT-Delhi.
 
 “GATE is an All India Competitive exam conducted by IISC and the IITs for admission in various post graduation courses in the field of engineering and science. So if you are interested in doing Mtech from these institutions then GATE is a must for you.

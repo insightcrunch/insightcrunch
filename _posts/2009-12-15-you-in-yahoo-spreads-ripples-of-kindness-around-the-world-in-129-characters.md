@@ -8,8 +8,8 @@ excerpt: "Yahoo has struck upon an innovative campaign where users share their s
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Yahoo has struck upon an innovative campaign where users share their small acts of kindness in as little as 129 characters which gets mapped in a world map based on their privacy settings and then can ask their friends or other people “You In?” . The site is really at a very basic stage but looks promising given the concept of micro blogging backing it and[ ](http://kindness.yahoo.com/)innovativeness of Yahoo.
 
 Read more: [Facebook to have new privacy controls »](https://insightcrunch.com/2009/12/20/facebook-to-have-new-privacy-controls/)

@@ -8,8 +8,8 @@ excerpt: "As we all know already, TCS has decided to hire an astounding 50,000 c
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 As we all know already, TCS has decided to hire an astounding 50,000 candidates from the 2011-12 batch. This number in itself tells about the stunning performance quarter after quarter by the company. This also means excellent news for all those college students out there waiting for their turn to join the corporate world.
 
 The top company of the IT industry is here to welcome them with open hands, provided they meet the special technical skills and the other requirements. Of course. It is going to be a big boost for the industry as well a kick-start for all the candidates, who earlier might have thought they didn’t stand a chance in such a great company, might now see a ray of hope and try working harder and improving themselves. It's all a very good sign in the end, for the company as it gets the creamiest of the cream layer of candidates and for those who didn't get selected but ultimately resulted in improving themselves to a level they wouldn't have otherwise.

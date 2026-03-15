@@ -8,8 +8,8 @@ excerpt: "The term ‘onsite’ is a favorite in the IT industry. Everyone wants
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The term ‘onsite’ is a favorite in the IT industry. Everyone wants to go onsite. Such is the madness, people start dreaming of onsite even before entering the company. It has cast a mysterious spell on the IT sector. It was not meant to be this way in the beginning. But it has happened starting from way back in 2007.
 
 For beginners, here is what the scenario is like. The client is generally from outside India. They have outsourced their work to an IT company in India. It is allotted to a particular branch of the company in a particular city. But this distance factor often comes in the way of smooth communication between the client and the Indian company. For reason, someone from India is sent to reside at the client’s location until the job is done. The salary at the client’s location is normally 3-5 times of what you would be getting at ‘offshore’ (term used to denote the location where the work is outsourced to). It depends a lot on what your job role is, where you are going, and most importantly, what your designation is. The factor that decides who will go and what effect it has on others is the most interesting part to be discussed now.

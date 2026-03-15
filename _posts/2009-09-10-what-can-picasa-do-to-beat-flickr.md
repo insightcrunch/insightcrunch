@@ -8,8 +8,8 @@ excerpt: "This would be really a demanding question given the current scenario. 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This would be really a demanding question given the current scenario. The Picasa vs Flickr war will go on forever as these two companies exist. There is absolutely a big gap considering the features of these two services as you saw in my last article. Google really wants to dominate whichever field they get into, and they will certainly not be happy with it.
 
 ![Flickr Comparison](/assets/images/technology-industry-analysis-insightcrunch.webp)

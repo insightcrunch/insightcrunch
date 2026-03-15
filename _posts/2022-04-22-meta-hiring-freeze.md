@@ -8,8 +8,8 @@ excerpt: "Meta is the parent company of Facebook. The hiring plans of Meta have 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is the parent company of Facebook. The hiring plans of Meta have been slashed by at least 30% in the current year. CEO Mark Zuckerberg has informed the employees of Meta that the company is preparing for a period of deep uncertainty. The fear of a recession and economic turmoil has cast a dark shadow over the hiring of new employees. Resource utilization and attrition continues to be a critical factor for Meta. The hiring target has been reduced by Meta to about 7,000 in the current year. The initial plan for Meta was to hire an amazing 12,000 employees in the current year. Salary hikes and promotions are also like to take a hit in the current year for Meta. Meta is also relieving employees of their duties who are unable to meet their goals. Performance management has been fine-tuned to make sure guidelines are adhered to strictly. With people concerned with data privacy, now is indeed not one of the best time in Meta.

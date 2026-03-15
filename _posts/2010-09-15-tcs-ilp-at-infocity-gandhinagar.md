@@ -4,12 +4,12 @@ title: "TCS ILP at Infocity Gandhinagar"
 date: 2010-09-15
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by **Bhavin **Doshi**. *"
+excerpt: "TCS ILP at Infocity Gandhinagar: first-hand experience of training, hostel facilities, daily routine, and what to expect at this ILP center."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by **Bhavin **Doshi**. *
 
 This is my first post from ahemdabad, during my ILP period. today we completed two days in TCS. so now i can proudly say that i too am a TCSer!

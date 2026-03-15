@@ -8,8 +8,8 @@ excerpt: "Oracle Data Integrator integrates with Essbase for metadata as well as
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Oracle Data Integrator integrates with Essbase for metadata as well as data loading using different Knowledge Modules. Each of the KMs provides a range of options for us to customize the loading as we want. The IKM SQL to Hyperion Essbase (METADATA) is usually the starting point when we begin our activities, since first we will load the metadata and get the outline ready, then we can load the actual data.
 
 ![ODI IKM SQL to Hyperion Essbase (METADATA) Loading](/assets/images/technology-industry-analysis-insightcrunch.webp)

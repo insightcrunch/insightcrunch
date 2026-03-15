@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest corporations in the world today and there a
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 13
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is one of the largest corporations in the world today and there are billions of people who are using its products including Facebook, WhatsApp, and Instagram. There has been serious challenges in the financial stability of Meta and due to that reason, there has been a hiring freeze put into effect for the last several months. Recently, Meta also announced that it is laying off nearly 13% of its employee workforce in order to sustain its business model. It was announced that the company would be laying off 13% of its staff globally. The senior management at Meta also highlighted that Meta is focusing on making reductions in every aspect and department in the organization. Also, the senior management at Meta highlighted that the recruiting will be disproportionately affected because the company plans to hire very few people in the coming years. 

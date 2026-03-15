@@ -8,8 +8,8 @@ excerpt: "This very useful program lets you know all the details that is going t
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This very useful program lets you know all the details that is going to save you a lot of bucks and help a lot in improving the condition and health of your machine.
 
 **Monitor CPU Temperature with Core Temp – Download : **[**32 Bit**](http://www.alcpu.com/CoreTemp/CoreTemp32.zip)** | **[**64 Bit**](http://www.alcpu.com/CoreTemp/CoreTemp64.zip)

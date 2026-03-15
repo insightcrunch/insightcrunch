@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today and it ha
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today and it has hundreds of warehouses where thousands of people are working to provide the best customer service experience. There are a variety of full time, part time, and hourly jobs that are available at Amazon. Based on the different types of skill set and experience that candidates have, they can choose to apply from a variety of available openings that Amazon lists in its job portal. It is important to know that the jobs at Amazon are segregated by various departments and teams, which employees can choose to work at. The jobs are also categorized into multiple locations so that candidates can choose from the available locations wherever they want to work. 

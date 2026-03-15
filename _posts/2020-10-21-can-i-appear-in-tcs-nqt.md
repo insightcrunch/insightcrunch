@@ -4,12 +4,12 @@ title: "Can I appear in TCS NQT?"
 date: 2020-10-21
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) exam is one of the most widely attempted exams today in the software industry. The exam helps assess a candidate’s ability in various ..."
+excerpt: "Who can take TCS NQT? Eligibility criteria for the National Qualifier Test including degree requirements, year of passing, and percentage cutoffs."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The Tata Consultancy Services National Qualifier Test (NQT) exam is one of the most widely attempted exams today in the software industry. The exam helps assess a candidate’s ability in various fields. The evaluation is done on a comparative basis between the peers of the candidates to select the top candidates for the organization. TCS has various roles and profiles for which it selects candidates via this exam and provides them a job offer accordingly. There is a defined TCS NQT syllabus and TCS NQT eligibility criteria that candidates need to follow closely. You need to make sure you have all the proper documentations supporting your educational background and qualifications. You must also meet the educational gap, work experience, and age requirements to apply for the TCS NQT exam. Let’s learn the complete TCS NQT eligibility criteria in details. With strategic preparation, exhaustive practice, and a planned methodical approach, I believe you can definitely achieve high marks in the TCS NQT exam.

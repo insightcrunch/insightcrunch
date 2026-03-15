@@ -8,8 +8,8 @@ excerpt: "He is a self-acknowledged lover of gadgets but surprisingly enough, th
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 He is a self-acknowledged lover of gadgets but surprisingly enough, the TCS CEO, S. Ramadorai, “fought against getting a mobile phone for a long time as I believed it was a terrible distraction!” But he finally succumbed about 10 years ago. Today his Blackberry is a valuable tool “as I can communicate on it with several colleagues at the same time.” 
 
 His iPod is another precious gadget; a passionate lover of all kinds of music, particularly Indian classical — his wife Mala being a classical vocalist — he has over 1,000 songs on his iPod. He is plugged into it during travel, weekends, early morning or late evening. Then there is, of course, the music system at home... “the best there is of Bose.” And, a Nikon D80, “with which I love photographing wildlife.” He has done so at Kaziranga, Pench, Ranthambore, Corbett and Nagarahole wildlife parks.

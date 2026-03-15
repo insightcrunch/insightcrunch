@@ -8,8 +8,8 @@ excerpt: "Even after modifying its privacy controls, Facebook seems to still hav
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Even after modifying its privacy controls, Facebook seems to still have a lot of work to do. A number of major advocacy groups, including the ACLU, EFF, and CDT, sent Facebook an open letter detailing some outstanding issues with Facebook privacy. The letter acknowledged Facebook’s recent steps to more efficient privacy controls but also said that there are still some flaws.
 
 ![Facebook Privacy Concerns and Policy](/assets/images/technology-industry-analysis-insightcrunch.webp)

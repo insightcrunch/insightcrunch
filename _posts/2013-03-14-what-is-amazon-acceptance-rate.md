@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today which hir
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today which hires over thousands of candidates across a variety of diverse domains. Amazon has a lengthy and exhaustive hiring process because it values the quality of the new candidates highly. Every position at Amazon receives hundreds of applications from which the hiring managers and recruiters have to hire the best possible candidate. Fewer than 2% of the applicants get hired at Amazon. The percentage value has remained fairly constant over time and is often regarded as one of the toughest in the technology sector. This is also fairly consistent and standard across many other top organizations in the industry. 

@@ -8,8 +8,8 @@ excerpt: "Flickr shows various statistics of usage of its site and one of them i
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Flickr shows various statistics of usage of its site and one of them is the [“Most Popular Cameras in the Flickr Community"](http://www.flickr.com/cameras/). It’s absolutely incredible to see a camera phone standing out amongst some of the top class SLR cameras. Is it because this phone’s camera beats the rest? Absolutely not! The only thing is that the iPhone has an exceedingly large user base and a camera better than many camera phones, but certainly not comparable to SLRs which many misunderstand. Using the iPhone’s camera is as easy as it could be with just basic features. Apart from the large user base, the iPhone has awesome cool apps which make it amazingly easier for its users to share photos in Flickr.
 
 Read more: [What is the best Contrast, Sharpness, Saturation, ISO settings for your camera? »](https://insightcrunch.com/2009/10/11/what-is-the-best-contrast-sharpness-saturation-and-iso-settings-for-your-camera/)

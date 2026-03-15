@@ -5,12 +5,12 @@ page_title: "Infosys Salary Structure for Freshers and Experienced Professionals
 date: 2024-04-20
 categories: ["Industry"]
 tags: ["Infosys", "Infosys Salary", "Infosys CTC", "Infosys In-Hand Salary", "Infosys Salary Structure", "Infosys Freshers Salary", "IT Salary India", "Infosys Pay Scale"]
-excerpt: "Detailed Infosys salary breakdown at every level from fresher to manager with in-hand calculations after all deductions."
+excerpt: "Infosys salary structure: CTC vs in-hand pay at every level from SE to manager. Detailed breakdown of basic, HRA, PF, tax deductions, and variable pay."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Understanding your Infosys salary is not as simple as looking at the CTC number in your offer letter. The figure printed on that document is a composite - a sum of components that behave very differently from one another. Some are paid monthly in full. Some are partially retained for retirement. Some arrive once or twice a year. Some depend entirely on your performance rating and your project's delivery outcomes. And some are not cash at all, but benefits that reduce your out-of-pocket expenses without appearing in your bank account.
 
 ![Infosys Salary Structure Analysis](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -5,12 +5,12 @@ page_title: "Infosys Career Growth and Promotion Timeline: Systems Engineer to T
 date: 2024-05-23
 categories: ["Industry"]
 tags: ["Infosys Career Growth", "Infosys Promotion", "Infosys Designation Hierarchy", "Infosys Appraisal", "Infosys Technology Lead", "Infosys Career Path", "Infosys Levels", "Infosys IJP"]
-excerpt: "Complete Infosys career ladder from SE to VP with promotion timelines, appraisal process, and salary jumps at each level."
+excerpt: "Infosys promotion path: SE to VP career ladder with typical timelines, appraisal criteria, salary jumps at each level, and what drives faster promotions."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Most engineers who join Infosys as freshers understand their starting designation clearly. What very few of them understand - until they have spent two or three years inside the organisation - is how the career ladder actually works: what separates a top performer from an average one at each level, what the appraisal process genuinely evaluates beyond the official criteria, how long each designation realistically takes to move through, and what the practical salary and responsibility differences are at each rung. The difference between a career that plateaus at Technology Analyst and one that reaches Vice President is not mostly luck or politics. It is a set of specific, learnable competency signals, career decisions, and relationship investments that become visible only when the entire promotion architecture is understood as a system.
 
 ![Infosys Career Growth and Promotion Path](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -8,8 +8,8 @@ excerpt: "Google has been known for years as one of the top companies providing 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 7
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Google has been known for years as one of the top companies providing luxurious perks to its employees. Due to rising inflation, and the ongoing economic weak scenario, the senior management at Google is facing a steep challenge. Advertisers who used to spend a lot of money in advertising in Google is reducing their budgets considerably. Due to this, companies like Google and Meta are seeing a steep decline in their advertisement revenue in recent months. Google and Meta are also advising their employees to reduce their expenses on perks like employee travel and laundry service. The companies have also started reorganizing their departments to focus and spend their money only on projects that are extremely critical. Google employees are scared that more layoffs and employee cuts are coming ahead. Experts in the industry see that this might lead to a white collar recession. Such a recession is represented by a decline in job growth and job security for professionals in the software engineering sector. The white collar recession might not just be limited to the technology sector but can also spread to other high skilled industries. This is a good time for companies like Google and Meta to find low performing employees. Subscribe below to access Google interview questions on coding and other topics.

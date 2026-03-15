@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the popular organizations in the world and employs hu
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the popular organizations in the world and employs hundreds of thousands of people. Amazon is one of the best organizations, which has aim to automate the entire hiring process up to the salary distribution process in a fully automated way. There are many resumes which gets scanned automatically at Amazon, and candidates are offered the job on the spot. This saves hundreds of manual working hours, and streamlines the hiring process along with removing favoritism. There are a variety of Amazon job portals with login links, which you can find below. Here, you will get all the details of the different login portals, along with opportunity to search for the different jobs that are currently available at Amazon in their pharmacies, corporate houses, and warehouses.

@@ -4,12 +4,12 @@ title: "TCS 2010 Recruited Colleges"
 date: 2010-09-04
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Freshers of 2010 batch who have got joining are no doubt ecstatic. Joining is going on in a really rapid pace, faster than people expected after the recession. With more candidates going to join this ..."
+excerpt: "TCS 2010 batch recruited colleges: which engineering colleges received joining dates, the pace of onboarding, and insights for freshers still waiting."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Freshers of 2010 batch who have got joining are no doubt ecstatic. Joining is going on in a really rapid pace, faster than people expected after the recession. With more candidates going to join this world-class organization, in the coming year as well, situation is looking  
 pretty bright and sunny as of now.
 

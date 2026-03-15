@@ -8,8 +8,8 @@ excerpt: "The Oracle Data Integrator scenarios and load plans provides a range o
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle Data Integrator scenarios and load plans provides a range of flexibilities when it comes to the executions. We can select the Context, Log Levels, provide values as input parameters as required, and all these add to the versatility of this tool. But it also comes with its own advantages and disadvantages. There are various factors that are in our favor and can help us a lot when we use them the right way, on the other hand it also can lead us to a challenging path which we should learn to tread carefully if taken.
 
 ![ODI Executions Parametrization - Pros and Cons](/assets/images/technology-industry-analysis-insightcrunch.webp)

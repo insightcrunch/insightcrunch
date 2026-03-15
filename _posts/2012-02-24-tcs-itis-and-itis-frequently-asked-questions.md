@@ -8,8 +8,8 @@ excerpt: "In Information Technology and on the Internet, infrastructure is the p
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 In Information Technology and on the Internet, infrastructure is the physical hardware used to interconnect computers and users. Infrastructure includes the transmission media, including telephone lines, cable television lines, and satellites and antennas, and also the routers, aggregators, repeaters, and other devices that control transmission paths. Infrastructure also includes the software used to send, receive, and manage the signals that are transmitted. In some usages, infrastructure refers to interconnecting hardware and software and not to computers and other devices that are interconnected. However, to some information technology users, infrastructure is viewed as everything that supports the flow and processing of information. The below practice tests will help you prepare for the TCS ITIS profile and achieve higher score in the TCS ITIS PRA (Project Readiness Assessment) exam. Every attempt brings to you new set of questions for each of the topics, with real-time explanations and feedback.

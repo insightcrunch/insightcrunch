@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services is one of the largest software service provi
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tata Consultancy Services is one of the largest software service providers in the world. With hundreds of thousands of aspirants across the world, one of the most anticipated times is after you have received the offer letter and accepted it, but yet to receive your joining date. What can you do in this scenario? Is there any analysis that can be done to predict the joining date? What can be done in the meantime to make sure you make the most out of your time? Let’s dive deep into the TCS Joining Date.

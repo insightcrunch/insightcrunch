@@ -8,8 +8,8 @@ excerpt: "All of us, into blogging or engaged in online activities, at some time
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 All of us, into blogging or engaged in online activities, at some time or the other has faced the issue of our images and own articles being copied to other sites without our permission. This causes annoying to no doubt. So you can at least take steps to minimize it, because we can’t entirely prevent it. Here are some simple ways by which you can protect your blogger blog from plagiarism and from your images being copied away, thus affecting your precious bandwidth.
 
 Read more: [Bing Toolbar and Search Box for Blog »](https://insightcrunch.com/2009/06/01/bing-toolbar-and-search-box-for-blog/)

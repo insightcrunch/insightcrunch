@@ -8,8 +8,8 @@ excerpt: "There is a huge amount of competition for every opening of a job at Am
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 There is a huge amount of competition for every opening of a job at Amazon. The acceptance rate at Amazon is 2% which is really competitive in the current industry. There are multiple candidates aspiring to be a part of this great organization. And hence, strategic planning and preparation is the key. Subscribe to the interview questions below to get a complete understanding and improve your preparation before the interview. During the Amazon interview process, there is also a reference check process. Amazon normally conducts one to two reference checks, and it varies based on how much of a senior position you are applying for. These are conducted over the phone by the HR manager or the Amazon hiring manager. 

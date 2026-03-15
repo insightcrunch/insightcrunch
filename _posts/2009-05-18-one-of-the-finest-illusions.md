@@ -8,8 +8,8 @@ excerpt: "If your brain works normally this is neat. This is another example of 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 If your brain works normally this is neat. This is another example of an amazing illusion!!! The last sentence is so true. If your eyes follow the movement of the rotating pink dot, the dots will remain only one color, pink.
 
 ![](/assets/images/technology-industry-analysis-insightcrunch.webp)

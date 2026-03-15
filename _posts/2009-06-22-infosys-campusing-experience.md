@@ -8,8 +8,8 @@ excerpt: "This is a guest post by Nirmalya Roy Chowdhury who had got his dream o
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Nirmalya Roy Chowdhury who had got his dream of getting placed in Infosys fulfilled in February 2008. Extremely fond of programming, he is a really pragmatic and cool guy to hang out with.
 
 I came to engineering not just to learn but also to get a good job in software field . My college Techno India, Salt Lake gave me the chance back in 2008 when I was in my 3rd yr 6th sem. Our TPO sir came to our class one day back in Feb.,2008 and announced a list of some 6-8 companies interested to hire us . At the same time, he also told us that 2 companies have already given their dates. They are the top 2 it companies in India……TCS and Infosys , with tcs coming first on 14th Feb. Everyone in our department became very much excited,at the same time,nervous on thinking about the outcome. We had some 2 weeks to really prepare for apti and sharpen our technical knowledge as far as possible . Then the day came. Our chance came around 5:30 pm in evening. But unfortunately, I couldn’t clear the apti . My mind was completely shattered. My mind was crying and my eyes also tried but I somehow stopped it . I was just remembering the face of my parents and was remembering tat after such a long struggle for me ,I couldn’t repay them back with good news . on tat night,I came back to my home,with mind still in trauma and pain . I couldn’t sleep at tat night .

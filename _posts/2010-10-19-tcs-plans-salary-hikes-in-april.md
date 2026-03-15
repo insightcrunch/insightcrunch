@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services Limited (TCS), the country's largest softwar
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Tata Consultancy Services Limited (TCS), the country's largest software exporter by revenues, will be finalising its wage and recruitment plans shortly, said the company's chief financial officer and executive director, S Mahalingam.
 
 "Sometime back we had said we would be announcing our increments around April this year and that is what we would be doing," he said. However, he declined to divulge the quantum of the proposed salary hike for the next financial year. The last time TCS staff received a salary increment was in April 2008.

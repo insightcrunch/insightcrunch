@@ -8,8 +8,8 @@ excerpt: "Students who have been doubtfully aspiring to get placed in the top so
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Students who have been doubtfully aspiring to get placed in the top software company can breathe easy now. TCS while declaring their Quarter 1 results have assured they would be starting the recruiting process of the 2010 batch from January 2010. The recruiting process till last year used to happen at the end of the third year of the engineers. This time it would be during their eighth semester, in fourth year.
 
 A recent report in the Telegraph on 10th August quoted Ramadorai, “We are going to recruit 18,000 people from campus, which is about the same as last year. There will be no lateral hiring, which was more than 10,000 last year. We have also got 13,000 people by acquiring the Citi BPO last year.” So 2010 batch candidates can start gearing up. Enough materials can be found here in the “Freshers Prepare” section under the Orkut icon in case you need it.

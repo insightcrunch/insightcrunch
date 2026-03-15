@@ -4,12 +4,12 @@ title: "TCS ILP @ Trivandrum"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by Angshuman. The views expressed are solely of the writer."
+excerpt: "TCS ILP Trivandrum in-depth experience: the flagship training center's daily life, technical curriculum, hostel culture, and what makes it stand apart."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 13
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Angshuman. The views expressed are solely of the writer.   
 *   
 The post below has not been refined and is almost like a rough note rather than an article, hence you may find the sentences below quite funnily structured and sometimes difficult interpret. Sorry for the inconvenience. This post is about my friends at ILP and me and not ILP itself. I have used the initials of my friends’ names to conceal their identities. My friends got their call for ILP seven days before the joining date. They were supposed to report at Guwahati. At the end of that day I was the only one who still didn’t receive any mail. It was very frustrating. I even shot a mail to Kolkata HR about this. I got my mail next day. I was asked to report, not at Guwahati, but at Trivandrum. I was now very upset. Of all the people they chose me and only me to report at the other end of India, why why…! I later came to know that out of 171 people only 23 people were asked to report at Trivandrum and I am the only person from CSE, BIT to Trivandrum.

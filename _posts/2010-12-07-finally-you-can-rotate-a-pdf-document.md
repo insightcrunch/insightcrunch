@@ -8,8 +8,8 @@ excerpt: "Many times we PDF readers have faced problems when the landscape and p
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Many times we PDF readers have faced problems when the landscape and portrait orientation in our document is not as we want it to be. Now it can be done in a breeze. [Visit this site](http://www.rotatepdf.net/). Just upload your document and select the orientation you want tit to be in.
 
 ![Rotate a PDF Document](/assets/images/technology-industry-analysis-insightcrunch.webp)

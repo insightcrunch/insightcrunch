@@ -8,8 +8,8 @@ excerpt: "Meta is the parent company of Facebook. There has been changes in the 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Meta is the parent company of Facebook. There has been changes in the hiring plans of Meta. The hiring target has been reduced by a staggering 30%. CEO Mark Zuckerberg has informed the Meta employees that the organization is getting ready for a period of heavy uncertainty there is the fear of an upcoming recession and economic downturn. During these times, resource utilization and attrition continues to be one of the most critical factors that the senior management at Meta continues to monitor. There is also a very strict performance management program introduced in Meta. Using this Meta is identifying low performing employees and helping them leave the organization. Meta had already been facing challenges in the recent past with data privacy issues and their advertisement revenue. The upcoming recession is expected to be even worse than the 2008 recession. Subscribe and get access to the Meta interview questions below with various types of aptitude and coding questions.

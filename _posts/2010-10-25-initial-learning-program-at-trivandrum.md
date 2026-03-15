@@ -8,8 +8,8 @@ excerpt: "This is an article on TCS ILP Trivandrum by Neha Saxena."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is an article on TCS ILP Trivandrum by Neha Saxena.
 
 My happiness knew no bounds when I got through TCS and Infosys. I had to make a tough choice. I opted for tcs, as there was a bleak opportunity of getting back to my hometown ‘mumbai’. I booked my tickets to Trivandrum for the fourth of September. The atmosphere at home on the third was serious. My family made it sound like I was going to fight a war on the Indian border. I never heard so many sermons even when I ventured into my teenage. Here I was all set to enter the big bad corporate world. Dad said, “Keep your eyes open and mouth shut. Think ten times before you speak”. And trust me it was one difficult task for someone as garrulous as me to actually keep my mouth shut. Sister said “ Don’t be manipulative but be smart enough so that others don’t manipulate you. BEWARE of sycophants.” With all the advices taken and with a bit of apprehension I embarked on my journey to the land of coconut trees (kerala). I wish the land was accompanied with a bit of culinary skills as well so that the food we ate could be a little delectable.

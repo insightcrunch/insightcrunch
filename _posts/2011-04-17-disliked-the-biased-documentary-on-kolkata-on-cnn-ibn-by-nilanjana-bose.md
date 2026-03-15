@@ -8,8 +8,8 @@ excerpt: "Today I watched a show on CNN IBN. I love the channel for it's straigh
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that was showing a documentary on Kolkata the city as a whole. The reporter was Nilanjana Bose. To start with, I am a Calcuttan myself.
 
 This is with a lot of regret that I am having to say that the program seemed to revolved around the mindset that the negative image of the city needs to be highlighted at all costs and dimlight the achievements and existing prospects (not to talk of the future prospects which were appropriately shown in terms of the IT sector and industrialization).

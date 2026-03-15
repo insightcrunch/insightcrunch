@@ -8,8 +8,8 @@ excerpt: "A project that started in September last year has been made stable eno
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.
 
 ![Google Chrome and Microsoft Edge](/assets/images/technology-industry-analysis-insightcrunch.webp)

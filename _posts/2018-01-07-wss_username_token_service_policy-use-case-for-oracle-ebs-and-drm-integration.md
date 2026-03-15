@@ -8,8 +8,8 @@ excerpt: "The year of 2017 was an incredible year with tremendous ups and equal 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The year of 2017 was an incredible year with tremendous ups and equal downs both at a professional and personal level. However, it has again helped in garnering some very fruitful insights regarding everything around me and to plan few things better ahead. This is not to undermine any of the other years like say 2016 or 2015, but it is just that the impact of some incidents and the decisions that I have done and taken in 2017 will be changing my life forever. Let's see what 2018 has in hold! Wishing you a very happy new year ahead!
 
 ![wss_username_token_service_policy use case for Oracle EBS and DRM Integration](/assets/images/technology-industry-analysis-insightcrunch.webp)

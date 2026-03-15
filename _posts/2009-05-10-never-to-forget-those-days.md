@@ -8,8 +8,8 @@ excerpt: "A small but priceless piece of work by me ... to cherish all those lov
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 A small but priceless piece of work by me ... to cherish all those lovely days spent together. It's as emotional as it could get.
 
 ![College Memories](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today, and it c
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 11
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today, and it continues to offer a variety of different types of roles and responsibilities based on the openings it has. Amazon has full time, part time as well as hourly jobs. Each of the jobs that Amazon requires the different types of skill sets and employees come to work at Amazon from different backgrounds. In this article, we will share the links of the different types of jobs Amazon offers and how to prepare yourself to be a good candidate for any of these jobs. The first key step in the Amazon job application process is to understand how to proceed to apply for that particular role. The Amazon, interviewers and hiring managers recommend that a candidate should list out all the previous work experiences that they have. 

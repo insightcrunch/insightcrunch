@@ -8,8 +8,8 @@ excerpt: "1. Google Chrome Dual View lets you view two pages at the same time. I
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together.
 
 2. [Ad Sweep](http://www.adsweep.org/) removes forcibly all the ads that are present in the web page that you are visiting. This will help you to view all the web pages free of any ads.

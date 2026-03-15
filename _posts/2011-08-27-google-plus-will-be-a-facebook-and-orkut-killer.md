@@ -8,8 +8,8 @@ excerpt: "People have never really sticked to one particular social networking s
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 People have never really sticked to one particular social networking site for a long time. Since Orkut started out way back in the 2000s, people flocked into it, and it became a madness. There was nothing that could be compared to Orkut’s mad addiction to anything in the contemporary internet or physical world. Students and adults, geeks and normal people, everyone went on to live into it. It became a world of its own.
 
 ![Google vs Facebook vs Twitter](/assets/images/technology-industry-analysis-insightcrunch.webp)

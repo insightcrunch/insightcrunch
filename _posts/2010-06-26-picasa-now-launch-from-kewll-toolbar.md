@@ -8,8 +8,8 @@ excerpt: "In a recent blend of activities that had been going on taking Kewll to
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 In a recent blend of activities that had been going on taking Kewll to the next level, the Picasa program launcher had been added to it. If you have Picasa installed, you can click ‘Launch Picasa’ under the Picasa icon and it starts up immediately. So now you don’t need to minimize your browser and look for the Picasa program launcher icon on your desktop.
 
 The immense success of Kewll had been it’s intuitive wiki feature which enables the users to suggest features. that they want to see on it. With a suggest link in every tool, users never feel left out. It’s like someone alive in your browser helping you out, because suggested features appear in it in no more than a couple of days.

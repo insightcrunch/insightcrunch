@@ -8,8 +8,8 @@ excerpt: "While getting started with Hadoop, the [sandbox](https://www.cloudera.
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 While getting started with Hadoop, the [sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) provided by Hortonworks is an easy to use starting point. Once we download the Virtualbox, we can easily import it into our existing VirtualBox Manager. This is assuming we already have a [VM VirtualBox Manager](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html) installed in our machine and the machine meets the minimum system requirements.
 
 The VirtualBox will create a Virtual Disk Image in the path specified during the import process, I prefer to keep it in my external storage systems to save space since I have more than one such Virtual Boxes deployed.

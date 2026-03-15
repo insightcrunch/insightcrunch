@@ -4,12 +4,12 @@ title: "TCS NQT Hiring Process"
 date: 2017-03-20
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "This is a guest post on TCS NQT by Manish Chawla. The views expressed are of the author."
+excerpt: "TCS NQT hiring process after qualifying: interview stages, HR round expectations, offer letter timeline, and what happens between your NQT score and..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS NQT by Manish Chawla. The views expressed are of the author.
 
 Welcome readers, TCS announced that it will conduct TCS NQT in every quarter of the year but hiring from NQT scores in every quarter is upto TCS as per their business requirement. But during the September or October of every year TCS will hire students in a large number approximately in some thousands.

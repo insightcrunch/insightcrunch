@@ -8,8 +8,8 @@ excerpt: "In the current technology sector, there is a recession on the horizon.
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 7
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 In the current technology sector, there is a recession on the horizon. Even though the recession will globally affect the entire economy, the technology sector is cautious now. Many companies like Meta are being forced to implement various approaches of hiring freezes and layoffs. The different factors that have put Meta on a hiring freeze continue to affect all the organizations around the world. In the first half of the year, around 80,000 technical workers lost their jobs. There are more layoffs planned in the horizon. There has been a significant drop in the revenue of Meta since the company was founded almost 20 years ago. The senior management has officially told the Meta employees that the organization will operate more ruthlessly and will prioritize projects to operate and execute teams better in a leaner way. Meta is continuously setting various goals to cut its employee strength and trying to reach the layoff goal every few months. The Meta interview questions below will help you prepare for the actual Meta interview rounds.

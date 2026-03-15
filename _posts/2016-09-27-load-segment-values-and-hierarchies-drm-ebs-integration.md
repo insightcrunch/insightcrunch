@@ -8,8 +8,8 @@ excerpt: "The Oracle Data Relationship Management is one of the best in-class ma
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle Data Relationship Management is one of the best in-class master data management tool by Oracle. It is often used along with Oracle E-Business Suite to maintain its master data due to the benefits and flexibility it offers.
 
 To start with the integration, there is a list of values that needs to be configured in Oracle EBS, these will help DRM and EBS interact with each other as required:

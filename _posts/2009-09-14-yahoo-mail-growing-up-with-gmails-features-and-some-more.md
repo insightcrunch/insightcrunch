@@ -8,8 +8,8 @@ excerpt: "Recently Yahoo Mail had been a lot more innovative and their new inter
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Recently Yahoo Mail had been a lot more innovative and their new interface is far better and appealing to users than the old classic interface. There have been lots of additions it seemed specially the Filters section has been a more developed which I require most. In addition, fetching mails from other accounts has been added, a very useful feature which Gmail has been providing. I used to hate Yahoo Mail even a year back, but now they are doing things pretty nicely.
 
 Read more: [Twitter direct messages: Somewhere between email and chat »](https://insightcrunch.com/2009/09/19/twitter-direct-messages-somewhere-between-email-and-chat/)

@@ -8,8 +8,8 @@ excerpt: "The beginning of winter brought with it some exciting rides into the w
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The beginning of winter brought with it some exciting rides into the world of Oracle Data Integrator and Essbase. Feels lovely when things start to unravel their beauty and prowess. After several sessions (more to come!) of brainstorming on Shared and Duplicate members, we came to a few interesting findings that can help us plan better.
 
 ![Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster](/assets/images/technology-industry-analysis-insightcrunch.webp)

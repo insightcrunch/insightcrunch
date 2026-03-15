@@ -8,8 +8,8 @@ excerpt: "Oracle Essbase is an excellent tool for handling large volumes of data
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Oracle Essbase is an excellent tool for handling large volumes of data and doing complex calculations very fast. But it is interesting to observe how good the data is after we load it into Essbase. Seldom we validate the error logs or the Essbase server logs generated during the load process. Also, much rarely do we set the process to fail for minor issues. It is under these circumstances that the quality of the data needs to come under scrutiny.
 
 Using the ODI **IKM SQL to Hyperion Essbase (DATA)** we daily load the data to the Essbase cubes. But it might so happen that the transactional data is not getting loaded into the cubes, because the outline build was not successful. Thus, **due to a missing member** (say for Account dimension) in the outline, all transactional data corresponding to that specific Account number will get rejected since there is simply **no placeholder** for the data to get into. This missing member in the outline can happen due to **multiple reasons** - cube outline build process failed, the source tables or files for outline build not having the correct data, DRM not having the missing member in its hierarchy, etc.

@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today and it em
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today and it employs numerous full time, part-time, and hourly workers. There are a variety of jobs where candidates can work at Amazon working from home part time. These jobs that are part-time often have considerably nice compensation compared to other companies providing opportunities at similar level. Amazon in their job portal clearly mentions the different types of skills that is required for every opening. If you are a good fit, you can get hired at Amazon with or without any job experience. There are a variety of positions to select from to work at Amazon if you want to work there. You can filter and search for different jobs based on your education experience, any skill set you have acquired, and other qualifications. 

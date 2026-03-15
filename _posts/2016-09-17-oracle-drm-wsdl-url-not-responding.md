@@ -8,8 +8,8 @@ excerpt: "The WSDL response pretty much goes often unnoticed in DRM until we try
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The WSDL response pretty much goes often unnoticed in DRM until we try to use it in some way like the GL integration. The APIAdapter?wsdl and the oracle-epm-drm-webservices/DrmService?wsdl services usually load fine when the services are up. But I started getting the page cannot be displayed errors one day.
 
 ![Oracle DRM WSDL URL not responding](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -4,12 +4,12 @@ title: "TCS Digital Interview Experience"
 date: 2017-09-07
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "This is a guest post on TCS Digital by Nikhil Chauhan. The views expressed are of the author."
+excerpt: "TCS Digital interview experience: another candidate's perspective on the selection process, question difficulty, and what prepared them for success."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS Digital by Nikhil Chauhan. The views expressed are of the author.
 
 I have cleared TCS Digital internal drive 2019–2020 so many of my friends and I have tried to conclude some high-level information on interview experience of TCS employees which are mentioned below.

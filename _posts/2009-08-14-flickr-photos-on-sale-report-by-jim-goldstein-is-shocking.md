@@ -8,8 +8,8 @@ excerpt: "It’s not Flickr’s fault to start with. And no photos of users that
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It’s not Flickr’s fault to start with. And no photos of users that were marked “Private” were compromised. But however this incident is sure to raise a few eyebrows of Yahoo and it’s API licensing authorities.
 
 The issue was that when users upload their photos in Flickr they mark it either “All Rights Reserved” or under one of the categories of “Creative Commons”. This is to ensure that before downloading the users can be aware of the rights held by the owner of the photo. But the API used by MyxerTones (a mobile entertainment site) had a bug which led to downloading of several photos from Flickr regardless of their licenses and sent to several mobile phones of users to be used as wallpapers!

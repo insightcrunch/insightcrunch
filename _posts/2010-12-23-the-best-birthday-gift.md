@@ -8,8 +8,8 @@ excerpt: "This is a guest post on TCS joining experience by Debapriya Mukherjee.
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 Isn't it really exciting for you when your earning suddenly jumps from minus seventy bucks per day(as I always took it from my parents) to a +ve 0.7k per day(aha!!!dats mine)? You can materialize all your fantasies into real.You suddenly metamorphose to a "Please marry my daughter" type bachelor from a "good for nothing" material. You start getting more attention from your family though your proposed idea were equally bad like before. Yeah!the mother Earth starts moving in your orbit when you bag a job. That was the exact scenario with me when I bagged the job in my first campus interview in the 3rd year of my college.

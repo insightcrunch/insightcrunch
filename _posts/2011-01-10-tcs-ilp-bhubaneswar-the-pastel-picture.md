@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar – The Pastel Picture"
 date: 2011-01-10
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "TCS ILP Bhubaneswar campus life: the softer side of training, friendships forming, discovering the city, and finding comfort amid assessment pressure."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 6
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 We were 21 guys, wearing top to bottom formals.I was sitting in the left window seat in the last row of the company-bus.I closed my eyes. I was able to see a picture drawn with pastel color, a picture 4 and half years old.50 guys wearing blue striped white shirt, navy blue trouser, and navy blue tie boarding a yellow bus.The bus was going to Institute of Technology, Kolkata for the first time for its 2005-2009 batch. I was the last one to board, and I got the last seat.It was the same left window seat.I was having a mixed feeling of excitement, nervousness and fear. First time out of home, that too for 4 years, I was highly excited.No restriction, I can live my life freely.No one in my neighborhood can spot me smoking. No one can complain if I sing loudly in bathroom.Most of all no-one is going to monitor I am studying or not, I need not hide my Pornbooks. I can recreate my own slots of studying.

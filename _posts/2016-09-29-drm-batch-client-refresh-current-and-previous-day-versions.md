@@ -8,8 +8,8 @@ excerpt: "The Oracle DRM Batch Client is one of the best command-line utility to
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle DRM Batch Client is one of the best command-line utility tools that makes this Master Data Management application undoubtedly one of the best. It is nothing complex but provides a Windows batch scripting interface to do all the DRM activities. There's almost nothing I cannot do using the Data Relationship Management Batch Client.
 
 One of the most common practices in a DRM application is to find out the latest changes that have been done over the day - this includes any new additions, movements, changes etc. For this, I need to do a Compare Export between a historical snapshot of the DRM Version before the change and the snapshot after the change.

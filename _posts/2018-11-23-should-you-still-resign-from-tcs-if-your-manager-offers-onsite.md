@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services is one of the largest organizations of the w
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tata Consultancy Services is one of the largest organizations of the world with nearly a million people in its payroll. The sheer magnitude of handling a labor force this size needs efficient planning and management. I have come across many candidates asking should they resign from TCS? TCS has been handling multiple clients in different countries globally for decades now. The company has associates delivering and working hard from all geographies. The experience thus for every employee varies considerably depending on the location, team, client, technology, and the type of work. With increasing work exposures and technological expertise comes the thirst for growth.

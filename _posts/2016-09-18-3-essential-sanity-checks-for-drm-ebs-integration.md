@@ -8,8 +8,8 @@ excerpt: "The integration between Oracle's amazing master data management tool D
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The integration between Oracle's amazing master data management tool DRM and Oracle EBS is a pretty stable process given the configurations and pre-requisites have been taken care fine. But sometimes the concurrent program gives authentication error or invalid credentials error which can be an exhausting process to debug.
 
 ![3 Essential Sanity Checks for DRM EBS Integration](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -8,8 +8,8 @@ excerpt: "The rocking Facebook community is soon going to replace the Orkut comm
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The rocking Facebook community is soon going to replace the Orkut community I presume. Just click here in the "Like" buttons and you will be on your way to find the most awesome place to share your words. What's more, you will find all your friends waiting for you in Facebook with loads of information and updates.
 
 The place that has connected thousands of TCS candidates all over the country and had helped many more, the 2011 batch community is here. This is the place to [**chat**](http://www.orkut.co.in/Main#CommMsgs?cmm=90072103&tid=5528464057851718298&start=1) with other TCS-ers, ask for help regarding anything and more. If there is any need for something, simply discus with the others and go ahead.

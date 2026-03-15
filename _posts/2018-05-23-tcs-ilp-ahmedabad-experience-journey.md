@@ -4,12 +4,12 @@ title: "TCS ILP Ahmedabad Experience Journey"
 date: 2018-05-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post. The views expressed are of the author."
+excerpt: "TCS ILP Ahmedabad journey: extensive experience covering the full training period from first day nerves to final PRA, with hostel life and city..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 35
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post. The views expressed are of the author.
 
 Hello everyone. Greetings to everyone reading this.

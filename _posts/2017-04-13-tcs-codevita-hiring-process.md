@@ -8,8 +8,8 @@ excerpt: "This is a guest post on TCS CodeVita by Sahil Jhunjhunwala. The views 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS CodeVita by Sahil Jhunjhunwala. The views expressed are of the author.
 
 Hello friends! Let me share today how interviews at TCS will be done, what type of questions you can expect from the interviewer and moreover what you need to prepare in order to crack TCS Interview either for the role of Ninja or Digital

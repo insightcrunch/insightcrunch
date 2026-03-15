@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the top companies in the world and it implies hundred
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the top companies in the world and it implies hundreds of 1000s of people who can work from home or also has different types of jobs that require minimum attendance to offices. There are a variety of part time full time and hourly jobs that are available at Amazon. One of the most common questions that I have come across candidates is does Amazon work from home pay weekly? It is important to note that there are various types of jobs that are available at Amazon. And payment cycle is often variable based on the type of the job that you are doing. Amazon pays its employees weekly, bi weekly, monthly or even anytime on an ad hoc basis. Hence, it is important to note that the pay period for Amazon is not the same for every employee. 

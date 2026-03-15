@@ -4,12 +4,12 @@ title: "TCS Digital Interview Experience"
 date: 2017-06-02
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "This is guest post on TCS Digital by Ankita Mishra. The views expressed are of the author."
+excerpt: "TCS Digital interview experience: a real candidate's account of technical and managerial round questions, preparation that helped, and the final outcome."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is guest post on TCS Digital by Ankita Mishra. The views expressed are of the author. 
 
 Well today I am going to explain my TCS Digital Interview Experience.

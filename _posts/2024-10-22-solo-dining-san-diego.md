@@ -4,12 +4,12 @@ title: "Best Restaurants for Solo Dining in San Diego"
 date: 2024-10-22
 categories: ["Leisure"]
 tags: ["solo-dining", "san-diego", "restaurants", "san-diego-food", "eating-alone", "counter-dining", "bar-seating", "fish-tacos", "little-italy", "gaslamp", "north-park", "craft-beer"]
-excerpt: "From Baja fish tacos to Little Italy pasta bars, omakase to ocean-view patios, the guide to eating alone in San Diego."
+excerpt: "Best restaurants for solo dining in San Diego: Baja tacos, Little Italy counters, oceanfront bars, and omakase spots perfect for eating alone."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 San Diego is a city that was made for eating outside, alone, with the Pacific Ocean on one side and a plate of fish tacos on the other. It is a city of perpetual sunshine and seventy-degree days, of beach towns and border flavors, of craft breweries and taco shops and a dining scene that has quietly, steadily grown from "fish tacos and burgers" into one of the most exciting and diverse in California. It is a city where the solo diner at a counter overlooking the ocean, eating a Baja-style fish taco with a cold cerveza while the surf breaks a hundred yards away, is not a person eating alone. They are a person living the San Diego life, and the life is very, very good.
 
 ![Best Restaurants for Solo Dining in San Diego](/assets/images/technology-industry-analysis-insightcrunch.webp)

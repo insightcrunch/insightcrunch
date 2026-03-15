@@ -8,8 +8,8 @@ excerpt: "It has been an epic change to the state. The people of Bengal are tota
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It has been an epic change to the state. The people of Bengal are totally against this as is evident by the campaigns and slogans going on across the social networking sites. In the midst of all this, let us take a moment out to see how Hitler perfectly echoes the Bengali sentiments.
 
 https://www.youtube.com/watch?v=tnMamC8yu3s

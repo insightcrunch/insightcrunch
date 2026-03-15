@@ -8,8 +8,8 @@ excerpt: "The semi-final clash between India and Pakistan will be doing a trick 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The semi-final clash between India and Pakistan will be doing a trick this week. The companies and schools will see a fishy rise in the number of people falling ill ;) No doubt this is going to be the biggest clash between the two teams in recent times. And this hype and interest for this match is nothing amusing. It has now become as big as it could be.
 
 ![India Pakistan Cricket Match](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -8,8 +8,8 @@ excerpt: "Tata consultancy services put all discussions to rest after a hype reg
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Tata consultancy services put all discussions to rest after a hype regarding weakening demand over the IT and outsourcing sector after brokerage firm CLSA's report was published which has downgraded the country's software services sector. IT has been clarified that the market is still strong and clients are positive more than ever.
 
 ![TCS clarifies rumor on demand for outsourcing in 2011](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -8,8 +8,8 @@ excerpt: "After PWC was sold of to IBM, EY to Capgemini, years ago, the big play
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 After PWC was sold of to IBM, EY to Capgemini, years ago, the big players in the field of consulting remained Deloitte, Accenture, IBM, KPMG, Ernst & Young, CSC, etc. Most IT companies in general provide consulting service along with their IT solutions. The undoubted big players in this field can be named easily, but the daunting task comes when scoring one above the other. But still, with proper knowledge, a clear picture can be put forward.
 
 ## Job Security

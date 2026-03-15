@@ -8,8 +8,8 @@ excerpt: "The Oracle Data Relationship Management application provides tremendou
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle Data Relationship Management application provides tremendous flexibility in terms of managing the master data for an organization. It has amazing customizing options and integrability with other Oracle products that makes it even more useful.
 
  Here I will explain how easily we can solve a complex business requirement using DRM. The requirement is to have **3 different hierarchies for 3 different downstream applications** in a txt file for the same segment, say Account. So each downstream application will receive a different Account hierarchy from DRM - i.e. the parent child relationships will be different for the 3 applications.

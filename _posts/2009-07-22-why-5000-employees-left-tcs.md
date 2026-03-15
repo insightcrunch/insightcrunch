@@ -8,8 +8,8 @@ excerpt: "The headcount of India's largest software company shrank despite a gro
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The headcount of India's largest software company shrank despite a gross addition of staff. According to Hindustan Times, in the latest quarter TCS added a total of 2,828 employees with the total headcount of 1,43,761 at the start of the quarter. According to a site, if the new hires are taken into consideration, the total employees strength should have reached 1,46,589 by the end of June. However, the firm's headcount was 1,41,642 as of June 30, 2009, showing a net reduction of 4,947 employees.
 
 A company spokesperson confirmed the staff decline but added that TCS's attrition levels were in line with the industry average. "Our attrition level has remained similar to what it was in the previous quarter. However, since we have controlled gross additions, the overall headcount has come down," said a TCS spokesperson.

@@ -8,8 +8,8 @@ excerpt: "*This guest post was written by Ashish Nandwani*."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This guest post was written by Ashish Nandwani*.
 
 This article is all about how to approach your engineering years henceforth my own experience. I was not able to get into a very good college , I would have thought . I found it very difficult to adjust and adapt to this new environment of college. Not to forget , The teachers were not even close to the one's I would have imagined (After I was able to meet some really good teachers while preparing for IIT's). First two years of college , I never thought I would ever become an engineer in some sense or credibility. Information Technology is Of-Course not only about programming , I knew I was definitely missing something , We always tended to waste most of the 'Lab periods'(Of 3 hours) , Making programmes always took less than 20 minutes.

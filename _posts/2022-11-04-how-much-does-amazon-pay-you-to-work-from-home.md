@@ -8,8 +8,8 @@ excerpt: "Amazon employs thousands of workers across its warehouses and corporat
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon employs thousands of workers across its warehouses and corporate offices across the globe. The job that Amazon provides start from hourly and span across part time to full time jobs. The payment that Amazon provides to its employees for working from home is as mentioned below. The payment is much higher than many other organizations and the overall country average. The payment provided by Amazon is extremely competitive and also brings with it a number of employee benefits and perks like retirement plans, paid holidays, and vacations. Candidates are always looking forward to join Amazon and avail these benefits along with good compensation.

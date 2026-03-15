@@ -4,12 +4,12 @@ title: "What’s my TCS college grade?"
 date: 2010-07-16
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "With the joining dates of 2010 batch students going on, candidates are more than ever curious to know what grades would be given to their college. Based on last years data where more than 20,000 TCS ..."
+excerpt: "TCS college grading system explained: how TCS grades engineering colleges into tiers, what your college grade means for joining date and ILP placement."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 With the joining dates of 2010 batch students going on, candidates are more than ever curious to know what grades would be given to their college. Based on last years data where more than 20,000 TCS candidates of 2009 batch shared their information of colleges in Orkut and various other communities, this list is presented below. Apparently the joining dates are given in the order of grades, i.e. A, B, C* and then C. But after a few months different colleges of different grades of both CS and Non-CS streams start getting their joining dates in parallel. Here is the summary of the college grades.  
 
 The 2010 batch joining dates have started earlier than the 2009 batch joining dates no doubt, and hence the mood is really high amongst the candidates. More so after a stunning show of performance by TCS in the quarterly results.

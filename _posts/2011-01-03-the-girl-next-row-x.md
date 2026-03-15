@@ -8,8 +8,8 @@ excerpt: "This is a TCS ILP guest post by Debapriya Mukherjee. The views express
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 The train started 20 minutes after the scheduled time.Delay in train schedule is a very common thing in Bengal.So if a train comes in correct time, there remains a possibility of missing the train.Reluctant Bengalees. The only case where the train may come in time, if it comes 24 hours late.

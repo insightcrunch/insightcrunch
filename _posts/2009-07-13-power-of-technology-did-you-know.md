@@ -8,8 +8,8 @@ excerpt: "It has been obvious and undeniable for quite a few years now, the rate
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It has been obvious and undeniable for quite a few years now, the rate at which technology is engulfing and taking part in every minute aspect of our day-to-day lives. But seldom we can imagine at what scale it’s impact is right now over the entire world. Seldom we get to know the facts that fill us with awe and wonder at what a tech age we are living in! The future is sure to be much more fascinating with nanotechnology and artificial intelligence gaining pace and Microsoft coming up with some cool projects. But even now, there is enough to make us wonder. See some facts and realize yourself.
 
 https://www.youtube.com/watch?v=kyVrm_w_Xv8

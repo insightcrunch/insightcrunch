@@ -8,8 +8,8 @@ excerpt: "Amazon continues to employ hundreds of thousands of workers all around
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon continues to employ hundreds of thousands of workers all around the world due to its vast network of warehouse and logistics. You can find the Amazon jobs login details and links and the steps to create your profile in the links shared below. You can also find a variety of Amazon jobs based on the different locations, skill sets, technologies, and type of work based on the category segmentation provided below. The links below provided will help you get the latest and best information on how you can find a job that is best suited to your skill sets. We recommend you to bookmark this page and visit it frequently to find the latest jobs that have been updated by Amazon in their portal. 

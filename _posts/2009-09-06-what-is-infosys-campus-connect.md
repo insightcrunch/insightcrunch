@@ -8,8 +8,8 @@ excerpt: "It is training program conducted in various colleges by Infosys to pre
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It is training program conducted in various colleges by Infosys to prepare the freshers on various topics and fields to make them industry ready. Most of the topics covered help the students apply their knowledge in the practical field. Though non-CS/IT students would  benefit a lot from it, it is also useful for CS/IT students to brush up their skills.  
   
 The official website is [here](https://www.infosys.com/about/esg/social/employee-development/campus-connect.html). Students can join the portal to become part of the system and get materials to prepare themselves for the exams. They are also available in various blogs and communities across the web. To get a glimpse click this button, *confirm* the mail you get and see the bottom of the mail. All the materials are by Infosys and related rights are also theirs. So some links may not work if the owners of those blogs have removed them. However, these should suffice for quite some time.

@@ -8,8 +8,8 @@ excerpt: "We are all aware how useful the DRM batch client can be to automate ma
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to troubleshoot the errors that start happening as mostly when it happens (which is rarely though) it takes lot of time to resolve.
 
 For example, let us take the below error message which greeted me one fine day:

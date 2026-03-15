@@ -4,12 +4,12 @@ title: "TCS ILP Training Centre at Haldia Institute of Technology"
 date: 2010-09-15
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "TCS has chosen Haldia Institute of Technology as one of its ILP training centre. This centre can accommodate around 700 TCS Trainee Associates."
+excerpt: "TCS ILP at Haldia Institute of Technology: one of the satellite training centers with capacity for 700 trainees and its unique setup."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is an article by Anupam Pattanayak.   
 TCS has chosen Haldia Institute of Technology as one of its ILP training centre. This centre can accommodate around 700 TCS Trainee Associates.   
 8 faculties from CSE, MCA, and IT department of HIT has been inducted as ILP trainer till now. We have to teach Basic Programming Concepts using Dr Scheme programming language, Structured Modeling, OOP concept using Dr Java, OOP implementation. We started taking classes from 31 December.   

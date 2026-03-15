@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest software organizations in the world today. 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is one of the largest software organizations in the world today. Meta has been hiring a lot of engineers over the last few years. Due to the variety of projects that it has been working on, the performance review system at Meta has also seen various changes over the years. One of the aspects in the Meta performance review system is the feedback from peers and colleagues. However, this format of review system has often been termed like a popularity contest by Meta employees. Many employees try to make friendships with their colleagues to get favorable feedbacks. The feedbacks provided are anonymous during the review process and can stay in their profile for years down the line. Many employees have voiced their opinions regarding the performance review system at Meta. Employees have highlighted that managers have often been critical to them for not attending team building events outside work. Employees often had personal issues or family problems due to which they could not participate in various after-work activities. However, managers had often been critical of employees who did not participate in such events. Become a subscriber and practice the Meta interview and coding questions below

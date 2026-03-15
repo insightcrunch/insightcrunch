@@ -8,8 +8,8 @@ excerpt: "In case you have missed it, here is the most comprehensive update of t
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 In case you have missed it, here is the most comprehensive update of this outstanding performance by this giant. Here are some of the key talks that were enough to bring the so earnestly required positive vibes in the industry.
 
 https://www.youtube.com/watch?v=D6-VS4xXW-A

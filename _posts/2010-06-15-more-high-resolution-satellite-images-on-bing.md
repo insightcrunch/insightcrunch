@@ -8,8 +8,8 @@ excerpt: "The images on Bing are captured at an effective distance of 20 feet fr
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The images on Bing are captured at an effective distance of 20 feet from the ground and hence the level of detail is so amazing compared to Google Maps where the distance is 50 feet.
 
 ![Bing Map Photos](/assets/images/technology-industry-analysis-insightcrunch.webp)

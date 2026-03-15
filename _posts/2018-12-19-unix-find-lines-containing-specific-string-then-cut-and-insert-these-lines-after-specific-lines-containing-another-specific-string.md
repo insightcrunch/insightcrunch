@@ -8,8 +8,8 @@ excerpt: "The world of data integration and transformation gets more and more ex
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The world of data integration and transformation gets more and more exciting every day. Where we have data fuelling intelligent applications, and transformations paving the way to create cleaner and leaner data. Let's dive in to some sorting and ordering transformations using shell scripting which will subsequently be triggered via ODI. We now have an interesting scenario where we have to identify all the records having the string "Parmesan Cheese", and after identifying the unique identifier, we have to cut this record and paste it under the immediate next record having the string "Filet Mignon" with the same unique identifier. Let's see a quick example below:
 
 **Base Dataset:**  

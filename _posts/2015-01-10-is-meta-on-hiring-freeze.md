@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest social media and technology companies in th
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is one of the largest social media and technology companies in the world today. The ongoing recession has cast a deep shadow in the hiring and recruitment scenario at Meta. Meta layoffs are constantly now the topic of discussion among its employees. Metaverse was one of the most inspired projects that Meta wanted to complete. Meta had invested billions of dollars in this Metaverse project. Interestingly the virtual reality job postings have been removed by Meta. Meta is no longer hiring for its virtual reality teams as it had planned to do before. The number of employees that were required earlier in the artificial intelligence and virtual reality projects in Meta has been considerably reduced. Employees are being asked to perform and do much more work than they were supposed to do earlier. This is also a strategy that Meta has taken to remove low performing workers. Meta has highlighted that there were many employees in the organization who should not be there. In order to save them from financial trouble, Meta is desperately trying to find non-essential employees. Prepare for your interview with the Meta interview questions below. Subscribe to get access to a collection of Meta interview coding and aptitude questions.

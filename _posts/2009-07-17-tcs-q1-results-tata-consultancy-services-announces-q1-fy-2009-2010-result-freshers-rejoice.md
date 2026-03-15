@@ -8,8 +8,8 @@ excerpt: "TCS has finally released their Quarter 1 results for the Financial yea
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 TCS has finally released their Quarter 1 results for the Financial year 2009-10. Amongst others, freshers who are awaiting joining dates were really eager to see how they fare. And the good news has arrived. TCS will start to call freshers from this quarter itself. You cannot be sure when they will give joining dates to your college, but people say they call according to the rankings of the colleges. An official assurance for us after a long time!
 
 ![TCS Hiring Freshers NQT Ninja Digital Registration BPS Resume](/assets/images/technology-industry-analysis-insightcrunch.webp)

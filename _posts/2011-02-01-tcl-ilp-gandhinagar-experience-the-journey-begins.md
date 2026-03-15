@@ -8,8 +8,8 @@ excerpt: "This is a guest post on TCS ILP by Chandan Kumar Singh. The views expr
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS ILP by Chandan Kumar Singh. The views expressed are entirely of the author.  
   
 Hello everyone, I am so grateful that somebody is willing to go through my experiences at TCS ILP. I am Chandan Singh, from Gaya, Bihar. Please forgive me if I am having any sort of grammatical mistakes. I have got Gandhinagar, Gujarat as my ILP Center. I have to report at Gandhinagar on 16th December, 2010. We were the premapped batch at Gandhinagar. We were supposed to join the Gandhinagar development center after our training.

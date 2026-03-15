@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today. Amazon e
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today. Amazon employs nearly 1 million people all over the world. It is a mixture of part time and full time employees and Amazon has been hiring continuously hundreds of employees every month. Amazon has their headquarters in Seattle and various other cities across the globe. It is one of the largest employers among the technology corporations in the world. Amazon is one of the most attractive employers as well for students and graduates who are looking to build a career in the computer science and technology industry. However, getting hired by Amazon for some of these much coveted roles require a lot of effort. Only about 2% of the candidates who apply for a job actually get hired at Amazon. Preparation is key of getting a job at Amazon. You should know what you actually want to do and which program you want to be a part of in Amazon. Amazon has a comprehensive list of about 14 leadership principles. Amazon also is fully aware of what it is looking for in a candidate early on in the interview process. The hiring process of Amazon actually starts about an year before the start date of hiring an employee. Usually most of the new hires at Amazon start between April and September.

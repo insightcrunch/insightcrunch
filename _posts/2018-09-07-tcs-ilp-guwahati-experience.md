@@ -4,12 +4,12 @@ title: "TCS ILP Guwahati Experience"
 date: 2018-09-07
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by Srinithaa Ravi. The views expressed are of the author.*"
+excerpt: "TCS ILP Guwahati experience: training life at the Northeast center, smaller batch dynamics, Assamese culture, and what makes this location unique."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Srinithaa Ravi. The views expressed are of the author.*
 
 I finished my ILP at Guwahati ( Oct - Dec 2017 ) and I’m currently working in Chennai as an Assistant Systems Engineer Trainee. I went blindfolded with no clue about what was to happen.. That was the best part. If you are still curious to know.. I will spill the beans.. Continue reading :P

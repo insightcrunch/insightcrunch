@@ -8,8 +8,8 @@ excerpt: "It seldom comes as a surprise when a fascinating vision of deriving in
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It seldom comes as a surprise when a fascinating vision of deriving insights starts with tons of bytes of texts and numbers looking like anything but structured to start with. An engagement gets all the more exciting while engaging with a pool of bright data individuals, and a great pleasure to be able to interact with a thoughtful team discussing the subtle intricacies and popular industry challenges and solutions. The tougher the path became, the more exciting the discussions became, often for hours.
 
 ![](/assets/images/technology-industry-analysis-insightcrunch.webp)

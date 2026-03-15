@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations around the world and it empl
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 14
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations around the world and it employs hundreds of 1000s of people. The Amazon job application process is extremely straightforward and candidates can apply in any of the available job openings in the Amazon job portal. In the links given below, you will be able to get different types of job openings that are available at Amazon in the different departments, locations and teams. You can also use the search box to find available jobs based on the type of the job you were looking for. In the different portals you should log in with your profile in Amazon. If you have not already created a job application profile, then you should create a new profile, especially for applying to Amazon. 

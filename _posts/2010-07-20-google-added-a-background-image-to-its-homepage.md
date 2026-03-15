@@ -8,8 +8,8 @@ excerpt: "Google may be taking note of the photogenic interface of the Bing home
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Google may be taking note of the photogenic interface of the Bing homepage which led it to add a background image last month. The traditional neat look of the homepage faced a sharp contrast with the flashy background image behind the Google search box. But the question is that will Google users accept this change wholeheartedly.
 
 ![Google Homepage Background Design](/assets/images/technology-industry-analysis-insightcrunch.webp)

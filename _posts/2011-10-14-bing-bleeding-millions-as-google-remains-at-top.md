@@ -8,8 +8,8 @@ excerpt: "Microsoft’s Bing search engine has been one of the most recent disas
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Microsoft’s Bing search engine has been one of the most recent disasters by any giant organization. Microsoft spent millions of dollars on it’s search engine, advertising it to the fullest potential it can. It integrated Bing search into Internet Explorer, but still, Google continued to firmly stay at the top. Guess why?
 
 Google has become a strong brand household name, and more than that, it’s a verb now! No amount of advertising bucks can beat that. You need years of solid performance to become a verb such as Google. And to topple Google, you not only need to consistently be at your supreme best, but also need to make immense sacrifices which Bing is making right now by bleeding millions. As of now, Microsoft has lost $5.5 billion on Bing since its 2009 inception.

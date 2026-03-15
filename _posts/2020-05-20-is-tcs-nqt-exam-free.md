@@ -4,12 +4,12 @@ title: "Is TCS NQT exam free?"
 date: 2020-05-20
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Tata Consultancy Services National Qualifier Test (NQT) is the exam that many software engineer is aspiring for to be a part of the software industry today. The exam provides candidates an ..."
+excerpt: "Is TCS NQT free? Exam fee details, whether TCS charges for registration, and how the cost works for campus vs off-campus candidates."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tata Consultancy Services National Qualifier Test (NQT) is the exam that many software engineer is aspiring for to be a part of the software industry today. The exam provides candidates an opportunity to enroll in one of the many job profiles offered by TCS. If you have a CodeVita background, you may even land up in one of the research and development teams in TCS. U have come across many candidates who ask how to prepare for the TCS NQT exam and what is the cost of this exam. The answer depends if you look at it from different perspectives. We will learn this in details.

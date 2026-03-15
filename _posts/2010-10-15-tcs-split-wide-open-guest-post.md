@@ -4,12 +4,12 @@ title: "TCS Split Wide Open – Guest Post"
 date: 2010-10-15
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest article by Sai Shankar. The information is solely by the author. *"
+excerpt: "An extensive insider account of TCS: corporate structure, project allocation realities, onsite opportunities, and the honest truth about working at TCS."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 28
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest article by Sai Shankar. The information is solely by the author. *
 
 This post is about TCS - Tata Consultancy Services and my experiences with the company.

@@ -8,8 +8,8 @@ excerpt: "How many times shave you wanted to hide a particular folder and search
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 How many times shave you wanted to hide a particular folder and searched in vain for a free tool. Finally, you can get it. Install this and let your wings let you fly as you store virtually all kinds of files in your computer.
 
 ![Lock Laptop Folders and Hide Files](/assets/images/technology-industry-analysis-insightcrunch.webp)

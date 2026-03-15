@@ -8,8 +8,8 @@ excerpt: "The true essence of technological advances comes with our understandin
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The true essence of technological advances comes with our understanding of the surroundings, getting better with the aid of tools that never existed before. As analytics continues to evolve at a blistering pace, it brings with it the ability to take decisions that affects the lives of millions around us. Out of seeming nothingness we get concrete patterns that could only have been imagined few decades back.
 
 ![](/assets/images/technology-industry-analysis-insightcrunch.webp)

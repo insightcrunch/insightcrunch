@@ -8,8 +8,8 @@ excerpt: "Meta is the parent company of Facebook and Instagram. CEO Mark Zuckerb
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is the parent company of Facebook and Instagram. CEO Mark Zuckerberg has said that it will freeze hiring and restructure all the teams within the organization in order to optimize its finances and focus on long term priorities. The senior management at Meta also said that they are focused on reducing the budget across most of the teams within the organization. This would also include teams that are growing and are being profitable. Mark Zuckerberg said that individual teams within the company will need to find out how to handle headcount changes. Mark Zuckerberg mentioned that the company should be ready for more downsizing in the coming years. There were several internal meetings in the company during which the senior management at Meta passed this information to its employees. There has been a decline in revenue at Meta and some of these decisions are due to these financial figures. Mark Zuckerberg also mentioned that he will not be ruling out layoffs in the organization. Prepare with the Meta interview questions below to stay ready.

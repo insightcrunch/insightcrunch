@@ -4,12 +4,12 @@ title: "TCS NQT Coding Questions"
 date: 2019-07-24
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The TCS NQT exam is the most comprehensive exam that is conducted by Tata Consultancy Services to evaluate thousands of candidates in minimal time. The syllabus consists of a variety of topics that ..."
+excerpt: "TCS NQT coding questions: difficulty level, programming languages allowed, common problem types, and how the coding section is evaluated."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The TCS NQT exam is the most comprehensive exam that is conducted by Tata Consultancy Services to evaluate thousands of candidates in minimal time. The syllabus consists of a variety of topics that are essential for a candidate to know before joining the software industry. The TCS NQT coding questions form one of the critical decisive sections in the exam that can take your career either ways. You will be provided with time to solve the coding questions, however the complexity and challenging scenarios mean you must practice sufficiently before the exam.

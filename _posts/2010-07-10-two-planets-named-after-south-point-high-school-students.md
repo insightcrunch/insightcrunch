@@ -8,8 +8,8 @@ excerpt: "Great news for Pointers! Two students of South Point High School in Ko
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Great news for Pointers! Two students of South Point High School in Kolkata will now have minor planets named after them.
 
 The Massachusetts Institute of Technology (MIT) and Lincoln Laboratory, USA, have bestowed the honor on Anish Mukherjee and Debarghya Sarkar in recognition of their winning the second Grand award in Electrical and Mechanical Engineering category at the Nevada Fair, the South Point Education Society said in Kolkata. The honor was given to them in recognition of their performance at the 2009 Intel International Science and Engineering Fair in Neveda, USA. Anish and Debarghya won the second grand award in the electrical and mechanical category in the event.

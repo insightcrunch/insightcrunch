@@ -8,8 +8,8 @@ excerpt: "Hugh Pickens writes \"The Toronto Star reports that a Utah woman is su
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Hugh Pickens writes "The Toronto Star reports that a Utah woman is suing Google for more than $100,000 in damages, [claiming its maps function gave her walking directions that led her onto a major highway](http://www.thestar.com/entertainment/article/816724--woman-who-walked-onto-highway-sues-google-maps), where she was struck by a car. Lauren Rosenberg sought directions between two addresses in Utah about 3 kilometers apart and the top result suggested that Rosenberg follow a busy rural highway for several hundred meters.
 
 ![Google Maps Usage](/assets/images/technology-industry-analysis-insightcrunch.webp)

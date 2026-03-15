@@ -8,8 +8,8 @@ excerpt: "The Weblogic services essential for the Oracle DRM integration to work
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months once setup successfully.
 
 However, in case we start getting the error message that the EM page cannot be displayed, then we need to make sure the below services are up.

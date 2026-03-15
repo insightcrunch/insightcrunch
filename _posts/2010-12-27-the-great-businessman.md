@@ -8,8 +8,8 @@ excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are e
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 What else you can do when you are sitting idle in your room with an Internet connection(which is also provided by the office for free of cost -  my PL will kill me if he comes to know), when you have already lost your interest in chatting, you are no longer interested to drool upon Sunny Leone or Jenna Jameson, or you don't have the energy to peep in the girls' profiles in Orkut or Facebook?

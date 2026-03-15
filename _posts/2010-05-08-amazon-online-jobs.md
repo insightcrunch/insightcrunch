@@ -8,8 +8,8 @@ excerpt: "Amazon offers a variety of jobs in different parts of the world in its
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 11
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon offers a variety of jobs in different parts of the world in its vast network of supply chain and warehouses. In this article, we will be presenting all the different types of Amazon online jobs, including the full time, part-time, and hourly jobs. In addition, we will be also sharing all the essential links and references which candidates can use to apply the jobs and filter based on the different types of job categories and locations. In particular, we will be also focusing on the core values and principles that every candidate needs to know to prepare for Amazon. In order to prepare for Amazon, it is also important for the candidates to be aware of the interview questions that they can expect in the actual interview.

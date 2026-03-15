@@ -8,8 +8,8 @@ excerpt: "In a shocking incident, a TCS employee in Bangalore committed suicide 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 In a shocking incident, a TCS employee in Bangalore committed suicide by jumping from the 11th floor of his office building on Friday.
 
 A graduate from the famous Gotge Institute of Technology in Belgaum, 22-year-old Sudarshan Moothedath joined TCS on August 9.

@@ -8,8 +8,8 @@ excerpt: "The technology service industry has transformed in recent years. Worki
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 The technology service industry has transformed in recent years. Working from home has become the norm for many individuals. The productivity has remained unaffected. Organizations have come to terms with this new reality. Many Tier-2 cities have seen a rise in investments as firms start investing more in these cities closer to the native home of many professionals. This is because experts found attrition rate started increasing when associates were being gradually asked to come to office to resume working. Tata Consultancy Services is one of India’s largest software services organizations. TCS has also said that 20% of its over 6,00,000 employees are currently working out of their designated office locations. TCS is trying to return to a post-pandemic working normal.

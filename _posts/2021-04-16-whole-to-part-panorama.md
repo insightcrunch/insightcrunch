@@ -8,8 +8,8 @@ excerpt: "..."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ![](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
  Any new initiative brings with it several bytes of data to start with. When we start with the goal to derive insights, evaluating the available raw data becomes the only activity for days. Fields stop making sense with relation to another if at all when we challenge it enough but often enables modeling with precision with regard to the context.

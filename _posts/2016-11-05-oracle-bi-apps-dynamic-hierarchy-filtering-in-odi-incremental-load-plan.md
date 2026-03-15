@@ -8,8 +8,8 @@ excerpt: "Oracle Business Intelligence Applications often sources data from vari
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension information during the loading processes. There are a variety of ways this can be done, let's take a walk through of few possible mechanisms of how this can be achieved in the Oracle Data Integrator incremental load plan with the maximum amount of flexibility.
 
 ![Oracle BI Apps Dynamic Hierarchy Filtering using ODI Incremental Load Plan](/assets/images/technology-industry-analysis-insightcrunch.webp)

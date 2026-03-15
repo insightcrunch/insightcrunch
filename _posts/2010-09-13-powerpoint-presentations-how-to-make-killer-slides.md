@@ -8,8 +8,8 @@ excerpt: "We have all come across presentations, some of them we have found bori
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 We have all come across presentations, some of them we have found boring to death and struggled to stay awake and some were so enthralling that chills ran down our spine as time passed. No doubt the presenter has a role to play, but the presentation plays the major role in it.
 
 ![PowerPoint Presentation Tips](/assets/images/technology-industry-analysis-insightcrunch.webp)

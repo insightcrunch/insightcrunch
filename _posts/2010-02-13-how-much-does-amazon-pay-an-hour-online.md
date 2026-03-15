@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest employers in the world with thousands of 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 11
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest employers in the world with thousands of warehouses and employees distributed globally. The payment that is provided by Amazon to its employees is extremely competitive in the country. See below to see the overall hourly rates that is provided by Amazon to its employees in different departments. The below links and search boxes will help you choose a particular role that best matches your skill sets. You can filter by location, skill set, and different departments and teams that might be the best fit for you. The most common question that I come across candidates is how much does Amazon pay an hour online. Amazon offers a variety of online work from home jobs as well.

@@ -8,8 +8,8 @@ excerpt: "We might soon be able to search a song or music in the market and clic
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty compelling of Google Music, if that is what it is going to be called in the end. Google teased the audience a few weeks ago about this which would be a new segment in the Android market.
 
 ![Spotify vs iTunes vs Amazon Music vs Google Music](/assets/images/technology-industry-analysis-insightcrunch.webp)

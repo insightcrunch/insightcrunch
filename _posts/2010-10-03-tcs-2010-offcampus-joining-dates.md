@@ -8,8 +8,8 @@ excerpt: "The process of giving out joining dates for the offcampus candidates s
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The process of giving out joining dates for the offcampus candidates seems to be slow but have started. It is just a matter of time now before each an every one of the remaining candidates get their joining dates. Discussions and sharing of news are as always continuing on the various social networking sites. The data shared below is done by hundreds of TCS candidates in their facebook community. For more information click on the ‘What’s Hot’ menu above.
 
 The offcampus candidates had been a little disappointed for sometime now as their joinings weren’t at the same pace as their oncampus counterparts till now. But now that the scenario is changing it is going to be a pretty good month coming up for them it seems. 

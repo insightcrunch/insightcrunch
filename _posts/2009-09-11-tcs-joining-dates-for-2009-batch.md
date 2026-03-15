@@ -8,8 +8,8 @@ excerpt: "Many colleges have started getting some information regarding their pr
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Many colleges have started getting some information regarding their probable joining dates as is apparently seen from the massive outburst of activities and posts in some orkut communities.  Candidates are really very happy and excited about the new developments and constantly discussing and sharing their views and new information regarding joining dates. Let’s hope all the candidates get their joining dates soon. 
 
 Many of them are getting placed in various training centers spread across the country. Time to pack the bags and prepare for a fresh new beginning, a new professional career in India’s biggest IT company. The mood is no doubt ecstatic. The wait is finally over. People who just finished their B.Tech. around the month of May-June will be more than pleased with the proceedings. As promised by TCS, joining of candidates would start from Q3 (October-December). And it has already started before Q3. The best software company in India continues to honor it’s commitments to it’s employees.

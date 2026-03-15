@@ -8,8 +8,8 @@ excerpt: "Getting the joining date for Tata Consultancy Services is indeed a gre
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Getting the joining date for Tata Consultancy Services is indeed a great feeling. However often we have seen that the joining date is unexpectedly delayed for various reasons. What are the factors that affect the joining date? What can we do during this time? How can we make sure that we are doing the right things? The TCS 2022 joining date is no different, let’s learn more here.

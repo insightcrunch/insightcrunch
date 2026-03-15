@@ -8,8 +8,8 @@ excerpt: "“Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 “Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well it doesn’t have as much cheese as you would get in the Chicken Cheese Italiano Pizza in Pizza Hut, but it tastes good. Also try the Chocolate pastry at Biscotti if you ever get a chance.” This is pretty much what one would hear if he gets to ask an IT professional about some good food in the city. Yes, they have the money. They have the cool geek status. They don't bother to spend thousands for the style. They surround themselves with all sorts of gadgets (including me!). And last but not the least, they never compromise on eating to focus on their health. In fact, an average IT professional spends anything between 5-10% of his or her salary on food.
 
 It has appeared that IT people start eating out more than before after they get accustomed to their professional life. And this junk food and delicacies outdoors adds half an inch to their waistline every year. Yes, you read right, half an inch. (If you doubt, look around you and multiply the experience of your colleagues in years by 1/2 inch and try to guess and compare with their waist size.

@@ -8,8 +8,8 @@ excerpt: "As National Weather Service officials declared Friday that two tornado
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 As National Weather Service officials declared Friday that two tornadoes had indeed swept into New York City on Thursday, some tree-lined streets in Brooklyn and Queens looked - at least from the air - like Lego masterpieces that angry children had done their best to sweep aside.
 
 ![New York Weather](/assets/images/technology-industry-analysis-insightcrunch.webp)

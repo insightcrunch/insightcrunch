@@ -8,8 +8,8 @@ excerpt: "Your CV tells your story to the whole world. For applying to Tata Cons
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Why CV Format is important
 
 Your CV tells your story to the whole world. For applying to Tata Consultancy Services, a quality TCS resume can help you stand out from the crowd. What is the difference between a resume and CV? Well, a CV tells your whole story and remains unchanged even if you apply to different jobs and positions. Whereas, your resume is tailored to a specific role that you may be applying, and hence tends to be usually more specific and shorter than a CV. As a interviewer, I would love to see your CV that tells your story in a clear concise way.

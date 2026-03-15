@@ -8,8 +8,8 @@ excerpt: "TCS has made it really simple for selected candidates to keep their se
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 TCS has made it really simple for selected candidates to keep their selves updated regarding the developments in the company with their NextStep portal. TCS also uploads relevant information and documents regarding the freshers who can then easily download them. The best part if obviously security (as all candidates are provided with their own unique passwords, an excellent step taken by TCS to ensure security) and convenient ease of use (since candidates can easily login and get their stuffs in absolutely no time).
 
 Read more: [TCS 2010 Batch Campusing »](https://insightcrunch.com/2009/11/28/tcs-2010-batch-campusing/)

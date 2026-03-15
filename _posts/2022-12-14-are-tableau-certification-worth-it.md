@@ -8,8 +8,8 @@ excerpt: "Tableau is one of the most popular data visualization and analytical t
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tableau is one of the most popular data visualization and analytical tools available today. Hundreds of business corporations are constantly using Tableau on a day-to-day basis to find more insights about their business operations and the data they have. One of the most popular questions that I have come across candidates who are working in Tableau and looking forward to getting a certification to enhance their resume is if the Tableau certification is really worth it? Candidates on Reddit and other social forums have highlighted that the certification definitely adds value to your resume. But the most important thing is to have sufficient hands on practice with the tool, you should be fully aware how to work in a live business environment and projects along with having a certification. 

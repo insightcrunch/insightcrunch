@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services is one of the largest software services orga
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tata Consultancy Services is one of the largest software services organization in the world. TCS employs close to a million employees and conducts evaluation exams every year to hire fresh candidates. A variety of roadmaps exist for TCS to hire experienced candidates in a variety of domains. Candidates from all backgrounds can find their way into TCS if they have the right set of skills. Candidates are also interested in the TCS rehire policy after resignation and if they can rejoin TCS. With the technological landscape changing so fast, the need for candidates having the perfect set of skills will always exist. The business model of TCS has been one of the most resilient in the industry.

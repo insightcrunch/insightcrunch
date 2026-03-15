@@ -8,8 +8,8 @@ excerpt: "As digital data has grown over the years and our dependency on gadgets
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 As digital data has grown over the years and our dependency on gadgets has risen, there came a need for something more than the concept of simply storing files in different folders in the cloud. The concept of note-taking thus evolved and has made steady progress over the last 4-5 years. I had [Evernote](https://www.evernote.com/referral/Registration.action?sig=c81abcefab73f626c24b473e45362cebb02c01135cb986a655bfc0528da30b55&uid=68011063) installed in my phablet since March 2014 but never really used it until 2016.
 
 [](http://imageshack.com/a/img922/8171/rHldx3.jpg)When I started using it bit by bit for small amounts of information, I started realizing the significance of it. Today in my [Evernote Premium](https://www.evernote.com/referral/Registration.action?sig=c81abcefab73f626c24b473e45362cebb02c01135cb986a655bfc0528da30b55&uid=68011063) account I have 649 notes in 14 notebooks with 80 tags categorizing each of them. The major driving factor for myself taking up the Evernote Premium membership even after having the OneDrive with Office 365 subscription was fine-tuning my daily life and re-organizing my digital life in the best possible fashion.

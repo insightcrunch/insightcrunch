@@ -4,12 +4,12 @@ title: "TCS ILP Trivandrum"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by Jinxed Phoenix . The views expressed are solely of the writer."
+excerpt: "TCS ILP Trivandrum experience: another perspective on training at TCS's flagship ILP center covering technical sessions, hostel life, and Kerala culture."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 7
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Jinxed Phoenix . The views expressed are solely of the writer.   
 * It has been a year now, but the feeling is still fresh. I remember how nearly a year back I bid farewell to my dear ones and boarded for a new journey. Clutching my mobile thinking, now it’s probably the only way I can contact. Called all random numbers I knew, announced to all my friends that I’m going for training, TCS Trivandrum and one common question I heard, “why so far? When you’ll return.” I could manage to say “I’ll be back in a month” and the journey started.
 

@@ -8,8 +8,8 @@ excerpt: "“I cannot decide which company to opt for. What to do now? Should i 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 6
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 “I cannot decide which company to opt for. What to do now? Should i go to TCS or Accenture?” – This is the question that has crossed the minds of thousands till date for sure. And there has been random searches for data comparison from your peers, over the internet, from your relatives, and everywhere else. Well, now you can just go through this article below to find the most comprehensive comparison ever to help you take your decision.
 
 ## Project Allocation

@@ -8,8 +8,8 @@ excerpt: "In the last week of September 2022, the internet became alive with rum
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 In the last week of September 2022, the internet became alive with rumors of something happening in China even though there has been no official version announced anywhere. Citizens of the internet started guessing that there has been a political or military coup against the current President Xi Jinping. There are also reports of potential military activity in Western China. The discussions are finding ground based on the evidences of reports of canceled passenger flights in certain regions of China. The reports are also based on the fact that President Xi has not been seen in public for some time. There has also been reports of military vehicles moving in the direction of Beijing which is the capital of China. In the absence of official confirmation, it is now possible for various stories and theories to take different versions and spread like news. However, the fact remains that something is happening in China which people are not used to seeing and hence are not easily accepting it as normal.

@@ -8,8 +8,8 @@ excerpt: "The TCS ILP Gandhinagar is one of the largest in the region and can ac
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The TCS ILP Gandhinagar is one of the largest in the region and can accommodate an astounding number of professionals. With world-class amenities and infrastructure, it is surely a place many would aspire to be in. Below is a collection of photos that thousands have been awaiting a long time.
 
 ![TCS ILP Gandhinagar Gujarat Training Placement Hiring NQT Digital Ninja Syllabus Practice Tests Registration](/assets/images/technology-industry-analysis-insightcrunch.webp)

@@ -4,12 +4,12 @@ title: "TCS Interview Tips"
 date: 2017-07-19
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "This is a guest post on TCS Interview by Rakesh Kumar. The views expressed are of the author."
+excerpt: "TCS interview preparation tips: how to approach technical rounds, HR questions, common mistakes to avoid, and the mindset that helps candidates succeed."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 7
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS Interview by Rakesh Kumar. The views expressed are of the author.
 
 I am sharing my TCS Interview experience with u all, along with some tips and tricks,hoping it would help everyone to crack their upcoming interviews... :)

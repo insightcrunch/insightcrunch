@@ -8,8 +8,8 @@ excerpt: "Amazon has quite a few types of opportunities that candidates can work
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 9
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon has quite a few types of opportunities that candidates can work for, and many of those includes work from home facilities as well. If you have the right qualifications for the different jobs that Amazon offers, you can easily start working from home and earn a decent salary by doing the work that Amazon asks you as part of your roles and responsibilities. Amazon also offers various benefits besides the package like medical, vision, and dental policies, besides a 401(k) plan. Hence, considering the Amazon jobs and the work from home opportunities, you should always keep a close watch in the Amazon job portal where new job updates are regularly posted for various types of openings. Subscribe below to get an understanding of the types of questions you can be asked in your Amazon job interview. Amazon online healthcare jobs is one of the most popular jobs that are listed. The average salary for this position is $125,000 per year. Amazon provides several virtual locations with healthcare jobs that can provide you exposure to the healthcare domain. The below subscription will give you access to the Amazon interview questions and real-time practice exercises.

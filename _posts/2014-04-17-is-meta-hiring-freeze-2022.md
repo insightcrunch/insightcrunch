@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest technology corporations in the world today.
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is one of the largest technology corporations in the world today. Big companies around the world are preparing for a recession that might come in various forms. The overall economy in the world is weak due to various factors like the war in Europe and the ongoing inflation. Meta is no exception to these headwinds. Moreover, because it had already been facing a lot of competition from other apps and has been facing data privacy issues. Meta has already started implementing a hiring freeze in the majority of projects across organization. The senior management at Meta has termed it as a reorganization and restructuring to optimize its finances. The CEO of Meta has highlighted in an internal company memo that the changes that were being done, and unpopular decisions were being taken due to various macroeconomic events that are creating an uncertain economy. One of the main factors resulting out of this situation is that advertisers have significantly reduced their spending in the anticipation of a recession. Advertising is the main source of revenue for Meta. In this situation, with the slowdown in advertising, the financial stability of Meta has been hurt severely. Subscribe below to get access to the collection of Meta interview questions.

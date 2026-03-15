@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar – Cracking the Code!"
 date: 2011-01-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "Cracking the code at TCS ILP Bhubaneswar: the breakthrough moment when programming clicks, study strategies that worked, and assessment victories."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 The cigarette was unable to ease the pain, the phobia was clustering.The questions started haunting me- Will I be sent back to home? Won't I get a chance to work in this company?.I went inside the room.Opened my laptop. I had got some study materials.We had to study a typical language Dr.Scheme developed by the professors of MIT. Now what the heck!!who developed who is studying.The Da Vinci Code seemed to be broken easily in front of that impenetrable syntax of that Language.It was almost like Chinese to me.C/C++/Java still bore some meaning, but what was that?.I had never written a code more than 10 lines in my entire Engineering career, that too before my campus interviews. How could I learn this Chinese in 7 days.

@@ -8,8 +8,8 @@ excerpt: "*This is a guest post by one of my cool friends Ratnajit Mukherjee. He
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 6
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer science research.*
 
 Well my friend I had a unique experience a few days when I met one of the my teachers who taught me .net in Globsyn technologies and we were discussing how research goes on and how things are different at a research level and in the industry! I was actually flabbergasted to hear from him that research hardly helps the IT industry. I regret to say that it is quite appalling for a person who has worked so many years in the IT industry to say something like that. Obviously he is not alone many in the IT world actually feel like that even some of you who will read this article feel like that but in this article I present my views about how research affects IT industry and how it has affected it and how it will in the near future. Off course you are welcome to differ in opinion but I am always ready to accept comments. Thanks for reading this in the first place. Now lets cut the crap and come to the point.

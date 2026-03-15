@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar – Fall of an empire"
 date: 2011-01-24
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "The final stretch at TCS ILP Bhubaneswar: project phase pressure, PRA preparation, friendships tested, and the bittersweet countdown to completion."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 Somewhere I heard that any Indian is born with a huge amount of debt with world-bank.In IT industry this can be rephrased with "any software company is born with a huge amount of debt with Google and Microsoft". We used to mock on some of our friends who used to take up courses on Microsoft Office package.Those courses seemed to be very low-graded for the B.Techs.But when you step into a company the pictures rotates in a reverse angle.

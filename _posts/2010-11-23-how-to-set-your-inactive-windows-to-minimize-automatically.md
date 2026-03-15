@@ -8,8 +8,8 @@ excerpt: "If you want to minimize your windows that have been idle and are left 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 If you want to minimize your windows that have been idle and are left unused for a specific period of time, then you can try this new tool from here. This is going to let you choose when your windows are going to be minimized. You can set the time in seconds.
 
 ![Minimize Inactive Windows Automatically](/assets/images/technology-industry-analysis-insightcrunch.webp)

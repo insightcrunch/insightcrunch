@@ -8,8 +8,8 @@ excerpt: "It had been a craze for quite a long time, and still so a lot now. But
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with people giving thumbs up to the iPad, which doesn’t support Flash. Steve Jobs expressed his view on this subject.
 
 ![iPad by Steve Jobs](/assets/images/technology-industry-analysis-insightcrunch.webp)

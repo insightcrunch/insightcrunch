@@ -8,8 +8,8 @@ excerpt: "The Oracle DRM Batch Client is one of the most interesting features of
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle DRM Batch Client is one of the most interesting features of the amazing master data management tool which enables a set of features without requiring manual intervention. Automation of many DRM activities can be setup daily using the DRM Batch Client.
 
 The file that will store the credentials is named as drm-batch-client-credentials.exe - within this file the credentials for that specific Windows account will be stored. Interesting to note, if I log in with a different Windows account and try to run the DRM Batch Client, it will not run because the credentials though already stored is for the other Windows account. So I need to log in using that Windows account for my DRM Batch Client to work successfully, otherwise I need to configure the DRM Batch Client credentials for all the possible Windows accounts that are present so that all the accounts can use the DRM Batch Client fine.

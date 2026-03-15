@@ -8,8 +8,8 @@ excerpt: "All photographers whether an amateur or professional quickly finds he 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 All photographers whether an amateur or professional quickly finds he has a pretty large collection of photos, often the better ones finding a place only in their backup storage devices like DVDs etc. But how about sharing your photos with the world where you can allow your family, friends and friends of friends to see them? And what is better than Flickr to share your collection!
 
 Read more: [How Google should add real-time search results of Twitter and other sites »](https://insightcrunch.com/2009/08/02/how-google-should-add-real-time-search-results-of-twitter-and-other-sites/)

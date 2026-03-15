@@ -8,8 +8,8 @@ excerpt: "Cloud storage and document sharing startup Box.net is the latest start
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Cloud storage and document sharing startup Box.net is the latest startup to adopt HTML5. The startup is announcing today that it is incorporating a broad implementation of HTML5 drag and drop functionality that supports native interaction with desktop. So basically, you can drag and drop files from the desktop right into your Box.net web application.
 
 ![Box New Features for Storage](/assets/images/technology-industry-analysis-insightcrunch.webp)

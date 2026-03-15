@@ -4,12 +4,12 @@ title: "TCS ILP Trivandrum Memories"
 date: 2017-12-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Aman Gupta. The views expressed are of the author."
+excerpt: "TCS ILP Trivandrum memories: personal reflections on the training experience, friendships made, Kerala life, and why ILP stays with you long after it ends."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Aman Gupta. The views expressed are of the author.
 
 ILP Trivandrum (Dec 2017 to Mar 2018)

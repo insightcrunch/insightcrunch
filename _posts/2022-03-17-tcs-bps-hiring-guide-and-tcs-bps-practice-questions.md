@@ -8,8 +8,8 @@ excerpt: "TCS Business Process Services (BPS) centers around managing and execut
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 TCS Business Process Services (BPS) centers around managing and executing business operations seamlessly. All industries today execute in a complex framework of various systems and processes. The domain expertise of Tata Consultancy Services help deliver core business services across various industries. TCS BPS also help provide analytics and insight along with support processes to accounting, human resources, and supply chain management systems. The strong partnership TCS has with customers helps them accelerate transformation and increase their business value. TCS provides innovative models like Platform BPS that are delivered in the mode of process as a service. TCS BPS has a revenue of nearly $2 billion. Tata Consultancy Services is one of the largest Business Process Services provider with nearly 100,000 employees servicing 300+ customers across the globe. Let’s learn about the hiring process of TCS BPS.

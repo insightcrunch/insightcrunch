@@ -8,8 +8,8 @@ excerpt: "Sudha Murthy was livid when a job advertisement posted by a Tata compa
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Sudha Murthy was livid when a job advertisement posted by a Tata company at the institution where she was completing her post graduation stated that 'lady candidates need not apply'. She dashed off a 'postcard' to JRD, protesting against the discrimination. It was the beginning of an association that would change her life in more ways than one
 
 There are two photographs that hang on my office wall. Every day when I enter my office I look at them before starting my day. They are pictures of two old people, one of a gentleman in a blue suit and the other a black-and-white image of a man with dreamy eyes and a white beard.

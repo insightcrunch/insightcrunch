@@ -8,8 +8,8 @@ excerpt: "Oracle Business Intelligence Application in it's out of the box form d
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Oracle Business Intelligence Application in it's out of the box form do not provide any solution to export a dashboard from another dashboard using custom links. But given the available resources, it is possible to create custom links to export a dashboard in Excel format, PDF format, or HTML format. To do this we need to create few snippets of HTML and Javascript coding, and can add some cool animations as well if need be.
 
 ![OBIEE Dashboard Export to Excel PDF HTML using Custom Links](/assets/images/technology-industry-analysis-insightcrunch.webp)

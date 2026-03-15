@@ -8,8 +8,8 @@ excerpt: "The movie Killers of the Flower Moon is an American Western crime dram
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Movie Review
 
 The movie Killers of the Flower Moon is an American Western crime drama film which is directed by Martin Scorsese. The film is based on the best-selling 2017 non-fiction book Killers of the Flower Moon: The Osage Murders and the Birth of the FBI written by David Grann. The book is based on the series of Oklahoma murders in the 1920s in the Osage Nation after oil was discovered in the tribal land. The movie produced by Leonardo DiCaprio has a budget of $200 million which is the largest amount spent for a movie filmed in Oklahoma. The film focuses on the 4 years of horror in the Oklahoma county and throws light on a sickening conspiracy. The film is a masterful portrayal of the genocide by white Americans against the Native nations during the 20th century.

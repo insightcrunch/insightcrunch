@@ -8,8 +8,8 @@ excerpt: "In the professional world of the corporates, there is an invisible net
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 In the professional world of the corporates, there is an invisible network of thoughts that is spread all across. The wavelengths from different individuals, each uniquely different from the other, cater to it’s ever-growing richness and complexity. You ought to be smart enough to get a feel and sense of the wavelengths that are invisibly travelling right under your nose. Sounds familiar? Well, it won’t if you are a newbie or you remain always focused in your machine all the time. It’s the sixth sense that prevails.
 
 The sole reason you were hired is for accomplishing the work assigned to you. This is the basic activity which must be performed. Your supervisor will see your work, and accordingly gather an impression of you with time. This is the after activity when you finish your work. The tricks of the trade lies from the end of the basic activity till the end of the after activity. Let’s say you are a brilliant coder, your other team member is a brilliant photographer. He sees creativity and art in everything, and loves to stay updated with the latest cricket scores. When Sehwag hit 200, he was the first one to update everyone.

@@ -8,8 +8,8 @@ excerpt: "Google Docs had been adding many desired feature off-late, but all of 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Google Docs had been adding many desired feature off-late, but all of it required to have a Google account to log in and then access it. But now anyone can simply visit docs.google.com/demo and start typing in a document that would be available for 24 hours only. They can also invite others to collaborate with them.
 
 Already a very powerful word processing tool, Google Docs inspite of having very tough competitors in services like Zoho continues to impress with its rich collection and ever-increasing features. Surely with this new open for all feature a lot more people would get to have a feel of Google Docs.

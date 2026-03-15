@@ -4,12 +4,12 @@ title: "TCS ILP Pune"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by Rahul Gupta. The views expressed are solely of the writer. *"
+excerpt: "TCS ILP Pune detailed experience: exhaustive day-by-day account of training, assessments, hostel life, Pune city exploration, and batch dynamics."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 18
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Rahul Gupta. The views expressed are solely of the writer. *
 
 "Rahul!!! Rahul!!!! Get up Man. Today is the first day of our Professional career and you dog still sleeping. Its 7:30 now. The Buses have already come and will leave by sharp 8 O' clock" said Sudip. Oh......damn. It's only 7:30 right!!!!!. " Yes but It's not college Rahul" Said Sudip. This is the first time i realized that those four percious golden years of my life are gone and this is pune where we have come to get up at 7:30 and reach to the bus by 8 and go to training centre by 9 sharp. " Hey...don't forget to wear formal dresses with a tie" said Sudip. What!!!! Formal dresses. But i don't have any. "Rahul, have you come for training or tracking?" said Sudip. Shit Man...but they should have told us beforehand. So that we could have come prepared. "By the way it was written in one of the documents of training Kit which was given to us One month back. But u are so busy with your stuff, u don't have time to go through the Kit at all" said Sudip. Ok, listen, you can use my formal shirt and trouser but only for today. Ok? Go and buy some formal dresses today evening. By the way do you know how to knot a tie?. "No..I don't know" said I. He said "Ok. give it to me i will make the knot. By the way you want single knot or double knot?". I said " Com' on sudip, when i don't have formal wears, how can you imagine that i will have a tie?". Sudip Said " What?? good....very good.....you don't have a tie too.Good you are such an ass hole.. see....its already 7:50. You can use my tie but only for today. Mind it"

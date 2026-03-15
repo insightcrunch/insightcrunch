@@ -8,8 +8,8 @@ excerpt: "Amazon provides a variety of work from home opportunities where candid
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 12
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon provides a variety of work from home opportunities where candidates can work part time or also full time. There are varieties of roles where candidates can apply and get a job that need different types of skill sets where they can work at the comfort of their home. Explore the links below, to get a variety of work from home and remote job opportunities at Amazon. The job opportunities that are mentioned below are available at a variety of locations and in a diverse array of teams who work in different departments. It is important to find a job that is best suited to your skill sets and if you have any past experiences. Keep exploring the links and I am sure that you will be able to find a job that is best suited to your skill sets and close to you. 

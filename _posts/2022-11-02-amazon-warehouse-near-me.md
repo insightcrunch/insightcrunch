@@ -8,8 +8,8 @@ excerpt: "Amazon has a large number of warehouses all across the world where it 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 11
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon has a large number of warehouses all across the world where it employs thousands of employees. The employees can be full time, part time, or hourly employees working in a variety of roles in these warehouses with their unique skill sets. Many requests have come to me to find Amazon warehouse near a candidate's location that will easily help them find a job. The tool below has been built which will help you to find the Amazon warehouse near you which is employing currently and has new openings. Simply enter your zip code or city name below and you will be presented with the available job opportunities that are currently available at Amazon warehouse near you. There are a variety of jobs that are provided by Amazon which you can explore using the links provided here.

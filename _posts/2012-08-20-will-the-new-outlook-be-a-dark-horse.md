@@ -8,8 +8,8 @@ excerpt: "The new version of Microsoft's new mailing service, [Outlook](http://o
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The new version of Microsoft's new mailing service, [Outlook](http://outlook.com), has taken the internet world by storm. And should it not! It’s the first ever big boost Microsoft has given to one of its platforms in over the last 4-5 years, apart from its Windows operating systems, obviously. The interface just looks amazing, it feels like it wants to blend with all the services you use, without trying to push you much to use the Live services.
 
  The mail service, termed as emailing technology of the future, surely has got some brains put behind it’s development team. It’s just not another mailing platform with a new name. If you haven’t discovered yet, it’s time to really try it out.

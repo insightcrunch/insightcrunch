@@ -4,12 +4,12 @@ title: "Why is it so hard to get an interview with Amazon?"
 date: 2012-11-22
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon hires its employees from a variety of sources across hiring events and college campuses around the world. The reason why it is very hard to get an interview with Amazon as highlighted by many ..."
+excerpt: "Why Amazon interviews are so hard to land: the hiring bar, resume screening criteria, referral weight, and what makes Amazon's process uniquely selective."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon hires its employees from a variety of sources across hiring events and college campuses around the world. The reason why it is very hard to get an interview with Amazon as highlighted by many candidates over the years is because Amazon has a very high quality criteria and benchmark for its candidates. There is a rigorous and extensive hiring process only after which a candidate can get to be a part of this reputed organization. In this article, we will walk through what are the different preparatory steps that you as a candidate can take to prepare yourself to be a part of Amazon, and how and where you can apply at Amazon in the different jobs and profiles. In the Amazon job portal, you will need to create your profile to begin an application. 

@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest software corporations in the world today. T
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 7
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is one of the largest software corporations in the world today. There are several town hall meetings conducted in Meta, where many Meta employees interact with each other and exchange their views about their experiences in the company. There have been multiple such town halls after some congressional hearings. There were various issues that needed to be addressed, and the senior management at Meta took the opportunity to discuss more with their employees. Employees also addressed their queries directly to the Chief Operating Officer. Many employees mentioned that they hesitated to directly speak with the COO to share it. There was a pressure felt among the employees at Meta where they felt they were supposed to act as if everything is fine. But that actually hurt them. The pressure was to always show that employees at Meta loved working there. Employees at Meta felt that there should not be any such pressure where they have to pretend that they love doing their job when actually they do not feel that way. Such a statement by one of the employees at Meta was loudly appreciated by their colleagues at the town hall in Menlo Park, California. Prepare yourself with the Meta coding and practice interview questions below.

@@ -4,12 +4,12 @@ title: "TCS NQT Questions"
 date: 2019-06-10
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) consists of an exhaustive and well planned assessment pattern. The test is taken by thousands of candidates every year who aspire to be a ..."
+excerpt: "TCS NQT question types: aptitude, verbal, reasoning, and coding question patterns with the kind of problems asked in recent exam cycles."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The Tata Consultancy Services National Qualifier Test (NQT) consists of an exhaustive and well planned assessment pattern. The test is taken by thousands of candidates every year who aspire to be a part of the software services industry. Qualifying in the exam will need you to score significantly well by accurately solving the TCS NQT questions. Due to the huge volume of candidates, the competition is huge in this exam. The cut-off marks for the TCS NQT exam is determined on a relative basis based on the overall marks scored by the candidates. Hence, your performance is compared with your peers to determine your TCS NQT results and passing criteria.

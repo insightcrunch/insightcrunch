@@ -8,8 +8,8 @@ excerpt: "One of the DRM servers was idle for a long time and one day I decided 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 One of the DRM servers was idle for a long time and one day I decided to start using it. After ensuring the usual things of the application services running, the application itself started and the database responding fine, it was time to login to the DRM web client. But unfortunately I was shown the below error message, which did not appear to something often encountered:
 
      "HTTP 503 Error"

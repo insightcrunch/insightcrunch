@@ -8,8 +8,8 @@ excerpt: "With a fairly reliable track record over the years, Wordpress.com face
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 With a fairly reliable track record over the years, Wordpress.com faced a big hiccup last month which affected more than 10+ million blogs, and then again on June 10th, 2010. Most of the blogs including TechCrunch and some of CNN’s blogs which are hosted on tha platform went down. The only message available was *“WordPress.com will be back in a minute!”*
 
 ![WordPress Platform Review](/assets/images/technology-industry-analysis-insightcrunch.webp)

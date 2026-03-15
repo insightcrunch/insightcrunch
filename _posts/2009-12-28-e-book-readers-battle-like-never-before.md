@@ -8,8 +8,8 @@ excerpt: "Amazon’s Kindle is the most talked about stuff that is selling like 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Amazon’s Kindle is the most talked about stuff that is selling like anything right now. Though e-books are not likely to replace books in any time soon, but the craze of portability and getting to read lots of stuff in a single device has shot up the fascination for this gadget. There are various criteria to look out for before buying one like the formats supported, storage capacity, card types supported and their capacities and of course the screen sizes.
 
 ![Kindle Latest Features and Competitors](/assets/images/technology-industry-analysis-insightcrunch.webp)

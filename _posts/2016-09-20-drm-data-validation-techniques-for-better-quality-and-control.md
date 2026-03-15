@@ -8,8 +8,8 @@ excerpt: "The data in DRM is of extreme importance for any organization. Hence, 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The data in DRM is of extreme importance for any organization. Hence, automatically the need comes to have a robust control over the data and making sure there's no invalid content in there. There are quite a few ways to achieve this based on what sort of validations and control I want to put in place.
 
 ## Validations Required

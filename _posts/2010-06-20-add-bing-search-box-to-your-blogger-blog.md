@@ -8,8 +8,8 @@ excerpt: "Many people had requested for a search box which would enable the visi
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Many people had requested for a search box which would enable the visitors of their websites and blogs to search directly through Bing. So here is the code that is sure to help a lot of people. Simply select this code and press Ctrl+C and paste it wherever you want.
 
 Here goes the code:

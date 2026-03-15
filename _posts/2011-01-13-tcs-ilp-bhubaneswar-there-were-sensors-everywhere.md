@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar – There were sensors everywhere!"
 date: 2011-01-13
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "TCS ILP Bhubaneswar's strict monitoring culture: biometric attendance, sensors, surveillance, and how freshers navigate the rigid compliance environment."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 We stepped into the premises. The securities asked us to form a queue.It was the time for baggage check. First time in my life I felt the improper purpose of my backpack, because previously my bag was used for smuggling full, half and quarter bottles into our private hostel.The landlord was mystified to see why everyone used the same backpack for shopping.

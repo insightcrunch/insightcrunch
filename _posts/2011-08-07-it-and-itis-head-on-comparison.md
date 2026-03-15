@@ -8,8 +8,8 @@ excerpt: "IT and ITIS. The twins of the outsourcing world. One refers to Informa
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 IT and ITIS. The twins of the outsourcing world. One refers to Information Technology, the other IT Infrastructure Services. Most of us often get confused as to which is exactly what, which will propel our career to the highway of success faster. Coming to the basic facts, both have their very core base as information technology. That means the underlying technologies and skill-sets that are required for the functioning of both the systems are the very same. The only thing that will vary is the job role and the activities related to the particular role. The organization TCS has recently stepped into this ITIS territory and so [TCS ITIS](https://insightcrunch.com/2011/07/28/tcs-itis-detailed-analysis/) is a clear top-notch player in this field now.  

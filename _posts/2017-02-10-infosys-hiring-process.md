@@ -8,8 +8,8 @@ excerpt: "*This is a guest post on Infosys by Gayathri Sachdeva. The views expre
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post on Infosys by Gayathri Sachdeva. The views expressed are of the author.*
 
 Friends, oday iam going to share some insights on Infosys Hiring Process. Well Infosys also gives many chances to freshers to prove themselves and get into Infosys, similar to TCS.

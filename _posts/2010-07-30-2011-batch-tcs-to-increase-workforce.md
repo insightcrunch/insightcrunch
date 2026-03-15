@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services, India’s largest outsourcing company, plan
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Tata Consultancy Services, India’s largest outsourcing company, plans to increase its workforce by a quarter to help drive expansion into fast-growing emerging markets.
 
 India’s IT outsourcers, whose largest revenue stream comes from North America and Europe, have proved highly resilient in the economic downturn.

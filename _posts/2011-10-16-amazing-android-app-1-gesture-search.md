@@ -8,8 +8,8 @@ excerpt: "Have you ever fantasized to search your contacts, applications, games,
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Have you ever fantasized to search your contacts, applications, games, settings, and everything on your phone by just using 3-4 swings of your finger? Well, all of us have, and here is just the app which will make your fantasies come true. Look through any of the contents in our mobile to search using gesture search.
 
 ![Android App with Gesture Search](/assets/images/technology-industry-analysis-insightcrunch.webp)

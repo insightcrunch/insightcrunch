@@ -8,8 +8,8 @@ excerpt: "Facebook-owner Meta platforms has been continuously cutting their plan
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Facebook-owner Meta platforms has been continuously cutting their plans to hire engineers every few months. The recent development suggests the plan is to reduce the hiring target by as much as 30%. The ongoing economic downtown has been seen to be as one of the worst in the Facebook ecosystem which was already facing some steep challenges in the months before. The market scenario is said to be worse than the 2008 recession and the recovery is expected to take longer than anything we have seen before. Meta is prioritizing its projects internally and many optional and nice to have projects are being cut down or the team size of such projects reduced to a minimum. Performance of Meta employees is continuously under scanner and the pressure to deliver is more than it has ever been. Meta employees and interns are feeling the pressure in this extremely volatile situation. Meta is financially under a lot of stress as well with the Meta stock responding negatively to all the ongoing news around the economy and news around Meta itself. Get access to the Meta interview questions below to prepare for any Meta job position you are applying for.

@@ -8,8 +8,8 @@ excerpt: "Tata Consultancy Services is one of the largest software services orga
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 6
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 Tata Consultancy Services is one of the largest software services organizations in the world. With nearly a million employees, it is home to one of the largest labor force in the world today. A vast workforce as large as TCS needs efficient planning and a flexible management. TCS has a variety of roles in its management positions for which it conducts the TCS MBA hiring drive to fill in with skilled professionals. Candidates who meet the eligibility criteria will be able to participate in this drive. To find if you are eligible please use the TCS MBA Eligibility Checker Tool below.

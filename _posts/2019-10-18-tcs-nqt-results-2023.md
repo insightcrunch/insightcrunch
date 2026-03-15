@@ -4,12 +4,12 @@ title: "TCS NQT Results 2023"
 date: 2019-10-18
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The TCS NQT exam results is one of the most anticipated test results awaited by hundreds of thousands of candidates every year. Succeeding in the TCS NQT exam will make you eligible for many ..."
+excerpt: "TCS NQT results: when scores are released, how to check your result, what the scorecard shows, and next steps after qualifying the National Qualifier Test."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Overview
 
 The TCS NQT exam results is one of the most anticipated test results awaited by hundreds of thousands of candidates every year. Succeeding in the TCS NQT exam will make you eligible for many positions in TCS. The salary varies based on the marks you score in the TCS NQT exam. The passing score for the TCS NQT exam is decided based upon the relative performance of your peers during the exam. Hence it is crucial to study extensively and try to achieve the highest possible marks in the exam. Every mark scored in the TCS NQT exam can help you move ahead by hundreds of candidates.

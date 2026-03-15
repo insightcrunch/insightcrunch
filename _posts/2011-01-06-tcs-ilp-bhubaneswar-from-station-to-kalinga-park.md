@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar – From station to Kalinga Park"
 date: 2011-01-06
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "Arriving at TCS ILP Bhubaneswar: the journey from the railway station to Kalinga Park training center, first impressions, and settling into hostel life."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 I saw the station name,after Hindi and English there were some 6 Jalebis (odhiya scripts) drawn on the board.I observed the advertising boards.There were Jalebis everywhere.

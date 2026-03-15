@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today and emplo
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 9
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today and employs 1000s of people globally The one of the best aspects of Amazon in the variety of jobs that is offers is majority of the jobs can be worked from home and all the responsibilities can be made remotely. Working from home has a lot of advantages one of the main aspects of which is less time required for travel the average commuter spends about 30 minutes driving to their jobs and the same amount of time is taken for them to return back home. Thus, employees can save so much amount of time every day and use that time for productive purposes. Employees are often found to learn new skills and perform better with better work life balance as they get to spend more time with their families. 

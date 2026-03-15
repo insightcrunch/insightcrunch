@@ -8,8 +8,8 @@ excerpt: "*This is a guest post by Ashish Nandwani. *"
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 4
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by Ashish Nandwani.  *
 
 The need of effective and potent communication is becoming more and more cardinal in today's global arena, No doubt the companies spend a lot of  money on training individuals to make them presentable for *cross-cultural communication. *Intercultural or cross-cultural communication substantially considers how to greet , manage and work together.  However,  as sometimes wrongly perceived ,communication is  not only verbal but full of other factors like tone , body-language , gestures  and what not. One may say something but may not mean it so it's important to write and say what you believe in. As someone has rightly said '* Read is to write where listen is to speak*' , Good writing skills can come with a lot of reading while one has to be a good listener in order to speak well. No one ever wants to come out of his / her comfort zone but'* instinct also comes with experience* ' as they say ( **sobetter keep learning**)

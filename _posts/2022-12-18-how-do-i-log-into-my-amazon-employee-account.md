@@ -8,8 +8,8 @@ excerpt: "Amazon is one of the largest corporations in the world today. Hundreds
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 13
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Amazon is one of the largest corporations in the world today. Hundreds of 1000s of employees all over the world. Work in Amazon in a variety of corporate offices, warehouses and fulfillment centers. Employees can choose to work from different locations based on their skill sets. Amazon provide these employees with the Amazon workmail web client, which candidates can use to check their emails. Amazon workmail has a web based client which can be used to access the Amazon workmail account from a web browser. This Amazon work mail client includes different integrated applications like Mail, Contacts and Calendar. To access the Amazon workmail web client, candidates need to have internet connection and latest version of any of the popular web browsers like Chrome, Firefox, Safari, or Edge.

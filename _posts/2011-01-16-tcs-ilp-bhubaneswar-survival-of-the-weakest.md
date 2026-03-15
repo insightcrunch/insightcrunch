@@ -4,12 +4,12 @@ title: "TCS ILP Bhubaneswar - Survival of the Weakest"
 date: 2011-01-16
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "Struggling at TCS ILP Bhubaneswar: when assessments pile up and confidence dips. How the pressure tests you and what survival actually looks like."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
 There was a famous tv serial Chandrakanta telecasted every Sunday morning in DD1.The villain in that serial was more famous than the serial itself.

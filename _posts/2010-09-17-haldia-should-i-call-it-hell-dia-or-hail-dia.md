@@ -8,8 +8,8 @@ excerpt: "This is a post on TCS ILP Haldi by Maithreyi. The views expressed are 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 5
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a post on TCS ILP Haldi by Maithreyi. The views expressed are solely of the writer. This is my first post from Haldia, a small village in the state of West Bengal located about 120kms off Calcutta. You might be wondering about the purpose of my so-called short stint at this place. I am supposedly attending my training at Tata Consultancy Services, a giant in the corporate world (Giant in the literal sense of the word!).You randomly pick a hundred Tom, Dick and Harries from the ever-growing Indian population, atleast 20% of them are bound to be a part of TCS. Am sure all of you are saying, “Dude, cut a slack to the facts and get to the topic”, so “1..2..3..Go”!
 
 I am sure a lot of people attending training would have posted about the nature of training, some maybe even about training especially at Haldia. The very reason I started to blog from our training premises is because I wanted to get over my frustration. So I’ll stick to the positives. Food, Learning and Entertainment is definitely not going to be a part of it. Sorry guys, the less said the better.

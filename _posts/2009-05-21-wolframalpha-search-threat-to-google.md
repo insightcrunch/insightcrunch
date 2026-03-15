@@ -8,8 +8,8 @@ excerpt: "Firstly I would like to share the Fan Community of Wolframalpha !! The
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Firstly I would like to share the Fan Community of Wolframalpha !! The problem with the web today is, it has no idea what the hell you’re talking about! It doesn’t understand what you are asking of it. Search for an artist you like and you’re OK but ask it “what was the highest temperature in Kolkata week”, and it fails embarrassingly.  A new technology [Wolfram|Alpha](http://www.wolframalpha.com/), a system which is capable of computing answers to questions is likely to be launched this year.So the web is expected to be smarter by the end of this year.
 
 Read more: [Google reinvents Email, Docs with 'Google Wave' »](https://insightcrunch.com/2009/05/28/google-reinvents-email-docs-with-google-wave/)

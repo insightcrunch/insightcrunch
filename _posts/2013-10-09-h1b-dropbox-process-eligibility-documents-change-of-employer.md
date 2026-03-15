@@ -8,8 +8,8 @@ excerpt: "When you are applying for the United States visa renewal and you meet 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 10
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 When you are applying for the United States visa renewal and you meet all the eligibility and criteria that are defined, you can get it stamped in your passport without attending the visa interview in person. This type of visa stamping process is called as an ‘Interview Waiver’ and is also commonly known as the ‘DropBox Stamping’. This interview waiver option is available for the H1B visa renewal process as well. It is important to learn about the step by step process for H1B visa stamping using the dropbox option. The various aspects that one should know are the DropBox eligibility requirements, the documents that need to be filled, the booking appointments, and how does the process work with an employer change or H1B visa transfer situation and status changes. Also there are several ongoing changes to the DropBox process which we need to be aware of. One of the first steps that is required to check before applying the H1B stamping using the DropBox option is to make sure that the candidate meets all the required criteria for the interview waive, i.e. the DropBox option. Let's learn the details of the eligibility criteria for the H1B visa stamping using the interview waiver or the visa DropBox option. A candidate needs to meet all of the criteria that are mentioned here. 

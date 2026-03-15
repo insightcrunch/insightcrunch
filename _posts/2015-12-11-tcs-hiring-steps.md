@@ -8,8 +8,8 @@ excerpt: "This is a guest post on TCS Hiring by Bhargav Gandhi. The views expres
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 This is a guest post on TCS Hiring by Bhargav Gandhi. The views expressed are of the author.
 
 Hi all, I want to share my interview experience that I have attended and will also share the interview experience for the major recruiting companies in India. Starting from service based companies to different product based companies that hire students from different colleges across India.

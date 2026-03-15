@@ -8,8 +8,8 @@ excerpt: "Meta has frozen hiring for its engineers and data scientists. The seni
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 9
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta has frozen hiring for its engineers and data scientists. The senior management at Meta has warned its employees to prepare for an intense period for the next several years. It is indeed a difficult time because the global economy is also slowing down. Meta is also focusing on revising its employee performance management system. Employees at Meta will now have to work harder to achieve the minimum performance standards. Meta has announced that it will focus on an extremely fast-paced working environment and any employee who feels that this sort of working model is not a good fit is welcome to leave the organization. The macroeconomic environment has been used as a main reason by the senior management. In the recent times several technology companies have been forced to reduce their headcount. This is due to the fact that their revenue model has been severely affected as advertisers are spending lesser and lesser, which is Meta's main source of revenue. The CEO of Meta Mark Zuckerberg mentioned that the economy is not going to stabilize anytime soon and so Meta hiring freeze is now a reality. Hence, Meta needs to plan in a way that is more conservative. This will help Meta continue its existing business model for a longer time, even if the situation of the economy deteriorates. Subscribe below to start practicing the Meta interview questions before joining a new team.

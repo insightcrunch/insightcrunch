@@ -8,8 +8,8 @@ excerpt: "Here’s an awesome in-depth coverage of how things happened. No doubt
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 11
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Here’s an awesome in-depth coverage of how things happened. No doubt why TCS is number one today. Eighteen months ago, some time in the early part of 2008, speculation began to do the rounds on who would succeed S Ramadorai as the chief executive of Tata Consultancy Services, India’s largest information technology company. Ramadorai had been its public face for many years. But he was turning 65 in 2009, which is the retirement age for all Tata chief executives. A successor had to be found in time. 
 
 Several names began to do the rounds, including that of Wipro veteran Vivek Paul. But those who worked with the company and research analysts had a clear idea which way the wind was blowing. TCS also stood for ‘Take Chandra Seriously’, they said. They were not off the mark. Natarajan Chandrasekaran (called Chandra by colleagues and friends) will take over as the managing director and chief executive officer from Ramadorai on October 6.

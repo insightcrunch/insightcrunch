@@ -8,8 +8,8 @@ excerpt: "Oracle DRM and Oracle GL are integrated very closely in environments w
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is supposed to pull data from DRM errors out with the message "Unable to fetch list of versions".
 
 [](http://imageshack.com/a/img924/1008/es5Qbd.png)There can be a few possibilities for this. Firstly, the **versions** should exist in DRM and the Allow Export flag should be set to 'True'. Then, if your **Weblogic** server is responding fine, you need to check if the **APIAdapter** URL is using the right port number. Also need to make sure the port is open and accessible. Often it happens due to an intermittent connectivity issue, sometimes the **firewall** check also need to be performed. If this is confirmed fine, then restart the IIS services to make sure we do not have any stale sessions.

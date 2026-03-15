@@ -8,8 +8,8 @@ excerpt: "The stories of how the automobile industry revolution started had been
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 6
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/technology-industry-analysis-insightcrunch.webp)
 
 The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It is then that I started learning more about the smallest of the small details of Henry Ford’s life, and gradually it became an obsession. When I learnt that he has created a world where a snapshot of history is preserved so well, it was irresistible to drive up to Dearborn, Michigan.

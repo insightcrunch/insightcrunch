@@ -8,8 +8,8 @@ excerpt: "Meta is one of the largest corporations in the technology industry tod
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 9
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 ## Background
 
 Meta is one of the largest corporations in the technology industry today. Due to an increase in competition from other apps like TikTok and Snapchat, Meta is focused on increasing its graphic processing units nearly five times in its data centers. This would help it in the content discovery algorithm push for which Meta needs a lot of extra computing power. The artificial intelligence that Meta plans to build to identify popular posts from Meta and Instagram will be used to compete with TikTok. This is one of the major future projects that Meta is focusing on to compete with TikTok using its own Instagram Reels. Meta is continuing to hire in key positions that focus on artificial intelligence, virtual reality, and it's Metaverse projects. However, there is a broad hiring freeze that is going on in all the projects in Meta that are not critical. The senior leadership at Meta has highlighted that Instagram Reels was one of the most popular products that users were consuming. The user engagement in Instagram Reels has been extremely popular and can be a key strategy to monetize and boost revenue. The Meta senior management is planning to enhance advertisements in Instagram Reels as soon as possible. Subscribe to get the Meta interview questions below.

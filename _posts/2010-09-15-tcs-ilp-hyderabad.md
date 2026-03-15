@@ -4,12 +4,12 @@ title: "TCS ILP Hyderabad"
 date: 2010-09-15
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "*This is a guest post by **Maurya Priyadarshi*"
+excerpt: "TCS ILP Hyderabad experience: detailed account of training sessions, hostel life, city exploration, and the learning curve for freshers at this center."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 8
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is a guest post by **Maurya Priyadarshi*   
 It was about an year ago that we were in Hyderabad pursuing our Initial Learning Programme (ILP). I had heard a lot about TCS ILP earlier. Some said it was very tough, some said they learnt a lot, etc etc. We also tried to find out from seniors about the training by mails, scraps etc.   
 Our joining in TCS was 28th August, 2006. There were lot of formalities to be done for which I had to go home from Bangalore (where I was for the past 2 months after college ;)) Joining date was a reliever as some people had said that joining dates in TCS were very late. After completing the formalities I set off for my first job to never-been-before Hyderabad. Amresh, my college yaar, was with me with similar hopes and ambitions!!!   

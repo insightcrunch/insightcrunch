@@ -8,8 +8,8 @@ excerpt: "If you are an avid lover of photography and a bit net savvy you have s
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 If you are an avid lover of photography and a bit net savvy you have surely heard of Flickr. And not to forget it’s Pro feature which comes at a cost of 24.95$/year.[](http://www.flickr.com/photos/rahul__/sets/72157620544751027/detail/) Having used this for quite some time now, I feel it offers you much more than you can actually imagine. If you are already  to sharing your photos of your friends and families and really cherishing the full resolution unlimited storage of your photos, it’s time to for you to explore the thousands of groups that exist there based on specific categories like nature, wildlife, sunrise, flowers, etc. You can start with [this group](http://www.flickr.com/groups/rahulsgroup/). Extensively sharing your photos in as many groups you can, will give your photo a very decent exposure, and you will often several comments, some of which you will find pretty well though and can be a learning curve as well. Keep sharing your photos in the groups as I said. Only limit you will face is sharing is up to 10 groups per photo for free users and 60 for Pro users.
 
 Read more: [A Trip to the 1850s »](https://insightcrunch.com/2017/08/08/a-trip-to-the-1850s/)

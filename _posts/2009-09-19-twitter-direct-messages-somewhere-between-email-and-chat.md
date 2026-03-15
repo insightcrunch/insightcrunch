@@ -8,8 +8,8 @@ excerpt: "Often while getting to use Twitter regularly I find that using the dir
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 1
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Often while getting to use Twitter regularly I find that using the direct messages (not @) feature is pretty much like internet sms-es, or if I might put it, somewhere between chatting and emailing. Given the 140 character limit it’s a very decent amount of space to just get the message across. And it appears people almost instantly reply to direct messages compared to emails. It’s simply the psychology that you have to give a lot of information while replying to an email and there should be proper formatting etc., but here just clicking the “reply” link and sending your very short message across is fast and doesn’t require a lot of attention.
 
 Read more: [TweetMeme: Storehouse of hot Twitter topics »](https://insightcrunch.com/2009/09/23/tweetmeme-storehouse-of-hot-twitter-topics/)

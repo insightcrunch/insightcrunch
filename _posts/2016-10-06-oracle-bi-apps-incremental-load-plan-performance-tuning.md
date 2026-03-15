@@ -8,8 +8,8 @@ excerpt: "The Oracle Business Intelligence Applications integration with Oracle 
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 2
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 The Oracle Business Intelligence Applications integration with Oracle General Ledger comes with an out-of-the-box load plan that Oracle provides for extracting and loading into the BI data warehouse. However, this load plan comes with a lot of scope of improvement. I got the opportunity to analyze this in details and some findings are really helpful.
 
 The first thing that comes to mind is whether all the steps are essential, and yes, they are. In fact, some relevant practices (like gather stats, updating the W_ETL_LOAD_DATES for every scenario, etc) followed in the load plan are critical for successful loadings and long term ease of maintenance.

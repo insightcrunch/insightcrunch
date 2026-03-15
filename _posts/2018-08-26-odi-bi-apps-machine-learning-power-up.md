@@ -8,8 +8,8 @@ excerpt: "Like many millennials, one of my favorite video game was Mario. The mo
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 3
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 Like many millennials, one of my favorite video game was Mario. The most satisfying thing about **Super Mario** were the power-up mushrooms - that gave it added abilities, to keep conquering world after world. Similarly, today when data and information are created at an accelerating rate, outstripping the ability of humans to keep up - it becomes imperative for enterprise operations to enable a digital workforce to achieve demonstrable gains in efficiency and productivity.
 
 Operational Analytics, with subjective experience, is indeed very much useful - but it's more inclined towards Descriptive Analytics, based on what has already happened in the past. With **Predictive Analytics**, it opens up a whole new world where we can design algorithms to detect complex pattern - and provide powerful insights to predict the future. The more powerful our mathematical algorithm, and the more robust our datasets, the better we get with our statistical and strategic inferences.

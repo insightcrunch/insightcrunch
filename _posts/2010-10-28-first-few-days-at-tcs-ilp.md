@@ -4,12 +4,12 @@ title: "First few days at TCS ILP"
 date: 2010-10-28
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "You may find few blogs about experiences of people in TCS during their first few days....But this one is different becuase I dont want to show off my vocabulary and I have written this while ..."
+excerpt: "First few days at TCS ILP: an honest, unfiltered account of orientation, first impressions, making friends, and the reality check of corporate training."
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 9
 author: "Insight Crunch Team"
+last_updated: 2026-03-15
 ---
-
 *This is an article by Satyajeet Naib.*
 
 You may find few blogs about experiences of people in TCS during their first few days....But this one is different becuase I dont want to show off my vocabulary and I have written this while undergoing the ILP....And for the TCS faculty, Nisha mam, Liza mam, & Nandita mam,(Oops coudnt "unlearn" the habit of calling you "Mam" but respect doesnt cost money...) I know you are reading or will read this...I hope I am not misrepresenting the facts as you had complained about the other blogs...and for other readers, the TCS faculty at the ILP centres too read these blogs...Hope you all find this a good read...
