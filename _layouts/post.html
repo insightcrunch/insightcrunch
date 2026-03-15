@@ -61,6 +61,7 @@ article {
     <h1>{{ page.page_title | default: page.title }}</h1>
     <div class="post-meta">
       <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+      {% if page.last_updated %}<span class="sep">·</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
       {% if page.read_time %}<span class="sep">·</span><span>{{ page.read_time }} min read</span>{% endif %}
       {% if page.author %}<span class="sep">·</span><span>{{ page.author }}</span>{% endif %}
     </div>
