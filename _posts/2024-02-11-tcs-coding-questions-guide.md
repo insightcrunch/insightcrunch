@@ -9,6 +9,7 @@ excerpt: "Original TCS-style coding problems with full solutions in four languag
 image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 61
 author: "Insight Crunch Team"
+render_with_liquid: false
 ---
 
 The TCS coding round is where most candidates either prove their technical capability or reveal a preparation gap they did not know existed. The problems are not abstract algorithmic puzzles plucked from a competitive programming archive - they are real-world scenario problems wrapped in business narratives, testing whether you can translate a practical requirement into working, compilable, correctly-outputting code within a strict time limit. Understanding this character of TCS coding questions is more important than memorising any specific solution, because the framing varies endlessly while the underlying algorithmic patterns repeat reliably.

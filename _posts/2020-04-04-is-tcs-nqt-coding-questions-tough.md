@@ -9,6 +9,7 @@ image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 100
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
+render_with_liquid: false
 ---
 {% raw %}
 ## Overview
