@@ -59,7 +59,7 @@ def pick_image(post_filename, pool):
 
 
 def process_post(filepath, image_filename, dry_run=False):
-    """Replace placeholder image references in a single post file."""
+    """Replace placeholder image references and dedupe body images."""
     with open(filepath, "r", encoding="utf-8") as f:
         original = f.read()
 
@@ -87,6 +87,9 @@ def process_post(filepath, image_filename, dry_run=False):
     )
     content, n3 = url_pattern.subn(rf'\g<1>{new_path}\3', content)
 
+    # --- 4. Dedupe body images: keep first, remove rest + captions ---
+    content = dedupe_body_images(content)
+
     # Only write if content actually changed (true idempotency)
     modified = content != original
 
@@ -95,6 +98,81 @@ def process_post(filepath, image_filename, dry_run=False):
             f.write(content)
 
     return modified, n1 + n3, n2
+
+
+# Blog image pattern for body deduplication
+BLOG_IMG_RE = re.compile(r'^!\[[^\]]*\]\(/assets/images/blog/[^\s)]+\.webp\)\s*$')
+
+# Caption pattern: short line (< 120 chars), not blank, not a heading,
+# not a list item, not a link, not a horizontal rule, not starting a paragraph
+# that's clearly long-form content. Includes *italic* captions.
+CAPTION_RE = re.compile(
+    r'^(?:\*[^*]+\*|[A-Z\u0080-\uffff][^.!?\n]{3,115})$'
+)
+
+
+def is_caption(line):
+    """Return True if line looks like a short image caption."""
+    s = line.strip()
+    if not s or len(s) > 120:
+        return False
+    # Definitely not a caption
+    if s.startswith(('#', '-', '*   ', '1.', '>', '[', '|', '---', '```', '<')):
+        return False
+    # Italic captions like *Chinese text here*
+    if s.startswith('*') and s.endswith('*') and len(s) > 2:
+        return True
+    # Short text caption (< 120 chars, no period-heavy sentences typical of paragraphs)
+    if len(s) < 120 and s.count('. ') <= 1:
+        return True
+    return False
+
+
+def dedupe_body_images(content):
+    """Keep only the first blog image in the body, remove duplicates + captions."""
+    # Split front matter from body
+    fm_match = re.match(r'^(---\s*\n.*?\n---\s*\n)', content, re.DOTALL)
+    if not fm_match:
+        return content
+
+    front_matter = fm_match.group(1)
+    body = content[fm_match.end():]
+    lines = body.split('\n')
+
+    first_found = False
+    new_lines = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if BLOG_IMG_RE.match(line + '\n') or BLOG_IMG_RE.match(line):
+            if not first_found:
+                # Keep the first image
+                first_found = True
+                new_lines.append(line)
+                i += 1
+            else:
+                # Skip this duplicate image
+                i += 1
+                # Check IMMEDIATE next line for caption (no blank line gap)
+                if i < len(lines) and lines[i].strip() != '' and is_caption(lines[i]):
+                    i += 1  # skip caption
+        else:
+            new_lines.append(line)
+            i += 1
+
+    # Collapse 3+ consecutive blank lines to max 2
+    cleaned = []
+    blank_count = 0
+    for line in new_lines:
+        if line.strip() == '':
+            blank_count += 1
+            if blank_count <= 2:
+                cleaned.append(line)
+        else:
+            blank_count = 0
+            cleaned.append(line)
+
+    return front_matter + '\n'.join(cleaned)
 
 
 # ---------- main ----------
