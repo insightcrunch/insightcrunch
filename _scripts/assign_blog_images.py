@@ -65,7 +65,8 @@ def process_post(filepath, image_filename, dry_run=False):
 
     new_path = f"/assets/images/blog/{image_filename}"
     content = original
-    img_re_part = r'(?:blog/blog-\d+\.webp|' + re.escape(OLD_PLACEHOLDER) + r')'
+    # Matches any .webp inside blog/ OR the old root-level placeholder
+    img_re_part = r'(?:blog/[^\s"\')\]]+\.webp|' + re.escape(OLD_PLACEHOLDER) + r')'
 
     # --- 1. Front matter image: field (double or single quoted) ---
     fm_pattern = re.compile(
