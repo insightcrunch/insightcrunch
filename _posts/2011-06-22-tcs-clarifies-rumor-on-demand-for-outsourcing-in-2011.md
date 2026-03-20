@@ -640,7 +640,6 @@ Read the data. Understand the context. Make better decisions. That is what deman
 The outsourcing industry built TCS into one of the world's most valuable companies over several decades. That industry is not in retreat - it is in transformation. The professionals who understand that transformation, who align their skills with its direction, and who maintain the learning agility to move with it as it evolves will find the next several decades as productive as the last. The signal is there. It always has been. Read it.
 
 
-
 The recurring pattern of "outsourcing demand concern" narratives - appearing and then fading with each economic cycle, each immigration policy debate, each geopolitical tension - reflects something important about how outsourcing is perceived versus how it actually behaves.
 
 From the outside, IT outsourcing can look vulnerable: it depends on political relationships between countries, it involves complex logistics across time zones and languages, it sits in the middle of every debate about jobs and globalization. These vulnerabilities are real.

@@ -9,8 +9,8 @@ excerpt: "Complete guide to Infosys's digital career tracks: Cobalt cloud roles,
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-20
 ---
-
 Infosys has undergone one of the most significant strategic transformations of any major Indian IT services company over the past decade. The company that built its reputation on application development and maintenance for global enterprises has repositioned itself as a digital transformation partner, with major platform investments in cloud (Infosys Cobalt), artificial intelligence (Infosys Topaz), digital commerce (Infosys Equinox), and enterprise modernization. This repositioning has changed what the most interesting and highest-paying technology roles at Infosys look like and how freshers and experienced professionals can access them.
 
 ![Infosys Digital Careers Cloud Data AI Roles](/assets/images/blog/blog-12.webp)

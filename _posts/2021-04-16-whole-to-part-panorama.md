@@ -23,5 +23,3 @@ It was then a transformative journey where narrowing down from the goal backward
 Keep reading: [TCS vs Accenture Comparison at granular level »](https://insightcrunch.com/2011/09/06/tcs-vs-accenture-comparison-at-granular-level/)
 
 A data discovery journey is not without its fair share of hurdles, but it gets more exciting when we are able to create something more than what actually existed before and what we hoped to achieve. Overturning the conventional part to whole relationships and stereotypes it was an incredible satisfaction on being able to finish painting the final picture. 
-
-![](/assets/images/blog/blog-05.webp)

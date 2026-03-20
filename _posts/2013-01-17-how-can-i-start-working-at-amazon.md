@@ -33,8 +33,6 @@ Keep a copy of your resume handy in case you need to refer it or the interviewer
 
 Bring with yourself a government issued photo ID proof for the interview with Amazon. The dress code for the Amazon interview is comfortable and casual. So you can skip the fully formal business attire. The interviewers will have copies of your profile along with your resume and CV. However, you should bring copies of your resume with yourself as well in case it is asked for or required. Since there are a variety of positions which can be applied at Amazon, you can expect different interview panels for each interview role. You can expect panels of interviews that consist of multiple members from diverse backgrounds for each of the in-person interviews. Many of the in-person interviews may be conducted remotely or virtually, which might also include panels of several interview members from different backgrounds. 
 
-![How can I start working at Amazon](/assets/images/blog/blog-10.webp)
-How can I start working at Amazon
 
 ## Amazon Interview Rounds
 

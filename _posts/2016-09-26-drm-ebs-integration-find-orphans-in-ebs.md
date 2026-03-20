@@ -28,6 +28,3 @@ WHERE FLEX_VALUE_SET_ID IN ('1014867')
 ```
 
 Here the value 1014867 represents one of the segment hierarchies, and multiple values can be used in the IN clause to check all the hierarchies; thus identifying all the orphans in EBS. Once the orphans are identified, they need to be re-configured in DRM and the DRM EBS integration need to be executed one more time to bring back the segment value within a hierarchy in EBS.
-
-![Oracle DRM EBS Integration Find Orphans in EBS](/assets/images/blog/blog-10.webp)
-Oracle DRM EBS Integration Find Orphans in EBS

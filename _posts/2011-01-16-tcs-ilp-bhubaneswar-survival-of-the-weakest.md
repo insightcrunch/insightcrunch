@@ -779,7 +779,6 @@ Forty questions across these five types, completed in timed practice sessions, p
 Both are needed. Both are available. Both begin tonight.
 
 
-
 The compass was always buildable. It just needed the first evening, the first program, the first practice question, the first study session with the other lost sailor.
 
 That evening is tonight. Start.

@@ -14,7 +14,5 @@ This picture, supposed to depict the killing of a pet chimpanzee which suddenly 
 
 ![](/assets/images/blog/blog-04.webp)
 
-![Protest against Racism](/assets/images/blog/blog-04.webp)
-Protest against Racism
 
 Read more: [Google reader bug fixed »](https://insightcrunch.com/2009/02/21/google-reader-bug-fixedhooray/)

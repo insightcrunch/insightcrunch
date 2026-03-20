@@ -6228,7 +6228,6 @@ TCS NQT Coding Question 57
 
 **C Code**:
 
-![](/assets/images/blog/blog-07.webp)
 
 [/s2If]
 
@@ -6243,7 +6242,6 @@ TCS NQT Coding Question 58
 
 **C Code**:
 
-![](/assets/images/blog/blog-07.webp)
 
 [/s2If]
 
@@ -6310,9 +6308,6 @@ TCS NQT Coding Question 60
 
 - Program should prompt user that you want to enter a new record. If ‘Y’ ask user for new details. If ‘N’, program should terminate. (Use event controlled loop)
 
-![](/assets/images/blog/blog-07.webp)
-
-![](/assets/images/blog/blog-07.webp)
 
 [/s2If]
 

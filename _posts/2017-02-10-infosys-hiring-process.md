@@ -35,7 +35,6 @@ During our time the process is like this
 
 1.After Registration on Infytq app on Infytq website you will be given to choose one slot for the exam which comprises of Aptitude ,Verbal and Python or Java(40 Mcqs) all questions are MCQS Only
 
-![](/assets/images/blog/blog-05.webp)
 
 Here is a snapshot for how to book a slot. Be wise in booking slot as it may change your exam result and my suggestion in this is choose a 2nd or 3rd exam date . It's my suggestion only
 

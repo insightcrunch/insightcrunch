@@ -38,8 +38,6 @@ https://twitter.com/60Minutes/status/1444810160921354240?s=20&t=8GsIfU1BCLxAM_Ah
 
 Meta will prioritize increasing its revenue from Facebook Reels by selling advertisements now. This highlights the reality that if a product is free, you are the end product. TikTok will undoubtedly come out as a winner again because the Facebook Ad algorithms are extremely poor and keep showing irrelevant advertisement. It is highly uncertain how far the content discovery infrastructure of Meta will improve it’s user experience. With poor experience will come poor financial profitability and in turn result in more employee performance management pressure.
 
-![Meta Hiring Freeze Facebook Data Privacy Poor Performance Stock Employee Management](/assets/images/blog/blog-14.webp)
-Meta Hiring Freeze fueled by dismal Facebook growth
 
 There is a certain line of user acceptance and algorithmic user feed generation that Facebook does not seem to realize. Just because something can be done using expert computer engineers and state of the art technologies does not mean it has to be done. A dedicated team of ethics and social impact should approve any such changes to the app and algorithm before rolling them out to the broader public. Facebook Reels continue to be a major part of the content discovery engine for Meta, but only time will tell how much user will love it more than what drove them away from Facebook in the first place. Cambria also helps sustain Meta in the mixed-reality segment.
 

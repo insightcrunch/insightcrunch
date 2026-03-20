@@ -18,6 +18,3 @@ The Google Wave site is now up and running, although access to the application w
 
 ![Google Wave Project Reinvest Keep Gmail Notes Planner Organizer Todo List](/assets/images/blog/blog-01.webp)
 Google Wave
-
-![Google Gmail new features](/assets/images/blog/blog-01.webp)
-Google Gmail new features

@@ -828,7 +828,6 @@ Corrections to attendance records should be raised with the ILP HR immediately. 
 The most important sensor is the internal one. External monitoring systems (badge records, attendance sheets, PVA tracking) are the training wheels. The professional who has internalised the professional conduct ethic - who shows up because they genuinely care about the work and their colleagues, not only because the scanner is recording - is the professional who performs well when external monitoring is absent. The career will present many situations where external monitoring is minimal; the internal monitor is what carries the professional standard forward.
 
 
-
 The sensors everywhere produce the professional who carries their own sensors everywhere. That is the point of the ILP discipline framework. Navigate it well. The conference room like a Bond movie is on the other side.
 
 ---

@@ -784,7 +784,6 @@ Very good. The technical foundation, professional communication development, and
 Direct employment for 50,000 engineering graduates annually, with the salary income those graduates generate in their local economies. Skill development for those 50,000 individuals that makes them productive contributors to India's technology export economy. A signal to engineering institutions, students, and families that technology education investment produces employment outcomes. And the continuation of India's IT services sector as one of the primary generators of foreign exchange earnings through professional services exports. A large TCS hiring year is genuinely good news for the Indian economy, not only for the individual candidates it benefits.
 
 
-
 The hiring opportunity is real. The preparation is the path through it. The career is the destination. The announcement is the starting signal.
 
 Go prepare. The path is open and the opportunity is ready for the candidate who is ready for it.

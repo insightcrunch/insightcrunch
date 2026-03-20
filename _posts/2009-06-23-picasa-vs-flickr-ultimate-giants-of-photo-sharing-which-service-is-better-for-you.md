@@ -17,7 +17,6 @@ Read more: [Michael Jackson no more, an era comes to an end »](https://insight
 But the cost of the two services based on the features they provide provides a very tricky [](https://i0.wp.com/lh3.ggpht.com/_7iorNs4nc_0/Sl7JmIiYTvI/AAAAAAAAFJ4/PmkIfdy53s4/s1600/picasa_flickr1.jpg)situation for the end-users to decide what they really need. You really need to have a very crystal clear idea of what you really want from your photo sharing service. Then only the choice would make you satisfied in the end. Here is a quick snapshot of what the two services provide. With a little research work and comparing them it is not a difficult choice.
 
   
-
 ** Category**
 
 ** Picasa Web Albums**
@@ -61,7 +60,6 @@ Video : 1GB
 Total Capacity : 1GB
 
   
-
 You will be reminded like [this](http://lh5.ggpht.com/_7iorNs4nc_0/SkDBjIykPXI/AAAAAAAAEZ8/N8hiuzDhRhs/Fullscreen%20capture%206232009%2051559%20PM.bmp.jpg).
 
 Photo : 10MB  
@@ -81,7 +79,6 @@ You will be reminded like [this](http://lh4.ggpht.com/_7iorNs4nc_0/SkDBjBNrmOI/A
 Video : 1GB
 
   
-
 Total Capacity : Options of 20GB, 80GB, 200GB, 400GB, 1TB, 2TB, 4TB, 8TB and 16TB.
 
 Photo : 20MB  
@@ -111,7 +108,6 @@ Total Capacity : Unlimited
 16 TB ($4,096.00 USD per year)
 
   
-
 To check out more see [this](https://www.google.com/accounts/PurchaseStorage).
 
  24.95$ per year  
@@ -155,17 +151,14 @@ Options of making the albums:
 ** Public** (will appear in search results and visible to everyone)
 
   
-
 **Unlisted** (will not appear in search results but can be viewed with the exact album link, no need for viewers to sign in, making the process extremely simple, easy and fast, an advantage over Flickr)
 
   
-
 **Private** (viewers need to be invited by the owner) 
 
 Option of making the photos: 
 
   
-
 ** Public** (visible to everyone) 
 
 **  
@@ -173,7 +166,6 @@ Option of making the photos:
 Visible to friends** (visible to people whom you add as friends, viewers need to be signed in and added to your contacts as friends before hand, a disadvantage)
 
   
-
 **Visible to family** (
 
  visible to people whom you add as family,
@@ -183,7 +175,6 @@ Visible to friends** (visible to people whom you add as friends, viewers need to
 )
 
   
-
 **Private** (
 
  only visible to you 

@@ -85,7 +85,6 @@ The Tableau Desktop Specialist Certification Practice Exam below will give you a
 } 
  
 
- 
 		Download Datasets 
 		 
 			[Super Store 2013](https://www.flexiquiz.com/Uploads/Files/a4940ea8-ab52-417c-a9f5-1444ba4bd453_mvufqolbjjxto2zuor5fmokgirixmn2fknzwo2tfnf5hm4kdkfrfkz3fnnhtc6lnkjmdapi-gmyuinjsgy3tirjrhfcdiq2biu4egmrxgvaugqzrie4tqqrygm2a?f=Sample-Superstore.xlsx) 
@@ -98,7 +97,6 @@ The Tableau Desktop Specialist Certification Practice Exam below will give you a
             [Music](https://www.flexiquiz.com/Uploads/Files/a4940ea8-ab52-417c-a9f5-1444ba4bd453_oz2huukdjrtdklzsizju64suiu4g6vkokvtwgykyof3uyszuinceontlkjbxoskdf53vcpi-iy2dkn2ghe3tombzg4zdimjvgbbdknzugeytenjrge3eeqrxgyyq?f=Music.xlsx)
 		 
 	 
-
 [/s2If]
 
 [s2If !current_user_can(access_s2member_level1)]
@@ -132,7 +130,6 @@ The Tableau Certified Data Analyst Certification Practice Exam is a simulation o
             [Music](https://www.flexiquiz.com/Uploads/Files/a4940ea8-ab52-417c-a9f5-1444ba4bd453_oz2huukdjrtdklzsizju64suiu4g6vkokvtwgykyof3uyszuinceontlkjbxoskdf53vcpi-iy2dkn2ghe3tombzg4zdimjvgbbdknzugeytenjrge3eeqrxgyyq?f=Music.xlsx)
 		 
 	 
-
 [/s2If]
 
 [s2If !current_user_can(access_s2member_level1)]

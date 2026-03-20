@@ -649,7 +649,6 @@ Chhena Poda (literally "burnt cheese") is Odisha's signature sweet - fresh cotta
 The specific quality of being in a city that has been a religious and cultural centre for over a thousand years, while simultaneously being in a modern planned city with IT park infrastructure. This historical-contemporary overlay is unique to Bhubaneswar among major ILP cities - neither Trivandrum nor Pune (for all their historical richness) has quite the same density of ancient temple architecture sitting within a modern planned IT township. The two coexist in Bhubaneswar in a way that the daily commute from Kalinga Park to the old temples can traverse in thirty minutes. That proximity is the specific gift of the Bhubaneswar posting.
 
 
-
 ---
 
 The picture is being drawn. The pastel version will come with time. Right now, be fully inside the experience that will become the picture. Every cold shower, every case study session, every Puri beach sunset, every EC anxiety night, every batch dinner - all of it is being painted into the picture that will hang on the wall of memory.

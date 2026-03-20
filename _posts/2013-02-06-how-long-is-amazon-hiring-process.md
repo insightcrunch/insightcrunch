@@ -39,8 +39,6 @@ Candidates should have the functional and technical skills required to do the jo
 
 If you see the Amazon job descriptions, which are provided in the job portals, they are very detailed and descriptive and mentions different types of works that the candidate will be expected to do as part of their roles and responsibilities. Hence, it is important to read each one of them carefully before you understand what you are going to get into. It will also give you an idea of the type of tasks that you will be performing on a day-to-day basis. There will be a variety of simulations and work samples that might be provided along with the job description that will give you an idea of the job. The online tests that candidates are supposed to take are built by industry experts. The questions are framed to analyze the personality and skills of the candidates from a variety of perspectives.
 
-![Amazon Work Culture and Interviews](/assets/images/blog/blog-14.webp)
-Amazon Work Culture and Interviews
 
 ## Amazon Culture and Principles
 

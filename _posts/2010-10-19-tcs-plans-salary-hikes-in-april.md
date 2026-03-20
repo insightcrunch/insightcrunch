@@ -871,7 +871,6 @@ TCS has various team performance incentive mechanisms at the account and project
 Achieve consistent above-standard ratings (Rating 4) across the first five years through the goal-setting, documentation, and manager relationship investment described in this guide. Consistent Rating 4 produces two to three promotions in the first decade that create salary step-changes significantly above what annual increments alone produce. The annual increment percentage is less important than the promotion history. Invest in the performance that produces promotions, not only in the performance that produces incrementally better annual increment percentages.
 
 
-
 The April increment is the annual measure of TCS's recognition of your contribution. The framework, practices, and principles in this guide are the investment that determines what that measure reflects. Invest in your performance. Document it well. Advocate for it effectively. And let the April announcement confirm what the year built.
 
 That is the complete guide to TCS salary hikes and appraisals. The investment is yours to make. Begin it now.

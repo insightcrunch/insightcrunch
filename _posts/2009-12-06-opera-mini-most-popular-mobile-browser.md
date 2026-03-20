@@ -20,5 +20,3 @@ Most Popular Mobile Browsers
 Read more: [You in? Yahoo spreads ripples of kindness around the world in 129 characters »](https://insightcrunch.com/2009/12/15/you-in-yahoo-spreads-ripples-of-kindness-around-the-world-in-129-characters/)
 
 A small stat below shows how fast and rapidly it has spread amongst the users. Hope Google comes out with something in this segment of the market and take the competition to a different level altogether!
-
-![](/assets/images/blog/blog-09.webp)

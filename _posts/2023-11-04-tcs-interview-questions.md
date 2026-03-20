@@ -625,7 +625,6 @@ Avoid questions about salary, leaves, or working hours in a first HR conversatio
 ---
 
 
-
 ### For Ninja Profile Candidates
 
 Your technical interview bar is: clear conceptual understanding of core CS topics, ability to explain your projects, basic SQL and OOP fluency, and professional communication in HR. Deep algorithm implementation and system design are not your primary concern. Focus on being able to explain every concept you mention clearly and correctly.

@@ -1196,7 +1196,6 @@ A introduces "cognitive biases" as a concept. D expands this ("dozens of such bi
 ---
 
 
-
 The candidates who score highest in the TCS verbal section share one characteristic: they treat it as a skills test, not a knowledge test. They do not walk in hoping their general English fluency will carry them - they walk in with specific techniques for each question type, a vocabulary range calibrated to this test level, and a time management plan that ensures they complete the section.
 
 Everything in this guide is learnable. Grammar rules are finite and systematic. Para jumble logic is consistent and codifiable. RC technique is a skill that responds to deliberate practice. Vocabulary at TCS level is achievable in weeks with focused effort.

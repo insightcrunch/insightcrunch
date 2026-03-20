@@ -18,26 +18,15 @@ The VirtualBox will create a Virtual Disk Image in the path specified during the
 
 So now that we have imported successfully and logged in using the default credentials **root** and **hadoop**, I get the below error when I try to use hive inside the sandbox.
 
-![](/assets/images/blog/blog-08.webp)
 
 There's a browser portal that can be used to access: http://127.0.0.1:4200/  
 Here again I get stuck at the below screen for an indefinite amount of time. The screen freezes at the initialization step for a long time. It shows initializing but does not, and the CPU and memory consumption stays the same for a long period of time.
 
-![](/assets/images/blog/blog-08.webp)
 
 After shutting down the virtual box and re-logging in and again repeating the steps, finally the login worked fine. And I am able to enter the Hive prompt and execute few simple statements.
 
-![](/assets/images/blog/blog-08.webp)
 
 The create database for a sample database and create schema worked fine as expected.
 
-![](/assets/images/blog/blog-08.webp)
-
-![](/assets/images/blog/blog-08.webp)
-
-![](/assets/images/blog/blog-08.webp)
 
 Then creating a dummy sample table also worked fine inside the sandbox. Thus we are ready with Hive in a virtual box to try out our next steps.
-
-![Troubleshooting Hive in Hortonworks Virtualbox Sandbox](/assets/images/blog/blog-08.webp)
-Troubleshooting Hive in Hortonworks Virtualbox Sandbox

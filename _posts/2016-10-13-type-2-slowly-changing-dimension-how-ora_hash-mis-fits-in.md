@@ -18,8 +18,6 @@ The above snapshot is from a table where SCD2 is implemented. The logic calculat
 
 But note what happens for record R1. On Day 2, the hash value changed (from 100 to 200) due to a different value (V4) in Field 3 - so the new record got inserted with hash value 200. The new record gets flagged Y and the previous one gets tagged N. But on Day 3, when the Field 3 of R1 changes back to V3 (from V4),  it's hash value is again *back to 100*. Now, since the logic checks that if the new hash value (100) is different from the existing value (200) of the existing R1 record tagged Y, it will flag the record with hash value 200 as N. **Now**, I have to be careful to make sure the old hash value 100 which **already resides** with a flag of N do not interfere with the new record (**also having hash value 100**).
 
-![Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in](/assets/images/blog/blog-08.webp)
-Type 2 Slowly Changing Dimension - How ORA_HASH (mis) fits in
 
 Several scenarios can happen in this case if not handled properly:
 

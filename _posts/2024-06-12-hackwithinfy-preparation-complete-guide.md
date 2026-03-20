@@ -352,9 +352,6 @@ HackWithInfy preparation for a candidate starting from scratch is a 12 to 18 mon
 **The importance of variety in practice.** Practising only on one platform (only LeetCode, or only Codeforces) produces skills calibrated to that platform's specific style. LeetCode's clean problem statements and hint system train a different problem-solving mode than Codeforces's competitive pressure and concise problem statements. AtCoder's mathematically precise problems train a different depth than either. Mixing platforms in preparation ensures the broad problem-solving flexibility that HackWithInfy's varied problem types require.
 
 
-
-
-
 Technical knowledge is necessary but not sufficient for top HackWithInfy performance. The mental process during the contest accounts for a significant portion of the performance gap between candidates of similar preparation levels.
 
 **The first ten minutes.** The opening phase of the contest should be entirely devoted to reading all three problems, not solving any of them. Read each problem statement completely, understand the constraints and sample test cases, and form a rough difficulty ranking. This survey gives you a map of the contest: you know which problem to start with, which might be your partial credit target, and approximately how much time each is worth. Candidates who start coding during the first ten minutes because they recognise a familiar problem type frequently miss nuances in the problem statement that invalidate their approach.
@@ -381,7 +378,6 @@ Technical knowledge is necessary but not sufficient for top HackWithInfy perform
 **The narrative of each contest.** Experienced competitive programmers describe each contest as having a narrative - a sequence of problem encounters, decisions, and pivots that tell a coherent story. Cultivating the habit of mentally narrating the contest ("I have solved Problem 1 in 18 minutes, Problem 2 is a tree DP, I will implement the subtree size calculation first and then add the DP transition") creates an internal framework that makes time management and strategy decisions more conscious and deliberate rather than reactive. This metacognitive practice is one of the distinguishing habits of high-performing contestants.
 
 **Accepting partial information.** A particularly important mindset dimension in competitive programming is comfort with acting under partial information. In a contest, you will frequently commit to an approach before you are completely certain it is correct. The ability to implement a promising approach, test it against available cases, and submit with reasonable confidence rather than waiting for 100% certainty is necessary because the time available does not permit complete verification of every idea. The calibration between confidence and verification is developed through repeated contest participation, not through any amount of offline practice.
-
 
 
 ---
@@ -531,9 +527,6 @@ Debugging is not a passive skill that develops automatically from solving proble
 **When to debug versus when to rethink.** Debugging is productive when the algorithm is correct but the implementation has a specific bug. It is not productive when the algorithm itself is wrong. If a solution has returned Wrong Answer three times and each fix has been a minor adjustment, the algorithm is likely incorrect and the correct action is to step back and reconsider the approach from the problem statement, not to continue debugging the implementation.
 
 **The stress test technique.** For problems where the expected output can be computed by a brute-force solution for small inputs, a stress test compares the efficient solution against the brute force on randomly generated small inputs. Implement: a correct brute force (even O(n^3)), a random input generator, and a loop that generates random inputs and compares both solutions. The first input on which they disagree is a minimal failing test case that can be manually analysed. This technique reliably finds subtle bugs that hand-testing misses.
-
-
-
 
 
 ---

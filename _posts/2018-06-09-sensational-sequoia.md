@@ -29,5 +29,3 @@ The enchanting walks around Sequoia forest, the rousing emotions, the captivatin
 The wildlife consists of hundreds of black bears, rattlesnakes, mountain lions, and some friendly rodents. The visitor guide below is really well versed with all the different situations that our curious minds wandered on, and it was interesting to read.
 
 [googleapps domain="drive" dir="file/d/1G_5vRStRW2pyrkBaqpX96H50dPZ7zF6H/preview" query="" /]
-
-![](/assets/images/blog/blog-12.webp)

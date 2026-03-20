@@ -17,14 +17,9 @@ Exploring the South West
 
 Nearly 20 places made it to my initial list, but after much deliberation it came down to 16, then finally to 9 places. As always, per our new rule, we do not want to stress out so much that the thoughts of reaching the next destination late, becomes a constraint for cherishing the times at the last destination. Needless to say, the best part of a trip is the planning part, the quest for the unknown, the curiosity of how the new places will be like, the excitement of the memories that are going to be in the making, really makes the weeks before the trip so much memorable.
 
-![](/assets/images/blog/blog-03.webp)
-Blending in Nature
 
 This applies to not only special long-awaited trips, but even for mere neighborhood trips for me. And as always, the planning part involves a lot of research for the food explorer in me even before the trip begins, which never completes and continues till the last day of the trip.
 
 https://www.youtube.com/watch?v=MOsKYmLlrf0
 
 After the bookings of the flights, the next best part was to decide between cottages or inns or motels or hotels. I have curated a mammoth collection in my Feedly (am so addicted to Feedly, besides Audible ofcourse) for specially travel blogs, and it has greatly influenced me on this aspect last few years. The closeness to the place and some local touch can only be felt easily if we can for once decide to reserve a cottage or resort close to our venue, which might be in a forest or at the foot of a mountain. With the landscape as it is in Arizona, it was not easy to find such a place in the avajo Reservation, but we managed to find one awesome place just 20 mins north-east to the Reservation, near Mexican Hat in Utah. We also reserved a cottage near Bryce Point in Utah, the slowness and calmness of these places really becomes a priority sometimes, due to which we often change our plans to spend more time at such places as I will divulge in the next post in this series. The sounds of nature seems music to our ears, days spend without earpods doesn’t make us miss it anymore, it is then that we realize we are able to connect to what really matters in our lives.
-
-![](/assets/images/blog/blog-03.webp)
-Immersing in History

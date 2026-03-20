@@ -690,7 +690,6 @@ The "wish I could bring back those days" quality of the Trivandrum ILP is made o
 That is the one thing worth knowing about TCS ILP Trivandrum.
 
 
-
 ---
 
 ## In Summary: Trivandrum ILP is Worth Having

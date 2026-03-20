@@ -23,5 +23,3 @@ However, did we force the data to project this insight? Or is the insight a natu
 Keep reading: [Evernote and how it transformed my digital life »](https://insightcrunch.com/2016/10/02/evernote-and-how-it-transformed-my-digital-life/)
 
 A situation like this is extremely satisfying and yet challenging after weeks of brainstorming, and enables more learning and nerve-wracking workshops. Hours when anomalies seem valuable, and omitting outliers feels like a sin, feeling the data blend into ourselves all around us as we crave towards the perfect insight with every tougher question presented to us, finally helped arrive at data analysis in front of us rich enough to satisfy most of us. While enough items remain unexplored still, strategic solutions such as these are quite a step in the vast expanse of the data world.
-
-![](/assets/images/blog/blog-07.webp)

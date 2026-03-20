@@ -670,7 +670,6 @@ These behaviours signal leadership readiness and make you a natural candidate wh
 ---
 
 
-
 Registration for TCS BPS is handled through the TCS Next Step portal - the same platform used for NQT registration. The process is straightforward but has several steps where candidates frequently make errors.
 
 ### Step 1: Account Creation on TCS Next Step
@@ -818,7 +817,6 @@ Conclusions: (I) Some managers are coaches. (II) Some coaches are managers.
 Conclusion I: Cannot be derived - just because some leaders are coaches does not mean those leaders are the ones who are also managers. Conclusion II: Cannot be derived for the same reason. **Neither conclusion follows.**
 
 ---
-
 
 
 This plan is designed for candidates with a two-to-four-week preparation window. Adjust the daily time based on your schedule - the minimum effective preparation is 1.5 hours per day.

@@ -86,23 +86,9 @@ The Microsoft Azure Fundamentals AZ-900 Certification Practice Exam
   document.write(month[d.getMonth()]+" '"+d.getFullYear().toString().substr(-2));
 
   
-    
-
-  
-  
-  
-  
-  
-  
-
 Enter to Begin Exam
   
   
-  
-  
-  
-  
-
 <!--
 function ReplaceContentInContainer(id,content) {
 var container = document.getElementById(id);
@@ -519,9 +505,6 @@ Role of the Proctor
 For remote exams, the Proctor plays a critical role throughout the Microsoft Azure Fundamentals AZ-900 Certification Exam to make sure you successfully complete your exam. The role can be categorized into **Identity Verification, System and Configuration Setup, Accessibility Enablement, Rules and Regulations Enforcement, Supervising the Exam, Addressing Adhoc Accessibility or System Issues during the Exam, Ensuring Closure of the Examination**. The Proctor also has a set of guidelines that they will follow and verify in order to proceed as per the process for a successful examination. 
 
   
-  
-
-  
 The Microsoft Azure Fundamentals AZ-900 Certification Practice Exam 
   var month = new Array();
   month[0] = "Jan";
@@ -540,27 +523,9 @@ The Microsoft Azure Fundamentals AZ-900 Certification Practice Exam
   document.write(month[d.getMonth()]+" '"+d.getFullYear().toString().substr(-2));
 
   
-    
-
-  
-
-  
-  
-  
-  
-  
-  
-
 Enter to Begin Exam
   
   
-  
-  
-  
-  
-
-  
-
 <!--
 function ReplaceContentInContainer2(id,content) {
 var container = document.getElementById(id);

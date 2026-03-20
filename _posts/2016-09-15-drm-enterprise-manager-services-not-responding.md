@@ -22,6 +22,3 @@ Follow the below steps:
 
 ![Start Weblogic Server](/assets/images/blog/blog-01.webp)
 Start Weblogic Server
-
-![DRM Enterprise Manager services not responding](/assets/images/blog/blog-01.webp)
-DRM Enterprise Manager services not responding

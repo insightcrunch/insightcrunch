@@ -34,8 +34,6 @@ CONNECT BY NOCYCLE PRIOR FLEX_VALUE = PARENT_FLEX_VALUE
 
 While **sourcing hierarchy from Oracle Data Relationship Management**, the first step is to connect our DRM application to a database and then export the DRM hierarchy to a database table (unless you love to work with files more) with the values TOP_NODE, NODE_NAME, PARENT as the mandatory fields. Then, while sourcing from this table, we can similarly use our filter with a CONNECT BY query as above. We can also use DRM Properties as flags and then use the values of those flags (Y or N or some other value) from the table as part of our filtering, but that's usually required for more complex scenarios.
 
-![Oracle BI Apps dynamic hierarchy filtering in ODI incremental load plan](/assets/images/blog/blog-14.webp)
-Oracle BI Apps dynamic hierarchy filtering in ODI incremental load plan
 
 While **sourcing data from an Essbase cube**, first we have to identify the full hierarchy information. Based on that information we can implement our filtering process. We will be using Essbase Report Script to extract the Essbase outline information using IDESCENDANTS - this will return the values of all the members in the hierarchy starting from the top node. Once the output of this Report Script is stored in a database table, it can be easily used to fetch our required information by placing the filter to include or exclude the members of a tree. Again, I always prefer keeping everything as dynamic and flexible as possible to minimize manual effort in the future in case of any changes - so CONNECT BY is my go-to choice. **Download** the IDESCENDANTS and CONNECT_BY Guides at the end of this article to learn more on how to implement these in your code.
 

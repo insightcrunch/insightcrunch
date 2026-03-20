@@ -208,7 +208,6 @@ Candidates who understand this cross-section dependency prepare differently: the
 **Proctoring and integrity expectations:** The online assessment is proctored through webcam and browser lockdown. Any attempt to use external materials, access the internet, or consult another person during the test is detected and results in immediate disqualification and a permanent ban from Infosys processes. The proctoring software is sophisticated enough to flag head movement away from the screen, multiple faces appearing in the camera frame, and browser-switching attempts. These are not theoretical risks; they result in candidate eliminations every drive cycle. The only safe approach is to treat the assessment as an examination where integrity is absolute.
 
 
-
 The Digital Specialist Engineer and Power Programmer tracks at Infosys include an additional coding round beyond the standard pseudocode section. This round involves one or two actual coding problems to be solved in a programming language of the candidate's choice (typically C++, Java, or Python).
 
 The problems in this round are not competitive programming-level. They are typically data structure and algorithm problems at the easy-to-medium difficulty tier: string manipulation, array traversal, basic sorting logic, linked list operations, and simple dynamic programming like subset sum or the longest common subsequence. The evaluation criteria include correctness (how many test cases pass), code quality (variable naming, logic clarity), and occasionally time complexity.

@@ -26,7 +26,6 @@ The role of the development team should be up to code delivery and implementatio
 ## Allocation of due time for each phase in SDLC
 
 **
-![](/assets/images/blog/blog-13.webp)
 **Each of the phases in SDLC must be given due weight and time. It often happens due to strict timelines, the analysis and design phases are shortened. But this can lead to severe consequences as the solution approach might prove to be unsustainable on the long term. All sorts of feasibility, cost, adaptability, flexibility study should be completed with proper discussions and brainstorming which will also benefit in team-building.    
 
 These practices need to be strictly followed by budding engineers and experienced professionals alike. It’s ought to be like the untold rules of software engineering.

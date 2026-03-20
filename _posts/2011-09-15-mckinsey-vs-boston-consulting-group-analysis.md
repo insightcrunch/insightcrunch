@@ -20,8 +20,6 @@ McKinsey is said to have a slightly more work pressure than it’s peers in this
 
 Boston Consulting Group is a very close competitor, recruiting from nearly the same institutions as McKinsey and having a lot similar strategy and work culture. But work pressure and traveling might not seem apparently as much as McKinsey.
 
-![McKinsey vs Boston Consulting Group](/assets/images/blog/blog-08.webp)
-McKinsey vs Boston Consulting Group
 
 ## Advising on Technical Issues
 

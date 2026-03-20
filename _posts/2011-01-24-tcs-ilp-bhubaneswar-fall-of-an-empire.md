@@ -630,7 +630,6 @@ Functional programming is the single module that generates the highest rate of d
 Motivation for re-assessment preparation is not primarily a psychological challenge - it is a structural one. When motivation is unreliable (which is normal after a public failure in a stressful environment), replace it with structure. Set specific study times with specific goals ("I will complete three Scheme exercises between 8 PM and 9 PM") rather than open-ended intentions ("I will study more tonight"). Study with a partner who has a commitment to show up at the same time. Use external accountability - tell your trainer what you plan to prepare and by when. Structure produces consistent output even when motivation fluctuates, and consistent output is what re-assessment recovery requires.
 
 
-
 ## The Bigger Picture: What ILP Failure Teaches You
 
 The freshers who look back on failed ILP assessments most constructively are those who extract something durable from the experience - not just "I should have studied more" but a deeper understanding of how they learn, where they are prone to overconfidence, what they do under pressure, and how they respond to public failure.

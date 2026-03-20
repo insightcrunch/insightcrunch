@@ -21,6 +21,3 @@ Read more: [Farewell Mr. President »](https://insightcrunch.com/2008/12/15/fare
 Again if you blog day and night and your blogs have the latest and up-to-date contents, then your blogs are sure to get visited by many people from all over the world.....That makes you a famous blogger too!
 
 Hope this is the simplest solution :)
-
-![How to Become a Famous Blogger](/assets/images/blog/blog-08.webp)
-How to Become a Famous Blogger

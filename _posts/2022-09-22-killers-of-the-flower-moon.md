@@ -23,21 +23,16 @@ Leonardo DiCaprio in Killers of the Flower Moon
 
 The movie Killers of the Flower Moon is planned to be released in 2023. Martin Scorsese said he instantly knew he had to make the book a movie when he read David Grann's book Killers of the Flower Moon. Martin Scorsese spent several hours together with Chief Standing Bear to help convincing the Osage Nation assist with the filming of the movie. Martin Charles Scorsese born in 1942 is an American film director, producer, screenwriter, and actor, who has received many accolades, including Academy Award, Grammy Award, and the Golden Globe Award. David Grann born 1967 is an American journalist, a staff writer for the New Yorker magazine, and a best-selling author.
 
-![Newsclipping on Reign of Terror. (Photo courtesy of Osage News)](/assets/images/blog/blog-13.webp)
-Newsclipping on Reign of Terror
 
 ## Killers of the Flower Moon Book
 
 The book Killers of the Flower Moon is the third non-fiction book by the renowned American journalist David Grann. The book was published on April 18 1917. The book was in the top 10 non-fiction books of 2017 listed by the Time magazine. The book tells the story in an investigative style about a series of murders. These incidents happen in a community of wealthy Osage people in Osage County of Oklahoma. The same time there were big oil deposits discovered beneath their land. The official death count of the wealthy Osage victims is 20. But David Grann suspects that hundreds more may have been killed in the Osage County because of their ties to the oil in the region. The non-fiction book details the new FBI investigation of the Osage murders. The book also details the trial and conviction of cattleman William Hale who is the mastermind behind the entire Osage murder plot.
 
-![David Grann and his book Killers of the Flower Moon](/assets/images/blog/blog-13.webp)
-David Grann and his book Killers of the Flower Moon
 
 ## Killers of the Flower Moon Cast
 
 The movie Killers of the Flower Moon Casts some of the top talents of our times. The film stars Leonardo DiCaprio as Ernest Burkhart, Robert De Niro as William Hale, Lily Gladstone as Mollie Burkhart, Jesse Plemons as Tom White, Tantoo Cardinal as Lizzie Q, John Lithgow as Prosecutor Leaward, Brendan Fraser as W.S. Hamilton, Cara Jade Myers as Anna Kyle Brown, Janae Collins as Reta, Jillian Dion as Minnie, William Belleau as Henry Roan, Jason Isbell as Bill Smith, Scott Shepherd as Bryan Burkhart, Louis Cancelmi as Kelsie Morrison, Sturgill Simpson as Henry Grammer, Tatanka Means as John Wren, Pat Healy as John Burger, Michael Abbott Jr as Frank Smith, Yancey Red Corn as Chief Bonnicastle, along with Everett Waller, Larry Sellers, Jack White, Barry Corbin, Tommy Schultz, Gary Basaraba, Pete Yorn, Samuel French, Eric Parkinson, Ben Hall, and Norma Jean.
 
-![Members of the Osage Nation visit Washington DC to lobby senators over oil leases and conditions among Native Americans in Oklahoma 1925](/assets/images/blog/blog-13.webp)
 Members of the Osage Nation visit Washington DC to lobby senators over oil leases and conditions among Native Americans in Oklahoma 1925
 
 ## Killers of the Flower Moon Trailer

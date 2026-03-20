@@ -69,18 +69,5 @@ During the Tableau Certified Data Analyst Certification exam, you might get pop 
 
 The Tableau Certified Data Analyst Certification exam proctor will be able to guide you if you face any issues regarding the exam format, or regarding the process how you should answer different types of questions. You might also get redirected to the rules that you agreed to do before starting the Tableau Certification exam. There are two knowledge based sections in this exam, and one hands on lab section as per the Tableau Data Analyst Certification exam format. The knowledge section is a multiple choice type section along with hot area, reordering answers, etc. 
 
-![](/assets/images/blog/blog-06.webp)
-
-![](/assets/images/blog/blog-06.webp)
-
-![](/assets/images/blog/blog-06.webp)
-
-![](/assets/images/blog/blog-06.webp)
-
-![](/assets/images/blog/blog-06.webp)
-
-![](/assets/images/blog/blog-06.webp)
-
-![](/assets/images/blog/blog-06.webp)
 
 In the hands on section of the Tableau Certified Data Analyst Certification exam, you will have to connect to a virtual machine where you will be asked different questions like put the filters with the following type of sets, or creating a line graph with different dimensions which will be specified. Some questions might be not clear and hence there will be a section for you to add comments every time you complete an activity. For example, there might be questions which will ask you to display specific lines, but are not exactly clear what to do with the other features. So you can leave a comment to explain why you did what you did, so that you will get scored accordingly by the examiner who will be giving you marks for that question.

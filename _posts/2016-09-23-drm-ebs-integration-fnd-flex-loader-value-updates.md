@@ -31,8 +31,6 @@ Understanding how the **data flows** from DRM to EBS is useful and helps troub
 
 The below **diagram** will explain schematically how the data flows, focussed mainly on the hierarchy tables in EBS. The interface tables which are truncated and loaded are GL_DRM_SEGVALUES_INTERFACE and GL_DRM_HIERARCHY_INTERFACE in the GL schema. The FND tables in APPS or APPLSYS schemas are refreshed after that.
 
-![Oracle DRM EBS Integration Data Flow](/assets/images/blog/blog-02.webp)
-Oracle DRM EBS Integration Data Flow
 
 ## DRM Integration User Guide
 

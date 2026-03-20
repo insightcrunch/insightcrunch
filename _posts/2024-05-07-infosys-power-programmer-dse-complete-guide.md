@@ -82,7 +82,6 @@ What makes the DSE's early experience different from an SE's is the complexity o
 This workflow - write, test, review, deploy - is the cadence that DSE candidates learn to operate in from the first few weeks of project deployment. The level of comfort a DSE brings to this cadence at the start determines how quickly they can increase the complexity of the stories they are trusted with. Candidates who have done internships, open-source contributions, or independent project development before joining have a head start on this workflow familiarity.
 
 
-
 The Power Programmer role is qualitatively different from both the SE and DSE tracks in ways that go beyond salary and designation. It represents Infosys's investment in a specific type of engineering talent that is rare, difficult to train on the job, and disproportionately valuable for a specific category of work.
 
 **The profile Infosys is hiring for.** The Power Programmer (PP) profile targets candidates who have demonstrated the ability to solve complex algorithmic problems under competitive conditions. This typically means candidates who have participated seriously in competitive programming competitions, have a track record of high rankings on platforms like Codeforces, LeetCode, HackerRank, or CodeChef, and can handle problem categories like dynamic programming, graph algorithms, segment trees, and complex combinatorics - topics that are well beyond the scope of even the DSE selection assessment.
@@ -144,7 +143,6 @@ The third phase (remaining months) is integration and contest simulation: regula
 **The mental model difference between practice and competition.** One of the most underappreciated dimensions of competitive programming preparation for HackWithInfy is the difference between solving problems at leisure and solving them under competition conditions. During a contest, the clock creates pressure that changes how the brain processes problems. Candidates who practise exclusively outside contest conditions - solving problems with unlimited time, freely checking hints when stuck - develop a fundamentally different problem-solving instinct than those who practise under the same constraints as the actual competition. Regular contest participation (at minimum two to three live contests per month for the entire preparation period) is not optional preparation; it is the core training stimulus.
 
 **HackWithInfy registration and eligibility.** Registration for HackWithInfy is open to engineering students in the penultimate and final years of their degree. Registration is free and conducted through the HackWithInfy website. The academic eligibility criteria (60 percent minimum, no active backlogs) apply. The competition uses a standard competitive programming contest format where solutions are submitted and evaluated against automated test cases, with scoring based on correctness, time, and the order of correct submissions.
-
 
 
 ### InfyTQ and Other DSE Pathways
@@ -420,7 +418,6 @@ This means that a DSE candidate who has worked on genuinely complex cloud-native
 **The comparison to product company entry-level roles.** Candidates who are choosing between an Infosys DSE or PP offer and an entry-level role at a product company (either domestic or global) face a complex trade-off. Product company roles typically offer higher compensation, more direct impact, faster career progression in some dimensions, and a technology-first culture. Infosys DSE and PP roles offer structured onboarding through the Mysore programme, a diverse client exposure that builds business domain knowledge, and the stability of a large organisation with established processes.
 
 For candidates who are uncertain about their long-term career direction, the Infosys DSE or PP route provides a structured environment to develop professional fundamentals while building market-relevant technical skills. For candidates who have a clear product engineering or startup ambition, the product company route may better align with the kind of work they want to do from the start. The choice is not obviously better one way or the other; it depends on the individual's priorities, risk tolerance, and long-term career vision.
-
 
 
 **1. What is the difference between a Power Programmer and a Digital Specialist Engineer at Infosys?**

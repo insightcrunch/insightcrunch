@@ -18,6 +18,3 @@ However, it isn’t limited to any field or type of question. It actually unders
  The potential of this system is limitless, but it itself is not. It doesn't plan to give answers that may have multiple opinions, just for facts so don’t expect it to answer question on anything 
 ![](/assets/images/blog/blog-11.webp)
  like “Should I marry my boyfriend who has been with me for the last three years, but we broke up for like 3 months in the middle, and he didn’t even call once! Well actually he did, but I wasn’t there, but he didn’t call again! So should I? ”. This means the system has less chance of being biased, i.e. having answered based on the opinions of the people who are entering the data. This also means that it can only supplement Google, not replace it. It may never be able to rule the world, but I’m pretty sure it will rule the web!
-
-![Wolframalpha Search Engine](/assets/images/blog/blog-11.webp)
-Wolframalpha Search Engine

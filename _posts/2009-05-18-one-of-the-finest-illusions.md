@@ -18,7 +18,5 @@ However if you stare at the black "** +**" in the centre, the moving dot turns t
  Now, concentrate on the black "**+** " in the centre of the picture. After a short period, all the pink dots will slowly disappear, and you will only see only a single green dot rotating. ***  
  It's amazing how our brain works. There really is no green dot , and the pink ones really don't disappear. This should be proof enough, we don't always see what we think we see.***
 
-![Magical Illusions to the Eye](/assets/images/blog/blog-07.webp)
-Magical Illusions to the Eye
 
 Read more: [Value of Rs.500 »](https://insightcrunch.com/2009/05/19/value-of-rs-500/)

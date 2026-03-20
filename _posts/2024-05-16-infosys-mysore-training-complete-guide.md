@@ -271,7 +271,6 @@ The conclusion of the Mysore training is the formal beginning of the Infosys emp
 **Personal growth alongside professional development.** For many trainees, the Mysore experience is also the first extended period of genuinely independent adult living - managing finances, living with strangers, navigating a new city, and making daily decisions without family guidance. This personal growth dimension of the Mysore experience is real and consequential: trainees who have managed the Mysore experience successfully are more capable of navigating the relocations, the unfamiliar project environments, and the professional challenges of the early career than they would have been without it. The personal confidence that comes from having successfully navigated four months of an intense new experience is a career resource that is difficult to quantify but impossible to miss.
 
 
-
 The assessment system at Mysore is the mechanism through which Infosys determines each trainee's readiness for project deployment and, in some dimensions, their stream allocation and designation within the organisation. It is formal, frequent, and taken seriously by the training administration.
 
 ### Types of Assessments

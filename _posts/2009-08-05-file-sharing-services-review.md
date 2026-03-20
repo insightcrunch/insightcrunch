@@ -21,6 +21,3 @@ With the reviews so far submitted, here is a brief summary. Click "Finish" on ri
 Read more: [Why Bing would be an eternal threat to Google »](https://insightcrunch.com/2009/08/06/why-bing-would-be-an-eternal-threat-to-google/)
 
 You can also use this. Just select “Define groupings and calculations” below and add “Service Provider” to “Group by” column. Click “Next”. Select “Average” for each of the features. Select “Ok”. Now you will be presented with the average score of each service as submitted by the readers. Click the “**-**“ sign beside each of the service providers if you don’t want to see the details.
-
-![Dropbox vs OneDrive vs Box](/assets/images/blog/blog-13.webp)
-Dropbox vs OneDrive vs Box

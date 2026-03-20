@@ -321,7 +321,6 @@ Maintaining GitHub activity does not require constant heroic effort. Three to fo
 The publication of technical content, even if not widely read, demonstrates initiative and communication quality in a way that a resume bullet point never can.
 
 
-
 GCC interview preparation overlaps significantly with product company preparation but has some specific differences that are worth understanding.
 
 **Domain knowledge is more valued.** GCCs, particularly financial services GCCs, weight domain knowledge alongside pure algorithmic skill. An engineer who has worked on a banking or insurance project at Infosys and has developed genuine understanding of financial concepts (reconciliation, settlement, regulatory reporting, payment processing) has a genuine advantage in Goldman Sachs or JPMorgan GCC interviews over an engineer with equal DSA skill but no domain background.
@@ -389,7 +388,6 @@ The preparation timeline for a successful transition depends heavily on the star
 **Applying to a single company at a time.** The product company hiring process is slow (four to eight weeks per loop typically) and unpredictable (offers fall through, roles get closed, hiring freezes happen). Engineers who apply to one company at a time and wait for the outcome before applying to the next will spend 12 to 18 months in the application phase when they could complete the same number of loops in six to eight months by running three to five processes simultaneously. The pipeline approach is more efficient and provides the competitive leverage needed for salary negotiation.
 
 
-
 ---
 
 ## Typical Transition Paths: What Actually Happens
@@ -409,7 +407,6 @@ These are the patterns that characterise successful transitions from Infosys to 
 **What the transition looks like from the inside.** The lived experience of engineers making this transition - as reported by those who have completed it - follows a consistent arc: the first three to four months of LeetCode practice feel like fighting a headwind, with many problems taking far longer than expected and frequent frustration at the gap between where the preparation is and where it needs to be. Months four through eight typically show a visible shift as the patterns begin to connect - the recognition of a sliding window problem, a binary search on the answer, or a classic BFS structure happens faster, and the implementation becomes more fluent. The final phase, months eight through twelve or beyond, involves mock interviews that increasingly feel manageable rather than terrifying. The first successful technical phone screen with a product company is often described as genuinely transformative - a tangible confirmation that the preparation has produced a real capability change, not just a credential.
 
 This arc is worth knowing in advance because the first three to four months are where most preparation attempts collapse. The difficulty is real and is not a sign that the switch is impossible - it is a sign that the preparation is working at the edge of the current capability, which is exactly where skill development happens.
-
 
 
 ---
@@ -467,7 +464,6 @@ There is no single best resource because the transition requires different resou
 **13. How should I handle the gap between leaving Infosys (if I quit first) and joining a new company?**
 
 If for any reason you leave Infosys before securing a new offer - because of a hostile work environment, a project ending, or a personal decision - the gap period must be managed actively. Continue or intensify preparation. Take up freelance work or contract engagements to maintain professional activity on the resume. Contribute to open source. Be honest in interviews about the reason for the gap and the productive use of the time. Gaps of up to six months are generally acceptable if accompanied by evidence of active learning or professional activity. Gaps that are simply "took time off" with no activity signal reduced initiative to product company hiring managers.
-
 
 
 ---

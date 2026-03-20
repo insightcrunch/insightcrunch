@@ -17,8 +17,3 @@ TCS ILP Gandhinagar
 
 Read more: [First few days at TCS ILP »](https://insightcrunch.com/2010/10/28/first-few-days-at-tcs-ilp/)
 
-![TCS ILP Gandhinagar Gujarat Training Placement Hiring NQT Digital Ninja Syllabus Practice Tests Registration](/assets/images/blog/blog-01.webp)
-TCS ILP Gandhinagar
-
-![TCS ILP Gandhinagar Gujarat Training Placement Hiring NQT Digital Ninja Syllabus Practice Tests Registration](/assets/images/blog/blog-01.webp)
-TCS Infocity Gandhinagar

@@ -23,10 +23,8 @@ Now, in Enterprise Manager, we need to verify if the wss_username_token_service_
 
 Cannot locate policy manager query/update service. Policy manager service look up did not find a valid service, due to: Unable to connect to WS Policy Manager. <- oracle.wsm.policymanager.PolicyManagerException: WSM-02118 : The query service cannot be created. <- javax.naming.NameNotFoundException: While trying to lookup 'QueryService#oracle.wsm.policymanager.ejb.IStringQueryServiceRemote' didn't find subcontext 'QueryService#oracle'. Resolved ''; remaining name 'QueryService#oracle/wsm/policymanager/ejb/IStringQueryServiceRemote'
 
-![](/assets/images/blog/blog-10.webp)
 
 If there is still an issue in retrieving an already configured policy, in the Administration Console, navigate to **JDBC Data sources** as shown below, and select mds-owsm. In the **Connection Pool** tab, make sure it is having the correct Database URL. In the Enterprise Manager, in Services - Data Sources - Configuration - **Connection Pool**, need to make sure it is showing the correct TNS URL.
 
-![](/assets/images/blog/blog-10.webp)
 
 [](http://imageshack.com/a/img924/9341/kpVova.jpg)If required, make changes and then **restart the Manager Server**. We may also need to delete the **EPMPolicySet** and re-create the same just to make sure the attaching of the **wss_username_token_service_policy** is done correctly. If the issue is still not resolved, or you see some other message, let me know.

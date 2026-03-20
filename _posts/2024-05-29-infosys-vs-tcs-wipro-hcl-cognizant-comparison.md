@@ -290,7 +290,6 @@ This section distils the overall comparison into an honest summary of what each 
 **Cognizant is best at:** US client exposure and relationship building, the highest standard fresher package among the five, the most consistent onsite opportunities, and competitive mid-to-senior lateral packages. Cognizant is the right choice for candidates who want maximum US client exposure, frequent onsite opportunities, and the highest starting salary from a standard fresher process.
 
 
-
 The bench - the period during which an employee is not assigned to a project and is drawing salary while waiting for allocation - is one of the most significant quality-of-life and career risk factors in an IT services company. The bench experience varies considerably across the five companies.
 
 **Bench Policy Comparison:**
@@ -512,7 +511,6 @@ Most candidates who receive an offer from one of these five companies are also i
 **What to compare when all five make offers.** If the unlikely scenario of offers from multiple companies materialises simultaneously, the comparison framework should not be purely salary-based. The decision should weight: the specific technology stack and project type of each offer, the quality of the manager you would be reporting to (which requires direct assessment during the hiring process), the company's trajectory in the specific practice area you care about, and the proximity of the work to your longer-term career goals. The monthly in-hand salary difference between offers in this salary range is real but smaller than it appears in CTC terms; the technology and career trajectory differences can be much larger over a five-year horizon.
 
 **When to use an offer as leverage.** Receiving a competing offer can be used as a retention or counter-offer lever with an existing employer. The appropriate use of this leverage is honest and professional: inform the current manager and HR that a competing offer has been received, that you are evaluating it seriously, and ask whether there are options to address the concerns that made the external offer attractive. This works best when the competing offer reflects genuine skill market demand and when the relationship with the current employer is positive. It is less effective when the motivation for exploring externally is primarily cultural or when the current employer is in a cost-reduction phase.
-
 
 
 The most useful way to synthesise this comparison is through specific scenarios that match the most common questions job seekers and career-changers have.

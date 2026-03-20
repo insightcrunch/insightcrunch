@@ -314,7 +314,6 @@ Whether *The Revenge* takes the franchise in *Raazi*'s direction -- toward the a
 ---
 
 
-
 ## Part Nine: The Silence That the Mission Requires
 
 ### What Cannot Be Said When the Mission Is Over
@@ -342,7 +341,6 @@ This is the reality of what the 26/11 avenging narrative actually looks like if 
 The alternative endings we explored are, at their deepest level, different positions on this question. The ending where the mission succeeds says yes, the statement is sufficient. The ending where the mission is incomplete says no, or says the question cannot be answered. The ending where Hamza dies and Jaskirat survives says something more difficult: that the question may not be the right question, that what matters is not whether the accounting is closed but whether the people who conducted it were treated with the honesty they deserved.
 
 ---
-
 
 
 ## Part Ten: One Week Out -- Reading the Signals

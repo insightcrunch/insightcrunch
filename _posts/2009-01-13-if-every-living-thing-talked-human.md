@@ -20,6 +20,3 @@ Now after so many years, the same thoughts came back and just turned out to give
 Read more: [The Maestro - A.R. Rahman »](https://insightcrunch.com/2009/01/16/the-maestro-a-r-rahman/)
 
 What if they all were given the right to vote along with us?? Would they still be as vulnerable as they are today?
-
-![Talking to Pet Dogs](/assets/images/blog/blog-14.webp)
-Talking to Pet Dogs

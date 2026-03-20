@@ -382,7 +382,6 @@ The alternatives teach through information. The actual ending teaches through ex
 ---
 
 
-
 ## Part Eight: The Paths Not Taken and the Path That Was
 
 ### What Each Alternative Costs Santiago

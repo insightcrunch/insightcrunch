@@ -692,7 +692,6 @@ Cloud services: as clients migrate infrastructure to AWS, Azure, and Google Clou
 ---
 
 
-
 | Dimension | TCS Smart Hiring | TCS NQT (Ninja) |
 |---|---|---|
 | Eligible streams | BCA, B.Sc (CS/IT/Math/Phy/Chem/etc.), B.Voc CS/IT | B.E/B.Tech/M.E/M.Tech/MCA/M.Sc CS |
