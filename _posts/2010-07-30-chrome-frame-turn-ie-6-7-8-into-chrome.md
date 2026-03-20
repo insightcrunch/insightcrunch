@@ -5,14 +5,14 @@ date: 2010-07-30
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.
 
-![Google Chrome and Microsoft Edge](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Google Chrome and Microsoft Edge](/assets/images/blog/blog-04.webp)
 Google Chrome and Microsoft Edge
 
 Read more: [Twitter spammers sending out malware via random replies »](https://insightcrunch.com/2010/08/03/twitter-spammers-sending-out-malware-via-random-replies/)

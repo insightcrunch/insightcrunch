@@ -5,7 +5,7 @@ date: 2024-11-29
 categories: ["Leisure"]
 tags: ["solo-dining", "houston", "restaurants", "houston-food", "eating-alone", "counter-dining", "bar-seating", "tex-mex", "barbecue", "pho", "montrose", "chinatown"]
 excerpt: "Best restaurants for solo dining in Houston: BBQ counters, Chinatown dim sum, Montrose wine bars, and pho shops perfect for eating alone in H-Town."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

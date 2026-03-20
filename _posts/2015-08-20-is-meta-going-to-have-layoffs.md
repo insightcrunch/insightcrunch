@@ -5,7 +5,7 @@ date: 2015-08-20
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is one of the largest corporations in the world with a variety of products in the social media segment and the virtual reality world. With a great reach across the internet population, there is ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Read more: [How long will the Meta hiring freeze last »](https://insightcrunch.
 
 [s2If current_user_can(access_s2member_level1)]
 
-![Meta hiring freeze and Facebook having layoffs](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Meta hiring freeze and Facebook having layoffs](/assets/images/blog/blog-07.webp)
 Meta having layoffs
 
 ## Is Meta laying off employees

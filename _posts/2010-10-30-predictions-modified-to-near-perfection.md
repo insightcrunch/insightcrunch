@@ -5,7 +5,7 @@ date: 2010-10-30
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Thank you all for reading my blog and providing so much feedback. Just to share with you all, the number of visitors to this blog now is about 10,000 daily from all across India and even from other ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -16,5 +16,5 @@ With the increased number of joinees over the next few months, the joining of th
 
 The fact however remains that the scenario will continue to be good as long as a fair percentage of the total workforce continues to be utilized and is not at bench.
 
-![TCS Predictions modified to near perfection](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Predictions modified to near perfection](/assets/images/blog/blog-05.webp)
 TCS Predictions modified to near perfection

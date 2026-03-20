@@ -5,7 +5,7 @@ date: 2022-09-06
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Chairman and CEO Martin Schroeter with his impressive profile has an important job in his hands. Leading one of the largest IT infrastructure service provider organizations in the world to reach new ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ last_updated: 2026-03-15
 
 Chairman and CEO Martin Schroeter with his impressive profile has an important job in his hands. Leading one of the largest IT infrastructure service provider organizations in the world to reach new heights. Kyndryl stock price is an element of interest with their operations expanding in over 63 countries on 6 continents. Kyndryl has a staggering 4,000+ customers globally, and out of that over 75% are Fortune 100 clients. The company with its industry-leading expertise and capabilities demonstrates all the capabilities for a promising future. Kyndryl also has a solid financial footing to constantly improvise, introspect, and execute their latest strategies. Kyndryl has skilled practice in Cloud domain, Security and Resiliency, Network and Edge, Application Data and Artificial Intelligence, Digital Workplace, and Core Enterprise and Cloud. Several mission-crtiical systems around the world are supported by Kyndryl today.
 
-![Kyndryl Stock Price](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Kyndryl Stock Price](/assets/images/blog/blog-02.webp)
 Kyndryl Stock Price
 
 ## Kyndryl Stock Price

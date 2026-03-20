@@ -5,14 +5,14 @@ date: 2016-10-04
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this Master Data Management tool for it to ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this Master Data Management tool for it to integrate and connect with other systems.
 
-![Oracle DRM API Adapter URL not responding](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle DRM API Adapter URL not responding](/assets/images/blog/blog-09.webp)
 Oracle DRM API Adapter URL not responding
 
 The first step is to make sure this Adapter is configured fine in the DRM Configuration Console. After opening the console, navigate to the "Host Machines" tab and then to "API Adapter Hosts".  The default port number 5240 is usually fine. However the host name localhost is not suitable often, I prefer it replacing it with something more meaningful, like maybe the server name. Then after restarting the DRM services, the api-adapter-service should show up fine under the running processes tab.

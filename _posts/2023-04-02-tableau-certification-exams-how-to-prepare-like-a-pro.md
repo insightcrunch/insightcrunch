@@ -5,7 +5,7 @@ date: 2023-04-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "In the realm of data visualization and analytics, Tableau stands as a titan, and gaining Tableau certification signifies your proficiency in harnessing its capabilities. Just as Hemingway's prose is ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Read more: [The Ultimate Guide to Tableau Certification: Everything You Need to 
 
 Tableau certification validates your command over data visualization, dashboard creation, and analysis. It serves as a tangible testament to your expertise and opens doors to new opportunities in the realm of data analytics.
 
-![Tableau Certification Exams: How to Prepare Like a Pro](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certification Exams: How to Prepare Like a Pro](/assets/images/blog/blog-04.webp)
 Tableau Certification Exams: How to Prepare Like a Pro
 
 ## Crafting Your Strategy: Techniques to Prepare Like a Pro

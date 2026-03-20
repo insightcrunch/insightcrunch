@@ -5,7 +5,7 @@ date: 2025-01-29
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-tamil-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT பேப்பர் 2-ல் 33% எப்படி தாண்டுவது? புரிதல், தர்க்கம், கணிதம் - முழு உத்தியும் பயிற்சி வழிகாட்டியும்."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

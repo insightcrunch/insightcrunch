@@ -5,7 +5,7 @@ date: 2022-11-28
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the top technology companies in the world that employs thousands of people globally. Candidates who were freshers also can get jobs at Amazon if they plan strategically and build up ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -26,7 +26,7 @@ Keep reading: [Meta Layoffs and Hiring Freeze »](https://insightcrunch.com/2022
 
 Amazon Web Services is comparatively easier to learn if candidates are already coming from a technical background. Some key things to learn about Amazon Web Services when choosing it for a career is that there is no need for you to learn any programming language. If you're going to learn Amazon Web Services, there is no need to brush up your skills on coding and learn a new language for programming. It is very easy to learn and start to implement Amazon Web Service components in real time because it does not involve the learning curve usually associated with a programming language. One of the most attractive features of having the knowledge of Amazon Web Services is that there are a variety of jobs that are available right now based on AWS. 
 
-![How do freshers get jobs at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How do freshers get jobs at Amazon](/assets/images/blog/blog-07.webp)
 How do freshers get jobs at Amazon
 
 ## Amazon Freshers Opportunities

@@ -5,7 +5,7 @@ date: 2013-10-09
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "When you are applying for the United States visa renewal and you meet all the eligibility and criteria that are defined, you can get it stamped in your passport without attending the visa interview ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -32,7 +32,7 @@ Login 1 or 2 mins before the pattern time, complete the captcha but do not hit s
 
 To be eligible for the visa Dropbox stamping, the candidate should already have H1B visa stamping done and have an existing US visa in the passport of type H1B. This is because the interview waiver or the DropBox option as we call it is only possible for the renewal of an existing H1B visa. The H1B visa should be stamped in the passport after January 1 2008. The H1B visa stamp in the passport should not have annotations like ‘clearance received’ or like ‘department authorization’. The H1B visa stamping in the passport should have been issued after the 14th birthday of the candidate. The H1B visa stamp in the passport should not be lost, stolen or canceled. There should not be any US visa refusals in any of the other visa classes since the candidate’s most recent H1B visa issuance. The H1B visa should be valid and should have expired within the last 12 months. However, there are some exceptions to the 12 months rule where the United States Department of State has waived in person appointments for the H1B holders if they meet the requirements of having a valid United States visa issued in any of the categories in the past and they are applying from the country of residence. There was also a requirement in the past when the applicants earlier visa stamping of H1B should be from the same country. However, the same country requirement was removed and because some consulates earlier were not fully operational. It is important to note that if you are over 18 years of age and applying for an H1B visa renewal, then you need to only meet one of the criterias from the eligibility requirements, which is that your most recent United States visa application should not have been refused.
 
-![H1B Visa DropBox Slot Availability Pattern and Times](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![H1B Visa DropBox Slot Availability Pattern and Times](/assets/images/blog/blog-10.webp)
 H1B Visa DropBox Slot Availability Pattern and Times
 
 ## Dropbox Option for certain First Time H1B Visa Applicants

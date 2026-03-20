@@ -6,14 +6,14 @@ date: 2026-01-13
 categories: ["Industry"]
 tags: ["高考", "高考化学", "化学备考", "有机化学", "无机化学", "化学实验", "Gaokao", "Chemistry", "Science Preparation", "Study Guide"]
 excerpt: "最全面的高考化学备考指南，系统覆盖有机化学、无机化学、化学平衡、电化学与实验化学全考纲，深度解析各题型命题规律与得分策略。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 高考化学是理科方向考生面临的重要选考科目，在3+1+2模式下与物理、生物、地理、政治并列为可选科目之一。化学满分100分，知识体系庞大，涵盖无机化学、有机化学、物质结构、化学平衡、电化学和实验化学等多个维度，需要记忆与理解并重，是选考科目中综合度较高的一门。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
 *高考化学备考完全指南：从元素化合物到有机合成，从化学平衡到实验设计，全面掌握化学高考的核心知识与得分策略*
 
 本文将系统覆盖高考化学的完整知识体系，从无机化学的元素化合物到有机化学的官能团反应，从化学平衡的计算到电化学的原理应用，从实验题的规范答题到工业流程题的解题框架，逐一深入解析每个模块的命题规律和备考重点。无论当前化学水平如何，这篇指南都将为备考提供最全面、最实用的参考框架。

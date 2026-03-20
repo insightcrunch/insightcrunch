@@ -6,14 +6,14 @@ date: 2025-06-25
 categories: ["Technology"]
 tags: ["runway ml", "ai video", "video generation", "runway tutorial", "ai editing"]
 excerpt: "Master Runway ML for AI video - Gen-2, motion brush, inpainting, and production workflows."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 61
 author: "Insight Crunch Team"
 ---
 
 Runway ML has established itself as the professional-grade AI video platform of choice for filmmakers, creative directors, and video producers who need AI-powered video generation and editing tools that meet production standards. While consumer-facing AI video tools generate novelty clips for social media, Runway has built tools that integrate into actual production pipelines - used by Oscar-winning VFX artists, major advertising agencies, music video directors, and independent filmmakers producing theatrical releases. The platform's suite includes text-to-video and image-to-video generation (Gen-2 and Gen-3 Alpha), a comprehensive AI video editing toolset with capabilities like inpainting, outpainting, motion estimation, and background removal, and a growing set of creative AI tools that extend what is possible in video production. Understanding Runway means understanding a platform designed for serious creative work, with the depth and quality requirements that come with professional use. This guide covers the complete Runway feature set with the specific workflows that video professionals have developed for production-grade results.
 
-![How to Use Runway ML for AI Video Generation and Editing - Insight Crunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How to Use Runway ML for AI Video Generation and Editing - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This guide covers Runway's full platform: account setup and plans, the Gen-3 Alpha and Gen-2 video generation models and how to get the best results from each, the complete AI editing toolkit (inpainting, outpainting, motion brush, background removal, and others), integration with professional video workflows, specific use cases for film, advertising, music video, and content creation, and comparison with competing AI video tools.
 

@@ -5,7 +5,7 @@ date: 2009-02-01
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Last few days has really been grim. Bottom-line being caught in a tangle between showing moral support for our juniors along with our other 4th year friends, and our fear of getting our image, marks ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -37,5 +37,5 @@ Withdraw support from the protests immediately
  Support as long as we dnt hv a favourable decision  
  5 (20%)
 
-![Path to a Brighter Future](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Path to a Brighter Future](/assets/images/blog/blog-09.webp)
 Path to a Brighter Future

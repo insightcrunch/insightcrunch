@@ -6,14 +6,14 @@ date: 2021-06-11
 categories: ["Industry"]
 tags: ["Infosys WFH Policy", "Infosys Work From Home", "Infosys Remote Work", "Infosys Hybrid Work", "Infosys Return to Office", "Infosys WFH Rules", "Infosys Office Attendance", "Infosys Work Policy"]
 excerpt: "Complete guide to Infosys's work from home and hybrid work policy: the official rules, the client override reality, how attendance is tracked, what employees actually experience, and how to navigate WFH arrangements at every career stage."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-20
 ---
-
 The Infosys work from home policy is one of the most searched and least accurately documented topics about the company. Employees who joined during the pandemic era work alongside colleagues who joined post-pandemic, and the two groups often have fundamentally different assumptions about what the work arrangement is and should be. Freshers joining from campus expect the office-centric experience their placement team described. Experienced lateral hires who negotiated remote work in their offer letter find the practical implementation differs from what was agreed. Managers navigate client requirements that override whatever the official HR policy says.
 
-![Infosys WFH and Remote Policy Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Infosys WFH and Remote Policy Complete Guide](/assets/images/blog/blog-02.webp)
 
 This guide cuts through the confusion with an honest, specific account of how work arrangements actually function at Infosys. It covers the official policy framework, the client override reality that shapes most employees' actual experience, how attendance is tracked and what the consequences of non-compliance are, how WFH arrangements differ by designation level and business unit, how to negotiate remote work in offer letters and during employment, what the tools and infrastructure for remote work look like, and the genuine career implications of different work arrangements. This is not a polished corporate narrative; it is a practical guide for employees who need to make real decisions about their work arrangement.
 

@@ -6,14 +6,14 @@ date: 2024-04-08
 categories: ["Industry"]
 tags: ["TCS aptitude", "TCS quantitative aptitude", "TCS numerical ability", "TCS aptitude questions", "TCS quants"]
 excerpt: "Master every TCS aptitude topic with concept refreshers, speed techniques, trap identification, and original practice problems."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 ---
 
 The TCS aptitude section does not test mathematical genius - it tests mathematical fluency under time pressure. A candidate who understands the difference between those two things will prepare differently from one who does not. Fluency means pattern recognition is fast, formula recall is automatic, and the decision to skip versus solve is made in under five seconds. Genius is irrelevant when every question has a sixty-second window. This guide builds fluency across every topic that appears in TCS's quantitative sections - Foundation and Advanced - through concept refreshers, speed techniques, trap identification, and original practice problems with full solutions.
 
-![TCS Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Guide](/assets/images/blog/blog-04.webp)
 
 The guide is organised by topic, from the highest-frequency to the lowest, with a difficulty and ROI rating for each. Read it strategically: master the high-ROI topics first, build speed through the practice problems, and use the Advanced section coverage to target Digital routing if that is your goal. At the end, the [TCS NQT Preparation Guide on ReportMedic](https://reportmedic.org/tools/tcs-nqt-preparation-guide.html) provides a practice platform where you can test your speed across all these topics in a timed, NQT-calibrated environment.
 

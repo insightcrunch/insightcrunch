@@ -5,7 +5,7 @@ date: 2016-12-16
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Extensive TCS ILP Hyderabad experience: a long-form account covering the full training period at the Hyderabad center with daily details and honest..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

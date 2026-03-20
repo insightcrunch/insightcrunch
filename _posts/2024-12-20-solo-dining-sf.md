@@ -5,7 +5,7 @@ date: 2024-12-20
 categories: ["Leisure"]
 tags: ["solo-dining", "san-francisco", "restaurants", "sf-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "mission-district", "chinatown", "ferry-building"]
 excerpt: "Best restaurants for solo dining in San Francisco: Swan Oyster Depot counter, Mission taquerias, North Beach bars, and Chinatown spots for eating alone."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

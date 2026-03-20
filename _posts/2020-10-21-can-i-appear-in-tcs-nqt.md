@@ -6,14 +6,14 @@ date: 2020-10-21
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Eligibility", "Who Can Apply"]
 excerpt: "Check if you're eligible for TCS NQT - academic criteria, branch restrictions, age limits, and who can apply."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Before investing months of preparation in the TCS NQT, the first question to answer is whether you are eligible to take it. TCS's eligibility criteria are specific, and meeting them is not guaranteed simply by being an engineering graduate. This guide walks through every eligibility dimension so you know exactly where you stand before you begin.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-11.webp)
 *The complete TCS NQT eligibility guide - academic performance requirements (10th, 12th, graduation percentages), eligible degree programs and branches, the backlog and arrear rules, education gap restrictions, course type requirements (full-time vs. correspondence), work experience limits, age criteria, how eligibility is verified, what to do if you are at the boundary of any criterion, and the eligibility differences between campus NQT and open drive NQT*
 
 This guide is not about TCS's published eligibility criteria in bullet-point form. It is a comprehensive analysis of each criterion, what it means in practice, the boundary cases that create confusion, and exactly what documentation you need.

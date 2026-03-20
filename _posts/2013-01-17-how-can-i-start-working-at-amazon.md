@@ -5,7 +5,7 @@ date: 2013-01-17
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the major players in a variety of technology and industrial fields today. It is important for aspiring candidates who want to be part of Amazon that they explore all the links that ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Amazon has a wide variety of leadership principles that it focuses on and expect
 
 Read more: [What is Amazon acceptance rate? »](https://insightcrunch.com/2013/03/14/what-is-amazon-acceptance-rate/)
 
-![How can I start working at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How can I start working at Amazon](/assets/images/blog/blog-10.webp)
 How can I start working at Amazon
 
 ## Amazon Interview Tips
@@ -33,7 +33,7 @@ Keep a copy of your resume handy in case you need to refer it or the interviewer
 
 Bring with yourself a government issued photo ID proof for the interview with Amazon. The dress code for the Amazon interview is comfortable and casual. So you can skip the fully formal business attire. The interviewers will have copies of your profile along with your resume and CV. However, you should bring copies of your resume with yourself as well in case it is asked for or required. Since there are a variety of positions which can be applied at Amazon, you can expect different interview panels for each interview role. You can expect panels of interviews that consist of multiple members from diverse backgrounds for each of the in-person interviews. Many of the in-person interviews may be conducted remotely or virtually, which might also include panels of several interview members from different backgrounds. 
 
-![How can I start working at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How can I start working at Amazon](/assets/images/blog/blog-10.webp)
 How can I start working at Amazon
 
 ## Amazon Interview Rounds

@@ -5,7 +5,7 @@ date: 2023-07-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "In the vein of Hemingway's protagonists who often find themselves at crossroads, the journey towards Tableau mastery presents a similar choice: pursuing official certification or embarking on a ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ In the vein of Hemingway's protagonists who often find themselves at crossroads,
 
 Read more: [The Road to Tableau Certification: Setting Goals and Achieving Them »](https://insightcrunch.com/2023/06/16/the-road-to-tableau-certification-setting-goals-and-achieving-them/)
 
-![Tableau Certification vs. Self-Learning: Pros and Cons](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certification vs. Self-Learning: Pros and Cons](/assets/images/blog/blog-03.webp)
 Tableau Certification vs. Self-Learning: Pros and Cons
 
 ## **Tableau Certification: The Defined Path**

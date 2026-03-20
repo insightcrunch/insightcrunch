@@ -5,7 +5,7 @@ date: 2016-09-23
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Oracle DRM to EBS integration is one of the most widely used programs to maintain and refresh master data easily. The EBS concurrent program pulls the data from DRM and **refreshes the existing ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -20,7 +20,7 @@ The Oracle DRM to EBS integration is one of the most widely used programs to mai
 
 - CHILD_FLEX_VALUE_HIGH
 
-![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/blog/blog-02.webp)
 Oracle DRM EBS Integration Fnd Flex Loader Value Updates
 
 **Once the integration is completed**, the values are expected to be showing up fine in EBS, more specifically in FND_FLEX_VALUES and FND_FLEX_VALUE_NORM_HIERARCHY. Any new values, hierarchy changes, description changes can be verified using these and few other FND tables under APPS or APPLSYS schemas.
@@ -31,7 +31,7 @@ Understanding how the **data flows** from DRM to EBS is useful and helps troub
 
 The below **diagram** will explain schematically how the data flows, focussed mainly on the hierarchy tables in EBS. The interface tables which are truncated and loaded are GL_DRM_SEGVALUES_INTERFACE and GL_DRM_HIERARCHY_INTERFACE in the GL schema. The FND tables in APPS or APPLSYS schemas are refreshed after that.
 
-![Oracle DRM EBS Integration Data Flow](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle DRM EBS Integration Data Flow](/assets/images/blog/blog-02.webp)
 Oracle DRM EBS Integration Data Flow
 
 ## DRM Integration User Guide

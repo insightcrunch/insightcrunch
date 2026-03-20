@@ -6,14 +6,14 @@ date: 2026-03-10
 categories: ["Industry"]
 tags: ["高考", "高考模式", "3+1+2", "3+3", "高考题型", "高考结构", "Gaokao", "Exam Pattern", "3+1+2 Model", "China Education"]
 excerpt: "最全面的高考考试模式解析，深度覆盖3+1+2与3+3选科模式、各科题型与分值分布、时间安排、各省差异，帮助考生和家长彻底读懂高考的考试结构。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 高考的考试结构，是每一位备考学生和家长在制定备考策略之前必须彻底搞清楚的基础性问题。然而现实中，相当多的考生在高三复习了整整一年，却对"自己究竟在考什么、怎么考、分值怎么分配"这些基本问题的认识仍然停留在模糊层面。这种模糊，往往是备考效率低下、考场发挥失常的根本原因之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-02.webp)
 *高考考试模式与结构深度解析：3+1+2模式、3+3模式、各科题型分值与全国各省差异全面指南*
 
 本文将系统、深入地拆解高考的完整考试结构，从宏观的选科模式框架，到微观的每科题型分值与时间分配；从全国统考科目的统一规则，到各省在选考科目上的政策差异；从现行的新高考模式，到历史上曾经存在的旧模式。无论你正在就读哪个省份、属于哪种学生类型，这篇文章都能帮助你对高考的考试框架建立清晰、准确、系统的认知。

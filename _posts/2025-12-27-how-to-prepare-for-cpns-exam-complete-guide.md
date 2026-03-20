@@ -5,7 +5,7 @@ date: 2025-12-27
 categories: ['Analytics']
 tags: ['CPNS', 'ASN', 'Seleksi PNS', 'Tes CPNS']
 excerpt: 'Panduan strategis, autoritatif, dan sangat praktis untuk mempersiapkan seleksi CPNS — mencakup arsitektur ujian SKD dan SKB, strategi per subtema TWK/TIU/TKP, passing grade, manajemen waktu, persiapan SKB, dan psikologi menghadapi seleksi dengan jutaan pesaing.'
-image: '/assets/images/technology-industry-analysis-insightcrunch.webp'
+image: '/assets/images/blog/blog-15.webp'
 reading_time: 35
 author: 'Insight Crunch Team'
 ---
@@ -20,7 +20,7 @@ Kebenaran fundamental tentang CPNS adalah ini: seleksi ini bukan terutama ujian 
 
 Panduan ini ditujukan untuk semua kategori peserta CPNS: lulusan baru yang pertama kali mengikuti seleksi, peserta yang sudah beberapa kali gagal dan ingin mengubah pendekatan, profesional yang ingin beralih ke sektor pemerintah, serta peserta dari daerah yang persaingannya relatif lebih rendah maupun yang mendaftar di formasi-formasi paling kompetitif di kementerian pusat. Kita akan membahas arsitektur seleksi secara menyeluruh, strategi per komponen SKD (Seleksi Kompetensi Dasar), persiapan SKB (Seleksi Kompetensi Bidang), pemilihan formasi yang cerdas, manajemen waktu ujian, dan kerangka mental untuk menghadapi proses yang bisa sangat menekan secara psikologis. Prinsip panduan ini sederhana: CPNS adalah seleksi yang bisa disiapkan secara sistematis untuk meningkatkan peluang kelulusan secara signifikan — tetapi hanya jika persiapan Anda selaras dengan apa yang sebenarnya dituntut oleh sistem seleksi ini.
 
-![Panduan Definitif Lolos CPNS](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Panduan Definitif Lolos CPNS](/assets/images/blog/blog-15.webp)
 Panduan Definitif Lolos CPNS: Strategi Sistematis dari Persiapan hingga Pengangkatan
 
 ## **2. Memahami Arsitektur Seleksi CPNS**

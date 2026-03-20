@@ -6,14 +6,14 @@ date: 2020-06-11
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Difficulty Level", "Exam Analysis"]
 excerpt: "Honest TCS NQT difficulty analysis - section-wise breakdown, preparation level needed, and tips to pass comfortably."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 "Is TCS NQT easy?" is one of the most searched questions by engineering students preparing for their first hiring assessment. The honest answer is: it depends entirely on your preparation level - and that honest answer is more useful than either reassurance ("it's easy, don't worry") or intimidation ("it's very hard, prepare for months").
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-12.webp)
 *The complete honest difficulty analysis of TCS NQT - what makes the exam easy for some candidates and genuinely hard for others, the section-by-section difficulty breakdown with specific question difficulty calibration, what preparation level each section requires, how the relative scoring system affects perceived difficulty, what the actual pass rate data suggests, and the preparation investment that makes the exam manageable for anyone who brings it*
 
 This guide gives you an accurate difficulty picture without either minimizing or exaggerating what the NQT requires.

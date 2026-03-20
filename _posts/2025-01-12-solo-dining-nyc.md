@@ -5,7 +5,7 @@ date: 2025-01-12
 categories: ["Leisure"]
 tags: ["solo-dining", "new-york-city", "restaurants", "nyc-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "fine-dining"]
 excerpt: "Best restaurants for solo dining in New York City: ramen counters, sushi bars, pizza slices, wine bars, and the best bar seats across all five boroughs."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

@@ -6,14 +6,14 @@ date: 2010-08-22
 categories: ["Industry"]
 tags: ["Mental Health", "IT Industry", "Employee Well-Being", "Work Pressure"]
 excerpt: "Comprehensive guide to mental health in IT - managing work pressure, accessing support systems, and well-being programs."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 The IT industry in India produces extraordinary careers - careers that lift families out of economic hardship, that create professional identities of genuine substance, and that connect talented people from every corner of the country to a global economy. It also produces, with some regularity, the kind of psychological pressure that can push people to breaking points. Both of these things are true, and the first does not cancel the second. This guide addresses the mental health dimensions of IT careers directly - the real pressures, the evidence-based ways of managing them, the support systems that exist and how to use them, and the conversations that the IT industry has historically been reluctant to have but that its workforce needs to have more of.
 
-![A quiet outdoor space at an IT campus where an employee sits on a bench, representing the importance of mental rest, reflection, and psychological safety in technology workplaces](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![A quiet outdoor space at an IT campus where an employee sits on a bench, representing the importance of mental rest, reflection, and psychological safety in technology workplaces](/assets/images/blog/blog-04.webp)
 *Mental health in the IT industry - understanding work pressure, building resilience, accessing support systems, and what well-being genuinely looks like in a technology career*
 
 If you are reading this during a period of personal distress, please know that support is available right now. iCall (a free counselling service by TISS) can be reached at 9152987821. iCall provides confidential, evidence-based counselling to anyone who needs it. You do not need to be in crisis to call - you need only to be struggling, and struggling is enough.

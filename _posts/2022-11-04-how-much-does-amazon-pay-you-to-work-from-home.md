@@ -5,7 +5,7 @@ date: 2022-11-04
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon employs thousands of workers across its warehouses and corporate offices across the globe. The job that Amazon provides start from hourly and span across part time to full time jobs. The ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -24,7 +24,7 @@ Amazon initially wanted and explained that they do not want people working with 
 
 Hence, the automated technologies that Amazon uses to track its employees works fine to a great extent and does not contribute to substantial work stress in majority of the scenarios. Amazon pays its employees considerably well, even for employees who are working from home. One of the most important aspects which Amazon uses to make sure that the quality of its candidates are fairly high is the bar raiser round. The task of the bar raiser is to maintain good quality of candidates during all the hiring interviews at Amazon. The bar raiser round has a specific task that is included in their particular training program. The bar raiser round helps ensure that the candidate which is being hired is better than 50% of the existing candidates in Amazon. 
 
-![How much does Amazon pay you to work from home](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How much does Amazon pay you to work from home](/assets/images/blog/blog-08.webp)
 How much does Amazon pay you to work from home
 
 ## Amazon Bar Raiser Round Tips

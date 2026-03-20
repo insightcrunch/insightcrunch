@@ -5,12 +5,12 @@ date: 2021-02-12
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-02.webp)
 
 Curiosity to derive a metric however simple or complex it may be, requires clear objective and precision right from the initial stages. Adding to it the modern examples of flashy dashboards and infinite interactivity, and we have all the ingredients of a recipe that can go extreme either way. All that dazzles and sparkles need not help visualize data in the best possible way.
 
@@ -24,4 +24,4 @@ Keep reading: [Coinbase and the Blockchain Revolution »](https://insightcrunch.
 
 Some of the most decisive areas of study are often on where we are headed, contrary to the usual focus of comparisons and forecasting magnitudes of change. Where we can specify and identify values of combinations that we can focus on for further investigation. The elusive areas of interest get tougher to detect amidst the noise, and that is when modern concepts of data processing help us step up the game.
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-02.webp)

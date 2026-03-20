@@ -6,14 +6,14 @@ date: 2026-03-02
 categories: ["Industry"]
 tags: ["高考", "高考评分", "高考分数", "等级赋分", "750分", "高考成绩", "Gaokao", "Scoring", "Marks Distribution", "China Education"]
 excerpt: "最全面的高考评分体系解析，深度覆盖750分总分构成、统考科目原始分规则、选考科目等级赋分机制、各省差异、分数段含义及一分一段表的正确使用方法。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 高考的分数，是每一位考生在两天考试结束后最迫切想要知道的答案，也是家长、老师、乃至整个家庭在这场年度大考中最核心的关注焦点。然而，高考的评分体系远比"考多少分"这个表面问题复杂得多。为什么同样考了600分，在河南意味着本科录取已属中等，而在北京或许可以冲击顶尖高校？为什么选考科目的原始分高，但赋分后的得分却不理想？为什么"一分之差"有时能导致全省位次相差数百人？这些疑问，都指向同一个核心：对高考评分体系的深刻理解。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
 *高考评分体系完全解析：750分总分构成、等级赋分计算原理、各省评分差异与分数段实际含义深度指南*
 
 本文将从最基础的总分构成开始，逐层深入解析高考评分的完整机制，包括统考科目的原始分规则、选考科目的等级赋分计算方法、各省评分差异的来源、一分一段表的正确读法、以及不同分数段在实际录取中的真实含义。无论你是正在备考的考生、辅助孩子填报志愿的家长，还是刚刚开始了解高考体系的学者或研究者，这篇文章都将成为你理解高考分数最全面的参考资料。

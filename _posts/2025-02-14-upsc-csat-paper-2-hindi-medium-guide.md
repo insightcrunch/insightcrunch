@@ -5,7 +5,7 @@ date: 2025-02-14
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-hindi-medium", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT पेपर 2 में हिंदी माध्यम से 33% कैसे पार करें? बोधगम्यता, तर्कशक्ति, गणित की पूरी रणनीति और अभ्यास गाइड।"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

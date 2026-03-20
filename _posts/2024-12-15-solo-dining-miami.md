@@ -5,7 +5,7 @@ date: 2024-12-15
 categories: ["Leisure"]
 tags: ["solo-dining", "miami", "restaurants", "miami-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "cuban-food", "south-beach", "wynwood", "brickell"]
 excerpt: "Best restaurants for solo dining in Miami: South Beach omakase, Little Havana ventanitas, Wynwood counters, and oceanfront bar seats for eating alone."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

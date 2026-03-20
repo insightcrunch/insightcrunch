@@ -5,7 +5,7 @@ date: 2025-07-13
 categories: ["Technology"]
 tags: ["出国留学", "雅思备考", "托福备考", "美国留学", "英国留学", "加拿大留学", "澳洲留学"]
 excerpt: "本文深度解析美国、英国、加拿大、澳大利亚四大热门留学目的地的申请流程、费用对比、签证要求及雅思托福备考策略，帮助你从零开始规划出国留学之路，少走弯路，高效拿到心仪学校录取通知书。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 38
 author: "Insight Crunch Team"
 ---
@@ -36,7 +36,7 @@ author: "Insight Crunch Team"
 
 我见过太多学生因为信息不对称而走弯路：有人花了三万元中介费，最终拿到的结果自己完全可以做到；有人雅思考了四次才达到目标分数，其实一开始备考方向就错了；还有人拿到了录取通知书，却因为签证材料准备不足而错失入学机会。
 
-![出国留学完全攻略：美国、英国、加拿大、澳洲申请流程、费用对比与雅思托福备考指南](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![出国留学完全攻略：美国、英国、加拿大、澳洲申请流程、费用对比与雅思托福备考指南](/assets/images/blog/blog-11.webp)
 出国留学完全攻略：美国、英国、加拿大、澳洲申请流程、费用对比与雅思托福备考指南
 
 这篇文章，我会把美国、英国、加拿大、澳大利亚四大热门留学目的地的申请逻辑彻底讲清楚，覆盖申请流程、费用对比、文书准备、语言考试备考策略、签证申请，以及留学前的生活准备，全部基于真实可操作的信息。

@@ -5,7 +5,7 @@ date: 2025-06-14
 categories: ["Industry"]
 tags: ["SIP investment", "mutual fund for beginners", "income tax saving", "PPF vs NPS", "how to invest", "side income India", "personal finance India", "stock market beginners", "tax saving India", "financial planning"]
 excerpt: "A complete personal finance guide for Indian salaried professionals and young earners: SIP and mutual fund basics, PPF vs NPS comparison, stock market entry, every major income tax saving instrument explained, and practical side income ideas to build wealth from scratch."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 ---
@@ -37,7 +37,7 @@ India produces millions of engineers, doctors, chartered accountants, and MBA gr
 
 The consequences are not abstract. An engineer earning Rs 15 lakh a year who invests nothing beyond a savings account will accumulate, after 25 years, a fraction of the wealth of a peer who invested Rs 10,000 per month in a diversified portfolio throughout the same period. The mathematics of compounding is powerful and merciless in both directions: it multiplies wealth for those who invest early and consistently, and it compounds inflation-driven wealth erosion for those who do not.
 
-![Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving & Side Income Ideas Explained from Scratch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving & Side Income Ideas Explained from Scratch](/assets/images/blog/blog-06.webp)
 Personal Finance Guide for Indians — SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving and Side Income Ideas Explained from Scratch
 
 The good news is that personal finance in India is more accessible today than at any point in the country's history. You can open a mutual fund account in 15 minutes. You can invest in the Nifty 50 with Rs 500 per month. You can buy Sovereign Gold Bonds from your bank's app. You can file your income tax return yourself for free on the government portal. The tools and the regulatory infrastructure are excellent. What most Indians lack is the knowledge framework to use them effectively.

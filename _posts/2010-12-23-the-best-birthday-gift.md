@@ -5,7 +5,7 @@ date: 2010-12-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -62,5 +62,5 @@ After a week I started for Bhubaneshwar - Kalinga Park.
 
 Between I changed my Orkut tag:"GOT MY BIRTHDAY GIFT, A HAPPY FAMILY".
 
-![TCS Joining The Best Birthday Gift](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Joining The Best Birthday Gift](/assets/images/blog/blog-12.webp)
 The Best Birthday Gift

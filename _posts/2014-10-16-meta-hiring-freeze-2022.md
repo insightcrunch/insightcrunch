@@ -5,7 +5,7 @@ date: 2014-10-16
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is the parent company of Facebook and Instagram. CEO Mark Zuckerberg has said that it will freeze hiring and restructure all the teams within the organization in order to optimize its finances ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 8
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -22,7 +22,7 @@ Read more: [Meta Layoffs 2022 »](https://insightcrunch.com/2014/11/14/meta-layo
 
 The senior management at Meta also highlighted that there are many employees within the organization who should not be there at all. Meta is creating a strategy to identify low performing workers by creating more aggressive goals. The expectations from employees have been dramatically increased so that all the employees are forced to work hard. The Meta senior management pointed out that if any employee feels that this is too much work pressure, then they are free to move to other opportunities. Meta has decided to reduce its overall headcount in the coming years. There has been a lot of intake for different roles within the organization. Due to this the headcount of Meta has steadily increased over the last few years. However, due to the slowing demand, and the overall weak global economy, there is a slowdown in hiring currently. The slowdown in Meta's revenue growth is also due to the privacy changes that has been brought by Apple in the iOS operating system.
 
-![Meta Hiring Freeze and Layoffs](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Meta Hiring Freeze and Layoffs](/assets/images/blog/blog-09.webp)
 Meta Hiring Freeze and Layoffs
 
 ## Meta Revenue Decline

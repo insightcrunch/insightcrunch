@@ -5,7 +5,7 @@ date: 2012-10-12
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today and it employs thousands of employees all over the globe. The process to get hired at Amazon is extensive and exhaustive. Amazon maintains ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -24,7 +24,7 @@ Amazon clarifies that they often work with temporary employment agencies like co
 
 It is important to note that Amazon takes their customers security very seriously. Hence, they need to ensure that their customers and the candidate sensitive information are protected. Amazon keeps these information about their candidates who are applying for a job and the customer who are purchasing goods from amazon.com completely kept separate. With such level of compartmentalization of sensitive data, Amazon can ensure they're providing the highest level of security to its customers and aspiring candidates. Hence, candidates and customers are encouraged to keep a separate profile to apply for the jobs at Amazon. 
 
-![Is it hard to get hired on at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Is it hard to get hired on at Amazon](/assets/images/blog/blog-08.webp)
 Is it hard to get hired on at Amazon
 
 ## Amazon Work Permit

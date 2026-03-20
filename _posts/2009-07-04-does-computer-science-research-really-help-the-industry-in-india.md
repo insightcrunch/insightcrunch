@@ -5,7 +5,7 @@ date: 2009-07-04
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "*This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 6
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -44,7 +44,7 @@ Well my friend I had a unique experience a few days when I met one of the my tea
 
 - Mobile Computing & UMTS Networks.
 
-![Computer Science Research in India](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Computer Science Research in India](/assets/images/blog/blog-10.webp)
 Computer Science Research in India
 
 I am not going to the details of these topics but any of you interested in these must check out what these are in order to realize that how some of our opinions about computer science research is horribly wrong. India is fast becoming service only country with little or no effort into research. This is a very harmful trend as this will one day help to abate our values as development partners. We are known as terrific service providers but when do you learn to create something new. It is very important to us now since it is time we start something new on our own and there is always a chance of failure no matter how cautiously we proceed.

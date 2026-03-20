@@ -5,7 +5,7 @@ date: 2025-06-05
 categories: ["Industry"]
 tags: ["software engineer salary India", "highest paying companies", "CTC comparison", "fresher salary", "product-based company salary", "IT salary India", "FAANG salary India", "software developer salary", "tech salary negotiation", "CTC breakdown India"]
 excerpt: "The most complete breakdown of software engineer salaries in India: fresher to senior levels, product-based vs service-based company comparison, CTC component analysis, city-wise take-home differences, negotiation tactics, and the highest-paying tech companies hiring in India."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 ---
@@ -37,7 +37,7 @@ The single most important concept every Indian software engineer must understand
 
 The gap between CTC and take-home is almost universally larger than freshers and early-career engineers expect. A software engineer offered a CTC of Rs 12 lakh per annum may receive a monthly in-hand salary of Rs 75,000-85,000, not Rs 1,00,000 (which a naive division of 12 by 12 would suggest). Understanding why this gap exists - and how different companies structure their packages to make the CTC number look larger - is the foundation of evaluating and negotiating any job offer.
 
-![Software Engineer Salary in India Complete Breakdown: Freshers to Senior, Company-Wise CTC Comparison, Negotiation Tips & Highest Paying Product-Based Companies](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Software Engineer Salary in India Complete Breakdown: Freshers to Senior, Company-Wise CTC Comparison, Negotiation Tips & Highest Paying Product-Based Companies](/assets/images/blog/blog-09.webp)
 Software Engineer Salary in India — Freshers to Senior, Company-Wise CTC Comparison, Negotiation Tips and Highest Paying Product-Based Companies
 
 ### What Goes Into CTC

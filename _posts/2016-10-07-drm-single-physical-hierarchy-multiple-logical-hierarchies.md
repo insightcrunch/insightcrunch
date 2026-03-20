@@ -5,7 +5,7 @@ date: 2016-10-07
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Oracle Data Relationship Management application provides tremendous flexibility in terms of managing the master data for an organization. It has amazing customizing options and integrability with ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ The Oracle Data Relationship Management application provides tremendous flexibil
 
  Here I will explain how easily we can solve a complex business requirement using DRM. The requirement is to have **3 different hierarchies for 3 different downstream applications** in a txt file for the same segment, say Account. So each downstream application will receive a different Account hierarchy from DRM - i.e. the parent child relationships will be different for the 3 applications.
 
-![DRM Single Physical Hierarchy Multiple Logical Hierarchies](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![DRM Single Physical Hierarchy Multiple Logical Hierarchies](/assets/images/blog/blog-12.webp)
 DRM Single Physical Hierarchy Multiple Logical Hierarchies
 
 No, I am not going to create 3 different DRM versions and use exports to generate the text files from each version. I will be using DRM properties and a few custom formulae to achieve my goal **using a single DRM version**. Let's say the version is called V1. I have 3 Defined properties named as FlagHier1, FlagHier2, FlagHier3 - as you can see by the names, these will be used for flagging purposes to identify which DRM nodes will belong to which Hierarchy.

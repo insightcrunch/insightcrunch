@@ -6,14 +6,14 @@ date: 2024-04-28
 categories: ["Industry"]
 tags: ["InfyTQ", "InfyTQ Preparation", "InfyTQ Exam Pattern", "Infosys InfyTQ", "InfyTQ Coding Questions", "InfyTQ Certification", "Infosys Hiring", "InfyTQ Guide"]
 excerpt: "InfyTQ exam preparation: registration steps, exam pattern, topic-wise strategy for programming and database sections, and how scores map to Infosys roles."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 InfyTQ is one of the most underestimated pathways into Infosys, and for candidates who discover it early and prepare for it systematically, it is also one of the most accessible. Unlike the campus placement route that depends on whether your college is an Infosys partner institution, or the off-campus portal that filters heavily by resume, InfyTQ is a merit-based platform where consistent effort on a defined curriculum directly translates into a measurable score, a certification, and - when both the certification and the assessment clear the threshold - a genuine interview invitation from Infosys.
 
-![InfyTQ Preparation Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![InfyTQ Preparation Guide](/assets/images/blog/blog-01.webp)
 
 This guide is written for candidates who want to understand InfyTQ from the inside out - not just the surface-level "what topics to study" advice that fills most preparation posts, but the actual structure of the certification courses, the precise mechanics of the exam, the coding question patterns that appear in the assessment, the scoring logic that determines who gets an Infosys opportunity, and the strategic preparation approach that gives you the highest probability of clearing every stage. Whether you are a second-year engineering student who has just discovered the platform or a final-year candidate working against a tighter timeline, this guide covers everything you need.
 

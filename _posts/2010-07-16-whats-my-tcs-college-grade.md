@@ -6,14 +6,14 @@ date: 2010-07-16
 categories: ["Industry"]
 tags: ["TCS", "College Grade", "Tier Classification", "Salary Structure"]
 excerpt: "How TCS grades and classifies colleges into tiers - impact on your salary package, role assignment, and career growth."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Among the hundreds of questions that engineering students ask about TCS campus placement, one of the most persistent and least clearly answered is this: does my college grade affect my TCS offer? The answer is nuanced enough to deserve a complete, honest guide. TCS does classify colleges into tiers for its campus recruitment. Those tiers do influence certain aspects of the hiring process - including which profile tiers are available, which batch a candidate joins, and historically, the sequence in which joining dates were issued. But the tiers do not work the way most students assume, and understanding what they actually mean versus what they are rumoured to mean makes a significant practical difference to how students approach their TCS application.
 
-![A visual representation of India's engineering college landscape showing diversity from premier institutions to regional colleges, all connected to the TCS recruitment network](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![A visual representation of India's engineering college landscape showing diversity from premier institutions to regional colleges, all connected to the TCS recruitment network](/assets/images/blog/blog-10.webp)
 *TCS college grading system explained - how institutional tiers affect campus recruitment, joining date sequencing, available profiles, and career trajectory*
 
 This guide explains the TCS college grading system in full: what it is, how it works, what it affects, and what it does not affect. It also addresses the questions that matter most to students who are concerned about their institution's tier: whether tier determines career outcomes at TCS, whether the off-campus route circumvents tier limitations, and what the evidence actually shows about how much institutional tier matters over a full career.

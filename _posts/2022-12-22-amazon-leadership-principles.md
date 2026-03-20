@@ -5,7 +5,7 @@ date: 2022-12-22
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today and there are a variety of principles that Amazon uses to nurture its employees. Amazon has a specific set of core values and leadership ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 13
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -22,7 +22,7 @@ These questions below and the practice exam will give you a complete idea of the
 
 The Amazon leadership principles are some of the core values that drive every decision making and every important aspect of Amazon's day to day activities. It is one of the things that makes Amazon special and Amazon prides itself in focusing on its leadership principles. The key leadership principles of Amazon which we learn in more detail is customer obsession. Ownership. Invent and simplify our right a lot. Learn and be curious, hire and develop the best insist on the highest standards. Think Big bias for action, frugality, or interest. dive deep. Have backbone, disagree and commit deliver results. Strive to be art's best employer success and scale bring broad responsibility. 
 
-![Amazon Leadership Principles](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Amazon Leadership Principles](/assets/images/blog/blog-12.webp)
 Amazon Leadership Principles
 
 ## Customer Obsession

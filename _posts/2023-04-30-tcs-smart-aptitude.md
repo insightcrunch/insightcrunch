@@ -6,14 +6,14 @@ date: 2023-04-30
 categories: ["Industry"]
 tags: ["TCS Smart aptitude", "TCS Smart Hiring quants", "TCS Smart reasoning", "TCS Smart verbal"]
 excerpt: "TCS Smart Hiring aptitude prep designed for science graduates. Section-wise strategies, formula sheets, and a 3-week action plan."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-17
 ---
 TCS Smart Hiring is the path into TCS for BCA, B.Sc CS, B.Sc IT, and select B.Sc science graduates who are not from a B.Tech programme. The test is labelled "simple to moderate" in difficulty, and that label is accurate - but it misleads candidates into underpreparing. The time constraints are tight. 26 numerical questions in 40 minutes means 92 seconds per question. 30 reasoning questions in 50 minutes means 100 seconds per question. 24 verbal questions in 30 minutes means 75 seconds per question. At this pace, a candidate who knows the concepts but lacks speed will run out of time on a "simple" test. This guide closes the gap between knowing and knowing quickly - with worked examples, formula sheets, speed techniques, and a three-week preparation plan calibrated specifically for B.Sc and BCA students.
 
-![TCS Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Guide](/assets/images/blog/blog-04.webp)
 
 ## Understanding the TCS Smart Hiring Test Format
 

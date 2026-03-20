@@ -5,7 +5,7 @@ date: 2025-01-06
 categories: ["Leisure"]
 tags: ["solo-dining", "los-angeles", "restaurants", "la-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "koreatown", "taco-stands"]
 excerpt: "Best restaurants for solo dining in Los Angeles: taco trucks, Little Tokyo ramen, Silver Lake wine bars, and counter seats across LA for eating alone."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

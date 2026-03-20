@@ -5,7 +5,7 @@ date: 2009-12-15
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Yahoo has struck upon an innovative campaign where users share their small acts of kindness in as little as 129 characters which gets mapped in a world map based on their privacy settings and then ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ Yahoo has struck upon an innovative campaign where users share their small acts 
 
 Read more: [Facebook to have new privacy controls »](https://insightcrunch.com/2009/12/20/facebook-to-have-new-privacy-controls/)
 
-![Kindess Projects](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Kindess Projects](/assets/images/blog/blog-12.webp)
 Kindess Projects
 
 The site till now has had only 206 updates from users. With lots of more holidays and Christmas coming soon it is sure to overflow with some real cool updates to look out for. It’’’ be interesting to see how Twitter and You In? counters each other if this campaign takes off in a massive way.

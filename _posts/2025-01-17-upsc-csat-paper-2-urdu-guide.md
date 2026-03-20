@@ -5,7 +5,7 @@ date: 2025-01-17
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-urdu-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT پیپر 2 میں 33% کیسے پار کریں؟ فہم، استدلال، ریاضی سیکشن وار حکمت عملی اور مشق گائیڈ۔"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

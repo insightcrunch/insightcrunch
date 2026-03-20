@@ -5,7 +5,7 @@ date: 2009-08-05
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "With what seems like the most useful tools for anyone looking to transfer or share files online, online file hosting and sharing is getting tremendous importance and exposure like[ ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -15,12 +15,12 @@ With what seems like the most useful tools for anyone looking to transfer or sha
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=0AoF7SzVHoWX1dGlNV216eVZIbzl5enB6U0c5d1g2RFE" width="500" height="1500" /]  
 
 With the reviews so far submitted, here is a brief summary. Click "Finish" on right bottom of this box below to see the results. (Needs Adobe Flash). To use this chart, select anyone in the top right side from 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-13.webp)
   . Dotted one will represent each service by dots and size of dots will represent how good it is. The bars chart represents the services by bars and heights of bars indicates the quality. For example, if you are using the bars chart, select an attribute from the extreme left side. Check the services on the right bottom you want to compare. Double click on the bars to check them. For each attribute on the left side do like this. Choose colors on top right to differentiate more easily. Enjoy!
 
 Read more: [Why Bing would be an eternal threat to Google »](https://insightcrunch.com/2009/08/06/why-bing-would-be-an-eternal-threat-to-google/)
 
 You can also use this. Just select “Define groupings and calculations” below and add “Service Provider” to “Group by” column. Click “Next”. Select “Average” for each of the features. Select “Ok”. Now you will be presented with the average score of each service as submitted by the readers. Click the “**-**“ sign beside each of the service providers if you don’t want to see the details.
 
-![Dropbox vs OneDrive vs Box](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Dropbox vs OneDrive vs Box](/assets/images/blog/blog-13.webp)
 Dropbox vs OneDrive vs Box

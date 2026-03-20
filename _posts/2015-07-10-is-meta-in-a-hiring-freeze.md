@@ -5,7 +5,7 @@ date: 2015-07-10
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is the parent company of Facebook. There has been changes in the hiring plans of Meta. The hiring target has been reduced by a staggering 30%. CEO Mark Zuckerberg has informed the Meta employees ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -24,7 +24,7 @@ The performance management system in Meta is aimed at identifying employees who 
 
 Keep reading: [Black Panther: Wakanda Forever »](https://insightcrunch.com/2022/09/25/black-panther-wakanda-forever/)
 
-![Meta Layoffs and Hiring Freeze](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-14.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta Revenue Trouble

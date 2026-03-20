@@ -6,14 +6,14 @@ date: 2011-02-19
 categories: ["Industry"]
 tags: ["TCS", "Batch Community", "Networking", "Peer Support"]
 excerpt: "How to connect with fellow TCS recruits - batch communities, networking groups, social media, and peer support tips."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 When the first TCS batch communities appeared on Orkut, nobody planned them. There was no HR directive, no official launch, no welcome email pointing freshers to a group page. A few anxious candidates who had received offer letters but had no idea when they would join, no idea where they would be trained, and no one obvious to ask - found each other on the internet, created a group, and started talking. Within weeks, thousands of people who had never met were sharing study materials, swapping information about joining dates, consoling each other through delays, and building something that would matter to them for years.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-12.webp)
 *The complete guide to TCS batch communities - how they work, how to find them, how to use them effectively, and how to build a professional network that supports your entire TCS career*
 
 That organic origin story is worth remembering because it explains something important about why TCS batch communities work. They are not official. They are not curated. They are not always accurate, well-moderated, or free from noise and misinformation. What they are is genuine - a real-time, peer-generated information network built by people who are navigating the same experience at the same time and helping each other through it because no one else is positioned to do so as effectively.

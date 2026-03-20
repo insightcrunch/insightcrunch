@@ -6,14 +6,14 @@ date: 2021-09-07
 categories: ["Industry"]
 tags: ["Infosys Aptitude Questions", "Infosys Aptitude Questions and Answers", "Infosys Online Test", "Infosys Quantitative Aptitude", "Infosys Logical Reasoning", "Infosys Verbal Ability", "Infosys Assessment", "Infosys Placement Papers"]
 excerpt: "600+ solved Infosys aptitude questions with detailed explanations across quantitative, logical reasoning, and verbal sections plus section-wise strategy."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 ---
 
 The Infosys online assessment is the primary filter between an application and an interview call, and the aptitude sections of this assessment eliminate the majority of candidates who sit for it. Not because the questions are impossibly hard, but because most candidates walk in without understanding how these sections are structured, what specific topics are tested, or how to manage time across questions of varying difficulty.
 
-![Infosys Aptitude Questions and Answers](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Infosys Aptitude Questions and Answers](/assets/images/blog/blog-08.webp)
 
 This guide is built differently from the question dumps that dominate search results. Instead of presenting questions without context, this guide gives you solved examples for every major topic, complete with step-by-step working, the exact mental shortcut that an experienced candidate would use, the common trap the question is designed to trigger, and the strategy for that question type under time pressure. Every section ends with a preparation approach specific to the Infosys assessment pattern.
 

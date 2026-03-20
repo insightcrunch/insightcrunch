@@ -5,7 +5,7 @@ date: 2025-02-08
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-malayalam-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT പേപ്പർ 2-ൽ 33% എങ്ങനെ കടക്കാം? ഗ്രാഹ്യശേഷി, യുക്തിചിന്ത, ഗണിതം - പൂർണ്ണ തന്ത്രവും പരിശീലന ഗൈഡും."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

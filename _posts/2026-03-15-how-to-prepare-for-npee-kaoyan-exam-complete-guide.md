@@ -5,7 +5,7 @@ date: 2026-03-15
 categories: ['Analytics']
 tags: ['考研', 'NPEE', '研究生入学考试', '备考策略']
 excerpt: '一篇面向全国硕士研究生入学考试考生的深度战略指南——涵盖考试架构、择校定专业方法论、政治英语数学专业课四科深度备考策略、复试准备、时间线规划与心态管理，帮助你在这场百万人级别的竞争中建立真正有效的准备体系。'
-image: '/assets/images/technology-industry-analysis-insightcrunch.webp'
+image: '/assets/images/blog/blog-08.webp'
 reading_time: 36
 author: 'Insight Crunch Team'
 ---
@@ -20,7 +20,7 @@ author: 'Insight Crunch Team'
 
 本指南面向所有考研群体：大三开始规划的在校生、大四全力冲刺的应届生、工作后决定回炉的往届生、跨专业考研的转型者、以及二战甚至三战的考生。我们将从考试架构出发，逐步深入择校方法论、政治英语数学专业课的分科策略、复试准备、全年时间线规划和心态管理。核心原则只有一个：考研是一场可以通过系统化战略显著提高成功率的考试，但你必须先理解这场考试的完整规则，然后才能在规则框架内最大化自己的优势。
 
-![考研全攻略](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![考研全攻略](/assets/images/blog/blog-08.webp)
 考研全攻略：从择校到上岸的系统性战略指南
 
 ## **2. 考研考试架构**

@@ -6,7 +6,7 @@ date: 2011-01-13
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Rules", "Discipline Policy"]
 excerpt: "All TCS ILP rules explained - attendance tracking, dress code, monitoring systems, and what is and isn't allowed."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
@@ -15,7 +15,7 @@ Stepping through the security gate at the TCS Kalinga Park campus for the first 
 
 This transition - from the informal rule environment of engineering college to the sensor-equipped, formally monitored environment of a TCS campus - is what the original account's "sensors everywhere" title captures. The security scanners, the auto-flush toilets (which function as a metaphor for the ILP's "one mistake and you're flushed out" consequence structure), the LED display showing room booking status, the touch-pad switchboards - all of these signals say the same thing: this is a different kind of institutional environment. The rules here are real, the monitoring is genuine, and the consequences are professional rather than the relatively informal consequences of college life.
 
-![A TCS campus entry gate with security infrastructure showing the badge access systems and visitor management procedures that trainees encounter on their first entry to the campus - the sensor-equipped professional environment that the original account describes as "sensors everywhere" from the X-ray baggage scanner to the auto-flush bathroom technology](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![A TCS campus entry gate with security infrastructure showing the badge access systems and visitor management procedures that trainees encounter on their first entry to the campus - the sensor-equipped professional environment that the original account describes as "sensors everywhere" from the X-ray baggage scanner to the auto-flush bathroom technology](/assets/images/blog/blog-06.webp)
 *TCS ILP rules and discipline complete guide - the security systems at campus entry, the formal discipline policies governing attendance and dress code, the monitoring mechanisms that enforce ILP conduct standards, the professional conduct expectations that distinguish ILP from college life, and the specific rules that trainees need to know before Day One*
 
 This guide uses the original account's vivid encounter with TCS's monitoring environment as the entry point into the comprehensive rules and discipline guide that every ILP trainee needs. The puncher-in-the-backpack incident, the auto-flush epiphany, and the "conference room like a James Bond movie" first impression are the lived texture; the comprehensive rules framework is what sits underneath that texture.

@@ -5,7 +5,7 @@ date: 2025-02-02
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-telugu-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT పేపర్ 2లో 33% ఎలా దాటాలి? అవగాహన, తార్కిక శక్తి, గణితం - పూర్తి వ్యూహం మరియు అభ్యాస గైడ్."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

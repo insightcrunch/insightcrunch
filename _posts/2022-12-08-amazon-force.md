@@ -5,7 +5,7 @@ date: 2022-12-08
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today, and they are a variety of opportunities for candidates who want to work at Amazon. The workforce of Amazon is distributed across a ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 13
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -24,7 +24,7 @@ Going for the breaks at the Amazon warehouses can often seem to be problematic, 
 
 If the employees who work at Amazon warehouses are not constantly scanning the systems, then the team leader or the manager for that employee will come to have a talk with them. Amazon management does not like to see their employees in any of their corporate offices or warehouses or fulfillment centers being idle. Amazon has a very fast way of working, and a very fast-paced work culture, and there are many automated and manual systems in place which track the speed and performance of every employee. The individual employees who work at Amazon have highlighted that working 14 hours a day is especially a very long time to be standing on their feet all the time. Especially if the worker is not particularly young, then it becomes a lot more stressful to be constantly working on their feet 10 hours every day. 
 
-![Amazon force](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Amazon force](/assets/images/blog/blog-15.webp)
 Amazon force
 
 ## Amazon Employee Concerns

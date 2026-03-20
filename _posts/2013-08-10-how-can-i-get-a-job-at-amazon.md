@@ -5,7 +5,7 @@ date: 2013-08-10
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon has quite a few types of opportunities that candidates can work for, and many of those includes work from home facilities as well. If you have the right qualifications for the different jobs ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 9
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -20,7 +20,7 @@ Read more: [Is Amazon hard to get hired? »](https://insightcrunch.com/2013/09/1
 
 Many of the jobs that are listed are for biopharmaceutical consultants and Senior Solutions healthcare architect. Some positions like the biopharmaceutical position does not require an in depth knowledge of computer science and information technology. It also does not require traveling or any prior consulting experience The healthcare architect is a role who works with a team to develop and innovate different solutions for their healthcare partners who are working in a variety of projects. The eligibility requirements of the Amazon online health care jobs, which also provides work from home facilities, vary considerably. It depends on the type of the healthcare job that you are applying for at Amazon. To get a complete understanding of the different types of roles that are offered, it is important that you often check the Amazon job board to find what are the types of jobs that are currently being offered. By seeing the eligibility requirements of the individual jobs you will also get a clearer idea of the skills that Amazon is looking for in you. Amazon marketing and campaign manager is one of the other popular jobs at Amazon. The marketing campaign manager average salary is $90,000 per year. The marketing campaign manager is a very attractive position at Amazon. Candidates can expect to be assigned different growth focused initiatives and objectives that are related to different Amazon products and businesses. 
 
-![How can I get a job at Amazon](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How can I get a job at Amazon](/assets/images/blog/blog-15.webp)
 How can I get a job at Amazon
 
 ## Amazon Marketing Jobs

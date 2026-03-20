@@ -5,7 +5,7 @@ date: 2016-09-15
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months once setup successfully."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -20,8 +20,8 @@ Follow the below steps:
 
 - Click on 'Start Admin Server for Weblogic'
 
-![Start Weblogic Server](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Start Weblogic Server](/assets/images/blog/blog-01.webp)
 Start Weblogic Server
 
-![DRM Enterprise Manager services not responding](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![DRM Enterprise Manager services not responding](/assets/images/blog/blog-01.webp)
 DRM Enterprise Manager services not responding

@@ -5,7 +5,7 @@ date: 2025-06-28
 categories: ["Technology"]
 tags: ["个人理财", "基金定投", "股票入门", "副业赚钱", "被动收入", "自媒体变现", "理财方法"]
 excerpt: "本文深度解析基金定投、股票入门、自媒体变现等15种适合普通人的被动收入方法，涵盖起步资金、操作步骤、预期收益与风险评估，帮你从零开始建立属于自己的理财体系和副业收入来源。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 40
 author: "Insight Crunch Team"
 ---
@@ -40,7 +40,7 @@ author: "Insight Crunch Team"
 
 靠单一工资收入生活，在经济环境不确定的时代风险越来越高。一旦失业、降薪、生病，没有其他收入来源的家庭很快就会陷入财务压力。与此同时，通货膨胀在无声无息地侵蚀储蓄的购买力——把钱存在银行活期账户里，每年的实际收益是负的。
 
-![个人理财与副业赚钱完全指南：基金定投、股票入门、自媒体变现等15种被动收入方法详解](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![个人理财与副业赚钱完全指南：基金定投、股票入门、自媒体变现等15种被动收入方法详解](/assets/images/blog/blog-08.webp)
 个人理财与副业赚钱完全指南：基金定投、股票入门、自媒体变现等15种被动收入方法详解
 
 这篇文章，我会把 15 种适合普通人操作的理财与副业方法逐一拆解，覆盖起步资金要求、操作步骤、预期收益范围、风险等级和适合人群。无论你是月薪 5000 元的刚入职新人，还是月薪 2 万但不知道钱往哪里放的职场中层，都能从这份指南里找到适合自己当前阶段的行动方案。

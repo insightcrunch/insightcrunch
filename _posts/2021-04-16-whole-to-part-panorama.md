@@ -5,12 +5,12 @@ date: 2021-04-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-05.webp)
 
  Any new initiative brings with it several bytes of data to start with. When we start with the goal to derive insights, evaluating the available raw data becomes the only activity for days. Fields stop making sense with relation to another if at all when we challenge it enough but often enables modeling with precision with regard to the context.
 
@@ -24,4 +24,4 @@ Keep reading: [TCS vs Accenture Comparison at granular level »](https://insight
 
 A data discovery journey is not without its fair share of hurdles, but it gets more exciting when we are able to create something more than what actually existed before and what we hoped to achieve. Overturning the conventional part to whole relationships and stereotypes it was an incredible satisfaction on being able to finish painting the final picture. 
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-05.webp)

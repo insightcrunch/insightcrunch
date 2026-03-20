@@ -5,7 +5,7 @@ date: 2016-07-14
 categories: ["Industry"]
 tags: ["Exam"]
 excerpt: "Azure Fundamentals AZ-900 practice exam: cloud concepts, Azure services, security, pricing, and SLA questions to prepare for Microsoft certification."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 32
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -107,7 +107,7 @@ Enter to Begin Exam
 function ReplaceContentInContainer(id,content) {
 var container = document.getElementById(id);
 exam.innerHTML = '<iframe style="border: 0px; height: 696px; width: 100%;" src="https://www.flexiquiz.com/SC/N/3ae35abf-67b0-4c70-8bd3-503adfdc8347"/>';
-document.getElementById("exam").style.backgroundImage = "url(/assets/images/technology-industry-analysis-insightcrunch.webp)";
+document.getElementById("exam").style.backgroundImage = "url(/assets/images/blog/blog-12.webp)";
 document.getElementById("exam").style.backgroundRepeat="no-repeat";
 document.getElementById("exam").style.backgroundPosition="center top";
 button.style.display = "none";
@@ -384,7 +384,7 @@ Azure Purview helps establish the foundation for an effective data governance st
 
 In today's world of data, where an astonishing **2.5 quintillion bytes of data are created every single day**, Cloud driven computing and resource management technologies like Azure are in demand like never before. Deriving insights from data quickly and providing C-level executives with instantly actionable intelligence is the new refined present. There is so much data sitting idly in organizations today with a gold mine of information, the light is yet to shine fully in the analytical world and this is just the beginning. A quick summary of rate of data growth is below.
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-12.webp)
 
 What is the actual exam like?
 
@@ -565,7 +565,7 @@ Enter to Begin Exam
 function ReplaceContentInContainer2(id,content) {
 var container = document.getElementById(id);
 examLifetime.innerHTML = '<br/><iframe style="border: 0px; height:750px; width: 100%;" src="https://www.flexiquiz.com/SC/N/2bd522c9-f4f3-49c0-a32f-74a920d0c07c"/>';
-document.getElementById("examLifetime").style.backgroundImage = "url(/assets/images/technology-industry-analysis-insightcrunch.webp)";
+document.getElementById("examLifetime").style.backgroundImage = "url(/assets/images/blog/blog-12.webp)";
 document.getElementById("examLifetime").style.backgroundRepeat="no-repeat";
 document.getElementById("examLifetime").style.backgroundPosition="center top";
 button.style.display = "none";

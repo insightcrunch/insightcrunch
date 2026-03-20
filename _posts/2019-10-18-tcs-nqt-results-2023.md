@@ -6,14 +6,14 @@ date: 2019-10-18
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Results", "Scorecard"]
 excerpt: "How to check TCS NQT results, interpret your scorecard, understand what scores mean, and plan your next steps."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 The wait between completing the TCS NQT and receiving your results is one of the most anxiety-producing gaps in the entire hiring process. You cannot go back and change your answers. You cannot hurry the scoring process. All you can do is check the portal periodically and wonder where you stand.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-07.webp)
 *The complete guide to TCS NQT results - how long the wait is, exactly how to check your score on the NextStep portal, how to read and interpret your scorecard, what qualified/not-qualified means for each track, what the next steps look like after qualifying, what to do if you did not qualify, and how your result fits into the complete TCS hiring pipeline*
 
 This guide covers everything that happens after you submit the NQT. It walks you through the results timeline, the exact steps to check your score, how to read and interpret the scorecard that TCS provides, what each possible outcome means for your TCS hiring journey, and what to do next in every scenario - whether you qualified for Digital, qualified for Ninja, or received a below-threshold result.

@@ -6,14 +6,14 @@ date: 2024-06-12
 categories: ["Industry"]
 tags: ["HackWithInfy", "HackWithInfy Preparation", "HackWithInfy Questions", "HackWithInfy Rounds", "HackWithInfy Prizes", "Infosys HackWithInfy", "Infosys Power Programmer", "Coding Competition India"]
 excerpt: "HackWithInfy preparation: round-by-round strategy, past question patterns, scoring logic, prize tiers, and how winners get fast-tracked to Infosys roles."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 HackWithInfy is among the most consequential coding competitions available to Indian engineering students - not because of the prize money, though that is real, but because the top tier of performance unlocks a direct path to the Infosys Power Programmer designation with a starting CTC that is nearly three times the standard fresher package. Unlike placements where communication, aptitude, and luck all factor in, HackWithInfy has a simple and brutal meritocracy: the code either works and passes the test cases within the time limit, or it does not. Every finalist earned their position by outthinking thousands of peers across three rounds of progressively harder algorithmic problems.
 
-![HackWithInfy Preparation Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![HackWithInfy Preparation Guide](/assets/images/blog/blog-08.webp)
 
 This guide is written for candidates who want to go all the way. Not the ones who want to participate just to say they tried, but the ones who are genuinely willing to invest months of deliberate practice in the specific algorithmic domains that HackWithInfy tests, build the contest mindset that separates good coders from good competitive programmers, and arrive at Round 1 with the tools to clear all three problems and qualify deep into the competition. Every section is built on the patterns visible across many competition cycles, the problem types that appear consistently, the scoring dynamics that reward specific strategies, and the preparation approaches that produce finalist-tier performance.
 

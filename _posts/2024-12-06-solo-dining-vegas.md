@@ -5,7 +5,7 @@ date: 2024-12-06
 categories: ["Leisure"]
 tags: ["solo-dining", "las-vegas", "restaurants", "vegas-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "chinatown", "the-strip", "off-strip"]
 excerpt: "Best restaurants for solo dining in Las Vegas: Strip steakhouse bars, Chinatown ramen counters, and off-Strip spots where eating alone beats the buffet."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

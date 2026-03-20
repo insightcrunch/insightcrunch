@@ -5,7 +5,7 @@ date: 2025-01-23
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-kannada-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "UPSC CSAT ಪೇಪರ್ 2ರಲ್ಲಿ 33% ಹೇಗೆ ದಾಟುವುದು? ಗ್ರಹಿಕೆ, ತರ್ಕ, ಗಣಿತ ವಿಭಾಗವಾರು ತಂತ್ರ ಮತ್ತು ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶಿ."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

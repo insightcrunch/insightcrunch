@@ -5,7 +5,7 @@ date: 2025-07-25
 categories: ["Industry"]
 tags: ["TCS", "NQT", "ILP", "TCS Hiring", "NextStep Portal", "Xplore", "Aspire", "TCS Joining", "TCS Freshers", "NQT Exam", "Offer Letter", "Fresher"]
 excerpt: "The journey from registering for the TCS National Qualifier Test to walking through the doors of an ILP center on your first day of training is long, multi-staged, and often confusing. At each step, candidates encounter new portals, new processes, new requirements, and new waiting periods. The total timeline can stretch from a few months to over a year depending on batch timing, hiring cycles, and individual circumstances. This is the complete map of every stage, every portal, every decision point, and every waiting period between NQT registration and ILP day one ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 30
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ The journey from registering for the TCS National Qualifier Test to walking thro
 
 Every batch has candidates who missed a step, forgot to click "Apply For Drive," entered wrong details, or left Xplore incomplete - and paid for it with delayed joining, missed bonuses, or unnecessary stress. Every batch also has candidates who navigated every stage smoothly, arrived at ILP fully prepared, and started their career with confidence.
 
-![TCS NQT to ILP Journey](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS NQT to ILP Journey](/assets/images/blog/blog-14.webp)
 TCS NQT to ILP - The Complete Journey From Registration to Training Day
 
 This guide maps the complete journey from start to finish, covering every stage of the pipeline: NQT registration on the NextStep portal, the NQT exam structure and preparation, results and interview rounds, the offer letter, the Xplore program and IPA assessment, document preparation, the joining letter, background verification, and the first day of ILP. The information draws from the official TCS hiring process documented on the TCS careers page, the NextStep portal structure, and the experiences of candidates across recent hiring cycles.

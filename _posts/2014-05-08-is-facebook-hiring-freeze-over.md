@@ -5,7 +5,7 @@ date: 2014-05-08
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is one of the largest corporations in the technology industry today. Due to an increase in competition from other apps like TikTok and Snapchat, Meta is focused on increasing its graphic ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 9
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -22,7 +22,7 @@ Read more: [Meta Hiring 2022 »](https://insightcrunch.com/2014/06/11/meta-hirin
 
 The revenue of Meta has already been in steep decline due to the global economic situation. The stock price of Meta has also been rapidly declining due to a bleak future and lack of growth potential in Wall Street. In this environment, the discovery engine vision of Instagram Reels can prove extremely beneficial in the short video segment. Meta management has highlighted that the decline in revenue is temporary, and it would grow gradually as advertisers become more comfortable with the Instagram Reels advertising format after the hiring freeze. Meta leadership also has seen various different possibilities for revenue growth in business, messaging and shopping tools. Many of these can mitigate the privacy changes that Apple has introduced which led to Meta's revenue loss. Over the last few years, Apple has introduced several changes to its iPhone and other hardware that has severely affected Meta's advertising revenue. Advertising was one of the key revenue sources for Meta. Meta relied on collecting user data and showing them personalized advertisements for its revenue, but the privacy changes launched by Apple made Meta incapable of collecting user data and thus the advertisements became less relevant, because there was no data collection algorithm that could personalize the ads to the users. Less relevant ads meant fewer clicks on the advertisements, and hence, advertisers began to gradually pull out their investments from Meta to other apps, thus resulting in a revenue decline. 
 
-![Facebook Hiring Freeze and Meta Layoffs](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Facebook Hiring Freeze and Meta Layoffs](/assets/images/blog/blog-05.webp)
 Facebook Hiring Freeze and Meta Layoffs
 
 ## Facebook Hiring Freeze

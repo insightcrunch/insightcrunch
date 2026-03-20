@@ -5,7 +5,7 @@ date: 2019-04-24
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "TCS NQT in-center vs remote proctored: differences in environment, rules, technical requirements, difficulty level, and which mode candidates prefer."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -20,7 +20,7 @@ This article covers everything a serious TCS NQT candidate needs to know: the fu
 
 For a structured, ready-to-use preparation resource, the [TCS NQT Preparation Guide on ReportMedic](https://reportmedic.org/tools/tcs-nqt-preparation-guide.html) is one of the most comprehensive available. And for those who have already cleared the NQT and are preparing for the ILP, the [TCS ILP Preparation Guide on ReportMedic](https://reportmedic.org/tools/tcs-ilp-preparation-guide.html) covers that next stage in detail.
 
-![TCS NQT In-center vs Remote Eligibility Syllabus Preparation Materials Practice Questions Mock Test Salary Package Freshers Exam Date](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS NQT In-center vs Remote Eligibility Syllabus Preparation Materials Practice Questions Mock Test Salary Package Freshers Exam Date](/assets/images/blog/blog-08.webp)
 TCS NQT In-center vs Remote
 
 ---

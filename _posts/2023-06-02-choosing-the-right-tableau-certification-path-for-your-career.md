@@ -5,7 +5,7 @@ date: 2023-06-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "In the realm of literature, Hemingway's characters often face choices that shape their destinies. Similarly, in the world of data visualization and analytics, selecting the right Tableau ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ In the realm of literature, Hemingway's characters often face choices that shape
 
 Read more: [Unlocking Your Potential: Benefits of Tableau Certification »](https://insightcrunch.com/2023/05/02/unlocking-your-potential-benefits-of-tableau-certification/)
 
-![Choosing the Right Tableau Certification Path for Your Career](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Choosing the Right Tableau Certification Path for Your Career](/assets/images/blog/blog-11.webp)
 Choosing the Right Tableau Certification Path for Your Career
 
 ## Unveiling the Spectrum: Understanding Tableau Certification Paths

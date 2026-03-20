@@ -5,7 +5,7 @@ date: 2025-03-05
 categories: ["Industry"]
 tags: ["upsc-preparation", "ias-preparation", "upsc-tamil-guide", "upsc-beginners-guide"]
 excerpt: "UPSC தயாரிப்பை பூஜ்ஜியத்திலிருந்து எப்படி தொடங்குவது? பிரிலிம்ஸ், மெயின்ஸ், நேர்காணல் உத்திகள், புத்தகப்பட்டியல், பயிற்சி வழிகாட்டி."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

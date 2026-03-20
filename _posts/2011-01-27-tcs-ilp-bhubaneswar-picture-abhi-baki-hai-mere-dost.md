@@ -6,14 +6,14 @@ date: 2011-01-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Project Allocation", "Post-ILP Transition"]
 excerpt: "What happens after TCS ILP - project allocation process, transition to work, and tips for starting your TCS career."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 The final results are posted. The last assessment is done. The training center's structured world of sessions, assessments, and batch routines is suddenly behind you. And somewhere ahead - maybe in days, maybe in weeks - a project allocation is waiting that will define the first real chapter of your TCS career.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-03.webp)
 *The complete guide to everything that happens after TCS ILP - project allocation, the waiting period, the transition to actual work, and how to set yourself up for a strong start*
 
 The period immediately following ILP completion is one of the most emotionally complex transitions a TCS fresher navigates. There is relief at having cleared the program, anxiety about where you will be placed, excitement about finally doing real work, grief at leaving the batch community you spent weeks building, and often a significant stretch of waiting during which none of those feelings fully resolve.

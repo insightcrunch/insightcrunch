@@ -6,14 +6,14 @@ date: 2021-03-12
 categories: ["Industry"]
 tags: ["TCS", "Resume", "CV Format", "Resume Tips"]
 excerpt: "TCS resume writing guide - format, template, what recruiters look for, common mistakes, and how to get shortlisted."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Your resume is the first thing TCS sees before it meets you. It determines whether you advance to an interview or disappear into the unread pile. For fresher candidates, the resume is particularly critical because it is doing heavy lifting for a person with limited professional experience - it must make a strong case based primarily on education, projects, and potential.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-03.webp)
 *The complete TCS resume guide - what TCS's hiring system looks for in a fresher resume, the format and sections that work best, how to write each section effectively, the specific mistakes that get resumes rejected, what differentiates a shortlisted resume from an ignored one, resume templates for Ninja and Digital track aspirants, and how to tailor your resume for TCS specifically*
 
 This guide is actionable: it tells you exactly what to write in each resume section, what language to use, what to avoid, and how to structure the document for maximum impact with TCS's hiring team.

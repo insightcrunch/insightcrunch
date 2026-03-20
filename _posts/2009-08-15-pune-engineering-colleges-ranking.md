@@ -5,7 +5,7 @@ date: 2009-08-15
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Pune engineering colleges ranking: top institutions compared on academics, placement records, campus quality, and overall value for engineering students."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,5 +18,5 @@ This list is updated regularly based on several feedbacks on various issues and 
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Pune Engineering Colleges](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Pune Engineering Colleges](/assets/images/blog/blog-04.webp)
 Pune Engineering Colleges

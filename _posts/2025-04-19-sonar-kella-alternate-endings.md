@@ -5,7 +5,7 @@ date: 2025-04-19
 categories: ["Leisure"]
 tags: ["Thoughts", "Bengali Literature", "Satyajit Ray", "Feluda", "Sonar Kella", "Alternate Endings", "Bengali Fiction", "Classic Stories"]
 excerpt: "সত্যজিৎ রায়ের 'সোনার কেল্লা' যদি অন্যভাবে শেষ হতো? মুকুলের স্মৃতি, ফেলুদার বুদ্ধি, এবং রাজস্থানের ধুলোমাখা পথে যদি ভিন্ন ঘটনার জন্ম হতো - সেই কল্পনার দরজা খুলে দিচ্ছে এই লেখা।"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 ---

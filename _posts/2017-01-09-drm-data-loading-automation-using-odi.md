@@ -5,7 +5,7 @@ date: 2017-01-09
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Oracle Hyperion Data Relationship Management application is a pretty flexible tool and most of the activities that can be done manually can be automated (using ETL tools like ODI, Informatica ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ The requirement goes as below:
 
 To proceed with this activity, first and foremost we need to be familiar with DRM action scripts - which will involve generating Add, AddInsert and Move scripts. In addition to that, if we have an ETL tool in our environment (like ODI, Informatica PowerCenter, etc) it's beneficial - else we can also use SQL to achieve our purpose as we will see next.
 
-![DRM Data Loading Automation using ODI](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![DRM Data Loading Automation using ODI](/assets/images/blog/blog-01.webp)
 DRM Data Loading Automation using ODI
 
 ## Method 1

@@ -5,14 +5,14 @@ date: 2010-11-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
 excerpt: "This will let you mail a lot of your friends by mailing your favorite article to just one single id. This is going to be really useful to you. Instead of typing the emails of your friends one by one ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 This will let you mail a lot of your friends by mailing your favorite article to just one single id. This is going to be really useful to you. Instead of typing the emails of your friends one by one you will get to send your mail to them just by one click.
 
-![Optimize your Gmail Contacts](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Optimize your Gmail Contacts](/assets/images/blog/blog-14.webp)
 Optimize your Gmail Contacts
 
 Read more: [How to set your inactive windows to minimize automatically? »](https://insightcrunch.com/2010/11/23/how-to-set-your-inactive-windows-to-minimize-automatically/)

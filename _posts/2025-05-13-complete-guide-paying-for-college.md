@@ -5,7 +5,7 @@ date: 2025-05-13
 categories: ["Industry"]
 tags: ["FAFSA guide", "scholarships no essay", "how to pay for college", "student loan", "financial aid", "grants for students", "college funding", "merit scholarships", "need-based aid", "student loan repayment"]
 excerpt: "The most complete guide to paying for college: a step-by-step FAFSA walkthrough, no-essay scholarship databases, federal and state grant programs, subsidised vs unsubsidised loan comparison, income-driven repayment plans, and financial aid appeal strategies that maximise your award."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 ---
@@ -38,7 +38,7 @@ The sticker price of a college is the Cost of Attendance (COA) - a comprehensive
 
 The net price is what a student actually pays after all grants, scholarships, and free money are subtracted from the COA. At many selective private colleges, students from lower-income families pay a net price dramatically below the sticker price because of generous institutional grant programs. At many public universities, middle-income students receive little institutional aid, making the net price close to the sticker price. Understanding the net price - not the COA - of each school you are considering is the foundation of any realistic college financing plan.
 
-![Complete Guide to Paying for College: FAFSA Step-by-Step, Scholarships Without Essays, Student Loans, Grants & Financial Aid Strategies That Actually Work](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Complete Guide to Paying for College: FAFSA Step-by-Step, Scholarships Without Essays, Student Loans, Grants & Financial Aid Strategies That Actually Work](/assets/images/blog/blog-14.webp)
 Complete Guide to Paying for College: FAFSA Step-by-Step, Scholarships Without Essays, Student Loans, Grants and Financial Aid Strategies That Actually Work
 
 ### The Net Price Calculator

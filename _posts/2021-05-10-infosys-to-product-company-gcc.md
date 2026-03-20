@@ -6,14 +6,14 @@ date: 2021-05-10
 categories: ["Industry"]
 tags: ["Infosys to Product Company", "Service to Product Switch", "Infosys to Google", "Infosys to Amazon", "Infosys Career Change", "GCC Jobs India", "IT Services to GCC", "Infosys Exit Strategy"]
 excerpt: "The complete playbook for switching from Infosys to a product company or GCC with skills, resume, and interview strategies."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-20
 ---
-
 The transition from Infosys, or any major IT services company, to a product company or Global Capability Center is one of the most common and most consequential career moves made by Indian technology professionals. It represents a shift in how work is structured, how technology is used, how performance is evaluated, and often how much the work pays. Hundreds of thousands of professionals have made this transition successfully, and many others have attempted it and returned to services, or never attempted it despite wanting to.
 
-![Switch From Infosys to Product Company Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Switch From Infosys to Product Company Guide](/assets/images/blog/blog-05.webp)
 
 The gap between wanting to make the switch and actually making it successfully comes down to a specific set of skills, preparation activities, and strategic decisions. This guide maps that gap in detail. It covers why professionals consider leaving IT services, the skill gaps that must be bridged, how to build a resume that translates service company experience into product company language, which companies and GCCs actively hire from Infosys and similar firms, how to prepare for technical interviews at product companies and GCCs, how to leverage Infosys project experience effectively, the role of open source contributions and side projects, how LinkedIn and networking factor in, realistic timelines for making the switch at different experience levels, salary expectations after switching, common mistakes during the transition, and representative transition paths drawn from the actual patterns of professionals who have successfully made the move.
 

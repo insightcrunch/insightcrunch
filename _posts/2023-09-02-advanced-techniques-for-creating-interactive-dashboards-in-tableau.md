@@ -5,14 +5,14 @@ date: 2023-09-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau has become synonymous with powerful data visualization and interactive storytelling. As data becomes more complex and diverse, the ability to create engaging and interactive dashboards is a ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 Tableau has become synonymous with powerful data visualization and interactive storytelling. As data becomes more complex and diverse, the ability to create engaging and interactive dashboards is a skill highly sought after by professionals in various industries. In this article, we'll delve into advanced techniques for crafting interactive Tableau dashboards that captivate your audience and provide meaningful insights.
 
-![Advanced Techniques for Creating Interactive Dashboards in Tableau](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Advanced Techniques for Creating Interactive Dashboards in Tableau](/assets/images/blog/blog-01.webp)
 Advanced Techniques for Creating Interactive Dashboards in Tableau
 
 ## **1. Utilize Actions for Dynamic Interaction**

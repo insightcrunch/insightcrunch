@@ -5,7 +5,7 @@ date: 2013-03-14
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today which hires over thousands of candidates across a variety of diverse domains. Amazon has a lengthy and exhaustive hiring process because ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -24,7 +24,7 @@ Always remember that Amazon has a policy of interviewing only those candidates w
 
 The interviewers will be a variety of teams who will be interested in getting to know you. Many of these might be future team members with whom you will be working. Let's take a closer look at some of these interview rounds that you can expect to experience during your Amazon hiring process. In most of the cases, the interview process at Amazon begins with a phone call a video call, or via the email correspondence from the technical recruiter. The role of the HR or technical recruiter is to make sure that you are a good fit for the job that you have applied to, and to do an initial screening based on your resume. After having a brief discussion with you that might last less than an hour, they will be providing you with materials with which you can understand the format of the hiring process. 
 
-![What is Amazon acceptance rate](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![What is Amazon acceptance rate](/assets/images/blog/blog-01.webp)
 What is Amazon acceptance rate
 
 ## Amazon Interview Questions

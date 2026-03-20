@@ -6,14 +6,14 @@ date: 2021-06-19
 categories: ["Industry"]
 tags: ["Infosys Salary Hike", "Infosys Increment Percentage", "Infosys Appraisal Hike", "Infosys Annual Increment", "Infosys Variable Pay", "Infosys Promotion Increment", "Infosys Salary Increase", "Infosys Performance Rating Hike"]
 excerpt: "Complete guide to Infosys salary hike percentages, appraisal band increments, variable pay, promotion raises, and how to maximize your compensation growth at every career stage."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-20
 ---
-
 The question every Infosys employee asks around appraisal season is the same: what increment will I actually receive? The answer is almost never the figure that circulates in WhatsApp groups and college placement forums, which tend to mix up average hike percentages with top-band percentages, annual increments with promotion raises, and fixed pay increases with variable pay payouts. The resulting confusion leads employees to either dramatically overestimate what they will receive or accept below-market increments without realizing it.
 
-![Infosys Salary Hike and Increment Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Infosys Salary Hike and Increment Complete Guide](/assets/images/blog/blog-05.webp)
 
 This guide cuts through the confusion with specifics. It explains how the [Infosys appraisal](https://insightcrunch.com/2021/06/27/infosys-performance-appraisal/) and increment system works from the ground up: the appraisal cycle timing, the performance band structure and what each band means in rupee terms, the actual hike percentages that different band ratings produce, how variable pay is calculated and paid, how promotion increments work and how they stack with annual increments, how to read your increment letter, and what genuinely moves an increment higher. It also addresses the honest comparison that every increment-season employee makes: is what Infosys is offering competitive with the external market, and when does the gap become large enough to justify a move?
 

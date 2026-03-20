@@ -5,7 +5,7 @@ date: 2022-11-12
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau is one of the most popular data visualization tools in the market today. Thousands of aspiring professionals who want to be a part of the data analytics field are doing their best to learn ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 14
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -26,7 +26,7 @@ The Official Tableau Certified Data Analyst Certification exam guide above is a 
 
 It is important to note that if you are choosing to cancel or reschedule the appointment that you have chosen, then you will need to cancel at least 24 hours before the exam date. Or if you are looking forward to rescheduling, then you should reschedule at least 48 hours before the scheduled exam date and time. After selecting the exam date and time, you will be required to check out, and then finally during checking out you can apply any vouchers which you have to get a discount on the price. You will also be able to see the exam booked after completion at the end on your dedicated dashboard. The Pearson VUE dashboard will be visible after you are redirected from the Tableau Certification portal. 
 
-![Tableau Data Analyst Certification Exam Questions Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Data Analyst Certification Exam Questions Guide](/assets/images/blog/blog-15.webp)
 Tableau Data Analyst Certification Exam Questions Guide
 
 ## Tableau Exam Environment and Laptop Guidelines
@@ -41,19 +41,19 @@ Let's learn about the different types of questions in a clear visual form that c
 
 ### Data Analyst Certification Question Type 1 - Multiple Choice
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 The first type of the question that is asked in the Tableau certification exam is multiple choice type. In this type of questions, there will be multiple options that will be provided to the candidate out of which they have to choose one answer, which will be correct. As you can see in this drawing that I have created above, the options that will be provided might be short in a few words, or might be long in sentences as well. You have to closely evaluate every option before choosing the right one. Often in the Tableau Certification exams, the questions and options are worded in a tricky way to confuse the candidate. However, with good practice of a variety of practice exams and mock tests provided to the subscribers above, you will be able to answer most of the multiple choice questions easily during the actual exam. 
 
 ### Data Analyst Certification Question Type 2 - Multiple Response
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 The next type of question in the Tableau Data Analyst Certification exam is of multiple response type. As we can see here, candidates can select more than one option in these type of questions. There will be checkboxes provided to the candidates using which they can select more than one correct option for that question. It is important to read every option that is given carefully to make sure that you understand the subtle differences between them. After reading all the options given in the multiple response type questions, you should proceed to select the correct answers that you feel fits appropriately for that question. 
 
 ### Data Analyst Certification Question Type 3 - Active Screen
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 The next type of question which is asked in the Tableau Certified Data Analyst Certification exam is an active screen type. In the active screen type of questions, the candidate will be presented with a passage that you have to complete. You will have to fill in the blanks that are given in the passage by dragging and dropping the correct option from a set of options available to you. It is important to note there are few variations of active screen type questions. The options may be available to you separately in a list form, and the paragraph with the spaces and blanks separately. 
 
@@ -61,7 +61,7 @@ In this list type, that candidate has to drag the correct options into the passa
 
 ### Data Analyst Certification Question Type 4 - Build List
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 The next type of question in the tableau certification exam is that of build list. Building a list is one of the most important type of questions in the Tableau Certification exam. Here the candidate will be required to arrange a set of steps in a particular sequence that is required to be done to complete a task. There will be two parts as we can see above, one with the unordered list and another is a response area where the candidate has to arrange the steps in the right order. You might not need all the steps and options that are given to you, and only a subset of the steps might be required to complete the correct sequence for the task. 
 
@@ -69,15 +69,15 @@ Select the correct set of steps from the list given to you and arrange them in t
 
 ### Data Analyst Certification Question Type 5 - Hands-on Lab
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 The next type of questions which are asked in the Tableau Certification exam is the hands on lab questions. This is for section two where candidates will be getting access to the Windows Virtual Machine on the left side as we can see here, and a list of tasks that needs to be done on the right-hand side. There are lots of functionalities and features offered by the Tableau Desktop tool and hence there is tremendous scope of learning and analysis in this section. The examiner can ask lots of different types of questions focusing on each of the topics mentioned in the Exam Guide. Hence, it is key to strategically prepare for this section. Practice with a variety of datasets, and answer different levels of complex questions as part of the practice exams given above to build up your skills for the Tableau Certification exam. 
 
 ### Data Analyst Certification Question Type 6 - Hot Area
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 The next type of question in the Tableau Certification exam is hot area. The questions that are of type hot area includes a specific scenario that is given to you, and you will be then asked which button in Tableau you should use to accomplish that particular task. The area that you will be selecting will be getting highlighted in this type of question in the Tableau Certification exam. It is important to be extremely familiar with the different navigation of the menus and functionalities of the Tableau Desktop software before your actual exam. To be able to answer these type of questions effectively, you should have at least three to four months of proper experience using the Tableau tool. 
 
@@ -91,7 +91,7 @@ If you have any questions, or need any help regarding how to answer different ty
 
 Reviewing the entire question page during the Tableau Certified Data Analyst Certification exam will help ensure that candidates answer questions only after reviewing the full information in the question that is presented to them. In the second session of the Tableau Certification exam, you will be given access to a Windows Virtual Machine. This Windows Virtual Machine in your Tableau Certified Data Analyst Certification exam will be shown on the left-hand side of your screen. There will be a few tasks given which you need to complete within the given sheets in a Tableau Desktop workbook. These sheets will be shown to you in the right-hand side of your screen. This section is very much intuitive and user-friendly as you can navigate easily, and the tasks and the sheets are arranged in a specific order. 
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-15.webp)
 
 Some of the things that people might find challenging in the Tableau Certified Data Analyst Certification exam is that you will be having three sections in the exam, and you cannot go back to the earlier section after you have proceeded to the next one. However, within each section, you can flag different questions and come back to that later. The exam is a closed book exam, where you cannot refer any internet resources or any help guide during the exam. However, in the second section of the exam, which is the hands on lab, you will be having access to the PDF version of the Tableau Help. The PDF version of the Tableau Help will help you get different types of references from the Tableau Help guide which you can refer. 
 

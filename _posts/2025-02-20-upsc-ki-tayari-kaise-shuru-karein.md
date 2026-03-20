@@ -5,7 +5,7 @@ date: 2025-02-20
 categories: ["Industry"]
 tags: ["upsc-preparation", "ias-preparation", "upsc-urdu-guide", "upsc-beginners-guide"]
 excerpt: "UPSC کی تیاری صفر سے کیسے شروع کریں؟ پریلمز، مینز، انٹرویو حکمت عملی، کتابوں کی فہرست، اور مشق گائیڈ۔"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

@@ -5,7 +5,7 @@ date: 2025-08-12
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "IPA", "PRA", "Diagnostics", "TCS Assessments", "ILP Exams", "TCS Training", "Xplore", "AsCEnD", "Fresher"]
 excerpt: "The assessment system inside TCS ILP is more layered than most candidates expect. It is not a single final exam. It is a continuous evaluation framework that begins before you even receive your joining letter and runs through the entire ILP duration, testing you at every stage. Understanding how each assessment works, what it tests, how it is scored, what the consequences of failure are, and how to prepare for each one gives you a decisive advantage over candidates who walk in unprepared ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 30
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ The assessment system inside TCS ILP is more layered than most candidates expect
 
 Every year, freshers are caught off guard by the volume and variety of assessments during ILP. Some underestimate IRA and get rescheduled on day one. Others breeze through technical diagnostics but stumble on business skills and end up in LAP. Others ignore the pre-joining Xplore program entirely and miss out on a joining bonus that could have been theirs with a few weeks of preparation.
 
-![TCS ILP Diagnostics and Assessments](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS ILP Diagnostics and Assessments](/assets/images/blog/blog-03.webp)
 TCS ILP Diagnostics and Assessments - IRA, IPA, PRA, and Every Test Explained
 
 This guide covers every formal assessment in the TCS ILP pipeline, from the pre-joining Xplore program and IPA exam through IRA 1, IRA 2, the ongoing technical and business skills diagnostics, IQLASS sessions, the Phase 2 project evaluation, and the final PRA. The information draws from official TCS documentation, the Xplore program structure, and the accumulated experiences of candidates across multiple ILP batches.

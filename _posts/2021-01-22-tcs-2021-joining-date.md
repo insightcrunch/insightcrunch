@@ -6,14 +6,14 @@ date: 2021-01-22
 categories: ["Industry"]
 tags: ["TCS", "Joining Date", "Status Tracking", "Fresher Updates"]
 excerpt: "How to track TCS joining date status - update methods, escalation contacts, batch patterns, and staying informed."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 You have the offer letter. You have accepted it. And now you are waiting - sometimes for weeks, sometimes for months - for a joining date that TCS has not given you yet. This waiting period is one of the most psychologically challenging phases of the entire TCS hiring process, primarily because it involves the least information and the highest uncertainty.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-10.webp)
 *The complete guide to TCS joining date updates - the full pipeline from offer letter to joining letter, what each status stage means, how to track your joining date progress on the iBegin portal, realistic timeline expectations for each stage, what factors cause delays, how to escalate when there is a genuine problem, how to use the waiting period productively, and the batch joining patterns that determine when you will finally receive your date*
 
 This guide is for candidates who have already received and accepted their TCS offer and are now waiting for their joining date. It covers every stage of the joining pipeline, explains what is and is not within your control, and provides the practical strategies for productive waiting and effective follow-up.

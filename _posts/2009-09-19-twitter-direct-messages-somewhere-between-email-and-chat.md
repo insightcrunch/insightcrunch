@@ -5,7 +5,7 @@ date: 2009-09-19
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Often while getting to use Twitter regularly I find that using the direct messages (not @) feature is pretty much like internet sms-es, or if I might put it, somewhere between chatting and emailing. ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -16,5 +16,5 @@ Read more: [TweetMeme: Storehouse of hot Twitter topics »](https://insightcrunc
 
 How much can you express yourself officially in a space of 140 characters after all. It all comes down to speed and getting the message across as fast as you can and replying to your friends instantly. The one Twitter client I always love to use and have bookmarked in my mobile is Twitter2Go. Feel free to use it and [add me](http://twitter.com/Rahul_B) in Twitter.
 
-![Twitter Direct Messages](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Twitter Direct Messages](/assets/images/blog/blog-06.webp)
 Twitter Direct Messages

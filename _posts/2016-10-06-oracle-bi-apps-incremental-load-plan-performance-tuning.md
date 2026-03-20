@@ -5,7 +5,7 @@ date: 2016-10-06
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "The Oracle Business Intelligence Applications integration with Oracle General Ledger comes with an out-of-the-box load plan that Oracle provides for extracting and loading into the BI data warehouse. ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ The Oracle Business Intelligence Applications integration with Oracle General Le
 
 The first thing that comes to mind is whether all the steps are essential, and yes, they are. In fact, some relevant practices (like gather stats, updating the W_ETL_LOAD_DATES for every scenario, etc) followed in the load plan are critical for successful loadings and long term ease of maintenance.
 
-![Oracle BI Apps Incremental Load Plan Performance Tuning](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle BI Apps Incremental Load Plan Performance Tuning](/assets/images/blog/blog-09.webp)
 Oracle BI Apps Incremental Load Plan Performance Tuning
 
 Before the load plan was tuned, it was observed around 90 minutes was the average execution time, whereas after the changes, the average time has come down to 70 minutes. It is important to mention here that there were some custom loads also that ran as part of the load plan, so the tuning also involved tweaking them. The execution times are dependent on data volume, so keep that in mind while dealing with the stats.

@@ -5,7 +5,7 @@ date: 2009-05-10
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "I wanted to share this awesome article written by my friend Somdas on his experience during the Graduate Aptitude Test in Engineering 2009. He ranked a stunning 87 and is invariably a role model for ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 6
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -34,7 +34,7 @@ Keep on reading: [Einstein and Alex - Refining Parrots »](https://insightcrunch
 
 The final one month before the exam was all about constant practice and nothing else. Totally dedicated towards GATE study and nothing else.
 
-![GATE Examination Experience](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![GATE Examination Experience](/assets/images/blog/blog-09.webp)
 How to Prepare for GATE Examination
 
 Finally, the examination day came. I was surprised to see such easy questions to begin with. I became too relaxed and started solving problems slowly and steadily. And that was the mistake I made. In the end there were some tough problems and i struggled to finish off the paper. I made a total mess of the whole exam. To make it worse when i discussed the answers with my friends i found out that i made about 8 marks of silly mistakes. All my hopes of studying in IIT was completely gone.

@@ -5,14 +5,14 @@ date: 2010-08-13
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Yahoo had been having this social feature for quite some time now, where the user would have to share his status updates. Then it would be visible to his friends if he had a mutual both way following ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 Yahoo had been having this social feature for quite some time now, where the user would have to share his status updates. Then it would be visible to his friends if he had a mutual both way following and friend approval. But now with the concepts of Facebook and Twitter gaining steady grounds, Yahoo is determined not to fall behind in the race.
 
-![Social Networking and the Players](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Social Networking and the Players](/assets/images/blog/blog-06.webp)
 Social Networking and the Players
 
 Read more: [eBay search now in Kewll »](https://insightcrunch.com/2010/08/22/ebay-search-now-directly-through-kewll/)

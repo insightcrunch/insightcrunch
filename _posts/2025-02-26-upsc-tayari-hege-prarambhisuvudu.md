@@ -5,7 +5,7 @@ date: 2025-02-26
 categories: ["Industry"]
 tags: ["upsc-preparation", "ias-preparation", "upsc-kannada-guide", "upsc-beginners-guide"]
 excerpt: "UPSC ತಯಾರಿಯನ್ನು ಶೂನ್ಯದಿಂದ ಹೇಗೆ ಪ್ರಾರಂಭಿಸುವುದು? ಪ್ರಿಲಿಮ್ಸ್, ಮೇನ್ಸ್, ಸಂದರ್ಶನ ತಂತ್ರಗಳು, ಪುಸ್ತಕಪಟ್ಟಿ, ಅಭ್ಯಾಸ ಮಾರ್ಗದರ್ಶಿ."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

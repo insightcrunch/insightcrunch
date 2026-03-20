@@ -5,7 +5,7 @@ date: 2011-04-17
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that was showing a documentary on Kolkata the city ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ Today I watched a show on CNN IBN. I love the channel for it's straight forward 
 
 This is with a lot of regret that I am having to say that the program seemed to revolved around the mindset that the negative image of the city needs to be highlighted at all costs and dimlight the achievements and existing prospects (not to talk of the future prospects which were appropriately shown in terms of the IT sector and industrialization).
 
-![Kolkata](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Kolkata](/assets/images/blog/blog-06.webp)
 Kolkata
 
 The views of the Presidency students or the 'guy who walked the same lanes for 21 years at College Street' seemed fine. Though it is not so that the education system in our state is such at present that students 'must' go outside to pursue higher studies. There are a lot of good institutes both technical, engineering and arts that provide one of the finest qualities of education. To get feedback from some B.Com. students to say that there is no job here and let the image of the city take a blow is simply surprising! It should be understood clearly that job demands some qualification and you can't crib that there are no jobs when you do not deserve it. What the show should have highlighted is that there needs to be some more opportunity for the less qualified. That's where I pointed out that the show's mindset seemed disturbing to me.

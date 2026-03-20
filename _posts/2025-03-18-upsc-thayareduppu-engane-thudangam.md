@@ -5,7 +5,7 @@ date: 2025-03-18
 categories: ["Industry"]
 tags: ["upsc-preparation", "ias-preparation", "upsc-malayalam-guide", "upsc-beginners-guide"]
 excerpt: "UPSC തയ്യാറെടുപ്പ് പൂജ്യത്തിൽ നിന്ന് എങ്ങനെ ആരംഭിക്കാം? പ്രിലിംസ്, മെയിൻസ്, ഇന്റർവ്യൂ തന്ത്രങ്ങൾ, പുസ്തകപ്പട്ടിക, പരിശീലന ഗൈഡ്."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

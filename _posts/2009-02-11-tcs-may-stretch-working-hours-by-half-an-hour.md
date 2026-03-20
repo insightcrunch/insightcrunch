@@ -6,14 +6,14 @@ date: 2009-02-11
 categories: ["Industry"]
 tags: ["TCS", "Work-Life Balance", "IT Industry", "Employee Policy"]
 excerpt: "Complete guide to TCS work hours, shift timings, overtime rules, and work-life balance policies for freshers and experienced employees."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 When you join one of the largest IT companies in the world, one of the first practical questions you ask is not about the technology stack or the project pipeline - it is about the hours. How long will your working day actually be? What does TCS work hours policy look like on paper versus in practice? Will you have a life outside the office? These questions matter to freshers walking into their first job, to experienced professionals evaluating a switch, and to returning employees re-entering after a gap. The answers are rarely as simple as any official document suggests, and that gap between policy and reality is exactly what this guide addresses in full.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-05.webp)
 *Understanding TCS work hours policy, shift timings, and work-life balance across projects and locations*
 
 TCS work hours have been a subject of sustained discussion among IT professionals in India and globally. The company's official stance, the ground-level experience across different projects and business units, the role of client demands, the shift to hybrid work, and the long-term impact on employee health and retention - all of these threads weave together into a picture that is far more complex than a single number. This guide pulls every relevant thread into one place so you walk away with a complete, honest, and actionable understanding of what working at TCS actually looks like in terms of time.

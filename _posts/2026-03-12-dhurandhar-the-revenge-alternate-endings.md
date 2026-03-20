@@ -5,7 +5,7 @@ date: 2026-03-12
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "ranveer-singh", "spy-thriller", "alternate-endings", "aditya-dhar"]
 excerpt: "Aditya Dhar's blockbuster duology concludes on March 19 with Dhurandhar: The Revenge -- but the trailer, the hidden details, and the unresolved threads of the first film have already generated a universe of fan theories and alternate possibilities. We explore seven richly imagined alternative endings to the sequel, and what each reveals about identity, patriotism, revenge, and the cost of living as two people at once."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 ---

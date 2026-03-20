@@ -6,14 +6,14 @@ date: 2025-12-28
 categories: ["Industry"]
 tags: ["高考", "高考历史", "历史备考", "中国古代史", "中国近代史", "世界史", "Gaokao", "History", "Humanities Preparation", "Study Guide"]
 excerpt: "最全面的高考历史备考指南，系统覆盖中国古代史、近代史、世界史全考纲，深度解析史料分析题与论述题的高分策略，帮助考生在历史选考中取得优异成绩。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 高考历史是3+1+2模式下历史方向考生必须选考的科目，也是人文社科方向中知识体系最宏大、思维层次最丰富的学科之一。历史满分100分，涵盖从远古文明到当代世界的宏阔时间跨度，既考查对具体史实的掌握，更考查对历史规律和历史思维的理解与运用。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
 *高考历史备考完全指南：从中国古代史到世界近现代史，从史料分析到论述写作，全面掌握历史高考的核心知识与得分策略*
 
 本文将系统覆盖高考历史的完整知识体系，从中国古代政治经济文化到近代中国的屈辱与抗争，从世界古代文明到当代全球化格局，逐一深入解析每个模块的命题规律和备考重点。同时详细讲解高考历史中难度最高的史料分析题和论述题的解题框架，以及不同分数段考生的差异化备考策略。

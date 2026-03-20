@@ -5,7 +5,7 @@ date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "All of us, into blogging or engaged in online activities, at some time or the other has faced the issue of our images and own articles being copied to other sites without our permission. This causes ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -59,5 +59,5 @@ document.onmouseup=reEnable
 </script>    
 ```
 
-![Disable Text Selection and Right Click Code](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Disable Text Selection and Right Click Code](/assets/images/blog/blog-14.webp)
 Disable Text Selection and Right Click Code

@@ -5,7 +5,7 @@ date: 2024-12-28
 categories: ["Leisure"]
 tags: ["solo-dining", "chicago", "restaurants", "chicago-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "deep-dish", "west-loop"]
 excerpt: "Best restaurants for solo dining in Chicago: West Loop bar seats, Chinatown counters, deep dish at the bar, and spots across the city for eating alone."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

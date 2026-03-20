@@ -6,7 +6,7 @@ date: 2024-01-25
 categories: ["Industry"]
 tags: ["TCS Digital coding", "TCS Digital solutions", "TCS competitive coding", "TCS Digital programming"]
 excerpt: "Advanced coding problems at TCS Digital difficulty level with complete solutions. Your competitive programming workbook for Digital."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 render_with_liquid: false
@@ -14,7 +14,7 @@ render_with_liquid: false
 
 The TCS Digital Advanced Coding section tests competitive programming ability - the kind of algorithmic thinking that separates candidates who can read textbook code from those who can write optimal solutions to novel problems under time pressure. This guide is a practice workbook: original problems framed in TCS's narrative style, with complete solutions in both C++ and Java, brute-force-to-optimal approach discussions, complexity analysis, and edge case coverage. Work through these problems the way you would in the actual exam - attempt first, then study the solution approach, then code the solution yourself without reference. The problems are organised by topic category so you can target your preparation systematically.
 
-![TCS Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Guide](/assets/images/blog/blog-13.webp)
 
 ## The TCS Digital Coding Environment: What You Need to Know
 

@@ -5,7 +5,7 @@ date: 2016-09-19
 categories: ["Analytics"]
 tags: ["Master Data Management", "Oracle Data Integrator"]
 excerpt: "The Oracle Business Intelligence Applications is a very useful product for many organizations and often Oracle Hyperion DRM is the master data management tool used for managing master data via ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -14,7 +14,7 @@ The Oracle Business Intelligence Applications is a very useful product for many 
 
 So the master data flows from DRM --> EBS --> BI. But there is an interesting issue that crops up sometimes. The scenario is in the same hierarchy the same segment value can belong to multiple parents in DRM and EBS (which is logically incorrect, but technically feasible), but when such a scenario is integrated with BI Apps using ODI, the entire tree (say X is the duplicate member, and the two occurrences of X roll up to a common node Y, where Y may or may not be the top node of the hierarchy) will get deleted, and users will not be able to see any segment values appearing under that tree (i.e. under Y) since all those does not exist at all in the Dimension Hierarchy table.
 
-![Oracle BI Apps ODI integration with DRM Single Child Multiple Parents Issue](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle BI Apps ODI integration with DRM Single Child Multiple Parents Issue](/assets/images/blog/blog-03.webp)
 Oracle BI Apps ODI integration with DRM Single Child Multiple Parents Issue
 
 To handle this scenario as best as possible, I need to understand the flow how the hierarchy is maintained in BI Apps. The flow of the data is as below:

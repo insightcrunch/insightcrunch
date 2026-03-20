@@ -5,7 +5,7 @@ date: 2025-06-09
 categories: ["Industry"]
 tags: ["DSA interview questions", "DSA preparation", "LeetCode patterns", "coding interview", "data structures and algorithms", "product based company interview", "FAANG interview prep", "competitive programming", "system design", "coding interview patterns"]
 excerpt: "The most complete DSA interview preparation guide for software engineers: topic-wise strategy, 150 curated must-solve problems, pattern recognition techniques, a structured revision plan, and everything you need to crack coding interviews at product-based companies."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 ---
@@ -39,7 +39,7 @@ Before diving into preparation strategy, it is essential to understand what prod
 
 A typical product-based company interview process consists of several rounds. An online assessment (OA) typically precedes on-site or virtual rounds and involves 2-3 coding problems to be solved within 60-90 minutes on a platform like HackerRank, HackerEarth, or CodeSignal. Performance in the OA determines whether you proceed to further rounds. Phone/video screening rounds involve 1-2 coding problems solved live with a recruiter or engineer, usually 45-60 minutes. On-site or virtual interview loops at top-tier companies (sometimes called FAANG-level or product-based companies) typically involve 4-6 rounds: 2-4 coding rounds, 1 system design round (for experienced engineers), and 1-2 behavioural rounds.
 
-![Complete DSA Interview Preparation Guide: Topic-Wise Strategy, 150 Must-Solve Problems, Patterns & Revision Plan for Cracking Product-Based Company Interviews](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Complete DSA Interview Preparation Guide: Topic-Wise Strategy, 150 Must-Solve Problems, Patterns & Revision Plan for Cracking Product-Based Company Interviews](/assets/images/blog/blog-15.webp)
 Complete DSA Interview Preparation Guide — Topic-Wise Strategy, 150 Must-Solve Problems, Patterns and Revision Plan
 
 ### What Interviewers Are Actually Scoring

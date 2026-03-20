@@ -5,7 +5,7 @@ date: 2009-07-13
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "It has been obvious and undeniable for quite a few years now, the rate at which technology is engulfing and taking part in every minute aspect of our day-to-day lives. But seldom we can imagine at ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,5 +18,5 @@ This is indeed where the future of gaming is headed, and I cannot wait to be a p
 
 Read more: [Envisioning the future with technology »](https://insightcrunch.com/2009/07/08/envisioning-the-future-with-technology/)
 
-![Xbox Kinect Future Microsoft Playstation Nintendo Console VR Virtual Reality AR Augmented](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Xbox Kinect Future Microsoft Playstation Nintendo Console VR Virtual Reality AR Augmented](/assets/images/blog/blog-09.webp)
 Microsoft Xbox Future

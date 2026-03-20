@@ -6,14 +6,14 @@ date: 2021-06-27
 categories: ["Industry"]
 tags: ["Infosys Performance Appraisal", "Infosys Appraisal Process", "Infosys iRace Appraisal", "Infosys Self Assessment", "Infosys Performance Rating", "Infosys Appraisal Tips", "Infosys Bell Curve", "Infosys Performance Review"]
 excerpt: "Complete guide to the Infosys performance appraisal process: how iRace works, writing a strong self-assessment, navigating calibration, understanding forced distribution, the appeal process, and how managers evaluate performance at every stage."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-20
 ---
-
 The Infosys performance appraisal is the single most consequential recurring event in an Infosys employee's career. It determines salary increments, variable pay, promotion eligibility, project assignments, and ultimately whether the career trajectory accelerates, plateaus, or begins a decline. Yet most employees navigate it reactively: filling out the self-assessment form in two hours the night before it is due, accepting whatever rating the manager communicates, and spending the rest of the year vaguely hoping for better results next time.
 
-![Infosys Performance Appraisal Deep Dive](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Infosys Performance Appraisal Deep Dive](/assets/images/blog/blog-09.webp)
 
 This guide is for the employee who wants to understand and navigate the process deliberately. It covers every stage of the Infosys appraisal cycle in depth: how the iRace performance management system works, how to set goals that produce strong evidence at year-end, how to write a self-assessment that actually moves your rating, how the calibration process works and what happens inside it, how forced distribution affects every employee regardless of individual performance, what managers are actually evaluating during the review, how to have the appraisal conversation productively, what the appeal process involves and when it makes sense to use it, and how the rating translates to promotion, increment, and career outcomes.
 

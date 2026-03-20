@@ -5,7 +5,7 @@ date: 2009-09-06
 categories: ["Industry"]
 tags: ["Infosys"]
 excerpt: "It is training program conducted in various colleges by Infosys to prepare the freshers on various topics and fields to make them industry ready. Most of the topics covered help the students apply ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,5 +18,5 @@ Read more: [Windows 7 Compatibility: Test your PC »](https://insightcrunch.com/
 
 Students who have undergone the program would be made to sit for a test on joining Infosys. Based on that they would be categorized for lesser or further training, which in either way, is not fatal. Even without doing the course if one just goes through the materials thoroughly it would be helpful as it would help learning and clearing useful concepts. Students or candidates of any company or placed in any organization would be benefitted by having a clear understanding of these relevant concepts. Keep in touch [here](http://feedburner.google.com/fb/a/mailverify?uri=blogspot/YwqG).
 
-![Infosys Training and Hiring](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Infosys Training and Hiring](/assets/images/blog/blog-05.webp)
 Infosys Training and Hiring

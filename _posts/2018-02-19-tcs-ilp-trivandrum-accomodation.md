@@ -5,7 +5,7 @@ date: 2018-02-19
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "TCS ILP Trivandrum accommodation guide: hostel rooms, facilities, laundry, food quality, nearby amenities, and what to pack for your stay."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-15

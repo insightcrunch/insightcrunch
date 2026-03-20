@@ -5,7 +5,7 @@ date: 2018-04-14
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "Detailed TCS ILP Trivandrum experience post: full training account covering sessions, assessments, hostel life, city trips, and batch dynamics."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -58,7 +58,7 @@ On the very first day of joining, I met people from all around the country. The 
 
 My flatmates were from the southern part of India, and through our daily conversations, I absorbed more about their cultures, their cities, their foods, and their ways of understanding the world than I could have learned from any book. The reverse was equally true: they were curious about Gujarat, about Ahmedabad, about the festivals and the food and the particular texture of western Indian life.
 
-![TCS ILP Trivandrum](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS ILP Trivandrum](/assets/images/blog/blog-14.webp)
 
 Discussions ranged from sports to politics to cinema to regional food. The quality of thinking in that batch was genuinely impressive, and debating ideas with people whose starting assumptions were different from yours is one of the fastest ways to sharpen your own thinking methodology. Not in the aggressive, adversarial sense that "debate" sometimes implies, but in the more productive sense of being consistently surprised by perspectives you had not considered.
 

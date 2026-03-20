@@ -6,14 +6,14 @@ date: 2019-11-08
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Score Check", "Portal Guide"]
 excerpt: "Step-by-step guide to check your TCS NQT score - portal navigation, login troubleshooting, and score report."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 You have taken the TCS NQT. The results window has arrived. Now you need to find your score - not a vague idea of whether you "passed," but the actual section-wise scorecard that tells you exactly where you stand and what it means for your TCS application.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-09.webp)
 *The complete step-by-step guide to checking your TCS NQT score - exact portal navigation instructions, what every page of the NextStep portal looks like during score checking, how to read each component of the scorecard, common login and access problems with specific solutions, what to do when the score does not appear, and how the score report connects to the next stage of your application*
 
 This guide is specifically about the mechanics of score checking - the exact steps, the exact screens, the exact troubleshooting for every problem that commonly occurs. If you want to understand what your score means for your career and what to do next, the companion article on NQT results covers that comprehensively. This guide is the technical how-to for getting to your score in the first place.

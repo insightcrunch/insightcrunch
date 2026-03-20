@@ -5,7 +5,7 @@ date: 2025-12-07
 categories: ["Technology"]
 tags: ["SQL", "Chromebook", "Online SQL", "Database", "Data Analysis"]
 excerpt: "You do not need MySQL, PostgreSQL, or any installed database to run SQL queries on a Chromebook. This guide shows you how to query CSV files with full SQL syntax directly in your browser, and walks through ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 32
 author: "Insight Crunch Team"
 ---
@@ -16,7 +16,7 @@ Chromebooks run ChromeOS, a browser-based operating system that does not support
 
 So what do you do when your database course assigns homework, your boss asks for a quick data analysis, or your certification exam is in two weeks and you need to practice writing queries? You open your browser.
 
-![How to Run SQL Queries on Chromebook Without a Database](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How to Run SQL Queries on Chromebook Without a Database](/assets/images/blog/blog-11.webp)
 How to Run SQL Queries on Chromebook Without a Database
 
 The [Report Medic CSV SQL Query Tool](https://reportmedic.org/tools/query-csv-with-sql-online.html) lets you run real SQL queries against CSV files directly in your Chrome browser. No database installation. No server configuration. No account creation. No subscription fees. You upload a CSV file, write a SQL query, and get results instantly. Everything runs locally in your browser, so your data never leaves your device.

@@ -5,7 +5,7 @@ date: 2016-05-06
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "IBM Associate Developer interview experience: selection process, coding test format, technical interview questions, and what IBM looks for in junior hires."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Read more: [IBM Interview Process »](https://insightcrunch.com/2016/06/27/ibm-i
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Interview Process](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![IBM Interview Process](/assets/images/blog/blog-03.webp)
 IBM Interview Process
 
 ## IBM Associate Developer Interview Questions

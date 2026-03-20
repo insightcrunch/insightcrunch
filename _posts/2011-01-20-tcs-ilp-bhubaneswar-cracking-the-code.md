@@ -6,14 +6,14 @@ date: 2011-01-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Assessment Strategy", "Exam Preparation"]
 excerpt: "Proven strategies to crack TCS ILP assessments - test preparation, coding exam tips, and how to score high marks."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Every fresher who walks through the gates of a TCS Initial Learning Program center arrives carrying two things: a bag full of clothes and a head full of anxiety. The first few days are a whirlwind of new faces, new rules, and an avalanche of technical content that can feel completely alien - especially if you spent four years of engineering doing everything except actually coding. Then the assessments start. And suddenly, the stakes feel very real.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-08.webp)
 *A comprehensive guide to cracking every TCS ILP assessment - from functional programming tests to the final technical evaluation*
 
 The good news? Cracking TCS ILP assessments is absolutely achievable, even if you are not a computer science graduate, even if you have never written more than ten lines of code in your life, and even if the very first week of ILP leaves you feeling hopelessly behind. Thousands of freshers before you have been in exactly the same position - staring at a screen full of syntax they cannot parse, surrounded by roommates who seem to absorb concepts effortlessly - and have walked out of ILP with passing scores, strong evaluations, and a project allocation they were proud of.

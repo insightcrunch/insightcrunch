@@ -5,7 +5,7 @@ date: 2025-05-02
 categories: ["Industry"]
 tags: ["AI tools for students", "AI study tools", "ChatGPT for college", "AI essay writing", "best apps for students", "free student tools", "AI note taking", "AI research tools", "AI resume builder", "exam preparation AI"]
 excerpt: "The most complete guide to AI tools for college students: 30 free and freemium apps for studying, essay writing, note-taking, research, resume building, and exam prep, with step-by-step tutorials for getting the most out of each tool."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 ---
@@ -36,7 +36,7 @@ AI tools represent the most significant shift in the student productivity toolki
 
 The students who learn to use AI tools effectively and ethically are developing a skill set that will be genuinely valuable throughout their careers, not just in college. Nearly every knowledge-work profession is being reshaped by AI assistance. Learning to use these tools as a student - understanding what they are good at, what they consistently get wrong, and how to verify their output - builds a capability that compounds throughout a professional lifetime.
 
-![Best AI Tools for College Students: 30 Free Apps for Studying, Essay Writing, Note-Taking, Research, Resume Building & Exam Preparation with Step-by-Step Tutorials](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Best AI Tools for College Students: 30 Free Apps for Studying, Essay Writing, Note-Taking, Research, Resume Building & Exam Preparation with Step-by-Step Tutorials](/assets/images/blog/blog-05.webp)
 Best AI Tools for College Students: 30 Free Apps for Studying, Essay Writing, Note-Taking, Research, Resume Building and Exam Preparation with Step-by-Step Tutorials
 
 ### What Makes an AI Tool Worth Your Time

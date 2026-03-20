@@ -6,14 +6,14 @@ date: 2022-01-05
 categories: ["Industry"]
 tags: ["TCS", "Joining Date", "Planning", "Skill Building"]
 excerpt: "How to plan productively while waiting for TCS joining date - financial tips, skill building, and certifications."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 The period between receiving your TCS offer letter and your actual joining date is one of the most consequential preparation windows in a professional career - and also one of the most wasted. Most candidates spend it alternating between anxious portal-checking and aimless waiting. The candidates who use it well arrive at ILP ahead of peers who did not, complete assessments on first attempt, get allocated to better projects, and build the financial and technical foundations that compound over the first five years.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-14.webp)
 *The complete guide to planning while waiting for TCS joining date - how to predict your joining timeline using the known pipeline stages, what technical skills to build for ILP success, which certifications to complete for skill incentive income from week one, how to build the financial reserves joining requires, how to use the time for personal and professional development that compounds into early career advantage, and the week-by-week plan that converts the waiting period into a genuine head start*
 
 This is not a guide about what to do with free time. It is a guide about what to invest in during a 4-8 month preparation window that will not come again.

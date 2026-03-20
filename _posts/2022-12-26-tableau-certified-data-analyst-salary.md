@@ -5,7 +5,7 @@ date: 2022-12-26
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau is one of the most popular data visualization and analytics tool used in the industry today. The Tableau certified data analyst salary is one of the most commonly asked questions among ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -26,7 +26,7 @@ We have also seen candidates who have successfully passed the exam with less tha
 
 It is important to note that you do not need to have Tableau installed as you will be provided the Tableau tool on a virtual machine by the exam provider. Make sure that you have a driver's license or passport ready as your photo identity document before the examination starts. There are a variety of rules that are mentioned during the Tableau certified data analyst certification exam. The photo identity requirement is the most important tool that candidates should abide by. The next important rule is having a clear desk. The third important rule is passing the technical checks and requirements. The fourth rule is having no phones headphones or external monitors near your exam area. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)
 Tableau Certified Data Analyst Salary
 
 ## Tableau Exam Setup and Questions
@@ -47,7 +47,7 @@ Preparing for each of the types of questions by practicing extensively is one of
 
 Let's learn about each of the types of the questions and the best practices you should follow while answering these questions for the Tableau certification exam. The first type of question in the Tableau certified data analyst certification exam is of multiple choice type as you can see here. In this type of question, you will be provided with a set of options out of which you have to choose the correct answer. You might be presented with different scenarios and be asked to choose which type of Tableau visual would be the best fit to analyze that particular scenario. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)
 
 You might also be asked about different Tableau functionalities which you have to choose from the options given. The questions might ask you to choose which Tableau feature would help you achieve a particular task. Keep in mind that the answers might seem to be very closely related to each other, and you should have a very good understanding of the different Tableau features to make sure that you choose the correct answer. Do not spend a lot of time if you get stuck in any particular question. You can flag any particular question and proceed to the next one, so that you can come back to the flagged questions later on. 
 
@@ -55,7 +55,7 @@ You might also be asked about different Tableau functionalities which you have t
 
 The next type of question which you can expect in the Tableau data analyst certification exam is a multiple response type. In this type of question, there can be more than one correct answer. Hence, you can select two or more options which you find correct based on the question asked. Make sure that you read all the options before choosing the correct answer. This is because the wordings in many of the Tableau certification exam questions are created in such a way that they will confuse the candidates if they are not fully aware of the Tableau functionalities and features. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)
 
 Hence, you can also start using the omission technique to eliminate the wrong options before narrowing down to the correct options. Using this approach will help you make sure that you are choosing only the correct answers in the multiple choice type questions in the Tableau data analyst certification Exam. 
 
@@ -63,7 +63,7 @@ Hence, you can also start using the omission technique to eliminate the wrong op
 
 The next type of question in the Tableau certified data analyst certification exam is of active screen type. An active screen type question consists of a passage that is presented to you with certain blanks in the sentences. There are two types of questions in the active screen type where you have to fill in the blanks in two types of ways. In the first type, there will be a list of options given in a separate pane from where you have to drag and drop the correct words or phrases into the blanks given in the passage. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)
 
 In the second type of active screen question, which we can see here, the options are given in a drop-down form embedded within the passage itself. Hence, in the passage, the blanks you will see will have drop-downs in them, and using the drop-downs you will have to find the correct answer that completes our passage It is important to make sure that you choose the options carefully in both the type of active screen questions. The passages that Tableau will provide will often use a variety of different scenarios and use cases where many of the options might seem related and almost the same. However, you need to make sure that you choose the correct option to complete the different passages that will be provided to you. 
 
@@ -71,7 +71,7 @@ In the second type of active screen question, which we can see here, the options
 
 The next important type of question in the Tableau certified data analyst certification exam is of type build list. In this type of question, you will be provided with a list of options in a mixed order which you have to arrange in a sequence that can be followed to complete a task. It is important to note that not all the options that are given in the unordered list might be relevant. And you will also find that the question mentions in some cases how many options you have to choose to complete your list. For example, a question might be having 10 items in the list but to create the ordered sequential list you might only need 8 of those options. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)
 
 It is important to note that in many of the cases you might be asked to follow a sequence of steps without the availability of the Tableau Desktop tool. The candidate might be confused. Hence, before the exam it is important to make sure that you practice a lot. And while practicing make sure to remember each of the small steps that we're following and navigating in the Tableau Desktop tool. This is because without the availability of Tableau Desktop in some sections of the exam, the candidates might feel lost and might be tempted to choose the wrong answers. 
 
@@ -79,7 +79,7 @@ It is important to note that in many of the cases you might be asked to follow a
 
 The next type of question in the Tableau certified data analyst certification exam is from the hands on lab section. In the hands on lab section, you will be provided with a Windows virtual machine on the left side of your screen, and the list of tasks that you have to perform on the right-hand side. During this particular section of the hands on lab, you will also be provided with the Tableau Help guide PDF version. This is the only section in the exam where as a candidate you will be having access to the Tableau guide resources to help answer your questions. None of the other sections and questions in the exam will allow you to use any Tableau reference material or access the internet. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)
 
 In the hands on lab section also you cannot access the internet, but you have access to the Tableau help guide PDF version in case you need it for reference. There will be a variety of different questions asked in the hands on lab section which you have to answer using the Tableau Desktop tool. Practice with a variety of datasets using the practice exams given here to make sure that you understand fully all the functionalities and features of the tool. The more you practice, the faster you can solve complex problems, which is essential to succeed in the Tableau certified data analyst certification exam. 
 
@@ -89,4 +89,4 @@ If you are able to score good marks in the Tableau data analyst certification pr
 
 The last type of question in the Tableau certified data analyst certification exam is of hot area type. The hot area type question includes a particular scenario, and then you are asked to choose a Tableau button that will accomplish that task. The particular area that you will be selecting will get highlighted in the hot area. Practicing extensively with the different menu items and the functionalities available with the Tableau tool will help you score well. For Tableau hot area type questions, make sure to practice with the variety of datasets provided here that will build up your skills over time. The Tableau certified data analyst certification exam is indeed a great value addition to your resume, and has good chances of increasing your salary in many of the data analyst roles available in different organizations right now.
 
-![Tableau Certified Data Analyst Salary](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-06.webp)

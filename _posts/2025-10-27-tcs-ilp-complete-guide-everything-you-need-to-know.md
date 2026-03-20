@@ -5,7 +5,7 @@ date: 2025-10-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP", "Fresher", "IT Career", "Training"]
 excerpt: "The TCS Initial Learning Program is the bridge between your campus life and your corporate career. This is the most comprehensive guide to TCS ILP ever written, covering every phase, every assessment, every stream, and every survival tip you need to walk in prepared and walk out with a strong rating ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ The TCS Initial Learning Program is the bridge between your campus life and your
 
 This guide answers every single one of those questions and hundreds more. Whether you have just cleared TCS NQT and are waiting for your joining date, or you are days away from reporting to your ILP center, this is the only resource you need.
 
-![TCS ILP Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS ILP Complete Guide](/assets/images/blog/blog-02.webp)
 TCS ILP Complete Guide - Everything You Need to Know Before Joining
 
 We have compiled information from hundreds of ILP alumni across every training center and every stream, verified against the latest curriculum updates, and organized it into a single comprehensive reference. Bookmark this page. You will come back to it many times before and during your ILP.

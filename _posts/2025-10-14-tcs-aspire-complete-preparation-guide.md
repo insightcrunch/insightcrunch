@@ -5,7 +5,7 @@ date: 2025-10-14
 categories: ["Industry"]
 tags: ["TCS", "Aspire", "ILP", "TCS Aspire", "NQT", "Fresher", "IT Career"]
 excerpt: "TCS Aspire is the mandatory pre-ILP online course that every fresher must complete before joining. Your Aspire preparation directly determines your IRA1 performance, your early ILP confidence, and your Aspire Miles score that managers can see. This is the definitive module-by-module breakdown with real question patterns from past batches ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 ---
@@ -14,7 +14,7 @@ TCS Aspire is the mandatory pre-ILP online course that every fresher must comple
 
 Every year, a predictable percentage of freshers treat Aspire as a checkbox exercise, clicking through modules to earn completion credits without actually learning the material. Those same freshers are the ones who panic on IRA1 day, fail the assessment, and face rescheduling to a later batch. This guide exists to make sure you are not one of them.
 
-![TCS Aspire Complete Preparation Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Aspire Complete Preparation Guide](/assets/images/blog/blog-08.webp)
 TCS Aspire Complete Preparation Guide - Modules, Questions, and Tips
 
 This is the most comprehensive Aspire preparation resource available. We cover every module in the Aspire syllabus, the real question patterns that have appeared in past batch assessments, the scoring system and how Aspire Miles work, the connection between Aspire and IRA1, and a week-by-week preparation plan that ensures you walk into ILP fully ready.

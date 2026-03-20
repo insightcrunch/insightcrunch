@@ -5,7 +5,7 @@ date: 2009-06-23
 categories: ["Leisure"]
 tags: ["Google", "The Web", "Thoughts"]
 excerpt: "There has been really increasing debates as to which is best amongst these two giants. Each one beats the other in their own segment making the choice difficult for the end-users. I am an avid ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 7
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -257,5 +257,5 @@ If you are looking for a cool and casual platform just to share some special occ
 
 If you are a professional photographer or even an enthusiast, you must get a Flickr Pro account. Initially though you might find the 24.95$/year a bit too much, but it will allow you to share unlimited photos (or if you want, you can backup all your photos there with permission set to “Private”). Besides, you get several communities to discuss and share your pics where you might find several useful information.
 
-![Google Photos vs Flickr](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Google Photos vs Flickr](/assets/images/blog/blog-01.webp)
 Google Photos vs Flickr

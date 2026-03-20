@@ -6,14 +6,14 @@ date: 2022-06-10
 categories: ["Industry"]
 tags: ["TCS", "Recession", "Hiring Impact", "Economic Downturn"]
 excerpt: "How economic recession affects TCS hiring - impact analysis, historical patterns, and recession-proofing your career."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Recession fears are a recurring feature of the macroeconomic landscape, and every time they intensify, hundreds of thousands of engineering freshers and working professionals ask the same question: what happens to TCS hiring when the economy slows? Understanding how economic downturns actually affect the world's largest IT services company - historically, mechanically, and practically - gives candidates and employees the accurate picture they need to make career decisions during uncertainty.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-02.webp)
 *The complete analysis of how recession affects TCS hiring - what recession actually means for TCS's business model, the historical pattern across the 2001 dot-com bust, the 2008-09 global financial crisis, and the 2020 pandemic contraction, which TCS business segments are most and least recession-sensitive, what specifically happens to fresher hiring volumes, salary hikes, and joining date timelines during downturns, how TCS's financial resilience (cash reserves, deal pipeline, geographic diversification) buffers it against economic shocks, the specific career strategies that protect individual careers during TCS slowdowns, and how to evaluate your own recession exposure based on your role, domain, and client type*
 
 This analysis is grounded in TCS's historical behavior during past recessions and the structural characteristics of TCS's business model that determine recession resilience.

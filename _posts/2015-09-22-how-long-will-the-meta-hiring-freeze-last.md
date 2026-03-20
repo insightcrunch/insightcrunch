@@ -5,7 +5,7 @@ date: 2015-09-22
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Facebook-owner Meta platforms has been continuously cutting their plans to hire engineers every few months. The recent development suggests the plan is to reduce the hiring target by as much as 30%. ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Read more: [How long is IBM hiring process? »](https://insightcrunch.com/2015/1
 
 [s2If current_user_can(access_s2member_level1)]
 
-![Meta Hiring Freeze and Layoffs Fired Sack Lose Job](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Meta Hiring Freeze and Layoffs Fired Sack Lose Job](/assets/images/blog/blog-10.webp)
 Meta Hiring Freeze and Layoffs
 
 ## Meta Hiring Freeze Duration

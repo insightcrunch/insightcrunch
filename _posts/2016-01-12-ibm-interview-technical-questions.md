@@ -5,7 +5,7 @@ date: 2016-01-12
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "IBM technical interview questions: common programming, data structure, OS, and networking questions asked in IBM's technical screening rounds."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Read more: [IBM Interview Questions »](https://insightcrunch.com/2016/02/24/ibm
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Interview Technical Questions](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![IBM Interview Technical Questions](/assets/images/blog/blog-14.webp)
 IBM Interview Technical Questions
 
 ## IBM Interview Technical Questions

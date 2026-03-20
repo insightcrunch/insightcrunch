@@ -5,7 +5,7 @@ date: 2025-03-23
 categories: ["Industry"]
 tags: ["upsc-preparation", "ias-preparation", "upsc-hindi-guide", "upsc-beginners-guide"]
 excerpt: "UPSC की तैयारी शून्य से कैसे शुरू करें? प्रीलिम्स, मेन्स, इंटरव्यू की पूरी रणनीति, बुकलिस्ट और अभ्यास गाइड।"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

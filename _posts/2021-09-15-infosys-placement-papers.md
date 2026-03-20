@@ -6,14 +6,14 @@ date: 2021-09-15
 categories: ["Industry"]
 tags: ["Infosys Placement Papers", "Infosys Previous Year Questions", "Infosys Question Paper", "Infosys Placement Paper with Answers", "Infosys Sample Papers", "Infosys Mock Test", "Infosys Online Test Questions", "Infosys Exam Pattern"]
 excerpt: "Infosys placement papers with 200+ previous year questions, detailed solutions, and exam pattern analysis for quantitative, logical, verbal, and pseudocode sections."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 ---
 
 Preparing for the Infosys placement test without working through placement papers is like preparing for a driving test by only reading the traffic rulebook. The theoretical knowledge is necessary but not sufficient. Placement papers, when used correctly, do something that topic-wise practice cannot: they expose you to the exact format, the exact difficulty calibration, and the exact time pressure of the actual test so that nothing on the day itself feels unfamiliar.
 
-![Infosys Placement Papers](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Infosys Placement Papers](/assets/images/blog/blog-07.webp)
 
 What makes this guide different from the question dumps on most placement preparation sites is the quality of what accompanies each question. Every question here comes with a complete solution showing exactly how to arrive at the answer, the shortcut or formula that experienced candidates use to solve it faster than first-principles calculation, the trap the question is designed to trigger, and the difficulty label that tells you whether a question is from the standard difficulty range or from the harder end that separates good scores from excellent ones.
 

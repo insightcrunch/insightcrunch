@@ -5,7 +5,7 @@ date: 2012-01-22
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "The IT sector boasts of team work and team spirit at the very core of its values. It comes as no surprise that the kind of work that is being done inevitably demands absolute team work. A perfect ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -16,7 +16,7 @@ Now coming to team work, people are really considered lucky here if they are in 
 
 According to popular studies of human psychology, people tend to feel stress a lot less when they know there are people around him whom he can rely upon in times of distress. Your  body would thus respond more positively in case such a stress situation arises. Working in a good team also teaches you interpersonal skills which are vital in the service sector.
 
-![IT Sector Team Work](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![IT Sector Team Work](/assets/images/blog/blog-09.webp)
 IT Sector Team Work
 
 Getting to know people from all sorts of backgrounds is another advantage in a team. Sometimes we need to adjust ourselves just a bit to move along with the team. These all are lessons in their own way. It seldom happens that all the team members are from the same region or have the same tastes and values. It is pretty normal for them to differ and that's why individuals are individuals. Your team member might get stuck in a tricky assignment which you are pretty aware how to overcome. It becomes your moral obligation and duty to help him out. Well, if you are *selfish*, then also you need to help him out. Guess, why? Here comes the tricky part.     

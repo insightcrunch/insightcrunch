@@ -6,14 +6,14 @@ date: 2012-09-15
 categories: ["Industry"]
 tags: ["TCS", "Joining Delay", "Fresher Waiting", "Productivity Tips"]
 excerpt: "Why TCS delays joining dates, how long delays typically last, and productive things to do while waiting for your date."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 You have the offer letter. You passed the NQT, cleared the interview, submitted all the documents through NextStep, passed the background verification, and completed the pre-joining formalities. TCS has accepted you. You are, technically speaking, a TCS employee. And yet months have passed without a joining date, while others in your batch community keep posting updates about dates they have received, centers they have been assigned to, and training programs that are already underway.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-13.webp)
 *Everything you need to know about TCS joining date delays - why they happen, what drives extended waits, how long they typically last, and the most productive ways to use the waiting time*
 
 The TCS joining delay is one of the most emotionally difficult experiences in the Indian IT fresher journey - not because anything has necessarily gone wrong, but because sustained uncertainty without a visible end point is genuinely psychologically taxing. The gap between receiving an offer letter and actually joining a company can stretch from a few weeks to more than a year, and navigating that gap well requires both accurate understanding of what is actually happening and practical strategies for using the time productively.

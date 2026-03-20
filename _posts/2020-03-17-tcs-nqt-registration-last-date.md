@@ -6,14 +6,14 @@ date: 2020-03-17
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Registration", "Deadline"]
 excerpt: "TCS NQT registration deadlines - last dates, late registration options, and tips to complete registration on time."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Missing the TCS NQT registration deadline is one of the most avoidable and consequential mistakes a candidate can make. The exam itself might be weeks away when the deadline passes - but you cannot participate in it. The next opportunity may be three to four months later. An entire quarter of your job-seeking window is lost to a missed form submission.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-05.webp)
 *The complete guide to TCS NQT registration deadlines - what the last date means and where to find it, the step-by-step registration process so you complete it correctly the first time, what documents and information you need before you begin, how eligibility verification works, what happens if you miss the deadline, whether late registration is ever possible, how to troubleshoot registration issues, and how to confirm that your registration was successfully processed*
 
 This guide gives you everything needed to register for the TCS NQT correctly, on time, with a confirmed application that will not have technical issues on exam day.

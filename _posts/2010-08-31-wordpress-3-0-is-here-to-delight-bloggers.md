@@ -5,14 +5,14 @@ date: 2010-08-31
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "The world’s one of the most popular blogging software, Wordpress, has released it’s 13th version in its history. It’s Wordpress 3.0, codenamed Thelonious. With the version 2.9 being downloaded more ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 The world’s one of the most popular blogging software, Wordpress, has released it’s 13th version in its history. It’s Wordpress 3.0, codenamed Thelonious. With the version 2.9 being downloaded more than 10 million times, surely Wordpress has been a favorite to too many users. The new version has a new default theme, a lot of bug fixes and is extremely light-weight.
 
-![Blogging in WordPress](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Blogging in WordPress](/assets/images/blog/blog-08.webp)
 Blogging in WordPress
 
 Read more: [I am aware of Java. But this! »](https://insightcrunch.com/2010/09/03/i-am-aware-of-java-but-this/)

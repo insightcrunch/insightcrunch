@@ -6,14 +6,14 @@ date: 2025-03-29
 categories: ["Technology"]
 tags: ["ai supply chain", "logistics tools", "inventory management", "demand forecasting", "ai tools"]
 excerpt: "How AI optimizes supply chains - demand forecasting, routing, inventory, and warehouse ops."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 61
 author: "Insight Crunch Team"
 ---
 
 Supply chain and logistics operations generate enormous volumes of data - demand signals, inventory levels, supplier lead times, transportation routes, warehouse pick sequences, customs documentation - and the organizations that can extract actionable intelligence from that data faster than their competitors hold a structural advantage. AI has become the primary mechanism through which leading supply chain organizations turn data volume into decision speed. Amazon's fulfillment network uses AI to pre-position inventory before demand materializes. UPS's ORION route optimization system saves 100 million miles of driving annually. Maersk's predictive maintenance AI prevents container ship breakdowns that would otherwise disrupt thousands of supply chains. These are not incremental improvements - they represent fundamental transformation of how supply chains operate. For professionals working in supply chain, logistics, procurement, and operations, understanding which AI capabilities are production-ready and how to apply them to your specific context is increasingly a core professional competency. This guide covers the complete AI supply chain toolkit: demand forecasting, inventory optimization, transportation and routing, warehouse management, procurement intelligence, risk and resilience, and the specific tools and workflows that supply chain teams are deploying.
 
-![AI for Supply Chain and Logistics - Complete Guide - Insight Crunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![AI for Supply Chain and Logistics - Complete Guide - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 This guide covers: AI for demand forecasting and planning, inventory optimization and management, transportation routing and last-mile delivery, warehouse operations and automation, procurement and sourcing, supply chain visibility and risk management, customs and trade compliance, and the AI tool landscape for supply chain professionals.
 

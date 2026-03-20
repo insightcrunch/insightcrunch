@@ -5,7 +5,7 @@ date: 2022-12-30
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau is one of the most popular data visualization tools in the market today. All the businesses around the world today are storing large amounts of data. Data needs to be analyzed to get the ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -26,7 +26,7 @@ The Certified Associate Architect certification is aimed at assessing a candidat
 
 Explore the menu above to get access to a variety of data sets along with the Tableau Data Analyst questions. After reading the different Tableau concepts like continuous and discrete along with the level of detail expressions and order of operations, practice with different types of data sets to enhance your skills. You should not get accustomed to any one particular type of data set because the Tableau Certified Data Analyst certification exam will be asking you questions from a variety of perspectives and data sets. Before appearing for the exam, it is important that you should be fully aware of how to connect and transform data, create different types of views and dashboards, exploring and analyzing the data, and publishing and managing the content in Tableau. 
 
-![Which Tableau certification is best?](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Which Tableau certification is best?](/assets/images/blog/blog-01.webp)
 Which Tableau certification is best
 
 ## Is it hard to get Tableau Certification?
@@ -41,33 +41,33 @@ The Tableau Certified Data Analyst certification exam is a proctored exam, which
 
 Let's learn more about the knowledge based section. The knowledge base section can have questions that are of multiple choice type, multiple response type, active screen type. In the active screen type question, you can have different types like build list, drag and drop, and hot area. In the multiple choice type question, the candidate will have to select one answer from a set of provided options. It is important to remember that you should carefully read all the options that is provided to you before you choose the correct answer. In the multiple response type, you can select more than one option as the correct answer. Hence, there can be two or more correct answers to the questions that are of multiple response type. 
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-01.webp)
 
 ## Tableau Certification Question Types
 
 In many of the cases it can be noted that Tableau uses some wordings that often confuses candidates. In such cases it is important to see and evaluate every option before confirming your answer. You can also focus on using the elimination tactic by which you can eliminate the wrong options that you are sure of. Once you've eliminated the wrong options, you will be narrowing down to the correct answers and that will help you find the correct options. The active screen type of questions incorporate certain interactive elements in the question like drop down lists, checkboxes, option buttons, or drag and drop functionalities. Candidates can select answer using these elements that are provided in a building list type of question which is a subcategory of the active screen type. 
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-01.webp)
 
 A candidate's ability is evaluated on how well they can rank a list of items or sequentially order a series of tasks. You will be given with a split screen with a list of options on the left side of your screen. On the right side of your screen, you will have to create an ordered list which will be your answer to the question. You can use the arrow buttons so that you can move the items from the left to the right and sort them in the correct order. Each of the options that will be presented on the left side of the screen can be used only one time. In the drag and drop type of question, you will need to evaluate object associations and placement with the different drag and drop item types. 
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-01.webp)
 
 ## Tableau Certification Latest Patterns
 
 In the drag and drop type of question, candidates will be required to select and reposition different answer options in a list of graphics which can be like a paragraph. Candidates will have to drag the different elements that is the answer options from the left side of the screen into the appropriate position on the right side of the screen which is the answer area. It is important to note that the answer area will often contain a passage type of text with certain blanks which needs to be filled the correct answers. The candidate will be dragging the items from the left and dropping it into the blank areas in the answer area.
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-01.webp)
 
 Another type of particularly popular question in the knowledge based section for the Tableau Certified Data Analyst certification exam is the hot area. Hot area is a type of question in which your ability to look at correct regions on an image is evaluated. In a hot area type of question, you will be presented with the image, and you will have to submit the answer to the question by selecting a specific location on the image. The locations are activated by hot area objects. This is a type of active screen question that you can expect in the Tableau Certified Data Analyst certification exam. In the next type of question, you will get performance based questions where candidates will be working on Tableau in a hands-on lab type of task. 
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-01.webp)
 
 ## Tableau Certification Resources during Exam
 
 The responses will be automatically graded within the Tableau lab environment. It is important to practice a lot with the sample types of practice questions that is given in the mock tests above to make sure that you're fully ready with the relevant concepts essential for the Tableau Certified Data Analyst Certification exam. During the Tableau Certified Data Analyst certification exam, there will be no access given to the candidates to any kind of resources or to the internet. Only during the hands on lab section, candidates will be provided with the PDF version of the Tableau Help. For none of the other sections will there be any kind of access permitted to either internet or any other outside application. Tableau also recommends that candidates are encouraged to comment and share feedback on items in the exam.
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-01.webp)
 
 The comments that Tableau receives are considered as valuable feedback for every question in the exam. The experiences that candidates described during the exam help Tableau to enhance the subsequent questions and the different formats of the exam. Tableau also mentioned that in case you encounter any technical issues during the Tableau Certified Data Analyst certification exam, you should be contacting the proctor. The proctor is always available during the entire duration of the Tableau Certified Data Analyst certification exam to make sure that you do not face any difficulty in answering the question and navigating the different resources provided to you for the exam. In case you might need to restart the exam, the proctor will guide you if the need for such a scenario arises. 
 

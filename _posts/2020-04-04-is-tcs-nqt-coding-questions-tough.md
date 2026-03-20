@@ -5,7 +5,7 @@ date: 2020-04-04
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Is TCS NQT coding tough? Honest difficulty analysis of programming questions, language-wise comparison, and what level of preparation actually clears it."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 100
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Tata Consultancy Services conducts the National Qualifier Test (NQT) that is tak
 
 If you meet the TCS NQT eligibility criteria, you will be provided with an exam date. Int he TCS NQT exam you will be asked questions based on various topics like numerical ability, logical reasoning, verbal skills, and coding knowledge. The TCS NQT exam is a mixture of basic and advanced questions. Thus you need to make sure you have strong foundation of each of the concepts. Extensive practice will help you prepare for the TCS NQT exam comprehensively. I have created a dynamic set of practice exams below that you can attempt unlimited times and filter by topic, difficulty, and your expertise.
 
-![TCS NQT Coding Questions Aptitude Syllabus Eligibility Practice](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS NQT Coding Questions Aptitude Syllabus Eligibility Practice](/assets/images/blog/blog-07.webp)
 TCS NQT Coding Questions
 
 ## TCS NQT Coding Questions
@@ -6228,7 +6228,7 @@ TCS NQT Coding Question 57
 
 **C Code**:
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-07.webp)
 
 [/s2If]
 
@@ -6243,7 +6243,7 @@ TCS NQT Coding Question 58
 
 **C Code**:
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-07.webp)
 
 [/s2If]
 
@@ -6310,9 +6310,9 @@ TCS NQT Coding Question 60
 
 - Program should prompt user that you want to enter a new record. If ‘Y’ ask user for new details. If ‘N’, program should terminate. (Use event controlled loop)
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-07.webp)
 
-![](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![](/assets/images/blog/blog-07.webp)
 
 [/s2If]
 

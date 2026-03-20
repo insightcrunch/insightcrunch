@@ -5,7 +5,7 @@ date: 2025-03-14
 categories: ["Industry"]
 tags: ["upsc-preparation", "ias-preparation", "upsc-telugu-guide", "upsc-beginners-guide"]
 excerpt: "UPSC ప్రిపరేషన్ మొదటి నుండి ఎలా ప్రారంభించాలి? ప్రిలిమ్స్, మెయిన్స్, ఇంటర్వ్యూ వ్యూహాలు, పుస్తకాల జాబితా, ప్రాక్టీస్ గైడ్."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---

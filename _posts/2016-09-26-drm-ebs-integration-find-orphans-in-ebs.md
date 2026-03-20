@@ -5,14 +5,14 @@ date: 2016-09-26
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often observed during integration with different EBS ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often observed during integration with different EBS environments that orphans are sometimes created in EBS. It gives rise to issues during reporting for the transactions for that specific orphan and so becomes necessary to track the orphans and keep them identified for troubleshooting purposes.
 
-![Oracle DRM Hierarchy in EBS](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle DRM Hierarchy in EBS](/assets/images/blog/blog-10.webp)
 Oracle DRM Hierarchy in EBS
 
 **Related Post:** [DRM EBS Integration Load Segment Values and Hierarchies »](http://rahul-bhattacharya.blogspot.com/2016/09/load-segment-values-and-hierarchies-drm.html)
@@ -29,5 +29,5 @@ WHERE FLEX_VALUE_SET_ID IN ('1014867')
 
 Here the value 1014867 represents one of the segment hierarchies, and multiple values can be used in the IN clause to check all the hierarchies; thus identifying all the orphans in EBS. Once the orphans are identified, they need to be re-configured in DRM and the DRM EBS integration need to be executed one more time to bring back the segment value within a hierarchy in EBS.
 
-![Oracle DRM EBS Integration Find Orphans in EBS](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oracle DRM EBS Integration Find Orphans in EBS](/assets/images/blog/blog-10.webp)
 Oracle DRM EBS Integration Find Orphans in EBS

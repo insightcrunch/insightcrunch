@@ -6,14 +6,14 @@ date: 2017-07-19
 categories: ["Industry"]
 tags: ["TCS", "Interview Tips", "Interview Preparation", "HR Round"]
 excerpt: "Proven TCS interview tips - how to crack technical and HR rounds, common questions, body language, and do's and don'ts."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 Most TCS interview guides tell you what to study. This one tells you how to perform. There is a meaningful difference. Every candidate preparing for TCS interviews has access to the same lists of topics, the same practice platforms, and the same general advice to review data structures and prepare your projects. The candidates who consistently get selected are not necessarily the ones who studied more - they are the ones who translate their preparation into effective interview performance.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-01.webp)
 *The complete TCS interview tips guide - covering everything from how to walk into the room to how to leave it, what your body language communicates, how to handle questions you cannot answer, the specific do's and don'ts that determine selection, and the preparation strategies that build genuine interview confidence*
 
 Interview performance is a skill. Like any skill, it can be developed deliberately. The tips in this guide are drawn from the aggregated experience of thousands of TCS interview candidates - both selected and not-selected - filtered for the patterns that most consistently determine outcomes. They cover every dimension of the interview experience: preparation, presentation, the technical round, the managerial round, the HR round, body language, handling difficult questions, and the specific behaviors that distinguish candidates who get offers from those who do not.

@@ -5,14 +5,14 @@ date: 2024-08-02
 categories: ["Industry"]
 tags: ["upsc-prelims", "gs-paper-1", "upsc-kannada-guide", "upsc-booklist", "upsc-strategy"]
 excerpt: "UPSC ಪ್ರಿಲಿಮ್ಸ್ GS ಪೇಪರ್ 1 ಸಂಪೂರ್ಣ ತಯಾರಿ: ಇತಿಹಾಸ, ಭೂಗೋಳ, ಆರ್ಥಿಕತೆ, ವಿಜ್ಞಾನ ವಿಷಯವಾರು ತಂತ್ರ ಮತ್ತು ಬುಕ್‌ಲಿಸ್ಟ್."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
 ---
 UPSC ಸಿವಿಲ್ ಸರ್ವೀಸಸ್ ಪ್ರಾಥಮಿಕ ಪರೀಕ್ಷೆಯ ಜನರಲ್ ಸ್ಟಡೀಸ್ ಪೇಪರ್ 1 UPSC ಮೇನ್ಸ್‌ಗೆ ಹೋಗುವ ಮೊದಲ ನಿರ್ಣಾಯಕ ಬಾಗಿಲು. ಈ ಪೇಪರ್ 200 ಅಂಕಗಳಿಗೆ, 100 MCQ ಪ್ರಶ್ನೆಗಳು. ಕರ್ನಾಟಕದಿಂದ ಬರುವ ಅಭ್ಯರ್ಥಿಗಳಿಗೆ ಕೆಲವು ವಿಶೇಷ ಅನುಕೂಲಗಳಿವೆ - ಇಂಗ್ಲಿಷ್ ಪ್ರಾವೀಣ್ಯ, ಬಲವಾದ ಶೈಕ್ಷಣಿಕ ಹಿನ್ನೆಲೆ, ಸಮೃದ್ಧ ಸಾಂಸ್ಕೃತಿಕ ಪರಂಪರೆ. ಸರಿಯಾದ ತಂತ್ರದೊಂದಿಗೆ ಈ ಅನುಕೂಲಗಳನ್ನು ಬಳಸಿಕೊಂಡರೆ UPSC ಪ್ರಿಲಿಮ್ಸ್ ಜಯಿಸುವುದು ಸಾಧ್ಯ.
 
-![UPSC ಪ್ರಿಲಿಮ್ಸ್ GS ಪೇಪರ್ 1 ತಯಾರಿ ತಂತ್ರ](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![UPSC ಪ್ರಿಲಿಮ್ಸ್ GS ಪೇಪರ್ 1 ತಯಾರಿ ತಂತ್ರ](/assets/images/blog/blog-09.webp)
 
 ## GS ಪೇಪರ್ 1 - ಪೂರ್ಣ ರಚನೆ
 

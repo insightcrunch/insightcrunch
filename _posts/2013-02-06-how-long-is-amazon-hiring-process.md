@@ -5,7 +5,7 @@ date: 2013-02-06
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon offers a wide variety of products and services and hence there are a variety of job positions available at any point of time at Amazon. The hiring process at Amazon is long and exhaustive ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -24,7 +24,7 @@ A candidate must use relevant keywords in their resume or LinkedIn profile so th
 
 The application submitted status of the application in Amazon job portal means that Amazon has received your application but yet to go through it and process it. The second status which is under consideration at Amazon means that the hiring managers and different teams at Amazon are actively reviewing your application. The status under consideration means that your application has chances of moving forward to the subsequent stages and might be waiting to get selected by a more relevant team which might be better suited for your skill sets. The next status is no longer under consideration, which means that the application that you have submitted has been reviewed by the different teams and managers at Amazon, and they have decided that there is no position currently available at Amazon that meets your skill sets. 
 
-![How long is Amazon hiring process](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![How long is Amazon hiring process](/assets/images/blog/blog-14.webp)
 How long is Amazon hiring process
 
 ## Amazon Application Statuses
@@ -39,7 +39,7 @@ Candidates should have the functional and technical skills required to do the jo
 
 If you see the Amazon job descriptions, which are provided in the job portals, they are very detailed and descriptive and mentions different types of works that the candidate will be expected to do as part of their roles and responsibilities. Hence, it is important to read each one of them carefully before you understand what you are going to get into. It will also give you an idea of the type of tasks that you will be performing on a day-to-day basis. There will be a variety of simulations and work samples that might be provided along with the job description that will give you an idea of the job. The online tests that candidates are supposed to take are built by industry experts. The questions are framed to analyze the personality and skills of the candidates from a variety of perspectives.
 
-![Amazon Work Culture and Interviews](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Amazon Work Culture and Interviews](/assets/images/blog/blog-14.webp)
 Amazon Work Culture and Interviews
 
 ## Amazon Culture and Principles

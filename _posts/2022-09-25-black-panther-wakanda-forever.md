@@ -5,7 +5,7 @@ date: 2022-09-25
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "The movie Black Panther: Wakanda Forever is a sequel to the immensely popular Black Panther movie by Marvel Studios. The film will focus on the titular kingdom. There is a lot of hype around the film ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -22,7 +22,7 @@ The movie Black Panther: Wakanda Forever is due Novemeber 2022. The character of
 
 Keep reading: [Kyndryl Stock Price »](https://insightcrunch.com/2022/09/06/kyndryl-stock-price/)
 
-![Black Panther 2 Wakanda Forever casts Namor as main villain](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Black Panther 2 Wakanda Forever casts Namor as main villain](/assets/images/blog/blog-07.webp)
 Black Panther 2 Wakanda Forever casts Namor as main villain
 
 ## Black Panther: Wakanda Forever Cast

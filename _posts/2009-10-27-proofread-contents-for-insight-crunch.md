@@ -5,7 +5,7 @@ date: 2009-10-27
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Insight Crunch is the most happening place for discussions and information on the IT sector, the latest technology, and the gadgets that emerge. This site is viewed by thousands every day and have ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -32,5 +32,5 @@ I am looking for expert proofreaders to correct articles on various IT work cult
 
 Articles will be approved in 4-5 weeks. Payments will be processed by the 7th of the following month after approval. For example, if you submit an article on March 2nd, you can expect approval on April 6th, and payment on May 7th.
 
-![Guest Post for Insight Crunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Guest Post for Insight Crunch](/assets/images/blog/blog-10.webp)
 Guest Post for Insight Crunch

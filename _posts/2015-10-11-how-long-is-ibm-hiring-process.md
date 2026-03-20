@@ -5,7 +5,7 @@ date: 2015-10-11
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "One of the largest corporations today helping in the advancement of multiple fields of technology is IBM. Hundreds of thousands of candidates every year aspire and apply to be a part of this ..."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-15
@@ -18,7 +18,7 @@ Read more: [IBM Interview Technical Questions »](https://insightcrunch.com/2016
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM hiring process](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![IBM hiring process](/assets/images/blog/blog-14.webp)
 How long is the IBM Hiring Process
 
 ## How long is the IBM hiring process?

@@ -6,14 +6,14 @@ date: 2021-10-01
 categories: ["Industry"]
 tags: ["HackWithInfy", "HackWithInfy Preparation", "HackWithInfy Questions", "HackWithInfy Rounds", "HackWithInfy Prizes", "Infosys HackWithInfy", "Infosys Power Programmer", "Coding Competition India"]
 excerpt: "Master every round of HackWithInfy with this complete preparation guide covering problems, scoring, and prize tiers."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 HackWithInfy is the competitive programming contest that Infosys runs annually for final-year engineering students across India. It is one of the most consequential coding competitions a student can participate in, not because it offers the most technically demanding problems or the largest prize pool in the Indian competitive programming landscape, but because its top performers receive direct Infosys job offers at premium designations: the Power Programmer and Specialist Programmer roles, which come with packages of 8 to 10 LPA compared to the standard Systems Engineer package of 3.6 LPA.
 
-![HackWithInfy Preparation Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![HackWithInfy Preparation Guide](/assets/images/blog/blog-09.webp)
 
 For any final-year engineering student who is serious about a strong career start in technology, HackWithInfy represents the most direct available path from a single contest performance to a significantly higher lifetime earnings trajectory. The difference between entering Infosys as a Power Programmer versus a Systems Engineer, when compounded over a ten-year career, amounts to many lakhs of rupees.
 
