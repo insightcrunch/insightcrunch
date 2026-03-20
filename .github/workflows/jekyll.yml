@@ -60,13 +60,22 @@ jobs:
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python _scripts/update_freshness.py --batch-size 15
 
-      - name: Commit freshness and meta updates
+      # ── Blog image assignment (schedule/manual only) ──
+      # Distributes images from assets/images/blog/ across posts.
+      # Idempotent: only touches files when pool or posts change.
+      # To trigger redistribution: add new .webp files to assets/images/blog/ and push,
+      # then run workflow_dispatch or wait for next scheduled build.
+      - name: Assign blog images to posts
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python _scripts/assign_blog_images.py
+
+      - name: Commit automated post updates
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _posts/ _data/freshness_manifest.json _data/meta_variants.json
-          git diff --cached --quiet || git commit -m "chore: refresh last_updated and rotate meta descriptions [skip ci]"
+          git diff --cached --quiet || git commit -m "chore: refresh posts - freshness, meta, images [skip ci]"
           git push
 
       - name: Generate related posts data
