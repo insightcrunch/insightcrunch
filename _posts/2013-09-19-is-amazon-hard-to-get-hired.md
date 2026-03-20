@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Is Amazon hard to get hired?"
+title: "Is Amazon Hard to Get Hired? Timeline and Acceptance Rate"
+page_title: "Is Amazon Hard to Get Hired? Hiring Timeline, Interview Process, Leadership Principles, and the Real Acceptance Rate"
 date: 2013-09-19
 categories: ["Industry"]
 tags: ["Amazon"]

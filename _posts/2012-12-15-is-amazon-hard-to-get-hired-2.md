@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Is Amazon hard to get hired?"
+title: "Amazon Customer Service Jobs: Remote Roles and How to Apply"
+page_title: "Amazon Customer Service Jobs: Remote Work Opportunities, Mechanical Turk, and How to Apply for Customer Representative Positions"
 date: 2012-12-15
 categories: ["Industry"]
 tags: ["Amazon"]

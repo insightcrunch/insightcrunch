@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Infosys Salary Structure: CTC and In-Hand Breakdown"
-page_title: "Infosys Salary Structure for Freshers and Experienced Professionals: In-Hand Pay, Deductions, Variable Pay, and CTC Breakdown at Every Level"
+title: "Infosys Salary: Component Breakdown With In-Hand Calculations"
+page_title: "Infosys Salary Structure: Component-by-Component Breakdown With Realistic In-Hand Calculations at Every Designation Level"
 date: 2024-04-20
 categories: ["Industry"]
 tags: ["Infosys", "Infosys Salary", "Infosys CTC", "Infosys In-Hand Salary", "Infosys Salary Structure", "Infosys Freshers Salary", "IT Salary India", "Infosys Pay Scale"]

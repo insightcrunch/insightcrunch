@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Infosys Work Culture, Onsite, and Exit Guide"
-page_title: "Infosys Work Culture, Onsite Opportunities, Bench Policy, and Resignation Process: What Current and Former Employees Say"
+title: "Infosys Bench Survival, Onsite Selection, and Resignation"
+page_title: "Infosys Work Culture, Bench Survival, Onsite Selection Process, and Complete Resignation and Exit Formalities Guide"
 date: 2024-06-04
 categories: ["Industry"]
 tags: ["Infosys Work Culture", "Infosys Onsite", "Infosys Bench Policy", "Infosys Resignation", "Infosys Notice Period", "Infosys Bond Clause", "Infosys Service Agreement", "Infosys Exit Process"]

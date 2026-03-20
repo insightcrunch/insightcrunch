@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Infosys Power Programmer and DSE: Full Guide"
-page_title: "Infosys Power Programmer and Digital Specialist Engineer: Eligibility, Hiring Process, Salary Package, and How It Differs From Systems Engineer"
+title: "Infosys Power Programmer vs DSE vs SE: Which Track Fits You"
+page_title: "Infosys Power Programmer vs Digital Specialist Engineer vs Systems Engineer: Which Fresher Track Fits Your Profile and Goals"
 date: 2024-05-07
 categories: ["Industry"]
 tags: ["Infosys Power Programmer", "Infosys DSE", "Digital Specialist Engineer", "Infosys SP", "Infosys Specialist Programmer", "Infosys Salary", "Infosys Careers", "HackWithInfy"]

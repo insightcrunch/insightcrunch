@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Infosys vs TCS vs Wipro vs HCL: Full Comparison"
-page_title: "Infosys vs TCS vs Wipro vs HCLTech vs Cognizant: Honest Comparison on Salary, Work Culture, Onsite, Bond, and Career Growth"
+title: "Infosys vs TCS vs Wipro vs HCL: Career-Level Comparison"
+page_title: "Infosys vs TCS vs Wipro vs HCL vs Cognizant: Dimension-by-Dimension Career Comparison on Salary, Culture, Onsite, and Growth"
 date: 2024-05-29
 categories: ["Industry"]
 tags: ["Infosys vs TCS", "TCS vs Wipro", "Infosys vs Wipro", "Infosys vs Cognizant", "Infosys vs HCL", "IT Companies Comparison", "Best IT Company India", "IT Salary Comparison"]

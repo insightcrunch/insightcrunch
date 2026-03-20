@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "InfyTQ Preparation Guide: Exam Pattern and Tips"
-page_title: "InfyTQ Preparation Guide: Registration, Certification, Exam Pattern, Coding Questions, and How to Get the Infosys Offer Through InfyTQ"
+title: "InfyTQ: Coding Patterns, Scores, and How They Map to Offers"
+page_title: "InfyTQ Preparation: Certification Strategy, Coding Question Patterns, Scoring Logic, and How Performance Maps to Infosys Offers"
 date: 2024-04-28
 categories: ["Industry"]
 tags: ["InfyTQ", "InfyTQ Preparation", "InfyTQ Exam Pattern", "Infosys InfyTQ", "InfyTQ Coding Questions", "InfyTQ Certification", "Infosys Hiring", "InfyTQ Guide"]

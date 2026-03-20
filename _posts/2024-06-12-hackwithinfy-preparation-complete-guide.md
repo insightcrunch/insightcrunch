@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "HackWithInfy Preparation: Rounds and Strategy"
-page_title: "HackWithInfy Preparation Guide: Registration, Round-by-Round Breakdown, Coding Problems, Prize Structure, and How to Win the Power Programmer Offer"
+title: "HackWithInfy: How to Reach the Finals and Win Power Programmer"
+page_title: "HackWithInfy Preparation: How to Reach the Finals and Win the Power Programmer Offer Through Competitive Programming Mastery"
 date: 2024-06-12
 categories: ["Industry"]
 tags: ["HackWithInfy", "HackWithInfy Preparation", "HackWithInfy Questions", "HackWithInfy Rounds", "HackWithInfy Prizes", "Infosys HackWithInfy", "Infosys Power Programmer", "Coding Competition India"]

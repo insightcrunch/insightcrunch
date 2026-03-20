@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Infosys Career Growth: Promotion Path Explained"
-page_title: "Infosys Career Growth and Promotion Timeline: Systems Engineer to Technology Lead to Manager and Beyond"
+title: "Infosys Promotion Timeline: Five-Year vs Twelve-Year Climb"
+page_title: "Infosys Promotion Timeline: What Separates a Five-Year Career Climb From a Twelve-Year One Across Every Designation Level"
 date: 2024-05-23
 categories: ["Industry"]
 tags: ["Infosys Career Growth", "Infosys Promotion", "Infosys Designation Hierarchy", "Infosys Appraisal", "Infosys Technology Lead", "Infosys Career Path", "Infosys Levels", "Infosys IJP"]

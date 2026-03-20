@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Infosys Mysore Training: What to Expect"
-page_title: "Infosys Mysore Training Experience: Daily Schedule, Stream Allocation, Assessment Pattern, and Everything New Joiners Must Know"
+title: "Infosys Mysore Training: Ground-Level Reality for New Joiners"
+page_title: "Infosys Mysore Training: The Ground-Level Reality New Joiners Wish They Knew Before Arriving at the Global Education Centre"
 date: 2024-05-16
 categories: ["Industry"]
 tags: ["Infosys Mysore Training", "Infosys Training Experience", "Infosys Mysore Campus", "Infosys Foundation Program", "Infosys Stream Allocation", "Infosys Training Schedule", "Infosys New Joiners", "Infosys Onboarding"]

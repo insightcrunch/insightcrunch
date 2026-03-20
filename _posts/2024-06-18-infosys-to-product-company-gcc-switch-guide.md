@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Switch From Infosys to Product Company or GCC"
-page_title: "How to Switch From Infosys to a Product Company or GCC: Skills to Build, Resume Strategy, Interview Preparation, and Realistic Timeline"
+title: "Infosys to Product Company or GCC: Complete Transition Plan"
+page_title: "How to Switch From Infosys to a Product Company or GCC: The Complete Transition Playbook With Skills, Resume, and Interview Strategy"
 date: 2024-06-18
 categories: ["Industry"]
 tags: ["Infosys to Product Company", "Service to Product Switch", "Infosys to Google", "Infosys to Amazon", "Infosys Career Change", "GCC Jobs India", "IT Services to GCC", "Infosys Exit Strategy"]
