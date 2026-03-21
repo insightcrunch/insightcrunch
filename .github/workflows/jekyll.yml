@@ -69,12 +69,20 @@ jobs:
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: python _scripts/assign_blog_images.py
 
+      # ── Keyword audit (schedule/manual only) ──
+      # Scans all posts for proper nouns (cities, companies, tech) in the URL
+      # slug or title that are missing from page_title or body. Outputs
+      # admin/keyword-audit-data.json consumed by the admin Keyword Audit page.
+      - name: Run keyword audit
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: python _scripts/keyword_audit.py
+
       - name: Commit automated post updates
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _posts/ _data/freshness_manifest.json _data/meta_variants.json
+          git add _posts/ _data/freshness_manifest.json _data/meta_variants.json admin/keyword-audit-data.json
           git diff --cached --quiet || git commit -m "chore: refresh posts - freshness, meta, images [skip ci]"
           git push
 
