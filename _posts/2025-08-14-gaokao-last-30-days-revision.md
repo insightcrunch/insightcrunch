@@ -6,14 +6,14 @@ date: 2025-08-14
 categories: ["Industry"]
 tags: ["高考", "高考最后30天", "考前冲刺", "高考备考策略", "Gaokao", "Final Revision", "Last Month", "Exam Strategy"]
 excerpt: "高考最后30天终极冲刺指南：逐日备考安排、必复习与可放弃内容的判断标准、模拟考节奏设置、焦虑管理与营养睡眠策略，帮助你在高考当天达到最佳竞技状态。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
 
 距离高考只剩最后30天。这30天，是整个高考备考周期中强度最高、节奏最紧、心理压力最大的阶段，也是决定高考最终成绩的最关键时期。如何在这30天里，以最科学的策略最大化备考效果，同时保持身体健康和心理稳定，是每一位高考生最迫切需要回答的问题。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
 *高考最后30天冲刺完全指南：逐日备考计划、模拟考节奏、焦虑管理与考前状态调整，帮助你在那个最重要的早晨以最好的状态走进考场*
 
 本文将提供高考最后30天最完整的冲刺指南：整体策略框架（什么必须做，什么可以放弃）；逐周的备考重点；哪些内容值得在最后30天复习，哪些内容此时已经无济于事；模拟考的最优节奏；焦虑管理的实用技术；睡眠和饮食的具体建议；以及如何在高考当天达到最佳竞技状态。

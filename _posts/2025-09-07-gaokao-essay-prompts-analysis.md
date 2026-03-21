@@ -6,14 +6,14 @@ date: 2025-09-07
 categories: ["Industry"]
 tags: ["高考", "高考作文", "作文题目", "语文", "写作策略", "Gaokao", "Essay Writing", "Zuowen", "Chinese Language"]
 excerpt: "深度解析高考作文：历年著名作文题目点评、高分作文的结构秘诀、哲思主题的论证方法、材料作文的审题技巧，以及60分大作文的完整写作策略。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 ---
 
 高考语文作文（大作文），满分60分，是整张高考试卷中单题分值最高的题目，也是最能区分高分考生与中等考生的核心战场。在150分的语文总分中，60分的作文占比高达40%，这意味着作文的质量，在很大程度上决定了语文成绩的层次，进而影响高考总分和录取结果。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-07.webp)
 *高考作文深度解析：从历年著名题目的命题逻辑，到高分作文的结构秘诀，从哲思主题的论证策略，到材料作文的审题方法，全面掌握60分大作文的写作密码*
 
 高考作文不只是"写得好看"那么简单，它是考查学生对社会问题的思考深度、对中国文化的传承积累、对逻辑论证的组织能力以及对语言表达的精准驾驭的综合性测试。本文将从以下几个维度系统解析高考作文：历年著名作文题目的命题逻辑与赏析；高分作文的结构模板与语言策略；常见主题类型的论证框架；审题技巧与立意方法；以及备考中的写作积累策略。

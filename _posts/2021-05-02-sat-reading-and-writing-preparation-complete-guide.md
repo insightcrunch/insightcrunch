@@ -6,7 +6,7 @@ date: 2021-05-02
 categories: ["Industry"]
 tags: ['SAT', 'SAT Reading', 'SAT Writing', 'SAT Reading and Writing', 'SAT Grammar Rules', 'SAT Reading Comprehension', 'SAT Reading Strategies', 'SAT Passage Types']
 excerpt: "The complete SAT Reading and Writing preparation guide covering all question categories, passage types, grammar rules, rhetoric questions, and adaptive module strategy."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
@@ -17,7 +17,7 @@ The SAT Reading and Writing section is the first section you encounter on the Di
 
 This guide covers every dimension of the Reading and Writing section: the structure and adaptive module system, all four question categories with detailed breakdowns of every question type, the passage types you will encounter, grammar and punctuation rules tested, rhetoric and synthesis strategies, pacing and flagging techniques, and preparation plans for every score level. Whether you are starting from scratch or pushing for a perfect 800, this is the only Reading and Writing guide you need.
 
-![SAT Reading and Writing Preparation Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Reading and Writing Preparation Guide](/assets/images/blog/blog-04.webp)
 
 ## Table of Contents
 

@@ -5,15 +5,14 @@ date: 2019-12-25
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Kolkata", "Fresher", "Hostel", "New Town", "Rajarhat", "Salt Lake", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Kolkata for ILP associates. Covers the Rajarhat New Town and Salt Lake campuses, apartment-style accommodation, the legendary Kolkata food scene, Metro connectivity, room quality, costs, female associate housing, the Bengali cultural experience, climate preparation, and everything you need to know before arriving for ILP in India's cultural capital."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-21
 ---
-
 Kolkata is the TCS ILP city that surprises people. Associates who arrive expecting a slow, old-fashioned city discover instead a place with one of the most vibrant food cultures in India, a cultural richness that is genuinely unmatched, and an IT corridor in Rajarhat New Town that is modern, well-planned, and growing rapidly. The accommodation in Kolkata tends to be apartment-style rather than hotel-style, which gives it a more home-like feel than some other ILP cities. The cost of living is lower than in Chennai, Hyderabad, or Pune, which makes the financial math of ILP more comfortable. And the Bengali hospitality that permeates the city creates a warmth in the daily experience that many ILP alumni describe as one of the most memorable aspects of their training period.
 
-![TCS Accommodation Kolkata - Complete Hostel and Housing Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Accommodation Kolkata - Complete Hostel and Housing Guide](/assets/images/blog/blog-02.webp)
 TCS Accommodation Kolkata - Complete Hostel and Housing Guide
 
 For the broader picture of how TCS accommodation works across all ILP cities, including the deduction structure, salary impact, and general policies, read the [TCS Accommodation Complete Guide](https://insightcrunch.com/2020/01/18/tcs-accommodation-complete-guide/). If you are still preparing for the TCS recruitment assessment, the [TCS NQT Preparation Guide](https://reportmedic.org/tools/tcs-nqt-preparation-guide.html) on ReportMedic covers the exam comprehensively. And for ILP-specific preparation covering the technical curriculum, assessments, and rating system, use the [TCS ILP Preparation Guide](https://reportmedic.org/tools/tcs-ilp-preparation-guide.html).

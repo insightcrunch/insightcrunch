@@ -5,15 +5,14 @@ date: 2019-11-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Gandhinagar", "Gujarat", "Garima Park", "GIFT City", "Infocity", "Fresher", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Gandhinagar for associates at the Garima Park SEZ campus and GIFT City office. Covers the 10,000-seat Garima Park delivery center, the GIFT City international financial hub, the Infocity ecosystem, long-term accommodation in India's greenest planned capital, the dry state policy, Gujarati food culture, PG and rental options across Gandhinagar sectors, and everything you need for both ILP and base branch living in Gujarat's capital."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-21
 ---
-
 Gandhinagar is not just a TCS ILP city. It is one of TCS's largest campuses in western India, with a permanent workforce of over 8,000 professionals operating from the 10,000-seat Garima Park SEZ campus, the Infocity offices, and the newer GIFT City presence. For freshers who receive Gandhinagar as their base branch, this is not a temporary training posting but a long-term career location that offers a quality of life, a cost of living, and a cultural richness that are genuinely distinctive among Indian IT cities.
 
-![TCS Accommodation Gandhinagar - Complete Housing Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Accommodation Gandhinagar - Complete Housing Guide](/assets/images/blog/blog-07.webp)
 TCS Accommodation Gandhinagar - Complete Housing Guide for Garima Park and GIFT City
 
 The distinction between Gandhinagar as an ILP city and Gandhinagar as a base branch matters for accommodation planning. ILP associates spend approximately three months in accommodation that is either TCS-provided (residential ILP) or self-arranged (non-residential ILP). Base branch associates are choosing a home for months or years. The accommodation priorities, the neighborhoods worth considering, and the budget planning differ significantly between the two scenarios.

@@ -5,15 +5,14 @@ date: 2019-11-07
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Guwahati", "Assam", "Northeast India", "Fresher", "Hostel", "Universal Ecogreens", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Guwahati for ILP associates. Covers the NEDFi House training center and IIT Guwahati campus, Universal Ecogreens accommodation at Betkuchi, the Brahmaputra riverside living experience, Assamese and northeast Indian food culture, the spectacular Shillong and Cherrapunji weekend destinations, the unique cultural immersion of northeast India, room quality, costs, female associate housing, monsoon considerations, and everything you need before arriving for ILP in India's gateway to the northeast."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-21
 ---
-
 Guwahati is the TCS ILP city that changes how you think about India. For the majority of TCS freshers, who come from states south or west of Bengal, Guwahati is the first experience of northeast India, a region that is geographically, culturally, linguistically, and culinarily distinct from the India they have known. The Brahmaputra river, wider than any river most associates have seen, flows through the city with a power and presence that redefines what a river can be. The hills of Meghalaya rise on the southern horizon, promising weekend adventures to Shillong, Cherrapunji, and Dawki that are among the most visually stunning in the entire subcontinent.
 
-![TCS Accommodation Guwahati - Complete Hostel and Housing Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS Accommodation Guwahati - Complete Hostel and Housing Guide](/assets/images/blog/blog-13.webp)
 TCS Accommodation Guwahati - Complete Hostel and Housing Guide
 
 The second thing to understand is that Guwahati is a genuine ILP center, not a temporary arrangement. TCS signed an MoU with IIT Guwahati and the Assam state government to establish a dedicated training facility in the northeast, and the center has trained thousands of associates since becoming operational. The center has the capacity to train up to 200 professionals at a time, and ILP associates have access to the world-class facilities of the IIT Guwahati campus.

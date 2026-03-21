@@ -6,7 +6,7 @@ date: 2021-02-27
 categories: ["Industry"]
 tags: ['SAT Expression of Ideas', 'SAT Transitions', 'SAT Rhetorical Synthesis', 'SAT Notes Questions', 'SAT Sentence Placement', 'SAT Effective Language', 'SAT Writing Strategy', 'SAT Transition Words']
 excerpt: "Master SAT Expression of Ideas questions including transitions, notes-based synthesis, sentence placement, and effective language use with worked examples and strategies."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 ---
@@ -17,7 +17,7 @@ Expression of Ideas questions test your ability to improve the effectiveness of 
 
 This question category accounts for approximately 8 to 12 of the 54 total Reading and Writing questions, making it the second-largest category after grammar. Unlike grammar questions, where a fixed set of rules determines the answer, Expression of Ideas questions require you to evaluate the logic and flow of ideas. The correct answer is not the one that follows a rule but the one that makes the writing work better as communication.
 
-![SAT Expression of Ideas Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Expression of Ideas Complete Guide](/assets/images/blog/blog-10.webp)
 
 Many students find these questions challenging because they feel more subjective than grammar questions. But Expression of Ideas questions are not subjective. Each one has a single correct answer determined by the logical relationships between ideas, the stated purpose of the writing task, or the specific information that must be communicated. This guide teaches you to see the logic that determines the answer, turning what feels like guesswork into systematic reasoning.
 
