@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surviving TCS ILP - Tips for Beginners"
-page_title: "Surviving TCS ILP - Essential Tips for Non-CS Candidates, Struggling Trainees, and Anyone Finding ILP Challenging"
+page_title: "Surviving TCS Bhubaneswar ILP - Essential Tips for Non-CS Candidates, Struggling Trainees, and Anyone Finding ILP Challenging"
 date: 2011-01-16
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Survival Tips", "Non-CS Candidates"]
