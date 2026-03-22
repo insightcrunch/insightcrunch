@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考最后30天冲刺完全指南 - 每日备考策略、模拟考节奏与考前状态调整"
-page_title: "高考最后30天冲刺完全指南 - 逐日备考安排、哪些内容必须复习哪些可以放弃、模拟考节奏、焦虑缓解与如何在考试当天达到最佳状态"
+page_title: "高考最后30天冲刺完全指南 - 逐日备考安排、哪些内容必须复习哪些可以放弃、模拟考节奏、焦虑缓解与如何在考试当天达到最佳状态 Gaokao"
 date: 2025-08-14
 categories: ["Industry"]
 tags: ["高考", "高考最后30天", "考前冲刺", "高考备考策略", "Gaokao", "Final Revision", "Last Month", "Exam Strategy"]
