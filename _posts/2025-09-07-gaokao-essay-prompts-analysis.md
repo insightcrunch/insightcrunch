@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考作文题目深度解析 - 著名题目分析、高分结构、哲思主题与60分作文写作策略完全指南"
-page_title: "高考作文题目深度解析 - 历年热门题目、高分结构模板、哲学思辨主题分析与60分作文写作策略完全指南"
+page_title: "高考作文题目深度解析 - 历年热门题目、高分结构模板、哲学思辨主题分析与60分作文写作策略完全指南 Gaokao"
 date: 2025-09-07
 categories: ["Industry"]
 tags: ["高考", "高考作文", "作文题目", "语文", "写作策略", "Gaokao", "Essay Writing", "Zuowen", "Chinese Language"]
