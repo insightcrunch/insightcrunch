@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "TCS ILP LAP and Reschedule - Complete Guide for Freshers"
-excerpt: "Everything you need to know about TCS ILP LAP (Learning Advancement Program) and the rescheduling process. Understand what triggers LAP, how rescheduling works, how to avoid it, and what happens to your career timeline if your ILP gets postponed. Based on real batch experiences and documented TCS processes."
+excerpt: "TCS ILP LAP and reschedule explained: what triggers LAP, how the rescheduling process works, timeline, impact on salary, and how to recover your standing."
 date: 2025-08-22
 author: "Insight Crunch Team"
 categories: ["Industry"]
 tags: ["TCS", "IRA", "TCS ILP", "LAP", "Fresher", "Reschedule", "Diagnostics"]
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 25
+last_updated: 2026-03-22
 ---
-
 If you have recently received your TCS joining letter or are preparing for the Initial Learning Program, there is one topic that generates more anxiety than almost anything else in the fresher community - the possibility of being placed into LAP or having your ILP rescheduled. Online forums are full of panicked questions. Will I lose my offer? Will I be fired on day one? What happens if I fail IRA? The fear is understandable, but much of it comes from incomplete information, secondhand rumors, and a general confusion about what LAP and rescheduling actually mean within the TCS training system.
 
 This guide breaks down exactly what LAP means, what triggers a reschedule, how the two differ from each other, what the real consequences look like, and most importantly, how you can position yourself to avoid both entirely. The information here draws from the documented TCS ILP process, official FAQ material shared with incoming trainees, and the accumulated experiences of candidates across multiple ILP batches at centers including Trivandrum, Hyderabad, Chennai, Ahmedabad, Kolkata, and others.
