@@ -4,12 +4,12 @@ title: "TCS ILP Streams and Domains - Java, .NET, SAP, ITIS, CSP, Python Explain
 date: 2025-09-23
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Streams", "Java", ".NET", "SAP", "ITIS", "CSP", "Python", "Fresher"]
-excerpt: "Your assigned ILP stream determines your technical curriculum, your project phase technology, and often your first real project at TCS. Yet most freshers know almost nothing about their stream before arriving at ILP. This is the definitive guide to every major TCS ILP stream with real curriculum details, assessment patterns from past batches, career trajectories, and honest evaluations ..."
+excerpt: "TCS ILP streams explained: Java, .NET, SAP, ITIS, CSP, Python. How streams are assigned, what each curriculum covers, and how it shapes your TCS career."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 25
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 Your assigned ILP stream determines your technical curriculum, your project phase technology, and often your first real project at TCS. Yet most freshers know almost nothing about their stream before arriving at the training center. They receive a stream assignment via their Tech Lounge allocation and spend weeks wondering whether they got a "good" stream or a "bad" one, without any real information to judge.
 
 This guide ends that uncertainty. We cover every major TCS ILP stream in comprehensive detail: the exact curriculum, the assessment patterns reported by past batch alumni, the project phase experience, the career trajectory after ILP, the market demand, and the honest evaluation of what each stream means for your long-term career.

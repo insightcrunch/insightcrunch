@@ -9,8 +9,8 @@ excerpt: "最全面的高考选科策略指南：物理vs历史如何选、12种
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 高考选科，是新高考制度下高一学生最重要的学业决策之一。在3+1+2模式的框架下，每个学生需要在物理和历史中选一门作为必选，再从化学、生物、地理、政治四门中选两门，构成个人独特的选科组合。这个看似简单的三选组合，实际上对未来三年的备考路径、大学专业选择空间和毕业去向，都有深远的影响。
 
 ![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)

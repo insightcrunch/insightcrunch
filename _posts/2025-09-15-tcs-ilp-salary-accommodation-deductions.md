@@ -4,12 +4,12 @@ title: "TCS ILP Salary, Accommodation, and Deductions - Complete Breakdown"
 date: 2025-09-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Salary", "TCS Salary", "Fresher", "IT Career", "Accommodation"]
-excerpt: "How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? These are the most stressful financial questions every TCS fresher faces, and most joining letters leave them unanswered. This is the complete financial breakdown of ILP life, with real salary figures reported by past batch alumni ..."
+excerpt: "TCS ILP salary breakdown: monthly in-hand pay after deductions, hostel accommodation costs, food expenses, first paycheck timeline, and PF contribution."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 25
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? Can you survive on the ILP salary without dipping into savings?
 
 These are the most stressful financial questions every TCS fresher faces before joining, and most joining letters leave them inadequately answered. The gap between the CTC figure in your offer letter and the actual rupees that land in your bank account during ILP is significant and often shocking. Freshers who arrive unprepared for this reality face genuine financial stress during a period when they should be focused on learning.
