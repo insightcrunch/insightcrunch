@@ -1,33 +1,9 @@
 {
-  "generated": "2026-03-22T04:47:48Z",
+  "generated": "2026-03-22T05:06:48Z",
   "total_posts": 774,
-  "flagged_posts": 39,
-  "clean_posts": 735,
+  "flagged_posts": 38,
+  "clean_posts": 736,
   "posts": [
-    {
-      "filename": "2010-09-20-tcs-ilp-ahmadabad-2.md",
-      "slug": "tcs-ilp-ahmadabad-2",
-      "url": "/2010/09/20/tcs-ilp-ahmadabad-2/",
-      "title": "TCS ILP Ahmedabad - Detailed Review",
-      "page_title": "TCS ILP Ahmadabad - Detailed Review of Training Facilities, Accommodation, Food, City Life, and Trainee Experience",
-      "has_page_title": true,
-      "date": "2010-09-20",
-      "word_count": 11996,
-      "issues": [
-        {
-          "keyword": "ahmedabad",
-          "type": "MISSING_FROM_PAGE_TITLE",
-          "severity": "critical",
-          "detail": "\"ahmedabad\" is in the title but absent from page_title",
-          "in_slug": false,
-          "in_title": true,
-          "in_page_title": false,
-          "body_mentions": 259
-        }
-      ],
-      "critical_count": 1,
-      "warning_count": 0
-    },
     {
       "filename": "2010-09-20-tcs-ilp-ahmadabad.md",
       "slug": "tcs-ilp-ahmadabad",
