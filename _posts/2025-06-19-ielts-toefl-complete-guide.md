@@ -4,12 +4,12 @@ title: "Complete IELTS & TOEFL Preparation Guide: Study Plans, Free Resources, B
 date: 2025-06-19
 categories: ["Industry"]
 tags: ["IELTS preparation", "TOEFL study plan", "study abroad", "study in Canada", "IELTS band 7", "free IELTS material", "study in UK", "study in Germany", "study in Australia", "English proficiency test"]
-excerpt: "The most comprehensive guide to IELTS and TOEFL preparation: structured study plans, free and paid resource recommendations, section-by-section band score strategies, and a complete breakdown of the English language requirements and admission process for Canada, UK, Germany, and Australia."
+excerpt: "IELTS and TOEFL preparation guide: study plans, free resources, section-wise band score strategies, and score requirements for top study abroad..."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 ## Table of Contents
 
 - [Why English Proficiency Tests Are the Gateway to International Education](#why-english-tests)

@@ -4,12 +4,12 @@ title: "Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock M
 date: 2025-06-14
 categories: ["Industry"]
 tags: ["SIP investment", "mutual fund for beginners", "income tax saving", "PPF vs NPS", "how to invest", "side income India", "personal finance India", "stock market beginners", "tax saving India", "financial planning"]
-excerpt: "A complete personal finance guide for Indian salaried professionals and young earners: SIP and mutual fund basics, PPF vs NPS comparison, stock market entry, every major income tax saving instrument explained, and practical side income ideas to build wealth from scratch."
+excerpt: "Personal finance for Indians: SIP basics, mutual fund selection, PPF vs NPS, stock market entry, income tax saving under 80C, and budgeting frameworks."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 ## Table of Contents
 
 - [Why Personal Finance Is the Most Underpractised Skill in India](#why-personal-finance)

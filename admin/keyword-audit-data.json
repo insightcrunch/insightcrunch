@@ -1,43 +1,9 @@
 {
-  "generated": "2026-03-22T01:51:12Z",
+  "generated": "2026-03-22T02:16:17Z",
   "total_posts": 774,
-  "flagged_posts": 290,
-  "clean_posts": 484,
+  "flagged_posts": 289,
+  "clean_posts": 485,
   "posts": [
-    {
-      "filename": "2009-02-19-racism-row-over-new-york-post.md",
-      "slug": "racism-row-over-new-york-post",
-      "url": "/2009/02/19/racism-row-over-new-york-post/",
-      "title": "Racism row over New York Post",
-      "page_title": "",
-      "has_page_title": false,
-      "date": "2009-02-19",
-      "word_count": 58,
-      "issues": [
-        {
-          "keyword": "york",
-          "type": "NO_PAGE_TITLE",
-          "severity": "warning",
-          "detail": "Post has no page_title field at all; \"york\" only in title",
-          "in_slug": true,
-          "in_title": true,
-          "in_page_title": null,
-          "body_mentions": 0
-        },
-        {
-          "keyword": "york",
-          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
-          "severity": "critical",
-          "detail": "\"york\" is in the URL slug but never appears in the body",
-          "in_slug": true,
-          "in_title": true,
-          "in_page_title": null,
-          "body_mentions": 0
-        }
-      ],
-      "critical_count": 1,
-      "warning_count": 1
-    },
     {
       "filename": "2025-10-02-tcs-ilp-training-centers-comparison.md",
       "slug": "tcs-ilp-training-centers-comparison",
