@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考历史与演变完全指南 - 从科举制度到现代高考的一千四百年教育传承"
-page_title: "高考历史与演变完全指南 - 隋代科举起源、1905年废除、1952年建立、文革停办、1977年恢复到新高考改革的完整历程"
+page_title: "高考历史与演变完全指南 - 隋代科举起源、1905年废除、1952年建立、文革停办、1977年恢复到新高考改革的完整历程 Gaokao"
 date: 2025-10-09
 categories: ["Industry"]
 tags: ["高考", "高考历史", "科举制度", "教育改革", "1977高考", "Gaokao", "History", "Imperial Examination", "Education Reform"]
