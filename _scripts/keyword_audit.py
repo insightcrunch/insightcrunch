@@ -136,7 +136,11 @@ def detect_issues(filename, fm, body):
     """Return list of issue dicts for a single post."""
     issues = []
     slug_words = set(slug_tokens(filename))
-    page_title = fm.get('page_title', '').lower()
+    raw_page_title = fm.get('page_title', '')
+    # When page_title is absent, the site falls back to title for <title>,
+    # so we audit against the effective value rather than flagging a gap.
+    effective_page_title = (raw_page_title if raw_page_title else fm['title']).lower()
+    has_explicit_page_title = bool(raw_page_title)
     body_lower = body.lower()
     title_lower = fm['title'].lower()
 
@@ -159,15 +163,19 @@ def detect_issues(filename, fm, body):
     for word in sorted(candidates):
         in_title = word in title_lower
         in_slug  = word in slug_words
-        in_page_title = word in page_title if page_title else None
+        in_effective_pt = word in effective_page_title
         body_count = len(re.findall(r'\b' + re.escape(word) + r'\b', body_lower))
         word_count = len(body.split())
 
         severity = 'ok'
         detail = ''
 
-        # ── Check page_title ──
-        if page_title and in_title and not in_page_title:
+        # ── Check effective page_title ──
+        # The effective page title is page_title when present, otherwise
+        # title (which the site uses as the fallback <title> tag).
+        # Only flag when the keyword is genuinely missing from whichever
+        # value the browser will actually render.
+        if has_explicit_page_title and in_title and not in_effective_pt:
             issues.append({
                 'keyword': word,
                 'type': 'MISSING_FROM_PAGE_TITLE',
@@ -178,16 +186,17 @@ def detect_issues(filename, fm, body):
                 'in_page_title': False,
                 'body_mentions': body_count,
             })
-
-        if not page_title and in_title:
+        elif in_slug and not in_effective_pt:
+            # Keyword lives in the URL slug but the effective <title>
+            # (whether explicit page_title or fallback title) lacks it.
             issues.append({
                 'keyword': word,
-                'type': 'NO_PAGE_TITLE',
+                'type': 'SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE',
                 'severity': 'warning',
-                'detail': f'Post has no page_title field at all; "{word}" only in title',
-                'in_slug': in_slug,
+                'detail': f'"{word}" is in the URL slug but absent from the effective page title',
+                'in_slug': True,
                 'in_title': in_title,
-                'in_page_title': None,
+                'in_page_title': in_effective_pt,
                 'body_mentions': body_count,
             })
 
@@ -200,7 +209,7 @@ def detect_issues(filename, fm, body):
                 'detail': f'"{word}" is in the URL slug but never appears in the body',
                 'in_slug': True,
                 'in_title': in_title,
-                'in_page_title': in_page_title,
+                'in_page_title': in_effective_pt,
                 'body_mentions': 0,
             })
         elif in_slug and word_count > 2000 and body_count < 3:
@@ -211,7 +220,7 @@ def detect_issues(filename, fm, body):
                 'detail': f'"{word}" is in the URL slug but only {body_count}x in {word_count} words',
                 'in_slug': True,
                 'in_title': in_title,
-                'in_page_title': in_page_title,
+                'in_page_title': in_effective_pt,
                 'body_mentions': body_count,
             })
 
@@ -223,7 +232,7 @@ def detect_issues(filename, fm, body):
                 'detail': f'"{word}" is in the title but never appears in the body',
                 'in_slug': False,
                 'in_title': True,
-                'in_page_title': in_page_title,
+                'in_page_title': in_effective_pt,
                 'body_mentions': 0,
             })
         elif in_title and not in_slug and word_count > 2000 and body_count < 3:
@@ -234,7 +243,7 @@ def detect_issues(filename, fm, body):
                 'detail': f'"{word}" is in the title but only {body_count}x in {word_count} words',
                 'in_slug': False,
                 'in_title': True,
-                'in_page_title': in_page_title,
+                'in_page_title': in_effective_pt,
                 'body_mentions': body_count,
             })
 
