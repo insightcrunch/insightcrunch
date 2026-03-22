@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考选科策略完全指南 - 物理vs历史、最优组合、专业适配与常见误区全面解析"
-page_title: "高考选科策略完全指南 - 物理vs历史如何选、最佳选科组合、大学专业门开到哪里、赋分博弈与常见误区全面解析"
+page_title: "高考选科策略完全指南 - 物理vs历史如何选、最佳选科组合、大学专业门开到哪里、赋分博弈与常见误区全面解析 Gaokao"
 date: 2025-09-23
 categories: ["Industry"]
 tags: ["高考", "高考选科", "选科策略", "物理历史", "选科组合", "Gaokao", "Subject Selection", "Strategy", "Academic Planning"]
