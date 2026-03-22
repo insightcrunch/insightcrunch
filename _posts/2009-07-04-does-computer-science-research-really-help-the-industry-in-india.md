@@ -4,11 +4,11 @@ title: "Does COMPUTER SCIENCE research really help the industry in India ?"
 date: 2009-07-04
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "*This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer ..."
+excerpt: "Does CS research in India actually benefit the industry? A guest post examining the gap between academic research and real-world IT application."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 6
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-22
 ---
 *This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer science research.*
 
