@@ -53,7 +53,7 @@ Before comparing the specifics, understanding the scale and strategic positionin
 
 **Wipro** is the third-largest player by revenue in this group. Wipro's technology business emerged from a diversified conglomerate with interests in consumer products, infrastructure engineering, and other sectors. This heritage gives Wipro a somewhat different organizational culture from pure-play IT services firms. Wipro has been through multiple rounds of leadership change and strategic repositioning over the years, and its culture is frequently described as less homogeneous than TCS or Infosys, with significant variation by business unit and by acquisition history. Wipro has made several acquisitions of specialized technology companies in recent cycles, bringing new capabilities and cultures into the fold.
 
-**HCLTech** (formerly HCL Technologies) is the fourth company in this group by revenue and occupies a distinctive positioning within the peer set. HCLTech has consistently been more willing to take on infrastructure, engineering services, and product support work than its peers, which has historically given it access to a different type of client work and a different technology environment for employees. HCLTech is known for a more flexible and entrepreneurial culture than TCS or Infosys, and it has been particularly strong in the US and European markets for specific service lines.
+**HCLTech** (formerly HCL Technologies) is the fourth company in this group by revenue and occupies a distinctive positioning within the peer set. HCL has consistently been more willing to take on infrastructure, engineering services, and product support work than its peers, which has historically given it access to a different type of client work and a different technology environment for employees. HCL is known for a more flexible and entrepreneurial culture than TCS or Infosys, and it has been particularly strong in the US and European markets for specific service lines.
 
 **Cognizant** differs from the other four in one important respect: it is incorporated in the United States and is publicly listed on the NASDAQ. Despite having most of its delivery operations in India and a large Indian employee base, Cognizant's corporate structure and governance reflect its US-domiciled character. This affects the work culture (it tends to be somewhat more Western in its management practices than TCS or Infosys), the client base (predominantly US-focused), and some aspects of career management. Cognizant grew rapidly through the early part of this century but has gone through more turbulent periods since, including significant headcount reductions in certain cycles.
 
@@ -80,7 +80,7 @@ The fresher salary landscape across the five companies reflects each company's s
 | TCS | Systems Engineer / Ninja | 3.36 to 3.5 LPA | 23,000 to 24,000 |
 | Infosys | Systems Engineer | 3.6 LPA | 24,500 to 25,000 |
 | Wipro | Project Engineer | 3.5 LPA | 24,000 to 24,500 |
-| HCLTech | Graduate Engineer Trainee | 3.5 LPA | 24,000 to 24,500 |
+| HCL | Graduate Engineer Trainee | 3.5 LPA | 24,000 to 24,500 |
 | Cognizant | Programmer Analyst Trainee | 4.0 to 4.5 LPA | 27,000 to 30,000 |
 
 Notes: CTC figures represent the standard fresher package and may vary by hiring cycle. Cognizant's standard package is slightly higher than peers at the base level in most recent cycles. All figures are approximate and candidates should verify current packages from official sources.
