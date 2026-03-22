@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考地理备考完全指南 - 自然地理、人文地理、区域地理全考纲深度解析与得分策略"
-page_title: "高考地理备考完全指南 - 自然地理、人文地理、地图判读、区域地理与灾害地理全考纲解析"
+page_title: "高考地理备考完全指南 - 自然地理、人文地理、地图判读、区域地理与灾害地理全考纲解析 Gaokao"
 date: 2025-12-20
 categories: ["Industry"]
 tags: ["高考", "高考地理", "地理备考", "自然地理", "人文地理", "区域地理", "Gaokao", "Geography", "Humanities Preparation", "Study Guide"]
