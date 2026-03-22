@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考与IIT-JEE深度比较 - 数学难度、备考强度与教育文化全面解析"
-page_title: "高考vs IIT-JEE完全比较指南 - 数学物理化学难度、竞争比例、辅导文化与职业影响深度对比"
+page_title: "高考vs IIT-JEE完全比较指南 - 数学物理化学难度、竞争比例、辅导文化与职业影响深度对比 Gaokao"
 date: 2025-11-02
 categories: ["Industry"]
 tags: ["高考", "IIT-JEE", "高考对比", "中印考试", "考试比较", "Gaokao", "IIT-JEE", "Exam Comparison", "India vs China"]
