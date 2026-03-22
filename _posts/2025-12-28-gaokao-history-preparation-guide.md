@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考历史备考完全指南 - 古代史、近现代史、世界史全考纲深度解析与得分策略"
-page_title: "高考历史备考完全指南 - 中国古代史、中国近代史、世界史、史料分析与论述题全题型解析"
+page_title: "高考历史备考完全指南 - 中国古代史、中国近代史、世界史、史料分析与论述题全题型解析 Gaokao"
 date: 2025-12-28
 categories: ["Industry"]
 tags: ["高考", "高考历史", "历史备考", "中国古代史", "中国近代史", "世界史", "Gaokao", "History", "Humanities Preparation", "Study Guide"]
