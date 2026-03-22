@@ -4,11 +4,11 @@ title: "Next World"
 date: 2009-04-26
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Have been recently viewing a program. What it going to be like with the advent of technology in the next few decades. Days of communication technology are over with nearly every sphere of our life ..."
+excerpt: "The future of technology beyond communication: robotics, AI, biotech, and what the next few decades might look like as innovation accelerates."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-22
 ---
 Have been recently viewing a program. What it going to be like with the advent of technology in the next few decades. Days of communication technology are over with nearly every sphere of our life being saturated with communicating devices of all sorts. Its going to be the visual feeling of the physical presence of our friends and families who are far off that's going to come to our homesnext. Soundsaconfusing?
 

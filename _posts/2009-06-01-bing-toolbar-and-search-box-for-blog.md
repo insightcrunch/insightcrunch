@@ -4,11 +4,11 @@ title: "Bing Toolbar and Search Box for Blog"
 date: 2009-06-01
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Microsoft has long been trying to find something to compete with in the search engine market, finally they seem to have got some foothold. After much hard work and strain they have come up with Bing, ..."
+excerpt: "Microsoft Bing toolbar and search box for blogs: how to integrate Bing search into your website as Microsoft enters the search engine war."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-22
 ---
 Microsoft has long been trying to find something to compete with in the search engine market, finally they seem to have got some foothold. After much hard work and strain they have come up with Bing, their search engine which is aimed to compete in the search engine market to get more users. It’s one of the projects by Microsoft that needs to succeed rather very badly, after failing miserably with their Live search. A few search queries by me in the Bing apparently seemed pretty satisfactory. But that said, Google is Google. And Microsoft needs to come up with something at least as good as Google to draw the slightest attention of current Googlers.
 
