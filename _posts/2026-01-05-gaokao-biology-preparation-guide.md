@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考生物备考完全指南 - 分子生物学、遗传学、生态学全考纲深度解析与得分策略"
-page_title: "高考生物备考完全指南 - 分子生物学、细胞生物学、遗传与进化、生态系统全考纲解析与实验题高分策略"
+page_title: "高考生物备考完全指南 - 分子生物学、细胞生物学、遗传与进化、生态系统全考纲解析与实验题高分策略 Gaokao"
 date: 2026-01-05
 categories: ["Industry"]
 tags: ["高考", "高考生物", "生物备考", "遗传学", "分子生物学", "生态学", "Gaokao", "Biology", "Science Preparation", "Study Guide"]
