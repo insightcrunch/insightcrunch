@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考报名流程完全指南 - 资格审核、报名步骤、材料准备与常见问题全解析"
-page_title: "高考报名流程完全指南 - 报名资格、户籍要求、网上报名步骤、选科确认、材料清单与常见问题全面解析"
+page_title: "高考报名流程完全指南 - 报名资格、户籍要求、网上报名步骤、选科确认、材料清单与常见问题全面解析 Gaokao"
 date: 2026-02-22
 categories: ["Industry"]
 tags: ["高考", "高考报名", "高考报名流程", "高考资格", "高考户籍", "异地高考", "Gaokao", "Registration", "Eligibility", "Application Process"]
