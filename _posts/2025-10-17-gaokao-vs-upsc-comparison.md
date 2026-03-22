@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考与UPSC深度比较 - 中印两国最重要的定命考试如何塑造社会流动与国家认同"
-page_title: "高考vs UPSC完全比较指南 - 大学入学vs公务员选拔、备考文化、成功率与中印两国通过考试实现社会流动的深度解析"
+page_title: "高考vs UPSC完全比较指南 - 大学入学vs公务员选拔、备考文化、成功率与中印两国通过考试实现社会流动的深度解析 Gaokao"
 date: 2025-10-17
 categories: ["Industry"]
 tags: ["高考", "UPSC", "高考对比", "印度公务员考试", "考试比较", "社会流动", "Gaokao", "UPSC", "Exam Comparison", "Social Mobility"]
