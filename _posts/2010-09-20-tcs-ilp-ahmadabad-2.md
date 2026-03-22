@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TCS ILP Ahmedabad - Detailed Review"
-page_title: "TCS ILP Ahmadabad - Detailed Review of Training Facilities, Accommodation, Food, City Life, and Trainee Experience"
+page_title: "TCS ILP Ahmedabad - Detailed Review of Training Facilities, Ahmadabad Accommodation, Food, City Life, and Trainee Experience"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Ahmedabad", "Training Center"]
