@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考考场全攻略 - 考前准备、禁止物品、安检流程与突发情况应对完全指南"
-page_title: "高考考场全攻略 - 必带物品清单、禁止物品详解、安检流程、考场规则与突发情况应对完全指南"
+page_title: "高考考场全攻略 - 必带物品清单、禁止物品详解、安检流程、考场规则与突发情况应对完全指南 Gaokao"
 date: 2025-09-15
 categories: ["Industry"]
 tags: ["高考", "高考考场", "考前准备", "考场规则", "高考注意事项", "Gaokao", "Exam Day", "Preparation Tips", "Exam Rules"]
