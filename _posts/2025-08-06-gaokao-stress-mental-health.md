@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考心理健康完全指南 - 压力管理、家长期望、焦虑应对与何时寻求专业帮助"
-page_title: "高考心理健康完全指南 - 备考压力的认识、焦虑与抑郁的识别、家庭环境的建设与何时寻求专业心理支持"
+page_title: "高考心理健康完全指南 - 备考压力的认识、焦虑与抑郁的识别、家庭环境的建设与何时寻求专业心理支持 Gaokao"
 date: 2025-08-06
 categories: ["Industry"]
 tags: ["高考", "高考心理健康", "备考压力", "焦虑管理", "高考心理", "Gaokao", "Mental Health", "Stress Management", "Student Wellbeing"]
