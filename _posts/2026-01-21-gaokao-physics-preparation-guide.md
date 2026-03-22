@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考物理备考完全指南 - 力学、电磁学、实验题全考纲深度解析与得分策略"
-page_title: "高考物理备考完全指南 - 力学、电磁学、光学、近代物理全考纲解析、实验题攻略与3+1+2赋分策略"
+page_title: "高考物理备考完全指南 - 力学、电磁学、光学、近代物理全考纲解析、实验题攻略与3+1+2赋分策略 Gaokao"
 date: 2026-01-21
 categories: ["Industry"]
 tags: ["高考", "高考物理", "物理备考", "力学", "电磁学", "物理实验", "Gaokao", "Physics", "Science Preparation", "Study Guide"]
