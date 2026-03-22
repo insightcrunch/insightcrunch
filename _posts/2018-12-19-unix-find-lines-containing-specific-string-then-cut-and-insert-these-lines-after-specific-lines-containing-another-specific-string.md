@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Unix find Lines containing specific string, then Cut and Insert these Lines after specific Lines containing another specific string"
+title: "Unix find Lines and restructure file content"
+page_title: "Unix find Lines containing specific string, then Cut and Insert these Lines after specific Lines containing another specific string"
 date: 2018-12-19
 categories: ["Analytics"]
 tags: ["Unix"]
