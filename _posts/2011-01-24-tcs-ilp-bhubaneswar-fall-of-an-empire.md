@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What Happens if You Fail TCS ILP?"
-page_title: "What Happens if You Fail TCS ILP - Consequences, Re-Assessment Process, Termination Risks, and Recovery Options"
+page_title: "What Happens if You Fail TCS ILP - Consequences, Bhubaneswar Re-Assessment Process, Termination Risks, and Recovery Options"
 date: 2011-01-24
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
