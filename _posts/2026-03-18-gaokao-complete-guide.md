@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考完全指南 - 中国高校招生统一考试全面解析"
-page_title: "高考完全指南 - 考试科目、评分体系、报名流程、志愿填报与大学录取全面解析"
+page_title: "高考完全指南 - 考试科目、评分体系、报名流程、志愿填报与大学录取全面解析 Gaokao"
 date: 2026-03-18
 categories: ["Industry"]
 tags: ["高考", "高考备考", "高考指南", "中国高考", "普通高等学校招生全国统一考试", "China Education", "College Entrance Exam", "NCEE"]
