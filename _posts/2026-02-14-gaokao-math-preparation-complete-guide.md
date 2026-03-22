@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考数学备考完全指南 - 考纲解析、题型分布、难点攻克与满分策略"
-page_title: "高考数学备考完全指南 - 全考纲知识点详解、各题型得分策略、高频考点深度分析与最后冲刺计划"
+page_title: "高考数学备考完全指南 - 全考纲知识点详解、各题型得分策略、高频考点深度分析与最后冲刺计划 Gaokao"
 date: 2026-02-14
 categories: ["Industry"]
 tags: ["高考", "高考数学", "数学备考", "数学题型", "数学复习", "Gaokao", "Mathematics", "Exam Preparation", "Study Guide"]
