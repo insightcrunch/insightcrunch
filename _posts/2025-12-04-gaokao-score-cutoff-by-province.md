@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考各省分数线完全指南 - 一本、二本分数线如何确定及省际差异深度解析"
-page_title: "高考各省分数线完全指南 - 一本二本录取分数线、省际配额制度、河南与北京差异及清北录取分数线深度解析"
+page_title: "高考各省分数线完全指南 - 一本二本录取分数线、省际配额制度、河南与北京差异及清北录取分数线深度解析 Gaokao"
 date: 2025-12-04
 categories: ["Industry"]
 tags: ["高考", "高考分数线", "一本分数线", "省际分数线", "录取配额", "高考录取", "Gaokao", "Score Cutoffs", "Provincial Quotas", "University Admission"]
