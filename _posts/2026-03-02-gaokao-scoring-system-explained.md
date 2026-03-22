@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考评分体系完全解析 - 750分制、等级赋分与各省评分规则全面指南"
-page_title: "高考评分体系完全解析 - 750分总分构成、原始分与等级赋分机制、各省差异及分数含义全面指南"
+page_title: "高考评分体系完全解析 - 750分总分构成、原始分与等级赋分机制、各省差异及分数含义全面指南 Gaokao"
 date: 2026-03-02
 categories: ["Industry"]
 tags: ["高考", "高考评分", "高考分数", "等级赋分", "750分", "高考成绩", "Gaokao", "Scoring", "Marks Distribution", "China Education"]
