@@ -1,43 +1,9 @@
 {
-  "generated": "2026-03-22T05:06:48Z",
+  "generated": "2026-03-22T05:30:50Z",
   "total_posts": 774,
-  "flagged_posts": 38,
-  "clean_posts": 736,
+  "flagged_posts": 37,
+  "clean_posts": 737,
   "posts": [
-    {
-      "filename": "2010-09-20-tcs-ilp-ahmadabad.md",
-      "slug": "tcs-ilp-ahmadabad",
-      "url": "/2010/09/20/tcs-ilp-ahmadabad/",
-      "title": "TCS ILP Ahmedabad - Campus Overview Guide",
-      "page_title": "TCS ILP Ahmedabad Campus Overview - First Impressions, Facilities Walkthrough, and Everything New Trainees Must Know",
-      "has_page_title": true,
-      "date": "2010-09-20",
-      "word_count": 11968,
-      "issues": [
-        {
-          "keyword": "ahmadabad",
-          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
-          "severity": "warning",
-          "detail": "\"ahmadabad\" is in the URL slug but absent from the effective page title",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 1
-        },
-        {
-          "keyword": "ahmadabad",
-          "type": "SLUG_KEYWORD_SPARSE_IN_BODY",
-          "severity": "warning",
-          "detail": "\"ahmadabad\" is in the URL slug but only 1x in 11968 words",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 1
-        }
-      ],
-      "critical_count": 0,
-      "warning_count": 2
-    },
     {
       "filename": "2010-08-22-tcs-bangalore-fresher-sudarshan-commits-suicide.md",
       "slug": "tcs-bangalore-fresher-sudarshan-commits-suicide",

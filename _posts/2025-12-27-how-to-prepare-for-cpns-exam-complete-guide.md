@@ -4,12 +4,12 @@ title: 'Panduan Definitif Lolos CPNS: Strategi Sistematis dari Persiapan hingga 
 date: 2025-12-27
 categories: ['Analytics']
 tags: ['CPNS', 'ASN', 'Seleksi PNS', 'Tes CPNS']
-excerpt: 'Panduan strategis, autoritatif, dan sangat praktis untuk mempersiapkan seleksi CPNS — mencakup arsitektur ujian SKD dan SKB, strategi per subtema TWK/TIU/TKP, passing grade, manajemen waktu, persiapan SKB, dan psikologi menghadapi seleksi dengan jutaan pesaing.'
+excerpt: 'Panduan lengkap persiapan CPNS: strategi SKD per subtema TWK, TIU, TKP, pembahasan SKB, timeline pendaftaran, dan tips lolos passing grade.'
 image: '/assets/images/blog/blog-15.webp'
 reading_time: 35
 author: 'Insight Crunch Team'
+last_updated: 2026-03-22
 ---
-
 ## **1. Pendahuluan**
 
 Seleksi Calon Pegawai Negeri Sipil — CPNS — adalah gerbang utama menuju karier di birokrasi pemerintah Indonesia. Setiap kali pendaftaran dibuka, jutaan pelamar dari seluruh penjuru negeri mendaftar untuk memperebutkan formasi yang jumlahnya jauh lebih sedikit. Rasio persaingan di formasi-formasi populer bisa mencapai ratusan bahkan ribuan banding satu. Ini bukan ujian biasa. Ini adalah salah satu kompetisi paling ketat yang akan dihadapi mayoritas orang Indonesia dalam hidup mereka — sebuah seleksi yang menentukan apakah seseorang mendapatkan status PNS dengan segala jaminan karier, tunjangan, dan stabilitas yang menyertainya.

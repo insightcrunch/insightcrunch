@@ -4,12 +4,12 @@ title: 'The Definitive Guide to Cracking UPSC Civil Services: A Strategic Bluepr
 date: 2026-01-16
 categories: ['Analytics']
 tags: ['UPSC', 'IAS', 'Civil Services', 'Preparation']
-excerpt: 'An authoritative, strategic, and deeply practical guide to preparing for the UPSC Civil Services Examination — covering the three-stage architecture, subject-wise strategy for Prelims and Mains, optional selection, answer writing mastery, interview preparation, and the psychology of a multi-year commitment.'
+excerpt: 'UPSC Civil Services preparation from scratch: three-stage exam architecture, subject-wise strategy, booklist, optional selection, and a month-wise study...'
 image: '/assets/images/blog/blog-06.webp'
 reading_time: 35
 author: 'Insight Crunch Team'
+last_updated: 2026-03-22
 ---
-
 ## **1. Introduction**
 
 The Union Public Service Commission Civil Services Examination is not merely another competitive test. It is the single most consequential examination in India's public life — the gateway through which the country selects the administrators who will shape governance, policy, and the daily experience of over a billion citizens. Every year, roughly a million candidates register for Prelims. Fewer than a thousand make it to the final merit list. That ratio alone tells a story, but the deeper truth is this: UPSC does not simply measure what you know. It measures how you think, how you write, how you decide under pressure, and how honestly you have engaged with the complexity of India and the world.
