@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考政治备考完全指南 - 政治、经济、哲学、文化全模块深度解析与答题策略"
-page_title: "高考政治（思想政治）备考完全指南 - 马克思主义哲学、政治经济学、政治常识与时政应用全考纲解析"
+page_title: "高考政治（思想政治）备考完全指南 - 马克思主义哲学、政治经济学、政治常识与时政应用全考纲解析 Gaokao"
 date: 2025-12-12
 categories: ["Industry"]
 tags: ["高考", "高考政治", "政治备考", "马克思主义哲学", "政治经济学", "时政", "Gaokao", "Politics", "Philosophy", "Humanities Preparation"]
