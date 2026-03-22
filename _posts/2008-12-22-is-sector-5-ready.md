@@ -4,11 +4,11 @@ title: "Is Sector 5 ready?"
 date: 2008-12-22
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "It has been about three and a half years that I have been going to my college in Sector 5 via Chingrighata. Sector 5, the new tech town of Kolkata, the future pride of Kolkata, the main attraction of ..."
+excerpt: "Salt Lake Sector 5 Kolkata infrastructure problems: traffic nightmares, broken roads, and why the IT hub's growth outpaced its planning badly."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-22
 ---
 It has been about three and a half years that I have been going to my college in Sector 5 via Chingrighata. Sector 5, the new tech town of Kolkata, the future pride of Kolkata, the main attraction of all large industries and companies in Kolkata. It has really developed a lot in the past few years to facilitate the growth of industrialization. Something we all appreciate. But there are some serious flaws that sometimes give the impression that the place has ceased to be habitable.
 

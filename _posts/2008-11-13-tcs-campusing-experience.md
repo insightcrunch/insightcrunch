@@ -4,11 +4,11 @@ title: "TCS Campusing Experience"
 date: 2008-11-13
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Its been quite a while since I cracked TCS this year on the 19th of Feb. But I have been longing to share the wonderful experience that I went through during that time, and here it is. It was really ..."
+excerpt: "TCS campus placement experience: aptitude test pattern, technical interview questions, HR round details, and tips from a selected candidate."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-22
 ---
 ## Background
 
