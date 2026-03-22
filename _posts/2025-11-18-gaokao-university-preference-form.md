@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考志愿填报完全指南 - 平行志愿、顺序志愿、策略设计与风险管控全解析"
-page_title: "高考志愿填报完全指南 - 平行志愿vs顺序志愿、填报策略、风险管控与征集志愿补救机制深度解析"
+page_title: "高考志愿填报完全指南 - 平行志愿vs顺序志愿、填报策略、风险管控与征集志愿补救机制深度解析 Gaokao"
 date: 2025-11-18
 categories: ["Industry"]
 tags: ["高考", "高考志愿", "志愿填报", "平行志愿", "高考录取", "征集志愿", "Gaokao", "University Preference", "Zhiyuan", "Admission Strategy"]
