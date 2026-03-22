@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meta Interview Questions and Meta Core Values"
+title: "Meta Interview Questions and Facebook Core Values"
 date: 2022-08-13
 categories: ["Industry"]
 tags: ["Meta"]
