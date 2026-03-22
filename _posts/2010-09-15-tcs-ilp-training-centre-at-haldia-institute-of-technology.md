@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TCS ILP Satellite Centers at Colleges"
-page_title: "TCS ILP Satellite Centers - How TCS Conducts ILP Training at Engineering College Campuses and What to Expect"
+page_title: "TCS ILP Satellite Centers - How TCS Conducts ILP Training at Engineering College Campuses and What to Expect at Haldia"
 date: 2010-09-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Satellite Center", "College Campus Training"]
