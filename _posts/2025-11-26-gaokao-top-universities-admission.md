@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考与顶尖高校完全指南 - C9联盟、985、211与双一流录取分数深度解析"
-page_title: "高考顶尖高校录取完全指南 - C9联盟、985工程、211工程、双一流建设高校录取分数与最强专业全解析"
+page_title: "高考顶尖高校录取完全指南 - C9联盟、985工程、211工程、双一流建设高校录取分数与最强专业全解析 Gaokao"
 date: 2025-11-26
 categories: ["Industry"]
 tags: ["高考", "顶尖高校", "C9联盟", "985高校", "211高校", "双一流", "高考录取", "Gaokao", "Top Universities", "C9 League", "University Admission"]
