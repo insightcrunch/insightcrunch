@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考与SAT深度比较 - 难度、结构、评分与文化影响全面解析"
-page_title: "高考vs SAT完全比较指南 - 难度对比、考试结构、评分机制、重考政策与大学录取权重深度解析"
+page_title: "高考vs SAT完全比较指南 - 难度对比、考试结构、评分机制、重考政策与大学录取权重深度解析 Gaokao"
 date: 2025-11-10
 categories: ["Industry"]
 tags: ["高考", "SAT", "高考对比", "国际教育", "考试比较", "Gaokao", "SAT", "Exam Comparison", "International Education"]
