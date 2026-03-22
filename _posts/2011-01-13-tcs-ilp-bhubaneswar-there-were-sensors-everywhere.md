@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TCS ILP Rules and Discipline Policies"
-page_title: "TCS ILP Rules and Discipline - Complete Guide to Attendance, Monitoring, Dress Code, and What Is Allowed"
+page_title: "TCS ILP Rules and Discipline - Complete Bhubaneswar Guide to Attendance, Monitoring, Dress Code, and What Is Allowed"
 date: 2011-01-13
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Rules", "Discipline Policy"]
