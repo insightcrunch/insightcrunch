@@ -246,7 +246,7 @@ Understanding this in advance: the farewell moment is coming, and it is worth be
 
 ### The Gujarat Day Trip Options
 
-Gujarat's geographic position gives Gandhinagar ILP trainees access to some of India's most distinctive day trip and weekend trip destinations. The Diu-Somnath-Gir combination that appears in multiple ILP accounts represents one of the most popular multi-day trip routes from Ahmedabad.
+Gujarat's geographic position gives Gandhinagar ILP trainees access to some of India's most distinctive day trip and weekend trip destinations. The Diu-Somnath-Gir combination that appears in multiple ILP accounts represents one of the most popular multi-day trip routes from Ahmadabad.
 
 **Diu:** A former Portuguese territory on the Gujarat coast, Diu is a small island with a distinctive colonial architecture - the Portuguese churches, the Diu Fort, and the specific character of a territory that was administered separately from India until 1961 and that retains its unusual cultural hybrid character. The beaches at Diu are clean and relatively uncrowded compared to more famous Indian beach destinations. The combination of colonial history, beaches, and the specific social atmosphere of a small tourist island makes Diu a memorable weekend destination.
 
