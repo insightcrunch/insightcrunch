@@ -4,11 +4,11 @@ title: "Let's try to make it straight"
 date: 2009-02-01
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Last few days has really been grim. Bottom-line being caught in a tangle between showing moral support for our juniors along with our other 4th year friends, and our fear of getting our image, marks ..."
+excerpt: "College politics and moral dilemmas: caught between supporting juniors, protecting grades, and navigating the pressures of final year campus life."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-22
 ---
 Last few days has really been grim. Bottom-line being caught in a tangle between showing moral support for our juniors along with our other 4th year friends, and our fear of getting our image, marks and career hampered by taking this route of aggression. Class being absolutely divided into parts, each student sharing his or her own point of view. Some change was needed to be done to the system. Unfortunately it affected the students really badly which has led to the present situation. We can’t even think of withdrawing our support at this point which would be a major blow, possible fatal to this movement. Also, we can’t even think of continuing this protest indefinitely, latest being one more week. Keeping all the affected and unaffected in mind, my inner voice tells me just go on with this movement, let’s see an end to this. But my brain tells me no, the consequences may just not be right for you people over the next few months, right on the verge of finishing our graduation. Its just the trickiest of trickiest situations we have ever faced.
 

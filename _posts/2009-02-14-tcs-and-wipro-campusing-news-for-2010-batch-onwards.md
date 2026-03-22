@@ -5,12 +5,12 @@ page_title: "TCS vs Wipro Campus Placement - Complete Comparison of Hiring Proce
 date: 2009-02-14
 categories: ["Industry"]
 tags: ["TCS", "Wipro", "Campus Placement", "IT Hiring"]
-excerpt: "TCS vs Wipro campus placement compared - eligibility, salary packages, interview rounds, and which company suits you better."
+excerpt: "TCS and Wipro campus placement updates for 2010 batch: delayed timelines, reduced hiring targets, and what students should expect this year."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 For every engineering student in India approaching their final year, two names dominate the campus placement conversation: TCS and Wipro. Both are among the largest IT companies in the country and the world. Both recruit from hundreds of colleges annually, both offer structured career paths for freshers, and both conduct hiring processes that are well-documented and preparable. Yet they are not identical - in how they hire, what they pay, how they select candidates, what the first few years of working life looks like, and what kind of professional foundation they build. Understanding the genuine differences between TCS campus placement and Wipro campus placement gives you the strategic clarity to prepare for both, decide which to prioritise, and make an informed choice if you receive offers from both.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-01.webp)
