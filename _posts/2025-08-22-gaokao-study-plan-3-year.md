@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考三年备考计划完全指南 - 高一到高三的分年级策略与每日时间表"
-page_title: "高考三年备考计划完全指南 - 高一打基础、高二选科提升、高三冲刺全年月度拆解与每日时间表模板"
+page_title: "高考三年备考计划完全指南 - 高一打基础、高二选科提升、高三冲刺全年月度拆解与每日时间表模板 Gaokao"
 date: 2025-08-22
 categories: ["Industry"]
 tags: ["高考", "高考备考计划", "三年备考", "高考时间表", "高考学习计划", "Gaokao", "Study Plan", "Preparation Timeline", "Exam Strategy"]
