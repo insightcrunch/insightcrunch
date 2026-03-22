@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-22T00:57:00Z",
+  "generated": "2026-03-22T01:05:52Z",
   "total_posts": 774,
   "flagged_posts": 292,
   "clean_posts": 482,
@@ -53,30 +53,6 @@
           "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
           "severity": "critical",
           "detail": "\"bangalore\" is in the URL slug but never appears in the body",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 0
-        }
-      ],
-      "critical_count": 1,
-      "warning_count": 0
-    },
-    {
-      "filename": "2010-09-20-tcs-ilp-ahmadabad-2.md",
-      "slug": "tcs-ilp-ahmadabad-2",
-      "url": "/2010/09/20/tcs-ilp-ahmadabad-2/",
-      "title": "TCS ILP Ahmedabad - Detailed Review",
-      "page_title": "TCS ILP Ahmedabad - Detailed Review of Training Facilities, Accommodation, Food, City Life, and Trainee Experience",
-      "has_page_title": true,
-      "date": "2010-09-20",
-      "word_count": 11996,
-      "issues": [
-        {
-          "keyword": "ahmadabad",
-          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
-          "severity": "critical",
-          "detail": "\"ahmadabad\" is in the URL slug but never appears in the body",
           "in_slug": true,
           "in_title": false,
           "in_page_title": false,
@@ -3257,6 +3233,30 @@
           "in_title": true,
           "in_page_title": null,
           "body_mentions": 3
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2010-09-20-tcs-ilp-ahmadabad-2.md",
+      "slug": "tcs-ilp-ahmadabad-2",
+      "url": "/2010/09/20/tcs-ilp-ahmadabad-2/",
+      "title": "TCS ILP Ahmedabad - Detailed Review",
+      "page_title": "TCS ILP Ahmedabad - Detailed Review of Training Facilities, Accommodation, Food, City Life, and Trainee Experience",
+      "has_page_title": true,
+      "date": "2010-09-20",
+      "word_count": 11996,
+      "issues": [
+        {
+          "keyword": "ahmadabad",
+          "type": "SLUG_KEYWORD_SPARSE_IN_BODY",
+          "severity": "warning",
+          "detail": "\"ahmadabad\" is in the URL slug but only 1x in 11996 words",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 1
         }
       ],
       "critical_count": 0,

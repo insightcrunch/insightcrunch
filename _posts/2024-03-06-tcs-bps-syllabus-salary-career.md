@@ -9,8 +9,8 @@ excerpt: "TCS BPS decoded - exam syllabus, salary structure, daily work life, ca
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 TCS BPS is one of the most misunderstood hiring tracks in India's IT services industry. Arts, commerce, and non-CS science graduates who qualify for it often enter with partial information - they know the salary is around Rs. 2.4 LPA and that it involves "business processes," but they do not know what the exam actually tests, how the salary is structured in real take-home terms, what the day-to-day work looks like, or where the career genuinely goes from there. This guide answers every one of those questions in full. If you are considering the TCS BPS route - or have already been selected and want to understand what you are entering - this is the most complete overview available.
 
 ![TCS Guide](/assets/images/blog/blog-08.webp)
