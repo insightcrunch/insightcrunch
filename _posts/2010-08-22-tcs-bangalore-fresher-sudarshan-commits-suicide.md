@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mental Health for IT Freshers in Bangalore - Support and Well-Being Guide"
-page_title: "Mental Health for IT Freshers in Bangalore - Managing Work Pressure, Accessing NIMHANS and Counselling Support, and Building Well-Being in India's IT Capital"
+page_title: "Mental Health for IT Freshers in Bangalore - Managing TCS Work Pressure, Accessing NIMHANS and Counselling Support, and Building Well-Being in India's IT Capital"
 date: 2010-08-22
 categories: ["Industry"]
 tags: ["Mental Health", "IT Industry", "Bangalore", "Bengaluru", "Employee Well-Being", "Work Pressure", "NIMHANS"]
