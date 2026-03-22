@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考英语备考完全指南 - 听力、阅读、完型、语法填空、写作全题型得分策略"
-page_title: "高考英语备考完全指南 - 听力技巧、阅读理解、完型填空、语法填空、书面表达全题型深度解析与140+得分策略"
+page_title: "高考英语备考完全指南 - 听力技巧、阅读理解、完型填空、语法填空、书面表达全题型深度解析与140+得分策略 Gaokao"
 date: 2026-02-06
 categories: ["Industry"]
 tags: ["高考", "高考英语", "英语备考", "英语听力", "英语阅读", "英语写作", "完型填空", "Gaokao", "English", "Language Preparation", "Study Guide"]
