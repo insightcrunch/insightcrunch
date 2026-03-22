@@ -1,33 +1,9 @@
 {
-  "generated": "2026-03-22T05:30:50Z",
+  "generated": "2026-03-22T20:37:26Z",
   "total_posts": 774,
-  "flagged_posts": 37,
-  "clean_posts": 737,
+  "flagged_posts": 36,
+  "clean_posts": 738,
   "posts": [
-    {
-      "filename": "2010-08-22-tcs-bangalore-fresher-sudarshan-commits-suicide.md",
-      "slug": "tcs-bangalore-fresher-sudarshan-commits-suicide",
-      "url": "/2010/08/22/tcs-bangalore-fresher-sudarshan-commits-suicide/",
-      "title": "Mental Health for IT Freshers in Bangalore - Support and Well-Being Guide",
-      "page_title": "Mental Health for IT Freshers in Bangalore - Managing Work Pressure, Accessing NIMHANS and Counselling Support, and Building Well-Being in India's IT Capital",
-      "has_page_title": true,
-      "date": "2010-08-22",
-      "word_count": 15926,
-      "issues": [
-        {
-          "keyword": "tcs",
-          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
-          "severity": "warning",
-          "detail": "\"tcs\" is in the URL slug but absent from the effective page title",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 51
-        }
-      ],
-      "critical_count": 0,
-      "warning_count": 1
-    },
     {
       "filename": "2010-09-15-tcs-ilp-training-centre-at-haldia-institute-of-technology.md",
       "slug": "tcs-ilp-training-centre-at-haldia-institute-of-technology",
