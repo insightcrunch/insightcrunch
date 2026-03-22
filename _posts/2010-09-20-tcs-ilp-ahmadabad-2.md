@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TCS ILP Ahmedabad - Detailed Review"
-page_title: "TCS ILP Ahmedabad - Detailed Review of Training Facilities, Accommodation, Food, City Life, and Trainee Experience"
+page_title: "TCS ILP Ahmadabad - Detailed Review of Training Facilities, Accommodation, Food, City Life, and Trainee Experience"
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Ahmedabad", "Training Center"]
@@ -44,9 +44,9 @@ Gujarati food is among India's most distinctive regional cuisines, and Ahmedabad
 
 **The Gujarati thali:** The definitive Gujarati meal experience - a large plate with small portions of many dishes, typically including dal, sabji (vegetable dish), roti, puri, rice, kadhi (yoghurt-based soup), farsan (snacks and savoury items), and dessert. The thali's breadth allows a comprehensive introduction to Gujarati cuisine in a single sitting. The best thali experiences in Ahmedabad are at the traditional thali restaurants in the old city area - Agashiye at the House of MG and Vishalla are two of the most celebrated.
 
-**The street food culture:** Ahmedabad's street food is exceptional and diverse. Gathiya (chickpea flour noodles served with green chutney) is the most Ahmedabad-specific street snack - eaten at breakfast, as a snack, or throughout the day. Fafda-jalebi is the classic Ahmedabad Sunday morning breakfast combination. Sev tameta nu shaak (tomato curry with vermicelli) is another characteristically Gujarati dish worth discovering. The Manek Chowk market area transforms into a street food hub at night with dozens of vendors serving Gujarati and North Indian food.
+**The street food culture:** Ahmadabad's street food is exceptional and diverse. Gathiya (chickpea flour noodles served with green chutney) is the most Ahmadabad-specific street snack - eaten at breakfast, as a snack, or throughout the day. Fafda-jalebi is the classic Ahmadabad Sunday morning breakfast combination. Sev tameta nu shaak (tomato curry with vermicelli) is another characteristically Gujarati dish worth discovering. The Manek Chowk market area transforms into a street food hub at night with dozens of vendors serving Gujarati and North Indian food.
 
-**The chai culture:** Unlike Hyderabad's Irani chai or Mumbai's cutting chai, Ahmedabad has its own tea culture centred on strong, sweet, slightly smoky masala chai served in small clay cups called kulhad at roadside stalls. The ritual of a clay cup of chai with colleagues or batchmates is one of the most characteristic small pleasures of the Ahmedabad experience.
+**The chai culture:** Unlike Hyderabad's Irani chai or Mumbai's cutting chai, Ahmadabad has its own tea culture centred on strong, sweet, slightly smoky masala chai served in small clay cups called kulhad at roadside stalls. The ritual of a clay cup of chai with colleagues or batchmates is one of the most characteristic small pleasures of the Ahmadabad experience.
 
 **Vegetarian dominance:** Gujarat is one of India's most vegetarian states, and Ahmedabad reflects this in its food landscape. Non-vegetarian food is available but is genuinely less prominent than in other major Indian cities. The vegetarian food quality is exceptional and varied - the constraint of vegetarian-only cooking has produced extraordinary creativity within the cuisine.
 
