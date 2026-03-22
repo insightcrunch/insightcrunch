@@ -20,5 +20,6 @@ permalink: /admin/posts-data.json
   "titleLen": {{ post.title | size }},
   "excerptLen": {{ post.excerpt | strip_html | strip_newlines | strip | size }},
   "hasImage": {% if post.image %}true{% else %}false{% endif %},
-  "hasBodyImage": {% if post.content contains '<img' %}true{% else %}false{% endif %}
+  "hasBodyImage": {% if post.content contains '<img' %}true{% else %}false{% endif %},
+  "charCount": {{ post.content | strip_html | strip_newlines | size | default: 0 }}
 }{% unless forloop.last %},{% endunless %}{% endfor %}]
