@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考化学备考完全指南 - 有机化学、无机化学、实验题全考纲深度解析与得分策略"
-page_title: "高考化学备考完全指南 - 有机化学、无机化学、化学平衡、电化学、实验设计全考纲解析与高分策略"
+page_title: "高考化学备考完全指南 - 有机化学、无机化学、化学平衡、电化学、实验设计全考纲解析与高分策略 Gaokao"
 date: 2026-01-13
 categories: ["Industry"]
 tags: ["高考", "高考化学", "化学备考", "有机化学", "无机化学", "化学实验", "Gaokao", "Chemistry", "Science Preparation", "Study Guide"]
