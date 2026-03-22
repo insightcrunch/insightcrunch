@@ -9,8 +9,8 @@ excerpt: "AI tools for journalists - source discovery, fact-checking, transcript
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 Journalism has always been a race against time and a craft built on verification. Both of those pressures have intensified in an era of constant information flow, reduced newsroom resources, and audiences that can access raw information without traditional gatekeepers. AI has arrived at this moment with capabilities that are genuinely useful to journalists - compressing research time, transcribing interviews, monitoring sources, analyzing documents, and automating the production of data-rich routine stories - alongside capabilities that are potentially hazardous, such as generating plausible-sounding but false claims, creating realistic fake quotes, and producing audio and visual disinformation. Journalists who understand both what AI can legitimately accelerate and what risks it introduces are positioned to use it responsibly. This guide covers the full spectrum: the specific AI tools working journalists are using for research, investigation, transcription, document analysis, and production, alongside the professional standards, ethical frameworks, and verification practices that must govern AI use in journalism.
 
 ![AI for Journalists and Newsrooms - Insight Crunch](/assets/images/blog/blog-05.webp)

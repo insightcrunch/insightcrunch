@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-22T01:05:52Z",
+  "generated": "2026-03-22T01:33:23Z",
   "total_posts": 774,
-  "flagged_posts": 292,
-  "clean_posts": 482,
+  "flagged_posts": 291,
+  "clean_posts": 483,
   "posts": [
     {
       "filename": "2009-02-19-racism-row-over-new-york-post.md",
@@ -53,30 +53,6 @@
           "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
           "severity": "critical",
           "detail": "\"bangalore\" is in the URL slug but never appears in the body",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 0
-        }
-      ],
-      "critical_count": 1,
-      "warning_count": 0
-    },
-    {
-      "filename": "2011-01-20-tcs-ilp-bhubaneswar-cracking-the-code.md",
-      "slug": "tcs-ilp-bhubaneswar-cracking-the-code",
-      "url": "/2011/01/20/tcs-ilp-bhubaneswar-cracking-the-code/",
-      "title": "Cracking TCS ILP Assessments - Strategy",
-      "page_title": "Cracking TCS ILP Assessments - Proven Strategies for Tests, Coding Exams, Presentations, and Scoring High",
-      "has_page_title": true,
-      "date": "2011-01-20",
-      "word_count": 12101,
-      "issues": [
-        {
-          "keyword": "bhubaneswar",
-          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
-          "severity": "critical",
-          "detail": "\"bhubaneswar\" is in the URL slug but never appears in the body",
           "in_slug": true,
           "in_title": false,
           "in_page_title": false,
