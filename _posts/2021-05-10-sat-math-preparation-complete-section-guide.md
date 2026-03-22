@@ -9,8 +9,8 @@ excerpt: "The complete SAT Math preparation guide covering every tested topic, t
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 # SAT Math Preparation: The Complete Section Guide
 
 The SAT Math section is where the majority of students leave the most points on the table. Unlike the Reading and Writing section, where improvement can feel slow and subjective, Math rewards structured preparation with measurable, predictable score gains. Every question has exactly one correct answer, every topic is learnable, and the path from a diagnostic score to your target score can be mapped with precision. This guide covers every single aspect of SAT Math preparation, from the foundational concepts tested to the advanced strategies that separate a 600 from a 750.

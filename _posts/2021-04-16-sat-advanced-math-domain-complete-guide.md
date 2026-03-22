@@ -9,8 +9,8 @@ excerpt: "Master every SAT Advanced Math topic including quadratics, polynomials
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 # SAT Advanced Math: Quadratics, Polynomials, and Beyond
 
 Advanced Math is where the SAT separates mid-range scorers from high scorers. This domain accounts for approximately 13 to 15 of the 44 total math questions, making it co-equal with Algebra as the largest content area on the test. More importantly, Advanced Math questions disproportionately appear in the harder portions of each module, which means they have an outsized influence on whether you receive the harder Module 2 routing and on your ultimate score ceiling.

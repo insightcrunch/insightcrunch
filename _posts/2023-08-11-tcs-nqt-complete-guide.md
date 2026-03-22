@@ -9,8 +9,8 @@ excerpt: "Master the TCS National Qualifier Test with this exhaustive guide cove
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 63
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 Every year, Tata Consultancy Services receives millions of applications from engineering and science graduates across India. The company processes this enormous candidate pool through a single standardised gateway called the TCS National Qualifier Test, or NQT - a high-stakes aptitude and coding examination that determines who advances toward one of the most sought-after entry-level technology jobs in the country. For the vast majority of candidates, clearing the NQT is the difference between a TCS offer letter and starting the job hunt all over again.
 
 ![Technology Industry Analysis](/assets/images/blog/blog-02.webp)

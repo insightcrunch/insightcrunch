@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-21T15:34:40Z",
+  "generated": "2026-03-22T00:36:22Z",
   "total_posts": 774,
-  "flagged_posts": 293,
-  "clean_posts": 481,
+  "flagged_posts": 292,
+  "clean_posts": 482,
   "posts": [
     {
       "filename": "2009-02-19-racism-row-over-new-york-post.md",
@@ -119,30 +119,6 @@
       "has_page_title": true,
       "date": "2011-01-20",
       "word_count": 12101,
-      "issues": [
-        {
-          "keyword": "bhubaneswar",
-          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
-          "severity": "critical",
-          "detail": "\"bhubaneswar\" is in the URL slug but never appears in the body",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 0
-        }
-      ],
-      "critical_count": 1,
-      "warning_count": 0
-    },
-    {
-      "filename": "2011-01-27-tcs-ilp-bhubaneswar-picture-abhi-baki-hai-mere-dost.md",
-      "slug": "tcs-ilp-bhubaneswar-picture-abhi-baki-hai-mere-dost",
-      "url": "/2011/01/27/tcs-ilp-bhubaneswar-picture-abhi-baki-hai-mere-dost/",
-      "title": "After TCS ILP - Project Allocation Guide",
-      "page_title": "After TCS ILP - Complete Guide to Project Allocation, Transition from Training to Work, and Starting Your TCS Career",
-      "has_page_title": true,
-      "date": "2011-01-27",
-      "word_count": 11477,
       "issues": [
         {
           "keyword": "bhubaneswar",

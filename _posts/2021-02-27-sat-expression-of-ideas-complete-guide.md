@@ -9,8 +9,8 @@ excerpt: "Master SAT Expression of Ideas questions including transitions, notes-
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 # SAT Expression of Ideas: Transitions, Synthesis, and Rhetorical Strategy
 
 Expression of Ideas questions test your ability to improve the effectiveness of writing. While Standard English Conventions questions (grammar) test whether writing is correct, Expression of Ideas questions test whether writing is clear, logical, well-organized, and effective. These are the questions that ask you to choose the right transition word, combine information from notes into an effective sentence, determine where a sentence should be placed in a paragraph, and select the most rhetorically effective version of a phrase.

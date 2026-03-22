@@ -9,8 +9,8 @@ excerpt: "Master SAT vocabulary-in-context questions with strategies for determi
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 # SAT Vocabulary in Context: How to Master Word Meaning Questions
 
 Vocabulary questions on the Digital SAT are nothing like the vocabulary questions your parents faced on older standardized tests. There are no lists of obscure words to memorize, no "define this word in isolation" questions, and no flashcard-ready definitions to cram the night before. Instead, the Digital SAT tests vocabulary through context: you read a short passage, encounter a word or phrase used in a specific way, and determine which of four answer choices best captures that word's meaning as it is used in that particular passage.

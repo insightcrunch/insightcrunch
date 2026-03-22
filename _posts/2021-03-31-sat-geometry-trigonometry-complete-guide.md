@@ -9,8 +9,8 @@ excerpt: "Master every SAT Geometry and Trigonometry topic including triangles, 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 # SAT Geometry and Trigonometry: Every Topic Explained
 
 Geometry and Trigonometry is the smallest of the four SAT Math domains, accounting for approximately 5 to 7 of the 44 total questions. But do not let the lower question count fool you into deprioritizing this domain. Geometry and Trigonometry questions are often among the most time-consuming on the test, requiring multi-step reasoning, spatial visualization, and the application of multiple formulas within a single problem. Students who are underprepared in this domain frequently spend three or four minutes on a single question, burning time that could have been spent on faster Algebra or Data Analysis questions elsewhere in the module.

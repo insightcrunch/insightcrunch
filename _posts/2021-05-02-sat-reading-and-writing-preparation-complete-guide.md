@@ -9,8 +9,8 @@ excerpt: "The complete SAT Reading and Writing preparation guide covering all qu
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 # SAT Reading and Writing: The Complete Section Guide
 
 The SAT Reading and Writing section is the first section you encounter on the Digital SAT, and it sets the tone for your entire test experience. A strong performance here not only contributes half of your total SAT score but also builds the confidence and momentum you carry into the Math section. Unlike older versions of the SAT that separated Reading and Writing into distinct sections, the Digital SAT merges them into a single unified section that tests your command of English across four question categories in a streamlined, passage-per-question format.
