@@ -9,8 +9,8 @@ excerpt: "The complete TCS Ninja handbook covering exam pattern, section-wise pr
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 For the overwhelming majority of engineering graduates who join TCS, the Ninja profile is how that journey begins. It is TCS's largest hiring channel, the most widely recruited role at campus drives across the country, and the entry point that has launched the careers of hundreds of thousands of technology professionals. Yet it is also the profile that generates the most confusion - candidates who are uncertain about what clearing the exam actually requires, what the interview will test, what the work looks like, and what comes next. This guide answers every one of those questions with the specificity and depth that a resource about India's biggest technology employer deserves.
 
 ![TCS Guide](/assets/images/blog/blog-09.webp)

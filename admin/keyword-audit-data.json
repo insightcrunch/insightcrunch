@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-22T00:36:22Z",
+  "generated": "2026-03-22T00:57:00Z",
   "total_posts": 774,
   "flagged_posts": 292,
   "clean_posts": 482,
@@ -71,30 +71,6 @@
       "has_page_title": true,
       "date": "2010-09-20",
       "word_count": 11996,
-      "issues": [
-        {
-          "keyword": "ahmadabad",
-          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
-          "severity": "critical",
-          "detail": "\"ahmadabad\" is in the URL slug but never appears in the body",
-          "in_slug": true,
-          "in_title": false,
-          "in_page_title": false,
-          "body_mentions": 0
-        }
-      ],
-      "critical_count": 1,
-      "warning_count": 0
-    },
-    {
-      "filename": "2010-09-20-tcs-ilp-ahmadabad.md",
-      "slug": "tcs-ilp-ahmadabad",
-      "url": "/2010/09/20/tcs-ilp-ahmadabad/",
-      "title": "TCS ILP Ahmedabad - Campus Overview Guide",
-      "page_title": "TCS ILP Ahmedabad Campus Overview - First Impressions, Facilities Walkthrough, and Everything New Trainees Must Know",
-      "has_page_title": true,
-      "date": "2010-09-20",
-      "word_count": 11968,
       "issues": [
         {
           "keyword": "ahmadabad",
@@ -3281,6 +3257,30 @@
           "in_title": true,
           "in_page_title": null,
           "body_mentions": 3
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2010-09-20-tcs-ilp-ahmadabad.md",
+      "slug": "tcs-ilp-ahmadabad",
+      "url": "/2010/09/20/tcs-ilp-ahmadabad/",
+      "title": "TCS ILP Ahmedabad - Campus Overview Guide",
+      "page_title": "TCS ILP Ahmedabad Campus Overview - First Impressions, Facilities Walkthrough, and Everything New Trainees Must Know",
+      "has_page_title": true,
+      "date": "2010-09-20",
+      "word_count": 11968,
+      "issues": [
+        {
+          "keyword": "ahmadabad",
+          "type": "SLUG_KEYWORD_SPARSE_IN_BODY",
+          "severity": "warning",
+          "detail": "\"ahmadabad\" is in the URL slug but only 1x in 11968 words",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 1
         }
       ],
       "critical_count": 0,
