@@ -36,7 +36,7 @@ The UNESCO World Heritage designation that Ahmedabad received recognises the ext
 
 The commercial culture that Ahmedabad's textile trading history produced is visible in the city's present character: an emphasis on self-reliance, entrepreneurship, and commercial acumen that permeates daily interactions. Ahmedabad produces a disproportionate number of India's successful entrepreneurs and businesspeople relative to its size, reflecting a cultural tradition of commercial skill that goes back centuries.
 
-Gandhi's Sabarmati Ashram - the headquarters of Gandhi's Indian independence work, located on the banks of the Sabarmati river - is one of India's most significant historical sites and is in Ahmedabad. For TCS ILP trainees who arrive with any interest in Indian history, the Sabarmati Ashram visit is one of the most affecting experiences available during the Gujarat posting.
+Gandhi's Sabarmati Ashram - the headquarters of Gandhi's Indian independence work, located on the banks of the Sabarmati river - is one of India's most significant historical sites and is in Ahmadabad. For TCS ILP trainees who arrive with any interest in Indian history, the Sabarmati Ashram visit is one of the most affecting experiences available during the Gujarat posting.
 
 ### Ahmedabad's Food Culture
 
