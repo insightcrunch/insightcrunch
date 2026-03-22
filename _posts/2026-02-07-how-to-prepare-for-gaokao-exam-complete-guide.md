@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '高考备战全攻略：从考试架构到心态管理的系统性指南'
+title: '高考备战全攻略：从考试架构到心态管理的系统性指南 | Gaokao'
 date: 2026-02-07
 categories: ['Analytics']
 tags: ['高考', '备考策略', '学习方法']
