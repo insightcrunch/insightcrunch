@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考与NEET深度比较 - 医学招生路径、生化深度、考试压力与文化意义全面解析"
-page_title: "高考vs NEET完全比较指南 - 医学入学路径、生物化学深度、竞争强度与中印医学教育门控机制深度解析"
+page_title: "高考vs NEET完全比较指南 - 医学入学路径、生物化学深度、竞争强度与中印医学教育门控机制深度解析 Gaokao"
 date: 2025-10-25
 categories: ["Industry"]
 tags: ["高考", "NEET", "高考对比", "印度医学考试", "考试比较", "医学教育", "Gaokao", "NEET", "Exam Comparison", "Medical Admission"]
