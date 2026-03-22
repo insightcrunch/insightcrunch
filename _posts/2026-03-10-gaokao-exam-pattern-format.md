@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考考试模式与结构完全解析 - 3+1+2、3+3与各省差异全面指南"
-page_title: "高考考试模式完全解析 - 3+1+2模式、3+3模式、各科题型分值与时间分配全面指南"
+page_title: "高考考试模式完全解析 - 3+1+2模式、3+3模式、各科题型分值与时间分配全面指南 Gaokao"
 date: 2026-03-10
 categories: ["Industry"]
 tags: ["高考", "高考模式", "3+1+2", "3+3", "高考题型", "高考结构", "Gaokao", "Exam Pattern", "3+1+2 Model", "China Education"]
