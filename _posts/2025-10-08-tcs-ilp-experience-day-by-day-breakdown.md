@@ -4,12 +4,12 @@ title: "TCS ILP Experience - Day by Day Breakdown of Your 60-Day Training"
 date: 2025-10-08
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Experience", "Fresher", "IT Career", "Training"]
-excerpt: "What actually happens inside TCS ILP? This is the most detailed day-by-day account of the 60-day Initial Learning Program ever written, compiled from hundreds of alumni experiences across Trivandrum, Ahmedabad, Chennai, Hyderabad, and Guwahati. From the moment you walk through the gates on Day 1 to the final project presentation, every phase is covered ..."
+excerpt: "TCS ILP day-by-day breakdown: what happens in each of the 60 training days, from orientation to final PRA. The most detailed ILP account ever written."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 25
 author: "Insight Crunch Team"
+last_updated: 2026-03-22
 ---
-
 What actually happens inside TCS ILP? If you are about to join, this question is probably keeping you up at night. Every fresher wants to know the ground reality: what the days look like, when the assessments hit, how hard the project phase gets, and what the social experience actually feels like beyond the official brochures.
 
 This is the most detailed day-by-day account of the TCS Initial Learning Program ever compiled. We have gathered firsthand experiences from hundreds of ILP alumni across all five training centers, spanning multiple batches and streams, and organized them into a comprehensive narrative that covers every phase of the 60-day journey.
