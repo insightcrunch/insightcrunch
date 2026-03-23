@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS ILP Diagnostics and Assessments - IRA, IPA, PRA, and Every Test Explained"
+title: "TCS ILP Diagnostics & Assessments - IRA, IPA, PRA, Every Test"
+page_title: "TCS ILP Diagnostics and Assessments - IRA, IPA, PRA, and Every Test Explained"
 date: 2025-08-12
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "IPA", "PRA", "Diagnostics", "TCS Assessments", "ILP Exams", "TCS Training", "Xplore", "AsCEnD", "Fresher"]
