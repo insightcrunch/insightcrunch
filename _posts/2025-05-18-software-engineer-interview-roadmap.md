@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Complete Software Engineer Interview Roadmap: Company-Wise Preparation Strategy for Google, Amazon, Microsoft, Flipkart, Razorpay, Infosys & TCS with Round-by-Round Breakdown"
+title: "Software Engineer Interview Roadmap: Google, Amazon, Microsoft & More"
+page_title: "Complete Software Engineer Interview Roadmap: Company-Wise Preparation Strategy for Google, Amazon, Microsoft, Flipkart, Razorpay, Infosys & TCS with Round-by-Round Breakdown"
 date: 2025-05-18
 categories: ["Industry"]
 tags: ["Google interview preparation", "Amazon SDE interview", "Flipkart interview", "TCS NQT", "Infosys interview questions", "coding round", "software engineer interview", "interview preparation India", "product company interview", "FAANG interview"]
