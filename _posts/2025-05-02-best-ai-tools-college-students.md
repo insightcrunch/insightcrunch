@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Best AI Tools for College Students: 30 Free Apps for Studying, Essay Writing, Note-Taking, Research, Resume Building & Exam Preparation with Step-by-Step Tutorials"
+title: "Best AI Tools for College Students: 30 Free Apps for Study & Exams"
+page_title: "Best AI Tools for College Students: 30 Free Apps for Studying, Essay Writing, Note-Taking, Research, Resume Building & Exam Preparation with Step-by-Step Tutorials"
 date: 2025-05-02
 categories: ["Industry"]
 tags: ["AI tools for students", "AI study tools", "ChatGPT for college", "AI essay writing", "best apps for students", "free student tools", "AI note taking", "AI research tools", "AI resume builder", "exam preparation AI"]
