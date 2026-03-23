@@ -9,7 +9,7 @@ excerpt: "The complete TCS ILP guide covering training streams, assessment metho
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 Every TCS employee - whether they joined through NQT Ninja, Digital, Prime, Smart Hiring, or BPS - goes through the ILP before touching their first real project. The Initial Learning Program is TCS's mandatory onboarding and technical training program, and it is the most consequential period of your early TCS career for reasons that most joiners do not fully understand until it is behind them. Your ILP rating shapes your first project allocation. Your first project allocation shapes your domain expertise. Your domain expertise shapes where you go next. Getting ILP right is not just about surviving a training program - it is about setting the trajectory for your first three years at TCS. This guide covers everything: what the ILP actually involves, how the assessment works, what the rating system really means, what happens in each stream, and how to approach the program so it serves your career rather than merely checking an onboarding box.
 

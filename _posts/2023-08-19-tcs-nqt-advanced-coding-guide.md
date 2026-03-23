@@ -10,7 +10,7 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 61
 author: "Insight Crunch Team"
 render_with_liquid: false
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 The TCS NQT Advanced Coding section is where the hiring funnel narrows sharply. Every candidate who sits in the test hall has already cleared the eligibility bar - but the Advanced Coding section separates TCS Ninja from TCS Digital, and TCS Digital from TCS Prime. Two or three programming problems, ninety minutes, a browser-based IDE, and hidden test cases whose results you will not see until after the exam ends. For candidates who have not specifically prepared for this format, it is a brutal surprise. For candidates who understand exactly how the section is structured, what problem types to expect, and how to write code that passes not just visible test cases but all the edge cases running invisibly in the background - it is an opportunity to differentiate themselves completely.
 
