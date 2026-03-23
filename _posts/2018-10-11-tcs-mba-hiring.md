@@ -5,12 +5,12 @@ page_title: "TCS MBA Hiring - Complete Guide to Roles, Salary Packages, Recruitm
 date: 2018-10-11
 categories: ["Industry"]
 tags: ["TCS", "MBA Hiring", "B-School Recruitment", "MBA Salary"]
-excerpt: "TCS MBA hiring complete guide - available roles, salary packages, recruitment process, and B-school campus drives."
+excerpt: "TCS MBA hiring: how Tata Consultancy Services recruits MBA graduates, the roles offered, compensation packages, and what the selection process involves."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 TCS recruits more engineers than almost any other single employer on the planet. But the company's scale - nearly a million employees, hundreds of billions in revenue, clients spanning every major industry and geography - requires something beyond engineering delivery talent. It requires people who can bridge the technical and the business, who can understand a client's strategic context and translate it into technology implications, who can manage relationships and programs at the complexity that large enterprise transformation demands.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-05.webp)
