@@ -5,11 +5,11 @@ page_title: "Complete IELTS & TOEFL Preparation Guide: Study Plans, Free Resourc
 date: 2025-06-19
 categories: ["Industry"]
 tags: ["IELTS preparation", "TOEFL study plan", "study abroad", "study in Canada", "IELTS band 7", "free IELTS material", "study in UK", "study in Germany", "study in Australia", "English proficiency test"]
-excerpt: "IELTS and TOEFL preparation guide: study plans, free resources, section-wise band score strategies, and score requirements for top study abroad..."
+excerpt: "How to prepare for IELTS and TOEFL. Structured study plans, reading/writing/speaking/listening strategies, free practice resources, and target score..."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## Table of Contents
 

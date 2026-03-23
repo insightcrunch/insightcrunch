@@ -4,11 +4,11 @@ title: "个人理财与副业赚钱完全指南：基金定投、股票入门、
 date: 2025-06-28
 categories: ["Technology"]
 tags: ["个人理财", "基金定投", "股票入门", "副业赚钱", "被动收入", "自媒体变现", "理财方法"]
-excerpt: "个人理财入门完全指南：基金定投操作步骤、股票开户流程、自媒体变现技巧等15种被动收入方法，附起步资金要求、预期收益和风险评估。"
+excerpt: "普通人怎么开始理财赚钱？15种适合新手的被动收入方法详细解析：基金定投、股票入门、副业赚钱的操作步骤、收益预期和避坑指南。"
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 40
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## 目录
 
