@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'Panduan Definitif Lolos CPNS: Strategi Sistematis dari Persiapan hingga Pengangkatan'
+title: 'Panduan Definitif Lolos CPNS: Dari Persiapan hingga Pengangkatan'
+page_title: 'Panduan Definitif Lolos CPNS: Strategi Sistematis dari Persiapan hingga Pengangkatan'
 date: 2025-12-27
 categories: ['Analytics']
 tags: ['CPNS', 'ASN', 'Seleksi PNS', 'Tes CPNS']
