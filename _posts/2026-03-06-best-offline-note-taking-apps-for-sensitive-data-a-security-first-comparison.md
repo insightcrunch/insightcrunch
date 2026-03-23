@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Offline Note-Taking Apps for Sensitive Data: A Security-First Comparison"
+title: "Best Offline Note-Taking Apps for Sensitive Data: Security Comparison"
 date: 2026-03-06
 categories: ["Technology"]
 tags: []
