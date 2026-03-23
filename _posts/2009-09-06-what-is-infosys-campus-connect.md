@@ -4,11 +4,11 @@ title: "What is Infosys Campus Connect?"
 date: 2009-09-06
 categories: ["Industry"]
 tags: ["Infosys"]
-excerpt: "It is training program conducted in various colleges by Infosys to prepare the freshers on various topics and fields to make them industry ready. Most of the topics covered help the students apply ..."
+excerpt: "Infosys Campus Connect explained: the college training program that prepares students for IT careers with industry-relevant skills before graduation."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 It is training program conducted in various colleges by Infosys to prepare the freshers on various topics and fields to make them industry ready. Most of the topics covered help the students apply their knowledge in the practical field. Though non-CS/IT students would  benefit a lot from it, it is also useful for CS/IT students to brush up their skills.  
   

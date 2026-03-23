@@ -4,11 +4,11 @@ title: "Struggle of the Blacks"
 date: 2009-09-14
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "It’s good to see today that the oppression of the whites over the blacks has decreased to a great extent, to a major extent over the last 100 years. Some prominent personalities such as Malcolm X ..."
+excerpt: "The struggle for racial equality: from slavery through civil rights to modern progress. How the fight for Black dignity has evolved over centuries."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 It’s good to see today that the oppression of the whites over the blacks has decreased to a great extent, to a major extent over the last 100 years. Some prominent personalities such as Malcolm X played pivotal role in the eradication of such acts. Several cases may have prevailed in lesser known areas and places, but the major rulers, leaders, masses have had the realization to live in unity and peacefully. God is great!
 

@@ -5,12 +5,12 @@ page_title: "TCS Government Projects - Complete Guide to Passport Seva, E-Govern
 date: 2009-09-04
 categories: ["Industry"]
 tags: ["TCS", "Government Projects", "E-Governance", "Public Sector"]
-excerpt: "How TCS drives e-governance through Passport Seva and other government projects - scope, impact, and career paths."
+excerpt: "TCS passport offices launching: Tata Consultancy Services takes over passport processing to speed up the notoriously slow Indian passport system."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 When most people think of TCS, they picture enterprise software for banks, retail chains, and manufacturing companies. What is less visible but equally significant is TCS's role in transforming how governments deliver services to citizens. From the Passport Seva Project that reduced passport processing from weeks to days for hundreds of millions of Indians, to large-scale national identity and taxation technology systems, TCS has built one of the most consequential government technology portfolios of any IT company operating in India. Understanding TCS's government and e-governance work illuminates both the company's full scope and the career opportunities available to employees who want to build technology that affects public life at national scale.
 
 ![Citizens using digital government service kiosks, representing the transformation of public service delivery through TCS e-governance technology](/assets/images/blog/blog-09.webp)
