@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Complete College Application Guide: Common App Strategy, Essay Examples, Recommendation Letters, Extracurriculars, Test-Optional Schools & Admission Timeline for Every Deadline"
+title: "College Application Guide: Common App, Essays & Admission Timeline"
+page_title: "Complete College Application Guide: Common App Strategy, Essay Examples, Recommendation Letters, Extracurriculars, Test-Optional Schools & Admission Timeline for Every Deadline"
 date: 2025-04-29
 categories: ["Industry"]
 tags: ["college application tips", "Common App essay", "college admissions", "test-optional", "recommendation letter", "how to get into college", "college essay examples", "extracurricular activities", "college admission timeline", "early decision vs regular decision"]
