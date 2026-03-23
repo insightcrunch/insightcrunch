@@ -4,11 +4,11 @@ title: '高考备战全攻略：从考试架构到心态管理的系统性指南
 date: 2026-02-07
 categories: ['Analytics']
 tags: ['高考', '备考策略', '学习方法']
-excerpt: '高考备战全攻略：语数外理综文综各科目复习方法论、模考分析策略、时间管理技巧、心态调控方法与最后阶段冲刺规划的系统性指南。'
+excerpt: '高考怎么考出高分？语文数学英语理综文综各科备考方法详解、错题本高效使用技巧、模考数据分析策略和考前心态管理全面覆盖。'
 image: '/assets/images/blog/blog-10.webp'
 reading_time: 35
 author: 'Insight Crunch Team'
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## **1. 引言**
 
