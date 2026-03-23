@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Software Engineer Salary in India Complete Breakdown: Freshers to Senior, Company-Wise CTC Comparison, Negotiation Tips & Highest Paying Product-Based Companies"
+title: "Software Engineer Salary in India: Company-Wise CTC & Negotiation"
+page_title: "Software Engineer Salary in India Complete Breakdown: Freshers to Senior, Company-Wise CTC Comparison, Negotiation Tips & Highest Paying Product-Based Companies"
 date: 2025-06-05
 categories: ["Industry"]
 tags: ["software engineer salary India", "highest paying companies", "CTC comparison", "fresher salary", "product-based company salary", "IT salary India", "FAANG salary India", "software developer salary", "tech salary negotiation", "CTC breakdown India"]
