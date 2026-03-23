@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Definitive Guide to Cracking CAT: A Strategic Blueprint for MBA Aspirants'
+title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
 date: 2026-03-08
 categories: ['Industry']
 tags: ['CAT', 'MBA']
