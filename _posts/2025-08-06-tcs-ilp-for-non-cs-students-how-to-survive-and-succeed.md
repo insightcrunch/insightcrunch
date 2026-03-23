@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS ILP for Non-CS Students - How to Survive and Succeed Without a Computer Science Background"
+title: "TCS ILP for Non-CS Students - How to Survive and Succeed"
+page_title: "TCS ILP for Non-CS Students - How to Survive and Succeed Without a Computer Science Background"
 date: 2025-08-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Non-CS", "Mechanical Engineering", "ECE", "EEE", "Civil Engineering", "TCS Freshers", "Career Switch", "ILP Preparation", "Fresher"]
