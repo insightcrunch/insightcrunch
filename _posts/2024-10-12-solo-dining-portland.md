@@ -4,11 +4,11 @@ title: "Best Restaurants for Solo Dining in Portland"
 date: 2024-10-12
 categories: ["Leisure"]
 tags: ["solo-dining", "portland", "restaurants", "portland-food", "eating-alone", "counter-dining", "bar-seating", "food-carts", "pearl-district", "alberta", "hawthorne", "craft-beer"]
-excerpt: "Best restaurants for solo dining in Portland: food cart pods, wine bars, omakase counters, and bar seating spots perfect for eating alone in PDX."
+excerpt: "Where to eat alone in Portland. Bar-friendly restaurants, food cart pods, counter seating spots, and the neighborhoods where solo diners feel most welcome."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Portland is a city that was built for the solo diner. It is the city of food carts and craft beer, of farm-to-table restaurants and vegan diners, of third-wave coffee shops and natural wine bars, of a food culture so deeply committed to individuality, independence, and doing things your own way that eating alone here feels not like a compromise but like the natural state of affairs. It is a city where the food cart pod, that uniquely Portland institution of clustered food trucks with communal seating and a beer garden, is the most democratic and solo-friendly dining format in America. It is a city where the solo diner at a ramen counter, a wine bar, or an omakase seat is so common that the restaurants have designed their spaces around this customer, with counter seating, individual portions, and a culture of leaving people alone to enjoy their food in peace.
 
