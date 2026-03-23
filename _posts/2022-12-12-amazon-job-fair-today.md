@@ -4,11 +4,11 @@ title: "Amazon job fair today"
 date: 2022-12-12
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world, and it employs hundreds of thousands of people. There are a variety of job opportunities that are available at Amazon where candidates can ..."
+excerpt: "Amazon job fairs: how to find hiring events near you, what to bring, what happens at the event, and how on-the-spot offers work at Amazon recruitment days."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

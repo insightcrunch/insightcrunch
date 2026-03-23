@@ -4,11 +4,11 @@ title: "Meta Layoffs and Hiring Freeze"
 date: 2022-12-24
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest corporations in the world today and there are billions of people who are using its products including Facebook, WhatsApp, and Instagram. There has been serious challenges ..."
+excerpt: "Meta layoffs and hiring freeze combined impact: job cuts across Facebook, Instagram, and WhatsApp teams alongside a prolonged recruitment shutdown."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

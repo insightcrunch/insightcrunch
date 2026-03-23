@@ -4,11 +4,11 @@ title: "Amazon force jobs"
 date: 2022-12-06
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world and every year it employs and hires hundreds of thousands of hourly workers. We see a huge number of employees that are leaving Amazon and who ..."
+excerpt: "Amazon Force jobs portal: how hourly warehouse workers find shifts, check schedules, manage availability, and access employment resources through AtoZ."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 12
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Amazon Leadership Principles"
 date: 2022-12-22
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today and there are a variety of principles that Amazon uses to nurture its employees. Amazon has a specific set of core values and leadership ..."
+excerpt: "Amazon's 16 Leadership Principles explained: Customer Obsession, Ownership, Bias for Action, and every principle that drives hiring and promotions at..."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

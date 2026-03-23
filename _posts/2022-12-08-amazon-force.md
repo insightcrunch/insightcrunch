@@ -4,11 +4,11 @@ title: "Amazon force"
 date: 2022-12-08
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today, and they are a variety of opportunities for candidates who want to work at Amazon. The workforce of Amazon is distributed across a ..."
+excerpt: "Amazon Force explained: the internal platform for warehouse and fulfillment workers to manage schedules, view pay, request time off, and access HR..."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 
