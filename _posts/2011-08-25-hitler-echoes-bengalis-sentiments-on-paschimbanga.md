@@ -4,11 +4,11 @@ title: "Hitler echoes Bengali’s sentiments on Paschimbanga"
 date: 2011-08-25
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "It has been an epic change to the state. The people of Bengal are totally against this as is evident by the campaigns and slogans going on across the social networking sites. In the midst of all ..."
+excerpt: "Hitler Downfall parody on Paschimbanga renaming. The viral meme format captures Bengali frustration over the unpopular name change perfectly."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 It has been an epic change to the state. The people of Bengal are totally against this as is evident by the campaigns and slogans going on across the social networking sites. In the midst of all this, let us take a moment out to see how Hitler perfectly echoes the Bengali sentiments.
 

@@ -4,11 +4,11 @@ title: "Importance of Communication Skills in the global upfront"
 date: 2011-10-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "*This is a guest post by Ashish Nandwani. *"
+excerpt: "Why communication skills matter in IT careers. How effective speaking and writing separate successful professionals from technically equal peers."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 *This is a guest post by Ashish Nandwani.  *
 

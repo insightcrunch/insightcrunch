@@ -4,11 +4,11 @@ title: "Few sidewalk reasons why we should support Anna Hazare"
 date: 2011-08-19
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Do you know what will happen if 1,456 Lakh Crores come back to our country?"
+excerpt: "Why support Anna Hazare? The black money numbers, the corruption costs, and what bringing back 1,456 lakh crore could mean for India's development."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Hazare says: Bring back the Black Money.  
  Do you know what will happen if 1,456 Lakh Crores come back to our country?  
