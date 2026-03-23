@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAT Expression of Ideas: Transitions, Synthesis, and Rhetorical Strategy"
+title: "SAT Expression of Ideas: Transitions, Synthesis, and Strategy"
 page_title: "SAT Expression of Ideas Complete Guide: Transitions, Notes-Based Synthesis, Sentence Placement, and Effective Language Use on the Digital SAT"
 date: 2021-02-27
 categories: ["Industry"]
