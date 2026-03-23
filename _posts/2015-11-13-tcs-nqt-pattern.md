@@ -5,12 +5,12 @@ page_title: "TCS NQT Exam Pattern - Complete Breakdown of Test Structure, Sectio
 date: 2015-11-13
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Exam Pattern", "Test Structure"]
-excerpt: "TCS NQT exam pattern fully decoded - sections, marking scheme, time allocation, question types, and test structure."
+excerpt: "What is the TCS NQT exam pattern? Section-wise breakdown of aptitude, reasoning, verbal, and coding rounds with time limits and question counts."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Every year, hundreds of thousands of engineering graduates sit for the TCS National Qualifier Test. For most of them, it is the single most consequential exam after their final semester - the gateway to one of India's largest and most respected employers, the test whose outcome determines whether they join TCS as a Ninja, advance to Digital track consideration, or need to seek other opportunities.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-02.webp)

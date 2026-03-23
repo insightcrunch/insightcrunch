@@ -4,11 +4,11 @@ title: "Is Meta in a hiring freeze?"
 date: 2015-07-10
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is the parent company of Facebook. There has been changes in the hiring plans of Meta. The hiring target has been reduced by a staggering 30%. CEO Mark Zuckerberg has informed the Meta employees ..."
+excerpt: "Meta's 30% hiring reduction: Zuckerberg slashes recruitment targets, freezes most roles, and signals a long period of austerity at Facebook's parent."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 5
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Overview
 

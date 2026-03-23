@@ -4,11 +4,11 @@ title: "Will Google layoff employees?"
 date: 2015-04-22
 categories: ["Industry"]
 tags: ["Google"]
-excerpt: "Google has been known for years as one of the top companies providing luxurious perks to its employees. Due to rising inflation, and the ongoing economic weak scenario, the senior management at ..."
+excerpt: "Will Google lay off employees? The factors driving potential cuts, how Google's perks culture may change, and what economic signals suggest for Alphabet."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 7
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

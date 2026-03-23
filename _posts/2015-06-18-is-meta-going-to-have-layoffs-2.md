@@ -4,11 +4,11 @@ title: "Is Meta in trouble?"
 date: 2015-06-18
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest software companies in the world today. Meta is the parent company, which owns multiple products like Facebook, Instagram and WhatsApp. The CEO of Meta is Mark Zuckerberg. ..."
+excerpt: "Is Meta in trouble? Revenue declines, Metaverse uncertainty, TikTok competition, and whether Facebook's parent company faces a deeper structural crisis."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Overview
 

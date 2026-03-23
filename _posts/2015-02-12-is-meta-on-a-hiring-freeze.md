@@ -4,11 +4,11 @@ title: "Is Meta on a hiring freeze?"
 date: 2015-02-12
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "In the current technology sector, there is a recession on the horizon. Even though the recession will globally affect the entire economy, the technology sector is cautious now. Many companies like ..."
+excerpt: "Meta's hiring freeze in the context of the broader tech recession. How other companies compare, what roles Meta might open first, and recovery signals."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 7
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 
