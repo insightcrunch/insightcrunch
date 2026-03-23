@@ -9,7 +9,7 @@ excerpt: "Master SAT Expression of Ideas questions including transitions, notes-
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 # SAT Expression of Ideas: Transitions, Synthesis, and Rhetorical Strategy
 

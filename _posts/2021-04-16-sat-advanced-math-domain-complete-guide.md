@@ -9,7 +9,7 @@ excerpt: "Master every SAT Advanced Math topic including quadratics, polynomials
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 # SAT Advanced Math: Quadratics, Polynomials, and Beyond
 

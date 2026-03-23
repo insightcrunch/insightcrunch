@@ -9,7 +9,7 @@ excerpt: "Master every SAT Geometry and Trigonometry topic including triangles, 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 # SAT Geometry and Trigonometry: Every Topic Explained
 

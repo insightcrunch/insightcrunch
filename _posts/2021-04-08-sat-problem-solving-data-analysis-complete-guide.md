@@ -9,7 +9,7 @@ excerpt: "Master every SAT Problem Solving and Data Analysis topic including rat
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 # SAT Problem Solving and Data Analysis: The Complete Guide
 
