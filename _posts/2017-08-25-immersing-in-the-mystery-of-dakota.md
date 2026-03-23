@@ -4,11 +4,11 @@ title: "Immersing in the Mystery of Dakota"
 date: 2017-08-25
 categories: ["Travel"]
 tags: ["Nature"]
-excerpt: "Time is the medium by which life unravels itself. We can understand ourselves better and get to know what right means by looking at the centuries of years behind us. A trip to Dakota sparks that ..."
+excerpt: "Exploring the Dakotas: where centuries of history meet vast open landscapes. A travel narrative about time, place, and understanding the American past."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Time is the medium by which life unravels itself. We can understand ourselves better and get to know what right means by looking at the centuries of years behind us. A trip to Dakota sparks that consciousness in us which makes us question why we are what we are. A visit to the Crazy Horse Memorial triggers waves of emotions which are hard to explain. The questions of why, how, continued to plunge us down more and more into repentance, one which could do nothing about.
 

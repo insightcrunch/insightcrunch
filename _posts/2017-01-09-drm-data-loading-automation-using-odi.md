@@ -4,11 +4,11 @@ title: "DRM Data Loading Automation using ODI"
 date: 2017-01-09
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "The Oracle Hyperion Data Relationship Management application is a pretty flexible tool and most of the activities that can be done manually can be automated (using ETL tools like ODI, Informatica ..."
+excerpt: "Automate Oracle DRM data loading using ODI: ETL pipeline setup for importing master data into Data Relationship Management from external sources."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The Oracle Hyperion Data Relationship Management application is a pretty flexible tool and most of the activities that can be done manually can be automated (using ETL tools like ODI, Informatica PowerCenter, etc). Recently I was presented with a business scenario by one of my readers which is pretty interesting yet tricky. Yes it involves a request to automating a manual process as you might have already guessed.
 

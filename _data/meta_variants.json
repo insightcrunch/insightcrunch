@@ -2046,91 +2046,91 @@
     "variant_2": "Move data between Oracle and Hive with Sqoop. Import/export commands, connection setup, common errors, and the best practices for reliable transfers."
   },
   "2016-11-02-managing-bi-services-using-odi.md": {
-    "current": 0,
+    "current": 1,
     "original": "Oracle Data Integrator is one of the widely used tools for data loading into the Oracle Business Intelligence data warehouse. Often it happens that due to...",
     "variant_1": "Manage Oracle BI services through ODI: restart OBIEE components, refresh metadata, and automate BI maintenance tasks from within your ETL pipeline.",
     "variant_2": "Automate OBIEE maintenance from ODI. Restart services, refresh RPD, and manage BI components programmatically as part of your data pipeline."
   },
   "2016-11-05-oracle-bi-apps-dynamic-hierarchy-filtering-in-odi-incremental-load-plan.md": {
-    "current": 0,
+    "current": 1,
     "original": "Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension...",
     "variant_1": "Dynamic hierarchy filtering in Oracle BI Apps ODI incremental loads: restrict dimension data during extraction based on runtime conditions and variables.",
     "variant_2": "Filter hierarchies dynamically in BI Apps ODI loads. How to restrict dimension data at runtime using variables and conditional logic in load plans."
   },
   "2016-12-16-tcs-ilp-hyderabad-experience.md": {
-    "current": 1,
+    "current": 2,
     "original": "*This is a guest post. The views expressed are of the author.*",
     "variant_1": "Extensive TCS ILP Hyderabad experience: a long-form account covering the full training period at the Hyderabad center with daily details and honest...",
     "variant_2": "The most detailed TCS ILP Hyderabad post: day-by-day training account, hostel facilities, Hyderabad exploration, and advice for incoming batches."
   },
   "2017-01-09-drm-data-loading-automation-using-odi.md": {
-    "current": 0,
+    "current": 1,
     "original": "The Oracle Hyperion Data Relationship Management application is a pretty flexible tool and most of the activities that can be done manually can be...",
     "variant_1": "Automate Oracle DRM data loading using ODI: ETL pipeline setup for importing master data into Data Relationship Management from external sources.",
     "variant_2": "Load data into Oracle DRM automatically using ODI. Pipeline design, mapping configuration, scheduling, and the integration pattern that saves hours."
   },
   "2017-02-10-infosys-hiring-process.md": {
-    "current": 0,
+    "current": 1,
     "original": "*This is a guest post on Infosys by Gayathri Sachdeva. The views expressed are of the author.*",
     "variant_1": "Infosys hiring process overview: a guest post covering how Infosys recruits freshers, the selection rounds, interview format, and tips from a real...",
     "variant_2": "How does Infosys hire? A first-hand guest post on the recruitment process covering aptitude, technical, and HR rounds with practical preparation advice."
   },
   "2017-03-20-tcs-nqt-hiring-process.md": {
-    "current": 1,
+    "current": 2,
     "original": "This is a guest post on TCS NQT by Manish Chawla. The views expressed are of the author.",
     "variant_1": "TCS NQT hiring process after qualifying: interview stages, HR round expectations, offer letter timeline, and what happens between your NQT score and...",
     "variant_2": "What happens after you pass TCS NQT? The complete hiring pipeline from score release to interview call, HR round, offer letter, and joining confirmation."
   },
   "2017-04-13-tcs-codevita-hiring-process.md": {
-    "current": 0,
+    "current": 1,
     "original": "This is a guest post on TCS CodeVita by Sahil Jhunjhunwala. The views expressed are of the author.",
     "variant_1": "TCS CodeVita hiring: how the coding competition leads to direct interviews, the selection process, problem difficulty, and what winners should expect.",
     "variant_2": "Can TCS CodeVita get you hired? How the coding contest connects to TCS recruitment, what happens after you rank well, and the interview that follows."
   },
   "2017-05-24-obiee-dashboard-export-to-excel-pdf-html-using-custom-links.md": {
-    "current": 0,
+    "current": 1,
     "original": "Oracle Business Intelligence Application in it's out of the box form do not provide any solution to export a dashboard from another dashboard using custom...",
     "variant_1": "Export OBIEE dashboards to Excel, PDF, or HTML using custom links. A workaround for the missing out-of-the-box cross-dashboard export functionality.",
     "variant_2": "OBIEE lacks dashboard-to-dashboard export? Build custom links that let users download any dashboard as Excel, PDF, or HTML from another dashboard."
   },
   "2017-06-02-tcs-digital-interview-experience-2.md": {
-    "current": 1,
+    "current": 2,
     "original": "This is guest post on TCS Digital by Ankita Mishra. The views expressed are of the author.",
     "variant_1": "TCS Digital interview experience: a real candidate's account of technical and managerial round questions, preparation that helped, and the final outcome.",
     "variant_2": "What is the TCS Digital interview like? First-hand account covering technical questions, coding round, managerial interview, and tips that made a..."
   },
   "2017-07-19-tcs-interview-tips.md": {
-    "current": 1,
+    "current": 2,
     "original": "This is a guest post on TCS Interview by Rakesh Kumar. The views expressed are of the author.",
     "variant_1": "TCS interview preparation tips: how to approach technical rounds, HR questions, common mistakes to avoid, and the mindset that helps candidates succeed.",
     "variant_2": "Preparing for a TCS interview? Practical tips on technical round preparation, HR question handling, body language, and the mistakes most candidates make."
   },
   "2017-08-08-a-trip-to-the-1850s.md": {
-    "current": 0,
+    "current": 1,
     "original": "The last few months have been incredible. It isn't something unusual to come across great movies sporadically, but the impact of a great book is so much...",
     "variant_1": "A journey back to the 1850s through books and travel. When reading history and visiting the places where it happened creates a vivid personal connection.",
     "variant_2": "What happens when you read about the 1850s and then walk through the places where it all happened? A journey where history becomes intensely personal."
   },
   "2017-08-25-immersing-in-the-mystery-of-dakota.md": {
-    "current": 0,
+    "current": 1,
     "original": "Time is the medium by which life unravels itself. We can understand ourselves better and get to know what right means by looking at the centuries of years...",
     "variant_1": "Exploring the Dakotas: where centuries of history meet vast open landscapes. A travel narrative about time, place, and understanding the American past.",
     "variant_2": "The Dakotas hold mysteries older than the nation itself. A travel experience that blends landscape, history, and deep personal reflection."
   },
   "2017-08-29-the-fascinating-world-of-ford.md": {
-    "current": 0,
+    "current": 1,
     "original": "The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It...",
     "variant_1": "The Ford automobile revolution: how Henry Ford's assembly line changed manufacturing, mobility, and the shape of modern American life forever.",
     "variant_2": "Henry Ford did not just build cars. He reshaped society. A look at the assembly line revolution, mass production, and how Ford changed everything."
   },
   "2017-09-07-tcs-digital-interview-experience.md": {
-    "current": 1,
+    "current": 2,
     "original": "This is a guest post on TCS Digital by Nikhil Chauhan. The views expressed are of the author.",
     "variant_1": "TCS Digital interview experience: another candidate's perspective on the selection process, question difficulty, and what prepared them for success.",
     "variant_2": "Real TCS Digital interview account: the questions asked, how the rounds progressed, preparation resources that helped, and honest advice for candidates."
   },
   "2017-10-14-call-of-the-south-west.md": {
-    "current": 0,
+    "current": 1,
     "original": "A trip to the southwest USA creates excitement even when we just imagine it, even though it is not my first time. It was during late winter that we...",
     "variant_1": "Southwest USA travel: the red canyons, desert skies, and rugged landscapes that make this region one of the most visually stunning places on earth.",
     "variant_2": "The American Southwest calls you back every time. Red rock canyons, endless desert, and landscapes that photographs can never fully capture."
