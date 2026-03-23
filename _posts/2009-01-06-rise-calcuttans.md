@@ -4,7 +4,7 @@ title: "Rise, Calcuttans"
 date: 2009-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Why is Kolkata falling behind while other Indian cities race ahead? A frustrated resident's honest look at stalled urban development."
+excerpt: "Its sad to see my home town deteriorating like this in terms of its progress. It has only heard the plans of its improvement over the last couple of years..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "Insight Crunch Team"
