@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What If Hamza Never Came Home? Exploring Alternative Endings to Dhurandhar: The Revenge"
+title: "Exploring Alternative Endings to Dhurandhar: The Revenge"
+page_title: "What If Hamza Never Came Home? Exploring Alternative Endings to Dhurandhar: The Revenge"
 date: 2026-03-12
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "ranveer-singh", "spy-thriller", "alternate-endings", "aditya-dhar"]
