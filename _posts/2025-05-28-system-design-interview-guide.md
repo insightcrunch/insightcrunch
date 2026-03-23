@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Complete System Design Interview Guide: Step-by-Step Approach, Real-World Architecture Examples, Scalability Patterns & Practice Problems for SDE-2 and Senior Roles"
+title: "Complete System Design Interview Guide: Patterns & Practice Problems"
+page_title: "Complete System Design Interview Guide: Step-by-Step Approach, Real-World Architecture Examples, Scalability Patterns & Practice Problems for SDE-2 and Senior Roles"
 date: 2025-05-28
 categories: ["Industry"]
 tags: ["system design interview", "system design preparation", "scalability", "distributed systems", "SDE-2 interview", "senior engineer interview", "high level design", "low level design", "database design", "microservices"]
