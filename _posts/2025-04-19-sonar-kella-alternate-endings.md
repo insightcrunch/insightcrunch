@@ -4,11 +4,11 @@ title: "সোনার কেল্লার অজানা সমাপ্ত
 date: 2025-04-19
 categories: ["Leisure"]
 tags: ["Thoughts", "Bengali Literature", "Satyajit Ray", "Feluda", "Sonar Kella", "Alternate Endings", "Bengali Fiction", "Classic Stories"]
-excerpt: "সোনার কেল্লার বিকল্প সমাপ্তি: মুকুলের স্মৃতি যদি মিথ্যা হতো? ফেলুদা যদি হারতেন? সত্যজিৎ রায়ের ক্লাসিকের নতুন কল্পনা।"
+excerpt: "সত্যজিৎ রায়ের সোনার কেল্লা অন্যভাবে শেষ হলে কী হতো? ফেলুদা, তোপসে, মুকুল আর জটায়ুর গল্পে ভিন্ন মোড় নেওয়া কাল্পনিক সমাপ্তি।"
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 55
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## ভূমিকা: একটি অমর কাহিনির নতুন পাঠ
 

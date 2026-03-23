@@ -5,11 +5,11 @@ page_title: "Best AI Tools for College Students: 30 Free Apps for Studying, Essa
 date: 2025-05-02
 categories: ["Industry"]
 tags: ["AI tools for students", "AI study tools", "ChatGPT for college", "AI essay writing", "best apps for students", "free student tools", "AI note taking", "AI research tools", "AI resume builder", "exam preparation AI"]
-excerpt: "30 best AI tools for college students: free apps for studying, essay drafting, note-taking, research, resume building, and exam prep with tutorials for..."
+excerpt: "Best free AI tools for students in 2025. ChatGPT, Notion AI, Grammarly, and 27 more apps for studying, writing, research, and career prep with how-to..."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 55
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## Table of Contents
 
