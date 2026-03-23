@@ -4,11 +4,11 @@ title: "Tableau Tips and Shortcuts Every User Should Know"
 date: 2023-08-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau, a powerful data visualization tool, has revolutionized the way we analyze and present data. Whether you're a seasoned user or just starting your Tableau journey, mastering its tips and ..."
+excerpt: "Tableau tips and keyboard shortcuts every user should memorize: navigation, calculation editing, formatting, and the time-savers that boost your speed."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Tableau, a powerful data visualization tool, has revolutionized the way we analyze and present data. Whether you're a seasoned user or just starting your Tableau journey, mastering its tips and shortcuts can significantly enhance your productivity and efficiency. In this article, we'll delve into a curated list of Tableau tips and keyboard shortcuts that every user should be aware of.
 
