@@ -4,11 +4,11 @@ title: "Reeder: The best feed reader on the iPhone is going to launch on the iPa
 date: 2010-07-06
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Most of the RSS readers work average with the iPad, many of the ones which used to provide superb performance for the iPhone work more or less efficiently in the iPad. Reeder didn’t have such a ..."
+excerpt: "Reeder RSS reader coming to iPad: the best iPhone feed reader app is being redesigned for Apple's tablet with a bigger, more immersive experience."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Most of the RSS readers work average with the iPad, many of the ones which used to provide superb performance for the iPhone work more or less efficiently in the iPad.  Reeder didn’t have such a support for the iPad until recently when it will extend its support for the iPad soon.
 

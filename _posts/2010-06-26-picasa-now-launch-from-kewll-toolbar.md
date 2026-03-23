@@ -4,11 +4,11 @@ title: "Picasa: Now launch from Kewll Toolbar"
 date: 2010-06-26
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "In a recent blend of activities that had been going on taking Kewll to the next level, the Picasa program launcher had been added to it. If you have Picasa installed, you can click ‘Launch Picasa’ ..."
+excerpt: "Kewll toolbar adds Picasa launcher: open Google's photo editor directly from your browser toolbar with a single click. Quick and convenient."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 In a recent blend of activities that had been going on taking Kewll to the next level, the Picasa program launcher had been added to it. If you have Picasa installed, you can click ‘Launch Picasa’ under the Picasa icon and it starts up immediately. So now you don’t need to minimize your browser and look for the Picasa program launcher icon on your desktop.
 
