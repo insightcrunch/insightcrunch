@@ -4,11 +4,11 @@ title: "Best Restaurants for Solo Dining in New York City - A Complete Guide"
 date: 2025-01-12
 categories: ["Leisure"]
 tags: ["solo-dining", "new-york-city", "restaurants", "nyc-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "fine-dining"]
-excerpt: "Best restaurants for solo dining in New York City: ramen counters, sushi bars, pizza slices, wine bars, and the best bar seats across all five boroughs."
+excerpt: "Where to eat alone in NYC. Counter seats, bar dining, and slice joints from Manhattan to Brooklyn where solo diners are part of the culture, not the..."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 New York City is the greatest solo dining city on Earth. That is not hyperbole. It is a statement backed by the sheer density of counter seats, chef's tables, bar dining programs, and communal table concepts packed into five boroughs. In a city where roughly 33 percent of households consist of a single person, eating alone is not a consolation prize. It is a way of life, a conscious ritual, and for many New Yorkers, one of the most deeply satisfying pleasures the city has to offer.
 
