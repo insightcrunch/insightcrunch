@@ -4,11 +4,11 @@ title: "How Google should add real-time search results of Twitter and other site
 date: 2009-08-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Most of us who are familiar with real-time search engines have heard about some top guns in this business like [Scoopler](http://www.scoopler.com/), [Collecta](http://collecta.com/), ..."
+excerpt: "How Google could integrate real-time Twitter and social media results into search. A proposal for blending traditional and live content in SERPs."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Most of us who are familiar with real-time search engines have heard about some top guns in this business like [Scoopler](http://www.scoopler.com/), [Collecta](http://collecta.com/), [CrowdEye](http://www.crowdeye.com/) and [Tweetmeme](http://tweetmeme.com/). These engines, apparently unexpectedly, are making Google think about integrating some real-time search results into its results. It will appear to be a very complex task considering Google's present algorithms and functionality is totally different in the way it calculates search results, and they are not adapted yet to integrate real-time results at all. If they start doing that, the relevant search results which appear now may be pushed down by lesser important tweets or results by other micro blogging services, simply because in the concept of real-time you are giving importance to an incident that is happening right at this instant, it may be of no priority at all, but since it takes place “now” it has to find its place at the top of the real-time search results.
 

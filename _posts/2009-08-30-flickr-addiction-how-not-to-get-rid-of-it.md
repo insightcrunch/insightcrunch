@@ -4,11 +4,11 @@ title: "Flickr's addiction : How not to get rid of it"
 date: 2009-08-30
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "If you are an avid lover of photography and a bit net savvy you have surely heard of Flickr. And not to forget it’s Pro feature which comes at a cost of ..."
+excerpt: "Addicted to Flickr? You are not alone. Why the photo sharing community is so compelling, the Pro subscription trap, and the photography obsession."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 If you are an avid lover of photography and a bit net savvy you have surely heard of Flickr. And not to forget it’s Pro feature which comes at a cost of 24.95$/year.[](http://www.flickr.com/photos/rahul__/sets/72157620544751027/detail/) Having used this for quite some time now, I feel it offers you much more than you can actually imagine. If you are already  to sharing your photos of your friends and families and really cherishing the full resolution unlimited storage of your photos, it’s time to for you to explore the thousands of groups that exist there based on specific categories like nature, wildlife, sunrise, flowers, etc. You can start with [this group](http://www.flickr.com/groups/rahulsgroup/). Extensively sharing your photos in as many groups you can, will give your photo a very decent exposure, and you will often several comments, some of which you will find pretty well though and can be a learning curve as well. Keep sharing your photos in the groups as I said. Only limit you will face is sharing is up to 10 groups per photo for free users and 60 for Pro users.
 

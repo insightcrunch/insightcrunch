@@ -4,11 +4,11 @@ title: "Flickr photos on sale report by Jim Goldstein is shocking"
 date: 2009-08-14
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "It’s not Flickr’s fault to start with. And no photos of users that were marked “Private” were compromised. But however this incident is sure to raise a few eyebrows of Yahoo and it’s API licensing ..."
+excerpt: "Flickr photos found for sale without photographers' consent. Jim Goldstein's report exposes a major gap in Yahoo's photo protection policies."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 It’s not Flickr’s fault to start with. And no photos of users that were marked “Private” were compromised. But however this incident is sure to raise a few eyebrows of Yahoo and it’s API licensing authorities.
 
