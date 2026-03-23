@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS ILP to Project Allocation - What Actually Happens After Training Ends"
+title: "TCS ILP to Project Allocation - What Actually Happens After ILP"
+page_title: "TCS ILP to Project Allocation - What Actually Happens After Training Ends"
 date: 2025-08-16
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Project Allocation", "RMG", "Bench Period", "TCS Career", "Fresher", "IT Career", "TCS Project"]
