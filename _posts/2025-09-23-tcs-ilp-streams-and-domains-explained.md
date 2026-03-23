@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS ILP Streams and Domains - Java, .NET, SAP, ITIS, CSP, Python Explained"
+title: "TCS ILP Streams and Domains - Java, .NET, SAP, ITIS, CSP, Python"
+page_title: "TCS ILP Streams and Domains - Java, .NET, SAP, ITIS, CSP, Python Explained"
 date: 2025-09-23
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Streams", "Java", ".NET", "SAP", "ITIS", "CSP", "Python", "Fresher"]
