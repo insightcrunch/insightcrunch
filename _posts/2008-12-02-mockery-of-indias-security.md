@@ -4,7 +4,7 @@ title: "Mockery of India’s security"
 date: 2008-12-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Mumbai 26/11 attack analysis: intelligence failures, security lapses, and why warnings were ignored despite specific location alerts from allies."
+excerpt: "How did Mumbai 26/11 happen despite advance warnings? A look at the intelligence breakdown and systemic security failures that followed."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 1
 author: "Insight Crunch Team"

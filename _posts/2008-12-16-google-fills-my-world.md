@@ -4,7 +4,7 @@ title: "Google fills my world"
 date: 2008-12-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
-excerpt: "From Chrome to Maps to Gmail: why Google's relentless innovation felt like watching the future arrive one product at a time in the late 2000s."
+excerpt: "A love letter to Google's product era. Chrome, Gmail, Maps, and why their innovation engine outpaced Microsoft at every single turn."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"

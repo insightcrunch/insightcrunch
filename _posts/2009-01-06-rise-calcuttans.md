@@ -4,7 +4,7 @@ title: "Rise, Calcuttans"
 date: 2009-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Its sad to see my home town deteriorating like this in terms of its progress. It has only heard the plans of its improvement over the last couple of years..."
+excerpt: "Kolkata's stalled progress: broken promises, political inertia, and why the city's residents deserve better infrastructure and governance now."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "Insight Crunch Team"

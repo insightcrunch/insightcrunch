@@ -4,7 +4,7 @@ title: "Breaking the photo limit while using Windows Live Writer and Blogger"
 date: 2008-12-29
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "As we all know, Blogger uses Picasa Web Albums to store any image that we upload in our blog. It creates an album with the same name as the blog and..."
+excerpt: "Fix Blogger photo upload limits when using Windows Live Writer. How Picasa Web Albums storage works and workarounds for the 1 GB cap."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 2
 author: "Insight Crunch Team"
