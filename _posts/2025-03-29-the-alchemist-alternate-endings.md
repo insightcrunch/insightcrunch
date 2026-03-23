@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What If Santiago Never Found the Treasure? Exploring Alternative Endings to The Alchemist"
+title: "Alternate Endings to The Alchemist: What If Santiago Never Found It?"
+page_title: "What If Santiago Never Found the Treasure? Exploring Alternative Endings to The Alchemist"
 date: 2025-03-29
 categories: ["Leisure"]
 tags: ["paulo-coelho", "classic-literature", "the-alchemist", "alternate-endings", "literary-analysis"]
