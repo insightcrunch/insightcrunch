@@ -4,7 +4,7 @@ title: "The Maestro - A.R. Rahman"
 date: 2009-01-16
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "A.R. Rahman's Golden Globe win and the road to the Oscars. Why his music stands apart with a rare blend of melody, soul, and innovation."
+excerpt: "Why A.R. Rahman is not just a great composer but a once-in-a-generation talent. From the Golden Globe to the Oscar, the maestro's journey."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"

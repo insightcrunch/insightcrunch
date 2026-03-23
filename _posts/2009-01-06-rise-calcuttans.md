@@ -4,7 +4,7 @@ title: "Rise, Calcuttans"
 date: 2009-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Kolkata's stalled progress: broken promises, political inertia, and why the city's residents deserve better infrastructure and governance now."
+excerpt: "Why is Kolkata falling behind while other Indian cities race ahead? A frustrated resident's honest look at stalled urban development."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "Insight Crunch Team"

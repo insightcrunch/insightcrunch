@@ -4,7 +4,7 @@ title: "Why do one blog?"
 date: 2009-01-04
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Why do millions of people blog on WordPress, Blogger, and Typepad? Personal reflections on what drives the urge to write and publish online."
+excerpt: "What motivates someone to start a blog and keep writing? Honest thoughts on blogging culture, attention, and the desire to be heard publicly."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 3
 author: "Insight Crunch Team"

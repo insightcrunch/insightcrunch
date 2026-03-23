@@ -4,7 +4,7 @@ title: "If every living thing talked human"
 date: 2009-01-13
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "What if animals could talk to humans? A playful childhood reflection on communicating with pets, wildlife, and everything in the natural world."
+excerpt: "Imagine having a real conversation with your dog. A lighthearted piece on the childhood dream of talking to every living creature around us."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
