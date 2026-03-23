@@ -9,7 +9,7 @@ excerpt: "Solve TCS coding problems the Pythonic way. Leverage Python's strength
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-17
+last_updated: 2026-03-23
 ---
 Python has become the most popular language among TCS NQT candidates who are not competitive programmers by background, and for good reason: its expressive syntax lets you write correct solutions faster, its built-in data structures eliminate boilerplate, and its standard library contains tools that solve entire categories of problems in one function call. But Python on TCS iON has specific considerations - version compatibility matters, time limits can catch out naive implementations, and the input handling pattern is different from what most candidates practise. This guide covers the complete Python picture for TCS: the platform-specific details you must know, and a category-by-category problem collection showing both the Pythonic approach and the naive approach so you understand what Python is saving you.
 

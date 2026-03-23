@@ -9,7 +9,7 @@ excerpt: "Complete guide to Infosys's work from home and hybrid work policy: the
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-23
 ---
 The Infosys work from home policy is one of the most searched and least accurately documented topics about the company. Employees who joined during the pandemic era work alongside colleagues who joined post-pandemic, and the two groups often have fundamentally different assumptions about what the work arrangement is and should be. Freshers joining from campus expect the office-centric experience their placement team described. Experienced lateral hires who negotiated remote work in their offer letter find the practical implementation differs from what was agreed. Managers navigate client requirements that override whatever the official HR policy says.
 

@@ -9,7 +9,7 @@ excerpt: "The complete playbook for switching from Infosys to a product company 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-23
 ---
 The transition from Infosys, or any major IT services company, to a product company or Global Capability Center is one of the most common and most consequential career moves made by Indian technology professionals. It represents a shift in how work is structured, how technology is used, how performance is evaluated, and often how much the work pays. Hundreds of thousands of professionals have made this transition successfully, and many others have attempted it and returned to services, or never attempted it despite wanting to.
 

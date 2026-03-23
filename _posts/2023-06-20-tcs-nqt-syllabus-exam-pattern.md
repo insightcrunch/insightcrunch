@@ -9,7 +9,7 @@ excerpt: "Every section, every topic, every question type in TCS NQT decoded wit
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 61
 author: "Insight Crunch Team"
-last_updated: 2026-03-17
+last_updated: 2026-03-23
 ---
 The TCS National Qualifier Test is structured with a precision that rewards candidates who understand the pattern as well as they understand the content. Knowing that there are aptitude questions is not enough. Knowing exactly how many questions appear per topic, how much time you have per question, and which topics carry the most weight relative to the preparation effort they demand - that is the level of detail that separates candidates who clear the NQT comfortably from those who fall one or two marks short. This article maps every section, every topic, every question type, and every preparation variable of the TCS NQT so you walk into the test hall with zero uncertainty about what to expect.
 
