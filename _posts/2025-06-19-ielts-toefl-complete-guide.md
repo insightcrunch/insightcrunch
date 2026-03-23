@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Complete IELTS & TOEFL Preparation Guide: Study Plans, Free Resources, Band Score Strategies & Country-Wise Admission Process for Canada, UK, Germany, Australia"
+title: "IELTS & TOEFL Prep Guide: Study Plans, Strategies & Free Resources"
+page_title: "Complete IELTS & TOEFL Preparation Guide: Study Plans, Free Resources, Band Score Strategies & Country-Wise Admission Process for Canada, UK, Germany, Australia"
 date: 2025-06-19
 categories: ["Industry"]
 tags: ["IELTS preparation", "TOEFL study plan", "study abroad", "study in Canada", "IELTS band 7", "free IELTS material", "study in UK", "study in Germany", "study in Australia", "English proficiency test"]
