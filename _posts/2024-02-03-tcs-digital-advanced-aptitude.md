@@ -9,7 +9,7 @@ excerpt: "Crack the hardest sections of TCS Digital. Advanced-level quant and re
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 The TCS Digital Advanced Quantitative and Reasoning sections are where Digital candidates separate themselves from Ninja candidates - and where most Digital aspirants leave marks on the table. The time pressure alone is brutal: 14 to 16 questions in 25 minutes means roughly 90 to 100 seconds per question, and these are not Foundation-level questions. They are multi-step, concept-layered problems that would take a prepared candidate four to five minutes to solve carefully. The only way to score well here is to combine genuine mathematical depth with aggressive time management, shortcut recognition, and the discipline to move on when a question is taking too long. This guide covers every advanced topic with the specific strategies and shortcut techniques that make the difference between a 60% score and a 90% score in this section.
 

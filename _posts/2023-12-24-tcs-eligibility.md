@@ -9,7 +9,7 @@ excerpt: "One-stop reference for TCS eligibility across all programs. Degree str
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 Eligibility is the first filter in TCS hiring, and it is the one that creates the most confusion because the rules differ across programs, have nuances that are not immediately obvious, and are sometimes misread by candidates who are borderline on one criterion. This guide consolidates the eligibility requirements for every TCS hiring program in one place - NQT and all the profiles it feeds (Ninja, Digital, Prime), Smart Hiring and its Ignite variant, BPS, and ITP. For each program you will find the accepted degree streams, the minimum academic percentage and how it is calculated, the backlog policy, the gap year rules, work experience conditions, and the special conditions that distinguish each program from the others.
 

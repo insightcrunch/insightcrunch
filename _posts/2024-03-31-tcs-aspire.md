@@ -9,7 +9,7 @@ excerpt: "Everything about TCS Aspire - the pre-ILP learning program. Module pri
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 After receiving and accepting a TCS offer letter, a significant period passes before the actual joining date and ILP begins. TCS uses that period productively - they give you access to Aspire, an online pre-ILP learning platform hosted on TCS Campus Commune. Most new selectees receive the Aspire invitation, log in once out of curiosity, feel uncertain about how seriously to take it, and then either ignore it entirely or frantically rush through modules in the last week before joining. Both approaches miss the point. This guide provides everything you need to understand what Aspire is, what it actually tests, which modules matter and which do not, how much time to invest, and how to use Aspire as genuine ILP preparation rather than a checkbox exercise.
 
