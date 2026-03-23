@@ -4,11 +4,11 @@ title: "How to set your inactive windows to minimize automatically?"
 date: 2010-11-23
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "If you want to minimize your windows that have been idle and are left unused for a specific period of time, then you can try this new tool from here. This is going to let you choose when your windows ..."
+excerpt: "Auto-minimize idle windows on your PC. A lightweight tool that detects inactive windows and minimizes them after a time period you choose."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 If you want to minimize your windows that have been idle and are left unused for a specific period of time, then you can try this new tool from here. This is going to let you choose when your windows are going to be minimized. You can set the time in seconds.
 
