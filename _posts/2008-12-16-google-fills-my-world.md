@@ -4,7 +4,7 @@ title: "Google fills my world"
 date: 2008-12-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
-excerpt: "A love letter to Google's product era. Chrome, Gmail, Maps, and why their innovation engine outpaced Microsoft at every single turn."
+excerpt: "Its been quite sometime now that Google has kept impressing me with their innovative stuff. The latest addition being the Chrome. Microsoft takes a beat..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"

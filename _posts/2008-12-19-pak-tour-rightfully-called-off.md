@@ -4,7 +4,7 @@ title: "Pak tour rightfully called off"
 date: 2008-12-19
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "India vs Pakistan cricket tour cancelled after Mumbai attacks: why BCCI's decision was painful for fans but absolutely the right call to make."
+excerpt: "The India-Pakistan cricket tour that never happened. Why cancelling after 26/11 was heartbreaking but necessary for national dignity."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"

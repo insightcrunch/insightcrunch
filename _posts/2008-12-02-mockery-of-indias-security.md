@@ -4,7 +4,7 @@ title: "Mockery of India’s security"
 date: 2008-12-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "How did Mumbai 26/11 happen despite advance warnings? A look at the intelligence breakdown and systemic security failures that followed."
+excerpt: "The tragedy in Mumbai can be nothing but a total collapse of our Intelligence failure. When we have been warned of the attacks, even their locations..."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 1
 author: "Insight Crunch Team"

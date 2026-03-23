@@ -4,7 +4,7 @@ title: "Is Sector 5 ready?"
 date: 2008-12-22
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Salt Lake Sector 5 Kolkata infrastructure problems: traffic nightmares, broken roads, and why the IT hub's growth outpaced its planning badly."
+excerpt: "Is Kolkata's Sector 5 ready to be an IT hub? Poor roads, traffic chaos, and infrastructure gaps that the tech corridor needs to fix urgently."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 3
 author: "Insight Crunch Team"

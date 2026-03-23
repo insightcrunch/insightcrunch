@@ -4,7 +4,7 @@ title: "End to an unforgettable era"
 date: 2008-11-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Why Sourav Ganguly's career meant more than runs and records. A personal tribute to the captain who taught India how to fight."
+excerpt: "Its been an awesome journey, starting since 1996. The dream debut itself hinted what the world was going to witness over the next few years. And to say..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
