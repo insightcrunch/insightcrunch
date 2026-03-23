@@ -4,11 +4,11 @@ title: "TCS ILP Documents Required - Complete Checklist With Templates"
 date: 2025-09-09
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Documents", "Joining Documents", "Fresher", "IT Career", "Checklist"]
-excerpt: "Complete TCS ILP document checklist: every certificate, ID proof, photograph, and form you need on Day 1 with templates and format specifications."
+excerpt: "Missing a document on TCS ILP Day 1 delays your joining. Here is the exact checklist with specifications, formats, and what to do if something is missing."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 25
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 Missing a single document on Day 1 of TCS ILP can delay your joining, create weeks of administrative headaches, and start your corporate career with unnecessary stress. Every batch has freshers who arrive at the training center only to discover they forgot an affidavit, brought the wrong photograph format, or left a critical mark sheet at home. Their first day of ILP is spent making frantic phone calls to family members instead of settling in with their batchmates.
 
