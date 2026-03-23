@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCS NQT to ILP - The Complete Journey From Registration to Training Day"
+title: "TCS NQT to ILP - Complete Journey From Registration to Training Day"
 date: 2025-07-25
 categories: ["Industry"]
 tags: ["TCS", "NQT", "ILP", "TCS Hiring", "NextStep Portal", "Xplore", "Aspire", "TCS Joining", "TCS Freshers", "NQT Exam", "Offer Letter", "Fresher"]
