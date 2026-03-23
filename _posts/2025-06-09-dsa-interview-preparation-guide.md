@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Complete DSA Interview Preparation Guide: Topic-Wise Strategy, 150 Must-Solve Problems, Patterns & Revision Plan for Cracking Product-Based Company Interviews"
+title: "DSA Interview Prep Guide: 150 Problems, Patterns & Revision Plan"
+page_title: "Complete DSA Interview Preparation Guide: Topic-Wise Strategy, 150 Must-Solve Problems, Patterns & Revision Plan for Cracking Product-Based Company Interviews"
 date: 2025-06-09
 categories: ["Industry"]
 tags: ["DSA interview questions", "DSA preparation", "LeetCode patterns", "coding interview", "data structures and algorithms", "product based company interview", "FAANG interview prep", "competitive programming", "system design", "coding interview patterns"]
