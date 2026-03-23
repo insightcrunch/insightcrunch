@@ -5,7 +5,7 @@ date: 2015-08-20
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Will Meta have more layoffs? The cost-cutting trajectory, Metaverse investment pressure, and whether additional workforce reductions are likely coming."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Read more: [How long will the Meta hiring freeze last »](https://insightcrunch.
 
 [s2If current_user_can(access_s2member_level1)]
 
-![Meta hiring freeze and Facebook having layoffs](/assets/images/blog/blog-07.webp)
+![Meta hiring freeze and Facebook having layoffs](/assets/images/blog/blog-01.webp)
 Meta having layoffs
 
 ## Is Meta laying off employees

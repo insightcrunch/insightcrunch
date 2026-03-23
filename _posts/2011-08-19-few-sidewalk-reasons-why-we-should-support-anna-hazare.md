@@ -5,7 +5,7 @@ date: 2011-08-19
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Why support Anna Hazare? The black money numbers, the corruption costs, and what bringing back 1,456 lakh crore could mean for India's development."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -19,7 +19,7 @@ Hazare says: Bring back the Black Money.
  No need to participate in this Revolution. Just support Anna Hazare by sharing this article.  
  I did my job for better India and a brighter tomorrow. Jai Hind.
 
-![Anna Hazare for Development](/assets/images/blog/blog-13.webp)
+![Anna Hazare for Development](/assets/images/blog/blog-07.webp)
 Anna Hazare for Development
 
 Nice Text:

@@ -5,17 +5,17 @@ page_title: "TCS ILP Diagnostics and Assessments - IRA, IPA, PRA, and Every Test
 date: 2025-08-12
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "IPA", "PRA", "Diagnostics", "TCS Assessments", "ILP Exams", "TCS Training", "Xplore", "AsCEnD", "Fresher"]
-excerpt: "TCS ILP assessment system decoded: IRA1, IRA2, IPA, PRA formats, pass marks, question patterns, grading logic, and what happens if you fail each test."
-image: "/assets/images/blog/blog-03.webp"
+excerpt: "Every TCS ILP test explained with real question patterns. IRA1 vs IRA2 difficulty, IPA format, PRA expectations, and the scoring rubric nobody shares."
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 30
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 The assessment system inside TCS ILP is more layered than most candidates expect. It is not a single final exam. It is a continuous evaluation framework that begins before you even receive your joining letter and runs through the entire ILP duration, testing you at every stage. Understanding how each assessment works, what it tests, how it is scored, what the consequences of failure are, and how to prepare for each one gives you a decisive advantage over candidates who walk in unprepared.
 
 Every year, freshers are caught off guard by the volume and variety of assessments during ILP. Some underestimate IRA and get rescheduled on day one. Others breeze through technical diagnostics but stumble on business skills and end up in LAP. Others ignore the pre-joining Xplore program entirely and miss out on a joining bonus that could have been theirs with a few weeks of preparation.
 
-![TCS ILP Diagnostics and Assessments](/assets/images/blog/blog-03.webp)
+![TCS ILP Diagnostics and Assessments](/assets/images/blog/blog-09.webp)
 TCS ILP Diagnostics and Assessments - IRA, IPA, PRA, and Every Test Explained
 
 This guide covers every formal assessment in the TCS ILP pipeline, from the pre-joining Xplore program and IPA exam through IRA 1, IRA 2, the ongoing technical and business skills diagnostics, IQLASS sessions, the Phase 2 project evaluation, and the final PRA. The information draws from official TCS documentation, the Xplore program structure, and the accumulated experiences of candidates across multiple ILP batches.

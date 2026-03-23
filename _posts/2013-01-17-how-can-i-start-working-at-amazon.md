@@ -5,7 +5,7 @@ date: 2013-01-17
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "How to start working at Amazon: job categories, required qualifications, the application portal, and the fastest path from application to first day."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Amazon has a wide variety of leadership principles that it focuses on and expect
 
 Read more: [What is Amazon acceptance rate? »](https://insightcrunch.com/2013/03/14/what-is-amazon-acceptance-rate/)
 
-![How can I start working at Amazon](/assets/images/blog/blog-10.webp)
+![How can I start working at Amazon](/assets/images/blog/blog-01.webp)
 How can I start working at Amazon
 
 ## Amazon Interview Tips

@@ -6,14 +6,14 @@ date: 2021-08-22
 categories: ["Industry"]
 tags: ["Infosys Technical Interview Questions", "Infosys Interview Questions for Freshers", "Infosys Technical Round", "Infosys Java Interview Questions", "Infosys DBMS Questions", "Infosys OOP Questions", "Infosys OS Questions", "Infosys Interview Preparation"]
 excerpt: "200+ Infosys technical interview questions with detailed answers covering OOP, Java, DBMS, OS, and networking for freshers with preparation strategy."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Infosys technical interview for freshers is a genuine evaluation, not a formality that follows the online assessment. Candidates who walk in expecting it to be easy because they have memorized a list of definitions get caught out immediately. Infosys technical interviewers, who are experienced engineers or senior developers, know the difference between a candidate who understands a concept and one who has memorized an explanation. The follow-up question is the tell: "Can you give me an example from your project?" or "What would happen if I changed this condition?" separates the two kinds of preparation within seconds.
 
-![Infosys Technical Interview Questions for Freshers](/assets/images/blog/blog-12.webp)
+![Infosys Technical Interview Questions for Freshers](/assets/images/blog/blog-07.webp)
 
 This guide is built for genuine understanding, not surface coverage. For every topic that appears in the Infosys technical interview, questions are presented with complete, accurate answers, followed by the most common follow-up question the interviewer uses to probe depth, and the trap answer that reveals insufficient preparation. The topics covered are the ones that actually appear: OOP concepts, Java fundamentals, database management and SQL, operating systems, computer networks, and project-based technical questions.
 

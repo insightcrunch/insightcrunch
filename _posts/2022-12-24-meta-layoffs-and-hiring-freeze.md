@@ -5,7 +5,7 @@ date: 2022-12-24
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta layoffs and hiring freeze combined impact: job cuts across Facebook, Instagram, and WhatsApp teams alongside a prolonged recruitment shutdown."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 13
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -24,7 +24,7 @@ Mark Zuckerberg also highlighted that it was one of the hardest decisions that h
 
 However, with the difficult economic situation that has started taking shape, it was no longer possible to continue that extremely fast-paced hiring speed. There was also a decline in the growth rate of Meta because there was stiff competition from other social media platforms like Tiktok and Snapchat as well. Along with that, there were many data privacy challenges due to which many users were found to be leaving Meta for other apps. Hence, Meta was forced to pause its hiring for the near term, and also it started laying off people gradually, ultimately leading to one of the largest job cuts in the history of the technology sector and also for the company itself. The layoffs that Meta has been working on were being made across a variety of different teams and geographic regions.
 
-![photo of man wearing gray sweater and track pants leaning on wall](/assets/images/blog/blog-11.webp)
+![photo of man wearing gray sweater and track pants leaning on wall](/assets/images/blog/blog-16.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta departments facing layoffs

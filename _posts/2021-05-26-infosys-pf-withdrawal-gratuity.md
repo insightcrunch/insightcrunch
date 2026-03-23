@@ -6,14 +6,14 @@ date: 2021-05-26
 categories: ["Industry"]
 tags: ["Infosys PF Withdrawal", "Infosys PF Transfer", "Infosys Gratuity", "Infosys Provident Fund", "Infosys EPF", "Infosys UAN", "Infosys PF Balance", "Infosys PF Claim Status"]
 excerpt: "Step-by-step guide to Infosys PF withdrawal, transfer to a new employer, gratuity calculation and eligibility, claim status tracking, and everything current and former Infosys employees need to know."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Provident Fund and gratuity are two of the most valuable financial benefits that come with employment at Infosys, yet they are also among the most misunderstood. Many Infosys employees who leave the company are uncertain about how to claim their PF, whether to withdraw or transfer, what happens to their gratuity, and what the actual amounts are. Many current employees do not know what their PF balance is or how to access it. And many freshers who have just joined do not understand how the PF deduction from their salary works or why it matters for their long-term financial planning.
 
-![Infosys PF Withdrawal Transfer and Gratuity Guide](/assets/images/blog/blog-13.webp)
+![Infosys PF Withdrawal Transfer and Gratuity Guide](/assets/images/blog/blog-01.webp)
 
 This guide covers everything: how PF works at Infosys, the UAN system, how to check your PF balance, when and how to withdraw PF, when to transfer instead of withdraw, the complete online and offline PF claim processes, what gratuity is and how to calculate it, the eligibility conditions for gratuity, the gratuity claim process, tax implications of both PF and gratuity, and every common complication that employees encounter in these processes. Each section is written with specific steps rather than vague descriptions, because the actual process involves specific portals, specific forms, and specific sequences that are not obvious without a guide.
 

@@ -5,7 +5,7 @@ date: 2016-09-25
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Oracle DRM version-level security: restrict user access to specific versions while hiding others. Granular permission control for multi-team environments."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ Security in Oracle Data Relationship Management is of immense significance in si
 
 [](http://imageshack.com/a/img924/2394/tAYMfL.jpg)The feature that enables this called DRM Node Access Groups. Say I want to give access to User U1 access to the DRM Version V1, but not to Version V2 and V3. My first step is to create a new Node Access Group, say AG1. I will add U1 to AG1, save and close.
 
-![Oracle DRM Version Level Specific Access Security for Users](/assets/images/blog/blog-12.webp)
+![Oracle DRM Version Level Specific Access Security for Users](/assets/images/blog/blog-03.webp)
 Oracle DRM Version Level Specific Access Security for Users
 
 Then after opening version V1, as I navigate to Nodes -> Assign -> Node Access, I can see the name AG1 under the categories 'Limb Access' which I need to set to the level of access I want to give (example Read, Edit, Insert, etc). Similarly for 'Leaf Access'. Then after Saving the changes, it is time to test how it's working for the User U1.

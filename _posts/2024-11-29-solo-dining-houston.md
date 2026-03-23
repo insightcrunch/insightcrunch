@@ -5,7 +5,7 @@ date: 2024-11-29
 categories: ["Leisure"]
 tags: ["solo-dining", "houston", "restaurants", "houston-food", "eating-alone", "counter-dining", "bar-seating", "tex-mex", "barbecue", "pho", "montrose", "chinatown"]
 excerpt: "Where to eat alone in Houston. Counter seats from Montrose to Chinatown, bar dining, and the diverse food scenes where solo diners thrive."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

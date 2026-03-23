@@ -5,7 +5,7 @@ date: 2022-11-10
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon part-time work from home jobs: available remote roles with flexible hours, pay rates, minimum hour requirements, and how to find current openings."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -24,7 +24,7 @@ The limitations in many of the jobs is that the candidate must have a university
 
 The Amazon part time jobs are a perfect fit for students. There are areas where Amazon can hire candidates in jobs where they can also work from home or in the higher management or in the information technology departments. There are certain administrative and other types of jobs in the Amazon warehouses where candidates can work remotely and in packing. It is important that candidates select from a large number of options, and also make sure that they tick part time option when they're looking for the job. In the job portal the available vacancies for that filter criteria will show up and then candidates will be getting the jobs that are actually part time. There are various types of employment programs available for students as well at Amazon. 
 
-![serious young woman using netbook while having hot drink in modern cafe](/assets/images/blog/blog-05.webp)
+![serious young woman using netbook while having hot drink in modern cafe](/assets/images/blog/blog-13.webp)
 Photo by Andrea Piacquadio on [Pexels.com](https://www.pexels.com/photo/serious-young-woman-using-netbook-while-having-hot-drink-in-modern-cafe-3766227/)
 
 ## Amazon Students and Internships

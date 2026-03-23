@@ -6,14 +6,14 @@ date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Pune", "Training Center"]
 excerpt: "The most detailed TCS ILP Pune experience post: training schedule, assessment pressure, hostel quality, food, weekends, and career lessons learned."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Pune is consistently rated among the best ILP postings in TCS's training network - and the reasons are clear to anyone who has spent time there. A city with a pleasant climate, a massive student and young professional population, excellent food across every price point, rich historical heritage, and a specific cosmopolitan energy that blends Marathi tradition with pan-Indian diversity and international IT company culture. The 44-day or three-month ILP at Pune's CMC campus and the nyati-tower style accommodation has produced some of the most warmly remembered ILP accounts in TCS fresher lore - including the detailed, affectionate account of Rahul and his group of friends whose story runs through this article.
 
-![The vibrant Shivaji Nagar area of Pune at evening showing the mix of colonial-era buildings and modern commercial development that characterises India's Oxford of the East - the city where TCS has conducted ILP training for thousands of freshers across decades](/assets/images/blog/blog-02.webp)
+![The vibrant Shivaji Nagar area of Pune at evening showing the mix of colonial-era buildings and modern commercial development that characterises India's Oxford of the East - the city where TCS has conducted ILP training for thousands of freshers across decades](/assets/images/blog/blog-14.webp)
 *TCS ILP Pune comprehensive guide - CMC campus training facilities, accommodation, daily schedule, Pune city exploration, batch community formation, and the practical wisdom of those who have lived the 44-day Pune ILP experience*
 
 The Pune ILP story is not just about the training. It is about the characters who inhabit the 44 days - the Sudips who wake people up for buses, the Divyas who complete assignments while colleagues sleep, the Monalisas who are beautiful when they smile, and the Rahuls who somehow make it through the full programme on charm and chips while providing enough material for a story that gets told for years. The Pune ILP, at its best, is exactly what TCS ILP is supposed to be.

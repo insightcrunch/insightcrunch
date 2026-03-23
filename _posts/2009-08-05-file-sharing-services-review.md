@@ -5,7 +5,7 @@ date: 2009-08-05
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Best online file sharing services compared: upload limits, speed, security, and features for transferring large files across the internet easily."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -15,7 +15,7 @@ With what seems like the most useful tools for anyone looking to transfer or sha
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=0AoF7SzVHoWX1dGlNV216eVZIbzl5enB6U0c5d1g2RFE" width="500" height="1500" /]  
 
 With the reviews so far submitted, here is a brief summary. Click "Finish" on right bottom of this box below to see the results. (Needs Adobe Flash). To use this chart, select anyone in the top right side from 
-![](/assets/images/blog/blog-13.webp)
+![](/assets/images/blog/blog-01.webp)
   . Dotted one will represent each service by dots and size of dots will represent how good it is. The bars chart represents the services by bars and heights of bars indicates the quality. For example, if you are using the bars chart, select an attribute from the extreme left side. Check the services on the right bottom you want to compare. Double click on the bars to check them. For each attribute on the left side do like this. Choose colors on top right to differentiate more easily. Enjoy!
 
 Read more: [Why Bing would be an eternal threat to Google »](https://insightcrunch.com/2009/08/06/why-bing-would-be-an-eternal-threat-to-google/)

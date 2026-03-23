@@ -6,14 +6,14 @@ date: 2019-06-10
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Questions", "Question Pattern"]
 excerpt: "What questions come in TCS NQT? Section-wise breakdown of aptitude, logical reasoning, verbal ability, and programming questions from recent exams."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The most effective way to prepare for the TCS NQT is not to study broadly but to study specifically - knowing precisely what types of questions appear, at what difficulty level, in what time frame, and with what scoring implications. This guide provides that specific knowledge across every section of the NQT, with sample questions, worked solutions, and the preparation patterns that produce high scores.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-15.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-04.webp)
 *The complete guide to TCS NQT question types and patterns - quantitative aptitude with topic breakdown and sample problems, logical reasoning across all question formats, verbal ability patterns and strategies, and coding section question types with difficulty analysis and language options*
 
 The NQT tests candidates across two primary sections: the Foundation Section (Quantitative Aptitude, Logical Reasoning, Verbal Ability, and a Personality assessment) and the Advanced Section (higher-difficulty Quantitative and Reasoning questions, plus the Coding assessment). The structure varies slightly across NQT windows, but this two-tier framework has been consistent.

@@ -6,14 +6,14 @@ date: 2026-02-14
 categories: ["Industry"]
 tags: ["高考", "高考数学", "数学备考", "数学题型", "数学复习", "Gaokao", "Mathematics", "Exam Preparation", "Study Guide"]
 excerpt: "最全面的高考数学备考指南，系统覆盖全考纲知识点、各题型得分策略、高频难点深度解析、常见陷阱归纳与分阶段复习计划，助你在150分数学卷上实现突破。"
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-22
 ---
 高考数学，是整张高考试卷中最能拉开考生分数差距的单科。满分150分，顶尖考生与普通考生之间的差距往往达到50分甚至更多，这在其他任何一门科目中都是极为罕见的。数学的这种"高分散度"，既意味着它是高分考生最重要的得分来源，也意味着它是大量考生最深重的心理负担。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-10.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
 *高考数学备考完全指南：考纲全解析、各题型深度策略、高频考点逐一击破与最后冲刺计划*
 
 本文将从高考数学的整体结构出发，逐一深入分析每个考点模块的命题规律和备考重点；解析各题型（选择题、填空题、解答题）的得分策略和时间管理；归纳历年高频考点和常见陷阱；提供不同分数段考生的差异化备考路径；并给出最后冲刺阶段的高效复习计划。无论你的当前数学水平如何，这篇指南都将帮助你找到最有效率的提分路径。

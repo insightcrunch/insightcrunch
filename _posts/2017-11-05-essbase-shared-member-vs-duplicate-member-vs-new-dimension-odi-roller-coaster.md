@@ -5,14 +5,14 @@ date: 2017-11-05
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "Essbase shared members vs duplicate members vs new dimensions in ODI. When to use each approach and the integration challenges that come with each choice."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The beginning of winter brought with it some exciting rides into the world of Oracle Data Integrator and Essbase. Feels lovely when things start to unravel their beauty and prowess. After several sessions (more to come!) of brainstorming on Shared and Duplicate members, we came to a few interesting findings that can help us plan better.
 
-![Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster](/assets/images/blog/blog-09.webp)
+![Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster](/assets/images/blog/blog-11.webp)
 Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster
 
 The “Duplicate” members are providing the below benefits:

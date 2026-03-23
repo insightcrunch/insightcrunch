@@ -5,7 +5,7 @@ date: 2011-12-17
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Is applying to Amazon difficult? The application portal, resume screening process, and what makes some applications succeed while most get filtered."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 9
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -22,7 +22,7 @@ Amazon has a prominent presence and in various technology domains and it advance
 
 Let's learn about the different elements that makes getting a job at Amazon more difficult. Amazon has very high standards of quality and the technical rounds at Amazon are incredibly demanding. Also, Amazon's behavioral interviews has a variety of tricky questions that you need to prepare well ahead of time. Subscribe here and get access to hundreds of questions that you can expect in your Amazon interview. Amazon sets a very high bar when selecting candidates so that they can get the best person suited to do the job. Amazon is always looking for engineers, who has the aptitude to overcome challenging obstacles in the technology world. The technological sector is constantly evolving with new innovations every day. 
 
-![Is it hard to apply at Amazon](/assets/images/blog/blog-11.webp)
+![Is it hard to apply at Amazon](/assets/images/blog/blog-09.webp)
 Is it hard to apply at Amazon
 
 ## Amazon Skill Requirements

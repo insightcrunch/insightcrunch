@@ -5,7 +5,7 @@ date: 2016-09-15
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "DRM Enterprise Manager Weblogic services not responding. How to diagnose and restart the services that power Oracle DRM's integration with Oracle GL."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,5 +20,5 @@ Follow the below steps:
 
 - Click on 'Start Admin Server for Weblogic'
 
-![Start Weblogic Server](/assets/images/blog/blog-01.webp)
+![Start Weblogic Server](/assets/images/blog/blog-15.webp)
 Start Weblogic Server

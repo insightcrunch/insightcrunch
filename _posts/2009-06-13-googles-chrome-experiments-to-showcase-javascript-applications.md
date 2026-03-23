@@ -5,7 +5,7 @@ date: 2009-06-13
 categories: ["Leisure"]
 tags: ["Google", "Surfing", "Thoughts"]
 excerpt: "Chrome Experiments by Google: where JavaScript meets art. The coolest interactive demos that push browser capabilities to their creative limits."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,5 +18,5 @@ There are some pretty awesome [3D](http://www.xs4all.nl/~peterned/3d/) graphics 
 
 Keep reading: [Laptop Review: Price, Feature, Durability, Ergonomics »](https://insightcrunch.com/2009/06/20/laptop-review-price-feature-durability-ergonomics/)
 
-![Google Chrome Experiments](/assets/images/blog/blog-05.webp)
+![Google Chrome Experiments](/assets/images/blog/blog-07.webp)
 Google Chrome Experiments

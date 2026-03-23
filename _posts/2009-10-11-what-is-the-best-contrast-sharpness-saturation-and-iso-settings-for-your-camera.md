@@ -5,7 +5,7 @@ date: 2009-10-11
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Best camera settings for contrast, sharpness, saturation, and ISO. A beginner-friendly guide to getting better photos straight out of the camera."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -19,7 +19,7 @@ First and foremost there are some assumptions to be made before this article get
 
 So you have tried taking a few photographs with the above settings and is extremely disappointed with the results? Now choose a photo and use Photoshop to adjust the brightness and contrast. Use sharpen or smart sharpen whichever you like more. Adjust the saturation up to a point where you feel its ok. Take care of the noise. And see the result.
 
-![Popular Camera Settings ISO Contrast Sharpness Saturation](/assets/images/blog/blog-03.webp)
+![Popular Camera Settings ISO Contrast Sharpness Saturation](/assets/images/blog/blog-13.webp)
 Popular Camera Settings ISO Contrast Sharpness Saturation
 
 Read more: [Google Wave aimed at a revolution »](https://insightcrunch.com/2009/11/26/google-wave-aimed-at-a-revolution/)

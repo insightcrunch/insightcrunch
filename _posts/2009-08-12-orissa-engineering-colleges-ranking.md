@@ -5,7 +5,7 @@ date: 2009-08-12
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Which engineering colleges in Orissa are best? Ranking based on academics, placements, facilities, and what students actually experience at each..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,5 +16,5 @@ Read more: [Mumbai Engineering Colleges Ranking »](https://insightcrunch.com/2
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Orissa Engineering Colleges](/assets/images/blog/blog-15.webp)
+![Orissa Engineering Colleges](/assets/images/blog/blog-03.webp)
 Orissa Engineering Colleges

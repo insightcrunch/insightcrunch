@@ -5,7 +5,7 @@ date: 2009-08-12
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Best engineering colleges in Tamil Nadu ranked by academic quality, campus placements, research output, and what current students say about their..."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,5 +14,5 @@ This is one of the most sought after ranking list with so many engineering colle
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Tamil Nadu Engineering Colleges](/assets/images/blog/blog-11.webp)
+![Tamil Nadu Engineering Colleges](/assets/images/blog/blog-16.webp)
 Tamil Nadu Engineering Colleges

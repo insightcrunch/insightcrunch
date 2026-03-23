@@ -6,7 +6,7 @@ date: 2011-01-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Kalinga Park", "Project Allocation", "Post-ILP Transition", "Odisha"]
 excerpt: "TCS ILP ends but the story continues. Post-Bhubaneswar reflections on friendships, project allocation anxiety, and lessons that stay with you."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -15,7 +15,7 @@ The final results are posted at TCS Kalinga Park. The last assessment in Bhubane
 
 This guide is written specifically for associates who trained at TCS ILP Bhubaneswar, covering the post-ILP transition from Kalinga Park, the project allocation process, what happens if you are retained in Bhubaneswar for your first project, how to navigate life in Odisha's capital as a working professional, and how to set yourself up for a strong start regardless of where your allocation takes you. Whether you are approaching the end of ILP at the Bhubaneswar center or already in the post-ILP waiting period, this is the most detailed resource available on navigating what comes next from the Temple City.
 
-![TCS ILP Bhubaneswar - Post ILP Project Allocation Guide](/assets/images/blog/blog-03.webp)
+![TCS ILP Bhubaneswar - Post ILP Project Allocation Guide](/assets/images/blog/blog-08.webp)
 *The complete guide to everything that happens after TCS ILP Bhubaneswar at Kalinga Park - project allocation, the waiting period, the transition to actual work, navigating Bhubaneswar as a professional, and setting yourself up for a strong start*
 
 The period immediately following ILP completion at Bhubaneswar is one of the most emotionally complex transitions a TCS fresher navigates. There is relief at having cleared the program at Kalinga Park, anxiety about where you will be placed, excitement about finally doing real work, grief at leaving the batch community you spent weeks building in the residential facilities near Patia, and often a significant stretch of waiting during which none of those feelings fully resolve. Bhubaneswar adds its own texture to this transition because the city itself becomes part of the story. Associates who trained here have spent weeks getting to know Odia cuisine, navigating the streets between Chandrasekharpur and Old Town, discovering the temple corridors near Bindu Sagar, and adjusting to the distinct rhythm of life in eastern India. Leaving all of that behind, or potentially staying for a Bhubaneswar project assignment, is a decision point that deserves dedicated attention.

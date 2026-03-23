@@ -5,7 +5,7 @@ date: 2009-07-08
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "The future is arriving faster than we think. Reflections on where touch tech, AI, and biotechnology are taking us in the coming decade."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,5 +16,5 @@ https://youtu.be/cUdndePGT_I
 
 Communication technologies are ceasing to be as attractive as they were before with tele-presence and tele-conferences quiet common nowadays, yet a great deal of fortune seems to lie in communication technology itself, innovative newer inventions or making existing ones innovatively simple, that’s what it should be like. Yet some more which fascinate me are hand-held technologies you carry with you which can be made to have unlimited possibilities.
 
-![Video Games Xbox Nintendo Playstation Mario](/assets/images/blog/blog-11.webp)
+![Video Games Xbox Nintendo Playstation Mario](/assets/images/blog/blog-12.webp)
 Video Games

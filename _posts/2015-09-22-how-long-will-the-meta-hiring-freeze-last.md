@@ -5,7 +5,7 @@ date: 2015-09-22
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "When will Meta's hiring freeze end? Analyzing the timeline based on quarterly results, Zuckerberg's statements, and historical patterns at tech companies."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Read more: [How long is IBM hiring process? »](https://insightcrunch.com/2015/1
 
 [s2If current_user_can(access_s2member_level1)]
 
-![Meta Hiring Freeze and Layoffs Fired Sack Lose Job](/assets/images/blog/blog-10.webp)
+![Meta Hiring Freeze and Layoffs Fired Sack Lose Job](/assets/images/blog/blog-05.webp)
 Meta Hiring Freeze and Layoffs
 
 ## Meta Hiring Freeze Duration

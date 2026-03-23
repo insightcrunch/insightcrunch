@@ -6,14 +6,14 @@ date: 2010-09-04
 categories: ["Industry"]
 tags: ["TCS", "Joining Date", "Freshers", "Onboarding Timeline"]
 excerpt: "TCS 2010 batch joining dates finally out. The wait is over for freshers as Tata Consultancy Services starts sending onboarding confirmations."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 For thousands of engineering graduates holding a TCS offer letter, the joining date is the single most anticipated piece of communication they will receive. The offer letter confirmed the job. The joining date confirms the start. And in the gap between those two moments - which can stretch from a few weeks to many months - sits one of the most psychologically demanding periods of the early career: the informed wait. Understanding exactly how TCS assigns joining dates, what variables affect the timeline, what reliable signals predict acceleration or extension, and how to use the waiting period well transforms this gap from an anxiety-producing void into a manageable, even productive, period of career preparation.
 
-![A calendar with a date circled, alongside a TCS offer letter, representing the moment of joining date confirmation that thousands of freshers anticipate each year](/assets/images/blog/blog-07.webp)
+![A calendar with a date circled, alongside a TCS offer letter, representing the moment of joining date confirmation that thousands of freshers anticipate each year](/assets/images/blog/blog-12.webp)
 *TCS joining date process explained - how batch planning, ILP capacity, business conditions, and college tier determine when freshers receive their joining dates, and how to prepare effectively in the interim*
 
 This guide covers the joining date process in full: the mechanics of how dates are assigned, the factors that accelerate or delay them, the signals that predict changes in timeline, the practical steps to take while waiting, and the psychological strategies for navigating an uncertain timeline without unnecessary distress.

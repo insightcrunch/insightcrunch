@@ -5,7 +5,7 @@ date: 2009-09-07
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Check if your PC can run Windows 7: a quick compatibility test using Java that tells you whether your hardware meets the OS requirements."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,5 +20,5 @@ Read more: [What can Picasa do to beat Flickr »](https://insightcrunch.com/2009
 
 So before asking your friends for that Windows 7 DVD or buying it, check if you meet the requirements. So far the feedback for this operating system had been pretty positive and people really felt Microsoft should have brought this version out at the time when they brought Vista, which was a huge failure. Windows 7 sure is going to pose a competition to Google’s new operating system due out soon!
 
-![Windows Compatibility](/assets/images/blog/blog-04.webp)
+![Windows Compatibility](/assets/images/blog/blog-02.webp)
 Windows Compatibility

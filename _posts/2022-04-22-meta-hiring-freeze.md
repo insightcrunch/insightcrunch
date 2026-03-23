@@ -5,7 +5,7 @@ date: 2022-04-22
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta hiring freeze official: 30% cut to recruitment plans, Zuckerberg's internal memo, and what it means for current employees and pending candidates."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 8
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -26,7 +26,7 @@ https://youtu.be/4tQYm33aIEU
 
 The number of active users in Meta continues to decline. Faced by intense scrutiny for selling user data to advertisers and analytical firms, Facebook had lost the ethical battle to keep user’s trust. People today post less in Facebook than they used to do 5 years back. Lesser posting means lesser content for users to consume. This is directly affecting the core of Meta’s business model. Without user content, their business model vaporizes into thin air. Analytics show new users are preferring platforms like TikTok over Meta products. The creepiness of the advertisements and suggested posts by Meta algorithms is too intense for humans. No one wants to see the advertisement for a bug spray all over their feed minutes after they were talking to their neighbor over some infestation. How Meta captures these user data from our voices even without us searching on the internet is a cause of intense privacy concern for many today.
 
-![](/assets/images/blog/blog-14.webp)
+![](/assets/images/blog/blog-08.webp)
 
 ## Meta looking at Reels as last resort
 

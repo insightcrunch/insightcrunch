@@ -5,14 +5,14 @@ date: 2010-06-15
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Bing Maps satellite imagery captured at 20 feet vs Google Maps at 50 feet. Why Microsoft's aerial photos show dramatically more detail."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The images on Bing are captured at an effective distance of 20 feet from the ground and hence the level of detail is so amazing compared to Google Maps where the distance is 50 feet.
 
-![Bing Map Photos](/assets/images/blog/blog-14.webp)
+![Bing Map Photos](/assets/images/blog/blog-03.webp)
 Bing Map Photos
 
 Read more: [Twitter has doubled in staff in past 6 months »](https://insightcrunch.com/2010/06/18/twitter-has-doubled-in-staff-in-past-6-months/)

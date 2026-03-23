@@ -5,7 +5,7 @@ date: 2009-07-09
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "What is a Microsoft internship really like? A first-hand guest post on the work environment, projects, mentorship, and lessons learned."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 15
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -38,7 +38,7 @@ At Microsoft, you never fall short of resources. If you need ten machines to wor
 
 Overall, at Microsoft, people do make mistakes and you can find rare instances of lack of coordination, but the elegance of design, the sophisticated development methodologies, the focused approach to close down issues on priority and the seamless integration of human innovation and automated tools make everything fall in place and help craft seemingly flawless products. “If you perfect every small step, the end product comes out perfect automatically”!
 
-![Microsoft Internship Experience](/assets/images/blog/blog-04.webp)
+![Microsoft Internship Experience](/assets/images/blog/blog-05.webp)
 Microsoft Internship Experience
 
 It took me time to understand all relevant things, learn Visual Studio and .NET from scratch and ramp up on the SDKs before going productive. But with the help of my Mentor (a team-mate) and my Manager (our team Lead), I got the hang of things very fast and adapted quickly. I developed several wrapper libraries (libraries wrapping up the platform libraries, so that changes in platform libraries can be easily accommodated by making the corresponding changes in the interface methods of the wrappers, rather than changing the actual codes at several places), and authored and automated several test suites relating to the security mapping between CRM and SP. At the end of my Internship period, I was given a fair review and was recommended for Full Time Employee (FTE) by my Mentor and Manager. Thereafter, I had to face two rounds of technical interviews. My first interview was scheduled with the Manager of my Manager (MOM), and I was given a design oriented problem: Discuss and design the entire test suite, including the base wrapper libraries, for testing Recurring Appointments in Microsoft Outlook. I had no idea on how that works, and so I bugged him a lot, asking for clarifications and assumptions at every step. At the end, we agreed upon a fair picture, and I was cleared for the final round of interview. This interview was scheduled with the MOM of another team. Here, I was asked some generic questions on my Internship experience, key learning and improvement points, some basic questions on C and data-structures, a couple of puzzles and a program to be coded on the board with as much efficiency and as little time as possible. I had a fair performance there, and at the end, I was selected as an FTE at Microsoft IDC.   

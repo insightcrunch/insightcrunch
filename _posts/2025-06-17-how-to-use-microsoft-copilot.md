@@ -6,14 +6,14 @@ date: 2025-06-17
 categories: ["Technology"]
 tags: ["microsoft copilot", "copilot tutorial", "microsoft ai", "office ai", "copilot guide"]
 excerpt: "Use Microsoft Copilot across the entire Office suite - Word, Excel, Teams, and Outlook."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 62
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Microsoft Copilot is not one AI assistant but many - a family of AI capabilities woven through virtually every Microsoft product most knowledge workers use every day. It is in Word, drafting and improving documents. It is in Excel, analyzing data and building formulas. It is in PowerPoint, generating presentations from prompts. It is in Outlook, summarizing email threads and drafting replies. It is in Teams, taking meeting notes and generating summaries. It is in Edge, assisting with web browsing. And it is in Microsoft 365 Chat, synthesizing across all of those applications to answer questions about your work. For the hundreds of millions of people whose professional lives run on Microsoft 365, Copilot represents the most comprehensively integrated AI assistant available - not a separate tool to switch to, but AI assistance that appears where the work already is. This guide covers every major Copilot context, the specific techniques that produce the best results in each, and the workflows that make Copilot most valuable across the Microsoft ecosystem.
 
-![How to Use Microsoft Copilot Everywhere - Insight Crunch](/assets/images/blog/blog-09.webp)
+![How to Use Microsoft Copilot Everywhere - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This guide covers the full Copilot landscape: understanding the different Copilot products and how they relate, using Copilot in Word, Excel, PowerPoint, Outlook, Teams, and OneNote, Microsoft 365 Chat for cross-application intelligence, Copilot in Windows and Edge, access and licensing considerations, best practices for each context, and honest assessment of where Copilot adds genuine value versus where it falls short.
 

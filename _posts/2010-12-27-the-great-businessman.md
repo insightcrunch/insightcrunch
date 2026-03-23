@@ -5,7 +5,7 @@ date: 2010-12-27
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "A creative fiction piece born from ILP boredom. When a hostel room, an internet connection, and an idle mind produce an unexpected short story."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -38,7 +38,7 @@ I happily denied the next month Internet recharge.
 
 The ultimate incident happened today.It was the same routine(although my routine keep on changing like Paris Hilton's mood due to some uninterpretable policies of my company). I had a morning shift because My client is an Australian airways company, and nowadays, they are very, very busy in saving the daylight. For that reason they will get up early and start working at 9 o clock AEST, but there watches will show 8 am sharp, and these will screw my sleeping like anything because they are 5 and half hour ahead than us.
 
-![Work-Life Balance in TCS](/assets/images/blog/blog-02.webp)
+![Work-Life Balance in TCS](/assets/images/blog/blog-11.webp)
 Work-Life Balance in TCS
 
 Still they pay me. I have signed some agreement with my company, so I need to jump out of my bed, lit the number one cigarette (its named as force-India) and rushed to the bathroom taking my dirty towel(My landlord won't let us use washing machine, because according to him its wastage of water and electric, and I have only one towel, and I have a very, very weak memory to remember to buy an alternate towel, and moreover I have a very low-cost mobile to set up an alarm memo, or I had lost my sticky notes or.....leave it). Spending 15 minutes in the purest place of earth I rushed to wear my formal dress. Now that's an etiquette. Formal dress increase your smartness by 100 folds, but reduces your coziness and working energy by infinite number of folds.Still companies will vote for smart workers(I mean smart looking workers.).

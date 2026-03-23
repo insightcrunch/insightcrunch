@@ -5,7 +5,7 @@ date: 2009-01-19
 categories: ["Leisure"]
 tags: ["World"]
 excerpt: "The day Obama took office and the world held its breath. Reflections on what change meant amid global crises and rising international hopes."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ Lets  hope he brings about the long-desired change that his campaigns spoke abo
 
 May the first Afro-American president create history during his tenure.
 
-![Obama Presidency](/assets/images/blog/blog-11.webp)
+![Obama Presidency](/assets/images/blog/blog-04.webp)
 Obama Presidency
 
 Read more: [Gmail grows up with offline e-mail access »](https://insightcrunch.com/2009/01/28/gmail-grows-up-with-offline-e-mail-access/)

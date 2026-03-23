@@ -5,7 +5,7 @@ date: 2016-04-06
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "What technical depth does IBM expect? Real interview questions from coding, DBMS, operating systems, and networking rounds with preparation guidance."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Read more: [TCS Hiring Steps »](https://insightcrunch.com/2015/12/11/tcs-hiring
 
 [s2If current_user_can(access_s2member_level1)]
 
-![IBM Technical Interview Questions](/assets/images/blog/blog-15.webp)
+![IBM Technical Interview Questions](/assets/images/blog/blog-04.webp)
 IBM Technical Interview Questions
 
 ## IBM Technical Interview Questions

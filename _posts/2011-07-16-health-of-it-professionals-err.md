@@ -5,7 +5,7 @@ date: 2011-07-16
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "IT professional health problems: KFC lunches, sedentary desks, missed gym sessions, and the lifestyle that slowly wrecks the tech worker's body."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,7 +20,7 @@ Read more: [TCS ILP Bhubaneswar - From Station to Kalinga Park »](https://insi
 
 It’s partly in the health genes which is beyond your control and normally forms 50% of the decisive factor of a person’s figure. But we have the rest 50% of the factors in our control. And that’s pretty huge. Let’s start with food. We can never stop having non-veg. But that doesn’t mean we can’t stop eating cheese and can’t opt for chicken pizzas with less cheese in them! We can’t stop having chicken biriyani, but that doesn’t mean we can’t reduce our frequency of having it. The same applies for cold drinks too. It would be a sin if you tell me to stop having cold stuffs. But as you see, it’s still in our control without much controlling ourselves! And this would also allow you to freely eat during office parties and hangouts with your girlfriend(s!).
 
-![Healh of IT Professionals](/assets/images/blog/blog-02.webp)
+![Healh of IT Professionals](/assets/images/blog/blog-09.webp)
 Healh of IT Professionals
 
 Now coming to better food habits. If you feel you can control yourself pretty well, then there's nothing like it. But if you cannot, don’t go for mad dieting like a lot of my colleagues who just have fruit salad for lunch and a biscuit for snacks in the evening and keep on complaining about headaches and fatigues when many people are bubbling with energy! With a little conscious effort you can bring down your calorie intake. Not taking milk products and food stuffs with visible oil in them goes a long, long way in bringing down that extra inches.

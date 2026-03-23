@@ -5,7 +5,7 @@ date: 2024-11-21
 categories: ["Leisure"]
 tags: ["solo-dining", "austin", "restaurants", "austin-food", "eating-alone", "counter-dining", "bar-seating", "barbecue", "tacos", "food-trucks", "south-congress", "east-austin"]
 excerpt: "Where to eat alone in Austin. From Franklin BBQ to East Austin wine bars, the counter seats, bar dining, and taco spots perfect for solo diners."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

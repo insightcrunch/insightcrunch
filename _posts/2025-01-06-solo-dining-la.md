@@ -5,7 +5,7 @@ date: 2025-01-06
 categories: ["Leisure"]
 tags: ["solo-dining", "los-angeles", "restaurants", "la-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "koreatown", "taco-stands"]
 excerpt: "Where to eat alone in LA. From Koreatown to Venice, the taco stands, ramen bars, and counter-service spots that make solo dining in Los Angeles great."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

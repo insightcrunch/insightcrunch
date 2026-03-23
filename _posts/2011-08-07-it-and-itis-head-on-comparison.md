@@ -5,7 +5,7 @@ date: 2011-08-07
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "IT vs ITIS at TCS: Information Technology vs IT Infrastructure Services. Key differences in work, skills, career path, and which stream suits you."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ IT and ITIS. The twins of the outsourcing world. One refers to Information Techn
 
 The core difference stems from the fact that ITIS is a service type job role, the other is a not so well-defined job role, i.e. IT will include virtually from anything starting from development to testing and might even have some related tasks in ITIS. Tasks in ITIS form a sub-set in IT in a way. Let’s say people who are in support activities at present in the IT field, you can well compare them to their corresponding counterpart in the ITIS field who are providing a similar application support. So it cannot be said that those who work in IT are straightaway in a better position. 
 
-![TCS IT ITIS NQT Digital Fresher Recruitment Hiring Salary Hike](/assets/images/blog/blog-10.webp)
+![TCS IT ITIS NQT Digital Fresher Recruitment Hiring Salary Hike](/assets/images/blog/blog-05.webp)
 TCS IT and ITIS Comparison
 
 ## **The Technical Catch**

@@ -5,7 +5,7 @@ date: 2009-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "How to choose the right laptop. A practical comparison of major brands on price, build quality, performance, and everyday usability."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,5 +17,5 @@ Amongst the various brands of laptops available, some of the top brands really p
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=rrUv8SJjyeRB0YgQWs82S6Q" width="420" height="1950" /]    
 Have something more to share? Just submit in the form below. Your views and comments would be very valuable for the readers here.     
 
-![Laptop Comparisons](/assets/images/blog/blog-12.webp)
+![Laptop Comparisons](/assets/images/blog/blog-06.webp)
 Laptop Comparisons

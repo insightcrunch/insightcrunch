@@ -5,7 +5,7 @@ date: 2024-12-28
 categories: ["Leisure"]
 tags: ["solo-dining", "chicago", "restaurants", "chicago-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "deep-dish", "west-loop"]
 excerpt: "Where to eat alone in Chicago. Bar dining in the West Loop, counter seats in Chinatown, and the neighborhoods where solo diners feel right at home."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

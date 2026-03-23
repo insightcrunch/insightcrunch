@@ -6,14 +6,14 @@ date: 2025-08-22
 categories: ["Industry"]
 tags: ["高考", "高考备考计划", "三年备考", "高考时间表", "高考学习计划", "Gaokao", "Study Plan", "Preparation Timeline", "Exam Strategy"]
 excerpt: "高考三年备考完全计划：从高一基础奠定到高二选科深化，从高三全年月度拆解到考前最后一个月冲刺，附每日时间表模板与顶尖学生的备考方法论。"
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-22
 ---
 高考备考，不是一场短跑，而是一场三年的马拉松。很多学生在高三才开始认真备考，发现自己在高一高二积累的基础已经不足以支撑冲击理想院校所需的分数。真正的高考高分，几乎都是三年系统积累的结果，而非高三一年突击的产物。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-05.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
 *高考三年备考计划：高一打基础、高二稳选科、高三全力冲刺，三年合力，成就高考最好成绩*
 
 本文将提供一份完整的高考三年备考计划，从高一入学到高考结束的每一个关键阶段，都有具体的备考重点、每日时间表模板和阶段性目标设定。无论你现在是高一、高二还是高三，都可以从本文中找到最适合当前阶段的备考指南。

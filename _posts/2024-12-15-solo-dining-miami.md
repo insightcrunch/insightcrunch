@@ -5,7 +5,7 @@ date: 2024-12-15
 categories: ["Leisure"]
 tags: ["solo-dining", "miami", "restaurants", "miami-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "cuban-food", "south-beach", "wynwood", "brickell"]
 excerpt: "Where to eat alone in Miami. Ventanita windows, bar dining in Wynwood, waterfront counter seats, and the Cuban coffee spots that welcome solo diners."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

@@ -5,7 +5,7 @@ date: 2009-09-11
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "S. Ramadorai, outgoing TCS CEO: the man who grew India's largest IT company, his leadership philosophy, and the legacy he leaves behind."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -87,5 +87,5 @@ So, which has been a more rewarding partnership?
 
 “Family comes first; without that you can’t do much,” is the candid reply. 
 
-![Mr. S. Ramadorai : The Genius](/assets/images/blog/blog-01.webp)
+![Mr. S. Ramadorai : The Genius](/assets/images/blog/blog-09.webp)
 Mr. S. Ramadorai : The Genius

@@ -5,7 +5,7 @@ date: 2022-09-24
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Taylor Swift Super Bowl 2023 halftime speculation: fan excitement after the Apple Music sponsorship announcement and what a Swift performance would mean."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -19,7 +19,7 @@ Taylor Swift has an upcoming album called Midnights next month. This means there
 
 Read more: [Killers of the Flower Moon Movie Review »](https://insightcrunch.com/2022/09/22/killers-of-the-flower-moon/)
 
-![](/assets/images/blog/blog-10.webp)
+![](/assets/images/blog/blog-02.webp)
 Taylor Swift in Super Bowl
 
 The headlines have got Taylor Swift fans excited as they anticipate another excellent performance from their favorite star.

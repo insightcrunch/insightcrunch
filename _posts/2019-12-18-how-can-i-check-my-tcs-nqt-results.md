@@ -5,7 +5,7 @@ date: 2019-12-18
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Can't find your TCS NQT result? Here is exactly how to access your scorecard, what the different statuses mean, and the timeline from result to interview."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ The Tata Consultancy Services National Qualifier Test (NQT) is one of the most w
 
 The difficulty spans from moderate to hard in all the sections like quantitative aptitude, logical reasoning, verbal ability, and coding concepts. Similar to the practice tests shared below, the content in the TCS NQT exam is refreshed regularly to present new questions frequently. This ensures that the fundamental concepts of the candidates are evaluated instead of learning a fixed pattern of questions. A comprehensive plan with constant supervision, and practice questions with a wide coverage of the essential concepts will help you succeed in the TCS NQT exam. Become a subscriber below to practice more.
 
-![TCS NQT Exam Results Syllabus Eligibility Registration Practice Questions Date](/assets/images/blog/blog-09.webp)
+![TCS NQT Exam Results Syllabus Eligibility Registration Practice Questions Date](/assets/images/blog/blog-03.webp)
 TCS NQT Exam Results
 
 ## Check your TCS NQT Results

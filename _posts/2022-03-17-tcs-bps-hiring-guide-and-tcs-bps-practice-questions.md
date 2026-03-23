@@ -6,14 +6,14 @@ date: 2022-03-17
 categories: ["Industry"]
 tags: ["TCS", "BPS", "Hiring Guide", "Interview Questions"]
 excerpt: "TCS BPS hiring guide: Business Process Services interview questions, selection process, skills tested, and preparation tips for BPS candidates."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 TCS Business Process Services (BPS) is a career pathway that opens Tata Consultancy Services to graduates from Arts, Commerce, Science, and non-engineering backgrounds - a pathway that is significantly underexplored by candidates who assume TCS is only accessible through the NQT engineering track. With nearly 100,000 employees, $2 billion in revenue, and 300+ global clients, TCS BPS is one of the largest business process services operations in the world. Understanding the hiring process, assessment structure, roles, compensation, and career trajectory gives eligible candidates the complete picture needed to make an informed application decision and prepare effectively.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-09.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-05.webp)
 *The complete TCS BPS hiring guide - what TCS BPS actually does and how it differs from TCS IT Services and TCS BPO, the full eligibility criteria for TCS BPS including which degrees qualify, the complete TCS BPS hiring process from registration to offer, the TCS iON assessment structure with all three sections detailed, the TCS BPS interview format and the specific questions asked, all three TCS BPS domains (CBO, BFSI, Life Sciences) explained with the roles within each, the complete salary structure from BPOS to BPO9, the shift allowance and other compensation components, the career progression path and how long each grade takes, and the realistic comparison of BPS with other TCS and industry options*
 
 This guide covers every dimension of TCS BPS - from the first registration step to the long-term career trajectory.

@@ -5,7 +5,7 @@ date: 2008-11-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Why Sourav Ganguly's career meant more than runs and records. A personal tribute to the captain who taught India how to fight."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ Read more: [Mockery of India's security »](https://insightcrunch.com/2008/12/02
 
 Under him, we saw an Indian team we’ve never seen before. The team spirit was really unmatched by any other Indian team before. The team simply looked as if they we’re out to win. Much of which is like Dhoni’s team has been looking like off late. People may talk a lot about his failure to handle specific deliveries, of his putting-personal-achievements-before-team attitude, but who cares. We had in him one of the greatest of Indian captains. He doesn’t have anything to prove after his tons of runs. True that his form dipped during latter part of his captaincy, but he was a greater born-leader than a batsman, its evident.
 
-![Sourav Ganguly Retires](/assets/images/blog/blog-11.webp)
+![Sourav Ganguly Retires](/assets/images/blog/blog-02.webp)
 Sourav Ganguly Retires
 
 His tiff with Greg Chappell grew louder and louder, a person whom Ganguly himself visualized would add great value to the country’s cricketing infrastructure. But its really unfortunate that it was just the other way round. The team which went through the finals in just the previous world cup, went crumbling out of the very first round under his coaching. Months later we’re really back in our incredible form, winning T20 World Cup, beating Australia comprehensively, and now looking for a whitewash for England.

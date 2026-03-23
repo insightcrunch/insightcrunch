@@ -5,7 +5,7 @@ date: 2010-09-17
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "TCS ILP Haldia experience: a first-hand account of training in the small West Bengal town. The facilities, the challenges, and the unexpected charm."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -33,5 +33,5 @@ The only certain thing about TCS is uncertainity.I suggest they change their tag
 
 We are just hoping some miracle happens and our release date gets preponed.Meanwhile,we have decided to enjoy the stay at Haldia and try putting up with the conditions here.After all,the Corporate world demands us to be flexible and adaptable.So now its not “Hell-Dia” any longer.Its “HAIL-DIA”, rather “HALE-DIA”!!
 
-![TCS ILP Haldia](/assets/images/blog/blog-02.webp)
+![TCS ILP Haldia](/assets/images/blog/blog-11.webp)
 TCS ILP Haldia

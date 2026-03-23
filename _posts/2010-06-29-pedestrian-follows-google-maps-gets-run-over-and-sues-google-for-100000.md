@@ -5,14 +5,14 @@ date: 2010-06-29
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Woman follows Google Maps walking directions, gets hit by a car, and sues Google for $100,000. The legal case that questions map liability."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Hugh Pickens writes "The Toronto Star reports that a Utah woman is suing Google for more than $100,000 in damages, [claiming its maps function gave her walking directions that led her onto a major highway](http://www.thestar.com/entertainment/article/816724--woman-who-walked-onto-highway-sues-google-maps), where she was struck by a car. Lauren Rosenberg sought directions between two addresses in Utah about 3 kilometers apart and the top result suggested that Rosenberg follow a busy rural highway for several hundred meters.
 
-![Google Maps Usage](/assets/images/blog/blog-06.webp)
+![Google Maps Usage](/assets/images/blog/blog-01.webp)
 Google Maps Usage
 
 The highway did not have sidewalks or any other pedestrian-friendly amenities, and Rosenberg was struck by a car. Rosenberg filed suit against both the driver of the car that struck her and Google, claiming both carried responsibility in her injury and her [lawyers claim that Google is liable because it did not warn her that the route would not offer a safe place](http://mashable.com/2010/05/30/google-maps-lawsuit/) for a pedestrian to walk. Google has pointed out that the directions Rosenberg sought come with a warning of caution for pedestrians but Rosenberg claims that she accessed the Maps function on her Blackberry mobile device, where it did not include the warning. Danny Sullivan notes on Search Engine Land that despite getting bad directions from Google (or a gas station attendant, a local person or any source), people are also expected to use common sense.

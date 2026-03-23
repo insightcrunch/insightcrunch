@@ -5,7 +5,7 @@ date: 2023-01-09
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Best Tableau certification study resources: official guides, practice exams, video courses, community forums, and the materials that make the real..."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ In the tradition of Hemingway's protagonists who navigate the uncharted, the pur
 
 Read more: [Tableau Certification vs. Self-Learning: Pros and Cons »](https://insightcrunch.com/2023/07/16/tableau-certification-vs-self-learning-pros-and-cons/)
 
-![Top Resources for Tableau Certification Preparation](/assets/images/blog/blog-07.webp)
+![Top Resources for Tableau Certification Preparation](/assets/images/blog/blog-15.webp)
 Top Resources for Tableau Certification Preparation
 
 ## **1. Official Tableau Learning Platform**

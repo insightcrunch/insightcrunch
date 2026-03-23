@@ -5,7 +5,7 @@ date: 2012-01-17
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "IT sector work culture decoded: the unwritten rules, office politics archetypes, and the behavioral patterns every new employee discovers the hard way."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ last_updated: 2026-03-23
 
 If you are into one of the biggies like IBM, TCS, Infosys etc, you are already amongst the luckier lot, well, apparently. It gets interesting as you get exposed to this big (not bad, but I prefer to call it rather interesting) corporate world and get to see (I don’t expect you to learn anything, until unless you have spent more than a year here) the rules of the game.
 
-![Work Culture in the IT Sector](/assets/images/blog/blog-15.webp)
+![Work Culture in the IT Sector](/assets/images/blog/blog-14.webp)
 Work Culture in the IT Sector
 
 Read more: [Achieving and performing without working in the IT sector: Tribute to the ‘a class apart’ »](https://insightcrunch.com/2012/01/18/achieving-and-performing-without-working-in-the-it-sector-tribute-to-the-a-class-apart/)

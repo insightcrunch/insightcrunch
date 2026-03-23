@@ -6,14 +6,14 @@ date: 2023-12-16
 categories: ["Industry"]
 tags: ["TCS email writing", "email writing", "formal email", "business communication", "placement email writing"]
 excerpt: "Master formal email writing for TCS placements and beyond. Formats, scenario-based templates, and professional communication skills."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Email writing occupies a unique position in TCS placement preparation because it operates at the intersection of two things that matter at completely different stages of your career. During placement, it appears in verbal ability assessments and interview evaluations as a proxy for your professional communication judgment. After joining, it becomes the medium through which almost every professional relationship is built and maintained. A fresher who cannot write a clear, correctly formatted professional email is a liability to every team they join. This guide covers both dimensions fully: the format, scenarios, and evaluation criteria that matter for placement, and the tone, templates, and etiquette principles that make you effective once you are inside TCS.
 
-![TCS Guide](/assets/images/blog/blog-09.webp)
+![TCS Guide](/assets/images/blog/blog-12.webp)
 
 ## The Status of Email Writing in TCS Assessment
 

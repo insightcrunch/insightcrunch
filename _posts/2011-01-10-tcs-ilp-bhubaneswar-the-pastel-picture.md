@@ -6,7 +6,7 @@ date: 2011-01-10
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Daily Life"]
 excerpt: "The human side of TCS ILP Bhubaneswar. Beyond assessments and scores, a warm account of friendships, weekend outings, and finding your footing."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -15,7 +15,7 @@ Sitting in the last row of the company bus on the way to Kalinga Park, Debapriya
 
 The parallel is not incidental. The bus to the TCS training centre is the bus to a new beginning, just as the bus to the engineering college was. The feeling - excitement, nervousness, and fear in mixture - is the same. The blue striped shirt of the college uniform has become the formal shirt with tie of the TCS dress code. The yellow bus has become the company bus. The four-year college community is about to become the ILP batch. A different beginning, with the specific shape of the beginning before it still visible through the window.
 
-![The TCS Kalinga Park campus as seen from the morning bus window - the company bus arriving at what the original account describes as "digitized heaven," the ILP training centre where twenty-one formally dressed trainees begin the daily routine of professional formation that gradually transforms the anxious new joiner into a practised professional](/assets/images/blog/blog-02.webp)
+![The TCS Kalinga Park campus as seen from the morning bus window - the company bus arriving at what the original account describes as "digitized heaven," the ILP training centre where twenty-one formally dressed trainees begin the daily routine of professional formation that gradually transforms the anxious new joiner into a practised professional](/assets/images/blog/blog-01.webp)
 *TCS ILP Bhubaneswar daily life guide - the pastel-picture parallel between college first day and ILP first day, the campus as "digitized heaven" first impression, the community formation that follows the arrival, the social dynamics of twenty-one formally dressed people navigating a new professional environment together, and the specific texture of life in Bhubaneswar during the ILP weeks*
 
 This guide uses the pastel picture narrative of the original account as its entry point into the daily life of TCS ILP Bhubaneswar. The account is about more than the campus - it is about the specific experience of recognising a beginning when you are inside it. That recognition, applied to [the ILP period](https://reportmedic.org/tools/tcs-ilp-preparation-guide.html), produces the quality of presence that makes the experience genuinely formative rather than merely endured.

@@ -6,14 +6,14 @@ date: 2026-01-05
 categories: ["Industry"]
 tags: ["高考", "高考生物", "生物备考", "遗传学", "分子生物学", "生态学", "Gaokao", "Biology", "Science Preparation", "Study Guide"]
 excerpt: "最全面的高考生物备考指南，系统覆盖分子生物学、细胞生物学、遗传与进化、生态系统全考纲，深度解析实验设计题与图表题的高分策略。"
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-22
 ---
 高考生物是3+1+2模式下最受选考考生青睐的科目之一，其知识体系兼具生命科学的逻辑严密性和知识点丰富性，在理解记忆与逻辑分析之间保持着良好的平衡。满分100分，是选考科目中整体得分率相对较高的科目，也是通过系统备考可以取得稳定高分的科目。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-14.webp)
 *高考生物备考完全指南：从分子生物学到生态系统，从遗传规律到实验设计，全面掌握生物高考的核心知识与得分策略*
 
 本文将系统覆盖高考生物的完整知识体系，从分子与细胞到遗传与进化，从稳态与调节到生态系统，逐一深入解析每个模块的命题规律和备考重点。同时详细讲解高考生物中最难掌握的实验设计题和图表分析题的解题框架，以及不同分数段考生的差异化备考策略。

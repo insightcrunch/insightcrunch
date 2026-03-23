@@ -5,7 +5,7 @@ date: 2009-08-13
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "Which engineering colleges in Mumbai are worth joining? Rankings based on placements, academics, infrastructure, and honest student feedback."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,5 +16,5 @@ Read more: [Tamil Nadu Engineering Colleges Ranking »](https://insightcrunch.c
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Mumbai Engineering Colleges](/assets/images/blog/blog-07.webp)
+![Mumbai Engineering Colleges](/assets/images/blog/blog-09.webp)
 Mumbai Engineering Colleges

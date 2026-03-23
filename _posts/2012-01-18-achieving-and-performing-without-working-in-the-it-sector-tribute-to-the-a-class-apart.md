@@ -5,7 +5,7 @@ date: 2012-01-18
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "The art of looking busy in IT: a satirical tribute to professionals who master visibility, deadline drama, and career advancement without the actual work."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ Read more: [Small mistakes get hyped, no mistakes (read work) get hyped too »](
 
 But there is an elite group of people who are a class apart and who can achieve he impossible, defying the law of conservation of energy. They get to accomplish tasks that require lots of effort by not giving any effort, well, almost. For them, work is just a wastage of effort and time. As some of them claim, they love to be ‘around’ work, not ‘doing’ the work.
 
-![IT Work Culture](/assets/images/blog/blog-15.webp)
+![IT Work Culture](/assets/images/blog/blog-11.webp)
 IT Work Culture
 
 Let’s get it straight now. They act as the coach of the team even though they are the captain of the team! He wants his team members to do the job for him as he lazes around. Occasionally, and let me put that very rarely, he acts to provides moral support to his team members! Not that he is bad at that though. If required he can pour his heart out at help his team members out of the trickiest most troublesome situation, that’s his best side. He might spend hours until he achieves what he wants to do, be it in his own work, or helping out his own team members or members of a different team. But, as you already might have guessed, that happens very rarely. It will be a very big day and almost everyone (yes, everyone including PLs and GLs!) is going to raise their eyebrows seeing him work, or being sincere (seemingly trying to be).

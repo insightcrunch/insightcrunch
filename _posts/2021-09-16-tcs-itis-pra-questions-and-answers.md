@@ -5,7 +5,7 @@ date: 2021-09-16
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Preparing for TCS ITIS PRA? Real questions, topic coverage for infrastructure services, answer strategies, and the pass criteria for this assessment."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -22,7 +22,7 @@ For those still working through the TCS recruitment process, the [TCS NQT Prepar
 
 Read more: [TCS ITIS Detailed Analysis »](https://insightcrunch.com/2011/07/28/tcs-itis-detailed-analysis/)
 
-![TCS ITIS PRA Questions and Answers](/assets/images/blog/blog-03.webp)
+![TCS ITIS PRA Questions and Answers](/assets/images/blog/blog-04.webp)
 TCS ITIS PRA Questions and Answers
 
 ---

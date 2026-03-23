@@ -6,7 +6,7 @@ date: 2021-02-11
 categories: ["Industry"]
 tags: ['SAT Score Improvement', 'SAT 1000 to 1200', 'SAT Foundational Skills', 'SAT Score Jump', 'SAT Study Plan Beginner', 'SAT Low Score Improvement', 'SAT Basic Strategy', 'SAT 200 Point Improvement']
 excerpt: "The complete guide to improving from a 1000 to 1200 SAT score by building foundational skills in reading, grammar, and math with a structured practice plan."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ If you scored around 1000 on the SAT (or on a practice test), you might feel dis
 
 Why is this jump so achievable? Because a 1000 score typically reflects not a lack of intelligence but a collection of specific, fixable foundational gaps. You might be shaky on fraction operations, unsure about a handful of grammar rules, or not yet comfortable reading academic passages under time pressure. These are concrete, learnable skills, not innate abilities. Fill the gaps, build the skills, and the points follow almost automatically.
 
-![How to Improve SAT Score from 1000 to 1200](/assets/images/blog/blog-04.webp)
+![How to Improve SAT Score from 1000 to 1200](/assets/images/blog/blog-06.webp)
 
 This guide is written specifically for students in the 900 to 1050 range who want to reach 1200. It does not assume you are already a strong student who just needs test strategy. It meets you where you are and builds from the ground up: the foundational math skills, the core grammar rules, the basic reading strategies, and the practice methodology that produce a 200-point improvement. Every recommendation in this guide has been tested with real students making this exact jump. Follow the plan, put in the work, and the results will come.
 

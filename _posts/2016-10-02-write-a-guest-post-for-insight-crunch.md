@@ -5,7 +5,7 @@ date: 2016-10-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Write a guest post for Insight Crunch: guidelines for contributing articles on IT, technology, career advice, and analytics to thousands of daily readers."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -32,5 +32,5 @@ I am looking for creative articles on various IT work cultures, exam experiences
 
 Once you are ready with your article, upload your story above for me to review. You can be completely anonymous, or use a pseudo name. Or, you can also add links to your social media profiles if you want so that people can learn more about you.
 
-![Guest Post for Insight Crunch](/assets/images/blog/blog-04.webp)
+![Guest Post for Insight Crunch](/assets/images/blog/blog-10.webp)
 Guest Post for Insight Crunch

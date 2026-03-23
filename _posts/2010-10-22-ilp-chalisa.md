@@ -5,7 +5,7 @@ date: 2010-10-22
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "ILP Chalisa: a hilarious parody poem about TCS ILP life at Ahmedabad. The hostel chaos, training pressure, and fresher culture captured in verse."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -217,7 +217,7 @@ Fir bhi itne pyaare dosto me, Humne ye suhana safar hai kaata;
 Sab ko chhod jaane ka khayal, mere dil ko bilkul na bhaata,   
 Itne behtarin jo dost mile hai, Sab sath me bolo Thanks to Tata.
 
-![TCS ILP Chalisa](/assets/images/blog/blog-05.webp)
+![TCS ILP Chalisa](/assets/images/blog/blog-08.webp)
 ILP Chalisa
 
 Read more: [Initial Learning Program at Trivandrum »](https://insightcrunch.com/2010/10/25/initial-learning-program-at-trivandrum/)

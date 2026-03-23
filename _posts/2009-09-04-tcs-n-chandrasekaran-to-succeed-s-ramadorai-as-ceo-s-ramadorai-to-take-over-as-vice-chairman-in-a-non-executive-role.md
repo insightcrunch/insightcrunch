@@ -6,14 +6,14 @@ date: 2009-09-04
 categories: ["Industry"]
 tags: ["TCS", "Leadership", "Management", "Tata Group"]
 excerpt: "TCS CEO transition: N. Chandrasekaran succeeds S. Ramadorai as Managing Director and CEO. How the leadership change was planned and executed."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 How a company is led tells you more about its long-term character than almost any other observable fact. The values its leaders hold, the succession processes it uses, the governance structures it operates within, and the management philosophy it applies at every level from the boardroom to the project team - these are the forces that shape the company an employee will actually experience, not the marketing materials or the mission statements. For TCS, understanding the leadership and management structure means understanding one of the most studied and consistently successful examples of corporate governance in the Indian business world.
 
-![The TCS headquarters building in Mumbai, representing the leadership and governance hub of one of India's largest technology enterprises](/assets/images/blog/blog-04.webp)
+![The TCS headquarters building in Mumbai, representing the leadership and governance hub of one of India's largest technology enterprises](/assets/images/blog/blog-16.webp)
 *TCS leadership structure, CEO succession history, organisational hierarchy, and Tata Group governance - a complete guide for employees, freshers, and professionals*
 
 TCS's leadership story is inseparable from the Tata Group story. The company was not built in isolation - it was built within the governance framework, cultural values, and organisational traditions of one of India's oldest and most respected industrial conglomerates. Understanding TCS's leadership therefore requires understanding both the company-specific management structure and the broader Tata Group context that shapes how TCS is governed, how its leaders are selected, and what values they are expected to uphold.

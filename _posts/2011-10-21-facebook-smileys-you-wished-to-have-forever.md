@@ -5,7 +5,7 @@ date: 2011-10-21
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Complete Facebook emoticons and smileys list: hidden codes for chat, comments, and status updates that make your conversations more expressive."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,5 +14,5 @@ Emoticons and smileys are the key essence to online chatting and communication. 
 
 Read more: [Dropbox vs Google Drive »](https://insightcrunch.com/2012/05/13/dropbox-vs-google-drive-the-war-begins/)
 
-![Popular Emojis and Emoticons for Social Media](/assets/images/blog/blog-10.webp)
+![Popular Emojis and Emoticons for Social Media](/assets/images/blog/blog-14.webp)
 Popular Emojis and Emoticons for Social Media

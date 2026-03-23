@@ -5,7 +5,7 @@ date: 2009-08-03
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Subhas Chakraborty, West Bengal Sports and Transport Minister, passes away at 66. A tribute to the senior CPI(M) leader and his political legacy."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,5 +18,5 @@ Read more: [File sharing services review »](https://insightcrunch.com/2009/08/0
 
 His loved ones who arrived in huge numbers at the hospital broke into tears when this news was announced. Over the years, he grew up as one of the finest and able leaders handling tough situations with ease. Surely his name will be remembered for quite sometime now.
 
-![Kolkata Mourns Death](/assets/images/blog/blog-02.webp)
+![Kolkata Mourns Death](/assets/images/blog/blog-14.webp)
 Kolkata Mourns Death

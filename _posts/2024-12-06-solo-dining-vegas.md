@@ -5,7 +5,7 @@ date: 2024-12-06
 categories: ["Leisure"]
 tags: ["solo-dining", "las-vegas", "restaurants", "vegas-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "chinatown", "the-strip", "off-strip"]
 excerpt: "Where to eat alone in Vegas beyond the buffet. Steakhouse bar seats on the Strip, Chinatown counters, and the off-Strip restaurants solo diners love."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

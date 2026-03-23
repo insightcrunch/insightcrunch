@@ -5,7 +5,7 @@ date: 2025-01-12
 categories: ["Leisure"]
 tags: ["solo-dining", "new-york-city", "restaurants", "nyc-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "ramen", "fine-dining"]
 excerpt: "Where to eat alone in NYC. Counter seats, bar dining, and slice joints from Manhattan to Brooklyn where solo diners are part of the culture, not the..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

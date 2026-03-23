@@ -6,7 +6,7 @@ date: 2025-05-18
 categories: ["Industry"]
 tags: ["Google interview preparation", "Amazon SDE interview", "Flipkart interview", "TCS NQT", "Infosys interview questions", "coding round", "software engineer interview", "interview preparation India", "product company interview", "FAANG interview"]
 excerpt: "Cracking SDE interviews in India. Company-specific preparation roadmap for FAANG, Flipkart, and service companies with coding, system design, and HR tips."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -41,7 +41,7 @@ At the highest level, Indian tech interviews fall into two distinct philosophies
 
 **Service company interviews** (TCS, Infosys, Wipro, HCL, Cognizant, and similar) evaluate fundamental aptitude (logical reasoning, quantitative ability, verbal ability), basic programming ability, and HR fit. The bar for technical depth is lower, the volume of hiring is much higher, and campus recruitment accounts for the majority of intake. Lateral hiring at service companies adds a technical component but rarely reaches product company depth.
 
-![Complete Software Engineer Interview Roadmap: Company-Wise Preparation Strategy for Google, Amazon, Microsoft, Flipkart, Razorpay, Infosys & TCS with Round-by-Round Breakdown](/assets/images/blog/blog-12.webp)
+![Complete Software Engineer Interview Roadmap: Company-Wise Preparation Strategy for Google, Amazon, Microsoft, Flipkart, Razorpay, Infosys & TCS with Round-by-Round Breakdown](/assets/images/blog/blog-06.webp)
 Complete Software Engineer Interview Roadmap — Company-Wise Preparation Strategy for Google, Amazon, Microsoft, Flipkart, Razorpay, Infosys and TCS with Round-by-Round Breakdown
 
 ### The Standard Product Company Interview Loop

@@ -5,7 +5,7 @@ date: 2024-12-20
 categories: ["Leisure"]
 tags: ["solo-dining", "san-francisco", "restaurants", "sf-food", "eating-alone", "counter-dining", "bar-seating", "omakase", "mission-district", "chinatown", "ferry-building"]
 excerpt: "Where to eat alone in SF. Counter seats from Swan Oyster Depot to the Mission, bar dining in North Beach, and the Bay Area spots solo diners love most."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

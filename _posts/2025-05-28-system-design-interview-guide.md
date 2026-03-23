@@ -6,7 +6,7 @@ date: 2025-05-28
 categories: ["Industry"]
 tags: ["system design interview", "system design preparation", "scalability", "distributed systems", "SDE-2 interview", "senior engineer interview", "high level design", "low level design", "database design", "microservices"]
 excerpt: "How to crack system design interviews. Structured approach with real problems like URL shortener, chat app, and news feed, plus distributed systems..."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -37,7 +37,7 @@ System design interviews are not tests of memorised architectures. They are stru
 
 A system design interview is required for SDE-2 (Software Development Engineer - Level 2) and above at most product-based companies. The specific threshold varies: some companies introduce system design at 3 years of experience; others wait until 5-6 years. But for any role beyond the junior individual contributor level at a product company, system design is part of the interview loop.
 
-![Complete System Design Interview Guide: Step-by-Step Approach, Real-World Architecture Examples, Scalability Patterns & Practice Problems for SDE-2 and Senior Roles](/assets/images/blog/blog-09.webp)
+![Complete System Design Interview Guide: Step-by-Step Approach, Real-World Architecture Examples, Scalability Patterns & Practice Problems for SDE-2 and Senior Roles](/assets/images/blog/blog-14.webp)
 Complete System Design Interview Guide — Step-by-Step Approach, Real-World Architecture Examples, Scalability Patterns and Practice Problems for SDE-2 and Senior Roles
 
 ### The Four Dimensions of System Design Evaluation

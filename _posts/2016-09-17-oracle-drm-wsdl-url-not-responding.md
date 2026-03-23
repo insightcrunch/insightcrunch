@@ -5,14 +5,14 @@ date: 2016-09-17
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Oracle DRM WSDL URL not responding: APIAdapter and DrmService endpoints failing. Required for GL integration. Diagnosis and resolution steps."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The WSDL response pretty much goes often unnoticed in DRM until we try to use it in some way like the GL integration. The APIAdapter?wsdl and the oracle-epm-drm-webservices/DrmService?wsdl services usually load fine when the services are up. But I started getting the page cannot be displayed errors one day.
 
-![Oracle DRM WSDL URL not responding](/assets/images/blog/blog-10.webp)
+![Oracle DRM WSDL URL not responding](/assets/images/blog/blog-15.webp)
 Oracle DRM WSDL URL not responding
 
 We need to follow a set of steps to make sure the services are up again, including taking a backup of and then deleting a lok file, as shared below:

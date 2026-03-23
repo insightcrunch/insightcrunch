@@ -6,7 +6,7 @@ date: 2021-04-08
 categories: ["Industry"]
 tags: ['SAT Problem Solving', 'SAT Data Analysis', 'SAT Statistics', 'SAT Probability', 'SAT Ratios', 'SAT Percentages', 'SAT Data Interpretation', 'SAT Scatter Plots']
 excerpt: "Master every SAT Problem Solving and Data Analysis topic including ratios, percentages, statistics, probability, and data interpretation with worked examples."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ Problem-Solving and Data Analysis is the SAT Math domain that most directly mirr
 
 This domain accounts for approximately 5 to 7 of the 44 total math questions on the Digital SAT. While this is fewer questions than Algebra or Advanced Math, the questions in this domain have a unique character that makes them worth dedicated preparation. They tend to be more reading-intensive than other math questions, requiring you to extract information from tables, graphs, and verbal descriptions before performing any calculations. Many students who are strong at pure algebra lose points here because they misread a graph, confuse correlation with causation, or set up a percentage calculation with the wrong base value.
 
-![SAT Problem Solving and Data Analysis Guide](/assets/images/blog/blog-02.webp)
+![SAT Problem Solving and Data Analysis Guide](/assets/images/blog/blog-11.webp)
 
 This guide covers every topic in the Problem-Solving and Data Analysis domain in exhaustive detail. For each topic, you will find clear concept explanations, worked examples at multiple difficulty levels, common mistakes to avoid, trap answer patterns, and the fastest solution approaches. Master this guide and you will have the tools to handle every question this domain can throw at you.
 

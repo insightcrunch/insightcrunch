@@ -6,14 +6,14 @@ date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Ahmedabad", "Training Center"]
 excerpt: "What is TCS ILP in Ahmedabad like? A fresher's account of daily training, accommodation, food quality, and tips for making the most of your time there."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Ahmedabad is one of India's most historically rich and commercially dynamic cities - and for TCS freshers assigned to ILP here, it is also the gateway city to the Gandhinagar Infocity campus that serves as the primary TCS ILP venue in Gujarat. While Gandhinagar hosts the TCS training infrastructure, Ahmedabad's energy, culture, and food culture shape the life outside training hours in ways that make the Gujarat ILP posting genuinely memorable. This guide covers the Ahmedabad ILP experience in the detail that genuinely prepares a new trainee - the specific character of Ahmedabad as a city, what TCS ILP training looks like in the Gujarat context, how to navigate the Gandhinagar-Ahmedabad relationship productively, and the specific insights that make the experience more enjoyable and more professionally valuable.
 
-![The Sabarmati Riverfront in Ahmedabad at golden hour, with the historic ghats and modern promenade representing the city's dual character as ancient trading capital and modern commercial hub](/assets/images/blog/blog-04.webp)
+![The Sabarmati Riverfront in Ahmedabad at golden hour, with the historic ghats and modern promenade representing the city's dual character as ancient trading capital and modern commercial hub](/assets/images/blog/blog-09.webp)
 *TCS ILP Ahmedabad detailed review - training at Infocity Gandhinagar, Ahmedabad city life, food culture, cultural exploration, accommodation experience, and practical tips for freshers assigned to the Gujarat ILP posting*
 
 The Ahmedabad-Gandhinagar ILP experience has a specific character shaped by Gujarat's culture, Ahmedabad's history and commercial energy, and the particular community that TCS ILP batches form in this context. Trainees who arrive understanding this character are better positioned to engage with it fully than those who arrive with only a generic ILP expectation.

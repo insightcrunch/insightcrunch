@@ -6,14 +6,14 @@ date: 2010-09-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Satellite Center", "College Campus Training"]
 excerpt: "TCS chose Haldia Institute of Technology as an ILP satellite center. What this campus-based training setup looks like for freshers posted here."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Among the less-discussed dimensions of TCS's ILP infrastructure is the satellite centre model - the use of engineering college campuses as additional ILP training venues that extend TCS's training capacity beyond its owned and operated campuses. For freshers who are assigned to ILP at a satellite centre rather than one of TCS's major owned facilities, the experience differs in specific ways from the flagship campus experience, and understanding those differences in advance is genuinely useful preparation.
 
-![A modern engineering college campus with TCS training flags and signage, representing the satellite ILP model where TCS extends its training network through partnerships with engineering institutions](/assets/images/blog/blog-11.webp)
+![A modern engineering college campus with TCS training flags and signage, representing the satellite ILP model where TCS extends its training network through partnerships with engineering institutions](/assets/images/blog/blog-07.webp)
 *TCS ILP satellite centres at engineering colleges - how TCS extends its training capacity through college partnerships, what the satellite centre experience offers, and how it compares to flagship campus ILP*
 
 The satellite centre model reflects a practical reality of TCS's mass hiring operations: when TCS commits to training tens of thousands of freshers in a year, its owned ILP campuses - the major facilities in Thiruvananthapuram, Chennai, Pune, Hyderabad, and Gandhinagar - cannot always absorb the full intake simultaneously. Satellite centres at engineering colleges across India provide the overflow capacity that allows TCS to honour its hiring commitments even in high-volume years.

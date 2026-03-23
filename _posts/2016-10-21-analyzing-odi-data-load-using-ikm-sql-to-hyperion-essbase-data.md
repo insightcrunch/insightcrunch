@@ -5,14 +5,14 @@ date: 2016-10-21
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "ODI IKM SQL to Hyperion Essbase DATA analysis: how the Knowledge Module loads data, the options it provides, and tuning for large volume cubes."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Oracle Data Integrator provides a range of Knowledge Modules to integrate with and process data from and load to various applications, and it is no different with Oracle Essbase. The Knowledge Module **IKM SQL to Hyperion Essbase (DATA)** loads the data from a Oracle database to an Essbase cube - and has various parameters to customize it as per our requirement.
 
-![ODI data load using IKM SQL to Hyperion Essbase (DATA)](/assets/images/blog/blog-07.webp)
+![ODI data load using IKM SQL to Hyperion Essbase (DATA)](/assets/images/blog/blog-09.webp)
 ODI data load using IKM SQL to Hyperion Essbase (DATA)
 
 Now we need to have the data ready in our **Oracle database table to be used as source**, usually having all the dimensions (like Time, Account, Department, etc) and then the fact value (Actuals) as the base columns (this is the minimum requirement). We can have more than one fact value (say Budget data), these can be loaded to the Essbase cube using the same source table or another different table, whichever is convenient.

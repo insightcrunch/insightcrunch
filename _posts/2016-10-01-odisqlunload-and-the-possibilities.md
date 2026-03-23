@@ -5,7 +5,7 @@ date: 2016-10-01
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "OdiSqlUnload in Oracle Data Integrator: extracting data from databases into flat files. Syntax, parameters, use cases, and performance considerations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -25,7 +25,7 @@ One of the most useful I find is the ODI tool OdiSqlUnload, which can be used i
 **OdiSqlUnload** "-FILE=/Output.txt" "-DRIVER=" "-URL=" "-USER=" "-PASS=" "-FILE_FORMAT=VARIABLE" "-FIELD_SEP=" "-ROW_SEP=" "-DATE_FORMAT=yyyy/MM/dd HH:mm:ss" "-CHARSET_ENCODING=ISO8859_1" "-XML_CHARSET_ENCODING=ISO-8859-1"  
 select <>, <>, <> from <>.<>
 
-![OdiSqlUnload and the Possibilities](/assets/images/blog/blog-01.webp)
+![OdiSqlUnload and the Possibilities](/assets/images/blog/blog-08.webp)
 OdiSqlUnload and the Possibilities
 
 Now that I am able to successfully generate the ODI generated files, let's look at the different ways this can be leveraged to cater to various scenarios:

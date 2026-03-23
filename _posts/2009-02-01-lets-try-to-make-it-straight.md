@@ -5,7 +5,7 @@ date: 2009-02-01
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "When college life forces you to choose between solidarity and self-preservation. A candid reflection on campus politics, fear, and loyalty."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -37,5 +37,5 @@ Withdraw support from the protests immediately
  Support as long as we dnt hv a favourable decision  
  5 (20%)
 
-![Path to a Brighter Future](/assets/images/blog/blog-09.webp)
+![Path to a Brighter Future](/assets/images/blog/blog-06.webp)
 Path to a Brighter Future

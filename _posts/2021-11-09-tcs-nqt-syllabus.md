@@ -6,14 +6,14 @@ date: 2021-11-09
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Syllabus", "Topic Weightage"]
 excerpt: "What is on the TCS NQT syllabus? Topic list for every section with difficulty indicators, preparation priority, and which areas carry the most weight."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The TCS NQT syllabus is not flat - not every topic appears with equal frequency or deserves equal preparation time. Understanding which topics carry the most weight, which topics are the most learnable per hour invested, and which topics produce the highest score return per preparation hour is the strategic foundation of efficient NQT preparation.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-13.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-15.webp)
 *The TCS NQT syllabus deep dive with weightage analysis - the question count distribution across all topics in every section, the difficulty-to-frequency ratio that determines preparation priority, which topics are high-weight and high-learnability (the sweet spots), which topics are high-weight but lower-learnability (require specific methodology investment), how topic weightage varies between Foundation and Advanced sections, the question types that appear most commonly within each topic, and a precision preparation calendar built directly from the weightage data*
 
 This guide assumes you know what the syllabus contains and focuses on why some topics matter more than others, and how to allocate your preparation hours accordingly.

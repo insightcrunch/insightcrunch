@@ -6,7 +6,7 @@ date: 2025-06-19
 categories: ["Industry"]
 tags: ["IELTS preparation", "TOEFL study plan", "study abroad", "study in Canada", "IELTS band 7", "free IELTS material", "study in UK", "study in Germany", "study in Australia", "English proficiency test"]
 excerpt: "How to prepare for IELTS and TOEFL. Structured study plans, reading/writing/speaking/listening strategies, free practice resources, and target score..."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -40,7 +40,7 @@ Every year, millions of students from India, China, South Korea, Pakistan, Niger
 
 The answer to that question is provided by standardised English proficiency tests, primarily IELTS (International English Language Testing System) and TOEFL (Test of English as a Foreign Language). These scores are not formalities. They are gatekeeping instruments that determine whether an otherwise strong application proceeds to review or is rejected at the first filter.
 
-![Complete IELTS & TOEFL Preparation Guide: Study Plans, Free Resources, Band Score Strategies & Country-Wise Admission Process for Canada, UK, Germany, Australia](/assets/images/blog/blog-12.webp)
+![Complete IELTS & TOEFL Preparation Guide: Study Plans, Free Resources, Band Score Strategies & Country-Wise Admission Process for Canada, UK, Germany, Australia](/assets/images/blog/blog-02.webp)
 Complete IELTS & TOEFL Preparation Guide — Study Plans, Free Resources, Band Score Strategies and Country-Wise Admission Process
 
 The stakes of these tests extend far beyond university admission. In Canada, IELTS scores are used for Express Entry and Provincial Nominee Programme immigration applications. In Australia, IELTS is a requirement for skilled migration and student visas. In the UK, IELTS and TOEFL are accepted by the Home Office for student visa applications (UK Visas and Immigration - UKVI approved tests). In Germany, while the medium of instruction may be English at an international programme, proof of English proficiency is still required for admission and sometimes for visa applications.

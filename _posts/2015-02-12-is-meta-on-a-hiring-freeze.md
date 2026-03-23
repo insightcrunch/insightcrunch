@@ -5,7 +5,7 @@ date: 2015-02-12
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta's hiring freeze in the context of the broader tech recession. How other companies compare, what roles Meta might open first, and recovery signals."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 7
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,7 +20,7 @@ In the current technology sector, there is a recession on the horizon. Even thou
 
 Meta is trying to improvise its approach regarding layoff by eliminating certain job types, but it is not directly laying off all those employees. Meta is giving all its laid off employees 30 days to find different roles and other jobs within Meta. The employees will be working with the recruiters to find other jobs and roles in different teams across the organization that fits their skill sets. Meta employees are constantly trying to understand which jobs are most secure and which jobs are most at risk of getting laid off. Many employees are regarding the recruiter role as one of the most risky role today. Meta has a long history of laying off low performing workers. But laying off high performing workers is something new that the employees are facing today. Meta is trying to reprioritize all its projects based on its long term vision. Only those projects that are aligned to the long term vision of Meta will constantly see an investment in skilled employee hiring. The other projects that do not align with the long term vision and profitability goals will see a steep decline in expenses as well as find their employees getting laid off. Even though the employees get time to find different projects, there is no guarantee that they will find another position that fit their skill sets within the provided time.
 
-![Meta Hiring Freeze and Layoffs](/assets/images/blog/blog-02.webp)
+![Meta Hiring Freeze and Layoffs](/assets/images/blog/blog-10.webp)
 Meta Hiring Freeze and Layoffs
 
 ## Meta Hiring Freeze

@@ -5,7 +5,7 @@ date: 2009-09-23
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "TweetMeme: the retweet aggregation service that tracks trending Twitter topics. How the platform works, the retweet button, and content discovery."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ Many sites have already added the “Retweet” button to their articles as you 
 
 Read more: [Why iPhone is so much popular on Flickr? »](https://insightcrunch.com/2009/09/27/why-iphone-is-so-much-popular-on-flickr/)
 
-![Twitter Top Trending Topics](/assets/images/blog/blog-13.webp)
+![Twitter Top Trending Topics](/assets/images/blog/blog-08.webp)
 Twitter Top Trending Topics
 
 The only reason TweetMeme will continue to flourish (a lot like Digg is doing now) is it is becoming a collection of some top articles and as seen in the TweetMeme site, they are divided into categories. For example try searching any topic below, and you will get some of the most tweeted results.

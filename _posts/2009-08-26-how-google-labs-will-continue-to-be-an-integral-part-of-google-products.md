@@ -5,7 +5,7 @@ date: 2009-08-26
 categories: ["Leisure"]
 tags: ["Google", "Thoughts"]
 excerpt: "Google Labs is more than a playground. How experimental features consistently graduate into core Google products that billions of people use daily."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,5 +20,5 @@ Keep reading: [Flickr's addiction: How NOT to get rid off it »](https://insight
 
 With so much of flexibility round the corners, Google’s engineers and researchers have no doubt been achieving something which many of us would have thought of but couldn’t find those services. Hope they come up with more such lab stuffs and integrate some of them into their core products.
 
-![Google Projects](/assets/images/blog/blog-15.webp)
+![Google Projects](/assets/images/blog/blog-07.webp)
 Google Projects

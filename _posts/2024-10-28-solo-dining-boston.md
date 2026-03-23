@@ -5,14 +5,14 @@ date: 2024-10-28
 categories: ["Leisure"]
 tags: ["solo-dining", "boston", "restaurants", "boston-food", "eating-alone", "counter-dining", "bar-seating", "seafood", "north-end", "south-end", "oyster-bar", "clam-chowder"]
 excerpt: "Where to eat alone in Boston. Counter seating at seafood spots, bar dining in the North End, and the neighborhoods where solo diners feel most at ease."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Boston is a city that was old before most of America was born. It is a city of cobblestone streets and redbrick townhouses, of gas-lit lamps on Beacon Hill and fishing boats in the harbor, of universities that have been producing brilliant minds for centuries and restaurants that have been serving oysters since before the Civil War. It is a city where the past is never more than a glance away, where the Freedom Trail winds through neighborhoods that have been feeding people for generations, and where the food carries the weight of history in every bowl of chowder, every plate of pasta, and every raw oyster served on a marble counter in a restaurant that your grandparents might have visited.
 
-![Best Restaurants for Solo Dining in Boston](/assets/images/blog/blog-05.webp)
+![Best Restaurants for Solo Dining in Boston](/assets/images/blog/blog-10.webp)
 
 But Boston is also a city of reinvention. The North End's Italian restaurants coexist with omakase counters and natural wine bars. The Seaport's gleaming new restaurants stand alongside century-old fish markets. The South End's Victorian brownstones house some of the most creative restaurants in New England. And for the solo diner, Boston offers something that cities twice its size cannot: a compact, walkable urban core where the finest oyster bar, the best bowl of clam chowder, the most celebrated Italian restaurant, and the most inventive tasting menu are all within a few subway stops of each other.
 

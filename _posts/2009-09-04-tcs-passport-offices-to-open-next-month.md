@@ -6,14 +6,14 @@ date: 2009-09-04
 categories: ["Industry"]
 tags: ["TCS", "Government Projects", "E-Governance", "Public Sector"]
 excerpt: "TCS passport offices launching: Tata Consultancy Services takes over passport processing to speed up the notoriously slow Indian passport system."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 When most people think of TCS, they picture enterprise software for banks, retail chains, and manufacturing companies. What is less visible but equally significant is TCS's role in transforming how governments deliver services to citizens. From the Passport Seva Project that reduced passport processing from weeks to days for hundreds of millions of Indians, to large-scale national identity and taxation technology systems, TCS has built one of the most consequential government technology portfolios of any IT company operating in India. Understanding TCS's government and e-governance work illuminates both the company's full scope and the career opportunities available to employees who want to build technology that affects public life at national scale.
 
-![Citizens using digital government service kiosks, representing the transformation of public service delivery through TCS e-governance technology](/assets/images/blog/blog-09.webp)
+![Citizens using digital government service kiosks, representing the transformation of public service delivery through TCS e-governance technology](/assets/images/blog/blog-11.webp)
 *TCS government projects and e-governance initiatives - from Passport Seva to national-scale digital transformation, how TCS technology serves India's citizens*
 
 Government and public sector technology is one of the most demanding and most impactful domains in IT services. The scale is extraordinary - systems serving hundreds of millions of citizens simultaneously. The stakes are high - a failure in a passport system or a tax processing platform affects real people in concrete, urgent ways. The complexity is formidable - government processes involve regulatory requirements, legacy infrastructure, political constraints, and security demands that enterprise commercial clients rarely combine in equal measure. And the mission is, at its core, about improving how citizens experience their relationship with the state. TCS's government projects portfolio reflects all of these dimensions.

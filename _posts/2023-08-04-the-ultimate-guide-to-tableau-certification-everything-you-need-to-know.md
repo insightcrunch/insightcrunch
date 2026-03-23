@@ -5,7 +5,7 @@ date: 2023-08-04
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Complete Tableau certification guide: every exam type, eligibility, cost, study resources, preparation timeline, and career benefits in one place."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -30,7 +30,7 @@ Tableau offers a structured certification program that validates individuals' ex
 
 - **Tableau Desktop Certified Professional:** The pinnacle of Tableau certification, this track is for individuals who can leverage Tableau Desktop and Tableau Server to design complex enterprise-level solutions.
 
-![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/blog/blog-13.webp)
+![The Ultimate Guide to Tableau Certification: Everything You Need to Know](/assets/images/blog/blog-10.webp)
 The Ultimate Guide to Tableau Certification: Everything You Need to Know
 
 ## Benefits of Tableau Certification

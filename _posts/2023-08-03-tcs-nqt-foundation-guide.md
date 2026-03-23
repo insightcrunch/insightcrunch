@@ -6,14 +6,14 @@ date: 2023-08-03
 categories: ["Industry"]
 tags: ["TCS NQT foundation", "TCS aptitude", "TCS numerical ability", "TCS verbal ability", "TCS reasoning"]
 excerpt: "Master all three Foundation sections of TCS NQT with topic-wise strategies, time management tips, and a 2-week prep plan."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 61
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The TCS NQT Foundation Section is the single most consequential test a fresher engineering or science graduate will take in the Indian campus hiring ecosystem. It is the gateway to TCS Ninja, the gateway to TCS Digital, and the gateway to TCS Prime - because without clearing the Foundation section above the applicable cutoff, none of those profiles are reachable regardless of how well you code or how polished your resume looks. Three sub-sections, seventy-five questions, seventy-six minutes. That is the constraint you are preparing for, and this guide gives you the complete, topic-by-topic, strategy-by-strategy preparation map to clear it with marks to spare.
 
-![TCS Guide](/assets/images/blog/blog-02.webp)
+![TCS Guide](/assets/images/blog/blog-09.webp)
 
 Every topic in the Foundation Section is covered here in depth: the exact frequency with which it appears, the difficulty level, how much time to allocate per question, speed-solving techniques that eliminate the need for full algebraic working, common traps that cause candidates to lose marks they should have won, and a systematic practice approach. At the end, a two-week intensive preparation plan translates all of this into a day-by-day schedule you can follow immediately.
 

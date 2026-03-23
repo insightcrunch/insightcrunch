@@ -5,7 +5,7 @@ date: 2023-06-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Choose the right Tableau certification for your career stage: Desktop Specialist for beginners, Data Analyst for mid-level, Server for administrators."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ In the realm of literature, Hemingway's characters often face choices that shape
 
 Read more: [Unlocking Your Potential: Benefits of Tableau Certification »](https://insightcrunch.com/2023/05/02/unlocking-your-potential-benefits-of-tableau-certification/)
 
-![Choosing the Right Tableau Certification Path for Your Career](/assets/images/blog/blog-11.webp)
+![Choosing the Right Tableau Certification Path for Your Career](/assets/images/blog/blog-01.webp)
 Choosing the Right Tableau Certification Path for Your Career
 
 ## Unveiling the Spectrum: Understanding Tableau Certification Paths
