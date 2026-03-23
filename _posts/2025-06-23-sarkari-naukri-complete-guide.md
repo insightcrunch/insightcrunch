@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Sarkari Naukri Complete Guide: Government Job Categories, Eligibility, Selection Process, Salary Structure & Preparation Strategy for Every Major Exam"
+title: "Sarkari Naukri Complete Guide: Eligibility, Selection & Preparation"
+page_title: "Sarkari Naukri Complete Guide: Government Job Categories, Eligibility, Selection Process, Salary Structure & Preparation Strategy for Every Major Exam"
 date: 2025-06-23
 categories: ["Industry"]
 tags: ["sarkari naukri", "government job", "SSC", "UPSC", "railway exam", "sarkari result", "government salary", "IBPS", "state PSC", "defence jobs"]
