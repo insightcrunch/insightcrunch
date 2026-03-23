@@ -4,7 +4,7 @@ title: "The Maestro - A.R. Rahman"
 date: 2009-01-16
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "I have always been an ardent fan of this amazingly talented musician..just hope its time for him to bag a few Oscars after this Golden Globe award. His..."
+excerpt: "A.R. Rahman's Golden Globe win and the road to the Oscars. Why his music stands apart with a rare blend of melody, soul, and innovation."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"

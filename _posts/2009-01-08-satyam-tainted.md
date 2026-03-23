@@ -4,7 +4,7 @@ title: "Satyam tainted"
 date: 2009-01-08
 categories: ["Industry"]
 tags: ["Analysis and Opinions"]
-excerpt: "One of the greatest setbacks for the IT industry a horrifying moment for the stock market.. Satyam chief B. Ramalinga Raju played around with 7136 crores..."
+excerpt: "Satyam accounting scandal: how Ramalinga Raju manipulated 7,136 crores and brought one of India's top IT companies to its knees overnight."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
