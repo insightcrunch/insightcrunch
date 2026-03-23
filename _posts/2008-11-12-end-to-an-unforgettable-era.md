@@ -4,7 +4,7 @@ title: "End to an unforgettable era"
 date: 2008-11-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Its been an awesome journey, starting since 1996. The dream debut itself hinted what the world was going to witness over the next few years. And to say..."
+excerpt: "Sourav Ganguly retirement tribute: reliving the grit, aggression, and fearless captaincy that transformed Indian cricket forever."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"

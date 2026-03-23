@@ -4,7 +4,7 @@ title: "The Maestro - A.R. Rahman"
 date: 2009-01-16
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Why A.R. Rahman is not just a great composer but a once-in-a-generation talent. From the Golden Globe to the Oscar, the maestro's journey."
+excerpt: "I have always been an ardent fan of this amazingly talented musician..just hope its time for him to bag a few Oscars after this Golden Globe award. His..."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"

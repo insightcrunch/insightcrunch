@@ -4,7 +4,7 @@ title: "Suchitra Sen - The unveiling"
 date: 2009-01-18
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "The controversy around unveiling Suchitra Sen. Reflections on privacy, celebrity culture, and Bengali cinema's most enigmatic leading lady."
+excerpt: "Was this hype really necessary to unveil someone with today’s spy cam technology who has voluntarily said she would not like anyone to keep contact with..."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"

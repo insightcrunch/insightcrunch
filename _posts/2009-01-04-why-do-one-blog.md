@@ -4,7 +4,7 @@ title: "Why do one blog?"
 date: 2009-01-04
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "What motivates someone to start a blog and keep writing? Honest thoughts on blogging culture, attention, and the desire to be heard publicly."
+excerpt: "The most staggering question in today’s world of Wordpress, Blogger, Typepad and several such sites has left me wondering, actually why do so many people..."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 3
 author: "Insight Crunch Team"

@@ -4,7 +4,7 @@ title: "Mockery of India’s security"
 date: 2008-12-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "The tragedy in Mumbai can be nothing but a total collapse of our Intelligence failure. When we have been warned of the attacks, even their locations..."
+excerpt: "Mumbai 26/11 attack analysis: intelligence failures, security lapses, and why warnings were ignored despite specific location alerts from allies."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 1
 author: "Insight Crunch Team"
