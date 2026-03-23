@@ -5,12 +5,12 @@ page_title: "TCS NQT Eligibility Comprehensive Guide - All Criteria, Edge Cases,
 date: 2021-12-17
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Eligibility", "Edge Cases"]
-excerpt: "Comprehensive TCS NQT eligibility guide - all criteria, edge cases, special scenarios, and re-attempt rules covered."
+excerpt: "Check if you qualify for TCS NQT. Detailed eligibility for all branches, graduation years, and the backlog and percentage rules that catch people off..."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 The standard TCS NQT eligibility criteria are covered in most guides: 60% at every academic stage, no more than 1 active backlog, full-time degree, age 18-28, work experience under 2 years. What those guides do not cover are the real situations that candidates actually face - the edge cases, the unusual academic histories, the boundary conditions, and the special scenarios that determine whether an atypical candidate is eligible or not.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-15.webp)

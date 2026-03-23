@@ -5,12 +5,12 @@ page_title: "TCS NQT Package Details - Complete CTC Breakdown for Ninja, Digital
 date: 2021-08-12
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Salary Package", "CTC Breakdown"]
-excerpt: "TCS NQT salary packages - complete CTC breakdown for Ninja, Digital, and Prime roles with in-hand calculations."
+excerpt: "What package does TCS NQT offer? CTC breakdown for different score tiers, the difference between Ninja and Digital offers, and actual in-hand figures."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 The TCS NQT package is not a single number - it is a set of numbers determined by which track you qualify for. TCS Ninja and TCS Digital carry different CTC figures, different in-hand monthly amounts, and different career trajectories. Understanding the complete package picture before you take the NQT shapes your preparation target: if the ₹3.5 LPA difference between Ninja and Digital compounds over five years, the additional preparation investment for Digital becomes one of the highest-return decisions an engineering fresher can make.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-06.webp)

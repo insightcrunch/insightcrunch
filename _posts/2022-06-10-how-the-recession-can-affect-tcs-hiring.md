@@ -5,12 +5,12 @@ page_title: "How Economic Recession Affects TCS Hiring - Impact Analysis, Histor
 date: 2022-06-10
 categories: ["Industry"]
 tags: ["TCS", "Recession", "Hiring Impact", "Economic Downturn"]
-excerpt: "How economic recession affects TCS hiring - impact analysis, historical patterns, and recession-proofing your career."
+excerpt: "How a recession impacts TCS hiring: historical patterns, which roles get cut first, fresher onboarding delays, and what to expect during an economic..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Recession fears are a recurring feature of the macroeconomic landscape, and every time they intensify, hundreds of thousands of engineering freshers and working professionals ask the same question: what happens to TCS hiring when the economy slows? Understanding how economic downturns actually affect the world's largest IT services company - historically, mechanically, and practically - gives candidates and employees the accurate picture they need to make career decisions during uncertainty.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-02.webp)

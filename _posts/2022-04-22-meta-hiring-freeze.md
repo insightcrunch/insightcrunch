@@ -4,11 +4,11 @@ title: "Meta Hiring Freeze"
 date: 2022-04-22
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is the parent company of Facebook. The hiring plans of Meta have been slashed by at least 30% in the current year. CEO Mark Zuckerberg has informed the employees of Meta that the company is ..."
+excerpt: "Meta hiring freeze official: 30% cut to recruitment plans, Zuckerberg's internal memo, and what it means for current employees and pending candidates."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

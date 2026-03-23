@@ -5,12 +5,12 @@ page_title: "TCS NQT Syllabus - Complete Topic-Wise Guide for Foundation and Adv
 date: 2021-06-24
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Syllabus", "Study Topics"]
-excerpt: "Complete TCS NQT syllabus - topic-wise guide for foundation and advanced sections with study priority recommendations."
+excerpt: "Complete TCS NQT syllabus with topic-wise detail. What to study for each section, which topics carry the most marks, and the smartest preparation sequence."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 The TCS NQT syllabus covers more ground than most candidates expect. Understanding the full scope before beginning preparation - what is tested, how much of each topic appears, and in what difficulty range - is the difference between systematic preparation that covers everything important and scattered preparation that leaves gaps in critical areas.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-08.webp)
