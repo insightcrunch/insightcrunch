@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Making Money in College Complete Guide: 25 Legit Side Hustles, Remote Jobs, Freelancing Platforms, Passive Income Ideas & Financial Tips for Students on a Budget"
+title: "Making Money in College: 25 Side Hustles, Remote Jobs & Freelancing"
+page_title: "Making Money in College Complete Guide: 25 Legit Side Hustles, Remote Jobs, Freelancing Platforms, Passive Income Ideas & Financial Tips for Students on a Budget"
 date: 2025-04-23
 categories: ["Industry"]
 tags: ["side hustles college students", "make money in college", "remote jobs students", "freelancing for students", "passive income", "student budget", "college student income", "campus jobs", "gig economy students", "student financial tips"]
