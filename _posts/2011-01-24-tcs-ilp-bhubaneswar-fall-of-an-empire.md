@@ -5,12 +5,12 @@ page_title: "What Happens if You Fail TCS ILP - Consequences, Bhubaneswar Re-Ass
 date: 2011-01-24
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
-excerpt: "What happens if you fail TCS ILP - consequences, re-assessment process, termination risks, and how to recover."
+excerpt: "Endgame at TCS ILP Bhubaneswar. The project phase, PRA stress, batch dynamics shifting, and the emotional weight of training coming to a close."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 The score appeared on the screen. 12.08%. Everything went black.
 
 That moment - the split second between clicking submit and watching a number appear that rewrites everything you thought was about to happen - is one that more TCS ILP freshers experience than anyone likes to admit. A botched exam read, an overconfident skip of the rules page, a week of inadequate preparation, or simply a subject that never clicked no matter how hard you tried. The reasons are varied. The gut-punch feeling is universal.

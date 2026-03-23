@@ -5,12 +5,12 @@ page_title: "TCS and IT Outsourcing Demand - How Global Outsourcing Trends Affec
 date: 2011-06-22
 categories: ["Industry"]
 tags: ["TCS", "Outsourcing", "IT Demand", "Global Trends"]
-excerpt: "How global IT outsourcing demand impacts TCS hiring, project pipelines, and career opportunities for employees."
+excerpt: "TCS denies CLSA's weak demand report. India's IT leader clarifies that outsourcing demand remains strong and hiring plans are unchanged for 2011."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Every few months, a brokerage report lands in the financial press, a consultancy publishes a market study, or a prominent technology executive makes a comment that sets off a wave of speculation: Is IT outsourcing demand weakening? Are global companies pulling back from offshore models? Is the business that underpins TCS's entire existence facing structural erosion?
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-02.webp)
