@@ -4,11 +4,11 @@ title: "Oracle BI Apps ODI integration with DRM - Single Child Multiple Parents 
 date: 2016-09-19
 categories: ["Analytics"]
 tags: ["Master Data Management", "Oracle Data Integrator"]
-excerpt: "The Oracle Business Intelligence Applications is a very useful product for many organizations and often Oracle Hyperion DRM is the master data management tool used for managing master data via ..."
+excerpt: "Oracle BI Apps ODI integration with DRM: resolving the single child, multiple parents hierarchy issue that breaks dimension loading in the data warehouse."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The Oracle Business Intelligence Applications is a very useful product for many organizations and often Oracle Hyperion DRM is the master data management tool used for managing master data via integration through Oracle EBS.
 

@@ -4,11 +4,11 @@ title: "Evernote and how it transformed my digital life"
 date: 2016-10-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "As digital data has grown over the years and our dependency on gadgets has risen, there came a need for something more than the concept of simply storing files in different folders in the cloud. The ..."
+excerpt: "How Evernote changed the way I organize digital information. From scattered files to a searchable knowledge base, the app that reshaped my workflow."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 As digital data has grown over the years and our dependency on gadgets has risen, there came a need for something more than the concept of simply storing files in different folders in the cloud. The concept of note-taking thus evolved and has made steady progress over the last 4-5 years. I had [Evernote](https://www.evernote.com/referral/Registration.action?sig=c81abcefab73f626c24b473e45362cebb02c01135cb986a655bfc0528da30b55&uid=68011063) installed in my phablet since March 2014 but never really used it until 2016.
 

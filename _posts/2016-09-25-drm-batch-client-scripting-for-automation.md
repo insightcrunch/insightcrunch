@@ -4,11 +4,11 @@ title: "DRM Batch Client Scripting for Automation"
 date: 2016-09-25
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "The DRM Batch Client is one of the most useful tools that complements the flexibility and features of Oracle Data Relationship Management. It has numerous features and benefits:"
+excerpt: "Oracle DRM Batch Client scripting guide: automate exports, imports, validations, and version management using command-line scripts and scheduled jobs."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The DRM Batch Client is one of the most useful tools that complements the flexibility and features of Oracle Data Relationship Management. It has numerous features and benefits:
 

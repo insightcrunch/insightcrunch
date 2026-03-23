@@ -4,11 +4,11 @@ title: "Load Segment Values and Hierarchies - DRM EBS Integration"
 date: 2016-09-27
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "The Oracle Data Relationship Management is one of the best in-class master data management tool by Oracle. It is often used along with Oracle E-Business Suite to maintain its master data due to the ..."
+excerpt: "Load GL segment values and hierarchies from Oracle DRM to EBS. The integration process, concurrent program setup, and common loading issues."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The Oracle Data Relationship Management is one of the best in-class master data management tool by Oracle. It is often used along with Oracle E-Business Suite to maintain its master data due to the benefits and flexibility it offers.
 
