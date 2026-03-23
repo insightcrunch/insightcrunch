@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCS Accommodation Coimbatore - Complete Housing Guide for TIDEL Park and the IT Corridor"
+title: "TCS Accommodation Coimbatore - Housing Guide TIDEL Park & IT Corridor"
 date: 2019-10-30
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Coimbatore", "Tamil Nadu", "Fresher", "TIDEL Park", "Saravanampatti", "Peelamedu", "IT Career"]
