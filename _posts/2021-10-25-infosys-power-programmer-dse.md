@@ -9,7 +9,7 @@ excerpt: "Complete guide to Infosys Power Programmer and DSE roles covering elig
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-23
 ---
 Most conversations about Infosys fresher hiring center on the Systems Engineer role, the standard entry-level designation that the company hires at scale every cycle. But within the same fresher hiring ecosystem, Infosys runs two premium entry-level tracks that attract significantly less attention despite offering materially different compensation, different work environments, and a different career trajectory from day one. These are the Power Programmer and the Digital Specialist Engineer designations.
 
