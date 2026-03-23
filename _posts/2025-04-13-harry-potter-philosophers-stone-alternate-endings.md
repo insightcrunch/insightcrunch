@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What If It Ended Differently? Alternate Endings for Harry Potter and the Philosopher's Stone"
+title: "Alternate Endings for Harry Potter and the Philosopher's Stone"
+page_title: "What If It Ended Differently? Alternate Endings for Harry Potter and the Philosopher's Stone"
 date: 2025-04-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Alternate Endings", "Classic Stories", "Philosopher's Stone", "Book Analysis"]
