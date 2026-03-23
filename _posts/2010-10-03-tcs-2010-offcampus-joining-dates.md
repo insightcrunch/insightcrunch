@@ -5,12 +5,12 @@ page_title: "TCS Off-Campus vs Campus Joining Dates - How Timelines Differ, What
 date: 2010-10-03
 categories: ["Industry"]
 tags: ["TCS", "Off-Campus", "Joining Date", "Campus vs Off-Campus"]
-excerpt: "How TCS off-campus joining dates differ from campus hires - timeline patterns, status tracking, and what to expect."
+excerpt: "TCS 2010 off-campus candidates start receiving joining dates. The slower process for off-campus hires and what remaining candidates should expect."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 A persistent observation in TCS fresher communities is that off-campus candidates receive joining dates later than their campus counterparts. The original article that prompted this rewrite notes exactly this pattern: off-campus candidates "had been a little disappointed for sometime now as their joinings weren't at the same pace as their on-campus counterparts." This guide explains why this pattern exists, how pronounced the difference is, what factors determine the specific off-campus timeline, and what off-campus candidates can do to manage the waiting period effectively.
 
 ![A split view showing two parallel paths - a college campus placement drive on one side and an online NQT application portal on the other - representing the two routes through which TCS freshers enter the joining date waiting pool](/assets/images/blog/blog-01.webp)
