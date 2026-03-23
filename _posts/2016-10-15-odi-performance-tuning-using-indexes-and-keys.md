@@ -4,11 +4,11 @@ title: "ODI Performance Tuning using indexes and keys"
 date: 2016-10-15
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "The Oracle Data Integrator load plans involve extracting and loading large volumes of data and then transforming them as per requirements. Often the volume of data becomes a bottleneck and the ..."
+excerpt: "ODI performance tuning with indexes and keys: when to add them, which types help most, and how proper indexing can cut ETL load times dramatically."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The Oracle Data Integrator load plans involve extracting and loading large volumes of data and then transforming them as per requirements. Often the volume of data becomes a bottleneck and the execution timings goes beyond the acceptable limits. That is when some of the age-old practices of performance improvement using keys and indexes come in.
 

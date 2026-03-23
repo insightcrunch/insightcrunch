@@ -4,11 +4,11 @@ title: "DRM Single Physical Hierarchy Multiple Logical Hierarchies"
 date: 2016-10-07
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "The Oracle Data Relationship Management application provides tremendous flexibility in terms of managing the master data for an organization. It has amazing customizing options and integrability with ..."
+excerpt: "Oracle DRM: map one physical hierarchy to multiple logical views. How to provide different perspectives of the same data for different business needs."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The Oracle Data Relationship Management application provides tremendous flexibility in terms of managing the master data for an organization. It has amazing customizing options and integrability with other Oracle products that makes it even more useful.
 

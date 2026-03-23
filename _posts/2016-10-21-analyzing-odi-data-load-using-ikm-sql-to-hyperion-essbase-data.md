@@ -4,11 +4,11 @@ title: "Analyzing ODI data load using IKM SQL to Hyperion Essbase (DATA)"
 date: 2016-10-21
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "Oracle Data Integrator provides a range of Knowledge Modules to integrate with and process data from and load to various applications, and it is no different with Oracle Essbase. The Knowledge ..."
+excerpt: "ODI IKM SQL to Hyperion Essbase DATA analysis: how the Knowledge Module loads data, the options it provides, and tuning for large volume cubes."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Oracle Data Integrator provides a range of Knowledge Modules to integrate with and process data from and load to various applications, and it is no different with Oracle Essbase. The Knowledge Module **IKM SQL to Hyperion Essbase (DATA)** loads the data from a Oracle database to an Essbase cube - and has various parameters to customize it as per our requirement.
 
