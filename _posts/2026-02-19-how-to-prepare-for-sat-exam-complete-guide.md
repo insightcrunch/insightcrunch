@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'The Definitive Guide to Crushing the SAT: A Strategic Blueprint for College-Bound Students'
+title: 'The Definitive Guide to Crushing the SAT'
+page_title: 'The Definitive Guide to Crushing the SAT: A Strategic Blueprint for College-Bound Students'
 date: 2026-02-19
 categories: ['Analytics']
 tags: ['SAT', 'College Admissions', 'Test Prep', 'USA']
