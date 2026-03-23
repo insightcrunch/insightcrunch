@@ -4,11 +4,11 @@ title: "Change is finally here"
 date: 2009-01-19
 categories: ["Leisure"]
 tags: ["World"]
-excerpt: "Obama's inauguration and the weight of global expectations: Gaza, India-Pakistan tensions, economic crisis, and the bold promise of change."
+excerpt: "The day Obama took office and the world held its breath. Reflections on what change meant amid global crises and rising international hopes."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 The D-day has finally come . The world will wait to see how the major issues like Gaza and India-Pakistan are tackled. The economy is at its helm of turmoil at this point of time adding to the woes of his competency . Certainly he has seemed to be pretty strategic in appointing and selecting his staff.
 

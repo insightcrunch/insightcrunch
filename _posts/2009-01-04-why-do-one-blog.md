@@ -4,11 +4,11 @@ title: "Why do one blog?"
 date: 2009-01-04
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Why do millions of people blog on WordPress, Blogger, and Typepad? Personal reflections on what drives the urge to write and publish online."
+excerpt: "What motivates someone to start a blog and keep writing? Honest thoughts on blogging culture, attention, and the desire to be heard publicly."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 The most staggering question in today’s world of Wordpress, Blogger, Typepad and several such sites has left me wondering, actually why do so many people blog? In fact, why was it that I started blogging, though being not into writing for the last seven years (I loved writing long essays in school). It seems to have a charm of its own, true, but to engross so many people all over the world is not just its charm, but have got to be something more than that. Frankly, I just thought of jotting down some reasons which just might explain the cause…
 
