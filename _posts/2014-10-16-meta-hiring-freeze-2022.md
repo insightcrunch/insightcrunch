@@ -4,11 +4,11 @@ title: "Meta Hiring Freeze 2022"
 date: 2014-10-16
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is the parent company of Facebook and Instagram. CEO Mark Zuckerberg has said that it will freeze hiring and restructure all the teams within the organization in order to optimize its finances ..."
+excerpt: "Meta hiring freeze details: which teams are affected, Zuckerberg's restructuring plan, expected duration, and what current employees should prepare for."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Why is Meta not hiring?"
 date: 2014-09-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest technology corporations in the world today. The company has seen explosive growth over the last several years. However, the senior management at Meta announced that the ..."
+excerpt: "Why Meta stopped hiring: the revenue slowdown, Metaverse spending concerns, competition from TikTok, and Zuckerberg's efficiency-first strategy shift."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

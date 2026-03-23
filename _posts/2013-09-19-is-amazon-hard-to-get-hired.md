@@ -5,11 +5,11 @@ page_title: "Is Amazon Hard to Get Hired? Hiring Timeline, Interview Process, Le
 date: 2013-09-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today. Amazon employs nearly 1 million people all over the world. It is a mixture of part time and full time employees and Amazon has been ..."
+excerpt: "Amazon hiring difficulty across roles: warehouse, customer service, corporate, and tech. How the bar differs and what each track expects from candidates."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

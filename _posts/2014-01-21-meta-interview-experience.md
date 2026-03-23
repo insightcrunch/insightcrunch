@@ -4,11 +4,11 @@ title: "Meta Interview Experience"
 date: 2014-01-21
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta (Facebook) interview experience: real account of coding rounds, system design, behavioral questions, and the preparation that made the difference."
+excerpt: "What is the Meta interview like? First-hand account covering each round, question types, preparation timeline, and honest advice for future candidates."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 
