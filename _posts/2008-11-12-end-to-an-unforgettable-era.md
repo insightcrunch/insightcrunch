@@ -4,7 +4,7 @@ title: "End to an unforgettable era"
 date: 2008-11-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Sourav Ganguly retirement tribute: reliving the grit, aggression, and fearless captaincy that transformed Indian cricket forever."
+excerpt: "Why Sourav Ganguly's career meant more than runs and records. A personal tribute to the captain who taught India how to fight."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"

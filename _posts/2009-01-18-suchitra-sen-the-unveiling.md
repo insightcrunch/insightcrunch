@@ -4,7 +4,7 @@ title: "Suchitra Sen - The unveiling"
 date: 2009-01-18
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Was this hype really necessary to unveil someone with today’s spy cam technology who has voluntarily said she would not like anyone to keep contact with..."
+excerpt: "Suchitra Sen's legendary reclusiveness: should the media have respected her wish for privacy, or was public curiosity about the star inevitable?"
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
