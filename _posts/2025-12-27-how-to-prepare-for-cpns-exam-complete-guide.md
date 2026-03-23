@@ -5,11 +5,11 @@ page_title: 'Panduan Definitif Lolos CPNS: Strategi Sistematis dari Persiapan hi
 date: 2025-12-27
 categories: ['Analytics']
 tags: ['CPNS', 'ASN', 'Seleksi PNS', 'Tes CPNS']
-excerpt: 'Panduan lengkap persiapan CPNS: strategi SKD per subtema TWK, TIU, TKP, pembahasan SKB, timeline pendaftaran, dan tips lolos passing grade.'
+excerpt: 'Cara lolos CPNS dari nol. Strategi per subtema SKD, latihan soal TIU dan TWK, persiapan SKB, dan jadwal belajar realistis menuju pengangkatan PNS.'
 image: '/assets/images/blog/blog-08.webp'
 reading_time: 35
 author: 'Insight Crunch Team'
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## **1. Pendahuluan**
 
