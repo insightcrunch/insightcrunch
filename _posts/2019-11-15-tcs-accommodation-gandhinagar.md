@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCS Accommodation Gandhinagar - Complete Housing Guide for Garima Park and GIFT City"
+title: "TCS Accommodation Gandhinagar - Housing Guide Garima Park & GIFT City"
 date: 2019-11-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Gandhinagar", "Gujarat", "Garima Park", "GIFT City", "Infocity", "Fresher", "IT Career"]
