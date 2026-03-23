@@ -4,11 +4,11 @@ title: '考研全攻略：从择校到上岸的系统性战略指南'
 date: 2026-03-15
 categories: ['Analytics']
 tags: ['考研', 'NPEE', '研究生入学考试', '备考策略']
-excerpt: '考研全攻略：择校定专业科学方法、政治英语数学三公共科深度备考策略、复试面试准备、调剂技巧与全年复习时间线规划详解。'
+excerpt: '考研怎么系统备考上岸？从择校到初试到复试的完整战略，覆盖政治英语数学专业课各科备考方法、时间安排和心态管理。'
 image: '/assets/images/blog/blog-08.webp'
 reading_time: 36
 author: 'Insight Crunch Team'
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## **1. 引言**
 

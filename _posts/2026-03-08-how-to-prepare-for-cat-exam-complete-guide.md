@@ -4,11 +4,11 @@ title: 'The Definitive Guide to Cracking CAT: Strategic Path for MBA Aspirants'
 date: 2026-03-08
 categories: ['Industry']
 tags: ['CAT', 'MBA']
-excerpt: 'CAT exam preparation blueprint: VARC, DILR, and QA section strategies, mock test planning, time management, and the study approach that cracks 99...'
+excerpt: 'How to crack CAT for MBA admission. Section-wise strategy for VARC, DILR, QA with recommended books, mock schedules, and the mindset for 99+ percentile.'
 image: '/assets/images/blog/blog-08.webp'
 reading_time: 32
 author: 'Insight Crunch Team'
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## **1. Introduction**
 
