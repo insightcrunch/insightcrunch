@@ -5,12 +5,12 @@ page_title: "TCS iTIS and iON Platforms - Frequently Asked Questions, Features, 
 date: 2012-02-24
 categories: ["Industry"]
 tags: ["TCS", "iTIS", "iON", "Digital Platform"]
-excerpt: "Complete FAQ guide to TCS iTIS and iON platforms - features, access, troubleshooting, and how they work."
+excerpt: "TCS ITIS FAQ: what IT Infrastructure Services means, daily work, required skills, career growth, and answers to the most common fresher questions."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Two acronyms generate more search traffic, more batch community confusion, and more career-defining consequences than almost any other aspect of TCS's technology and assessment ecosystem: iTIS and iON. Yet despite their importance - one shapes the career tracks of thousands of TCS employees, the other is the platform through which millions of candidates experience TCS's most consequential assessments - both remain poorly understood by the people most affected by them.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-03.webp)
