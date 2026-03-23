@@ -5,12 +5,12 @@ page_title: "TCS ILP Bhubaneswar Daily Life - Campus Routine, Social Dynamics, W
 date: 2011-01-10
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Daily Life"]
-excerpt: "Daily life at TCS ILP Bhubaneswar - campus routine, social activities, weekend plans, and how to make the most of it."
+excerpt: "The human side of TCS ILP Bhubaneswar. Beyond assessments and scores, a warm account of friendships, weekend outings, and finding your footing."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Sitting in the last row of the company bus on the way to Kalinga Park, Debapriya closed his eyes and saw a pastel picture. A picture four and a half years old: fifty students in blue striped white shirts, navy blue trousers, and navy blue ties boarding a yellow bus to a Kolkata engineering college for the first time. He was the last one to board then too. The same left window seat in the last row.
 
 The parallel is not incidental. The bus to the TCS training centre is the bus to a new beginning, just as the bus to the engineering college was. The feeling - excitement, nervousness, and fear in mixture - is the same. The blue striped shirt of the college uniform has become the formal shirt with tie of the TCS dress code. The yellow bus has become the company bus. The four-year college community is about to become the ILP batch. A different beginning, with the specific shape of the beginning before it still visible through the window.

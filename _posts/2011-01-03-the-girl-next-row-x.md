@@ -4,11 +4,11 @@ title: "TCS ILP Experience - The girl next row"
 date: 2011-01-03
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "TCS ILP story: the girl next row. A narrative from ILP training that captures the human side of corporate onboarding, friendships, and new beginnings."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
