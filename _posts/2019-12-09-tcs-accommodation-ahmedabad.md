@@ -8,7 +8,7 @@ excerpt: "The complete guide to TCS accommodation in Ahmedabad for ILP associate
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-21
+last_updated: 2026-03-23
 ---
 The first thing to understand about TCS ILP Ahmedabad is that it is not actually in Ahmedabad. The TCS ILP campus is located at Infocity in Gandhinagar, the capital city of Gujarat, which sits approximately 25 kilometres north of Ahmedabad. Gandhinagar is a planned city, laid out in numbered sectors with wide roads, abundant greenery, and a calm, ordered atmosphere that is the polar opposite of the dense, bustling energy of old Ahmedabad. This distinction matters because the accommodation, the food, the transport, and the daily experience are all shaped by the Gandhinagar environment rather than by Ahmedabad itself.
 

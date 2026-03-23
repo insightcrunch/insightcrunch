@@ -8,7 +8,7 @@ excerpt: "The complete guide to TCS accommodation in Chennai for ILP associates.
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-21
+last_updated: 2026-03-23
 ---
 Chennai is one of the most important TCS ILP locations in India, and it is also one of the most complicated in terms of accommodation because it operates differently from most other ILP cities. The single most important thing to understand about TCS accommodation in Chennai is this: a very large proportion of Chennai ILP associates are classified as non-residential, which means TCS does not provide them accommodation and they must arrange their own housing. This is fundamentally different from Trivandrum, where virtually all ILP associates receive TCS-arranged accommodation. If your joining letter contains the phrase "you are advised to make your own arrangements for accommodation and transport," you are in the non-residential category and this guide's sections on finding your own PG and hostel options will be your primary resource.
 

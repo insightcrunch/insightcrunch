@@ -4,11 +4,11 @@ title: "TCS Campusing Experience"
 date: 2008-11-13
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "TCS campus placement experience: aptitude test pattern, technical interview questions, HR round details, and tips from a selected candidate."
+excerpt: "How I cracked TCS campus placement. Full walkthrough of aptitude, technical, and HR rounds with real questions and preparation advice."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-22
+last_updated: 2026-03-23
 ---
 ## Background
 
