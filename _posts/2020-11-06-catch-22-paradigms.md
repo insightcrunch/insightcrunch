@@ -4,11 +4,11 @@ title: "Catch 22 Paradigms"
 date: 2020-11-06
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "It seldom comes as a surprise when a fascinating vision of deriving insights starts with tons of bytes of texts and numbers looking like anything but structured to start with. An engagement gets all ..."
+excerpt: "Tableau Catch-22: when raw data looks nothing like what you need. Practical approaches to transforming unstructured text and numbers into visual insights."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 It seldom comes as a surprise when a fascinating vision of deriving insights starts with tons of bytes of texts and numbers looking like anything but structured to start with. An engagement gets all the more exciting while engaging with a pool of bright data individuals, and a great pleasure to be able to interact with a thoughtful team discussing the subtle intricacies and popular industry challenges and solutions. The tougher the path became, the more exciting the discussions became, often for hours.
 

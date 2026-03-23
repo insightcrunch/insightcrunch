@@ -4,11 +4,11 @@ title: "Whole to part panorama"
 date: 2021-04-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "..."
+excerpt: "Tableau whole-to-part analysis: evaluating raw data to derive meaningful insights. A panoramic approach from overview to granular detail in visualization."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ![](/assets/images/blog/blog-05.webp)
 
