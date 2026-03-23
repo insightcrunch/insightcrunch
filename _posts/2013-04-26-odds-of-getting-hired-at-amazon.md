@@ -4,11 +4,11 @@ title: "Odds of getting hired at Amazon"
 date: 2013-04-26
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "There is a huge amount of competition for every opening of a job at Amazon. The acceptance rate at Amazon is 2% which is really competitive in the current industry. There are multiple candidates ..."
+excerpt: "Your realistic odds of getting hired at Amazon. The 2% acceptance rate, how competition varies by role, and what actually moves the needle on your chances."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

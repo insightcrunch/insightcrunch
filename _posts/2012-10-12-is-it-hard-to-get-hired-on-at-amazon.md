@@ -4,11 +4,11 @@ title: "Is it hard to get hired on at Amazon?"
 date: 2012-10-12
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today and it employs thousands of employees all over the globe. The process to get hired at Amazon is extensive and exhaustive. Amazon maintains ..."
+excerpt: "How hard is it to get hired at Amazon? The multi-step process, interview loop, leadership principles, and the acceptance rate across different roles."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

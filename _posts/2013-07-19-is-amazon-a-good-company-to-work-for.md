@@ -4,11 +4,11 @@ title: "Is Amazon a good company to work for?"
 date: 2013-07-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest technology companies today, and it employs thousands of people all across the world. Employees at Amazon are offered various perks along with their salary, due to which ..."
+excerpt: "Is Amazon a good employer? Employee perks, work-life balance reality, growth opportunities, compensation, and the honest pros and cons of working there."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 9
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

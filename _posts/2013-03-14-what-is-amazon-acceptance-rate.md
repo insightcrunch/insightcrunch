@@ -4,11 +4,11 @@ title: "What is Amazon acceptance rate?"
 date: 2013-03-14
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today which hires over thousands of candidates across a variety of diverse domains. Amazon has a lengthy and exhaustive hiring process because ..."
+excerpt: "Amazon's acceptance rate is roughly 2%. What this means for applicants, how it varies by role, and strategies to improve your odds of getting hired."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Will the new Outlook be a dark horse?"
 date: 2012-08-20
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "The new version of Microsoft's new mailing service, [Outlook](http://outlook.com), has taken the internet world by storm. And should it not! It’s the first ever big boost Microsoft has given to one ..."
+excerpt: "Microsoft's new Outlook redesign: clean interface, social integration, and whether it can challenge Gmail's dominance in the email market."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The new version of Microsoft's new mailing service, [Outlook](http://outlook.com), has taken the internet world by storm. And should it not! It’s the first ever big boost Microsoft has given to one of its platforms in over the last 4-5 years, apart from its Windows operating systems, obviously. The interface just looks amazing, it feels like it wants to blend with all the services you use, without trying to push you much to use the Live services.
 
