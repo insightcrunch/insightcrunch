@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "College Internship Complete Guide: How to Find Paid Internships, Build an ATS-Friendly Resume, Write Cover Letters & Land Offers at Top Companies with No Experience"
+title: "College Internship Guide: Find Paid Internships with No Experience"
+page_title: "College Internship Complete Guide: How to Find Paid Internships, Build an ATS-Friendly Resume, Write Cover Letters & Land Offers at Top Companies with No Experience"
 date: 2025-05-08
 categories: ["Industry"]
 tags: ["paid internship", "internship no experience", "ATS resume", "internship resume", "summer internship", "how to get internship", "college internship guide", "internship cover letter", "internship search strategy", "campus recruiting"]
