@@ -12,6 +12,8 @@ last_updated: 2026-03-23
 ---
 Austin is a city that was built for doing things your own way. It is the city of "Keep Austin Weird," of musicians playing to rooms of three, of food trucks parked on empty lots that serve better brisket than most restaurants in New York. It is a city where independence is not just tolerated but celebrated, where the solo diner at a picnic table with a plate of barbecue and a cold Lone Star is not a person eating alone but a person eating exactly the way they want to.
 
+![Dining - Insight Crunch](/assets/images/blog/blog-16.webp)
+
 This guide is the most thorough resource ever assembled on solo dining in Austin. It covers every major neighborhood from South Congress to East Austin, from the Domain to South Lamar, from the UT campus area to the barbecue corridor along East Cesar Chavez. It spans every cuisine from Tex-Mex to Thai, every price point from a two-dollar breakfast taco to a two-hundred-dollar omakase, and every dining format from food truck windows to Michelin-starred tasting menus. Whether you are a lifelong Austinite, a tech worker who just relocated from the coasts, a SXSW attendee with three days and an appetite, or a visitor who has heard that Austin is one of the best food cities in America (it is), this guide exists to serve you.
 
 Let us begin.
