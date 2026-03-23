@@ -4,11 +4,11 @@ title: "Amazon Warehouse Jobs Part Time"
 date: 2022-10-30
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon is one of the largest corporations in the world today and it has hundreds of warehouses where thousands of people are working to provide the best customer service experience. There are a ..."
+excerpt: "Amazon part-time warehouse jobs: shift options, hourly pay, benefits eligibility, scheduling flexibility, and how to find part-time openings near you."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 

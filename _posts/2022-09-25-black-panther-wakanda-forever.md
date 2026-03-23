@@ -4,11 +4,11 @@ title: "Black Panther: Wakanda Forever"
 date: 2022-09-25
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "The movie Black Panther: Wakanda Forever is a sequel to the immensely popular Black Panther movie by Marvel Studios. The film will focus on the titular kingdom. There is a lot of hype around the film ..."
+excerpt: "Black Panther: Wakanda Forever preview: Marvel's sequel honoring Chadwick Boseman. New characters, Namor, and what the film means for the MCU's future."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Movie Review
 

@@ -4,11 +4,11 @@ title: "Killers of the Flower Moon"
 date: 2022-09-22
 categories: ["Leisure"]
 tags: ["Movie"]
-excerpt: "The movie Killers of the Flower Moon is an American Western crime drama film which is directed by Martin Scorsese. The film is based on the best-selling 2017 non-fiction book Killers of the Flower ..."
+excerpt: "Killers of the Flower Moon movie review: Martin Scorsese's adaptation of the Osage murders. Cast, storyline, historical accuracy, and overall verdict."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Movie Review
 
