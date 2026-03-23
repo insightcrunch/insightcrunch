@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving & Side Income Ideas Explained from Scratch"
+title: "Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS & Tax"
+page_title: "Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving & Side Income Ideas Explained from Scratch"
 date: 2025-06-14
 categories: ["Industry"]
 tags: ["SIP investment", "mutual fund for beginners", "income tax saving", "PPF vs NPS", "how to invest", "side income India", "personal finance India", "stock market beginners", "tax saving India", "financial planning"]
