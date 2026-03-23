@@ -4,11 +4,11 @@ title: "Facebook responds to open letter from advocacy groups"
 date: 2010-08-24
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Even after modifying its privacy controls, Facebook seems to still have a lot of work to do. A number of major advocacy groups, including the ACLU, EFF, and CDT, sent Facebook an open letter ..."
+excerpt: "Facebook responds to ACLU, EFF, and CDT open letter on privacy. The advocacy groups demand better privacy controls and Facebook tries to answer."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Even after modifying its privacy controls, Facebook seems to still have a lot of work to do. A number of major advocacy groups, including the ACLU, EFF, and CDT, sent Facebook an open letter detailing some outstanding issues with Facebook privacy. The letter acknowledged Facebook’s recent steps to more efficient privacy controls but also said that there are still some flaws.
 

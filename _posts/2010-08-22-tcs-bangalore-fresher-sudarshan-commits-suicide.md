@@ -5,12 +5,12 @@ page_title: "Mental Health for IT Freshers in Bangalore - Managing TCS Work Pres
 date: 2010-08-22
 categories: ["Industry"]
 tags: ["Mental Health", "IT Industry", "Bangalore", "Bengaluru", "Employee Well-Being", "Work Pressure", "NIMHANS"]
-excerpt: "Comprehensive mental health guide for IT freshers in Bangalore. Managing work pressure, accessing NIMHANS and other Bangalore counselling resources, and building sustainable well-being in India's IT capital."
+excerpt: "TCS Bangalore fresher Sudarshan dies by suicide at the office. A tragic incident that raises questions about work pressure on new IT employees."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 55
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Bangalore is the city where more Indian IT careers begin than anywhere else in the country. It is also the city where the psychological pressures of those careers are felt most intensely by the youngest and most vulnerable members of the workforce.
 
 In August 2010, Sudarshan Moothedath, a 22-year-old graduate of Gotge Institute of Technology in Belgaum, joined TCS in Bangalore. He had been at his new job for ten days. On August 20, Sudarshan fell to his death from the 11th floor of the Explorer Building at ITPL, the International Tech Park in Whitefield. He was a fresher who had barely begun his career. He left no note. His colleagues later said he had appeared disturbed in the corridor shortly before the incident.

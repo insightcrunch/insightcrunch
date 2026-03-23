@@ -4,11 +4,11 @@ title: "eBay search now directly through Kewll"
 date: 2010-08-22
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Searching for relevant products and getting an idea of their prices is a breeze now with the integration of eBay search in the dynamic Kewll. There has been the latest add-ons to this toolbar. With ..."
+excerpt: "Kewll toolbar adds eBay search integration. Browse products, compare prices, and shop directly from your browser toolbar without opening eBay first."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 Searching for relevant products and getting an idea of their prices is a breeze now with the integration of eBay search in the dynamic Kewll. There has been the latest add-ons to this toolbar. With already thousands of users, this new utility is sure to excite all.
 

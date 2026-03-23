@@ -5,12 +5,12 @@ page_title: "TCS ILP Gandhinagar (Infocity) - Complete Guide to Training Life, F
 date: 2010-09-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Gandhinagar", "Training Center"]
-excerpt: "Complete TCS ILP Gandhinagar guide - Infocity campus facilities, training schedule, city life, and tips for trainees."
+excerpt: "What is TCS ILP like at Gandhinagar Infocity? A guest post covering training sessions, accommodation, food, and the overall fresher experience."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 TCS ILP at Infocity Gandhinagar is one of the most distinctive training experiences in the TCS ecosystem - a purpose-built IT township in Gujarat's planned capital city that offers freshers a uniquely self-contained professional launch environment. For many TCS trainees assigned to Gandhinagar, the ILP period is their first extended time in Gujarat and their first real experience of a purpose-built IT campus environment. Understanding what to expect before you arrive - the campus, the training structure, the city, the daily routine, the cultural context - makes the transition smoother and the preparation more targeted.
 
 ![The Infocity campus at Gandhinagar Gujarat showing the modern IT towers and green landscaping of the planned IT township that houses TCS's Gujarat ILP operations](/assets/images/blog/blog-02.webp)
