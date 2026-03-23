@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'O Guia Definitivo para Conquistar o ENEM: Um Plano Estratégico do Zero à Aprovação'
+title: 'Guia Definitivo para Conquistar o ENEM: Do Zero à Aprovação'
+page_title: 'O Guia Definitivo para Conquistar o ENEM: Um Plano Estratégico do Zero à Aprovação'
 date: 2026-01-05
 categories: ['Analytics']
 tags: ['ENEM', 'Vestibular', 'Preparação', 'Universidade']
