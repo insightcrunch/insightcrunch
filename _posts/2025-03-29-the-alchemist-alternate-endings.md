@@ -13,7 +13,7 @@ last_updated: 2026-03-22
 ---
 There is a moment near the end of *The Alchemist* that has puzzled readers since the novel's publication in Portuguese in 1988 and its explosion into global consciousness through the 1990s. Santiago, the Andalusian shepherd boy who has crossed Spain and North Africa in pursuit of a treasure his dreams promised him, finally digs at the base of a sycamore tree near the pyramids of Egypt and finds nothing. Then a man beats him savagely, robs what little he has, and in a rage reveals that he too has been dreaming of a treasure -- a treasure buried in a ruined church in Spain, the very church in which Santiago's journey began, the very spot where he slept under a sycamore tree at the story's opening.
 
-![Alternate Ending - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Alternate Ending - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The irony is so complete it is almost geometrical. The treasure was at the origin. The journey was the point. You had to leave to understand where to come back to.
 
