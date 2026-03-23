@@ -5,12 +5,12 @@ page_title: "TCS NQT Cut-Off Marks - Section-Wise Qualifying Scores for Ninja an
 date: 2016-08-03
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Cut-Off", "Qualifying Marks"]
-excerpt: "TCS NQT cut-off marks for Ninja and Digital roles - section-wise qualifying scores and historical patterns."
+excerpt: "What is the TCS NQT cut off? Expected qualifying marks for each section, historical cutoff trends, and the score range that leads to interview calls."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 Of all the questions that circle through TCS NQT batch communities in the weeks before and after the exam, the one that generates the most anxiety and the least reliable answers is: what is the cut-off? What score do I actually need? Have I passed?
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-03.webp)

@@ -4,11 +4,11 @@ title: "DRM Error - File Does not Exist"
 date: 2016-09-15
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "One of the most interesting issues faced till today is the below message while during any Export Import or Query activities in the DRM Web Client:"
+excerpt: "Oracle DRM 'File Does not Exist' error during export, import, or query operations. What causes it in the Web Client and how to fix it quickly."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 One of the most interesting issues faced till today is the below message while during any Export Import or Query activities in the DRM Web Client:
 

@@ -4,11 +4,11 @@ title: "DRM Batch Client Error ORA-03113: end-of-file on communication channel"
 date: 2016-09-16
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to troubleshoot the errors that start happening as ..."
+excerpt: "Fix Oracle DRM Batch Client ORA-03113 error: end-of-file on communication channel. Database connection troubleshooting for automated DRM processes."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to troubleshoot the errors that start happening as mostly when it happens (which is rarely though) it takes lot of time to resolve.
 

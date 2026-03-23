@@ -1776,91 +1776,91 @@
     "variant_2": "Preparing for an IBM interview? Question bank covering every round from aptitude screening through technical, HR, and final managerial discussions."
   },
   "2016-03-19-ibm-panel-interview.md": {
-    "current": 1,
+    "current": 2,
     "original": "The new age of technology has seen large corporations invest in the development of advanced machines and technologies. IBM is one of the top software...",
     "variant_1": "IBM panel interview format: what to expect when multiple interviewers evaluate you simultaneously, common questions, and how to handle the panel dynamic.",
     "variant_2": "How to handle IBM's panel interview. What each panelist evaluates, how to address multiple interviewers, and the questions that come up most frequently."
   },
   "2016-04-06-ibm-technical-interview-questions.md": {
-    "current": 1,
+    "current": 2,
     "original": "IBM is one of the top technology companies in the world today. The scale of innovation and the variety of technologies in which IBM has their presence is...",
     "variant_1": "IBM technical interview: programming questions, data structure problems, system design basics, and the technical depth IBM expects from candidates.",
     "variant_2": "What technical depth does IBM expect? Real interview questions from coding, DBMS, operating systems, and networking rounds with preparation guidance."
   },
   "2016-05-06-ibm-associate-developer-interview.md": {
-    "current": 1,
+    "current": 2,
     "original": "IBM is one of the largest information technology corporations in the world. Employing over hundreds of thousands of employees, IBM has become synonymous...",
     "variant_1": "IBM Associate Developer interview experience: selection process, coding test format, technical interview questions, and what IBM looks for in junior hires.",
     "variant_2": "How to crack the IBM Associate Developer interview. Process overview, technical question patterns, coding test difficulty, and preparation focus areas."
   },
   "2016-06-27-ibm-interview-process.md": {
-    "current": 1,
+    "current": 2,
     "original": "IBM is one of the oldest, largest, and most successful companies in the world today. Thousands of candidates around the world aspire to be a part of this...",
     "variant_1": "IBM interview process from application to offer: online test, technical screening, group discussion, HR interview, and typical timeline for each stage.",
     "variant_2": "What is IBM's hiring process? Every stage explained from online assessment through technical and HR rounds, with timeline estimates and preparation tips."
   },
   "2016-07-14-azure-fundamentals-az-900-practice-exam-microsoft-certification.md": {
-    "current": 1,
+    "current": 2,
     "original": "The **Microsoft Azure Fundamentals AZ-900** exam is one of the most coveted and essential exams that cover the general knowledge about Microsoft Azure. It...",
     "variant_1": "Azure Fundamentals AZ-900 practice exam: cloud concepts, Azure services, security, pricing, and SLA questions to prepare for Microsoft certification.",
     "variant_2": "Ready for AZ-900? Practice questions covering Azure core services, cloud models, security compliance, pricing tiers, and the topics most candidates miss."
   },
   "2016-08-03-cut-off-for-tcs-nqt.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Tata Consultancy Services National Qualifier Test (NQT) is one of the most popular exams taken by aspirants today. Hundreds of thousands of candidates...",
     "variant_1": "TCS NQT cut off marks: minimum qualifying scores for foundation and advanced sections, how cutoffs vary by year, and what score gets you an interview.",
     "variant_2": "What is the TCS NQT cut off? Expected qualifying marks for each section, historical cutoff trends, and the score range that leads to interview calls."
   },
   "2016-09-14-drm-application-not-starting-up-duplicate-versions.md": {
-    "current": 0,
+    "current": 1,
     "original": "It has happened, though very rarely, that the DRM application refuses to start up. On further investigation it has revealed that the number of versions in...",
     "variant_1": "Fix Oracle DRM application not starting due to duplicate versions in the repository. Root cause analysis and the resolution steps that work.",
     "variant_2": "Oracle DRM won't start? Duplicate version entries in the repository may be the cause. How to diagnose and resolve this rare startup failure."
   },
   "2016-09-14-drm-ebs-integration-unable-to-fetch-list-of-versions.md": {
-    "current": 0,
+    "current": 1,
     "original": "Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is...",
     "variant_1": "Oracle DRM EBS integration fails to fetch version list. Troubleshooting the concurrent program that pulls data from DRM into Oracle General Ledger.",
     "variant_2": "DRM to EBS version fetch failing? Troubleshooting steps for the concurrent program that connects Oracle DRM hierarchy data to Oracle GL."
   },
   "2016-09-14-drm-internal-server-error.md": {
-    "current": 0,
+    "current": 1,
     "original": "Oracle Data Relationship Management is a highly robust tool by Oracle with a 99.99% of uptime month over month and a largely satisfied user base. However...",
     "variant_1": "Oracle DRM internal server error: causes, troubleshooting steps, and how to resolve the rare but frustrating server failures in Data Relationship...",
     "variant_2": "Getting an internal server error in Oracle DRM? Diagnostic steps, common causes, and the fixes that restore the application to normal operation."
   },
   "2016-09-15-drm-enterprise-manager-services-not-responding.md": {
-    "current": 0,
+    "current": 1,
     "original": "The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months...",
     "variant_1": "DRM Enterprise Manager Weblogic services not responding. How to diagnose and restart the services that power Oracle DRM's integration with Oracle GL.",
     "variant_2": "Weblogic services down for Oracle DRM? How to check, restart, and fix the Enterprise Manager services that enable DRM-to-EBS integration."
   },
   "2016-09-15-drm-error-file-does-not-exist.md": {
-    "current": 0,
+    "current": 1,
     "original": "One of the most interesting issues faced till today is the below message while during any Export Import or Query activities in the DRM Web Client:",
     "variant_1": "Oracle DRM 'File Does not Exist' error during export, import, or query operations. What causes it in the Web Client and how to fix it quickly.",
     "variant_2": "Hitting 'File Does not Exist' in Oracle DRM? This error during export/import operations has a specific cause and a straightforward resolution."
   },
   "2016-09-16-drm-batch-client-error-ora-03113-end-of-file-on-communication-channel.md": {
-    "current": 0,
+    "current": 1,
     "original": "We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to...",
     "variant_1": "Fix Oracle DRM Batch Client ORA-03113 error: end-of-file on communication channel. Database connection troubleshooting for automated DRM processes.",
     "variant_2": "ORA-03113 in DRM Batch Client? The database communication error that breaks automated jobs and how to fix the underlying connection issue."
   },
   "2016-09-16-drm-hierarchy-error-string-was-not-recognized-as-a-valid-boolean.md": {
-    "current": 0,
+    "current": 1,
     "original": "One of the errors that has been faced while using DRM is that the hierarchy gives an error while opening when some more columns are added in the default...",
     "variant_1": "Oracle DRM hierarchy error: string not recognized as valid Boolean. Caused by additional columns in hierarchy view. Diagnosis and fix explained.",
     "variant_2": "DRM hierarchy won't open after adding columns? The Boolean validation error that surfaces with custom hierarchy views and how to resolve it."
   },
   "2016-09-17-drm-web-client-http-503-error.md": {
-    "current": 0,
+    "current": 1,
     "original": "One of the DRM servers was idle for a long time and one day I decided to start using it. After ensuring the usual things of the application services...",
     "variant_1": "Oracle DRM Web Client HTTP 503 error after idle period. Why the application returns a service unavailable error and how to bring it back online.",
     "variant_2": "DRM Web Client showing HTTP 503? Typically happens after the server sits idle. Here is why the error occurs and the restart steps to fix it."
   },
   "2016-09-17-drm-web-client-internal-server-error.md": {
-    "current": 0,
+    "current": 1,
     "original": "The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling.",
     "variant_1": "Oracle DRM Web Client internal server error: an unusual case where the application runs but the client throws errors. Investigation and resolution.",
     "variant_2": "DRM services are running but the Web Client shows an internal error? Troubleshooting this baffling scenario where the app is up but the UI is not."

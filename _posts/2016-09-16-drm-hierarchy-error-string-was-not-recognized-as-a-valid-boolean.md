@@ -4,11 +4,11 @@ title: "DRM Hierarchy Error - String was not recognized as a valid Boolean"
 date: 2016-09-16
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "One of the errors that has been faced while using DRM is that the hierarchy gives an error while opening when some more columns are added in the default hierarchy view. These additional columns are ..."
+excerpt: "Oracle DRM hierarchy error: string not recognized as valid Boolean. Caused by additional columns in hierarchy view. Diagnosis and fix explained."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 One of the errors that has been faced while using DRM is that the hierarchy gives an error while opening when some more columns are added in the default hierarchy view. These additional columns are the Description of the nodes (available in the System Property Category) and some other calculated custom properties.
 

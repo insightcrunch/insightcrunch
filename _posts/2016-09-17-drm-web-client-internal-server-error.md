@@ -4,11 +4,11 @@ title: "DRM Web Client Internal Server Error"
 date: 2016-09-17
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling. The application was running fine, the ..."
+excerpt: "Oracle DRM Web Client internal server error: an unusual case where the application runs but the client throws errors. Investigation and resolution."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling. The application was running fine, the Weblogic and Shared Services were up, the SSO configuration was in place perfectly.
 
