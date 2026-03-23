@@ -13,6 +13,8 @@ last_updated: 2026-03-22
 ---
 There is a moment near the end of *The Alchemist* that has puzzled readers since the novel's publication in Portuguese in 1988 and its explosion into global consciousness through the 1990s. Santiago, the Andalusian shepherd boy who has crossed Spain and North Africa in pursuit of a treasure his dreams promised him, finally digs at the base of a sycamore tree near the pyramids of Egypt and finds nothing. Then a man beats him savagely, robs what little he has, and in a rage reveals that he too has been dreaming of a treasure -- a treasure buried in a ruined church in Spain, the very church in which Santiago's journey began, the very spot where he slept under a sycamore tree at the story's opening.
 
+![Alternate Ending - Insight Crunch](/assets/images/blog/blog-08.webp)
+
 The irony is so complete it is almost geometrical. The treasure was at the origin. The journey was the point. You had to leave to understand where to come back to.
 
 This is one of the most satisfying and most contested endings in contemporary world literature. Satisfying because the symmetry is so elegant, because the spiritual logic clicks into place with the precision of a well-made lock. Contested because the logic, on examination, raises serious questions. If the treasure was always at the starting point, why did Santiago have to go at all? Is Coelho saying that the journey creates the person who can receive the treasure, even though the treasure was always there? Or is he saying something harder and stranger: that the Soul of the World is playing an elaborate game, sending people on journeys whose destination they could have reached by standing still, simply to teach them something that the journey itself imparts?
