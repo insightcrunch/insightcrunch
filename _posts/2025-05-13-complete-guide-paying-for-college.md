@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Complete Guide to Paying for College: FAFSA Step-by-Step, Scholarships Without Essays, Student Loans, Grants & Financial Aid Strategies That Actually Work"
+title: "Paying for College Guide: FAFSA, Scholarships, Loans & Financial Aid"
+page_title: "Complete Guide to Paying for College: FAFSA Step-by-Step, Scholarships Without Essays, Student Loans, Grants & Financial Aid Strategies That Actually Work"
 date: 2025-05-13
 categories: ["Industry"]
 tags: ["FAFSA guide", "scholarships no essay", "how to pay for college", "student loan", "financial aid", "grants for students", "college funding", "merit scholarships", "need-based aid", "student loan repayment"]
