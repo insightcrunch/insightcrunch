@@ -5,12 +5,12 @@ page_title: "TCS NQT Questions - Complete Guide to Question Types, Patterns, Dif
 date: 2019-06-10
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Questions", "Question Pattern"]
-excerpt: "TCS NQT question types and patterns - aptitude, verbal, reasoning, and coding questions with difficulty analysis."
+excerpt: "What questions come in TCS NQT? Section-wise breakdown of aptitude, logical reasoning, verbal ability, and programming questions from recent exams."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-23
 ---
-
 The most effective way to prepare for the TCS NQT is not to study broadly but to study specifically - knowing precisely what types of questions appear, at what difficulty level, in what time frame, and with what scoring implications. This guide provides that specific knowledge across every section of the NQT, with sample questions, worked solutions, and the preparation patterns that produce high scores.
 
 ![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-15.webp)
