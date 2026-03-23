@@ -4,7 +4,7 @@ title: "Farewell Mr.President, here’s my shoe"
 date: 2008-12-15
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Yesterday’s incident was really one to be remembered. Bush came to Iraq to meet the Prime Minister. Later, while holding a press conference, where he..."
+excerpt: "The Bush shoe-throwing incident in Iraq: what happened at the press conference, the journalist's protest, and why the moment went viral worldwide."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"

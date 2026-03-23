@@ -4,7 +4,7 @@ title: "Google fills my world"
 date: 2008-12-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
-excerpt: "Its been quite sometime now that Google has kept impressing me with their innovative stuff. The latest addition being the Chrome. Microsoft takes a beat..."
+excerpt: "From Chrome to Maps to Gmail: why Google's relentless innovation felt like watching the future arrive one product at a time in the late 2000s."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"

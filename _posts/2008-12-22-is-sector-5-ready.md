@@ -4,7 +4,7 @@ title: "Is Sector 5 ready?"
 date: 2008-12-22
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Is Kolkata's Sector 5 ready to be an IT hub? Poor roads, traffic chaos, and infrastructure gaps that the tech corridor needs to fix urgently."
+excerpt: "It has been about three and a half years that I have been going to my college in Sector 5 via Chingrighata. Sector 5, the new tech town of Kolkata, the..."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 3
 author: "Insight Crunch Team"
