@@ -1,6 +1,7 @@
 ---
 layout: post
-title: 'The Definitive Guide to Cracking UPSC Civil Services: A Strategic Blueprint from Foundation to Final Interview'
+title: 'The Definitive Guide to Cracking UPSC Civil Services'
+page_title: 'The Definitive Guide to Cracking UPSC Civil Services: A Strategic Blueprint from Foundation to Final Interview'
 date: 2026-01-16
 categories: ['Analytics']
 tags: ['UPSC', 'IAS', 'Civil Services', 'Preparation']
