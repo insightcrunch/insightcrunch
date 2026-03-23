@@ -4,11 +4,11 @@ title: "Tableau Certified Data Analyst Prep"
 date: 2022-11-12
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau is one of the most popular data visualization tools in the market today. Thousands of aspiring professionals who want to be a part of the data analytics field are doing their best to learn ..."
+excerpt: "Tableau Certified Data Analyst exam prep: topics covered, question format, recommended study resources, and a preparation strategy that actually works."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 14
 author: "Insight Crunch Team"
-last_updated: 2026-03-15
+last_updated: 2026-03-23
 ---
 ## Background
 
