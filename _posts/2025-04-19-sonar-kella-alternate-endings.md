@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "সোনার কেল্লার অজানা সমাপ্তি: বিভিন্ন দৃষ্টিকোণ থেকে একটি কাল্পনিক অনুসন্ধান"
+title: "সোনার কেল্লার অজানা সমাপ্তি: বিভিন্ন দৃষ্টিকোণ থেকে কাল্পনিক অনুসন্ধান"
 date: 2025-04-19
 categories: ["Leisure"]
 tags: ["Thoughts", "Bengali Literature", "Satyajit Ray", "Feluda", "Sonar Kella", "Alternate Endings", "Bengali Fiction", "Classic Stories"]
