@@ -6,18 +6,18 @@ date: 2021-01-02
 categories: ["Industry"]
 tags: ['SAT 3 Month Study Plan', 'SAT 3 Month Prep', 'SAT Intensive Study Plan', 'SAT 12 Week Plan', 'SAT Quick Preparation', 'SAT Focused Prep', 'SAT Condensed Preparation', 'SAT 90 Day Plan']
 excerpt: "The complete 3-month SAT preparation plan with intensive week-by-week schedule, topic prioritization, and strategies for maximizing improvement in limited time."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-25
 ---
-
 # SAT 3-Month Study Plan: Focused Preparation Timeline
 
 Three months is enough time to produce a significant SAT score improvement, but only if every study hour is used strategically. Unlike a 6-month plan, where you have the luxury of gradual skill building and generous rest periods, a 3-month plan requires higher daily intensity, faster topic progression, and more disciplined time allocation. There is less room for wasted effort, which means the diagnostic-driven approach is even more important: every study session must target your specific, highest-impact weaknesses.
 
 The good news: most students who follow a structured 3-month plan improve by 150 to 300 points from their diagnostic, depending on their starting level and consistency. This is slightly less than the 200 to 400 point range of a 6-month plan, but the difference is smaller than most people expect. The reason is that the majority of SAT improvement comes from mastering a relatively small number of high-frequency skills (grammar rules, linear equations, reading strategies) that can be learned within 4 to 6 weeks. The additional time in a 6-month plan mostly benefits the gradual skills like reading comprehension and the refinement of hard-question strategies, which are valuable but not essential for a strong improvement.
 
-![SAT 3-Month Study Plan](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT 3-Month Study Plan](/assets/images/blog/blog-09.webp)
 
 This plan is organized into three phases. Phase 1 (Weeks 1 to 2) rapidly diagnoses your weaknesses and establishes your study priorities. Phase 2 (Weeks 3 to 8) intensively builds content knowledge and test-taking strategies. Phase 3 (Weeks 9 to 12) refines your execution through practice tests and peaks your performance for test day. The daily time commitment is 1.5 to 2 hours minimum on weekdays, with longer sessions (2.5 to 3 hours) on weekends. This is more intensive than a 6-month plan but sustainable for 12 weeks.
 

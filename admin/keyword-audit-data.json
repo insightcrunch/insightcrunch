@@ -1,9 +1,57 @@
 {
-  "generated": "2026-03-25T04:24:31Z",
-  "total_posts": 783,
-  "flagged_posts": 6,
-  "clean_posts": 777,
+  "generated": "2026-03-25T05:49:38Z",
+  "total_posts": 791,
+  "flagged_posts": 8,
+  "clean_posts": 783,
   "posts": [
+    {
+      "filename": "2025-06-03-gaokao-past-papers-practice-strategy.md",
+      "slug": "gaokao-past-papers-practice-strategy",
+      "url": "/2025/06/03/gaokao-past-papers-practice-strategy/",
+      "title": "高考历年真题练习完全策略指南 - 哪里找真题、练多少年、计时与自由练习、错题分析与规律预测",
+      "page_title": "高考历年真题练习完全策略指南 - 权威真题来源、覆盖年份选择、计时与非计时练习的正确用法、深度错题分析方法、各科目真题策略与收益递减规律",
+      "has_page_title": true,
+      "date": "2025-06-03",
+      "word_count": 855,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 25
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-06-11-gaokao-for-parents-guide.md",
+      "slug": "gaokao-for-parents-guide",
+      "url": "/2025/06/11/gaokao-for-parents-guide/",
+      "title": "高考家长完全指南 - 如何支持孩子而不增加压力、管理自身焦虑与应对成绩公布",
+      "page_title": "高考家长完全指南 - 如何在不施加额外压力的情况下支持孩子备考、管理家长自身焦虑、提供实质后勤支持，以及理性应对高考成绩公布那一天",
+      "has_page_title": true,
+      "date": "2025-06-11",
+      "word_count": 967,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 32
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
     {
       "filename": "2025-06-19-gaokao-top-scorers-stories.md",
       "slug": "gaokao-top-scorers-stories",

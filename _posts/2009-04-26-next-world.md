@@ -4,11 +4,11 @@ title: "Next World"
 date: 2009-04-26
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "What will the world look like in a few decades? Reflections on emerging technologies, the end of the communication era, and what comes next."
+excerpt: "Have been recently viewing a program. What it going to be like with the advent of technology in the next few decades. Days of communication technology are..."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Have been recently viewing a program. What it going to be like with the advent of technology in the next few decades. Days of communication technology are over with nearly every sphere of our life being saturated with communicating devices of all sorts. Its going to be the visual feeling of the physical presence of our friends and families who are far off that's going to come to our homesnext. Soundsaconfusing?
 

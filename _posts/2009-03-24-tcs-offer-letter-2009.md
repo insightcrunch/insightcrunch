@@ -4,11 +4,11 @@ title: "TCS Offer Letter 2009"
 date: 2009-03-24
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Finally got my TCS offer letter. The two-month wait, the anxiety of hearing other colleges get theirs first, and the relief when it arrived."
+excerpt: "Read more: [TCS Joining Date 2009 Batch »](https://insightcrunch.com/2009/05/30/tcs-joining-date-2009-batch/)"
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Read more: [TCS Joining Date 2009 Batch »](https://insightcrunch.com/2009/05/30/tcs-joining-date-2009-batch/)
 
