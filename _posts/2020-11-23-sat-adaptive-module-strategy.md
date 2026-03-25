@@ -6,18 +6,18 @@ date: 2020-11-23
 categories: ["Industry"]
 tags: ['SAT Adaptive Testing', 'SAT Module Strategy', 'SAT Module 1 Module 2', 'SAT Adaptive Score', 'SAT Routing', 'SAT Adaptive Mechanism', 'SAT Scoring Ceiling', 'SAT Adaptive Format']
 excerpt: "Master the SAT adaptive testing system by understanding how Module 1 routes to Module 2, how the scoring ceiling works, and the strategic implications for test-taking."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-25
 ---
-
 # SAT Adaptive Testing Strategy: How Modules Work and How to Win
 
 The adaptive module system is the most strategically important and least understood feature of the Digital SAT. Most students know that Module 2 adjusts to their Module 1 performance, but they do not understand the precise implications of this adjustment for their scoring ceiling, their pacing decisions, or their test-day approach. This gap in understanding costs points. Students who rush through Module 1 to "save time for later" are unknowingly capping their maximum achievable score. Students who panic when Module 2 feels harder are misinterpreting a positive signal as a negative one. Students who do not verify their Module 1 answers are gambling their scoring ceiling on the assumption that they did not make careless errors.
 
 This guide explains the adaptive system in precise detail, translates that understanding into concrete test-taking strategies, and provides practice approaches that simulate the adaptive experience. By the end, you will understand not just how the system works but how to make it work for you.
 
-![SAT Adaptive Module Strategy](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Adaptive Module Strategy](/assets/images/blog/blog-02.webp)
 
 The central insight of this guide can be stated simply: Module 1 is the most consequential part of the entire SAT. Your Module 1 performance determines whether your scoring ceiling is 800 (the maximum) or approximately 600 to 650. Every other strategic decision, from pacing to flagging to verification, flows from this fact. Treating Module 1 with maximum care, even at the cost of slightly less time for Module 2, is the single most impactful strategic choice you can make on the Digital SAT.
 

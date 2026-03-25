@@ -5,11 +5,11 @@ page_title: "Why Employees Leave TCS - Complete Analysis of Attrition Rates, Rea
 date: 2009-07-22
 categories: ["Industry"]
 tags: ["TCS", "Attrition", "Employee Retention", "Career Decisions"]
-excerpt: "TCS headcount shrank even while adding 2,828 new employees. What caused 5,000 people to leave and what it signals about the IT job market."
+excerpt: "The headcount of India's largest software company shrank despite a gross addition of staff. According to Hindustan Times, in the latest quarter TCS added..."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Every quarter, TCS discloses its attrition rate alongside its revenue and profit numbers. Investors watch it. Analysts comment on it. HR teams at competing companies study it. What gets less attention is the human story behind the number - the tens of thousands of individual decisions made each year by TCS employees who weighed their options and chose to leave. Understanding why TCS employees leave, what conditions make leaving more or less likely, what TCS does to retain people, and how an individual employee should think about their own stay-or-leave decision is the subject of this guide.
 

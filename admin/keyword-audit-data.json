@@ -1,9 +1,57 @@
 {
-  "generated": "2026-03-25T15:03:38Z",
-  "total_posts": 799,
-  "flagged_posts": 11,
-  "clean_posts": 788,
+  "generated": "2026-03-25T16:07:41Z",
+  "total_posts": 809,
+  "flagged_posts": 13,
+  "clean_posts": 796,
   "posts": [
+    {
+      "filename": "2025-04-24-gaokao-solid-geometry-guide.md",
+      "slug": "gaokao-solid-geometry-guide",
+      "url": "/2025/04/24/gaokao-solid-geometry-guide/",
+      "title": "高考立体几何完全攻略 - 空间推理、二面角、向量法与纯几何法的系统突破",
+      "page_title": "高考立体几何完全攻略 - 空间推理能力培养、体积面积证明、二面角求法、空间向量法与纯几何法的对比分析与分步证明技巧",
+      "has_page_title": true,
+      "date": "2025-04-24",
+      "word_count": 1540,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 18
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-05-02-gaokao-analytic-geometry-guide.md",
+      "slug": "gaokao-analytic-geometry-guide",
+      "url": "/2025/05/02/gaokao-analytic-geometry-guide/",
+      "title": "高考解析几何完全攻略 - 圆锥曲线最全解题策略与压轴大题突破",
+      "page_title": "高考解析几何完全攻略 - 椭圆双曲线抛物线深度解析、参数方程方法、坐标几何技巧与最难大题的系统突破策略",
+      "has_page_title": true,
+      "date": "2025-05-02",
+      "word_count": 1652,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 22
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
     {
       "filename": "2025-05-10-gaokao-special-admission-pathways.md",
       "slug": "gaokao-special-admission-pathways",
