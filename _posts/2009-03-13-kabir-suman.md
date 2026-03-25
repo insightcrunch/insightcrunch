@@ -4,11 +4,11 @@ title: "Kabir Suman"
 date: 2009-03-13
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Why Kabir Suman remains a personal favorite since childhood. His bold lyrics, unique melody, and the way his songs captured Bengali emotions."
+excerpt: "One of the brightest singers of the new generation, Suman Kaku had been my personal favorite since I was a kid, back in the early nineties. I simply loved..."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 One of the brightest singers of the new generation, Suman Kaku had been my personal favorite since I was a kid, back in the early nineties. I simply loved the tone and melody of his songs. His bold stage performances single-handedly with the guitar, synthesizer and mouth-organ still fills me with awe, the same way it used to do when I was barely 10 years old. Some of my favorite songs by him are “Hal Cherona Bondhu” (means “Never Give Up”) and “Kotota Poth Perole”, his very own translation of the historic “Blowin’ in the Wind” by Bob Dylan. I have added his stage-performances of those songs above :) To be very frank, apart from Barno Porichoy, I got my very first Bengali lessons from his books where he wrote his songs, by constantly hearing him on my tape recorder and matching his lyrics word by word. I also got my books signed by him twice at the Calcutta Book Fair, priceless to me now :) Pretty addicted to him you say!! Oh yeah, kind of :D. And I can’t even give up this craze even now. Coz in my mobile now you would find all his songs, including his Tagore songs which I really love.
 

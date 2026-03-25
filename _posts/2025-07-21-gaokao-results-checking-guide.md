@@ -6,14 +6,14 @@ date: 2025-07-21
 categories: ["Industry"]
 tags: ["高考", "高考查分", "高考成绩", "高考复核", "成绩查询", "Gaokao", "Results", "Score Check", "Exam Results"]
 excerpt: "高考成绩查询完全指南：各省查分时间节点、官方查询平台、成绩单详细解读、如何申请成绩复核，以及成绩公布当天如何管理情绪、理性应对结果。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-25
 ---
-
 高考结束，等待成绩的日子，是整个高考旅程中最特殊的一段时光。考试已经结束，结果尚未揭晓，这种悬在空中的不确定感，对许多考生和家长来说，甚至比备考和考试本身更难熬。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)
 *高考成绩查询完全指南：从各省查分时间到官方查询平台，从成绩单的逐项解读到成绩复核的申请流程，帮助每一位考生理性应对高考成绩*
 
 本文将系统解答高考成绩查询相关的所有核心问题：高考成绩通常什么时候出？如何在官方渠道查询成绩？如何解读成绩报告中的每一项数据？如果对成绩有疑问，如何申请成绩复核？以及成绩公布这一天，如何以最健康的心态面对结果。
