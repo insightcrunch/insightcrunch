@@ -4,11 +4,11 @@ title: "Google fills my world"
 date: 2008-12-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
-excerpt: "A love letter to Google's product era. Chrome, Gmail, Maps, and why their innovation engine outpaced Microsoft at every single turn."
+excerpt: "Its been quite sometime now that Google has kept impressing me with their innovative stuff. The latest addition being the Chrome. Microsoft takes a beat..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Its been quite sometime now that Google has kept impressing me with their innovative stuff. The latest addition being the Chrome. Microsoft takes a beat by Google for the fact that their innovativeness is simply not at par with Google’s. Their Live Services, specially the Windows Live Writer (which now helps me blog a lot more easily than before) has been really cool off late though. But that's it. Google, amazingly, seems to know the exact requirement, starting from an average user to a techie. The Google Desktop Search, Picasa, Blogger, YouTube, Orkut and of course, Gmail and Gtalk…not to forget the Google Search engine….the list of the incredibles that has overtaken me. The extreme ease of use, the attractive yet simple interface clearly gives them an edge over the rest.
 

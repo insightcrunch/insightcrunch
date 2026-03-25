@@ -4,11 +4,11 @@ title: "Rise, Calcuttans"
 date: 2009-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Kolkata's stalled progress: broken promises, political inertia, and why the city's residents deserve better infrastructure and governance now."
+excerpt: "Why is Kolkata falling behind while other Indian cities race ahead? A frustrated resident's honest look at stalled urban development."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Its sad to see my home town deteriorating like this in terms of its progress. It has only heard the plans of its improvement over the last couple of years but alas, it couldn't be given a shape which would have invariably made all of us proud. The city could have become one of the most prestigious jewels in the eastern part of India, one of the finest demonstrations of rise from its present state to something we have dreamt of. True we’re on our way with the IT sector in Salt Lake struggling hard to cope up to demand of the time. But how long?
 

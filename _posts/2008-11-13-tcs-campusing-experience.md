@@ -4,11 +4,11 @@ title: "TCS Campusing Experience"
 date: 2008-11-13
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "How I cracked TCS campus placement. Full walkthrough of aptitude, technical, and HR rounds with real questions and preparation advice."
+excerpt: "Its been quite a while since I cracked TCS this year on the 19th of Feb. But I have been longing to share the wonderful experience that I went through..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 ## Background
 
