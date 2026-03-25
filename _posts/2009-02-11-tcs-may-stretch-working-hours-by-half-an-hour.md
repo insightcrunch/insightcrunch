@@ -5,11 +5,11 @@ page_title: "TCS Work Hours Policy - Complete Guide to Shift Timings, Overtime, 
 date: 2009-02-11
 categories: ["Industry"]
 tags: ["TCS", "Work-Life Balance", "IT Industry", "Employee Policy"]
-excerpt: "Will TCS employees work longer hours? The 2009 policy shift to extend work time by half an hour as a direct response to the global recession."
+excerpt: "IT professionals working with Tata Consultancy Services (TCS) will now spend more time at their workplaces, possibly as a fallout of the global economic..."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 When you join one of the largest IT companies in the world, one of the first practical questions you ask is not about the technology stack or the project pipeline - it is about the hours. How long will your working day actually be? What does TCS work hours policy look like on paper versus in practice? Will you have a life outside the office? These questions matter to freshers walking into their first job, to experienced professionals evaluating a switch, and to returning employees re-entering after a gap. The answers are rarely as simple as any official document suggests, and that gap between policy and reality is exactly what this guide addresses in full.
 

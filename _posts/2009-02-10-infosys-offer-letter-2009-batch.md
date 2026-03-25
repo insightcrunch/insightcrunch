@@ -4,11 +4,11 @@ title: "Infosys Offer Letter 2009 batch"
 date: 2009-02-10
 categories: ["Industry"]
 tags: ["Surfing"]
-excerpt: "2009 batch Infosys offer letters finally delivered. A snapshot of the relief, joy, and remaining uncertainty for campus-placed engineering freshers."
+excerpt: "My friends who were placed in Infosys got their offer letters today. It might be the happiest moments for some of them like Nirmalya Roy Chowdhury. Many..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 My friends who were placed in Infosys got their offer letters today. It might be the happiest moments for some of them like Nirmalya Roy Chowdhury. Many of my friends like Somdas Bandyopadhyay haven’t got their offer letter and are suffering from extreme depression and anxiety as whether they might get the job at all.
 
