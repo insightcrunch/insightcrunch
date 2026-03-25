@@ -6,14 +6,14 @@ date: 2025-05-10
 categories: ["Industry"]
 tags: ["高考", "高考特殊招生", "强基计划", "艺体特招", "军校招生", "少数民族加分", "Gaokao", "Special Admission", "Independent Enrollment", "Alternative Paths"]
 excerpt: "高考特殊招生路径完全指南：强基计划的申请条件与录取机制、艺术体育特招的实际操作、军校招生的特殊流程、少数民族加分政策的现状，以及所有在标准高考分数线之外可以利用的替代录取渠道。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
 ---
+
 在中国高考体系中，绝大多数考生通过"参加高考，以分数填报志愿"的标准路径进入大学。然而，在这条主路径之外，还存在一系列特殊招生渠道，允许部分具有特定资质的学生，通过高考分数以外的维度进入顶尖高校。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
 *高考特殊招生路径完全指南：从强基计划到艺体特招，从军校招生到少数民族加分，所有标准高考路径之外的替代录取渠道全解析*
 
 这些特殊路径，对具有相关特质的学生来说，可能是进入顶尖高校的关键通道；对于大多数普通考生来说，了解这些路径的存在，有助于全面认识高考录取生态，并在志愿填报时做出更明智的决策。
