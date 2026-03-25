@@ -4,11 +4,11 @@ title: "Google’s Chrome Experiments to showcase JavaScript applications"
 date: 2009-06-13
 categories: ["Leisure"]
 tags: ["Google", "Surfing", "Thoughts"]
-excerpt: "Chrome Experiments by Google: where JavaScript meets art. The coolest interactive demos that push browser capabilities to their creative limits."
+excerpt: "Yesterday I was using Google when suddenly Crash! The whole Google page fell apart! Just check out [here](http://mrdoob.com/projects/chromeexperiments/goog..."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Yesterday I was using Google when suddenly Crash! The whole Google page fell apart! Just check out [here](http://mrdoob.com/projects/chromeexperiments/google_gravity/) what it looked like. Just joking guys! This is Google Chrome’s latest approach to JavaScript applications, just the beginning as they claim in their blog, to showcase the power of JavaScript, which structured V8, Chrome’s superfast engine. JavaScripters from around the world started making such creative stuffs, just to showcase the awesome power this technology has. Want to see your Google page in the form of a [Sphere](http://mrdoob.com/projects/chromeexperiments/google_sphere/)? But it’s not all kiddish fun stuffs that we are talking about here.
 

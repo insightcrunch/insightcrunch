@@ -4,11 +4,11 @@ title: "My Life without Google"
 date: 2009-06-03
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Could you survive without Google? A self-audit of how deeply Google products are woven into daily life, from search to email to documents."
+excerpt: "It is quite amazing how I have indexed my life so much into a particular company. Using all the products of Google, I am an avid Googler like many of us."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 It is quite amazing how I have indexed my life so much into a particular company. Using all the products of Google, I am an avid Googler like many of us. Many of us would blindly agree that they fully trust Google about their information privacy and security, and correctly so, as Google is one of the safest and simplest way to accomplish all our tasks. Starting from their search engine, blogging platform, product search, calendar, the list goes on. And it’s very difficult to find substitutes that match the efficiency and simplicity of the systems!
 

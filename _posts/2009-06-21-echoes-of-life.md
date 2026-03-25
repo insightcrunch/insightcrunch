@@ -4,11 +4,11 @@ title: "ECHOES of LIFE"
 date: 2009-06-21
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Why Pink Floyd's music feels like life itself. A reflection on psychedelic rock, experimentation, and songs that mirror the human experience."
+excerpt: "Pink Floyd often called the greatest band of Progressive Psychedelic Rock, perhaps the greatest rock band ever is always known for its bizarre..."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Pink Floyd often called the greatest band of Progressive Psychedelic Rock, perhaps the greatest rock band ever is always known for its bizarre experimentation with music. It’s obsession with harangued lyrics, obscure musical ballets and often far stretched guitar solos often contribute to the mystique of their composition.
 
