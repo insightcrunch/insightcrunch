@@ -4,11 +4,11 @@ title: "Does COMPUTER SCIENCE research really help the industry in India ?"
 date: 2009-07-04
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "The disconnect between computer science research and the Indian IT industry. Why academic work rarely translates into practical industry impact."
+excerpt: "*This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share..."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 6
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 *This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer science research.*
 

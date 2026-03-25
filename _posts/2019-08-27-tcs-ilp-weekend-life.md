@@ -5,15 +5,14 @@ date: 2019-08-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Weekend", "Activities", "Travel", "Fresher"]
 excerpt: "The definitive guide to weekend life at every TCS ILP city. Covers the signature weekend trip at each location, budget-friendly activities near every accommodation, the best day trips and overnight excursions from all 13 TCS cities, group trip organization tips, weekend budgeting, the balance between exploration and ILP study, and how to make the most of the 24 to 26 weekends that define the non-training half of the ILP experience."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-25
 ---
-
 The weekends are the half of TCS ILP that nobody talks about during recruitment but that every alumnus remembers most vividly. The training is important. The assessments matter. The technical skills shape your career. But the weekends, the Shillong trip from Guwahati, the Alleppey houseboat from Kochi, the Pench tiger safari from Nagpur, the Sarafa Bazaar midnight crawl from Indore, these are the experiences that associates describe ten years later when they tell their ILP stories. The training certificate fades into a line on the resume. The weekend memories become permanent possessions.
 
-![TCS ILP Weekend Life](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![TCS ILP Weekend Life](/assets/images/blog/blog-16.webp)
 TCS ILP Weekend Life - What to Do Near Your Accommodation
 
 You have approximately 24 to 26 weekends during a standard three-month ILP. Each weekend is either an exploration or a recovery, an adventure or a rest. The associates who plan their weekends deliberately, who book the signature trip in the second week rather than the twelfth, who explore the city's food culture on Saturday evenings, and who balance adventure with the study time that assessments demand, leave the ILP with a portfolio of experiences that rivals what most people accumulate over years of vacation planning.

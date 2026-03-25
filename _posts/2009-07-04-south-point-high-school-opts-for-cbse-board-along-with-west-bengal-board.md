@@ -4,11 +4,11 @@ title: "South Point High School opts for CBSE board along with West Bengal Board
 date: 2009-07-04
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "South Point Kolkata goes CBSE. One of Bengal's most prestigious schools now offers both boards, giving students a new option for their future."
+excerpt: "South Point High School, Kolkata has got approval from the School Education Authorities to keep CBSE Board besides it’s existing famous West Bengal Board..."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 South Point High School, Kolkata has got approval from the School Education Authorities to keep CBSE Board besides it’s existing famous West Bengal Board which churns out some of the best students in the state. Now it seems only a matter of time before the CBSE authorities approve this affiliation request. This system is expected to be applied 2010 onwards. This news has been announced by the Principal at the Annual Prize Distribution Ceremony at Science City today.
 

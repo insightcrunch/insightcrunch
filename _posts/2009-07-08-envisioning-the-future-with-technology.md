@@ -4,11 +4,11 @@ title: "Envisioning the future with technology"
 date: 2009-07-08
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "The future is arriving faster than we think. Reflections on where touch tech, AI, and biotechnology are taking us in the coming decade."
+excerpt: "Ever dreamt of what the future would be like with further advancements. I find it pretty tough to imagine what will be the limits of our achievements."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-25
 ---
 Ever dreamt of what the future would be like with further advancements. I find it pretty tough to imagine what will be the limits of our achievements. With the touch generation already getting old and projects like Natal are coming into existence, it’s time for something new to come out.
 

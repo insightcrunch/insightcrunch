@@ -1,9 +1,81 @@
 {
-  "generated": "2026-03-25T08:07:07Z",
-  "total_posts": 791,
-  "flagged_posts": 8,
-  "clean_posts": 783,
+  "generated": "2026-03-25T15:03:38Z",
+  "total_posts": 799,
+  "flagged_posts": 11,
+  "clean_posts": 788,
   "posts": [
+    {
+      "filename": "2025-05-10-gaokao-special-admission-pathways.md",
+      "slug": "gaokao-special-admission-pathways",
+      "url": "/2025/05/10/gaokao-special-admission-pathways/",
+      "title": "高考特殊招生路径完全指南 - 强基计划、艺体特招、军校、少数民族加分与自主招生的深度解析",
+      "page_title": "高考特殊招生路径完全指南 - 强基计划、艺术体育特招、军校招生、少数民族加分政策、华侨学生路径与所有高考标准分数线以外的替代录取渠道全解析",
+      "has_page_title": true,
+      "date": "2025-05-10",
+      "word_count": 895,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 22
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-05-18-gaokao-majors-career-paths.md",
+      "slug": "gaokao-majors-career-paths",
+      "url": "/2025/05/18/gaokao-majors-career-paths/",
+      "title": "高考成绩到专业与职业路径完全指南 - 选科决定专业，专业决定未来",
+      "page_title": "高考成绩到专业与职业路径完全指南 - 高考分数与选科如何决定大学专业、最热门专业的录取门槛、不同院校层次的薪资差距与职业发展路径",
+      "has_page_title": true,
+      "date": "2025-05-18",
+      "word_count": 802,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 27
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-05-26-gaokao-hardest-exam-world.md",
+      "slug": "gaokao-hardest-exam-world",
+      "url": "/2025/05/26/gaokao-hardest-exam-world/",
+      "title": "高考是世界上最难的考试吗？与IIT-JEE、UPSC、司法考试和全球顶尖考试的深度对比",
+      "page_title": "高考是世界上最难的考试吗？与印度IIT-JEE、UPSC、美国律师资格考试、注册会计师、精算师考试等全球最难考试的系统性难度对比分析",
+      "has_page_title": true,
+      "date": "2025-05-26",
+      "word_count": 1042,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 33
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
     {
       "filename": "2025-06-03-gaokao-past-papers-practice-strategy.md",
       "slug": "gaokao-past-papers-practice-strategy",
