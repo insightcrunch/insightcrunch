@@ -1,9 +1,101 @@
 {
-  "generated": "2026-03-26T05:01:38Z",
-  "total_posts": 846,
-  "flagged_posts": 24,
-  "clean_posts": 822,
+  "generated": "2026-03-26T18:13:26Z",
+  "total_posts": 854,
+  "flagged_posts": 27,
+  "clean_posts": 827,
   "posts": [
+    {
+      "filename": "2025-01-02-gaokao-beijing-guide.md",
+      "slug": "gaokao-beijing-guide",
+      "url": "/2025/01/02/gaokao-beijing-guide/",
+      "title": "北京高考完全指南：户籍优势、自主命题与清北录取的全面解析",
+      "page_title": "北京高考完全指南 - 北京高考户籍优势深度分析、北京自主命题试卷特点、清华北大录取竞争解析、历年分数线趋势与北京学子的志愿填报实战",
+      "has_page_title": true,
+      "date": "2025-01-02",
+      "word_count": 756,
+      "issues": [
+        {
+          "keyword": "beijing",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"beijing\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "beijing",
+          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
+          "severity": "critical",
+          "detail": "\"beijing\" is in the URL slug but never appears in the body",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 30
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 2
+    },
+    {
+      "filename": "2025-01-10-gaokao-hubei-province-guide.md",
+      "slug": "gaokao-hubei-province-guide",
+      "url": "/2025/01/10/gaokao-hubei-province-guide/",
+      "title": "湖北高考完全指南：黄冈模式、武汉高校集群与3+1+2新高考策略",
+      "page_title": "湖北高考完全指南 - 黄冈教育传统深度解析、武汉大学与华中科技大学竞争分析、3+1+2新高考选科策略、历年分数线趋势与志愿填报实战",
+      "has_page_title": true,
+      "date": "2025-01-10",
+      "word_count": 838,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 32
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-01-18-gaokao-sichuan-province-guide.md",
+      "slug": "gaokao-sichuan-province-guide",
+      "url": "/2025/01/18/gaokao-sichuan-province-guide/",
+      "title": "四川高考完全指南：西部教育重镇的竞争格局、高校资源与备考策略",
+      "page_title": "四川高考完全指南 - 四川高考规模与竞争分析、历年分数线趋势、四川大学与电子科技大学深度介绍、新高考改革进程、志愿填报实战策略",
+      "has_page_title": true,
+      "date": "2025-01-18",
+      "word_count": 797,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 28
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
     {
       "filename": "2025-01-26-gaokao-guangdong-province-guide.md",
       "slug": "gaokao-guangdong-province-guide",

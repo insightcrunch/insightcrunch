@@ -6,14 +6,14 @@ date: 2025-01-18
 categories: ["Industry"]
 tags: ["高考", "四川高考", "四川分数线", "四川高考难度", "Sichuan Gaokao", "Provincial Guide"]
 excerpt: "四川高考完全指南：西部人口大省的高考竞争格局、历年一本线趋势分析、川大与电子科大等顶尖高校深度介绍、新高考改革的四川进程，以及针对四川学子的志愿填报实战策略。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-26
 ---
-
 四川，中国西部最重要的教育重镇，以超过8000万的常住人口和每年约80万的高考参考人数，跻身全国高考参考大省之列。成都的高速崛起、川大和电子科大的学术声誉，以及深厚的"天府之国"文化传统，共同塑造了四川高考独特的竞争格局和教育生态。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-02.webp)
 *四川高考完全指南：西部教育重镇的竞争格局、高校资源分析与志愿填报实战策略*
 
 四川高考的特殊性在于：它是西部最重要的省级高考市场，拥有全国西部地区顶尖的高等教育资源（四川大学、电子科技大学两所985），同时也是近年来新高考改革推进过程中的重要省份之一。

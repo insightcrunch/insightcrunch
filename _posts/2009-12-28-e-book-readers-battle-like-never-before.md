@@ -4,11 +4,11 @@ title: "E-Book Readers: Battle like never before"
 date: 2009-12-28
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "E-book reader wars: Amazon Kindle vs Sony Reader vs Nook. How the digital reading device market is exploding and which platform leads in 2009."
+excerpt: "Kindle vs Nook vs Sony Reader: the e-book war heats up. Feature comparison, pricing, content libraries, and which device suits which reader."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 Amazon’s Kindle is the most talked about stuff that is selling like anything right now. Though e-books are not likely to replace books in any time soon, but the craze of portability and getting to read lots of stuff in a single device has shot up the fascination for this gadget. There are various criteria to look out for before buying one like the formats supported, storage capacity, card types supported and their capacities and of course the screen sizes.
 

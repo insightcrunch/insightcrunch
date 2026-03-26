@@ -6,14 +6,14 @@ date: 2025-01-02
 categories: ["Industry"]
 tags: ["高考", "北京高考", "北京分数线", "北京高考优势", "Beijing Gaokao", "Provincial Guide"]
 excerpt: "北京高考完全指南：深度解析北京考生的户籍录取优势与省际公平性争议、北京自主命题试卷的独特命题风格、清华北大在北京的录取竞争分析，以及北京学子的志愿填报实战策略。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-26
 ---
-
 北京，中国的首都，也是中国高等教育资源最密集的城市。每年约6万至7万名北京考生，在全国最丰富的高等教育资源包围下，以相对于其他省份明显更低的竞争压力，参加一场在全国视野中极为特殊的高考。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
 *北京高考完全指南：户籍优势、自主命题试卷特点、清北录取分析与志愿填报策略*
 
 北京高考的特殊性是中国高考公平性争议的核心之一：以全国约0.5%的参考人数，坐拥全国约8所985高校（清华、北大、人民大学、北京师范大学、北京航空航天大学、北京理工大学、中国农业大学、北京化工大学等）；清华北大给北京的录取名额，通常超过给河南（参考人数为北京20倍以上）的名额。

@@ -4,11 +4,11 @@ title: "How much does Amazon pay an hour online?"
 date: 2010-02-13
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon hourly pay: warehouse, customer service, and online job compensation rates. What Amazon pays per hour across different roles and locations."
+excerpt: "How much does Amazon pay hourly workers? Pay rates for warehouse, customer service, and remote positions across different Amazon job types."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 11
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 ## Background
 
