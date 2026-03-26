@@ -1,9 +1,81 @@
 {
-  "generated": "2026-03-26T03:51:10Z",
-  "total_posts": 837,
-  "flagged_posts": 21,
-  "clean_posts": 816,
+  "generated": "2026-03-26T05:01:38Z",
+  "total_posts": 846,
+  "flagged_posts": 24,
+  "clean_posts": 822,
   "posts": [
+    {
+      "filename": "2025-01-26-gaokao-guangdong-province-guide.md",
+      "slug": "gaokao-guangdong-province-guide",
+      "url": "/2025/01/26/gaokao-guangdong-province-guide/",
+      "title": "广东高考完全指南：中国经济第一大省的高考竞争、3+1+2改革与升学策略",
+      "page_title": "广东高考完全指南 - 广东新高考3+1+2模式深度解析、历年分数线趋势、参考人数与竞争格局、中山大学与华南理工等顶尖高校分析、志愿填报策略",
+      "has_page_title": true,
+      "date": "2025-01-26",
+      "word_count": 929,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 36
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-02-03-gaokao-shandong-province-guide.md",
+      "slug": "gaokao-shandong-province-guide",
+      "url": "/2025/02/03/gaokao-shandong-province-guide/",
+      "title": "山东高考完全指南：学术强省的3+3改革、赋分制与备考策略",
+      "page_title": "山东高考完全指南 - 山东新高考3+3改革深度解析、分段制分数线、竞争格局分析、志愿填报策略与山东学子的升学路径",
+      "has_page_title": true,
+      "date": "2025-02-03",
+      "word_count": 946,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 30
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2025-02-11-gaokao-henan-province-guide.md",
+      "slug": "gaokao-henan-province-guide",
+      "url": "/2025/02/11/gaokao-henan-province-guide/",
+      "title": "河南高考完全指南：中国竞争最激烈省份的生存策略",
+      "page_title": "河南高考完全指南 - 河南高考人数、分数线深度分析、竞争格局、志愿填报策略与河南学子的上升路径",
+      "has_page_title": true,
+      "date": "2025-02-11",
+      "word_count": 840,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 31
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
     {
       "filename": "2025-02-19-gaokao-complete-a-to-z-masterguide.md",
       "slug": "gaokao-complete-a-to-z-masterguide",

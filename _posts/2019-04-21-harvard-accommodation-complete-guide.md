@@ -6,15 +6,14 @@ date: 2019-04-21
 categories: ["Industry"]
 tags: ["Harvard Accommodation", "Harvard Housing", "Harvard Dorms", "Harvard Houses", "Harvard Graduate Housing", "Harvard Student Life", "Living at Harvard"]
 excerpt: "Complete guide to Harvard University accommodation - undergraduate Houses and freshman dorms, graduate student housing, off-campus options, costs, the Housing Lottery, and everything you need to know about living at Harvard."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 52
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-03-26
 ---
-
 Harvard's accommodation system is one of the most distinctive in American higher education. Unlike most US universities where dormitory life is a freshman-year obligation quickly left behind as students move into apartments, fraternities, or off-campus housing, Harvard structures undergraduate residential life around a system of Houses that students belong to for their entire three remaining years after freshman year. The Harvard House system creates residential communities of 400-500 students that have their own dining halls, libraries, common spaces, tutors, and social identities - and that become, for most students, the primary community of their undergraduate Harvard experience.
 
-![Harvard Accommodation - The Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Harvard Accommodation - The Complete Guide](/assets/images/blog/blog-08.webp)
 
 This guide covers every dimension of Harvard's accommodation - the freshman dormitories in Harvard Yard, the upperclassman Houses, how the Housing Lottery works, what life in a House is actually like, the graduate student housing landscape, off-campus housing options, the costs of Harvard accommodation across different years and housing types, and what the experience of living at Harvard is genuinely like. It also covers the practical dimensions: what to bring, how to navigate the housing application processes, and how to make the most of the residential infrastructure that Harvard provides. For comparison with Oxford's accommodation system, the [Oxford Accommodation Complete Guide](https://insightcrunch.com/2019/08/11/oxford-accommodation-complete-guide/) provides the equivalent guide to the British institution.
 
