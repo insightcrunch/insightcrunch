@@ -4,11 +4,11 @@ title: "Mr. S. Ramadorai : The Genius"
 date: 2009-09-11
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "S. Ramadorai, outgoing TCS CEO: the man who grew India's largest IT company, his leadership philosophy, and the legacy he leaves behind."
+excerpt: "The genius behind TCS's rise. S. Ramadorai's leadership, his surprising personal habits, and how he built India's IT giant over two decades."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 He is a self-acknowledged lover of gadgets but surprisingly enough, the TCS CEO, S. Ramadorai, “fought against getting a mobile phone for a long time as I believed it was a terrible distraction!” But he finally succumbed about 10 years ago. Today his Blackberry is a valuable tool “as I can communicate on it with several colleagues at the same time.” 
 

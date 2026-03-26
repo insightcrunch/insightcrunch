@@ -4,11 +4,11 @@ title: "Yahoo Mail growing up with Gmail’s features and some more"
 date: 2009-09-14
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Yahoo Mail catches up to Gmail: new interface, better features, and the innovations that make Yahoo's email service competitive again."
+excerpt: "Yahoo Mail's big redesign: how it borrowed the best from Gmail, added its own touches, and made a genuine case for switching back."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 Recently Yahoo Mail had been a lot more innovative and their new interface is far better and appealing to users than the old classic interface. There have been lots of additions it seemed specially the Filters section has been a more developed which I require most. In addition, fetching mails from other accounts has been added, a very useful feature which Gmail has been providing. I used to hate Yahoo Mail even a year back, but now they are doing things pretty nicely.
 

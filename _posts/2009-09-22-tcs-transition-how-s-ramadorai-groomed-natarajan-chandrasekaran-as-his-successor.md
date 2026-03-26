@@ -5,11 +5,11 @@ page_title: "TCS Leadership Succession Planning - Lessons from CEO Transitions, 
 date: 2009-09-22
 categories: ["Industry"]
 tags: ["TCS", "Leadership", "Corporate Governance", "Succession Planning"]
-excerpt: "Inside the TCS CEO transition: how S. Ramadorai groomed N. Chandrasekaran over 18 months to take the reins of India's largest IT company."
+excerpt: "How TCS planned its CEO succession. The 18-month grooming process where Ramadorai prepared Chandrasekaran to lead a 100,000+ employee company."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 Few aspects of a company's character are more revealing than how it handles the transfer of its highest leadership. A succession that is rushed, contested, or driven by personality rather than governance discipline exposes fragility at the organisational core. A succession that is planned years in advance, executed with transparency, and results in a prepared leader who builds on rather than dismantles what preceded them reveals a company with genuine institutional depth. By this measure, TCS's record of leadership succession is among the most instructive in Indian corporate history - a case study in how deliberate governance, long-horizon thinking, and genuine mentorship compound across generations to produce an institution that outlasts any individual who leads it.
 

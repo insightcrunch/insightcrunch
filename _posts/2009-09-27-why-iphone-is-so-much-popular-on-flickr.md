@@ -4,11 +4,11 @@ title: "Why iPhone is so much popular on Flickr?"
 date: 2009-09-27
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Why iPhone dominates Flickr's most popular cameras list. How a phone camera outsells DSLRs in photo uploads and what it means for photography."
+excerpt: "A camera phone beating DSLRs on Flickr? Why the iPhone became the most popular camera on the platform and what it says about mobile photography."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 Flickr shows various statistics of usage of its site and one of them is the [“Most Popular Cameras in the Flickr Community"](http://www.flickr.com/cameras/). It’s absolutely incredible to see a camera phone standing out amongst some of the top class SLR cameras. Is it because this phone’s camera beats the rest? Absolutely not! The only thing is that the iPhone has an exceedingly large user base and a camera better than many camera phones, but certainly not comparable to SLRs which many misunderstand. Using the iPhone’s camera is as easy as it could be with just basic features. Apart from the large user base, the iPhone has awesome cool apps which make it amazingly easier for its users to share photos in Flickr.
 
