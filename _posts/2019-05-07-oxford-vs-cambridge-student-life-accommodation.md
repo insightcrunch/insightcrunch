@@ -6,15 +6,14 @@ date: 2019-05-07
 categories: ["Industry"]
 tags: ["Oxford vs Cambridge", "Oxford or Cambridge", "Oxbridge Comparison", "Oxford Cambridge Accommodation", "Oxford Cambridge Student Life", "Oxbridge Cost", "Choosing Between Oxford and Cambridge"]
 excerpt: "Complete comparison of Oxford and Cambridge across student life, accommodation, costs, courses, social culture, sport, city environment, and career outcomes. Everything you need to decide between the two."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 54
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-03-26
 ---
-
 Oxford and Cambridge are not the same university. They are routinely treated as interchangeable by people who have attended neither, grouped together under the shorthand Oxbridge as though the distinction between them is a minor administrative detail. Students who have attended both - which is rare - and academics who have worked at both - which is more common - tend to have strong views about how different the two institutions are in character, in culture, in physical environment, and in what the experience of being a student there actually feels like.
 
-![Oxford vs Cambridge - Student Life, Accommodation, and Cost Compared](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oxford vs Cambridge - Student Life, Accommodation, and Cost Compared](/assets/images/blog/blog-11.webp)
 
 This guide compares Oxford and Cambridge across the dimensions that matter most to prospective students making a choice between them: the academic structure and teaching methods, the student life and social culture, the accommodation systems and costs, the city environments, the sport and extracurricular scenes, the mental health and welfare provisions, the career outcomes, and the specific ways in which the two universities differ in ways that matter beyond the league table rankings. It is written for students who are genuinely in the position of choosing between the two - which requires having been offered places at both, or being at the stage of deciding which to apply to - and who want a comparison grounded in the realities of the student experience rather than in institutional reputation.
 

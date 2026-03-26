@@ -5,15 +5,14 @@ date: 2019-06-24
 categories: ["Industry"]
 tags: ["Oxford", "University", "UK", "Neighborhoods", "Student Housing", "Jericho", "Cowley", "Headington", "Summertown"]
 excerpt: "The definitive neighborhood guide for Oxford University students. Covers every area where students live, including Cowley Road and East Oxford, Jericho, Headington, Summertown and North Oxford, Iffley Road, Botley and Osney, Grandpont and Abingdon Road, Marston, and the city centre. Each neighborhood profile includes rent ranges, transport links, supermarkets and food options, nightlife and social scene, typical housing stock, proximity to colleges and departments, safety assessment, and a clear recommendation for which type of student each area suits best."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-20
+last_updated: 2026-03-26
 ---
-
 Oxford is a small city with enormous neighborhood variety. Within a radius of just three to four kilometers from the city centre, you can find the bohemian energy of Cowley Road, the cosmopolitan polish of Jericho, the suburban calm of Headington, the affluent tranquility of Summertown, the riverside peace of Iffley, and the functional convenience of Botley. Each area attracts a different type of student, offers a different daily living experience, and operates at a different price point. The neighborhood you choose for your "living out" year shapes your social life, your daily routine, your food options, your commute, and your budget in ways that are difficult to change once the tenancy is signed.
 
-![Oxford Neighborhoods Guide for Students](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Oxford Neighborhoods Guide for Students](/assets/images/blog/blog-02.webp)
 Oxford Neighborhoods Guide for Students
 
 This guide profiles every neighborhood where Oxford students live, providing the specific detail (rent ranges, supermarket options, commute times, nightlife quality, housing stock character) that allows you to make an informed choice rather than defaulting to wherever your friends happen to be looking. The right neighborhood for a second-year History student who wants nightlife and proximity to the Bodleian is different from the right neighborhood for a DPhil Chemist who wants affordable rent near the Science Area, and both differ from the right neighborhood for a graduate couple seeking quiet space near good schools.

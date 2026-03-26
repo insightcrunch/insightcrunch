@@ -4,11 +4,11 @@ title: "Infosys Joining Date"
 date: 2009-07-30
 categories: ["Industry"]
 tags: ["Thoughts"]
-excerpt: "Infosys joining date updates for 2009 freshers: when to expect onboarding, what documents to prepare, and the transition from campus to corporate."
+excerpt: "Infosys joining dates are out for 2009 placed freshers. What to expect in the days leading up to your first day as an Infoscion."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 Freshers who got placed in Infosys have already been informed of their joining dates and now it’s only a matter of time before they begin their new life as an Infoscion. All of my friends have been given joining dates, some guys getting as early as July and the latest being around February. So some guys get busy immediately after completing the last semester while others get some time to enjoy before being burdened by the work pressure.
 
