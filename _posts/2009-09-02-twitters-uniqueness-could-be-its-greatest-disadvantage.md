@@ -4,11 +4,11 @@ title: "Twitter’s uniqueness could be it’s greatest disadvantage"
 date: 2009-09-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Twitter's 140-character limit is both its genius and its curse. Why the very thing that makes Twitter unique could also limit its long-term growth."
+excerpt: "Will Twitter's uniqueness kill it? How the character limit, real-time nature, and simplicity could become disadvantages as social media evolves."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 So all of us have heard of Twitter and 99% of those who have heard about it have got a Twitter profile.[ ](http://lh5.ggpht.com/_7iorNs4nc_0/SlJR7Ox2VII/AAAAAAAAE5Q/hpZytjGzoTc/s1600/DeadTwitter6.jpg)But what the area of concern is whether Twitter will be able to live up to the hype that has been created, it has become virtually synonymous with micro blogging now, as Google is to Internet search. Apart from the tweets of some celebrities, extremely famous politicians and some big and growing organizations, very few people tweet seriously. According to a [survey](http://blog.hubspot.com/Portals/249/sotwitter09.pdf) recently conducted, some relevant findings regarding Twitter users were:  
  *****55.50% weren’t following anyone  

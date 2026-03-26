@@ -6,16 +6,16 @@ date: 2020-10-14
 categories: ["Industry"]
 tags: ['SAT Scores', 'SAT Score Reporting', 'SAT Superscore', 'SAT Score Choice', 'SAT Percentiles', 'SAT Score Range', 'SAT Score Sending', 'SAT Score Calculation']
 excerpt: "The complete guide to SAT score reporting covering how scores are calculated, percentile rankings, superscoring policies, Score Choice, sending scores, and how colleges evaluate SAT results."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-26
 ---
-
 SAT scores are the most visible output of all the preparation work students invest, and yet most students have a surprisingly shallow understanding of what those numbers actually mean, how they are calculated, and how colleges interpret them. A student who earns a 1350 but does not understand percentile rankings may not know whether that score is competitive for their target colleges. A student who earns a 680 in Math on one sitting and a 720 in Reading and Writing on another may not realize that their superscore is higher than either single-sitting composite. A student who sends scores to the wrong colleges at the wrong time may inadvertently complicate their admissions picture.
 
 Understanding the SAT scoring system completely, including how raw answers convert to scaled scores, what percentile rankings mean in practice, how Score Choice and superscoring work, and how admissions officers actually use SAT scores in their evaluation process, is not peripheral knowledge. It is central to making good decisions throughout the test preparation and college application process.
 
-![SAT Score Reporting Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Score Reporting Guide](/assets/images/blog/blog-12.webp)
 
 This guide covers every dimension of SAT scoring with the depth and specificity that general overviews leave out. From the mechanics of how answers become a score, through the release timeline, the detailed score report, superscoring strategy, Score Choice policy, and how competitive scores differ across university tiers, everything you need to understand and use your SAT scores strategically is here.
 
