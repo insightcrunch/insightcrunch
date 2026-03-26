@@ -4,11 +4,11 @@ title: "Orissa Engineering Colleges ranking"
 date: 2009-08-12
 categories: ["Industry"]
 tags: ["Surfing"]
-excerpt: "Which engineering colleges in Orissa are best? Ranking based on academics, placements, facilities, and what students actually experience at each..."
+excerpt: "This is one of the most sought after ranking list with so many engineering colleges in Orissa. After the tremendous response with the [West Bengal..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-26
 ---
 This is one of the most sought after ranking list with so many engineering colleges in Orissa. After the tremendous response with the [West Bengal engineering colleges list](http://rahul-bhattacharya.blogspot.com/2009/07/west-bengal-engineering-colleges.html), I got several requests to make another one for Orissa. Feel free to share your views below. Some of the key factors that had been taken into consideration are the starting and ending ranks of some of the top streams, feedbacks from students studying in these colleges regarding the faculty, placement, infrastructure and various other factors. This list is updated regularly based on several feedbacks on various issues and criteria. With such a robust concept behind building this list, it seems very likely to be standing the test of time over the years to come.
 
