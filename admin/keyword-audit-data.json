@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-27T03:23:42Z",
-  "total_posts": 863,
-  "flagged_posts": 27,
+  "generated": "2026-03-27T04:21:42Z",
+  "total_posts": 869,
+  "flagged_posts": 33,
   "clean_posts": 836,
   "posts": [
     {
@@ -47,6 +47,160 @@
       ],
       "critical_count": 1,
       "warning_count": 2
+    },
+    {
+      "filename": "2024-12-25-gaokao-shanghai-guide.md",
+      "slug": "gaokao-shanghai-guide",
+      "url": "/2024/12/25/gaokao-shanghai-guide/",
+      "title": "上海高考完全指南：3+3改革先行者、独特计分体系与复旦交大的竞争解析",
+      "page_title": "上海高考完全指南 - 上海3+3新高考改革全解析、独特计分体系与折算机制、复旦大学与上海交通大学录取竞争深度分析、国际教育替代路径与志愿填报实战策略",
+      "has_page_title": true,
+      "date": "2024-12-25",
+      "word_count": 847,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 43
+        },
+        {
+          "keyword": "shanghai",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"shanghai\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 2
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 2
+    },
+    {
+      "filename": "2024-11-15-gaokao-anhui-province-guide.md",
+      "slug": "gaokao-anhui-province-guide",
+      "url": "/2024/11/15/gaokao-anhui-province-guide/",
+      "title": "安徽高考完全指南 - 毛坦厂现象、中科大攻略与竞争突围之道",
+      "page_title": "安徽高考指南 - 毛坦厂中学现象深度解析、中科大录取攻略、城乡教育差距与3+1+2选科策略全面解析",
+      "has_page_title": true,
+      "date": "2024-11-15",
+      "word_count": 938,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 53
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-11-23-gaokao-hebei-province-guide.md",
+      "slug": "gaokao-hebei-province-guide",
+      "url": "/2024/11/23/gaokao-hebei-province-guide/",
+      "title": "河北高考完全指南 - 衡水模式、高压竞争与破局之道",
+      "page_title": "河北高考指南 - 衡水中学现象深度解析、3+1+2选科策略、北京毗邻效应与录取竞争全面解析",
+      "has_page_title": true,
+      "date": "2024-11-23",
+      "word_count": 854,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 58
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-12-01-gaokao-hunan-province-guide.md",
+      "slug": "gaokao-hunan-province-guide",
+      "url": "/2024/12/01/gaokao-hunan-province-guide/",
+      "title": "湖南高考完全指南 - 教育强省的备考全攻略",
+      "page_title": "湖南高考指南 - 长沙四大名校传统、3+1+2选科策略、中南大学录取与竞争形势全面解析",
+      "has_page_title": true,
+      "date": "2024-12-01",
+      "word_count": 973,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 56
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-12-09-gaokao-jiangsu-province-guide.md",
+      "slug": "gaokao-jiangsu-province-guide",
+      "url": "/2024/12/09/gaokao-jiangsu-province-guide/",
+      "title": "江苏高考完全指南 - 最难数学卷省份的深度解析",
+      "page_title": "江苏高考指南 - 从480分制到750分制改革历程、数学难度解析、南京大学录取与新高考策略全面解析",
+      "has_page_title": true,
+      "date": "2024-12-09",
+      "word_count": 1067,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 71
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-12-17-gaokao-zhejiang-province-guide.md",
+      "slug": "gaokao-zhejiang-province-guide",
+      "url": "/2024/12/17/gaokao-zhejiang-province-guide/",
+      "title": "浙江高考完全指南 - 新高考改革先行省份深度解析",
+      "page_title": "浙江高考指南 - 3+3改革先行、七选三选考制度、赋分规则、浙大录取与分段表全面解析",
+      "has_page_title": true,
+      "date": "2024-12-17",
+      "word_count": 1280,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 56
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2025-01-10-gaokao-hubei-province-guide.md",

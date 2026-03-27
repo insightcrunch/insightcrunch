@@ -4,11 +4,11 @@ title: "Google Docs: Now try the best online tool without a Google Account"
 date: 2010-06-25
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Google Docs opens up: now accessible without a Google account. Edit documents, spreadsheets, and presentations with just a browser visit."
+excerpt: "Google Docs drops the login requirement. Anyone can now use the online document editor without creating a Google account. Here is how it works."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 Google Docs had been adding many desired feature off-late, but all of it required to have a Google account to log in and then access it. But now anyone can simply visit docs.google.com/demo and start typing in a document that would be available for 24 hours only. They can also invite others to collaborate with them.
 

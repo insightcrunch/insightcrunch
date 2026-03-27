@@ -4,11 +4,11 @@ title: "Add Bing Search Box to your Blogger Blog"
 date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "How to add a Bing search box to your Blogger blog. Ready-to-use code snippet that lets visitors search your site through Microsoft's search engine."
+excerpt: "Want Bing search on your blog? Copy-paste code to add a Bing search box to any Blogger site. Quick setup, clean look, fully functional."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 Many people had requested for a search box which would enable the visitors of their websites and blogs to search directly through Bing. So here is the code that is sure to help a lot of people. Simply select this code and press Ctrl+C and paste it wherever you want.
 

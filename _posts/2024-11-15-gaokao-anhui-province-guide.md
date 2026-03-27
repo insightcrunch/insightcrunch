@@ -6,14 +6,14 @@ date: 2024-11-15
 categories: ["Industry"]
 tags: ["高考", "安徽高考", "毛坦厂中学", "安徽分数线", "Anhui Gaokao", "Provincial Guide"]
 excerpt: "最全面的安徽高考指南，深度解析毛坦厂中学现象、中科大录取完全攻略、安徽3+1+2选科策略、城乡教育差距与各类型考生的完整备考方案。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-27
 ---
-
 安徽，皖南山水与淮北平原共同构成的这片土地，在中国高考版图上有着独特而复杂的面貌。一方面，中国科学技术大学（中科大）这所全球顶尖的理工科大学坐落于合肥，为安徽本地学生提供了一个在省内就可以接触世界级科学教育的机会；另一方面，毛坦厂中学以"亚洲最大高考工厂"之称，用其极端的应试模式和惊人的高考成绩，成为全国关注度最高、争议最大的中学之一，构成了安徽高考文化中最具辨识度的符号。这两个极端，一个代表着基础科学教育的最高端，一个代表着应试文化的最极端，共同勾勒出安徽高考生态的独特张力。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-14.webp)
 *安徽高考：毛坦厂中学现象深度解析、中科大录取攻略与城乡教育差距全面解析*
 
 安徽每年参加高考的考生人数超过70万，是全国考生最多的省份之一。考生基数大，省内优质高校资源相对有限，城乡之间、合肥与其他地区之间的教育资源落差显著，这些因素共同造就了安徽高考"高竞争、强分化"的格局。
