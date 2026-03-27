@@ -5,11 +5,11 @@ page_title: "Mental Health for IT Freshers in Bangalore - Managing TCS Work Pres
 date: 2010-08-22
 categories: ["Industry"]
 tags: ["Mental Health", "IT Industry", "Bangalore", "Bengaluru", "Employee Well-Being", "Work Pressure", "NIMHANS"]
-excerpt: "TCS Bangalore fresher Sudarshan dies by suicide at the office. A tragic incident that raises questions about work pressure on new IT employees."
+excerpt: "A TCS fresher in Bangalore took his life at the office building. The tragedy that shocked the IT community and sparked conversations about pressure."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 55
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 Bangalore is the city where more Indian IT careers begin than anywhere else in the country. It is also the city where the psychological pressures of those careers are felt most intensely by the youngest and most vulnerable members of the workforce.
 
