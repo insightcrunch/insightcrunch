@@ -4,11 +4,11 @@ title: "New York Tornadoes kill thousands"
 date: 2010-09-18
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Tornadoes hit New York City: Brooklyn and Queens streets devastated by rare tornado touchdowns. Damage assessment and aftermath across the boroughs."
+excerpt: "Tornadoes in New York City? Two rare twisters tore through Brooklyn and Queens, leaving devastation in tree-lined neighborhoods across the boroughs."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 As National Weather Service officials declared Friday that two tornadoes had indeed swept into New York City on Thursday, some tree-lined streets in Brooklyn and Queens looked - at least from the air - like Lego masterpieces that angry children had done their best to sweep aside.
 

@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-27T15:38:52Z",
-  "total_posts": 878,
-  "flagged_posts": 33,
+  "generated": "2026-03-27T15:45:31Z",
+  "total_posts": 880,
+  "flagged_posts": 35,
   "clean_posts": 845,
   "posts": [
     {
@@ -81,6 +81,54 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2024-10-30-gaokao-liaoning-province-guide.md",
+      "slug": "gaokao-liaoning-province-guide",
+      "url": "/2024/10/30/gaokao-liaoning-province-guide/",
+      "title": "辽宁高考完全指南 - 东北振兴背景下的备考全攻略",
+      "page_title": "辽宁高考指南 - 大连理工大学录取攻略、3+1+2选科策略、东北人口流失背景与就业前景全面解析",
+      "has_page_title": true,
+      "date": "2024-10-30",
+      "word_count": 1039,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 50
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-11-07-gaokao-fujian-province-guide.md",
+      "slug": "gaokao-fujian-province-guide",
+      "url": "/2024/11/07/gaokao-fujian-province-guide/",
+      "title": "福建高考完全指南 - 厦大攻略、海峡优势与备考全策略",
+      "page_title": "福建高考指南 - 厦门大学录取攻略、3+1+2选科策略、海外华人政策与中等竞争强度全面解析",
+      "has_page_title": true,
+      "date": "2024-11-07",
+      "word_count": 1007,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 51
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2024-11-15-gaokao-anhui-province-guide.md",

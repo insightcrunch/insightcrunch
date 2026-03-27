@@ -6,14 +6,14 @@ date: 2024-11-07
 categories: ["Industry"]
 tags: ["高考", "福建高考", "厦门大学", "福建分数线", "Fujian Gaokao", "Provincial Guide"]
 excerpt: "最全面的福建高考指南，深度解析厦门大学录取完整攻略、3+1+2选科策略、海外华人考生政策、福建高考竞争格局及各类型考生的完整备考方案。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-27
 ---
-
 福建，面向台湾海峡的东南沿海省份，以其独特的地理位置、繁盛的海洋文化和深厚的海外华人纽带，在中国高考版图上占有一个特殊而耐人寻味的位置。在全国高考省份中，福建的竞争强度属于中等偏上水平，考生规模不算最庞大，但省内高校资源相对集中且有一所全国知名的顶尖院校（厦门大学，以下简称"厦大"）作为标志性的备考目标，形成了较为鲜明的高考生态。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-02.webp)
 *福建高考：厦门大学录取攻略、海峡优势、3+1+2选科策略全面解析*
 
 福建每年参加高考的考生人数约在40万至50万之间，与河南、山东等人口大省相比规模较小，但省内的高考竞争并不因此而轻松。厦门大学作为省内唯一的C9级别顶尖高校（虽然严格来说厦大不在C9，但在综合实力和知名度上接近），以及福州大学、华侨大学等本地特色院校，共同构成了福建考生升学规划的核心参照系。同时，福建特殊的海外华人政策，为部分有海外背景的考生提供了一些差异化的升学通道，是理解福建高考生态不可忽视的维度。

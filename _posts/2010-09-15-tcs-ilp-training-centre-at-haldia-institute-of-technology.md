@@ -5,11 +5,11 @@ page_title: "TCS ILP Satellite Centers - How TCS Conducts ILP Training at Engine
 date: 2010-09-15
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Satellite Center", "College Campus Training"]
-excerpt: "TCS chose Haldia Institute of Technology as an ILP satellite center. What this campus-based training setup looks like for freshers posted here."
+excerpt: "TCS has chosen Haldia Institute of Technology as one of its ILP training centre. This centre can accommodate around 700 TCS Trainee Associates."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 Among the less-discussed dimensions of TCS's ILP infrastructure is the satellite centre model - the use of engineering college campuses as additional ILP training venues that extend TCS's training capacity beyond its owned and operated campuses. For freshers who are assigned to ILP at a satellite centre rather than one of TCS's major owned facilities, the experience differs in specific ways from the flagship campus experience, and understanding those differences in advance is genuinely useful preparation.
 
