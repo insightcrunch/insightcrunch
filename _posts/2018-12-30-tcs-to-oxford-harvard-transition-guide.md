@@ -6,15 +6,14 @@ date: 2018-12-30
 categories: ["Industry"]
 tags: ["TCS to Oxford Harvard", "Indian IT Professional Masters", "TCS Employee Higher Education", "MBA After TCS", "MS After TCS", "Oxford MBA Indian", "Harvard MBA Indian Professional", "TCS Career Transition"]
 excerpt: "The complete guide for TCS employees and Indian IT professionals transitioning to Oxford and Harvard - from deciding when to leave, to building the application, to the housing and financial realities on the other side, and how the TCS experience translates into elite university admission."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 53
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-03-27
 ---
-
 Every year, a significant number of TCS employees and broader Indian IT professionals reach a decision point in their careers. The ILP is done. The early projects are behind them. The first promotion has come, and maybe the second. The technical skills are solid, the project management experience is real, and the industry knowledge is genuine. And yet the ceiling is visible in a way that it was not during those first years of building the foundation - a ceiling that requires something more than continued competence to break through, something that a graduate degree from a world-leading institution can provide.
 
-![From TCS to Oxford and Harvard](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![From TCS to Oxford and Harvard](/assets/images/blog/blog-04.webp)
 
 Oxford and Harvard are the two most recognisable academic brands in the world. For Indian IT professionals who aspire to the MBA programmes, the master's programmes in computer science, the public policy programmes at the Kennedy School, or the various other graduate pathways that these institutions offer, the question is not just "can I get in?" but "is this the right transition, is this the right time, how do I fund it, how does my TCS experience translate, and what does life in Cambridge (UK) or Cambridge (Massachusetts) actually look like when you arrive?"
 

@@ -4,11 +4,11 @@ title: "Amazon Online Jobs"
 date: 2010-05-08
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon online jobs: remote positions, work-from-home opportunities, and the variety of roles Amazon offers for candidates working from anywhere."
+excerpt: "What online jobs does Amazon offer? A breakdown of remote, WFH, and virtual positions across customer service, tech support, and corporate roles."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 11
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 ## Background
 

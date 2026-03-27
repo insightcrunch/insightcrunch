@@ -4,11 +4,11 @@ title: "Secret powers of Time"
 date: 2010-06-08
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "How different perspectives on time shape our behavior, decisions, and happiness. A thought-provoking look at past, present, and future orientations."
+excerpt: "Do you live in the past, present, or future? How your time perspective shapes your decisions, relationships, and overall approach to life."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 All of us have different perspectives of time as we move forward in our life. Here let’s take a look at how we can view the perspectives yet from more different angles. And as we watch this video, let’s flood our minds with more different perceptions and contradictions. Which time zone are we actually living in? Or are we navigating across several zones every moment of our days?
 
