@@ -4,11 +4,11 @@ title: "Google added a background image to its homepage"
 date: 2010-07-20
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Google adds a background image to its homepage, borrowing from Bing's visual approach. User reactions, the design experiment, and what it signals."
+excerpt: "Google copies Bing's homepage background image idea. The experiment that divided users, sparked complaints, and was quietly pulled back."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 Google may be taking note of the photogenic interface of the Bing homepage which led it to add a background image last month. The traditional neat look of the homepage faced a sharp contrast with the flashy background image behind the Google search box. But the question is that will Google users accept this change wholeheartedly.
 

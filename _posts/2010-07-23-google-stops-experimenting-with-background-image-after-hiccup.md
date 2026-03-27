@@ -4,11 +4,11 @@ title: "Google stops experimenting with background image after hiccup!"
 date: 2010-07-23
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Google removes homepage background image after user backlash. The Bing-inspired experiment that lasted barely a day before being rolled back."
+excerpt: "Google's homepage background experiment fails. Users hated the Bing-style image and Google killed the feature almost immediately. Lesson learned."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-27
 ---
 With rival search engine Bing keeping on flashing stunning shows of photography in its homepage, Google tried to take a step forward towards that idea. But users reportedly went crazy on June 10th, 2010 when they found their homepage clustered with crazy hippos. Hundreds of tweets went out.
 
