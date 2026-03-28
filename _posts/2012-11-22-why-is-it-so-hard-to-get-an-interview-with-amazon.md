@@ -4,11 +4,11 @@ title: "Why is it so hard to get an interview with Amazon?"
 date: 2012-11-22
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Can't get an Amazon interview? Here is why their screening is tougher than most tech companies, and what you can do to actually get past the resume stage."
+excerpt: "Amazon hires its employees from a variety of sources across hiring events and college campuses around the world. The reason why it is very hard to get an..."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Background
 

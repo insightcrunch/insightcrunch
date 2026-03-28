@@ -4,11 +4,11 @@ title: "How can I start working at Amazon?"
 date: 2013-01-17
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "How to start working at Amazon: job categories, required qualifications, the application portal, and the fastest path from application to first day."
+excerpt: "Ready to join Amazon? The different job types available, qualification requirements, how to apply, and what the onboarding timeline looks like."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Amazon Jobs Login"
 date: 2012-06-09
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon jobs portal login: how to access your application dashboard, check status, update your profile, and navigate the Amazon hiring portal."
+excerpt: "Can't find your Amazon jobs login? Step-by-step guide to accessing the application portal, checking your hiring status, and managing your profile."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Background
 
