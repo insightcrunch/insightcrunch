@@ -6,14 +6,14 @@ date: 2024-08-19
 categories: ["Industry"]
 tags: ["高考数学", "集合", "逻辑", "充分必要条件", "Gaokao Math", "Sets Logic"]
 excerpt: "Secure every free point on Gaokao math - sets, logic, propositions, and sufficient/necessary conditions."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-28
 ---
+
 高考数学集合与逻辑专题，是每年高考数学卷中最稳定的"送分题"板块。集合的基本运算（并集、交集、补集）、逻辑命题（四种命题的关系、充分必要条件）、量词（全称量词与存在量词）以及命题的否定，这些内容每年必考，题型固定，难度相对较低，是高考数学中最值得稳拿满分的板块。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-15.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
 *高考数学集合与逻辑深度解析：集合运算、命题逻辑、充分必要条件与量词全攻略*
 
 本文系统覆盖高考集合与逻辑专题的所有核心内容：集合的定义与表示方法、集合的基本运算（并集、交集、补集）及其在数轴和坐标系中的图形表示、命题的四种形式（原命题、逆命题、否命题、逆否命题）及其真假关系、充分条件和必要条件的判断方法、全称量词与存在量词的使用以及含量词命题的否定。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你把集合与逻辑专题的每一分都稳稳收入囊中。
@@ -398,7 +398,7 @@ a=0 且 b=0 → a²+b²=0（真）；a²+b²=0 → a=0 且 b=0（真，实数平
 
 **Q23：集合的"属于"（∈）和"包含"（⊆）有什么本质区别？**
 
-**A23：** 属于（∈）是元素与集合之间的关系（元素是否在集合中），如 1 ∈ {1,2,3}；包含（⊆）是集合与集合之间的关系（一个集合是否是另一个集合的子集），如 {1,2} ⊆ {1,2,3}。易错情形：{1} ∈ {{1},2} 是正确的（{1} 是集合 {{1},2} 的一个元素）；{1} ⊆ {{1},2} 是错误的（{1} 的元素是 1，但 1 不是 {{1},2} 的元素，只有 {1} 本身是其元素）。高考中，区分"∈"和"⊆"是集合基础题的高频考点。
+{% raw %}**A23：** 属于（∈）是元素与集合之间的关系（元素是否在集合中），如 1 ∈ {1,2,3}；包含（⊆）是集合与集合之间的关系（一个集合是否是另一个集合的子集），如 {1,2} ⊆ {1,2,3}。易错情形：{1} ∈ {{1},2} 是正确的（{1} 是集合 {{1},2} 的一个元素）；{1} ⊆ {{1},2} 是错误的（{1} 的元素是 1，但 1 不是 {{1},2} 的元素，只有 {1} 本身是其元素）。高考中，区分"∈"和"⊆"是集合基础题的高频考点。{% endraw %}
 
 **Q24：如何记忆并用好四种命题的关系？**
 
