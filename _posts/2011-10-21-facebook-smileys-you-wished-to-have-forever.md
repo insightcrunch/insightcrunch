@@ -4,11 +4,11 @@ title: "Facebook smileys you wished to have forever"
 date: 2011-10-21
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Complete Facebook emoticons and smileys list: hidden codes for chat, comments, and status updates that make your conversations more expressive."
+excerpt: "Facebook has more emoticons than you think. The complete list of smiley codes for chat and comments that most users never discover."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 Emoticons and smileys are the key essence to online chatting and communication. It lets us express ourselves a lot better with them. Facebook till now doesn’t have a clear-cut display as to the list of emoticons it supports. So for your information [here](https://emojipedia.org/facebook/) is the list of emoticons that you can use right now while you chat on Facebook.
 

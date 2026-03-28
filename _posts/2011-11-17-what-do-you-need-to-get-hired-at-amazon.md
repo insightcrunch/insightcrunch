@@ -4,11 +4,11 @@ title: "What do you need to get hired at Amazon?"
 date: 2011-11-17
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "What Amazon looks for in candidates: skills, experience levels, leadership principles alignment, and the qualities that get you past the hiring bar."
+excerpt: "Want to work at Amazon? The specific skills, qualities, and leadership principle alignment that Amazon evaluates during its hiring process."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 9
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Background
 

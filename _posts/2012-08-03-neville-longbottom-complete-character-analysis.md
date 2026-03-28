@@ -5,19 +5,18 @@ date: 2012-08-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Neville Longbottom", "Gryffindor", "Herbology", "Prophecy"]
 excerpt: "A deep literary analysis of Neville Longbottom across all Harry Potter books - courage, identity, and the boy who fulfilled the prophecy another way."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-08-03
+last_updated: 2026-03-28
 ---
-
 ## Introduction: The Boy the Prophecy Almost Named
 
 There is a thought experiment buried inside *Harry Potter and the Order of the Phoenix* that Rowling introduces quietly and then allows to radiate outward through the remaining two books, transforming everything the reader thought they knew about the series. The prophecy that Voldemort acted upon - "born as the seventh month dies... and the Dark Lord will mark him as his equal" - could have referred to two boys. Harry Potter was one of them. Neville Longbottom was the other.
 
 Voldemort chose Harry. That choice, as Dumbledore explains, is what made Harry the chosen one - not any innate quality, not destiny in some metaphysical sense, but Voldemort's own decision about which infant posed the greater threat. Had he turned his wand on the Longbottoms instead of the Potters, the entire architecture of the series would belong to Neville: the scar, the fame, the burden, the hunt across seven books. Harry would have grown up an ordinary boy in a wizarding family, never knowing the weight that was almost his to carry.
 
-![Neville Longbottom character analysis across all seven Harry Potter books](/assets/images/blog/blog-06.webp)
+![Neville Longbottom character analysis across all seven Harry Potter books](/assets/images/blog/blog-12.webp)
 
 This counterfactual is not a footnote in the novels. It is structural. Rowling uses it to make her most serious argument about heroism: that the hero is not the person born with special qualities that destiny has marked for greatness, but the person who rises to meet the circumstances they are given. Harry is heroic because of what he does with his situation. Neville is heroic for exactly the same reason. The difference between them is not capability or courage or moral clarity. It is only the accident of Voldemort's choice.
 

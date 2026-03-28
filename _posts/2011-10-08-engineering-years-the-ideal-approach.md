@@ -4,11 +4,11 @@ title: "Engineering years - The ideal approach"
 date: 2011-10-08
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "How to approach your engineering years wisely. First year to final year strategy: academics, skills, extracurriculars, and placement preparation."
+excerpt: "Making the most of four engineering years. A year-by-year approach to academics, skill building, networking, and setting yourself up for placements."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 *This guest post was written by Ashish Nandwani*.
 

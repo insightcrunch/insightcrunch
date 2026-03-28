@@ -5,19 +5,18 @@ date: 2012-07-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Draco Malfoy", "Slytherin", "Pure-Blood", "Death Eaters"]
 excerpt: "A deep literary analysis of Draco Malfoy across all Harry Potter books - privilege, conscience, and the boy who could not kill."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-07-28
+last_updated: 2026-03-28
 ---
-
 ## Introduction: The Boy Who Could Not Kill
 
 There is a moment in *Harry Potter and the Half-Blood Prince* that stands as one of the most psychologically precise scenes Rowling ever wrote. Draco Malfoy, sixteen years old, stands at the top of the Astronomy Tower with his wand aimed at Albus Dumbledore, the most powerful wizard alive and the one man Voldemort himself fears. The whole terrible machinery of the Inquisitorial Squad, the Death Eaters flooding through the corridors below, the Vanishing Cabinet scheme, the entire year of private terror and obsessive preparation, has delivered him to this exact moment. He has his target wandless, weakened, pinned against a parapet. Everything he has said, everything he has performed and postured about for six years, has been building toward this. All he has to do is say two words.
 
 He cannot do it.
 
-![Draco Malfoy character analysis across all seven Harry Potter books](/assets/images/blog/blog-04.webp)
+![Draco Malfoy character analysis across all seven Harry Potter books](/assets/images/blog/blog-11.webp)
 
 That inability is not a failure in Draco Malfoy's story. It is the story. The entire arc of this character - from the pale, drawling boy who offers Harry his hand on the Hogwarts Express to the haunted, hollowed young man of the epilogue - is the story of a person who was built to be one thing and discovered, at the worst possible moment, that he could not be it. Draco is not a villain who has a change of heart. He is something richer and far more disturbing: a person who never quite had the heart for villainy in the first place, and who spent six books desperately trying to convince himself and everyone around him that he did.
 
