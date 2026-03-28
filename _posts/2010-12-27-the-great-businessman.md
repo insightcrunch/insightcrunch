@@ -4,11 +4,11 @@ title: "The Great Businessman"
 date: 2010-12-27
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "A creative fiction piece born from ILP boredom. When a hostel room, an internet connection, and an idle mind produce an unexpected short story."
+excerpt: "What happens when a TCS fresher has nothing to do in the hostel? Creative fiction. A short story written out of sheer ILP boredom."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 5
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 

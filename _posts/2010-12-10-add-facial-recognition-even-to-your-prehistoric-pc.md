@@ -4,11 +4,11 @@ title: "Add Facial Recognition even to your prehistoric PC"
 date: 2010-12-10
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Add face recognition login to any Windows PC with a webcam. A free tool that uses facial authentication to unlock your computer securely."
+excerpt: "Unlock your PC with your face. A free facial recognition tool that works with any webcam, even on older Windows machines. Simple setup, real security."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 Have a webcam? Now you can add the latest highest level of technologies, authenticating a user by his looks, by this simple software. By facial recognition, you can login to your PC in no time. [Install this](http://www.luxand.com/blink/).
 

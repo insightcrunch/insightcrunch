@@ -6,14 +6,14 @@ date: 2024-07-26
 categories: ["Industry"]
 tags: ["高考物理", "力学", "牛顿定律", "动量", "Gaokao Physics", "Mechanics"]
 excerpt: "Master Gaokao physics mechanics - Newton's laws, projectile motion, circular motion, energy, and momentum conservation."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-28
 ---
-
 高考物理力学专题，是整个高中物理知识体系中分值最重、综合性最强的核心板块。从牛顿三定律到动量守恒，从匀变速运动到抛体运动，从功能定理到能量守恒，力学知识在高考物理卷中占据约 40% 至 50% 的分值，是决定高考物理成绩的关键板块。力学的难点不只在于公式繁多，更在于多种物理规律的综合运用，以及从复杂物理情景中建立正确数学模型的能力。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
 *高考物理力学深度解析：牛顿定律、抛体运动、圆周运动、功能定理与动量守恒全攻略*
 
 本文系统覆盖高考力学专题的所有核心内容：运动学（匀变速运动的规律与图像分析）、牛顿三定律及其综合应用、抛体运动（平抛和斜抛）、圆周运动（匀速和变速）、功和能（功的计算、动能定理、机械能守恒、能量守恒）、动量（冲量定理、动量守恒定律）以及各类力学综合题型的解题策略。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在力学专题建立完整的解题体系。
