@@ -6,14 +6,14 @@ date: 2024-09-04
 categories: ["Industry"]
 tags: ["高考数学", "向量", "平面向量", "空间向量", "Gaokao Math", "Vectors"]
 excerpt: "Master Gaokao vectors - plane and spatial vector operations, dot product applications, and geometry problem solving."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-28
 ---
-
 高考数学向量专题，是高中数学中最具几何直觉和代数计算双重特性的知识板块。向量以其独特的"既有大小又有方向"的数量特征，成为连接代数与几何的桥梁工具。无论是平面几何中的证明与计算，还是立体几何中的线面关系判断与距离角度求解，向量都提供了最系统、最计算化的处理方法。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
 *高考数学向量专题深度解析：平面向量运算、数量积应用、空间向量与立体几何全攻略*
 
 本文系统覆盖高考向量专题的所有核心内容：向量的基本概念和运算（加减法、数乘、数量积）、向量的坐标表示及其运算、利用向量解决平面几何问题（角度、距离、共线条件）、以及空间向量在立体几何中的完整应用（法向量求法、线面角和二面角的计算）。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在向量专题建立从平面到空间的完整解题能力。

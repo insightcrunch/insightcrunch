@@ -5,11 +5,11 @@ page_title: "TCS ILP Bhubaneswar (Kalinga Park) - Complete Guide to Campus Life,
 date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Kalinga Park"]
-excerpt: "What is TCS ILP like in Bhubaneswar? First-hand fresher account of training, accommodation, local food scene, and daily life at this center."
+excerpt: "*This is a guest post by Ashish. The views expressed are solely of the writer."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 Bhubaneswar is one of the most historically and culturally distinctive cities in India to receive a TCS ILP posting - a city of ancient temples, modern IT corridors, and a specific Odishan cultural richness that most Indian engineering graduates have not previously encountered. For freshers assigned to TCS ILP Bhubaneswar, the posting offers something that the more frequently discussed ILP cities do not: an introduction to eastern India's most dynamic emerging technology hub, set against one of the country's oldest and most elaborate temple traditions. This guide covers the Bhubaneswar ILP experience in the detail that makes the first day less uncertain and the full period more productive.
 

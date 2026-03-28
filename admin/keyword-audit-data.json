@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T03:50:38Z",
-  "total_posts": 893,
-  "flagged_posts": 35,
-  "clean_posts": 858,
+  "generated": "2026-03-28T03:53:32Z",
+  "total_posts": 904,
+  "flagged_posts": 36,
+  "clean_posts": 868,
   "posts": [
     {
       "filename": "2025-01-02-gaokao-beijing-guide.md",
@@ -81,6 +81,30 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2024-10-22-gaokao-tianjin-guide.md",
+      "slug": "gaokao-tianjin-guide",
+      "url": "/2024/10/22/gaokao-tianjin-guide/",
+      "title": "天津高考完全指南 - 市级优势、南开天大攻略与户籍博弈",
+      "page_title": "天津高考指南 - 天津市高录取率优势深度解析、南开大学与天津大学录取攻略、户口迁移争议与3+1+2选科策略全面解析",
+      "has_page_title": true,
+      "date": "2024-10-22",
+      "word_count": 1066,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 51
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2024-10-30-gaokao-liaoning-province-guide.md",
