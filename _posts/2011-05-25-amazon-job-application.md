@@ -4,11 +4,11 @@ title: "Amazon Job Application"
 date: 2011-05-25
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "How to apply for Amazon jobs: step-by-step application process, resume tips, the portal walkthrough, and what Amazon looks for in candidates."
+excerpt: "Amazon job application guide. The online portal, resume format, application steps, and the key qualifications that get your application noticed."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Background
 

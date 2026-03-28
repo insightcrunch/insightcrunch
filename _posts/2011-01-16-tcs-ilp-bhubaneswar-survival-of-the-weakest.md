@@ -5,11 +5,11 @@ page_title: "Surviving TCS Bhubaneswar ILP - Essential Tips for Non-CS Candidate
 date: 2011-01-16
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Survival Tips", "Non-CS Candidates"]
-excerpt: "What happens when TCS ILP gets tough? A candid Bhubaneswar account of falling behind on assessments, self-doubt, and clawing your way back."
+excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 The programme coordinator's announcement hit with the specific weight of a starting gun: "There will be two exams in a gap of fourteen days each. The passing percentage is very low this year. Who fails to score over 50% will be given two chances. If you miss the chances you may try next year." Standing in the balcony of the residential facility that night, a cigarette in hand, the narrator of the original account found himself unable to "set the starting point." Big waves, small boat, no compass in the middle of the sea.
 
