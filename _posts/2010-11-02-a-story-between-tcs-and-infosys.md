@@ -5,11 +5,11 @@ page_title: "TCS vs Infosys - Complete Head-to-Head Comparison of Salary, Work C
 date: 2010-11-02
 categories: ["Industry"]
 tags: ["TCS", "Infosys", "Company Comparison", "Career Choice"]
-excerpt: "The Sudha Murthy story: how a discriminatory job ad at Tata pushed a determined woman toward Infosys, where she became a legend alongside Murthy."
+excerpt: "The untold TCS and Infosys connection. How a sexist job ad at Tata indirectly shaped Infosys's story through Sudha Murthy's determination."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 The story that connects TCS and Infosys is one of India's most remarkable corporate narratives. Sudha Murthy - who would later chair the Infosys Foundation - began her career at Telco (now Tata Motors), a Tata Group company, after a postcard she wrote to JRD Tata protesting gender discrimination in a job advertisement earned her an interview and ultimately a place on the Telco shop floor. She left Telco in 1982 to follow her husband Narayana Murthy to Pune, where he was starting a company called Infosys. When she met JRD on the Bombay House steps on her final day, he offered her parting wisdom: "Never start with diffidence. Always start with confidence. When you are successful you must give back to society." That advice accompanied the founding of Infosys; that story permanently intertwines the Tata legacy and the Infosys story.
 
