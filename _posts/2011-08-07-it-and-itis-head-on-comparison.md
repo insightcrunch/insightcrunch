@@ -4,11 +4,11 @@ title: "IT and ITIS: Head-on Comparison"
 date: 2011-08-07
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "IT vs ITIS at TCS: Information Technology vs IT Infrastructure Services. Key differences in work, skills, career path, and which stream suits you."
+excerpt: "Confused between IT and ITIS at TCS? Head-to-head comparison of work type, daily tasks, skill requirements, and long-term career trajectory."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Overview
 

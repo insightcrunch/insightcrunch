@@ -4,11 +4,11 @@ title: "Health of IT professionals"
 date: 2011-07-16
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "IT professional health problems: KFC lunches, sedentary desks, missed gym sessions, and the lifestyle that slowly wrecks the tech worker's body."
+excerpt: "Your IT job is destroying your health. Fast food, long sitting hours, no exercise, and the slow decline that most tech workers pretend to ignore."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 “Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well it doesn’t have as much cheese as you would get in the Chicken Cheese Italiano Pizza in Pizza Hut, but it tastes good. Also try the Chocolate pastry at Biscotti if you ever get a chance.” This is pretty much what one would hear if he gets to ask an IT professional about some good food in the city. Yes, they have the money. They have the cool geek status. They don't bother to spend thousands for the style. They surround themselves with all sorts of gadgets (including me!). And last but not the least, they never compromise on eating to focus on their health. In fact, an average IT professional spends anything between 5-10% of his or her salary on food.
 

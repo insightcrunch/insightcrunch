@@ -4,11 +4,11 @@ title: "Users now realizing Facebook’s latest changes show they are wary of th
 date: 2011-08-30
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Facebook copies Google Plus features: smart lists, subscriber model, and interface tweaks that show how seriously Facebook takes the new competitor."
+excerpt: "Facebook is scared of Google Plus. The latest interface changes, smart lists, and subscriber features are borrowed directly from Google's playbook."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 Facebook has recently made some pretty decent tweaks into their existing interface. All of them aims at the popular features which had been giving an edge to their closest rival Google Plus. These changes come at a time when people are in two-minds which platform to use. Facebook is trying its level best to provide its users with best in-class experience.
 

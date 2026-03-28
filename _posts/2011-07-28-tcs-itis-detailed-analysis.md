@@ -4,11 +4,11 @@ title: "TCS ITIS: Detailed Analysis"
 date: 2011-07-28
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "What is TCS ITIS? Deep dive into Infrastructure Services: daily work, skill requirements, career growth, and why some freshers prefer it over development."
+excerpt: "It has been quite sometime while the discussion had been going on as to what ITIS actually is. Well, to begin with, ITIS (IT Infrastructure Services) is..."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 35
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Overview
 
