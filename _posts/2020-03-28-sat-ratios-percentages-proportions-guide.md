@@ -6,16 +6,16 @@ date: 2020-03-28
 categories: ["Industry"]
 tags: ['SAT Ratios', 'SAT Percentages', 'SAT Proportions', 'SAT Percent Increase', 'SAT Percent Decrease', 'SAT Unit Rates', 'SAT Proportional Reasoning', 'SAT Ratio Problems']
 excerpt: "Master every SAT ratio, percentage, and proportion question type including unit rates, percent increase/decrease, proportional reasoning, and unit conversion with worked examples."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-28
 ---
-
 Ratios, percentages, and proportions form one of the most practically important clusters of topics on the SAT Math section. These concepts underlie the Problem-Solving and Data Analysis domain, where they appear in questions about everything from unit rates and scale factors to tax calculations, mixture problems, and density. Unlike algebra or quadratics, which require procedural mastery of specific techniques, ratio and percentage questions reward students who have a flexible, intuitive feel for proportional reasoning, the ability to set up relationships correctly, and the discipline to avoid a small number of common traps that consistently mislead less prepared students.
 
 The most damaging of these traps is the base-value error in percentage change: calculating percent increase or decrease using the wrong base. This single error pattern probably costs more students points on SAT percentage questions than any other mistake, and it is entirely preventable once the correct formula is understood and applied consistently. Similarly, students who confuse part-to-part ratios with part-to-whole ratios lose points on ratio questions despite understanding the underlying arithmetic. This guide addresses every variation of ratio, percentage, and proportion question the SAT tests, with explicit identification of every major trap and the clearest possible explanation of how to avoid each one.
 
-![SAT Ratios, Percentages, and Proportions Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Ratios, Percentages, and Proportions Complete Guide](/assets/images/blog/blog-16.webp)
 
 This guide covers: ratio concepts (part-to-part, part-to-whole, equivalent ratios), proportions and how to solve them, unit rates and rate conversions, speed-distance-time problems, all three percentage calculation types, percent increase and decrease with the correct base-value formula, successive percentage changes, real-world percentage word problems, unit conversions, density and concentration problems, scaling problems, and mixture problems. Each topic includes worked examples at multiple difficulty levels, common errors, and the fastest solution approach.
 
@@ -355,7 +355,6 @@ Defect rate = (63/840) times 100 = 7.5%.
 Students who passed midterm and final: 12. Percentage of midterm passers who also passed the final: (12/24) times 100 = 50%.
 
 
-
 ---
 
 ## Percent Increase and Percent Decrease
@@ -569,7 +568,6 @@ Flour per serving: 2/12 cups = 1/6 cup. For 30 servings: 30 times (1/6) = 5 cups
 Pool capacity in gallons: 95,000/3.785 ≈ 25,099 gallons. Time = 25,099/800 ≈ 31.4 hours.
 
 
-
 ---
 
 ## Density and Concentration Problems
@@ -760,7 +758,6 @@ For ratio, percentage, and proportion questions, the decision to use Desmos vers
 ### Strategic Reminder
 
 The calculator cannot fix a wrong equation setup. The most common errors in ratio and percentage problems are conceptual (using the wrong base for percent change, confusing part-to-part with part-to-whole, setting up the proportion with inconsistent units). Always verify that the equation is correct before computing. The calculator handles arithmetic; you must handle the setup.
-
 
 
 ---

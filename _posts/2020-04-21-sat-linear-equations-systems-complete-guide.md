@@ -6,16 +6,16 @@ date: 2020-04-21
 categories: ["Industry"]
 tags: ['SAT Linear Equations', 'SAT Systems of Equations', 'SAT Linear Functions', 'SAT Slope Intercept', 'SAT Solving Equations', 'SAT Linear Word Problems', 'SAT Systems No Solution', 'SAT Algebra Linear']
 excerpt: "Master every SAT linear equation and system question type including one-variable equations, two-variable systems, graphical solutions, word problem translations, and special cases."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-28
 ---
-
 Linear equations and systems of linear equations are the single most heavily tested mathematics topic on the Digital SAT. They appear across every difficulty level, in every module, and in more question variations than any other algebra topic. A student who has mastered linear equations thoroughly, from the simplest one-step equations to complex systems with special cases, has addressed the largest single source of available points in the SAT Math section. A student with gaps in linear equation understanding will encounter those gaps repeatedly throughout every SAT Math section they take.
 
 The breadth of this topic makes comprehensive coverage essential. Linear equations on the SAT are not a single question type; they are a family of related question types that require different procedures, different recognition skills, and different strategic approaches depending on how the question is presented. Recognizing which variation of linear equations a question involves, knowing the appropriate procedure for that variation, executing it correctly, and verifying the result are the four skills this guide develops systematically.
 
-![SAT Linear Equations and Systems Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Linear Equations and Systems Complete Guide](/assets/images/blog/blog-02.webp)
 
 This guide covers every linear equations and systems topic tested on the SAT with worked examples at multiple difficulty levels, identification of common errors, and the fastest solution approach for each question type. Topics covered include: solving linear equations in one variable (all variations), linear equations in two variables (all three standard forms), interpreting slope and y-intercept in context, graphing linear equations and reading graphs, systems of two linear equations (all three solution methods), special cases (no solution and infinite solutions), determining the number of solutions from coefficients, word problems that translate to linear equations and systems, and using Desmos to solve and verify.
 

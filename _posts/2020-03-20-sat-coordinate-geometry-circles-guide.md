@@ -6,16 +6,16 @@ date: 2020-03-20
 categories: ["Industry"]
 tags: ['SAT Coordinate Geometry', 'SAT Circle Equations', 'SAT Distance Formula', 'SAT Midpoint Formula', 'SAT Coordinate Plane', 'SAT Circle Equation Standard Form', 'SAT Parallel Perpendicular Lines', 'SAT Circle Problems']
 excerpt: "Master every SAT coordinate geometry topic including distance and midpoint formulas, circle equations, line relationships, and transformations with worked examples."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-28
 ---
-
 Coordinate geometry gives us the tools to describe shapes, distances, and relationships in the coordinate plane using algebra. On the SAT, this means the ability to move fluently between geometric descriptions ("two points form a line segment") and algebraic representations ("the slope of this segment is 3/4"). The Digital SAT tests coordinate geometry consistently across both Math modules, with questions ranging from straightforward reading of coordinates and applying the distance formula to sophisticated problems involving circle equations, intersections of lines and circles, and the algebraic meaning of geometric properties like perpendicularity.
 
 What makes coordinate geometry particularly accessible is that a small number of formulas, applied correctly and consistently, handle the vast majority of SAT questions in this area. The distance formula, the midpoint formula, the slope formula, and the standard-form circle equation are the core tools. Understanding where these formulas come from, not just how to apply them, produces the deeper understanding that allows you to adapt when a question presents the concept in an unfamiliar form.
 
-![SAT Coordinate Geometry and Circles Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Coordinate Geometry and Circles Complete Guide](/assets/images/blog/blog-10.webp)
 
 This guide covers every coordinate geometry topic tested on the SAT: the coordinate plane, the distance formula and its derivation, the midpoint formula, slope and line relationships (parallel, perpendicular, neither), all forms of linear equations and conversions among them, circle equations in standard and general form, graphing circles, line-circle intersections, and coordinate geometry in applied contexts. Each topic includes concept explanation, worked examples at multiple difficulty levels, common mistakes, and strategic guidance for when to use Desmos.
 
@@ -484,7 +484,6 @@ Equation: (x-5)² + (y-5)² = 13.
 The distance from center (3, 6) to the horizontal line y = 2 is |6 - 2| = 4. Radius = 4.
 
 Equation: (x-3)² + (y-6)² = 16.
-
 
 
 ---
@@ -1005,7 +1004,6 @@ Discriminant = 0 for tangency: (2k)² - 4(2)(k²-8) = 0 → 4k² - 8k² + 64 = 0
 The lines x + y = 4 and x + y = -4 are both tangent to the circle x² + y² = 8.
 
 ---
-
 
 
 Coordinate geometry questions on the SAT rarely test one concept in isolation. Hard difficulty questions almost always combine two or more of the concepts covered in this guide, requiring students to recognize which combination is being tested and execute the multi-step solution efficiently. Understanding how the concepts connect is therefore as important as mastering each concept individually.

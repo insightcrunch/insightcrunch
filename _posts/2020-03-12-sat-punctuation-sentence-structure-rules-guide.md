@@ -6,16 +6,16 @@ date: 2020-03-12
 categories: ["Industry"]
 tags: ['SAT Punctuation', 'SAT Comma Rules', 'SAT Semicolon', 'SAT Colon Usage', 'SAT Sentence Structure', 'SAT Run On Sentences', 'SAT Fragments', 'SAT Clause Structure']
 excerpt: "Master every SAT punctuation and sentence structure rule including comma usage, semicolons, colons, dashes, sentence fragments, run-on sentences, and clause structure."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-28
 ---
-
 Punctuation and sentence structure questions account for a significant and consistent portion of the SAT Reading and Writing section. These questions present a sentence or short passage with an underlined portion and ask which of four options correctly punctuates or structures the sentence. Unlike vocabulary or rhetoric questions, punctuation questions are entirely rule-based: each question has one definitively correct answer determined by specific grammatical rules, and students who have internalized those rules will answer these questions correctly every time, regardless of the topic or difficulty level of the surrounding passage.
 
 The challenge for many students is that punctuation rules are often taught inconsistently in school, leaving gaps in understanding that cost points on the SAT. Students who have learned to punctuate by feel rather than by rule frequently make errors they cannot explain or correct. This guide addresses every punctuation and sentence structure rule the SAT tests, explains each rule precisely, provides multiple examples distinguishing correct from incorrect usage, and gives a clear identification strategy for recognizing which rule a question is testing.
 
-![SAT Punctuation and Sentence Structure Complete Guide](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![SAT Punctuation and Sentence Structure Complete Guide](/assets/images/blog/blog-07.webp)
 
 This guide covers: all comma rules (introductory elements, nonessential information, lists, compound sentences, coordinate adjectives, the Oxford comma, and comma splices), semicolons, colons, dashes, apostrophes (possessives and contractions, including its vs. it's), sentence fragments, run-on sentences and how to fix them, and the structural concepts that underlie all punctuation decisions (independent clauses, dependent clauses, coordinating and subordinating conjunctions). Each rule is presented with its underlying grammatical principle, multiple correct and incorrect examples, how to identify the rule being tested, and the fastest way to find the correct answer.
 
@@ -263,7 +263,6 @@ Never place a comma between a subject and its verb, or between a verb and its di
 **SAT trap:** When a sentence has a long, complex subject (perhaps a noun phrase spanning many words), students often feel compelled to add a comma before the verb because the subject "seems finished" and a pause feels natural. This feeling is not a reliable guide. The comma between subject and verb is always incorrect unless a parenthetical element (requiring paired commas) appears between them.
 
 **Correct exception:** "The committee, which had reviewed the proposal for six months, decided to postpone the vote." (Here, "which had reviewed the proposal for six months" is a nonessential clause set off by paired commas. The second comma of the pair appears before the verb, which is acceptable because it closes the nonessential element, not because a comma between subject and verb is generally allowed.)
-
 
 
 ---
