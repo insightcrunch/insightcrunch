@@ -4,11 +4,11 @@ title: "Is it hard to apply at Amazon?"
 date: 2011-12-17
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Is applying to Amazon difficult? The application portal, resume screening process, and what makes some applications succeed while most get filtered."
+excerpt: "The truth about applying to Amazon. How tough the process really is, what the portal expects, and why most applications never reach a recruiter."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 9
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 ## Background
 

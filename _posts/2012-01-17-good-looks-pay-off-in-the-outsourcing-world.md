@@ -4,11 +4,11 @@ title: "Good looks pay off in the outsourcing world?"
 date: 2012-01-17
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Does appearance matter in IT careers? An uncomfortable look at whether looks and personality play a role in client-facing roles and career advancement."
+excerpt: "Do good looks help in the IT industry? Beyond hard work, an honest exploration of how presentation and personality influence career trajectory."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-28
 ---
 The popular concept that hard work is the main key behind success might take a small back foot in this discussion. True that there is no alternative to hard work, but apart from that, there are some X-factors that come into play when you are looking for success in the outsourcing world. It comes more into play when you are directly interacting with some people whom you need to convince and get a deal or something done.
 
