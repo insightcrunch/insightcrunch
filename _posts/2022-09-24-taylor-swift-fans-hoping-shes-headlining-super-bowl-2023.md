@@ -4,11 +4,11 @@ title: "Taylor Swift fans hoping she's headlining Super Bowl 2023"
 date: 2022-09-24
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Taylor Swift Super Bowl 2023 halftime speculation: fan excitement after the Apple Music sponsorship announcement and what a Swift performance would mean."
+excerpt: "Will Taylor Swift headline the Super Bowl? Fan hopes after the Apple Music deal, the rumors, and why Swifties believe this halftime show is happening."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The news is that Taylor Swift is gearing up to headline the upcoming Super Bowl halftime show. This came after a major NFL announcement. The corporation announced that Apple Music has replaced Pepsi as their latest partner for the Super Bowl show. The Super Bowl 2023 is taking place on February 12 in Glendale, Arizona. The announcement was made by Nana-Yaw Asamoah, who is the SVP of Partner Strategy of the NFL. Oliver Schusser who is the vice president of Apple Music and Beats stated that music and sports hold a special place in our hearts, and hence Apple Music is excited to be a part of music and football's biggest stage. Apple Music is even hoping to bring greater performances beyond the upcoming Super Bowl as well.
 

@@ -4,11 +4,11 @@ title: "Kyndryl Stock Price"
 date: 2022-09-06
 categories: ["Industry"]
 tags: ["Surfing"]
-excerpt: "Kyndryl stock price analysis: the IBM spinoff's market performance, CEO Martin Schroeter's strategy, and what the numbers say about the company's future."
+excerpt: "How is Kyndryl stock performing after the IBM spinoff? Market analysis, leadership strategy, revenue trajectory, and the outlook for investors."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Overview
 

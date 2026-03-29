@@ -4,11 +4,11 @@ title: "Meta Hiring Freeze"
 date: 2022-04-22
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta hiring freeze official: 30% cut to recruitment plans, Zuckerberg's internal memo, and what it means for current employees and pending candidates."
+excerpt: "Meta officially freezes hiring. Zuckerberg's internal announcement, the 30% recruitment cut, and the impact on teams, candidates, and company morale."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

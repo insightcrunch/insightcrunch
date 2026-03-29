@@ -4,11 +4,11 @@ title: "Black Panther: Wakanda Forever"
 date: 2022-09-25
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Black Panther: Wakanda Forever preview: Marvel's sequel honoring Chadwick Boseman. New characters, Namor, and what the film means for the MCU's future."
+excerpt: "Wakanda Forever without Chadwick Boseman. How Marvel's Black Panther sequel honors the late star while introducing Namor and expanding the MCU."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Movie Review
 

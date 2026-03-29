@@ -4,11 +4,11 @@ title: "The China Coup and Xi Jinping House Arrest"
 date: 2022-09-24
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "China coup rumors and Xi Jinping house arrest claims: what the internet speculated in September 2022, the evidence, and what actually happened."
+excerpt: "Was there a coup in China? The viral Xi Jinping house arrest rumors of September 2022, what sparked them, and separating internet speculation from facts."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

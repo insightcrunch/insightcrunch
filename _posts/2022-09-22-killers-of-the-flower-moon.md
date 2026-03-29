@@ -4,11 +4,11 @@ title: "Killers of the Flower Moon"
 date: 2022-09-22
 categories: ["Leisure"]
 tags: ["Movie"]
-excerpt: "Killers of the Flower Moon movie review: Martin Scorsese's adaptation of the Osage murders. Cast, storyline, historical accuracy, and overall verdict."
+excerpt: "Scorsese's Killers of the Flower Moon reviewed. The Osage murder story, DiCaprio and De Niro's performances, and whether the film lives up to the book."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Movie Review
 

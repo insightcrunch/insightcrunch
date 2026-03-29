@@ -4,11 +4,11 @@ title: "Wipro Salary Hike FY22 for Employees and Freshers"
 date: 2022-09-23
 categories: ["Industry"]
 tags: ["Surfing"]
-excerpt: "Wipro FY22 salary hike: annual increment details for employees and freshers. Merit Salary Increase percentages, timing, and how it compares to TCS and..."
+excerpt: "How much did Wipro raise salaries in FY22? MSI percentage, fresher vs experienced hikes, payout timing, and comparison with other IT company increments."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 Wipro has announced that they will give out annual increments for the financial year ended on March 31. This is also known as the Merit Salary Increase or MSI. The Wipro salary hike applies for freshers as well as experienced employees who form about 96% of the overall Wipro workforce. The remaining 4% of Wipro employees are usually employees who are on extended leaves and sabbaticals. Wipro employees and Wipro freshers who joined the company can expect their salary hikes along with the September month salary. Wipro also announced that employees above C1 band received pay hikes on June last year, however this year it is effective in September. Wipro freshers and employees can expect to receive their increment letter from their managers in the coming weeks. Wipro employees are often referred to as Wiproites. The Wipro salary hikes will be awarded based on the employee performance and their eligibility criteria. Wipro employs nearly a quarter of a million employees. Prepare for your Wipro interview with the Wipro interview practice questions below.
 
