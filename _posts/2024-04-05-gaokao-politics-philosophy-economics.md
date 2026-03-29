@@ -6,14 +6,14 @@ date: 2024-04-05
 categories: ["Industry"]
 tags: ["高考政治", "马克思哲学", "唯物辩证法", "市场经济", "Gaokao Politics", "Philosophy"]
 excerpt: "Master Gaokao politics - Marxist philosophy, economic theory, political institutions, and current affairs application."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 高考政治是文科综合的核心组成部分，在高考文综卷中约占100分（全国卷政治约100分，满分300分文综中政治独立占100分）。高考政治涵盖马克思主义哲学、政治经济学（市场经济与宏观调控）、政治学（政治制度与法律）和文化生活四个主要模块，其最大特点是理论性强，同时要求考生将政治理论与当代中国的时政热点紧密结合。近年来，高考政治命题越来越注重"时政热点"的结合，几乎每道大题都以某个当年重大时事为情景材料，要求学生运用所学政治理论进行分析。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-15.webp)
 *高考政治深度解析：马克思主义哲学、唯物辩证法、认识论、市场经济、宏观调控与时政热点全攻略*
 
 本文系统覆盖高考政治的所有核心内容：马克思主义哲学（辩证唯物主义和历史唯物主义）、认识论（实践与认识的辩证关系）、政治经济学（商品价值、货币职能、市场经济、宏观调控、对外开放）、政治学（人民代表大会制度、中国共产党的执政方式、民族区域自治）、文化生活（文化的作用、中华文化特点、文化建设）以及时政热点的应用方法。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在高考政治各模块建立完整的答题框架。

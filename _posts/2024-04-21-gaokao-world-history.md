@@ -6,14 +6,14 @@ date: 2024-04-21
 categories: ["Industry"]
 tags: ["高考历史", "世界史", "法国大革命", "工业革命", "Gaokao History", "World History"]
 excerpt: "Master Gaokao world history - civilizations, revolutions, world wars, Cold War, and globalization."
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 高考历史世界史专题，是中国高考历史考纲中与中国史并行的重要组成部分，约占历史总分的30%至35%。世界史的时间跨度从古代文明到当代全球化，横跨五大洲数千年，内容庞杂而又有内在逻辑主线。近年来高考世界史命题越来越注重横向比较（不同文明、不同国家之间的比较）和纵向联系（历史发展的因果链条），以及将世界史与中国史对照分析的综合能力。掌握世界史的主干知识、理解历史发展的规律性，是高考历史高分的重要支撑。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-47.webp)
 *高考世界史深度解析：文艺复兴、启蒙运动、法国大革命、工业革命、两次世界大战、冷战与全球化全攻略*
 
 本文系统覆盖高考世界史专题的所有核心内容：古代文明的多元起源与交流、文艺复兴与宗教改革、启蒙运动与资产阶级革命时代（英美法三国革命）、工业革命与资本主义扩张、马克思主义的诞生与传播、第一次世界大战与凡尔赛体系、俄国革命与苏联模式、第二次世界大战与雅尔塔体系、冷战格局的形成与结束、战后资本主义的调整与第三世界兴起，以及经济全球化和多极化趋势。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在世界史专题建立完整的解题体系。

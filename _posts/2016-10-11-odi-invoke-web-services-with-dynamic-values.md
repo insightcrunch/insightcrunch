@@ -4,11 +4,11 @@ title: "ODI Invoke Web Services with dynamic values"
 date: 2016-10-11
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "Invoke web services from ODI with dynamic parameter values. How to pass runtime variables into SOAP calls using the ODI Web Service utility."
+excerpt: "Pass dynamic values to web service calls in ODI. How to configure the Invoke Web Service utility with runtime variables instead of hard-coded inputs."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The ODI Invoke Web Service utility is extremely handy and lots of users are already using it in their systems. The tool allows invoking an operation on a web service by the specified port number. Once we provide with all the required parameters, we can use the ODI tool OdiInvokeWebService to meet our required web services operation. **Download** the ODI Invoke Web Service document at the end of this article.
 
