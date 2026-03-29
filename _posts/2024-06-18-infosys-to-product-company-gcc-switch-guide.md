@@ -6,14 +6,14 @@ date: 2024-06-18
 categories: ["Industry"]
 tags: ["Infosys to Product Company", "Service to Product Switch", "Infosys to Google", "Infosys to Amazon", "Infosys Career Change", "GCC Jobs India", "IT Services to GCC", "Infosys Exit Strategy"]
 excerpt: "Want to leave Infosys for Google, Amazon, or a GCC? The realistic playbook covering skill building, resume strategy, and interview preparation timeline."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Making the switch from Infosys to a product company or Global Capability Center is one of the most frequently attempted and most frequently botched career transitions in Indian technology. The desire to make the move is almost universal among ambitious engineers who have spent a few years in IT services delivery. The actual successful execution of that move is far less common - not because the candidates lack potential, but because most of them misunderstand what the transition actually requires, prepare for the wrong things in the wrong order, and approach the external job market with a services-company mindset that product company interviewers immediately identify and penalise.
 
-![Infosys to Product Company Switch Guide](/assets/images/blog/blog-58.webp)
+![Infosys to Product Company Switch Guide](/assets/images/blog/blog-88.webp)
 
 This guide is the transition playbook that the majority of engineers attempting this switch never find in one place. It covers the honest diagnosis of what is actually different between IT services and product engineering environments, the specific skill gaps that most services-company engineers carry, how to close those gaps in a structured timeline, how to reframe a services resume into language that product companies understand and value, and how to prepare for the interview formats that are categorically different from anything Infosys's internal processes have trained you for. It also covers the GCC option, which is both a genuine alternative to FAANG-tier product companies and a stepping stone that many engineers underestimate. Read every section - the transition is a system, and shortcutting any component degrades the whole.
 

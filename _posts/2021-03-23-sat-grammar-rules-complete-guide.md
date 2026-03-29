@@ -6,7 +6,7 @@ date: 2021-03-23
 categories: ["Industry"]
 tags: ['SAT Grammar', 'SAT Grammar Rules', 'SAT Punctuation Rules', 'SAT Subject Verb Agreement', 'SAT Pronoun Clarity', 'SAT Parallelism', 'SAT Modifiers', 'SAT Comma Rules']
 excerpt: "Master every grammar rule tested on the SAT including punctuation, agreement, pronoun usage, modifiers, parallelism, and verb tense with examples and practice strategies."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ Grammar questions are the most reliable source of points on the entire SAT Readi
 
 The SAT tests grammar through its Standard English Conventions question category, which accounts for approximately 11 to 13 of the 54 total Reading and Writing questions. These questions present a passage with a blank or underlined portion and ask you to select the answer choice that correctly applies the conventions of Standard English. The grammar rules tested are finite, predictable, and learnable within a few weeks of focused study.
 
-![SAT Grammar Rules Complete Guide](/assets/images/blog/blog-02.webp)
+![SAT Grammar Rules Complete Guide](/assets/images/blog/blog-62.webp)
 
 This guide covers every grammar rule tested on the Digital SAT with exhaustive detail. For each rule, you will find the underlying grammatical principle, correct and incorrect examples in SAT-style sentence contexts, the specific way the College Board tests the rule, common mistakes students make, and a quick identification strategy for recognizing what rule is being tested. A comprehensive rapid-review reference table at the end summarizes every rule for last-minute review before the test.
 

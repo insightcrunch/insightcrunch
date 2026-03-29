@@ -6,14 +6,14 @@ date: 2021-11-10
 categories: ["Industry"]
 tags: ["Infosys Non-IT", "Infosys for Mechanical Students", "Infosys for Civil Engineering", "Infosys for EEE Students", "Infosys Non-CS Branch", "Infosys Core vs IT", "Infosys Eligibility Non-IT", "Non-IT Students Infosys"]
 excerpt: "Complete guide for Mechanical, Civil, EEE, ECE, and other non-IT branch students on joining Infosys: eligibility, preparation, stream allocation, training, and career trajectory."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Every year, tens of thousands of engineering students from Mechanical, Civil, Electrical, Electronics, Chemical, and other non-IT branches receive Infosys offer letters. Many of them feel uncertain about what they have signed up for: will their degree background hold them back, will they be given inferior projects, will they struggle through technical training designed for CS students, and does joining Infosys as a non-IT student represent a compromise or an opportunity?
 
-![Infosys for Non-IT Branches Guide](/assets/images/blog/blog-26.webp)
+![Infosys for Non-IT Branches Guide](/assets/images/blog/blog-56.webp)
 
 The honest answers to these questions are more positive than most non-IT students expect. Infosys has hired non-IT branch students for decades, has built its training program to accommodate candidates who arrive without a CS background, and has deployed non-IT hires successfully on technology projects across every service line. The non-IT student who joins Infosys today, prepares seriously during the pre-joining period, approaches training with genuine effort, and builds domain skills alongside technical skills has a career trajectory that is not meaningfully different from a CS graduate who joins at the same time.
 

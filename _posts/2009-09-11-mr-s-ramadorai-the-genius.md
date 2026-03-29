@@ -5,7 +5,7 @@ date: 2009-09-11
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "The genius behind TCS's rise. S. Ramadorai's leadership, his surprising personal habits, and how he built India's IT giant over two decades."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -87,5 +87,5 @@ So, which has been a more rewarding partnership?
 
 “Family comes first; without that you can’t do much,” is the candid reply. 
 
-![Mr. S. Ramadorai : The Genius](/assets/images/blog/blog-01.webp)
+![Mr. S. Ramadorai : The Genius](/assets/images/blog/blog-31.webp)
 Mr. S. Ramadorai : The Genius

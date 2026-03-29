@@ -5,7 +5,7 @@ date: 2022-11-26
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon WFH jobs that need no experience: entry-level remote roles, training provided, application process, and realistic pay expectations for beginners."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 13
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -26,7 +26,7 @@ Keep reading: [TCS NQT 2023 »](https://insightcrunch.com/2022/12/16/tcs-nqt-202
 
 Another fact that confused the employees during this message was that extra minutes for hand washing was added which was apparently already in effect for the last four to five months. The extra time of for hand washing was one of the most controversial decisions which employees readily cherished. But the fact was many of the employees were never aware of this policy change that was so helpful to them until they saw that noticeboard. Amazon was particularly known for tracking its employees constantly and penalizing them for taking time offs. Hence, the few extra minutes that employees could take a break and relax was very much welcomed by the employees at Amazon.
 
-![Amazon online jobs work from home no experience](/assets/images/blog/blog-24.webp)
+![Amazon online jobs work from home no experience](/assets/images/blog/blog-84.webp)
 Amazon online jobs work from home no experience
 
 ## Amazon Work-Life Balance

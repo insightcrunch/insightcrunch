@@ -6,14 +6,14 @@ date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Trivandrum", "Training Experience"]
 excerpt: "*This is a guest post by Angshuman. The views expressed are solely of the writer."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Every year, thousands of TCS freshers from engineering colleges across India receive a joining call for ILP Trivandrum. For many of them, the first response is the one captured perfectly in a trainee account from the original source collection: "why so far? When will you return?" The family that asks this question is asking the right thing for the wrong reasons - not understanding that "so far" is precisely what makes the Trivandrum posting worth having. This complete experience guide covers everything a trainee needs to know before arriving at the TCS ILP Trivandrum posting: what the campus is like, what the training structure involves, what Kerala offers beyond the campus gates, what former trainees say about the experience, and how to make the most of one of TCS's most celebrated ILP postings.
 
-![Palm trees lining the road to TCS Technopark in Trivandrum with the characteristic Kerala tropical greenery framing the modern IT campus buildings in the background - the first sight that greets trainees arriving at India's flagship TCS ILP centre](/assets/images/blog/blog-46.webp)
+![Palm trees lining the road to TCS Technopark in Trivandrum with the characteristic Kerala tropical greenery framing the modern IT campus buildings in the background - the first sight that greets trainees arriving at India's flagship TCS ILP centre](/assets/images/blog/blog-16.webp)
 *TCS ILP Trivandrum complete experience guide - what the campus is like, what Kerala offers, how the training works, what former trainees say, and how to make the most of the ILP posting that many alumni describe as one of the most formative experiences of their careers*
 
 This guide draws on multiple trainee accounts, including the detailed personal narrative of an introverted trainee from eastern India who was the only person from his college sent to Trivandrum, navigating the specific challenges of making friends in a diverse, large batch with a Mumbai-heavy group - and coming out with friendships he describes as among the most valuable of his career.

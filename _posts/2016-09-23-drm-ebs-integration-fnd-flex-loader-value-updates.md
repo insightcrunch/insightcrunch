@@ -4,11 +4,11 @@ title: "DRM EBS Integration Fnd Flex Loader Value Updates"
 date: 2016-09-23
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Oracle DRM EBS integration and Fnd Flex Loader: how segment values are refreshed from DRM to EBS and troubleshooting value update failures."
-image: "/assets/images/blog/blog-02.webp"
+excerpt: "DRM to EBS segment value sync via Fnd Flex Loader: how the refresh works, what can go wrong, and how to fix value update failures."
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The Oracle DRM to EBS integration is one of the most widely used programs to maintain and refresh master data easily. The EBS concurrent program pulls the data from DRM and **refreshes the existing values and hierarchies** with the new information. There's a specific list of attributes which demands constant special attention for every integration, they are as below:
 
@@ -20,7 +20,7 @@ The Oracle DRM to EBS integration is one of the most widely used programs to mai
 
 - CHILD_FLEX_VALUE_HIGH
 
-![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/blog/blog-02.webp)
+![Oracle DRM EBS Integration Fnd Flex Loader Value Updates](/assets/images/blog/blog-32.webp)
 Oracle DRM EBS Integration Fnd Flex Loader Value Updates
 
 **Once the integration is completed**, the values are expected to be showing up fine in EBS, more specifically in FND_FLEX_VALUES and FND_FLEX_VALUE_NORM_HIERARCHY. Any new values, hierarchy changes, description changes can be verified using these and few other FND tables under APPS or APPLSYS schemas.

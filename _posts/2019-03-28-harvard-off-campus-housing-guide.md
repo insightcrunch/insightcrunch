@@ -6,14 +6,14 @@ date: 2019-03-28
 categories: ["Industry"]
 tags: ["Harvard Off-Campus Housing", "Cambridge MA Apartments", "Harvard Graduate Housing", "Renting Near Harvard", "Cambridge Housing Guide", "Somerville Apartments Harvard", "Allston Housing Harvard"]
 excerpt: "Complete guide to Harvard off-campus housing - where to live in Cambridge, how to find apartments, what things cost, tenant rights in Massachusetts, the Cambridge rental market timeline, and everything you need to know before signing a lease near Harvard."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 52
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 Most Harvard undergraduates live in Harvard-managed housing for all four years of the undergraduate experience, and the Harvard House system is comprehensive enough that relatively few undergraduates voluntarily leave it. Graduate students face a very different reality. Harvard's on-campus housing provision for graduate students covers only a fraction of the graduate student population, and most graduate students at every Harvard school - from the doctoral students in GSAS to the MBA candidates at HBS to the policy students at the Kennedy School - need to find private housing in Cambridge and the surrounding area.
 
-![Harvard Off-Campus Housing Guide](/assets/images/blog/blog-23.webp)
+![Harvard Off-Campus Housing Guide](/assets/images/blog/blog-83.webp)
 
 The Cambridge private rental market is one of the most competitive, expensive, and fast-moving in the United States. It operates on rhythms that reflect the university calendar, with the bulk of available units turning over in September and the best units disappearing within days of listing in the peak spring search season. Navigating it successfully requires understanding how the market works, knowing which neighbourhoods offer what trade-offs, understanding Massachusetts tenant rights that differ from many other US states, and having a practical search strategy that matches the market's pace.
 

@@ -6,14 +6,14 @@ date: 2021-06-03
 categories: ["Industry"]
 tags: ["Infosys Onsite Deputation", "Infosys Onsite Opportunity", "Infosys US Deputation", "Infosys Onsite Allowance", "Infosys B1 Visa", "Infosys L1 Visa", "Infosys Onsite Salary", "Infosys International Assignment"]
 excerpt: "Complete guide to Infosys onsite deputation: how selection works, visa types, onsite compensation structure, living abroad on Infosys deputation, return process, and what the experience actually looks like."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 An Infosys onsite deputation is one of the most anticipated milestones in many Indian IT professionals' careers. It represents the transition from offshore delivery to direct client engagement, carries significant financial benefit in the form of deputation allowances, and provides professional exposure to international work environments that is genuinely difficult to replicate from India. It also comes with complexities that most employees are not fully prepared for: the visa process, the compensation structure, the tax implications in two countries, the cost of living in expensive client cities, the professional dynamics of being the offshore resource in a room of client employees, and the management of the India-home life during an extended absence.
 
-![Infosys Onsite Deputation Complete Guide](/assets/images/blog/blog-42.webp)
+![Infosys Onsite Deputation Complete Guide](/assets/images/blog/blog-12.webp)
 
 This guide covers every dimension of the Infosys onsite deputation experience with the specificity that guides in this series are built on. It explains how selection for onsite works, what determines who goes and who does not, the different visa types and what each allows, how the onsite compensation works and what the actual take-home looks like after rent and living expenses, how taxes work in two countries simultaneously, what the professional dynamics on a client site are like, how to perform well in an onsite role, what the return process looks like, and how onsite experience affects the long-term career trajectory at Infosys and in the broader market.
 

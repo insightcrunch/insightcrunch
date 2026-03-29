@@ -5,7 +5,7 @@ date: 2009-01-04
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "What motivates someone to start a blog and keep writing? Honest thoughts on blogging culture, attention, and the desire to be heard publicly."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -30,5 +30,5 @@ Read more: [Rise, Calcuttans »](https://insightcrunch.com/2009/01/06/rise-calcu
 
 If you were to ask me why do I blog, I would say I belong to class 2(1). Time to take a break…would be soon back.. :)
 
-![Why do one blog?](/assets/images/blog/blog-03.webp)
+![Why do one blog?](/assets/images/blog/blog-33.webp)
 Why do one blog?

@@ -5,7 +5,7 @@ date: 2009-08-26
 categories: ["Leisure"]
 tags: ["Google", "Thoughts"]
 excerpt: "Why Google Labs matters more than people think. The experimental projects that quietly became essential features in Gmail, Maps, and Search."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -20,5 +20,5 @@ Keep reading: [Flickr's addiction: How NOT to get rid off it »](https://insight
 
 With so much of flexibility round the corners, Google’s engineers and researchers have no doubt been achieving something which many of us would have thought of but couldn’t find those services. Hope they come up with more such lab stuffs and integrate some of them into their core products.
 
-![Google Projects](/assets/images/blog/blog-15.webp)
+![Google Projects](/assets/images/blog/blog-45.webp)
 Google Projects

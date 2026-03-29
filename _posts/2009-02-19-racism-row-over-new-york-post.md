@@ -6,7 +6,7 @@ date: 2009-02-19
 categories: ["Leisure"]
 tags: ["Media", "Racism", "New York Post", "Editorial Cartoons", "Travis the Chimp", "Charla Nash", "Captive Primate Safety Act"]
 excerpt: "This picture, supposed to depict the killing of a pet chimpanzee which suddenly attacked it’s owner’s friend by a policeman, became extremely..."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -15,7 +15,7 @@ On February 18, a cartoon appeared on Page Six of the New York Post that would i
 
 The cartoon was published exactly one day after President Barack Obama, the first Black president of the United States, signed the American Recovery and Reinvestment Act into law. It was published two days after a pet chimpanzee named Travis had attacked and catastrophically mauled a woman named Charla Nash in Stamford, Connecticut, an incident that had dominated the New York tabloid news cycle for the preceding 48 hours.
 
-![New York Post Chimpanzee Cartoon Racism Controversy](/assets/images/blog/blog-49.webp)
+![New York Post Chimpanzee Cartoon Racism Controversy](/assets/images/blog/blog-79.webp)
 *The New York Post chimpanzee cartoon controversy - how an editorial cartoon linking the Travis the chimp shooting to the stimulus bill became a national flashpoint about racism, editorial responsibility, and the limits of political satire in America*
 
 Whether the cartoon was a tone-deaf attempt to merge two unrelated news stories into a single joke, or whether it was a deliberate racial provocation that compared the nation's first Black president to a dead chimpanzee, became the subject of a national argument that lasted weeks, drew responses from civil rights leaders, the White House, the NAACP, media critics, editorial cartoonists, and eventually from Rupert Murdoch himself. The answer to that question depends on whom you ask, and the division in those answers reveals something important about how differently Americans experience the same piece of media depending on their racial identity, their historical awareness, and the cultural context they bring to what they see.

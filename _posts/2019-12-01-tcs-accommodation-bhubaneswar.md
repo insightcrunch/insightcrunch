@@ -5,14 +5,14 @@ date: 2019-12-01
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Bhubaneswar", "Fresher", "Hostel", "Chandaka", "Kalinga Park", "Odisha", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Bhubaneswar for ILP associates. Covers the Kalinga Park SEZ and Chandaka campus, Star City and satellite accommodation options, the emerging Odisha IT corridor, Odia food culture, the temple city experience, room quality, costs, female associate housing, the monsoon challenge, and everything you need to know before arriving for ILP in India's temple city turned IT hub."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Bhubaneswar is the TCS ILP city that most freshers have not thought about. Unlike Hyderabad, Chennai, or Pune, which are established IT destinations that appear on every engineering student's career radar, Bhubaneswar is a city that most non-Odia associates encounter for the first time only when their joining letter arrives with "Bhubaneswar" printed as the ILP location. The initial reaction is often uncertainty, sometimes disappointment, and frequently a scramble to learn anything about a city they have never visited or perhaps never even considered visiting.
 
-![TCS Accommodation Bhubaneswar - Complete Hostel and Housing Guide](/assets/images/blog/blog-59.webp)
+![TCS Accommodation Bhubaneswar - Complete Hostel and Housing Guide](/assets/images/blog/blog-29.webp)
 TCS Accommodation Bhubaneswar - Complete Hostel and Housing Guide
 
 That uncertainty is misplaced. Bhubaneswar is one of the most culturally rich and historically significant cities in India, a place where over four hundred ancient temples spanning more than a thousand years of continuous religious construction coexist with a rapidly growing IT corridor that is positioning Odisha as an emerging technology hub in eastern India. The TCS campus at Bhubaneswar is set in one of the most environmentally beautiful office environments in the TCS network, with lush greenery, platinum-rated energy-efficient buildings, and the kind of natural serenity that IT parks in congested metros cannot replicate.

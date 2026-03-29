@@ -1830,91 +1830,91 @@
     "variant_2": "Getting an internal server error in Oracle DRM? Diagnostic steps, common causes, and the fixes that restore the application to normal operation."
   },
   "2016-09-15-drm-enterprise-manager-services-not-responding.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months...",
     "variant_1": "DRM Enterprise Manager Weblogic services not responding. How to diagnose and restart the services that power Oracle DRM's integration with Oracle GL.",
     "variant_2": "Weblogic services down for Oracle DRM? How to check, restart, and fix the Enterprise Manager services that enable DRM-to-EBS integration."
   },
   "2016-09-15-drm-error-file-does-not-exist.md": {
-    "current": 1,
+    "current": 2,
     "original": "One of the most interesting issues faced till today is the below message while during any Export Import or Query activities in the DRM Web Client:",
     "variant_1": "Oracle DRM 'File Does not Exist' error during export, import, or query operations. What causes it in the Web Client and how to fix it quickly.",
     "variant_2": "Hitting 'File Does not Exist' in Oracle DRM? This error during export/import operations has a specific cause and a straightforward resolution."
   },
   "2016-09-16-drm-batch-client-error-ora-03113-end-of-file-on-communication-channel.md": {
-    "current": 1,
+    "current": 2,
     "original": "We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to...",
     "variant_1": "Fix Oracle DRM Batch Client ORA-03113 error: end-of-file on communication channel. Database connection troubleshooting for automated DRM processes.",
     "variant_2": "ORA-03113 in DRM Batch Client? The database communication error that breaks automated jobs and how to fix the underlying connection issue."
   },
   "2016-09-16-drm-hierarchy-error-string-was-not-recognized-as-a-valid-boolean.md": {
-    "current": 1,
+    "current": 2,
     "original": "One of the errors that has been faced while using DRM is that the hierarchy gives an error while opening when some more columns are added in the default...",
     "variant_1": "Oracle DRM hierarchy error: string not recognized as valid Boolean. Caused by additional columns in hierarchy view. Diagnosis and fix explained.",
     "variant_2": "DRM hierarchy won't open after adding columns? The Boolean validation error that surfaces with custom hierarchy views and how to resolve it."
   },
   "2016-09-17-drm-web-client-http-503-error.md": {
-    "current": 1,
+    "current": 2,
     "original": "One of the DRM servers was idle for a long time and one day I decided to start using it. After ensuring the usual things of the application services...",
     "variant_1": "Oracle DRM Web Client HTTP 503 error after idle period. Why the application returns a service unavailable error and how to bring it back online.",
     "variant_2": "DRM Web Client showing HTTP 503? Typically happens after the server sits idle. Here is why the error occurs and the restart steps to fix it."
   },
   "2016-09-17-drm-web-client-internal-server-error.md": {
-    "current": 1,
+    "current": 2,
     "original": "The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling.",
     "variant_1": "Oracle DRM Web Client internal server error: an unusual case where the application runs but the client throws errors. Investigation and resolution.",
     "variant_2": "DRM services are running but the Web Client shows an internal error? Troubleshooting this baffling scenario where the app is up but the UI is not."
   },
   "2016-09-17-oracle-drm-wsdl-url-not-responding.md": {
-    "current": 1,
+    "current": 2,
     "original": "The WSDL response pretty much goes often unnoticed in DRM until we try to use it in some way like the GL integration. The APIAdapter?wsdl and the...",
     "variant_1": "Oracle DRM WSDL URL not responding: APIAdapter and DrmService endpoints failing. Required for GL integration. Diagnosis and resolution steps.",
     "variant_2": "DRM WSDL endpoint down? The APIAdapter and DrmService URLs that EBS integration depends on, why they fail, and how to bring them back online."
   },
   "2016-09-18-3-essential-sanity-checks-for-drm-ebs-integration.md": {
-    "current": 1,
+    "current": 2,
     "original": "The integration between Oracle's amazing master data management tool DRM and Oracle EBS is a pretty stable process given the configurations and...",
     "variant_1": "Three critical sanity checks before running Oracle DRM to EBS integration. Prevent failures by verifying these configurations before every sync.",
     "variant_2": "Avoid DRM-EBS integration failures. Three essential pre-checks on configuration, connectivity, and data that save hours of troubleshooting."
   },
   "2016-09-18-ebs-drm-integration-for-account-type-and-summary-flag-attributes.md": {
-    "current": 1,
+    "current": 2,
     "original": "The DRM to EBS integration using the patches 10632813 and 11659733 are not one of the as flexible integration concurrent program as it may appear...",
     "variant_1": "DRM to EBS integration quirks for Account Type and Summary Flag attributes. Limitations of the Oracle patches and how to work around them.",
     "variant_2": "Account Type and Summary Flag not syncing from DRM to EBS? The integration patch limitations and the workarounds for these specific attributes."
   },
   "2016-09-19-oracle-bi-apps-odi-integration-with-drm-single-child-multiple-parents-issue.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Business Intelligence Applications is a very useful product for many organizations and often Oracle Hyperion DRM is the master data management...",
     "variant_1": "Oracle BI Apps ODI integration with DRM: resolving the single child, multiple parents hierarchy issue that breaks dimension loading in the data warehouse.",
     "variant_2": "DRM hierarchy has a child with multiple parents and ODI is breaking? How to handle this common BI Apps integration issue with practical solutions."
   },
   "2016-09-20-drm-data-validation-techniques-for-better-quality-and-control.md": {
-    "current": 1,
+    "current": 2,
     "original": "The data in DRM is of extreme importance for any organization. Hence, automatically the need comes to have a robust control over the data and making sure...",
     "variant_1": "Oracle DRM data validation techniques: custom validations, property constraints, and automation approaches that ensure master data quality and integrity.",
     "variant_2": "Protect your DRM master data with proper validation. Custom constraints, automated quality checks, and the techniques that prevent bad data entry."
   },
   "2016-09-23-drm-ebs-integration-fnd-flex-loader-value-updates.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle DRM to EBS integration is one of the most widely used programs to maintain and refresh master data easily. The EBS concurrent program pulls the...",
     "variant_1": "Oracle DRM EBS integration and Fnd Flex Loader: how segment values are refreshed from DRM to EBS and troubleshooting value update failures.",
     "variant_2": "DRM to EBS segment value sync via Fnd Flex Loader: how the refresh works, what can go wrong, and how to fix value update failures."
   },
   "2016-09-25-drm-batch-client-credentials-configuration.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle DRM Batch Client is one of the most interesting features of the amazing master data management tool which enables a set of features without...",
     "variant_1": "Oracle DRM Batch Client credentials setup: configuring authentication for automated jobs without manual login. Step-by-step credential configuration.",
     "variant_2": "Set up DRM Batch Client credentials for hands-free automation. Authentication configuration, credential storage, and secure unattended execution."
   },
   "2016-09-25-drm-batch-client-scripting-for-automation.md": {
-    "current": 1,
+    "current": 2,
     "original": "The DRM Batch Client is one of the most useful tools that complements the flexibility and features of Oracle Data Relationship Management. It has numerous...",
     "variant_1": "Oracle DRM Batch Client scripting guide: automate exports, imports, validations, and version management using command-line scripts and scheduled jobs.",
     "variant_2": "Automate your Oracle DRM tasks with Batch Client scripts. Export, import, validate, and manage versions without touching the Web Client."
   },
   "2016-09-25-oracle-drm-version-level-specific-access-security-for-users.md": {
-    "current": 1,
+    "current": 2,
     "original": "Security in Oracle Data Relationship Management is of immense significance in situations where I do not want to give all the application users the full...",
     "variant_1": "Oracle DRM version-level security: restrict user access to specific versions while hiding others. Granular permission control for multi-team environments.",
     "variant_2": "Need to restrict DRM access by version? How to configure version-level security so each team only sees the data versions they are authorized for."

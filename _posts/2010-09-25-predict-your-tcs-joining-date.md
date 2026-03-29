@@ -6,14 +6,14 @@ date: 2010-09-25
 categories: ["Industry"]
 tags: ["TCS", "Joining Date", "Prediction", "Fresher Timeline"]
 excerpt: "When will TCS give you a joining date? The patterns behind college grading, batch sequencing, and onboarding timelines that help you predict yours."
-image: "/assets/images/blog/blog-51.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 The period between accepting a TCS offer and receiving a joining date is one of the most anxious and uncertain phases of the early IT career. You have the offer letter. You have accepted it. TCS is your employer on paper. But the specific date when you will walk into an ILP centre and begin the work is unknown - and the unknown arrival of that date is what every fresher refreshes their email and NextStep portal to discover. This guide provides the most complete available framework for understanding when your joining date is likely to arrive, what factors determine it, how to read the signals that predict acceleration or delay, and how to use the waiting period productively regardless of when the date finally comes.
 
-![A calendar with a question mark where the date should be, alongside a TCS offer letter - representing the specific uncertainty that thousands of TCS freshers navigate every hiring cycle as they wait for the joining date that will convert their offer into employment](/assets/images/blog/blog-51.webp)
+![A calendar with a question mark where the date should be, alongside a TCS offer letter - representing the specific uncertainty that thousands of TCS freshers navigate every hiring cycle as they wait for the joining date that will convert their offer into employment](/assets/images/blog/blog-81.webp)
 *How to predict your TCS joining date - the factors that influence timing, the college tier effect, the business cycle signals, the historical patterns, and the practical framework for turning the waiting period from passive anxiety into active preparation*
 
 The honest starting point: there is no formula that produces a precise joining date prediction. The factors that determine joining date timing are influenced by TCS's business conditions, ILP capacity constraints, and operational decisions that are not publicly available in the detail that would enable precise prediction. What this guide provides is a framework for realistic expectation setting - for understanding the range of likely timing based on known factors, and for identifying the signals that indicate whether the range is narrowing toward the shorter or longer end.

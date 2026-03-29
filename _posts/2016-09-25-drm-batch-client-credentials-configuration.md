@@ -4,11 +4,11 @@ title: "DRM Batch Client Credentials Configuration"
 date: 2016-09-25
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Oracle DRM Batch Client credentials setup: configuring authentication for automated jobs without manual login. Step-by-step credential configuration."
+excerpt: "Set up DRM Batch Client credentials for hands-free automation. Authentication configuration, credential storage, and secure unattended execution."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The Oracle DRM Batch Client is one of the most interesting features of the amazing master data management tool which enables a set of features without requiring manual intervention. Automation of many DRM activities can be setup daily using the DRM Batch Client.
 

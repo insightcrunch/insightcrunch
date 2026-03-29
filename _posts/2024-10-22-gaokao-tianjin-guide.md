@@ -6,14 +6,14 @@ date: 2024-10-22
 categories: ["Industry"]
 tags: ["高考", "天津高考", "南开大学", "天津大学", "Tianjin Gaokao", "Provincial Guide"]
 excerpt: "最全面的天津高考指南，深度解析天津市高录取率优势、南开大学与天津大学录取完整攻略、户口迁移争议、3+1+2选科策略及各类型考生的完整备考方案。"
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 天津，中国北方最重要的沿海港口城市，直辖市之一，在中国高考版图上有着令全国考生艳羡的独特地位。凭借直辖市身份带来的高校名额倾斜、相对较少的考生基数（全市每年高考考生约6万至8万人）、以及省内坐拥南开大学和天津大学两所顶尖高校，天津考生在全国高考竞争中处于相对有利的位置。然而，这种优势也带来了另一个全国性争议：围绕天津户籍的"高考移民"现象，以及由此引发的教育公平大讨论，使得天津高考的生态，比单纯"考生数量少、录取率高"这几个字要复杂得多。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-12.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-72.webp)
 *天津高考：高录取率优势解析、南开大学与天津大学录取攻略、户口迁移争议与3+1+2选科策略*
 
 天津每年参加高考的考生人数约6万至8万，在全国各省级行政区中是极少的。这意味着：顶尖院校每年在天津的招生名额，与其他省份相比，在相对比例上更为宽松；同等水平的学生，在天津参加高考，能进入的大学层次，往往高于在河南、山东等人口大省参加高考时能进入的层次。这种结构性优势，既是天津考生的幸运，也是全国高考省际公平性争议的持续焦点之一。

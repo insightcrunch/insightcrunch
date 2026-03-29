@@ -6,7 +6,7 @@ date: 2025-08-22
 author: "Insight Crunch Team"
 categories: ["Industry"]
 tags: ["TCS", "IRA", "TCS ILP", "LAP", "Fresher", "Reschedule", "Diagnostics"]
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 25
 last_updated: 2026-03-23
 ---
@@ -14,7 +14,7 @@ If you have recently received your TCS joining letter or are preparing for the I
 
 This guide breaks down exactly what LAP means, what triggers a reschedule, how the two differ from each other, what the real consequences look like, and most importantly, how you can position yourself to avoid both entirely. The information here draws from the documented TCS ILP process, official FAQ material shared with incoming trainees, and the accumulated experiences of candidates across multiple ILP batches at centers including Trivandrum, Hyderabad, Chennai, Ahmedabad, Kolkata, and others.
 
-![TCS ILP LAP and Reschedule](/assets/images/blog/blog-28.webp)
+![TCS ILP LAP and Reschedule](/assets/images/blog/blog-58.webp)
 TCS ILP LAP and Reschedule - Complete Guide for Freshers
 
 If you are looking for structured practice to build confidence before your ILP assessments, the [TCS ILP Preparation Guide](https://reportmedic.org/tools/tcs-ilp-preparation-guide.html) is designed to help you work through the kinds of questions that actually appear in IRA and diagnostic evaluations.

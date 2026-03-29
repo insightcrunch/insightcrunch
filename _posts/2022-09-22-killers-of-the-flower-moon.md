@@ -5,7 +5,7 @@ date: 2022-09-22
 categories: ["Leisure"]
 tags: ["Movie"]
 excerpt: "Killers of the Flower Moon movie review: Martin Scorsese's adaptation of the Osage murders. Cast, storyline, historical accuracy, and overall verdict."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ The movie Killers of the Flower Moon is an American Western crime drama film whi
 
 Read more: [Health of IT professionals »](https://insightcrunch.com/2011/07/16/health-of-it-professionals-err/)
 
-![](/assets/images/blog/blog-28.webp)
+![](/assets/images/blog/blog-88.webp)
 Leonardo DiCaprio in Killers of the Flower Moon
 
 ## Killers of the Flower Moon Release Date

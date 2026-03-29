@@ -6,14 +6,14 @@ date: 2024-12-25
 categories: ["Industry"]
 tags: ["高考", "上海高考", "上海分数线", "上海新高考", "Shanghai Gaokao", "Provincial Guide"]
 excerpt: "上海高考完全指南：中国新高考改革的先行试验田，独特的3+3选科体系与自成一套的计分机制，复旦、上交大、同济等顶尖高校的竞争分析，以及上海特有的国际教育替代路径与志愿填报实战策略。"
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 上海，中国最国际化的城市，也是中国高考改革最重要的试验田。2017年，上海与浙江作为全国新高考改革的先行省份，率先推行3+3选科模式，开创了中国高考从"文理分科"走向"自由选科"的新时代。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-28.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-88.webp)
 *上海高考完全指南：3+3改革先行、独特计分体系、复旦交大竞争分析与国际教育替代路径*
 
 上海高考的特殊性是多维度的：它是全国新高考改革经验最丰富的地区（先行8年以上）；拥有自成一体的计分体系（满分660分，区别于全国卷的750分）；坐拥复旦大学、上海交通大学等世界级顶尖院校；同时是全国国际化程度最高的城市，出国留学文化极为浓厚，高考和国际课程并行的学生比例全国最高。

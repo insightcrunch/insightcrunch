@@ -6,14 +6,14 @@ date: 2022-05-20
 categories: ["Industry"]
 tags: ["TCS", "Work from Home", "Remote Work", "Hybrid Model"]
 excerpt: "TCS work from home policy: current WFH regulations, hybrid model expectations, who qualifies for remote work, and how the policy has evolved post-COVID."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 TCS's approach to work from home and hybrid working is one of the most watched in India's IT industry. As the country's largest IT employer with over 600,000 employees, how TCS structures remote and office work directly affects hundreds of thousands of professionals and their families across India. The 25/25 model, the Occasional Operating Zones rollout, the SEZ compliance rules, and the ongoing return-to-office push each represent different dimensions of a workplace transformation that is still evolving.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-49.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-79.webp)
 *The complete TCS work from home policy guide - what TCS's 25/25 model actually means for employees, how the return-to-office rollout has progressed and where it stands, what the SEZ Rule 43A means for TCS employees in Special Economic Zones, what Occasional Operating Zones (OOZs) are and how they work, how the hybrid model compares to Infosys, Wipro, and HCL policies, what employees can request in terms of flexibility, how WFH eligibility varies by role and project, the impact on salary and allowances when working from home, and what the long-term hybrid working landscape looks like for TCS employees*
 
 This guide provides the complete picture of TCS's work-from-home policies - what they are officially, how they are being implemented in practice, and what employees and candidates need to know to plan their careers around them.

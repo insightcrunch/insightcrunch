@@ -6,14 +6,14 @@ date: 2019-02-24
 categories: ["Industry"]
 tags: ["Harvard Freshman Dorms", "Harvard Yard Dormitories", "Harvard First Year Housing", "Harvard Freshman Experience", "Harvard Yard", "Harvard Dorm Life", "Harvard Freshman Guide"]
 excerpt: "Complete guide to Harvard freshman dorms - every Yard dormitory described, what room assignment looks like, what to bring, what Annenberg dining is like, the proctor system, Freshers Week at Harvard, and exactly what to expect in your first year in Harvard Yard."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 52
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 Harvard Yard is where every Harvard undergraduate story begins. For four centuries, each new class of Harvard freshmen has arrived at the Yard's wrought-iron gates, found their assigned dormitory room, met their roommates, and started to understand what it means to be a Harvard student. The Yard's buildings range from Massachusetts Hall - constructed in 1720 and the second-oldest surviving college building in America - to the more modern residential constructions of the twentieth century. Living in this space for a year is one of the most historically dense residential experiences available to any undergraduate student anywhere in the world.
 
-![Harvard Freshman Dorms - What to Expect](/assets/images/blog/blog-18.webp)
+![Harvard Freshman Dorms - What to Expect](/assets/images/blog/blog-78.webp)
 
 This guide covers everything an incoming Harvard freshman needs to know about the dorm experience in Harvard Yard: how room assignment works, what each dormitory building is like, what to bring and what to leave at home, how Annenberg Hall dining works, the proctor system and how it supports freshman life, the social dynamics of Freshman Week, and the practical realities of daily life in a Harvard Yard dormitory. It also covers what most freshman guides leave out - the emotional arc of the first year, the specific challenges that different types of students encounter, and the specific strategies that make the Harvard freshman year not just manageable but genuinely extraordinary.
 

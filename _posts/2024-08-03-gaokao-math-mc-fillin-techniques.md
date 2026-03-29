@@ -6,14 +6,14 @@ date: 2024-08-03
 categories: ["Industry"]
 tags: ["高考数学", "选填技巧", "特值法", "排除法", "Gaokao Math", "Speed Techniques"]
 excerpt: "Save 20+ minutes on Gaokao math with speed techniques for multiple choice and fill-in questions."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学试卷共有 16 道选择填空题（12 道选择题 × 5 分 + 4 道填空题 × 5 分，共 80 分），占总分的 53%。这 16 道题理论上须在 40 至 45 分钟内完成，为后面 6 道大题留出足够时间。然而，很多考生的实际情况是：选填题花了 70 分钟，导致大题时间严重不足。本文提供一套系统的"选填题速解技巧"，帮助你在不牺牲正确率的前提下，将选填题的答题时间压缩到 40 分钟以内，为大题节省出 20 至 30 分钟的宝贵时间。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-53.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-83.webp)
 *高考数学选择填空速解技巧：特值法、排除法、数形结合、边界检验与考场时间管理全攻略*
 
 本文系统介绍高考数学选填题的七大速解技巧（特值法、排除法、数形结合法、边界检验法、验证代入法、极端情形法、量纲分析法），以及如何在考场上智能分配时间，并配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统练习，帮助你将选填题变成稳定高效的得分利器。

@@ -6,14 +6,14 @@ date: 2025-05-26
 categories: ["Industry"]
 tags: ["高考", "世界最难考试", "高考难度", "考试对比", "Gaokao", "Exam Difficulty", "World's Hardest Exam", "Comparison"]
 excerpt: "高考真的是世界上最难的考试吗？本文系统对比高考与IIT-JEE、UPSC、美国律师资格考试、注册会计师考试、精算师考试等全球最难考试的难度维度，深度解析高考难度的独特性与局限性。"
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 "高考是世界上最难的考试"，这句话在中国网络上广泛流传，被无数高考生和家长引用，也被不少国际媒体报道。但这个说法真的成立吗？
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-22.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-82.webp)
 *高考难度深度解析：与IIT-JEE、UPSC、全球职业资格考试的系统性对比，以及"世界最难考试"这一说法背后的评价维度与局限性*
 
 要回答这个问题，首先须明确"难"的含义。一场考试的难度，可以从多个维度评估：题目内容的智识挑战程度、通过率（被淘汰的比例）、备考所需时间、考试的人生影响力（一次定终身的程度），以及心理压力。不同维度下，"最难"的答案可能完全不同。

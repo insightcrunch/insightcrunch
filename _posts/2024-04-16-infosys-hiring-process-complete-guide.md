@@ -6,14 +6,14 @@ date: 2024-04-16
 categories: ["Industry"]
 tags: ["Infosys", "Infosys Hiring Process", "Infosys Interview", "Infosys Recruitment", "Infosys Selection Process", "IT Jobs India", "Campus Placement", "Infosys Careers"]
 excerpt: "How does Infosys recruit freshers? Complete pipeline from online application through coding tests, technical interviews, HR round, and offer letter."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Getting hired at Infosys is one of the most sought-after milestones in the Indian IT industry. With a global workforce measured in hundreds of thousands and a reputation for structured, merit-based recruitment, Infosys runs one of the largest and most transparent hiring machines in the technology sector. Whether you are a fresher walking into your first campus placement drive, an experienced professional applying through a job portal, or a candidate being referred by someone inside the organisation, the path to a blue Infosys badge is well defined - but only for those who understand it deeply.
 
-![Infosys Hiring Complete Guide](/assets/images/blog/blog-14.webp)
+![Infosys Hiring Complete Guide](/assets/images/blog/blog-74.webp)
 
 This guide is built for candidates who want more than a surface-level checklist. It is written with the depth of someone who has observed thousands of hiring outcomes, studied the patterns, and distilled what actually separates the candidates who receive offer letters from those who walk away wondering what went wrong. Every section is exhaustive by design, because every section matters.
 

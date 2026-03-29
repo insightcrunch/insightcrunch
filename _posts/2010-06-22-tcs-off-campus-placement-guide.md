@@ -6,14 +6,14 @@ date: 2010-06-22
 categories: ["Industry"]
 tags: ["TCS", "Off-Campus Placement", "Registration", "Selection Process"]
 excerpt: "Want to get into TCS through off-campus? Complete guide covering the application process, aptitude test, interviews, and preparation strategy."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 Getting into TCS through the off-campus route is a specific skill that is learned, not a lottery that is won. The candidates who succeed consistently are those who understand the mechanics of the process deeply enough to act at the right moments, who have built the right skills to the right level, and who execute each stage with the combination of preparation and composure that the process rewards. This guide is the step-by-step execution manual for TCS off-campus placement - from the moment you register on NextStep to the moment you receive your offer. Every stage is covered in sufficient depth to enable genuine preparation, not just orientation.
 
-![A candidate at a computer working through NQT preparation materials, with the TCS NextStep portal visible in another tab - the off-campus placement preparation environment](/assets/images/blog/blog-21.webp)
+![A candidate at a computer working through NQT preparation materials, with the TCS NextStep portal visible in another tab - the off-campus placement preparation environment](/assets/images/blog/blog-51.webp)
 *TCS off-campus placement complete guide - step-by-step registration, eligibility verification, NQT preparation, interview execution, and offer management*
 
 The off-campus placement process rewards candidates who treat it as a project to be managed rather than a process to be waited through. Projects have planning phases, execution phases, risk management, and review cycles. The off-campus placement project has all of these. The planning phase involves registration, profile completion, and preparation. The execution phase involves taking the NQT and performing in interviews. The risk management involves monitoring for drive announcements, acting quickly when drives open, and having contingency plans when specific drives do not produce offers. The review cycle involves honest assessment after each attempt and targeted improvement before the next.

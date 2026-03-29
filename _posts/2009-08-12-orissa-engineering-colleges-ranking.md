@@ -5,7 +5,7 @@ date: 2009-08-12
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "This is one of the most sought after ranking list with so many engineering colleges in Orissa. After the tremendous response with the [West Bengal..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -16,5 +16,5 @@ Read more: [Mumbai Engineering Colleges Ranking »](https://insightcrunch.com/2
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Orissa Engineering Colleges](/assets/images/blog/blog-15.webp)
+![Orissa Engineering Colleges](/assets/images/blog/blog-75.webp)
 Orissa Engineering Colleges

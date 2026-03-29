@@ -5,7 +5,7 @@ date: 2023-03-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau tips and tricks for certification: LOD expressions, table calculations, dashboard design patterns, and the skills that separate pass from fail."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Keep Reading: [Demystifying Tableau Certification: Your Questions Answered »](h
 
 Tableau certification is a testament to your expertise in wielding the power of data visualization and analysis. It elevates your credibility and widens your scope within the dynamic world of data analytics.
 
-![Mastering Tableau: Tips and Tricks for Certification Success](/assets/images/blog/blog-48.webp)
+![Mastering Tableau: Tips and Tricks for Certification Success](/assets/images/blog/blog-78.webp)
 Mastering Tableau: Tips and Tricks for Certification Success
 
 ## The Journey Begins: Mastering Tableau's Complexities

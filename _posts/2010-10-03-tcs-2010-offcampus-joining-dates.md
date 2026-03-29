@@ -6,14 +6,14 @@ date: 2010-10-03
 categories: ["Industry"]
 tags: ["TCS", "Off-Campus", "Joining Date", "Campus vs Off-Campus"]
 excerpt: "Off-campus TCS candidates for 2010 batch are finally getting joining dates. The timeline, the slower pace, and what is left in the pipeline."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 A persistent observation in TCS fresher communities is that off-campus candidates receive joining dates later than their campus counterparts. The original article that prompted this rewrite notes exactly this pattern: off-campus candidates "had been a little disappointed for sometime now as their joinings weren't at the same pace as their on-campus counterparts." This guide explains why this pattern exists, how pronounced the difference is, what factors determine the specific off-campus timeline, and what off-campus candidates can do to manage the waiting period effectively.
 
-![A split view showing two parallel paths - a college campus placement drive on one side and an online NQT application portal on the other - representing the two routes through which TCS freshers enter the joining date waiting pool](/assets/images/blog/blog-16.webp)
+![A split view showing two parallel paths - a college campus placement drive on one side and an online NQT application portal on the other - representing the two routes through which TCS freshers enter the joining date waiting pool](/assets/images/blog/blog-46.webp)
 *TCS off-campus vs campus joining dates - why the timeline difference exists, how pronounced it is in different demand environments, how off-campus candidates can track their status, and what the waiting period means for preparation*
 
 The honest starting framing: the campus versus off-campus joining date difference is real but not absolute. In strong demand cycles, TCS brings in freshers from all sources at an accelerated pace, and the campus/off-campus difference compresses. In cautious cycles, the difference can be more pronounced, with off-campus candidates waiting significantly longer than their campus counterparts. Understanding the mechanism rather than only the outcome allows off-campus candidates to manage expectations more accurately and use the waiting period more productively.

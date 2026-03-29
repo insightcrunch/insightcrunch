@@ -5,7 +5,7 @@ date: 2016-09-14
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Getting an internal server error in Oracle DRM? Diagnostic steps, common causes, and the fixes that restore the application to normal operation."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-29
@@ -34,5 +34,5 @@ Everything looked fine, all services are up, restarting the application from DRM
 
 If this did not resolve your issue, there's [another possible scenario here](http://www.insightcrunch.com/2016/09/drm-web-client-internal-server-error.html).
 
-![DRM Internal Server Error](/assets/images/blog/blog-37.webp)
+![DRM Internal Server Error](/assets/images/blog/blog-07.webp)
 DRM Internal Server Error

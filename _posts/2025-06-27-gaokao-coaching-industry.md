@@ -6,14 +6,14 @@ date: 2025-06-27
 categories: ["Industry"]
 tags: ["高考", "高考辅导", "补习班", "双减政策", "校外培训", "Gaokao", "Coaching Industry", "Double Reduction", "Tutoring"]
 excerpt: "深度解析高考辅导产业：从千亿规模的繁荣到双减政策的历史性冲击，从线下补习班到线上平台的转型，以及双减之后高考生备考方式的全面演变与心理影响。"
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 高考，是中国最重要的考试，也催生了中国规模最庞大、渗透率最高的教育服务市场之一。在2021年"双减"政策出台之前，中国高考辅导市场以数千亿元的年营收规模，支撑着数万家补习机构的运转，服务着数以百万计的高中学生。这是一个围绕高考分数建立的完整产业生态，也是高考备考文化最直接的商业化体现。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-68.webp)
 *高考辅导产业完全指南：从千亿规模的鼎盛到双减政策的历史性冲击，再到当前备考方式的全面转型*
 
 2021年7月，教育部和国家发改委联合出台了"双减"政策（减轻义务教育阶段学生作业负担和校外培训负担），这一政策对中国教育培训行业形成了历史性冲击。然而，高考辅导与义务教育阶段的补习有所不同，双减政策对高中阶段（高考备考）辅导的影响，更为复杂和微妙。

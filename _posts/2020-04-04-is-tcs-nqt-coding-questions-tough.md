@@ -5,7 +5,7 @@ date: 2020-04-04
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "How hard are TCS NQT coding questions really? Difficulty compared to LeetCode, expected topics, and the minimum preparation that gets most people through."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 100
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Tata Consultancy Services conducts the National Qualifier Test (NQT) that is tak
 
 If you meet the TCS NQT eligibility criteria, you will be provided with an exam date. Int he TCS NQT exam you will be asked questions based on various topics like numerical ability, logical reasoning, verbal skills, and coding knowledge. The TCS NQT exam is a mixture of basic and advanced questions. Thus you need to make sure you have strong foundation of each of the concepts. Extensive practice will help you prepare for the TCS NQT exam comprehensively. I have created a dynamic set of practice exams below that you can attempt unlimited times and filter by topic, difficulty, and your expertise.
 
-![TCS NQT Coding Questions Aptitude Syllabus Eligibility Practice](/assets/images/blog/blog-52.webp)
+![TCS NQT Coding Questions Aptitude Syllabus Eligibility Practice](/assets/images/blog/blog-22.webp)
 TCS NQT Coding Questions
 
 ## TCS NQT Coding Questions

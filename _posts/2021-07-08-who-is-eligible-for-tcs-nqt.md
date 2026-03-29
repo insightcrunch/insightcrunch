@@ -6,14 +6,14 @@ date: 2021-07-08
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Eligibility Criteria", "Qualifications"]
 excerpt: "Can you take TCS NQT? Full eligibility details covering engineering and non-engineering degrees, percentage thresholds, backlog policies, and age limits."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 TCS NQT eligibility is not complicated in its core structure - but the details matter enormously. A candidate who misunderstands the backlog policy, misreads the course type requirement, or miscalculates their aggregate percentage may apply confidently and face disqualification during background verification months later. This guide covers every eligibility criterion with the precision needed to make a confident, accurate eligibility determination.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-03.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-63.webp)
 *The complete TCS NQT eligibility criteria guide - the full set of educational qualification requirements, the 60% threshold across all academic stages and exactly how it is calculated, the backlog and arrear policy in detail including what happens to cleared backlogs, the course type requirement and which exceptions exist, work experience limits and what counts, the age criterion and boundary cases, how many times you can attempt the NQT, what happens if you do not meet a criterion, and how eligibility is verified by TCS*
 
 Every criterion is covered with specific examples, boundary cases, and the practical implications for candidates who are at or near the eligibility boundaries.

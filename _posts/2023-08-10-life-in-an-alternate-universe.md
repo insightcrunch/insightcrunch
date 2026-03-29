@@ -5,14 +5,14 @@ date: 2023-08-10
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2023", "Thoughts"]
 excerpt: "What would your life look like in an alternate universe? A creative reflection on different choices, paths not taken, and the parallel lives we imagine."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 In an alternate universe, the contours of my life have been molded by divergent choices, unforeseen events, and the intricate interplay of chance. Stepping into this alternate reality unveils a tapestry of experiences and a version of myself that I might never have imagined.
 
-![](/assets/images/blog/blog-36.webp)
+![](/assets/images/blog/blog-06.webp)
 
 In this parallel existence, I find myself on a different trajectory from the one I know. My upbringing, aspirations, and daily routines have all taken unexpected turns. The most striking departure lies in my educational path. Instead of pursuing a career in technology, I followed my passion for environmental conservation, embarking on a journey as a marine biologist.
 

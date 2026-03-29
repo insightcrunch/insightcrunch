@@ -5,7 +5,7 @@ date: 2026-03-08
 categories: ['Industry']
 tags: ['CAT', 'MBA']
 excerpt: 'How to crack CAT for MBA admission. Section-wise strategy for VARC, DILR, QA with recommended books, mock schedules, and the mindset for 99+ percentile.'
-image: '/assets/images/blog/blog-36.webp'
+image: '/assets/images/blog/blog-06.webp'
 reading_time: 32
 author: 'Insight Crunch Team'
 last_updated: 2026-03-23
@@ -21,7 +21,7 @@ Over the years, CAT has also evolved in ways that make strategy even more import
 
 This guide is for first-time aspirants, repeat candidates, working professionals managing full-time jobs, and final-year students trying to balance academics with ambition. It is also for the student who has been studying for months but still feels scattered, and for the student who has not begun because the syllabus seems too large to enter. We will move from the architecture of the exam to self-assessment, then into a deep section-wise treatment of VARC, DILR, and QA. We will build a serious mock strategy, a phase-wise timeline, a mental framework for staying stable, and a resource system that prevents chaos. Along the way, we will also point you to one of the most practical ways to sharpen your preparation through repeated, pattern-rich exposure to real questions: [CAT Previous Year Question Papers on ReportMedic](https://reportmedic.org/tools/cat-previous-year-question-papers.html). Used correctly, it can become one of the most valuable parts of your preparation loop, because past papers are not just practice material. They are the exam speaking in its own voice.
 
-![The Definitive Guide to Cracking CAT](/assets/images/blog/blog-36.webp)
+![The Definitive Guide to Cracking CAT](/assets/images/blog/blog-06.webp)
 The Definitive Guide to Cracking CAT: A Strategic Blueprint for MBA Aspirants
 
 ## **2. Understanding the CAT Exam Architecture**

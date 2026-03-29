@@ -5,7 +5,7 @@ date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Tired of people copying your blog content? How to disable right-click and text selection on Blogger to protect your articles and images."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -59,5 +59,5 @@ document.onmouseup=reEnable
 </script>    
 ```
 
-![Disable Text Selection and Right Click Code](/assets/images/blog/blog-14.webp)
+![Disable Text Selection and Right Click Code](/assets/images/blog/blog-74.webp)
 Disable Text Selection and Right Click Code

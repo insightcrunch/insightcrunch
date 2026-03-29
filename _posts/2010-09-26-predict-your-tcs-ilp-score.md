@@ -6,14 +6,14 @@ date: 2010-09-26
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Score", "Grading System"]
 excerpt: "The ILP at TCS is a really great time for fresh candidates. A transformation phase between the college life and the brand new professional life. A lot of..."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Your TCS ILP score is the first formal performance measurement of your TCS career. It is not the last - projects, client feedback, manager assessments, and annual appraisals will all contribute to the performance record that shapes the trajectory of the career over years and decades. But the ILP score is the first, and first impressions in professional systems carry weight that later measurements can modify but not fully erase. Understanding how the ILP score is calculated, what a strong score looks like, how it influences the project allocation that follows ILP, and what the score means for the longer arc of the career - this is the knowledge that allows you to approach ILP performance with the right frame and the right preparation.
 
-![A performance dashboard showing assessment components, score distributions, and rating categories representing the TCS ILP grading system that evaluates freshers across technical assessments, business knowledge, and professional development components](/assets/images/blog/blog-27.webp)
+![A performance dashboard showing assessment components, score distributions, and rating categories representing the TCS ILP grading system that evaluates freshers across technical assessments, business knowledge, and professional development components](/assets/images/blog/blog-87.webp)
 *TCS ILP score complete guide - how scores are calculated across assessment components, what the grading categories mean, what score level influences project allocation, how to target the top range, and what ILP performance means for the long arc of a TCS career*
 
 The original source material for this article is brief and mostly factual: two tests during ILP training, the average of the two needs to be above fifty percent to progress. This guide expands significantly on that skeleton to provide the complete picture that a fresh trainee needs to understand and manage their ILP performance effectively.

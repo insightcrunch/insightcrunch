@@ -6,14 +6,14 @@ date: 2025-11-02
 categories: ["Industry"]
 tags: ["高考", "IIT-JEE", "高考对比", "中印考试", "考试比较", "Gaokao", "IIT-JEE", "Exam Comparison", "India vs China"]
 excerpt: "深度比较高考与IIT-JEE的数学难度、科目覆盖、考生竞争比例、辅导文化与职业影响，全面解析两大亚洲最强竞争性入学考试孰难孰易。"
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考与IIT-JEE（印度理工学院联合入学考试），分别是中国和印度最重要、最具竞争性的大学入学考试，也是全球教育比较研究中最受关注的两种理工科入学测试之一。两者都以极高的竞争强度和对数学物理的深度考查著称，都深刻影响着各自国家数千万年轻人的命运走向，也都代表着各自文化对精英教育资源分配方式的独特理解。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-19.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-79.webp)
 *高考vs IIT-JEE深度比较：从数学物理难度到竞争比例，从补习文化到职业影响，全面解析两种全球最具挑战性理工科入学考试的核心异同*
 
 本文将从多个维度系统比较高考与IIT-JEE：考试结构与科目覆盖的差异；数学与理科难度的精准对比；参考人数与录取率的竞争强度分析；中印两国迥异的补习文化与备考生态；以及两种考试证书在职业发展中的不同意义。

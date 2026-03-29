@@ -5,7 +5,7 @@ date: 2018-07-11
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "ODI SNP_SESSION table: the hidden gold mine for data analysts. Session metadata, execution history, and the queries that unlock deep pipeline insights."
-image: "/assets/images/blog/blog-51.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ The Oracle Business Intelligence Applications stack provides an array of tools d
 
 All of us are aware of this repository table **SNP_SESSION** in ODI, the unattractive component that shows lots of rows and numbers and dates, often just helps only to find specific information, and then we are done with it. In an environment where overnight several incremental loads consume around 6 hours daily, it generates lots of logs and data and writes to all the repository tables, including session level details in SNP_SESSION. All information of every session like rows processed, rows inserted, rows updated, period and filter variables used, duration taken, start time, end time - are logged in SNP_SESSION.
 
-![](/assets/images/blog/blog-51.webp)
+![](/assets/images/blog/blog-21.webp)
 
 To understand the prowess of SNP_SESSION, we need to get to a **few questions first**, and then the train of thoughts and discoveries can follow. For a session am interested in, what is the behavior of this session over the last 4 months? Does it have any pattern during specific periods? Does it have any relation with other sessions’ attributes? Does a data volume of another session or duration of a different session influence this? Since rows processed do not always proportionately impact session durations, does a % variance of a different session impact the session am interested in to an extent? Say in my today’s load, can I find which scenarios from the past repeated today, say with similar data volume or % variance in duration? Can I foresee untold information or what is going to happen as the loads progress by real-time analysis of the data?
 

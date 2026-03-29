@@ -6,7 +6,7 @@ date: 2020-03-04
 categories: ["Industry"]
 tags: ['SAT Passage Types', 'SAT Literary Passages', 'SAT Science Passages', 'SAT Social Science Passages', 'SAT Historical Passages', 'SAT Reading Passage Strategy', 'SAT Fiction Passages', 'SAT Evidence Based Reading']
 excerpt: "Master every SAT reading passage type including literary fiction, science, social science, and historical documents with tailored reading strategies and question approaches for each."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -17,7 +17,7 @@ Every SAT Reading and Writing question begins with a passage, and every passage 
 
 The passage-type framework exists because different genres of writing work differently. A novelist building character through implication operates by entirely different rules than a biologist reporting experimental results. A founding-era statesman making a political argument uses different rhetorical conventions than a sociologist analyzing institutional behavior. A poet compressing meaning into imagery requires a different kind of reading attention than a paired set of scientific abstracts that agree on facts but disagree on interpretation. The SAT tests all of these in the same section. The student who can shift reading gears efficiently across passage types will answer questions faster, with higher accuracy, and with less cognitive strain than the student who reads everything the same way.
 
-![SAT Reading Passage Types: Literature, Science, and History Strategies](/assets/images/blog/blog-03.webp)
+![SAT Reading Passage Types: Literature, Science, and History Strategies](/assets/images/blog/blog-63.webp)
 
 This guide provides the complete passage-type framework: what each type looks like, how to read it efficiently, which question types it generates, which wrong-answer traps are specific to it, and how to build competence with the types that give you the most trouble. Whether you struggle with literary passages, find science dense, or feel uncertain in the presence of archaic historical language, the strategies in this guide address the specific challenges each type presents.
 

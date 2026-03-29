@@ -5,14 +5,14 @@ date: 2024-10-12
 categories: ["Leisure"]
 tags: ["solo-dining", "portland", "restaurants", "portland-food", "eating-alone", "counter-dining", "bar-seating", "food-carts", "pearl-district", "alberta", "hawthorne", "craft-beer"]
 excerpt: "Where to eat alone in Portland. Bar-friendly restaurants, food cart pods, counter seating spots, and the neighborhoods where solo diners feel most welcome."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Portland is a city that was built for the solo diner. It is the city of food carts and craft beer, of farm-to-table restaurants and vegan diners, of third-wave coffee shops and natural wine bars, of a food culture so deeply committed to individuality, independence, and doing things your own way that eating alone here feels not like a compromise but like the natural state of affairs. It is a city where the food cart pod, that uniquely Portland institution of clustered food trucks with communal seating and a beer garden, is the most democratic and solo-friendly dining format in America. It is a city where the solo diner at a ramen counter, a wine bar, or an omakase seat is so common that the restaurants have designed their spaces around this customer, with counter seating, individual portions, and a culture of leaving people alone to enjoy their food in peace.
 
-![Best Restaurants for Solo Dining in Portland](/assets/images/blog/blog-03.webp)
+![Best Restaurants for Solo Dining in Portland](/assets/images/blog/blog-63.webp)
 
 This guide is the most thorough resource ever assembled on solo dining in Portland. It covers every major neighborhood from the Pearl District to Alberta, from Hawthorne to Division, from Mississippi to Sellwood, from Northwest to the Inner Southeast. It spans every cuisine from Pacific Northwest seasonal to Thai tasting menus, every price point from a four-dollar food cart plate to a two-hundred-dollar omakase, and every dining format from food cart windows to chef's counters. Whether you are a lifelong Portlander, a transplant drawn by the city's reputation for food and weirdness, a tourist who heard that Portland is one of the best food cities in America (it is), or a solo traveler who wants to eat their way through the Pacific Northwest, this guide exists to serve you.
 

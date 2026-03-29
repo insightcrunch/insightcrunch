@@ -6,7 +6,7 @@ date: 2020-05-23
 categories: ["Industry"]
 tags: ['SAT Error Analysis', 'SAT Mistake Journal', 'SAT Error Log', 'SAT Error Review', 'SAT Mistake Tracker', 'SAT Error Categorization', 'SAT Wrong Answers Analysis', 'SAT Targeted Improvement']
 excerpt: "The complete guide to SAT error analysis and mistake journaling covering error categorization, pattern identification, targeted remediation, and how systematic error analysis drives score improvement."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ Every wrong answer on an SAT practice test contains more preparation value than 
 
 This distinction, between treating errors as outcomes and treating errors as information, is the central insight behind effective SAT error analysis. The student who reviews a practice test by checking answers and moving on will improve much more slowly than the student who asks, for each wrong answer: Why did I get this wrong? What does that tell me about my preparation? What specific action will I take to prevent this error from recurring? The second student is not just practicing; they are engaging in the most efficient form of targeted preparation available.
 
-![SAT Error Analysis and Mistake Journal Guide](/assets/images/blog/blog-29.webp)
+![SAT Error Analysis and Mistake Journal Guide](/assets/images/blog/blog-59.webp)
 
 This guide covers the complete error analysis methodology from first principles through advanced application: why error analysis outperforms additional undirected practice, the five-category error classification system that reveals what each mistake means for your preparation, the mistake journal structure that captures and organizes diagnostic information across multiple tests, how error patterns shift as scores improve, how to convert journal insights into specific targeted study sessions, and how systematic error analysis has driven documented score improvements for students who apply the methodology consistently and completely.
 

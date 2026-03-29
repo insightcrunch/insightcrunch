@@ -5,7 +5,7 @@ date: 2009-12-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Facebook finally gives users real privacy controls. Per-post audience selection, granular settings, and why this update was long overdue."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -14,7 +14,7 @@ Facebook, the popular networking site, is finally rolling out some much talked a
 
 Read more: [E-Book Readers: Battle like never before »](https://insightcrunch.com/2009/12/28/e-book-readers-battle-like-never-before/)
 
-![Facebook Privacy Settings](/assets/images/blog/blog-07.webp)
+![Facebook Privacy Settings](/assets/images/blog/blog-37.webp)
 Facebook Privacy Settings
 
 Facebook CEO Mark Zuckerberg has written an open letter to all it’s users about this change which will surely have a large impact on the current and future developments of this company.

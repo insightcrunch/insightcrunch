@@ -5,14 +5,14 @@ date: 2020-11-06
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau Catch-22: when raw data looks nothing like what you need. Practical approaches to transforming unstructured text and numbers into visual insights."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 It seldom comes as a surprise when a fascinating vision of deriving insights starts with tons of bytes of texts and numbers looking like anything but structured to start with. An engagement gets all the more exciting while engaging with a pool of bright data individuals, and a great pleasure to be able to interact with a thoughtful team discussing the subtle intricacies and popular industry challenges and solutions. The tougher the path became, the more exciting the discussions became, often for hours.
 
-![](/assets/images/blog/blog-22.webp)
+![](/assets/images/blog/blog-52.webp)
 
 If we push a data long enough, it will take a shape or form that we might be looking for it to get to. This is a scenario we would like to stay away from, stay unbiased, and prep the data to the fullest form of its usability. The analysis of the raw data is what can be called the most painful and time-consuming of all. Something that seems a mere non-classifier is an excellent piece when combined with another, or maybe not just one more, a few more. There is no guarantee that the data will learn to talk to us easily, hence we went down the path for weeks, implementing all our concepts and techniques along the way of prepping data. With quite a few tools at our disposal and picking up a few more along the way, things slowly turned to take the form which finally seemed insightful enough to all of us.
 

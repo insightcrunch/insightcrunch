@@ -5,14 +5,14 @@ date: 2024-10-22
 categories: ["Leisure"]
 tags: ["solo-dining", "san-diego", "restaurants", "san-diego-food", "eating-alone", "counter-dining", "bar-seating", "fish-tacos", "little-italy", "gaslamp", "north-park", "craft-beer"]
 excerpt: "Where to eat alone in San Diego. Bar seating, waterfront restaurants, counter service spots, and the best neighborhoods for comfortable solo dining."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 San Diego is a city that was made for eating outside, alone, with the Pacific Ocean on one side and a plate of fish tacos on the other. It is a city of perpetual sunshine and seventy-degree days, of beach towns and border flavors, of craft breweries and taco shops and a dining scene that has quietly, steadily grown from "fish tacos and burgers" into one of the most exciting and diverse in California. It is a city where the solo diner at a counter overlooking the ocean, eating a Baja-style fish taco with a cold cerveza while the surf breaks a hundred yards away, is not a person eating alone. They are a person living the San Diego life, and the life is very, very good.
 
-![Best Restaurants for Solo Dining in San Diego](/assets/images/blog/blog-47.webp)
+![Best Restaurants for Solo Dining in San Diego](/assets/images/blog/blog-17.webp)
 
 This guide is the most thorough resource ever assembled on solo dining in San Diego. It covers every major neighborhood from the Gaslamp Quarter to Little Italy, from North Park to La Jolla, from Ocean Beach to the Convoy District, from Barrio Logan to Encinitas. It spans every cuisine from Baja-style fish tacos to Michelin-starred French, every price point from a three-dollar street taco to a three-hundred-dollar tasting menu, and every dining format from food truck windows to chef's counters. Whether you are a lifelong San Diegan, a military member stationed at one of the city's many bases, a tourist who came for the zoo and the beaches and discovered the food, or a solo traveler who heard that San Diego's dining scene is having a moment (it is), this guide exists to serve you.
 

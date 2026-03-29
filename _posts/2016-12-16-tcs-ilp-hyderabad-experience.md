@@ -5,7 +5,7 @@ date: 2016-12-16
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "The most detailed TCS ILP Hyderabad post: day-by-day training account, hostel facilities, Hyderabad exploration, and advice for incoming batches."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-23

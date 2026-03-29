@@ -6,14 +6,14 @@ date: 2024-09-28
 categories: ["Industry"]
 tags: ["高考数学", "三角函数", "三角恒等变换", "Gaokao Math", "Trigonometry"]
 excerpt: "Master Gaokao trigonometry - identities, formulas, graph transformations, and triangle problem strategies."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学三角函数专题，是贯穿高中数学的重要模块之一，也是历年高考中分值稳定、命题丰富的核心考察领域。三角函数连接了代数运算与几何图形，将抽象的角度变化转化为优美的周期性函数曲线，并通过正弦定理和余弦定理将三角函数与三角形求解紧密联系。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-34.webp)
 *高考数学三角函数深度解析：三角恒等变换、辅助角公式、图像变换与正余弦定理全攻略*
 
 本文系统覆盖高考三角函数专题的所有核心内容：基本三角函数的定义与性质、三角恒等变换公式体系（和差化积、积化和差、二倍角公式）、辅助角公式的综合应用、三角函数图像的变换规律、以及正弦定理和余弦定理在解三角形中的完整应用。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在三角函数专题建立从基础到综合的完整解题体系。

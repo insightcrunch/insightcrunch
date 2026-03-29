@@ -5,14 +5,14 @@ date: 2019-12-09
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Ahmedabad", "Gandhinagar", "Fresher", "Hostel", "Infocity", "Gujarat", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Ahmedabad for ILP associates. Covers the Infocity Gandhinagar campus, Vedika Happy Valley and studio apartment accommodation, the Gujarat dry state policy, Gujarati food culture, extreme climate considerations, room quality, costs, female associate housing, weekend destinations including the Rann of Kutch and Somnath, and everything you need to know before arriving for ILP in Gujarat's twin-city IT hub."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The first thing to understand about TCS ILP Ahmedabad is that it is not actually in Ahmedabad. The TCS ILP campus is located at Infocity in Gandhinagar, the capital city of Gujarat, which sits approximately 25 kilometres north of Ahmedabad. Gandhinagar is a planned city, laid out in numbered sectors with wide roads, abundant greenery, and a calm, ordered atmosphere that is the polar opposite of the dense, bustling energy of old Ahmedabad. This distinction matters because the accommodation, the food, the transport, and the daily experience are all shaped by the Gandhinagar environment rather than by Ahmedabad itself.
 
-![TCS Accommodation Ahmedabad - Complete Hostel and Housing Guide](/assets/images/blog/blog-38.webp)
+![TCS Accommodation Ahmedabad - Complete Hostel and Housing Guide](/assets/images/blog/blog-68.webp)
 TCS Accommodation Ahmedabad - Complete Hostel and Housing Guide
 
 The second thing to understand is that Gujarat is a dry state. Alcohol is legally prohibited throughout Gujarat, and this policy applies to the accommodation, the campus, and the surrounding area. For associates from states where a weekend beer or a celebration drink is part of social life, this is a cultural adjustment that is best accepted upfront rather than tested through workarounds.

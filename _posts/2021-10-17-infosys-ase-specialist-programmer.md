@@ -6,14 +6,14 @@ date: 2021-10-17
 categories: ["Industry"]
 tags: ["Infosys ASE", "Infosys Specialist Programmer", "Infosys SP", "Infosys ASE Role", "Infosys Specialist Programmer Salary", "Infosys SP Selection", "Infosys Premium Tracks", "Infosys DSE vs SP vs PP"]
 excerpt: "Complete guide to the Infosys ASE and Specialist Programmer roles: what they are, how selection works, salary differences, career trajectory, and how they compare to SE and PP tracks."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Infosys hiring structure for freshers is more layered than most students realize. Most candidates preparing for Infosys think in terms of two tracks: the standard Systems Engineer route and the Power Programmer route for competitive programming champions. The reality includes additional designations and role types that sit between or alongside these two extremes, and understanding them fully changes how a candidate approaches preparation, which hiring channels to target, and what career outcomes to realistically expect.
 
-![Infosys ASE and Specialist Programmer Guide](/assets/images/blog/blog-25.webp)
+![Infosys ASE and Specialist Programmer Guide](/assets/images/blog/blog-55.webp)
 
 This guide covers the Infosys Associate Software Engineer (ASE) role and the Specialist Programmer (SP) designation in comprehensive detail. It answers the questions that candidates most need answered: what exactly these roles are, how they differ from the SE, DSE, and PP tracks, what the eligibility and selection criteria are, what the salary and compensation look like, how the [Mysore training](https://insightcrunch.com/2021/07/21/infosys-mysore-training/) and post-training experience differs, what the career trajectory looks like from year one through year ten, and critically, which candidates should target which track and why.
 

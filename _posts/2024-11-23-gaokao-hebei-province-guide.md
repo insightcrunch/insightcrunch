@@ -6,14 +6,14 @@ date: 2024-11-23
 categories: ["Industry"]
 tags: ["高考", "河北高考", "衡水中学", "河北分数线", "Hebei Gaokao", "Provincial Guide"]
 excerpt: "最全面的河北高考指南，深度解析衡水中学现象与衡水模式、3+1+2选科策略、北京毗邻效应与户籍迁移争议、河北高考竞争格局及各类型考生的完整备考方案。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 在中国高考版图上，河北是一个充满矛盾张力的省份。它紧邻中国最富集教育资源的北京，却因为户籍制度的壁垒，无法让本省考生直接分享首都的高校红利；它的考生人数超过80万，是全国高考竞争最激烈的省份之一，却因为省内缺乏顶尖高校而面临"强省份、弱高校"的困境；它诞生了全国最著名、争议最大的高中教育符号：衡水中学，以"军事化管理、全封闭备考"的极致内卷方式，每年将大批农村和普通家庭的孩子送进清华北大，同时也在全国范围内引发了关于教育本质与高考功利化的深刻争论。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-31.webp)
 *河北高考：衡水中学现象、北京毗邻效应、80万考生的激烈竞争与破局之道*
 
 河北高考的故事，是中国高考制度最复杂、最具代表性的缩影之一。它折射出城乡教育差距、省际录取不公平、教育资源配置失衡等一系列深层的社会问题，也展示了在极度压力下，无数普通家庭的孩子如何凭借坚韧的意志力和超强的备考纪律，在最激烈的竞争中为自己争得一席之地。

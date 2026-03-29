@@ -6,14 +6,14 @@ date: 2024-08-27
 categories: ["Industry"]
 tags: ["高考数学", "排列组合", "二项式定理", "Gaokao Math", "Combinatorics"]
 excerpt: "Master Gaokao counting - permutations, combinations, binomial theorem, and every classic combinatorial model."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学排列组合专题，是高中数学中最考察逻辑思维和分类讨论能力的板块之一。排列组合以计数原理为基础，将实际问题抽象为有序或无序的选取问题，通过精确的公式和灵活的思维方法，计算各种复杂情况下的可能数目。这个专题不只出现在选择填空题中，更经常作为概率统计大题的基础，是高考数学不可忽视的核心考点。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-48.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-78.webp)
 *高考数学排列组合深度解析：计数原理、排列数、组合数、二项式定理与经典模型全攻略*
 
 本文系统覆盖高考排列组合专题的所有核心内容：加法原理和乘法原理的精确运用、排列数和组合数的定义与计算、排列组合的常见题型（特殊元素优先、捆绑法、插空法、隔板法）、二项式定理及其高频考点，以及排列组合与概率的综合应用。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在排列组合专题建立完整的解题体系。

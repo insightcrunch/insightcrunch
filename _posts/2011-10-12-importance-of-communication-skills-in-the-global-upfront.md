@@ -5,7 +5,7 @@ date: 2011-10-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Technical skills get you hired, communication skills get you promoted. Why soft skills are the real differentiator in the global IT workplace."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -16,7 +16,7 @@ The need of effective and potent communication is becoming more and more cardina
 
 I remember attending a seminar on '**Requirement Analysis**' and that embarked upon communication bridging different cultures. We were told that training was specifically given to say 'No' to employees working with foreign clients because we as Indians sometimes are inclined to reply in the affirmative even when the requirements can't be fulfilled.We were also told a humorous situation in which the foreign client nodded his head when he meant something else.. Thumbs up is considered vulgar in Argentina where as in French it says to be Okay. Non verbal communication comprises maximum of exchange of ideas between persons . As studies show , one is more likely to believe what he/she watches rather than what he/she listens. Learning such subtle responses and tones help you to earn respect even if you are not able to converse in the verbal form(Local language). 
 
-![Communication Skill Benefits](/assets/images/blog/blog-17.webp)
+![Communication Skill Benefits](/assets/images/blog/blog-77.webp)
 Communication Skill Benefits
 
 Good** interpersonal** skills , innovation will always lead to a better economy , better business for a company. Collocation , strategic decisions , responsibility are all complimentary to neat communication.One must be aware of the budding errors which occur in communication , One might say something but it may mean something else. Good orators enhance their skills using the right attitude , tone , respect and panache.Global communication requires sensitivity , subtlety and appreciation for one's culture. You should be clear and easy to understand , Many of my friends have an inherent feeling to speak quick and mean nothing.(In English). In every circular of job openings , *must have good communication skills *is something which is always present.Today's competitiveness in global upfront ensures that employers value communication skills more than the technical aspects ,The dexterity to mix with other people , the notion of being gregarious ,  the organization and the management of words at the right time gives an edge. I must confess , I hate articles and people who smell of bad grammar. If you are not sure , better don't try to be fancy but never make a mockery of the language. I have personally seen some of my friends fall down dramatically in a telephonic or face to face interviews only because they meant something but their words meant something else. 

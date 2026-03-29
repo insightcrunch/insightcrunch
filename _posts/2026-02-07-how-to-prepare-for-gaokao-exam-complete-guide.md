@@ -5,7 +5,7 @@ date: 2026-02-07
 categories: ['Analytics']
 tags: ['高考', '备考策略', '学习方法']
 excerpt: '高考怎么考出高分？语文数学英语理综文综各科备考方法详解、错题本高效使用技巧、模考数据分析策略和考前心态管理全面覆盖。'
-image: '/assets/images/blog/blog-14.webp'
+image: '/assets/images/blog/blog-44.webp'
 reading_time: 35
 author: 'Insight Crunch Team'
 last_updated: 2026-03-23
@@ -20,7 +20,7 @@ last_updated: 2026-03-23
 
 本指南适用于高三冲刺阶段的考生、高二提前启动备考的学生、正在经历复读的考生、以及试图帮助孩子建立备考系统的家长。我们将从考试架构出发，逐步深入各科备考方法论，构建严肃的模考策略、阶段性时间规划、心理管理框架和资源选择体系。在这一过程中，我们也将指向一种被严重低估的备考工具：对真题的系统性、反复性使用。通过 [ReportMedic 的高考真题练习平台](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)，你可以与高考的"原始语言"保持持续接触，这比任何模拟题都更接近考试本身的逻辑纹理。
 
-![高考备战全攻略](/assets/images/blog/blog-14.webp)
+![高考备战全攻略](/assets/images/blog/blog-44.webp)
 高考备战全攻略：从考试架构到心态管理的系统性指南
 
 ## **2. 理解高考的考试架构**

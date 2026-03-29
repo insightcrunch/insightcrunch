@@ -6,7 +6,7 @@ date: 2021-02-03
 categories: ["Industry"]
 tags: ['SAT 1200 to 1400', 'SAT Score Improvement', 'SAT 1400 Strategy', 'SAT Mid Range Improvement', 'SAT Plateau Breakthrough', 'SAT Intermediate Strategy', 'SAT Targeted Practice', 'SAT Weakness Analysis']
 excerpt: "The complete guide to improving from a 1200 to 1400 SAT score by targeting specific weaknesses, refining strategies, and building test-taking precision."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ If you are scoring around 1200, you have already done the hard part: you have bu
 
 This distinction matters because it changes how you should study. At the 1000 level, studying more of anything helped because almost everything was a gap. At the 1200 level, studying more of everything is inefficient because most topics are no longer gaps. Your improvement now comes from identifying the specific 10 to 15 question types that are causing your errors and addressing each one surgically. Broad, unfocused study produces diminishing returns. Targeted, diagnostic-driven study produces the 200-point jump you are looking for.
 
-![How to Improve SAT Score from 1200 to 1400](/assets/images/blog/blog-26.webp)
+![How to Improve SAT Score from 1200 to 1400](/assets/images/blog/blog-86.webp)
 
 This guide is designed specifically for students in the 1150 to 1250 range who want to break into the 1350 to 1400+ territory. It assumes you have the foundational skills covered (basic algebra, core grammar rules, reading comprehension basics) and focuses on the intermediate-to-advanced strategies, the targeted practice methodology, and the error analysis discipline that produce a 200-point improvement at this level. If you are below 1150, start with the 1000-to-1200 guide first to build your foundations, then return here.
 
