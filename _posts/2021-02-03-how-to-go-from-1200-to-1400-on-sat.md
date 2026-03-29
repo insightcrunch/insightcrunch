@@ -9,7 +9,7 @@ excerpt: "The complete guide to improving from a 1200 to 1400 SAT score by targe
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 # How to Go from 1200 to 1400 on the SAT
 

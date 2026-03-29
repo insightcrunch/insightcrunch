@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-29T17:54:54Z",
-  "total_posts": 994,
-  "flagged_posts": 45,
+  "generated": "2026-03-29T17:58:10Z",
+  "total_posts": 1000,
+  "flagged_posts": 51,
   "clean_posts": 949,
   "posts": [
     {
@@ -115,6 +115,150 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2023-11-05-gaokao-scu-admission-guide.md",
+      "slug": "gaokao-scu-admission-guide",
+      "url": "/2023/11/05/gaokao-scu-admission-guide/",
+      "title": "四川大学高考录取完全指南 - 西部综合名校与华西医学的传承",
+      "page_title": "四川大学高考录取指南 - 华西医学院实力、文史哲底蕴、成都生活魅力、各省分数线与报考策略全面解析",
+      "has_page_title": true,
+      "date": "2023-11-05",
+      "word_count": 504,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 36
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-11-13-gaokao-hit-admission-guide.md",
+      "slug": "gaokao-hit-admission-guide",
+      "url": "/2023/11/13/gaokao-hit-admission-guide/",
+      "title": "哈尔滨工业大学高考录取完全指南 - 航天国防旗舰与C9联盟工科强校",
+      "page_title": "哈尔滨工业大学高考录取指南 - 航天国防特色、三大校区解析、各省分数线、强基计划与报考策略全面解读",
+      "has_page_title": true,
+      "date": "2023-11-13",
+      "word_count": 524,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 39
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-11-21-gaokao-xjtu-admission-guide.md",
+      "slug": "gaokao-xjtu-admission-guide",
+      "url": "/2023/11/21/gaokao-xjtu-admission-guide/",
+      "title": "西安交通大学高考录取完全指南 - 西部C9名校的工程与能源优势解析",
+      "page_title": "西安交通大学高考录取指南 - 西迁精神传承、工科实力、强基计划、各省分数线与报考策略全面解析",
+      "has_page_title": true,
+      "date": "2023-11-21",
+      "word_count": 486,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 48
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-11-29-gaokao-tju-admission-guide.md",
+      "slug": "gaokao-tju-admission-guide",
+      "url": "/2023/11/29/gaokao-tju-admission-guide/",
+      "title": "天津大学高考录取完全攻略 - 分数线、化工建筑机械强势专业、北洋传统与天津就业优势",
+      "page_title": "天津大学高考录取攻略 - 各省分数线、化学工程建筑学机械工程优势专业、强基计划、北洋精神传承与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2023-11-29",
+      "word_count": 414,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 5
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-12-07-gaokao-nankai-admission-guide.md",
+      "slug": "gaokao-nankai-admission-guide",
+      "url": "/2023/12/07/gaokao-nankai-admission-guide/",
+      "title": "南开大学高考录取完全攻略 - 分数线、经济学化学数学强势专业、周恩来精神传承与天津就业优势",
+      "page_title": "南开大学高考录取攻略 - 各省分数线、经济学化学数学优势专业、强基计划、南开与天津大学对比及志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2023-12-07",
+      "word_count": 400,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 5
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-12-15-gaokao-seu-admission-guide.md",
+      "slug": "gaokao-seu-admission-guide",
+      "url": "/2023/12/15/gaokao-seu-admission-guide/",
+      "title": "东南大学高考录取完全攻略 - 分数线、建筑土木电子信息生物医学工程强势专业与报考策略",
+      "page_title": "东南大学高考录取攻略 - 各省分数线、建筑土木电子信息生物医学工程优势专业、强基计划与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2023-12-15",
+      "word_count": 411,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 5
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2023-12-23-gaokao-tongji-admission-guide.md",

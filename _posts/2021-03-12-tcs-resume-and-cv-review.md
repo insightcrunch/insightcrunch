@@ -5,11 +5,11 @@ page_title: "TCS Resume and CV Guide - Format, Template, What TCS Looks For, Com
 date: 2021-03-12
 categories: ["Industry"]
 tags: ["TCS", "Resume", "CV Format", "Resume Tips"]
-excerpt: "TCS resume tips: formatting that works, skills to highlight, common mistakes to avoid, and how to make your CV stand out in the TCS screening process."
+excerpt: "Writing a resume for TCS? The format that gets past screening, must-have sections, skills to emphasize, and the mistakes that get CVs rejected."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 Your resume is the first thing TCS sees before it meets you. It determines whether you advance to an interview or disappear into the unread pile. For fresher candidates, the resume is particularly critical because it is doing heavy lifting for a person with limited professional experience - it must make a strong case based primarily on education, projects, and potential.
 

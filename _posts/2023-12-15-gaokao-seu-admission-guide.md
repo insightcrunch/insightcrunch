@@ -6,14 +6,14 @@ date: 2023-12-15
 categories: ["Industry"]
 tags: ["高考", "东南大学", "录取分数线", "东大建筑", "Southeast University", "985"]
 excerpt: "最全面的东南大学高考报考指南，涵盖各省录取分数线、建筑土木电子信息生物医学工程顶尖专业解析、强基计划申请条件、江苏主场优势分析与南京就业生态，以及针对不同省份考生的差异化志愿填报策略，助你叩开江苏工科第一名校的大门。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 东南大学，简称"东大"或"SEU"，是中国最具历史积淀与工科实力的顶尖研究型大学之一，教育部直属的"985工程"和"211工程"重点建设高校，"双一流"A类建设高校。东南大学坐落于江苏省南京市，以其在建筑学、土木工程、电子信息工程、生物医学工程、交通运输工程等领域的全国顶尖乃至国际知名的学科实力，在中国高等工程教育中占据举足轻重的地位。东大是继南京大学之后江苏省综合实力最强的高校，也是中国工科高校中历史最悠久、学科积淀最深厚的院校之一，被誉为"江苏工科第一校"。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-79.webp)
 *东南大学高考录取攻略 - 建筑土木电子信息生物医学工程强势专业、强基计划与各省志愿填报策略全面解析*
 
 对于有志于建筑设计、土木工程、电子信息、生物医学工程等领域的考生而言，东南大学提供的是中国乃至全球范围内最顶尖的相关专业教育和就业资源。本文将系统介绍东大的历史地位、核心优势专业、强基计划政策、各省录取分数线参考、东大与同济等强校的横向比较，以及针对不同类型考生的志愿填报策略，帮助你全面认识东大、做出最理性的报考决策。
