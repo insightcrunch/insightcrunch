@@ -5,11 +5,11 @@ page_title: "TCS ILP Trivandrum Memories - Trainee Stories, Memorable Moments, F
 date: 2017-12-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Trivandrum", "Trainee Memories"]
-excerpt: "Looking back at TCS ILP Trivandrum. The training, the people, the backwaters, and why those few months of ILP become some of the most vivid career..."
+excerpt: "This is a guest post by Aman Gupta. The views expressed are of the author."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 There are career experiences you remember in outline - the job you had, the company you worked for, the projects you contributed to. And then there are experiences you remember in texture - the specific smell of a morning, the exact feeling of a friendship forming in real time, the precise moment something difficult became beautiful. TCS ILP Trivandrum is the second kind.
 

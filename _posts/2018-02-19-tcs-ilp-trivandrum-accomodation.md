@@ -4,11 +4,11 @@ title: "TCS ILP Trivandrum Accommodation"
 date: 2018-02-19
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "What is TCS ILP Trivandrum accommodation like? Room setup, hostel facilities, mess food quality, nearby shops, and the items you should bring from home."
+excerpt: "This is a guest post. The views expressed are of the author."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 35
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 This is a guest post. The views expressed are of the author.
 

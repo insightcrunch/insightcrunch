@@ -4,11 +4,11 @@ title: "TCS ILP Ahmedabad Experience Journey"
 date: 2018-05-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "The complete TCS ILP Ahmedabad story. From arrival to completion, covering training, assessments, hostel routines, Ahmedabad food, and career realizations."
+excerpt: "This is a guest post. The views expressed are of the author."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 35
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 This is a guest post. The views expressed are of the author.
 

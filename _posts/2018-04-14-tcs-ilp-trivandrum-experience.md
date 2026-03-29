@@ -4,11 +4,11 @@ title: "TCS ILP Trivandrum Experience"
 date: 2018-04-14
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "Inside TCS ILP Trivandrum: a comprehensive fresher account of the training cycle, assessment strategies, making friends, and exploring Kerala on weekends."
+excerpt: "This is a guest post. The views expressed are of the author."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 35
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 This is a guest post. The views expressed are of the author.
 
