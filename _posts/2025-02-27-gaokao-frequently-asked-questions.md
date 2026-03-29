@@ -6,14 +6,14 @@ date: 2025-02-27
 categories: ["Industry"]
 tags: ["高考", "高考FAQ", "高考问答", "高考常见问题", "Gaokao", "FAQ", "Questions and Answers", "Complete Guide"]
 excerpt: "高考常见问题大全：100+个最常被问到的高考问题完整解答，覆盖报考资格、评分体系、备考策略、考试当天注意事项、成绩查询、大学录取流程、复读政策、特殊情况处理，以及高考的国际视角。"
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 高考，是中国教育体系中最重要的节点，也是每年数以千万计的学生和家长最关心的话题。围绕高考，有无数的问题需要解答：什么时候报名？成绩怎么算？万一发挥失常怎么办？志愿如何填报才不浪费分数？
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-10.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-30.webp)
 *高考FAQ大全：100+个最常被问到的高考问题，一文全面解答*
 
 本文汇集了高考最常被问到的100+个问题，分为以下几大类别：基本概况与历史、报考资格与流程、考试科目与评分、备考策略、考试当天实务、成绩与复查、志愿填报与录取、复读与特殊情况、国际视角，以及高考改革相关问题。

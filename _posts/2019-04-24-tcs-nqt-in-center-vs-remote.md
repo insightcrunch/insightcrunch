@@ -5,7 +5,7 @@ date: 2019-04-24
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Should you take TCS NQT at a center or remotely? Honest comparison of proctoring strictness, technical glitches, environment comfort, and pass rates."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,7 +20,7 @@ This article covers everything a serious TCS NQT candidate needs to know: the fu
 
 For a structured, ready-to-use preparation resource, the [TCS NQT Preparation Guide on ReportMedic](https://reportmedic.org/tools/tcs-nqt-preparation-guide.html) is one of the most comprehensive available. And for those who have already cleared the NQT and are preparing for the ILP, the [TCS ILP Preparation Guide on ReportMedic](https://reportmedic.org/tools/tcs-ilp-preparation-guide.html) covers that next stage in detail.
 
-![TCS NQT In-center vs Remote Eligibility Syllabus Preparation Materials Practice Questions Mock Test Salary Package Freshers Exam Date](/assets/images/blog/blog-03.webp)
+![TCS NQT In-center vs Remote Eligibility Syllabus Preparation Materials Practice Questions Mock Test Salary Package Freshers Exam Date](/assets/images/blog/blog-23.webp)
 TCS NQT In-center vs Remote
 
 ---

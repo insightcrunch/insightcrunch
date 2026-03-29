@@ -6,14 +6,14 @@ date: 2023-09-05
 categories: ["Industry"]
 tags: ["TCS Ninja registration", "TCS Ninja hiring", "TCS Ninja process", "TCS Ninja selection"]
 excerpt: "The complete TCS Ninja journey mapped out - registration, written test, interviews, offer letter, and joining. Every step covered."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The TCS Ninja hiring process is one of the most structured, highest-volume campus recruitment processes in India. Tens of thousands of candidates apply through a common portal, sit the same test, and move through the same interview stages every hiring cycle. Because the process is so standardised, knowing it in detail is itself a competitive advantage - candidates who understand every step, every document requirement, and every evaluation criterion walk through each stage with confidence while others lose marks through process errors that have nothing to do with their actual ability. This guide maps every stage of the TCS Ninja journey from the moment you open the Next Step portal to the morning of your first day at TCS.
 
-![TCS Guide](/assets/images/blog/blog-09.webp)
+![TCS Guide](/assets/images/blog/blog-29.webp)
 
 ## What TCS Ninja Is
 

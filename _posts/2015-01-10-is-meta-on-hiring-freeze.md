@@ -4,11 +4,11 @@ title: "Is Meta on hiring freeze?"
 date: 2015-01-10
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta hiring freeze status: how the ongoing recession affects recruitment, which roles are still open, and the timeline for returning to normal hiring."
-image: "/assets/images/blog/blog-10.webp"
+excerpt: "Is Meta still on a hiring freeze? The current state of recruitment, recession impact on tech hiring, and signs of when Meta might resume."
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 
@@ -26,7 +26,7 @@ Virtual reality was one of the new segments that Meta was excited about. Meta re
 
 Meta is focused on building new concepts that fit into their long term roadmap and vision in the virtual reality segment that will form a part of the Metaverse. Besides Meta, it has to be noted in that all the technology companies will be focused on expanding their market share in the Metaverse. In the last several years, there have been multiple teams that had been built in Meta to compete with Zoom, and teams which were supposed to build features of shopping. Many of these roles are now no longer in demand at Meta. There is also no new hiring going on for vacancies required to fill positions in these projects. There is a freeze in hiring in Meta for various engineering roles. There is a pause in hiring of any new recruiters in Meta along with data scientists. CEO Mark Zuckerberg has said that the fear of layoffs cannot be ruled out. That hiring freezes might definitely lead to layoffs is what employees are fearing right now. The senior management at Meta has clearly mentioned that layoffs might have to be considered in the long run. The senior management at Meta has announced that their expectation is not to lay off employees. The organization is trying to manage their priorities and optimize their existing employee strength.
 
-![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-10.webp)
+![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-30.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta Layoff Process

@@ -5,7 +5,7 @@ date: 2012-02-16
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "Software engineers all over the world were at some time or the other taught in their initial days some best practices to treat as the Bible while..."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -16,7 +16,7 @@ Software engineers all over the world were at some time or the other taught in t
 
 Often we will see Oracle, Java, Unix or for that matter codes written in any technology, often named without following the convention and reveals little about the utility of the piece of code. A coder when looks at the file in the future will have little or no idea as to what it was written for until he goes through each an every line of the code. Imagine the amount of time lost for the simple task of getting to know the functionality of a few hundred lines of code. Always include at least a few words of comment for each code block, naming conventions,  snapshot of the code (with the author name, version history, purpose). A few seconds taken by you will save many people in the future from putting their brains out to figure out the purpose of a code.
 
-![Software Engineering Best Practices](/assets/images/blog/blog-03.webp)
+![Software Engineering Best Practices](/assets/images/blog/blog-23.webp)
 Software Engineering Best Practices
 
 ## Development Team in UAT

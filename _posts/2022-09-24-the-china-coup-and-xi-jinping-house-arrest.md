@@ -5,7 +5,7 @@ date: 2022-09-24
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "China coup rumors and Xi Jinping house arrest claims: what the internet speculated in September 2022, the evidence, and what actually happened."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 8
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -37,7 +37,7 @@ https://twitter.com/aadilbrar/status/1573657239747018753?s=20&t=dVSz6hOfgRn_rXzh
 
 President Xi Jinping has not been seen for a few days actively which has led to believe he is placed in house arrest. However, journalist Zakka Jacob highlighted that President Xi has powerful constitutional hold on China that makes a coup unlikely. The People's Liberation Army in China comes under the Central Military Commission. President Xi is the head of this Commission because he is the General Secretary of the Communist Party in China.
 
-![Chinese President Xi Jinping at the Shanghai Cooperation Organisation (SCO) summit hosted in Samarkand on Sep 16 2022](/assets/images/blog/blog-04.webp)
+![Chinese President Xi Jinping at the Shanghai Cooperation Organisation (SCO) summit hosted in Samarkand on Sep 16 2022](/assets/images/blog/blog-24.webp)
 Chinese President Xi Jinping at the Shanghai Cooperation Organisation (SCO) summit hosted in Samarkand on Sep 16 2022
 
 The Chinese army belongs to the Communist Part in China and not the government. Similar views were shared by journalist and author Ananth Krishnan regarding a coup in China and the house arrest of President Xi Jinping. There are popular large news outlets like the South China Morning Post in Hong Kong which has not reported of anything this significant in China. There has been reports as below that the cancelations of flights are under military directive of the air traffic control authority. This gives instructions to civil aviation management. The airspace is set aside apparently so that military aircraft can fly at will.

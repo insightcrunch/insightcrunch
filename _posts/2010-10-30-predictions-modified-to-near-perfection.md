@@ -5,7 +5,7 @@ date: 2010-10-30
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Our TCS joining date predictions are getting scarily accurate. Thanks to feedback from 10,000 daily visitors, the model keeps improving."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -16,5 +16,5 @@ With the increased number of joinees over the next few months, the joining of th
 
 The fact however remains that the scenario will continue to be good as long as a fair percentage of the total workforce continues to be utilized and is not at bench.
 
-![TCS Predictions modified to near perfection](/assets/images/blog/blog-05.webp)
+![TCS Predictions modified to near perfection](/assets/images/blog/blog-25.webp)
 TCS Predictions modified to near perfection

@@ -5,14 +5,14 @@ date: 2020-07-13
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau's enhanced data interpretations: how the tool automatically surfaces insights, explains anomalies, and helps analysts explore data faster."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 As we traverse one of the most uncertain times in our history to a new future where things may never allow us to be the same, informed decision-making in the age of data analytics can go a long way to help see the unseen often right infront of us. Correlation, causality, related dimensions that otherwise would be difficult to interpret easily surfaces up when seen from the right context.
 
-![](/assets/images/blog/blog-13.webp)
+![](/assets/images/blog/blog-33.webp)
 West Bengal COVID Data
 
 In the eastern part of the 2ndmost populous country of the world in India, lies the diverse state of [West Bengal](https://en.wikipedia.org/wiki/West_Bengal) with a population of nearly 100 million and land area of 34,267 mi². To put that into perspective, that translates to nearly ¼ of the US population in an area that is ¹⁄₁₁₀ the size of US land area, a population density of 28 times more. Upholding the safety protocols at this juncture will need prolific planning and execution, as we all try to overcome the Coronavirus pandemic together.

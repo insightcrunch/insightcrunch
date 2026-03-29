@@ -6,7 +6,7 @@ date: 2018-12-22
 categories: ["Industry"]
 tags: ["TCS Hostel vs Oxford vs Harvard", "Student Accommodation Comparison", "TCS ILP Hostel", "Oxford College Room", "Harvard Dorm", "World Student Accommodation", "TCS Oxford Harvard Housing"]
 excerpt: "The definitive comparison of three iconic student accommodation experiences - the TCS ILP hostel, the Oxford college room, and the Harvard dorm. What each is like to live in, what it costs, what community it creates, and what it does to the people who inhabit it."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 56
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -15,7 +15,7 @@ Three rooms. Three institutions. Three countries. Three entirely different answe
 
 The TCS ILP hostel in Thiruvananthapuram, Chennai, or Mysuru is a room that tens of thousands of Indian engineering graduates have occupied in the weeks and months after leaving home for the first time in a professional context. The Oxford college room in Balliol or Merton or Christ Church is a room that scholars have occupied in some form for eight hundred years, in buildings that predate the printing press. The Harvard freshman dormitory in Hollis Hall or Matthews or Canaday is a room in the world's oldest continuously operating university in the Western Hemisphere, in a building that may have housed figures from the American founding.
 
-![TCS ILP Hostel vs Oxford College Room vs Harvard Dorm](/assets/images/blog/blog-12.webp)
+![TCS ILP Hostel vs Oxford College Room vs Harvard Dorm](/assets/images/blog/blog-32.webp)
 
 These three room types represent three of the most distinctive accommodation experiences available to students and young professionals anywhere in the world - three profoundly different answers to the question of how institutional residential life should work, what it should feel like, and what it should do to the people who live within it. The TCS accommodation series on InsightCrunch began with the [TCS Accommodation Complete Guide](https://insightcrunch.com/2020/01/18/tcs-accommodation-complete-guide/) and worked through every ILP city. The Oxford series covered the [Oxford Accommodation Complete Guide](https://insightcrunch.com/2019/08/11/oxford-accommodation-complete-guide/) and every dimension of college life. The Harvard series from the [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) through the student life and neighbourhood guides documented the Cambridge residential world in full.
 

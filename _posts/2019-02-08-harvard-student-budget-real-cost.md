@@ -6,14 +6,14 @@ date: 2019-02-08
 categories: ["Industry"]
 tags: ["Harvard Student Budget", "Cost of Attending Harvard", "Harvard Living Costs", "Harvard Financial Aid Reality", "Harvard Student Expenses", "Harvard Money Guide", "Budgeting at Harvard"]
 excerpt: "The honest, complete guide to what Harvard actually costs - beyond the sticker price. Real monthly budgets for undergraduates and graduate students, hidden costs nobody warns you about, how financial aid changes the numbers, and practical strategies for managing money at Harvard."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 The sticker price at Harvard is approximately $82,000 per year. Most people who read that number assume it represents what Harvard costs. It does not. For the majority of Harvard undergraduates from families with incomes below $200,000, the actual out-of-pocket cost is dramatically less - sometimes zero, sometimes a few thousand dollars per year, sometimes $20,000-30,000 per year depending on family income and circumstances. For graduate students on funded doctoral programmes, the cost is also dramatically different from the sticker price, though in a more complex way. For professional school students paying full tuition, the reality is expensive in ways that the sticker price understates because it misses the true cost of living in Cambridge.
 
-![Harvard Student Budget - The Real Cost of Attending Harvard](/assets/images/blog/blog-18.webp)
+![Harvard Student Budget - The Real Cost of Attending Harvard](/assets/images/blog/blog-38.webp)
 
 This guide tells the truth about Harvard's cost. It covers the full published cost of attendance and what each component actually includes, how Harvard's financial aid programme changes the numbers for undergraduate students at different income levels, what graduate students actually spend their stipends on and whether it is enough, the hidden costs that nobody warns you about, the monthly budget reality for different categories of Harvard student, and the practical strategies that experienced Harvard students use to manage money at one of America's most expensive universities in one of America's most expensive cities.
 

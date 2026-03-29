@@ -5,7 +5,7 @@ date: 2012-08-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Can the new Outlook beat Gmail? Microsoft's email redesign brings a modern look, Skype integration, and features that make it a genuine contender."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -14,7 +14,7 @@ The new version of Microsoft's new mailing service, [Outlook](http://outlook.com
 
  The mail service, termed as emailing technology of the future, surely has got some brains put behind it’s development team. It’s just not another mailing platform with a new name. If you haven’t discovered yet, it’s time to really try it out.
 
-![New Outlook Email is promising](/assets/images/blog/blog-11.webp)
+![New Outlook Email is promising](/assets/images/blog/blog-31.webp)
 New Outlook Email is promising
 
 What’s little discovered though, you can rename your email id and get some new ones easily (eg. yourname@live.in). The best part? Right now you can even get your name while renaming the id, since it’s new to the users and many haven’t discovered this feature yet.

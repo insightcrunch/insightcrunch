@@ -6,7 +6,7 @@ date: 2020-09-12
 categories: ["Industry"]
 tags: ['SAT India', 'SAT for Indian Students', 'SAT Registration India', 'SAT Preparation India', 'SAT Test Centers India', 'SAT Indian Curriculum', 'SAT India Fees', 'SAT US Colleges from India']
 excerpt: "The complete SAT guide for Indian students covering registration from India, preparation alongside board exams, score targets, and how SAT scores work for US and Indian university admissions."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -15,7 +15,7 @@ India sends a significant and growing number of students to universities in the 
 
 Indian students come to the SAT with a distinctive profile: often very strong in mathematics due to the rigorous CBSE, ICSE, and state board curricula, frequently educated in English at school, and familiar with competitive examination culture through experience with the JEE, NEET, CUET, and other high-stakes Indian tests. At the same time, they face specific challenges: testing centers concentrated in major cities that may require travel, English reading comprehension styles that differ from the formal academic prose the SAT uses, and the logistical complexity of balancing SAT preparation with Class 11 and 12 board exam requirements.
 
-![SAT Guide for Indian Students](/assets/images/blog/blog-08.webp)
+![SAT Guide for Indian Students](/assets/images/blog/blog-28.webp)
 
 This guide is written specifically for Indian students and their families. It covers every dimension of the SAT experience that is specific to the Indian context: registration logistics and test centers in India, how to prepare alongside board exams, where Indian school math provides an advantage and where it does not, English language preparation strategies differentiated by schooling background, score targets for US and Indian university admissions, the complete US college application timeline from India, and a practical roadmap for the preparation journey. Whether you are a student in Class 10 beginning to plan ahead, a student in Class 11 starting preparation in earnest, or a student in Class 12 in the final stages of your application cycle, this guide addresses your situation.
 

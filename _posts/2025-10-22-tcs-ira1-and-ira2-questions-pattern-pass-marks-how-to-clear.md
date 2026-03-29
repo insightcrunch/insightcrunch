@@ -5,7 +5,7 @@ date: 2025-10-22
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "TCS IRA1", "TCS IRA2", "Aspire", "Fresher"]
 excerpt: "How to clear TCS IRA1 and IRA2: real question types, passing cutoff, topic weightage, time management, and what happens if you fail either assessment."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ The Initial Readiness Assessments are the first real tests you face at TCS ILP, 
 
 Hope is not a strategy. This guide is.
 
-![TCS IRA1 and IRA2 Complete Guide](/assets/images/blog/blog-13.webp)
+![TCS IRA1 and IRA2 Complete Guide](/assets/images/blog/blog-33.webp)
 TCS IRA1 and IRA2 - Questions, Pattern, Pass Marks, and How to Clear
 
 This is the most detailed resource available on TCS IRA1 and IRA2. We cover the exact format of each assessment, the question patterns drawn from years of ILP alumni feedback, the pass marks and what happens if you miss them, the re-attempt policies, the preparation strategy that maximizes your score with minimum wasted effort, and the specific Aspire and Tech Lounge topics that appear most frequently.

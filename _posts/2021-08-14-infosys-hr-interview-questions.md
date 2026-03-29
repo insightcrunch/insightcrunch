@@ -6,14 +6,14 @@ date: 2021-08-14
 categories: ["Industry"]
 tags: ["Infosys HR Interview Questions", "Infosys HR Round", "Infosys HR Interview Questions and Answers", "Infosys Interview Questions for Freshers", "Infosys HR Interview Preparation", "Tell Me About Yourself Infosys", "Infosys Interview Tips"]
 excerpt: "Complete Infosys HR interview guide with 60+ questions, sample answers, what interviewers really evaluate, and the exact mistakes that get candidates rejected."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Infosys HR interview is the final gate between a candidate and an offer letter, and it eliminates more candidates than most people expect. Not because the questions are difficult in a technical sense, but because most candidates treat this round as a formality rather than a genuine evaluation. They walk in with memorized answers to the five questions they Googled, and the experienced HR interviewer identifies this within the first two minutes.
 
-![Infosys HR Interview Questions and Answers](/assets/images/blog/blog-08.webp)
+![Infosys HR Interview Questions and Answers](/assets/images/blog/blog-28.webp)
 
 The HR round at Infosys evaluates specific things: genuine intent to join, adaptability and flexibility (especially around relocation and working hours), professional communication quality, cultural alignment with Infosys's values, and whether the candidate's career expectations are realistic and grounded. A candidate who ticks all these boxes, with answers that are honest, specific, and thoughtfully presented, clears this round reliably. A candidate who gives generic answers, who cannot articulate why they want to join Infosys specifically, or who reveals unrealistic expectations about the role gets filtered out.
 

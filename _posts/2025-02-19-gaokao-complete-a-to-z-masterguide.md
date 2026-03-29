@@ -6,14 +6,14 @@ date: 2025-02-19
 categories: ["Industry"]
 tags: ["高考", "高考全景指南", "高考完全指南", "高考A-Z", "Gaokao", "Masterguide", "Complete Guide", "A to Z"]
 excerpt: "高考A-Z终极全景指南：本系列50篇高考深度指南的汇总总纲，涵盖高考所有重要维度，，制度背景、科目设置、备考策略、考场实务、成绩录取到大学规划，是最全面的单一高考参考资源。"
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 高考，是中国教育体系中最重要的制度，是每年约1200万学生命运交汇的节点，是中华文明"以知识改变命运"这一千年理想的现代化体现。本文是本系列50篇高考深度指南的综合总纲，将高考的方方面面汇聚于一篇文章，成为你在高考备考旅程中最全面的单一参考资源。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-11.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-31.webp)
 *高考A-Z终极全景指南：本系列50篇高考指南的权威汇总*
 
 无论你处于高考旅程的哪个阶段，，选科的高一学生、全力备考的高三学子、关心子女的家长，或是对中国教育制度感兴趣的读者，，本文都将提供你需要的所有关键信息。

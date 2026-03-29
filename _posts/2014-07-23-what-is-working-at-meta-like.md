@@ -4,11 +4,11 @@ title: "What is working at Meta like?"
 date: 2014-07-23
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "What is it like to work at Meta? Employee perspectives on culture, perks, work intensity, team dynamics, and the reality behind the famous campus."
-image: "/assets/images/blog/blog-13.webp"
+excerpt: "Working at Meta from the inside. The culture, the perks, the pace, the pressure, and what daily life actually looks like behind the company's walls."
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 
@@ -22,7 +22,7 @@ Read more: [Is Meta a good place to work? »](https://insightcrunch.com/2014/08/
 
 Employees at Meta who prioritize their work-life balance more had to face critical manager comments later. According to Meta's regulations and employee guidelines, those who are working at Meta are not required to attend after hours events. However, Meta values collaboration and deems it as an important aspect of the company. But still, managers have consistently tried to use this performance review system to make critical comments to employees who did not show up at the social events. Many Meta employees also share that if they have a major illness or need to take a medical leave, they were advised by their supervisors to take 'vacation weeks' as holidays, instead of 'medical leave'. Employees feel scared that if they share about their time off to too many people, they would be seen as inefficient. And employees if found inefficient, were laid off from Meta. It has been reported that the best way of seeing the positive attitude all the time by Meta employees is to follow them on Facebook itself. Employees at Meta constantly highlight the company's projects and highlight any reports on the benefits of working at Meta. 
 
-![Meta Work Culture](/assets/images/blog/blog-13.webp)
+![Meta Work Culture](/assets/images/blog/blog-33.webp)
 Meta Work Culture
 
 ## Meta Employees under Pressure

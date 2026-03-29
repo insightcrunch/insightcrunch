@@ -5,14 +5,14 @@ date: 2019-07-10
 categories: ["Industry"]
 tags: ["Oxford", "University", "UK", "Graduate", "PhD", "DPhil", "Accommodation", "CASS", "Student Housing"]
 excerpt: "The complete guide to graduate accommodation at Oxford University. Covers the three housing pathways (college, University Graduate Accommodation Office, and private renting), specific rent figures for Castle Mill, Walton Street, Wellington Square, and other University properties, how the CASS cross-college system works, the tiered waiting list that prioritizes international freshers, college-by-college graduate housing comparison, accommodation for graduate couples and families including Alan Bullock Close and Castle Mill, the DPhil financial planning challenge across three to four years, and practical strategies for securing housing in Oxford's competitive graduate market."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 Graduate accommodation at Oxford is the university's least-solved housing problem. While undergraduates benefit from a well-established system (guaranteed first-year rooms, organized ballots for subsequent years, a clear "living out" pathway with institutional support), graduate students navigate a fragmented landscape where accommodation provision varies dramatically by college, demand consistently exceeds supply, and the process of securing housing can be stressful, uncertain, and financially consequential.
 
-![Oxford Graduate Accommodation Guide](/assets/images/blog/blog-08.webp)
+![Oxford Graduate Accommodation Guide](/assets/images/blog/blog-28.webp)
 Oxford Graduate Accommodation Guide
 
 The core challenge is structural: Oxford's graduate student population has grown significantly in recent decades, but the college and university accommodation stock for graduates has not kept pace. The result is that many graduate students, particularly those beyond their first year, must rent privately in one of the UK's most expensive housing markets. For international DPhil students on fixed stipends, the gap between their funding and the actual cost of Oxford private renting can create genuine financial hardship.

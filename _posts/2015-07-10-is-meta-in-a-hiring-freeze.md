@@ -4,11 +4,11 @@ title: "Is Meta in a hiring freeze?"
 date: 2015-07-10
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta's 30% hiring reduction: Zuckerberg slashes recruitment targets, freezes most roles, and signals a long period of austerity at Facebook's parent."
+excerpt: "Meta cut hiring by 30%. What that means in practice: frozen roles, reduced teams, and the signal Zuckerberg is sending about the company's direction."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 5
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Overview
 

@@ -5,7 +5,7 @@ date: 2016-09-29
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Automate Oracle DRM version refresh for current and previous day using Batch Client. Command-line setup for daily automated version management."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ The Oracle DRM Batch Client is one of the best command-line utility tools that m
 
 One of the most common practices in a DRM application is to find out the latest changes that have been done over the day - this includes any new additions, movements, changes etc. For this, I need to do a Compare Export between a historical snapshot of the DRM Version before the change and the snapshot after the change.
 
-![Oracle DRM Batch Client Refresh Current and Previous Day Versions](/assets/images/blog/blog-08.webp)
+![Oracle DRM Batch Client Refresh Current and Previous Day Versions](/assets/images/blog/blog-28.webp)
 DRM Batch Client Refresh Current and Previous Day Versions
 
 The following design using DRM Batch Client will provide the most efficient way to automate this process with minimal long-term maintenance effort. Let's say the name of the version where all users will make the changes is known as the "Gold Version". There will be 2 more versions - "Current Day Version" and "Previous Day Version".

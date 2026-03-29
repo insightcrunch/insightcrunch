@@ -6,14 +6,14 @@ date: 2025-02-11
 categories: ["Industry"]
 tags: ["高考", "河南高考", "河南分数线", "河南高考难度", "Henan Gaokao", "Provincial Guide"]
 excerpt: "河南高考完全指南：全国参考人数最多的省份、竞争最激烈的战场、历年分数线深度分析、河南学子的志愿填报策略，以及在极端竞争中突出重围的实战方法。"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 河南，是中国高考版图上最特殊的存在。以全国第一的参考人数（约130万人/年），全国最激烈的竞争烈度，以及相对最少的本地顶尖高校资源，河南高考每年都是数以百万计学子命运的终极试炼场。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-23.webp)
 *河南高考完全指南：全国最激烈竞争省份的生存策略、分数线分析与备考路径*
 
 在河南，进入清华北大所需的高考分数，通常比北京、上海高出50-100分。这不是河南学生不够聪明，而是现行高考录取机制下，名额有限与人口众多之间的结构性矛盾。

@@ -6,7 +6,7 @@ date: 2021-01-18
 categories: ["Industry"]
 tags: ['SAT Reading Improvement', 'SAT Writing Score Boost', 'SAT Reading and Writing Tips', 'SAT Grammar Improvement', 'SAT Reading Speed', 'SAT Reading Practice Strategy', 'SAT Comprehension Improvement', 'SAT 100 Point Improvement']
 excerpt: "The complete guide to boosting your SAT Reading and Writing score by 100+ points through grammar mastery, reading technique improvement, and question-type strategy."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -17,7 +17,7 @@ The SAT Reading and Writing section is where many students feel the most helples
 
 The Digital SAT Reading and Writing section contains 54 questions across two modules (27 each), with 32 minutes per module. A 100-point improvement requires answering approximately 8 to 12 additional questions correctly. That translates to mastering 3 to 4 grammar rules you currently miss, developing 1 to 2 reading strategies that improve your comprehension accuracy, and building the speed that allows you to finish each module with time for review. Each of these improvements is concrete and achievable within 8 to 12 weeks of focused preparation.
 
-![How to Improve SAT Reading and Writing Score](/assets/images/blog/blog-16.webp)
+![How to Improve SAT Reading and Writing Score](/assets/images/blog/blog-36.webp)
 
 This guide covers every aspect of Reading and Writing improvement: how to diagnose your specific weaknesses, how to prioritize grammar rules for maximum point value, how to build reading speed without sacrificing comprehension, how to master each question category, how to handle the hardest passage types, and how to execute an 8-week improvement plan. Whether you are starting at 400 or 650, the methodology applies. What changes is the specific content you focus on at each level.
 

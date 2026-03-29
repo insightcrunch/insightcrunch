@@ -4,11 +4,11 @@ title: "Why is Meta not hiring?"
 date: 2014-09-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Why Meta stopped hiring: the revenue slowdown, Metaverse spending concerns, competition from TikTok, and Zuckerberg's efficiency-first strategy shift."
-image: "/assets/images/blog/blog-13.webp"
+excerpt: "The reasons behind Meta's hiring freeze. Revenue pressure, Metaverse costs, TikTok competition, and the strategic pivot that halted recruitment."
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 
@@ -22,7 +22,7 @@ Read more: [TCS hiring process »](https://tcsinterviewquestions.com)
 
 Meta also highlighted that they will be acting conservatively in the years ahead. One of the main reasons that has led to a decline in revenue for Meta is their advertising model. Due to an increased competition for ads from other apps, and the privacy focus changes introduced by Apple, the advertising revenue of Meta has been hit severely. Meta has highlighted that it was planning to slow down its hiring for some management roles, but it has now spread to all other areas in the organization. Meta has also postponed giving out full time job offers to its summer interns. Meta wants to analyze each and every vacancy and check whether those will be actually required in the following year. Meta wants to make sure that they are not adding people to teams where the requirement would be not there for that role in the coming year. This would help Meta optimize its spending and hire only those individuals with whom they want to have long term relationships. Meta has been highlighting and also working on optimizing their headcount.
 
-![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-13.webp)
+![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-33.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta and Metaverse

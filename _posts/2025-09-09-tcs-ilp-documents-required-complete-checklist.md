@@ -5,7 +5,7 @@ date: 2025-09-09
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP Documents", "Joining Documents", "Fresher", "IT Career", "Checklist"]
 excerpt: "Missing a document on TCS ILP Day 1 delays your joining. Here is the exact checklist with specifications, formats, and what to do if something is missing."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ Missing a single document on Day 1 of TCS ILP can delay your joining, create wee
 
 This does not have to be you. Document preparation is the one aspect of ILP that is entirely within your control, requires no technical knowledge, and has zero ambiguity about what is needed. You simply need to know the complete list and prepare everything in advance.
 
-![TCS ILP Documents Required](/assets/images/blog/blog-04.webp)
+![TCS ILP Documents Required](/assets/images/blog/blog-24.webp)
 TCS ILP Documents Required - Complete Checklist With Templates
 
 This is the most comprehensive TCS joining document guide available. We cover every required document, the exact specifications for photographs, which affidavits need notarization and which do not, the common mistakes that cause problems on verification day, and a preparation timeline that ensures you arrive at ILP with everything in perfect order.

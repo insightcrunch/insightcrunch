@@ -5,7 +5,7 @@ date: 2023-08-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau tips and keyboard shortcuts every user should memorize: navigation, calculation editing, formatting, and the time-savers that boost your speed."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ Tableau, a powerful data visualization tool, has revolutionized the way we analy
 
 Read more: [Top Resources for Tableau Certification Preparation »](https://insightcrunch.com/2023/01/09/top-resources-for-tableau-certification-preparation/)
 
-![Tableau Tips and Shortcuts Every User Should Know](/assets/images/blog/blog-17.webp)
+![Tableau Tips and Shortcuts Every User Should Know](/assets/images/blog/blog-37.webp)
 Tableau Tips and Shortcuts Every User Should Know
 
 ## **1. Quick Data Connection**

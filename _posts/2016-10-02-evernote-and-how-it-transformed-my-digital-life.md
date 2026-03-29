@@ -5,7 +5,7 @@ date: 2016-10-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "How Evernote changed the way I organize digital information. From scattered files to a searchable knowledge base, the app that reshaped my workflow."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -16,7 +16,7 @@ As digital data has grown over the years and our dependency on gadgets has risen
 
 Taking **quick notes** the moment they need to be taken or jotting down **quick ideas** is now a breeze, more so with the Evernote widgets that allow one-tap access in smartphones. Going paperless is now easier than ever, with Evernote's smart camera - it is really good at scanning documents and provides different modes to save it as Photo, Document (my favorite), Color Document, Post-it Note or a Business Card.
 
-![Evernote and Note Taking Life](/assets/images/blog/blog-08.webp)
+![Evernote and Note Taking Life](/assets/images/blog/blog-28.webp)
 Evernote and Note Taking Life
 
 Evernote has the feature to **scan text in PDF and Scanned documents or Image files**. This is extremely useful for me. I have saved a lot of my E-Books and documents in Evernote just for the fact that they are much more useful to me since I can search all the documents at once in Evernote instead of individually searching them or searching them via file names. It's like I am searching all the information that I have read in my life together at once, this feature is definitely worth the price.

@@ -6,14 +6,14 @@ date: 2012-02-24
 categories: ["Industry"]
 tags: ["TCS", "iTIS", "iON", "Digital Platform"]
 excerpt: "Got allocated to TCS ITIS? Frequently asked questions about infrastructure services: the work, the skills, and what your career path looks like."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Two acronyms generate more search traffic, more batch community confusion, and more career-defining consequences than almost any other aspect of TCS's technology and assessment ecosystem: iTIS and iON. Yet despite their importance - one shapes the career tracks of thousands of TCS employees, the other is the platform through which millions of candidates experience TCS's most consequential assessments - both remain poorly understood by the people most affected by them.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-08.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-28.webp)
 *The complete guide to TCS iTIS and TCS iON - what they are, how they work, what careers and opportunities each creates, and everything you need to know to navigate both platforms effectively*
 
 This guide covers both platforms comprehensively. For TCS employees and freshers navigating their service line allocation, iTIS (IT Infrastructure Services) is a career path with specific characteristics, opportunities, and growth trajectories that deserve honest and detailed analysis. For candidates preparing for TCS assessments or studying the TCS hiring process, iON is the technology platform that powers those assessments and that has expanded into a significant business in its own right.

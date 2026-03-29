@@ -5,7 +5,7 @@ date: 2022-09-09
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau certification overview: exam types, difficulty levels, career value, and whether getting certified is worth the investment for data professionals."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 11
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -26,7 +26,7 @@ Tableau is one of the most popular data visualization tools today. Business acro
 
 The cost of the different Tableau Certifications is as mentioned above. Share your Tableau Certification experience with Insight Crunch and get up to $30 for your article. [Learn more here](https://insightcrunch.com/2016/10/02/write-a-guest-post-for-insight-crunch/). You will get $30 from me for every article you submit as per the required quality standards mentioned. Articles can be about your certification experience, and also about any experience you have had during your exam preparation journey or data analytics projects you have worked on. Tableau also occasionally offers promotional discounts. Are you getting certified from your organization? Then you would be entitled to get the full cost of the Tableau Certification reimbursed. Make sure to learn how much Tableau is being used in your workplace, accordingly your company will prioritize on getting you certified. If you are a student, Tableau Certification cost will be lesser with student discount. If you need help or have questions regarding Tableau you can always reach out to me. To get free Tableau Certification, simply share your experiences as mentioned above in different articles.
 
-![Tableau Certification](/assets/images/blog/blog-15.webp)
+![Tableau Certification](/assets/images/blog/blog-35.webp)
 Tableau Certification
 
 ## Tableau Desktop Specialist Practice Exam

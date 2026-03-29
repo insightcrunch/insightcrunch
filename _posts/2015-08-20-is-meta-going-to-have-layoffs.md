@@ -4,11 +4,11 @@ title: "Is Meta going to have layoffs?"
 date: 2015-08-20
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Will Meta have more layoffs? The cost-cutting trajectory, Metaverse investment pressure, and whether additional workforce reductions are likely coming."
+excerpt: "Are more Meta layoffs coming? Analyzing the cost trajectory, revenue trends, and executive signals that suggest whether further cuts are ahead."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Overview
 

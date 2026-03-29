@@ -5,7 +5,7 @@ date: 2025-10-27
 categories: ["Industry"]
 tags: ["TCS", "ILP", "TCS ILP", "Fresher", "IT Career", "Training"]
 excerpt: "Everything about TCS ILP before you join: 60-day schedule, IRA/PRA tests, stream allocation, hostel life, salary deductions, and project allocation..."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 25
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ The TCS Initial Learning Program is the bridge between your campus life and your
 
 This guide answers every single one of those questions and hundreds more. Whether you have just cleared TCS NQT and are waiting for your joining date, or you are days away from reporting to your ILP center, this is the only resource you need.
 
-![TCS ILP Complete Guide](/assets/images/blog/blog-07.webp)
+![TCS ILP Complete Guide](/assets/images/blog/blog-27.webp)
 TCS ILP Complete Guide - Everything You Need to Know Before Joining
 
 We have compiled information from hundreds of ILP alumni across every training center and every stream, verified against the latest curriculum updates, and organized it into a single comprehensive reference. Bookmark this page. You will come back to it many times before and during your ILP.

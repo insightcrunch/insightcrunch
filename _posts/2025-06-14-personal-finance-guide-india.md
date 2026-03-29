@@ -6,7 +6,7 @@ date: 2025-06-14
 categories: ["Industry"]
 tags: ["SIP investment", "mutual fund for beginners", "income tax saving", "PPF vs NPS", "how to invest", "side income India", "personal finance India", "stock market beginners", "tax saving India", "financial planning"]
 excerpt: "New to investing in India? SIP, mutual funds, PPF, NPS, and stock market explained for salaried professionals with tax-saving strategies and budgeting..."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -38,7 +38,7 @@ India produces millions of engineers, doctors, chartered accountants, and MBA gr
 
 The consequences are not abstract. An engineer earning Rs 15 lakh a year who invests nothing beyond a savings account will accumulate, after 25 years, a fraction of the wealth of a peer who invested Rs 10,000 per month in a diversified portfolio throughout the same period. The mathematics of compounding is powerful and merciless in both directions: it multiplies wealth for those who invest early and consistently, and it compounds inflation-driven wealth erosion for those who do not.
 
-![Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving & Side Income Ideas Explained from Scratch](/assets/images/blog/blog-11.webp)
+![Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving & Side Income Ideas Explained from Scratch](/assets/images/blog/blog-31.webp)
 Personal Finance Guide for Indians — SIP, Mutual Funds, PPF, NPS, Stock Market, Income Tax Saving and Side Income Ideas Explained from Scratch
 
 The good news is that personal finance in India is more accessible today than at any point in the country's history. You can open a mutual fund account in 15 minutes. You can invest in the Nifty 50 with Rs 500 per month. You can buy Sovereign Gold Bonds from your bank's app. You can file your income tax return yourself for free on the government portal. The tools and the regulatory infrastructure are excellent. What most Indians lack is the knowledge framework to use them effectively.

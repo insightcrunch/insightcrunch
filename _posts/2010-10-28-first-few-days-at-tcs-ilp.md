@@ -6,14 +6,14 @@ date: 2010-10-28
 categories: ["Industry"]
 tags: ["TCS", "ILP", "First Day", "Orientation"]
 excerpt: "You may find few blogs about experiences of people in TCS during their first few days....But this one is different becuase I dont want to show off my..."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 The first few days at TCS ILP are simultaneously overwhelming and exhilarating. You arrive as a student who has been waiting months for this moment; you leave the first week as someone who is unmistakably, officially beginning a professional career. The specific texture of those first days - the early morning alarm, the formal attire, the thirty-seven-hour train journey to Trivandrum, the Saffron auditorium with its 125-inch projection screens, the induction lectures, the ICICI bank account opening that finally makes you feel like a real TCS employee - is documented in remarkable detail in the original account that inspired this guide. This complete guide expands that first-person account into the comprehensive day-by-day orientation guide that every incoming ILP trainee needs.
 
-![A wide-angle photograph of the TCS Peepul Park campus at Technopark Trivandrum showing the modern glass-and-steel building complex that the original account describes as looking like "one seriously huge 5 star hotel" - the first impression of the flagship ILP centre that hosts thousands of freshers every year](/assets/images/blog/blog-02.webp)
+![A wide-angle photograph of the TCS Peepul Park campus at Technopark Trivandrum showing the modern glass-and-steel building complex that the original account describes as looking like "one seriously huge 5 star hotel" - the first impression of the flagship ILP centre that hosts thousands of freshers every year](/assets/images/blog/blog-22.webp)
 *TCS ILP first days complete guide - the journey to the ILP centre, arriving at accommodation, the Day One orientation schedule, the Saffron auditorium, the induction sequence, the daily schedule structure, the food situation, the formal dress code realities, the bank account opening, the three-shift structure, and the practical wisdom that makes the overwhelming first week navigable*
 
 The author of the original account writes with refreshing directness: "I don't want to show off my vocabulary and I have written this while undergoing the ILP." This is the most valuable kind of ILP account - written in real time, from inside the experience, without the retrospective softening that distance and nostalgia apply. The specific complaints (no hot water, worst canteen food imaginable, losing 2 kg in the first ten days from all the walking) and the specific delights (the TCS Peepul Park campus looking like a five-star hotel, the ICICI titanium debit card, the tea machines in the corridors) are the texture of the ILP first days that abstract guides cannot provide.

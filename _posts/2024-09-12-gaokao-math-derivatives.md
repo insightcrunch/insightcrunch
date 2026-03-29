@@ -6,14 +6,14 @@ date: 2024-09-12
 categories: ["Industry"]
 tags: ["高考数学", "导数", "导数应用", "Gaokao Math", "Derivatives"]
 excerpt: "Master Gaokao derivatives - the key to solving the hardest problems on the paper, from tangent lines to inequality proofs."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学导数专题，是高中数学中最具综合性、也是高考大题中难度最高的板块之一。导数作为"瞬间变化率"的数学工具，以其强大的分析能力，将函数的单调性、极值、最值的求解，以及不等式的证明，统一在一个精确的计算框架之内。对于高考数学而言，导数是解决最后两道压轴大题的核心武器，直接决定了高分考生与中等分数考生之间的差距。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-12.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-32.webp)
 *高考数学导数深度解析：导数计算、切线问题、单调性与极值最值、不等式证明全攻略*
 
 本文系统覆盖高考导数专题的所有核心内容：导数的基本运算规则、切线方程的求法、利用导数分析函数单调性和极值最值、含参数函数的综合讨论，以及最难的导数辅助证明不等式和构造辅助函数的系统方法。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在导数专题从基础计算到综合应用全面突破。

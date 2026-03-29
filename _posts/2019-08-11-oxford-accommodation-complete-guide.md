@@ -5,7 +5,7 @@ date: 2019-08-11
 categories: ["Industry"]
 tags: ["Oxford", "University", "UK", "Accommodation", "Student Housing", "College", "International Students"]
 excerpt: "The definitive guide to Oxford University accommodation for undergraduate, graduate, and international students. Covers the unique collegiate accommodation system that makes Oxford different from every other university, college room quality and cost comparisons, the transition from college rooms to private renting, neighborhood guides for Jericho, Cowley, Headington, Summertown, and East Oxford, graduate housing through CASS and college allocation, international student pre-arrival logistics, couples and family accommodation, the complete cost breakdown, and everything you need to know about living in one of the world's most historic and expensive university cities."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-20
@@ -13,7 +13,7 @@ last_updated: 2026-03-20
 
 Oxford is not like other universities when it comes to accommodation. At most universities, you apply for a room in a central housing office, receive an assignment in a purpose-built hall of residence, and the experience is broadly similar regardless of which hall you end up in. At Oxford, your accommodation experience is shaped first and foremost by your college, and Oxford has 39 colleges, each with its own buildings, its own pricing, its own room quality, its own allocation policies, and its own character. Two students studying the same course at Oxford can have radically different accommodation experiences: one in a medieval room overlooking a quad that has been unchanged for five centuries, the other in a modern en-suite room in a purpose-built annexe on the outskirts of the city. Both are "Oxford accommodation," and understanding this diversity is the first step to navigating the system effectively.
 
-![Oxford Accommodation - The Definitive Guide for Students](/assets/images/blog/blog-07.webp)
+![Oxford Accommodation - The Definitive Guide for Students](/assets/images/blog/blog-27.webp)
 Oxford Accommodation - The Definitive Guide for Students
 
 The second thing to understand is that Oxford is expensive. Private rents in Oxford reached an average of approximately GBP 1,913 per month in late December of a recent year, among the highest in the UK outside of London. College accommodation is significantly cheaper (the average college rental payment for undergraduates is approximately GBP 948 per month), but the gap between college-housed and privately-housed students creates one of the most significant financial divides in the Oxford student experience. Understanding how to access, retain, and optimize your accommodation is not just a logistical exercise; it is a financial strategy that can save you thousands of pounds over the course of your degree.

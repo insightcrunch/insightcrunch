@@ -6,14 +6,14 @@ date: 2025-08-06
 categories: ["Industry"]
 tags: ["高考", "高考心理健康", "备考压力", "焦虑管理", "高考心理", "Gaokao", "Mental Health", "Stress Management", "Student Wellbeing"]
 excerpt: "高考心理健康完全指南：认识备考压力的本质、识别焦虑与抑郁的信号、建立健康的应对机制、家庭如何创造支持性环境，以及何时应当寻求专业心理帮助。"
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考备考，是中国青少年人生中压力最集中的时期之一。连续三年的高强度学习、家庭和社会的期望、对未来的不确定感，以及与同龄人的激烈竞争，共同构成了一种在世界上几乎独一无二的心理压力环境。这种压力，对绝大多数高考生来说，是日常备考的正常伴随物；但对一部分学生来说，它会超越正常范围，演变为需要认真对待的心理健康问题。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-29.webp)
 *高考心理健康完全指南：认识备考压力的本质、识别需要关注的心理健康信号、建立有效的应对机制，以及何时该寻求专业帮助*
 
 本文将从心理健康的视角，系统探讨高考备考中的心理问题：高考压力的本质和来源；焦虑、抑郁和职业倦怠的识别方法；健康的心理应对机制；家长和学校如何创造支持性环境；何时需要寻求专业心理帮助；以及如何在保持学习效率的同时维护心理健康。

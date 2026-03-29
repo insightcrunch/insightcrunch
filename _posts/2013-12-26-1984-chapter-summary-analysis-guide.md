@@ -6,7 +6,7 @@ date: 2013-12-26
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "chapter-summary", "study-guide", "literary-analysis", "classic-literature"]
 excerpt: "Chapter by chapter summary and analysis of 1984 - a complete study guide through Orwell's entire novel."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ George Orwell's 1984 is a novel of extraordinary structural precision, and readi
 
 <!--more-->
 
-![1984 Chapter by Chapter Summary and Analysis - Insight Crunch](/assets/images/blog/blog-04.webp)
+![1984 Chapter by Chapter Summary and Analysis - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 This chapter-by-chapter guide approaches the novel as both a narrative and an argument, tracing not just what happens in each section but why Orwell placed it where he did, what each scene is doing for the whole, and how the cumulative effect of his structural choices produces the particular kind of devastation that the ending delivers. Readers who want the full thematic context for this structural analysis should begin with the [complete 1984 overview](https://insightcrunch.com/2013/12/06/complete-analysis-1984-george-orwell/), and those seeking deep dives into specific characters will find them in the [Winston Smith](https://insightcrunch.com/2013/12/11/winston-smith-character-analysis-1984/), [O'Brien](https://insightcrunch.com/2013/12/31/obrien-character-analysis-1984/), and [Julia](https://insightcrunch.com/2014/01/05/julia-character-analysis-1984-orwell/) character analyses.
 

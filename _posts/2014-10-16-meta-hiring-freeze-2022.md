@@ -4,11 +4,11 @@ title: "Meta Hiring Freeze 2022"
 date: 2014-10-16
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta hiring freeze details: which teams are affected, Zuckerberg's restructuring plan, expected duration, and what current employees should prepare for."
+excerpt: "Inside Meta's 2022 hiring freeze. Zuckerberg's reorganization plans, which divisions are frozen, and the timeline employees and candidates are watching."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 8
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

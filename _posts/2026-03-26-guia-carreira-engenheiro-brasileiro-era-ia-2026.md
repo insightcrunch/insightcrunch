@@ -5,7 +5,7 @@ date: 2026-03-26
 categories: ["Industry"]
 tags: ["Engenheiros Brasil", "Mercado de Trabalho TI 2026", "IA Carreiras", "Salário Desenvolvedor Brasil", "Requalificação", "Nubank", "Mercado Livre", "Trabalho Remoto Internacional", "PJ Dólar", "Carreira Tech"]
 excerpt: "Um guia de 25.000 palavras baseado em dados reais para engenheiros e profissionais de TI brasileiros navegando a onda global de demissões impulsionadas por IA. Cobre quais funções estão desaparecendo, quais explodem em demanda, salários em reais e em dólar, o caminho CLT versus PJ internacional, as empresas brasileiras que mais contratam, e um plano de ação de 90 dias para cada estágio de carreira."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 90
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -14,7 +14,7 @@ Os dois artigos anteriores desta série mapearam os 20 maiores empregadores de T
 
 A perspectiva brasileira é deliberada e importante. O mercado de trabalho de TI no Brasil tem características que não existem nos Estados Unidos nem na Índia: a distinção CLT versus PJ, o acesso privilegiado ao mercado de tecnologia americano por fuso horário, a emergência de um ecossistema de startups unicórnio genuinamente brasileiro, uma escassez estrutural de 530.000 profissionais de TI qualificados que persiste mesmo com desaceleração global, e a oportunidade única de receber em dólar enquanto se vive com custo de vida em reais. Essas realidades específicas moldam quais estratégias funcionam para engenheiros brasileiros de formas que orientações genéricas de carreira americana ou indiana simplesmente não capturam.
 
-![O que engenheiros brasileiros podem fazer na era da IA](/assets/images/blog/blog-01.webp)
+![O que engenheiros brasileiros podem fazer na era da IA](/assets/images/blog/blog-21.webp)
 
 Este artigo abrange seis áreas interconectadas. A primeira é uma avaliação honesta de quais funções estão desaparecendo no Brasil e por quê. A segunda é um detalhamento detalhado de quais papéis estão crescendo, com dados salariais verificados em reais e em dólares. A terceira é a análise do mercado doméstico: as empresas brasileiras que mais contratam, os setores em crescimento, e onde estar geograficamente. A quarta cobre o caminho internacional: como acessar o mercado americano remotamente, quais plataformas funcionam, como estruturar o PJ, e o que os empregadores americanos realmente querem dos engenheiros brasileiros. A quinta é um roteiro de requalificação com cronogramas específicos, recursos e estimativas de ROI. A sexta é um plano de ação de 90 dias para profissionais em diferentes estágios de carreira: início de carreira (zero a cinco anos), carreira intermediária (cinco a quinze anos) e sênior (quinze ou mais anos).
 

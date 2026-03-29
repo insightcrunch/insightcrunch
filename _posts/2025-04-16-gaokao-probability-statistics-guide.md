@@ -6,14 +6,14 @@ date: 2025-04-16
 categories: ["Industry"]
 tags: ["高考", "概率统计", "排列组合", "高考数学", "Gaokao", "Probability", "Statistics", "Mathematics"]
 excerpt: "高考概率统计完全攻略：排列组合的核心方法、古典概型与几何概型、条件概率与独立事件、正态分布的实际应用、线性回归分析，以及频率分布直方图的高频考查题型全解析。"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 概率统计，是高考数学中与日常生活最密切相关的模块，也是近年来高考命题方向中最具活力的方向之一。高考数学对概率统计的考查，从简单的计数原理，到复杂的条件概率计算，从正态分布的应用，到线性回归分析，构成了一个完整的统计思维训练体系。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-23.webp)
 *高考概率统计完全攻略：从排列组合基础，到古典概型与几何概型，从条件概率到正态分布，覆盖高考概率统计所有核心模块*
 
 本文将系统梳理高考概率统计的全部考查内容：计数原理（加法和乘法）；排列与组合；古典概型与几何概型；条件概率与独立事件；随机变量及其分布；正态分布；统计（频率分布、线性回归）；以及各模块的高频题型与解题策略。

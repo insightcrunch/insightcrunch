@@ -5,12 +5,12 @@ date: 2021-02-12
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Deriving metrics in Tableau when precision meets ambiguity. How to approach analytics when the simplest metrics hide complex calculation challenges."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
-![](/assets/images/blog/blog-02.webp)
+![](/assets/images/blog/blog-22.webp)
 
 Curiosity to derive a metric however simple or complex it may be, requires clear objective and precision right from the initial stages. Adding to it the modern examples of flashy dashboards and infinite interactivity, and we have all the ingredients of a recipe that can go extreme either way. All that dazzles and sparkles need not help visualize data in the best possible way.
 

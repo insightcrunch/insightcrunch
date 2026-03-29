@@ -4,11 +4,11 @@ title: "Is there a hiring freeze at Facebook?"
 date: 2014-12-22
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Facebook's parent Meta has frozen hiring for engineers and data scientists. What prompted the freeze, how long it may last, and who is affected."
+excerpt: "Meta froze hiring for engineers and data scientists. The internal warnings, the economic triggers, and what this means for active job seekers."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 9
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

@@ -6,7 +6,7 @@ date: 2020-07-10
 categories: ["Industry"]
 tags: ['SAT Ivy League', 'SAT Scores Ivy League', 'SAT Score for Harvard', 'SAT Score for Yale', 'SAT Score for Princeton', 'SAT Ivy League Requirements', 'SAT Ivy League Admission', 'SAT Ivy League Strategy']
 excerpt: "The complete guide to SAT score expectations at all eight Ivy League schools covering realistic ranges, holistic admissions context, and what competitive applications actually include."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -15,7 +15,7 @@ The eight Ivy League universities represent some of the most competitive admissi
 
 The accurate picture is more nuanced. Ivy League institutions require very high SAT scores as a baseline for competitive consideration, but these scores function primarily as table stakes rather than differentiating credentials within the pool of highly qualified applicants. A student with a 1580 SAT who lacks depth, genuine intellectual engagement, and a compelling personal narrative is not meaningfully more competitive at Harvard than a student with a 1520 who has all of those qualities. Both students have established the testing credential that positions them within the competitive pool; the actual differentiating work happens across the other dimensions of the application.
 
-![SAT Scores for Ivy League Admission](/assets/images/blog/blog-18.webp)
+![SAT Scores for Ivy League Admission](/assets/images/blog/blog-38.webp)
 
 This guide provides a comprehensive, institution-by-institution analysis of SAT score expectations at all eight Ivy League schools, followed by broader analysis of how scores interact with other factors in the admissions process and practical guidance for building a competitive Ivy application strategy. The goal is to help applicants understand exactly what role their SAT score plays in Ivy League admissions, what score level they genuinely need to be competitive, and how to invest their preparation and application efforts most strategically.
 

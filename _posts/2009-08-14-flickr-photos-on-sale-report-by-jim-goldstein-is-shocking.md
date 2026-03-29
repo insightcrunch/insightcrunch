@@ -5,7 +5,7 @@ date: 2009-08-14
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Your Flickr photos could be for sale without your knowledge. The Jim Goldstein report that exposed unauthorized commercial use of user images."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -16,7 +16,7 @@ The issue was that when users upload their photos in Flickr they mark it either 
 
 One of the victims was photographer Jim Goldstein. He elaborately described how [one of his photos](http://www.flickr.com/photos/jimgoldstein/2137934048/) were used through this process in another site. But what seemed frustrating that his efforts to resolve the issue through Yahoo went futile. His [article](http://www.jmg-galleries.com/blog/2008/07/07/how-every-flickr-photo-ended-up-on-sale-this-weekend/) clearly demonstrates his efforts.
 
-![Flickr Photography](/assets/images/blog/blog-06.webp)
+![Flickr Photography](/assets/images/blog/blog-26.webp)
 Flickr Photography
 
 The main issue that is of concern and should be addressed by Flickr or the API developers here is that they adhere to the guidelines set by Flickr at all costs. Not following it would lead to trouble. Like when a Flickr user has explicitly set his settings that no one can download his photos in full resolution except himself, using a faulty API anyone can download his photo in full resolution, which will not be possible in the Flickr website. So clearly this API has not been built following the rules and regulations set by Flickr.

@@ -6,7 +6,7 @@ date: 2020-10-14
 categories: ["Industry"]
 tags: ['SAT Scores', 'SAT Score Reporting', 'SAT Superscore', 'SAT Score Choice', 'SAT Percentiles', 'SAT Score Range', 'SAT Score Sending', 'SAT Score Calculation']
 excerpt: "The complete guide to SAT score reporting covering how scores are calculated, percentile rankings, superscoring policies, Score Choice, sending scores, and how colleges evaluate SAT results."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -15,7 +15,7 @@ SAT scores are the most visible output of all the preparation work students inve
 
 Understanding the SAT scoring system completely, including how raw answers convert to scaled scores, what percentile rankings mean in practice, how Score Choice and superscoring work, and how admissions officers actually use SAT scores in their evaluation process, is not peripheral knowledge. It is central to making good decisions throughout the test preparation and college application process.
 
-![SAT Score Reporting Guide](/assets/images/blog/blog-16.webp)
+![SAT Score Reporting Guide](/assets/images/blog/blog-36.webp)
 
 This guide covers every dimension of SAT scoring with the depth and specificity that general overviews leave out. From the mechanics of how answers become a score, through the release timeline, the detailed score report, superscoring strategy, Score Choice policy, and how competitive scores differ across university tiers, everything you need to understand and use your SAT scores strategically is here.
 

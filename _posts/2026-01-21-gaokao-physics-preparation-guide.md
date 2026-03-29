@@ -6,14 +6,14 @@ date: 2026-01-21
 categories: ["Industry"]
 tags: ["高考", "高考物理", "物理备考", "力学", "电磁学", "物理实验", "Gaokao", "Physics", "Science Preparation", "Study Guide"]
 excerpt: "最全面的高考物理备考指南，系统覆盖力学、热学、电磁学、光学与近代物理全考纲，深度解析实验题、计算题得分策略，以及3+1+2模式下物理赋分的关键规律。"
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考物理，是理科方向（物理方向）考生面临的最具挑战性的选考科目之一。在3+1+2模式下，物理是绝大多数理工类专业的必选科目，其重要性不言而喻。物理的满分为100分（赋分后），但原始分的得分分布极为分散，顶尖考生与普通考生之间可能相差40-50分，这种高分散度使物理成为理科方向中仅次于数学的第二大拉分科目。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-10.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-30.webp)
 *高考物理备考完全指南：从力学到电磁学，从实验设计到计算技巧，全面掌握物理高考的核心知识与得分策略*
 
 本文将系统覆盖高考物理的完整知识体系，从力学基础到电磁学综合，从热学光学到近代物理，逐一深入解析每个模块的命题规律和备考重点；同时详细讲解物理实验题的答题规范、计算题的解题框架、以及3+1+2模式下物理赋分机制对备考策略的影响。无论你当前的物理水平如何，这篇指南都将为你的备考提供最全面、最实用的参考框架。

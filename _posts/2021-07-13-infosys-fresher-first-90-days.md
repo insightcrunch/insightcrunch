@@ -6,14 +6,14 @@ date: 2021-07-13
 categories: ["Industry"]
 tags: ["Infosys Fresher Experience", "Infosys First Project", "Infosys After Mysore", "Infosys New Joiner Experience", "Infosys First 90 Days", "Infosys Project Deployment", "Life at Infosys Fresher", "Infosys Work Experience"]
 excerpt: "An honest, detailed account of what the first 90 days on a project at Infosys actually look like: from project allocation through first delivery, with practical guidance for new joiners."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The [Mysore training](https://insightcrunch.com/2021/07/21/infosys-mysore-training/) is talked about extensively. The placement process is documented in detail. But the experience of actually being on a project at Infosys for the first time, after training ends and the real work begins, is something most guides skip entirely. It is also the period that determines more about a fresher's first two years at Infosys than any other single phase.
 
-![Infosys Fresher First 90 Days on Project](/assets/images/blog/blog-05.webp)
+![Infosys Fresher First 90 Days on Project](/assets/images/blog/blog-25.webp)
 
 The first 90 days on a project at Infosys are genuinely different from anything that came before: different from college, different from the placement process, different even from Mysore training. The work is real, the clients are real, the consequences of mistakes are real, and the learning curve is steeper than most freshers anticipate. At the same time, the support structures are also real, the learning opportunities are enormous, and the experience of contributing to actual systems used by actual businesses is one of the most professionally formative things that happens in a technology career.
 
