@@ -9,7 +9,7 @@ excerpt: "Everything you need to crack InfyTQ from registration to certification
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 InfyTQ is one of the most accessible and structured pathways into Infosys for engineering students and fresh graduates who did not secure a placement through a direct campus drive. It combines a free online learning platform with a certification and assessment system that Infosys uses to identify and hire candidates at scale. For candidates who understand how the platform works, what the assessments actually test, and how strong performance translates into a job offer, InfyTQ is a genuinely powerful hiring channel.
 
