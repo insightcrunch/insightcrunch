@@ -4,11 +4,11 @@ title: "TCS ITIS PRA Questions and Answers"
 date: 2021-09-16
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Preparing for TCS ITIS PRA? Real questions, topic coverage for infrastructure services, answer strategies, and the pass criteria for this assessment."
+excerpt: "The TCS Information Technology Infrastructure Services module is one of the most popular service industry modules today. The demand and criticality to..."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 35
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Overview
 

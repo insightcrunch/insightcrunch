@@ -9,7 +9,7 @@ excerpt: "600+ solved Infosys aptitude questions with detailed explanations acro
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The Infosys online assessment is the primary filter between an application and an interview call, and the aptitude sections of this assessment eliminate the majority of candidates who sit for it. Not because the questions are impossibly hard, but because most candidates walk in without understanding how these sections are structured, what specific topics are tested, or how to manage time across questions of varying difficulty.
 

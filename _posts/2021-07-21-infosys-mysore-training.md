@@ -9,7 +9,7 @@ excerpt: "The complete insider guide to Infosys Mysore training covering daily l
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The Infosys Global Education Center in Mysore is one of the largest corporate training campuses in the world. Spread across hundreds of acres, it has the infrastructure of a small university: hostels, cafeterias, classrooms, auditoriums, sports facilities, a food court, ATMs, banks, medical facilities, and recreation areas. Every fresher who joins Infosys goes through this campus for foundation training before being deployed to a project, and the months spent here are among the most defining of the early Infosys career.
 

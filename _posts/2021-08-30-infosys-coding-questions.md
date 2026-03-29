@@ -9,7 +9,7 @@ excerpt: "80+ solved Infosys coding questions with complete Python and Java solu
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The Infosys coding assessment is where most candidates lose marks even after solid aptitude performance. Aptitude questions are objective and formula-driven. Coding questions require algorithmic thinking and the ability to write correct, working code under time pressure. Many students prepare extensively for the aptitude section and treat the coding round as an afterthought, arriving underprepared for the specific patterns Infosys uses.
 
