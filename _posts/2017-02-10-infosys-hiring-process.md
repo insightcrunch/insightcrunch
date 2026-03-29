@@ -4,11 +4,11 @@ title: "Infosys Hiring Process"
 date: 2017-02-10
 categories: ["Industry"]
 tags: ["Infosys"]
-excerpt: "Infosys hiring process overview: a guest post covering how Infosys recruits freshers, the selection rounds, interview format, and tips from a real..."
+excerpt: "How does Infosys hire? A first-hand guest post on the recruitment process covering aptitude, technical, and HR rounds with practical preparation advice."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 *This is a guest post on Infosys by Gayathri Sachdeva. The views expressed are of the author.*
 

@@ -5,19 +5,18 @@ date: 2012-08-19
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Minerva McGonagall", "Gryffindor", "Transfiguration", "Deputy Headmistress"]
 excerpt: "A deep literary analysis of Minerva McGonagall across all Harry Potter books - duty, grief, hidden passion, and the steel beneath the grace."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-08-19
+last_updated: 2026-03-29
 ---
-
 ## Introduction: The Woman Behind the Tartan
 
 There is a scene in *Harry Potter and the Order of the Phoenix* that most readers remember for its spectacle but that contains, embedded within it, one of Rowling's most precise statements about who Minerva McGonagall actually is. Dolores Umbridge and her squad of Ministry Aurors attempt to remove Hagrid from the Hogwarts grounds at night. McGonagall, seeing what is happening from her window, comes outside in her nightgown and dressing gown to intervene. She is told this is not her concern. She protests anyway. She takes four Stunning Spells to the chest simultaneously and is hospitalized for the remainder of the school year.
 
 Four Stunners. She goes out in her nightgown, without full preparation, and takes four Stunners for a groundskeeper whom the Ministry has decided is expendable, in a fight she knows she cannot win, because not going would have been a kind of abandonment she is constitutionally incapable of.
 
-![Minerva McGonagall character analysis across all seven Harry Potter books](/assets/images/blog/blog-03.webp)
+![Minerva McGonagall character analysis across all seven Harry Potter books](/assets/images/blog/blog-36.webp)
 
 This is McGonagall in miniature: the person who goes out anyway, who takes the consequence of going out, and who would make the same choice again in the same circumstances. She is not a character who performs courage as spectacle. She is a character for whom courage is simply the name for what you do when not doing it would require a compromise she cannot make. The distinction matters because it explains almost everything about her that readers sometimes misread as austerity or coldness. McGonagall is not cold. She is disciplined. She is not indifferent to her students. She is committed to their development in ways that do not always look like warmth because warmth, in her worldview, is a tool that must be deployed carefully rather than broadcast continuously.
 

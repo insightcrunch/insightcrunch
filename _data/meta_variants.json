@@ -2016,61 +2016,61 @@
     "variant_2": "Slow ODI loads? The right indexes and keys can transform performance. When to add them, which types matter, and the impact on your ETL pipeline."
   },
   "2016-10-15-odi-trigger-essbase-maxl-dynamically-with-no-hard-coding.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Data Integrator tool provides a flexible option, though customized, to call and execute MaxL scripts to perform various operations on our...",
     "variant_1": "Trigger Essbase MaxL scripts dynamically from ODI without hard-coding. Variable-driven cube operations that adapt to different environments automatically.",
     "variant_2": "No more hard-coded MaxL in ODI. How to trigger Essbase operations dynamically using variables, making your cube management environment-agnostic."
   },
   "2016-10-19-odi-automation-of-smart-view-manual-activities.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle Data Integrator provides multiple features to automate almost all manual data extraction and transformation related activities. One such scenario...",
     "variant_1": "Automate Smart View manual data operations using ODI. Replace repetitive extract-and-load tasks with scheduled, hands-free ETL pipelines.",
     "variant_2": "Still using Smart View manually for data loads? ODI can automate those repetitive extract-and-load tasks into scheduled, unattended pipelines."
   },
   "2016-10-21-analyzing-odi-data-load-using-ikm-sql-to-hyperion-essbase-data.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle Data Integrator provides a range of Knowledge Modules to integrate with and process data from and load to various applications, and it is no...",
     "variant_1": "ODI IKM SQL to Hyperion Essbase DATA analysis: how the Knowledge Module loads data, the options it provides, and tuning for large volume cubes.",
     "variant_2": "How ODI loads data into Essbase using IKM SQL to Hyperion Essbase (DATA). KM options, load modes, and tuning strategies for high-volume cubes."
   },
   "2016-10-22-how-odi-ikm-sql-to-hyperion-essbase-metadata-influences-data-loading.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle Data Integrator integrates with Essbase for metadata as well as data loading using different Knowledge Modules. Each of the KMs provides a range of...",
     "variant_1": "ODI IKM SQL to Hyperion Essbase METADATA: how metadata KM settings affect data loading performance, outline structure, and cube build behavior.",
     "variant_2": "The Essbase metadata KM in ODI controls more than outlines. How its settings influence data loading speed, dimension build, and cube integrity."
   },
   "2016-10-24-sqoop-import-and-export-tables-from-hive-to-oracle-database.md": {
-    "current": 1,
+    "current": 2,
     "original": "Exporting and Importing table data from Oracle database to Hive and vice-versa is one of the most common activities in the world of Hadoop. It is...",
     "variant_1": "Sqoop import and export between Hive and Oracle Database: commands, configuration, troubleshooting, and best practices for Hadoop-Oracle data movement.",
     "variant_2": "Move data between Oracle and Hive with Sqoop. Import/export commands, connection setup, common errors, and the best practices for reliable transfers."
   },
   "2016-11-02-managing-bi-services-using-odi.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle Data Integrator is one of the widely used tools for data loading into the Oracle Business Intelligence data warehouse. Often it happens that due to...",
     "variant_1": "Manage Oracle BI services through ODI: restart OBIEE components, refresh metadata, and automate BI maintenance tasks from within your ETL pipeline.",
     "variant_2": "Automate OBIEE maintenance from ODI. Restart services, refresh RPD, and manage BI components programmatically as part of your data pipeline."
   },
   "2016-11-05-oracle-bi-apps-dynamic-hierarchy-filtering-in-odi-incremental-load-plan.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension...",
     "variant_1": "Dynamic hierarchy filtering in Oracle BI Apps ODI incremental loads: restrict dimension data during extraction based on runtime conditions and variables.",
     "variant_2": "Filter hierarchies dynamically in BI Apps ODI loads. How to restrict dimension data at runtime using variables and conditional logic in load plans."
   },
   "2016-12-16-tcs-ilp-hyderabad-experience.md": {
-    "current": 2,
+    "current": 0,
     "original": "*This is a guest post. The views expressed are of the author.*",
     "variant_1": "Extensive TCS ILP Hyderabad experience: a long-form account covering the full training period at the Hyderabad center with daily details and honest...",
     "variant_2": "The most detailed TCS ILP Hyderabad post: day-by-day training account, hostel facilities, Hyderabad exploration, and advice for incoming batches."
   },
   "2017-01-09-drm-data-loading-automation-using-odi.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Hyperion Data Relationship Management application is a pretty flexible tool and most of the activities that can be done manually can be...",
     "variant_1": "Automate Oracle DRM data loading using ODI: ETL pipeline setup for importing master data into Data Relationship Management from external sources.",
     "variant_2": "Load data into Oracle DRM automatically using ODI. Pipeline design, mapping configuration, scheduling, and the integration pattern that saves hours."
   },
   "2017-02-10-infosys-hiring-process.md": {
-    "current": 1,
+    "current": 2,
     "original": "*This is a guest post on Infosys by Gayathri Sachdeva. The views expressed are of the author.*",
     "variant_1": "Infosys hiring process overview: a guest post covering how Infosys recruits freshers, the selection rounds, interview format, and tips from a real...",
     "variant_2": "How does Infosys hire? A first-hand guest post on the recruitment process covering aptitude, technical, and HR rounds with practical preparation advice."
