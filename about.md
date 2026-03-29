@@ -6,54 +6,48 @@ permalink: /about/
 
 Insight Crunch is written by a team that believes attention is one of the last forms of care. In an age that rewards speed, reaction, noise, and constant conclusion, we return again and again to the slower work of looking. We study what passes through everyday life and what remains after the moment has passed. We look at the shape of systems, the feel of memory, the discipline of work, the quiet intelligence inside tools, the pull of travel, and the strange tenderness hidden in ordinary hours. We do not think of writing as a performance of certainty. We think of it as a practice of noticing, a way of staying honest before complexity, and a way of honoring the details that most people rush past.
 
-<div style="background: var(--amber-bg, #fdf6e8); border: 1px solid var(--amber-bd, #e8cc90); border-radius: 8px; padding: 28px 24px; margin: 32px 0;">
-  <h3 style="font-family: 'Lora', serif; font-size: 20px; font-style: italic; color: var(--mid, #3e3020); margin: 0 0 4px;">Get in Touch</h3>
-  <p style="font-family: 'Inter', sans-serif; font-size: 13px; color: var(--soft, #9a8870); margin: 0 0 20px; font-weight: 300; line-height: 1.6;">We would love to hear from you. Share a thought, ask a question, or simply say hello.</p>
-  <form action="https://api.web3forms.com/submit" method="POST" style="display: flex; flex-direction: column; gap: 14px;">
-    <input type="hidden" name="access_key" value="9cb6841a-a3a8-47d1-9598-672b68ab314c">
-    <input type="hidden" name="subject" value="New message from Insight Crunch About page">
-    <input type="hidden" name="from_name" value="Insight Crunch Contact Form">
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px;">
-      <div>
-        <label style="display: block; font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 500; color: var(--mid, #3e3020); letter-spacing: 0.3px; margin-bottom: 5px;">Name</label>
-        <input type="text" name="name" required placeholder="Your name" style="width: 100%; padding: 10px 12px; border: 1px solid var(--amber-bd, #e8cc90); border-radius: 6px; background: var(--s1, #fdfaf5); color: var(--ink, #1a1208); font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 300; outline: none; transition: border-color 0.15s;">
-      </div>
-      <div>
-        <label style="display: block; font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 500; color: var(--mid, #3e3020); letter-spacing: 0.3px; margin-bottom: 5px;">Email</label>
-        <input type="email" name="email" required placeholder="you@example.com" style="width: 100%; padding: 10px 12px; border: 1px solid var(--amber-bd, #e8cc90); border-radius: 6px; background: var(--s1, #fdfaf5); color: var(--ink, #1a1208); font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 300; outline: none; transition: border-color 0.15s;">
-      </div>
-    </div>
-    <div>
-      <label style="display: block; font-family: 'Inter', sans-serif; font-size: 11px; font-weight: 500; color: var(--mid, #3e3020); letter-spacing: 0.3px; margin-bottom: 5px;">Message</label>
-      <textarea name="message" required rows="4" placeholder="What is on your mind?" style="width: 100%; padding: 10px 12px; border: 1px solid var(--amber-bd, #e8cc90); border-radius: 6px; background: var(--s1, #fdfaf5); color: var(--ink, #1a1208); font-family: 'Inter', sans-serif; font-size: 14px; font-weight: 300; outline: none; resize: vertical; transition: border-color 0.15s; line-height: 1.6;"></textarea>
-    </div>
-    <input type="checkbox" name="botcheck" style="display: none;">
-    <div>
-      <button type="submit" style="font-family: 'Lora', serif; font-size: 14px; font-style: italic; padding: 10px 28px; background: linear-gradient(135deg, var(--amber, #b06010), var(--amber-lt, #d07820)); color: #fff; border: none; border-radius: 6px; cursor: pointer; letter-spacing: 0.3px; transition: opacity 0.15s, transform 0.15s; box-shadow: 0 2px 8px rgba(176, 96, 16, 0.2);">Send Message</button>
-    </div>
-  </form>
-  <style>
-    .post-content form input:focus,
-    .post-content form textarea:focus {
-      border-color: var(--amber-lt, #d07820) !important;
-      box-shadow: 0 0 0 2px rgba(208, 120, 32, 0.12);
-    }
-    .post-content form button[type="submit"]:hover {
-      opacity: 0.9;
-      transform: translateY(-1px);
-      box-shadow: 0 4px 12px rgba(176, 96, 16, 0.3);
-    }
-    .post-content form input::placeholder,
-    .post-content form textarea::placeholder {
-      color: var(--soft, #9a8870);
-      opacity: 0.6;
-    }
-    @media (max-width: 760px) {
-      .post-content form div[style*="grid-template-columns"] {
-        grid-template-columns: 1fr !important;
-      }
-    }
-  </style>
+<style>
+.ic-contact{background:var(--amber-bg,#fdf6e8);border:1px solid var(--amber-bd,#e8cc90);border-radius:8px;padding:28px 24px;margin:32px 0}
+.ic-contact h3{font-family:'Lora',serif;font-size:20px;font-style:italic;color:var(--mid,#3e3020);margin:0 0 4px}
+.ic-contact .ic-sub{font-family:'Inter',sans-serif;font-size:13px;color:var(--soft,#9a8870);margin:0 0 20px;font-weight:300;line-height:1.6}
+.ic-contact form{display:flex;flex-direction:column;gap:14px}
+.ic-contact .ic-row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.ic-contact label{display:block;font-family:'Inter',sans-serif;font-size:11px;font-weight:500;color:var(--mid,#3e3020);letter-spacing:0.3px;margin-bottom:5px}
+.ic-contact input[type="text"],.ic-contact input[type="email"],.ic-contact textarea{width:100%;padding:10px 12px;border:1px solid var(--amber-bd,#e8cc90);border-radius:6px;background:var(--s1,#fdfaf5);color:var(--ink,#1a1208);font-family:'Inter',sans-serif;font-size:14px;font-weight:300;outline:none;transition:border-color 0.15s}
+.ic-contact textarea{resize:vertical;line-height:1.6}
+.ic-contact input:focus,.ic-contact textarea:focus{border-color:var(--amber-lt,#d07820)!important;box-shadow:0 0 0 2px rgba(208,120,32,0.12)}
+.ic-contact input::placeholder,.ic-contact textarea::placeholder{color:var(--soft,#9a8870);opacity:0.6}
+.ic-contact button{font-family:'Lora',serif;font-size:14px;font-style:italic;padding:10px 28px;background:linear-gradient(135deg,var(--amber,#b06010),var(--amber-lt,#d07820));color:#fff;border:none;border-radius:6px;cursor:pointer;letter-spacing:0.3px;transition:opacity 0.15s,transform 0.15s;box-shadow:0 2px 8px rgba(176,96,16,0.2)}
+.ic-contact button:hover{opacity:0.9;transform:translateY(-1px);box-shadow:0 4px 12px rgba(176,96,16,0.3)}
+@media(max-width:760px){.ic-contact .ic-row{grid-template-columns:1fr}}
+</style>
+
+<div class="ic-contact" markdown="0">
+<h3>Get in Touch</h3>
+<p class="ic-sub">We would love to hear from you. Share a thought, ask a question, or simply say hello.</p>
+<form action="https://api.web3forms.com/submit" method="POST">
+<input type="hidden" name="access_key" value="9cb6841a-a3a8-47d1-9598-672b68ab314c">
+<input type="hidden" name="subject" value="New message from Insight Crunch About page">
+<input type="hidden" name="from_name" value="Insight Crunch Contact Form">
+<div class="ic-row">
+<div>
+<label>Name</label>
+<input type="text" name="name" required placeholder="Your name">
+</div>
+<div>
+<label>Email</label>
+<input type="email" name="email" required placeholder="you@example.com">
+</div>
+</div>
+<div>
+<label>Message</label>
+<textarea name="message" required rows="4" placeholder="What is on your mind?"></textarea>
+</div>
+<input type="checkbox" name="botcheck" style="display:none">
+<div>
+<button type="submit">Send Message</button>
+</div>
+</form>
 </div>
 
 The name Insight Crunch carries both pressure and promise. Insight asks us to move beneath the visible layer of things. Crunch reminds us that thinking often happens under friction. The mind learns when it tests assumptions against reality, when it holds contradiction without panic, when it refines a rough impression into something clearer, kinder, and more exact. We are interested in that refining process. We are interested in how experience becomes language, how language becomes reflection, and how reflection can return to life as steadier action. That cycle lies beneath everything on this site.
