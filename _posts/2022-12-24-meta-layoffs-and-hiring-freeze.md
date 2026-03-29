@@ -4,11 +4,11 @@ title: "Meta Layoffs and Hiring Freeze"
 date: 2022-12-24
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta layoffs and hiring freeze combined impact: job cuts across Facebook, Instagram, and WhatsApp teams alongside a prolonged recruitment shutdown."
+excerpt: "The double hit at Meta: mass layoffs plus a hiring freeze. Which teams lost people, which roles are frozen, and what the combined impact looks like."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Which Tableau certification is best?"
 date: 2022-12-30
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Which Tableau certification should you get? Data Analyst vs Server Certified Associate vs Desktop Specialist compared on difficulty, cost, and career..."
+excerpt: "Confused about Tableau certification options? Comparison of every available cert on exam difficulty, career relevance, cost, and which to pursue first."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 12
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

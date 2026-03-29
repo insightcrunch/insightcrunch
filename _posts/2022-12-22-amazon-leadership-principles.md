@@ -4,11 +4,11 @@ title: "Amazon Leadership Principles"
 date: 2022-12-22
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon's 16 Leadership Principles explained: Customer Obsession, Ownership, Bias for Action, and every principle that drives hiring and promotions at..."
+excerpt: "Why Amazon leadership principles matter for your interview. All 16 principles explained with how they are evaluated during the hiring process."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

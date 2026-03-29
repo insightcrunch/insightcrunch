@@ -4,11 +4,11 @@ title: "Amazon work from home free laptop"
 date: 2022-12-28
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Does Amazon provide a free laptop for remote workers? Equipment policy for WFH roles, what devices are provided, and what you need to supply yourself."
+excerpt: "Will Amazon give you a laptop to work from home? Which remote roles get company equipment, what is provided, and what you need to buy on your own."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Amazon work from home 30 an hour"
 date: 2022-12-20
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon WFH jobs paying $30 per hour: which remote roles hit this pay level, required experience, and how to find high-paying virtual positions at Amazon."
+excerpt: "Can you earn $30/hour working from home at Amazon? The remote roles that pay this rate, what qualifications they need, and how to land them."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 14
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 
