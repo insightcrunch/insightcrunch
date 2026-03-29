@@ -5,19 +5,18 @@ date: 2012-10-27
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cho Chang", "Ravenclaw", "Cedric Diggory", "Order of the Phoenix"]
 excerpt: "A deep literary analysis of Cho Chang across the Harry Potter books - a grieving girl misjudged by readers and protagonist alike, and what she reveals about teenage love."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-10-27
+last_updated: 2026-03-29
 ---
-
 ## Introduction: The Girl We Got Wrong
 
 Cho Chang is one of the most consistently misread characters in the Harry Potter series, and the misreading is not accidental. It is structured into the narrative itself: she is seen almost entirely through Harry's perspective, which is the perspective of a fifteen-year-old boy who is in love with her and who finds her grief for Cedric Diggory confusing and frustrating and occasionally infuriating. The reader sees what Harry sees, feels what Harry feels, and tends to arrive at Harry's verdict: Cho is difficult. Cho cries too much. Cho gets in the way of Harry's romantic life with her inconvenient emotions about her dead boyfriend.
 
 The verdict is not entirely wrong. She is difficult, in the specific sense that grief is difficult to be around. She does cry frequently. Her feelings about Cedric do get in the way of the relationship with Harry, in the sense that her grief for Cedric is real and present and takes up space that Harry would have preferred was available for the uncomplicated romance he wanted. But the verdict is significantly incomplete, and the incompleteness is the series' most deliberate use of limited perspective as a moral argument.
 
-![Cho Chang character analysis across the Harry Potter books](/assets/images/blog/blog-30.webp)
+![Cho Chang character analysis across the Harry Potter books](/assets/images/blog/blog-59.webp)
 
 The series' specific failure with Cho Chang is a structural one: she is given significant emotional weight in the narrative without being given the narrative space to carry it. She matters to Harry's story. She matters to Cedric's story. She matters to the fifth book's account of what Voldemort's return has cost. But she is never the protagonist of any of these stories, and the reader's access to her interior life is determined by Harry's capacity and willingness to perceive it, which is limited by his own needs and his own perspective.
 

@@ -8,7 +8,7 @@ excerpt: "The complete guide to TCS accommodation in Kolkata for ILP associates.
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 Kolkata is the TCS ILP city that surprises people. Associates who arrive expecting a slow, old-fashioned city discover instead a place with one of the most vibrant food cultures in India, a cultural richness that is genuinely unmatched, and an IT corridor in Rajarhat New Town that is modern, well-planned, and growing rapidly. The accommodation in Kolkata tends to be apartment-style rather than hotel-style, which gives it a more home-like feel than some other ILP cities. The cost of living is lower than in Chennai, Hyderabad, or Pune, which makes the financial math of ILP more comfortable. And the Bengali hospitality that permeates the city creates a warmth in the daily experience that many ILP alumni describe as one of the most memorable aspects of their training period.
 
