@@ -22,33 +22,29 @@ Insight Crunch is written by a team that believes attention is one of the last f
 @media(max-width:760px){.ic-contact .ic-row{grid-template-columns:1fr}}
 </style>
 
-<div class="ic-contact" markdown="0">
-<h3>Get in Touch</h3>
-<p class="ic-sub">We would love to hear from you. Share a thought, ask a question, or simply say hello.</p>
-<form action="https://api.web3forms.com/submit" method="POST">
-<input type="hidden" name="access_key" value="9cb6841a-a3a8-47d1-9598-672b68ab314c">
-<input type="hidden" name="subject" value="New message from Insight Crunch About page">
-<input type="hidden" name="from_name" value="Insight Crunch Contact Form">
-<div class="ic-row">
-<div>
-<label>Name</label>
-<input type="text" name="name" required placeholder="Your name">
-</div>
-<div>
-<label>Email</label>
-<input type="email" name="email" required placeholder="you@example.com">
-</div>
-</div>
-<div>
-<label>Message</label>
-<textarea name="message" required rows="4" placeholder="What is on your mind?"></textarea>
-</div>
-<input type="checkbox" name="botcheck" style="display:none">
-<div>
-<button type="submit">Send Message</button>
-</div>
+<div class="ic-msg" id="ic-msg"></div>
 </form>
-</div>
+<script>
+document.querySelector('.ic-contact form').addEventListener('submit',function(e){
+e.preventDefault();
+var b=this.querySelector('button');
+b.textContent='Sending...';
+b.disabled=true;
+fetch('https://api.web3forms.com/submit',{method:'POST',body:new FormData(this)})
+.then(r=>r.json()).then(function(d){
+var m=document.getElementById('ic-msg');
+if(d.success){
+m.textContent='Thank you! Your message has been sent.';
+m.style.cssText='margin-top:12px;padding:10px 14px;border-radius:6px;font-family:Inter,sans-serif;font-size:13px;background:#e8f5e2;color:#2a5a1a;border:1px solid #b8dba8';
+e.target.reset();
+}else{
+m.textContent='Something went wrong. Please try again.';
+m.style.cssText='margin-top:12px;padding:10px 14px;border-radius:6px;font-family:Inter,sans-serif;font-size:13px;background:#fdecea;color:#6a1a1a;border:1px solid #e8b0a8';
+}
+b.textContent='Send Message';b.disabled=false;
+});
+});
+</script>
 
 The name Insight Crunch carries both pressure and promise. Insight asks us to move beneath the visible layer of things. Crunch reminds us that thinking often happens under friction. The mind learns when it tests assumptions against reality, when it holds contradiction without panic, when it refines a rough impression into something clearer, kinder, and more exact. We are interested in that refining process. We are interested in how experience becomes language, how language becomes reflection, and how reflection can return to life as steadier action. That cycle lies beneath everything on this site.
 
