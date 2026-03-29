@@ -6,17 +6,16 @@ date: 2014-02-09
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "tom-buchanan", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Complete analysis of Tom Buchanan - his violence, racism, privilege, and role as the novel's true antagonist."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-02-09
+last_updated: 2026-03-29
 ---
-
 Tom Buchanan is the most dangerous character in The Great Gatsby precisely because he is the most ordinary. He does not have Gatsby's magnificent delusion or Nick's moral complexity or Daisy's trapped charm. He has something more socially significant and more specifically American: the absolute confidence of someone who has never been required to justify anything, the casual cruelty of someone who has never faced consequences, and the specific form of privilege that makes the destruction he visits on others entirely invisible to him as destruction. He does not think of himself as a villain. He does not think about himself at all in moral terms, because his social position has always exempted him from the kind of moral accounting that the Dream's mythology promises everyone but that the class system distributes according to how much insulation wealth and birth provide.
 
 <!--more-->
 
-![Tom Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Tom Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Understanding Tom Buchanan requires understanding what he represents rather than simply what he does, because what he does is the expression of what he represents. He represents old money in its specifically American form: the authority that derives from inheritance rather than achievement, the psychological formation that comes from having never needed to earn anything, and the specific form of moral blindness that unquestioned privilege produces in the people who benefit from it. He is not a complex character in the sense of being internally contradictory or psychologically mysterious; he is a character of terrible simplicity, someone who is exactly what the surface suggests, and the novel's most disturbing argument about him is that this simplicity is itself a product of his privilege rather than a natural fact about him. For the full context of the social world that produced him, the [complete Great Gatsby analysis](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/) is the essential companion, and for the perspective of the narrator whose enchantment with Gatsby shapes every description of Tom, the [Nick Carraway character analysis](https://insightcrunch.com/2014/01/20/nick-carraway-character-analysis/) is the necessary counterpoint.
 

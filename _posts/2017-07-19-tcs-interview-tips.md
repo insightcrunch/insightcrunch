@@ -5,11 +5,11 @@ page_title: "TCS Interview Tips - Proven Strategies to Crack Technical and HR Ro
 date: 2017-07-19
 categories: ["Industry"]
 tags: ["TCS", "Interview Tips", "Interview Preparation", "HR Round"]
-excerpt: "Preparing for a TCS interview? Practical tips on technical round preparation, HR question handling, body language, and the mistakes most candidates make."
+excerpt: "This is a guest post on TCS Interview by Rakesh Kumar. The views expressed are of the author."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 Most TCS interview guides tell you what to study. This one tells you how to perform. There is a meaningful difference. Every candidate preparing for TCS interviews has access to the same lists of topics, the same practice platforms, and the same general advice to review data structures and prepare your projects. The candidates who consistently get selected are not necessarily the ones who studied more - they are the ones who translate their preparation into effective interview performance.
 
