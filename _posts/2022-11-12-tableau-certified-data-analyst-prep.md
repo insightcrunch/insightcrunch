@@ -4,11 +4,11 @@ title: "Tableau Certified Data Analyst Prep"
 date: 2022-11-12
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau Certified Data Analyst exam prep: topics covered, question format, recommended study resources, and a preparation strategy that actually works."
+excerpt: "Preparing for the Tableau Data Analyst certification? Study topics, exam format, time allocation, and the resources that help you pass on the first try."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 14
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

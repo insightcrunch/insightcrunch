@@ -4,11 +4,11 @@ title: "Does Amazon pay you to work from home?"
 date: 2022-10-30
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Does Amazon pay for remote work? WFH compensation structure, hourly rates, salary ranges by role, and whether pay differs from in-office positions."
+excerpt: "Yes, Amazon pays remote workers. Here is how WFH compensation works, what roles pay, hourly vs salary structures, and how it compares to in-office."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

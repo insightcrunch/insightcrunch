@@ -4,11 +4,11 @@ title: "Amazon workforce"
 date: 2022-10-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon's global workforce: how many people Amazon employs, distribution across warehouses and offices, and what the growth trajectory looks like."
+excerpt: "How big is Amazon's workforce? Employee count across warehouses, corporate offices, and tech divisions, plus the hiring trends driving expansion."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

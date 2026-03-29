@@ -4,11 +4,11 @@ title: "Amazon work from home jobs part time"
 date: 2022-11-10
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon part-time work from home jobs: available remote roles with flexible hours, pay rates, minimum hour requirements, and how to find current openings."
+excerpt: "Part-time and remote at Amazon. Which WFH roles offer flexible hours, what the minimum weekly commitment is, and how much part-time positions pay."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 12
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

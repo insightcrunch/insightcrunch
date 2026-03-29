@@ -4,11 +4,11 @@ title: "Amazon jobs work from home"
 date: 2022-11-06
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon work from home job listings: current remote openings, required skills, application process, and tips for landing a virtual position at Amazon."
+excerpt: "Find Amazon WFH jobs. The types of remote positions available, qualification requirements, how to apply, and what the virtual onboarding looks like."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Amazon Warehouse Jobs Part Time"
 date: 2022-10-30
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon part-time warehouse jobs: shift options, hourly pay, benefits eligibility, scheduling flexibility, and how to find part-time openings near you."
+excerpt: "Part-time at an Amazon warehouse: what shifts are available, how much it pays per hour, which benefits you still get, and how scheduling works."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 
