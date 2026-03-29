@@ -6,14 +6,14 @@ date: 2024-06-16
 categories: ["Industry"]
 tags: ["高考化学", "有机化学", "官能团", "合成路线", "Gaokao Chemistry", "Organic"]
 excerpt: "Master Gaokao organic chemistry - functional groups, reaction types, synthesis route design, and isomer counting."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考化学有机化学专题，是高中化学中知识点最密集、综合性最强的板块之一。有机化学横跨官能团识别、有机反应类型、有机合成路线设计、同分异构体计数、高分子化学等多个子模块，在高考化学卷中通常以选择题、有机合成大题（第35题）以及结构推断等形式出现，共占约20至25分的分值。有机化学的难点不只在于知识点繁多，更在于需要将官能团性质、反应类型和合成策略有机整合，在复杂情景中设计合理的合成路线。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-11.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
 *高考有机化学深度解析：官能团性质、有机反应类型、合成路线设计与同分异构体全攻略*
 
 本文系统覆盖高考有机化学专题的所有核心内容：有机物的分类与官能团（烃、卤代烃、醇、酚、醚、醛、酮、羧酸、酯、胺等）；有机反应类型（取代、加成、消去、氧化、还原、聚合）；重要有机物的性质与制备；同分异构体的判断与计数；有机合成路线的设计方法；以及高分子化合物的基本知识。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在有机化学专题建立完整的知识体系。

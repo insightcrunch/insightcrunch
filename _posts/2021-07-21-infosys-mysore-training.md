@@ -6,14 +6,14 @@ date: 2021-07-21
 categories: ["Industry"]
 tags: ["Infosys Mysore Training", "Infosys Training Experience", "Infosys Mysore Campus", "Infosys Foundation Program", "Infosys Stream Allocation", "Infosys Training Schedule", "Infosys New Joiners", "Infosys Onboarding"]
 excerpt: "The complete insider guide to Infosys Mysore training covering daily life, assessments, stream allocation, and survival tips."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Infosys Global Education Center in Mysore is one of the largest corporate training campuses in the world. Spread across hundreds of acres, it has the infrastructure of a small university: hostels, cafeterias, classrooms, auditoriums, sports facilities, a food court, ATMs, banks, medical facilities, and recreation areas. Every fresher who joins Infosys goes through this campus for foundation training before being deployed to a project, and the months spent here are among the most defining of the early Infosys career.
 
-![Infosys Mysore Training Guide](/assets/images/blog/blog-15.webp)
+![Infosys Mysore Training Guide](/assets/images/blog/blog-19.webp)
 
 No amount of reading about Mysore from the outside fully prepares a new joiner for what the experience is actually like. The training is more rigorous than most freshers expect. The assessments are structured more seriously than they anticipate. The daily schedule is more regimented than anything experienced in college. And the social experience, living alongside hundreds of batchmates from across India in a contained, self-sufficient campus, is unlike anything most freshers have encountered before.
 

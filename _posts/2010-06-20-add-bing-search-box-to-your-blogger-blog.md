@@ -5,7 +5,7 @@ date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Want Bing search on your blog? Copy-paste code to add a Bing search box to any Blogger site. Quick setup, clean look, fully functional."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -20,7 +20,7 @@ document.write('<form method="get" action="http://www.bing.com/search" target="_
 
 It will enable you to get a search box like shown here below. Type in to check it out before you use the code above.
 
-![Bing Search Box for Blog](/assets/images/blog/blog-15.webp)
+![Bing Search Box for Blog](/assets/images/blog/blog-19.webp)
 Bing Search Box for Blog
 
 Help your visitors engage in searching anything right from your website and help it make stickier!

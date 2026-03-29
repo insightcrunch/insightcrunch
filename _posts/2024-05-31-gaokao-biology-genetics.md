@@ -6,14 +6,14 @@ date: 2024-05-31
 categories: ["Industry"]
 tags: ["高考生物", "遗传学", "基因表达", "孟德尔", "Gaokao Biology", "Genetics"]
 excerpt: "Master Gaokao genetics - Mendelian laws, gene expression, mutations, probability calculations, and pedigree analysis."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考生物遗传学专题，是高中生物学中逻辑性最强、综合性最高的核心板块。遗传学贯穿从孟德尔经典遗传定律到分子遗传学、从遗传概率计算到系谱图分析、从基因突变到染色体变异的完整知识链条。在高考生物卷中，遗传题通常是区分考生能力层次的关键考点，是高考生物备考中最值得系统投入的专题之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-18.webp)
 *高考生物遗传学深度解析：孟德尔定律、基因表达、遗传概率计算、伴性遗传与遗传图谱分析全攻略*
 
 本文系统覆盖高考遗传学专题的所有核心内容：孟德尔遗传定律、基因的分子本质、基因突变与染色体变异、遗传概率计算、伴性遗传、遗传系谱图分析，以及现代遗传育种技术的基本原理。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在遗传学专题建立完整的解题体系。

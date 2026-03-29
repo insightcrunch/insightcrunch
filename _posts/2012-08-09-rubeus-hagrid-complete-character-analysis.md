@@ -5,7 +5,7 @@ date: 2012-08-09
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rubeus Hagrid", "Gryffindor", "Half-Giant", "Magical Creatures"]
 excerpt: "A deep literary analysis of Rubeus Hagrid across all Harry Potter books - loyalty, outsider identity, and the giant heart beneath the wild exterior."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -18,7 +18,7 @@ Rubeus Hagrid is not the cleverest character in the Harry Potter series. He is n
 
 What makes this foundation work is precisely what makes Hagrid easy to underestimate: his uncomplicated clarity about what matters. He is not torn between competing loyalties or competing values. He does not have the intellectual sophistication that would allow him to rationalize failing the people and creatures he loves. He simply loves them, and the love produces the action, and the action produces the arc of a life that is, from any honest accounting, one of the most morally serious in the seven books. The person who gives Harry his first birthday cake is the same person who carries him one last time through the forest when the war appears to be lost - and the carrying is the same act, scaled to the moment, expressing the same thing. That continuity, maintained across seventeen years and seven books and every catastrophe the wizarding world can produce, is what Hagrid means.
 
-![Rubeus Hagrid character analysis across all seven Harry Potter books](/assets/images/blog/blog-11.webp)
+![Rubeus Hagrid character analysis across all seven Harry Potter books](/assets/images/blog/blog-15.webp)
 
 To read Hagrid as a simple character - the lovable oaf, the comic giant, the man whose inability to keep a secret serves as a reliable plot device - is to miss what Rowling is doing with him. Hagrid is one of the most carefully constructed characters in the series, and his construction is designed to address a specific question: what does genuine goodness look like in a world organized around power? He is not good in the way Dumbledore is good - with intelligence and strategy and the terrible clarity of someone who can see the whole board. He is good in the way that requires no calculation at all. He loves what he loves. He protects what he loves. He is loyal to the people who have been kind to him with a completeness that more sophisticated characters cannot match precisely because they are more sophisticated.
 

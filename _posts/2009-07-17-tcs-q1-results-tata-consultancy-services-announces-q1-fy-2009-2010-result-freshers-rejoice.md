@@ -6,14 +6,14 @@ date: 2009-07-17
 categories: ["Industry"]
 tags: ["TCS", "Quarterly Results", "Fresher Hiring", "IT Industry Analysis"]
 excerpt: "TCS has finally released their Quarter 1 results for the Financial year 2009-10. Amongst others, freshers who are awaiting joining dates were really eager..."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 Every fresher waiting for a TCS joining date has felt it: the anxious refresh of the NextStep portal, the speculation in college WhatsApp groups, the endless debate about when the batch would finally be called. What most of those freshers do not realise is that the answer to their question is not sitting in the HR department's inbox. It is sitting in TCS's quarterly earnings report. TCS quarterly results are the single most reliable signal about when fresher hiring will expand, when it will contract, and how many people the company will call in any given period. Understanding how to read these results - and what specific metrics matter for fresher joining decisions - transforms a frustrating waiting game into an informed, manageable process.
 
-![TCS quarterly earnings report open on a laptop, with hiring and revenue metrics visible on screen](/assets/images/blog/blog-04.webp)
+![TCS quarterly earnings report open on a laptop, with hiring and revenue metrics visible on screen](/assets/images/blog/blog-16.webp)
 *TCS quarterly results directly drive fresher hiring volumes, joining date timelines, and campus recruitment activity*
 
 This guide explains the mechanics of that connection in full. It covers what TCS quarterly results actually contain, which metrics within those results are most directly linked to hiring decisions, how the relationship between financial performance and recruitment plays out across different economic conditions, and what practical steps freshers and job seekers can take to read TCS's financial signals and position themselves accordingly.

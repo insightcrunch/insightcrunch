@@ -5,7 +5,7 @@ date: 2012-08-14
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ginny Weasley", "Gryffindor", "Weasley Family", "Quidditch"]
 excerpt: "A deep literary analysis of Ginny Weasley across all Harry Potter books - identity, survival, and the girl who refused to remain in anyone's shadow."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -16,7 +16,7 @@ There is a version of Ginny Weasley that the Harry Potter series could easily ha
 
 And then the Chamber of Secrets opens and Ginny Weasley is inside it, and nothing about her is ever background again.
 
-![Ginny Weasley character analysis across all seven Harry Potter books](/assets/images/blog/blog-04.webp)
+![Ginny Weasley character analysis across all seven Harry Potter books](/assets/images/blog/blog-16.webp)
 
 The trajectory from that first glimpse on Platform Nine and Three-Quarters - the small girl straining to see the Hogwarts Express, the one who is too young to go - to the young woman who co-leads the Hogwarts resistance during Voldemort's occupation and fights in the Battle of Hogwarts, is one of the most carefully constructed arcs in the series. Rowling takes her time with Ginny deliberately. The years of apparent marginality are not wasted years. They are the years in which a girl who survived something terrible at eleven, who spent a year being controlled and used and nearly killed, quietly and systematically builds herself back into a person who cannot be controlled or used again.
 

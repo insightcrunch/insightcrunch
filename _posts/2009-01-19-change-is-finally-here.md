@@ -5,7 +5,7 @@ date: 2009-01-19
 categories: ["Leisure"]
 tags: ["World"]
 excerpt: "The D-day has finally come . The world will wait to see how the major issues like Gaza and India-Pakistan are tackled. The economy is at its helm of..."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -16,7 +16,7 @@ Lets  hope he brings about the long-desired change that his campaigns spoke abo
 
 May the first Afro-American president create history during his tenure.
 
-![Obama Presidency](/assets/images/blog/blog-04.webp)
+![Obama Presidency](/assets/images/blog/blog-16.webp)
 Obama Presidency
 
 Read more: [Gmail grows up with offline e-mail access »](https://insightcrunch.com/2009/01/28/gmail-grows-up-with-offline-e-mail-access/)

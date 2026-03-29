@@ -5,7 +5,7 @@ date: 2012-01-15
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "Why is everyone in Indian IT obsessed with going onsite? The real mechanics of onsite allocation, the politics, and whether the dream matches reality."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -18,7 +18,7 @@ Read more: [Work culture in the IT sector »](https://insightcrunch.com/2012/01/
 
 Normally, it happens such that there is an experienced professional at offshore, or a pretty capable team at offshore. The other person with generally more than 2 years of experience leaves for onsite. He might be having a relevant skill set required to the job done, or might have handled such projects very well in the past, or belongs to an elite team in the organization which handles such onsite positions, or have been waiting for onsite for quite some time. This is what happens in most cases.
 
-![Onsite Travels](/assets/images/blog/blog-10.webp)
+![Onsite Travels](/assets/images/blog/blog-14.webp)
 Onsite Travels
 
 The excitement, hype and happiness that comes with the first onsite travel is pretty obvious. It’s as if you have found the real meaning of your existence at last. You have found the real meaning of your getting a job at last. I don’t believe in it. But people seem to give the priority to money and wealth even above their own happiness. It is good no doubt, but not worth so much celebrations. Anyway, it apparently came down as a God’s blessing on him and he leaves happily for his new task feeling lucky and blessed. People at offshore feel confident with him at onsite and are sure about getting the job done.

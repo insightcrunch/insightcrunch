@@ -5,14 +5,14 @@ date: 2016-09-26
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Find orphan records in Oracle EBS after DRM integration. How disconnected segment values appear and the queries that locate them for cleanup."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often observed during integration with different EBS environments that orphans are sometimes created in EBS. It gives rise to issues during reporting for the transactions for that specific orphan and so becomes necessary to track the orphans and keep them identified for troubleshooting purposes.
 
-![Oracle DRM Hierarchy in EBS](/assets/images/blog/blog-07.webp)
+![Oracle DRM Hierarchy in EBS](/assets/images/blog/blog-15.webp)
 Oracle DRM Hierarchy in EBS
 
 **Related Post:** [DRM EBS Integration Load Segment Values and Hierarchies »](http://rahul-bhattacharya.blogspot.com/2016/09/load-segment-values-and-hierarchies-drm.html)

@@ -6,7 +6,7 @@ date: 2020-08-11
 categories: ["Industry"]
 tags: ['SAT Learning Disability', 'SAT ADHD', 'SAT Dyslexia', 'SAT Dyscalculia', 'SAT Learning Differences', 'SAT Accommodations Learning Disability', 'SAT ADHD Preparation', 'SAT Dyslexia Strategies']
 excerpt: "The complete SAT preparation guide for students with ADHD, dyslexia, dyscalculia, and other learning differences covering accommodations, tailored study strategies, and confidence building."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -15,7 +15,7 @@ Students with learning differences bring a distinct set of strengths, challenges
 
 This guide does not approach learning differences as limitations to overcome. Students with ADHD often bring exceptional creative thinking, pattern recognition, and the ability to hyperfocus on genuinely engaging material. Students with dyslexia frequently develop strong listening comprehension, narrative reasoning, and the analytical flexibility that comes from years of finding alternative routes through textual material. Students with dyscalculia often develop strong verbal and conceptual approaches to problems that serve them in ways that rote calculation does not. These strengths are real, and a preparation strategy that leverages them is more effective than one that treats the student only as a collection of deficits to remediate.
 
-![SAT for Students With Learning Differences](/assets/images/blog/blog-14.webp)
+![SAT for Students With Learning Differences](/assets/images/blog/blog-18.webp)
 
 This guide covers the SAT preparation experience for five specific learning difference profiles: ADHD, dyslexia, dyscalculia, processing speed differences, and working memory challenges. For each, it covers the accommodations available through the College Board, how to apply for those accommodations, preparation strategies tailored to each profile, and how to build the confidence that comes from preparation that acknowledges and works with your specific needs rather than ignoring them.
 

@@ -5,7 +5,7 @@ date: 2009-02-10
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "My friends who were placed in Infosys got their offer letters today. It might be the happiest moments for some of them like Nirmalya Roy Chowdhury. Many..."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -16,5 +16,5 @@ I think its time Infosys comes out with some information on when the remaining c
 
 Read more: [TCS may stretch working hours by half an hour »](https://insightcrunch.com/2009/02/11/tcs-may-stretch-working-hours-by-half-an-hour/)
 
-![Infosys TCS Offer Letter Joining Date Joining Letter Wipro IBM Accenture Cognizant](/assets/images/blog/blog-10.webp)
+![Infosys TCS Offer Letter Joining Date Joining Letter Wipro IBM Accenture Cognizant](/assets/images/blog/blog-06.webp)
 Infosys Offer Letter

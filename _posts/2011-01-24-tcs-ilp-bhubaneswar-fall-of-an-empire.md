@@ -6,7 +6,7 @@ date: 2011-01-24
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ The score appeared on the screen. 12.08%. Everything went black.
 
 That moment - the split second between clicking submit and watching a number appear that rewrites everything you thought was about to happen - is one that more TCS ILP freshers experience than anyone likes to admit. A botched exam read, an overconfident skip of the rules page, a week of inadequate preparation, or simply a subject that never clicked no matter how hard you tried. The reasons are varied. The gut-punch feeling is universal.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-01.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-17.webp)
 *Everything you need to know about what happens after failing a TCS ILP assessment - consequences, re-assessment paths, and how to recover*
 
 If you are reading this because you just failed a TCS ILP test, or because you are heading into ILP and want to understand the full risk landscape, or because someone you know is navigating the aftermath of a failed module - this guide is for you. It covers everything: the exact consequences of failing different types of ILP assessments, how the re-assessment process works, what the actual termination risk looks like and how rare it is, how to recover your standing after a weak score, what the bottom-performer list means for your future, and the psychological recovery that is every bit as important as the academic one.

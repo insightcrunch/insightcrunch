@@ -6,14 +6,14 @@ date: 2010-07-28
 categories: ["Industry"]
 tags: ["TCS", "Business Growth", "Financial Performance", "Industry Analysis"]
 excerpt: "TCS projected to outgrow the IT industry in FY 2011. Quarterly results, revenue momentum, and positive signals for fresher onboarding timelines."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 Understanding why TCS grows the way it does - and why it has consistently outperformed the Indian IT industry average across multiple business cycles - is not merely an exercise for investors and analysts. For the professionals who work at TCS, the clients who depend on its services, and the candidates who are evaluating it as a career destination, the company's growth trajectory and the forces behind it are directly relevant to daily professional decisions. How TCS's business performs determines when freshers get joining calls, what kinds of projects are available, which technology domains are being invested in, and what career trajectories are realistic. This guide connects the financial performance story to the working reality it creates.
 
-![A data visualisation showing TCS revenue growth curves trending above industry average benchmarks across multiple business cycles](/assets/images/blog/blog-08.webp)
+![A data visualisation showing TCS revenue growth curves trending above industry average benchmarks across multiple business cycles](/assets/images/blog/blog-12.webp)
 *TCS growth analysis - revenue drivers, competitive positioning, market share dynamics, and what business performance means for employees, clients, and investors*
 
 TCS's growth story is one of the most studied in Indian corporate history. From its origins as a modest IT services provider within the Tata Group to its position as one of the world's most valuable technology enterprises, TCS has navigated technology waves, economic cycles, competitive challenges, and organisational transitions with a consistency that few companies of comparable scale have demonstrated. Understanding how that consistency is produced - what structural and operational factors enable TCS to grow reliably through varying conditions - is the analytical foundation this guide builds.

@@ -6,7 +6,7 @@ date: 2020-12-17
 categories: ["Industry"]
 tags: ['SAT Busy Student', 'SAT Limited Time', 'SAT Study Schedule Busy', 'SAT Efficient Study', 'SAT Micro Study', 'SAT Weekend Study Plan', 'SAT Time Management Prep', 'SAT Balancing School']
 excerpt: "The complete SAT preparation guide for students balancing school, activities, and limited study time with efficient strategies, micro-study sessions, and weekend optimization."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -17,7 +17,7 @@ The standard SAT preparation guides assume you have 1 to 2 free hours every day 
 
 This guide is for you. It assumes your time is genuinely limited and that SAT preparation must fit around everything else, not replace it. The strategies here are designed for students who can commit 30 to 45 minutes on most weekdays and 2 to 3 hours on one weekend day. That is approximately 5 to 7 hours per week, which is about half what a full-time study plan recommends. It is enough for meaningful improvement (100 to 250 points over 3 to 6 months) if every minute is used strategically.
 
-![SAT Preparation for Busy Students](/assets/images/blog/blog-04.webp)
+![SAT Preparation for Busy Students](/assets/images/blog/blog-20.webp)
 
 The key insight for busy students: you do not need more time. You need better time. A student who studies 30 focused minutes per day on the right topics, driven by diagnostic data, will outperform a student who studies 2 unfocused hours on random topics. The focused student addresses their actual weaknesses. The unfocused student feels productive but wastes time on topics that are already mastered, topics that are too rare to matter, or topics that are not their personal weaknesses. In a time-constrained situation, focus is your most valuable resource.
 

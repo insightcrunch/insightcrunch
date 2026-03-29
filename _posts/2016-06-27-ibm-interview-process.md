@@ -5,7 +5,7 @@ date: 2016-06-27
 categories: ["Industry"]
 tags: ["IBM"]
 excerpt: "What is IBM's hiring process? Every stage explained from online assessment through technical and HR rounds, with timeline estimates and preparation tips."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,7 +20,7 @@ IBM is one of the oldest, largest, and most successful companies in the world to
 
 Once you apply for the IBM job position, you will receive an email within a week usually for a coding assessment exam. The coding assessment exam will evaluate you on a variety of aspects related to your coding skills. The interviewer may go over your HackerRank code with you and discuss the algorithm that have been used. What were the advantages and disadvantages of some of the different algorithms that you might have used. If there is any way to solve and optimize the logic that you have used to solve the problems. You will have to be able to answer questions from Data Structures (especially Lists) and SQL. These are the fundamental topics that is expected of all professionals to know. If you know any other language instead of these highlight those instead, and you may be successful in driving the discussion and questions in your favor. Object-Oriented Programming is also another important topic. If you are applying for a Data Science position, you can expect more questions related to Data Manipulation and SQL. Practice the IBM interview questions I have shared above to get a real-life experience of the actual questions.
 
-![IBM Interview Questions and Answers For Experienced](/assets/images/blog/blog-03.webp)
+![IBM Interview Questions and Answers For Experienced](/assets/images/blog/blog-11.webp)
 IBM Interview Questions and Answers
 
 ## IBM Interview Questions

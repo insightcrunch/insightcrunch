@@ -5,7 +5,7 @@ date: 2012-01-19
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "Make a small mistake in IT and everyone notices. Deliver flawless work and they wonder what you are hiding. The corporate perception paradox explained."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -14,7 +14,7 @@ In the professional world of the corporates, there is an invisible network of th
 
 The sole reason you were hired is for accomplishing the work assigned to you. This is the basic activity which must be performed. Your supervisor will see your work, and accordingly gather an impression of you with time. This is the after activity when you finish your work. The tricks of the trade lies from the end of the basic activity till the end of the after activity. Let’s say you are a brilliant coder, your other team member is a brilliant photographer. He sees creativity and art in everything, and loves to stay updated with the latest cricket scores. When Sehwag hit 200, he was the first one to update everyone.
 
-![IT Sector Growth and Improvement](/assets/images/blog/blog-08.webp)
+![IT Sector Growth and Improvement](/assets/images/blog/blog-04.webp)
 IT Sector Growth and Improvement
 
 You tried to get the message across to him many times, but failed. So you get back to work, glued to your monitor. But your friend continues to keep a shadow update of the progress of the assigned task. The smallest of your mistakes, is blown out so much out of proportion, that everyone suddenly feels “What the hell are you doing! Your friend is so much more better at doing the same stuffs! Why don’t you just damn hand him over the responsibility?? Are you nuts?” You start to feel guilty. And try reassessing yourself.

@@ -5,7 +5,7 @@ date: 2016-09-20
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Oracle DRM data validation techniques: custom validations, property constraints, and automation approaches that ensure master data quality and integrity."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -44,7 +44,7 @@ The **DRM repository tables** provide a range of options to find and format th
 
 We have lot of options after identifying the nodes which do not meet the 4 validation criterion above. We can use Windows Batch scripting to extract the required data using SQL and dump it in a txt file and send it via mail using Windows Mail. This activity can be scheduled to run always after a specific interval (say 30 mins) to make it near real-time data monitoring. Note how we are completely bypassing the inbuilt DRM Exports functionalities here. It's totally driven by the repository tables, SQL and Windows scripting.
 
-![Oracle DRM Data Validation Techniques for Better Quality and Control](/assets/images/blog/blog-14.webp)
+![Oracle DRM Data Validation Techniques for Better Quality and Control](/assets/images/blog/blog-06.webp)
 Oracle DRM Data Validation Techniques for Better Quality and Control
 
 ## Method 2

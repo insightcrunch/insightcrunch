@@ -6,14 +6,14 @@ date: 2021-12-12
 categories: ["Industry"]
 tags: ["Infosys Career Growth", "Infosys Promotion", "Infosys Designation Hierarchy", "Infosys Appraisal", "Infosys Technology Lead", "Infosys Career Path", "Infosys Levels", "Infosys IJP"]
 excerpt: "Complete Infosys career ladder from SE to VP with promotion timelines, appraisal process, and salary jumps at each level."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 A career at Infosys follows a well-defined ladder. The designations are clearly named, the competency expectations at each level are documented, and the appraisal mechanism that drives movement from one level to the next is structured and predictable. Yet despite this clarity of structure, many Infosys employees feel unclear about where they stand, how fast they should be progressing, what specifically they need to demonstrate to move up, and whether the pace of their career reflects the quality of their work.
 
-![Infosys Career Growth Guide](/assets/images/blog/blog-16.webp)
+![Infosys Career Growth Guide](/assets/images/blog/blog-04.webp)
 
 This guide resolves that ambiguity. It maps the entire Infosys designation hierarchy from Systems Engineer at the entry level through Senior Systems Engineer, Technology Analyst, Technology Lead, Delivery Manager, Senior Delivery Manager, Associate Vice President, and Vice President. For each level it covers: the typical time spent before the next promotion, the skills and competencies evaluated, how the appraisal process works, what a performance rating means and how it drives outcomes, the salary jump at each promotion, whether certifications help, how Internal Job Postings work, the difference between technical and managerial career tracks, how onsite experience factors into advancement, and realistic timelines for top performers versus average performers.
 

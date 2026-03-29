@@ -6,7 +6,7 @@ date: 2020-04-29
 categories: ["Industry"]
 tags: ['SAT Question Bank', 'College Board Question Bank', 'SAT Official Questions', 'SAT Question Bank Strategy', 'SAT Question Bank Guide', 'SAT Official Practice Questions', 'SAT Targeted Practice Questions', 'SAT Question Bank Analysis']
 excerpt: "The complete guide to using the College Board's official SAT Question Bank strategically including filtering by topic, difficulty targeting, and analysis methods for maximum improvement."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ Among the free SAT preparation resources provided by the College Board, the Ques
 
 The Question Bank solves a specific and important preparation problem: the need for high-volume targeted practice in specific content areas without spending full practice test resources on generating those questions. A student who has identified through error analysis that they consistently miss questions about pronoun reference agreement at medium difficulty cannot take a full practice test every time they want to practice that specific skill. The Question Bank allows them to practice twenty pronoun reference questions at medium difficulty in a single focused session, using authentic College Board questions that are not drawn from the limited supply of full practice tests.
 
-![SAT College Board Question Bank Strategy Guide](/assets/images/blog/blog-04.webp)
+![SAT College Board Question Bank Strategy Guide](/assets/images/blog/blog-08.webp)
 
 This guide provides the complete strategic framework for using the Question Bank: what it is, how to access it, how the filtering system works, how to create targeted practice sets from diagnostic results, the difference between Question Bank practice and full-length test practice, how to use it at different stages of preparation, how to analyze performance, how to use question explanations, how to simulate module-specific practice conditions, and the most common mistakes students make when using it. The guide concludes with a structured plan for incorporating the Question Bank systematically throughout a preparation period.
 

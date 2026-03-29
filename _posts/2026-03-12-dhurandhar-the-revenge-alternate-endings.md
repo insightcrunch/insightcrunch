@@ -6,14 +6,14 @@ date: 2026-03-12
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "ranveer-singh", "spy-thriller", "alternate-endings", "aditya-dhar"]
 excerpt: "Reimagining Dhurandhar: The Revenge. Alternate conclusions exploring Hamza's fate, spy allegiances, and endings the Aditya Dhar sequel could have taken."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Seven days before *Dhurandhar: The Revenge* opens in theatres, the internet is already arguing about how it should end. This is not unusual for a film of this magnitude -- a sequel to the highest-grossing Hindi film in history, starring Ranveer Singh in what critics are already calling the performance of his career, directed by Aditya Dhar who proved with *Uri: The Surgical Strike* (2019) that he understands how to close a national story with maximum emotional impact. The argument is, in this case, unusually specific and unusually rich, because the first film left its threads not merely open but vibrating with implication.
 
-![Dhurandhar - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Dhurandhar - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 *Dhurandhar* (2025) ended with the confirmation that Hamza Ali Mazari -- the Karachi underworld's most feared operator, the man who rose through the Lyari gang's ranks to become its de facto king after orchestrating the death of Rehman Dakait -- is, in fact, Jaskirat Singh Rangi, an Indian death-row inmate turned covert operative for Intelligence Bureau Director Ajay Sanyal's Operation Dhurandhar. The mission has consumed a decade of his life and everything that the word "self" might have meant before Sanyal recruited him. He has a wife -- Yalina, daughter of politician Jameel Jamali -- who married Hamza and does not know she is married to a phantom. He has a handler -- Mohammed Aalam, the juice shop owner -- who is the only person in Karachi who knows the truth of who Hamza is. He has a mission target: Majo, the figure whose elimination represents the completion of Operation Dhurandhar's original mandate, the avenging of the 26/11 Mumbai attacks.
 

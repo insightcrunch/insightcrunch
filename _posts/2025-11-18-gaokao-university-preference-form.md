@@ -6,14 +6,14 @@ date: 2025-11-18
 categories: ["Industry"]
 tags: ["高考", "高考志愿", "志愿填报", "平行志愿", "高考录取", "征集志愿", "Gaokao", "University Preference", "Zhiyuan", "Admission Strategy"]
 excerpt: "最全面的高考志愿填报完全指南，深度解析平行志愿与顺序志愿的运作机制、冲稳保策略设计、风险管控与征集志愿补救全流程，帮助考生在关键时刻做出最优决策。"
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考志愿填报，是整个高考过程中继备考和考试之后，最后也是最关键的一个环节。一份填报正确的志愿，可以让考生的成绩发挥出最大价值；而一份填报失误的志愿，则可能让一个高分考生错失心仪院校，甚至落入远低于实力水平的院校。在高考已经结束、成绩已经公布的情况下，志愿填报是考生唯一还能主动掌控的变量。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-12.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
 *高考志愿填报完全指南：从平行志愿机制到冲稳保策略，从专业选择到征集志愿，全面掌握高考志愿填报的核心知识与决策方法*
 
 本文将系统讲解高考志愿填报的完整体系，从平行志愿与顺序志愿的根本区别，到志愿数量与填报时间窗口的规则；从冲稳保策略的科学设计，到专业选择与学校选择的权衡；从常见填报误区的规避，到征集志愿（补录）机会的利用。每一个知识点都配合具体的操作建议，帮助考生在高考结束后的关键几天，做出最有把握的志愿填报决策。

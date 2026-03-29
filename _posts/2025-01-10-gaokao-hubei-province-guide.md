@@ -6,14 +6,14 @@ date: 2025-01-10
 categories: ["Industry"]
 tags: ["高考", "湖北高考", "湖北分数线", "湖北新高考", "Hubei Gaokao", "Provincial Guide"]
 excerpt: "湖北高考完全指南：以黄冈教育传统为文化底色，深度解析武大、华科两大顶尖985的竞争格局，全面梳理3+1+2新高考改革对湖北学子的影响，以及历年分数线趋势与志愿填报实战策略。"
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 湖北，是中国教育版图上最具独特性的省份之一。以"黄冈模式"享誉全国的基础教育传统，以武汉大学、华中科技大学为核心的世界级高校集群，以及独步全国的3+1+2新高考改革先行探索，共同塑造了湖北高考在全国高考格局中的特殊地位。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-07.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
 *湖北高考完全指南：黄冈教育传统、武汉高校集群与3+1+2新高考策略*
 
 湖北高考的特殊性在于：它拥有全国基础教育质量最强的地区之一（黄冈），同时坐拥武汉这座中国"大学生密度最高的城市"（武汉高校在校生超过130万），且是新高考改革的重要试验省份。

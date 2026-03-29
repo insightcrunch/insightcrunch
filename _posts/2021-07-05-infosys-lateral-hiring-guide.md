@@ -6,14 +6,14 @@ date: 2021-07-05
 categories: ["Industry"]
 tags: ["Infosys Lateral Hiring", "Infosys Experienced Hiring", "Infosys Lateral Jobs", "Infosys Interview for Experienced", "Infosys Salary Negotiation", "Infosys Lateral Process", "Infosys Off-Campus Experienced", "Infosys Referral Hiring"]
 excerpt: "Complete guide to Infosys lateral hiring for experienced professionals: application process, interview format, salary negotiation, designation mapping, and what experienced hires need to know before joining."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Infosys hiring conversation is dominated by fresher placement guides, and for good reason: Infosys is one of India's largest campus recruiters, hiring tens of thousands of fresh engineers every year. But Infosys also hires thousands of experienced professionals annually through its lateral hiring channels, and the lateral hiring process, the salary negotiation dynamics, the designation mapping, and the onboarding experience for experienced hires are almost entirely undocumented in publicly available resources.
 
-![Infosys Lateral Hiring Guide for Experienced Professionals](/assets/images/blog/blog-11.webp)
+![Infosys Lateral Hiring Guide for Experienced Professionals](/assets/images/blog/blog-03.webp)
 
 This guide covers every aspect of the Infosys lateral hiring process for professionals with two to fifteen or more years of experience. It explains how lateral hiring differs from fresher hiring, how to find and apply to lateral openings, what the interview process looks like at different experience levels and for different roles, how designation mapping works for experienced hires, how to negotiate salary effectively, what the background verification process involves for lateral hires, and what experienced joiners should expect in their first weeks at Infosys. It is written with the honesty that guides in this series are built on: what is actually true, including the parts that are uncomfortable, rather than a polished narrative designed to attract applicants.
 

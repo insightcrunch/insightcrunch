@@ -6,14 +6,14 @@ date: 2020-09-17
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Results Date", "Result Timeline"]
 excerpt: "When do TCS NQT results come out after the exam? Typical waiting period, how to check the portal, and what to expect in the scorecard."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The most common question in the weeks after taking the TCS NQT is not "did I qualify" but "when will I find out." TCS does not announce a specific result date in advance. Results are released when processing is complete, and that timeline varies by window. Knowing the typical patterns, what causes variations, and how to productively use the waiting period makes the difference between an anxious wait and a preparation-productive wait.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-16.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-04.webp)
 *The complete guide to TCS NQT results dates and timelines - what the typical result announcement timeline is, why results for some windows come faster than others, how to track your result status during the wait, what factors cause delays, what community channels tell you versus what the portal tells you, and how to use the waiting period productively regardless of when results arrive*
 
 This guide answers the timing question comprehensively - not with a false promise of a specific date, but with the honest pattern knowledge that lets you plan around a realistic expectation window.

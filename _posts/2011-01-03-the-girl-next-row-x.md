@@ -5,7 +5,7 @@ date: 2011-01-03
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "A TCS ILP guest post that reads like a short story. The train journey, the classroom, the girl in the next row, and how ILP creates memories."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -18,7 +18,7 @@ Anyway I was not feeling bad.It was like an adventurous trip for me.I had spent 
 
 If I summarize Bhubaneshwar it will be like: Temples + Tier3 + Very less pubs + no malls, I had already figured it out that the city won't be charming. The only interest was the new life that I was going to begin, my first month's salary and a probability to impress a new female colleague.
 
-![TCS ILP Experience NQT Ninja Digital Syllabus Registration Practice Questions](/assets/images/blog/blog-13.webp)
+![TCS ILP Experience NQT Ninja Digital Syllabus Registration Practice Questions](/assets/images/blog/blog-05.webp)
 TCS ILP Experience
 
 A lady in a pink top and denim blue jeans was sitting with her family. They were in my next row after the aisle.She was reading an English novel by some author.I felt lucky, even the quinquagenarian uncles were also staring at her.The only person who was suffering was her father.He was the common enemy for all the young bachelors sitting there.A lucky guy sitting next to him was trying to impress his son(actually daughter) offering his mobile, but can't progress more because the little guy was far smarter than him. A Nokia 1200 was not sufficient for him.I looked at my N96,it had N-gage 3D games but of no use now.

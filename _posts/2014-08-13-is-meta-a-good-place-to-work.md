@@ -5,7 +5,7 @@ date: 2014-08-13
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Is Meta a good employer? Employee satisfaction, compensation, career growth, work-life balance, and the honest pros and cons of working at Facebook's..."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 7
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -22,7 +22,7 @@ Read more: [Why is Meta not hiring? »](https://insightcrunch.com/2014/09/19/why
 
 The culture of work at Meta is focused on employees prioritizing their work above everything else. Employees at Meta felt the pressure that they have to comply with their managers requests at all times. There was a peer feedback process which forced Meta employees to be cordial with their colleagues. This would help them get favorable feedbacks which can stay in their career for a long time. Employees were not able to escape from the work culture that has developed at Meta. This type of work culture is preventing Meta employees from sharing candid feedback on events and situations they are experiencing. There has been events of governments spreading misinformation to influence elections and the misuse of private user data. Both of which could have been addressed or mitigated sooner if employees had spoken out. In the current work culture at Meta rarely employees speak out their mind. Many have said some problems would not have appeared as widely and publicly in all the newspapers if employees had addressed and discussed these issues openly and taken care to resolve them quickly. Financially as well this type of work culture has affected. As such news stories get published, the share price of Meta also suffered extreme volatility due to the negative news publications.
 
-![Meta Work Culture](/assets/images/blog/blog-06.webp)
+![Meta Work Culture](/assets/images/blog/blog-18.webp)
 Meta Work Culture
 
 ## Meta Performance Review

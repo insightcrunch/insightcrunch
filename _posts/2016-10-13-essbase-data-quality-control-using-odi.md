@@ -5,7 +5,7 @@ date: 2016-10-13
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "Validate Essbase data quality after ODI loads. Post-load checks, aggregation verification, and how to catch data issues before they reach end users."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ Oracle Essbase is an excellent tool for handling large volumes of data and doing
 
 Using the ODI **IKM SQL to Hyperion Essbase (DATA)** we daily load the data to the Essbase cubes. But it might so happen that the transactional data is not getting loaded into the cubes, because the outline build was not successful. Thus, **due to a missing member** (say for Account dimension) in the outline, all transactional data corresponding to that specific Account number will get rejected since there is simply **no placeholder** for the data to get into. This missing member in the outline can happen due to **multiple reasons** - cube outline build process failed, the source tables or files for outline build not having the correct data, DRM not having the missing member in its hierarchy, etc.
 
-![Essbase data quality control using ODI](/assets/images/blog/blog-06.webp)
+![Essbase data quality control using ODI](/assets/images/blog/blog-02.webp)
 Essbase data quality control using ODI
 
 The **impact of this Essbase data discrepancy** is profound. The data between Database reports and Essbase reports can drastically differ giving inconsistent results under such scenario causing more confusion. Also, data between different environments (say Dev or Test or Prod) can start varying for the same historic month - obviously due to the outline differences causing the data loads to behave differently - succeeding for some and failing for some.

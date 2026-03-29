@@ -6,7 +6,7 @@ date: 2021-04-16
 categories: ["Industry"]
 tags: ['SAT Advanced Math', 'SAT Quadratic Equations', 'SAT Polynomials', 'SAT Exponential Functions', 'SAT Radicals', 'SAT Advanced Math Practice', 'SAT Factoring', 'SAT Completing the Square']
 excerpt: "Master every SAT Advanced Math topic including quadratics, polynomials, exponentials, rational expressions, and radicals with worked examples and score-boosting strategies."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ Advanced Math is where the SAT separates mid-range scorers from high scorers. Th
 
 The topics in this domain build directly on the Algebra skills covered in the previous domain. If Algebra deals with linear relationships (straight lines, constant rates of change), Advanced Math deals with nonlinear relationships: curves, accelerating growth, reciprocal functions, and the rich mathematical landscape beyond straight lines. Mastery of these topics requires not just procedural skill but genuine conceptual understanding of how nonlinear functions behave.
 
-![SAT Advanced Math Complete Guide](/assets/images/blog/blog-07.webp)
+![SAT Advanced Math Complete Guide](/assets/images/blog/blog-19.webp)
 
 This guide covers every Advanced Math topic tested on the Digital SAT in exhaustive detail. For each topic, you will find the underlying concept explained from the ground up, multiple worked examples at different difficulty levels, the specific ways the College Board tests each concept, common mistakes to avoid, trap answer patterns, and the fastest solution approaches including strategic use of the Desmos graphing calculator.
 

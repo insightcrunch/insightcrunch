@@ -5,7 +5,7 @@ date: 2010-06-26
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Picasa meets Kewll toolbar. Launch Google's photo management app straight from your browser without hunting through your Start menu."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -14,7 +14,7 @@ In a recent blend of activities that had been going on taking Kewll to the next 
 
 The immense success of Kewll had been it’s intuitive wiki feature which enables the users to suggest features. that they want to see on it. With a suggest link in every tool, users never feel left out. It’s like someone alive in your browser helping you out, because suggested features appear in it in no more than a couple of days.
 
-![Google Photo Storage](/assets/images/blog/blog-11.webp)
+![Google Photo Storage](/assets/images/blog/blog-03.webp)
 Google Photo Storage
 
 Read more: [Pedestrian follows Google Maps, gets run over and sues Google for $100,000 »](https://insightcrunch.com/2010/06/29/pedestrian-follows-google-maps-gets-run-over-and-sues-google-for-100000/)

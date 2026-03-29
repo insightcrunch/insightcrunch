@@ -6,14 +6,14 @@ date: 2011-06-22
 categories: ["Industry"]
 tags: ["TCS", "Outsourcing", "IT Demand", "Global Trends"]
 excerpt: "Is IT outsourcing demand really weakening? TCS pushes back against the CLSA brokerage report and reassures employees and freshers about growth."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Every few months, a brokerage report lands in the financial press, a consultancy publishes a market study, or a prominent technology executive makes a comment that sets off a wave of speculation: Is IT outsourcing demand weakening? Are global companies pulling back from offshore models? Is the business that underpins TCS's entire existence facing structural erosion?
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-14.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-02.webp)
 *The complete guide to IT outsourcing demand and TCS - how global outsourcing trends work, what drives them, how they affect TCS hiring and projects, and how to read the signals accurately*
 
 These waves of speculation are not new. They have accompanied TCS and the broader Indian IT outsourcing sector for decades, surfacing during every period of macroeconomic difficulty, every immigration policy debate, every geopolitical tension that touches the US-India technology relationship. And in every cycle, TCS has reported results that demonstrate continued, growing demand even as the speculation suggested otherwise.

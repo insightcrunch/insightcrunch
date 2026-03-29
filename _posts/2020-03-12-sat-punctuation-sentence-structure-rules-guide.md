@@ -6,7 +6,7 @@ date: 2020-03-12
 categories: ["Industry"]
 tags: ['SAT Punctuation', 'SAT Comma Rules', 'SAT Semicolon', 'SAT Colon Usage', 'SAT Sentence Structure', 'SAT Run On Sentences', 'SAT Fragments', 'SAT Clause Structure']
 excerpt: "Master every SAT punctuation and sentence structure rule including comma usage, semicolons, colons, dashes, sentence fragments, run-on sentences, and clause structure."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ Punctuation and sentence structure questions account for a significant and consi
 
 The challenge for many students is that punctuation rules are often taught inconsistently in school, leaving gaps in understanding that cost points on the SAT. Students who have learned to punctuate by feel rather than by rule frequently make errors they cannot explain or correct. This guide addresses every punctuation and sentence structure rule the SAT tests, explains each rule precisely, provides multiple examples distinguishing correct from incorrect usage, and gives a clear identification strategy for recognizing which rule a question is testing.
 
-![SAT Punctuation and Sentence Structure Complete Guide](/assets/images/blog/blog-07.webp)
+![SAT Punctuation and Sentence Structure Complete Guide](/assets/images/blog/blog-03.webp)
 
 This guide covers: all comma rules (introductory elements, nonessential information, lists, compound sentences, coordinate adjectives, the Oxford comma, and comma splices), semicolons, colons, dashes, apostrophes (possessives and contractions, including its vs. it's), sentence fragments, run-on sentences and how to fix them, and the structural concepts that underlie all punctuation decisions (independent clauses, dependent clauses, coordinating and subordinating conjunctions). Each rule is presented with its underlying grammatical principle, multiple correct and incorrect examples, how to identify the rule being tested, and the fastest way to find the correct answer.
 

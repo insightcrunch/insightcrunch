@@ -5,14 +5,14 @@ date: 2019-10-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Indore", "Madhya Pradesh", "Fresher", "Super Corridor", "SEZ", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Indore for associates at the Super Corridor SEZ campus. Covers the 100-acre green campus on Super Corridor Road, accommodation options near the IT corridor, Indore's legendary street food culture (poha-jalebi, bhutte ka kees, dal bafla), the cleanest city in India award, weekend trips to Mandu, Maheshwar, Omkareshwar, and Ujjain, and everything freshers need for living in central India's fastest-growing IT hub."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 Indore is the TCS city that surprises everyone who arrives. The city that most freshers from south India, Bengal, or the northeast have never heard of turns out to be India's cleanest city (winning the Swachh Bharat award multiple times consecutively), one of the country's most passionate food cities, and a rapidly growing IT hub where TCS has invested in a world-class 100-acre campus on the Super Corridor. For associates who expected a dusty central Indian town, Indore delivers a modern, well-planned city with excellent civic infrastructure, an extraordinary street food scene, and a cost of living that makes genuine financial freedom possible on a fresher salary.
 
-![TCS Accommodation Indore - Complete Housing Guide](/assets/images/blog/blog-08.webp)
+![TCS Accommodation Indore - Complete Housing Guide](/assets/images/blog/blog-12.webp)
 TCS Accommodation Indore - Complete Housing Guide for the Super Corridor Campus
 
 TCS in Indore operates from its dedicated SEZ campus on the Super Corridor Road at Tigariya Badshah, a sprawling 100-acre property that represents one of TCS's most significant investments in tier-2 India. The campus features 3-to-7-story buildings totaling 1.2 million square feet of built-up space, including software engineering blocks, training facilities, an auditorium, a library, cafeterias, and landscaped areas with water bodies and green spaces. The campus was designed with green building concepts including zero discharge with 100% sewage recycling, energy-efficient systems, and rainwater harvesting. With 3,000+ employees handling BFSI, delivery services, and application development, TCS Indore is a hub for central Indian IT operations that has established the city as a serious technology destination.

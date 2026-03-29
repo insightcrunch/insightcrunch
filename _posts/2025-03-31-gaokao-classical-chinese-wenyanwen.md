@@ -6,14 +6,14 @@ date: 2025-03-31
 categories: ["Industry"]
 tags: ["高考", "文言文", "高考语文", "文言文翻译", "Gaokao", "Classical Chinese", "Wenyanwen", "Literature"]
 excerpt: "高考文言文完全攻略：从高频实词虚词的系统积累，到文言文语法句式的全面解析，从翻译得分的核心技巧，到阅读理解的针对性策略，以及历年高考最常出现的经典篇目深度梳理。"
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 文言文，是高考语文中公认的最难啃的"硬骨头"。它不只考查阅读理解能力，更要求考生对距今数百乃至数千年的古代汉语语法体系、词汇系统和文化背景有系统的掌握。然而，正是因为文言文的规律性极强，它也是通过系统训练可以显著提升成绩的模块之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-14.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-18.webp)
 *高考文言文完全攻略：从实词虚词积累到语法句式，从翻译技巧到阅读理解策略，系统攻克文言文的所有考查维度*
 
 在高考语文试卷（满分150分）中，文言文相关题目通常占34分左右（含文言文阅读约19分+古诗文默写约10分+文化常识等），是仅次于作文的最大单项得分模块。掌握文言文，是语文高分最重要的支柱之一。

@@ -5,7 +5,7 @@ date: 2009-06-22
 categories: ["Industry"]
 tags: ["Infosys"]
 excerpt: "This is a guest post by Nirmalya Roy Chowdhury who had got his dream of getting placed in Infosys fulfilled in February 2008. Extremely fond of..."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -20,7 +20,7 @@ Then the next morning came. My father consoled me by saying that he wants me to 
 
 Keep reading: [Echoes of Life »](https://insightcrunch.com/2009/06/21/echoes-of-life/)
 
-![Infosys Campusing Experience](/assets/images/blog/blog-01.webp)
+![Infosys Campusing Experience](/assets/images/blog/blog-09.webp)
 Infosys Campusing Experience
 
 Then the next day or you can say the D-day arrived . we went to the venue at around 7:30 in the morning . Infy people started their ppt at around 9 and I was amazed to see the lovely pictures of gecs of Infy in Mysore dc . they then offered us Rs.3 lac/annum. We went to apti and it went well. Result came out at around 4:30 pm and in the beginning ,my name was not coming. One by one ,my friends who cleared in apti erupting in joy and I was just telling my mind that this time 2 i will be among unsuccessful ones when our tpo sir called out my name . All my friends who helped me in preparation and helped me during this tensed 1 week congratulated me and said me that this would be my day . then the selected ones r taken to another venue for interview. Infosys does not take technical interview . Infy only takes hr interview . But this hr interview is different from other hr interviews. Here they never ask questions like why Infosys. I was asked questions related to my background. Then they asked that why I changed my board from CBSE to West Bengal board after class 10. I explained. The interviewer then asked that did u do any managerial tasks in school or college. I replied back that I did in my school fests and explained how I did. He then asked me that u r waiting for such a long time from early morning aren’t u feeling fatigued. I explained my answer and he seemed satisfied. Then he asked about my extra-curricular activities. He also asked that whether learning by books is actual learning. I replied by saying that my fav subject is c programming. So u just can’t enrich ur knowledge from books but besides u should participate in tech competitions and should give more focus on experimenting with small things to build our concepts in a better way. He seemed satisfied. Then he asked me that do I have any question . I asked that why Infosys build such huge dcs while other companies like TCS etc do not have such huge dcs . he explained me the reason and my interview was finished . then we waited for about 2 hrs. at around 10 in the night,results came out and I was selected.

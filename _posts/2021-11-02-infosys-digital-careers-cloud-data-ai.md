@@ -6,14 +6,14 @@ date: 2021-11-02
 categories: ["Industry"]
 tags: ["Infosys Digital Careers", "Infosys Cloud Jobs", "Infosys Data Science Jobs", "Infosys AI Jobs", "Infosys Cobalt", "Infosys Topaz", "Infosys Digital Specialist", "Infosys Technology Roles"]
 excerpt: "Complete guide to Infosys's digital career tracks: Cobalt cloud roles, Topaz AI roles, data engineering, and how freshers and experienced professionals access premium technology positions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Infosys has undergone one of the most significant strategic transformations of any major Indian IT services company over the past decade. The company that built its reputation on application development and maintenance for global enterprises has repositioned itself as a digital transformation partner, with major platform investments in cloud (Infosys Cobalt), artificial intelligence (Infosys Topaz), digital commerce (Infosys Equinox), and enterprise modernization. This repositioning has changed what the most interesting and highest-paying technology roles at Infosys look like and how freshers and experienced professionals can access them.
 
-![Infosys Digital Careers Cloud Data AI Roles](/assets/images/blog/blog-01.webp)
+![Infosys Digital Careers Cloud Data AI Roles](/assets/images/blog/blog-17.webp)
 
 This guide explains Infosys's digital career landscape comprehensively. It covers what Infosys Cobalt is and what cloud roles exist within it, what Infosys Topaz is and what AI and data roles it creates, how the data engineering and analytics career tracks work, what the DSE and premium hiring tracks look like in the digital context, how freshers in the digital streams experience [Mysore training](https://insightcrunch.com/2021/07/21/infosys-mysore-training/) differently, what the first project and early career look like in cloud and data roles versus traditional development roles, what skills and certifications are most valuable in each digital track, and how the digital career at Infosys compares to equivalent roles at product companies and GCCs.
 

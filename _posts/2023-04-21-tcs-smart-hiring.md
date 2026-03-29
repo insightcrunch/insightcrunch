@@ -6,14 +6,14 @@ date: 2023-04-21
 categories: ["Industry"]
 tags: ["TCS Smart Hiring", "TCS Ignite", "TCS Smart", "TCS BCA hiring", "TCS BSc hiring"]
 excerpt: "The complete TCS Smart Hiring guide for BCA and B.Sc graduates. Covers Smart vs Ignite profiles, exam prep, and career trajectory."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 BCA and B.Sc graduates occupy an interesting middle ground in India's IT hiring landscape. They have a science or computing foundation that separates them from purely commerce or arts graduates, yet they are excluded from the engineering graduate NQT track that B.Tech and B.E candidates use to enter TCS. TCS Smart Hiring is built specifically for this middle ground. It is TCS's structured pathway to bring science graduates into IT careers - not as a temporary bridge or a consolation offering, but as a dedicated program with its own training architecture, career track, and long-term growth potential. This guide covers every aspect of TCS Smart Hiring: who qualifies, what the test looks like, how Smart differs from Ignite, what the "Science to Software" transformation program involves, and how a B.Sc or BCA graduate can build a competitive IT career through this route.
 
-![TCS Guide](/assets/images/blog/blog-15.webp)
+![TCS Guide](/assets/images/blog/blog-07.webp)
 
 ## What Is TCS Smart Hiring?
 

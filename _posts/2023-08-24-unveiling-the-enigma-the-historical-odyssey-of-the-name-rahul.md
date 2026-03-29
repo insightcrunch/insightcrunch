@@ -5,7 +5,7 @@ date: 2023-08-24
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2037", "Thoughts"]
 excerpt: "The history and meaning of the name Rahul: from ancient Sanskrit origins to Buddhist significance to modern Indian usage across cultures and generations."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ last_updated: 2026-03-23
 
 Names hold within them a treasure trove of cultural, linguistic, and historical significance. One such name that has traversed through the annals of time is "Rahul." A name that resonates with millions, it carries a legacy that intertwines with history, mythology, and modernity.
 
-![](/assets/images/blog/blog-01.webp)
+![](/assets/images/blog/blog-09.webp)
 
 ## Ancient Origins and Mythological Roots
 

@@ -6,7 +6,7 @@ date: 2020-06-16
 categories: ["Industry"]
 tags: ['SAT Admissions Process', 'SAT Score Evaluation', 'SAT College Admissions', 'SAT Holistic Review', 'SAT Academic Index', 'SAT Admissions Weight', 'SAT Score Importance', 'SAT Role in Admissions']
 excerpt: "An insider guide to how college admissions offices actually evaluate SAT scores including academic index, holistic review, reader evaluation, and how scores interact with other application factors."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -15,7 +15,7 @@ Most students applying to college have a mental model of how SAT scores are used
 
 The reality is more nuanced and institution-specific than either model suggests. How colleges use SAT scores in admissions decisions varies significantly by institution type, selectivity level, and philosophy. At large public universities, scores often function through formulaic systems with meaningful cutoffs that determine which applications receive further review. At selective private universities with holistic processes, scores function more as baseline establishment tools that determine whether an application enters the competitive pool, after which other factors do the primary differentiating work. At test-optional institutions, the evaluation depends entirely on whether the applicant submitted scores. Understanding exactly how scores are used at each specific institution you are applying to is essential for setting preparation targets and calibrating application strategy accurately.
 
-![How Colleges Actually Use SAT Scores in Admissions Decisions](/assets/images/blog/blog-14.webp)
+![How Colleges Actually Use SAT Scores in Admissions Decisions](/assets/images/blog/blog-06.webp)
 
 This guide pulls back the curtain on the admissions process to reveal exactly how SAT scores function at different types of institutions: how application readers evaluate scores in their initial review, how scores interact with GPA in academic profile construction, how holistic review actually works for scores, how scores are evaluated in context, how the score equation changes for athletes and legacy applicants, and what the evidence shows about whether SAT scores actually predict college success.
 

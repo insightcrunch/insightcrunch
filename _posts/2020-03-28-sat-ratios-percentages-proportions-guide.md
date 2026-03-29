@@ -6,7 +6,7 @@ date: 2020-03-28
 categories: ["Industry"]
 tags: ['SAT Ratios', 'SAT Percentages', 'SAT Proportions', 'SAT Percent Increase', 'SAT Percent Decrease', 'SAT Unit Rates', 'SAT Proportional Reasoning', 'SAT Ratio Problems']
 excerpt: "Master every SAT ratio, percentage, and proportion question type including unit rates, percent increase/decrease, proportional reasoning, and unit conversion with worked examples."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ Ratios, percentages, and proportions form one of the most practically important 
 
 The most damaging of these traps is the base-value error in percentage change: calculating percent increase or decrease using the wrong base. This single error pattern probably costs more students points on SAT percentage questions than any other mistake, and it is entirely preventable once the correct formula is understood and applied consistently. Similarly, students who confuse part-to-part ratios with part-to-whole ratios lose points on ratio questions despite understanding the underlying arithmetic. This guide addresses every variation of ratio, percentage, and proportion question the SAT tests, with explicit identification of every major trap and the clearest possible explanation of how to avoid each one.
 
-![SAT Ratios, Percentages, and Proportions Complete Guide](/assets/images/blog/blog-16.webp)
+![SAT Ratios, Percentages, and Proportions Complete Guide](/assets/images/blog/blog-12.webp)
 
 This guide covers: ratio concepts (part-to-part, part-to-whole, equivalent ratios), proportions and how to solve them, unit rates and rate conversions, speed-distance-time problems, all three percentage calculation types, percent increase and decrease with the correct base-value formula, successive percentage changes, real-world percentage word problems, unit conversions, density and concentration problems, scaling problems, and mixture problems. Each topic includes worked examples at multiple difficulty levels, common errors, and the fastest solution approach.
 

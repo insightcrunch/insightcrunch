@@ -6,14 +6,14 @@ date: 2025-10-25
 categories: ["Industry"]
 tags: ["高考", "NEET", "高考对比", "印度医学考试", "考试比较", "医学教育", "Gaokao", "NEET", "Exam Comparison", "Medical Admission"]
 excerpt: "深度比较高考与NEET的生物化学深度、医学录取路径、竞争强度与备考文化，全面解析中印两国如何通过不同机制守护医学教育入口。"
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考与NEET（National Eligibility cum Entrance Test，全国资格暨入学考试），分别是中国和印度进入医学高等教育的核心入口考试。两者都承载着数百万有志于学医的年轻人的梦想，都在各自国家的医学教育体系中扮演着最关键的"门控"角色，也都以极高的竞争强度和严格的筛选机制而闻名于世。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-15.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
 *高考vs NEET深度比较：从生物化学深度到医学录取路径，从竞争比例到备考文化，全面解析中印两国如何守护医学教育这一最珍贵的职业入口*
 
 中国每年约有数十万学生在高考后志愿填报临床医学专业，而印度每年约有220万学生参加NEET备战约107700个医学本科席位。两种考试，两种文化，两种医学教育门控机制，但背后的驱动力是相同的：医学是人类最崇高的职业之一，进入医学教育体系的门槛，理应是最严格的学术能力筛选。

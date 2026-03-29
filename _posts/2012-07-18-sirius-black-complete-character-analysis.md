@@ -5,7 +5,7 @@ date: 2012-07-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Gryffindor", "Order of the Phoenix", "Marauders"]
 excerpt: "A deep literary analysis of Sirius Black across all seven Harry Potter books - his freedom, his imprisonment, his love for Harry, and his tragic place in the series."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -14,7 +14,7 @@ last_updated: 2026-03-28
 
 Sirius Black is the Harry Potter series' most complete portrait of what injustice actually costs - not in abstract terms, not as a political argument, but in the specific, irreversible currency of a human life. He spent twelve years in Azkaban for a crime he did not commit. He was never tried. He was taken from the ruins of Godric's Hollow, placed in a cell, and left there while the world built its story of his guilt around his absence. When he emerges in *Prisoner of Azkaban*, gaunt and wild-eyed and barely recognizable as human, the series presents the specific human wreckage that twelve years of dementor proximity produces - and then, through the next two books, shows what it costs to try to put yourself back together when the world still believes you guilty and there is nowhere safe to go.
 
-![Sirius Black complete character analysis across all seven Harry Potter books](/assets/images/blog/blog-12.webp)
+![Sirius Black complete character analysis across all seven Harry Potter books](/assets/images/blog/blog-08.webp)
 
 He is also, and this is the tension that gives his character its particular resonance, not simply a victim. The Sirius Black who existed before Azkaban was a person of enormous energy, genuine recklessness, and a specific quality of adolescent cruelty that the series does not apologize for: the boy who nearly got Snape killed as a prank, who was brilliant and charismatic and deeply committed to a social world that centered on himself and his friends to the exclusion of everyone they found uninteresting. Azkaban did not make him a saint. It stripped him to his essential nature - to the love of Harry's parents and Harry himself, to the Marauder loyalty that had been the organizing principle of his best years - and returned him, damaged and desperate and burning with the need to act, into a world that no longer had a place for him.
 

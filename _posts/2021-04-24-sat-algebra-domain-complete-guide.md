@@ -6,7 +6,7 @@ date: 2021-04-24
 categories: ["Industry"]
 tags: ['SAT Algebra', 'SAT Linear Equations', 'SAT Systems of Equations', 'SAT Inequalities', 'SAT Algebra Practice', 'SAT Algebra Questions', 'SAT Math Algebra Topics', 'SAT Linear Functions']
 excerpt: "Master every SAT Algebra topic including linear equations, systems of equations, inequalities, absolute value, and function notation with worked examples and strategies."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ Algebra is the single most important domain on the SAT Math section. It accounts
 
 This guide covers every Algebra topic tested on the Digital SAT in exhaustive detail. For each topic, you will find the underlying concept explained from the ground up, worked examples at multiple difficulty levels, the specific ways the College Board tests each concept, common mistakes students make, trap answer patterns to watch for, and the fastest solution approach. If you master everything in this guide, you will have the tools to answer every Algebra question on the SAT correctly.
 
-![SAT Algebra Complete Guide](/assets/images/blog/blog-14.webp)
+![SAT Algebra Complete Guide](/assets/images/blog/blog-18.webp)
 
 ## Table of Contents
 

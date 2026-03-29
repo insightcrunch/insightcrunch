@@ -6,14 +6,14 @@ date: 2021-10-09
 categories: ["Industry"]
 tags: ["InfyTQ", "InfyTQ Preparation", "InfyTQ Exam Pattern", "Infosys InfyTQ", "InfyTQ Coding Questions", "InfyTQ Certification", "Infosys Hiring", "InfyTQ Guide"]
 excerpt: "Everything you need to crack InfyTQ from registration to certification to exam with topic-wise preparation strategy."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 InfyTQ is one of the most accessible and structured pathways into Infosys for engineering students and fresh graduates who did not secure a placement through a direct campus drive. It combines a free online learning platform with a certification and assessment system that Infosys uses to identify and hire candidates at scale. For candidates who understand how the platform works, what the assessments actually test, and how strong performance translates into a job offer, InfyTQ is a genuinely powerful hiring channel.
 
-![InfyTQ Preparation Guide](/assets/images/blog/blog-12.webp)
+![InfyTQ Preparation Guide](/assets/images/blog/blog-16.webp)
 
 The challenge is that most candidates who register on InfyTQ treat it casually, either completing the courses without engaging with the material seriously or attempting the assessments without adequate preparation. This guide exists to give candidates the complete picture: what InfyTQ is, how it fits into the Infosys hiring pipeline, how the certification works, what the exam pattern looks like in practice, and how to prepare for every section with the depth that the assessment actually demands.
 

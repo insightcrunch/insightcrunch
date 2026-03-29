@@ -6,14 +6,14 @@ date: 2024-12-01
 categories: ["Industry"]
 tags: ["高考", "湖南高考", "湖南分数线", "Hunan Gaokao", "Provincial Guide"]
 excerpt: "最全面的湖南高考指南，深度解析长沙四大名校传统、3+1+2模式下的选科策略、中南大学与湖南大学录取攻略、湖南高考竞争格局及各类型考生的完整备考方案。"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 湖南，一片孕育了无数历史风云人物的热土。从近代史上叱咤风云的湘军将领曾国藩、左宗棠，到开天辟地的伟大领袖毛泽东，再到主持改革的国家领导人刘少奇，湖南这片土地以其特有的"敢为天下先"的湘人精神，在中国近现代史上留下了浓墨重彩的印记。这种刚猛进取、不畏艰难的文化基因，深深渗透进湖南的教育传统，孕育出了一代又一代以"吃得苦、霸得蛮、耐得烦"著称的湖湘学子。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-15.webp)
 *湖南高考：长沙四大名校传统、3+1+2新高考制度与中南大学录取策略全面解析*
 
 在中国高考版图上，湖南是一个令人瞩目的存在。每年超过60万名考生参加高考，是全国考生人数最多的省份之一；长沙以"长郡中学、雅礼中学、湖南师范大学附属中学、湖南省长沙市第一中学"四所顶尖高中构成的"四大名校"格局，在全国高中教育圈中享有极高声誉；中南大学、湖南大学、湖南师范大学、国防科技大学等一批实力雄厚的院校，为湖南考生提供了相对丰富的本地优质高等教育资源。然而，庞大的考生基数与相对有限的顶尖高校名额之间的落差，使得湖南高考的竞争强度在全国一直处于较高水平。

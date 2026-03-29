@@ -5,7 +5,7 @@ date: 2012-07-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Remus Lupin", "Werewolf", "Marauders", "Order of the Phoenix"]
 excerpt: "A literary analysis of Remus Lupin in Harry Potter - his werewolf stigma, his courage as a teacher, and his tragic dignity across seven books."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -14,7 +14,7 @@ last_updated: 2026-03-28
 
 Remus Lupin is the Harry Potter series' most precise portrait of what it costs to live as the wrong kind of person in a world that has decided what the wrong kinds are. He is not wrong in any sense that a fair accounting would endorse - he is gentle, brilliant, kind, loyal, brave in the specific way of someone who does not perform courage but simply does what needs to be done. What he is, through no choice of his own, is a werewolf: bitten as a child by Fenrir Greyback, infected with a condition that transforms him into something dangerous once a month, marked for life by the thing that was done to him at an age when he could not have prevented it and had no say in its consequences.
 
-![Remus Lupin complete character analysis across all seven Harry Potter books](/assets/images/blog/blog-11.webp)
+![Remus Lupin complete character analysis across all seven Harry Potter books](/assets/images/blog/blog-19.webp)
 
 The wizarding world's treatment of werewolves is the series' clearest parallel to real-world discrimination against people whose conditions, identities, or circumstances place them outside the category of normal. Werewolves cannot hold most jobs. They face legal restrictions. The general wizarding population regards them with a combination of fear and contempt that is disproportionate to any actual threat and that persists regardless of individual conduct, because the classification is categorical rather than behavioral. Lupin, who is mild-mannered, takes his Wolfsbane potion faithfully, and poses no threat in his human form, is subject to the same legal and social penalties as the most dangerous member of his kind, because the wizarding world has decided that what he is matters more than what he does.
 

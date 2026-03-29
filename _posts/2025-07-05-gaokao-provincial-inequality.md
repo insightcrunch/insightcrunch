@@ -6,14 +6,14 @@ date: 2025-07-05
 categories: ["Industry"]
 tags: ["高考", "高考公平", "高考不公平", "省际名额", "户籍制度", "城乡差距", "Gaokao", "Fairness", "Provincial Inequality", "Education Policy"]
 excerpt: "深度解析高考公平性争论：为什么同一所大学的录取分数线，河南考生比北京考生高出几十乃至上百分？户籍制度如何影响高考机会？城乡教育资源差距的真实面貌，以及历年推动改革的努力与进展。"
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 高考，被广泛视为中国最公平的选拔制度之一，"分数面前人人平等"的理念，支撑着数以亿计中国家庭对高考的深厚信仰。然而，在这个表面公平的机制之下，存在着一组深刻的结构性不均：同一所大学，录取一名北京考生可能只需要560分，录取一名河南考生却需要630分甚至更高。同样的分数，在不同省份代表着完全不同的录取机会。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-15.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-07.webp)
 *高考公平性深度解析：省际招生名额的历史形成、录取分数线差距的真实数据、户籍制度的制约、城乡教育鸿沟，以及推动改革的路径与挑战*
 
 这种省际差异，是中国高考制度中最受争议的核心议题之一。它触及的不只是教育政策，更是户籍制度、地区发展不均衡、历史积累与现实利益分配等深层社会问题。本文将系统解析这一争议的全貌：省际录取差异的形成机制；河南与北京的分数鸿沟具体有多大；户籍制度在其中扮演的角色；城乡教育资源的实际差距；以及历年推动改革的尝试与成效。

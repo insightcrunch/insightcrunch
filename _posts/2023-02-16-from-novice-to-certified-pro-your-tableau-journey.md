@@ -5,7 +5,7 @@ date: 2023-02-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "From Tableau beginner to certified professional: the learning path, skill milestones, certification timeline, and what changes in your career after..."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ Just as Hemingway's characters embark on quests of self-discovery and growth, yo
 
 Read more: [Cracking the Code: Strategies for Passing Tableau Certification »](https://insightcrunch.com/2023/01/16/cracking-the-code-strategies-for-passing-tableau-certification/)
 
-![From Novice to Certified Pro: Your Tableau Journey](/assets/images/blog/blog-03.webp)
+![From Novice to Certified Pro: Your Tableau Journey](/assets/images/blog/blog-19.webp)
 From Novice to Certified Pro: Your Tableau Journey
 
 ## **1. Begin with Curiosity**

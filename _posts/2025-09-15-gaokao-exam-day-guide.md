@@ -6,14 +6,14 @@ date: 2025-09-15
 categories: ["Industry"]
 tags: ["高考", "高考考场", "考前准备", "考场规则", "高考注意事项", "Gaokao", "Exam Day", "Preparation Tips", "Exam Rules"]
 excerpt: "最完整的高考考场攻略：必带物品清单、禁止物品逐条详解、安检流程时间线、考场内规则、中途休息规定、突发疾病应对方案，以及帮助你从容应对考场每一个细节的全面指南。"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考的考场表现，不只取决于你的知识积累和备考深度，也在相当程度上取决于你对考场规则的熟悉程度。每年高考，都有考生因为携带了禁止物品被要求清出考场，因为不了解规则而无谓失分，或者因为突发状况不知如何处理而影响发挥。这些本可以完全避免的问题，都是提前了解考场规则就能解决的。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-07.webp)
 *高考考场全攻略：从必带物品到禁止清单，从安检流程到考场内规范，从中途休息到突发应急，全面掌握高考考场的每一个关键细节，让你在那两天里以最从容的状态应对一切*
 
 本文将系统梳理高考考场相关的所有重要信息：必须携带的物品清单（及常见漏带误区）；严格禁止的物品详解（及为什么被禁止）；考前到达时间和安检流程；考场内的规则和注意事项；中途休息和提前离场的规定；以及各类突发情况（生病、遗忘准考证、自然灾害等）的应对方案。

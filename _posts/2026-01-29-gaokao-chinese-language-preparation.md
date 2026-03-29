@@ -6,14 +6,14 @@ date: 2026-01-29
 categories: ["Industry"]
 tags: ["高考", "高考语文", "语文备考", "语文作文", "文言文", "古诗词", "现代文阅读", "Gaokao", "Chinese Language", "Yuwen", "Essay Writing"]
 excerpt: "最全面的高考语文备考指南，系统覆盖现代文阅读、文言文理解、古代诗歌鉴赏、语言文字运用与作文全题型的深度解析、命题规律与得分策略。"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考语文，是三门统考科目中最难在短期内实现大幅提分的科目，也是整张高考试卷中最能体现一个学生综合人文素养积累的考试。满分150分，平均分通常在90-105分之间，高分段（130分以上）在全体考生中极为罕见。语文的这种"难以快速提分"特征，正是它最需要长期系统积累、而非临时突击的根本原因。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-03.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-19.webp)
 *高考语文备考完全指南：从现代文阅读到文言文翻译，从古诗词鉴赏到800字作文，全题型深度解析与得分策略*
 
 然而，"难以快速提分"并不意味着"无法提分"。通过对高考语文命题规律的深度理解、各题型答题格式的系统训练、以及长期阅读积累的有意识引导，每一位认真备考的学生都可以在语文成绩上实现可观的提升。本文将系统解析高考语文的完整题型结构，逐一深入讲解每个模块的命题特点、解题逻辑和高分策略，为你的语文备考提供最全面的参考框架。

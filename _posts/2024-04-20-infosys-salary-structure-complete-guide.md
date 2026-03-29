@@ -6,14 +6,14 @@ date: 2024-04-20
 categories: ["Industry"]
 tags: ["Infosys", "Infosys Salary", "Infosys CTC", "Infosys In-Hand Salary", "Infosys Salary Structure", "Infosys Freshers Salary", "IT Salary India", "Infosys Pay Scale"]
 excerpt: "How much does Infosys actually pay? Level-wise CTC breakdown with in-hand calculations after PF, tax, and insurance deductions for freshers to managers."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Understanding your Infosys salary is not as simple as looking at the CTC number in your offer letter. The figure printed on that document is a composite - a sum of components that behave very differently from one another. Some are paid monthly in full. Some are partially retained for retirement. Some arrive once or twice a year. Some depend entirely on your performance rating and your project's delivery outcomes. And some are not cash at all, but benefits that reduce your out-of-pocket expenses without appearing in your bank account.
 
-![Infosys Salary Structure Analysis](/assets/images/blog/blog-08.webp)
+![Infosys Salary Structure Analysis](/assets/images/blog/blog-16.webp)
 
 Candidates who do not understand this composite structure routinely experience a gap between what they expected to take home and what actually arrives in their account every month - not because Infosys is withholding money, but because the CTC number was never designed to equal the monthly credit. This guide is written to close that gap permanently. It covers every component of the Infosys compensation structure, explains how each behaves across the career ladder, walks through realistic in-hand calculations at multiple designation levels, and addresses the variables that cause individual salaries to diverge even within the same designation band.
 

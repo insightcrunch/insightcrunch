@@ -5,14 +5,14 @@ date: 2019-08-19
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Complaints", "Escalation", "Hostel", "Fresher"]
 excerpt: "The complete guide to handling TCS accommodation complaints and escalations during ILP. Covers the four-level escalation path from accommodation admin to TCS HR, how to document issues effectively, common accommodation problems and their resolution timelines, what constitutes a valid complaint versus unrealistic expectations, the specific complaint processes at residential and non-residential postings, harassment and safety issue protocols, and the practical strategies that get problems resolved without damaging your ILP rating or professional reputation."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 40
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 The TCS ILP accommodation is functional, not luxurious. It is designed to house thousands of associates across multiple cities at a cost that TCS can sustain within the ILP budget. This means that the accommodation will not match your home comfort, your college hostel's best features, or the hotel room you stayed in during that family vacation. Understanding this baseline is the first step toward effective complaint management: knowing what is a genuine problem that deserves resolution versus what is a preference that the system is not designed to accommodate.
 
-![TCS Accommodation Complaints - How to Escalate](/assets/images/blog/blog-04.webp)
+![TCS Accommodation Complaints - How to Escalate](/assets/images/blog/blog-08.webp)
 TCS Accommodation Complaints - How to Escalate Issues Effectively
 
 That said, genuine problems exist. Water supply failures, non-functional AC during summer at cities where temperatures exceed 40 degrees, pest infestations, security lapses, harassment by accommodation staff, and maintenance neglect are real issues that affect health, safety, and the ability to perform during ILP. These problems deserve to be reported, escalated, and resolved. The associates who handle these situations effectively, with documentation, appropriate escalation, and professional communication, get their problems resolved. The associates who complain loudly in WhatsApp groups but never file a formal report, or who escalate every minor inconvenience to the highest level, get neither resolution nor respect.

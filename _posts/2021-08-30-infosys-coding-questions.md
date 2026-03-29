@@ -6,14 +6,14 @@ date: 2021-08-30
 categories: ["Industry"]
 tags: ["Infosys Coding Questions", "Infosys Programming Test", "Infosys Coding Round", "Infosys Coding Questions with Solutions", "Infosys Pseudocode Questions", "Infosys Programming Questions", "Infosys Coding Test Pattern", "Infosys Coding Round Preparation"]
 excerpt: "80+ solved Infosys coding questions with complete Python and Java solutions across arrays, strings, patterns, algorithms, recursion, DP, and pseudocode. Includes test format, strategy, and 4-week preparation plan."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The Infosys coding assessment is where most candidates lose marks even after solid aptitude performance. Aptitude questions are objective and formula-driven. Coding questions require algorithmic thinking and the ability to write correct, working code under time pressure. Many students prepare extensively for the aptitude section and treat the coding round as an afterthought, arriving underprepared for the specific patterns Infosys uses.
 
-![Infosys Coding Questions Complete Guide](/assets/images/blog/blog-07.webp)
+![Infosys Coding Questions Complete Guide](/assets/images/blog/blog-03.webp)
 
 This guide is different from the shallow "top 10 Infosys coding questions" lists that dominate search results. Every problem here comes with a complete working solution in Python and Java, a detailed explanation of the approach, time and space complexity analysis, the edge cases most candidates miss, and the specific pattern each question belongs to. The pseudocode section is treated separately because it tests a different skill from implementation coding.
 

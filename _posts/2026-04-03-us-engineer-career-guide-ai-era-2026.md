@@ -5,7 +5,7 @@ date: 2026-04-03
 categories: ["Industry"]
 tags: ["US Engineers", "Tech Layoffs 2026", "AI Careers", "Software Engineering", "Career Pivot", "MLOps", "AI Skills", "Reskilling", "Defense Tech", "Cybersecurity", "Career Strategy"]
 excerpt: "A 25,000-word evidence-based playbook exclusively for US citizen engineers navigating the 2026 AI displacement wave. Covers which roles are dying, which are surging, the specific skills that command $170K-$350K+ salaries, citizenship-gated career paths unavailable to visa holders, retraining timelines, geographic moves worth making, and a 90-day action plan for engineers at every stage."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 90
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -14,7 +14,7 @@ The previous two articles in this series catalogued the scale of IT sector layof
 
 The US citizen framing is deliberate and important. Not because non-citizens do not face the same pressures - they face more, with immigration timelines layered on top of employment uncertainty - but because the citizen status unlocks a set of career pathways, job categories, and strategic options that are entirely unavailable to engineers on H-1B visas, green card holders in priority queues, or international professionals working at US subsidiaries. Clearance-eligible work, certain government contracting roles, specific defence technology positions, and federal employment itself are citizenship-gated to varying degrees. In a market where traditional Big Tech software engineering roles are contracting and where understanding which growing sectors require citizenship is a strategic edge, being deliberate about that advantage matters.
 
-![US Engineer Career Strategy AI Era 2026](/assets/images/blog/blog-03.webp)
+![US Engineer Career Strategy AI Era 2026](/assets/images/blog/blog-11.webp)
 
 This article covers six interconnected areas. The first is an honest assessment of which roles are dying and at what pace, without euphemism. The second is a detailed breakdown of which roles are genuinely growing, with verified salary data. The third is a geographic analysis of where to be and where not to be in the next two years. The fourth is a set of citizenship-specific career pathways that are either exclusively or preferentially available to US citizens. The fifth is a skills and retraining roadmap with specific timelines, resources, and ROI estimates. The sixth is a 90-day action plan for engineers at each of three career stages: early career (zero to five years), mid-career (five to fifteen years), and senior (fifteen or more years).
 

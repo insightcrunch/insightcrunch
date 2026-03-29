@@ -5,7 +5,7 @@ date: 2026-03-28
 categories: ["Industry"]
 tags: ["Layoffs", "IT Sector", "TCS", "Amazon", "Microsoft", "Meta", "Tech Jobs", "AI", "Workforce Reduction", "Infosys", "Wipro"]
 excerpt: "An unprecedented global analysis of IT sector layoffs covering the 5 largest tech employers by headcount in India, the US, the EU, and the UK. Includes verified job cut numbers, root causes, role-level breakdowns, and a data-backed forecast of what workers can expect through the rest of the year."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 85
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -16,7 +16,7 @@ This is not a correction. It is a restructuring of civilizational proportions.
 
 The layoffs of 2022 and 2023 were blamed on pandemic-era overhiring. The cuts of 2024 were attributed to macro uncertainty and slowing enterprise spend. What is happening now has a different character entirely. For the first time in the industry's history, company after company is not just announcing headcount reductions but explicitly naming artificial intelligence as the replacement mechanism. Block CEO Jack Dorsey wrote it directly in a company-wide memo: "This is not driven by financial difficulty, but by the growing capability of AI tools to perform a wider range of tasks." Amazon, despite posting record revenues of $716.9 billion in 2025, announced 16,000 cuts in a single sweep. The companies cutting the deepest are among the most profitable in human history.
 
-![IT Sector Layoffs 2026 Global Analysis](/assets/images/blog/blog-14.webp)
+![IT Sector Layoffs 2026 Global Analysis](/assets/images/blog/blog-06.webp)
 
 This article covers the five largest IT companies by headcount in each of the four major global tech markets: India, the United States, the European Union, and the United Kingdom. For each company, this analysis covers the specific number of layoffs in the last six months, the official and real reasons behind them, which roles and geographies were hit hardest, and what the company's trajectory looks like through the rest of the year. No news outlet has covered all twenty companies at this depth and in this comparative framework. The goal is to give every reader, whether a software engineer in Bengaluru, a program manager in Seattle, a solutions architect in Stockholm, or a delivery manager in London, the most complete picture available of what is happening and why.
 

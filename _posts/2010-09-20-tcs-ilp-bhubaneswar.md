@@ -6,14 +6,14 @@ date: 2010-09-20
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Kalinga Park"]
 excerpt: "*This is a guest post by Ashish. The views expressed are solely of the writer."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Bhubaneswar is one of the most historically and culturally distinctive cities in India to receive a TCS ILP posting - a city of ancient temples, modern IT corridors, and a specific Odishan cultural richness that most Indian engineering graduates have not previously encountered. For freshers assigned to TCS ILP Bhubaneswar, the posting offers something that the more frequently discussed ILP cities do not: an introduction to eastern India's most dynamic emerging technology hub, set against one of the country's oldest and most elaborate temple traditions. This guide covers the Bhubaneswar ILP experience in the detail that makes the first day less uncertain and the full period more productive.
 
-![The ancient Lingaraj Temple in Bhubaneswar silhouetted against the sky, representing the city's identity as both a millennia-old temple city and a fast-growing technology hub hosting TCS ILP training for freshers from across India](/assets/images/blog/blog-05.webp)
+![The ancient Lingaraj Temple in Bhubaneswar silhouetted against the sky, representing the city's identity as both a millennia-old temple city and a fast-growing technology hub hosting TCS ILP training for freshers from across India](/assets/images/blog/blog-17.webp)
 *TCS ILP Bhubaneswar complete guide - KIIT/Kalinga Park campus, STAR CITY accommodation, training schedule, assessment framework, Bhubaneswar city exploration, and practical tips for trainees assigned to the Odisha ILP posting*
 
 The Bhubaneswar ILP draws on the infrastructure of KIIT (Kalinga Institute of Industrial Technology) - one of eastern India's most significant engineering institutions - for its training facilities, making it an example of the satellite centre model described in Article 23. Understanding both the specific character of the Bhubaneswar posting and the satellite centre context that shapes it produces the most accurate expectation for what the posting offers.

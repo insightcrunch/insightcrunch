@@ -5,7 +5,7 @@ date: 2015-04-22
 categories: ["Industry"]
 tags: ["Google"]
 excerpt: "Will Google lay off employees? The factors driving potential cuts, how Google's perks culture may change, and what economic signals suggest for Alphabet."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 7
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -22,7 +22,7 @@ Read more: [Google Hiring Freeze »](https://insightcrunch.com/2015/05/14/google
 
 The parent company of Google is alphabet Google is worth $1 trillion. They have an employee strength of over 150,000 in this economic situation, the senior management at Google is setting new expectations and creating pressure on the Google employees to work harder. Google is also cutting the budget of its projects and is removing team members who used to work in these projects. When the Google employee is removed from a project. The recruiter then helps them get allocated to a different project in Google based on their skill sets, the employee might have to wait days to find a new project and even that is not guaranteed. Google employees were used to unlimited parks and expenses. But those days are now over. The senior management at Google has told the employees to cut back on their expenses and also reduce spending on office parties.
 
-![Google Employee Layoffs](/assets/images/blog/blog-01.webp)
+![Google Employee Layoffs](/assets/images/blog/blog-17.webp)
 Google Employee Layoffs
 
 ## Google Employees Job Security

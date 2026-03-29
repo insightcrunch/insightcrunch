@@ -4,11 +4,11 @@ title: "Odds of getting hired at Amazon"
 date: 2013-04-26
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Your realistic odds of getting hired at Amazon. The 2% acceptance rate, how competition varies by role, and what actually moves the needle on your chances."
+excerpt: "What are your real chances at Amazon? The math behind the 2% hire rate, which roles have better odds, and how to stand out in a massive applicant pool."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

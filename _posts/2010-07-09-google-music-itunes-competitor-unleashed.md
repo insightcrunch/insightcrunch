@@ -5,14 +5,14 @@ date: 2010-07-09
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Is Google building an iTunes killer? Google Music's rumored cloud streaming service for Android and what it could mean for digital music buying."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty compelling of Google Music, if that is what it is going to be called in the end. Google teased the audience a few weeks ago about this which would be a new segment in the Android market.
 
-![Spotify vs iTunes vs Amazon Music vs Google Music](/assets/images/blog/blog-02.webp)
+![Spotify vs iTunes vs Amazon Music vs Google Music](/assets/images/blog/blog-18.webp)
 Spotify vs iTunes vs Amazon Music vs Google Music
 
 Read more: [TCS Bangalore fresher Sudarshan Commits suicide »](https://insightcrunch.com/2010/08/22/tcs-bangalore-fresher-sudarshan-commits-suicide/)

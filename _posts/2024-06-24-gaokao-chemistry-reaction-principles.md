@@ -6,14 +6,14 @@ date: 2024-06-24
 categories: ["Industry"]
 tags: ["高考化学", "化学反应原理", "化学平衡", "电化学", "Gaokao Chemistry", "Reactions"]
 excerpt: "Master Gaokao chemistry reaction principles - equilibrium, thermochemistry, electrochemistry, and hydrolysis."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考化学反应原理专题，是整个高中化学知识体系中逻辑性最强、综合性最高的核心板块。它横跨化学反应速率与化学平衡、热化学、电化学、水溶液中的离子平衡四个主要模块，这四个模块既各有独立的核心公式和规律，又通过"能量转化"和"平衡移动"等核心思想紧密相联。化学反应原理在高考化学大题（通常是第28至29题）中是最高频的考察内容，直接决定了高考化学成绩的上限。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-17.webp)
 *高考化学反应原理深度解析：化学平衡、热化学、电化学与水溶液离子平衡全攻略*
 
 本文系统覆盖高考化学反应原理专题的所有核心内容：化学反应速率与影响因素、化学平衡状态的判断与平衡常数 K、勒夏特列原理与平衡移动、热化学方程式与盖斯定律、原电池与电解池的工作原理、水的电离与 pH 计算、盐类水解、沉淀溶解平衡与溶度积 Ksp。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在化学反应原理专题建立完整的解题体系。

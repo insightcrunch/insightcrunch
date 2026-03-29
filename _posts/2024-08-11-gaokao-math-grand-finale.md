@@ -6,14 +6,14 @@ date: 2024-08-11
 categories: ["Industry"]
 tags: ["高考数学", "压轴题", "导数大题", "圆锥曲线", "Gaokao Math", "Hard Problems"]
 excerpt: "Strategic guide to Gaokao math's hardest problems - derivative proofs, conic sections, time management, and partial credit."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学卷的最后两道大题，通称"压轴题"，是整张试卷中难度最高、区分度最大的题型。这两道题通常是：导数综合大题（以导数辅助证明不等式、含参数的极值讨论为核心）和圆锥曲线综合大题（以椭圆或双曲线的弦、切线、面积等为核心）。它们共同决定了高考数学中考生之间最大的分数差距，是决定能否进入顶尖高校的关键得分点。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-12.webp)
 *高考数学压轴题攻略：导数证明、圆锥曲线大题策略、时间管理与得分最大化全指南*
 
 本文不是传统的知识讲解，而是一份实战策略指南。它回答了压轴题备考中最关键的几个问题：如何在有限时间内最大化得分；哪些步骤必须写、哪些步骤可以简化；什么时候应该果断跳过；如何在第三问没有完整思路时仍然争取到部分分；以及如何通过系统备考，将"天花板分数"从 90 分提升到 120 分以上。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年压轴题，本文将帮助你建立应对高考数学最后两道难题的完整策略体系。

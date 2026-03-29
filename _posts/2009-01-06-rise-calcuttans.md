@@ -5,7 +5,7 @@ date: 2009-01-06
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Why is Kolkata falling behind while other Indian cities race ahead? A frustrated resident's honest look at stalled urban development."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -16,7 +16,7 @@ We, Kolkatans are fighting hard enough to rise to the occasions when we see the 
 
 Read more: [Satyam tainted »](https://insightcrunch.com/2009/01/08/satyam-tainted/)
 
-![Kolkata Protests](/assets/images/blog/blog-16.webp)
+![Kolkata Protests](/assets/images/blog/blog-20.webp)
 Kolkata Protests
 
 Politics play a major role in the fate  of the state. Opposing parties simply doesn’t give a second thought to take up laws in their hands to meet their diplomatically-unsolvable-issues. Day in and day out plans of progress or solvable problems get out of hand. The current ruling party is the only party we can look up to to have any sign of hope as we have really no damn idea how competent(?) the opposition might be. Is it time for the citizens of Kolkata to do something?

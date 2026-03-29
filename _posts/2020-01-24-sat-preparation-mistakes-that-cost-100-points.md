@@ -6,7 +6,7 @@ date: 2020-01-24
 categories: ["Industry"]
 tags: ['SAT Mistakes', 'SAT Preparation Mistakes', 'SAT Common Errors', 'SAT Test Mistakes', 'SAT Study Mistakes', 'SAT Mistakes to Avoid', 'SAT Wrong Strategy', 'SAT Costly Errors']
 excerpt: "The complete guide to the most damaging SAT preparation mistakes covering wrong study strategies, poor practice habits, test-day errors, and how each mistake costs real points."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -17,7 +17,7 @@ Most SAT preparation failures are not failures of intelligence or effort. They a
 
 The mistakes described in this guide are not rare. They are the default preparation behaviors of students who have not been specifically taught how to prepare for this particular test. They are the behaviors that feel productive (studying feels like studying, even when it is not aimed at the right targets) while producing limited results. Identifying and correcting these mistakes is often more valuable than adding more preparation hours, because the problem is not usually the quantity of preparation but its quality and direction.
 
-![SAT Preparation Mistakes That Cost Students 100+ Points](/assets/images/blog/blog-16.webp)
+![SAT Preparation Mistakes That Cost Students 100+ Points](/assets/images/blog/blog-20.webp)
 
 This guide organizes the most common and most costly SAT preparation mistakes into four categories: study strategy mistakes, practice mistakes, test-taking mistakes, and test-day mistakes. For each mistake, the guide explains why it is common, how many points it typically costs, and the specific corrective action that replaces it. By the end, the path from typical preparation to excellent preparation should be clear.
 

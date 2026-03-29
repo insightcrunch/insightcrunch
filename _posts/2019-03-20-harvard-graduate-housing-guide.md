@@ -6,14 +6,14 @@ date: 2019-03-20
 categories: ["Industry"]
 tags: ["Harvard Graduate Housing", "Harvard Graduate School Housing", "Harvard HUH", "Harvard GSAS Housing", "HBS Housing", "Harvard Kennedy School Housing", "Harvard Graduate Student Accommodation"]
 excerpt: "Complete guide to Harvard graduate housing - Harvard University Housing apartments, on-campus options by school, the HUH application process, graduate dormitories, family housing, and how to navigate Harvard's graduate housing system across all schools and programmes."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 51
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 Graduate housing at Harvard is one of the most frequently misunderstood aspects of the Harvard experience for incoming students. Undergraduates have a guaranteed four-year system - the Yard for freshman year, a House for the remaining three - that provides certainty and community infrastructure from the moment of arrival. Graduate students have no such guarantee. Harvard's on-campus housing provision for graduate students is real, well-managed, and significantly below-market in rent - but it covers only a fraction of the thousands of graduate students enrolled across Harvard's thirteen schools and programmes. The majority of Harvard graduate students live in private off-campus housing in Cambridge and the surrounding area, navigating a rental market that is among the most expensive in the United States.
 
-![Harvard Graduate Housing Guide](/assets/images/blog/blog-14.webp)
+![Harvard Graduate Housing Guide](/assets/images/blog/blog-10.webp)
 
 This guide covers the complete landscape of Harvard graduate housing - what Harvard University Housing (HUH) provides, how to apply, what it costs, what the specific housing arrangements are for each major Harvard school, the graduate dormitory options, family housing, and the practical strategies that make the graduate housing search manageable. For the off-campus rental market - the neighbourhoods, the search process, the Massachusetts tenant rights, and the cost realities - the [Harvard Off-Campus Housing Guide](https://insightcrunch.com/2019/03/28/harvard-off-campus-housing-guide/) provides the complementary detail. The [Harvard Accommodation Complete Guide](https://insightcrunch.com/2019/04/21/harvard-accommodation-complete-guide/) covers both undergraduate and graduate housing as a single overview.
 

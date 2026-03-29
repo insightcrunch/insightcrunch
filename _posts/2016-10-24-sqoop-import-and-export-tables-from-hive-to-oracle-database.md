@@ -5,7 +5,7 @@ date: 2016-10-24
 categories: ["Analytics"]
 tags: ["Hadoop"]
 excerpt: "Sqoop import and export between Hive and Oracle Database: commands, configuration, troubleshooting, and best practices for Hadoop-Oracle data movement."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 6
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -25,7 +25,7 @@ We will be doing the below activities sequentially to cover all the integration 
 **Step 3:** Use Hive query to generate a file extract in the Hadoop file system  
 **Step 4:** Load the generated file in Step 3 to a new target Oracle database table
 
-![Sqoop Import and Export tables from Hive to Oracle Database](/assets/images/blog/blog-03.webp)
+![Sqoop Import and Export tables from Hive to Oracle Database](/assets/images/blog/blog-19.webp)
 Sqoop Import and Export tables from Hive to Oracle Database
 
 ## **Step 1: Sqoop import data from Oracle database to Hive table**

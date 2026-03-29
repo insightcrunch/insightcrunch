@@ -6,14 +6,14 @@ date: 2023-06-29
 categories: ["Industry"]
 tags: ["TCS NQT preparation", "TCS NQT strategy", "TCS NQT study plan", "crack TCS NQT", "TCS NQT tips"]
 excerpt: "The definitive TCS NQT preparation strategy. Timelines, daily schedules, mock test strategies, and profile-specific score targets."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Most TCS NQT preparation guides tell you what to study. This guide tells you how to study it - in what order, at what pace, with which resources, and with a specific strategy calibrated to the profile you are targeting. The TCS NQT is not a single test in the sense that one preparation approach serves everyone equally. A Ninja target requires a different investment distribution than a Digital target. A candidate three months out has a different preparation architecture than a candidate two weeks out. A commerce student building coding from scratch needs a different plan than a CS student refining their aptitude. This guide addresses all of these scenarios with concrete, actionable plans you can start implementing immediately.
 
-![TCS Guide](/assets/images/blog/blog-04.webp)
+![TCS Guide](/assets/images/blog/blog-08.webp)
 
 ## Step 1: Self-Assessment - Where Are You Right Now?
 

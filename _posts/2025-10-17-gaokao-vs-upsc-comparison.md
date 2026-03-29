@@ -6,14 +6,14 @@ date: 2025-10-17
 categories: ["Industry"]
 tags: ["高考", "UPSC", "高考对比", "印度公务员考试", "考试比较", "社会流动", "Gaokao", "UPSC", "Exam Comparison", "Social Mobility"]
 excerpt: "深度比较高考与UPSC，中印两国最重要的人生定向考试，，一个是大学入口，一个是公务员选拔，却都以同等的力量塑造着两国数亿人的命运轨迹。"
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考与UPSC（Union Public Service Commission，印度联邦公务员委员会考试），是一对极为特殊的比较对象：两者本质上是完全不同类型的考试，一个是大学入学考试，一个是公务员选拔考试，两者有着截然不同的功能定位和评价机制。然而，在"改变命运的考试"这一更宏观的维度上，高考和UPSC在各自国家承载着惊人相似的文化重量：两者都是在1300万以上人口国家中，最能定义个人命运走向的单次重大考试；两者都催生了庞大的备考辅导产业；两者都是阶层流动最直接的制度通道；两者都在各自国家的文化中具有超越一场考试的深远意义。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-09.webp)
 *高考vs UPSC深度比较：两种功能迥异却命运相似的定命考试，透过比较理解中印两国如何通过考试机制实现知识与权力的代际重新分配*
 
 本文将以比较的视角，系统分析高考与UPSC在考试结构、难度性质、备考生态、社会功能和文化意义上的深度异同。无论你是正在备考高考的中国学生，还是任何对中印两国考试文化和社会流动机制有兴趣的读者，这份比较都将提供独特而有价值的认知视角。

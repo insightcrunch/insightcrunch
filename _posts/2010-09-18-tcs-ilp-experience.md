@@ -6,14 +6,14 @@ date: 2010-09-18
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Training Experience", "Daily Routine"]
 excerpt: "The initial training days at the top software company Tata Consultancy Services are really enjoyed by the candidates. With having their days spent at..."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Nobody who has been through TCS ILP describes it exactly the same way twice. The experience differs by centre, by batch, by the specific technical stream, and by the particular mix of personalities that any given batch assembles from across India's engineering colleges. But underneath all this variation, the ILP has a consistent structure and a consistent set of demands and opportunities that shape every trainee who passes through it. This guide distils the experience - what daily life actually looks like, what the training structure requires of you, how the assessments work, what the social life produces, and what the trainees who get the most from ILP do differently from those who merely get through it.
 
-![Trainees at a TCS ILP centre working collaboratively in a modern computer lab, with screens showing Java code and a trainer circulating to answer questions - the fundamental working environment of TCS's Initial Learning Programme](/assets/images/blog/blog-09.webp)
+![Trainees at a TCS ILP centre working collaboratively in a modern computer lab, with screens showing Java code and a trainer circulating to answer questions - the fundamental working environment of TCS's Initial Learning Programme](/assets/images/blog/blog-17.webp)
 *TCS ILP experience - a comprehensive guide to daily routine, training structure, technical and business content, assessment framework, social life, and the strategies that produce the best ILP outcomes*
 
 The ILP period is one of the most concentrated professional formation experiences available in the Indian technology industry. Several months of structured training, in a purpose-built environment, surrounded by hundreds of peers who are navigating exactly the same transition - this is a rare combination that produces professional foundations of genuine depth when engaged with fully. Understanding what you are entering, in specific detail, is the first step toward extracting the maximum from it.

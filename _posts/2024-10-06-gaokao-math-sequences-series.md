@@ -6,14 +6,14 @@ date: 2024-10-06
 categories: ["Industry"]
 tags: ["高考数学", "数列", "等差数列", "等比数列", "Gaokao Math", "Sequences"]
 excerpt: "Master every Gaokao sequence and series question - arithmetic, geometric, recursive, all summation techniques."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学数列专题，是历年高考中最稳定、最系统的考察板块之一。数列兼具代数运算和逻辑推理的双重特质，既考察基础计算能力（通项公式、求和公式的正确应用），又考察高级的推理能力（递推数列的规律归纳、数列放缩证明），是区分高分考生与普通考生的关键领域之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-16.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
 *高考数学数列专题深度解析：等差数列、等比数列、递推数列与求和技巧全攻略*
 
 本文系统覆盖高考数列专题的所有核心内容：等差数列与等比数列的完整性质体系、递推数列的通项公式求法、四大求和技巧（分组求和、错位相减法、裂项求和、倒序相加法）、数列与函数的综合、以及数列证明题的思路框架。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在数列专题建立从基础到压轴的完整解题能力。

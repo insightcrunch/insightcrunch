@@ -6,14 +6,14 @@ date: 2025-09-23
 categories: ["Industry"]
 tags: ["高考", "高考选科", "选科策略", "物理历史", "选科组合", "Gaokao", "Subject Selection", "Strategy", "Academic Planning"]
 excerpt: "最全面的高考选科策略指南：物理vs历史如何选、12种选科组合的专业兼容性、赋分优势的识别方法、父母最常犯的干预误区，以及最适合不同学生的选科路线图。"
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考选科，是新高考制度下高一学生最重要的学业决策之一。在3+1+2模式的框架下，每个学生需要在物理和历史中选一门作为必选，再从化学、生物、地理、政治四门中选两门，构成个人独特的选科组合。这个看似简单的三选组合，实际上对未来三年的备考路径、大学专业选择空间和毕业去向，都有深远的影响。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-01.webp)
 *高考选科策略完全指南：从物理vs历史的核心取舍，到12种组合的专业兼容性分析，从赋分优势的识别到常见选科误区的规避，帮助每一位考生做出最有价值的选科决定*
 
 本文将从实战角度，系统解析高考选科的完整决策框架：物理和历史各自开启哪些专业大门？12种组合中哪些更具专业兼容性？赋分制下如何识别相对的赋分优势？不同类型学生应该如何制定选科路线图？家长常犯的选科干预误区有哪些？以及在选科已定的情况下，如何最大化当前组合的价值？

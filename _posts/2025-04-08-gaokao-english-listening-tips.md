@@ -6,14 +6,14 @@ date: 2025-04-08
 categories: ["Industry"]
 tags: ["高考", "高考英语", "英语听力", "高考英语听力", "Gaokao", "English Listening", "Language Skills", "Study Tips"]
 excerpt: "高考英语听力完全攻略：从听力格式与题型结构，到预判题目与笔记记录技巧，从常见陷阱的规避方法，到考前系统耳训方案，帮助每一位高考生掌握英语听力满分的完整策略。"
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 在高考英语总分150分中，听力部分占30分，是近年来中国高考英语改革的重要加分战场。对于许多考生而言，听力既是最容易丢分的部分（因为它不像笔试题那样可以反复推敲），也是最容易通过系统训练提分的部分（因为它有高度可预测的题型模式和稳定的命题规律）。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-15.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-19.webp)
 *高考英语听力完全攻略：从听力格式结构到预判题目策略，从笔记技巧到常见陷阱，从口音适应到系统耳训方案*
 
 很多考生在听力备考上走了弯路：漫无目的地刷大量听力材料，却不针对高考的具体题型特点进行训练；或者只是被动地听，没有建立主动预判和笔记的习惯。本文将系统梳理高考英语听力的一切，，从格式到策略，从陷阱到训练，为每一位考生提供最完整的听力提分方案。

@@ -5,7 +5,7 @@ date: 2010-12-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "What is the best birthday gift for a fresher? Getting your TCS joining date. A personal story about career beginnings that started on a special day."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -62,5 +62,5 @@ After a week I started for Bhubaneshwar - Kalinga Park.
 
 Between I changed my Orkut tag:"GOT MY BIRTHDAY GIFT, A HAPPY FAMILY".
 
-![TCS Joining The Best Birthday Gift](/assets/images/blog/blog-08.webp)
+![TCS Joining The Best Birthday Gift](/assets/images/blog/blog-12.webp)
 The Best Birthday Gift

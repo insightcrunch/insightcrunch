@@ -6,7 +6,7 @@ date: 2010-08-22
 categories: ["Industry"]
 tags: ["Mental Health", "IT Industry", "Bangalore", "Bengaluru", "Employee Well-Being", "Work Pressure", "NIMHANS"]
 excerpt: "A TCS fresher in Bangalore took his life at the office building. The tragedy that shocked the IT community and sparked conversations about pressure."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 55
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -23,7 +23,7 @@ Every year, thousands of freshers arrive in Bangalore from small towns, from dif
 
 The IT industry in Bangalore produces extraordinary careers. It produces careers that lift families out of economic hardship, that create professional identities of genuine substance, and that connect talented people from every corner of the country to a global economy. It also produces, with some regularity, the kind of psychological pressure that can push young people to breaking points. Both of these things are true, and the first does not cancel the second. This guide addresses the mental health dimensions of IT careers in Bangalore directly, the real pressures that freshers face in this specific city, the evidence-based ways of managing them, the Bangalore-specific support systems that exist and how to use them, and the conversations that the IT industry in India's Silicon Valley has historically been reluctant to have but that its workforce needs.
 
-![A quiet outdoor space at an IT campus where an employee sits on a bench, representing the importance of mental rest, reflection, and psychological safety in technology workplaces](/assets/images/blog/blog-15.webp)
+![A quiet outdoor space at an IT campus where an employee sits on a bench, representing the importance of mental rest, reflection, and psychological safety in technology workplaces](/assets/images/blog/blog-19.webp)
 *Mental health for IT freshers in Bangalore - understanding the city-specific pressures, building resilience, accessing NIMHANS and other Bangalore support systems, and what well-being genuinely looks like in a technology career*
 
 If you are reading this during a period of personal distress in Bangalore, please know that you are in the one Indian city where the most comprehensive mental health support infrastructure exists. NIMHANS, the National Institute of Mental Health and Neurosciences, is located right here in Bangalore on Hosur Road. It is an Institute of National Importance with world-class psychiatric services, and it is accessible to you. The Tele-MANAS national helpline can be reached at 14416, free of charge, 24 hours a day. iCall (a free counselling service by TISS) can be reached at 9152987821. You do not need to be in crisis to call. You need only to be struggling, and struggling is enough.

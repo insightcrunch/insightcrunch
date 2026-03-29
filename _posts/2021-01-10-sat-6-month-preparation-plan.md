@@ -6,7 +6,7 @@ date: 2021-01-10
 categories: ["Industry"]
 tags: ['SAT 6 Month Study Plan', 'SAT Preparation Timeline', 'SAT Study Schedule', 'SAT Long Term Prep', 'SAT Week by Week Plan', 'SAT Study Calendar', 'SAT Milestone Targets', 'SAT Preparation Roadmap']
 excerpt: "The complete 6-month SAT preparation plan with week-by-week study schedule, topic sequencing, practice test timing, and score milestone targets."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -17,7 +17,7 @@ Six months is the ideal preparation window for the SAT. It is long enough to bui
 
 Most students who commit to a structured 6-month plan improve by 200 to 400 points from their initial diagnostic, depending on their starting level and consistency. The key word is "structured." Six months of unfocused, sporadic study produces far less improvement than six months of systematic, diagnostic-driven preparation. This guide provides the structure: which topics to study each week, when to take practice tests, how to analyze results, how to adjust the plan, and how to peak at the right time.
 
-![SAT 6-Month Study Plan](/assets/images/blog/blog-11.webp)
+![SAT 6-Month Study Plan](/assets/images/blog/blog-03.webp)
 
 This plan is organized into four phases that mirror how skills develop. Phase 1 (Weeks 1 to 4) diagnoses your weaknesses and builds foundational skills. Phase 2 (Weeks 5 to 12) systematically masters content across both sections. Phase 3 (Weeks 13 to 18) refines strategies and integrates skills through practice tests. Phase 4 (Weeks 19 to 24) simulates test conditions and prepares you for peak performance on test day. Each phase builds on the previous one, so follow the sequence even if you are tempted to skip ahead.
 

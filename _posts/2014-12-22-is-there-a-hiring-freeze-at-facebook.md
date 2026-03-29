@@ -5,7 +5,7 @@ date: 2014-12-22
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Facebook's parent Meta has frozen hiring for engineers and data scientists. What prompted the freeze, how long it may last, and who is affected."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 9
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -22,7 +22,7 @@ Read more: [Is Meta on hiring freeze? »](https://insightcrunch.com/2015/01/10/i
 
 Initially Meta did not have any plans to lay off its employees, but the current situation has forced the company to take extreme measures. Meta also had lots of plans to hire more engineers, but it had to revise and reduce its target of hiring by a significant amount and will hire only engineers for critical positions in the organization. The senior management at Meta explained that their primary goal is to aggressively reduce the company headcount over the next few years. Meta feels there are multiple teams currently within the organization who are adding little value to the long term vision. So they are going to shift their energy and strength of resources to other areas and dissolve teams that are not important. The senior management at Meta is analyzing and wants to give their leaders the ability to decide how to manage their long term initiatives. Meta has asked the senior leaders in the organization to find out where they can optimize their team size and how they can restructure their teams better while not impacting the overall vision and goal of the company. 
 
-![Meta Hiring Freeze and Layoffs](/assets/images/blog/blog-09.webp)
+![Meta Hiring Freeze and Layoffs](/assets/images/blog/blog-01.webp)
 Meta Hiring Freeze and Layoffs
 
 ## Meta Financial Trouble

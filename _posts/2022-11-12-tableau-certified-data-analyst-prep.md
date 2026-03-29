@@ -5,7 +5,7 @@ date: 2022-11-12
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau Certified Data Analyst exam prep: topics covered, question format, recommended study resources, and a preparation strategy that actually works."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 14
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -26,7 +26,7 @@ The Official Tableau Certified Data Analyst Certification exam guide above is a 
 
 It is important to note that if you are choosing to cancel or reschedule the appointment that you have chosen, then you will need to cancel at least 24 hours before the exam date. Or if you are looking forward to rescheduling, then you should reschedule at least 48 hours before the scheduled exam date and time. After selecting the exam date and time, you will be required to check out, and then finally during checking out you can apply any vouchers which you have to get a discount on the price. You will also be able to see the exam booked after completion at the end on your dedicated dashboard. The Pearson VUE dashboard will be visible after you are redirected from the Tableau Certification portal. 
 
-![Tableau Data Analyst Certification Exam Questions Guide](/assets/images/blog/blog-08.webp)
+![Tableau Data Analyst Certification Exam Questions Guide](/assets/images/blog/blog-20.webp)
 Tableau Data Analyst Certification Exam Questions Guide
 
 ## Tableau Exam Environment and Laptop Guidelines

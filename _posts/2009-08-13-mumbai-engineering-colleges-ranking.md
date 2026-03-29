@@ -5,7 +5,7 @@ date: 2009-08-13
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "This is one of the most sought after ranking list with so many engineering colleges in Mumbai. After the response I got with the [West Bengal engineering..."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -16,5 +16,5 @@ Read more: [Tamil Nadu Engineering Colleges Ranking »](https://insightcrunch.c
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Mumbai Engineering Colleges](/assets/images/blog/blog-09.webp)
+![Mumbai Engineering Colleges](/assets/images/blog/blog-17.webp)
 Mumbai Engineering Colleges

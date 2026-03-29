@@ -5,7 +5,7 @@ date: 2008-12-29
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Hit the photo limit on Blogger with Windows Live Writer? Here is how Picasa storage works and what you can do to get around the cap."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -32,5 +32,5 @@ Read more: [Why do one blog? »](https://insightcrunch.com/2009/01/04/why-do-one
 
 This saved a lot of my problems as I have always wanted some place to share all my memories and my snapshots without being restricted. Thanks to Picasa Web Albums and Zooomr.
 
-![Breaking the photo limit while using Windows Live Writer and Blogger](/assets/images/blog/blog-10.webp)
+![Breaking the photo limit while using Windows Live Writer and Blogger](/assets/images/blog/blog-18.webp)
 Breaking the photo limit while using Windows Live Writer and Blogger

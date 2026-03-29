@@ -5,7 +5,7 @@ date: 2009-09-27
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "A camera phone beating DSLRs on Flickr? Why the iPhone became the most popular camera on the platform and what it says about mobile photography."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -18,7 +18,7 @@ As Flickr says about it’s graphs : *“These graphs show the number of Flickr 
  The graphs are "normalized", which is a fancy way of saying that they automatically correct for the fact that more people join Flickr each day: the graph moving up or down indicates a change in the camera's popularity relative to all other cameras used by Flickr members.  
  The graphs are only accurate to the extent that we can automatically detect the camera used to take the photo or shoot the video (about 2/3rds of the time). That is not usually possible with camera phones, therefore they are under-represented.”*
 
-![Flickr Popular Cameras](/assets/images/blog/blog-14.webp)
+![Flickr Popular Cameras](/assets/images/blog/blog-18.webp)
 Flickr Popular Cameras
 
 As it appears the [photos taken by the iPhone](http://www.flickr.com/cameras/apple/iphone/) continue to look cooler each an everyday. It’s great to see photos taken by a camera phone continue to dominate a world-class photo sharing site as Flickr. Some of the coolest apps if you require you can get [here](http://www.google.co.in/search?hl=en&rlz=1C1CHMB_en-GBIN305IN305&num=100&q=iphone+applications+for+flickr&btnG=Search&meta=&aq=8&oq=).

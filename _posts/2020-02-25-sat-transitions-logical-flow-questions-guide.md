@@ -6,7 +6,7 @@ date: 2020-02-25
 categories: ["Industry"]
 tags: ['SAT Transitions', 'SAT Transition Words', 'SAT Transition Questions', 'SAT Logical Flow', 'SAT Connecting Ideas', 'SAT Transition Word List', 'SAT Logical Connectors', 'SAT Contrast Transitions']
 excerpt: "Master every SAT transition question type with a complete categorization of transition words, logical relationship identification, and proven strategies for choosing the correct connector."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -17,7 +17,7 @@ Transition questions are among the most learnable question types on the Digital 
 
 The fundamental challenge of a transition question is not vocabulary. Most students already know that "however" signals contrast and "therefore" signals a conclusion. The challenge is precision: identifying exactly what logical relationship exists between two specific sentences, then selecting the transition that creates that relationship and no other. Wrong answer choices on transition questions are typically transitions that belong to a different logical category, or transitions that belong to the right category but carry slightly different emphases than the passage requires. Distinguishing these differences requires a clear analytical framework, not just a general sense of what sounds right.
 
-![SAT Transitions: Master Every Logical Connector Question](/assets/images/blog/blog-10.webp)
+![SAT Transitions: Master Every Logical Connector Question](/assets/images/blog/blog-02.webp)
 
 This guide provides that framework in full: a complete categorization of every transition type tested on the SAT with exhaustive word lists for each, a step-by-step method for identifying the logical relationship between sentences, worked examples covering every category, a drill structure for building recognition speed, and a rapid-reference chart for exam day. By the end of this guide, transition questions should be among the most reliably answered question types in your SAT preparation.
 

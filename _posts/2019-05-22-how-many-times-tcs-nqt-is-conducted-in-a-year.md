@@ -6,14 +6,14 @@ date: 2019-05-22
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Exam Frequency", "Test Schedule"]
 excerpt: "How often does TCS conduct NQT? Exam frequency, typical months, registration deadlines, and whether you can retake if your score is low."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Of all the logistical questions candidates ask about the TCS NQT, the one that drives the most anxiety is deceptively simple: when exactly does the next test happen? The answer is more nuanced than a fixed annual calendar, and understanding how TCS actually decides NQT frequency - and what that means for your preparation strategy - is genuinely important for anyone planning their TCS hiring attempt.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-02.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-18.webp)
 *The complete guide to TCS NQT frequency and scheduling - how often the exam is conducted, what factors determine the schedule, how the registration process works, how to track upcoming windows, what to do in the waiting period, and how to build a preparation strategy that is not dependent on knowing the exact exam date in advance*
 
 The short answer: TCS NQT is conducted multiple times per year, with the exact frequency varying based on TCS's hiring demand, project pipeline needs, attrition levels, and broader market conditions. In some years the exam has been quarterly; in others it has been two to three times per year; in exceptional years the frequency has dropped further due to external factors. The exam schedule is announced through TCS's official channels with relatively short notice - typically a few weeks before registration opens.

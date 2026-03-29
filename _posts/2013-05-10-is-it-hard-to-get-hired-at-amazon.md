@@ -4,11 +4,11 @@ title: "Is it hard to get hired at Amazon?"
 date: 2013-05-10
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Getting hired at Amazon is competitive across all levels. The interview bar, leadership principles evaluation, and why preparation makes the difference."
+excerpt: "How hard is Amazon hiring really? The competition level, what interviewers evaluate, and the preparation that separates offers from rejections."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 10
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

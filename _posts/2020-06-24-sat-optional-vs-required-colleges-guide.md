@@ -6,7 +6,7 @@ date: 2020-06-24
 categories: ["Industry"]
 tags: ['SAT Optional Colleges', 'SAT Required Colleges', 'Test Optional', 'Test Required', 'SAT Submit or Not', 'SAT Test Optional Strategy', 'SAT Optional List', 'SAT Test Optional Decision']
 excerpt: "The complete guide to SAT test-optional and test-required college policies covering which schools require scores, when to submit, when to withhold, and how to make the strategic decision."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -15,7 +15,7 @@ One of the most consequential strategic decisions in college applications today 
 
 The result is a complex and frequently misunderstood landscape in which colleges hold a wide range of policies: some require SAT scores from all applicants, some make submission genuinely optional and treat applicants without scores equally, some are test-optional in name but clearly advantage score-submitters in practice, some are test-flexible and accept alternative forms of standardized evidence, and some are test-blind and do not consider scores at all even when submitted. Understanding exactly where a given college falls in this spectrum, and what the strategic implications are for your specific situation, requires both factual knowledge of each institution's policy and a framework for applying that knowledge to your individual application profile.
 
-![SAT Optional vs Required College Policy Guide](/assets/images/blog/blog-08.webp)
+![SAT Optional vs Required College Policy Guide](/assets/images/blog/blog-04.webp)
 
 This guide covers the complete landscape of SAT testing policies across US higher education: what each policy type means in practice, the historical context behind the test-optional movement, how to determine a specific college's current policy, what data shows about how submitting versus withholding scores affects admissions outcomes, how to apply the strategic framework for your specific situation, how scholarship decisions are affected by test-optional policies, advice for different applicant profiles, considerations for international students, and a practical decision framework for each school on your list.
 
