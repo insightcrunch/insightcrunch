@@ -4,11 +4,11 @@ title: "Is TCS NQT Coding Questions tough?"
 date: 2020-04-04
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "How hard are TCS NQT coding questions really? Difficulty compared to LeetCode, expected topics, and the minimum preparation that gets most people through."
+excerpt: "Tata Consultancy Services conducts the National Qualifier Test (NQT) that is taken by hundreds of thousands of candidates every year. The TCS NQT exam is..."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 100
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 render_with_liquid: false
 ---
 {% raw %}

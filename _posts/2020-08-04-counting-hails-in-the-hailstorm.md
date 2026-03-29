@@ -4,11 +4,11 @@ title: "Counting hails in the hailstorm"
 date: 2020-08-04
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Using Tableau to analyze complex, messy datasets. A practical approach to finding structure in chaotic data using visualization and analytics tools."
+excerpt: "Data looks like chaos? Tableau turns noise into patterns. A practical walkthrough of analyzing messy datasets with smart visualization techniques."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 The true essence of technological advances comes with our understanding of the surroundings, getting better with the aid of tools that never existed before. As analytics continues to evolve at a blistering pace, it brings with it the ability to take decisions that affects the lives of millions around us. Out of seeming nothingness we get concrete patterns that could only have been imagined few decades back.
 

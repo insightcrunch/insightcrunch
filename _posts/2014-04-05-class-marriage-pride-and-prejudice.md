@@ -6,17 +6,16 @@ date: 2014-04-05
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "class", "marriage", "themes", "literary-analysis", "feminism"]
 excerpt: "How Austen exposes class and marriage economics in Pride and Prejudice - the market, the trap, and the escape."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-04-05
+last_updated: 2026-03-29
 ---
-
 The marriage market in Pride and Prejudice is not a metaphor. It is a literal economic institution, organized around the exchange of women's social attributes and men's financial resources, governed by specific legal and social mechanisms that gave women almost no alternative path to material security, and producing specific outcomes for specific people that Austen traces with the forensic precision of someone who has negotiated the market personally and understood its mechanics completely. When the novel opens with the statement that a single man in possession of a good fortune must be in want of a wife, the irony is not that the statement is untrue in the social world it describes but that the "truth" it announces is not about men's desires at all. It is about women's need, organized by a social consensus into the form of a universal principle about the opposite sex.
 
 <!--more-->
 
-![Class and Marriage in Pride and Prejudice - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Class and Marriage in Pride and Prejudice - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 Understanding the marriage market that Austen is describing requires understanding both the specific legal and economic conditions that made marriage women's primary, and in most cases only, realistic path to material security, and the specific class hierarchy within which the market operated and that determined who could participate in it on what terms. The entail, the laws of property and inheritance, the specific social geography of the gentry class: all of these are not background details but the structural conditions that organize the novel's characters' choices and constrain the forms of freedom that are available to any of them. For the full context of the novel's social world, the [complete Pride and Prejudice analysis](https://insightcrunch.com/2014/03/21/complete-analysis-pride-and-prejudice/) provides the essential foundation.
 
