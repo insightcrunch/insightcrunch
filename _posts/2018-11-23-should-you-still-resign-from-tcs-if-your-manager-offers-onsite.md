@@ -5,11 +5,11 @@ page_title: "TCS Onsite Opportunity - Should You Stay for the Onsite Offer or Re
 date: 2018-11-23
 categories: ["Industry"]
 tags: ["TCS", "Onsite", "Resignation", "Career Decision"]
-excerpt: "Should you stay at TCS if your manager offers onsite to retain you? The politics of onsite allocation, counter-offers, and making the right career call."
+excerpt: "TCS manager offered onsite to stop your resignation? The real value of last-minute onsite promises and how to evaluate whether staying is worth it."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 You submitted your resignation letter. You have spent months preparing for the job search - updating your profile, practicing interview questions, networking, going through multiple rounds. You received an offer from another company. The compensation is better, the role is more interesting, and you have already mentally moved on.
 

@@ -6,17 +6,16 @@ date: 2014-03-06
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "racial-injustice", "tom-robinson", "literary-analysis", "classic-literature"]
 excerpt: "How To Kill a Mockingbird confronts racial injustice - the trial, Maycomb's caste system, and its limitations."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-03-06
+last_updated: 2026-03-29
 ---
-
 Racial injustice is not simply a theme in To Kill a Mockingbird in the way that love or ambition might be a theme in another novel. It is the novel's central subject, its primary political argument, and the specific historical reality that Harper Lee was writing about in 1960 with a directness that the book's subsequent canonization as a comfortable classroom text has substantially obscured. The trial of Tom Robinson, a Black man falsely accused of raping a white woman and convicted by an all-white jury despite overwhelming evidence of his innocence, is not a dramatic device or a narrative vehicle for Atticus Finch's heroism. It is the novel's most specific account of how racial injustice operates in practice: not through exceptional individual malice but through the normal functioning of social and legal institutions organized around a racial hierarchy that has made the unjust outcome structurally inevitable before any evidence is presented.
 
 <!--more-->
 
-![Racial Injustice in To Kill a Mockingbird - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Racial Injustice in To Kill a Mockingbird - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Understanding what the novel gets right and wrong about racial injustice is one of the most important critical tasks that serious engagement with the book requires, and it is a task that the novel's canonical status has tended to discourage. The comfortable reading treats the novel as simply and triumphantly anti-racist, as a clear-eyed demonstration of racial injustice's evil that has done enormous educational good. The more honest reading acknowledges both the genuine achievement and the specific limitations: what the novel sees clearly, what it cannot see from the perspective it has chosen, and what its specific way of engaging with racial injustice has meant for how American culture has processed the issue it was addressing. The full context of the world the novel describes is provided by the [complete To Kill a Mockingbird analysis](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/), and the characters at the center of the injustice are examined individually in the [Tom Robinson character analysis](https://insightcrunch.com/2014/03/11/tom-robinson-character-analysis/) and the [Atticus Finch character analysis](https://insightcrunch.com/2014/02/19/atticus-finch-character-analysis/).
 

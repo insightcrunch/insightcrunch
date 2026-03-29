@@ -2196,37 +2196,37 @@
     "variant_2": "The Sequoia trees are the oldest living things you can touch. A visit to California's Sierra Nevada and the humbling experience of ancient forests."
   },
   "2018-07-11-snp_session-the-data-analysts-dream-table-of-oracle-data-integrator.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Business Intelligence Applications stack provides an array of tools during the implementation, and each of them comes with its rich set of...",
     "variant_1": "ODI SNP_SESSION table: the hidden gold mine for data analysts. Session metadata, execution history, and the queries that unlock deep pipeline insights.",
     "variant_2": "The SNP_SESSION table in ODI is an analyst's dream. Execution metadata, error tracking, and the SQL queries that reveal everything about your ETL runs."
   },
   "2018-08-26-odi-bi-apps-machine-learning-power-up.md": {
-    "current": 1,
+    "current": 2,
     "original": "Like many millennials, one of my favorite video game was Mario. The most satisfying thing about **Super Mario** were the power-up mushrooms - that gave it...",
     "variant_1": "Adding machine learning to Oracle BI Apps through ODI. How to enhance traditional ETL pipelines with predictive models and intelligent data processing.",
     "variant_2": "Power up your BI Apps ETL with machine learning. How to integrate predictive models into ODI pipelines for smarter, more automated data processing."
   },
   "2018-09-07-tcs-ilp-guwahati-experience.md": {
-    "current": 2,
+    "current": 0,
     "original": "*This is a guest post by Srinithaa Ravi. The views expressed are of the author.*",
     "variant_1": "TCS ILP Guwahati experience: training life at the Northeast center, smaller batch dynamics, Assamese culture, and what makes this location unique.",
     "variant_2": "What is TCS ILP in Guwahati like? A fresher's account of the smaller center's training quality, hostel experience, local food, and the Northeast charm."
   },
   "2018-10-11-tcs-mba-hiring.md": {
-    "current": 1,
+    "current": 2,
     "original": "Tata Consultancy Services is one of the largest software services organizations in the world. With nearly a million employees, it is home to one of the...",
     "variant_1": "TCS MBA hiring: how Tata Consultancy Services recruits MBA graduates, the roles offered, compensation packages, and what the selection process involves.",
     "variant_2": "Does TCS hire MBAs? The recruitment process, available roles, salary packages for management graduates, and how MBA hiring differs from engineering."
   },
   "2018-11-23-should-you-still-resign-from-tcs-if-your-manager-offers-onsite.md": {
-    "current": 1,
+    "current": 2,
     "original": "Tata Consultancy Services is one of the largest organizations of the world with nearly a million people in its payroll. The sheer magnitude of handling a...",
     "variant_1": "Should you stay at TCS if your manager offers onsite to retain you? The politics of onsite allocation, counter-offers, and making the right career call.",
     "variant_2": "TCS manager offered onsite to stop your resignation? The real value of last-minute onsite promises and how to evaluate whether staying is worth it."
   },
   "2018-12-19-unix-find-lines-containing-specific-string-then-cut-and-insert-these-lines-after-specific-lines-containing-another-specific-string.md": {
-    "current": 1,
+    "current": 2,
     "original": "The world of data integration and transformation gets more and more exciting every day. Where we have data fuelling intelligent applications, and...",
     "variant_1": "Unix text manipulation: find lines with a specific string, cut them, and insert after lines containing another string. Sed and awk solutions for ETL work.",
     "variant_2": "Advanced Unix text surgery for data pipelines. How to find, cut, and reinsert lines based on string patterns using sed and awk in real ETL scenarios."

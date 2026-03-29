@@ -4,11 +4,11 @@ title: "ODI BI Apps Machine Learning Power-Up"
 date: 2018-08-26
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "Adding machine learning to Oracle BI Apps through ODI. How to enhance traditional ETL pipelines with predictive models and intelligent data processing."
+excerpt: "Power up your BI Apps ETL with machine learning. How to integrate predictive models into ODI pipelines for smarter, more automated data processing."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 Like many millennials, one of my favorite video game was Mario. The most satisfying thing about **Super Mario** were the power-up mushrooms - that gave it added abilities, to keep conquering world after world. Similarly, today when data and information are created at an accelerating rate, outstripping the ability of humans to keep up - it becomes imperative for enterprise operations to enable a digital workforce to achieve demonstrable gains in efficiency and productivity.
 

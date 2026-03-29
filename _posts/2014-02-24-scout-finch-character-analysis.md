@@ -6,17 +6,16 @@ date: 2014-02-24
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "scout-finch", "character-analysis", "literary-analysis", "coming-of-age"]
 excerpt: "Complete analysis of Scout Finch - her innocence, growth, voice as narrator, and journey toward empathy."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-02-24
+last_updated: 2026-03-29
 ---
-
 Jean Louise Finch, who goes by Scout throughout every page of To Kill a Mockingbird and through most of American literary memory, is one of the most fully realized child narrators in the English language. She is six years old when the novel opens and nine when it closes, and in those three years she witnesses events that would shake an adult to the foundations, a man destroyed by a justice system that was never built to include him, a community's capacity for mob violence, and a recluse's unexpected heroism, and she processes all of it through the specific consciousness of a child who has not yet learned to make the adult world's corruptions invisible by accepting them as normal.
 
 <!--more-->
 
-![Scout Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Scout Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The choice to narrate To Kill a Mockingbird through Scout's voice is the most important formal decision Harper Lee made, and it produces consequences that run through every dimension of the novel's achievement and every dimension of its limitations. The child's perspective allows Lee to render Maycomb's racial hierarchy from a position that has not yet fully internalized its logic, to ask questions that the adult world has stopped asking because the answers have been normalized into invisibility, and to achieve the specific quality of moral fresh-seeing that innocent incomprehension sometimes enables. The same perspective limits what the novel can directly engage with in the experience of the characters who are most harmed by what it is describing, because Scout's world and the world of Maycomb's Black community intersect but do not overlap, and the intersection points are all viewed from Scout's side of the line.
 
