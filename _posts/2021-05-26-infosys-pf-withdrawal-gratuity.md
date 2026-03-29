@@ -9,7 +9,7 @@ excerpt: "Step-by-step guide to Infosys PF withdrawal, transfer to a new employe
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 Provident Fund and gratuity are two of the most valuable financial benefits that come with employment at Infosys, yet they are also among the most misunderstood. Many Infosys employees who leave the company are uncertain about how to claim their PF, whether to withdraw or transfer, what happens to their gratuity, and what the actual amounts are. Many current employees do not know what their PF balance is or how to access it. And many freshers who have just joined do not understand how the PF deduction from their salary works or why it matters for their long-term financial planning.
 

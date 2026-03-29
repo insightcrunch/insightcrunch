@@ -9,7 +9,7 @@ excerpt: "The complete SAT Math preparation guide covering every tested topic, t
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 # SAT Math Preparation: The Complete Section Guide
 
