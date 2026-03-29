@@ -5,12 +5,11 @@ date: 2012-10-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Wormtail", "Marauders", "Gryffindor", "Death Eater"]
 excerpt: "A deep literary analysis of Peter Pettigrew across all Harry Potter books - the small man who betrayed everything, and what his story reveals about cowardice as a moral choice."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-10-16
+last_updated: 2026-03-29
 ---
-
 ## Introduction: The Ordinary Betrayal
 
 Peter Pettigrew is not a spectacular villain. He does not radiate malevolence like Voldemort or perform fanaticism like Bellatrix or carry the elegant corruption of Lucius Malfoy. He is small, nervous, slightly damp around the eyes, the kind of person who drifts to the edges of rooms and is grateful to be included. He is, in every external register, the least impressive person in whatever company he keeps.
@@ -19,7 +18,7 @@ He is also the person who betrayed James and Lily Potter to Voldemort, enabling 
 
 He is also the person who betrayed James and Lily Potter to Voldemort, enabling the murders that set the series in motion. He is the person who faked his own death and framed Sirius Black for those murders, sending an innocent man to Azkaban for twelve years. He is the person who spent twelve years as a rat in the Weasley household, living in proximity to the family of people who would have been his victims if Voldemort had won. He is the person who cut off his own hand to help restore Voldemort to a body. He is the person whose silver hand, the gift of that restoration, finally kills him when Harry's mercy triggers a moment of hesitation.
 
-![Peter Pettigrew character analysis across all Harry Potter books](/assets/images/blog/blog-26.webp)
+![Peter Pettigrew character analysis across all Harry Potter books](/assets/images/blog/blog-38.webp)
 
 The gap between what Peter Pettigrew appears to be and what he has actually done is one of the series' most carefully constructed moral arguments. He is not the spectacular villain because spectacular villains are not the most dangerous kind. The most dangerous kind is the one who looks like a friend, who is included in the closest circle of loyalty, who has access to the information and the relationships that the spectacular villains cannot reach from the outside. He betrayed James and Lily not despite being their friend but through being their friend. The betrayal required the friendship. The friendship was the tool.
 

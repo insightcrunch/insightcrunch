@@ -5,12 +5,11 @@ date: 2012-09-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Remus Lupin", "Gryffindor", "Marauders", "Werewolf", "Defence Against the Dark Arts"]
 excerpt: "A deep literary analysis of Remus Lupin across all Harry Potter books - prejudice survived, shame carried, love found late, and what it means to live with the thing you cannot change."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-09-25
+last_updated: 2026-03-29
 ---
-
 ## Introduction: The Quiet Courage
 
 There is a specific kind of courage that the Harry Potter series does not always celebrate as loudly as it deserves: the courage of the person who shows up, every day, to the life they have been given, who does not perform their difficulty or advertise their pain, who is gentle and capable and consistently present in a world that has given them substantial reason to withdraw. This is Remus Lupin's courage, and it runs through every book he appears in with the quiet consistency of someone who has decided that the most honest thing he can do with his situation is to be useful in it.
@@ -21,7 +20,7 @@ The specific form of the carrying - quiet, consistent, organized around giving r
 
 This is not the only possible response to his situation. It is an admirable response, but the series does not present it as the only admirable one - the anger and resistance of the werewolves who have turned to Greyback is presented as the comprehensible outcome of the same prejudice applied to different people with different resources and different circumstances. Lupin's equanimity is his, and it is genuinely hard-won, and it is not the verdict on the right response to injustice but the portrait of one person's response, which happens to be magnificent.
 
-![Remus Lupin character analysis across all seven Harry Potter books](/assets/images/blog/blog-18.webp)
+![Remus Lupin character analysis across all seven Harry Potter books](/assets/images/blog/blog-14.webp)
 
 The shape of his life is the shape of the life of someone who has been told, in every institutional and social signal available, that they are less than fully human and less than fully acceptable. He was allowed into Hogwarts because Dumbledore argued for his inclusion, an exception to the standard practice. He was kept hidden from the student body, sent away during full moons through an elaborate arrangement involving the Shrieking Shack and the Whomping Willow. He was never entirely sure, even at Hogwarts, whether he was welcome or merely tolerated. He spent his adulthood unable to maintain employment because the wizarding world's prejudice against werewolves is so thoroughly embedded in its institutional practices that no employer would keep him once they knew.
 

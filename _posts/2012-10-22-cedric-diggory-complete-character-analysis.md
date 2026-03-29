@@ -5,19 +5,18 @@ date: 2012-10-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cedric Diggory", "Hufflepuff", "Triwizard Tournament", "True Hero"]
 excerpt: "A deep literary analysis of Cedric Diggory across the Harry Potter books - genuine goodness, the cost of fair play, and what his death meant for the series."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-10-22
+last_updated: 2026-03-29
 ---
-
 ## Introduction: The Boy Who Was Just Good
 
 Cedric Diggory is the Harry Potter series' most precise portrait of what genuine goodness looks like in a school setting - not the complicated, tested, sometimes-failing goodness that Harry embodies, not the principled, occasionally rigid goodness that Hermione represents, not the warm, unconditional goodness of the Weasley family, but the straightforward, consistent, almost uncomplicated goodness of someone who has simply internalized the right values and who expresses them without apparent effort in every situation the story places him in.
 
 He is fair when fairness costs him. He is kind when kindness is not required. He is honest when dishonesty would be easier. He credits Harry with the clue about the egg when he could have kept silent. He offers to give Harry a chance to prepare for the second task. He insists on sharing the Triwizard victory with Harry when the rules would have given it to him alone. In every situation the fourth book offers him, he does the genuinely decent thing, and he does it with the ease of someone for whom the genuinely decent thing is the natural response rather than the effortful one.
 
-![Cedric Diggory character analysis across the Harry Potter books](/assets/images/blog/blog-28.webp)
+![Cedric Diggory character analysis across the Harry Potter books](/assets/images/blog/blog-37.webp)
 
 He dies in a graveyard at the end of the fourth book, killed by Peter Pettigrew on Voldemort's instruction, before he has had the chance to do anything with his goodness beyond being a fair and kind competitor in a deadly tournament. He is seventeen. He has done nothing wrong. He dies because he was in the wrong place - because Harry pulled him along to the portkey, because the portkey took them both to Voldemort's resurrection, because Voldemort needed to kill someone and Cedric was there.
 

@@ -5,19 +5,18 @@ date: 2012-10-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Mad-Eye Moody", "Alastor Moody", "Auror", "Order of the Phoenix"]
 excerpt: "A deep literary analysis of Mad-Eye Moody across all Harry Potter books - the cost of the war on the warrior, vigilance as survival, and what the real Moody reveals."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-10-06
+last_updated: 2026-03-29
 ---
-
 ## Introduction: The Price of the Fight
 
 Alastor "Mad-Eye" Moody is, by almost any measure, the most battle-hardened character in the Harry Potter series. He spent decades as an Auror - a dark wizard catcher - during the first war against Voldemort and in the years surrounding it, capturing more Death Eaters than any other wizard alive, filling what the series describes as half of Azkaban's cells single-handed. He survived encounters that killed everyone else who was there. He survived them at significant cost: the magical eye, the wooden leg, the ruined nose, the scarred face, the body that is a map of the violence it has been through. He is a person who has been fighting for so long that the fighting has become the person.
 
 He is also, in the fourth book's most audacious narrative move, not actually present for most of his own featured appearance. The character the reader comes to know across *Harry Potter and the Goblet of Fire* - the eccentric, brilliant, "constant vigilance!"-shouting Defence Against the Dark Arts teacher - is Bartemius Crouch Jr. in disguise, using Polyjuice Potion to impersonate Moody so completely that no one at Hogwarts suspects the substitution for the entire school year. The real Moody is in a trunk. He has been replaced, rendered passive, turned from the most active character in the series into the most passive: the captive in a box who is the origin of someone else's performance.
 
-![Mad-Eye Moody character analysis across all Harry Potter books](/assets/images/blog/blog-22.webp)
+![Mad-Eye Moody character analysis across all Harry Potter books](/assets/images/blog/blog-15.webp)
 
 This narrative structure is both the series' most sophisticated plot device and its most precise symbolic statement about Moody's situation. He has spent his life being the person who sees everything, who trusts nothing, who is always watching, always prepared, always one step ahead of whatever is coming for him. And he is captured and replaced by exactly the kind of long-planned, patient deception that his vigilance was supposed to prevent.
 
