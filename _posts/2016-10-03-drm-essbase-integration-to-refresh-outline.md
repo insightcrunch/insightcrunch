@@ -5,7 +5,7 @@ date: 2016-10-03
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Oracle DRM to Essbase integration: refresh cube outlines from DRM hierarchy data. Configuration, export process, and troubleshooting outline updates."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ Let's say I have an Account hierarchy in DRM. I have a Hyperion Planning applica
 
 Sample list of properties: Account, Parent, Alias: Default, Valid For Consolidations, Data Storage, Two Pass Calculation, Description, Formula, UDA, Smart List, Data Type, Account Type, Time Balance, Skip Value, Exchange Rate Type, Variance Reporting, Source Plan Type, Plan Type, Aggregation
 
-![Oracle DRM Essbase Integration to refresh outline](/assets/images/blog/blog-09.webp)
+![Oracle DRM Essbase Integration to refresh outline](/assets/images/blog/blog-49.webp)
 Oracle DRM Essbase Integration to refresh outline
 
 The name Account represents a Dimension. It can be replaced as required by different dimension names like Department, Location etc. Using an **external connection** from DRM, we can save all the values from the DRM in a **Oracle database table**. Then after creating a rule file and associating it with the Essbase cube outline, the metadata in the outline can be updated using the new rule file and using the ODI Knowledge Module **IKM SQL to Hyperion Essbase (METADATA)**. The name of the rule file will need to be used as a IKM parameter value.

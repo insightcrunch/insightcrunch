@@ -5,7 +5,7 @@ date: 2018-05-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "The complete TCS ILP Ahmedabad story. From arrival to completion, covering training, assessments, hostel routines, Ahmedabad food, and career realizations."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -20,7 +20,7 @@ If you are still preparing for the TCS recruitment process, the [TCS NQT Prepara
 
 Read more: [TCS ILP Guwahati Experience »](https://insightcrunch.com/2018/09/07/tcs-ilp-guwahati-experience/)
 
-![TCS ILP Ahmedabad Experience Journey](/assets/images/blog/blog-29.webp)
+![TCS ILP Ahmedabad Experience Journey](/assets/images/blog/blog-09.webp)
 TCS ILP Ahmedabad Experience Journey
 
 ---

@@ -6,7 +6,7 @@ date: 2017-04-13
 categories: ["Industry"]
 tags: ["TCS", "CodeVita", "Coding Contest", "Competitive Hiring"]
 excerpt: "TCS CodeVita hiring: how the coding competition leads to direct interviews, the selection process, problem difficulty, and what winners should expect."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -15,7 +15,7 @@ Most TCS hiring happens through standardized assessment channels - the NQT for o
 
 CodeVita is something different. It is TCS's national coding competition - an annual programming contest that pits candidates against each other on pure algorithmic ability for six hours, with hiring interviews as the prize. It is a meritocratic pathway that does not care which college you attended, what your CGPA is, or how you performed on a verbal reasoning test. It asks only one question: can you solve difficult programming problems, accurately and quickly, under sustained competition pressure?
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-37.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-57.webp)
 *The complete guide to TCS CodeVita - competition format, how performance maps to hiring outcomes, what the hiring process looks like after qualifying, preparation strategy from fundamentals to advanced, and how to approach both the contest and the interviews that follow*
 
 For candidates who have strong competitive programming ability - or who want to build it - CodeVita represents a genuinely differentiated opportunity. The hiring outcomes available through CodeVita (both Ninja and Digital track interviews) are accessible regardless of college tier, and the top performers in the competition receive recognition and career opportunities that extend beyond standard interview shortlisting.

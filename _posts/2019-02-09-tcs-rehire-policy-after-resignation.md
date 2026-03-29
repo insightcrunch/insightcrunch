@@ -6,14 +6,14 @@ date: 2019-02-09
 categories: ["Industry"]
 tags: ["TCS", "Rehire Policy", "Resignation", "Re-Joining"]
 excerpt: "TCS rehire policy after resignation: cooling period, eligibility criteria, application process, and whether TCS takes back former employees easily."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 TCS's rehire policy is one of the most consequential and least understood aspects of the company's employment framework. Employees considering resignation who want to keep their options open, former employees hoping to return, and HR professionals advising on talent decisions all need accurate information about what TCS's policy actually says, when exceptions exist, and how the practical reality of re-joining differs from the written policy.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-07.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-47.webp)
 *The complete guide to TCS's rehire policy - what the policy says, why it was introduced, the cooling period requirements, the eligibility criteria for exceptions, the practical application process, what former TCS employees report about their re-joining experiences, and how to maximize your chances if re-joining is a genuine goal*
 
 The short version: TCS's standard policy discourages or restricts rehiring of former employees who resigned voluntarily. The policy has evolved over time - from relatively open rehire practices in TCS's earlier years, through a restrictive period where return was essentially prohibited, to the current framework where re-joining is possible but requires meeting specific conditions and navigating a deliberate evaluation process.

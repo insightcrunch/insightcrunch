@@ -6,14 +6,14 @@ date: 2025-06-11
 categories: ["Industry"]
 tags: ["高考", "高考家长", "家长指南", "高考家庭支持", "Gaokao", "Parents", "Family Support", "Student Wellbeing"]
 excerpt: "高考家长完全指南：如何在不增加孩子压力的前提下提供真正有效的支持、管理家长自身的备考焦虑、提供营养睡眠和环境方面的实质帮助，以及如何理性陪伴孩子走过成绩公布这一关键时刻。"
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 每年高考，全国有超过一千万名学生参加考试，而与此同时，至少有两千万名家长，也在以自己的方式经历着高考。孩子在考场内答卷，家长在考场外等候，这幅画面，是中国高考文化中最具代表性的场景之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-44.webp)
 *高考家长完全指南：从理解高考体系到支持备考日常，从管理自身焦虑到陪伴孩子走过成绩公布的关键时刻*
 
 然而，对于很多家长来说，高考的三年，也是充满迷惑的三年：不知道如何帮助，担心自己帮了倒忙；不知道何时该推一把，何时该退一步；不知道如何管理自己的焦虑，同时又不把焦虑传递给孩子。

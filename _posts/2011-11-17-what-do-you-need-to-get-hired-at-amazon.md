@@ -5,7 +5,7 @@ date: 2011-11-17
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Want to work at Amazon? The specific skills, qualities, and leadership principle alignment that Amazon evaluates during its hiring process."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 9
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -22,7 +22,7 @@ Based on the type of job you were interested in, you can look for our warehouse 
 
 As a candidate, only you have to make fully sure that you fill in a brief description of your background, along with your experience and achievements and skills in the application form. While mentioning your experience, make sure you mentioned the different dates of employment where you worked in the past. Amazon highlights that this information is necessary to evaluate the candidates and their skill sets. This application this information is essential for the application. And if you do not provide these details, your application will not be considered. If you are interested in a warehouse associate position in the fulfillment center of Amazon, then Amazon highlights that you do not need a resume or CV to apply for that position. You can learn more about the Amazon fulfillment process in the links above.
 
-![What do you need to get hired at Amazon](/assets/images/blog/blog-36.webp)
+![What do you need to get hired at Amazon](/assets/images/blog/blog-16.webp)
 What do you need to get hired at Amazon
 
 ## Amazon Portfolio Requirements

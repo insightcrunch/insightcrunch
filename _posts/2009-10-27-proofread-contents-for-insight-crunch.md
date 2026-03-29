@@ -5,7 +5,7 @@ date: 2009-10-27
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Want to write for a tech blog with thousands of daily visitors? Insight Crunch is open for guest posts on IT, technology, and career topics."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -32,5 +32,5 @@ I am looking for expert proofreaders to correct articles on various IT work cult
 
 Articles will be approved in 4-5 weeks. Payments will be processed by the 7th of the following month after approval. For example, if you submit an article on March 2nd, you can expect approval on April 6th, and payment on May 7th.
 
-![Guest Post for Insight Crunch](/assets/images/blog/blog-05.webp)
+![Guest Post for Insight Crunch](/assets/images/blog/blog-25.webp)
 Guest Post for Insight Crunch

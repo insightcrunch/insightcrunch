@@ -5,7 +5,7 @@ date: 2022-12-30
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Which Tableau certification should you get? Data Analyst vs Server Certified Associate vs Desktop Specialist compared on difficulty, cost, and career..."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -26,7 +26,7 @@ The Certified Associate Architect certification is aimed at assessing a candidat
 
 Explore the menu above to get access to a variety of data sets along with the Tableau Data Analyst questions. After reading the different Tableau concepts like continuous and discrete along with the level of detail expressions and order of operations, practice with different types of data sets to enhance your skills. You should not get accustomed to any one particular type of data set because the Tableau Certified Data Analyst certification exam will be asking you questions from a variety of perspectives and data sets. Before appearing for the exam, it is important that you should be fully aware of how to connect and transform data, create different types of views and dashboards, exploring and analyzing the data, and publishing and managing the content in Tableau. 
 
-![Which Tableau certification is best?](/assets/images/blog/blog-06.webp)
+![Which Tableau certification is best?](/assets/images/blog/blog-46.webp)
 Which Tableau certification is best
 
 ## Is it hard to get Tableau Certification?

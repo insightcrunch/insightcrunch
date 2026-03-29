@@ -5,7 +5,7 @@ date: 2017-01-09
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Automate Oracle DRM data loading using ODI: ETL pipeline setup for importing master data into Data Relationship Management from external sources."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 4
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -18,7 +18,7 @@ The requirement goes as below:
 
 To proceed with this activity, first and foremost we need to be familiar with DRM action scripts - which will involve generating Add, AddInsert and Move scripts. In addition to that, if we have an ETL tool in our environment (like ODI, Informatica PowerCenter, etc) it's beneficial - else we can also use SQL to achieve our purpose as we will see next.
 
-![DRM Data Loading Automation using ODI](/assets/images/blog/blog-06.webp)
+![DRM Data Loading Automation using ODI](/assets/images/blog/blog-46.webp)
 DRM Data Loading Automation using ODI
 
 ## Method 1

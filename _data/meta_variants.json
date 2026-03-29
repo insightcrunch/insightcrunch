@@ -1740,91 +1740,91 @@
     "variant_2": "Are more Meta layoffs coming? Analyzing the cost trajectory, revenue trends, and executive signals that suggest whether further cuts are ahead."
   },
   "2015-09-22-how-long-will-the-meta-hiring-freeze-last.md": {
-    "current": 1,
+    "current": 2,
     "original": "Facebook-owner Meta platforms has been continuously cutting their plans to hire engineers every few months. The recent development suggests the plan is to...",
     "variant_1": "When will Meta's hiring freeze end? Analyzing the timeline based on quarterly results, Zuckerberg's statements, and historical patterns at tech companies.",
     "variant_2": "How long before Meta hires again? The signals to watch, what quarterly results need to show, and realistic timeline estimates for the freeze to lift."
   },
   "2015-10-11-how-long-is-ibm-hiring-process.md": {
-    "current": 1,
+    "current": 2,
     "original": "One of the largest corporations today helping in the advancement of multiple fields of technology is IBM. Hundreds of thousands of candidates every year...",
     "variant_1": "IBM hiring process timeline: from application to offer letter. How long each stage takes for technical, consulting, and entry-level positions at IBM.",
     "variant_2": "How long does IBM take to hire? Typical timelines for each interview stage across technical, consulting, and graduate roles with realistic expectations."
   },
   "2015-11-13-tcs-nqt-pattern.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Tata Consultancy Services National Qualifier Test is one of the most comprehensive exams conducted by a software services organization today. The exam...",
     "variant_1": "TCS NQT exam pattern: sections, question types, time allocation, and scoring format for the National Qualifier Test aptitude and coding rounds.",
     "variant_2": "What is the TCS NQT exam pattern? Section-wise breakdown of aptitude, reasoning, verbal, and coding rounds with time limits and question counts."
   },
   "2015-12-11-tcs-hiring-steps.md": {
-    "current": 1,
+    "current": 2,
     "original": "This is a guest post on TCS Hiring by Bhargav Gandhi. The views expressed are of the author.",
     "variant_1": "TCS hiring process: a guest post walking through every step from online test to HR interview. Real questions asked and preparation that helped.",
     "variant_2": "TCS interview experience shared. Every hiring step from aptitude test to technical round to HR, with the questions asked and tips that worked."
   },
   "2016-01-12-ibm-interview-technical-questions.md": {
-    "current": 2,
+    "current": 0,
     "original": "The progress of science has put technology in limelight in this century. Every few months we see incredible progresses being made in different fields of...",
     "variant_1": "IBM technical interview questions: common programming, data structure, OS, and networking questions asked in IBM's technical screening rounds.",
     "variant_2": "What technical questions does IBM ask? Real interview topics covering programming fundamentals, algorithms, OS concepts, and database queries."
   },
   "2016-02-24-ibm-interview-questions.md": {
-    "current": 2,
+    "current": 0,
     "original": "Leading the technological journey of mankind in this century are some of the largest corporations in the world out of which one is IBM. With hundreds of...",
     "variant_1": "IBM interview questions across all rounds: aptitude, technical, HR, and managerial. Real questions from candidates with preparation tips for each stage.",
     "variant_2": "Preparing for an IBM interview? Question bank covering every round from aptitude screening through technical, HR, and final managerial discussions."
   },
   "2016-03-19-ibm-panel-interview.md": {
-    "current": 2,
+    "current": 0,
     "original": "The new age of technology has seen large corporations invest in the development of advanced machines and technologies. IBM is one of the top software...",
     "variant_1": "IBM panel interview format: what to expect when multiple interviewers evaluate you simultaneously, common questions, and how to handle the panel dynamic.",
     "variant_2": "How to handle IBM's panel interview. What each panelist evaluates, how to address multiple interviewers, and the questions that come up most frequently."
   },
   "2016-04-06-ibm-technical-interview-questions.md": {
-    "current": 2,
+    "current": 0,
     "original": "IBM is one of the top technology companies in the world today. The scale of innovation and the variety of technologies in which IBM has their presence is...",
     "variant_1": "IBM technical interview: programming questions, data structure problems, system design basics, and the technical depth IBM expects from candidates.",
     "variant_2": "What technical depth does IBM expect? Real interview questions from coding, DBMS, operating systems, and networking rounds with preparation guidance."
   },
   "2016-05-06-ibm-associate-developer-interview.md": {
-    "current": 2,
+    "current": 0,
     "original": "IBM is one of the largest information technology corporations in the world. Employing over hundreds of thousands of employees, IBM has become synonymous...",
     "variant_1": "IBM Associate Developer interview experience: selection process, coding test format, technical interview questions, and what IBM looks for in junior hires.",
     "variant_2": "How to crack the IBM Associate Developer interview. Process overview, technical question patterns, coding test difficulty, and preparation focus areas."
   },
   "2016-06-27-ibm-interview-process.md": {
-    "current": 2,
+    "current": 0,
     "original": "IBM is one of the oldest, largest, and most successful companies in the world today. Thousands of candidates around the world aspire to be a part of this...",
     "variant_1": "IBM interview process from application to offer: online test, technical screening, group discussion, HR interview, and typical timeline for each stage.",
     "variant_2": "What is IBM's hiring process? Every stage explained from online assessment through technical and HR rounds, with timeline estimates and preparation tips."
   },
   "2016-07-14-azure-fundamentals-az-900-practice-exam-microsoft-certification.md": {
-    "current": 2,
+    "current": 0,
     "original": "The **Microsoft Azure Fundamentals AZ-900** exam is one of the most coveted and essential exams that cover the general knowledge about Microsoft Azure. It...",
     "variant_1": "Azure Fundamentals AZ-900 practice exam: cloud concepts, Azure services, security, pricing, and SLA questions to prepare for Microsoft certification.",
     "variant_2": "Ready for AZ-900? Practice questions covering Azure core services, cloud models, security compliance, pricing tiers, and the topics most candidates miss."
   },
   "2016-08-03-cut-off-for-tcs-nqt.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Tata Consultancy Services National Qualifier Test (NQT) is one of the most popular exams taken by aspirants today. Hundreds of thousands of candidates...",
     "variant_1": "TCS NQT cut off marks: minimum qualifying scores for foundation and advanced sections, how cutoffs vary by year, and what score gets you an interview.",
     "variant_2": "What is the TCS NQT cut off? Expected qualifying marks for each section, historical cutoff trends, and the score range that leads to interview calls."
   },
   "2016-09-14-drm-application-not-starting-up-duplicate-versions.md": {
-    "current": 1,
+    "current": 2,
     "original": "It has happened, though very rarely, that the DRM application refuses to start up. On further investigation it has revealed that the number of versions in...",
     "variant_1": "Fix Oracle DRM application not starting due to duplicate versions in the repository. Root cause analysis and the resolution steps that work.",
     "variant_2": "Oracle DRM won't start? Duplicate version entries in the repository may be the cause. How to diagnose and resolve this rare startup failure."
   },
   "2016-09-14-drm-ebs-integration-unable-to-fetch-list-of-versions.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is...",
     "variant_1": "Oracle DRM EBS integration fails to fetch version list. Troubleshooting the concurrent program that pulls data from DRM into Oracle General Ledger.",
     "variant_2": "DRM to EBS version fetch failing? Troubleshooting steps for the concurrent program that connects Oracle DRM hierarchy data to Oracle GL."
   },
   "2016-09-14-drm-internal-server-error.md": {
-    "current": 1,
+    "current": 2,
     "original": "Oracle Data Relationship Management is a highly robust tool by Oracle with a 99.99% of uptime month over month and a largely satisfied user base. However...",
     "variant_1": "Oracle DRM internal server error: causes, troubleshooting steps, and how to resolve the rare but frustrating server failures in Data Relationship...",
     "variant_2": "Getting an internal server error in Oracle DRM? Diagnostic steps, common causes, and the fixes that restore the application to normal operation."

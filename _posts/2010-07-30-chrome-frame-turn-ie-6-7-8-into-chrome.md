@@ -5,14 +5,14 @@ date: 2010-07-30
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Stuck on IE6? Chrome Frame injects Chrome's rendering engine into Internet Explorer, giving you modern web standards without switching browsers."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
 ---
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.
 
-![Google Chrome and Microsoft Edge](/assets/images/blog/blog-09.webp)
+![Google Chrome and Microsoft Edge](/assets/images/blog/blog-49.webp)
 Google Chrome and Microsoft Edge
 
 Read more: [Twitter spammers sending out malware via random replies »](https://insightcrunch.com/2010/08/03/twitter-spammers-sending-out-malware-via-random-replies/)

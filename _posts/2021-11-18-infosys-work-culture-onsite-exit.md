@@ -6,14 +6,14 @@ date: 2021-11-18
 categories: ["Industry"]
 tags: ["Infosys Work Culture", "Infosys Onsite", "Infosys Bench Policy", "Infosys Resignation", "Infosys Notice Period", "Infosys Bond Clause", "Infosys Service Agreement", "Infosys Exit Process"]
 excerpt: "Insider guide to Infosys work life covering onsite selection, bench survival, bond clauses, and the full resignation process."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The experience of working at Infosys is shaped by forces that no offer letter mentions. The daily culture of a project team, the dynamics of being on bench between assignments, the process and politics of getting selected for an onsite posting, the mechanics and emotional weight of resigning, and the rules around moonlighting and internal movement all determine what it actually feels like to build a career at this company. These are the things people learn after joining, sometimes the hard way.
 
-![Infosys Work Culture and Exit Guide](/assets/images/blog/blog-39.webp)
+![Infosys Work Culture and Exit Guide](/assets/images/blog/blog-19.webp)
 
 This guide covers all of it with the honesty and specificity that someone about to join, currently working at, or planning to leave Infosys actually needs. It maps the day-to-day work culture across different project types and locations, explains how project teams and manager relationships are typically structured, details how onsite deputation decisions are made and what the experience involves, describes exactly what happens when you are on bench and how to navigate that period well, walks through the complete resignation process step by step including notice period negotiation, exit interviews, experience letters, PF settlement, and gratuity, explains the service agreement and bond clause in plain terms, covers what happens if the bond is broken, describes the moonlighting policy and its enforcement, and explains how internal transfers work through the IJP system.
 

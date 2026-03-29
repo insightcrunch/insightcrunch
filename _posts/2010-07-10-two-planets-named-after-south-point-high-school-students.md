@@ -5,7 +5,7 @@ date: 2010-07-10
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Minor planets named after South Point High School students. MIT and Lincoln Lab honor two Kolkata students with asteroid naming, a first for Bengal."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -14,7 +14,7 @@ Great news for Pointers! Two students of South Point High School in Kolkata will
 
 The Massachusetts Institute of Technology (MIT) and Lincoln Laboratory, USA, have bestowed the honor on Anish Mukherjee and Debarghya Sarkar in recognition of their winning the second Grand award in Electrical and Mechanical Engineering category at the Nevada Fair, the South Point Education Society said in Kolkata. The honor was given to them in recognition of their performance at the 2009 Intel International Science and Engineering Fair in Neveda, USA. Anish and Debarghya won the second grand award in the electrical and mechanical category in the event.
 
-![South Point High School Kolkata Students](/assets/images/blog/blog-34.webp)
+![South Point High School Kolkata Students](/assets/images/blog/blog-14.webp)
 South Point High School Kolkata Students
 
 "Minor planet 2000 AH52 (citation No. 25629) and minor planet 2000 AT53 (citation No. 25630) will, henceforth, be known as 'Mukherjee' and 'Sarkar', respectively," it said.

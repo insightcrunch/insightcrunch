@@ -6,14 +6,14 @@ date: 2024-09-20
 categories: ["Industry"]
 tags: ["高考数学", "不等式", "均值不等式", "Gaokao Math", "Inequalities"]
 excerpt: "Master Gaokao inequalities - AM-GM, Cauchy-Schwarz, linear programming, and every proof technique."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考数学不等式专题，横跨选择题、填空题和大题，以其多样的题型和深刻的数学内涵，成为高考数学中最考验综合能力的板块之一。不等式不是孤立的知识点，而是贯穿高中数学全程的基础思想：从基本不等式到均值不等式，从线性规划到含参数不等式，从代数证明到导数工具辅助证明，不等式的每一个子题型都有其独特的解题逻辑和应用场景。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-32.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-52.webp)
 *高考数学不等式深度解析：均值不等式、柯西不等式、线性规划与不等式证明全攻略*
 
 本文系统覆盖高考不等式专题的所有核心内容：基本不等式（AM-GM不等式）及其各类应用变形、柯西不等式（Cauchy-Schwarz）的使用技巧、线性规划的完整解法体系、绝对值不等式的解法、含参数不等式的分情况讨论，以及各种不等式证明方法。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在不等式专题建立完整的解题体系。

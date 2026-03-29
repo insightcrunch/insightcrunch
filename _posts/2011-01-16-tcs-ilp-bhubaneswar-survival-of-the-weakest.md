@@ -6,7 +6,7 @@ date: 2011-01-16
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Survival Tips", "Non-CS Candidates"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -17,7 +17,7 @@ The programme coordinator's announcement hit with the specific weight of a start
 
 This image - two struggling trainees sharing a cigarette in the balcony, both feeling equally unmoored by the same assessment announcement - is the most honest portrait of ILP difficulty in the source collection. The studious ones had become the tigers. The ones who coasted through college on social confidence were now sitting frightened while the formerly quiet academic performers "started behaving like gangsters." The sea was the same for everyone. The compass was what differed.
 
-![A determined TCS ILP trainee at a study desk with technical books and a laptop in the evening - someone who has decided to find their compass despite feeling lost in the assessment pressure](/assets/images/blog/blog-34.webp)
+![A determined TCS ILP trainee at a study desk with technical books and a laptop in the evening - someone who has decided to find their compass despite feeling lost in the assessment pressure](/assets/images/blog/blog-14.webp)
 *Surviving TCS ILP complete guide - for non-CS candidates who feel like toddlers in the world of fathers, for trainees who are behind from day one, for anyone who finds the assessment announcement terrifying - the specific strategies that build the compass when you feel lost at sea*
 
 This guide is for the trainee who is standing in the balcony. The one who is already feeling the pressure before the first exam has been taken. The one who is already behind and knows it. The compass exists. This guide is where to find it.

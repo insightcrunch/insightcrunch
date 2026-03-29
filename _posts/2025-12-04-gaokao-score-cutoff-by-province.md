@@ -6,14 +6,14 @@ date: 2025-12-04
 categories: ["Industry"]
 tags: ["高考", "高考分数线", "一本分数线", "省际分数线", "录取配额", "高考录取", "Gaokao", "Score Cutoffs", "Provincial Quotas", "University Admission"]
 excerpt: "全面解析高考各省分数线的形成机制、省际差异的深层原因，以及清华北大等顶尖高校在不同省份的录取分数差异，帮助考生科学理解高考分数线体系。"
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考录取分数线，是高考制度中最直接影响学生命运走向的关键数字，也是整个高考体系中最常被误解、争议最多的部分。为什么同样是650分，在河南省可能只够进一所普通211高校，而在北京市却可以冲击顶尖高校？为什么一本分数线在不同省份相差如此悬殊？分数线背后究竟是什么样的制度逻辑在运作？
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-53.webp)
 *高考各省分数线完全指南：深度解析一本二本分数线形成机制、省际配额差异根源，以及顶尖高校跨省录取的真实逻辑*
 
 理解这些问题，不只是对高考考生和家长的实际需要，更是理解中国高等教育资源分配机制的重要窗口。本文将系统梳理高考分数线体系的完整框架，从分数线的确定机制到省际差异的深层原因，从历年分数线的变化规律到具体省份的详细分析，为每一位关注高考录取的读者提供最全面的参考。

@@ -6,7 +6,7 @@ date: 2025-08-16
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Project Allocation", "RMG", "Bench Period", "TCS Career", "Fresher", "IT Career", "TCS Project"]
 excerpt: "TCS ILP to project allocation pipeline: how RMG assigns projects, why some freshers wait months, and what actually determines your first posting."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 28
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -15,7 +15,7 @@ You cleared IRA, passed every diagnostic, survived the PRA, and completed your I
 
 This does not have to remain unclear. The project allocation process at TCS follows a structured framework managed by the Resource Management Group (RMG), and understanding how that framework operates gives you a significant advantage over freshers who enter the post-ILP phase blindly.
 
-![TCS ILP to Project Allocation](/assets/images/blog/blog-04.webp)
+![TCS ILP to Project Allocation](/assets/images/blog/blog-44.webp)
 TCS ILP to Project Allocation - What Actually Happens After Training Ends
 
 This guide covers every stage of the transition: the final days of ILP, the PRA exam, reporting to your base location, how RMG works, the project interview process, the bench period and what you are expected to do during it, technology mismatch scenarios, the impact of ILP ratings and cadre on allocation, and the new 2025 deployment policy that has fundamentally changed how TCS manages bench time. The information draws from the documented TCS process, official policy communications, and the reported experiences of freshers across multiple batches and base locations.

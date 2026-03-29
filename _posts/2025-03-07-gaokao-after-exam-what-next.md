@@ -6,14 +6,14 @@ date: 2025-03-07
 categories: ["Industry"]
 tags: ["高考", "高考后", "志愿填报", "大学录取", "Gaokao", "After Exam", "University Admission", "What Next"]
 excerpt: "高考结束后完全指南：从考后几天的情绪调节，到成绩查询的时间节点；从志愿填报的系统策略，到各阶段录取结果的跟踪；以及未能进入理想院校时的所有选择。"
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 高考两天结束，走出考场的那一刻，许多考生的第一感受是：终于结束了。然而很快，一个新的问题随之而来：接下来怎么办？
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-33.webp)
 *高考结束后完全指南：从成绩查询到志愿填报，从录取时间线到未能录取时的备选方案，高考后每一个重要节点的完整解析*
 
 高考结束后，从成绩公布到最终录取，还有一段漫长而关键的旅程。这段旅程中，志愿填报的质量，直接决定了高考分数能否转化为最好的录取结果。本文将系统梳理高考结束后的每一个重要环节。

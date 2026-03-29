@@ -6,14 +6,14 @@ date: 2020-12-23
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Pass Strategy", "Minimum Preparation"]
 excerpt: "Worried about TCS NQT? Here is how difficult it really is, which sections trip people up most, and the focused preparation that improves your chances."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 There are two questions you should be asking about passing TCS NQT. The first is "what is the minimum I need to do?" - valid when time is constrained and you want the most efficient path to a qualifying result. The second is "how do I maximize my score?" - valid when you have adequate time and want the best possible outcome, including Digital track consideration.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-14.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-34.webp)
 *The complete guide to passing TCS NQT - what pass rate data reveals about the true difficulty, what score is actually required, the minimum preparation plan that produces a qualifying result in the shortest time, the smart topic prioritization that gives maximum marks per preparation hour, common mistakes that prevent otherwise-prepared candidates from passing, and the mental models that convert preparation into exam performance*
 
 This guide addresses both questions - the minimum viable preparation plan and the higher-effort plan that maximizes outcome - so you can make an informed decision about where to invest your preparation.

@@ -6,7 +6,7 @@ date: 2023-08-19
 categories: ["Industry"]
 tags: ["TCS NQT coding", "TCS coding questions", "TCS programming", "TCS advanced coding", "TCS NQT solutions"]
 excerpt: "Comprehensive TCS NQT coding preparation with topic-wise strategies, original practice problems, and solutions in three languages."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 61
 author: "Insight Crunch Team"
 render_with_liquid: false
@@ -14,7 +14,7 @@ last_updated: 2026-03-23
 ---
 The TCS NQT Advanced Coding section is where the hiring funnel narrows sharply. Every candidate who sits in the test hall has already cleared the eligibility bar - but the Advanced Coding section separates TCS Ninja from TCS Digital, and TCS Digital from TCS Prime. Two or three programming problems, ninety minutes, a browser-based IDE, and hidden test cases whose results you will not see until after the exam ends. For candidates who have not specifically prepared for this format, it is a brutal surprise. For candidates who understand exactly how the section is structured, what problem types to expect, and how to write code that passes not just visible test cases but all the edge cases running invisibly in the background - it is an opportunity to differentiate themselves completely.
 
-![TCS Guide](/assets/images/blog/blog-28.webp)
+![TCS Guide](/assets/images/blog/blog-08.webp)
 
 This guide covers everything: the TCS iON coding environment mechanics, how test case scoring actually works, language-specific considerations, a complete topic-by-topic preparation roadmap with original problems and full solutions in C++, Java, and Python, and a thirty-day preparation plan. Whether you are starting from scratch or polishing an already solid foundation, the guidance here is calibrated specifically to the TCS NQT Advanced Coding format.
 

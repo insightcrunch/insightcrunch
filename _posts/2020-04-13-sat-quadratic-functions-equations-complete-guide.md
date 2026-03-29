@@ -6,7 +6,7 @@ date: 2020-04-13
 categories: ["Industry"]
 tags: ['SAT Quadratic Equations', 'SAT Factoring', 'SAT Quadratic Formula', 'SAT Completing the Square', 'SAT Vertex Form', 'SAT Parabola', 'SAT Quadratic Functions', 'SAT Discriminant']
 excerpt: "Master every SAT quadratic equation topic including factoring, the quadratic formula, completing the square, vertex form, graphing parabolas, and discriminant analysis."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -15,7 +15,7 @@ Quadratic equations represent the second-most important algebraic topic on the S
 
 The SAT's approach to quadratics is broader than many students initially expect. Questions involve not just solving equations for numerical roots but also working with parabola graphs, interpreting the vertex and axis of symmetry, understanding what the discriminant reveals about the nature of solutions without solving, identifying equivalent expressions, solving systems where one equation is quadratic and one is linear, and applying quadratic models to real-world word problems. Complete mastery requires fluency across all of these representations and problem types.
 
-![SAT Quadratic Equations Complete Guide](/assets/images/blog/blog-15.webp)
+![SAT Quadratic Equations Complete Guide](/assets/images/blog/blog-55.webp)
 
 This guide covers every quadratic topic tested on the SAT with worked examples at multiple difficulty levels, clear identification of common errors, and the fastest approach for each question type. A decision framework for method selection is provided to help you choose quickly and efficiently on test day. Topics covered in full include: factoring quadratic expressions, solving by factoring, the quadratic formula, completing the square, the discriminant, vertex form and converting between forms, graphing parabolas, the relationship between zeros and factors, systems with one linear and one quadratic equation, quadratic word problems, equivalent expressions, and using Desmos strategically.
 

@@ -5,7 +5,7 @@ date: 2013-02-06
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "How long does Amazon take to hire? Typical timelines for warehouse vs corporate vs tech roles, from application submission to your start date."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 10
 author: "Insight Crunch Team"
 last_updated: 2026-03-29
@@ -24,7 +24,7 @@ A candidate must use relevant keywords in their resume or LinkedIn profile so th
 
 The application submitted status of the application in Amazon job portal means that Amazon has received your application but yet to go through it and process it. The second status which is under consideration at Amazon means that the hiring managers and different teams at Amazon are actively reviewing your application. The status under consideration means that your application has chances of moving forward to the subsequent stages and might be waiting to get selected by a more relevant team which might be better suited for your skill sets. The next status is no longer under consideration, which means that the application that you have submitted has been reviewed by the different teams and managers at Amazon, and they have decided that there is no position currently available at Amazon that meets your skill sets. 
 
-![How long is Amazon hiring process](/assets/images/blog/blog-19.webp)
+![How long is Amazon hiring process](/assets/images/blog/blog-59.webp)
 How long is Amazon hiring process
 
 ## Amazon Application Statuses

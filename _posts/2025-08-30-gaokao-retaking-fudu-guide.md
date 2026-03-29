@@ -6,14 +6,14 @@ date: 2025-08-30
 categories: ["Industry"]
 tags: ["高考", "高考复读", "复读生", "高考复读策略", "复读值不值", "Gaokao", "Retaking", "Fudu", "Exam Strategy"]
 excerpt: "高考复读完全指南：从复读的现实数据和社会认知，到各省的具体政策差异，从复读生的备考策略到成功率分析，以及对复读心理健康影响的全面解析，帮助你做出最明智的复读决定。"
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 每年高考成绩公布后，数以百万计的考生和家庭，都要面对一个可能改变命运走向的重大抉择：接受这次高考的结果，还是选择复读，用一年的时间重新备考，争取一个更好的成绩和大学？
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-02.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-22.webp)
 *高考复读完全指南：复读人数、各省政策、备考策略、成功率分析与心理健康，帮助每一位面临复读抉择的考生和家庭做出最明智的决定*
 
 复读，在中国教育文化中有其独特的位置。一方面，复读代表着对更好未来的不甘放弃，是"宝剑锋从磨砺出"精神的现代体现；另一方面，复读也意味着承担巨大的压力，包括多付出一年时间、面对来自社会和家庭的期待、以及不确定的成功率。

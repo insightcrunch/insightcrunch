@@ -5,7 +5,7 @@ date: 2022-09-25
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Black Panther: Wakanda Forever preview: Marvel's sequel honoring Chadwick Boseman. New characters, Namor, and what the film means for the MCU's future."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -22,7 +22,7 @@ The movie Black Panther: Wakanda Forever is due Novemeber 2022. The character of
 
 Keep reading: [Kyndryl Stock Price »](https://insightcrunch.com/2022/09/06/kyndryl-stock-price/)
 
-![Black Panther 2 Wakanda Forever casts Namor as main villain](/assets/images/blog/blog-27.webp)
+![Black Panther 2 Wakanda Forever casts Namor as main villain](/assets/images/blog/blog-07.webp)
 Black Panther 2 Wakanda Forever casts Namor as main villain
 
 ## Black Panther: Wakanda Forever Cast

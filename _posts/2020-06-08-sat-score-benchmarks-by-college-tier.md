@@ -6,7 +6,7 @@ date: 2020-06-08
 categories: ["Industry"]
 tags: ['SAT Score Benchmarks', 'SAT Scores by College Tier', 'SAT Scores for Engineering', 'SAT Scores for Business', 'SAT Scores for Nursing', 'SAT Scores by Major', 'SAT Score Targets', 'SAT Good Score by Major']
 excerpt: "The complete guide to SAT score benchmarks organized by college selectivity tier and popular academic majors with realistic score targets for each combination."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-27
@@ -15,7 +15,7 @@ The question "What SAT score do I need?" cannot be answered without knowing wher
 
 This guide organizes SAT score benchmarks along two complementary frameworks: by college selectivity tier, which gives you a broad map of what scores are competitive at different types of institutions, and by academic major, which reveals how score expectations vary within and across institutions depending on what you intend to study. Understanding both frameworks together allows you to set preparation targets that are accurately calibrated to your specific college list and your intended academic path.
 
-![SAT Score Benchmarks by College Tier and Major](/assets/images/blog/blog-01.webp)
+![SAT Score Benchmarks by College Tier and Major](/assets/images/blog/blog-41.webp)
 
 The benchmarks throughout this guide reflect general patterns based on publicly available institutional data and Common Data Sets. Because score ranges shift modestly from year to year and vary by specific institution, always verify current data directly from each institution's Common Data Set before making final preparation target decisions. The patterns described here provide an accurate overall framework; the institution-specific data provides the precise calibration.
 

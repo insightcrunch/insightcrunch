@@ -5,7 +5,7 @@ date: 2009-08-17
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Google's secret cloud storage project GDrive. What leaked details reveal about the upcoming online storage service and its potential impact."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -18,5 +18,5 @@ Read more: [How Google Labs will continue to be an integral part of Google produ
 
 Here’s another battle that will start. No points for guessing, Sky Drive vs GDrive! The old rivals meet again in a similar battle ground. Only concern users may face which might come in their way of using GDrive is privacy. It’s only the level of trust which you have for Google that will let you fully explore GDrive no matter however confidential your data is. So things will become clear after it is launched, if GDrive is impressive enough regarding safety and security then there’s no reason why I shouldn’t be going for their paid service!
 
-![Google Drive Storage](/assets/images/blog/blog-27.webp)
+![Google Drive Storage](/assets/images/blog/blog-47.webp)
 Google Drive Storage

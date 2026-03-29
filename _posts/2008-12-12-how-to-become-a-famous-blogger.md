@@ -5,12 +5,12 @@ date: 2008-12-12
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "I just came across this thing which I think will help all bloggers to try and become famous... ;)"
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
-![](/assets/images/blog/blog-03.webp)
+![](/assets/images/blog/blog-23.webp)
 
 I just came across this thing which I think will help all bloggers to try and become famous... ;)
 

@@ -5,7 +5,7 @@ date: 2011-08-19
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Anna Hazare's movement by the numbers. What recovering black money could do for India: infrastructure, education, healthcare, and governance."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -19,7 +19,7 @@ Hazare says: Bring back the Black Money.
  No need to participate in this Revolution. Just support Anna Hazare by sharing this article.  
  I did my job for better India and a brighter tomorrow. Jai Hind.
 
-![Anna Hazare for Development](/assets/images/blog/blog-23.webp)
+![Anna Hazare for Development](/assets/images/blog/blog-43.webp)
 Anna Hazare for Development
 
 Nice Text:

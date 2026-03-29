@@ -5,14 +5,14 @@ date: 2019-07-26
 categories: ["Industry"]
 tags: ["Oxford", "University", "UK", "Accommodation", "Costs", "Rent", "Student Budget", "College"]
 excerpt: "The complete financial breakdown of Oxford University accommodation costs for undergraduate, graduate, and international students. Covers college rent ranges across all colleges, the hidden costs in battels beyond rent, private renting expenses by neighborhood, the full cost of the living-out year, utility and council tax details, the cost comparison between college and private accommodation over a full degree, funding sources to offset housing costs, and practical budgeting strategies for one of the UK's most expensive student cities."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 The single largest expense in your Oxford student budget is accommodation. It is larger than food, larger than transport, larger than books and study materials combined, and for international students, it rivals tuition as a financial burden. Understanding the true cost of Oxford accommodation, not just the headline rent figure but the complete picture including hidden charges, utility costs, deposit requirements, and the financial impact of the "living out" year, is the difference between a budget that works and a budget that collapses mid-term.
 
-![Oxford Accommodation Costs - Complete Breakdown](/assets/images/blog/blog-19.webp)
+![Oxford Accommodation Costs - Complete Breakdown](/assets/images/blog/blog-59.webp)
 Oxford Accommodation Costs - Complete Breakdown
 
 The University of Oxford estimates monthly living costs at between GBP 1,405 and GBP 2,105 for the academic year beginning in the autumn. Accommodation is the dominant component of these estimates. But the University's figures are averages, and averages conceal the enormous variation that exists between colleges, between room types, and between the college-accommodation years and the private-renting years of your degree. This guide disaggregates the averages and provides the specific numbers you need for genuine financial planning.

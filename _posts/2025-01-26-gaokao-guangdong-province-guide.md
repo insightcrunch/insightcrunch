@@ -6,14 +6,14 @@ date: 2025-01-26
 categories: ["Industry"]
 tags: ["高考", "广东高考", "广东分数线", "广东新高考", "Guangdong Gaokao", "Provincial Guide"]
 excerpt: "广东高考完全指南：以GDP全国第一的经济大省为背景，深度解析3+1+2新高考模式、历年分数线趋势、广东省内顶尖高校竞争格局，以及广东学子在激烈竞争中的志愿填报实战策略。"
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 广东，中国经济第一大省，改革开放的发源地，也是近年来高考参考人数增长最快的省份之一。每年约80万至90万考生在这里角逐有限的大学名额，在粤港澳大湾区经济腾飞的背景下，广东高考展现出独特的竞争格局和文化特色。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-12.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-32.webp)
 *广东高考完全指南：3+1+2新高考改革解析、分数线趋势、顶尖高校竞争分析与志愿填报实战*
 
 与河南的"人多名少、拼死竞争"不同，广东高考有其独特之处：既有超大的参考人数带来的激烈竞争，又有广州、深圳等超一线城市的就业资源优势；既有中山大学、华南理工等本省顶尖985高校，又有大量来自全国的优质高校在广东设立研究院和招生名额。

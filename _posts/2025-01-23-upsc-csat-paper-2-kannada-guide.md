@@ -5,14 +5,14 @@ date: 2025-01-23
 categories: ["Industry"]
 tags: ["upsc-csat", "csat-paper-2", "upsc-kannada-guide", "csat-strategy", "upsc-prelims"]
 excerpt: "ಕನ್ನಡದಲ್ಲಿ UPSC CSAT ಹೇಗೆ ತಯಾರಿಸುವುದು? ಪೇಪರ್ 2 ವಿಭಾಗವಾರು ಮಾರ್ಗದರ್ಶಿ, ಗ್ರಹಿಕೆ ಪ್ರಶ್ನೆ ಪರಿಹಾರ, ತರ್ಕ ಮತ್ತು ಗಣಿತ."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 UPSC ಸಿವಿಲ್ ಸರ್ವೀಸಸ್ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಪ್ರತಿ ವರ್ಷ ನೂರಾರು ಅಭ್ಯರ್ಥಿಗಳು ಜನರಲ್ ಸ್ಟಡೀಸ್ ಪೇಪರ್ 1ರಲ್ಲಿ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ತೋರಿಸುತ್ತಾರೆ, ಆದರೆ CSAT ಪೇಪರ್ 2ರಲ್ಲಿ ಕನಿಷ್ಠ ಅಂಕಗಳನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಾಗದೆ ಅವರ ಕನಸು ಅಲ್ಲಿಯೇ ಮುರಿಯುತ್ತದೆ. CSAT ಅನ್ನು "ಸುಲಭ" ಅಥವಾ "ಬರೀ ಕ್ವಾಲಿಫೈ ಆದರೆ ಸಾಕು" ಎಂದು ನಿರ್ಲಕ್ಷಿಸುವುದು ನಿಮ್ಮ ಇಡೀ UPSC ಪ್ರಯಾಣವನ್ನು ಕೊನೆಗೊಳಿಸಬಲ್ಲ ತಪ್ಪು.
 
-![UPSC Complete Guide - Insight Crunch](/assets/images/blog/blog-04.webp)
+![UPSC Complete Guide - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 ಈ ಮಾರ್ಗದರ್ಶಿ ವಿಶೇಷವಾಗಿ UPSC-ಗೆ ತಯಾರಾಗುತ್ತಿರುವವರಿಗೆ, ಗಣಿತ ಅಥವಾ ಇಂಗ್ಲಿಷ್ ಹಿನ್ನೆಲೆ ದುರ್ಬಲವಾಗಿರುವವರಿಗೆ, ಮತ್ತು ಹಿಂದಿನ ಪ್ರಯತ್ನದಲ್ಲಿ CSAT-ನಲ್ಲಿ ವಿಫಲರಾದವರಿಗೆ ಬರೆಯಲಾಗಿದೆ. ಈ ಮಾರ್ಗದರ್ಶಿಯಲ್ಲಿ CSAT-ನ ಪ್ರತಿ ವಿಭಾಗದ ವಿವರವಾದ ತಂತ್ರ, ಕರ್ನಾಟಕದಿಂದ ಬರುವ ಅಭ್ಯರ್ಥಿಗಳ ವಿಶೇಷ ಅನುಕೂಲಗಳು ಮತ್ತು ಸವಾಲುಗಳು, ಪ್ರಾಯೋಗಿಕ ಅಭ್ಯಾಸ ವಿಧಾನಗಳು ಸೇರಿವೆ.
 

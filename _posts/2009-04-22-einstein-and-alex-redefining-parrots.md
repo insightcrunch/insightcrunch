@@ -5,7 +5,7 @@ date: 2009-04-22
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Not that we haven’t heard of talking macaws and parrots, but having the ability is one thing, and breaking the limit is another. Some recent videos of..."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -14,5 +14,5 @@ Not that we haven’t heard of talking macaws and parrots, but having the abilit
 
 https://www.youtube.com/watch?v=7rfGEtALHYs
 
-![In love with talking parrots](/assets/images/blog/blog-25.webp)
+![In love with talking parrots](/assets/images/blog/blog-05.webp)
 In love with talking parrots

@@ -6,14 +6,14 @@ date: 2025-10-01
 categories: ["Industry"]
 tags: ["高考", "高考改革", "3+1+2", "3+3模式", "选科改革", "教育改革", "Gaokao", "Education Reform", "3+1+2 Model", "Policy"]
 excerpt: "全面解析高考改革新模式：2014年改革为何启动、3+1+2与3+3模式的核心差异、物理为何遭冷遇、赋分制如何运作、选科博弈的策略逻辑，以及新高考未来的改革走向。"
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 2014年，中国启动了自1977年恢复高考以来影响最深远的一次制度性改革，从根本上改变了延续数十年的文理分科体系，引入了以"3+1+2"和"3+3"为核心的多元选科模式，并将赋分制引入选考科目的评分机制。这场改革，涉及超过一亿在校中学生的直接利益，牵动着数亿家庭对孩子教育路径的规划，也引发了教育界迄今最广泛的政策讨论与争议。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-46.webp)
 *高考改革新模式完全解析：从2014年改革宣示到3+1+2模式的全国推进，从物理遭冷遇危机到赋分制的设计逻辑，从选科博弈的现实困境到未来改革的可能走向*
 
 本文将系统解析新高考改革的完整图谱：为什么要改革？改什么？上海浙江的先行试点发现了什么问题？3+3和3+1+2有什么根本区别？赋分制是什么，为什么引发争议？选科博弈的逻辑是什么？学生和家长应该如何理解和应对新高考？以及改革的未来走向是什么？

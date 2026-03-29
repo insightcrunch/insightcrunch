@@ -5,12 +5,12 @@ date: 2017-08-29
 categories: ["Travel"]
 tags: ["Nature"]
 excerpt: "The Ford automobile revolution: how Henry Ford's assembly line changed manufacturing, mobility, and the shape of modern American life forever."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 6
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
-![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-03.webp)
+![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-23.webp)
 
 The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It is then that I started learning more about the smallest of the small details of Henry Ford’s life, and gradually it became an obsession. When I learnt that he has created a world where a snapshot of history is preserved so well, it was irresistible to drive up to Dearborn, Michigan.
 

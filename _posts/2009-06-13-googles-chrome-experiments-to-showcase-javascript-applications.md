@@ -5,7 +5,7 @@ date: 2009-06-13
 categories: ["Leisure"]
 tags: ["Google", "Surfing", "Thoughts"]
 excerpt: "Yesterday I was using Google when suddenly Crash! The whole Google page fell apart! Just check out [here](http://mrdoob.com/projects/chromeexperiments/goog..."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -18,5 +18,5 @@ There are some pretty awesome [3D](http://www.xs4all.nl/~peterned/3d/) graphics 
 
 Keep reading: [Laptop Review: Price, Feature, Durability, Ergonomics »](https://insightcrunch.com/2009/06/20/laptop-review-price-feature-durability-ergonomics/)
 
-![Google Chrome Experiments](/assets/images/blog/blog-15.webp)
+![Google Chrome Experiments](/assets/images/blog/blog-35.webp)
 Google Chrome Experiments

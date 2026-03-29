@@ -6,14 +6,14 @@ date: 2025-05-18
 categories: ["Industry"]
 tags: ["高考", "专业选择", "高考志愿", "职业规划", "Gaokao", "Career Planning", "University Majors", "Salary Outcomes"]
 excerpt: "高考成绩到职业路径完全指南：高考分数与选科如何决定可报考的专业范围、计算机/医学/金融等最热门专业的真实录取门槛、不同院校层次毕业生的薪资差距，以及从高考选科到职业发展的完整路径规划。"
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 高考结束、成绩公布，一个随之而来的关键任务就是填报志愿，选择大学和专业。对很多考生和家长来说，这个决定既紧迫又困惑：哪些专业热门？哪些专业有钱途？高考成绩决定了哪些专业可以报？选科与专业是怎么关联的？不同大学层次的毕业生，职业差距到底有多大？
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-12.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-52.webp)
 *高考成绩到专业与职业的完整路径：从选科与专业的关联，到热门专业的竞争格局，从院校层次与薪资差距，到长期职业发展的规划框架*
 
 本文将系统解答这些问题，为每一位高考生和家长提供从高考成绩到专业选择到职业规划的完整决策框架。

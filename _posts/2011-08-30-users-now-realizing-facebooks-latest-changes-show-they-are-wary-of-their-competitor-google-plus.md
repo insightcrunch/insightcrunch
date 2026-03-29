@@ -5,14 +5,14 @@ date: 2011-08-30
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Facebook is scared of Google Plus. The latest interface changes, smart lists, and subscriber features are borrowed directly from Google's playbook."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 Facebook has recently made some pretty decent tweaks into their existing interface. All of them aims at the popular features which had been giving an edge to their closest rival Google Plus. These changes come at a time when people are in two-minds which platform to use. Facebook is trying its level best to provide its users with best in-class experience.
 
-![Facebook Privacy Concern](/assets/images/blog/blog-30.webp)
+![Facebook Privacy Concern](/assets/images/blog/blog-50.webp)
 Facebook Privacy Concern
 
 Some of the most noticeable changes are the privacy controls for each status update (a 99% copy of Google Plus), privacy settings for each of the account information that an user can have in his or her profile (100% inspired by Google Plus) and a nice tweak to the apparently horrible theater mode photo viewer. In the photo viewer, the previous and next arrow have been aesthetically placed with the ‘Like’ and ‘Comment’ buttons finding a place a notch inside the photo thus saving some vital space below the pic.

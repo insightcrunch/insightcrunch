@@ -5,7 +5,7 @@ date: 2009-09-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Will Twitter's uniqueness kill it? How the character limit, real-time nature, and simplicity could become disadvantages as social media evolves."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -18,7 +18,7 @@ So all of us have heard of Twitter and 99% of those who have heard about it have
 
 Read more: [What is Infosys Campus Connect? »](https://insightcrunch.com/2009/09/06/what-is-infosys-campus-connect/)
 
-![Twitter Algorithms and Use Cases](/assets/images/blog/blog-23.webp)
+![Twitter Algorithms and Use Cases](/assets/images/blog/blog-03.webp)
 Twitter Algorithms and Use Cases
 
 What the scenario turns out to be is that few people are using Twitter for personal communications, though that is what brings out the best out of this service. I prefer using it to share some of my personal opinions on various stuffs and occasionally some special stuffs am up to. The direct message's facility of Twitter is the only thing that will occasionally be useful to users, something in between chat and email. However besides that, there is no such aspect of Twitter that will keep users hooked to it away from Facebook, Orkut and Blogging. The community aspect is what is severely wanting in Twitter as people are only following one-to-one communications. So soon we may see 90% of the tweets coming from lesser number of users as more people keep sitting back and watching what they are saying. But with the advent of real-time search engines and hashtags gaining popularity at a stunning pace, only future can say whether Twitter will make its mark.

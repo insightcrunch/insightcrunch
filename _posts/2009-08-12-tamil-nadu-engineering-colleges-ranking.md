@@ -5,7 +5,7 @@ date: 2009-08-12
 categories: ["Industry"]
 tags: ["Surfing"]
 excerpt: "This is one of the most sought after ranking list with so many engineering colleges in Tamil Nadu. After the tremendous response with the [West Bengal..."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 1
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
@@ -14,5 +14,5 @@ This is one of the most sought after ranking list with so many engineering colle
 
 [googleapps domain="spreadsheets" dir="embeddedform" query="key=tDl_ni8wPlpG8cZufGFbk2A" width="500" height="850" /]
 
-![Tamil Nadu Engineering Colleges](/assets/images/blog/blog-16.webp)
+![Tamil Nadu Engineering Colleges](/assets/images/blog/blog-56.webp)
 Tamil Nadu Engineering Colleges

@@ -5,14 +5,14 @@ date: 2024-07-28
 categories: ["Industry"]
 tags: ["upsc-prelims", "gs-paper-1", "upsc-urdu-guide", "upsc-booklist", "upsc-strategy"]
 excerpt: "UPSC GS 1 اردو میں کیسے تیار کریں؟ ہر مضمون کی تیاری حکمت عملی، تجویز کردہ کتابیں، اور ماضی کے سوالات کا تجزیہ۔"
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 UPSC سول سروسز ابتدائی امتحان کا جنرل سٹڈیز پیپر 1 وہ پہلا اور فیصلہ کن دروازہ ہے جو UPSC مینز تک پہنچنے کا راستہ کھولتا ہے۔ یہ پیپر 200 نمبروں کا ہوتا ہے، 100 کثیرالانتخابی سوالات (MCQ) پوچھے جاتے ہیں۔ اردو ذریعے کے امیدواروں کو بعض خاص مشکلات کا سامنا ہوتا ہے لیکن صحیح حکمت عملی سے یہ مشکلات قابل حل ہیں۔
 
-![UPSC پریلمز GS پیپر 1 تیاری حکمت عملی](/assets/images/blog/blog-07.webp)
+![UPSC پریلمز GS پیپر 1 تیاری حکمت عملی](/assets/images/blog/blog-27.webp)
 
 ## GS پیپر 1 - مکمل ساخت
 

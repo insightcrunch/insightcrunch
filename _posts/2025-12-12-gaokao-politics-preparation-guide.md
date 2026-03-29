@@ -6,14 +6,14 @@ date: 2025-12-12
 categories: ["Industry"]
 tags: ["高考", "高考政治", "政治备考", "马克思主义哲学", "政治经济学", "时政", "Gaokao", "Politics", "Philosophy", "Humanities Preparation"]
 excerpt: "最全面的高考政治备考指南，系统覆盖马克思主义哲学、政治经济学、政治常识与文化生活全考纲，深度解析主观题答题规范与时政应用策略。"
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考政治（思想政治）是3+1+2模式下五门选考科目之一，也是所有选考科目中政治敏感度最高、与时政现实联系最紧密的学科。高考政治满分100分，涵盖马克思主义哲学（辩证唯物主义和历史唯物主义）、政治经济学（生产与分配的基本原理）、政治常识（国家性质、民主政治、国际关系）和文化生活（文化功能、民族文化、文化建设）四大模块，是一门理论逻辑性强、实践应用性强的综合性学科。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-39.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-19.webp)
 *高考政治备考完全指南：从马克思主义哲学到政治经济学，从政治常识到文化生活，全面掌握高考政治的核心理论与答题规范*
 
 本文将系统覆盖高考政治的完整知识体系，从哲学的辩证唯物主义基本原理到历史唯物主义的社会发展规律，从经济学的市场机制到国家宏观调控，从政治制度的运行逻辑到中国特色社会主义文化建设，逐一深入解析每个模块的命题规律和高分答题策略。

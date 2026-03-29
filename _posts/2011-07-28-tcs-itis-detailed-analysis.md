@@ -5,7 +5,7 @@ date: 2011-07-28
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "It has been quite sometime while the discussion had been going on as to what ITIS actually is. Well, to begin with, ITIS (IT Infrastructure Services) is..."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -52,7 +52,7 @@ The scale of opportunity here is worth emphasising. Every large company in every
 
 TCS has positioned itself as a major player in this space through its ITIS division, competing with other large managed services providers globally. The quality and range of services TCS offers in this domain are genuinely competitive at an enterprise scale, which is reflected in the client roster that includes major organisations across banking, insurance, manufacturing, retail, healthcare, and public sector.
 
-![TCS ITIS Joining Letter Hiring Offer Fresher Recruit Tata Consultancy Services](/assets/images/blog/blog-03.webp)
+![TCS ITIS Joining Letter Hiring Offer Fresher Recruit Tata Consultancy Services](/assets/images/blog/blog-23.webp)
 TCS ITIS and Job Profiles
 
 ---

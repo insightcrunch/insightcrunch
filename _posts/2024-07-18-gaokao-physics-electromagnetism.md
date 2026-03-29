@@ -6,14 +6,14 @@ date: 2024-07-18
 categories: ["Industry"]
 tags: ["高考物理", "电磁学", "电场", "磁场", "电磁感应", "Gaokao Physics", "Electromagnetism"]
 excerpt: "Master Gaokao electromagnetism - electric fields, circuits, magnetic fields, and electromagnetic induction."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考物理电磁学专题，是继力学之后第二大核心板块，在高考物理卷中约占 40% 至 45% 的分值。电磁学横跨静电场、直流电路、磁场、电磁感应四个主要模块，各模块既有独立的知识体系，又在"带电粒子在复合场中运动"等综合题型中高度融合。电磁学题目以高考大题的形式频繁出现，要求考生既掌握基本公式，又能在复杂情景中建立正确的物理模型。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-16.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-56.webp)
 *高考物理电磁学深度解析：电场、直流电路、磁场、电磁感应与带电粒子运动全攻略*
 
 本文系统覆盖高考电磁学专题的所有核心内容：库仑定律与电场强度、电势与电势差、电容器、直流电路（欧姆定律、电阻网络、电源的内阻）、磁场与洛伦兹力、带电粒子在电场和磁场中的运动、电磁感应（法拉第定律、楞次定律、感应电动势）以及综合电磁大题的解题策略。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在电磁学专题建立完整的解题体系。

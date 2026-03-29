@@ -5,7 +5,7 @@ date: 2023-06-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Setting goals for Tableau certification: realistic timelines, study milestones, practice benchmarks, and how to stay motivated through the preparation."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -14,7 +14,7 @@ In the vein of Hemingway's protagonists who embark on life-changing journeys, yo
 
 Read more: [Tableau Certification: Boost Your Data Visualization Skills »](https://insightcrunch.com/2023/05/16/tableau-certification-boost-your-data-visualization-skills/)
 
-![The Road to Tableau Certification: Setting Goals and Achieving Them](/assets/images/blog/blog-37.webp)
+![The Road to Tableau Certification: Setting Goals and Achieving Them](/assets/images/blog/blog-57.webp)
 The Road to Tableau Certification: Setting Goals and Achieving Them
 
 ## **1. Setting Clear Goals**

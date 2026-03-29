@@ -6,14 +6,14 @@ date: 2021-12-20
 categories: ["Industry"]
 tags: ["Infosys", "Infosys Salary", "Infosys CTC", "Infosys In-Hand Salary", "Infosys Salary Structure", "Infosys Freshers Salary", "IT Salary India", "Infosys Pay Scale"]
 excerpt: "Detailed Infosys salary breakdown at every level from fresher to manager with in-hand calculations after all deductions."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Understanding your salary at Infosys requires more than knowing the CTC figure stated in your offer letter. The gap between what Infosys offers as a total cost to company and what actually reaches your bank account every month is significant, and the reasons for that gap are embedded in a salary structure that most candidates and even many current employees never fully understand.
 
-![Infosys Salary Structure Guide](/assets/images/blog/blog-06.webp)
+![Infosys Salary Structure Guide](/assets/images/blog/blog-26.webp)
 
 This guide dissects the Infosys compensation structure from the ground up. It covers the complete CTC composition, every deduction that reduces your gross salary before it becomes net pay, how variable pay works in practice, when bonuses are credited, how increments and appraisals function across the designation ladder, location-based salary differences, and how the take-home calculation looks different for freshers entering through different hiring tracks. At every level of the Infosys hierarchy, from Systems Engineer to Vice President, this guide maps the compensation reality with the specificity that candidates and employees actually need.
 

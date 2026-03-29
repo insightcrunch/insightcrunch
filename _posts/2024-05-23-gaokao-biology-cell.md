@@ -6,14 +6,14 @@ date: 2024-05-23
 categories: ["Industry"]
 tags: ["高考生物", "细胞生物学", "光合作用", "细胞呼吸", "Gaokao Biology", "Cell Biology"]
 excerpt: "Master Gaokao cell biology - structure, metabolism, photosynthesis, respiration, and cell division."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
 ---
 高考生物细胞生物学专题，是整个高中生物学知识体系的基础核心。细胞生物学横跨细胞结构与功能、物质跨膜运输、酶与细胞代谢、光合作用与细胞呼吸（生命活动的能量基础）以及细胞分裂（有丝分裂与减数分裂）五大核心模块。在高考生物卷中，细胞生物学的内容贯穿选择题和大题，约占总分的30%至40%，是高考生物备考中必须系统掌握的核心基础。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-19.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-39.webp)
 *高考生物细胞生物学深度解析：细胞结构、酶活性、光合作用、细胞呼吸、有丝分裂与减数分裂全攻略*
 
 本文系统覆盖高考细胞生物学专题的所有核心内容：原核细胞与真核细胞的区别、细胞膜的结构与功能（物质跨膜运输）、主要细胞器的功能、酶的本质与影响因素、光合作用的光反应与暗反应、细胞呼吸（有氧和无氧）的过程与产物、有丝分裂的各时期特征以及减数分裂的完整过程。配合[高考历年真题练习 - ReportMedic](https://reportmedic.org/tools/gaokao-previous-year-question-papers.html)系统刷历年真题，本文将帮助你在细胞生物学专题建立完整的解题体系。

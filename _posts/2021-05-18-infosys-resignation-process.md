@@ -6,14 +6,14 @@ date: 2021-05-18
 categories: ["Industry"]
 tags: ["Infosys Resignation", "Infosys Notice Period", "Infosys Resignation Process", "Infosys Exit Process", "Infosys Full and Final Settlement", "Infosys Relieving Letter", "Infosys Resignation Letter", "Infosys Exit Interview"]
 excerpt: "Complete step-by-step guide to resigning from Infosys: how to submit resignation, notice period rules, buyout options, handover process, exit interview, FnF settlement timeline, and how to leave without burning bridges."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Leaving Infosys is one of the most consequential professional decisions an employee makes, and one of the most poorly navigated. The decision gets made carefully but the execution often does not: the resignation is communicated before the offer letter is in hand, the notice period negotiation is handled emotionally rather than strategically, the handover is incomplete, the experience letter is delayed by months because of a documentation error in the pre-joining period, and the relationship with the manager ends badly rather than well.
 
-![Infosys Resignation Process Complete Guide](/assets/images/blog/blog-19.webp)
+![Infosys Resignation Process Complete Guide](/assets/images/blog/blog-39.webp)
 
 This guide covers every stage of the Infosys resignation process in specific, actionable detail. It explains when to resign and when to wait, how to handle the manager conversation, what the notice period options are, how notice period buyout works, what a complete handover involves, how the exit interview is handled productively, how the full and final settlement is calculated and what to verify in it, how to get the relieving letter and experience letter correctly, what happens to PF and gratuity, and how to leave in a way that preserves the professional relationships and reference quality that have genuine long-term career value.
 

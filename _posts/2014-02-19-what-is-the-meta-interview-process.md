@@ -5,7 +5,7 @@ date: 2014-02-19
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta, formerly known as Facebook, was founded in 2004 and is one of the largest technology corporations today. Meta owns Facebook and Instagram, which are..."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 12
 author: "Insight Crunch Team"
 last_updated: 2026-03-29
@@ -22,7 +22,7 @@ Read more: [Is it hard to get hired at Meta? »](https://insightcrunch.com/2014/
 
 Soon after applying for the Meta job position, our Meta technical recruiter will reach out to you over phone to ask about your qualifications and overall experience along with your motivations for working for the company. These phone screens typically last around 30 to 45 minutes. You should expect to answer the questions about why you are interested in joining Meta and why you want to be a Meta Product Manager or Software Engineer. While Meta software engineers and product managers are not expected to be as technical as say Google project managers, it is still important that you display your technical skills as much as possible to the recruiter who has contacted you. Also, if you have any Meta teams or particular products that you have a special interest in, it is best to share those details during this phone screen interview round. After you have spoken with the Meta phone recruiter, as a product manager candidate for Meta, we will take you through a couple of more phone screens. There is no fixed rule how many phone screens that will be conducted. But you will be talking with a couple of more product managers who are currently working at the company. Like the technical recruiter phone screen earlier, these two phone screens will take similarly about 30 to 45 minutes.
 
-![Meta interview process](/assets/images/blog/blog-29.webp)
+![Meta interview process](/assets/images/blog/blog-49.webp)
 Meta interview process
 
 ## Meta Product Sense Screening

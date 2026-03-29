@@ -5,7 +5,7 @@ date: 2012-06-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "The Chosen One", "Gryffindor", "Hero's Journey", "Orphan Hero"]
 excerpt: "A deep literary analysis of Harry Potter across all seven books - his psychology, moral courage, and enduring place in literary history."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -14,7 +14,7 @@ last_updated: 2026-03-28
 
 There is a paradox at the heart of Harry Potter that Rowling never quite resolves - and that unresolved tension is precisely what makes him one of the most fascinating protagonists in modern literature. Harry is, by every measurable standard of magical ability, unremarkable. He learns spells more slowly than Hermione. He lacks the instinctive cunning of Dumbledore, the volcanic passion of Voldemort, the effortless charm of Lockhart, even the peculiar visionary sight of Luna. He is a middling student who excels almost exclusively at a sport. And yet this thoroughly ordinary boy carries the weight of an entire world, walks willingly into death, and emerges on the other side not because he is the most gifted, but because he is, at his marrow, incapable of abandoning the people he loves.
 
-![Harry Potter complete character analysis across all seven books](/assets/images/blog/blog-06.webp)
+![Harry Potter complete character analysis across all seven books](/assets/images/blog/blog-46.webp)
 
 This is the argument Rowling makes across seven novels and roughly a million words: that love is not a sentiment but a power, that the willingness to sacrifice the self is not weakness but the highest form of magic, and that the chosen one is chosen not by prophecy but by the daily, grinding, unglamorous decision to keep going when every rational instinct screams to stop. Harry Potter is the hero of a series that consistently questions what heroism actually means, and his own character is the most sustained piece of that questioning. He is not Achilles, burning with divine fire. He is not Aeneas, carrying civilization on his back with conscious purpose. He is closer to an ordinary person thrust into extraordinary circumstances - and Rowling's genius is that she never lets him become something more elevated than that, even as she asks him to do something almost impossibly hard.
 

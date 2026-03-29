@@ -5,7 +5,7 @@ date: 2012-07-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Draco Malfoy", "Slytherin", "Pure-Blood", "Death Eaters"]
 excerpt: "A deep literary analysis of Draco Malfoy across all Harry Potter books - privilege, conscience, and the boy who could not kill."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "Insight Crunch Team"
 last_updated: 2026-03-28
@@ -16,7 +16,7 @@ There is a moment in *Harry Potter and the Half-Blood Prince* that stands as one
 
 He cannot do it.
 
-![Draco Malfoy character analysis across all seven Harry Potter books](/assets/images/blog/blog-11.webp)
+![Draco Malfoy character analysis across all seven Harry Potter books](/assets/images/blog/blog-31.webp)
 
 That inability is not a failure in Draco Malfoy's story. It is the story. The entire arc of this character - from the pale, drawling boy who offers Harry his hand on the Hogwarts Express to the haunted, hollowed young man of the epilogue - is the story of a person who was built to be one thing and discovered, at the worst possible moment, that he could not be it. Draco is not a villain who has a change of heart. He is something richer and far more disturbing: a person who never quite had the heart for villainy in the first place, and who spent six books desperately trying to convince himself and everyone around him that he did.
 

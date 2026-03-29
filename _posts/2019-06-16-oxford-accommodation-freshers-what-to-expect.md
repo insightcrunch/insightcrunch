@@ -5,14 +5,14 @@ date: 2019-06-16
 categories: ["Industry"]
 tags: ["Oxford", "University", "UK", "Freshers", "First Year", "Accommodation", "College", "Student Housing"]
 excerpt: "Everything Oxford freshers need to know about their first-year accommodation. Covers how college room allocation works, what your room will actually look like across different college types, the reality of shared bathrooms vs en-suite, scouts and the Oxford cleaning tradition, how to set up your room for study and sleep, the Freshers' Week accommodation experience, dining in college, what to bring and what not to bring, the staircase social dynamic, managing the term-time-only contract and vacation storage, the financial breakdown of first-year costs, and the complete week-by-week guide from move-in day through settling into the rhythm of Oxford life."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 The email arrives sometime during the summer before your first term. Your college confirms your room assignment: a building name, a staircase number, a room number, and perhaps a brief description of what to expect. For most incoming Oxford freshers, this email represents the first concrete detail of what your Oxford life will actually feel like. Not the tutorials, not the Bodleian, not the lectures, but the room where you will sleep, study, and begin the most intense academic and social experience of your life.
 
-![Oxford Accommodation for Freshers - What to Expect](/assets/images/blog/blog-21.webp)
+![Oxford Accommodation for Freshers - What to Expect](/assets/images/blog/blog-01.webp)
 Oxford Accommodation for Freshers - What to Expect
 
 First-year accommodation at Oxford is guaranteed by every college, but "guaranteed" does not mean "identical." The room you receive depends entirely on your college: its age, its buildings, its allocation policies, and the luck of whatever system (random assignment, alphabetical order, or administrative logic) your college uses. Two freshers arriving at Oxford on the same day, studying the same course, may find themselves in radically different living situations: one in a medieval room overlooking a five-hundred-year-old quad, the other in a modern en-suite in a purpose-built block on the outskirts of the college grounds. Both experiences are "Oxford accommodation," and both have their own advantages and challenges.

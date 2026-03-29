@@ -5,7 +5,7 @@ date: 2008-11-13
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Its been quite a while since I cracked TCS this year on the 19th of Feb. But I have been longing to share the wonderful experience that I went through..."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 8
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
@@ -22,7 +22,7 @@ The preparation started from about the end of 5th semester. Unlike other sem-bre
 
 Dressed in extreme formals for the first time in our lives, we all went to the specified venue, a different college, with my CV and all required mark sheets and documents at 9am. They gave a presentation on TCS. Really informative. Then batch by batch we were led to the computer lab of that college, where we gave our aptitude test online. Our batch was called up at about 4.30pm. The given 90 minutes passed in a flash, steadily answering question after question. There was no negative marking. After the test, we all went to hall and sat there waiting for our results to be declared. Our TPO came with the list and read out the names, and it was really a good feeling to hear my name being called out. After that we all were given a form to fill up, where we provided all our educational and residential details. The sirs from TCS who were there were extremely helpful to clarify all our doubts, I guess everybody from TCS are like them. Finally, after submitting the form we all left. A slight sense of victory, a feeling of slight success I felt, when I thought that I’ve cleared the first hurdle of my first attempt at a test in the outside world. But it was only the initial round. The next round of interview was to be held 2 days later, on the 17th, in our college, from 9am.
 
-![TCS Interview Experience Infosys Google Accenture Wipro Amazon Microsoft Hiring Job Fresher](/assets/images/blog/blog-40.webp)
+![TCS Interview Experience Infosys Google Accenture Wipro Amazon Microsoft Hiring Job Fresher](/assets/images/blog/blog-60.webp)
 Interview Experience and Tips
 
 ## Ambience

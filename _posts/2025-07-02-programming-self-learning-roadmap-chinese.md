@@ -5,7 +5,7 @@ date: 2025-07-02
 categories: ["Technology"]
 tags: ["自学编程", "Python学习", "Java学习", "前端开发", "编程入门", "程序员路线图", "免费编程资源"]
 excerpt: "零基础怎么自学编程找到工作？Python、Java、前端开发三条路线的阶段性学习计划、免费资源推荐、项目实战建议和每阶段关键节点。"
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 38
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -34,7 +34,7 @@ last_updated: 2026-03-23
 
 我见过太多自学编程的人走弯路。有人学了一年 Python，写的代码还停留在打印 Hello World 和做简单计算，从来没有做过一个完整的项目；有人把时间全花在看视频和刷教程上，却从来没有自己动手写过超过 50 行的代码；还有人东学一点 Python、西学一点 Java、再碰一碰 C++，什么都了解一点，但哪个方向都没有真正深入。
 
-![程序员自学编程完全路线图：Python、Java、前端开发从零基础到就业的详细学习计划与免费资源](/assets/images/blog/blog-16.webp)
+![程序员自学编程完全路线图：Python、Java、前端开发从零基础到就业的详细学习计划与免费资源](/assets/images/blog/blog-36.webp)
 程序员自学编程完全路线图：Python、Java、前端开发从零基础到就业的详细学习计划与免费资源
 
 这篇文章，我会把 Python、Java、前端开发三条最主流的自学路线从零基础到找到第一份工作的完整计划全部拆解清楚。每个阶段该学什么、学多久、用什么资源、做什么项目，都会给出具体可操作的建议。你不需要天赋异禀，也不需要花大钱报培训班，只需要一台能上网的电脑、每天 2-3 小时的学习时间，以及足够的坚持。

@@ -6,14 +6,14 @@ date: 2025-03-15
 categories: ["Industry"]
 tags: ["高考", "社会流动", "教育公平", "高考公平", "Gaokao", "Social Mobility", "Meritocracy", "Chinese Society"]
 excerpt: "高考与社会流动深度分析：高考作为中国历史上最大规模的精英选拔机制，如何为农村和贫困家庭的学子提供改变命运的机会，鲤鱼跳龙门的文化隐喻，以及高考公平性的深层矛盾与辩护。"
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-26
 ---
 在中国，有一句广为人知的话："高考是穷人家孩子改变命运的唯一出路。"这句话虽有夸张，却道出了高考在中国社会流动中的核心地位。每年六月，当数以百万计的农村学子走进考场，他们背负的不只是自己的梦想，更是整个家庭数十年的期望和积累。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-28.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
 *高考与社会流动深度分析：高考作为社会流动引擎的历史意义、现实效果与深层矛盾*
 
 高考与社会流动的关系，是中国教育史和社会史上最复杂、最引人深思的议题之一。本文将从以下维度深度分析：高考作为社会流动机制的历史背景与现实效果；鲤鱼跳龙门的文化隐喻及其深层含义；高考精英主义理想与省际、城乡现实差异之间的矛盾；对高考公平性最有力的批评与最有力的辩护；以及高考改革对社会流动的未来影响。

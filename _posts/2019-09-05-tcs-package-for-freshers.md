@@ -6,14 +6,14 @@ date: 2019-09-05
 categories: ["Industry"]
 tags: ["TCS", "Fresher Salary", "CTC Breakdown", "Salary Package"]
 excerpt: "TCS fresher salary package: CTC breakdown for Ninja, Digital, and Prime offers. In-hand pay, benefits, variable components, and what you actually receive."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 The most common misconception freshers have about their TCS offer letter is this: they see the CTC (Cost to Company) figure and assume that number divided by twelve is their monthly take-home. It is not. The gap between what TCS pays as CTC and what lands in your bank account every month can be 25-35%, and understanding exactly where that gap comes from is essential before you plan your post-joining finances.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-07.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-47.webp)
 *The complete guide to TCS fresher salary - what the CTC figure means, what Ninja and Digital packages actually include, the exact deductions that determine your in-hand salary, how benefits and perks add non-cash value, how the training period salary differs from project salary, how increments work, and what your compensation looks like in years two through five*
 
 This guide decodes the TCS fresher compensation package completely - not just the headline number but every component that makes up the total, every deduction that reduces the in-hand amount, every benefit and perk that adds value beyond the monthly deposit, and the trajectory of how compensation grows through the early career years.

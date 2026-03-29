@@ -6,14 +6,14 @@ date: 2025-10-09
 categories: ["Industry"]
 tags: ["高考", "高考历史", "科举制度", "教育改革", "1977高考", "Gaokao", "History", "Imperial Examination", "Education Reform"]
 excerpt: "高考完整历史：从隋代科举起源到1905年废除，从1952年现代高考建立到文化大革命停办，从1977年邓小平恢复到2014年新高考改革，解析一千四百年中国考试文化的演变脉络。"
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考，作为中国当代最重要的教育制度，并非凭空诞生，而是在一条绵延一千四百年的历史长河中，经过多次断裂、重建与改革，逐步演变成今天的面貌。从隋炀帝创立科举制度的公元605年，到文化大革命中高考的十年停办，再到1977年邓小平果断拍板恢复高考，再到21世纪的新高考改革，高考的历史，是中国社会变迁最忠实的镜像之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-08.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-48.webp)
 *高考历史与演变：从隋代科举的第一声锣鼓，到1977年576万考生重新走进考场，再到新高考改革的选科时代，解析中国考试制度一千四百年的历史脉络*
 
 理解高考的历史，不只是为了满足历史好奇心，更是为了真正理解高考在中国社会中为何具有如此深厚的文化根基，为何改革如此困难，以及为何每一次改革都激起如此广泛的社会共鸣。本文将系统梳理高考制度的完整演变历程，从科举的诞生到废除，从现代高考的建立到中断，从1977年的历史性恢复到当代的改革探索，提供一幅高考历史的完整全景图。

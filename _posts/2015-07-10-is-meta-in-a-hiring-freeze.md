@@ -5,7 +5,7 @@ date: 2015-07-10
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta cut hiring by 30%. What that means in practice: frozen roles, reduced teams, and the signal Zuckerberg is sending about the company's direction."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 5
 author: "Insight Crunch Team"
 last_updated: 2026-03-29
@@ -24,7 +24,7 @@ The performance management system in Meta is aimed at identifying employees who 
 
 Keep reading: [Black Panther: Wakanda Forever »](https://insightcrunch.com/2022/09/25/black-panther-wakanda-forever/)
 
-![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-04.webp)
+![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-44.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta Revenue Trouble

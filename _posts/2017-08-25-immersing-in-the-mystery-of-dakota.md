@@ -5,14 +5,14 @@ date: 2017-08-25
 categories: ["Travel"]
 tags: ["Nature"]
 excerpt: "Exploring the Dakotas: where centuries of history meet vast open landscapes. A travel narrative about time, place, and understanding the American past."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 3
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 Time is the medium by which life unravels itself. We can understand ourselves better and get to know what right means by looking at the centuries of years behind us. A trip to Dakota sparks that consciousness in us which makes us question why we are what we are. A visit to the Crazy Horse Memorial triggers waves of emotions which are hard to explain. The questions of why, how, continued to plunge us down more and more into repentance, one which could do nothing about.
 
-![](/assets/images/blog/blog-33.webp)
+![](/assets/images/blog/blog-53.webp)
 
 The days were spent equally amazing at the same time, understanding the undying spirit of Crazy Horse, Sleepy Eye, Little Crow, it just showed how we could not adjust with our fellow neighbors and how systems fell apart again and again. The struggle for existence deserves heroic mentions for each and every tribe, to preserve the individuality and trying to ensure a prosperous future for their future generations. Until gradually their population thinned, and they had to be in the run in the cold, hungry and without basic amenities.
 

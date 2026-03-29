@@ -6,14 +6,14 @@ date: 2009-07-22
 categories: ["Industry"]
 tags: ["TCS", "Attrition", "Employee Retention", "Career Decisions"]
 excerpt: "The headcount of India's largest software company shrank despite a gross addition of staff. According to Hindustan Times, in the latest quarter TCS added..."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 Every quarter, TCS discloses its attrition rate alongside its revenue and profit numbers. Investors watch it. Analysts comment on it. HR teams at competing companies study it. What gets less attention is the human story behind the number - the tens of thousands of individual decisions made each year by TCS employees who weighed their options and chose to leave. Understanding why TCS employees leave, what conditions make leaving more or less likely, what TCS does to retain people, and how an individual employee should think about their own stay-or-leave decision is the subject of this guide.
 
-![A career crossroads signpost with directions pointing toward growth, stability, and change - representing the stay-or-leave decision at TCS](/assets/images/blog/blog-23.webp)
+![A career crossroads signpost with directions pointing toward growth, stability, and change - representing the stay-or-leave decision at TCS](/assets/images/blog/blog-43.webp)
 *TCS attrition analysis - understanding why employees leave, what drives retention, and how to make the right career decision for your situation*
 
 TCS attrition is not a simple story. The rate has varied significantly across economic cycles, talent market conditions, and company-specific strategic phases. The reasons employees leave are not uniform - they span compensation, career growth, working conditions, managerial quality, life transitions, and the pull of external opportunities that the talent market periodically makes irresistible. And the implications of TCS attrition differ depending on whether you are an employee considering leaving, a fresher evaluating TCS as a first employer, or a professional considering joining TCS from another company.

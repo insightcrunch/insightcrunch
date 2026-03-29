@@ -6,14 +6,14 @@ date: 2025-12-20
 categories: ["Industry"]
 tags: ["高考", "高考地理", "地理备考", "自然地理", "人文地理", "区域地理", "Gaokao", "Geography", "Humanities Preparation", "Study Guide"]
 excerpt: "最全面的高考地理备考指南，系统覆盖自然地理、人文地理、地图判读与区域地理全考纲，深度解析各题型命题规律与高分答题策略。"
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
 ---
 高考地理是3+1+2模式下选考科目之一，在文理交叉性上独树一帜：它既有自然地理的严密逻辑（气候、地形、水文、土壤的相互作用），也有人文地理的宏观分析（城镇化、工农业区位、交通规划、人口迁移），还有区域综合分析的整体视角。这种文理交融的特性，使地理成为高考选考科目中思维要求最多元、题型最灵活的科目之一。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-24.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-04.webp)
 *高考地理备考完全指南：从气候地形到城镇化，从地图判读到区域综合分析，全面掌握地理高考的核心知识与得分策略*
 
 本文将系统覆盖高考地理的完整知识体系，从自然地理的地球运动规律到大气环流原理，从人文地理的农业工业区位分析到城镇化进程，从区域地理的中国地理特征到世界主要地区分析，逐一深入讲解每个模块的命题规律和答题技巧。

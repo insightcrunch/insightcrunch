@@ -5,14 +5,14 @@ date: 2019-08-03
 categories: ["Industry"]
 tags: ["Oxford", "University", "UK", "Accommodation", "College", "Ranking", "Student Housing", "Rooms"]
 excerpt: "A comprehensive comparison and ranking of accommodation across all Oxford colleges. Covers room quality, rent costs, accommodation guarantees, location, en-suite availability, modern vs historic rooms, scout service, kitchen facilities, and the overall accommodation experience at every college, helping prospective and current students make informed decisions about one of the most important factors in Oxford student life."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 Choosing an Oxford college is one of the most consequential decisions in the application process, and accommodation is among the top factors that should inform that choice. Two students studying the same degree at Oxford can have wildly different living experiences depending on their college: one paying GBP 1,166 per term in a guaranteed room with excellent scout service and subsidized meals, the other paying GBP 2,750 per term with no guarantee of housing beyond the first year. The difference over a three-year degree can amount to thousands of pounds and a fundamentally different daily experience.
 
-![Oxford College Accommodation Ranking - Every College Compared](/assets/images/blog/blog-25.webp)
+![Oxford College Accommodation Ranking - Every College Compared](/assets/images/blog/blog-05.webp)
 Oxford College Accommodation Ranking - Every College Compared
 
 This guide ranks and compares accommodation across Oxford's colleges using the criteria that matter most to students: cost, guarantee of housing across all years, room quality (modern vs historic, en-suite vs shared bathroom), location relative to the city centre and key university facilities, kitchen and self-catering facilities, and the overall accommodation experience as reported by current and past students.

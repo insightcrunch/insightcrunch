@@ -6,7 +6,7 @@ date: 2021-03-15
 categories: ["Industry"]
 tags: ['SAT Reading Comprehension', 'SAT Passage Strategies', 'SAT Reading Tips', 'SAT Main Idea Questions', 'SAT Inference Questions', 'SAT Evidence Questions', 'SAT Reading Speed', 'SAT Passage Types']
 excerpt: "Master SAT reading comprehension with proven strategies for passage reading, main idea identification, evidence analysis, inference questions, and every question type."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 45
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -17,7 +17,7 @@ Reading comprehension is the skill that underlies the entire SAT Reading and Wri
 
 The Digital SAT has fundamentally changed how reading comprehension works compared to earlier versions of the test. Gone are the long 500-to-750-word passages followed by ten or more questions. In their place are short passages of 25 to 150 words, each paired with a single question. This new format demands a different set of strategies: rapid engagement with diverse texts, efficient identification of the key information each question targets, and disciplined elimination of wrong answer choices under time pressure.
 
-![SAT Reading Comprehension Passage Strategies](/assets/images/blog/blog-31.webp)
+![SAT Reading Comprehension Passage Strategies](/assets/images/blog/blog-51.webp)
 
 This guide covers the complete approach to reading comprehension on the Digital SAT. You will learn how to read each passage type efficiently, how to handle every question type the SAT presents, how to eliminate wrong answers systematically, how to pace yourself across each module, and how to build the long-term reading skills that produce the highest scores. Whether you struggle with literary passages, run out of time on every module, or consistently narrow answers to two and pick the wrong one, this guide addresses your specific challenge with concrete, actionable strategies.
 

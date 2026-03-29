@@ -6,7 +6,7 @@ date: 2025-05-23
 categories: ["Industry"]
 tags: ["software engineer resume", "ATS resume", "Naukri profile", "LinkedIn optimization", "resume for freshers", "resume keywords", "tech resume India", "resume writing tips", "job search India", "cover letter"]
 excerpt: "Build a software engineer resume that clears ATS filters. Indian market-specific formatting, keyword strategy, project descriptions, and Naukri profile..."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 52
 author: "Insight Crunch Team"
 last_updated: 2026-03-23
@@ -37,7 +37,7 @@ The Indian technology job market processes millions of applications every month.
 
 Understanding where applications fail is the first step toward building a resume that actually converts into interview calls.
 
-![Software Engineer Resume Guide for India: ATS-Friendly Templates, Project Descriptions, Keywords, LinkedIn Optimization & Cover Letter Strategies for Naukri, LinkedIn & Referrals](/assets/images/blog/blog-14.webp)
+![Software Engineer Resume Guide for India: ATS-Friendly Templates, Project Descriptions, Keywords, LinkedIn Optimization & Cover Letter Strategies for Naukri, LinkedIn & Referrals](/assets/images/blog/blog-54.webp)
 Software Engineer Resume Guide for India — ATS-Friendly Templates, Project Descriptions, Keywords, LinkedIn Optimization and Cover Letter Strategies for Naukri, LinkedIn and Referrals
 
 ### Stage 1: ATS Parsing Failure

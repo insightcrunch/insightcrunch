@@ -6,14 +6,14 @@ date: 2025-05-02
 categories: ["Industry"]
 tags: ["高考", "解析几何", "圆锥曲线", "高考数学", "Gaokao", "Analytic Geometry", "Conic Sections", "Mathematics"]
 excerpt: "高考解析几何完全攻略：椭圆、双曲线、抛物线的核心定义与方程体系，圆锥曲线压轴大题的系统解题策略，参数化方法与坐标几何技巧，以及最常见题型的分类训练指南。"
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 50
 author: "Insight Crunch Team"
 last_updated: 2026-03-25
 ---
 在高考数学试卷中，解析几何（特别是圆锥曲线）是公认的最难模块之一，也是区分高分学生与顶尖学生的关键战场。每年高考数学最后一道大题，通常是圆锥曲线题，以其综合性强、计算量大、思维跨度广而令无数考生望而生畏。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-33.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-13.webp)
 *高考解析几何完全攻略：从圆锥曲线基础方程到压轴大题，从椭圆双曲线抛物线的系统掌握，到最高频考查题型的逐一突破*
 
 然而，"难"并不意味着"不可攻克"。解析几何的考查，有高度稳定的出题规律，历年真题展现出的题型模式，具有极强的可预测性。通过系统的学习、分类训练和解题策略的掌握，圆锥曲线完全可以从"丢分点"转变为"稳定得分区"。
