@@ -5,11 +5,11 @@ page_title: "How to Check Your TCS NQT Score - Step-by-Step Portal Navigation, L
 date: 2019-11-08
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Score Check", "Portal Guide"]
-excerpt: "TCS NQT score check guide: exact steps to view your result, understanding section-wise marks, and what percentile you need for the interview shortlist."
+excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is an essential test for candidates who are looking forward to be a part of TCS. Achieving a..."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 You have taken the TCS NQT. The results window has arrived. Now you need to find your score - not a vague idea of whether you "passed," but the actual section-wise scorecard that tells you exactly where you stand and what it means for your TCS application.
 

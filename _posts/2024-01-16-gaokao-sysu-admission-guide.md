@@ -6,14 +6,14 @@ date: 2024-01-16
 categories: ["Industry"]
 tags: ["高考", "中山大学", "录取分数线", "强基计划", "Sun Yat-sen", "985"]
 excerpt: "最全面的中山大学高考报考指南，涵盖各省录取分数线、医学商科法学顶尖专业解析、广州珠海深圳三校区布局、强基计划申请条件、粤港澳大湾区就业生态，以及针对不同省份考生的差异化志愿填报策略，助你叩开华南第一名校的大门。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 中山大学，简称"中大"，是华南地区综合实力最强、社会影响力最广的顶尖研究型大学，以国父孙中山先生之名命名，是中国最具历史象征意义的高校之一。作为教育部直属、"985工程"和"211工程"重点建设高校，以及"双一流"A类建设高校，中大以其卓越的医学学科、实力雄厚的商学教育、法学领域的南方高地地位，以及独特的广州、珠海、深圳三校区布局，在中国南方高校中占据着无可替代的核心地位。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-05.webp)
 *中山大学高考录取攻略 - 医学商科法学强势专业、广州珠海深圳三校区布局、强基计划与各省志愿填报策略全面解析*
 
 对于广东及华南地区的考生而言，中大几乎是最重要的本省顶尖高校目标；对于来自全国各地、希望在粤港澳大湾区经济圈中起步发展的考生而言，中大提供的校友网络、就业资源和城市生态优势更是无可比拟。本文将系统介绍中山大学的历史地位、核心优势专业、三校区格局、强基计划政策、各省录取分数线参考，以及针对不同类型考生的志愿填报策略，帮助你全面认识中大、做出最理性的报考决策。

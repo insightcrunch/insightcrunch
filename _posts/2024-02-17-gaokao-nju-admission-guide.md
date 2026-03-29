@@ -6,14 +6,14 @@ date: 2024-02-17
 categories: ["Industry"]
 tags: ["高考", "南京大学", "录取分数线", "匡亚明学院", "Nanjing University", "C9 League"]
 excerpt: "最全面的南京大学高考报考指南，涵盖各省录取分数线、匡亚明学院申请攻略、天文学等优势专业、强基计划报名条件，以及针对不同省份考生的志愿填报策略，助你顺利叩开南大校门。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 南京大学，简称"南大"，是中国最古老、最具学术声望的综合性研究型大学之一，位列C9联盟，是教育部直属的全国重点大学，也是"双一流"A类建设高校。作为中国近现代高等教育的重要策源地，南京大学以其深厚的人文底蕴、卓越的理工基础和鲜明的学术风格，在数代中国知识分子心中占据着独特而崇高的地位。对于无数立志求学的高中生而言，南大是梦想的殿堂，也是衡量高考实力的重要标尺。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-77.webp)
 *南京大学高考录取攻略 - 匡亚明学院、天文学院、强基计划与各省志愿填报策略全面解析*
 
 本文将从南京大学的历史传承与学术特色出发，系统介绍其招生政策、各省录取分数线参考、核心优势专业、匡亚明学院荣誉项目、强基计划申请路径，以及针对江苏本地考生和外省考生的差异化志愿填报策略。无论你是高一学生提前规划、高二学生系统备考，还是高三考生临门一脚，这份指南都将帮助你以最清晰的视角理解南大、走进南大。

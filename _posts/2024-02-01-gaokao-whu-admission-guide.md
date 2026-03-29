@@ -6,14 +6,14 @@ date: 2024-02-01
 categories: ["Industry"]
 tags: ["高考", "武汉大学", "录取分数线", "强基计划", "Wuhan University", "985"]
 excerpt: "最全面的武汉大学高考报考指南，涵盖各省录取分数线、法学文学遥感顶尖专业解析、强基计划申请条件、武大与华科横向对比，以及针对湖北本地考生和外省考生的差异化志愿填报策略，助你叩开这所山水名校的校门。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 武汉大学，简称"武大"，是中国最具综合魅力的顶尖研究型大学之一。坐落于湖北省武汉市珞珈山麓、东湖之滨，武汉大学以其壮观的山地校园、民国风格的历史建筑、每年三月漫山盛开的樱花，以及横跨理工文法经管多个领域的雄厚学科实力，在中国乃至全球华人世界中享有极高的知名度与美誉度。武大不仅是"最美大学校园"的长期榜首，更是一所在法学、文学、遥感科学、水利工程、经济学等多个方向具有全国顶尖乃至国际影响力的学术重镇。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-31.webp)
 *武汉大学高考录取攻略 - 法学文学遥感强势专业、强基计划与各省志愿填报策略全面解析*
 
 对于无数每年三月专程赶赴武汉只为一睹樱花盛开的游客而言，武大校园是一个令人窒息的美丽之地；而对于数以万计怀揣理想的高中生而言，武大更是一个值得用四年青春去追逐、去丈量的梦想之所。本文将系统介绍武汉大学的历史地位、核心优势专业、强基计划政策、各省录取分数线参考、武大与华中科技大学的横向比较，以及针对不同类型考生的志愿填报策略，帮助你做出最理性、最适合自己的报考决策。

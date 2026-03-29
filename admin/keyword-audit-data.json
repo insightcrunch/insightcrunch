@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-29T14:57:23Z",
-  "total_posts": 978,
-  "flagged_posts": 37,
+  "generated": "2026-03-29T15:00:23Z",
+  "total_posts": 986,
+  "flagged_posts": 45,
   "clean_posts": 941,
   "posts": [
     {
@@ -115,6 +115,198 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2023-12-23-gaokao-tongji-admission-guide.md",
+      "slug": "gaokao-tongji-admission-guide",
+      "url": "/2023/12/23/gaokao-tongji-admission-guide/",
+      "title": "同济大学高考录取完全攻略 - 分数线、建筑土木城规强势专业、德国渊源与上海就业优势",
+      "page_title": "同济大学高考录取攻略 - 各省分数线、建筑土木城市规划汽车工程优势专业、强基计划、德国合作资源与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2023-12-23",
+      "word_count": 428,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 5
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-12-31-gaokao-buaa-admission-guide.md",
+      "slug": "gaokao-buaa-admission-guide",
+      "url": "/2023/12/31/gaokao-buaa-admission-guide/",
+      "title": "北京航空航天大学高考录取完全攻略 - 分数线、航空航天强势专业、计算机人工智能与报考策略",
+      "page_title": "北航高考录取攻略 - 各省分数线、航空航天计算机人工智能优势专业、强基计划、国防特色与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2023-12-31",
+      "word_count": 415,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-01-08-gaokao-ruc-admission-guide.md",
+      "slug": "gaokao-ruc-admission-guide",
+      "url": "/2024/01/08/gaokao-ruc-admission-guide/",
+      "title": "中国人民大学高考录取完全攻略 - 分数线、法学经济学新闻强势专业与报考策略",
+      "page_title": "中国人民大学高考录取攻略 - 各省分数线、法学经济学新闻公共管理优势专业、强基计划与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2024-01-08",
+      "word_count": 430,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-01-16-gaokao-sysu-admission-guide.md",
+      "slug": "gaokao-sysu-admission-guide",
+      "url": "/2024/01/16/gaokao-sysu-admission-guide/",
+      "title": "中山大学高考录取完全攻略 - 分数线、医学商科强势专业、三校区布局与粤港澳大湾区就业优势",
+      "page_title": "中山大学高考录取攻略 - 各省分数线、医学商科法学优势专业、广州珠海深圳三校区、强基计划与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2024-01-16",
+      "word_count": 421,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-01-24-gaokao-hust-admission-guide.md",
+      "slug": "gaokao-hust-admission-guide",
+      "url": "/2024/01/24/gaokao-hust-admission-guide/",
+      "title": "华中科技大学高考录取完全攻略 - 分数线、工科强势专业、同济医学院与报考策略",
+      "page_title": "华中科技大学高考录取攻略 - 各省分数线、机械电气计算机优势专业、同济医学院、强基计划与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2024-01-24",
+      "word_count": 424,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 6
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-02-01-gaokao-whu-admission-guide.md",
+      "slug": "gaokao-whu-admission-guide",
+      "url": "/2024/02/01/gaokao-whu-admission-guide/",
+      "title": "武汉大学高考录取完全攻略 - 分数线、法学文学遥感强势专业、强基计划与报考策略",
+      "page_title": "武汉大学高考录取攻略 - 各省分数线、法学文学遥感优势专业、强基计划、武大与华科对比及志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2024-02-01",
+      "word_count": 440,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 6
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-02-09-gaokao-ustc-admission-guide.md",
+      "slug": "gaokao-ustc-admission-guide",
+      "url": "/2024/02/09/gaokao-ustc-admission-guide/",
+      "title": "中国科学技术大学高考录取完全攻略 - 分数线、少年班、强基计划与科研精英培养",
+      "page_title": "中科大高考录取攻略 - 各省分数线、少年班申请、物理数学化学强势专业、强基计划与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2024-02-09",
+      "word_count": 542,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 6
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-02-17-gaokao-nju-admission-guide.md",
+      "slug": "gaokao-nju-admission-guide",
+      "url": "/2024/02/17/gaokao-nju-admission-guide/",
+      "title": "南京大学高考录取完全攻略 - 分数线、匡亚明学院、天文强势专业与报考策略",
+      "page_title": "南京大学高考录取攻略 - 各省分数线、匡亚明学院、天文学、强基计划与志愿填报策略全解析",
+      "has_page_title": true,
+      "date": "2024-02-17",
+      "word_count": 671,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2024-10-22-gaokao-tianjin-guide.md",

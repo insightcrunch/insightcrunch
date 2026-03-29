@@ -6,14 +6,14 @@ date: 2023-12-31
 categories: ["Industry"]
 tags: ["高考", "北京航空航天大学", "录取分数线", "北航", "Beihang", "985"]
 excerpt: "最全面的北京航空航天大学高考报考指南，涵盖各省录取分数线、航空航天计算机人工智能顶尖专业解析、强基计划申请条件、国防特色资源与就业优势，以及针对不同省份考生的差异化志愿填报策略，助你叩开这所航天强国梦想摇篮的大门。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-29
 ---
-
 北京航空航天大学，简称"北航"或"Beihang University"，是中国航空、航天、国防科技领域最具权威性和影响力的顶尖研究型大学，也是工业和信息化部直属的"985工程"和"211工程"重点建设高校，"双一流"A类建设高校。北航以其在航空科学与工程、航天科学与工程、计算机科学、软件工程、人工智能、材料科学等领域的全国顶尖实力，以及与中国航空工业、航天工业、国防科技体系的深度战略合作，在中国高等工程教育版图中占据着举足轻重的地位。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)
 *北京航空航天大学高考录取攻略 - 航空航天计算机人工智能强势专业、强基计划与各省志愿填报策略全面解析*
 
 对于有志于航空工程、航天工程、飞行器设计、计算机科学、人工智能、自动化等领域的理工科考生而言，北航提供的是中国乃至全球范围内最顶尖的相关专业教育和就业资源。本文将系统介绍北航的历史地位、核心优势专业、国防特色与资源、强基计划政策、各省录取分数线参考，以及针对不同类型考生的志愿填报策略，帮助你全面认识北航、做出最理性的报考决策。
