@@ -1920,49 +1920,49 @@
     "variant_2": "Need to restrict DRM access by version? How to configure version-level security so each team only sees the data versions they are authorized for."
   },
   "2016-09-26-drm-ebs-integration-find-orphans-in-ebs.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often...",
     "variant_1": "Find orphan records in Oracle EBS after DRM integration. How disconnected segment values appear and the queries that locate them for cleanup.",
     "variant_2": "Orphan values in EBS after DRM sync? How to identify disconnected segment records created during integration and clean them up properly."
   },
   "2016-09-27-load-segment-values-and-hierarchies-drm-ebs-integration.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Data Relationship Management is one of the best in-class master data management tool by Oracle. It is often used along with Oracle E-Business...",
     "variant_1": "Load GL segment values and hierarchies from Oracle DRM to EBS. The integration process, concurrent program setup, and common loading issues.",
     "variant_2": "Syncing DRM hierarchies to EBS GL segments. The load process, concurrent program configuration, and troubleshooting the most common failures."
   },
   "2016-09-29-drm-batch-client-refresh-current-and-previous-day-versions.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle DRM Batch Client is one of the best command-line utility tools that makes this Master Data Management application undoubtedly one of the best.",
     "variant_1": "Automate Oracle DRM version refresh for current and previous day using Batch Client. Command-line setup for daily automated version management.",
     "variant_2": "Daily DRM version refresh automated. How to use Batch Client to create and manage current and previous day versions without manual intervention."
   },
   "2016-10-01-odisqlunload-and-the-possibilities.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Data Integrator is one of the best futuristic data transformation and loading tools with a variety of features for the end-user. ODI as an ELT...",
     "variant_1": "OdiSqlUnload in Oracle Data Integrator: extracting data from databases into flat files. Syntax, parameters, use cases, and performance considerations.",
     "variant_2": "Mastering OdiSqlUnload in ODI. How to extract database data into files efficiently, the parameter options available, and real-world use cases."
   },
   "2016-10-02-evernote-and-how-it-transformed-my-digital-life.md": {
-    "current": 1,
+    "current": 2,
     "original": "As digital data has grown over the years and our dependency on gadgets has risen, there came a need for something more than the concept of simply storing...",
     "variant_1": "How Evernote changed the way I organize digital information. From scattered files to a searchable knowledge base, the app that reshaped my workflow.",
     "variant_2": "Before Evernote, my digital life was chaos. How one note-taking app brought order to scattered files, ideas, and information across every device."
   },
   "2016-10-02-write-a-guest-post-for-insight-crunch.md": {
-    "current": 1,
+    "current": 2,
     "original": "Insight Crunch is the most happening place for discussions and information on the IT sector, the latest technology, and the gadgets that emerge. This site...",
     "variant_1": "Write a guest post for Insight Crunch: guidelines for contributing articles on IT, technology, career advice, and analytics to thousands of daily readers.",
     "variant_2": "Interested in guest posting? Insight Crunch accepts contributions on technology, IT careers, and analytics. Here is how to submit your article."
   },
   "2016-10-03-drm-essbase-integration-to-refresh-outline.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Data Relationship Management application has been consistently the leading master data management utility for businesses over the years. The...",
     "variant_1": "Oracle DRM to Essbase integration: refresh cube outlines from DRM hierarchy data. Configuration, export process, and troubleshooting outline updates.",
     "variant_2": "Keep Essbase outlines in sync with DRM. How to configure the integration that refreshes cube dimensions directly from DRM hierarchy data."
   },
   "2016-10-04-drm-api-adapter-url-not-responding.md": {
-    "current": 1,
+    "current": 2,
     "original": "The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this...",
     "variant_1": "Oracle DRM API Adapter URL not responding: the web service endpoint essential for integrations. Diagnosis, Weblogic configuration, and restart steps.",
     "variant_2": "DRM API Adapter down? The integration endpoint your GL sync depends on. How to check, restart, and fix the URL that connects DRM to other systems."

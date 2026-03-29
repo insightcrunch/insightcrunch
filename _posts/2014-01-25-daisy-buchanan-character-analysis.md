@@ -6,17 +6,16 @@ date: 2014-01-25
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "daisy-buchanan", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Deep analysis of Daisy Buchanan - her carelessness, limited choices, and why most readers get her wrong."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-01-25
+last_updated: 2026-03-29
 ---
-
 Daisy Buchanan is the most misread woman in American literature, and the misreading has been going on for nearly a century. She is routinely condemned as shallow, careless, cowardly, and complicit in Gatsby's destruction, all of which are partially accurate and none of which captures what Fitzgerald actually constructed in her characterization. The condemnation is easy because it feels satisfying: someone has to be responsible for what happened to Gatsby, and Daisy's retreat into her marriage after Myrtle's death makes her the obvious candidate. But the ease of the condemnation should itself be suspicious. A novel as carefully made as The Great Gatsby does not produce simple villains, and Daisy, whatever her failures, is not simply a villain.
 
 <!--more-->
 
-![Daisy Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Daisy Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 Understanding Daisy requires understanding the specific social world she inhabits and the specific constraints that world places on women of her class and period. She is a woman of the early 1920s American upper class, with all the limited options that position entailed: her social existence depends entirely on her marriage, she has no independent economic resources, and her choices are bounded by the expectations of a social world that has trained her since birth to be charming, to deflect rather than confront, to use beauty and wit as the primary instruments of her social survival. The behavior that gets her condemned, the light touch, the deflection, the retreat into money, is also the behavior that her world has taught her, rewarded her for, and made unavoidable by structuring her options so narrowly. For the full context of the world she inhabits, the [complete Great Gatsby analysis](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/) provides the essential foundation, and the [Nick Carraway character analysis](https://insightcrunch.com/2014/01/20/nick-carraway-character-analysis/) examines the perspective through which most readers first encounter her.
 
