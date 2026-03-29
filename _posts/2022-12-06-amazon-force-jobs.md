@@ -4,11 +4,11 @@ title: "Amazon force jobs"
 date: 2022-12-06
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon Force jobs portal: how hourly warehouse workers find shifts, check schedules, manage availability, and access employment resources through AtoZ."
+excerpt: "What is Amazon Force? The workforce management portal for hourly employees to view shifts, manage schedules, and access job resources at Amazon."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 12
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

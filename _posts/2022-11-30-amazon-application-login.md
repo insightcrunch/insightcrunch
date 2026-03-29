@@ -4,11 +4,11 @@ title: "Amazon application login"
 date: 2022-11-30
 categories: ["Industry"]
 tags: []
-excerpt: "Amazon job application login: how to access your candidate profile, track application status, update your resume, and troubleshoot portal issues."
+excerpt: "Can't log into the Amazon application portal? Steps to access your profile, check application status, reset credentials, and fix common login errors."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 14
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

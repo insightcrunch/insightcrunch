@@ -4,11 +4,11 @@ title: "Tableau Data Analyst Certification Questions"
 date: 2022-11-14
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau Data Analyst certification questions: real exam topics, question patterns, tricky areas, and the concepts that candidates struggle with most."
+excerpt: "What questions come on the Tableau Data Analyst exam? Topic coverage, question styles, calculation challenges, and the areas most candidates underestimate."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

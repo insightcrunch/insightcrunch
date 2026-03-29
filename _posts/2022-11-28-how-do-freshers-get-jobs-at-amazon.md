@@ -4,11 +4,11 @@ title: "How do freshers get jobs at Amazon?"
 date: 2022-11-28
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "How freshers land Amazon jobs: campus recruitment, entry-level roles, required skills, and the preparation path from college to an Amazon offer letter."
+excerpt: "College graduate aiming for Amazon? The hiring paths for freshers, what Amazon looks for in campus recruits, and how to prepare while still in college."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 12
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

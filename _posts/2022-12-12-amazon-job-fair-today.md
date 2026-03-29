@@ -4,11 +4,11 @@ title: "Amazon job fair today"
 date: 2022-12-12
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon job fairs: how to find hiring events near you, what to bring, what happens at the event, and how on-the-spot offers work at Amazon recruitment days."
+excerpt: "Attending an Amazon job fair? What to expect, documents to bring, the on-site interview process, and how same-day offers work at Amazon hiring events."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 13
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 

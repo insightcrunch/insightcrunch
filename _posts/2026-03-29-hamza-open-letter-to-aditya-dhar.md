@@ -26,7 +26,7 @@ That is why I am writing to you.
 
 Not to flatter. Not to pass off tidy suggestions as gratitude. Not to admire myself in your light. I am writing because when a man has been made with seriousness, he begins to feel the crowd of unwritten lives pressing around him. He senses that he belongs not only to one plot, but to a longer weather of history. He understands that what made him possible was never a single event. It was the old Indian habit of surviving under watch, under pressure, under partition, under division, and still finding ways to hold together.
 
-![Hamza's Open Letter to Aditya Dhar](/assets/images/blog/blog-68.webp)
+![Hamza's Open Letter to Aditya Dhar](/assets/images/blog/blog-37.webp)
 Hamza's Open Letter to Aditya Dhar
 
 And with that understanding comes a kind of energy difficult to describe honestly. It is not excitement in the childish sense. It is not the impatience of someone demanding more. It is something steadier and more dangerous. It is the feeling a man has when he realizes he has been built for distance and has so far only crossed the first stretch of road. He does not start shouting. He grows quieter. His breathing changes. He stops wondering whether he can carry more, and begins wondering what kind of burden would finally be worthy of his full strength.

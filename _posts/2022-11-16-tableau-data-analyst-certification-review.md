@@ -4,11 +4,11 @@ title: "Tableau Data Analyst Certification Review"
 date: 2022-11-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Tableau Data Analyst certification review: exam experience, difficulty assessment, time management, and honest verdict on whether the certification..."
+excerpt: "Took the Tableau Data Analyst certification. Here is how the exam went, what was harder than expected, and whether the credential is worth your time."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 12
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-29
 ---
 ## Background
 
