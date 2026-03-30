@@ -6,17 +6,16 @@ date: 2026-04-04
 categories: ["Leisure"]
 tags: ["dhurandhar", "major-iqbal", "arjun-rampal", "character-analysis", "bollywood", "villain-analysis"]
 excerpt: "Complete analysis of Major Iqbal - Arjun Rampal's chilling antagonist whose menace grows across both films."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-04-04
+last_updated: 2026-03-30
 ---
-
 If [Rehman Dakait](https://insightcrunch.com/2026/03/29/rehman-dakait-character-analysis-dhurandhar/) is the fire of the Dhurandhar franchise, charismatic, volatile, terrifyingly immediate, then Major Iqbal is the ice. He does not burn; he freezes. He does not erupt; he constricts. Arjun Rampal's portrayal of the military-intelligence operative who becomes the franchise's most persistent and ultimately most dangerous antagonist is built on a foundation of controlled stillness so complete that it becomes its own form of menace, a performance in which the absence of visible emotion is itself the threat. Where Rehman commanded scenes through the sheer force of his personality, Major Iqbal commands them through the implication of institutional power so vast and so impersonal that no individual, however resourceful, can ultimately outmaneuver it. He is the antagonist who does not need to raise his voice, draw a weapon, or make a threat, because the machinery he represents makes threats unnecessary. The system will find you. The system will process you. And the system does not care whether you are charming, brave, or sympathetic. It only cares whether you are a variable that disrupts its calculations, and if you are, it will remove you with the same efficiency it brings to every other operational objective.
 
 <!--more-->
 
-![Major Iqbal Character Analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Major Iqbal Character Analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 What makes Major Iqbal the franchise's true threat, and what distinguishes him from the more immediately visible dangers that [Hamza Ali Mazari](https://insightcrunch.com/2026/03/25/hamza-ali-mazari-character-analysis-dhurandhar/) faces in the streets of Lyari, is the nature of the power he wields. Rehman Dakait's power was personal: it extended as far as his reputation, his physical reach, and his network of loyal subordinates. When Rehman died, his power died with him, creating a vacuum that destabilized the entire ecosystem he had built. Major Iqbal's power is institutional: it derives not from his personal qualities, considerable though those are, but from his position within a military-intelligence apparatus whose resources, reach, and capacity for sustained action dwarf anything that a single individual or criminal organization can muster. Iqbal can be patient because his institution is patient. He can be methodical because his institution rewards methodology. He can sustain an investigation across years because his institution measures success in strategic outcomes rather than immediate results. This institutional dimension is what makes him the franchise's most formidable antagonist and what gives the [second installment](https://insightcrunch.com/2026/03/22/complete-analysis-dhurandhar-the-revenge/) its distinctive quality of escalating, inescapable threat.
 
