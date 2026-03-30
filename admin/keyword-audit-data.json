@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T15:24:22Z",
-  "total_posts": 1015,
-  "flagged_posts": 51,
-  "clean_posts": 964,
+  "generated": "2026-03-30T15:28:10Z",
+  "total_posts": 1018,
+  "flagged_posts": 52,
+  "clean_posts": 966,
   "posts": [
     {
       "filename": "2024-03-04-gaokao-sjtu-admission-guide.md",
@@ -115,6 +115,30 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2023-10-28-gaokao-csu-admission-guide.md",
+      "slug": "gaokao-csu-admission-guide",
+      "url": "/2023/10/28/gaokao-csu-admission-guide/",
+      "title": "中南大学高考录取完全指南 - 冶金材料强校与湘雅医学的传承",
+      "page_title": "中南大学高考录取指南 - 冶金矿业传统、湘雅医学院实力、材料科学优势、长沙生活魅力、各省分数线与报考策略全面解析",
+      "has_page_title": true,
+      "date": "2023-10-28",
+      "word_count": 455,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 37
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2023-11-05-gaokao-scu-admission-guide.md",

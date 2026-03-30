@@ -8,9 +8,8 @@ excerpt: "Deep literary analysis of Barty Crouch Jr in Harry Potter - fanaticism
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-11-24
+last_updated: 2026-03-30
 ---
-
 ## Introduction: The Son Who Became a Monster
 
 There is a scene near the end of *Harry Potter and the Goblet of Fire* that ranks among the most psychologically harrowing in the entire series. A man who has spent ten months impersonating someone else - inhabiting another person's body, wearing another person's face, living another person's life with a precision so perfect that no one, not even Albus Dumbledore, detected the substitution - sits in a chair in Dumbledore's office and confesses everything. He speaks with a calm, almost ecstatic lucidity. His tongue flicks at the corners of his mouth in a tic that no one noticed when he wore a different face. His eyes are bright with a devotion so total that it looks, from the outside, very much like madness. He is Barty Crouch Junior, and he is the most terrifying minor character J.K. Rowling ever created.

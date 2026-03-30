@@ -6,14 +6,14 @@ date: 2023-10-28
 categories: ["Industry"]
 tags: ["高考", "中南大学", "录取分数线", "湘雅医学", "Central South University", "985", "冶金", "材料科学", "高考志愿填报", "长沙"]
 excerpt: "最全面的中南大学高考报考指南,深入解析中南大学冶金矿业传统、湘雅医学院的百年声誉、材料科学全国领先地位、长沙城市魅力、各省录取分数线,助你科学规划高考志愿,圆梦湖南顶级工科医科名校。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 50
 author: "Insight Crunch Team"
+last_updated: 2026-03-30
 ---
-
 在中国高等教育的版图中,中南大学是一所底蕴深厚而又独具特色的985重点大学。它拥有中国冶金和有色金属领域无可争议的学术霸主地位,拥有"北协和、南湘雅"之美誉的湘雅医学院,还有在铁道交通、材料科学等领域的突出实力。作为湖南省排名第一的高校,中南大学以其鲜明的学科特色、扎实的工程教育传统和不断攀升的综合实力,吸引着越来越多来自全国各地的优秀考生。本篇指南将从学校历史底蕴、学科优势、湘雅医学特色、录取分数线、报考策略、长沙生活体验、就业前景等多个维度,为你呈现一份关于中南大学高考报考的全景式深度解析。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)
 *中南大学高考报考深度指南 - 冶金材料强校与湘雅医学的百年荣光*
 
 ## 中南大学概况与历史传承
