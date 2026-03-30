@@ -4,11 +4,11 @@ title: "Life in an alternate universe"
 date: 2023-08-10
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2023", "Thoughts"]
-excerpt: "What would your life look like in an alternate universe? A creative reflection on different choices, paths not taken, and the parallel lives we imagine."
+excerpt: "Imagine a life shaped by completely different choices. A thoughtful exploration of alternate paths, missed chances, and the versions of us that could..."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 3
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-30
 ---
 In an alternate universe, the contours of my life have been molded by divergent choices, unforeseen events, and the intricate interplay of chance. Stepping into this alternate reality unveils a tapestry of experiences and a version of myself that I might never have imagined.
 

@@ -4,11 +4,11 @@ title: "Gastronomic Grandeur: Exploring High-Cost Dining Experiences in Chicago"
 date: 2023-08-09
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2022", "Surfing"]
-excerpt: "Chicago's most expensive restaurants: Michelin-starred dining, tasting menus, and the high-end culinary experiences that define the city's food scene."
+excerpt: "Splurge-worthy dining in Chicago. The Michelin-starred restaurants, tasting menus, and luxury dining experiences that food lovers travel for."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 4
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-30
 ---
 ## Introduction
 
