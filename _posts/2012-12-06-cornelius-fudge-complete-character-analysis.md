@@ -5,17 +5,16 @@ date: 2012-12-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cornelius Fudge", "Ministry of Magic", "Political Failure"]
 excerpt: "Deep literary analysis of Cornelius Fudge across Harry Potter - denial, political failure, and institutional cowardice."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2012-12-06
+last_updated: 2026-03-31
 ---
-
 ## Introduction: The Man Who Broke the World by Doing Nothing
 
 Cornelius Fudge breaks the wizarding world not by doing the wrong thing but by doing nothing at all. His crime is not malice. It is comfort. He is the Minister of Magic who receives the most consequential intelligence of his career - that Lord Voldemort, the darkest wizard in living memory, has returned from the dead - and his response is to declare the messenger insane, weaponize the press against a fifteen-year-old boy, install a sadist at Hogwarts, and spend an entire year pretending that the thing that is happening is not happening. Hundreds of people will die because Cornelius Fudge could not bear to accept a truth that would require him to act.
 
-![Cornelius Fudge character analysis in Harry Potter series](/assets/images/blog/blog-03.webp)
+![Cornelius Fudge character analysis in Harry Potter series](/assets/images/blog/blog-28.webp)
 
 This is not villainy. Villainy requires intent, and Fudge's catastrophic failure is distinguished precisely by its absence of intent. He does not want people to die. He does not ally himself with Voldemort. He does not believe in pureblood supremacy. He is, by every available measure, a decent man - affable, well-meaning, genuinely fond of Harry Potter when they first meet. And this decency is what makes him the most devastating political portrait in the entire series, because Rowling uses Fudge to argue something far more uncomfortable than the existence of evil: that mediocrity in high office, combined with the ordinary human inability to face a terrifying truth, can produce consequences identical to evil. The body count does not distinguish between a government controlled by a dark wizard and a government controlled by a man too frightened to admit the dark wizard exists.
 

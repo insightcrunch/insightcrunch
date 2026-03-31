@@ -5,19 +5,18 @@ date: 2013-01-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dean Thomas", "Gryffindor", "Muggle-Born"]
 excerpt: "Dean Thomas in Harry Potter: the character Rowling nearly made the hero, whose background mirrors Harry's and whose story the series never fully tells."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2013-01-02
+last_updated: 2026-03-31
 ---
-
 ## Introduction: The Story That Almost Was
 
 Dean Thomas is the character Harry Potter nearly was not. Before Rowling settled on the boy who lived, before the lightning bolt scar and the cupboard under the stairs, there was a version of this story in which the protagonist was a Black boy who did not know he was a wizard - whose father, a pure-blood wizard who had refused to join Voldemort and been killed by Death Eaters for it, had left his family unaware of the magical world they came from. The boy grew up with a Muggle mother and stepfather, with no knowledge of his heritage, and arrived at Hogwarts as one of the most improbable students the school had ever received. That boy's name, in an early draft, was Dean Thomas. Then Rowling changed her mind, redistributed the backstory, and gave us Harry Potter instead.
 
 What remained, tucked into Gryffindor's dormitory and the background of seven books, was Dean Thomas: a Muggle-raised boy with a father killed by Death Eaters and a magical heritage he discovered later than most, who spent the series as a background character in someone else's story. He has a best friend, a talent for art, a romance with Ginny Weasley that the narrative handles with characteristic brevity, and a seventh-year experience as a fugitive that makes him one of the most directly victimized characters in the series. He fights at the Battle of Hogwarts. He survives. He is not the protagonist.
 
-![Dean Thomas character analysis in Harry Potter](/assets/images/blog/blog-03.webp)
+![Dean Thomas character analysis in Harry Potter](/assets/images/blog/blog-80.webp)
 
 The gap between who Dean was almost destined to be and who he ended up being in the text is the most productive lens through which to read his character. He is present throughout the series in the way that deuteragonists in Greek drama are present - essential to the social texture of the story, contributing to its moral landscape in specific and unrepeatable ways, while remaining peripheral to the central action that the protagonist drives. His presence makes the world of Hogwarts feel real in ways it could not without him. His absence from the center of that world is a narrative choice that has consequences for how the series handles questions of race, representation, and whose stories get told.
 
