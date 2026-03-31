@@ -5,11 +5,11 @@ page_title: "Infosys Power Programmer vs Digital Specialist Engineer vs Systems 
 date: 2024-05-07
 categories: ["Industry"]
 tags: ["Infosys Power Programmer", "Infosys DSE", "Digital Specialist Engineer", "Infosys SP", "Infosys Specialist Programmer", "Infosys Salary", "Infosys Careers", "HackWithInfy"]
-excerpt: "Power Programmer or Digital Specialist Engineer at Infosys? Side-by-side comparison of roles, CTC, interview process, projects, and long-term career..."
+excerpt: "Complete guide to Infosys Power Programmer and Digital Specialist Engineer roles covering eligibility, salary, projects, and career path differences."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 Most engineering students who think about Infosys think about the Systems Engineer role - the large-volume, standard-track fresher hire that absorbs tens of thousands of graduates every cycle. What far fewer students know is that Infosys runs two additional fresher hiring tracks that recruit at a significantly higher bar, pay substantially more from day one, and place candidates in a fundamentally different kind of work environment. These tracks are the Digital Specialist Engineer and the Power Programmer, and they represent the upper tier of Infosys's fresher talent strategy.
 
