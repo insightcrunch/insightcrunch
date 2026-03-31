@@ -6,17 +6,16 @@ date: 2014-05-10
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "piggy", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Deep analysis of Piggy - his intelligence, marginalization, death, and what Golding says about intellect vs force."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-05-10
+last_updated: 2026-03-31
 ---
-
 Piggy is the most important character William Golding ever created, and almost nobody treats him that way. He is routinely filed under "the smart one," assigned the role of reason's spokesperson, and then forgotten once his glasses are smashed and his death has been noted in an essay. This is precisely the fate Golding designed for him, and precisely the mistake Golding wants readers to catch themselves making. The argument of Lord of the Flies is not that civilization is fragile. The argument is that civilization has always depended on people like Piggy, and has always, without exception, treated people like Piggy exactly as the boys on the island treat him: with contempt, with impatience, with the casual cruelty of those who hold the conch and the spears and the social confidence that Piggy will never possess. Piggy is not a symbol of reason. He is a demonstration of what happens to reason when it lacks the one thing it can never manufacture for itself: the authority to be heard.
 
 <!--more-->
 
-![Piggy Character Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Piggy Character Analysis - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 The interpretive failure around Piggy is itself a literary event worth examining. Readers sympathize with him, feel his death as a loss, and then continue conducting their intellectual lives in precisely the manner that the boys on the island do: deferring to those with social charisma, dismissing the awkward and the physically unremarkable, rewarding confidence over accuracy. Golding was not writing a fable about what happens to civilization when the rules break down. He was writing a novel about a civilization that never seriously intended to follow its own rules to begin with, because following the rules would require listening to Piggy, and nobody was prepared to do that. For a complete mapping of how this dynamic plays out across the novel's full structure, the [comprehensive analysis of Lord of the Flies](https://insightcrunch.com/2014/04/25/complete-analysis-lord-of-the-flies/) provides the essential context in which Piggy's character achieves its full meaning.
 

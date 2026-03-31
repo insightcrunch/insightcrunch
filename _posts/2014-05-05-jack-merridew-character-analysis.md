@@ -6,17 +6,16 @@ date: 2014-05-05
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "jack-merridew", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Complete analysis of Jack in Lord of the Flies - his transformation from choirboy to savage dictator."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-05-05
+last_updated: 2026-03-31
 ---
-
 Jack Merridew is the most unsettling character in Lord of the Flies, and the reason he is so unsettling has nothing to do with what he becomes. It has to do with where he started. This is a boy who arrives on the island already commanding a group of younger boys in military formation, already comfortable with authority, already impatient with anyone who challenges his right to lead. He marches his choir across the beach in their black cloaks and caps in the tropical heat, barking orders while they stumble and faint, and Golding presents this scene not as an aberration but as the natural behavior of a boy who has been given a small amount of institutional power and has learned to enjoy wielding it. The savagery that Jack displays at the novel's climax is not something the island creates in him. It is something the island reveals, something that was always present beneath the cloak and the rules and the carefully maintained fiction that authority exists to serve the community rather than the person who holds it. Golding's argument is not that Jack falls from civilization into savagery. It is that Jack stops pretending, and the pretending was the only thing civilization ever was.
 
 <!--more-->
 
-![Jack Merridew Character Analysis in Lord of the Flies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jack Merridew Character Analysis in Lord of the Flies - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 This reading of Jack challenges the comfortable interpretation that positions him as the novel's villain, the bad boy who ruins everything for the good boys who just wanted to follow the rules and get rescued. That interpretation is not wrong, exactly, but it is dangerously incomplete because it lets the reader off the hook. If Jack is simply evil, if his savagery is a personal moral failure rather than a universal human potential, then the novel is merely a cautionary tale about bad leadership, and the reader can close the book feeling comfortably superior to the boy who painted his face and hunted pigs. Golding wrote Lord of the Flies specifically to prevent that comfortable reading. Jack is terrifying not because he is different from us but because he is not, because the impulses he acts on are the impulses we suppress, and because the question the novel poses is not whether Jack is evil but whether the civilization that suppressed those impulses was ever more than a temporary arrangement, a set of rules that worked only as long as everyone agreed to follow them, which is to say only as long as nobody discovered that not following them was more satisfying. To understand Jack fully is to understand what [the complete analysis of Lord of the Flies](https://insightcrunch.com/2014/04/25/complete-analysis-lord-of-the-flies/) reveals about Golding's darkest and most uncomfortable argument: that the savagery is the default, and civilization is the deviation.
 
