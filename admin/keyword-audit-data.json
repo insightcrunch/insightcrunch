@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-31T22:23:37Z",
-  "total_posts": 1064,
-  "flagged_posts": 62,
+  "generated": "2026-03-31T22:29:02Z",
+  "total_posts": 1074,
+  "flagged_posts": 72,
   "clean_posts": 1002,
   "posts": [
     {
@@ -115,6 +115,246 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2023-05-21-gaokao-strong-foundation-plan.md",
+      "slug": "gaokao-strong-foundation-plan",
+      "url": "/2023/05/21/gaokao-strong-foundation-plan/",
+      "title": "强基计划完全攻略 - 从报名到录取的全程指南",
+      "page_title": "强基计划完全指南 - 36所高校、入围专业、申请流程、校测面试备考与战略决策全面解析",
+      "has_page_title": true,
+      "date": "2023-05-21",
+      "word_count": 272,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-05-29-gaokao-overseas-application.md",
+      "slug": "gaokao-overseas-application",
+      "url": "/2023/05/29/gaokao-overseas-application/",
+      "title": "用高考成绩申请海外大学完全指南 - 哪些国家认可高考、如何申请",
+      "page_title": "高考成绩申请海外大学完全指南 - 澳洲英国加拿大认可政策、申请流程、分数要求与留学策略全面解析",
+      "has_page_title": true,
+      "date": "2023-05-29",
+      "word_count": 324,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-06-06-gaokao-vocational-education.md",
+      "slug": "gaokao-vocational-education",
+      "url": "/2023/06/06/gaokao-vocational-education/",
+      "title": "高考后职业教育路径完全指南 - 高职高专到职业本科的完整升学地图",
+      "page_title": "高考后职业教育完全指南 - 高职高专选择、职业本科、专升本路径、就业前景与行业薪资全面解析",
+      "has_page_title": true,
+      "date": "2023-06-06",
+      "word_count": 297,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 5
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-06-14-gaokao-bonus-points-policy.md",
+      "slug": "gaokao-bonus-points-policy",
+      "url": "/2023/06/14/gaokao-bonus-points-policy/",
+      "title": "高考加分政策完全指南 - 谁能加分、加多少分、如何申请",
+      "page_title": "高考加分政策完全解析 - 少数民族加分、烈士子女优惠、军人家庭政策、归侨华人加分与政策改革趋势",
+      "has_page_title": true,
+      "date": "2023-06-14",
+      "word_count": 276,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-06-22-gaokao-hukou-cross-province.md",
+      "slug": "gaokao-hukou-cross-province",
+      "url": "/2023/06/22/gaokao-hukou-cross-province/",
+      "title": "高考户籍与异地高考政策完全指南 - 随迁子女如何突破户籍壁垒",
+      "page_title": "高考户籍与异地高考完全指南 - 户籍要求详解、随迁子女权利、各省政策差异与户籍问题应对策略",
+      "has_page_title": true,
+      "date": "2023-06-22",
+      "word_count": 269,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-06-30-gaokao-family-finance.md",
+      "slug": "gaokao-family-finance",
+      "url": "/2023/06/30/gaokao-family-finance/",
+      "title": "高考与家庭经济规划完全指南 - 让每个家庭都能承担大学教育",
+      "page_title": "高考家庭经济完全指南 - 大学学费、国家奖学金、助学金、助学贷款与勤工助学全面解析",
+      "has_page_title": true,
+      "date": "2023-06-30",
+      "word_count": 309,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-07-08-gaokao-post-exam-summer.md",
+      "slug": "gaokao-post-exam-summer",
+      "url": "/2023/07/08/gaokao-post-exam-summer/",
+      "title": "高考后暑假完全规划 - 把三个月自由时光过成人生转折点",
+      "page_title": "高考后暑假完全指南 - 旅行计划、学车驾照、新技能学习、兼职打工与大学入学准备全面解析",
+      "has_page_title": true,
+      "date": "2023-07-08",
+      "word_count": 289,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 6
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-07-16-gaokao-parent-accompaniment.md",
+      "slug": "gaokao-parent-accompaniment",
+      "url": "/2023/07/16/gaokao-parent-accompaniment/",
+      "title": "高考家长陪考完全指南 - 做孩子背后最有力的支撑",
+      "page_title": "高考家长陪考完全指南 - 后勤保障、情感支持、该说与不该说的话、心态调整与考场等待全攻略",
+      "has_page_title": true,
+      "date": "2023-07-16",
+      "word_count": 282,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 11
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-07-24-gaokao-sleep-schedule.md",
+      "slug": "gaokao-sleep-schedule",
+      "url": "/2023/07/24/gaokao-sleep-schedule/",
+      "title": "高考作息与睡眠优化完全指南 - 调好生物钟赢在考场",
+      "page_title": "高考睡眠与作息完全指南 - 最优睡眠时长、生物钟调整、失眠解决方案与考前作息规划",
+      "has_page_title": true,
+      "date": "2023-07-24",
+      "word_count": 287,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-08-01-gaokao-nutrition-diet-guide.md",
+      "slug": "gaokao-nutrition-diet-guide",
+      "url": "/2023/08/01/gaokao-nutrition-diet-guide/",
+      "title": "高考饮食营养完全指南 - 用科学饮食为大脑提供最强支撑",
+      "page_title": "高考饮食营养完全指南 - 补脑食物、考试周食谱、考前早餐方案与饮食禁忌全面解析",
+      "has_page_title": true,
+      "date": "2023-08-01",
+      "word_count": 291,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 5
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2023-08-09-gaokao-chinese-language-application.md",

@@ -6,14 +6,14 @@ date: 2023-06-30
 categories: ["Industry"]
 tags: ["高考", "大学学费", "助学金", "奖学金", "Gaokao Finance", "University Costs"]
 excerpt: "全面解析高考后的大学经济规划，系统掌握各层次大学学费标准、国家奖学金申请、助学金申领、助学贷款办理与勤工助学渠道，让经济因素不成为任何家庭大学梦的障碍。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-31
 ---
-
 在中国，每年有超过一千万名考生参加高考，其中来自农村地区、低收入家庭和经济困难群体的学生占据相当比例。对于这些家庭而言，高考的成功只是第一关，如何支付大学四年的学费和生活费，才是紧随其后的现实挑战。大学教育的成本因学校层次、专业类别、所在城市的差异而相差悬殊，如果不提前做好财务规划，很多家庭可能在孩子收到录取通知书时才意识到：学费从哪里来？每个月的生活费如何维系？对于经济条件宽裕的家庭，这些问题也许不是困扰；但对于相当数量的中国家庭来说，大学的经济压力是需要认真规划和应对的现实课题。好消息是，中国政府和各高校建立了相当完善的资助体系，国家奖学金、国家助学金、国家助学贷款、勤工助学等多种渠道并行，确保"不让一个学生因为家庭经济困难而辍学"。本文将系统梳理大学四年的核心经济要素，从学费结构到各类资助渠道，从志愿填报中的经济考量到大学期间的个人理财，帮助每一个家庭做好充分的经济规划。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-06.webp)
 *高考家庭经济规划完全指南 - 让经济因素不成为任何家庭大学梦的障碍*
 
 ---

@@ -6,14 +6,14 @@ date: 2023-08-01
 categories: ["Industry"]
 tags: ["高考", "高考饮食", "考试营养", "补脑食物", "Gaokao Nutrition", "Diet Guide"]
 excerpt: "用科学饮食为高考大脑提供最强支撑，系统掌握补脑食物选择、考试周营养规划、考前早餐最优方案与高考期间饮食禁忌，让营养成为高考胜利的无声助力。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-31
 ---
-
 高考备战中，绝大多数同学和家长把注意力集中在复习策略、模拟考试和心理状态上，却往往忽视了一个同等重要却容易被低估的维度：饮食营养。大脑是高考表现的核心器官，而大脑的运作效率，在极大程度上取决于它所获得的营养供给。记忆力、注意力、反应速度、情绪稳定性，这些决定高考发挥的关键能力，都与日常饮食密切相关。遗憾的是，关于高考饮食，流传着大量似是而非的说法：有人说考前要大补，有人说特定食物能立竿见影地提升智力，有人为了所谓的"营养"让孩子天天吃山珍海味，结果反而吃坏了肠胃，在最关键的考试时刻出现了消化问题。本文将从营养学和神经科学的基础出发，系统梳理高考期间的科学饮食方案，帮助你用最简单、最安全、最有效的饮食策略，为高考大脑提供稳定而充足的能量支撑。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-10.webp)
 *高考饮食营养科学指南 - 让正确的饮食成为高考发挥的无声助力*
 
 ---
