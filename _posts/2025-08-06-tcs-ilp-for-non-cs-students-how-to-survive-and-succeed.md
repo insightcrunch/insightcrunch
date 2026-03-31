@@ -5,11 +5,11 @@ page_title: "TCS ILP for Non-CS Students - How to Survive and Succeed Without a 
 date: 2025-08-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Non-CS", "Mechanical Engineering", "ECE", "EEE", "Civil Engineering", "TCS Freshers", "Career Switch", "ILP Preparation", "Fresher"]
-excerpt: "Non-CS student joining TCS ILP? Survival strategies for clearing diagnostics, learning Java or Python from scratch, and avoiding the LAP trap."
+excerpt: "Every year, thousands of engineering graduates from mechanical, electrical, civil, electronics, aerospace, and dozens of other non-CS branches receive TCS..."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 30
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 Every year, thousands of engineering graduates from mechanical, electrical, civil, electronics, aerospace, and dozens of other non-CS branches receive TCS offer letters and find themselves heading into an Initial Learning Program built entirely around software development. The question that haunts every single one of them is the same: how does someone who spent four years studying thermodynamics, circuit theory, or structural analysis survive a training program centered on Java, Python, SQL, and web development?
 

@@ -6,17 +6,16 @@ date: 2026-05-24
 categories: ["Leisure"]
 tags: ["dhurandhar", "supporting-characters", "character-analysis", "rakesh-bedi", "bollywood", "ensemble-cast"]
 excerpt: "Deep analysis of Dhurandhar's supporting cast - Jameel Jamali, Uzair Baloch, and the ensemble's impact."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-05-24
+last_updated: 2026-03-31
 ---
-
 The supporting cast of a spy thriller is usually furniture. People who hold doors open so the hero can walk through them, deliver exposition in brief scenes that establish the operational context, and get killed or turned at dramatically convenient moments to advance the plot. The furniture of most Bollywood spy films is indistinguishable: a loyal aide, a corrupt official, a menacing rival, an innocent bystander who pays for proximity to the mission. These are not characters. They are functions wearing human faces. The Dhurandhar franchise's supporting cast is the clearest evidence that the franchise was made by someone who understood that a spy thriller's emotional and psychological credibility depends entirely on the world the spy must navigate, and that world is only as real as the people who inhabit it.
 
 <!--more-->
 
-![Supporting Characters in Dhurandhar Analyzed - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Supporting Characters in Dhurandhar Analyzed - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 This article argues that the franchise's supporting characters constitute a single integrated dramatic ecosystem rather than a collection of individual roles, and that the ecosystem is organized around three distinct functions. The World-Builders, primarily Jameel Jamali, Mohammad Aalam, and Ulfat, give the Lyari world its human texture: they are the characters whose presence makes the neighborhood feel like a community rather than a set. The Complications, primarily Uzair Baloch and General Shamshad Khan, give the franchise its structural tension: they are the characters whose competing interests create the operational pressures that test Hamza's cover and drive both films' narrative escalations. The Institutional Voices, primarily Sushant Bansal, Devavrat Kapoor, and Shazia Bano, give the franchise its political and emotional architecture: they are the characters who represent the institutions whose decisions shape Hamza's fate from a distance, and whose specific relationship to those institutions illuminates the franchise's larger argument about what covert service requires of individuals and of the state.
 

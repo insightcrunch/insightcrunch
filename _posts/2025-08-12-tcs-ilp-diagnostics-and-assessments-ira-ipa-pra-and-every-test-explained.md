@@ -5,11 +5,11 @@ page_title: "TCS ILP Diagnostics and Assessments - IRA, IPA, PRA, and Every Test
 date: 2025-08-12
 categories: ["Industry"]
 tags: ["TCS", "ILP", "IRA", "IPA", "PRA", "Diagnostics", "TCS Assessments", "ILP Exams", "TCS Training", "Xplore", "AsCEnD", "Fresher"]
-excerpt: "Every TCS ILP test explained with real question patterns. IRA1 vs IRA2 difficulty, IPA format, PRA expectations, and the scoring rubric nobody shares."
+excerpt: "The assessment system inside TCS ILP is more layered than most candidates expect. It is not a single final exam. It is a continuous evaluation framework..."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 30
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 The assessment system inside TCS ILP is more layered than most candidates expect. It is not a single final exam. It is a continuous evaluation framework that begins before you even receive your joining letter and runs through the entire ILP duration, testing you at every stage. Understanding how each assessment works, what it tests, how it is scored, what the consequences of failure are, and how to prepare for each one gives you a decisive advantage over candidates who walk in unprepared.
 

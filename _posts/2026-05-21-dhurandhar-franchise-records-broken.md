@@ -6,17 +6,16 @@ date: 2026-05-21
 categories: ["Leisure"]
 tags: ["dhurandhar", "box-office-records", "bollywood", "franchise", "ranveer-singh", "indian-cinema"]
 excerpt: "Every box office record the Dhurandhar franchise has shattered - milestones, firsts, and historic achievements."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-05-21
+last_updated: 2026-03-31
 ---
-
 The records are the least interesting thing about the Dhurandhar franchise's box office performance. That sentence requires defending, because the records are extraordinary: the fastest Hindi film to cross 500 crore, the biggest opening day in Hindi cinema history, the first franchise to produce two 1000-crore Hindi films, a worldwide gross that finally gave Bollywood a credible answer to the South Indian blockbusters that had been redefining Indian cinema's commercial ceiling for five years. These are facts worth knowing and worth putting in context. But the records are symptoms. The rupture is the diagnosis.
 
 <!--more-->
 
-![Every Record Dhurandhar Franchise Broke - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Every Record Dhurandhar Franchise Broke - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 What the franchise broke was not just a collection of numerical benchmarks that happen to be logged in trade publications. It broke the commercial model that Bollywood had been operating on for decades, the implicit agreement between filmmakers and distributors and exhibitors about what kind of Hindi film could generate what kind of returns. That model said: if you want to open big, you make a crowd-pleaser. You cast a major star. You include songs the audience can hum on the way out. You keep the runtime under two and a half hours. You avoid anything that might restrict your certificate to adults only. You do not make a dialogue-heavy psychological spy thriller running nearly three and a half hours with an A certificate, set largely in a Pakistani criminal underworld, with a protagonist who never fully wins anything cleanly. The franchise made exactly that film, twice, and both times it outgrossed almost every crowd-pleasing masala entertainer Bollywood had ever produced.
 
