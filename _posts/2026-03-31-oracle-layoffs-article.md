@@ -2,7 +2,7 @@
 layout: post
 title: "Oracle Layoffs 2026 Explained in Full Detail"
 page_title: "Oracle Layoffs March 2026: 30,000 Jobs Cut, AI Data Center Spending, and What It Means for Tech Workers Worldwide"
-date: 2024-06-18
+date: 2026-03-31
 categories: ["Industry"]
 tags: ["oracle layoffs", "tech layoffs 2026", "oracle job cuts", "ai data center", "oracle cloud infrastructure", "stargate project", "larry ellison", "openai oracle", "tech industry layoffs", "oracle restructuring"]
 excerpt: "Oracle laid off up to 30,000 workers on March 31, 2026 to fund its AI data center expansion. Here is everything you need to know."
