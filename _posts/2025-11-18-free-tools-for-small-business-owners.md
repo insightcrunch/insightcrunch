@@ -4,11 +4,11 @@ title: "Free Tools for Small Business Owners"
 date: 2025-11-18
 categories: ["Technology"]
 tags: ["Small Business", "Free Tools", "Business Tools", "Productivity", "Online Tools"]
-excerpt: "Running a small business on a budget? Free browser-based tools for invoices, legal documents, marketing graphics, spreadsheets, and customer management."
+excerpt: "Running a small business means doing everything yourself, from contracts and invoices to marketing graphics and data analysis. These free browser-based..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 32
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 Running a small business is an exercise in relentless resourcefulness. You are the CEO, the accountant, the marketing department, the IT team, and the office manager, often within the same hour. Every dollar matters. Every minute matters. And every tool you use either earns its place in your workflow or wastes both.
 
