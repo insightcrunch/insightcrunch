@@ -9,7 +9,7 @@ excerpt: "深度比较高考与IIT-JEE的数学难度、科目覆盖、考生竞
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 高考与IIT-JEE（印度理工学院联合入学考试），分别是中国和印度最重要、最具竞争性的大学入学考试，也是全球教育比较研究中最受关注的两种理工科入学测试之一。两者都以极高的竞争强度和对数学物理的深度考查著称，都深刻影响着各自国家数千万年轻人的命运走向，也都代表着各自文化对精英教育资源分配方式的独特理解。
 
