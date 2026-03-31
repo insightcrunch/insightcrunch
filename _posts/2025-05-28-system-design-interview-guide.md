@@ -5,11 +5,11 @@ page_title: "Complete System Design Interview Guide: Step-by-Step Approach, Real
 date: 2025-05-28
 categories: ["Industry"]
 tags: ["system design interview", "system design preparation", "scalability", "distributed systems", "SDE-2 interview", "senior engineer interview", "high level design", "low level design", "database design", "microservices"]
-excerpt: "How to crack system design interviews. Structured approach with real problems like URL shortener, chat app, and news feed, plus distributed systems..."
+excerpt: "The most complete system design interview guide for SDE-2 and senior engineer roles: a structured step-by-step interview framework, twelve real-world..."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 55
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 ## Table of Contents
 

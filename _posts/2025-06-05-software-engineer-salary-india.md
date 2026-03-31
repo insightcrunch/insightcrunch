@@ -5,11 +5,11 @@ page_title: "Software Engineer Salary in India Complete Breakdown: Freshers to S
 date: 2025-06-05
 categories: ["Industry"]
 tags: ["software engineer salary India", "highest paying companies", "CTC comparison", "fresher salary", "product-based company salary", "IT salary India", "FAANG salary India", "software developer salary", "tech salary negotiation", "CTC breakdown India"]
-excerpt: "What do software engineers earn in India? Company-wise salary data from TCS to Google, level-wise CTC progression, and how to negotiate a better offer."
+excerpt: "The most complete breakdown of software engineer salaries in India: fresher to senior levels, product-based vs service-based company comparison, CTC..."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 ## Table of Contents
 

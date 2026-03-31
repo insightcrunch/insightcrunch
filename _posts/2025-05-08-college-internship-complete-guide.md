@@ -5,11 +5,11 @@ page_title: "College Internship Complete Guide: How to Find Paid Internships, Bu
 date: 2025-05-08
 categories: ["Industry"]
 tags: ["paid internship", "internship no experience", "ATS resume", "internship resume", "summer internship", "how to get internship", "college internship guide", "internship cover letter", "internship search strategy", "campus recruiting"]
-excerpt: "No internship experience? Here is how to land one. Finding opportunities, building a resume that passes ATS filters, cold emailing, and interview..."
+excerpt: "The most complete college internship guide: where to find paid internships, how to build an ATS-friendly resume with no experience, cover letter..."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 55
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 ## Table of Contents
 
