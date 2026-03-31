@@ -4,11 +4,11 @@ title: "Best Restaurants for Solo Dining in Dallas"
 date: 2024-10-17
 categories: ["Leisure"]
 tags: ["solo-dining", "dallas", "restaurants", "dallas-food", "eating-alone", "counter-dining", "bar-seating", "barbecue", "tex-mex", "deep-ellum", "bishop-arts", "uptown"]
-excerpt: "Where to eat alone in Dallas. Counter seats, bar dining, and the neighborhoods from Bishop Arts to Uptown where solo diners are right at home."
+excerpt: "From Bishop Arts pasta bars to Deep Ellum dive bars, Tex-Mex to omakase, the complete guide to eating alone in Dallas."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-23
+last_updated: 2026-03-31
 ---
 Dallas is a city that does everything big. The steaks are big, the trucks are big, the hair is big, the ambitions are big, and the dining scene, which has quietly become one of the most exciting and diverse in the American South, is very, very big. It is a city of steakhouses and taco shops, of Michelin-starred omakase counters and drive-through chicken shacks, of Bishop Arts bistros and Deep Ellum dive bars, of a culinary energy that draws from Texas tradition, Mexican heritage, and the global influences of a city that has attracted ambitious chefs and hungry transplants from around the world. And for the solo diner, Dallas offers something unexpected: a food culture that is far more welcoming, far more varied, and far more rewarding than the city's reputation for steaks and Tex-Mex might suggest.
 

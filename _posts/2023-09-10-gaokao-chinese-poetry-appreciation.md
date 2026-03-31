@@ -6,14 +6,14 @@ date: 2023-09-10
 categories: ["Industry"]
 tags: ["高考语文", "诗歌鉴赏", "意象", "唐诗宋词", "Gaokao Chinese", "Poetry"]
 excerpt: "全面掌握高考诗歌鉴赏核心考点，系统学习意象分析、表达技巧、情感解读与答题模板，让诗歌鉴赏从最难题型变成你的稳定得分项。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-31
 ---
-
 在高考语文的所有题型中，诗歌鉴赏是公认的难度最高、失分最多的板块之一。很多同学面对诗歌鉴赏题时往往陷入两种困境：要么完全读不懂诗歌的意思，连基本内容都无从把握；要么读懂了大意，却无法用准确的语文专业术语来表达自己的理解，答案写了很多，却得不了几分。这两种困境背后，指向的是同一个根本问题：缺乏系统化的诗歌鉴赏知识体系。诗歌鉴赏绝不是"凭感觉"就能做好的题型，它有其内在的知识逻辑和答题规律。一旦掌握了这套体系，诗歌鉴赏完全可以从最令人头疼的失分大户，转变为稳定拿分的加分项。本文将从诗歌鉴赏的底层逻辑出发，系统梳理意象、手法、情感、题型与答题框架，为你提供一套完整可操作的备考方案。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-64.webp)
 *高考语文诗歌鉴赏核心考点与答题策略全解析*
 
 ---

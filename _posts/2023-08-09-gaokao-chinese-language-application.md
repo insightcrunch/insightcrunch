@@ -6,14 +6,14 @@ date: 2023-08-09
 categories: ["Industry"]
 tags: ["高考语文", "语言文字运用", "成语", "病句", "Gaokao Chinese", "Language Application"]
 excerpt: "全面掌握高考语文语言文字运用各题型核心考点，系统学习成语辨析、病句修改、压缩语段、句子补写与修辞手法，让语用题成为语文卷的稳定满分板块。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-31
 ---
-
 在高考语文试卷中，语言文字运用板块（简称"语用题"）是一个极具特殊价值的板块。它的分值通常在20分左右，题型覆盖成语辨析、病句修改、句子补写、压缩语段、修辞手法运用等多个方向，考查的是考生在语言使用层面的综合能力。很多同学对这一板块的态度是"随缘"——觉得这类题目要么会要么不会，备考性价比不高。这种认知是完全错误的。语用题的考查范围相对固定，题型规律清晰，只要系统学习每种题型的核心知识点和答题策略，完全可以将这20分变成语文试卷上最稳定的得分板块。本文将按题型系统梳理语用题的所有核心考点，提供每种题型的解题框架和高频易错点，帮助你把"随缘"变成"必得"。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-17.webp)
 *高考语文语言文字运用核心题型与满分答题策略全解析*
 
 ---

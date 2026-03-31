@@ -6,14 +6,14 @@ date: 2023-09-02
 categories: ["Industry"]
 tags: ["高考语文", "现代文阅读", "小说阅读", "散文阅读", "Gaokao Chinese", "Reading"]
 excerpt: "全面掌握高考现代文阅读核心考点，系统学习小说四要素分析、散文阅读技巧、实用文阅读方法与规范答题框架，让现代文阅读成为语文稳定得分的核心板块。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-03-31
 ---
-
 在高考语文的所有板块中，现代文阅读占据的分值比重相当可观。全国卷语文试卷中，现代文阅读（包括论述类文本、文学类文本和实用类文本）合计通常占据35至40分，是仅次于作文的第二大得分板块。然而，很多考生在面对现代文阅读题时，往往感到无从下手：读懂了文章，却不知道如何回答问题；写了很多，却总是答不到得分点；有时候明明觉得自己答对了，对照答案却发现差距很大。这些困惑背后有一个共同的根源：缺乏系统化的阅读分析方法和规范的答题策略。现代文阅读绝不是"凭语感"就能做好的，它有其内在的知识体系和答题规律。一旦掌握了这套体系，现代文阅读完全可以成为语文高考中最稳定的得分版块。本文将从文学类文本（小说和散文）到实用类文本，系统梳理每种文体的核心考点、分析框架与答题规范，为你提供一套完整可操作的备考方案。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-25.webp)
 *高考语文现代文阅读核心考点与答题策略全解析*
 
 ---
