@@ -5,12 +5,11 @@ date: 2013-01-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fleur Delacour", "Triwizard Tournament", "Beauxbatons"]
 excerpt: "Fleur Delacour in Harry Potter: dismissed as vain and decorative, then revealed as brave, loyal, and possessed of an entirely different kind of power."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2013-01-28
+last_updated: 2026-03-31
 ---
-
 ## Introduction: The Girl Who Was More Than She Seemed
 
 Fleur Delacour is the Harry Potter series' most complete study in the revision of a first impression. She arrives in *Goblet of Fire* as a figure who seems to have been designed specifically to provoke a particular kind of reader response: beautiful to an almost magical degree, French, proud, clearly confident in her own superiority, and apparently more interested in her appearance than in the dangerous tournament she has been selected to compete in. She dismisses Hogwarts. She dismisses Harry. She dismisses everything around her with the serene efficiency of someone who has decided in advance that nothing outside her own world could possibly match it.
@@ -19,7 +18,7 @@ And then she is placed in an underwater lake and asked to rescue someone she lov
 
 That moment on the bank is the series' first indication that Fleur Delacour is something other than the decorative, dismissive figure the opening chapters constructed. She is not crying about losing. She is crying about Gabrielle. The distinction matters enormously, and it is the hinge on which the character's entire arc turns.
 
-![Fleur Delacour character analysis in Harry Potter](/assets/images/blog/blog-07.webp)
+![Fleur Delacour character analysis in Harry Potter](/assets/images/blog/blog-55.webp)
 
 The revision of Fleur continues across three books, culminating in *Half-Blood Prince*'s scene at the Burrow in which Molly Weasley and Hermione Granger - two of the series' most formidable women, who have both dismissed Fleur as superficial - are challenged by Fleur's response to Bill's werewolf injuries. Bill, disfigured, will no longer look the way he did. Molly implies, with the specific cruelty of someone saying something true in order to wound, that Fleur has only loved Bill for his looks. And Fleur's response is the scene's most perfectly constructed moment: she does not defend herself with words. She simply makes clear, with the specific clarity of someone whose meaning requires no elaboration, that Bill's face is not what she chose him for, that she has enough courage for both of them, and that anyone who doubts this has understood neither her nor the relationship.
 
