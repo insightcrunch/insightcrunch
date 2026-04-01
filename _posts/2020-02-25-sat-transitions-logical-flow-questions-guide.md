@@ -9,7 +9,7 @@ excerpt: "Master every SAT transition question type with a complete categorizati
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "patrick-dunn"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 # SAT Transitions: Master Every Logical Connector Question
 

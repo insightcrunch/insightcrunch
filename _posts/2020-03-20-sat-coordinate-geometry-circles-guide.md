@@ -9,7 +9,7 @@ excerpt: "Master every SAT coordinate geometry topic including distance and midp
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "ian-fletcher"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 Coordinate geometry gives us the tools to describe shapes, distances, and relationships in the coordinate plane using algebra. On the SAT, this means the ability to move fluently between geometric descriptions ("two points form a line segment") and algebraic representations ("the slope of this segment is 3/4"). The Digital SAT tests coordinate geometry consistently across both Math modules, with questions ranging from straightforward reading of coordinates and applying the distance formula to sophisticated problems involving circle equations, intersections of lines and circles, and the algebraic meaning of geometric properties like perpendicularity.
 

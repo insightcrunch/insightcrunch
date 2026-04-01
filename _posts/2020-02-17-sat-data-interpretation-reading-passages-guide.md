@@ -9,7 +9,7 @@ excerpt: "Master SAT data interpretation within reading passages covering how to
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 45
 author: "christopher-wells"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 # SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy
 

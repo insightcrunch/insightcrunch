@@ -9,7 +9,7 @@ excerpt: "Master every SAT reading passage type including literary fiction, scie
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "daniel-morgan"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 # SAT Reading Passage Types: Literature, Science, and History Strategies
 

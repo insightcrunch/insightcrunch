@@ -9,7 +9,7 @@ excerpt: "The complete guide to the most damaging SAT preparation mistakes cover
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 45
 author: "hannah-moore"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 # SAT Preparation Mistakes That Cost Students 100+ Points
 

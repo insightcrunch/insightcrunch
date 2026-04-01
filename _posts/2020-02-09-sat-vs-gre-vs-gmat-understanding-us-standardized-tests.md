@@ -9,7 +9,7 @@ excerpt: "A comprehensive comparison of the SAT, GRE, and GMAT standardized test
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 45
 author: "ian-fletcher"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 # SAT vs GRE vs GMAT: Understanding US Standardized Tests
 

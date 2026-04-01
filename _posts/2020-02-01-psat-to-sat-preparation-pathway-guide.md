@@ -9,7 +9,7 @@ excerpt: "The complete guide to using PSAT results as a foundation for SAT prepa
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
 author: "christopher-wells"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 # PSAT to SAT: How to Use PSAT Results to Maximize SAT Performance
 
