@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Remus Lupin across all Harry Potter books 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The Quiet Courage
 

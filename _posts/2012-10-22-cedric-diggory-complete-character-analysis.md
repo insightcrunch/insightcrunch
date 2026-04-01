@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Cedric Diggory across the Harry Potter boo
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The Boy Who Was Just Good
 

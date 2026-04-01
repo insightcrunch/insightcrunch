@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Dolores Umbridge across all Harry Potter b
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The Most Frightening Villain
 

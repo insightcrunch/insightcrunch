@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Bellatrix Lestrange across all Harry Potte
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The True Believer
 

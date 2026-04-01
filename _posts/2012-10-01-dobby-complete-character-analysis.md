@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Dobby across all Harry Potter books - slav
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The Free Elf
 

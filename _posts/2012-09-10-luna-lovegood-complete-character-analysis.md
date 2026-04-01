@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Luna Lovegood across all Harry Potter book
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The Character Who Sees Clearly
 
