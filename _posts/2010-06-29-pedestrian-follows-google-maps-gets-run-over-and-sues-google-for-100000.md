@@ -4,7 +4,7 @@ title: "Pedestrian follows Google Maps, gets run over and sues Google for $100,0
 date: 2010-06-29
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Hugh Pickens writes \\"The Toronto Star reports that a Utah woman is suing Google for more than $100,000 in damages, [claiming its maps function gave her..."
+excerpt: "Hugh Pickens writes 'The Toronto Star reports that a Utah woman is suing Google for more than $100,000 in damages, claiming its maps function gave her...'"
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 1
 author: "Insight Crunch Team"
