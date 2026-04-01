@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Draco Malfoy across all Harry Potter books
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Boy Who Could Not Kill
 

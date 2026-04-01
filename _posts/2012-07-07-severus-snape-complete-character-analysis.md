@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Severus Snape across all seven Harry Potte
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Man Behind the Mask
 

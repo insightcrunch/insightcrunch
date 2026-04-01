@@ -4,11 +4,11 @@ title: "Is it hard to get hired on at Amazon?"
 date: 2012-10-12
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon's hiring bar is real. How tough each stage is, from resume screening through the interview loop, and what acceptance rates look like."
+excerpt: "Amazon is one of the largest corporations in the world today and it employs thousands of employees all over the globe. The process to get hired at Amazon..."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 10
 author: "james-carter"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Background
 

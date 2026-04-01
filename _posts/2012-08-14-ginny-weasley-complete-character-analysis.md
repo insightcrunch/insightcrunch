@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Ginny Weasley across all Harry Potter book
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Girl in the Background Who Was Never Background
 

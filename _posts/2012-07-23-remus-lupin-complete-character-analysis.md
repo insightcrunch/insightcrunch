@@ -8,7 +8,7 @@ excerpt: "A literary analysis of Remus Lupin in Harry Potter - his werewolf stig
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Man Who Was Always on the Margin
 

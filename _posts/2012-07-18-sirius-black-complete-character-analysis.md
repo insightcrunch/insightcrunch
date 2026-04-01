@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Sirius Black across all seven Harry Potter
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Man Who Should Have Been Free
 

@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Albus Dumbledore across all seven Harry Po
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Wizard Behind the Curtain
 

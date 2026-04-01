@@ -5,11 +5,11 @@ page_title: "TCS Joining Date Delays - Why They Happen, How Long to Expect, What
 date: 2012-09-15
 categories: ["Industry"]
 tags: ["TCS", "Joining Delay", "Fresher Waiting", "Productivity Tips"]
-excerpt: "TCS joining dates for 2012 batch are rolling out. How the onboarding sequence works, what documents to gather, and when to expect your start date."
+excerpt: "The candidates of 2012 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the..."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
 author: "ritika-singh"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 You have the offer letter. You passed the NQT, cleared the interview, submitted all the documents through NextStep, passed the background verification, and completed the pre-joining formalities. TCS has accepted you. You are, technically speaking, a TCS employee. And yet months have passed without a joining date, while others in your batch community keep posting updates about dates they have received, centers they have been assigned to, and training programs that are already underway.
 

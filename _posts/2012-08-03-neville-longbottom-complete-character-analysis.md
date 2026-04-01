@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Neville Longbottom across all Harry Potter
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Boy the Prophecy Almost Named
 

@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Lord Voldemort across all seven Harry Pott
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "chloe-martin"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Villain Who Is Also a Mirror
 
