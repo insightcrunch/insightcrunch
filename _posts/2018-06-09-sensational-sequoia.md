@@ -4,11 +4,11 @@ title: "Sensational Sequoia"
 date: 2018-06-09
 categories: ["Travel"]
 tags: ["Nature"]
-excerpt: "The Sequoia trees are the oldest living things you can touch. A visit to California's Sierra Nevada and the humbling experience of ancient forests."
+excerpt: "The exquisite Sierra Nevada, in the magnificent slopes of California, is the home to some of the oldest living things on earth – the dazzling Giant..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 2
 author: "amit-chatterjee"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The exquisite Sierra Nevada, in the magnificent slopes of California, is the home to some of the oldest living things on earth – the dazzling Giant Sequoia trees, some as old as 3500 years. The stunning facts of these exquisite trees were as overwhelming to me as a 10-year-old, as it is today – and the long dream of experiencing these breathtaking wildernesses came true few days back.
 

@@ -4,11 +4,11 @@ title: "The Fascinating World of Ford"
 date: 2017-08-29
 categories: ["Travel"]
 tags: ["Nature"]
-excerpt: "Henry Ford did not just build cars. He reshaped society. A look at the assembly line revolution, mass production, and how Ford changed everything."
+excerpt: "The stories of how the automobile industry revolution started had been in the air for sometime around me after watching a few documentaries on YouTube. It..."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 6
 author: "amit-chatterjee"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-53.webp)
 
