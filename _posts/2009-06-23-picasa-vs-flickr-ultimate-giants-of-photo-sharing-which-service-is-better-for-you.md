@@ -4,11 +4,11 @@ title: "Picasa vs Flickr : Ultimate giants of photo sharing, which service is be
 date: 2009-06-23
 categories: ["Leisure"]
 tags: ["Google", "The Web", "Thoughts"]
-excerpt: "There has been really increasing debates as to which is best amongst these two giants. Each one beats the other in their own segment making the choice..."
+excerpt: "Picasa vs Flickr comparison: storage, features, community, photo quality, and which photo sharing platform is better for different types of users."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 7
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 There has been really increasing debates as to which is best amongst these two giants. Each one beats the other in their own segment making the choice difficult for the end-users. I am an avid photographer. I always have my 120GB hard disk asking for space to free up and I simply love to click the upload button in the [**Picasa software**](http://picasa.google.com/) to share with all my friends and family. This software almost forms the brain and heart of the popularity of Picasa. It’s extremely easy to share all the photos just by clicking upload and instantly your photos are send to your [**online albums**](http://picasaweb.google.com), ready to be shared or kept private. Till now, the Picasa album’s free limit had been enough for me. I already have about 14-15 albums and close to 120-130 snaps in each of [**my own Picasa album**](http://picasaweb.google.co.in/rahul8200/CasualPics?authkey=Gv1sRgCI3KyqKtqoyr1AE#). I have completely explored Flickr and have found it’s social networking aspect extremely attractive and addicting. Also there are lot’s of API tools that make Flickr what it is today more than Yahoo itself! And so I am sticking to both Picasa and Flickr for the time being. [**Here are my Flickr photos if you want to add me and keep track of my photos.**](http://www.flickr.com/photos/rahul__/sets/72157620544751027/detail/)
 

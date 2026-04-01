@@ -5,19 +5,18 @@ date: 2013-03-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Horace Slughorn", "Half-Blood Prince", "Slug Club"]
 excerpt: "Horace Slughorn in Harry Potter: the series' most psychologically nuanced portrait of complicity - the decent man who looked away, who enabled something monstrous, and who eventually had to choose."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2013-03-20
+last_updated: 2026-04-01
 ---
-
 ## Introduction: The Comfortable Man Who Looked Away
 
 Horace Slughorn is the Harry Potter series' most uncomfortable portrait of a decent person, and his discomfort is precisely calibrated: he is not evil, not cowardly in the obvious sense, not malicious, not even particularly selfish in the crude way that self-interest usually manifests. He is something more recognisable and more troubling than any of these: he is comfortable. He has built a life organised around pleasure, around the cultivation of interesting and useful people, around the specific ease of someone whose gifts have always been sufficient to maintain a pleasant existence without demanding anything particularly difficult in return. And his comfort has required, across several decades, looking away from several things he should not have looked away from.
 
 The most consequential instance of this looking away is the night a student named Tom Riddle asked him a question about Horcruxes. Slughorn answered. He did not fully mean to answer. He was flattered, as he always is by the brilliant and the charming, and he answered more than he intended, and what he answered was enough for Tom Riddle to understand how to split a soul seven times and thus to set in motion the specific form of immortality project that the entire series exists to undo. He has known this for fifty years. He has modified his own memory to make it more bearable. He has not stopped knowing.
 
-![Horace Slughorn character analysis in Harry Potter](/assets/images/blog/blog-18.webp)
+![Horace Slughorn character analysis in Harry Potter](/assets/images/blog/blog-04.webp)
 
 This is what makes Slughorn the series' most genuinely complex moral portrait. The memory modification is the series' most brilliant metaphor for the specific psychological work that looking away requires: he has literally rewritten his own past to make it bearable, replaced his actual memory with an edited version in which his culpability is reduced and his discomfort is managed. He is not simply someone who has done something wrong and forgotten it. He is someone who has done something wrong and who has worked, with the specific skill of the gifted Potions master, to make the wrongness accessible only in a form that he can live with.
 

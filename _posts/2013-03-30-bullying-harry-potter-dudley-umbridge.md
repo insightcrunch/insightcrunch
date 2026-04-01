@@ -5,19 +5,18 @@ date: 2013-03-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Bullying", "Power", "Literary Analysis", "Dudley Dursley", "Dolores Umbridge", "Severus Snape"]
 excerpt: "Rowling presents bullying not as individual cruelty but as a system that operates identically whether the bully is an eleven-year-old on a playground or a government official with institutional power. The mechanism is always the same."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2013-03-30
+last_updated: 2026-04-01
 ---
-
 ## Introduction: The Mechanism Is Always the Same
 
 The Harry Potter series contains more portraits of bullying than almost any other work of contemporary fiction for young readers, and this is not accidental. J.K. Rowling has spoken publicly about her own experience with bullying, and the series reflects a sustained and precise observation of how bullying actually works - not as individual cruelty performed by exceptional villains but as a system with consistent operating principles that function identically across radically different scales and contexts.
 
 The thesis this article will argue is that Rowling constructs bullying as a system defined by a single core mechanism: the bully identifies something about the target that the target cannot change, and makes that thing the reason the target deserves pain. Dudley Dursley identifies Harry's powerlessness and lack of family protection and makes it the justification for his gang's games. Draco Malfoy identifies Ron's poverty and Hermione's Muggle birth and makes these the grounds for his sustained contempt. Severus Snape identifies Harry's resemblance to James Potter - something Harry is completely unable to alter - and makes it the justification for a decade of targeted cruelty in the classroom. Dolores Umbridge identifies Harry's insistence on an inconvenient truth and makes his truth-telling the reason for the Blood Quill's inscription.
 
-![Bullying in Harry Potter](/assets/images/blog/blog-20.webp)
+![Bullying in Harry Potter](/assets/images/blog/blog-38.webp)
 
 In every case the mechanism is the same. The target's vulnerability - whether social, economic, hereditary, or simply epistemic - is not the occasion for help or protection but the occasion for attack. The bully is not merely someone who is cruel. The bully is someone who has identified a specific asymmetry of power and who exploits it in ways that are designed to remind the target of the asymmetry, to make the target experience their own vulnerability as deserved, to convert the structural condition into a moral verdict.
 
