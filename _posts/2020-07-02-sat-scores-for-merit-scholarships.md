@@ -9,7 +9,7 @@ excerpt: "The complete guide to using SAT scores for merit-based scholarships co
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 45
 author: "simon-hartley"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 Most students and families approach SAT preparation with a single objective in mind: demonstrating academic readiness for college admissions. What many do not realize is that the same test score that opens doors to college admission can simultaneously unlock substantial financial resources that dramatically reduce the cost of attending college. Merit-based scholarships tied to SAT performance represent one of the most significant and underutilized financial planning tools available to college-bound students, and understanding how to leverage them strategically can mean the difference between graduating with significant debt and graduating with little or none.
 
