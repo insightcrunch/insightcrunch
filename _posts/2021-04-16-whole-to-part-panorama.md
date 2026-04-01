@@ -4,11 +4,11 @@ title: "Whole to part panorama"
 date: 2021-04-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Start big, then drill down. How whole-to-part analysis in Tableau reveals insights that get lost when you start with the details first."
+excerpt: "..."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 1
 author: "alex-rivera"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ![](/assets/images/blog/blog-80.webp)
 

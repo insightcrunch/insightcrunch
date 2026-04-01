@@ -9,7 +9,7 @@ excerpt: "Master every SAT Algebra topic including linear equations, systems of 
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
 author: "samantha-lee"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 # SAT Algebra: Every Topic and Question Type Explained
 

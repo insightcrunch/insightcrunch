@@ -9,7 +9,7 @@ excerpt: "Master every grammar rule tested on the SAT including punctuation, agr
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 45
 author: "daniel-morgan"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 # SAT Grammar Rules: Every Rule Tested on the Digital SAT
 

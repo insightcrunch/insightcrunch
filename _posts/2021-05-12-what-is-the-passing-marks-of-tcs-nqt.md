@@ -5,11 +5,11 @@ page_title: "TCS NQT Passing Marks - Minimum Qualifying Scores by Section for Ni
 date: 2021-05-12
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Passing Marks", "Qualifying Score"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is taken by hundreds of thousands of aspiring candidates every year. A successful TCS NQT..."
+excerpt: "TCS NQT passing marks: minimum qualifying scores for foundation and advanced sections, how cutoffs differ by category, and what score lands interviews."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "siddharth-rao"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The most searched question after "how do I prepare for TCS NQT" is "what score do I need to pass TCS NQT?" The honest answer requires more nuance than most candidates expect: TCS NQT does not have published fixed passing marks. The qualifying threshold is relative - determined by the performance distribution of every candidate in your window.
 

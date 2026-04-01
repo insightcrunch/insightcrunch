@@ -9,7 +9,7 @@ excerpt: "Master SAT reading comprehension with proven strategies for passage re
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 45
 author: "michael-brooks"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 # SAT Reading Comprehension: Passage Strategies That Work
 

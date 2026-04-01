@@ -9,7 +9,7 @@ excerpt: "The complete SAT Reading and Writing preparation guide covering all qu
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 45
 author: "michael-brooks"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 # SAT Reading and Writing: The Complete Section Guide
 
