@@ -4,11 +4,11 @@ title: "How can I check my TCS NQT Results?"
 date: 2019-12-18
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is one of the most widely taken tests today by candidates aspiring to be a part of this..."
+excerpt: "Step-by-step guide to checking TCS NQT results on the official portal. Login process, scorecard interpretation, and what to do after you see your marks."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 2
 author: "meera-pillai"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

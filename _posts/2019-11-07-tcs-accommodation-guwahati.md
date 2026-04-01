@@ -8,7 +8,7 @@ excerpt: "The complete guide to TCS accommodation in Guwahati for ILP associates
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 50
 author: "pooja-gupta"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 Guwahati is the TCS ILP city that changes how you think about India. For the majority of TCS freshers, who come from states south or west of Bengal, Guwahati is the first experience of northeast India, a region that is geographically, culturally, linguistically, and culinarily distinct from the India they have known. The Brahmaputra river, wider than any river most associates have seen, flows through the city with a power and presence that redefines what a river can be. The hills of Meghalaya rise on the southern horizon, promising weekend adventures to Shillong, Cherrapunji, and Dawki that are among the most visually stunning in the entire subcontinent.
 

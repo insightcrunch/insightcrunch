@@ -5,11 +5,11 @@ page_title: "How to Check Your TCS NQT Score - Step-by-Step Portal Navigation, L
 date: 2019-11-08
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Score Check", "Portal Guide"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is an essential test for candidates who are looking forward to be a part of TCS. Achieving a..."
+excerpt: "How to check your TCS NQT score: step-by-step login process on the TCS portal, scorecard components, and what each section score means for your candidacy."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "karthik-menon"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 You have taken the TCS NQT. The results window has arrived. Now you need to find your score - not a vague idea of whether you "passed," but the actual section-wise scorecard that tells you exactly where you stand and what it means for your TCS application.
 
