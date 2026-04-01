@@ -4,11 +4,11 @@ title: "Oracle BI Apps Incremental Load Plan Performance Tuning"
 date: 2016-10-06
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "Slow BI Apps incremental loads? ODI performance tuning techniques using indexes, partitioning, and parallel execution that dramatically speed things up."
+excerpt: "The Oracle Business Intelligence Applications integration with Oracle General Ledger comes with an out-of-the-box load plan that Oracle provides for..."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The Oracle Business Intelligence Applications integration with Oracle General Ledger comes with an out-of-the-box load plan that Oracle provides for extracting and loading into the BI data warehouse. However, this load plan comes with a lot of scope of improvement. I got the opportunity to analyze this in details and some findings are really helpful.
 

@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "The DRM to EBS integration using the patches 10632813 and 11659733 are not one of the as flexible integration concurrent program as it may appear..."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 2
-author: "park-jimin"
+author: "benjamin-scott"
 last_updated: 2026-04-01
 ---
 The DRM to EBS integration using the patches 10632813 and 11659733 are not one of the as flexible integration concurrent program as it may appear, apparently. It is though true that the set-up appears straightforward, configure the patches for the program 'Load Segment Values and Hierarchies', and then configure DRM for the corresponding segment value names. With the 'Allow Export' version property set to True, all the hierarchies within that version for that segment is expected to flow to EBS.

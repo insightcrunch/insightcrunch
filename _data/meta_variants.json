@@ -1938,91 +1938,91 @@
     "variant_2": "Daily DRM version refresh automated. How to use Batch Client to create and manage current and previous day versions without manual intervention."
   },
   "2016-10-01-odisqlunload-and-the-possibilities.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Integrator is one of the best futuristic data transformation and loading tools with a variety of features for the end-user. ODI as an ELT...",
     "variant_1": "OdiSqlUnload in Oracle Data Integrator: extracting data from databases into flat files. Syntax, parameters, use cases, and performance considerations.",
     "variant_2": "Mastering OdiSqlUnload in ODI. How to extract database data into files efficiently, the parameter options available, and real-world use cases."
   },
   "2016-10-02-evernote-and-how-it-transformed-my-digital-life.md": {
-    "current": 2,
+    "current": 0,
     "original": "As digital data has grown over the years and our dependency on gadgets has risen, there came a need for something more than the concept of simply storing...",
     "variant_1": "How Evernote changed the way I organize digital information. From scattered files to a searchable knowledge base, the app that reshaped my workflow.",
     "variant_2": "Before Evernote, my digital life was chaos. How one note-taking app brought order to scattered files, ideas, and information across every device."
   },
   "2016-10-02-write-a-guest-post-for-insight-crunch.md": {
-    "current": 2,
+    "current": 0,
     "original": "Insight Crunch is the most happening place for discussions and information on the IT sector, the latest technology, and the gadgets that emerge. This site...",
     "variant_1": "Write a guest post for Insight Crunch: guidelines for contributing articles on IT, technology, career advice, and analytics to thousands of daily readers.",
     "variant_2": "Interested in guest posting? Insight Crunch accepts contributions on technology, IT careers, and analytics. Here is how to submit your article."
   },
   "2016-10-03-drm-essbase-integration-to-refresh-outline.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Relationship Management application has been consistently the leading master data management utility for businesses over the years. The...",
     "variant_1": "Oracle DRM to Essbase integration: refresh cube outlines from DRM hierarchy data. Configuration, export process, and troubleshooting outline updates.",
     "variant_2": "Keep Essbase outlines in sync with DRM. How to configure the integration that refreshes cube dimensions directly from DRM hierarchy data."
   },
   "2016-10-04-drm-api-adapter-url-not-responding.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this...",
     "variant_1": "Oracle DRM API Adapter URL not responding: the web service endpoint essential for integrations. Diagnosis, Weblogic configuration, and restart steps.",
     "variant_2": "DRM API Adapter down? The integration endpoint your GL sync depends on. How to check, restart, and fix the URL that connects DRM to other systems."
   },
   "2016-10-06-oracle-bi-apps-incremental-load-plan-performance-tuning.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Business Intelligence Applications integration with Oracle General Ledger comes with an out-of-the-box load plan that Oracle provides for...",
     "variant_1": "Tune Oracle BI Apps incremental load plans in ODI: index strategy, partitioning, parallel execution, and the changes that cut load times significantly.",
     "variant_2": "Slow BI Apps incremental loads? ODI performance tuning techniques using indexes, partitioning, and parallel execution that dramatically speed things up."
   },
   "2016-10-07-drm-single-physical-hierarchy-multiple-logical-hierarchies.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Relationship Management application provides tremendous flexibility in terms of managing the master data for an organization. It has...",
     "variant_1": "Oracle DRM: map one physical hierarchy to multiple logical views. How to provide different perspectives of the same data for different business needs.",
     "variant_2": "One DRM physical hierarchy, many logical views. How to configure multiple business perspectives from a single master hierarchy in Oracle DRM."
   },
   "2016-10-10-odi-executions-parametrization-pros-and-cons.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Integrator scenarios and load plans provides a range of flexibilities when it comes to the executions. We can select the Context, Log...",
     "variant_1": "ODI execution parametrization: context selection, log levels, variable inputs, and the trade-offs between flexibility and complexity in load plans.",
     "variant_2": "Should you parametrize ODI executions? The pros and cons of flexible context switching, variable inputs, and log level control in production scenarios."
   },
   "2016-10-11-odi-invoke-web-services-with-dynamic-values.md": {
-    "current": 2,
+    "current": 0,
     "original": "The ODI Invoke Web Service utility is extremely handy and lots of users are already using it in their systems. The tool allows invoking an operation on a...",
     "variant_1": "Invoke web services from ODI with dynamic parameter values. How to pass runtime variables into SOAP calls using the ODI Web Service utility.",
     "variant_2": "Pass dynamic values to web service calls in ODI. How to configure the Invoke Web Service utility with runtime variables instead of hard-coded inputs."
   },
   "2016-10-13-essbase-data-quality-control-using-odi.md": {
-    "current": 2,
+    "current": 0,
     "original": "Oracle Essbase is an excellent tool for handling large volumes of data and doing complex calculations very fast. But it is interesting to observe how good...",
     "variant_1": "Validate Essbase data quality after ODI loads. Post-load checks, aggregation verification, and how to catch data issues before they reach end users.",
     "variant_2": "Is your Essbase data accurate after loading? ODI-based quality control techniques that catch calculation errors and data issues before business users see..."
   },
   "2016-10-13-troubleshooting-hive-in-hortonworks-virtualbox-sandbox.md": {
-    "current": 2,
+    "current": 0,
     "original": "While getting started with Hadoop, the [sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) provided by Hortonworks is an easy to use...",
     "variant_1": "Troubleshoot Hive issues in Hortonworks VirtualBox sandbox: connection errors, service failures, and the common problems beginners hit with Hadoop Hive.",
     "variant_2": "Hive not working in Hortonworks sandbox? Common VirtualBox issues, service startup failures, and the fixes that get your Hadoop environment running."
   },
   "2016-10-13-type-2-slowly-changing-dimension-how-ora_hash-mis-fits-in.md": {
-    "current": 2,
+    "current": 0,
     "original": "The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances...",
     "variant_1": "ORA_HASH pitfalls in Type 2 Slowly Changing Dimensions. When the hash function produces unexpected results and how to avoid SCD tracking errors in ODI.",
     "variant_2": "Using ORA_HASH for SCD Type 2 in ODI? Watch out. The hash function has edge cases that can corrupt your dimension tracking. Here is what to know."
   },
   "2016-10-15-odi-performance-tuning-using-indexes-and-keys.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Integrator load plans involve extracting and loading large volumes of data and then transforming them as per requirements. Often the...",
     "variant_1": "ODI performance tuning with indexes and keys: when to add them, which types help most, and how proper indexing can cut ETL load times dramatically.",
     "variant_2": "Slow ODI loads? The right indexes and keys can transform performance. When to add them, which types matter, and the impact on your ETL pipeline."
   },
   "2016-10-15-odi-trigger-essbase-maxl-dynamically-with-no-hard-coding.md": {
-    "current": 2,
+    "current": 0,
     "original": "The Oracle Data Integrator tool provides a flexible option, though customized, to call and execute MaxL scripts to perform various operations on our...",
     "variant_1": "Trigger Essbase MaxL scripts dynamically from ODI without hard-coding. Variable-driven cube operations that adapt to different environments automatically.",
     "variant_2": "No more hard-coded MaxL in ODI. How to trigger Essbase operations dynamically using variables, making your cube management environment-agnostic."
   },
   "2016-10-19-odi-automation-of-smart-view-manual-activities.md": {
-    "current": 2,
+    "current": 0,
     "original": "Oracle Data Integrator provides multiple features to automate almost all manual data extraction and transformation related activities. One such scenario...",
     "variant_1": "Automate Smart View manual data operations using ODI. Replace repetitive extract-and-load tasks with scheduled, hands-free ETL pipelines.",
     "variant_2": "Still using Smart View manually for data loads? ODI can automate those repetitive extract-and-load tasks into scheduled, unattended pipelines."

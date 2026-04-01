@@ -1,6 +1,6 @@
 1984-chapter-summary-analysis-guide: megan-clark
 2011-batch-tcs-to-increase-workforce: meera-pillai
-3-essential-sanity-checks-for-drm-ebs-integration: lee-donghyun
+3-essential-sanity-checks-for-drm-ebs-integration: andrew-price
 50-free-browser-tools-every-chromebook-user-needs: marcus-hall
 a-story-between-tcs-and-infosys: ritika-singh
 a-trip-to-the-1850s: amit-chatterjee
@@ -185,9 +185,9 @@ drm-batch-client-refresh-current-and-previous-day-versions: robert-quinn
 drm-batch-client-scripting-for-automation: nathan-cole
 drm-data-loading-automation-using-odi: thomas-reid
 drm-data-validation-techniques-for-better-quality-and-control: marcus-hall
-drm-ebs-integration-find-orphans-in-ebs: park-jimin
-drm-ebs-integration-fnd-flex-loader-value-updates: kim-soyeon
-drm-ebs-integration-unable-to-fetch-list-of-versions: choi-yuna
+drm-ebs-integration-find-orphans-in-ebs: nathan-cole
+drm-ebs-integration-fnd-flex-loader-value-updates: ryan-walsh
+drm-ebs-integration-unable-to-fetch-list-of-versions: jason-mckenzie
 drm-enterprise-manager-services-not-responding: ryan-walsh
 drm-error-file-does-not-exist: ian-fletcher
 drm-essbase-integration-to-refresh-outline: kevin-reeves
@@ -201,7 +201,7 @@ dropbox-vs-google-drive-the-war-begins: ryan-walsh
 dsa-interview-preparation-guide: david-thornton
 e-book-readers-battle-like-never-before: amanda-ross
 ebay-search-now-directly-through-kewll: diana-patel
-ebs-drm-integration-for-account-type-and-summary-flag-attributes: park-jimin
+ebs-drm-integration-for-account-type-and-summary-flag-attributes: benjamin-scott
 echoes-of-life: chloe-martin
 education-system-eeeow: diana-patel
 einstein-and-alex-redefining-parrots: chloe-martin
@@ -425,7 +425,7 @@ harvard-graduate-housing-guide: samantha-lee
 harvard-hbs-accommodation-mba-guide: christopher-wells
 harvard-houses-ranked-compared: hannah-moore
 harvard-neighborhoods-guide-students: michael-brooks
-harvard-off-campus-housing-guide: devendra-patil
+harvard-off-campus-housing-guide: samantha-lee
 harvard-student-budget-real-cost: katherine-blake
 harvard-student-life-what-nobody-tells-you: hannah-moore
 harvard-vs-mit-vs-stanford-housing: samantha-lee
@@ -607,7 +607,7 @@ lavender-brown-complete-character-analysis: megan-clark
 lets-try-to-make-it-straight: amanda-ross
 life-in-an-alternate-universe: diana-patel
 lily-potter-complete-character-analysis: victoria-stone
-load-segment-values-and-hierarchies-drm-ebs-integration: lee-donghyun
+load-segment-values-and-hierarchies-drm-ebs-integration: ian-fletcher
 lock-folders-and-hide-your-secret-files: diana-patel
 looking-to-share-your-nature-landscape-and-wildlife-photos: amanda-ross
 love-as-magic-harry-potter-sacrifice-survival: olivia-grant
@@ -1121,7 +1121,7 @@ wordpress-3-0-is-here-to-delight-bloggers: chloe-martin
 wordpress-becoming-unreliable: diana-patel
 work-culture-in-the-it-sector: rachel-foster
 write-a-guest-post-for-insight-crunch: amanda-ross
-wss_username_token_service_policy-use-case-for-oracle-ebs-and-drm-integration: lee-donghyun
+wss_username_token_service_policy-use-case-for-oracle-ebs-and-drm-integration: marcus-hall
 yahoo-mail-growing-up-with-gmails-features-and-some-more: amanda-ross
 yahoo-taking-a-dive-into-social-networking: amanda-ross
 yahoo-wants-huffington-post-badly: amanda-ross

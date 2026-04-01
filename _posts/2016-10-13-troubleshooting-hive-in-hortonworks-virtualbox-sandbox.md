@@ -4,11 +4,11 @@ title: "Troubleshooting Hive in Hortonworks Virtualbox Sandbox"
 date: 2016-10-13
 categories: ["Analytics"]
 tags: ["Hadoop"]
-excerpt: "Hive not working in Hortonworks sandbox? Common VirtualBox issues, service startup failures, and the fixes that get your Hadoop environment running."
+excerpt: "While getting started with Hadoop, the [sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) provided by Hortonworks is an easy to use..."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
 author: "thomas-reid"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 While getting started with Hadoop, the [sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) provided by Hortonworks is an easy to use starting point. Once we download the Virtualbox, we can easily import it into our existing VirtualBox Manager. This is assuming we already have a [VM VirtualBox Manager](http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html) installed in our machine and the machine meets the minimum system requirements.
 
