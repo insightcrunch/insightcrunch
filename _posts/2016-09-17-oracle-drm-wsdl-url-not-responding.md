@@ -4,11 +4,11 @@ title: "Oracle DRM WSDL URL not responding"
 date: 2016-09-17
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "DRM WSDL endpoint down? The APIAdapter and DrmService URLs that EBS integration depends on, why they fail, and how to bring them back online."
+excerpt: "The WSDL response pretty much goes often unnoticed in DRM until we try to use it in some way like the GL integration. The APIAdapter?wsdl and the..."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 1
 author: "william-knight"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The WSDL response pretty much goes often unnoticed in DRM until we try to use it in some way like the GL integration. The APIAdapter?wsdl and the oracle-epm-drm-webservices/DrmService?wsdl services usually load fine when the services are up. But I started getting the page cannot be displayed errors one day.
 

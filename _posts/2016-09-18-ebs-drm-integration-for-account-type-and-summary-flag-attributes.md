@@ -4,11 +4,11 @@ title: "EBS DRM Integration for Account Type and Summary Flag attributes"
 date: 2016-09-18
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Account Type and Summary Flag not syncing from DRM to EBS? The integration patch limitations and the workarounds for these specific attributes."
+excerpt: "The DRM to EBS integration using the patches 10632813 and 11659733 are not one of the as flexible integration concurrent program as it may appear..."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 2
 author: "park-jimin"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The DRM to EBS integration using the patches 10632813 and 11659733 are not one of the as flexible integration concurrent program as it may appear, apparently. It is though true that the set-up appears straightforward, configure the patches for the program 'Load Segment Values and Hierarchies', and then configure DRM for the corresponding segment value names. With the 'Allow Export' version property set to True, all the hierarchies within that version for that segment is expected to flow to EBS.
 

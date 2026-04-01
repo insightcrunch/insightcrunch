@@ -4,11 +4,11 @@ title: "3 Essential Sanity Checks for DRM EBS Integration"
 date: 2016-09-18
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Avoid DRM-EBS integration failures. Three essential pre-checks on configuration, connectivity, and data that save hours of troubleshooting."
+excerpt: "The integration between Oracle's amazing master data management tool DRM and Oracle EBS is a pretty stable process given the configurations and..."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "lee-donghyun"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The integration between Oracle's amazing master data management tool DRM and Oracle EBS is a pretty stable process given the configurations and pre-requisites have been taken care fine. But sometimes the concurrent program gives authentication error or invalid credentials error which can be an exhausting process to debug.
 

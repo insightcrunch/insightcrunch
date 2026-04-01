@@ -4,11 +4,11 @@ title: "DRM EBS Integration Find Orphans in EBS"
 date: 2016-09-26
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Orphan values in EBS after DRM sync? How to identify disconnected segment records created during integration and clean them up properly."
+excerpt: "The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often..."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 1
 author: "park-jimin"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often observed during integration with different EBS environments that orphans are sometimes created in EBS. It gives rise to issues during reporting for the transactions for that specific orphan and so becomes necessary to track the orphans and keep them identified for troubleshooting purposes.
 

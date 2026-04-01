@@ -4,11 +4,11 @@ title: "DRM Batch Client Refresh Current and Previous Day Versions"
 date: 2016-09-29
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Daily DRM version refresh automated. How to use Batch Client to create and manage current and previous day versions without manual intervention."
+excerpt: "The Oracle DRM Batch Client is one of the best command-line utility tools that makes this Master Data Management application undoubtedly one of the best."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 2
 author: "robert-quinn"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The Oracle DRM Batch Client is one of the best command-line utility tools that makes this Master Data Management application undoubtedly one of the best. It is nothing complex but provides a Windows batch scripting interface to do all the DRM activities. There's almost nothing I cannot do using the Data Relationship Management Batch Client.
 
