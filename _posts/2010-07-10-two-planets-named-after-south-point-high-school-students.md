@@ -4,11 +4,11 @@ title: "Two planets named after South Point High School students!"
 date: 2010-07-10
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Minor planets named after South Point High School students. MIT and Lincoln Lab honor two Kolkata students with asteroid naming, a first for Bengal."
+excerpt: "Great news for Pointers! Two students of South Point High School in Kolkata will now have minor planets named after them."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 Great news for Pointers! Two students of South Point High School in Kolkata will now have minor planets named after them.
 

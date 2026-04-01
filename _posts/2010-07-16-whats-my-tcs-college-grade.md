@@ -5,11 +5,11 @@ page_title: "TCS College Grading System - How TCS Classifies Colleges into Tiers
 date: 2010-07-16
 categories: ["Industry"]
 tags: ["TCS", "College Grade", "Tier Classification", "Salary Structure"]
-excerpt: "With the joining dates of 2010 batch students going on, candidates are more than ever curious to know what grades would be given to their college. Based..."
+excerpt: "TCS college grading system explained: how TCS grades engineering colleges into tiers, what your college grade means for joining date and ILP placement."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 Among the hundreds of questions that engineering students ask about TCS campus placement, one of the most persistent and least clearly answered is this: does my college grade affect my TCS offer? The answer is nuanced enough to deserve a complete, honest guide. TCS does classify colleges into tiers for its campus recruitment. Those tiers do influence certain aspects of the hiring process - including which profile tiers are available, which batch a candidate joins, and historically, the sequence in which joining dates were issued. But the tiers do not work the way most students assume, and understanding what they actually mean versus what they are rumoured to mean makes a significant practical difference to how students approach their TCS application.
 

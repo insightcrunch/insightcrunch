@@ -4,11 +4,11 @@ title: "Steve Jobs: People voting against Adobe Flash by buying an iPad every 3 
 date: 2010-08-06
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "One iPad sold every 3 seconds means Flash is losing, says Steve Jobs. The moment Apple's anti-Flash crusade started winning the technology war."
+excerpt: "It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with..."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with people giving thumbs up to the iPad, which doesn’t support Flash. Steve Jobs expressed his view on this subject.
 

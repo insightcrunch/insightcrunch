@@ -4,11 +4,11 @@ title: "Chrome Frame: Turn IE 6/7/8 into Chrome"
 date: 2010-07-30
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Stuck on IE6? Chrome Frame injects Chrome's rendering engine into Internet Explorer, giving you modern web standards without switching browsers."
+excerpt: "A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done..."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.
 
