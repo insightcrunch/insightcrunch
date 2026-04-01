@@ -4,11 +4,11 @@ title: "How long will the Meta hiring freeze last?"
 date: 2015-09-22
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "How long before Meta hires again? The signals to watch, what quarterly results need to show, and realistic timeline estimates for the freeze to lift."
+excerpt: "Facebook-owner Meta platforms has been continuously cutting their plans to hire engineers every few months. The recent development suggests the plan is to..."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
 author: "ryan-walsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

@@ -4,11 +4,11 @@ title: "Is Meta going to have layoffs?"
 date: 2015-08-20
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Are more Meta layoffs coming? Analyzing the cost trajectory, revenue trends, and executive signals that suggest whether further cuts are ahead."
+excerpt: "Meta is one of the largest corporations in the world with a variety of products in the social media segment and the virtual reality world. With a great..."
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 2
 author: "marcus-hall"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

@@ -4,11 +4,11 @@ title: "Google Hiring Freeze 2022"
 date: 2015-05-14
 categories: ["Industry"]
 tags: ["Google"]
-excerpt: "Google pauses hiring in 2022. Pichai's slowdown directive, which teams are frozen, and how the hiring pause compares to Meta's and Amazon's cuts."
+excerpt: "Google is one of the largest organizations today in the technological world. In the current economic scenario, where there is a huge chance of a prolonged..."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 8
 author: "ian-fletcher"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

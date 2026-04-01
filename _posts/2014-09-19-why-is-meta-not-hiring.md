@@ -4,11 +4,11 @@ title: "Why is Meta not hiring?"
 date: 2014-09-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "The reasons behind Meta's hiring freeze. Revenue pressure, Metaverse costs, TikTok competition, and the strategic pivot that halted recruitment."
+excerpt: "Meta is one of the largest technology corporations in the world today. The company has seen explosive growth over the last several years. However, the..."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 8
 author: "jason-mckenzie"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

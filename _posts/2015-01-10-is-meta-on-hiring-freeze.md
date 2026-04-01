@@ -4,11 +4,11 @@ title: "Is Meta on hiring freeze?"
 date: 2015-01-10
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Is Meta still on a hiring freeze? The current state of recruitment, recession impact on tech hiring, and signs of when Meta might resume."
+excerpt: "Meta is one of the largest social media and technology companies in the world today. The ongoing recession has cast a deep shadow in the hiring and..."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 8
 author: "benjamin-scott"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

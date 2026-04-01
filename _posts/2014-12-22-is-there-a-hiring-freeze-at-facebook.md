@@ -4,11 +4,11 @@ title: "Is there a hiring freeze at Facebook?"
 date: 2014-12-22
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta froze hiring for engineers and data scientists. The internal warnings, the economic triggers, and what this means for active job seekers."
+excerpt: "Meta has frozen hiring for its engineers and data scientists. The senior management at Meta has warned its employees to prepare for an intense period for..."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 9
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

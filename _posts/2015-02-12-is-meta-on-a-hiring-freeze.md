@@ -4,11 +4,11 @@ title: "Is Meta on a hiring freeze?"
 date: 2015-02-12
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta's freeze in context. How it compares to other tech company hiring pauses, which roles may reopen earliest, and what the market signals say."
+excerpt: "In the current technology sector, there is a recession on the horizon. Even though the recession will globally affect the entire economy, the technology..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 7
 author: "abigail-cooper"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Will Google layoff employees?"
 date: 2015-04-22
 categories: ["Industry"]
 tags: ["Google"]
-excerpt: "Could Google start laying people off? Rising costs, economic pressure, and whether Alphabet's legendary employee perks can survive a downturn."
+excerpt: "Google has been known for years as one of the top companies providing luxurious perks to its employees. Due to rising inflation, and the ongoing economic..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 7
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "How long is IBM hiring process?"
 date: 2015-10-11
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "How long does IBM take to hire? Typical timelines for each interview stage across technical, consulting, and graduate roles with realistic expectations."
+excerpt: "One of the largest corporations today helping in the advancement of multiple fields of technology is IBM. Hundreds of thousands of candidates every year..."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 2
 author: "jason-mckenzie"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 
