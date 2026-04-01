@@ -4,11 +4,11 @@ title: "Azure Fundamentals AZ 900 Practice Exam Microsoft Certification"
 date: 2016-07-14
 categories: ["Industry"]
 tags: ["Exam"]
-excerpt: "The **Microsoft Azure Fundamentals AZ-900** exam is one of the most coveted and essential exams that cover the general knowledge about Microsoft Azure. It..."
+excerpt: "Azure Fundamentals AZ-900 practice exam: cloud concepts, Azure services, security, pricing, and SLA questions to prepare for Microsoft certification."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 32
 author: "benjamin-scott"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 What is AZ-900 Azure Fundamentals?
 

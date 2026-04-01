@@ -4,11 +4,11 @@ title: "IBM Interview Process"
 date: 2016-06-27
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM is one of the oldest, largest, and most successful companies in the world today. Thousands of candidates around the world aspire to be a part of this..."
+excerpt: "IBM interview process from application to offer: online test, technical screening, group discussion, HR interview, and typical timeline for each stage."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 3
 author: "ian-fletcher"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

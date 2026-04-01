@@ -4,11 +4,11 @@ title: "IBM Interview Technical Questions"
 date: 2016-01-12
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "The progress of science has put technology in limelight in this century. Every few months we see incredible progresses being made in different fields of..."
+excerpt: "IBM technical interview questions: common programming, data structure, OS, and networking questions asked in IBM's technical screening rounds."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 2
 author: "abigail-cooper"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

@@ -4,11 +4,11 @@ title: "IBM Interview Questions"
 date: 2016-02-24
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "Leading the technological journey of mankind in this century are some of the largest corporations in the world out of which one is IBM. With hundreds of..."
+excerpt: "IBM interview questions across all rounds: aptitude, technical, HR, and managerial. Real questions from candidates with preparation tips for each stage."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 3
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

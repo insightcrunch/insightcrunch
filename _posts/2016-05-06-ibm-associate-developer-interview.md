@@ -4,11 +4,11 @@ title: "IBM Associate Developer Interview"
 date: 2016-05-06
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM is one of the largest information technology corporations in the world. Employing over hundreds of thousands of employees, IBM has become synonymous..."
+excerpt: "IBM Associate Developer interview experience: selection process, coding test format, technical interview questions, and what IBM looks for in junior hires."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 2
 author: "gregory-marsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

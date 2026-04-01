@@ -4,11 +4,11 @@ title: "IBM Technical Interview Questions"
 date: 2016-04-06
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "IBM is one of the top technology companies in the world today. The scale of innovation and the variety of technologies in which IBM has their presence is..."
+excerpt: "IBM technical interview: programming questions, data structure problems, system design basics, and the technical depth IBM expects from candidates."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 3
 author: "benjamin-scott"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

@@ -4,11 +4,11 @@ title: "DRM Enterprise Manager services not responding"
 date: 2016-09-15
 categories: ["Analytics"]
 tags: ["Master Data Management"]
-excerpt: "Weblogic services down for Oracle DRM? How to check, restart, and fix the Enterprise Manager services that enable DRM-to-EBS integration."
+excerpt: "The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months..."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "ryan-walsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months once setup successfully.
 

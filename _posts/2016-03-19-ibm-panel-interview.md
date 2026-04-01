@@ -4,11 +4,11 @@ title: "IBM Panel Interview"
 date: 2016-03-19
 categories: ["Industry"]
 tags: ["IBM"]
-excerpt: "The new age of technology has seen large corporations invest in the development of advanced machines and technologies. IBM is one of the top software..."
+excerpt: "IBM panel interview format: what to expect when multiple interviewers evaluate you simultaneously, common questions, and how to handle the panel dynamic."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 4
 author: "ian-fletcher"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 
