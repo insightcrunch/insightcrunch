@@ -4,11 +4,11 @@ title: "Experience during GATE Examination"
 date: 2009-05-10
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "I wanted to share this awesome article written by my friend Somdas on his experience during the Graduate Aptitude Test in Engineering 2009. He ranked a..."
+excerpt: "GATE 2009 exam experience: a friend's account of cracking AIR 87 in the Graduate Aptitude Test in Engineering with preparation insights."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 6
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 I wanted to share this awesome article written by my friend Somdas on his experience during the Graduate Aptitude Test in Engineering 2009. He ranked a stunning 87 and is invariably a role model for all examinees. Right now though he’s busy with IIT-Delhi.
 
