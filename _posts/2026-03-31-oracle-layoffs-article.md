@@ -8,7 +8,7 @@ tags: ["oracle layoffs", "tech layoffs 2026", "oracle job cuts", "ai data center
 excerpt: "Oracle laid off up to 30,000 workers on March 31, 2026 to fund its AI data center expansion. Here is everything you need to know."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 55
-author: "Jennifer Sheedy"
+author: "Kim Sheedy"
 last_updated: 2026-03-31
 ---
 On the morning of March 31, 2026, tens of thousands of Oracle Corporation employees across the United States, India, Canada, Mexico, and Uruguay woke up to find a single email from "Oracle Leadership" waiting in their inboxes. Sent at approximately 6 a.m. local time, the message informed them that their roles had been eliminated as part of a broader organizational change, that the day of the email was their final working day, and that access to company systems would be cut immediately. There was no advance notice from human resources, no prior conversation with a direct manager, and no formal meeting to explain what had happened. Just an email. In a matter of hours, what analysts at investment bank TD Cowen had been forecasting for months became a brutal reality, and Oracle began executing what many consider the largest single layoff event in the company's nearly five-decade history.
