@@ -5,19 +5,18 @@ date: 2013-02-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Seamus Finnigan", "Gryffindor", "Dean Thomas"]
 excerpt: "Seamus Finnigan in Harry Potter: the boy who doubted Harry at the worst moment, found his courage, and became one of Hogwarts' most defiant defenders."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2013-02-22
+last_updated: 2026-04-01
 ---
-
 ## Introduction: The Boy Who Nearly Missed the War
 
 Seamus Finnigan is one of Harry Potter's most instructive minor characters precisely because his error is so comprehensible. He arrives in *Order of the Phoenix* as the boy who does not believe Harry - who has listened to his mother, who has absorbed the Ministry's narrative, who cannot look at the friend he has shared a dormitory with for four years and simply trust what that friend is telling him. He is wrong. He is wrong in a way that matters. And then he changes his mind, and the changing of his mind is one of the series' quieter arguments about what courage actually looks like in ordinary people who are not destined heroes but who have to make choices anyway.
 
 The Seamus of the early books is primarily a comic presence - the boy who has an unfortunate tendency to accidentally set things on fire, whose attempts at magic often produce spectacular and unintended results, whose enthusiasm exceeds his precision in ways that generate both disaster and amusement. He is Dean Thomas's best friend, Ireland's most committed Quidditch fan, and one of the reliable members of the Gryffindor background chorus that gives the series its texture of ordinary school life. He is not central. He is not destined. He is simply there, one of the realistically rendered ordinary students among whom Harry's extraordinary story happens.
 
-![Seamus Finnigan character analysis in Harry Potter](/assets/images/blog/blog-04.webp)
+![Seamus Finnigan character analysis in Harry Potter](/assets/images/blog/blog-52.webp)
 
 And then he is the boy who corners Harry in the dormitory and challenges him: his mother doesn't believe Harry's account of Voldemort's return, and neither does he. The scene is brief and uncomfortable, with the specific quality of the confrontation between friends that has been too long deferred - the kind of challenge that has been building in Seamus all summer while he listened to his mother read him the Ministry's version of events, and that comes out now in the shared space of the dormitory where he and Harry have been sleeping in adjacent beds for four years.
 

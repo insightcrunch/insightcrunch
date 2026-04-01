@@ -5,12 +5,11 @@ date: 2013-02-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Percy Weasley", "Ministry of Magic", "Weasley Family"]
 excerpt: "Percy Weasley in Harry Potter: the son who chose ambition over family, paid the price in isolation, and came back at exactly the right moment."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2013-02-07
+last_updated: 2026-04-01
 ---
-
 ## Introduction: The Son Who Left
 
 Percy Weasley is the Harry Potter series' most complete study in the cost of choosing ambition over love, and in the possibility - not the certainty, but the possibility - of choosing again after you understand what the first choice cost. He leaves his family in the fifth book for reasons that are partly understandable and partly not, disappears from Harry's narrative for most of the sixth book as a name that causes pain when spoken, and returns in the seventh book at the Battle of Hogwarts with an apology and a joke that the series earns by making us wait two books to hear it.
@@ -19,7 +18,7 @@ The journey from prefect to Head Boy to Ministry junior official to estranged so
 
 He is also, beneath the ambition and the priggishness and the specific quality of his self-importance, someone the series seems to genuinely like despite everything. The Percy who appears in the early books - pompous, self-serious, deeply invested in his prefect badge and his Head Boy status and the correct protocols for everything - is presented with the specific affection that family comedy reserves for the too-serious member. He is insufferable in the way that someone who is trying very hard to be excellent in a context that rewards excellence differently than he expects is always slightly insufferable. He takes the wrong things seriously. But taking things seriously is not itself a fault. The series knows this, and it is part of why Percy's eventual redemption is possible and believable: the seriousness that made him capable of the wrong choice is also what makes him capable of the right one.
 
-![Percy Weasley character analysis in Harry Potter](/assets/images/blog/blog-13.webp)
+![Percy Weasley character analysis in Harry Potter](/assets/images/blog/blog-36.webp)
 
 He is also, beneath the ambition and the priggishness and the specific quality of his self-importance, someone the series seems to genuinely like despite everything. The Percy who appears in the early books - pompous, self-serious, deeply invested in his prefect badge and his Head Boy status and the correct protocols for everything - is presented with the specific affection that family comedy reserves for the too-serious member. He is insufferable in the way that someone who is trying very hard to be excellent in a context that rewards excellence differently than he expects is always slightly insufferable. He takes the wrong things seriously. But taking things seriously is not itself a fault.
 
