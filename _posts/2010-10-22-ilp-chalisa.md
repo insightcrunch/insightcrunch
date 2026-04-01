@@ -4,11 +4,11 @@ title: "ILP Chalisa"
 date: 2010-10-22
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "The funniest TCS ILP parody you will read. ILP Chalisa captures Infocity Ahmedabad life in satirical verse. Training, hostel drama, and inside jokes."
+excerpt: "This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 5
 author: "karthik-menon"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author.   
 2nd December ko Infocity me,   

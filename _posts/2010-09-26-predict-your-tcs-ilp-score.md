@@ -5,11 +5,11 @@ page_title: "TCS ILP Score - Complete Guide to Score Calculation, Grading Criter
 date: 2010-09-26
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Score", "Grading System"]
-excerpt: "The ILP at TCS is a really great time for fresh candidates. A transformation phase between the college life and the brand new professional life. A lot of..."
+excerpt: "How to predict your TCS ILP score: the assessment components, weightage of each test, and how different performance levels translate to final ratings."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 45
 author: "shruti-agarwal"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 Your TCS ILP score is the first formal performance measurement of your TCS career. It is not the last - projects, client feedback, manager assessments, and annual appraisals will all contribute to the performance record that shapes the trajectory of the career over years and decades. But the ILP score is the first, and first impressions in professional systems carry weight that later measurements can modify but not fully erase. Understanding how the ILP score is calculated, what a strong score looks like, how it influences the project allocation that follows ILP, and what the score means for the longer arc of the career - this is the knowledge that allows you to approach ILP performance with the right frame and the right preparation.
 
