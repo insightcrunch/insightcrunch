@@ -8,7 +8,7 @@ excerpt: "Um guia de 25.000 palavras baseado em dados reais para engenheiros e p
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 90
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Os dois artigos anteriores desta série mapearam os 20 maiores empregadores de TI do mundo e seus números específicos de demissão, e depois analisaram o papel da Anthropic em acelerar o deslocamento de empregos. Este artigo tem um propósito e um público diferentes. Ele foi escrito para um leitor específico: o engenheiro ou profissional de TI brasileiro que está acompanhando as manchetes sobre 30.000 demissões na Amazon e 15.000 na Microsoft, que sente que o mercado está mudando de baixo dos seus pés, e que quer orientação baseada em evidências em vez de platitudes sobre "abraçar a mudança".
 

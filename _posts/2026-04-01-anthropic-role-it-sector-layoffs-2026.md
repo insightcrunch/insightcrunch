@@ -8,7 +8,7 @@ excerpt: "A deeply researched analysis of how Anthropic - founded explicitly to 
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 90
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 There is a five-floor office building in San Francisco where the first thing visitors receive is a small book. It is the size of the pocket Bibles that proselytisers hand out on street corners, and it contains a 14,000-word essay that the company's CEO, Dario Amodei, wrote in 2024. The essay is called "Machines of Loving Grace," and it envisions AI as the mechanism through which humanity defeats disease, conquers poverty, and achieves scientific progress at a pace that was previously inconceivable. It is a sincere and carefully argued document. Visitors are expected to read it.
 

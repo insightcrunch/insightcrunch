@@ -8,7 +8,7 @@ excerpt: "A 25,000-word evidence-based playbook exclusively for US citizen engin
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 90
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 The previous two articles in this series catalogued the scale of IT sector layoffs globally and Anthropic's specific role in accelerating the employment disruption. This article is different in purpose and in audience. It is written for a single, specific reader: a US citizen who works in engineering or technology, who is watching the headlines about 30,000 Amazon jobs and 15,000 Microsoft jobs and wondering what it means for them, and who wants evidence-based guidance rather than platitudes about "embracing change."
 
