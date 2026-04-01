@@ -9,7 +9,7 @@ excerpt: "The complete SAT guide for Korean students covering registration, comp
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 South Korea sends a large and academically competitive cohort of students to US universities every year, and the SAT is a central part of that pipeline. Korean students bring a distinctive profile to the SAT: strong mathematics preparation from one of the most rigorous school math systems in the world, familiarity with high-stakes standardized testing through the CSAT (대학수학능력시험, Suneung), a deep and institutionalized test preparation culture through hagwons and private tutoring, and the specific English language challenges that arise from the structural differences between Korean and English.
 

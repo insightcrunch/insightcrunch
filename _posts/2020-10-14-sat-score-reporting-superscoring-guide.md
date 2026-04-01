@@ -9,7 +9,7 @@ excerpt: "The complete guide to SAT score reporting covering how scores are calc
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 SAT scores are the most visible output of all the preparation work students invest, and yet most students have a surprisingly shallow understanding of what those numbers actually mean, how they are calculated, and how colleges interpret them. A student who earns a 1350 but does not understand percentile rankings may not know whether that score is competitive for their target colleges. A student who earns a 680 in Math on one sitting and a 720 in Reading and Writing on another may not realize that their superscore is higher than either single-sitting composite. A student who sends scores to the wrong colleges at the wrong time may inadvertently complicate their admissions picture.
 
