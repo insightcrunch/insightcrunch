@@ -5,11 +5,11 @@ page_title: "What Happens if You Fail TCS ILP - Consequences, Bhubaneswar Re-Ass
 date: 2011-01-24
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
-excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
+excerpt: "The final stretch at TCS ILP Bhubaneswar: project phase pressure, PRA preparation, friendships tested, and the bittersweet countdown to completion."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "deepika-joshi"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 The score appeared on the screen. 12.08%. Everything went black.
 

@@ -4,11 +4,11 @@ title: "TCS Joining - The Best Birthday Gift"
 date: 2010-12-23
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "What is the best birthday gift for a fresher? Getting your TCS joining date. A personal story about career beginnings that started on a special day."
+excerpt: "This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 5
 author: "karthik-menon"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author.
 

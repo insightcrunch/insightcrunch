@@ -4,11 +4,11 @@ title: "The Great Businessman"
 date: 2010-12-27
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "What happens when a TCS fresher has nothing to do in the hostel? Creative fiction. A short story written out of sheer ILP boredom."
+excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 5
 author: "natalie-webb"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 

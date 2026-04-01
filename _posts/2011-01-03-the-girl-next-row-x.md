@@ -4,11 +4,11 @@ title: "TCS ILP Experience - The girl next row"
 date: 2011-01-03
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "A TCS ILP guest post that reads like a short story. The train journey, the classroom, the girl in the next row, and how ILP creates memories."
+excerpt: "This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
 author: "rahul-banerjee"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 
