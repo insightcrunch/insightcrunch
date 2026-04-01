@@ -73,10 +73,13 @@ def extract_slug(filename):
 
 
 def match_keywords_in_text(keywords, text):
-    """Check if any keyword appears in text (case-insensitive)."""
-    text_lower = text.lower()
+    """Check if any keyword appears in text as a whole word (case-insensitive).
+    Uses word boundaries to prevent 'uri' matching inside 'restructuring'."""
     for kw in keywords:
-        if kw.lower() in text_lower:
+        # Build pattern: word boundary on each side for ASCII keywords,
+        # simple containment for CJK characters (which self-delimit)
+        pattern = r'(?<![a-zA-Z0-9])' + re.escape(kw) + r'(?![a-zA-Z0-9])'
+        if re.search(pattern, text, re.IGNORECASE):
             return True
     return False
 
