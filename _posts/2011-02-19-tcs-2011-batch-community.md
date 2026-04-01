@@ -5,7 +5,7 @@ page_title: "TCS Batch Community - How to Connect with Fellow Recruits, Build Ne
 date: 2011-02-19
 categories: ["Industry"]
 tags: ["TCS", "Batch Community", "Networking", "Peer Support"]
-excerpt: "The rocking Facebook community is soon going to replace the Orkut community I presume. Just click here in the \\"Like\\" buttons and you will be on your way..."
+excerpt: "The rocking Facebook community is soon going to replace the Orkut community I presume. Just click here in the 'Like' buttons and you will be on your way..."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 45
 author: "kavita-sharma"
