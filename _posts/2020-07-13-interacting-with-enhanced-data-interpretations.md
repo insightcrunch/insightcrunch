@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Let Tableau explain your data automatically. How enhanced interpretations surface patterns, outliers, and insights you might miss on your own."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "nina-petrova"
 last_updated: 2026-03-29
 ---
 As we traverse one of the most uncertain times in our history to a new future where things may never allow us to be the same, informed decision-making in the age of data analytics can go a long way to help see the unseen often right infront of us. Correlation, causality, related dimensions that otherwise would be difficult to interpret easily surfaces up when seen from the right context.

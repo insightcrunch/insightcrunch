@@ -7,7 +7,7 @@ tags: ["IBM"]
 excerpt: "IBM is one of the oldest, largest, and most successful companies in the world today. Thousands of candidates around the world aspire to be a part of this..."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2026-03-29
 ---
 ## Overview

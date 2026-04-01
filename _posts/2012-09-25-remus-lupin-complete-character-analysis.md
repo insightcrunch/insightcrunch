@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Remus Lupin across all Harry Potter books - prejudice survived, shame carried, love found late, and what it means to live with the thing you cannot change."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Quiet Courage

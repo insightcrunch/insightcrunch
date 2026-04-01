@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Narcissa Malfoy across all Harry Potter books - the Death Eater who saved Harry Potter, maternal love as the series' most unexpected heroism."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Lie That Won the War

@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Pune", "Training Center"]
 excerpt: "*This is a guest post by Rahul Gupta. The views expressed are solely of the writer. *"
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-03-28
 ---
 Pune is consistently rated among the best ILP postings in TCS's training network - and the reasons are clear to anyone who has spent time there. A city with a pleasant climate, a massive student and young professional population, excellent food across every price point, rich historical heritage, and a specific cosmopolitan energy that blends Marathi tradition with pan-Indian diversity and international IT company culture. The 44-day or three-month ILP at Pune's CMC campus and the nyati-tower style accommodation has produced some of the most warmly remembered ILP accounts in TCS fresher lore - including the detailed, affectionate account of Rahul and his group of friends whose story runs through this article.

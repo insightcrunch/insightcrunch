@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Does CS research in India actually benefit the industry? A guest post examining the gap between academic research and real-world IT application."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 6
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2026-04-01
 ---
 *This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer science research.*

@@ -8,7 +8,7 @@ tags: ["高考", "清华大学", "录取分数线", "强基计划", "Tsinghua", 
 excerpt: "Complete guide to getting into Tsinghua via Gaokao - scores by province, competitive majors, and strategic approaches."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "feng-lei"
 last_updated: 2026-03-29
 ---
 清华大学，位于北京中关村，是中国乃至全球公认的顶尖高等学府，与北京大学并称"清北"，代表着中国高考志愿填报的最高目标。对于数以百万计参加高考的学子而言，"考进清华"不仅是家庭的期望，更是个人奋斗的极致象征。然而，清华大学究竟需要多少分才能录取？各省的分数线有何差异？哪些专业最具竞争力？强基计划如何申请？本文将系统解答所有关于清华大学高考录取的核心问题，帮助有志于清华的考生和家长制定科学的备考和志愿填报策略。

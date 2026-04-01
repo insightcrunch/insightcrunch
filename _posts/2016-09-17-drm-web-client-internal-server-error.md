@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "DRM services are running but the Web Client shows an internal error? Troubleshooting this baffling scenario where the app is up but the UI is not."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2026-03-29
 ---
 The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling. The application was running fine, the Weblogic and Shared Services were up, the SSO configuration was in place perfectly.

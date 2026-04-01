@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Everything you want to know about Tableau certification. Cost, difficulty, how long it lasts, retake rules, and whether employers actually care."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "nina-petrova"
 last_updated: 2026-03-29
 ---
 In the realm of data analytics and visualization, Tableau stands as a beacon of excellence. Its impact on transforming raw data into meaningful insights is undeniable. If you've ever pondered about Tableau certification, this article, reminiscent of Hemingway's succinct style, brings clarity to your queries and sheds light on the labyrinth of Tableau certification.

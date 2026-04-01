@@ -8,7 +8,7 @@ tags: ["Infosys to Product Company", "Service to Product Switch", "Infosys to Go
 excerpt: "The complete playbook for switching from Infosys to a product company or GCC with skills, resume, and interview strategies."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "priya-mehta"
 last_updated: 2026-03-31
 ---
 Making the switch from Infosys to a product company or Global Capability Center is one of the most frequently attempted and most frequently botched career transitions in Indian technology. The desire to make the move is almost universal among ambitious engineers who have spent a few years in IT services delivery. The actual successful execution of that move is far less common - not because the candidates lack potential, but because most of them misunderstand what the transition actually requires, prepare for the wrong things in the wrong order, and approach the external job market with a services-company mindset that product company interviewers immediately identify and penalise.

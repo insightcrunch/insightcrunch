@@ -8,7 +8,7 @@ tags: ["dhurandhar", "uri", "aditya-dhar", "movie-comparison", "bollywood", "spy
 excerpt: "Dhurandhar vs Uri compared - how Aditya Dhar evolved from a lean war film to an epic spy saga."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "karthik-menon"
 last_updated: 2026-04-01
 ---
 The question that frames this comparison is not which film is better. It is what the distance between them reveals about an artist in the process of becoming. Uri: The Surgical Strike and the Dhurandhar franchise are separated by approximately six years of filmmaking development, three years of production between projects, and an enormous creative ambition gap that the commercial success of Uri made possible but did not guarantee would be reached. The comparison reveals an artist who used a proof of concept to earn the right to attempt something much harder, and who then attempted it with the specific risks and the specific rewards that much harder things produce when they are attempted by someone who has genuinely prepared to attempt them.

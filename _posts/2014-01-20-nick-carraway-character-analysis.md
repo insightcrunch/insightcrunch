@@ -8,7 +8,7 @@ tags: ["the-great-gatsby", "f-scott-fitzgerald", "nick-carraway", "character-ana
 excerpt: "Complete analysis of Nick Carraway - his reliability as narrator, moral complicity, and role in shaping the novel."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2026-03-29
 ---
 Nick Carraway is the most consequential narrator in American literature, and his consequentiality is inseparable from his unreliability. Everything the reader knows about Jay Gatsby, about Daisy Buchanan, about the parties and the shirts and the green light and the Valley of Ashes, is filtered through Nick's consciousness, shaped by his enchantment, limited by his perspective, and colored by the specific form of his moral judgment. Understanding The Great Gatsby requires understanding Nick, because Nick is not simply the vehicle through which the story is delivered; he is a significant part of what the story is about. His relationship to Gatsby, his complicity in the summer's events, his stated principles and his actual practice, the gap between the honest man he believes himself to be and the partial witness he actually is: all of these are the novel's secondary argument, running alongside the primary argument about the American Dream, complicating and enriching it at every turn.

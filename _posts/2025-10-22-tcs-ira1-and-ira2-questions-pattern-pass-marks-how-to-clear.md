@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "IRA", "TCS IRA1", "TCS IRA2", "Aspire", "Fresher"]
 excerpt: "The Initial Readiness Assessments are the first real tests you face at TCS ILP, and they set the tone for everything that follows. IRA1 failure can get..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 25
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2026-03-31
 ---
 The Initial Readiness Assessments are the first real tests you face at TCS ILP, and they set the tone for everything that follows. IRA1 failure can get your training rescheduled to a later batch, costing you weeks or months of career time. IRA2 feeds directly into your cumulative ILP rating. Yet most freshers walk into these assessments with nothing more than a casual skim of Aspire modules and a vague hope that the questions will be easy.

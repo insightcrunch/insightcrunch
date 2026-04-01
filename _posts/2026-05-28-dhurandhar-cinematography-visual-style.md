@@ -8,7 +8,7 @@ tags: ["dhurandhar", "cinematography", "visual-style", "bollywood", "filmmaking"
 excerpt: "How Dhurandhar's cinematography and visual design create tension, atmosphere, and storytelling through the lens."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "arjun-nair"
 last_updated: 2026-03-31
 ---
 The camera in Dhurandhar does not follow the story. It tells a second one. This distinction is the foundation of any serious analysis of the franchise's visual language, because the conventional description of cinematography as "serving the story" misses what the franchise actually does with its visual apparatus. The camera in most commercial films confirms what the dialogue and performance have already communicated: it is a recording instrument that chooses favorable angles and flattering light and efficient cuts. The camera in Dhurandhar argues. It takes positions. It frames Hamza in ways that tell the audience about his psychological state before any dialogue has been spoken, uses color temperature as a geographic and emotional classifier, and moves with a specific logic of stability and instability that tracks the cover's condition in real time. The visual style is the franchise's second screenplay, and reading it alongside the first produces a richer understanding of what the franchise is doing than either screenplay can provide alone.

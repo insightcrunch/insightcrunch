@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Regulus Black in Harry Potter: the Death Eater who turned, reconstructed entirely from artifacts - a hero whose story the series tells without ever showing him alive."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Hero Who Died Unseen

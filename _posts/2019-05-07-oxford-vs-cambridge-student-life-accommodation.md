@@ -8,7 +8,7 @@ tags: ["Oxford vs Cambridge", "Oxford or Cambridge", "Oxbridge Comparison", "Oxf
 excerpt: "Complete comparison of Oxford and Cambridge across student life, accommodation, costs, courses, social culture, sport, city environment, and career outcomes. Everything you need to decide between the two."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 54
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-04-01
 ---
 Oxford and Cambridge are not the same university. They are routinely treated as interchangeable by people who have attended neither, grouped together under the shorthand Oxbridge as though the distinction between them is a minor administrative detail. Students who have attended both - which is rare - and academics who have worked at both - which is more common - tend to have strong views about how different the two institutions are in character, in culture, in physical environment, and in what the experience of being a student there actually feels like.

@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "What questions come on the Tableau Data Analyst exam? Topic coverage, question styles, calculation challenges, and the areas most candidates underestimate."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 13
-author: "Insight Crunch Team"
+author: "maya-chen"
 last_updated: 2026-03-29
 ---
 ## Background

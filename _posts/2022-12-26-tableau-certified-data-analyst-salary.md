@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "How much do Tableau certified analysts earn? Salary data across regions and industries, and whether the certification leads to measurably higher pay."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "nina-petrova"
 last_updated: 2026-03-29
 ---
 ## Background

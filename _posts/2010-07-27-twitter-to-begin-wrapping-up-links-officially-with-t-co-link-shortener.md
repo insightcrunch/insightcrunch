@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "With many changes that have been coming to Twitter, none were as big as this. Now all links that would be posted in Twitter would be shortened in the..."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2026-04-01
 ---
 With many changes that have been coming to Twitter, none were as big as this. Now all links that would be posted in Twitter would be shortened in the t.co/****** format. On one hand this would help cutting down on spam, and on the other, the links can be tracked, as the service will be able to accurately monitor the distribution of each link. Twitter analytics would also be no doubt be immensely benefited by this new feature.

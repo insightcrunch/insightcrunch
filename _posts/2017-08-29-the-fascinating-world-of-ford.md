@@ -7,7 +7,7 @@ tags: ["Nature"]
 excerpt: "Henry Ford did not just build cars. He reshaped society. A look at the assembly line revolution, mass production, and how Ford changed everything."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 6
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-29
 ---
 ![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-53.webp)

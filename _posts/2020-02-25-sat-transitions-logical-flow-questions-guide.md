@@ -8,7 +8,7 @@ tags: ['SAT Transitions', 'SAT Transition Words', 'SAT Transition Questions', 'S
 excerpt: "Master every SAT transition question type with a complete categorization of transition words, logical relationship identification, and proven strategies for choosing the correct connector."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 2026-03-28
 ---
 # SAT Transitions: Master Every Logical Connector Question

@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Does Tableau certification help your career? Real impact on hiring, salary negotiations, project assignments, and how clients perceive certified analysts."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "jordan-ellis"
 last_updated: 2026-03-30
 ---
 Much like the characters in Hemingway's stories who venture into the unknown to find success, Tableau certification offers you the opportunity to chart your own course toward career growth and professional achievement. This article explores how Tableau certification can serve as your ticket to unlocking new levels of career advancement and opening doors to exciting possibilities.

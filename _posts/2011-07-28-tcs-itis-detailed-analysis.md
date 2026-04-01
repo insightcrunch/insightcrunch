@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "It has been quite sometime while the discussion had been going on as to what ITIS actually is. Well, to begin with, ITIS (IT Infrastructure Services) is..."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-28
 ---
 ## Overview

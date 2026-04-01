@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "Need to restrict DRM access by version? How to configure version-level security so each team only sees the data versions they are authorized for."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-03-29
 ---
 Security in Oracle Data Relationship Management is of immense significance in situations where I do not want to give all the application users the full visibility of all the data present. DRM provides the feature to restrict visibility of the existing DRM data at user-level which is amazing and provides the admin a lot of flexibility to work with.

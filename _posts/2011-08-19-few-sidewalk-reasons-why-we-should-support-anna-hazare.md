@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Anna Hazare's movement by the numbers. What recovering black money could do for India: infrastructure, education, healthcare, and governance."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-03-28
 ---
 Hazare says: Bring back the Black Money.  

@@ -8,7 +8,7 @@ tags: ['SAT Score Improvement', 'SAT 1000 to 1200', 'SAT Foundational Skills', '
 excerpt: "The complete guide to improving from a 1000 to 1200 SAT score by building foundational skills in reading, grammar, and math with a structured practice plan."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-03-29
 ---
 # How to Go from 1000 to 1200 on the SAT

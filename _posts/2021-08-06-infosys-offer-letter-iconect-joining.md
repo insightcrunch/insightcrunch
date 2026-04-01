@@ -8,7 +8,7 @@ tags: ["Infosys Offer Letter", "Infosys iConnect Portal", "Infosys Joining Forma
 excerpt: "Complete guide to the Infosys offer letter, iConnect portal walkthrough, documents checklist, background verification, and everything to do between selection and joining."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-29
 ---
 Receiving an Infosys offer letter is the beginning of a new phase, not the end of the process. The weeks between receiving the offer and actually walking into the Mysore campus on joining day involve more steps, more documents, and more potential complications than most selected candidates anticipate. Many candidates who cleared every assessment and interview round have had their joining delayed or, in serious cases, their offers withdrawn because of issues in this post-selection phase.

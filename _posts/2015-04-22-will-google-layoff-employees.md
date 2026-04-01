@@ -7,7 +7,7 @@ tags: ["Google"]
 excerpt: "Could Google start laying people off? Rising costs, economic pressure, and whether Alphabet's legendary employee perks can survive a downturn."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 7
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-03-29
 ---
 ## Background

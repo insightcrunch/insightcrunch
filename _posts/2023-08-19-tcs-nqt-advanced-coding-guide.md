@@ -8,7 +8,7 @@ tags: ["TCS NQT coding", "TCS coding questions", "TCS programming", "TCS advance
 excerpt: "Comprehensive TCS NQT coding preparation with topic-wise strategies, original practice problems, and solutions in three languages."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 render_with_liquid: false
 last_updated: 2026-03-30
 ---

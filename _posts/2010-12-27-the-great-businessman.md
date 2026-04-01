@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "What happens when a TCS fresher has nothing to do in the hostel? Creative fiction. A short story written out of sheer ILP boredom."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 5
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2026-03-28
 ---
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.

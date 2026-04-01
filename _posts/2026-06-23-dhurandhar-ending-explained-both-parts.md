@@ -8,7 +8,7 @@ tags: ["dhurandhar", "ending-explained", "post-credits", "bollywood", "movie-ana
 excerpt: "Both Dhurandhar endings fully explained - post-credits scenes, unanswered questions, and what comes next."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "meera-pillai"
 last_updated: 2026-04-01
 ---
 The Dhurandhar franchise ends twice. Part 1 ends in suspension: the operation continues, the cover holds, and the conclusion is withheld. Part 2 ends in completion that is not resolution: the operation succeeds, the strategic objective is achieved, and Jaskirat Singh Rangi stands in a world that has been changed by everything he spent a decade doing and cannot be changed back. Understanding both endings, and the specific relationship between them, is the final analytical task the franchise sets for its audience. This article completes that task.

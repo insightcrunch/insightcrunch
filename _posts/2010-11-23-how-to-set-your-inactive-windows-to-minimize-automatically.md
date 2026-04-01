@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Keep your desktop clean automatically. This small Windows tool minimizes any window that sits idle for too long. Set the timer and forget about it."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2026-03-28
 ---
 If you want to minimize your windows that have been idle and are left unused for a specific period of time, then you can try this new tool from here. This is going to let you choose when your windows are going to be minimized. You can set the time in seconds.

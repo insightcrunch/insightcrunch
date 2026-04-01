@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Syllabus", "Topic Weightage"]
 excerpt: "Tata Consultancy Services conducts the National Qualifier Test (NQT) for its selection process from a large pool of candidates. Hundreds of thousands of..."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "siddharth-rao"
 last_updated: 2026-03-29
 ---
 The TCS NQT syllabus is not flat - not every topic appears with equal frequency or deserves equal preparation time. Understanding which topics carry the most weight, which topics are the most learnable per hour invested, and which topics produce the highest score return per preparation hour is the strategic foundation of efficient NQT preparation.

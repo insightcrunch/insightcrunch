@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Should you work at Meta? Compensation, perks, growth opportunities, and the real trade-offs employees face between rewards and workplace intensity."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 7
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2026-03-29
 ---
 ## Background

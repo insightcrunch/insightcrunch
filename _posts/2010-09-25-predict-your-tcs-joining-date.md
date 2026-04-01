@@ -8,7 +8,7 @@ tags: ["TCS", "Joining Date", "Prediction", "Fresher Timeline"]
 excerpt: "When will TCS give you a joining date? The patterns behind college grading, batch sequencing, and onboarding timelines that help you predict yours."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-28
 ---
 The period between accepting a TCS offer and receiving a joining date is one of the most anxious and uncertain phases of the early IT career. You have the offer letter. You have accepted it. TCS is your employer on paper. But the specific date when you will walk into an ILP centre and begin the work is unknown - and the unknown arrival of that date is what every fresher refreshes their email and NextStep portal to discover. This guide provides the most complete available framework for understanding when your joining date is likely to arrive, what factors determine it, how to read the signals that predict acceleration or delay, and how to use the waiting period productively regardless of when the date finally comes.

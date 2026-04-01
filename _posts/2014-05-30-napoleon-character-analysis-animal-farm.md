@@ -8,7 +8,7 @@ tags: ["animal-farm", "george-orwell", "napoleon", "character-analysis", "litera
 excerpt: "Deep analysis of Napoleon in Animal Farm - his rise to power, propaganda, terror, and historical parallels."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2026-03-31
 ---
 Napoleon is the most precisely observed villain in twentieth-century political fiction, and the precision of Orwell's observation is what separates the character from simple allegory. He is not a monster in any supernatural sense, not driven by extraordinary cruelty or exceptional malice. He is something more disturbing and more instructive: a being of ordinary appetites and ordinary ruthlessness who is placed in structural conditions that amplify both until they become the organizing principle of an entire social order. The argument Orwell makes through Napoleon is not that Stalin was uniquely evil, though the historical Stalin was extraordinarily destructive. The argument is that specific structural conditions, the absence of accountability, the monopoly of information, the availability of organized violence as an instrument of governance, produce Napoleons reliably, regardless of who the individual happens to be. The character is not a portrait of a man. He is a demonstration of a mechanism.

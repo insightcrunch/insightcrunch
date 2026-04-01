@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Exam Frequency", "Test Schedule"]
 excerpt: "Tata Consultancy Services National Qualifier Test (NQT) is one of the top assessment tests taken by aspiring candidates today. One of the most common..."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-29
 ---
 Of all the logistical questions candidates ask about the TCS NQT, the one that drives the most anxiety is deceptively simple: when exactly does the next test happen? The answer is more nuanced than a fixed annual calendar, and understanding how TCS actually decides NQT frequency - and what that means for your preparation strategy - is genuinely important for anyone planning their TCS hiring attempt.

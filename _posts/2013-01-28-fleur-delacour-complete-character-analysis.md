@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Fleur Delacour in Harry Potter: dismissed as vain and decorative, then revealed as brave, loyal, and possessed of an entirely different kind of power."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Girl Who Was More Than She Seemed

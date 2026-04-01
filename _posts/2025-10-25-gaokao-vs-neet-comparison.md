@@ -8,7 +8,7 @@ tags: ["高考", "NEET", "高考对比", "印度医学考试", "考试比较", "
 excerpt: "深度比较高考与NEET的生物化学深度、医学录取路径、竞争强度与备考文化，全面解析中印两国如何通过不同机制守护医学教育入口。"
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "feng-lei"
 last_updated: 2026-03-31
 ---
 高考与NEET（National Eligibility cum Entrance Test，全国资格暨入学考试），分别是中国和印度进入医学高等教育的核心入口考试。两者都承载着数百万有志于学医的年轻人的梦想，都在各自国家的医学教育体系中扮演着最关键的"门控"角色，也都以极高的竞争强度和严格的筛选机制而闻名于世。

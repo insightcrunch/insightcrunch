@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "TCS ILP Documents", "Joining Documents", "Fresher", "IT Ca
 excerpt: "Missing a single document on Day 1 of TCS ILP can delay your joining, create weeks of administrative headaches, and start your corporate career with..."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 25
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-03-31
 ---
 Missing a single document on Day 1 of TCS ILP can delay your joining, create weeks of administrative headaches, and start your corporate career with unnecessary stress. Every batch has freshers who arrive at the training center only to discover they forgot an affidavit, brought the wrong photograph format, or left a critical mark sheet at home. Their first day of ILP is spent making frantic phone calls to family members instead of settling in with their batchmates.

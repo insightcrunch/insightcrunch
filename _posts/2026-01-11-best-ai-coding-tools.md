@@ -8,7 +8,7 @@ tags: ["ai coding tools", "programming", "code assistant", "developers", "ai too
 excerpt: "A developer's guide to every major AI coding tool with real code tests and comparisons."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2026-03-31
 ---
 Software development has always rewarded people who move fast without breaking things - and AI coding tools have shifted what that speed ceiling looks like. A skilled developer using AI coding assistants consistently produces code faster than one working without them, ships fewer syntax errors, explores more architectural approaches before committing to one, and spends less time hunting through documentation for the right API call. The tools enabling this are no longer experimental - they have been tested at scale across millions of developers, across every major language and framework, and the evidence for their productivity impact is strong enough that most serious software engineering teams are either actively adopting them or actively evaluating them.

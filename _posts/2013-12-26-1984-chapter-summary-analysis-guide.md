@@ -8,7 +8,7 @@ tags: ["1984", "george-orwell", "chapter-summary", "study-guide", "literary-anal
 excerpt: "Chapter by chapter summary and analysis of 1984 - a complete study guide through Orwell's entire novel."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-03-28
 ---
 George Orwell's 1984 is a novel of extraordinary structural precision, and reading it chapter by chapter reveals a design that is as calculated as anything in its political argument. Every scene placement, every pacing decision, every transition between the novel's three parts serves the larger argument about how power operates and what it costs its subjects. The plot that appears on the surface to be a story of rebellion and defeat is, at the structural level, a demonstration: a controlled experiment in which the specific conditions of Winston Smith's world are set up, his rebellion activated, and his destruction conducted with the methodical thoroughness of a scientific procedure.

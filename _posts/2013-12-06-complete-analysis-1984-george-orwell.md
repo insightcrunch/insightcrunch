@@ -8,7 +8,7 @@ tags: ["1984", "george-orwell", "novel-analysis", "literary-analysis", "dystopia
 excerpt: "The definitive analysis of 1984 - its themes, symbols, political warnings, and enduring relevance in the modern age."
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-03-28
 ---
 There is a reason George Orwell's 1984 never leaves the cultural conversation. Decades after its publication, the novel continues to sell millions of copies during moments of political anxiety, its vocabulary seeping so thoroughly into public discourse that most people who use words like "doublethink" and "Newspeak" and "Big Brother" have never read the book itself. That seepage is itself a kind of tribute, but it also obscures what makes 1984 genuinely extraordinary as a work of literature. The novel is not, despite its reputation, primarily a political pamphlet warning us about the dangers of Soviet-style totalitarianism. It is something far more disturbing: a rigorous psychological study of how power colonizes the human mind so completely that the oppressed become the primary architects of their own subjugation.

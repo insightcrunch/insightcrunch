@@ -8,8 +8,8 @@ tags: ["TCS Hostel vs Oxford vs Harvard", "Student Accommodation Comparison", "T
 excerpt: "The definitive comparison of three iconic student accommodation experiences - the TCS ILP hostel, the Oxford college room, and the Harvard dorm. What each is like to live in, what it costs, what community it creates, and what it does to the people who inhabit it."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 56
-author: "Insight Crunch Team"
-last_updated: 2026-03-27
+author: "nandini-sen"
+last_updated: 2026-04-01
 ---
 Three rooms. Three institutions. Three countries. Three entirely different answers to the same fundamental question: what does it mean to house a community of learners?
 

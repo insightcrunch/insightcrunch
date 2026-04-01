@@ -7,7 +7,7 @@ tags: ['考研', 'NPEE', '研究生入学考试', '备考策略']
 excerpt: '一篇面向全国硕士研究生入学考试考生的深度战略指南——涵盖考试架构、择校定专业方法论、政治英语数学专业课四科深度备考策略、复试准备、时间线规划与心态管理，帮助你在这场百万人级别的竞争中建立真正有效的准备体系。'
 image: '/assets/images/blog/blog-08.webp'
 reading_time: 36
-author: 'Insight Crunch Team'
+author: "alex-rivera"
 last_updated: 2026-04-01
 ---
 ## **1. 引言**

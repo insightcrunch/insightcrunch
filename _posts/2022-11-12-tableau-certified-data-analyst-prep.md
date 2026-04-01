@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Preparing for the Tableau Data Analyst certification? Study topics, exam format, time allocation, and the resources that help you pass on the first try."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 14
-author: "Insight Crunch Team"
+author: "jordan-ellis"
 last_updated: 2026-03-29
 ---
 ## Background

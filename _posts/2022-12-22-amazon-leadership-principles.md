@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Why Amazon leadership principles matter for your interview. All 16 principles explained with how they are evaluated during the hiring process."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 13
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2026-03-29
 ---
 ## Background

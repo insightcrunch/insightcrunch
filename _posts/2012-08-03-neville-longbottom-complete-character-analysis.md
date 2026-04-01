@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Neville Longbottom across all Harry Potter books - courage, identity, and the boy who fulfilled the prophecy another way."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2026-03-28
 ---
 ## Introduction: The Boy the Prophecy Almost Named

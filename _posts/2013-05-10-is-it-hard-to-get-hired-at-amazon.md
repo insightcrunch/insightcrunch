@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "How hard is Amazon hiring really? The competition level, what interviewers evaluate, and the preparation that separates offers from rejections."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-03-29
 ---
 ## Background

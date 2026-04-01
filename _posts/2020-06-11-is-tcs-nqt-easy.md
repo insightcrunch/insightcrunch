@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Difficulty Level", "Exam Analysis"]
 excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) consists of various sections like the Foundation and Advanced section. The test is taken by..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "karthik-menon"
 last_updated: 2026-03-29
 ---
 "Is TCS NQT easy?" is one of the most searched questions by engineering students preparing for their first hiring assessment. The honest answer is: it depends entirely on your preparation level - and that honest answer is more useful than either reassurance ("it's easy, don't worry") or intimidation ("it's very hard, prepare for months").

@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "The problems piling up at Meta. Revenue pressure, Metaverse doubts, competitive threats, and whether this is a temporary dip or a lasting decline."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 4
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2026-03-29
 ---
 ## Overview

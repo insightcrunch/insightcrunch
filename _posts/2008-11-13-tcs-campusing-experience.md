@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "TCS campus placement experience: aptitude test pattern, technical interview questions, HR round details, and tips from a selected candidate."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 8
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-04-01
 ---
 ## Background

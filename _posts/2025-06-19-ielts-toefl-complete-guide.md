@@ -8,7 +8,7 @@ tags: ["IELTS preparation", "TOEFL study plan", "study abroad", "study in Canada
 excerpt: "The most comprehensive guide to IELTS and TOEFL preparation: structured study plans, free and paid resource recommendations, section-by-section band score..."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

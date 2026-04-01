@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon hires its employees from a variety of sources across hiring events and college campuses around the world. The reason why it is very hard to get an..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-03-28
 ---
 ## Background

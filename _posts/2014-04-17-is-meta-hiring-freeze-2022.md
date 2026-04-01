@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Is Meta on a hiring freeze? Yes. Zuckerberg's decision to freeze engineering and other roles amid recession fears and the pivot to efficiency."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 8
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-03-29
 ---
 ## Background

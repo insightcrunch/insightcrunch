@@ -8,7 +8,7 @@ tags: ["TCS", "Leadership", "Corporate Governance", "Succession Planning"]
 excerpt: "Here’s an awesome in-depth coverage of how things happened. No doubt why TCS is number one today. Eighteen months ago, some time in the early part of..."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "devendra-patil"
 last_updated: 2026-04-01
 ---
 Few aspects of a company's character are more revealing than how it handles the transfer of its highest leadership. A succession that is rushed, contested, or driven by personality rather than governance discipline exposes fragility at the organisational core. A succession that is planned years in advance, executed with transparency, and results in a prepared leader who builds on rather than dismantles what preceded them reveals a company with genuine institutional depth. By this measure, TCS's record of leadership succession is among the most instructive in Indian corporate history - a case study in how deliberate governance, long-horizon thinking, and genuine mentorship compound across generations to produce an institution that outlasts any individual who leads it.

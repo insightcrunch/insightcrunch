@@ -8,7 +8,7 @@ tags: ["TCS reasoning", "TCS logical reasoning", "TCS reasoning questions", "TCS
 excerpt: "Master TCS Reasoning Ability at both Foundation and Advanced levels. Systematic approaches for every question type, no guesswork."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2026-03-30
 ---
 Reasoning Ability is the section that most TCS NQT candidates underestimate during preparation. Many candidates spend weeks on aptitude formulas and assume reasoning will take care of itself because it "tests common sense." It does not test common sense - it tests systematic logic, and systematic logic is learnable. The difference between a candidate who scores 20/25 in reasoning and one who scores 14/25 is almost never intelligence. It is whether the candidate has a reliable, practiced technique for each question type, or whether they are attempting to solve by intuition under time pressure. This guide provides that technique for every reasoning topic, at both Foundation and Advanced difficulty levels, with worked examples and the common traps that send prepared candidates to the wrong answer.

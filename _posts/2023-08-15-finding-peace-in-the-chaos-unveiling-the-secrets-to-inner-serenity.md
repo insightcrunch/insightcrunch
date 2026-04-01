@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2028", "Thoughts"]
 excerpt: "How to find peace when everything is loud. Practical approaches to inner calm, mindfulness, and serenity that fit into real, busy, imperfect lives."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2026-03-30
 ---
 In the hustle and bustle of today's fast-paced world, the pursuit of peace has become a cherished endeavor. We often find ourselves juggling various responsibilities, striving for success, and managing the never-ending stream of information bombarding us. Yet, amid this chaotic panorama, discovering true peace remains a universal desire.

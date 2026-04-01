@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "Still using Smart View manually for data loads? ODI can automate those repetitive extract-and-load tasks into scheduled, unattended pipelines."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-03-29
 ---
 Oracle Data Integrator provides multiple features to automate almost all manual data extraction and transformation related activities. One such scenario is using Smart View to manually fetch data from the Essbase cubes, maybe weekly or monthly. Often such cases require changing the values of time dimension over the entire scope of the template (maybe to different values for current year and last year, or current month and last month, in adjacent columns, etc) and then retrieve the data to meet our needs. So it might become time-consuming and prone to manual errors.

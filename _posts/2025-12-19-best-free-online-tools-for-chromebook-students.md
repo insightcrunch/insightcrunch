@@ -7,7 +7,7 @@ tags: ["Chromebook", "Student Tools", "Free Tools", "Online Tools", "Education"]
 excerpt: "Chromebooks dominate classrooms and student life, but limited local software can feel like a roadblock. This massive guide covers every free browser-based..."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 32
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-03-31
 ---
 Chromebooks have quietly become the most popular laptop in schools and universities around the world. Their affordability, long battery life, instant boot times, and near-zero maintenance make them the default choice for students on every budget. But there is one challenge that every Chromebook user eventually faces: you cannot install traditional desktop software. No Microsoft Office suite sitting on your hard drive. No Photoshop. No MATLAB. No locally installed Python IDE. Everything has to run inside the Chrome browser.

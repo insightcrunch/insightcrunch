@@ -8,7 +8,7 @@ tags: ["Harvard Houses", "Harvard House Rankings", "Harvard Housing", "Adams Hou
 excerpt: "Complete comparison of all 12 Harvard upperclassman Houses - architecture, room quality, dining, location, social culture, athletics, House traditions, and what each House is really like according to students who have lived there."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 54
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2026-04-01
 ---
 Every Harvard student has an opinion about the Houses. The student in Adams will tell you that Adams is the most interesting House by some margin - more culturally rich, more architecturally distinctive, more socially vibrant than any of the river alternatives. The student in Dunster will point you to the clock tower and the Charles River views and ask what more you could possibly want. The student assigned to a Quad House in the Housing Lottery will, by the middle of sophomore year, have become one of the Quad's most enthusiastic defenders - describing the tight community, the better room sizes, the stronger internal culture - and will have entirely revised the mild disappointment of the Lottery result.

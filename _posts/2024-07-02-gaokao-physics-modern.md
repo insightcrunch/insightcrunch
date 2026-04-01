@@ -8,7 +8,7 @@ tags: ["高考物理", "近代物理", "光电效应", "核物理", "Gaokao Phys
 excerpt: "Master Gaokao modern physics - photoelectric effect, nuclear physics, energy levels, and optional module strategy."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "he-xiaomei"
 last_updated: 2026-03-28
 ---
 高考物理近代物理专题，是整个高中物理知识体系中最"前沿"的部分，涉及20世纪初量子力学和相对论的核心内容。虽然近代物理在高考物理卷中所占分值相对较少（约15至20分），但这部分内容概念新颖、思维方式与经典物理差异明显，容易因概念混淆而失分。同时，近代物理还包含光电效应、能级跃迁、核物理等重要知识点，是高考物理备考中不可忽视的重要组成部分。

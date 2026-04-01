@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Lavender Brown in Harry Potter: dismissed as silly, mauled by Greyback, and fighting at Hogwarts - Rowling's quiet rebuke to everyone who underestimated her."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Character the Narrative Condescends To

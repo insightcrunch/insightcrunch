@@ -8,7 +8,7 @@ tags: ["Infosys vs Wipro vs Cognizant", "Infosys vs Wipro", "Infosys vs Cognizan
 excerpt: "Comprehensive comparison of Infosys, Wipro, and Cognizant across salary, work culture, career growth, digital transformation strategy, appraisal systems, WFH policy, onsite opportunities, and which company suits which career profile."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "pooja-gupta"
 last_updated: 2026-03-29
 ---
 The decision between Infosys, Wipro, and Cognizant is one that thousands of engineering students and experienced professionals face every placement and job-change season. Most available comparisons are either surface-level ("Infosys is bigger, Wipro pays slightly less, Cognizant has good culture") or outdated. The three companies have changed significantly over the past five years: their digital transformation strategies have diverged, their hiring volumes and salary structures have shifted, their work culture norms have evolved post-pandemic, and their market positions have moved.

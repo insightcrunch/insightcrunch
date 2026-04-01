@@ -8,7 +8,7 @@ tags: ['SAT 1200 to 1400', 'SAT Score Improvement', 'SAT 1400 Strategy', 'SAT Mi
 excerpt: "The complete guide to improving from a 1200 to 1400 SAT score by targeting specific weaknesses, refining strategies, and building test-taking precision."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2026-03-29
 ---
 # How to Go from 1200 to 1400 on the SAT

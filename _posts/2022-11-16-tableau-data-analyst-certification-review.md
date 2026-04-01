@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Took the Tableau Data Analyst certification. Here is how the exam went, what was harder than expected, and whether the credential is worth your time."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "nina-petrova"
 last_updated: 2026-03-29
 ---
 ## Background

@@ -8,7 +8,7 @@ tags: ["1984", "george-orwell", "themes", "symbolism", "literary-analysis", "cla
 excerpt: "Every theme and symbol in 1984 explained - power, language, memory, the paperweight, Room 101, and more."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2026-03-28
 ---
 George Orwell wrote 1984 not as a prediction but as a diagnosis, and the themes that run through it are not warnings about a remote and exotic future but observations about tendencies already present in the political world he knew. The novel's enduring power comes from the precision of that diagnosis: each of its major themes is developed not as an abstract proposition but as a lived experience, traced through a specific human consciousness encountering a specific set of conditions. The themes of totalitarian power, the falsification of history, the engineering of language, the destruction of love, and the mechanics of psychological control are not separate concerns that happen to appear in the same novel; they are interlocking dimensions of a single argument about what happens when the instruments of power are developed to their logical extreme.

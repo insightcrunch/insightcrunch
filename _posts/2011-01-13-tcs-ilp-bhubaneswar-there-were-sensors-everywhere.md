@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Rules", "Discipline Policy"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "sneha-reddy"
 last_updated: 2026-03-28
 ---
 Stepping through the security gate at the TCS Kalinga Park campus for the first time, Debapriya noticed the baggage scanners and had an unexpected realisation about his backpack. Previously, the same backpack had served for smuggling alcohol into the private college hostel. The landlord had been "mystified" by why everyone used the same backpack for shopping. Now, at the TCS security check, the backpack's purpose was being assessed by an X-ray scanner rather than a puzzled landlord.

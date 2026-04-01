@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2020", "Thoughts"]
 excerpt: "Happiness hides in the small things. 30 everyday pleasures from a gentle breeze to a good book that bring genuine joy when you stop to notice them."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 4
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-03-30
 ---
 ## Introduction

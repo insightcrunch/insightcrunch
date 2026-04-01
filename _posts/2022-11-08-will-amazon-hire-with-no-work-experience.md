@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "No work experience? Amazon still hires. The entry-level positions that need no prior experience, how to apply, and what training you receive on the job."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2026-03-29
 ---
 ## Background

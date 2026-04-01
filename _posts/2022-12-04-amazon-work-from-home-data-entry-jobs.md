@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Looking for Amazon data entry WFH jobs? What the roles involve, pay rates, skill requirements, and the application process for remote data positions."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2026-03-29
 ---
 ## Background

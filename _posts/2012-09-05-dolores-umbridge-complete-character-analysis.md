@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Dolores Umbridge across all Harry Potter books - bureaucratic cruelty, institutional evil, and the villain who frightens more than Voldemort."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Most Frightening Villain

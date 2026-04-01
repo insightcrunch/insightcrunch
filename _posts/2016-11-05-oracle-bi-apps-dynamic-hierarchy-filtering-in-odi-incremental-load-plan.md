@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "Filter hierarchies dynamically in BI Apps ODI loads. How to restrict dimension data at runtime using variables and conditional logic in load plans."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 5
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-03-29
 ---
 Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension information during the loading processes. There are a variety of ways this can be done, let's take a walk through of few possible mechanisms of how this can be achieved in the Oracle Data Integrator incremental load plan with the maximum amount of flexibility.

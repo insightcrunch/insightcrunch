@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Part-time and remote at Amazon. Which WFH roles offer flexible hours, what the minimum weekly commitment is, and how much part-time positions pay."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-03-29
 ---
 ## Background

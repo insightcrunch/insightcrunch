@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Deep literary analysis of Barty Crouch Jr in Harry Potter - fanaticism, disguise, fatherhood, and devotion."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-03-30
 ---
 ## Introduction: The Son Who Became a Monster

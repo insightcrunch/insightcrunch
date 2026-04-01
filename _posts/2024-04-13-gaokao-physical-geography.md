@@ -8,7 +8,7 @@ tags: ["高考地理", "自然地理", "大气环流", "气候类型", "Gaokao G
 excerpt: "Master Gaokao physical geography - atmospheric circulation, climate types, ocean currents, tectonics, and more."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "feng-lei"
 last_updated: 2026-03-29
 ---
 高考地理自然地理专题，是高中地理知识体系中逻辑性最强、空间思维要求最高的核心板块。自然地理横跨地球运动（自转与公转）、大气环流与气候、水循环与洋流、地质作用与板块构造、自然灾害五大核心模块。在高考地理卷中，自然地理约占40%至50%的分值，且许多自然地理知识是理解人文地理（农业、工业、城市化）的基础。高考自然地理的难点在于要求学生能够在地图（等值线图、区域图、剖面图等）上直观理解地理规律，并将抽象原理应用于具体案例分析。

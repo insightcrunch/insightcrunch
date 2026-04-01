@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Confused about Tableau certification options? Comparison of every available cert on exam difficulty, career relevance, cost, and which to pursue first."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "jordan-ellis"
 last_updated: 2026-03-29
 ---
 ## Background

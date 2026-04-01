@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Aberforth Dumbledore in Harry Potter: the brother who stayed, who grieved, and who quietly saved Harry Potter's life while everyone else followed his brother's plan."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Man Behind the Goats

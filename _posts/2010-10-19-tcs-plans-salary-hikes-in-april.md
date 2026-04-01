@@ -8,7 +8,7 @@ tags: ["TCS", "Salary Hike", "Appraisal", "Increment Cycle"]
 excerpt: "TCS salary hikes coming in April. What the increment cycle looks like, how it affects freshers vs experienced employees, and the growth outlook."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "nikhil-tiwari"
 last_updated: 2026-03-28
 ---
 Salary hikes at TCS are one of the most anticipated and most discussed aspects of TCS employment. The annual increment announcement - typically in April at the start of TCS's fiscal year - affects hundreds of thousands of employees simultaneously and generates intense community discussion about percentages, rating bands, and how individual outcomes compare to the announced average. This guide provides the complete framework for understanding TCS's salary hike process: how the appraisal cycle works, what determines the increment quantum, how ratings translate to percentages, what the historical range of TCS increments has been, how TCS compares to peer companies, and how individual employees can position themselves to receive the highest available increment in their band.

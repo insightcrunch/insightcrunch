@@ -7,7 +7,7 @@ tags: ["solo-dining", "houston", "restaurants", "houston-food", "eating-alone", 
 excerpt: "From BBQ counters to pho shops, Montrose bars to Chinatown dim sum, the guide to eating alone in H-Town."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2026-03-31
 ---
 Houston is the most diverse city in America, and its restaurants prove it. Within a single ten-mile radius, you can eat Vietnamese pho that rivals anything in Saigon, Nigerian jollof rice cooked by a grandmother from Lagos, Tex-Mex fajitas sizzling on a cast-iron plate, brisket smoked for eighteen hours over post oak, xiao long bao from a Taiwanese chef who trained in Shanghai, a plate of goat biryani from an Ismaili Muslim restaurant on Hillcroft, and an omakase prepared by a James Beard-nominated sushi chef. No other American city offers this range. None. And for the solo diner, Houston's staggering diversity is not just a selling point. It is the entire argument.

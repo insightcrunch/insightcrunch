@@ -7,7 +7,7 @@ tags: ["Exam"]
 excerpt: "The **Microsoft Azure Fundamentals AZ-900** exam is one of the most coveted and essential exams that cover the general knowledge about Microsoft Azure. It..."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 32
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2026-03-29
 ---
 What is AZ-900 Azure Fundamentals?

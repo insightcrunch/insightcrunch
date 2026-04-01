@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta's freeze in context. How it compares to other tech company hiring pauses, which roles may reopen earliest, and what the market signals say."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 7
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

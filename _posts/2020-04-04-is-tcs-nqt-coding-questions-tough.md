@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "Tata Consultancy Services conducts the National Qualifier Test (NQT) that is taken by hundreds of thousands of candidates every year. The TCS NQT exam is..."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 100
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-29
 render_with_liquid: false
 ---

@@ -7,7 +7,7 @@ tags: ["ILP", "TCS"]
 excerpt: "The funniest TCS ILP parody you will read. ILP Chalisa captures Infocity Ahmedabad life in satirical verse. Training, hostel drama, and inside jokes."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 5
-author: "Insight Crunch Team"
+author: "karthik-menon"
 last_updated: 2026-03-28
 ---
 This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author.   

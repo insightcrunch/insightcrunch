@@ -8,7 +8,7 @@ tags: ['ENEM', 'Vestibular', 'Preparação', 'Universidade']
 excerpt: 'Um guia autoritativo, estratégico e profundamente prático para a preparação do ENEM — cobrindo a arquitetura do exame, a Teoria de Resposta ao Item...'
 image: '/assets/images/blog/blog-11.webp'
 reading_time: 35
-author: 'Insight Crunch Team'
+author: "juliana-costa"
 last_updated: 2026-03-31
 ---
 ## **1. Introdução**

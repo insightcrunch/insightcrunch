@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Start big, then drill down. How whole-to-part analysis in Tableau reveals insights that get lost when you start with the details first."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "alex-rivera"
 last_updated: 2026-03-29
 ---
 ![](/assets/images/blog/blog-80.webp)

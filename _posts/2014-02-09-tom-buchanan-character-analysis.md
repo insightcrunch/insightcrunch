@@ -8,7 +8,7 @@ tags: ["the-great-gatsby", "f-scott-fitzgerald", "tom-buchanan", "character-anal
 excerpt: "Complete analysis of Tom Buchanan - his violence, racism, privilege, and role as the novel's true antagonist."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-03-29
 ---
 Tom Buchanan is the most dangerous character in The Great Gatsby precisely because he is the most ordinary. He does not have Gatsby's magnificent delusion or Nick's moral complexity or Daisy's trapped charm. He has something more socially significant and more specifically American: the absolute confidence of someone who has never been required to justify anything, the casual cruelty of someone who has never faced consequences, and the specific form of privilege that makes the destruction he visits on others entirely invisible to him as destruction. He does not think of himself as a villain. He does not think about himself at all in moral terms, because his social position has always exempted him from the kind of moral accounting that the Dream's mythology promises everyone but that the class system distributes according to how much insulation wealth and birth provide.

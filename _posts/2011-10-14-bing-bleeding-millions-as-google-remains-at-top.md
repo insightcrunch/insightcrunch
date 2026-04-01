@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Microsoft's Bing is a money pit. Millions spent on the search engine with minimal market share gains. Can Bing ever justify the investment?"
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2026-03-28
 ---
 Microsoft’s Bing search engine has been one of the most recent disasters by any giant organization. Microsoft spent millions of dollars on it’s search engine, advertising it to the fullest potential it can. It integrated Bing search into Internet Explorer, but still, Google continued to firmly stay at the top. Guess why?

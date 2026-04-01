@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic
 excerpt: "Rowling writes women who defy stereotypes and women who embody them, often in the same character. The series' feminism is real but inconsistent, and the inconsistencies reveal the limits of writing revolution from within a traditional narrative structure."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2026-04-01
 ---
 ## Introduction: Revolution and Tradition in the Same Text

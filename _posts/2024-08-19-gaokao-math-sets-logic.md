@@ -8,7 +8,7 @@ tags: ["高考数学", "集合", "逻辑", "充分必要条件", "Gaokao Math", 
 excerpt: "Secure every free point on Gaokao math - sets, logic, propositions, and sufficient/necessary conditions."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "li-wei"
 ---
 
 高考数学集合与逻辑专题，是每年高考数学卷中最稳定的"送分题"板块。集合的基本运算（并集、交集、补集）、逻辑命题（四种命题的关系、充分必要条件）、量词（全称量词与存在量词）以及命题的否定，这些内容每年必考，题型固定，难度相对较低，是高考数学中最值得稳拿满分的板块。

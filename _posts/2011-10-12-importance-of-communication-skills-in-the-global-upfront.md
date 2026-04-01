@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Technical skills get you hired, communication skills get you promoted. Why soft skills are the real differentiator in the global IT workplace."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 4
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-03-28
 ---
 *This is a guest post by Ashish Nandwani.  *

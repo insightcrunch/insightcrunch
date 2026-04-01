@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "How much does Amazon pay remote workers? Hourly rates for customer service, salary ranges for corporate WFH roles, and total compensation details."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-03-29
 ---
 ## Background

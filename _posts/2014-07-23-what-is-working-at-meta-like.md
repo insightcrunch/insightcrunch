@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Working at Meta from the inside. The culture, the perks, the pace, the pressure, and what daily life actually looks like behind the company's walls."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 8
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-03-29
 ---
 ## Background

@@ -8,7 +8,7 @@ tags: ["高考", "立体几何", "空间向量", "高考数学", "Gaokao", "Soli
 excerpt: "高考立体几何完全攻略：空间推理能力的系统培养、常见三维图形的高频考查方向、体积与面积的证明方法、二面角的多种求法、空间向量法与纯几何法的选择策略，以及分步证明的规范化技巧。"
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "wang-yue"
 last_updated: 2026-04-01
 ---
 立体几何是高考数学中另一个重要的几何模块，与解析几何一起构成高考数学几何部分的双核心。立体几何考查的不只是知识，更是空间想象力和逻辑推理能力的综合运用。

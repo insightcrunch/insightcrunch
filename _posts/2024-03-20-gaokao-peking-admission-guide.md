@@ -8,7 +8,7 @@ tags: ["高考", "北京大学", "录取分数线", "强基计划", "Peking Univ
 excerpt: "Complete guide to getting into Peking University via Gaokao - scores, PKU vs Tsinghua, and strategic approaches."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "liu-jian"
 last_updated: 2026-03-29
 ---
 北京大学，坐落于北京海淀区燕园，是中国历史最悠久、综合实力最强的高等学府之一。与清华大学共同构成"清北"双子星，北京大学在人文社科、基础科学、法学、医学等众多领域代表着中国高校的最高水平。对无数高考学子而言，"考上北大"是人生奋斗的至高目标。本文将全面解析北京大学高考录取的核心问题：如何判断自己能否进北大、北大与清华如何选择、元培学院是什么、强基计划如何申请，以及博雅计划和各类特殊招生渠道的实际价值。

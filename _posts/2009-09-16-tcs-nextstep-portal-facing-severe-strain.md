@@ -8,7 +8,7 @@ tags: ["TCS", "NextStep Portal", "Registration", "Application Guide"]
 excerpt: "TCS has made it really simple for selected candidates to keep their selves updated regarding the developments in the company with their NextStep portal."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "arjun-nair"
 last_updated: 2026-04-01
 ---
 The TCS NextStep portal is the single point of entry for every candidate who wants to apply to TCS, track their application, download their offer letter, or manage their pre-joining documentation. If you are pursuing a TCS career - whether through campus placement, off-campus hiring, or experienced professional recruitment - the NextStep portal is where your journey begins, and understanding it thoroughly removes one of the most common sources of candidate frustration in the TCS hiring process. This guide covers everything: how to register, how to navigate each section, what to do when things go wrong, and how to use the portal strategically to maximise your chances and manage your application effectively.

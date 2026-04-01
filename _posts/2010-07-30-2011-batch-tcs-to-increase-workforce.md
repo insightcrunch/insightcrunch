@@ -8,7 +8,7 @@ tags: ["TCS", "Workforce Growth", "Headcount", "Mass Hiring"]
 excerpt: "Tata Consultancy Services, India’s largest outsourcing company, plans to increase its workforce by a quarter to help drive expansion into fast-growing..."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "sneha-reddy"
 last_updated: 2026-04-01
 ---
 When TCS announces that it will add tens of thousands of employees in a single year, the announcement is more than a corporate headline. For hundreds of thousands of engineering graduates across India, it is the signal that determines whether this will be a year of joining calls or a year of waiting. For TCS's existing employees, it shapes project availability, promotion velocity, and workload intensity. For clients and investors, it reflects confidence in the demand trajectory that TCS's management is willing to back with major cost commitments. Understanding how TCS's workforce expansion actually works - the mechanics of how it decides on hiring volumes, how it manages the logistics of adding and training tens of thousands of people, and what the patterns in those decisions reveal about TCS's business health - is practical intelligence for anyone whose professional life connects to TCS.

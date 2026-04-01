@@ -8,7 +8,7 @@ tags: ["lord-of-the-flies", "william-golding", "novel-analysis", "literary-analy
 excerpt: "The definitive analysis of Lord of the Flies - savagery, civilization, symbolism, and Golding's dark vision."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2026-03-29
 ---
 Lord of the Flies is the most disturbing novel most people will ever read in school, and it achieves this distinction not through graphic violence or supernatural horror but through something far more unsettling: the systematic, meticulously observed demolition of every comforting assumption we hold about what it means to be civilized. William Golding places a group of English schoolboys on an uninhabited tropical island, gives them no adults, no rules, and no external authority, and then watches, with the cold precision of a scientist conducting an experiment, as they descend from parliamentary democracy into tribal savagery, from rational cooperation into murderous frenzy. The genius of the novel is not that the boys become savage; it is that Golding makes the reader understand, with a clarity that is almost physical in its force, that the savagery was always there, that civilization is not a natural human condition but a fragile, temporary, and infinitely precarious invention that requires constant maintenance and that collapses the moment the structures sustaining it are removed.

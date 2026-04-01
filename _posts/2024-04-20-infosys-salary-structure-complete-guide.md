@@ -8,7 +8,7 @@ tags: ["Infosys", "Infosys Salary", "Infosys CTC", "Infosys In-Hand Salary", "In
 excerpt: "Detailed Infosys salary breakdown at every level from fresher to manager with in-hand calculations after all deductions."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "pooja-gupta"
 last_updated: 2026-03-31
 ---
 Understanding your Infosys salary is not as simple as looking at the CTC number in your offer letter. The figure printed on that document is a composite - a sum of components that behave very differently from one another. Some are paid monthly in full. Some are partially retained for retirement. Some arrive once or twice a year. Some depend entirely on your performance rating and your project's delivery outcomes. And some are not cash at all, but benefits that reduce your out-of-pocket expenses without appearing in your bank account.

@@ -8,8 +8,8 @@ tags: ['SAT Score Benchmarks', 'SAT Scores by College Tier', 'SAT Scores for Eng
 excerpt: "The complete guide to SAT score benchmarks organized by college selectivity tier and popular academic majors with realistic score targets for each combination."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 45
-author: "Insight Crunch Team"
-last_updated: 2026-03-27
+author: "sophia-turner"
+last_updated: 2026-04-01
 ---
 The question "What SAT score do I need?" cannot be answered without knowing where you want to go and what you want to study. A score that is excellent for nursing admission at a state flagship may be below average at a highly selective private university. A score that makes you competitive for a liberal arts major at one institution may fall short of the expectations for engineering at that same institution. SAT score benchmarks are always relative, institution-specific, and in many cases program-specific, and treating them as universal standards produces preparation targets that are either inadequately ambitious or unnecessarily demanding.
 

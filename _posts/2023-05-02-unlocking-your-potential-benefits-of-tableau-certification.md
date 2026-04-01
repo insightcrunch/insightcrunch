@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "What do you actually get from Tableau certification? Beyond the badge: career credibility, validated skills, networking access, and measurable returns."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "jordan-ellis"
 last_updated: 2026-03-30
 ---
 In the literary world, Hemingway's writing is celebrated for its impact and resonance. Similarly, Tableau certification has the potential to profoundly impact your career by enhancing your expertise in data visualization and analytics. This article delves into the myriad benefits of becoming Tableau certified and how it can unlock doors to professional success.

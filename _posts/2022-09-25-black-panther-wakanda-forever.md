@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Wakanda Forever without Chadwick Boseman. How Marvel's Black Panther sequel honors the late star while introducing Namor and expanding the MCU."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2026-03-29
 ---
 ## Movie Review

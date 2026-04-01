@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "Confused between IT and ITIS at TCS? Head-to-head comparison of work type, daily tasks, skill requirements, and long-term career trajectory."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-28
 ---
 ## Overview

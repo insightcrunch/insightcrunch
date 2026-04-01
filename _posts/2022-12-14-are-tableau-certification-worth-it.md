@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Should you invest in Tableau certification? Honest analysis of career impact, salary difference, employer expectations, and when it actually pays off."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "maya-chen"
 last_updated: 2026-03-29
 ---
 ## Overview

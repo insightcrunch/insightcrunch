@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "First and foremost there are some assumptions to be made before this article gets underway. Many of us use Photoshop and other image editing software..."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2026-04-01
 ---
 First and foremost there are some assumptions to be made before this article gets underway. Many of us use Photoshop and other image editing software, well, if you are not, no problems. But you have to decide how much of post-photo processing you are ready to do. If you are ready to work a lot on your pictures (if you have a large collection you can be well spending several days depending on how much attention you put to the details), then you might find the settings below useful.

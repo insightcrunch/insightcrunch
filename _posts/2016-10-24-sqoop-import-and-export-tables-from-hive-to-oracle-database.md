@@ -7,7 +7,7 @@ tags: ["Hadoop"]
 excerpt: "Move data between Oracle and Hive with Sqoop. Import/export commands, connection setup, common errors, and the best practices for reliable transfers."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 6
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-03-29
 ---
 ## Overview

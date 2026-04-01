@@ -7,7 +7,7 @@ tags: ["Nature"]
 excerpt: "The American Southwest calls you back every time. Red rock canyons, endless desert, and landscapes that photographs can never fully capture."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "sneha-reddy"
 last_updated: 2026-03-29
 ---
 A trip to the southwest USA creates excitement even when we just imagine it, even though it is not my first time. It was during late winter that we started to plan a trip, but due to various changes in our lives things were regularly getting re-prioritized, until the month of August. It was extremely difficult to finalize a list of destinations, there were just too many to cover. My preference always lies towards places untouched by man, not that am not pro-progress, but the simple fact that we can unwind to unseen beauties and see the same things which has witnessed such notable historical events, listen to the amazing stories of the local people, the fact that so many lifeless mammoth rocks can be worshiped, and a cave that failed to serve as a hideout during invasion from the east leading to hundreds being dead, or a view from one of the toughest hiking destinations in the world, driving via an amazing scenic road that can only be felt by our senses, each such fact, moment and place gives so much intensity and meaning to the time and place we are in, it helps makes my decisions a lot less difficult.

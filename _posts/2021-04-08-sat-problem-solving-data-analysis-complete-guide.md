@@ -8,7 +8,7 @@ tags: ['SAT Problem Solving', 'SAT Data Analysis', 'SAT Statistics', 'SAT Probab
 excerpt: "Master every SAT Problem Solving and Data Analysis topic including ratios, percentages, statistics, probability, and data interpretation with worked examples."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2026-03-29
 ---
 # SAT Problem Solving and Data Analysis: The Complete Guide

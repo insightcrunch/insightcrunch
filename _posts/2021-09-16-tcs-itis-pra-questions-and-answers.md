@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "The TCS Information Technology Infrastructure Services module is one of the most popular service industry modules today. The demand and criticality to..."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 35
-author: "Insight Crunch Team"
+author: "vikram-iyer"
 last_updated: 2026-03-29
 ---
 ## Overview

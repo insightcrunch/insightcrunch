@@ -8,7 +8,7 @@ tags: ['SAT Advanced Math', 'SAT Quadratic Equations', 'SAT Polynomials', 'SAT E
 excerpt: "Master every SAT Advanced Math topic including quadratics, polynomials, exponentials, rational expressions, and radicals with worked examples and score-boosting strategies."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-03-29
 ---
 # SAT Advanced Math: Quadratics, Polynomials, and Beyond

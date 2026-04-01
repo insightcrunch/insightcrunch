@@ -7,7 +7,7 @@ tags: ["Infosys"]
 excerpt: "Infosys campus placement experience: a guest post covering the selection rounds, programming questions, and what helped crack the interview."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 5
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-04-01
 ---
 This is a guest post by Nirmalya Roy Chowdhury who had got his dream of getting placed in Infosys fulfilled in February 2008. Extremely fond of programming, he is a really pragmatic and cool guy to hang out with.

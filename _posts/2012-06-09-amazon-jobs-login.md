@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Can't find your Amazon jobs login? Step-by-step guide to accessing the application portal, checking your hiring status, and managing your profile."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-03-28
 ---
 ## Background

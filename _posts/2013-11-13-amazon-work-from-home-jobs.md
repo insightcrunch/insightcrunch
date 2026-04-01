@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon WFH opportunities. Customer service, tech support, and corporate remote roles with details on pay, schedule, and the application process."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 9
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-03-29
 ---
 ## Amazon Remote Work

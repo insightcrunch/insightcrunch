@@ -8,7 +8,7 @@ tags: ["高考物理", "力学", "牛顿定律", "动量", "Gaokao Physics", "Me
 excerpt: "Master Gaokao physics mechanics - Newton's laws, projectile motion, circular motion, energy, and momentum conservation."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "yang-bo"
 last_updated: 2026-03-28
 ---
 高考物理力学专题，是整个高中物理知识体系中分值最重、综合性最强的核心板块。从牛顿三定律到动量守恒，从匀变速运动到抛体运动，从功能定理到能量守恒，力学知识在高考物理卷中占据约 40% 至 50% 的分值，是决定高考物理成绩的关键板块。力学的难点不只在于公式繁多，更在于多种物理规律的综合运用，以及从复杂物理情景中建立正确数学模型的能力。

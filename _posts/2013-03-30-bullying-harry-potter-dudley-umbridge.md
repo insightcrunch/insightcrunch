@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic
 excerpt: "Rowling presents bullying not as individual cruelty but as a system that operates identically whether the bully is an eleven-year-old on a playground or a government official with institutional power. The mechanism is always the same."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Mechanism Is Always the Same

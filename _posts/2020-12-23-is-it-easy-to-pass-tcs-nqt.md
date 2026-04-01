@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Pass Strategy", "Minimum Preparation"]
 excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is taken by thousands of candidates every year. Aspirants come from diverse backgrounds and..."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-29
 ---
 There are two questions you should be asking about passing TCS NQT. The first is "what is the minimum I need to do?" - valid when time is constrained and you want the most efficient path to a qualifying result. The second is "how do I maximize my score?" - valid when you have adequate time and want the best possible outcome, including Digital track consideration.

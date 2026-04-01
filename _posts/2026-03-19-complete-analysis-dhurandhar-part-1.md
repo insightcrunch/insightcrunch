@@ -8,7 +8,7 @@ tags: ["dhurandhar", "ranveer-singh", "bollywood", "movie-analysis", "spy-thrill
 excerpt: "The definitive analysis of Dhurandhar Part 1 - themes, performances, box office, and why it changed Bollywood forever."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-03-29
 ---
 Bollywood has spent the better part of two decades trying to make a spy thriller that does not insult the audience's intelligence, and it took Aditya Dhar, a director with exactly one previous feature to his name, to finally crack the code. Dhurandhar is not merely a good Indian spy film; it is the film that forced an entire industry to reckon with the gap between what it had been producing in the espionage genre and what was actually possible. With a runtime that stretches past three and a half hours, an ensemble cast that includes some of the finest actors working in Hindi cinema, and a narrative scope that draws loosely from decades of real geopolitical events across South Asia, this first installment of a two-part saga arrives with the confidence of a filmmaker who knows exactly what story he wants to tell and refuses to compromise on a single frame. The result is a film that is simultaneously a visceral action spectacle, a character-driven drama about the cost of living undercover, and a sprawling espionage narrative that trusts its audience to keep up with a dense web of allegiances, betrayals, and geopolitical chess moves.

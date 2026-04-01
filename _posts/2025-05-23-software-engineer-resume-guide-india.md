@@ -8,7 +8,7 @@ tags: ["software engineer resume", "ATS resume", "Naukri profile", "LinkedIn opt
 excerpt: "The complete software engineer resume guide for the Indian job market: ATS-friendly formatting, impact-driven bullet writing, keyword strategy, project..."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 52
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

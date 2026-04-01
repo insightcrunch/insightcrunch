@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "A TCS ILP guest post that reads like a short story. The train journey, the classroom, the girl in the next row, and how ILP creates memories."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-28
 ---
 This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author.

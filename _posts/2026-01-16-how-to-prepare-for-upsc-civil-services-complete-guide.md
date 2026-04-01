@@ -8,7 +8,7 @@ tags: ['UPSC', 'IAS', 'Civil Services', 'Preparation']
 excerpt: 'An authoritative, strategic, and deeply practical guide to preparing for the UPSC Civil Services Examination — covering the three-stage architecture...'
 image: '/assets/images/blog/blog-06.webp'
 reading_time: 35
-author: 'Insight Crunch Team'
+author: "deepika-joshi"
 last_updated: 2026-03-31
 ---
 ## **1. Introduction**

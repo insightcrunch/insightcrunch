@@ -8,7 +8,7 @@ tags: ["Google interview preparation", "Amazon SDE interview", "Flipkart intervi
 excerpt: "The most complete company-wise interview preparation guide for Indian software engineers: round-by-round breakdowns for Google, Amazon, Microsoft..."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "karthik-menon"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

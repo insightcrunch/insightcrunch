@@ -8,7 +8,7 @@ tags: ["TCS", "Outsourcing", "IT Demand", "Global Trends"]
 excerpt: "Is IT outsourcing demand really weakening? TCS pushes back against the CLSA brokerage report and reassures employees and freshers about growth."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2026-03-28
 ---
 Every few months, a brokerage report lands in the financial press, a consultancy publishes a market study, or a prominent technology executive makes a comment that sets off a wave of speculation: Is IT outsourcing demand weakening? Are global companies pulling back from offshore models? Is the business that underpins TCS's entire existence facing structural erosion?

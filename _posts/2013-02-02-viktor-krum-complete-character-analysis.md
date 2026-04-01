@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Viktor Krum in Harry Potter: the most famous teenage athlete in the wizarding world, who turns out to be defined not by his fame but by his silence, his integrity, and what he chooses to love."
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Boy Inside the Legend

@@ -8,7 +8,7 @@ tags: ['CPNS', 'ASN', 'Seleksi PNS', 'Tes CPNS']
 excerpt: 'Panduan strategis, autoritatif, dan sangat praktis untuk mempersiapkan seleksi CPNS — mencakup arsitektur ujian SKD dan SKB, strategi per subtema...'
 image: '/assets/images/blog/blog-30.webp'
 reading_time: 35
-author: 'Insight Crunch Team'
+author: "budi-santoso"
 last_updated: 2026-03-31
 ---
 ## **1. Pendahuluan**

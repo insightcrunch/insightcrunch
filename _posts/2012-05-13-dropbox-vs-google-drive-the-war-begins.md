@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Google Drive challenges Dropbox's cloud storage throne. Storage limits, pricing, ecosystem integration, and why this competition matters for everyone."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-03-28
 ---
 When the emperor is proudly marching forward conquering everything that comes it’s way, can he leave behind a kingdom that is being defended securely by its rivals over the years? Definitely not. Despite rumors that kept on emerging over the last few years, Google did not launch its Google Drive until this year. And launched it has, with seamless integration into all its services making it right away the cloud storage candy for computer lovers.

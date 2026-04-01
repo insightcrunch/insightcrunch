@@ -8,7 +8,7 @@ tags: ["Cinema", "India", "History", "Open Letter", "Geopolitics"]
 excerpt: "Hamza writes to Aditya Dhar with gratitude and restlessness, then lays out India's unwritten mission stories across borders, oceans, embassies, centuries, and the quiet rooms where nations are truly defended."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-29
 ---
 

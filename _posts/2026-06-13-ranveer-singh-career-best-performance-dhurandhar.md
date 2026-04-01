@@ -8,7 +8,7 @@ tags: ["ranveer-singh", "dhurandhar", "bollywood", "actor-analysis", "performanc
 excerpt: "Why Dhurandhar is Ranveer Singh's career-defining performance and what it reveals about his evolution as an actor."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-04-01
 ---
 The argument for why Dhurandhar is Ranveer Singh's career-best performance is not the argument most people expect. It is not that the role is the most technically demanding in his career, though it may be. It is not that the transformation is the most physically dramatic, though the physical specificity of the Hamza performance is extraordinary. The argument is more specific and more important: Dhurandhar is the first time in Singh's career that the audience stops watching Ranveer Singh and starts watching Jaskirat Singh Rangi becoming Hamza Ali Mazari. For the first time, the star disappears into the character so completely that what replaces the star is not a performance but a person.

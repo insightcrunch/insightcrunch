@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "Slow ODI loads? The right indexes and keys can transform performance. When to add them, which types matter, and the impact on your ETL pipeline."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2026-03-29
 ---
 The Oracle Data Integrator load plans involve extracting and loading large volumes of data and then transforming them as per requirements. Often the volume of data becomes a bottleneck and the execution timings goes beyond the acceptable limits. That is when some of the age-old practices of performance improvement using keys and indexes come in.

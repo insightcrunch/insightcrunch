@@ -8,7 +8,7 @@ tags: ["高考历史", "中国近现代史", "鸦片战争", "改革开放", "Ga
 excerpt: "Master Gaokao modern Chinese history - from the Opium Wars through revolution to reform and opening up."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "he-xiaomei"
 last_updated: 2026-03-29
 ---
 高考历史中国近现代史专题，是整个高考历史体系中时间跨度最短、却变化最剧烈的部分。从1840年鸦片战争至今，不过一百八十余年，中国经历了从封建王朝覆灭、半殖民地半封建社会、民族民主革命，到社会主义建设和改革开放的深刻历史巨变。中国近现代史在高考历史卷中通常占据约35%至40%的分值，是重中之重。近现代史的命题越来越强调历史解释能力和史料分析，要求考生既掌握基本史实，又能理解历史进程的内在逻辑。

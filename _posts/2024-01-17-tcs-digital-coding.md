@@ -8,7 +8,7 @@ tags: ["TCS Digital coding", "TCS advanced coding", "TCS CodeVita", "competitive
 excerpt: "Competitive programming preparation for TCS Digital. Advanced DSA topics, original problems with solutions, and a 45-day roadmap."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "meera-pillai"
 last_updated: 2026-03-30
 ---
 The TCS Digital Advanced Coding section is the single highest-leverage preparation target for candidates who want the Digital profile. Everything else - Foundation aptitude, verbal, reasoning - gets you into the pool. Coding performance determines which pool you end up in. A candidate who solves both Advanced Coding problems fully and correctly will almost certainly receive a Digital offer. A candidate who solves neither will likely receive Ninja or nothing. The gap between these outcomes is not talent - it is preparation. This guide maps the exact topics, patterns, and problem types that TCS Digital coding tests, provides original problems with complete solutions in both Java and C++, and gives you a 45-day roadmap to get there from wherever you are starting.

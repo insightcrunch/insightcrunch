@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Everything about Tableau certification in one guide. Exam types, costs, study plans, preparation strategies, and realistic career impact assessment."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 5
-author: "Insight Crunch Team"
+author: "alex-rivera"
 last_updated: 2026-03-30
 ---
 ## Background

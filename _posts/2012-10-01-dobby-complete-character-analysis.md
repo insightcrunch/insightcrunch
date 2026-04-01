@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Dobby across all Harry Potter books - slavery, selfhood, chosen loyalty, and the death that hit hardest."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Free Elf

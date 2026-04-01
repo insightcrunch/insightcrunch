@@ -8,7 +8,7 @@ tags: ["sarkari naukri", "government job", "SSC", "UPSC", "railway exam", "sarka
 excerpt: "The most comprehensive guide to Sarkari Naukri in India: every major government exam category explained with eligibility, selection process, salary..."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 48
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

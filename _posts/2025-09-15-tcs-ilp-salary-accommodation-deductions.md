@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "TCS ILP Salary", "TCS Salary", "Fresher", "IT Career", "Ac
 excerpt: "How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? These..."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 25
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2026-03-31
 ---
 How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? Can you survive on the ILP salary without dipping into savings?

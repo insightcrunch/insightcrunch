@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Does Amazon have WFH jobs? Yes, across customer service, tech support, and corporate functions. Here are the roles, pay, and how to apply."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-03-29
 ---
 ## Background

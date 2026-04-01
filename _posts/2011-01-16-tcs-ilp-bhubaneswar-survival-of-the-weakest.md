@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Survival Tips", "Non-CS Candidates"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "siddharth-rao"
 last_updated: 2026-03-28
 ---
 The programme coordinator's announcement hit with the specific weight of a starting gun: "There will be two exams in a gap of fourteen days each. The passing percentage is very low this year. Who fails to score over 50% will be given two chances. If you miss the chances you may try next year." Standing in the balcony of the residential facility that night, a cigarette in hand, the narrator of the original account found himself unable to "set the starting point." Big waves, small boat, no compass in the middle of the sea.

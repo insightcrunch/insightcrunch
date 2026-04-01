@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "Hitting 'File Does not Exist' in Oracle DRM? This error during export/import operations has a specific cause and a straightforward resolution."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-03-29
 ---
 One of the most interesting issues faced till today is the below message while during any Export Import or Query activities in the DRM Web Client:

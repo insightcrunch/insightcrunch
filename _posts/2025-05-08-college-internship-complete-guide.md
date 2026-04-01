@@ -8,7 +8,7 @@ tags: ["paid internship", "internship no experience", "ATS resume", "internship 
 excerpt: "The most complete college internship guide: where to find paid internships, how to build an ATS-friendly resume with no experience, cover letter..."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

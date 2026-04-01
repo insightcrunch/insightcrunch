@@ -8,7 +8,7 @@ tags: ["TCS salary", "TCS Ninja salary", "TCS Digital salary", "TCS salary struc
 excerpt: "Complete TCS salary breakdown for every profile. CTC components, take-home calculations, increments, and 5-year growth projections."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "priya-mehta"
 last_updated: 2026-03-30
 ---
 Salary is the question every TCS candidate asks first and the one that gets the most incomplete answers on the internet. Figures circulate without context - a CTC number quoted without explaining what that translates to in actual monthly take-home, or a take-home figure without showing how PF, tax, and professional tax reduce the gross. This guide gives you the complete picture for every TCS hiring profile: the CTC components, the real take-home calculations, what the Bouquet of Benefits actually means in practice, how increments work, and what the trajectory looks like over five years. Whether you are deciding between TCS profiles, comparing TCS with other companies, or planning your finances before your joining date, this is the reference you need.

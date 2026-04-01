@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is one of the most popular tests today. The assessment test is taken by candidates from..."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
-author: "Insight Crunch Team"
+author: "pooja-gupta"
 last_updated: 2026-03-29
 ---
 ## Overview

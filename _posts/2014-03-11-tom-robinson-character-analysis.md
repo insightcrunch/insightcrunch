@@ -8,7 +8,7 @@ tags: ["to-kill-a-mockingbird", "harper-lee", "tom-robinson", "character-analysi
 excerpt: "Complete analysis of Tom Robinson - his trial, dignity under persecution, and what his fate reveals about justice."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2026-03-29
 ---
 Tom Robinson is the person at the center of To Kill a Mockingbird's most urgent argument and the character the novel is least able to fully render. He is the innocent man destroyed by a system that was never built to protect him, the mockingbird whose killing is the novel's central sin, and the human being whose inner life, fear, grief, hope, and despair, remains largely inaccessible to the reader because the narrative perspective through which everything in the novel is filtered does not extend to his experience. This double condition, central to the argument and peripheral to the narration, is the most important and most honest thing to say about Tom Robinson as a character, and it belongs at the beginning of any serious analysis of him rather than at the end.

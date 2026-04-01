@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon warehouse jobs near you: how to find local fulfillment center openings, what positions are available, pay rates, and the application process."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2026-03-28
 ---
 ## Background

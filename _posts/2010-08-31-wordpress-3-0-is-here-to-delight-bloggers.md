@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "The world’s one of the most popular blogging software, Wordpress, has released it’s 13th version in its history. It’s Wordpress 3.0, codenamed Thelonious."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-04-01
 ---
 The world’s one of the most popular blogging software, Wordpress, has released it’s 13th version in its history. It’s Wordpress 3.0, codenamed Thelonious. With the version 2.9 being downloaded more than 10 million times, surely Wordpress has been a favorite to too many users. The new version has a new default theme, a lot of bug fixes and is extremely light-weight.

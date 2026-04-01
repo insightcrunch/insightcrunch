@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Luna Lovegood across all Harry Potter books - unconventional wisdom, authentic selfhood, and the character who sees most clearly by refusing to see normally."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Character Who Sees Clearly

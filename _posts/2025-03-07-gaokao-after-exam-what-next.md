@@ -8,7 +8,7 @@ tags: ["高考", "高考后", "志愿填报", "大学录取", "Gaokao", "After E
 excerpt: "高考结束后完全指南：从考后几天的情绪调节，到成绩查询的时间节点；从志愿填报的系统策略，到各阶段录取结果的跟踪；以及未能进入理想院校时的所有选择。"
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "li-wei"
 last_updated: 2026-04-01
 ---
 高考两天结束，走出考场的那一刻，许多考生的第一感受是：终于结束了。然而很快，一个新的问题随之而来：接下来怎么办？

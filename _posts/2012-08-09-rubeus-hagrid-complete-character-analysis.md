@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Rubeus Hagrid across all Harry Potter books - loyalty, outsider identity, and the giant heart beneath the wild exterior."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2026-03-28
 ---
 ## Introduction: The First Friend

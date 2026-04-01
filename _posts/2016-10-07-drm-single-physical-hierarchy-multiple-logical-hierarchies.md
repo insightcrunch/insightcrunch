@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "One DRM physical hierarchy, many logical views. How to configure multiple business perspectives from a single master hierarchy in Oracle DRM."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-03-29
 ---
 The Oracle Data Relationship Management application provides tremendous flexibility in terms of managing the master data for an organization. It has amazing customizing options and integrability with other Oracle products that makes it even more useful.

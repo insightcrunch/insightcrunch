@@ -7,7 +7,7 @@ tags: ["ILP", "TCS"]
 excerpt: "Why I chose TCS over Infosys and landed at ILP Trivandrum. The decision, the journey to Kerala, and the first impressions of corporate training."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 5
-author: "Insight Crunch Team"
+author: "arjun-nair"
 last_updated: 2026-03-28
 ---
 This is an article on TCS ILP Trivandrum by Neha Saxena.

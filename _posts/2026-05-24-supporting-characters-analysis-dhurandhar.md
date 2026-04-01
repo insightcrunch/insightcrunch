@@ -8,7 +8,7 @@ tags: ["dhurandhar", "supporting-characters", "character-analysis", "rakesh-bedi
 excerpt: "Deep analysis of Dhurandhar's supporting cast - Jameel Jamali, Uzair Baloch, and the ensemble's impact."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-31
 ---
 The supporting cast of a spy thriller is usually furniture. People who hold doors open so the hero can walk through them, deliver exposition in brief scenes that establish the operational context, and get killed or turned at dramatically convenient moments to advance the plot. The furniture of most Bollywood spy films is indistinguishable: a loyal aide, a corrupt official, a menacing rival, an innocent bystander who pays for proximity to the mission. These are not characters. They are functions wearing human faces. The Dhurandhar franchise's supporting cast is the clearest evidence that the franchise was made by someone who understood that a spy thriller's emotional and psychological credibility depends entirely on the world the spy must navigate, and that world is only as real as the people who inhabit it.

@@ -8,7 +8,7 @@ tags: ['SAT Ivy League', 'SAT Scores Ivy League', 'SAT Score for Harvard', 'SAT 
 excerpt: "The complete guide to SAT score expectations at all eight Ivy League schools covering realistic ranges, holistic admissions context, and what competitive applications actually include."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 2026-03-27
 ---
 The eight Ivy League universities represent some of the most competitive admissions environments in the world, and their SAT score expectations are among the most misunderstood aspects of the application process. Students approaching Ivy League admissions with a narrow focus on test scores often hold one of two misconceptions: that there is a specific score threshold that, if crossed, makes admission probable, or that SAT scores matter so little in a holistic process that they can be largely ignored. Both beliefs are incorrect, and both lead to suboptimal preparation and application strategies.

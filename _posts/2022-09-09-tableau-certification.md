@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Is Tableau certification worth it? Exam options, what each level covers, how employers view it, and the career boost you can realistically expect."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 11
-author: "Insight Crunch Team"
+author: "alex-rivera"
 last_updated: 2026-03-29
 ---
 ## Overview

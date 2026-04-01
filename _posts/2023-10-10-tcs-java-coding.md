@@ -8,7 +8,7 @@ tags: ["TCS Java coding", "TCS Java programs", "TCS coding solutions Java", "Jav
 excerpt: "Master TCS coding rounds with Java. Category-wise problems with complete solutions, complexity analysis, and compiler-specific tips."
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "arun-verma"
 last_updated: 2026-03-30
 ---
 Java is the most widely used language in TCS coding rounds - not because TCS mandates it, but because the majority of engineering graduates in India learn Java as their primary programming language, and Java's standard library makes common string, array, and data structure operations clean to express. If you have a solid Java foundation and you understand how TCS iON's coding environment works, you can solve the kinds of problems that appear in TCS NQT and ITP Advanced Coding sections efficiently and confidently. This guide covers everything: the environment, the input-output patterns, and a comprehensive category-wise problem set with complete, annotated Java solutions that you can study, run, and adapt.

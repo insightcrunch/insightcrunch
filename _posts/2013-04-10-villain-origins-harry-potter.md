@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic
 excerpt: "Rowling's villains exist on a spectrum from born to made to chosen, and her moral system judges them accordingly. The more choice was involved, the more accountable the character - but she makes you feel the pull toward understanding before she delivers the verdict."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Spectrum of Evil and the Question of Accountability

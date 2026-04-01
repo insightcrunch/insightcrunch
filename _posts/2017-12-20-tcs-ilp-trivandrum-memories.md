@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Trivandrum", "Trainee Memories"]
 excerpt: "This is a guest post by Aman Gupta. The views expressed are of the author."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "devendra-patil"
 last_updated: 2026-03-29
 ---
 There are career experiences you remember in outline - the job you had, the company you worked for, the projects you contributed to. And then there are experiences you remember in texture - the specific smell of a morning, the exact feeling of a friendship forming in real time, the precise moment something difficult became beautiful. TCS ILP Trivandrum is the second kind.

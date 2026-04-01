@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Should you get Tableau certified or just learn on your own? Comparing skill depth, career impact, cost, and what employers actually value more."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "nina-petrova"
 last_updated: 2026-03-30
 ---
 In the vein of Hemingway's protagonists who often find themselves at crossroads, the journey towards Tableau mastery presents a similar choice: pursuing official certification or embarking on a self-learning journey. This article delves into the pros and cons of each path, allowing you to make an informed decision that aligns with your aspirations and learning style.

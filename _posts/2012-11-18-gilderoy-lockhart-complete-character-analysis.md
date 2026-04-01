@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Deep literary analysis of Gilderoy Lockhart in Harry Potter - vanity, fraud, memory, and the cost of fame."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2026-03-30
 ---
 ## Introduction: The Man Who Stole Other People's Lives

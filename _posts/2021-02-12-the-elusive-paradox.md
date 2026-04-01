@@ -7,7 +7,7 @@ tags: ["Tableau"]
 excerpt: "Simple metrics, complex calculations. When Tableau analytics forces you to reconcile clarity of intent with the messiness of real-world data."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "alex-rivera"
 last_updated: 2026-03-29
 ---
 ![](/assets/images/blog/blog-62.webp)

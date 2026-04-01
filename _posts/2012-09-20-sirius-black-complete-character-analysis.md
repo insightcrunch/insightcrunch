@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Sirius Black across all Harry Potter books - wrongful imprisonment, the arrested self, freedom's cost, and the godfather who could not quite be the father."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Man Who Was Not There

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon has many warehouses and openings in its corporate information technology teams due to which it requires thousands of employees. There are a variety..."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-04-01
 ---
 ## Background

@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "TCS ILP Rating", "ILP Score", "Fresher", "IT Career", "Pro
 excerpt: "Your ILP rating is the first professional performance metric of your career. It influences your project allocation, your base branch flexibility, and the..."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 25
-author: "Insight Crunch Team"
+author: "rajan-kumar"
 last_updated: 2026-03-31
 ---
 Your ILP rating is the first professional performance metric of your career. It influences your project allocation, your base branch flexibility, and the first impression you make on every manager who reviews your profile after training. Yet most freshers have no idea how the rating is calculated, what weight each assessment carries, or how to strategically maximize their cumulative score across 60 days of assessments.

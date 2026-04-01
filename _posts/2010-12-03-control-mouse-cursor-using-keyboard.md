@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Mouse broken? Control the cursor with your keyboard. A lightweight tool that lets you move, click, and scroll using only keyboard shortcuts."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 2026-03-28
 ---
 This is a very very very small tool that is going to be very very very useful to you. No joke. How many times have we faced a problem when we wished if we could control our mouse using our keyboards. How good would it be. This small tool is going to liven up the connection between your cursor and keyboard.

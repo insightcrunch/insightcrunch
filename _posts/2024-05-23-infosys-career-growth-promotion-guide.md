@@ -8,7 +8,7 @@ tags: ["Infosys Career Growth", "Infosys Promotion", "Infosys Designation Hierar
 excerpt: "Complete Infosys career ladder from SE to VP with promotion timelines, appraisal process, and salary jumps at each level."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "sneha-reddy"
 last_updated: 2026-03-31
 ---
 Most engineers who join Infosys as freshers understand their starting designation clearly. What very few of them understand - until they have spent two or three years inside the organisation - is how the career ladder actually works: what separates a top performer from an average one at each level, what the appraisal process genuinely evaluates beyond the official criteria, how long each designation realistically takes to move through, and what the practical salary and responsibility differences are at each rung. The difference between a career that plateaus at Technology Analyst and one that reaches Vice President is not mostly luck or politics. It is a set of specific, learnable competency signals, career decisions, and relationship investments that become visible only when the entire promotion architecture is understood as a system.

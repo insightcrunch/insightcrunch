@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2025", "Thoughts"]
 excerpt: "If you could carry only one thing with you at all times, what would it be? A thoughtful exploration of essentials in an age of constant connectivity."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 3
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-03-30
 ---
 ## Introduction:

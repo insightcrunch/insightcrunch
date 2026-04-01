@@ -8,7 +8,7 @@ tags: ["side hustles college students", "make money in college", "remote jobs st
 excerpt: "The most complete guide to making money in college: 25 legitimate side hustles and remote jobs for students, top freelancing platforms, passive income..."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "wang-yue"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

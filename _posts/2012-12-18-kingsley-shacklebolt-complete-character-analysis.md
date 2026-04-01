@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Kingsley Shacklebolt in Harry Potter: the rare leader whose authority comes not from title but from the trust he quietly earns."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Weight of Stillness

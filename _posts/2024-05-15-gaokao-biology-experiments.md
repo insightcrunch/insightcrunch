@@ -8,7 +8,7 @@ tags: ["高考生物", "生物实验", "实验设计", "对照组", "Gaokao Biol
 excerpt: "Master Gaokao biology experiment design - controls, variables, methodology, and conclusion writing."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "sun-ming"
 last_updated: 2026-03-29
 ---
 高考生物实验题是每年高考生物卷中独具特色的重要板块，约占总分的15至20分。与其他题型不同，生物实验题考查的不只是对已学知识的记忆，更考查学生运用科学方法设计实验方案、分析实验结果、归纳实验结论的综合能力。许多考生因为平时只关注知识点的记忆而忽视实验方法论的学习，在这部分容易失去本来可以稳拿的分数。

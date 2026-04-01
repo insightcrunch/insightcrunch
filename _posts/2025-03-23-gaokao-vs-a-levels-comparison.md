@@ -8,7 +8,7 @@ tags: ["高考", "A-Levels", "考试对比", "中英教育", "Gaokao", "A-Levels
 excerpt: "高考与A-Levels深度对比：从学科广度与深度的根本差异，到考试格式与重考政策的对比，从大学录取权重到国际认可度，以及东西方教育哲学在选拔标准上的深层分歧。"
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "feng-lei"
 last_updated: 2026-04-01
 ---
 在全球最重要的大学入学考试体系中，中国高考（Gaokao）和英国A-Levels（英国高考）代表了两种截然不同的教育选拔哲学。一个以广度和统一为核心，一个以深度和专业化为核心。两种制度各自在本国教育体系中运行了数十年，但随着全球化的深化，越来越多的学生和家长开始在两种路径之间做出选择。

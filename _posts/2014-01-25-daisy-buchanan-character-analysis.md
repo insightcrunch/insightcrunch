@@ -8,7 +8,7 @@ tags: ["the-great-gatsby", "f-scott-fitzgerald", "daisy-buchanan", "character-an
 excerpt: "Deep analysis of Daisy Buchanan - her carelessness, limited choices, and why most readers get her wrong."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-03-29
 ---
 Daisy Buchanan is the most misread woman in American literature, and the misreading has been going on for nearly a century. She is routinely condemned as shallow, careless, cowardly, and complicit in Gatsby's destruction, all of which are partially accurate and none of which captures what Fitzgerald actually constructed in her characterization. The condemnation is easy because it feels satisfying: someone has to be responsible for what happened to Gatsby, and Daisy's retreat into her marriage after Myrtle's death makes her the obvious candidate. But the ease of the condemnation should itself be suspicious. A novel as carefully made as The Great Gatsby does not produce simple villains, and Daisy, whatever her failures, is not simply a villain.

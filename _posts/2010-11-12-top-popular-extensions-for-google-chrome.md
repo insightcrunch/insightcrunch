@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "The Chrome extensions power users swear by. Dual View, ad removal, speed dial, and the add-ons that turn Chrome into a productivity machine."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-03-28
 ---
 1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together.

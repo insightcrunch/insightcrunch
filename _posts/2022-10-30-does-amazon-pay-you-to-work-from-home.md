@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Yes, Amazon pays remote workers. Here is how WFH compensation works, what roles pay, hourly vs salary structures, and how it compares to in-office."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2026-03-29
 ---
 ## Background

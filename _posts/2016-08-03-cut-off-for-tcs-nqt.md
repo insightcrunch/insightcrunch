@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Cut-Off", "Qualifying Marks"]
 excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is one of the most popular exams taken by aspirants today. Hundreds of thousands of candidates..."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-29
 ---
 Of all the questions that circle through TCS NQT batch communities in the weeks before and after the exam, the one that generates the most anxiety and the least reliable answers is: what is the cut-off? What score do I actually need? Have I passed?

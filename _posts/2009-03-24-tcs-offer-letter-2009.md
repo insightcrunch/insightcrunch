@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "TCS offer letter 2009 batch: the long wait, the anticipation across colleges, and what it felt like to finally hold the letter after months of uncertainty."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "arun-verma"
 last_updated: 2026-04-01
 ---
 Read more: [TCS Joining Date 2009 Batch »](https://insightcrunch.com/2009/05/30/tcs-joining-date-2009-batch/)

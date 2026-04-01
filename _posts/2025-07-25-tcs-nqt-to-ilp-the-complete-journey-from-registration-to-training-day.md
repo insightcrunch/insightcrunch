@@ -7,7 +7,7 @@ tags: ["TCS", "NQT", "ILP", "TCS Hiring", "NextStep Portal", "Xplore", "Aspire",
 excerpt: "The journey from registering for the TCS National Qualifier Test to walking through the doors of an ILP center on your first day of training is long..."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 30
-author: "Insight Crunch Team"
+author: "sneha-reddy"
 last_updated: 2026-03-31
 ---
 The journey from registering for the TCS National Qualifier Test to walking through the doors of an ILP center on your first day of training is long, multi-staged, and often confusing. At each step, candidates encounter new portals, new processes, new requirements, and new waiting periods. The total timeline can stretch from a few months to over a year depending on batch timing, hiring cycles, and individual circumstances.

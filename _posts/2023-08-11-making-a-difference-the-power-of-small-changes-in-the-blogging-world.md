@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2024", "Thoughts"]
 excerpt: "Small changes, big blogging impact. The minor content, design, and engagement tweaks that can transform your blog from overlooked to widely read."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-03-30
 ---
 ## Introduction:

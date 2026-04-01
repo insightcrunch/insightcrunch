@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "How long does Amazon take to hire? Typical timelines for warehouse vs corporate vs tech roles, from application submission to your start date."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-03-29
 ---
 ## Background

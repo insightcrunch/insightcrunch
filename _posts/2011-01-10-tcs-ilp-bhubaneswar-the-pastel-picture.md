@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Bhubaneswar", "Daily Life"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "rajan-kumar"
 last_updated: 2026-03-28
 ---
 Sitting in the last row of the company bus on the way to Kalinga Park, Debapriya closed his eyes and saw a pastel picture. A picture four and a half years old: fifty students in blue striped white shirts, navy blue trousers, and navy blue ties boarding a yellow bus to a Kolkata engineering college for the first time. He was the last one to board then too. The same left window seat in the last row.

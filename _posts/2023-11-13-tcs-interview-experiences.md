@@ -8,7 +8,7 @@ tags: ["TCS interview experience", "TCS Ninja interview", "TCS Digital interview
 excerpt: "Patterns from hundreds of TCS interviews decoded. Know exactly what to expect in Technical and HR rounds for every profile."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-30
 ---
 Hundreds of TCS interview accounts across all profiles, when analysed systematically, reveal something striking: the interview is more predictable than candidates expect. Not predictable in the sense that every question is known in advance, but predictable in structure, in the categories of questions asked, in the signals that interviewers consistently reward, and in the specific behaviours that consistently cause candidates to fail. This guide synthesises those patterns into a preparation framework. It does not copy any individual's interview account - it extracts what is true across many accounts and presents it in a form you can act on directly.

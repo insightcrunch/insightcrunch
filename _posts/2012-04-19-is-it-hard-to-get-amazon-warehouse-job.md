@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Getting hired at an Amazon warehouse is easier than corporate roles but still has screening. The process, requirements, and what to expect."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 10
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2026-03-28
 ---
 ## Background

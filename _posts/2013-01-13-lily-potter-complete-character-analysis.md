@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Lily Potter in Harry Potter: the most important character who never speaks in the present tense, whose choices determine everything."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Absent Center

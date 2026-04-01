@@ -8,7 +8,7 @@ tags: ["lord-of-the-flies", "william-golding", "jack-merridew", "character-analy
 excerpt: "Complete analysis of Jack in Lord of the Flies - his transformation from choirboy to savage dictator."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-03-31
 ---
 Jack Merridew is the most unsettling character in Lord of the Flies, and the reason he is so unsettling has nothing to do with what he becomes. It has to do with where he started. This is a boy who arrives on the island already commanding a group of younger boys in military formation, already comfortable with authority, already impatient with anyone who challenges his right to lead. He marches his choir across the beach in their black cloaks and caps in the tropical heat, barking orders while they stumble and faint, and Golding presents this scene not as an aberration but as the natural behavior of a boy who has been given a small amount of institutional power and has learned to enjoy wielding it. The savagery that Jack displays at the novel's climax is not something the island creates in him. It is something the island reveals, something that was always present beneath the cloak and the rules and the carefully maintained fiction that authority exists to serve the community rather than the person who holds it. Golding's argument is not that Jack falls from civilization into savagery. It is that Jack stops pretending, and the pretending was the only thing civilization ever was.

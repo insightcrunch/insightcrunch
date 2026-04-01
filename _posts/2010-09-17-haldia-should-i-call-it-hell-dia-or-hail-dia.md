@@ -4,11 +4,11 @@ title: "HALDIA (Should I call it ‘HELL-DIA’ or ‘HAIL-DIA’ )"
 date: 2010-09-17
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
-excerpt: "TCS ILP in Haldia, West Bengal. Is it hell or heaven? A fresher's first-hand account of life at one of the more unusual ILP training locations."
+excerpt: "This is a post on TCS ILP Haldi by Maithreyi. The views expressed are solely of the writer. This is my first post from Haldia, a small village in the..."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 5
-author: "Insight Crunch Team"
-last_updated: 2026-03-27
+author: "siddharth-rao"
+last_updated: 2026-04-01
 ---
 This is a post on TCS ILP Haldi by Maithreyi. The views expressed are solely of the writer. This is my first post from Haldia, a small village in the state of West Bengal located about 120kms off Calcutta. You might be wondering about the purpose of my so-called short stint at this place. I am supposedly attending my training at Tata Consultancy Services, a giant in the corporate world (Giant in the literal sense of the word!).You randomly pick a hundred Tom, Dick and Harries from the ever-growing Indian population, atleast 20% of them are bound to be a part of TCS. Am sure all of you are saying, “Dude, cut a slack to the facts and get to the topic”, so “1..2..3..Go”!
 

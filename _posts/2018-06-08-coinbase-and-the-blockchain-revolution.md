@@ -7,7 +7,7 @@ tags: ["Analysis and Opinions"]
 excerpt: "Is blockchain really a revolution? How Coinbase brought crypto to the mainstream, the technology's promise, and the risks everyone should understand."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 last_updated: 2026-03-29
 ---
 As we step over into the age of new technologies that has the power to revolutionize the very meaning of currency and fundamental aspects of society, it's evident that such transition will take time to absorb and fill into our lives at a mass scale.  Some notable authorized organizations being the driving force today like Coinbase and Facebook helps bring in an air of assurance and credibility into this world, which is otherwise often torn apart regularly due to hacking and other mishaps.

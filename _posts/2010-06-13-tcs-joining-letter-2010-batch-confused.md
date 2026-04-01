@@ -8,7 +8,7 @@ tags: ["TCS", "Joining Letter", "Onboarding", "Offer Process"]
 excerpt: "TCS has started giving out joining letters to it’s 2010 batch selected candidates. The wait is finally over for the thousands of candidates. The mood sure..."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "arjun-nair"
 last_updated: 2026-04-01
 ---
 The moment a TCS offer letter appears in your NextStep portal, something shifts. The months of preparation, the anxiety of the drive day, the waiting for results - all of that resolves into a single concrete fact: you are going to work at TCS. What follows that moment is a process that most freshers know very little about and for which very little guidance exists in one place. The joining letter, the documents, the medical test, the background verification, the pre-joining communication - these are not formalities to be stumbled through. They are a sequence that requires specific actions, in a specific order, within specific timelines, and getting them right matters more than most freshers realise.

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "How often does Amazon pay WFH employees? Weekly vs biweekly pay schedules for different remote role types and when your first payment arrives."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 12
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-03-29
 ---
 ## Background

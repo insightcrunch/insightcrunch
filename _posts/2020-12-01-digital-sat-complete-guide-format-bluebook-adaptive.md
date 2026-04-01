@@ -8,7 +8,7 @@ tags: ['Digital SAT', 'Digital SAT Format', 'Digital SAT Bluebook', 'Digital SAT
 excerpt: "The complete guide to the Digital SAT format including the Bluebook application, adaptive testing mechanics, section structure, timing, and how the digital experience changes preparation strategy."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 # Digital SAT Complete Guide: Format, Bluebook, and Adaptive Testing

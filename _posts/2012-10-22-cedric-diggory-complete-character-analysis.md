@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Cedric Diggory across the Harry Potter books - genuine goodness, the cost of fair play, and what his death meant for the series."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Boy Who Was Just Good

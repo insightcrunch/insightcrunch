@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Want to work at Amazon? The specific skills, qualities, and leadership principle alignment that Amazon evaluates during its hiring process."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 9
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2026-03-28
 ---
 ## Background

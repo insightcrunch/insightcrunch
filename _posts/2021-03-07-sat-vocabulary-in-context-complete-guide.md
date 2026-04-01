@@ -8,7 +8,7 @@ tags: ['SAT Vocabulary', 'SAT Vocabulary in Context', 'SAT Words', 'SAT Vocabula
 excerpt: "Master SAT vocabulary-in-context questions with strategies for determining word meaning from passage clues, high-frequency SAT words, and practice approaches."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-03-29
 ---
 # SAT Vocabulary in Context: How to Master Word Meaning Questions

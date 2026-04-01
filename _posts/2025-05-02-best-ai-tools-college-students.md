@@ -8,7 +8,7 @@ tags: ["AI tools for students", "AI study tools", "ChatGPT for college", "AI ess
 excerpt: "The most complete guide to AI tools for college students: 30 free and freemium apps for studying, essay writing, note-taking, research, resume building..."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 55
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Is Meta still on a hiring freeze? The current state of recruitment, recession impact on tech hiring, and signs of when Meta might resume."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 8
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2026-03-29
 ---
 ## Background

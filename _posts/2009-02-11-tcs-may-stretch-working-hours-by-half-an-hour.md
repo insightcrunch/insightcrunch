@@ -8,7 +8,7 @@ tags: ["TCS", "Work-Life Balance", "IT Industry", "Employee Policy"]
 excerpt: "TCS extends working hours by 30 minutes amid the 2009 economic slowdown. What this policy change means for current employees and incoming freshers."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "priya-mehta"
 last_updated: 2026-04-01
 ---
 When you join one of the largest IT companies in the world, one of the first practical questions you ask is not about the technology stack or the project pipeline - it is about the hours. How long will your working day actually be? What does TCS work hours policy look like on paper versus in practice? Will you have a life outside the office? These questions matter to freshers walking into their first job, to experienced professionals evaluating a switch, and to returning employees re-entering after a gap. The answers are rarely as simple as any official document suggests, and that gap between policy and reality is exactly what this guide addresses in full.

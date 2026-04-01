@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Fred and George Weasley across all Harry Potter books - comedy as moral courage, joy as resistance, and the cost of laughter in a world at war."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Serious Business of Not Being Serious

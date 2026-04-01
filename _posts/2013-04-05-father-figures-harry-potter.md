@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic
 excerpt: "Harry Potter's real education comes not from Hogwarts classes but from the parade of father figures who each offer one piece of what a father should be and none of whom offers the whole."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Father Who Was Never There, and the Many Who Tried

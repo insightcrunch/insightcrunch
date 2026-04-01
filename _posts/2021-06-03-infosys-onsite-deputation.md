@@ -8,7 +8,7 @@ tags: ["Infosys Onsite Deputation", "Infosys Onsite Opportunity", "Infosys US De
 excerpt: "Complete guide to Infosys onsite deputation: how selection works, visa types, onsite compensation structure, living abroad on Infosys deputation, return process, and what the experience actually looks like."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-29
 ---
 An Infosys onsite deputation is one of the most anticipated milestones in many Indian IT professionals' careers. It represents the transition from offshore delivery to direct client engagement, carries significant financial benefit in the form of deputation allowances, and provides professional exposure to international work environments that is genuinely difficult to replicate from India. It also comes with complexities that most employees are not fully prepared for: the visa process, the compensation structure, the tax implications in two countries, the cost of living in expensive client cities, the professional dynamics of being the offshore resource in a room of client employees, and the management of the India-home life during an extended absence.

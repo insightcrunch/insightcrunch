@@ -7,7 +7,7 @@ tags: ["solo-dining", "boston", "restaurants", "boston-food", "eating-alone", "c
 excerpt: "From North End pasta counters to Seaport oyster bars, chowder to omakase, the complete guide to eating alone in Boston."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-03-31
 ---
 Boston is a city that was old before most of America was born. It is a city of cobblestone streets and redbrick townhouses, of gas-lit lamps on Beacon Hill and fishing boats in the harbor, of universities that have been producing brilliant minds for centuries and restaurants that have been serving oysters since before the Civil War. It is a city where the past is never more than a glance away, where the Freedom Trail winds through neighborhoods that have been feeding people for generations, and where the food carries the weight of history in every bowl of chowder, every plate of pasta, and every raw oyster served on a marble counter in a restaurant that your grandparents might have visited.

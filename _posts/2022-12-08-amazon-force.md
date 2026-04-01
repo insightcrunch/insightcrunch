@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Understanding Amazon Force. How warehouse employees use this internal platform for shift management, pay stubs, PTO requests, and employment details."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 13
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2026-03-29
 ---
 ## Background

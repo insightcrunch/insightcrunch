@@ -8,7 +8,7 @@ tags: ["HackWithInfy", "HackWithInfy Preparation", "HackWithInfy Questions", "Ha
 excerpt: "Master every round of HackWithInfy with this complete preparation guide covering problems, scoring, and prize tiers."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-29
 ---
 HackWithInfy is the competitive programming contest that Infosys runs annually for final-year engineering students across India. It is one of the most consequential coding competitions a student can participate in, not because it offers the most technically demanding problems or the largest prize pool in the Indian competitive programming landscape, but because its top performers receive direct Infosys job offers at premium designations: the Power Programmer and Specialist Programmer roles, which come with packages of 8 to 10 LPA compared to the standard Systems Engineer package of 3.6 LPA.

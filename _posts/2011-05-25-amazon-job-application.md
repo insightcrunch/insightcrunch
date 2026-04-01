@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon job application guide. The online portal, resume format, application steps, and the key qualifications that get your application noticed."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 13
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2026-03-28
 ---
 ## Background

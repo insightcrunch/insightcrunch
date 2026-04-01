@@ -8,7 +8,7 @@ tags: ["1984", "george-orwell", "big-brother", "the-party", "totalitarianism", "
 excerpt: "Complete analysis of Big Brother and the Party in 1984 - surveillance, doublethink, and the mechanics of control."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-03-28
 ---
 Big Brother does not appear in 1984. He is on every wall, in every telescreen broadcast, in the mouths of every citizen during the Two Minutes Hate, and in the final sentence of the novel, but he never walks into a room, never speaks directly, never does anything that a person actually does. This absence is not an oversight or a narrative limitation; it is the point. Orwell designed Big Brother as a face without a body, a symbol without a referent, an emotional attractor that can absorb whatever the Party needs it to absorb precisely because there is no actual human being behind it whose limitations, contradictions, and mortality might reduce its power. Big Brother is the most economical expression in modern literature of how power uses image to sustain itself, and understanding him requires understanding that his unreality is the source of his strength rather than its absence.

@@ -8,7 +8,7 @@ tags: ["TCS", "Accenture", "Company Comparison", "Career Decision"]
 excerpt: "Should you join TCS or Accenture? Granular comparison covering salary, culture, onsite chances, career path, and the real trade-offs at each level."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "shruti-agarwal"
 last_updated: 2026-03-28
 ---
 Few career decisions generate more sustained debate among Indian IT professionals than the choice between TCS and Accenture. Both are among the most recognized names in global IT services. Both recruit heavily from Indian engineering colleges. Both offer paths into the global technology industry. And yet they are meaningfully different organizations, with distinct cultures, different career trajectories, different salary dynamics, and different professional identities that suit different types of people.

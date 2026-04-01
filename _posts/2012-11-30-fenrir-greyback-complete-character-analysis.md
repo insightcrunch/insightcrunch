@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Complete literary analysis of Fenrir Greyback in Harry Potter - savagery, predation, ideology, and the wolf at the door."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Monster Who Chose to Be One

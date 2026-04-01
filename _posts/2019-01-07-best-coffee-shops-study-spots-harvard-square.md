@@ -8,8 +8,8 @@ tags: ["Harvard Square Coffee Shops", "Best Study Spots Harvard", "Harvard Squar
 excerpt: "The complete guide to every worthwhile coffee shop and study spot around Harvard Square, Cambridge, Somerville, and the surrounding area - with honest assessments of wifi quality, noise levels, seating, hours, food, and which spots suit which types of studying."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 48
-author: "Insight Crunch Team"
-last_updated: 2026-03-27
+author: "rachel-foster"
+last_updated: 2026-04-01
 ---
 Harvard students spend an enormous proportion of their waking hours studying. The university provides extraordinary library facilities - Widener, Lamont, Cabot, Hilles, and dozens of specialty libraries - but the library is not the right environment for every type of intellectual work, every mood, or every student. The coffee shop and the independent cafe serve a specific function in the study ecosystem of the academic city: they provide the ambient human presence that some students need to focus, the caffeine infrastructure that all students eventually need, and the change of environment that prevents the library fatigue that comes from spending too many consecutive hours in the same space.
 

@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "The CNN IBN Kolkata documentary that got it wrong. A resident's response to a biased portrayal that ignored the city's culture and resilience."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 2
-author: "Insight Crunch Team"
+author: "siddharth-rao"
 last_updated: 2026-03-28
 ---
 Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that was showing a documentary on Kolkata the city as a whole. The reporter was Nilanjana Bose. To start with, I am a Calcuttan myself.

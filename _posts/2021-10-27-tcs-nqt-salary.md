@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Salary Structure", "In-Hand Pay"]
 excerpt: "Tata Consultancy Services National Qualifier Test (NQT) is one of the most competitive exams in the software industry today. The TCS NQT exam helps..."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-29
 ---
 Most candidates know the CTC. What they need to know is the in-hand monthly salary - the actual amount credited to the bank account on salary day. For a TCS Ninja fresher with a ₹3.5 LPA CTC, the monthly in-hand is not ₹29,167 (which is ₹3.5L divided by 12). It is approximately ₹22,000-26,000 after deductions. Understanding precisely how this calculation works - which deductions apply, how much variable pay is, when it is paid, and how the in-hand salary grows over time - is essential financial planning information for every TCS NQT aspirant.

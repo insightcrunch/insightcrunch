@@ -8,7 +8,7 @@ tags: ["TCS", "Digital Role", "TCS Ninja", "Role Comparison"]
 excerpt: "This is a guest post on TCS Digital by Nikhil Chauhan. The views expressed are of the author."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "vikram-iyer"
 last_updated: 2026-03-29
 ---
 Two letters - "D" and "N" - determine the starting point of a TCS career more than almost any other factor. Whether you join as a Digital or Ninja hire shapes your initial project allocation, your compensation, and the trajectory of your first three years. Yet despite the significance of this distinction, the TCS Digital role is widely misunderstood by freshers preparing to enter the hiring pipeline and even by many who have already received offers.

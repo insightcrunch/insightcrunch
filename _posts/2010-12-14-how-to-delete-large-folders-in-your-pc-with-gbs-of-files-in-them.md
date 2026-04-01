@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Tired of Windows taking forever to delete big folders? This trick removes directories with thousands of files in seconds instead of minutes."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 1
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2026-03-28
 ---
 Often we see that it takes a lot of time to remove and delete large folders in Windows. Now it won’t. You should feel lucky that you are a reader of this popular blog now because it is presenting you with this lightning fast tool. [Click here](http://downloads.novirusthanks.org/files/fastfoldereraser_setup.exe).

@@ -8,7 +8,7 @@ tags: ["TCS", "Global Rankings", "IT Industry", "Employer Brand"]
 excerpt: "TCS ranked among top outsourcing companies globally in 2009. Position in the Global Outsourcing 100 list and what it means for the company's brand."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "pooja-gupta"
 last_updated: 2026-04-01
 ---
 When freshers, experienced professionals, and business leaders evaluate TCS as a potential employer, client, or partner, one of the first questions they ask is: where does TCS actually stand among the world's technology companies? Not just in terms of revenue or headcount - but in the dimensions that matter for a career decision, a sourcing decision, or a strategic partnership. The answer is more nuanced than any single ranking captures, and more impressive than casual familiarity with the company name suggests. TCS is not just one of India's largest companies. It is one of the most valuable, most respected, and most studied technology services organisations in the world.

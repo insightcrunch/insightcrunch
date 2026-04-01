@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Results", "Scorecard"]
 excerpt: "The TCS NQT exam results is one of the most anticipated test results awaited by hundreds of thousands of candidates every year. Succeeding in the TCS NQT..."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-29
 ---
 The wait between completing the TCS NQT and receiving your results is one of the most anxiety-producing gaps in the entire hiring process. You cannot go back and change your answers. You cannot hurry the scoring process. All you can do is check the portal periodically and wonder where you stand.

@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2026-03-28
 ---
 The score appeared on the screen. 12.08%. Everything went black.

@@ -8,7 +8,7 @@ tags: ["TCS", "Hiring Process", "Selection Steps", "Recruitment Guide"]
 excerpt: "TCS interview experience shared. Every hiring step from aptitude test to technical round to HR, with the questions asked and tips that worked."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "nikhil-tiwari"
 last_updated: 2026-03-29
 ---
 Every year, TCS receives millions of applications from engineering graduates across India. From that vast pool, it selects approximately 40,000 to 50,000 freshers through a structured multi-stage hiring process that has evolved significantly over the years. Whether you enter through the National Qualifier Test, through CodeVita, through a campus placement drive, or through TCS Digital's premium college program, the hiring process has defined stages, specific evaluation criteria, and preparation strategies that determine who advances and who does not.

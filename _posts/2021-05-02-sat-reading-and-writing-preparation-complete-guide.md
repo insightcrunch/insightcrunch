@@ -8,7 +8,7 @@ tags: ['SAT', 'SAT Reading', 'SAT Writing', 'SAT Reading and Writing', 'SAT Gram
 excerpt: "The complete SAT Reading and Writing preparation guide covering all question categories, passage types, grammar rules, rhetoric questions, and adaptive module strategy."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 2026-03-29
 ---
 # SAT Reading and Writing: The Complete Section Guide
