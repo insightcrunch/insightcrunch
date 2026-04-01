@@ -6,17 +6,16 @@ date: 2014-08-23
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "victor-frankenstein", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Deep analysis of Victor Frankenstein - his ambition, cowardice, self-pity, and catastrophic irresponsibility."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2014-08-23
+last_updated: 2026-04-01
 ---
-
 Victor Frankenstein is one of the most precisely constructed studies in self-deception in the English literary tradition. He is not a villain in any conventional sense: he does not choose evil consciously, does not pursue harm deliberately, and is genuinely devastated by the consequences of what he has done. He is something more disturbing than a villain. He is a person of genuine intelligence and genuine feeling who has organized his entire relationship to the world around the principle that his vision justifies whatever it costs, and who has developed a capacity for self-pity so complete that he can grieve the consequences of his choices without ever fully acknowledging that the choices were his to make and refuse. Every death in Frankenstein is a consequence of Victor's decisions. Victor mourns every death. And throughout the novel, he consistently manages to position himself as the primary victim of the catastrophe he has created, while the people who actually died, William, Justine, Henry, Elizabeth, his father, remain the secondary casualties of his tragedy. The achievement of this positioning is not cynical manipulation. It is the specific form of self-deception that an exceptionally intelligent person develops when they need to protect themselves from the full weight of what they have done.
 
 <!--more-->
 
-![Victor Frankenstein Character Analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Victor Frankenstein Character Analysis - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The argument this analysis will make is specific: Victor Frankenstein's most significant moral failure is not the creation of the Creature. It is the abandonment, and the abandonment is not an isolated act but a pattern that repeats throughout the novel in every context where accepting responsibility would require Victor to expose himself to the discomfort and vulnerability that his psychology has been organized to avoid. He abandons the Creature. He abandons Justine by refusing to speak the truth that would save her. He abandons his promise to create the female companion. He abandons his family by refusing to reveal the source of the danger that threatens them. The pattern of abandonment is the pattern of someone who cannot sustain commitment when commitment becomes difficult, who cannot accept the specific form of vulnerability that genuine responsibility requires, and who constructs his self-narrative as the story of a tragic hero rather than as the story of someone who chose, repeatedly and consistently, the protection of his own psychological comfort over the obligations that his choices had generated. For the structural context within which Victor's character operates, the [complete analysis of Frankenstein](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/) provides the essential framework, and the [Creature character analysis](https://insightcrunch.com/2014/08/28/the-creature-frankenstein-analysis/) traces the consequences of Victor's abandonment pattern from the Creature's own perspective.
 
