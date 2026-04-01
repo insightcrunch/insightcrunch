@@ -8,7 +8,7 @@ excerpt: "The complete guide to graduate accommodation at Oxford University. Cov
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 Graduate accommodation at Oxford is the university's least-solved housing problem. While undergraduates benefit from a well-established system (guaranteed first-year rooms, organized ballots for subsequent years, a clear "living out" pathway with institutional support), graduate students navigate a fragmented landscape where accommodation provision varies dramatically by college, demand consistently exceeds supply, and the process of securing housing can be stressful, uncertain, and financially consequential.
 

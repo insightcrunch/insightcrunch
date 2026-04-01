@@ -4,11 +4,11 @@ title: "Microsoft Internship Experience"
 date: 2009-07-09
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "This is a guest post by Kaustav Dey Biswas. He is a total tech geek and loves his computer and computing stuff like anything in the world. Programming is..."
+excerpt: "Microsoft internship experience: a guest post from a tech enthusiast covering the application, the work, the culture, and key takeaways."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 15
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 This is a guest post by Kaustav Dey Biswas. He is a total tech geek and loves his computer and computing stuff like anything in the world. Programming is something as natural to him as sleep. He’s sharing his Microsoft Internship Experience here.   
 

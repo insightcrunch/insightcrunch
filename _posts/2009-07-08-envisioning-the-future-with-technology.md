@@ -4,11 +4,11 @@ title: "Envisioning the future with technology"
 date: 2009-07-08
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Ever dreamt of what the future would be like with further advancements. I find it pretty tough to imagine what will be the limits of our achievements."
+excerpt: "What will technology look like in 10 years? Touch interfaces, AI, biotech, and the accelerating pace of innovation that is reshaping everything."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 Ever dreamt of what the future would be like with further advancements. I find it pretty tough to imagine what will be the limits of our achievements. With the touch generation already getting old and projects like Natal are coming into existence, it’s time for something new to come out.
 

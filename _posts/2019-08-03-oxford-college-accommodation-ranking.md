@@ -8,7 +8,7 @@ excerpt: "A comprehensive comparison and ranking of accommodation across all Oxf
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 Choosing an Oxford college is one of the most consequential decisions in the application process, and accommodation is among the top factors that should inform that choice. Two students studying the same degree at Oxford can have wildly different living experiences depending on their college: one paying GBP 1,166 per term in a guaranteed room with excellent scout service and subsidized meals, the other paying GBP 2,750 per term with no guarantee of housing beyond the first year. The difference over a three-year degree can amount to thousands of pounds and a fundamentally different daily experience.
 
