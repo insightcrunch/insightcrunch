@@ -7,7 +7,7 @@ tags: ["VaultBook", "Note-Taking", "Productivity", "Encryption", "AI"]
 excerpt: "If you work with sensitive data - client records, patient files, legal documents, financial models, research notes - you already know the quiet anxiety..."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 24
-author: "karthik-menon"
+author: "christopher-wells"
 last_updated: 2026-04-01
 ---
 If you work with sensitive data - client records, patient files, legal documents, financial models, research notes - you already know the quiet anxiety that comes with trusting a cloud-based note-taking app. Every sync, every backup, every “smart feature” is another surface area for exposure. And while mainstream tools like Notion, Evernote, and OneNote have made productivity easier than ever, they were never designed with data sovereignty as a first principle.

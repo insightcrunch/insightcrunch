@@ -4,11 +4,11 @@ title: "Love to forward mails to a lot of friends? Make Gmail Contact Groups"
 date: 2010-11-16
 categories: ["Leisure"]
 tags: ["Google", "The Web"]
-excerpt: "Stop typing email addresses one by one. Gmail contact groups let you forward to all your friends with a single address. Here is how to set it up."
+excerpt: "This will let you mail a lot of your friends by mailing your favorite article to just one single id. This is going to be really useful to you. Instead of..."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 1
 author: "elena-wright"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 This will let you mail a lot of your friends by mailing your favorite article to just one single id. This is going to be really useful to you. Instead of typing the emails of your friends one by one you will get to send your mail to them just by one click.
 

@@ -7,7 +7,7 @@ tags: ["Oxford", "University", "UK", "Freshers", "First Year", "Accommodation", 
 excerpt: "Everything Oxford freshers need to know about their first-year accommodation. Covers how college room allocation works, what your room will actually look like across different college types, the reality of shared bathrooms vs en-suite, scouts and the Oxford cleaning tradition, how to set up your room for study and sleep, the Freshers' Week accommodation experience, dining in college, what to bring and what not to bring, the staircase social dynamic, managing the term-time-only contract and vacation storage, the financial breakdown of first-year costs, and the complete week-by-week guide from move-in day through settling into the rhythm of Oxford life."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
-author: "shruti-agarwal"
+author: "james-carter"
 last_updated: 2026-04-01
 ---
 The email arrives sometime during the summer before your first term. Your college confirms your room assignment: a building name, a staircase number, a room number, and perhaps a brief description of what to expect. For most incoming Oxford freshers, this email represents the first concrete detail of what your Oxford life will actually feel like. Not the tutorials, not the Bodleian, not the lectures, but the room where you will sleep, study, and begin the most intense academic and social experience of your life.

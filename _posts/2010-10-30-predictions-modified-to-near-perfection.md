@@ -4,11 +4,11 @@ title: "TCS Predictions modified to near perfection"
 date: 2010-10-30
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Our TCS joining date predictions are getting scarily accurate. Thanks to feedback from 10,000 daily visitors, the model keeps improving."
+excerpt: "Thank you all for reading my blog and providing so much feedback. Just to share with you all, the number of visitors to this blog now is about 10,000..."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 1
 author: "nikhil-tiwari"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 Thank you all for reading my blog and providing so much feedback. Just to share with you all, the number of visitors to this blog now is about 10,000 daily from all across India and even from other countries. Coming back to the article, there had been some changes in the logic of both the codes and now hopefully the results would be more accurate. Thanks again for your immense feedback that helped me do it. Now you can predict your TCS joining date and predict your ILP score with better accuracy.
 

@@ -8,7 +8,7 @@ tags: ["amazon layoffs", "tech layoffs 2026", "amazon job cuts", "aws layoffs", 
 excerpt: "Amazon cut 16,000 corporate jobs on January 28, 2026 as part of a 30,000-role restructuring. Here is the full story."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 55
-author: "deepika-joshi"
+author: "megan-clark"
 last_updated: 2026-04-01
 ---
 On the evening of January 27, 2026, something went wrong inside Amazon. An email that was never supposed to go out landed in the inboxes of employees across Amazon Web Services. Signed by Colleen Aubrey, Senior Vice President of Applied AI Solutions at AWS, the message referenced an internal restructuring effort codenamed "Project Dawn" and indicated that affected employees in the U.S., Canada, and Costa Rica had already been informed about losing their jobs. The only problem was that no one had actually been told yet. A meeting invitation titled "Send project Dawn email" had been sent by mistake, alerting thousands of workers a full day before the official announcement. Amazon quickly canceled the message, but the damage was done. By the time Beth Galetti, Amazon's Senior Vice President of People Experience and Technology, published the company's official blog post the following morning on January 28, 2026, the news had already spread across Blind, Reddit, LinkedIn, and every major technology news outlet in the world. Amazon was laying off approximately 16,000 corporate employees, its second massive workforce reduction in three months.

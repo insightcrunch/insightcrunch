@@ -4,11 +4,11 @@ title: "TCS ILP Infocity Gandhinagar Picture Gallery"
 date: 2010-10-27
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Inside TCS Infocity Gandhinagar. Photos of the campus, training facilities, hostel areas, and the infrastructure that houses thousands of trainees."
+excerpt: "The TCS ILP Gandhinagar is one of the largest in the region and can accommodate an astounding number of professionals. With world-class amenities and..."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
 author: "kavita-sharma"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 The TCS ILP Gandhinagar is one of the largest in the region and can accommodate an astounding number of professionals. With world-class amenities and infrastructure, it is surely a place many would aspire to be in. Below is a collection of photos that thousands have been awaiting a long time.
 

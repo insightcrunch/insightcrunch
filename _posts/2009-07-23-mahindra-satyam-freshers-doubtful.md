@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Mahindra Satyam freshers in limbo: 2008 and 2009 batch candidates face uncertainty after the Satyam fraud. Will they ever get their joining dates?"
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 2
-author: "kavita-sharma"
+author: "nathan-cole"
 last_updated: 2026-04-01
 ---
 The situation is starting to look really grim as a guy of the 2008 batch shared his worries [here](http://www.thehindubusinessline.com/2009/04/17/stories/2009041750730800.htm). True to the essence, besides the freshers of the 2009 batch like many of my friends who are skeptical about their joining this once one of the most reputed companies, some people of 2008 batch also shared their worries as they'll be ceasing to call themselves as freshers as soon as the next batch passes out. Looking towards uncertainty, many of my friends are unsure when to get their joining dates and are constantly on the look out of  other options available. But the surplus work force that increased fears of job cuts has been [put to rest](http://online.wsj.com/article/SB124670038401894421.html).

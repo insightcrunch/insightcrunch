@@ -4,11 +4,11 @@ title: "Top popular extensions for Google Chrome"
 date: 2010-11-12
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "The Chrome extensions power users swear by. Dual View, ad removal, speed dial, and the add-ons that turn Chrome into a productivity machine."
+excerpt: "1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
 author: "gregory-marsh"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together.
 
