@@ -11,7 +11,7 @@ priya-mehta:
   bio: Covers technology workforce trends, IT hiring, and corporate strategy across
     India and beyond.
   avatar: /assets/images/authors/priya-mehta.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: F
 rajan-kumar:
   name: Rajan Kumar
@@ -19,7 +19,7 @@ rajan-kumar:
   bio: Helps fresh graduates navigate campus placements, onboarding, and early career
     decisions in IT.
   avatar: /assets/images/authors/rajan-kumar.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 anita-das:
   name: Anita Das
@@ -27,7 +27,7 @@ anita-das:
   bio: Writes about competitive exams, civil services preparation, and academic strategy
     for Indian students.
   avatar: /assets/images/authors/anita-das.webp
-  pool: south-asian
+  pool: south-asian-exam
   gender: F
 vikram-iyer:
   name: Vikram Iyer
@@ -35,7 +35,7 @@ vikram-iyer:
   bio: Specializes in IT company comparisons, salary analysis, and career growth paths
     in Indian tech.
   avatar: /assets/images/authors/vikram-iyer.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 sneha-reddy:
   name: Sneha Reddy
@@ -43,7 +43,7 @@ sneha-reddy:
   bio: Documents corporate training programs, ILP experiences, and fresher onboarding
     journeys.
   avatar: /assets/images/authors/sneha-reddy.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: F
 arjun-nair:
   name: Arjun Nair
@@ -51,14 +51,14 @@ arjun-nair:
   bio: Breaks down hiring processes, placement patterns, and NQT strategies for job
     seekers.
   avatar: /assets/images/authors/arjun-nair.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 kavita-sharma:
   name: Kavita Sharma
   credential: Civil Services Writer
   bio: Covers UPSC preparation strategy, optional subjects, and toppers' study methods.
   avatar: /assets/images/authors/kavita-sharma.webp
-  pool: south-asian
+  pool: south-asian-exam
   gender: F
 rahul-banerjee:
   name: Rahul Banerjee
@@ -66,7 +66,7 @@ rahul-banerjee:
   bio: Writes about Bollywood, Indian cinema, music, and pop culture with analytical
     depth.
   avatar: /assets/images/authors/rahul-banerjee.webp
-  pool: south-asian
+  pool: south-asian-ent
   gender: M
 deepika-joshi:
   name: Deepika Joshi
@@ -74,7 +74,7 @@ deepika-joshi:
   bio: Creates study plans, mock strategies, and subject breakdowns for national-level
     competitive exams.
   avatar: /assets/images/authors/deepika-joshi.webp
-  pool: south-asian
+  pool: south-asian-exam
   gender: F
 siddharth-rao:
   name: Siddharth Rao
@@ -82,7 +82,7 @@ siddharth-rao:
   bio: Tracks quarterly results, attrition trends, and policy changes across Indian
     IT services companies.
   avatar: /assets/images/authors/siddharth-rao.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 meera-pillai:
   name: Meera Pillai
@@ -90,7 +90,7 @@ meera-pillai:
   bio: Examines hiring volumes, salary structures, and employee retention in the Indian
     IT sector.
   avatar: /assets/images/authors/meera-pillai.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: F
 arun-verma:
   name: Arun Verma
@@ -98,14 +98,14 @@ arun-verma:
   bio: Breaks down aptitude tests, coding rounds, and interview processes for campus
     hiring.
   avatar: /assets/images/authors/arun-verma.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 nandini-sen:
   name: Nandini Sen
   credential: Regional Culture Writer
   bio: Explores literature, travel, and cultural traditions across the Indian subcontinent.
   avatar: /assets/images/authors/nandini-sen.webp
-  pool: south-asian
+  pool: south-asian-ent
   gender: F
 karthik-menon:
   name: Karthik Menon
@@ -113,7 +113,7 @@ karthik-menon:
   bio: Covers competitive programming, CodeVita, HackWithInfy, and technical assessment
     strategies.
   avatar: /assets/images/authors/karthik-menon.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 pooja-gupta:
   name: Pooja Gupta
@@ -121,7 +121,7 @@ pooja-gupta:
   bio: Analyzes CTC breakdowns, in-hand pay, variable components, and increment patterns
     in Indian IT.
   avatar: /assets/images/authors/pooja-gupta.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: F
 amit-chatterjee:
   name: Amit Chatterjee
@@ -129,14 +129,14 @@ amit-chatterjee:
   bio: Writes on Bengali literature, Indian cinema, and the intersection of art and
     society.
   avatar: /assets/images/authors/amit-chatterjee.webp
-  pool: south-asian
+  pool: south-asian-ent
   gender: M
 ritika-singh:
   name: Ritika Singh
   credential: Higher Education Writer
   bio: Covers study abroad pathways, MBA after IT, and international university applications.
   avatar: /assets/images/authors/ritika-singh.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: F
 devendra-patil:
   name: Devendra Patil
@@ -144,7 +144,7 @@ devendra-patil:
   bio: Guides new joiners through documentation, NextStep portals, project allocation,
     and early career tips.
   avatar: /assets/images/authors/devendra-patil.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 shruti-agarwal:
   name: Shruti Agarwal
@@ -152,7 +152,7 @@ shruti-agarwal:
   bio: Examines corporate policies, work-from-home rules, and employee wellbeing in
     Indian tech companies.
   avatar: /assets/images/authors/shruti-agarwal.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: F
 nikhil-tiwari:
   name: Nikhil Tiwari
@@ -160,7 +160,7 @@ nikhil-tiwari:
   bio: Covers service-to-product switches, FAANG preparation, and upskilling strategies
     for IT professionals.
   avatar: /assets/images/authors/nikhil-tiwari.webp
-  pool: south-asian
+  pool: south-asian-it
   gender: M
 li-wei:
   name: Li Wei
@@ -336,7 +336,7 @@ rachel-foster:
   bio: Explores moral complexity, redemption arcs, and psychological depth in literary
     characters.
   avatar: /assets/images/authors/rachel-foster.webp
-  pool: western-lit
+  pool: western-general
   gender: F
 nathan-cole:
   name: Nathan Cole
@@ -399,7 +399,7 @@ amanda-ross:
   bio: Explores themes of identity, belonging, and growth in young adult and classic
     fiction.
   avatar: /assets/images/authors/amanda-ross.webp
-  pool: western-lit
+  pool: western-general
   gender: F
 daniel-morgan:
   name: Daniel Morgan
@@ -422,7 +422,7 @@ thomas-reid:
   credential: Data & Analytics Writer
   bio: Covers Tableau, data visualization best practices, and analytics career development.
   avatar: /assets/images/authors/thomas-reid.webp
-  pool: western-edu
+  pool: western-tech
   gender: M
 megan-clark:
   name: Megan Clark
@@ -526,7 +526,7 @@ diana-patel:
   bio: Writes about technology, utopia, and human nature in speculative and dystopian
     fiction.
   avatar: /assets/images/authors/diana-patel.webp
-  pool: western-lit
+  pool: western-general
   gender: F
 ian-fletcher:
   name: Ian Fletcher
@@ -534,7 +534,7 @@ ian-fletcher:
   bio: Covers Master Data Management, Oracle Data Integrator, and enterprise data
     architecture topics.
   avatar: /assets/images/authors/ian-fletcher.webp
-  pool: western-edu
+  pool: western-tech
   gender: M
 chloe-martin:
   name: Chloe Martin
@@ -542,7 +542,7 @@ chloe-martin:
   bio: Helps students master SAT reading comprehension, evidence questions, and grammar
     rules.
   avatar: /assets/images/authors/chloe-martin.webp
-  pool: western-lit
+  pool: western-general
   gender: F
 kevin-reeves:
   name: Kevin Reeves
@@ -678,7 +678,7 @@ antoine-moreau:
   bio: Covers the French Baccalaureat, grandes ecoles admissions, and European higher
     education systems.
   avatar: /assets/images/authors/antoine-moreau.webp
-  pool: european
+  pool: european-continental
   gender: M
 sophie-laurent:
   name: Sophie Laurent
@@ -686,7 +686,7 @@ sophie-laurent:
   bio: Writes about A-Levels, Baccalaureat preparation, and cross-border university
     applications in Europe.
   avatar: /assets/images/authors/sophie-laurent.webp
-  pool: european
+  pool: european-continental
   gender: F
 marc-dubois:
   name: Marc Dubois
@@ -694,7 +694,7 @@ marc-dubois:
   bio: Covers science and mathematics preparation for European university entrance
     examinations.
   avatar: /assets/images/authors/marc-dubois.webp
-  pool: european
+  pool: european-continental
   gender: M
 claire-beaumont:
   name: Claire Beaumont
@@ -702,7 +702,7 @@ claire-beaumont:
   bio: Writes about European university culture, housing, and the student experience
     across the continent.
   avatar: /assets/images/authors/claire-beaumont.webp
-  pool: european
+  pool: european-continental
   gender: F
 nicolas-girard:
   name: Nicolas Girard
@@ -710,7 +710,7 @@ nicolas-girard:
   bio: Analyzes education policy changes, testing reforms, and equity debates in European
     school systems.
   avatar: /assets/images/authors/nicolas-girard.webp
-  pool: european
+  pool: european-continental
   gender: M
 amelie-renaud:
   name: Amelie Renaud
@@ -718,7 +718,7 @@ amelie-renaud:
   bio: Covers literature, philosophy, and humanities preparation for European baccalaureat
     examinations.
   avatar: /assets/images/authors/amelie-renaud.webp
-  pool: european
+  pool: european-continental
   gender: F
 lukas-weber:
   name: Lukas Weber
@@ -726,7 +726,7 @@ lukas-weber:
   bio: Guides European students through UK and US university applications, including
     testing requirements.
   avatar: /assets/images/authors/lukas-weber.webp
-  pool: european
+  pool: european-british
   gender: M
 eva-lindstrom:
   name: Eva Lindstrom
@@ -734,7 +734,7 @@ eva-lindstrom:
   bio: Compares examination systems, grading standards, and admission practices across
     European countries.
   avatar: /assets/images/authors/eva-lindstrom.webp
-  pool: european
+  pool: european-british
   gender: F
 adi-pratama:
   name: Adi Pratama
@@ -798,4 +798,163 @@ maya-chen:
     continents.
   avatar: /assets/images/authors/maya-chen.webp
   pool: mixed
+  gender: F
+james-whitfield:
+  name: James Whitfield
+  credential: UK Education Writer
+  bio: Covers GCSE and A-Level preparation, UK university admissions, and the British
+    examination system.
+  avatar: /assets/images/authors/james-whitfield.webp
+  pool: european-british
+  gender: M
+emma-harrington:
+  name: Emma Harrington
+  credential: Secondary Education Specialist
+  bio: Writes about GCSE subject strategies, revision techniques, and exam board differences.
+  avatar: /assets/images/authors/emma-harrington.webp
+  pool: european-british
+  gender: F
+oliver-chambers:
+  name: Oliver Chambers
+  credential: A-Level Strategy Writer
+  bio: Helps students navigate A-Level choices, UCAS applications, and Russell Group
+    admissions.
+  avatar: /assets/images/authors/oliver-chambers.webp
+  pool: european-british
+  gender: M
+charlotte-davies:
+  name: Charlotte Davies
+  credential: Exam Results Analyst
+  bio: Tracks grade boundaries, attainment gaps, and exam reform across the UK education
+    system.
+  avatar: /assets/images/authors/charlotte-davies.webp
+  pool: european-british
+  gender: F
+park-jimin:
+  name: Park Jimin
+  credential: Suneung Strategy Writer
+  bio: Specializes in Korean CSAT preparation, subject selection strategies, and university
+    admissions counseling.
+  avatar: /assets/images/authors/park-jimin.webp
+  pool: east-asian-korean
+  gender: M
+kim-soyeon:
+  name: Kim Soyeon
+  credential: Korean Education Analyst
+  bio: Covers Suneung scoring systems, EBS connections, and study strategies for Korean
+    university entrance.
+  avatar: /assets/images/authors/kim-soyeon.webp
+  pool: east-asian-korean
+  gender: F
+lee-donghyun:
+  name: Lee Donghyun
+  credential: Test Prep Specialist
+  bio: Creates subject-specific study plans and mock exam strategies for the Korean
+    CSAT.
+  avatar: /assets/images/authors/lee-donghyun.webp
+  pool: east-asian-korean
+  gender: M
+choi-yuna:
+  name: Choi Yuna
+  credential: Student Admissions Writer
+  bio: Guides students through Suneung preparation, university applications, and score
+    optimization.
+  avatar: /assets/images/authors/choi-yuna.webp
+  pool: east-asian-korean
+  gender: F
+tanaka-hiroshi:
+  name: Tanaka Hiroshi
+  credential: Kyotsu Test Analyst
+  bio: Covers Japanese Common Test preparation, subject scoring, and national university
+    admission strategies.
+  avatar: /assets/images/authors/tanaka-hiroshi.webp
+  pool: east-asian-japanese
+  gender: M
+suzuki-aiko:
+  name: Suzuki Aiko
+  credential: Japanese Education Writer
+  bio: Writes about juku culture, exam preparation techniques, and the evolving Japanese
+    testing system.
+  avatar: /assets/images/authors/suzuki-aiko.webp
+  pool: east-asian-japanese
+  gender: F
+yamamoto-kenji:
+  name: Yamamoto Kenji
+  credential: University Entrance Specialist
+  bio: Specializes in Kyotsu Test subject strategies, second-stage exam prep, and
+    faculty-specific admissions.
+  avatar: /assets/images/authors/yamamoto-kenji.webp
+  pool: east-asian-japanese
+  gender: M
+nakamura-yui:
+  name: Nakamura Yui
+  credential: Exam Prep Coach
+  bio: Creates study schedules and revision strategies for Japanese high school students
+    preparing for university entrance.
+  avatar: /assets/images/authors/nakamura-yui.webp
+  pool: east-asian-japanese
+  gender: F
+dmitry-volkov:
+  name: Dmitry Volkov
+  credential: EGE Strategy Analyst
+  bio: Covers Unified State Examination preparation across mathematics, physics, and
+    informatics.
+  avatar: /assets/images/authors/dmitry-volkov.webp
+  pool: european-russian
+  gender: M
+anna-sokolova:
+  name: Anna Sokolova
+  credential: Russian Education Writer
+  bio: Writes about EGE Russian language preparation, essay strategies, and humanities
+    subject scoring.
+  avatar: /assets/images/authors/anna-sokolova.webp
+  pool: european-russian
+  gender: F
+mikhail-petrov:
+  name: Mikhail Petrov
+  credential: University Admissions Writer
+  bio: Covers Russian university entrance, budget vs contract seats, and regional
+    admissions disparities.
+  avatar: /assets/images/authors/mikhail-petrov.webp
+  pool: european-russian
+  gender: M
+elena-kuznetsova:
+  name: Elena Kuznetsova
+  credential: Exam Reform Reporter
+  bio: Tracks EGE policy changes, FIPI standards, and the evolution of Russia's examination
+    system.
+  avatar: /assets/images/authors/elena-kuznetsova.webp
+  pool: european-russian
+  gender: F
+chukwuemeka-obi:
+  name: Chukwuemeka Obi
+  credential: JAMB Preparation Writer
+  bio: Covers UTME subject strategies, CBT techniques, and Nigerian university admission
+    processes.
+  avatar: /assets/images/authors/chukwuemeka-obi.webp
+  pool: african
+  gender: M
+ngozi-adeyemi:
+  name: Ngozi Adeyemi
+  credential: Nigerian Education Analyst
+  bio: Writes about JAMB scoring, post-UTME screening, and WAEC preparation for secondary
+    students.
+  avatar: /assets/images/authors/ngozi-adeyemi.webp
+  pool: african
+  gender: F
+tunde-bakare:
+  name: Tunde Bakare
+  credential: West African Exam Writer
+  bio: Covers WAEC, NECO, and JAMB preparation with subject-wise strategies for Nigerian
+    students.
+  avatar: /assets/images/authors/tunde-bakare.webp
+  pool: african
+  gender: M
+amara-okafor:
+  name: Amara Okafor
+  credential: University Admissions Guide
+  bio: Guides students through Nigerian tertiary admissions, course selection, and
+    scholarship opportunities.
+  avatar: /assets/images/authors/amara-okafor.webp
+  pool: african
   gender: F

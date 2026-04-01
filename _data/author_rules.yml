@@ -1,17 +1,14 @@
 # ============================================================
-# AUTHOR ASSIGNMENT RULES
+# AUTHOR ASSIGNMENT RULES - COMPREHENSIVE
 # ============================================================
-# Priority: Rules are checked top-to-bottom. First match wins.
-# Each rule can match on: title keywords, tags, categories.
-# All matching is case-insensitive with word boundaries.
-#
-# pool: which demographic pool to draw from
-# scope: "title", "tags", "categories", or "any" (checks all)
+# 18 pools covering 20+ exam systems across 11+ countries
+# All matching uses word boundaries (no substring collisions)
+# Priority: Rules checked top-to-bottom. First match wins.
 # ============================================================
 
 rules:
 
-  # ── EAST ASIAN: Gaokao / Chinese Education ───────────────
+  # ── EAST ASIAN (Chinese): Gaokao ────────────────────────
   - keywords: ["gaokao", "高考", "录取分数线", "985", "211", "C9", "强基计划", "志愿填报", "高三"]
     scope: "any"
     pool: "east-asian"
@@ -28,8 +25,27 @@ rules:
     scope: "any"
     pool: "east-asian"
 
-  # ── SOUTHEAST ASIAN: CPNS / Indonesia ────────────────────
-  - keywords: ["CPNS", "Seleksi PNS", "CPNS Indonesia", "Panduan"]
+  - keywords: ["CET-4", "CET-6", "Kaoyan"]
+    scope: "any"
+    pool: "east-asian"
+
+  # ── EAST ASIAN (Korean): Suneung / CSAT ─────────────────
+  - keywords: ["Suneung", "수능", "CSAT Korea", "Korean CSAT", "EBS"]
+    scope: "any"
+    pool: "east-asian-korean"
+
+  # ── EAST ASIAN (Japanese): Kyotsu / Common Test ─────────
+  - keywords: ["Kyotsu", "共通テスト", "Common Test Japan", "juku"]
+    scope: "any"
+    pool: "east-asian-japanese"
+
+  # ── AFRICAN: JAMB / WAEC / NECO ─────────────────────────
+  - keywords: ["JAMB", "UTME", "WAEC", "NECO", "post-UTME"]
+    scope: "any"
+    pool: "african"
+
+  # ── SOUTHEAST ASIAN: CPNS / UTBK-SNBT / Indonesia ──────
+  - keywords: ["CPNS", "Seleksi PNS", "CPNS Indonesia", "Panduan", "UTBK", "SNBT"]
     scope: "any"
     pool: "southeast-asian"
 
@@ -42,63 +58,79 @@ rules:
     scope: "any"
     pool: "latin-american"
 
-  # ── EUROPEAN: Baccalaureat / A-Levels ────────────────────
-  - keywords: ["Baccalaureat", "Baccalaureate", "A-Levels", "grandes ecoles"]
+  # ── EUROPEAN (Russian): EGE / ЕГЭ ──────────────────────
+  - keywords: ["ЕГЭ", "EGE", "ФИПИ", "Фоксфорд", "Умскул", "МГУ", "МФТИ", "ВШЭ", "Бауманка", "СПбГУ"]
     scope: "any"
-    pool: "european"
+    pool: "european-russian"
 
-  # ── SOUTH ASIAN: Bollywood / Dhurandhar ──────────────────
+  - keywords: ["обществознание", "сочинение", "профиль", "задание", "русский язык ЕГЭ", "математика ЕГЭ"]
+    scope: "any"
+    pool: "european-russian"
+
+  # ── EUROPEAN (Continental): Baccalaureat / France ───────
+  - keywords: ["Baccalaureat", "Baccalaureate", "grandes ecoles"]
+    scope: "any"
+    pool: "european-continental"
+
+  # ── EUROPEAN (British): GCSE / A-Levels ─────────────────
+  - keywords: ["GCSE", "A-Levels", "A-Level", "UCAS", "Russell Group", "Ofqual", "AQA", "Edexcel", "OCR"]
+    scope: "any"
+    pool: "european-british"
+
+  # ── SOUTH ASIAN ENT: Bollywood / Dhurandhar / Culture ────
   - keywords: ["bollywood", "dhurandhar", "ranveer", "aamir", "shah rukh", "salman", "sanjay dutt", "aditya dhar", "spy-thriller"]
     scope: "any"
-    pool: "south-asian"
+    pool: "south-asian-ent"
 
   - keywords: ["ic-814", "uri", "pathaan", "ek-tha-tiger"]
     scope: "any"
-    pool: "south-asian"
+    pool: "south-asian-ent"
 
-  # ── SOUTH ASIAN: UPSC / Civil Services ───────────────────
-  - keywords: ["UPSC", "IAS", "Civil Services", "CSAT", "upsc-prelims", "upsc-mains", "upsc-strategy", "upsc-toppers", "upsc-booklist", "upsc-essay"]
-    scope: "any"
-    pool: "south-asian"
-
-  - keywords: ["sarkari", "SSC", "IBPS", "railway exam", "state PSC"]
-    scope: "any"
-    pool: "south-asian"
-
-  # ── SOUTH ASIAN: CAT / MBA Entrance ─────────────────────
-  - keywords: ["CAT exam", "CAT prep", "CAT aspirant"]
-    scope: "any"
-    pool: "south-asian"
-
-  # ── SOUTH ASIAN: TCS / Infosys / IT Companies ───────────
-  - keywords: ["TCS", "ILP", "NQT", "CodeVita", "TCS Ninja", "TCS Digital", "TCS Prime", "TCS BPS", "TCS Smart", "Aspire"]
-    scope: "any"
-    pool: "south-asian"
-
-  - keywords: ["Infosys", "InfyTQ", "HackWithInfy", "Springboard", "Mysore Training"]
-    scope: "any"
-    pool: "south-asian"
-
-  - keywords: ["Wipro", "Cognizant", "Accenture", "HCL"]
-    scope: "any"
-    pool: "south-asian"
-
-  - keywords: ["Fresher", "campus placement", "campus hiring", "off-campus", "IT Career", "IT Salary India", "IT company comparison", "Best IT Company"]
-    scope: "any"
-    pool: "south-asian"
-
-  - keywords: ["NEET", "IIT-JEE"]
-    scope: "any"
-    pool: "south-asian"
-
-  # ── SOUTH ASIAN: Bengali / Indian regional ───────────────
   - keywords: ["Feluda", "Sonar Kella", "Satyajit Ray", "Suman Chattopadhyay", "Kabir Suman", "Bengali"]
     scope: "any"
-    pool: "south-asian"
+    pool: "south-asian-ent"
 
   - keywords: ["Kolkata", "Bhubaneswar", "Odisha", "Chandaka", "Kalinga Park", "Salt Lake", "New Town", "Rajarhat"]
     scope: "any"
-    pool: "south-asian"
+    pool: "south-asian-ent"
+
+  # ── SOUTH ASIAN EXAM: UPSC / CAT / GATE / JEE / NEET / SSC / WBJEE ──
+  - keywords: ["UPSC", "IAS", "Civil Services", "CSAT", "upsc-prelims", "upsc-mains", "upsc-strategy", "upsc-toppers", "upsc-booklist", "upsc-essay"]
+    scope: "any"
+    pool: "south-asian-exam"
+
+  - keywords: ["sarkari", "SSC", "SSC CGL", "IBPS", "railway exam", "state PSC"]
+    scope: "any"
+    pool: "south-asian-exam"
+
+  - keywords: ["CAT exam", "CAT prep", "CAT aspirant"]
+    scope: "any"
+    pool: "south-asian-exam"
+
+  - keywords: ["NEET", "IIT-JEE", "JEE Main", "JEE Advanced", "GATE", "WBJEE"]
+    scope: "any"
+    pool: "south-asian-exam"
+
+  - keywords: ["MDCAT", "ECAT", "CSS Pakistan"]
+    scope: "any"
+    pool: "south-asian-exam"
+
+  # ── SOUTH ASIAN IT: TCS / Infosys / IT Companies ─────────
+  - keywords: ["TCS", "ILP", "NQT", "CodeVita", "TCS Ninja", "TCS Digital", "TCS Prime", "TCS BPS", "TCS Smart", "Aspire"]
+    scope: "any"
+    pool: "south-asian-it"
+
+  - keywords: ["Infosys", "InfyTQ", "HackWithInfy", "Springboard", "Mysore Training"]
+    scope: "any"
+    pool: "south-asian-it"
+
+  - keywords: ["Wipro", "Cognizant", "Accenture", "HCL"]
+    scope: "any"
+    pool: "south-asian-it"
+
+  - keywords: ["Fresher", "campus placement", "campus hiring", "off-campus", "IT Career", "IT Salary India", "IT company comparison", "Best IT Company"]
+    scope: "any"
+    pool: "south-asian-it"
 
   # ── WESTERN-LIT: Harry Potter / Fantasy Literature ───────
   - keywords: ["Harry Potter", "Hogwarts", "Dumbledore", "Voldemort", "Hermione", "Ron Weasley", "Snape", "Malfoy", "Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff", "Horcrux", "Quidditch"]
@@ -138,12 +170,11 @@ rules:
     scope: "tags"
     pool: "western-lit"
 
-  # ── WESTERN-EDU: SAT ───────────────────────────────────
-  - keywords: ["SAT"]
+  # ── WESTERN-EDU: SAT / ACT / AP / college admissions ───
+  - keywords: ["SAT", "ACT", "AP Exam", "AP Exams", "Advanced Placement", "College Board"]
     scope: "any"
     pool: "western-edu"
 
-  # ── WESTERN-EDU: Oxford / Harvard / Accommodation ──────
   - keywords: ["Oxford", "Harvard", "Cambridge", "Stanford", "MIT", "Ivy League"]
     scope: "any"
     pool: "western-edu"
@@ -152,7 +183,11 @@ rules:
     scope: "tags"
     pool: "western-edu"
 
-  # ── WESTERN-TECH: Tech Layoffs / Big Tech ──────────────
+  - keywords: ["solo-dining", "restaurants", "eating-alone", "counter-dining", "bar-seating"]
+    scope: "any"
+    pool: "western-edu"
+
+  # ── WESTERN-TECH: Layoffs / Big Tech / AI / MDM ────────
   - keywords: ["layoff", "layoffs", "job cuts", "restructuring", "workforce reduction"]
     scope: "any"
     pool: "western-tech"
@@ -165,7 +200,6 @@ rules:
     scope: "any"
     pool: "western-tech"
 
-  # ── WESTERN-TECH: AI Tools / Productivity ──────────────
   - keywords: ["ai tools", "ai writing", "ai video", "ai image", "ai coding", "ai music", "ai design", "ai assistant", "chatgpt", "gemini", "midjourney", "dall-e", "cursor", "copilot", "perplexity"]
     scope: "any"
     pool: "western-tech"
@@ -174,15 +208,9 @@ rules:
     scope: "any"
     pool: "western-tech"
 
-  # ── WESTERN-EDU: Solo Dining / Restaurants ─────────────
-  - keywords: ["solo-dining", "restaurants", "eating-alone", "counter-dining", "bar-seating"]
+  - keywords: ["Master Data Management", "Oracle Data Integrator", "MDM", "OBIEE", "Hadoop", "DRM", "ODI", "Essbase"]
     scope: "any"
-    pool: "western-edu"
-
-  # ── WESTERN-EDU: MDM / Data Integration ────────────────
-  - keywords: ["Master Data Management", "Oracle Data Integrator", "MDM", "OBIEE", "Hadoop"]
-    scope: "any"
-    pool: "western-edu"
+    pool: "western-tech"
 
   # ── MIXED: Analytics / Tableau ───────────────────────────
   - keywords: ["Tableau"]
@@ -190,8 +218,6 @@ rules:
     pool: "mixed"
 
   # ── CATEGORY-LEVEL FALLBACKS ─────────────────────────────
-  # These only trigger if no keyword rule matched above.
-
   - categories: ["Analytics"]
     pool: "mixed"
 
@@ -199,15 +225,14 @@ rules:
     pool: "western-tech"
 
   - categories: ["Travel"]
-    pool: "south-asian"
+    pool: "south-asian-ent"
 
   - categories: ["Leisure"]
-    pool: "western-lit"
+    pool: "western-general"
 
   - categories: ["Industry"]
     pool: "western-tech"
 
 
 # ── DEFAULT ────────────────────────────────────────────────
-# If nothing matches at all, this author is used directly.
 default_author: "insight-crunch-team"
