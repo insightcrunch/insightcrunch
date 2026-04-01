@@ -9,7 +9,7 @@ excerpt: "Complete guide to Harvard graduate housing - Harvard University Housin
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 51
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Graduate housing at Harvard is one of the most frequently misunderstood aspects of the Harvard experience for incoming students. Undergraduates have a guaranteed four-year system - the Yard for freshman year, a House for the remaining three - that provides certainty and community infrastructure from the moment of arrival. Graduate students have no such guarantee. Harvard's on-campus housing provision for graduate students is real, well-managed, and significantly below-market in rent - but it covers only a fraction of the thousands of graduate students enrolled across Harvard's thirteen schools and programmes. The majority of Harvard graduate students live in private off-campus housing in Cambridge and the surrounding area, navigating a rental market that is among the most expensive in the United States.
 

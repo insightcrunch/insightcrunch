@@ -9,7 +9,7 @@ excerpt: "The honest guide to Oxford student life - what the prospectus does not
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 54
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Every Oxford prospectus tells the same story. Ancient spires. Brilliant minds. A transformative academic experience. Tutorials with world-leading scholars. The opportunity to become part of one of history's greatest intellectual traditions. All of that is true. None of it tells you what Oxford student life is actually like.
 

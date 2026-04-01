@@ -9,7 +9,7 @@ excerpt: "The real cost of studying at Oxford: tuition fees, college fees, accom
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 54
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Every year, thousands of students receive an offer from Oxford University and begin asking the same question: what does studying here actually cost? The university publishes official cost-of-study estimates, and these numbers are real - but they represent a floor rather than a ceiling, and they do not capture the full picture of what academic life at Oxford costs across the range of experiences students actually have. A first-year undergraduate living in college accommodation, eating in hall, and spending most evenings in the library has a very different expenditure profile from a third-year undergraduate sharing a house off Cowley Road and navigating the social expectations of a socially active academic community. A funded doctoral student in humanities has a different financial reality from an unfunded master's student who has taken out a postgraduate loan and is managing against a finite runway of money.
 
