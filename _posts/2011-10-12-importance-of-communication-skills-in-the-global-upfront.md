@@ -4,11 +4,11 @@ title: "Importance of Communication Skills in the global upfront"
 date: 2011-10-12
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Technical skills get you hired, communication skills get you promoted. Why soft skills are the real differentiator in the global IT workplace."
+excerpt: "*This is a guest post by Ashish Nandwani. *"
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 4
 author: "sarah-mitchell"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 *This is a guest post by Ashish Nandwani.  *
 

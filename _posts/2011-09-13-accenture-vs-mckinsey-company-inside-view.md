@@ -4,11 +4,11 @@ title: "Accenture vs McKinsey – Inside View"
 date: 2011-09-13
 categories: ["Industry"]
 tags: ["Analysis and Opinions"]
-excerpt: "McKinsey or Accenture? Strategy consulting vs implementation at scale. Honest comparison of culture, pay, prestige, and daily work differences."
+excerpt: "McKinsey calls itself the best in the business when it comes to consulting in terms of strategy and management in the world. No doubt they are one of the..."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 4
 author: "sneha-reddy"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 McKinsey calls itself the best in the business when it comes to consulting in terms of strategy and management in the world. No doubt they are one of the heavyweights in this field which is crowded with heavyweights to very lightweights as more and more firms are diving into consulting these days. There are quite a few factors which we need to take into consideration when comparing the two elite organizations of McKinsey and Accenture.
 

@@ -4,11 +4,11 @@ title: "What do you need to get hired at Amazon?"
 date: 2011-11-17
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Want to work at Amazon? The specific skills, qualities, and leadership principle alignment that Amazon evaluates during its hiring process."
+excerpt: "Amazon is one of the largest corporations in the world today there are a variety of positions for which Amazon hire skilled workers all across the globe..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 9
 author: "william-knight"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Engineering years - The ideal approach"
 date: 2011-10-08
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Making the most of four engineering years. A year-by-year approach to academics, skill building, networking, and setting yourself up for placements."
+excerpt: "*This guest post was written by Ashish Nandwani*."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 4
 author: "emily-reed"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 *This guest post was written by Ashish Nandwani*.
 

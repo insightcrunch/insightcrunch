@@ -4,11 +4,11 @@ title: "Bing bleeding millions, as Google remains at top"
 date: 2011-10-14
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Microsoft's Bing is a money pit. Millions spent on the search engine with minimal market share gains. Can Bing ever justify the investment?"
+excerpt: "Microsoft’s Bing search engine has been one of the most recent disasters by any giant organization. Microsoft spent millions of dollars on it’s search..."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 1
 author: "andrew-price"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 Microsoft’s Bing search engine has been one of the most recent disasters by any giant organization. Microsoft spent millions of dollars on it’s search engine, advertising it to the fullest potential it can. It integrated Bing search into Internet Explorer, but still, Google continued to firmly stay at the top. Guess why?
 

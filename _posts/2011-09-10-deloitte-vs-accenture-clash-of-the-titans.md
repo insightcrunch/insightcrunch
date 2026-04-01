@@ -4,11 +4,11 @@ title: "Deloitte vs Accenture - Clash of the titans"
 date: 2011-09-10
 categories: ["Industry"]
 tags: ["Analysis and Opinions"]
-excerpt: "Deloitte or Accenture? Two consulting giants compared on work type, salary, prestige, career trajectory, and the consulting style that fits you."
+excerpt: "After PWC was sold of to IBM, EY to Capgemini, years ago, the big players in the field of consulting remained Deloitte, Accenture, IBM, KPMG, Ernst &..."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 2
 author: "siddharth-rao"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 After PWC was sold of to IBM, EY to Capgemini, years ago, the big players in the field of consulting remained Deloitte, Accenture, IBM, KPMG, Ernst & Young, CSC, etc. Most IT companies in general provide consulting service along with their IT solutions. The undoubted big players in this field can be named easily, but the daunting task comes when scoring one above the other. But still, with proper knowledge, a clear picture can be put forward.
 

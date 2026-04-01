@@ -4,11 +4,11 @@ title: "Is it hard to apply at Amazon?"
 date: 2011-12-17
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "The truth about applying to Amazon. How tough the process really is, what the portal expects, and why most applications never reach a recruiter."
+excerpt: "Amazon is one of the largest corporations in the world today and employs 1000s of people globally The one of the best aspects of Amazon in the variety of..."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 9
 author: "andrew-price"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Background
 
