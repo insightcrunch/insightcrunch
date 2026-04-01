@@ -30,7 +30,7 @@ rules:
     pool: "east-asian"
 
   # ── EAST ASIAN (Korean): Suneung / CSAT ─────────────────
-  - keywords: ["Suneung", "수능", "CSAT Korea", "Korean CSAT", "EBS"]
+  - keywords: ["Suneung", "수능", "CSAT Korea", "Korean CSAT"]
     scope: "any"
     pool: "east-asian-korean"
 
@@ -128,7 +128,7 @@ rules:
     scope: "any"
     pool: "south-asian-it"
 
-  - keywords: ["Fresher", "campus placement", "campus hiring", "off-campus", "IT Career", "IT Salary India", "IT company comparison", "Best IT Company"]
+  - keywords: ["Fresher", "campus placement", "campus hiring", "IT Career", "IT Salary India", "IT company comparison", "Best IT Company"]
     scope: "any"
     pool: "south-asian-it"
 
