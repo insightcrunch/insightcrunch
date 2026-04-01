@@ -8,7 +8,7 @@ tags: ["TCS coding questions", "TCS programming", "TCS coding solutions", "TCS C
 excerpt: "Original TCS-style coding problems with full solutions in four languages. From basics to advanced DSA for every TCS profile."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
-author: "rajan-kumar"
+author: "arjun-nair"
 render_with_liquid: false
 last_updated: 2026-03-30
 ---

@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Draco Malfoy across all Harry Potter books - privilege, conscience, and the boy who could not kill."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
-author: "sophia-turner"
+author: "lauren-hayes"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Boy Who Could Not Kill

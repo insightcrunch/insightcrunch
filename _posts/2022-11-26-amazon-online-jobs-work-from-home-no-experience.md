@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "No experience needed for these Amazon online jobs. Remote entry-level positions with training provided, what they pay, and how to get started."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 13
-author: "jason-mckenzie"
+author: "nathan-cole"
 last_updated: 2026-03-29
 ---
 ## Background

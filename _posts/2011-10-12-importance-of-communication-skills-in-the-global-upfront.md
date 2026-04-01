@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "*This is a guest post by Ashish Nandwani. *"
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 4
-author: "sarah-mitchell"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 *This is a guest post by Ashish Nandwani.  *

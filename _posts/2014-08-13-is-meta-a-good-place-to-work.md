@@ -4,11 +4,11 @@ title: "Is Meta a good place to work?"
 date: 2014-08-13
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Should you work at Meta? Compensation, perks, growth opportunities, and the real trade-offs employees face between rewards and workplace intensity."
+excerpt: "Meta is one of the largest software corporations in the world today. There are several town hall meetings conducted in Meta, where many Meta employees..."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 7
-author: "ryan-walsh"
-last_updated: 2026-03-29
+author: "jason-mckenzie"
+last_updated: 2026-04-01
 ---
 ## Background
 

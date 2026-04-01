@@ -8,7 +8,7 @@ tags: ['SAT Math Improvement', 'SAT Math Score Boost', 'SAT Math 100 Point Impro
 excerpt: "The complete guide to boosting your SAT Math score by 100+ points through targeted topic mastery, strategic practice, error analysis, and calculator optimization."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 45
-author: "simon-hartley"
+author: "katherine-blake"
 last_updated: 2026-03-29
 ---
 # How to Improve Your SAT Math Score by 100+ Points

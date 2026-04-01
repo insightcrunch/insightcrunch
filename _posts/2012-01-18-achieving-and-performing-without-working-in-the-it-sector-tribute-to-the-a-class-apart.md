@@ -7,7 +7,7 @@ tags: ["Analysis and Opinions"]
 excerpt: "There are no end to deadlines in the IT sector. If you are working on a development project, you have deliverables and codes to complete within the..."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 3
-author: "victoria-stone"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 There are no end to deadlines in the IT sector. If you are working on a development project, you have deliverables and codes to complete within the timeline. If you are working on a support project, you have to provide support as and when it is required to meet the demand of the hour. It is always a race with time. You always feel you do not have enough of it to complete all your tasks. Same is with your supervisors as well, in fact it is so for most people in the IT industry except few lucky ones who only need to spend the stipulated 9 hours daily and leave without any pressure of deadlines.

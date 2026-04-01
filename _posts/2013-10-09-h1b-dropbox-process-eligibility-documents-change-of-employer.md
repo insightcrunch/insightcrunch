@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "When you are applying for the United States visa renewal and you meet all the eligibility and criteria that are defined, you can get it stamped in your..."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 10
-author: "olivia-grant"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 ## Background

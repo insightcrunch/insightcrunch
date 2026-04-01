@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today and it employs thousands of employees all over the globe. The process to get hired at Amazon..."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 10
-author: "james-carter"
+author: "ian-fletcher"
 last_updated: 2026-04-01
 ---
 ## Background

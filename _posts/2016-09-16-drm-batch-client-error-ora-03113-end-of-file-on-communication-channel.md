@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "ORA-03113 in DRM Batch Client? The database communication error that breaks automated jobs and how to fix the underlying connection issue."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
-author: "samantha-lee"
+author: "david-thornton"
 last_updated: 2026-03-29
 ---
 We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to troubleshoot the errors that start happening as mostly when it happens (which is rarely though) it takes lot of time to resolve.

@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Deep literary analysis of Kreacher the house-elf in Harry Potter - servitude, grief, loyalty, and redemption."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
-author: "amanda-ross"
+author: "olivia-grant"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Creature Nobody Wanted to Understand

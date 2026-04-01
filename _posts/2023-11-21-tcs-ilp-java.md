@@ -8,7 +8,7 @@ tags: ["TCS ILP Java", "TCS Java training", "TCS ILP syllabus", "TCS ILP assessm
 excerpt: "Master the TCS ILP Java stream. Curriculum breakdown, IRA assessment prep, project phase guide, and a complete week-by-week study plan."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
-author: "amit-chatterjee"
+author: "rajan-kumar"
 last_updated: 2026-03-30
 ---
 Java is the most commonly assigned TCS ILP stream because TCS's project portfolio is dominated by Java-based enterprise applications. Banking systems, insurance platforms, retail order management, healthcare records, logistics trackers - the overwhelming majority of the applications TCS builds and maintains for its clients run on Java. When you are allocated to the Java stream, TCS is investing in converting you from a college-educated programmer into a productive contributor to these systems. This guide maps that journey in full: the complete curriculum, the weekly pacing, the assessment structure, the project phase, and the specific preparation strategies that help you perform well at each stage - starting from before ILP begins to the moment you walk into your first real project.

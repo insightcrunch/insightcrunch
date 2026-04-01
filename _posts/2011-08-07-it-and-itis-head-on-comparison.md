@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "IT and ITIS. The twins of the outsourcing world. One refers to Information Technology, the other IT Infrastructure Services. Most of us often get confused..."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
-author: "anita-das"
+author: "nikhil-tiwari"
 last_updated: 2026-04-01
 ---
 ## Overview

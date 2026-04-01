@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Ginny Weasley across all Harry Potter books - identity, survival, and the girl who refused to remain in anyone's shadow."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "claire-bennett"
+author: "victoria-stone"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Girl in the Background Who Was Never Background

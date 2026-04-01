@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon has a variety of job openings around the world, including many of its fulfillment centers and warehouses. Due to the attractive compensation and..."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 10
-author: "marcus-hall"
+author: "ryan-walsh"
 last_updated: 2026-04-01
 ---
 ## Background

@@ -8,7 +8,7 @@ tags: ["brave-new-world", "aldous-huxley", "bernard-marx", "character-analysis",
 excerpt: "Deep analysis of Bernard Marx - his alienation, vanity, cowardice, and role as a false rebel in Huxley's world."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
-author: "sophia-turner"
+author: "elena-wright"
 last_updated: 2026-03-31
 ---
 Bernard Marx is the character in Brave New World that readers most consistently misread, and the misreading is always in the same direction: toward sympathy he has not earned and toward a rebelliousness he does not possess. He appears, in the novel's early chapters, to be the character through whom Huxley is mounting his critique of the World State: the dissatisfied insider whose alienation is a form of seeing, whose discomfort with the World State's values is the precondition for recognizing their bankruptcy. He appears to be the novel's hero, or at least its protagonist in the sense of the character whose perspective organizes the reader's experience of the narrative. This appearance is what Huxley most deliberately subverts. Bernard is not seeing clearly. He is seeing selfishly. His dissatisfaction with the World State is not the dissatisfaction of someone who wants genuine human values in place of managed contentment. It is the dissatisfaction of someone who wants the World State's goods, the social access, the sexual success, the status and recognition, more completely than his physical under-development has allowed him to have them. His rebellion is not rebellion. It is resentment dressed in the language of rebellion, and the difference matters enormously to the novel's argument.

@@ -8,7 +8,7 @@ tags: ["TCS", "Outsourcing", "IT Demand", "Global Trends"]
 excerpt: "Tata consultancy services put all discussions to rest after a hype regarding weakening demand over the IT and outsourcing sector after brokerage firm..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
-author: "anita-das"
+author: "vikram-iyer"
 last_updated: 2026-04-01
 ---
 Every few months, a brokerage report lands in the financial press, a consultancy publishes a market study, or a prominent technology executive makes a comment that sets off a wave of speculation: Is IT outsourcing demand weakening? Are global companies pulling back from offshore models? Is the business that underpins TCS's entire existence facing structural erosion?

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "There is a huge amount of competition for every opening of a job at Amazon. The acceptance rate at Amazon is 2% which is really competitive in the current..."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 10
-author: "alex-cunningham"
+author: "nathan-cole"
 last_updated: 2026-04-01
 ---
 ## Background

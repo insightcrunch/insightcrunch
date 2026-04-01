@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon remote work pay breakdown. Hourly rates for support roles, salary ranges for corporate WFH positions, and how pay compares to in-office work."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 13
-author: "abigail-cooper"
+author: "thomas-reid"
 last_updated: 2026-03-29
 ---
 ## Background

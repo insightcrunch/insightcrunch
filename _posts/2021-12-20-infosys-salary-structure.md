@@ -8,7 +8,7 @@ tags: ["Infosys", "Infosys Salary", "Infosys CTC", "Infosys In-Hand Salary", "In
 excerpt: "Detailed Infosys salary breakdown at every level from fresher to manager with in-hand calculations after all deductions."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 45
-author: "shruti-agarwal"
+author: "pooja-gupta"
 last_updated: 2026-03-29
 ---
 Understanding your salary at Infosys requires more than knowing the CTC figure stated in your offer letter. The gap between what Infosys offers as a total cost to company and what actually reaches your bank account every month is significant, and the reasons for that gap are embedded in a salary structure that most candidates and even many current employees never fully understand.

@@ -8,7 +8,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Alternat
 excerpt: "What if Quirrell had won? What if Hermione had solved the chess puzzle alone? What if the Mirror of Erised showed Harry something entirely different?"
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "sarah-mitchell"
+author: "emily-reed"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Book That Started Everything

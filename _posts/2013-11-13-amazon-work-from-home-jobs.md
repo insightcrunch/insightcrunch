@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is the most widely recognized and trusted online shopping merchant around the world. According to a study by Forbes, Amazon was listed as one of..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 9
-author: "andrew-price"
+author: "marcus-hall"
 last_updated: 2026-04-01
 ---
 ## Amazon Remote Work

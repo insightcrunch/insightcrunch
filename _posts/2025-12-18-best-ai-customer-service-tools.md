@@ -8,7 +8,7 @@ tags: ["ai customer service", "ai chatbot", "helpdesk", "support automation", "a
 excerpt: "A detailed review of AI customer service tools that reduce costs and improve satisfaction."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 59
-author: "jason-mckenzie"
+author: "kevin-reeves"
 last_updated: 2026-03-31
 ---
 Customer service has always been the department where a company's values meet its operational reality. Every interaction is simultaneously a chance to build loyalty and a risk of destroying it - and the volume of interactions most organizations handle makes consistent quality execution genuinely hard. AI customer service tools have arrived at exactly the right moment: contact center costs are rising, customer expectations are higher than they have ever been, and the talent required to staff large support teams is both expensive and difficult to retain. The tools covered in this guide are addressing these pressures in ways that range from automating routine deflection to making human agents dramatically more effective on the interactions that require genuine skill.

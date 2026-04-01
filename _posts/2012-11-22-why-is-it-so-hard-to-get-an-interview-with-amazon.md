@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Why Amazon interviews are so hard to land: the hiring bar, resume screening criteria, referral weight, and what makes Amazon's process uniquely selective."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 10
-author: "marcus-hall"
+author: "kevin-reeves"
 last_updated: 2026-04-01
 ---
 ## Background

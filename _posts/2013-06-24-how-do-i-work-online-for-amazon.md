@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest technology corporations in the world today. Some common type of jobs that are available right now at Amazon are in the fields..."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 9
-author: "james-carter"
+author: "david-thornton"
 last_updated: 2026-04-01
 ---
 ## Background

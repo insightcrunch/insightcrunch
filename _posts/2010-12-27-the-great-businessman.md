@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 5
-author: "amanda-ross"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.

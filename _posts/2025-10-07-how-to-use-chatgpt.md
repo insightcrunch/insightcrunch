@@ -8,7 +8,7 @@ tags: ["chatgpt", "chatgpt tutorial", "ai guide", "openai", "chatgpt tips"]
 excerpt: "Master ChatGPT from scratch - prompting strategies, plugins, custom GPTs, and advanced tricks."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 61
-author: "marcus-hall"
+author: "kevin-reeves"
 last_updated: 2026-03-31
 ---
 ChatGPT is the most widely used AI tool in the world, and yet the gap between how most people use it and how the most productive users use it is enormous. The majority of ChatGPT users treat it like a slightly smarter search engine - typing simple questions and accepting whatever comes back without much thought about how they are asking or how they could guide the response toward something genuinely useful. The minority who have invested time in understanding how ChatGPT actually works - how it interprets instructions, what makes a prompt effective, how to use its more advanced features - get qualitatively different results that make the tool feel like a capable assistant rather than a novelty. This guide covers everything from first login to advanced workflows, with the specific techniques that separate casual users from power users at every level.

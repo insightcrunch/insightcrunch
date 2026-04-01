@@ -3,7 +3,7 @@ layout: post
 title: "TCS ILP LAP and Reschedule - Complete Guide for Freshers"
 excerpt: "Everything you need to know about TCS ILP LAP (Learning Advancement Program) and the rescheduling process. Understand what triggers LAP, how rescheduling..."
 date: 2025-08-22
-author: "kavita-sharma"
+author: "ritika-singh"
 categories: ["Industry"]
 tags: ["TCS", "IRA", "TCS ILP", "LAP", "Fresher", "Reschedule", "Diagnostics"]
 image: "/assets/images/blog/blog-58.webp"

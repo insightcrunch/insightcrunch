@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Searching for relevant products and getting an idea of their prices is a breeze now with the integration of eBay search in the dynamic Kewll. There has..."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 1
-author: "elena-wright"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 Searching for relevant products and getting an idea of their prices is a breeze now with the integration of eBay search in the dynamic Kewll. There has been the latest add-ons to this toolbar. With already thousands of users, this new utility is sure to excite all.

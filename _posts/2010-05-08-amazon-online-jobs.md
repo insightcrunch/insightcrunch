@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon offers a variety of jobs in different parts of the world in its vast network of supply chain and warehouses. In this article, we will be presenting..."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 11
-author: "andrew-price"
+author: "abigail-cooper"
 last_updated: 2026-04-01
 ---
 ## Background

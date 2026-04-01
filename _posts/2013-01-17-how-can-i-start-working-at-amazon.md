@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the major players in a variety of technology and industrial fields today. It is important for aspiring candidates who want to be part of..."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 10
-author: "kevin-reeves"
+author: "thomas-reid"
 last_updated: 2026-04-01
 ---
 ## Background

@@ -8,7 +8,7 @@ tags: ['SAT Busy Student', 'SAT Limited Time', 'SAT Study Schedule Busy', 'SAT E
 excerpt: "The complete SAT preparation guide for students balancing school, activities, and limited study time with efficient strategies, micro-study sessions, and weekend optimization."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
-author: "hannah-moore"
+author: "katherine-blake"
 last_updated: 2026-04-01
 ---
 # SAT Preparation for Busy Students: Study Plan With Limited Time

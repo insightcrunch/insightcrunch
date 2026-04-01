@@ -8,7 +8,7 @@ tags: ["TCS", "Financial Analysis", "Annual Performance", "Revenue Metrics"]
 excerpt: "In case you have missed it, here is the most comprehensive update of this outstanding performance by this giant. Here are some of the key talks that were..."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 45
-author: "devendra-patil"
+author: "arun-verma"
 last_updated: 2026-04-01
 ---
 Every quarter, TCS releases a set of financial results that the business media covers for about forty-eight hours before moving on. Investors parse the numbers. Analysts update their models. Recruiters adjust their hiring pipelines. And the vast majority of TCS employees - including hundreds of thousands of freshers and mid-level associates - read the headlines, note that the company seems to be doing well or poorly, and return to their work without extracting the deeper signals embedded in those numbers.

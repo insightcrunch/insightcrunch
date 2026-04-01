@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "Accommodation", "Pune", "Fresher", "Hostel", "Hinjewadi", 
 excerpt: "The complete guide to TCS accommodation in Pune for ILP associates. Covers the Hinjewadi IT Park campus, PG and hostel options in Hinjewadi, Wakad, Baner, and Mahalunge, the meals-included PG advantage, Pune's pleasant climate, weekend hill station trips, room quality, costs, female associate housing, and everything you need to know before arriving for ILP in India's most livable IT city."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 50
-author: "nikhil-tiwari"
+author: "sneha-reddy"
 last_updated: 2026-03-29
 ---
 Pune is the TCS ILP city where the climate works in your favor. While associates in Chennai battle humidity, those in Hyderabad endure dry heat, and those in Kolkata negotiate monsoon waterlogging, Pune offers the most temperate and pleasant weather of any major TCS ILP location for most of the year. The Hinjewadi IT Park, where TCS operates its Pune ILP campus, is one of the largest IT ecosystems in India, and the accommodation infrastructure around it has matured into a competitive market with options for every budget and preference. Pune is also notable for its PG culture: many paying guest accommodations in the Hinjewadi corridor include meals as part of the monthly rent, which removes the daily food logistics burden that dominates the ILP experience in some other cities.

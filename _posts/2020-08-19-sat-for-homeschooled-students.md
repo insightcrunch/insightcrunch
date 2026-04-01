@@ -8,7 +8,7 @@ tags: ['SAT Homeschool', 'SAT for Homeschoolers', 'SAT Homeschool Registration',
 excerpt: "The complete SAT guide for homeschooled students covering registration process, ID requirements, preparation without school structure, and why SAT scores carry extra weight in college admissions."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 45
-author: "michael-brooks"
+author: "maria-santos"
 last_updated: 2026-04-01
 ---
 Homeschooled students face a unique set of circumstances when it comes to the SAT. They lack the institutional scaffolding that traditional school students take for granted: no school counselor automatically guiding them through registration, no school code to enter on the form, no built-in deadlines driven by a school's application advisory process, and no familiar classroom environment to draw on as a mental model for the testing room. At the same time, homeschooled students have advantages that traditional students rarely possess: the flexibility to schedule intensive preparation blocks when they are most productive, the ability to test when genuinely ready rather than on a school-driven calendar, and often a self-directed learning disposition that translates directly into effective independent test preparation.

@@ -7,7 +7,7 @@ tags: ["Thoughts", "Bengali Literature", "Satyajit Ray", "Feluda", "Sonar Kella"
 excerpt: "সত্যজিৎ রায়ের 'সোনার কেল্লা' যদি অন্যভাবে শেষ হতো? মুকুলের স্মৃতি, ফেলুদার বুদ্ধি, এবং রাজস্থানের ধুলোমাখা পথে যদি ভিন্ন ঘটনার জন্ম হতো - সেই কল্পনার..."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 55
-author: "meera-pillai"
+author: "amit-chatterjee"
 last_updated: 2026-03-31
 ---
 ## ভূমিকা: একটি অমর কাহিনির নতুন পাঠ

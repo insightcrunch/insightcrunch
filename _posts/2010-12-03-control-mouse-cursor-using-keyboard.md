@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "This is a very very very small tool that is going to be very very very useful to you. No joke. How many times have we faced a problem when we wished if we..."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 1
-author: "kevin-reeves"
+author: "marcus-hall"
 last_updated: 2026-04-01
 ---
 This is a very very very small tool that is going to be very very very useful to you. No joke. How many times have we faced a problem when we wished if we could control our mouse using our keyboards. How good would it be. This small tool is going to liven up the connection between your cursor and keyboard.

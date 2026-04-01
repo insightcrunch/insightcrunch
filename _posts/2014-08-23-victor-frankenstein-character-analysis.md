@@ -8,7 +8,7 @@ tags: ["frankenstein", "mary-shelley", "victor-frankenstein", "character-analysi
 excerpt: "Deep analysis of Victor Frankenstein - his ambition, cowardice, self-pity, and catastrophic irresponsibility."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "sophia-turner"
 last_updated: 2026-04-01
 ---
 Victor Frankenstein is one of the most precisely constructed studies in self-deception in the English literary tradition. He is not a villain in any conventional sense: he does not choose evil consciously, does not pursue harm deliberately, and is genuinely devastated by the consequences of what he has done. He is something more disturbing than a villain. He is a person of genuine intelligence and genuine feeling who has organized his entire relationship to the world around the principle that his vision justifies whatever it costs, and who has developed a capacity for self-pity so complete that he can grieve the consequences of his choices without ever fully acknowledging that the choices were his to make and refuse. Every death in Frankenstein is a consequence of Victor's decisions. Victor mourns every death. And throughout the novel, he consistently manages to position himself as the primary victim of the catastrophe he has created, while the people who actually died, William, Justine, Henry, Elizabeth, his father, remain the secondary casualties of his tragedy. The achievement of this positioning is not cynical manipulation. It is the specific form of self-deception that an exceptionally intelligent person develops when they need to protect themselves from the full weight of what they have done.

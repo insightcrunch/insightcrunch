@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest technology companies today, and it employs thousands of people all across the world. Employees at Amazon are offered various..."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 9
-author: "james-carter"
+author: "thomas-reid"
 last_updated: 2026-04-01
 ---
 ## Background

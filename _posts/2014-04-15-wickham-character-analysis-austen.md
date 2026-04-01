@@ -8,8 +8,8 @@ tags: ["pride-and-prejudice", "jane-austen", "wickham", "character-analysis", "l
 excerpt: "Analysis of Wickham in Pride and Prejudice - his charm, lies, predatory behavior, and role as Austen's warning."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
-author: "sarah-mitchell"
-last_updated: 2026-03-29
+author: "elena-wright"
+last_updated: 2026-04-01
 ---
 George Wickham is the most dangerous character in Pride and Prejudice, and the reason he is so dangerous is precisely because he does not seem dangerous at all. In a novel populated by characters whose flaws are visible, whose vanities are on display, and whose social awkwardness announces itself in every drawing room, Wickham operates with a smoothness that disarms everyone he encounters. He is handsome, articulate, apparently open, and devastatingly likable. He tells Elizabeth Bennet exactly what she wants to hear about Darcy at exactly the moment she is most inclined to believe it, and he does so with the relaxed confidence of a man who has spent his entire adult life perfecting the art of winning people over in order to exploit them. Jane Austen created in Wickham not merely a villain, but a study in the mechanics of manipulation, a character whose charm is itself the weapon, and whose greatest trick is making everyone believe that he is the victim rather than the predator.
 

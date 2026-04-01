@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Attending an Amazon job fair? What to expect, documents to bring, the on-site interview process, and how same-day offers work at Amazon hiring events."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 13
-author: "gregory-marsh"
+author: "nathan-cole"
 last_updated: 2026-03-29
 ---
 ## Background

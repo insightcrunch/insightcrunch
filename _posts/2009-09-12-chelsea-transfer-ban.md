@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Here’s a small parody, which under no circumstances should be taken seriously. Share this with your friends ;) Under the current scenario, the situation..."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 1
-author: "rachel-foster"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 Here’s a small parody, which under no circumstances should be taken seriously. Share this with your friends ;) Under the current scenario, the situation could well may or my not be like this. The morale of the concerned fans and people may or may not be like this. The critics may or may not open up and speak their mind out under this scenario. Hitler expresses himself here, a small portrayal of reactions what the current scenario can draw. Everything depends on Chelsea...!

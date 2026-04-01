@@ -4,11 +4,11 @@ title: "Is Facebook hiring freeze over?"
 date: 2014-05-08
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Has Meta resumed hiring after the freeze? Which roles are opening back up, what teams are still paused, and the outlook for job seekers."
+excerpt: "Meta is one of the largest corporations in the technology industry today. Due to an increase in competition from other apps like TikTok and Snapchat, Meta..."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 9
-author: "ryan-walsh"
-last_updated: 2026-03-29
+author: "marcus-hall"
+last_updated: 2026-04-01
 ---
 ## Background
 

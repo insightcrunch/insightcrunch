@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2022", "Surfing"]
 excerpt: "Splurge-worthy dining in Chicago. The Michelin-starred restaurants, tasting menus, and luxury dining experiences that food lovers travel for."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 4
-author: "megan-clark"
+author: "chloe-martin"
 last_updated: 2026-03-30
 ---
 ## Introduction

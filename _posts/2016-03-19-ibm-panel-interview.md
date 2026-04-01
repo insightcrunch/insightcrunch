@@ -7,7 +7,7 @@ tags: ["IBM"]
 excerpt: "The new age of technology has seen large corporations invest in the development of advanced machines and technologies. IBM is one of the top software..."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 4
-author: "nathan-cole"
+author: "ian-fletcher"
 last_updated: 2026-03-29
 ---
 ## Overview

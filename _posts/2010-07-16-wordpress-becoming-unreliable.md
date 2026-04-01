@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "With a fairly reliable track record over the years, Wordpress.com faced a big hiccup last month which affected more than 10+ million blogs, and then again..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
-author: "lauren-hayes"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 With a fairly reliable track record over the years, Wordpress.com faced a big hiccup last month which affected more than 10+ million blogs, and then again on June 10th, 2010. Most of the blogs including TechCrunch and some of CNN’s blogs which are hosted on tha platform went down. The only message available was *“WordPress.com will be back in a minute!”*

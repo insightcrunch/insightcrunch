@@ -8,7 +8,7 @@ tags: ["dhurandhar", "box-office-records", "bollywood", "franchise", "ranveer-si
 excerpt: "Every box office record the Dhurandhar franchise has shattered - milestones, firsts, and historic achievements."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
-author: "pooja-gupta"
+author: "amit-chatterjee"
 last_updated: 2026-03-31
 ---
 The records are the least interesting thing about the Dhurandhar franchise's box office performance. That sentence requires defending, because the records are extraordinary: the fastest Hindi film to cross 500 crore, the biggest opening day in Hindi cinema history, the first franchise to produce two 1000-crore Hindi films, a worldwide gross that finally gave Bollywood a credible answer to the South Indian blockbusters that had been redefining Indian cinema's commercial ceiling for five years. These are facts worth knowing and worth putting in context. But the records are symptoms. The rupture is the diagnosis.

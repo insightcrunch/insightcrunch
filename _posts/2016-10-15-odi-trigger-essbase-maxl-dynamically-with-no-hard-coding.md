@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "No more hard-coded MaxL in ODI. How to trigger Essbase operations dynamically using variables, making your cube management environment-agnostic."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 2
-author: "nathan-cole"
+author: "ian-fletcher"
 last_updated: 2026-03-29
 ---
 The Oracle Data Integrator tool provides a flexible option, though customized, to call and execute MaxL scripts to perform various operations on our Essbase cubes. And more importantly, this approach using ODI is completely independent of the environment we are going to run our ODI codes in. A simple control table will contain the server information that will be referred by the ODI code to run the MaxL scripts in that specific Essbase instance.

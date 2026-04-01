@@ -8,7 +8,7 @@ tags: ["college application tips", "Common App essay", "college admissions", "te
 excerpt: "The most complete college application guide: Common App strategy, essay writing with examples, recommendation letter requests, extracurricular..."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 55
-author: "ryan-walsh"
+author: "jason-mckenzie"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

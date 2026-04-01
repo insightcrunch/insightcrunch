@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta interview process explained: recruiter screen, coding rounds, system design, behavioral loop, hiring committee, and how each stage is evaluated."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 12
-author: "jason-mckenzie"
+author: "nathan-cole"
 last_updated: 2026-04-01
 ---
 ## Background

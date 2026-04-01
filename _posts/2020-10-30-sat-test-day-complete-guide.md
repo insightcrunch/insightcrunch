@@ -8,7 +8,7 @@ tags: ['SAT Test Day', 'SAT Test Day Tips', 'SAT What to Bring', 'SAT Test Day C
 excerpt: "The complete SAT test day guide covering what to bring, arrival and check-in, room setup, break strategy, pacing, mental focus techniques, and post-test steps."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
-author: "samantha-lee"
+author: "natalie-webb"
 last_updated: 2026-04-01
 ---
 The SAT is not just a test of academic knowledge. It is also a test of preparation, execution, and composure under pressure. Many students spend months mastering algebra, perfecting grammar rules, and completing practice test after practice test, yet still underperform on the actual day because they did not prepare for the logistics, the physical demands, the mental challenges, and the unexpected variables that come with sitting a high-stakes standardized test.

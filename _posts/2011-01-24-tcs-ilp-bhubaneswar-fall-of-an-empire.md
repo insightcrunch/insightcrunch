@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Failure", "Re-Assessment"]
 excerpt: "The final stretch at TCS ILP Bhubaneswar: project phase pressure, PRA preparation, friendships tested, and the bittersweet countdown to completion."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
-author: "deepika-joshi"
+author: "devendra-patil"
 last_updated: 2026-04-01
 ---
 The score appeared on the screen. 12.08%. Everything went black.

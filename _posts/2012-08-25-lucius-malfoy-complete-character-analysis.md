@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Lucius Malfoy across all Harry Potter books - aristocratic evil, family loyalty, and the Death Eater who lost everything."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "chloe-martin"
+author: "claire-bennett"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Elegant Face of Evil

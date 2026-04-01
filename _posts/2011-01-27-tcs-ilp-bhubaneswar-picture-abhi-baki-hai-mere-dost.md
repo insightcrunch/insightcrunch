@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Bhubaneswar", "Kalinga Park", "Project Allocation", "Post-
 excerpt: "Life after TCS ILP Bhubaneswar: project allocation wait, friendships continuing, and the realization that ILP was just the beginning of the TCS journey."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 55
-author: "ritika-singh"
+author: "nandini-sen"
 last_updated: 2026-04-01
 ---
 The final results are posted at TCS Kalinga Park. The last assessment in Bhubaneswar is done. The training center's structured world of sessions, assessments, and batch routines at the Chandaka Industrial Estate campus is suddenly behind you. And somewhere ahead, maybe in days, maybe in weeks, a project allocation is waiting that will define the first real chapter of your TCS career. For freshers who completed ILP in Bhubaneswar, this moment carries a specific set of emotions, logistics, and possibilities that differ from what associates experience at any other ILP center in the country.

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today which hires over thousands of candidates across a variety of diverse domains. Amazon has a..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 10
-author: "robert-quinn"
+author: "ryan-walsh"
 last_updated: 2026-04-01
 ---
 ## Background

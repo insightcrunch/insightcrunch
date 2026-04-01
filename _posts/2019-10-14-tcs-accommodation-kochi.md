@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "Accommodation", "Kochi", "Kerala", "Fresher", "Infopark", 
 excerpt: "The complete guide to TCS accommodation in Kochi for associates at the Infopark campus. Covers the three TCS buildings at Infopark Phase 1 (Vismaya, TCS Centre SEZ, and Tejomaya), the Kakkanad IT corridor accommodation options, Kochi Metro connectivity, Kerala's legendary food culture and backwater destinations, the monsoon experience in God's Own Country, Marine Drive evening life, PG and rental pricing near Infopark, weekend trips to Munnar, Alleppey, Thekkady, and Fort Kochi, and everything freshers need for living in India's most beautiful IT city."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 50
-author: "priya-mehta"
+author: "meera-pillai"
 last_updated: 2026-04-01
 ---
 Kochi is the TCS city where the IT corridor meets the Arabian Sea. No other TCS posting places you in a city where you can watch container ships enter one of India's busiest natural harbors from Marine Drive, where the Chinese fishing nets of Fort Kochi have been standing for centuries along the same waterfront where Portuguese, Dutch, and British traders once competed for the spice trade, and where the backwaters of Kerala begin their labyrinthine journey through coconut-fringed canals that have made "God's Own Country" one of the most recognized tourism brands in the world.

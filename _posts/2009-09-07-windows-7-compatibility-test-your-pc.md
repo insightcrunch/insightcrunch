@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "If you have Java installed, you can check out right now if your computer meets requirements of the resource hungry Windows 7 OS. Practically if Vista was..."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 2
-author: "diana-patel"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 If you have Java installed, you can check out right now if your computer meets requirements of the resource hungry Windows 7 OS. Practically if Vista was making your PC sweat up everything it has  got, Windows7 will make it cry for mercy. So in the tool below just submit your hardware specification and get your result. This will just give you a overview and is by no means an official confirmation as many PCs may well run Windows 7 with weak hardware specs while some with higher specs might find it difficult based on applications and programs used.

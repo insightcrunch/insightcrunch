@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Harry Potter across all seven books - his psychology, moral courage, and enduring place in literary history."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
-author: "claire-bennett"
+author: "victoria-stone"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Ordinary Extraordinary

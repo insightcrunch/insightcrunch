@@ -8,7 +8,7 @@ tags: ["1984", "george-orwell", "julia", "character-analysis", "literary-analysi
 excerpt: "Complete analysis of Julia in 1984 - her pragmatic rebellion, relationship with Winston, and ultimate betrayal."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "sarah-mitchell"
+author: "claire-bennett"
 last_updated: 2026-04-01
 ---
 Julia is the most misread character in 1984, and the misreading tells us more about what readers bring to the novel than about what Orwell put into it. She is routinely described as Winston Smith's love interest, as the catalyst for his rebellion, or as the less intellectually serious of the two rebels, the one who falls asleep during the important parts. All of these characterizations are partially accurate and substantially wrong. Julia is not a supporting character in Winston's story; she is a fully realized rebel in her own right, whose form of resistance is different from Winston's in ways that are not incidental to the novel's argument but central to it. Understanding what Julia is actually doing in 1984, and why Orwell designed her as he did, requires letting go of the assumption that the novel is primarily about Winston and recognizing that the two rebels represent two distinct and complementary analyses of what resistance under totalitarianism looks like and what it costs.

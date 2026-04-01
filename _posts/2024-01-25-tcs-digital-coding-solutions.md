@@ -8,7 +8,7 @@ tags: ["TCS Digital coding", "TCS Digital solutions", "TCS competitive coding", 
 excerpt: "Advanced coding problems at TCS Digital difficulty level with complete solutions. Your competitive programming workbook for Digital."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "vikram-iyer"
+author: "ritika-singh"
 render_with_liquid: false
 last_updated: 2026-03-30
 ---

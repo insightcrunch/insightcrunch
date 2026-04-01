@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "The IE6 had been a worry for many web developers till now, but in the last one year, its usage has dropped by around 7%. So it's really a cause of..."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 1
-author: "sophia-turner"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 The IE6 had been a worry for many web developers till now, but in the last one year, its usage has dropped by around 7%. So it's really a cause of cheering amongst them, not to forget Microsoft too. IE8 usage has been pretty decently rising, with 30% of the market share being held by it in the US.

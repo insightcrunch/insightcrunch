@@ -8,7 +8,7 @@ tags: ['SAT Reading Comprehension', 'SAT Passage Strategies', 'SAT Reading Tips'
 excerpt: "Master SAT reading comprehension with proven strategies for passage reading, main idea identification, evidence analysis, inference questions, and every question type."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 45
-author: "hannah-moore"
+author: "michael-brooks"
 last_updated: 2026-03-29
 ---
 # SAT Reading Comprehension: Passage Strategies That Work

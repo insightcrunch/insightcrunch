@@ -7,7 +7,7 @@ tags: ["VaultBook", "Note-Taking", "Productivity", "Encryption", "AI"]
 excerpt: "We tested every major note-taking app on the market against the demands of modern knowledge work. One app delivered on every front: security, search..."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 25
-author: "james-carter"
+author: "thomas-reid"
 last_updated: 2026-04-01
 ---
 We tested every major note-taking app on the market against the demands of modern knowledge work. One app delivered on every front: security, search intelligence, offline reliability, and sheer depth of features. Here is why [VaultBook](https://vaultbook.net/) is the best note-taking app available today and why nothing else comes close.

@@ -7,7 +7,7 @@ tags: ["Oxford", "University", "UK", "Accommodation", "College", "Ranking", "Stu
 excerpt: "A comprehensive comparison and ranking of accommodation across all Oxford colleges. Covers room quality, rent costs, accommodation guarantees, location, en-suite availability, modern vs historic rooms, scout service, kitchen facilities, and the overall accommodation experience at every college, helping prospective and current students make informed decisions about one of the most important factors in Oxford student life."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 50
-author: "patrick-dunn"
+author: "jessica-kim"
 last_updated: 2026-04-01
 ---
 Choosing an Oxford college is one of the most consequential decisions in the application process, and accommodation is among the top factors that should inform that choice. Two students studying the same degree at Oxford can have wildly different living experiences depending on their college: one paying GBP 1,166 per term in a guaranteed room with excellent scout service and subsidized meals, the other paying GBP 2,750 per term with no guarantee of housing beyond the first year. The difference over a three-year degree can amount to thousands of pounds and a fundamentally different daily experience.

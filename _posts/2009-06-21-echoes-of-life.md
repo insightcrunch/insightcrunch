@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Pink Floyd and the philosophy of life: how the greatest progressive rock band created music that echoes human existence, loss, and meaning."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 2
-author: "megan-clark"
+author: "chloe-martin"
 last_updated: 2026-04-01
 ---
 Pink Floyd often called the greatest band of Progressive Psychedelic Rock, perhaps the greatest rock band ever is always known for its bizarre experimentation with music. It’s obsession with harangued lyrics, obscure musical ballets and often far stretched guitar solos often contribute to the mystique of their composition.

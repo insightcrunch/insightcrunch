@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "College graduate aiming for Amazon? The hiring paths for freshers, what Amazon looks for in campus recruits, and how to prepare while still in college."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 12
-author: "jason-mckenzie"
+author: "alex-cunningham"
 last_updated: 2026-03-29
 ---
 ## Background

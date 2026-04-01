@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "How long before Meta hires again? The signals to watch, what quarterly results need to show, and realistic timeline estimates for the freeze to lift."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
-author: "alex-cunningham"
+author: "ryan-walsh"
 last_updated: 2026-03-29
 ---
 ## Overview

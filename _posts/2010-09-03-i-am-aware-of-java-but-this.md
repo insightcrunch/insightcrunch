@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "The most powerful and versatile tool that’s been built. It has practically got entangled with most of the apps that we use everyday, be it on our..."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 1
-author: "sophia-turner"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 The most powerful and versatile tool that’s been built. It has practically got entangled with most of the apps that we use everyday, be it on our desktops, laptops, mobile devices or other portable devices. But have we envisioned something that what its spread might be like soon and how people around us would react to it. Take a look to find it out.

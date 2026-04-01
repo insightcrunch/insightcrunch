@@ -7,7 +7,7 @@ tags: ["ILP", "TCS"]
 excerpt: "This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 5
-author: "karthik-menon"
+author: "pooja-gupta"
 last_updated: 2026-04-01
 ---
 This is a guest post on TCS joining experience by Debapriya Mukherjee. The views expressed are entirely of the author.

@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
-author: "william-knight"
+author: "gregory-marsh"
 last_updated: 2026-04-01
 ---
 1. Google Chrome Dual View lets you view two pages at the same time. It will split the page into two halves and let you view the articles of both together.

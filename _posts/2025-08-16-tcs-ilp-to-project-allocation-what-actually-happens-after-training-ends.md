@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Project Allocation", "RMG", "Bench Period", "TCS Career", 
 excerpt: "You cleared IRA, passed every diagnostic, survived the PRA, and completed your ILP. The training is over. What happens next? The transition from ILP..."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 28
-author: "nandini-sen"
+author: "ritika-singh"
 last_updated: 2026-03-31
 ---
 You cleared IRA, passed every diagnostic, survived the PRA, and completed your ILP. The training is over. What happens next? The transition from ILP trainee to project-assigned associate is one of the most talked about yet least understood phases of the TCS fresher journey. Rumors about months-long bench periods, technology mismatches, and confusing project interviews circulate freely in fresher communities, but detailed information about how the system actually works is surprisingly hard to find.

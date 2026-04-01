@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta (Facebook) interview experience: real account of coding rounds, system design, behavioral questions, and the preparation that made the difference."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 13
-author: "gregory-marsh"
+author: "james-carter"
 last_updated: 2026-04-01
 ---
 ## Background

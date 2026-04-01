@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Find Amazon WFH jobs. The types of remote positions available, qualification requirements, how to apply, and what the virtual onboarding looks like."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 13
-author: "robert-quinn"
+author: "gregory-marsh"
 last_updated: 2026-03-29
 ---
 ## Background

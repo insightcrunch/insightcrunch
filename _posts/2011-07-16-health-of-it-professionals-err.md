@@ -7,7 +7,7 @@ tags: ["Analysis and Opinions"]
 excerpt: "“Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well it doesn’t have as much cheese as you would get in the Chicken Cheese Italiano Pizza in..."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 4
-author: "lauren-hayes"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 “Hi, did you taste that new Zinger meal at KFC? It’s awesome! Well it doesn’t have as much cheese as you would get in the Chicken Cheese Italiano Pizza in Pizza Hut, but it tastes good. Also try the Chocolate pastry at Biscotti if you ever get a chance.” This is pretty much what one would hear if he gets to ask an IT professional about some good food in the city. Yes, they have the money. They have the cool geek status. They don't bother to spend thousands for the style. They surround themselves with all sorts of gadgets (including me!). And last but not the least, they never compromise on eating to focus on their health. In fact, an average IT professional spends anything between 5-10% of his or her salary on food.

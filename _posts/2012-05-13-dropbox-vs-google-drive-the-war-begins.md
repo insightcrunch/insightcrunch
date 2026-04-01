@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "When the emperor is proudly marching forward conquering everything that comes it’s way, can he leave behind a kingdom that is being defended securely by..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 3
-author: "robert-quinn"
+author: "ryan-walsh"
 last_updated: 2026-04-01
 ---
 When the emperor is proudly marching forward conquering everything that comes it’s way, can he leave behind a kingdom that is being defended securely by its rivals over the years? Definitely not. Despite rumors that kept on emerging over the last few years, Google did not launch its Google Drive until this year. And launched it has, with seamless integration into all its services making it right away the cloud storage candy for computer lovers.

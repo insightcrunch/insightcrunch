@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "Power up your BI Apps ETL with machine learning. How to integrate predictive models into ODI pipelines for smarter, more automated data processing."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 3
-author: "nathan-cole"
+author: "andrew-price"
 last_updated: 2026-03-29
 ---
 Like many millennials, one of my favorite video game was Mario. The most satisfying thing about **Super Mario** were the power-up mushrooms - that gave it added abilities, to keep conquering world after world. Similarly, today when data and information are created at an accelerating rate, outstripping the ability of humans to keep up - it becomes imperative for enterprise operations to enable a digital workforce to achieve demonstrable gains in efficiency and productivity.

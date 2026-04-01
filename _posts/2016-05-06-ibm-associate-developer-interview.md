@@ -7,7 +7,7 @@ tags: ["IBM"]
 excerpt: "IBM is one of the largest information technology corporations in the world. Employing over hundreds of thousands of employees, IBM has become synonymous..."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 2
-author: "alex-cunningham"
+author: "gregory-marsh"
 last_updated: 2026-03-29
 ---
 ## Overview

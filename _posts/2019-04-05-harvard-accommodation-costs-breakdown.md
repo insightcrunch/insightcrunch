@@ -8,7 +8,7 @@ tags: ["Harvard Accommodation Costs", "Harvard Housing Costs", "Harvard Tuition 
 excerpt: "Complete breakdown of Harvard accommodation costs - room and board for undergraduates, graduate housing costs, off-campus rental prices in Cambridge, financial aid impact, and realistic budget planning for every year at Harvard."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 50
-author: "hannah-moore"
+author: "christopher-wells"
 last_updated: 2026-04-01
 ---
 The cost of Harvard accommodation is one of the first financial realities that prospective students encounter, and it is frequently either misunderstood or only partially understood. The published sticker price - the full cost of attendance figure that appears on the Harvard website - is a number that relatively few students actually pay, because Harvard's financial aid programme is among the most generous in American higher education. But understanding what Harvard accommodation actually costs, what is included in the charges, how financial aid changes the out-of-pocket reality, and what the realistic budget looks like for different categories of student requires significantly more detail than the headline figure provides.

@@ -8,7 +8,7 @@ tags: ["TCS Ninja coding", "TCS coding beginners", "TCS Foundation coding", "TCS
 excerpt: "From zero coding knowledge to cracking TCS Ninja coding round. Step-by-step guide with solutions in four languages for beginners."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "arjun-nair"
+author: "pooja-gupta"
 last_updated: 2026-03-30
 ---
 The TCS Ninja Foundation Coding section is the section that ends the most careers before they begin. Candidates who score well in aptitude and reasoning often discover that their coding section produced zero output - and in TCS's evaluation, zero output means zero marks, regardless of how close the logic was. This is not a section where partial credit saves you. Either your program compiles, runs, and produces correct output, or it does not. This guide makes that outcome achievable for every candidate, including non-CS students and those who have not written code in years. The explanations start from scratch and the solutions are given in all four TCS-supported languages with line-by-line comments explaining every single step.

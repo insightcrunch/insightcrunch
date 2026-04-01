@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Albus Dumbledore across all seven Harry Potter books - his wisdom, his secrets, his failures, and his enduring place in literary history."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "sophia-turner"
+author: "claire-bennett"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Wizard Behind the Curtain

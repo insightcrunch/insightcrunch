@@ -8,7 +8,7 @@ tags: ['SAT Data Interpretation', 'SAT Charts in Reading', 'SAT Graphs Reading',
 excerpt: "Master SAT data interpretation within reading passages covering how to read charts, tables, and graphs, connect data to text claims, and answer data-based questions accurately."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 45
-author: "christopher-wells"
+author: "katherine-blake"
 last_updated: 2026-04-01
 ---
 # SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy

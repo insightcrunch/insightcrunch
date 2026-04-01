@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "How is Kyndryl stock performing after the IBM spinoff? Market analysis, leadership strategy, revenue trajectory, and the outlook for investors."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 3
-author: "robert-quinn"
+author: "ryan-walsh"
 last_updated: 2026-03-29
 ---
 ## Overview

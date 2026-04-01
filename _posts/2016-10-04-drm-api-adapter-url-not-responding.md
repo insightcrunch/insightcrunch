@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "DRM API Adapter down? The integration endpoint your GL sync depends on. How to check, restart, and fix the URL that connects DRM to other systems."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 1
-author: "simon-hartley"
+author: "andrew-price"
 last_updated: 2026-03-29
 ---
 The Oracle Data Relationship Management Web Services use the API Adapter to communicate with the DRM server. This Adapter forms an integral part of this Master Data Management tool for it to integrate and connect with other systems.

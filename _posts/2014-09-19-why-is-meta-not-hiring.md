@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "The reasons behind Meta's hiring freeze. Revenue pressure, Metaverse costs, TikTok competition, and the strategic pivot that halted recruitment."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 8
-author: "david-thornton"
+author: "jason-mckenzie"
 last_updated: 2026-03-29
 ---
 ## Background

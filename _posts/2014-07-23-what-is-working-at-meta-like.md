@@ -4,11 +4,11 @@ title: "What is working at Meta like?"
 date: 2014-07-23
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Working at Meta from the inside. The culture, the perks, the pace, the pressure, and what daily life actually looks like behind the company's walls."
+excerpt: "Meta is one of the largest software organizations in the world today. Meta has been hiring a lot of engineers over the last few years. Due to the variety..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 8
-author: "jason-mckenzie"
-last_updated: 2026-03-29
+author: "ryan-walsh"
+last_updated: 2026-04-01
 ---
 ## Background
 

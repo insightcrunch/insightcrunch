@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today. And there are a variety of jobs that candidates can apply for at Amazon based on their skill..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 13
-author: "alex-cunningham"
+author: "benjamin-scott"
 last_updated: 2026-04-01
 ---
 ## Background

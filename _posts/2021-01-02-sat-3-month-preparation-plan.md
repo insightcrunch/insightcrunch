@@ -8,7 +8,7 @@ tags: ['SAT 3 Month Study Plan', 'SAT 3 Month Prep', 'SAT Intensive Study Plan',
 excerpt: "The complete 3-month SAT preparation plan with intensive week-by-week schedule, topic prioritization, and strategies for maximizing improvement in limited time."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 45
-author: "daniel-morgan"
+author: "michael-brooks"
 last_updated: 2026-04-01
 ---
 # SAT 3-Month Study Plan: Focused Preparation Timeline

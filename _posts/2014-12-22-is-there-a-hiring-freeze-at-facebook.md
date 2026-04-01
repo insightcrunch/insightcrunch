@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta froze hiring for engineers and data scientists. The internal warnings, the economic triggers, and what this means for active job seekers."
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 9
-author: "alex-cunningham"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

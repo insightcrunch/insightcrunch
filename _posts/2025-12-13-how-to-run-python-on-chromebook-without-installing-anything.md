@@ -7,7 +7,7 @@ tags: ["Python", "Chromebook", "Online Python", "Code Runner", "Programming"]
 excerpt: "Running Python on a Chromebook used to mean fighting with Linux containers, Crostini, or remote servers. Not anymore. This guide shows you how to write..."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 32
-author: "james-carter"
+author: "marcus-hall"
 last_updated: 2026-03-31
 ---
 If you own a Chromebook and need to run Python, you have probably already hit the wall. You search for how to install Python, and every guide tells you to enable the Linux development environment, open a terminal, run a series of arcane commands, install packages with pip, configure PATH variables, and troubleshoot dependency conflicts. If your Chromebook is managed by a school or employer, the Linux option might be disabled entirely, leaving you staring at a locked-down machine that seemingly cannot run the most popular programming language on the planet.

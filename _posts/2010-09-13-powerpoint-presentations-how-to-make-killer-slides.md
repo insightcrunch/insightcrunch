@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "We have all come across presentations, some of them we have found boring to death and struggled to stay awake and some were so enthralling that chills ran..."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 1
-author: "claire-bennett"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 We have all come across presentations, some of them we have found boring to death and struggled to stay awake and some were so enthralling that chills ran down our spine as time passed. No doubt the presenter has a role to play, but the presentation plays the major role in it.

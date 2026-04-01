@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "TCS ITIS detailed analysis: what IT Infrastructure Services means, the work involved, career trajectory in ITIS, and how it differs from application..."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
-author: "shruti-agarwal"
+author: "arjun-nair"
 last_updated: 2026-04-01
 ---
 ## Overview

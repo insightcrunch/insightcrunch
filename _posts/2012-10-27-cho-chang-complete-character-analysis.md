@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Cho Chang across the Harry Potter books - a grieving girl misjudged by readers and protagonist alike, and what she reveals about teenage love."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
-author: "claire-bennett"
+author: "elena-wright"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Girl We Got Wrong

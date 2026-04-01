@@ -8,7 +8,7 @@ tags: ["Infosys Placement Papers", "Infosys Previous Year Questions", "Infosys Q
 excerpt: "Infosys placement papers with 200+ previous year questions, detailed solutions, and exam pattern analysis for quantitative, logical, verbal, and pseudocode sections."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 60
-author: "sneha-reddy"
+author: "devendra-patil"
 last_updated: 2026-03-29
 ---
 Preparing for the Infosys placement test without working through placement papers is like preparing for a driving test by only reading the traffic rulebook. The theoretical knowledge is necessary but not sufficient. Placement papers, when used correctly, do something that topic-wise practice cannot: they expose you to the exact format, the exact difficulty calibration, and the exact time pressure of the actual test so that nothing on the day itself feels unfamiliar.

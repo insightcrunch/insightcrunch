@@ -8,7 +8,7 @@ tags: ["Infosys Work Culture", "Infosys Onsite", "Infosys Bench Policy", "Infosy
 excerpt: "Insider guide to Infosys work life covering onsite selection, bench survival, bond clauses, and the full resignation process."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 45
-author: "anita-das"
+author: "priya-mehta"
 last_updated: 2026-03-31
 ---
 There is a version of Infosys that exists in the hiring brochure - the global campuses, the six core values, the structured career path, the Mysore training experience - and there is a version of Infosys that exists in the actual workday. For most employees, the two versions overlap more than the cynics suggest and diverge more than the optimists admit. The experience of working at Infosys depends enormously on which project you land on, who your manager is, what the client demands, and where in Infosys's sprawling organisational structure you happen to be positioned.

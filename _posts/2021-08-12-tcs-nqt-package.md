@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Salary Package", "CTC Breakdown"]
 excerpt: "The Tata Consultancy Services NQT exam is one of the most popular exams today. The test is taken by hundreds of thousands of candidates every year who are..."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 45
-author: "meera-pillai"
+author: "shruti-agarwal"
 last_updated: 2026-03-29
 ---
 The TCS NQT package is not a single number - it is a set of numbers determined by which track you qualify for. TCS Ninja and TCS Digital carry different CTC figures, different in-hand monthly amounts, and different career trajectories. Understanding the complete package picture before you take the NQT shapes your preparation target: if the ₹3.5 LPA difference between Ninja and Digital compounds over five years, the additional preparation investment for Digital becomes one of the highest-return decisions an engineering fresher can make.

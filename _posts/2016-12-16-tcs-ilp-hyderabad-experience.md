@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "*This is a guest post. The views expressed are of the author.*"
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 35
-author: "pooja-gupta"
+author: "priya-mehta"
 last_updated: 2026-03-29
 ---
 *This is a guest post. The views expressed are of the author.*

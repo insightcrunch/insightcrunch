@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "People have never really sticked to one particular social networking site for a long time. Since Orkut started out way back in the 2000s, people flocked..."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 1
-author: "andrew-price"
+author: "david-thornton"
 last_updated: 2026-04-01
 ---
 People have never really sticked to one particular social networking site for a long time. Since Orkut started out way back in the 2000s, people flocked into it, and it became a madness. There was nothing that could be compared to Orkut’s mad addiction to anything in the contemporary internet or physical world. Students and adults, geeks and normal people, everyone went on to live into it. It became a world of its own.

@@ -8,7 +8,7 @@ tags: ["TCS", "Campus Recruitment", "Placement Process", "Engineering Freshers"]
 excerpt: "Students who have been doubtfully aspiring to get placed in the top software company can breathe easy now. TCS while declaring their Quarter 1 results..."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 45
-author: "kavita-sharma"
+author: "vikram-iyer"
 last_updated: 2026-04-01
 ---
 For the majority of engineering students across India, TCS campus recruitment is not just a placement opportunity - it is the most anticipated professional event of their academic career. TCS is the largest recruiter from Indian engineering campuses by absolute numbers, and its placement drives carry a weight of expectation that few other companies match. Understanding exactly how the process works - from the moment TCS announces its campus visit to the day an offer letter appears in the NextStep portal - removes the anxiety of uncertainty and replaces it with the clarity that enables focused, effective preparation.

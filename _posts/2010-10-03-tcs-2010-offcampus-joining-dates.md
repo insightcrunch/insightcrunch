@@ -8,7 +8,7 @@ tags: ["TCS", "Off-Campus", "Joining Date", "Campus vs Off-Campus"]
 excerpt: "The process of giving out joining dates for the offcampus candidates seems to be slow but have started. It is just a matter of time now before each an..."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
-author: "arjun-nair"
+author: "rajan-kumar"
 last_updated: 2026-04-01
 ---
 A persistent observation in TCS fresher communities is that off-campus candidates receive joining dates later than their campus counterparts. The original article that prompted this rewrite notes exactly this pattern: off-campus candidates "had been a little disappointed for sometime now as their joinings weren't at the same pace as their on-campus counterparts." This guide explains why this pattern exists, how pronounced the difference is, what factors determine the specific off-campus timeline, and what off-campus candidates can do to manage the waiting period effectively.

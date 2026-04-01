@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "The double hit at Meta: mass layoffs plus a hiring freeze. Which teams lost people, which roles are frozen, and what the combined impact looks like."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 13
-author: "gregory-marsh"
+author: "alex-cunningham"
 last_updated: 2026-03-29
 ---
 ## Background

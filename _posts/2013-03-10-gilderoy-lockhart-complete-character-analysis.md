@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Gilderoy Lockhart in Harry Potter: the series' most spectacular fraud, whose emptiness is both comedy and genuine horror, and who ends the second book without a self to recover."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "chloe-martin"
+author: "olivia-grant"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Man Who Was Only His Own Legend

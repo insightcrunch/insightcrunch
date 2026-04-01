@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "What do Amazon WFH employees actually say? Real reviews covering pay, flexibility, workload, management, and whether remote Amazon roles are worth it."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 10
-author: "kevin-reeves"
+author: "jason-mckenzie"
 last_updated: 2026-03-29
 ---
 ## Background

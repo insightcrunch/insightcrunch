@@ -7,7 +7,7 @@ tags: ["TCS"]
 excerpt: "Many colleges have started getting some information regarding their probable joining dates as is apparently seen from the massive outburst of activities..."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 1
-author: "arun-verma"
+author: "karthik-menon"
 last_updated: 2026-04-01
 ---
 Many colleges have started getting some information regarding their probable joining dates as is apparently seen from the massive outburst of activities and posts in some orkut communities.  Candidates are really very happy and excited about the new developments and constantly discussing and sharing their views and new information regarding joining dates. Let’s hope all the candidates get their joining dates soon. 

@@ -8,7 +8,7 @@ tags: ['SAT Chinese Students', 'SAT China', 'SAT for Chinese', 'SAT Preparation 
 excerpt: "The complete SAT guide for Chinese students covering registration, leveraging math strengths, overcoming English reading challenges, and building a US college application strategy."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
-author: "thomas-reid"
+author: "hannah-moore"
 last_updated: 2026-04-01
 ---
 China is one of the largest sources of international students at US universities, and the SAT is a central component of the application process for Chinese students pursuing undergraduate study in the United States. Yet the experience of preparing for and taking the SAT from China involves challenges and opportunities that are specific to the Chinese educational context: test center availability that has varied significantly over time, an extraordinary mathematics advantage rooted in China's rigorous school curriculum, and a substantial English language challenge that requires strategic preparation to overcome.

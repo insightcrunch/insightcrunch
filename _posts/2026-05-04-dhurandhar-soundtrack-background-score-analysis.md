@@ -8,7 +8,7 @@ tags: ["dhurandhar", "soundtrack", "shashwat-sachdev", "bollywood-music", "backg
 excerpt: "Complete analysis of Dhurandhar's soundtrack and score - how Shashwat Sachdev's music elevates every scene."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "shruti-agarwal"
+author: "amit-chatterjee"
 last_updated: 2026-03-31
 ---
 There is a scene in Dhurandhar Part 1 where Hamza is alone. He has just navigated a dinner with Rehman Dakait's inner circle, performed warmth he does not feel, laughed at jokes he found hollow, and established trust he intends to betray. He steps onto the balcony of his Lyari apartment. The camera holds on his face for four seconds. He says nothing. He does nothing. And in those four seconds, Shashwat Sachdev's score does what the character cannot: it tells the truth. A single melodic phrase, built on a descending interval that the franchise has been seeding since its opening minutes, rises briefly and falls away, and in that falling away the audience understands everything about the cost of what just happened inside that dinner room. The scene would be intelligible without the music. With it, it is devastating.

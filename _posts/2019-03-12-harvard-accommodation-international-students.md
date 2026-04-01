@@ -8,7 +8,7 @@ tags: ["Harvard International Students Housing", "Harvard Accommodation Internat
 excerpt: "Complete guide to Harvard accommodation for international students - undergraduate House system, graduate housing options, arriving from abroad, the Cambridge rental market without US credit history, visas and housing rights, financial planning, and everything international students need to know before and after arriving at Harvard."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 54
-author: "thomas-reid"
+author: "hannah-moore"
 last_updated: 2026-04-01
 ---
 Every year, thousands of international students arrive in Cambridge, Massachusetts to begin programmes at Harvard University. They come from over 150 countries, speaking hundreds of languages, arriving from educational systems and cultural backgrounds that differ from the American context in ways large and small. Most have spent months - sometimes years - working toward Harvard admission. Many have never been to the United States before. Almost none of them fully anticipate what the practical reality of finding and securing housing in Cambridge will actually involve.

@@ -8,7 +8,7 @@ tags: ["TCS", "Recruiting Colleges", "Campus Placement", "College Eligibility"]
 excerpt: "TCS 2010 batch recruited colleges: which engineering colleges received joining dates, the pace of onboarding, and insights for freshers still waiting."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 45
-author: "pooja-gupta"
+author: "karthik-menon"
 last_updated: 2026-04-01
 ---
 "Does TCS recruit from my college?" is one of the most searched questions among engineering students across India every placement season. It is also one of the least clearly answered - TCS does not publish a definitive public list, the unofficial lists circulating online are often outdated, and the information most relevant to any specific student is about whether TCS will visit their specific campus in the current placement season, not about a historical list compiled from past cycles. This guide addresses the question fully: what is known about how TCS selects the colleges it recruits from, what the patterns in that selection look like, how students at colleges not on TCS's active campus list can access TCS through off-campus routes, and what placement officers can do to build or strengthen their institution's TCS relationship.

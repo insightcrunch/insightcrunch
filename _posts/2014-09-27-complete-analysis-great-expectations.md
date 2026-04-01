@@ -8,7 +8,7 @@ tags: ["great-expectations", "charles-dickens", "novel-analysis", "literary-anal
 excerpt: "The definitive analysis of Great Expectations - Pip's journey, class critique, and Dickens at his finest."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "elena-wright"
+author: "emily-reed"
 last_updated: 2026-04-01
 ---
 Great Expectations is the novel in which Charles Dickens most completely achieves the integration of his social critique with his narrative art. The earlier novels, Oliver Twist, Nicholas Nickleby, Bleak House, are magnificent, but they are magnificent in the specific way of the Victorian serial novel at its most ambitious: the social argument and the narrative are organized as parallel tracks that interact and illuminate each other without fully becoming the same thing. In Great Expectations, published serially in 1860 and 1861, the social argument and the narrative are genuinely one thing. The critique of the Victorian class system is not delivered through the narrator's explicit commentary or through the plot's explicit demonstrations of social injustice. It is delivered through the specific structure of Pip's development: through what he values, what he pursues, what he abandons, and what the pursuit costs him in the specific dimensions of genuine connection and genuine identity that the aspiration to the gentleman's status progressively eliminates. The class critique is the character development and the character development is the class critique, which is the specific formal achievement that makes Great Expectations the most tightly constructed of Dickens's major novels and the most consistently rewarding for the reader who engages with the specific form of the argument rather than simply with the plot's pleasures.

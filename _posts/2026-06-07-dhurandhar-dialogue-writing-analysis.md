@@ -8,7 +8,7 @@ tags: ["dhurandhar", "dialogue", "screenwriting", "bollywood", "aditya-dhar", "f
 excerpt: "How Dhurandhar uses dialogue to build tension, define character, and deliver both restraint and spectacle."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "devendra-patil"
+author: "nandini-sen"
 last_updated: 2026-04-01
 ---
 Bollywood dialogue traditionally announces itself. It arrives at the emotional destination in advance and then describes the journey: the character says what they feel, what they want, what they are about to do, what the scene means. The confession is made explicit, the threat is stated directly, the revelation is named at the moment it occurs. This tradition of emotional announcement reflects the commercial cinema's preference for clarity: large audiences in diverse linguistic contexts need dialogue that communicates its intent without requiring inference. The result is a dialogue culture where the gap between what characters say and what they mean is typically small, and where silence is used primarily as a pause before further announcement rather than as a communicative act in its own right.

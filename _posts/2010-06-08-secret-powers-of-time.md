@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "All of us have different perspectives of time as we move forward in our life. Here let’s take a look at how we can view the perspectives yet from more..."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 1
-author: "diana-patel"
+author: "chloe-martin"
 last_updated: 2026-04-01
 ---
 All of us have different perspectives of time as we move forward in our life. Here let’s take a look at how we can view the perspectives yet from more different angles. And as we watch this video, let’s flood our minds with more different perceptions and contradictions. Which time zone are we actually living in? Or are we navigating across several zones every moment of our days?

@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Deep literary analysis of Cornelius Fudge across Harry Potter - denial, political failure, and institutional cowardice."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "olivia-grant"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Man Who Broke the World by Doing Nothing

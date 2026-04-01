@@ -8,7 +8,7 @@ tags: ["Infosys", "Infosys Hiring Process", "Infosys Interview", "Infosys Recrui
 excerpt: "Complete guide to every stage of the Infosys hiring process from application to offer letter with preparation strategies."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
-author: "shruti-agarwal"
+author: "pooja-gupta"
 last_updated: 2026-03-31
 ---
 Getting hired at Infosys is one of the most sought-after milestones in the Indian IT industry. With a global workforce measured in hundreds of thousands and a reputation for structured, merit-based recruitment, Infosys runs one of the largest and most transparent hiring machines in the technology sector. Whether you are a fresher walking into your first campus placement drive, an experienced professional applying through a job portal, or a candidate being referred by someone inside the organisation, the path to a blue Infosys badge is well defined - but only for those who understand it deeply.

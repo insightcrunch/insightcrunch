@@ -8,7 +8,7 @@ tags: ["SIP investment", "mutual fund for beginners", "income tax saving", "PPF 
 excerpt: "A complete personal finance guide for Indian salaried professionals and young earners: SIP and mutual fund basics, PPF vs NPS comparison, stock market..."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 50
-author: "kevin-reeves"
+author: "robert-quinn"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Seamus Finnigan in Harry Potter: the boy who doubted Harry at the worst moment, found his courage, and became one of Hogwarts' most defiant defenders."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
-author: "lauren-hayes"
+author: "sophia-turner"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Boy Who Nearly Missed the War

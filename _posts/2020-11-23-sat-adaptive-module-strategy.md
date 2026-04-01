@@ -8,7 +8,7 @@ tags: ['SAT Adaptive Testing', 'SAT Module Strategy', 'SAT Module 1 Module 2', '
 excerpt: "Master the SAT adaptive testing system by understanding how Module 1 routes to Module 2, how the scoring ceiling works, and the strategic implications for test-taking."
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 45
-author: "michael-brooks"
+author: "katherine-blake"
 last_updated: 2026-04-01
 ---
 # SAT Adaptive Testing Strategy: How Modules Work and How to Win

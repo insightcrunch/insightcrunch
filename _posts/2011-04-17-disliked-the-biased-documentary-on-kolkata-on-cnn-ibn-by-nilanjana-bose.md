@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that..."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 2
-author: "siddharth-rao"
+author: "amit-chatterjee"
 last_updated: 2026-04-01
 ---
 Today I watched a show on CNN IBN. I love the channel for it's straight forward and informative approach on any topic. But today I watched a program that was showing a documentary on Kolkata the city as a whole. The reporter was Nilanjana Bose. To start with, I am a Calcuttan myself.

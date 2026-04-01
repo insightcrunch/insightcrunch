@@ -8,7 +8,7 @@ tags: ["Oxford Cafes", "Study Spots Oxford", "Oxford Coffee Shops", "Oxford Libr
 excerpt: "Complete guide to the best cafes, coffee shops, libraries, and study spots near Oxford colleges - where to study, work, read, and think across Oxford neighbourhoods, from the Covered Market to Jericho to Cowley Road."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 48
-author: "ian-fletcher"
+author: "samantha-lee"
 last_updated: 2026-04-01
 ---
 Every Oxford student eventually discovers that the best thinking does not always happen in the place where you are officially supposed to be thinking. The Bodleian reading rooms are extraordinary, but they are also silent, formal, and occasionally airless in the way that all great libraries are when you are trying to write rather than read. The college room that seemed like a perfect study space in Freshers' Week becomes, by second year, too familiar, too associated with everything else that happens in it, too small to contain a mind trying to range across an essay question. Oxford's cafes, coffee shops, and informal study spots exist precisely to serve the students who need a different kind of working environment - the ambient noise of a busy cafe, the slight social pressure of being somewhere other than home, the caffeine at close range.

@@ -8,7 +8,7 @@ tags: ['SAT Ratios', 'SAT Percentages', 'SAT Proportions', 'SAT Percent Increase
 excerpt: "Master every SAT ratio, percentage, and proportion question type including unit rates, percent increase/decrease, proportional reasoning, and unit conversion with worked examples."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 45
-author: "katherine-blake"
+author: "patrick-dunn"
 last_updated: 2026-04-01
 ---
 Ratios, percentages, and proportions form one of the most practically important clusters of topics on the SAT Math section. These concepts underlie the Problem-Solving and Data Analysis domain, where they appear in questions about everything from unit rates and scale factors to tax calculations, mixture problems, and density. Unlike algebra or quadratics, which require procedural mastery of specific techniques, ratio and percentage questions reward students who have a flexible, intuitive feel for proportional reasoning, the ability to set up relationships correctly, and the discipline to avoid a small number of common traps that consistently mislead less prepared students.

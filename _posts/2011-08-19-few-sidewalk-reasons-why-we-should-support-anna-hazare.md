@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Do you know what will happen if 1,456 Lakh Crores come back to our country?"
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
-author: "rachel-foster"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 Hazare says: Bring back the Black Money.  

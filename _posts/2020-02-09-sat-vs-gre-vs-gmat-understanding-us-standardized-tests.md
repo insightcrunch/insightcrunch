@@ -8,7 +8,7 @@ tags: ['SAT vs GRE', 'SAT vs GMAT', 'GRE vs GMAT', 'US Standardized Tests', 'SAT
 excerpt: "A comprehensive comparison of the SAT, GRE, and GMAT standardized tests covering their purpose, format, content, scoring, and where each fits in the US education system."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 45
-author: "ian-fletcher"
+author: "maria-santos"
 last_updated: 2026-04-01
 ---
 # SAT vs GRE vs GMAT: Understanding US Standardized Tests

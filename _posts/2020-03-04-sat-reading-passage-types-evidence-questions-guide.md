@@ -8,7 +8,7 @@ tags: ['SAT Passage Types', 'SAT Literary Passages', 'SAT Science Passages', 'SA
 excerpt: "Master every SAT reading passage type including literary fiction, science, social science, and historical documents with tailored reading strategies and question approaches for each."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
-author: "daniel-morgan"
+author: "michael-brooks"
 last_updated: 2026-04-01
 ---
 # SAT Reading Passage Types: Literature, Science, and History Strategies

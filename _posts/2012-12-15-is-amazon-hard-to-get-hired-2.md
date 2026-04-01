@@ -8,7 +8,7 @@ tags: ["Amazon"]
 excerpt: "The Amazon Customer Service job continues to be one of the most attractive work from home opportunities in this organization. If you are someone who can..."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 8
-author: "nathan-cole"
+author: "robert-quinn"
 last_updated: 2026-04-01
 ---
 ## Background

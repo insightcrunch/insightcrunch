@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Sirius Black across all seven Harry Potter books - his freedom, his imprisonment, his love for Harry, and his tragic place in the series."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "sophia-turner"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Man Who Should Have Been Free

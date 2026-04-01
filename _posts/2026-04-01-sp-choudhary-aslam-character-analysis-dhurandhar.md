@@ -8,7 +8,7 @@ tags: ["dhurandhar", "sp-choudhary-aslam", "sanjay-dutt", "character-analysis", 
 excerpt: "Deep analysis of SP Choudhary Aslam - Sanjay Dutt's authoritative, conflicted officer in Dhurandhar."
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
-author: "arun-verma"
+author: "rahul-banerjee"
 last_updated: 2026-03-30
 ---
 Every world needs a figure who embodies the contradiction between the law as it is written and the law as it is practiced, and in the Dhurandhar franchise, that figure is S.P. Choudhary Aslam. Played by Sanjay Dutt with a weathered authority that suggests decades of moral compromise compressed into every slow, deliberate movement, Aslam is the character who most fully represents the franchise's argument that the boundary between enforcer and criminal is not a line but a spectrum, and that the men who patrol that spectrum are neither heroes nor villains but something far more interesting and far more unsettling than either category can contain. He wears the uniform of law enforcement, carries the badge and the gun that state authority provides, and exercises the power that comes with his position. But the methods he employs, the alliances he maintains, and the moral calculus by which he operates place him so far outside the conventional understanding of what a police officer should be that the uniform itself becomes a kind of disguise, no less fictional than the identity [Hamza Ali Mazari](https://insightcrunch.com/2026/03/25/hamza-ali-mazari-character-analysis-dhurandhar/) constructs to survive in Karachi. The difference is that Hamza knows his identity is a fiction, while Aslam may have lost the ability to distinguish between the officer he was supposed to be and the creature he has become.

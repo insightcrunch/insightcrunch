@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Locked out of your Amazon employee account? How to log in through AtoZ, reset your password, fix common errors, and contact HR for account recovery."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 13
-author: "david-thornton"
+author: "abigail-cooper"
 last_updated: 2026-03-29
 ---
 ## Background

@@ -7,7 +7,7 @@ tags: ["Google"]
 excerpt: "Google pauses hiring in 2022. Pichai's slowdown directive, which teams are frozen, and how the hiring pause compares to Meta's and Amazon's cuts."
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 8
-author: "james-carter"
+author: "ian-fletcher"
 last_updated: 2026-03-29
 ---
 ## Background

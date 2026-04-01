@@ -8,7 +8,7 @@ tags: ["TCS", "Off-Campus Hiring", "Freshers", "Campus Placement"]
 excerpt: "TCS halts off-campus hiring in 2009 due to the IT slowdown. What this means for engineering graduates hoping for lateral entry into the company."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
-author: "devendra-patil"
+author: "priya-mehta"
 last_updated: 2026-04-01
 ---
 TCS off-campus hiring is one of the most searched topics among engineering graduates and final-year students across India every single year. The reason is simple: TCS is the largest private sector employer of engineering graduates in the country, and not every college in India has a formal campus placement agreement with TCS. For students at colleges that do not feature on TCS's active campus recruitment calendar, the off-campus route is the only door. Understanding how that door works, when it opens, what it takes to walk through it, and what to do when it is temporarily closed - these are the questions this guide answers in full.

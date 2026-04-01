@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "What is Amazon Force? The workforce management portal for hourly employees to view shifts, manage schedules, and access job resources at Amazon."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 12
-author: "jason-mckenzie"
+author: "kevin-reeves"
 last_updated: 2026-03-29
 ---
 ## Background

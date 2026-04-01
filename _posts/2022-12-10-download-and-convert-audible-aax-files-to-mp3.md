@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Want your Audible books in MP3 format? How to convert AAX files, the tools that work, and what to know about DRM before you start the conversion."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
-author: "diana-patel"
+author: "rachel-foster"
 last_updated: 2026-03-29
 ---
 ## Background

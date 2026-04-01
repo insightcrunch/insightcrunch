@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Sybill Trelawney in Harry Potter: the fraud who made the prophecy that shaped the entire war, the charlatan who loved Hogwarts enough to fight for it, and the genuine seer who could not see herself clearly."
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
-author: "lauren-hayes"
+author: "emily-reed"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Fraud Who Changed Everything

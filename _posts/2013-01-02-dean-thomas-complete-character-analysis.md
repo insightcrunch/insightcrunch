@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Dean Thomas in Harry Potter: the character Rowling nearly made the hero, whose background mirrors Harry's and whose story the series never fully tells."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "elena-wright"
+author: "sophia-turner"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Story That Almost Was

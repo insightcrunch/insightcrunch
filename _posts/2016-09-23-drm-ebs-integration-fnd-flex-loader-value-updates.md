@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "DRM to EBS segment value sync via Fnd Flex Loader: how the refresh works, what can go wrong, and how to fix value update failures."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 2
-author: "simon-hartley"
+author: "kim-soyeon"
 last_updated: 2026-03-29
 ---
 The Oracle DRM to EBS integration is one of the most widely used programs to maintain and refresh master data easily. The EBS concurrent program pulls the data from DRM and **refreshes the existing values and hierarchies** with the new information. There's a specific list of attributes which demands constant special attention for every integration, they are as below:

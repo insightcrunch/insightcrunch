@@ -8,7 +8,7 @@ tags: ["Infosys ASE", "Infosys Specialist Programmer", "Infosys SP", "Infosys AS
 excerpt: "Complete guide to the Infosys ASE and Specialist Programmer roles: what they are, how selection works, salary differences, career trajectory, and how they compare to SE and PP tracks."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 45
-author: "ritika-singh"
+author: "nikhil-tiwari"
 last_updated: 2026-03-29
 ---
 The Infosys hiring structure for freshers is more layered than most students realize. Most candidates preparing for Infosys think in terms of two tracks: the standard Systems Engineer route and the Power Programmer route for competitive programming champions. The reality includes additional designations and role types that sit between or alongside these two extremes, and understanding them fully changes how a candidate approaches preparation, which hiring channels to target, and what career outcomes to realistically expect.

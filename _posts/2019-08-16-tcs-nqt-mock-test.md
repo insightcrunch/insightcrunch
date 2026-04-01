@@ -8,7 +8,7 @@ tags: ["TCS", "NQT", "Mock Test", "Practice Resources"]
 excerpt: "The TCS National Qualifier Test (NQT) is one of the popular exams today that software engineers have to take to apply for Tata Consultancy Services."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
-author: "meera-pillai"
+author: "devendra-patil"
 last_updated: 2026-03-29
 ---
 Most TCS NQT candidates take mock tests. Far fewer take them in a way that actually improves their real exam score. The difference between a mock test that wastes an hour and one that produces genuine preparation advancement is not in which mock you take - it is entirely in how you take it and what you do afterward.

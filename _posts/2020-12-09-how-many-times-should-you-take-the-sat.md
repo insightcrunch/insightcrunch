@@ -8,7 +8,7 @@ tags: ['SAT Retake Strategy', 'SAT Multiple Attempts', 'SAT Superscore', 'SAT Sc
 excerpt: "The complete guide to SAT retake strategy covering when to retake, how many attempts are optimal, superscoring, score choice, and when additional attempts stop helping."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
-author: "simon-hartley"
+author: "samantha-lee"
 last_updated: 2026-04-01
 ---
 # How Many Times Should You Take the SAT: The Optimal Retake Strategy

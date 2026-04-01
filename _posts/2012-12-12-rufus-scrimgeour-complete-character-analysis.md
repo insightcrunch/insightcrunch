@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Rufus Scrimgeour in Harry Potter: competent, cynical, and redeemed by a single act of refusal that costs him everything."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
-author: "rachel-foster"
+author: "sarah-mitchell"
 last_updated: 2026-03-31
 ---
 ## Introduction: The Lion Who Could Not Bend

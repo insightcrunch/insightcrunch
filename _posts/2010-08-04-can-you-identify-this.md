@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "..."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 1
-author: "amanda-ross"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 ![](/assets/images/blog/blog-47.webp)

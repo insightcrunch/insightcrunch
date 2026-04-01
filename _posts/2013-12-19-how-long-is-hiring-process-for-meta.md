@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta is one of the largest social media and technology corporations in the world today. One of the most common questions that I get asked by aspirants in..."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 9
-author: "benjamin-scott"
+author: "william-knight"
 last_updated: 2026-04-01
 ---
 ## Background

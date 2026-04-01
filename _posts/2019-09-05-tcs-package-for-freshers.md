@@ -8,7 +8,7 @@ tags: ["TCS", "Fresher Salary", "CTC Breakdown", "Salary Package"]
 excerpt: "What package do TCS freshers get? Complete CTC structure for Ninja and Digital hires with in-hand calculations, deductions, and benefit details."
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 45
-author: "priya-mehta"
+author: "rajan-kumar"
 last_updated: 2026-03-29
 ---
 The most common misconception freshers have about their TCS offer letter is this: they see the CTC (Cost to Company) figure and assume that number divided by twelve is their monthly take-home. It is not. The gap between what TCS pays as CTC and what lands in your bank account every month can be 25-35%, and understanding exactly where that gap comes from is essential before you plan your post-joining finances.

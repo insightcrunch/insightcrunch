@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Bellatrix Lestrange across all Harry Potter books - fanaticism, devotion, and the void where a self should be."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "elena-wright"
+author: "sarah-mitchell"
 last_updated: 2026-04-01
 ---
 ## Introduction: The True Believer

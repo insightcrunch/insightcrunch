@@ -8,7 +8,7 @@ tags: ["animal-farm", "george-orwell", "snowball", "character-analysis", "litera
 excerpt: "Analysis of Snowball in Animal Farm - his idealism, expulsion, transformation into scapegoat, and real parallels."
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "elena-wright"
 last_updated: 2026-03-31
 ---
 Snowball is the character in Animal Farm who most completely believes in the revolution, and that belief is precisely what makes him expendable. He is the idealist, the intellectual, the visionary who translates Old Major's speech into a practical programme and who, in the brief window before Napoleon's consolidation, governs with genuine competence and genuine commitment to the principles the revolution established. He is also, in his absence, the most important character in the novel, because the Snowball who is expelled by Napoleon's dogs in Chapter Five is a less significant figure in Animal Farm's political life than the Snowball who is converted into a demon, a scapegoat, and a permanent internal enemy after the expulsion. The real Snowball, the pig who planned the windmill and organized the Battle of the Cowshed, is replaced by the mythological Snowball, the traitor who sabotages the windmill and conspires with Jones, and the mythological version does more political work for Napoleon's regime than the real version could ever have done for the revolution.

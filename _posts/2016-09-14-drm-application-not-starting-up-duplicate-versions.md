@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "Oracle DRM won't start? Duplicate version entries in the repository may be the cause. How to diagnose and resolve this rare startup failure."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 1
-author: "christopher-wells"
+author: "nathan-cole"
 last_updated: 2026-03-29
 ---
 It has happened, though very rarely, that the DRM application refuses to start up. On further investigation it has revealed that the number of versions in the repository has been duplicated which had been preventing the application from starting up normally.

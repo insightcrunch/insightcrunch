@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today there are a variety of positions for which Amazon hire skilled workers all across the globe..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 9
-author: "william-knight"
+author: "kevin-reeves"
 last_updated: 2026-04-01
 ---
 ## Background

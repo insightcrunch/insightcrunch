@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "Survival Tips", "Non-CS Candidates"]
 excerpt: "Struggling at TCS ILP Bhubaneswar: when assessments pile up and confidence dips. How the pressure tests you and what survival actually looks like."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
-author: "siddharth-rao"
+author: "priya-mehta"
 last_updated: 2026-04-01
 ---
 The programme coordinator's announcement hit with the specific weight of a starting gun: "There will be two exams in a gap of fourteen days each. The passing percentage is very low this year. Who fails to score over 50% will be given two chances. If you miss the chances you may try next year." Standing in the balcony of the residential facility that night, a cigarette in hand, the narrator of the original account found himself unable to "set the starting point." Big waves, small boat, no compass in the middle of the sea.

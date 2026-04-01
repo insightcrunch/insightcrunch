@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Severus Snape across all seven Harry Potter books - his double life, tragic psychology, and place among fiction's most debated characters."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "amanda-ross"
+author: "megan-clark"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Man Behind the Mask

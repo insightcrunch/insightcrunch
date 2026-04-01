@@ -8,7 +8,7 @@ tags: ["TCS", "Interview Tips", "Interview Preparation", "HR Round"]
 excerpt: "This is a guest post on TCS Interview by Rakesh Kumar. The views expressed are of the author."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
-author: "sneha-reddy"
+author: "pooja-gupta"
 last_updated: 2026-03-29
 ---
 Most TCS interview guides tell you what to study. This one tells you how to perform. There is a meaningful difference. Every candidate preparing for TCS interviews has access to the same lists of topics, the same practice platforms, and the same general advice to review data structures and prepare your projects. The candidates who consistently get selected are not necessarily the ones who studied more - they are the ones who translate their preparation into effective interview performance.

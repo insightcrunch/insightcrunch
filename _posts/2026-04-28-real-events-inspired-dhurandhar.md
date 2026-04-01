@@ -8,7 +8,7 @@ tags: ["dhurandhar", "real-events", "ic-814", "26-11-mumbai", "bollywood", "spy-
 excerpt: "Every real-world event that inspired the Dhurandhar franchise - from IC-814 to 26/11 and beyond."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "kavita-sharma"
+author: "nandini-sen"
 last_updated: 2026-03-31
 ---
 Dhurandhar does not dramatize history. It reorganizes it. The franchise takes real events scattered across two decades of Indian geopolitical experience, events the nation processed as separate crises separated by years and by radically different political contexts and governmental responses, and rearranges them into a single espionage narrative whose central argument is that these events were never truly isolated from one another. The IC-814 hijacking, the Parliament attack, the brutal gang wars of Lyari, the Mumbai attacks of 2008: in the historical record, these exist as distinct chapters in India's security story, each with its own causes, its own political response, and its own place in the national memory. In Aditya Dhar's sprawling and ambitiously constructed franchise, they exist as nodes in a single interconnected network, connected by personnel, by ideology, by geography, and by the institutional failures that allowed each successive crisis to occur. The reorganization is the argument. By compressing two decades of separate and individually devastating traumas into the operational timeline of a single undercover mission, Dhurandhar forces the audience to see connections that the chronological experience of living through these events, one at a time, years apart, obscured.

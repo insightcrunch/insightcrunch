@@ -7,7 +7,7 @@ tags: ["TCS", "ILP", "Food", "Accommodation", "Fresher", "Canteen", "Street Food
 excerpt: "The definitive food guide for TCS ILP across all cities. Covers campus canteen quality and pricing, the best affordable food near every TCS accommodation, city-by-city food culture from Chennai's banana leaf meals to Indore's Sarafa Bazaar midnight market, vegetarian and non-vegetarian availability at each location, tiffin services, delivery app coverage, monthly food budgets, the food adjustment strategies for associates posted to unfamiliar food cultures, and the signature dish you must try at every TCS ILP city."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 45
-author: "rahul-banerjee"
+author: "arun-verma"
 last_updated: 2026-04-01
 ---
 Food is the daily experience that most powerfully shapes how you feel about your TCS ILP city. The training content is the same across centers. The assessments follow the same pattern. The accommodation is functionally similar. But the food changes everything. The associate who discovers Kerala fish curry at Kochi, who falls in love with poha-jalebi at Indore, who develops an addiction to Kolkata's kathi rolls, or who learns to appreciate Gujarati thali's sweet-savory balance at Gandhinagar carries a relationship with their ILP city that transcends the training experience. The associate who eats the same north Indian delivery food at every city, refusing to engage with the local cuisine, leaves with a training certificate and nothing more.

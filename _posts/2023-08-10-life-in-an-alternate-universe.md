@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2023", "Thoughts"]
 excerpt: "Imagine a life shaped by completely different choices. A thoughtful exploration of alternate paths, missed chances, and the versions of us that could..."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 3
-author: "claire-bennett"
+author: "diana-patel"
 last_updated: 2026-03-30
 ---
 In an alternate universe, the contours of my life have been molded by divergent choices, unforeseen events, and the intricate interplay of chance. Stepping into this alternate reality unveils a tapestry of experiences and a version of myself that I might never have imagined.

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today, and they employ thousands of workers all around the globe. Due to the large number of..."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 10
-author: "william-knight"
+author: "james-carter"
 last_updated: 2026-04-01
 ---
 ## Background

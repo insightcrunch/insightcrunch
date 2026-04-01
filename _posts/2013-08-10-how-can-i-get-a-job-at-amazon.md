@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon has quite a few types of opportunities that candidates can work for, and many of those includes work from home facilities as well. If you have the..."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 9
-author: "james-carter"
+author: "jason-mckenzie"
 last_updated: 2026-04-01
 ---
 ## Background

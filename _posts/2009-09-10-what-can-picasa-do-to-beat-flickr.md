@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "This would be really a demanding question given the current scenario. The Picasa vs Flickr war will go on forever as these two companies exist. There is..."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 1
-author: "amanda-ross"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 This would be really a demanding question given the current scenario. The Picasa vs Flickr war will go on forever as these two companies exist. There is absolutely a big gap considering the features of these two services as you saw in my last article. Google really wants to dominate whichever field they get into, and they will certainly not be happy with it.

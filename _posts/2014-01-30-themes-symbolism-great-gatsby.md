@@ -8,7 +8,7 @@ tags: ["the-great-gatsby", "f-scott-fitzgerald", "themes", "symbolism", "literar
 excerpt: "Every theme and symbol in The Great Gatsby explained - the green light, Eckleburg's eyes, the valley of ashes."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
-author: "emily-reed"
+author: "olivia-grant"
 last_updated: 2026-04-01
 ---
 The Great Gatsby is constructed like a poem: every detail matters, every image recurs with accumulated weight, and the novel's most important arguments are made not through plot or statement but through symbol, juxtaposition, and the specific quality of prose attention that Fitzgerald brings to the world he is describing. Understanding the novel fully requires understanding its symbolic architecture, the system of interrelated images and themes that does the analytical work that other novels spread across hundreds of pages of explicit commentary. In fewer than two hundred pages, Fitzgerald has embedded a comprehensive critique of American society, a philosophical argument about time and desire, and a precise psychological portrait of a specific historical moment, and has done all of this primarily through the green light, the eyes, the valley, the parties, the shirts, the cars, and the voice full of money.

@@ -8,7 +8,7 @@ tags: ["software engineer salary India", "highest paying companies", "CTC compar
 excerpt: "The most complete breakdown of software engineer salaries in India: fresher to senior levels, product-based vs service-based company comparison, CTC..."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 50
-author: "pooja-gupta"
+author: "karthik-menon"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

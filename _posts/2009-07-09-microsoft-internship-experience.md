@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Microsoft internship experience: a guest post from a tech enthusiast covering the application, the work, the culture, and key takeaways."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 15
-author: "alex-cunningham"
+author: "james-carter"
 last_updated: 2026-04-01
 ---
 This is a guest post by Kaustav Dey Biswas. He is a total tech geek and loves his computer and computing stuff like anything in the world. Programming is something as natural to him as sleep. He’s sharing his Microsoft Internship Experience here.   

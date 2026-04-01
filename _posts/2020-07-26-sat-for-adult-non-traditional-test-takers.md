@@ -8,7 +8,7 @@ tags: ['SAT for Adults', 'SAT Non-Traditional Students', 'SAT Adult Test Takers'
 excerpt: "The complete SAT guide for adult and non-traditional test takers covering registration, bridging knowledge gaps, preparation strategies, and how colleges evaluate non-traditional applicants."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
-author: "daniel-morgan"
+author: "christopher-wells"
 last_updated: 2026-04-01
 ---
 The SAT is designed and marketed primarily for high school juniors and seniors, but a significant and often overlooked population of test-takers does not fit this profile. Adults who completed high school years or decades ago and are now seeking college admission, GED holders applying to four-year colleges, career changers who need a degree to access new professional fields, military veterans using education benefits, and international adults whose credentials require supplementation with US standardized test scores all face the SAT outside the typical preparation context. For these non-traditional test-takers, the standard high school guidance does not apply in several important ways.

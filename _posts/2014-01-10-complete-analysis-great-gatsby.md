@@ -8,7 +8,7 @@ tags: ["the-great-gatsby", "f-scott-fitzgerald", "novel-analysis", "literary-ana
 excerpt: "The definitive analysis of The Great Gatsby - its themes, symbols, characters, and devastating critique of America."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "sophia-turner"
+author: "megan-clark"
 last_updated: 2026-04-01
 ---
 The Great Gatsby is the most perfectly constructed American novel ever written, and the perfection is inseparable from its subject. F. Scott Fitzgerald spent three years refining a book that runs to fewer than two hundred pages, cutting and shaping with an obsessive attention to economy that produces a prose style of extraordinary concentrated beauty. The result is a novel that achieves the paradox of being simultaneously the most American of books and the most devastating critique of America, a celebration of the country's romantic energy and a precise autopsy of the lie at the heart of its founding promise. It is a novel about illusion that is itself constructed with the craftsmanship of an illusionist, beautiful enough that the reader is in constant danger of being seduced by exactly the forces it is warning against.

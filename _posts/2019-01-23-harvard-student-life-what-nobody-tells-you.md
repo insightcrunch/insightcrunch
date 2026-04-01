@@ -8,7 +8,7 @@ tags: ["Harvard Student Life", "Harvard University Experience", "Harvard Reality
 excerpt: "The honest guide to Harvard student life - what the brochures leave out, what current students wish someone had told them, the social pressures nobody warns you about, the mental health realities, what academic life actually feels like, and what makes Harvard extraordinary versus what disappoints."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 54
-author: "daniel-morgan"
+author: "hannah-moore"
 last_updated: 2026-04-01
 ---
 Every prospective Harvard student reads the brochures. They show smiling students on Widener steps in autumn leaf light, close-up shots of Nobel laureates in lecture halls, aerial photographs of the Charles River gleaming alongside the campus. The brochures are not lying. Harvard genuinely has all of those things. What they leave out is everything that cannot be photographed: the 2am panic before a history paper that has not yet been started, the social comparison dynamics of a community where everyone seems extraordinary, the specific loneliness that can coexist with being surrounded by 1,600 brilliant peers, and the grinding academic pressure that can turn intellectual curiosity into performance anxiety if not actively managed.

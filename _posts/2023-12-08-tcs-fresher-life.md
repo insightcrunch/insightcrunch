@@ -8,7 +8,7 @@ tags: ["life at TCS", "TCS fresher experience", "TCS work culture", "TCS first y
 excerpt: "Everything about your first year at TCS - from ILP training to first project. Work culture, career growth, and honest fresher advice."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
-author: "devendra-patil"
+author: "priya-mehta"
 last_updated: 2026-03-30
 ---
 The gap between what an engineering degree prepares you for and what a corporate software job actually requires is wider than most freshers expect. The first year at TCS is where that gap becomes visible - and where the most intentional freshers close it faster than their peers. This guide maps the full first year: what happens from the moment you arrive at the ILP centre, through the transition to your first project, through the realities of the daily work routine, through the performance evaluation system that determines your early career trajectory, and through the social and financial dimensions of building a life in a new city. The goal is to eliminate the surprises that catch freshers unprepared and replace them with clear expectations and actionable strategies.

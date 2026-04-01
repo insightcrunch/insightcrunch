@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Emoticons and smileys are the key essence to online chatting and communication. It lets us express ourselves a lot better with them. Facebook till now..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
-author: "sarah-mitchell"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 Emoticons and smileys are the key essence to online chatting and communication. It lets us express ourselves a lot better with them. Facebook till now doesn’t have a clear-cut display as to the list of emoticons it supports. So for your information [here](https://emojipedia.org/facebook/) is the list of emoticons that you can use right now while you chat on Facebook.

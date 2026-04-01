@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with..."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 1
-author: "megan-clark"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 It had been a craze for quite a long time, and still so a lot now. But Adobe Flash seems to be on the verge of decline of its usage and popularity with people giving thumbs up to the iPad, which doesn’t support Flash. Steve Jobs expressed his view on this subject.

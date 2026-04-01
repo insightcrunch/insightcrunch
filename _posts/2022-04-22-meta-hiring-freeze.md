@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta officially freezes hiring. Zuckerberg's internal announcement, the 30% recruitment cut, and the impact on teams, candidates, and company morale."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 8
-author: "david-thornton"
+author: "marcus-hall"
 last_updated: 2026-03-29
 ---
 ## Background

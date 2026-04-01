@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta is one of the largest corporations in the world today in the software industry. One of the questions that is asked by all the aspirants who want to..."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 9
-author: "james-carter"
+author: "jason-mckenzie"
 last_updated: 2026-04-01
 ---
 ## Background

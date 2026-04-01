@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
-author: "rahul-banerjee"
+author: "arun-verma"
 last_updated: 2026-04-01
 ---
 This is a TCS ILP guest post by Debapriya Mukherjee. The views expressed are entirely of the author.

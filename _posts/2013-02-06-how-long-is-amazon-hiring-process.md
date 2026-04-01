@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon offers a wide variety of products and services and hence there are a variety of job positions available at any point of time at Amazon. The hiring..."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 10
-author: "marcus-hall"
+author: "alex-cunningham"
 last_updated: 2026-04-01
 ---
 ## Background

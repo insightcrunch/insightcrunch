@@ -7,7 +7,7 @@ tags: ["IBM"]
 excerpt: "The progress of science has put technology in limelight in this century. Every few months we see incredible progresses being made in different fields of..."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 2
-author: "ryan-walsh"
+author: "abigail-cooper"
 last_updated: 2026-03-29
 ---
 ## Overview

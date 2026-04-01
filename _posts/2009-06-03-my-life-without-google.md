@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "How dependent are we on Google? Gmail, Maps, Search, Chrome, Docs. A personal reflection on what life would look like if Google disappeared."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 2
-author: "jason-mckenzie"
+author: "alex-cunningham"
 last_updated: 2026-04-01
 ---
 It is quite amazing how I have indexed my life so much into a particular company. Using all the products of Google, I am an avid Googler like many of us. Many of us would blindly agree that they fully trust Google about their information privacy and security, and correctly so, as Google is one of the safest and simplest way to accomplish all our tasks. Starting from their search engine, blogging platform, product search, calendar, the list goes on. And it’s very difficult to find substitutes that match the efficiency and simplicity of the systems!

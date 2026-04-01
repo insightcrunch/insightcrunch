@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today. Due to the vast landscape of their expertise in different domains and different sectors..."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 10
-author: "william-knight"
+author: "benjamin-scott"
 last_updated: 2026-04-01
 ---
 ## Background

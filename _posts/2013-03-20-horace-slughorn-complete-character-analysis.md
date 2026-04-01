@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Horace Slughorn in Harry Potter: the series' most psychologically nuanced portrait of complicity - the decent man who looked away, who enabled something monstrous, and who eventually had to choose."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
-author: "emily-reed"
+author: "elena-wright"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Comfortable Man Who Looked Away

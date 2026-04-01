@@ -8,7 +8,7 @@ tags: ['SAT 1 Month Plan', 'SAT 30 Day Prep', 'SAT Crash Course', 'SAT Last Minu
 excerpt: "The complete 30-day SAT crash course with day-by-day schedule, high-impact topic priorities, and rapid improvement strategies for last-minute preparation."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
-author: "ian-fletcher"
+author: "daniel-morgan"
 last_updated: 2026-04-01
 ---
 # SAT 1-Month Crash Course: Maximum Improvement in 30 Days

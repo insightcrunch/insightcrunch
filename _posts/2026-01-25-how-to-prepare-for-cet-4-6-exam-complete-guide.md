@@ -7,7 +7,7 @@ tags: ['CET-4', 'CET-6', '四六级', '英语考试']
 excerpt: '一篇面向大学英语四六级考生的深度战略指南，涵盖考试架构解析、听力突破、阅读提速、写作与翻译方法论、备考时间规划与心态管理，帮助你在这场全国性英语能力考试中建立系统化的准备体系。'
 image: '/assets/images/blog/blog-53.webp'
 reading_time: 35
-author: "jordan-ellis"
+author: "tang-jing"
 last_updated: 2026-04-01
 ---
 ## **1. 引言**

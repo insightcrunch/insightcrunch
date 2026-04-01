@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Dolores Umbridge in Harry Potter: the series' most hated villain, more frightening than Voldemort to many readers, because she is the evil we recognise from ordinary life - power exercised through bureaucracy, cruelty delivered with a smile."
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
-author: "lauren-hayes"
+author: "megan-clark"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Banality of Pink Evil

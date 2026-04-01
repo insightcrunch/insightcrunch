@@ -7,7 +7,7 @@ tags: ["Movie"]
 excerpt: "Scorsese's Killers of the Flower Moon reviewed. The Osage murder story, DiCaprio and De Niro's performances, and whether the film lives up to the book."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 4
-author: "amanda-ross"
+author: "diana-patel"
 last_updated: 2026-03-29
 ---
 ## Movie Review

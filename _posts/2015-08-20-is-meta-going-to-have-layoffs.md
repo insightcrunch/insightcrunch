@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Are more Meta layoffs coming? Analyzing the cost trajectory, revenue trends, and executive signals that suggest whether further cuts are ahead."
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 2
-author: "abigail-cooper"
+author: "marcus-hall"
 last_updated: 2026-03-29
 ---
 ## Overview

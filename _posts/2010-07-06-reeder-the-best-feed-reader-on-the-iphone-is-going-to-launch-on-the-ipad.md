@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Most of the RSS readers work average with the iPad, many of the ones which used to provide superb performance for the iPhone work more or less efficiently..."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 1
-author: "amanda-ross"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 Most of the RSS readers work average with the iPad, many of the ones which used to provide superb performance for the iPhone work more or less efficiently in the iPad.  Reeder didn’t have such a support for the iPad until recently when it will extend its support for the iPad soon.

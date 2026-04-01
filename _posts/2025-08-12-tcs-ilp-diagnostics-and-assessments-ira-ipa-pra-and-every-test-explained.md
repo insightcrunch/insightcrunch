@@ -8,7 +8,7 @@ tags: ["TCS", "ILP", "IRA", "IPA", "PRA", "Diagnostics", "TCS Assessments", "ILP
 excerpt: "The assessment system inside TCS ILP is more layered than most candidates expect. It is not a single final exam. It is a continuous evaluation framework..."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 30
-author: "karthik-menon"
+author: "devendra-patil"
 last_updated: 2026-03-31
 ---
 The assessment system inside TCS ILP is more layered than most candidates expect. It is not a single final exam. It is a continuous evaluation framework that begins before you even receive your joining letter and runs through the entire ILP duration, testing you at every stage. Understanding how each assessment works, what it tests, how it is scored, what the consequences of failure are, and how to prepare for each one gives you a decisive advantage over candidates who walk in unprepared.

@@ -8,7 +8,7 @@ tags: ["dhurandhar", "bollywood", "indian-cinema", "cultural-impact", "industry-
 excerpt: "How Dhurandhar permanently changed Bollywood - what the industry looked like before and what it must become after."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "pooja-gupta"
+author: "nandini-sen"
 last_updated: 2026-04-01
 ---
 The most important thing that changed when the Dhurandhar franchise became the commercial and cultural phenomenon it became is not any specific record or any specific critical recognition. It is the vocabulary. The vocabulary that Hindi commercial cinema uses to describe what is possible changed, and changed permanently, because the franchise demonstrated at the commercial blockbuster scale that things previously considered commercially impossible are possible. That demonstration is not reversible. You cannot un-demonstrate something that has been demonstrated. The franchise has given Hindi commercial cinema a new set of reference points against which ambition is measured, and those reference points will shape what is attempted, what is funded, and what is received by audiences for the foreseeable future.
