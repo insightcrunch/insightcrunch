@@ -3,7 +3,7 @@
 # ============================================================
 # Priority: Rules are checked top-to-bottom. First match wins.
 # Each rule can match on: title keywords, tags, categories.
-# All matching is case-insensitive.
+# All matching is case-insensitive with word boundaries.
 #
 # pool: which demographic pool to draw from
 # scope: "title", "tags", "categories", or "any" (checks all)
@@ -100,89 +100,89 @@ rules:
     scope: "any"
     pool: "south-asian"
 
-  # ── WESTERN: Harry Potter / Fantasy Literature ───────────
+  # ── WESTERN-LIT: Harry Potter / Fantasy Literature ───────
   - keywords: ["Harry Potter", "Hogwarts", "Dumbledore", "Voldemort", "Hermione", "Ron Weasley", "Snape", "Malfoy", "Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff", "Horcrux", "Quidditch"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["JK Rowling", "Fantasy Literature", "Hogwarts Professors", "Death Eaters", "Marauders", "Ministry of Magic", "Order of the Phoenix"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["Kreacher", "Dobby", "Hagrid", "Lupin", "Sirius Black", "Bellatrix", "Neville", "Luna Lovegood", "Ginny Weasley", "Cedric", "Tonks", "McGonagall", "Slughorn", "Lockhart", "Trelawney"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
-  # ── WESTERN: Classic Literature ──────────────────────────
+  # ── WESTERN-LIT: Classic Literature ──────────────────────
   - keywords: ["literary-analysis", "classic-literature", "novel-analysis", "character-analysis"]
     scope: "tags"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["george-orwell", "1984", "Animal Farm", "jane-austen", "pride-and-prejudice", "harper-lee", "to-kill-a-mockingbird"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["f-scott-fitzgerald", "the-great-gatsby", "william-golding", "lord-of-the-flies", "aldous-huxley", "brave-new-world"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["emily-bronte", "wuthering-heights", "charlotte-bronte", "jane-eyre", "charles-dickens", "great-expectations", "mary-shelley", "frankenstein"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["jd-salinger", "catcher-in-the-rye", "paulo-coelho", "the-alchemist", "gothic-fiction", "dystopian-fiction"]
     scope: "any"
-    pool: "western"
+    pool: "western-lit"
 
   - keywords: ["Literary Analysis", "Book Analysis", "Character Analysis", "Thematic Analysis"]
     scope: "tags"
-    pool: "western"
+    pool: "western-lit"
 
-  # ── WESTERN: SAT ─────────────────────────────────────────
+  # ── WESTERN-EDU: SAT ───────────────────────────────────
   - keywords: ["SAT"]
     scope: "any"
-    pool: "western"
+    pool: "western-edu"
 
-  # ── WESTERN: Oxford / Harvard / Accommodation ────────────
+  # ── WESTERN-EDU: Oxford / Harvard / Accommodation ──────
   - keywords: ["Oxford", "Harvard", "Cambridge", "Stanford", "MIT", "Ivy League"]
     scope: "any"
-    pool: "western"
+    pool: "western-edu"
 
   - keywords: ["Accommodation", "Student Housing", "Hostel"]
     scope: "tags"
-    pool: "western"
+    pool: "western-edu"
 
-  # ── WESTERN: Tech Layoffs / Big Tech ─────────────────────
+  # ── WESTERN-TECH: Tech Layoffs / Big Tech ──────────────
   - keywords: ["layoff", "layoffs", "job cuts", "restructuring", "workforce reduction"]
     scope: "any"
-    pool: "western"
+    pool: "western-tech"
 
   - keywords: ["Amazon", "Google", "Meta", "Microsoft", "Oracle", "UPS", "IBM"]
     scope: "any"
-    pool: "western"
+    pool: "western-tech"
 
   - keywords: ["Anthropic", "Claude", "DeepSeek", "OpenAI", "Stargate"]
     scope: "any"
-    pool: "western"
+    pool: "western-tech"
 
-  # ── WESTERN: AI Tools / Productivity ─────────────────────
+  # ── WESTERN-TECH: AI Tools / Productivity ──────────────
   - keywords: ["ai tools", "ai writing", "ai video", "ai image", "ai coding", "ai music", "ai design", "ai assistant", "chatgpt", "gemini", "midjourney", "dall-e", "cursor", "copilot", "perplexity"]
     scope: "any"
-    pool: "western"
+    pool: "western-tech"
 
   - keywords: ["Productivity", "Note-Taking", "VaultBook", "Chromebook", "Encryption"]
     scope: "any"
-    pool: "western"
+    pool: "western-tech"
 
-  # ── WESTERN: Solo Dining / Restaurants ───────────────────
+  # ── WESTERN-EDU: Solo Dining / Restaurants ─────────────
   - keywords: ["solo-dining", "restaurants", "eating-alone", "counter-dining", "bar-seating"]
     scope: "any"
-    pool: "western"
+    pool: "western-edu"
 
-  # ── WESTERN: MDM / Data Integration ─────────────────────
+  # ── WESTERN-EDU: MDM / Data Integration ────────────────
   - keywords: ["Master Data Management", "Oracle Data Integrator", "MDM", "OBIEE", "Hadoop"]
     scope: "any"
-    pool: "western"
+    pool: "western-edu"
 
   # ── MIXED: Analytics / Tableau ───────────────────────────
   - keywords: ["Tableau"]
@@ -196,16 +196,16 @@ rules:
     pool: "mixed"
 
   - categories: ["Technology"]
-    pool: "western"
+    pool: "western-tech"
 
   - categories: ["Travel"]
     pool: "south-asian"
 
   - categories: ["Leisure"]
-    pool: "western"
+    pool: "western-lit"
 
   - categories: ["Industry"]
-    pool: "western"
+    pool: "western-tech"
 
 
 # ── DEFAULT ────────────────────────────────────────────────
