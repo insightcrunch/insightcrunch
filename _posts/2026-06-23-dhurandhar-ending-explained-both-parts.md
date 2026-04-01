@@ -6,17 +6,16 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["dhurandhar", "ending-explained", "post-credits", "bollywood", "movie-analysis", "spy-thriller"]
 excerpt: "Both Dhurandhar endings fully explained - post-credits scenes, unanswered questions, and what comes next."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-06-23
+last_updated: 2026-04-01
 ---
-
 The Dhurandhar franchise ends twice. Part 1 ends in suspension: the operation continues, the cover holds, and the conclusion is withheld. Part 2 ends in completion that is not resolution: the operation succeeds, the strategic objective is achieved, and Jaskirat Singh Rangi stands in a world that has been changed by everything he spent a decade doing and cannot be changed back. Understanding both endings, and the specific relationship between them, is the final analytical task the franchise sets for its audience. This article completes that task.
 
 <!--more-->
 
-![Dhurandhar Ending Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Dhurandhar Ending Explained - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 A preliminary note before the analysis proceeds: this article discusses both endings in full detail, including the post-credits scenes and the franchise's most significant narrative reveals. It is intended for readers who have watched both films. If you have not yet seen the films, this is the wrong place to start. The [franchise's complete guide](https://insightcrunch.com/2026/06/17/dhurandhar-franchise-complete-guide/) is the right starting point, and the films themselves are the necessary prerequisite for everything this article addresses.
 

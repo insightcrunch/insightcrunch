@@ -4,11 +4,11 @@ title: "If every living thing talked human"
 date: 2009-01-13
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Imagine having a real conversation with your dog. A lighthearted piece on the childhood dream of talking to every living creature around us."
+excerpt: "As a kid I often wondered if only I could have communicated with my pet dog, an Alsatian..which used to be my best friend back home. What if other than..."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 As a kid I often wondered if only I could have communicated with my pet dog, an Alsatian..which used to be my best friend back home. What if other than playing with balls and Freezbie we could talk to each other..just what he felt like…
 
