@@ -214,7 +214,7 @@ article {
       <div class="post-meta-author">
         <span class="author-by">By</span>
         <span class="author-byline" onclick="document.getElementById('authorDialog').showModal()">
-          <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy" onerror="this.onerror=null;this.removeAttribute('src')">
+          <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='">
           <span class="author-text"><span class="author-name">{{ author.name }}</span>{% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}</span>
         </span>
       </div>
@@ -234,7 +234,7 @@ article {
     <dialog id="authorDialog" class="author-dialog">
       <div class="author-dialog-inner">
         <button class="author-dialog-close" onclick="document.getElementById('authorDialog').close()" aria-label="Close">&times;</button>
-        <img class="author-dialog-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" onerror="this.onerror=null;this.removeAttribute('src')">
+        <img class="author-dialog-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='">
         <h3 class="author-dialog-name">{{ author.name }}</h3>
         {% if author.credential %}<p class="author-dialog-credential">{{ author.credential }}</p>{% endif %}
         {% if author.bio %}<p class="author-dialog-bio">{{ author.bio }}</p>{% endif %}
