@@ -5,11 +5,11 @@ page_title: "TCS ILP Guwahati - Complete Experience Guide Including Northeast Cu
 date: 2018-09-07
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Guwahati", "Northeast India"]
-excerpt: "*This is a guest post by Srinithaa Ravi. The views expressed are of the author.*"
+excerpt: "TCS ILP Guwahati experience: training life at the Northeast center, smaller batch dynamics, Assamese culture, and what makes this location unique."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "rajan-kumar"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 Of all the TCS ILP centers in India, Guwahati is the one that surprises freshers most completely. Chennai and Hyderabad are familiar metros. Trivandrum is unfamiliar but beloved. Bengaluru is India's technology capital. But Guwahati - the gateway to Northeast India, sitting beside the Brahmaputra River at the edge of the subcontinent's most extraordinary natural landscape - is genuinely unlike anywhere else that TCS ILP takes freshers.
 

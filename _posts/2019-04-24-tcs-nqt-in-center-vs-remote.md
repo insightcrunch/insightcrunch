@@ -4,11 +4,11 @@ title: "TCS NQT In-center vs Remote"
 date: 2019-04-24
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The Tata Consultancy Services National Qualifier Test (NQT) is one of the most popular tests today. The assessment test is taken by candidates from..."
+excerpt: "TCS NQT in-center vs remote proctored: differences in environment, rules, technical requirements, difficulty level, and which mode candidates prefer."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
 author: "karthik-menon"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

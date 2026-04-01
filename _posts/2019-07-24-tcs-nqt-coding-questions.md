@@ -5,11 +5,11 @@ page_title: "TCS NQT Coding Questions - Programming Patterns, Languages Allowed,
 date: 2019-07-24
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Coding Questions", "Programming"]
-excerpt: "The TCS NQT exam is the most comprehensive exam that is conducted by Tata Consultancy Services to evaluate thousands of candidates in minimal time. The..."
+excerpt: "TCS NQT coding questions: difficulty level, programming languages allowed, common problem types, and how the coding section is evaluated."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 45
 author: "nikhil-tiwari"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The TCS NQT coding section is the most consequential part of the exam for candidates who want to be considered for the Digital track. It is the section where preparation depth matters most, where the gap between prepared and unprepared candidates is widest, and where the investment in genuine algorithmic skill produces the clearest return.
 
