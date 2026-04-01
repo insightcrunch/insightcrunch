@@ -50,6 +50,12 @@ article {
 }
 
 /* ── Author byline ── */
+.post-meta {
+  gap: 4px !important;
+}
+.post-meta .sep {
+  margin: 0 1px;
+}
 .author-byline {
   display: inline-flex;
   align-items: center;
@@ -72,6 +78,10 @@ article {
   font-weight: 600;
   color: var(--fg, #1a1a1a);
 }
+.author-text {
+  display: inline;
+  line-height: 1.3;
+}
 .author-credential {
   color: var(--muted, #888);
   font-size: 0.88em;
@@ -86,6 +96,11 @@ article {
   width: 90vw;
   background: transparent;
   overflow: visible;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
 }
 .author-dialog::backdrop {
   background: rgba(0, 0, 0, 0.45);
@@ -178,8 +193,7 @@ article {
       {% if author %}
       <span class="author-byline" onclick="document.getElementById('authorDialog').showModal()">
         <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy">
-        <span class="author-name">{{ author.name }}</span>
-        {% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}
+        <span class="author-text"><span class="author-name">{{ author.name }}</span>{% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}</span>
       </span>
       <span class="sep">&middot;</span>
       {% endif %}
@@ -200,7 +214,7 @@ article {
         <h3 class="author-dialog-name">{{ author.name }}</h3>
         {% if author.credential %}<p class="author-dialog-credential">{{ author.credential }}</p>{% endif %}
         {% if author.bio %}<p class="author-dialog-bio">{{ author.bio }}</p>{% endif %}
-        <p class="author-dialog-count">{{ author_post_count }} article{{ author_post_count | minus: 1 | at_least: 1 | times: 0 | plus: author_post_count | minus: 1 | at_most: 1 | plus: 1 | divided_by: 1 }}{% if author_post_count != 1 %}s{% endif %} on Insight Crunch</p>
+        <p class="author-dialog-count">{{ author_post_count }} article{% if author_post_count != 1 %}s{% endif %} on Insight Crunch</p>
       </div>
     </dialog>
     {% endif %}
