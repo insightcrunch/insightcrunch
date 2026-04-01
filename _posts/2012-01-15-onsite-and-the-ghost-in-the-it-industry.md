@@ -4,11 +4,11 @@ title: "‘Onsite’ and the ghost in the IT industry"
 date: 2012-01-15
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Why is everyone in Indian IT obsessed with going onsite? The real mechanics of onsite allocation, the politics, and whether the dream matches reality."
+excerpt: "The term ‘onsite’ is a favorite in the IT industry. Everyone wants to go onsite. Such is the madness, people start dreaming of onsite even before entering..."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 4
 author: "elena-wright"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 The term ‘onsite’ is a favorite in the IT industry. Everyone wants to go onsite. Such is the madness, people start dreaming of onsite even before entering the company. It has cast a mysterious spell on the IT sector. It was not meant to be this way in the beginning. But it has happened starting from way back in 2007.
 

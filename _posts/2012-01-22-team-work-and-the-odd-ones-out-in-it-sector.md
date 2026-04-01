@@ -4,11 +4,11 @@ title: "Team work and the odd ones out in IT sector"
 date: 2012-01-22
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Not everyone thrives in IT's team-first culture. A look at the misfits, the lone wolves, and what happens to people who work differently."
+excerpt: "The IT sector boasts of team work and team spirit at the very core of its values. It comes as no surprise that the kind of work that is being done..."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 4
 author: "lauren-hayes"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 The IT sector boasts of team work and team spirit at the very core of its values. It comes as no surprise that the kind of work that is being done inevitably demands absolute team work. A perfect mixture of the experienced and freshers in the team is the ideal scenario when it comes to effectively cost-planning a team. All experienced professionals in the team would throw the profit out of the organization. All freshers will be an obvious disaster.    
 

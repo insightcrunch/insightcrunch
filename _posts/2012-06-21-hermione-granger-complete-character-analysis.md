@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Hermione Granger across all seven Harry Po
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Girl Who Was Never Just a Sidekick
 

@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Ron Weasley across all seven Harry Potter 
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Boy Who Was Always There
 

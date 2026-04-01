@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Harry Potter across all seven books - his 
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Introduction: The Ordinary Extraordinary
 

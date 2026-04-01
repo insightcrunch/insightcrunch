@@ -4,11 +4,11 @@ title: "Amazon warehouse jobs near me"
 date: 2012-03-02
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon warehouse jobs near you: how to find local fulfillment center openings, what positions are available, pay rates, and the application process."
+excerpt: "Amazon is one of the largest supply chain management and warehouse delivery companies in the world today with a vast network of operations in a variety of..."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 10
 author: "alex-cunningham"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Background
 
