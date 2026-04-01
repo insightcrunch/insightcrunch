@@ -594,5 +594,5 @@ body::before {
 }
 
 /* Hide any injected author avatar */
-.sb-card img, .sb-avatar, .author-avatar,
+.sb-card img, .sb-avatar,
 .sb-card [class*="avatar"], .sb-card [class*="photo"] { display: none !important; }
