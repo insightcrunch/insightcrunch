@@ -4,11 +4,11 @@ title: "Wolframalpha search, threat to Google?"
 date: 2009-05-21
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "Firstly I would like to share the Fan Community of Wolframalpha !! The problem with the web today is, it has no idea what the hell you’re talking about!"
+excerpt: "Wolfram Alpha vs Google: can a computational knowledge engine that actually understands questions threaten the search giant's dominance?"
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 Firstly I would like to share the Fan Community of Wolframalpha !! The problem with the web today is, it has no idea what the hell you’re talking about! It doesn’t understand what you are asking of it. Search for an artist you like and you’re OK but ask it “what was the highest temperature in Kolkata week”, and it fails embarrassingly.  A new technology [Wolfram|Alpha](http://www.wolframalpha.com/), a system which is capable of computing answers to questions is likely to be launched this year.So the web is expected to be smarter by the end of this year.
 

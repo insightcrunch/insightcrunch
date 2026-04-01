@@ -6,14 +6,14 @@ date: 2022-12-28
 categories: ["Industry"]
 tags: ["高考", "考前一周", "减压", "考场踩点", "Gaokao Final Week", "Pre-Exam"]
 excerpt: "全面解析高考考前一周的最优安排，系统掌握轻量复习的正确方式、绝对不能做的事、睡眠时间调整方法、考场提前踩点策略、备考物品清单、家庭压力管理与心理可视化练习，帮助每位考生以最佳状态迎接高考。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 45
 author: "Insight Crunch Team"
+last_updated: 2026-04-01
 ---
-
 经历了高三一整年的备考，当日历翻到高考前七天，你终于站在了这场漫长马拉松的最后一段。这最后七天，和之前任何一段时间都不同——不是因为这七天里你能学到多少新东西（其实你已经几乎没有时间真正内化任何新知识了），而是因为这七天的目标，已经从"积累知识"彻底转变为"让已有的一切在高考当天充分发挥出来"。这是一个看似简单实则需要高度智慧的目标：过度复习会让大脑疲惫，心理崩溃；完全放松又会让知识感变钝、手感丧失；家人的过度关注会增加压力，完全隔绝又会缺乏支持；睡眠太少会影响发挥，睡得太多又会让生物钟混乱。考前这七天，每一个决定都需要拿捏好分寸。本文将为这七天提供一份详细的操作指南，帮助每一位经历了漫长备考的学生，把这最后七天用得恰到好处，以最好的状态走进考场。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-20.webp)
 *高考考前一周完全指南 - 最后七天，不是冲刺，而是降落*
 
 ---
