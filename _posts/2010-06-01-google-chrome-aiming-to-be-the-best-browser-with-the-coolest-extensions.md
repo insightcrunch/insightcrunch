@@ -4,11 +4,11 @@ title: "Google Chrome aiming to be the best browser with the coolest extensions"
 date: 2010-06-01
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
-excerpt: "Chrome's 5,000 extensions make it unstoppable. From ad blockers to productivity tools, why Chrome is becoming the browser power users prefer."
+excerpt: "Google Chrome had been my default browser for quite some time now. And with over nearly 5,000 extensions available, it’s cooler more than ever before."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 Google Chrome had been my default browser for quite some time now. And with over nearly 5,000 extensions available, it’s cooler more than ever before.  With cool popup that tell you from Gmail mails to your desired notifications, there isn’t a chance to miss any tasks, appointments or birthdays again.
 

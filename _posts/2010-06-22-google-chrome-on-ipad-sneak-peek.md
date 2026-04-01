@@ -4,11 +4,11 @@ title: "Google Chrome on iPad: Sneak Peek"
 date: 2010-06-22
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "What would Chrome look like on iPad? An early preview of Google's browser meeting Apple's tablet, and why Flash remains the elephant in the room."
+excerpt: "The iPad offers undoubtedly great browsing experience, one which may be easily taken as a good competitor for any browsing device, provided the user..."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 The iPad offers undoubtedly great browsing experience, one which may be easily taken as a good competitor for any browsing device, provided the user doesn't visit heavily flash based sites. Here’s what it would look like with a few futuristic screenshots.
 

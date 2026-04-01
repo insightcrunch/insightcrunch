@@ -4,11 +4,11 @@ title: "Blogger Blog Security: Disable Right Click, Disable Text Selection"
 date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Tired of people copying your blog content? How to disable right-click and text selection on Blogger to protect your articles and images."
+excerpt: "All of us, into blogging or engaged in online activities, at some time or the other has faced the issue of our images and own articles being copied to..."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-27
+last_updated: 2026-04-01
 ---
 All of us, into blogging or engaged in online activities, at some time or the other has faced the issue of our images and own articles being copied to other sites without our permission. This causes annoying to no doubt. So you can at least take steps to minimize it, because we can’t entirely prevent it. Here are some simple ways by which you can protect your blogger blog from plagiarism and from your images being copied away, thus affecting your precious bandwidth.
 
