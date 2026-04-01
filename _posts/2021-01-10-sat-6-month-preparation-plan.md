@@ -9,7 +9,7 @@ excerpt: "The complete 6-month SAT preparation plan with week-by-week study sche
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 # SAT 6-Month Study Plan: The Complete Preparation Timeline
 

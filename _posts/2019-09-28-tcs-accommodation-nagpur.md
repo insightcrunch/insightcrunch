@@ -8,7 +8,7 @@ excerpt: "The complete guide to TCS accommodation in Nagpur for associates at th
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 50
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 Nagpur is the TCS city at the exact center of India. The Zero Mile Stone in Nagpur marks the geographical center of the country, and this central position defines both the city's historical significance (as the capital of the Central Provinces during the British era) and its strategic value for IT operations (equidistant connectivity to Mumbai, Delhi, Hyderabad, and Kolkata). For TCS, Nagpur represents one of the most ambitious tier-2 investments: a 54-acre campus at the MIHAN SEZ designed for 16,000 associates at full capacity, with futuristic architecture, extensive green spaces, sports facilities, and the kind of campus infrastructure that rivals the flagship centers in much larger cities.
 

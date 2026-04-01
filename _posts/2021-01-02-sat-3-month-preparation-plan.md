@@ -9,7 +9,7 @@ excerpt: "The complete 3-month SAT preparation plan with intensive week-by-week 
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 # SAT 3-Month Study Plan: Focused Preparation Timeline
 

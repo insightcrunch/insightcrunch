@@ -9,7 +9,7 @@ excerpt: "The complete guide to the Digital SAT format including the Bluebook ap
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 # Digital SAT Complete Guide: Format, Bluebook, and Adaptive Testing
 

@@ -9,7 +9,7 @@ excerpt: "The complete guide to boosting your SAT Reading and Writing score by 1
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 # How to Improve Your SAT Reading and Writing Score by 100+ Points
 
