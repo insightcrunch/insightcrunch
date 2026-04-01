@@ -6,17 +6,16 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["dhurandhar", "franchise-guide", "bollywood", "complete-guide", "ranveer-singh", "aditya-dhar"]
 excerpt: "The ultimate guide to the Dhurandhar franchise - both films, every character, the timeline, and what comes next."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "Insight Crunch Team"
-last_updated: 2026-06-17
+last_updated: 2026-04-01
 ---
-
 The Dhurandhar franchise is the most analytically complex and commercially significant Hindi cinema property of the current decade, and it rewards the sustained, organized engagement that no single article can fully provide. This guide exists to be the resource that sits alongside every other franchise analysis: a single navigational document that covers both films comprehensively, explains every major character, traces the operational timeline, addresses the most frequently asked questions, and points toward where the franchise goes next. Whether you are watching the franchise for the first time or returning to deepen an already substantial engagement with it, this is the document that orients the experience and provides the structured foundation for every more detailed analysis the franchise rewards.
 
 <!--more-->
 
-![Dhurandhar Franchise Complete Guide - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Dhurandhar Franchise Complete Guide - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The guide covers the franchise in seven sections: the franchise overview and creative context, both films addressed separately in the detail they require, the complete character guide, the operational timeline, the franchise's key themes and what they mean, the commercial record, and what comes next. Each section is designed to be used independently as a reference as well as read sequentially as a comprehensive account. The complete franchise record, including day-wise and week-wise box office data, is available through [the Bollywood Box Office Explorer](https://reportmedic.org/tools/bollywood-box-office-explorer.html).
 
