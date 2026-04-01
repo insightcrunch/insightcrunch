@@ -288,10 +288,23 @@ article {
   {% assign slug_parts = page.slug %}
   {% assign full_slug = slug_parts %}
   {% if site.data.related_posts[full_slug] %}
+  {% assign now_str = site.time | date: "%Y-%m-%d" %}
+  {% assign published_related_count = 0 %}
+  {% for rel in site.data.related_posts[full_slug] %}
+    {% assign url_parts = rel.url | split: "/" %}
+    {% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}
+    {% if rel_date_str <= now_str %}
+      {% assign published_related_count = published_related_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+  {% if published_related_count > 0 %}
   <div class="related-posts">
     <h3>Related Reading</h3>
     <ul class="related-grid">
       {% for rel in site.data.related_posts[full_slug] %}
+      {% assign url_parts = rel.url | split: "/" %}
+      {% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}
+      {% if rel_date_str <= now_str %}
       <li class="related-card">
         <a href="{{ rel.url | relative_url }}">
           {% if rel.image and rel.image != "" %}
@@ -303,9 +316,11 @@ article {
           <span class="related-title">{{ rel.title }}</span>
         </a>
       </li>
+      {% endif %}
       {% endfor %}
     </ul>
   </div>
+  {% endif %}
   {% endif %}
 
   <div style="margin-top:32px;padding-top:16px;border-top:1px solid var(--rule)">
