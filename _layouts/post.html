@@ -191,10 +191,24 @@ article {
   color: var(--muted, #666);
 }
 .author-dialog-count {
-  margin: 0;
+  margin: 0 0 14px;
   font-size: 0.78em;
   color: var(--muted, #999);
   font-style: italic;
+}
+.author-dialog-contact {
+  display: inline-block;
+  font-size: 0.82em;
+  color: var(--amber, #d4a373);
+  text-decoration: none;
+  border: 1px solid var(--amber, #d4a373);
+  border-radius: 20px;
+  padding: 6px 18px;
+  transition: background 0.2s, color 0.2s;
+}
+.author-dialog-contact:hover {
+  background: var(--amber, #d4a373);
+  color: #fff;
 }
 </style>
 
@@ -239,6 +253,7 @@ article {
         {% if author.credential %}<p class="author-dialog-credential">{{ author.credential }}</p>{% endif %}
         {% if author.bio %}<p class="author-dialog-bio">{{ author.bio }}</p>{% endif %}
         <p class="author-dialog-count">{{ author_post_count }} article{% if author_post_count != 1 %}s{% endif %} on Insight Crunch</p>
+        <a class="author-dialog-contact" href="{{ '/about/' | relative_url }}">Write to {{ author.name }}</a>
       </div>
     </dialog>
     {% endif %}
