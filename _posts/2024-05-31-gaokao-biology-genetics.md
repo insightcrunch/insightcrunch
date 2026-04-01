@@ -9,7 +9,7 @@ excerpt: "Master Gaokao genetics - Mendelian laws, gene expression, mutations, p
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 50
 author: "feng-lei"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 高考生物遗传学专题，是高中生物学中逻辑性最强、综合性最高的核心板块。遗传学贯穿从孟德尔经典遗传定律到分子遗传学、从遗传概率计算到系谱图分析、从基因突变到染色体变异的完整知识链条。在高考生物卷中，遗传题通常是区分考生能力层次的关键考点，是高考生物备考中最值得系统投入的专题之一。
 
