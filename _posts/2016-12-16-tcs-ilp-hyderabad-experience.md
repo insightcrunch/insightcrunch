@@ -4,11 +4,11 @@ title: "TCS ILP Hyderabad Experience"
 date: 2016-12-16
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "*This is a guest post. The views expressed are of the author.*"
+excerpt: "Extensive TCS ILP Hyderabad experience: a long-form account covering the full training period at the Hyderabad center with daily details and honest..."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 35
 author: "priya-mehta"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 *This is a guest post. The views expressed are of the author.*
 

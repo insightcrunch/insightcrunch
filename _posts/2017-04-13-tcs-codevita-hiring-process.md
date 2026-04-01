@@ -5,11 +5,11 @@ page_title: "TCS CodeVita - Complete Guide to the Coding Contest, Hiring Process
 date: 2017-04-13
 categories: ["Industry"]
 tags: ["TCS", "CodeVita", "Coding Contest", "Competitive Hiring"]
-excerpt: "Can TCS CodeVita get you hired? How the coding contest connects to TCS recruitment, what happens after you rank well, and the interview that follows."
+excerpt: "This is a guest post on TCS CodeVita by Sahil Jhunjhunwala. The views expressed are of the author."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 45
 author: "rajan-kumar"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 Most TCS hiring happens through standardized assessment channels - the NQT for off-campus candidates, campus placement drives for final-year students. These channels evaluate broad cognitive and technical competency across aptitude, reasoning, verbal, and coding domains. They are well-suited for high-volume screening of a diverse engineering graduate population.
 

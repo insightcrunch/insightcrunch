@@ -4,11 +4,11 @@ title: "Sqoop Import and Export tables from Hive to Oracle Database"
 date: 2016-10-24
 categories: ["Analytics"]
 tags: ["Hadoop"]
-excerpt: "Move data between Oracle and Hive with Sqoop. Import/export commands, connection setup, common errors, and the best practices for reliable transfers."
+excerpt: "Exporting and Importing table data from Oracle database to Hive and vice-versa is one of the most common activities in the world of Hadoop. It is..."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 6
 author: "gregory-marsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Overview
 

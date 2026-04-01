@@ -4,11 +4,11 @@ title: "Managing BI Services using ODI"
 date: 2016-11-02
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
-excerpt: "Automate OBIEE maintenance from ODI. Restart services, refresh RPD, and manage BI components programmatically as part of your data pipeline."
+excerpt: "Oracle Data Integrator is one of the widely used tools for data loading into the Oracle Business Intelligence data warehouse. Often it happens that due to..."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 3
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 Oracle Data Integrator is one of the widely used tools for data loading into the Oracle Business Intelligence data warehouse. Often it happens that due to frequent data updates in the source systems, the data needs to be refreshed in the data warehouse during the daytime, while users might still be trying to run reports for their reporting purpose. This no doubt calls for a mechanism to restrict the user data access during the refresh activity to avoid dirty reads.
 

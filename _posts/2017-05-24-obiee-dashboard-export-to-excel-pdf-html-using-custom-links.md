@@ -4,11 +4,11 @@ title: "OBIEE Dashboard Export to Excel PDF HTML using Custom Links"
 date: 2017-05-24
 categories: ["Analytics"]
 tags: ["OBIEE"]
-excerpt: "OBIEE lacks dashboard-to-dashboard export? Build custom links that let users download any dashboard as Excel, PDF, or HTML from another dashboard."
+excerpt: "Oracle Business Intelligence Application in it's out of the box form do not provide any solution to export a dashboard from another dashboard using custom..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 1
 author: "gregory-marsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 Oracle Business Intelligence Application in it's out of the box form do not provide any solution to export a dashboard from another dashboard using custom links. But given the available resources, it is possible to create custom links to export a dashboard in Excel format, PDF format, or HTML format. To do this we need to create few snippets of HTML and Javascript coding, and can add some cool animations as well if need be.
 
