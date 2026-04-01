@@ -4,11 +4,11 @@ title: "What is the Meta interview process?"
 date: 2014-02-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta, formerly known as Facebook, was founded in 2004 and is one of the largest technology corporations today. Meta owns Facebook and Instagram, which are..."
+excerpt: "Meta interview process explained: recruiter screen, coding rounds, system design, behavioral loop, hiring committee, and how each stage is evaluated."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 12
 author: "jason-mckenzie"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

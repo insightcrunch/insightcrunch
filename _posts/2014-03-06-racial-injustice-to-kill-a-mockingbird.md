@@ -9,7 +9,7 @@ excerpt: "How To Kill a Mockingbird confronts racial injustice - the trial, Mayc
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 Racial injustice is not simply a theme in To Kill a Mockingbird in the way that love or ambition might be a theme in another novel. It is the novel's central subject, its primary political argument, and the specific historical reality that Harper Lee was writing about in 1960 with a directness that the book's subsequent canonization as a comfortable classroom text has substantially obscured. The trial of Tom Robinson, a Black man falsely accused of raping a white woman and convicted by an all-white jury despite overwhelming evidence of his innocence, is not a dramatic device or a narrative vehicle for Atticus Finch's heroism. It is the novel's most specific account of how racial injustice operates in practice: not through exceptional individual malice but through the normal functioning of social and legal institutions organized around a racial hierarchy that has made the unjust outcome structurally inevitable before any evidence is presented.
 

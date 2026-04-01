@@ -9,7 +9,7 @@ excerpt: "How The Great Gatsby dismantles the American Dream - class, wealth, se
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The American Dream is the most powerful story America tells about itself, and The Great Gatsby is the most powerful counter-story that American literature has produced in response. F. Scott Fitzgerald did not write a novel that simply condemns the Dream as fraudulent. He wrote something more honest and more disturbing: a novel that takes the Dream's genuine romance completely seriously while demonstrating, with clinical precision, the specific mechanisms through which that romance becomes corruption, the specific social conditions under which the Dream's promise is systematically withheld from those who most fervently believe it, and the specific temporal delusion that makes the Dream's most complete embodiment simultaneously its most devastating critique.
 

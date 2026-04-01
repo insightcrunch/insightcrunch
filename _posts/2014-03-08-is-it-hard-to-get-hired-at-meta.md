@@ -4,11 +4,11 @@ title: "Is it hard to get hired at Meta?"
 date: 2014-03-08
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "How hard is it to land a Meta job? The interview bar, coding and system design expectations, and why most candidates don't make it past the loop."
+excerpt: "Meta is one of the largest corporations in the world today in the software industry. One of the questions that is asked by all the aspirants who want to..."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 9
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

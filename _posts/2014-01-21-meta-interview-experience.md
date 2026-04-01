@@ -4,11 +4,11 @@ title: "Meta Interview Experience"
 date: 2014-01-21
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the largest technology corporations in the world today. In order to learn about the Meta interview questions, it is important to know the..."
+excerpt: "Meta (Facebook) interview experience: real account of coding rounds, system design, behavioral questions, and the preparation that made the difference."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 13
 author: "gregory-marsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 
