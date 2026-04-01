@@ -4,7 +4,7 @@ title: "Why iPhone is so much popular on Flickr?"
 date: 2009-09-27
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Flickr shows various statistics of usage of its site and one of them is the [“Most Popular Cameras in the Flickr Community\\"](http://www.flickr.com/cameras..."
+excerpt: "Flickr shows various statistics of usage of its site and one of them is the 'Most Popular Cameras in the Flickr Community'"
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 2
 author: "Insight Crunch Team"
