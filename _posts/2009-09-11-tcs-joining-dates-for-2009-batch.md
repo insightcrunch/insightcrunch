@@ -4,11 +4,11 @@ title: "TCS Joining Dates for 2009 Batch"
 date: 2009-09-11
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "TCS 2009 batch joining dates are trickling in. Which colleges heard first, what the timeline looks like, and how to prepare for your start date."
+excerpt: "Many colleges have started getting some information regarding their probable joining dates as is apparently seen from the massive outburst of activities..."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Many colleges have started getting some information regarding their probable joining dates as is apparently seen from the massive outburst of activities and posts in some orkut communities.  Candidates are really very happy and excited about the new developments and constantly discussing and sharing their views and new information regarding joining dates. Let’s hope all the candidates get their joining dates soon. 
 

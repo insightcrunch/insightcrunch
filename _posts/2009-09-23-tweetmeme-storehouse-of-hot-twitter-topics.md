@@ -4,11 +4,11 @@ title: "TweetMeme : Storehouse of hot Twitter topics"
 date: 2009-09-23
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Discover what is trending on Twitter with TweetMeme. How the retweet tracking service surfaces the hottest topics and most-shared articles."
+excerpt: "Many sites have already added the “Retweet” button to their articles as you can see here also. As one retweets the article, a “RT @tweetmeme” is added in..."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Many sites have already added the “Retweet” button to their articles as you can see here also. As one retweets the article, a “RT @tweetmeme” is added in front of the tweet. And the articles gets retweeted with the title of the article. TweetMeme simply sees which particular link has been retweeted how many times, and then arranging the top articles in their home page. This apparently simple widget of a retweet button they have developed have been so widely used across so many sites that it’s no wonder how popular and attractive TweetMeme is set to become soon.
 

@@ -5,11 +5,11 @@ page_title: "TCS Leadership and Management Structure - Complete Guide to CEO Suc
 date: 2009-09-04
 categories: ["Industry"]
 tags: ["TCS", "Leadership", "Management", "Tata Group"]
-excerpt: "N. Chandrasekaran becomes TCS CEO as Ramadorai moves to Vice Chairman. The leadership transition at India's largest IT company and what it signals."
+excerpt: "In a report in the Business Line today, “Mr N. Chandrasekaran will take over as the Managing Director and Chief Executive Officer of Tata Consultancy..."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 How a company is led tells you more about its long-term character than almost any other observable fact. The values its leaders hold, the succession processes it uses, the governance structures it operates within, and the management philosophy it applies at every level from the boardroom to the project team - these are the forces that shape the company an employee will actually experience, not the marketing materials or the mission statements. For TCS, understanding the leadership and management structure means understanding one of the most studied and consistently successful examples of corporate governance in the Indian business world.
 

@@ -4,11 +4,11 @@ title: "What can Picasa do to beat Flickr?"
 date: 2009-09-10
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Can Picasa ever beat Flickr? The feature gap between Google's photo service and Yahoo's photography community, and what it would take to close it."
+excerpt: "This would be really a demanding question given the current scenario. The Picasa vs Flickr war will go on forever as these two companies exist. There is..."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 This would be really a demanding question given the current scenario. The Picasa vs Flickr war will go on forever as these two companies exist. There is absolutely a big gap considering the features of these two services as you saw in my last article. Google really wants to dominate whichever field they get into, and they will certainly not be happy with it.
 
