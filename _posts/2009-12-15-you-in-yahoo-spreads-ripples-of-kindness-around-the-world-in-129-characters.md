@@ -4,11 +4,11 @@ title: "You In? Yahoo spreads ripples of kindness around the world in 129 charac
 date: 2009-12-15
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Yahoo's kindness experiment: share your good deed in 129 characters and watch it appear on a world map. A campaign that made generosity go viral."
+excerpt: "Yahoo has struck upon an innovative campaign where users share their small acts of kindness in as little as 129 characters which gets mapped in a world..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 1
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Yahoo has struck upon an innovative campaign where users share their small acts of kindness in as little as 129 characters which gets mapped in a world map based on their privacy settings and then can ask their friends or other people “You In?” . The site is really at a very basic stage but looks promising given the concept of micro blogging backing it and[ ](http://kindness.yahoo.com/)innovativeness of Yahoo.
 

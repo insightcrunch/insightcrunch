@@ -4,11 +4,11 @@ title: "Facebook to have new Privacy Controls"
 date: 2009-12-20
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Facebook finally gives users real privacy controls. Per-post audience selection, granular settings, and why this update was long overdue."
+excerpt: "Facebook, the popular networking site, is finally rolling out some much talked about and desired privacy control features. From now on each post made by..."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 2
 author: "Insight Crunch Team"
-last_updated: 2026-03-26
+last_updated: 2026-04-01
 ---
 Facebook, the popular networking site, is finally rolling out some much talked about and desired privacy control features. From now on each post made by the user will have privacy control settings by which he can set the visibility to whoever he wants it. Till now individual posts didn’t have this facility and only one setting existed by which all the posts can be set to a specific privacy level.
 
