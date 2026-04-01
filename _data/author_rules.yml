@@ -1,0 +1,213 @@
+# ============================================================
+# AUTHOR ASSIGNMENT RULES
+# ============================================================
+# Priority: Rules are checked top-to-bottom. First match wins.
+# Each rule can match on: title keywords, tags, categories.
+# All matching is case-insensitive.
+#
+# pool: which demographic pool to draw from
+# scope: "title", "tags", "categories", or "any" (checks all)
+# ============================================================
+
+rules:
+
+  # ── EAST ASIAN: Gaokao / Chinese Education ───────────────
+  - keywords: ["gaokao", "高考", "录取分数线", "985", "211", "C9", "强基计划", "志愿填报", "高三"]
+    scope: "any"
+    pool: "east-asian"
+
+  - keywords: ["Gaokao Math", "Gaokao English", "Gaokao Chinese", "Gaokao Physics", "Gaokao Chemistry", "Gaokao Biology", "Gaokao History", "Gaokao Geography"]
+    scope: "tags"
+    pool: "east-asian"
+
+  - keywords: ["Provincial Guide", "Provincial Quotas"]
+    scope: "tags"
+    pool: "east-asian"
+
+  - keywords: ["Tsinghua", "Peking University", "Fudan", "Zhejiang University", "Nanjing University", "SJTU", "USTC", "HUST", "Wuhan University", "Sichuan University", "Nankai", "Tianjin University", "Tongji", "Beihang", "Southeast University", "Sun Yat-sen", "Central South University", "HIT"]
+    scope: "any"
+    pool: "east-asian"
+
+  # ── SOUTHEAST ASIAN: CPNS / Indonesia ────────────────────
+  - keywords: ["CPNS", "Seleksi PNS", "CPNS Indonesia", "Panduan"]
+    scope: "any"
+    pool: "southeast-asian"
+
+  # ── LATIN AMERICAN: ENEM / Brazil ────────────────────────
+  - keywords: ["ENEM", "Vestibular", "Nubank", "Mercado Livre"]
+    scope: "any"
+    pool: "latin-american"
+
+  - keywords: ["Preparacao", "Salario", "Carreira", "Mercado de Trabalho", "Requalificacao", "PJ Dolar", "Engenheiros Brasil"]
+    scope: "any"
+    pool: "latin-american"
+
+  # ── EUROPEAN: Baccalaureat / A-Levels ────────────────────
+  - keywords: ["Baccalaureat", "Baccalaureate", "A-Levels", "grandes ecoles"]
+    scope: "any"
+    pool: "european"
+
+  # ── SOUTH ASIAN: Bollywood / Dhurandhar ──────────────────
+  - keywords: ["bollywood", "dhurandhar", "ranveer", "aamir", "shah rukh", "salman", "sanjay dutt", "aditya dhar", "spy-thriller"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["ic-814", "uri", "pathaan", "ek-tha-tiger"]
+    scope: "any"
+    pool: "south-asian"
+
+  # ── SOUTH ASIAN: UPSC / Civil Services ───────────────────
+  - keywords: ["UPSC", "IAS", "Civil Services", "CSAT", "upsc-prelims", "upsc-mains", "upsc-strategy", "upsc-toppers", "upsc-booklist", "upsc-essay"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["sarkari", "SSC", "IBPS", "railway exam", "state PSC"]
+    scope: "any"
+    pool: "south-asian"
+
+  # ── SOUTH ASIAN: CAT / MBA Entrance ─────────────────────
+  - keywords: ["CAT exam", "CAT prep", "CAT aspirant"]
+    scope: "any"
+    pool: "south-asian"
+
+  # ── SOUTH ASIAN: TCS / Infosys / IT Companies ───────────
+  - keywords: ["TCS", "ILP", "NQT", "CodeVita", "TCS Ninja", "TCS Digital", "TCS Prime", "TCS BPS", "TCS Smart", "Aspire"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["Infosys", "InfyTQ", "HackWithInfy", "Springboard", "Mysore Training"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["Wipro", "Cognizant", "Accenture", "HCL"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["Fresher", "campus placement", "campus hiring", "off-campus", "IT Career", "IT Salary India", "IT company comparison", "Best IT Company"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["NEET", "IIT-JEE"]
+    scope: "any"
+    pool: "south-asian"
+
+  # ── SOUTH ASIAN: Bengali / Indian regional ───────────────
+  - keywords: ["Feluda", "Sonar Kella", "Satyajit Ray", "Suman Chattopadhyay", "Kabir Suman", "Bengali"]
+    scope: "any"
+    pool: "south-asian"
+
+  - keywords: ["Kolkata", "Bhubaneswar", "Odisha", "Chandaka", "Kalinga Park", "Salt Lake", "New Town", "Rajarhat"]
+    scope: "any"
+    pool: "south-asian"
+
+  # ── WESTERN: Harry Potter / Fantasy Literature ───────────
+  - keywords: ["Harry Potter", "Hogwarts", "Dumbledore", "Voldemort", "Hermione", "Ron Weasley", "Snape", "Malfoy", "Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff", "Horcrux", "Quidditch"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["JK Rowling", "Fantasy Literature", "Hogwarts Professors", "Death Eaters", "Marauders", "Ministry of Magic", "Order of the Phoenix"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["Kreacher", "Dobby", "Hagrid", "Lupin", "Sirius Black", "Bellatrix", "Neville", "Luna Lovegood", "Ginny Weasley", "Cedric", "Tonks", "McGonagall", "Slughorn", "Lockhart", "Trelawney"]
+    scope: "any"
+    pool: "western"
+
+  # ── WESTERN: Classic Literature ──────────────────────────
+  - keywords: ["literary-analysis", "classic-literature", "novel-analysis", "character-analysis"]
+    scope: "tags"
+    pool: "western"
+
+  - keywords: ["george-orwell", "1984", "Animal Farm", "jane-austen", "pride-and-prejudice", "harper-lee", "to-kill-a-mockingbird"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["f-scott-fitzgerald", "the-great-gatsby", "william-golding", "lord-of-the-flies", "aldous-huxley", "brave-new-world"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["emily-bronte", "wuthering-heights", "charlotte-bronte", "jane-eyre", "charles-dickens", "great-expectations", "mary-shelley", "frankenstein"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["jd-salinger", "catcher-in-the-rye", "paulo-coelho", "the-alchemist", "gothic-fiction", "dystopian-fiction"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["Literary Analysis", "Book Analysis", "Character Analysis", "Thematic Analysis"]
+    scope: "tags"
+    pool: "western"
+
+  # ── WESTERN: SAT ─────────────────────────────────────────
+  - keywords: ["SAT"]
+    scope: "any"
+    pool: "western"
+
+  # ── WESTERN: Oxford / Harvard / Accommodation ────────────
+  - keywords: ["Oxford", "Harvard", "Cambridge", "Stanford", "MIT", "Ivy League"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["Accommodation", "Student Housing", "Hostel"]
+    scope: "tags"
+    pool: "western"
+
+  # ── WESTERN: Tech Layoffs / Big Tech ─────────────────────
+  - keywords: ["layoff", "layoffs", "job cuts", "restructuring", "workforce reduction"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["Amazon", "Google", "Meta", "Microsoft", "Oracle", "UPS", "IBM"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["Anthropic", "Claude", "DeepSeek", "OpenAI", "Stargate"]
+    scope: "any"
+    pool: "western"
+
+  # ── WESTERN: AI Tools / Productivity ─────────────────────
+  - keywords: ["ai tools", "ai writing", "ai video", "ai image", "ai coding", "ai music", "ai design", "ai assistant", "chatgpt", "gemini", "midjourney", "dall-e", "cursor", "copilot", "perplexity"]
+    scope: "any"
+    pool: "western"
+
+  - keywords: ["Productivity", "Note-Taking", "VaultBook", "Chromebook", "Encryption"]
+    scope: "any"
+    pool: "western"
+
+  # ── WESTERN: Solo Dining / Restaurants ───────────────────
+  - keywords: ["solo-dining", "restaurants", "eating-alone", "counter-dining", "bar-seating"]
+    scope: "any"
+    pool: "western"
+
+  # ── WESTERN: MDM / Data Integration ─────────────────────
+  - keywords: ["Master Data Management", "Oracle Data Integrator", "MDM", "OBIEE", "Hadoop"]
+    scope: "any"
+    pool: "western"
+
+  # ── MIXED: Analytics / Tableau ───────────────────────────
+  - keywords: ["Tableau"]
+    scope: "any"
+    pool: "mixed"
+
+  # ── CATEGORY-LEVEL FALLBACKS ─────────────────────────────
+  # These only trigger if no keyword rule matched above.
+
+  - categories: ["Analytics"]
+    pool: "mixed"
+
+  - categories: ["Technology"]
+    pool: "western"
+
+  - categories: ["Travel"]
+    pool: "south-asian"
+
+  - categories: ["Leisure"]
+    pool: "western"
+
+  - categories: ["Industry"]
+    pool: "western"
+
+
+# ── DEFAULT ────────────────────────────────────────────────
+# If nothing matches at all, this author is used directly.
+default_author: "insight-crunch-team"

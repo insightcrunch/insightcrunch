@@ -1,0 +1,835 @@
+# ============================================================
+# AUTHORS POOL - 100 authors (50 male, 50 female) + 1 default
+# ============================================================
+# Pools: south-asian, east-asian, western, latin-american,
+#        european, southeast-asian, mixed
+#
+# INSTRUCTIONS FOR HEADSHOT IMAGES:
+#   1. Place all images in: /assets/images/authors/
+#   2. Name each file exactly: <author-slug>.webp
+#      e.g., priya-mehta.webp, li-wei.webp, james-carter.webp
+#   3. Recommended size: 200x200px square, .webp format
+#   4. For the default team entry, use your site logo or icon.
+# ============================================================
+
+# ── DEFAULT FALLBACK (for unmatched posts) ───────────────────
+insight-crunch-team:
+  name: "Insight Crunch Team"
+  credential: "Editorial Team"
+  bio: "Independent writing on technology, society, and the texture of everyday life."
+  avatar: "/assets/images/authors/insight-crunch-team.webp"
+  pool: "default"
+  gender: "N"
+
+# ── SOUTH ASIAN (20 authors: 10M, 10F) ──────────────────────
+priya-mehta:
+  name: "Priya Mehta"
+  credential: "Industry Analyst"
+  bio: "Covers technology workforce trends, IT hiring, and corporate strategy across India and beyond."
+  avatar: "/assets/images/authors/priya-mehta.webp"
+  pool: "south-asian"
+  gender: "F"
+
+rajan-kumar:
+  name: "Rajan Kumar"
+  credential: "Career Coach"
+  bio: "Helps fresh graduates navigate campus placements, onboarding, and early career decisions in IT."
+  avatar: "/assets/images/authors/rajan-kumar.webp"
+  pool: "south-asian"
+  gender: "M"
+
+anita-das:
+  name: "Anita Das"
+  credential: "Education Writer"
+  bio: "Writes about competitive exams, civil services preparation, and academic strategy for Indian students."
+  avatar: "/assets/images/authors/anita-das.webp"
+  pool: "south-asian"
+  gender: "F"
+
+vikram-iyer:
+  name: "Vikram Iyer"
+  credential: "Tech Career Strategist"
+  bio: "Specializes in IT company comparisons, salary analysis, and career growth paths in Indian tech."
+  avatar: "/assets/images/authors/vikram-iyer.webp"
+  pool: "south-asian"
+  gender: "M"
+
+sneha-reddy:
+  name: "Sneha Reddy"
+  credential: "Training Experience Writer"
+  bio: "Documents corporate training programs, ILP experiences, and fresher onboarding journeys."
+  avatar: "/assets/images/authors/sneha-reddy.webp"
+  pool: "south-asian"
+  gender: "F"
+
+arjun-nair:
+  name: "Arjun Nair"
+  credential: "Recruitment Analyst"
+  bio: "Breaks down hiring processes, placement patterns, and NQT strategies for job seekers."
+  avatar: "/assets/images/authors/arjun-nair.webp"
+  pool: "south-asian"
+  gender: "M"
+
+kavita-sharma:
+  name: "Kavita Sharma"
+  credential: "Civil Services Writer"
+  bio: "Covers UPSC preparation strategy, optional subjects, and toppers' study methods."
+  avatar: "/assets/images/authors/kavita-sharma.webp"
+  pool: "south-asian"
+  gender: "F"
+
+rahul-banerjee:
+  name: "Rahul Banerjee"
+  credential: "Culture & Entertainment Writer"
+  bio: "Writes about Bollywood, Indian cinema, music, and pop culture with analytical depth."
+  avatar: "/assets/images/authors/rahul-banerjee.webp"
+  pool: "south-asian"
+  gender: "M"
+
+deepika-joshi:
+  name: "Deepika Joshi"
+  credential: "Exam Prep Specialist"
+  bio: "Creates study plans, mock strategies, and subject breakdowns for national-level competitive exams."
+  avatar: "/assets/images/authors/deepika-joshi.webp"
+  pool: "south-asian"
+  gender: "F"
+
+siddharth-rao:
+  name: "Siddharth Rao"
+  credential: "IT Industry Reporter"
+  bio: "Tracks quarterly results, attrition trends, and policy changes across Indian IT services companies."
+  avatar: "/assets/images/authors/siddharth-rao.webp"
+  pool: "south-asian"
+  gender: "M"
+
+meera-pillai:
+  name: "Meera Pillai"
+  credential: "Workforce Analyst"
+  bio: "Examines hiring volumes, salary structures, and employee retention in the Indian IT sector."
+  avatar: "/assets/images/authors/meera-pillai.webp"
+  pool: "south-asian"
+  gender: "F"
+
+arun-verma:
+  name: "Arun Verma"
+  credential: "Campus Placement Guide"
+  bio: "Breaks down aptitude tests, coding rounds, and interview processes for campus hiring."
+  avatar: "/assets/images/authors/arun-verma.webp"
+  pool: "south-asian"
+  gender: "M"
+
+nandini-sen:
+  name: "Nandini Sen"
+  credential: "Regional Culture Writer"
+  bio: "Explores literature, travel, and cultural traditions across the Indian subcontinent."
+  avatar: "/assets/images/authors/nandini-sen.webp"
+  pool: "south-asian"
+  gender: "F"
+
+karthik-menon:
+  name: "Karthik Menon"
+  credential: "Coding & Assessment Writer"
+  bio: "Covers competitive programming, CodeVita, HackWithInfy, and technical assessment strategies."
+  avatar: "/assets/images/authors/karthik-menon.webp"
+  pool: "south-asian"
+  gender: "M"
+
+pooja-gupta:
+  name: "Pooja Gupta"
+  credential: "Salary & Benefits Analyst"
+  bio: "Analyzes CTC breakdowns, in-hand pay, variable components, and increment patterns in Indian IT."
+  avatar: "/assets/images/authors/pooja-gupta.webp"
+  pool: "south-asian"
+  gender: "F"
+
+amit-chatterjee:
+  name: "Amit Chatterjee"
+  credential: "Arts & Literature Critic"
+  bio: "Writes on Bengali literature, Indian cinema, and the intersection of art and society."
+  avatar: "/assets/images/authors/amit-chatterjee.webp"
+  pool: "south-asian"
+  gender: "M"
+
+ritika-singh:
+  name: "Ritika Singh"
+  credential: "Higher Education Writer"
+  bio: "Covers study abroad pathways, MBA after IT, and international university applications."
+  avatar: "/assets/images/authors/ritika-singh.webp"
+  pool: "south-asian"
+  gender: "F"
+
+devendra-patil:
+  name: "Devendra Patil"
+  credential: "Onboarding Specialist"
+  bio: "Guides new joiners through documentation, NextStep portals, project allocation, and early career tips."
+  avatar: "/assets/images/authors/devendra-patil.webp"
+  pool: "south-asian"
+  gender: "M"
+
+shruti-agarwal:
+  name: "Shruti Agarwal"
+  credential: "Policy & Work Culture Writer"
+  bio: "Examines corporate policies, work-from-home rules, and employee wellbeing in Indian tech companies."
+  avatar: "/assets/images/authors/shruti-agarwal.webp"
+  pool: "south-asian"
+  gender: "F"
+
+nikhil-tiwari:
+  name: "Nikhil Tiwari"
+  credential: "Tech Transition Advisor"
+  bio: "Covers service-to-product switches, FAANG preparation, and upskilling strategies for IT professionals."
+  avatar: "/assets/images/authors/nikhil-tiwari.webp"
+  pool: "south-asian"
+  gender: "M"
+
+
+# ── EAST ASIAN (16 authors: 8M, 8F) ─────────────────────────
+li-wei:
+  name: "Li Wei"
+  credential: "Education Writer"
+  bio: "Specializes in Chinese higher education, university entrance preparation, and provincial exam analysis."
+  avatar: "/assets/images/authors/li-wei.webp"
+  pool: "east-asian"
+  gender: "M"
+
+chen-xiaoling:
+  name: "Chen Xiaoling"
+  credential: "Gaokao Strategy Analyst"
+  bio: "Breaks down subject-wise scoring techniques, admission quotas, and provincial cutoff trends."
+  avatar: "/assets/images/authors/chen-xiaoling.webp"
+  pool: "east-asian"
+  gender: "F"
+
+zhang-hao:
+  name: "Zhang Hao"
+  credential: "STEM Education Writer"
+  bio: "Covers Gaokao mathematics, physics, and chemistry preparation with problem-solving strategies."
+  avatar: "/assets/images/authors/zhang-hao.webp"
+  pool: "east-asian"
+  gender: "M"
+
+wang-yue:
+  name: "Wang Yue"
+  credential: "University Admissions Analyst"
+  bio: "Writes about C9 League schools, 985/211 universities, and the holistic admissions landscape in China."
+  avatar: "/assets/images/authors/wang-yue.webp"
+  pool: "east-asian"
+  gender: "F"
+
+liu-jian:
+  name: "Liu Jian"
+  credential: "Exam Prep Specialist"
+  bio: "Creates study schedules, last-month revision guides, and error notebook strategies for Gaokao students."
+  avatar: "/assets/images/authors/liu-jian.webp"
+  pool: "east-asian"
+  gender: "M"
+
+xu-meifang:
+  name: "Xu Meifang"
+  credential: "Education Policy Writer"
+  bio: "Analyzes Gaokao reforms, the 3+1+2 model, subject selection strategies, and fairness debates."
+  avatar: "/assets/images/authors/xu-meifang.webp"
+  pool: "east-asian"
+  gender: "F"
+
+yang-bo:
+  name: "Yang Bo"
+  credential: "Provincial Education Reporter"
+  bio: "Tracks score cutoffs, admission trends, and competitive dynamics across Chinese provinces."
+  avatar: "/assets/images/authors/yang-bo.webp"
+  pool: "east-asian"
+  gender: "M"
+
+zhao-lina:
+  name: "Zhao Lina"
+  credential: "Humanities Education Writer"
+  bio: "Covers Gaokao Chinese language, essay writing, classical literature, and Yuwen preparation."
+  avatar: "/assets/images/authors/zhao-lina.webp"
+  pool: "east-asian"
+  gender: "F"
+
+sun-ming:
+  name: "Sun Ming"
+  credential: "Science Education Analyst"
+  bio: "Writes about Gaokao biology, chemistry experiments, and science subject selection strategies."
+  avatar: "/assets/images/authors/sun-ming.webp"
+  pool: "east-asian"
+  gender: "M"
+
+tang-jing:
+  name: "Tang Jing"
+  credential: "Student Wellness Writer"
+  bio: "Covers exam stress management, nutrition, sleep strategies, and family support during Gaokao season."
+  avatar: "/assets/images/authors/tang-jing.webp"
+  pool: "east-asian"
+  gender: "F"
+
+huang-dawei:
+  name: "Huang Dawei"
+  credential: "Vocational Education Writer"
+  bio: "Writes about alternative pathways, vocational tracks, and career planning beyond the Gaokao."
+  avatar: "/assets/images/authors/huang-dawei.webp"
+  pool: "east-asian"
+  gender: "M"
+
+lin-shuyi:
+  name: "Lin Shuyi"
+  credential: "English Education Specialist"
+  bio: "Covers Gaokao English preparation, listening strategies, reading comprehension, and writing skills."
+  avatar: "/assets/images/authors/lin-shuyi.webp"
+  pool: "east-asian"
+  gender: "F"
+
+wu-chengan:
+  name: "Wu Chengan"
+  credential: "Math Competition Coach"
+  bio: "Breaks down advanced Gaokao math topics including derivatives, conic sections, and probability."
+  avatar: "/assets/images/authors/wu-chengan.webp"
+  pool: "east-asian"
+  gender: "M"
+
+he-xiaomei:
+  name: "He Xiaomei"
+  credential: "Admissions Counselor"
+  bio: "Guides students through Zhiyuan preferences, parallel applications, and score-based university matching."
+  avatar: "/assets/images/authors/he-xiaomei.webp"
+  pool: "east-asian"
+  gender: "F"
+
+feng-lei:
+  name: "Feng Lei"
+  credential: "Education History Writer"
+  bio: "Explores the historical roots of the Chinese examination system and modern education reform."
+  avatar: "/assets/images/authors/feng-lei.webp"
+  pool: "east-asian"
+  gender: "M"
+
+ma-ruoxi:
+  name: "Ma Ruoxi"
+  credential: "International Education Writer"
+  bio: "Covers how Gaokao scores translate internationally and study abroad pathways for Chinese students."
+  avatar: "/assets/images/authors/ma-ruoxi.webp"
+  pool: "east-asian"
+  gender: "F"
+
+
+# ── WESTERN (40 authors: 20M, 20F) ──────────────────────────
+james-carter:
+  name: "James Carter"
+  credential: "Tech Industry Reporter"
+  bio: "Covers layoffs, restructuring, and workforce strategy at major American technology companies."
+  avatar: "/assets/images/authors/james-carter.webp"
+  pool: "western"
+  gender: "M"
+
+sarah-mitchell:
+  name: "Sarah Mitchell"
+  credential: "Literary Critic"
+  bio: "Writes deep analyses of classic and contemporary fiction, from Austen to Orwell to Rowling."
+  avatar: "/assets/images/authors/sarah-mitchell.webp"
+  pool: "western"
+  gender: "F"
+
+david-thornton:
+  name: "David Thornton"
+  credential: "Corporate Analyst"
+  bio: "Examines quarterly earnings, headcount shifts, and strategic pivots across the tech sector."
+  avatar: "/assets/images/authors/david-thornton.webp"
+  pool: "western"
+  gender: "M"
+
+emily-reed:
+  name: "Emily Reed"
+  credential: "Fantasy Literature Scholar"
+  bio: "Specializes in the Harry Potter universe, character psychology, and thematic analysis of fantasy fiction."
+  avatar: "/assets/images/authors/emily-reed.webp"
+  pool: "western"
+  gender: "F"
+
+michael-brooks:
+  name: "Michael Brooks"
+  credential: "Education Reporter"
+  bio: "Covers SAT preparation, college admissions strategy, and standardized testing trends."
+  avatar: "/assets/images/authors/michael-brooks.webp"
+  pool: "western"
+  gender: "M"
+
+rachel-foster:
+  name: "Rachel Foster"
+  credential: "Character Analyst"
+  bio: "Explores moral complexity, redemption arcs, and psychological depth in literary characters."
+  avatar: "/assets/images/authors/rachel-foster.webp"
+  pool: "western"
+  gender: "F"
+
+nathan-cole:
+  name: "Nathan Cole"
+  credential: "Workforce Strategy Writer"
+  bio: "Tracks AI-driven job displacement, automation trends, and the future of work in technology."
+  avatar: "/assets/images/authors/nathan-cole.webp"
+  pool: "western"
+  gender: "M"
+
+olivia-grant:
+  name: "Olivia Grant"
+  credential: "Classic Literature Analyst"
+  bio: "Writes about the enduring relevance of 19th-century novels and their themes for modern readers."
+  avatar: "/assets/images/authors/olivia-grant.webp"
+  pool: "western"
+  gender: "F"
+
+christopher-wells:
+  name: "Christopher Wells"
+  credential: "Higher Education Writer"
+  bio: "Covers Oxford and Harvard admissions, student housing, and the experience of international students."
+  avatar: "/assets/images/authors/christopher-wells.webp"
+  pool: "western"
+  gender: "M"
+
+lauren-hayes:
+  name: "Lauren Hayes"
+  credential: "Dystopian Fiction Scholar"
+  bio: "Analyzes surveillance, power, and freedom in works by Orwell, Huxley, and Golding."
+  avatar: "/assets/images/authors/lauren-hayes.webp"
+  pool: "western"
+  gender: "F"
+
+andrew-price:
+  name: "Andrew Price"
+  credential: "AI & Productivity Writer"
+  bio: "Reviews AI tools, productivity software, and emerging technology for professionals and students."
+  avatar: "/assets/images/authors/andrew-price.webp"
+  pool: "western"
+  gender: "M"
+
+jessica-kim:
+  name: "Jessica Kim"
+  credential: "Test Prep Strategist"
+  bio: "Creates score improvement plans, study calendars, and section-by-section strategies for the SAT."
+  avatar: "/assets/images/authors/jessica-kim.webp"
+  pool: "western"
+  gender: "F"
+
+benjamin-scott:
+  name: "Benjamin Scott"
+  credential: "Enterprise Tech Analyst"
+  bio: "Covers cloud infrastructure, data center strategy, and enterprise software market shifts."
+  avatar: "/assets/images/authors/benjamin-scott.webp"
+  pool: "western"
+  gender: "M"
+
+amanda-ross:
+  name: "Amanda Ross"
+  credential: "Coming-of-Age Literature Writer"
+  bio: "Explores themes of identity, belonging, and growth in young adult and classic fiction."
+  avatar: "/assets/images/authors/amanda-ross.webp"
+  pool: "western"
+  gender: "F"
+
+daniel-morgan:
+  name: "Daniel Morgan"
+  credential: "Food & Solo Dining Writer"
+  bio: "Reviews restaurants, street food, and counter-dining experiences across American cities."
+  avatar: "/assets/images/authors/daniel-morgan.webp"
+  pool: "western"
+  gender: "M"
+
+katherine-blake:
+  name: "Katherine Blake"
+  credential: "College Admissions Advisor"
+  bio: "Guides students through applications, personal statements, and financial aid for top universities."
+  avatar: "/assets/images/authors/katherine-blake.webp"
+  pool: "western"
+  gender: "F"
+
+thomas-reid:
+  name: "Thomas Reid"
+  credential: "Data & Analytics Writer"
+  bio: "Covers Tableau, data visualization best practices, and analytics career development."
+  avatar: "/assets/images/authors/thomas-reid.webp"
+  pool: "western"
+  gender: "M"
+
+megan-clark:
+  name: "Megan Clark"
+  credential: "Narrative Fiction Analyst"
+  bio: "Writes about unreliable narrators, Gothic fiction, and the craft of storytelling in classic novels."
+  avatar: "/assets/images/authors/megan-clark.webp"
+  pool: "western"
+  gender: "F"
+
+ryan-walsh:
+  name: "Ryan Walsh"
+  credential: "Big Tech Reporter"
+  bio: "Covers Amazon, Google, Meta, and Apple through the lens of workforce planning and market strategy."
+  avatar: "/assets/images/authors/ryan-walsh.webp"
+  pool: "western"
+  gender: "M"
+
+sophia-turner:
+  name: "Sophia Turner"
+  credential: "Wizarding World Scholar"
+  bio: "Dives deep into Hogwarts houses, magical creatures, and the moral philosophy of the Potter series."
+  avatar: "/assets/images/authors/sophia-turner.webp"
+  pool: "western"
+  gender: "F"
+
+marcus-hall:
+  name: "Marcus Hall"
+  credential: "Innovation & Startups Writer"
+  bio: "Covers note-taking apps, SaaS tools, and emerging productivity software for knowledge workers."
+  avatar: "/assets/images/authors/marcus-hall.webp"
+  pool: "western"
+  gender: "M"
+
+claire-bennett:
+  name: "Claire Bennett"
+  credential: "Victorian Literature Specialist"
+  bio: "Analyzes the Bronte sisters, Dickens, and themes of class, love, and society in Victorian fiction."
+  avatar: "/assets/images/authors/claire-bennett.webp"
+  pool: "western"
+  gender: "F"
+
+patrick-dunn:
+  name: "Patrick Dunn"
+  credential: "Standardized Testing Reporter"
+  bio: "Tracks SAT format changes, score trends, and the test-optional movement in college admissions."
+  avatar: "/assets/images/authors/patrick-dunn.webp"
+  pool: "western"
+  gender: "M"
+
+victoria-stone:
+  name: "Victoria Stone"
+  credential: "Allegory & Symbolism Writer"
+  bio: "Explores political allegory, social criticism, and symbolic meaning in modern literary classics."
+  avatar: "/assets/images/authors/victoria-stone.webp"
+  pool: "western"
+  gender: "F"
+
+jason-mckenzie:
+  name: "Jason McKenzie"
+  credential: "Career Transition Writer"
+  bio: "Covers resume strategy, interview preparation, and career pivots for software engineers."
+  avatar: "/assets/images/authors/jason-mckenzie.webp"
+  pool: "western"
+  gender: "M"
+
+hannah-moore:
+  name: "Hannah Moore"
+  credential: "Student Life Writer"
+  bio: "Writes about dorm life, student budgets, and navigating the social landscape at elite universities."
+  avatar: "/assets/images/authors/hannah-moore.webp"
+  pool: "western"
+  gender: "F"
+
+alex-cunningham:
+  name: "Alex Cunningham"
+  credential: "AI Industry Analyst"
+  bio: "Tracks AI investment, infrastructure buildouts, and the competitive landscape among AI companies."
+  avatar: "/assets/images/authors/alex-cunningham.webp"
+  pool: "western"
+  gender: "M"
+
+natalie-webb:
+  name: "Natalie Webb"
+  credential: "SAT Math Specialist"
+  bio: "Breaks down algebra, geometry, data analysis, and advanced math strategies for digital SAT."
+  avatar: "/assets/images/authors/natalie-webb.webp"
+  pool: "western"
+  gender: "F"
+
+simon-hartley:
+  name: "Simon Hartley"
+  credential: "Housing & Accommodation Writer"
+  bio: "Covers student housing options, rental guides, and neighborhood comparisons near top universities."
+  avatar: "/assets/images/authors/simon-hartley.webp"
+  pool: "western"
+  gender: "M"
+
+diana-patel:
+  name: "Diana Patel"
+  credential: "Science Fiction Analyst"
+  bio: "Writes about technology, utopia, and human nature in speculative and dystopian fiction."
+  avatar: "/assets/images/authors/diana-patel.webp"
+  pool: "western"
+  gender: "F"
+
+ian-fletcher:
+  name: "Ian Fletcher"
+  credential: "MDM & Data Integration Writer"
+  bio: "Covers Master Data Management, Oracle Data Integrator, and enterprise data architecture topics."
+  avatar: "/assets/images/authors/ian-fletcher.webp"
+  pool: "western"
+  gender: "M"
+
+chloe-martin:
+  name: "Chloe Martin"
+  credential: "Reading & Writing Coach"
+  bio: "Helps students master SAT reading comprehension, evidence questions, and grammar rules."
+  avatar: "/assets/images/authors/chloe-martin.webp"
+  pool: "western"
+  gender: "F"
+
+kevin-reeves:
+  name: "Kevin Reeves"
+  credential: "Tech Layoffs Correspondent"
+  bio: "Investigates restructuring motives, severance trends, and long-term impacts of tech industry layoffs."
+  avatar: "/assets/images/authors/kevin-reeves.webp"
+  pool: "western"
+  gender: "M"
+
+elena-wright:
+  name: "Elena Wright"
+  credential: "Romantic Fiction Scholar"
+  bio: "Analyzes themes of love, independence, and social expectation in Austen, Bronte, and beyond."
+  avatar: "/assets/images/authors/elena-wright.webp"
+  pool: "western"
+  gender: "F"
+
+robert-quinn:
+  name: "Robert Quinn"
+  credential: "DevTools & Coding Writer"
+  bio: "Reviews coding assistants, IDEs, and developer productivity tools for professionals and learners."
+  avatar: "/assets/images/authors/robert-quinn.webp"
+  pool: "western"
+  gender: "M"
+
+maria-santos:
+  name: "Maria Santos"
+  credential: "International Education Reporter"
+  bio: "Compares global examination systems and university admission practices across continents."
+  avatar: "/assets/images/authors/maria-santos.webp"
+  pool: "western"
+  gender: "F"
+
+william-knight:
+  name: "William Knight"
+  credential: "Financial Analysis Writer"
+  bio: "Covers tech stock performance, revenue metrics, and market impacts of corporate restructuring."
+  avatar: "/assets/images/authors/william-knight.webp"
+  pool: "western"
+  gender: "M"
+
+abigail-cooper:
+  name: "Abigail Cooper"
+  credential: "Personal Finance Writer"
+  bio: "Writes about student budgets, saving strategies, and financial planning for young professionals."
+  avatar: "/assets/images/authors/abigail-cooper.webp"
+  pool: "western"
+  gender: "F"
+
+gregory-marsh:
+  name: "Gregory Marsh"
+  credential: "Geopolitics & Tech Writer"
+  bio: "Examines how trade policy, immigration, and geopolitical tension reshape the technology workforce."
+  avatar: "/assets/images/authors/gregory-marsh.webp"
+  pool: "western"
+  gender: "M"
+
+samantha-lee:
+  name: "Samantha Lee"
+  credential: "Digital Learning Writer"
+  bio: "Covers online study tools, Khan Academy, Bluebook, and free resources for test preparation."
+  avatar: "/assets/images/authors/samantha-lee.webp"
+  pool: "western"
+  gender: "F"
+
+
+# ── LATIN AMERICAN (8 authors: 4M, 4F) ──────────────────────
+lucas-ferreira:
+  name: "Lucas Ferreira"
+  credential: "Education Writer"
+  bio: "Covers ENEM preparation, vestibular strategy, and higher education access in Brazil."
+  avatar: "/assets/images/authors/lucas-ferreira.webp"
+  pool: "latin-american"
+  gender: "M"
+
+ana-silva:
+  name: "Ana Silva"
+  credential: "Career & Tech Reporter"
+  bio: "Writes about the Brazilian IT job market, developer salaries, and remote work opportunities."
+  avatar: "/assets/images/authors/ana-silva.webp"
+  pool: "latin-american"
+  gender: "F"
+
+matheus-oliveira:
+  name: "Matheus Oliveira"
+  credential: "Exam Strategy Analyst"
+  bio: "Creates study plans and score improvement strategies for Brazilian national examinations."
+  avatar: "/assets/images/authors/matheus-oliveira.webp"
+  pool: "latin-american"
+  gender: "M"
+
+juliana-costa:
+  name: "Juliana Costa"
+  credential: "Student Finance Writer"
+  bio: "Covers scholarships, financial planning, and funding strategies for Brazilian university students."
+  avatar: "/assets/images/authors/juliana-costa.webp"
+  pool: "latin-american"
+  gender: "F"
+
+pedro-almeida:
+  name: "Pedro Almeida"
+  credential: "Tech Industry Analyst"
+  bio: "Tracks technology hiring, startup ecosystems, and digital transformation across Latin America."
+  avatar: "/assets/images/authors/pedro-almeida.webp"
+  pool: "latin-american"
+  gender: "M"
+
+camila-rocha:
+  name: "Camila Rocha"
+  credential: "Higher Education Reporter"
+  bio: "Writes about university admissions, course selection, and academic life in Brazilian institutions."
+  avatar: "/assets/images/authors/camila-rocha.webp"
+  pool: "latin-american"
+  gender: "F"
+
+rafael-santos:
+  name: "Rafael Santos"
+  credential: "Fintech & Personal Finance Writer"
+  bio: "Covers investment strategies, financial literacy, and wealth building for young professionals in Brazil."
+  avatar: "/assets/images/authors/rafael-santos.webp"
+  pool: "latin-american"
+  gender: "M"
+
+isabela-martins:
+  name: "Isabela Martins"
+  credential: "International Education Writer"
+  bio: "Helps Brazilian students navigate study abroad pathways and international exam requirements."
+  avatar: "/assets/images/authors/isabela-martins.webp"
+  pool: "latin-american"
+  gender: "F"
+
+
+# ── EUROPEAN (8 authors: 4M, 4F) ────────────────────────────
+antoine-moreau:
+  name: "Antoine Moreau"
+  credential: "Education Writer"
+  bio: "Covers the French Baccalaureat, grandes ecoles admissions, and European higher education systems."
+  avatar: "/assets/images/authors/antoine-moreau.webp"
+  pool: "european"
+  gender: "M"
+
+sophie-laurent:
+  name: "Sophie Laurent"
+  credential: "Academic Strategy Analyst"
+  bio: "Writes about A-Levels, Baccalaureat preparation, and cross-border university applications in Europe."
+  avatar: "/assets/images/authors/sophie-laurent.webp"
+  pool: "european"
+  gender: "F"
+
+marc-dubois:
+  name: "Marc Dubois"
+  credential: "STEM Education Reporter"
+  bio: "Covers science and mathematics preparation for European university entrance examinations."
+  avatar: "/assets/images/authors/marc-dubois.webp"
+  pool: "european"
+  gender: "M"
+
+claire-beaumont:
+  name: "Claire Beaumont"
+  credential: "Student Life Writer"
+  bio: "Writes about European university culture, housing, and the student experience across the continent."
+  avatar: "/assets/images/authors/claire-beaumont.webp"
+  pool: "european"
+  gender: "F"
+
+nicolas-girard:
+  name: "Nicolas Girard"
+  credential: "Policy & Reform Writer"
+  bio: "Analyzes education policy changes, testing reforms, and equity debates in European school systems."
+  avatar: "/assets/images/authors/nicolas-girard.webp"
+  pool: "european"
+  gender: "M"
+
+amelie-renaud:
+  name: "Amelie Renaud"
+  credential: "Language & Humanities Specialist"
+  bio: "Covers literature, philosophy, and humanities preparation for European baccalaureat examinations."
+  avatar: "/assets/images/authors/amelie-renaud.webp"
+  pool: "european"
+  gender: "F"
+
+lukas-weber:
+  name: "Lukas Weber"
+  credential: "International Admissions Writer"
+  bio: "Guides European students through UK and US university applications, including testing requirements."
+  avatar: "/assets/images/authors/lukas-weber.webp"
+  pool: "european"
+  gender: "M"
+
+eva-lindstrom:
+  name: "Eva Lindstrom"
+  credential: "Comparative Education Analyst"
+  bio: "Compares examination systems, grading standards, and admission practices across European countries."
+  avatar: "/assets/images/authors/eva-lindstrom.webp"
+  pool: "european"
+  gender: "F"
+
+
+# ── SOUTHEAST ASIAN (4 authors: 2M, 2F) ─────────────────────
+adi-pratama:
+  name: "Adi Pratama"
+  credential: "Civil Service Exam Writer"
+  bio: "Covers CPNS preparation, government hiring processes, and public sector careers in Indonesia."
+  avatar: "/assets/images/authors/adi-pratama.webp"
+  pool: "southeast-asian"
+  gender: "M"
+
+siti-nurhaliza:
+  name: "Siti Nurhaliza"
+  credential: "Education & Career Writer"
+  bio: "Writes about exam preparation strategies and career development for Indonesian professionals."
+  avatar: "/assets/images/authors/siti-nurhaliza.webp"
+  pool: "southeast-asian"
+  gender: "F"
+
+budi-santoso:
+  name: "Budi Santoso"
+  credential: "Government Policy Reporter"
+  bio: "Tracks public sector recruitment, e-governance initiatives, and bureaucratic reform in Southeast Asia."
+  avatar: "/assets/images/authors/budi-santoso.webp"
+  pool: "southeast-asian"
+  gender: "M"
+
+dewi-kartika:
+  name: "Dewi Kartika"
+  credential: "Professional Development Writer"
+  bio: "Covers skills training, certification pathways, and career mobility in the Southeast Asian job market."
+  avatar: "/assets/images/authors/dewi-kartika.webp"
+  pool: "southeast-asian"
+  gender: "F"
+
+
+# ── MIXED / GLOBAL (4 authors: 2M, 2F) ──────────────────────
+alex-rivera:
+  name: "Alex Rivera"
+  credential: "Data Analytics Writer"
+  bio: "Covers Tableau, Power BI, and the landscape of business intelligence tools and certifications."
+  avatar: "/assets/images/authors/alex-rivera.webp"
+  pool: "mixed"
+  gender: "M"
+
+nina-petrova:
+  name: "Nina Petrova"
+  credential: "Global Education Correspondent"
+  bio: "Compares examination systems, student experiences, and education policy across the world."
+  avatar: "/assets/images/authors/nina-petrova.webp"
+  pool: "mixed"
+  gender: "F"
+
+jordan-ellis:
+  name: "Jordan Ellis"
+  credential: "Analytics & Productivity Writer"
+  bio: "Writes about data visualization, dashboard design, and analytics career development."
+  avatar: "/assets/images/authors/jordan-ellis.webp"
+  pool: "mixed"
+  gender: "M"
+
+maya-chen:
+  name: "Maya Chen"
+  credential: "Cross-Cultural Education Writer"
+  bio: "Bridges global perspectives on testing, admissions, and student life across continents."
+  avatar: "/assets/images/authors/maya-chen.webp"
+  pool: "mixed"
+  gender: "F"

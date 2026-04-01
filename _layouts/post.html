@@ -48,6 +48,119 @@ article {
 .yt-embed a:hover {
   background: #cc0000;
 }
+
+/* ── Author byline ── */
+.author-byline {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+.author-byline:hover {
+  opacity: 0.8;
+}
+.author-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1.5px solid var(--amber, #d4a373);
+  background: var(--amber, #d4a373) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z'/%3E%3C/svg%3E") center/60% no-repeat;
+}
+.author-name {
+  font-weight: 600;
+  color: var(--fg, #1a1a1a);
+}
+.author-credential {
+  color: var(--muted, #888);
+  font-size: 0.88em;
+}
+
+/* ── Glass dialog ── */
+.author-dialog {
+  border: none;
+  border-radius: 16px;
+  padding: 0;
+  max-width: 340px;
+  width: 90vw;
+  background: transparent;
+  overflow: visible;
+}
+.author-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.45);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+.author-dialog-inner {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 16px;
+  padding: 32px 24px 24px;
+  text-align: center;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+  position: relative;
+}
+@media (prefers-color-scheme: dark) {
+  .author-dialog-inner {
+    background: rgba(30, 30, 30, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .author-dialog-name { color: #f0f0f0; }
+  .author-dialog-credential { color: #bbb; }
+  .author-dialog-bio { color: #ccc; }
+  .author-dialog-count { color: #999; }
+}
+.author-dialog-close {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+  background: none;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+  color: var(--muted, #888);
+  line-height: 1;
+  padding: 4px;
+}
+.author-dialog-close:hover {
+  color: var(--fg, #1a1a1a);
+}
+.author-dialog-avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2.5px solid var(--amber, #d4a373);
+  margin-bottom: 12px;
+  background: var(--amber, #d4a373) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='white'%3E%3Cpath d='M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z'/%3E%3C/svg%3E") center/60% no-repeat;
+}
+.author-dialog-name {
+  margin: 0 0 2px;
+  font-size: 1.15em;
+  color: var(--fg, #1a1a1a);
+}
+.author-dialog-credential {
+  margin: 0 0 10px;
+  font-size: 0.85em;
+  color: var(--amber, #d4a373);
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.author-dialog-bio {
+  margin: 0 0 12px;
+  font-size: 0.88em;
+  line-height: 1.5;
+  color: var(--muted, #666);
+}
+.author-dialog-count {
+  margin: 0;
+  font-size: 0.78em;
+  color: var(--muted, #999);
+  font-style: italic;
+}
 </style>
 
 <div class="progress-container"><div class="progress-bar" id="progressBar"></div></div>
@@ -59,12 +172,38 @@ article {
       <a href="{{ '/categories/' | append: cat | append: '/' | relative_url }}" class="tag tag-{{ cat }}">{{ page.categories | first }}</a>
     </div>
     <h1>{{ page.page_title | default: page.title }}</h1>
+    {% assign author_key = page.author | default: "insight-crunch-team" %}
+    {% assign author = site.data.authors_pool[author_key] %}
     <div class="post-meta">
+      {% if author %}
+      <span class="author-byline" onclick="document.getElementById('authorDialog').showModal()">
+        <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy">
+        <span class="author-name">{{ author.name }}</span>
+        {% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}
+      </span>
+      <span class="sep">&middot;</span>
+      {% endif %}
       <span>{{ page.date | date: "%B %-d, %Y" }}</span>
-      {% if page.last_updated %}<span class="sep">·</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
-      {% if page.read_time %}<span class="sep">·</span><span>{{ page.read_time }} min read</span>{% endif %}
-      {% if page.author %}<span class="sep">·</span><span>{{ page.author }}</span>{% endif %}
+      {% if page.last_updated %}<span class="sep">&middot;</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
+      {% if page.read_time %}<span class="sep">&middot;</span><span>{{ page.read_time }} min read</span>{% endif %}
     </div>
+
+    {% if author %}
+    {% assign author_post_count = 0 %}
+    {% for p in site.posts %}
+      {% if p.author == author_key %}{% assign author_post_count = author_post_count | plus: 1 %}{% endif %}
+    {% endfor %}
+    <dialog id="authorDialog" class="author-dialog">
+      <div class="author-dialog-inner">
+        <button class="author-dialog-close" onclick="document.getElementById('authorDialog').close()" aria-label="Close">&times;</button>
+        <img class="author-dialog-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+        <h3 class="author-dialog-name">{{ author.name }}</h3>
+        {% if author.credential %}<p class="author-dialog-credential">{{ author.credential }}</p>{% endif %}
+        {% if author.bio %}<p class="author-dialog-bio">{{ author.bio }}</p>{% endif %}
+        <p class="author-dialog-count">{{ author_post_count }} article{{ author_post_count | minus: 1 | at_least: 1 | times: 0 | plus: author_post_count | minus: 1 | at_most: 1 | plus: 1 | divided_by: 1 }}{% if author_post_count != 1 %}s{% endif %} on Insight Crunch</p>
+      </div>
+    </dialog>
+    {% endif %}
   </header>
 
   {% capture asset_base %}{{ '/assets/' | relative_url }}{% endcapture %}
@@ -119,6 +258,29 @@ article {
   <div style="margin-top:32px;padding-top:16px;border-top:1px solid var(--rule)">
     <a href="{{ '/' | relative_url }}" style="font-family:'Lora',serif;font-style:italic;font-size:13px;color:var(--amber);text-decoration:none;">← Back to all posts</a>
   </div>
+
+  {% if author %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": {{ page.page_title | default: page.title | jsonify }},
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    {% if page.last_updated %}"dateModified": "{{ page.last_updated | date: '%Y-%m-%dT00:00:00+00:00' }}",{% endif %}
+    "author": {
+      "@type": "Person",
+      "name": {{ author.name | jsonify }},
+      "jobTitle": {{ author.credential | default: "Writer" | jsonify }},
+      "description": {{ author.bio | default: "" | jsonify }}
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Insight Crunch",
+      "url": "https://insightcrunch.com"
+    }
+  }
+  </script>
+  {% endif %}
 </article>
 
 <script>
