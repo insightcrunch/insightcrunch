@@ -5,11 +5,11 @@ page_title: "The New York Post Chimpanzee Cartoon Racism Controversy - Travis th
 date: 2009-02-19
 categories: ["Leisure"]
 tags: ["Media", "Racism", "New York Post", "Editorial Cartoons", "Travis the Chimp", "Charla Nash", "Captive Primate Safety Act"]
-excerpt: "This picture, supposed to depict the killing of a pet chimpanzee which suddenly attacked it’s owner’s friend by a policeman, became extremely..."
+excerpt: "New York Post chimpanzee cartoon controversy: how a political cartoon about the stimulus bill became a flashpoint for racism accusations."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "Insight Crunch Team"
-last_updated: 2026-03-25
+last_updated: 2026-04-01
 ---
 On February 18, a cartoon appeared on Page Six of the New York Post that would ignite one of the most heated media controversies about race in the early months of the Obama presidency. The cartoon, drawn by the newspaper's long-time cartoonist Sean Delonas, depicted two police officers standing over the bullet-riddled body of a chimpanzee. One officer holds a smoking gun. The caption reads: "They'll have to find someone else to write the next stimulus bill."
 
