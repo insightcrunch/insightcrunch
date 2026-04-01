@@ -4,11 +4,11 @@ title: "How do I work online for Amazon?"
 date: 2013-06-24
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "How to work online for Amazon. Remote job types, required qualifications, pay structure, and how to find and apply for virtual positions."
+excerpt: "Amazon is one of the largest technology corporations in the world today. Some common type of jobs that are available right now at Amazon are in the fields..."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 9
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

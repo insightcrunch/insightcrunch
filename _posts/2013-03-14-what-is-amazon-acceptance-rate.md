@@ -4,11 +4,11 @@ title: "What is Amazon acceptance rate?"
 date: 2013-03-14
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Only 2% of Amazon applicants get hired. Why the rate is so low, which roles are more competitive, and how to position yourself in the top tier."
+excerpt: "Amazon is one of the largest corporations in the world today which hires over thousands of candidates across a variety of diverse domains. Amazon has a..."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 10
 author: "robert-quinn"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

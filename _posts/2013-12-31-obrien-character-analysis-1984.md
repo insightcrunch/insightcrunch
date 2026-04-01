@@ -9,7 +9,7 @@ excerpt: "Deep analysis of O'Brien in 1984 - his ideology, manipulation of Winst
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 O'Brien is the most frightening character in 1984 not because he is cruel but because he is not. He tortures Winston Smith with patience, intellectual engagement, and what can only be described as a kind of professional tenderness, and the tenderness is not a mask for something uglier beneath it. It is genuine. O'Brien is genuinely interested in Winston, genuinely invested in his reconstruction, genuinely proud of the system he serves. He is not a sadist who enjoys suffering for its own sake; he is something more unsettling, a true believer who has arrived at a philosophical position so internally coherent and so completely internalized that its most extreme applications, including the systematic destruction of another person's inner life, follow from it with the logical inevitability of mathematical proofs.
 

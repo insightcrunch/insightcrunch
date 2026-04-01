@@ -4,11 +4,11 @@ title: "How can I get a job at Amazon?"
 date: 2013-08-10
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Your roadmap to an Amazon job. From finding the right role to optimizing your resume, preparing for interviews, and navigating the hiring loop."
+excerpt: "Amazon has quite a few types of opportunities that candidates can work for, and many of those includes work from home facilities as well. If you have the..."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 9
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

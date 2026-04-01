@@ -4,11 +4,11 @@ title: "Is Amazon a good company to work for?"
 date: 2013-07-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Working at Amazon: the real picture. Compensation, benefits, career growth, and the trade-offs employees face between opportunity and intensity."
+excerpt: "Amazon is one of the largest technology companies today, and it employs thousands of people all across the world. Employees at Amazon are offered various..."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 9
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

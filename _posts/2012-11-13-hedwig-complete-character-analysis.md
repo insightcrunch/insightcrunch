@@ -8,7 +8,7 @@ excerpt: "Complete literary analysis of Hedwig the snowy owl in Harry Potter - s
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The First Gift, the First Loss
 

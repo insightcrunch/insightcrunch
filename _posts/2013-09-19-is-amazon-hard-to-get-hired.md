@@ -5,11 +5,11 @@ page_title: "Is Amazon Hard to Get Hired? Hiring Timeline, Interview Process, Le
 date: 2013-09-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Is Amazon hard to get into? It depends on the role. Difficulty comparison across warehouse, customer service, corporate, and engineering positions."
+excerpt: "Amazon is one of the largest corporations in the world today. Amazon employs nearly 1 million people all over the world. It is a mixture of part time and..."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 10
 author: "david-thornton"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "How long is hiring process for Meta?"
 date: 2013-12-19
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "How long does Meta take to hire? Typical timeline from first recruiter contact through coding screens, onsite loops, and the final hiring committee."
+excerpt: "Meta is one of the largest social media and technology corporations in the world today. One of the most common questions that I get asked by aspirants in..."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 9
 author: "benjamin-scott"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Background
 

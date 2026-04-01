@@ -4,11 +4,11 @@ title: "Amazon Work from Home Jobs"
 date: 2013-11-13
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon WFH opportunities. Customer service, tech support, and corporate remote roles with details on pay, schedule, and the application process."
+excerpt: "Amazon is the most widely recognized and trusted online shopping merchant around the world. According to a study by Forbes, Amazon was listed as one of..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 9
 author: "andrew-price"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Amazon Remote Work
 
