@@ -321,10 +321,9 @@ article {
     "datePublished": "{{ page.date | date_to_xmlschema }}",
     {% if page.last_updated %}"dateModified": "{{ page.last_updated | date: '%Y-%m-%dT00:00:00+00:00' }}",{% endif %}
     "author": {
-      "@type": "Person",
-      "name": {{ author.name | jsonify }},
-      "jobTitle": {{ author.credential | default: "Writer" | jsonify }},
-      "description": {{ author.bio | default: "" | jsonify }}
+      "@type": "Organization",
+      "name": "Insight Crunch",
+      "url": "https://insightcrunch.com"
     },
     "publisher": {
       "@type": "Organization",
