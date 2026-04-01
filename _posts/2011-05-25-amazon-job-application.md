@@ -4,11 +4,11 @@ title: "Amazon Job Application"
 date: 2011-05-25
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Amazon job application guide. The online portal, resume format, application steps, and the key qualifications that get your application noticed."
+excerpt: "Amazon is one of the largest corporations in the world today. And there are a variety of jobs that candidates can apply for at Amazon based on their skill..."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 13
-author: "elena-wright"
-last_updated: 2026-03-28
+author: "alex-cunningham"
+last_updated: 2026-04-01
 ---
 ## Background
 

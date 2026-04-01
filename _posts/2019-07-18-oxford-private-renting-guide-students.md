@@ -7,7 +7,7 @@ tags: ["Oxford", "University", "UK", "Private Renting", "Student Housing", "HMO"
 excerpt: "The complete guide to private renting in Oxford for university students. Covers the house-hunting timeline from January to September, how to form a housing group, HMO regulations and what they mean for student houses, understanding your Assured Shorthold Tenancy agreement, deposit protection rights, utility setup and council tax exemption, landlord obligations vs tenant responsibilities, the Renters' Rights Act changes affecting student lets, how to get your deposit back, dealing with maintenance issues and disputes, and neighborhood-by-neighborhood rent comparisons with practical advice for every stage of the private renting journey."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 45
-author: "natalie-webb"
+author: "ian-fletcher"
 last_updated: 2026-04-01
 ---
 Private renting in Oxford is the experience that transforms students from dependents of the college system into independent adults managing their own housing. For most Oxford undergraduates, the "living out" year (typically the second year, when the college requires you to find private accommodation) is the first time they sign a legally binding contract, manage utility bills, deal with a landlord, and learn the household logistics that college accommodation handles invisibly. It is simultaneously a rite of passage, a financial education, and a source of the best and worst anecdotes of the Oxford experience.

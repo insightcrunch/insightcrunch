@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Inside Meta's 2022 hiring freeze. Zuckerberg's reorganization plans, which divisions are frozen, and the timeline employees and candidates are watching."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 8
-author: "ryan-walsh"
+author: "abigail-cooper"
 last_updated: 2026-03-29
 ---
 ## Background

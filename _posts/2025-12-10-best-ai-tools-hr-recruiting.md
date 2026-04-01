@@ -8,7 +8,7 @@ tags: ["ai recruiting", "hr tools", "ai hiring", "talent acquisition", "ai tools
 excerpt: "AI tools that transform hiring - from resume screening to candidate matching and onboarding."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 59
-author: "christopher-wells"
+author: "david-thornton"
 last_updated: 2026-03-31
 ---
 Hiring has always been one of the most consequential and most time-consuming activities in any organization. The average corporate job posting receives 250 applications. Screening those applications to identify the twenty candidates worth an initial conversation, scheduling those conversations, conducting structured interviews, evaluating candidates consistently, extending offers, and onboarding the person who accepts - each step is labor-intensive and prone to the cognitive biases that make hiring decisions less consistent and less predictive than they should be. AI tools for HR and recruiting are addressing these inefficiencies in ways that make the process faster, more consistent, and - when implemented thoughtfully - more equitable. This guide covers every significant AI tool in the recruiting and HR space with the depth that hiring decisions deserve.

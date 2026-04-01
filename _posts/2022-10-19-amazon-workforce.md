@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "How big is Amazon's workforce? Employee count across warehouses, corporate offices, and tech divisions, plus the hiring trends driving expansion."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 10
-author: "samantha-lee"
+author: "william-knight"
 last_updated: 2026-03-29
 ---
 ## Background

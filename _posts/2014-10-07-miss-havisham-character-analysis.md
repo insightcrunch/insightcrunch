@@ -8,7 +8,7 @@ tags: ["great-expectations", "charles-dickens", "miss-havisham", "character-anal
 excerpt: "Complete analysis of Miss Havisham - her frozen grief, manipulation of Estella, and devastating self-awareness."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "rachel-foster"
+author: "sophia-turner"
 last_updated: 2026-04-01
 ---
 Miss Havisham is the most theatrically constructed character in Dickens's major novels, and the theatrical construction is not an accident of the Gothic tradition's available conventions but the most precise available formal argument about the specific psychology the character embodies. She has staged her grief. She has arranged the physical world around herself as the most complete available performance of the wound, and the performance has been maintained for decades with a consistency and a totalizing commitment that the conventional psychological account of grief cannot fully accommodate. The stopped clocks, the decaying wedding cake, the wedding dress worn until it has yellowed and rotted on her body, the drawn curtains that exclude the daylight: each element of the Satis House environment is the most completely available spatial argument about what the specific form of the grief organized as revenge looks like when it has been sustained as a deliberate act of will across the decades rather than as the passive consequence of trauma. Miss Havisham has not simply failed to process the grief. She has converted the grief into a weapon, into the most elaborate available instrument of a revenge organized around the training of a specific person, Estella, in the coldness that will allow the revenge to be enacted against the male sex in the most complete available form.

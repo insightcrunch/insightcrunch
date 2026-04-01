@@ -8,7 +8,7 @@ tags: ['SAT Geometry', 'SAT Trigonometry', 'SAT Triangles', 'SAT Circles', 'SAT 
 excerpt: "Master every SAT Geometry and Trigonometry topic including triangles, circles, coordinate geometry, volume, and trigonometric ratios with worked examples."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
-author: "olivia-grant"
+author: "samantha-lee"
 last_updated: 2026-03-29
 ---
 # SAT Geometry and Trigonometry: Every Topic Explained

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Only 2% of Amazon applicants get hired. Why the rate is so low, which roles are more competitive, and how to position yourself in the top tier."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 10
-author: "patrick-dunn"
+author: "robert-quinn"
 last_updated: 2026-03-29
 ---
 ## Background

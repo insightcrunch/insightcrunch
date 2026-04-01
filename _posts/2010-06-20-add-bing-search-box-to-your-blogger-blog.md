@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Many people had requested for a search box which would enable the visitors of their websites and blogs to search directly through Bing. So here is the..."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 1
-author: "william-knight"
+author: "victoria-stone"
 last_updated: 2026-04-01
 ---
 Many people had requested for a search box which would enable the visitors of their websites and blogs to search directly through Bing. So here is the code that is sure to help a lot of people. Simply select this code and press Ctrl+C and paste it wherever you want.

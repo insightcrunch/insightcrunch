@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Search your entire Android phone by drawing letters. Gesture Search finds contacts, apps, and settings with just a few finger swipes on screen."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 1
-author: "sarah-mitchell"
+author: "megan-clark"
 last_updated: 2026-03-28
 ---
 Have you ever fantasized to search your contacts, applications, games, settings, and everything on your phone by just using 3-4 swings of your finger? Well, all of us have, and here is just the app which will make your fantasies come true. Look through any of the contents in our mobile to search using gesture search.

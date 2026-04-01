@@ -4,11 +4,11 @@ title: "India Pakistan encounter spice up sick leaves"
 date: 2011-03-26
 categories: ["Leisure"]
 tags: ["Thoughts"]
-excerpt: "When India plays Pakistan in cricket, the whole country calls in sick. The semifinal that caused the greatest spike in leave applications."
+excerpt: "The semi-final clash between India and Pakistan will be doing a trick this week. The companies and schools will see a fishy rise in the number of people..."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
-author: "maria-santos"
-last_updated: 2026-03-28
+author: "lauren-hayes"
+last_updated: 2026-04-01
 ---
 The semi-final clash between India and Pakistan will be doing a trick this week. The companies and schools will see a fishy rise in the number of people falling ill ;) No doubt this is going to be the biggest clash between the two teams in recent times. And this hype and interest for this match is nothing amusing. It has now become as big as it could be.
 

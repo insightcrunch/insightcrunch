@@ -8,7 +8,7 @@ tags: ["Oxford Accommodation", "Oxford Couples Housing", "Oxford Family Accommod
 excerpt: "Complete guide to Oxford accommodation for couples and families: college accommodation options, graduate housing, private renting with a partner, costs, family-friendly neighbourhoods, childcare, and everything you need to know before arriving in Oxford as a couple or with children."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 52
-author: "thomas-reid"
+author: "michael-brooks"
 last_updated: 2026-04-01
 ---
 Oxford University is, in the popular imagination, a place for solitary scholars  -  for students who arrive alone, live in a college room overlooking a quad, eat in a medieval hall, and dedicate every waking hour to their studies. The reality, particularly for graduate students and visiting academics, is far more varied. Thousands of Oxford students arrive not as individuals but as part of couples and families. They come with partners who are also studying or working, with children who need schools and childcare, with family obligations that extend beyond the academic. For these students, accommodation is not simply a matter of finding a room that is close to a library. It is a matter of finding housing that works for a household  -  that has the right number of bedrooms, the right kitchen facilities, proximity to schools, affordability on a student income, and a neighbourhood environment that supports the full texture of family life rather than just academic convenience.

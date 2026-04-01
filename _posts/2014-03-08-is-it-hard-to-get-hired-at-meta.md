@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "How hard is it to land a Meta job? The interview bar, coding and system design expectations, and why most candidates don't make it past the loop."
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 9
-author: "abigail-cooper"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

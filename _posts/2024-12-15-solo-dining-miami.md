@@ -7,7 +7,7 @@ tags: ["solo-dining", "miami", "restaurants", "miami-food", "eating-alone", "cou
 excerpt: "From omakase in South Beach to ventanitas in Little Havana, the complete guide to eating alone in Miami."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 45
-author: "patrick-dunn"
+author: "christopher-wells"
 last_updated: 2026-03-31
 ---
 Miami is a city that eats with its hands. It eats standing at a ventanita window on Calle Ocho, picking up a cortadito and a croqueta before the morning heat sets in. It eats sitting at an outdoor counter in Wynwood, tearing into a plate of ceviche while reggaeton pulses from a speaker somewhere down the block. It eats late, starting dinner at 10 PM and finishing at midnight, because in this city, the night is when the real eating begins. And increasingly, Miami eats alone, because the city's explosive restaurant growth, its transient population of travelers and remote workers, and its deeply embedded Latin American street food culture have created one of the most exciting solo dining scenes in the American South.

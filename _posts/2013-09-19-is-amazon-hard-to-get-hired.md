@@ -8,7 +8,7 @@ tags: ["Amazon"]
 excerpt: "Is Amazon hard to get into? It depends on the role. Difficulty comparison across warehouse, customer service, corporate, and engineering positions."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 10
-author: "ryan-walsh"
+author: "david-thornton"
 last_updated: 2026-03-29
 ---
 ## Background

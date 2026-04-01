@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Minerva McGonagall across all Harry Potter books - duty, grief, hidden passion, and the steel beneath the grace."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "abigail-cooper"
+author: "lauren-hayes"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Woman Behind the Tartan

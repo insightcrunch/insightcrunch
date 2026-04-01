@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Two lighthearted paths to becoming a famous blogger: either become famous first, or follow these tongue-in-cheek blogging tips that actually work."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 1
-author: "abigail-cooper"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 ![](/assets/images/blog/blog-23.webp)

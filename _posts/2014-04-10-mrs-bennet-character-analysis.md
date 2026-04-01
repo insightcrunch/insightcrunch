@@ -8,7 +8,7 @@ tags: ["pride-and-prejudice", "jane-austen", "mrs-bennet", "character-analysis",
 excerpt: "Reassessing Mrs. Bennet in Pride and Prejudice - her desperation, social realism, and underrated pragmatism."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "nathan-cole"
+author: "claire-bennett"
 last_updated: 2026-03-29
 ---
 Mrs. Bennet is the character in Pride and Prejudice that readers most reliably find embarrassing, and the embarrassment is entirely intentional. Austen has constructed her as the novel's primary comic figure, the engine of social mortification whose performances at assembly balls and dinner tables produce the specific form of secondhand shame that makes the reader cringe alongside Elizabeth and Jem. She is, by the standards that the novel's more refined characters apply, a vulgarian: her nerves are on perpetual display, her enthusiasms are unchecked, her social performances are calibrated toward the market rather than toward the drawing room's preferred register of cool disengagement, and her fixation on marrying off her daughters is expressed with a relentlessness that the social world finds both transparent and tedious.

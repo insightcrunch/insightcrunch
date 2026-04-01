@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Percy Weasley in Harry Potter: the son who chose ambition over family, paid the price in isolation, and came back at exactly the right moment."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 ## Introduction: The Son Who Left

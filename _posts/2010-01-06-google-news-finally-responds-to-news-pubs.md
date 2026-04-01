@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "As most of the news agencies have been crying out of Google’s supposedly thieving ways of indexing news where users can simply search in Google News and..."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
-author: "katherine-blake"
+author: "robert-quinn"
 last_updated: 2026-04-01
 ---
 As most of the news agencies have been crying out of Google’s supposedly thieving ways of indexing news where users can simply search in Google News and read an article from leading newspapers by a click for free, they haven’t yet taken any stern step as most of these news sites earn a lot of their revenue from visitors arriving from such search results only. In fact, it’s hard to believe how well a news site would thrive without getting any visitor from a search engine as good as Google.

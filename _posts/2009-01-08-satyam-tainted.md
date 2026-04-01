@@ -7,7 +7,7 @@ tags: ["Analysis and Opinions"]
 excerpt: "One of the greatest setbacks for the IT industry a horrifying moment for the stock market.. Satyam chief B. Ramalinga Raju played around with 7136 crores..."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
-author: "natalie-webb"
+author: "abigail-cooper"
 last_updated: 2026-04-01
 ---
 One of the greatest setbacks for the IT industry a horrifying moment for the stock market.. Satyam chief B. Ramalinga Raju played around with 7136 crores to reduce his company to shambles !! 

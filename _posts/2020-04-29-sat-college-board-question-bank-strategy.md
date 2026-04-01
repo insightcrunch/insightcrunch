@@ -8,7 +8,7 @@ tags: ['SAT Question Bank', 'College Board Question Bank', 'SAT Official Questio
 excerpt: "The complete guide to using the College Board's official SAT Question Bank strategically including filtering by topic, difficulty targeting, and analysis methods for maximum improvement."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
-author: "alex-cunningham"
+author: "daniel-morgan"
 last_updated: 2026-03-28
 ---
 Among the free SAT preparation resources provided by the College Board, the Question Bank is the most underutilized by the majority of students. While most students know about the Bluebook practice tests and at least some are familiar with Khan Academy's official prep, the Question Bank represents a separate and substantial resource that many students either do not know exists or do not know how to use strategically. This is a significant missed opportunity, because the Question Bank contains hundreds of authentic College Board questions organized in a way that enables precisely targeted practice that full-length practice tests alone cannot provide.

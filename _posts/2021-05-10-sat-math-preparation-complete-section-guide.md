@@ -8,7 +8,7 @@ tags: ['SAT', 'SAT Math', 'SAT Math Preparation', 'Digital SAT Math', 'SAT Algeb
 excerpt: "The complete SAT Math preparation guide covering every tested topic, the adaptive module system, Desmos calculator strategy, and score-level plans from below 500 to 800."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
-author: "megan-clark"
+author: "patrick-dunn"
 last_updated: 2026-03-29
 ---
 # SAT Math Preparation: The Complete Section Guide

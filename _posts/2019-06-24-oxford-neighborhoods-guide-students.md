@@ -7,7 +7,7 @@ tags: ["Oxford", "University", "UK", "Neighborhoods", "Student Housing", "Jerich
 excerpt: "The definitive neighborhood guide for Oxford University students. Covers every area where students live, including Cowley Road and East Oxford, Jericho, Headington, Summertown and North Oxford, Iffley Road, Botley and Osney, Grandpont and Abingdon Road, Marston, and the city centre. Each neighborhood profile includes rent ranges, transport links, supermarkets and food options, nightlife and social scene, typical housing stock, proximity to colleges and departments, safety assessment, and a clear recommendation for which type of student each area suits best."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
-author: "benjamin-scott"
+author: "samantha-lee"
 last_updated: 2026-04-01
 ---
 Oxford is a small city with enormous neighborhood variety. Within a radius of just three to four kilometers from the city centre, you can find the bohemian energy of Cowley Road, the cosmopolitan polish of Jericho, the suburban calm of Headington, the affluent tranquility of Summertown, the riverside peace of Iffley, and the functional convenience of Botley. Each area attracts a different type of student, offers a different daily living experience, and operates at a different price point. The neighborhood you choose for your "living out" year shapes your social life, your daily routine, your food options, your commute, and your budget in ways that are difficult to change once the tenancy is signed.

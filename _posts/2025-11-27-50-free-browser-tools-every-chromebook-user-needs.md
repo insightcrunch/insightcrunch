@@ -7,7 +7,7 @@ tags: ["Chromebook", "Free Tools", "Browser Tools", "Productivity", "Online Tool
 excerpt: "Your Chromebook is more powerful than you think. These 50 free browser-based tools replace dozens of desktop applications, from PDF editors and video..."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 32
-author: "natalie-webb"
+author: "nathan-cole"
 last_updated: 2026-03-31
 ---
 The Chromebook has a reputation problem. People see a laptop that runs a browser and assume it cannot do serious work. They assume you need Windows for PDF editing, macOS for image manipulation, and a full Linux workstation for coding. They are wrong.

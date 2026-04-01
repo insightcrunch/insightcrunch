@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Types of Amazon warehouse jobs and what each one involves. Pay rates, physical requirements, shift schedules, and the benefits package for fulfillment..."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 10
-author: "natalie-webb"
+author: "nathan-cole"
 last_updated: 2026-03-29
 ---
 ## Background

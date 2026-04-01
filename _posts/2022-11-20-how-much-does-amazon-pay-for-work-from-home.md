@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "What does Amazon pay for work from home? Role-by-role pay breakdown for remote positions from entry-level customer service to senior corporate roles."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 12
-author: "thomas-reid"
+author: "alex-cunningham"
 last_updated: 2026-03-29
 ---
 ## Background

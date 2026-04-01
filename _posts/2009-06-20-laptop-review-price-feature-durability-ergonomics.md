@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Laptop buying guide: comparing price, features, durability, and ergonomics across top brands to help you pick the right machine for your needs."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
-author: "william-knight"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 Amongst the various brands of laptops available, some of the top brands really provide a tough time for the consumers to choose their product. Various issues like the price, style, features, durability etc of the products come into account. Whilst one rocks in one segment, the other rocks in a different segment, so it’s pretty tough to decide the one that is appropriate for one’s exact needs.    

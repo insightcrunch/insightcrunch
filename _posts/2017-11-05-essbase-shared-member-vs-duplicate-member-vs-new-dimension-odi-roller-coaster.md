@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "Shared member, duplicate member, or new dimension in Essbase? The ODI integration trade-offs for each approach and when each pattern makes sense."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 2
-author: "natalie-webb"
+author: "andrew-price"
 last_updated: 2026-03-29
 ---
 The beginning of winter brought with it some exciting rides into the world of Oracle Data Integrator and Essbase. Feels lovely when things start to unravel their beauty and prowess. After several sessions (more to come!) of brainstorming on Shared and Duplicate members, we came to a few interesting findings that can help us plan better.

@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "How long does Meta take to hire? Typical timeline from first recruiter contact through coding screens, onsite loops, and the final hiring committee."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 9
-author: "claire-bennett"
+author: "benjamin-scott"
 last_updated: 2026-03-29
 ---
 ## Background

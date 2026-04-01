@@ -8,7 +8,7 @@ tags: ["ai project management", "productivity", "task management", "collaboratio
 excerpt: "AI project management tools that automate tasks, predict bottlenecks, and keep teams aligned."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
-author: "benjamin-scott"
+author: "nathan-cole"
 last_updated: 2026-03-31
 ---
 Projects fail for predictable reasons. Scope creep that nobody tracked until it was too late. Dependencies that were never mapped, so a delay in one workstream blindsided three others. Status updates that required thirty minutes of meetings to gather because the information was scattered across email, chat, and individual to-do lists. Action items from a meeting that were never recorded and therefore never completed. Estimates that were optimistic because the estimator had no historical data to calibrate against. AI project management tools are attacking each of these failure modes directly - not by making project management easier to ignore, but by making the discipline of tracking, communicating, and forecasting less manual and more reliable. The teams using these tools consistently execute better than those that manage the same complexity with spreadsheets and weekly status meetings.

@@ -7,7 +7,7 @@ tags: ["IBM"]
 excerpt: "IBM is one of the top technology companies in the world today. The scale of innovation and the variety of technologies in which IBM has their presence is..."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 3
-author: "simon-hartley"
+author: "marcus-hall"
 last_updated: 2026-03-29
 ---
 ## Overview

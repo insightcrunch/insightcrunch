@@ -8,7 +8,7 @@ tags: ["lord-of-the-flies", "william-golding", "simon", "character-analysis", "l
 excerpt: "Analysis of Simon in Lord of the Flies - his spiritual vision, confrontation with the beast, and martyrdom."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "natalie-webb"
+author: "diana-patel"
 last_updated: 2026-03-31
 ---
 Simon is the character most readers of Lord of the Flies find hardest to place, and that difficulty is exactly what Golding intended. He does not fit the novel's dominant framework of civilization versus savagery, reason versus instinct, Ralph's order versus Jack's chaos. He operates on a different axis entirely, one that the novel constructs with great care but that the island's social world cannot accommodate and that literary criticism has repeatedly tried to reduce to a single, comfortable label. Call him a Christ figure and you have said something true and something insufficient. Call him the novel's moral center and you have said something that misses the specific quality of his knowledge. Call him a mystic or a visionary and you have said something accurate that still does not capture why his death is the most devastating event in a novel full of devastating events. Simon does not simply understand what is wrong on the island. He understands it through a mode of knowing that the novel positions as genuinely distinct from both Piggy's rationalism and Ralph's democratic pragmatism, a mode that is closer to direct perception than to argument, closer to being than to thinking, and entirely powerless to prevent its own destruction by those who cannot share it.

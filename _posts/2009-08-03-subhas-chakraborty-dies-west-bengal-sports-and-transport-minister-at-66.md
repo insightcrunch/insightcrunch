@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "West Bengal Sports and Transport Minister and senior Communist Party of India-Marxist CPI(M) leader Shubhas Chakroborty, who was under treatment at AMRI..."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 1
-author: "natalie-webb"
+author: "emily-reed"
 last_updated: 2026-04-01
 ---
 West Bengal Sports and Transport Minister and senior Communist Party of India-Marxist CPI(M) leader Shubhas Chakroborty, who was under treatment at AMRI hospital in Kolkata, died this morning at 11:35 AM (IST) at the age of 66. His health was critical, and he was on ventilator over the past few days. The condition deteriorated this morning further. This came as a shock to everyone, including his fellow party members.

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Ready to join Amazon? The different job types available, qualification requirements, how to apply, and what the onboarding timeline looks like."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 10
-author: "rachel-foster"
+author: "kevin-reeves"
 last_updated: 2026-03-28
 ---
 ## Background

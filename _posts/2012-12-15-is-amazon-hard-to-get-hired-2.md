@@ -8,7 +8,7 @@ tags: ["Amazon"]
 excerpt: "Amazon customer service WFH roles: how competitive they are, what skills you need, and whether the hiring process is as tough as tech positions."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 8
-author: "benjamin-scott"
+author: "nathan-cole"
 last_updated: 2026-03-28
 ---
 ## Background

@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Amazon’s Kindle is the most talked about stuff that is selling like anything right now. Though e-books are not likely to replace books in any time soon..."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 1
-author: "james-carter"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 Amazon’s Kindle is the most talked about stuff that is selling like anything right now. Though e-books are not likely to replace books in any time soon, but the craze of portability and getting to read lots of stuff in a single device has shot up the fascination for this gadget. There are various criteria to look out for before buying one like the formats supported, storage capacity, card types supported and their capacities and of course the screen sizes.

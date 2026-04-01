@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Your roadmap to an Amazon job. From finding the right role to optimizing your resume, preparing for interviews, and navigating the hiring loop."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 9
-author: "daniel-morgan"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

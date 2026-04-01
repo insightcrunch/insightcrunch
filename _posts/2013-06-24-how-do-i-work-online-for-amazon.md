@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "How to work online for Amazon. Remote job types, required qualifications, pay structure, and how to find and apply for virtual positions."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 9
-author: "emily-reed"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

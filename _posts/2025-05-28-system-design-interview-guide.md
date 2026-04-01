@@ -8,7 +8,7 @@ tags: ["system design interview", "system design preparation", "scalability", "d
 excerpt: "The most complete system design interview guide for SDE-2 and senior engineer roles: a structured step-by-step interview framework, twelve real-world..."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 55
-author: "maria-santos"
+author: "marcus-hall"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

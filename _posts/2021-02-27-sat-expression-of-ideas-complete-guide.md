@@ -8,7 +8,7 @@ tags: ['SAT Expression of Ideas', 'SAT Transitions', 'SAT Rhetorical Synthesis',
 excerpt: "Master SAT Expression of Ideas questions including transitions, notes-based synthesis, sentence placement, and effective language use with worked examples and strategies."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 45
-author: "daniel-morgan"
+author: "thomas-reid"
 last_updated: 2026-03-29
 ---
 # SAT Expression of Ideas: Transitions, Synthesis, and Rhetorical Strategy

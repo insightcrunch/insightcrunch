@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta is one of the largest technology corporations in the world today. In order to learn about the Meta interview questions, it is important to know the..."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 13
-author: "maria-santos"
+author: "gregory-marsh"
 last_updated: 2026-03-29
 ---
 ## Background

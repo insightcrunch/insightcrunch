@@ -7,7 +7,7 @@ tags: ["Thoughts"]
 excerpt: "Often while getting to use Twitter regularly I find that using the direct messages (not @) feature is pretty much like internet sms-es, or if I might put..."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 1
-author: "james-carter"
+author: "victoria-stone"
 last_updated: 2026-04-01
 ---
 Often while getting to use Twitter regularly I find that using the direct messages (not @) feature is pretty much like internet sms-es, or if I might put it, somewhere between chatting and emailing. Given the 140 character limit it’s a very decent amount of space to just get the message across. And it appears people almost instantly reply to direct messages compared to emails. It’s simply the psychology that you have to give a lot of information while replying to an email and there should be proper formatting etc., but here just clicking the “reply” link and sending your very short message across is fast and doesn’t require a lot of attention.

@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Part-time at an Amazon warehouse: what shifts are available, how much it pays per hour, which benefits you still get, and how scheduling works."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 10
-author: "hannah-moore"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

@@ -7,7 +7,7 @@ tags: ["数码产品推荐", "手机推荐", "笔记本电脑推荐", "平板推
 excerpt: "本文深度测评2025年最值得购买的50款数码产品，涵盖旗舰手机、轻薄笔记本、专业平板、降噪耳机四大品类，逐款分析核心参数、实际体验与性价比，帮你在预算范围内做出最明智的选购决定。"
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 40
-author: "emily-reed"
+author: "ryan-walsh"
 last_updated: 2026-03-31
 ---
 ## 目录

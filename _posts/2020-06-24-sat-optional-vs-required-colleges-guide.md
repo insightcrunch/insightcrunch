@@ -8,7 +8,7 @@ tags: ['SAT Optional Colleges', 'SAT Required Colleges', 'Test Optional', 'Test 
 excerpt: "The complete guide to SAT test-optional and test-required college policies covering which schools require scores, when to submit, when to withhold, and how to make the strategic decision."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
-author: "thomas-reid"
+author: "christopher-wells"
 last_updated: 2026-04-01
 ---
 One of the most consequential strategic decisions in college applications today is whether to submit SAT scores when the institution you are applying to does not require them. The test-optional movement has transformed the admissions landscape over the past several decades, expanding significantly during a period of disruption in standardized testing access, and then evolving further as institutions reconsidered their policies in light of new data on what standardized test scores predict about college success.

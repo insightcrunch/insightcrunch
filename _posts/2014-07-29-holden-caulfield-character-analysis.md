@@ -8,7 +8,7 @@ tags: ["catcher-in-the-rye", "jd-salinger", "holden-caulfield", "character-analy
 excerpt: "Deep analysis of Holden Caulfield - his grief, alienation, contradictions, and unreliable narration examined."
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "ian-fletcher"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 Holden Caulfield is the most argued-about narrator in American fiction, and the argument has never really been about whether he is likable. The argument is about whether he is right. His case against the world, that it is organized around phoniness, that the adults who run it have abandoned the genuine feeling and genuine engagement that he values most, that the accommodations required to participate in it are a form of corruption, is a case that readers have been accepting, rejecting, and complicating since the novel's publication. The acceptance tends to come from younger readers who have felt the specific gap between what the social world offers and what genuine experience demands. The rejection tends to come from older readers who have found the accommodations necessary and have concluded that Holden's inability to make them reflects immaturity rather than moral integrity. Both readings are missing the thing that makes Holden worth arguing about in the first place: the specific reason he cannot make the accommodations that the world requires, which is not that he is more perceptive than everyone else or that he is simply immature, but that his brother is dead and no one around him seems to understand that this changes everything.

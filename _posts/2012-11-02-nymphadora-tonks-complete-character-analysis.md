@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Complete literary analysis of Nymphadora Tonks in Harry Potter - identity, transformation, love, and sacrifice."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "jason-mckenzie"
+author: "emily-reed"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Woman Who Could Be Anyone but Chose to Be Herself

@@ -8,7 +8,7 @@ tags: ['SAT for Parents', 'SAT Parent Guide', 'SAT Help Your Child', 'SAT Parent
 excerpt: "The complete SAT guide for parents covering how the test works, how to support preparation without micromanaging, managing expectations, and understanding SAT's role in college admissions."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
-author: "ian-fletcher"
+author: "hannah-moore"
 last_updated: 2026-04-01
 ---
 The SAT occupies a strange place in the family life of college-bound teenagers. Parents who took a version of the test a generation ago often carry assumptions about what it measures, how hard it is, and what a good score looks like that no longer apply. The test has changed substantially. The college admissions landscape it feeds into has changed even more substantially. And the preparation industry that has grown up around the test is a bewildering mix of high-value resources and expensive noise that is genuinely difficult to evaluate without specific knowledge.

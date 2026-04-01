@@ -8,7 +8,7 @@ tags: ['SAT Statistics', 'SAT Probability', 'SAT Mean Median Mode', 'SAT Standar
 excerpt: "Master every SAT statistics and probability topic including measures of center, spread, probability, two-way tables, scatter plots, and data interpretation with worked examples."
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 45
-author: "alex-cunningham"
+author: "daniel-morgan"
 last_updated: 2026-03-28
 ---
 Statistics and probability questions form a substantial and distinctive portion of the SAT Math section, appearing primarily in the Problem-Solving and Data Analysis domain. These questions differ from algebra and advanced math questions in an important way: they require the ability to read, interpret, and reason about data representations rather than primarily to compute. A student who can correctly set up an algebraic equation may still miss a statistics question if they misinterpret what a graph is showing, confuse mean with median, or select the wrong probability formula for the given conditions.

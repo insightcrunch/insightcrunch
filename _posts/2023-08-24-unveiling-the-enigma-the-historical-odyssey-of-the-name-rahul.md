@@ -7,7 +7,7 @@ tags: ["dailyprompt", "dailyprompt-2037", "Thoughts"]
 excerpt: "What does the name Rahul mean and where does it come from? A historical journey from Sanskrit roots through Buddhist tradition to modern India."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 2
-author: "chloe-martin"
+author: "emily-reed"
 last_updated: 2026-03-30
 ---
 ## Introduction

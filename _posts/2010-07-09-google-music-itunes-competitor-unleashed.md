@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty..."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 1
-author: "natalie-webb"
+author: "andrew-price"
 last_updated: 2026-04-01
 ---
 We might soon be able to search a song or music in the market and click the download button to save it in our Android devices. The idea is pretty compelling of Google Music, if that is what it is going to be called in the end. Google teased the audience a few weeks ago about this which would be a new segment in the Android market.

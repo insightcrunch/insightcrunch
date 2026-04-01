@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "What are your real chances at Amazon? The math behind the 2% hire rate, which roles have better odds, and how to stand out in a massive applicant pool."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 10
-author: "nathan-cole"
+author: "alex-cunningham"
 last_updated: 2026-03-29
 ---
 ## Background

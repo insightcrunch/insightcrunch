@@ -7,7 +7,7 @@ tags: ["Oracle Data Integrator"]
 excerpt: "Mastering OdiSqlUnload in ODI. How to extract database data into files efficiently, the parameter options available, and real-world use cases."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
-author: "katherine-blake"
+author: "benjamin-scott"
 last_updated: 2026-03-29
 ---
 The Oracle Data Integrator is one of the best futuristic data transformation and loading tools with a variety of features for the end-user. ODI as an ELT tool provides a lot of inbuilt features for data processing using different technologies.

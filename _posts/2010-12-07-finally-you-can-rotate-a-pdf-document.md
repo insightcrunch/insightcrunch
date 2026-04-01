@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Many times we PDF readers have faced problems when the landscape and portrait orientation in our document is not as we want it to be. Now it can be done..."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 1
-author: "jason-mckenzie"
+author: "amanda-ross"
 last_updated: 2026-04-01
 ---
 Many times we PDF readers have faced problems when the landscape and portrait orientation in our document is not as we want it to be. Now it can be done in a breeze. [Visit this site](http://www.rotatepdf.net/). Just upload your document and select the orientation you want tit to be in.

@@ -7,7 +7,7 @@ tags: ["solo-dining", "seattle", "restaurants", "seattle-food", "eating-alone", 
 excerpt: "From Pike Place oyster bars to Capitol Hill ramen counters, the complete guide to eating alone in Seattle."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
-author: "alex-cunningham"
+author: "maria-santos"
 last_updated: 2026-03-31
 ---
 Seattle is a city that understands solitude. It is the city of rain and coffee, of long gray afternoons spent in bookstores, of mornings where the fog rolls off the Puget Sound and wraps the waterfront in a silence that feels less like loneliness and more like a gift. It is a city where the solo diner at a window table, watching the ferries cross Elliott Bay while eating a plate of oysters and drinking a glass of Washington Riesling, is not a person who could not find company. They are a person who chose the best company available: the city itself, the water, the mountains, and the food.

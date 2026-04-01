@@ -4,11 +4,11 @@ title: "IT and ITIS: Head-on Comparison"
 date: 2011-08-07
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Confused between IT and ITIS at TCS? Head-to-head comparison of work type, daily tasks, skill requirements, and long-term career trajectory."
+excerpt: "IT and ITIS. The twins of the outsourcing world. One refers to Information Technology, the other IT Infrastructure Services. Most of us often get confused..."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 3
 author: "anita-das"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Overview
 

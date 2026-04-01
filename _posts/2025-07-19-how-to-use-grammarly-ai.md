@@ -8,7 +8,7 @@ tags: ["grammarly", "ai grammar", "writing tools", "grammarly tutorial", "ai edi
 excerpt: "Master every Grammarly AI feature - grammar, tone detection, rewriting, and generative text."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
-author: "sophia-turner"
+author: "james-carter"
 last_updated: 2026-03-31
 ---
 Grammarly started as a grammar checker and has evolved into something more comprehensive: an AI writing assistant that works across virtually every surface where you write - browser tabs, email clients, Microsoft Office, Google Docs, desktop applications, and mobile keyboards. The grammar checking that made Grammarly famous is now just the foundation. The current Grammarly AI layer detects tone mismatches between your intent and your actual writing, suggests full sentence rewrites for clarity and concision, generates drafts and responses from prompts, checks text for unintentional plagiarism, and offers real-time style guidance tailored to the formality level and audience of what you are writing. For anyone who writes significant amounts of professional text - emails, reports, proposals, documentation, articles - Grammarly has become a genuinely useful ambient assistant that catches what human editing misses and improves writing quality across the board. This guide covers every Grammarly feature, how to use each effectively, and the specific workflows where Grammarly provides the most value.

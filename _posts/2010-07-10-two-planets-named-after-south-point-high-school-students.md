@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Great news for Pointers! Two students of South Point High School in Kolkata will now have minor planets named after them."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 1
-author: "daniel-morgan"
+author: "lauren-hayes"
 last_updated: 2026-04-01
 ---
 Great news for Pointers! Two students of South Point High School in Kolkata will now have minor planets named after them.

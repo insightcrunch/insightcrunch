@@ -8,7 +8,7 @@ tags: ['SAT 1500', 'SAT High Score Strategy', 'SAT 1500 Study Plan', 'SAT Top Sc
 excerpt: "The complete strategy guide for scoring 1500+ on the Digital SAT covering section-specific tactics, practice optimization, error elimination, and the mindset needed for elite scores."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 45
-author: "kevin-reeves"
+author: "ian-fletcher"
 last_updated: 2026-03-29
 ---
 # How to Score 1500+ on the SAT: Elite Score Strategy

@@ -8,7 +8,7 @@ tags: ['SAT Grammar', 'SAT Grammar Rules', 'SAT Punctuation Rules', 'SAT Subject
 excerpt: "Master every grammar rule tested on the SAT including punctuation, agreement, pronoun usage, modifiers, parallelism, and verb tense with examples and practice strategies."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 45
-author: "samantha-lee"
+author: "daniel-morgan"
 last_updated: 2026-03-29
 ---
 # SAT Grammar Rules: Every Rule Tested on the Digital SAT

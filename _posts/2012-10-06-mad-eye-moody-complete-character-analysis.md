@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Mad-Eye Moody across all Harry Potter books - the cost of the war on the warrior, vigilance as survival, and what the real Moody reveals."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "diana-patel"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Price of the Fight

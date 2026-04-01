@@ -4,11 +4,11 @@ title: "TCS ITIS: Detailed Analysis"
 date: 2011-07-28
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "It has been quite sometime while the discussion had been going on as to what ITIS actually is. Well, to begin with, ITIS (IT Infrastructure Services) is..."
+excerpt: "TCS ITIS detailed analysis: what IT Infrastructure Services means, the work involved, career trajectory in ITIS, and how it differs from application..."
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
 author: "shruti-agarwal"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 ## Overview
 

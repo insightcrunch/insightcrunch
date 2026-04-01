@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon is one of the largest employers in the world with thousands of warehouses and employees distributed globally. The payment that is provided by..."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 11
-author: "maria-santos"
+author: "alex-cunningham"
 last_updated: 2026-04-01
 ---
 ## Background

@@ -8,7 +8,7 @@ tags: ["FAFSA guide", "scholarships no essay", "how to pay for college", "studen
 excerpt: "The most complete guide to paying for college: a step-by-step FAFSA walkthrough, no-essay scholarship databases, federal and state grant programs..."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 55
-author: "lauren-hayes"
+author: "william-knight"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

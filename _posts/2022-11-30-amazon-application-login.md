@@ -7,7 +7,7 @@ tags: []
 excerpt: "Can't log into the Amazon application portal? Steps to access your profile, check application status, reset credentials, and fix common login errors."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 14
-author: "victoria-stone"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "A mesmerizing optical illusion: watch the pink dots disappear and a green dot appear. How your brain tricks you when you focus on movement."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 1
-author: "ryan-walsh"
+author: "megan-clark"
 last_updated: 2026-04-01
 ---
 If your brain works normally this is neat. This is another example of an amazing illusion!!! The last sentence is so true. If your eyes follow the movement of the rotating pink dot, the dots will remain only one color, pink.

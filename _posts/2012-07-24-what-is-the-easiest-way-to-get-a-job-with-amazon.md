@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Want the quickest route into Amazon? The job types with the easiest hiring process, shortest timelines, and lowest experience requirements."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 10
-author: "simon-hartley"
+author: "william-knight"
 last_updated: 2026-03-28
 ---
 ## Background

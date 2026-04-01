@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "Can Google Plus kill Facebook? The Circles feature, Hangouts video chat, and the early signs that Google finally built a social network that works."
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 1
-author: "kevin-reeves"
+author: "andrew-price"
 last_updated: 2026-03-28
 ---
 People have never really sticked to one particular social networking site for a long time. Since Orkut started out way back in the 2000s, people flocked into it, and it became a madness. There was nothing that could be compared to Orkut’s mad addiction to anything in the contemporary internet or physical world. Students and adults, geeks and normal people, everyone went on to live into it. It became a world of its own.

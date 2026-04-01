@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Even after modifying its privacy controls, Facebook seems to still have a lot of work to do. A number of major advocacy groups, including the ACLU, EFF..."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 1
-author: "emily-reed"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 Even after modifying its privacy controls, Facebook seems to still have a lot of work to do. A number of major advocacy groups, including the ACLU, EFF, and CDT, sent Facebook an open letter detailing some outstanding issues with Facebook privacy. The letter acknowledged Facebook’s recent steps to more efficient privacy controls but also said that there are still some flaws.

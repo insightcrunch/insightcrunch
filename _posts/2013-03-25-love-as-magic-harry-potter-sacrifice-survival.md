@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic
 excerpt: "Rowling does not merely use love as a theme in Harry Potter - she constructs it as a magical system with rules as strict as any spell, and this system's logic determines everything."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
-author: "daniel-morgan"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 ## Introduction: Love Is Not a Metaphor. It Is the Mechanism.

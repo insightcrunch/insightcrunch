@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Amazon's hiring bar is real. How tough each stage is, from resume screening through the interview loop, and what acceptance rates look like."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 10
-author: "rachel-foster"
+author: "james-carter"
 last_updated: 2026-03-28
 ---
 ## Background

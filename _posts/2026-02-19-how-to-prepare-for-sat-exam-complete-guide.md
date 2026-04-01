@@ -8,7 +8,7 @@ tags: ['SAT', 'College Admissions', 'Test Prep', 'USA']
 excerpt: 'An authoritative, strategic, and deeply practical guide to preparing for the SAT — covering the digital exam format, section-wise mastery of Reading and...'
 image: '/assets/images/blog/blog-19.webp'
 reading_time: 34
-author: "hannah-moore"
+author: "samantha-lee"
 last_updated: 2026-04-01
 ---
 ## **1. Introduction**

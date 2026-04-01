@@ -8,7 +8,7 @@ tags: ['PSAT to SAT', 'PSAT SAT Preparation', 'PSAT Results SAT Prep', 'PSAT Sco
 excerpt: "The complete guide to using PSAT results as a foundation for SAT preparation covering score interpretation, skill gap identification, National Merit implications, and transition strategy."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
-author: "gregory-marsh"
+author: "christopher-wells"
 last_updated: 2026-03-28
 ---
 # PSAT to SAT: How to Use PSAT Results to Maximize SAT Performance

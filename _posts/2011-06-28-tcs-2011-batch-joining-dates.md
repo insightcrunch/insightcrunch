@@ -4,11 +4,11 @@ title: "TCS 2011 Batch Joining Dates"
 date: 2011-06-28
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "TCS joining dates for 2011 batch are rolling out. The timeline, which colleges heard first, and what to prepare before your onboarding begins."
+excerpt: "The candidates of 2011 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the..."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
 author: "siddharth-rao"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 The candidates of 2011 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the prestigious organization of their dreams have started providing them the joining dates. The candidates are maintaining a spreadsheet as found in several social networking sites. I am providing it here hoping you might find it useful.
 

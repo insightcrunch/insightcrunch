@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Peter Pettigrew across all Harry Potter books - the small man who betrayed everything, and what his story reveals about cowardice as a moral choice."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "megan-clark"
+author: "elena-wright"
 last_updated: 2026-03-29
 ---
 ## Introduction: The Ordinary Betrayal

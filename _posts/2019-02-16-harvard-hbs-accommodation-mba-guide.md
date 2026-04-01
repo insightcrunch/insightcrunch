@@ -8,7 +8,7 @@ tags: ["Harvard HBS Housing", "Harvard Business School Accommodation", "HBS MBA 
 excerpt: "Complete guide to Harvard Business School accommodation - the HBS residential lottery, Soldiers Field Park, on-campus housing options, off-campus living in Allston and Cambridge, costs, the first-year community model, and everything MBA students need to know about housing at HBS."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 52
-author: "sophia-turner"
+author: "natalie-webb"
 last_updated: 2026-04-01
 ---
 Housing at Harvard Business School is not an afterthought to the MBA experience - it is a deliberate pedagogical tool. The residential model that HBS has built around its two-year MBA programme is designed to support the case method's dependence on small-group learning and peer-to-peer intellectual exchange. When the student who sat next to you in the morning's case discussion is also your neighbor in the same residential section, and the same person whose opinion you will encounter across the dinner table that evening, the boundaries between classroom and residential life become productively blurred. The community that forms in HBS housing during the first year of the MBA is, by design, the same community that learns together in the case classroom.

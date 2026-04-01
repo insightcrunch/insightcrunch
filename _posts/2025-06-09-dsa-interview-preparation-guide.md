@@ -8,7 +8,7 @@ tags: ["DSA interview questions", "DSA preparation", "LeetCode patterns", "codin
 excerpt: "The most complete DSA interview preparation guide for software engineers: topic-wise strategy, 150 curated must-solve problems, pattern recognition..."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 55
-author: "benjamin-scott"
+author: "ryan-walsh"
 last_updated: 2026-03-31
 ---
 ## Table of Contents

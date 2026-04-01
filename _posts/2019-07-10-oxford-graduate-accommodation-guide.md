@@ -7,7 +7,7 @@ tags: ["Oxford", "University", "UK", "Graduate", "PhD", "DPhil", "Accommodation"
 excerpt: "The complete guide to graduate accommodation at Oxford University. Covers the three housing pathways (college, University Graduate Accommodation Office, and private renting), specific rent figures for Castle Mill, Walton Street, Wellington Square, and other University properties, how the CASS cross-college system works, the tiered waiting list that prioritizes international freshers, college-by-college graduate housing comparison, accommodation for graduate couples and families including Alan Bullock Close and Castle Mill, the DPhil financial planning challenge across three to four years, and practical strategies for securing housing in Oxford's competitive graduate market."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
-author: "samantha-lee"
+author: "simon-hartley"
 last_updated: 2026-04-01
 ---
 Graduate accommodation at Oxford is the university's least-solved housing problem. While undergraduates benefit from a well-established system (guaranteed first-year rooms, organized ballots for subsequent years, a clear "living out" pathway with institutional support), graduate students navigate a fragmented landscape where accommodation provision varies dramatically by college, demand consistently exceeds supply, and the process of securing housing can be stressful, uncertain, and financially consequential.

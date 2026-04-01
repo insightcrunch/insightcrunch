@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Can you earn $30/hour working from home at Amazon? The remote roles that pay this rate, what qualifications they need, and how to land them."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 14
-author: "alex-cunningham"
+author: "benjamin-scott"
 last_updated: 2026-03-29
 ---
 ## Background

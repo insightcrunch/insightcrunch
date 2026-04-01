@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A literary analysis of Remus Lupin in Harry Potter - his werewolf stigma, his courage as a teacher, and his tragic dignity across seven books."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "simon-hartley"
+author: "olivia-grant"
 last_updated: 2026-03-28
 ---
 ## Introduction: The Man Who Was Always on the Margin

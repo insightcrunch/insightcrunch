@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Facebook is scared of Google Plus. The latest interface changes, smart lists, and subscriber features are borrowed directly from Google's playbook."
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 1
-author: "victoria-stone"
+author: "abigail-cooper"
 last_updated: 2026-03-28
 ---
 Facebook has recently made some pretty decent tweaks into their existing interface. All of them aims at the popular features which had been giving an edge to their closest rival Google Plus. These changes come at a time when people are in two-minds which platform to use. Facebook is trying its level best to provide its users with best in-class experience.

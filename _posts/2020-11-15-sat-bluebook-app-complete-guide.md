@@ -8,7 +8,7 @@ tags: ['SAT Bluebook App', 'SAT Bluebook Download', 'SAT Bluebook Practice Test'
 excerpt: "The complete guide to the SAT Bluebook application covering download, setup, interface navigation, practice test features, score review, and tips for mastering the digital testing environment."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 45
-author: "william-knight"
+author: "christopher-wells"
 last_updated: 2026-04-01
 ---
 # SAT Bluebook App: Complete Navigation and Practice Guide

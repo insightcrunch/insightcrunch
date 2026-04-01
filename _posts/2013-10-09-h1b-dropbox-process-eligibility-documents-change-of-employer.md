@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Qualify for H1B dropbox visa renewal? Eligibility criteria, document checklist, employer change rules, and the complete process for interview-free..."
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 10
-author: "hannah-moore"
+author: "olivia-grant"
 last_updated: 2026-03-29
 ---
 ## Background

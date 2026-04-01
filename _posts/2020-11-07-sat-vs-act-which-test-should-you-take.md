@@ -8,7 +8,7 @@ tags: ['SAT vs ACT', 'SAT or ACT', 'SAT ACT Comparison', 'SAT ACT Differences', 
 excerpt: "The complete SAT vs ACT comparison covering format differences, content differences, scoring systems, which test suits which student type, and how to make the decision."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
-author: "william-knight"
+author: "daniel-morgan"
 last_updated: 2026-04-01
 ---
 # SAT vs ACT: Complete Comparison to Choose the Right Test

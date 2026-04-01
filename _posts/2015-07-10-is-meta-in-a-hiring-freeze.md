@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta cut hiring by 30%. What that means in practice: frozen roles, reduced teams, and the signal Zuckerberg is sending about the company's direction."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 5
-author: "hannah-moore"
+author: "kevin-reeves"
 last_updated: 2026-03-29
 ---
 ## Overview

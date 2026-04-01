@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Gmail offline access arrives: read, write, and search emails without an internet connection using the Google Gears experimental feature."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 1
-author: "marcus-hall"
+author: "david-thornton"
 last_updated: 2026-04-01
 ---
 Significantly increasing the utility and competitiveness of its Web-based e-mail service, Google is enabling an experimental ability to read, write, and search Gmail messages even while not connected to the network.

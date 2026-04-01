@@ -8,7 +8,7 @@ tags: ['SAT India', 'SAT for Indian Students', 'SAT Registration India', 'SAT Pr
 excerpt: "The complete SAT guide for Indian students covering registration from India, preparation alongside board exams, score targets, and how SAT scores work for US and Indian university admissions."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
-author: "kevin-reeves"
+author: "ian-fletcher"
 last_updated: 2026-04-01
 ---
 India sends a significant and growing number of students to universities in the United States every year, and for most of those students the SAT plays an important role in their applications. Yet the SAT preparation landscape in India is fragmented, filled with coaching centers of wildly varying quality, preparation advice tailored to the old paper-based test rather than the Digital SAT, and a general lack of authoritative guidance specific to the challenges and opportunities that Indian students face.

@@ -8,7 +8,7 @@ tags: ["to-kill-a-mockingbird", "harper-lee", "scout-finch", "character-analysis
 excerpt: "Complete analysis of Scout Finch - her innocence, growth, voice as narrator, and journey toward empathy."
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
-author: "alex-cunningham"
+author: "chloe-martin"
 last_updated: 2026-03-29
 ---
 Jean Louise Finch, who goes by Scout throughout every page of To Kill a Mockingbird and through most of American literary memory, is one of the most fully realized child narrators in the English language. She is six years old when the novel opens and nine when it closes, and in those three years she witnesses events that would shake an adult to the foundations, a man destroyed by a justice system that was never built to include him, a community's capacity for mob violence, and a recluse's unexpected heroism, and she processes all of it through the specific consciousness of a child who has not yet learned to make the adult world's corruptions invisible by accepting them as normal.

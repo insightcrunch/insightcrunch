@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Have a webcam? Now you can add the latest highest level of technologies, authenticating a user by his looks, by this simple software. By facial..."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 1
-author: "nathan-cole"
+author: "rachel-foster"
 last_updated: 2026-04-01
 ---
 Have a webcam? Now you can add the latest highest level of technologies, authenticating a user by his looks, by this simple software. By facial recognition, you can login to your PC in no time. [Install this](http://www.luxand.com/blink/).

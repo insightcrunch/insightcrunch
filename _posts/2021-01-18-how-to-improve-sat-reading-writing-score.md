@@ -8,7 +8,7 @@ tags: ['SAT Reading Improvement', 'SAT Writing Score Boost', 'SAT Reading and Wr
 excerpt: "The complete guide to boosting your SAT Reading and Writing score by 100+ points through grammar mastery, reading technique improvement, and question-type strategy."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
-author: "rachel-foster"
+author: "samantha-lee"
 last_updated: 2026-04-01
 ---
 # How to Improve Your SAT Reading and Writing Score by 100+ Points

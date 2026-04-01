@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic
 excerpt: "The blood-purity system in Harry Potter is not merely a metaphor for real-world prejudice. It is a functioning social system with economic, political, and psychological consequences that different characters navigate based on their specific position within it."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
-author: "samantha-lee"
+author: "claire-bennett"
 last_updated: 2026-04-01
 ---
 ## Introduction: Not Allegory but Architecture

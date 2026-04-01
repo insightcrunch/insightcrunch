@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Ron Weasley across all seven Harry Potter books - his psychology, his shadow, and why he is the most underestimated hero of the series."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "nathan-cole"
+author: "lauren-hayes"
 last_updated: 2026-03-28
 ---
 ## Introduction: The Boy Who Was Always There

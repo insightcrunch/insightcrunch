@@ -8,7 +8,7 @@ tags: ["animal-farm", "george-orwell", "themes", "allegory", "propaganda", "lite
 excerpt: "Every theme and allegory in Animal Farm decoded - propaganda, commandments, class, and Orwell's warning."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
-author: "victoria-stone"
+author: "chloe-martin"
 last_updated: 2026-03-31
 ---
 Animal Farm operates simultaneously on two levels that Orwell keeps in perfect alignment throughout the novel: the allegorical level, in which every character and event corresponds to a specific figure or episode in Soviet history, and the thematic level, in which those allegorical correspondences serve a larger argument about the structural logic of revolutionary betrayal that transcends the Soviet context entirely. The error most readers make is collapsing the two levels into one, treating the novel as a historical document about the Russian Revolution rather than as a structural analysis of political dynamics that the Russian Revolution happened to demonstrate with particular clarity. Orwell was not writing a pamphlet about Stalin. He was writing a fable about what happens to every revolution whose organizational structure concentrates power without adequate accountability, and he chose the Russian Revolution as his vehicle because no other revolution in living memory had demonstrated the pattern so completely or so devastatingly.

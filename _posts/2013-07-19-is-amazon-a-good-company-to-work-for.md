@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Working at Amazon: the real picture. Compensation, benefits, career growth, and the trade-offs employees face between opportunity and intensity."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 9
-author: "victoria-stone"
+author: "james-carter"
 last_updated: 2026-03-29
 ---
 ## Background

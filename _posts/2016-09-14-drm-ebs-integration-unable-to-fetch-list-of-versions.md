@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "DRM to EBS version fetch failing? Troubleshooting steps for the concurrent program that connects Oracle DRM hierarchy data to Oracle GL."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 2
-author: "abigail-cooper"
+author: "katherine-blake"
 last_updated: 2026-03-29
 ---
 Oracle DRM and Oracle GL are integrated very closely in environments where both are present. Sometimes it happens that the concurrent program which is supposed to pull data from DRM errors out with the message "Unable to fetch list of versions".

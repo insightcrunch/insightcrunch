@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "The truth about applying to Amazon. How tough the process really is, what the portal expects, and why most applications never reach a recruiter."
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 9
-author: "hannah-moore"
+author: "andrew-price"
 last_updated: 2026-03-28
 ---
 ## Background

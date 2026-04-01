@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Complete literary analysis of Hedwig the snowy owl in Harry Potter - symbolism, loyalty, and silent sacrifice."
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
-author: "abigail-cooper"
+author: "victoria-stone"
 last_updated: 2026-03-29
 ---
 ## Introduction: The First Gift, the First Loss

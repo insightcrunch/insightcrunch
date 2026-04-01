@@ -7,7 +7,7 @@ tags: ["Master Data Management"]
 excerpt: "DRM hierarchy won't open after adding columns? The Boolean validation error that surfaces with custom hierarchy views and how to resolve it."
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 1
-author: "david-thornton"
+author: "ian-fletcher"
 last_updated: 2026-03-29
 ---
 One of the errors that has been faced while using DRM is that the hierarchy gives an error while opening when some more columns are added in the default hierarchy view. These additional columns are the Description of the nodes (available in the System Property Category) and some other calculated custom properties.

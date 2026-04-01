@@ -7,7 +7,7 @@ tags: ["VaultBook", "Note-Taking", "AI", "Semantic Search", "Productivity"]
 excerpt: "Traditional folders worked fine when we had fifty files. But now, with thousands of notes across every domain of life and work, the folder paradigm has..."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 25
-author: "thomas-reid"
+author: "william-knight"
 last_updated: 2026-03-31
 ---
 Traditional folders worked fine when we had fifty files. But now, with thousands of notes across every domain of life and work, the folder paradigm has become a bottleneck. The promise of the digital age was instant retrieval of information, yet most of us still spend an embarrassing portion of our day hunting through nested directories, trying to remember whether we saved something under "Projects," "Meetings," or "Ideas."

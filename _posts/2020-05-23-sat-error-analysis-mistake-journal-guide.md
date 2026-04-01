@@ -8,7 +8,7 @@ tags: ['SAT Error Analysis', 'SAT Mistake Journal', 'SAT Error Log', 'SAT Error 
 excerpt: "The complete guide to SAT error analysis and mistake journaling covering error categorization, pattern identification, targeted remediation, and how systematic error analysis drives score improvement."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 45
-author: "james-carter"
+author: "thomas-reid"
 last_updated: 2026-03-28
 ---
 Every wrong answer on an SAT practice test contains more preparation value than the question it represents. It is not just evidence that you missed a point; it is a diagnostic signal pointing precisely to a gap in your knowledge, a flaw in your strategy, or a habit that needs correction. Students who treat wrong answers as failures to move past are discarding the most valuable information their preparation generates. Students who treat wrong answers as data to be systematically extracted, categorized, and acted upon are using every practice test to its maximum potential.

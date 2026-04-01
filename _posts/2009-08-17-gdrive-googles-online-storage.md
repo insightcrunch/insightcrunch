@@ -7,7 +7,7 @@ tags: ["Google", "Surfing"]
 excerpt: "Amidst lots of rumors, Google’s new online storage platform is all set to launch soon, maybe within an year. No official launch date has been announced as..."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 1
-author: "diana-patel"
+author: "james-carter"
 last_updated: 2026-04-01
 ---
 Amidst lots of rumors, Google’s new online storage platform is all set to launch soon, maybe within an year. No official launch date has been announced as yet. The specialty of this system with respect to others is in the fact it will let you backup your entire hard disk and will provide some synching techniques of some sort between your desktop and your GDrive files.

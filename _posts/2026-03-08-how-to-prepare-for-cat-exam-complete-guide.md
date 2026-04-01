@@ -7,7 +7,7 @@ tags: ['CAT', 'MBA']
 excerpt: 'A thorough, strategic, and highly practical guide to preparing for CAT, from understanding the exam architecture to mastering mocks, building section-wise...'
 image: '/assets/images/blog/blog-06.webp'
 reading_time: 32
-author: "samantha-lee"
+author: "robert-quinn"
 last_updated: 2026-04-01
 ---
 ## **1. Introduction**

@@ -8,7 +8,7 @@ tags: ["pride-and-prejudice", "jane-austen", "elizabeth-bennet", "character-anal
 excerpt: "Deep analysis of Elizabeth Bennet - her wit, prejudice, growth, and why she remains literature's finest heroine."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "patrick-dunn"
+author: "amanda-ross"
 last_updated: 2026-03-29
 ---
 Elizabeth Bennet is the most formidable heroine in English literature, and the specific quality of her formidability is worth examining carefully, because it is not the formidability of the warrior or the rebel or the saint. She does not break the social world she inhabits or transcend it or refuse its terms in any wholesale sense. She operates within it, observes it with the finest ironic intelligence that Austen could create, refuses the specific forms of submission that it requires but she finds genuinely intolerable, and arrives at the end of her story having changed more than anyone around her while appearing to have changed least. She is formidable in the way that genuine intelligence combined with genuine integrity is always formidable: not through force but through the specific quality of her engagement with the world, which makes dishonesty, pretension, and condescension consistently uncomfortable in her presence without her ever needing to attack them directly.

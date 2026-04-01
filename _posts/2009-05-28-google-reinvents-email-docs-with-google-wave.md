@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Google Wave preview: real-time collaborative communication that reimagines email and document editing. What it does and why it matters."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
-author: "kevin-reeves"
+author: "david-thornton"
 last_updated: 2026-04-01
 ---
 What would e-mail look like if it were invented today, rather than several years ago? Here comes Google Wave, a preview application shown off at the Google I/O conference. Below is the video which would give the users a cool idea of what this is about.

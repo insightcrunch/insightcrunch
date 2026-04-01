@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done..."
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 1
-author: "andrew-price"
+author: "diana-patel"
 last_updated: 2026-04-01
 ---
 A project that started in September last year has been made stable enough so much so that it is now in the beta stage. What project Chrome Frame has done is, it renders everything on IE as it would appear on Chrome.

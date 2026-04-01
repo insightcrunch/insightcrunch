@@ -8,7 +8,7 @@ tags: ['SAT Mistakes', 'SAT Preparation Mistakes', 'SAT Common Errors', 'SAT Tes
 excerpt: "The complete guide to the most damaging SAT preparation mistakes covering wrong study strategies, poor practice habits, test-day errors, and how each mistake costs real points."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 45
-author: "samantha-lee"
+author: "hannah-moore"
 last_updated: 2026-03-28
 ---
 # SAT Preparation Mistakes That Cost Students 100+ Points

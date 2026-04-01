@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Will Amazon give you a laptop to work from home? Which remote roles get company equipment, what is provided, and what you need to buy on your own."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 13
-author: "benjamin-scott"
+author: "abigail-cooper"
 last_updated: 2026-03-29
 ---
 ## Background

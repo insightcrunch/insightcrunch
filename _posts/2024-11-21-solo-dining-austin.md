@@ -7,7 +7,7 @@ tags: ["solo-dining", "austin", "restaurants", "austin-food", "eating-alone", "c
 excerpt: "From Franklin BBQ to SoCo wine bars, tacos to omakase, the complete guide to eating alone in Austin."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 45
-author: "robert-quinn"
+author: "thomas-reid"
 last_updated: 2026-03-31
 ---
 Austin is a city that was built for doing things your own way. It is the city of "Keep Austin Weird," of musicians playing to rooms of three, of food trucks parked on empty lots that serve better brisket than most restaurants in New York. It is a city where independence is not just tolerated but celebrated, where the solo diner at a picnic table with a plate of barbecue and a cold Lone Star is not a person eating alone but a person eating exactly the way they want to.

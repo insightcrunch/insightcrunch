@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta is one of the top organizations in the world today with a variety of products and platforms. I won’t be surprised if you are one of the millions of..."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 15
-author: "david-thornton"
+author: "alex-cunningham"
 last_updated: 2026-03-29
 ---
 ## Overview

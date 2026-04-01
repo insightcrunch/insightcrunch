@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Has Meta resumed hiring after the freeze? Which roles are opening back up, what teams are still paused, and the outlook for job seekers."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 9
-author: "diana-patel"
+author: "ryan-walsh"
 last_updated: 2026-03-29
 ---
 ## Background

@@ -7,7 +7,7 @@ tags: ["Small Business", "Free Tools", "Business Tools", "Productivity", "Online
 excerpt: "Running a small business means doing everything yourself, from contracts and invoices to marketing graphics and data analysis. These free browser-based..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 32
-author: "natalie-webb"
+author: "david-thornton"
 last_updated: 2026-03-31
 ---
 Running a small business is an exercise in relentless resourcefulness. You are the CEO, the accountant, the marketing department, the IT team, and the office manager, often within the same hour. Every dollar matters. Every minute matters. And every tool you use either earns its place in your workflow or wastes both.

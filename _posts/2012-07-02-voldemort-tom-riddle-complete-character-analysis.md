@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Lord Voldemort across all seven Harry Potter books - his origins, psychology, and why he is one of fiction's most revealing villains."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
-author: "sarah-mitchell"
+author: "chloe-martin"
 last_updated: 2026-03-28
 ---
 ## Introduction: The Villain Who Is Also a Mirror

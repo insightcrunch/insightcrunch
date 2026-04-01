@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "Dropbox is planning something big. Beyond simple file storage, the platform's expansion into collaboration, integration, and enterprise markets."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 1
-author: "daniel-morgan"
+author: "claire-bennett"
 last_updated: 2026-03-28
 ---
 There was a time when file storing in the cloud was almost synonymous to Dropbox. Provided it’s amazingly simple plans with storage, there is absolutely no doubt users are going to love it. Along with it, add the seamless sync facility for all our files from your local computer or laptop, without a single glitch. But provided all that, Dropbox seems to be letting its competitors get the edge recently.

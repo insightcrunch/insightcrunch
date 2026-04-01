@@ -8,7 +8,7 @@ tags: ['SAT Algebra', 'SAT Linear Equations', 'SAT Systems of Equations', 'SAT I
 excerpt: "Master every SAT Algebra topic including linear equations, systems of equations, inequalities, absolute value, and function notation with worked examples and strategies."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
-author: "daniel-morgan"
+author: "michael-brooks"
 last_updated: 2026-03-29
 ---
 # SAT Algebra: Every Topic and Question Type Explained

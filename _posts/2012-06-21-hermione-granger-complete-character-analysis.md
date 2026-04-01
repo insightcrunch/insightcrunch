@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Hermione Granger across all seven Harry Potter books - her psychology, moral courage, and revolutionary place in fantasy literature."
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
-author: "christopher-wells"
+author: "olivia-grant"
 last_updated: 2026-03-28
 ---
 ## Introduction: The Girl Who Was Never Just a Sidekick

@@ -7,7 +7,7 @@ tags: ["Meta"]
 excerpt: "Meta, formerly known as Facebook, was founded in 2004 and is one of the largest technology corporations today. Meta owns Facebook and Instagram, which are..."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 12
-author: "katherine-blake"
+author: "jason-mckenzie"
 last_updated: 2026-03-29
 ---
 ## Background

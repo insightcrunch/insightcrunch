@@ -8,7 +8,7 @@ tags: ['SAT Registration', 'SAT Sign Up', 'SAT Registration Process', 'SAT Test 
 excerpt: "The complete SAT registration guide covering the registration process, test dates, fees, deadlines, fee waivers, score sending, accommodations, and international testing."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
-author: "amanda-ross"
+author: "maria-santos"
 last_updated: 2026-04-01
 ---
 Registering for the SAT sounds straightforward until you are actually in the middle of it, navigating a registration portal that has more steps, decisions, and deadlines than most students anticipate. The registration process is not just a bureaucratic formality; the decisions you make during registration, including which test date you select, which testing center you choose, whether to send scores during registration or later, and whether you qualify for a fee waiver or accommodations, have real consequences for your SAT experience and your college application strategy.

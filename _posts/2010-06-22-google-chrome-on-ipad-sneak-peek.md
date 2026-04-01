@@ -7,7 +7,7 @@ tags: ["Surfing"]
 excerpt: "The iPad offers undoubtedly great browsing experience, one which may be easily taken as a good competitor for any browsing device, provided the user..."
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
-author: "chloe-martin"
+author: "robert-quinn"
 last_updated: 2026-04-01
 ---
 The iPad offers undoubtedly great browsing experience, one which may be easily taken as a good competitor for any browsing device, provided the user doesn't visit heavily flash based sites. Here’s what it would look like with a few futuristic screenshots.

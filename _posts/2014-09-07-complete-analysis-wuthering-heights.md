@@ -8,7 +8,7 @@ tags: ["wuthering-heights", "emily-bronte", "novel-analysis", "literary-analysis
 excerpt: "The definitive analysis of Wuthering Heights - its passion, revenge, structure, and dark psychological power."
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
-author: "christopher-wells"
+author: "sarah-mitchell"
 last_updated: 2026-04-01
 ---
 Wuthering Heights is the most formally radical major novel in the English literary tradition, and the radicalism is not incidental to the argument but is the argument made visible in structure. Emily Brontë published the novel in 1847 under the pseudonym Ellis Bell, and the reviewers who encountered it were almost uniformly disturbed: not simply by its content, though the content was disturbing enough, but by the specific quality of its departure from the formal and moral conventions that the Victorian novel was in the process of establishing as its definitive standards. The novel has no reliable narrator. It has no straightforward moral center. Its most powerful character is also its most comprehensively destructive. Its love story is organized around obsession, mutual damage, and the specific form of the connection that annihilates both the connected parties and everyone in their vicinity. And its ending, which is formally a resolution, produces in the attentive reader not the satisfaction of restored order but the specific unease of someone who suspects that the order restored is substantially cheaper than what the novel's most powerful sections were arguing about human experience.

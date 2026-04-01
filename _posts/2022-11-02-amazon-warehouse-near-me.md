@@ -7,7 +7,7 @@ tags: ["Amazon"]
 excerpt: "Looking for an Amazon warehouse near you? How to locate fulfillment centers in your area, check open positions, and apply for local roles."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 11
-author: "jessica-kim"
+author: "abigail-cooper"
 last_updated: 2026-03-29
 ---
 ## Background
