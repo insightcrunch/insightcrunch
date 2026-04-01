@@ -1,7 +1,7 @@
 {
-  "generated": "2026-03-31T22:29:02Z",
-  "total_posts": 1074,
-  "flagged_posts": 72,
+  "generated": "2026-04-01T01:55:07Z",
+  "total_posts": 1085,
+  "flagged_posts": 83,
   "clean_posts": 1002,
   "posts": [
     {
@@ -115,6 +115,270 @@
       ],
       "critical_count": 0,
       "warning_count": 2
+    },
+    {
+      "filename": "2023-02-22-gaokao-exam-answering-techniques.md",
+      "slug": "gaokao-exam-answering-techniques",
+      "url": "/2023/02/22/gaokao-exam-answering-techniques/",
+      "title": "高考考场答题技巧完全指南 - 让每一分都不白白流失",
+      "page_title": "高考考场答题技巧完全指南 - 时间分配、答题顺序、跳题策略、答题卡填涂、部分得分与粗心失误防范",
+      "has_page_title": true,
+      "date": "2023-02-22",
+      "word_count": 321,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 7
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-03-02-gaokao-mock-exam-strategy.md",
+      "slug": "gaokao-mock-exam-strategy",
+      "url": "/2023/03/02/gaokao-mock-exam-strategy/",
+      "title": "高考模拟考试完全策略 - 如何用好每一次模拟考",
+      "page_title": "高考模拟考试完全策略 - 频率规划、真实条件模拟、成绩分析、分数预测准确性与模拟考处理指南",
+      "has_page_title": true,
+      "date": "2023-03-02",
+      "word_count": 254,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 8
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-03-10-gaokao-error-notebook.md",
+      "slug": "gaokao-error-notebook",
+      "url": "/2023/03/10/gaokao-error-notebook/",
+      "title": "高考错题本完全指南 - 把每一道错题变成提分的阶梯",
+      "page_title": "高考错题本完全指南 - 如何建立、记录什么、复习频率、分类方法与高分学生的错题本技巧",
+      "has_page_title": true,
+      "date": "2023-03-10",
+      "word_count": 275,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-03-18-gaokao-online-resources.md",
+      "slug": "gaokao-online-resources",
+      "url": "/2023/03/18/gaokao-online-resources/",
+      "title": "高考在线学习资源完全指南 - 从海量资源中找到真正有效的那些",
+      "page_title": "高考在线学习资源完全指南 - 视频课程、学习APP、题库平台、免费资源推荐与高效使用策略",
+      "has_page_title": true,
+      "date": "2023-03-18",
+      "word_count": 276,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 8
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-03-26-gaokao-japanese-instead-english.md",
+      "slug": "gaokao-japanese-instead-english",
+      "url": "/2023/03/26/gaokao-japanese-instead-english/",
+      "title": "高考用日语代替英语完全指南 - 小语种高考的战略价值与实操路径",
+      "page_title": "高考日语代替英语完全指南 - 分数优势分析、大学接受情况、专业限制、备考时间线与学习资源",
+      "has_page_title": true,
+      "date": "2023-03-26",
+      "word_count": 256,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-04-03-gaokao-ethnic-minority-policy.md",
+      "slug": "gaokao-ethnic-minority-policy",
+      "url": "/2023/04/03/gaokao-ethnic-minority-policy/",
+      "title": "高考少数民族政策完全指南 - 加分、双语考试与民族预科全解析",
+      "page_title": "高考少数民族政策完全指南 - 加分政策、双语考试选项、民族预科班、少数民族院校与政策改革趋势",
+      "has_page_title": true,
+      "date": "2023-04-03",
+      "word_count": 240,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 7
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-04-11-gaokao-military-academy-guide.md",
+      "slug": "gaokao-military-academy-guide",
+      "url": "/2023/04/11/gaokao-military-academy-guide/",
+      "title": "高考报考军校完全指南 - 从分数线到政审的全流程解析",
+      "page_title": "高考军校报考完全指南 - 录取分数线、政治审查、体检标准、面试流程与军旅职业前景全面解析",
+      "has_page_title": true,
+      "date": "2023-04-11",
+      "word_count": 253,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-04-19-gaokao-sports-student-guide.md",
+      "slug": "gaokao-sports-student-guide",
+      "url": "/2023/04/19/gaokao-sports-student-guide/",
+      "title": "高考体育生完全指南 - 体育测试、文化课与升学路径全攻略",
+      "page_title": "高考体育生完全指南 - 体育测试标准、文化课要求、顶尖体育院校、高水平运动队招生与职业发展路径",
+      "has_page_title": true,
+      "date": "2023-04-19",
+      "word_count": 264,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 7
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-04-27-gaokao-art-student-guide.md",
+      "slug": "gaokao-art-student-guide",
+      "url": "/2023/04/27/gaokao-art-student-guide/",
+      "title": "高考艺术生完全指南 - 艺考备考与文化课的完美平衡",
+      "page_title": "高考艺术生完全指南 - 艺考流程、作品集准备、文化课分数线、顶尖艺术院校与时间规划全面解析",
+      "has_page_title": true,
+      "date": "2023-04-27",
+      "word_count": 266,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 7
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-05-05-gaokao-failure-recovery.md",
+      "slug": "gaokao-failure-recovery",
+      "url": "/2023/05/05/gaokao-failure-recovery/",
+      "title": "高考失利后的完整出路指南 - 每一条路都能走向精彩",
+      "page_title": "高考失利出路完全指南 - 复读决策框架、职业教育路径、出国留学选择、自考成人教育与真实逆袭故事",
+      "has_page_title": true,
+      "date": "2023-05-05",
+      "word_count": 254,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 8
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2023-05-13-gaokao-top-scorer-methods.md",
+      "slug": "gaokao-top-scorer-methods",
+      "url": "/2023/05/13/gaokao-top-scorer-methods/",
+      "title": "高考状元学习方法完全解码 - 他们到底做了什么不一样的事",
+      "page_title": "高考状元学习方法全解析 - 作息规律、笔记体系、复习策略、时间管理与可落地的学习经验精华",
+      "has_page_title": true,
+      "date": "2023-05-13",
+      "word_count": 276,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 10
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
     },
     {
       "filename": "2023-05-21-gaokao-strong-foundation-plan.md",
