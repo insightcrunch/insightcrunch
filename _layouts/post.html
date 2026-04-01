@@ -51,17 +51,28 @@ article {
 
 /* ── Author byline ── */
 .post-meta {
+  display: flex !important;
+  flex-direction: column !important;
   gap: 4px !important;
-  align-items: center !important;
-  line-height: 28px !important;
+  align-items: flex-start !important;
 }
-.post-meta > span,
-.post-meta > .author-byline {
-  line-height: 28px;
-  vertical-align: middle;
+.post-meta-author {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.post-meta-dates {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-wrap: wrap;
 }
 .post-meta .sep {
   margin: 0 1px;
+}
+.author-by {
+  color: var(--soft, #999);
+  font-size: 12px;
 }
 .author-byline {
   display: inline-flex;
@@ -200,15 +211,19 @@ article {
     {% assign author = site.data.authors_pool[author_key] %}
     <div class="post-meta">
       {% if author %}
-      <span class="author-byline" onclick="document.getElementById('authorDialog').showModal()">
-        <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy">
-        <span class="author-text"><span class="author-name">{{ author.name }}</span>{% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}</span>
-      </span>
-      <span class="sep">&middot;</span>
+      <div class="post-meta-author">
+        <span class="author-by">By</span>
+        <span class="author-byline" onclick="document.getElementById('authorDialog').showModal()">
+          <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy">
+          <span class="author-text"><span class="author-name">{{ author.name }}</span>{% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}</span>
+        </span>
+      </div>
       {% endif %}
-      <span>{{ page.date | date: "%B %-d, %Y" }}</span>
-      {% if page.last_updated %}<span class="sep">&middot;</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
-      {% if page.read_time %}<span class="sep">&middot;</span><span>{{ page.read_time }} min read</span>{% endif %}
+      <div class="post-meta-dates">
+        <span>{{ page.date | date: "%B %-d, %Y" }}</span>
+        {% if page.last_updated %}<span class="sep">&middot;</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
+        {% if page.read_time %}<span class="sep">&middot;</span><span>{{ page.read_time }} min read</span>{% endif %}
+      </div>
     </div>
 
     {% if author %}
