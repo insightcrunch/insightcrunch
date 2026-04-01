@@ -4,11 +4,11 @@ title: "The Elusive Paradox"
 date: 2021-02-12
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Simple metrics, complex calculations. When Tableau analytics forces you to reconcile clarity of intent with the messiness of real-world data."
+excerpt: "..."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 2
 author: "alex-rivera"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ![](/assets/images/blog/blog-62.webp)
 

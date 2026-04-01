@@ -9,7 +9,7 @@ excerpt: "The complete guide to boosting your SAT Math score by 100+ points thro
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 45
 author: "katherine-blake"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 # How to Improve Your SAT Math Score by 100+ Points
 

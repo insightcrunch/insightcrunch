@@ -5,11 +5,11 @@ page_title: "TCS NQT Results Date - When Results Are Announced, Timeline Pattern
 date: 2020-09-17
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Results Date", "Result Timeline"]
-excerpt: "The Tata Consultancy Services National Qualifier (NQT) Test is conducted every year by TCS. The TCS NQT is one of the most widely anticipated exams by..."
+excerpt: "TCS NQT results date and timeline. How long TCS takes to declare results after the exam, and how to track your scorecard release."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "karthik-menon"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 The most common question in the weeks after taking the TCS NQT is not "did I qualify" but "when will I find out." TCS does not announce a specific result date in advance. Results are released when processing is complete, and that timeline varies by window. Knowing the typical patterns, what causes variations, and how to productively use the waiting period makes the difference between an anxious wait and a preparation-productive wait.
 

@@ -4,11 +4,11 @@ title: "Is TCS NQT Coding Questions tough?"
 date: 2020-04-04
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "Tata Consultancy Services conducts the National Qualifier Test (NQT) that is taken by hundreds of thousands of candidates every year. The TCS NQT exam is..."
+excerpt: "Is TCS NQT coding tough? Honest difficulty analysis of programming questions, language-wise comparison, and what level of preparation actually clears it."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 100
 author: "karthik-menon"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 render_with_liquid: false
 ---
 {% raw %}

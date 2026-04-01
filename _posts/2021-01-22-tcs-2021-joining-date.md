@@ -5,11 +5,11 @@ page_title: "TCS Joining Date Updates - How to Track Your Status, Get Updates, E
 date: 2021-01-22
 categories: ["Industry"]
 tags: ["TCS", "Joining Date", "Status Tracking", "Fresher Updates"]
-excerpt: "When is TCS joining for 2021 batch? How COVID changed the onboarding timeline, the virtual joining process, and what freshers should prepare for."
+excerpt: "Tata Consultancy Services is a leader in the software industry today. Even during these challenging times of COVID, TCS continues to deliver a strong..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "arun-verma"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 You have the offer letter. You have accepted it. And now you are waiting - sometimes for weeks, sometimes for months - for a joining date that TCS has not given you yet. This waiting period is one of the most psychologically challenging phases of the entire TCS hiring process, primarily because it involves the least information and the highest uncertainty.
 

@@ -9,7 +9,7 @@ excerpt: "The complete guide to improving from a 1000 to 1200 SAT score by build
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "natalie-webb"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 # How to Go from 1000 to 1200 on the SAT
 
