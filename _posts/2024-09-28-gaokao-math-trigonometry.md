@@ -9,7 +9,7 @@ excerpt: "Master Gaokao trigonometry - identities, formulas, graph transformatio
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 50
 author: "huang-dawei"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 高考数学三角函数专题，是贯穿高中数学的重要模块之一，也是历年高考中分值稳定、命题丰富的核心考察领域。三角函数连接了代数运算与几何图形，将抽象的角度变化转化为优美的周期性函数曲线，并通过正弦定理和余弦定理将三角函数与三角形求解紧密联系。
 

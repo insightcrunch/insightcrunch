@@ -8,7 +8,7 @@ excerpt: "A deep literary analysis of Minerva McGonagall across all Harry Potter
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2026-03-29
+last_updated: 2026-04-01
 ---
 ## Introduction: The Woman Behind the Tartan
 

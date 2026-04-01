@@ -9,7 +9,7 @@ excerpt: "Master Gaokao inequalities - AM-GM, Cauchy-Schwarz, linear programming
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 50
 author: "xu-meifang"
-last_updated: 2026-03-28
+last_updated: 2026-04-01
 ---
 高考数学不等式专题，横跨选择题、填空题和大题，以其多样的题型和深刻的数学内涵，成为高考数学中最考验综合能力的板块之一。不等式不是孤立的知识点，而是贯穿高中数学全程的基础思想：从基本不等式到均值不等式，从线性规划到含参数不等式，从代数证明到导数工具辅助证明，不等式的每一个子题型都有其独特的解题逻辑和应用场景。
 
