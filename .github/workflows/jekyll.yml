@@ -91,7 +91,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _posts/ _data/freshness_manifest.json _data/meta_variants.json _data/post_authors.yml admin/keyword-audit-data.json admin/links-data.json
+          git add _posts/ _data/freshness_manifest.json _data/meta_variants.json _data/post_authors.yml admin/keyword-audit-data.json admin/links-data.json _data/links_check_cache.json
           git diff --cached --quiet || git commit -m "chore: refresh posts - freshness, meta, images, authors [skip ci]"
           git push
 
