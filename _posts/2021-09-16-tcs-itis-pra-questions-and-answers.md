@@ -4,11 +4,11 @@ title: "TCS ITIS PRA Questions and Answers"
 date: 2021-09-16
 categories: ["Industry"]
 tags: ["TCS"]
-excerpt: "The TCS Information Technology Infrastructure Services module is one of the most popular service industry modules today. The demand and criticality to..."
+excerpt: "TCS ITIS PRA questions and answers: infrastructure services module topics, real question patterns, and how to prepare for the ITIS practical assessment."
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 35
 author: "ritika-singh"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Overview
 

@@ -9,7 +9,7 @@ excerpt: "Complete guide to Infosys Springboard: what it is, how it differs from
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
 author: "karthik-menon"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 Infosys Springboard is one of the most misunderstood platforms in the Indian student and professional learning landscape. Students encounter it in one of two ways: either Infosys promotes it during a campus visit and they sign up without quite understanding what it is, or they search for free certification courses and discover it alongside Coursera, edX, and NPTEL. In both cases, a common set of questions follows: Is this platform actually free? Is it the same as [InfyTQ](https://insightcrunch.com/2021/10/09/infytq-preparation-guide/)? Does a Springboard certificate help get a job at Infosys? Is the learning quality genuinely useful or is it marketing material dressed as education?
 

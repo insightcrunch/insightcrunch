@@ -9,7 +9,7 @@ excerpt: "200+ Infosys technical interview questions with detailed answers cover
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "devendra-patil"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 The Infosys technical interview for freshers is a genuine evaluation, not a formality that follows the online assessment. Candidates who walk in expecting it to be easy because they have memorized a list of definitions get caught out immediately. Infosys technical interviewers, who are experienced engineers or senior developers, know the difference between a candidate who understands a concept and one who has memorized an explanation. The follow-up question is the tell: "Can you give me an example from your project?" or "What would happen if I changed this condition?" separates the two kinds of preparation within seconds.
 
