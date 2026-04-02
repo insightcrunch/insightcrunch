@@ -1,0 +1,15 @@
+---
+layout: null
+sitemap: false
+permalink: /admin/authors-data.json
+---
+{
+{% for author in site.data.authors_pool %}  {{ author[0] | jsonify }}: {
+    "name": {{ author[1].name | jsonify }},
+    "credential": {{ author[1].credential | jsonify | default: "null" }},
+    "bio": {{ author[1].bio | jsonify | default: "null" }},
+    "avatar": {{ author[1].avatar | jsonify | default: "null" }},
+    "pool": {{ author[1].pool | jsonify | default: "null" }},
+    "gender": {{ author[1].gender | jsonify | default: "null" }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}}
