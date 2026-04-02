@@ -5,11 +5,11 @@ page_title: "TCS NQT Syllabus - Complete Topic-Wise Guide for Foundation and Adv
 date: 2021-06-24
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Syllabus", "Study Topics"]
-excerpt: "The Tata Consultancy Services conducts the National Qualifier Test (NQT) every year to assess thousands of candidates. The TCS NQT exam is the recruitment..."
+excerpt: "TCS NQT syllabus breakdown: every topic covered in aptitude, verbal, reasoning, and coding sections with weightage and recommended preparation order."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 45
 author: "rajan-kumar"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 The TCS NQT syllabus covers more ground than most candidates expect. Understanding the full scope before beginning preparation - what is tested, how much of each topic appears, and in what difficulty range - is the difference between systematic preparation that covers everything important and scattered preparation that leaves gaps in critical areas.
 

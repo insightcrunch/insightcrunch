@@ -9,7 +9,7 @@ excerpt: "Complete Infosys HR interview guide with 60+ questions, sample answers
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 50
 author: "shruti-agarwal"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 The Infosys HR interview is the final gate between a candidate and an offer letter, and it eliminates more candidates than most people expect. Not because the questions are difficult in a technical sense, but because most candidates treat this round as a formality rather than a genuine evaluation. They walk in with memorized answers to the five questions they Googled, and the experienced HR interviewer identifies this within the first two minutes.
 

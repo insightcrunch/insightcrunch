@@ -5,11 +5,11 @@ page_title: "TCS NQT Eligibility Criteria - Educational Qualifications, Percenta
 date: 2021-07-08
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Eligibility Criteria", "Qualifications"]
-excerpt: "Tata Consultancy Services National Qualifier Test (TCS NQT) is one of the most popular tests taken by software engineers today. The test evaluates the..."
+excerpt: "TCS NQT eligibility criteria: degree types accepted, minimum percentage, backlog rules, graduation year limits, and branch-wise requirements."
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "karthik-menon"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 TCS NQT eligibility is not complicated in its core structure - but the details matter enormously. A candidate who misunderstands the backlog policy, misreads the course type requirement, or miscalculates their aggregate percentage may apply confidently and face disqualification during background verification months later. This guide covers every eligibility criterion with the precision needed to make a confident, accurate eligibility determination.
 

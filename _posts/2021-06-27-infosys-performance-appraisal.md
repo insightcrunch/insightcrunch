@@ -9,7 +9,7 @@ excerpt: "Complete guide to the Infosys performance appraisal process: how iRace
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 50
 author: "sneha-reddy"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 The Infosys performance appraisal is the single most consequential recurring event in an Infosys employee's career. It determines salary increments, variable pay, promotion eligibility, project assignments, and ultimately whether the career trajectory accelerates, plateaus, or begins a decline. Yet most employees navigate it reactively: filling out the self-assessment form in two hours the night before it is due, accepting whatever rating the manager communicates, and spending the rest of the year vaguely hoping for better results next time.
 
