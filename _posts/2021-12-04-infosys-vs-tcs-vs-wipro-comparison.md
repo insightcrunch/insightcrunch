@@ -9,7 +9,7 @@ excerpt: "Head-to-head comparison of Infosys, TCS, Wipro, HCLTech, and Cognizant
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "siddharth-rao"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 For millions of engineering graduates and experienced professionals in India, the choice between the five largest IT services companies is one of the most consequential career decisions they will make. Infosys, TCS, Wipro, HCLTech, and Cognizant together employ well over one million people in India and collectively represent the backbone of the country's technology export economy. They recruit at a scale no other sector approaches, they define the early careers of a significant portion of India's engineering graduates, and they shape the professional expectations of an entire generation of technology workers.
 

@@ -5,11 +5,11 @@ page_title: "TCS NQT Eligibility Comprehensive Guide - All Criteria, Edge Cases,
 date: 2021-12-17
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Eligibility", "Edge Cases"]
-excerpt: "TCS National Qualifier Test (NQT) is one of the most popular tests for software engineers aspiring to be a part of Tata Consultancy Services. If you are..."
+excerpt: "TCS NQT eligibility explained: accepted degrees, percentage requirements, backlog limits, age criteria, and special rules for experienced candidates."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "sneha-reddy"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 The standard TCS NQT eligibility criteria are covered in most guides: 60% at every academic stage, no more than 1 active backlog, full-time degree, age 18-28, work experience under 2 years. What those guides do not cover are the real situations that candidates actually face - the edge cases, the unusual academic histories, the boundary conditions, and the special scenarios that determine whether an atypical candidate is eligible or not.
 

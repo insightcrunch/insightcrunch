@@ -4,11 +4,11 @@ title: "The Virtual Web3 Paradise"
 date: 2022-07-19
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
-excerpt: "Is Web3 real or just crypto hype? What decentralization actually means for the internet, who benefits, and whether the technology matches the promises."
+excerpt: "Despite the obscure rise of the term Web3 and it's close association with crypto currency and blockchain, it is interesting to see how the recent..."
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 3
 author: "chloe-martin"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 Despite the obscure rise of the term Web3 and it's close association with crypto currency and blockchain, it is interesting to see how the recent decentralization storm is taking up everything. As a successor to Web 2.0, the era which was supposed to democratize the internet, but instead became dominated by FAANG and related products, Web 3 is all about re-decentralizing the web.
 

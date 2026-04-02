@@ -4,11 +4,11 @@ title: "Kyndryl Stock Price"
 date: 2022-09-06
 categories: ["Industry"]
 tags: ["Surfing"]
-excerpt: "How is Kyndryl stock performing after the IBM spinoff? Market analysis, leadership strategy, revenue trajectory, and the outlook for investors."
+excerpt: "Chairman and CEO Martin Schroeter with his impressive profile has an important job in his hands. Leading one of the largest IT infrastructure service..."
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 3
 author: "ryan-walsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Overview
 

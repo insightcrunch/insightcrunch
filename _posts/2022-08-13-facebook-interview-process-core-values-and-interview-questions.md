@@ -4,11 +4,11 @@ title: "Meta Interview Questions and Facebook Core Values"
 date: 2022-08-13
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta is one of the top organizations in the world today with a variety of products and platforms. I won’t be surprised if you are one of the millions of..."
+excerpt: "Meta interview questions and core values: how Facebook's culture shapes their hiring, real interview questions across roles, and what evaluators..."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 15
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Overview
 

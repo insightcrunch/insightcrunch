@@ -9,7 +9,7 @@ excerpt: "Detailed Infosys salary breakdown at every level from fresher to manag
 image: "/assets/images/blog/blog-26.webp"
 reading_time: 45
 author: "pooja-gupta"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 Understanding your salary at Infosys requires more than knowing the CTC figure stated in your offer letter. The gap between what Infosys offers as a total cost to company and what actually reaches your bank account every month is significant, and the reasons for that gap are embedded in a salary structure that most candidates and even many current employees never fully understand.
 

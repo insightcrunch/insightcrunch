@@ -5,11 +5,11 @@ page_title: "Planning While Waiting for TCS Joining Date - Financial Tips, Skill
 date: 2022-01-05
 categories: ["Industry"]
 tags: ["TCS", "Joining Date", "Planning", "Skill Building"]
-excerpt: "Waiting for your TCS 2022 joining date? Why delays happen, the typical onboarding timeline, and how to stay productive while you wait."
+excerpt: "Getting the joining date for Tata Consultancy Services is indeed a great feeling. However often we have seen that the joining date is unexpectedly delayed..."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "pooja-gupta"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 The period between receiving your TCS offer letter and your actual joining date is one of the most consequential preparation windows in a professional career - and also one of the most wasted. Most candidates spend it alternating between anxious portal-checking and aimless waiting. The candidates who use it well arrive at ILP ahead of peers who did not, complete assessments on first attempt, get allocated to better projects, and build the financial and technical foundations that compound over the first five years.
 
