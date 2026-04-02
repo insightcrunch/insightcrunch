@@ -4,11 +4,11 @@ title: "How much does Amazon pay you to work from home?"
 date: 2022-11-04
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "How much does Amazon pay remote workers? Hourly rates for customer service, salary ranges for corporate WFH roles, and total compensation details."
+excerpt: "Amazon employs thousands of workers across its warehouses and corporate offices across the globe. The job that Amazon provides start from hourly and span..."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 12
 author: "marcus-hall"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

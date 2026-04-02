@@ -4,11 +4,11 @@ title: "Tableau Certification"
 date: 2022-09-09
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Is Tableau certification worth it? Exam options, what each level covers, how employers view it, and the career boost you can realistically expect."
+excerpt: "Tableau is one of the most popular data visualization tools today. Business across the world are using Tableau to analyze their data. The demand for..."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 11
 author: "alex-rivera"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Overview
 

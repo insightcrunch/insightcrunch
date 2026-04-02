@@ -4,11 +4,11 @@ title: "Amazon Warehouse Jobs Part Time"
 date: 2022-10-30
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Part-time at an Amazon warehouse: what shifts are available, how much it pays per hour, which benefits you still get, and how scheduling works."
+excerpt: "Amazon is one of the largest corporations in the world today and it has hundreds of warehouses where thousands of people are working to provide the best..."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 10
 author: "thomas-reid"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

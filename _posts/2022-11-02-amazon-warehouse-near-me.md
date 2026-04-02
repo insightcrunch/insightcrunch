@@ -4,11 +4,11 @@ title: "Amazon warehouse near me"
 date: 2022-11-02
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Looking for an Amazon warehouse near you? How to locate fulfillment centers in your area, check open positions, and apply for local roles."
+excerpt: "Amazon has a large number of warehouses all across the world where it employs thousands of employees. The employees can be full time, part time, or hourly..."
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 11
 author: "andrew-price"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

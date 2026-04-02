@@ -4,11 +4,11 @@ title: "Black Panther: Wakanda Forever"
 date: 2022-09-25
 categories: ["Leisure"]
 tags: ["Surfing"]
-excerpt: "Wakanda Forever without Chadwick Boseman. How Marvel's Black Panther sequel honors the late star while introducing Namor and expanding the MCU."
+excerpt: "The movie Black Panther: Wakanda Forever is a sequel to the immensely popular Black Panther movie by Marvel Studios. The film will focus on the titular..."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 3
 author: "rachel-foster"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Movie Review
 

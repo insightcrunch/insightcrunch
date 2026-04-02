@@ -4,11 +4,11 @@ title: "Amazon workforce"
 date: 2022-10-19
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "How big is Amazon's workforce? Employee count across warehouses, corporate offices, and tech divisions, plus the hiring trends driving expansion."
+excerpt: "Amazon is continuing to grow and becoming one of the largest online marketplace and supply chain platforms in the world. There are a variety of warehouses..."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 10
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Killers of the Flower Moon"
 date: 2022-09-22
 categories: ["Leisure"]
 tags: ["Movie"]
-excerpt: "Scorsese's Killers of the Flower Moon reviewed. The Osage murder story, DiCaprio and De Niro's performances, and whether the film lives up to the book."
+excerpt: "The movie Killers of the Flower Moon is an American Western crime drama film which is directed by Martin Scorsese. The film is based on the best-selling..."
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 4
 author: "diana-patel"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Movie Review
 

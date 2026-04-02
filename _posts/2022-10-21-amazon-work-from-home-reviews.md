@@ -4,11 +4,11 @@ title: "Amazon work from home reviews"
 date: 2022-10-21
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "What do Amazon WFH employees actually say? Real reviews covering pay, flexibility, workload, management, and whether remote Amazon roles are worth it."
+excerpt: "Amazon is one of the largest companies in the world today, and the technologies it works on is one of the latest and greatest where innovations are..."
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 10
 author: "jason-mckenzie"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

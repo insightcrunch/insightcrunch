@@ -4,11 +4,11 @@ title: "Amazon jobs work from home"
 date: 2022-11-06
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Find Amazon WFH jobs. The types of remote positions available, qualification requirements, how to apply, and what the virtual onboarding looks like."
+excerpt: "Amazon is one of the largest employers around the world with a huge number of offices and Service Centers. There are a variety of work from home jobs..."
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 13
 author: "gregory-marsh"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 
