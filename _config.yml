@@ -52,7 +52,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Insight Crunch Team"
+      author: "insight-crunch-team"
 
 exclude:
   - Gemfile
