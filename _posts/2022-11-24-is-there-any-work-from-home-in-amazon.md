@@ -4,11 +4,11 @@ title: "Is there any work from home in Amazon?"
 date: 2022-11-24
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Does Amazon have WFH jobs? Yes, across customer service, tech support, and corporate functions. Here are the roles, pay, and how to apply."
+excerpt: "Amazon provides a variety of work from home opportunities where candidates can work part time or also full time. There are varieties of roles where..."
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 12
 author: "kevin-reeves"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

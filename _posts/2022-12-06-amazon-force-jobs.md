@@ -4,11 +4,11 @@ title: "Amazon force jobs"
 date: 2022-12-06
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "What is Amazon Force? The workforce management portal for hourly employees to view shifts, manage schedules, and access job resources at Amazon."
+excerpt: "Amazon is one of the largest corporations in the world and every year it employs and hires hundreds of thousands of hourly workers. We see a huge number..."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 12
 author: "kevin-reeves"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

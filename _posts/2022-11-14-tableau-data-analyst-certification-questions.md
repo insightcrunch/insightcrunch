@@ -4,11 +4,11 @@ title: "Tableau Data Analyst Certification Questions"
 date: 2022-11-14
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "What questions come on the Tableau Data Analyst exam? Topic coverage, question styles, calculation challenges, and the areas most candidates underestimate."
+excerpt: "Tableau is one of the most popular data analytics and visualization tools used by businesses all over the world today. The Tableau Certified Data Analyst..."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 13
 author: "maya-chen"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Tableau Certified Data Analyst Prep"
 date: 2022-11-12
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Preparing for the Tableau Data Analyst certification? Study topics, exam format, time allocation, and the resources that help you pass on the first try."
+excerpt: "Tableau is one of the most popular data visualization tools in the market today. Thousands of aspiring professionals who want to be a part of the data..."
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 14
 author: "jordan-ellis"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

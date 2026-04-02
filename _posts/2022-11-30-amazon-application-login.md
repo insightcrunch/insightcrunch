@@ -4,11 +4,11 @@ title: "Amazon application login"
 date: 2022-11-30
 categories: ["Industry"]
 tags: []
-excerpt: "Can't log into the Amazon application portal? Steps to access your profile, check application status, reset credentials, and fix common login errors."
+excerpt: "Amazon is one of the largest corporations around the world and it employs hundreds of 1000s of people. The Amazon job application process is extremely..."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 14
 author: "thomas-reid"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

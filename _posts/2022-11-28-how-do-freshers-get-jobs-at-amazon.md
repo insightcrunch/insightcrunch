@@ -4,11 +4,11 @@ title: "How do freshers get jobs at Amazon?"
 date: 2022-11-28
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "College graduate aiming for Amazon? The hiring paths for freshers, what Amazon looks for in campus recruits, and how to prepare while still in college."
+excerpt: "Amazon is one of the top technology companies in the world that employs thousands of people globally. Candidates who were freshers also can get jobs at..."
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 12
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 
