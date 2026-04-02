@@ -4,11 +4,11 @@ title: "From Novice to Certified Pro: Your Tableau Journey"
 date: 2023-02-16
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Zero Tableau experience to certified professional. The learning stages, practice milestones, and realistic timeline for going from novice to certified."
+excerpt: "Just as Hemingway's characters embark on quests of self-discovery and growth, your journey to becoming a Tableau certified professional is a testament to..."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 3
 author: "maya-chen"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 Just as Hemingway's characters embark on quests of self-discovery and growth, your journey to becoming a Tableau certified professional is a testament to your determination and passion for data visualization. This article illuminates the path that takes you from a beginner to a seasoned Tableau pro, ready to wield data to drive insights and decisions.
 
