@@ -4,11 +4,11 @@ title: "Amazon job fair today"
 date: 2022-12-12
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Attending an Amazon job fair? What to expect, documents to bring, the on-site interview process, and how same-day offers work at Amazon hiring events."
+excerpt: "Amazon is one of the largest corporations in the world, and it employs hundreds of thousands of people. There are a variety of job opportunities that are..."
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 13
 author: "nathan-cole"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

@@ -4,11 +4,11 @@ title: "Which Tableau certification is best?"
 date: 2022-12-30
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "Confused about Tableau certification options? Comparison of every available cert on exam difficulty, career relevance, cost, and which to pursue first."
+excerpt: "Tableau is one of the most popular data visualization tools in the market today. All the businesses around the world today are storing large amounts of..."
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 12
 author: "jordan-ellis"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

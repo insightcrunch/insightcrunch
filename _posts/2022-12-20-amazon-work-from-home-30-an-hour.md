@@ -4,11 +4,11 @@ title: "Amazon work from home 30 an hour"
 date: 2022-12-20
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Can you earn $30/hour working from home at Amazon? The remote roles that pay this rate, what qualifications they need, and how to land them."
+excerpt: "Amazon is one of the largest corporations in the world today and there are a variety of job that is provided by Amazon to its employees. Based on the..."
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 14
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

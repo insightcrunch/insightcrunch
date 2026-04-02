@@ -4,11 +4,11 @@ title: "Meta Layoffs and Hiring Freeze"
 date: 2022-12-24
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "The double hit at Meta: mass layoffs plus a hiring freeze. Which teams lost people, which roles are frozen, and what the combined impact looks like."
+excerpt: "Meta is one of the largest corporations in the world today and there are billions of people who are using its products including Facebook, WhatsApp, and..."
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 13
 author: "alex-cunningham"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

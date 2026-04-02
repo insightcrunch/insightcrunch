@@ -4,11 +4,11 @@ title: "Tableau Certified Data Analyst Salary"
 date: 2022-12-26
 categories: ["Analytics"]
 tags: ["Tableau"]
-excerpt: "How much do Tableau certified analysts earn? Salary data across regions and industries, and whether the certification leads to measurably higher pay."
+excerpt: "Tableau is one of the most popular data visualization and analytics tool used in the industry today. The Tableau certified data analyst salary is one of..."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 12
 author: "nina-petrova"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 

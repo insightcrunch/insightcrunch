@@ -4,11 +4,11 @@ title: "Amazon Leadership Principles"
 date: 2022-12-22
 categories: ["Industry"]
 tags: ["Amazon"]
-excerpt: "Why Amazon leadership principles matter for your interview. All 16 principles explained with how they are evaluated during the hiring process."
+excerpt: "Amazon is one of the largest corporations in the world today and there are a variety of principles that Amazon uses to nurture its employees. Amazon has a..."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 13
 author: "james-carter"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 ## Background
 
