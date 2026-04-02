@@ -9,9 +9,8 @@ excerpt: "Hamza writes to Aditya Dhar with gratitude and restlessness, then lays
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 75
 author: "amit-chatterjee"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
-
 Aditya,
 
 It is a strange thing to thank a man for giving you a pulse.

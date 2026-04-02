@@ -9,7 +9,7 @@ excerpt: "Complete guide to getting into Fudan via Gaokao - scores by province, 
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 50
 author: "ma-ruoxi"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 复旦大学，坐落于上海市杨浦区，是中国顶尖综合性大学之一，也是华东地区乃至全国最具声望的学府之一。复旦与上海交通大学并称"复交"，是上海高等教育的两颗明珠，也是中国C9联盟（顶尖九所高校）的重要成员。对于志在名校的高考学子而言，复旦大学代表着卓越的文理综合实力、上海的国际化视野以及百年名校的深厚积淀。本文将系统解答所有关于复旦大学高考录取的核心问题，帮助考生和家长制定科学的备考和志愿填报策略。
 

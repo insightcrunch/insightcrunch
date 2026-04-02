@@ -9,7 +9,7 @@ excerpt: "Master Gaokao politics - Marxist philosophy, economic theory, politica
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 50
 author: "wang-yue"
-last_updated: 2026-03-29
+last_updated: 2026-04-02
 ---
 高考政治是文科综合的核心组成部分，在高考文综卷中约占100分（全国卷政治约100分，满分300分文综中政治独立占100分）。高考政治涵盖马克思主义哲学、政治经济学（市场经济与宏观调控）、政治学（政治制度与法律）和文化生活四个主要模块，其最大特点是理论性强，同时要求考生将政治理论与当代中国的时政热点紧密结合。近年来，高考政治命题越来越注重"时政热点"的结合，几乎每道大题都以某个当年重大时事为情景材料，要求学生运用所学政治理论进行分析。
 

@@ -12,6 +12,8 @@ last_updated: 2026-04-01
 ---
 *This is a guest post. The views expressed are of the author.*
 
+![TCS ILP Hyderabad Experience - Insight Crunch](/assets/images/blog/blog-31.webp)
+
 ---
 
 ## Before the Journey Begins: Waiting, Wondering, and Finally Getting That Letter
