@@ -1,36 +1,27 @@
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
+# Deploy Jekyll site to Pages
+# Push: image assignment + author assignment + build + deploy (fast)
+# Schedule/Manual: full maintenance (freshness, images, keywords, links, authors) + build + deploy
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches: ["main"]
 
   schedule:
-    - cron: '0 6 */4 * *'  # Rebuilds every 4 days at 6 AM UTC
-    
-  # Allows you to run this workflow manually from the Actions tab
+    - cron: '0 6 */4 * *'  # Every 4 days at 6 AM UTC
+
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: write
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
@@ -39,12 +30,11 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Ruby
-        # https://github.com/ruby/setup-ruby/releases/tag/v1.207.0
         uses: ruby/setup-ruby@4a9ddd6f338a97768b8006bf671dfbad383215f4
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+          ruby-version: '3.1'
+          bundler-cache: true
+          cache-version: 0
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -55,58 +45,55 @@ jobs:
       - name: Install Python dependencies
         run: pip install pyyaml
 
-      # ── Freshness + meta description rotation ──
+      # ── Schedule/manual only: freshness rotation ──
       - name: Update post freshness and rotate meta descriptions
+        if: github.event_name != 'push'
         run: python _scripts/update_freshness.py --batch-size 15
 
-      # ── Blog image assignment ──
-      # Distributes images from assets/images/blog/ across posts.
-      # Idempotent: only touches files when pool or posts change.
-      # To trigger redistribution: add new .webp files to assets/images/blog/ and push,
-      # then run workflow_dispatch or wait for next scheduled build.
-      - name: Assign blog images to posts
-        run: python _scripts/assign_blog_images.py
-
-      # ── Keyword audit ──
-      # Scans all posts for proper nouns (cities, companies, tech) in the URL
-      # slug or title that are missing from page_title or body. Outputs
-      # admin/keyword-audit-data.json consumed by the admin Keyword Audit page.
+      # ── Schedule/manual only: keyword audit ──
       - name: Run keyword audit
+        if: github.event_name != 'push'
         run: python _scripts/keyword_audit.py
 
-      # ── Link extraction ──
-      # Scans all posts for hyperlinks (markdown, HTML, raw URLs) and
-      # outputs admin/links-data.json consumed by the admin Broken Links page.
-      - name: Extract links from posts
+      # ── Schedule/manual only: link extraction + checking ──
+      - name: Extract and check links
+        if: github.event_name != 'push'
         run: python _scripts/extract_links.py
 
-      # ── Author assignment ──
-      # Checks all posts for correct author based on title/tag/category
-      # matching rules. Only updates posts whose current author value
-      # doesn't match the expected hash-based assignment.
+      # ── Push only: image + author assignment ──
+      # On push these ensure the new post has an image and author immediately.
+      # On schedule, freshness/keyword/links are the priority; images and
+      # authors are already assigned from the original push.
+      - name: Assign blog images to posts
+        if: github.event_name == 'push'
+        run: python _scripts/assign_blog_images.py
+
       - name: Assign authors to posts
+        if: github.event_name == 'push'
         run: python _scripts/assign_authors.py
 
+      # ── Commit automated changes ──
       - name: Commit automated post updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add _posts/ _data/freshness_manifest.json _data/meta_variants.json _data/post_authors.yml admin/keyword-audit-data.json admin/links-data.json _data/links_check_cache.json
-          git diff --cached --quiet || git commit -m "chore: refresh posts - freshness, meta, images, authors [skip ci]"
+          git add _posts/ _data/post_authors.yml
+          if [ "${{ github.event_name }}" != "push" ]; then
+            git add _data/freshness_manifest.json _data/meta_variants.json admin/keyword-audit-data.json admin/links-data.json _data/links_check_cache.json 2>/dev/null || true
+          fi
+          git diff --cached --quiet || git commit -m "chore: refresh posts - images, authors [skip ci]"
           git push
 
       - name: Generate related posts data
+        if: github.event_name == 'push'
         run: python _scripts/generate_related_posts.py
       - name: Build with Jekyll
-        # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
       - name: Upload artifact
-        # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
