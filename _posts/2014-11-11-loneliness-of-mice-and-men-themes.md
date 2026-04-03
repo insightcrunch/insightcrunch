@@ -6,9 +6,9 @@ date: 2014-11-11
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "loneliness", "themes", "literary-analysis", "classic-literature"]
 excerpt: "How loneliness defines Of Mice and Men - every character's isolation, failed connections, and broken dreams."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2014-11-11
 ---
 
@@ -16,7 +16,7 @@ Loneliness in Of Mice and Men is not a background condition. It is the most prec
 
 <!--more-->
 
-![Loneliness in Of Mice and Men - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Loneliness in Of Mice and Men - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The argument this analysis will make is that loneliness in Of Mice and Men operates across three distinct but interconnected available dimensions: the structural loneliness organized by the economic and social arrangements of the itinerant life, the personal loneliness organized by the specific individual circumstances of each character's most available situation, and the philosophical loneliness organized by the most fundamental available argument about the relationship between the most genuinely available human need for connection and the most completely available structural hostility of the world toward that need. All three dimensions converge in the novel's most dramatically concentrated available scenes, and the most devastating available conclusion is the most formal argument about what happens when the structural loneliness eliminates the most exceptional available form of the personal connection that has been the most genuinely available alternative to it. For the structural context within which the loneliness theme most urgently operates, the [complete analysis of Of Mice and Men](https://insightcrunch.com/2014/11/01/complete-analysis-of-mice-and-men/) provides the essential framework, and the [George and Lennie character analysis](https://insightcrunch.com/2014/11/06/george-lennie-character-analysis/) traces the most exceptional available form of the personal connection that the structural loneliness makes most urgently necessary.
 

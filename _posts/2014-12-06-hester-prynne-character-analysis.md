@@ -6,9 +6,9 @@ date: 2014-12-06
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "hester-prynne", "character-analysis", "literary-analysis", "feminism"]
 excerpt: "Deep analysis of Hester Prynne - her endurance, transformation of shame into strength, and quiet defiance."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2014-12-06
 ---
 
@@ -16,7 +16,7 @@ Hester Prynne is the most quietly radical character in the nineteenth-century Am
 
 <!--more-->
 
-![Hester Prynne Character Analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Hester Prynne Character Analysis - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The argument this analysis will make is that Hester Prynne is the most precisely constructed available heroine of the moral transformation narrative in the American nineteenth-century tradition, organized by the specific form of the most genuinely available transformation of the most completely available public shame into the most urgently available genuine moral authority that no available dramatic rebellion could have organized as completely and as durably as the most genuinely available sustained charitable engagement. She is simultaneously the novel's protagonist, its most urgently available formal argument about the most genuinely available female moral authority, and its most completely available symbol of the specific form of the moral strength that the most publicly institutionalized available shame most paradoxically produces in the person most genuinely engaged with the most completely available difficult task of living through it with the most genuine available dignity. For the structural context within which Hester's character most urgently operates, the [complete analysis of The Scarlet Letter](https://insightcrunch.com/2014/12/01/complete-analysis-scarlet-letter/) provides the essential framework, and the [sin and society in The Scarlet Letter](https://insightcrunch.com/2014/12/11/sin-society-scarlet-letter-themes/) develops the broader thematic argument that Hester's transformation most urgently embodies.
 

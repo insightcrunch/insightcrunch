@@ -6,9 +6,9 @@ date: 2014-12-26
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "marlow", "character-analysis", "literary-analysis", "colonialism"]
 excerpt: "Deep analysis of Marlow - his role as unreliable narrator, his fascination with Kurtz, and the lie that ends the novella."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-12-26
 ---
 
@@ -16,7 +16,7 @@ Marlow is the most formally interesting narrator in the English literary traditi
 
 <!--more-->
 
-![Marlow Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Marlow Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The argument this analysis will make is that Marlow is the most urgently available most unreliable available most reliable narrator in the English literary tradition's engagement with colonialism, organized by the specific form of the unreliability that is not organized by any most completely available most deliberate available most deception but by the most genuinely available most specific available most limits of the most completely available most ideological framework within which the most dramatically available most most honest available most witness most urgently and most completely operates. He is simultaneously the most completely available most genuinely honest available most witness and the most dramatically available most most specifically organized available most perpetuator of the most genuinely available most most self-justifying available most narrative, and the most urgently available most formal significance of his most completely available most most character available is organized by the most dramatically available most most specifically organized available most tension between these most genuinely available most most two available most dimensions rather than by any most urgently available most most simple available most resolution of the most completely available most tension. For the structural context within which Marlow's character most urgently operates, the [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) provides the essential framework, and the [Kurtz character analysis](https://insightcrunch.com/2014/12/21/kurtz-character-analysis-conrad/) develops the most urgently available complementary available perspective of the most dramatically available most most character available whose most completely available most most significance is most urgently organized through Marlow's most dramatically available most most specifically organized available most narration.
 

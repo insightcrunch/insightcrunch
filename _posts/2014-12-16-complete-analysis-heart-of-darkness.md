@@ -6,9 +6,9 @@ date: 2014-12-16
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "novel-analysis", "literary-analysis", "colonialism", "classic-literature"]
 excerpt: "The definitive analysis of Heart of Darkness - colonialism, morality, narrative technique, and the controversy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2014-12-16
 ---
 
@@ -16,7 +16,7 @@ Heart of Darkness is the most contested classic in the English literary canon, a
 
 <!--more-->
 
-![Complete Analysis of Heart of Darkness - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Complete Analysis of Heart of Darkness - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 The thesis of this analysis is that Heart of Darkness achieves something genuinely remarkable while failing at something equally important, and that the most honest available engagement with the novella requires holding both simultaneously. The remarkable achievement is the systematic demolition of the most available self-justifying narratives through which European colonialism organized its own legitimacy: the "civilizing mission," the idea of bringing light to darkness, the heroic European in a savage landscape. The important failure is the perpetuation of the most available dehumanizing framework through which African people were rendered as landscape, as atmosphere, as the projection of European psychological states rather than as the most genuinely available human beings with the most complete available inner lives. For the comparative context across the most significantly available treatments of colonialism and its psychological consequences, the [complete analysis of 1984](https://insightcrunch.com/2013/01/05/complete-analysis-1984-george-orwell/) traces the most adjacent available case of the totalitarian management of truth, and the [complete analysis of The Scarlet Letter](https://insightcrunch.com/2014/12/01/complete-analysis-scarlet-letter/) develops the most parallel available structure of the critique organized within the ideological framework it is examining.
 

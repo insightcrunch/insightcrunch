@@ -6,9 +6,9 @@ date: 2015-01-05
 categories: ["Leisure"]
 tags: ["1984", "brave-new-world", "fahrenheit-451", "dystopian-fiction", "literary-comparison", "classic-literature"]
 excerpt: "The three great dystopias compared - pain, pleasure, and ignorance as tools of control across three visions."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2015-01-05
 ---
 
@@ -16,7 +16,7 @@ The three greatest dystopian novels in the English literary tradition are organi
 
 <!--more-->
 
-![1984 vs Brave New World vs Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-05.webp)
+![1984 vs Brave New World vs Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The argument this analysis will make is that the three great dystopias are not simply three different available predictions about three different available futures but three different available formal arguments about the three most fundamentally available instruments through which the most powerful available authority most completely destroys the most genuinely available human capacity for resistance, connection, and meaning. The three arguments are not mutually exclusive: the most urgently available contemporary world most completely deploys all three simultaneously, which is the most formally available argument about why the comparison across the three novels is the most urgently available most important available comparison in the English dystopian literary tradition. For the structural context of each individual novel, the [complete analysis of 1984](https://insightcrunch.com/2013/01/05/complete-analysis-1984-george-orwell/), the [complete analysis of Brave New World](https://insightcrunch.com/2014/06/24/complete-analysis-brave-new-world/), and the [complete analysis of Fahrenheit 451](https://insightcrunch.com/2014/11/16/complete-analysis-fahrenheit-451/) provide the most completely available frameworks for each novel individually. The [Brave New World vs 1984 comparison](https://insightcrunch.com/2014/07/19/brave-new-world-vs-1984-compared/) develops the most urgently available most complete available comparative formal argument between those two novels, and this article extends that comparison to include Fahrenheit 451 as the most urgently available third available primary available instrument.
 

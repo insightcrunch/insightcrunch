@@ -6,9 +6,9 @@ date: 2014-12-31
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "colonialism", "racism", "chinua-achebe", "literary-analysis"]
 excerpt: "The colonialism and racism debate in Heart of Darkness - Achebe's critique, Conrad's defenders, and the truth."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2014-12-31
 ---
 
@@ -16,7 +16,7 @@ The debate over colonialism and racism in Heart of Darkness is the most importan
 
 <!--more-->
 
-![Colonialism and Racism in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Colonialism and Racism in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The thesis of this analysis is that the most honest available engagement with the colonialism and racism debate in Heart of Darkness requires the simultaneous maintenance of both of the following propositions: Heart of Darkness is the most significant available early critique of European colonialism in the English literary tradition, and Heart of Darkness perpetuates the most available dehumanizing framework by rendering African people primarily as atmospheric backdrop rather than as fully realized human beings. These propositions are not contradictory. They are the most precisely available formal description of what the novella actually achieves and what it actually fails to achieve simultaneously, and the most urgently available formal argument is that both the achievement and the failure are organized by the same primary available formal instrument. For the structural context within which the colonialism and racism theme most urgently operates, the [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) provides the essential framework, and the [Marlow character analysis](https://insightcrunch.com/2014/12/26/marlow-character-analysis-conrad/) traces the most urgently available specific form of the narrator through whom both the critique and the perpetuation are most completely organized.
 

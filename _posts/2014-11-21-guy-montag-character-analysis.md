@@ -6,9 +6,9 @@ date: 2014-11-21
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "guy-montag", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Deep analysis of Guy Montag - his awakening, transformation from book-burner to book-preserver, and escape."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-11-21
 ---
 
@@ -16,7 +16,7 @@ Guy Montag is the most urgently available formally precise argument against his 
 
 <!--more-->
 
-![Guy Montag Character Analysis - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Guy Montag Character Analysis - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The argument this analysis will make is that Montag is the most precisely constructed available protagonist of the awakening narrative in the American dystopian tradition, organized by the specific form of the transformation from the most completely available conformist product to the most completely available committed dissident that the most genuinely available human capacity for the genuine curiosity and the genuine feeling most urgently and most completely drives. The transformation is not simply the most dramatically available plot arc: it is the most urgently available formal argument about the most genuinely available human capacity for awakening even in the most completely available conformist conditions, and the most completely available cost of the awakening is the most urgently available formal argument about what the most genuinely available serious intellectual life most completely requires in the most dramatically available conditions of the most urgently available conformist society. For the structural context within which Montag's character most urgently operates, the [complete analysis of Fahrenheit 451](https://insightcrunch.com/2014/11/16/complete-analysis-fahrenheit-451/) provides the essential framework, and the [censorship and ignorance in Fahrenheit 451](https://insightcrunch.com/2014/11/26/censorship-themes-fahrenheit-451/) develops the broader thematic argument that Montag's awakening most urgently embodies.
 

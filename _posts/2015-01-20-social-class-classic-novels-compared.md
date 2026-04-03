@@ -6,9 +6,9 @@ date: 2015-01-20
 categories: ["Leisure"]
 tags: ["social-class", "literary-comparison", "classic-literature", "jane-austen", "charles-dickens", "literary-analysis"]
 excerpt: "How classic novels expose social class - wealth, poverty, mobility, and the systems that keep people in place."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-01-20
 ---
 
@@ -16,7 +16,7 @@ The most urgently available formal argument that classic literature makes about 
 
 <!--more-->
 
-![Social Class in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Social Class in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The thesis of this analysis is that the greatest novels about social class are organized by the most formally precise available arguments about the most completely available specific mechanisms through which social class most urgently reproduces itself rather than by any most simply available moral condemnation of the most completely available inequality. The most urgently available moral condemnation is available in each novel, and it is most genuinely earned rather than most simply asserted, but the most completely available formal achievement in each case is the most urgently available most precise available formal argument about the most genuinely available mechanism rather than the most simply available moral stance. For the structural context of each individual novel, the [complete analysis of Great Expectations](https://insightcrunch.com/2014/09/27/complete-analysis-great-expectations/), the [complete analysis of The Great Gatsby](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/), and the [complete analysis of Of Mice and Men](https://insightcrunch.com/2014/11/01/complete-analysis-of-mice-and-men/) provide the most completely available essential frameworks for understanding the social class argument in each most urgently available individual novel.
 

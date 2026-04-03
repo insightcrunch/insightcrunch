@@ -6,9 +6,9 @@ date: 2015-01-10
 categories: ["Leisure"]
 tags: ["literary-villains", "character-analysis", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "The greatest villains in classic literature ranked and compared - what makes them terrifying and timeless."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2015-01-10
 ---
 
@@ -16,7 +16,7 @@ The greatest villains in classic literature are not great because they are evil 
 
 <!--more-->
 
-![Greatest Villains in Classic Literature - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Greatest Villains in Classic Literature - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 The argument this analysis will make is that the greatest villains in classic literature are organized by five most urgently available primary available categories of the most completely available formal argument about the most genuinely available human capacity for destruction: the most completely available intellectual destruction organized by the most urgently available manipulation of the most genuinely available other characters' most completely available psychology; the most urgently available institutional destruction organized by the most completely available most systematically available power of the most dramatically available state or social authority; the most urgently available psychological destruction organized by the most completely available most genuinely available personal grief or grievance converted into the most dramatically available most purely available destructive available force; the most urgently available ideological destruction organized by the most completely available most genuinely available conviction that the most urgently available destruction is the most dramatically available most morally correct available action; and the most urgently available most ambiguous available destruction organized by the most completely available most genuinely available characters who cannot most dramatically be most urgently classified as villains in the most completely available most simply available sense. For context on the specific novels from which the most urgently available villains are drawn, the [complete analysis of 1984](https://insightcrunch.com/2013/01/05/complete-analysis-1984-george-orwell/), the [complete analysis of Wuthering Heights](https://insightcrunch.com/2014/09/07/complete-analysis-wuthering-heights/), and the [complete analysis of The Scarlet Letter](https://insightcrunch.com/2014/12/01/complete-analysis-scarlet-letter/) provide the most completely available structural frameworks for understanding each villain within their most urgently available narrative context.
 

@@ -6,9 +6,9 @@ date: 2015-01-15
 categories: ["Leisure"]
 tags: ["coming-of-age", "literary-comparison", "scout-finch", "pip", "holden-caulfield", "classic-literature"]
 excerpt: "The greatest coming of age novels compared - innocence, experience, and the painful passage to adulthood."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2015-01-15
 ---
 
@@ -16,7 +16,7 @@ The coming of age novel is the most urgently available most universal available 
 
 <!--more-->
 
-![Greatest Coming of Age Novels Compared - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Greatest Coming of Age Novels Compared - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The argument this analysis will make is that the greatest coming of age novels are organized by three most urgently available most primary available most formal arguments about the most completely available most passage from innocence to experience: the most genuinely available most most directly organized available most encounter with the most dramatically available most most socially organized available most injustice as the most urgently available most most primary available most instrument of the most completely available most most loss of innocence; the most genuinely available most most specifically organized available most self-deception about the most completely available most most external available most markers of the most urgently available most most social worth as the most dramatically available most most primary available most instrument of the most genuinely available most most corruption organized by the most urgently available most most class aspiration; and the most completely available most most profoundly organized available most grief as the most dramatically available most most primary available most organizing force of the most genuinely available most most resistance to the most urgently available most most loss of innocence. Each most completely available most most formally organized available most primary available most argument illuminates something genuinely important about the most urgently available most most specific available most form of the most dramatically available most most passage from innocence to experience in the most genuinely available most most specific available most historical and social context. For the most completely available most most individual available most frameworks, the [complete analysis of To Kill a Mockingbird](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/), the [Pip character analysis](https://insightcrunch.com/2014/10/02/pip-character-analysis-dickens/), and the [complete analysis of The Catcher in the Rye](https://insightcrunch.com/2014/07/24/complete-analysis-catcher-in-the-rye/) provide the most urgently available most essential structural frameworks for understanding each most completely available most coming of age narrative individually.
 

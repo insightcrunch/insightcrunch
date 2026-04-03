@@ -6,9 +6,9 @@ date: 2015-01-25
 categories: ["Leisure"]
 tags: ["feminism", "gender", "literary-comparison", "classic-literature", "elizabeth-bennet", "jane-eyre", "hester-prynne"]
 excerpt: "How classic literature's greatest heroines challenge gender expectations - Bennet, Eyre, Prynne, and more."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2015-01-25
 ---
 
@@ -16,7 +16,7 @@ The greatest heroines in classic literature are not great because they are simpl
 
 <!--more-->
 
-![Gender and Feminism in Classic Literature - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Gender and Feminism in Classic Literature - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The thesis of this analysis is that gender and feminism in classic literature are organized by three most urgently available primary available formal arguments about the most completely available specific forms of the most genuinely available female moral authority: the most completely available individual conscience as the most urgently available ultimate moral standard in Jane Eyre; the most dramatically available wit and the most genuinely available moral clarity as the most urgently available instruments of refusal in Pride and Prejudice; and the most completely available sustained charitable engagement as the most urgently available instrument of transformation in The Scarlet Letter. Each most genuinely available formal argument is simultaneously the most completely available most specifically organized available most individual available argument and the most dramatically available most broadly organized available most structural argument about the most urgently available female moral authority in the most completely available specific historical and social context. For the structural context of each individual heroine, the [Jane Eyre character analysis](https://insightcrunch.com/2014/10/17/jane-eyre-character-analysis-bronte/), the [Hester Prynne character analysis](https://insightcrunch.com/2014/12/06/hester-prynne-character-analysis/), and the [complete analysis of To Kill a Mockingbird](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/) provide the most completely available essential frameworks for understanding each heroine's most urgently available gender argument within its most completely available specific historical and social context.
 

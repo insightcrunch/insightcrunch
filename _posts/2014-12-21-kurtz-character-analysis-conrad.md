@@ -6,9 +6,9 @@ date: 2014-12-21
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "kurtz", "character-analysis", "literary-analysis", "colonialism"]
 excerpt: "Deep analysis of Kurtz - his brilliance, descent into horror, final words, and meaning as colonial critique."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-12-21
 ---
 
@@ -16,7 +16,7 @@ Kurtz is the most formally paradoxical character in the English literary traditi
 
 <!--more-->
 
-![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The argument this analysis will make is that Kurtz is the most precisely organized available instrument of the novella's most central available formal argument: not the villain who represents the failure of an otherwise sound enterprise, but the logical extreme of the enterprise itself, the point at which the most available self-justifying narrative of European civilization and the most available reality of what that civilization actually does in the absence of external constraint most completely converge. His most famous available last words, "The horror! The horror!", are the most urgently available formal achievement of his character precisely because they are the most genuinely available honest available moment in the entire novella, the single available point at which the most available self-justifying narrative is stripped away and the most available reality is directly confronted. For the structural context within which Kurtz's character most urgently operates, the [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) provides the essential framework, and the [Marlow character analysis](https://insightcrunch.com/2014/12/26/marlow-character-analysis-conrad/) develops the most urgently available complementary available perspective through which Kurtz's most formal available significance is most completely organized.
 

@@ -6,9 +6,9 @@ date: 2014-12-11
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "sin", "society", "themes", "literary-analysis", "classic-literature"]
 excerpt: "How The Scarlet Letter exposes Puritan hypocrisy - public shame vs private guilt and the cost of secrecy."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2014-12-11
 ---
 
@@ -16,7 +16,7 @@ The most disturbing argument that The Scarlet Letter makes about sin and society
 
 <!--more-->
 
-![Sin and Society in The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Sin and Society in The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The thesis of this analysis is that sin and society in The Scarlet Letter are organized around the most precisely available formal argument that the institutionalization of public shame, far from producing the most available deterrent effect that the most complete available social authority intends, produces the most specific available set of psychological consequences that most completely organizes the most genuinely available private destruction. The community's most formal available organization of sin as public spectacle is the most urgently available most powerful available formal instrument, and the most powerful available formal instrument produces the most specific available consequences that most urgently organize the most genuinely available private destruction: the transformation of Hester through the most publicly borne shame, the destruction of Dimmesdale through the most privately concealed guilt, and the perversion of Chillingworth through the most privately organized revenge. For the structural context within which the sin and society theme most urgently operates, the [complete analysis of The Scarlet Letter](https://insightcrunch.com/2014/12/01/complete-analysis-scarlet-letter/) provides the essential framework, and the [Hester Prynne character analysis](https://insightcrunch.com/2014/12/06/hester-prynne-character-analysis/) traces the most specific available form of the transformation that the most publicly borne shame most urgently produces.
 

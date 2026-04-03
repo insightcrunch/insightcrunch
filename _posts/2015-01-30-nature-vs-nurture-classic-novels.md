@@ -6,9 +6,9 @@ date: 2015-01-30
 categories: ["Leisure"]
 tags: ["nature-vs-nurture", "literary-comparison", "frankenstein", "lord-of-the-flies", "wuthering-heights", "literary-analysis"]
 excerpt: "Nature vs nurture in classic fiction - are we born good or made evil? The novels that tackle the question."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2015-01-30
 ---
 
@@ -16,7 +16,7 @@ The nature versus nurture question is the most urgently available most fundament
 
 <!--more-->
 
-![Nature vs Nurture in Classic Fiction - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Nature vs Nurture in Classic Fiction - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The thesis of this analysis is that the greatest available classic novels about nature versus nurture do not simply answer the most urgently available most question by coming down on one side but constitute the most completely available most formally precise available arguments about the most genuinely available most specific available forms of the most urgently available most interaction between the most completely available most natural available most character and the most dramatically available most environmental available most conditions as the most genuinely available most primary available most organizing forces of the most urgently available most human capacity for the most completely available most destruction. Each most genuinely available most novel is the most urgently available most most formally precise available argument about the most completely available most specific available form of the most dramatically available most interaction, and the most genuinely available most comparison across the most urgently available most novels illuminates the most completely available most full range of the most dramatically available most specific available forms of the most genuinely available most interaction. For the structural context of each individual novel, the [complete analysis of Frankenstein](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/), the [themes of science and ambition in Frankenstein](https://insightcrunch.com/2014/09/02/themes-science-ambition-frankenstein/), and the [Heathcliff character analysis](https://insightcrunch.com/2014/09/12/heathcliff-character-analysis/) provide the most completely available most essential frameworks for understanding the nature versus nurture argument in each most urgently available most individual novel.
 

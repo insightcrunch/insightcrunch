@@ -6,9 +6,9 @@ date: 2014-10-27
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "independence", "feminism", "themes", "literary-analysis", "classic-literature"]
 excerpt: "How Jane Eyre champions female independence - Bronte's radical feminism hidden inside a Gothic romance."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2014-10-27
 ---
 
@@ -16,7 +16,7 @@ Jane Eyre is a feminist manifesto disguised as a romance, and the disguise is so
 
 <!--more-->
 
-![Independence and Feminism in Jane Eyre - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Independence and Feminism in Jane Eyre - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The argument this analysis will make is that the independence and feminism themes in Jane Eyre are not separate from the romance but are the most fundamental available architecture of the romance: the specific form of the love that the novel most urgently celebrates is the love that is organized by the most genuine available equality of the moral worth rather than by the available social arrangements' most urgently sustaining requirements of the appropriate female subordination. The feminism is not the rejection of love or the rejection of connection. It is the insistence that the most genuine available form of love requires the most genuine available form of the independent moral authority as its most urgently available precondition, and that the love organized by the subordination of the most genuine available moral authority to any available alternative available authority is not the most genuine available form of love but its most elaborate available simulation. For the structural context within which these themes most urgently operate, the [complete analysis of Jane Eyre](https://insightcrunch.com/2014/10/12/complete-analysis-jane-eyre-bronte/) provides the essential framework, and the [Jane Eyre character analysis](https://insightcrunch.com/2014/10/17/jane-eyre-character-analysis-bronte/) traces the specific character whose most complete available expression is the most urgently available embodiment of the independence and feminism themes' most significant available formal argument.
 

@@ -6,9 +6,9 @@ date: 2014-12-01
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "novel-analysis", "literary-analysis", "puritan", "classic-literature"]
 excerpt: "The definitive analysis of The Scarlet Letter - sin, shame, hypocrisy, and Hawthorne's psychological mastery."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2014-12-01
 ---
 
@@ -16,7 +16,7 @@ The Scarlet Letter is the novel that invented American psychological fiction, an
 
 <!--more-->
 
-![Complete Analysis of The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Complete Analysis of The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The thesis of this analysis is that The Scarlet Letter is simultaneously the most urgently available critique of Puritan social authority and the most completely available study of the specific psychological consequences that the institutionalization of shame and the suppression of the private self most urgently produce. Hester Prynne, who bears the publicly institutionalized shame, is transformed by it into a figure of genuine moral authority. Arthur Dimmesdale, who suppresses the private guilt, is destroyed by it through the specific mechanism of the self-concealment that the community's most complete available public authority most urgently requires. Roger Chillingworth, who converts the guilt and the shame into the instrument of a private revenge, becomes the most purely available destructive force in the novel, and the specific quality of the destruction is organized by the specific perversion of the most genuinely available intellectual gifts. The novel's most urgently available formal argument is that the public performance of virtue, enforced by the most powerful available social authority, produces the specific psychological conditions that most completely organize the most genuinely available forms of the private destruction. For the comparative context across the most significantly available treatments of sin and social judgment, the [complete analysis of 1984](https://insightcrunch.com/2013/01/05/complete-analysis-1984-george-orwell/) traces the most adjacent available case of the most completely available external authority's management of the private inner life, and the [complete analysis of Jane Eyre](https://insightcrunch.com/2014/10/12/complete-analysis-jane-eyre-bronte/) develops the most urgently available parallel structure of the female character's transformation of institutional punishment into moral authority.
 

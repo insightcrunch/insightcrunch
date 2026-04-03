@@ -6,9 +6,9 @@ date: 2014-11-01
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "novel-analysis", "literary-analysis", "american-dream", "classic-literature"]
 excerpt: "The definitive analysis of Of Mice and Men - its themes, characters, symbolism, and devastating conclusion."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2014-11-01
 ---
 
@@ -16,7 +16,7 @@ Of Mice and Men achieves something that almost no other short novel in the Ameri
 
 <!--more-->
 
-![Complete Analysis of Of Mice and Men - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Complete Analysis of Of Mice and Men - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The thesis of this analysis is that Of Mice and Men is the most precisely constructed available tragedy in the American short novel's most significant tradition, organized by the specific formal argument that the dream of belonging and dignity is not simply a personal aspiration but the most urgently available form of the human need that the economic and social structures of the Depression-era American West most completely and most systematically denied. The tragedy is not accidental: it is organized by the specific convergence of the structural forces, the loneliness, the powerlessness, and the violence of the world that the novel most carefully traces, acting on the most genuinely available human connection in conditions that make the connection's most complete available expression most urgently incompatible with the world's most available structural requirements. For the comparative context across the most significantly available treatments of the American Dream's most complete available failure, the [complete analysis of The Great Gatsby](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/) traces the most adjacent available case in the American tradition, and the [Nick Carraway character analysis](https://insightcrunch.com/2014/01/20/nick-carraway-character-analysis/) develops the most directly comparable retrospective narration of the dream's most complete available destruction.
 

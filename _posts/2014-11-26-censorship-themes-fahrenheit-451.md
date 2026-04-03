@@ -6,9 +6,9 @@ date: 2014-11-26
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "censorship", "themes", "literary-analysis", "dystopian-fiction"]
 excerpt: "How Fahrenheit 451 treats censorship - not as government tyranny but as a society's voluntary surrender."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2014-11-26
 ---
 
@@ -16,7 +16,7 @@ The most persistent misreading of Fahrenheit 451 is that it is a novel about gov
 
 <!--more-->
 
-![Censorship and Ignorance in Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Censorship and Ignorance in Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The thesis of this analysis is that censorship and ignorance in Fahrenheit 451 are not external impositions but self-generated conditions, produced by the specific combination of technological convenience, social pressure toward comfort, and the gradual erosion of the tolerance for difficulty that serious reading requires. The novel's most urgently available argument is not that governments are dangerous when they burn books, though they are. It is that societies are dangerous when they stop wanting to read them, because the conditions that make book-burning unnecessary are the conditions that the most available democratic society is most urgently capable of producing entirely on its own, without any totalitarian imposition. For the structural context within which the censorship theme operates, the [complete analysis of Fahrenheit 451](https://insightcrunch.com/2014/11/16/complete-analysis-fahrenheit-451/) provides the essential framework, and the [Guy Montag character analysis](https://insightcrunch.com/2014/11/21/guy-montag-character-analysis/) traces the specific form of the awakening that the censorship's most complete available conditions most urgently produce.
 

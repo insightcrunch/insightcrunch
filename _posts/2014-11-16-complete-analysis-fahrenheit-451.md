@@ -6,9 +6,9 @@ date: 2014-11-16
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "novel-analysis", "literary-analysis", "censorship", "dystopian-fiction"]
 excerpt: "The definitive analysis of Fahrenheit 451 - censorship, technology, conformity, and Bradbury's burning vision."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2014-11-16
 ---
 
@@ -16,7 +16,7 @@ Fahrenheit 451 is the most urgently available warning in the American dystopian 
 
 <!--more-->
 
-![Complete Analysis of Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Complete Analysis of Fahrenheit 451 - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The thesis of this analysis is that Fahrenheit 451 is the most urgently available prophetic novel about the most completely available voluntary surrender of the most dramatically available cultural and intellectual life organized by the most genuinely available popular preference for the most urgently available most immediately available comfort over the most dramatically available most genuinely challenging available experience of the most completely available serious thought and the most urgently available genuine feeling. The most dramatically available firemen who burn books are not the most genuinely available primary available villains of the most urgently available novel: they are the most completely available most formal available symptom of the most dramatically available most fundamental available problem, which is the most urgently available population's most genuinely available preference for the most dramatically available most immediately available comfort over the most completely available most genuinely challenging available experience of the most urgently available serious engagement with the most dramatically available most genuinely available ideas. For the comparative context across the most significantly available dystopian tradition, the [complete analysis of 1984](https://insightcrunch.com/2013/01/05/complete-analysis-1984-george-orwell/) traces the most adjacent available case of the most dramatically available external totalitarian imposition, and the [complete analysis of Brave New World](https://insightcrunch.com/2014/06/24/complete-analysis-brave-new-world/) develops the most urgently available most parallel available case of the most completely available voluntary surrender organized by the most dramatically available most immediately available pleasure as the most urgently available most powerful available instrument of the most completely available cultural destruction.
 

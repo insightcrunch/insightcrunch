@@ -6,9 +6,9 @@ date: 2014-11-06
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "george-milton", "lennie-small", "character-analysis", "literary-analysis"]
 excerpt: "Deep analysis of George and Lennie - their friendship, shared dream, dependence, and tragic final scene."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2014-11-06
 ---
 
@@ -16,7 +16,7 @@ The friendship between George Milton and Lennie Small is the most heartbreaking 
 
 <!--more-->
 
-![George and Lennie Character Analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
+![George and Lennie Character Analysis - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The argument this analysis will make is that George and Lennie are the most precisely constructed available complementary characters in the American short fiction tradition, organized by the specific form of the most genuinely available complementarity that makes each character's most complete available identity most urgently dependent on the other's most genuinely available presence. George without Lennie is the most completely available itinerant ranch worker whose most genuinely available intelligence and most urgently available capacity have no most completely available outlet beyond the most dramatically available economic marginality of the most urgently available agricultural labor circuit. Lennie without George is the most completely available vulnerable individual whose most genuinely available innocence and most urgently available strength are the most dramatically available combination of the qualities most completely incompatible with the survival in the most urgently available conditions of the most completely available social world. Together they constitute the most genuinely available exception to the most completely available rule of the itinerant loneliness, and the most dramatically available destruction of that exception is the most precisely available formal argument about the most completely available structural hostility of the most urgently available world toward the most genuinely available human connection. For the structural context within which their characters most urgently operate, the [complete analysis of Of Mice and Men](https://insightcrunch.com/2014/11/01/complete-analysis-of-mice-and-men/) provides the essential framework, and the [loneliness in Of Mice and Men](https://insightcrunch.com/2014/11/11/loneliness-of-mice-and-men-themes/) traces the most urgently available thematic context that makes the most genuinely available exception of their friendship most completely significant.
 
