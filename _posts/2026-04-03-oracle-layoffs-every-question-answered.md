@@ -8,7 +8,6 @@ categories: ["Industry"]
 tags: ["oracle layoffs", "oracle layoffs 2026", "oracle layoffs reddit", "oracle layoffs blind", "oracle severance", "oracle h1b layoffs", "oracle india layoffs", "oracle netsuite layoffs", "tech layoffs 2026", "oracle job cuts", "larry ellison", "oracle ai", "oracle cloud layoffs", "oracle warn act"]
 excerpt: "Hundreds of the most-asked questions about Oracle's March 2026 mass layoffs answered in full, sourced directly from Reddit threads, Blind posts, LinkedIn reactions, and X discussions. Severance, visa status, India cuts, stock outlook, and what comes next."
 image: "/assets/images/blog/blog-59.webp"
-author: "patrick-dunn"
 read_time: 58
 ---
 
