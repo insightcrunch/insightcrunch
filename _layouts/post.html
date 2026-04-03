@@ -348,6 +348,18 @@ article {
   }
   </script>
   {% endif %}
+
+<script>
+  (function() {
+    if (!document.querySelector('.twitter-tweet')) return;
+    var s = document.createElement('script');
+    s.async = true;
+    s.src = 'https://platform.twitter.com/widgets.js';
+    s.charset = 'utf-8';
+    document.head.appendChild(s);
+  })();
+</script>
+
 </article>
 
 <script>
