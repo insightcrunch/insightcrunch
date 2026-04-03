@@ -170,24 +170,9 @@ rules:
     scope: "tags"
     pool: "western-lit"
 
-  # ── WESTERN-EDU: SAT / ACT / AP / college admissions ───
-  - keywords: ["SAT", "ACT", "AP Exam", "AP Exams", "Advanced Placement", "College Board"]
-    scope: "any"
-    pool: "western-edu"
-
-  - keywords: ["Oxford", "Harvard", "Cambridge", "Stanford", "MIT", "Ivy League"]
-    scope: "any"
-    pool: "western-edu"
-
-  - keywords: ["Accommodation", "Student Housing", "Hostel"]
-    scope: "tags"
-    pool: "western-edu"
-
-  - keywords: ["solo-dining", "restaurants", "eating-alone", "counter-dining", "bar-seating"]
-    scope: "any"
-    pool: "western-edu"
-
   # ── WESTERN-TECH: Layoffs / Big Tech / AI / MDM ────────
+  # (Must be checked BEFORE western-edu: generic keywords like "ACT"
+  #  collide with non-education contexts, e.g. "WARN Act" in layoff tags)
   - keywords: ["layoff", "layoffs", "job cuts", "restructuring", "workforce reduction"]
     scope: "any"
     pool: "western-tech"
@@ -211,6 +196,23 @@ rules:
   - keywords: ["Master Data Management", "Oracle Data Integrator", "MDM", "OBIEE", "Hadoop", "DRM", "ODI", "Essbase"]
     scope: "any"
     pool: "western-tech"
+
+  # ── WESTERN-EDU: SAT / ACT / AP / college admissions ───
+  - keywords: ["SAT", "ACT", "AP Exam", "AP Exams", "Advanced Placement", "College Board"]
+    scope: "any"
+    pool: "western-edu"
+
+  - keywords: ["Oxford", "Harvard", "Cambridge", "Stanford", "MIT", "Ivy League"]
+    scope: "any"
+    pool: "western-edu"
+
+  - keywords: ["Accommodation", "Student Housing", "Hostel"]
+    scope: "tags"
+    pool: "western-edu"
+
+  - keywords: ["solo-dining", "restaurants", "eating-alone", "counter-dining", "bar-seating"]
+    scope: "any"
+    pool: "western-edu"
 
   # ── MIXED: Analytics / Tableau ───────────────────────────
   - keywords: ["Tableau"]
