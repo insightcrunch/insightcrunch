@@ -6,9 +6,9 @@ date: 1997-06-23
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Equivalent Expressions", "Algebra", "Simplification"]
 excerpt: "Master SAT equivalent expression questions: factoring methods, completing the square, complex fractions, structure recognition, and the Desmos equivalence check."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-06-23
 ---
 
@@ -18,7 +18,7 @@ What separates the students who answer these questions confidently and quickly f
 
 This guide covers the complete Digital SAT treatment of equivalent expressions: distributing and combining like terms, all five factoring methods the SAT tests, completing the square, simplifying complex fractions, rationalizing denominators, the structure recognition skill and how to practice it, and the most powerful shortcut in the entire SAT Math toolkit: the Desmos equivalence check. For the polynomial zeros and factor theorem context that shares factoring techniques with equivalent expressions, the companion [SAT Math polynomials guide](/1997/07/06/sat-math-polynomial-zeros-factors/) provides the zeros framework. For the radical manipulation techniques that extend equivalent expression skills to expressions under the square root, the [SAT Math radicals and rational equations guide](/1997/08/20/sat-math-radicals-rational-equations/) covers that material. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Equivalent Expressions Factoring Simplification](/assets/images/blog/blog-15.webp)
+![SAT Math Equivalent Expressions Factoring Simplification](/assets/images/blog/blog-81.webp)
 
 ## The Desmos Equivalence Check: The Most Powerful SAT Math Shortcut
 

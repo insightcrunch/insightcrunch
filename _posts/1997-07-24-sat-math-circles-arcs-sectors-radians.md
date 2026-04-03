@@ -6,9 +6,9 @@ date: 1997-07-24
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Circles", "Geometry", "Trigonometry"]
 excerpt: "Master SAT circle geometry: standard equation, completing the square, arc length, sector area, radian conversions, inscribed angles, and tangent lines."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1997-07-24
 ---
 
@@ -16,7 +16,7 @@ Circle questions appear two to four times on every Digital SAT administration, m
 
 This guide covers the complete Digital SAT treatment of circle geometry: the standard circle equation and how to read center and radius directly from it, the completing-the-square technique for converting a general quadratic equation into standard circle form, arc length and sector area using both degree-based formulas and the cleaner radian-based formulas, radian-to-degree conversion, the geometric meaning of one radian, the proportion reasoning shortcut that resolves most arc and sector questions without any formula memorization, central and inscribed angle relationships, tangent line properties, and the distance test for determining whether a point is inside, on, or outside a circle. For the right triangle and trigonometric concepts that connect to unit circle radian understanding, the companion [SAT Math right triangles and unit circle guide](/1997/07/20/sat-math-right-triangles-unit-circle/) provides the essential trigonometric foundation. For the three-dimensional geometry that extends circle area and perimeter concepts, the [SAT Math volume and surface area guide](/1997/06/18/sat-math-volume-surface-area-3d/) covers cylinders and cones where circular cross-sections appear. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Circles Arcs Sectors Radians Arc Length](/assets/images/blog/blog-08.webp)
+![SAT Math Circles Arcs Sectors Radians Arc Length](/assets/images/blog/blog-42.webp)
 
 ## The Standard Circle Equation: Reading Center and Radius Directly
 

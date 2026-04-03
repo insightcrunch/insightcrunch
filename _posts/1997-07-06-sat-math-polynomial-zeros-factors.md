@@ -6,9 +6,9 @@ date: 1997-07-06
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Polynomials", "Advanced Math", "Algebra"]
 excerpt: "Master SAT polynomial zeros, factors, x-intercepts, the remainder theorem, multiplicity, end behavior, and graph matching for the Digital SAT."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-07-06
 ---
 
@@ -16,7 +16,7 @@ Polynomial questions appear two to four times on every Digital SAT administratio
 
 This guide covers the complete Digital SAT treatment of polynomial functions: the zero-factor-x-intercept trinity and its three equivalent phrasings, the factor theorem, the remainder theorem shortcut for polynomial division, finding zeros by factoring (GCF, grouping, difference of squares, sum and difference of cubes), the relationship between degree and the maximum number of real zeros, end behavior determined by the leading term, multiplicity and how it affects graph behavior at x-intercepts, and constructing polynomials from given zeros. For the function notation and transformation skills that underlie all polynomial analysis, the companion [SAT Math functions, transformations, and graph interpretation guide](/1997/08/02/sat-math-functions-transformations/) provides the foundational framework. For the radical and rational expressions that interact with polynomial structure, the [SAT Math radicals and rational equations guide](/1997/08/20/sat-math-radicals-rational-equations/) covers the algebraic manipulation techniques. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Polynomial Functions Zeros Factors Remainders](/assets/images/blog/blog-12.webp)
+![SAT Math Polynomial Functions Zeros Factors Remainders](/assets/images/blog/blog-39.webp)
 
 ## The Zero-Factor-X-Intercept Trinity: The Foundation of Polynomial Analysis
 

@@ -6,9 +6,9 @@ date: 1997-07-15
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Two-Way Tables", "Probability", "Data Analysis"]
 excerpt: "Master SAT two-way tables, conditional probability, relative frequency, association, and the P(A|B) vs P(B|A) distinction for the Digital SAT."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1997-07-15
 ---
 
@@ -18,7 +18,7 @@ The students who miss two-way table questions are almost always missing them bec
 
 This guide covers the complete Digital SAT treatment of two-way tables: how tables are structured and how to read them, computing simple and conditional probabilities, relative frequency versus raw count, completing missing cells, the association question type, and the P(A given B) versus P(B given A) distinction. For the context of scatter plots and regression that shares the Problem Solving and Data Analysis domain, the companion [SAT Math scatter plots and line of best fit guide](/1997/08/11/sat-math-scatter-plots-regression/) covers the quantitative relationship analog to the categorical relationships in two-way tables. For standard deviation, mean, and median questions that often appear alongside table data, the [SAT Math standard deviation and mean guide](/1997/07/11/sat-math-standard-deviation-mean-median/) provides the complementary coverage. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Two-Way Tables Frequency Data Conditional Probability](/assets/images/blog/blog-10.webp)
+![SAT Math Two-Way Tables Frequency Data Conditional Probability](/assets/images/blog/blog-84.webp)
 
 ## How Two-Way Tables Are Structured
 

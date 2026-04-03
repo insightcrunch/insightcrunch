@@ -6,9 +6,9 @@ date: 1997-07-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Systems of Equations", "Algebra", "Test Prep"]
 excerpt: "Master SAT systems of equations including no solution, infinite solutions, linear-quadratic systems, and discriminant analysis for the Digital SAT."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 1997-07-29
 ---
 
@@ -16,7 +16,7 @@ Systems of equations questions appear on every Digital SAT administration, and t
 
 This guide covers the complete Digital SAT treatment of systems of equations: the geometric interpretation of solutions as intersection points, the algebraic conditions for no solution (parallel lines) and infinite solutions (identical lines), the technique for finding unknown parameters k in systems where the solution count is specified, the harder linear-quadratic system format where a parabola and a line intersect, discriminant analysis to determine the number of intersection points without solving, and the visual confirmation role that Desmos plays for every system question. For the broader context of system-solving techniques and linear equations, the [complete SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/) provides the foundational coverage. For the connection to inequality systems where the solution region is a shaded area rather than a point, the [SAT Math inequalities and absolute value guide](/1997/08/16/sat-math-inequalities-absolute-value/) covers that extension. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Systems of Equations No Solution Infinite Solutions](/assets/images/blog/blog-07.webp)
+![SAT Math Systems of Equations No Solution Infinite Solutions](/assets/images/blog/blog-16.webp)
 
 ## Why No-Solution and Infinite-Solution Questions Are Specifically Tested
 

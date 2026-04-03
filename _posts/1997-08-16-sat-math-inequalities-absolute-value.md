@@ -8,7 +8,7 @@ tags: ["SAT", "SAT Math", "Inequalities", "Absolute Value", "Algebra"]
 excerpt: "Master SAT inequalities and absolute value: linear, compound, systems, quadratic inequalities, number lines, and Desmos strategies for the Digital SAT."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1997-08-16
 ---
 

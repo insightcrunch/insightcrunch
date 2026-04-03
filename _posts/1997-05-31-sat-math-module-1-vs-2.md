@@ -6,9 +6,9 @@ date: 1997-05-31
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Digital SAT", "Adaptive Testing", "Module Strategy"]
 excerpt: "Understand the Digital SAT adaptive scoring system, the critical score ceiling difference between easy and hard Module 2, and why Module 1 accuracy determines your score potential."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1997-05-31
 ---
 
@@ -18,7 +18,7 @@ This means Module 1 accuracy is more important than Module 1 speed. A student wh
 
 This guide covers the complete adaptive scoring system: how the algorithm works, what each Module 2 path feels like, the estimated scoring tables for both paths, the exact strategic implications for test-day behavior, the psychology of recognizing which module you received, and the connection to Desmos and pacing strategy from companion articles in this series. For the complete Digital SAT format and structure, the [Digital SAT complete guide](/2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/) provides the full context. For the Desmos techniques that are especially valuable in the harder Module 2, see [SAT Desmos calculator strategy](/1997/06/05/sat-desmos-calculator-strategy/). For the pacing strategy that applies differently in Module 1 versus Module 2, the companion [SAT Math pacing strategy guide](/1997/05/27/sat-math-pacing-strategy/) provides the minute-by-minute framework. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Adaptive Module Strategy](/assets/images/blog/blog-05.webp)
+![SAT Math Adaptive Module Strategy](/assets/images/blog/blog-71.webp)
 
 ## The Structure of the Digital SAT Math Section
 

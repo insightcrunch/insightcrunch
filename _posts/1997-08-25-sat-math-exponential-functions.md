@@ -6,9 +6,9 @@ date: 1997-08-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Exponential Functions", "Test Prep", "Algebra"]
 excerpt: "Master SAT exponential functions: growth, decay, compound interest, and Desmos strategies for the Digital SAT."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1997-08-25
 ---
 
@@ -16,7 +16,7 @@ Exponential functions appear on every single administration of the Digital SAT. 
 
 This guide walks through every way the Digital SAT tests SAT exponential functions, from the foundational structure of the equation to the most deceptive word problem formats. If you have already reviewed the exponential content inside the [complete SAT Advanced Math domain guide](/2021/04/16/sat-advanced-math-domain-complete-guide/) and the [SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/), this article goes several layers deeper into the specific question types, the exact traps the College Board sets, and the Desmos strategies that make these problems faster and more reliable on test day. By the end of this guide, exponential function questions should feel like the most predictable category on the exam rather than the most mysterious.
 
-![SAT Math Exponential Functions Growth and Decay](/assets/images/blog/blog-01.webp)
+![SAT Math Exponential Functions Growth and Decay](/assets/images/blog/blog-31.webp)
 
 ## What Is an Exponential Function and Why Does the SAT Care
 

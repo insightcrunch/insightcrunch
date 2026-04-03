@@ -6,9 +6,9 @@ date: 1997-06-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Word Problems", "Problem Solving", "Strategy"]
 excerpt: "Master the SAT word problem translation dictionary, let-statements, systems setup, total cost template, rate-time-distance, mixture problems, and the answer-the-right-question habit."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1997-06-27
 ---
 
@@ -18,7 +18,7 @@ This guide treats word problem translation as the core skill it actually is: the
 
 For the algebraic solving techniques that follow successful translation, the [complete SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/) covers linear equations, systems, and inequalities. For the percent-change and markup/discount word problems that are a specific high-frequency subset of the translation challenge, the [SAT Math percent change guide](/1997/08/07/sat-math-percent-change-markup-discount/) provides focused coverage of that template. For the systems of equations setup that is required for two-unknown word problems, the [SAT Math systems of equations guide](/1997/07/29/sat-math-systems-no-infinite-solutions/) provides the complete systems framework. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Word Problems Translation Strategy](/assets/images/blog/blog-14.webp)
+![SAT Math Word Problems Translation Strategy](/assets/images/blog/blog-19.webp)
 
 ## The Translation Dictionary: English Words to Mathematical Operations
 

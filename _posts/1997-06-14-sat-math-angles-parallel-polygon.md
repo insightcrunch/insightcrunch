@@ -6,9 +6,9 @@ date: 1997-06-14
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Geometry", "Angles", "Polygons"]
 excerpt: "Master SAT angle relationships, parallel lines with transversals, the exterior angle theorem, triangle properties, and polygon formulas for the Digital SAT."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1997-06-14
 ---
 
@@ -18,7 +18,7 @@ The parallel lines transversal setup is the single most frequently tested angle 
 
 This guide covers the complete Digital SAT treatment of angle relationships and polygon properties: supplementary and complementary angles, vertical angles, parallel lines and transversals with all six angle relationships, the triangle angle sum, the exterior angle theorem, isosceles and equilateral triangle properties, the polygon interior angle sum formula, each angle of a regular polygon, the exterior angle sum, and the key properties of parallelograms, rectangles, rhombuses, and squares. For the right triangle trigonometry and Pythagorean theorem that interact with angle relationships in geometry problems, the companion [SAT Math right triangles guide](/1997/07/20/sat-math-right-triangles-unit-circle/) provides that framework. For the 3D geometry where angle properties appear in prism and pyramid cross-sections, the [SAT Math volume and surface area guide](/1997/06/18/sat-math-volume-surface-area-3d/) covers the relevant 3D context. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Angles Parallel Lines Polygon Properties](/assets/images/blog/blog-02.webp)
+![SAT Math Angles Parallel Lines Polygon Properties](/assets/images/blog/blog-83.webp)
 
 ## Supplementary, Complementary, and Vertical Angles
 

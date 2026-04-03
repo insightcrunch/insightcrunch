@@ -6,9 +6,9 @@ date: 1997-08-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Functions", "Transformations", "Advanced Math"]
 excerpt: "Master SAT function notation, composition, inverses, transformations, and graph interpretation with this complete Digital SAT guide."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1997-08-02
 ---
 
@@ -18,7 +18,7 @@ The difficulty with function questions on the SAT is not the underlying mathemat
 
 This guide covers the complete Digital SAT treatment of functions: function notation and evaluation, domain and range, composition f(g(x)), inverse functions, the complete transformation rule set with special attention to the counterintuitive horizontal shifts, reading functions from graphs, identifying increasing and decreasing intervals, max and min values, and the "which equation could define f" question type. For function topics specific to exponential models, the [SAT Math exponential functions guide](/1997/08/25/sat-math-exponential-functions/) provides dedicated coverage. For polynomial function behavior including zeros and end behavior, the [SAT Math polynomial zeros and factors guide](/1997/07/06/sat-math-polynomial-zeros-factors/) connects directly to the Advanced Math domain context established here. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at all difficulty levels.
 
-![SAT Math Functions Transformations Graph Interpretation](/assets/images/blog/blog-06.webp)
+![SAT Math Functions Transformations Graph Interpretation](/assets/images/blog/blog-04.webp)
 
 ## What Functions Are and Why the SAT Tests Them This Way
 

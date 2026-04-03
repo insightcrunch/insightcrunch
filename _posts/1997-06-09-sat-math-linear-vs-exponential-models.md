@@ -6,9 +6,9 @@ date: 1997-06-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Modeling", "Linear", "Exponential"]
 excerpt: "Master the diagnostic test for linear vs exponential data, translate real-world scenarios, interpret growth and decay, and answer every modeling question on the Digital SAT."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 1997-06-09
 ---
 
@@ -18,7 +18,7 @@ The single most powerful diagnostic tool for these questions is the two-test: co
 
 This guide covers the complete Digital SAT treatment of linear and exponential models: the structure of each model and what makes it linear or exponential, the two-test for identifying the correct model from a data table, translating real-world scenarios into linear or exponential form, the key interpretive vocabulary (initial value, rate of change, growth factor, decay factor, doubling time), piecewise linear models, the inevitable dominance of exponential over linear at large values, and the "approximately linear or exponential" question type where real data fits one model better than the other. For the linear equation and slope-intercept concepts that underlie the linear model, the companion [SAT Math algebra guide](/2021/04/24/sat-algebra-domain-complete-guide/) provides the full linear equation framework. For the exponential function notation and transformations that connect to the exponential model, the [SAT Math functions and transformations guide](/1997/08/02/sat-math-functions-transformations/) provides that foundation. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Linear vs Exponential Models](/assets/images/blog/blog-03.webp)
+![SAT Math Linear vs Exponential Models](/assets/images/blog/blog-51.webp)
 
 ## The Structure of Linear Models
 

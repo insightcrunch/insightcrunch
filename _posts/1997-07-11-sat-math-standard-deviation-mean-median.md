@@ -6,9 +6,9 @@ date: 1997-07-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Data Analysis", "Test Prep"]
 excerpt: "Master SAT mean, median, standard deviation, IQR, outliers, box plots, histograms, and transformation rules with this complete Digital SAT guide."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-07-11
 ---
 
@@ -16,7 +16,7 @@ Descriptive statistics questions appear three to five times on every Digital SAT
 
 This guide covers the complete Digital SAT treatment of descriptive statistics: the arithmetic mean and its sensitivity to outliers, the median and its resistance to outliers, mode and its role in certain question types, range and IQR as measures of spread, the conceptual interpretation of standard deviation without any calculation, the transformation rules for mean, median, standard deviation, and IQR when constants are added or multiplied, the effect of removing an outlier on each measure, reading and comparing box plots, dot plots, and histograms, and the "which dataset has greater standard deviation" comparison skill. For the context of scatter plots and linear regression in the same domain, the companion [SAT Math scatter plots and line of best fit guide](/1997/08/11/sat-math-scatter-plots-regression/) provides that framework. For two-way tables and conditional probability that round out the statistical coverage, the [SAT Math two-way tables and conditional probability guide](/1997/07/15/sat-math-two-way-tables-probability/) covers that material. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Standard Deviation Mean Median Data Interpretation](/assets/images/blog/blog-11.webp)
+![SAT Math Standard Deviation Mean Median Data Interpretation](/assets/images/blog/blog-29.webp)
 
 ## The Arithmetic Mean: Calculation, Interpretation, and Sensitivity to Outliers
 

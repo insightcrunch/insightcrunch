@@ -6,9 +6,9 @@ date: 1997-08-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Radicals", "Rational Equations", "Advanced Math"]
 excerpt: "Master SAT radical expressions and rational equations, including extraneous solutions, fractional exponents, and Desmos verification strategies."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1997-08-20
 ---
 
@@ -18,7 +18,7 @@ This guide covers the complete Digital SAT treatment of radical and rational exp
 
 If you have already worked through the [complete SAT Advanced Math domain guide](/2021/04/16/sat-advanced-math-domain-complete-guide/), you have seen these topics introduced. This article goes deeper into the specific question types, the precise traps, and the worked examples that make these concepts test-ready rather than just classroom-familiar. For exponential functions, which share the fractional exponent notation covered here, the [SAT Math exponential functions guide](/1997/08/25/sat-math-exponential-functions/) provides the complementary coverage.
 
-![SAT Math Radical Expressions Rational Equations](/assets/images/blog/blog-02.webp)
+![SAT Math Radical Expressions Rational Equations](/assets/images/blog/blog-07.webp)
 
 ## Why Radicals and Rational Equations Appear in Harder Modules
 

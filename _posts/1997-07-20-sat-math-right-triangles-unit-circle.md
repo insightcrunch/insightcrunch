@@ -6,9 +6,9 @@ date: 1997-07-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Triangles", "Trigonometry", "Unit Circle"]
 excerpt: "Master SAT right triangles, Pythagorean triples, 30-60-90 and 45-45-90 special triangles, SOH-CAH-TOA, complementary angle trig, and the unit circle for the Digital SAT."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 1997-07-20
 ---
 
@@ -16,7 +16,7 @@ Right triangle questions appear three to five times on every Digital SAT adminis
 
 This guide covers the complete Digital SAT treatment of right triangles: the Pythagorean theorem and the Pythagorean triples the SAT uses most frequently, the 30-60-90 and 45-45-90 special triangle ratios and how to use them in both directions, SOH-CAH-TOA for sine, cosine, and tangent in right triangles, the complementary angle relationship sin(x) = cos(90 minus x) that is tested on almost every administration, the unit circle values at standard angles, word problems involving angles of elevation and depression, and the similar triangles configuration that appears when an altitude is drawn from the right angle to the hypotenuse. For the circle geometry that connects to radian measure and the unit circle, the companion [SAT Math circles, arcs, and sectors guide](/1997/07/24/sat-math-circles-arcs-sectors-radians/) provides the full arc and sector framework. For angle relationships in polygons and parallel lines that appear alongside triangle geometry, the [SAT Math angles, parallel lines, and polygons guide](/1997/06/14/sat-math-angles-parallel-polygon/) covers those connections. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Right Triangles Special Triangles Unit Circle](/assets/images/blog/blog-09.webp)
+![SAT Math Right Triangles Special Triangles Unit Circle](/assets/images/blog/blog-88.webp)
 
 ## The Pythagorean Theorem and Its Most Important Applications
 

@@ -6,9 +6,9 @@ date: 1997-08-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Percentages", "Problem Solving", "Data Analysis"]
 excerpt: "Master SAT percent change, markups, discounts, tax, and the multiplier method with this complete Digital SAT guide."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1997-08-07
 ---
 
@@ -16,7 +16,7 @@ Percentage questions appear two to four times on every Digital SAT administratio
 
 This guide covers the complete Digital SAT treatment of percentage problems: computing a percent of a number, the multiplier method that is the single most efficient technique for the entire category, successive percent changes and why they never simply add, markup and discount calculations in retail scenarios, sales tax and tip calculations, finding the original price before a discount or tax was applied, and the percent change formula with special attention to which value goes in the denominator. Each of these topics is tested at multiple difficulty levels, and the guide covers the specific question formats and trap answers the College Board uses at each level so that preparation is as targeted and efficient as possible. For the broader context of word problem translation that underlies all percentage word problems, the companion [SAT Math word problem translation guide](/1997/06/27/sat-math-word-problem-translation/) covers the full linguistic-to-algebraic translation framework. For the connection between percentage growth and exponential functions, the [SAT Math exponential functions guide](/1997/08/25/sat-math-exponential-functions/) explains how percentage growth rates become exponential factors. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Percent Change Markups Discounts Tax](/assets/images/blog/blog-05.webp)
+![SAT Math Percent Change Markups Discounts Tax](/assets/images/blog/blog-57.webp)
 
 ## Why Percentage Questions Reward the Multiplier Method
 

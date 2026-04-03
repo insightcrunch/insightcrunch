@@ -6,9 +6,9 @@ date: 1997-08-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Scatter Plots", "Statistics", "Data Analysis"]
 excerpt: "Master SAT scatter plots, line of best fit, correlation, residuals, and regression question types with this complete Digital SAT guide."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-08-11
 ---
 
@@ -18,7 +18,7 @@ The students who miss scatter plot and regression questions are not missing them
 
 This guide covers the complete Digital SAT treatment of scatter plots and regression: reading scatter plots for trends and outliers, interpreting the line of best fit and its equation, making predictions using the regression model, understanding the correlation coefficient, the correlation-vs-causation distinction that the College Board tests on virtually every administration, residuals and what they represent, and choosing the appropriate model type (linear vs nonlinear). For context on how scatter plots connect to broader data interpretation and frequency table skills, the [complete SAT Problem Solving and Data Analysis guide](/2021/04/08/sat-problem-solving-data-analysis-complete-guide/) covers the full domain. The companion articles on [two-way tables and conditional probability](/1997/07/15/sat-math-two-way-tables-probability/) and [standard deviation, mean, and median](/1997/07/11/sat-math-standard-deviation-mean-median/) round out the three most heavily tested statistical topics on the Digital SAT.
 
-![SAT Math Scatter Plots Line of Best Fit Regression](/assets/images/blog/blog-04.webp)
+![SAT Math Scatter Plots Line of Best Fit Regression](/assets/images/blog/blog-31.webp)
 
 ## What the SAT Actually Tests in Scatter Plot Questions
 

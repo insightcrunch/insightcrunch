@@ -6,9 +6,9 @@ date: 1997-06-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Geometry", "Volume", "3D Geometry"]
 excerpt: "Master SAT volume and surface area for prisms, cylinders, cones, spheres and pyramids, plus the scaling principle, composite solids, and cross-sections."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-06-18
 ---
 
@@ -16,7 +16,7 @@ Three-dimensional geometry questions appear one to two times on every Digital SA
 
 This guide covers the complete Digital SAT treatment of 3D geometry: reading the reference sheet formulas and understanding what each variable represents, applying the formulas to rectangular prisms, cylinders, cones, spheres, and pyramids, the scaling principle (the most frequently tested 3D concept on the SAT), composite solid problems, reverse engineering (finding a dimension from a given volume), and cross-sections of common 3D shapes. For the circle geometry that underlies cylinder and cone base calculations, the companion [SAT Math circles, arcs, and sectors guide](/1997/07/24/sat-math-circles-arcs-sectors-radians/) provides the full circular area and arc framework. For the right triangle relationships needed in 3D diagonal and slant height calculations, the [SAT Math right triangles guide](/1997/07/20/sat-math-right-triangles-unit-circle/) provides the Pythagorean theorem and special triangle tools. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Volume Surface Area 3D Geometry](/assets/images/blog/blog-01.webp)
+![SAT Math Volume Surface Area 3D Geometry](/assets/images/blog/blog-33.webp)
 
 ## The Reference Sheet: What Is Provided and How to Read It
 

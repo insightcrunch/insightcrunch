@@ -6,9 +6,9 @@ date: 1997-07-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Complex Numbers", "Advanced Math", "Algebra"]
 excerpt: "Master SAT complex numbers: the i-power cycle, adding, subtracting, multiplying with FOIL, dividing with conjugates, and the connection to quadratic discriminants."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1997-07-02
 ---
 
@@ -18,7 +18,7 @@ The Digital SAT's treatment of complex numbers is deliberately narrow. The Colle
 
 This guide covers the complete Digital SAT treatment of complex numbers: the definition of i and why it exists, the i-power cycle and how to simplify i to any power efficiently, adding and subtracting complex numbers by combining like parts, multiplying using FOIL with the i squared substitution, dividing using the conjugate to eliminate i from the denominator, and the connection between complex numbers and the quadratic discriminant. For the polynomial context where complex roots appear as a consequence of negative discriminants, the companion [SAT Math polynomial zeros, factors, and remainders guide](/1997/07/06/sat-math-polynomial-zeros-factors/) provides the factoring and zero analysis framework. For the radical expressions that are related to imaginary numbers through the square root of negative numbers, the [SAT Math radicals and rational equations guide](/1997/08/20/sat-math-radicals-rational-equations/) covers square root manipulation. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Complex Numbers Operations Imaginary Unit](/assets/images/blog/blog-13.webp)
+![SAT Math Complex Numbers Operations Imaginary Unit](/assets/images/blog/blog-23.webp)
 
 ## The Imaginary Unit i: Definition and Motivation
 

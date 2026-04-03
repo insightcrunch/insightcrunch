@@ -6,9 +6,9 @@ date: 1997-06-05
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Desmos", "Digital SAT", "Calculator Strategy"]
 excerpt: "Master every Desmos technique for the Digital SAT: graphing, intersections, zeros, equivalence checks, tables, sliders, regression, circles, and the decision framework."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1997-06-05
 ---
 
@@ -20,7 +20,7 @@ The Desmos calculator in the Digital SAT Bluebook is a full-featured version of 
 
 For the systems of equations context where Desmos intersection-finding is most powerful, the companion [SAT Math systems of equations guide](/1997/07/29/sat-math-systems-no-infinite-solutions/) provides the algebraic framework. For the equivalent expression context where the Desmos equivalence check saves the most time, the [SAT Math equivalent expressions guide](/1997/06/23/sat-math-equivalent-expressions/) explains the algebraic structure behind the check. For the Digital SAT format and adaptive module system that determines when Desmos matters most, the [complete Digital SAT guide](/2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/) provides the full context. For timed practice applying these techniques, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Desmos Calculator Strategy Digital SAT](/assets/images/blog/blog-04.webp)
+![SAT Desmos Calculator Strategy Digital SAT](/assets/images/blog/blog-46.webp)
 
 ## Technique 1: Graphing Functions and Equations
 
