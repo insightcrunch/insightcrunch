@@ -10,24 +10,19 @@
   =====================================================
 {% endcomment %}
 
-<div class="tweet-embed-wrap{% if include.align == 'center' %} tweet-center{% elsif include.align == 'right' %} tweet-right{% endif %}">
-  <blockquote class="twitter-tweet" data-dnt="true" data-theme="{% if site.twitter_theme %}{{ site.twitter_theme }}{% else %}light{% endif %}">
-    <a href="https://twitter.com/twitter/status/{{ include.id }}">View on X</a>
-  </blockquote>
-  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<div class="tweet-embed-wrap{% if include.align == 'center' %} tweet-center{% elsif include.align == 'right' %} tweet-right{% endif %}" markdown="0"><blockquote class="twitter-tweet" data-dnt="true" data-theme="{% if site.twitter_theme %}{{ site.twitter_theme }}{% else %}light{% endif %}"><a href="https://twitter.com/twitter/status/{{ include.id }}">View on X</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <style>
-  .tweet-embed-wrap {
-    margin: 1.8em 0;
-    max-width: 550px;
-  }
-  .tweet-embed-wrap.tweet-center {
-    margin-left: auto;
-    margin-right: auto;
-  }
-  .tweet-embed-wrap.tweet-right {
-    margin-left: auto;
-    margin-right: 0;
-  }
+.tweet-embed-wrap {
+  margin: 1.8em 0;
+  max-width: 550px;
+}
+.tweet-embed-wrap.tweet-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+.tweet-embed-wrap.tweet-right {
+  margin-left: auto;
+  margin-right: 0;
+}
 </style>
