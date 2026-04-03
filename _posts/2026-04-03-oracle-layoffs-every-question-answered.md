@@ -9,7 +9,7 @@ tags: ["oracle layoffs", "oracle layoffs 2026", "oracle layoffs reddit", "oracle
 excerpt: "Hundreds of the most-asked questions about Oracle's March 2026 mass layoffs answered in full, sourced directly from Reddit threads, Blind posts, LinkedIn reactions, and X discussions. Severance, visa status, India cuts, stock outlook, and what comes next."
 image: "/assets/images/blog/blog-59.webp"
 read_time: 58
-author: "patrick-dunn"
+author: "ian-fletcher"
 ---
 
 On the morning of March 31, 2026, tens of thousands of Oracle employees opened their inboxes and found their careers had been ended in five sentences. The email came from "Oracle Leadership." No manager. No HR call. No warning. Just a message saying the role had been eliminated effective that day, followed by DocuSign instructions. System access was cut within minutes of delivery.
