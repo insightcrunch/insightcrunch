@@ -1,0 +1,57 @@
+{% comment %}
+  =====================================================
+  InsightCrunch Tweet Embed Include
+  =====================================================
+  Usage (in any post markdown):
+    {% include tweet.html id="1234567890123456789" %}
+
+  Optional align (left | center | right, default: left):
+    {% include tweet.html id="1234567890123456789" align="center" %}
+
+  Notes:
+  - widgets.js is NOT loaded here. It is loaded once at
+    the bottom of post.html via a DOM-detection snippet.
+  - data-dnt="true" disables Twitter cross-site tracking.
+  - The fallback blockquote renders cleanly if JS is blocked.
+  =====================================================
+{% endcomment %}
+
+<div class="tweet-embed-wrap{% if include.align == 'center' %} tweet-center{% elsif include.align == 'right' %} tweet-right{% endif %}">
+  <blockquote class="twitter-tweet" data-dnt="true" data-theme="{% if site.twitter_theme %}{{ site.twitter_theme }}{% else %}light{% endif %}">
+    <a href="https://twitter.com/i/web/status/{{ include.id }}">Loading tweet...</a>
+  </blockquote>
+</div>
+
+<style>
+  .tweet-embed-wrap {
+    margin: 1.8em 0;
+    max-width: 550px;
+  }
+  .tweet-embed-wrap.tweet-center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .tweet-embed-wrap.tweet-right {
+    margin-left: auto;
+    margin-right: 0;
+  }
+  /* Fallback styling if widgets.js is blocked */
+  .tweet-embed-wrap blockquote.twitter-tweet:not([data-twitter-extracted-i]) {
+    border-left: 4px solid var(--amber, #d4a373);
+    background: var(--surface, #f9f9f9);
+    padding: 1em 1.2em;
+    font-style: italic;
+    font-size: 0.95em;
+    color: var(--fg, #1a1a1a);
+    border-radius: 4px;
+    margin: 0;
+  }
+  .tweet-embed-wrap blockquote.twitter-tweet:not([data-twitter-extracted-i]) a {
+    color: var(--amber, #d4a373);
+    text-decoration: none;
+    font-style: normal;
+    font-size: 0.85em;
+    display: block;
+    margin-top: 0.5em;
+  }
+</style>
