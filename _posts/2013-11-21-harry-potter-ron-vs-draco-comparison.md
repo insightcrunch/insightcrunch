@@ -5,9 +5,9 @@ date: 2013-11-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ron Weasley", "Draco Malfoy", "Pure-Blood", "Character Comparison"]
 excerpt: "Ron Weasley and Draco Malfoy in Harry Potter - both pure-blood wizarding families. One inherits poverty and love, one inherits wealth and expectation. Family culture matters more than family status."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-11-21
 ---
 ## Introduction: The Same Blood, Two Entirely Different Inheritances
@@ -16,7 +16,7 @@ Ron Weasley and Draco Malfoy are both pure-blood wizards. Both come from familie
 
 They are emphatically not. They are, from the precise moment they meet on the Hogwarts Express - a compartment, two strangers, and a decision Harry makes that the rest of the series will confirm - representations of two entirely different answers to the question of what pure-blood status means and what it is for. Draco offers Harry his hand and tells him the Weasleys are not the sort of family Harry should associate with. Ron sits across from Harry eating his mother's sandwiches and sharing his sweets. The choice Harry makes in that compartment - to stay with Ron rather than take Draco's hand - is the series' first major moral choice, and it is a choice between two versions of what the wizarding world could be organized around: status and connection, blood and love, the hierarchy that tells you who is beneath you and the friendship that tells you who is beside you.
 
-![Ron Weasley vs Draco Malfoy comparison in Harry Potter](/assets/images/blog/blog-08.webp)
+![Ron Weasley vs Draco Malfoy comparison in Harry Potter](/assets/images/blog/blog-79.webp)
 
 The thesis the comparison makes through seven books is the same thesis the train compartment encodes in miniature: that family culture matters more than family status, that what a family teaches its children to value is more determinative than what it can offer them materially or socially, and that the specific form of love - abundant, demonstrative, economically strained, loud, occasionally overwhelming, sometimes embarrassing to its recipients - that the Weasley household provides is more formative than the specific form of expectation - exacting, conditional, ideologically organized, materially generous - that the Malfoy household installs. Both boys inherit their families completely, in the sense that matters most: not the material resources or the social position, but the values, the psychology, the specific form of self-worth that the family makes available. The comparison is about what it means to inherit something and what the inheritance makes you.
 

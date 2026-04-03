@@ -5,9 +5,9 @@ date: 2013-09-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Dumbledore", "Gandalf", "Mentorship", "Literary Analysis", "Tolkien", "Wizard Archetypes"]
 excerpt: "Both are the wise old wizard who guides the young hero. But Dumbledore withholds truth strategically while Gandalf withholds it because he genuinely doesn't know. The comparison reveals fundamentally different theories of mentorship."
-image: "/assets/images/blog/blog-51.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2013-09-08
 ---
 
@@ -21,7 +21,7 @@ Gandalf does not know - not in the same way. He knows general patterns, ancient 
 
 This distinction produces two entirely different models of the wise old wizard, and the comparison illuminates something important about both series' most fundamental philosophical commitments.
 
-![Dumbledore vs Gandalf: The Manipulator and the Companion](/assets/images/blog/blog-51.webp)
+![Dumbledore vs Gandalf: The Manipulator and the Companion](/assets/images/blog/blog-14.webp)
 
 ---
 

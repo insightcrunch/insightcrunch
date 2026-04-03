@@ -5,9 +5,9 @@ date: 2013-11-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "James Potter", "Severus Snape", "Lily Potter", "Character Comparison"]
 excerpt: "James Potter and Snape in Harry Potter - the bully and his victim loved the same woman. She chose the bully. The comparison is the series' most uncomfortable moral problem."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2013-11-10
 ---
 ## Introduction: The Bully, the Victim, and the Woman Between Them
@@ -16,7 +16,7 @@ James Potter and Severus Snape are the series' most uncomfortably matched pair. 
 
 The comparison is the series' most uncomfortable moral problem precisely because Rowling refuses to resolve it into a comfortable verdict, and because the refusal is the point. She does not let James be simply the heroic father who died protecting his family. She shows us, in the Pensieve in *Order of the Phoenix*, exactly what James was at fifteen: a boy who levitated Snape upside down in front of a crowd, who threatened to expose Snape's underwear, who performed cruelty with the easy confidence of someone who has never faced a consequence for the performance. And she does not let Snape be simply the bullied victim whose suffering excuses everything. She shows us, in the same Pensieve, Snape's response to Lily's defense - the moment he calls her a Mudblood, the specific cruelty of rejecting the person who just tried to protect him, the evidence that Snape had been choosing an identity that could not accommodate Lily long before Lily made her final choice. Both men are implicated. Neither is innocent. The moral problem lives in the space between them.
 
-![James Potter vs Snape character comparison in Harry Potter](/assets/images/blog/blog-10.webp)
+![James Potter vs Snape character comparison in Harry Potter](/assets/images/blog/blog-39.webp)
 
 The thesis here is the most specific and the most honest available to this particular comparison, and it requires holding two uncomfortable assessments simultaneously without collapsing either into the other: both men are right about each other in the ways that matter most, and both are wrong about each other in the ways that are most convenient for their own self-image. James is right - even if he arrived at the assessment through contempt rather than through clear-eyed analysis - that Snape was choosing the Death Eater path and that path was incompatible with the person Snape claimed to be when he was around Lily. Snape is right that James was a bully whose treatment of him was unjust and whose appeal to Lily required Lily to overlook things that a woman of her ethical clarity should, in principle, not have been willing to overlook - and that Lily did overlook, because people are complicated and because love and principle do not always point in the same direction. Both assessments are accurate. Neither man is capable of seeing the full picture that the reader is given. Harry, caught between them - the bully's face, the victim's protector's sacrifice, the name that honors both of them to the bewilderment of the fandom - is the specific inheritance of a moral problem that neither man resolved and that the series declines to resolve on their behalf.
 

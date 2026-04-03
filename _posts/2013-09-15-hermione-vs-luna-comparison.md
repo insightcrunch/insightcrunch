@@ -5,9 +5,9 @@ date: 2013-09-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Hermione Granger", "Luna Lovegood", "Epistemology", "Character Analysis", "Literary Analysis"]
 excerpt: "Hermione believes what can be proved. Luna believes what cannot be disproved. Rowling sides with neither, because the series requires both the empiricist and the visionary to survive."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2013-09-15
 ---
 
@@ -19,7 +19,7 @@ Hermione believes what can be proved. Her intelligence is the intelligence of th
 
 Luna believes what cannot be disproved. Her intelligence is the intelligence of the most specifically open available mind: she observes, she intuits, she perceives things that are not available to the standard empirical toolkit. When something cannot be proved she remains open, and when something is dismissed she most specifically does not update because dismissal is not the same as disproof. Her relationship to knowledge is the relationship of the most genuinely curious available explorer: possibility first, evidence second, with genuine willingness to hold uncertainty without resolving it prematurely.
 
-![Hermione Granger vs Luna Lovegood: The Empiricist and the Visionary](/assets/images/blog/blog-52.webp)
+![Hermione Granger vs Luna Lovegood: The Empiricist and the Visionary](/assets/images/blog/blog-39.webp)
 
 Rowling presents both as valid forms of intelligence and then, crucially, sides with neither. The series needs the empiricist to navigate the most specifically dangerous available situations with the most specifically reliable available information. It needs the visionary to perceive what the empiricist cannot, to accept what the empiricist cannot research her way through, and to model the specific form of courage that comes from being genuinely indifferent to other people's assessment of whether your beliefs are acceptable.
 

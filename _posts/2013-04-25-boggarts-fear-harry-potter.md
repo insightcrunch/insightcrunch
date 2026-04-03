@@ -5,9 +5,9 @@ date: 2013-04-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Boggarts", "Fear", "Psychology", "Prisoner of Azkaban", "Literary Analysis", "Character Analysis"]
 excerpt: "The Boggart lesson is the single most psychologically revealing scene in the Harry Potter series. The fears Rowling chooses for each character tell us more about them than any dialogue - and the fears she withholds tell us more still."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-04-25
 ---
 
@@ -17,7 +17,7 @@ The Boggart is the Harry Potter series' most brilliantly simple magical inventio
 
 The thesis this article will argue is that the Boggart lesson in *Prisoner of Azkaban* is the single most psychologically revealing scene in the series, and that the fears Rowling assigns to each character are as carefully chosen as any other element of their characterisation. The fear each character's Boggart takes says something specific about what they most fear losing, what wound they carry most deeply, what the specific quality of their courage is - because courage is always the courage to face a specific fear rather than an abstract one. Neville Longbottom fears Snape rather than Bellatrix Lestrange. This tells us more about Neville's specific wounds than a chapter of backstory would. Lupin fears the full moon rather than death or Voldemort. This is the most compressed available statement of what his condition costs him most. Hermione fears failure rather than any person or creature. This is the most precise available portrait of where her deepest anxieties live.
 
-![Boggarts and Fear in Harry Potter](/assets/images/blog/blog-25.webp)
+![Boggarts and Fear in Harry Potter](/assets/images/blog/blog-50.webp)
 
 The Boggart also reveals through what it does not show. Harry's Boggart is addressed at the end of the lesson by Lupin, who has intervened before the lesson began to prevent Harry from facing it. The revelation that Harry's Boggart takes the form of a Dementor rather than of Voldemort - which Harry later realises himself and which Lupin confirms - is the series' most specific statement about what Harry most fears: not death, not Voldemort, not the Dark Lord who killed his parents, but the despair and the stripping of hope that the Dementors represent. This distinction tells us something profound about the specific quality of Harry's psychological constitution, and Lupin's understanding of it tells us something equally profound about Lupin.
 

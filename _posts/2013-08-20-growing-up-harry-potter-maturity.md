@@ -5,9 +5,9 @@ date: 2013-08-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Maturity", "Growing Up", "Book 5", "Harry's Anger", "Dumbledore", "Moral Complexity", "Literary Analysis"]
 excerpt: "Book 1 is a fairy tale. Book 7 is a war novel. The series ages with its reader, and the moral complexity increases with each installment in ways that make re-reading as an adult a fundamentally different experience."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2013-08-20
 ---
 
@@ -19,7 +19,7 @@ Book Seven is a war novel. Adults die. The people Harry trusted are more complic
 
 The thesis this article will argue is that the Harry Potter series is the most precisely calibrated available popular series in terms of the developmental alignment between the fictional world's moral complexity and the reader's developing moral capacity. The series ages with its reader. A child who begins the series at nine or ten and reads one book approximately per year will encounter the series' increasing moral complexity at approximately the same rate that their own cognitive and emotional development most specifically equips them to receive it. And the adult who returns to the series will find the books genuinely different - not simply more nostalgic or less surprising but actually different in the most specific available sense of the moral dimension that the adult most specifically sees and the child most specifically could not.
 
-![Growing Up With Harry Potter: How the Series Ages With Its Reader](/assets/images/blog/blog-48.webp)
+![Growing Up With Harry Potter: How the Series Ages With Its Reader](/assets/images/blog/blog-47.webp)
 
 ---
 

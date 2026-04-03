@@ -5,9 +5,9 @@ date: 2013-11-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Minerva McGonagall", "Dolores Umbridge", "Authority", "Character Comparison"]
 excerpt: "McGonagall and Umbridge in Harry Potter - both women in positions of authority at Hogwarts, both operating by rules. Only one uses authority to protect."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2013-11-16
 ---
 ## Introduction: The Same Institution, Two Entirely Different Things
@@ -16,7 +16,7 @@ Hogwarts produces both of them. Both are women in positions of institutional aut
 
 This is Rowling's most direct and most politically applicable argument about institutional power, and she makes it through the most concentrated possible contrast: two women, same title, same building, same formal position in the hierarchy, the same rules at their disposal, the same students in their care, producing opposite outcomes in every respect that matters. McGonagall's authority protects students, challenges unjust orders, and ultimately places herself physically between students and the harm that Umbridge's version of authority has been inflicting throughout the year. Umbridge's authority tortures students, silences anyone who threatens her control, and ultimately represents the series' most sustained argument that the smile on bureaucratic evil is the most dangerous thing it has.
 
-![McGonagall vs Umbridge authority comparison in Harry Potter](/assets/images/blog/blog-04.webp)
+![McGonagall vs Umbridge authority comparison in Harry Potter](/assets/images/blog/blog-74.webp)
 
 The thesis here is the one the series makes through the full arc of *Order of the Phoenix* and then confirms in *Deathly Hallows* when Umbridge runs the Muggle-Born Registration Commission with the same efficiency and the same smile and the same pink cardigan that she wore when running Hogwarts: that authority exercised in service of compliance - of ensuring that the people beneath you do not challenge the institutional structure you represent - is not a lesser version of good authority. It is the opposite of good authority. Rowling has been explicit about this across her career, and her view of the petty institutional authoritarian as potentially worse than the grandly evil villain is confirmed in the specific form her public statements take:
 

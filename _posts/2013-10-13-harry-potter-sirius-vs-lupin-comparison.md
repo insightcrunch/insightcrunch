@@ -5,9 +5,9 @@ date: 2013-10-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Remus Lupin", "Outcasts", "Character Comparison"]
 excerpt: "Sirius Black and Remus Lupin in Harry Potter - two outcasts, one friendship, and two irreconcilable ways of surviving a world that rejected both of them."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-10-13
 ---
 ## Introduction: Two Survivors, One Friendship
@@ -16,7 +16,7 @@ They were the last two standing, and neither of them was quite whole. Of the ori
 
 This comparison is the series' most intimate, because it is not fundamentally about ideology or about opposed forces. Sirius and Lupin are on the same side, have always been on the same side, and they die within two years of each other in the same war. What separates them is not allegiance but temperament - specifically, the temperament of response to exclusion. Both men have been rejected by the world they live in. Sirius was wrongly imprisoned for twelve years in the wizarding world's most brutal institution, stripped of his name and his innocence in a single night. Lupin was born a werewolf, which in the series' world is less a medical condition than a social death sentence: he is feared, unemployable, legally constrained, and dependent on an expensive potion to maintain the human identity that everyone else takes for granted. Neither man chose their exclusion. Both have been living inside it for the entirety of their adult lives.
 
-![Sirius Black vs Remus Lupin character comparison in Harry Potter](/assets/images/blog/blog-06.webp)
+![Sirius Black vs Remus Lupin character comparison in Harry Potter](/assets/images/blog/blog-02.webp)
 
 The thesis of this comparison is this: Sirius rages against his exclusion, and Lupin accommodates it. Sirius treats the world's rejection as an affront to be resisted, refused, overcome by sheer force of self. Lupin treats it as a condition to be managed, apologized for, worked around with careful patience and preemptive self-limitation. Both responses are understandable. Both responses are, in their different ways, tragic. The rage kills Sirius when it leads him through the veil. The accommodation comes close to destroying Lupin when it leads him to abandon Tonks and his unborn child because he cannot believe that someone like him deserves to be someone's husband and father. And the tragedy of their friendship - never quite recovered, never quite repaired, ended before it is restored - is that two men who each had exactly the quality the other needed could not find a way to give it to each other in time.
 

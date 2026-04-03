@@ -5,9 +5,9 @@ date: 2013-08-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Wand Lore", "Elder Wand", "Identity", "Twin Cores", "Neville", "Symbolism", "Literary Analysis"]
 excerpt: "Wands in Harry Potter are not tools but relationships. The wand chooses the wizard, and the choice reveals something true about both. The Elder Wand is power that corrupts precisely because it works too well."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-08-05
 ---
 
@@ -19,7 +19,7 @@ This means that every significant wand moment in the series is also a character 
 
 The thesis this article will argue is that Rowling builds an entire theory of identity around wand lore: that the wand's most specific choice of the most specifically relevant available wizard is the most accurate available assessment of the most specifically relevant available person's most genuine available quality, that the wand's most specific loyalty follows the most specifically genuine available demonstration of the most specifically relevant available quality rather than the most specifically claimed available possession, and that the Elder Wand is the series' most concentrated available argument about what happens to the most powerful available instrument when the most powerful available instrument is most specifically deployed in the most specifically power-seeking available service rather than in the most specifically genuine available relationship.
 
-![Wand Lore in Harry Potter: Object Symbolism, Identity, and the Relationship That Cannot Be Faked](/assets/images/blog/blog-45.webp)
+![Wand Lore in Harry Potter: Object Symbolism, Identity, and the Relationship That Cannot Be Faked](/assets/images/blog/blog-57.webp)
 
 ---
 

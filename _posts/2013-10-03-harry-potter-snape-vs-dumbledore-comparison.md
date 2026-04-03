@@ -5,9 +5,9 @@ date: 2013-10-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Albus Dumbledore", "Ethics", "Character Comparison"]
 excerpt: "Snape and Dumbledore in Harry Potter - one planned the murder, one committed it. Who carried the greater moral burden?"
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-10-03
 ---
 ## Introduction: The Murder That Was a Gift
@@ -16,7 +16,7 @@ Dumbledore asked Snape to kill him. Snape did it. The wizarding world branded Sn
 
 This is the comparison the series saves for its most uncomfortable examination. Snape and Dumbledore are not mirror opposites like Harry and Voldemort. They are not even structurally opposed like Molly and Narcissa. They are collaborators in the deepest sense - two men who shared a secret for sixteen years, who played their roles in a scheme neither of them fully disclosed to the other, who died in a sequence that one of them designed and the other had to execute. The question the comparison forces is not "which man was better" but something considerably harder: when a person uses another person's love as a strategic instrument, does it matter how much they admire the instrument? Does Dumbledore's genuine regard for Snape make the use of him less exploitative? Does Snape's willing participation absolve Dumbledore of the responsibility for what that participation cost?
 
-![Snape vs Dumbledore character comparison in Harry Potter](/assets/images/blog/blog-12.webp)
+![Snape vs Dumbledore character comparison in Harry Potter](/assets/images/blog/blog-31.webp)
 
 The thesis here is this: both men are chess players, and both men sacrifice pieces with clarity and purpose. But Dumbledore sacrifices himself alongside the pieces he moves, while Snape sacrifices himself without ever understanding the full board. This asymmetry - knowledge vs ignorance of the plan's full scope - is the comparison's moral fulcrum. Dumbledore knows everything. Snape is told only what he needs to know. And the question of whether this withholding constitutes a betrayal is the most serious ethical charge in the entire series - more serious, in a way, than Voldemort's crimes, because Voldemort never claimed to love the people he sacrificed, and Dumbledore, in his own imperfect way, genuinely did.
 

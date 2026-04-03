@@ -5,9 +5,9 @@ date: 2013-08-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Harry Potter", "Voldemort", "Tom Riddle", "Orphan Psychology", "Character Analysis", "Literary Analysis"]
 excerpt: "What separates the boy raised without love who becomes a hero from the boy raised without love who becomes a monster? Rowling's answer is not simply 'love' - it is the capacity to form attachments to equals rather than to seek dominion over inferiors."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-08-25
 ---
 
@@ -19,7 +19,7 @@ If the series were simply an argument that love defeats evil, we would expect th
 
 Tom Riddle cannot do this. He never could. From the orphanage, he demonstrates the psychology of the person who most specifically sees other people as objects to be managed, manipulated, or feared rather than as ends in themselves. This distinction - Harry's capacity for genuine connection versus Voldemort's fundamental incapacity for it - is the actual dividing line in the series. It is not love versus its absence. It is the capacity for connection versus the incapacity for it, which is a more precise and ultimately more tragic diagnosis.
 
-![Harry Potter vs Voldemort: The Same Wound, Opposite Scars](/assets/images/blog/blog-49.webp)
+![Harry Potter vs Voldemort: The Same Wound, Opposite Scars](/assets/images/blog/blog-09.webp)
 
 ---
 

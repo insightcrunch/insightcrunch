@@ -5,9 +5,9 @@ date: 2013-09-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Voldemort", "Tom Riddle", "Character Comparison"]
 excerpt: "Dumbledore and Voldemort in Harry Potter - two supremely gifted wizards shaped by the same school, separated by what they chose to love."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-09-28
 ---
 ## Introduction: The Mirror at the Center of the Series
@@ -16,7 +16,7 @@ Every major antagonist in literature requires a foil capable of matching them. T
 
 Both grew up without parents in the conventional sense. Both demonstrated magical gifts so extraordinary that the wizarding world recognized them as exceptional almost immediately. Both attended Hogwarts and left it as the most brilliant students their teachers had seen in a generation. Both became legends, both accumulated followers, both shaped the wizarding world in ways that outlasted them. The surface parallels are so consistent that Rowling cannot possibly have constructed them accidentally. She is arguing something. The argument is this: talent is morally neutral. Formation is morally neutral. Even suffering is morally neutral. What a person does with these materials is the only question that finally matters.
 
-![Dumbledore vs Voldemort character comparison in Harry Potter](/assets/images/blog/blog-05.webp)
+![Dumbledore vs Voldemort character comparison in Harry Potter](/assets/images/blog/blog-15.webp)
 
 The difference between Albus Dumbledore and Lord Voldemort is not intelligence - they are equals here, and Rowling never pretends otherwise. The difference is what each man loved. Dumbledore loved people, imperfectly and inconsistently and with a capacity for catastrophic error, but genuinely. Voldemort loved power: completely, without reservation, without the confusion or dilution that human attachment inevitably produces. This single difference generates every other difference the series dramatizes. It explains why Dumbledore can be defeated (he has things he does not want to lose) and why Voldemort ultimately cannot win (he has nothing to lose that constitutes a self worth preserving). It explains why Dumbledore's mistakes are recoverable and Voldemort's final miscalculation is fatal. And it explains - most uncomfortably - why Dumbledore understands Voldemort better than any other character in the series: because he recognizes the temptation from the inside.
 

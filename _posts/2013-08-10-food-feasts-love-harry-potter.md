@@ -5,9 +5,9 @@ date: 2013-08-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Food", "Feasts", "Hogwarts", "Molly Weasley", "House-Elves", "Deathly Hallows", "Love", "Community", "Literary Analysis"]
 excerpt: "Food in Harry Potter is never just food. It is Rowling's most consistent metaphor for love, community, and belonging. Harry starves at the Dursleys and feasts at Hogwarts. The equation is that simple, and that devastating."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-08-10
 ---
 
@@ -21,7 +21,7 @@ The feast at Hogwarts is the most compressed available reversal of this. When Ha
 
 The thesis this article will argue is that food in the Harry Potter series is the series' most consistent available metaphor for love, community, and belonging - that the specific relationship between the most specifically relevant available characters and the most specifically relevant available food is the most accurate available portrait of the specific relationship between those characters and the most specifically relevant available community that provides or withholds the food.
 
-![Food and Feasts in Harry Potter: Nourishment as Love, Communion, and the Politics of Who Eats](/assets/images/blog/blog-46.webp)
+![Food and Feasts in Harry Potter: Nourishment as Love, Communion, and the Politics of Who Eats](/assets/images/blog/blog-80.webp)
 
 ---
 

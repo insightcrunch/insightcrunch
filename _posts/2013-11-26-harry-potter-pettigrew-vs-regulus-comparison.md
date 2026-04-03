@@ -5,9 +5,9 @@ date: 2013-11-26
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Regulus Black", "Betrayal", "Character Comparison"]
 excerpt: "Pettigrew and Regulus Black in Harry Potter - both were followers who turned. One from good to evil, one from evil to good. The direction of the turning matters more than the duration of the loyalty."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2013-11-26
 ---
 ## Introduction: The Turn and What It Makes You
@@ -16,7 +16,7 @@ Peter Pettigrew and Regulus Black are the Harry Potter series' most precisely pa
 
 The comparison's thesis is the one that the entire contrast encodes from its first juxtaposition to its final material image in the cave, and it is the series' most precise and most personal argument about moral character: that the direction of the turning matters more than the duration of the loyalty that preceded it, that what you do with your limit is more revealing than how long it took you to find it, that the final act is more diagnostic of character than the years of loyalty that preceded the test. Pettigrew was loyal to his friends for most of his Hogwarts years, and then he was not. Regulus was loyal to Voldemort for years after leaving Hogwarts, serving the Death Eater cause with whatever the young Black heir was capable of contributing, and then he was not. The duration of each man's loyalty is long. Neither man was a quick convert. Both held their positions for enough time to be genuinely tested, to know what they were committed to and what the commitment was costing. And then both turned - in opposite directions, for opposite reasons, toward opposite outcomes. The turning is the comparison. What the turning reveals about each man - about what kind of person had been inside the apparent loyalty all along - is the argument.
 
-![Pettigrew vs Regulus Black comparison in Harry Potter](/assets/images/blog/blog-09.webp)
+![Pettigrew vs Regulus Black comparison in Harry Potter](/assets/images/blog/blog-19.webp)
 
 The comparison gains its most important element from the timeline: both men's turnings happen in the same approximate period - the years of the First Wizarding War - and the two turnings are related. Pettigrew's information about the Potters' location, given to Voldemort out of fear, is the same information that activated the Horcrux system Regulus was trying to dismantle. Pettigrew's betrayal and Regulus's counter-betrayal are happening in the same approximate months of the same war, with outcomes that converged on the same child and shaped his entire life from the lightning scar outward. The comparison between them is not just a comparison between two individuals. It is a comparison between two responses to the same moral situation - the situation of being a follower in a cause that is testing the follower's capacity for genuine loyalty - and what the two responses produce.
 

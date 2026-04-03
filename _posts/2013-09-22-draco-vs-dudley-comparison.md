@@ -5,9 +5,9 @@ date: 2013-09-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Draco Malfoy", "Dudley Dursley", "Privilege", "Character Analysis", "Literary Analysis"]
 excerpt: "Both are spoiled boys who bully Harry. Both are products of their parents' worst qualities. Only one shows genuine change. The question is what makes the difference, and the answer is more uncomfortable than it first appears."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-09-22
 ---
 
@@ -19,7 +19,7 @@ Both Draco and Dudley are products of parental indulgence operating in the servi
 
 Harry lives alongside both boys. He watches Draco from across a social world defined by their competing claims within the Wizarding world. He lives inside the world Dudley inhabits for ten years. Both boys bully him. Both are trained in it by their parents. And yet by the end of the series, one of them has placed a cup of tea outside Harry's door on the morning of a farewell, while the other has performed an ambiguous half-redemption that most specifically satisfies very few available readers.
 
-![Draco Malfoy vs Dudley Dursley: Two Bullies, One Question About Change](/assets/images/blog/blog-53.webp)
+![Draco Malfoy vs Dudley Dursley: Two Bullies, One Question About Change](/assets/images/blog/blog-38.webp)
 
 The most specifically available question the comparison produces is not which boy is worse. It is which form of indulgence is more deforming, what each boy most specifically fears when the most specifically comfortable available world is taken away, and why the quieter available redemption turns out to be the more convincing one.
 

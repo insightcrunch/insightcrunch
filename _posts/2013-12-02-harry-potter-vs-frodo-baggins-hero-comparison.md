@@ -5,9 +5,9 @@ date: 2013-12-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Tolkien", "Fantasy Literature", "Character Analysis", "Literary Comparison", "Harry Potter", "Frodo Baggins", "Heroism", "Lord of the Rings", "Cross-Literary"]
 excerpt: "Harry Potter and Frodo Baggins - both reluctant heroes carrying burdens they didn't choose. Both walk willingly toward sacrificial death. The comparison is the most ambitious in this series."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-12-02
 ---
 ## Introduction: Two Heroes, One Question
@@ -16,7 +16,7 @@ This is the hundredth comparison in a series that began, ninety-nine articles ag
 
 Harry Potter and Frodo Baggins are the two most widely read fantasy heroes of their respective generations. Both were carried into the world's consciousness by books that did something genuinely unprecedented with the specific population of reader they addressed: they produced adult readers from children, they created communities of interpretation that survive decades after initial publication, they became the imaginative infrastructure of entire generations' understanding of what it means to be good and what it means to resist evil. Both heroes are small in every dimension the world uses to measure significance - not in physical stature alone but in social position, in initial capability, in the specific humility of their origins. Neither chose the burden that defines their story. Both carried it to the end without putting it down or finding a way around it. Both walked willingly toward their own deaths.
 
-![Harry Potter vs Frodo Baggins cross-literary hero comparison](/assets/images/blog/blog-10.webp)
+![Harry Potter vs Frodo Baggins cross-literary hero comparison](/assets/images/blog/blog-28.webp)
 
 The thesis of the final comparison is also the thesis of the final argument the series wants to make: that the greatest fantasy literature of the twentieth century arrives at the same place from different directions, encoding the same argument about what heroism actually is through the most different possible heroes, in the most different possible worlds, constructed from the most different possible mythological and literary traditions. Harry and Frodo are emphatically not the same character, and the comparison is most valuable when it insists on this. But the comparison between them reveals something that neither reveals alone: that the heroism worth reading about - the heroism that endures across decades and centuries and cultures - is always the heroism of the person who carries what they did not ask to carry, who goes to the place they do not want to go, who walks toward death not because they are unafraid but because they have understood that the walk is necessary.
 

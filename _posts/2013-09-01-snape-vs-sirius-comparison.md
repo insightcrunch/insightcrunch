@@ -5,9 +5,9 @@ date: 2013-09-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Snape", "Sirius Black", "Displaced Love", "Character Analysis", "Literary Analysis"]
 excerpt: "Both men were damaged by their pasts. Both men loved people connected to Harry. Both saw James Potter when they looked at Harry. The question is which form of displaced love caused more damage to its object."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-09-01
 ---
 
@@ -19,7 +19,7 @@ Snape is the harder case. He spends seventeen years making Harry's school experi
 
 Sirius is the easier case and the more seductive trap. He is warm, charismatic, genuinely delighted to have Harry in his life. He also consistently mistakes Harry for James - treats Harry like the friend he lost rather than the godson he has, encourages risks that serve Sirius's need for action rather than Harry's need for safety. His love is real and its expression is in some ways more damaging than Snape's cruelty because it comes wrapped in warmth and is therefore harder to name as a problem.
 
-![Snape vs Sirius Black: Two Men Who Saw James Potter When They Looked at Harry](/assets/images/blog/blog-50.webp)
+![Snape vs Sirius Black: Two Men Who Saw James Potter When They Looked at Harry](/assets/images/blog/blog-71.webp)
 
 ---
 

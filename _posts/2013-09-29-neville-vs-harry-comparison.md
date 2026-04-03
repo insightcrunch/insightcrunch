@@ -5,9 +5,9 @@ date: 2013-09-29
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Neville Longbottom", "Harry Potter", "Prophecy", "Destiny", "Character Analysis", "Literary Analysis"]
 excerpt: "The prophecy could have meant either boy. Voldemort chose Harry. This comparison is really about the arbitrariness of heroism and whether destiny exists or is retroactively constructed by the people who survive."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-09-29
 ---
 
@@ -19,7 +19,7 @@ He chooses Harry because Harry is the half-blood. He recognises in Harry what he
 
 This is the most specifically concentrated available argument the comparison between Harry and Neville most specifically produces: destiny in this series is not something that exists independently of the people who act within it. It is retroactively constructed by the most specifically available choices of the most specifically available people involved. Voldemort chose Harry, and the choosing made Harry the Chosen One. If he had chosen Neville, Neville would have become the Chosen One. The prophecy does not predetermine; it most specifically describes what the most specifically available choice will produce after the fact.
 
-![Neville Longbottom vs Harry Potter: The Chosen One Question](/assets/images/blog/blog-54.webp)
+![Neville Longbottom vs Harry Potter: The Chosen One Question](/assets/images/blog/blog-33.webp)
 
 The comparison between Harry and Neville is the series' most honest available examination of what heroism actually is, whether it is innate or constructed, and what it most specifically costs the people who are most specifically shaped by it without most specifically having chosen the shaping.
 

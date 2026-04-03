@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Dobby and Kreacher in Harry Potter - one arrives free and devoted, one arrives enslaved and hostile. Together they make the same argument about what loyalty really means."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-11-05
 ---
 ## Introduction: Two Creatures Who Make the Same Argument

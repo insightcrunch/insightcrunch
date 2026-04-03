@@ -5,9 +5,9 @@ date: 2013-08-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Deathly Hallows", "Elder Wand", "Resurrection Stone", "Invisibility Cloak", "Character Analysis", "Death", "Literary Analysis"]
 excerpt: "The Deathly Hallows function as a personality test disguised as a fairy tale. Each Hallow represents a response to death, and which Hallow each character desires reveals their deepest nature more honestly than anything they say about themselves."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2013-08-15
 ---
 
@@ -19,7 +19,7 @@ This is the fairy tale. The personality test is more subtle and more devastating
 
 The thesis this article will argue is that the Deathly Hallows function as the series' most concentrated available character-diagnostic instrument. The Elder Wand is chosen by the person whose relationship to death is the relationship of the fighter - the person who believes that power is the solution to the problem of mortality, that if you are strong enough death cannot claim you. The Resurrection Stone is chosen by the person whose relationship to death is the relationship of the griever - the person who has lost someone they cannot bear to have lost and who would give anything to have them back in any available form. The Invisibility Cloak is chosen by the person whose relationship to death is the relationship of the accepter - the person who understands that death is not an enemy to be fought or a loss to be reversed but a fact of life to be lived alongside.
 
-![Deathly Hallows as Character Test: What Each Hallow Reveals About the Person Who Desires It](/assets/images/blog/blog-47.webp)
+![Deathly Hallows as Character Test: What Each Hallow Reveals About the Person Who Desires It](/assets/images/blog/blog-28.webp)
 
 ---
 

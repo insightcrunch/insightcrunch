@@ -5,9 +5,9 @@ date: 2013-10-24
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rubeus Hagrid", "Remus Lupin", "Mentorship", "Character Comparison"]
 excerpt: "Hagrid and Lupin in Harry Potter - both outsiders, both mentors, both essential. One taught Harry the world is wondrous. The other taught him it is dangerous."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-10-24
 ---
 ## Introduction: The Two Lessons Harry Could Not Have Learned Elsewhere
@@ -16,7 +16,7 @@ Harry Potter arrives in the wizarding world knowing nothing about it. He arrives
 
 The thesis of this comparison is equally simple and equally difficult to hold simultaneously: Hagrid teaches Harry that the world is wondrous. Lupin teaches Harry that the world is dangerous. Rowling understood, as any serious writer of the coming-of-age narrative must understand, that both lessons are necessary and neither alone is survivable. Harry needs both lessons, in that order, with roughly that emphasis, and the specific sequencing - Hagrid first, with the wonder, and then Lupin in the third year, with the structure and the Patronus Charm and the carefully calibrated lessons in facing what frightens you - is not accidental. Rowling understood that a child who has been told only that the world is dangerous will never be brave. And a child who has been told only that the world is wonderful will never be prepared. The two lessons need each other, and the two men who teach them need to be understood in relation to each other, because each illuminates what the other could not provide.
 
-![Hagrid vs Lupin comparison in Harry Potter](/assets/images/blog/blog-02.webp)
+![Hagrid vs Lupin comparison in Harry Potter](/assets/images/blog/blog-44.webp)
 
 What makes this comparison genuinely rich rather than merely structural, and what makes it one of the series' most rewarding pairings to examine is the question of what marginalization does to a person when it is survived rather than surrendered to. Both men have been pushed to the edges of the wizarding world by the specific form their difference takes - Hagrid's giant blood, Lupin's lycanthropy - and both have responded to this pushing in ways that are as different as their characters and as formative for the mentors they eventually become. The exclusion is not incidental to their value as teachers. It is the source of the specific gift each carries. Hagrid responds by expanding: his warmth, his enthusiasm, his willingness to include and to welcome, become larger in proportion to how much the world has tried to contain him. Lupin responds by contracting: his self-management, his careful apology, his preemptive self-limitation, become more intricate in proportion to how long the world has told him he requires management. Both men's characters are, in part, responses to the specific form of exclusion they have experienced. And both men, in teaching Harry, teach from that response - which is what makes each lesson both essential and incomplete on its own.
 

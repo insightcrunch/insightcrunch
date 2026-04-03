@@ -5,9 +5,9 @@ date: 2013-10-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fred Weasley", "George Weasley", "Draco Malfoy", "Character Comparison"]
 excerpt: "Fred, George, and Draco in Harry Potter - all three are clever, all three wield that cleverness as power. What you do with your intelligence is the definitive moral test."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-10-18
 ---
 ## Introduction: Three Clever Boys and One Moral Test
@@ -16,7 +16,7 @@ The Harry Potter series contains many forms of intelligence. Hermione's is analy
 
 The comparison that Rowling builds between the twins and Draco is not made explicit in the text - they do not share many scenes, they do not acknowledge each other as competitors, they occupy opposite ends of the house system that Hogwarts uses to define social allegiance. But the structural parallel is one of the series' most deliberate: three clever, perceptive, socially powerful young people from different families, each using the same fundamental gift - the ability to understand what will hurt or delight - in service of completely different ends. Fred and George use it to deflate authority, to comfort the frightened, to build something joyful out of nothing, and finally to equip a student population with the tools of practical resistance. Draco uses it to enforce hierarchy, to locate the vulnerabilities in people he has decided are beneath him, and to perform the supremacy that his family's ideology requires him to demonstrate.
 
-![Fred George Weasley vs Draco Malfoy comparison in Harry Potter](/assets/images/blog/blog-14.webp)
+![Fred George Weasley vs Draco Malfoy comparison in Harry Potter](/assets/images/blog/blog-50.webp)
 
 The thesis here is simple and Rowling states it in structure rather than in words, across seven books, without ever needing to announce it: intelligence is not a virtue. Wit is not a virtue. Perceptiveness is not a virtue. What you do with these qualities - what they serve, what they build or destroy, whether they expand or diminish the people around you - is the only measure that matters. Fred and George pass this test so thoroughly that their passing becomes, by the Battle of Hogwarts, a form of heroism that the series ranks alongside every act of conventional courage. Draco fails it so consistently that his most sympathetic moment is the moment he finally cannot act at all. The comparison is Rowling's most direct argument about what makes a person good or bad: not the quality of the gift they were born with or developed, but the direction they choose to point it, and what they build or destroy with the pointing.
 

@@ -5,9 +5,9 @@ date: 2013-09-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Molly Weasley", "Narcissa Malfoy", "Motherhood", "Character Comparison"]
 excerpt: "Molly Weasley and Narcissa Malfoy in Harry Potter - two mothers who would do anything for their children, on opposite sides of a war."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-09-23
 ---
 ## Introduction: The Same Love in Opposite Uniforms
@@ -16,7 +16,7 @@ The Harry Potter series stages its most resonant confrontation not between hero 
 
 This comparison is not merely a structural coincidence. Rowling designs it with precision. The "Not my daughter, you bitch" moment in *Harry Potter and the Deathly Hallows* and Narcissa's whispered lie to Voldemort in the Forbidden Forest are not parallel accidents. They are the series' two most concentrated explosions of maternal power, and they detonate in the same chapter sequence, within pages of each other. One mother screams. The other whispers. Both get what they came for.
 
-![Molly Weasley vs Narcissa Malfoy character comparison in Harry Potter](/assets/images/blog/blog-09.webp)
+![Molly Weasley vs Narcissa Malfoy character comparison in Harry Potter](/assets/images/blog/blog-56.webp)
 
 The thesis of this comparison is this: Rowling uses Molly and Narcissa to argue that maternal love is not a virtue in itself - it is a *force*, as morally neutral as electricity, as potentially destructive as any spell. What differentiates these two women is not the quality of their love but the direction it points. Molly's love radiates outward, extending to children who are not hers. Narcissa's love collapses inward, excluding everything except the specific face of a specific boy. Both forms are presented as absolute, as non-negotiable, as the one thing in the series that Voldemort genuinely cannot model or manipulate. The question the comparison raises - and refuses to cleanly answer - is whether Rowling ultimately awards both forms equal dignity, or whether she privileges Molly's expansive love at the cost of reducing Narcissa to a narrower version of the same type.
 

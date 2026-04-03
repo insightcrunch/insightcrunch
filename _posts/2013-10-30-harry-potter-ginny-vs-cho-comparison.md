@@ -5,9 +5,9 @@ date: 2013-10-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ginny Weasley", "Cho Chang", "Romance", "Character Comparison"]
 excerpt: "Ginny Weasley and Cho Chang in Harry Potter - both are Harry's loves, but only one is his equal. The comparison reveals what Rowling believes lasting love requires."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-10-30
 ---
 ## Introduction: The Love Harry Could Have and the Love He Needed
@@ -16,7 +16,7 @@ Harry Potter falls for two girls across seven books, and the series handles each
 
 The comparison between these two women is the series' most debated romance question, and it is debated with unusual heat because the text is, on the surface, not fair to Cho. She is grieving. She is described as crying during her first kiss with Harry. She is positioned by the narrative as the wrong choice - the sympathy that is not understanding, the grief that cannot be set aside, the love that is too entangled with loss to have room for Harry's specific kind of need. Ginny, by contrast, is presented as the right choice: strong where Cho is fragile, direct where Cho is complicated, capable of having her own darkness and her own history without requiring Harry to manage them for her. The narrative's thumb is on the scale from the moment it introduces both women, and the question the comparison forces is whether the thumb is serving a genuine insight about what love requires or whether it is demonstrating a bias about which forms of female emotional expression are acceptable.
 
-![Ginny Weasley vs Cho Chang comparison in Harry Potter](/assets/images/blog/blog-08.webp)
+![Ginny Weasley vs Cho Chang comparison in Harry Potter](/assets/images/blog/blog-44.webp)
 
 The thesis here runs in two directions simultaneously, which is the most honest and the only fully adequate response to this particular comparison: Rowling's argument about what constitutes lasting love - that it requires mutual understanding at the level of each person's specific darkness, not just sympathy for their losses - is genuine and defensible and grounded in the real difference between empathy and sympathy. Her execution of that argument through the Cho-Ginny comparison is not always fair, and the ways it is unfair to Cho illuminate something real about the series' treatment of female emotional expression. Both things are true. Holding them simultaneously is the work this comparison requires.
 

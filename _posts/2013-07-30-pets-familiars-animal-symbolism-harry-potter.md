@@ -5,9 +5,9 @@ date: 2013-07-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Pets", "Familiars", "Hedwig", "Scabbers", "Crookshanks", "Nagini", "Fawkes", "Animal Symbolism", "Literary Analysis"]
 excerpt: "Every significant animal in Harry Potter is a character in miniature. The relationship between owner and familiar reveals not what they perform for others, but what they are when they believe no one important is watching."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-07-30
 ---
 
@@ -19,7 +19,7 @@ This is why Scabbers is the most important animal in the series. Not Fawkes, who
 
 The thesis this article will argue is that Rowling uses the animal companion as the series' most precise characterisation instrument - that what a character chooses, keeps, and treats as a familiar reveals the character's most private nature more reliably than their stated beliefs, their public conduct, or even their most dramatic choices. The familiar is the unguarded self.
 
-![Pets, Familiars, and Animal Symbolism in Harry Potter](/assets/images/blog/blog-44.webp)
+![Pets, Familiars, and Animal Symbolism in Harry Potter](/assets/images/blog/blog-36.webp)
 
 ---
 

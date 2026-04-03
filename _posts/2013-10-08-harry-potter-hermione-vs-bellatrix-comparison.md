@@ -5,9 +5,9 @@ date: 2013-10-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Bellatrix Lestrange", "Brilliance", "Character Comparison"]
 excerpt: "Hermione Granger and Bellatrix Lestrange in Harry Potter - two brilliant witches whose devotion defines them, on opposite sides of everything."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-10-08
 ---
 ## Introduction: The Same Gift, Opposite Directions
@@ -16,7 +16,7 @@ The Harry Potter series is built on mirrors. Harry and Voldemort. Neville and Ha
 
 The comparison the series makes through them is the most unsettling of all its mirrors, because it forces a question that the series' moral clarity usually allows the reader to avoid: is brilliance a virtue? The obvious answer is yes. Hermione's intelligence is presented from page one as one of the series' great goods - it saves Harry's life repeatedly, it solves problems that courage alone cannot solve, it is the engine of the trio's survival across seven books. But Bellatrix is also brilliant. She is the most skilled combat witch the Death Eaters possess. She defeated the entire Order of the Phoenix's best fighters at the Battle of the Department of Mysteries. She trained Draco in Occlumency. She killed Sirius Black and, in *Deathly Hallows*, nearly killed Ginny Weasley before Molly ended her. Her power is not in question. The question is what the power is for.
 
-![Hermione Granger vs Bellatrix Lestrange character comparison in Harry Potter](/assets/images/blog/blog-05.webp)
+![Hermione Granger vs Bellatrix Lestrange character comparison in Harry Potter](/assets/images/blog/blog-70.webp)
 
 The thesis of this comparison is this: Rowling uses Hermione and Bellatrix to demonstrate that brilliance and devotion are morally neutral forces. They become good or evil only through their objects - what the brilliant person loves, what the devoted person has given themselves over to. Hermione's intelligence is directed toward liberation, toward the protection of the people she loves, toward the accumulation of knowledge as a form of power that expands rather than diminishes others. Bellatrix's equal intelligence is directed toward destruction, toward the service of a man whose defining project is the annihilation of everyone Hermione would fight to protect. The gift is identical. The direction is everything. And the comparison's most uncomfortable implication is that, had the circumstances been even slightly different, the directions could have been reversed.
 
