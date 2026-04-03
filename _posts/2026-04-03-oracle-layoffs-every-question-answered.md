@@ -7,12 +7,14 @@ last_updated: 2026-04-03
 categories: ["Industry"]
 tags: ["oracle layoffs", "oracle layoffs 2026", "oracle layoffs reddit", "oracle layoffs blind", "oracle severance", "oracle h1b layoffs", "oracle india layoffs", "oracle netsuite layoffs", "tech layoffs 2026", "oracle job cuts", "larry ellison", "oracle ai", "oracle cloud layoffs", "oracle warn act"]
 excerpt: "Hundreds of the most-asked questions about Oracle's March 2026 mass layoffs answered in full, sourced directly from Reddit threads, Blind posts, LinkedIn reactions, and X discussions. Severance, visa status, India cuts, stock outlook, and what comes next."
-image: "/assets/images/blog/blog-14.webp"
-author: "james-carter"
+image: "/assets/images/blog/blog-59.webp"
+author: "patrick-dunn"
 read_time: 58
 ---
 
 On the morning of March 31, 2026, tens of thousands of Oracle employees opened their inboxes and found their careers had been ended in five sentences. The email came from "Oracle Leadership." No manager. No HR call. No warning. Just a message saying the role had been eliminated effective that day, followed by DocuSign instructions. System access was cut within minutes of delivery.
+
+![Oracle Layoffs 2026 Every Question Answered - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 What followed was one of the most active outpourings of collective shock the tech industry has ever produced online. Reddit's r/oracle and r/cscareerquestions lit up within the hour. Blind threads ran into the hundreds of replies within minutes. LinkedIn became a cascade of layoff announcements. X was flooded with screenshots of the termination email, commentary from industry observers, and reactions from affected workers who were still processing what had just happened.
 
@@ -565,7 +567,6 @@ Long-tenure employees may have different ADEA rights if over 40, different vesti
 **Is Oracle still a good place to work for the employees who survived?**
 
 The honest answer requires a few months of data. Post-layoff survivor sentiment is typically measured in ongoing engagement, attrition, and productivity, and none of those metrics are available yet. What is known is that Oracle's remaining workforce is being asked to execute a pivot of historical proportions with fewer people. That can create opportunity for people in the right roles. It can also create burnout, attrition, and dysfunction if the remaining headcount is structurally insufficient for the work that needs to be done.
-
 
 
 The DocuSign paperwork will specify your official termination date. Until you receive and review that documentation, treat your employment status as unclear and do not take financial or legal actions based on assumptions. If your system access was cut on March 31 but your DocuSign has not arrived, follow up with Oracle HR directly.
