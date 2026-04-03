@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oracle Layoffs 2026 Every Question Answered"
-page_title: "Oracle Layoffs 2026: Every Question From Reddit, Blind, and Tech Forums Answered in Full"
+page_title: "Oracle Layoffs 2026: The Definitive Guide to Every Question Being Asked Right Now"
 date: 2026-04-03
 last_updated: 2026-04-03
 categories: ["Industry"]
