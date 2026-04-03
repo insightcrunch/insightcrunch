@@ -5,9 +5,9 @@ date: 2013-06-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Hogwarts Houses", "Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff", "Sorting Hat", "Personality Theory", "Literary Analysis"]
 excerpt: "The Sorting Hat does not sort by trait but by value - what you prioritise when traits conflict. This reading resolves every apparent missort in the series and reveals its deepest institutional critique."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2013-06-10
 ---
 
@@ -19,7 +19,7 @@ Hermione Granger is brave and intelligent. She is among the most courageous char
 
 Severus Snape is brave and cunning. He demonstrates, across seventeen years of sustained double-agenting, a form of courage that the series ultimately presents as among its most complete available examples of genuine moral courage. He is also cunning in every dimension the word implies. The Sorting Hat places him in Slytherin because when bravery and cunning conflict - when the strategic choice and the courageous choice point in different directions - Snape defaults, at least in his formation years, to the strategic. His path from Death Eater to redeemed double agent is, among other things, the path of the person whose Slytherin-formation value hierarchy is gradually overridden by the specific form of love that Lily's memory represents.
 
-![Hogwarts Houses as Personality Theory](/assets/images/blog/blog-34.webp)
+![Hogwarts Houses as Personality Theory](/assets/images/blog/blog-81.webp)
 
 The thesis this article will argue is that the Sorting Hat is a personality theory in the specific sense that the most sophisticated available personality frameworks are personality theories: it identifies the specific value hierarchy that organises the person's choices when the values conflict, and it uses that hierarchy to predict the environment in which the person will most completely flourish. The house is not a description of what you are. It is a prediction of what you will most reliably choose when choices are hard, and a placement into the environment that most consistently rewards and develops the specific dimension of character that the value hierarchy most completely expresses.
 

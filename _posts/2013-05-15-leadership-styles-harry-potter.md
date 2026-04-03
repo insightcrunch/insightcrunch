@@ -5,9 +5,9 @@ date: 2013-05-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Leadership", "Dumbledore", "Voldemort", "Umbridge", "Harry Potter", "McGonagall", "Fudge", "Literary Analysis"]
 excerpt: "Harry Potter presents a comprehensive taxonomy of leadership. Its central argument: the best leaders lead reluctantly, for others, from within the group rather than above it."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-05-15
 ---
 
@@ -17,7 +17,7 @@ The Harry Potter series contains more distinct portraits of leadership than most
 
 The taxonomy is wide. Dumbledore leads through the specific combination of genuine wisdom, managed information, and the willingness to sacrifice individuals for what he has determined the larger good requires. Voldemort leads through terror, ideological commitment extracted at the price of servitude, and the specific conversion of the follower into an instrument of the leader's survival. Harry leads reluctantly, instinctively, from within the group and at genuine shared risk, earning loyalty by demonstrating that the risk he asks others to take is the risk he is already taking himself. Umbridge deploys bureaucratic authority stripped of wisdom, substituting institutional rules for the judgment that genuine authority requires. Fudge leads as an exercise in self-preservation, organising the Ministry around the protection of his own position rather than the serving of its actual function. McGonagall holds institutional authority with the specific floor of moral principle that distinguishes the professional from the mere functionary.
 
-![Leadership Styles in Harry Potter](/assets/images/blog/blog-29.webp)
+![Leadership Styles in Harry Potter](/assets/images/blog/blog-37.webp)
 
 The thesis this article will argue is that Rowling constructs these leadership portraits not as a simple good-versus-evil taxonomy but as a genuine analysis of what distinguishes leadership that serves the led from leadership that uses the led. The best leaders in the series are not the most powerful or the most intelligent. They are the leaders who lead for others rather than for themselves - who hold power as an instrument of service rather than as a source of personal security or validation. Harry is the series' most completely realised version of this model. And his specific form of reluctant, risk-sharing, from-within leadership is the series' argument about what genuine leadership consists of.
 

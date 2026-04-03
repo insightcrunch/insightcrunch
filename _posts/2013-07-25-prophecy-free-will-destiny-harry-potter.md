@@ -5,9 +5,9 @@ date: 2013-07-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Prophecy", "Free Will", "Destiny", "Philosophy", "Neville", "Voldemort", "Dumbledore", "Literary Analysis"]
 excerpt: "The prophecy is Rowling's great philosophical bait-and-switch. Voldemort believes the prophecy creates the conflict. Dumbledore understands it is empty. What defines us is not what is predicted but how we respond to prediction."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-07-25
 ---
 
@@ -19,7 +19,7 @@ This is the series' most sophisticated available philosophical argument, and it 
 
 The thesis this article will argue is that the Harry Potter series deploys the prophecy as its most specifically concentrated available argument about the relationship between the most available prediction and the most available freedom: that the most specifically relevant available prediction most directly becomes the most specifically relevant available destiny only when the most specifically relevant available person most specifically chooses to treat it as such, and that the most specifically relevant available freedom is precisely the freedom to most completely refuse the most available prediction's most specific claim on the most available life.
 
-![Prophecy, Free Will, and Destiny in Harry Potter](/assets/images/blog/blog-43.webp)
+![Prophecy, Free Will, and Destiny in Harry Potter](/assets/images/blog/blog-05.webp)
 
 ---
 

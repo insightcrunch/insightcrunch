@@ -5,9 +5,9 @@ date: 2013-06-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Half-Blood", "Identity", "Heritage", "Snape", "Voldemort", "Harry Potter", "Mixed Identity", "Literary Analysis"]
 excerpt: "The half-blood concept is Rowling's most sophisticated social metaphor - the person who belongs to two worlds and is fully accepted by neither. Snape, Voldemort, and Harry each resolve the tension differently."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-06-30
 ---
 
@@ -17,7 +17,7 @@ The half-blood concept in the Harry Potter series is Rowling's most sophisticate
 
 The three most significant half-blood characters in the series - Severus Snape, Tom Riddle, and Harry Potter - resolve the specific tension of the dual-world identity in three radically different ways. Snape chooses to identify with his wizarding side and to reject the specific dimension of his Muggle inheritance that most directly represents the specific form of the powerlessness that his Muggle father's contempt most specifically produced in him. Voldemort performs a more extreme version of the same move: the pathological denial of the Muggle heritage that is also the pathological denial of the specific dimension of himself that he most cannot bear to acknowledge. Harry is the series' model of the integrated identity - the person who is most completely comfortable in both worlds, who does not require the specific denial of either side of his heritage to be fully himself, and whose specific comfort in both worlds is the series' most direct argument about what the integrated identity most specifically looks like.
 
-![Half-Blood Identity in Harry Potter](/assets/images/blog/blog-38.webp)
+![Half-Blood Identity in Harry Potter](/assets/images/blog/blog-74.webp)
 
 The thesis this article will argue is that the half-blood analysis is the series' most sustained and most sophisticated engagement with the real-world experience of the person who inhabits the space between two cultures, two communities, or two worlds - and that the specific forms in which Snape, Voldemort, and Harry resolve the tension between their two inheritances are the most specific available portraits of the three available responses to the specific form of the identity crisis that the dual-world situation most directly produces. The choice is between the denial (Voldemort), the rejection of one side in favour of the other (Snape), and the integration (Harry) - and the series argues, through the specific outcomes that each response most directly produces, that the integration is the only available response that does not require the specific form of the self-division that the denial and the rejection most specifically impose.
 

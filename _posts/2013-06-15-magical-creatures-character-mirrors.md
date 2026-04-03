@@ -5,9 +5,9 @@ date: 2013-06-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Magical Creatures", "Buckbeak", "Fawkes", "Nagini", "Thestrals", "Centaurs", "Literary Analysis", "Symbolism"]
 excerpt: "Every significant magical creature in Harry Potter mirrors a human character or condition. Rowling uses them to say things about personhood that the human characters cannot say about themselves."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2013-06-15
 ---
 
@@ -17,7 +17,7 @@ In the Harry Potter series, no significant magical creature exists purely as wor
 
 Buckbeak and Sirius share the same trajectory: pride, wrongful conviction, imprisonment, escape, and a kind of permanent exile that ends in the specific violence the original wrongful conviction was supposed to have produced. Fawkes and Dumbledore share the same life cycle: death and rebirth, the willingness to take on the burning, the specific quality of the creature who cannot finally be destroyed. Nagini and Voldemort share the same reduction: both have moved progressively away from the full range of what a living creature can be toward the predatory single-mindedness of the creature that exists entirely in service of its appetite. The Thestrals and Harry share the specific form of the sight that only the experience of witnessed death produces. The centaurs and Firenze share the specific cost of choosing one community's values over another's.
 
-![Magical Creatures as Character Mirrors in Harry Potter](/assets/images/blog/blog-35.webp)
+![Magical Creatures as Character Mirrors in Harry Potter](/assets/images/blog/blog-36.webp)
 
 The thesis this article will argue is that the series' most significant magical creatures are not simply fantastic animals but arguments about the human condition - that each significant creature-character pairing illuminates something about the associated human character that the narrative's direct engagement with that character cannot as completely express, and that the cumulative effect of the creature-mirror system is a sustained philosophical argument about what it means to be a person, what can be taken from a person, and what cannot.
 

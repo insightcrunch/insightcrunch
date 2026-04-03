@@ -5,9 +5,9 @@ date: 2013-07-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Dursleys", "Vernon", "Petunia", "Dudley", "Child Abuse", "Mundane Evil", "Literary Analysis"]
 excerpt: "The Dursleys are more terrifying than Voldemort because they are real. Rowling's portrait of a family that abuses a child not from malice but from smallness is the series' most autobiographical and most devastating critique."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-07-20
 ---
 
@@ -17,7 +17,7 @@ The Harry Potter series opens not with Voldemort but with the Dursleys, and this
 
 The thesis this article will argue is that the Dursleys are the series' most genuinely terrifying portrait precisely because they are the most recognisably real available portrait in the most available seven books. Voldemort's specific evil is the evil of the person who has most completely destroyed the most specifically human available dimension of themselves in service of the most specifically extreme available project. The Dursleys' specific evil is the evil of the person who has most never most specifically developed the most humane available dimension of themselves - who has most specifically organised the most available inner life around the most specifically fearful and the most specifically small available orientation to the most available world, without the most dramatic available project that would make the smallness most specifically legible as the most available form of the evil it most directly is.
 
-![The Dursleys: Mundane Evil in Harry Potter](/assets/images/blog/blog-42.webp)
+![The Dursleys: Mundane Evil in Harry Potter](/assets/images/blog/blog-68.webp)
 
 The most important available argument about the Dursleys is not the argument about whether they are the most specifically intentional available villains. They are not. Vernon most specifically does not construct the most available system of the child's most complete deprivation from the most specifically malicious available motivation. He constructs it from the most specifically fearful available motivation: the most deeply available fear that the most extraordinary available thing - the most specifically magical available dimension of his most specifically orphaned nephew - will most directly expose the most specifically inadequate available dimension of his most specifically ordinary available life. This is the mundane evil in its most concentrated available form: the most specifically fearful available person's most specific organisation of the most available resources in service of the most specifically fearful available suppression of the most extraordinary available thing that most directly threatens the most comfortable available ordinary.
 

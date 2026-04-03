@@ -5,9 +5,9 @@ date: 2013-05-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Shakespeare", "Literary Analysis", "Snape", "Voldemort", "Dumbledore", "Malfoy", "Hamlet", "Macbeth", "Prospero"]
 excerpt: "Shakespeare is not merely an influence on Harry Potter - he is its structural DNA. Understanding which play maps to which character unlocks dimensions of the series that pure Harry Potter analysis misses."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-05-30
 ---
 
@@ -17,7 +17,7 @@ Every serious novelist is in conversation with Shakespeare whether they intend i
 
 Rowling is more consciously indebted to Shakespeare than most, and the specific pairings between her major characters and the Shakespearean archetypes they most directly embody are not coincidental resemblances but structural parallels - the kind that suggest the playwright and the novelist are working the same problem from different directions. Snape as Hamlet. Voldemort as Richard III. Dumbledore as Prospero. Harry as Henry V. The Malfoys as the Macbeths. Pettigrew as a corrupted Falstaff. Each of these pairings, pursued carefully, unlocks dimensions of the character that the pure "Harry Potter analysis" approach - looking only at the series' internal evidence - tends to undervalue.
 
-![Shakespeare in Hogwarts - Literary Analysis](/assets/images/blog/blog-32.webp)
+![Shakespeare in Hogwarts - Literary Analysis](/assets/images/blog/blog-19.webp)
 
 The thesis this article will argue is that Shakespeare is not simply an influence on Harry Potter but its structural DNA - that Rowling has built her major character arcs on Shakespearean templates, that these templates provide the most complete available account of why the characters are the way they are, and that reading the series through the Shakespeare lens reveals the specific literary tradition within which its most original achievements are most clearly visible. The originality is real: Rowling's characters are not simply Shakespeare's characters in different costumes. But the specific problems each of her characters is built around are problems that Shakespeare solved first, and understanding how Shakespeare solved them is the most direct available route to understanding what Rowling is doing.
 

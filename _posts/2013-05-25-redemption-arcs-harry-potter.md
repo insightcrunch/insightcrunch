@@ -5,9 +5,9 @@ date: 2013-05-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Redemption", "Snape", "Draco", "Regulus", "Percy", "Pettigrew", "Dumbledore", "Literary Analysis"]
 excerpt: "Rowling has a specific theory of redemption: it requires action at personal cost, not apology, regret, or good intentions. Snape earns it. Regulus earns it. Draco, despite fan affection, does not."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2013-05-25
 ---
 
@@ -17,7 +17,7 @@ The Harry Potter series is notable among popular fantasy for the rigour with whi
 
 This is the specific standard the series applies, and it explains why the series' redemption verdicts are so consistently surprising and so consistently defensible. Severus Snape is the series' most completely redeemed character, despite spending seventeen years performing the role of the most hostile authority figure in Harry's life, because his redemption is the product of the most sustained and most costly action at personal cost that the series documents. Regulus Black is redeemed, despite having spent most of his Hogwarts career as a Death Eater enthusiast, because his redemption is a specific act at the most extreme personal cost available. Peter Pettigrew has a single moment that might have been the beginning of redemption, which is extinguished before it can become anything, and the series presents the extinguishing as just rather than as cruel precisely because his redemption never translated into action. Draco Malfoy, who is the character the fan community most consistently argues deserves redemption, is the character whose redemption the series most carefully and most honestly withholds, because what Draco performs is not action at personal cost but the specific failure to commit the worst act - which is different from redemption in the specific way that distinguishes the series' theory from more sentimental alternatives.
 
-![Redemption Arcs in Harry Potter](/assets/images/blog/blog-31.webp)
+![Redemption Arcs in Harry Potter](/assets/images/blog/blog-47.webp)
 
 The thesis this article will argue is that Rowling constructs the redemption arc as the most morally demanding arc available in the series, requiring not the good intentions of the person who wishes they had been different but the specific costly action of the person who is willing to do something genuinely difficult in service of the thing they got wrong. The theory has its own compassion - it does not require perfection before the redemption begins - but its compassion is grounded in the specific form of the redeemed action rather than in the specific form of the redeeming feeling. The feeling matters. It is not sufficient. The action is what counts.
 

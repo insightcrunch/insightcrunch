@@ -5,9 +5,9 @@ date: 2013-04-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Loyalty", "Betrayal", "Snape", "Pettigrew", "Ron Weasley", "Percy Weasley", "Literary Analysis"]
 excerpt: "Rowling constructs loyalty and betrayal as the series' central moral axis - more important than good versus evil, more revealing than brave versus cowardly. Every major plot turn hinges on someone choosing to stay or choosing to leave."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-04-30
 ---
 
@@ -17,7 +17,7 @@ The Harry Potter series is usually described as a story about good versus evil, 
 
 Every major plot turn in the series hinges on this choice. Peter Pettigrew chooses to leave, and James and Lily Potter die. Snape chooses to stay, and the war is eventually won. Ron chooses to leave in the seventh book, and the Horcrux hunt nearly fails. Percy chooses to leave the Weasley family, and his return in the Battle of Hogwarts is the series' most specific portrait of what redemption from self-preserving betrayal looks like. The Sorting Hat chooses houses for first-years, but the series argues across seven books that the house you are sorted into is less important than the specific loyalties you choose to maintain when maintaining them becomes difficult.
 
-![Loyalty and Betrayal in Harry Potter](/assets/images/blog/blog-26.webp)
+![Loyalty and Betrayal in Harry Potter](/assets/images/blog/blog-39.webp)
 
 The thesis this article will argue is that Rowling constructs loyalty and betrayal as the series' most revealing moral axis - more revealing than simple good-versus-evil, more diagnostic of character than any single moment of heroism or cowardice. The person who stays when staying is costly is the person the series most consistently values. The person who leaves when leaving is easy is the person the series most consistently judges. But the series is also honest about the complexity between these positions: it documents cases of partial loyalty, of loyalty maintained imperfectly and inconsistently, of loyalty to the wrong thing, and of apparent betrayal that turns out to be the most sustained form of loyalty the series contains.
 

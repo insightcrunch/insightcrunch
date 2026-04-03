@@ -5,9 +5,9 @@ date: 2013-05-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Marauders", "James Potter", "Sirius Black", "Remus Lupin", "Peter Pettigrew", "Friendship", "Literary Analysis"]
 excerpt: "The Marauders are Rowling's argument that school friendships can save us or destroy us. The difference depends on whether the friendship makes you braver or simply makes you feel invincible."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-05-20
 ---
 
@@ -19,7 +19,7 @@ And the friendship produces James and Sirius's sustained cruelty toward Snape, L
 
 The thesis this article will argue is that the Marauder friendship is Rowling's most specific portrait of what happens when a tight school circle becomes a complete social universe - when the group becomes so self-sufficient and so internally validating that it loses the external friction that would have corrected the specific errors it was making. The friendship makes James and Sirius braver. It also makes them feel invincible, and the invincibility is the specific thing that produces the cruelty toward Snape, the complacency about Pettigrew, and the specific form of the group's eventual destruction. The friendship saves Lupin's life - without it, he would not have survived the specific psychological cost of his lycanthropy in adolescence - and the friendship is also what produces Lupin's silence, which is the specific form of complicity the series most carefully documents.
 
-![The Marauders in Harry Potter](/assets/images/blog/blog-30.webp)
+![The Marauders in Harry Potter](/assets/images/blog/blog-24.webp)
 
 The Marauder's Map is the friendship's most lasting creation, and it is worth examining what the map says about the friendship that created it. It is a tool for mischief - for navigating the castle to avoid detection, for knowing where the authority figures are at any given moment. It is also, as Harry uses it, a tool for survival: the specific piece of intelligence that most consistently allows Harry to navigate the series' most dangerous situations. The mischief-tool becomes a survival-tool, and the specific quality of the transformation illuminates what the Marauder friendship ultimately produced: not simply a set of adolescent adventures but a specific intelligence architecture that outlasted the specific people who built it and served purposes those people did not fully anticipate.
 

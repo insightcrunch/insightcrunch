@@ -5,9 +5,9 @@ date: 2013-06-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Mental Health", "Trauma", "PTSD", "Depression", "Grief", "Dementors", "Literary Analysis", "Psychology"]
 excerpt: "Harry Potter is one of the most psychologically honest depictions of childhood trauma in popular fiction, embedding clinical-grade PTSD symptomology in Harry's arc from Book 4 onward."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2013-06-05
 ---
 
@@ -17,7 +17,7 @@ Long before the Battle of Hogwarts, long before the graveyard in the fourth book
 
 The thesis this article will argue is that Harry Potter is one of the most psychologically honest depictions of childhood trauma and its long-term effects in popular fiction - that Rowling, whether deliberately or instinctively, embeds clinical-grade trauma symptomology in Harry's behaviour from the fourth book onward, that the Dementor mechanism is the series' most precise magical literalisation of depression and of the specific way that severe depression strips the person of access to positive memory, and that the series' most honest psychological portrait is not Harry's but Neville Longbottom's - the character whose specific form of grief without closure, whose specific experience of parents who are present but permanently unreachable, is the series' most unflinching portrait of what certain forms of loss actually look like in the people who carry them.
 
-![Mental Health and Trauma in Harry Potter](/assets/images/blog/blog-33.webp)
+![Mental Health and Trauma in Harry Potter](/assets/images/blog/blog-28.webp)
 
 The article will also examine the series' most significant psychological blind spot: the specific absence of any mechanism in the wizarding world for addressing psychological wounds. A world that can repair broken bones in minutes, that can manufacture potions for nearly any physical ailment, that has developed sophisticated magical interventions for almost every practical problem - this world has no therapy. It has no equivalent of the Muggle institutions that address trauma, depression, grief, and psychological damage. The absence is both realistic (it reflects the specific historical reality that mental health treatment has always lagged far behind physical medicine even in the non-magical world) and revealing: it is the most specific form of the wizarding world's specific limitations, the most available indicator of what the magical framework can and cannot address.
 

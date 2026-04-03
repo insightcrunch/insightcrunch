@@ -5,9 +5,9 @@ date: 2013-05-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Death", "Mortality", "Deathly Hallows", "Voldemort", "Horcruxes", "Literary Analysis", "Philosophy"]
 excerpt: "Harry Potter is a seven-book meditation on death. Its central argument - accepting mortality is ultimate courage - draws on Vedanta, Stoic ethics, and Christian resurrection theology."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2013-05-10
 ---
 
@@ -17,7 +17,7 @@ The Harry Potter series begins with a murder and ends with a resurrection. Betwe
 
 The argument is this: the refusal to accept death is the root of all evil in the wizarding world. Not cruelty. Not bigotry. Not the lust for power. Those are symptoms. The disease is Voldemort's primal terror of ceasing to exist, and every Horcrux, every murder, every act of domination flows from that single, screaming refusal. Rowling positions this against an insight that Dumbledore paraphrases without explicit attribution: the soul that understands death as transformation rather than annihilation is the soul that is free. Harry walks into the forest not because he is brave in the Gryffindor sense - charging at danger - but because he has understood something Voldemort never will. Death is not the enemy. The fear of death is.
 
-![Death and Mortality in Harry Potter](/assets/images/blog/blog-28.webp)
+![Death and Mortality in Harry Potter](/assets/images/blog/blog-16.webp)
 
 The thesis this article will argue is that the Harry Potter series uses its magical apparatus to conduct one of the most sustained philosophical examinations of mortality in popular fiction - an examination that draws simultaneously on Vedantic philosophy, Stoic ethics, and Christian theology of resurrection, weaving them into a single argument that the series' final chapters bring to its philosophical climax. The Deathly Hallows are not simply plot devices. They are the fairy-tale form of humanity's three fundamental responses to the fact of death: the response of the conqueror who tries to fight it, the response of the bargainer who tries to negotiate with it, and the response of the accepter who lives in full knowledge of it and is thereby freed from its terror. The Horcrux project is the extreme case of the conqueror's response. The Resurrection Stone is the most intimate form of the bargainer's. And Harry's walk into the Forbidden Forest is the series' most complete expression of the accepter's position - the person who has understood that the fear of death is a form of bondage, and that freedom from that fear is both the highest available form of courage and the only condition under which genuine life is possible.
 

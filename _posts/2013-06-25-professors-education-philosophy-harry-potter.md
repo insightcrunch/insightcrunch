@@ -5,9 +5,9 @@ date: 2013-06-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Education", "Lupin", "Snape", "Umbridge", "McGonagall", "Dumbledore", "Hagrid", "Literary Analysis", "Teaching"]
 excerpt: "Each Hogwarts professor embodies a different educational philosophy. The series argues - through Harry's experience - that the best teaching happens through relationship, not curriculum."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-06-25
 ---
 
@@ -19,7 +19,7 @@ The series' central argument about teaching is the argument that the best teachi
 
 The thesis this article will argue is that the Hogwarts teaching portraits are not simply portraits of good and bad teachers but a sustained philosophical argument about what education is ultimately for - about whether the teacher's primary obligation is to the curriculum, to the institution, or to the specific student who is most specifically in need of the specific form of the attention that the genuine teaching encounter most completely provides.
 
-![Professors and Education Philosophy in Harry Potter](/assets/images/blog/blog-37.webp)
+![Professors and Education Philosophy in Harry Potter](/assets/images/blog/blog-58.webp)
 
 ---
 

@@ -5,9 +5,9 @@ date: 2013-06-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Humor", "Comedy", "Fred and George", "Dumbledore", "Ron Weasley", "Voldemort", "Literary Analysis"]
 excerpt: "Humor in Harry Potter is never merely comic relief. It is a survival mechanism, a weapon, a form of resistance, and the series' most reliable moral diagnostic. How characters use humor reveals their quality more honestly than their stated beliefs."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-06-20
 ---
 
@@ -19,7 +19,7 @@ The thesis this article will argue is that Rowling uses humor as the series' mos
 
 Voldemort has no humor. This is not simply a personality trait. It is the series' most concentrated available statement about what the death-terror and the inability to love have done to the person who carries both: they have eliminated the specific form of the psychological freedom that humor most specifically requires. The person who is most completely enslaved by the terror of death and the fear of the loss that love would produce cannot afford the specific lightness that the joke requires. Voldemort cannot laugh at himself because there is no self-awareness available that is not immediately organised in service of the project of not dying. He cannot laugh with others because there is no genuine connection to others from which the shared laugh could emerge.
 
-![Humor and Comedy as Survival in Harry Potter](/assets/images/blog/blog-36.webp)
+![Humor and Comedy as Survival in Harry Potter](/assets/images/blog/blog-08.webp)
 
 Fred and George Weasley are the series' most sustained portrait of humor as resistance - as the specific form of the engagement with power that most completely refuses to treat the powerful as the power demands to be treated. Their joke shop is not simply a business. It is a political act - the specific declaration that the pleasures of laughter and inventiveness and the shared enjoyment of the clever trick are not things that the Voldemort-era's insistence on grimness can extinguish. Dumbledore's humor is the humor of the person who uses it to manage intimacy - to maintain the specific lightness that allows him to be present with the people he most loves without the specific weight of what he knows about their situation becoming unbearable for them. Ron's humor is the humor of the person who uses it to mask the specific insecurity that the Weasley youngest-son position has produced.
 

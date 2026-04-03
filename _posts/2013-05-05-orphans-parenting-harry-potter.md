@@ -5,9 +5,9 @@ date: 2013-05-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Orphans", "Parenting", "Tom Riddle", "Harry Potter", "Neville Longbottom", "Dursleys", "Literary Analysis"]
 excerpt: "The three boys who could have fulfilled the prophecy - Harry, Neville, and Tom Riddle - are all defined by parental absence. What fills that absence determines everything. Harry gets love. Neville gets expectation. Tom gets nothing. The outcomes follow."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2013-05-05
 ---
 
@@ -17,7 +17,7 @@ The Harry Potter series is at its most structurally precise when read as an exte
 
 Tom Riddle is born to a mother who dies and a father who abandons him, raised in an institution that cannot provide warmth, and becomes the series' chief villain. Harry Potter is orphaned at fifteen months, raised by relatives who withhold love and suppress his identity, and becomes the series' hero. Neville Longbottom has parents who are alive but permanently destroyed, raised by a grandmother whose love is real but whose method of expressing it is organised around what he is not rather than what he is, and becomes the series' quiet courage. These three outcomes - Voldemort, Harry, Neville - represent the series' most sustained argument about parenting: that what the absent or failed parent leaves behind, and what fills the space left behind, is the determining fact of a person's development in ways that no other single factor matches.
 
-![Orphans and Parenting in Harry Potter](/assets/images/blog/blog-27.webp)
+![Orphans and Parenting in Harry Potter](/assets/images/blog/blog-18.webp)
 
 The thesis this article will argue is that Rowling uses the orphan structure not as a conventional literary device for producing sympathetic heroes but as a genuine psychological argument about the relationship between early parenting and adult character. The three boys who could have been the prophesied child - Harry, Neville, and the third possibility of the prophecy who is only retrospectively revealed to be Tom Riddle himself - represent three different answers to the question of what parental absence produces. The answer is not determined by the absence alone but by the specific form of what fills the absence: the specific quality of the love or the expectation or the nothing that occupies the space where parenting should have been.
 

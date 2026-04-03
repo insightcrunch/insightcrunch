@@ -5,9 +5,9 @@ date: 2013-07-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Memory", "Truth", "Pensieve", "Snape", "Dumbledore", "Slughorn", "Literary Analysis", "Epistemology"]
 excerpt: "The Pensieve is not merely a plot device. It is Rowling's argument about the nature of truth itself - that memory is both more and less reliable than we believe, and that the truth about a person can only be assembled from multiple, conflicting memories."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-07-15
 ---
 
@@ -19,7 +19,7 @@ The Pensieve's specific magic makes visible what the series argues is the most i
 
 The thesis this article will argue is that the Pensieve is Rowling's most direct philosophical argument about epistemology - about how we know what we know, about what the most complete available truth requires from the person who most specifically seeks it, and about the specific relationship between the memory and the truth that the memory most specifically contains but also most specifically distorts.
 
-![Memory, Truth, and the Pensieve in Harry Potter](/assets/images/blog/blog-41.webp)
+![Memory, Truth, and the Pensieve in Harry Potter](/assets/images/blog/blog-87.webp)
 
 ---
 

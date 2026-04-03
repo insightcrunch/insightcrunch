@@ -5,9 +5,9 @@ date: 2013-07-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Ministry of Magic", "Political Satire", "Daily Prophet", "Umbridge", "Fudge", "Literary Analysis", "Politics"]
 excerpt: "The Ministry of Magic is Rowling's most detailed political critique - a government that fails not through overt tyranny but through bureaucratic inertia, media manipulation, and the weaponisation of procedural legitimacy against actual threats."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-07-10
 ---
 
@@ -19,7 +19,7 @@ The thesis this article will argue is that the Ministry of Magic is Rowling's mo
 
 The specific forms of this failure are documented across the five books in which the Ministry is most directly present as a political force: the Fudge-era denial and institutional capture, the Umbridge-era bureaucratic overreach, the Scrimgeour-era institutional weaponisation of procedural legitimacy, and the Death Eater-era infiltration that demonstrates most specifically how the institutions that most thoroughly capture themselves in service of the leadership's most immediate self-interest are also the institutions most specifically vulnerable to the most complete available capture by the most extreme available force.
 
-![Ministry of Magic as Political Satire](/assets/images/blog/blog-40.webp)
+![Ministry of Magic as Political Satire](/assets/images/blog/blog-50.webp)
 
 ---
 

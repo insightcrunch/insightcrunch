@@ -5,9 +5,9 @@ date: 2013-07-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Courage", "Bravery", "Neville", "Snape", "Narcissa", "Harry Potter", "Moral Courage", "Literary Analysis"]
 excerpt: "Rowling's most subversive argument: Gryffindor courage - running toward danger - is the least interesting form of bravery. True moral courage is quieter, costlier, and more fully chosen."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-07-05
 ---
 
@@ -19,7 +19,7 @@ The more interesting courage in the series is quieter, more sustained, more spec
 
 The thesis this article will argue is that the Harry Potter series is ultimately a sustained argument about the hierarchy of bravery - about the specific forms of courage that require the most from the person who performs them and that produce the most specific and most important outcomes in the series' moral architecture. The argument is that the most morally demanding forms of courage are the forms that require the sustained engagement with the specific cost of the courageous choice over time, in conditions where the alternative is most clearly available, and where the specific form of the courage most completely requires the person to act against their most immediate self-interest in service of something they have most specifically determined is worth the cost.
 
-![Courage and True Moral Bravery in Harry Potter](/assets/images/blog/blog-39.webp)
+![Courage and True Moral Bravery in Harry Potter](/assets/images/blog/blog-45.webp)
 
 ---
 
