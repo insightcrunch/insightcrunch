@@ -6,9 +6,9 @@ date: 2003-07-19
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Eligibility", "IAS Eligibility", "UPSC Age Limit", "UPSC Attempts"]
 excerpt: "Complete UPSC eligibility guide: age limits by category, attempt counts, degree requirements, reserved category rules and common mistakes."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 59
-author: "kavita-sharma"
+author: "Insight Crunch Team"
 last_updated: 2003-07-19
 ---
 
@@ -16,7 +16,7 @@ Before a single NCERT is opened, before a study schedule is drafted, before coac
 
 The UPSC eligibility rules, while precise, are spread across multiple official sources: the annual notification, the official UPSC rules, the Department of Personnel and Training guidelines, and service-specific physical standards documents. Coaching institutes rarely go into the full depth of these rules because edge cases do not come up often enough to be commercially relevant to teach. But if you are an edge case, the edge case matters entirely. This article covers every eligibility condition in the depth required to make a definitive determination about your own eligibility and to plan your preparation accordingly. For the broader context of what you are preparing for once you confirm eligibility, the [UPSC Civil Services complete overview](/2003/07/24/upsc-civil-services-complete-guide/) is the foundational companion article to this one.
 
-![UPSC Eligibility Age Limit Attempts Guide - Insight Crunch](/assets/images/blog/blog-76.webp)
+![UPSC Eligibility Age Limit Attempts Guide - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 ## Nationality and Citizenship: The First Gate
 
@@ -98,7 +98,7 @@ For PwBD (Persons with Benchmark Disability) candidates, the medical examination
 
 Candidates who have conditions that may affect medical clearance should seek a preliminary medical assessment well before the examination, not after qualifying, to understand which services they can realistically target and to plan accordingly. Discovering a disqualifying medical condition after investing years in preparation and succeeding at all three stages of the examination is a scenario that has occurred and is entirely avoidable with early due diligence.
 
-{% include tweet.html id="1523456789012345678" %}
+{% include tweet.html id="2024470011226767646" %}
 
 ## Reserved Category Provisions in Detail
 
@@ -136,7 +136,7 @@ Persons who were previously holding Indian citizenship and then acquired foreign
 
 Candidates with a gap year or gap years between completing their degree and appearing for UPSC are fully eligible. There is no provision in UPSC eligibility rules that penalizes or disqualifies candidates for having gaps in education or employment. The only metrics that matter are age, attempt count, educational qualification, and nationality.
 
-{% include tweet.html id="1534567890123456789" %}
+{% include tweet.html id="1962377389515935910" %}
 
 ## Common Eligibility Mistakes That Waste Years
 
