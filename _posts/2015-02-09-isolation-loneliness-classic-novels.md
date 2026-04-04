@@ -6,9 +6,9 @@ date: 2015-02-09
 categories: ["Leisure"]
 tags: ["isolation", "loneliness", "literary-comparison", "classic-literature", "frankenstein", "catcher-in-the-rye"]
 excerpt: "How classic novels explore isolation - loneliness as punishment, choice, and slow destruction of the soul."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2015-02-09
 ---
 
@@ -16,7 +16,7 @@ Isolation in classic literature is not a single available condition but three fo
 
 <!--more-->
 
-![Isolation and Loneliness in Classic Novels - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Isolation and Loneliness in Classic Novels - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The argument this analysis will make is that the greatest novels about isolation and loneliness are organized by three most urgently available primary formal categories of the most completely available isolation: the most dramatically available imposed isolation organized by the most genuinely available systematic external rejection; the most urgently available self-organized isolation organized by the most completely available most profound available most grief and the most dramatically available most resistance to connection; and the most urgently available institutionally organized isolation organized by the most completely available most publicly institutionalized available most shame. Each most genuinely available primary formal category most completely illuminates a most urgently available specific form of what the most dramatically available solitude does to the most genuinely available human soul, and the most urgently available comparison across the most completely available three primary formal categories illuminates the most genuinely available full range of the most dramatically available isolation as the most urgently available formally significant available instrument in classic literature. For the structural context of each individual novel, the [complete analysis of Frankenstein](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/), the [complete analysis of The Catcher in the Rye](https://insightcrunch.com/2014/07/24/complete-analysis-catcher-in-the-rye/), and the [complete analysis of The Scarlet Letter](https://insightcrunch.com/2014/12/01/complete-analysis-scarlet-letter/) provide the most completely available essential frameworks.
 

@@ -8,7 +8,7 @@ tags: ["power", "corruption", "literary-comparison", "classic-literature", "anim
 excerpt: "How classic novels expose power and corruption - from Napoleon the pig to Big Brother to Jack Merridew."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2015-02-14
 ---
 

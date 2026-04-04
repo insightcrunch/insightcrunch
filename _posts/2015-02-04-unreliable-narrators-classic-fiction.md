@@ -6,9 +6,9 @@ date: 2015-02-04
 categories: ["Leisure"]
 tags: ["unreliable-narrator", "literary-comparison", "nick-carraway", "holden-caulfield", "marlow", "literary-analysis"]
 excerpt: "Classic fiction's greatest unreliable narrators compared - why we trust them, why we should not, and why it matters."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2015-02-04
 ---
 
@@ -16,7 +16,7 @@ The unreliable narrator is the most formally sophisticated available instrument 
 
 <!--more-->
 
-![Unreliable Narrators in Classic Fiction - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Unreliable Narrators in Classic Fiction - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The thesis of this analysis is that the greatest unreliable narrators in classic fiction are organized by three most urgently available primary available formal categories of unreliability: the most completely available social aspiration as the most urgently available primary available organizing force of the most dramatically available most partial available most vision in Nick Carraway; the most completely available most profound available most grief as the most urgently available primary available organizing force of the most dramatically available most systematic available most resistance to experience in Holden Caulfield; and the most completely available most ideological framework as the most urgently available primary available organizing force of the most dramatically available most limits of the most genuinely available most honest available most witness in Marlow. Each most urgently available formal category most completely illuminates a specific available form of the most genuinely available most gap between what the narrator says and what the most completely available most careful available most reader perceives, and the most urgently available most comparison across the most genuinely available most three available most primary available formal categories illuminates the most completely available most full range of the most dramatically available most unreliable narrator as the most urgently available most formally significant available instrument. For the structural context of each narrator, the [complete analysis of The Great Gatsby](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/), the [complete analysis of The Catcher in the Rye](https://insightcrunch.com/2014/07/24/complete-analysis-catcher-in-the-rye/), and the [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) provide the most completely available essential frameworks.
 
