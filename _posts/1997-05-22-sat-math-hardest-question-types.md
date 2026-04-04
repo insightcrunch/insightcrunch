@@ -6,9 +6,9 @@ date: 1997-05-22
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Hard Questions", "Advanced Math", "Strategy"]
 excerpt: "Full worked solutions for the 15 hardest recurring Digital SAT Math question types: parametric systems, completing the square, exponential non-standard periods, discriminant analysis, circle equations, and more."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1997-05-22
 ---
 
@@ -18,7 +18,7 @@ This guide provides the complete worked solution for each of the fifteen hardest
 
 For the systems of equations algebraic foundation underlying Question Type 1, see the [SAT Math systems guide](/1997/07/29/sat-math-systems-no-infinite-solutions/). For the adaptive module context where these hard questions appear most frequently, see the [adaptive module strategy guide](/1997/05/31/sat-math-module-1-vs-2/). For the pacing strategy that allocates sufficient time to each of these question types, see the [SAT Math pacing guide](/1997/05/27/sat-math-pacing-strategy/). For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Hardest Question Types Worked Solutions](/assets/images/blog/blog-07.webp)
+![SAT Math Hardest Question Types Worked Solutions](/assets/images/blog/blog-58.webp)
 
 ## Question Type 1: Parametric Systems for No/Infinite Solutions
 

@@ -6,9 +6,9 @@ date: 1997-05-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Time Management", "Pacing", "Strategy"]
 excerpt: "Master the 3-pass strategy for SAT Math: Pass 1 for easy questions, Pass 2 for medium, Pass 3 for hard, with a minute-by-minute model walkthrough and Module 1 vs Module 2 pacing differences."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1997-05-27
 ---
 
@@ -18,7 +18,7 @@ The solution is the 3-pass strategy: a systematic, timed approach that visits ev
 
 This guide covers the complete pacing system: the 3-pass strategy in full detail, the 2-minute flag rule, the strategic skip decision, how Bluebook's flag feature works, the critical difference between Module 1 and Module 2 pacing, a minute-by-minute model walkthrough of an ideal module, and the self-calibration process that lets you customize the strategy to your own pacing tendencies. The adaptive module system that determines why Module 1 pacing differs from Module 2 pacing is covered in depth in [SAT Math adaptive modules and score ceilings](/1997/05/31/sat-math-module-1-vs-2/). The Desmos techniques that allow faster resolution of many medium and hard questions are covered in [SAT Desmos calculator strategy](/1997/06/05/sat-desmos-calculator-strategy/). For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Pacing Strategy 22 Questions 35 Minutes](/assets/images/blog/blog-06.webp)
+![SAT Math Pacing Strategy 22 Questions 35 Minutes](/assets/images/blog/blog-10.webp)
 
 ## The Core Problem: Why Default Pacing Fails
 
