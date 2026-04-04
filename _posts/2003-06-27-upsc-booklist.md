@@ -6,9 +6,9 @@ date: 2003-06-27
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Books", "IAS Booklist", "UPSC Preparation", "Study Material"]
 excerpt: "The definitive UPSC booklist with chapter-level guidance for Prelims, Mains and every GS paper."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-06-27
 ---
 
@@ -18,7 +18,7 @@ The book-buying impulse is psychologically understandable. When you feel anxious
 
 This article provides the definitive UPSC booklist with a level of specificity that no other free resource matches. For every recommended book, you will find not just the title and author but the specific chapters and topics that matter most for Prelims, the additional chapters needed for Mains, the chapters you can safely skip or skim, the approximate time each book requires, and a free or low-cost alternative where one exists. The goal is to give you a complete reading blueprint, from the NCERTs that form the foundation to the advanced references that provide the edge, organised by subject and by examination stage.
 
-![UPSC Booklist and Recommended Books - Insight Crunch](/assets/images/blog/blog-07.webp)
+![UPSC Booklist and Recommended Books - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 Before diving into the subject-wise recommendations, internalise the principle that governs this entire booklist and that should govern every book-purchasing decision you make throughout your preparation: five books read three times will always outperform fifteen books read once. The reason is neurological. Your brain retains information through repetition and active recall, not through one-time exposure. Reading Laxmikanth's "Indian Polity" three times, with each reading deeper and more focused than the last, produces a Polity knowledge base that can handle any question UPSC throws at you. Reading Laxmikanth once, plus D.D. Basu once, plus Subhash Kashyap once, produces a muddled, overlapping knowledge base where you remember reading about a concept but cannot recall the specific details, the constitutional article, or the amendment number. As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) emphasises, the examination rewards precision and clarity, not the breadth of your reading list.
 

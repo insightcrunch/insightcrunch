@@ -6,9 +6,9 @@ date: 2003-07-01
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Study Plan", "IAS Preparation", "Study Strategy", "UPSC Timetable"]
 excerpt: "Three complete UPSC study plans with month-by-month books, hours and milestones for every timeline."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-07-01
 ---
 
@@ -16,7 +16,7 @@ Every UPSC aspirant eventually arrives at the same paralysing question: "I know 
 
 The challenge with most UPSC study plans available online is that they assume a single preparation context. They imagine a full-time aspirant with no prior knowledge, unlimited time, and infinite discipline, and they produce a generic twelve-month calendar that collapses at first contact with the reality of illness, family obligations, motivation dips, and the simple human inability to study ten hours every single day for a year. This article provides something fundamentally different: three complete, month-by-month study plans designed for three distinct preparation timelines (12 months, 18 months, and 24 months), each with built-in contingency weeks, clear adjustment protocols for when you fall behind, and a monthly milestone checklist that tells you whether you are on track. No other freely available UPSC resource on the internet provides three parallel plans at this level of granularity, with specific book assignments, daily hour allocations, and phase-by-phase adjustments for each timeline. The goal is simple: by the time you finish this guide, you will have a concrete, executable study plan tailored to your specific timeline and circumstances, not a vague exhortation to "study hard and revise regularly" that leaves you no better off than before you started reading.
 
-![UPSC Study Plan and Preparation Timelines - Insight Crunch](/assets/images/blog/blog-06.webp)
+![UPSC Study Plan and Preparation Timelines - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The three plans are not three versions of the same plan stretched or compressed. They are structurally different approaches designed for different starting points and different life circumstances. The 12-month plan is an intensive track for aspirants who have some prior knowledge base (perhaps from an earlier UPSC attempt, a state PCS preparation, or a strong humanities academic background) and can dedicate eight to ten hours per day. The 18-month plan is a balanced track suited for fresh graduates starting from zero with full-time availability. The 24-month plan is a comprehensive track designed for working professionals, college students preparing alongside their degree, or aspirants who want a more deliberate, less pressured preparation pace. As the [complete guide to UPSC CSE](/2003/07/24/upsc-civil-services-complete-guide/) explains, the examination's three-stage structure (Prelims, Mains, and Interview) spanning over a year means that effective preparation requires strategic sequencing, not just hard work.
 

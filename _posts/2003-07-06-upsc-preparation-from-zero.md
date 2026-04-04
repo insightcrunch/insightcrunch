@@ -6,9 +6,9 @@ date: 2003-07-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Preparation", "IAS Preparation", "UPSC Beginners", "Study Strategy"]
 excerpt: "Start UPSC preparation from zero with this 90-day roadmap covering NCERTs, books, schedules and strategy."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-07-06
 ---
 
@@ -18,7 +18,7 @@ The anxiety of the beginner is entirely rational. UPSC CSE is genuinely one of t
 
 UPSC preparation from zero is not about possessing some innate genius or having an encyclopaedic memory. It is about following a structured, sequential process with discipline over an extended period. The aspirants who clear this examination are not necessarily the smartest people in the room. They are the ones who figured out the right sequence of study, committed to that sequence, and executed it with consistency for twelve to twenty-four months. This article gives you that exact sequence, week by week, for your first nine months. It tells you what to read, when to read it, how to read it, and what to do after you have read it. By the time you finish this guide, the infinite-looking syllabus will have a structure, a sequence, and a concrete action plan attached to it.
 
-![How to Start UPSC Preparation from Zero - Insight Crunch](/assets/images/blog/blog-05.webp)
+![How to Start UPSC Preparation from Zero - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The UPSC Civil Services Examination, as explained in our [complete guide to UPSC CSE](/2003/07/24/upsc-civil-services-complete-guide/), is a three-stage examination consisting of Prelims (objective screening), Mains (descriptive merit examination), and Interview (personality test). Roughly 10 to 13 lakh candidates apply each cycle, around 5 to 6 lakh actually appear for Prelims, about 12,000 to 15,000 qualify for Mains, around 2,500 to 3,000 are called for Interview, and approximately 800 to 1,100 are finally selected. These numbers look daunting when presented as a single statistic, but they are misleading. The vast majority of those 5 to 6 lakh Prelims candidates have done minimal or no serious preparation. Among candidates who follow a structured preparation plan for twelve or more months, maintain consistency, and take mock tests seriously, the success rate is dramatically higher. Your goal with this article is to become one of those seriously prepared candidates, starting from today, starting from zero.
 
