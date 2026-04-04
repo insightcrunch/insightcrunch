@@ -300,19 +300,20 @@ article {
 .cat-box.eating .c-paw-rest{animation:none !important}
 .cat-form{position:fixed;z-index:9998;width:290px;background:linear-gradient(180deg,var(--s1,#fffdf9) 0%,var(--s2,#fdf6ee) 100%);border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px;box-shadow:0 12px 40px rgba(120,80,20,0.14),0 2px 8px rgba(120,80,20,0.06);padding:0;overflow:hidden;opacity:0;pointer-events:none;transform:translateY(14px) scale(0.95);transition:all 0.4s cubic-bezier(0.4,0,0.2,1),right 3s cubic-bezier(0.25,0.1,0.25,1),bottom 3s cubic-bezier(0.25,0.1,0.25,1);bottom:102px;right:8px}
 .cat-form.open{opacity:1;pointer-events:auto;transform:translateY(0) scale(1)}
-.xf-header{background:linear-gradient(135deg,var(--amber,#b06010),var(--amber-lt,#d07820));padding:10px 14px;display:flex;align-items:center;gap:9px;position:relative}
-.xf-header .xf-av{width:30px;height:30px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(255,255,255,0.4)}
-.xf-header .xf-info h4{font-family:'Lora',serif;font-size:13px;font-style:italic;color:#fff;margin:0}
-.xf-header .xf-info span{font-family:'Inter',sans-serif;font-size:9.5px;color:rgba(255,255,255,0.7)}
+.xf-header{background:linear-gradient(135deg,var(--amber,#b06010),var(--amber-lt,#d07820));padding:8px 14px;display:flex;align-items:center;gap:9px;position:relative}
+.xf-header .xf-av{width:28px;height:28px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(255,255,255,0.4)}
+.xf-header .xf-info h4{font-family:'Lora',serif;font-size:12.5px;font-style:italic;color:#fff;margin:0;line-height:1.2}
+.xf-header .xf-info span{font-family:'Inter',sans-serif;font-size:9px;color:rgba(255,255,255,0.7);line-height:1.1;display:block;margin-top:1px}
 .xf-header .xf-close{position:absolute;top:8px;right:10px;background:none;border:none;font-size:15px;color:rgba(255,255,255,0.6);cursor:pointer;transition:color 0.15s}
 .xf-header .xf-close:hover{color:#fff}
 .xf-body{padding:10px 14px 12px}
 .xf-body .xf-sub{font-family:'Inter',sans-serif;font-size:10px;color:var(--soft,#9a8870);margin-bottom:8px;font-weight:300;line-height:1.4}
-.xf-body .xf-pills{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px}
-.xf-pill{display:none}
-.xf-pill+label{display:inline-block;padding:3px 9px;border:1px solid var(--amber-bd,#e8cc90);border-radius:12px;font-family:'Inter',sans-serif;font-size:10px;font-weight:400;color:var(--soft,#9a8870);cursor:pointer;transition:all 0.2s}
-.xf-pill+label:hover{border-color:var(--amber-lt,#d07820);color:var(--amber,#b06010);background:var(--amber-bg,#fdf6e8)}
-.xf-pill:checked+label{background:var(--amber,#b06010);color:#fff;border-color:var(--amber,#b06010)}
+.xf-body .xf-seg{display:flex;margin-bottom:8px;border:1px solid var(--amber-bd,#e8cc90);border-radius:5px;overflow:hidden}
+.xf-seg input{display:none}
+.xf-seg label{flex:1;padding:4px 0;text-align:center;font-family:'Inter',sans-serif;font-size:9.5px;font-weight:500;color:var(--soft,#9a8870);cursor:pointer;transition:all 0.15s;border-right:1px solid var(--amber-bd,#e8cc90);background:transparent}
+.xf-seg label:last-of-type{border-right:none}
+.xf-seg label:hover{background:var(--amber-bg,#fdf6e8);color:var(--amber,#b06010)}
+.xf-seg input:checked+label{background:var(--amber,#b06010);color:#fff}
 .xf-body .xf-2col{display:grid;grid-template-columns:1fr 1fr;gap:6px}
 .xf-body label.xf-label{display:block;font-family:'Inter',sans-serif;font-size:8.5px;font-weight:500;color:var(--mid,#6a5a40);letter-spacing:0.3px;margin-bottom:2px;text-transform:uppercase}
 .xf-body input[type=text],.xf-body input[type=email],.xf-body textarea{width:100%;padding:6px 8px;margin-bottom:6px;border:1px solid var(--amber-bd,#e4d8c4);border-radius:5px;background:#fff;color:var(--ink,#1a1208);font-family:'Inter',sans-serif;font-size:12px;font-weight:300;outline:none;transition:all 0.2s}
@@ -551,18 +552,15 @@ article {
   </div>
   <div class="xf-body">
     <p class="xf-sub" id="catFormSub"></p>
-    <div style="margin-bottom:8px;display:flex;align-items:center;gap:6px">
-      <label class="xf-label" style="margin:0;white-space:nowrap">Type</label>
-      <select name="cat_type" style="flex:1;padding:4px 8px;border:1px solid var(--amber-bd,#e4d8c4);border-radius:5px;background:#fff;color:var(--ink,#1a1208);font-family:'Inter',sans-serif;font-size:11px;outline:none;appearance:auto">
-        <option value="feedback">Feedback</option>
-        <option value="request">Request</option>
-        <option value="correction">Correction</option>
-        <option value="question">Question</option>
-      </select>
+    <div class="xf-seg">
+      <input type="radio" name="cat_type" value="Feedback" id="ct1" checked><label for="ct1">Feedback</label>
+      <input type="radio" name="cat_type" value="Request" id="ct2"><label for="ct2">Request</label>
+      <input type="radio" name="cat_type" value="Correction" id="ct3"><label for="ct3">Correction</label>
+      <input type="radio" name="cat_type" value="Question" id="ct4"><label for="ct4">Question</label>
     </div>
     <form id="catFbForm">
       <input type="hidden" name="access_key" value="9cb6841a-a3a8-47d1-9598-672b68ab314c">
-      <input type="hidden" name="subject" value="Post Feedback: {{ page.page_title | default: page.title | escape }}">
+      <input type="hidden" name="subject" id="catSubject" value="[Feedback] Post: {{ page.page_title | default: page.title | escape }}">
       <input type="hidden" name="from_name" value="IC Cat Assistant - {{ author.name }}">
       <input type="checkbox" name="botcheck" style="display:none">
       <div class="xf-2col">
@@ -572,7 +570,7 @@ article {
       <label class="xf-label">Message</label>
       <textarea name="message" required placeholder="What is on your mind?"></textarea>
       <button type="submit">Send Message</button>
-      <div class="xf-footer"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg> We read every message</div>
+      <div class="xf-footer"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg> {{ author.name | split: ' ' | first }} reads every message &middot; <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width:8px;height:8px"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg> Encrypted &amp; private</div>
       <div class="xf-msg" id="xfMsg"></div>
     </form>
   </div>
@@ -660,6 +658,12 @@ function handleCatClick(){isOpen?closeCatForm():openCatForm()}
 function openCatForm(){isOpen=true;catForm.classList.add('open');bub.classList.remove('show');catBox.classList.add('pounce');mHappy();setTimeout(function(){catBox.classList.remove('pounce')},700);showBub('You clicked. I am honored. Slightly. 📬',4000,true)}
 function closeCatForm(){isOpen=false;catForm.classList.remove('open');mNeutral();catBox.classList.add('flop');setTimeout(function(){catBox.classList.remove('flop')},1000);showBub('I will be here. Obviously. 🐱',3500,true)}
 window.closeCatForm=closeCatForm;window.handleCatClick=handleCatClick;window.feedCat=feedCat;
+/* update email subject when type changes */
+var catSubject=document.getElementById('catSubject');
+var postTitle={{ page.page_title | default: page.title | jsonify }};
+document.querySelectorAll('input[name="cat_type"]').forEach(function(r){r.addEventListener('change',function(){catSubject.value='['+this.value+'] Post: '+postTitle})});
+/* click outside form to close */
+document.addEventListener('click',function(e){if(!isOpen)return;var form=document.getElementById('catForm');var box=document.getElementById('catBox');if(!form.contains(e.target)&&!box.contains(e.target)&&!e.target.closest('.cat-bub')){closeCatForm()}});
 bub.addEventListener('click',function(){if(!isOpen)openCatForm()});
 
 /* form submit */
