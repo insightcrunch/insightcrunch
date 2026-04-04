@@ -6,9 +6,9 @@ date: 2003-07-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Exam Pattern", "IAS Exam Structure", "UPSC Prelims", "UPSC Mains"]
 excerpt: "Complete UPSC exam pattern guide: Prelims GS and CSAT, all 9 Mains papers, Interview format, marks distribution and negative marking explained."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-07-15
 ---
 
@@ -18,7 +18,7 @@ An aspirant who understands the UPSC exam pattern at the level of operational de
 
 This article covers the UPSC CSE exam pattern in complete operational depth: every paper, every mark, every time limit, every question format, every evaluation criterion, and the strategic implications that flow from each. For a broader introduction to what the examination is and who it selects, the [complete UPSC Civil Services guide](/2003/07/24/upsc-civil-services-complete-guide/) provides the foundational context. For eligibility conditions, see the [UPSC eligibility guide](/2003/07/19/upsc-eligibility-age-attempts/). This article assumes you have confirmed your eligibility and are now ready to understand exactly what you are preparing for.
 
-![UPSC Exam Pattern 2026 Complete Guide - Insight Crunch](/assets/images/blog/blog-03.webp)
+![UPSC Exam Pattern 2026 Complete Guide - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 ## The Three-Stage Architecture: Why UPSC Is Designed This Way
 
