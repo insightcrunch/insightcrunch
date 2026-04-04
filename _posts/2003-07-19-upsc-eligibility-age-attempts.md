@@ -6,9 +6,9 @@ date: 2003-07-19
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Eligibility", "IAS Eligibility", "UPSC Age Limit", "UPSC Attempts"]
 excerpt: "Complete UPSC eligibility guide: age limits by category, attempt counts, degree requirements, reserved category rules and common mistakes."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2003-07-19
 ---
 
@@ -16,7 +16,7 @@ Before a single NCERT is opened, before a study schedule is drafted, before coac
 
 The UPSC eligibility rules, while precise, are spread across multiple official sources: the annual notification, the official UPSC rules, the Department of Personnel and Training guidelines, and service-specific physical standards documents. Coaching institutes rarely go into the full depth of these rules because edge cases do not come up often enough to be commercially relevant to teach. But if you are an edge case, the edge case matters entirely. This article covers every eligibility condition in the depth required to make a definitive determination about your own eligibility and to plan your preparation accordingly. For the broader context of what you are preparing for once you confirm eligibility, the [UPSC Civil Services complete overview](/2003/07/24/upsc-civil-services-complete-guide/) is the foundational companion article to this one.
 
-![UPSC Eligibility Age Limit Attempts Guide - Insight Crunch](/assets/images/blog/blog-02.webp)
+![UPSC Eligibility Age Limit Attempts Guide - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 ## Nationality and Citizenship: The First Gate
 

@@ -6,9 +6,9 @@ date: 2003-07-24
 categories: ["Industry"]
 tags: ["UPSC", "IAS Preparation", "UPSC CSE", "Civil Services", "UPSC Guide"]
 excerpt: "The only UPSC guide you need: exam structure, syllabus, timelines, strategy, and a 30-day action plan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2003-07-24
 ---
 
@@ -16,7 +16,7 @@ You have just decided to appear for the UPSC Civil Services Examination, or you 
 
 This guide exists to answer that question completely. Not partially, not with hedge words like "it depends" followed by a vague paragraph, but with the specificity and structural clarity that you would get from a mentor who has guided hundreds of aspirants through every stage of UPSC CSE and watched, closely, what works and what destroys preparation cycles. The UPSC Civil Services Examination is simultaneously one of the most demanding, most respected, and most misunderstood examinations in the world. More than 1.3 million people apply for it each cycle. Roughly 1,000 are finally selected, placing the overall selection rate at approximately 0.08 percent. That number is designed to terrify you, and you should not let it. Among candidates who prepare seriously for twelve or more months with a coherent strategy, who complete their syllabus, who practice writing, who solve previous year questions consistently, the effective odds are dramatically better. The examination is not a lottery. It rewards preparation in a predictable, pattern-driven way. Understanding those patterns is what this guide is about.
 
-![Complete UPSC Civil Services Guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Complete UPSC Civil Services Guide - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## What Is the UPSC Civil Services Examination?
 
@@ -438,7 +438,6 @@ Online communities, if used well, provide access to a much larger pool of PYQ an
 The [UPSC preparation from zero guide](/2003/07/06/upsc-preparation-from-zero/) covers how to structure both your study group and your use of online resources in detail, with specific recommendations for the best uses of each at different phases of preparation.
 
 
-
 ## The Long Game: Multiple Attempts and How to Think About Them
 
 The reality of UPSC CSE is that a majority of successful candidates reach final selection on their second, third, or even fourth attempt. This is not evidence that the first attempt was wasted; it is evidence that the examination genuinely requires a level of preparation depth that most candidates underestimate at the outset, and that the first attempt itself is part of the preparation rather than separate from it.
@@ -448,7 +447,6 @@ The most productive mental model for a first attempt is to treat it as a high-st
 The emotional challenge of a failed first attempt is real and should not be minimized. Candidates who have invested 18 months of full-time preparation, sacrificed financial independence, and deferred other life decisions often experience the failure of a first attempt as a profound personal setback. The healthy response is to give yourself a defined period (two to three weeks) to process the emotional dimension, then return to analysis. What specifically went wrong? What was the mark gap in Prelims? What were the weak subjects? Did you face a time management crisis in Mains? Was the optional preparation insufficient? What would you do differently if you could start today? These questions, answered honestly and acted upon systematically, are the bridge between a failed first attempt and a successful subsequent one.
 
 The [UPSC preparation from zero guide](/2003/07/06/upsc-preparation-from-zero/) includes a dedicated section on rebuilding preparation strategy after an unsuccessful first attempt, covering both the analytical framework for identifying root causes and the psychological framework for resetting motivation without losing the experience gained.
-
 
 
 ## Geography and Current Affairs Integration: A Preparation Imperative
