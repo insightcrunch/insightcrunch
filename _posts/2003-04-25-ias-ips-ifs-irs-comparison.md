@@ -6,9 +6,9 @@ date: 2003-04-25
 categories: ["Industry"]
 tags: ["UPSC", "IAS vs IPS", "UPSC Services", "IFS IRS", "Civil Services Posts"]
 excerpt: "IAS vs IPS vs IFS vs IRS: comprehensive comparison of all UPSC civil services posts covering roles, career progression, salary, postings, and service allocation."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-04-25
 ---
 
@@ -28,7 +28,7 @@ The importance of understanding all services before the Mains application stage,
 
 The [exam pattern guide](/2003/07/15/upsc-exam-pattern-2026/) provides the structural understanding of the examination that produces the rank, and the [study plan guide](/2003/07/01/upsc-study-plan-12-18-24-months/) provides the preparation strategy that maximises your rank. This article provides the service knowledge that converts your rank into a career decision you will be satisfied with for thirty-five years.
 
-![IAS vs IPS vs IFS vs IRS - Insight Crunch](/assets/images/blog/blog-06.webp)
+![IAS vs IPS vs IFS vs IRS - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination conducted annually by the Union Public Service Commission selects candidates for approximately twenty-four different services that collectively constitute the professional administrative backbone of the Indian government at both central and state levels. These services are organised into a constitutional and administrative hierarchy that reflects their scope of service and their relationship to central and state governments: the All India Services (IAS, IPS, and Indian Forest Service or IFoS), which are constitutionally established services whose officers serve both the central government and state governments through a cadre-based rotation system; the Central Services Group A (Indian Foreign Service, Indian Revenue Service in both Income Tax and Customs streams, Indian Railway Traffic Service, Indian Railway Accounts Service, Indian Audit and Accounts Service, Indian Civil Accounts Service, Indian Corporate Law Service, Indian Defence Estates Service, Indian Defence Accounts Service, Indian Information Service, Indian Trade Service, Indian Postal Service, and others), which serve exclusively under the central government; and the Central Services Group B (which includes certain smaller services with more limited career trajectories). Understanding this three-tier categorisation and the specific professional character, work profile, posting pattern, and career trajectory of each major service within it is essential for constructing a service preference list that reflects your genuine informed career interest rather than prestige-driven assumptions that may produce allocation to a service you know nothing about and have no enthusiasm for, which is a recipe for thirty-five years of career dissatisfaction that no amount of post-allocation rationalisation can fully remedy.
 

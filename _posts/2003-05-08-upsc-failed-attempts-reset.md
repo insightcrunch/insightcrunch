@@ -6,9 +6,9 @@ date: 2003-05-08
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Failed Attempts", "UPSC Not Clearing", "IAS Multiple Attempts", "UPSC Motivation"]
 excerpt: "UPSC after failed attempts: diagnostic framework for why you failed, concrete reset protocols, the same-strategy trap, Plan B timing, and managing social pressure."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2003-05-08
 ---
 
@@ -22,7 +22,7 @@ The candidates who eventually clear the examination, including many who achieve 
 
 This article is not a motivational speech designed to make you feel better about failure through inspirational platitudes and cherry-picked success stories. It is a strategic manual, grounded in the analytical frameworks that characterise effective UPSC preparation, for aspirants who have failed one or more attempts and who need a concrete, specific, evidence-based, actionable framework for four critical tasks: diagnosing precisely why they failed at their specific failure stage (Prelims, Mains, or Interview) using structured analytical methods rather than vague self-assessment; resetting their preparation strategy based on that diagnosis to produce meaningfully different results rather than marginal variations of the same outcome; avoiding the psychologically seductive but strategically devastating "same strategy, different year" trap that condemns many talented repeat aspirants to serial failures; and making an honest, informed, data-driven decision about when to continue attempting and when to transition to a Plan B career path that leverages the substantial human capital their UPSC preparation developed.
 
-![UPSC After Multiple Failed Attempts - Insight Crunch](/assets/images/blog/blog-03.webp)
+![UPSC After Multiple Failed Attempts - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage selection process (Prelims, Mains, Interview) that tests different competencies at each stage and that produces different failure modes requiring different diagnostic and corrective approaches. Understanding which stage you failed at, and precisely why you failed at that stage, is the essential first step toward a reset strategy that produces different results in your next attempt rather than a repetition of the same preparation that produced the same failure.
 

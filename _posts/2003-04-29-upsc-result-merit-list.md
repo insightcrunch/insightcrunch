@@ -6,9 +6,9 @@ date: 2003-04-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Result", "IAS Result", "UPSC Merit List", "UPSC Final Result"]
 excerpt: "UPSC result guide: how to check results at each stage, understanding the merit list, marksheet release, cadre allocation, reserve list, and post-selection process."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2003-04-29
 ---
 
@@ -28,7 +28,7 @@ Whether you are a first-time aspirant reading this article months before your fi
 
 The result process is not a single dramatic moment but a carefully structured sequence of four distinct result declarations spread across approximately twelve to fifteen months of the examination cycle. The Prelims result (typically declared six to eight weeks after the Prelims examination) contains only the roll numbers of qualifying candidates without individual marks, serving as a binary screening outcome. The Mains result (typically declared three to four months after the Mains examination concludes) contains the roll numbers of candidates called for Interview along with the detailed Interview schedule, again without individual paper-wise marks. The Final Result (typically declared one to two weeks after the last Interview session) contains the main recommended list with both roll numbers and names arranged in merit order, plus the reserve list. And the individual marksheet disclosure (which UPSC makes available on its website several weeks to months after the Final Result) provides the paper-wise score breakdown that enables the granular diagnostic analysis every aspirant ultimately needs. Each declaration follows a different format, reveals different categories of information, deliberately withholds different categories of information, and triggers different strategic next steps for the candidate, and understanding these four-stage differences in advance transforms your result experience from confused, misinformation-vulnerable scrambling into informed, purposeful assessment that immediately triggers the appropriate next action for your specific situation.
 
-![UPSC Result - Insight Crunch](/assets/images/blog/blog-05.webp)
+![UPSC Result - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage selection process where each stage serves a deliberately distinct selection function within the overall architecture of candidate evaluation and merit determination. Prelims serves as a mass screening stage that efficiently reduces the approximately five to six lakh appearing candidates to a manageable pool of approximately 12,000 to 15,000 for the more resource-intensive, evaluator-dependent Mains assessment. Mains serves as the primary merit assessment stage, producing the written examination score that accounts for approximately 86 percent (1,750 out of 2,025 maximum marks) of the final merit total through sustained evaluation across seven merit papers (Essay, four GS papers, and two Optional papers) that collectively test knowledge depth, analytical sophistication, writing quality, evidence integration, and governance awareness. The Interview serves as the personality assessment stage, producing the remaining 14 percent (275 out of 2,025) of the final merit total through a twenty-to-thirty-five-minute face-to-face evaluation by a five-member board that assesses communication quality, intellectual depth, composure under pressure, ethical grounding, and overall suitability for a thirty-five-year career in India's civil services. The result at each stage reflects that stage's specific function and reveals only the information necessary for advancing candidates to the next stage, which explains the information asymmetry that frustrates candidates at each result declaration.
 

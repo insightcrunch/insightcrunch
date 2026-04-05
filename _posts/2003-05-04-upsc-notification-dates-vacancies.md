@@ -6,9 +6,9 @@ date: 2003-05-04
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Notification", "UPSC 2026", "UPSC Dates", "UPSC Vacancies"]
 excerpt: "UPSC notification 2026: key dates, vacancy trends, how to read the notification, historical date patterns, and what every aspirant must know before applying."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-05-04
 ---
 
@@ -28,7 +28,7 @@ The notification's role extends beyond individual preparation planning to the br
 
 For aspirants at any stage of their UPSC journey, the notification is not a document to be read once and filed away; it is a strategic reference that should be consulted repeatedly throughout the preparation cycle. Return to the notification when you are filling out your Mains application (to verify service codes, optional subject codes, and preference list formatting requirements). Return to it when you are calculating your remaining eligibility (to verify age limits and attempt counting rules for your specific category). Return to it when you are planning your Interview preparation (to understand the Interview format, board composition, and personality assessment criteria that the notification describes). And return to it when you are advising fellow aspirants or juniors who are beginning their UPSC journey, because the notification contains the authoritative answers to the most common questions that new aspirants ask about eligibility, dates, vacancies, and examination structure.
 
-![UPSC Notification 2026 - Insight Crunch](/assets/images/blog/blog-04.webp)
+![UPSC Notification 2026 - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is conducted annually by the Union Public Service Commission, an independent constitutional body established under Articles 315 to 323 of the Indian Constitution, to select candidates for approximately twenty-four different civil services. These services include the Indian Administrative Service (IAS, the generalist administrative service that provides the backbone of India's governance at district, state, and national levels), the Indian Police Service (IPS, responsible for law enforcement and internal security leadership), the Indian Foreign Service (IFS, responsible for India's diplomatic representation and foreign policy implementation), the Indian Revenue Service (IRS, responsible for tax administration in both Income Tax and Customs and Central Excise streams), and approximately twenty other Central Services Group A and Group B that collectively administer India's railways, accounts, information, trade, defence estates, postal, and other governance domains. The notification is the official document that formally opens each year's examination cycle by specifying the dates, vacancies, eligibility criteria, examination structure, and application procedure that govern that cycle.
 

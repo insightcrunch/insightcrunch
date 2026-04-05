@@ -6,9 +6,9 @@ date: 2003-05-26
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Working Professionals", "IAS While Working", "UPSC Part Time", "Study Strategy"]
 excerpt: "UPSC preparation while working: daily schedules, quit-job framework, micro-study strategies, weekend plans, and the 2-attempt strategy for working professionals."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2003-05-26
 ---
 
@@ -16,7 +16,7 @@ The working professional preparing for UPSC occupies a uniquely challenging posi
 
 Yet working professionals possess strategic advantages that full-time aspirants do not: financial stability that eliminates the existential anxiety of "what if I do not clear," real-world governance and organisational experience that enriches Mains answers and Interview responses with practical insights that textbook-only candidates cannot provide, emotional maturity developed through years of professional life that strengthens Interview performance and stress management, and the structured discipline of maintaining a daily work routine that transfers directly to the consistency of daily study habits. The challenge for working professionals is not whether UPSC preparation while employed is possible, because it demonstrably is, with numerous toppers having cleared while working, but how to design a preparation strategy that maximises the quality of limited study hours while leveraging the unique advantages that employment provides.
 
-![UPSC for Working Professionals - Insight Crunch](/assets/images/blog/blog-14.webp)
+![UPSC for Working Professionals - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination tests knowledge breadth, analytical depth, writing skill, and personality across three stages spanning approximately eighteen months from Prelims to final results. This extended timeline is both a challenge (requiring sustained preparation over many months while working) and an opportunity (providing more calendar time to accumulate the necessary study hours at a lower daily intensity than full-time aspirants use). The working professional's preparation strategy must be designed around this reality: fewer daily hours, compensated by longer total preparation timelines and higher efficiency per study hour.
 
