@@ -6,9 +6,9 @@ date: 1997-04-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Interpretation", "Context", "Problem Solving"]
 excerpt: "The complete guide to SAT coefficient interpretation questions: slope as rate of change, y-intercept as starting value, exponential base as growth factor, and the precise wording traps in every answer choice."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1997-04-25
 ---
 
@@ -20,7 +20,7 @@ This guide covers every parameter type tested on the Digital SAT, explains the e
 
 For the broader linear equation context, see the [SAT Math Algebra domain complete guide](/2021/04/24/sat-algebra-domain-complete-guide/). For coefficient interpretation in scatter plot and regression contexts, see [SAT Math scatter plots and regression](/1997/08/11/sat-math-scatter-plots-regression/). For the exponential function context where exponential base interpretations appear, see [SAT Math exponential functions](/1997/08/25/sat-math-exponential-functions/). For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems across all coefficient interpretation contexts.
 
-![SAT Math Interpreting Coefficients and Constants in Context](/assets/images/blog/blog-13.webp)
+![SAT Math Interpreting Coefficients and Constants in Context](/assets/images/blog/blog-06.webp)
 
 ## The Core Principle: What Each Parameter Type Means
 

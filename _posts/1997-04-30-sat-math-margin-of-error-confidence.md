@@ -6,9 +6,9 @@ date: 1997-04-30
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Margin of Error", "Data Analysis"]
 excerpt: "The complete guide to margin of error, confidence intervals, sample size effects, and the critical valid-inference vs overgeneralization distinction that the SAT tests repeatedly."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1997-04-30
 ---
 
@@ -20,7 +20,7 @@ This guide covers all three concepts from the ground up, explains the specific t
 
 For the broader data analysis context that statistical inference fits into, see the [SAT Math scatter plots and regression guide](/1997/08/11/sat-math-scatter-plots-regression/) and the [SAT Math standard deviation and descriptive statistics guide](/1997/07/11/sat-math-standard-deviation-mean-median/). For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems across all statistics areas.
 
-![SAT Math Margin of Error Confidence Intervals](/assets/images/blog/blog-12.webp)
+![SAT Math Margin of Error Confidence Intervals](/assets/images/blog/blog-22.webp)
 
 ## What Is a Margin of Error?
 

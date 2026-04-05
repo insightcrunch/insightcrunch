@@ -6,9 +6,9 @@ date: 1997-05-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Formulas", "Reference", "Study Guide"]
 excerpt: "The complete SAT Math formula and concept reference organized by domain: Algebra, Advanced Math, Geometry, Statistics, and key rules, each with a one-sentence explanation of when you need it."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 1997-05-09
 ---
 
@@ -18,7 +18,7 @@ This article is the complete formula and concept reference for every formula, ru
 
 For the trigonometry context where the right triangle formulas apply, see the [SAT Math right triangles and unit circle guide](/1997/07/20/sat-math-right-triangles-unit-circle/). For the complete Math section format and question distribution, see the [complete Digital SAT guide](/2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/). For timed practice applying these formulas, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems across all formula areas.
 
-![SAT Math Complete Formula Reference Sheet](/assets/images/blog/blog-10.webp)
+![SAT Math Complete Formula Reference Sheet](/assets/images/blog/blog-02.webp)
 
 ## How to Use This Reference Sheet
 

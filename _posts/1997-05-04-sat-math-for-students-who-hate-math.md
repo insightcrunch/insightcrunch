@@ -6,9 +6,9 @@ date: 1997-05-04
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Math Anxiety", "Beginner", "Strategy"]
 excerpt: "A compassionate, strategic guide for math-anxious students: minimum concepts for 500+, the 80/20 rule for SAT Math, Desmos as a compensating tool, and an 8-week plan starting from below 400."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1997-05-04
 ---
 
@@ -24,7 +24,7 @@ The fourth thing to say: you do not need to stop being anxious before you begin 
 
 For the Desmos calculator techniques that compensate for algebraic weakness, see the [SAT Desmos calculator guide](/1997/06/05/sat-desmos-calculator-strategy/). For the word problem translation strategies that make word problems tractable, see [SAT Math word problem translation](/1997/06/27/sat-math-word-problem-translation/). For timed practice at the appropriate difficulty level, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math for Students Who Hate Math](/assets/images/blog/blog-11.webp)
+![SAT Math for Students Who Hate Math](/assets/images/blog/blog-49.webp)
 
 ## Step 1: Honest Self-Assessment Without Shame
 

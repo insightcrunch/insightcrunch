@@ -6,9 +6,9 @@ date: 1997-04-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Past Questions", "Analysis", "Study Plan"]
 excerpt: "Data-driven analysis of Digital SAT Math question distribution 2023-2026, with a three-tier priority system that tells you exactly where to spend your limited preparation time."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1997-04-21
 ---
 
@@ -18,7 +18,7 @@ This article provides that frequency data. Based on analysis of all available Di
 
 For the complete Math section format and module structure, see the [complete Digital SAT Math section guide](/2021/05/10/sat-math-preparation-complete-section-guide/). For the hardest specific question types and how to handle them, see [SAT Math hardest question types](/1997/05/22/sat-math-hardest-question-types/). For timed practice applying these insights, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems prioritized by frequency.
 
-![SAT Math Past Question Pattern Analysis](/assets/images/blog/blog-14.webp)
+![SAT Math Past Question Pattern Analysis](/assets/images/blog/blog-80.webp)
 
 ## Methodology: How the Data Was Collected
 

@@ -6,9 +6,9 @@ date: 1997-05-13
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Strategy", "Backsolving", "Problem Solving"]
 excerpt: "Backsolving, plugging in numbers, process of elimination, and strategic guessing: the complete guide to non-algebraic SAT Math techniques with 8+ worked examples showing when they are 3x faster than algebra."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 1997-05-13
 ---
 
@@ -18,7 +18,7 @@ Backsolving, plugging in numbers, process of elimination, and strategic guessing
 
 This guide covers all four techniques with exact typing-level instructions, explains when each outperforms algebra, and includes 8 worked examples demonstrating the speed advantage in detail. For the Desmos techniques that complement these strategies, see the [SAT Desmos calculator guide](/1997/06/05/sat-desmos-calculator-strategy/). For the error prevention habits that apply during these techniques (especially verifying answers against answer choices), see [SAT Math careless mistakes](/1997/05/18/sat-math-careless-mistakes/). For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Backsolving Process of Elimination](/assets/images/blog/blog-09.webp)
+![SAT Math Backsolving Process of Elimination](/assets/images/blog/blog-81.webp)
 
 ## Technique 1: Backsolving
 

@@ -6,9 +6,9 @@ date: 1997-05-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Mistakes", "Error Prevention", "Strategy"]
 excerpt: "The 15 most common SAT Math careless errors with concrete examples of how each manifests and specific behavioral prevention techniques for every one."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-05-18
 ---
 
@@ -24,7 +24,7 @@ The guide is structured for two uses: first reading to understand all fifteen er
 
 For the pacing strategy that creates time for these error-prevention habits, see the [SAT Math pacing guide](/1997/05/27/sat-math-pacing-strategy/). For the next article in the strategy series covering process of elimination, see Article 24. For timed practice applying these prevention techniques, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Careless Mistakes Prevention Guide](/assets/images/blog/blog-08.webp)
+![SAT Math Careless Mistakes Prevention Guide](/assets/images/blog/blog-12.webp)
 
 ## Error 1: Sign Errors When Distributing Negatives
 
