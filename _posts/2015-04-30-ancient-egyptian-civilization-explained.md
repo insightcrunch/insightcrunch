@@ -6,9 +6,9 @@ date: 2015-04-30
 categories: ["Leisure"]
 tags: ["ancient-egypt", "egyptian-civilization", "pharaohs", "pyramids", "world-history", "historical-analysis"]
 excerpt: "Ancient Egypt explained - pharaohs, pyramids, religion, the Nile, and how a civilization lasted 3000 years."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-04-30
 ---
 
@@ -16,7 +16,7 @@ Every year in mid-July, when the star Sirius rose just before dawn on the easter
 
 <!--more-->
 
-![Ancient Egyptian Civilization Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Ancient Egyptian Civilization Explained - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The Egypt that endured was not a static entity frozen in time, despite the impression given by the monumental repetition of its art and architecture. Over three millennia, Egypt absorbed invasions, internal collapse, foreign rule, religious revolution, and the steady pressure of contact with increasingly powerful neighbors. What remained constant was the framework: the Nile as the organizational principle of the entire civilization; the pharaoh as the divinely ordained guarantor of the cosmic order that the Egyptians called maat; the bureaucratic and religious institutions that channeled the Nile's agricultural surplus into the construction projects, military campaigns, and religious observances that expressed Egyptian identity. The story of how this framework was maintained across three thousand years, how it survived challenges that destroyed other civilizations, and how it was eventually transformed beyond recognition by Macedonian, Roman, and Islamic conquest, is one of the great narratives of human history. To trace these developments within the full sweep of ancient world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing Egyptian civilization in its proper context.
 

@@ -6,9 +6,9 @@ date: 2015-05-15
 categories: ["Leisure"]
 tags: ["cleopatra", "ancient-egypt", "roman-history", "ancient-history", "world-history"]
 excerpt: "Cleopatra's true story - her intelligence, political alliances, and doomed fight to preserve Egyptian power."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-05-15
 ---
 
@@ -16,7 +16,7 @@ In the late summer of 30 BC, Cleopatra VII Philopator, Queen of Egypt and the la
 
 <!--more-->
 
-![Cleopatra: The Last Pharaoh of Egypt - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Cleopatra: The Last Pharaoh of Egypt - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The historical Cleopatra is almost entirely obscured by the mythological one. The woman who appears in popular culture, film, and literature is primarily a figure of erotic fascination: the irresistible seductress who captivated the most powerful men of her age and brought a civilization to ruin through the force of her beauty and sexuality. This image, which derives more from Roman propaganda than from historical evidence, inverts almost everything that was genuinely exceptional about Cleopatra. She was not primarily a seductress but a strategist; not a woman who wielded power through the bodies of men but a ruler who deployed every available tool, including personal charm, to maintain the independence of a state that was being relentlessly absorbed by the most powerful empire in the ancient world. Her beauty, which ancient sources mention but do not rank as extraordinary by the standards of her own court, was far less important to her political success than her intelligence, her linguistic abilities, her administrative skill, and her understanding of the structural conditions that made an independent Egypt barely possible in the last decades before its absorption into Rome. To trace the full arc of Cleopatra's world, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing her reign within the sweep of Ptolemaic, Roman, and Egyptian history.
 

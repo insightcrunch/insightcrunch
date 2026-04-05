@@ -6,9 +6,9 @@ date: 2015-05-05
 categories: ["Leisure"]
 tags: ["alexander-the-great", "ancient-history", "military-history", "macedon", "world-history"]
 excerpt: "Alexander the Great's life and conquests - how one man built the largest empire the ancient world had seen."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-05-05
 ---
 
@@ -16,7 +16,7 @@ In June of 323 BC, Alexander III of Macedon lay dying in the palace of Nebuchadn
 
 <!--more-->
 
-![Alexander the Great: Life and Conquests - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Alexander the Great: Life and Conquests - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The question that has fascinated historians, military analysts, and psychologists for two and a half millennia is not simply what Alexander did but why, and whether his extraordinary career represents the purest expression of human possibility or one of the most destructive forces ever to pass through the ancient world. He built the largest empire in history to that point; he also killed hundreds of thousands of people, enslaved and massacred civilian populations in cities that resisted him, executed his own closest friends when he thought they challenged his authority, and pursued a policy of conquest for its own sake that had no terminus and no strategic logic beyond the next horizon. The [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) places Alexander's conquests within the full sweep of ancient world history, tracing the connections between his empire and the civilizations that preceded and followed it.
 

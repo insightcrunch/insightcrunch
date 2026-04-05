@@ -6,9 +6,9 @@ date: 2015-05-10
 categories: ["Leisure"]
 tags: ["julius-caesar", "roman-republic", "ancient-history", "assassination", "world-history"]
 excerpt: "Julius Caesar's life and death - his conquests, rise to power, assassination, and the end of the Republic."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-05-10
 ---
 
@@ -16,7 +16,7 @@ On the morning of March 15, 44 BC, a haruspex named Spurinna had warned Julius C
 
 <!--more-->
 
-![Julius Caesar: Life, Power, Assassination - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Julius Caesar: Life, Power, Assassination - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 Who was Julius Caesar? The simple answer, that he was a military genius and political revolutionary who turned the Roman Republic into an autocracy, is both accurate and insufficient. He was also a gifted writer, a brilliant advocate, a superlative administrator, a man of extraordinary physical courage who slept in a tent on the Gallic frontier for nine years and made it look glamorous, a hypnotic personal presence who inspired extraordinary loyalty in his soldiers and extraordinary hostility in his political enemies, and a person whose political judgment, precise and patient through most of his career, catastrophically failed him in the last months of his life. The story of his rise and fall is inseparable from the story of the Roman Republic's rise and fall, and understanding both requires understanding the specific structural conditions that made a Caesar possible and eventually inevitable. To trace these developments within the full sweep of Roman and Western history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing Caesar's career in its proper context.
 
