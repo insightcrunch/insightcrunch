@@ -6,9 +6,9 @@ date: 2015-05-25
 categories: ["Leisure"]
 tags: ["persian-empire", "ancient-history", "cyrus-the-great", "achaemenid", "world-history"]
 excerpt: "The Persian Empire explained - Cyrus, Darius, Xerxes, and the superpower that connected the ancient world."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-05-25
 ---
 
@@ -16,7 +16,7 @@ In October 539 BC, Cyrus the Great entered Babylon. The city, which had been the
 
 <!--more-->
 
-![The Persian Empire Explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![The Persian Empire Explained - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The entry into Babylon was not the beginning of the Persian Empire but its most dramatic early demonstration of the principle that would make the Achaemenid Persian Empire different from every empire that had preceded it and most that came after: the principle that conquered peoples are best governed not through terror and destruction but through tolerance, incorporation, and the use of each culture's own religious and institutional traditions to legitimate Persian rule. Cyrus did not try to make Babylonians into Persians; he tried to make them into willing participants in a Persian-organized world. This principle was imperfectly applied and frequently violated, but it was genuine enough to transform the political possibilities of the ancient world and to create the first genuinely multicultural empire in history. To trace the full arc of the Persian Empire's rise and fall within the sweep of ancient world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding the Achaemenid achievement and its lasting legacy.
 

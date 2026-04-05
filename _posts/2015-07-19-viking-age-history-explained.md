@@ -6,9 +6,9 @@ date: 2015-07-19
 categories: ["Leisure"]
 tags: ["viking-age", "vikings", "norse-history", "medieval-history", "world-history"]
 excerpt: "The Viking Age explained - raids, trade, settlement, exploration, and the Norse impact on European history."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-07-19
 ---
 
@@ -16,7 +16,7 @@ On June 8, 793 AD, a fleet of longships appeared without warning off the coast o
 
 <!--more-->
 
-![The Viking Age: History and Legacy Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
+![The Viking Age: History and Legacy Explained - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The raid on Lindisfarne is conventionally used to mark the beginning of the Viking Age, though Scandinavian traders and raiders had been active in the North Sea and Baltic regions for decades before 793. But the Lindisfarne raid captured something essential about the Viking Age as it was experienced by contemporaries: the sudden, violent irruption of a previously marginal culture into the center of the most developed civilization of northwestern Europe, using a technological advantage (the longship) that no one else possessed, striking at the most vulnerable and most valuable targets (monasteries and their treasures) with a terrifying efficiency, and withdrawing before any organized military response could be mounted. The terror this generated was real and lasting; the transformation of European political, demographic, and cultural geography that the Viking Age produced was equally real and equally lasting. But reducing the Viking Age to its raiders is to miss most of what made it historically significant: the same people who sacked Lindisfarne were also building trading networks that extended from the Arctic to the Black Sea, founding cities in Ireland and Russia, colonizing Iceland and Greenland, reaching North America five centuries before Columbus, and creating a literary and artistic culture whose sophistication challenges every stereotype the word "Viking" invokes. To trace the full sweep of the Viking Age within the context of medieval world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding the Norse impact on medieval civilization.
 

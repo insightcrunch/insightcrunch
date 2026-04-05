@@ -6,9 +6,9 @@ date: 2015-07-04
 categories: ["Leisure"]
 tags: ["byzantine-empire", "eastern-rome", "constantinople", "medieval-history", "world-history"]
 excerpt: "The Byzantine Empire explained - how the eastern half of Rome survived, thrived, and preserved civilization."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-07-04
 ---
 
@@ -16,7 +16,7 @@ The Byzantines never called themselves Byzantines. They called themselves Romans
 
 <!--more-->
 
-![The Byzantine Empire Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Byzantine Empire Explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The civilization that we call the Byzantine Empire governed the Eastern Mediterranean from the fourth century to the fifteenth, surviving the fall of the Western Roman Empire, the rise of Islam, the Mongol invasions, the Crusades, and nine hundred years of continuous external pressure before finally falling to the Ottoman forces of Mehmed II in 1453 AD. At its height under Justinian I in the sixth century, it reconquered much of the former Western Empire and produced the Corpus Juris Civilis, the comprehensive codification of Roman law that became the foundation of legal systems across the modern world. At its nadir in the seventh century, it lost two-thirds of its territory to the Arab Muslim conquests and contracted to a small Byzantine rump around Constantinople. That it survived at all, let alone for another eight centuries, is one of the most remarkable stories of institutional resilience in human history. To trace the full sweep of Byzantine history within the context of medieval world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this extraordinary civilization and its enduring legacy.
 

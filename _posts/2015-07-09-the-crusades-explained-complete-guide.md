@@ -6,9 +6,9 @@ date: 2015-07-09
 categories: ["Leisure"]
 tags: ["crusades", "medieval-history", "holy-land", "christianity", "islam", "world-history"]
 excerpt: "The Crusades explained - all major campaigns, motivations, outcomes, and lasting impact on East and West."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-07-09
 ---
 
@@ -16,7 +16,7 @@ In November 1095, Pope Urban II stood before a vast crowd at Clermont in souther
 
 <!--more-->
 
-![The Crusades Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Crusades Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The Crusades were the most consequential series of military campaigns in medieval history, and they remain among the most contested in the historical memory of the modern world. For European Christians, they represented the apex of medieval religious aspiration: the attempt to recover the holy places where Christ had lived, died, and risen, to protect the Eastern Christians from Muslim rule, and to earn the spiritual merit that the church promised to those who took the cross. For the peoples of the Middle East, they represented centuries of destructive foreign invasion that killed hundreds of thousands and disrupted established societies and trade networks. For the Byzantine Empire, they represented an ambiguous and ultimately catastrophic alliance with Western forces that ended with the sack of Constantinople in 1204. And for the subsequent world, they created connections, conflicts, and cultural exchanges that shaped the development of both European and Islamic civilization in ways that are still being felt. To place the Crusades within the full sweep of medieval world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding these complex events and their lasting consequences.
 

@@ -6,9 +6,9 @@ date: 2015-06-09
 categories: ["Leisure"]
 tags: ["greek-mythology", "ancient-greece", "zeus", "trojan-war", "odyssey", "world-history"]
 excerpt: "Complete guide to Greek mythology - gods, heroes, monsters, the Trojan War, and why these stories endure."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-06-09
 ---
 
@@ -16,7 +16,7 @@ The Trojan War began, according to Greek tradition, because of a golden apple in
 
 <!--more-->
 
-![Greek Mythology Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Greek Mythology Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 What makes this story remarkable is not its historical truth, which is uncertain, but its cultural durability. The Trojan War narrative and the vast web of mythology surrounding it, from the birth of the gods to the wanderings of Odysseus, from the labors of Heracles to the tragedy of Oedipus, from the underworld of Hades to the forge of Hephaestus, constitutes the most influential storytelling tradition in Western civilization. These stories have been retold continuously for approximately three thousand years; they have shaped the literature, art, philosophy, and psychology of the Western world to a degree matched by only the biblical tradition. Homer's Iliad and Odyssey are the oldest works in the Western literary canon; the names of the Greek gods and heroes are embedded in the vocabulary of science, medicine, technology, and everyday speech. To understand Greek mythology is to understand something fundamental about how Western civilization tells stories about itself, about human nature, and about the relationship between mortals and the forces that govern their lives. To trace the mythological tradition within the broader context of Greek and Mediterranean history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing Greek mythology within the sweep of ancient cultural history.
 

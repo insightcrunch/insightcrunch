@@ -6,9 +6,9 @@ date: 2015-07-24
 categories: ["Leisure"]
 tags: ["mongol-empire", "genghis-khan", "medieval-history", "world-history", "historical-analysis"]
 excerpt: "The Mongol Empire explained - Genghis Khan's conquests, governance, trade connections, and complex legacy."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-07-24
 ---
 
@@ -16,7 +16,7 @@ In 1227, Genghis Khan died on campaign in what is now northern China. The exact 
 
 <!--more-->
 
-![The Mongol Empire and Genghis Khan Explained - Insight Crunch](/assets/images/blog/blog-05.webp)
+![The Mongol Empire and Genghis Khan Explained - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The Mongol Empire is simultaneously the most fascinating and the most morally contested political achievement in world history. Its military campaigns killed perhaps 40 million people, approximately 10 percent of the world's population at the time, making them the most lethal series of conquests in the pre-modern world. Its administrative innovations, its promotion of long-distance trade, its religious tolerance, and its facilitation of cultural exchange between previously isolated civilizations contributed to developments that scholars have traced all the way to the Renaissance and the Age of Exploration. Its destruction of the Abbasid Caliphate in 1258 AD ended the classical period of Islamic civilization; its opening of the Silk Road created the conditions for the plague pandemic that killed perhaps half of Europe's population; and its legacy in the steppe world eventually contributed to the emergence of the Russian Empire. Understanding the Mongol Empire honestly requires holding all of these dimensions simultaneously rather than reducing them to a single narrative of either savage destruction or enlightened cosmopolitanism. To place the Mongol Empire within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this extraordinary and terrible achievement.
 

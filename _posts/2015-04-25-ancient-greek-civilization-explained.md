@@ -6,9 +6,9 @@ date: 2015-04-25
 categories: ["Leisure"]
 tags: ["ancient-greece", "greek-civilization", "world-history", "democracy", "historical-analysis"]
 excerpt: "Ancient Greek civilization explained - democracy, philosophy, warfare, art, and the legacy that shaped the West."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-04-25
 ---
 
@@ -16,7 +16,7 @@ In the spring of 490 BC, a force of roughly 10,000 Athenian and Plataean soldier
 
 <!--more-->
 
-![Ancient Greek Civilization Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Ancient Greek Civilization Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 Marathon matters not simply as a military victory but as a hinge of history: a world in which Persia had crushed Athens in 490 BC would almost certainly have been a world without Athenian democracy, without the philosophical revolution of Socrates, Plato, and Aristotle, without the theater of Aeschylus, Sophocles, and Euripides, without the historical inquiry of Thucydides and Herodotus, and ultimately without the specific shape that Western civilization has taken over the past 2,500 years. The Greeks were the first people to systematically ask the questions that still organize intellectual life: What is justice? How should communities be governed? What can reason tell us about the nature of reality? What is the relationship between the individual and the state? They did not always answer these questions well, and their civilization was built on slavery, gender exclusion, and imperial violence. But they asked the questions first, and in doing so they established the framework within which the Western intellectual tradition has operated ever since. To trace these developments across the full arc of Greek and Mediterranean history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing Greek civilization within the sweep of ancient history.
 

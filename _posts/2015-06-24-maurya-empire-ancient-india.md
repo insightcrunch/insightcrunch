@@ -6,9 +6,9 @@ date: 2015-06-24
 categories: ["Leisure"]
 tags: ["maurya-empire", "ancient-india", "ashoka", "chandragupta", "world-history", "historical-analysis"]
 excerpt: "The Maurya Empire explained - Chandragupta's conquest, Ashoka's transformation, and ancient India's golden age."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-06-24
 ---
 
@@ -16,7 +16,7 @@ In the aftermath of the Battle of Kalinga in 261 BC, the Maurya emperor Ashoka w
 
 <!--more-->
 
-![Maurya Empire: Ancient India's First Superpower - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Maurya Empire: Ancient India's First Superpower - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The Maurya Empire (321-185 BC) was the first political entity to unify most of the Indian subcontinent under a single administration, and it did so twice: once through the military genius of Chandragupta Maurya, who founded the empire in a remarkable campaign that drove out the Macedonian garrisons left by Alexander the Great and then conquered the major Indian kingdoms from northwest to south; and once, more lastingly, through the moral authority of Ashoka, whose edicts inscribed on rocks and pillars throughout the subcontinent created the first pan-Indian political and cultural discourse. The empire's military achievement was extraordinary; its cultural and philosophical legacy was more extraordinary still. Ashoka's conversion to Buddhist Dharma and his attempt to govern through ethical principles rather than force created the first serious experiment in what modern political philosophy would call governance by moral persuasion, and his edicts, the first extensive body of inscribed political thought in Indian history, continue to shape the political imagination of the world's largest democracy: the Lion Capital of Ashoka is the national emblem of modern India, and the Ashoka Chakra appears on its flag. To place the Maurya Empire within the full sweep of ancient world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal civilization alongside its contemporaries in the Mediterranean and East Asian worlds.
 

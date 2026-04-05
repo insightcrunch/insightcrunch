@@ -6,9 +6,9 @@ date: 2015-06-14
 categories: ["Leisure"]
 tags: ["pompeii", "mount-vesuvius", "ancient-rome", "natural-disaster", "world-history"]
 excerpt: "How Pompeii was destroyed and preserved - the eruption, the victims, and the city frozen in volcanic ash."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-06-14
 ---
 
@@ -16,7 +16,7 @@ On the morning of August 24, 79 AD (or possibly October 24, based on more recent
 
 <!--more-->
 
-![Destruction of Pompeii by Vesuvius in 79 AD - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Destruction of Pompeii by Vesuvius in 79 AD - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The destruction of Pompeii is one of history's most famous catastrophes and one of its most remarkable scientific windfalls. The same volcanic forces that killed the city's inhabitants preserved it with a completeness that no amount of deliberate conservation could have achieved: the buildings, the streets, the household objects, the food still in the ovens, the graffiti on the walls, the bodies frozen in their last postures, all survived the eruption in a state of preservation that continues to astonish and instruct archaeologists nearly two centuries after systematic excavation began. Pompeii is not merely a tragedy; it is a time capsule, the most complete snapshot of ordinary Roman life that has survived from antiquity, and it has transformed modern understanding of how Romans actually lived as opposed to how their literature and official monuments depicted them as living. To place Pompeii within the broader sweep of Roman and ancient history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this event and its context.
 

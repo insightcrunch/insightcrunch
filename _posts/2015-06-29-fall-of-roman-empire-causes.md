@@ -6,9 +6,9 @@ date: 2015-06-29
 categories: ["Leisure"]
 tags: ["fall-of-rome", "roman-empire", "ancient-history", "barbarian-invasions", "world-history"]
 excerpt: "Why the Roman Empire fell - every major cause explained, from barbarian pressure to internal rot and decay."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-06-29
 ---
 
@@ -16,7 +16,7 @@ On September 4, 476 AD, the Germanic chieftain Odoacer deposed the last Western 
 
 <!--more-->
 
-![Why the Roman Empire Fell: Causes Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Why the Roman Empire Fell: Causes Explained - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The question of why the Roman Empire fell is one of the most debated questions in Western historiography, and the fact that it has been debated for fifteen centuries without producing a consensus answer reflects both the genuine complexity of the question and the way the Roman fall has served as a mirror for the anxieties of each subsequent era. Edward Gibbon's eighteen-century answer emphasized Christianity and moral decline; nineteenth-century historians emphasized racial mixing and the corruption of the Roman stock; twentieth-century Marxists emphasized economic decline and class struggle; contemporary historians emphasize climate change, epidemic disease, and the structural challenges of large-empire governance. Each answer contains genuine insight and each contains characteristic blind spots. The thesis that this article will defend is that the Western Roman Empire fell because a specific combination of structural weaknesses, which had been present and manageable for centuries, became unmanageable when several external shocks arrived simultaneously in the late fourth and fifth centuries. The fall was not inevitable, but given the combination of factors that actually occurred, it was not surprising. To trace the full arc of Rome's rise and fall within the sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal event and its causes.
 

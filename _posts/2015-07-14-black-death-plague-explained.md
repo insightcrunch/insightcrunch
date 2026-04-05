@@ -6,9 +6,9 @@ date: 2015-07-14
 categories: ["Leisure"]
 tags: ["black-death", "plague", "medieval-history", "pandemic", "world-history", "historical-analysis"]
 excerpt: "The Black Death explained - how plague devastated Europe, killed millions, and transformed medieval society."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-07-14
 ---
 
@@ -16,7 +16,7 @@ In October 1347, a fleet of twelve Genoese trading ships docked at the Sicilian 
 
 <!--more-->
 
-![The Black Death Explained: History and Impact - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Black Death Explained: History and Impact - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The Black Death of 1347-1353 AD was the most catastrophic single event in European and Middle Eastern history, killing between 30 and 60 percent of the population of Europe and perhaps 30 to 50 percent of the population of the Middle East and North Africa within approximately six years. In absolute numbers, the plague killed between 25 and 50 million people in Europe alone, out of a pre-plague population of approximately 75 million; global estimates for the death toll range from 75 to 200 million. These numbers are staggering at any historical scale, but they are particularly striking in context: the Black Death killed more people, as a proportion of the affected population, than any other event in recorded human history including the World Wars of the twentieth century. Understanding how this happened, why medieval society had no effective defense against it, and what happened to the world that emerged from the catastrophe is one of the most important exercises in historical understanding available, not least because the Black Death's legacy, the changed labor relations, the new attitudes toward death and authority, the accelerated development of medieval commercial capitalism, shaped the world that eventually became the modern world. To trace the Black Death within the full sweep of medieval world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal pandemic.
 

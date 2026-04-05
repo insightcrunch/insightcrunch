@@ -6,9 +6,9 @@ date: 2015-05-20
 categories: ["Leisure"]
 tags: ["sparta", "athens", "ancient-greece", "military-history", "world-history", "historical-comparison"]
 excerpt: "Sparta vs Athens compared - two radically different societies and the rivalry that shaped Greek civilization."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-05-20
 ---
 
@@ -16,7 +16,7 @@ Every society that has ever tried to govern itself has eventually faced the same
 
 <!--more-->
 
-![Sparta vs Athens: Two Cities Compared - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Sparta vs Athens: Two Cities Compared - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The Sparta-Athens comparison has been made continuously from Thucydides to Plato to Nietzsche to contemporary political scientists, and it has been used to justify almost every political position imaginable: those who value discipline and martial virtue point to Sparta; those who value intellectual freedom and democratic participation point to Athens; those who distrust democracy as mob rule invoke the Athenian execution of Socrates; those who distrust authoritarianism invoke Sparta's horrifying treatment of the helots. The comparison has been so thoroughly enlisted in the service of partisan arguments that it has become almost impossible to see the two cities clearly. What the historical evidence actually shows, stripped of the idealization that both have attracted, is two laboratories for the same experiment, conducted under different initial conditions, producing different results, and both ultimately failing in instructive ways. To trace these developments within the broader sweep of Greek and Mediterranean history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing the Sparta-Athens rivalry within its proper context.
 

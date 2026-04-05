@@ -6,9 +6,9 @@ date: 2015-05-30
 categories: ["Leisure"]
 tags: ["mesopotamia", "ancient-history", "sumer", "babylon", "world-history", "historical-analysis"]
 excerpt: "Ancient Mesopotamia explained - the invention of writing, law, cities, and civilization between two rivers."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-05-30
 ---
 
@@ -16,7 +16,7 @@ Around 3200 BC, in the city of Uruk in southern Mesopotamia, someone pressed a s
 
 <!--more-->
 
-![Ancient Mesopotamia: Cradle of Civilization - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Ancient Mesopotamia: Cradle of Civilization - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The claim that Mesopotamia is the "cradle of civilization" is one of the most genuinely well-supported claims in world history, not because everything that happened there was admirable or even important in itself, but because the specific innovations that occurred there, the city, writing, law, large-scale agriculture, complex political organization, the wheel, metallurgy, and the mathematical and astronomical systems that underpin modern science, were the foundational inventions that made everything that followed them possible. The Tigris and Euphrates river valley, an alluvial plain stretching from the mountains of eastern Anatolia and northwestern Iran to the Persian Gulf, was not an obviously propitious place for civilization: it was hot, mosquito-infested, subject to violent and unpredictable flooding, and largely lacking in stone, timber, and metal. What it had was extraordinarily fertile soil, deposited by millennia of river flooding, that could support population densities no previous agricultural system had achieved. The surplus those densities generated created the conditions for the first cities, the first states, and the first written records. To trace these developments within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing Mesopotamia's foundational achievements within the global context of human civilization's development.
 

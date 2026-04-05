@@ -6,9 +6,9 @@ date: 2015-06-04
 categories: ["Leisure"]
 tags: ["roman-republic", "roman-empire", "ancient-history", "julius-caesar", "augustus", "world-history"]
 excerpt: "How the Roman Republic became an Empire - civil war, Caesar, Augustus, and the death of Roman democracy."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-06-04
 ---
 
@@ -16,7 +16,7 @@ On January 13, 27 BC, the Roman Senate convened in an extraordinary session. Oct
 
 <!--more-->
 
-![Roman Republic to Empire: How Rome Changed - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Roman Republic to Empire: How Rome Changed - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The transformation of the Roman Republic into the Roman Empire was not a single event but a process lasting more than a century, from the murder of Tiberius Gracchus in 133 BC to the settlement of 27 BC, and it was driven not by the ambition of any individual, however significant Caesar and Augustus were, but by structural forces that the Republic's institutions were simply not designed to manage. Professional armies loyal to individual commanders rather than to the state; the concentration of enormous wealth in the hands of a small aristocratic class that used it to corrupt political outcomes; the creation of a landless urban proletariat whose political energy could be mobilized by whoever promised them bread and entertainment; the social tensions produced by the absorption of the entire Mediterranean world into a political system designed for a city-state: these were the forces that destroyed the Republic. Caesar and Augustus were the men who found ways to manage these forces; they did not create them. To trace the full arc of this transformation within the sweep of Roman and Western history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding the Republic-to-Empire transition.
 

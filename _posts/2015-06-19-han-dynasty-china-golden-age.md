@@ -6,9 +6,9 @@ date: 2015-06-19
 categories: ["Leisure"]
 tags: ["han-dynasty", "ancient-china", "silk-road", "world-history", "historical-analysis"]
 excerpt: "The Han Dynasty explained - China's golden age, the Silk Road, and the empire that rivaled Rome."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-06-19
 ---
 
@@ -16,7 +16,7 @@ In 202 BC, a peasant from a minor administrative family in the kingdom of Chu na
 
 <!--more-->
 
-![Han Dynasty: China's Golden Age Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Han Dynasty: China's Golden Age Explained - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The Han Dynasty (206 BC to 220 AD) was, at its height, one of the two dominant civilizations on earth, matched in population, territorial extent, administrative sophistication, and cultural achievement only by the contemporary Roman Empire in the West. Like Rome, it governed a population of approximately 60 million people across a territory of roughly five million square kilometers; like Rome, it built a road network, standardized weights and measures and currency, developed a professional civil service, and created a literary and philosophical tradition whose products are still studied today. But the Han Dynasty was not simply the Eastern counterpart of Rome; it developed its own specific solutions to the universal problems of governing large multicultural populations, and those solutions, the examination system for civil service recruitment, the Confucian ideology of governance, the tributary system for managing foreign relations, became the templates that shaped Chinese political culture for two millennia after the dynasty's fall. To trace these developments within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing the Han Dynasty alongside its contemporary civilizations.
 
