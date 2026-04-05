@@ -6,9 +6,9 @@ date: 2026-02-20
 categories: ["Leisure"]
 tags: ["bollywood-gangster", "crime-films", "indian-cinema", "satya", "gangs-of-wasseypur", "underworld-movies"]
 excerpt: "Every Bollywood gangster film analyzed with deep dives into the underworld storytelling that shaped Indian cinema."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-02-20
 ---
 
@@ -16,7 +16,7 @@ The Bollywood gangster film is not merely a genre; it is a mirror held up to Ind
 
 <!--more-->
 
-![Best Bollywood Gangster Films Complete Guide - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Best Bollywood Gangster Films Complete Guide - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 This article provides the definitive guide to every significant Bollywood gangster film, ranked and analyzed with the depth that the genre's artistic achievement deserves. The analysis examines each film across five dimensions: narrative ambition (what story the film tells and how it structures that story), visual style (how the film photographs the underworld and what those visual choices communicate), performance achievement (the specific acting accomplishments that define each film's human texture), cultural context (what real-world events and social conditions the film responds to), and lasting influence (how the film changed what subsequent gangster films could attempt). The ranking that follows is not a popularity contest but an analytical hierarchy that evaluates each film's contribution to the genre's artistic evolution, and readers who disagree with specific placements are encouraged to [explore the complete box office data](https://reportmedic.org/tools/bollywood-box-office-explorer.html) to see how commercial performance correlates, or fails to correlate, with artistic achievement.
 

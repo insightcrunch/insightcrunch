@@ -6,9 +6,9 @@ date: 2026-03-05
 categories: ["Leisure"]
 tags: ["bollywood-action", "cinema-history", "stunt-films", "action-evolution", "fight-choreography", "indian-cinema"]
 excerpt: "The complete history of Bollywood action cinema traced decade by decade from the 1950s to Dhurandhar."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-03-05
 ---
 
@@ -16,7 +16,7 @@ Bollywood action cinema has undergone more radical transformations than any othe
 
 <!--more-->
 
-![Complete History of Bollywood Action Cinema - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Complete History of Bollywood Action Cinema - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This article traces that evolution decade by decade, analyzing each era's defining films, signature action styles, and the social forces that shaped them. The analysis connects to the broader Bollywood landscape examined across this series: the [directorial styles analysis](https://insightcrunch.com/2026/02/10/top-bollywood-director-filmmaking-styles-analyzed/) examines how individual filmmakers shaped action cinema's evolution, the [Bollywood vs Hollywood comparison](https://insightcrunch.com/2026/02/05/bollywood-vs-hollywood-action-films-compared/) contextualizes Indian action within the global landscape, and the [box office records](https://insightcrunch.com/2026/02/15/bollywood-box-office-all-time-records/) document the commercial performance that each era's action innovations produced. The history that follows is not nostalgic but analytical: each decade is examined for why action changed, not merely how, and the connections between action style and social change reveal that Bollywood's most physical genre is also its most socially responsive.
 

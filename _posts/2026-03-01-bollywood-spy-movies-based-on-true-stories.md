@@ -6,9 +6,9 @@ date: 2026-03-01
 categories: ["Leisure"]
 tags: ["bollywood-spy", "true-stories", "raw-operations", "indian-intelligence", "real-events", "espionage"]
 excerpt: "Every Bollywood spy film based on true stories analyzed with the real intelligence operations behind the fiction."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-03-01
 ---
 
@@ -16,7 +16,7 @@ The most chilling Bollywood spy films are the ones that announce "inspired by tr
 
 <!--more-->
 
-![Bollywood Spy Movies Based on True Stories - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Bollywood Spy Movies Based on True Stories - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 Every film discussed in this article announces, in some form, that it is "inspired by true events" or "based on real incidents," and every film discussed here takes creative liberties with the truth it claims to depict. The question is not whether the films are accurate, they are not, and they cannot be, because the classified nature of intelligence operations means that the complete truth is unavailable to filmmakers, audiences, and in some cases even to the government officials who authorized the operations. The question is what the specific liberties each film takes reveal about the relationship between Indian cinema and Indian intelligence, about what the Indian public is permitted to know about the operations conducted in its name, and about how the creative process of dramatization transforms historical events into cultural mythology that subsequently shapes how the nation understands its own security apparatus, its intelligence capabilities, and the invisible sacrifices that its operatives make in the spaces between what the public knows and what the classified record contains.
 

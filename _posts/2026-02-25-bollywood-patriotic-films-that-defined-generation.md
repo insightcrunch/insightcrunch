@@ -6,9 +6,9 @@ date: 2026-02-25
 categories: ["Leisure"]
 tags: ["bollywood-patriotic", "national-identity", "indian-cinema", "war-films", "deshbhakti", "cultural-impact"]
 excerpt: "How Bollywood patriotic films shaped Indian national identity across seven decades of cinema history."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-02-25
 ---
 
@@ -24,7 +24,7 @@ The historical scope of the analysis requires one additional note of context. Th
 
 <!--more-->
 
-![Bollywood Patriotic Films That Defined a Generation - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Bollywood Patriotic Films That Defined a Generation - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 This article examines every significant Bollywood patriotic film across seven decades, analyzing how each film shaped national consciousness, what specific version of India it promoted, and how the collective body of patriotic cinema has constructed the Indian identity that contemporary audiences carry into their daily lives. The analysis is organized chronologically by era rather than by quality or popularity, because the evolution of patriotic cinema is itself a story about India's maturation as a nation, and understanding the trajectory from Mother India's agrarian nationalism through Border's military nationalism through Dhurandhar's intelligence nationalism reveals how India's understanding of what it means to be patriotic has deepened alongside its geopolitical ambitions. The chronological approach also reveals the genre's internal tensions: between emotional catharsis and analytical complexity, between secular nationalism and religious nationalism, between military heroism and intelligence sacrifice, between confrontational patriotism and compassionate patriotism. These tensions are not flaws in the genre but reflections of the genuine disagreements within Indian society about what the nation is, what it should be, and what serving it requires.
 

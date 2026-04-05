@@ -6,9 +6,9 @@ date: 2026-02-15
 categories: ["Leisure"]
 tags: ["bollywood-box-office", "collection-records", "1000-crore-club", "indian-cinema-business", "opening-day", "highest-grossing"]
 excerpt: "Every Bollywood box office record decoded with the economics, strategies, and milestones that shaped Indian cinema."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-02-15
 ---
 
@@ -16,7 +16,7 @@ Bollywood box office records are not numbers. They are a coded history of India 
 
 <!--more-->
 
-![Bollywood Box Office All Time Records - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Bollywood Box Office All Time Records - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 This article is both a reference and an argument. The reference component provides comprehensive, accurate collection data for every significant Bollywood box office record, organized by milestone, by era, and by the analytical dimensions that reveal what the numbers mean. The argument component contends that box office records, properly understood, are the most honest history of Indian popular culture available, because unlike critical assessments, award ceremonies, and cultural commentary, box office numbers cannot be spun, manipulated, or revised after the fact. A film either sold tickets or it did not. A record either fell or it held. The cash register is the most democratic critic in cinema, and the story it tells about what India wants from its movies is more reliable than any other source. The numbers cannot be argued with, they cannot be revised for political convenience, and they cannot be dismissed as subjective opinion. They are the audience's verdict, delivered in the only currency that the commercial entertainment industry recognizes as authoritative, and this article's purpose is to interpret that verdict with the analytical precision and historical context that it deserves.
 
