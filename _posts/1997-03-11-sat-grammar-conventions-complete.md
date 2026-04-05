@@ -6,9 +6,9 @@ date: 1997-03-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Grammar", "Standard English", "Conventions"]
 excerpt: "The complete SAT grammar reference covering every Standard English Conventions rule, organized by frequency. Subject-verb agreement, comma rules, punctuation, parallel structure, modifiers, and more - with 3+ examples per rule."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 1997-03-11
 ---
 
@@ -20,7 +20,7 @@ This article is the complete grammar reference for the Digital SAT - the single 
 
 For the complete grammar section strategy, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For deep coverage of the most frequently tested rule, see [SAT Writing subject-verb agreement and pronoun-antecedent clarity](/1997/03/07/sat-subject-verb-agreement/). For punctuation rules in depth, see [SAT Writing colon, semicolon, dash and apostrophe rules](/1997/03/02/sat-punctuation-mastery/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions across all rule categories.
 
-![SAT Standard English Conventions Complete Grammar Guide](/assets/images/blog/blog-08.webp)
+![SAT Standard English Conventions Complete Grammar Guide](/assets/images/blog/blog-50.webp)
 
 ## How to Use This Guide
 

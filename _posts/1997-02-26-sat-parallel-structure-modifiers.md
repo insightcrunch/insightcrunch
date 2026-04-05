@@ -6,9 +6,9 @@ date: 1997-02-26
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Parallel Structure", "Modifiers", "Grammar"]
 excerpt: "Two of the most frequently tested grammar concepts on the Digital SAT - parallel structure and modifier placement - covered completely with 8+ examples each, from simple lists to the SAT's favorite dangling modifier traps."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 1997-02-26
 ---
 
@@ -20,7 +20,7 @@ This guide covers both concepts exhaustively, with 8+ examples per type organize
 
 For the complete grammar rules overview across all SEC categories, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For the comprehensive reference covering all grammar rule categories in one place, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For logical comparisons and idiomatic expressions, the companion concepts covered in the next article, see [SAT Writing: Logical Comparisons and Idiomatic Expressions](/1997/02/21/sat-logical-comparisons-idioms/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions including parallel structure and modifier questions.
 
-![SAT Parallel Structure and Modifier Placement](/assets/images/blog/blog-11.webp)
+![SAT Parallel Structure and Modifier Placement](/assets/images/blog/blog-21.webp)
 
 ## Part One: Parallel Structure
 

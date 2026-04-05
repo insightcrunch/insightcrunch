@@ -6,9 +6,9 @@ date: 1997-04-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Literature", "Fiction", "Reading Strategy"]
 excerpt: "Literature passages on the Digital SAT test interpretive reading: character analysis, narrator tone, figurative language, and subtext in both prose fiction and poetry. This complete guide covers every question type and passage structure."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-04-03
 ---
 
@@ -26,7 +26,7 @@ For the two specialized areas covered in companion articles - poetry analysis an
 
 For the broader Reading and Writing preparation framework, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). That guide places literature passages in the context of the full section and provides the overall pacing and question type distribution that helps students allocate time efficiently across all passage types. For poetry-specific strategy in greater depth, see [SAT Reading poetry and verse excerpts](/1996/12/25/sat-poetry-verse-strategy/). For tone and attitude questions in greater depth, see [SAT Reading tone, attitude and author's perspective](/1996/12/20/sat-tone-attitude-questions/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions across all passage types.
 
-![SAT Reading Literature and Fiction Passages Strategy](/assets/images/blog/blog-03.webp)
+![SAT Reading Literature and Fiction Passages Strategy](/assets/images/blog/blog-70.webp)
 
 ## How Literature Passages Differ from Science and History Passages
 

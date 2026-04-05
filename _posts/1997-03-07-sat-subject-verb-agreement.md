@@ -6,9 +6,9 @@ date: 1997-03-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Subject-Verb Agreement", "Pronouns", "Grammar"]
 excerpt: "The most frequently tested grammar rules on the Digital SAT - subject-verb agreement and pronoun clarity - covered exhaustively. All seven agreement patterns and every pronoun error type, with 10+ examples each from straightforward to SAT-level tricky."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1997-03-07
 ---
 
@@ -26,7 +26,7 @@ Students who work through this entire guide have seen every agreement and pronou
 
 For the complete grammar rules overview across all ten SEC rule categories, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For the comprehensive reference covering all Standard English Conventions rules in one article, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For punctuation rules including colons, semicolons, and apostrophes, see [SAT Writing: Colon, Semicolon, Dash and Apostrophe Rules Mastered](/1997/03/02/sat-punctuation-mastery/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions including subject-verb agreement.
 
-![SAT Subject-Verb Agreement and Pronoun-Antecedent Clarity](/assets/images/blog/blog-09.webp)
+![SAT Subject-Verb Agreement and Pronoun-Antecedent Clarity](/assets/images/blog/blog-29.webp)
 
 ## Part One: Subject-Verb Agreement
 

@@ -6,9 +6,9 @@ date: 1997-03-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Student Notes", "Summary", "Digital SAT"]
 excerpt: "Student notes questions are unique to the Digital SAT. Master the goal-first strategy across all five rhetorical goal types with 6+ worked examples and complete wrong-answer analysis."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1997-03-20
 ---
 
@@ -24,7 +24,7 @@ Students reading this article before Article 34: the six worked examples here pr
 
 For the broader Reading and Writing preparation framework, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For the closely related rhetorical synthesis strategy that covers the same goal types in full depth, see [SAT rhetorical synthesis questions](/1997/03/29/sat-rhetorical-synthesis-guide/). For craft and structure questions that test related reading-for-purpose skills, see [SAT craft and structure questions](/1997/03/16/sat-craft-structure-questions/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions including student notes questions.
 
-![SAT Notes and Student Summary Questions Strategy](/assets/images/blog/blog-06.webp)
+![SAT Notes and Student Summary Questions Strategy](/assets/images/blog/blog-05.webp)
 
 ## What Student Notes Questions Look Like
 

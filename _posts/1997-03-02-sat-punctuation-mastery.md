@@ -6,9 +6,9 @@ date: 1997-03-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Punctuation", "Colon Semicolon", "Grammar"]
 excerpt: "The four punctuation marks the Digital SAT tests most aggressively - colon, semicolon, dash, and apostrophe - covered completely with 8+ examples each, including the questions that offer all four as answer choices."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1997-03-02
 ---
 
@@ -22,7 +22,7 @@ Every example in this guide represents a real question type that appears on the 
 
 For the complete grammar rules overview across all SEC categories, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For the comprehensive reference covering all grammar rules together, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For sentence boundary errors including comma splices and run-ons, see [SAT Writing: Sentence Boundaries and Comma Splices](/1997/02/12/sat-sentence-boundaries/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions including punctuation.
 
-![SAT Punctuation Mastery: Colon, Semicolon, Dash and Apostrophe](/assets/images/blog/blog-10.webp)
+![SAT Punctuation Mastery: Colon, Semicolon, Dash and Apostrophe](/assets/images/blog/blog-58.webp)
 
 ## The Four-Mark Decision Framework
 

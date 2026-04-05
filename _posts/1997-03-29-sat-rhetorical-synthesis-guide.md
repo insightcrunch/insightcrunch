@@ -6,9 +6,9 @@ date: 1997-03-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Rhetorical Synthesis", "Digital SAT", "Strategy"]
 excerpt: "Rhetorical synthesis is the Digital SAT's newest question type - and one of the quickest to master. Learn the goal-first reading strategy and work through 8+ examples covering every rhetorical purpose."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 1997-03-29
 ---
 
@@ -24,7 +24,7 @@ After working through this guide and the practice protocol, a student should be 
 
 For the broader Reading and Writing section strategy, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For the student notes format that overlaps with rhetorical synthesis, see [SAT notes and student summary questions](/1997/03/20/sat-notes-summary-questions/). For craft and structure questions that test related skills, see [SAT craft and structure questions](/1997/03/16/sat-craft-structure-questions/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions including rhetorical synthesis.
 
-![SAT Rhetorical Synthesis Questions Strategy](/assets/images/blog/blog-04.webp)
+![SAT Rhetorical Synthesis Questions Strategy](/assets/images/blog/blog-49.webp)
 
 ## What Rhetorical Synthesis Questions Look Like
 

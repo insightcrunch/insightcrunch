@@ -6,9 +6,9 @@ date: 1997-03-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Evidence", "Data Interpretation", "Strategy"]
 excerpt: "Command of Evidence questions come in two subtypes on the Digital SAT: textual evidence and quantitative evidence. This complete guide covers the two-step process for both, the specific traps to avoid, and 8+ worked examples."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1997-03-25
 ---
 
@@ -30,7 +30,7 @@ Command of Evidence questions are among the most frequently tested in the Digita
 
 For the broader Reading and Writing preparation context, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For tables and graphs in reading passages more broadly, see [SAT Reading tables, graphs and quantitative data](/1996/12/29/sat-quantitative-data-passages/). For command of evidence questions in the context of science passages, see [SAT Reading science passages strategy](/1997/04/12/sat-reading-science-passages/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions including command of evidence.
 
-![SAT Command of Evidence Questions Strategy](/assets/images/blog/blog-05.webp)
+![SAT Command of Evidence Questions Strategy](/assets/images/blog/blog-50.webp)
 
 ## The Two-Step Strategy for Both Subtypes
 

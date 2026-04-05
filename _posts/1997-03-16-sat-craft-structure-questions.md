@@ -6,9 +6,9 @@ date: 1997-03-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Craft and Structure", "Text Structure", "Purpose"]
 excerpt: "Craft and Structure questions test how and why a text is constructed - not just what it says. This complete guide covers purpose questions, text structure, word choice, audience, and sentence function with 8+ worked examples."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-03-16
 ---
 
@@ -26,7 +26,7 @@ Craft and structure questions appear frequently enough across the Digital SAT th
 
 For the broader Reading and Writing preparation framework, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For tone and attitude questions that overlap with craft and structure, see [SAT Reading tone, attitude and author's perspective questions](/1996/12/20/sat-tone-attitude-questions/). For main idea and purpose questions in greater depth, see [SAT Reading main idea, purpose and central claim questions](/1997/01/07/sat-main-idea-purpose/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions including craft and structure.
 
-![SAT Craft and Structure Questions Strategy](/assets/images/blog/blog-07.webp)
+![SAT Craft and Structure Questions Strategy](/assets/images/blog/blog-05.webp)
 
 ## What Craft and Structure Questions Test
 
