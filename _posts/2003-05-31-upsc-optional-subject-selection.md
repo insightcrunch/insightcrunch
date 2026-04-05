@@ -6,9 +6,9 @@ date: 2003-05-31
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Optional Subject", "UPSC Optional Selection", "Best Optional UPSC"]
 excerpt: "UPSC optional subject selection guide: five-criteria framework, top 10 optionals analysis, scoring myth debunked, and background-specific recommendations."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2003-05-31
 ---
 
@@ -16,7 +16,7 @@ Your optional subject choice is the single most consequential strategic decision
 
 This article provides the complete, systematic, data-driven framework for making the optional subject decision correctly, replacing the common but flawed approaches of topper emulation, coaching institute influence, and scoring myth reliance with a structured five-criteria evaluation system that accounts for all the factors that genuinely determine whether a specific optional will maximise your total Mains score given your specific academic background, intellectual interests, preparation timeline, available resources, and individual analytical strengths. It introduces the five-criteria evaluation system that systematically separates rational, evidence-based optional selection from the emotional, imitative, and myth-driven selection that leads thousands of aspirants into suboptimal choices every single cycle, analyses the ten most popular and most commonly chosen optionals against each of the five criteria with specific historical data and scoring tier classifications, debunks the pervasive and deeply entrenched "scoring optional" myth that leads thousands of aspirants into strategically suboptimal and often self-defeating choices every year, provides background-specific recommendations for engineers, doctors, commerce graduates, arts graduates, and science graduates, and gives you a concrete decision matrix template that you can apply to your specific situation to arrive at a choice you can defend with evidence rather than hope.
 
-![UPSC Optional Subject Selection Guide - Insight Crunch](/assets/images/blog/blog-13.webp)
+![UPSC Optional Subject Selection Guide - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Mains examination consists of seven merit papers totalling 1,750 marks, of which two are optional papers (250 marks each, totalling 500 marks). You choose one optional subject from a list of approximately forty-eight subjects offered by UPSC, ranging from humanities (History, Geography, Sociology, Political Science) through sciences (Physics, Chemistry, Mathematics, Zoology) to professional subjects (Law, Management, Medical Science, Engineering disciplines) and literature in various Indian and foreign languages. This single choice determines the content of two of your nine Mains papers, the preparation time you invest in optional-specific study, and, through its scoring impact, a substantial portion of your final rank. Making this choice well is not optional; it is essential.
 

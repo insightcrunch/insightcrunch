@@ -6,9 +6,9 @@ date: 2003-06-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Application", "UPSC Registration", "IAS Form", "UPSC Apply Online"]
 excerpt: "UPSC application step-by-step: registration, photo specs, DAF, fee payment, centre selection, and how to avoid common form-filling mistakes."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-06-18
 ---
 
@@ -16,7 +16,7 @@ The UPSC Civil Services Examination application process is not difficult, but it
 
 The application process for the UPSC Civil Services Examination has evolved significantly over the years, moving from a paper-based system to a fully digital online process. The Commission introduced its new Online Application Portal in 2025, replacing the earlier One Time Registration (OTR) module that had been in use for several years. The new portal, accessible at upsconline.nic.in, introduced Aadhaar-based authentication, a simplified four-part structure, and a streamlined interface designed to reduce form-filling errors. Whether you are applying for the first time or are a returning aspirant who used the old OTR system, you must register afresh on the new portal, as previous registrations do not carry over. This is a critical point that returning aspirants sometimes miss, leading to confusion when they try to log in with their old OTR credentials and discover those credentials are no longer valid.
 
-![UPSC Registration and Application Process - Insight Crunch](/assets/images/blog/blog-09.webp)
+![UPSC Registration and Application Process - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process: Prelims, Mains, and Interview. The application process mirrors this structure. You submit the initial application (with fee payment) before Prelims. If you clear Prelims, you fill the Detailed Application Form (DAF) before Mains. If you clear Mains, you attend the Interview based on information provided in the DAF. Each stage of the application process has its own requirements, deadlines, and potential pitfalls, and this article covers all three stages comprehensively. The entire application journey, from initial registration to final Interview appearance, spans approximately fourteen months, and the administrative decisions you make along this journey, from your category selection to your DAF hobbies, have consequences that extend well beyond the form itself.
 

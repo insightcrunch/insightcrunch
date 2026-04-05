@@ -6,9 +6,9 @@ date: 2003-06-13
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Marking", "UPSC Scoring", "Negative Marking", "UPSC Marks"]
 excerpt: "UPSC marking scheme explained: Prelims negative marking math, Mains evaluation process, Interview scoring, and optimal attempt strategy with probability models."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2003-06-13
 ---
 
@@ -16,7 +16,7 @@ Understanding exactly how UPSC scores your examination is not an academic exerci
 
 The UPSC Civil Services Examination marking scheme differs fundamentally and consequentially across its three stages, and each stage requires a distinctly different strategic response calibrated to its specific scoring mechanics. Prelims is objective (multiple-choice questions with four options each), with negative marking that mathematically penalises wrong answers at a rate of one-third of the marks allotted per question. Mains is subjective (essay-type written answers evaluated by human examiners at centralised checking camps), with no negative marking but with complex evaluation dynamics that systematically reward certain answer characteristics over others. The Interview is a structured personality assessment scored independently by individual board members whose marks are then averaged to produce the final Interview score. Understanding these differences at a granular, mathematically precise level, not just as general knowledge or examination-day common sense but as actionable strategic intelligence that shapes your daily preparation decisions and your minute-by-minute examination-hall behaviour, is what separates aspirants who maximise their scores from those who leave marks on the table through suboptimal attempt behaviour, poor time allocation, inadequate presentation, or missed opportunities to earn partial marks on questions they knew partially but chose to leave blank.
 
-![UPSC Marking Scheme - Insight Crunch](/assets/images/blog/blog-10.webp)
+![UPSC Marking Scheme - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the three stages of the examination serve different selection functions. Prelims is a screening test that reduces approximately ten lakh applicants to twelve to fifteen thousand Mains candidates. Mains is the substantive evaluation that produces the written marks that dominate the final ranking. The Interview adds a personality dimension that can shift ranks by fifty to two hundred positions. The marking scheme at each stage is designed to serve that stage's specific selection function, and your strategy must align with the scheme's incentive structure at each stage.
 
