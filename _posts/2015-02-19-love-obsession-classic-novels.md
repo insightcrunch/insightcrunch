@@ -6,9 +6,9 @@ date: 2015-02-19
 categories: ["Leisure"]
 tags: ["love", "obsession", "literary-comparison", "classic-literature", "jay-gatsby", "heathcliff", "literary-analysis"]
 excerpt: "Love vs obsession in classic novels - where devotion ends and destruction begins in literature's greatest loves."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2015-02-19
 ---
 
@@ -16,7 +16,7 @@ The most urgently available formal question that classic literature raises about
 
 <!--more-->
 
-![Love and Obsession in Classic Novels - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Love and Obsession in Classic Novels - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The argument this analysis will make is that the greatest novels about love and obsession are organized by three most urgently available most primary formal categories of the most completely available most specifically organized most distinction between the most dramatically available most love and the most genuinely available most obsession: the most urgently available most idealized projection organized by the most completely available most class aspiration as the most dramatically available most primary instrument in The Great Gatsby; the most genuinely available most absolute available most passionate psychology as simultaneously the most urgently available most most human quality and the most completely available most most destructive force in Wuthering Heights; and the most urgently available most most intense available most passion organized by the most completely available most most specific available most inequality of the most dramatically available most most power as the most genuinely available most primary formal argument about the most urgently available most most specific distinction between the most completely available most love and the most dramatically available most obsession in Jane Eyre. Each most genuinely available most primary formal category most completely illuminates a specific available form of the most urgently available most most specific distinction, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of the most dramatically available most most specific distinction in the most completely available most classic literary tradition. For context, the [complete analysis of The Great Gatsby](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/), the [complete analysis of Wuthering Heights](https://insightcrunch.com/2014/09/07/complete-analysis-wuthering-heights/), and the [complete analysis of Jane Eyre](https://insightcrunch.com/2014/10/12/complete-analysis-jane-eyre-bronte/) provide the most completely available most essential frameworks.
 

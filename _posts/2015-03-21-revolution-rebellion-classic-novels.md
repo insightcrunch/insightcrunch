@@ -6,9 +6,9 @@ date: 2015-03-21
 categories: ["Leisure"]
 tags: ["revolution", "rebellion", "literary-comparison", "animal-farm", "1984", "fahrenheit-451", "literary-analysis"]
 excerpt: "How classic novels portray revolution - the hope, the betrayal, and why every rebellion risks becoming tyranny."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2015-03-21
 ---
 
@@ -16,7 +16,7 @@ The most formally significant available argument that classic novels make about 
 
 <!--more-->
 
-![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The argument this analysis will make is that the greatest novels about revolution and rebellion are organized by three most urgently available most primary formal categories of the most completely available most specific argument about the most dramatically available most revolution and rebellion: the most genuinely available most revolutionary ideology corrupted by the most urgently available most gradual accumulation of power as the most completely available most primary formal instrument in Animal Farm; the most dramatically available most comprehensive institutional power organized as the most genuinely available most end in itself as the most urgently available most primary formal instrument in 1984; and the most completely available most most specifically organized most most individual rebellion as the most dramatically available most primary formal instrument of the most genuinely available most most specifically organized most most resistance to the most urgently available most most voluntary available most most self-censorship in Fahrenheit 451. Each most genuinely available most primary formal category most completely illuminates a specific available form of the most urgently available most revolution and rebellion, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of what classic literature argues about the most dramatically available most mechanics of revolt. For the structural context, the [complete analysis of Animal Farm](https://insightcrunch.com/2014/05/25/complete-analysis-animal-farm-orwell/), the [complete analysis of 1984](https://insightcrunch.com/2013/01/05/complete-analysis-1984-george-orwell/), and the [complete analysis of Fahrenheit 451](https://insightcrunch.com/2014/11/16/complete-analysis-fahrenheit-451/) provide the most completely available most essential frameworks.
 

@@ -6,9 +6,9 @@ date: 2015-03-01
 categories: ["Leisure"]
 tags: ["race", "justice", "american-literature", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "How classic American novels tackle race and justice - from Maycomb's courthouse to Gatsby's West Egg divide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2015-03-01
 ---
 
@@ -16,7 +16,7 @@ The most urgently available most formal question that classic American novels ra
 
 <!--more-->
 
-![Race and Justice in Classic American Novels - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Race and Justice in Classic American Novels - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The argument this analysis will make is that the greatest American novels about race and justice are organized by three most urgently available most primary formal categories of the most completely available most specific argument about race and justice in the most dramatically available most American literary tradition: the most genuinely available most most specifically organized most most direct available most most most formal available most most confrontation with the most urgently available most most racial injustice through the most completely available most most specifically organized most most court available most most system as the most dramatically available most most primary available most formal instrument in To Kill a Mockingbird; the most genuinely available most most specifically organized most most subtle available most formal argument about the most urgently available most most racial dimension of the most completely available most most class hierarchy as organized by the most dramatically available most most American Dream's most genuinely available most most specific unavailability in The Great Gatsby; and the most urgently available most most specifically organized most most colonial available most formal argument about the most completely available most most racial dimension of the most dramatically available most most most specifically organized most most imperial enterprise as the most genuinely available most most primary available most formal argument in Heart of Darkness as the most urgently available most most most specifically organized most most adjacent most available most formal argument. Each most genuinely available most primary formal category most completely illuminates a specific available form of the most urgently available most race and justice argument, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of what the most dramatically available most most specifically organized most most classic available most most American literary tradition argues about race and justice. For the structural context, the [complete analysis of To Kill a Mockingbird](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/) and the [colonialism and racism in Heart of Darkness](https://insightcrunch.com/2014/12/31/colonialism-racism-heart-of-darkness/) provide the most completely available most essential frameworks.
 

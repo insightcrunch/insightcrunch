@@ -6,9 +6,9 @@ date: 2015-04-05
 categories: ["Leisure"]
 tags: ["fate", "free-will", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "Fate vs free will in classic novels - which characters choose their path and which are trapped by forces beyond control."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-04-05
 ---
 
@@ -16,7 +16,7 @@ The most formally precise available argument that classic literature makes about
 
 <!--more-->
 
-![Fate vs Free Will in Classic Literature - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Fate vs Free Will in Classic Literature - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The argument this analysis will make is that the greatest classic novels about fate and free will are organized by three most urgently available most primary formal categories of the most completely available most specific argument: the most dramatically available most most specifically organized most most structural conditions as the most genuinely available most most primary available most formal instrument of the most urgently available most most fate in The Great Gatsby; the most completely available most most specifically organized most most self-deception organized by the most dramatically available most most class aspiration as the most genuinely available most most primary available most formal instrument of the most urgently available most most fate in Great Expectations; and the most completely available most most specifically organized most most individual awakening as the most dramatically available most most primary available most formal instrument of the most genuinely available most most free will as organized by the most urgently available most most most genuine available most most curiosity in Fahrenheit 451. Each most genuinely available most primary formal category most completely illuminates a specific available form of the most urgently available most most fate versus free will argument, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of what classic literature argues about whether characters are masters of their destiny or prisoners of circumstance. For the structural context, the [complete analysis of The Great Gatsby](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/), the [complete analysis of Great Expectations](https://insightcrunch.com/2014/09/27/complete-analysis-great-expectations/), and the [complete analysis of Fahrenheit 451](https://insightcrunch.com/2014/11/16/complete-analysis-fahrenheit-451/) provide the most completely available most essential frameworks.
 

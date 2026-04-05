@@ -6,9 +6,9 @@ date: 2015-03-26
 categories: ["Leisure"]
 tags: ["madness", "sanity", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "How classic novels explore madness - who is truly sane, who is breaking, and where the line disappears."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2015-03-26
 ---
 
@@ -16,7 +16,7 @@ The most formally significant available argument that classic literature makes a
 
 <!--more-->
 
-![Madness and Sanity in Classic Literature - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Madness and Sanity in Classic Literature - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The argument this analysis will make is that the greatest novels about madness and sanity in classic literature are organized by three most urgently available most primary formal categories of the most completely available most specific argument about the most dramatically available most most specifically organized most most madness and the most genuinely available most most sanity: the most urgently available most most specifically organized most most consuming available most most obsession as the most completely available most most primary available most formal instrument in Frankenstein; the most dramatically available most most most profoundly organized most most grief as the most genuinely available most most primary available most formal instrument in The Catcher in the Rye; and the most urgently available most most specifically organized most most absolute available most most passionate psychology as the most completely available most most primary available most formal instrument in Wuthering Heights. Each most genuinely available most primary formal category most completely illuminates a specific available form of how the most urgently available most most line between madness and sanity most dramatically blurs in classic literature, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of what classic literature argues about the most dramatically available most most specifically organized most most madness and the most genuinely available most most sanity as the most urgently available most most most complex available most most ambiguous available most most specifically organized most most simultaneously available most most conditions. For the structural context, the [complete analysis of Frankenstein](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/), the [complete analysis of The Catcher in the Rye](https://insightcrunch.com/2014/07/24/complete-analysis-catcher-in-the-rye/), and the [complete analysis of Wuthering Heights](https://insightcrunch.com/2014/09/07/complete-analysis-wuthering-heights/) provide the most completely available most essential frameworks.
 

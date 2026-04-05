@@ -6,9 +6,9 @@ date: 2015-03-11
 categories: ["Leisure"]
 tags: ["science", "morality", "literary-comparison", "frankenstein", "brave-new-world", "fahrenheit-451"]
 excerpt: "How classic novels explore science vs morality - creation, control, and the cost of knowledge without wisdom."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2015-03-11
 ---
 
@@ -16,7 +16,7 @@ The most urgently available most formal question that classic fiction raises abo
 
 <!--more-->
 
-![Science and Morality in Classic Fiction - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Science and Morality in Classic Fiction - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The argument this analysis will make is that the greatest novels about science and morality are organized by three most urgently available most primary formal categories of the most completely available most specific argument: the most dramatically available most individual creator's most genuinely available most moral abandonment as the most urgently available most primary available most formal instrument in Frankenstein; the most completely available most most specifically organized most most social available most most engineering's most dramatically available most most voluntary available most most surrender as the most genuinely available most primary available most formal instrument in Brave New World; and the most urgently available most most specifically organized most most entertainment technology's most completely available most most voluntary available most most self-censorship as the most dramatically available most primary available most formal instrument in Fahrenheit 451. Each most genuinely available most primary formal category most completely illuminates a specific available form of what happens when the most urgently available most knowledge most dramatically outpaces the most genuinely available most ethics, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of the most dramatically available most specific mechanisms. For the structural context, the [complete analysis of Frankenstein](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/), the [complete analysis of Brave New World](https://insightcrunch.com/2014/06/24/complete-analysis-brave-new-world/), and the [complete analysis of Fahrenheit 451](https://insightcrunch.com/2014/11/16/complete-analysis-fahrenheit-451/) provide the most completely available most essential frameworks.
 

@@ -6,9 +6,9 @@ date: 2015-04-20
 categories: ["Leisure"]
 tags: ["roman-empire", "ancient-history", "world-history", "rome", "historical-analysis"]
 excerpt: "The complete rise and fall of the Roman Empire - how Rome conquered the world and why the empire collapsed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-04-20
 ---
 
@@ -16,7 +16,7 @@ In the summer of 476 AD, a teenage barbarian king named Odoacer walked into Rave
 
 <!--more-->
 
-![Rise and Fall of the Roman Empire - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rise and Fall of the Roman Empire - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The story of Rome's rise and fall spans roughly twelve hundred years, from the traditional founding date of 753 BC to the deposition of Romulus Augustulus in 476 AD, and it is not a single story but a dozen overlapping ones: the story of a small Latin village that became a republic through patrician cunning and plebeian revolt; the story of that republic's transformation into an empire through military conquest and political assassination; the story of the Pax Romana, two centuries of relative peace that created the most sophisticated urban civilization the ancient world had ever seen; and finally the story of a slow catastrophic unraveling that took three centuries to complete and reshaped every aspect of what would become the medieval world. To trace these events across the full arc of Roman history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for placing Rome's rise and fall within the broader sweep of ancient and classical civilization.
 

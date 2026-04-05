@@ -6,9 +6,9 @@ date: 2015-03-06
 categories: ["Leisure"]
 tags: ["gothic-fiction", "literary-comparison", "frankenstein", "wuthering-heights", "jane-eyre", "literary-analysis"]
 excerpt: "How classic novels use Gothic elements - darkness, madness, secrets, and the truths hidden in haunted houses."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-03-06
 ---
 
@@ -16,7 +16,7 @@ The Gothic mode in classic literature is not simply the most completely availabl
 
 <!--more-->
 
-![Gothic Elements in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Gothic Elements in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The argument this analysis will make is that the Gothic mode in classic literature is organized by three most urgently available most primary formal categories of the most completely available most Gothic as the most dramatically available most formal instrument: the most genuinely available most most specifically organized most most psychological Gothic as the most urgently available most most specifically organized most most primary available most formal instrument in Frankenstein; the most completely available most most specifically organized most most landscape Gothic as the most dramatically available most most specifically organized most most primary available most formal instrument in Wuthering Heights; and the most genuinely available most most specifically organized most most architectural Gothic as the most urgently available most most specifically organized most most primary available most formal instrument in Jane Eyre. Each most genuinely available most primary formal category most completely illuminates a specific available form of the most urgently available most most Gothic as the most dramatically available most most formal instrument of the most genuinely available most most specifically organized most most truths that the most urgently available most most realistic mode most completely cannot say, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of the most dramatically available most most Gothic mode as the most genuinely available most most primary available most formal instrument in classic literature. For the structural context, the [complete analysis of Frankenstein](https://insightcrunch.com/2014/08/18/complete-analysis-frankenstein-shelley/), the [complete analysis of Wuthering Heights](https://insightcrunch.com/2014/09/07/complete-analysis-wuthering-heights/), and the [complete analysis of Jane Eyre](https://insightcrunch.com/2014/10/12/complete-analysis-jane-eyre-bronte/) provide the most completely available most essential frameworks.
 

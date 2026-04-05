@@ -6,9 +6,9 @@ date: 2015-03-31
 categories: ["Leisure"]
 tags: ["nature", "wilderness", "literary-comparison", "classic-literature", "lord-of-the-flies", "wuthering-heights"]
 excerpt: "How classic novels use nature and landscape - the moors, the island, the Congo, and nature as mirror."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-03-31
 ---
 
@@ -16,7 +16,7 @@ The most formally significant available argument that classic fiction makes abou
 
 <!--more-->
 
-![Nature and Wilderness in Classic Novels - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Nature and Wilderness in Classic Novels - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The argument this analysis will make is that the greatest classic novels about nature and wilderness are organized by three most urgently available most primary formal categories of the most completely available most specific argument about nature and wilderness as the most dramatically available most primary formal instrument: the most genuinely available most most specifically organized most most landscape Gothic as the most urgently available most most primary available most formal instrument of the most completely available most most externalization of the most dramatically available most most absolute available most most passionate psychology in Wuthering Heights; the most genuinely available most most specifically organized most most natural world stripped of civilizing constraints as the most urgently available most most primary available most formal instrument of the most completely available most most revelation of human nature's most dramatically available most most fundamental available most most dimension in Lord of the Flies; and the most genuinely available most most specifically organized most most wilderness as the most urgently available most most primary available most formal instrument of the most completely available most most ideological self-justification's most dramatically available most most collapse in Heart of Darkness. Each most genuinely available most primary formal category most completely illuminates a specific available form of how the most urgently available most natural world most dramatically functions as the most genuinely available most most primary available most formal mirror of the most completely available most most human condition in classic fiction, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of what classic literature argues about the most dramatically available most natural world as the most genuinely available most most primary available most formal mirror. For the structural context, the [complete analysis of Wuthering Heights](https://insightcrunch.com/2014/09/07/complete-analysis-wuthering-heights/), the [complete analysis of Lord of the Flies](https://insightcrunch.com/2014/04/20/complete-analysis-lord-of-the-flies/), and the [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) provide the most completely available most essential frameworks.
 

@@ -6,9 +6,9 @@ date: 2015-03-16
 categories: ["Leisure"]
 tags: ["american-dream", "literary-comparison", "classic-literature", "the-great-gatsby", "of-mice-and-men"]
 excerpt: "How classic literature dismantles the American Dream - promise, failure, and what the novels really say."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2015-03-16
 ---
 
@@ -16,7 +16,7 @@ The American Dream in classic literature is not simply the available story of pr
 
 <!--more-->
 
-![The American Dream in Classic Literature - Insight Crunch](/assets/images/blog/blog-04.webp)
+![The American Dream in Classic Literature - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The argument this analysis will make is that the greatest American novels about the American Dream are organized by three most urgently available most primary formal categories of the most completely available most specific argument about the most dramatically available most American Dream: the most genuinely available most fundamental unavailability of old money as the most urgently available most primary formal instrument in The Great Gatsby; the most completely available most structural trap as the most dramatically available most primary formal instrument in Of Mice and Men; and the most genuinely available most most specifically organized most most racial available most most injustice as the most urgently available most most primary available most formal instrument of the most completely available most American Dream's most dramatically available most most specifically organized most most most formal available most most failure in To Kill a Mockingbird. Each most genuinely available most primary formal category most completely illuminates a specific available form of how the most urgently available most American Dream most dramatically fails, and the most completely available most comparison across the three most genuinely available most primary formal categories illuminates the most urgently available most full range of the most dramatically available most specific mechanisms through which the most genuinely available most American Dream most completely and most urgently fails in the most dramatically available most classic American literary tradition. For the structural context, the [complete analysis of The Great Gatsby](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/), the [complete analysis of Of Mice and Men](https://insightcrunch.com/2014/11/01/complete-analysis-of-mice-and-men/), and the [complete analysis of To Kill a Mockingbird](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/) provide the most completely available most essential frameworks.
 

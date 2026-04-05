@@ -6,9 +6,9 @@ date: 2015-04-15
 categories: ["Leisure"]
 tags: ["literary-analysis", "essay-guide", "study-guide", "writing-skills", "classic-literature"]
 excerpt: "Complete guide to writing a literary analysis essay - thesis, evidence, structure, and analysis that impresses."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2015-04-15
 ---
 
@@ -16,7 +16,7 @@ The most urgently available most formal distinction between a book report and a 
 
 <!--more-->
 
-![How to Write a Literary Analysis Essay - Insight Crunch](/assets/images/blog/blog-10.webp)
+![How to Write a Literary Analysis Essay - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This most urgently available most most most specifically organized most most primary available most main available most most complete guide most completely and most dramatically organizes the most genuinely available most most most specifically organized most most primary available most main available most most literary analysis essay through the most urgently available most most most five available most most most primary available most main available most most most specifically organized most most primary available most main available most most stages: developing the most completely available most most most specifically organized most most primary available most main available most most thesis; selecting and organizing the most dramatically available most most most specifically organized most most primary available most main available most most evidence; structuring the most genuinely available most most most specifically organized most most primary available most main available most most essay; writing the most urgently available most most most specifically organized most most primary available most main available most most most analytical available most most most specifically organized most most primary available most main available most main available most most analysis paragraphs; and most completely revising and most dramatically polishing the most genuinely available most most most specifically organized most most primary available most main available most most final available most most most specifically organized most most primary available most main available most main available most most essay. For comprehensive study tools that support literary analysis practice, the [Classic Literature Study Guide on ReportMedic](https://reportmedic.org/tools/classic-literature-study-guide.html) provides structured analytical frameworks for every major classic novel.
 

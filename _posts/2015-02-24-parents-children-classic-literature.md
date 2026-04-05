@@ -6,9 +6,9 @@ date: 2015-02-24
 categories: ["Leisure"]
 tags: ["parents", "children", "family", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "How classic novels portray parents and children - protection, failure, inheritance, and the bonds that shape us."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2015-02-24
 ---
 
@@ -16,7 +16,7 @@ The parent-child relationship in classic literature is not a simple available su
 
 <!--more-->
 
-![Parents and Children in Classic Literature - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Parents and Children in Classic Literature - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The argument this analysis will make is that the greatest novels about parents and children in classic literature are organized by four most urgently available most primary formal categories of the most completely available most parent-child relationship: the most dramatically available most most explicit available most most moral guidance as the most genuinely available most primary formal instrument in To Kill a Mockingbird; the most urgently available most most structurally organized most most parental anxiety as the most completely available most primary formal instrument in Pride and Prejudice; the most dramatically available most most unexpected available most most selfless sacrifice as the most genuinely available most primary formal instrument in Great Expectations; and the most urgently available most most parental abandonment as the most completely available most primary formal instrument of the most dramatically available most most specifically organized most most destruction in Frankenstein. Each most genuinely available most primary formal category most completely illuminates a specific available form of the most urgently available most parent-child relationship, and the most completely available most comparison across the four most genuinely available most primary formal categories illuminates the most urgently available most full range of what classic literature argues about the most dramatically available most most specifically organized most bonds between parents and children. For context, the [complete analysis of To Kill a Mockingbird](https://insightcrunch.com/2014/02/14/complete-analysis-to-kill-a-mockingbird/) and the [complete analysis of Great Expectations](https://insightcrunch.com/2014/09/27/complete-analysis-great-expectations/) provide the most completely available most essential frameworks.
 
