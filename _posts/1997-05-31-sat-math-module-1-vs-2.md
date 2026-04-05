@@ -9,9 +9,8 @@ excerpt: "Understand the Digital SAT adaptive scoring system, the critical score
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1997-05-31
+last_updated: 2026-04-05
 ---
-
 The single most strategically important feature of the Digital SAT is one that most students do not fully understand before they walk into the testing room: the performance on Math Module 1 determines not just the difficulty of Module 2, but the ceiling of your entire Math score. A student who scores 20 out of 22 on a hard Module 2 will score somewhere around 750 to 780. A student who scores a perfect 22 out of 22 on an easy Module 2 will score only around 600 to 620. The score ceiling difference between the two Module 2 paths is roughly 130 to 180 points, and it is set entirely by Module 1 performance.
 
 This means Module 1 accuracy is more important than Module 1 speed. A student who rushes through Module 1 and makes four careless errors might be routed to the easier Module 2, capping their score at around 620 no matter how perfectly they finish. A student who works carefully through Module 1, makes zero careless errors, and does not finish the last two questions will likely be routed to the harder Module 2 and can score in the 700s or higher. For students targeting 650 and above, Module 1 is the most consequential 35 minutes of the entire SAT.

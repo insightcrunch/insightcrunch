@@ -9,9 +9,8 @@ excerpt: "Master the 3-pass strategy for SAT Math: Pass 1 for easy questions, Pa
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1997-05-27
+last_updated: 2026-04-05
 ---
-
 Twenty-two questions in 35 minutes works out to an average of approximately 95 seconds per question. That average is completely misleading. Easy questions should take 30 to 45 seconds. Medium questions should take 75 to 105 seconds. Hard questions may require 2 to 4 minutes. Treating every question as if it deserves the same 95 seconds produces a specific failure mode: the student spends 4 minutes grinding on a hard question near the beginning of the module, then rushes through the final five questions in under a minute each, making careless errors on problems they know how to solve.
 
 The solution is the 3-pass strategy: a systematic, timed approach that visits every question three times, allocating effort in proportion to difficulty. Pass 1 (minutes 0 to 15) clears every easy and straightforward medium question quickly. Pass 2 (minutes 15 to 28) tackles the flagged medium-to-hard questions with appropriate time. Pass 3 (minutes 28 to 35) addresses remaining hard questions and verifies uncertain answers. Every question gets resolved; no question receives infinite time; the highest-value questions (the ones you know how to solve) are never left blank because you ran out of time.

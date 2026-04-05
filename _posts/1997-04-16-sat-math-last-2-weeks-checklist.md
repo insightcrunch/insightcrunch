@@ -9,9 +9,8 @@ excerpt: "The complete 14-day SAT Math countdown plan: two practice tests, targe
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
 author: "natalie-webb"
-last_updated: 1997-04-16
+last_updated: 2026-04-05
 ---
-
 The two weeks before the SAT are the most consequential preparation period. Every hour invested in the right activity during this window produces real, measurable score improvement. Every hour spent on the wrong activity (or spent doing nothing productive) is an opportunity cost that cannot be recovered.
 
 This article provides a complete, day-by-day plan for the 14 days before your SAT Math section. The plan is built around two core principles: in the first week, continue active learning and gap-filling; in the second week, stop learning anything new and shift entirely to consolidation, confidence, and execution. Students who follow this distinction consistently perform better than students who try to learn new content in the final 7 days.

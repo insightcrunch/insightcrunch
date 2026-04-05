@@ -9,9 +9,8 @@ excerpt: "The 15 most common SAT Math careless errors with concrete examples of 
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "samantha-lee"
-last_updated: 1997-05-18
+last_updated: 2026-04-05
 ---
-
 This article saves more points than learning any new content topic. The fifteen careless errors cataloged here are not caused by a lack of mathematical knowledge. They are caused by specific execution habits that allow students to perform the correct mathematical procedure but arrive at the wrong answer anyway. A student who knows how to solve a system of equations but solves for x when the question asks for y loses that point due to a careless error, not a content gap. A student who correctly computes a percent change but uses the wrong original value loses the point the same way.
 
 Research on SAT score patterns consistently shows that students at every score level make careless errors on questions they knew how to solve. For students in the 600s, careless errors account for approximately 20 to 30 points of score loss per section. For students in the 700s, they account for 30 to 50 points. The errors become more costly as scores rise because they occur on harder questions that are worth more scaled points per raw point. Eliminating five careless errors per module produces the same score improvement as learning several new content topics.

@@ -9,9 +9,8 @@ excerpt: "A compassionate, strategic guide for math-anxious students: minimum co
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
 author: "maria-santos"
-last_updated: 1997-05-04
+last_updated: 2026-04-05
 ---
-
 If you have been told you are "not a math person," or if looking at the SAT Math section fills you with genuine dread, this article is written specifically for you. Not for the student who wants to push from 650 to 720, and not for the student who finds math easy but needs more practice. For you: the student who has had difficult experiences with math, who may have avoided it whenever possible, and who now needs to engage with the SAT Math section and wants honest guidance on how to approach it.
 
 The first thing to say clearly is this: math anxiety is real. It is not laziness, it is not stupidity, and it is not a permanent trait. It is a conditioned emotional response, often developed after difficult early experiences with math, that triggers stress, avoidance, and impaired performance when facing mathematical tasks. Research shows that math anxiety activates some of the same neural pathways as physical pain. Students who experience it are not failing to try hard enough; they are experiencing a genuine psychological barrier that requires a specific approach to overcome.

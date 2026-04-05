@@ -9,9 +9,8 @@ excerpt: "Science passages are the most objective passage type on the Digital SA
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1997-04-12
+last_updated: 2026-04-05
 ---
-
 Science passages on the Digital SAT have a reputation for being intimidating. Students encounter dense terminology, unfamiliar experimental procedures, and data tables alongside complex prose, and they assume the difficulty is the scientific content itself. This assumption is incorrect, and it is costing points.
 
 This guide addresses the assumption directly at every level: the content categories, the vocabulary approach, the reading protocol, the question types, and the error patterns all confirm the same truth - that science passages reward systematic reading rather than scientific knowledge. Students who internalize this truth before their first practice session develop a fundamentally different and more effective relationship with science passages than students who never receive this orientation.

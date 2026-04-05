@@ -9,9 +9,8 @@ excerpt: "The complete guide to margin of error, confidence intervals, sample si
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 61
 author: "simon-hartley"
-last_updated: 1997-04-30
+last_updated: 2026-04-05
 ---
-
 Statistical inference questions appear on virtually every Digital SAT Math administration, typically one to two per module. Students consistently find them among the most confusing question types because they are conceptual rather than computational: the answer does not come from a formula or calculation but from correctly interpreting what a study's design allows you to conclude.
 
 The good news: once you understand the three core concepts that these questions test (margin of error, confidence intervals, and the valid-inference boundary), the questions become straightforward and reliably answerable. Unlike hard algebraic questions where the difficulty is computational, the difficulty in statistical inference questions is purely conceptual. A student who memorizes the right framework answers every inference question correctly, regardless of mathematical skill level.

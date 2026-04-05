@@ -9,9 +9,8 @@ excerpt: "The complete SAT Math formula and concept reference organized by domai
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "hannah-moore"
-last_updated: 1997-05-09
+last_updated: 2026-04-05
 ---
-
 The SAT provides a small reference sheet at the start of each Math module containing basic geometry formulas (area of a circle, volume of a box, the Pythagorean theorem, and a few others). Students who prepare only to the level of that reference sheet are under-prepared for the Digital SAT. The full set of formulas and concepts tested on the Digital SAT is substantially larger, and most of the tested formulas are NOT on the provided reference sheet.
 
 This article is the complete formula and concept reference for every formula, rule, and relationship tested on the Digital SAT Math section. It is organized by domain (Algebra, Advanced Math, Geometry, Statistics and Probability, and Key Rules) and each entry includes a one-sentence explanation of when you need it. Use this reference during your final review weeks to confirm that every formula is memorized and that you know the specific question context that triggers its use.

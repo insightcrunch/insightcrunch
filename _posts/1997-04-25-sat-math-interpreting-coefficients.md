@@ -9,9 +9,8 @@ excerpt: "The complete guide to SAT coefficient interpretation questions: slope 
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 1997-04-25
+last_updated: 2026-04-05
 ---
-
 Coefficient interpretation questions appear on virtually every Digital SAT Math administration. The question format is consistent: a mathematical model is presented with variables representing real-world quantities, and students are asked what a specific number in the equation represents in the context described. These questions test reading precision far more than mathematical computation.
 
 The difficulty is entirely in the wording. Every wrong answer choice uses language that is almost correct but subtly off in a specific and predictable way. Students who understand the precise meaning of each parameter type (slope, intercept, exponential base, quadratic coefficient) and who read answer choices carefully will answer these questions correctly every time. Students who pick the answer that sounds reasonable without parsing the exact wording will frequently choose a trap answer.

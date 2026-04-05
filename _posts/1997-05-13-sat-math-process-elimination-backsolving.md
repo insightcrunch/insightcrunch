@@ -9,9 +9,8 @@ excerpt: "Backsolving, plugging in numbers, process of elimination, and strategi
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 1997-05-13
+last_updated: 2026-04-05
 ---
-
 Non-algebraic solving techniques are among the most underutilized tools in the Digital SAT Math section. Many students default to algebra for every problem, even when backsolving or plugging in numbers would produce the correct answer in one-third the time. These techniques do not require mathematical sophistication. They require strategic thinking about the structure of multiple-choice questions and the judicious application of arithmetic.
 
 Backsolving, plugging in numbers, process of elimination, and strategic guessing together form a complete non-algebraic toolkit that complements algebraic and Desmos-based approaches. Each technique is faster than algebra for specific question types, and all four work especially well in combination with Desmos. Together, they give every student a full spectrum of solving methods, allowing the fastest and most reliable approach to be selected for each question rather than defaulting to the slowest approach (full algebraic derivation) for every problem.

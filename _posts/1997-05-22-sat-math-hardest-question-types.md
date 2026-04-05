@@ -9,9 +9,8 @@ excerpt: "Full worked solutions for the 15 hardest recurring Digital SAT Math qu
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 62
 author: "maria-santos"
-last_updated: 1997-05-22
+last_updated: 2026-04-05
 ---
-
 The hardest questions on the Digital SAT Math section are not random. The same fifteen question types appear on every administration, and each has a specific, learnable technique that converts what looks like a 4-minute struggle into a 90-second systematic process. Students who know these fifteen techniques walk into the harder Module 2 with a decisive advantage: they recognize each hard question type on sight and know exactly which procedure to apply.
 
 This guide provides the complete worked solution for each of the fifteen hardest recurring question types, along with the generalizable principle that makes any similar question solvable. These fifteen types span every domain in the Digital SAT Math section: parametric system analysis, quadratic manipulation, exponential modeling, circle geometry, probability, polynomial analysis, complex numbers, inequalities, radical equations, function composition, 3D geometry scaling, regression interpretation, and rate-work problems. Together they cover the content that separates scores of 680 from scores of 760.

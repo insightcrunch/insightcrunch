@@ -9,9 +9,8 @@ excerpt: "Data-driven analysis of Digital SAT Math question distribution 2023-20
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 61
 author: "simon-hartley"
-last_updated: 1997-04-21
+last_updated: 2026-04-05
 ---
-
 Every hour of SAT preparation has an opportunity cost: time spent on one topic is time not spent on another. A student who prepares without knowing which topics appear most frequently is essentially making random bets about where the points are. A student who prepares based on actual question frequency data is making evidence-based bets with much higher expected returns.
 
 This article provides that frequency data. Based on analysis of all available Digital SAT official practice tests and real exam reports from the 2023 to 2026 period, it establishes a three-tier priority system that tells you exactly which topics to study first, second, and last. It also explains how question distribution differs between Module 1 and Module 2, which topics have become more or less frequent since the Digital SAT's launch, and how to use this analysis to build a study plan that maximizes score improvement per preparation hour.
