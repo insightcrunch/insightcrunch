@@ -6,9 +6,9 @@ date: 2026-02-05
 categories: ["Leisure"]
 tags: ["bollywood", "hollywood", "action-films", "comparison", "fight-choreography", "global-cinema"]
 excerpt: "Bollywood vs Hollywood action films dissected across choreography, storytelling, VFX, and cultural impact."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-02-05
 ---
 
@@ -16,7 +16,7 @@ The question "Is Bollywood action better than Hollywood action?" is the wrong qu
 
 <!--more-->
 
-![Bollywood vs Hollywood Action Films Compared - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Bollywood vs Hollywood Action Films Compared - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 This article argues a specific thesis: the divergence between Bollywood and Hollywood action is not a deficit to be corrected but a cultural richness to be understood. Hollywood action evolved from the Western and the war film toward increasingly isolated individual heroism, producing a tradition in which the hero fights alone, trusts no institution completely, and ultimately defines victory as personal survival. Bollywood action evolved from mythological storytelling and the epic tradition toward communal spectacle, producing a tradition in which the hero fights for a collective, trusts in dharma or duty, and defines victory as the community's preservation. Neither tradition is inherently superior. Both have produced masterpieces and both have produced garbage. But understanding what makes them different is the key to understanding why a John Wick fight scene feels fundamentally different from a Dhurandhar fight scene, why a Mad Max chase operates by different dramatic rules than a Baahubali battle, and why the global audience is increasingly hungry for both vocabularies rather than insisting on choosing one.
 
