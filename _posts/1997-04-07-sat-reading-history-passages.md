@@ -6,9 +6,9 @@ date: 1997-04-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "History Passages", "Social Science", "Strategy"]
 excerpt: "History and social science passages are the most challenging reading type on the Digital SAT due to complex sentence structure and archaic language. This complete guide covers decoding strategies, author purpose, paired text analysis, and six passage walkthroughs."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1997-04-07
 ---
 
@@ -22,7 +22,7 @@ This guide covers every dimension of history and social science passage strategy
 
 For the broader Reading and Writing preparation framework, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For literature and fiction passages which require a different approach, see [SAT Reading literature and fiction passages strategy](/1997/04/03/sat-reading-literature-fiction/). For the paired text question type that most often involves historical passages, see [SAT Reading cross-text connections and paired passage analysis](/1997/01/21/sat-cross-text-connections/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions across all passage types.
 
-![SAT Reading History and Social Science Passages Strategy](/assets/images/blog/blog-02.webp)
+![SAT Reading History and Social Science Passages Strategy](/assets/images/blog/blog-72.webp)
 
 ## Why History Passages Are the Hardest
 

@@ -6,9 +6,9 @@ date: 1997-04-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Science Passages", "Reading Comprehension", "Strategy"]
 excerpt: "Science passages are the most objective passage type on the Digital SAT. This complete guide covers biology, chemistry, and psychology texts, technical vocabulary, data presentation, and the exact reasoning process from passage to answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1997-04-12
 ---
 
@@ -22,7 +22,7 @@ This guide covers every aspect of science passage strategy: how to handle the th
 
 For the broader Reading and Writing preparation framework, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For command of evidence questions that appear with science passages, see [SAT Reading command of evidence](/1997/03/02/sat-command-of-evidence/). For tables and graphs that accompany science passages, see [SAT Reading quantitative data in passages](/1996/12/29/sat-quantitative-data-passages/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format reading questions across all passage types.
 
-![SAT Reading Science Passages Strategy](/assets/images/blog/blog-01.webp)
+![SAT Reading Science Passages Strategy](/assets/images/blog/blog-10.webp)
 
 ## Why Science Passages Are Easier Than They Look
 

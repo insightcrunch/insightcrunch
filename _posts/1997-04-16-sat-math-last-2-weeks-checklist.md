@@ -6,9 +6,9 @@ date: 1997-04-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Final Review", "Checklist", "Strategy"]
 excerpt: "The complete 14-day SAT Math countdown plan: two practice tests, targeted error review, Desmos drills, formula confirmation, and day-by-day guidance from Day 14 to test day."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 1997-04-16
 ---
 
@@ -22,7 +22,7 @@ For students who find even 30 minutes difficult on certain days: do 15 minutes o
 
 For the formula reference that Day 10 uses, see the [complete SAT Math formula reference](/1997/05/09/sat-math-formula-reference-sheet/). For the careless mistakes review that Day 9 uses, see [SAT Math careless mistakes prevention](/1997/05/18/sat-math-careless-mistakes/). For timed practice problems at any point in the plan, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
 
-![SAT Math Last 2 Weeks Review Checklist](/assets/images/blog/blog-15.webp)
+![SAT Math Last 2 Weeks Review Checklist](/assets/images/blog/blog-72.webp)
 
 ## The Two-Week Framework: What Changes at Day 7
 
