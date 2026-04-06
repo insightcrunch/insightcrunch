@@ -6,9 +6,9 @@ date: 1997-02-08
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Digital SAT", "Adaptive", "Module Strategy"]
 excerpt: "The definitive guide to the Digital SAT's adaptive RW module system: how Module 1 accuracy sets your score ceiling, why harder Module 2 is good news, and the specific strategies that maximize performance in both modules."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1997-02-08
 ---
 
@@ -18,7 +18,7 @@ This guide covers how the adaptive RW module system works, what the score ceilin
 
 For the complete Digital SAT format overview including adaptive mechanics and the full structure of both the Math and RW sections, see the [Digital SAT complete guide](/2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/). For the parallel Math module adaptive strategy, see [SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works](/1997/05/31/sat-math-module-1-vs-2/). For pacing strategy within each module, see [SAT RW Pacing: 27 Questions in 32 Minutes Per Module](/1997/01/30/sat-rw-pacing-strategy/). For Digital SAT RW practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide adaptive-format practice in the Digital SAT style.
 
-![SAT RW Adaptive Module Strategy](/assets/images/blog/blog-15.webp)
+![SAT RW Adaptive Module Strategy](/assets/images/blog/blog-24.webp)
 
 ## The Adaptive System: How It Works
 

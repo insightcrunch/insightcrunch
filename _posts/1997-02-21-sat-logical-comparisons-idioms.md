@@ -6,9 +6,9 @@ date: 1997-02-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Comparisons", "Idioms", "Grammar"]
 excerpt: "Two grammar areas that trip up even strong writers - logical comparisons (comparing like to like) and the 25 most tested idiomatic preposition pairings - covered completely with worked examples and the exact traps the Digital SAT uses."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-02-21
 ---
 
@@ -18,7 +18,7 @@ This guide covers both areas completely: the full logical comparison rule set wi
 
 For the complete grammar rules overview across all SEC categories, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For the comprehensive reference covering all rule categories in one place, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For parallel structure and modifier placement, the companion concepts covered in the previous article, see [SAT Writing: Parallel Structure and Modifier Placement](/1997/02/26/sat-parallel-structure-modifiers/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions including comparison and idiom questions.
 
-![SAT Logical Comparisons and Idiomatic Expressions](/assets/images/blog/blog-12.webp)
+![SAT Logical Comparisons and Idiomatic Expressions](/assets/images/blog/blog-90.webp)
 
 ## Part One: Logical Comparisons
 

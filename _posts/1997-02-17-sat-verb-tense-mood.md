@@ -6,9 +6,9 @@ date: 1997-02-17
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Verb Tense", "Grammar", "Conventions"]
 excerpt: "The definitive Digital SAT guide to verb tense consistency, justified tense shifts, past perfect sequencing, subjunctive mood, and reported speech - with 8+ examples per pattern and the exact strategies that resolve tense questions in under 25 seconds."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1997-02-17
 ---
 
@@ -22,7 +22,7 @@ For verb tense questions, the preparation investment is particularly efficient: 
 
 For subject-verb agreement and pronoun rules that interact with tense questions, see [SAT Writing: Subject-Verb Agreement and Pronoun Clarity](/1997/03/07/sat-subject-verb-agreement/). For the comprehensive reference covering all rule categories in one place, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For the complete grammar rules overview, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For timed Digital SAT practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include tense and mood questions in Digital SAT format.
 
-![SAT Verb Tense and Mood](/assets/images/blog/blog-13.webp)
+![SAT Verb Tense and Mood](/assets/images/blog/blog-03.webp)
 
 ## The Core Tense Strategy: Identify, Match, Justify
 

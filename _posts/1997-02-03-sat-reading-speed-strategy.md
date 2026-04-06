@@ -6,9 +6,9 @@ date: 1997-02-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Reading Speed", "Comprehension", "Strategy"]
 excerpt: "The Digital SAT's short-passage format changes everything about reading strategy. This guide covers the first-sentence-first approach, when to skim vs read every word, how to handle dense academic text, and the key insight that most speed problems are actually comprehension problems."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1997-02-03
 ---
 
@@ -18,7 +18,7 @@ This guide covers the Digital SAT's unique short-passage format, the first-sente
 
 For the complete Digital SAT Reading and Writing section overview, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For adaptive module strategy and how Module 1 reading accuracy determines your score ceiling, see [SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy](/1997/02/08/sat-rw-module-strategy/). For pacing within the 32-minute module, see [SAT RW Pacing: 27 Questions in 32 Minutes Per Module](/1997/01/30/sat-rw-pacing-strategy/). For Digital SAT RW practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide short-passage practice in the Digital SAT format.
 
-![SAT Reading Speed Strategy](/assets/images/blog/blog-01.webp)
+![SAT Reading Speed Strategy](/assets/images/blog/blog-11.webp)
 
 ## The Digital SAT Reading Format: What Changed
 

@@ -6,9 +6,9 @@ date: 1997-02-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Sentence Boundaries", "Comma Splice", "Grammar"]
 excerpt: "The definitive guide to sentence boundary errors on the Digital SAT: comma splices, run-ons, and fragments with 10+ examples each, plus the four legal ways to join independent clauses and the key skill of distinguishing independent from dependent clauses."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-02-12
 ---
 
@@ -20,7 +20,7 @@ This guide covers all three error types with 10+ examples each organized from st
 
 For the complete punctuation rules covering colons, semicolons, dashes, and apostrophes, see [SAT Writing: Colon, Semicolon, Dash and Apostrophe Rules Mastered](/1997/03/02/sat-punctuation-mastery/). For the comprehensive reference covering all grammar rule categories, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For the complete grammar rules overview, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For timed Digital SAT practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include sentence boundary questions in Digital SAT format.
 
-![SAT Sentence Boundaries and Comma Splices](/assets/images/blog/blog-14.webp)
+![SAT Sentence Boundaries and Comma Splices](/assets/images/blog/blog-85.webp)
 
 ## The Core Sentence Boundary Skill: Independent vs Dependent Clauses
 
