@@ -6,9 +6,9 @@ date: 2015-08-08
 categories: ["Leisure"]
 tags: ["renaissance", "european-history", "art", "humanism", "world-history", "historical-analysis"]
 excerpt: "The Renaissance explained - how art, science, and humanism transformed Europe from the medieval to the modern."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-08-08
 ---
 
@@ -16,7 +16,7 @@ In the summer of 1401, the Arte di Calimala, the Florentine cloth merchants' gui
 
 <!--more-->
 
-![The Renaissance Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-08.webp)
+![The Renaissance Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The Renaissance, the word means rebirth (rinascita in Italian), is the name that the fifteenth-century Italian humanists gave to their own cultural revolution, their own sense that they were recovering something that had been lost in the medieval centuries between them and the classical world they revered. Whether it was actually a rebirth of antiquity or primarily a genuinely new creation is one of historiography's most interesting debates; what is not debated is that the century and a half from approximately 1400 to 1550 AD saw the most concentrated explosion of artistic, literary, scientific, and philosophical creativity that Europe had yet experienced, one that transformed the visual arts, the understanding of the natural world, the role of the individual, and the character of human self-understanding in ways that define the boundary between the medieval and the modern. To trace the Renaissance within the full sweep of European and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal period.
 

@@ -6,9 +6,9 @@ date: 2015-08-23
 categories: ["Leisure"]
 tags: ["spanish-armada", "1588", "european-history", "england", "spain", "world-history"]
 excerpt: "The Spanish Armada explained - why Spain invaded, how England won, and what it meant for European power."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-08-23
 ---
 
@@ -16,7 +16,7 @@ On the afternoon of July 29, 1588, the English admiral Lord Howard of Effingham 
 
 <!--more-->
 
-![The Spanish Armada of 1588 Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
+![The Spanish Armada of 1588 Explained - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The Spanish Armada campaign of 1588 is one of the most celebrated military engagements in English history, fixed in the national memory through a combination of genuine strategic significance and extraordinary narrative drama: the queen who inspired her troops at Tilbury with a speech about having the heart of a king, the sea dogs who finished their game of bowls before sailing to battle, the Protestant wind that scattered the Catholic fleet, and the image of a small island nation defying the greatest empire in the world. The reality is both more complex and in some ways more interesting than the legend: England's victory was less decisive than the legend suggests, Spain's defeat was less catastrophic than English propaganda claimed, and the true significance of the campaign was not the immediate military outcome but the specific demonstration of the limits of Spanish naval power and the beginning of the long process by which England replaced Spain as the dominant maritime power in the Atlantic. To place the Armada campaign within the full sweep of European power politics, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal confrontation.
 

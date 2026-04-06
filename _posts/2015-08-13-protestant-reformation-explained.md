@@ -6,9 +6,9 @@ date: 2015-08-13
 categories: ["Leisure"]
 tags: ["protestant-reformation", "martin-luther", "european-history", "christianity", "world-history"]
 excerpt: "The Reformation explained - Luther's protest, the split of Christianity, and its transformation of Europe."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-08-13
 ---
 
@@ -16,7 +16,7 @@ On the morning of October 31, 1517, Martin Luther, a thirty-three-year-old Augus
 
 <!--more-->
 
-![The Protestant Reformation Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The Protestant Reformation Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The Protestant Reformation is the defining event in the religious history of Western civilization and one of the three or four most consequential events in all of European history. It shattered the unity of Western Christendom that had been maintained for a millennium, producing the permanent divisions among Catholics, Lutherans, Calvinists, Anglicans, Anabaptists, and dozens of other traditions that define the religious landscape of the contemporary Western world. It catalyzed the political transformation of Europe from a loosely unified Christendom under nominal papal authority into a system of sovereign nation-states in which political authority was secular and religious affiliation was one variable among many in the organization of political life. It transformed the relationship between individuals and religious authority, establishing the principle of individual conscience as an authority against institutional church pronouncements that is one of the foundations of modern liberal individualism. And it produced the specific combination of religious seriousness, political independence, and commercial energy that historians from Max Weber onward have traced as the cultural foundation of early modern capitalism. To place the Reformation within the full sweep of European religious and political history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this world-transforming movement.
 

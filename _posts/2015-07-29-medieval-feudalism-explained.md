@@ -6,9 +6,9 @@ date: 2015-07-29
 categories: ["Leisure"]
 tags: ["feudalism", "medieval-history", "social-structure", "europe", "world-history"]
 excerpt: "Medieval feudalism explained - how the system of lords, vassals, and serfs organized European life."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-07-29
 ---
 
@@ -16,7 +16,7 @@ On a summer morning in August 843 AD, three grandsons of Charlemagne signed the 
 
 <!--more-->
 
-![Medieval Feudalism Explained: How It Worked - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Medieval Feudalism Explained: How It Worked - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 Medieval feudalism is one of the most misunderstood concepts in popular historical consciousness, simultaneously over-simplified (as a hierarchical pyramid of king-lords-serfs) and under-analyzed (as a coherent system when it was actually a highly variable collection of local arrangements). The word itself, derived from the medieval Latin feodum (fief), was not used systematically by the people who lived under the arrangements it describes; it was coined by seventeenth-century jurists trying to systematize the legal complexity they had inherited, and the degree to which "feudalism" represents a real historical system rather than a retrospective scholarly construction is actively debated by historians. What is not debated is that a specific set of arrangements, involving land grants in exchange for military service, hierarchies of personal loyalty and obligation, the administration of justice at the local level by landholders, and the binding of agricultural laborers to the land, organized most of western European society from roughly the ninth through the fourteenth centuries and shaped the political, legal, and social development of every subsequent European civilization. To trace the development and decline of feudalism within the full sweep of medieval world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal social system.
 

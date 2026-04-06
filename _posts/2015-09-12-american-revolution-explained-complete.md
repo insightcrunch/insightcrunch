@@ -6,9 +6,9 @@ date: 2015-09-12
 categories: ["Leisure"]
 tags: ["american-revolution", "american-history", "independence", "founding-fathers", "world-history"]
 excerpt: "The American Revolution explained - causes, key battles, independence, and the creation of a new nation."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-09-12
 ---
 
@@ -16,7 +16,7 @@ On the evening of December 16, 1773, a group of approximately 116 men calling th
 
 <!--more-->
 
-![The American Revolution Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![The American Revolution Explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The American Revolution (1775-1783 AD) was the first successful anti-colonial revolution in the modern world, the founding event of the United States of America, and one of the most consequential political experiments in human history. Its specific character differed from the French Revolution that followed it in ways that both reflect and explain the different outcomes: the American Revolution was a revolution of political principle rather than social upheaval, organized by an elite that had already been governing itself for over a century and that sought independence rather than the transformation of its own society. The specific result, the American constitutional republic, was the most stable democratic government in modern history, surviving two and a half centuries of social, economic, and political change while the French Revolution produced more than a dozen constitutions in its first century. Understanding the American Revolution requires understanding both its specific intellectual achievements and its specific limitations: it created the most sophisticated constitutional framework in history while simultaneously preserving slavery, excluding women from full political participation, and displacing indigenous peoples from their lands. To trace the American Revolution within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this founding event.
 

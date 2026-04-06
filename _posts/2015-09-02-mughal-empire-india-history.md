@@ -6,9 +6,9 @@ date: 2015-09-02
 categories: ["Leisure"]
 tags: ["mughal-empire", "indian-history", "akbar", "taj-mahal", "world-history", "historical-analysis"]
 excerpt: "The Mughal Empire explained - Babur's conquest, Akbar's vision, Shah Jahan's Taj Mahal, and imperial decline."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-09-02
 ---
 
@@ -16,7 +16,7 @@ In the spring of 1526, a prince without a kingdom led a force of approximately 1
 
 <!--more-->
 
-![The Mughal Empire in India Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![The Mughal Empire in India Explained - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The Mughal Empire (1526-1857 AD) was the largest and most powerful state in Indian history and one of the great gunpowder empires of the early modern world, governing at its height approximately one-quarter of the world's population and generating perhaps one-quarter of global GDP from the subcontinent's extraordinary agricultural and commercial wealth. It produced some of the most magnificent architecture in human history, including the Taj Mahal; some of the most sophisticated administrative systems in the pre-modern world; and in the emperor Akbar one of the most remarkable rulers in the history of any civilization. It also produced the specific political fragmentation and military weakness that allowed the British East India Company to establish first commercial dominance and eventually political sovereignty over a civilization that had recently outproduced and outpopulated the entirety of Europe. Understanding the Mughal Empire honestly requires holding all of these dimensions simultaneously: its genuine greatness and its genuine failures, its cultural achievements and its imperial violence, its political sophistication and its ultimate political disintegration. To trace the Mughal Empire within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this extraordinary dynasty.
 

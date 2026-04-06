@@ -6,9 +6,9 @@ date: 2015-08-18
 categories: ["Leisure"]
 tags: ["age-of-exploration", "columbus", "european-history", "colonialism", "world-history"]
 excerpt: "The Age of Exploration explained - key voyages, motivations, consequences, and the birth of globalization."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-08-18
 ---
 
@@ -16,7 +16,7 @@ On the morning of October 12, 1492, a lookout aboard the Pinta named Rodrigo de 
 
 <!--more-->
 
-![The Age of Exploration Explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The Age of Exploration Explained - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The Age of Exploration, the period from approximately 1400 to 1650 AD during which European sailors ventured into and mapped the world's oceans, establishing sea routes to Asia, "discovering" the Americas, and completing the first circumnavigation of the globe, is simultaneously one of the greatest feats of human courage and technological achievement and the opening act of one of history's most catastrophic series of destructions. The same voyages that demonstrated the human capacity for sustained oceanic navigation, for surviving months at sea on wooden ships with no mechanical propulsion, and for maintaining discipline and purpose in conditions of extraordinary deprivation, were also the instrument through which European powers enslaved millions of Africans, destroyed indigenous American civilizations that had flourished for millennia, and established the colonial systems whose consequences continue to shape global inequality in the present. Understanding the Age of Exploration honestly requires holding both dimensions simultaneously, neither reducing it to heroic adventure nor to pure predation, but understanding the specific historical forces that produced it and the specific consequences it generated. To trace the Age of Exploration within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal era.
 

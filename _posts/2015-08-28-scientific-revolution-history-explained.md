@@ -6,9 +6,9 @@ date: 2015-08-28
 categories: ["Leisure"]
 tags: ["scientific-revolution", "copernicus", "galileo", "newton", "european-history", "world-history"]
 excerpt: "The Scientific Revolution explained - how Copernicus, Galileo, and Newton transformed human understanding."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-08-28
 ---
 
@@ -16,7 +16,7 @@ In the summer of 1609, a Paduan professor of mathematics named Galileo Galilei h
 
 <!--more-->
 
-![The Scientific Revolution Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
+![The Scientific Revolution Explained - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The Scientific Revolution, the transformation of natural philosophy into modern science that occurred in Europe between approximately 1543 (the publication of Copernicus's heliocentric model) and 1687 (the publication of Newton's Principia Mathematica), was the most consequential intellectual event in the history of human civilization since the invention of writing. It changed not just what humanity knew about the physical world but how humanity went about knowing anything at all, replacing the appeal to ancient authority with the systematic observation of nature, the speculative framework with the testable hypothesis, and the qualitative description with the mathematical law. The specific methods it established, the careful observation of nature, the formulation of hypotheses about underlying causes, the testing of hypotheses against empirical evidence, and the expression of results in mathematical form, are the foundation of every scientific and technological achievement of the past four centuries, from the steam engine to the microchip to the genome. To trace the Scientific Revolution within the full sweep of European intellectual and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative period.
 

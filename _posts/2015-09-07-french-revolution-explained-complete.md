@@ -6,9 +6,9 @@ date: 2015-09-07
 categories: ["Leisure"]
 tags: ["french-revolution", "european-history", "bastille", "napoleon", "world-history"]
 excerpt: "The French Revolution explained - causes, key events, the Terror, Napoleon's rise, and its global impact."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-09-07
 ---
 
@@ -16,7 +16,7 @@ On the morning of July 14, 1789, a crowd of several thousand Parisians stormed t
 
 <!--more-->
 
-![The French Revolution Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The French Revolution Explained - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 What made the storming of the Bastille historically significant was not its military outcome but its political meaning: a Paris mob had defeated a royal garrison, and the king's army had not intervened. Louis XVI, writing in his diary that night, recorded simply "Rien" (Nothing), meaning he had caught nothing hunting that day; the event that would end his dynasty had not yet reached his attention. By the following morning it had. When he was told that Paris had risen, the king asked his courtier, "Is this a revolt?" The courtier replied, "No, Sire, it is a revolution." The distinction was correct. The French Revolution was not simply a political disturbance that a restored monarchy would eventually absorb; it was the most consequential political transformation in the history of Western civilization, destroying not just the French monarchy but the entire system of aristocratic privilege, hereditary authority, and divine-right kingship on which European political order had rested for a millennium, and inventing in its place the specifically modern political world of popular sovereignty, national citizenship, human rights, and ideological politics that still organizes our own. To trace the French Revolution within the full sweep of European history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this world-transforming event.
 
