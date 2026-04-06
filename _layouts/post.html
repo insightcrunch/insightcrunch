@@ -213,8 +213,8 @@ article {
 /* ══════ CAT ASSISTANT ══════ */
 .cat-wrap{position:fixed;z-index:9999;bottom:8px;right:8px;display:flex;flex-direction:column;align-items:flex-end;animation:catEnter 0.8s cubic-bezier(0.34,1.4,0.64,1) 0.6s both}
 @keyframes catEnter{0%{opacity:0;transform:translateY(40px) scale(0.7)}100%{opacity:1;transform:translateY(0) scale(1)}}
-.cat-wrap.wander{transition:right 3s cubic-bezier(0.25,0.1,0.25,1),bottom 3s cubic-bezier(0.25,0.1,0.25,1)}
-.cat-bub{position:absolute;bottom:30px;right:95px;background:var(--s1,#fffcf7);border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px 14px 14px 4px;padding:9px 12px;width:160px;box-shadow:0 4px 18px rgba(120,80,20,0.1);font-family:'Inter',sans-serif;font-size:11px;color:var(--mid,#3e3020);line-height:1.5;font-weight:300;opacity:0;transform:translateX(8px) scale(0.9);transition:all 0.4s cubic-bezier(0.4,0,0.2,1);pointer-events:none;cursor:pointer}
+.cat-wrap.wander{transition:right 5s cubic-bezier(0.25,0.1,0.25,1),bottom 5s cubic-bezier(0.25,0.1,0.25,1)}
+.cat-bub{position:absolute;bottom:30px;right:95px;background:var(--s1,#fffcf7);border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px 14px 14px 4px;padding:9px 12px;width:140px;box-shadow:0 4px 18px rgba(120,80,20,0.1);font-family:'Inter',sans-serif;font-size:11px;color:var(--mid,#3e3020);line-height:1.5;font-weight:300;opacity:0;transform:translateX(8px) scale(0.9);transition:opacity 0.6s ease,transform 0.6s ease;pointer-events:none;cursor:pointer}
 .cat-bub.show{opacity:1;transform:translateX(0) scale(1);pointer-events:auto}
 .cat-bub strong{font-weight:500;color:var(--amber,#b06010)}
 .cat-box{cursor:pointer;position:relative;width:90px;height:82px;transition:transform 0.15s;filter:drop-shadow(0 4px 10px rgba(160,100,30,0.18))}
@@ -240,12 +240,12 @@ article {
 @keyframes whSwayR{0%,100%{transform:rotate(0)}50%{transform:rotate(3deg)}}
 .c-head{animation:headIdle 5s ease-in-out infinite;transform-origin:42px 40px}
 @keyframes headIdle{0%,100%{transform:rotate(0) translateX(0) translateY(0)}20%{transform:rotate(-3deg) translateX(-1px) translateY(-0.5px)}45%{transform:rotate(2deg) translateX(1.5px) translateY(0.5px)}70%{transform:rotate(-1.5deg) translateX(-0.5px) translateY(-1px)}}
-.cat-box.walking .c-paw-dangle{animation:walkFrontL 0.35s ease-in-out infinite !important}
-.cat-box.walking .c-paw-rest{animation:walkFrontR 0.35s ease-in-out infinite 0.175s !important}
-.cat-box.walking .c-paw-hind{animation:walkHind 0.35s ease-in-out infinite 0.09s !important}
-.cat-box.walking .c-body{animation:walkBob 0.35s ease-in-out infinite !important}
-.cat-box.walking .c-tail{animation:walkTail 0.7s ease-in-out infinite !important}
-.cat-box.walking .c-head{animation:walkHead 0.35s ease-in-out infinite !important}
+.cat-box.walking .c-paw-dangle{animation:walkFrontL 0.55s ease-in-out infinite !important}
+.cat-box.walking .c-paw-rest{animation:walkFrontR 0.55s ease-in-out infinite 0.275s !important}
+.cat-box.walking .c-paw-hind{animation:walkHind 0.55s ease-in-out infinite 0.14s !important}
+.cat-box.walking .c-body{animation:walkBob 0.55s ease-in-out infinite !important}
+.cat-box.walking .c-tail{animation:walkTail 1.1s ease-in-out infinite !important}
+.cat-box.walking .c-head{animation:walkHead 0.55s ease-in-out infinite !important}
 @keyframes walkFrontL{0%,100%{transform:rotate(0deg) translateY(0)}25%{transform:rotate(15deg) translateY(-4px)}50%{transform:rotate(-8deg) translateY(0)}75%{transform:rotate(5deg) translateY(-2px)}}
 @keyframes walkFrontR{0%,100%{transform:translateY(0) scaleY(1)}25%{transform:translateY(-3px) scaleY(0.85)}50%{transform:translateY(1px) scaleY(1.05)}75%{transform:translateY(-1.5px) scaleY(0.9)}}
 @keyframes walkHind{0%,100%{transform:translateX(0) translateY(0)}25%{transform:translateX(-2px) translateY(-3px)}50%{transform:translateX(1px) translateY(0)}75%{transform:translateX(-1px) translateY(-2px)}}
@@ -298,7 +298,7 @@ article {
 @keyframes eatBob{0%,100%{transform:rotate(0) translateY(0)}50%{transform:rotate(3deg) translateY(2px)}}
 .cat-box.eating .c-paw-dangle{animation:none !important}
 .cat-box.eating .c-paw-rest{animation:none !important}
-.cat-form{position:fixed;z-index:9998;width:290px;background:linear-gradient(180deg,var(--s1,#fffdf9) 0%,var(--s2,#fdf6ee) 100%);border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px;box-shadow:0 12px 40px rgba(120,80,20,0.14),0 2px 8px rgba(120,80,20,0.06);padding:0;overflow:hidden;opacity:0;pointer-events:none;transform:translateY(14px) scale(0.95);transition:all 0.4s cubic-bezier(0.4,0,0.2,1),right 3s cubic-bezier(0.25,0.1,0.25,1),bottom 3s cubic-bezier(0.25,0.1,0.25,1);bottom:102px;right:8px}
+.cat-form{position:fixed;z-index:9998;width:290px;background:linear-gradient(180deg,var(--s1,#fffdf9) 0%,var(--s2,#fdf6ee) 100%);border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px;box-shadow:0 12px 40px rgba(120,80,20,0.14),0 2px 8px rgba(120,80,20,0.06);padding:0;overflow:hidden;opacity:0;pointer-events:none;transform:translateY(14px) scale(0.95);transition:opacity 0.5s ease,transform 0.5s ease,right 5s cubic-bezier(0.25,0.1,0.25,1),bottom 5s cubic-bezier(0.25,0.1,0.25,1);bottom:102px;right:8px}
 .cat-form.open{opacity:1;pointer-events:auto;transform:translateY(0) scale(1)}
 .xf-header{background:linear-gradient(135deg,var(--amber,#b06010),var(--amber-lt,#d07820));padding:8px 14px;display:flex;align-items:center;gap:9px;position:relative}
 .xf-header .xf-av{width:28px;height:28px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(255,255,255,0.4)}
@@ -613,13 +613,26 @@ AUTHOR_FIRST+' would love to hear your take. <strong>Tap.</strong> 🐱',
 'You and <strong>'+POST_TITLE+'</strong>. I ship it. <strong>Tell '+AUTHOR_FIRST+'.</strong>',
 'Halfway through and no feedback yet? I am keeping score. 🐱'];
 var priorityUntil=0;
+var bubFading=false;
 function showBub(m,d,pri){
   var now=Date.now();
   if(!pri&&now<priorityUntil)return;
   if(pri)priorityUntil=now+(d||4500)+1500;
-  bubT.innerHTML=m||msgs[Math.floor(Math.random()*msgs.length)];
-  bub.classList.add('show');clearTimeout(bt);
-  bt=setTimeout(function(){bub.classList.remove('show')},d||4500);
+  clearTimeout(bt);
+  if(bub.classList.contains('show')&&!bubFading){
+    bubFading=true;
+    bub.classList.remove('show');
+    setTimeout(function(){
+      bubFading=false;
+      bubT.innerHTML=m||msgs[Math.floor(Math.random()*msgs.length)];
+      bub.classList.add('show');
+      bt=setTimeout(function(){bub.classList.remove('show')},d||4500);
+    },650);
+  }else if(!bubFading){
+    bubT.innerHTML=m||msgs[Math.floor(Math.random()*msgs.length)];
+    bub.classList.add('show');
+    bt=setTimeout(function(){bub.classList.remove('show')},d||4500);
+  }
 }
 function showIdleBub(){
   if(!isOpen&&Date.now()>=priorityUntil&&Math.random()>0.3){
@@ -661,7 +674,7 @@ function doMouthCycle(){if(isOpen||isRaining||isEating)return;var e=mouthExpress
 var tricks=['stretch','headTilt','batPaw','yawn','knead','pounce','rollSide','startle','groom','flop','zoomie','loaf'],ti=0;
 function doTrick(){if(isOpen||catBox.classList.contains('walking')||isRaining||isEating)return;var t=tricks[ti%tricks.length];ti++;if(Math.random()>0.5)t=tricks[Math.floor(Math.random()*tricks.length)];if(t==='yawn'){mYawn();setTimeout(mNeutral,1800)}else if(t==='groom'||t==='loaf'){mHappy();setTimeout(mNeutral,2000)}else if(t==='pounce'||t==='startle'){pupilL.setAttribute('rx','3');pupilR.setAttribute('rx','3');setTimeout(function(){pupilL.setAttribute('rx','2.2');pupilR.setAttribute('rx','2.2')},800)}catBox.classList.add(t);setTimeout(function(){catBox.classList.remove(t)},2000)}
 
-function doWander(){if(isOpen||isRaining)return;catW.classList.add('wander');var r=4+Math.random()*50,b=4+Math.random()*60;catW.style.right=r+'px';catW.style.bottom=b+'px';catForm.style.right=Math.max(4,r-5)+'px';catForm.style.bottom=(b+94)+'px';catBox.classList.add('walking');setTimeout(function(){catBox.classList.remove('walking')},2800)}
+function doWander(){if(isOpen||isRaining)return;catW.classList.add('wander');var r=4+Math.random()*50,b=4+Math.random()*60;catW.style.right=r+'px';catW.style.bottom=b+'px';catForm.style.right=Math.max(4,r-5)+'px';catForm.style.bottom=(b+94)+'px';catBox.classList.add('walking');setTimeout(function(){catBox.classList.remove('walking')},4500)}
 
 /* rain + lightning */
 function createRainDrops(){rainDrops.innerHTML='';for(var i=0;i<12;i++){var d=document.createElement('div');d.className='rain-drop';d.style.left=Math.random()*40+'px';d.style.height=(6+Math.random()*8)+'px';d.style.animationDelay=(Math.random()*0.5)+'s';d.style.animationDuration=(0.4+Math.random()*0.3)+'s';rainDrops.appendChild(d)}}
@@ -686,8 +699,27 @@ function showTreat(){if(isOpen||isRaining||isEating||treatVisible)return;treatVi
 function feedCat(e){if(e)e.stopPropagation();if(isEating)return;isEating=true;treatVisible=false;catTreat.classList.remove('show');catTreat.classList.add('eating');setTimeout(function(){pupilL.setAttribute('ry','2');pupilR.setAttribute('ry','2');pupilL.setAttribute('rx','2.5');pupilR.setAttribute('rx','2.5');catMouth.setAttribute('d','M37 42 Q42 49 47 42');catMouthFill.setAttribute('d','M37.5 42 Q42 48.5 46.5 42 Q42 46 37.5 42Z');catBox.classList.add('eating')},400);setTimeout(function(){showBub(rPick(gratefulMsgs),5000,true)},800);setTimeout(function(){catMouth.setAttribute('d','M38 43 Q42 47 46 43');catMouthFill.setAttribute('d','M38.5 43 Q42 46.5 45.5 43 Q42 45 38.5 43Z')},1200);setTimeout(function(){catMouth.setAttribute('d','M36.5 42 Q42 50 47.5 42');catMouthFill.setAttribute('d','M37 42 Q42 49.5 47 42 Q42 46.5 37 42Z')},1600);setTimeout(function(){catBox.classList.remove('eating');catTreat.classList.remove('eating');doSlowBlink();pupilL.setAttribute('rx','2.2');pupilR.setAttribute('rx','2.2');pupilL.setAttribute('ry','4.2');pupilR.setAttribute('ry','4.2');mNeutral();isEating=false},2500)}
 
 /* click */
+function doGratitudeEyes(){
+  pupilL.setAttribute('rx','3.2');pupilR.setAttribute('rx','3.2');
+  pupilL.setAttribute('ry','5');pupilR.setAttribute('ry','5');
+  irisL.setAttribute('rx','6.5');irisL.setAttribute('ry','6.5');irisR.setAttribute('rx','6.5');irisR.setAttribute('ry','6.5');
+  irisInL.setAttribute('rx','5');irisInL.setAttribute('ry','5');irisInR.setAttribute('rx','5');irisInR.setAttribute('ry','5');
+  setTimeout(function(){doSlowBlink()},500);
+  setTimeout(function(){
+    pupilL.setAttribute('rx','2.6');pupilR.setAttribute('rx','2.6');
+    pupilL.setAttribute('ry','4.5');pupilR.setAttribute('ry','4.5');
+    irisL.setAttribute('rx','5.5');irisL.setAttribute('ry','5.5');irisR.setAttribute('rx','5.5');irisR.setAttribute('ry','5.5');
+    irisInL.setAttribute('rx','4.2');irisInL.setAttribute('ry','4.2');irisInR.setAttribute('rx','4.2');irisInR.setAttribute('ry','4.2');
+  },1400);
+  setTimeout(function(){
+    pupilL.setAttribute('rx','2.2');pupilR.setAttribute('rx','2.2');
+    pupilL.setAttribute('ry','4.2');pupilR.setAttribute('ry','4.2');
+    irisL.setAttribute('rx','5');irisL.setAttribute('ry','5');irisR.setAttribute('rx','5');irisR.setAttribute('ry','5');
+    irisInL.setAttribute('rx','3.8');irisInL.setAttribute('ry','3.8');irisInR.setAttribute('rx','3.8');irisInR.setAttribute('ry','3.8');
+  },3000);
+}
 function handleCatClick(){isOpen?closeCatForm():openCatForm()}
-function openCatForm(){isOpen=true;catForm.classList.add('open');bub.classList.remove('show');catBox.classList.add('pounce');mHappy();setTimeout(function(){catBox.classList.remove('pounce')},700);showBub(rPick(openMsgs),4000,true)}
+function openCatForm(){isOpen=true;catForm.classList.add('open');bub.classList.remove('show');catBox.classList.add('pounce');mHappy();doGratitudeEyes();setTimeout(function(){catBox.classList.remove('pounce')},700);showBub(rPick(openMsgs),4000,true)}
 function closeCatForm(){isOpen=false;catForm.classList.remove('open');mNeutral();catBox.classList.add('flop');setTimeout(function(){catBox.classList.remove('flop')},1000);showBub(rPick(closeMsgs),3500,true)}
 window.closeCatForm=closeCatForm;window.handleCatClick=handleCatClick;window.feedCat=feedCat;
 /* update email subject when type changes */
