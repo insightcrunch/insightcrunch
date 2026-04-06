@@ -6,9 +6,9 @@ date: 2003-04-16
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mental Health", "IAS Stress", "UPSC Anxiety", "UPSC Motivation"]
 excerpt: "UPSC mental health guide: understanding the psychological toll, evidence-based stress management, sleep science, exercise, social support, and building identity beyond the exam."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 last_updated: 2003-04-16
 ---
 
@@ -28,7 +28,7 @@ This article addresses the mental health dimension of UPSC preparation with the 
 
 The examination preparation systems in other countries provide instructive parallels: in the United States, major standardised examinations like the [SAT](/2026/03/26/sat-complete-guide/) are accompanied by extensive institutional guidance on test anxiety management, stress reduction, and maintaining wellbeing during preparation periods, reflecting a cultural recognition that examination performance and psychological health are complementary rather than competing objectives. The UPSC ecosystem has been slower to develop this recognition, but the growing conversation about aspirant mental health (driven by aspirant community advocacy, media coverage of aspirant distress, and the increasing willingness of serving officers to discuss their own preparation-period mental health challenges publicly) is beginning to change the culture.
 
-![UPSC and Mental Health - Insight Crunch](/assets/images/blog/blog-08.webp)
+![UPSC and Mental Health - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process spanning approximately fifteen months from Prelims to Final Result, with the preparation period typically adding another twelve to twenty-four months before the first attempt. This means that an aspirant who begins preparation at age twenty-two or twenty-three and attempts the examination two to three times invests approximately three to five years in the UPSC process, a period that coincides with the developmentally critical life stage (ages twenty-two to twenty-eight for most aspirants) when their non-UPSC peers are beginning professional careers, forming romantic relationships, achieving financial independence, starting families, travelling, and experiencing the normal developmental milestones of early adulthood that society uses as markers of progress and maturity. The psychological impact of watching peers advance through these visible milestones while you remain in a state of preparation-defined suspension, occupying an ambiguous social position that is neither student nor professional, neither progressing nor stagnating but perpetually "preparing," is one of the most consistently and most painfully reported sources of emotional distress among UPSC aspirants across all backgrounds, and managing this impact requires the conscious, deliberate, evidence-based strategies that this article provides rather than the default approach of ignoring the emotional toll until it becomes overwhelming.
 

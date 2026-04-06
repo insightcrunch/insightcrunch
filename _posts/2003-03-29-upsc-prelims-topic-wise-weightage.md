@@ -8,7 +8,7 @@ tags: ["UPSC", "UPSC Prelims", "Prelims Weightage", "Topic Priority", "UPSC GS P
 excerpt: "UPSC Prelims GS Paper 1 topic-wise weightage analysis from 2013 to 2025, priority matrix for limited-time aspirants, and data-driven preparation allocation strategy."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2003-03-29
 ---
 
