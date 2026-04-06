@@ -719,7 +719,7 @@ function doGratitudeEyes(){
   },3000);
 }
 function handleCatClick(){isOpen?closeCatForm():openCatForm()}
-function openCatForm(){isOpen=true;catForm.classList.add('open');bub.classList.remove('show');catBox.classList.add('pounce');mHappy();doGratitudeEyes();setTimeout(function(){catBox.classList.remove('pounce')},700);showBub(rPick(openMsgs),4000,true)}
+function openCatForm(){isOpen=true;catForm.classList.add('open');catBox.classList.add('pounce');mHappy();doGratitudeEyes();setTimeout(function(){catBox.classList.remove('pounce')},700);showBub(rPick(openMsgs),4000,true)}
 function closeCatForm(){isOpen=false;catForm.classList.remove('open');mNeutral();catBox.classList.add('flop');setTimeout(function(){catBox.classList.remove('flop')},1000);showBub(rPick(closeMsgs),3500,true)}
 window.closeCatForm=closeCatForm;window.handleCatClick=handleCatClick;window.feedCat=feedCat;
 /* update email subject when type changes */
