@@ -6,9 +6,9 @@ date: 2026-03-25
 categories: ["Leisure"]
 tags: ["bollywood-war-movies", "indian-army", "military-films", "border", "kargil", "war-cinema"]
 excerpt: "Every Bollywood war movie analyzed with military accuracy, emotional depth, and cultural impact assessed."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-03-25
 ---
 
@@ -16,7 +16,7 @@ The Indian war film occupies a unique position in global cinema because India fi
 
 <!--more-->
 
-![Bollywood War Movies Complete Analysis - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Bollywood War Movies Complete Analysis - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This article analyzes every significant Bollywood war film from Haqeeqat (1964) through Border 2 (2026), examining each film not merely as entertainment but as a political document whose specific treatment of military conflict reveals how India understood the war being depicted, what the nation's relationship with its military was at the time the film was made, and how the audience's evolving expectations about war cinema reflect broader shifts in India's geopolitical consciousness. The analysis connects to the broader series: the [patriotic cinema analysis](https://insightcrunch.com/2026/02/25/bollywood-patriotic-films-that-defined-generation/) examines how war films function within the patriotic genre, the [spy thriller ranking](https://insightcrunch.com/2026/02/01/best-bollywood-spy-thriller-movies-ranked/) examines the intelligence-thriller tradition that has increasingly supplemented the war film as the primary vehicle for national-security cinema, and the [action cinema history](https://insightcrunch.com/2026/03/05/complete-history-bollywood-action-cinema/) traces how military action evolved from Border's emotional nationalism through Uri's procedural realism through Dhurandhar's intelligence-operative integration.
 

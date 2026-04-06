@@ -6,9 +6,9 @@ date: 2026-03-15
 categories: ["Leisure"]
 tags: ["bollywood-flops", "underrated-movies", "box-office-failure", "cult-classics", "reappraisal", "hindi-cinema"]
 excerpt: "Critically acclaimed Bollywood films that flopped at the box office and why they deserve reappraisal."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2026-03-15
 ---
 
@@ -16,7 +16,7 @@ The most interesting story in Bollywood box office history is not the record-bre
 
 <!--more-->
 
-![Bollywood Box Office Flops That Deserved Better - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Bollywood Box Office Flops That Deserved Better - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 The analysis that follows is not a victimhood narrative about misunderstood geniuses whose brilliance the philistine audience failed to appreciate. Some of the films discussed here failed because the audience was wrong, rejecting content whose quality exceeded the formulaic entertainment they chose instead, and the audience's error reveals the specific limitations of the theatrical distribution model's ability to connect quality content with receptive viewers. But some failed because the films themselves were flawed, ambitious in conception but imperfect in execution, and the audience's rejection reflected genuine limitations in the content rather than mere resistance to creative ambition. And some failed because the market conditions (timing, competition, marketing, star-expectation mismatch) prevented the film from reaching the audience that would have appreciated it, making the failure a distribution problem rather than either an audience problem or a content problem. Honest analysis requires distinguishing between these three categories, audience failure, content failure, and distribution failure, and the specific diagnosis for each film reveals the specific mechanism that prevented the film's quality from translating into commercial performance.
 

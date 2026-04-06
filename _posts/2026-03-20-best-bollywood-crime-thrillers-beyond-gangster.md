@@ -6,9 +6,9 @@ date: 2026-03-20
 categories: ["Leisure"]
 tags: ["bollywood-thriller", "crime-movies", "murder-mystery", "heist-films", "psychological-thriller", "police-procedural"]
 excerpt: "The best Bollywood crime thrillers ranked beyond gangster films, from murder mysteries to heist cinema."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-03-20
 ---
 
@@ -16,7 +16,7 @@ Bollywood's crime thriller landscape extends far beyond the gangster film into t
 
 <!--more-->
 
-![Best Bollywood Crime Thrillers Beyond Gangster Films - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Best Bollywood Crime Thrillers Beyond Gangster Films - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The genre taxonomy that organizes this analysis distinguishes between seven sub-genres within the broader crime-thriller category, and the distinctions matter because each sub-genre offers a different kind of audience engagement, serves a different emotional function, and deploys a different narrative architecture that determines how the audience processes the criminal content. The taxonomy is not merely academic but commercially significant: the audience that watches Andhadhun (psychological thriller) is engaging with a fundamentally different cognitive process than the audience that watches Drishyam (murder mystery), and understanding the specific cognitive engagement that each sub-genre provides is essential for understanding why some sub-genres generate stronger commercial returns than others and why the genre's overall commercial trajectory has been one of consistent growth.
 

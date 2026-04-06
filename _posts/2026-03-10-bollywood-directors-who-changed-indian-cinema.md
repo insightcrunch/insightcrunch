@@ -6,9 +6,9 @@ date: 2026-03-10
 categories: ["Leisure"]
 tags: ["bollywood-directors", "indian-cinema", "visionary-filmmakers", "cinema-revolution", "game-changers", "auteur"]
 excerpt: "The Bollywood directors whose visionary films permanently changed what Indian cinema could be."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-03-10
 ---
 
@@ -16,7 +16,7 @@ There are directors who make good films, and there are directors who change what
 
 <!--more-->
 
-![Bollywood Directors Who Changed Indian Cinema - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Bollywood Directors Who Changed Indian Cinema - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 The analytical framework distinguishes between three categories of directorial impact. The first category is foundational change: the director who established a grammar, a visual vocabulary, or a narrative structure that did not exist in Hindi cinema before their intervention and that subsequent filmmakers adopted as the default. The second category is destructive change: the director who destroyed a convention, a limitation, or a consensus that had constrained Hindi cinema's creative possibilities and whose destruction opened creative space that subsequent filmmakers occupied. The third category is scale change: the director who demonstrated that Hindi cinema could operate at a level of production ambition, commercial scale, or artistic aspiration that the industry had previously considered unachievable. Each category represents a different relationship with the industry's existing conventions: the foundational changer builds what did not exist, the destructive changer removes what should not exist, and the scale changer expands what can exist. The directors profiled here are organized by category and by chronology, and the collective portrait reveals the specific individuals whose creative vision shaped the Hindi cinema that contemporary audiences inherit.
 
