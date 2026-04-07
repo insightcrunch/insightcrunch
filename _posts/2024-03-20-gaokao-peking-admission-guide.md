@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peking University Gaokao Admission - Complete Strategy Guide"
-page_title: "Peking University Gaokao Admission Guide - Scores by Province, PKU vs Tsinghua, Yuanpei College, and Strategy"
+page_title: "Peking University Gaokao Admission Guide - Scores by Province, PKU vs Tsinghua, Yuanpei College, and Strategy - 北京大学高考录取完全指南"
 date: 2024-03-20
 categories: ["Industry"]
 tags: ["高考", "北京大学", "录取分数线", "强基计划", "Peking University", "C9 League"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 50
 author: "liu-jian"
 last_updated: 2026-04-02
-lang: en
 ---
 北京大学，坐落于北京海淀区燕园，是中国历史最悠久、综合实力最强的高等学府之一。与清华大学共同构成"清北"双子星，北京大学在人文社科、基础科学、法学、医学等众多领域代表着中国高校的最高水平。对无数高考学子而言，"考上北大"是人生奋斗的至高目标。本文将全面解析北京大学高考录取的核心问题：如何判断自己能否进北大、北大与清华如何选择、元培学院是什么、强基计划如何申请，以及博雅计划和各类特殊招生渠道的实际价值。
 
