@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fudan University Gaokao Admission - Complete Strategy Guide"
-page_title: "Fudan University Gaokao Admission Guide - Scores by Province, Top Programs, Strong Foundation Plan, and Strategy"
+page_title: "Fudan University Gaokao Admission Guide - Scores by Province, Top Programs, Strong Foundation Plan, and Strategy - 复旦大学高考录取完全指南"
 date: 2024-03-12
 categories: ["Industry"]
 tags: ["高考", "复旦大学", "录取分数线", "强基计划", "Fudan", "C9 League"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-76.webp"
 reading_time: 50
 author: "ma-ruoxi"
 last_updated: 2026-04-02
-lang: en
 ---
 复旦大学，坐落于上海市杨浦区，是中国顶尖综合性大学之一，也是华东地区乃至全国最具声望的学府之一。复旦与上海交通大学并称"复交"，是上海高等教育的两颗明珠，也是中国C9联盟（顶尖九所高校）的重要成员。对于志在名校的高考学子而言，复旦大学代表着卓越的文理综合实力、上海的国际化视野以及百年名校的深厚积淀。本文将系统解答所有关于复旦大学高考录取的核心问题，帮助考生和家长制定科学的备考和志愿填报策略。
 
