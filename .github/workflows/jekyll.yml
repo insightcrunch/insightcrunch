@@ -72,6 +72,11 @@ jobs:
         if: github.event_name == 'push'
         run: python _scripts/assign_authors.py
 
+      # ── Push only: language tagging ──
+      - name: Tag posts with language
+        if: github.event_name == 'push'
+        run: python _scripts/add_lang_field.py
+
       # ── Commit automated changes ──
       - name: Commit automated post updates
         run: |
