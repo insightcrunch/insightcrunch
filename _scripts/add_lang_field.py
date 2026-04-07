@@ -15,6 +15,7 @@ Detection logic:
      fall back to the dominant script in the title.
 
 Idempotent: re-running does nothing on posts that already have `lang:`.
+First run on CI will backfill all existing posts in a single commit.
 """
 
 import re
@@ -23,8 +24,6 @@ from pathlib import Path
 
 POSTS_DIR = Path(__file__).resolve().parent.parent / "_posts"
 
-# Order does not matter for body-majority; for the title fallback path,
-# the script with the most characters wins regardless of list order.
 LANG_RANGES = [
     ("en", re.compile(r"[A-Za-z]")),                       # Latin (English)
     ("zh", re.compile(r"[\u4E00-\u9FFF\u3400-\u4DBF]")),   # CJK Unified
