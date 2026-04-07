@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Functions - Every Question Type Mastered"
-page_title: "Gaokao Math Functions Deep Dive - Domain, Range, Monotonicity, Parity, Composite Functions, and Abstract Function Strategies"
+page_title: "Gaokao Math Functions Deep Dive - Domain, Range, Monotonicity, Parity, Composite Functions, and Abstract Function Strategies - 高考数学函数完全攻略"
 date: 2024-10-14
 categories: ["Industry"]
 tags: ["高考数学", "函数", "数学题型", "Gaokao Math", "Functions"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-03.webp"
 reading_time: 50
 author: "zhang-hao"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学函数专题，是历年高考中分值最重，考察最综合，也是让无数考生又爱又恨的核心板块之一。函数既是高中数学的起点，也贯穿始终，从高一接触函数概念，到高三备考时的导数、不等式、解析几何，几乎所有高考数学内容都离不开函数思想。然而，许多同学对函数的掌握停留在"会做简单题"的层面，一旦遇到抽象函数、复合函数、或者图像变换类的综合题，就容易陷入混乱。
 
