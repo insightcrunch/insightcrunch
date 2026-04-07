@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao World History - From Ancient Civilizations to Globalization"
-page_title: "Gaokao World History Deep Dive - Civilizations, Revolutions, World Wars, Cold War, and Globalization"
+page_title: "Gaokao World History Deep Dive - Civilizations, Revolutions, World Wars, Cold War, and Globalization - 高考世界历史完全攻略"
 date: 2024-04-21
 categories: ["Industry"]
 tags: ["高考历史", "世界史", "法国大革命", "工业革命", "Gaokao History", "World History"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-47.webp"
 reading_time: 50
 author: "sun-ming"
 last_updated: 2026-04-02
-lang: en
 ---
 高考历史世界史专题，是中国高考历史考纲中与中国史并行的重要组成部分，约占历史总分的30%至35%。世界史的时间跨度从古代文明到当代全球化，横跨五大洲数千年，内容庞杂而又有内在逻辑主线。近年来高考世界史命题越来越注重横向比较（不同文明、不同国家之间的比较）和纵向联系（历史发展的因果链条），以及将世界史与中国史对照分析的综合能力。掌握世界史的主干知识、理解历史发展的规律性，是高考历史高分的重要支撑。
 
