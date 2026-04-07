@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shanghai Jiao Tong University Gaokao Admission - Complete Strategy"
-page_title: "SJTU Gaokao Admission Guide - Scores by Province, Engineering/Medicine Strength, Zhiyuan College, and Strategy"
+page_title: "SJTU Gaokao Admission Guide - Scores by Province, Engineering/Medicine Strength, Zhiyuan College, and Strategy - 上海交通大学高考录取完全指南"
 date: 2024-03-04
 categories: ["Industry"]
 tags: ["高考", "上海交通大学", "录取分数线", "致远学院", "SJTU", "C9 League"]
