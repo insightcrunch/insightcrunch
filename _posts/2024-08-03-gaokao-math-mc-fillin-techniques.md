@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math MC and Fill-in - Speed Techniques That Save 20 Minutes"
-page_title: "Gaokao Math Multiple Choice and Fill-in Speed Techniques - Special Values, Elimination, Graphical Methods, and Time-Saving Strategies"
+page_title: "Gaokao Math Multiple Choice and Fill-in Speed Techniques - Special Values, Elimination, Graphical Methods, and Time-Saving Strategies - 高考数学选择填空速解技巧攻略"
 date: 2024-08-03
 categories: ["Industry"]
 tags: ["高考数学", "选填技巧", "特值法", "排除法", "Gaokao Math", "Speed Techniques"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 45
 author: "yang-bo"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学试卷共有 16 道选择填空题（12 道选择题 × 5 分 + 4 道填空题 × 5 分，共 80 分），占总分的 53%。这 16 道题理论上须在 40 至 45 分钟内完成，为后面 6 道大题留出足够时间。然而，很多考生的实际情况是：选填题花了 70 分钟，导致大题时间严重不足。本文提供一套系统的"选填题速解技巧"，帮助你在不牺牲正确率的前提下，将选填题的答题时间压缩到 40 分钟以内，为大题节省出 20 至 30 分钟的宝贵时间。
 
