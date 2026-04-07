@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "siddharth-rao"
 last_updated: 2026-03-30
+lang: en
 ---
 The Verbal Ability section of the TCS NQT is the section that most engineering candidates underestimate, and it is precisely the section that eliminates them. While candidates spend weeks polishing their quantitative skills and coding logic, they walk into the verbal section with the misplaced confidence that reading English daily is enough preparation. It is not. TCS verbal questions are designed with specific patterns, trap options, and time constraints that punish guesswork and reward structured preparation. This guide covers every question type you will face, every technique that consistently produces correct answers, and a complete two-week plan to bring your verbal score from average to competitive.
 

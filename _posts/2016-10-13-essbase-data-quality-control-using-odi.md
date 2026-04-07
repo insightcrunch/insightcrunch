@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-82.webp"
 reading_time: 2
 author: "thomas-reid"
 last_updated: 2026-04-01
+lang: en
 ---
 Oracle Essbase is an excellent tool for handling large volumes of data and doing complex calculations very fast. But it is interesting to observe how good the data is after we load it into Essbase. Seldom we validate the error logs or the Essbase server logs generated during the load process. Also, much rarely do we set the process to fail for minor issues. It is under these circumstances that the quality of the data needs to come under scrutiny.
 

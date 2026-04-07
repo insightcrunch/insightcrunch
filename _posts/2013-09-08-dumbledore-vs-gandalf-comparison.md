@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-09-08
+lang: en
 ---
-
 ## Introduction: The Same Archetype, Two Fundamentally Different Philosophies
 
 The question is not which wizard is more powerful, more wise, or more beloved. The question is what each wizard's approach to the hero they guide reveals about the underlying theory of what mentorship most fundamentally is.

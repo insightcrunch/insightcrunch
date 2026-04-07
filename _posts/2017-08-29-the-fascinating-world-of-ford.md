@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 6
 author: "amit-chatterjee"
 last_updated: 2026-04-01
+lang: en
 ---
 ![Henry Ford Museum of American Innovation Greenfield Village Rouge Factory Dearborn Michigan](/assets/images/blog/blog-53.webp)
 

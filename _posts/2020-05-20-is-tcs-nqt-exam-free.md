@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: 45
 author: "devendra-patil"
 last_updated: 2026-04-01
+lang: en
 ---
 The direct answer is yes - TCS NQT registration and participation have been free of charge in the standard open drive format. TCS does not charge candidates to take the National Qualifier Test. The registration, exam, result, and interview process involve no payment at any stage through TCS's official channels.
 

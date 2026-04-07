@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
 author: "rajan-kumar"
 last_updated: 2026-03-30
+lang: en
 ---
 Most candidates preparing for campus placement know TCS NQT as the gateway to TCS itself. Far fewer know about TCS iON CCQT - the Common Corporate Qualifier Test - which runs on the same platform but serves an entirely different purpose. Where NQT selects candidates for TCS, CCQT generates a score that hundreds of other companies use as a hiring filter for their own recruitment. A single CCQT registration can make your profile visible to employers across IT services, banking, manufacturing, consulting, and the public sector - without applying separately to each. This guide explains what TCS iON is, how CCQT works, which companies use it, how to maximise your score's reach, and how to prepare in a way that serves the broadest possible set of opportunities.
 

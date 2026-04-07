@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-09-23
+lang: en
 ---
 ## Introduction: The Same Love in Opposite Uniforms
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "natalie-webb"
 last_updated: 2026-04-01
+lang: en
 ---
 On February 18, a cartoon appeared on Page Six of the New York Post that would ignite one of the most heated media controversies about race in the early months of the Obama presidency. The cartoon, drawn by the newspaper's long-time cartoonist Sean Delonas, depicted two police officers standing over the bullet-riddled body of a chimpanzee. One officer holds a smoking gun. The caption reads: "They'll have to find someone else to write the next stimulus bill."
 

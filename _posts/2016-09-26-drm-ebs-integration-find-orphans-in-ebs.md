@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-85.webp"
 reading_time: 1
 author: "nathan-cole"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Data Relationship Management application is integrated with Oracle E-Business Suite via the Oracle integration kit. However, it is often observed during integration with different EBS environments that orphans are sometimes created in EBS. It gives rise to issues during reporting for the transactions for that specific orphan and so becomes necessary to track the orphans and keep them identified for troubleshooting purposes.
 

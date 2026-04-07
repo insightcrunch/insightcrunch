@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-60.webp"
 reading_time: 4
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 *All characters are imaginary. Any resemblance is purely coincidental.* Over years of observation, like any other sector in the professional world, the IT sector too boasts of a chameleon of work cultures in different companies. It varies so much across the different companies, across different projects in the same company, and even across different teams in the same project that often colleagues are astounded as to how such diversity can exist at one place. Yet it happens, and like always, we have to adjust to it, or for the luckier ones, pray that it lasts like this forever!
 

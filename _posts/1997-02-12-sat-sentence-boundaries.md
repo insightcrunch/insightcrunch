@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-85.webp"
 reading_time: 61
 author: "michael-brooks"
 last_updated: 1997-02-12
+lang: en
 ---
-
 Sentence boundary errors are among the most consistently tested Standard English Conventions topics on the Digital SAT, appearing in every Writing module across all difficulty levels. The good news: sentence boundary questions are among the most learnable and reliable question types on the test. The rules are finite, the diagnostic test is simple, and the correct answer is deterministic once the rule is applied.
 
 For students who find grammar questions generally unpredictable, sentence boundaries offer a reliable source of correct answers - because the rule is binary (independent vs dependent), the diagnostic is quick (two seconds per clause), and the fix is systematic (one of four methods). Mastering boundaries transforms what might feel like uncertain territory into one of the most reliable sections of the Writing module. The test presents three error types - comma splices, run-ons, and fragments - and asks students to identify the error and select the correction that properly joins, separates, or restructures the sentence. The underlying skill is the ability to determine whether a clause is complete (independent) or incomplete (dependent), and to apply the correct joining method. This skill is both testable on the Digital SAT and directly applicable to academic writing - the same boundary precision that earns points on the test makes essays clearer and more credible.

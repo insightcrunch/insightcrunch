@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-78.webp"
 reading_time: 45
 author: "karthik-menon"
 last_updated: 2026-04-01
+lang: en
 ---
 Two acronyms generate more search traffic, more batch community confusion, and more career-defining consequences than almost any other aspect of TCS's technology and assessment ecosystem: iTIS and iON. Yet despite their importance - one shapes the career tracks of thousands of TCS employees, the other is the platform through which millions of candidates experience TCS's most consequential assessments - both remain poorly understood by the people most affected by them.
 

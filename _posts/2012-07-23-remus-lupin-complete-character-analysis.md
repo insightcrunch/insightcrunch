@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Man Who Was Always on the Margin
 

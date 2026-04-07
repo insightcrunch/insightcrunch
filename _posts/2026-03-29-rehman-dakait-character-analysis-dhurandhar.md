@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-30
+lang: en
 ---
 The greatest villains in cinema history share a quality that has nothing to do with the scale of their evil and everything to do with the completeness of their humanity. They are not monsters because they lack recognizable human qualities; they are monsters because they possess all the qualities we associate with admirable people, intelligence, charisma, loyalty, vision, and deploy them in service of destruction. Rehman Dakait, the Karachi crime lord who dominates the first installment of the Dhurandhar franchise and whose shadow looms over the second, belongs in the company of cinema's greatest antagonists precisely because Akshaye Khanna refuses to play him as a villain at all. Instead, Khanna builds Rehman as a complete human being who happens to occupy the role of antagonist within the franchise's narrative structure, a man of genuine complexity, formidable intelligence, and even occasional tenderness, whose capacity for extreme violence does not negate his other qualities but coexists with them in a way that makes him far more frightening than any one-dimensional monster could be. The result is a performance that does not merely serve the franchise's narrative needs but elevates the entire duology into a different category of filmmaking.
 

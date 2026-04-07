@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2026-03-30
+lang: en
 ---
 ## Introduction: The Son Who Became a Monster
 

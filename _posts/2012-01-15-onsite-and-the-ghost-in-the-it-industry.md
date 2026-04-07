@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 4
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 The term ‘onsite’ is a favorite in the IT industry. Everyone wants to go onsite. Such is the madness, people start dreaming of onsite even before entering the company. It has cast a mysterious spell on the IT sector. It was not meant to be this way in the beginning. But it has happened starting from way back in 2007.
 

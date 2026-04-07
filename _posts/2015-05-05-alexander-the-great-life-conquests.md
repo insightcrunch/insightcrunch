@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-05-05
+lang: en
 ---
-
 In June of 323 BC, Alexander III of Macedon lay dying in the palace of Nebuchadnezzar II in Babylon. He was thirty-two years old. In the thirteen years since he had crossed into Asia, he had conquered the Persian Empire, the largest political entity the ancient world had ever seen; he had pushed his armies through Egypt, Mesopotamia, Persia, Bactria, and India, covering approximately 33,000 kilometers on foot; he had founded more than twenty cities bearing his name, from Alexandria in Egypt to Alexandropolis in the Punjab; and he had changed the political, cultural, and linguistic landscape of the entire eastern Mediterranean and Near East in ways that are still visible today. When his generals asked on his deathbed to whom he left his kingdom, he is said to have replied: "to the strongest." It was possibly the most honest thing he ever said. He had no philosophy of succession, no plan for what would happen after him, no map for how the world he had remade would continue to function without him at its center. The empire he had built was, in a profound sense, himself; and when he died, it died with him, fragmenting within a generation into the competing Hellenistic kingdoms that his generals carved out of his legacy.
 
 <!--more-->

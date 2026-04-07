@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-08-18
+lang: en
 ---
-
 On the morning of October 12, 1492, a lookout aboard the Pinta named Rodrigo de Triana sighted land in the early hours before dawn and fired a cannon to alert the fleet. After thirty-three days at sea since leaving the Canary Islands, Christopher Columbus and his three ships had reached an island in what we now call the Bahamas, which Columbus named San Salvador. The indigenous Taíno people who came down to the beach to meet the strange ships had no way of knowing what they had summoned. Columbus, for his part, believed he had reached the outer islands of Asia; he died in 1506 still convinced he had reached the Indies, which is why the region is still called the Caribbean and its indigenous peoples are still called Indians in many contexts. What Columbus had actually found was a new world that had been entirely unknown to Europeans, a second hemisphere of the earth teeming with civilizations, ecosystems, and resources that would transform European civilization, devastate the indigenous peoples of the Americas, and initiate the process of global economic integration that defines the modern world.
 
 <!--more-->

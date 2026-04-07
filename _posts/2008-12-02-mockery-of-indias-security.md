@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-35.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 The tragedy in Mumbai can be nothing but a total collapse of our Intelligence failure. When we have been warned of the attacks, even their locations specified as 5-star hotels by the US and some other countries, its really a shame that we couldn’t deal with it efficiently. Credits goes to the NSG, commandos, jawans and the hotel staff. That we at least put up a fight with our old guns and *so-called* bulletproof jackets (one of which was pierced and led to the death of a brave official) is a miracle in itself. I think its high time that we act, the politicians act, the entire administration and security system acts as Indians. Not to save our chairs, but to save our future generations.
 

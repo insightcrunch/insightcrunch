@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-70.webp"
 reading_time: 61
 author: "michael-brooks"
 last_updated: 1997-04-03
+lang: en
 ---
-
 Literature and fiction passages occupy a unique position in the Digital SAT Reading and Writing section. Unlike science passages, where answers are anchored in explicit data and stated findings, and unlike history passages, where answers are anchored in clearly articulated arguments, literature passages require interpretive reading: drawing inferences from character action, dialogue, and internal thought; recognizing tone and mood from word choice and imagery; understanding figurative language without being misled by the literal image; and identifying structural patterns in narrative and verse.
 
 This interpretive dimension makes literature passages the most genuinely subjective of the three passage types, but that subjectivity is more constrained than most students realize. The SAT's literature questions still require specific textual evidence for every correct answer. The difference from science passages is that the evidence is often indirect: a character's motivation is inferred from their dialogue rather than stated outright; a narrator's tone is inferred from their word choices rather than labeled explicitly. The interpretation must be supported, but the support is inferential rather than direct.

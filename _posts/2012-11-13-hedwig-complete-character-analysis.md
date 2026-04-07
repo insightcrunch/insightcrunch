@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The First Gift, the First Loss
 

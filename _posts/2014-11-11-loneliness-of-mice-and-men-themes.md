@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2014-11-11
+lang: en
 ---
-
 Loneliness in Of Mice and Men is not a background condition. It is the most precisely organized structural force in the novel, the specific form of the isolation that the itinerant agricultural labor circuit of Depression-era California most systematically produced, and the specific social conditions that made the dream of connection and belonging not simply desirable but urgently necessary for every character Steinbeck places in the Salinas Valley bunkhouse. The novel's most powerful formal achievement is the demonstration that loneliness is not a personal failing or an individual misfortune. It is a structural condition produced by specific economic and social arrangements, imposed on specific categories of people with specific combinations of the most available instruments: itinerancy that prevents stable community, economic marginality that eliminates power, race that enforces physical separation, gender that organizes social invisibility, and age that removes both physical usefulness and social belonging simultaneously. Every character in the novel carries a specific form of the loneliness, and no character escapes it completely, not even George and Lennie in their exceptional friendship.
 
 <!--more-->

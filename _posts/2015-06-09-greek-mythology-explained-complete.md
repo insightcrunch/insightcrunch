@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-06-09
+lang: en
 ---
-
 The Trojan War began, according to Greek tradition, because of a golden apple inscribed with the words "for the fairest." At the wedding of the sea-goddess Thetis, the goddess of discord Eris tossed the apple among the guests; three goddesses, Hera, Athena, and Aphrodite, each claimed it. Zeus refused to judge. Paris, a prince of Troy, was appointed to decide. Each goddess offered a bribe: Hera offered political power and great kingdoms; Athena offered wisdom and military skill; Aphrodite offered the most beautiful woman in the world. Paris chose Aphrodite's gift. The most beautiful woman in the world was Helen, queen of Sparta, wife of the Greek king Menelaus. Paris sailed to Sparta, seduced or abducted Helen (the tradition is deliberately ambiguous about her degree of willingness), and returned with her to Troy. The Greeks assembled the greatest fleet the ancient world had seen, sailed to Troy, and fought a ten-year war that ended with the burning of the city. All because of a golden apple, a beauty contest among goddesses, and a young man's choice of love over power.
 
 <!--more-->

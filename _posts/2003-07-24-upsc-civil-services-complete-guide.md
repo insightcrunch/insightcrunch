@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
 author: "kavita-sharma"
 last_updated: 2003-07-24
+lang: en
 ---
-
 You have just decided to appear for the UPSC Civil Services Examination, or you are somewhere in the early weeks of wondering whether you should. You have opened seventeen browser tabs, each contradicting the last. One YouTube channel tells you to start with NCERTs and nothing else for six months. Another tells you to join a coaching institute immediately or you will never make it. A WhatsApp forward from your college senior says the exam is "all about current affairs." A friend who cleared it two years ago says the optional subject is everything. And somewhere in all of that noise, you are sitting with a single, pressing question: what is this exam, actually, and how do I prepare for it properly?
 
 This guide exists to answer that question completely. Not partially, not with hedge words like "it depends" followed by a vague paragraph, but with the specificity and structural clarity that you would get from a mentor who has guided hundreds of aspirants through every stage of UPSC CSE and watched, closely, what works and what destroys preparation cycles. The UPSC Civil Services Examination is simultaneously one of the most demanding, most respected, and most misunderstood examinations in the world. More than 1.3 million people apply for it each cycle. Roughly 1,000 are finally selected, placing the overall selection rate at approximately 0.08 percent. That number is designed to terrify you, and you should not let it. Among candidates who prepare seriously for twelve or more months with a coherent strategy, who complete their syllabus, who practice writing, who solve previous year questions consistently, the effective odds are dramatically better. The examination is not a lottery. It rewards preparation in a predictable, pattern-driven way. Understanding those patterns is what this guide is about.

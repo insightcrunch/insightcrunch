@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-61.webp"
 reading_time: 45
 author: "pooja-gupta"
 last_updated: 2026-04-01
+lang: en
 ---
 You submitted your resignation letter. You have spent months preparing for the job search - updating your profile, practicing interview questions, networking, going through multiple rounds. You received an offer from another company. The compensation is better, the role is more interesting, and you have already mentally moved on.
 

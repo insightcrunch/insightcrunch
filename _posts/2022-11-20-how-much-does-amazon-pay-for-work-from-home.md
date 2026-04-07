@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-60.webp"
 reading_time: 12
 author: "ryan-walsh"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

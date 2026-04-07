@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-06-30
+lang: en
 ---
-
 ## Introduction: The Identity Between Two Worlds
 
 The half-blood concept in the Harry Potter series is Rowling's most sophisticated social metaphor, and it is most sophisticated precisely because it is never resolved into a simple verdict about what the half-blood person most specifically is or should be. The half-blood is the person who belongs to two worlds and is fully accepted by neither - who carries the specific inheritance of both sides while being required, by the specific structure of the wizarding world's most dominant ideology, to choose between them or to have the choice made for them by the ideology that most specifically threatens the person who refuses to choose cleanly.

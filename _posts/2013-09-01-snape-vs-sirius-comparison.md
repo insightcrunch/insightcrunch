@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-09-01
+lang: en
 ---
-
 ## Introduction: The Question That Makes This Comparison Uncomfortable
 
 The question is not whether Snape or Sirius loved Harry more. Neither of them, initially, loved Harry at all - both projected their relationship with James Potter onto the boy who stood in front of them, and both treated Harry primarily as the occasion to replay, process, or avoid their unfinished business with James. The question is which form of that displaced engagement caused more harm to Harry, and whether either man ever genuinely escaped the projection to see the actual person.

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-29.webp"
 reading_time: 50
 author: "nandini-sen"
 last_updated: 2026-04-01
+lang: en
 ---
 Bhubaneswar is the TCS ILP city that most freshers have not thought about. Unlike Hyderabad, Chennai, or Pune, which are established IT destinations that appear on every engineering student's career radar, Bhubaneswar is a city that most non-Odia associates encounter for the first time only when their joining letter arrives with "Bhubaneswar" printed as the ILP location. The initial reaction is often uncertainty, sometimes disappointment, and frequently a scramble to learn anything about a city they have never visited or perhaps never even considered visiting.
 

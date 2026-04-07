@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2014-11-21
+lang: en
 ---
-
 Guy Montag is the most urgently available formally precise argument against his own society, which is the specific formal achievement that makes him the most interesting available protagonist in the American dystopian tradition. He begins the novel as the most apparently content fireman, the person whose professional role is to burn books and who takes genuine pleasure in the burning, and who represents the most completely successful product of the conformist society that the novel is most urgently critiquing. The opening line announces this directly: "It was a pleasure to burn." Montag is not presented as the secret dissenter or the hidden rebel. He is the most authentically available product of the most completely conformist available society, whose contentment is entirely genuine in the most disturbing available sense: he does not know what he is missing because the society has most completely and most successfully organized against his being able to know. His awakening is therefore not the awakening of someone who has secretly always known better. It is the awakening of someone who has been so thoroughly formed by the most available conformist culture that the first genuine question about whether he is happy lands like a small earthquake in the most apparently stable available ground.
 
 <!--more-->

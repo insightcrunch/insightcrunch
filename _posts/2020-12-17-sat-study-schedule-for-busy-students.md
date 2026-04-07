@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Preparation for Busy Students: Study Plan With Limited Time
 

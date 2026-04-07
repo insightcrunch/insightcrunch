@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2015-01-25
+lang: en
 ---
-
 The greatest heroines in classic literature are not great because they are simple rebels against the systems built against them. They are great because each one is the most precisely organized available formal argument about a specific available form of the most urgently available female moral authority operating within, against, and sometimes in spite of the most completely available structural conditions organized to deny it. Elizabeth Bennet refuses the most available expedient marriages with a wit and a clarity that simultaneously demonstrates her most genuine individual character and reveals the most completely available absurdity of the social system that makes those refusals practically dangerous. Jane Eyre insists on the most urgently available individual conscience as the most completely available ultimate moral standard with a directness that most genuinely challenges the most dramatically available claims of passion, social convention, and religious duty simultaneously. Hester Prynne transforms the most urgently available publicly institutionalized shame into the most completely available genuine moral authority through the most genuinely available sustained charitable engagement that no available dramatic rebellion could have organized as durably. Each of these heroines operates within the most dramatically available structural conditions organized against her, and the most formally significant available quality of each is precisely the most urgently available specific form of the most genuinely available female authority she most completely organizes within those conditions rather than the most simply available open defiance of them.
 
 <!--more-->

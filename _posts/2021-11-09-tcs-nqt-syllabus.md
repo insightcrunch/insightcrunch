@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-13.webp"
 reading_time: 45
 author: "nikhil-tiwari"
 last_updated: 2026-04-02
+lang: en
 ---
 The TCS NQT syllabus is not flat - not every topic appears with equal frequency or deserves equal preparation time. Understanding which topics carry the most weight, which topics are the most learnable per hour invested, and which topics produce the highest score return per preparation hour is the strategic foundation of efficient NQT preparation.
 

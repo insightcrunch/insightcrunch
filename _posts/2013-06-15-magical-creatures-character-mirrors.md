@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-06-15
+lang: en
 ---
-
 ## Introduction: The Animal as Argument
 
 In the Harry Potter series, no significant magical creature exists purely as worldbuilding decoration. Each one is doing double duty: presenting itself as a fantastic animal while simultaneously mirroring the human character or condition it is most directly associated with, illuminating that character or condition from an angle that direct narrative description cannot reach. Rowling uses the animals the way the best fabulists have always used them - not to replace human complexity with animal simplicity but to say, through the specific qualities of a creature that operates outside the human social order, what the human character and the human social order cannot always say about themselves.

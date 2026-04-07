@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 5
 author: "sneha-reddy"
 last_updated: 2026-04-01
+lang: en
 ---
 This is an article on TCS ILP Trivandrum by Neha Saxena.
 

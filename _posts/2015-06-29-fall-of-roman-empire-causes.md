@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-06-29
+lang: en
 ---
-
 On September 4, 476 AD, the Germanic chieftain Odoacer deposed the last Western Roman Emperor, a sixteen-year-old boy named Romulus Augustulus, and sent him into comfortable exile in a Campanian villa rather than killing him, because the boy was too insignificant to be worth martyring. This was not a dramatic final battle or a decisive siege; it was a bureaucratic arrangement in which a Germanic military commander terminated the employment of a puppet emperor and sent his paperwork to Constantinople to be filed. Odoacer then wrote politely to the Eastern Emperor Zeno explaining that the Western Empire no longer required a separate emperor because the same person could manage both halves, and Zeno, equally politely, agreed. The greatest empire the Western world had ever produced ended not with a bang but with a resignation letter.
 
 <!--more-->

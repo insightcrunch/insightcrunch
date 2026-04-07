@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-48.webp"
 reading_time: 55
 author: "samantha-lee"
 last_updated: 2026-04-01
+lang: en
 ---
 Harvard, MIT, and Stanford are three of the most recognisable names in higher education globally - universities whose reputations extend far beyond their campuses into public culture, geopolitical discourse, and the imagination of students worldwide who aspire to the best possible education. When a student finds themselves admitted to more than one of these institutions, or is weighing where to apply most seriously, the decision between them is genuinely consequential and genuinely complex.
 

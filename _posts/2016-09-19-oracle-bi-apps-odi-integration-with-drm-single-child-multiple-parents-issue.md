@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-18.webp"
 reading_time: 2
 author: "alex-cunningham"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Business Intelligence Applications is a very useful product for many organizations and often Oracle Hyperion DRM is the master data management tool used for managing master data via integration through Oracle EBS.
 

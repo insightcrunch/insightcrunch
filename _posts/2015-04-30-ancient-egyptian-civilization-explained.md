@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-04-30
+lang: en
 ---
-
 Every year in mid-July, when the star Sirius rose just before dawn on the eastern horizon and the Nile's waters began to darken and rise, the Egyptians knew that the world was about to be remade. The flood that followed would cover the entire valley floor, deposit a thin layer of rich black silt over everything it touched, and recede six weeks later to reveal a transformed landscape: a strip of intensely fertile dark earth running the entire length of the Nile valley, bounded on either side by the lifeless red desert that the Egyptians called deshret, the red land, in contrast to kemet, the black land, the gift of the river. Within this narrow corridor, perhaps twelve kilometers wide at most points and nowhere more than twenty kilometers from desert edge to desert edge, one of history's most improbable civilizations established itself around 3100 BC and lasted, in recognizable form, for more than three thousand years. That longevity is the first and most astonishing fact about ancient Egypt: while every other civilization of the ancient Near East rose, flourished, and collapsed within centuries, Egypt endured.
 
 <!--more-->

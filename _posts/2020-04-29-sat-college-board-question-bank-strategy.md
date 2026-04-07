@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-18.webp"
 reading_time: 45
 author: "christopher-wells"
 last_updated: 2026-04-01
+lang: en
 ---
 Among the free SAT preparation resources provided by the College Board, the Question Bank is the most underutilized by the majority of students. While most students know about the Bluebook practice tests and at least some are familiar with Khan Academy's official prep, the Question Bank represents a separate and substantial resource that many students either do not know exists or do not know how to use strategically. This is a significant missed opportunity, because the Question Bank contains hundreds of authentic College Board questions organized in a way that enables precisely targeted practice that full-length practice tests alone cannot provide.
 

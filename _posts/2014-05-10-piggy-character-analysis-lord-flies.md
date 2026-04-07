@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2026-03-31
+lang: en
 ---
 Piggy is the most important character William Golding ever created, and almost nobody treats him that way. He is routinely filed under "the smart one," assigned the role of reason's spokesperson, and then forgotten once his glasses are smashed and his death has been noted in an essay. This is precisely the fate Golding designed for him, and precisely the mistake Golding wants readers to catch themselves making. The argument of Lord of the Flies is not that civilization is fragile. The argument is that civilization has always depended on people like Piggy, and has always, without exception, treated people like Piggy exactly as the boys on the island treat him: with contempt, with impatience, with the casual cruelty of those who hold the conch and the spears and the social confidence that Piggy will never possess. Piggy is not a symbol of reason. He is a demonstration of what happens to reason when it lacks the one thing it can never manufacture for itself: the authority to be heard.
 

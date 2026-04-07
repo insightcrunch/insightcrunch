@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-66.webp"
 reading_time: 45
 author: "devendra-patil"
 last_updated: 2026-04-01
+lang: en
 ---
 The TCS NQT does not have a fixed annual date the way university exams do. TCS conducts multiple exam windows across the year, announces each window with varying lead time, and opens registration for specific periods before each window closes. Missing an announcement means missing a window - and the next window may be months away.
 

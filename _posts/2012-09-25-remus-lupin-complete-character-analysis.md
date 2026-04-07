@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Quiet Courage
 

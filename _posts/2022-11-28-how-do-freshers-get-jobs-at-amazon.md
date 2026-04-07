@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-82.webp"
 reading_time: 12
 author: "alex-cunningham"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

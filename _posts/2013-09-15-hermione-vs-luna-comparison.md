@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2013-09-15
+lang: en
 ---
-
 ## Introduction: Two Ways of Knowing
 
 The most fundamental difference between Hermione Granger and Luna Lovegood is not cleverness - both are exceptionally intelligent - and it is not courage - both demonstrate it repeatedly. The most fundamental difference is epistemological: the question of what counts as evidence, what qualifies as knowledge, and how a person decides what to believe when the available information is incomplete.

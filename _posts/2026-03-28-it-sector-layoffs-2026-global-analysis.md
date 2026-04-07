@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-16.webp"
 reading_time: 85
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 The number that no industry analyst will say out loud at a conference but that every tech worker whispers at the coffee machine is this: in the first quarter of this year alone, the global technology sector has already eliminated more than 59,000 jobs. At a pace of roughly 736 per day, the industry is cutting faster in early 2026 than it did during all of 2025, when the full-year toll reached 245,953 across 783 separate layoff events.
 

@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-08-25
+lang: en
 ---
-
 ## Introduction: The Same Starting Point, Opposite Destinations
 
 The most uncomfortable truth about the Harry Potter series is that Harry and Voldemort begin at the same place. Both are orphans. Both are raised without love, in institutional or quasi-institutional settings that cannot provide the warmth and individual recognition that every child most fundamentally needs. Both discover at eleven that they are extraordinarily powerful within the magical world. Both hear a sorting hat consider placing them in Slytherin. Both have wands with cores from the same phoenix.

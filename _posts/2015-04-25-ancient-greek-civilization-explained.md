@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-04-25
+lang: en
 ---
-
 In the spring of 490 BC, a force of roughly 10,000 Athenian and Plataean soldiers stood on the plain of Marathon and watched a Persian army perhaps three times their size begin to advance. The Persian Empire under Darius I had already absorbed Egypt, Babylon, and most of the known world from central Asia to the Aegean coast. Athens was a city of perhaps 40,000 citizens, a political experiment barely twenty years old, the world's first functioning democracy. The Athenian general Miltiades ordered his men to run. The Persian generals, watching the Greeks break into a trot across the mile of open ground between the armies, assumed they were witnessing a suicidal charge by madmen who had no cavalry and few archers. What followed was the defeat that changed the history of the Western world: the Persians were routed, driven into the sea, and roughly 6,400 of them were killed against fewer than 200 Athenians. A runner named Pheidippides, according to later legend, carried the news to Athens, spoke the single word "victory," and died of exhaustion. The marathon race of the modern Olympics commemorates his run.
 
 <!--more-->

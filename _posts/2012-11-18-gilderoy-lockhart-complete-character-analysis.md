@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Introduction: The Man Who Stole Other People's Lives
 

@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
 author: "natalie-webb"
 last_updated: 1997-03-11
+lang: en
 ---
-
 Standard English Conventions (SEC) questions make up approximately 26 of the 54 questions across both Reading and Writing modules of the Digital SAT - nearly half the section. The sheer number of grammar questions makes this the single most preparation-efficient area of the entire test: improving from 60% to 90% accuracy on grammar questions adds approximately 8 correct answers per test, which corresponds to a substantial score improvement.
 
 Because grammar rules are deterministic (there is always a correct answer based on a specific rule), they have a higher skill ceiling than comprehension or inference questions. A student who has internalized all ten rule categories in this article approaches grammar questions with the confidence of applying known rules rather than making uncertain interpretive judgments. These questions test grammar, punctuation, and usage: the mechanical correctness of written English as defined by standard academic and professional conventions. Unlike the reading comprehension questions, SEC questions have right answers that are determined by rule, not interpretation. A comma is either correct or incorrect in a given position. A verb either agrees with its subject or it does not.

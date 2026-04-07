@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2003-07-06
+lang: en
 ---
-
 You have decided to prepare for the UPSC Civil Services Examination. Perhaps you read the notification online, or a friend mentioned it, or a family conversation planted the seed months ago and it has finally taken root. Regardless of how you arrived at this decision, you are now staring at a syllabus that seems to encompass the entirety of human knowledge, a preparation timeline that stretches across years, and an ocean of contradictory advice from YouTube channels, Telegram groups, coaching institute marketing pages, and well-meaning relatives who once knew someone who almost cleared UPSC. The feeling you have right now, that mixture of ambition and overwhelm, of excitement and paralysis, is not unique to you. Every single person who has ever cleared this examination stood exactly where you are standing right now, feeling exactly what you are feeling.
 
 The anxiety of the beginner is entirely rational. UPSC CSE is genuinely one of the most comprehensive competitive examinations in the world. It tests knowledge of history, geography, economics, science, polity, ethics, international relations, society, culture, governance, security, environment, and current affairs, across two objective papers, seven descriptive papers, and a personality test, spanning over a year from notification to final result. No other major examination demands this breadth and depth simultaneously. But rational anxiety becomes irrational paralysis only when it prevents action. And the antidote to paralysis is a structured, specific, step-by-step action plan that tells you exactly what to do tomorrow, next week, next month, and over the next nine months.

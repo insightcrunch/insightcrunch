@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2013-08-15
+lang: en
 ---
-
 ## Introduction: The Fairy Tale That Is Also a Personality Test
 
 "The Tale of the Three Brothers" is simultaneously the simplest story in the Harry Potter series and its most philosophically concentrated available argument. Three brothers meet Death at a river. Death, outwitted by their use of magic, offers each a gift. The eldest demands the most powerful wand ever made. The middle brother demands the ability to recall the dead. The youngest asks only for something that will allow him to go about his life without Death following him. The eldest is murdered for his wand. The middle brother kills himself with grief for a woman he cannot truly reclaim. The youngest lives to a great age and greets Death as an old friend.

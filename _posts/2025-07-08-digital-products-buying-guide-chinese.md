@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-25.webp"
 reading_time: 40
 author: "david-thornton"
 last_updated: 2026-03-31
+lang: zh
 ---
 ## 目录
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-68.webp"
 reading_time: 25
 author: "shruti-agarwal"
 last_updated: 2026-03-31
+lang: en
 ---
 TCS Aspire is the mandatory pre-ILP online course that every fresher must complete before joining the Initial Learning Program. It is not a formality. Your Aspire preparation directly determines whether you clear IRA1 on your first day of ILP, how much confidence you carry into the training program, and what your Aspire Miles score looks like when managers and faculty review your profile.
 

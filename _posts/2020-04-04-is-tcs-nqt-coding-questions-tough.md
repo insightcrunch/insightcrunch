@@ -10,6 +10,7 @@ reading_time: 100
 author: "karthik-menon"
 last_updated: 2026-04-01
 render_with_liquid: false
+lang: en
 ---
 {% raw %}
 ## Overview

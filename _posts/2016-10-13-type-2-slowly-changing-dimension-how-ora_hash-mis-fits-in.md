@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 2
 author: "alex-cunningham"
 last_updated: 2026-04-01
+lang: en
 ---
 The ORA_HASH is one of my favorite functions to generate a hash value and use it for that record in a variety of ways. But there are certain circumstances where even an useful function like ORA_HASH can have it's limitations. Let's take a look at how this function can act while implementing SCD2.
 

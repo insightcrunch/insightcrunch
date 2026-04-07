@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2015-04-20
+lang: en
 ---
-
 In the summer of 476 AD, a teenage barbarian king named Odoacer walked into Ravenna and told the last Roman emperor to go home. The emperor's name was Romulus Augustulus, a cruel irony of history: Romulus was the name of the legendary founder of Rome, and Augustus had been the title of the greatest emperors. The boy on the throne was sixteen years old. Odoacer had him escorted to a villa in Campania and paid him a pension. There was no dramatic last stand, no siege, no burning of the city. The Western Roman Empire, which had once stretched from Scotland to Mesopotamia, from the Rhine to the Sahara, simply stopped. The machinery of centuries ran down and went quiet. It is the most consequential collapse in the history of Western civilization, and historians have been arguing about why it happened ever since.
 
 <!--more-->

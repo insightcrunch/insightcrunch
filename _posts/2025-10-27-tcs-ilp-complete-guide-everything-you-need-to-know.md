@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-17.webp"
 reading_time: 25
 author: "nikhil-tiwari"
 last_updated: 2026-03-31
+lang: en
 ---
 The TCS Initial Learning Program is the bridge between your campus life and your corporate career. Every year, tens of thousands of freshers walk into ILP centers across India with a joining letter in hand and a head full of questions. What will the training look like? How hard are the assessments? What happens if I fail? Will my ILP rating affect my project allocation?
 

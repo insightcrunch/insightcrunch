@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2013-11-21
+lang: en
 ---
 ## Introduction: The Same Blood, Two Entirely Different Inheritances
 

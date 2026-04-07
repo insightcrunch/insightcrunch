@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-56.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Adaptive Testing Strategy: How Modules Work and How to Win
 

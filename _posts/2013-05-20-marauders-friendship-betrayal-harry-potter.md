@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-05-20
+lang: en
 ---
-
 ## Introduction: Four Boys, One Map, and the Cost of the Circle
 
 The Marauders are the Harry Potter series' most sustained argument about what school friendship is and what it can do to the people inside it. James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew share a friendship that is, by all available account, the most intense available form of adolescent male bonding: they become Animagi illegally to support a friend with lycanthropy, they create the Marauder's Map together, they call themselves by names that are more intimate than any formal designation. They are, in the terms of their school experience, the kind of group that seems to contain everything a person could need.

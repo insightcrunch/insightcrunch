@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
 author: "christopher-wells"
 last_updated: 1997-03-25
+lang: en
 ---
-
 Command of Evidence questions are among the most frequently tested question types in the Digital SAT Reading and Writing section, appearing in both modules across every administration. They come in two distinct subtypes: textual evidence (find the quote from a passage that best supports or weakens a stated claim) and quantitative evidence (find the data point from a table or graph that best supports or weakens a stated claim). Each subtype has a specific, consistent structure, and both share the same underlying two-step strategy.
 
 The most common error on Command of Evidence questions is selecting an answer that is topically related to the claim but does not directly support it. A quote about urban parks being well-visited does not support a claim that urban parks reduce stress - these are different assertions about different things, despite sharing the topic of urban parks. Training this distinction - between topically related and directly supportive - is the core preparation task for Command of Evidence questions.

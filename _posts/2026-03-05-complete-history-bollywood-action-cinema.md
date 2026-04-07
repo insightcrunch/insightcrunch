@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-05
+lang: en
 ---
-
 Bollywood action cinema has undergone more radical transformations than any other genre in Hindi film history, and each transformation maps a shift in what Indian audiences consider heroic, what they consider violent, and what they are willing to believe a human body can do. From the visible wires and circus-performer acrobatics of the 1950s stunt era through Amitabh Bachchan's 1970s transformation of action from spectacle into catharsis, through the mass-muscle era of the 1980s and the romance-dominated eclipse of the 1990s, through the South Indian invasion of the 2000s and the global ambition of the 2010s, to the Dhurandhar-led realism revolution of the 2020s, the history of Bollywood action is the history of India's changing relationship with physicality, heroism, and the representation of violence. Each decade's action cinema reflects the social conditions, technological capabilities, and audience expectations of its era, and tracing the evolution reveals not merely how action films changed but why they changed, connecting the shifts in action style to the deeper shifts in Indian society that produced them.
 
 <!--more-->

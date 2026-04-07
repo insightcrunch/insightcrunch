@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 80
 author: "amit-chatterjee"
 last_updated: 2026-02-10
+lang: en
 ---
-
 Bollywood has always had auteurs. The industry's commercial orientation, its star-driven economics, and its reputation as a factory for formulaic entertainment have obscured this fact for decades, but the evidence is overwhelming for anyone willing to look. From Guru Dutt's chiaroscuro melancholy in the 1950s to Aditya Dhar's intelligence realism in the 2020s, Hindi cinema has consistently produced filmmakers whose visual language, narrative structures, and thematic obsessions constitute distinct cinematic philosophies as recognizable and as analytically rich as those of any filmmaker in the Western canon. The problem has never been the absence of auteurs; it has been the critical framework that refused to see them. A tradition that evaluated Bollywood films primarily as commercial products rather than as artistic expressions systematically overlooked the directorial signatures that distinguished one commercial product from another, treating the industry's creative diversity as interchangeable competence rather than individual vision.
 
 <!--more-->

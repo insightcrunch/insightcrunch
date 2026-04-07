@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-27.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-03-30
+lang: en
 ---
 In the vein of Hemingway's protagonists who embark on life-changing journeys, your quest for Tableau certification can lead you to new heights of data visualization mastery. This article serves as your compass, guiding you through the essential steps to set goals, overcome obstacles, and triumphantly achieve Tableau certification.
 

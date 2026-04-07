@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Introduction: The Lion Who Could Not Bend
 

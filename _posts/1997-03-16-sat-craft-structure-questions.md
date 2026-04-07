@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "michael-brooks"
 last_updated: 1997-03-16
+lang: en
 ---
-
 Craft and Structure questions are the most meta of the Digital SAT Reading and Writing question types. While other question types ask what a text says - what the finding is, what the author argues, what the character feels - craft and structure questions ask how the text is built and why it was built that way. The shift from "what does it say?" to "what is it doing?" is the central reading skill these questions test.
 
 This shift requires a specific type of reading that many students do not naturally practice: meta-reading. A meta-reader does not just track the content of a passage (the events, arguments, or findings described) but also monitors the structure of the passage (how it is organized, what each part does, how the author creates specific effects). Developing this meta-reading habit is the core preparation task for craft and structure questions.

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "karthik-menon"
 last_updated: 2026-04-01
+lang: en
 ---
 The most common question in the weeks after taking the TCS NQT is not "did I qualify" but "when will I find out." TCS does not announce a specific result date in advance. Results are released when processing is complete, and that timeline varies by window. Knowing the typical patterns, what causes variations, and how to productively use the waiting period makes the difference between an anxious wait and a preparation-productive wait.
 

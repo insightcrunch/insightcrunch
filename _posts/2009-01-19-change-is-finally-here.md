@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-86.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 The D-day has finally come . The world will wait to see how the major issues like Gaza and India-Pakistan are tackled. The economy is at its helm of turmoil at this point of time adding to the woes of his competency . Certainly he has seemed to be pretty strategic in appointing and selecting his staff.
 

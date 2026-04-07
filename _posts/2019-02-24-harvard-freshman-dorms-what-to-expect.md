@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-78.webp"
 reading_time: 52
 author: "natalie-webb"
 last_updated: 2026-04-01
+lang: en
 ---
 Harvard Yard is where every Harvard undergraduate story begins. For four centuries, each new class of Harvard freshmen has arrived at the Yard's wrought-iron gates, found their assigned dormitory room, met their roommates, and started to understand what it means to be a Harvard student. The Yard's buildings range from Massachusetts Hall - constructed in 1720 and the second-oldest surviving college building in America - to the more modern residential constructions of the twentieth century. Living in this space for a year is one of the most historically dense residential experiences available to any undergraduate student anywhere in the world.
 

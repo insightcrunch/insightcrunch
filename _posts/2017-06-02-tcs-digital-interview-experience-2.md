@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-67.webp"
 reading_time: 45
 author: "vikram-iyer"
 last_updated: 2026-04-01
+lang: en
 ---
 The TCS Digital interview is one of the most consequential one-hour conversations in a fresher's professional life. It determines whether you join TCS's premium hiring track - with its higher compensation package, more technically interesting initial projects, and the specific career trajectory that Digital designation enables - or whether you join as a Ninja and work toward proving your technical credentials from a different starting point.
 

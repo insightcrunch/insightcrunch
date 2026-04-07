@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-03-30
+lang: en
 ---
 If [Rehman Dakait](https://insightcrunch.com/2026/03/29/rehman-dakait-character-analysis-dhurandhar/) is the fire of the Dhurandhar franchise, charismatic, volatile, terrifyingly immediate, then Major Iqbal is the ice. He does not burn; he freezes. He does not erupt; he constricts. Arjun Rampal's portrayal of the military-intelligence operative who becomes the franchise's most persistent and ultimately most dangerous antagonist is built on a foundation of controlled stillness so complete that it becomes its own form of menace, a performance in which the absence of visible emotion is itself the threat. Where Rehman commanded scenes through the sheer force of his personality, Major Iqbal commands them through the implication of institutional power so vast and so impersonal that no individual, however resourceful, can ultimately outmaneuver it. He is the antagonist who does not need to raise his voice, draw a weapon, or make a threat, because the machinery he represents makes threats unnecessary. The system will find you. The system will process you. And the system does not care whether you are charming, brave, or sympathetic. It only cares whether you are a variable that disrupts its calculations, and if you are, it will remove you with the same efficiency it brings to every other operational objective.
 

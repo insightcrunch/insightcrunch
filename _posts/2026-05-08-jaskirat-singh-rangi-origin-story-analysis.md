@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-03-31
+lang: en
 ---
 The franchise does not call him Jaskirat after the first act. It calls him Hamza, because that is the name everyone in his life now uses, including, on the best days of his cover performance, himself. But the franchise is also constructed so that you never stop thinking of him as Jaskirat, because Aditya Dhar has built the entire six-hour architecture of the Dhurandhar duology on a single haunting question: where does the original person go when the state replaces him with an instrument? The origin story that answers this question is not backstory. It is the franchise's moral foundation, the thing everything that follows is built on, and the thing everything that follows is measured against. Hamza Ali Mazari can only be understood through Jaskirat Singh Rangi, because Hamza is not a person. He is what happened to a person when grief met institutional need and institutional need won.
 

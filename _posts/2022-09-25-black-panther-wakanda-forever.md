@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-37.webp"
 reading_time: 3
 author: "rachel-foster"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Movie Review
 

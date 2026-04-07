@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "maria-santos"
 last_updated: 1997-03-20
+lang: en
 ---
-
 Student notes questions are one of the Digital SAT's most distinctive formats, appearing in both Reading and Writing modules and presenting information as numbered bullet points rather than as a continuous passage. The numbered format is immediately recognizable, and trained students learn to treat this format as a strategy trigger: numbered notes = goal-first approach.
 
 This guide has covered every dimension of student notes strategy: the format, the five core goal types with checklists, the four-step strategy, eight worked examples across all goal variations, the wrong answer architecture, the notes-scanning protocols, the grammar of correct answers, the multi-question note-set strategy, the academic writing connections, and the practice protocol. A student who works through this material and the companion Article 34 is fully prepared for every student notes and rhetorical synthesis question on the Digital SAT.

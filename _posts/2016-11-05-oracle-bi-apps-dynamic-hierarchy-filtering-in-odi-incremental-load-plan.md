@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-89.webp"
 reading_time: 5
 author: "james-carter"
 last_updated: 2026-04-01
+lang: en
 ---
 Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension information during the loading processes. There are a variety of ways this can be done, let's take a walk through of few possible mechanisms of how this can be achieved in the Oracle Data Integrator incremental load plan with the maximum amount of flexibility.
 

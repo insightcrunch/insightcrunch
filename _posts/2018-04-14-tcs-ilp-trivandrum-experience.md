@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-29.webp"
 reading_time: 35
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a guest post. The views expressed are of the author.
 

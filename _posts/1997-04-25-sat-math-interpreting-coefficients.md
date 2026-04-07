@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-06.webp"
 reading_time: 61
 author: "jessica-kim"
 last_updated: 2026-04-05
+lang: en
 ---
 Coefficient interpretation questions appear on virtually every Digital SAT Math administration. The question format is consistent: a mathematical model is presented with variables representing real-world quantities, and students are asked what a specific number in the equation represents in the context described. These questions test reading precision far more than mathematical computation.
 

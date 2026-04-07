@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-29.webp"
 reading_time: 55
 author: "ryan-walsh"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Table of Contents
 

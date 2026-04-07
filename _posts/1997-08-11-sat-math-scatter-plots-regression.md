@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1997-08-11
+lang: en
 ---
-
 Scatter plots and regression questions are among the most reliably structured question types in the entire Digital SAT Math section. They appear two to four times per test, they always come from the Problem Solving and Data Analysis domain, and the College Board draws from a very small pool of skills to test: reading trends and outliers, interpreting the slope and y-intercept of a line of best fit in context, making predictions, understanding correlation, applying the correlation-vs-causation rule, and working with residuals. Every single one of these skills is learnable, testable, and consistent across administrations.
 
 The students who miss scatter plot and regression questions are not missing them because the underlying mathematics is difficult. The math involved is arithmetic-level: reading values from a graph, identifying the sign of a slope, and applying a linear equation to make predictions. They are missing these questions because the College Board tests conceptual understanding rather than calculation, and the specific concepts tested (what the slope means in context, the exact meaning of correlation vs causation, what a residual represents) require deliberate preparation rather than intuitive application of skills learned in class.

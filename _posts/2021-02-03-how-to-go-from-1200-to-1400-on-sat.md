@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-86.webp"
 reading_time: 45
 author: "christopher-wells"
 last_updated: 2026-04-01
+lang: en
 ---
 # How to Go from 1200 to 1400 on the SAT
 

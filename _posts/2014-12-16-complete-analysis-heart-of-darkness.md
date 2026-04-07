@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2014-12-16
+lang: en
 ---
-
 Heart of Darkness is the most contested classic in the English literary canon, and the contestation is organized by a genuine and unresolved tension that no available critical framework has fully resolved. The novella is, on one reading, the most powerful available early critique of European colonialism in the English literary tradition: it portrays the Belgian colonial enterprise in the Congo with an unflinching moral horror that was extraordinarily unusual for 1899, and it systematically destroys the most available self-justifying narratives through which European colonialism organized its own legitimacy. On another reading, available most completely in Chinua Achebe's 1975 essay "An Image of Africa," it is itself a product of the racist ideology it ostensibly critiques: it renders Africa primarily as the backdrop for a European man's psychological journey, it gives African characters almost no interiority or individual identity, and it consistently deploys the most available racist imagery of the period in its descriptions of African people. Both readings are correct. The tension between them is not a puzzle to be solved but the most urgently available formal argument about the specific limits of any available critique that remains organized within the ideological framework it is critiquing.
 
 <!--more-->

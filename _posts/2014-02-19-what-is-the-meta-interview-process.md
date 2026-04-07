@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-19.webp"
 reading_time: 12
 author: "nathan-cole"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Background
 

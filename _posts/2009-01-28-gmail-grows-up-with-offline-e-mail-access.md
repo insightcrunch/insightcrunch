@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-18.webp"
 reading_time: 1
 author: "ian-fletcher"
 last_updated: 2026-04-01
+lang: en
 ---
 Significantly increasing the utility and competitiveness of its Web-based e-mail service, Google is enabling an experimental ability to read, write, and search Gmail messages even while not connected to the network.
 

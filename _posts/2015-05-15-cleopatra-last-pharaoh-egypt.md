@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-05-15
+lang: en
 ---
-
 In the late summer of 30 BC, Cleopatra VII Philopator, Queen of Egypt and the last pharaoh of the three-thousand-year civilization that had built the pyramids, sat in her mausoleum in Alexandria and waited to die. She was thirty-nine years old. The Roman general Octavian, the future Emperor Augustus, had entered Egypt weeks before; her ally and lover Mark Antony had killed himself; her children were in Roman custody; and the life she had spent twenty-two years constructing, the survival of an independent Egyptian kingdom through the strategic use of Rome's most powerful men, was finished. What she chose in that final hour, death by her own hand rather than the humiliation of being displayed in chains in a Roman triumph, was the last political act of a woman whose entire career had been organized around the refusal of subordination. She had ruled Egypt for twenty-two years, made alliances with the two most powerful Romans of her age, had children by one and married another, outmaneuvered her siblings and rivals through combinations of cunning and force, and ultimately lost to structural forces that no individual political intelligence could have overcome.
 
 <!--more-->

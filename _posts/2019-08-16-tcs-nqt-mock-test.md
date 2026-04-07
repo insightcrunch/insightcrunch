@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-16.webp"
 reading_time: 45
 author: "devendra-patil"
 last_updated: 2026-04-01
+lang: en
 ---
 Most TCS NQT candidates take mock tests. Far fewer take them in a way that actually improves their real exam score. The difference between a mock test that wastes an hour and one that produces genuine preparation advancement is not in which mock you take - it is entirely in how you take it and what you do afterward.
 

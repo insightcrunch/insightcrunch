@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2013-05-10
+lang: en
 ---
-
 ## The Boy Who Died
 
 The Harry Potter series begins with a murder and ends with a resurrection. Between those two events, Rowling buries seventeen named characters, introduces an artifact that splits the soul to cheat death, builds a magical object that summons the dead, and walks her teenage protagonist into a forest to die voluntarily. Strip away the wands and the Quidditch and the house-elves, and what remains is a seven-volume argument about mortality more theologically rigorous than most works that announce themselves as philosophical.

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-27.webp"
 reading_time: 2
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 Pink Floyd often called the greatest band of Progressive Psychedelic Rock, perhaps the greatest rock band ever is always known for its bizarre experimentation with music. It’s obsession with harangued lyrics, obscure musical ballets and often far stretched guitar solos often contribute to the mystique of their composition.
 

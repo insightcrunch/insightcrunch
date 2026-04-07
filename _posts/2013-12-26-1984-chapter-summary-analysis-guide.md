@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2026-04-01
+lang: en
 ---
 George Orwell's 1984 is a novel of extraordinary structural precision, and reading it chapter by chapter reveals a design that is as calculated as anything in its political argument. Every scene placement, every pacing decision, every transition between the novel's three parts serves the larger argument about how power operates and what it costs its subjects. The plot that appears on the surface to be a story of rebellion and defeat is, at the structural level, a demonstration: a controlled experiment in which the specific conditions of Winston Smith's world are set up, his rebellion activated, and his destruction conducted with the methodical thoroughness of a scientific procedure.
 

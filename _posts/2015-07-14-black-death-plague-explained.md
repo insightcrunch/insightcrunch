@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-07-14
+lang: en
 ---
-
 In October 1347, a fleet of twelve Genoese trading ships docked at the Sicilian port of Messina after traveling from the Black Sea port of Caffa. The port officials who came out to meet the ships found most of the sailors dead and those still alive covered with black boils oozing blood and pus, burning with fever, and so debilitated they could barely stand. The sailors described what they had seen in Caffa: bodies piling up faster than they could be buried, the dying begging to be killed to end their suffering, and Mongol besiegers of the city using siege engines to hurl plague-infected corpses over the walls, in what may be the first recorded instance of biological warfare. The port authorities of Messina ordered the ships out of the harbor immediately, but it was already too late. Within days, the disease the ships had carried was spreading through the city and the island. Within weeks, it had reached the Italian mainland. Within months, it was moving through the most densely populated region of the medieval world at a speed that contemporaries described as supernatural and that modern epidemiology can now explain: the plague bacterium Yersinia pestis, transmitted by fleas living on rats that accompanied every ship, every caravan, and every traveler in the medieval trading world, was exploiting the commercial networks that connected medieval Europe and the Middle East with a terrifying efficiency.
 
 <!--more-->

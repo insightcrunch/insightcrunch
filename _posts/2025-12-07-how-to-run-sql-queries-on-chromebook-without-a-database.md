@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-11.webp"
 reading_time: 32
 author: "james-carter"
 last_updated: 2026-03-31
+lang: en
 ---
 SQL is the most important language in the data world. It powers the databases behind every major application, website, financial system, and analytics platform on the planet. If you work with data in any capacity, from a first-semester database student to a senior business analyst at a Fortune 500 company, you need to know SQL. The problem is that running SQL traditionally requires a database server: MySQL, PostgreSQL, SQL Server, SQLite, Oracle. Installing and configuring any of these on a Chromebook is either extremely difficult or flat-out impossible.
 

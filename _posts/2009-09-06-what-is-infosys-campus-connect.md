@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 1
 author: "ritika-singh"
 last_updated: 2026-04-01
+lang: en
 ---
 It is training program conducted in various colleges by Infosys to prepare the freshers on various topics and fields to make them industry ready. Most of the topics covered help the students apply their knowledge in the practical field. Though non-CS/IT students would  benefit a lot from it, it is also useful for CS/IT students to brush up their skills.  
   

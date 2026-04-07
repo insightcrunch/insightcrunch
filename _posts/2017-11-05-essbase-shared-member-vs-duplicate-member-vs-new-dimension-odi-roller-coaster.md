@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 2
 author: "andrew-price"
 last_updated: 2026-04-01
+lang: en
 ---
 The beginning of winter brought with it some exciting rides into the world of Oracle Data Integrator and Essbase. Feels lovely when things start to unravel their beauty and prowess. After several sessions (more to come!) of brainstorming on Shared and Duplicate members, we came to a few interesting findings that can help us plan better.
 

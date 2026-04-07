@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-76.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 There are career experiences you remember in outline - the job you had, the company you worked for, the projects you contributed to. And then there are experiences you remember in texture - the specific smell of a morning, the exact feeling of a friendship forming in real time, the precise moment something difficult became beautiful. TCS ILP Trivandrum is the second kind.
 

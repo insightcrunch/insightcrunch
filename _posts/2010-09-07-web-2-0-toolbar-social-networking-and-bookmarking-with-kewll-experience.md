@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 With the internet advancing with newer Web 2.0 sites every day, it often becomes necessary to get some tool that would make our life  easier by helping to use these sites faster. Who wouldn’t like to share and bookmark or save his favorite websites in just a click of a button. And who wouldn’t be impressed if it happened effortlessly from within your browser? Kewll, the latest addition, and in a pretty infant stage, though with over a thousand users, is doing just that.
 

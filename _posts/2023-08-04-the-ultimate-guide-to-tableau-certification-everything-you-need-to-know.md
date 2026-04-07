@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 5
 author: "alex-rivera"
 last_updated: 2026-03-30
+lang: en
 ---
 ## Background
 

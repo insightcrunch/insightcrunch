@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-57.webp"
 reading_time: 2
 author: "insight-crunch-team"
 last_updated: 2026-04-01
+lang: en
 ---
 The use of Microsoft Excel automatically becomes a powerful tool to dive deep into the sea of data and form perceptions while generating interesting data models. Recently while in the middle of such an exciting activity came a moment where we were stuck with a not-so-latest version of Excel, and thus we are missing the oh-so-lovely built-in Count Distinct formula for a Pivot Table. Yes it's a deal-breaker, when we cannot avoid a pivot, and also desperately don't want to create a different standalone table or formula for a calculation to count the number of distinct values for a combination.
 

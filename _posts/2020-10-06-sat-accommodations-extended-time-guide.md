@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 45
 author: "patrick-dunn"
 last_updated: 2026-04-01
+lang: en
 ---
 Testing accommodations exist because the SAT is designed to measure academic knowledge and reasoning skills, not the speed of processing under artificial constraint or the ability to read standard print. When a disability, chronic health condition, or documented need creates a barrier between a student's actual capabilities and their ability to demonstrate those capabilities under standard testing conditions, accommodations remove that barrier. They do not provide an advantage over other test-takers. They create access to a fair assessment for students whose conditions would otherwise prevent the test from measuring what it is designed to measure.
 

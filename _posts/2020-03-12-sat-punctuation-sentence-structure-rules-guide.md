@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 45
 author: "maria-santos"
 last_updated: 2026-04-01
+lang: en
 ---
 Punctuation and sentence structure questions account for a significant and consistent portion of the SAT Reading and Writing section. These questions present a sentence or short passage with an underlined portion and ask which of four options correctly punctuates or structures the sentence. Unlike vocabulary or rhetoric questions, punctuation questions are entirely rule-based: each question has one definitively correct answer determined by specific grammatical rules, and students who have internalized those rules will answer these questions correctly every time, regardless of the topic or difficulty level of the surrounding passage.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "vikram-iyer"
 last_updated: 2026-03-30
+lang: en
 ---
 The TCS NQT offer letter arrives with a CTC number that means very little on its own. Rs. 3.36 LPA sounds like Rs. 28,000 per month, but the amount that actually reaches your bank account after PF deductions, professional tax, and income tax is closer to Rs. 25,000-26,500 depending on your state of posting and your tax declarations. Rs. 7 LPA sounds like Rs. 58,333 per month, but the Digital profile employee who joins in Bengaluru will see approximately Rs. 50,000-52,000 in their account. This guide does the complete math - every component, every deduction, every calculation - for all three NQT profiles. If you have received or are expecting a TCS offer letter, this is the reference that translates the headline number into what you will actually live on.
 

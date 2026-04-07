@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-68.webp"
 reading_time: 45
 author: "feng-lei"
 last_updated: 2026-04-01
+lang: zh
 ---
 高考结束，等待成绩的日子，是整个高考旅程中最特殊的一段时光。考试已经结束，结果尚未揭晓，这种悬在空中的不确定感，对许多考生和家长来说，甚至比备考和考试本身更难熬。
 

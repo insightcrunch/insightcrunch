@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-08-28
+lang: en
 ---
-
 In the summer of 1609, a Paduan professor of mathematics named Galileo Galilei heard reports of a Dutch invention that made distant objects appear closer and immediately constructed his own improved version. Within weeks he had turned it toward the sky and was seeing things that no human being had ever seen before: the mountains and craters on the moon's surface (its texture utterly unlike the smooth perfect sphere that Aristotelian cosmology required); the moons of Jupiter, circling their parent planet in orbits that demonstrated not everything in the cosmos revolved around the Earth; the phases of Venus, which showed Venus orbited the Sun; and eventually sunspots, imperfections on the face of the heavenly body whose perfection Aristotelian cosmology had insisted upon. Each observation was a hammer blow against the intellectual framework that had organized European understanding of the cosmos for nearly two thousand years. Galileo published his initial findings in Sidereus Nuncius (Starry Messenger) in March 1610, and the world was never quite the same.
 
 <!--more-->

@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-07-30
+lang: en
 ---
-
 ## Introduction: The Animal That Knows What the Person Will Not Say
 
 The Harry Potter series assigns every significant character a familiar or animal companion, and each assignment is an act of characterisation more precise than almost anything the narrative says about that character directly. The familiar does not lie. It does not perform. It does not manage impressions in the way that the human character does in the human social world. The familiar is the person's most private nature given physical form - the distilled quality of what the person most centrally is when stripped of the social machinery that mediates their presentation to others.

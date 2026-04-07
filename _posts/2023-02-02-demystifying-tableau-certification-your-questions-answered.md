@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-72.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-04-02
+lang: en
 ---
 In the realm of data analytics and visualization, Tableau stands as a beacon of excellence. Its impact on transforming raw data into meaningful insights is undeniable. If you've ever pondered about Tableau certification, this article, reminiscent of Hemingway's succinct style, brings clarity to your queries and sheds light on the labyrinth of Tableau certification.
 

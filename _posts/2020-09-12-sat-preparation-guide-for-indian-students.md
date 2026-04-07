@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
 author: "christopher-wells"
 last_updated: 2026-04-01
+lang: en
 ---
 India sends a significant and growing number of students to universities in the United States every year, and for most of those students the SAT plays an important role in their applications. Yet the SAT preparation landscape in India is fragmented, filled with coaching centers of wildly varying quality, preparation advice tailored to the old paper-based test rather than the Digital SAT, and a general lack of authoritative guidance specific to the challenges and opportunities that Indian students face.
 

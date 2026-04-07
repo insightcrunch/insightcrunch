@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 50
 author: "li-wei"
 last_updated: 2026-03-31
+lang: zh
 ---
 高考备考，不是一场短跑，而是一场三年的马拉松。很多学生在高三才开始认真备考，发现自己在高一高二积累的基础已经不足以支撑冲击理想院校所需的分数。真正的高考高分，几乎都是三年系统积累的结果，而非高三一年突击的产物。
 

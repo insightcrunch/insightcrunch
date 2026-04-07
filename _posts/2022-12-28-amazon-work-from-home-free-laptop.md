@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 13
 author: "david-thornton"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

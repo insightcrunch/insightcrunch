@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-66.webp"
 reading_time: 45
 author: "ritika-singh"
 last_updated: 2026-04-02
+lang: en
 ---
 The Infosys hiring process is one of the most structured and well-documented recruitment pipelines in the Indian IT industry. Whether you are a final-year engineering student waiting for campus placements, a fresh graduate searching for off-campus opportunities, or an experienced professional considering a lateral move, understanding how Infosys evaluates and selects candidates is the single most important step you can take before entering the process.
 

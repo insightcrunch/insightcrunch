@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 11
 author: "james-carter"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

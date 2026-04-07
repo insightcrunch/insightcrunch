@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-35.webp"
 reading_time: 3
 author: "alex-rivera"
 last_updated: 2026-04-01
+lang: en
 ---
 The world of data integration and transformation gets more and more exciting every day. Where we have data fuelling intelligent applications, and transformations paving the way to create cleaner and leaner data. Let's dive in to some sorting and ordering transformations using shell scripting which will subsequently be triggered via ODI. We now have an interesting scenario where we have to identify all the records having the string "Parmesan Cheese", and after identifying the unique identifier, we have to cut this record and paste it under the immediate next record having the string "Filet Mignon" with the same unique identifier. Let's see a quick example below:
 

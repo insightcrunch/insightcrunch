@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 61
 author: "christopher-wells"
 last_updated: 1997-06-14
+lang: en
 ---
-
 Angle relationship and polygon property questions appear two to three times on every Digital SAT administration, spanning a wide range of difficulty from the straightforward supplementary angle calculation to multi-step problems involving parallel lines, triangle properties, and polygon formulas applied in sequence. These questions are among the most reliably prepared topics in all of SAT Math because the underlying relationships are few in number, entirely rule-based, and apply directly to every question that involves angles.
 
 The parallel lines transversal setup is the single most frequently tested angle configuration on the Digital SAT, appearing in some form on virtually every administration. A transversal crossing two parallel lines creates eight angles with very specific relationships: corresponding angles are equal, alternate interior angles are equal, and same-side interior angles are supplementary. Knowing these three relationships with complete automatic fluency resolves the majority of angle-relationship questions without any complex reasoning.

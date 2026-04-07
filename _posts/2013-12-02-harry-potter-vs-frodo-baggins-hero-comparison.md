@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2013-12-02
+lang: en
 ---
 ## Introduction: Two Heroes, One Question
 

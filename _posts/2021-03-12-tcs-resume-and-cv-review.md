@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
+lang: en
 ---
 Your resume is the first thing TCS sees before it meets you. It determines whether you advance to an interview or disappear into the unread pile. For fresher candidates, the resume is particularly critical because it is doing heavy lifting for a person with limited professional experience - it must make a strong case based primarily on education, projects, and potential.
 

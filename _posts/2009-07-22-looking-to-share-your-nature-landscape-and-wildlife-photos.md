@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-41.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 All photographers whether an amateur or professional quickly finds he has a pretty large collection of photos, often the better ones finding a place only in their backup storage devices like DVDs etc. But how about sharing your photos with the world where you can allow your family, friends and friends of friends to see them? And what is better than Flickr to share your collection!
 

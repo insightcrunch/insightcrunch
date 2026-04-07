@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-04-01
+lang: en
 ---
 To Kill a Mockingbird is one of the most widely read novels in American history and one of the most widely misread. Its reputation as a comfortable classic, a feel-good story about a good man standing up for justice in the American South, has been so thoroughly established by decades of classroom teaching and cultural reverence that the novel's actual complexity, its darkness, its ambivalence about its own heroic narrative, and its unflinching account of what racial injustice actually costs, has been progressively obscured beneath the warmth of its reception. Harper Lee wrote a more disturbing and more honest novel than the one that sits comfortably on school reading lists, and recovering that novel requires reading past the comfort it has been dressed in and attending to what is actually on the page.
 

@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-07-05
+lang: en
 ---
-
 ## Introduction: The Hierarchy of Bravery
 
 The Harry Potter series is named for and centred on a character who belongs to the house of courage, and yet the series' most subversive argument is that Gryffindor courage - the specific form of the bravery that charges toward danger, that draws the wand first and thinks later, that performs itself most visibly in the most dramatic available situations - is the least interesting and in many ways the least morally demanding form of bravery the series documents.

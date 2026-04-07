@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2003-07-15
+lang: en
 ---
-
 Most UPSC aspirants begin preparation by asking what to study. The smarter question, the one that experienced candidates and successful toppers ask first, is how the examination works. The exam pattern is not administrative background information to skim past before getting to the real preparation. The exam pattern is the strategy. Every decision you make in UPSC preparation, which subjects to prioritize, how many questions to attempt in Prelims, how to structure your Mains answers, how to pace yourself through a three-hour paper, which optional to choose, how to behave in the Interview, is determined by a thorough understanding of how the examination is structured, what each stage measures, and how the marks combine to produce the final merit list.
 
 An aspirant who understands the UPSC exam pattern at the level of operational detail has a fundamental strategic advantage over one who does not. They know that Prelims marks do not count in the final merit, which changes the Prelims goal from maximizing score to qualifying comfortably. They know that Optional Subject Paper 1 and Paper 2 together contribute more marks to the Mains merit than any single GS paper, which shapes how they allocate preparation time. They know that the Interview carries 275 marks out of a total of 2,025, which means a 30-mark difference in Interview performance shifts the final merit score by 1.5%, enough to change service allocation significantly. These are not trivial details; they are the load-bearing facts on which every intelligent preparation strategy rests.

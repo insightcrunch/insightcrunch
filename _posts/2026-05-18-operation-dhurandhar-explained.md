@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-75.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
+lang: en
 ---
 Most audiences watching Dhurandhar experience the operation as a story. The more analytically productive way to experience it is as an argument. The franchise is not simply depicting an intelligence operation. It is making a case for why operations of this type are conducted the way they are, why they take as long as they take, why the human cost they extract is the cost they require rather than a cost that better planning could have reduced, and why the conventional action film's shorthand for espionage, the capable hero executing a mission that takes days rather than decades, is a category error about what intelligence work actually is. Understanding Operation Dhurandhar means understanding the operational logic that drives it, the structural constraints that shape it, and the specific choices that Ajay Sanyal makes that are not dramatic conveniences but accurate representations of how real intelligence agencies approach problems of this kind.
 

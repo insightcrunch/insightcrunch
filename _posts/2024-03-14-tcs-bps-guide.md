@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "vikram-iyer"
 last_updated: 2026-03-31
+lang: en
 ---
 For every engineering graduate preparing for TCS through the NQT route, there are thousands of commerce, arts, and non-engineering science graduates who share the same goal of a TCS career but have no clear path laid out for them. TCS BPS - the Business Process Services hiring track - is that path. It is a distinct, legitimate, and often overlooked recruitment track that opens TCS employment to graduates from streams that the NQT explicitly excludes. This guide covers everything a BPS aspirant needs: what the role involves, who qualifies, how the hiring test is structured, what the interview looks like, and what a career in TCS BPS can realistically lead to.
 

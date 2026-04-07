@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-23.webp"
 reading_time: 1
 author: "kevin-reeves"
 last_updated: 2026-04-01
+lang: en
 ---
 The Google Android team has been working furiously to bring more features that would make user’s experience friendly like anything. Since the Android first hit the market in 2008, many features had been added. But with time, Google has decided not only user’s demands in the next release, but also provide more facilities that would no doubt make it stand a lot apart from the others.
 

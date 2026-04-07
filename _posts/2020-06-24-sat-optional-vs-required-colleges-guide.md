@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "daniel-morgan"
 last_updated: 2026-04-01
+lang: en
 ---
 One of the most consequential strategic decisions in college applications today is whether to submit SAT scores when the institution you are applying to does not require them. The test-optional movement has transformed the admissions landscape over the past several decades, expanding significantly during a period of disruption in standardized testing access, and then evolving further as institutions reconsidered their policies in light of new data on what standardized test scores predict about college success.
 

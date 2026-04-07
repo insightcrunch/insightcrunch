@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2013-11-16
+lang: en
 ---
 ## Introduction: The Same Institution, Two Entirely Different Things
 

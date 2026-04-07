@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2026-04-01
+lang: en
 ---
 The most commonly taught reading of alienation in The Catcher in the Rye treats it as a general condition: the adolescent's perception that the adult world is organized around phoniness, that genuine feeling is being progressively abandoned in favor of social performance, that growing up means making accommodations that cost something essential. This reading is not wrong, but it is incomplete in a way that matters enormously. Salinger's argument about alienation is more specific and more disturbing than the general formulation allows: Holden Caulfield is not alienated from the social world because he perceives it more accurately than his peers do. He is alienated from the social world because the social world has no adequate space for what happened to him, and what happened to him is that his brother died when both of them were children, and no one, not the schools he has attended, not the adults who have tried to help him, not the social institutions through which adolescence is supposed to be managed toward maturity, has been able to provide the space in which that loss can be adequately processed.
 

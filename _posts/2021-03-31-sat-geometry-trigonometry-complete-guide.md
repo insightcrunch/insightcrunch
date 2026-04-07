@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "michael-brooks"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Geometry and Trigonometry: Every Topic Explained
 

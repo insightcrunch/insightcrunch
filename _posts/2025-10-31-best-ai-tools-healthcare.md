@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "abigail-cooper"
 last_updated: 2026-03-31
+lang: en
 ---
 Healthcare is the sector where artificial intelligence carries the highest stakes of any industry. A diagnostic AI that performs well changes outcomes for real patients. A clinical documentation tool that reduces the administrative burden on physicians gives those physicians more time for direct patient care. A drug discovery AI that identifies a viable candidate months earlier than traditional methods could mean treatments reaching patients who need them sooner. And an AI system with flaws - one that misses a diagnosis, produces inaccurate drug interaction information, or generates clinical notes that obscure rather than clarify the patient's condition - can cause direct harm to human beings. Healthcare AI is consequential in both directions, and the standards for evaluating these tools must reflect that weight.
 

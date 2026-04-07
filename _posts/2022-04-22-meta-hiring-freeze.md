@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 8
 author: "marcus-hall"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

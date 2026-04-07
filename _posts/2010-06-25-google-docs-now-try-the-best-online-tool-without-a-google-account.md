@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-78.webp"
 reading_time: 1
 author: "jason-mckenzie"
 last_updated: 2026-04-01
+lang: en
 ---
 Google Docs had been adding many desired feature off-late, but all of it required to have a Google account to log in and then access it. But now anyone can simply visit docs.google.com/demo and start typing in a document that would be available for 24 hours only. They can also invite others to collaborate with them.
 

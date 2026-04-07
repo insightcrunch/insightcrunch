@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-86.webp"
 reading_time: 25
 author: "shruti-agarwal"
 last_updated: 2026-03-31
+lang: en
 ---
 Your assigned ILP stream determines your technical curriculum, your project phase technology, and often your first real project at TCS. Yet most freshers know almost nothing about their stream before arriving at the training center. They receive a stream assignment via their Tech Lounge allocation and spend weeks wondering whether they got a "good" stream or a "bad" one, without any real information to judge.
 

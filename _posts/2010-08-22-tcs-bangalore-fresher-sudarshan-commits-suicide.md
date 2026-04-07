@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-49.webp"
 reading_time: 55
 author: "gregory-marsh"
 last_updated: 2026-04-01
+lang: en
 ---
 Bangalore is the city where more Indian IT careers begin than anywhere else in the country. It is also the city where the psychological pressures of those careers are felt most intensely by the youngest and most vulnerable members of the workforce.
 

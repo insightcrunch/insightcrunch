@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
 author: "samantha-lee"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Algebra: Every Topic and Question Type Explained
 

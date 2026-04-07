@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-04-01
+lang: en
 ---
 Ralph is the first character the reader meets in Lord of the Flies, and that priority is not accidental. William Golding introduces him standing in the wreckage of a plane crash, pulling off his clothes in the tropical heat with an almost giddy sense of freedom, and the reader's first impression is of a boy who is healthy, attractive, and fundamentally decent, a natural leader in the most conventional sense of the phrase. He is twelve years old, fair-haired, broad-shouldered, and possessed of an instinctive physical confidence that the other boys recognize and respond to almost immediately. He is elected chief not because he is the smartest or the strongest or the most charismatic but because he looks like what a leader should look like, because he holds the conch that summoned them all together, and because his body and his bearing carry a kind of promise that the other boys want to believe in. The tragedy of Ralph's story is the slow, devastating education in how little any of that matters when the structures that give leadership its authority begin to crumble from within.
 

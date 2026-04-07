@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-77.webp"
 reading_time: 5
 author: "diana-patel"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a guest post by Debapriya Mukherjee. The views expressed are entirely of the author.
 

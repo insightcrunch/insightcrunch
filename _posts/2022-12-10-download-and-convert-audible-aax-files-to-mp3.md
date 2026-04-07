@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-13.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

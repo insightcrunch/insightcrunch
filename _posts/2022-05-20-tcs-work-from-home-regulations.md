@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-79.webp"
 reading_time: 45
 author: "meera-pillai"
 last_updated: 2026-04-02
+lang: en
 ---
 TCS's approach to work from home and hybrid working is one of the most watched in India's IT industry. As the country's largest IT employer with over 600,000 employees, how TCS structures remote and office work directly affects hundreds of thousands of professionals and their families across India. The 25/25 model, the Occasional Operating Zones rollout, the SEZ compliance rules, and the ongoing return-to-office push each represent different dimensions of a workplace transformation that is still evolving.
 

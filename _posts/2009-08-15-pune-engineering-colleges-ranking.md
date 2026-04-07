@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-19.webp"
 reading_time: 1
 author: "andrew-price"
 last_updated: 2026-04-01
+lang: en
 ---
 This is another one of the most sought after ranking list with so many engineering colleges in Pune. After the [West Bengal engineering colleges list](http://rahul-bhattacharya.blogspot.com/2009/07/west-bengal-engineering-colleges.html), [Orissa engineering college list](http://rahul-bhattacharya.blogspot.com/2009/08/orissa-engineering-colleges-ranking.html), [Tamil Nadu engineering colleges list](http://rahul-bhattacharya.blogspot.com/2009/08/tamil-nadu-engineering-colleges-ranking.html) and [Mumbai engineering colleges list](http://rahul-bhattacharya.blogspot.com/2009/08/maharashtra-engineering-colleges.html), I got several requests to make another one for Pune as well. This list will keep updating itself. Feel free to share your views below. Some of the key factors that had been taken into consideration are the starting and ending ranks of some of the top streams, feedbacks from students studying in these colleges regarding the faculty, placement, infrastructure and various other factors.
 

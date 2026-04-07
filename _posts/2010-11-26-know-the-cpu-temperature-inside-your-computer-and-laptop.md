@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-67.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 This very useful program lets you know all the details that is going to save you a lot of bucks and help a lot in improving the condition and health of your machine.
 

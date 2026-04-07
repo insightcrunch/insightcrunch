@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 Many people had requested for a search box which would enable the visitors of their websites and blogs to search directly through Bing. So here is the code that is sure to help a lot of people. Simply select this code and press Ctrl+C and paste it wherever you want.
 

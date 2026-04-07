@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-25.webp"
 reading_time: 45
 author: "samantha-lee"
 last_updated: 2026-04-01
+lang: en
 ---
 Quadratic equations represent the second-most important algebraic topic on the SAT Math section, appearing across multiple questions at every difficulty level in both Math modules of the Digital SAT. Unlike linear equations, which have one standard approach, quadratic equations demand fluency in four different solution methods: factoring, the quadratic formula, completing the square, and graphical analysis through Desmos. Knowing which method to apply in which situation is itself a skill the SAT tests, rewarding students who can assess a quadratic and select the most efficient path to the answer.
 

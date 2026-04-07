@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-82.webp"
 reading_time: 45
 author: "wu-chengan"
 last_updated: 2026-04-01
+lang: zh
 ---
 "高考是世界上最难的考试"，这句话在中国网络上广泛流传，被无数高考生和家长引用，也被不少国际媒体报道。但这个说法真的成立吗？
 

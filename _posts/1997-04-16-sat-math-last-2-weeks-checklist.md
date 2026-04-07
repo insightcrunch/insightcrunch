@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
 author: "natalie-webb"
 last_updated: 2026-04-05
+lang: en
 ---
 The two weeks before the SAT are the most consequential preparation period. Every hour invested in the right activity during this window produces real, measurable score improvement. Every hour spent on the wrong activity (or spent doing nothing productive) is an opportunity cost that cannot be recovered.
 

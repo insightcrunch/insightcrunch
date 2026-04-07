@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-82.webp"
 reading_time: 1
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 Read more: [TCS Joining Date 2009 Batch »](https://insightcrunch.com/2009/05/30/tcs-joining-date-2009-batch/)
 

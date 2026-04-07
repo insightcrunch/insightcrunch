@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-81.webp"
 reading_time: 11
 author: "abigail-cooper"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Background
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-69.webp"
 reading_time: 45
 author: "maria-santos"
 last_updated: 2026-03-31
+lang: en
 ---
 Chicago is a city that feeds you like it means it. The portions are generous, the flavors are bold, the hospitality is genuine, and the bartenders remember your name after two visits. In a city where the Midwest ethos of warmth meets one of the most ambitious restaurant scenes in America, eating alone is not just tolerated. It is embraced, encouraged, and rewarded with some of the finest food on the continent.
 

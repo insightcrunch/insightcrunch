@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-35.webp"
 reading_time: 32
 author: "marcus-hall"
 last_updated: 2026-03-31
+lang: en
 ---
 Chromebooks have quietly become the most popular laptop in schools and universities around the world. Their affordability, long battery life, instant boot times, and near-zero maintenance make them the default choice for students on every budget. But there is one challenge that every Chromebook user eventually faces: you cannot install traditional desktop software. No Microsoft Office suite sitting on your hard drive. No Photoshop. No MATLAB. No locally installed Python IDE. Everything has to run inside the Chrome browser.
 

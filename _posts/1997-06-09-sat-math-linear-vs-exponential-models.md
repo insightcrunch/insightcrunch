@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-51.webp"
 reading_time: 61
 author: "katherine-blake"
 last_updated: 2026-04-05
+lang: en
 ---
 Linear and exponential model questions appear two to three times on every Digital SAT administration, spanning both the Problem Solving and Data Analysis domain and the Advanced Math domain. They are among the most conceptually rich questions on the test because they require both mathematical skill (identifying and applying the right function form) and interpretive skill (translating a real-world scenario into a model and reading results in context). A student who can automatically distinguish between a constant rate of change (linear) and a constant multiplicative factor (exponential) will resolve every linear-vs-exponential question on the Digital SAT correctly.
 

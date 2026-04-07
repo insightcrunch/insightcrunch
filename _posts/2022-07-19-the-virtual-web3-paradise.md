@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-62.webp"
 reading_time: 3
 author: "chloe-martin"
 last_updated: 2026-04-02
+lang: en
 ---
 Despite the obscure rise of the term Web3 and it's close association with crypto currency and blockchain, it is interesting to see how the recent decentralization storm is taking up everything. As a successor to Web 2.0, the era which was supposed to democratize the internet, but instead became dominated by FAANG and related products, Web 3 is all about re-decentralizing the web.
 

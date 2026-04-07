@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-10-18
+lang: en
 ---
 ## Introduction: Three Clever Boys and One Moral Test
 

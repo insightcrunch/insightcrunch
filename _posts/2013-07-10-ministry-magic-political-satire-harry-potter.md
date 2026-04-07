@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-07-10
+lang: en
 ---
-
 ## Introduction: How Democracies Die from the Inside
 
 The Ministry of Magic is the most detailed political portrait in the Harry Potter series, and the portrait is more analytically precise than the fantasy genre typically manages because Rowling has constructed it as a specific argument about how democratic institutions fail - not through the sudden imposition of overt tyranny from outside but through the specific internal processes that the institutions themselves most directly enable. The Ministry does not fail because Voldemort conquers it from outside. It fails because the specific mechanisms of the Ministry's own operation - the self-serving bureaucracy, the state-adjacent media, the deployment of procedural legitimacy against the people the procedures were supposed to protect - create the specific conditions within which the conquest most directly becomes possible.

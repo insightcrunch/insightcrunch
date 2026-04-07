@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: Not Allegory but Architecture
 

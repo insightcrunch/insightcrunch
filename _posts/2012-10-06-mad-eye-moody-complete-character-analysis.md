@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Price of the Fight
 

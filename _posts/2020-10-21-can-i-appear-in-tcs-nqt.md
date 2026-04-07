@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-56.webp"
 reading_time: 45
 author: "vikram-iyer"
 last_updated: 2026-04-01
+lang: en
 ---
 Before investing months of preparation in the TCS NQT, the first question to answer is whether you are eligible to take it. TCS's eligibility criteria are specific, and meeting them is not guaranteed simply by being an engineering graduate. This guide walks through every eligibility dimension so you know exactly where you stand before you begin.
 

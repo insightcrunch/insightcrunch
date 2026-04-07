@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 62
 author: "daniel-morgan"
 last_updated: 1997-08-25
+lang: en
 ---
-
 Exponential functions appear on every single administration of the Digital SAT. They show up roughly two to four times per test, and because the College Board loves placing them in the harder Module 2 questions, getting them right carries outsized scoring weight. A student who masters exponential growth and decay can expect to gain two to four points on the 800-point Math scale from those questions alone, which is exactly the kind of targeted, high-leverage improvement that separates a 1300 from a 1350 or a 1450 from a 1500. The students who miss these questions are almost never missing them because the math is inherently difficult. They miss them because of a handful of specific, predictable traps that the College Board has been setting for years and that very few students recognize as patterns until someone points them out directly.
 
 This guide walks through every way the Digital SAT tests SAT exponential functions, from the foundational structure of the equation to the most deceptive word problem formats. If you have already reviewed the exponential content inside the [complete SAT Advanced Math domain guide](/2021/04/16/sat-advanced-math-domain-complete-guide/) and the [SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/), this article goes several layers deeper into the specific question types, the exact traps the College Board sets, and the Desmos strategies that make these problems faster and more reliable on test day. By the end of this guide, exponential function questions should feel like the most predictable category on the exam rather than the most mysterious.

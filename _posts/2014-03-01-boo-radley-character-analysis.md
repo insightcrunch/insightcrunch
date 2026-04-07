@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2026-04-01
+lang: en
 ---
 Arthur Radley, known throughout Maycomb and throughout American literary memory as Boo, is the most quietly powerful character in To Kill a Mockingbird and the one through whom the novel makes its deepest moral argument. He is present on nearly every page of the novel through his absence, through the mythology that the neighborhood has built around him, through the small anonymous gifts he leaves for the children, and through the watching presence that Scout will only understand at the novel's very end. He appears in person in fewer than a dozen pages, does not speak a single line of dialogue that the reader hears directly, and yet his arc is the moral completion that everything else in the novel has been moving toward.
 

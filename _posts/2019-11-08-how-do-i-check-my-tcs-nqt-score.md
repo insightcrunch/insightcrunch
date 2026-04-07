@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "karthik-menon"
 last_updated: 2026-04-01
+lang: en
 ---
 You have taken the TCS NQT. The results window has arrived. Now you need to find your score - not a vague idea of whether you "passed," but the actual section-wise scorecard that tells you exactly where you stand and what it means for your TCS application.
 

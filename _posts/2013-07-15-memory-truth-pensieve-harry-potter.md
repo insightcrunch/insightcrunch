@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-07-15
+lang: en
 ---
-
 ## Introduction: The Basin That Holds What the Mind Cannot
 
 The Pensieve is the most philosophically ambitious object in the Harry Potter series. It is not simply a magical tool for replaying memories - a pensieve-as-videotape, as the most reductive available reading would have it. It is Rowling's most concentrated argument about the nature of memory itself: that memory is both more and less reliable than we ordinarily believe, that the same event looks fundamentally different depending on whose memory you enter, and that the complete truth about any person or situation can only be assembled from the specific combination of multiple, conflicting, and individually partial available memories.

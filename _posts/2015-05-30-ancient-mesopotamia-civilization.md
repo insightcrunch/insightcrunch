@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-05-30
+lang: en
 ---
-
 Around 3200 BC, in the city of Uruk in southern Mesopotamia, someone pressed a stylus into a clay tablet and made marks that recorded a transaction: a number of jars of barley, a number of sheep, a quantity of oil. This was not the first attempt at symbolic communication; humans had been making marks and images for tens of thousands of years. What was new was the combination of phonetic signs with pictographic symbols in a systematic way that could record language itself, not just quantities and objects. Writing, which had been invented to track sheep and grain, almost immediately became the medium for everything that defines civilization in the fullest sense: law, history, poetry, mathematics, religious speculation, political authority, personal correspondence. The great library of the Mesopotamian city Nippur contained tens of thousands of tablets by the second millennium BC, covering subjects from lunar tables to instructions for brewing beer to the Epic of Gilgamesh, the world's oldest surviving work of literature. Everything that humans have thought and recorded since depends, in some direct or indirect way, on what was invented in the flood plains between the Tigris and Euphrates rivers.
 
 <!--more-->

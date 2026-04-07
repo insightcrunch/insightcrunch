@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-11.webp"
 reading_time: 61
 author: "daniel-morgan"
 last_updated: 1997-02-03
+lang: en
 ---
-
 Reading speed on the Digital SAT is not what most students think it is. The intuitive assumption - that reading faster produces better scores - is wrong for most students. The evidence from student timing data is clear: students who read more carefully on the first pass produce higher accuracy and spend the same or less total time per passage than students who rush and re-read. The reality is the opposite: most students who struggle with reading time are not reading too slowly - they are reading too fast, failing to understand passages on the first pass, and wasting double the time on re-reads and second-guessing. The cure for "slow reading" on the Digital SAT is almost always deeper comprehension on the first pass, not faster eye movement.
 
 This guide covers the Digital SAT's unique short-passage format, the first-sentence-first reading approach that maximizes comprehension efficiency, when to read every word versus when to read strategically, how to decode dense academic prose, passage type recognition for rapid strategy deployment, the practical drills that build the reading habits this format rewards, and the stamina considerations for reading 27 different passages per module.

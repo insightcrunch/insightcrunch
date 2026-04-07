@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "rajan-kumar"
 last_updated: 2026-04-01
+lang: en
 ---
 Of all the TCS ILP centers in India, Guwahati is the one that surprises freshers most completely. Chennai and Hyderabad are familiar metros. Trivandrum is unfamiliar but beloved. Bengaluru is India's technology capital. But Guwahati - the gateway to Northeast India, sitting beside the Brahmaputra River at the edge of the subcontinent's most extraordinary natural landscape - is genuinely unlike anywhere else that TCS ILP takes freshers.
 

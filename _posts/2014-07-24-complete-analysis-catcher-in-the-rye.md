@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2026-04-01
+lang: en
 ---
 The Catcher in the Rye is the most divisive novel in the American canon, and the division is the point. Since its publication in 1951, readers have been arguing not just about whether Holden Caulfield is right about the world but about whether the argument itself is the right argument to be having. Some read the novel as a profound account of adolescent grief and the impossibility of maintaining innocence in a corrupt world. Others read it as the extended self-pity of a privileged teenager whose complaints are symptoms of his own limitations rather than accurate diagnoses of society's failures. Both readings are textually supportable. Both miss something. The novel's enduring power is precisely its resistance to resolution: it is constructed to make the reader's relationship to Holden's critique a mirror of their own relationship to the adolescent consciousness more broadly, revealing not a verdict on the world but an anatomy of the specific form of perception that sees the world as Holden sees it and the specific form of grief that makes that perception both acute and unreliable simultaneously.
 

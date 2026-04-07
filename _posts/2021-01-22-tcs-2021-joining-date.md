@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "arun-verma"
 last_updated: 2026-04-01
+lang: en
 ---
 You have the offer letter. You have accepted it. And now you are waiting - sometimes for weeks, sometimes for months - for a joining date that TCS has not given you yet. This waiting period is one of the most psychologically challenging phases of the entire TCS hiring process, primarily because it involves the least information and the highest uncertainty.
 

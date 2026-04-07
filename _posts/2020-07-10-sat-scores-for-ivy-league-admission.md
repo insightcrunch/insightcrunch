@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-68.webp"
 reading_time: 45
 author: "christopher-wells"
 last_updated: 2026-04-01
+lang: en
 ---
 The eight Ivy League universities represent some of the most competitive admissions environments in the world, and their SAT score expectations are among the most misunderstood aspects of the application process. Students approaching Ivy League admissions with a narrow focus on test scores often hold one of two misconceptions: that there is a specific score threshold that, if crossed, makes admission probable, or that SAT scores matter so little in a holistic process that they can be largely ignored. Both beliefs are incorrect, and both lead to suboptimal preparation and application strategies.
 

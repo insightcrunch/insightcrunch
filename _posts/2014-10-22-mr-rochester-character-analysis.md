@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2014-10-22
+lang: en
 ---
-
 Mr. Rochester is the most morally complex available male protagonist in the Victorian novel's most significant available tradition, and the moral complexity is organized by the specific form of the character's most genuinely available combination of the most authentic available appeal and the most sustained available deception. He is simultaneously the most genuinely compelling available figure in the novel and the person whose most elaborate available management of the deception most completely organizes the specific catastrophe that the novel's most dramatic available crisis most urgently produces. The Byronic hero reading of Rochester, which is the most available cultural reading and which organizes the most popular available form of his cultural image, is not entirely wrong: he has the Byronic qualities, the brooding manner, the dark history, the passionate energy, and the contempt for the available social conventions' most urgently sustaining pretensions. But the Byronic hero reading consistently understates or misrepresents the specific form of the moral failure that the deception most urgently organizes: Rochester is not simply a flawed romantic hero who made one terrible mistake under the duress of unusual circumstances. He is a person of genuine intelligence and genuine passion who organized his entire relationship with Jane around a deception that, if it had succeeded, would have made Jane his bigamous mistress without her knowledge or consent, in conditions that would have required the most complete available subordination of Jane's most genuinely available moral authority to his most urgently available desire.
 
 <!--more-->

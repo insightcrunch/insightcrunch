@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-11-10
+lang: en
 ---
 ## Introduction: The Bully, the Victim, and the Woman Between Them
 

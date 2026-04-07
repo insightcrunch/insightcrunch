@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "devendra-patil"
 last_updated: 2026-04-01
+lang: en
 ---
 The score appeared on the screen. 12.08%. Everything went black.
 

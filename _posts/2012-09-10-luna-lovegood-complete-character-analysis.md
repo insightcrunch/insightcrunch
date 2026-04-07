@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Character Who Sees Clearly
 

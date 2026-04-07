@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-16.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
+lang: en
 ---
 Recent steps taken by the authorities are trying to ensure road safety measures in very enthusiastic ways. Several placards and signboards in the local language ensures that people notice them and pays heed to the warnings. Still, sometimes I feel we have the worst road-sense when we walk on the roads. People often try to cross roads in places not meant to. I can’t say that am the sole exception. But for last 2 years I’ve tried to make a habit of not crossing broad roads without the zebra crossing. Also, it feels terrifying when families and friends are seen on  two-wheelers without helmets. But unfortunately, sometimes I find the cops who should be role models, breaking the rules themselves without wearing helmets on the backseat. Hopefully, they rectify such mistakes faster.
 

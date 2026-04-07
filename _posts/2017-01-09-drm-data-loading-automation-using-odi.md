@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-16.webp"
 reading_time: 4
 author: "thomas-reid"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Hyperion Data Relationship Management application is a pretty flexible tool and most of the activities that can be done manually can be automated (using ETL tools like ODI, Informatica PowerCenter, etc). Recently I was presented with a business scenario by one of my readers which is pretty interesting yet tricky. Yes it involves a request to automating a manual process as you might have already guessed.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-27.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 Yahoo has struck upon an innovative campaign where users share their small acts of kindness in as little as 129 characters which gets mapped in a world map based on their privacy settings and then can ask their friends or other people “You In?” . The site is really at a very basic stage but looks promising given the concept of micro blogging backing it and[ ](http://kindness.yahoo.com/)innovativeness of Yahoo.
 

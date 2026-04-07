@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-51.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
+lang: en
 ---
 Buddhadeb Bhattacharjee, chief minister of West Bengal, in a one-on-one interview with Karan Thapar. A really grim truth about the reality comes out in the forefront while the discussions progress.
 

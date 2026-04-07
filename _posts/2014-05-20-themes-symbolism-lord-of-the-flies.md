@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2026-03-31
+lang: en
 ---
 The thesis of Lord of the Flies is not that civilization is a thin veneer over savagery. That reading is so common it has become the novel's popular reputation, and it is not exactly wrong, but it is too comfortable. A thin veneer can be reapplied. What Golding is arguing is harder and more specific: civilization is not a veneer at all but a set of active, ongoing social commitments that must be continuously renewed, and what the island reveals is not what human beings are underneath their civilized surface but what they become when the social conditions that make civilization possible are removed. The difference matters enormously. The veneer reading makes the problem a matter of human nature, fixed and impervious to change. Golding's reading makes it a matter of social organization, which is something that can be built and destroyed and rebuilt, though always at cost and never with certainty.
 

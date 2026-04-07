@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-52.webp"
 reading_time: 2
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 The popular concept that hard work is the main key behind success might take a small back foot in this discussion. True that there is no alternative to hard work, but apart from that, there are some X-factors that come into play when you are looking for success in the outsourcing world. It comes more into play when you are directly interacting with some people whom you need to convince and get a deal or something done.
 

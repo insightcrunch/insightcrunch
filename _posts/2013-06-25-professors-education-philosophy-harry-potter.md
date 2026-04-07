@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-06-25
+lang: en
 ---
-
 ## Introduction: The Classroom as the Series' Most Consistent Moral Test
 
 The Harry Potter series contains more sustained portraits of teaching philosophy than most works of educational theory, and the portraits are more analytically useful because they are embedded in consequence - in the specific outcomes that each teaching style most directly produces in the students who experience it. Rowling does not simply describe how different teachers teach. She builds a comprehensive examination of what teaching is for, what it requires from the teacher, and what it produces in the student when it is most completely itself.

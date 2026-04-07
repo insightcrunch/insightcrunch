@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 13
 author: "maya-chen"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

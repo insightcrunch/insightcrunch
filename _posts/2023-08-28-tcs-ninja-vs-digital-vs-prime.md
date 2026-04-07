@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "arjun-nair"
 last_updated: 2026-03-30
+lang: en
 ---
 Every TCS NQT candidate registers for the same test and sits in the same room, yet walks out with fundamentally different career trajectories depending on how that single assessment goes. Ninja, Digital, and Prime are not just compensation tiers - they are different jobs with different daily work, different technology exposure, different promotional velocity, and different long-term trajectories. Most candidates understand these profiles exist but are unclear on the specifics: exactly which exam sections determine each profile, precisely how the work differs, what the monthly take-home gap actually looks like, and whether it is worth the additional preparation effort to target Digital or Prime over Ninja. This article answers all of those questions completely, across every dimension that matters to a candidate making this preparation decision.
 

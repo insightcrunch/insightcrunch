@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2014-12-11
+lang: en
 ---
-
 The most disturbing argument that The Scarlet Letter makes about sin and society is not the argument about whether the adultery was sinful. Hawthorne is largely uninterested in that question and the novel consistently treats the Hester-Dimmesdale relationship with a sympathy that signals the author's own moral position with reasonable clarity. The disturbing argument is about the specific relationship between the community's organization of sin as a public spectacle and the damage this organization performs on every person it touches. The Puritan community of seventeenth-century Boston has organized itself around the public performance of virtue as the most powerful available instrument of social control, and the specific pathology this organization produces is precisely the pathology the novel traces through its three most carefully constructed characters. When sin is organized primarily as a public spectacle, the community most urgently produces three specific available consequences: the person who must bear the shame publicly is transformed in ways the community neither intends nor controls; the person who conceals the guilt privately is destroyed by the very concealment; and the person who pursues private revenge in response to the sin becomes, through the specific logic of that revenge, the most purely destructive force in the entire moral landscape. None of these consequences is what the most formally righteous community intends. All of them are what the most formally righteous community most precisely produces.
 
 <!--more-->

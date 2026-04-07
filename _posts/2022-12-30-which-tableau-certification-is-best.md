@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 12
 author: "jordan-ellis"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

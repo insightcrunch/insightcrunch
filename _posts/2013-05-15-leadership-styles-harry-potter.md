@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-05-15
+lang: en
 ---
-
 ## Introduction: The Taxonomy of How Power Is Held
 
 The Harry Potter series contains more distinct portraits of leadership than most works of political theory, and the portraits are more analytically useful than most political theory produces because they are embedded in narrative - in the specific consequences that each style of leadership generates for the people subject to it. Rowling does not simply describe leadership types. She builds a comprehensive taxonomy of how power is held, who is served by the holding, and what specific costs each mode of leadership imposes on the led.

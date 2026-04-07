@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2015-01-05
+lang: en
 ---
-
 The three greatest dystopian novels in the English literary tradition are organized by three fundamentally different answers to the same question: through what primary available instrument does the most powerful available authority most completely destroy the most genuinely available human capacity for resistance, connection, and meaning? George Orwell's 1984, published in 1949, answers: through pain, surveillance, and the totalitarian rewriting of reality, organized by the most directly available external imposition of the most powerful available coercive state. Aldous Huxley's Brave New World, published in 1932, answers: through pleasure, conditioning, and the elimination of the most genuinely available capacity for the most serious available feeling, organized by the most completely available voluntary surrender of the most genuinely available depth of human experience to the most immediately available shallow pleasure. Ray Bradbury's Fahrenheit 451, published in 1953, answers: through popular preference, speed, and the gradual erosion of the most available tolerance for difficulty, organized by the most completely available democratic self-censorship that requires no totalitarian imposition at all. Each answer is correct. Each answer is also incomplete. The most urgently available question for contemporary readers is not which single answer is right but which combination of the most available instruments most urgently organizes the most genuinely available destruction of the most completely available human capacity for resistance, connection, and meaning in the most contemporary available world.
 
 <!--more-->

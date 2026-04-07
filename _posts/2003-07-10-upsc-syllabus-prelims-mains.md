@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2003-07-10
+lang: en
 ---
-
 There is one document that every UPSC aspirant knows exists but very few read carefully enough. It is not Laxmikanth. It is not a coaching institute's module. It is not even a previous year question paper. It is the official UPSC CSE syllabus, a document of fewer than five pages that simultaneously covers everything and explains nothing. Its brevity is not an accident. It is by design.
 
 The official UPSC syllabus for Preliminary and Main Examinations is written in the broadest possible language precisely because the examination's designers do not want to reveal specific topics in advance. A line like "History of India and Indian National Movement" in the Prelims syllabus is not a topic; it is a universe. It spans 5,000 years of history, 25 centuries of dynastic and political change, 90 years of organized independence struggle, and the entire post-independence social transformation of one of the world's oldest civilizations. Every aspirant who reads that line and concludes "I need to study History" is technically correct and practically lost.

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-10.webp"
 reading_time: 32
 author: "andrew-price"
 last_updated: 2026-03-31
+lang: en
 ---
 Running a small business is an exercise in relentless resourcefulness. You are the CEO, the accountant, the marketing department, the IT team, and the office manager, often within the same hour. Every dollar matters. Every minute matters. And every tool you use either earns its place in your workflow or wastes both.
 

@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2014-12-21
+lang: en
 ---
-
 Kurtz is the most formally paradoxical character in the English literary tradition's engagement with colonialism, and the paradox is precisely the point. He is simultaneously the most brilliant representative of the European civilization and the most extreme expression of what that civilization produces when its civilizational constraints are removed. He is the man who wrote the most eloquent available justification for the "civilizing mission" and who scrawled "Exterminate all the brutes!" at the bottom of that same document. He is the man Marlow journeys the entire length of the Congo River to find, and the man whose most famous available contribution to the novella is a dying recognition of horror rather than a dying affirmation of the mission he supposedly represented. What makes Kurtz the most formally significant character in the novella is not simply that he is a hypocrite or a madman or a monster, though he is all of these. It is that his specific trajectory, from the most brilliant available voice of European civilization to the most extreme available expression of what that civilization enables when removed from constraint, constitutes the most formally complete available argument about the specific relationship between the most available self-justifying narrative of the "civilizing mission" and the most available reality it most urgently conceals.
 
 <!--more-->

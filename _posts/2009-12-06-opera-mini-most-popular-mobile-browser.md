@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 The world’s most popular mobile browser, Opera Mini, has recently crossed the 35 million users mark. With no near rival in sight apart from Apple’s Safari browser in iPhone, Opera is surely going to rule with their ever increasing speed and efficiency, a browser that really makes surfing across all sites a breeze and very fast.
 

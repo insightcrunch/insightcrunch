@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Introduction: The Story That Almost Was
 

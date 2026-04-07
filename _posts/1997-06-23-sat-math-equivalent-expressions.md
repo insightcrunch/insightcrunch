@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-81.webp"
 reading_time: 62
 author: "samantha-lee"
 last_updated: 1997-06-23
+lang: en
 ---
-
 Equivalent expression questions appear three to five times on every Digital SAT administration, making them among the most frequent pure-algebra question types on the test. The question format is distinctive and consistent: a polynomial, rational expression, or algebraic expression is given, and the student must identify which of four answer choices is an algebraically equivalent form. Unlike solving equations (where one variable takes a specific value), equivalent expression questions demand that the new form be true for ALL values of the variable, not just one special value.
 
 What separates the students who answer these questions confidently and quickly from those who struggle with them is a skill that goes by the name structure recognition: the ability to look at an expression like 9x squared minus 25 and immediately see it as (3x) squared minus 5 squared, setting up the difference of squares factoring pattern. Or to see x to the fourth minus 1 as (x squared) squared minus 1 squared, and then factor it through the difference of squares formula to get (x squared + 1)(x squared minus 1), and then factor the second factor again to get (x squared + 1)(x + 1)(x minus 1). This pattern-recognition habit does not come from solving more equations; it comes from practicing the specific act of looking at expressions and identifying which algebraic identity they match.

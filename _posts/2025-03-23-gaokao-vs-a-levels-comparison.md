@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 45
 author: "feng-lei"
 last_updated: 2026-04-01
+lang: zh
 ---
 在全球最重要的大学入学考试体系中，中国高考（Gaokao）和英国A-Levels（英国高考）代表了两种截然不同的教育选拔哲学。一个以广度和统一为核心，一个以深度和专业化为核心。两种制度各自在本国教育体系中运行了数十年，但随着全球化的深化，越来越多的学生和家长开始在两种路径之间做出选择。
 

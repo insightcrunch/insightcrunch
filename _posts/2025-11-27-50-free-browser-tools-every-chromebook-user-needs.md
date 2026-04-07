@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-34.webp"
 reading_time: 32
 author: "marcus-hall"
 last_updated: 2026-03-31
+lang: en
 ---
 The Chromebook has a reputation problem. People see a laptop that runs a browser and assume it cannot do serious work. They assume you need Windows for PDF editing, macOS for image manipulation, and a full Linux workstation for coding. They are wrong.
 

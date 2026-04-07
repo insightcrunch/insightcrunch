@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-61.webp"
 reading_time: 3
 author: "chloe-martin"
 last_updated: 2026-03-30
+lang: en
 ---
 ## Introduction:
 

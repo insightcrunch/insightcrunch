@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-01.webp"
 reading_time: 1
 author: "ryan-walsh"
 last_updated: 2026-04-01
+lang: en
 ---
 The Weblogic services essential for the Oracle DRM integration to work with Oracle GL is pretty stable and does not require any intervention for months once setup successfully.
 

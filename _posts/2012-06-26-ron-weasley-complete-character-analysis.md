@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Boy Who Was Always There
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "ma-ruoxi"
 last_updated: 2026-03-31
+lang: zh
 ---
 每年高考成绩公布后，数以百万计的考生和家庭，都要面对一个可能改变命运走向的重大抉择：接受这次高考的结果，还是选择复读，用一年的时间重新备考，争取一个更好的成绩和大学？
 

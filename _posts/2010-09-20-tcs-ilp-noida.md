@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
 author: "ritika-singh"
 last_updated: 2026-04-01
+lang: en
 ---
 Noida is one of the most strategically positioned cities for TCS's northern India presence - a planned industrial township that grew into one of the National Capital Region's premier IT corridors, sitting between Delhi and Greater Noida with excellent connectivity to the full NCR belt. For TCS freshers assigned to ILP Noida, the posting provides access to one of India's most dynamic metropolitan environments: the restaurants and culture of Delhi a metro ride away, the specific corporate and commercial energy of the NCR's IT sector, and the particular social life of a city that is simultaneously a satellite of the national capital and a significant technology hub in its own right.
 

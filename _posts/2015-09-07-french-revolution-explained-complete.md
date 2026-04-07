@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2015-09-07
+lang: en
 ---
-
 On the morning of July 14, 1789, a crowd of several thousand Parisians stormed the Bastille, the royal fortress-prison on the eastern edge of the city that had stood for four centuries as a symbol of monarchical power. The military operation itself was not particularly impressive: the fortress held only seven prisoners (four forgers, two men committed for immorality, and one aristocrat whose family had requested his confinement), and its garrison of approximately 80 defenders was overwhelmed after a few hours of fighting and negotiation. The governor, the Marquis de Launay, surrendered, was killed by the crowd, and his head was paraded through the streets on a pike. The fortress was subsequently demolished, and its stones were distributed as souvenirs of the revolution.
 
 <!--more-->

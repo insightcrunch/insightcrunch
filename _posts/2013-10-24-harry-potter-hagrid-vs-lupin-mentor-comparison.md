@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-10-24
+lang: en
 ---
 ## Introduction: The Two Lessons Harry Could Not Have Learned Elsewhere
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "pooja-gupta"
 last_updated: 2026-04-02
+lang: en
 ---
 The period between receiving your TCS offer letter and your actual joining date is one of the most consequential preparation windows in a professional career - and also one of the most wasted. Most candidates spend it alternating between anxious portal-checking and aimless waiting. The candidates who use it well arrive at ILP ahead of peers who did not, complete assessments on first attempt, get allocated to better projects, and build the financial and technical foundations that compound over the first five years.
 

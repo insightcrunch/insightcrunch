@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-07-20
+lang: en
 ---
-
 ## Introduction: The Ordinary Horror
 
 The Harry Potter series opens not with Voldemort but with the Dursleys, and this choice is the most concentrated available statement about what the series takes the most available form of the most specifically relevant evil to most directly be. Voldemort is the most dramatically available villain in the most available fantasy genre: the most powerful available dark wizard, the most specifically supernatural available threat, the most completely other-than-ordinary available embodiment of the most extreme available malice. The Dursleys are something more unsettling: the most ordinarily available portrait of what the most mundane available cruelty most specifically looks like when it is most completely organised around the most specifically fearful available response to the most extraordinary available thing that has most directly arrived in the most ordinary available life.

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-04-01
+lang: en
 ---
 Every wrong answer on an SAT practice test contains more preparation value than the question it represents. It is not just evidence that you missed a point; it is a diagnostic signal pointing precisely to a gap in your knowledge, a flaw in your strategy, or a habit that needs correction. Students who treat wrong answers as failures to move past are discarding the most valuable information their preparation generates. Students who treat wrong answers as data to be systematically extracted, categorized, and acted upon are using every practice test to its maximum potential.
 

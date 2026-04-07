@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 5
 author: "arjun-nair"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a guest posy by MALAY MAJITHIA. The views expressed are entirely of the author.   
 2nd December ko Infocity me,   

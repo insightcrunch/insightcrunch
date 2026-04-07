@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 2
 author: "ryan-walsh"
 last_updated: 2026-04-01
+lang: en
 ---
 Another amazing service started by Google. Something that would fascinate people already acquainted with collaborative working and sharing documents, presentations, sharing files and more. Google Wave apparently is the answer to everything done collaboratively amongst people in a wave (term used by Google to specify each task). The service is now invitation only, very much like what it was like when Gmail was first launched.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 45
 author: "sun-ming"
 last_updated: 2026-04-01
+lang: zh
 ---
 在中国高考体系中，绝大多数考生通过"参加高考，以分数填报志愿"的标准路径进入大学。然而，在这条主路径之外，还存在一系列特殊招生渠道，允许部分具有特定资质的学生，通过高考分数以外的维度进入顶尖高校。
 

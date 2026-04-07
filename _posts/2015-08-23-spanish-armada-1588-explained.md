@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-08-23
+lang: en
 ---
-
 On the afternoon of July 29, 1588, the English admiral Lord Howard of Effingham gave orders to light eight fireships and send them downwind toward the Spanish Armada anchored in the roads off Calais. The Spanish had feared fireships throughout the campaign, knowing that Flemish rebels had recently used explosive fireships to devastating effect against a Spanish bridge at Antwerp, and when the burning vessels bore down on them in the darkness, the Armada's fleet captains made the decision that ended the invasion. They cut their anchor cables and scattered in panic, abandoning the anchorage that was the necessary rendezvous point with the Duke of Parma's invasion army waiting on the Flemish coast. The Armada never regrouped in any formation that could renew the attempt; the storms that followed scattered the fleet around the British Isles; and the Spanish invasion of England that Philip II had planned for two years, assembled at enormous cost, and committed to as a crusade against Protestant heresy, ended not in the conquest of England but in the loss of perhaps a third of the fleet and approximately a third of the men who had sailed with it.
 
 <!--more-->

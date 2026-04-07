@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-10-08
+lang: en
 ---
 ## Introduction: The Same Gift, Opposite Directions
 

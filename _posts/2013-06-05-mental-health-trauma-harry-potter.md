@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2013-06-05
+lang: en
 ---
-
 ## Introduction: The Boy Who Was Always Already Traumatised
 
 Long before the Battle of Hogwarts, long before the graveyard in the fourth book, long before the first Dementor encounter on the Hogwarts Express, Harry Potter has been traumatised. The specific trauma of losing his parents at fifteen months, of being raised in a household that treated his existence as an inconvenience, of being systematically denied the specific information about his own identity that would have allowed him to understand his situation - all of this precedes the series' present action and shapes the specific person who arrives at Hogwarts in the first book. The series does not begin with a healthy child encountering extraordinary circumstances. It begins with a specifically damaged child whose damage predisposes him to certain responses and whose encounters with the extraordinary circumstances compound rather than create the specific form of that damage.

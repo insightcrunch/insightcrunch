@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 1
 author: "ryan-walsh"
 last_updated: 2026-04-01
+lang: en
 ---
 With rival search engine Bing keeping on flashing stunning shows of photography in its homepage, Google tried to take a step forward towards that idea. But users reportedly went crazy on June 10th, 2010 when they found their homepage clustered with crazy hippos. Hundreds of tweets went out.
 

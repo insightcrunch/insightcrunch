@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2014-11-01
+lang: en
 ---
-
 Of Mice and Men achieves something that almost no other short novel in the American literary tradition manages: it delivers the full emotional and thematic weight of a tragedy in fewer than thirty thousand words, without a single wasted sentence. John Steinbeck published it in 1937, during the depth of the Great Depression, and the specific historical moment is inseparable from the novel's most urgent argument. The itinerant ranch workers George Milton and Lennie Small are not simply two fictional characters. They are the precise literary embodiment of a specific historical class: the displaced, economically marginal workers of Depression-era America who carried the dream of land ownership as the available form of the dignity and the belonging that the economic system had most completely and most systematically denied them. The dream of the small farm, of owning something and belonging somewhere, is the novel's most urgently available symbol of what the American Dream looks like to the people who have been most completely excluded from its most available formal expression. And the dream's destruction is organized not by the most available external villain's most complete available malice but by the structural forces that the novel traces with the most precise available economy: the loneliness that the itinerant life produces, the powerlessness that the economic system most completely organizes, and the specific tragedy of the friendship between George and Lennie that is simultaneously the most genuine available thing in the novel and the instrument of its most devastating available conclusion.
 
 <!--more-->

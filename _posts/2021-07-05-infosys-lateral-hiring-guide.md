@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-43.webp"
 reading_time: 50
 author: "ritika-singh"
 last_updated: 2026-04-02
+lang: en
 ---
 The Infosys hiring conversation is dominated by fresher placement guides, and for good reason: Infosys is one of India's largest campus recruiters, hiring tens of thousands of fresh engineers every year. But Infosys also hires thousands of experienced professionals annually through its lateral hiring channels, and the lateral hiring process, the salary negotiation dynamics, the designation mapping, and the onboarding experience for experienced hires are almost entirely undocumented in publicly available resources.
 

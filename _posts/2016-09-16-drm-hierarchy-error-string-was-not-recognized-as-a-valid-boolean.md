@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-32.webp"
 reading_time: 1
 author: "alex-cunningham"
 last_updated: 2026-04-01
+lang: en
 ---
 One of the errors that has been faced while using DRM is that the hierarchy gives an error while opening when some more columns are added in the default hierarchy view. These additional columns are the Description of the nodes (available in the System Property Category) and some other calculated custom properties.
 

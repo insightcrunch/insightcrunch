@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-72.webp"
 reading_time: 61
 author: "maria-santos"
 last_updated: 2026-04-05
+lang: en
 ---
 History and social science passages are the most consistently challenging passage type on the Digital SAT Reading and Writing section. Students who handle science passages well and manage literary passages reasonably often find themselves losing unexpected points on 18th and 19th century political speeches, foundational documents, and historical arguments. The difficulty is real, specific, and addressable.
 

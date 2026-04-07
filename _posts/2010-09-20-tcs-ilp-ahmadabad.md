@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "meera-pillai"
 last_updated: 2026-04-01
+lang: en
 ---
 The first few hours at a TCS ILP centre set the tone for everything that follows. The initial walk from the reception point to the auditorium, the first look at the accommodation, the first canteen meal, the first glimpse of the computer labs - these early impressions shape the mental frame within which the months of training are experienced. For trainees assigned to TCS ILP Ahmedabad (conducted at the Infocity campus in Gandhinagar), a detailed campus overview before arrival is the most practical preparation for getting those first hours right and the subsequent months even better.
 

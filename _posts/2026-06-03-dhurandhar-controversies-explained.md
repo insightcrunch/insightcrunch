@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
+lang: en
 ---
 Every significant film generates controversy proportional to its ambitions, and the Dhurandhar franchise generated controversy proportional to its significance. The debates surrounding the franchise, which range from the propaganda question to the Baloch community's representational objections to the Gulf region's political responses, are not distractions from the films. They are the films' most honest critical reception: they reveal where the franchise pressed on real fault lines in Indian cinema's relationship to ideology, nationalism, and the ethics of representation, rather than on comfortable territory where agreement comes easily. This article presents each controversy with the intellectual rigor it deserves, offering the strongest available case for each position rather than adjudicating between them.
 

@@ -11,6 +11,7 @@ reading_time: 60
 author: "ritika-singh"
 render_with_liquid: false
 last_updated: 2026-03-30
+lang: en
 ---
 The TCS Digital Advanced Coding section tests competitive programming ability - the kind of algorithmic thinking that separates candidates who can read textbook code from those who can write optimal solutions to novel problems under time pressure. This guide is a practice workbook: original problems framed in TCS's narrative style, with complete solutions in both C++ and Java, brute-force-to-optimal approach discussions, complexity analysis, and edge case coverage. Work through these problems the way you would in the actual exam - attempt first, then study the solution approach, then code the solution yourself without reference. The problems are organised by topic category so you can target your preparation systematically.
 

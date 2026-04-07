@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
 author: "daniel-morgan"
 last_updated: 2026-04-05
+lang: en
 ---
 Science passages on the Digital SAT have a reputation for being intimidating. Students encounter dense terminology, unfamiliar experimental procedures, and data tables alongside complex prose, and they assume the difficulty is the scientific content itself. This assumption is incorrect, and it is costing points.
 

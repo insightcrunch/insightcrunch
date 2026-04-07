@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-28.webp"
 reading_time: 45
 author: "priya-mehta"
 last_updated: 2026-04-01
+lang: en
 ---
 You have the offer letter. You passed the NQT, cleared the interview, submitted all the documents through NextStep, passed the background verification, and completed the pre-joining formalities. TCS has accepted you. You are, technically speaking, a TCS employee. And yet months have passed without a joining date, while others in your batch community keep posting updates about dates they have received, centers they have been assigned to, and training programs that are already underway.
 

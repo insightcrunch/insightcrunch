@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 45
 author: "yang-bo"
 last_updated: 2026-04-01
+lang: zh
 ---
 河南，是中国高考版图上最特殊的存在。以全国第一的参考人数（约130万人/年），全国最激烈的竞争烈度，以及相对最少的本地顶尖高校资源，河南高考每年都是数以百万计学子命运的终极试炼场。
 

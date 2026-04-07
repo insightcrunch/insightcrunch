@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Introduction: The Character the Narrative Condescends To
 

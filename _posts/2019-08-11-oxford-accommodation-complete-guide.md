@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 2026-04-01
+lang: en
 ---
 Oxford is not like other universities when it comes to accommodation. At most universities, you apply for a room in a central housing office, receive an assignment in a purpose-built hall of residence, and the experience is broadly similar regardless of which hall you end up in. At Oxford, your accommodation experience is shaped first and foremost by your college, and Oxford has 39 colleges, each with its own buildings, its own pricing, its own room quality, its own allocation policies, and its own character. Two students studying the same course at Oxford can have radically different accommodation experiences: one in a medieval room overlooking a quad that has been unchanged for five centuries, the other in a modern en-suite room in a purpose-built annexe on the outskirts of the city. Both are "Oxford accommodation," and understanding this diversity is the first step to navigating the system effectively.
 

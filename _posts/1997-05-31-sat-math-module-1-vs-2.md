@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "simon-hartley"
 last_updated: 2026-04-05
+lang: en
 ---
 The single most strategically important feature of the Digital SAT is one that most students do not fully understand before they walk into the testing room: the performance on Math Module 1 determines not just the difficulty of Module 2, but the ceiling of your entire Math score. A student who scores 20 out of 22 on a hard Module 2 will score somewhere around 750 to 780. A student who scores a perfect 22 out of 22 on an easy Module 2 will score only around 600 to 620. The score ceiling difference between the two Module 2 paths is roughly 130 to 180 points, and it is set entirely by Module 1 performance.
 

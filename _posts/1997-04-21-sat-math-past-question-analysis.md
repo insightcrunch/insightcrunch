@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 61
 author: "simon-hartley"
 last_updated: 2026-04-05
+lang: en
 ---
 Every hour of SAT preparation has an opportunity cost: time spent on one topic is time not spent on another. A student who prepares without knowing which topics appear most frequently is essentially making random bets about where the points are. A student who prepares based on actual question frequency data is making evidence-based bets with much higher expected returns.
 

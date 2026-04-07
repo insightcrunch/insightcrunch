@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-60.webp"
 reading_time: 8
 author: "robert-quinn"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Background
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-69.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
+lang: en
 ---
 How many times shave you wanted to hide a particular folder and searched in vain for a free tool. Finally, you can get it. Install this and let your wings let you fly as you store virtually all kinds of files in your computer.
 

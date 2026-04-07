@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 4
 author: "ian-fletcher"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Data Relationship Management is one of the best in-class master data management tool by Oracle. It is often used along with Oracle E-Business Suite to maintain its master data due to the benefits and flexibility it offers.
 

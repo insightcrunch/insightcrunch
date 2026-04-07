@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-12.webp"
 reading_time: 56
 author: "vikram-iyer"
 last_updated: 2026-04-01
+lang: en
 ---
 Three rooms. Three institutions. Three countries. Three entirely different answers to the same fundamental question: what does it mean to house a community of learners?
 

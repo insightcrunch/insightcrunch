@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-70.webp"
 reading_time: 50
 author: "arun-verma"
 last_updated: 2026-04-02
+lang: en
 ---
 Receiving an Infosys offer letter is the beginning of a new phase, not the end of the process. The weeks between receiving the offer and actually walking into the Mysore campus on joining day involve more steps, more documents, and more potential complications than most selected candidates anticipate. Many candidates who cleared every assessment and interview round have had their joining delayed or, in serious cases, their offers withdrawn because of issues in this post-selection phase.
 

@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-73.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2003-06-27
+lang: en
 ---
-
 The single most asked question on every UPSC forum, every Telegram group, and every coaching institute enquiry desk is this: "Which books should I read?" And the single most common mistake that follows the answer is buying all of them. The average UPSC aspirant owns between fifteen and twenty books by the end of their first year of preparation. The average UPSC topper has deeply read, annotated, and revised five to seven. This gap between the books aspirants own and the books they have actually mastered is one of the clearest predictors of examination outcomes. A well-chosen UPSC booklist is not a shopping list; it is a strategic weapon that, when wielded with discipline and focus, provides everything you need to clear the Civil Services Examination without drowning in an ocean of unread pages and unfulfilled reading plans.
 
 The book-buying impulse is psychologically understandable. When you feel anxious about an upcoming examination, purchasing a new book creates a temporary feeling of progress and control. "I have the book now, so I am prepared" is a comforting illusion that evaporates only when you realise, weeks later, that the book is sitting unread on your shelf, creating guilt rather than knowledge. This article is designed to prevent that cycle by giving you a curated, specific, and strategically sequenced booklist that tells you exactly what to buy, what to skip, and what to read for free online, so that every rupee you spend and every hour you invest in reading produces maximum examination return.

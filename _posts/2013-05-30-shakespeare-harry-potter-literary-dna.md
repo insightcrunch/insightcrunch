@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-05-30
+lang: en
 ---
-
 ## Introduction: Why Shakespeare Is the Key
 
 Every serious novelist is in conversation with Shakespeare whether they intend it or not. The plays have been so thoroughly absorbed into the structure of Western narrative - into the specific patterns of tragic flaw, of charisma in service of destruction, of the mentor who orchestrates and withdraws, of the unlikely hero who must earn a crown he did not seek - that they have become the grammar of dramatic fiction rather than merely an influence upon it. You cannot write a tragedy in English without negotiating with Macbeth. You cannot write a character paralysed between duty and action without writing in Hamlet's shadow. You cannot write a magician who manipulates events from above and then renounces his power without engaging, consciously or not, with Prospero.

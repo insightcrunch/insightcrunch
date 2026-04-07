@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2015-01-10
+lang: en
 ---
-
 The greatest villains in classic literature are not great because they are evil in any simple available sense. They are great because each one is the most precisely organized available formal argument about a specific available form of the most urgently available human capacity for destruction, and the precision is what makes them simultaneously the most disturbing available characters and the most illuminating available formal instruments of the most genuinely available literary tradition's engagement with the most fundamental available questions about the most completely available human psychology, the most urgently available social authority, and the most genuinely available moral failure. Iago is not simply malicious. Roger Chillingworth is not simply vengeful. Big Brother is not simply totalitarian. Heathcliff is not simply brutal. Each is the most formally precise available embodiment of a specific available mode of the most urgently available destruction, and the most formally significant available quality is not the destruction itself but the specific available instrument through which the most genuinely available destruction is most completely organized. What makes a truly great literary antagonist is not the scale of the most available harm but the specificity of the most available formal argument about the most urgently available human capacity that organizes the harm, and the most urgently available great literary villains are great precisely because the most completely available formal argument is the most genuinely available illuminating one available.
 
 <!--more-->

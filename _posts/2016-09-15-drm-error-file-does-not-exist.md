@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 1
 author: "ian-fletcher"
 last_updated: 2026-04-01
+lang: en
 ---
 One of the most interesting issues faced till today is the below message while during any Export Import or Query activities in the DRM Web Client:
 

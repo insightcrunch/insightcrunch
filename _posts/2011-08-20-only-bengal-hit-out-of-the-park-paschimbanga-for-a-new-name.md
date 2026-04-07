@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-10.webp"
 reading_time: 1
 author: "wu-chengan"
 last_updated: 2026-04-01
+lang: en
 ---
 All the frenzy regarding the flashy only Bengal campaign was hit by massive surprise as the name got changed to a very Bengali version of West Bengal, Paschimbanga Like many other Bengalis and citizens of the state, I am very unhappy with this change. Not only will this be poor substitute for the name ‘Bengal’, but it will also be difficult to pronounce for Indian non-Bengalis, leave alone foreigners. Also the purpose of it moving up the list in the names of states will get little boost by this.
 

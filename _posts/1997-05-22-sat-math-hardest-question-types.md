@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 62
 author: "maria-santos"
 last_updated: 2026-04-05
+lang: en
 ---
 The hardest questions on the Digital SAT Math section are not random. The same fifteen question types appear on every administration, and each has a specific, learnable technique that converts what looks like a 4-minute struggle into a 90-second systematic process. Students who know these fifteen techniques walk into the harder Module 2 with a decisive advantage: they recognize each hard question type on sight and know exactly which procedure to apply.
 

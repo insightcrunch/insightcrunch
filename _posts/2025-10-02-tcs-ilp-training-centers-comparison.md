@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 25
 author: "sneha-reddy"
 last_updated: 2026-03-31
+lang: en
 ---
 Your ILP training center shapes your entire experience far more than most freshers realize before joining. The curriculum and assessments are standardized across all centers, but everything else varies dramatically: the campus facilities, the hostel quality, the food scene, the city culture, the weekend exploration options, the climate, the batch size, and even the post-ILP project opportunities available in the region.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-47.webp"
 reading_time: 12
 author: "gregory-marsh"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

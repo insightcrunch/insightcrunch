@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2014-10-27
+lang: en
 ---
-
 Jane Eyre is a feminist manifesto disguised as a romance, and the disguise is so effective that readers across more than a century and a half have consistently underestimated the radicalism of the argument the novel is making. The romance is genuine: the passion between Jane and Rochester is one of the most completely rendered passionate connections in the Victorian novel's tradition, and the novel's emotional architecture is genuinely organized around the specific quality of that connection. But the romance is not what the novel is most urgently arguing for. The novel is most urgently arguing that the most genuine available form of the female independence is not simply possible but is the necessary precondition for the most genuine available form of the female happiness, and that every available form of the female subordination to any available external authority, whether organized by the social convention's requirements of the dependent female's appropriate deference, by the passionate desire's most urgent temptation, or by the religious duty's most austere demand, is a form of the self-betrayal that the most genuine available individual conscience most urgently and most completely refuses.
 
 <!--more-->

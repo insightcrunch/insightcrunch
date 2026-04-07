@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: 1
 author: "nathan-cole"
 last_updated: 2026-04-01
+lang: en
 ---
 It has happened, though very rarely, that the DRM application refuses to start up. On further investigation it has revealed that the number of versions in the repository has been duplicated which had been preventing the application from starting up normally.
 

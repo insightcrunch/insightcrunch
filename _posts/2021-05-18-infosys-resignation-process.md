@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-09.webp"
 reading_time: 45
 author: "arjun-nair"
 last_updated: 2026-04-02
+lang: en
 ---
 Leaving Infosys is one of the most consequential professional decisions an employee makes, and one of the most poorly navigated. The decision gets made carefully but the execution often does not: the resignation is communicated before the offer letter is in hand, the notice period negotiation is handled emotionally rather than strategically, the handover is incomplete, the experience letter is delayed by months because of a documentation error in the pre-joining period, and the relationship with the manager ends badly rather than well.
 

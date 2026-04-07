@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 Yes, you have heard it right, cool! This could be a completely new beginning in the usage of toolbars for all the tech-savvy guys around. The toolbar Kewll has been uniquely prepared to cater to some of the most desired needs of common users keeping simplicity and ergonomics in mind at the same time. Navigating across sites like Orkut, Facebook, Flickr, MySpace is just a breeze now with all the options present distinctly in easy to access positions. Every options of these awesome social networking sites provided just at the fingertips with just a click away. Now checking your Orkut scrapbook, uploading photos to Flickr or posting on your Facebook profile would take less than 10 seconds!
 

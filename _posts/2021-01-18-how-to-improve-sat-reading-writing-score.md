@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-04-01
+lang: en
 ---
 # How to Improve Your SAT Reading and Writing Score by 100+ Points
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-30.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 This is just a short post from my mobile before I fall asleep now. I just discovered the fun of blogging without using a computer! Now I can blog even in my tight schedule in the next 3 months !! Yeah, mayb I cant post cool pics and videos but I'll certainly try to makeup with my words :) ..Sleepy now...Good Night! ....Zzzzzz....
 

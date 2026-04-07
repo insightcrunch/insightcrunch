@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-69.webp"
 reading_time: 45
 author: "priya-mehta"
 last_updated: 2026-04-01
+lang: en
 ---
 TCS ILP Trivandrum is the flagship of TCS's Initial Learning Programme network - the largest, most established, and most consistently referenced ILP centre in the country. Located within Technopark, India's first planned IT township and one of Asia's largest IT parks, the Trivandrum ILP operates at a scale that dwarfs all other TCS ILP centres. For freshers assigned to Trivandrum, the posting carries a specific weight: this is where TCS trains the largest proportion of its freshers, where the infrastructure is most purpose-built for the specific demands of ILP, and where the Kerala cultural context provides one of India's most distinctive and genuinely enriching environments for the months of professional formation.
 

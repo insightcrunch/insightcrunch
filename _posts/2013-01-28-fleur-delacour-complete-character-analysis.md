@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Introduction: The Girl Who Was More Than She Seemed
 

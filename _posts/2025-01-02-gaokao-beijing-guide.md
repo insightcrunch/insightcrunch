@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 45
 author: "huang-dawei"
 last_updated: 2026-04-01
+lang: zh
 ---
 北京，中国的首都，也是中国高等教育资源最密集的城市。每年约6万至7万名北京考生，在全国最丰富的高等教育资源包围下，以相对于其他省份明显更低的竞争压力，参加一场在全国视野中极为特殊的高考。
 

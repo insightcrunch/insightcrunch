@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2013-05-05
+lang: en
 ---
-
 ## Introduction: The Three Orphans and the Shape of the Absence
 
 The Harry Potter series is at its most structurally precise when read as an extended argument about parenting - specifically about what happens when parenting fails, is absent, or is present in forms that distort rather than nurture. The series' three most important male characters in the thematic architecture - Tom Riddle, Harry Potter, and Neville Longbottom - are all defined by parental absence of different kinds, and the specific form of the absence in each case produces the specific person each becomes.

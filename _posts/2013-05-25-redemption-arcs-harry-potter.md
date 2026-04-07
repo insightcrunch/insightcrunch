@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-05-25
+lang: en
 ---
-
 ## Introduction: The Specific Currency of Redemption
 
 The Harry Potter series is notable among popular fantasy for the rigour with which it applies its theory of redemption. Rowling does not grant redemption through remorse, through the expression of regret, through the sincere desire to have been different. She grants it through action at personal cost - through the specific act of doing something that demonstrates, not merely claims, the moral transformation the redemption requires. The test is not what you feel. It is not what you say. It is what you do when doing the right thing costs you something.

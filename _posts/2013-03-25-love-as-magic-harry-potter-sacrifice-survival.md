@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: Love Is Not a Metaphor. It Is the Mechanism.
 

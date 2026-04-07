@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-73.webp"
 reading_time: 50
 author: "liu-jian"
 last_updated: 2026-04-01
+lang: zh
 ---
 在高考数学试卷中，解析几何（特别是圆锥曲线）是公认的最难模块之一，也是区分高分学生与顶尖学生的关键战场。每年高考数学最后一道大题，通常是圆锥曲线题，以其综合性强、计算量大、思维跨度广而令无数考生望而生畏。
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 45
 author: "rajan-kumar"
 last_updated: 2026-04-02
+lang: en
 ---
 The TCS NQT syllabus covers more ground than most candidates expect. Understanding the full scope before beginning preparation - what is tested, how much of each topic appears, and in what difficulty range - is the difference between systematic preparation that covers everything important and scattered preparation that leaves gaps in critical areas.
 

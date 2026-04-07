@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Introduction: The Man Behind the Goats
 

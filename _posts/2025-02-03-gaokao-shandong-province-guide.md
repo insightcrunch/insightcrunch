@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-06.webp"
 reading_time: 45
 author: "chen-xiaoling"
 last_updated: 2026-04-01
+lang: zh
 ---
 山东，是中华文明的重要发源地，也是中国高考版图上举足轻重的省份之一。凭借悠久的儒家教育传统、全国前列的参考人数（约80万至90万人/年），以及率先推行的新高考改革（3+3模式），山东高考在全国教育格局中占有独特地位。
 

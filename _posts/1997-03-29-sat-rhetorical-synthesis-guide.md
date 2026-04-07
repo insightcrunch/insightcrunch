@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
 author: "hannah-moore"
 last_updated: 1997-03-29
+lang: en
 ---
-
 Rhetorical synthesis questions are entirely unique to the Digital SAT - they did not exist on the paper SAT in any form, and many students encounter them for the first time during a practice test without preparation. That unfamiliarity costs points. But of all the question types on the Digital SAT Reading and Writing section, rhetorical synthesis has one of the highest improvement rates once students understand the format. Students who know the strategy report completing these questions in 30 to 45 seconds with near-perfect accuracy. Students who do not know the strategy often spend 90 to 120 seconds and still miss them.
 
 This guide targets that gap: between the student who encounters rhetorical synthesis for the first time and misses it, and the student who has mastered the goal-first strategy and answers it in 35 seconds. The distance between those two students is not intelligence or reading ability; it is knowledge of the specific format and strategy. That knowledge is completely teachable.

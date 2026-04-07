@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-09-29
+lang: en
 ---
-
 ## Introduction: The Boy It Could Have Been
 
 The prophecy does not say Harry Potter. It says: "born to those who have thrice defied him, born as the seventh month dies." At the time of the prophecy, two boys fit that description. Frank and Alice Longbottom had thrice defied Voldemort. James and Lily Potter had thrice defied Voldemort. Neville Longbottom and Harry Potter were both born at the end of July 1980. The prophecy that defines the entire available arc of the series applies equally to both boys until Voldemort makes his choice, and Voldemort's choice is based not on what the prophecy actually says but on what Voldemort believes about blood purity.

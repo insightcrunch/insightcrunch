@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 50
 author: "karthik-menon"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Table of Contents
 

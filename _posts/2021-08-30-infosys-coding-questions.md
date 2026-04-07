@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "ritika-singh"
 last_updated: 2026-04-02
+lang: en
 ---
 The Infosys coding assessment is where most candidates lose marks even after solid aptitude performance. Aptitude questions are objective and formula-driven. Coding questions require algorithmic thinking and the ability to write correct, working code under time pressure. Many students prepare extensively for the aptitude section and treat the coding round as an afterthought, arriving underprepared for the specific patterns Infosys uses.
 

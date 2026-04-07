@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 10
 author: "ritika-singh"
 last_updated: 2026-04-01
+lang: en
 ---
 He is a self-acknowledged lover of gadgets but surprisingly enough, the TCS CEO, S. Ramadorai, “fought against getting a mobile phone for a long time as I believed it was a terrible distraction!” But he finally succumbed about 10 years ago. Today his Blackberry is a valuable tool “as I can communicate on it with several colleagues at the same time.” 
 

@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-25
+lang: en
 ---
-
 The Indian war film occupies a unique position in global cinema because India fights wars differently than the West does, processes them differently, and asks different questions about what military sacrifice means. Hollywood war cinema, from Apocalypse Now through Full Metal Jacket through 1917, has evolved toward moral ambiguity and anti-war sentiment, questioning whether the military enterprise itself is worth the human cost it demands. Indian war cinema has moved in the opposite direction, toward increasingly unambiguous celebration of military heroism, treating the soldier's sacrifice as an unquestionable good whose value does not require philosophical justification. Understanding why requires understanding India's specific geopolitical psychology: a nation that has never started a war but has never not been at war, whose borders are contested by two nuclear-armed neighbors, and whose military self-image is defined by defensive sacrifice rather than by aggressive expansion. The Indian war film does not question whether war is worth fighting because the Indian experience of war, in which the nation's territorial integrity is perpetually threatened and the military's function is defense rather than conquest, does not generate the moral ambiguity that offensive wars produce.
 
 <!--more-->

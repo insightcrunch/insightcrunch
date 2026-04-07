@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-09-28
+lang: en
 ---
 ## Introduction: The Mirror at the Center of the Series
 

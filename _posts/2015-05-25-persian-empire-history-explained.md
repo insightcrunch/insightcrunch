@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-05-25
+lang: en
 ---
-
 In October 539 BC, Cyrus the Great entered Babylon. The city, which had been the greatest in the world for nearly two thousand years, the capital of Hammurabi and Nebuchadnezzar, the place where Jewish exiles had wept by the rivers when they remembered Zion, simply opened its gates. No siege was necessary, no battle on the plain, no burning of the suburbs. The Babylonian king Nabonidus had been absent from the city conducting religious practices that alienated the powerful Babylonian priesthood; when Cyrus arrived, the priests of Marduk welcomed him as a liberator. He entered on horseback while his troops maintained impeccable discipline; there was no looting, no violence against the civilian population. He restored the cult statues that Nabonidus had removed from their shrines; he freed the foreign peoples, including the Jews, who had been held captive in Babylon; and he issued a declaration in the name of Marduk, the supreme Babylonian god, proclaiming that the god himself had chosen Cyrus to restore order to the world. The Cyrus Cylinder, a baked clay barrel inscribed with this declaration, is the earliest known statement of something like universal human rights principles; it now sits in the British Museum.
 
 <!--more-->

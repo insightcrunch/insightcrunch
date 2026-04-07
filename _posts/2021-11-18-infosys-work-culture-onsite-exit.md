@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-19.webp"
 reading_time: 45
 author: "arun-verma"
 last_updated: 2026-04-02
+lang: en
 ---
 The experience of working at Infosys is shaped by forces that no offer letter mentions. The daily culture of a project team, the dynamics of being on bench between assignments, the process and politics of getting selected for an onsite posting, the mechanics and emotional weight of resigning, and the rules around moonlighting and internal movement all determine what it actually feels like to build a career at this company. These are the things people learn after joining, sometimes the hard way.
 

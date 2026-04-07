@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2026-03-31
+lang: en
 ---
 Animal Farm is the most efficiently argued political novel ever written in English. In fewer than one hundred pages, George Orwell demonstrates how every revolution betrays itself, how the ideals that justify the seizure of power are dismantled by the act of seizing it, and how the language that was supposed to free the oppressed becomes the primary instrument of their continued oppression. The achievement is formal as much as it is political: Orwell found in the fable, the most ancient and elementary of literary forms, the exact vehicle for an argument about political modernity that more sophisticated forms could not have carried with equivalent force. The simplicity of talking animals behaving like Stalinist functionaries is not a reduction of the argument. It is the argument made visible in its essential structure, stripped of the complexity that normally obscures how straightforwardly the mechanism operates.
 

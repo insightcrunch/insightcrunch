@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-09-12
+lang: en
 ---
-
 On the evening of December 16, 1773, a group of approximately 116 men calling themselves the Sons of Liberty, several disguised as Mohawk warriors, boarded three ships in Boston Harbor and threw 342 chests of East India Company tea into the water. The Boston Tea Party was a protest against the Tea Act, which had actually lowered the price of tea while maintaining the specific tax on it that the colonists objected to: the symbolic wrong was not the cost but the principle. When the American colonists threw the tea into Boston Harbor, they were acting out, in dramatically literal form, their specific objection to being taxed by a parliament in which they had no representation. The British government's response, the Coercive Acts (which the colonists called the Intolerable Acts) that closed Boston Harbor and stripped Massachusetts of self-governance, transformed a commercial dispute into a constitutional crisis; and within two years, thirteen British colonies were at war with the most powerful empire in the world.
 
 <!--more-->

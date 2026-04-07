@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 52
 author: "samantha-lee"
 last_updated: 2026-04-01
+lang: en
 ---
 Oxford University is, in the popular imagination, a place for solitary scholars  -  for students who arrive alone, live in a college room overlooking a quad, eat in a medieval hall, and dedicate every waking hour to their studies. The reality, particularly for graduate students and visiting academics, is far more varied. Thousands of Oxford students arrive not as individuals but as part of couples and families. They come with partners who are also studying or working, with children who need schools and childcare, with family obligations that extend beyond the academic. For these students, accommodation is not simply a matter of finding a room that is close to a library. It is a matter of finding housing that works for a household  -  that has the right number of bedrooms, the right kitchen facilities, proximity to schools, affordability on a student income, and a neighbourhood environment that supports the full texture of family life rather than just academic convenience.
 

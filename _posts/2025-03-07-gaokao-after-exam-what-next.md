@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "li-wei"
 last_updated: 2026-04-01
+lang: zh
 ---
 高考两天结束，走出考场的那一刻，许多考生的第一感受是：终于结束了。然而很快，一个新的问题随之而来：接下来怎么办？
 

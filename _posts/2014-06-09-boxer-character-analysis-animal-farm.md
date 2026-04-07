@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2026-03-31
+lang: en
 ---
 Boxer is the character in Animal Farm whose fate produces the novel's most overwhelming emotional effect, and Orwell earns that effect through a characterization of such sustained precision and such deliberate tenderness that the horse's destruction at the knacker's feels like the loss of something irreplaceable rather than the completion of an allegorical scheme. Every other death in the novel, and there are several, is political. The animals confessing in the show trials are political victims, their fate an expression of Napoleon's consolidation of power. The unnamed animals who disappear are political casualties, their absence a demonstration of what absolute authority does to those who stand in its way. Boxer is something different. He is the embodiment of the revolution's most genuine human content, the sincere labor, the unconditional faith, the willingness to give everything the movement asks and then to give more, and his destruction is not political in the sense of being the elimination of a threat. It is economic. The pigs send him to the knacker when his body fails and spend the money on whisky. The revolution's most devoted worker is converted into glue and alcohol. That is the specific horror Orwell is demonstrating, and it is the most complete version of the novel's argument available within the boundaries of the fable.
 

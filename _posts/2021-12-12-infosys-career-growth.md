@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 45
 author: "sneha-reddy"
 last_updated: 2026-04-02
+lang: en
 ---
 A career at Infosys follows a well-defined ladder. The designations are clearly named, the competency expectations at each level are documented, and the appraisal mechanism that drives movement from one level to the next is structured and predictable. Yet despite this clarity of structure, many Infosys employees feel unclear about where they stand, how fast they should be progressing, what specifically they need to demonstrate to move up, and whether the pace of their career reflects the quality of their work.
 

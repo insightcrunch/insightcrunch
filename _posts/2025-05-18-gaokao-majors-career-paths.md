@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "chen-xiaoling"
 last_updated: 2026-04-01
+lang: zh
 ---
 高考结束、成绩公布，一个随之而来的关键任务就是填报志愿，选择大学和专业。对很多考生和家长来说，这个决定既紧迫又困惑：哪些专业热门？哪些专业有钱途？高考成绩决定了哪些专业可以报？选科与专业是怎么关联的？不同大学层次的毕业生，职业差距到底有多大？
 

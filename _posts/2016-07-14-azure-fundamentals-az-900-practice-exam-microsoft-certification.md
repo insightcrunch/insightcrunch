@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-42.webp"
 reading_time: 32
 author: "benjamin-scott"
 last_updated: 2026-04-01
+lang: en
 ---
 What is AZ-900 Azure Fundamentals?
 

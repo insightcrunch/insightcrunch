@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "rajan-kumar"
 last_updated: 2026-03-31
+lang: en
 ---
 InfyTQ is one of the most underestimated pathways into Infosys, and for candidates who discover it early and prepare for it systematically, it is also one of the most accessible. Unlike the campus placement route that depends on whether your college is an Infosys partner institution, or the off-campus portal that filters heavily by resume, InfyTQ is a merit-based platform where consistent effort on a defined curriculum directly translates into a measurable score, a certification, and - when both the certification and the assessment clear the threshold - a genuine interview invitation from Infosys.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "priya-mehta"
 last_updated: 2026-03-30
+lang: en
 ---
 Missing on-campus placement does not close the door to TCS. Every year, thousands of engineering graduates who did not sit a campus drive, graduated from colleges where TCS does not recruit directly, or are working professionals looking to make their first IT move apply to TCS through the off-campus route. TCS ITP - the Integrated Test Pattern - is the structured mechanism through which this off-campus hiring happens. It is not a consolation path or a weaker version of campus hiring. It is a rigorous, nationally administered test that determines your TCS profile - Ninja, Digital, or Prime - using the same performance thresholds as the on-campus NQT. This guide covers everything about TCS ITP: what it is, how the test is structured, who qualifies, how to register, how to prepare, and what distinguishes candidates who succeed from those who do not.
 

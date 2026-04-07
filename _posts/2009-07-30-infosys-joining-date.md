@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-12.webp"
 reading_time: 1
 author: "vikram-iyer"
 last_updated: 2026-04-01
+lang: en
 ---
 Freshers who got placed in Infosys have already been informed of their joining dates and now it’s only a matter of time before they begin their new life as an Infoscion. All of my friends have been given joining dates, some guys getting as early as July and the latest being around February. So some guys get busy immediately after completing the last semester while others get some time to enjoy before being burdened by the work pressure.
 

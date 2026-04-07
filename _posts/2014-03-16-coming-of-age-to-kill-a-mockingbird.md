@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-04-01
+lang: en
 ---
 Coming of age in To Kill a Mockingbird is not the pleasant, gradual accumulation of knowledge and capability that the more comfortable versions of the bildungsroman tend to offer. It is the specific, violent, and irreversible encounter with the gap between the world as children understand it and the world as it actually operates, and the understanding that emerges from the encounter is harder and more honest than the understanding it replaces. Scout is six when the novel begins and nine when it ends; Jem is ten and thirteen. In those three years, the two of them witness a man destroyed by a justice system organized to destroy him, watch a community's capacity for mob violence dissolve at the touch of a child's innocent directness, see the gap between what their world promises and what it delivers with a clarity that the adult world around them has largely managed to obscure, and arrive at a form of moral understanding that neither the innocence they started with nor any simple accumulation of information could have produced.
 

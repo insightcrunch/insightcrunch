@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 3
 author: "thomas-reid"
 last_updated: 2026-04-01
+lang: en
 ---
 Oracle Data Integrator provides multiple features to automate almost all manual data extraction and transformation related activities. One such scenario is using Smart View to manually fetch data from the Essbase cubes, maybe weekly or monthly. Often such cases require changing the values of time dimension over the entire scope of the template (maybe to different values for current year and last year, or current month and last month, in adjacent columns, etc) and then retrieve the data to meet our needs. So it might become time-consuming and prone to manual errors.
 

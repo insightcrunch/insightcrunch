@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-62.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 There was a time when file storing in the cloud was almost synonymous to Dropbox. Provided it’s amazingly simple plans with storage, there is absolutely no doubt users are going to love it. Along with it, add the seamless sync facility for all our files from your local computer or laptop, without a single glitch. But provided all that, Dropbox seems to be letting its competitors get the edge recently.
 

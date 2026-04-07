@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "rajan-kumar"
 last_updated: 2026-04-01
+lang: en
 ---
 The first few days at TCS ILP are simultaneously overwhelming and exhilarating. You arrive as a student who has been waiting months for this moment; you leave the first week as someone who is unmistakably, officially beginning a professional career. The specific texture of those first days - the early morning alarm, the formal attire, the thirty-seven-hour train journey to Trivandrum, the Saffron auditorium with its 125-inch projection screens, the induction lectures, the ICICI bank account opening that finally makes you feel like a real TCS employee - is documented in remarkable detail in the original account that inspired this guide. This complete guide expands that first-person account into the comprehensive day-by-day orientation guide that every incoming ILP trainee needs.
 

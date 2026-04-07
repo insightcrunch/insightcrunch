@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-77.webp"
 reading_time: 45
 author: "pooja-gupta"
 last_updated: 2026-04-01
+lang: en
 ---
 Every year, hundreds of thousands of engineering graduates sit for the TCS National Qualifier Test. For most of them, it is the single most consequential exam after their final semester - the gateway to one of India's largest and most respected employers, the test whose outcome determines whether they join TCS as a Ninja, advance to Digital track consideration, or need to seek other opportunities.
 

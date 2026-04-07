@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
 author: "daniel-morgan"
 last_updated: 1997-02-08
+lang: en
 ---
-
 The Digital SAT's adaptive module system is the most consequential strategic variable in the entire test. In the Reading and Writing section, the two modules are not simply two halves of the same test - they are a gated system in which Module 1 performance determines whether Module 2 will be harder or easier, and that determination sets a score ceiling that no amount of Module 2 performance can overcome.
 
 This guide covers how the adaptive RW module system works, what the score ceiling implications mean for strategy, how question difficulty distributes across both modules, the pacing differences between modules, the specific preparation priorities that produce above-threshold Module 1 performance, and the psychological adjustments that separate students who score 700+ from those who plateau in the 600s.

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Mechanism Is Always the Same
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 54
 author: "hannah-moore"
 last_updated: 2026-04-01
+lang: en
 ---
 Every Harvard student has an opinion about the Houses. The student in Adams will tell you that Adams is the most interesting House by some margin - more culturally rich, more architecturally distinctive, more socially vibrant than any of the river alternatives. The student in Dunster will point you to the clock tower and the Charles River views and ask what more you could possibly want. The student assigned to a Quad House in the Housing Lottery will, by the middle of sophomore year, have become one of the Quad's most enthusiastic defenders - describing the tight community, the better room sizes, the stronger internal culture - and will have entirely revised the mild disappointment of the Lottery result.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-10-03
+lang: en
 ---
 ## Introduction: The Murder That Was a Gift
 

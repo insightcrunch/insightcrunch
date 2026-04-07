@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-04-25
+lang: en
 ---
-
 ## Introduction: The Mirror That Shows Your Worst
 
 The Boggart is the Harry Potter series' most brilliantly simple magical invention: a shape-shifting creature that takes the form of the viewer's deepest fear, defeated by laughter and the specific transformative charm *Riddikulus*. It is, in its most surface reading, a piece of worldbuilding - a creature that produces the device of the fear-confrontation lesson and the comedy of those fears transformed into something absurd. In its deeper reading, it is one of the series' most precise analytical tools: a mechanism that forces characters to externalise what they most dread, and in externalising it, reveals the psychological architecture beneath the surface.

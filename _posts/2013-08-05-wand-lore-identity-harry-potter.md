@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-08-05
+lang: en
 ---
-
 ## Introduction: The Relationship That Cannot Be Faked
 
 The wand is the most philosophically sophisticated object in the Harry Potter series. It is not a tool in the conventional sense - not the hammer that most specifically drives the most available nail, indifferent to the hand that wields it. It is a relationship: the most specific available magical instrument that most directly expresses the specific quality of the connection between the specific instrument and the specific person who most specifically carries it. The wand chooses the wizard. This is not decorative mythology. It is the series' most compressed available argument about what identity most specifically is: not what the person most specifically chooses to present but what the most specifically accurate available instrument most directly detects as the person's most genuinely available quality.

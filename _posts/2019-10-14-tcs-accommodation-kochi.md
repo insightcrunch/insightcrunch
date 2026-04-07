@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 50
 author: "meera-pillai"
 last_updated: 2026-04-01
+lang: en
 ---
 Kochi is the TCS city where the IT corridor meets the Arabian Sea. No other TCS posting places you in a city where you can watch container ships enter one of India's busiest natural harbors from Marine Drive, where the Chinese fishing nets of Fort Kochi have been standing for centuries along the same waterfront where Portuguese, Dutch, and British traders once competed for the spice trade, and where the backwaters of Kerala begin their labyrinthine journey through coconut-fringed canals that have made "God's Own Country" one of the most recognized tourism brands in the world.
 

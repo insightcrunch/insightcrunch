@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Introduction: The Man Who Broke the World by Doing Nothing
 

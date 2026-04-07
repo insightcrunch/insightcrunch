@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-82.webp"
 reading_time: 50
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
+lang: en
 ---
 Gandhinagar is not just a TCS ILP city. It is one of TCS's largest campuses in western India, with a permanent workforce of over 8,000 professionals operating from the 10,000-seat Garima Park SEZ campus, the Infocity offices, and the newer GIFT City presence. For freshers who receive Gandhinagar as their base branch, this is not a temporary training posting but a long-term career location that offers a quality of life, a cost of living, and a cultural richness that are genuinely distinctive among Indian IT cities.
 

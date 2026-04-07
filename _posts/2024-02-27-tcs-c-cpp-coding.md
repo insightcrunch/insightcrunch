@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "arjun-nair"
 last_updated: 2026-03-30
+lang: en
 ---
 C and C++ have historically been the most widely used languages in TCS coding rounds, and they remain the dominant choice for experienced competitive programmers sitting the NQT. The TCS iON platform runs a GCC-type compiler, which means standard C99/C11 and C++14/C++17 code compiles cleanly. But there is one aspect of TCS coding that catches unprepared candidates completely off guard: command line argument input. While most candidates have practised programs that use `scanf` or `cin` for input, TCS problems frequently pass input through command line arguments - a different reading method that requires knowing `argc`, `argv`, and `atoi`. This guide covers everything: the compiler environment, the command line input method explained from first principles, and a structured set of problems with complete solutions in both C and C++.
 

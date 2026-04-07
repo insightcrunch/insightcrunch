@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-09.webp"
 reading_time: 1
 author: "robert-quinn"
 last_updated: 2026-04-01
+lang: en
 ---
 The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling. The application was running fine, the Weblogic and Shared Services were up, the SSO configuration was in place perfectly.
 

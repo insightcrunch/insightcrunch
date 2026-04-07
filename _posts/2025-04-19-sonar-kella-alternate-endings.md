@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 55
 author: "amit-chatterjee"
 last_updated: 2026-03-31
+lang: bn
 ---
 ## ভূমিকা: একটি অমর কাহিনির নতুন পাঠ
 

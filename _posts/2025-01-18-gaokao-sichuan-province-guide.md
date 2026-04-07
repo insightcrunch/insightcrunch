@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "huang-dawei"
 last_updated: 2026-04-01
+lang: zh
 ---
 四川，中国西部最重要的教育重镇，以超过8000万的常住人口和每年约80万的高考参考人数，跻身全国高考参考大省之列。成都的高速崛起、川大和电子科大的学术声誉，以及深厚的"天府之国"文化传统，共同塑造了四川高考独特的竞争格局和教育生态。
 

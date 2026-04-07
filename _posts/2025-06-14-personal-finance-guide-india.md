@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-51.webp"
 reading_time: 50
 author: "robert-quinn"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Table of Contents
 

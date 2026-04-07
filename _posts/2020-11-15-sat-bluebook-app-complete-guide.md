@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 45
 author: "natalie-webb"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Bluebook App: Complete Navigation and Practice Guide
 

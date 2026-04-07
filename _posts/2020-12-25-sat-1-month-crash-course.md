@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 45
 author: "daniel-morgan"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT 1-Month Crash Course: Maximum Improvement in 30 Days
 

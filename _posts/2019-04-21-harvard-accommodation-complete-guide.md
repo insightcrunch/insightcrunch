@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 52
 author: "jessica-kim"
 last_updated: 2026-04-01
+lang: en
 ---
 Harvard's accommodation system is one of the most distinctive in American higher education. Unlike most US universities where dormitory life is a freshman-year obligation quickly left behind as students move into apartments, fraternities, or off-campus housing, Harvard structures undergraduate residential life around a system of Houses that students belong to for their entire three remaining years after freshman year. The Harvard House system creates residential communities of 400-500 students that have their own dining halls, libraries, common spaces, tutors, and social identities - and that become, for most students, the primary community of their undergraduate Harvard experience.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-04-01
+lang: en
 ---
 The Dhurandhar franchise is the most analytically complex and commercially significant Hindi cinema property of the current decade, and it rewards the sustained, organized engagement that no single article can fully provide. This guide exists to be the resource that sits alongside every other franchise analysis: a single navigational document that covers both films comprehensively, explains every major character, traces the operational timeline, addresses the most frequently asked questions, and points toward where the franchise goes next. Whether you are watching the franchise for the first time or returning to deepen an already substantial engagement with it, this is the document that orients the experience and provides the structured foundation for every more detailed analysis the franchise rewards.
 

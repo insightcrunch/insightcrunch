@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
 author: "christopher-wells"
 last_updated: 1997-08-20
+lang: en
 ---
-
 Radical expressions and rational equations are among the most technique-dense topics on the Digital SAT. They appear on every administration, typically one to three questions per test, and they cluster in the harder modules because the College Board knows that the underlying concepts (extraneous solutions, conjugate rationalization, variable denominators) are exactly the areas where students have the shakiest foundations from classroom instruction. A student who has genuinely mastered these topics and practiced the specific question formats the SAT uses can turn a formerly unreliable category into a consistent source of correct answers in Module 2.
 
 This guide covers the complete Digital SAT treatment of radical and rational expressions: simplifying square roots and cube roots, converting between radical notation and fractional exponents, rationalizing denominators using conjugate multiplication, adding and subtracting rational expressions using the lowest common denominator, solving equations with variable denominators, identifying excluded values, and the concept of extraneous solutions that is central to both radical and rational equation solving on the SAT. It also covers how Desmos can graphically verify solutions and resolve ambiguous answer choices faster than algebraic methods in many cases.

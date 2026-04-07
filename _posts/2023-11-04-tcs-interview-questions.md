@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
 author: "nikhil-tiwari"
 last_updated: 2026-03-30
+lang: en
 ---
 The TCS interview is the final gate between your NQT score and your offer letter. Candidates who clear the written test with strong percentiles sometimes lose the interview round not because of knowledge gaps but because of preparation gaps - they know their subjects but have never structured answers under pressure, never thought through how to frame "Why TCS," and never practiced the specific depth that Digital and Prime interviewers expect compared to Ninja. This guide covers every question type, every subject area, and every HR scenario you are likely to face, with structured answer frameworks that you can adapt to your own background and profile.
 

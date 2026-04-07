@@ -9,6 +9,7 @@ image: '/assets/images/blog/blog-06.webp'
 reading_time: 32
 author: "alex-cunningham"
 last_updated: 2026-04-01
+lang: en
 ---
 ## **1. Introduction**
 

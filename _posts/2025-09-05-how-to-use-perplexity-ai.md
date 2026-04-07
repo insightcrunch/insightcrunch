@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-61.webp"
 reading_time: 61
 author: "gregory-marsh"
 last_updated: 2026-03-31
+lang: en
 ---
 Perplexity AI occupies a unique position in the AI tool landscape - it is not quite a search engine and not quite a chatbot, but something that combines the best qualities of both in a way that serves a specific type of user particularly well. If you have ever felt that Google returns pages of links when you want a direct answer, or that ChatGPT gives confident answers you cannot verify against actual sources, Perplexity addresses both frustrations simultaneously. It searches the web in real time, synthesizes the findings into direct answers, and cites every source it draws from - giving you the currency of a search engine, the synthesis of a language model, and the verifiability of traditional research in a single tool. For students, researchers, journalists, analysts, and anyone who needs accurate, current, and sourced information rather than generic AI responses, Perplexity has become a primary research tool.
 

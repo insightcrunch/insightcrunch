@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-85.webp"
 reading_time: 45
 author: "xu-meifang"
 last_updated: 2026-03-31
+lang: zh
 ---
 高考与SAT，分别是中国和美国高等教育入学体系的核心标准化考试，也是全球范围内最受关注、讨论最多的两种大学入学测试。高考每年有约1300万中国学生参加，而SAT每年约有200万学生参加，两者在考试规模、制度设计、文化影响和学生准备方式上，都有根本性的不同。
 

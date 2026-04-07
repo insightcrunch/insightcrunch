@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2013-11-05
+lang: en
 ---
 ## Introduction: Two Creatures Who Make the Same Argument
 

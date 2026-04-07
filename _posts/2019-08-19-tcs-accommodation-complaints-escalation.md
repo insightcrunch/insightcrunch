@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-58.webp"
 reading_time: 40
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 The TCS ILP accommodation is functional, not luxurious. It is designed to house thousands of associates across multiple cities at a cost that TCS can sustain within the ILP budget. This means that the accommodation will not match your home comfort, your college hostel's best features, or the hotel room you stayed in during that family vacation. Understanding this baseline is the first step toward effective complaint management: knowing what is a genuine problem that deserves resolution versus what is a preference that the system is not designed to accommodate.
 

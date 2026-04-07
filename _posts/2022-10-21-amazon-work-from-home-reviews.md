@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-78.webp"
 reading_time: 10
 author: "jason-mckenzie"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 11
 author: "robert-quinn"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 According to an article in Techcrunch, Yahoo is wildly wanting to acquire the Huffington Post, which is nearly the biggest thing on this planet with nearly 26 million unique visitors worldwide in April. Yahoo needs high quality content and videos and Huffington Post requires more traffic. So their signing a deal itself would be more than enough with a close[ ](http://lh6.ggpht.com/_7iorNs4nc_0/TApPsjjhFCI/AAAAAAAAGVw/YO8QScpzA18/s1600/ist2_4809789-young-attractive-woman-wishing-cookies%5B4%5D.jpg)integration of their services.
 

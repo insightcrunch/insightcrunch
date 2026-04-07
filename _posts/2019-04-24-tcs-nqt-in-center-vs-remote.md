@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-23.webp"
 reading_time: 35
 author: "karthik-menon"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Overview
 

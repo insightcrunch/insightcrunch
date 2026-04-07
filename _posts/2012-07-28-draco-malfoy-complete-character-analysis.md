@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Boy Who Could Not Kill
 

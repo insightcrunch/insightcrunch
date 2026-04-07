@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2014-12-01
+lang: en
 ---
-
 The Scarlet Letter is the novel that invented American psychological fiction, and the invention was so complete that it took the American literary tradition decades to fully understand what Hawthorne had done. Published in 1850, it arrived at the precise moment when the new American nation was working hardest to construct a usable version of its Puritan past, a past that the most comfortable available historical narrative organized as the story of righteous founders whose severe but sincere religious convictions produced the moral backbone of the republic. Hawthorne looked directly at that past and found something more complicated and more disturbing: a community organized around the public performance of religious virtue that systematically destroyed the private individuals who could not sustain the performance. The most powerful available argument the novel makes is not the argument about adultery or sin or even hypocrisy in the most simple available sense. It is the argument about the specific damage that the institutionalization of shame performs on the human psychology: the damage it does to the person who bears the shame publicly, the damage it does to the person who bears the guilt secretly, and the damage it does to the person who converts the guilt into the weapon of revenge. Each of these three available forms of the damage has a character, and the three characters together constitute the most precisely organized psychological study in the American novel's nineteenth-century tradition.
 
 <!--more-->

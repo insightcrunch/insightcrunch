@@ -9,6 +9,7 @@ image: '/assets/images/blog/blog-08.webp'
 reading_time: 36
 author: "alex-rivera"
 last_updated: 2026-04-01
+lang: zh
 ---
 ## **1. 引言**
 

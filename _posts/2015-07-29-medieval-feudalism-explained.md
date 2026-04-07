@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-07-29
+lang: en
 ---
-
 On a summer morning in August 843 AD, three grandsons of Charlemagne signed the Treaty of Verdun and divided the Carolingian Empire among themselves. The division that followed, creating the ancestors of France, Germany, and a middle kingdom that would eventually dissolve, was not simply a family squabble over inheritance. It was the institutional moment that made feudalism necessary. An empire that had been administered from a central court, staffed by royal officials who could be summoned, paid, and dismissed, was now three kingdoms, each too large to administer from a single center, each threatened by Vikings in the north, Saracens in the south, and Magyars in the east, each dependent on local lords who could mobilize military force in days rather than the weeks or months it took royal armies to assemble. The specific solution that emerged from this crisis was not planned or designed; it was improvised, gradually, by thousands of individuals making practical decisions about how to survive in a world where the central state could no longer guarantee either security or employment. The improvised solution was feudalism, and it organized European society for the next four centuries.
 
 <!--more-->

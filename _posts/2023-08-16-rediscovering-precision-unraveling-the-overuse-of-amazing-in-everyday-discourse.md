@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-34.webp"
 reading_time: 2
 author: "diana-patel"
 last_updated: 2026-03-30
+lang: en
 ---
 Language is a powerful tool that allows us to communicate thoughts, emotions, and experiences. It shapes the way we perceive the world around us, and the words we choose carry a weight that transcends mere syllables. However, there's a word that has stealthily crept into our daily conversations, diluting its potency through overuse: "amazing."
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 55
 author: "amit-chatterjee"
 last_updated: 2026-04-01
+lang: en
 ---
 Every fresher who walks through the gates of the TCS Kalinga Park campus in Bhubaneswar arrives carrying two things: a bag full of clothes and a head full of anxiety. The first few days at the Bhubaneswar training center are a whirlwind of new faces from across India, new rules enforced by the Kalinga Park administration, and an avalanche of technical content that can feel completely alien - especially if you spent four years of engineering doing everything except actually coding. Then the assessments start. And suddenly, the stakes feel very real. The Bhubaneswar humidity, the unfamiliar Odia script on the street signs outside the campus, the sheer scale of the Chandaka Industrial Estate where TCS Kalinga Park sits across 45 acres - all of it adds to the disorientation that the assessments then amplify.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-13.webp"
 reading_time: 2
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 Software engineers all over the world were at some time or the other taught in their initial days some best practices to treat as the Bible while developing software and writing codes. But most of the time, we fail to undertake these steps. Due to lethargy, or time constraint, or taking things too easily, we skip the so very essential part of the best practices which can lead to some immense trouble and loss to others in the future. We will be discussing some of these serious issues now. And how we can focus on fixing our habits.
 

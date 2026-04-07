@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2015-06-14
+lang: en
 ---
-
 On the morning of August 24, 79 AD (or possibly October 24, based on more recent evidence), the people of Pompeii were going about their ordinary lives. The bakers were loading their ovens with bread; the wine shops were filling their first cups of the day; the gladiators were training in the palestra; the street-corner politicians were mounting their electoral posters on the walls. Mount Vesuvius, which loomed benignly over the city's northern horizon and whose fertile slopes the Romans farmed with exceptional productivity, had not erupted within living memory. The mountain had no name for its volcanic nature in any Roman source that survives: they called it simply Vesuvius, a mountain, not a volcano in a world that had no word for volcano. Then, around midday, came what the nineteen-year-old eyewitness Pliny the Younger later described in two letters to the historian Tacitus as a cloud of unusual size and shape, rising from the mountain like a pine tree, its trunk vertical and its branches spreading at altitude, white and then dark and mottled, expanding with a rapidity that suggested the force of some enormous explosion below. Within eighteen hours, a city of approximately 11,000 people was buried under meters of volcanic debris, preserved so completely that when excavators first broke through to its streets nearly seventeen hundred years later, they found a Roman city frozen at the moment of its death.
 
 <!--more-->

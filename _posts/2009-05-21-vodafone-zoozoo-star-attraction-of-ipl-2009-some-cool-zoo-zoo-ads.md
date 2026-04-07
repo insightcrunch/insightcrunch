@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-85.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 Not a single person can deny of having not yet seen these cute creatures during the IPL 2009 .. they grabbed as much attention as the tournament itself !! Extremely nice concept and timing to start off with the ads, this idea has extremely impressed me, though the concept might seem to be childish apparently. Some behind the scenes cool pics I got while surfing are here.
 

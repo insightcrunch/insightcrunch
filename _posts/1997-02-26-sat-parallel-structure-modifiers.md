@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 61
 author: "katherine-blake"
 last_updated: 1997-02-26
+lang: en
 ---
-
 Parallel structure and modifier placement are two of the most frequently tested grammar concepts on the Digital SAT, appearing in multiple questions per module. They test the same underlying skill: recognizing when the form of a sentence matches its meaning.
 
 Both concepts are teachable, learnable, and ultimately automatic. A student who has not consciously studied parallel structure may score 50% on these questions by intuition. A student who has mastered the rules and practiced them deliberately will score 90%+ reliably. The difference is not intelligence or reading ability; it is explicit knowledge applied consistently. This guide provides that knowledge. Parallel structure asks whether grammatically equivalent roles in a sentence use equivalent forms. Modifier placement asks whether descriptive phrases are positioned next to the words they actually describe. Both concepts are tested heavily on the Digital SAT, and both reward the same habit - reading sentences for structural logic, not just content.

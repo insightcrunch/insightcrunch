@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-10-30
+lang: en
 ---
 ## Introduction: The Love Harry Could Have and the Love He Needed
 

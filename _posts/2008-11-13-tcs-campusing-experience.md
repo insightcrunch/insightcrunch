@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 8
 author: "meera-pillai"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Background
 

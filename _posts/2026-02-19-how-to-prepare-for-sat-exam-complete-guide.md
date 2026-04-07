@@ -10,6 +10,7 @@ image: '/assets/images/blog/blog-19.webp'
 reading_time: 34
 author: "samantha-lee"
 last_updated: 2026-04-01
+lang: en
 ---
 ## **1. Introduction**
 

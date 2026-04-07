@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 4
 author: "jason-mckenzie"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Business Intelligence Applications stack provides an array of tools during the implementation, and each of them comes with its rich set of features. The awesomeness comes when we get to experience several business use-cases and scenarios, analyze the metrics and data, interpret them along the lines of the business process, and ultimately when also we encounter product limitations - and **discover amazing ideas to make our lives easier**. Happiness...as deep the word sounds, becomes almost synonymous in such cases, as we make breakthroughs through innovative complex ideas. For any help in ODI please feel free to comment or contact me.
 

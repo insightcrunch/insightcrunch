@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
+lang: en
 ---
 Karachi in Dhurandhar is not a backdrop. It is not a location scout's decision or a production designer's canvas. It is the franchise's most consequential creative construction, the element that separates the films from every other Indian spy thriller that has used Pakistan as a setting, and the thing that makes Hamza's decade of undercover work feel like a decade spent in a real place rather than a cinematic approximation of one. The argument this article makes is specific and worth stating at the outset: the Lyari that Aditya Dhar and his production team built for the Dhurandhar franchise is a living character, not a setting, and it earns this designation through a combination of visual, social, economic, and psychological specificity that no comparable Bollywood film has previously achieved. The franchise's world-building is its most underrated achievement because it is the foundation on which every other achievement rests.
 

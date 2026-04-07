@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-88.webp"
 reading_time: 45
 author: "liu-jian"
 last_updated: 2026-04-01
+lang: zh
 ---
 上海，中国最国际化的城市，也是中国高考改革最重要的试验田。2017年，上海与浙江作为全国新高考改革的先行省份，率先推行3+3选科模式，开创了中国高考从"文理分科"走向"自由选科"的新时代。
 

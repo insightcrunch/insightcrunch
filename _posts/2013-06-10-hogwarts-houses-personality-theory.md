@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2013-06-10
+lang: en
 ---
-
 ## Introduction: The Sorting Hat's Real Question
 
 The Sorting Hat asks only one question, and it is not the question most readers assume. It does not ask which qualities you have - bravery, intelligence, loyalty, ambition. It asks which qualities you value most when they conflict with each other. The distinction is the key to understanding what the Sorting system actually does, why it works when it works, why it fails when it fails, and what Dumbledore means when he says - in the series' single most devastating institutional self-critique - that he sometimes thinks they sort too soon.

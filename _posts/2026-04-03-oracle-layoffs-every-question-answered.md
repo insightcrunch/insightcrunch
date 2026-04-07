@@ -10,8 +10,8 @@ excerpt: "Hundreds of the most-asked questions about Oracle's March 2026 mass la
 image: "/assets/images/blog/blog-59.webp"
 read_time: 58
 author: "ian-fletcher"
+lang: en
 ---
-
 On the morning of March 31, 2026, tens of thousands of Oracle employees opened their inboxes and found their careers had been ended in five sentences. The email came from "Oracle Leadership." No manager. No HR call. No warning. Just a message saying the role had been eliminated effective that day, followed by DocuSign instructions. System access was cut within minutes of delivery.
 
 ![Oracle Layoffs 2026 Every Question Answered - Insight Crunch](/assets/images/blog/blog-59.webp)

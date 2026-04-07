@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-07.webp"
 reading_time: 1
 author: "andrew-price"
 last_updated: 2026-04-01
+lang: en
 ---
 Oracle Data Relationship Management is a highly robust tool by Oracle with a 99.99% of uptime month over month and a largely satisfied user base. However, every few months we are expected to encounter some issues which can be defined as minor hiccups, nothing major. But it's good to have a knowledge base of quickly resolving such issues. Here are the details of one I dread the most and how to fix it.
 

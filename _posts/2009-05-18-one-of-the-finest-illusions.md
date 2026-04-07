@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-37.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 If your brain works normally this is neat. This is another example of an amazing illusion!!! The last sentence is so true. If your eyes follow the movement of the rotating pink dot, the dots will remain only one color, pink.
 

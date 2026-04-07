@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Father Who Was Never There, and the Many Who Tried
 

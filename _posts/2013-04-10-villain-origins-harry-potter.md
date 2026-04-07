@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Spectrum of Evil and the Question of Accountability
 

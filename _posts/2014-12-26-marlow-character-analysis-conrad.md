@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2014-12-26
+lang: en
 ---
-
 Marlow is the most formally interesting narrator in the English literary tradition's engagement with colonialism precisely because he is simultaneously the most available instrument of the novella's critique and the most available evidence of its limits. He is the man who goes to the Congo and returns with a genuinely disturbing account of what the European colonial enterprise actually looks like beneath the most available self-justifying narrative of the "civilizing mission." He is also the man who, at the end of the novella, lies to Kurtz's fiancée about Kurtz's last words, replacing "The horror! The horror!" with her name, and in doing so most completely perpetuates the most available self-justifying narrative that the entire journey has ostensibly demolished. The tension between these two dimensions of his character, the witness who sees and the narrator who nevertheless cannot fully say what he has seen, is the most formally precise available argument about the specific limits of any critique that remains organized within the ideological framework it is critiquing. Marlow is not a simple hypocrite. He is the most precisely organized available formal argument about what happens when a person of genuine intelligence and genuine moral seriousness encounters the most available reality of a system he is simultaneously part of and disturbed by, and cannot fully escape either.
 
 <!--more-->

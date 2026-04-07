@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-50.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 A small but priceless piece of work by me ... to cherish all those lovely days spent together. It's as emotional as it could get.
 

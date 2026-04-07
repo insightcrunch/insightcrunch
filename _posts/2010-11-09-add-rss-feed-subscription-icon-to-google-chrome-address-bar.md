@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-85.webp"
 reading_time: 1
 author: "david-thornton"
 last_updated: 2026-04-01
+lang: en
 ---
 Unlike Firefox, Google Chrome does not have the subscribe to RSS feed icon in its address bar. This might make many users feel uneasy because feeds ar such a great way to stay connected to a particular which we liked.
 

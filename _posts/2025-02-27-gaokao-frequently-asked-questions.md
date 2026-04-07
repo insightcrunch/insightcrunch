@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-70.webp"
 reading_time: 55
 author: "xu-meifang"
 last_updated: 2026-04-01
+lang: zh
 ---
 高考，是中国教育体系中最重要的节点，也是每年数以千万计的学生和家长最关心的话题。围绕高考，有无数的问题需要解答：什么时候报名？成绩怎么算？万一发挥失常怎么办？志愿如何填报才不浪费分数？
 

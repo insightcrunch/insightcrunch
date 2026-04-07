@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1997-07-15
+lang: en
 ---
-
 Two-way frequency table questions are among the most predictably structured on the entire Digital SAT. They appear two to three times per administration, always in the Problem Solving and Data Analysis domain, and the College Board draws from a remarkably small pool of question types: reading raw counts, computing simple probabilities, computing conditional probabilities by restricting the denominator to a subgroup, completing missing cells using row and column totals, and identifying whether an association exists between two categorical variables by comparing conditional probabilities across groups. Every one of these skills is learnable and reliably applicable to any two-way table the SAT presents.
 
 The students who miss two-way table questions are almost always missing them because of one specific error: using the wrong denominator when computing a conditional probability. The phrase "given that" or "among those who" is the College Board's signal that the denominator must be restricted to a specific subgroup, not the total sample. Students who automatically use the grand total as the denominator for every probability question will get the unconditional probability right but miss every conditional probability question. This guide addresses that specific error in depth alongside the complete framework for all two-way table question types.

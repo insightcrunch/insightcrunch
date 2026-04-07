@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 Numbers and frameworks tell one side of the story. Salary bands, headcount figures, revenue growth rates, promotion timelines - these data points matter and deserve the serious analysis they receive. But they do not fully answer the question that most people asking "Accenture vs TCS?" actually want answered: what is it actually like to work there?
 

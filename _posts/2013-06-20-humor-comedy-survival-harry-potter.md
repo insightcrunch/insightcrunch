@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-06-20
+lang: en
 ---
-
 ## Introduction: The Joke That Is Always a Moral Statement
 
 Every significant use of humor in the Harry Potter series is doing more than one thing simultaneously. The joke is landing its comedic effect, and it is also placing the person who makes it in the specific moral category that the series has reserved for the people who use humor in that specific way. The joke is being told, and simultaneously the character who tells it is being revealed - more honestly than they would be if they stated their beliefs directly, because the humor is the least guarded available expression of the person's specific relationship to the world and the people in it.

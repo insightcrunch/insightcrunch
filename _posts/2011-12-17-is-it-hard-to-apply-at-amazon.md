@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-41.webp"
 reading_time: 9
 author: "ian-fletcher"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Background
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-10.webp"
 reading_time: 61
 author: "daniel-morgan"
 last_updated: 2026-04-05
+lang: en
 ---
 Twenty-two questions in 35 minutes works out to an average of approximately 95 seconds per question. That average is completely misleading. Easy questions should take 30 to 45 seconds. Medium questions should take 75 to 105 seconds. Hard questions may require 2 to 4 minutes. Treating every question as if it deserves the same 95 seconds produces a specific failure mode: the student spends 4 minutes grinding on a hard question near the beginning of the module, then rushes through the final five questions in under a minute each, making careless errors on problems they know how to solve.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Creature Nobody Wanted to Understand
 

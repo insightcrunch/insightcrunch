@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2026-04-01
+lang: en
 ---
 Catherine Earnshaw is the most self-divided character in the Victorian novel, and the specific form of her self-division is the novel's most urgently argued and most carefully constructed thematic claim. She is not simply a woman caught between two men, though the popular version of her character has consistently reduced her to exactly that. She is a person whose inner life is organized by a fundamental incompatibility between two forms of the self: the self formed in the specific conditions of childhood freedom on the moors, organized by the absolute connection with Heathcliff that the absence of the social world's requirements allowed to develop, and the self formed by the social world's subsequent imposition of its requirements of class and belonging and conventional domestic life. These two forms of the self are not competing preferences between which a choice is possible. They are incompatible organizations of the same inner life, and the attempt to maintain both simultaneously produces the specific form of the psychological catastrophe that the novel traces through Catherine's illness and eventual death.
 

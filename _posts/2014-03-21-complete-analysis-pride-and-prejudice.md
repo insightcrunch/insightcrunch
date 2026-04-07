@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2026-04-01
+lang: en
 ---
 Pride and Prejudice is the most widely read novel in the English language, and the breadth of its readership is the first thing that requires explanation, because the novel that has been beloved by millions of readers across two centuries is a considerably more sharp and more politically engaged work than its reputation as a charming romance would suggest. Jane Austen wrote with the finest ironic intelligence in English prose, and she deployed that intelligence in the service of a systematic critique of the specific social arrangements that governed women's lives in Regency England: the marriage market, the economic dependence that made the market inevitable, the class hierarchy that determined who could participate in it on what terms, and the specific forms of self-deception that the arrangements required of the people who had no choice but to operate within them.
 

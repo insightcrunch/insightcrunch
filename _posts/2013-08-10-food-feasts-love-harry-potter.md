@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-08-10
+lang: en
 ---
-
 ## Introduction: The Feast That Means More Than the Food
 
 The most revealing single fact about Harry Potter's childhood is not the cupboard under the stairs or the second-hand clothes or the systematic cruelty of the Dursley household. It is the food. Harry Potter is hungry. He is hungry at breakfast because Dudley sometimes finishes what Harry has not managed to eat. He is hungry at dinner because the portions served to him are calculated against the portions served to Dudley rather than against any standard of adequate nutrition for a growing child. He is hungry in the summers at Privet Drive in a way that the school term at Hogwarts does not prepare him for, because at Hogwarts the tables fill with food and no one monitors how much he takes.

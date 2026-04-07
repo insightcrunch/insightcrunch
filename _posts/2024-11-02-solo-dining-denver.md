@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-45.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-03-31
+lang: en
 ---
 Denver is a city that lives at altitude, in every sense. It sits a mile above sea level, closer to the sun than almost any other major American city, ringed by mountains that turn pink at sunset and white with snow in winter. Its restaurants reflect that elevation: ambitious, energetic, and increasingly confident, with a food scene that has grown from steakhouses and green chile to one of the most dynamic and diverse in the American West. It is a city of craft breweries and food halls, of farm-to-table restaurants sourcing from the ranches and farms of the Front Range, of tasting-menu counters and ramen basements and taco trucks and a burgeoning fine dining scene that has attracted Michelin's attention. And for the solo diner, Denver offers something that few other cities can match: a combination of Western informality, outdoor-loving independence, and culinary ambition that makes eating alone feel not like a compromise but like a natural expression of the city's character.
 

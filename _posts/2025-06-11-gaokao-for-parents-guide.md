@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 45
 author: "feng-lei"
 last_updated: 2026-04-01
+lang: zh
 ---
 每年高考，全国有超过一千万名学生参加考试，而与此同时，至少有两千万名家长，也在以自己的方式经历着高考。孩子在考场内答卷，家长在考场外等候，这幅画面，是中国高考文化中最具代表性的场景之一。
 

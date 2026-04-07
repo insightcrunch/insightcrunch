@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 The most searched question after "how do I prepare for TCS NQT" is "what score do I need to pass TCS NQT?" The honest answer requires more nuance than most candidates expect: TCS NQT does not have published fixed passing marks. The qualifying threshold is relative - determined by the performance distribution of every candidate in your window.
 

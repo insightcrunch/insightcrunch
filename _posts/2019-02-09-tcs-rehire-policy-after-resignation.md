@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-77.webp"
 reading_time: 45
 author: "shruti-agarwal"
 last_updated: 2026-04-01
+lang: en
 ---
 TCS's rehire policy is one of the most consequential and least understood aspects of the company's employment framework. Employees considering resignation who want to keep their options open, former employees hoping to return, and HR professionals advising on talent decisions all need accurate information about what TCS's policy actually says, when exceptions exist, and how the practical reality of re-joining differs from the written policy.
 

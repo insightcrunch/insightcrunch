@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "rachel-foster"
 last_updated: 2026-04-01
+lang: en
 ---
 It has been about three and a half years that I have been going to my college in Sector 5 via Chingrighata. Sector 5, the new tech town of Kolkata, the future pride of Kolkata, the main attraction of all large industries and companies in Kolkata. It has really developed a lot in the past few years to facilitate the growth of industrialization. Something we all appreciate. But there are some serious flaws that sometimes give the impression that the place has ceased to be habitable.
 

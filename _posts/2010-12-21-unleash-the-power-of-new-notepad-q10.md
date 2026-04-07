@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-21.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 We all know how useful is the notepad. Now what if I tell you that I can enhance its powers 10 times over. Yes. [I tell you to just click here](http://www.baara.com/q10/downloads/q10-1.2-spell.exe). It is going to be the moment your PC will never forget. Your old notepad will watch in awe. The other text editing programs will skip a heart beat.
 

@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1997-08-16
+lang: en
 ---
-
 Inequalities and absolute value questions are among the highest-frequency algebra topics on the Digital SAT. They appear three to five times per test, which means a student who masters them can reliably pick up more points here than from almost any other single topic in the Algebra domain. Despite this frequency, they produce a disproportionate number of errors, and the reason is always the same: students learn the surface-level mechanics of solving inequalities but never internalize the three critical traps that the College Board exploits on every test. Those traps are predictable, finite in number, and completely defeatable with the right preparation.
 
 This guide covers the complete Digital SAT treatment of inequalities and absolute value: solving linear inequalities and the direction-flip rule, compound inequalities with AND and OR logic, systems of linear inequalities and their graphical solution regions, quadratic and polynomial inequalities using the sign chart method, absolute value equations and the two-case structure, absolute value inequalities and the critical AND-vs-OR rule, number line representations, and how Desmos instantly resolves solution regions that would take minutes to analyze algebraically. For context on how inequality systems interact with system-of-equations techniques, the [complete SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/) provides the foundational coverage. This article goes several layers deeper into the question types and traps that specifically appear on the Digital SAT.

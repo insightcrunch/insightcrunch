@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "lauren-hayes"
 last_updated: 2026-04-01
+lang: en
 ---
 The thesis of Frankenstein about science and ambition is not the thesis that the popular culture has inherited from two centuries of adaptation and simplification. The popular version, that the novel warns against playing God, against transgressing the limits that nature or the divine has established for human ambition, is present in the text but it is not the most serious or the most urgent argument the novel is making. The most serious argument is more precise and more disturbing: the novel is not warning against the ambition to create. It is warning against the specific form of scientific ambition that is organized entirely around the achievement of a spectacular result, to the exclusion of the specific moral attention that would require the ambitious scientist to think adequately about what the achievement will cost, what it will require of the person who achieves it, and what obligations it will generate for specific people whose lives will be organized by the achievement's consequences. The problem with Victor Frankenstein is not that he wanted to animate dead matter. It is that he wanted to achieve the animation without thinking about what would come after the achievement, and that when the achievement arrived in a form that required something of him he had not anticipated, his response was flight rather than the assumption of the responsibility the achievement had generated.
 

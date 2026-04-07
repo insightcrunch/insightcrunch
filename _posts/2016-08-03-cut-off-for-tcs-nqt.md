@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-48.webp"
 reading_time: 45
 author: "pooja-gupta"
 last_updated: 2026-04-01
+lang: en
 ---
 Of all the questions that circle through TCS NQT batch communities in the weeks before and after the exam, the one that generates the most anxiety and the least reliable answers is: what is the cut-off? What score do I actually need? Have I passed?
 

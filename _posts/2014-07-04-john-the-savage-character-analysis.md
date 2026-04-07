@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2026-03-31
+lang: en
 ---
 John the Savage is the most tragic figure in Aldous Huxley's dystopian imagination, not because his death is the novel's most violent event but because his position is the most philosophically irresolvable. He is formed by values that the World State has eliminated, placed in a world that those values cannot accommodate, and given no genuine alternative between complete capitulation to what the World State is and complete destruction by what he is. He cannot live in the World State on its own terms because every dimension of the World State's managed contentment is incompatible with every value his formation on the Savage Reservation has given him. He cannot return to the reservation, because the reservation's world has been contaminated by his departure and the World State's presence. He cannot maintain his values in isolation at the lighthouse because the values that Shakespeare and the reservation formed him by are values that require human community to be practiced, and the human community available to him has been engineered to be incompatible with everything his values require. He is, in the most complete sense, a man with nowhere to go, and his destruction is the novel's demonstration that the World State's most complete victory is not its elimination of suffering but its elimination of the conditions under which the alternative to suffering could be genuinely lived.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-86.webp"
 reading_time: 1
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 My friends who were placed in Infosys got their offer letters today. It might be the happiest moments for some of them like Nirmalya Roy Chowdhury. Many of my friends like Somdas Bandyopadhyay haven’t got their offer letter and are suffering from extreme depression and anxiety as whether they might get the job at all.
 

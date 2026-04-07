@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "wu-chengan"
 last_updated: 2026-04-01
+lang: zh
 ---
 在中国，有一句广为人知的话："高考是穷人家孩子改变命运的唯一出路。"这句话虽有夸张，却道出了高考在中国社会流动中的核心地位。每年六月，当数以百万计的农村学子走进考场，他们背负的不只是自己的梦想，更是整个家庭数十年的期望和积累。
 

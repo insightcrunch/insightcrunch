@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-12.webp"
 reading_time: 45
 author: "devendra-patil"
 last_updated: 2026-04-01
+lang: en
 ---
 The weekends are the half of TCS ILP that nobody talks about during recruitment but that every alumnus remembers most vividly. The training is important. The assessments matter. The technical skills shape your career. But the weekends, the Shillong trip from Guwahati, the Alleppey houseboat from Kochi, the Pench tiger safari from Nagpur, the Sarafa Bazaar midnight crawl from Indore, these are the experiences that associates describe ten years later when they tell their ILP stories. The training certificate fades into a line on the resume. The weekend memories become permanent possessions.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-81.webp"
 reading_time: 12
 author: "nina-petrova"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

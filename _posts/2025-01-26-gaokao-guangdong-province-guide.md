@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 45
 author: "liu-jian"
 last_updated: 2026-04-01
+lang: zh
 ---
 广东，中国经济第一大省，改革开放的发源地，也是近年来高考参考人数增长最快的省份之一。每年约80万至90万考生在这里角逐有限的大学名额，在粤港澳大湾区经济腾飞的背景下，广东高考展现出独特的竞争格局和文化特色。
 

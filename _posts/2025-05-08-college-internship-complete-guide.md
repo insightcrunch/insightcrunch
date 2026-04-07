@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-88.webp"
 reading_time: 55
 author: "benjamin-scott"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Table of Contents
 

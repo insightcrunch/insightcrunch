@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-01.webp"
 reading_time: 45
 author: "michael-brooks"
 last_updated: 2026-04-01
+lang: en
 ---
 The email arrives sometime during the summer before your first term. Your college confirms your room assignment: a building name, a staircase number, a room number, and perhaps a brief description of what to expect. For most incoming Oxford freshers, this email represents the first concrete detail of what your Oxford life will actually feel like. Not the tutorials, not the Bodleian, not the lectures, but the room where you will sleep, study, and begin the most intense academic and social experience of your life.
 

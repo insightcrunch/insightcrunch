@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-10.webp"
 reading_time: 45
 author: "christopher-wells"
 last_updated: 2026-04-01
+lang: en
 ---
 # Digital SAT Complete Guide: Format, Bluebook, and Adaptive Testing
 

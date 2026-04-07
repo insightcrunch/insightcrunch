@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "pooja-gupta"
 last_updated: 2026-03-31
+lang: en
 ---
 HackWithInfy is among the most consequential coding competitions available to Indian engineering students - not because of the prize money, though that is real, but because the top tier of performance unlocks a direct path to the Infosys Power Programmer designation with a starting CTC that is nearly three times the standard fresher package. Unlike placements where communication, aptitude, and luck all factor in, HackWithInfy has a simple and brutal meritocracy: the code either works and passes the test cases within the time limit, or it does not. Every finalist earned their position by outthinking thousands of peers across three rounds of progressively harder algorithmic problems.
 

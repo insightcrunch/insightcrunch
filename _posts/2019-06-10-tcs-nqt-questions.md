@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
 author: "arun-verma"
 last_updated: 2026-04-01
+lang: en
 ---
 The most effective way to prepare for the TCS NQT is not to study broadly but to study specifically - knowing precisely what types of questions appear, at what difficulty level, in what time frame, and with what scoring implications. This guide provides that specific knowledge across every section of the NQT, with sample questions, worked solutions, and the preparation patterns that produce high scores.
 

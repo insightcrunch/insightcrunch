@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-04-30
+lang: en
 ---
-
 ## Introduction: The Choice That Shapes Everything
 
 The Harry Potter series is usually described as a story about good versus evil, about the power of love against the power of fear. Both descriptions are accurate and both are incomplete. The more precise description of what the series is most fundamentally about is the choice between staying and leaving - between maintaining loyalty to the specific people and values that loyalty has committed you to, and abandoning that commitment when the cost of maintaining it becomes higher than the cost of leaving it.

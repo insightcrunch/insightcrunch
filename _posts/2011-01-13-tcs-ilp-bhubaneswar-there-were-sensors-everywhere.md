@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 45
 author: "shruti-agarwal"
 last_updated: 2026-04-01
+lang: en
 ---
 Stepping through the security gate at the TCS Kalinga Park campus for the first time, Debapriya noticed the baggage scanners and had an unexpected realisation about his backpack. Previously, the same backpack had served for smuggling alcohol into the private college hostel. The landlord had been "mystified" by why everyone used the same backpack for shopping. Now, at the TCS security check, the backpack's purpose was being assessed by an X-ray scanner rather than a puzzled landlord.
 

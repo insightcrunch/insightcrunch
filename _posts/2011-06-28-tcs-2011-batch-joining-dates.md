@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
+lang: en
 ---
 The candidates of 2011 batch have started getting their joining dates after waiting for some time. It’s really a time to enjoy for them now that the prestigious organization of their dreams have started providing them the joining dates. The candidates are maintaining a spreadsheet as found in several social networking sites. I am providing it here hoping you might find it useful.
 

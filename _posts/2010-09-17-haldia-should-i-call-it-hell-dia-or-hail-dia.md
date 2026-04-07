@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-17.webp"
 reading_time: 5
 author: "priya-mehta"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a post on TCS ILP Haldi by Maithreyi. The views expressed are solely of the writer. This is my first post from Haldia, a small village in the state of West Bengal located about 120kms off Calcutta. You might be wondering about the purpose of my so-called short stint at this place. I am supposedly attending my training at Tata Consultancy Services, a giant in the corporate world (Giant in the literal sense of the word!).You randomly pick a hundred Tom, Dick and Harries from the ever-growing Indian population, atleast 20% of them are bound to be a part of TCS. Am sure all of you are saying, “Dude, cut a slack to the facts and get to the topic”, so “1..2..3..Go”!
 

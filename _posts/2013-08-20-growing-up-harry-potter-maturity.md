@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "megan-clark"
 last_updated: 2013-08-20
+lang: en
 ---
-
 ## Introduction: The Book That Grows When You Return to It
 
 No other popular series of the late twentieth century calibrates its moral complexity to the reader's developmental stage with the precision that the Harry Potter series achieves. Book One is a fairy tale: a boy discovers he is magical, goes to a wonderful school, makes friends, defeats a villain who is clearly villainous. The moral architecture is simple. The good people are good. The bad people are bad. The adults - most of them - can be trusted to protect the children in their care.

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
+lang: en
 ---
 The question is not whether Dhurandhar is a better spy film than Pathaan. Better is the wrong word, and the wrong question, because the two films are not playing the same game. Pathaan is a celebration of invincibility wrapped in the grammar of international espionage. Dhurandhar is a decade-long psychological siege wrapped in the grammar of betrayal and survival. Placing them side by side is genuinely useful only if the comparison is organized around what each film believes espionage fundamentally is, because on that foundational question, they give answers so different that it is worth asking whether they belong to the same genre at all.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-52.webp"
 reading_time: 45
 author: "siddharth-rao"
 last_updated: 2026-04-01
+lang: en
 ---
 The wait between completing the TCS NQT and receiving your results is one of the most anxiety-producing gaps in the entire hiring process. You cannot go back and change your answers. You cannot hurry the scoring process. All you can do is check the portal periodically and wonder where you stand.
 

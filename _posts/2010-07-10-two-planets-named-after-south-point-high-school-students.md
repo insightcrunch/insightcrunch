@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 Great news for Pointers! Two students of South Point High School in Kolkata will now have minor planets named after them.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-64.webp"
 reading_time: 45
 author: "natalie-webb"
 last_updated: 2026-04-01
+lang: en
 ---
 # How to Go from 1000 to 1200 on the SAT
 

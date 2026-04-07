@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2026-04-01
+lang: en
 ---
 The marriage market in Pride and Prejudice is not a metaphor. It is a literal economic institution, organized around the exchange of women's social attributes and men's financial resources, governed by specific legal and social mechanisms that gave women almost no alternative path to material security, and producing specific outcomes for specific people that Austen traces with the forensic precision of someone who has negotiated the market personally and understood its mechanics completely. When the novel opens with the statement that a single man in possession of a good fortune must be in want of a wife, the irony is not that the statement is untrue in the social world it describes but that the "truth" it announces is not about men's desires at all. It is about women's need, organized by a social consensus into the form of a universal principle about the opposite sex.
 

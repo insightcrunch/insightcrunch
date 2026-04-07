@@ -10,6 +10,7 @@ image: '/assets/images/blog/blog-06.webp'
 reading_time: 35
 author: "deepika-joshi"
 last_updated: 2026-03-31
+lang: en
 ---
 ## **1. Introduction**
 

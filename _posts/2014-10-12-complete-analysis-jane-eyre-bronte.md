@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-04-01
+lang: en
 ---
 Jane Eyre is the novel that invented the modern heroine, and the invention was so radical for its moment that several of the novel's earliest reviewers found it morally alarming. Charlotte Brontë published it in 1847 under the pseudonym Currer Bell, and the first edition was received with a combination of genuine admiration and genuine discomfort that is the most available evidence of how completely the novel was doing something new. The discomfort was organized by the specific form of the newness: Jane Eyre is a heroine who insists on her own moral authority as the ultimate available standard for her own behavior, who refuses the available social arrangements organized around female subordination to male desire and social convention, who chooses the morally correct available action when the morally correct available action is precisely the action most costly to her own immediate wellbeing and most incompatible with the available social conventions' most urgently sustaining requirements. This was not simply a new available character type. It was a new available argument about what female moral agency looks like when it is organized around the most genuine available form of the moral authority rather than around the social convention's most urgently available requirements of the appropriate female behavior.
 

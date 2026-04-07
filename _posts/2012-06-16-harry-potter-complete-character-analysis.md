@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Ordinary Extraordinary
 

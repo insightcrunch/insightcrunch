@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-18.webp"
 reading_time: 25
 author: "pooja-gupta"
 last_updated: 2026-03-31
+lang: en
 ---
 What actually happens inside TCS ILP? If you are about to join, this question is probably keeping you up at night. Every fresher wants to know the ground reality: what the days look like, when the assessments hit, how hard the project phase gets, and what the social experience actually feels like beyond the official brochures.
 

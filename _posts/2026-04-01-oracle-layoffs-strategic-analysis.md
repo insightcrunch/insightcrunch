@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "gregory-marsh"
 last_updated: 2026-04-01
+lang: en
 ---
 When Oracle Corporation terminated up to 30,000 employees through a pre-dawn email on the last day of March 2026, the technology industry received something far more consequential than another round of corporate layoffs. What unfolded was the most visible manifestation of a structural realignment sweeping across global technology, energy, immigration, and capital markets simultaneously. The layoffs were not merely a cost-cutting exercise. They were the human cost of a corporate transformation so ambitious in scale and so dependent on external forces that its success or failure will reverberate through power grids, immigration courts, bond markets, open source communities, enterprise procurement offices, and the political corridors of Washington and Beijing for years to come.
 

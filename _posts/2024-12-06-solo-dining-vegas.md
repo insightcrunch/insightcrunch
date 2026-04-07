@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-42.webp"
 reading_time: 45
 author: "patrick-dunn"
 last_updated: 2026-03-31
+lang: en
 ---
 Las Vegas is the most misunderstood solo dining city in America. Most visitors think of Vegas as a group destination: bachelor parties, conventions, girls' trips, buddy weekends. The restaurants on the Strip seem designed for tables of four or eight, with bottle service and Champagne presentations and air horns blasting every time someone orders a tomahawk steak. But underneath that spectacle lies one of the most rewarding solo dining cities in the country, with a depth and diversity that would surprise anyone who thinks Vegas food begins and ends with the buffet.
 

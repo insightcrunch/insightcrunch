@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 2
 author: "benjamin-scott"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle DRM Batch Client is one of the most interesting features of the amazing master data management tool which enables a set of features without requiring manual intervention. Automation of many DRM activities can be setup daily using the DRM Batch Client.
 

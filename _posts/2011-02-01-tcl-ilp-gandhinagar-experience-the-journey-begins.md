@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-05.webp"
 reading_time: 5
 author: "vikram-iyer"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a guest post on TCS ILP by Chandan Kumar Singh. The views expressed are entirely of the author.  
   

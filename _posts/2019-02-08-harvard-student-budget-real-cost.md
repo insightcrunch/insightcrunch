@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-28.webp"
 reading_time: 55
 author: "katherine-blake"
 last_updated: 2026-04-01
+lang: en
 ---
 The sticker price at Harvard is approximately $82,000 per year. Most people who read that number assume it represents what Harvard costs. It does not. For the majority of Harvard undergraduates from families with incomes below $200,000, the actual out-of-pocket cost is dramatically less - sometimes zero, sometimes a few thousand dollars per year, sometimes $20,000-30,000 per year depending on family income and circumstances. For graduate students on funded doctoral programmes, the cost is also dramatically different from the sticker price, though in a more complex way. For professional school students paying full tuition, the reality is expensive in ways that the sticker price understates because it misses the true cost of living in Cambridge.
 

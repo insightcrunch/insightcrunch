@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-10-13
+lang: en
 ---
 ## Introduction: Two Survivors, One Friendship
 

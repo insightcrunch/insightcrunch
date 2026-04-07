@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-63.webp"
 reading_time: 45
 author: "karthik-menon"
 last_updated: 2026-04-02
+lang: en
 ---
 TCS NQT eligibility is not complicated in its core structure - but the details matter enormously. A candidate who misunderstands the backlog policy, misreads the course type requirement, or miscalculates their aggregate percentage may apply confidently and face disqualification during background verification months later. This guide covers every eligibility criterion with the precision needed to make a confident, accurate eligibility determination.
 

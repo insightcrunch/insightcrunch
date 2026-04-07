@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: "95 min"
 author: "rahul-banerjee"
 last_updated: 2026-04-01
+lang: en
 ---
 There are moments in the history of any culture when a single individual arrives and rewrites the rules so completely that everything before them begins to feel like prologue. In the world of Bengali music, that moment arrived in April 1992, when a former journalist and classically trained musician named Suman Chattopadhyay released an album called *Tomake Chai*. The album did not just introduce a new sound. It introduced a new language, a new sensibility, and a new way of thinking about what a Bengali song could be, what it could say, and who it could speak for. The man behind that album would go on to become Kabir Suman - singer, songwriter, multi-instrumentalist, poet, novelist, journalist, political activist, Member of Parliament, and one of the most polarizing, fascinating, and undeniably important cultural figures Bengal has produced in the last century.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-43.webp"
 reading_time: 1
 author: "gregory-marsh"
 last_updated: 2026-04-01
+lang: en
 ---
 The iPad offers undoubtedly great browsing experience, one which may be easily taken as a good competitor for any browsing device, provided the user doesn't visit heavily flash based sites. Here’s what it would look like with a few futuristic screenshots.
 

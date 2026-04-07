@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-32.webp"
 reading_time: 45
 author: "sneha-reddy"
 last_updated: 2026-04-02
+lang: en
 ---
 Recession fears are a recurring feature of the macroeconomic landscape, and every time they intensify, hundreds of thousands of engineering freshers and working professionals ask the same question: what happens to TCS hiring when the economy slows? Understanding how economic downturns actually affect the world's largest IT services company - historically, mechanically, and practically - gives candidates and employees the accurate picture they need to make career decisions during uncertainty.
 

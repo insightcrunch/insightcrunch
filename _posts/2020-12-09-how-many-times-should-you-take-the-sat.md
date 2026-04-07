@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-46.webp"
 reading_time: 45
 author: "samantha-lee"
 last_updated: 2026-04-01
+lang: en
 ---
 # How Many Times Should You Take the SAT: The Optimal Retake Strategy
 

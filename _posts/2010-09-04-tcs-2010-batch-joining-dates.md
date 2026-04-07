@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-22.webp"
 reading_time: 45
 author: "priya-mehta"
 last_updated: 2026-04-01
+lang: en
 ---
 For thousands of engineering graduates holding a TCS offer letter, the joining date is the single most anticipated piece of communication they will receive. The offer letter confirmed the job. The joining date confirms the start. And in the gap between those two moments - which can stretch from a few weeks to many months - sits one of the most psychologically demanding periods of the early career: the informed wait. Understanding exactly how TCS assigns joining dates, what variables affect the timeline, what reliable signals predict acceleration or extension, and how to use the waiting period well transforms this gap from an anxiety-producing void into a manageable, even productive, period of career preparation.
 

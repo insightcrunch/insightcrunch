@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 61
 author: "jason-mckenzie"
 last_updated: 2026-03-31
+lang: en
 ---
 DALL-E is OpenAI's AI image generation model, and its integration directly into ChatGPT has made it the most accessible AI image generator for most people - no separate account, no Discord server, no specialized interface. You describe what you want in plain English, and DALL-E generates it. That accessibility, combined with DALL-E 3's substantial improvements in following complex prompts and rendering text accurately, has made DALL-E the right choice for a wide range of image generation tasks. The users who get the most from DALL-E are those who understand how it interprets descriptions, which elements of a prompt carry the most weight, how to use its editing capabilities effectively, and where it sits relative to Midjourney and Stable Diffusion for specific use cases. This guide covers all of it.
 

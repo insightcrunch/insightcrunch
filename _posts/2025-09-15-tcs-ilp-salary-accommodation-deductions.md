@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 25
 author: "karthik-menon"
 last_updated: 2026-03-31
+lang: en
 ---
 How much will you actually take home during ILP? What gets deducted and why? Is hostel accommodation mandatory? When does the first salary arrive? Can you survive on the ILP salary without dipping into savings?
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-81.webp"
 reading_time: 61
 author: "katherine-blake"
 last_updated: 2026-04-05
+lang: en
 ---
 Non-algebraic solving techniques are among the most underutilized tools in the Digital SAT Math section. Many students default to algebra for every problem, even when backsolving or plugging in numbers would produce the correct answer in one-third the time. These techniques do not require mathematical sophistication. They require strategic thinking about the structure of multiple-choice questions and the judicious application of arithmetic.
 

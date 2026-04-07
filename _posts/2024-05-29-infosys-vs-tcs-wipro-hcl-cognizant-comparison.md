@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-03.webp"
 reading_time: 45
 author: "vikram-iyer"
 last_updated: 2026-03-31
+lang: en
 ---
 Choosing between Infosys, TCS, Wipro, HCLTech, and Cognizant is one of the most consequential early-career decisions an Indian engineering graduate makes, and it is routinely made on the basis of incomplete information: a friend's experience, a single salary data point, or a ranking in a magazine that does not reflect on-the-ground reality. The five companies are superficially similar - all are large Indian IT services firms with global client portfolios, structured hiring processes, and substantial fresher intake. But they are meaningfully different in ways that matter enormously to the person spending five years there.
 

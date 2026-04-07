@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 3
 author: "alex-cunningham"
 last_updated: 2026-04-01
+lang: en
 ---
 The ODI Invoke Web Service utility is extremely handy and lots of users are already using it in their systems. The tool allows invoking an operation on a web service by the specified port number. Once we provide with all the required parameters, we can use the ODI tool OdiInvokeWebService to meet our required web services operation. **Download** the ODI Invoke Web Service document at the end of this article.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-87.webp"
 reading_time: 1
 author: "kevin-reeves"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a rarely known feature of Google but Google will show you a custom doodle wishing you happy birthday on your very special day.
 

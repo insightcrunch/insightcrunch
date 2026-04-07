@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-08-13
+lang: en
 ---
-
 On the morning of October 31, 1517, Martin Luther, a thirty-three-year-old Augustinian monk and professor of theology at the University of Wittenberg, is said to have nailed a document to the door of the Castle Church in Wittenberg. The document contained ninety-five theses, academic propositions intended for scholarly debate, challenging the theological basis and practical abuses of the papal indulgence system. Whether the dramatic nailing actually occurred, or whether Luther simply sent the theses by letter to the Archbishop of Albrecht of Mainz and other church officials, is a question that historians have debated; what happened next is not debated. A humanist friend obtained the theses, translated them from Latin into German, and sent them to a printer; within two weeks they had spread across Germany; within two months they had reached every corner of Europe. The printing press, which Johannes Gutenberg had perfected approximately sixty years earlier, proved its world-historical capacity for the first time: Luther had not done anything he had not done before (he had written similar theological challenges in earlier years), but this time the technology existed to make a local academic dispute into an international crisis.
 
 <!--more-->

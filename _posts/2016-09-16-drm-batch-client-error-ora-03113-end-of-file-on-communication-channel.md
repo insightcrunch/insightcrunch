@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
 author: "david-thornton"
 last_updated: 2026-04-01
+lang: en
 ---
 We are all aware how useful the DRM batch client can be to automate manual DRM processes and jobs and how much time it saves! But it is not so nice to troubleshoot the errors that start happening as mostly when it happens (which is rarely though) it takes lot of time to resolve.
 

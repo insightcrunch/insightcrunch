@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 1
 author: "vikram-iyer"
 last_updated: 2026-04-01
+lang: en
 ---
 All that freshers who got placed last year are concerned about now is their joining date. Offer letter has been already provided early this year. It has been just a few days since our semester exams ended. Results are soon to be declared within a few days. Me and my friends who got in TCS are all waiting when we will be contacted for our medical tests, a routine followed by TCS every year. Things are looking pretty good with respect to financial condition of TCS as they recently recruited about 250 freshers from the 2010 batch for their Cincinnati branch. It’s a matter of time now till we get our medical tests done and get our joining letters.
 

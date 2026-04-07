@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2026-03-31
+lang: en
 ---
 Aldous Huxley finished Brave New World in 1931, and it has been quietly winning its argument with the twentieth century ever since. The argument is about which form of tyranny is more dangerous: the boot on the face or the pill in the drink, the totalitarian state that rules through fear and pain, or the consumer society that rules through pleasure and comfort and the systematic elimination of the desire for anything different. Orwell imagined the first form in 1984, and his dystopia has been more celebrated, more quoted, more assigned in schools, more invoked in political arguments. But Huxley's form has been more realized. The surveillance state is real and frightening. The pleasure machine is also real and more thoroughly integrated into the texture of daily life than any surveillance apparatus has ever managed to be. The soma that keeps the citizens of the World State docile and content is not a single pharmaceutical but a distributed system of entertainment, convenience, social validation, and the engineered satisfaction of desire that constitutes the infrastructure of modern consumer culture. Huxley saw it coming before the infrastructure existed, which is the specific achievement that gives Brave New World its claim on the reader's attention ninety years after its composition.
 

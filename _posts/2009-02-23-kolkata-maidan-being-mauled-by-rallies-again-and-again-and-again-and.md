@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 1
 author: "amit-chatterjee"
 last_updated: 2026-04-01
+lang: en
 ---
 Our beloved maidan has been hurt again by a rally by a political party, flouting court directive. Its really feels bad when our beloved bookfair has been shifted to a different venue for the same reason yet we continue to pollute the place. Really its time people learn to respect the greenery and not just follow something just it had been ordered. Its a matter of global awareness nowadays to save greenery when they are so much on the verge of decline. And I believe the first steps come by protecting the heritage that we cherish in our own home city.
 

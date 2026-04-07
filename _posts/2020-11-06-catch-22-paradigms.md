@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-52.webp"
 reading_time: 3
 author: "jordan-ellis"
 last_updated: 2026-04-01
+lang: en
 ---
 It seldom comes as a surprise when a fascinating vision of deriving insights starts with tons of bytes of texts and numbers looking like anything but structured to start with. An engagement gets all the more exciting while engaging with a pool of bright data individuals, and a great pleasure to be able to interact with a thoughtful team discussing the subtle intricacies and popular industry challenges and solutions. The tougher the path became, the more exciting the discussions became, often for hours.
 

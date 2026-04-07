@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-74.webp"
 reading_time: 1
 author: "ian-fletcher"
 last_updated: 2026-04-01
+lang: en
 ---
 Microsoft’s Bing search engine has been one of the most recent disasters by any giant organization. Microsoft spent millions of dollars on it’s search engine, advertising it to the fullest potential it can. It integrated Bing search into Internet Explorer, but still, Google continued to firmly stay at the top. Guess why?
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "samantha-lee"
 last_updated: 2026-04-05
+lang: en
 ---
 This article saves more points than learning any new content topic. The fifteen careless errors cataloged here are not caused by a lack of mathematical knowledge. They are caused by specific execution habits that allow students to perform the correct mathematical procedure but arrive at the wrong answer anyway. A student who knows how to solve a system of equations but solves for x when the question asks for y loses that point due to a careless error, not a content gap. A student who correctly computes a percent change but uses the wrong original value loses the point the same way.
 

@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-70.webp"
 reading_time: 1
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 Its sad to see my home town deteriorating like this in terms of its progress. It has only heard the plans of its improvement over the last couple of years but alas, it couldn't be given a shape which would have invariably made all of us proud. The city could have become one of the most prestigious jewels in the eastern part of India, one of the finest demonstrations of rise from its present state to something we have dreamt of. True we’re on our way with the IT sector in Salt Lake struggling hard to cope up to demand of the time. But how long?
 

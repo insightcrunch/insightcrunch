@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Girl Who Was Never Just a Sidekick
 

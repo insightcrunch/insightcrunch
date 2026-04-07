@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-09-22
+lang: en
 ---
-
 ## Introduction: The Two Versions of What Harry Could Have Become
 
 The comparison between Draco Malfoy and Dudley Dursley is the most specifically available comparison in the series that most directly asks the question Rowling never quite asks aloud: what would Harry have become if he had been given everything he wanted rather than everything he needed?

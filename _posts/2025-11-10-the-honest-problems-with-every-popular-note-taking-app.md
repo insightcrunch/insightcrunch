@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-49.webp"
 reading_time: 32
 author: "marcus-hall"
 last_updated: 2026-03-31
+lang: en
 ---
 The note-taking app market is projected to exceed two billion dollars within the next several years, and the competition for your attention (and your subscription fees) is fierce. Every app promises to be your "second brain," your "digital workspace," your "thought partner." The marketing pages are beautiful. The feature lists are long. The testimonials are glowing.
 

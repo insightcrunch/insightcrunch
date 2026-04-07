@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-30.webp"
 reading_time: 3
 author: "benjamin-scott"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Overview
 

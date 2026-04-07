@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2014-11-06
+lang: en
 ---
-
 The friendship between George Milton and Lennie Small is the most heartbreaking relationship in American fiction not because it ends in tragedy but because it was always going to end in tragedy, and Steinbeck makes you love it anyway. This is the formal achievement that separates Of Mice and Men from every available sentimentalized account of the most loyal friendship: the novel does not hide what the friendship costs or conceal the specific conditions that make the most devastating available conclusion not simply possible but structurally inevitable. George is small, quick, and perpetually burdened by the most complete available responsibility for someone who will eventually make an error that no available protection can prevent. Lennie is enormous, immensely strong, and organized by the most genuine available innocence and the most complete available trust in George that the most devastating available innocence most precisely produces. The relationship is organized not by any available sentimentality but by the most specific available combination of genuine love, genuine exhaustion, genuine protectiveness, and genuine grief organized in advance for the loss that the most urgently available structural forces are making most completely inevitable from the novel's most dramatically available first scene.
 
 <!--more-->

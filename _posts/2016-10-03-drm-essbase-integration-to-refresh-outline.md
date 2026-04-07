@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-79.webp"
 reading_time: 2
 author: "kevin-reeves"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Data Relationship Management application has been consistently the leading master data management utility for businesses over the years. The flexibility of this application to easily integrate with other systems has been one of the best features. DRM integration with Hyperion Essbase to refresh the Essbase cubes outline can be accomplished in a variety of ways to update the metadata.
 

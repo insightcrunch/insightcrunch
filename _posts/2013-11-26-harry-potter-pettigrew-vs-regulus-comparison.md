@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2013-11-26
+lang: en
 ---
 ## Introduction: The Turn and What It Makes You
 

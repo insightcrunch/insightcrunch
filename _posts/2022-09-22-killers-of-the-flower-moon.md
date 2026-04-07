@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-88.webp"
 reading_time: 4
 author: "diana-patel"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Movie Review
 

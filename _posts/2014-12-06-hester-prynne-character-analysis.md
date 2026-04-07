@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2014-12-06
+lang: en
 ---
-
 Hester Prynne is the most quietly radical character in the nineteenth-century American novel, and the radicalism is organized by the specific quality of the transformation she performs on the most publicly available instrument of her own degradation. The Puritan court intends the scarlet letter to mark her permanently as the most visible available symbol of sexual transgression and moral failure in the community's most completely organized system of public shame. What actually happens, across the seven years the novel traces, is something the Puritan court did not intend and could not have predicted: the letter becomes, through the specific instrument of Hester's most genuinely available engagement with the community's most immediate available needs, the symbol of something else entirely. The community begins to read it as able. The transformation is not organized by any available dramatic rebellion or any available direct confrontation with the authority that imposed the punishment. It is organized by the most genuinely available quiet and sustained engagement with the specific forms of the most completely available charitable work that the community most urgently needs, which is the most formally available precise argument that Hawthorne makes about the specific form of the female moral authority that the novel most urgently celebrates: the authority organized not by the most dramatic available assertion but by the most genuinely available sustained engagement with the most completely available genuine human need.
 
 <!--more-->

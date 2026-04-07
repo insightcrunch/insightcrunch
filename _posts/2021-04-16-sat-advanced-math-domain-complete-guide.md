@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-39.webp"
 reading_time: 45
 author: "patrick-dunn"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Advanced Math: Quadratics, Polynomials, and Beyond
 

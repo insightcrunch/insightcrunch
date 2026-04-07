@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-86.webp"
 reading_time: 3
 author: "rachel-foster"
 last_updated: 2026-03-30
+lang: en
 ---
 ## Introduction
 

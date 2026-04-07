@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-19.webp"
 reading_time: 62
 author: "patrick-dunn"
 last_updated: 1997-06-27
+lang: en
 ---
-
 Word problems are not a separate topic on the Digital SAT. They are the primary delivery format for nearly every topic. Approximately sixty to seventy percent of all Math questions are wrapped in a real-world scenario that must be translated into algebra before any solving can begin. A student who excels at equation solving but struggles with word problem translation will consistently miss questions that they are theoretically capable of answering. A student who masters translation will unlock their full algebraic ability across the entire Math section.
 
 This guide treats word problem translation as the core skill it actually is: the interface between the English language and algebraic notation. The translation dictionary (the specific words and phrases that map to mathematical operations), the let-statement habit (defining variables explicitly before writing any equation), the most common word problem templates (total cost, rate-work, distance-rate-time, mixture, age, and percent), and the single most costly error in all of SAT Math (solving correctly for x but reporting the answer to the wrong question) are all covered in complete depth.

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-71.webp"
 reading_time: 45
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
+lang: en
 ---
 Among the less-discussed dimensions of TCS's ILP infrastructure is the satellite centre model - the use of engineering college campuses as additional ILP training venues that extend TCS's training capacity beyond its owned and operated campuses. For freshers who are assigned to ILP at a satellite centre rather than one of TCS's major owned facilities, the experience differs in specific ways from the flagship campus experience, and understanding those differences in advance is genuinely useful preparation.
 

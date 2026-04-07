@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 53
 author: "karthik-menon"
 last_updated: 2026-04-01
+lang: en
 ---
 Every year, a significant number of TCS employees and broader Indian IT professionals reach a decision point in their careers. The ILP is done. The early projects are behind them. The first promotion has come, and maybe the second. The technical skills are solid, the project management experience is real, and the industry knowledge is genuine. And yet the ceiling is visible in a way that it was not during those first years of building the foundation - a ceiling that requires something more than continued competence to break through, something that a graduate degree from a world-leading institution can provide.
 

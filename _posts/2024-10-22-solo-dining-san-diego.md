@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-17.webp"
 reading_time: 45
 author: "natalie-webb"
 last_updated: 2026-03-31
+lang: en
 ---
 San Diego is a city that was made for eating outside, alone, with the Pacific Ocean on one side and a plate of fish tacos on the other. It is a city of perpetual sunshine and seventy-degree days, of beach towns and border flavors, of craft breweries and taco shops and a dining scene that has quietly, steadily grown from "fish tacos and burgers" into one of the most exciting and diverse in California. It is a city where the solo diner at a counter overlooking the ocean, eating a Baja-style fish taco with a cold cerveza while the surf breaks a hundred yards away, is not a person eating alone. They are a person living the San Diego life, and the life is very, very good.
 

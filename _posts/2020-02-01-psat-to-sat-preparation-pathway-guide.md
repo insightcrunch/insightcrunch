@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-74.webp"
 reading_time: 45
 author: "hannah-moore"
 last_updated: 2026-04-01
+lang: en
 ---
 # PSAT to SAT: How to Use PSAT Results to Maximize SAT Performance
 

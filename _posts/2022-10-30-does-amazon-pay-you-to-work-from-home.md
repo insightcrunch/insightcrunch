@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-18.webp"
 reading_time: 10
 author: "kevin-reeves"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

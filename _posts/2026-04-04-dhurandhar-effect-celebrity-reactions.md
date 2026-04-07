@@ -10,8 +10,8 @@ excerpt: "Every famous voice that responded to Dhurandhar and Dhurandhar: The Re
 image: "/assets/images/blog/blog-57.webp"
 author: "amit-chatterjee"
 read_time: 95
+lang: en
 ---
-
 There is a particular kind of silence that speaks louder than any tweet. When a film becomes the highest-grossing Hindi release in history, when it crosses one thousand crore rupees and then fifteen hundred crore rupees and shows no signs of stopping, when it generates more online conversation than any Bollywood film in a decade, the public would reasonably expect the industry that produced it to celebrate. That is not exactly what happened with Dhurandhar and its sequel Dhurandhar: The Revenge. What happened instead was something far more interesting, far more revealing, and far more instructive about the state of Indian cinema and the politics that run beneath its surface.
 
 This article is not primarily a review of either film. Both parts of the Dhurandhar duology have been covered in detail across the InsightCrunch archive, from the [complete analysis of Dhurandhar Part 1](https://insightcrunch.com/2026/03/19/complete-analysis-dhurandhar-part-1/) to the [full breakdown of both endings](https://insightcrunch.com/2026/06/23/dhurandhar-ending-explained-both-parts/) to the [comprehensive franchise guide](https://insightcrunch.com/2026/06/17/dhurandhar-franchise-complete-guide/) that maps the entire creative architecture of what Aditya Dhar built. This article is about something different. This is the record of how India responded to those films. Every major voice. Every significant reaction. Every thunderous endorsement, every careful qualification, every pointed silence, and every moment when a tweet, a post, or a conspicuous absence said something that studio press releases and critical reviews never quite captured.

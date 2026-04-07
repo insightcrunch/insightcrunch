@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2015-09-02
+lang: en
 ---
-
 In the spring of 1526, a prince without a kingdom led a force of approximately 12,000 men across the Yamuna plain toward a Delhi sultanate army that outnumbered him perhaps ten to one. Babur, the founder of the Mughal dynasty, had already lost and recaptured the Central Asian city of Samarkand three times; he had been driven from his homeland in the Fergana Valley; and he had spent the last fifteen years carving out a base in Afghanistan while watching the great prize of the Indian subcontinent beckon from across the Hindu Kush. At the First Battle of Panipat on April 21, 1526, Babur deployed his artillery and his matchlock musketeers to devastating effect against Ibrahim Lodi's cavalry-heavy army: the guns panicked the elephants, which turned and stampeded through their own troops, and within hours the Delhi sultanate had collapsed and Ibrahim Lodi lay dead on the field. The battle lasted a single afternoon. The Mughal Empire it created lasted more than three centuries.
 
 <!--more-->

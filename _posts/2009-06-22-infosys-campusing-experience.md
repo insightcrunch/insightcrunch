@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 5
 author: "shruti-agarwal"
 last_updated: 2026-04-01
+lang: en
 ---
 This is a guest post by Nirmalya Roy Chowdhury who had got his dream of getting placed in Infosys fulfilled in February 2008. Extremely fond of programming, he is a really pragmatic and cool guy to hang out with.
 

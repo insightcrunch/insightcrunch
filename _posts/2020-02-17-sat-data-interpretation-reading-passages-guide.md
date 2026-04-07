@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-83.webp"
 reading_time: 45
 author: "katherine-blake"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy
 

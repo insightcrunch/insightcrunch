@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-45.webp"
 reading_time: 45
 author: "shruti-agarwal"
 last_updated: 2026-04-01
+lang: en
 ---
 Few career decisions generate more sustained debate among Indian IT professionals than the choice between TCS and Accenture. Both are among the most recognized names in global IT services. Both recruit heavily from Indian engineering colleges. Both offer paths into the global technology industry. And yet they are meaningfully different organizations, with distinct cultures, different career trajectories, different salary dynamics, and different professional identities that suit different types of people.
 

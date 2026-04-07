@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-22.webp"
 reading_time: 61
 author: "simon-hartley"
 last_updated: 2026-04-05
+lang: en
 ---
 Statistical inference questions appear on virtually every Digital SAT Math administration, typically one to two per module. Students consistently find them among the most confusing question types because they are conceptual rather than computational: the answer does not come from a formula or calculation but from correctly interpreting what a study's design allows you to conclude.
 

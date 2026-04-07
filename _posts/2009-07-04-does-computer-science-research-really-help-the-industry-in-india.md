@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-55.webp"
 reading_time: 6
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 *This is a guest post by one of my cool friends Ratnajit Mukherjee. He's really a lover of technology and has a flare for photography. He wanted to share his information on the impact of computer science research.*
 

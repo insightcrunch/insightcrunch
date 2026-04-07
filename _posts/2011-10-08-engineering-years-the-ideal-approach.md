@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-07.webp"
 reading_time: 4
 author: "diana-patel"
 last_updated: 2026-04-01
+lang: en
 ---
 *This guest post was written by Ashish Nandwani*.
 

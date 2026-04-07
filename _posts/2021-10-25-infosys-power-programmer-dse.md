@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-20.webp"
 reading_time: 45
 author: "ritika-singh"
 last_updated: 2026-04-02
+lang: en
 ---
 Most conversations about Infosys fresher hiring center on the Systems Engineer role, the standard entry-level designation that the company hires at scale every cycle. But within the same fresher hiring ecosystem, Infosys runs two premium entry-level tracks that attract significantly less attention despite offering materially different compensation, different work environments, and a different career trajectory from day one. These are the Power Programmer and the Digital Specialist Engineer designations.
 

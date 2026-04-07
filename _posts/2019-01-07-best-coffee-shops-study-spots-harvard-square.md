@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-51.webp"
 reading_time: 48
 author: "patrick-dunn"
 last_updated: 2026-04-01
+lang: en
 ---
 Harvard students spend an enormous proportion of their waking hours studying. The university provides extraordinary library facilities - Widener, Lamont, Cabot, Hilles, and dozens of specialty libraries - but the library is not the right environment for every type of intellectual work, every mood, or every student. The coffee shop and the independent cafe serve a specific function in the study ecosystem of the academic city: they provide the ambient human presence that some students need to focus, the caffeine infrastructure that all students eventually need, and the change of environment that prevents the library fatigue that comes from spending too many consecutive hours in the same space.
 

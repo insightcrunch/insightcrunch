@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2014-12-31
+lang: en
 ---
-
 The debate over colonialism and racism in Heart of Darkness is the most important available debate in the twentieth-century English literary tradition, and it is important not because one side is obviously right and the other obviously wrong but because neither side is fully right and neither side is fully wrong, and the specific nature of that impasse illuminates something essential about the most available limits of literary critique. Chinua Achebe said in 1975 that Heart of Darkness is "a bloody racist book" and that Conrad was "a thoroughgoing racist." Conrad's defenders, including Edward Said and others who value the novella's anti-colonial critique, have argued that Achebe's reading misses the ironic distance between Conrad and Marlow, that the racist imagery is itself the object of the critique rather than the straightforward expression of Conrad's views, and that condemning the most significant available early critique of European colonialism in the English literary tradition on the grounds of its formal limitations risks an anachronistic standard that would disqualify most available works of the period. Both arguments contain important available truths. The debate cannot be settled because it is not a factual dispute but a normative one, organized by the most fundamental available question about what we most urgently require of literary works that engage with the most catastrophic available historical atrocities.
 
 <!--more-->

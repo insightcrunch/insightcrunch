@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-59.webp"
 reading_time: 30
 author: "sneha-reddy"
 last_updated: 2026-03-31
+lang: en
 ---
 Every year, thousands of engineering graduates from mechanical, electrical, civil, electronics, aerospace, and dozens of other non-CS branches receive TCS offer letters and find themselves heading into an Initial Learning Program built entirely around software development. The question that haunts every single one of them is the same: how does someone who spent four years studying thermodynamics, circuit theory, or structural analysis survive a training program centered on Java, Python, SQL, and web development?
 

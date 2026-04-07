@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Girl in the Background Who Was Never Background
 

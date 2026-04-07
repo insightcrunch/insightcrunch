@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-23.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 ![](/assets/images/blog/blog-23.webp)
 

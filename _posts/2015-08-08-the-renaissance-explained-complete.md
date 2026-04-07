@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2015-08-08
+lang: en
 ---
-
 In the summer of 1401, the Arte di Calimala, the Florentine cloth merchants' guild, announced a competition for the design of a new set of bronze doors for the Baptistery of San Giovanni in Florence. Seven sculptors were invited to submit trial panels depicting the Sacrifice of Isaac. Two panels survive from the competition: one by Lorenzo Ghiberti, who won the commission, and one by Filippo Brunelleschi, who lost it and subsequently redirected his energies toward architecture. The specific details of the Ghiberti panel tell the story of an art in transformation: where earlier medieval bronze reliefs had depicted sacred figures against gold backgrounds in fixed hieratic poses that communicated theological significance through symbolic proportion rather than naturalistic representation, Ghiberti's Isaac is a nude figure of classical form, twisted in the specific posture of physical fear, the anatomy rendered with an accuracy and a psychological specificity that medieval craftsmen had neither sought nor achieved. The human body, in its specific physical reality, had become a subject of artistic interest for the first time since the fall of Rome. Something had changed.
 
 <!--more-->

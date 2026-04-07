@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-55.webp"
 reading_time: 45
 author: "jessica-kim"
 last_updated: 2026-04-01
+lang: en
 ---
 Statistics and probability questions form a substantial and distinctive portion of the SAT Math section, appearing primarily in the Problem-Solving and Data Analysis domain. These questions differ from algebra and advanced math questions in an important way: they require the ability to read, interpret, and reason about data representations rather than primarily to compute. A student who can correctly set up an algebraic equation may still miss a statistics question if they misinterpret what a graph is showing, confuse mean with median, or select the wrong probability formula for the given conditions.
 

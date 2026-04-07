@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2026-04-01
+lang: en
 ---
 ## Introduction: The Elegant Face of Evil
 

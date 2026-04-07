@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-14.webp"
 reading_time: 2
 author: "amanda-ross"
 last_updated: 2026-04-01
+lang: en
 ---
 In the professional world of the corporates, there is an invisible network of thoughts that is spread all across. The wavelengths from different individuals, each uniquely different from the other, cater to it’s ever-growing richness and complexity. You ought to be smart enough to get a feel and sense of the wavelengths that are invisibly travelling right under your nose. Sounds familiar? Well, it won’t if you are a newbie or you remain always focused in your machine all the time. It’s the sixth sense that prevails.
 

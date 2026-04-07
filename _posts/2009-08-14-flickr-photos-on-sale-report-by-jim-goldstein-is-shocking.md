@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-56.webp"
 reading_time: 2
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 It’s not Flickr’s fault to start with. And no photos of users that were marked “Private” were compromised. But however this incident is sure to raise a few eyebrows of Yahoo and it’s API licensing authorities.
 

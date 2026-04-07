@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-48.webp"
 reading_time: 3
 author: "andrew-price"
 last_updated: 2026-04-01
+lang: en
 ---
 Like many millennials, one of my favorite video game was Mario. The most satisfying thing about **Super Mario** were the power-up mushrooms - that gave it added abilities, to keep conquering world after world. Similarly, today when data and information are created at an accelerating rate, outstripping the ability of humans to keep up - it becomes imperative for enterprise operations to enable a digital workforce to achieve demonstrable gains in efficiency and productivity.
 

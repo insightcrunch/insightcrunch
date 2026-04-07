@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-38.webp"
 reading_time: 2
 author: "ian-fletcher"
 last_updated: 2026-04-01
+lang: en
 ---
 The Oracle Data Integrator tool provides a flexible option, though customized, to call and execute MaxL scripts to perform various operations on our Essbase cubes. And more importantly, this approach using ODI is completely independent of the environment we are going to run our ODI codes in. A simple control table will contain the server information that will be referred by the ODI code to run the MaxL scripts in that specific Essbase instance.
 

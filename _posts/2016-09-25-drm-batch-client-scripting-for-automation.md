@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-44.webp"
 reading_time: 2
 author: "nathan-cole"
 last_updated: 2026-04-01
+lang: en
 ---
 The DRM Batch Client is one of the most useful tools that complements the flexibility and features of Oracle Data Relationship Management. It has numerous features and benefits:
 

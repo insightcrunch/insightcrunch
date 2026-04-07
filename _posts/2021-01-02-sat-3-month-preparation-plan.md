@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-23.webp"
 reading_time: 45
 author: "michael-brooks"
 last_updated: 2026-04-01
+lang: en
 ---
 # SAT 3-Month Study Plan: Focused Preparation Timeline
 

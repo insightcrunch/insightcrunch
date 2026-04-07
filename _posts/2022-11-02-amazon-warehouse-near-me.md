@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-27.webp"
 reading_time: 11
 author: "andrew-price"
 last_updated: 2026-04-02
+lang: en
 ---
 ## Background
 

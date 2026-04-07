@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-63.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-03-30
+lang: en
 ---
 In the vein of Hemingway's protagonists who often find themselves at crossroads, the journey towards Tableau mastery presents a similar choice: pursuing official certification or embarking on a self-learning journey. This article delves into the pros and cons of each path, allowing you to make an informed decision that aligns with your aspirations and learning style.
 

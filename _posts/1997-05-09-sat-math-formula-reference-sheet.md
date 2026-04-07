@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-02.webp"
 reading_time: 61
 author: "hannah-moore"
 last_updated: 2026-04-05
+lang: en
 ---
 The SAT provides a small reference sheet at the start of each Math module containing basic geometry formulas (area of a circle, volume of a box, the Pythagorean theorem, and a few others). Students who prepare only to the level of that reference sheet are under-prepared for the Digital SAT. The full set of formulas and concepts tested on the Digital SAT is substantially larger, and most of the tested formulas are NOT on the provided reference sheet.
 

@@ -10,8 +10,8 @@ image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "michael-brooks"
 last_updated: 1997-06-18
+lang: en
 ---
-
 Three-dimensional geometry questions appear one to two times on every Digital SAT administration, almost always in the harder Module 2. Every volume and surface area formula the SAT tests is provided on the reference sheet at the start of the Math section. This means 3D geometry questions are never about memorizing formulas. They are always about applying formulas in non-standard situations: figuring out which formula applies to a composite solid, using the scaling principle to find how a volume changes when a dimension changes, solving for a missing dimension given the volume, or identifying the shape of a cross-section of a 3D figure.
 
 This guide covers the complete Digital SAT treatment of 3D geometry: reading the reference sheet formulas and understanding what each variable represents, applying the formulas to rectangular prisms, cylinders, cones, spheres, and pyramids, the scaling principle (the most frequently tested 3D concept on the SAT), composite solid problems, reverse engineering (finding a dimension from a given volume), and cross-sections of common 3D shapes. For the circle geometry that underlies cylinder and cone base calculations, the companion [SAT Math circles, arcs, and sectors guide](/1997/07/24/sat-math-circles-arcs-sectors-radians/) provides the full circular area and arc framework. For the right triangle relationships needed in 3D diagonal and slant height calculations, the [SAT Math right triangles guide](/1997/07/20/sat-math-right-triangles-unit-circle/) provides the Pythagorean theorem and special triangle tools. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.

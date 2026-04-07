@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-88.webp"
 reading_time: 2
 author: "chloe-martin"
 last_updated: 2026-04-01
+lang: en
 ---
 As we all know, Blogger uses Picasa Web Albums to store any image that we upload in our blog. It creates an album with the same name as the blog and stores all images from Blogger in it. As for Windows Live Writer, it creates an album of the name Windows Live Writer and stores all images (which are blogged using Windows Live Writer) there.
 

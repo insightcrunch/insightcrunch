@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-05.webp"
 reading_time: 45
 author: "karthik-menon"
 last_updated: 2026-04-02
+lang: en
 ---
 The question every Infosys employee asks around appraisal season is the same: what increment will I actually receive? The answer is almost never the figure that circulates in WhatsApp groups and college placement forums, which tend to mix up average hike percentages with top-band percentages, annual increments with promotion raises, and fixed pay increases with variable pay payouts. The resulting confusion leads employees to either dramatically overestimate what they will receive or accept below-market increments without realizing it.
 

@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-57.webp"
 reading_time: 45
 author: "rajan-kumar"
 last_updated: 2026-04-01
+lang: en
 ---
 Most TCS hiring happens through standardized assessment channels - the NQT for off-campus candidates, campus placement drives for final-year students. These channels evaluate broad cognitive and technical competency across aptitude, reasoning, verbal, and coding domains. They are well-suited for high-volume screening of a diverse engineering graduate population.
 

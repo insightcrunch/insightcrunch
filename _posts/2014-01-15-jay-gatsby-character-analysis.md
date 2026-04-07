@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-04-01
+lang: en
 ---
 Jay Gatsby is the most American character in American literature, and what makes him most American is the specific nature of his impossibility. He has invented himself entirely, from the ground up, starting with a name and a persona and building outward until the invention is so complete that even the inventor can no longer locate the seam between what he was and what he has made himself into. He is James Gatz of North Dakota, the son of shiftless and unsuccessful farm people, and he is also Jay Gatsby of West Egg, the man who throws the most spectacular parties on Long Island and owns the largest mansion in the area and wears shirts from England and possesses a quality that Nick Carraway describes as a gift for hope that he has never encountered in anyone else. Both of these things are true simultaneously, and the simultaneity is the source of his tragedy as well as his grandeur.
 

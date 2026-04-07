@@ -9,8 +9,8 @@ image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2013-07-25
+lang: en
 ---
-
 ## Introduction: The Prophecy That Means Nothing Until Someone Believes It
 
 The prophecy at the centre of the Harry Potter series is one of the most precisely constructed philosophical traps in popular fiction. It sounds like destiny. It reads like fate. Generations of readers have taken it as the foundational fact of the series - the predetermined framework within which Harry's specific story was always going to unfold. Dumbledore knows better. The prophecy, he most specifically explains to Harry in the fifth book's most philosophically concentrated available chapter, is not the source of the conflict. It never was. The conflict's most specific source is Voldemort's most specific choice to most directly believe the prophecy and to most specifically act on that belief in the specific form that most directly produced the specific conflict that the prophecy most specifically described.

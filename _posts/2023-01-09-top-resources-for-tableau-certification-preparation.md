@@ -9,6 +9,7 @@ image: "/assets/images/blog/blog-07.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-04-02
+lang: en
 ---
 In the tradition of Hemingway's protagonists who navigate the uncharted, the pursuit of Tableau certification demands a robust arsenal of resources. This article unveils a curated list of indispensable tools, courses, and platforms that will empower you to conquer the Tableau certification challenge with confidence and finesse.
 

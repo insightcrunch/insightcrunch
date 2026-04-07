@@ -10,6 +10,7 @@ image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "william-knight"
 last_updated: 2026-03-31
+lang: en
 ---
 ## Table of Contents
 
