@@ -88,6 +88,7 @@ def parse_post(filepath):
     if isinstance(tags, str):
         tags = [tags]
     image = fm.get("image", "")
+    lang  = fm.get("lang", "en")  # default to en for any post missing the field
 
     # Body: strip HTML/markdown markup, take first 100 words
     body = parts[2]
@@ -120,6 +121,7 @@ def parse_post(filepath):
         "content_tokens": tokenize(first_100),
         "image": image,
         "url": url,
+        "lang": lang,
     }
 
 
@@ -255,11 +257,15 @@ def main():
             scores[i][j] = s
             scores[j][i] = s
 
-    # For each post, rank candidates by score descending
+    # For each post, rank candidates by score descending.
+    # Only same-language candidates are considered, so each language pool is
+    # self-contained and readers never see related posts in a script they
+    # cannot read.
     ranked = []
     for i in range(n):
         candidates = sorted(
-            [(j, scores[i][j]) for j in range(n) if j != i],
+            [(j, scores[i][j]) for j in range(n)
+             if j != i and posts[j]["lang"] == posts[i]["lang"]],
             key=lambda x: -x[1]
         )
         ranked.append(candidates)
@@ -297,11 +303,14 @@ def main():
     print(f"[related-posts] Orphans before fix: {len(orphans)}")
 
     for orphan in orphans:
-        # Find the post that scores highest against this orphan
+        # Find the post that scores highest against this orphan,
+        # restricted to the same language pool.
         best_host = None
         best_score = -1
         for i in range(n):
             if i == orphan:
+                continue
+            if posts[i]["lang"] != posts[orphan]["lang"]:
                 continue
             if scores[i][orphan] > best_score:
                 best_score = scores[i][orphan]
@@ -329,6 +338,7 @@ def main():
                 "url": posts[j]["url"],
                 "category": posts[j]["category"],
                 "image": posts[j]["image"],
+                "lang": posts[j]["lang"],
             })
         output[slug] = related_list
 
