@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Sequences and Series - Complete Mastery Guide"
-page_title: "Gaokao Math Sequences Deep Dive - Arithmetic, Geometric, Recursive, Summation Techniques, and Proof Strategies"
+page_title: "Gaokao Math Sequences Deep Dive - Arithmetic, Geometric, Recursive, Summation Techniques, and Proof Strategies - 高考数学数列完全攻略"
 date: 2024-10-06
 categories: ["Industry"]
 tags: ["高考数学", "数列", "等差数列", "等比数列", "Gaokao Math", "Sequences"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 50
 author: "ma-ruoxi"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学数列专题，是历年高考中最稳定、最系统的考察板块之一。数列兼具代数运算和逻辑推理的双重特质，既考察基础计算能力（通项公式、求和公式的正确应用），又考察高级的推理能力（递推数列的规律归纳、数列放缩证明），是区分高分考生与普通考生的关键领域之一。
 
