@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Vectors - From 2D to 3D Applications"
-page_title: "Gaokao Math Vectors Deep Dive - Plane Vectors, Dot Product, Spatial Vectors, and Geometry Applications"
+page_title: "Gaokao Math Vectors Deep Dive - Plane Vectors, Dot Product, Spatial Vectors, and Geometry Applications - 高考数学向量完全攻略"
 date: 2024-09-04
 categories: ["Industry"]
 tags: ["高考数学", "向量", "平面向量", "空间向量", "Gaokao Math", "Vectors"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-08.webp"
 reading_time: 45
 author: "chen-xiaoling"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学向量专题，是高中数学中最具几何直觉和代数计算双重特性的知识板块。向量以其独特的"既有大小又有方向"的数量特征，成为连接代数与几何的桥梁工具。无论是平面几何中的证明与计算，还是立体几何中的线面关系判断与距离角度求解，向量都提供了最系统、最计算化的处理方法。
 
