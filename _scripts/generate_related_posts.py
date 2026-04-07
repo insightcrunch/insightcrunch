@@ -20,6 +20,7 @@ Run:  python _scripts/generate_related_posts.py
 import os
 import re
 import sys
+import unicodedata
 import yaml
 from collections import defaultdict
 from pathlib import Path
@@ -100,13 +101,16 @@ def parse_post(filepath):
     first_100 = " ".join(words)
 
     # Build slug from filename: 2025-10-27-my-post.md -> my-post
+    # Decode any #UXXXX escapes so the key matches Jekyll's page.slug at runtime.
     stem = filepath.stem  # e.g. 2025-10-27-my-post
     slug = re.sub(r"^\d{4}-\d{2}-\d{2}-", "", stem)
+    slug = _decode_unicode_filename(slug)
 
     # Build URL path from filename per permalink /:year/:month/:day/:title/
     m = re.match(r"(\d{4})-(\d{2})-(\d{2})-(.+)", filepath.stem)
     if m:
-        url = f"/{m.group(1)}/{m.group(2)}/{m.group(3)}/{m.group(4)}/"
+        url_slug = _decode_unicode_filename(m.group(4))
+        url = f"/{m.group(1)}/{m.group(2)}/{m.group(3)}/{url_slug}/"
     else:
         url = f"/{slug}/"
 
@@ -133,6 +137,29 @@ def _tag_to_tokens(tags):
             if len(t) >= TAG_TOKEN_MIN_LEN:
                 tokens.add(t)
     return tokens
+
+
+def _decode_unicode_filename(s):
+    """
+    Convert Jekyll's #UXXXX escape sequences (used for non-ASCII characters
+    in filenames) back into actual Unicode characters, then normalize to NFC
+    so the slug we generate matches Jekyll's page.slug at render time.
+
+    Jekyll stores each codepoint individually in the #UXXXX form, which
+    produces decomposed (NFD) sequences for combined characters like the
+    Bengali vowel sign O (#U09c7 + #U09be -> ো). At render time Jekyll
+    normalizes the URL to NFC (#U09cb), so we must do the same here or
+    the layout's site.data.related_posts[full_slug] lookup will silently
+    fail and the related-posts block will not render.
+
+    Example: '#U09a8#U09c0#U09b0' -> 'নীর'
+    """
+    decoded = re.sub(
+        r'#U([0-9A-Fa-f]{4})',
+        lambda m: chr(int(m.group(1), 16)),
+        s
+    )
+    return unicodedata.normalize('NFC', decoded)
 
 
 # ---------------------------------------------------------------------------
