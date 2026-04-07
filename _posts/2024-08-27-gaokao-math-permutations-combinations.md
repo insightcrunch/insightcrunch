@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Permutations and Combinations - Model Mastery"
-page_title: "Gaokao Math Permutations and Combinations - Counting Principles, Binomial Theorem, and Classic Combinatorial Models"
+page_title: "Gaokao Math Permutations and Combinations - Counting Principles, Binomial Theorem, and Classic Combinatorial Models - 高考数学排列组合完全攻略"
 date: 2024-08-27
 categories: ["Industry"]
 tags: ["高考数学", "排列组合", "二项式定理", "Gaokao Math", "Combinatorics"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-78.webp"
 reading_time: 45
 author: "feng-lei"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学排列组合专题，是高中数学中最考察逻辑思维和分类讨论能力的板块之一。排列组合以计数原理为基础，将实际问题抽象为有序或无序的选取问题，通过精确的公式和灵活的思维方法，计算各种复杂情况下的可能数目。这个专题不只出现在选择填空题中，更经常作为概率统计大题的基础，是高考数学不可忽视的核心考点。
 
