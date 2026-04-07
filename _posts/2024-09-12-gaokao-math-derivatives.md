@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Derivatives - The Ultimate Weapon for the Hardest Problems"
-page_title: "Gaokao Math Derivatives Deep Dive - Tangent Lines, Monotonicity, Extrema, Inequality Proofs, and Auxiliary Function Construction"
+page_title: "Gaokao Math Derivatives Deep Dive - Tangent Lines, Monotonicity, Extrema, Inequality Proofs, and Auxiliary Function Construction - 高考数学导数完全攻略"
 date: 2024-09-12
 categories: ["Industry"]
 tags: ["高考数学", "导数", "导数应用", "Gaokao Math", "Derivatives"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-72.webp"
 reading_time: 50
 author: "chen-xiaoling"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学导数专题，是高中数学中最具综合性、也是高考大题中难度最高的板块之一。导数作为"瞬间变化率"的数学工具，以其强大的分析能力，将函数的单调性、极值、最值的求解，以及不等式的证明，统一在一个精确的计算框架之内。对于高考数学而言，导数是解决最后两道压轴大题的核心武器，直接决定了高分考生与中等分数考生之间的差距。
 
