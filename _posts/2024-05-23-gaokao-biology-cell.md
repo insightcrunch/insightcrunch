@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Biology Cell Biology - Structure, Metabolism, and Division"
-page_title: "Gaokao Biology Cell Biology Deep Dive - Structure, Enzymes, Photosynthesis, Respiration, Mitosis, and Meiosis"
+page_title: "Gaokao Biology Cell Biology Deep Dive - Structure, Enzymes, Photosynthesis, Respiration, Mitosis, and Meiosis - 高考生物细胞完全攻略"
 date: 2024-05-23
 categories: ["Industry"]
 tags: ["高考生物", "细胞生物学", "光合作用", "细胞呼吸", "Gaokao Biology", "Cell Biology"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-09.webp"
 reading_time: 50
 author: "li-wei"
 last_updated: 2026-04-01
-lang: en
 ---
 高考生物细胞生物学专题，是整个高中生物学知识体系的基础核心。细胞生物学横跨细胞结构与功能、物质跨膜运输、酶与细胞代谢、光合作用与细胞呼吸（生命活动的能量基础）以及细胞分裂（有丝分裂与减数分裂）五大核心模块。在高考生物卷中，细胞生物学的内容贯穿选择题和大题，约占总分的30%至40%，是高考生物备考中必须系统掌握的核心基础。
 
