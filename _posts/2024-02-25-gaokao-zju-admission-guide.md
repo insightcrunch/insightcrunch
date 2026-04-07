@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zhejiang University Gaokao Admission - Complete Strategy Guide"
-page_title: "Zhejiang University Gaokao Admission Guide - Scores by Province, CS Strength, Zhu Kezhen College, and Strategy"
+page_title: "Zhejiang University Gaokao Admission Guide - Scores by Province, CS Strength, Zhu Kezhen College, and Strategy - 浙江大学高考录取完全指南"
 date: 2024-02-25
 categories: ["Industry"]
 tags: ["高考", "浙江大学", "录取分数线", "竺可桢学院", "Zhejiang University", "C9 League"]
