@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Grand Finale - Strategies for the Hardest Problems"
-page_title: "Gaokao Math Grand Finale Problems - Derivative Proofs, Conic Sections, Time Management, Partial Credit, and When to Skip"
+page_title: "Gaokao Math Grand Finale Problems - Derivative Proofs, Conic Sections, Time Management, Partial Credit, and When to Skip - 高考数学压轴题完全攻略"
 date: 2024-08-11
 categories: ["Industry"]
 tags: ["高考数学", "压轴题", "导数大题", "圆锥曲线", "Gaokao Math", "Hard Problems"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-12.webp"
 reading_time: 50
 author: "liu-jian"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学卷的最后两道大题，通称"压轴题"，是整张试卷中难度最高、区分度最大的题型。这两道题通常是：导数综合大题（以导数辅助证明不等式、含参数的极值讨论为核心）和圆锥曲线综合大题（以椭圆或双曲线的弦、切线、面积等为核心）。它们共同决定了高考数学中考生之间最大的分数差距，是决定能否进入顶尖高校的关键得分点。
 
