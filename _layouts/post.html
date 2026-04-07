@@ -409,6 +409,7 @@ article {
   {% assign now_str = site.time | date: "%Y-%m-%d" %}
   {% assign published_related_count = 0 %}
   {% for rel in site.data.related_posts[full_slug] %}
+    {% if rel.lang and page.lang and rel.lang != page.lang %}{% continue %}{% endif %}
     {% assign url_parts = rel.url | split: "/" %}
     {% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}
     {% if rel_date_str <= now_str %}
@@ -420,6 +421,7 @@ article {
     <h3>Related Reading</h3>
     <ul class="related-grid">
       {% for rel in site.data.related_posts[full_slug] %}
+      {% if rel.lang and page.lang and rel.lang != page.lang %}{% continue %}{% endif %}
       {% assign url_parts = rel.url | split: "/" %}
       {% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}
       {% if rel_date_str <= now_str %}
@@ -580,7 +582,7 @@ article {
 (function(){
 var POST_TITLE={{ page.page_title | default: page.title | jsonify }};
 var AUTHOR_FIRST={{ author.name | split: ' ' | first | jsonify }};
-var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign now_str = site.time | date: "%Y-%m-%d" %}{% for rel in site.data.related_posts[rp_slug] limit:6 %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= now_str %}{t:{{ rel.title | jsonify }},u:"{{ rel.url | relative_url }}"},{% endif %}{% endfor %}{% endif %}];
+var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign now_str = site.time | date: "%Y-%m-%d" %}{% for rel in site.data.related_posts[rp_slug] limit:6 %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= now_str %}{% if rel.lang == nil or page.lang == nil or rel.lang == page.lang %}{t:{{ rel.title | jsonify }},u:"{{ rel.url | relative_url }}"},{% endif %}{% endif %}{% endfor %}{% endif %}];
 var relPostIntros=['Since you are here... try <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. You will not regret it.','I also enjoyed <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. Worth a look.','Have you read <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>? I have opinions.','Between naps I read <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. Surprisingly good.','If you liked this, try <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. Trust the cat.','While you are in the mood... <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. Just saying. 🐱','Speaking of good reads... <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. You are welcome.','I would recommend <a href="URL" style="color:var(--amber,#b06010);text-decoration:underline">TITLE</a>. If I recommended things. Which I do not. Except now.'];
 var catW=document.getElementById('catW'),catBox=document.getElementById('catBox'),bub=document.getElementById('bub'),bubT=document.getElementById('bubT'),catForm=document.getElementById('catForm');
 var pupilL=document.getElementById('pupilL'),pupilR=document.getElementById('pupilR'),irisL=document.getElementById('irisL'),irisR=document.getElementById('irisR'),irisInL=document.getElementById('irisInL'),irisInR=document.getElementById('irisInR');
