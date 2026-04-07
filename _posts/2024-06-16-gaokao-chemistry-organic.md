@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Organic Chemistry - Functional Groups to Synthesis Routes"
-page_title: "Gaokao Organic Chemistry Deep Dive - Functional Groups, Reaction Types, Synthesis Design, Isomer Counting, and Polymers"
+page_title: "Gaokao Organic Chemistry Deep Dive - Functional Groups, Reaction Types, Synthesis Design, Isomer Counting, and Polymers - 高考有机化学完全攻略"
 date: 2024-06-16
 categories: ["Industry"]
 tags: ["高考化学", "有机化学", "官能团", "合成路线", "Gaokao Chemistry", "Organic"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-33.webp"
 reading_time: 50
 author: "yang-bo"
 last_updated: 2026-04-01
-lang: en
 ---
 高考化学有机化学专题，是高中化学中知识点最密集、综合性最强的板块之一。有机化学横跨官能团识别、有机反应类型、有机合成路线设计、同分异构体计数、高分子化学等多个子模块，在高考化学卷中通常以选择题、有机合成大题（第35题）以及结构推断等形式出现，共占约20至25分的分值。有机化学的难点不只在于知识点繁多，更在于需要将官能团性质、反应类型和合成策略有机整合，在复杂情景中设计合理的合成路线。
 
