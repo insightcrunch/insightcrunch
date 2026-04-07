@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Modern Physics - Photoelectric, Nuclear, and Beyond"
-page_title: "Gaokao Modern Physics Deep Dive - Photoelectric Effect, Energy Levels, Nuclear Physics, Wave-Particle Duality"
+page_title: "Gaokao Modern Physics Deep Dive - Photoelectric Effect, Energy Levels, Nuclear Physics, Wave-Particle Duality - 高考近代物理完全攻略"
 date: 2024-07-02
 categories: ["Industry"]
 tags: ["高考物理", "近代物理", "光电效应", "核物理", "Gaokao Physics", "Modern Physics"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-31.webp"
 reading_time: 45
 author: "he-xiaomei"
 last_updated: 2026-04-01
-lang: en
 ---
 高考物理近代物理专题，是整个高中物理知识体系中最"前沿"的部分，涉及20世纪初量子力学和相对论的核心内容。虽然近代物理在高考物理卷中所占分值相对较少（约15至20分），但这部分内容概念新颖、思维方式与经典物理差异明显，容易因概念混淆而失分。同时，近代物理还包含光电效应、能级跃迁、核物理等重要知识点，是高考物理备考中不可忽视的重要组成部分。
 
