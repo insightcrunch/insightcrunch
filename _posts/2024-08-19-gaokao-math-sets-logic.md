@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaokao Math Sets and Logic - Securing the Gift Points"
-page_title: "Gaokao Math Sets and Logic - Set Operations, Propositions, Sufficient/Necessary Conditions, and Quantifier Mastery"
+page_title: "Gaokao Math Sets and Logic - Set Operations, Propositions, Sufficient/Necessary Conditions, and Quantifier Mastery - 高考数学集合与逻辑完全攻略"
 date: 2024-08-19
 categories: ["Industry"]
 tags: ["高考数学", "集合", "逻辑", "充分必要条件", "Gaokao Math", "Sets Logic"]
@@ -10,7 +10,6 @@ image: "/assets/images/blog/blog-57.webp"
 reading_time: 45
 author: "li-wei"
 last_updated: 2026-04-01
-lang: en
 ---
 高考数学集合与逻辑专题，是每年高考数学卷中最稳定的"送分题"板块。集合的基本运算（并集、交集、补集）、逻辑命题（四种命题的关系、充分必要条件）、量词（全称量词与存在量词）以及命题的否定，这些内容每年必考，题型固定，难度相对较低，是高考数学中最值得稳拿满分的板块。
 
