@@ -10,7 +10,6 @@ image: '/assets/images/blog/blog-11.webp'
 reading_time: 35
 author: "juliana-costa"
 last_updated: 2026-03-31
-lang: en
 ---
 ## **1. Introdução**
 
