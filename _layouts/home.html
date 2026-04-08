@@ -530,11 +530,11 @@ per post. Search / load-more remain wired to assets/js/main.js.
 (function(){
 
   /* Live readers + share counts are pre-seeded by Liquid at build time
-     (see the {% assign readers_seed %} and {% assign shares_seed %} block
-     in the post loop above). This eliminates the "0" flash on initial
-     render because the HTML ships with plausible numbers baked in.
-     The tickers below read the current value from dataset and tick from
-     there, so no runtime seeding is needed. */
+     (see the readers_seed and shares_seed assigns in the post loop
+     above). This eliminates the "0" flash on initial render because the
+     HTML ships with plausible numbers baked in. The tickers below read
+     the current value from dataset and tick from there, so no runtime
+     seeding is needed. */
 
   /* Live readers: fast tick, amber pulse */
   (function(){
