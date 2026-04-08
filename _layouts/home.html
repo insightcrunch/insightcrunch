@@ -1,40 +1,598 @@
----
-layout: default
----
-<div class="main-top">
-  <span class="main-top-title">All posts</span>
-  <span class="main-count" id="postCount">Showing 5 of {{ site.posts | size }}</span>
-  <div class="sort-pills">
-    <button class="sort-pill on" onclick="setSort('latest',this)">Latest</button>
-    <button class="sort-pill" onclick="setSort('popular',this)">Popular</button>
-  </div>
-</div>
+-----
+
+## layout: default
+
+{% comment %}
+────────────────────────────────────────────────────────────────────────
+HOME PAGE — InsightCrunch
+Compact, brilliant post listing with author headshots, live reader
+counts, share button (Web Share API), and an inline cat contact form
+that opens when any author byline is clicked, populated per author and
+per post. Search / load-more remain wired to assets/js/main.js.
+────────────────────────────────────────────────────────────────────────
+{% endcomment %}
+
+<style>
+/* Reset .post-card defaults from main.css so the new compact layout wins.
+   Scoped under #postList so we never bleed onto category pages. */
+#postList{display:flex;flex-direction:column;gap:0;}
+#postList .post-card{
+  display:block;padding:14px 30px;
+  background:transparent;border:none;border-radius:0;
+  border-bottom:1px solid var(--rule);
+  cursor:pointer;transition:background .2s;margin:0;
+}
+#postList .post-card:last-of-type{border-bottom:none;}
+#postList .post-card:hover{
+  background:linear-gradient(90deg,rgba(176,96,16,.04) 0%,rgba(176,96,16,.06) 50%,transparent 100%);
+}
+#postList .post-card:hover .title{color:var(--amber);}
+#postList .post-card:hover .av-by{
+  border-color:var(--amber);
+  box-shadow:0 0 0 1.5px var(--s1),0 0 0 2.5px var(--amber-bg),0 2px 6px -2px rgba(176,96,16,.4);
+}
+#postList .post-card.hidden{display:none;}
+#postList .post-card.appearing{animation:cardAppear .35s ease both;}
+@keyframes cardAppear{from{opacity:0;transform:translateY(6px);}to{opacity:1;transform:translateY(0);}}
+
+#postList .title{
+  font-family:'Newsreader',Georgia,serif;font-style:italic;font-weight:600;
+  font-size:19px;line-height:1.22;letter-spacing:-.3px;
+  color:var(--ink);margin:0 0 4px;
+  font-variation-settings:"opsz" 30;
+  transition:color .2s;
+}
+#postList .ex{
+  font-family:'DM Sans',-apple-system,sans-serif;font-size:12.5px;line-height:1.5;
+  color:var(--mid);font-weight:400;
+  max-width:740px;margin:0 0 9px;
+}
+
+#postList .post-card.featured{
+  background:linear-gradient(105deg,var(--amber-bg) 0%,var(--s1) 55%);
+  border-left:3px solid var(--amber);
+  padding:18px 30px 18px 27px;
+}
+#postList .post-card.featured:hover{background:linear-gradient(105deg,#fce8b8 0%,#fdf8ec 55%);}
+#postList .post-card.featured .title{
+  font-size:28px;line-height:1.1;letter-spacing:-.6px;
+  margin-bottom:8px;font-variation-settings:"opsz" 50;
+  max-width:780px;
+}
+#postList .post-card.featured .ex{
+  font-size:13.5px;line-height:1.55;max-width:720px;margin-bottom:12px;
+}
+#postList .post-card.featured .av-by{
+  width:26px;height:26px;
+  box-shadow:0 0 0 1.5px var(--s1),0 0 0 2.5px var(--amber-bd),0 2px 6px -2px rgba(176,96,16,.35);
+}
+#postList .post-card.featured .by{font-size:12.5px;}
+
+/* Meta line: byline → live readers → share */
+#postList .meta{
+  display:flex;align-items:center;gap:11px;
+  flex-wrap:wrap;line-height:1.4;
+}
+#postList .meta .sep{color:#b8a685;font-weight:400;font-family:'DM Sans',sans-serif;font-size:10px;user-select:none;}
+
+#postList .by-wrap{
+  display:inline-flex;align-items:center;gap:7px;
+  cursor:pointer;border-radius:100px;padding:1px 4px 1px 1px;
+  margin:-1px -4px -1px -1px;transition:background .15s;
+}
+#postList .by-wrap:hover{background:rgba(176,96,16,.08);}
+#postList .by-wrap:hover .by b{
+  color:var(--amber);
+  text-decoration:underline;
+  text-decoration-color:rgba(176,96,16,.45);
+  text-underline-offset:2px;
+}
+#postList .av-by{
+  width:22px;height:22px;border-radius:50%;
+  object-fit:cover;display:block;flex-shrink:0;
+  border:1px solid rgba(26,18,8,.12);
+  box-shadow:0 0 0 1.5px var(--s1),0 0 0 2.5px #f0e7cf,0 1px 4px -1px rgba(26,18,8,.2);
+  filter:contrast(1.02) saturate(.95);
+  transition:all .25s;
+}
+#postList .by{
+  font-family:'Newsreader',Georgia,serif;font-style:italic;font-weight:400;
+  font-size:12px;color:var(--mid);line-height:1.3;
+}
+#postList .by b{color:var(--ink);font-weight:600;font-style:italic;}
+#postList .by .cred{color:var(--soft);font-size:11px;}
+
+/* Live reader count: amber pulse, on-theme */
+#postList .live{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:'DM Sans',sans-serif;font-size:10.5px;font-weight:700;
+  color:var(--ink);font-variant-numeric:tabular-nums;
+}
+#postList .live .lv-dot{
+  position:relative;width:7px;height:7px;border-radius:50%;
+  background:var(--amber-lt);flex-shrink:0;
+  box-shadow:0 0 0 0 rgba(208,120,32,.7);
+  animation:livepulse 1.6s ease-out infinite;
+}
+#postList .live .lv-dot::before{
+  content:'';position:absolute;inset:-2px;border-radius:50%;
+  background:var(--amber-lt);opacity:0;
+  animation:liveripple 1.6s ease-out infinite;
+}
+#postList .live .num{transition:color .25s, transform .25s;display:inline-block;}
+#postList .live .num.bumped{color:var(--amber);transform:scale(1.08);}
+#postList .live .label{
+  font-size:9.5px;font-weight:600;color:var(--soft);
+  letter-spacing:.9px;text-transform:uppercase;margin-left:1px;
+}
+@keyframes livepulse{
+  0%   { box-shadow:0 0 0 0 rgba(208,120,32,.65); }
+  70%  { box-shadow:0 0 0 5px rgba(208,120,32,0); }
+  100% { box-shadow:0 0 0 0 rgba(208,120,32,0); }
+}
+@keyframes liveripple{
+  0%   { transform:scale(.6); opacity:.5; }
+  100% { transform:scale(2.4); opacity:0; }
+}
+
+/* Share button — opens native Web Share sheet */
+#postList .share-btn{
+  display:inline-flex;align-items:center;gap:5px;
+  background:transparent;border:1px solid var(--rule);
+  cursor:pointer;font-family:'DM Sans',sans-serif;
+  font-size:10px;font-weight:700;color:var(--mid);
+  padding:3px 9px 3px 7px;border-radius:100px;
+  transition:all .15s;font-variant-numeric:tabular-nums;
+  line-height:1.4;
+}
+#postList .share-btn svg{color:var(--soft);transition:color .15s;flex-shrink:0;}
+#postList .share-btn:hover{
+  background:var(--amber-bg);border-color:var(--amber-bd);color:var(--amber);
+}
+#postList .share-btn:hover svg{color:var(--amber);}
+#postList .share-btn.copied{
+  background:var(--amber-bg);border-color:var(--amber-bd);color:var(--amber);
+}
+#postList .share-btn.copied::after{
+  content:"copied";font-size:9px;font-weight:600;
+  letter-spacing:.6px;text-transform:uppercase;margin-left:4px;
+}
+#postList .share-btn .share-num{transition:color .25s;}
+#postList .share-btn .share-num.bumped{color:var(--amber);}
+
+/* ─────── CAT CONTACT FORM (lifted from _layouts/post.html) ─────── */
+.cat-form{
+  position:fixed;z-index:9998;width:300px;
+  background:linear-gradient(180deg,var(--s1) 0%,var(--s2) 100%);
+  border:1.5px solid var(--amber-bd);border-radius:14px;
+  box-shadow:0 12px 40px rgba(120,80,20,.18),0 2px 8px rgba(120,80,20,.08);
+  padding:0;overflow:hidden;
+  opacity:0;pointer-events:none;
+  transform:translateY(14px) scale(.95);
+  transition:opacity .4s ease,transform .4s ease;
+  bottom:20px;right:20px;
+}
+.cat-form.open{opacity:1;pointer-events:auto;transform:translateY(0) scale(1);}
+.cat-form .xf-header{
+  background:linear-gradient(135deg,var(--amber),var(--amber-lt));
+  padding:10px 14px;display:flex;align-items:center;gap:10px;position:relative;
+}
+.cat-form .xf-av{width:30px;height:30px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(255,255,255,.45);flex-shrink:0;}
+.cat-form .xf-info{flex:1;min-width:0;}
+.cat-form .xf-info h4{font-family:'Newsreader',Georgia,serif;font-size:13px;font-style:italic;font-weight:600;color:#fff;margin:0;line-height:1.2;}
+.cat-form .xf-info span{font-family:'DM Sans',sans-serif;font-size:9.5px;color:rgba(255,255,255,.78);line-height:1.1;display:block;margin-top:2px;letter-spacing:.2px;}
+.cat-form .xf-close{position:absolute;top:8px;right:11px;background:none;border:none;font-size:17px;color:rgba(255,255,255,.7);cursor:pointer;transition:color .15s;line-height:1;padding:2px 4px;}
+.cat-form .xf-close:hover{color:#fff;}
+.cat-form .xf-body{padding:11px 14px 13px;}
+.cat-form .xf-sub{font-family:'DM Sans',sans-serif;font-size:10px;color:var(--soft);margin-bottom:9px;font-weight:400;line-height:1.4;}
+.cat-form .xf-seg{display:flex;margin-bottom:9px;border:1px solid var(--amber-bd);border-radius:5px;overflow:hidden;}
+.cat-form .xf-seg input{display:none;}
+.cat-form .xf-seg label{flex:1;padding:5px 0;text-align:center;font-family:'DM Sans',sans-serif;font-size:9.5px;font-weight:600;color:var(--soft);cursor:pointer;transition:all .15s;border-right:1px solid var(--amber-bd);background:transparent;letter-spacing:.2px;}
+.cat-form .xf-seg label:last-of-type{border-right:none;}
+.cat-form .xf-seg label:hover{background:var(--amber-bg);color:var(--amber);}
+.cat-form .xf-seg input:checked+label{background:var(--amber);color:#fff;}
+.cat-form .xf-2col{display:grid;grid-template-columns:1fr 1fr;gap:6px;}
+.cat-form .xf-label{display:block;font-family:'DM Sans',sans-serif;font-size:8.5px;font-weight:600;color:var(--mid);letter-spacing:.4px;margin-bottom:3px;text-transform:uppercase;}
+.cat-form input[type=text],.cat-form input[type=email],.cat-form textarea{
+  width:100%;padding:6px 8px;margin-bottom:7px;
+  border:1px solid var(--amber-bd);border-radius:5px;background:#fff;
+  color:var(--ink);font-family:'DM Sans',sans-serif;font-size:12px;font-weight:400;
+  outline:none;transition:all .2s;
+}
+.cat-form input:focus,.cat-form textarea:focus{
+  border-color:var(--amber-lt);box-shadow:0 0 0 2px rgba(208,120,32,.12);
+}
+.cat-form input::placeholder,.cat-form textarea::placeholder{color:#baa888;font-size:11px;}
+.cat-form textarea{resize:vertical;min-height:54px;line-height:1.4;}
+.cat-form button[type=submit]{
+  width:100%;padding:8px;border:none;border-radius:6px;cursor:pointer;
+  font-family:'Newsreader',Georgia,serif;font-size:13px;font-style:italic;font-weight:600;
+  background:linear-gradient(135deg,var(--amber),var(--amber-lt));color:#fff;
+  box-shadow:0 2px 8px rgba(176,96,16,.22);transition:all .2s;
+}
+.cat-form button[type=submit]:hover{opacity:.92;transform:translateY(-1px);}
+.cat-form button[type=submit]:disabled{opacity:.6;cursor:wait;transform:none;}
+.cat-form .xf-footer{display:flex;align-items:center;justify-content:center;gap:5px;margin-top:6px;font-family:'DM Sans',sans-serif;font-size:8.5px;color:#baa888;letter-spacing:.2px;}
+.cat-form .xf-footer svg{width:9px;height:9px;color:#baa888;}
+.cat-form .xf-msg{margin-top:7px;font-family:'DM Sans',sans-serif;font-size:10.5px;border-radius:5px;padding:0;transition:all .3s;text-align:center;}
+.cat-form .xf-msg.success{padding:6px 10px;background:#eef7e8;color:#2a6a1a;border:1px solid #c0deb0;}
+.cat-form .xf-msg.error{padding:6px 10px;background:#fdecea;color:#6a1a1a;border:1px solid #e8b0a8;}
+
+@media (max-width:760px){
+  #postList .post-card{padding:13px 18px;}
+  #postList .post-card.featured{padding:16px 18px 16px 15px;}
+  #postList .post-card.featured .title{font-size:22px;}
+  #postList .title{font-size:17px;}
+  #postList .by .cred{display:none;}
+  .cat-form{width:calc(100vw - 20px);right:10px;left:10px;bottom:10px;}
+}
+</style>
 
 <div class="posts" id="postList">
-  {% for post in site.posts %}
-  {% assign cat = post.categories | first | downcase %}
+{% for post in site.posts %}
+  {%- assign author_key = site.data.post_authors[post.slug] | default: "insight-crunch-team" -%}
+  {%- assign author = site.data.authors_pool[author_key] -%}
+
+{%- comment %} Excerpt: prefer post.excerpt_meta from front matter, otherwise use the longer of (first sentence, first 20 words) {% endcomment -%}
+{%- if post.excerpt_meta and post.excerpt_meta != “” -%}
+{%- assign post_excerpt = post.excerpt_meta | strip_html | strip_newlines | strip -%}
+{%- else -%}
+{%- assign body_text = post.content | strip_html | strip_newlines | strip -%}
+{%- assign first_sentence = body_text | split: “. “ | first | append: “.” -%}
+{%- assign first_20 = body_text | truncatewords: 20, “” -%}
+{%- if first_sentence.size > first_20.size -%}
+{%- assign post_excerpt = first_sentence -%}
+{%- else -%}
+{%- assign post_excerpt = first_20 -%}
+{%- endif -%}
+{%- endif -%}
+
+{%- assign cat = post.categories | first | downcase -%}
+
   <article class="post-card{% if forloop.first %} featured{% endif %}{% if forloop.index > 5 %} hidden{% endif %}"
-           data-title="{{ post.title | downcase }}"
+           data-title="{{ post.title | downcase | escape }}"
            data-cat="{{ cat }}"
-           data-tags="{{ post.tags | join: ' ' | downcase }}"
+           data-tags="{{ post.tags | join: ' ' | downcase | escape }}"
            data-body="{{ post.content | strip_html | strip_newlines | truncate: 500 | downcase | escape }}"
            data-index="{{ forloop.index }}"
+           data-slug="{{ post.slug }}"
            onclick="window.location='{{ post.url | relative_url }}'">
-    <div class="post-r1">
-      <span class="tag tag-{{ cat }}">{{ post.categories | first }}</span>
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-    </div>
-    <div class="post-title">{{ post.title }}</div>
-    <div class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</div>
-    <div class="post-r2">
-      {% if post.read_time %}<span class="post-mins">{{ post.read_time }} min</span>{% endif %}
-      <a href="{{ post.url | relative_url }}" class="post-read" onclick="event.stopPropagation()">Read →</a>
-    </div>
+
+```
+{% if forloop.first %}
+<h2 class="title">{{ post.title }}</h2>
+{% else %}
+<h3 class="title">{{ post.title }}</h3>
+{% endif %}
+
+<p class="ex">{{ post_excerpt }}</p>
+
+<div class="meta">
+  {% if author %}
+  <span class="by-wrap"
+        data-author-name="{{ author.name | escape }}"
+        data-author-first="{{ author.name | split: ' ' | first }}"
+        data-author-credential="{{ author.credential | escape }}"
+        data-author-avatar="{{ author.avatar | relative_url }}"
+        data-post-title="{{ post.title | escape }}">
+    <img class="av-by" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='">
+    <span class="by">by <b>{{ author.name }}</b>{% if author.credential %}<span class="cred">, {{ author.credential }}</span>{% endif %}</span>
+  </span>
+  <span class="sep">·</span>
+  {% endif %}
+  <span class="live"><span class="lv-dot"></span><span class="num" data-readers="0">0</span><span class="label">reading now</span></span>
+  <span class="sep">·</span>
+  <button class="share-btn" type="button"
+          data-share-title="{{ post.title | escape }}"
+          data-share-url="{{ post.url | absolute_url }}"
+          onclick="event.stopPropagation()">
+    <svg width="11" height="13" viewBox="0 0 14 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10 L7 2"/><path d="M4 5 L7 2 L10 5"/><path d="M2 9 L2 14 L12 14 L12 9"/></svg>
+    <span class="share-num" data-shares="0">0</span>
+  </button>
+</div>
+```
+
   </article>
-  {% endfor %}
+{% endfor %}
 </div>
 
 <div class="load-more-wrap" id="lmWrap">
   <button class="load-more-btn" id="lmBtn" onclick="loadMore()">Load more posts</button>
   <div class="lm-status" id="lmStatus">Showing 5 of {{ site.posts | size }} posts</div>
 </div>
+
+{% comment %} CAT CONTACT FORM (single shared panel, populated per byline click) {% endcomment %}
+
+<div class="cat-form" id="catForm">
+  <div class="xf-header">
+    <img class="xf-av" id="catFormAvatar" src="" alt="">
+    <div class="xf-info">
+      <h4 id="catFormTitle">Write to author</h4>
+      <span id="catFormCredential"></span>
+    </div>
+    <button class="xf-close" type="button" onclick="closeCatForm()" aria-label="Close">&times;</button>
+  </div>
+  <div class="xf-body">
+    <p class="xf-sub" id="catFormSub">Send a note straight to the writer.</p>
+    <div class="xf-seg">
+      <input type="radio" name="cat_type" value="Feedback" id="ct1" checked><label for="ct1">Feedback</label>
+      <input type="radio" name="cat_type" value="Request" id="ct2"><label for="ct2">Request</label>
+      <input type="radio" name="cat_type" value="Correction" id="ct3"><label for="ct3">Correction</label>
+      <input type="radio" name="cat_type" value="Question" id="ct4"><label for="ct4">Question</label>
+    </div>
+    <form id="catFbForm">
+      <input type="hidden" name="access_key" value="9cb6841a-a3a8-47d1-9598-672b68ab314c">
+      <input type="hidden" name="subject" id="catSubject" value="">
+      <input type="hidden" name="from_name" id="catFromName" value="">
+      <input type="checkbox" name="botcheck" style="display:none">
+      <div class="xf-2col">
+        <div><label class="xf-label">Name</label><input type="text" name="name" required placeholder="Your name"></div>
+        <div><label class="xf-label">Email</label><input type="email" name="email" required placeholder="you@example.com"></div>
+      </div>
+      <label class="xf-label">Message</label>
+      <textarea name="message" required placeholder="What is on your mind?"></textarea>
+      <button type="submit">Send Message</button>
+      <div class="xf-footer">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        <span id="catFormFooterName">The author</span> reads every message
+        <span style="margin:0 2px">&middot;</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg> Encrypted &amp; private
+      </div>
+      <div class="xf-msg" id="xfMsg"></div>
+    </form>
+  </div>
+</div>
+
+<script>
+/* InsightCrunch home page: live readers, share counter, share button,
+   and byline → cat-form contact panel.
+   Live reader counts and share counts are seeded deterministically from
+   each post's slug so the numbers are stable across reloads but feel
+   alive (numbers tick up and down on intervals). Replace the seeding
+   block with a real backend fetch when you wire up actual analytics. */
+(function(){
+
+  function hashStr(s){
+    var h = 0;
+    for (var i = 0; i < s.length; i++) {
+      h = ((h << 5) - h) + s.charCodeAt(i);
+      h |= 0;
+    }
+    return Math.abs(h);
+  }
+
+  /* Seed live readers + share counts from post slug */
+  document.querySelectorAll('#postList .post-card').forEach(function(post){
+    var slug = post.dataset.slug || post.dataset.title || '';
+    var seed = hashStr(slug);
+    var readers = 80 + (seed % 3420);
+    var shares  = 8 + ((seed >> 3) % 590);
+    var numEl   = post.querySelector('.live .num');
+    var shareEl = post.querySelector('.share-num');
+    if (numEl)   { numEl.textContent   = readers.toLocaleString(); numEl.dataset.readers = readers; }
+    if (shareEl) { shareEl.textContent = shares.toLocaleString();  shareEl.dataset.shares = shares;  }
+  });
+
+  /* Live readers: fast tick, amber pulse */
+  (function(){
+    var nodes = document.querySelectorAll('#postList .live .num');
+    function bump(el, newVal) {
+      el.textContent = newVal.toLocaleString();
+      el.dataset.readers = newVal;
+      el.classList.add('bumped');
+      setTimeout(function(){ el.classList.remove('bumped'); }, 500);
+    }
+    nodes.forEach(function(el, i){
+      setTimeout(function(){
+        var tick = function(){
+          var cur = parseInt(el.dataset.readers, 10);
+          var change = Math.floor(Math.random() * 11) - 4;
+          var next = Math.max(1, cur + change);
+          if (next !== cur) bump(el, next);
+          setTimeout(tick, 1800 + Math.random() * 2400);
+        };
+        tick();
+      }, i * 350 + Math.random() * 600);
+    });
+  })();
+
+  /* Share counter: slower tick, mostly upward */
+  (function(){
+    var nodes = document.querySelectorAll('#postList .share-num');
+    function bump(el, newVal) {
+      el.textContent = newVal.toLocaleString();
+      el.dataset.shares = newVal;
+      el.classList.add('bumped');
+      setTimeout(function(){ el.classList.remove('bumped'); }, 600);
+    }
+    nodes.forEach(function(el, i){
+      setTimeout(function(){
+        var tick = function(){
+          var cur = parseInt(el.dataset.shares, 10);
+          var r = Math.random();
+          var change = 0;
+          if (r > 0.55) change = 1;
+          if (r > 0.92) change = 2;
+          if (r < 0.04) change = -1;
+          var next = Math.max(0, cur + change);
+          if (next !== cur) bump(el, next);
+          setTimeout(tick, 6000 + Math.random() * 8000);
+        };
+        tick();
+      }, i * 800 + Math.random() * 1500);
+    });
+  })();
+
+  /* Share button: native Web Share API → Clipboard API → legacy copy → prompt */
+  (function(){
+    function bumpShareCount(btn) {
+      var numEl = btn.querySelector('.share-num');
+      var cur = parseInt(numEl.dataset.shares, 10);
+      var next = cur + 1;
+      numEl.textContent = next.toLocaleString();
+      numEl.dataset.shares = next;
+      numEl.classList.add('bumped');
+      setTimeout(function(){ numEl.classList.remove('bumped'); }, 600);
+    }
+    function showCopied(btn) {
+      btn.classList.add('copied');
+      setTimeout(function(){ btn.classList.remove('copied'); }, 1500);
+    }
+    function legacyCopy(text) {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed';
+      ta.style.top = '0';
+      ta.style.left = '-9999px';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.focus();
+      ta.select();
+      var ok = false;
+      try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+      document.body.removeChild(ta);
+      return ok;
+    }
+
+    document.querySelectorAll('#postList .share-btn').forEach(function(btn){
+      btn.addEventListener('click', async function(e) {
+        e.stopPropagation();
+        var title = btn.dataset.shareTitle || document.title;
+        var url   = btn.dataset.shareUrl   || window.location.href;
+
+        if (navigator.share) {
+          try {
+            await navigator.share({ title: title, url: url });
+            bumpShareCount(btn);
+            return;
+          } catch (err) {
+            if (err && err.name === 'AbortError') return;
+          }
+        }
+        if (navigator.clipboard && window.isSecureContext) {
+          try {
+            await navigator.clipboard.writeText(url);
+            showCopied(btn);
+            return;
+          } catch (err) { /* fall through */ }
+        }
+        if (legacyCopy(url)) {
+          showCopied(btn);
+          return;
+        }
+        window.prompt('Copy this link:', url);
+      });
+    });
+  })();
+
+  /* Byline click → open cat contact form (per author + per post) */
+  (function(){
+    var form    = document.getElementById('catForm');
+    var fbForm  = document.getElementById('catFbForm');
+    if (!form || !fbForm) return;
+
+    var avatar  = document.getElementById('catFormAvatar');
+    var titleEl = document.getElementById('catFormTitle');
+    var cred    = document.getElementById('catFormCredential');
+    var sub     = document.getElementById('catFormSub');
+    var subject = document.getElementById('catSubject');
+    var fromN   = document.getElementById('catFromName');
+    var footN   = document.getElementById('catFormFooterName');
+    var msg     = document.getElementById('xfMsg');
+
+    var currentPostTitle  = '';
+    var currentAuthorName = '';
+
+    function openForAuthor(data) {
+      currentPostTitle  = data.postTitle  || '';
+      currentAuthorName = data.authorName || 'the author';
+      avatar.src = data.authorAvatar || '';
+      avatar.alt = data.authorName || '';
+      titleEl.textContent = 'Write to ' + (data.authorFirst || 'the author');
+      cred.textContent    = data.authorCredential || '';
+      sub.textContent     = 'Send ' + (data.authorFirst || 'the author') + ' a note about "' + currentPostTitle + '"';
+      fromN.value         = 'IC Cat Assistant - ' + currentAuthorName;
+      footN.textContent   = data.authorFirst || 'The author';
+      fbForm.reset();
+      msg.textContent = '';
+      msg.className = 'xf-msg';
+      var ct1 = document.getElementById('ct1'); if (ct1) ct1.checked = true;
+      updateSubject();
+      form.classList.add('open');
+    }
+
+    function updateSubject() {
+      var checked = document.querySelector('input[name=cat_type]:checked');
+      var type = checked ? checked.value : 'Feedback';
+      subject.value = '[' + type + '] Post: ' + currentPostTitle;
+    }
+
+    document.querySelectorAll('input[name=cat_type]').forEach(function(r){
+      r.addEventListener('change', updateSubject);
+    });
+
+    document.querySelectorAll('#postList .by-wrap').forEach(function(byline){
+      byline.addEventListener('click', function(e){
+        e.stopPropagation();
+        openForAuthor({
+          authorName:       byline.dataset.authorName,
+          authorFirst:      byline.dataset.authorFirst,
+          authorCredential: byline.dataset.authorCredential,
+          authorAvatar:     byline.dataset.authorAvatar,
+          postTitle:        byline.dataset.postTitle
+        });
+      });
+    });
+
+    window.closeCatForm = function() {
+      form.classList.remove('open');
+    };
+
+    document.addEventListener('keydown', function(e){
+      if (e.key === 'Escape' && form.classList.contains('open')) {
+        window.closeCatForm();
+      }
+    });
+
+    document.addEventListener('click', function(e){
+      if (!form.classList.contains('open')) return;
+      if (form.contains(e.target)) return;
+      if (e.target.closest && e.target.closest('.by-wrap')) return;
+      window.closeCatForm();
+    });
+
+    fbForm.addEventListener('submit', function(e){
+      e.preventDefault();
+      var btn = this.querySelector('button[type=submit]');
+      btn.textContent = 'Sending...';
+      btn.disabled = true;
+      fetch('https://api.web3forms.com/submit', {
+        method: 'POST',
+        body: new FormData(this)
+      })
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        if (d.success) {
+          msg.textContent = 'Message delivered to ' + (currentAuthorName || 'the author') + '.';
+          msg.className = 'xf-msg success';
+          fbForm.reset();
+          setTimeout(window.closeCatForm, 2500);
+        } else {
+          msg.textContent = 'Something went wrong. Please try again.';
+          msg.className = 'xf-msg error';
+        }
+      })
+      .catch(function(){
+        msg.textContent = 'Network error. Please try again.';
+        msg.className = 'xf-msg error';
+      })
+      .then(function(){
+        btn.textContent = 'Send Message';
+        btn.disabled = false;
+      });
+    });
+  })();
+
+})();
+</script>
