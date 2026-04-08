@@ -6,12 +6,12 @@ date: 1997-01-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Inference", "Implication", "Reading Comprehension"]
 excerpt: "The definitive guide to Digital SAT inference questions - the must-be-true test, the valid inference vs overreach distinction, one-step and two-step reasoning chains, and 8 fully worked examples showing exactly how to derive the correct answer from the text."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 1997-01-12
+lang: en
 ---
-
 Inference questions on the Digital SAT ask what the passage implies - what logically follows from what is stated, even though it is not directly stated. The skill they test is precision: not what could be true from the passage, not what is probably true from real-world knowledge, but what must be true given exactly what the passage says.
 
 INFERENCE VS READING COMPREHENSION: Many students approach inference questions as comprehension questions - "do I understand the passage well enough?" But inference questions are not primarily about comprehension; they are about logical derivation. A student can understand a passage perfectly and still fail inference questions by importing knowledge outside the passage. Conversely, a student with limited content knowledge can answer inference questions correctly by rigorously applying the must-be-true test.
@@ -22,7 +22,7 @@ This guide covers the must-be-true test that distinguishes valid inferences from
 
 For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For the command of evidence question type that overlaps with inference, see [SAT Command of Evidence: Textual and Quantitative](/1997/03/25/sat-command-of-evidence/). For main idea and purpose questions that develop related skills, see [SAT Reading: Main Idea, Purpose and Central Claim Questions](/1997/01/07/sat-main-idea-purpose/). For Digital SAT RW practice including inference questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include inference questions in adaptive Digital SAT format.
 
-![SAT Inference and Implication Questions](/assets/images/blog/blog-06.webp)
+![SAT Inference and Implication Questions](/assets/images/blog/blog-60.webp)
 
 ---
 

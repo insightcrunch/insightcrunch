@@ -6,19 +6,19 @@ date: 1997-01-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Vocabulary", "Context Clues", "Word Choice"]
 excerpt: "The definitive guide to hard Digital SAT vocabulary questions - connotation distinctions, precision matching, register awareness, the substitute-and-reread technique, and curated semantic clusters that unlock the most frequently tested word families."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 1997-01-16
+lang: en
 ---
-
 The basic Digital SAT vocabulary strategy - cover the word, read the context, predict the meaning, select - handles approximately 70% of vocabulary questions reliably. The remaining 30% are the hard vocabulary questions that require the advanced framework in this article. But the hardest vocabulary questions on the Digital SAT test something more nuanced: the ability to distinguish between words that mean approximately the same thing but differ in connotation, precision level, or register. These questions are specifically designed to catch students who rely on general word meaning rather than precise contextual fit.
 
 This guide covers the three dimensions that hard vocabulary questions test (connotation, precision, register), the substitute-and-reread technique that resolves close choices, ten curated semantic clusters organized by function, the four-step elimination strategy for confusing answer sets, and why the "biggest" or most impressive word is almost always wrong. The vocabulary strategy in this article complements and deepens the basic vocabulary approach and specifically addresses the questions where the basic approach produces wrong answers.
 
 For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For craft and structure question types that overlap with vocabulary, see [SAT Craft and Structure Questions](/1997/03/16/sat-craft-structure-questions/). For the complete 500-word vocabulary resource with learning methodology, see [SAT Vocabulary Mastery: 500 Essential Words with Learning Strategy](/1996/12/02/sat-vocabulary-500-words/). For Digital SAT RW practice including vocabulary questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include vocabulary-in-context questions in Digital SAT format.
 
-![SAT Advanced Vocabulary in Context](/assets/images/blog/blog-05.webp)
+![SAT Advanced Vocabulary in Context](/assets/images/blog/blog-41.webp)
 
 ---
 

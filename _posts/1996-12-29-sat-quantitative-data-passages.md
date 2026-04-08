@@ -6,12 +6,12 @@ date: 1996-12-29
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Data Interpretation", "Graphs", "Quantitative"]
 excerpt: "The definitive guide to Digital SAT quantitative data questions - reading tables accurately, connecting data to passage claims, the which-data-best-supports question type, common misreading traps, and 8+ worked examples with tables, bar charts, and line graphs."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1996-12-29
+lang: en
 ---
-
 The Digital SAT regularly pairs a short passage with a table, graph, or chart and asks questions that require integrating the text with the data. These quantitative data questions test a specific skill: matching precise data points to precise claims. This skill is entirely separate from mathematical ability - the "math" in these questions is at most a basic comparison (which number is larger?) or a percentage check (what fraction is this?). Students who approach these questions as precision reading tasks rather than math tasks consistently perform better than those who approach them as calculation exercises. A student who reads data generally - identifying a trend or a rough pattern - will miss the specific data point the question requires. A student who reads data precisely - locating the exact row, column, and value the question asks about - will answer correctly.
 
 This precision is the entire skill. Unlike inference questions (which require analytical judgment about implication), quantitative data questions reward mechanical precision. The reward for reading all headers, identifying the exact claim requirement, and verifying specific values is near-perfect accuracy on a question type that appears 2-4 times per module.
@@ -20,7 +20,7 @@ This guide covers reading tables and graphs accurately, the three question types
 
 For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For command of evidence questions that share the data-matching skill, see [SAT Command of Evidence: Textual and Quantitative](/1997/03/25/sat-command-of-evidence/). For science passage strategies that apply to quantitative data passages, see [SAT Reading: Science Passages Strategy and Common Question Patterns](/1997/04/12/sat-reading-science-passages/). For Digital SAT RW practice including quantitative data questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include data interpretation questions in adaptive Digital SAT format.
 
-![SAT Reading Tables Graphs and Quantitative Data Passages](/assets/images/blog/blog-09.webp)
+![SAT Reading Tables Graphs and Quantitative Data Passages](/assets/images/blog/blog-03.webp)
 
 ---
 

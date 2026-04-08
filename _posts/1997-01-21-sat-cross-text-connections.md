@@ -6,19 +6,19 @@ date: 1997-01-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Paired Passages", "Cross-Text", "Analysis"]
 excerpt: "The definitive guide to paired/dual text questions on the Digital SAT - 6+ worked examples covering all relationship types, the read-Text-1-and-question-first strategy, and the precise techniques for answering author-response and synthesis questions."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1997-01-21
+lang: en
 ---
-
 Paired passage questions on the Digital SAT present two short texts on the same topic and ask how they relate. Every four answer choices describe some kind of relationship between the texts - the challenge is identifying which one accurately captures the specific relationship the question asks about. The most common trap: an answer that correctly describes one author's position while mischaracterizing the other's.
 
 This guide covers all major paired passage relationship types with 6+ fully worked examples, the read-Text-1-and-question-first strategy, the author-response question technique, and the synthesis question approach that identifies what both texts together suggest.
 
 For the complete reading and writing preparation guide covering all question types across the RW section, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For history passage reading strategies that apply to paired historical texts, see [SAT Reading: History and Social Science Passages](/1997/04/07/sat-reading-history-passages/). For the command of evidence question type that overlaps with paired text evidence questions, see [SAT Command of Evidence: Textual and Quantitative](/1997/03/25/sat-command-of-evidence/). For Digital SAT RW practice including paired passage questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include cross-text questions in Digital SAT format.
 
-![SAT Cross-Text Connections and Paired Passage Analysis](/assets/images/blog/blog-04.webp)
+![SAT Cross-Text Connections and Paired Passage Analysis](/assets/images/blog/blog-32.webp)
 
 ---
 

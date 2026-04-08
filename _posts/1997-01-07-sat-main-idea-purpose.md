@@ -6,12 +6,12 @@ date: 1997-01-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Main Idea", "Central Claim", "Purpose"]
 excerpt: "The definitive guide to Digital SAT main idea, purpose, and central claim questions - the topic vs main idea distinction, the main idea vs purpose distinction, wrong answer patterns (too broad, too narrow, misrepresentation), and 8 fully worked examples."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-01-07
+lang: en
 ---
-
 Main idea, purpose, and central claim questions on the Digital SAT ask about the overall point and function of a passage - not individual details, but what the passage as a whole is arguing or doing. These questions are among the most frequently appearing question types in each module and appear across all difficulty levels. These questions consistently have specific wrong answer patterns that are designed to catch students who have only partial comprehension of the passage. Understanding those patterns in advance converts these questions from guesswork into reliable correct answers.
 
 This guide introduces a complete system: three fundamental distinctions, three wrong answer patterns with diagnostics, eight worked examples with complete analysis, a four-question test, and the first-and-last-sentence reading strategy. Together, these tools provide everything needed to answer any main idea or purpose question the Digital SAT presents.
@@ -20,7 +20,7 @@ This guide covers the three fundamental distinctions (topic vs main idea, main i
 
 For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For craft and structure questions that test related skills about passage organization, see [SAT Craft and Structure Questions](/1997/03/16/sat-craft-structure-questions/). For tone and author perspective questions that build on purpose identification, see the guide to [SAT Reading: Tone, Attitude and Author's Perspective Questions](/1996/12/20/sat-tone-attitude-questions/). For Digital SAT RW practice including main idea questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include main idea questions in adaptive Digital SAT format.
 
-![SAT Main Idea, Purpose and Central Claim Questions](/assets/images/blog/blog-07.webp)
+![SAT Main Idea, Purpose and Central Claim Questions](/assets/images/blog/blog-86.webp)
 
 ---
 

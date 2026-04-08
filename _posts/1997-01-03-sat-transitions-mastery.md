@@ -6,12 +6,12 @@ date: 1997-01-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Transitions", "Logic", "Expression"]
 excerpt: "The complete guide to Digital SAT transition questions - the four-step ignore-read-determine-select strategy, all six logical relationship categories with signal words, and 10+ worked examples covering every transition type."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-01-03
+lang: en
 ---
-
 Transition questions appear 2-4 times in every Digital SAT RW module. They ask which word or phrase "most logically completes the text" by connecting two ideas. They are part of the expression of ideas question category and test whether students can identify and articulate the logical relationship between adjacent sentences. The most common error is selecting a transition that sounds sophisticated or formal rather than one that matches the actual logical relationship between the two sentences. This error occurs because students evaluate transitions by their register (how academic they sound) rather than by their logical function (what relationship they signal).
 
 The four-step strategy eliminates this error completely by requiring relationship identification before any transition is evaluated. A student who has identified "this is an addition relationship" will naturally reject "however" (contrast) regardless of how sophisticated it sounds. "However" sounds authoritative - but "however" is only correct when the second sentence contrasts with the first. If the second sentence adds to or continues the first, "however" is wrong regardless of how polished it sounds.
@@ -22,7 +22,7 @@ This guide covers the four-step transition strategy, all six logical relationshi
 
 For the complete grammar rules guide, see the [complete SAT Grammar Rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For grammar conventions questions that test related skills, see [SAT Grammar Conventions: Complete Guide](/1997/03/11/sat-grammar-conventions-complete/). For sentence boundary questions that appear alongside transition questions, see [SAT Sentence Boundaries: Fragments, Run-ons and Fused Sentences](/1997/02/12/sat-sentence-boundaries/). For Digital SAT RW practice including transition questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include all expression of ideas question types.
 
-![SAT Writing Transitions Between Sentences and Paragraphs](/assets/images/blog/blog-08.webp)
+![SAT Writing Transitions Between Sentences and Paragraphs](/assets/images/blog/blog-29.webp)
 
 ---
 

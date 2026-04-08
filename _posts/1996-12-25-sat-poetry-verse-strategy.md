@@ -6,19 +6,19 @@ date: 1996-12-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Poetry", "Verse", "Literary Analysis"]
 excerpt: "The complete guide to Digital SAT poetry and verse questions - the read-twice strategy, figurative vs literal interpretation, all key poetic devices, wrong answer patterns, and 6+ worked examples across Romantic, modernist, contemporary, lyric, and narrative poetry styles."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 1996-12-25
+lang: en
 ---
-
 Poetry passages are a distinctive feature of the Digital SAT. They appear less frequently than prose passages - typically one or two per module - but they require a fundamentally different reading approach. Students who have prepared extensively for science and history passages but not for poetry will find these questions disproportionately challenging relative to their overall preparation level. Where prose passages reward careful attention to stated facts and logical structure, poetry passages reward attention to imagery, figurative language, and mood. A student who reads poetry the way they read a scientific argument will miss every question. A student who applies the specific poetry reading approach - read twice, interpret figuratively, eliminate the two traps - will answer every question with confidence and accuracy.
 
 This guide covers the read-twice strategy, figurative meaning vs literal traps, all six key poetic devices tested on the Digital SAT (metaphor, simile, personification, imagery, alliteration, enjambment), the unfamiliar vocabulary strategy for older poems, how poetry questions differ from prose questions, the two main wrong answer patterns with detection tests, ten fully worked examples across Romantic, modernist, contemporary, lyric, and narrative poetry styles, and a complete tone word taxonomy for precise tone identification.
 
 For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For literary fiction and narrative passage strategies that share skills with poetry reading, see [SAT Reading: Literature and Fiction Passages](/1997/04/03/sat-reading-literature-fiction/). For the vocabulary skills that support figurative language interpretation, see [SAT Reading: Advanced Vocabulary in Context](/1997/01/16/sat-advanced-vocabulary/). For Digital SAT RW practice including poetry questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include literary analysis questions in adaptive Digital SAT format.
 
-![SAT Reading Poetry and Verse Excerpts](/assets/images/blog/blog-10.webp)
+![SAT Reading Poetry and Verse Excerpts](/assets/images/blog/blog-73.webp)
 
 ---
 
