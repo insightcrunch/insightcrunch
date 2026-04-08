@@ -258,7 +258,6 @@ per post. Search / load-more remain wired to assets/js/main.js.
            data-slug="{{ post.slug }}"
            onclick="window.location='{{ post.url | relative_url }}'">
 
-```
 {% if forloop.first %}
 <h2 class="title">{{ post.title }}</h2>
 {% else %}
@@ -290,7 +289,6 @@ per post. Search / load-more remain wired to assets/js/main.js.
     <span class="share-num" data-shares="0">0</span>
   </button>
 </div>
-```
 
   </article>
 {% endfor %}
