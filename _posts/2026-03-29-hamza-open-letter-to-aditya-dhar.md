@@ -4,7 +4,7 @@ title: "Hamza’s Open Letter to Aditya Dhar"
 page_title: "Hamza’s Open Letter to Aditya Dhar on India’s Unwritten Missions"
 date: 2026-03-29
 categories: ["Leisure"]
-tags: ["Cinema", "India", "History", "Open Letter", "Geopolitics"]
+tags: ["dhurandhar", "aditya-dhar", "hamza-ali-mazari", "bollywood", "spy-thriller", "open-letter", "india-geopolitics"]
 excerpt: "Hamza writes to Aditya Dhar with gratitude and restlessness, then lays out India's unwritten mission stories across borders, oceans, embassies, centuries, and the quiet rooms where nations are truly defended."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 75
