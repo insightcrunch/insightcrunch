@@ -10,6 +10,7 @@ image: '/assets/images/blog/blog-30.webp'
 reading_time: 35
 author: "budi-santoso"
 last_updated: 2026-03-31
+lang: id
 ---
 ## **1. Pendahuluan**
 
