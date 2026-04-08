@@ -226,6 +226,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
 #postList .av-by{
   width:22px;height:22px;border-radius:50%;
   object-fit:cover;display:block;flex-shrink:0;
+  background:#f0e7cf;
   border:1px solid rgba(26,18,8,.12);
   box-shadow:0 0 0 1.5px var(--s1),0 0 0 2.5px #f0e7cf,0 1px 4px -1px rgba(26,18,8,.2);
   filter:contrast(1.02) saturate(.95);
@@ -378,6 +379,28 @@ per post. Search / load-more remain wired to assets/js/main.js.
 
 {%- assign cat = post.categories | first | downcase -%}
 
+{%- comment -%} Pre-seed reader + share counts at build time so the HTML ships with plausible non-zero numbers. The JS ticker reads these from the DOM (data-readers / data-shares) and ticks from there instead of seeding at runtime. This eliminates the visible "0" flash on initial page load. Seed mixes post date, slug length, and title length for per-post variance while staying deterministic across reloads. {%- endcomment -%}
+{%- assign _ts = post.date | date: '%s' -%}
+{%- assign _sl = post.slug | size -%}
+{%- assign _tl = post.title | size -%}
+{%- assign _seed = _ts | times: 7 | plus: _sl | times: 13 | plus: _tl | times: 17 -%}
+{%- assign readers_seed = _seed | modulo: 3420 | plus: 80 -%}
+{%- assign shares_seed = _seed | divided_by: 11 | modulo: 590 | plus: 8 -%}
+{%- comment -%} Format readers_seed with a thousand separator so it matches JS toLocaleString() output and there is no format flicker on the first ticker bump. Range is 80-3499, so we only need to handle the 1000-3499 case. {%- endcomment -%}
+{%- if readers_seed >= 1000 -%}
+  {%- assign _r_thou = readers_seed | divided_by: 1000 -%}
+  {%- assign _r_rem = readers_seed | modulo: 1000 -%}
+  {%- if _r_rem < 10 -%}
+    {%- assign readers_display = _r_thou | append: ',00' | append: _r_rem -%}
+  {%- elsif _r_rem < 100 -%}
+    {%- assign readers_display = _r_thou | append: ',0' | append: _r_rem -%}
+  {%- else -%}
+    {%- assign readers_display = _r_thou | append: ',' | append: _r_rem -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign readers_display = readers_seed -%}
+{%- endif -%}
+
   <article class="post-card{% if forloop.first %} featured{% endif %}{% if forloop.index > 5 %} hidden{% endif %}"
            data-title="{{ post.title | downcase | escape }}"
            data-cat="{{ cat }}"
@@ -404,19 +427,19 @@ per post. Search / load-more remain wired to assets/js/main.js.
         data-author-credential="{{ author.credential | escape }}"
         data-author-avatar="{{ author.avatar | relative_url }}"
         data-post-title="{{ post.title | escape }}">
-    <img class="av-by" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='">
+    <img class="av-by" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="{% if forloop.index <= 5 %}eager{% else %}lazy{% endif %}"{% if forloop.first %} fetchpriority="high"{% endif %} onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='">
     <span class="by">by <b>{{ author.name }}</b>{% if author.credential %}<span class="cred">, {{ author.credential }}</span>{% endif %}</span>
   </span>
   <span class="sep">·</span>
   {% endif %}
-  <span class="live"><span class="lv-dot"></span><span class="num" data-readers="0">0</span></span>
+  <span class="live"><span class="lv-dot"></span><span class="num" data-readers="{{ readers_seed }}">{{ readers_display }}</span></span>
   <span class="sep">·</span>
   <button class="share-btn" type="button"
           data-share-title="{{ post.title | escape }}"
           data-share-url="{{ post.url | absolute_url }}"
           onclick="event.stopPropagation()">
     <svg width="11" height="13" viewBox="0 0 14 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M7 10 L7 2"/><path d="M4 5 L7 2 L10 5"/><path d="M2 9 L2 14 L12 14 L12 9"/></svg>
-    <span class="share-num" data-shares="0">0</span>
+    <span class="share-num" data-shares="{{ shares_seed }}">{{ shares_seed }}</span>
   </button>
   <button class="related-btn" type="button"
           data-post-title="{{ post.title | escape }}"
@@ -506,26 +529,12 @@ per post. Search / load-more remain wired to assets/js/main.js.
    block with a real backend fetch when you wire up actual analytics. */
 (function(){
 
-  function hashStr(s){
-    var h = 0;
-    for (var i = 0; i < s.length; i++) {
-      h = ((h << 5) - h) + s.charCodeAt(i);
-      h |= 0;
-    }
-    return Math.abs(h);
-  }
-
-  /* Seed live readers + share counts from post slug */
-  document.querySelectorAll('#postList .post-card').forEach(function(post){
-    var slug = post.dataset.slug || post.dataset.title || '';
-    var seed = hashStr(slug);
-    var readers = 80 + (seed % 3420);
-    var shares  = 8 + ((seed >> 3) % 590);
-    var numEl   = post.querySelector('.live .num');
-    var shareEl = post.querySelector('.share-num');
-    if (numEl)   { numEl.textContent   = readers.toLocaleString(); numEl.dataset.readers = readers; }
-    if (shareEl) { shareEl.textContent = shares.toLocaleString();  shareEl.dataset.shares = shares;  }
-  });
+  /* Live readers + share counts are pre-seeded by Liquid at build time
+     (see the {% assign readers_seed %} and {% assign shares_seed %} block
+     in the post loop above). This eliminates the "0" flash on initial
+     render because the HTML ships with plausible numbers baked in.
+     The tickers below read the current value from dataset and tick from
+     there, so no runtime seeding is needed. */
 
   /* Live readers: fast tick, amber pulse */
   (function(){
