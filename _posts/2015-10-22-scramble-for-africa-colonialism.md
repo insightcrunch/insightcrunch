@@ -6,17 +6,17 @@ date: 2015-10-22
 categories: ["Leisure"]
 tags: ["scramble-for-africa", "colonialism", "european-history", "africa", "world-history"]
 excerpt: "The Scramble for Africa explained - how Europe divided a continent and created lasting damage in one generation."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-10-22
+lang: en
 ---
-
 In the autumn of 1884, Otto von Bismarck convened the Berlin Conference, inviting fourteen European powers and the United States to agree on rules for the partition of Africa. They discussed effective occupation, free navigation of the Congo and Niger rivers, and suppression of the slave trade. They did this without inviting a single African representative. The entire continent of Africa, home to approximately 200 million people across 30 million square kilometers, was to be divided among European powers according to European interests and European definitions of legitimacy, while the people whose lands, lives, and futures were being organized had no voice in the process.
 
 <!--more-->
 
-![The Scramble for Africa Explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![The Scramble for Africa Explained - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The Scramble for Africa, the rapid partition of the African continent among European colonial powers between approximately 1880 and 1914, was the most extensive territorial seizure in human history: in approximately three decades, European powers went from controlling roughly 10 percent of Africa's territory to controlling roughly 90 percent, leaving only Ethiopia and Liberia as independent states. The consequences, in terms of borders drawn, political systems imposed, economies restructured, and cultures disrupted, continue to define the contemporary African landscape more profoundly than any other historical event. Understanding the Scramble honestly requires engaging with both the European motivations that drove it and the African experiences it produced: it was not an empty continent being claimed but a diverse landscape of hundreds of political entities, economies, and civilizations that were violently reorganized according to foreign interests. To trace the Scramble for Africa within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative period.
 

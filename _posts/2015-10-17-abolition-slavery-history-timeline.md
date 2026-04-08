@@ -6,17 +6,17 @@ date: 2015-10-17
 categories: ["Leisure"]
 tags: ["abolition", "slavery", "world-history", "emancipation", "human-rights", "historical-analysis"]
 excerpt: "The history of abolition - key figures, movements, legislation, and the long fight to end human slavery."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-10-17
+lang: en
 ---
-
 In 1787, a small group of Quakers and Anglican evangelicals gathered in a printing shop at 2 George Yard in the City of London and formed the Society for Effecting the Abolition of the Slave Trade. The twelve men around the table, including Granville Sharp, Thomas Clarkson, and nine Quaker members, were undertaking something that had never been attempted before: a systematic public campaign to convince a democratic legislature to abolish a major commercial industry on grounds of moral principle. The slave trade was at that moment one of the most profitable enterprises in the British Empire, involving hundreds of ships, thousands of sailors, hundreds of thousands of enslaved Africans transported annually, and enormous commercial interests in the Caribbean, North America, and Britain itself. The specific men in that printing shop were not wealthy industrialists or powerful politicians; they were activists with a moral argument, a gift for organization, and a specific determination to demonstrate that public opinion, properly mobilized, could change what commercial interest had established and political convenience had protected. They succeeded in twenty years.
 
 <!--more-->
 
-![Abolition of Slavery: History and Timeline - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Abolition of Slavery: History and Timeline - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 The abolition of slavery was the longest moral campaign in the history of the modern world: from the first Quaker protests in the 1670s to the specific legal abolition in the last holdout countries in the late twentieth century, the specific movement to end human slavery spanned three and a half centuries, required the work of thousands of specific individuals across dozens of countries, and produced more human liberation than any other political movement in history. It is simultaneously one of the most inspiring stories in the historical record (the specific demonstration that moral argument, sustained by human solidarity, can overcome enormous commercial and political interests) and one of the most sobering (the specific persistence of slavery in various forms into the present day, and the specific resistance that economic interest always mounts against moral reform). To trace the abolition of slavery within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this extraordinary moral achievement.
 

@@ -6,17 +6,17 @@ date: 2015-10-12
 categories: ["Leisure"]
 tags: ["american-civil-war", "american-history", "slavery", "lincoln", "world-history"]
 excerpt: "The American Civil War explained - slavery, secession, major battles, Lincoln, and Reconstruction's failure."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-10-12
+lang: en
 ---
-
 On April 12, 1861, at 4:30 in the morning, Confederate batteries opened fire on Fort Sumter, a federal installation in the harbor of Charleston, South Carolina. The bombardment continued for thirty-four hours, after which the fort's garrison of approximately eighty Union soldiers, having exhausted their ammunition and facing fire from multiple directions, surrendered. No one had been killed in the bombardment itself, though a Union soldier died in an accidental explosion during the surrender ceremony. The first engagement of the American Civil War had produced one accidental death and a Confederate tactical victory that proved to be a catastrophic strategic error: the attack on the American flag unified the North behind the Lincoln administration and transformed what had been a hesitant political crisis into a war that would kill approximately 620,000 soldiers on both sides, devastate the American South, and produce the specific constitutional amendments that, at least in formal terms, resolved the specific question that the Declaration of Independence had left open: whether the promise that all men were created equal applied to the enslaved people of African descent on whose labor the American economy had been substantially built.
 
 <!--more-->
 
-![The American Civil War Explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The American Civil War Explained - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 The American Civil War (1861-1865 AD) was the most destructive conflict in the history of the Western Hemisphere, the most consequential event in American history after the founding itself, and the specific resolution of the specific contradiction that the founders had embedded in the Declaration of Independence and the Constitution. Its specific cause was slavery: not the tariff, not states' rights as an abstraction, not cultural difference between North and South, but the specific institution of chattel slavery whose defense drove the Southern states to secession and whose destruction became the war's specific central achievement. The specific evasion of this central fact in the Lost Cause mythology that the postwar South developed, and that American historical culture accepted for generations, is one of the specific most consequential acts of historical falsification in any nation's self-understanding, and recovering the specific truth of what the Civil War was about is one of the most important contributions that honest historical analysis can make to American civic life. To trace the American Civil War within the full sweep of American and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this defining national event.
 

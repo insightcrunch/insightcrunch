@@ -6,17 +6,17 @@ date: 2015-09-27
 categories: ["Leisure"]
 tags: ["haitian-revolution", "haiti", "slavery", "toussaint-louverture", "world-history"]
 excerpt: "The Haitian Revolution explained - the only successful slave revolt in history and its world-changing impact."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-09-27
+lang: en
 ---
-
 On the night of August 14, 1791, in a forest clearing near the plantation town of Bois Caïman in the French colony of Saint-Domingue, a Vodou ceremony was held that the participants understood as the spiritual opening of a war for freedom. A storm broke overhead; the priestess Cécile Fatiman led the rites; and a pig was slaughtered, its blood drunk as a bond of shared commitment. Within days, approximately 100,000 enslaved people across the northern plain had risen in revolt, burning over 1,000 plantations and killing approximately 2,000 white colonists. The fires of the burning cane fields were visible from the sea. The governor of Jamaica, watching the glow on the horizon, understood immediately what it meant: the most valuable colony in the world, the island that produced approximately 40 percent of Europe's sugar and more than half its coffee, was in revolution.
 
 <!--more-->
 
-![The Haitian Revolution Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Haitian Revolution Explained - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The Haitian Revolution (1791-1804 AD) was the most radical and most consequential revolution in the Atlantic world. It was the only successful large-scale slave revolt in human history. It was the only revolution that produced a state founded on the permanent abolition of slavery as a constitutional principle. It was the first nation in the Western Hemisphere after the United States to achieve independence, and the first Black republic in the history of the world. And it accomplished all of this against the combined military opposition of the three most powerful colonial empires of the era: it defeated the French armies that tried to reimpose slavery, the British expeditions that tried to seize the colony, and the Spanish forces that had initially backed the revolt before recognizing its radical character. The specific scale of what the Haitian Revolution achieved, and the specific conditions under which it was achieved, make it one of the most remarkable events in world history and one of the most consistently underrepresented in the mainstream historical narratives of the Atlantic world. To trace the Haitian Revolution within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this world-transforming event.
 

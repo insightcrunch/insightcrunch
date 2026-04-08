@@ -6,17 +6,17 @@ date: 2015-10-27
 categories: ["Leisure"]
 tags: ["german-unification", "bismarck", "european-history", "prussia", "world-history"]
 excerpt: "How Bismarck unified Germany - wars, diplomacy, nationalism, and the creation of a European superpower."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-10-27
+lang: en
 ---
-
 On September 30, 1862, Otto von Bismarck had been Prussian Minister-President for exactly eleven days when he delivered the most famous speech in German political history to the budget committee of the Prussian parliament. The parliament had been deadlocked with King Wilhelm I over military funding for two years, and the liberal majority believed it held the power of the purse over the crown. Bismarck disabused them: Prussia could not achieve its aims through speeches and majority resolutions, he said. Those great questions would be decided not by speeches and majority votes but by iron and blood. The committee members were appalled. The phrase seemed like a declaration of war on the constitutional order they had been defending. Within nine years, through precisely the combination of iron and blood that he had promised, Bismarck had unified Germany under Prussian leadership, destroyed French military power, humiliated Austria, created the most powerful state in continental Europe, and transformed the European balance of power in ways that would eventually produce two world wars.
 
 <!--more-->
 
-![Unification of Germany Under Bismarck - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Unification of Germany Under Bismarck - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The unification of Germany under Otto von Bismarck between 1862 and 1871 was one of the most consequential political transformations of the nineteenth century: the creation of a unified German state from thirty-nine separate German-speaking states transformed the European balance of power, established the template for realpolitik as a governing philosophy of international relations, and set in motion the specific dynamics of European great-power competition that eventually produced the catastrophe of the First World War. Understanding Bismarck's achievement requires understanding the specific German political landscape he inherited, the specific diplomatic and military strategies he deployed, and the specific long-term consequences of the state he created. To trace the unification of Germany within the full sweep of European and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative period.
 

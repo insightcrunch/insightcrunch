@@ -6,17 +6,17 @@ date: 2015-11-01
 categories: ["Leisure"]
 tags: ["italian-unification", "risorgimento", "garibaldi", "european-history", "world-history"]
 excerpt: "The Risorgimento explained - Garibaldi, Cavour, and the wars that united Italy into one nation."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-11-01
+lang: en
 ---
-
 In May 1860, Giuseppe Garibaldi sailed from Genoa with approximately 1,000 volunteers, most of them young men with red shirts and minimal military training, to conquer the Kingdom of the Two Sicilies, a state of approximately nine million people defended by a regular army of approximately 25,000 soldiers. The expedition of the Thousand, as it became known, was by any rational military calculation an act of insanity. Garibaldi landed in Sicily, won battle after battle through the specific combination of guerrilla tactics, revolutionary charisma, and the local population's support for liberation from Bourbon rule, crossed to the Italian mainland, and within five months had captured the city of Naples and handed the entire southern half of the Italian peninsula to the Piedmontese kingdom led by King Victor Emmanuel II. No single military campaign in the entire nineteenth century was more dramatic, more improbable, or more personally expressive of a single individual's combination of courage, idealism, and military genius. Garibaldi then met Victor Emmanuel II at the Bridge of Teano, handed him the kingdom he had conquered, and went home to his farm on the island of Caprera, having completed the most extraordinary personal contribution to national unification in modern history.
 
 <!--more-->
 
-![Unification of Italy: The Risorgimento - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Unification of Italy: The Risorgimento - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The unification of Italy, the Risorgimento (Italian for "resurgence" or "resurrection"), was accomplished between 1859 and 1870 through a specific combination of diplomatic preparation, external military alliance, revolutionary popular action, and the particular genius of three men whose specific characters and specific methods were as different as any three figures in modern political history: Giuseppe Mazzini, the prophet; Giuseppe Garibaldi, the soldier; and Count Camillo di Cavour, the statesman. Understanding the Risorgimento requires understanding all three and the specific ways their specific contributions combined, sometimes in explicit cooperation and sometimes in direct conflict, to produce the unified Italian state that had seemed impossible as recently as 1848. To trace the unification of Italy within the full sweep of European and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative period.
 

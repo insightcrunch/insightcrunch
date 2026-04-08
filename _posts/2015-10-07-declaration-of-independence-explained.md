@@ -6,17 +6,17 @@ date: 2015-10-07
 categories: ["Leisure"]
 tags: ["declaration-of-independence", "american-history", "thomas-jefferson", "world-history"]
 excerpt: "The Declaration of Independence explained - its ideas, language, contradictions, and unfinished legacy."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-10-07
+lang: en
 ---
-
 On the afternoon of June 11, 1776, the Continental Congress appointed a committee of five men to draft a formal declaration of independence: John Adams of Massachusetts, Benjamin Franklin of Pennsylvania, Roger Sherman of Connecticut, Robert Livingston of New York, and Thomas Jefferson of Virginia. The committee quickly assigned the drafting to Jefferson, partly because Adams believed Jefferson wrote better prose, partly because the Virginians' support for independence was politically important, and partly because Jefferson had already demonstrated in his Summary View of the Rights of British America that he could articulate colonial grievances with unusual clarity and force. Jefferson worked for approximately two and a half weeks, producing a draft that the full committee revised before presenting to Congress. Congress then revised it further, most consequentially deleting a lengthy passage condemning the slave trade that Jefferson had included as one of his charges against King George III. The irony of the passage's deletion, a slaveholder condemning slavery in a document that other slaveholders forced him to remove, is one of the most revealing moments in the founding's specific intellectual history.
 
 <!--more-->
 
-![The Declaration of Independence Explained - Insight Crunch](/assets/images/blog/blog-05.webp)
+![The Declaration of Independence Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The Declaration of Independence, adopted by the Continental Congress on July 4, 1776, is simultaneously the most celebrated political document in American history and the most contested, the most universally quoted and the most consistently misunderstood, the most inspiring statement of political principle ever produced by any government and the document whose specific betrayal of its own principles required a civil war, a civil rights movement, and continuing political struggle to partially remedy. Its specific achievement was the articulation of a political philosophy, in approximately 1,300 words of English prose of unusual clarity and power, that established the specific standard of equality and natural rights against which every subsequent American political movement has measured itself and found both inspiration and indictment. Understanding the Declaration requires understanding what it says, what it meant to those who wrote it, what it has meant to those who subsequently invoked it, and why its specific promises remain, in important respects, unfulfilled. To trace the Declaration of Independence within the full sweep of American and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this foundational document.
 
