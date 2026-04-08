@@ -9,7 +9,7 @@ excerpt: "Master SAT scatter plots, line of best fit, correlation, residuals, an
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "samantha-lee"
-last_updated: 1997-08-11
+last_updated: 2026-04-08
 lang: en
 ---
 Scatter plots and regression questions are among the most reliably structured question types in the entire Digital SAT Math section. They appear two to four times per test, they always come from the Problem Solving and Data Analysis domain, and the College Board draws from a very small pool of skills to test: reading trends and outliers, interpreting the slope and y-intercept of a line of best fit in context, making predictions, understanding correlation, applying the correlation-vs-causation rule, and working with residuals. Every single one of these skills is learnable, testable, and consistent across administrations.

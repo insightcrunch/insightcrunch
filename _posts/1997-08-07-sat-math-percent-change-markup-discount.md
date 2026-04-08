@@ -9,7 +9,7 @@ excerpt: "Master SAT percent change, markups, discounts, tax, and the multiplier
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1997-08-07
+last_updated: 2026-04-08
 lang: en
 ---
 Percentage questions appear two to four times on every Digital SAT administration, placing them firmly among the core quantitative skills in the Problem Solving and Data Analysis domain. They feel deceptively familiar because students encounter percentages constantly in everyday life, but the SAT tests percentage concepts in ways that diverge sharply from casual usage. The student who thinks "I know percentages" because they can compute a tip at a restaurant will consistently miss the successive percent change questions, the working-backwards problems, and the markup-then-discount scenarios that the College Board has refined into reliable scoring traps over many test administrations.

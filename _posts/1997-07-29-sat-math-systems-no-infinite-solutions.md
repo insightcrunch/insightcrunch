@@ -9,7 +9,7 @@ excerpt: "Master SAT systems of equations including no solution, infinite soluti
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 61
 author: "hannah-moore"
-last_updated: 1997-07-29
+last_updated: 2026-04-08
 lang: en
 ---
 Systems of equations questions appear on every Digital SAT administration, and the specific subset that asks about no-solution and infinite-solution conditions is one of the most reliably tested and most commonly missed topic areas in the entire Algebra domain. Students who can solve a standard two-variable system by substitution or elimination will still miss the "for what value of k does this system have no solution?" format because that format requires not executing the solving algorithm but instead analyzing the conditions under which the algorithm would fail to produce a unique answer.

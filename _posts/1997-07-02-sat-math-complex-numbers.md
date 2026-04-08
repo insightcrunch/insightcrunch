@@ -9,7 +9,7 @@ excerpt: "Master SAT complex numbers: the i-power cycle, adding, subtracting, mu
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 1997-07-02
+last_updated: 2026-04-08
 lang: en
 ---
 Complex number questions appear zero to two times per Digital SAT administration, almost always in Module 2 at hard difficulty. This distribution makes them an unusually high-leverage topic for students targeting 700 and above: because most students do not prepare complex numbers at all, the students who do prepare them turn a question most of their peers skip or guess on into a reliable correct answer. A student who can master the four operations (addition, subtraction, multiplication, and division) plus the i-power cycle in two focused study hours will have a reliable edge on every administration that includes complex number questions.

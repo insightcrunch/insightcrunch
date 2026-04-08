@@ -9,7 +9,7 @@ excerpt: "Master the SAT word problem translation dictionary, let-statements, sy
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 62
 author: "patrick-dunn"
-last_updated: 1997-06-27
+last_updated: 2026-04-08
 lang: en
 ---
 Word problems are not a separate topic on the Digital SAT. They are the primary delivery format for nearly every topic. Approximately sixty to seventy percent of all Math questions are wrapped in a real-world scenario that must be translated into algebra before any solving can begin. A student who excels at equation solving but struggles with word problem translation will consistently miss questions that they are theoretically capable of answering. A student who masters translation will unlock their full algebraic ability across the entire Math section.

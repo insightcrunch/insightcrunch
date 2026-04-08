@@ -15666,12 +15666,6 @@ drm-application-not-starting-up-duplicate-versions:
   category: analytics
   image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: how-to-prepare-for-enem-exam-complete-guide
-  title: 'Guia Definitivo para Conquistar o ENEM: Do Zero à Aprovação'
-  url: /2026/01/05/how-to-prepare-for-enem-exam-complete-guide/
-  category: analytics
-  image: /assets/images/blog/blog-11.webp
-  lang: en
 drm-ebs-integration-unable-to-fetch-list-of-versions:
 - slug: 3-essential-sanity-checks-for-drm-ebs-integration
   title: 3 Essential Sanity Checks for DRM EBS Integration
@@ -31033,6 +31027,12 @@ tcs-ilp-lap-and-reschedule-complete-guide-for-freshers:
   category: industry
   image: /assets/images/blog/blog-68.webp
   lang: en
+- slug: tcs-ilp-diagnostics-and-assessments-ira-ipa-pra-and-every-test-explained
+  title: TCS ILP Diagnostics & Assessments - IRA, IPA, PRA, Every Test
+  url: /2025/08/12/tcs-ilp-diagnostics-and-assessments-ira-ipa-pra-and-every-test-explained/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 tcs-ilp-ratings-how-they-work:
 - slug: tcs-ilp-complete-guide-everything-you-need-to-know
   title: TCS ILP Complete Guide - Everything You Need to Know Before Joining
@@ -32376,30 +32376,12 @@ gaokao-biology-preparation-guide:
   image: /assets/images/blog/blog-76.webp
   lang: zh
 how-to-prepare-for-enem-exam-complete-guide:
-- slug: drm-application-not-starting-up-duplicate-versions
-  title: DRM Application not starting up - Duplicate Versions
-  url: /2016/09/14/drm-application-not-starting-up-duplicate-versions/
-  category: analytics
-  image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: drm-ebs-integration-unable-to-fetch-list-of-versions
-  title: DRM EBS Integration - Unable to fetch list of Versions
-  url: /2016/09/14/drm-ebs-integration-unable-to-fetch-list-of-versions/
-  category: analytics
-  image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: drm-internal-server-error
-  title: DRM Internal Server Error
-  url: /2016/09/14/drm-internal-server-error/
-  category: analytics
-  image: /assets/images/blog/blog-07.webp
-  lang: en
-- slug: drm-enterprise-manager-services-not-responding
-  title: DRM Enterprise Manager services not responding
-  url: /2016/09/15/drm-enterprise-manager-services-not-responding/
-  category: analytics
-  image: /assets/images/blog/blog-01.webp
-  lang: en
+- slug: guia-carreira-engenheiro-brasileiro-era-ia-2026
+  title: 'O Que Engenheiros Brasileiros Podem Fazer Agora: O Guia Completo de Carreira e Sobrevivência na Era da IA'
+  url: /2026/03/26/guia-carreira-engenheiro-brasileiro-era-ia-2026/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: pt
 best-ai-coding-tools:
 - slug: how-to-use-github-copilot
   title: How to Use GitHub Copilot Effectively
@@ -33536,30 +33518,12 @@ hamza-ali-mazari-character-analysis-dhurandhar:
   image: /assets/images/blog/blog-65.webp
   lang: en
 guia-carreira-engenheiro-brasileiro-era-ia-2026:
-- slug: us-engineer-career-guide-ai-era-2026
-  title: 'What US Citizen Engineers Can Actually Do Right Now: The Complete Career Survival and Advancement Guide for the AI Era'
-  url: /2026/04/03/us-engineer-career-guide-ai-era-2026/
-  category: industry
-  image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: tcs-ilp-lap-and-reschedule-complete-guide-for-freshers
-  title: TCS ILP LAP and Reschedule - Complete Guide for Freshers
-  url: /2025/08/22/tcs-ilp-lap-and-reschedule-complete-guide-for-freshers/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: tcs-ira1-and-ira2-questions-pattern-pass-marks-how-to-clear
-  title: TCS IRA1 and IRA2 - Questions, Pattern, Pass Marks, and How to Clear
-  url: /2025/10/22/tcs-ira1-and-ira2-questions-pattern-pass-marks-how-to-clear/
-  category: industry
-  image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: tcs-ilp-diagnostics-and-assessments-ira-ipa-pra-and-every-test-explained
-  title: TCS ILP Diagnostics & Assessments - IRA, IPA, PRA, Every Test
-  url: /2025/08/12/tcs-ilp-diagnostics-and-assessments-ira-ipa-pra-and-every-test-explained/
-  category: industry
-  image: /assets/images/blog/blog-63.webp
-  lang: en
+- slug: how-to-prepare-for-enem-exam-complete-guide
+  title: 'Guia Definitivo para Conquistar o ENEM: Do Zero à Aprovação'
+  url: /2026/01/05/how-to-prepare-for-enem-exam-complete-guide/
+  category: analytics
+  image: /assets/images/blog/blog-11.webp
+  lang: pt
 it-sector-layoffs-2026-global-analysis:
 - slug: infosys-performance-appraisal
   title: 'Infosys Performance Appraisal: Complete Deep Dive'
@@ -33815,12 +33779,6 @@ us-engineer-career-guide-ai-era-2026:
   url: /2026/04/03/oracle-layoffs-every-question-answered/
   category: industry
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: guia-carreira-engenheiro-brasileiro-era-ia-2026
-  title: 'O Que Engenheiros Brasileiros Podem Fazer Agora: O Guia Completo de Carreira e Sobrevivência na Era da IA'
-  url: /2026/03/26/guia-carreira-engenheiro-brasileiro-era-ia-2026/
-  category: industry
-  image: /assets/images/blog/blog-61.webp
   lang: en
 dhurandhar-effect-celebrity-reactions:
 - slug: dhurandhar-the-revenge-alternate-endings

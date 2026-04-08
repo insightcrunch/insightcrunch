@@ -9,7 +9,7 @@ excerpt: "Master SAT function notation, composition, inverses, transformations, 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 61
 author: "simon-hartley"
-last_updated: 1997-08-02
+last_updated: 2026-04-08
 lang: en
 ---
 Function questions appear four to six times on every Digital SAT administration, making them the single highest-frequency topic in the Advanced Math domain. They span a wide range of formats: evaluating function notation, composing functions, finding inverse functions, applying transformation rules to shift and reflect graphs, identifying properties like domain and range, and matching equations to graphs. A student who understands functions fluently does not just answer the explicit function questions correctly; that student also handles the function-related components of exponential, polynomial, and quadratic questions more reliably, because functions are the conceptual framework underlying all of those topics.

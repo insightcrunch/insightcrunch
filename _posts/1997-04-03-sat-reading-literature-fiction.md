@@ -9,7 +9,7 @@ excerpt: "Literature passages on the Digital SAT test interpretive reading: char
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 1997-04-03
+last_updated: 2026-04-08
 lang: en
 ---
 Literature and fiction passages occupy a unique position in the Digital SAT Reading and Writing section. Unlike science passages, where answers are anchored in explicit data and stated findings, and unlike history passages, where answers are anchored in clearly articulated arguments, literature passages require interpretive reading: drawing inferences from character action, dialogue, and internal thought; recognizing tone and mood from word choice and imagery; understanding figurative language without being misled by the literal image; and identifying structural patterns in narrative and verse.

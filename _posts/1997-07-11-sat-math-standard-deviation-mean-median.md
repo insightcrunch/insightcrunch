@@ -9,7 +9,7 @@ excerpt: "Master SAT mean, median, standard deviation, IQR, outliers, box plots,
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
 author: "samantha-lee"
-last_updated: 1997-07-11
+last_updated: 2026-04-08
 lang: en
 ---
 Descriptive statistics questions appear three to five times on every Digital SAT administration, making them among the highest-frequency topics in the Problem Solving and Data Analysis domain. Unlike many math topics where missing a formula costs you the question, descriptive statistics rewards conceptual understanding above all else. The SAT never asks students to calculate standard deviation by hand. It asks students to understand what standard deviation means, how to compare two datasets for greater spread, and how transforming the data (adding a constant, multiplying by a constant) affects each statistical measure differently. Students who have learned the formulas but not the concepts will miss these questions consistently. Students who understand what each measure captures and how it responds to changes in the data will answer them reliably.

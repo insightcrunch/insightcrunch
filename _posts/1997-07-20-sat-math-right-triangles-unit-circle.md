@@ -9,7 +9,7 @@ excerpt: "Master SAT right triangles, Pythagorean triples, 30-60-90 and 45-45-90
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 61
 author: "natalie-webb"
-last_updated: 1997-07-20
+last_updated: 2026-04-08
 lang: en
 ---
 Right triangle questions appear three to five times on every Digital SAT administration, making them one of the highest-frequency geometry topics in the entire Math section. They span the full difficulty spectrum: from easy questions requiring only the Pythagorean theorem to hard Module 2 questions that demand fluency with special triangle ratios, SOH-CAH-TOA in non-standard orientations, the complementary angle relationship between sine and cosine, and basic unit circle values. The students who answer these questions most reliably are not those who memorized the most formulas but those who built a connected understanding of how the Pythagorean theorem, the special triangle ratios, and the trigonometric function definitions all flow from the same geometric foundation.

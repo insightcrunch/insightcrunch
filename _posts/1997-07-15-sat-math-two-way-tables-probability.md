@@ -9,7 +9,7 @@ excerpt: "Master SAT two-way tables, conditional probability, relative frequency
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1997-07-15
+last_updated: 2026-04-08
 lang: en
 ---
 Two-way frequency table questions are among the most predictably structured on the entire Digital SAT. They appear two to three times per administration, always in the Problem Solving and Data Analysis domain, and the College Board draws from a remarkably small pool of question types: reading raw counts, computing simple probabilities, computing conditional probabilities by restricting the denominator to a subgroup, completing missing cells using row and column totals, and identifying whether an association exists between two categorical variables by comparing conditional probabilities across groups. Every one of these skills is learnable and reliably applicable to any two-way table the SAT presents.

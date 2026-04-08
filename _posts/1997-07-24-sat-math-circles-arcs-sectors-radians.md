@@ -9,7 +9,7 @@ excerpt: "Master SAT circle geometry: standard equation, completing the square, 
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 61
 author: "simon-hartley"
-last_updated: 1997-07-24
+last_updated: 2026-04-08
 lang: en
 ---
 Circle questions appear two to four times on every Digital SAT administration, making them among the most frequent geometry topics in the entire Math section. They span a wide range of difficulty, from straightforward arc length calculations using the proportion shortcut to harder questions requiring completing the square to identify the center and radius from a non-standard equation. The College Board uses circles across multiple domains: pure geometry questions about arc length and sector area, coordinate geometry questions about the circle equation, and trigonometry questions connecting radian measure to unit circle concepts.
