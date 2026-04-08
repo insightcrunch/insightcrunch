@@ -9,7 +9,7 @@ excerpt: "Two of the most frequently tested grammar concepts on the Digital SAT 
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 1997-02-26
+last_updated: 2026-04-08
 lang: en
 ---
 Parallel structure and modifier placement are two of the most frequently tested grammar concepts on the Digital SAT, appearing in multiple questions per module. They test the same underlying skill: recognizing when the form of a sentence matches its meaning.

@@ -9,7 +9,7 @@ excerpt: "The definitive guide to the Digital SAT's adaptive RW module system: h
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1997-02-08
+last_updated: 2026-04-08
 lang: en
 ---
 The Digital SAT's adaptive module system is the most consequential strategic variable in the entire test. In the Reading and Writing section, the two modules are not simply two halves of the same test - they are a gated system in which Module 1 performance determines whether Module 2 will be harder or easier, and that determination sets a score ceiling that no amount of Module 2 performance can overcome.

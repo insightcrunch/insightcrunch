@@ -9,7 +9,7 @@ excerpt: "The complete SAT grammar reference covering every Standard English Con
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
 author: "natalie-webb"
-last_updated: 1997-03-11
+last_updated: 2026-04-08
 lang: en
 ---
 Standard English Conventions (SEC) questions make up approximately 26 of the 54 questions across both Reading and Writing modules of the Digital SAT - nearly half the section. The sheer number of grammar questions makes this the single most preparation-efficient area of the entire test: improving from 60% to 90% accuracy on grammar questions adds approximately 8 correct answers per test, which corresponds to a substantial score improvement.

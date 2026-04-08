@@ -9,7 +9,7 @@ excerpt: "The four punctuation marks the Digital SAT tests most aggressively - c
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 1997-03-02
+last_updated: 2026-04-08
 lang: en
 ---
 Punctuation questions on the Digital SAT concentrate heavily on four marks: the colon, the semicolon, the dash, and the apostrophe. These four marks are frequently presented as competing answer choices for the same blank, requiring students to distinguish between them precisely. The ability to select the correct mark in these four-choice questions depends entirely on knowing and applying the specific rule for each mark.

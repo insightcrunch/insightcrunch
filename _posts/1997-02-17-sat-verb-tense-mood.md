@@ -9,7 +9,7 @@ excerpt: "The definitive Digital SAT guide to verb tense consistency, justified 
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 1997-02-17
+last_updated: 2026-04-08
 lang: en
 ---
 Verb tense questions on the Digital SAT test whether students can identify the established tense of a passage, recognize unjustified tense shifts, and apply special tense constructions - past perfect for sequencing, subjunctive for hypotheticals, and appropriate tense in reported speech. These questions are not testing whether students know a definition of "past perfect" but whether they can see, in context, whether a verb form is consistent with its surroundings or creates a logical inconsistency.

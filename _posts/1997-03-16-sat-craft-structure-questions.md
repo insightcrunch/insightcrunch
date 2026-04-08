@@ -9,7 +9,7 @@ excerpt: "Craft and Structure questions test how and why a text is constructed -
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 1997-03-16
+last_updated: 2026-04-08
 lang: en
 ---
 Craft and Structure questions are the most meta of the Digital SAT Reading and Writing question types. While other question types ask what a text says - what the finding is, what the author argues, what the character feels - craft and structure questions ask how the text is built and why it was built that way. The shift from "what does it say?" to "what is it doing?" is the central reading skill these questions test.

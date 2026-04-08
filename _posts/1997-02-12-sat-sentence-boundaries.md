@@ -9,7 +9,7 @@ excerpt: "The definitive guide to sentence boundary errors on the Digital SAT: c
 image: "/assets/images/blog/blog-85.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 1997-02-12
+last_updated: 2026-04-08
 lang: en
 ---
 Sentence boundary errors are among the most consistently tested Standard English Conventions topics on the Digital SAT, appearing in every Writing module across all difficulty levels. The good news: sentence boundary questions are among the most learnable and reliable question types on the test. The rules are finite, the diagnostic test is simple, and the correct answer is deterministic once the rule is applied.

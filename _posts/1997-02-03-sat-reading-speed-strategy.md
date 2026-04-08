@@ -9,7 +9,7 @@ excerpt: "The Digital SAT's short-passage format changes everything about readin
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1997-02-03
+last_updated: 2026-04-08
 lang: en
 ---
 Reading speed on the Digital SAT is not what most students think it is. The intuitive assumption - that reading faster produces better scores - is wrong for most students. The evidence from student timing data is clear: students who read more carefully on the first pass produce higher accuracy and spend the same or less total time per passage than students who rush and re-read. The reality is the opposite: most students who struggle with reading time are not reading too slowly - they are reading too fast, failing to understand passages on the first pass, and wasting double the time on re-reads and second-guessing. The cure for "slow reading" on the Digital SAT is almost always deeper comprehension on the first pass, not faster eye movement.

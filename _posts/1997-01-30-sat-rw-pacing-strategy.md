@@ -9,7 +9,7 @@ excerpt: "The complete Digital SAT RW pacing system: time budgets by question ty
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
 author: "hannah-moore"
-last_updated: 1997-01-30
+last_updated: 2026-04-08
 lang: en
 ---
 Twenty-seven questions. Thirty-two minutes. That works out to 71 seconds per question on average - a generous budget that becomes even more generous when the pacing system is applied correctly. The word "average" does the important work here: not every question deserves 71 seconds, and treating all questions as equal-time tasks is one of the most common pacing errors on the Digital SAT RW section. A grammar question that deserves 35 seconds does not become more accurate by spending 71 seconds on it. A hard inference question that needs 100 seconds cannot be answered well in 71 seconds. The average masks the distribution, and the distribution is where the strategy lives.

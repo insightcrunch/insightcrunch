@@ -9,7 +9,7 @@ excerpt: "Student notes questions are unique to the Digital SAT. Master the goal
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 61
 author: "maria-santos"
-last_updated: 1997-03-20
+last_updated: 2026-04-08
 lang: en
 ---
 Student notes questions are one of the Digital SAT's most distinctive formats, appearing in both Reading and Writing modules and presenting information as numbered bullet points rather than as a continuous passage. The numbered format is immediately recognizable, and trained students learn to treat this format as a strategy trigger: numbered notes = goal-first approach.

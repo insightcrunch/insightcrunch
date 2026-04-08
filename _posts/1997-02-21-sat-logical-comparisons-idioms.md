@@ -9,7 +9,7 @@ excerpt: "Two grammar areas that trip up even strong writers - logical compariso
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 61
 author: "samantha-lee"
-last_updated: 1997-02-21
+last_updated: 2026-04-08
 lang: en
 ---
 Logical comparisons and idiomatic expressions are two grammar areas where even strong writers make errors - not because the rules are complex, but because incorrect forms sound natural in conversation and informal writing. The Digital SAT exploits this gap systematically: every comparison trap and every idiom distractor is a form that sounds acceptable in informal English but violates the formal academic English standard the test measures. Preparation for these question types is essentially preparation for formal academic language - the same standard that college writing instructors expect and that the test is designed to assess. "The population of Texas is larger than California" sounds fine in conversation. "Different than" appears everywhere in informal speech. The Digital SAT exploits this gap between what sounds acceptable and what formal academic English requires.

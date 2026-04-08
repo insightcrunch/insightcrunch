@@ -9,7 +9,7 @@ excerpt: "Rhetorical synthesis is the Digital SAT's newest question type - and o
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 61
 author: "hannah-moore"
-last_updated: 1997-03-29
+last_updated: 2026-04-08
 lang: en
 ---
 Rhetorical synthesis questions are entirely unique to the Digital SAT - they did not exist on the paper SAT in any form, and many students encounter them for the first time during a practice test without preparation. That unfamiliarity costs points. But of all the question types on the Digital SAT Reading and Writing section, rhetorical synthesis has one of the highest improvement rates once students understand the format. Students who know the strategy report completing these questions in 30 to 45 seconds with near-perfect accuracy. Students who do not know the strategy often spend 90 to 120 seconds and still miss them.

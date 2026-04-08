@@ -9,7 +9,7 @@ excerpt: "The most frequently tested grammar rules on the Digital SAT - subject-
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
 author: "jessica-kim"
-last_updated: 1997-03-07
+last_updated: 2026-04-08
 lang: en
 ---
 Subject-verb agreement is the single most tested grammar rule on the Digital SAT. Pronoun-antecedent agreement and clarity are a close second in the Standard English Conventions category. Together, these two rule areas account for a disproportionate share of grammar questions in every test administration. The combined 80+ examples in this guide represent the complete range of question types across both rule categories, organized from the most frequently tested patterns to the hardest variants.

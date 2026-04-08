@@ -9,7 +9,7 @@ excerpt: "Command of Evidence questions come in two subtypes on the Digital SAT:
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 1997-03-25
+last_updated: 2026-04-08
 lang: en
 ---
 Command of Evidence questions are among the most frequently tested question types in the Digital SAT Reading and Writing section, appearing in both modules across every administration. They come in two distinct subtypes: textual evidence (find the quote from a passage that best supports or weakens a stated claim) and quantitative evidence (find the data point from a table or graph that best supports or weakens a stated claim). Each subtype has a specific, consistent structure, and both share the same underlying two-step strategy.
