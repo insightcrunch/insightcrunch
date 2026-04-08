@@ -417,10 +417,12 @@ article {
     {% endif %}
   {% endfor %}
   {% if published_related_count > 0 %}
-  <div class="related-posts">
+<div class="related-posts">
     <h3>Related Reading</h3>
     <ul class="related-grid">
+      {% assign grid_count = 0 %}
       {% for rel in site.data.related_posts[full_slug] %}
+      {% if grid_count >= 2 %}{% break %}{% endif %}
       {% if rel.lang and page.lang and rel.lang != page.lang %}{% continue %}{% endif %}
       {% assign url_parts = rel.url | split: "/" %}
       {% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}
@@ -436,10 +438,11 @@ article {
           <span class="related-title">{{ rel.title }}</span>
         </a>
       </li>
+      {% assign grid_count = grid_count | plus: 1 %}
       {% endif %}
       {% endfor %}
     </ul>
-  </div>
+  </div>  
   {% endif %}
   {% endif %}
 
@@ -730,7 +733,7 @@ var CAT_DIALOG={
    language not yet translated (ta, te, kn, ml, ur today). */
 var CL=CAT_DIALOG[PAGE_LANG]||CAT_DIALOG.en;
 function interp(s){return s.replace(/\{POST_TITLE\}/g,POST_TITLE).replace(/\{AUTHOR_FIRST\}/g,AUTHOR_FIRST);}
-var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign now_str = site.time | date: "%Y-%m-%d" %}{% for rel in site.data.related_posts[rp_slug] limit:6 %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= now_str %}{% if rel.lang == nil or page.lang == nil or rel.lang == page.lang %}{t:{{ rel.title | jsonify }},u:"{{ rel.url | relative_url }}"},{% endif %}{% endif %}{% endfor %}{% endif %}];
+var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign now_str = site.time | date: "%Y-%m-%d" %}{% assign rp_count = 0 %}{% for rel in site.data.related_posts[rp_slug] %}{% if rp_count >= 6 %}{% break %}{% endif %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= now_str %}{% if rel.lang == nil or page.lang == nil or rel.lang == page.lang %}{t:{{ rel.title | jsonify }},u:"{{ rel.url | relative_url }}"},{% assign rp_count = rp_count | plus: 1 %}{% endif %}{% endif %}{% endfor %}{% endif %}];
 var relPostIntros=CL.relPostIntros;
 var catW=document.getElementById('catW'),catBox=document.getElementById('catBox'),bub=document.getElementById('bub'),bubT=document.getElementById('bubT'),catForm=document.getElementById('catForm');
 var pupilL=document.getElementById('pupilL'),pupilR=document.getElementById('pupilR'),irisL=document.getElementById('irisL'),irisR=document.getElementById('irisR'),irisInL=document.getElementById('irisInL'),irisInR=document.getElementById('irisInR');
