@@ -6,17 +6,17 @@ date: 2015-09-17
 categories: ["Leisure"]
 tags: ["industrial-revolution", "british-history", "economic-history", "technology", "world-history"]
 excerpt: "The Industrial Revolution explained - inventions, factory life, social upheaval, and the modern world it created."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-09-17
+lang: en
 ---
-
 In 1769, a Scottish instrument-maker named James Watt was repairing a model of the Newcomen steam engine for the University of Glasgow when he noticed that it wasted most of its steam energy by repeatedly heating and cooling the same cylinder. His solution, a separate condenser that kept the main cylinder permanently hot, increased the engine's efficiency by a factor of four. The specific improvement seems technical; its consequences were world-historical. Watt's improved steam engine, patented in 1769 and developed through the 1770s and 1780s into a practical rotary engine capable of powering machinery of all kinds, was the specific device that made the Industrial Revolution possible at the scale and speed it achieved. Within a century of his patent, the steam engine had transformed textile manufacturing, iron production, mining, transportation (railways and steamships), and agriculture; had pulled millions of people from rural subsistence into urban industrial wage labor; had increased human productive capacity by factors that previous generations could not have imagined; and had created the specific economic, social, and environmental conditions that define the modern world. Everything since has been downstream of the Industrial Revolution.
 
 <!--more-->
 
-![The Industrial Revolution Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Industrial Revolution Explained - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The Industrial Revolution, the transformation of production from hand tools to machine-powered factories that began in Britain in the 1760s and 1780s and spread across the world over the following two centuries, was the most consequential economic transformation in human history since the development of agriculture approximately ten thousand years earlier. It changed not merely how things were made but where people lived, how they worked, how long they lived, how large their families were, how they understood time and space, and how they related to each other in political and social life. The specific acceleration of human productive capacity that it produced was without historical precedent: economic historians estimate that per capita income in the industrializing countries grew more in the century from 1820 to 1920 than it had in all the previous millennia of recorded history combined. To trace the Industrial Revolution within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative period.
 

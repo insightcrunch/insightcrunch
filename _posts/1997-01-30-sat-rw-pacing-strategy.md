@@ -6,19 +6,19 @@ date: 1997-01-30
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Pacing", "Time Management", "Strategy"]
 excerpt: "The complete Digital SAT RW pacing system: time budgets by question type, the flag-and-return strategy, Module 1 vs Module 2 pacing differences, and a model 32-minute walkthrough showing optimal time allocation across all 27 questions."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 1997-01-30
+lang: en
 ---
-
 Twenty-seven questions. Thirty-two minutes. That works out to 71 seconds per question on average - a generous budget that becomes even more generous when the pacing system is applied correctly. The word "average" does the important work here: not every question deserves 71 seconds, and treating all questions as equal-time tasks is one of the most common pacing errors on the Digital SAT RW section. A grammar question that deserves 35 seconds does not become more accurate by spending 71 seconds on it. A hard inference question that needs 100 seconds cannot be answered well in 71 seconds. The average masks the distribution, and the distribution is where the strategy lives.
 
 This guide covers time budgets by question type, the time bank model that shows how faster question types fund harder ones, the flag-and-return strategy in Bluebook, the critical pacing difference between Module 1 and Module 2, a model 32-minute walkthrough showing optimal time allocation for all 27 questions, pacing failure modes and their fixes, score-goal-specific calibrations, and the specific pacing adjustments that produce more correct answers in the same 32 minutes.
 
 For adaptive module strategy and why Module 1 accuracy determines the score ceiling, see [SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy](/1997/02/08/sat-rw-module-strategy/). For reading technique that minimizes time-per-passage, see [SAT Reading Speed: How to Read Faster Without Losing Accuracy](/1997/02/03/sat-reading-speed-strategy/). For the complete RW section overview, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For timed Digital SAT RW practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include all question types in adaptive format.
 
-![SAT RW Pacing Strategy](/assets/images/blog/blog-02.webp)
+![SAT RW Pacing Strategy](/assets/images/blog/blog-43.webp)
 
 ## The Foundation: 71 Seconds Is More Than Enough
 

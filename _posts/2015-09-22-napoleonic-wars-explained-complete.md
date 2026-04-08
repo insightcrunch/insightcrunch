@@ -6,17 +6,17 @@ date: 2015-09-22
 categories: ["Leisure"]
 tags: ["napoleonic-wars", "napoleon", "european-history", "waterloo", "world-history"]
 excerpt: "The Napoleonic Wars explained - Napoleon's campaigns, Europe's coalitions, and the battle that ended it all."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-09-22
+lang: en
 ---
-
 On the morning of December 2, 1805, the first anniversary of his coronation as Emperor of the French, Napoleon Bonaparte looked down from the heights of Pratzen at approximately 85,000 Russian and Austrian soldiers advancing toward him in the pre-dawn darkness. His army of approximately 73,000 was outnumbered, tired from campaigning, and facing an attack on a front that stretched miles in both directions. What his enemies did not know was that he had planned for this exact attack. He had deliberately weakened his right flank to invite the allied assault there; when the allied center moved south to reinforce the attack on his right, he would drive his best troops directly through the weakened allied center, splitting the enemy army in two. The plan required everything to go wrong in exactly the way he had predicted. By afternoon, it had. The Battle of Austerlitz, perhaps the most perfectly executed battle in military history, destroyed the combined Austro-Russian army, forced Austria out of the war, and established Napoleon as the undisputed master of continental Europe. Wellington later called it the finest thing Napoleon ever did.
 
 <!--more-->
 
-![The Napoleonic Wars Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Napoleonic Wars Explained - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 The Napoleonic Wars (1803-1815 AD), the series of conflicts in which Napoleon Bonaparte's French Empire fought successive coalitions of European powers for dominance of the continent, were the most destructive wars in European history before the twentieth century, killing perhaps five million soldiers and a comparable number of civilians. They were simultaneously the most consequential set of political events in modern European history before 1914: they spread the French Revolution's principles throughout Europe, created and destroyed dozens of states, generated the nationalist movements that reshaped the continent throughout the nineteenth century, and established the specific international order (the Concert of Europe) that maintained relative peace from 1815 to 1914. Napoleon himself was the most talented military commander in European history and the most consequential political figure of his era, a man whose specific combination of military genius, administrative innovation, and personal charisma produced both the most impressive imperial achievement in the modern world and its catastrophic self-destruction through overreach and hubris. To trace the Napoleonic Wars within the full sweep of European and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this world-transforming series of conflicts.
 
