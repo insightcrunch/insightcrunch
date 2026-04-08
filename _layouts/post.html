@@ -378,6 +378,21 @@ article {
   font-size:18px;color:#fff;margin:0;line-height:1.3;
   padding-right:32px;letter-spacing:-.2px;
 }
+/* Indic + Urdu need extra headroom for matras / nastaliq ascenders */
+:lang(bn) .rm-header h3,
+:lang(hi) .rm-header h3,
+:lang(ta) .rm-header h3,
+:lang(te) .rm-header h3,
+:lang(kn) .rm-header h3,
+:lang(ml) .rm-header h3,
+:lang(ur) .rm-header h3{line-height:1.3;}
+:lang(bn) .rm-title,
+:lang(hi) .rm-title,
+:lang(ta) .rm-title,
+:lang(te) .rm-title,
+:lang(kn) .rm-title,
+:lang(ml) .rm-title,
+:lang(ur) .rm-title{line-height:1.58;}
 .rm-close{
   position:absolute;top:14px;right:14px;
   background:transparent;border:none;color:rgba(255,255,255,.7);
