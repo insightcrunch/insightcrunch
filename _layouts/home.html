@@ -369,18 +369,11 @@ per post. Search / load-more remain wired to assets/js/main.js.
   {%- assign author_key = site.data.post_authors[post.slug] | default: "insight-crunch-team" -%}
   {%- assign author = site.data.authors_pool[author_key] -%}
 
-{%- comment %} Excerpt: prefer post.excerpt_meta from front matter, otherwise use the longer of (first sentence, first 20 words) {% endcomment -%}
-{%- if post.excerpt_meta and post.excerpt_meta != “” -%}
-{%- assign post_excerpt = post.excerpt_meta | strip_html | strip_newlines | strip -%}
+{%- comment %} Excerpt: use Jekyll standard post.excerpt field with character-based truncation (works for CJK). {% endcomment -%}
+{%- if post.excerpt and post.excerpt != "" -%}
+{%- assign post_excerpt = post.excerpt | strip_html | strip_newlines | strip | truncate: 200 -%}
 {%- else -%}
-{%- assign body_text = post.content | strip_html | strip_newlines | strip -%}
-{%- assign first_sentence = body_text | split: “. “ | first | append: “.” -%}
-{%- assign first_20 = body_text | truncatewords: 20, “” -%}
-{%- if first_sentence.size > first_20.size -%}
-{%- assign post_excerpt = first_sentence -%}
-{%- else -%}
-{%- assign post_excerpt = first_20 -%}
-{%- endif -%}
+{%- assign post_excerpt = post.content | strip_html | strip_newlines | strip | truncate: 200 -%}
 {%- endif -%}
 
 {%- assign cat = post.categories | first | downcase -%}
