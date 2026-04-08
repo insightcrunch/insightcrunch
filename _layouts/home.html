@@ -758,14 +758,18 @@ per post. Search / load-more remain wired to assets/js/main.js.
     /* Liquid-injected: per-slug related stories with author resolved.
        Built from _data/related_posts.yml + _data/post_authors.yml + _data/authors_pool.yml.
        Each item is compact: t=title, u=url, a=author name, av=avatar URL.
-       Limited to 5 per post. */
+       Limited to 5 per post. Two-pass selection:
+         Pass 1 picks the top-scored relations with UNIQUE authors (no dup).
+         Pass 2 fills remaining slots from same-author relations if pass 1
+         didn't reach 5. This maximizes author variety in the modal while
+         still falling back gracefully when relations share authors. */
     var RELATED_BY_SLUG = {
       {% assign first_entry = true %}
       {% assign now_str = site.time | date: "%Y-%m-%d" %}
       {% for entry in site.data.related_posts %}
         {% assign post_slug = entry[0] %}
         {% assign rel_list = entry[1] %}
-        {% capture items_str %}{% assign output_count = 0 %}{% for rel in rel_list %}{% if output_count < 5 %}{% assign url_parts = rel.url | split: "/" %}{% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}{% if rel_date_str <= now_str %}{% unless output_count == 0 %},{% endunless %}{"t":{{ rel.title | jsonify }},"u":{{ rel.url | relative_url | jsonify }}{% assign rel_author_key = site.data.post_authors[rel.slug] %}{% if rel_author_key %}{% assign rel_author = site.data.authors_pool[rel_author_key] %}{% if rel_author %},"a":{{ rel_author.name | jsonify }},"av":{{ rel_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% assign output_count = output_count | plus: 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
+        {% capture items_str %}{% assign seen_authors = "|" %}{% assign seen_urls = "|" %}{% assign output_count = 0 %}{% for rel in rel_list %}{% if output_count >= 5 %}{% break %}{% endif %}{% assign url_parts = rel.url | split: "/" %}{% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}{% if rel_date_str <= now_str %}{% assign rel_author_key = site.data.post_authors[rel.slug] %}{% assign is_unique_author = true %}{% if rel_author_key %}{% assign seen_marker = "|" | append: rel_author_key | append: "|" %}{% if seen_authors contains seen_marker %}{% assign is_unique_author = false %}{% endif %}{% endif %}{% if is_unique_author %}{% unless output_count == 0 %},{% endunless %}{"t":{{ rel.title | jsonify }},"u":{{ rel.url | relative_url | jsonify }}{% if rel_author_key %}{% assign rel_author = site.data.authors_pool[rel_author_key] %}{% if rel_author %},"a":{{ rel_author.name | jsonify }},"av":{{ rel_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% if rel_author_key %}{% assign seen_authors = seen_authors | append: rel_author_key | append: "|" %}{% endif %}{% assign seen_urls = seen_urls | append: rel.url | append: "|" %}{% assign output_count = output_count | plus: 1 %}{% endif %}{% endif %}{% endfor %}{% for rel in rel_list %}{% if output_count >= 5 %}{% break %}{% endif %}{% assign url_marker = "|" | append: rel.url | append: "|" %}{% unless seen_urls contains url_marker %}{% assign url_parts = rel.url | split: "/" %}{% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}{% if rel_date_str <= now_str %}{% assign rel_author_key = site.data.post_authors[rel.slug] %},{"t":{{ rel.title | jsonify }},"u":{{ rel.url | relative_url | jsonify }}{% if rel_author_key %}{% assign rel_author = site.data.authors_pool[rel_author_key] %}{% if rel_author %},"a":{{ rel_author.name | jsonify }},"av":{{ rel_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% assign seen_urls = seen_urls | append: rel.url | append: "|" %}{% assign output_count = output_count | plus: 1 %}{% endif %}{% endunless %}{% endfor %}{% endcapture %}
         {% assign items_str = items_str | strip %}
         {% if items_str != "" %}
           {% unless first_entry %},{% endunless %}{% assign first_entry = false %}
