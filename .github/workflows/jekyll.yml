@@ -1,6 +1,18 @@
 # Deploy Jekyll site to Pages
-# Push: image assignment + author assignment + build + deploy (fast)
-# Schedule/Manual: full maintenance (freshness, images, keywords, links, authors) + build + deploy
+#
+# Triggered on:
+#   - Push to main (fast):
+#       Assigns blog images to new posts, assigns authors, tags posts with
+#       language, then commits, builds, and deploys.
+#
+#   - Schedule, every 4 days at 6am UTC (full maintenance):
+#       Runs freshness rotation + meta variants, keyword audit, link
+#       extraction and checking, and regenerates _data/related_posts.yml
+#       so the related-posts modal stays at 100% coverage. Then commits,
+#       builds, and deploys.
+#
+#   - Manual workflow_dispatch:
+#       Same steps as schedule.
 name: Deploy Jekyll site to Pages
 
 on:
@@ -72,10 +84,19 @@ jobs:
         if: github.event_name == 'push'
         run: python _scripts/assign_authors.py
 
-      # ── Push only: language tagging ──
+      # ── Tag posts with language ──
       - name: Tag posts with language
         if: github.event_name == 'push'
         run: python _scripts/add_lang_field.py
+
+      # ── Schedule/manual only: regenerate related posts ──
+      # Runs before the commit step so _data/related_posts.yml gets
+      # committed back to the repo and stays in sync with _posts/.
+      # Skipped on push to keep push deploys fast; coverage catches up
+      # on the next scheduled run (every 4 days).
+      - name: Generate related posts data
+        if: github.event_name != 'push'
+        run: python _scripts/generate_related_posts.py
 
       # ── Commit automated changes ──
       - name: Commit automated post updates
@@ -84,14 +105,14 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _posts/ _data/post_authors.yml
           if [ "${{ github.event_name }}" != "push" ]; then
-            git add _data/freshness_manifest.json _data/meta_variants.json admin/keyword-audit-data.json admin/links-data.json _data/links_check_cache.json 2>/dev/null || true
+            git add _data/related_posts.yml _data/freshness_manifest.json _data/meta_variants.json admin/keyword-audit-data.json admin/links-data.json _data/links_check_cache.json 2>/dev/null || true
+            COMMIT_MSG="chore: scheduled refresh - freshness, keywords, links, related [skip ci]"
+          else
+            COMMIT_MSG="chore: push refresh - images, authors, language [skip ci]"
           fi
-          git diff --cached --quiet || git commit -m "chore: refresh posts - images, authors [skip ci]"
+          git diff --cached --quiet || git commit -m "$COMMIT_MSG"
           git push
 
-      - name: Generate related posts data
-        if: github.event_name == 'push'
-        run: python _scripts/generate_related_posts.py
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
