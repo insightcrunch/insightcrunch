@@ -328,6 +328,143 @@ article {
 .xf-msg.success{padding:6px 10px;background:#eef7e8;color:#2a6a1a;border:1px solid #c0deb0}
 .xf-msg.error{padding:6px 10px;background:#fdecea;color:#6a1a1a;border:1px solid #e8b0a8}
 @media(max-width:500px){.cat-form{width:calc(100vw - 16px);right:4px !important;bottom:96px !important}.cat-bub{right:auto;left:-155px;bottom:20px}}
+
+/* ════════════ RELATED POSTS BUTTON (inline in meta-dates row) ════════════ */
+.post-meta-dates .related-btn-meta{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:22px;height:19px;margin-left:2px;
+  background:transparent;border:1px solid var(--rule,#e8dcc0);
+  border-radius:100px;cursor:pointer;color:var(--soft,#999);
+  transition:all .15s;flex-shrink:0;padding:0;
+}
+.post-meta-dates .related-btn-meta svg{color:var(--soft,#999);transition:color .15s;display:block;}
+.post-meta-dates .related-btn-meta:hover{
+  background:var(--amber-bg,#fbf0d8);border-color:var(--amber-bd,#e8cc90);color:var(--amber,#b06010);
+}
+.post-meta-dates .related-btn-meta:hover svg{color:var(--amber,#b06010);}
+
+/* ════════════ RELATED POSTS MODAL ════════════ */
+.related-modal{
+  position:fixed;inset:0;z-index:9999;
+  background:rgba(26,18,8,.45);
+  backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
+  display:flex;align-items:center;justify-content:center;
+  padding:20px;opacity:0;pointer-events:none;
+  transition:opacity .2s;
+}
+.related-modal.open{opacity:1;pointer-events:auto;}
+.related-modal-inner{
+  background:linear-gradient(180deg,var(--s1,#fffcf7) 0%,var(--s2,#fdf6ee) 100%);
+  border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px;
+  max-width:560px;width:100%;max-height:80vh;
+  display:flex;flex-direction:column;overflow:hidden;
+  box-shadow:0 24px 60px rgba(120,80,20,.28),0 4px 14px rgba(120,80,20,.12);
+  transform:translateY(12px) scale(.98);transition:transform .25s;
+}
+.related-modal.open .related-modal-inner{transform:translateY(0) scale(1);}
+.rm-header{
+  background:linear-gradient(135deg,var(--amber,#b06010),var(--amber-lt,#d07820));
+  padding:16px 20px;position:relative;flex-shrink:0;
+}
+.rm-header .rm-lbl{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:'DM Sans',sans-serif;font-size:9.5px;font-weight:700;
+  color:rgba(255,255,255,.78);letter-spacing:1.5px;text-transform:uppercase;
+  margin-bottom:6px;
+}
+.rm-header .rm-lbl svg{width:11px;height:11px;color:rgba(255,255,255,.9);}
+.rm-header h3{
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-weight:600;
+  font-size:18px;color:#fff;margin:0;line-height:1.3;
+  padding-right:32px;letter-spacing:-.2px;
+}
+.rm-close{
+  position:absolute;top:14px;right:14px;
+  background:transparent;border:none;color:rgba(255,255,255,.7);
+  font-size:22px;line-height:1;cursor:pointer;padding:4px 8px;
+  border-radius:6px;transition:all .15s;
+}
+.rm-close:hover{color:#fff;background:rgba(255,255,255,.08);}
+.rm-body{
+  flex:1;overflow-y:auto;padding:6px 0;
+  scrollbar-width:thin;scrollbar-color:var(--rule,#e8dcc0) transparent;
+}
+.rm-body::-webkit-scrollbar{width:6px;}
+.rm-body::-webkit-scrollbar-thumb{background:var(--rule,#e8dcc0);border-radius:3px;}
+.rm-item{
+  display:grid;grid-template-columns:32px 1fr;gap:11px;
+  align-items:center;padding:11px 18px;cursor:pointer;
+  transition:background .15s;
+  border-bottom:1px solid rgba(225,210,168,.45);
+  text-decoration:none;color:inherit;
+}
+.rm-item:last-child{border-bottom:none;}
+.rm-item:hover{background:linear-gradient(90deg,rgba(176,96,16,.06) 0%,rgba(176,96,16,.04) 60%,transparent 100%);}
+.rm-item:hover .rm-title{color:var(--amber,#b06010);}
+.rm-item:hover .rm-av{
+  border-color:var(--amber,#b06010);
+  box-shadow:0 0 0 1.5px var(--s1,#fffcf7),0 0 0 2.5px var(--amber-bg,#fbf0d8),0 2px 5px -2px rgba(176,96,16,.4);
+}
+.rm-av{
+  width:32px;height:32px;border-radius:50%;
+  object-fit:cover;display:block;
+  border:1px solid rgba(26,18,8,.12);
+  box-shadow:0 0 0 1.5px var(--s1,#fffcf7),0 0 0 2.5px #f0e7cf,0 2px 5px -2px rgba(26,18,8,.25);
+  filter:contrast(1.02) saturate(.95);
+  transition:all .25s;
+}
+.rm-info{min-width:0;}
+.rm-title{
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-weight:600;
+  font-size:14px;line-height:1.25;color:var(--ink,#1a1208);
+  margin-bottom:3px;transition:color .2s;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
+}
+.rm-meta{
+  font-family:'DM Sans',sans-serif;font-size:9px;font-weight:600;
+  color:var(--soft,#999);letter-spacing:.9px;text-transform:uppercase;
+  line-height:1.3;display:flex;align-items:center;gap:6px;flex-wrap:wrap;
+}
+.rm-meta b{color:var(--mid,#3e3020);font-weight:700;text-transform:none;letter-spacing:.1px;
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-size:11px;}
+.rm-meta .sep{color:#d0c4a0;}
+.rm-meta .live{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:'DM Sans',sans-serif;font-size:10px;font-weight:700;
+  color:var(--ink,#1a1208);font-variant-numeric:tabular-nums;
+  text-transform:none;letter-spacing:0;
+}
+.rm-meta .live .lv-dot{
+  position:relative;width:7px;height:7px;border-radius:50%;
+  background:var(--amber-lt,#d07820);flex-shrink:0;
+  box-shadow:0 0 0 0 rgba(208,120,32,.7);
+  animation:rm-livepulse 1.6s ease-out infinite;
+}
+.rm-meta .live .lv-dot::before{
+  content:'';position:absolute;inset:-2px;border-radius:50%;
+  background:var(--amber-lt,#d07820);opacity:0;
+  animation:rm-liveripple 1.6s ease-out infinite;
+}
+.rm-meta .live .num{transition:color .25s, transform .25s;display:inline-block;}
+.rm-meta .live .num.bumped{color:var(--amber,#b06010);transform:scale(1.08);}
+@keyframes rm-livepulse{
+  0%   { box-shadow:0 0 0 0 rgba(208,120,32,.65); }
+  70%  { box-shadow:0 0 0 5px rgba(208,120,32,0); }
+  100% { box-shadow:0 0 0 0 rgba(208,120,32,0); }
+}
+@keyframes rm-liveripple{
+  0%   { transform:scale(.6); opacity:.5; }
+  100% { transform:scale(2.4); opacity:0; }
+}
+.rm-footer{
+  padding:11px 18px;border-top:1px solid var(--rule,#e8dcc0);
+  text-align:center;background:rgba(245,240,232,.5);flex-shrink:0;
+}
+.rm-footer a{
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-size:12px;
+  color:var(--amber,#b06010);text-decoration:none;font-weight:500;
+}
+.rm-footer a:hover{color:var(--amber-lt,#d07820);text-decoration:underline;}
 </style>
 
 <div class="progress-container"><div class="progress-bar" id="progressBar"></div></div>
@@ -355,6 +492,9 @@ article {
         <span>{{ page.date | date: "%B %-d, %Y" }}</span>
         {% if page.last_updated %}<span class="sep">&middot;</span><span>Updated {{ page.last_updated | date: "%B %-d, %Y" }}</span>{% endif %}
         {% if page.read_time %}<span class="sep">&middot;</span><span>{{ page.read_time }} min read</span>{% endif %}
+        <button class="related-btn-meta" type="button" onclick="openPostRelatedModal()" aria-label="Related stories" title="Related stories">
+          <svg width="12" height="11" viewBox="0 0 14 12" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><circle cx="2" cy="3" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="3" x2="12" y2="3"/><circle cx="2" cy="6" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="6" x2="12" y2="6"/><circle cx="2" cy="9" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="9" x2="12" y2="9"/></svg>
+        </button>
       </div>
     </div>
 
@@ -484,6 +624,24 @@ article {
 </script>
 
 </article>
+
+<!-- ══════ RELATED POSTS MODAL (opened from the three-dot button in meta-dates row) ══════ -->
+<div class="related-modal" id="postRelatedModal">
+  <div class="related-modal-inner">
+    <div class="rm-header">
+      <div class="rm-lbl">
+        <svg viewBox="0 0 14 12" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><circle cx="2" cy="3" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="3" x2="12" y2="3"/><circle cx="2" cy="6" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="6" x2="12" y2="6"/><circle cx="2" cy="9" r="0.9" fill="currentColor" stroke="none"/><line x1="5" y1="9" x2="12" y2="9"/></svg>
+        Related stories
+      </div>
+      <h3>{{ page.title | escape }}</h3>
+      <button class="rm-close" type="button" onclick="closePostRelatedModal()" aria-label="Close">&times;</button>
+    </div>
+    <div class="rm-body" id="postRmBody"></div>
+    <div class="rm-footer">
+      <a href="{{ '/' | relative_url }}">Discover more from Insight Crunch &rarr;</a>
+    </div>
+  </div>
+</div>
 
 {% if author %}
 <!-- ══════ CAT ASSISTANT ══════ -->
@@ -733,7 +891,7 @@ var CAT_DIALOG={
    language not yet translated (ta, te, kn, ml, ur today). */
 var CL=CAT_DIALOG[PAGE_LANG]||CAT_DIALOG.en;
 function interp(s){return s.replace(/\{POST_TITLE\}/g,POST_TITLE).replace(/\{AUTHOR_FIRST\}/g,AUTHOR_FIRST);}
-var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign now_str = site.time | date: "%Y-%m-%d" %}{% assign rp_count = 0 %}{% for rel in site.data.related_posts[rp_slug] %}{% if rp_count >= 6 %}{% break %}{% endif %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= now_str %}{% if rel.lang == nil or page.lang == nil or rel.lang == page.lang %}{t:{{ rel.title | jsonify }},u:"{{ rel.url | relative_url }}"},{% assign rp_count = rp_count | plus: 1 %}{% endif %}{% endif %}{% endfor %}{% endif %}];
+var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign rp_now = site.time | date: "%Y-%m-%d" %}{% assign rp_parent_lang = page.lang | default: "en" %}{% assign rp_seen_authors = "|" %}{% assign rp_seen_urls = "|" %}{% assign rp_count = 0 %}{% assign rp_first = true %}{% for rel in site.data.related_posts[rp_slug] %}{% if rp_count >= 5 %}{% break %}{% endif %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= rp_now %}{% assign rp_lang_ok = true %}{% if rel.lang and rel.lang != rp_parent_lang %}{% assign rp_lang_ok = false %}{% endif %}{% if rp_lang_ok %}{% assign rp_author_key = site.data.post_authors[rel.slug] %}{% assign rp_is_unique = true %}{% if rp_author_key %}{% assign rp_marker = "|" | append: rp_author_key | append: "|" %}{% if rp_seen_authors contains rp_marker %}{% assign rp_is_unique = false %}{% endif %}{% endif %}{% if rp_is_unique %}{% unless rp_first %},{% endunless %}{% assign rp_first = false %}{t:{{ rel.title | jsonify }},u:{{ rel.url | relative_url | jsonify }}{% if rp_author_key %}{% assign rp_author = site.data.authors_pool[rp_author_key] %}{% if rp_author %},a:{{ rp_author.name | jsonify }},av:{{ rp_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% if rp_author_key %}{% assign rp_seen_authors = rp_seen_authors | append: rp_author_key | append: "|" %}{% endif %}{% assign rp_seen_urls = rp_seen_urls | append: rel.url | append: "|" %}{% assign rp_count = rp_count | plus: 1 %}{% endif %}{% endif %}{% endif %}{% endfor %}{% for rel in site.data.related_posts[rp_slug] %}{% if rp_count >= 5 %}{% break %}{% endif %}{% assign rp_url_marker = "|" | append: rel.url | append: "|" %}{% unless rp_seen_urls contains rp_url_marker %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= rp_now %}{% assign rp_lang_ok = true %}{% if rel.lang and rel.lang != rp_parent_lang %}{% assign rp_lang_ok = false %}{% endif %}{% if rp_lang_ok %}{% assign rp_author_key = site.data.post_authors[rel.slug] %}{% unless rp_first %},{% endunless %}{% assign rp_first = false %}{t:{{ rel.title | jsonify }},u:{{ rel.url | relative_url | jsonify }}{% if rp_author_key %}{% assign rp_author = site.data.authors_pool[rp_author_key] %}{% if rp_author %},a:{{ rp_author.name | jsonify }},av:{{ rp_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% assign rp_seen_urls = rp_seen_urls | append: rel.url | append: "|" %}{% assign rp_count = rp_count | plus: 1 %}{% endif %}{% endif %}{% endunless %}{% endfor %}{% endif %}];
 var relPostIntros=CL.relPostIntros;
 var catW=document.getElementById('catW'),catBox=document.getElementById('catBox'),bub=document.getElementById('bub'),bubT=document.getElementById('bubT'),catForm=document.getElementById('catForm');
 var pupilL=document.getElementById('pupilL'),pupilR=document.getElementById('pupilR'),irisL=document.getElementById('irisL'),irisR=document.getElementById('irisR'),irisInL=document.getElementById('irisInL'),irisInR=document.getElementById('irisInR');
@@ -871,6 +1029,94 @@ document.getElementById('catFbForm').addEventListener('submit',function(e){e.pre
 /* start */
 function startLife(){timers.push(setInterval(function(){if(Math.random()>0.35)doBlink()},3000));timers.push(setInterval(function(){if(Math.random()>0.7)doSlowBlink()},8000));timers.push(setInterval(doTrick,3400));timers.push(setInterval(showIdleBub,7500));timers.push(setInterval(doWander,9000));timers.push(setInterval(doMouthCycle,2200));timers.push(setInterval(doRain,60000));timers.push(setInterval(function(){if(Math.random()>0.5)showTreat()},20000));setTimeout(showTreat,10000);setTimeout(doRain,10000)}
 setTimeout(function(){showBub(rPick(greetMsgs),5500,true);startLife()},1400);
+
+/* ═══ Related Posts Modal (opened by three-dot button in meta-dates row) ═══ */
+(function(){
+  var modal = document.getElementById('postRelatedModal');
+  var bodyEl = document.getElementById('postRmBody');
+  if (!modal || !bodyEl) return;
+
+  function hashStr(s) {
+    var h = 0;
+    for (var i = 0; i < s.length; i++) { h = ((h << 5) - h) + s.charCodeAt(i); h |= 0; }
+    return Math.abs(h);
+  }
+
+  /* Tick live reader counts on any .live .num in the modal not yet ticking */
+  function startModalLiveReaders() {
+    var nodes = modal.querySelectorAll('.live .num:not([data-ticking])');
+    function bump(el, newVal) {
+      el.textContent = newVal.toLocaleString();
+      el.dataset.readers = newVal;
+      el.classList.add('bumped');
+      setTimeout(function(){ el.classList.remove('bumped'); }, 500);
+    }
+    nodes.forEach(function(el, i) {
+      el.dataset.ticking = '1';
+      setTimeout(function() {
+        var tick = function() {
+          var cur = parseInt(el.dataset.readers, 10);
+          var change = Math.floor(Math.random() * 11) - 4;
+          var next = Math.max(1, cur + change);
+          if (next !== cur) bump(el, next);
+          setTimeout(tick, 1800 + Math.random() * 2400);
+        };
+        tick();
+      }, i * 350 + Math.random() * 600);
+    });
+  }
+
+  window.openPostRelatedModal = function() {
+    bodyEl.innerHTML = '';
+    if (!RELATED_POSTS || RELATED_POSTS.length === 0) {
+      bodyEl.innerHTML = '<div style="padding:24px 18px;text-align:center;color:var(--soft,#999);font-family:Newsreader,Lora,Georgia,serif;font-style:italic;font-size:13px;">No related stories for this post yet.</div>';
+    } else {
+      RELATED_POSTS.forEach(function(rel) {
+        var seedKey = rel.u || rel.t || '';
+        var seed = 80 + (hashStr(seedKey) % 3420);
+        var item = document.createElement('a');
+        item.className = 'rm-item';
+        item.href = rel.u || '#';
+        var html = '';
+        if (rel.av) {
+          html += '<img class="rm-av" src="' + rel.av + '" alt="" loading="lazy" onerror="this.onerror=null;this.src=\'data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\'">';
+        } else {
+          html += '<span class="rm-av" style="background:var(--rule,#e8dcc0)"></span>';
+        }
+        html += '<div class="rm-info">';
+        html += '<div class="rm-title">' + (rel.t || '') + '</div>';
+        html += '<div class="rm-meta">';
+        if (rel.a) html += 'by <b>' + rel.a + '</b><span class="sep">\u00b7</span>';
+        html += '<span class="live"><span class="lv-dot"></span>';
+        html += '<span class="num" data-readers="' + seed + '">' + seed.toLocaleString() + '</span>';
+        html += '</span>';
+        html += '</div></div>';
+        item.innerHTML = html;
+        bodyEl.appendChild(item);
+      });
+    }
+    modal.classList.add('open');
+    document.body.style.overflow = 'hidden';
+    startModalLiveReaders();
+  };
+
+  window.closePostRelatedModal = function() {
+    modal.classList.remove('open');
+    document.body.style.overflow = '';
+  };
+
+  /* Close on backdrop click */
+  modal.addEventListener('click', function(e) {
+    if (e.target === modal) window.closePostRelatedModal();
+  });
+
+  /* Close on Escape */
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && modal.classList.contains('open')) {
+      window.closePostRelatedModal();
+    }
+  });
+})();
 })();
 </script>
 {% endif %}
