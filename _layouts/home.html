@@ -32,7 +32,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
 
 .related-modal{
   position:fixed;inset:0;z-index:9999;
-  background:rgba(20,12,4,.55);
+  background:rgba(26,18,8,.45);
   backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);
   display:flex;align-items:center;justify-content:center;
   padding:20px;opacity:0;pointer-events:none;
@@ -40,28 +40,29 @@ per post. Search / load-more remain wired to assets/js/main.js.
 }
 .related-modal.open{opacity:1;pointer-events:auto;}
 .related-modal-inner{
-  background:var(--s1);border:1px solid var(--rule);border-radius:12px;
+  background:linear-gradient(180deg,var(--s1) 0%,var(--s2) 100%);
+  border:1.5px solid var(--amber-bd);border-radius:14px;
   max-width:560px;width:100%;max-height:80vh;
   display:flex;flex-direction:column;overflow:hidden;
-  box-shadow:0 30px 80px -20px rgba(20,12,4,.6);
+  box-shadow:0 24px 60px rgba(120,80,20,.28),0 4px 14px rgba(120,80,20,.12);
   transform:translateY(12px) scale(.98);transition:transform .25s;
 }
 .related-modal.open .related-modal-inner{transform:translateY(0) scale(1);}
 .rm-header{
-  background:linear-gradient(170deg,#1e1008 0%,#281808 60%,#100800 100%);
+  background:linear-gradient(135deg,var(--amber),var(--amber-lt));
   padding:16px 20px;position:relative;flex-shrink:0;
 }
 .rm-header .rm-lbl{
   display:inline-flex;align-items:center;gap:6px;
   font-family:'DM Sans',sans-serif;font-size:9.5px;font-weight:700;
-  color:rgba(255,255,255,.55);letter-spacing:1.5px;text-transform:uppercase;
+  color:rgba(255,255,255,.78);letter-spacing:1.5px;text-transform:uppercase;
   margin-bottom:6px;
 }
-.rm-header .rm-lbl svg{width:11px;height:11px;color:rgba(255,255,255,.78);}
+.rm-header .rm-lbl svg{width:11px;height:11px;color:rgba(255,255,255,.9);}
 .rm-header h3{
-  font-family:'Lora',Georgia,serif;font-style:italic;font-weight:500;
-  font-size:18px;color:rgba(255,255,255,.92);margin:0;line-height:1.3;
-  padding-right:32px;
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-weight:600;
+  font-size:18px;color:#fff;margin:0;line-height:1.3;
+  padding-right:32px;letter-spacing:-.2px;
 }
 .rm-close{
   position:absolute;top:14px;right:14px;
@@ -100,7 +101,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
 }
 .rm-info{min-width:0;}
 .rm-title{
-  font-family:'Lora',Georgia,serif;font-style:italic;font-weight:600;
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-weight:600;
   font-size:14px;line-height:1.25;color:var(--ink);
   margin-bottom:3px;transition:color .2s;
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;
@@ -111,7 +112,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
   line-height:1.3;display:flex;align-items:center;gap:6px;flex-wrap:wrap;
 }
 .rm-meta b{color:var(--mid);font-weight:700;text-transform:none;letter-spacing:.1px;
-  font-family:'Lora',Georgia,serif;font-style:italic;font-size:11px;}
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-size:11px;}
 .rm-meta .sep{color:#d0c4a0;}
 
 /* Live readers reused inside modal items (de-scoped from #postList) */
@@ -143,7 +144,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
   text-align:center;background:rgba(245,240,232,.5);flex-shrink:0;
 }
 .rm-footer a{
-  font-family:'Lora',Georgia,serif;font-style:italic;font-size:12px;
+  font-family:'Newsreader','Lora',Georgia,serif;font-style:italic;font-size:12px;
   color:var(--amber);text-decoration:none;font-weight:500;
 }
 .rm-footer a:hover{color:var(--amber-lt);text-decoration:underline;}
@@ -767,28 +768,15 @@ per post. Search / load-more remain wired to assets/js/main.js.
        Limited to 5 per post. */
     var RELATED_BY_SLUG = {
       {% assign first_entry = true %}
+      {% assign now_str = site.time | date: "%Y-%m-%d" %}
       {% for entry in site.data.related_posts %}
         {% assign post_slug = entry[0] %}
         {% assign rel_list = entry[1] %}
-        {% if rel_list and rel_list.size > 0 %}
-        {% unless first_entry %},{% endunless %}{% assign first_entry = false %}
-        {{ post_slug | jsonify }}: [
-          {% for rel in rel_list limit:5 %}
-            {% unless forloop.first %},{% endunless %}
-            {
-              "t": {{ rel.title | jsonify }},
-              "u": {{ rel.url | relative_url | jsonify }}
-              {% assign rel_author_key = site.data.post_authors[rel.slug] %}
-              {% if rel_author_key %}
-                {% assign rel_author = site.data.authors_pool[rel_author_key] %}
-                {% if rel_author %}
-              ,"a": {{ rel_author.name | jsonify }}
-              ,"av": {{ rel_author.avatar | relative_url | jsonify }}
-                {% endif %}
-              {% endif %}
-            }
-          {% endfor %}
-        ]
+        {% capture items_str %}{% assign output_count = 0 %}{% for rel in rel_list %}{% if output_count < 5 %}{% assign url_parts = rel.url | split: "/" %}{% assign rel_date_str = url_parts[1] | append: "-" | append: url_parts[2] | append: "-" | append: url_parts[3] %}{% if rel_date_str <= now_str %}{% unless output_count == 0 %},{% endunless %}{"t":{{ rel.title | jsonify }},"u":{{ rel.url | relative_url | jsonify }}{% assign rel_author_key = site.data.post_authors[rel.slug] %}{% if rel_author_key %}{% assign rel_author = site.data.authors_pool[rel_author_key] %}{% if rel_author %},"a":{{ rel_author.name | jsonify }},"av":{{ rel_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% assign output_count = output_count | plus: 1 %}{% endif %}{% endif %}{% endfor %}{% endcapture %}
+        {% assign items_str = items_str | strip %}
+        {% if items_str != "" %}
+          {% unless first_entry %},{% endunless %}{% assign first_entry = false %}
+          {{ post_slug | jsonify }}:[{{ items_str }}]
         {% endif %}
       {% endfor %}
     };
