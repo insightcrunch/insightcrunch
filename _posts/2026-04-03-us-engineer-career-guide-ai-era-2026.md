@@ -4,7 +4,7 @@ title: "What US Citizen Engineers Can Actually Do Right Now: The Complete Career
 date: 2026-04-03
 categories: ["Industry"]
 tags: ["US Engineers", "Tech Layoffs 2026", "AI Careers", "Software Engineering", "Career Pivot", "MLOps", "AI Skills", "Reskilling", "Defense Tech", "Cybersecurity", "Career Strategy"]
-excerpt: "A 25,000-word evidence-based playbook exclusively for US citizen engineers navigating the 2026 AI displacement wave. Covers which roles are dying, which are surging, the specific skills that command $170K-$350K+ salaries, citizenship-gated career paths unavailable to visa holders, retraining timelines, geographic moves worth making, and a 90-day action plan for engineers at every stage."
+excerpt: "An evidence-based playbook exclusively for US citizen engineers navigating the 2026 AI displacement wave. Covers which roles are dying, which are surging, the specific skills that command $170K-$350K+ salaries, citizenship-gated career paths unavailable to visa holders, retraining timelines, geographic moves worth making, and a 90-day action plan for engineers at every stage."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 90
 author: "ryan-walsh"
