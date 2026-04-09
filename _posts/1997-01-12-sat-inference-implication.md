@@ -9,7 +9,7 @@ excerpt: "The definitive guide to Digital SAT inference questions - the must-be-
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 61
 author: "natalie-webb"
-last_updated: 1997-01-12
+last_updated: 2026-04-09
 lang: en
 ---
 Inference questions on the Digital SAT ask what the passage implies - what logically follows from what is stated, even though it is not directly stated. The skill they test is precision: not what could be true from the passage, not what is probably true from real-world knowledge, but what must be true given exactly what the passage says.

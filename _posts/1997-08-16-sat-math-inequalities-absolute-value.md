@@ -5,11 +5,11 @@ page_title: "SAT Math Inequalities and Absolute Value: Complete Guide for the Di
 date: 1997-08-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Inequalities", "Absolute Value", "Algebra"]
-excerpt: "Master SAT inequalities and absolute value: linear, compound, systems, quadratic inequalities, number lines, and Desmos strategies for the Digital SAT."
+excerpt: "Master SAT inequality questions across linear, compound, and absolute value types with worked examples."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "patrick-dunn"
-last_updated: 1997-08-16
+last_updated: 2026-04-09
 lang: en
 ---
 Inequalities and absolute value questions are among the highest-frequency algebra topics on the Digital SAT. They appear three to five times per test, which means a student who masters them can reliably pick up more points here than from almost any other single topic in the Algebra domain. Despite this frequency, they produce a disproportionate number of errors, and the reason is always the same: students learn the surface-level mechanics of solving inequalities but never internalize the three critical traps that the College Board exploits on every test. Those traps are predictable, finite in number, and completely defeatable with the right preparation.

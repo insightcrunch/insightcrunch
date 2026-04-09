@@ -9,7 +9,7 @@ excerpt: "The definitive guide to Digital SAT tone and attitude questions - the 
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
 author: "christopher-wells"
-last_updated: 1996-12-20
+last_updated: 2026-04-09
 lang: en
 ---
 Tone questions on the Digital SAT require precision. "Positive" and "negative" are not acceptable answers - the test offers four answer choices that may all be broadly positive or all broadly negative, differing only in their specific emotional quality.

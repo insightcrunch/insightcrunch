@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims time management complete strategy for the 120 minute exam
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-02-03
+last_updated: 2026-04-09
 lang: en
 ---
 Time management within the 120 minute UPSC Prelims examination is one of the most consequential strategic skills that aspirants must develop because the binary qualifying nature of the examination means that good knowledge combined with poor time management consistently produces failure outcomes that better time management would have prevented. The UPSC Prelims GS Paper 1 contains 100 multiple choice questions to be answered in 120 minutes which provides exactly 1.2 minutes per question on average if you attempted every question with uniform time allocation. The CSAT Paper 2 contains 80 questions in the same 120 minutes which provides 1.5 minutes per question on average. These average allocations are misleading because the actual optimal allocation distributes time non uniformly across questions of different difficulty and importance, with the strategic discipline of allocating more time to high value questions while skipping or quickly attempting low value questions producing dramatically better outcomes than mechanical uniform allocation would.

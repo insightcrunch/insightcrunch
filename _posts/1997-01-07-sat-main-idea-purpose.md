@@ -9,7 +9,7 @@ excerpt: "The definitive guide to Digital SAT main idea, purpose, and central cl
 image: "/assets/images/blog/blog-86.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 1997-01-07
+last_updated: 2026-04-09
 lang: en
 ---
 Main idea, purpose, and central claim questions on the Digital SAT ask about the overall point and function of a passage - not individual details, but what the passage as a whole is arguing or doing. These questions are among the most frequently appearing question types in each module and appear across all difficulty levels. These questions consistently have specific wrong answer patterns that are designed to catch students who have only partial comprehension of the passage. Understanding those patterns in advance converts these questions from guesswork into reliable correct answers.

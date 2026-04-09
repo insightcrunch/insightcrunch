@@ -9,7 +9,7 @@ excerpt: "Data-driven analysis of Digital SAT RW question distribution 2023-2026
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 61
 author: "samantha-lee"
-last_updated: 1996-12-11
+last_updated: 2026-04-09
 lang: en
 ---
 Every hour spent preparing for the Digital SAT RW section should be allocated based on how frequently different question types actually appear. The alternative - spending equal time on all question types - is systematically inefficient.

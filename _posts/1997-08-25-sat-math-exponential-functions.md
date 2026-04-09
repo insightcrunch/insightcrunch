@@ -5,11 +5,11 @@ page_title: "SAT Math Exponential Functions: Complete Guide to Growth and Decay 
 date: 1997-08-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Exponential Functions", "Test Prep", "Algebra"]
-excerpt: "Master SAT exponential functions: growth, decay, compound interest, and Desmos strategies for the Digital SAT."
+excerpt: "Master SAT exponential questions with growth and decay templates and the compound interest shortcut."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 62
 author: "daniel-morgan"
-last_updated: 1997-08-25
+last_updated: 2026-04-09
 lang: en
 ---
 Exponential functions appear on every single administration of the Digital SAT. They show up roughly two to four times per test, and because the College Board loves placing them in the harder Module 2 questions, getting them right carries outsized scoring weight. A student who masters exponential growth and decay can expect to gain two to four points on the 800-point Math scale from those questions alone, which is exactly the kind of targeted, high-leverage improvement that separates a 1300 from a 1350 or a 1450 from a 1500. The students who miss these questions are almost never missing them because the math is inherently difficult. They miss them because of a handful of specific, predictable traps that the College Board has been setting for years and that very few students recognize as patterns until someone points them out directly.

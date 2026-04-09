@@ -9,7 +9,7 @@ excerpt: "The definitive guide to paired/dual text questions on the Digital SAT 
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 61
 author: "daniel-morgan"
-last_updated: 1997-01-21
+last_updated: 2026-04-09
 lang: en
 ---
 Paired passage questions on the Digital SAT present two short texts on the same topic and ask how they relate. Every four answer choices describe some kind of relationship between the texts - the challenge is identifying which one accurately captures the specific relationship the question asks about. The most common trap: an answer that correctly describes one author's position while mischaracterizing the other's.

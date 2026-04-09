@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T16:34:21Z",
-  "total_posts": 1350,
-  "flagged_posts": 92,
-  "clean_posts": 1258,
+  "generated": "2026-04-09T10:19:56Z",
+  "total_posts": 1405,
+  "flagged_posts": 94,
+  "clean_posts": 1311,
   "posts": [
     {
       "filename": "2024-03-04-gaokao-sjtu-admission-guide.md",
@@ -81,6 +81,74 @@
       ],
       "critical_count": 1,
       "warning_count": 2
+    },
+    {
+      "filename": "2017-10-11-londone-feluda-feluda-in-london-bn.md",
+      "slug": "londone-feluda-feluda-in-london-bn",
+      "url": "/2017/10/11/londone-feluda-feluda-in-london-bn/",
+      "title": "লন্ডনে ফেলুদা: বেকার স্ট্রিটের তীর্থযাত্রা",
+      "page_title": "লন্ডনে ফেলুদা - বেকার স্ট্রিটে শার্লক হোমসের সঙ্গে এক সাহিত্যিক তীর্থযাত্রা, বাঙালি ভদ্রলোকের লন্ডন-সম্পর্কের দীর্ঘ ঐতিহাসিক প্রসঙ্গ, এবং দেরিতে-পর্বের রায়ের আত্ম-প্রতিফলন",
+      "has_page_title": true,
+      "date": "2017-10-11",
+      "word_count": 4957,
+      "issues": [
+        {
+          "keyword": "london",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"london\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "london",
+          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
+          "severity": "critical",
+          "detail": "\"london\" is in the URL slug but never appears in the body",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 0
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 1
+    },
+    {
+      "filename": "2017-12-24-jatayu-pulp-career-meta-fiction-bn.md",
+      "slug": "jatayu-pulp-career-meta-fiction-bn",
+      "url": "/2017/12/24/jatayu-pulp-career-meta-fiction-bn/",
+      "title": "লালমোহন গাঙ্গুলির পাল্প-জীবন: জটায়ুর বইয়ের ভেতরের বইগুলি পড়া",
+      "page_title": "জটায়ুর পাল্প-জীবন - লালমোহন গাঙ্গুলির কাল্পনিক গ্রন্থপঞ্জি, বাঙালি পাল্প গোয়েন্দা সাহিত্যের ঐতিহ্য, এবং ফেলুদা ক্যাননের ভেতরের একটি মেটা-সাহিত্যিক স্তর",
+      "has_page_title": true,
+      "date": "2017-12-24",
+      "word_count": 4962,
+      "issues": [
+        {
+          "keyword": "meta",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"meta\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "meta",
+          "type": "SLUG_KEYWORD_MISSING_FROM_BODY",
+          "severity": "critical",
+          "detail": "\"meta\" is in the URL slug but never appears in the body",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 0
+        }
+      ],
+      "critical_count": 1,
+      "warning_count": 1
     },
     {
       "filename": "2024-12-25-gaokao-shanghai-guide.md",

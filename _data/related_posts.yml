@@ -1,9 +1,9 @@
-sat-rw-hardest-question-types:
-- slug: sat-math-hardest-question-types
-  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
-  url: /1997/05/22/sat-math-hardest-question-types/
+sat-rw-last-2-weeks-checklist:
+- slug: sat-math-last-2-weeks-checklist
+  title: 'SAT Math: Last 2 Weeks Review Checklist'
+  url: /1997/04/16/sat-math-last-2-weeks-checklist/
   category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
 - slug: how-to-improve-sat-reading-writing-score
   title: How to Improve Your SAT Reading and Writing Score by 100+ Points
@@ -11,47 +11,23 @@ sat-rw-hardest-question-types:
   category: industry
   image: /assets/images/blog/blog-46.webp
   lang: en
-- slug: sat-rhetorical-synthesis-guide
-  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
-  url: /1997/03/29/sat-rhetorical-synthesis-guide/
+- slug: sat-test-day-complete-guide
+  title: 'SAT Test Day: Everything You Need to Know'
+  url: /2020/10/30/sat-test-day-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-90.webp
   lang: en
-- slug: sat-rw-pacing-strategy
-  title: 'SAT RW Pacing: 27 Questions in 32 Minutes Per Module'
-  url: /1997/01/30/sat-rw-pacing-strategy/
+- slug: sat-rw-hardest-question-types
+  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
+  url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
-  image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: sat-transitions-logical-flow-questions-guide
-  title: 'SAT Transitions: Master Every Logical Connector Question'
-  url: /2020/02/25/sat-transitions-logical-flow-questions-guide/
-  category: industry
-  image: /assets/images/blog/blog-02.webp
-  lang: en
-- slug: sat-college-board-question-bank-strategy
-  title: 'SAT College Board Question Bank: How to Use It Strategically'
-  url: /2020/04/29/sat-college-board-question-bank-strategy/
-  category: industry
-  image: /assets/images/blog/blog-18.webp
-  lang: en
-- slug: sat-score-benchmarks-by-college-tier
-  title: SAT Score Benchmarks by College Tier and Major
-  url: /2020/06/08/sat-score-benchmarks-by-college-tier/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-59.webp
   lang: en
 - slug: sat-scores-for-ivy-league-admission
   title: 'SAT Scores for Ivy League: What You Really Need'
   url: /2020/07/10/sat-scores-for-ivy-league-admission/
   category: industry
   image: /assets/images/blog/blog-68.webp
-  lang: en
-- slug: sat-scores-required-top-50-us-universities
-  title: SAT Scores Required for Top 50 US Universities
-  url: /2020/07/18/sat-scores-required-top-50-us-universities/
-  category: industry
-  image: /assets/images/blog/blog-23.webp
   lang: en
 - slug: sat-preparation-for-students-with-learning-differences
   title: 'SAT for Students With Learning Differences: Preparation Strategies'
@@ -65,18 +41,341 @@ sat-rw-hardest-question-types:
   category: industry
   image: /assets/images/blog/blog-48.webp
   lang: en
-sat-rw-pacing-strategy:
-- slug: sat-math-pacing-strategy
-  title: 'SAT Math: Pacing 22 Questions in 35 Minutes Per Module'
-  url: /1997/05/27/sat-math-pacing-strategy/
+- slug: how-to-go-from-1200-to-1400-on-sat
+  title: How to Go from 1200 to 1400 on the SAT
+  url: /2021/02/03/how-to-go-from-1200-to-1400-on-sat/
   category: industry
-  image: /assets/images/blog/blog-10.webp
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+sat-rw-past-question-analysis:
+- slug: sat-math-past-question-analysis
+  title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
+  url: /1997/04/21/sat-math-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
   lang: en
 - slug: how-to-improve-sat-reading-writing-score
   title: How to Improve Your SAT Reading and Writing Score by 100+ Points
   url: /2021/01/18/how-to-improve-sat-reading-writing-score/
   category: industry
   image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: sat-study-schedule-for-busy-students
+  title: 'SAT Preparation for Busy Students: Study Plan With Limited Time'
+  url: /2020/12/17/sat-study-schedule-for-busy-students/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+sat-rw-common-mistakes:
+- slug: sat-preparation-mistakes-that-cost-100-points
+  title: SAT Preparation Mistakes That Cost Students 100+ Points
+  url: /2020/01/24/sat-preparation-mistakes-that-cost-100-points/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: sat-math-careless-mistakes
+  title: 'SAT Math: Common Careless Mistakes and How to Eliminate Them'
+  url: /1997/05/18/sat-math-careless-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+sat-tone-attitude-questions:
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-reading-science-passages
+  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
+  url: /1997/04/12/sat-reading-science-passages/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+sat-poetry-verse-strategy:
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: sat-reading-passage-types-evidence-questions-guide
+  title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
+  url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: psat-to-sat-preparation-pathway-guide
+  title: 'PSAT to SAT: How to Use PSAT Results to Maximize SAT Performance'
+  url: /2020/02/01/psat-to-sat-preparation-pathway-guide/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+sat-quantitative-data-passages:
+- slug: sat-data-interpretation-reading-passages-guide
+  title: 'SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy'
+  url: /2020/02/17/sat-data-interpretation-reading-passages-guide/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: sat-command-of-evidence
+  title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
+  url: /1997/03/25/sat-command-of-evidence/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+sat-transitions-mastery:
+- slug: sat-expression-of-ideas-complete-guide
+  title: 'SAT Expression of Ideas: Transitions, Synthesis, and Strategy'
+  url: /2021/02/27/sat-expression-of-ideas-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: sat-transitions-logical-flow-questions-guide
+  title: 'SAT Transitions: Master Every Logical Connector Question'
+  url: /2020/02/25/sat-transitions-logical-flow-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-verb-tense-mood
+  title: 'SAT Writing: Verb Tense, Mood and Agreement in Complex Sentences'
+  url: /1997/02/17/sat-verb-tense-mood/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: sat-accommodations-extended-time-guide
+  title: 'SAT Accommodations: Extended Time and Support Services Guide'
+  url: /2020/10/06/sat-accommodations-extended-time-guide/
+  category: industry
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+sat-main-idea-purpose:
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-craft-structure-questions
+  title: 'SAT Craft and Structure Questions: Purpose, Audience and Text Structure'
+  url: /1997/03/16/sat-craft-structure-questions/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: sat-transitions-logical-flow-questions-guide
+  title: 'SAT Transitions: Master Every Logical Connector Question'
+  url: /2020/02/25/sat-transitions-logical-flow-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: sat-vs-gre-vs-gmat-understanding-us-standardized-tests
+  title: 'SAT vs GRE vs GMAT: Understanding US Standardized Tests'
+  url: /2020/02/09/sat-vs-gre-vs-gmat-understanding-us-standardized-tests/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+sat-inference-implication:
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-tone-attitude-questions
+  title: 'SAT Reading: Tone, Attitude and Author''s Perspective Questions'
+  url: /1996/12/20/sat-tone-attitude-questions/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: sat-reading-science-passages
+  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
+  url: /1997/04/12/sat-reading-science-passages/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: sat-registration-process-step-by-step
+  title: 'SAT Registration: Complete Step-by-Step Guide'
+  url: /2020/10/22/sat-registration-process-step-by-step/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+sat-advanced-vocabulary:
+- slug: sat-vocabulary-in-context-complete-guide
+  title: 'SAT Vocabulary in Context: How to Master Word Meaning Questions'
+  url: /2021/03/07/sat-vocabulary-in-context-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-reading-passage-types-evidence-questions-guide
+  title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
+  url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+sat-cross-text-connections:
+- slug: sat-reading-comprehension-passage-strategies
+  title: 'SAT Reading Comprehension: Passage Strategies That Work'
+  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: sat-reading-passage-types-evidence-questions-guide
+  title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
+  url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: sat-error-analysis-mistake-journal-guide
+  title: 'SAT Error Analysis: Build a Mistake Journal That Raises Your Score'
+  url: /2020/05/23/sat-error-analysis-mistake-journal-guide/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+sat-rw-hardest-question-types:
+- slug: sat-math-hardest-question-types
+  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
+  url: /1997/05/22/sat-math-hardest-question-types/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: sat-rhetorical-synthesis-guide
+  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
+  url: /1997/03/29/sat-rhetorical-synthesis-guide/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: sat-rw-pacing-strategy
+  title: 'SAT RW Pacing: 27 Questions in 32 Minutes Per Module'
+  url: /1997/01/30/sat-rw-pacing-strategy/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: sat-reading-science-passages
+  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
+  url: /1997/04/12/sat-reading-science-passages/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: sat-college-board-question-bank-strategy
+  title: 'SAT College Board Question Bank: How to Use It Strategically'
+  url: /2020/04/29/sat-college-board-question-bank-strategy/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: sat-score-benchmarks-by-college-tier
+  title: SAT Score Benchmarks by College Tier and Major
+  url: /2020/06/08/sat-score-benchmarks-by-college-tier/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: sat-scores-required-top-50-us-universities
+  title: SAT Scores Required for Top 50 US Universities
+  url: /2020/07/18/sat-scores-required-top-50-us-universities/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+sat-rw-pacing-strategy:
+- slug: sat-math-pacing-strategy
+  title: 'SAT Math: Pacing 22 Questions in 35 Minutes Per Module'
+  url: /1997/05/27/sat-math-pacing-strategy/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
   lang: en
 - slug: sat-rhetorical-synthesis-guide
   title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
@@ -90,25 +389,13 @@ sat-rw-pacing-strategy:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
-- slug: sat-study-schedule-for-busy-students
-  title: 'SAT Preparation for Busy Students: Study Plan With Limited Time'
-  url: /2020/12/17/sat-study-schedule-for-busy-students/
+- slug: sat-rw-hardest-question-types
+  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
+  url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
-  image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: how-to-go-from-1200-to-1400-on-sat
-  title: How to Go from 1200 to 1400 on the SAT
-  url: /2021/02/03/how-to-go-from-1200-to-1400-on-sat/
-  category: industry
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-59.webp
   lang: en
 sat-reading-speed-strategy:
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
-  category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
 - slug: sat-reading-science-passages
   title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
   url: /1997/04/12/sat-reading-science-passages/
@@ -127,11 +414,11 @@ sat-reading-speed-strategy:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: sat-accommodations-extended-time-guide
-  title: 'SAT Accommodations: Extended Time and Support Services Guide'
-  url: /2020/10/06/sat-accommodations-extended-time-guide/
+- slug: sat-command-of-evidence
+  title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
+  url: /1997/03/25/sat-command-of-evidence/
   category: industry
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-50.webp
   lang: en
 sat-rw-module-strategy:
 - slug: sat-adaptive-module-strategy
@@ -152,11 +439,11 @@ sat-rw-module-strategy:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+- slug: digital-sat-complete-guide-format-bluebook-adaptive
+  title: 'Digital SAT Complete Guide: Format, Bluebook, and Adaptive Testing'
+  url: /2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/
   category: industry
-  image: /assets/images/blog/blog-46.webp
+  image: /assets/images/blog/blog-10.webp
   lang: en
 sat-sentence-boundaries:
 - slug: sat-parallel-structure-modifiers
@@ -340,17 +627,11 @@ sat-grammar-conventions-complete:
   image: /assets/images/blog/blog-58.webp
   lang: en
 sat-craft-structure-questions:
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+- slug: sat-main-idea-purpose
+  title: 'SAT Reading: Main Idea, Purpose and Central Claim Questions'
+  url: /1997/01/07/sat-main-idea-purpose/
   category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
-- slug: sat-reading-comprehension-passage-strategies
-  title: 'SAT Reading Comprehension: Passage Strategies That Work'
-  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-86.webp
   lang: en
 - slug: sat-punctuation-sentence-structure-rules-guide
   title: 'SAT Punctuation and Sentence Structure: Every Rule Explained'
@@ -364,6 +645,12 @@ sat-craft-structure-questions:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
+- slug: sat-data-interpretation-reading-passages-guide
+  title: 'SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy'
+  url: /2020/02/17/sat-data-interpretation-reading-passages-guide/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
 sat-notes-summary-questions:
 - slug: sat-rhetorical-synthesis-guide
   title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
@@ -371,36 +658,30 @@ sat-notes-summary-questions:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
-  category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
 - slug: digital-sat-complete-guide-format-bluebook-adaptive
   title: 'Digital SAT Complete Guide: Format, Bluebook, and Adaptive Testing'
   url: /2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/
   category: industry
   image: /assets/images/blog/blog-10.webp
   lang: en
-- slug: sat-reading-comprehension-passage-strategies
-  title: 'SAT Reading Comprehension: Passage Strategies That Work'
-  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+- slug: sat-rw-module-strategy
+  title: 'SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy'
+  url: /1997/02/08/sat-rw-module-strategy/
   category: industry
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: sat-reading-passage-types-evidence-questions-guide
+  title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
+  url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
   lang: en
 sat-command-of-evidence:
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+- slug: sat-quantitative-data-passages
+  title: 'SAT Reading: Tables, Graphs and Quantitative Data in Passages'
+  url: /1996/12/29/sat-quantitative-data-passages/
   category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
-- slug: sat-reading-comprehension-passage-strategies
-  title: 'SAT Reading Comprehension: Passage Strategies That Work'
-  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-03.webp
   lang: en
 - slug: sat-data-interpretation-reading-passages-guide
   title: 'SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy'
@@ -414,11 +695,11 @@ sat-command-of-evidence:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: sat-vs-gre-vs-gmat-understanding-us-standardized-tests
-  title: 'SAT vs GRE vs GMAT: Understanding US Standardized Tests'
-  url: /2020/02/09/sat-vs-gre-vs-gmat-understanding-us-standardized-tests/
+- slug: sat-rhetorical-synthesis-guide
+  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
+  url: /1997/03/29/sat-rhetorical-synthesis-guide/
   category: industry
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
 sat-rhetorical-synthesis-guide:
 - slug: sat-rw-module-strategy
@@ -426,12 +707,6 @@ sat-rhetorical-synthesis-guide:
   url: /1997/02/08/sat-rw-module-strategy/
   category: industry
   image: /assets/images/blog/blog-24.webp
-  lang: en
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
-  category: industry
-  image: /assets/images/blog/blog-46.webp
   lang: en
 - slug: sat-expression-of-ideas-complete-guide
   title: 'SAT Expression of Ideas: Transitions, Synthesis, and Strategy'
@@ -445,17 +720,17 @@ sat-rhetorical-synthesis-guide:
   category: industry
   image: /assets/images/blog/blog-05.webp
   lang: en
+- slug: sat-command-of-evidence
+  title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
+  url: /1997/03/25/sat-command-of-evidence/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
 - slug: sat-for-homeschooled-students
   title: 'SAT for Homeschooled Students: Registration and Preparation Guide'
   url: /2020/08/19/sat-for-homeschooled-students/
   category: industry
   image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: sat-registration-process-step-by-step
-  title: 'SAT Registration: Complete Step-by-Step Guide'
-  url: /2020/10/22/sat-registration-process-step-by-step/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
   lang: en
 - slug: sat-bluebook-app-complete-guide
   title: 'SAT Bluebook App: Complete Navigation and Practice Guide'
@@ -482,23 +757,23 @@ sat-reading-literature-fiction:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
-  category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
-- slug: sat-reading-comprehension-passage-strategies
-  title: 'SAT Reading Comprehension: Passage Strategies That Work'
-  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
-  lang: en
 - slug: sat-reading-history-passages
   title: 'SAT Reading: History and Social Science Passages Strategy'
   url: /1997/04/07/sat-reading-history-passages/
   category: industry
   image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: sat-reading-science-passages
+  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
+  url: /1997/04/12/sat-reading-science-passages/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: sat-data-interpretation-reading-passages-guide
+  title: 'SAT Data in Reading Passages: Charts, Tables, and Graphs Strategy'
+  url: /2020/02/17/sat-data-interpretation-reading-passages-guide/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
   lang: en
 sat-reading-history-passages:
 - slug: sat-reading-passage-types-evidence-questions-guide
@@ -513,17 +788,17 @@ sat-reading-history-passages:
   category: industry
   image: /assets/images/blog/blog-10.webp
   lang: en
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
-  category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
 - slug: sat-reading-literature-fiction
   title: 'SAT Reading: Literature and Fiction Passages Strategy'
   url: /1997/04/03/sat-reading-literature-fiction/
   category: industry
   image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: sat-rhetorical-synthesis-guide
+  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
+  url: /1997/03/29/sat-rhetorical-synthesis-guide/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
   lang: en
 sat-reading-science-passages:
 - slug: sat-reading-history-passages
@@ -544,13 +819,19 @@ sat-reading-science-passages:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: sat-reading-comprehension-passage-strategies
-  title: 'SAT Reading Comprehension: Passage Strategies That Work'
-  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
+- slug: sat-rhetorical-synthesis-guide
+  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
+  url: /1997/03/29/sat-rhetorical-synthesis-guide/
   category: industry
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
 sat-math-last-2-weeks-checklist:
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: how-to-improve-sat-math-score-by-100-points
   title: How to Improve Your SAT Math Score by 100+ Points
   url: /2021/01/26/how-to-improve-sat-math-score-by-100-points/
@@ -569,18 +850,6 @@ sat-math-last-2-weeks-checklist:
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
-- slug: sat-math-hardest-question-types
-  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
-  url: /1997/05/22/sat-math-hardest-question-types/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: sat-test-day-complete-guide
-  title: 'SAT Test Day: Everything You Need to Know'
-  url: /2020/10/30/sat-test-day-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-90.webp
-  lang: en
 - slug: sat-1-month-crash-course
   title: 'SAT 1-Month Crash Course: Maximum Improvement in 30 Days'
   url: /2020/12/25/sat-1-month-crash-course/
@@ -588,6 +857,12 @@ sat-math-last-2-weeks-checklist:
   image: /assets/images/blog/blog-15.webp
   lang: en
 sat-math-past-question-analysis:
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: how-to-improve-sat-math-score-by-100-points
   title: How to Improve Your SAT Math Score by 100+ Points
   url: /2021/01/26/how-to-improve-sat-math-score-by-100-points/
@@ -642,12 +917,6 @@ sat-math-interpreting-coefficients:
   url: /1997/08/07/sat-math-percent-change-markup-discount/
   category: industry
   image: /assets/images/blog/blog-57.webp
-  lang: en
-- slug: sat-vocabulary-in-context-complete-guide
-  title: 'SAT Vocabulary in Context: How to Master Word Meaning Questions'
-  url: /2021/03/07/sat-vocabulary-in-context-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-61.webp
   lang: en
 sat-math-margin-of-error-confidence:
 - slug: sat-math-standard-deviation-mean-median
@@ -767,12 +1036,6 @@ sat-math-process-elimination-backsolving:
   category: industry
   image: /assets/images/blog/blog-58.webp
   lang: en
-- slug: psat-to-sat-preparation-pathway-guide
-  title: 'PSAT to SAT: How to Use PSAT Results to Maximize SAT Performance'
-  url: /2020/02/01/psat-to-sat-preparation-pathway-guide/
-  category: industry
-  image: /assets/images/blog/blog-74.webp
-  lang: en
 - slug: how-colleges-use-sat-scores-in-admissions
   title: How Colleges Actually Use SAT Scores in Admissions Decisions
   url: /2020/06/16/how-colleges-use-sat-scores-in-admissions/
@@ -792,17 +1055,17 @@ sat-math-careless-mistakes:
   category: industry
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: sat-rw-common-mistakes
+  title: 'SAT RW Common Mistakes: The Errors That Cost 50+ Points'
+  url: /1996/12/16/sat-rw-common-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 - slug: sat-math-pacing-strategy
   title: 'SAT Math: Pacing 22 Questions in 35 Minutes Per Module'
   url: /1997/05/27/sat-math-pacing-strategy/
   category: industry
   image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: sat-math-hardest-question-types
-  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
-  url: /1997/05/22/sat-math-hardest-question-types/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
   lang: en
 - slug: sat-guide-for-parents
   title: 'SAT Guide for Parents: How to Support Your Child''s Preparation'
@@ -1384,12 +1647,49 @@ sat-math-exponential-functions:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
-upsc-prelims-polity-governance-strategy:
-- slug: upsc-prelims-history-culture-strategy
-  title: 'UPSC Prelims: Indian History and Culture Questions Strategy'
-  url: /2003/03/24/upsc-prelims-history-culture-strategy/
+upsc-prelims-time-management:
+- slug: upsc-prelims-complete-guide
+  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
+  url: /2003/04/02/upsc-prelims-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: upsc-csat-reading-comprehension-strategy
+  title: 'UPSC CSAT: Reading Comprehension Strategy'
+  url: /2003/02/21/upsc-csat-reading-comprehension-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: upsc-csat-logical-reasoning
+  title: 'UPSC CSAT: Logical Reasoning and Analytical Ability'
+  url: /2003/02/12/upsc-csat-logical-reasoning/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+upsc-prelims-elimination-technique:
+- slug: upsc-prelims-time-management
+  title: 'UPSC Prelims: Time Management in 120 Minutes'
+  url: /2003/02/03/upsc-prelims-time-management/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: upsc-marking-scheme
+  title: 'UPSC Marking Scheme: How Prelims and Mains Are Scored'
+  url: /2003/06/13/upsc-marking-scheme/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
   lang: en
 - slug: upsc-prelims-complete-guide
   title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
@@ -1397,42 +1697,261 @@ upsc-prelims-polity-governance-strategy:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
-- slug: upsc-prelims-topic-wise-weightage
-  title: 'UPSC Prelims GS Paper 1: Topic-Wise Weightage and Priority'
-  url: /2003/03/29/upsc-prelims-topic-wise-weightage/
+upsc-csat-logical-reasoning:
+- slug: upsc-csat-reading-comprehension-strategy
+  title: 'UPSC CSAT: Reading Comprehension Strategy'
+  url: /2003/02/21/upsc-csat-reading-comprehension-strategy/
   category: industry
-  image: /assets/images/blog/blog-12.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
-- slug: upsc-exam-pattern-2026
-  title: 'UPSC Exam Pattern 2026: Prelims, Mains and Interview'
-  url: /2003/07/15/upsc-exam-pattern-2026/
+- slug: upsc-csat-quantitative-aptitude
+  title: 'UPSC CSAT: Quantitative Aptitude and Data Interpretation'
+  url: /2003/02/16/upsc-csat-quantitative-aptitude/
   category: industry
-  image: /assets/images/blog/blog-16.webp
+  image: /assets/images/blog/blog-66.webp
   lang: en
-upsc-prelims-history-culture-strategy:
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: upsc-prelims-complete-guide
+  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
+  url: /2003/04/02/upsc-prelims-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+upsc-csat-quantitative-aptitude:
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: upsc-csat-reading-comprehension-strategy
+  title: 'UPSC CSAT: Reading Comprehension Strategy'
+  url: /2003/02/21/upsc-csat-reading-comprehension-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: upsc-csat-logical-reasoning
+  title: 'UPSC CSAT: Logical Reasoning and Analytical Ability'
+  url: /2003/02/12/upsc-csat-logical-reasoning/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: upsc-prelims-complete-guide
+  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
+  url: /2003/04/02/upsc-prelims-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+upsc-csat-reading-comprehension-strategy:
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: upsc-csat-quantitative-aptitude
+  title: 'UPSC CSAT: Quantitative Aptitude and Data Interpretation'
+  url: /2003/02/16/upsc-csat-quantitative-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: upsc-csat-logical-reasoning
+  title: 'UPSC CSAT: Logical Reasoning and Analytical Ability'
+  url: /2003/02/12/upsc-csat-logical-reasoning/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: upsc-prelims-complete-guide
+  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
+  url: /2003/04/02/upsc-prelims-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+upsc-csat-paper-2-complete-guide:
+- slug: upsc-csat-reading-comprehension-strategy
+  title: 'UPSC CSAT: Reading Comprehension Strategy'
+  url: /2003/02/21/upsc-csat-reading-comprehension-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: upsc-csat-quantitative-aptitude
+  title: 'UPSC CSAT: Quantitative Aptitude and Data Interpretation'
+  url: /2003/02/16/upsc-csat-quantitative-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: upsc-prelims-complete-guide
+  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
+  url: /2003/04/02/upsc-prelims-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: upsc-csat-logical-reasoning
+  title: 'UPSC CSAT: Logical Reasoning and Analytical Ability'
+  url: /2003/02/12/upsc-csat-logical-reasoning/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+upsc-prelims-current-affairs-strategy:
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: upsc-prelims-polity-governance-strategy
   title: 'UPSC Prelims: Indian Polity and Governance Strategy'
   url: /2003/03/20/upsc-prelims-polity-governance-strategy/
   category: industry
   image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: upsc-prelims-complete-guide
-  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
-  url: /2003/04/02/upsc-prelims-complete-guide/
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
   category: industry
-  image: /assets/images/blog/blog-28.webp
+  image: /assets/images/blog/blog-50.webp
   lang: en
-- slug: upsc-prelims-topic-wise-weightage
-  title: 'UPSC Prelims GS Paper 1: Topic-Wise Weightage and Priority'
-  url: /2003/03/29/upsc-prelims-topic-wise-weightage/
+upsc-prelims-science-technology-strategy:
+- slug: upsc-prelims-polity-governance-strategy
+  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
+  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
   category: industry
-  image: /assets/images/blog/blog-12.webp
+  image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: upsc-exam-pattern-2026
-  title: 'UPSC Exam Pattern 2026: Prelims, Mains and Interview'
-  url: /2003/07/15/upsc-exam-pattern-2026/
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
   category: industry
-  image: /assets/images/blog/blog-16.webp
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: upsc-prelims-current-affairs-strategy
+  title: 'UPSC Prelims: Current Affairs Pattern and Coverage'
+  url: /2003/03/02/upsc-prelims-current-affairs-strategy/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+upsc-prelims-economy-strategy:
+- slug: upsc-prelims-polity-governance-strategy
+  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
+  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: upsc-prelims-history-culture-strategy
+  title: 'UPSC Prelims: Indian History and Culture Questions Strategy'
+  url: /2003/03/24/upsc-prelims-history-culture-strategy/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+upsc-prelims-geography-environment-strategy:
+- slug: upsc-prelims-polity-governance-strategy
+  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
+  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: upsc-prelims-current-affairs-strategy
+  title: 'UPSC Prelims: Current Affairs Pattern and Coverage'
+  url: /2003/03/02/upsc-prelims-current-affairs-strategy/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: upsc-optional-subject-selection
+  title: 'UPSC Optional Subject Selection: Complete Guide'
+  url: /2003/05/31/upsc-optional-subject-selection/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+upsc-prelims-polity-governance-strategy:
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: upsc-prelims-history-culture-strategy
+  title: 'UPSC Prelims: Indian History and Culture Questions Strategy'
+  url: /2003/03/24/upsc-prelims-history-culture-strategy/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+upsc-prelims-history-culture-strategy:
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-prelims-polity-governance-strategy
+  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
+  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
   lang: en
 upsc-prelims-topic-wise-weightage:
 - slug: upsc-prelims-complete-guide
@@ -1441,54 +1960,48 @@ upsc-prelims-topic-wise-weightage:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
-- slug: upsc-prelims-polity-governance-strategy
-  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
-  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
+- slug: upsc-prelims-time-management
+  title: 'UPSC Prelims: Time Management in 120 Minutes'
+  url: /2003/02/03/upsc-prelims-time-management/
   category: industry
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: upsc-exam-pattern-2026
-  title: 'UPSC Exam Pattern 2026: Prelims, Mains and Interview'
-  url: /2003/07/15/upsc-exam-pattern-2026/
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
   category: industry
-  image: /assets/images/blog/blog-16.webp
+  image: /assets/images/blog/blog-46.webp
   lang: en
-- slug: upsc-prelims-history-culture-strategy
-  title: 'UPSC Prelims: Indian History and Culture Questions Strategy'
-  url: /2003/03/24/upsc-prelims-history-culture-strategy/
+- slug: upsc-prelims-elimination-technique
+  title: 'UPSC Prelims: Elimination Technique and Intelligent Guessing'
+  url: /2003/02/07/upsc-prelims-elimination-technique/
   category: industry
-  image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: upsc-optional-subject-selection
-  title: 'UPSC Optional Subject Selection: Complete Guide'
-  url: /2003/05/31/upsc-optional-subject-selection/
-  category: industry
-  image: /assets/images/blog/blog-07.webp
+  image: /assets/images/blog/blog-27.webp
   lang: en
 upsc-prelims-complete-guide:
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: upsc-prelims-time-management
+  title: 'UPSC Prelims: Time Management in 120 Minutes'
+  url: /2003/02/03/upsc-prelims-time-management/
+  category: industry
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 - slug: upsc-prelims-topic-wise-weightage
   title: 'UPSC Prelims GS Paper 1: Topic-Wise Weightage and Priority'
   url: /2003/03/29/upsc-prelims-topic-wise-weightage/
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
-- slug: upsc-prelims-polity-governance-strategy
-  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
-  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
+- slug: upsc-csat-reading-comprehension-strategy
+  title: 'UPSC CSAT: Reading Comprehension Strategy'
+  url: /2003/02/21/upsc-csat-reading-comprehension-strategy/
   category: industry
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: upsc-prelims-history-culture-strategy
-  title: 'UPSC Prelims: Indian History and Culture Questions Strategy'
-  url: /2003/03/24/upsc-prelims-history-culture-strategy/
-  category: industry
-  image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: upsc-cut-off-analysis
-  title: 'UPSC Cut-Off Analysis: Prelims, Mains and Final'
-  url: /2003/06/09/upsc-cut-off-analysis/
-  category: industry
-  image: /assets/images/blog/blog-73.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
 upsc-answer-writing:
 - slug: upsc-cut-off-analysis
@@ -1516,6 +2029,12 @@ upsc-answer-writing:
   image: /assets/images/blog/blog-15.webp
   lang: en
 upsc-current-affairs-strategy:
+- slug: upsc-prelims-current-affairs-strategy
+  title: 'UPSC Prelims: Current Affairs Pattern and Coverage'
+  url: /2003/03/02/upsc-prelims-current-affairs-strategy/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 - slug: upsc-coaching-vs-self-study
   title: 'UPSC Coaching vs Self-Study: How to Decide'
   url: /2003/06/22/upsc-coaching-vs-self-study/
@@ -1533,12 +2052,6 @@ upsc-current-affairs-strategy:
   url: /2003/07/01/upsc-study-plan-12-18-24-months/
   category: industry
   image: /assets/images/blog/blog-42.webp
-  lang: en
-- slug: upsc-answer-writing
-  title: 'UPSC Answer Writing Practice: Build the Skill from Scratch'
-  url: /2003/04/07/upsc-answer-writing/
-  category: industry
-  image: /assets/images/blog/blog-15.webp
   lang: en
 upsc-mental-health:
 - slug: upsc-failed-attempts-reset
@@ -1584,11 +2097,11 @@ upsc-preparation-cost:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: upsc-civil-services-complete-guide
-  title: The Complete Guide to UPSC Civil Services Exam
-  url: /2003/07/24/upsc-civil-services-complete-guide/
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
   category: industry
-  image: /assets/images/blog/blog-81.webp
+  image: /assets/images/blog/blog-50.webp
   lang: en
 - slug: sarkari-naukri-complete-guide
   title: 'Sarkari Naukri Complete Guide: Eligibility, Selection & Preparation'
@@ -1684,17 +2197,17 @@ upsc-failed-attempts-reset:
   category: industry
   image: /assets/images/blog/blog-76.webp
   lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: upsc-exam-pattern-2026
   title: 'UPSC Exam Pattern 2026: Prelims, Mains and Interview'
   url: /2003/07/15/upsc-exam-pattern-2026/
   category: industry
   image: /assets/images/blog/blog-16.webp
-  lang: en
-- slug: upsc-prelims-complete-guide
-  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
-  url: /2003/04/02/upsc-prelims-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
   lang: en
 upsc-arts-humanities-graduates:
 - slug: upsc-preparation-from-zero
@@ -1734,17 +2247,17 @@ upsc-stem-graduates:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 - slug: upsc-current-affairs-strategy
   title: 'UPSC Current Affairs Strategy: Cover News Without Drowning'
   url: /2003/04/11/upsc-current-affairs-strategy/
   category: industry
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: upsc-registration-application
-  title: UPSC Registration and Application Process
-  url: /2003/06/18/upsc-registration-application/
-  category: industry
-  image: /assets/images/blog/blog-21.webp
   lang: en
 upsc-engineers-technical-background:
 - slug: upsc-stem-graduates
@@ -1797,6 +2310,12 @@ upsc-working-professionals:
   image: /assets/images/blog/blog-35.webp
   lang: en
 upsc-optional-subject-selection:
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: upsc-prelims-topic-wise-weightage
   title: 'UPSC Prelims GS Paper 1: Topic-Wise Weightage and Priority'
   url: /2003/03/29/upsc-prelims-topic-wise-weightage/
@@ -1809,17 +2328,11 @@ upsc-optional-subject-selection:
   category: industry
   image: /assets/images/blog/blog-78.webp
   lang: en
-- slug: upsc-answer-writing
-  title: 'UPSC Answer Writing Practice: Build the Skill from Scratch'
-  url: /2003/04/07/upsc-answer-writing/
+- slug: upsc-csat-paper-2-complete-guide
+  title: UPSC CSAT Paper 2 Complete Guide
+  url: /2003/02/25/upsc-csat-paper-2-complete-guide/
   category: industry
-  image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: upsc-prelims-polity-governance-strategy
-  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
-  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
-  category: industry
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 upsc-toppers-strategy:
 - slug: upsc-current-affairs-strategy
@@ -1834,17 +2347,17 @@ upsc-toppers-strategy:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
-- slug: upsc-prelims-complete-guide
-  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
-  url: /2003/04/02/upsc-prelims-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
-  lang: en
 - slug: upsc-coaching-vs-self-study
   title: 'UPSC Coaching vs Self-Study: How to Decide'
   url: /2003/06/22/upsc-coaching-vs-self-study/
   category: industry
   image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: upsc-preparation-from-zero
+  title: How to Start UPSC Preparation from Zero
+  url: /2003/07/06/upsc-preparation-from-zero/
+  category: industry
+  image: /assets/images/blog/blog-56.webp
   lang: en
 upsc-cut-off-analysis:
 - slug: upsc-exam-pattern-2026
@@ -1852,12 +2365,6 @@ upsc-cut-off-analysis:
   url: /2003/07/15/upsc-exam-pattern-2026/
   category: industry
   image: /assets/images/blog/blog-16.webp
-  lang: en
-- slug: upsc-prelims-complete-guide
-  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
-  url: /2003/04/02/upsc-prelims-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
   lang: en
 - slug: upsc-syllabus-prelims-mains
   title: 'UPSC CSE Syllabus: Complete Prelims and Mains Decoded'
@@ -1871,7 +2378,19 @@ upsc-cut-off-analysis:
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
+- slug: upsc-booklist
+  title: 'UPSC Booklist: Books for Prelims, Mains, GS'
+  url: /2003/06/27/upsc-booklist/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 upsc-marking-scheme:
+- slug: upsc-prelims-elimination-technique
+  title: 'UPSC Prelims: Elimination Technique and Intelligent Guessing'
+  url: /2003/02/07/upsc-prelims-elimination-technique/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
 - slug: upsc-exam-pattern-2026
   title: 'UPSC Exam Pattern 2026: Prelims, Mains and Interview'
   url: /2003/07/15/upsc-exam-pattern-2026/
@@ -1890,19 +2409,7 @@ upsc-marking-scheme:
   category: industry
   image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: upsc-prelims-topic-wise-weightage
-  title: 'UPSC Prelims GS Paper 1: Topic-Wise Weightage and Priority'
-  url: /2003/03/29/upsc-prelims-topic-wise-weightage/
-  category: industry
-  image: /assets/images/blog/blog-12.webp
-  lang: en
 upsc-registration-application:
-- slug: upsc-prelims-complete-guide
-  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
-  url: /2003/04/02/upsc-prelims-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
-  lang: en
 - slug: upsc-answer-writing
   title: 'UPSC Answer Writing Practice: Build the Skill from Scratch'
   url: /2003/04/07/upsc-answer-writing/
@@ -1920,6 +2427,12 @@ upsc-registration-application:
   url: /2003/07/19/upsc-eligibility-age-attempts/
   category: industry
   image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: upsc-booklist
+  title: 'UPSC Booklist: Books for Prelims, Mains, GS'
+  url: /2003/06/27/upsc-booklist/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
   lang: en
 upsc-coaching-vs-self-study:
 - slug: upsc-study-plan-12-18-24-months
@@ -2059,23 +2572,17 @@ upsc-exam-pattern-2026:
   category: industry
   image: /assets/images/blog/blog-73.webp
   lang: en
+- slug: upsc-prelims-current-affairs-strategy
+  title: 'UPSC Prelims: Current Affairs Pattern and Coverage'
+  url: /2003/03/02/upsc-prelims-current-affairs-strategy/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 - slug: upsc-prelims-topic-wise-weightage
   title: 'UPSC Prelims GS Paper 1: Topic-Wise Weightage and Priority'
   url: /2003/03/29/upsc-prelims-topic-wise-weightage/
   category: industry
   image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: upsc-prelims-polity-governance-strategy
-  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
-  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
-  category: industry
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: upsc-marking-scheme
-  title: 'UPSC Marking Scheme: How Prelims and Mains Are Scored'
-  url: /2003/06/13/upsc-marking-scheme/
-  category: industry
-  image: /assets/images/blog/blog-32.webp
   lang: en
 upsc-eligibility-age-attempts:
 - slug: upsc-syllabus-prelims-mains
@@ -2509,29 +3016,29 @@ suchitra-sen-the-unveiling:
   image: /assets/images/blog/blog-41.webp
   lang: en
 change-is-finally-here:
-- slug: viking-age-history-explained
-  title: 'The Viking Age: History and Legacy Explained'
-  url: /2015/07/19/viking-age-history-explained/
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: cleopatra-last-pharaoh-egypt
-  title: 'Cleopatra: The Last Pharaoh of Egypt'
-  url: /2015/05/15/cleopatra-last-pharaoh-egypt/
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
   category: leisure
-  image: /assets/images/blog/blog-70.webp
+  image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: alexander-the-great-life-conquests
-  title: 'Alexander the Great: Life and Conquests'
-  url: /2015/05/05/alexander-the-great-life-conquests/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: industrial-revolution-explained
-  title: The Industrial Revolution Explained
-  url: /2015/09/17/industrial-revolution-explained/
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 gmail-grows-up-with-offline-e-mail-access:
 - slug: email-by-sms-from-now-d
@@ -8029,11 +8536,11 @@ accenture-vs-mckinsey-company-inside-view:
   category: industry
   image: /assets/images/blog/blog-14.webp
   lang: en
-- slug: tcs-itis-and-itis-frequently-asked-questions
-  title: TCS iTIS and iON Platforms - FAQ Guide
-  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
   category: industry
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 mckinsey-vs-boston-consulting-group-analysis:
 - slug: accenture-vs-mckinsey-company-inside-view
@@ -14511,17 +15018,17 @@ alexander-the-great-life-conquests:
   category: leisure
   image: /assets/images/blog/blog-70.webp
   lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 - slug: julius-caesar-life-assassination
   title: 'Julius Caesar: Life, Power, Assassination'
   url: /2015/05/10/julius-caesar-life-assassination/
   category: leisure
   image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: rise-and-fall-roman-empire-explained
-  title: Rise and Fall of the Roman Empire Explained
-  url: /2015/04/20/rise-and-fall-roman-empire-explained/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
   lang: en
 julius-caesar-life-assassination:
 - slug: roman-republic-to-empire-transition
@@ -14611,17 +15118,17 @@ sparta-vs-athens-compared-explained:
   category: leisure
   image: /assets/images/blog/blog-58.webp
   lang: en
-- slug: greek-mythology-explained-complete
-  title: 'Greek Mythology Explained: Complete Guide'
-  url: /2015/06/09/greek-mythology-explained-complete/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-40.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
 persian-empire-history-explained:
 - slug: rise-and-fall-roman-empire-explained
@@ -14711,17 +15218,17 @@ greek-mythology-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 - slug: the-crusades-explained-complete-guide
   title: 'The Crusades Explained: Complete Guide'
   url: /2015/07/09/the-crusades-explained-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-35.webp
-  lang: en
-- slug: persian-empire-history-explained
-  title: The Persian Empire Explained
-  url: /2015/05/25/persian-empire-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-25.webp
   lang: en
 destruction-pompeii-vesuvius-79-ad:
 - slug: rise-and-fall-roman-empire-explained
@@ -14792,11 +15299,11 @@ han-dynasty-china-golden-age:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: ancient-egyptian-civilization-explained
-  title: Ancient Egyptian Civilization Explained
-  url: /2015/04/30/ancient-egyptian-civilization-explained/
+- slug: meiji-restoration-japan-explained
+  title: The Meiji Restoration in Japan Explained
+  url: /2015/11/06/meiji-restoration-japan-explained/
   category: leisure
-  image: /assets/images/blog/blog-54.webp
+  image: /assets/images/blog/blog-13.webp
   lang: en
 maurya-empire-ancient-india:
 - slug: mughal-empire-india-history
@@ -14824,6 +15331,12 @@ maurya-empire-ancient-india:
   image: /assets/images/blog/blog-22.webp
   lang: en
 fall-of-roman-empire-causes:
+- slug: rise-and-fall-roman-empire-explained
+  title: Rise and Fall of the Roman Empire Explained
+  url: /2015/04/20/rise-and-fall-roman-empire-explained/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: roman-republic-to-empire-transition
   title: 'Roman Republic to Empire: How Rome Changed'
   url: /2015/06/04/roman-republic-to-empire-transition/
@@ -14841,12 +15354,6 @@ fall-of-roman-empire-causes:
   url: /2015/05/15/cleopatra-last-pharaoh-egypt/
   category: leisure
   image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: julius-caesar-life-assassination
-  title: 'Julius Caesar: Life, Power, Assassination'
-  url: /2015/05/10/julius-caesar-life-assassination/
-  category: leisure
-  image: /assets/images/blog/blog-10.webp
   lang: en
 byzantine-empire-history-explained:
 - slug: mongol-empire-genghis-khan-history
@@ -14936,17 +15443,23 @@ black-death-plague-explained:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
+- slug: meiji-restoration-japan-explained
+  title: The Meiji Restoration in Japan Explained
+  url: /2015/11/06/meiji-restoration-japan-explained/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
 - slug: ancient-greek-civilization-explained
   title: Ancient Greek Civilization Explained
   url: /2015/04/25/ancient-greek-civilization-explained/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 viking-age-history-explained:
 - slug: black-death-plague-explained
@@ -14972,12 +15485,6 @@ viking-age-history-explained:
   url: /2015/07/29/medieval-feudalism-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
-  lang: en
-- slug: change-is-finally-here
-  title: Change is finally here
-  url: /2009/01/19/change-is-finally-here/
-  category: leisure
-  image: /assets/images/blog/blog-86.webp
   lang: en
 mongol-empire-genghis-khan-history:
 - slug: black-death-plague-explained
@@ -15067,19 +15574,25 @@ protestant-reformation-explained:
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 - slug: napoleonic-wars-explained-complete
   title: The Napoleonic Wars Explained
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 age-of-exploration-history-explained:
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 - slug: napoleonic-wars-explained-complete
   title: The Napoleonic Wars Explained
   url: /2015/09/22/napoleonic-wars-explained-complete/
@@ -15097,12 +15610,6 @@ age-of-exploration-history-explained:
   url: /2015/09/07/french-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: spanish-armada-1588-explained
   title: The Spanish Armada of 1588 Explained
@@ -15148,17 +15655,17 @@ spanish-armada-1588-explained:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
 - slug: french-revolution-explained-complete
   title: The French Revolution Explained
   url: /2015/09/07/french-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: protestant-reformation-explained
-  title: The Protestant Reformation Explained
-  url: /2015/08/13/protestant-reformation-explained/
-  category: leisure
-  image: /assets/images/blog/blog-11.webp
   lang: en
 scientific-revolution-history-explained:
 - slug: french-revolution-explained-complete
@@ -15223,44 +15730,50 @@ french-revolution-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
-  lang: en
 american-revolution-explained-complete:
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 - slug: french-revolution-explained-complete
   title: The French Revolution Explained
   url: /2015/09/07/french-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: industrial-revolution-explained
-  title: The Industrial Revolution Explained
-  url: /2015/09/17/industrial-revolution-explained/
+- slug: haitian-revolution-explained
+  title: The Haitian Revolution Explained
+  url: /2015/09/27/haitian-revolution-explained/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
-  lang: en
-- slug: scientific-revolution-history-explained
-  title: The Scientific Revolution Explained
-  url: /2015/08/28/scientific-revolution-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
-- slug: age-of-exploration-history-explained
-  title: The Age of Exploration Explained
-  url: /2015/08/18/age-of-exploration-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
 industrial-revolution-explained:
+- slug: irish-great-famine-history-explained
+  title: The Irish Great Famine Explained
+  url: /2015/11/11/irish-great-famine-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
 - slug: french-revolution-explained-complete
   title: The French Revolution Explained
   url: /2015/09/07/french-revolution-explained-complete/
@@ -15278,12 +15791,6 @@ industrial-revolution-explained:
   url: /2015/08/28/scientific-revolution-history-explained/
   category: leisure
   image: /assets/images/blog/blog-44.webp
-  lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 how-long-will-the-meta-hiring-freeze-last:
 - slug: meta-hiring-freeze
@@ -15323,17 +15830,67 @@ napoleonic-wars-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-- slug: protestant-reformation-explained
-  title: The Protestant Reformation Explained
-  url: /2015/08/13/protestant-reformation-explained/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+haitian-revolution-explained:
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+declaration-of-independence-explained:
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 how-long-is-ibm-hiring-process:
 - slug: ibm-interview-process
@@ -15359,6 +15916,181 @@ how-long-is-ibm-hiring-process:
   url: /2016/02/24/ibm-interview-questions/
   category: industry
   image: /assets/images/blog/blog-31.webp
+  lang: en
+american-civil-war-explained-complete:
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: haitian-revolution-explained
+  title: The Haitian Revolution Explained
+  url: /2015/09/27/haitian-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+abolition-slavery-history-timeline:
+- slug: black-death-plague-explained
+  title: 'The Black Death Explained: History and Impact'
+  url: /2015/07/14/black-death-plague-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: ancient-greek-civilization-explained
+  title: Ancient Greek Civilization Explained
+  url: /2015/04/25/ancient-greek-civilization-explained/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: mongol-empire-genghis-khan-history
+  title: The Mongol Empire and Genghis Khan Explained
+  url: /2015/07/24/mongol-empire-genghis-khan-history/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: meiji-restoration-japan-explained
+  title: The Meiji Restoration in Japan Explained
+  url: /2015/11/06/meiji-restoration-japan-explained/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+scramble-for-africa-colonialism:
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: napoleonic-wars-explained-complete
+  title: The Napoleonic Wars Explained
+  url: /2015/09/22/napoleonic-wars-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+unification-germany-bismarck:
+- slug: unification-italy-risorgimento
+  title: 'Unification of Italy: The Risorgimento'
+  url: /2015/11/01/unification-italy-risorgimento/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+unification-italy-risorgimento:
+- slug: unification-germany-bismarck
+  title: Unification of Germany Under Bismarck
+  url: /2015/10/27/unification-germany-bismarck/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: napoleonic-wars-explained-complete
+  title: The Napoleonic Wars Explained
+  url: /2015/09/22/napoleonic-wars-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+meiji-restoration-japan-explained:
+- slug: the-renaissance-explained-complete
+  title: 'The Renaissance Explained: Complete Guide'
+  url: /2015/08/08/the-renaissance-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: mongol-empire-genghis-khan-history
+  title: The Mongol Empire and Genghis Khan Explained
+  url: /2015/07/24/mongol-empire-genghis-khan-history/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: han-dynasty-china-golden-age
+  title: 'Han Dynasty: China''s Golden Age Explained'
+  url: /2015/06/19/han-dynasty-china-golden-age/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: black-death-plague-explained
+  title: 'The Black Death Explained: History and Impact'
+  url: /2015/07/14/black-death-plague-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+irish-great-famine-history-explained:
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: viking-age-history-explained
+  title: 'The Viking Age: History and Legacy Explained'
+  url: /2015/07/19/viking-age-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: haitian-revolution-explained
+  title: The Haitian Revolution Explained
+  url: /2015/09/27/haitian-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
   lang: en
 kabir-suman-complete-life-music-legacy-guide:
 - slug: kabir-suman
@@ -15409,6 +16141,87 @@ tcs-nqt-pattern:
   url: /2023/07/25/tcs-nqt-mock-strategy/
   category: industry
   image: /assets/images/blog/blog-57.webp
+  lang: en
+causes-of-world-war-1-explained:
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: napoleonic-wars-explained-complete
+  title: The Napoleonic Wars Explained
+  url: /2015/09/22/napoleonic-wars-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+trench-warfare-ww1-explained:
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: alexander-the-great-life-conquests
+  title: 'Alexander the Great: Life and Conquests'
+  url: /2015/05/05/alexander-the-great-life-conquests/
+  category: leisure
+  image: /assets/images/blog/blog-58.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: change-is-finally-here
+  title: Change is finally here
+  url: /2009/01/19/change-is-finally-here/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+treaty-of-versailles-explained:
+- slug: napoleonic-wars-explained-complete
+  title: The Napoleonic Wars Explained
+  url: /2015/09/22/napoleonic-wars-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: protestant-reformation-explained
+  title: The Protestant Reformation Explained
+  url: /2015/08/13/protestant-reformation-explained/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
   lang: en
 tcs-hiring-steps:
 - slug: tcs-nqt-hiring-process
@@ -15660,12 +16473,6 @@ drm-application-not-starting-up-duplicate-versions:
   category: analytics
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: how-to-prepare-for-cpns-exam-complete-guide
-  title: 'Panduan Definitif Lolos CPNS: Dari Persiapan hingga Pengangkatan'
-  url: /2025/12/27/how-to-prepare-for-cpns-exam-complete-guide/
-  category: analytics
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 drm-ebs-integration-unable-to-fetch-list-of-versions:
 - slug: 3-essential-sanity-checks-for-drm-ebs-integration
   title: 3 Essential Sanity Checks for DRM EBS Integration
@@ -15690,6 +16497,12 @@ drm-ebs-integration-unable-to-fetch-list-of-versions:
   url: /2016/09/18/ebs-drm-integration-for-account-type-and-summary-flag-attributes/
   category: analytics
   image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: drm-application-not-starting-up-duplicate-versions
+  title: DRM Application not starting up - Duplicate Versions
+  url: /2016/09/14/drm-application-not-starting-up-duplicate-versions/
+  category: analytics
+  image: /assets/images/blog/blog-38.webp
   lang: en
 drm-internal-server-error:
 - slug: drm-web-client-internal-server-error
@@ -16740,11 +17553,11 @@ feluda-complete-guide-bn:
   category: leisure
   image: /assets/images/blog/blog-66.webp
   lang: bn
-- slug: sonar-kella-story-analysis-bn
-  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
-  url: /2017/03/02/sonar-kella-story-analysis-bn/
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-77.webp
   lang: bn
 - slug: sonar-kella-alternate-endings
   title: 'সোনার কেল্লার অজানা সমাপ্তি: বিভিন্ন দৃষ্টিকোণ থেকে কাল্পনিক অনুসন্ধান'
@@ -16827,11 +17640,11 @@ feluda-character-analysis-bn:
   category: leisure
   image: /assets/images/blog/blog-66.webp
   lang: bn
-- slug: sonar-kella-story-analysis-bn
-  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
-  url: /2017/03/02/sonar-kella-story-analysis-bn/
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-77.webp
   lang: bn
 topshe-character-analysis-bn:
 - slug: jatayu-character-analysis-bn
@@ -16852,17 +17665,29 @@ topshe-character-analysis-bn:
   category: leisure
   image: /assets/images/blog/blog-10.webp
   lang: bn
-- slug: sonar-kella-story-analysis-bn
-  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
-  url: /2017/03/02/sonar-kella-story-analysis-bn/
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-77.webp
   lang: bn
-- slug: joi-baba-felunath-story-analysis-bn
-  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
-  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
+- slug: badshahi-angti-emperors-ring-bn
+  title: 'বাদশাহী আংটি: লখনউ ও বনবিহারী বাবু'
+  url: /2017/05/15/badshahi-angti-emperors-ring-bn/
   category: leisure
-  image: /assets/images/blog/blog-87.webp
+  image: /assets/images/blog/blog-13.webp
+  lang: bn
+- slug: royal-bengal-rahasya-bn
+  title: 'রয়্যাল বেঙ্গল রহস্য: বাঘ, ডায়েরি, ও উত্তরবঙ্গের জঙ্গল'
+  url: /2017/06/29/royal-bengal-rahasya-bn/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: bn
+- slug: tintorettor-jishu-bn
+  title: 'টিনটোরেটোর যিশু: রেনেসাঁ শিল্প ও বাঙালি গোয়েন্দা'
+  url: /2017/07/28/tintorettor-jishu-bn/
+  category: leisure
+  image: /assets/images/blog/blog-52.webp
   lang: bn
 infosys-hiring-process:
 - slug: infosys-lateral-hiring-guide
@@ -16908,11 +17733,17 @@ jatayu-character-analysis-bn:
   category: leisure
   image: /assets/images/blog/blog-10.webp
   lang: bn
-- slug: sonar-kella-story-analysis-bn
-  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
-  url: /2017/03/02/sonar-kella-story-analysis-bn/
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-77.webp
+  lang: bn
+- slug: jatayu-pulp-career-meta-fiction-bn
+  title: 'লালমোহন গাঙ্গুলির পাল্প-জীবন: জটায়ুর বইয়ের ভেতরের বইগুলি পড়া'
+  url: /2017/12/24/jatayu-pulp-career-meta-fiction-bn/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: bn
 sonar-kella-story-analysis-bn:
 - slug: topshe-character-analysis-bn
@@ -16940,6 +17771,18 @@ sonar-kella-story-analysis-bn:
   image: /assets/images/blog/blog-10.webp
   lang: bn
 joi-baba-felunath-story-analysis-bn:
+- slug: maganlal-meghraj-villain-analysis-bn
+  title: 'মগনলাল মেঘরাজ: বাঙালি গোয়েন্দা সাহিত্যের শ্রেষ্ঠ খলনায়ক'
+  url: /2017/10/26/maganlal-meghraj-villain-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: bn
+- slug: joto-kando-kathmandute-bn
+  title: 'যত কাণ্ড কাঠমান্ডুতে: মগনলালের পুনরাগমন'
+  url: /2017/07/13/joto-kando-kathmandute-bn/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: bn
 - slug: topshe-character-analysis-bn
   title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
   url: /2017/01/31/topshe-character-analysis-bn/
@@ -16951,18 +17794,6 @@ joi-baba-felunath-story-analysis-bn:
   url: /2017/02/15/jatayu-character-analysis-bn/
   category: leisure
   image: /assets/images/blog/blog-66.webp
-  lang: bn
-- slug: sonar-kella-story-analysis-bn
-  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
-  url: /2017/03/02/sonar-kella-story-analysis-bn/
-  category: leisure
-  image: /assets/images/blog/blog-08.webp
-  lang: bn
-- slug: feluda-complete-guide-bn
-  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
-  url: /2017/01/01/feluda-complete-guide-bn/
-  category: leisure
-  image: /assets/images/blog/blog-71.webp
   lang: bn
 tcs-nqt-hiring-process:
 - slug: tcs-nqt-strategy
@@ -16989,6 +17820,31 @@ tcs-nqt-hiring-process:
   category: industry
   image: /assets/images/blog/blog-60.webp
   lang: en
+feluda-vs-sherlock-holmes-bn:
+- slug: topshe-character-analysis-bn
+  title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
+  url: /2017/01/31/topshe-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: bn
+- slug: jatayu-character-analysis-bn
+  title: 'জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর'
+  url: /2017/02/15/jatayu-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: bn
+- slug: feluda-complete-guide-bn
+  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
+  url: /2017/01/01/feluda-complete-guide-bn/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: bn
+- slug: feluda-character-analysis-bn
+  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
+  url: /2017/01/16/feluda-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: bn
 tcs-codevita-hiring-process:
 - slug: tcs-codevita
   title: 'TCS CodeVita: Competition to Career Path'
@@ -17014,6 +17870,81 @@ tcs-codevita-hiring-process:
   category: industry
   image: /assets/images/blog/blog-87.webp
   lang: en
+feluda-vs-byomkesh-bakshi-bn:
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: bn
+- slug: bosepukure-khunkharapi-bn
+  title: 'বোসপুকুরে খুনখারাপি: পাড়া, তাসের আসর, ও ছদ্মবেশ'
+  url: /2017/09/26/bosepukure-khunkharapi-bn/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
+  lang: bn
+- slug: topshe-character-analysis-bn
+  title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
+  url: /2017/01/31/topshe-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: bn
+- slug: jatayu-character-analysis-bn
+  title: 'জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর'
+  url: /2017/02/15/jatayu-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: bn
+feludar-goendagiri-darjeeling-debut-bn:
+- slug: topshe-character-analysis-bn
+  title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
+  url: /2017/01/31/topshe-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: bn
+- slug: jatayu-character-analysis-bn
+  title: 'জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর'
+  url: /2017/02/15/jatayu-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: bn
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-complete-guide-bn
+  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
+  url: /2017/01/01/feluda-complete-guide-bn/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: bn
+badshahi-angti-emperors-ring-bn:
+- slug: topshe-character-analysis-bn
+  title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
+  url: /2017/01/31/topshe-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: bn
+- slug: jatayu-character-analysis-bn
+  title: 'জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর'
+  url: /2017/02/15/jatayu-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: bn
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-complete-guide-bn
+  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
+  url: /2017/01/01/feluda-complete-guide-bn/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: bn
 obiee-dashboard-export-to-excel-pdf-html-using-custom-links:
 - slug: managing-bi-services-using-odi
   title: Managing BI Services using ODI
@@ -17039,6 +17970,31 @@ obiee-dashboard-export-to-excel-pdf-html-using-custom-links:
   category: analytics
   image: /assets/images/blog/blog-89.webp
   lang: en
+kailashey-kelenkari-killer-in-kailash-bn:
+- slug: topshe-character-analysis-bn
+  title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
+  url: /2017/01/31/topshe-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: bn
+- slug: jatayu-character-analysis-bn
+  title: 'জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর'
+  url: /2017/02/15/jatayu-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: bn
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-complete-guide-bn
+  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
+  url: /2017/01/01/feluda-complete-guide-bn/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: bn
 tcs-digital-interview-experience-2:
 - slug: tcs-digital-interview
   title: 'TCS Digital Interview: Technical Deep-Dive'
@@ -17064,6 +18020,81 @@ tcs-digital-interview-experience-2:
   category: industry
   image: /assets/images/blog/blog-42.webp
   lang: en
+samaddarer-chabi-the-key-bn:
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-complete-guide-bn
+  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
+  url: /2017/01/01/feluda-complete-guide-bn/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: bn
+- slug: feluda-character-analysis-bn
+  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
+  url: /2017/01/16/feluda-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+royal-bengal-rahasya-bn:
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-complete-guide-bn
+  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
+  url: /2017/01/01/feluda-complete-guide-bn/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: bn
+- slug: feluda-character-analysis-bn
+  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
+  url: /2017/01/16/feluda-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+joto-kando-kathmandute-bn:
+- slug: maganlal-meghraj-villain-analysis-bn
+  title: 'মগনলাল মেঘরাজ: বাঙালি গোয়েন্দা সাহিত্যের শ্রেষ্ঠ খলনায়ক'
+  url: /2017/10/26/maganlal-meghraj-villain-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: bn
+- slug: joi-baba-felunath-story-analysis-bn
+  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
+  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: bn
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-character-analysis-bn
+  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
+  url: /2017/01/16/feluda-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: bn
 tcs-interview-tips:
 - slug: tcs-interview-questions
   title: 'TCS Interview: Questions That Actually Get Asked'
@@ -17089,6 +18120,31 @@ tcs-interview-tips:
   category: industry
   image: /assets/images/blog/blog-41.webp
   lang: en
+tintorettor-jishu-bn:
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-character-analysis-bn
+  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
+  url: /2017/01/16/feluda-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: bn
+- slug: kailashey-kelenkari-killer-in-kailash-bn
+  title: 'কৈলাসে কেলেঙ্কারি: ইলোরা ও শিল্প-পাচার'
+  url: /2017/05/30/kailashey-kelenkari-killer-in-kailash-bn/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
 a-trip-to-the-1850s:
 - slug: call-of-the-south-west
   title: Call of the South West
@@ -17114,6 +18170,31 @@ a-trip-to-the-1850s:
   category: travel
   image: /assets/images/blog/blog-53.webp
   lang: en
+gorosthaney-sabdhan-bn:
+- slug: sidhu-jyatha-character-analysis-bn
+  title: 'সিধু জ্যাঠা: ইন্টারনেট-পূর্ব কলকাতার জীবন্ত বিশ্বকোষ'
+  url: /2017/11/09/sidhu-jyatha-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: bn
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feluda-character-analysis-bn
+  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
+  url: /2017/01/16/feluda-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
 immersing-in-the-mystery-of-dakota:
 - slug: a-trip-to-the-1850s
   title: A Trip to the 1850s
@@ -17139,6 +18220,31 @@ immersing-in-the-mystery-of-dakota:
   category: travel
   image: /assets/images/blog/blog-78.webp
   lang: en
+chhinnamastar-abhishap-bn:
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: hatyapuri-killers-lair-bn
+  title: 'হত্যাপুরী: পুরী সমুদ্র সৈকতে দেরিতে-পর্বের ফেলুদা'
+  url: /2017/09/11/hatyapuri-killers-lair-bn/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: bn
 the-fascinating-world-of-ford:
 - slug: immersing-in-the-mystery-of-dakota
   title: Immersing in the Mystery of Dakota
@@ -17189,6 +18295,81 @@ tcs-digital-interview-experience:
   category: industry
   image: /assets/images/blog/blog-30.webp
   lang: en
+hatyapuri-killers-lair-bn:
+- slug: sonar-kella-story-analysis-bn
+  title: 'সোনার কেল্লা: শারদীয়ার ক্লাসিক'
+  url: /2017/03/02/sonar-kella-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: bn
+bosepukure-khunkharapi-bn:
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: bn
+- slug: feluda-vs-byomkesh-bakshi-bn
+  title: ফেলুদা বনাম ব্যোমকেশ বক্সী
+  url: /2017/04/15/feluda-vs-byomkesh-bakshi-bn/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+londone-feluda-feluda-in-london-bn:
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: bn
 call-of-the-south-west:
 - slug: a-trip-to-the-1850s
   title: A Trip to the 1850s
@@ -17214,6 +18395,31 @@ call-of-the-south-west:
   category: travel
   image: /assets/images/blog/blog-27.webp
   lang: en
+maganlal-meghraj-villain-analysis-bn:
+- slug: joi-baba-felunath-story-analysis-bn
+  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
+  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: bn
+- slug: joto-kando-kathmandute-bn
+  title: 'যত কাণ্ড কাঠমান্ডুতে: মগনলালের পুনরাগমন'
+  url: /2017/07/13/joto-kando-kathmandute-bn/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
 essbase-shared-member-vs-duplicate-member-vs-new-dimension-odi-roller-coaster:
 - slug: analyzing-odi-data-load-using-ikm-sql-to-hyperion-essbase-data
   title: Analyzing ODI data load using IKM SQL to Hyperion Essbase (DATA)
@@ -17239,6 +18445,31 @@ essbase-shared-member-vs-duplicate-member-vs-new-dimension-odi-roller-coaster:
   category: analytics
   image: /assets/images/blog/blog-38.webp
   lang: en
+sidhu-jyatha-character-analysis-bn:
+- slug: feluda-eccentric-collectors-bn
+  title: 'ফেলুদার পুনরাগত উদ্ভট সংগ্রাহকেরা: একটি চরিত্র-প্যাটার্নের অধ্যয়ন'
+  url: /2017/11/24/feluda-eccentric-collectors-bn/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: bn
+- slug: women-of-feluda-female-characters-bn
+  title: 'ফেলুদার নারীরা: একটি সমালোচনামূলক চারিত্রিক অধ্যয়ন'
+  url: /2017/12/09/women-of-feluda-female-characters-bn/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: bn
+- slug: gorosthaney-sabdhan-bn
+  title: 'গোরস্থানে সাবধান: পার্ক স্ট্রিট ও ঔপনিবেশিক কলকাতা'
+  url: /2017/08/12/gorosthaney-sabdhan-bn/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: bn
+- slug: feludar-goendagiri-darjeeling-debut-bn
+  title: 'ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক'
+  url: /2017/04/30/feludar-goendagiri-darjeeling-debut-bn/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: bn
 দাবানলের-ইন্দ্রজালে:
 - slug: সময়ের-আঁকে-বাঁকে
   title: সময়ের আঁকে বাঁকে
@@ -17258,11 +18489,61 @@ essbase-shared-member-vs-duplicate-member-vs-new-dimension-odi-roller-coaster:
   category: travel
   image: /assets/images/blog/blog-44.webp
   lang: bn
-- slug: feluda-complete-guide-bn
-  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
-  url: /2017/01/01/feluda-complete-guide-bn/
+- slug: joi-baba-felunath-story-analysis-bn
+  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
+  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-87.webp
+  lang: bn
+feluda-eccentric-collectors-bn:
+- slug: women-of-feluda-female-characters-bn
+  title: 'ফেলুদার নারীরা: একটি সমালোচনামূলক চারিত্রিক অধ্যয়ন'
+  url: /2017/12/09/women-of-feluda-female-characters-bn/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
+  lang: bn
+- slug: sidhu-jyatha-character-analysis-bn
+  title: 'সিধু জ্যাঠা: ইন্টারনেট-পূর্ব কলকাতার জীবন্ত বিশ্বকোষ'
+  url: /2017/11/09/sidhu-jyatha-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: bn
+women-of-feluda-female-characters-bn:
+- slug: feluda-eccentric-collectors-bn
+  title: 'ফেলুদার পুনরাগত উদ্ভট সংগ্রাহকেরা: একটি চরিত্র-প্যাটার্নের অধ্যয়ন'
+  url: /2017/11/24/feluda-eccentric-collectors-bn/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: bn
+- slug: sidhu-jyatha-character-analysis-bn
+  title: 'সিধু জ্যাঠা: ইন্টারনেট-পূর্ব কলকাতার জীবন্ত বিশ্বকোষ'
+  url: /2017/11/09/sidhu-jyatha-character-analysis-bn/
+  category: leisure
+  image: /assets/images/blog/blog-18.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
   lang: bn
 tcs-ilp-trivandrum-memories:
 - slug: tcs-ilp-trivandrum
@@ -17289,6 +18570,31 @@ tcs-ilp-trivandrum-memories:
   category: industry
   image: /assets/images/blog/blog-83.webp
   lang: en
+jatayu-pulp-career-meta-fiction-bn:
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: bn
+- slug: hatyapuri-killers-lair-bn
+  title: 'হত্যাপুরী: পুরী সমুদ্র সৈকতে দেরিতে-পর্বের ফেলুদা'
+  url: /2017/09/11/hatyapuri-killers-lair-bn/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: bn
+- slug: londone-feluda-feluda-in-london-bn
+  title: 'লন্ডনে ফেলুদা: বেকার স্ট্রিটের তীর্থযাত্রা'
+  url: /2017/10/11/londone-feluda-feluda-in-london-bn/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: bn
 wss_username_token_service_policy-use-case-for-oracle-ebs-and-drm-integration:
 - slug: 3-essential-sanity-checks-for-drm-ebs-integration
   title: 3 Essential Sanity Checks for DRM EBS Integration
@@ -17314,6 +18620,81 @@ wss_username_token_service_policy-use-case-for-oracle-ebs-and-drm-integration:
   category: analytics
   image: /assets/images/blog/blog-35.webp
   lang: en
+feluda-voice-actors-comparison-bn:
+- slug: sandip-ray-feluda-film-cycle-bn
+  title: 'সন্দীপ রায়ের ফেলুদা চলচ্চিত্র চক্র: ষোলটি অভিযোজন এবং একজন পিতার উত্তরাধিকার'
+  url: /2018/01/23/sandip-ray-feluda-film-cycle-bn/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: bn
+- slug: baksho-rahashya-1996-film-bn
+  title: 'বাক্স রহস্য ১৯৯৬: সব্যসাচী চক্রবর্তী হয়ে ওঠেন ফেলুদা'
+  url: /2018/02/07/baksho-rahashya-1996-film-bn/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: bn
+sandip-ray-feluda-film-cycle-bn:
+- slug: baksho-rahashya-1996-film-bn
+  title: 'বাক্স রহস্য ১৯৯৬: সব্যসাচী চক্রবর্তী হয়ে ওঠেন ফেলুদা'
+  url: /2018/02/07/baksho-rahashya-1996-film-bn/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: bn
+- slug: feluda-voice-actors-comparison-bn
+  title: 'ফেলুদার কণ্ঠস্বর: সৌমিত্র, সব্যসাচী, এবং টোটা রায়চৌধুরী'
+  url: /2018/01/08/feluda-voice-actors-comparison-bn/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: bn
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: bn
+- slug: samaddarer-chabi-the-key-bn
+  title: 'সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন'
+  url: /2017/06/14/samaddarer-chabi-the-key-bn/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: bn
+baksho-rahashya-1996-film-bn:
+- slug: sandip-ray-feluda-film-cycle-bn
+  title: 'সন্দীপ রায়ের ফেলুদা চলচ্চিত্র চক্র: ষোলটি অভিযোজন এবং একজন পিতার উত্তরাধিকার'
+  url: /2018/01/23/sandip-ray-feluda-film-cycle-bn/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: bn
+- slug: feluda-voice-actors-comparison-bn
+  title: 'ফেলুদার কণ্ঠস্বর: সৌমিত্র, সব্যসাচী, এবং টোটা রায়চৌধুরী'
+  url: /2018/01/08/feluda-voice-actors-comparison-bn/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: bn
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
+  category: leisure
+  image: /assets/images/blog/blog-11.webp
+  lang: bn
+- slug: hatyapuri-killers-lair-bn
+  title: 'হত্যাপুরী: পুরী সমুদ্র সৈকতে দেরিতে-পর্বের ফেলুদা'
+  url: /2017/09/11/hatyapuri-killers-lair-bn/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: bn
 tcs-ilp-trivandrum-accomodation:
 - slug: tcl-ilp-gandhinagar-experience-the-journey-begins
   title: TCL ILP Gandhinagar Experience – The Journey Begins
@@ -17744,11 +19125,11 @@ best-coffee-shops-study-spots-harvard-square:
   category: travel
   image: /assets/images/blog/blog-44.webp
   lang: bn
-- slug: feluda-complete-guide-bn
-  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
-  url: /2017/01/01/feluda-complete-guide-bn/
+- slug: joi-baba-felunath-story-analysis-bn
+  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
+  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-87.webp
   lang: bn
 harvard-vs-mit-vs-stanford-housing:
 - slug: oxford-college-accommodation-ranking
@@ -18019,11 +19400,11 @@ harvard-graduate-housing-guide:
   category: travel
   image: /assets/images/blog/blog-44.webp
   lang: bn
-- slug: feluda-complete-guide-bn
-  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
-  url: /2017/01/01/feluda-complete-guide-bn/
+- slug: joi-baba-felunath-story-analysis-bn
+  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
+  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-87.webp
   lang: bn
 harvard-off-campus-housing-guide:
 - slug: harvard-graduate-housing-guide
@@ -19256,6 +20637,12 @@ tcs-accommodation-complete-guide:
   image: /assets/images/blog/blog-10.webp
   lang: en
 sat-preparation-mistakes-that-cost-100-points:
+- slug: sat-rw-common-mistakes
+  title: 'SAT RW Common Mistakes: The Errors That Cost 50+ Points'
+  url: /1996/12/16/sat-rw-common-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 - slug: sat-math-careless-mistakes
   title: 'SAT Math: Common Careless Mistakes and How to Eliminate Them'
   url: /1997/05/18/sat-math-careless-mistakes/
@@ -19268,19 +20655,19 @@ sat-preparation-mistakes-that-cost-100-points:
   category: industry
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: sat-rhetorical-synthesis-guide
-  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
-  url: /1997/03/29/sat-rhetorical-synthesis-guide/
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
   category: industry
-  image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: sat-reading-speed-strategy
-  title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
-  url: /1997/02/03/sat-reading-speed-strategy/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 psat-to-sat-preparation-pathway-guide:
+- slug: sat-poetry-verse-strategy
+  title: 'SAT Reading: Poetry and Verse Excerpts on the Digital SAT'
+  url: /1996/12/25/sat-poetry-verse-strategy/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 - slug: sat-math-process-elimination-backsolving
   title: 'SAT Math: How to Use Process of Elimination and Backsolving'
   url: /1997/05/13/sat-math-process-elimination-backsolving/
@@ -19299,13 +20686,13 @@ psat-to-sat-preparation-pathway-guide:
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
-- slug: sat-rhetorical-synthesis-guide
-  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
-  url: /1997/03/29/sat-rhetorical-synthesis-guide/
-  category: industry
-  image: /assets/images/blog/blog-49.webp
-  lang: en
 sat-vs-gre-vs-gmat-understanding-us-standardized-tests:
+- slug: sat-main-idea-purpose
+  title: 'SAT Reading: Main Idea, Purpose and Central Claim Questions'
+  url: /1997/01/07/sat-main-idea-purpose/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
 - slug: sat-command-of-evidence
   title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
   url: /1997/03/25/sat-command-of-evidence/
@@ -19318,19 +20705,19 @@ sat-vs-gre-vs-gmat-understanding-us-standardized-tests:
   category: industry
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: sat-math-percent-change-markup-discount
-  title: 'SAT Math: Percent Change, Markups, Discounts and Tax Problems'
-  url: /1997/08/07/sat-math-percent-change-markup-discount/
+- slug: sat-transitions-mastery
+  title: 'SAT Writing: Transitions Between Sentences and Paragraphs'
+  url: /1997/01/03/sat-transitions-mastery/
   category: industry
-  image: /assets/images/blog/blog-57.webp
-  lang: en
-- slug: sat-math-margin-of-error-confidence
-  title: 'SAT Math: Margin of Error and Confidence Intervals'
-  url: /1997/04/30/sat-math-margin-of-error-confidence/
-  category: industry
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 sat-data-interpretation-reading-passages-guide:
+- slug: sat-quantitative-data-passages
+  title: 'SAT Reading: Tables, Graphs and Quantitative Data in Passages'
+  url: /1996/12/29/sat-quantitative-data-passages/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 - slug: sat-command-of-evidence
   title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
   url: /1997/03/25/sat-command-of-evidence/
@@ -19348,12 +20735,6 @@ sat-data-interpretation-reading-passages-guide:
   url: /1997/04/03/sat-reading-literature-fiction/
   category: industry
   image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: sat-reading-history-passages
-  title: 'SAT Reading: History and Social Science Passages Strategy'
-  url: /1997/04/07/sat-reading-history-passages/
-  category: industry
-  image: /assets/images/blog/blog-72.webp
   lang: en
 নীরবতার-সম্মোহনে:
 - slug: দাবানলের-ইন্দ্রজালে
@@ -19374,36 +20755,36 @@ sat-data-interpretation-reading-passages-guide:
   category: travel
   image: /assets/images/blog/blog-78.webp
   lang: bn
-- slug: feluda-complete-guide-bn
-  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
-  url: /2017/01/01/feluda-complete-guide-bn/
+- slug: joi-baba-felunath-story-analysis-bn
+  title: 'জয় বাবা ফেলুনাথ: বারাণসী ও ধর্ম'
+  url: /2017/03/16/joi-baba-felunath-story-analysis-bn/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-87.webp
   lang: bn
 sat-transitions-logical-flow-questions-guide:
+- slug: sat-transitions-mastery
+  title: 'SAT Writing: Transitions Between Sentences and Paragraphs'
+  url: /1997/01/03/sat-transitions-mastery/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: sat-rw-hardest-question-types
   title: 'SAT RW: The 15 Hardest Question Types and Solutions'
   url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
+- slug: sat-main-idea-purpose
+  title: 'SAT Reading: Main Idea, Purpose and Central Claim Questions'
+  url: /1997/01/07/sat-main-idea-purpose/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
 - slug: sat-math-hardest-question-types
   title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
   url: /1997/05/22/sat-math-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: sat-notes-summary-questions
-  title: 'SAT Notes and Student Summary Questions: New Digital SAT Format'
-  url: /1997/03/20/sat-notes-summary-questions/
-  category: industry
-  image: /assets/images/blog/blog-05.webp
-  lang: en
-- slug: sat-sentence-boundaries
-  title: 'SAT Writing: Sentence Boundaries and Comma Splices'
-  url: /1997/02/12/sat-sentence-boundaries/
-  category: industry
-  image: /assets/images/blog/blog-85.webp
   lang: en
 sat-reading-passage-types-evidence-questions-guide:
 - slug: sat-reading-history-passages
@@ -19449,11 +20830,11 @@ sat-punctuation-sentence-structure-rules-guide:
   category: industry
   image: /assets/images/blog/blog-05.webp
   lang: en
-- slug: sat-math-process-elimination-backsolving
-  title: 'SAT Math: How to Use Process of Elimination and Backsolving'
-  url: /1997/05/13/sat-math-process-elimination-backsolving/
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
   category: industry
-  image: /assets/images/blog/blog-81.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 tcs-nqt-registration-last-date:
 - slug: tcs-nqt-registration-guide
@@ -19649,17 +21030,17 @@ sat-college-board-question-bank-strategy:
   category: industry
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: sat-math-process-elimination-backsolving
   title: 'SAT Math: How to Use Process of Elimination and Backsolving'
   url: /1997/05/13/sat-math-process-elimination-backsolving/
   category: industry
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: sat-rhetorical-synthesis-guide
-  title: 'SAT Rhetorical Synthesis Questions: Complete Strategy Guide'
-  url: /1997/03/29/sat-rhetorical-synthesis-guide/
-  category: industry
-  image: /assets/images/blog/blog-49.webp
   lang: en
 sat-khan-academy-complete-usage-guide:
 - slug: sat-math-past-question-analysis
@@ -19668,23 +21049,23 @@ sat-khan-academy-complete-usage-guide:
   category: industry
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: sat-math-linear-vs-exponential-models
   title: 'SAT Math: Linear vs Exponential Models and When to Use Each'
   url: /1997/06/09/sat-math-linear-vs-exponential-models/
   category: industry
   image: /assets/images/blog/blog-51.webp
   lang: en
-- slug: sat-math-exponential-functions
-  title: 'SAT Math: Exponential Functions, Growth and Decay'
-  url: /1997/08/25/sat-math-exponential-functions/
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
   category: industry
-  image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: sat-math-percent-change-markup-discount
-  title: 'SAT Math: Percent Change, Markups, Discounts and Tax Problems'
-  url: /1997/08/07/sat-math-percent-change-markup-discount/
-  category: industry
-  image: /assets/images/blog/blog-57.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 best-free-sat-preparation-resources:
 - slug: sat-math-preparation-complete-section-guide
@@ -19692,6 +21073,12 @@ best-free-sat-preparation-resources:
   url: /2021/05/10/sat-math-preparation-complete-section-guide/
   category: industry
   image: /assets/images/blog/blog-18.webp
+  lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
   lang: en
 - slug: sat-math-past-question-analysis
   title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
@@ -19704,12 +21091,6 @@ best-free-sat-preparation-resources:
   url: /1997/08/25/sat-math-exponential-functions/
   category: industry
   image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: sat-math-module-1-vs-2
-  title: 'SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works'
-  url: /1997/05/31/sat-math-module-1-vs-2/
-  category: industry
-  image: /assets/images/blog/blog-71.webp
   lang: en
 is-tcs-nqt-exam-free:
 - slug: tcs-nqt-registration-last-date
@@ -19743,23 +21124,23 @@ sat-error-analysis-mistake-journal-guide:
   category: industry
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
 - slug: sat-math-margin-of-error-confidence
   title: 'SAT Math: Margin of Error and Confidence Intervals'
   url: /1997/04/30/sat-math-margin-of-error-confidence/
   category: industry
   image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: sat-math-careless-mistakes
-  title: 'SAT Math: Common Careless Mistakes and How to Eliminate Them'
-  url: /1997/05/18/sat-math-careless-mistakes/
-  category: industry
-  image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: sat-notes-summary-questions
-  title: 'SAT Notes and Student Summary Questions: New Digital SAT Format'
-  url: /1997/03/20/sat-notes-summary-questions/
-  category: industry
-  image: /assets/images/blog/blog-05.webp
   lang: en
 sat-practice-test-strategy-guide:
 - slug: sat-math-past-question-analysis
@@ -19780,11 +21161,11 @@ sat-practice-test-strategy-guide:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: sat-math-last-2-weeks-checklist
-  title: 'SAT Math: Last 2 Weeks Review Checklist'
-  url: /1997/04/16/sat-math-last-2-weeks-checklist/
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
   category: industry
-  image: /assets/images/blog/blog-72.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 sat-score-benchmarks-by-college-tier:
 - slug: sat-rw-hardest-question-types
@@ -19862,6 +21243,18 @@ how-colleges-use-sat-scores-in-admissions:
   image: /assets/images/blog/blog-51.webp
   lang: en
 sat-optional-vs-required-colleges-guide:
+- slug: sat-math-process-elimination-backsolving
+  title: 'SAT Math: How to Use Process of Elimination and Backsolving'
+  url: /1997/05/13/sat-math-process-elimination-backsolving/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: sat-command-of-evidence
   title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
   url: /1997/03/25/sat-command-of-evidence/
@@ -19873,18 +21266,6 @@ sat-optional-vs-required-colleges-guide:
   url: /1997/02/03/sat-reading-speed-strategy/
   category: industry
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: sat-math-last-2-weeks-checklist
-  title: 'SAT Math: Last 2 Weeks Review Checklist'
-  url: /1997/04/16/sat-math-last-2-weeks-checklist/
-  category: industry
-  image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: sat-rw-hardest-question-types
-  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
-  url: /1997/01/25/sat-rw-hardest-question-types/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 sat-scores-for-merit-scholarships:
 - slug: sat-rw-hardest-question-types
@@ -19905,36 +21286,36 @@ sat-scores-for-merit-scholarships:
   category: industry
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: sat-reading-speed-strategy
-  title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
-  url: /1997/02/03/sat-reading-speed-strategy/
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
   category: industry
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 sat-scores-for-ivy-league-admission:
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: sat-rw-hardest-question-types
   title: 'SAT RW: The 15 Hardest Question Types and Solutions'
   url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
+- slug: sat-math-hardest-question-types
+  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
+  url: /1997/05/22/sat-math-hardest-question-types/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 - slug: sat-math-last-2-weeks-checklist
   title: 'SAT Math: Last 2 Weeks Review Checklist'
   url: /1997/04/16/sat-math-last-2-weeks-checklist/
   category: industry
   image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: sat-rw-pacing-strategy
-  title: 'SAT RW Pacing: 27 Questions in 32 Minutes Per Module'
-  url: /1997/01/30/sat-rw-pacing-strategy/
-  category: industry
-  image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: sat-command-of-evidence
-  title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
-  url: /1997/03/25/sat-command-of-evidence/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
   lang: en
 interacting-with-enhanced-data-interpretations:
 - slug: tableau-certified-data-analyst-prep
@@ -19962,12 +21343,6 @@ interacting-with-enhanced-data-interpretations:
   image: /assets/images/blog/blog-81.webp
   lang: en
 sat-scores-required-top-50-us-universities:
-- slug: sat-rw-hardest-question-types
-  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
-  url: /1997/01/25/sat-rw-hardest-question-types/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
-  lang: en
 - slug: sat-math-functions-transformations
   title: 'SAT Math: Functions, Transformations and Graph Interpretation'
   url: /1997/08/02/sat-math-functions-transformations/
@@ -19985,6 +21360,12 @@ sat-scores-required-top-50-us-universities:
   url: /1997/06/23/sat-math-equivalent-expressions/
   category: industry
   image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: sat-main-idea-purpose
+  title: 'SAT Reading: Main Idea, Purpose and Central Claim Questions'
+  url: /1997/01/07/sat-main-idea-purpose/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
   lang: en
 sat-for-adult-non-traditional-test-takers:
 - slug: sat-math-for-students-who-hate-math
@@ -20018,23 +21399,23 @@ sat-guide-for-parents:
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
+- slug: sat-rw-common-mistakes
+  title: 'SAT RW Common Mistakes: The Errors That Cost 50+ Points'
+  url: /1996/12/16/sat-rw-common-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: sat-math-hardest-question-types
+  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
+  url: /1997/05/22/sat-math-hardest-question-types/
+  category: industry
+  image: /assets/images/blog/blog-58.webp
+  lang: en
 - slug: sat-logical-comparisons-idioms
   title: 'SAT Writing: Logical Comparisons and Idiomatic Expressions'
   url: /1997/02/21/sat-logical-comparisons-idioms/
   category: industry
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: sat-grammar-conventions-complete
-  title: 'SAT Standard English Conventions: Complete Grammar and Usage Guide'
-  url: /1997/03/11/sat-grammar-conventions-complete/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: sat-math-radicals-rational-equations
-  title: 'SAT Math: Radical Expressions and Rational Equations'
-  url: /1997/08/20/sat-math-radicals-rational-equations/
-  category: industry
-  image: /assets/images/blog/blog-07.webp
   lang: en
 counting-hails-in-the-hailstorm:
 - slug: tableau-data-analyst-certification-review
@@ -20062,29 +21443,29 @@ counting-hails-in-the-hailstorm:
   image: /assets/images/blog/blog-80.webp
   lang: en
 sat-preparation-for-students-with-learning-differences:
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: sat-math-for-students-who-hate-math
   title: 'SAT Math for Students Who Hate Math: Building from the Ground Up'
   url: /1997/05/04/sat-math-for-students-who-hate-math/
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: sat-math-complex-numbers
-  title: 'SAT Math: Complex Numbers and Operations'
-  url: /1997/07/02/sat-math-complex-numbers/
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
   category: industry
-  image: /assets/images/blog/blog-23.webp
+  image: /assets/images/blog/blog-60.webp
   lang: en
-- slug: sat-grammar-conventions-complete
-  title: 'SAT Standard English Conventions: Complete Grammar and Usage Guide'
-  url: /1997/03/11/sat-grammar-conventions-complete/
+- slug: sat-tone-attitude-questions
+  title: 'SAT Reading: Tone, Attitude and Author''s Perspective Questions'
+  url: /1996/12/20/sat-tone-attitude-questions/
   category: industry
-  image: /assets/images/blog/blog-50.webp
-  lang: en
-- slug: sat-math-radicals-rational-equations
-  title: 'SAT Math: Radical Expressions and Rational Equations'
-  url: /1997/08/20/sat-math-radicals-rational-equations/
-  category: industry
-  image: /assets/images/blog/blog-07.webp
+  image: /assets/images/blog/blog-43.webp
   lang: en
 sat-for-homeschooled-students:
 - slug: sat-math-for-students-who-hate-math
@@ -20162,29 +21543,29 @@ sat-guide-for-chinese-students:
   image: /assets/images/blog/blog-07.webp
   lang: en
 sat-preparation-guide-for-indian-students:
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: sat-grammar-conventions-complete
   title: 'SAT Standard English Conventions: Complete Grammar and Usage Guide'
   url: /1997/03/11/sat-grammar-conventions-complete/
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: sat-quantitative-data-passages
+  title: 'SAT Reading: Tables, Graphs and Quantitative Data in Passages'
+  url: /1996/12/29/sat-quantitative-data-passages/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 - slug: sat-math-for-students-who-hate-math
   title: 'SAT Math for Students Who Hate Math: Building from the Ground Up'
   url: /1997/05/04/sat-math-for-students-who-hate-math/
   category: industry
   image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: sat-math-equivalent-expressions
-  title: 'SAT Math: Equivalent Expressions and Simplification'
-  url: /1997/06/23/sat-math-equivalent-expressions/
-  category: industry
-  image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: sat-math-systems-no-infinite-solutions
-  title: 'SAT Math: Systems of Equations with No Solution and Infinite Solutions'
-  url: /1997/07/29/sat-math-systems-no-infinite-solutions/
-  category: industry
-  image: /assets/images/blog/blog-16.webp
   lang: en
 tcs-nqt-results-2022-date:
 - slug: tcs-nqt-results-2023
@@ -20230,11 +21611,11 @@ sat-preparation-for-international-students:
   category: industry
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: sat-verb-tense-mood
-  title: 'SAT Writing: Verb Tense, Mood and Agreement in Complex Sentences'
-  url: /1997/02/17/sat-verb-tense-mood/
+- slug: sat-advanced-vocabulary
+  title: 'SAT Reading: Vocabulary in Context Beyond the Basics'
+  url: /1997/01/16/sat-advanced-vocabulary/
   category: industry
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-41.webp
   lang: en
 sat-test-anxiety-management-guide:
 - slug: sat-logical-comparisons-idioms
@@ -20255,36 +21636,36 @@ sat-test-anxiety-management-guide:
   category: industry
   image: /assets/images/blog/blog-21.webp
   lang: en
-- slug: sat-math-for-students-who-hate-math
-  title: 'SAT Math for Students Who Hate Math: Building from the Ground Up'
-  url: /1997/05/04/sat-math-for-students-who-hate-math/
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
   category: industry
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-60.webp
   lang: en
 sat-accommodations-extended-time-guide:
+- slug: sat-transitions-mastery
+  title: 'SAT Writing: Transitions Between Sentences and Paragraphs'
+  url: /1997/01/03/sat-transitions-mastery/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: sat-reading-speed-strategy
   title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
   url: /1997/02/03/sat-reading-speed-strategy/
   category: industry
   image: /assets/images/blog/blog-11.webp
   lang: en
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: sat-logical-comparisons-idioms
   title: 'SAT Writing: Logical Comparisons and Idiomatic Expressions'
   url: /1997/02/21/sat-logical-comparisons-idioms/
   category: industry
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: sat-verb-tense-mood
-  title: 'SAT Writing: Verb Tense, Mood and Agreement in Complex Sentences'
-  url: /1997/02/17/sat-verb-tense-mood/
-  category: industry
-  image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: sat-parallel-structure-modifiers
-  title: 'SAT Writing: Parallel Structure and Modifier Placement'
-  url: /1997/02/26/sat-parallel-structure-modifiers/
-  category: industry
-  image: /assets/images/blog/blog-21.webp
   lang: en
 sat-score-reporting-superscoring-guide:
 - slug: sat-math-module-1-vs-2
@@ -20337,31 +21718,37 @@ can-i-appear-in-tcs-nqt:
   image: /assets/images/blog/blog-57.webp
   lang: en
 sat-registration-process-step-by-step:
-- slug: sat-math-module-1-vs-2
-  title: 'SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works'
-  url: /1997/05/31/sat-math-module-1-vs-2/
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
   category: industry
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-60.webp
   lang: en
-- slug: sat-rw-module-strategy
-  title: 'SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy'
-  url: /1997/02/08/sat-rw-module-strategy/
+- slug: sat-transitions-mastery
+  title: 'SAT Writing: Transitions Between Sentences and Paragraphs'
+  url: /1997/01/03/sat-transitions-mastery/
   category: industry
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: sat-verb-tense-mood
-  title: 'SAT Writing: Verb Tense, Mood and Agreement in Complex Sentences'
-  url: /1997/02/17/sat-verb-tense-mood/
+- slug: sat-math-exponential-functions
+  title: 'SAT Math: Exponential Functions, Growth and Decay'
+  url: /1997/08/25/sat-math-exponential-functions/
   category: industry
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: sat-logical-comparisons-idioms
-  title: 'SAT Writing: Logical Comparisons and Idiomatic Expressions'
-  url: /1997/02/21/sat-logical-comparisons-idioms/
+- slug: sat-advanced-vocabulary
+  title: 'SAT Reading: Vocabulary in Context Beyond the Basics'
+  url: /1997/01/16/sat-advanced-vocabulary/
   category: industry
-  image: /assets/images/blog/blog-90.webp
+  image: /assets/images/blog/blog-41.webp
   lang: en
 sat-test-day-complete-guide:
+- slug: sat-rw-last-2-weeks-checklist
+  title: 'SAT RW: Last 2 Weeks Review Checklist'
+  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 - slug: sat-math-last-2-weeks-checklist
   title: 'SAT Math: Last 2 Weeks Review Checklist'
   url: /1997/04/16/sat-math-last-2-weeks-checklist/
@@ -20379,12 +21766,6 @@ sat-test-day-complete-guide:
   url: /1997/05/18/sat-math-careless-mistakes/
   category: industry
   image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: sat-command-of-evidence
-  title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
-  url: /1997/03/25/sat-command-of-evidence/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
   lang: en
 catch-22-paradigms:
 - slug: whole-to-part-panorama
@@ -20499,17 +21880,17 @@ digital-sat-complete-guide-format-bluebook-adaptive:
   category: industry
   image: /assets/images/blog/blog-05.webp
   lang: en
+- slug: sat-math-module-1-vs-2
+  title: 'SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works'
+  url: /1997/05/31/sat-math-module-1-vs-2/
+  category: industry
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: sat-desmos-calculator-strategy
   title: 'SAT Desmos Calculator: Complete Strategy for Digital SAT Math'
   url: /1997/06/05/sat-desmos-calculator-strategy/
   category: industry
   image: /assets/images/blog/blog-46.webp
-  lang: en
-- slug: sat-reading-speed-strategy
-  title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
-  url: /1997/02/03/sat-reading-speed-strategy/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
   lang: en
 how-many-times-should-you-take-the-sat:
 - slug: sat-math-last-2-weeks-checklist
@@ -20517,12 +21898,6 @@ how-many-times-should-you-take-the-sat:
   url: /1997/04/16/sat-math-last-2-weeks-checklist/
   category: industry
   image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: sat-reading-science-passages
-  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
-  url: /1997/04/12/sat-reading-science-passages/
-  category: industry
-  image: /assets/images/blog/blog-10.webp
   lang: en
 - slug: sat-reading-history-passages
   title: 'SAT Reading: History and Social Science Passages Strategy'
@@ -20536,7 +21911,19 @@ how-many-times-should-you-take-the-sat:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: sat-math-careless-mistakes
+  title: 'SAT Math: Common Careless Mistakes and How to Eliminate Them'
+  url: /1997/05/18/sat-math-careless-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 sat-study-schedule-for-busy-students:
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: sat-rw-pacing-strategy
   title: 'SAT RW Pacing: 27 Questions in 32 Minutes Per Module'
   url: /1997/01/30/sat-rw-pacing-strategy/
@@ -20554,12 +21941,6 @@ sat-study-schedule-for-busy-students:
   url: /1997/05/27/sat-math-pacing-strategy/
   category: industry
   image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: sat-math-formula-reference-sheet
-  title: 'SAT Math: Complete Formula and Concept Reference Sheet'
-  url: /1997/05/09/sat-math-formula-reference-sheet/
-  category: industry
-  image: /assets/images/blog/blog-02.webp
   lang: en
 is-it-easy-to-pass-tcs-nqt:
 - slug: tcs-nqt-advanced-coding-guide
@@ -20587,6 +21968,12 @@ is-it-easy-to-pass-tcs-nqt:
   image: /assets/images/blog/blog-47.webp
   lang: en
 sat-1-month-crash-course:
+- slug: sat-math-last-2-weeks-checklist
+  title: 'SAT Math: Last 2 Weeks Review Checklist'
+  url: /1997/04/16/sat-math-last-2-weeks-checklist/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 - slug: sat-math-inequalities-absolute-value
   title: 'SAT Math: Inequalities, Absolute Value and Number Lines'
   url: /1997/08/16/sat-math-inequalities-absolute-value/
@@ -20605,18 +21992,18 @@ sat-1-month-crash-course:
   category: industry
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: sat-math-past-question-analysis
-  title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
-  url: /1997/04/21/sat-math-past-question-analysis/
-  category: industry
-  image: /assets/images/blog/blog-80.webp
-  lang: en
 sat-3-month-preparation-plan:
 - slug: sat-math-past-question-analysis
   title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
   url: /1997/04/21/sat-math-past-question-analysis/
   category: industry
   image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
   lang: en
 - slug: sat-6-month-preparation-plan
   title: 'SAT 6-Month Study Plan: The Complete Preparation Timeline'
@@ -20630,36 +22017,30 @@ sat-3-month-preparation-plan:
   category: industry
   image: /assets/images/blog/blog-18.webp
   lang: en
-- slug: sat-math-systems-no-infinite-solutions
-  title: 'SAT Math: Systems of Equations with No Solution and Infinite Solutions'
-  url: /1997/07/29/sat-math-systems-no-infinite-solutions/
-  category: industry
-  image: /assets/images/blog/blog-16.webp
-  lang: en
 sat-6-month-preparation-plan:
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: sat-3-month-preparation-plan
   title: 'SAT 3-Month Study Plan: Focused Preparation Timeline'
   url: /2021/01/02/sat-3-month-preparation-plan/
   category: industry
   image: /assets/images/blog/blog-23.webp
   lang: en
+- slug: sat-tone-attitude-questions
+  title: 'SAT Reading: Tone, Attitude and Author''s Perspective Questions'
+  url: /1996/12/20/sat-tone-attitude-questions/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
 - slug: sat-craft-structure-questions
   title: 'SAT Craft and Structure Questions: Purpose, Audience and Text Structure'
   url: /1997/03/16/sat-craft-structure-questions/
   category: industry
   image: /assets/images/blog/blog-05.webp
-  lang: en
-- slug: sat-math-preparation-complete-section-guide
-  title: 'SAT Math Preparation: Complete Section Guide'
-  url: /2021/05/10/sat-math-preparation-complete-section-guide/
-  category: industry
-  image: /assets/images/blog/blog-18.webp
-  lang: en
-- slug: sat-math-percent-change-markup-discount
-  title: 'SAT Math: Percent Change, Markups, Discounts and Tax Problems'
-  url: /1997/08/07/sat-math-percent-change-markup-discount/
-  category: industry
-  image: /assets/images/blog/blog-57.webp
   lang: en
 how-to-improve-sat-reading-writing-score:
 - slug: sat-reading-speed-strategy
@@ -20674,17 +22055,17 @@ how-to-improve-sat-reading-writing-score:
   category: industry
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: sat-reading-science-passages
-  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
-  url: /1997/04/12/sat-reading-science-passages/
-  category: industry
-  image: /assets/images/blog/blog-10.webp
-  lang: en
 - slug: sat-rw-module-strategy
   title: 'SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy'
   url: /1997/02/08/sat-rw-module-strategy/
   category: industry
   image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: sat-rw-common-mistakes
+  title: 'SAT RW Common Mistakes: The Errors That Cost 50+ Points'
+  url: /1996/12/16/sat-rw-common-mistakes/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
   lang: en
 tcs-2021-joining-date:
 - slug: predict-your-tcs-joining-date
@@ -20768,23 +22149,23 @@ how-to-go-from-1000-to-1200-on-sat:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
+- slug: sat-rw-past-question-analysis
+  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
+  url: /1996/12/11/sat-rw-past-question-analysis/
+  category: industry
+  image: /assets/images/blog/blog-37.webp
+  lang: en
 - slug: sat-math-word-problem-translation
   title: 'SAT Math: Word Problems Translation Strategy'
   url: /1997/06/27/sat-math-word-problem-translation/
   category: industry
   image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: sat-math-careless-mistakes
-  title: 'SAT Math: Common Careless Mistakes and How to Eliminate Them'
-  url: /1997/05/18/sat-math-careless-mistakes/
+- slug: sat-math-module-1-vs-2
+  title: 'SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works'
+  url: /1997/05/31/sat-math-module-1-vs-2/
   category: industry
-  image: /assets/images/blog/blog-12.webp
-  lang: en
-- slug: sat-reading-speed-strategy
-  title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
-  url: /1997/02/03/sat-reading-speed-strategy/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
 the-elusive-paradox:
 - slug: whole-to-part-panorama
@@ -20812,12 +22193,6 @@ the-elusive-paradox:
   image: /assets/images/blog/blog-59.webp
   lang: en
 how-to-score-1500-plus-on-sat:
-- slug: sat-reading-science-passages
-  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
-  url: /1997/04/12/sat-reading-science-passages/
-  category: industry
-  image: /assets/images/blog/blog-10.webp
-  lang: en
 - slug: sat-reading-history-passages
   title: 'SAT Reading: History and Social Science Passages Strategy'
   url: /1997/04/07/sat-reading-history-passages/
@@ -20836,12 +22211,30 @@ how-to-score-1500-plus-on-sat:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: sat-reading-speed-strategy
+  title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
+  url: /1997/02/03/sat-reading-speed-strategy/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
 sat-expression-of-ideas-complete-guide:
+- slug: sat-transitions-mastery
+  title: 'SAT Writing: Transitions Between Sentences and Paragraphs'
+  url: /1997/01/03/sat-transitions-mastery/
+  category: industry
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: sat-sentence-boundaries
   title: 'SAT Writing: Sentence Boundaries and Comma Splices'
   url: /1997/02/12/sat-sentence-boundaries/
   category: industry
   image: /assets/images/blog/blog-85.webp
+  lang: en
+- slug: sat-grammar-conventions-complete
+  title: 'SAT Standard English Conventions: Complete Grammar and Usage Guide'
+  url: /1997/03/11/sat-grammar-conventions-complete/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
   lang: en
 - slug: sat-subject-verb-agreement
   title: 'SAT Writing: Subject-Verb Agreement and Pronoun-Antecedent Clarity'
@@ -20849,42 +22242,30 @@ sat-expression-of-ideas-complete-guide:
   category: industry
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: sat-verb-tense-mood
-  title: 'SAT Writing: Verb Tense, Mood and Agreement in Complex Sentences'
-  url: /1997/02/17/sat-verb-tense-mood/
-  category: industry
-  image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: sat-punctuation-mastery
-  title: 'SAT Writing: Colon, Semicolon, Dash and Apostrophe Rules Mastered'
-  url: /1997/03/02/sat-punctuation-mastery/
-  category: industry
-  image: /assets/images/blog/blog-58.webp
-  lang: en
 sat-vocabulary-in-context-complete-guide:
+- slug: sat-advanced-vocabulary
+  title: 'SAT Reading: Vocabulary in Context Beyond the Basics'
+  url: /1997/01/16/sat-advanced-vocabulary/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: sat-math-interpreting-coefficients
   title: 'SAT Math: Interpreting Coefficients and Constants in Context'
   url: /1997/04/25/sat-math-interpreting-coefficients/
   category: industry
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: sat-command-of-evidence
-  title: 'SAT Command of Evidence: Textual and Quantitative Evidence Questions'
-  url: /1997/03/25/sat-command-of-evidence/
+- slug: sat-tone-attitude-questions
+  title: 'SAT Reading: Tone, Attitude and Author''s Perspective Questions'
+  url: /1996/12/20/sat-tone-attitude-questions/
   category: industry
-  image: /assets/images/blog/blog-50.webp
+  image: /assets/images/blog/blog-43.webp
   lang: en
-- slug: sat-notes-summary-questions
-  title: 'SAT Notes and Student Summary Questions: New Digital SAT Format'
-  url: /1997/03/20/sat-notes-summary-questions/
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
   category: industry
-  image: /assets/images/blog/blog-05.webp
-  lang: en
-- slug: sat-craft-structure-questions
-  title: 'SAT Craft and Structure Questions: Purpose, Audience and Text Structure'
-  url: /1997/03/16/sat-craft-structure-questions/
-  category: industry
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 tcs-resume-and-cv-review:
 - slug: tcs-nqt-foundation-guide
@@ -20912,6 +22293,12 @@ tcs-resume-and-cv-review:
   image: /assets/images/blog/blog-08.webp
   lang: en
 sat-reading-comprehension-passage-strategies:
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: sat-reading-speed-strategy
   title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
   url: /1997/02/03/sat-reading-speed-strategy/
@@ -20924,19 +22311,19 @@ sat-reading-comprehension-passage-strategies:
   category: industry
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: sat-reading-science-passages
-  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
-  url: /1997/04/12/sat-reading-science-passages/
+- slug: sat-tone-attitude-questions
+  title: 'SAT Reading: Tone, Attitude and Author''s Perspective Questions'
+  url: /1996/12/20/sat-tone-attitude-questions/
   category: industry
-  image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: sat-rw-module-strategy
-  title: 'SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy'
-  url: /1997/02/08/sat-rw-module-strategy/
-  category: industry
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-43.webp
   lang: en
 sat-grammar-rules-complete-guide:
+- slug: sat-grammar-conventions-complete
+  title: 'SAT Standard English Conventions: Complete Grammar and Usage Guide'
+  url: /1997/03/11/sat-grammar-conventions-complete/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
 - slug: sat-punctuation-mastery
   title: 'SAT Writing: Colon, Semicolon, Dash and Apostrophe Rules Mastered'
   url: /1997/03/02/sat-punctuation-mastery/
@@ -20954,12 +22341,6 @@ sat-grammar-rules-complete-guide:
   url: /1997/03/07/sat-subject-verb-agreement/
   category: industry
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: sat-parallel-structure-modifiers
-  title: 'SAT Writing: Parallel Structure and Modifier Placement'
-  url: /1997/02/26/sat-parallel-structure-modifiers/
-  category: industry
-  image: /assets/images/blog/blog-21.webp
   lang: en
 sat-geometry-trigonometry-complete-guide:
 - slug: sat-math-circles-arcs-sectors-radians
@@ -21087,12 +22468,6 @@ sat-algebra-domain-complete-guide:
   image: /assets/images/blog/blog-23.webp
   lang: en
 sat-reading-and-writing-preparation-complete-guide:
-- slug: sat-reading-comprehension-passage-strategies
-  title: 'SAT Reading Comprehension: Passage Strategies That Work'
-  url: /2021/03/15/sat-reading-comprehension-passage-strategies/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
-  lang: en
 - slug: sat-reading-passage-types-evidence-questions-guide
   title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
   url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
@@ -21105,11 +22480,17 @@ sat-reading-and-writing-preparation-complete-guide:
   category: industry
   image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: sat-expression-of-ideas-complete-guide
-  title: 'SAT Expression of Ideas: Transitions, Synthesis, and Strategy'
-  url: /2021/02/27/sat-expression-of-ideas-complete-guide/
+- slug: sat-rw-module-strategy
+  title: 'SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy'
+  url: /1997/02/08/sat-rw-module-strategy/
   category: industry
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
   lang: en
 infosys-to-product-company-gcc:
 - slug: infosys-to-product-company-gcc-switch-guide
@@ -26461,17 +27842,17 @@ tcs-codevita:
   category: industry
   image: /assets/images/blog/blog-87.webp
   lang: en
+- slug: tcs-itis-and-itis-frequently-asked-questions
+  title: TCS iTIS and iON Platforms - FAQ Guide
+  url: /2012/02/24/tcs-itis-and-itis-frequently-asked-questions/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 - slug: it-and-itis-head-on-comparison
   title: 'IT and ITIS: Head-on Comparison'
   url: /2011/08/07/it-and-itis-head-on-comparison/
   category: industry
   image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: c-and-c-grade-colleges-getting-joining
-  title: C and C* grade colleges getting joining
-  url: /2010/09/07/c-and-c-grade-colleges-getting-joining/
-  category: industry
-  image: /assets/images/blog/blog-78.webp
   lang: en
 gaokao-zju-admission-guide:
 - slug: gaokao-fudan-admission-guide
@@ -29598,29 +30979,29 @@ gaokao-probability-statistics-guide:
   image: /assets/images/blog/blog-72.webp
   lang: zh
 sonar-kella-alternate-endings:
-- slug: feluda-complete-guide-bn
-  title: 'ফেলুদা: এক সম্পূর্ণ পরিচিতি'
-  url: /2017/01/01/feluda-complete-guide-bn/
+- slug: feluda-vs-sherlock-holmes-bn
+  title: ফেলুদা বনাম শার্লক হোমস
+  url: /2017/03/31/feluda-vs-sherlock-holmes-bn/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-77.webp
   lang: bn
-- slug: feluda-character-analysis-bn
-  title: ফেলুদা চরিত্রের গভীর বিশ্লেষণ
-  url: /2017/01/16/feluda-character-analysis-bn/
+- slug: sandip-ray-feluda-film-cycle-bn
+  title: 'সন্দীপ রায়ের ফেলুদা চলচ্চিত্র চক্র: ষোলটি অভিযোজন এবং একজন পিতার উত্তরাধিকার'
+  url: /2018/01/23/sandip-ray-feluda-film-cycle-bn/
   category: leisure
-  image: /assets/images/blog/blog-10.webp
+  image: /assets/images/blog/blog-88.webp
   lang: bn
-- slug: topshe-character-analysis-bn
-  title: 'তোপসে: যে কথক ফেলুদাকে সম্ভব করেছে'
-  url: /2017/01/31/topshe-character-analysis-bn/
+- slug: chhinnamastar-abhishap-bn
+  title: 'ছিন্নমস্তার অভিশাপ: হাজারিবাগ ও যুক্তিবাদের পরীক্ষা'
+  url: /2017/08/27/chhinnamastar-abhishap-bn/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-11.webp
   lang: bn
-- slug: jatayu-character-analysis-bn
-  title: 'জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর'
-  url: /2017/02/15/jatayu-character-analysis-bn/
+- slug: hatyapuri-killers-lair-bn
+  title: 'হত্যাপুরী: পুরী সমুদ্র সৈকতে দেরিতে-পর্বের ফেলুদা'
+  url: /2017/09/11/hatyapuri-killers-lair-bn/
   category: leisure
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-61.webp
   lang: bn
 ai-for-ux-designers:
 - slug: best-ai-tools-hr-recruiting
@@ -30253,6 +31634,12 @@ gaokao-for-parents-guide:
   image: /assets/images/blog/blog-77.webp
   lang: zh
 personal-finance-guide-india:
+- slug: sat-math-for-students-who-hate-math
+  title: 'SAT Math for Students Who Hate Math: Building from the Ground Up'
+  url: /1997/05/04/sat-math-for-students-who-hate-math/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: ielts-toefl-complete-guide
   title: 'IELTS & TOEFL Prep Guide: Study Plans, Strategies & Free Resources'
   url: /2025/06/19/ielts-toefl-complete-guide/
@@ -30270,12 +31657,6 @@ personal-finance-guide-india:
   url: /2025/05/23/software-engineer-resume-guide-india/
   category: industry
   image: /assets/images/blog/blog-54.webp
-  lang: en
-- slug: complete-guide-paying-for-college
-  title: 'Paying for College Guide: FAFSA, Scholarships, Loans & Financial Aid'
-  url: /2025/05/13/complete-guide-paying-for-college/
-  category: industry
-  image: /assets/images/blog/blog-29.webp
   lang: en
 how-to-use-microsoft-copilot:
 - slug: how-to-use-github-copilot
@@ -32275,31 +33656,7 @@ best-ai-research-tools:
   category: technology
   image: /assets/images/blog/blog-44.webp
   lang: en
-how-to-prepare-for-cpns-exam-complete-guide:
-- slug: drm-application-not-starting-up-duplicate-versions
-  title: DRM Application not starting up - Duplicate Versions
-  url: /2016/09/14/drm-application-not-starting-up-duplicate-versions/
-  category: analytics
-  image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: drm-ebs-integration-unable-to-fetch-list-of-versions
-  title: DRM EBS Integration - Unable to fetch list of Versions
-  url: /2016/09/14/drm-ebs-integration-unable-to-fetch-list-of-versions/
-  category: analytics
-  image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: drm-internal-server-error
-  title: DRM Internal Server Error
-  url: /2016/09/14/drm-internal-server-error/
-  category: analytics
-  image: /assets/images/blog/blog-07.webp
-  lang: en
-- slug: drm-enterprise-manager-services-not-responding
-  title: DRM Enterprise Manager services not responding
-  url: /2016/09/15/drm-enterprise-manager-services-not-responding/
-  category: analytics
-  image: /assets/images/blog/blog-01.webp
-  lang: en
+how-to-prepare-for-cpns-exam-complete-guide: []
 gaokao-history-preparation-guide:
 - slug: gaokao-modern-chinese-history
   title: Gaokao Modern Chinese History - From Opium Wars to Reform and Opening
@@ -33124,12 +34481,6 @@ complete-history-bollywood-action-cinema:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: hamza-open-letter-to-aditya-dhar
-  title: Hamza’s Open Letter to Aditya Dhar
-  url: /2026/03/29/hamza-open-letter-to-aditya-dhar/
-  category: leisure
-  image: /assets/images/blog/blog-37.webp
-  lang: en
 best-offline-note-taking-apps-for-sensitive-data-a-security-first-comparison:
 - slug: the-honest-problems-with-every-popular-note-taking-app
   title: The Honest Problems With Every Popular Note-Taking App
@@ -33556,29 +34907,29 @@ it-sector-layoffs-2026-global-analysis:
   image: /assets/images/blog/blog-07.webp
   lang: en
 hamza-open-letter-to-aditya-dhar:
-- slug: complete-history-bollywood-action-cinema
-  title: History of Bollywood Action Cinema
-  url: /2026/03/05/complete-history-bollywood-action-cinema/
+- slug: hamza-ali-mazari-character-analysis-dhurandhar
+  title: Hamza Ali Mazari Character Analysis
+  url: /2026/03/25/hamza-ali-mazari-character-analysis-dhurandhar/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
-- slug: industrial-revolution-explained
-  title: The Industrial Revolution Explained
-  url: /2015/09/17/industrial-revolution-explained/
+- slug: aditya-dhar-filmmaking-style-analysis
+  title: Aditya Dhar Filmmaking Style Analyzed
+  url: /2026/04/24/aditya-dhar-filmmaking-style-analysis/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: cleopatra-last-pharaoh-egypt
-  title: 'Cleopatra: The Last Pharaoh of Egypt'
-  url: /2015/05/15/cleopatra-last-pharaoh-egypt/
+- slug: complete-analysis-dhurandhar-part-1
+  title: Complete Analysis of Dhurandhar Part 1
+  url: /2026/03/19/complete-analysis-dhurandhar-part-1/
   category: leisure
-  image: /assets/images/blog/blog-70.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: viking-age-history-explained
-  title: 'The Viking Age: History and Legacy Explained'
-  url: /2015/07/19/viking-age-history-explained/
+- slug: dhurandhar-the-revenge-alternate-endings
+  title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
+  url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 rehman-dakait-character-analysis-dhurandhar:
 - slug: major-iqbal-character-analysis-dhurandhar
@@ -33618,17 +34969,17 @@ yrf-spy-universe-complete-guide-all-films:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 - slug: why-dhurandhar-changed-bollywood-forever
   title: Why Dhurandhar Changed Bollywood Forever
   url: /2026/06/20/why-dhurandhar-changed-bollywood-forever/
   category: leisure
   image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: dhurandhar-franchise-records-broken
-  title: Every Record Dhurandhar Franchise Broke
-  url: /2026/05/21/dhurandhar-franchise-records-broken/
-  category: leisure
-  image: /assets/images/blog/blog-47.webp
   lang: en
 oracle-layoffs-article:
 - slug: oracle-layoffs-every-question-answered
@@ -33699,11 +35050,11 @@ oracle-layoffs-strategic-analysis:
   category: industry
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: ups-layoffs-article
-  title: UPS Layoffs 2026 Explained in Full Detail
-  url: /2026/01/27/ups-layoffs-article/
+- slug: sat-cross-text-connections
+  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
+  url: /1997/01/21/sat-cross-text-connections/
   category: industry
-  image: /assets/images/blog/blog-47.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 sp-choudhary-aslam-character-analysis-dhurandhar:
 - slug: yalina-jamali-sara-arjun-character-analysis
@@ -33987,17 +35338,17 @@ aditya-dhar-filmmaking-style-analysis:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: complete-analysis-dhurandhar-part-1
-  title: Complete Analysis of Dhurandhar Part 1
-  url: /2026/03/19/complete-analysis-dhurandhar-part-1/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
-  lang: en
 - slug: dhurandhar-the-revenge-alternate-endings
   title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
   url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
   category: leisure
   image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: hamza-open-letter-to-aditya-dhar
+  title: Hamza’s Open Letter to Aditya Dhar
+  url: /2026/03/29/hamza-open-letter-to-aditya-dhar/
+  category: leisure
+  image: /assets/images/blog/blog-37.webp
   lang: en
 - slug: themes-symbolism-dhurandhar-duology
   title: Themes and Symbolism in Dhurandhar Duology
@@ -34280,11 +35631,11 @@ dhurandhar-vs-uri-surgical-strike-compared:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: operation-dhurandhar-explained
-  title: Operation Dhurandhar Explained
-  url: /2026/05/18/operation-dhurandhar-explained/
+- slug: hamza-open-letter-to-aditya-dhar
+  title: Hamza’s Open Letter to Aditya Dhar
+  url: /2026/03/29/hamza-open-letter-to-aditya-dhar/
   category: leisure
-  image: /assets/images/blog/blog-75.webp
+  image: /assets/images/blog/blog-37.webp
   lang: en
 dhurandhar-controversies-explained:
 - slug: why-dhurandhar-changed-bollywood-forever
@@ -34443,6 +35794,12 @@ why-dhurandhar-changed-bollywood-forever:
   image: /assets/images/blog/blog-24.webp
   lang: en
 dhurandhar-ending-explained-both-parts:
+- slug: operation-dhurandhar-explained
+  title: Operation Dhurandhar Explained
+  url: /2026/05/18/operation-dhurandhar-explained/
+  category: leisure
+  image: /assets/images/blog/blog-75.webp
+  lang: en
 - slug: complete-analysis-dhurandhar-the-revenge
   title: Complete Analysis of Dhurandhar The Revenge
   url: /2026/03/22/complete-analysis-dhurandhar-the-revenge/
@@ -34460,10 +35817,4 @@ dhurandhar-ending-explained-both-parts:
   url: /2026/05/14/dhurandhar-action-sequences-ranked-analyzed/
   category: leisure
   image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: karachi-underworld-lyari-dhurandhar
-  title: The Karachi Underworld in Dhurandhar
-  url: /2026/05/11/karachi-underworld-lyari-dhurandhar/
-  category: leisure
-  image: /assets/images/blog/blog-86.webp
   lang: en

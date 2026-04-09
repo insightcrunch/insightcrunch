@@ -9,7 +9,7 @@ excerpt: "The complete guide to Digital SAT poetry and verse questions - the rea
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
 author: "elena-wright"
-last_updated: 1996-12-25
+last_updated: 2026-04-09
 lang: en
 ---
 Poetry passages are a distinctive feature of the Digital SAT. They appear less frequently than prose passages - typically one or two per module - but they require a fundamentally different reading approach. Students who have prepared extensively for science and history passages but not for poetry will find these questions disproportionately challenging relative to their overall preparation level. Where prose passages reward careful attention to stated facts and logical structure, poetry passages reward attention to imagery, figurative language, and mood. A student who reads poetry the way they read a scientific argument will miss every question. A student who applies the specific poetry reading approach - read twice, interpret figuratively, eliminate the two traps - will answer every question with confidence and accuracy.

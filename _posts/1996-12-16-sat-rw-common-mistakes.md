@@ -9,7 +9,7 @@ excerpt: "The 15 most costly SAT RW mistakes with specific behavioral cures - fr
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
 author: "patrick-dunn"
-last_updated: 1996-12-16
+last_updated: 2026-04-09
 lang: en
 ---
 The highest-leverage preparation for the Digital SAT RW section is not learning new content - it is eliminating the systematic errors that cost points on questions a student already understands. This is the core insight that every serious Digital SAT student should internalize before their final preparation push.

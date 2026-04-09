@@ -9,7 +9,7 @@ excerpt: "The complete 14-day RW countdown checklist - day-by-day tasks from tim
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 1996-12-07
+last_updated: 2026-04-09
 lang: en
 ---
 The two weeks before the Digital SAT are not for learning new material. They are for doing three things: identifying remaining gaps, closing the most important gaps efficiently, and consolidating everything learned over the preceding preparation period.

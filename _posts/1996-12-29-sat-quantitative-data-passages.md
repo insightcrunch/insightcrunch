@@ -9,7 +9,7 @@ excerpt: "The definitive guide to Digital SAT quantitative data questions - read
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 61
 author: "maria-santos"
-last_updated: 1996-12-29
+last_updated: 2026-04-09
 lang: en
 ---
 The Digital SAT regularly pairs a short passage with a table, graph, or chart and asks questions that require integrating the text with the data. These quantitative data questions test a specific skill: matching precise data points to precise claims. This skill is entirely separate from mathematical ability - the "math" in these questions is at most a basic comparison (which number is larger?) or a percentage check (what fraction is this?). Students who approach these questions as precision reading tasks rather than math tasks consistently perform better than those who approach them as calculation exercises. A student who reads data generally - identifying a trend or a rough pattern - will miss the specific data point the question requires. A student who reads data precisely - locating the exact row, column, and value the question asks about - will answer correctly.

@@ -5,11 +5,11 @@ page_title: "SAT Math Radicals and Rational Equations: Complete Guide to Extrane
 date: 1997-08-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Radicals", "Rational Equations", "Advanced Math"]
-excerpt: "Master SAT radical expressions and rational equations, including extraneous solutions, fractional exponents, and Desmos verification strategies."
+excerpt: "Master SAT radical and rational equation questions with the extraneous-solution rule and worked examples."
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1997-08-20
+last_updated: 2026-04-09
 lang: en
 ---
 Radical expressions and rational equations are among the most technique-dense topics on the Digital SAT. They appear on every administration, typically one to three questions per test, and they cluster in the harder modules because the College Board knows that the underlying concepts (extraneous solutions, conjugate rationalization, variable denominators) are exactly the areas where students have the shakiest foundations from classroom instruction. A student who has genuinely mastered these topics and practiced the specific question formats the SAT uses can turn a formerly unreliable category into a consistent source of correct answers in Module 2.

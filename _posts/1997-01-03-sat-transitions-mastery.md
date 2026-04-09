@@ -9,7 +9,7 @@ excerpt: "The complete guide to Digital SAT transition questions - the four-step
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 61
 author: "michael-brooks"
-last_updated: 1997-01-03
+last_updated: 2026-04-09
 lang: en
 ---
 Transition questions appear 2-4 times in every Digital SAT RW module. They ask which word or phrase "most logically completes the text" by connecting two ideas. They are part of the expression of ideas question category and test whether students can identify and articulate the logical relationship between adjacent sentences. The most common error is selecting a transition that sounds sophisticated or formal rather than one that matches the actual logical relationship between the two sentences. This error occurs because students evaluate transitions by their register (how academic they sound) rather than by their logical function (what relationship they signal).

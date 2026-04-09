@@ -9,7 +9,7 @@ excerpt: "The definitive guide to hard Digital SAT vocabulary questions - connot
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 61
 author: "katherine-blake"
-last_updated: 1997-01-16
+last_updated: 2026-04-09
 lang: en
 ---
 The basic Digital SAT vocabulary strategy - cover the word, read the context, predict the meaning, select - handles approximately 70% of vocabulary questions reliably. The remaining 30% are the hard vocabulary questions that require the advanced framework in this article. But the hardest vocabulary questions on the Digital SAT test something more nuanced: the ability to distinguish between words that mean approximately the same thing but differ in connotation, precision level, or register. These questions are specifically designed to catch students who rely on general word meaning rather than precise contextual fit.
