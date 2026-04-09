@@ -6,17 +6,17 @@ date: 2015-11-06
 categories: ["Leisure"]
 tags: ["meiji-restoration", "japanese-history", "modernization", "world-history", "historical-analysis"]
 excerpt: "The Meiji Restoration explained - how Japan modernized from feudal isolation to industrial power in decades."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-11-06
+lang: en
 ---
-
 On July 8, 1853, Commodore Matthew Perry of the United States Navy anchored four warships in Edo Bay, within sight of the Japanese capital. Two of the ships were steam-powered and black-hulled, and Japanese observers watching from the shore had never seen vessels moving without sails. Perry carried a letter from President Millard Fillmore demanding that Japan open its ports to American commerce and provide coal for American ships crossing the Pacific. The Tokugawa shogunate, which had governed Japan in near-complete isolation from the outside world since 1639, had no realistic military option: the gap between Japanese and American naval technology was simply too large to bridge in any available timeframe. Japan opened its ports, signed unequal treaties that humiliated the national pride of the samurai class, and set in motion the specific political crisis that brought the Tokugawa shogunate to its end fifteen years later. The revolution that followed, the Meiji Restoration of 1868, was among the most deliberate and most successful self-transformations that any nation has undertaken in the history of the modern world: in approximately forty years, Japan transformed from a feudal agricultural society with no railways, no telegraph, no standing army in the Western sense, and no industrial base into the only non-Western great power, capable of defeating both China and Russia in war within twenty years of the Meiji government's consolidation.
 
 <!--more-->
 
-![The Meiji Restoration in Japan Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
+![The Meiji Restoration in Japan Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The Meiji Restoration, which began with the formal restoration of imperial rule in January 1868 and continued as a transformative political and economic program through approximately 1912, was the most dramatic and most successful instance of deliberate national modernization in the history of the modern world. No other society transformed so rapidly, so deliberately, and so successfully from a pre-industrial feudal order to a modern industrial state while retaining its political independence, its cultural identity, and the specific will to compete as an equal with the Western powers that had forced the transformation. Understanding how Japan accomplished this, what specific choices were made, what specific institutions were built, and what specific costs were paid, is one of the most illuminating studies in the political economy of development that history provides. To trace the Meiji Restoration within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this remarkable transformation.
 

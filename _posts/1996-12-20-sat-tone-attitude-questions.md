@@ -6,12 +6,12 @@ date: 1996-12-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Tone", "Author Perspective", "Reading Comprehension"]
 excerpt: "The definitive guide to Digital SAT tone and attitude questions - the tone precision requirement, complete positive/negative/nuanced tone spectrums, tone marker words, tone shifts, author vs subject tone distinction, and 8+ worked examples."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1996-12-20
+lang: en
 ---
-
 Tone questions on the Digital SAT require precision. "Positive" and "negative" are not acceptable answers - the test offers four answer choices that may all be broadly positive or all broadly negative, differing only in their specific emotional quality.
 
 The precision requirement is what makes tone questions challenging for unprepared students and straightforward for prepared ones. The prepared student has a vocabulary for 25+ distinct tones and a strategy for identifying which specific tone a passage exhibits. The unprepared student has only "good" or "bad" - which the four answer choices are specifically designed to defeat.
@@ -22,7 +22,7 @@ This guide covers the complete tone spectrum the Digital SAT tests, the tone mar
 
 For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For craft and structure questions that overlap with tone, see [SAT Craft and Structure Questions](/1997/03/16/sat-craft-structure-questions/). For literary fiction passages where tone identification is especially critical, see [SAT Reading: Literature and Fiction Passages](/1997/04/03/sat-reading-literature-fiction/). For Digital SAT RW practice including tone and attitude questions, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include all reading comprehension question types.
 
-![SAT Reading Tone Attitude and Author Perspective Questions](/assets/images/blog/blog-11.webp)
+![SAT Reading Tone Attitude and Author Perspective Questions](/assets/images/blog/blog-43.webp)
 
 ---
 

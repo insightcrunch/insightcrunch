@@ -6,17 +6,17 @@ date: 2015-11-16
 categories: ["Leisure"]
 tags: ["world-war-1", "causes-wwi", "european-history", "military-history", "world-history"]
 excerpt: "Why World War I happened - alliances, nationalism, arms races, Sarajevo, and the chain reaction that followed."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-11-16
+lang: en
 ---
-
 On the morning of June 28, 1914, Archduke Franz Ferdinand, heir to the Austro-Hungarian throne, and his wife Sophie were shot dead in Sarajevo by Gavrilo Princip, a nineteen-year-old Bosnian Serb nationalist. The assassination was the immediate trigger for a catastrophe that killed approximately 17 million people, destroyed four empires, redrew the map of the world, and set in motion the specific sequence of events that produced the Second World War twenty years later. But the assassination was trigger, not cause. The causes of the First World War ran deeper and further back: in the specific alliance system that converted a regional dispute into a continental war; in the specific nationalist movements that made the stability of multi-ethnic empires politically unsustainable; in the specific arms race that gave Europe's military establishments both the weapons and the planning frameworks that made war seem manageable; and in the specific colonial competition that had trained European statesmen to think in terms of zero-sum competition rather than mutual accommodation. Understanding why the World War I happened requires understanding both the specific match that lit the fire and the specific decades of accumulated combustible material that made the fire so catastrophic. To trace the causes of World War I within the full sweep of European and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative catastrophe.
 
 <!--more-->
 
-![Causes of World War I Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Causes of World War I Explained - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 ## The Alliance System: How a Local Crisis Became a World War
 

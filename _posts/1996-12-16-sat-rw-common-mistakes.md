@@ -8,10 +8,10 @@ tags: ["SAT", "SAT Reading", "SAT Writing", "Mistakes", "Error Prevention"]
 excerpt: "The 15 most costly SAT RW mistakes with specific behavioral cures - from misreading question stems to importing outside knowledge, second-guessing correct answers, and ignoring tone shifts."
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1996-12-16
+lang: en
 ---
-
 The highest-leverage preparation for the Digital SAT RW section is not learning new content - it is eliminating the systematic errors that cost points on questions a student already understands. This is the core insight that every serious Digital SAT student should internalize before their final preparation push.
 
 This distinction is crucial: content preparation and error prevention are fundamentally different activities that address different causes of wrong answers. Content preparation adds capability (the student can now answer questions they previously could not). Error prevention recovers capability (the student now correctly answers questions they could have answered but did not, due to behavioral interference). For students who have done significant content preparation, error prevention typically produces faster score improvement than additional content learning. Most students who score in the 650-700 range already know the grammar rules, understand how to identify main ideas, and can analyze figurative language. The barrier is not knowledge - it is consistent application of that knowledge without behavioral interference.

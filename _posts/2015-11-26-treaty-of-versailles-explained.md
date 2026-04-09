@@ -6,17 +6,17 @@ date: 2015-11-26
 categories: ["Leisure"]
 tags: ["treaty-of-versailles", "world-war-1", "european-history", "peace-treaty", "world-history"]
 excerpt: "The Treaty of Versailles explained - its terms, Germany's humiliation, and how it led to World War II."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-11-26
+lang: en
 ---
-
 On June 28, 1919, five years to the day after the assassination of Archduke Franz Ferdinand in Sarajevo, German foreign minister Hermann Muller and transport minister Johannes Bell entered the Hall of Mirrors at the Palace of Versailles and signed the peace treaty that formally ended the First World War. The choice of the Hall of Mirrors was deliberately chosen for its symbolic weight: it was in this same room, on January 18, 1871, that Bismarck had proclaimed the German Empire after defeating France in the Franco-Prussian War. The victorious Allies now required Germany to accept the peace in the room where Germany had inflicted its greatest humiliation on France. When the German delegates signed, the crowd outside in the gardens cheered. In Berlin, the government that had sent the delegates announced that Germany had submitted to an imposed diktat rather than a negotiated peace, and that the signature had been extracted under duress. Both things were true. The question of whether the treaty was a reasonable peace, a punitive vindication, or the catastrophic blunder that produced the Second World War has been argued by historians ever since, and the answer determines how one understands the entire twentieth century.
 
 <!--more-->
 
-![The Treaty of Versailles Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![The Treaty of Versailles Explained - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The Treaty of Versailles, signed on June 28, 1919 and entering into force on January 10, 1920, was the primary but not the only peace treaty of the Paris Peace Conference, which also produced the Treaty of Saint-Germain-en-Laye with Austria, the Treaty of Neuilly with Bulgaria, the Treaty of Trianon with Hungary, and the Treaty of Sevres with the Ottoman Empire. Together these treaties dismantled four empires, created approximately a dozen new states, and established the political map of Europe and the Middle East that, in its broad outlines, still defines the world today. The Versailles Treaty was the most important of these settlements because it dealt with Germany, the largest and potentially most powerful state in Europe, whose relationship to the new international order the treaty was attempting to define. To trace the Treaty of Versailles within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this pivotal settlement and its consequences.
 

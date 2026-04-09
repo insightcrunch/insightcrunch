@@ -6,17 +6,17 @@ date: 2015-11-11
 categories: ["Leisure"]
 tags: ["irish-famine", "irish-history", "british-history", "migration", "world-history"]
 excerpt: "The Irish Great Famine explained - causes, British policy failures, mass death, emigration, and lasting impact."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-11-11
+lang: en
 ---
-
 In the autumn of 1845, a mysterious blight began destroying potato crops across Ireland. Within weeks, the black rot had spread from field to field throughout the island, reducing the potato harvest of 1845 by approximately one-third and the harvest of 1846 by approximately three-quarters. For the approximately one-third of the Irish population that depended on the potato as their primary food source, the two successive harvest failures were a catastrophe without precedent in modern European history. Between 1845 and 1852, approximately one million people died of starvation and related disease, and approximately one million more emigrated in conditions so desperate that the ships carrying them became known as "coffin ships" for their mortality rates. By 1851, the Irish population had fallen from approximately 8.2 million to approximately 6.5 million, a demographic collapse unmatched in any comparable European country in the nineteenth century.
 
 <!--more-->
 
-![The Irish Great Famine Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
+![The Irish Great Famine Explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The Irish Great Famine of 1845-1852 was simultaneously a natural disaster (the fungal blight Phytophthora infestans that destroyed the potato crop was a real biological catastrophe), a political failure (the British government's response was shaped by an ideology that prioritized market principles over the obligation to prevent mass death), and a defining trauma whose consequences in terms of population collapse, diaspora formation, and Irish political identity continue to shape Irish history and the Irish-British relationship. Understanding the famine honestly requires engaging with all three dimensions: the biological reality, the policy choices, and the human experience of a catastrophe that removed approximately 25 percent of Ireland's population in seven years. To trace the Irish Great Famine within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this catastrophe and its aftermath.
 

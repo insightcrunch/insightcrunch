@@ -6,17 +6,17 @@ date: 2015-11-21
 categories: ["Leisure"]
 tags: ["trench-warfare", "world-war-1", "western-front", "military-history", "world-history"]
 excerpt: "Trench warfare in WWI explained - conditions, tactics, technology, and the human cost of industrial war."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-11-21
+lang: en
 ---
-
 At 7:30 on the morning of July 1, 1916, British officers blew their whistles along a twenty-mile front in northern France and approximately 120,000 men climbed out of their trenches and walked forward across No Man's Land toward the German positions. By the end of the day, the British Army had suffered approximately 57,470 casualties, including approximately 19,240 dead: the worst single day in British military history. The men who fell had walked into concentrated machine-gun fire from German positions that the preceding week-long artillery bombardment had failed to destroy. Many had been told they could walk, because the German defenses would be obliterated. The Battle of the Somme, which continued for four more months and produced approximately 1.1 million total casualties on all sides, was the specific most concentrated expression of what trench warfare on the Western Front meant: an industrial killing machine that consumed human lives at a rate no previous form of warfare had approached and that shattered, permanently, the Victorian confidence in progress and the rational management of human affairs.
 
 <!--more-->
 
-![Trench Warfare in World War I Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Trench Warfare in World War I Explained - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 Trench warfare, the system of opposing fortified ditches that stretched approximately 700 kilometers from the English Channel to the Swiss frontier from late 1914 until 1918, was neither planned nor anticipated by any of the general staffs that had spent decades preparing for the war. Every major military power had planned for a short, decisive, mobile conflict. What they got instead was four years of industrialized attrition fought from holes in the ground, a military and human experience so extreme that it reshaped the literature, politics, and psychology of an entire civilization. The Western Front's trenches are the defining image of the First World War, the central metaphor for modern futility, and one of the most intensively studied environments in the history of warfare. To trace trench warfare within the full sweep of military and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this defining catastrophe.
 

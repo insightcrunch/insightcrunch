@@ -6,12 +6,12 @@ date: 1996-12-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Final Review", "Checklist", "Strategy"]
 excerpt: "The complete 14-day RW countdown checklist - day-by-day tasks from timed practice and tier error analysis through grammar review, transition drills, rhetoric synthesis practice, evidence questions, pacing, and test day preparation."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 1996-12-07
+lang: en
 ---
-
 The two weeks before the Digital SAT are not for learning new material. They are for doing three things: identifying remaining gaps, closing the most important gaps efficiently, and consolidating everything learned over the preceding preparation period.
 
 Students who understand this distinction arrive on test day sharp, confident, and rested. The preparation is done. The two weeks are for making sure that preparation is accessible, automatic, and reliable on the specific day and hour of the test.
@@ -22,7 +22,7 @@ The checklist is derived from the same evidence-based principles that drive the 
 
 This article mirrors the approach taken in [SAT Math: Last 2 Weeks Review Checklist](/1997/04/16/sat-math-last-2-weeks-checklist/) and provides the RW equivalent. For complete grammar rule review, see [SAT Grammar: Conventions Complete Guide](/1997/03/11/sat-grammar-conventions-complete/). For complete test day strategy, see the [SAT Test Day Complete Guide](/2020/10/30/sat-test-day-complete-guide/). For Digital SAT RW practice across all question types, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include all tiers at all difficulty levels.
 
-![SAT RW Last 2 Weeks Review Checklist](/assets/images/blog/blog-14.webp)
+![SAT RW Last 2 Weeks Review Checklist](/assets/images/blog/blog-33.webp)
 
 ---
 

@@ -6,12 +6,12 @@ date: 1996-12-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Past Questions", "Analysis", "Study Plan"]
 excerpt: "Data-driven analysis of Digital SAT RW question distribution 2023-2026 with a three-tier priority study system - Tier 1 high-frequency questions to study first, Tier 2 secondary priorities, and Tier 3 low-frequency questions to study last."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1996-12-11
+lang: en
 ---
-
 Every hour spent preparing for the Digital SAT RW section should be allocated based on how frequently different question types actually appear. The alternative - spending equal time on all question types - is systematically inefficient.
 
 THE OPPORTUNITY COST PROBLEM: Preparation time is a finite resource. Every hour spent on a Tier 3 type is an hour not spent on Tier 1. For a student with 20 hours of preparation available, spending 5 hours on Tier 3 and 15 on Tier 1-2 produces significantly worse outcomes than spending all 20 hours on Tier 1. The opportunity cost of Tier 3 preparation is measurable: approximately 0.5 expected questions per hour studied, compared to approximately 2.0 expected questions per hour for Tier 1.
@@ -20,7 +20,7 @@ A student who spends 2 hours on subjunctive mood (Tier 3, 0-1 questions per modu
 
 This analysis mirrors the approach taken in [SAT Math: Past Question Pattern Analysis 2023-2026](/1997/04/21/sat-math-past-question-analysis/) and serves as the study plan foundation for RW preparation. Just as the Math tier analysis tells students to study algebra before advanced statistics, the RW tier analysis tells students to study subject-verb agreement before idioms. The principle is the same: frequency determines priority. For the complete reading and writing preparation guide, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For the hardest question types in detail, see [SAT RW: The 15 Hardest Question Types](/1997/01/25/sat-rw-hardest-question-types/). For Digital SAT RW practice across all tiers, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include all question types at all difficulty levels.
 
-![SAT RW Past Question Pattern Analysis](/assets/images/blog/blog-13.webp)
+![SAT RW Past Question Pattern Analysis](/assets/images/blog/blog-37.webp)
 
 ---
 
