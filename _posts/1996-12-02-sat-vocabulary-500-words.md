@@ -6,17 +6,17 @@ date: 1996-12-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Vocabulary", "Word List", "Study Guide"]
 excerpt: "The complete 500-word SAT vocabulary resource organized into three tiers - 200 core words, 200 advanced words, and 100 elite words - with definitions, SAT-style example sentences, wrong-usage traps, root word families, and a complete spaced repetition study plan."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 1996-12-02
+lang: en
 ---
-
 The Digital SAT tests vocabulary differently than its predecessors: not rare words in their primary definitions, but common words in their secondary and figurative meanings. This shift means that the right vocabulary preparation is different from traditional SAT word lists. This article provides both the words and the methodology for learning them effectively.
 
 For the complete vocabulary-in-context strategy (the substitution test and contextual derivation), see [SAT Advanced Vocabulary Strategy: Context Clues and Inference](/1997/01/16/sat-advanced-vocabulary/). For reading speed strategies that support vocabulary comprehension, see [SAT Reading Speed: How to Read Faster Without Losing Accuracy](/1997/02/03/sat-reading-speed-strategy/). For complete reading and writing preparation, see the [complete SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/). For practice applying vocabulary strategies, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic include vocabulary-in-context questions at all difficulty levels.
 
-![SAT Vocabulary 500 Words](/assets/images/blog/blog-15.webp)
+![SAT Vocabulary 500 Words](/assets/images/blog/blog-02.webp)
 
 ---
 
