@@ -6,19 +6,19 @@ date: 2015-12-31
 categories: ["Leisure"]
 tags: ["mussolini", "fascism", "italian-history", "european-history", "world-history"]
 excerpt: "How Mussolini rose to power in Italy - the birth of fascism, the march on Rome, and the dictatorship."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-12-31
+lang: en
 ---
-
 On the morning of October 30, 1922, Benito Mussolini stepped off a night train from Milan at Rome's Termini station, dressed in a black shirt and bowler hat, and was driven to an audience with King Victor Emmanuel III. The king asked him to form a government. Mussolini accepted. Within hours, he was Prime Minister of Italy. He was 39 years old, had never held ministerial office, led a party that had won less than seven percent of the vote in the most recent election, and had just organized a theatrical march on the capital by tens of thousands of black-shirted paramilitaries that the Italian army could have dispersed in an afternoon. None of that mattered. The conservative establishment had decided that this former socialist agitator, this street-fighting journalist who combined nationalist bombast with genuine charisma, was the man they could use to crush the left and stabilize a country that had been ungovernable since the war ended. They were wrong in precisely the way that the conservative establishment in Weimar Germany would be wrong eleven years later when they made the same calculation about Adolf Hitler.
 
 <!--more-->
 
 Mussolini was not Hitler. He was Hitler's teacher. The march on Rome preceded Hitler's Beer Hall Putsch by a year. Fascism as an organized political movement, with its paramilitary squads, its cult of violence, its theatrical spectacle, its destruction of democratic institutions from within their own legal forms, its contempt for parliamentary procedure and its exploitation of emergency powers, was an Italian invention. Hitler studied it, admired it, and adapted it for German conditions with the systematic thoroughness of a student who had found a syllabus. When the Nazi movement was still a fringe phenomenon in Bavaria, Mussolini was already ruling Italy. Understanding how Mussolini achieved and held power is therefore not merely a chapter in Italian history. It is the founding document of twentieth-century totalitarianism, the first demonstration that modern industrial democracies could be destroyed from within by political movements that understood how to weaponize democratic procedures, economic crisis, and organized violence simultaneously.
 
-![Mussolini and the Rise of Fascism in Italy - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Mussolini and the Rise of Fascism in Italy - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The story of Mussolini's rise is also the story of a specific political chemistry that the [First World War](https://insightcrunch.com/2015/12/16/how-ww1-changed-the-world/) had created and that liberal democracy proved entirely unprepared to neutralize. Veterans who had survived the trenches and returned to a country that seemed to have forgotten their sacrifice. A middle class terrified of Bolshevik revolution. A political elite that had governed Italy through manipulation and corruption for so long that it had lost the capacity to govern through persuasion and consent. And one man who understood all of it, who had an uncanny ability to read the desires of crowds and give those desires a name, a flag, and a boot to march under. To [trace these events on an interactive timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see how specifically the First World War's aftermath created the conditions that fascism required, and how specifically Mussolini identified and exploited each one.
 

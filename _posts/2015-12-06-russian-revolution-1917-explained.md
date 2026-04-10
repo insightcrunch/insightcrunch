@@ -6,17 +6,17 @@ date: 2015-12-06
 categories: ["Leisure"]
 tags: ["russian-revolution", "1917", "lenin", "communism", "world-history", "historical-analysis"]
 excerpt: "The Russian Revolution of 1917 explained - the Tsar's fall, Lenin's rise, and the birth of the Soviet state."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-12-06
+lang: en
 ---
-
 On March 8, 1917, women workers at the Putilov steel factory in Petrograd went on strike to protest bread shortages. By the following day, approximately 200,000 workers had joined them in the streets. By March 12, the soldiers ordered to suppress the protests were joining them instead. By March 15, Tsar Nicholas II had abdicated, ending three centuries of Romanov rule and the specific dynasty that had shaped Russian history since 1613. The collapse of the Romanov autocracy, which had seemed inconceivable to most observers even weeks before it happened, took six days. Eight months later, on November 7, the Bolshevik party under Vladimir Lenin seized control of the Provisional Government that had replaced the Tsar, establishing the world's first communist state and beginning an experiment in social transformation that would shape the politics of the entire twentieth century. The Russian Revolution of 1917 was not one revolution but two: the February Revolution that ended the Romanov dynasty and the October Revolution that brought the Bolsheviks to power, and understanding both, and the specific relationship between them, is understanding one of the specific most consequential sequences of events in modern history.
 
 <!--more-->
 
-![The Russian Revolution of 1917 Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Russian Revolution of 1917 Explained - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The Russian Revolution of 1917, encompassing the February Revolution that overthrew Tsar Nicholas II and the October Revolution that brought the Bolshevik party to power, was the specific most consequential political transformation of the twentieth century. The Soviet state it created shaped the politics of every country in the world for the following seventy years, produced the Cold War that defined international relations from 1947 to 1991, and directly influenced the Chinese, Cuban, Vietnamese, and numerous other revolutions that reshaped the political map of the developing world. Understanding how it happened, why the Provisional Government failed, and how Lenin's small and initially marginal party was able to seize power in the chaos of a country at war and in revolution, is understanding one of the specific most important and most intensively studied questions in modern political history. To trace the Russian Revolution within the full sweep of world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this transformative event.
 

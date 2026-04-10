@@ -6,19 +6,19 @@ date: 2016-01-05
 categories: ["Leisure"]
 tags: ["stalin", "soviet-union", "communism", "gulag", "world-history", "historical-analysis"]
 excerpt: "Stalin's Soviet Union explained - forced industrialization, purges, the Gulag, and a legacy of terror."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-05
+lang: en
 ---
-
 In the summer of 1936, Grigory Zinoviev and Lev Kamenev, two of the most prominent figures in the history of the Bolshevik Revolution, stood before a Soviet court and confessed to crimes they had not committed. They confessed to organizing terrorist conspiracies against the Soviet state. They confessed to planning the assassination of Stalin. They confessed, in elaborate and self-incriminating detail, to having been agents of foreign intelligence services and servants of fascism. They named names. They implicated colleagues who would then be brought to trial, forced to confess, and executed. After delivering these confessions, they expressed gratitude to the Soviet system for giving them the opportunity to acknowledge their guilt before the workers of the world. Then they were shot.
 
 <!--more-->
 
 These were not stupid men. Zinoviev had been one of Lenin's closest comrades; Kamenev was a central figure in the October Revolution. Both had been members of the Politburo. Both knew perfectly well that the charges were fabrications. The question that haunted observers then and has occupied historians ever since is how a regime could compel such confessions from such men, and why. The answer reveals more about Stalinism than any number of statistics about purge victims or Gulag prisoners, because the Moscow Trials were not aberrations in the Soviet system. They were its purest expression: the systematic destruction of any individual capable of independent thought, independent loyalty, or independent existence, and their replacement with performance of total submission so complete that the victim participated actively in the theater of his own destruction.
 
-![Stalin and the Soviet Union Explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Stalin and the Soviet Union Explained - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Stalin's genius, and it is necessary to acknowledge the specific kind of genius his rise required even while recognizing the monstrousness of what he built, was not ideology and it was not charisma. It was patience, and the particular kind of intelligence that patience serves: the ability to wait, to accumulate, to outlast, to identify every potential threat to his power before it materialized and eliminate it with a thoroughness that left no remnant to reconstitute itself. He built a system of total personal power in a state that had been founded on the explicit rejection of personal power, and he did it so gradually, so carefully, and so completely that by the time his rivals understood what was happening, the mechanisms of resistance had already been dismantled. The [Russian Revolution of 1917](https://insightcrunch.com/2015/12/06/russian-revolution-1917-explained/) had created a state that claimed to be the first workers' republic in history. Stalin converted it into the most complete personal autocracy the modern world had seen, and he did it using the revolution's own institutions, vocabulary, and ideological commitments as the instruments of their own destruction. George Orwell understood this better than most, and [Animal Farm](https://insightcrunch.com/2014/05/25/complete-analysis-animal-farm-orwell/) is, in significant measure, about Stalin's specific achievement: the revolution that becomes the thing it was made to destroy. To [trace this transformation on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see with uncomfortable clarity how each step followed from the last with the logic of a mechanism designed precisely for this destination.
 

@@ -6,19 +6,19 @@ date: 2015-12-11
 categories: ["Leisure"]
 tags: ["armenian-genocide", "ottoman-empire", "world-war-1", "human-rights", "world-history"]
 excerpt: "The Armenian Genocide explained - causes, events, international response, and the ongoing fight for recognition."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-12-11
+lang: en
 ---
-
 In the early hours of April 24, 1915, Ottoman police fanned out across Constantinople with lists of names. By dawn, approximately 235 prominent Armenians had been pulled from their beds, their homes, their neighborhoods. Intellectuals, clergy, editors, teachers, doctors, lawyers. They were the community's memory, its leadership, its voice. Within days, most had been deported to the interior of Anatolia. Within weeks, the majority were dead. The date would become Armenian Genocide Remembrance Day, but at the time it was simply the moment the Ottoman state moved to silence the only people who could have organized, articulated, or resisted what was coming.
 
 <!--more-->
 
 What followed was not a pogrom, not a wartime reprisal, not the chaotic violence of a collapsing empire. What followed was a coordinated, centrally directed campaign to eliminate the Armenian population from Anatolia. Deportation orders traveled through the Ministry of the Interior. A parallel paramilitary structure, the Special Organization, handled the actual killing. The telegraph lines that connected every provincial governor to Constantinople carried both the orders and the progress reports. The Armenian Genocide was the first state-organized mass extermination of an ethnic group in the twentieth century, and it established a template that the architects of later genocides studied, cited, and refined. To understand why genocide keeps happening in the modern world, understanding what happened to the Armenians between 1915 and 1923 is not optional.
 
-![The Armenian Genocide - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Armenian Genocide - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The choice of targets on that April night in Constantinople was deliberate and specific. The men arrested were not military threats. They were the people whose absence would make the Armenian community intellectually and organizationally defenseless. Among them were the poet Siamanto, whose verse in Armenian had celebrated the beauty of Anatolia; the journalist Zabel Yesayan, who escaped arrest and survived to write about what happened; the editor Daniel Varoujan, who was killed within months of his arrest; and scores of other community figures whose deaths decapitated the community in a single night. It was, in the logic of genocide, the logical first step: kill the people who would name what was being done to everyone else. The killing of intellectuals, journalists, and clergy at the start of a genocide is not coincidental. It is strategic. The Armenian Genocide was planned, and the planning was visible in its first hours.
 

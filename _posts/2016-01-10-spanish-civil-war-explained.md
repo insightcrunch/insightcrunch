@@ -6,19 +6,19 @@ date: 2016-01-10
 categories: ["Leisure"]
 tags: ["spanish-civil-war", "european-history", "fascism", "democracy", "world-history"]
 excerpt: "The Spanish Civil War explained - democracy vs fascism, international involvement, and its WWII connections."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-10
+lang: en
 ---
-
 On the morning of April 26, 1937, the market town of Guernica in the Basque Country of northern Spain was destroyed. It was a Monday, market day, when the town's population swelled with farmers and traders from surrounding villages. At four forty in the afternoon, German and Italian aircraft began bombing runs that lasted for three and a half hours. They dropped high-explosive bombs and incendiary devices. They strafed civilians in the streets with machine gun fire. When they were finished, approximately sixteen hundred people were dead, most of the town's buildings were destroyed, and the word Guernica had entered the permanent vocabulary of human atrocity. Pablo Picasso, who was in Paris when he read the news reports, painted his response in monochromatic fury, producing within six weeks a work that remains the most powerful anti-war painting in the history of art: a compressed composition of screaming women, dying horses, a bull, a broken sword, and geometric distortions that made the modern visual language of fragmentation a literal description of what bombs do to flesh and stone.
 
 <!--more-->
 
 The bombing of Guernica was not an accident of war. It was a deliberate experiment. The German Condor Legion, whose aircraft carried out the attack under the direction of the Luftwaffe officer Wolfram von Richthofen, was testing the concept of strategic terror bombing: the deliberate targeting of civilian populations to destroy morale and demonstrate that no place was safe from air power. The lessons learned at Guernica were applied at Warsaw in September 1939, at Rotterdam in May 1940, at Coventry in November 1940, and at London throughout the Blitz. The Spanish Civil War was, in the most precise military sense, a laboratory for the Second World War. The weapons, tactics, and strategies that would define the larger conflict were tested, refined, and evaluated on Spanish soil between 1936 and 1939, while the political responses of the democratic powers, primarily non-intervention and appeasement, were also rehearsed in forms that would be repeated at a larger scale and with even more catastrophic consequences.
 
-![The Spanish Civil War Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The Spanish Civil War Explained - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The Spanish Civil War was not primarily a Spanish event, though it was fought on Spanish soil and cost approximately 500,000 Spanish lives. It was the first battle of the Second World War, the arena in which the ideological and military contest between fascism and its opponents was first fought in organized, sustained military form. On one side, Franco's Nationalist forces were armed, supplied, trained, and in significant respects commanded by Nazi Germany and Fascist Italy. On the other, the Spanish Republic received Soviet weapons and advisors, while thousands of volunteers from dozens of countries formed the International Brigades to fight for the democratic cause. Britain and France, the democratic great powers whose intervention might have determined the outcome, did neither: they organized a Non-Intervention Committee that ensured non-intervention only by the democracies while the fascist powers intervened freely. Spain paid the price for everyone else's calculations. [Tracing these events on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) makes visible the direct line from the decisions made in Spain to the catastrophe that engulfed Europe three years later.
 

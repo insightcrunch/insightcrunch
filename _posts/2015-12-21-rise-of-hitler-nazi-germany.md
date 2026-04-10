@@ -6,19 +6,19 @@ date: 2015-12-21
 categories: ["Leisure"]
 tags: ["hitler", "nazi-germany", "world-war-2", "european-history", "world-history"]
 excerpt: "How Hitler rose to power - Weimar's collapse, Nazi propaganda, and the destruction of German democracy."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-12-21
+lang: en
 ---
-
 On the evening of January 30, 1933, a torchlight parade wound through the Brandenburg Gate and down the Wilhelmstrasse in Berlin. Tens of thousands of SA stormtroopers and SS men marched in columns, their torches turning the winter night amber, their boots striking the cobblestones with the metronomic precision of a people who had decided to become a weapon. At a window of the Reich Chancellery, Adolf Hitler watched and received the crowd's roar. At another window nearby, the 85-year-old President Paul von Hindenburg observed the same parade. One eyewitness reported that the old field marshal mistook it for a celebration from a different era, murmuring that it reminded him of the Russians at the front. He was more right than he knew. The forces he had helped unleash were about to march across Europe with consequences that dwarfed anything he had seen on any front.
 
 <!--more-->
 
 Hitler did not seize power that night. He was given it. This is the fact that the comfortable mythology of the Nazi rise tends to obscure: the man who would kill six million Jews, start a war that killed fifty million people, and reduce Germany to rubble was handed the chancellorship by conservative politicians who believed they could use him and discard him. Franz von Papen, the former chancellor who had brokered the deal, reportedly told a colleague that they had hired Hitler, that within two months they would have pushed him so far into a corner he would squeak. It is one of the most catastrophically wrong political calculations in history, made by men who should have known better, about a danger they chose not to take seriously until it had consumed them. Understanding how that calculation came to be made, how a democracy elected a government that destroyed it, and how a mediocre failed artist from Austria became the most destructive political figure of the twentieth century, is not merely a historical exercise. It is the closest thing history offers to a manual for recognizing what the end of democracy looks like from the inside.
 
-![Rise of Hitler and Nazi Germany - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Rise of Hitler and Nazi Germany - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The rise of Hitler is inseparable from the specific conditions that the First World War and its settlement created. [How World War I changed the world](https://insightcrunch.com/2015/12/16/how-ww1-changed-the-world/) is a question whose answer runs directly through the Weimar Republic's fragility and through the specific resentments that Nazism converted into political energy. The war created the humiliation. The [Treaty of Versailles](https://insightcrunch.com/2015/11/26/treaty-of-versailles-explained/) codified it. The [Weimar Republic](https://insightcrunch.com/2016/01/15/weimar-republic-explained/) struggled to govern in its shadow. And Hitler supplied the narrative that explained it, exploited it, and promised to reverse it. To [trace these events on an interactive timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see with uncomfortable clarity that the line from November 1918 to January 1933 was not inevitable, but it was not accidental either.
 

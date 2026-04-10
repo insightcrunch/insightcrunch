@@ -6,19 +6,19 @@ date: 2015-12-16
 categories: ["Leisure"]
 tags: ["world-war-1", "historical-impact", "world-history", "european-history", "historical-analysis"]
 excerpt: "How WWI transformed the world - fallen empires, new nations, social change, and the seeds of future conflict."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-12-16
+lang: en
 ---
-
 On November 11, 1918, at eleven in the morning, the guns stopped. In the trenches along the Western Front, men who had lived underground for months, who had watched their friends dissolve into the mud, who had breathed poison gas and charged into machine gun fire and done all the things that industrial war requires of flesh, stood and looked around them at a silence they had forgotten was possible. Some wept. Some fired their remaining ammunition into the air. Some sat very still and did nothing at all. The armistice that ended the fighting ended it so abruptly, so completely, and at such an arbitrary hour, that it felt less like peace than like a sudden cessation of noise after years in a factory. The war was over. The world it had made was just beginning.
 
 <!--more-->
 
 The argument that the First World War was the foundational catastrophe of the twentieth century is not a historian's rhetorical convenience. It is a precise description. Almost every major political event between 1919 and 1989 can be traced to decisions made between 1914 and 1918 or to the settlement that followed them. The [causes of World War I](https://insightcrunch.com/2015/11/16/causes-of-world-war-1-explained/) lay in the system of alliances, imperial rivalries, and nationalist pressures that had been building for decades. The consequences of the war's resolution lay in almost everything that came after. The Russian Revolution happened because of the war. The [rise of Hitler](https://insightcrunch.com/2015/12/21/rise-of-hitler-nazi-germany/) happened because of the war's settlement. The [Armenian Genocide](https://insightcrunch.com/2015/12/11/armenian-genocide-history-explained/) happened inside the war. The collapse of four empires, the creation of dozens of new states, the redrawing of borders from the Middle East to Central Europe, the transformation of women's political rights, the birth of modern medicine, the invention of air power, the development of tanks, the emergence of the United States as a world power, the decline of European global dominance: all of it traces back to the four years when the industrialized world pointed its machinery at itself and discovered what it could do.
 
-![How World War I Changed the World - Insight Crunch](/assets/images/blog/blog-04.webp)
+![How World War I Changed the World - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 What makes the First World War uniquely consequential is not simply its scale, though the scale was unprecedented. Approximately 17 million people were killed, military and civilian combined. Another 20 million were wounded. The 1918 influenza pandemic, which spread globally along the war's transportation networks, killed between 50 and 100 million more in the two years following the armistice. But wars of comparable scale had happened before without producing equivalent transformations. What made this war different was the specific combination of forces it destroyed and forces it created: the simultaneous collapse of the old imperial order and the emergence of new political forms, ideologies, and technologies that would define the century. Understanding how the modern world was made requires [tracing these transformations on an interactive timeline](https://reportmedic.org/tools/world-history-timeline.html) that connects the war's end to the political explosions that followed over the next three decades.
 

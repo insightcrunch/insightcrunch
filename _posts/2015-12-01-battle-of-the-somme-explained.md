@@ -6,17 +6,17 @@ date: 2015-12-01
 categories: ["Leisure"]
 tags: ["battle-of-the-somme", "world-war-1", "british-history", "military-history", "world-history"]
 excerpt: "The Battle of the Somme explained - strategy, carnage, and the day that shattered British innocence about war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-12-01
+lang: en
 ---
-
 At 7:28 AM on July 1, 1916, the British Army detonated seventeen underground mines beneath the German lines on the Somme front. The largest, the Hawthorn Ridge mine containing approximately 40,000 pounds of explosives, sent a column of earth and smoke nearly 4,000 feet into the air. Two minutes later, at 7:30 AM, whistles blew along a twenty-mile front and approximately 120,000 men climbed out of their trenches and began walking forward. By the time darkness fell on that same day, approximately 57,470 of them had been killed or wounded, including approximately 19,240 dead. No army in British history has ever suffered such losses in a single day. The men who died on July 1, 1916, came from every corner of the British Isles and the wider empire: from Manchester and Edinburgh, from Belfast and Brisbane, from Newfoundland and Bermuda. Whole communities lost their men in hours. The Accrington Pals, a battalion recruited from a single Lancashire town, suffered approximately 585 casualties out of 720 men who went over the top. The battle that followed July 1, running until November 18, 1916, consumed approximately 1.1 million total casualties on all sides and became the defining expression of what the First World War was.
 
 <!--more-->
 
-![The Battle of the Somme Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Battle of the Somme Explained - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The Battle of the Somme, fought between July 1 and November 18, 1916, along a twenty-mile front straddling the River Somme in northern France, was not the worst battle of the First World War in total casualties: Verdun, fought simultaneously through most of 1916, produced comparable combined losses. But the Somme occupies a specific and irreplaceable position in British cultural memory and in the history of modern warfare. It was the battle in which the British Army, the new volunteer army of Kitchener's recruits who had enlisted in 1914 and 1915 out of patriotic conviction rather than compulsion, met industrial warfare at its most lethal and learned in a single day what four years of fighting had been slowly, expensively revealing. It was the battle in which British innocence about the nature of the war ended. And it was the battle whose specific tactical failures and specific operational learning produced, through four and a half more years of painful adaptation, the specific combined arms methods that eventually won the war. To trace the Battle of the Somme within the full sweep of military and world history, the [World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html) provides the most comprehensive interactive framework for understanding this defining engagement.
 

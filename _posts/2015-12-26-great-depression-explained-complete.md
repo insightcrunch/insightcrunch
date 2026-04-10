@@ -6,19 +6,19 @@ date: 2015-12-26
 categories: ["Leisure"]
 tags: ["great-depression", "economic-history", "1929", "american-history", "world-history"]
 excerpt: "The Great Depression explained - the 1929 crash, its global spread, human suffering, and the recovery path."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-12-26
+lang: en
 ---
-
 On the morning of October 24, 1929, the floor of the New York Stock Exchange became the site of something no one had a name for yet. Prices that had been rising for years began to fall, and then fall faster, and then collapse at a speed that exhausted the ticker tape machines and left brokers shouting orders that no one could execute because no buyers existed at any price. In the first hours, nearly thirteen million shares changed hands, a volume the exchange had never processed before. By midday, the value of American stocks had fallen by billions of dollars. A consortium of bankers, led by Thomas Lamont of J.P. Morgan, intervened to buy shares and steady the market. It worked, briefly. The following Monday and Tuesday, October 28 and 29, the market fell again, catastrophically, losing approximately thirty percent of its value in two days. The newspapers called it Black Monday and Black Tuesday. The traders called it the Crash. History would call it the beginning of the Great Depression.
 
 <!--more-->
 
 But that framing is misleading in a specific and important way. The stock market crash of October 1929 did not cause the Great Depression. It triggered a financial crisis that interacted with structural vulnerabilities in the American and global economies to produce a depression that was deeper, longer, and more globally destructive than anything economics or politics had previously managed. The crash was the spark. The fuel had been accumulating for years. Understanding the Great Depression requires understanding both: the specific events of October 1929 and the economic architecture that made those events so devastating. It also requires recognizing that the Depression was not primarily a financial event. It was a human catastrophe of extraordinary scale: fifteen million Americans unemployed, a quarter of the workforce; millions of families living in shanty towns called Hoovervilles; a generation of children malnourished in the most productive agricultural country on earth; the Dust Bowl turning the Great Plains into a desert and driving hundreds of thousands of families from their land. The economic statistics are important, but the full reality of the Depression lives in the human details.
 
-![The Great Depression Explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Great Depression Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The Depression's global consequences were as significant as its American ones. Germany, whose economic recovery in the late 1920s had been financed largely by American loans, was devastated by the withdrawal of that credit. Unemployment in Germany reached six million by 1932, approximately a third of the workforce. The political consequences were the ones that would define the century: the [rise of Hitler and the Nazi party](https://insightcrunch.com/2015/12/21/rise-of-hitler-nazi-germany/) was made possible by the economic desperation that the Depression created. To [explore this period on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see with uncomfortable clarity how the economic collapse of one country's banking system rippled outward to destroy democracies and empower dictatorships across the world.
 
