@@ -6,12 +6,12 @@ date: 1996-11-10
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Score Prediction", "Practice Tests", "Preparation"]
 excerpt: "Your practice test scores predict your real SAT score, but only if you know how to read them correctly. Here is the complete prediction framework."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1996-11-10
+lang: en
 ---
-
 Every student who has prepared seriously for the SAT has asked the same question at some point in their preparation: what score am I actually going to get? Practice tests give you data, but interpreting that data accurately requires understanding both what the data tells you and what it does not. A student who scores 1380 on a single practice test taken casually at home is not holding a reliable prediction of their real SAT score. A student who has completed five full timed practice tests under real conditions, averaged the results, analyzed the variance, and accounted for the systematic differences between practice and real test environments - that student has a genuinely useful prediction.
 
 The difference between those two students is not the number of practice tests they have taken. It is the analytical framework they apply to the data those tests produce. Score prediction is a skill that sits between raw practice test performance and genuine test-day readiness, and developing that skill makes you a more effective test-taker and a more rational decision-maker about when to test, whether to retake, and what to tell the schools you are applying to.
@@ -20,7 +20,7 @@ Think about the decisions that depend on a reliable score prediction. Registerin
 
 This guide covers the complete score prediction framework: the hierarchy of practice materials from most to least predictive, the methods for converting raw practice data into reliable score estimates, the systematic biases that cause practice scores to diverge from real scores in both directions, the specific analysis of score variance that reveals the difference between a student who knows their score and a student who just got lucky on one test, and the decision framework that converts a score prediction into actionable choices about test registration. By the end of this guide, you will be able to look at your practice data and produce the most accurate possible estimate of your real SAT score, along with a clear understanding of the uncertainty range around that estimate.
 
-![SAT Score Prediction: How to Estimate Your Score Before Test Day](/assets/images/blog/blog-05.webp)
+![SAT Score Prediction: How to Estimate Your Score Before Test Day](/assets/images/blog/blog-54.webp)
 
 ## Why Score Prediction Matters and Why Most Students Get It Wrong
 
