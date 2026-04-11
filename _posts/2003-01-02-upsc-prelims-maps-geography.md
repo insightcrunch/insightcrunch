@@ -6,19 +6,19 @@ date: 2003-01-02
 categories: ["Industry"]
 tags: ["UPSC", "Indian Geography", "UPSC Prelims", "National Parks", "Map Work", "Prelims Strategy"]
 excerpt: "Master UPSC Prelims geography with river systems, mountain passes, national parks, straits, and map-based question strategy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2003-01-02
+lang: en
 ---
-
 You have read the geography chapters in your NCERT textbooks, you know that the Ganga originates from the Gangotri glacier, and you can name a handful of national parks when put on the spot. Yet when a UPSC Prelims question asks you to identify which river passes through a specific gorge between two named mountain ranges, or which national park is located at the confluence of two particular rivers in a specific state, or which strait separates two specific island groups in the Indian Ocean, you find yourself guessing. The reason is that most aspirants study geography as a narrative subject, reading about landforms, climate patterns, and economic geography in prose, while UPSC tests geography as a spatial subject that rewards precise knowledge of locations, adjacencies, and physical features on a map. The aspirant who can visualize India's physical geography as a mental map, with rivers flowing in their correct directions, mountain passes sitting in their correct ranges, and national parks anchored in their correct states and ecosystems, holds a structural advantage that transforms geography from a source of uncertainty into a source of reliable marks.
 
 Map-based and factual geography questions constitute one of the most stable and predictable segments of UPSC Prelims GS Paper 1. Analysis of papers from 2013 to 2024 reveals that questions about physical features (rivers, mountains, passes, plateaus), protected areas (national parks, wildlife sanctuaries, biosphere reserves), maritime features (straits, channels, gulfs, islands), and basic locational facts consistently contribute 4 to 7 questions per paper. Unlike current affairs questions, which require continuous updating, or polity questions, which evolve with constitutional amendments and judicial pronouncements, the factual geography of India and the world is essentially permanent. The Brahmaputra will not change its course between your first and second Prelims attempts. The Rohtang Pass will not relocate from Himachal Pradesh to Uttarakhand. The Kaziranga National Park will not migrate from Assam to Meghalaya. This permanence means that every geographical fact you master is a permanent addition to your scoring arsenal, compounding across every future examination. If your broader Prelims strategy is anchored in the [complete UPSC Civil Services guide](/2003/07/24/upsc-civil-services-complete-guide/), you already understand that subjects with stable, finite knowledge bases offer the highest return on preparation time.
 
 This article is your comprehensive manual for map-based and factual geography as tested in UPSC Prelims. It covers India's major river systems with their tributaries and geographical significance, the strategic mountain passes of the Himalayas and other ranges, the national parks and wildlife sanctuaries that appear most frequently in the examination, India's biosphere reserves, the straits and maritime features of the Indian Ocean region, India's island territories, and the world geography facts that UPSC occasionally tests. More importantly, it teaches you the "atlas method" of geography preparation, a spatial learning approach that anchors facts in visual memory rather than in prose memory, producing dramatically better retention and recall under examination conditions.
 
-![UPSC Prelims Maps Geography River Systems National Parks Strategy - Insight Crunch](/assets/images/blog/blog-01.webp)
+![UPSC Prelims Maps Geography River Systems National Parks Strategy - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 ## Why Map-Based Geography Is the "Score Forever" Section
 

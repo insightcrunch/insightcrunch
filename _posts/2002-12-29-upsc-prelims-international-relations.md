@@ -6,19 +6,19 @@ date: 2002-12-29
 categories: ["Industry"]
 tags: ["UPSC", "International Relations", "UPSC Prelims", "UN Organisations", "Multilateral Groups", "Prelims Strategy"]
 excerpt: "Master UPSC Prelims international relations with UN bodies, multilateral organisations, treaties, and India's foreign policy."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-12-29
+lang: en
 ---
-
 You can name the five permanent members of the UN Security Council, you know that India is a founding member of the Non-Aligned Movement, and you have a rough sense of what the World Bank and the IMF do. Yet when a UPSC Prelims question asks you which UN specialized agency is headquartered in a specific city, or which multilateral grouping was established by a specific treaty in a specific year, or which international convention governs a particular aspect of maritime law or biodiversity protection, your general awareness collapses into uncertainty. The gap between having a broad sense of international relations and having the precise institutional knowledge that UPSC tests is one of the widest and most costly gaps in Prelims preparation.
 
 International relations and organisations represent a unique segment of UPSC Prelims GS Paper 1 because they sit at the intersection of static institutional knowledge (the structure, mandate, and membership of international organisations, which change slowly) and dynamic current affairs (the specific actions, agreements, and controversies involving these organisations, which change constantly). UPSC exploits this intersection by designing questions that test whether you know the permanent institutional features of organisations (their founding year, their headquarters, their governing structure, their mandate) and whether you can distinguish these permanent features from the current-affairs overlay that makes the headlines. An aspirant who reads about the UN General Assembly in the newspaper but does not know that it operates on a "one country, one vote" principle, or who reads about the G20 summit but cannot name which countries are members, or who reads about a new climate agreement but cannot identify the specific convention under which it was negotiated, will struggle with the 2 to 4 international relations questions that appear in every Prelims paper. If your broader preparation is anchored in the [complete UPSC Civil Services guide](/2003/07/24/upsc-civil-services-complete-guide/), you already understand that every mark in Prelims carries disproportionate weight, and the international relations segment offers some of the most learnable and predictable marks available.
 
 This article is your comprehensive manual for international relations and organisations as tested in UPSC Prelims. It maps the entire institutional architecture of the United Nations system, covers the major multilateral economic and political groupings, traces India's key bilateral and multilateral engagements, catalogs the international treaties and conventions that UPSC tests, and provides a structured study plan that transforms this seemingly vast subject into a finite, manageable, and high-yield knowledge domain.
 
-![UPSC Prelims International Relations Organisations UN Bodies Strategy - Insight Crunch](/assets/images/blog/blog-02.webp)
+![UPSC Prelims International Relations Organisations UN Bodies Strategy - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 ## Why International Relations and Organisations Matter for Prelims
 
