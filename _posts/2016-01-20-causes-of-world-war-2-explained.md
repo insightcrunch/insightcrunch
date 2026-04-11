@@ -6,19 +6,19 @@ date: 2016-01-20
 categories: ["Leisure"]
 tags: ["world-war-2", "causes-wwii", "appeasement", "fascism", "world-history"]
 excerpt: "Why World War II happened - Versailles, Hitler's aggression, appeasement, and the failure to prevent war."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-01-20
+lang: en
 ---
-
 On September 1, 1939, at four forty-five in the morning, German forces crossed the Polish border at seventeen points simultaneously. The Wehrmacht's armored columns drove east and south in a coordinated strike designed to encircle Warsaw before the Polish army could organize a coherent defense. The Luftwaffe bombed Polish airfields, roads, and railways to prevent mobilization. Within hours, the German battleship Schleswig-Holstein, which had been in the port of Danzig on a "courtesy visit," opened fire on the Polish garrison at Westerplatte. The Second World War had begun.
 
 <!--more-->
 
 The war that started on that September morning would eventually kill somewhere between 70 and 85 million people, the largest single catastrophe in human history. It would produce the Holocaust, the systematic murder of six million Jews. It would level cities from London to Stalingrad to Hiroshima. It would reshape the political map of every continent. And it was not inevitable. This is the crucial point that gets lost in the retrospective certainty with which we discuss the Second World War's causes: at every stage of the diplomatic crisis that produced the war, choices were available that would have produced different outcomes. The war happened because specific people made specific decisions, and different decisions would have prevented it or at least shaped it differently.
 
-![Causes of World War II Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Causes of World War II Explained - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 The conventional list of causes, Versailles, the Great Depression, Hitler, appeasement, is accurate as far as it goes but can mislead by suggesting inevitability. Versailles was unjust but survivable. The depression was catastrophic but not automatically lethal to democracy. Hitler was a dangerous demagogue but one who needed conservative allies' active collaboration to reach power. Appeasement was a miscalculation but one made by intelligent people from partially defensible premises. Understanding how these elements combined to produce the most destructive war in history requires understanding not just the structural conditions but the specific human decisions that converted potential catastrophe into actual catastrophe. The [rise of Hitler](https://insightcrunch.com/2015/12/21/rise-of-hitler-nazi-germany/) was a necessary condition for the war, but it was not the only one, and the responsibility for the war's occurrence is more broadly distributed than any single-cause explanation allows. To [trace the full sequence of decisions on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see how many opportunities existed to break the chain and how many were missed.
 

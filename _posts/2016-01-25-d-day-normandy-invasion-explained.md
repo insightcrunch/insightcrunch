@@ -6,19 +6,19 @@ date: 2016-01-25
 categories: ["Leisure"]
 tags: ["d-day", "normandy", "world-war-2", "military-history", "world-history"]
 excerpt: "D-Day explained - planning, the beach landings, casualties, and how the Normandy invasion changed WWII."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-01-25
+lang: en
 ---
-
 At thirty minutes past midnight on June 6, 1944, American paratroopers of the 82nd and 101st Airborne Divisions began jumping into the darkness over the Cotentin Peninsula of Normandy. They jumped through anti-aircraft fire, through low clouds that had scattered their formations, many of them miles from their designated drop zones, into flooded fields and hedgerow country that the German defenders had used to their advantage. Within the next six hours, soldiers from the United States, Britain, Canada, and nine other Allied nations would wade ashore on five beaches along a fifty-mile front, against fortified positions that had been under construction for years. By the end of June 6, 1944, approximately 156,000 Allied troops had crossed the English Channel. Approximately 4,400 had died. The largest amphibious operation in the history of warfare had established its foothold on the European continent, and the beginning of the end of Adolf Hitler's Reich had begun.
 
 <!--more-->
 
 D-Day, as the Normandy invasion is universally known, was the culmination of more than two years of Allied strategic planning, months of elaborate deception operations, and a specific confluence of political, military, logistical, and meteorological factors that made it both necessary and possible. It was not simply a military operation. It was the physical expression of a political commitment, made by the Western democracies and forged through difficult inter-Allied negotiations, to open a second front against Nazi Germany that would relieve the pressure on the Soviet Union and bring the war to its conclusion. The [causes of World War II](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) had produced a conflict that by 1944 was being fought on a scale that required coordination among all the Allied powers, and D-Day was the Western Allies' most consequential single military contribution to the Soviet Union's war effort, even if that framing would have seemed strange to the men dying on Omaha Beach.
 
-![D-Day and the Normandy Invasion Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
+![D-Day and the Normandy Invasion Explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The invasion's success was not guaranteed. The plan required nearly everything to go right simultaneously: the weather needed to permit both the airborne drops and the naval and air operations, the German reserves needed to be kept away from the beaches during the critical first hours, the beach defenses needed to be breached quickly enough that the troops could move inland before the German counterattack could be organized, and the entire operation needed to be achieved before the German high command could deploy its armored reserves. Each of these requirements was met only partially, and at Omaha Beach, the bloodiest of the five landing beaches, the plan came closest to catastrophic failure. Understanding both what went right and what went wrong on June 6 is essential for understanding why the day succeeded at all and why its success was never certain. To [trace this operation's place in the arc of the Second World War on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see how the largest military operation in history was the product of strategic decisions made years before the soldiers stepped off their landing craft.
 

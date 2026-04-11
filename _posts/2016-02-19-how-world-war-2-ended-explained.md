@@ -6,19 +6,19 @@ date: 2016-02-19
 categories: ["Leisure"]
 tags: ["world-war-2", "end-of-wwii", "victory", "world-history", "historical-analysis"]
 excerpt: "How WWII ended - the fall of Berlin, atomic bombs, Japan's surrender, and the new world that emerged."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-19
+lang: en
 ---
-
 At one minute past midnight on May 9, 1945, in a red-brick building in the Berlin suburb of Karlshorst that had once been an engineering school, Field Marshal Wilhelm Keitel raised his baton to acknowledge the signing that had just been completed and looked around the room at the Allied representatives with an expression that witnesses described as combining contempt and defeated rage. The unconditional surrender of Germany's armed forces, effective at 11:01 p.m. on May 8 (V-E Day), had been signed just after midnight Moscow time to satisfy Stalin's insistence on a Soviet ceremony on Soviet time. The war in Europe was over. The twelve-year Reich that Hitler had promised would last a thousand years had survived for four months short of its twelfth anniversary.
 
 <!--more-->
 
 The war in the Pacific was not over. It would continue for another three months, through the firebombing of Japanese cities, the atomic bombings of Hiroshima and Nagasaki, the Soviet invasion of Manchuria, and Japan's final surrender on August 15, 1945, formalized in the ceremony aboard the USS Missouri in Tokyo Bay on September 2. The formal end of the most destructive war in human history came on a warm Sunday morning in the harbor of the nation whose attack on Pearl Harbor had brought the United States into the conflict, four years, eight months, and twenty-six days after the war in the Pacific had begun and six years, one day after Germany's invasion of Poland had begun the European conflict.
 
-![How World War II Ended Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![How World War II Ended Explained - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 Understanding how the war ended requires understanding both the military campaigns that produced Germany's and Japan's military defeats and the diplomatic frameworks within which those defeats were converted into political settlements. The military endings were produced by specific battles, specific strategic decisions, and specific acts of courage and atrocity. The diplomatic frameworks were produced by the wartime conferences at which the Allied leaders defined their war aims, negotiated their differences, and began designing the post-war world they were fighting to create. Both dimensions are essential, because the war did not simply end when the fighting stopped; it ended when the specific political, institutional, and territorial arrangements of the post-war world were established, and those arrangements shaped international politics for the rest of the twentieth century. The [causes of World War II](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) were rooted in the settlement of the First World War; the ending of the Second World War would itself become the foundation for the Cold War that followed. To [trace the full arc from the war's beginning to its ending and its post-war consequences](https://reportmedic.org/tools/world-history-timeline.html) is to see how each phase of the conflict generated the conditions for the next.
 

@@ -6,16 +6,18 @@ date: 2016-02-14
 categories: ["Leisure"]
 tags: ["hiroshima", "nagasaki", "atomic-bomb", "world-war-2", "world-history"]
 excerpt: "Hiroshima and Nagasaki explained - the decision, the devastation, Japan's surrender, and the ongoing debate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-02-14
+lang: en
 ---
-
 At eight fifteen on the morning of August 6, 1945, the American B-29 bomber Enola Gay released a single weapon over the Japanese city of Hiroshima. Forty-three seconds later, at an altitude of approximately 580 meters, the weapon detonated. The explosion released energy equivalent to approximately 15,000 tons of TNT, generated a fireball with a surface temperature exceeding that of the sun, created a blast wave that destroyed virtually every structure within two kilometers of the hypocenter, and produced a thermal pulse that burned exposed skin at distances of three kilometers. Within hours, a firestorm consumed what the initial blast had not destroyed. Approximately 70,000 to 80,000 people were killed immediately or within hours. By the end of 1945, the death toll had risen to approximately 90,000 to 140,000 from the combined effects of blast, heat, and radiation. The city of Hiroshima had been, in the most literal sense, annihilated.
 
 <!--more-->
 
+
+![Hiroshima and Nagasaki: The Atomic Bombs - Insight Crunch](/assets/images/blog/blog-05.webp)
 Three days later, on August 9, a second atomic bomb was dropped on Nagasaki, killing approximately 40,000 people immediately and approximately 60,000 to 80,000 by the end of 1945. Japan announced its acceptance of surrender terms on August 15, 1945. The formal surrender was signed on September 2, 1945, in Tokyo Bay aboard the USS Missouri, ending the most destructive war in human history.
 
 The decisions to build and use the atomic bombs against Japanese cities are among the most debated decisions in the history of warfare. They are debated not in the sense that thoughtful people dispute the basic historical facts, but in the deeper sense that the moral and strategic questions they raise do not have answers that careful, honest analysis can settle definitively. Were the bombs necessary to end the war without an invasion of the Japanese home islands? Would Japan have surrendered without them? Did the destruction of two cities full of civilians constitute a war crime? Did the bombs save more lives than they cost? These questions have been argued for seven decades by historians, philosophers, military strategists, survivors, and the descendants of those who died, and they have not been and may never be resolved. Understanding why requires engaging with both the historical evidence and the genuine moral complexity that the evidence reveals. To [follow this history from the Manhattan Project through the Cold War arms race that the bombs inaugurated](https://reportmedic.org/tools/world-history-timeline.html) is to trace the most consequential scientific and military development of the twentieth century.

@@ -6,19 +6,19 @@ date: 2016-02-09
 categories: ["Leisure"]
 tags: ["stalingrad", "world-war-2", "eastern-front", "military-history", "world-history"]
 excerpt: "Stalingrad explained - the siege, the horror, the Soviet counterattack, and the turning point of WWII."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-09
+lang: en
 ---
-
 In the winter of 1942-43, on a bend of the Volga River in the Soviet Union, the tide of the Second World War turned. The battle fought in and around the city of Stalingrad between August 1942 and February 1943 was the bloodiest single military engagement in human history, killing, wounding, or capturing approximately two million soldiers and an unknown number of civilians on both sides. It was also the strategic turning point that ended the German army's ability to wage offensive warfare on the Eastern Front and set the trajectory toward Germany's eventual defeat. Before Stalingrad, Germany had been on the offensive in the Soviet Union; after it, Germany was on the defensive, retreating toward Berlin. Before Stalingrad, the outcome of the war was uncertain; after it, while the fighting would last two more years, Germany could not win.
 
 <!--more-->
 
 The battle's significance extends beyond its military dimensions. Stalingrad became a symbol, seized upon simultaneously by Soviet propaganda, by German soldiers who wrote letters home describing conditions beyond anything they had imagined, by the international press that recognized something historically decisive was occurring, and by subsequent generations for whom the name has become shorthand for the outermost extreme of human endurance. The specific qualities that Stalingrad concentrated, industrial-scale killing conducted in the ruins of a city, the reduction of modern warfare to a struggle for individual rooms and floors, the specific psychology of combat in an environment where the enemy was always within grenade range and the combatants developed a physical knowledge of their opponents that conventional warfare never produces, make it an event that resists adequate description and demands persistent analytical attention.
 
-![The Battle of Stalingrad Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![The Battle of Stalingrad Explained - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Understanding Stalingrad requires understanding the full arc of Operation Barbarossa and the Eastern Front, the strategic context within which a battle for a city on the Volga became simultaneously a military operation, an ideological confrontation between two totalitarian systems, and a turning point in world history. The [causes of World War II](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) include Hitler's explicit ideological program of eastern conquest, and Stalingrad was the place where that program met the specific combination of Soviet strategic depth, industrial capacity, and human determination that it could not overcome. To [trace these events in their full historical context](https://reportmedic.org/tools/world-history-timeline.html) is to see how the decisions made years before the first shot was fired at Stalingrad made the battle's outcome, if not inevitable, at least deeply shaped by forces that the individual commanders on both sides could not fully control.
 

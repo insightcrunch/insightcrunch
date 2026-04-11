@@ -6,19 +6,19 @@ date: 2016-02-29
 categories: ["Leisure"]
 tags: ["resistance", "world-war-2", "partisans", "occupied-europe", "world-history"]
 excerpt: "WWII resistance movements - how ordinary people fought Nazi occupation across Europe through sabotage and courage."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-29
+lang: en
 ---
-
 In the autumn of 1942, a 24-year-old Czech parachutist named Jozef Gabcík crouched in a suburban street in Prague and aimed his Sten gun at the open Mercedes carrying Reinhard Heydrich, the Reich Protector of Bohemia and Moravia, the man Hitler had called "the man with the iron heart," the chief architect of the Holocaust's administrative machinery. The gun jammed. Heydrich stood up in the car to return fire. Gabcík's partner Jan Kubis threw a modified anti-tank grenade. It detonated beneath the car. Heydrich, wounded by shrapnel and upholstery fiber, died eight days later. The operation, codenamed Anthropoid and organized by British Special Operations Executive with the Czech government in exile, was the only successful assassination of a senior Nazi leader during the entire war. The German reprisal was immediate and savage: the village of Lidice was completely destroyed, its male inhabitants shot, its women and children deported to camps, its name erased from maps. The price of killing one Nazi official was the murder of an entire village.
 
 <!--more-->
 
 The story of Operation Anthropoid encapsulates the essential moral and strategic character of resistance to Nazi occupation: extraordinary courage combined with precise operational planning producing concrete military results, followed by reprisals so disproportionate that they raised the question every resistance movement in every occupied country was forced to answer about whether armed resistance was morally justifiable when the costs fell not on the resisters but on the innocent civilian populations the resisters were trying to protect. This question was never definitively answered. Different resistance movements, different individuals within those movements, and different historians reflecting on them have reached different conclusions about when resistance justified its costs. But the question itself, and the specific courage required to act against overwhelming force in the full knowledge of what reprisal would mean, defines what resistance was.
 
-![Resistance Movements in World War II - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Resistance Movements in World War II - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The resistance movements of the Second World War were not a unified phenomenon. They ranged from the armed partisan armies of Yugoslavia and the Soviet Union, which fielded tens of thousands of fighters in organized military formations, to the single individuals in every occupied country who hid Jewish families in cellars and attics, forged identity documents, or passed intelligence through postal drops to Allied handlers. Between these extremes were networks of saboteurs, escape line operators, publishers of underground newspapers, intelligence gatherers, strike organizers, and propagandists whose work contributed to the Allied war effort in ways both measurable and impossible to quantify. Understanding these movements requires understanding both their diversity and the common threads of courage, calculation, and moral seriousness that run through all of them. The [causes of World War II](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) had produced an occupation regime of exceptional brutality; the resistance to it produced some of the most remarkable individual and collective acts in the history of political courage. To [trace the development and impact of resistance across the full geography of occupied Europe](https://reportmedic.org/tools/world-history-timeline.html) is to see how much of the war's outcome depended on people who never wore uniforms but whose contributions were as essential as those of any army.
 

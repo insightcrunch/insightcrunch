@@ -6,19 +6,19 @@ date: 2016-02-24
 categories: ["Leisure"]
 tags: ["nuremberg-trials", "world-war-2", "international-law", "nazi-germany", "world-history"]
 excerpt: "The Nuremberg Trials explained - the charges, the verdicts, and the birth of international criminal justice."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-02-24
+lang: en
 ---
-
 On the morning of November 20, 1945, in the Palace of Justice in Nuremberg, Germany, twenty-one men who had held the highest positions of power in the Third Reich sat in a paneled dock and heard the charges against them read aloud. The charges occupied four counts: the common plan or conspiracy to commit the crimes that followed; crimes against peace, specifically the planning and waging of aggressive war; war crimes, violations of the laws and customs of war; and crimes against humanity, murder, extermination, enslavement, and persecution of civilian populations. The defendants included the former head of the Luftwaffe, the former Foreign Minister, the former head of the Wehrmacht's Supreme Command, the former deputy Führer, the former president of the Reichsbank, the former governor-general of occupied Poland, and the former head of the SS security service. Together they represented the organizational leadership of a regime that had systematically murdered approximately six million Jews and tens of millions of other civilians, had launched the most destructive war in history, and had operated an empire of terror across most of the European continent.
 
 <!--more-->
 
 The Nuremberg International Military Tribunal was not merely a war crimes trial. It was an act of legal creation: an attempt to establish, in the specific circumstances of a total defeat that had left the victorious powers in complete control of the defeated state, that individuals at the highest levels of political and military authority could be held personally criminally responsible for the decisions they made in their official capacities, that wars of aggression were crimes under international law, and that the destruction of civilian populations through state-organized violence was a crime for which no defense of superior orders was available. These were genuinely novel legal propositions in 1945, and their novelty was one of the most serious criticisms the trials faced. The response to that criticism, that the law's novelty was less troubling than allowing atrocity to go unpunished, has shaped international criminal law for every decade since.
 
-![The Nuremberg Trials Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Nuremberg Trials Explained - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The trials were imperfect in ways that their architects acknowledged and their critics emphasized. They were conducted by the victors over the defeated. They applied legal principles that had not been codified before the crimes were committed. They excluded from the dock specific categories of Allied conduct, particularly the strategic bombing of civilian populations, that might have met similar legal standards. But within and despite these specific limitations, the Nuremberg trials established a framework for international criminal accountability that has shaped every subsequent tribunal, from the International Military Tribunal for the Far East in Tokyo through the International Criminal Tribunals for Rwanda and the former Yugoslavia to the permanent International Criminal Court established in 2002. Understanding what Nuremberg established, how it established it, and why the framework it created has proven both durable and persistently challenged is essential for understanding the specific international legal order within which contemporary atrocity cases are prosecuted. To [trace the development of international criminal law from Nuremberg to the present](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most important legal and moral projects of the twentieth century.
 

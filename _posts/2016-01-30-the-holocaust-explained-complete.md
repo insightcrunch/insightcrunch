@@ -6,19 +6,19 @@ date: 2016-01-30
 categories: ["Leisure"]
 tags: ["holocaust", "world-war-2", "genocide", "nazi-germany", "world-history", "human-rights"]
 excerpt: "The Holocaust explained - antisemitism, the Final Solution, concentration camps, and the human cost."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-30
+lang: en
 ---
-
 Approximately six million Jews were murdered in the Holocaust between 1941 and 1945. Among them were roughly 1.5 million children. The murder was not incidental to the Second World War; it was a systematic, bureaucratically organized program of extermination carried out by the Nazi German state and its collaborators across occupied Europe. The perpetrators used railways, census records, property laws, starvation, shooting, and finally purpose-built facilities with industrial killing capacity. The victims were killed for one reason: they were Jewish.
 
 <!--more-->
 
 The Holocaust also killed approximately 200,000 Roma and Sinti, at least 250,000 people with disabilities, tens of thousands of gay men, millions of Soviet and Polish civilians, and hundreds of thousands of political opponents. These murders were also crimes of the first order. But the Jewish genocide was distinct in its totality: no other group was the target of a policy explicitly aimed at the murder of every single member of that group everywhere in Europe, regardless of age, sex, physical condition, or any factor other than the single fact of being Jewish. The Holocaust was the most systematic attempt at group extermination in recorded history.
 
-![The Holocaust Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![The Holocaust Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 Understanding the Holocaust is a moral obligation, not merely an intellectual exercise. It is an obligation because six million people were killed, and their deaths demand comprehension rather than abstraction. It is an obligation because the mechanisms through which those deaths were organized, the administrative apparatus, the propaganda, the dehumanization, the exploitation of bystander inertia and perpetrator careerism, are not historically unique to Nazi Germany. They are recognizable in other contexts and other times. And it is an obligation because the survivors, the witnesses, and the victims themselves produced testimony, evidence, and historical record in extraordinary quantities, specifically so that the world would know and would not forget. Honoring that record requires engaging with it honestly, specifically, and without the evasion that the subject's horror sometimes produces. To [trace the roots and mechanisms of this crime on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see how specifically each stage followed from the stage before, and how many moments existed at which the chain could have been broken.
 

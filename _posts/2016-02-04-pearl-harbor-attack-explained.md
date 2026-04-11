@@ -6,16 +6,18 @@ date: 2016-02-04
 categories: ["Leisure"]
 tags: ["pearl-harbor", "world-war-2", "american-history", "japan", "world-history"]
 excerpt: "Pearl Harbor explained - Japan's strategy, the attack, America's entry into WWII, and its lasting impact."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-04
+lang: en
 ---
-
 At seven forty-eight on the morning of Sunday, December 7, 1941, the first Japanese aircraft crossed the northern coast of Oahu, Hawaii, and began its attack run on the American naval base at Pearl Harbor. Within two hours, 353 Japanese aircraft from six aircraft carriers had sunk or damaged 19 American naval vessels including eight battleships, destroyed 328 aircraft, and killed 2,403 Americans. The attack was so overwhelming, so precisely executed, and so completely unexpected that it remains one of the most consequential military operations in the history of the Pacific and one of the most studied cases of strategic surprise in the history of warfare. The following day, President Franklin Roosevelt addressed a joint session of Congress and called December 7, 1941 a date which will live in infamy. Congress declared war on Japan within hours. Three days later, Germany and Italy declared war on the United States. The second World War had become truly global.
 
 <!--more-->
 
+
+![The Attack on Pearl Harbor Explained - Insight Crunch](/assets/images/blog/blog-44.webp)
 The Pearl Harbor attack was not an accident, a miscalculation, or a reckless gamble by a regime that did not understand the consequences. It was the product of a specific strategic logic, shaped by years of escalating Japanese-American tension over Japan's expansion in China and Southeast Asia, by a specific set of calculations about American military capacity and political will, and by the professional expertise of military planners who recognized both what the attack could achieve and what it could not. Admiral Isoroku Yamamoto, who planned the operation, reportedly told his government that he could guarantee to run wild in the Pacific for six months to a year, but could not guarantee anything after that. His assessment was almost exactly right. The six months of Japanese expansion in the Pacific were the most rapid and most extensive territorial conquests in the history of the Pacific region. The aftermath, when American industrial capacity and military determination were fully mobilized, was exactly what Yamamoto had feared. Understanding Pearl Harbor requires understanding both sides of that calculation: the specific strategic logic that made the attack appear rational to its planners, and the specific strategic miscalculation that made it a catastrophic error in the long run. To [trace this event in the full context of the Second World War's global arc](https://reportmedic.org/tools/world-history-timeline.html) is to see Pearl Harbor not as an isolated act of aggression but as the moment at which two separate streams of the global conflict, the European and the Pacific, merged into a single worldwide war.
 
 ## Japan's Strategic Position Before Pearl Harbor

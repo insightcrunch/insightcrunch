@@ -6,19 +6,19 @@ date: 2016-01-15
 categories: ["Leisure"]
 tags: ["weimar-republic", "german-history", "democracy", "european-history", "world-history"]
 excerpt: "The Weimar Republic explained - Germany's fragile democracy, cultural brilliance, and fatal vulnerabilities."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-15
+lang: en
 ---
-
 On the afternoon of February 3, 1919, delegates from all over Germany gathered in the National Theatre in Weimar, a small city in Thuringia chosen for its associations with Goethe and Schiller rather than its political significance, to draft a constitution for a republic that had been proclaimed in the chaos of military defeat three months earlier. Outside Berlin, away from the revolutionary violence in which Rosa Luxemburg and Karl Liebknecht had just been murdered and the Spartacist uprising had just been suppressed, the delegates deliberated over the structure of a new German state. The constitution they produced was one of the most progressive democratic documents of its era. It established universal suffrage for all citizens over 20, including women. It guaranteed fundamental rights including freedom of speech, assembly, and religion. It created a parliamentary system with proportional representation to ensure broad democratic inclusion. It was, by the standards of 1919, a model democracy.
 
 <!--more-->
 
 The Republic that this constitution created lasted fourteen years. It was destroyed not by a foreign invasion, not by a military coup in the traditional sense, but by a combination of economic catastrophe, institutional weakness, the systematic bad faith of its conservative establishment, and the exploitation of its own democratic procedures by political movements that were committed to abolishing democracy. Adolf Hitler did not seize power in January 1933. He was appointed to it by a president who had legitimate constitutional authority to make the appointment, in a cabinet that was formally coalition government, using powers that the constitution expressly provided. The Weimar Republic's democratic institutions were not overcome; they were used, by people who despised them, as the instruments of their own abolition.
 
-![The Weimar Republic: Rise and Fall - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The Weimar Republic: Rise and Fall - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The Weimar Republic's story is the most important case study in democratic failure that the modern world possesses. It is important not because it is unique but because it is not: the specific mechanisms by which Weimar democracy was destroyed, the constitutional exploitation, the emergency powers creep, the conservative establishment's miscalculation about managing an authoritarian partner, the normalization of political violence, the destruction of trust in democratic institutions through coordinated bad-faith propaganda, have recurred in other democracies at other times. [How World War I changed the world](https://insightcrunch.com/2015/12/16/how-ww1-changed-the-world/) is inseparable from the story of how Weimar democracy was born in the war's wreckage and eventually consumed by the specific grievances and structural vulnerabilities that the war created. To [trace this trajectory on a comprehensive historical timeline](https://reportmedic.org/tools/world-history-timeline.html) is to see how each phase of Weimar's history flowed from the decisions made in the previous phase, and how different decisions at different moments might have produced a different outcome.
 
