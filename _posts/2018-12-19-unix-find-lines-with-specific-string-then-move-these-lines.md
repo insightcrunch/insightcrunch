@@ -6,9 +6,9 @@ date: 2018-12-19
 categories: ["Analytics"]
 tags: ["Unix"]
 excerpt: "The world of data integration and transformation gets more and more exciting every day. Where we have data fuelling intelligent applications, and..."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 3
-author: "alex-rivera"
+author: "jordan-ellis"
 last_updated: 2026-04-01
 lang: en
 ---
@@ -39,7 +39,7 @@ The below Unix script will process the data as per our required logic. First it 
 
 **In summary,** for each record being read in getEntireRecord from this lookup file, it will take the getUniqueRecIdentifier (**"X1","Y1","Z1****"**) and find the line number lineNumOfFiletMignon (3) of the "Filet Mignon" record having same identifier (**"X1","Y1","Z1"**). Now we know where to insert the "Parmesan Cheese" record getEntireRecord - the line number will be lineNumToInsertParmesanCheese which is the next line, so add one (3+1=4).
 
-![](/assets/images/blog/blog-35.webp)
+![](/assets/images/blog/blog-40.webp)
 
 **Full logic:**
 
