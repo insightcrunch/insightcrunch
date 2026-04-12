@@ -6,7 +6,7 @@ date: 2018-10-18
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "hindi-cinema"]
 excerpt: "ফেলুদা কেন হিন্দি সিনেমায় উত্তীর্ণ হননি, ভাষাগত ও সাংস্কৃতিক বিশেষত্বের একটি বিশ্লেষণ"
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 157
 author: "rahul-banerjee"
 lang: bn
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![ফেলুদা কেন হিন্দিতে আসেনি - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-40.webp)
+![ফেলুদা কেন হিন্দিতে আসেনি - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-77.webp)
 
 ## দেবদাস ও ব্যোমকেশ পারলেন, ফেলুদা কেন পারলেন না
 

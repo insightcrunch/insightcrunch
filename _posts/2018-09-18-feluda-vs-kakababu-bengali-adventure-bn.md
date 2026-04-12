@@ -6,9 +6,9 @@ date: 2018-09-18
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "kakababu-sunil-gangopadhyay"]
 excerpt: "ফেলুদা ও কাকাবাবু দুই বাঙালি অভিযান-নায়কের তুলনা, সন্দেশ বনাম আনন্দমেলার পাঠক-প্রজন্মের বিভাজন"
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 146
-author: "rahul-banerjee"
+author: "nandini-sen"
 lang: bn
 last_updated: 2026-04-01
 ---
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![ফেলুদা বনাম কাকাবাবু - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-29.webp)
+![ফেলুদা বনাম কাকাবাবু - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-11.webp)
 
 ## দুই জন্ম, দুই পত্রিকা, দুই বাঙালি কিশোর-সংস্কৃতি
 

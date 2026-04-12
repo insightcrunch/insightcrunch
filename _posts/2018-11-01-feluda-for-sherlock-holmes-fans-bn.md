@@ -6,9 +6,9 @@ date: 2018-11-01
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "sherlock-holmes"]
 excerpt: "শার্লক হোমস ভক্তদের জন্য ফেলুদায় প্রবেশের একটি সেতু-প্রবন্ধ, উত্তরাধিকার ও বাঙালি বিচ্যুতির মানচিত্র"
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 144
-author: "nandini-sen"
+author: "rahul-banerjee"
 lang: bn
 last_updated: 2026-04-01
 ---
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![হোমস-ভক্তদের জন্য ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-41.webp)
+![হোমস-ভক্তদের জন্য ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-09.webp)
 
 ## পরিচিত ভূখণ্ড, যেখানে ফেলুদা হোমস-পাঠকের হাত ধরবেন
 

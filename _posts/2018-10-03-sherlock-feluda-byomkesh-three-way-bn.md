@@ -6,7 +6,7 @@ date: 2018-10-03
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "byomkesh-bakshi", "sherlock-holmes"]
 excerpt: "শার্লক হোমস, ফেলুদা ও ব্যোমকেশ বক্সীর তিন-মুখী তুলনা, বাংলা পাঠকের প্রামাণ্য গোয়েন্দা ত্রয়ী"
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 157
 author: "rahul-banerjee"
 lang: bn
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![শার্লক, ফেলুদা, ব্যোমকেশ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-35.webp)
+![শার্লক, ফেলুদা, ব্যোমকেশ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-17.webp)
 
 ## তিন জন্ম, তিন ঐতিহাসিক স্তর
 

@@ -6,9 +6,9 @@ date: 2018-12-16
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction", "cultural-memory"]
 excerpt: "ফেলুদা কেন ষাট বছর পরেও বাঙালি সংস্কৃতিতে প্রাসঙ্গিক, প্রজন্মান্তর সঞ্চারণ ও সাংস্কৃতিক স্মৃতির একটি বিশ্লেষণ"
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 186
-author: "amit-chatterjee"
+author: "nandini-sen"
 lang: bn
 last_updated: 2026-04-01
 ---
@@ -17,7 +17,7 @@ last_updated: 2026-04-01
 
 <!--more-->
 
-![ফেলুদার ষাট বছরের স্থায়িত্ব - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-59.webp)
+![ফেলুদার ষাট বছরের স্থায়িত্ব - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-45.webp)
 
 ## একটি সাহিত্যিক চরিত্রের স্থায়িত্ব কী মানে রাখে
 
