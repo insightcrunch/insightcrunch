@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Anthropic and the IT Layoff Wave: How the World's Most Safety-Conscious AI Company Became the Most Disruptive Force in the Global Job Market"
+title: "Anthropic AI and the IT Layoff Wave in the Global Job Market"
+page_title: "Anthropic and the IT Layoff Wave: How the World's Most Safety-Conscious AI Company Became the Most Disruptive Force in the Global Job Market"
 date: 2026-04-01
 categories: ["Industry"]
 tags: ["Anthropic", "Claude", "IT Layoffs", "AI Jobs", "Claude Code", "Dario Amodei", "Workforce Disruption", "AI Safety", "Enterprise AI", "Software Engineers"]
