@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TCS ILP Hostel vs Oxford College Room vs Harvard Dorm - Student Accommodation Around the World"
+title: "TCS ILP Hostel vs Oxford vs Harvard: Student Rooms"
 page_title: "TCS ILP Hostel vs Oxford College Room vs Harvard Dorm: Student Accommodation Around the World Compared"
 date: 2018-12-22
 categories: ["Industry"]
