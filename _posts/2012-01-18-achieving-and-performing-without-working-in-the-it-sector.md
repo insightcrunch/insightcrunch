@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Achieving and performing without working in the IT sector: Tribute to the ‘a class apart’"
+title: "Achieving and performing without working in the IT sector"
+page_title: "Achieving and performing without working in the IT sector: Tribute to the ‘a class apart’"
 date: 2012-01-18
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
