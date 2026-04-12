@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaokao Chemistry Reaction Principles - Equilibrium, Thermochem, Electrochem"
+title: "Gaokao Chemistry Reaction Principles: Full Guide"
 page_title: "Gaokao Chemistry Reaction Principles - Chemical Equilibrium, Thermochemistry, Electrochemistry, and Hydrolysis Mastery - 高考化学反应原理完全攻略"
 date: 2024-06-24
 categories: ["Industry"]
