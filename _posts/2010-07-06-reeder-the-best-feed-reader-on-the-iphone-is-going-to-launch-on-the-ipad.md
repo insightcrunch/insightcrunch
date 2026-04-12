@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Reeder: The best feed reader on the iPhone is going to launch on the iPad"
+title: "Reeder for iPad: The Best iPhone RSS App Expands"
+page_title: "Reeder: The best feed reader on the iPhone is going to launch on the iPad"
 date: 2010-07-06
 categories: ["Leisure"]
 tags: ["Surfing"]
