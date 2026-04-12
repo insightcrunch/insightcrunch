@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS Accommodation Indore - Complete Housing Guide for the Super Corridor Campus"
+title: "TCS Accommodation Indore - Complete Housing Guide"
+page_title: "TCS Accommodation Indore - Complete Housing Guide for the Super Corridor Campus"
 date: 2019-10-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Indore", "Madhya Pradesh", "Fresher", "Super Corridor", "SEZ", "IT Career"]
