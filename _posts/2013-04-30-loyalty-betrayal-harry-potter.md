@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Loyalty and Betrayal in Harry Potter: From Pettigrew to Snape - The Series' Central Moral Axis"
+title: "Loyalty and Betrayal in Harry Potter: Pettigrew, Snape"
+page_title: "Loyalty and Betrayal in Harry Potter: From Pettigrew to Snape - The Series' Central Moral Axis"
 date: 2013-04-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Loyalty", "Betrayal", "Snape", "Pettigrew", "Ron Weasley", "Percy Weasley", "Literary Analysis"]
