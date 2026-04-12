@@ -6,12 +6,12 @@ date: 1996-10-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Summer Prep", "Study Plan", "Timeline"]
 excerpt: "Summer is the single best preparation window in the academic year. No competing schoolwork, no AP exams, no extracurricular crunch. Here is how to use it."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1996-10-18
+lang: en
 ---
-
 Summer break is the single best SAT preparation window in the academic year. The reason is structural, not motivational: summer provides ten to twelve uninterrupted weeks of preparation time without the competing demands of schoolwork, AP exam deadlines, extracurricular commitments, and the cognitive overhead of a full school day. Every other preparation window - the weeks before a November test, the winter break intensive, the spring semester push - is squeezed around other obligations. Summer has none of those constraints. It is the only window that naturally matches the length and intensity of preparation that produces the most significant score improvements.
 
 Students who take the SAT without summer preparation - who prepare during the school year while managing coursework, activities, and other commitments - typically achieve solid but limited preparation quality because their study sessions are compressed, interrupted, and competing for cognitive resources with schoolwork. Students who use the summer window deliberately and systematically arrive at their August or October test date with preparation quality that is genuinely difficult to match during the academic year. The improvement gap between a well-prepared summer student and an equally capable student who prepared only during the school year is real and significant. The gap is not primarily about intelligence or academic ability - it is about the quality and consistency of preparation time, which the summer window enables and the school year makes genuinely difficult to achieve.
@@ -20,7 +20,7 @@ This guide provides the complete framework for using the summer window effective
 
 For a complete week-by-week preparation framework that fits within the summer window, the [SAT 12-week beginner plan](/1996/10/23/sat-12-week-beginner-plan/) provides the full phase-based structure that this guide's monthly framework is built around. Students who have not used the SAT before should read that guide alongside this one: this guide provides the summer-specific strategic context and motivational framework, while the twelve-week plan provides the daily and weekly preparation structure.
 
-![SAT Summer Preparation: How to Use June Through August Effectively](/assets/images/blog/blog-10.webp)
+![SAT Summer Preparation: How to Use June Through August Effectively](/assets/images/blog/blog-05.webp)
 
 ## Why Summer Is the Golden Preparation Window
 

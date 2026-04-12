@@ -6,12 +6,12 @@ date: 1996-11-05
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Exam Day", "Mistakes", "Test Day"]
 excerpt: "Most SAT score losses on test day are preventable. Here are the 15 exam-day mistakes that consistently cost students 50 or more points, and exactly how to avoid each one."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "natalie-webb"
 last_updated: 1996-11-05
+lang: en
 ---
-
 A student can prepare for months, master the content, and build strong test-taking habits - and then lose 50 points or more on test day because of entirely preventable mistakes that have nothing to do with what they know. Test-day errors are a distinct category from preparation gaps. Preparation gaps require weeks of study to address. Test-day errors can be prevented entirely by knowing what they are and making specific decisions in the 24 to 48 hours before and the two-plus hours during the actual exam. The frustrating truth is that many students score lower than their preparation warrants not because they failed to learn enough but because they made avoidable decisions that undermined their execution on test day.
 
 This guide covers the 15 most common and costly SAT exam-day mistakes in the order they tend to occur - from the night before through the final minutes of the test. Each mistake is analyzed specifically: what it is, why it costs points, and the concrete prevention strategy that eliminates it. Some of these mistakes will feel obvious after reading them, and that is intentional. Obvious mistakes are still mistakes. The students who lose 50 points on test day to these errors are not foolish students - they are prepared students who made individual bad decisions that compounded into meaningful score losses. The goal of this guide is to make every decision the night before and during the test explicit, deliberate, and correct.
@@ -20,7 +20,7 @@ What distinguishes a student who executes well on test day from one who performs
 
 The [SAT test day complete guide](/2020/10/30/sat-test-day-complete-guide/) covers the full logistics of test day preparation from registration through score reporting. This article focuses specifically on the execution errors during the test itself and in the critical preparation window immediately before it.
 
-![SAT Exam Day Mistakes That Cost Students 50+ Points](/assets/images/blog/blog-06.webp)
+![SAT Exam Day Mistakes That Cost Students 50+ Points](/assets/images/blog/blog-43.webp)
 
 ## Mistake 1: Insufficient Sleep the Night Before
 

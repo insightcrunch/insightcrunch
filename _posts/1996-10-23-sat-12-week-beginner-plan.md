@@ -6,12 +6,12 @@ date: 1996-10-23
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Study Plan", "Beginner", "12 Weeks"]
 excerpt: "Starting SAT prep from scratch is not a disadvantage. It is a blank canvas. This week-by-week guide shows exactly how to convert 12 disciplined weeks into 150 to 250 points of improvement."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "hannah-moore"
 last_updated: 1996-10-23
+lang: en
 ---
-
 Starting SAT preparation with no prior study is not a disadvantage. It is a blank canvas. Students who begin with a genuine diagnostic - no prior coaching, no practice test familiarity, no coached responses to specific question types - have the clearest possible picture of where they actually stand and the most accurate baseline for measuring improvement. Every point gained from that baseline is real, earned, and documented.
 
 The twelve-week timeline is not arbitrary. It reflects a specific logic about how knowledge is built and consolidated in preparation for a standardized test. The first three weeks of foundation work establish the knowledge base. The next three weeks of core skills development expand and deepen that base. The following three weeks of practice and analysis translate knowledge into integrated performance. The final three weeks sharpen the most important remaining edges and prepare the cognitive and physical state for best-case test-day performance. Each phase depends on the previous one, which is why the plan works best when followed in sequence rather than in a modified order. The plan is designed to be complete and self-contained. Students who follow it faithfully, phase by phase, will arrive at test day with the content knowledge, integrated performance experience, refined execution habits, and rested cognitive state that the SAT requires. The outcome is determined by the quality of the work invested across twelve weeks. Begin with the diagnostic, follow the sequence, and trust the process. Every student who completes this plan as a genuine beginner and scores on the real test will have produced something meaningful: a documented, measurable arc of improvement from a cold starting point to a thoroughly prepared test-taker, built one focused, disciplined session at a time across twelve consecutive weeks of real preparation work.
@@ -24,7 +24,7 @@ The plan is organized into five phases: a diagnostic and foundation phase in wee
 
 A note on the word 'beginner' as used throughout this guide: it means a student who has not previously studied specifically for the SAT, not necessarily a student with weak academic skills. Many beginners have strong math or reading ability from their coursework that will translate quickly into strong performance on the relevant SAT question types once those question types are understood. The twelve-week plan accommodates this range: students with strong academic foundations will move through the content phases faster and achieve more in the practice and targeted drilling phases; students with weaker foundations will take more time in the content phases and achieve more modest but still significant improvements. Both outcomes are valid and both are served by the same plan structure.
 
-![SAT 12-Week Preparation Plan for Complete Beginners](/assets/images/blog/blog-09.webp)
+![SAT 12-Week Preparation Plan for Complete Beginners](/assets/images/blog/blog-89.webp)
 
 ## Understanding the Digital SAT Before You Begin
 

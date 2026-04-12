@@ -6,12 +6,12 @@ date: 1996-10-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Score Plateau", "Improvement", "Troubleshooting"]
 excerpt: "Score plateaus have four distinct causes, and each requires a completely different cure. Treating the wrong cause is why most students stay stuck. Here is how to diagnose which type you have."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1996-10-09
+lang: en
 ---
-
 A score plateau is one of the most frustrating experiences in SAT preparation. You have been studying consistently, taking practice tests regularly, reviewing your errors, and working hard - and your score simply will not move. The same number appears on practice test after practice test, sometimes with small variations in either direction, but the upward trend that should be visible from sustained preparation effort is absent.
 
 The critical insight about score plateaus is this: they are not caused by insufficient effort. Students on plateaus are typically working hard. They are caused by applying the wrong type of effort to the wrong problem. A plateau caused by practicing at insufficient difficulty will not respond to more practice test volume. A plateau caused by conceptual gaps will not respond to faster drilling. A plateau caused by test anxiety will not respond to better content knowledge. Each cause requires a specific, targeted cure, and applying a mismatched treatment to the real cause is how students stay stuck for months.
@@ -28,7 +28,7 @@ One additional prerequisite for effective plateau diagnosis: at least three to f
 
 A final prerequisite worth stating explicitly: all practice tests used for diagnosis should be taken under real conditions - full timing, single break, Bluebook platform, genuine engagement throughout. Practice tests taken with pauses, relaxed timing, or reduced engagement produce data that does not accurately reflect the type of errors that a real test would produce, which means the error patterns identified from loosely-taken tests do not reliably indicate the plateau type. The entire diagnostic and treatment framework depends on accurate real-condition data.
 
-![SAT Score Plateaus: Why You're Stuck and How to Break Through](/assets/images/blog/blog-12.webp)
+![SAT Score Plateaus: Why You're Stuck and How to Break Through](/assets/images/blog/blog-38.webp)
 
 ## The Four Types of Score Plateaus
 

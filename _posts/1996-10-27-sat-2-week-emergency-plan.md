@@ -6,12 +6,12 @@ date: 1996-10-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Last Minute", "Emergency Plan", "Cramming"]
 excerpt: "Two weeks before the SAT is not the time for comprehensive review. It is the time for triage, targeted drilling, and execution habit locking. Here is the complete 14-day plan."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1996-10-27
+lang: en
 ---
-
 Two weeks before the SAT, the rules of preparation change. The comprehensive content acquisition strategy that works well over three months is the wrong approach for the final fourteen days. There is not enough time left to learn new topics from scratch, and attempting to do so produces shallow familiarity rather than usable competence while burning preparation time that could produce reliable gains elsewhere. Two weeks is enough time to make meaningful score improvements - but only if those improvements are concentrated in the right areas using the right approach.
 
 The difference between two weeks of preparation that produces 50 points of composite improvement and two weeks that produces five points is almost never the amount of time invested. It is nearly always the specificity of what that time was invested in. A student who spends fourteen days reviewing every topic they feel uncertain about will finish the window with a broad but shallow familiarity that does not reliably translate to correct answers under test conditions. A student who spends fourteen days drilling three or four specific, identified categories to reliable accuracy will finish the window with genuine competence in a limited but high-impact set of areas that produce real score improvement on test day. The plan in this guide is built on that second model.
@@ -26,7 +26,7 @@ This guide provides the complete two-week emergency plan: how to identify your h
 
 The [SAT Math Last 2 Weeks Review Checklist](/1997/04/16/sat-math-last-2-weeks-checklist/) and the [SAT RW Last 2 Weeks Review Checklist](/1996/12/07/sat-rw-last-2-weeks-checklist/) are companion guides to this article that provide the specific content checklists for each section. This article provides the strategic framework; those guides provide the detailed content lists.
 
-![SAT Last 2 Weeks Emergency Plan: Maximum Points in Minimum Time](/assets/images/blog/blog-08.webp)
+![SAT Last 2 Weeks Emergency Plan: Maximum Points in Minimum Time](/assets/images/blog/blog-68.webp)
 
 ## The Triage Approach: Identifying Your Highest-Yield Score Gains
 
