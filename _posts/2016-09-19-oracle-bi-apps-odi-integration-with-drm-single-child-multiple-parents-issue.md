@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Oracle BI Apps ODI integration with DRM - Single Child Multiple Parents Issue"
+title: "Oracle BI Apps ODI + DRM: Multi-Parent Hierarchy"
+page_title: "Oracle BI Apps ODI integration with DRM - Single Child Multiple Parents Issue"
 date: 2016-09-19
 categories: ["Analytics"]
 tags: ["Master Data Management", "Oracle Data Integrator"]
