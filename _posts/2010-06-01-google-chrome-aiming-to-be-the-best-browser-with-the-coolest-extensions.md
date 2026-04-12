@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Google Chrome aiming to be the best browser with the coolest extensions"
+title: "Chrome's Extension Strategy: Rise to Dominance"
+page_title: "Google Chrome aiming to be the best browser with the coolest extensions"
 date: 2010-06-01
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
