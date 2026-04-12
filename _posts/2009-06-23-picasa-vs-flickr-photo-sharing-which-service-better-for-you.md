@@ -6,9 +6,9 @@ date: 2009-06-23
 categories: ["Leisure"]
 tags: ["Google", "The Web", "Thoughts"]
 excerpt: "Picasa vs Flickr comparison: storage, features, community, photo quality, and which photo sharing platform is better for different types of users."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 7
-author: "william-knight"
+author: "marcus-hall"
 last_updated: 2026-04-01
 lang: en
 ---
@@ -250,5 +250,5 @@ If you are looking for a cool and casual platform just to share some special occ
 
 If you are a professional photographer or even an enthusiast, you must get a Flickr Pro account. Initially though you might find the 24.95$/year a bit too much, but it will allow you to share unlimited photos (or if you want, you can backup all your photos there with permission set to “Private”). Besides, you get several communities to discuss and share your pics where you might find several useful information.
 
-![Google Photos vs Flickr](/assets/images/blog/blog-31.webp)
+![Google Photos vs Flickr](/assets/images/blog/blog-81.webp)
 Google Photos vs Flickr
