@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Disliked the biased documentary on Kolkata on CNN IBN by Nilanjana Bose"
+title: "CNN IBN's Biased Kolkata Documentary: A Response"
+page_title: "Disliked the biased documentary on Kolkata on CNN IBN by Nilanjana Bose"
 date: 2011-04-17
 categories: ["Leisure"]
 tags: ["Thoughts"]
