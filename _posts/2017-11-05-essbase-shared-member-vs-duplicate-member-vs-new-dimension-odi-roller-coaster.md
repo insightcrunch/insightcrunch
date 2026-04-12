@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster"
+title: "Essbase Shared vs Duplicate vs New Member in ODI"
+page_title: "Essbase Shared Member vs Duplicate Member vs New Dimension ODI Roller Coaster"
 date: 2017-11-05
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
