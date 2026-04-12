@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Indispensable Companion: What Should You Carry With You at All Times?"
+title: "The Indispensable Companion: What To Carry With You Always?"
+page_title: "The Indispensable Companion: What Should You Carry With You at All Times?"
 date: 2023-08-12
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2025", "Thoughts"]
