@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAT Guide for Chinese Students: From Registration to US College Admission"
+title: "SAT Guide for Chinese Students: US College Prep"
 page_title: "SAT Complete Guide for Chinese Students: Registration, Preparation, Math Advantage, English Challenges, and US College Application Strategy"
 date: 2020-09-04
 categories: ["Industry"]
