@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "You In? Yahoo spreads ripples of kindness around the world in 129 characters"
+title: "Yahoo's You In? Campaign: Kindness in 129 Chars"
+page_title: "You In? Yahoo spreads ripples of kindness around the world in 129 characters"
 date: 2009-12-15
 categories: ["Leisure"]
 tags: ["Surfing"]
