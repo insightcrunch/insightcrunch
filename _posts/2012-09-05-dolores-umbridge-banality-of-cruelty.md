@@ -7,7 +7,7 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "A deep literary analysis of Dolores Umbridge across all Harry Potter books - bureaucratic cruelty, institutional evil, and the villain who frightens more than Voldemort."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "megan-clark"
+author: "sarah-mitchell"
 last_updated: 2026-04-01
 lang: en
 ---
