@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Dolores Umbridge Character Analysis: Evil in Pink, Authority as Cruelty"
+title: "Dolores Umbridge: Pink Evil and Ministry Cruelty"
+page_title: "Dolores Umbridge Character Analysis: Evil in Pink, Authority as Cruelty"
 date: 2013-03-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dolores Umbridge", "Ministry of Magic", "Order of the Phoenix"]
