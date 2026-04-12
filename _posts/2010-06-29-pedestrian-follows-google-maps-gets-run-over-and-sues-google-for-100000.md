@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pedestrian follows Google Maps, gets run over and sues Google for $100,000"
+title: "Google Maps Lawsuit: Pedestrian Sues for $100K"
+page_title: "Pedestrian follows Google Maps, gets run over and sues Google for $100,000"
 date: 2010-06-29
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
