@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What US Citizen Engineers Can Actually Do Right Now: The Complete Career Survival and Advancement Guide for the AI Era"
+title: "What US Citizen Engineers Can Do Right Now in the AI Era"
+page_title: "What US Citizen Engineers Can Actually Do Right Now: The Complete Career Survival and Advancement Guide for the AI Era"
 date: 2026-04-03
 categories: ["Industry"]
 tags: ["US Engineers", "Tech Layoffs 2026", "AI Careers", "Software Engineering", "Career Pivot", "MLOps", "AI Skills", "Reskilling", "Defense Tech", "Cybersecurity", "Career Strategy"]
