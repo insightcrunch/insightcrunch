@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "O Que Engenheiros Brasileiros Podem Fazer Agora: O Guia Completo de Carreira e Sobrevivência na Era da IA"
+title: "Engenheiros Brasileiros na Era da IA: Guia 2026"
+page_title: "O Que Engenheiros Brasileiros Podem Fazer Agora: O Guia Completo de Carreira e Sobrevivência na Era da IA"
 date: 2026-03-26
 categories: ["Industry"]
 tags: ["Engenheiros Brasil", "Mercado de Trabalho TI 2026", "IA Carreiras", "Salário Desenvolvedor Brasil", "Requalificação", "Nubank", "Mercado Livre", "Trabalho Remoto Internacional", "PJ Dólar", "Carreira Tech"]
