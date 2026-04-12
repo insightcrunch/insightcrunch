@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Father Figures in Harry Potter: The Incomplete Education of a Boy Who Had None"
+title: "Father Figures in Harry Potter: Sirius, Dumbledore, Lupin"
+page_title: "Father Figures in Harry Potter: The Incomplete Education of a Boy Who Had None"
 date: 2013-04-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Father Figures", "Dumbledore", "Sirius Black", "Lupin", "Arthur Weasley", "Hagrid", "Literary Analysis"]
