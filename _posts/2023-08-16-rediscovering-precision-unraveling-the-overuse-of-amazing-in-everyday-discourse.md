@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Rediscovering Precision: Unraveling the Overuse of 'Amazing' in Everyday Discourse"
+title: "Unraveling the Overuse of 'Amazing' in Everyday Discourse"
+page_title: "Rediscovering Precision: Unraveling the Overuse of 'Amazing' in Everyday Discourse"
 date: 2023-08-16
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2029", "Thoughts"]
