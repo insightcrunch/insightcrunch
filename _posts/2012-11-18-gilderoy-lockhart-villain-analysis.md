@@ -5,9 +5,9 @@ date: 2012-11-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gilderoy Lockhart", "Hogwarts Professors", "Narcissism"]
 excerpt: "Deep literary analysis of Gilderoy Lockhart in Harry Potter - vanity, fraud, memory, and the cost of fame."
-image: "/assets/images/blog/blog-74.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "olivia-grant"
+author: "victoria-stone"
 last_updated: 2026-04-02
 lang: en
 ---
@@ -15,7 +15,7 @@ lang: en
 
 There is a particular species of villain in literature that operates not through cruelty or malice but through the absolute emptiness at its center. Iago destroys Othello out of a bottomless resentment that even he cannot fully explain. Tom Ripley kills because the void inside him can only be filled by becoming someone else. And Gilderoy Lockhart, the five-time winner of *Witch Weekly's* Most Charming Smile Award, steals the memories and achievements of other wizards because he is, beneath the wavy hair and the blinding teeth and the lilac robes, nothing at all. He is a hollow man - a surface without a depth, a performance without a performer, a smile stretched over an abyss of mediocrity that terrifies him so completely that he has built his entire life around ensuring no one ever sees it.
 
-![Gilderoy Lockhart character analysis across all Harry Potter books](/assets/images/blog/blog-74.webp)
+![Gilderoy Lockhart character analysis across all Harry Potter books](/assets/images/blog/blog-29.webp)
 
 Lockhart is, by a considerable margin, the funniest character Rowling ever created. His vanity is so colossal, so perfectly oblivious, so magnificently resistant to the reality of his own incompetence that it produces comedy of the highest order. He sends himself valentines. He assigns his own autobiography as a textbook. He reenacts scenes from his books with Harry Potter as an unwilling prop. He responds to every crisis - a rampaging troll, a student-petrifying basilisk, the imminent collapse of his entire fraudulent career - with the same unshakeable conviction that the universe revolves around his cheekbones. He is hilarious.
 
