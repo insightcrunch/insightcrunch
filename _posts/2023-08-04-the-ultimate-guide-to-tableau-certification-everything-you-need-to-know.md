@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Ultimate Guide to Tableau Certification: Everything You Need to Know"
+title: "Tableau Certification Guide: Everything to Know"
+page_title: "The Ultimate Guide to Tableau Certification: Everything You Need to Know"
 date: 2023-08-04
 categories: ["Analytics"]
 tags: ["Tableau"]
