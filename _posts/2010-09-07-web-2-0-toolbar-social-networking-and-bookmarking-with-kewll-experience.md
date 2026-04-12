@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Web 2.0 Toolbar: Social Networking and Bookmarking with Kewll experience"
+title: "Kewll Web 2.0 Toolbar: Social Bookmarking Tool"
+page_title: "Web 2.0 Toolbar: Social Networking and Bookmarking with Kewll experience"
 date: 2010-09-07
 categories: ["Leisure"]
 tags: ["Surfing"]
