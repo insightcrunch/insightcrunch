@@ -6,9 +6,9 @@ date: 2013-03-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gilderoy Lockhart", "Chamber of Secrets", "Defence Against the Dark Arts"]
 excerpt: "Gilderoy Lockhart in Harry Potter: the series' most spectacular fraud, whose emptiness is both comedy and genuine horror, and who ends the second book without a self to recover."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "olivia-grant"
+author: "sarah-mitchell"
 last_updated: 2026-04-01
 lang: en
 ---
@@ -18,7 +18,7 @@ Gilderoy Lockhart is one of the most carefully constructed characters in the Har
 
 The fraud is complete and systematic. Every adventure in every book he has written was performed by someone else. Every dragon tamed, every banshee banished, every hag defeated - all of it the work of other witches and wizards who were subsequently relieved of the specific memories that would have allowed them to contest Lockhart's account. He has built a career, a celebrity, a self on stolen achievements, and the construction is so thorough that by the time *Chamber of Secrets* begins, there is almost nothing left of Lockhart that is not constructed. The charm, the confidence, the published expertise - all of it borrowed. What lies underneath, when the borrowed identity is stripped away, is very nearly nothing.
 
-![Gilderoy Lockhart character analysis in Harry Potter](/assets/images/blog/blog-37.webp)
+![Gilderoy Lockhart character analysis in Harry Potter](/assets/images/blog/blog-32.webp)
 
 This is what makes Lockhart simultaneously the series' funniest character and one of its most genuinely disturbing. The comedy is immediate and sustained: his incompetence is spectacular, his self-promotion is relentless, his vanity is encyclopaedic. The disturbance is slower and deeper: what he has done to the witches and wizards whose memories he has erased is a profound violation, and what he has done to himself - what the systematic identity theft has left behind when the theft is completed - is a portrait of the specifically modern horror of a self that is entirely performance with no substance beneath it.
 
