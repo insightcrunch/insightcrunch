@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaokao Biology Experiment Design - Controls, Variables, and Methodology"
+title: "Gaokao Biology Experiment Design: Complete Guide"
 page_title: "Gaokao Biology Experiment Design Deep Dive - Control Groups, Variable Identification, Experimental Writing, and Data Interpretation - 高考生物实验设计完全攻略"
 date: 2024-05-15
 categories: ["Industry"]
