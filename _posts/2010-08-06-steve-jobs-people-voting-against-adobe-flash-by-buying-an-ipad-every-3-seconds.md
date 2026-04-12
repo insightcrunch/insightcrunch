@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Steve Jobs: People voting against Adobe Flash by buying an iPad every 3 seconds"
+title: "Steve Jobs vs Adobe Flash: The iPad's Verdict"
+page_title: "Steve Jobs: People voting against Adobe Flash by buying an iPad every 3 seconds"
 date: 2010-08-06
 categories: ["Leisure"]
 tags: ["Surfing"]
