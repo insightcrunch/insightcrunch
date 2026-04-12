@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From TCS to Oxford and Harvard - How Indian IT Professionals Make the Transition"
+title: "TCS to Oxford and Harvard: Indian IT Transition"
 page_title: "From TCS to Oxford and Harvard: The Complete Transition Guide for Indian IT Professionals"
 date: 2018-12-30
 categories: ["Industry"]
