@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Women of Harry Potter: Mothers, Warriors, and Survivors - The Series' Uneven Feminism"
+title: "Women of Harry Potter: Mothers, Warriors, Survivors"
+page_title: "Women of Harry Potter: Mothers, Warriors, and Survivors - The Series' Uneven Feminism"
 date: 2013-04-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Women", "Feminism", "Hermione Granger", "Molly Weasley", "Ginny Weasley", "Bellatrix Lestrange", "Luna Lovegood", "Literary Analysis"]
