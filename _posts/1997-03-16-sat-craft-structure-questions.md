@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SAT Craft and Structure Questions: Purpose, Audience and Text Structure"
+title: "SAT Craft and Structure: Purpose and Text Analysis"
 page_title: "SAT Craft and Structure Questions: Complete Strategy Guide for Purpose, Structure and Word Choice"
 date: 1997-03-16
 categories: ["Industry"]
