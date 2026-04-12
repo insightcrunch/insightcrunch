@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Android team determined to bring new user friendly features in its next release"
+title: "Android's Push for User-Friendly Features"
+page_title: "Android team determined to bring new user friendly features in its next release"
 date: 2010-08-20
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
