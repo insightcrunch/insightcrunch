@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Sybill Trelawney Character Analysis: The True Seer Hidden Inside the Fraud"
+title: "Sybill Trelawney Character Analysis: Seer or Fraud"
+page_title: "Sybill Trelawney Character Analysis: The True Seer Hidden Inside the Fraud"
 date: 2013-03-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sybill Trelawney", "Divination", "Prophecy"]
