@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Bullying in Harry Potter: From Dudley to Umbridge, the System Behind the Cruelty"
+title: "Bullying in Harry Potter: Dudley, Umbridge, and Power"
+page_title: "Bullying in Harry Potter: From Dudley to Umbridge, the System Behind the Cruelty"
 date: 2013-03-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Bullying", "Power", "Literary Analysis", "Dudley Dursley", "Dolores Umbridge", "Severus Snape"]
