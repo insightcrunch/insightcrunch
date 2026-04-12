@@ -6,9 +6,9 @@ date: 2009-07-19
 categories: ["Technology"]
 tags: ["Surfing"]
 excerpt: "Kewll toolbar for Firefox: now with Twitter integration, Bing search, real-time results, email notifications, and curated best Firefox extensions."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 2
-author: "benjamin-scott"
+author: "william-knight"
 last_updated: 2026-04-01
 lang: en
 ---
@@ -22,7 +22,7 @@ Keep reading: [Looking to share your Nature, Landscape and Wildlife Photos? »]
 
 Just when you are thinking that it’s all over, a few more bits and pieces come together to make Kewll all the more appealing. You get your most essential tools like Gmail, Yahoo mail, Google News, Orkut, Facebook, YouTube, etc under “Royal Stuffs”. The best part is you can always use the Kewll button to suggest stuffs and see them appear on the toolbar soon. The News and Sports tabs deserve to speak for themselves. With updates happening every moment round the world, you won’t fall behind even for one second with it.
 
-![Firefox Browser Extensions](/assets/images/blog/blog-09.webp)
+![Firefox Browser Extensions](/assets/images/blog/blog-42.webp)
 Firefox Browser Extensions
 
 Now coming to my blog’s section. With overwhelming response from my readers about the tech articles and news of TCS, I decided to put it in the toolbar so that readers can stay updated in the browser itself and read the new articles any time.
