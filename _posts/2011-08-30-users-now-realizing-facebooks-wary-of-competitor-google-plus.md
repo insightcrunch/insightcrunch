@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Users now realizing Facebook’s latest changes show they are wary of their competitor Google Plus"
+title: "Users realize Facebook’s changes are driven by Google Plus"
+page_title: "Users now realizing Facebook’s latest changes show they are wary of their competitor Google Plus"
 date: 2011-08-30
 categories: ["Leisure"]
 tags: ["Surfing"]
