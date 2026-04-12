@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Seamus Finnigan Character Analysis: Loyalty, Doubt, and the Courage to Change"
+title: "Seamus Finnigan Character Analysis: Loyalty & Doubt"
+page_title: "Seamus Finnigan Character Analysis: Loyalty, Doubt, and the Courage to Change"
 date: 2013-02-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Seamus Finnigan", "Gryffindor", "Dean Thomas"]
