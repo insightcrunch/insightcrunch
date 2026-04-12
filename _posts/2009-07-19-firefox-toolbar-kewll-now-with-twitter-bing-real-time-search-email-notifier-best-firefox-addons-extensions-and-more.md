@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Firefox Toolbar: Kewll, now with Twitter, Bing, Real-time search, Email notifier, Best Firefox addons, extensions and more"
+title: "Firefox Toolbar: Kewll, now with Twitter, Bing, and search"
+page_title: "Firefox Toolbar: Kewll, now with Twitter, Bing, Real-time search, Email notifier, Best Firefox addons, extensions and more"
 date: 2009-07-19
-categories: ["Leisure"]
+categories: ["Technology"]
 tags: ["Surfing"]
 excerpt: "Kewll toolbar for Firefox: now with Twitter integration, Bing search, real-time results, email notifications, and curated best Firefox extensions."
 image: "/assets/images/blog/blog-09.webp"
