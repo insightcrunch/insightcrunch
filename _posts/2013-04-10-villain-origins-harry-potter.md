@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Villain Origins in Harry Potter: Born, Made, or Chosen - The Spectrum of Moral Responsibility"
+title: "Villain Origins in Harry Potter: Born, Made, or Chosen"
+page_title: "Villain Origins in Harry Potter: Born, Made, or Chosen - The Spectrum of Moral Responsibility"
 date: 2013-04-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Villains", "Voldemort", "Draco Malfoy", "Pettigrew", "Moral Complexity", "Literary Analysis"]
