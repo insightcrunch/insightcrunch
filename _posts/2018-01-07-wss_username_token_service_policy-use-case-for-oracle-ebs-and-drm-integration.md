@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "wss_username_token_service_policy use case for Oracle EBS and DRM Integration"
+title: "WSS Username Token Policy: Oracle EBS + DRM"
+page_title: "wss_username_token_service_policy use case for Oracle EBS and DRM Integration"
 date: 2018-01-07
 categories: ["Analytics"]
 tags: ["Master Data Management"]
