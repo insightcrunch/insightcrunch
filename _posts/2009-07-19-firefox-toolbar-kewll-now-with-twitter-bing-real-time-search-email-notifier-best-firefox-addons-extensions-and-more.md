@@ -8,7 +8,7 @@ tags: ["Surfing"]
 excerpt: "Kewll toolbar for Firefox: now with Twitter integration, Bing search, real-time results, email notifications, and curated best Firefox extensions."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 2
-author: "rachel-foster"
+author: "benjamin-scott"
 last_updated: 2026-04-01
 lang: en
 ---
