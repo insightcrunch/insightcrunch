@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS Accommodation Kochi - Complete Housing Guide for Infopark and Kakkanad"
+title: "TCS Accommodation Kochi: Complete Housing Guide"
+page_title: "TCS Accommodation Kochi - Complete Housing Guide for Infopark and Kakkanad"
 date: 2019-10-14
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Kochi", "Kerala", "Fresher", "Infopark", "Kakkanad", "IT Career", "Backwaters"]
