@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gilderoy Lockhart Character Analysis: Fame, Fraud, and the Void Behind the Smile"
+title: "Gilderoy Lockhart: Fame, Fraud, and the Void"
+page_title: "Gilderoy Lockhart Character Analysis: Fame, Fraud, and the Void Behind the Smile"
 date: 2013-03-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gilderoy Lockhart", "Chamber of Secrets", "Defence Against the Dark Arts"]
