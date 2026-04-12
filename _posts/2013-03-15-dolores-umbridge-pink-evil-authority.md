@@ -6,9 +6,9 @@ date: 2013-03-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dolores Umbridge", "Ministry of Magic", "Order of the Phoenix"]
 excerpt: "Dolores Umbridge in Harry Potter: the series' most hated villain, more frightening than Voldemort to many readers, because she is the evil we recognise from ordinary life - power exercised through bureaucracy, cruelty delivered with a smile."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
-author: "megan-clark"
+author: "olivia-grant"
 last_updated: 2026-04-01
 lang: en
 ---
@@ -18,7 +18,7 @@ Dolores Jane Umbridge is the character that J.K. Rowling has described as her mo
 
 The specific quality of Umbridge's evil has generated more reader visceral hatred than Voldemort in surveys and reader responses, a phenomenon that Rowling has commented on and that reveals something important about what the character is doing in the series. Voldemort is frightening in the way that mythological evil is frightening - at a remove, at a scale that makes him feel like a force of nature rather than a person. Umbridge is frightening in the way that the colleague who reports you to HR for something trivial is frightening, the way the petty official who holds the power over your application is frightening, the way the authority figure who has decided not to like you is frightening. She operates at the scale of ordinary life. Her weapons are detection forms and Educational Decrees and the specific cruelty of someone who has the power to make a particular person's daily existence miserable and who enjoys the exercise of that power.
 
-![Dolores Umbridge character analysis in Harry Potter](/assets/images/blog/blog-67.webp)
+![Dolores Umbridge character analysis in Harry Potter](/assets/images/blog/blog-90.webp)
 
 She arrives at Hogwarts in the fifth book as the new Defence Against the Dark Arts teacher and the Ministry's representative in what is immediately revealed as an institutional takeover: the Ministry of Magic, under Minister Cornelius Fudge's direction, has decided that Hogwarts needs to be controlled, and Umbridge is the instrument of that control. Her presence at the school is both pedagogical and political - she is there to teach a sanitised, non-practical version of Defence Against the Dark Arts, and she is there to monitor, report, and eventually seize control of the institution's daily operations.
 
