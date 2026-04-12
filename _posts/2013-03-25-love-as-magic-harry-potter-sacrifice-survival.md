@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Love as Magic in Harry Potter: Sacrifice, System, and the Power Voldemort Could Not Understand"
+title: "Love as Magic in Harry Potter: The Power of Sacrifice"
+page_title: "Love as Magic in Harry Potter: Sacrifice, System, and the Power Voldemort Could Not Understand"
 date: 2013-03-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Love", "Sacrifice", "Magic System", "Literary Analysis"]
