@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Boggarts and Fear in Harry Potter: What Every Character's Deepest Fear Reveals"
+title: "Boggarts in Harry Potter: What Deepest Fears Reveal"
+page_title: "Boggarts and Fear in Harry Potter: What Every Character's Deepest Fear Reveals"
 date: 2013-04-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Boggarts", "Fear", "Psychology", "Prisoner of Azkaban", "Literary Analysis", "Character Analysis"]
