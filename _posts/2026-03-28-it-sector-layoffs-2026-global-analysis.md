@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "IT Sector Layoffs 2026: The Definitive Global Analysis of Job Cuts at the World's Largest Tech Companies"
+title: "IT Sector Layoffs 2026: Job Cuts at Tech Companies Analysis"
+page_title: "IT Sector Layoffs 2026: The Definitive Global Analysis of Job Cuts at the World's Largest Tech Companies"
 date: 2026-03-28
 categories: ["Industry"]
 tags: ["Layoffs", "IT Sector", "TCS", "Amazon", "Microsoft", "Meta", "Tech Jobs", "AI", "Workforce Reduction", "Infosys", "Wipro"]
