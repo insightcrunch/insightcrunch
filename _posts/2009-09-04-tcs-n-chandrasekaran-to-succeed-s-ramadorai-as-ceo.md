@@ -6,15 +6,15 @@ date: 2009-09-04
 categories: ["Industry"]
 tags: ["TCS", "Leadership", "Management", "Tata Group"]
 excerpt: "In a report in the Business Line today, “Mr N. Chandrasekaran will take over as the Managing Director and Chief Executive Officer of Tata Consultancy..."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 45
-author: "nikhil-tiwari"
+author: "devendra-patil"
 last_updated: 2026-04-01
 lang: en
 ---
 How a company is led tells you more about its long-term character than almost any other observable fact. The values its leaders hold, the succession processes it uses, the governance structures it operates within, and the management philosophy it applies at every level from the boardroom to the project team - these are the forces that shape the company an employee will actually experience, not the marketing materials or the mission statements. For TCS, understanding the leadership and management structure means understanding one of the most studied and consistently successful examples of corporate governance in the Indian business world.
 
-![The TCS headquarters building in Mumbai, representing the leadership and governance hub of one of India's largest technology enterprises](/assets/images/blog/blog-34.webp)
+![The TCS headquarters building in Mumbai, representing the leadership and governance hub of one of India's largest technology enterprises](/assets/images/blog/blog-62.webp)
 *TCS leadership structure, CEO succession history, organisational hierarchy, and Tata Group governance - a complete guide for employees, freshers, and professionals*
 
 TCS's leadership story is inseparable from the Tata Group story. The company was not built in isolation - it was built within the governance framework, cultural values, and organisational traditions of one of India's oldest and most respected industrial conglomerates. Understanding TCS's leadership therefore requires understanding both the company-specific management structure and the broader Tata Group context that shapes how TCS is governed, how its leaders are selected, and what values they are expected to uphold.
