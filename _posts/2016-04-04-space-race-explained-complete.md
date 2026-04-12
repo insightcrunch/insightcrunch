@@ -6,19 +6,19 @@ date: 2016-04-04
 categories: ["Leisure"]
 tags: ["space-race", "cold-war", "apollo-11", "nasa", "world-history", "historical-analysis"]
 excerpt: "The Space Race explained - Sputnik to Apollo 11, superpower competition, and the technology it created."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-04-04
+lang: en
 ---
-
 On the evening of October 4, 1957, amateur radio operators across North America and Europe tuned to 20.005 and 40.002 megahertz and heard a sound that no human had ever heard before: a steady beep transmitted from orbit. Sputnik 1, an aluminium sphere 58 centimetres in diameter weighing 83.6 kilograms, had been launched from the Baikonur Cosmodrome in Kazakhstan four hours earlier and was now circling the Earth at approximately 29,000 kilometres per hour. The beeps lasted three weeks before the battery died, and Sputnik itself fell back through the atmosphere three months later. In terms of scientific output, its contribution was modest. In terms of political consequence, it was one of the most significant single events of the Cold War.
 
 <!--more-->
 
 The shock that Sputnik produced in the United States was not simply surprise at Soviet technical achievement. It was the recognition that the rocket capable of placing a satellite in orbit was also capable of placing a nuclear warhead on an American city with no possibility of interception. For Americans who had believed, with some justification, that their technological superiority was a reliable component of their security, Sputnik demonstrated that the assumption required revision. Within months, the United States had accelerated its own space programme, created NASA, passed the National Defense Education Act to reform science and mathematics education, and embarked on the most intensive national investment in scientific and technological capacity in peacetime history. The [Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) had found a new theatre, and it was a theatre that would take human beings to the Moon.
 
-![The Space Race Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
+![The Space Race Explained - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The Space Race lasted from approximately 1957 to 1975, encompassing the arc from Sputnik through the Apollo-Soyuz mission that formally ended the competitive phase of superpower space rivalry. In that period, human beings left the planet's surface for the first time, walked on another world, developed the technologies of satellite communication and GPS navigation, demonstrated in the most dramatic possible terms what concentrated national investment in science could achieve, and produced a body of scientific knowledge and technological capability that transformed the material conditions of the twentieth century and beyond. To [trace the arc from Sputnik's beep to Armstrong's bootprint and through to the international cooperation that followed](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most extraordinary stories of what human ambition, political will, and scientific ingenuity can produce when they are aligned toward a common purpose.
 

@@ -6,19 +6,19 @@ date: 2016-03-10
 categories: ["Leisure"]
 tags: ["cold-war", "united-states", "soviet-union", "nuclear-weapons", "world-history"]
 excerpt: "The Cold War explained - superpower rivalry, nuclear threat, proxy wars, and how it shaped the modern world."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-03-10
+lang: en
 ---
-
 On the night of October 22, 1962, President John F. Kennedy appeared on American television to tell his country that United States reconnaissance aircraft had discovered Soviet nuclear missile installations under construction in Cuba, ninety miles from the coast of Florida. The missiles, once operational, would be capable of reaching most major American cities within minutes. Kennedy announced a naval blockade of Cuba and demanded the removal of the missiles. The Soviet Union had not been consulted before the announcement. Soviet ships carrying military cargo were already en route to Cuba. The United States Strategic Air Command moved to DEFCON 2, the second-highest alert status, one step below the actual launch of nuclear weapons, for the only time in the Cold War's history. For thirteen days in October 1962, the world was closer to nuclear annihilation than at any moment before or since.
 
 <!--more-->
 
 The Cuban Missile Crisis was the Cold War's most acute expression of its defining characteristic: two superpowers with incompatible ideological systems and the combined nuclear capacity to end human civilization, managing their conflict through a combination of deterrence, proxy competition, and the specific calculations of rational actors who understood, at the most fundamental level, that the conflict's direct resolution through nuclear war would be indistinguishable from the loss of everything both sides were competing for. The Cold War was the most consequential international confrontation in modern history not because it was fought with weapons but because it was fought without them, and understanding why it did not become hot is as important as understanding why it was cold.
 
-![The Cold War Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Cold War Explained: Complete Guide - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The Cold War lasted approximately forty-five years, from the late 1940s to the Soviet Union's dissolution in 1991, and in that time it organized nearly every significant international event: decolonization, regional wars in Korea, Vietnam, Angola, Afghanistan, and dozens of other countries, the space race, the nuclear arms race, the Berlin crises, the Red Scare in America, the suppression of reform in Eastern Europe, and the specific diplomatic negotiations that produced the arms control agreements that constrained but did not eliminate the nuclear arsenals. Understanding the Cold War requires understanding not just its major crises but the specific underlying dynamic that generated them: two incompatible systems, each believing the other to be both an ideological threat and a military danger, competing for influence in a world where the specific technology of nuclear weapons had made direct military resolution of their competition unacceptable to both. The [causes of World War II](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) had produced the alliance that won the war; the [way World War II ended](https://insightcrunch.com/2016/02/19/how-world-war-2-ended-explained/) had created the conditions from which the Cold War emerged. To [trace the Cold War's full arc from its origins through its major crises to its end](https://reportmedic.org/tools/world-history-timeline.html) is to follow the central strategic drama of the second half of the twentieth century.
 

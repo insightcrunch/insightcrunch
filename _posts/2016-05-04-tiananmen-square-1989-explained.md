@@ -6,19 +6,19 @@ date: 2016-05-04
 categories: ["Leisure"]
 tags: ["tiananmen-square", "1989", "china", "democracy", "world-history", "human-rights"]
 excerpt: "Tiananmen Square 1989 explained - the protests, the crackdown, Tank Man, and China's ongoing censorship."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-05-04
+lang: en
 ---
-
 On the morning of June 5, 1989, a man carrying two shopping bags walked into the path of a column of People's Liberation Army tanks moving along Chang'an Avenue in Beijing. He stood directly in front of the lead tank. The tank stopped. He climbed onto the tank and appeared to speak to the crew, then descended and stood in the road again. The tank attempted to manoeuvre around him; he moved to block it. The standoff lasted several minutes before bystanders pulled the man away and the column moved on. His identity has never been established. His fate is unknown. But the photographs and footage of this moment, taken by Western journalists who were in Beijing to cover the Soviet leader Gorbachev's visit, became the most reproduced images of the twentieth century's second half, and the man they showed became Tank Man.
 
 <!--more-->
 
 Tank Man was photographed the morning after the People's Liberation Army had cleared Tiananmen Square by force, killing an unknown but certainly significant number of civilians in and around Beijing in the preceding hours. The students and workers who had been demonstrating in the square and across China for six weeks, demanding political reform, accountability from the government, and an end to official corruption, had faced a choice when martial law was declared and the army moved in: flee or remain. Many fled. Some were already gone. Those who stayed, and those who lived in the working-class neighbourhoods that the army moved through to reach the square, faced the tanks and the soldiers.
 
-![Tiananmen Square 1989 Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Tiananmen Square 1989 Explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The events of June 3-4, 1989, and the six weeks of protest that preceded them, represent one of the most significant episodes in Chinese political history and one of the most thoroughly suppressed. The same year that saw the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) European division dissolve peacefully, the same year that the Berlin Wall fell and Eastern European communist governments accepted peaceful transition, saw the Chinese Communist Party choose a different path: the path of military suppression, followed by decades of enforced amnesia. To [trace the arc of the Tiananmen protests from their origins through the crackdown to the present-day erasure](https://reportmedic.org/tools/world-history-timeline.html) is to follow a story about what a government will do to survive, and what a people will risk to be heard.
 

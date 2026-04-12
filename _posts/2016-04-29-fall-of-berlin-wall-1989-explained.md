@@ -6,19 +6,19 @@ date: 2016-04-29
 categories: ["Leisure"]
 tags: ["fall-of-berlin-wall", "1989", "cold-war", "german-history", "world-history"]
 excerpt: "How the Berlin Wall fell - the miscommunication, the crowds, the celebration, and the world it reshaped."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-04-29
+lang: en
 ---
-
 At 6:53 in the evening of November 9, 1989, East German Communist Party spokesman Günter Schabowski sat down at a microphone in the International Press Centre in East Berlin to brief journalists on the day's Politburo decisions. He had not attended the meeting where the decisions were made. He had been given a note summarising the new travel regulations without the context that would have allowed him to present them accurately. And when an Italian journalist named Riccardo Ehrman asked him when the new rules would take effect, Schabowski shuffled his papers, found no date, and said three words that changed the world: "Immediately, without delay."
 
 <!--more-->
 
 Within hours, hundreds of thousands of people had gathered at the checkpoints in the Berlin Wall, demanding to cross. The guards had no orders. The commanders had no instructions. The government that had shot people for crossing the same barrier for twenty-eight years had accidentally announced, on live national television, that the border was open. At one checkpoint after another, the guards made the same decision in the same impossible circumstances: open the gate. By midnight, the world's most heavily fortified ideological border had dissolved, not through military force, not through diplomatic negotiation, but because a man with a piece of paper did not know what it said.
 
-![The Fall of the Berlin Wall in 1989 - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Fall of the Berlin Wall in 1989 - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The fall of the Berlin Wall on November 9, 1989 was the most dramatic single moment in the collapse of the European communist order, and it arrived not as the culmination of a planned revolution but as an accident produced by the interaction of genuine popular pressure, institutional dysfunction, and the specific courage of individuals who made decisions under conditions of genuine uncertainty. Understanding how it happened requires understanding both the months of political transformation that prepared the ground and the specific hours of November 9 that produced the outcome. For the fuller history of the wall's construction and its twenty-eight-year existence, the [Berlin Wall history article](https://insightcrunch.com/2016/03/30/berlin-wall-history-explained.md) provides the complete context; this article focuses on 1989 itself, the year that changed everything. To [trace the arc of 1989's revolutionary wave](https://reportmedic.org/tools/world-history-timeline.html) from its first movements to its world-reshaping conclusion is to follow the year that ended the Cold War's European division.
 

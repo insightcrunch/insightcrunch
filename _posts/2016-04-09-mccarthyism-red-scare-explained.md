@@ -6,19 +6,19 @@ date: 2016-04-09
 categories: ["Leisure"]
 tags: ["mccarthyism", "red-scare", "cold-war", "american-history", "world-history"]
 excerpt: "McCarthyism explained - the communist witch hunt, blacklists, ruined lives, and lessons about fear in democracy."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-04-09
+lang: en
 ---
-
 On February 9, 1950, Senator Joseph McCarthy of Wisconsin stood before the Republican Women's Club in Wheeling, West Virginia, and made an announcement that would define American political culture for the next four years. He held up a piece of paper, he said, that listed 205 Communists currently employed by the United States State Department. The number changed in subsequent speeches - 57, then 81, then 10 - and no verified list was ever produced. None of the people McCarthy named was ever shown to be a Soviet agent. But the specific number was never the point. The point was the claim itself: that the institutions of American government had been penetrated at the highest levels by traitors working for the Soviet enemy, and that the established political class had either failed to notice or had conspired to conceal it.
 
 <!--more-->
 
 The claim landed with explosive force because the political conditions of early 1950 had prepared the ground for exactly this kind of accusation. The Soviet Union had tested an atomic bomb in August 1949, years ahead of American predictions. China had fallen to Mao Zedong's communist forces in October 1949. The Hiss case had just demonstrated that a senior State Department official had passed secrets to the Soviets. The Rosenbergs had been arrested for atomic espionage. And the Korean War would begin in June 1950, placing American soldiers in combat against communist forces three months after McCarthy's Wheeling speech. The fear that the United States was losing the [Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) through a combination of military weakness and internal treachery was not paranoid delusion; it was a genuine political anxiety with genuine empirical foundations, and McCarthy was its most skilled exploiter.
 
-![McCarthyism and the Red Scare Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
+![McCarthyism and the Red Scare Explained - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 McCarthyism was not simply the career of one reckless senator. It was the culmination of an anti-communist political culture that had been building in the United States since the First Red Scare of 1919-1921, that was given renewed impetus by the genuine Soviet espionage that the Second World War had revealed, and that found in McCarthy its most flamboyant and most destructive expression. Understanding McCarthyism requires understanding both its genuine empirical foundations, Soviet espionage was real and some American officials had engaged in it, and the ways in which the anti-communist crusade vastly exceeded those foundations to destroy careers, criminalise legitimate political dissent, and impose a chilling conformity on American cultural and intellectual life that persisted long after McCarthy himself was disgraced. To [trace the arc from the First Red Scare through McCarthyism's peak to its eventual collapse](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of democracy's most instructive stress tests.
 

@@ -6,19 +6,19 @@ date: 2016-04-14
 categories: ["Leisure"]
 tags: ["soviet-afghan-war", "cold-war", "afghanistan", "soviet-union", "world-history"]
 excerpt: "The Soviet-Afghan War explained - invasion, resistance, superpower retreat, and the consequences that followed."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-04-14
+lang: en
 ---
-
 On Christmas Eve, 1979, Soviet transport aircraft began landing at Kabul airport in an operation that Soviet planners expected to last no more than a few weeks. Within seventy-two hours, approximately 30,000 Soviet troops were in Afghanistan, the leadership of the communist government the Soviets had installed had been killed and replaced, and the largest Soviet military operation since the Second World War was underway. The Politburo had approved the intervention on December 12, 1979 over the objections of the Soviet military's most experienced generals, who warned that fighting in Afghanistan's mountains and valleys would be unlike anything the Red Army had prepared for. The generals were right, and the politicians who overruled them were wrong in ways that took a decade and fifteen thousand Soviet lives to fully demonstrate.
 
 <!--more-->
 
 The Soviet-Afghan War lasted from December 1979 to February 1989, nine years and two months during which the Soviet Union's military machine failed to subdue a country whose population declined to be subdued and whose resistance was sustained, armed, and financed by a coalition that included the United States, Pakistan, Saudi Arabia, China, and Egypt. The war killed between one and two million Afghans, produced the largest refugee crisis in the world at the time, destroyed much of the country's agricultural and physical infrastructure, and ultimately forced the withdrawal of Soviet forces without achieving any of the political objectives that had justified the intervention. It contributed directly to the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) end by demonstrating the limits of Soviet military power, exhausting Soviet resources at a moment when economic stagnation was already threatening the system's viability, and providing the Reagan administration with the evidence it needed to argue that the Soviet empire was overextended and vulnerable. It also created the conditions from which the Taliban and Al-Qaeda would eventually emerge, seeding the future crises whose consequences continue to the present day.
 
-![The Soviet-Afghan War Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![The Soviet-Afghan War Explained - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 Understanding the Soviet-Afghan War requires understanding both why the Soviet Union intervened and why it failed, and why the failure mattered so much for both the Cold War's conclusion and the subsequent history of Afghanistan and global security. To [trace the arc from the 1978 communist coup through the Soviet invasion to the 1989 withdrawal and its aftermath](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most consequential military and political failures of the twentieth century's final decades.
 

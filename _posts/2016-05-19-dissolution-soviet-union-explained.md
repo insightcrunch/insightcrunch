@@ -6,19 +6,19 @@ date: 2016-05-19
 categories: ["Leisure"]
 tags: ["soviet-union", "dissolution", "1991", "cold-war", "world-history"]
 excerpt: "How the Soviet Union collapsed - Gorbachev's reforms, nationalist movements, and the end of a superpower."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-05-19
+lang: en
 ---
-
 On December 25, 1991, Mikhail Gorbachev resigned as President of the Soviet Union and the Soviet flag was lowered over the Kremlin for the last time, replaced by the Russian tricolour. The following day, the Supreme Soviet of the Soviet Union, unable to assemble a quorum to formally dissolve itself, passed a declaration acknowledging the Union's dissolution. The world's largest country, encompassing eleven time zones, fifteen republics, roughly 300 million people, and one of history's two nuclear superpowers, ceased to exist not with a bang but with the quiet incapacity to gather enough legislators in one room to make the ending official.
 
 <!--more-->
 
 The dissolution of the Soviet Union on December 25-26, 1991 was the most consequential geopolitical event since the Second World War. It ended the [Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) whose bipolar framework had organised international politics for forty-six years, liberated approximately 200 million people in Central and Eastern Europe and the former Soviet republics from communist rule, produced fifteen new independent states from the Soviet Union's territory, and left nuclear weapons on the territory of four separate countries. It was received in the West with celebrations that somewhat obscured the complexity of what had actually happened: not a democratic revolution that had overthrown an oppressive system but the collapse of an imperial state whose internal contradictions had outrun its capacity to manage them through reform.
 
-![The Dissolution of the Soviet Union - Insight Crunch](/assets/images/blog/blog-05.webp)
+![The Dissolution of the Soviet Union - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 Understanding the Soviet Union's dissolution requires understanding both the deep structural conditions that made it vulnerable and the contingent events and individual decisions that determined when and how it happened. The Soviet system had survived Stalin's terror, the Second World War's devastation, the Cold War's arms competition, and repeated cycles of political repression and limited reform; the dissolution was not inevitable but was produced by the interaction of those structural conditions with the choices of specific people at specific moments. To [trace the arc from Gorbachev's 1985 accession through the August 1991 coup attempt to the December 1991 formal dissolution](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most extraordinary implosions of a major state in modern history.
 

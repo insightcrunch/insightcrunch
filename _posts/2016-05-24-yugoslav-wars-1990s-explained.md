@@ -6,19 +6,19 @@ date: 2016-05-24
 categories: ["Leisure"]
 tags: ["yugoslav-wars", "balkans", "bosnia", "srebrenica", "european-history", "world-history"]
 excerpt: "The Yugoslav Wars explained - ethnic conflict, sieges, genocide, and Europe's failure to prevent atrocity."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-05-24
+lang: en
 ---
-
 On July 11, 1995, Dutch UN peacekeepers stationed in Srebrenica, a United Nations-designated "safe area" in eastern Bosnia, watched as Bosnian Serb forces under General Ratko Mladić entered the town. Approximately 8,000 Bosniak Muslim men and boys were separated from the women, loaded onto buses and trucks, taken to fields and forest clearings outside the town, and systematically executed. It took approximately a week to kill them all. The Dutch peacekeepers did not intervene. The UN did not authorise intervention. The European Union watched. The United States watched. The mass graves were not found for months.
 
 <!--more-->
 
 Srebrenica was the largest massacre in Europe since the Second World War, and it happened while the international community debated the appropriate frameworks for responding to it. The Yugoslav Wars of the 1990s, which began with Slovenia's ten-day war of independence in 1991 and did not fully conclude until the Kosovo War ended in 1999, produced approximately 140,000 deaths, several million refugees, the longest siege of a capital city in the history of modern warfare at Sarajevo, and the genocide at Srebrenica that demonstrated both the depths of the violence that ethnic nationalist politics could produce and the international community's inadequacy in responding to it. They occurred in Europe, not in a region that European leaders could characterise as distant or unfamiliar, and their occurrence challenged every assumption about what the end of the [Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) meant for European security.
 
-![The Yugoslav Wars of the 1990s Explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Yugoslav Wars of the 1990s Explained - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 Understanding the Yugoslav Wars requires understanding both the historical roots of the conflicts and the political decisions of the 1990s that determined their character. Yugoslavia had maintained a multi-ethnic state through the combination of Tito's personal authority, a federal structure that balanced the competing nationalisms, and the suppression of the specific memories and resentments that the Second World War had deposited in the region. When Tito died in 1980 and when the communist framework that had contained ethnic competition began dissolving, the specific politicians who chose to mobilise ethnic nationalism rather than navigate toward democratic pluralism made choices that determined what the dissolution would produce. To [trace the arc from Yugoslavia's construction through its violent dissolution to the Dayton settlement and the Kosovo intervention](https://reportmedic.org/tools/world-history-timeline.html) is to follow both a regional catastrophe and one of the twentieth century's most important lessons about the conditions under which political community can dissolve into violence.
 

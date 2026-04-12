@@ -6,19 +6,19 @@ date: 2016-04-19
 categories: ["Leisure"]
 tags: ["nuclear-arms-race", "cold-war", "nuclear-weapons", "world-history", "historical-analysis"]
 excerpt: "The nuclear arms race explained - weapons development, MAD doctrine, treaties, and the shadow over humanity."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-04-19
+lang: en
 ---
-
 On August 29, 1949, a Soviet test device nicknamed "Joe-1" by American intelligence analysts detonated at the Semipalatinsk test site in Kazakhstan, four years earlier than most American estimates had predicted. The test was detected by a specially equipped American reconnaissance aircraft flying over the Pacific, which collected air samples revealing the radioactive signature of a nuclear explosion. President Truman announced the Soviet test to the American public on September 23, and the psychological foundation of the Cold War's first decade, American nuclear monopoly and the security it seemed to provide, dissolved in a single announcement. The superpower that had obliterated Hiroshima and Nagasaki now shared the technology with the adversary it had hoped to deter, and the forty-year competition to build, improve, deploy, and eventually partially constrain the world's most destructive weapons had begun.
 
 <!--more-->
 
 The nuclear arms race between the United States and Soviet Union lasted from approximately 1949 to the early 1990s, encompassing the development of thermonuclear weapons a thousand times more powerful than the Hiroshima bomb, the construction of approximately 70,000 nuclear warheads at the combined peak, the development of intercontinental ballistic missiles capable of reaching any point on Earth in thirty minutes, the deployment of nuclear-armed submarines that could hide indefinitely in the ocean's depths, the creation of the doctrine of Mutual Assured Destruction that made deliberate nuclear war irrational but could not prevent it by accident, and the negotiation of a series of arms control treaties that reduced but could not eliminate the arsenals or the existential risk they represented. It was the most dangerous technological competition in human history, and the fact that it did not end in the civilisation-ending exchange that both sides had the capability to execute reflects a combination of rational deterrence, institutional safeguards, deliberate arms control diplomacy, and the specific good fortune that the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) most dangerous crises produced outcomes slightly better than the worst plausible alternatives.
 
-![The Nuclear Arms Race Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The Nuclear Arms Race Explained - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 Understanding the nuclear arms race requires understanding both its technical dimension, what weapons were built and how they worked, and its strategic dimension, the theories of deterrence and stability that attempted to manage the existential risk that the weapons represented. It also requires understanding the arms control process that eventually produced the partial constraints on the arsenals, and the human dimension of the race, the scientists, soldiers, civilians, and downwinders whose lives were shaped by the weapons that were built, tested, and deployed in their names. To [trace the arc from the Manhattan Project's achievement through the arms race's peak to the partial disarmament of the post-Cold War period](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most consequential technological and political stories of the twentieth century.
 

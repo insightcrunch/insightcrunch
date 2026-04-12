@@ -6,19 +6,19 @@ date: 2016-05-09
 categories: ["Leisure"]
 tags: ["apartheid", "south-africa", "nelson-mandela", "human-rights", "world-history"]
 excerpt: "Apartheid explained - South Africa's racial segregation, the resistance, Mandela, and the path to freedom."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-05-09
+lang: en
 ---
-
 In February 1985, South African State President P.W. Botha offered Nelson Mandela his freedom. Mandela had been imprisoned on Robben Island and later at Pollsmoor Prison for twenty-two years. Botha's offer came with a condition: Mandela had to renounce violence as a political instrument. Mandela refused. His daughter Zindzi read his response to a crowd at Soweto's Jabulani Stadium: "I cannot and will not give any undertaking at a time when I and you, the people, are not free. Your freedom and mine cannot be separated. I will return."
 
 <!--more-->
 
 The offer and the refusal encapsulate much of what apartheid was and what resistance to it required. The offer acknowledged that keeping Mandela imprisoned was becoming internationally untenable; the condition attached to freedom revealed the government's fundamental assumption that the choice between legitimacy and freedom was a choice for the prisoner rather than for the system that imprisoned him. Mandela's refusal established what reconciliation would eventually require: not the submission of the oppressed to the terms of the oppressor but the dismantling of the system that made submission necessary. He waited four more years. The system waited too, and then it ended.
 
-![Apartheid in South Africa Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Apartheid in South Africa Explained - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 Apartheid, from the Afrikaans word for "separateness," was the system of institutionalised racial segregation and white minority rule that governed South Africa from 1948 to 1994. It built on a colonial tradition of racial discrimination that preceded it by centuries but gave that tradition an unprecedented legal systematisation, codifying racial classification, residential separation, economic exclusion, and political disenfranchisement in thousands of laws and regulations that reached into every dimension of South African life. Understanding it requires understanding both the ideology that drove its construction and the [human rights](https://insightcrunch.com/2016/08/17/history-of-human-rights-explained.md) catastrophe that its operation produced, as well as the resistance that eventually forced its end and the reconciliation that followed. To [trace the arc from apartheid's 1948 imposition through the struggle to its negotiated end and beyond](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the twentieth century's most important stories of both political oppression and political redemption.
 

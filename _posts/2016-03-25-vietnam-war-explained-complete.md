@@ -6,19 +6,19 @@ date: 2016-03-25
 categories: ["Leisure"]
 tags: ["vietnam-war", "cold-war", "american-history", "military-history", "world-history"]
 excerpt: "The Vietnam War explained - escalation, major events, the draft, antiwar movement, and America's withdrawal."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-03-25
+lang: en
 ---
-
 On the morning of January 31, 1968, during the Vietnamese Lunar New Year holiday of Tet, approximately 85,000 North Vietnamese Army troops and Viet Cong guerrillas launched coordinated attacks on more than 100 South Vietnamese cities and towns, including a daring assault on the American embassy compound in Saigon. The embassy attack was repelled within hours; the broader Tet Offensive was militarily defeated within weeks. But the Tet Offensive was not primarily a military operation. It was a strategic communication addressed to the American public, and in that sense it was an overwhelming success. For three years, the Johnson administration had been telling the American people that the war was being won, that the "light at the end of the tunnel" was visible, that the enemy's capacity for sustained offensive operations was being steadily degraded. Tet demonstrated, in the most dramatic possible way, that every one of these assurances had been wrong. The credibility gap between official optimism and operational reality, already visible, became a chasm that destroyed Lyndon Johnson's presidency and set in motion the specific political dynamics that would end American military involvement in Vietnam seven years later.
 
 <!--more-->
 
 The Vietnam War was the most divisive conflict in American history since the Civil War, and the most consequential American military failure of the Cold War era. It killed approximately 58,000 Americans, approximately 250,000 South Vietnamese military personnel, approximately one million North Vietnamese and Viet Cong fighters, and approximately two million Vietnamese civilians. It produced the first American military defeat since the War of 1812, fundamentally altered the relationship between the American government and its citizens, transformed the American military's self-understanding, accelerated the women's movement and the civil rights movement, and produced a specific cultural legacy in film, literature, and music that remains among the richest body of anti-war artistic production in American history.
 
-![The Vietnam War Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The Vietnam War Explained - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Understanding the Vietnam War requires understanding both what went wrong and why it went wrong, and specifically why the most powerful military in the world lost a conflict against a comparatively small and technologically primitive opponent. The answers are specific and instructive: the United States applied massive military force to a conflict whose decisive terrain was political rather than military; the specific character of the Vietnamese enemy, a nationalist revolutionary movement with deep popular roots that military force could kill but could not delegitimize, made the specific American approach counterproductive; and the specific domestic political constraints of a democracy fighting a limited war without clearly communicating its actual objectives eventually eroded the public support that sustained military commitment required. These are not simply lessons about Vietnam. They are lessons about the specific limits of military power in political conflicts, and they remain directly relevant wherever military force is applied to problems whose solution requires political rather than purely military means. The [Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) framework that drove American involvement in Vietnam shaped every specific decision; the specific failure of that framework to account for Vietnamese political reality produced the specific disaster that followed. To [trace the Vietnam War's arc from French colonialism through American withdrawal](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most instructive military and political failures in modern history.
 

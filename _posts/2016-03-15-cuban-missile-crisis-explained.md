@@ -6,19 +6,19 @@ date: 2016-03-15
 categories: ["Leisure"]
 tags: ["cuban-missile-crisis", "cold-war", "kennedy", "khrushchev", "world-history"]
 excerpt: "The Cuban Missile Crisis explained - the discovery, the standoff, the resolution, and how close we came."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-03-15
+lang: en
 ---
-
 At seven minutes past nine on the morning of October 16, 1962, McGeorge Bundy, President Kennedy's National Security Advisor, walked into the President's bedroom and informed him that United States U-2 reconnaissance aircraft had discovered Soviet nuclear missile installations under construction in Cuba. The photographs, taken two days earlier and processed overnight, were unambiguous: medium-range ballistic missiles capable of reaching Washington, New York, and most of the eastern United States were being installed ninety miles from the Florida coast, in a country that had been a Soviet ally since Fidel Castro's 1959 revolution. Kennedy, who had been publicly and privately assured by Soviet Ambassador Anatoly Dobrynin and Soviet Foreign Minister Andrei Gromyko that no offensive weapons would be placed in Cuba, understood immediately that the United States faced a direct strategic challenge unlike anything in the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) previous fifteen years.
 
 <!--more-->
 
 What followed, the thirteen days from October 16 to October 28, 1962, was the closest the human species has come to nuclear self-annihilation in recorded history. In those thirteen days, Kennedy and Khrushchev navigated a crisis that neither had fully anticipated, through decisions made with incomplete information about the other side's capabilities and intentions, through near-misses that neither leader fully knew about at the time, and through the specific combination of rational calculation, political courage, and sheer good fortune that allowed both sides to step back from the specific precipice that the missiles' discovery had created. Understanding the Cuban Missile Crisis in its full complexity, including the dimensions that remained secret for decades after the crisis, requires engaging with both what happened and what came extraordinarily close to happening.
 
-![The Cuban Missile Crisis Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![The Cuban Missile Crisis Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The crisis matters not merely as a specific historical event but as the most complete available case study in the specific dynamics of nuclear crisis management: how rational decision-makers operating under extreme time pressure and incomplete information can nevertheless manage to avoid the outcome that neither side wants; how the specific institutional processes of crisis management, the ExComm deliberations, the back-channel communications, the operational management of the naval blockade, contributed to a resolution that the pure logic of confrontation might not have produced; and how close the specific near-misses at the operational level came to producing a nuclear exchange that the decisions at the political level were trying to prevent. The [causes of World War II](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) included a sequence of miscalculations by leaders who genuinely believed they could control the consequences of their decisions; the Cuban Missile Crisis was the Cold War moment where the most dangerous version of that specific miscalculation came closest to being fatal. To [trace the crisis's full arc from its origins through its resolution and its lessons](https://reportmedic.org/tools/world-history-timeline.html) is to follow the most important thirteen days in the history of nuclear weapons.
 

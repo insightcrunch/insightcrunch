@@ -6,19 +6,19 @@ date: 2016-03-05
 categories: ["Leisure"]
 tags: ["winston-churchill", "world-war-2", "british-history", "leadership", "world-history"]
 excerpt: "Churchill's WWII leadership - his speeches, strategy, defiance of Hitler, and the darkest hour Britain survived."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-03-05
+lang: en
 ---
-
 On the evening of June 4, 1940, Winston Churchill rose in the House of Commons to describe the evacuation of Dunkirk, which had just rescued approximately 338,000 Allied soldiers from the beaches of northern France. He described the successful evacuation honestly, acknowledging that wars are not won by evacuations. Then he delivered the speech's conclusion: "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender." The speech was not the last in a series of rhetorical gestures. It was the most precise expression available in the English language of a specific political and military decision: that Britain would continue the war against Nazi Germany regardless of the fall of France, regardless of the loss of the British Expeditionary Force's equipment, and regardless of the counsel of those within the Cabinet who believed that a negotiated peace was the realistic and responsible course.
 
 <!--more-->
 
 The decision that the speech expressed was genuinely uncertain at the moment it was made. Churchill had been Prime Minister for less than a month. France was collapsing. The United States was officially neutral and showed no sign of military commitment to Britain's defense. The Soviet Union was Germany's ally under the Nazi-Soviet Pact. Italy had just entered the war on Germany's side. Britain faced the most powerful military machine in Europe with a small professional army largely stripped of its equipment at Dunkirk, an air force that was capable but numerically inferior to the Luftwaffe, a navy that was powerful but could not prevent invasion if the Germans achieved air superiority, and a civilian population that had not been fully prepared for what total war would require of them. The people who advised a negotiated peace were not cowards; they were making a rational assessment of the military situation that Churchill's rhetoric was challenging not with different facts but with a different calculation about what was tolerable and what was not.
 
-![Winston Churchill's Leadership in WWII - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Winston Churchill's Leadership in WWII - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Churchill's specific contribution to the Second World War was this: at the precise moment when the military situation most justified capitulation, he made capitulation politically impossible. His five years of wartime leadership contained specific errors, strategic miscalculations, and decisions about colonial policy that should not be obscured by the legitimate admiration his finest hour deserves. But the specific achievement of refusing defeat when the rational case for defeat was at its strongest, and of maintaining that refusal through the rhetorical, political, and strategic acts that kept Britain fighting until the military situation changed, was irreplaceable. Without Churchill in May and June 1940, the specific political possibility existed that Britain would have accepted terms; with Churchill, it did not. The world that emerged from the war, including the specific Western democratic order that the [causes of World War II's](https://insightcrunch.com/2016/01/20/causes-of-world-war-2-explained/) resolution produced, depended in a non-trivial sense on the specific individual who was Prime Minister during that specific fortnight. To [trace the arc of Churchill's leadership from his appointment to the war's end](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most important individual contributions to the war's outcome.
 

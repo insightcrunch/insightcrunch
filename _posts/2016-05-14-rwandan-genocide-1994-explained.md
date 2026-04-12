@@ -6,19 +6,19 @@ date: 2016-05-14
 categories: ["Leisure"]
 tags: ["rwandan-genocide", "1994", "africa", "genocide", "world-history", "human-rights"]
 excerpt: "The Rwandan Genocide explained - the causes, the horror, the world's failure to act, and the aftermath."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-05-14
+lang: en
 ---
-
 In the spring of 1994, Roméo Dallaire, the Canadian general commanding the United Nations peacekeeping mission in Rwanda, sent a fax to UN headquarters in New York. An informant had provided him with information about weapons caches and plans for mass killing of Tutsi civilians. Dallaire wanted permission to raid the caches before they could be used. The reply he received from the UN Department of Peacekeeping Operations, signed by Kofi Annan, told him to take no action and to share the informant's information with the Rwandan government. The reply reached him on January 11, 1994. The genocide began on April 7. Approximately 800,000 people were killed in 100 days.
 
 <!--more-->
 
 The Rwandan Genocide of 1994 was the fastest mass killing in recorded history. Between April 7 and mid-July 1994, Hutu extremists and ordinary Rwandan civilians systematically killed approximately 800,000 Tutsi and moderate Hutu, at a rate that exceeded even the industrial killing of the Nazi Holocaust in its per-day pace. The killing was done primarily with machetes, clubs, and farm implements rather than industrial technology, which means it was done person by person, neighbour by neighbour, across a country the size of Wales. It happened while the world watched and calculated, while the United Nations withdrew troops rather than reinforcing them, while the Clinton administration instructed its spokespeople not to use the word "genocide" because using it might create a legal obligation to act.
 
-![The Rwandan Genocide Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
+![The Rwandan Genocide Explained - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 Understanding the Rwandan Genocide requires understanding both its deep historical roots in colonial manipulation of Rwandan identity and its proximate causes in the political decisions and radio broadcasts of spring 1994. It requires understanding both the systematic organisation of the killing and the individual human decisions, to kill and to protect, to flee and to stay, that constituted the genocide in its human reality. And it requires understanding the international failure that allowed it to proceed, because that failure was not ignorance but choice, and the choice was made by people in positions of power who knew what was happening and decided that the political costs of intervention exceeded the moral obligation to prevent mass murder. To [trace the arc from colonialism's construction of racial categories through the genocide itself to Rwanda's extraordinary reconstruction](https://reportmedic.org/tools/world-history-timeline.html) is to engage with one of the most important moral and political failures of the twentieth century's final decade.
 

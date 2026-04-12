@@ -6,19 +6,19 @@ date: 2016-03-20
 categories: ["Leisure"]
 tags: ["korean-war", "cold-war", "korea", "military-history", "world-history"]
 excerpt: "The Korean War explained - invasion, UN response, Chinese intervention, stalemate, and the divided peninsula."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-03-20
+lang: en
 ---
-
 At four o'clock in the morning on June 25, 1950, North Korean forces crossed the 38th parallel in a massive coordinated assault. Seven infantry divisions and armored units equipped with Soviet T-34 tanks advanced simultaneously along multiple axes, overwhelming the Republic of Korea's lightly armed frontier forces within hours. The attack had been planned for months, had Soviet approval, and was executed with a professional competence that the South Korean forces and the small American advisory mission had not anticipated. Within three days, Seoul had fallen. Within two months, the North Korean People's Army had pushed United Nations forces into a small perimeter around the southern port city of Pusan, and the survival of the Republic of Korea appeared to depend entirely on whether American forces could hold that perimeter against a well-equipped enemy fighting on interior lines.
 
 <!--more-->
 
 The Korean War lasted three years and claimed approximately four million lives, of whom approximately three million were Korean civilians. It produced the most rapid territorial reversals in the history of modern mechanized warfare: within a year, the front lines had swung from Pusan to the Chinese border and back to approximately the 38th parallel where the war had begun, through a sequence of offensives and counteroffensives that transformed the strategic situation multiple times. It introduced Chinese forces into direct combat with American forces for the first and only time in history. It ended without a peace treaty, in an armistice that created a demilitarized zone along the 38th parallel that remains the most heavily fortified border on earth more than seven decades later. And it established the specific parameters of limited war in the nuclear age that would define every subsequent Cold War military engagement, most directly the Vietnam War that would follow it fifteen years later.
 
-![The Korean War Explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![The Korean War Explained - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 The Korean War is called the "Forgotten War" in American cultural memory, squeezed between the moral clarity of the Second World War and the political trauma of Vietnam, memorialized in a statue on the Washington Mall that captures the specific exhaustion and cold of men marching in a landscape of frozen mud. The forgetting is unjust to the approximately 37,000 Americans who died there, to the approximately 103,000 who were wounded, and above all to the Korean people for whom the war was not a forgotten Cold War episode but the catastrophic rupture that divided a nation and produced two radically different societies on the same peninsula. Understanding the Korean War requires understanding both its specific military history and the specific context of [Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) competition that produced it. To [trace the war's full arc from the 1950 invasion through the armistice and its ongoing consequences](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most important military conflicts of the twentieth century.
 

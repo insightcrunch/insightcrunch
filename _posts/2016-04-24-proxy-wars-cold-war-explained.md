@@ -6,19 +6,19 @@ date: 2016-04-24
 categories: ["Leisure"]
 tags: ["proxy-wars", "cold-war", "world-history", "military-history", "historical-analysis"]
 excerpt: "Cold War proxy wars explained - Korea, Vietnam, Angola, Afghanistan, and the cost borne by smaller nations."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-04-24
+lang: en
 ---
-
 In the summer of 1975, approximately 36,000 Cuban soldiers began arriving in Angola, transported by Soviet aircraft, to fight on behalf of the Marxist MPLA government that had just achieved independence from Portugal. On the other side of the same conflict, the CIA was supplying South African troops and the UNITA guerrilla movement with weapons, money, and intelligence. Two superpowers whose nuclear arsenals made direct military confrontation existentially dangerous were fighting through proxies on a continent neither directly controlled, in a country most Americans and Soviets could not confidently locate on a map, for stakes that were defined almost entirely by the logic of Cold War competition rather than by any genuine strategic interest in Angola itself. The Angolan civil war that followed consumed the next twenty-seven years, killed approximately 500,000 people, and ended not with a Cold War victory for either superpower but with a negotiated settlement in 2002, long after both superpowers had stopped caring.
 
 <!--more-->
 
 Angola was one of dozens of proxy conflicts through which the United States and Soviet Union fought their Cold War competition without directly engaging each other militarily. From Korea in 1950 to Nicaragua in the 1980s, from the Greek Civil War to the Angolan Civil War, from Guatemala to Afghanistan, the superpowers provided weapons, money, training, advisors, and in some cases troops to local forces whose victory or defeat was understood in terms of the global ideological competition rather than the local political realities that drove the conflicts. The result was a pattern of devastation concentrated in the countries that became Cold War battlefields: societies that had their own histories, their own political conflicts, and their own futures were turned into arenas for a competition conducted by outside powers whose interests bore little relationship to the interests of the people living through the consequences.
 
-![Proxy Wars of the Cold War Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Proxy Wars of the Cold War Explained - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Understanding Cold War proxy wars requires understanding both the logic that produced them and the human cost they imposed. The logic was cold: nuclear deterrence prevented direct superpower military confrontation, so competition for influence and advantage was pursued through proxy forces whose defeat or victory could shift the global balance without triggering the nuclear exchange that direct confrontation risked. The human cost was anything but cold: proxy wars killed millions of people, created refugee crises that reshaped entire regions, destroyed economic development that had taken generations to build, and created cycles of violence whose consequences extended decades beyond the Cold War that produced them. To [trace the arc of Cold War proxy conflict from its origins through its major theatres to its enduring consequences](https://reportmedic.org/tools/world-history-timeline.html) is to follow the story of how the competition between superpowers was paid for by the populations of smaller countries.
 

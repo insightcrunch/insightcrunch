@@ -6,19 +6,19 @@ date: 2016-03-30
 categories: ["Leisure"]
 tags: ["berlin-wall", "cold-war", "german-history", "1989", "world-history"]
 excerpt: "The Berlin Wall explained - why it was built, how people escaped, and the night it finally came down."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-03-30
+lang: en
 ---
-
 Shortly after midnight on August 13, 1961, East German workers and soldiers began laying barbed wire along the border between East and West Berlin, sealing off the crossing points that had allowed Berliners to move freely between the two halves of their divided city. By dawn, approximately 32 kilometers of wire had been strung, and the process of replacing this temporary barrier with a permanent concrete wall had begun. The workers moved quickly because they were sealing an escape route that had been hemorrhaging the most educated and productive members of East German society for years. In the single year before the wall's construction, approximately 200,000 people had fled west through Berlin, many of them doctors, engineers, and teachers whose departure the East German economy could not afford. Between 1945 and 1961, approximately 3.5 million East Germans had made the same journey.
 
 <!--more-->
 
 The Berlin Wall was not merely a physical structure. It was the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) most visible and most powerful symbol: a barrier built not to keep enemies out but to keep citizens in, whose existence was an implicit acknowledgment that the socialist state it protected could not hold its population through voluntary consent. For twenty-eight years, the wall stood as the most concrete possible expression of what the Iron Curtain meant in human terms. The approximately 140 people who died attempting to cross it died in the gap between what their government told them about the society it was building and what that society actually was. When the wall fell on November 9, 1989, the images of jubilant Berliners climbing its concrete panels and embracing strangers on both sides communicated in a single moment what no diplomatic announcement could have matched: that the era of Europe's forced division was ending. To [trace the arc of the Berlin Wall from the first barbed wire to the last hammer blow](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most important stories of the twentieth century.
 
-![The Berlin Wall: History and Fall Explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The Berlin Wall: History and Fall Explained - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 ## Why Berlin Was Different
 
