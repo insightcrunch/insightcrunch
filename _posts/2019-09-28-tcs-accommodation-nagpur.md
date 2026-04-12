@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "TCS Accommodation Nagpur - Complete Housing Guide for the MIHAN SEZ Campus"
+title: "TCS Accommodation Nagpur - Complete Housing Guide"
+page_title: "TCS Accommodation Nagpur - Complete Housing Guide for the MIHAN SEZ Campus"
 date: 2019-09-28
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Nagpur", "Maharashtra", "Fresher", "MIHAN SEZ", "IT Career", "Tiger Reserve"]
