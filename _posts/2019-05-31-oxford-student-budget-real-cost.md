@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Oxford Student Budget - How Much Does It Really Cost to Study at Oxford"
+title: "Oxford Student Budget: Real Cost of Studying"
 page_title: "Oxford Student Budget: The Real Cost of Studying at Oxford - Complete Cost Breakdown"
 date: 2019-05-31
 categories: ["Industry"]
