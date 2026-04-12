@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "How is South Point going to change with the CBSE board being introduced"
+title: "South Point School Adds CBSE Board: What Changes"
+post_title: "How is South Point going to change with the CBSE board being introduced"
 date: 2011-08-29
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
