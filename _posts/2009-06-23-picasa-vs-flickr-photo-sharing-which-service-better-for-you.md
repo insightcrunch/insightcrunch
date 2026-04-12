@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Picasa vs Flickr : Ultimate giants of photo sharing, which service is better for you?"
+title: "Picasa vs Flickr : which photo sharing service is for you?"
+page_title: "Picasa vs Flickr : Ultimate giants of photo sharing, which service is better for you?"
 date: 2009-06-23
 categories: ["Leisure"]
 tags: ["Google", "The Web", "Thoughts"]
