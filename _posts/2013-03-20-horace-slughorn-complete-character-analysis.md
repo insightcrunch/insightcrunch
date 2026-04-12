@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Horace Slughorn Character Analysis: Complicity, Guilt, and the Redemption of the Comfortable Man"
+title: "Horace Slughorn: Complicity, Guilt, and Redemption"
+page_title: "Horace Slughorn Character Analysis: Complicity, Guilt, and the Redemption of the Comfortable Man"
 date: 2013-03-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Horace Slughorn", "Half-Blood Prince", "Slug Club"]
