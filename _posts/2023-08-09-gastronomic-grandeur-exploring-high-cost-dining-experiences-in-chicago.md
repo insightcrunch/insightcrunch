@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gastronomic Grandeur: Exploring High-Cost Dining Experiences in Chicago"
+title: "Chicago's Most Expensive Fine Dining Restaurants"
+page_title: "Gastronomic Grandeur: Exploring High-Cost Dining Experiences in Chicago"
 date: 2023-08-09
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2022", "Surfing"]
