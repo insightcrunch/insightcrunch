@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考考前一周完全指南 - 轻触知识，深呼吸迎考"
-page_title: "高考考前一周完全指南 - 复习重点取舍、睡眠调整、考场踩点、备考清单、家庭压力管理与心理可视化准备"
+page_title: "高考考前一周完全指南 - 复习重点取舍、睡眠调整、考场踩点、备考清单、家庭压力管理与心理可视化准备 Gaokao"
 date: 2022-12-28
 categories: ["Industry"]
 tags: ["高考", "考前一周", "减压", "考场踩点", "Gaokao Final Week", "Pre-Exam"]
