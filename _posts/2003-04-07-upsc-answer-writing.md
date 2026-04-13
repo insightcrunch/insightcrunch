@@ -5,11 +5,11 @@ page_title: "UPSC Answer Writing Practice: How to Build the Skill from Scratch"
 date: 2003-04-07
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Answer Writing", "IAS Mains Writing", "UPSC Writing Practice", "Answer Writing"]
-excerpt: "UPSC answer writing guide: the anatomy of high-scoring answers, the 7-minute framework, progressive practice plan, self-evaluation checklist, and feedback strategies."
+excerpt: "Master UPSC Mains answer writing from scratch with a structured framework and progressive practice plan."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2003-04-07
+last_updated: 2026-04-13
 lang: en
 ---
 Answer writing is the single most important skill in the entire UPSC Civil Services Examination, the skill that most directly determines whether a knowledgeable aspirant converts their knowledge into a competitive Mains score that produces selection or whether their knowledge remains locked inside their head, unable to emerge in the structured, evidence-rich, dimensionally complete written format that UPSC evaluators reward. Simultaneously, answer writing is the single most neglected skill in the preparation routines of the vast majority of aspirants, receiving far less daily practice time, far less strategic attention, and far less deliberate improvement effort than the knowledge acquisition activities (reading textbooks, watching lectures, making notes, covering current affairs) that aspirants instinctively prioritise because knowledge acquisition feels productive and measurable (you can track pages read, chapters completed, and topics covered) while answer writing practice feels uncomfortable and exposing (it reveals the gap between what you think you know and what you can actually articulate under time pressure, which is a psychologically confronting experience that many aspirants avoid).

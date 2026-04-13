@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims Geography and Environment preparation strategy: NCERT and
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2003-03-15
+last_updated: 2026-04-13
 lang: en
 ---
 Indian and World Geography combined with the Environment and Ecology subdomain together constitute one of the largest and most consistently rewarding content areas in the entire UPSC Prelims GS Paper 1, contributing an average of approximately 22 to 28 questions per year (44 to 56 marks out of 200, representing approximately 22 to 28 percent of the entire paper) across the thirteen-year analysis window from 2013 through 2025. This combined contribution makes Geography and Environment together the single largest content cluster in the Prelims paper, exceeding even Economy (which contributes approximately 18 questions per year) and Polity (which contributes approximately 13 questions per year), and approximately equalling the combined contribution of History and Current Affairs sections. The sheer scale of Geography and Environment's question contribution means that any aspirant who hopes to qualify Prelims must develop a systematic, comprehensive preparation approach for these two interconnected subject areas, because the marks at stake are too substantial to address through superficial or inconsistent preparation.
