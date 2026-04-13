@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考在线学习资源完全指南 - 从海量资源中找到真正有效的那些"
-page_title: "高考在线学习资源完全指南 - 视频课程、学习APP、题库平台、免费资源推荐与高效使用策略"
+page_title: "高考在线学习资源完全指南 - 视频课程、学习APP、题库平台、免费资源推荐与高效使用策略 Gaokao"
 date: 2023-03-18
 categories: ["Industry"]
 tags: ["高考", "高考网课", "学习APP", "在线资源", "Gaokao Online", "Resources"]
