@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Orphans and Parenting in Harry Potter: Riddle, Harry, and Neville - What Fills the Absence"
+title: "Orphans in Harry Potter: Riddle, Harry, and Neville"
+page_title: "Orphans and Parenting in Harry Potter: Riddle, Harry, and Neville - What Fills the Absence"
 date: 2013-05-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Orphans", "Parenting", "Tom Riddle", "Harry Potter", "Neville Longbottom", "Dursleys", "Literary Analysis"]
