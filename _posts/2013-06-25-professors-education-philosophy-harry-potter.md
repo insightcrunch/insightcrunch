@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Professors and Education Philosophy in Harry Potter: What the Best Teaching Actually Requires"
+title: "Teaching in Harry Potter: Professors and Pedagogy"
+page_title: "Professors and Education Philosophy in Harry Potter: What the Best Teaching Actually Requires"
 date: 2013-06-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Education", "Lupin", "Snape", "Umbridge", "McGonagall", "Dumbledore", "Hagrid", "Literary Analysis", "Teaching"]
