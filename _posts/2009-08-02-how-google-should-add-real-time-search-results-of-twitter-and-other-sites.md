@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "How Google should add real-time search results of Twitter and other sites"
+title: "How Google Should Integrate Twitter's Real-Time Feed"
+page_title: "How Google should add real-time search results of Twitter and other sites"
 date: 2009-08-02
 categories: ["Leisure"]
 tags: ["Thoughts"]
