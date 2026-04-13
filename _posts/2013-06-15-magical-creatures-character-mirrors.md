@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Magical Creatures as Character Mirrors in Harry Potter: What the Animals See"
+title: "Magical Creatures in Harry Potter: Character Mirrors"
+page_title: "Magical Creatures as Character Mirrors in Harry Potter: What the Animals See"
 date: 2013-06-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Magical Creatures", "Buckbeak", "Fawkes", "Nagini", "Thestrals", "Centaurs", "Literary Analysis", "Symbolism"]
