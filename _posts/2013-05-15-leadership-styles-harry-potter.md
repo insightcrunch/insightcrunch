@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Leadership Styles in Harry Potter: From Dumbledore to Umbridge - A Complete Taxonomy"
+title: "Leadership in Harry Potter: Dumbledore to Umbridge"
+page_title: "Leadership Styles in Harry Potter: From Dumbledore to Umbridge - A Complete Taxonomy"
 date: 2013-05-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Leadership", "Dumbledore", "Voldemort", "Umbridge", "Harry Potter", "McGonagall", "Fudge", "Literary Analysis"]
