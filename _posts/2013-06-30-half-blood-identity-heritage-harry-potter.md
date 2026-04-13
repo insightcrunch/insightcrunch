@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Half-Blood Identity in Harry Potter: The Person Who Belongs to Two Worlds"
+title: "Half-Blood Identity in Harry Potter: Belonging to Two Worlds"
+page_title: "Half-Blood Identity in Harry Potter: The Person Who Belongs to Two Worlds"
 date: 2013-06-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Half-Blood", "Identity", "Heritage", "Snape", "Voldemort", "Harry Potter", "Mixed Identity", "Literary Analysis"]
