@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Courage and True Moral Bravery in Harry Potter: The Forms That Matter Most"
+title: "Courage and Moral Bravery in Harry Potter: Key Forms"
+page_title: "Courage and True Moral Bravery in Harry Potter: The Forms That Matter Most"
 date: 2013-07-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Courage", "Bravery", "Neville", "Snape", "Narcissa", "Harry Potter", "Moral Courage", "Literary Analysis"]
