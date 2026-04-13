@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考考场答题技巧完全指南 - 让每一分都不白白流失"
-page_title: "高考考场答题技巧完全指南 - 时间分配、答题顺序、跳题策略、答题卡填涂、部分得分与粗心失误防范"
+page_title: "高考考场答题技巧完全指南 - 时间分配、答题顺序、跳题策略、答题卡填涂、部分得分与粗心失误防范 Gaokao"
 date: 2023-02-22
 categories: ["Industry"]
 tags: ["高考", "答题技巧", "时间分配", "考场策略", "Gaokao Techniques", "Exam Hall"]
