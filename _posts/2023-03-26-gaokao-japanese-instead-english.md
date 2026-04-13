@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考用日语代替英语完全指南 - 小语种高考的战略价值与实操路径"
-page_title: "高考日语代替英语完全指南 - 分数优势分析、大学接受情况、专业限制、备考时间线与学习资源"
+page_title: "高考日语代替英语完全指南 - 分数优势分析、大学接受情况、专业限制、备考时间线与学习资源 Gaokao"
 date: 2023-03-26
 categories: ["Industry"]
 tags: ["高考", "高考日语", "小语种", "日语代替英语", "Gaokao Japanese", "Language Choice"]
