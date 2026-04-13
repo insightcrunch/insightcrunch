@@ -5,11 +5,11 @@ page_title: "Orphans and Parenting in Harry Potter: Riddle, Harry, and Neville -
 date: 2013-05-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Orphans", "Parenting", "Tom Riddle", "Harry Potter", "Neville Longbottom", "Dursleys", "Literary Analysis"]
-excerpt: "The three boys who could have fulfilled the prophecy - Harry, Neville, and Tom Riddle - are all defined by parental absence. What fills that absence determines everything. Harry gets love. Neville gets expectation. Tom gets nothing. The outcomes follow."
+excerpt: "Decode the three prophecy-eligible boys in Harry Potter: same loss, opposite outcomes based on what filled the gap."
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2013-05-05
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Three Orphans and the Shape of the Absence

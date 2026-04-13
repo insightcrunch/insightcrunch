@@ -4,11 +4,11 @@ title: "Death and Mortality in Harry Potter: Facing the End with Courage"
 date: 2013-05-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Death", "Mortality", "Deathly Hallows", "Voldemort", "Horcruxes", "Literary Analysis", "Philosophy"]
-excerpt: "Harry Potter is a seven-book meditation on death. Its central argument - accepting mortality is ultimate courage - draws on Vedanta, Stoic ethics, and Christian resurrection theology."
+excerpt: "Decode Harry Potter as a sustained meditation on mortality and the philosophical traditions Rowling draws from."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2013-05-10
+last_updated: 2026-04-13
 lang: en
 ---
 ## The Boy Who Died

@@ -5,11 +5,11 @@ page_title: "Loyalty and Betrayal in Harry Potter: From Pettigrew to Snape - The
 date: 2013-04-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Loyalty", "Betrayal", "Snape", "Pettigrew", "Ron Weasley", "Percy Weasley", "Literary Analysis"]
-excerpt: "Rowling constructs loyalty and betrayal as the series' central moral axis - more important than good versus evil, more revealing than brave versus cowardly. Every major plot turn hinges on someone choosing to stay or choosing to leave."
+excerpt: "Decode loyalty and betrayal in Harry Potter as the series' real moral compass, not bravery or cleverness."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-04-30
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Choice That Shapes Everything

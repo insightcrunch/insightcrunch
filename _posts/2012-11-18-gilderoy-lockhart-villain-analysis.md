@@ -8,7 +8,7 @@ excerpt: "Deep literary analysis of Gilderoy Lockhart in Harry Potter - vanity, 
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2026-04-02
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Man Who Stole Other People's Lives

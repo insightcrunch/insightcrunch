@@ -9,7 +9,7 @@ excerpt: "Dolores Umbridge in Harry Potter: the series' most hated villain, more
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2026-04-01
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Banality of Pink Evil

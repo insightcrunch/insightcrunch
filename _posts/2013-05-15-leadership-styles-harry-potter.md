@@ -5,11 +5,11 @@ page_title: "Leadership Styles in Harry Potter: From Dumbledore to Umbridge - A 
 date: 2013-05-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Leadership", "Dumbledore", "Voldemort", "Umbridge", "Harry Potter", "McGonagall", "Fudge", "Literary Analysis"]
-excerpt: "Harry Potter presents a comprehensive taxonomy of leadership. Its central argument: the best leaders lead reluctantly, for others, from within the group rather than above it."
+excerpt: "Decode every leadership style in Harry Potter, from servant leadership to authoritarian cruelty, with worked examples."
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-05-15
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Taxonomy of How Power Is Held

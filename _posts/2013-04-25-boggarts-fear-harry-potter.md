@@ -5,11 +5,11 @@ page_title: "Boggarts and Fear in Harry Potter: What Every Character's Deepest F
 date: 2013-04-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Boggarts", "Fear", "Psychology", "Prisoner of Azkaban", "Literary Analysis", "Character Analysis"]
-excerpt: "The Boggart lesson is the single most psychologically revealing scene in the Harry Potter series. The fears Rowling chooses for each character tell us more about them than any dialogue - and the fears she withholds tell us more still."
+excerpt: "Decode the Boggart lesson in Harry Potter as the most psychologically revealing scene Rowling ever wrote."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-04-25
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Mirror That Shows Your Worst

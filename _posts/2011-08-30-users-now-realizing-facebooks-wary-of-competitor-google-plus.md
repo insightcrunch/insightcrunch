@@ -9,7 +9,7 @@ excerpt: "Facebook has recently made some pretty decent tweaks into their existi
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 1
 author: "william-knight"
-last_updated: 2026-04-01
+last_updated: 2026-04-13
 lang: en
 ---
 Facebook has recently made some pretty decent tweaks into their existing interface. All of them aims at the popular features which had been giving an edge to their closest rival Google Plus. These changes come at a time when people are in two-minds which platform to use. Facebook is trying its level best to provide its users with best in-class experience.

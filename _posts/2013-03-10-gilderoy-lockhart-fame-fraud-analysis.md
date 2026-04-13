@@ -9,7 +9,7 @@ excerpt: "Gilderoy Lockhart in Harry Potter: the series' most spectacular fraud,
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2026-04-01
+last_updated: 2026-04-13
 lang: en
 ---
 ## Introduction: The Man Who Was Only His Own Legend
