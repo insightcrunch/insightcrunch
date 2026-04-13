@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Ministry of Magic as Political Satire: How Democracies Fail from Within"
+title: "Ministry of Magic as Political Satire: Democracy's Fall"
+page_title: "Ministry of Magic as Political Satire: How Democracies Fail from Within"
 date: 2013-07-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Ministry of Magic", "Political Satire", "Daily Prophet", "Umbridge", "Fudge", "Literary Analysis", "Politics"]
