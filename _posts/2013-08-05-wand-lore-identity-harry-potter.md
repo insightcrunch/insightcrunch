@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Wand Lore in Harry Potter: Object Symbolism, Identity, and the Relationship That Cannot Be Faked"
+title: "Wand Lore in Harry Potter: Symbolism and Identity"
+page_title: "Wand Lore in Harry Potter: Object Symbolism, Identity, and the Relationship That Cannot Be Faked"
 date: 2013-08-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Wand Lore", "Elder Wand", "Identity", "Twin Cores", "Neville", "Symbolism", "Literary Analysis"]
