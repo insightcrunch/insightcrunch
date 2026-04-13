@@ -5,11 +5,11 @@ page_title: "UPSC Exam Pattern 2026: Complete Prelims, Mains and Interview Struc
 date: 2003-07-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Exam Pattern", "IAS Exam Structure", "UPSC Prelims", "UPSC Mains"]
-excerpt: "Complete UPSC exam pattern guide: Prelims GS and CSAT, all 9 Mains papers, Interview format, marks distribution and negative marking explained."
+excerpt: "The complete UPSC 2026 exam pattern with paper-wise marks, formats, and negative marking rules."
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-07-15
+last_updated: 2026-04-13
 lang: en
 ---
 Most UPSC aspirants begin preparation by asking what to study. The smarter question, the one that experienced candidates and successful toppers ask first, is how the examination works. The exam pattern is not administrative background information to skim past before getting to the real preparation. The exam pattern is the strategy. Every decision you make in UPSC preparation, which subjects to prioritize, how many questions to attempt in Prelims, how to structure your Mains answers, how to pace yourself through a three-hour paper, which optional to choose, how to behave in the Interview, is determined by a thorough understanding of how the examination is structured, what each stage measures, and how the marks combine to produce the final merit list.

@@ -5,11 +5,11 @@ page_title: "UPSC Civil Services Complete Guide: Prelims, Mains and Interview"
 date: 2003-07-24
 categories: ["Industry"]
 tags: ["UPSC", "IAS Preparation", "UPSC CSE", "Civil Services", "UPSC Guide"]
-excerpt: "The only UPSC guide you need: exam structure, syllabus, timelines, strategy, and a 30-day action plan."
+excerpt: "Your one-stop UPSC Civil Services guide covering structure, syllabus, strategy, and a starter action plan."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 69
 author: "kavita-sharma"
-last_updated: 2003-07-24
+last_updated: 2026-04-13
 lang: en
 ---
 You have just decided to appear for the UPSC Civil Services Examination, or you are somewhere in the early weeks of wondering whether you should. You have opened seventeen browser tabs, each contradicting the last. One YouTube channel tells you to start with NCERTs and nothing else for six months. Another tells you to join a coaching institute immediately or you will never make it. A WhatsApp forward from your college senior says the exam is "all about current affairs." A friend who cleared it two years ago says the optional subject is everything. And somewhere in all of that noise, you are sitting with a single, pressing question: what is this exam, actually, and how do I prepare for it properly?

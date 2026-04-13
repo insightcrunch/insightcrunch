@@ -5,11 +5,11 @@ page_title: "UPSC Eligibility 2026: Age Limit, Attempts, Qualifications and Rese
 date: 2003-07-19
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Eligibility", "IAS Eligibility", "UPSC Age Limit", "UPSC Attempts"]
-excerpt: "Complete UPSC eligibility guide: age limits by category, attempt counts, degree requirements, reserved category rules and common mistakes."
+excerpt: "Check if you qualify for UPSC with category-wise age, attempt, and degree eligibility rules."
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2003-07-19
+last_updated: 2026-04-13
 lang: en
 ---
 Before a single NCERT is opened, before a study schedule is drafted, before coaching fees are paid, one question must be answered with absolute certainty: are you eligible to appear for the UPSC Civil Services Examination? This sounds like a formality, a simple yes-or-no checkbox, and for most aspirants it is. But for a significant minority, eligibility is genuinely complicated, and getting it wrong carries consequences that range from a wasted application fee to, in the worst cases, years of preparation devoted to an examination you cannot legally sit. Every UPSC cycle includes candidates who discover too late that their OBC certificate was issued by the wrong authority, that their attempt count was higher than they believed, or that their age calculation was off by a few months in the wrong direction. This guide exists to ensure you are not one of them.

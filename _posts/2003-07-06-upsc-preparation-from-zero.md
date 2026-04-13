@@ -5,11 +5,11 @@ page_title: "How to Start UPSC Preparation from Zero: Complete Beginner's Roadma
 date: 2003-07-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Preparation", "IAS Preparation", "UPSC Beginners", "Study Strategy"]
-excerpt: "Start UPSC preparation from zero with this 90-day roadmap covering NCERTs, books, schedules and strategy."
+excerpt: "A complete 90-day UPSC starter plan for absolute beginners, covering NCERTs, schedules, and strategy."
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-07-06
+last_updated: 2026-04-13
 lang: en
 ---
 You have decided to prepare for the UPSC Civil Services Examination. Perhaps you read the notification online, or a friend mentioned it, or a family conversation planted the seed months ago and it has finally taken root. Regardless of how you arrived at this decision, you are now staring at a syllabus that seems to encompass the entirety of human knowledge, a preparation timeline that stretches across years, and an ocean of contradictory advice from YouTube channels, Telegram groups, coaching institute marketing pages, and well-meaning relatives who once knew someone who almost cleared UPSC. The feeling you have right now, that mixture of ambition and overwhelm, of excitement and paralysis, is not unique to you. Every single person who has ever cleared this examination stood exactly where you are standing right now, feeling exactly what you are feeling.

@@ -5,11 +5,11 @@ page_title: "UPSC Syllabus Decoded: Complete Prelims and Mains Syllabus with Str
 date: 2003-07-10
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Syllabus", "IAS Syllabus", "UPSC Prelims Syllabus", "UPSC Mains Syllabus"]
-excerpt: "Every line of the UPSC Prelims and Mains syllabus decoded with what it covers, PYQ trends, recommended books and preparation time."
+excerpt: "Decode the full UPSC syllabus topic by topic with PYQ links, recommended sources, and time estimates."
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-07-10
+last_updated: 2026-04-13
 lang: en
 ---
 There is one document that every UPSC aspirant knows exists but very few read carefully enough. It is not Laxmikanth. It is not a coaching institute's module. It is not even a previous year question paper. It is the official UPSC CSE syllabus, a document of fewer than five pages that simultaneously covers everything and explains nothing. Its brevity is not an accident. It is by design.

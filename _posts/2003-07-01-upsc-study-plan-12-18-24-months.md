@@ -5,11 +5,11 @@ page_title: "UPSC Study Plan: 12-Month, 18-Month and 24-Month Preparation Timeli
 date: 2003-07-01
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Study Plan", "IAS Preparation", "Study Strategy", "UPSC Timetable"]
-excerpt: "Three complete UPSC study plans with month-by-month books, hours and milestones for every timeline."
+excerpt: "Choose your UPSC timeline and follow a month-by-month plan with books, hours, and clear milestones."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-07-01
+last_updated: 2026-04-13
 lang: en
 ---
 Every UPSC aspirant eventually arrives at the same paralysing question: "I know what to study, but I have no idea when to study it." You may have the booklist, the syllabus breakdown, and the burning desire to clear the Civil Services Examination, but without a month-by-month study plan that sequences your reading, practice, and revision into a coherent timeline, that knowledge remains a disordered pile of good intentions. A UPSC study plan is not a luxury for the hyper-organised few. It is the structural backbone of every successful preparation journey, the difference between twelve months of purposeful forward movement and twelve months of circular, anxiety-driven reading that covers the same ground repeatedly without progress.
