@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Hogwarts Houses as Personality Theory: What the Sorting Hat Really Sorts"
+title: "Hogwarts Houses as Personality Theory: The Sorting Hat"
+page_title: "Hogwarts Houses as Personality Theory: What the Sorting Hat Really Sorts"
 date: 2013-06-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Hogwarts Houses", "Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff", "Sorting Hat", "Personality Theory", "Literary Analysis"]
