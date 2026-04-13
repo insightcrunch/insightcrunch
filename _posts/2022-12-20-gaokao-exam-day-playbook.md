@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考当天完全攻略 - 从起床到交卷的每一个小时"
-page_title: "高考当天完全攻略 - 早晨流程、早餐选择、到达时间、科目间安排、午餐策略、应急处理与心理重置完整指南"
+page_title: "高考当天完全攻略 - 早晨流程、早餐选择、到达时间、科目间安排、午餐策略、应急处理与心理重置完整指南 Gaokao"
 date: 2022-12-20
 categories: ["Industry"]
 tags: ["高考", "高考当天", "考场", "应急处理", "Gaokao Exam Day", "Playbook"]
