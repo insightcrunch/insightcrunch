@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考评分标准完全揭秘 - 阅卷老师如何给你的答案打分"
-page_title: "高考评分标准完全指南 - 阅卷流程、各科得分点、主观题评分规则、作文评分层级与双评机制全面解析"
+page_title: "高考评分标准完全指南 - 阅卷流程、各科得分点、主观题评分规则、作文评分层级与双评机制全面解析 Gaokao"
 date: 2023-02-14
 categories: ["Industry"]
 tags: ["高考", "评分标准", "阅卷", "得分点", "Gaokao Scoring", "Rubrics"]
