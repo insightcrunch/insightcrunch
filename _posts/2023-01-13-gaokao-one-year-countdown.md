@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考倒计时一年完全规划 - 从高三开始到高考的月度作战地图"
-page_title: "高考一年倒计时完全规划 - 月度里程碑、三轮复习策略、阶段转换节点与全年备考时间表"
+page_title: "高考一年倒计时完全规划 - 月度里程碑、三轮复习策略、阶段转换节点与全年备考时间表 Gaokao"
 date: 2023-01-13
 categories: ["Industry"]
 tags: ["高考", "高三规划", "一年计划", "一轮复习", "Gaokao Countdown", "Year Plan"]
