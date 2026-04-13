@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "South Point High School opts for CBSE board along with West Bengal Board"
+title: "South Point Kolkata Adopts CBSE Alongside WB Board"
+page_title: "South Point High School opts for CBSE board along with West Bengal Board"
 date: 2009-07-04
 categories: ["Leisure"]
 tags: ["Surfing"]
