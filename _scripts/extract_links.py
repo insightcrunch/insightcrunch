@@ -137,36 +137,57 @@ def check_internal(href, known_urls):
 
 
 def check_external(href):
-    try:
-        ctx = ssl.create_default_context()
-        ctx.check_hostname = False
-        ctx.verify_mode = ssl.CERT_NONE
-        req = urllib.request.Request(
-            href, method="HEAD",
-            headers={
-                "User-Agent": "Mozilla/5.0 (compatible; InsightCrunch-LinkChecker/1.0)",
-                "Accept": "*/*",
-            },
-        )
-        with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT, context=ctx) as resp:
-            code = resp.getcode()
-            if 200 <= code < 400:
-                return {"status": "ok", "detail": f"HTTP {code}"}
-            return {"status": "broken", "detail": f"HTTP {code}"}
-    except urllib.error.HTTPError as e:
-        if e.code in (403, 405, 406, 429):
-            return {"status": "unknown", "detail": f"HTTP {e.code} (may block bots)"}
-        if 400 <= e.code < 500:
-            return {"status": "broken", "detail": f"HTTP {e.code}"}
-        return {"status": "unknown", "detail": f"HTTP {e.code} (server error)"}
-    except urllib.error.URLError as e:
-        reason = str(getattr(e, "reason", e))
-        if "timeout" in reason.lower() or "timed out" in reason.lower():
-            return {"status": "unknown", "detail": "Timeout"}
-        return {"status": "broken", "detail": reason[:80]}
-    except Exception as e:
-        msg = str(e)[:80]
-        return {"status": "unknown" if "timeout" in msg.lower() else "broken", "detail": msg}
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+    headers = {
+        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+
+    last_error = None
+
+    for method in ("HEAD", "GET"):
+        try:
+            req = urllib.request.Request(href, method=method, headers=headers)
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT, context=ctx) as resp:
+                code = resp.getcode()
+                if 200 <= code < 400:
+                    return {"status": "ok", "detail": f"HTTP {code}"}
+                if method == "GET":
+                    return {"status": "broken", "detail": f"HTTP {code}"}
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 405, 406, 429):
+                return {"status": "unknown", "detail": f"HTTP {e.code} (may block bots)"}
+            if 400 <= e.code < 500:
+                if method == "HEAD":
+                    last_error = f"HTTP {e.code}"
+                    continue
+                return {"status": "broken", "detail": f"HTTP {e.code}"}
+            if method == "HEAD":
+                last_error = f"HTTP {e.code} (server error)"
+                continue
+            return {"status": "unknown", "detail": f"HTTP {e.code} (server error)"}
+        except urllib.error.URLError as e:
+            reason = str(getattr(e, "reason", e))
+            if "timeout" in reason.lower() or "timed out" in reason.lower():
+                if method == "HEAD":
+                    last_error = "Timeout"
+                    continue
+                return {"status": "unknown", "detail": "Timeout"}
+            if method == "HEAD":
+                last_error = reason[:80]
+                continue
+            return {"status": "broken", "detail": reason[:80]}
+        except Exception as e:
+            msg = str(e)[:80]
+            if method == "HEAD":
+                last_error = msg
+                continue
+            return {"status": "unknown" if "timeout" in msg.lower() else "broken", "detail": msg}
+
+    return {"status": "broken", "detail": last_error or "Both HEAD and GET failed"}
 
 
 def load_cache():
