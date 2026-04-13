@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The Marauders in Harry Potter: Friendship, Betrayal, and What School Bonds Really Cost"
+title: "The Marauders in Harry Potter: Friendship and Betrayal"
+page_title: "The Marauders in Harry Potter: Friendship, Betrayal, and What School Bonds Really Cost"
 date: 2013-05-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Marauders", "James Potter", "Sirius Black", "Remus Lupin", "Peter Pettigrew", "Friendship", "Literary Analysis"]
