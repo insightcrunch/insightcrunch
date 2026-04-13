@@ -8,7 +8,7 @@ tags: ["Surfing"]
 excerpt: "South Point High School Kolkata adds CBSE board alongside West Bengal Board. What this means for students and why the school made this decision."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 2
-author: "chloe-martin"
+author: "nandini-sen"
 last_updated: 2026-04-01
 lang: en
 ---
