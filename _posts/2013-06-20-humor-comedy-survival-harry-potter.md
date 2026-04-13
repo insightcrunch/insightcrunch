@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Humor and Comedy as Survival in Harry Potter: The Moral Diagnostic of Laughter"
+title: "Humor in Harry Potter: Comedy as Moral Survival"
+page_title: "Humor and Comedy as Survival in Harry Potter: The Moral Diagnostic of Laughter"
 date: 2013-06-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Humor", "Comedy", "Fred and George", "Dumbledore", "Ron Weasley", "Voldemort", "Literary Analysis"]
