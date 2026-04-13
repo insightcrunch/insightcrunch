@@ -9,7 +9,7 @@ excerpt: "Score plateaus have four distinct causes, and each requires a complete
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 59
 author: "jessica-kim"
-last_updated: 1996-10-09
+last_updated: 2026-04-13
 lang: en
 ---
 A score plateau is one of the most frustrating experiences in SAT preparation. You have been studying consistently, taking practice tests regularly, reviewing your errors, and working hard - and your score simply will not move. The same number appears on practice test after practice test, sometimes with small variations in either direction, but the upward trend that should be visible from sustained preparation effort is absent.

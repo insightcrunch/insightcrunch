@@ -9,7 +9,7 @@ excerpt: "The complete 500-word SAT vocabulary resource organized into three tie
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 62
 author: "hannah-moore"
-last_updated: 1996-12-02
+last_updated: 2026-04-13
 lang: en
 ---
 The Digital SAT tests vocabulary differently than its predecessors: not rare words in their primary definitions, but common words in their secondary and figurative meanings. This shift means that the right vocabulary preparation is different from traditional SAT word lists. This article provides both the words and the methodology for learning them effectively.

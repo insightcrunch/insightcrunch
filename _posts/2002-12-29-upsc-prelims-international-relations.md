@@ -9,7 +9,7 @@ excerpt: "Master UPSC Prelims international relations with UN bodies, multilater
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-12-29
+last_updated: 2026-04-13
 lang: en
 ---
 You can name the five permanent members of the UN Security Council, you know that India is a founding member of the Non-Aligned Movement, and you have a rough sense of what the World Bank and the IMF do. Yet when a UPSC Prelims question asks you which UN specialized agency is headquartered in a specific city, or which multilateral grouping was established by a specific treaty in a specific year, or which international convention governs a particular aspect of maritime law or biodiversity protection, your general awareness collapses into uncertainty. The gap between having a broad sense of international relations and having the precise institutional knowledge that UPSC tests is one of the widest and most costly gaps in Prelims preparation.

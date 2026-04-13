@@ -9,7 +9,7 @@ excerpt: "The retake decision is one of the most consequential choices in SAT pr
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1996-11-01
+last_updated: 2026-04-13
 lang: en
 ---
 Taking the SAT once and getting the score you need is the ideal outcome. The reality is that many students need more than one attempt, and many more consider retaking even when the data suggests they should not. The retake decision is consequential: a well-timed, well-prepared retake can add 50 to 80 points to your composite score and meaningfully improve your application competitiveness. A poorly reasoned retake - taken too soon, without addressing the root causes of the first score, or motivated by anxiety rather than evidence - wastes a test date, adds cost, and sometimes produces scores worse than the original attempt.

@@ -9,7 +9,7 @@ excerpt: "Most SAT score losses on test day are preventable. Here are the 15 exa
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 59
 author: "natalie-webb"
-last_updated: 1996-11-05
+last_updated: 2026-04-13
 lang: en
 ---
 A student can prepare for months, master the content, and build strong test-taking habits - and then lose 50 points or more on test day because of entirely preventable mistakes that have nothing to do with what they know. Test-day errors are a distinct category from preparation gaps. Preparation gaps require weeks of study to address. Test-day errors can be prevented entirely by knowing what they are and making specific decisions in the 24 to 48 hours before and the two-plus hours during the actual exam. The frustrating truth is that many students score lower than their preparation warrants not because they failed to learn enough but because they made avoidable decisions that undermined their execution on test day.

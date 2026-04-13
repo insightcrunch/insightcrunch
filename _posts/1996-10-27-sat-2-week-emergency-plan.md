@@ -9,7 +9,7 @@ excerpt: "Two weeks before the SAT is not the time for comprehensive review. It 
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
 author: "simon-hartley"
-last_updated: 1996-10-27
+last_updated: 2026-04-13
 lang: en
 ---
 Two weeks before the SAT, the rules of preparation change. The comprehensive content acquisition strategy that works well over three months is the wrong approach for the final fourteen days. There is not enough time left to learn new topics from scratch, and attempting to do so produces shallow familiarity rather than usable competence while burning preparation time that could produce reliable gains elsewhere. Two weeks is enough time to make meaningful score improvements - but only if those improvements are concentrated in the right areas using the right approach.

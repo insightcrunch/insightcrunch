@@ -9,7 +9,7 @@ excerpt: "Master UPSC Prelims environment with biodiversity, ecology, pollution,
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2002-12-24
+last_updated: 2026-04-13
 lang: en
 ---
 You have read about the greenhouse effect, you know that tigers are endangered, and you have a vague sense that the Paris Agreement has something to do with climate change. Yet when a UPSC Prelims question asks you which specific ecosystem service is classified as a "regulating service" under the Millennium Ecosystem Assessment framework, or which particular species found in a specific Indian biosphere reserve is listed under Appendix I of CITES, or which international convention established the concept of "common but differentiated responsibilities," your general environmental awareness proves insufficient. Environment and ecology has emerged as the single fastest-growing question category in UPSC Prelims over the past decade, with the number of environment-related questions increasing from an average of 5 to 6 per paper in 2013 to 8 to 12 per paper in recent years. This growth reflects UPSC's recognition that environmental governance is one of the most important competencies for future civil servants, and the Commission has responded by testing environmental knowledge with a depth and specificity that catches many aspirants unprepared.

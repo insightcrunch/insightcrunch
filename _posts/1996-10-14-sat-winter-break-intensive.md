@@ -9,7 +9,7 @@ excerpt: "Winter break is a two to three-week window of uninterrupted preparatio
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 59
 author: "simon-hartley"
-last_updated: 1996-10-14
+last_updated: 2026-04-13
 lang: en
 ---
 Winter break is a significantly underused SAT preparation window. Most students experience it as a period of social activity, rest, and family time - which it genuinely should be, but not at the complete exclusion of preparation. The structural reality of winter break is that it provides two to three weeks of reduced school-related cognitive demands arriving at precisely the right moment in the academic calendar for students who plan to take the SAT in March. A student who uses the winter break window deliberately and systematically arrives at January with meaningful progress on their preparation, a clear roadmap for the school-year study schedule that follows, and approximately ten to twelve weeks of runway before the March test date.

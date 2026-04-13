@@ -9,7 +9,7 @@ excerpt: "Summer is the single best preparation window in the academic year. No 
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1996-10-18
+last_updated: 2026-04-13
 lang: en
 ---
 Summer break is the single best SAT preparation window in the academic year. The reason is structural, not motivational: summer provides ten to twelve uninterrupted weeks of preparation time without the competing demands of schoolwork, AP exam deadlines, extracurricular commitments, and the cognitive overhead of a full school day. Every other preparation window - the weeks before a November test, the winter break intensive, the spring semester push - is squeezed around other obligations. Summer has none of those constraints. It is the only window that naturally matches the length and intensity of preparation that produces the most significant score improvements.
