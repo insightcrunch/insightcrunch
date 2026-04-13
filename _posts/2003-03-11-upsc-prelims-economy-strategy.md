@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims Indian Economy preparation strategy: NCERT and Ramesh Sin
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2003-03-11
+last_updated: 2026-04-13
 lang: en
 ---
 Indian Economy is the single largest subject in the entire UPSC Prelims GS Paper 1 measured by question contribution, producing an average of approximately 18 questions per year (36 marks out of 200, representing approximately 18 percent of the entire paper) across the thirteen-year analysis window from 2013 through 2025. The annual Economy question count has stayed within the 16 to 22 band in every single year of the analysis period, with the largest contributions appearing in years when major economic policy developments dominated the news cycle (such as the post-demonetisation papers, the post-GST papers, and the COVID-19 pandemic response papers) and the smallest contributions appearing in years when other policy themes received comparatively more attention. This consistent high contribution makes Economy the highest-volume single subject in the Prelims paper, exceeding the question contribution of every other subject including Polity, History, Geography, and Environment when each is measured individually, and matching only when Geography and Environment are combined into a single content cluster as discussed in the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/).

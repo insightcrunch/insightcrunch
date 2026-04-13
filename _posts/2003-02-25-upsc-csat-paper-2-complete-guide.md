@@ -9,7 +9,7 @@ excerpt: "UPSC CSAT Paper 2 complete preparation guide: 33 percent qualifying th
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2003-02-25
+last_updated: 2026-04-13
 lang: en
 ---
 The Civil Services Aptitude Test (CSAT) Paper 2 is the qualifying paper of UPSC Prelims that has fundamentally transformed the Prelims qualification calculation since the difficulty escalation that began with the 2022 examination. The paper consists of 80 multiple-choice questions worth 200 marks total (each question carries 2.5 marks, with negative marking of 1/3 mark for each incorrect answer), and the qualifying threshold is fixed at 33 percent which translates to 66 marks out of 200, requiring approximately 27 to 33 correctly answered questions depending on the negative marking impact from incorrect attempts. While the qualifying threshold has remained unchanged at 33 percent since CSAT was introduced in 2011, the difficulty level of the paper has increased dramatically over the past several years, with the 2022 2023 and 2024 papers in particular producing record-low qualification rates that eliminated tens of thousands of aspirants who would have easily qualified under the difficulty level of earlier years.

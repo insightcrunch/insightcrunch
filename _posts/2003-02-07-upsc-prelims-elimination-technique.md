@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims elimination technique and intelligent guessing complete s
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2003-02-07
+last_updated: 2026-04-13
 lang: en
 ---
 The elimination technique and intelligent guessing strategy is one of the most consequential examination skills for UPSC Prelims because it converts partial knowledge into reliable scoring marks that aspirants would otherwise leave unattempted. The UPSC Prelims GS Paper 1 contains 100 multiple-choice questions worth 200 marks total, with each correct answer earning 2 marks and each wrong answer producing a negative penalty of 0.66 marks (one-third of the marks for a correct answer). This negative marking structure makes blind guessing mathematically unprofitable but makes elimination-based educated guessing dramatically more profitable than leaving questions unattempted, creating a strategic gap between aspirants who develop systematic elimination skills and those who do not. The aspirants who master elimination techniques typically gain 10 to 25 marks beyond their direct knowledge contribution, which often represents the difference between qualifying and missing the Prelims cutoff. The strategic gap between systematic and unsystematic elimination is one of the most consistent differentiators in Prelims outcomes and persists across the years of examination data despite widespread awareness that elimination matters.

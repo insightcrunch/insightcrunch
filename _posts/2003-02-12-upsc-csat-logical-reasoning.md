@@ -9,7 +9,7 @@ excerpt: "UPSC CSAT logical reasoning and analytical ability complete strategy: 
 image: "/assets/images/blog/blog-49.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-02-12
+last_updated: 2026-04-13
 lang: en
 ---
 Logical Reasoning and Analytical Ability is the third major component of the UPSC CSAT Paper 2, contributing approximately 10 to 20 questions per paper which represents 12 to 25 percent of the 80 total questions and approximately 25 to 50 marks out of the 200 total CSAT marks. The section tests pattern recognition systematic logical thinking and the application of standard reasoning techniques to varied problem types including syllogisms seating arrangements blood relations direction sense coding-decoding series and patterns analytical puzzles and various other reasoning question categories. Historically logical reasoning was one of the most accessible CSAT sections and provided reliable scoring for aspirants who could solve basic reasoning puzzles, but the contemporary papers since 2022 have substantially reduced the logical reasoning content and increased the difficulty of the remaining reasoning questions, requiring aspirants to develop systematic technique application rather than relying on intuitive pattern recognition alone.

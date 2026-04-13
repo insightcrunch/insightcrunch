@@ -9,7 +9,7 @@ excerpt: "UPSC CSAT quantitative aptitude and data interpretation complete strat
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-02-16
+last_updated: 2026-04-13
 lang: en
 ---
 Quantitative Aptitude and Data Interpretation form the second largest section in the UPSC CSAT Paper 2, contributing approximately 25 to 35 questions per paper which represents 30 to 44 percent of the total 80 questions. The official UPSC syllabus describes the section as covering basic numeracy (numbers and their relations orders of magnitude at the Class 10 level) and data interpretation (charts graphs tables data sufficiency at the Class 10 level), but the actual question difficulty in contemporary papers since 2022 has often been substantially above the typical Class 10 examination level due to the analytical complexity multi-step solution requirements and time pressure that contemporary CSAT questions exhibit. The 2025 paper specifically featured quantitative aptitude content that experienced commentators described as much above the average level with limited low-hanging-fruit questions and vague language in some questions requiring careful interpretation. The dramatic difficulty escalation has transformed quantitative aptitude from a manageable component that aspirants could handle with basic Class 10 mathematics into a serious preparation challenge that requires systematic dedicated effort.

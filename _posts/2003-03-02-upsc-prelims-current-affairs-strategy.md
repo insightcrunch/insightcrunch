@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims current affairs preparation strategy: three-layer methodo
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2003-03-02
+last_updated: 2026-04-13
 lang: en
 ---
 Current Affairs is the most foundational preparation activity for the entire UPSC Prelims GS Paper 1, contributing approximately 25 to 35 questions per year (50 to 70 marks out of 200, representing approximately 25 to 35 percent of the entire paper) when both direct current affairs questions and current-affairs-influenced questions across other subjects are counted together across the thirteen-year analysis window from 2013 through 2025. The annual current affairs influence has grown substantially over the past decade, with questions from 2018 onwards being significantly more current-affairs-driven than questions from 2013 to 2015, reflecting UPSC's deliberate shift toward testing contemporary awareness alongside foundational knowledge. This shift has fundamental implications for preparation strategy: aspirants who focus exclusively on static reference reading without systematic current affairs tracking now find that even their best-prepared subjects yield questions on contemporary developments they have not encountered, while aspirants who integrate current affairs tracking throughout their preparation period capture both the static content questions and the contemporary-context questions that the integrated approach naturally addresses.

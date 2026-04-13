@@ -9,7 +9,7 @@ excerpt: "Master modern Indian history for UPSC Prelims with freedom struggle, r
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2003-01-11
+last_updated: 2026-04-13
 lang: en
 ---
 You can narrate the story of India's freedom struggle from the Revolt of 1857 to Independence in 1947 with reasonable confidence, yet when you face a UPSC Prelims paper, the modern history questions make you hesitate. The question is not "When did the Quit India Movement begin?" but something that asks you to evaluate which specific tribal movement was associated with the Tana Bhagat sect, or which constitutional provision was introduced by the Government of India Act 1919 but not by the Act of 1909, or which socio-religious reformer specifically advocated widow remarriage through the Widow Remarriage Act of 1856. UPSC does not test modern Indian history as a chronological narrative of the freedom struggle; it tests your precision in distinguishing between similar movements, your understanding of the constitutional and administrative scaffolding that the British erected and that independent India inherited, and your awareness of the social reform dimensions that transformed Indian society as profoundly as political independence did.

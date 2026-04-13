@@ -9,7 +9,7 @@ excerpt: "UPSC CSAT reading comprehension complete strategy: passage analysis ap
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-02-21
+last_updated: 2026-04-13
 lang: en
 ---
 Reading Comprehension is the largest single section in the UPSC CSAT Paper 2, contributing approximately 25 to 30 questions per paper which represents 30 to 38 percent of the total 80 questions and approximately 62 to 75 marks out of the 200 total CSAT marks. For non-technical aspirants who often struggle with quantitative aptitude, reading comprehension is the single most important section to master because it offers the largest mark base accessible without mathematical computation, and competent reading comprehension performance alone can produce sufficient marks (50 to 60 from this section) to come close to clearing the 66 mark qualifying threshold even with weak performance in the other sections. The section is also where the difficulty escalation since 2022 has been most pronounced, with contemporary papers featuring longer denser passages with subtler answer distinctions than the historical papers, making focused systematic reading comprehension preparation essential for contemporary qualification rather than the optional supplement that earlier guidance suggested.

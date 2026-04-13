@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims Science and Technology preparation strategy: current affa
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2003-03-06
+last_updated: 2026-04-13
 lang: en
 ---
 Science and Technology is the most current-affairs-dominated subject in the entire UPSC Prelims GS Paper 1, contributing an average of approximately 6 to 9 questions per year (12 to 18 marks out of 200, representing approximately 6 to 9 percent of the entire paper) across the thirteen-year analysis window from 2013 through 2025, with the overwhelming majority of these questions testing contemporary developments rather than static textbook knowledge. The annual Science and Technology question count has stayed within the 5 to 11 band in every single year of the analysis period, with the variation reflecting the relative prominence of major scientific and technological developments during the relevant news cycle (years with major ISRO missions like Chandrayaan-3 in 2023 producing more space technology questions, years with major biotechnology developments like the COVID-19 vaccines in 2021-2022 producing more health and biotechnology questions, years with major defence acquisitions producing more defence technology questions). This contemporary focus makes Science and Technology fundamentally different from other Prelims subjects in its preparation requirements: while Polity History Geography and Economy have substantial static content components that systematic textbook reading addresses, Science and Technology requires continuous current affairs tracking as the primary preparation activity rather than a supplement to static reading.

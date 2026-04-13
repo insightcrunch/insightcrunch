@@ -9,7 +9,7 @@ excerpt: "Master medieval Indian history for UPSC Prelims with Delhi Sultanate, 
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2003-01-16
+last_updated: 2026-04-13
 lang: en
 ---
 You have read about Alauddin Khalji's market reforms, memorized the sequence of Mughal emperors from Babur to Aurangzeb, and made flashcards for every Bhakti saint you could find, yet when you open a UPSC Prelims paper, the medieval history questions feel like they belong to a different syllabus entirely. The question is not "Who was the first Sultan of Delhi?" but rather something that asks you to evaluate the impact of Sultanate revenue systems on agrarian relations, or to identify which Sufi order practiced a particular form of spiritual discipline, or to match architectural features with the dynasties that introduced them. This gap between how coaching materials present medieval Indian history and how UPSC actually tests it is among the most persistent and costly blind spots in Prelims preparation.

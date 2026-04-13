@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims PYQ analysis 2013 to 2025 covering subject wise weightage
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 59
 author: "deepika-joshi"
-last_updated: 2003-01-29
+last_updated: 2026-04-13
 lang: en
 ---
 UPSC Prelims previous year question analysis is one of the most consequential preparation activities because it converts the abstract syllabus into the specific topics and question patterns that have actually appeared in recent papers, providing the targeted preparation focus that systematic preparation requires. The 13 years of Prelims papers from 2013 to 2025 contain approximately 1,300 questions across all subjects, providing a substantial dataset that reveals the recurring themes the relative weightage of each subject and the specific topics that UPSC has prioritised across multiple years. Aspirants who systematically analyse this dataset develop the strategic awareness that supports targeted preparation, while aspirants who treat the syllabus uniformly without PYQ guidance consistently waste preparation effort on topics that have low actual probability of appearing in the examination.

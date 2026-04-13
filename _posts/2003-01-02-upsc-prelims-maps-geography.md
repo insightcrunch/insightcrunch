@@ -9,7 +9,7 @@ excerpt: "Master UPSC Prelims geography with river systems, mountain passes, nat
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
 author: "anita-das"
-last_updated: 2003-01-02
+last_updated: 2026-04-13
 lang: en
 ---
 You have read the geography chapters in your NCERT textbooks, you know that the Ganga originates from the Gangotri glacier, and you can name a handful of national parks when put on the spot. Yet when a UPSC Prelims question asks you to identify which river passes through a specific gorge between two named mountain ranges, or which national park is located at the confluence of two particular rivers in a specific state, or which strait separates two specific island groups in the Indian Ocean, you find yourself guessing. The reason is that most aspirants study geography as a narrative subject, reading about landforms, climate patterns, and economic geography in prose, while UPSC tests geography as a spatial subject that rewards precise knowledge of locations, adjacencies, and physical features on a map. The aspirant who can visualize India's physical geography as a mental map, with rivers flowing in their correct directions, mountain passes sitting in their correct ranges, and national parks anchored in their correct states and ecosystems, holds a structural advantage that transforms geography from a source of uncertainty into a source of reliable marks.

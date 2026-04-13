@@ -9,7 +9,7 @@ excerpt: "UPSC Prelims mock test strategy complete guide covering the optimal mo
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 59
 author: "kavita-sharma"
-last_updated: 2003-01-25
+last_updated: 2026-04-13
 lang: en
 ---
 UPSC Prelims mock test strategy is one of the most consequential preparation activities because mock tests serve as the primary mechanism for converting subject knowledge into examination performance under realistic time pressure. The aspirants who develop systematic mock test discipline through deliberate practice consistently score 15 to 25 marks higher than aspirants with similar underlying knowledge but weaker mock test habits, with the differential often determining qualification because cutoffs typically fall in the 90 to 110 mark range and the mock test contribution can move borderline aspirants from below the threshold to comfortably above it. The mock test strategy is not just about taking many tests but about taking the right tests at the right times with the right analytical follow-up that converts each test into specific learning outcomes that improve subsequent performance.
