@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Pets, Familiars, and Animal Symbolism in Harry Potter: What We Are When No One Important Is Watching"
+title: "Pets and Familiars in Harry Potter: Animal Symbolism"
+page_title: "Pets, Familiars, and Animal Symbolism in Harry Potter: What We Are When No One Important Is Watching"
 date: 2013-07-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Pets", "Familiars", "Hedwig", "Scabbers", "Crookshanks", "Nagini", "Fawkes", "Animal Symbolism", "Literary Analysis"]
