@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考模拟考试完全策略 - 如何用好每一次模拟考"
-page_title: "高考模拟考试完全策略 - 频率规划、真实条件模拟、成绩分析、分数预测准确性与模拟考处理指南"
+page_title: "高考模拟考试完全策略 - 频率规划、真实条件模拟、成绩分析、分数预测准确性与模拟考处理指南 Gaokao"
 date: 2023-03-02
 categories: ["Industry"]
 tags: ["高考", "模拟考试", "联考", "成绩分析", "Gaokao Mock Exam", "Strategy"]
