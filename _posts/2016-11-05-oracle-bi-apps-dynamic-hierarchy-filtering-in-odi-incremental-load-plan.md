@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Oracle BI Apps dynamic hierarchy filtering in ODI incremental load plan"
+title: "Oracle BI Apps ODI: Dynamic Hierarchy Filtering"
+page_title: "Oracle BI Apps dynamic hierarchy filtering in ODI incremental load plan"
 date: 2016-11-05
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
