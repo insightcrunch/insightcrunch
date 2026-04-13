@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Food and Feasts in Harry Potter: Nourishment as Love, Communion, and the Politics of Who Eats"
+title: "Food and Feasts in Harry Potter: Nourishment and Love"
+page_title: "Food and Feasts in Harry Potter: Nourishment as Love, Communion, and the Politics of Who Eats"
 date: 2013-08-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Food", "Feasts", "Hogwarts", "Molly Weasley", "House-Elves", "Deathly Hallows", "Love", "Community", "Literary Analysis"]
