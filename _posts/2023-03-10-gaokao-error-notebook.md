@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考错题本完全指南 - 把每一道错题变成提分的阶梯"
-page_title: "高考错题本完全指南 - 如何建立、记录什么、复习频率、分类方法与高分学生的错题本技巧"
+page_title: "高考错题本完全指南 - 如何建立、记录什么、复习频率、分类方法与高分学生的错题本技巧 Gaokao"
 date: 2023-03-10
 categories: ["Industry"]
 tags: ["高考", "错题本", "学习方法", "复习工具", "Gaokao Error Notebook", "Study Method"]
