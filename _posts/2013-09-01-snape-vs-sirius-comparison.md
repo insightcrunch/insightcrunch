@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Snape vs Sirius Black: Two Men Who Saw James Potter When They Looked at Harry"
+title: "Snape vs Sirius Black: Two Views of James Potter"
+page_title: "Snape vs Sirius Black: Two Men Who Saw James Potter When They Looked at Harry"
 date: 2013-09-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Snape", "Sirius Black", "Displaced Love", "Character Analysis", "Literary Analysis"]
