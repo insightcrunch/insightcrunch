@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Class, Wealth, and Blood Status in Harry Potter: The Functioning Social System Behind the Allegory"
+title: "Class and Blood Status in Harry Potter: Social System"
+page_title: "Class, Wealth, and Blood Status in Harry Potter: The Functioning Social System Behind the Allegory"
 date: 2013-04-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Class", "Blood Status", "Weasley", "Malfoy", "Hermione", "Social System", "Literary Analysis"]
