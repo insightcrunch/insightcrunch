@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "How Google Labs will continue to be an integral part of Google products"
+title: "Google Labs: The Vision for Product Incubation"
+page_title: "How Google Labs will continue to be an integral part of Google products"
 date: 2009-08-26
 categories: ["Leisure"]
 tags: ["Google", "Thoughts"]
