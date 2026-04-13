@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考志愿填报十大误区完全解析 - 每一个都可能毁掉你的大学机会"
-page_title: "高考志愿填报十大误区全解析 - 退档原因、平行志愿误解、服从调剂风险与每个常见陷阱的规避方法"
+page_title: "高考志愿填报十大误区全解析 - 退档原因、平行志愿误解、服从调剂风险与每个常见陷阱的规避方法 Gaokao"
 date: 2023-02-06
 categories: ["Industry"]
 tags: ["高考", "志愿填报", "退档", "服从调剂", "Gaokao Preferences", "Mistakes"]
