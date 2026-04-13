@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Harry Potter vs Frodo Baggins: Reluctant Heroes and the Burden They Carry"
+title: "Harry Potter vs Frodo Baggins: Reluctant Heroes"
+page_title: "Harry Potter vs Frodo Baggins: Reluctant Heroes and the Burden They Carry"
 date: 2013-12-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Tolkien", "Fantasy Literature", "Character Analysis", "Literary Comparison", "Harry Potter", "Frodo Baggins", "Heroism", "Lord of the Rings", "Cross-Literary"]
