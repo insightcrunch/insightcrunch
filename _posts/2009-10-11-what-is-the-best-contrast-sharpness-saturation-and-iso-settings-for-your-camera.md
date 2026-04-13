@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "What is the best Contrast, Sharpness, Saturation and ISO settings for your camera?"
+title: "Best Camera Settings: Contrast, Sharpness, ISO"
+page_title: "What is the best Contrast, Sharpness, Saturation and ISO settings for your camera?"
 date: 2009-10-11
 categories: ["Leisure"]
 tags: ["Thoughts"]
