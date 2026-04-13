@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Prophecy, Free Will, and Destiny in Harry Potter: The Bait-and-Switch at the Series' Heart"
+title: "Prophecy and Free Will in Harry Potter: Destiny's Trap"
+page_title: "Prophecy, Free Will, and Destiny in Harry Potter: The Bait-and-Switch at the Series' Heart"
 date: 2013-07-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Prophecy", "Free Will", "Destiny", "Philosophy", "Neville", "Voldemort", "Dumbledore", "Literary Analysis"]
