@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Subhas Chakraborty dies, West Bengal Sports and Transport Minister, at 66"
+title: "Subhas Chakraborty: West Bengal Minister Dies at 66"
+page_title: "Subhas Chakraborty dies, West Bengal Sports and Transport Minister, at 66"
 date: 2009-08-03
 categories: ["Leisure"]
 tags: ["Surfing"]
