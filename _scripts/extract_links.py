@@ -33,7 +33,7 @@ OUTPUT = Path("admin/links-data.json")
 CACHE_FILE = Path("_data/links_check_cache.json")
 CACHE_EXPIRY_DAYS = 14
 MAX_CONCURRENT = 30
-REQUEST_TIMEOUT = 8
+REQUEST_TIMEOUT = 15
 MAX_CHECK_TIME = 300  # 5 min ceiling for external checks
 
 MD_LINK = re.compile(r'\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)')
@@ -185,7 +185,9 @@ def check_external(href):
             if method == "HEAD":
                 last_error = msg
                 continue
-            return {"status": "unknown" if "timeout" in msg.lower() else "broken", "detail": msg}
+            msg_lower = msg.lower()
+            is_timeout = "timeout" in msg_lower or "timed out" in msg_lower
+            return {"status": "unknown" if is_timeout else "broken", "detail": msg}
 
     return {"status": "broken", "detail": last_error or "Both HEAD and GET failed"}
 
