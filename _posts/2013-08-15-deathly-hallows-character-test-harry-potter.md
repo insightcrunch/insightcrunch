@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Deathly Hallows as Character Test: What Each Hallow Reveals About the Person Who Desires It"
+title: "Deathly Hallows as Character Test: What They Reveal"
+page_title: "Deathly Hallows as Character Test: What Each Hallow Reveals About the Person Who Desires It"
 date: 2013-08-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Deathly Hallows", "Elder Wand", "Resurrection Stone", "Invisibility Cloak", "Character Analysis", "Death", "Literary Analysis"]
