@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Memory, Truth, and the Pensieve in Harry Potter: What We Remember and What We Hide"
+title: "Pensieve in Harry Potter: Memory, Truth, and What We Hide"
+page_title: "Memory, Truth, and the Pensieve in Harry Potter: What We Remember and What We Hide"
 date: 2013-07-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Memory", "Truth", "Pensieve", "Snape", "Dumbledore", "Slughorn", "Literary Analysis", "Epistemology"]
