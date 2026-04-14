@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考体育生完全指南 - 体育测试、文化课与升学路径全攻略"
-page_title: "高考体育生完全指南 - 体育测试标准、文化课要求、顶尖体育院校、高水平运动队招生与职业发展路径"
+page_title: "高考体育生完全指南 - 体育测试标准、文化课要求、顶尖体育院校、高水平运动队招生与职业发展路径 Gaokao"
 date: 2023-04-19
 categories: ["Industry"]
 tags: ["高考", "体育生", "体育测试", "高水平运动队", "Gaokao Sports", "Athletic"]
