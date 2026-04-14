@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考与家庭经济规划完全指南 - 让每个家庭都能承担大学教育"
-page_title: "高考家庭经济完全指南 - 大学学费、国家奖学金、助学金、助学贷款与勤工助学全面解析"
+page_title: "高考家庭经济完全指南 - 大学学费、国家奖学金、助学金、助学贷款与勤工助学全面解析 Gaokao"
 date: 2023-06-30
 categories: ["Industry"]
 tags: ["高考", "大学学费", "助学金", "奖学金", "Gaokao Finance", "University Costs"]
