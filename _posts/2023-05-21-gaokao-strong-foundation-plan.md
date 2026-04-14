@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "强基计划完全攻略 - 从报名到录取的全程指南"
-page_title: "强基计划完全指南 - 36所高校、入围专业、申请流程、校测面试备考与战略决策全面解析"
+page_title: "强基计划完全指南 - 36所高校、入围专业、申请流程、校测面试备考与战略决策全面解析 Gaokao"
 date: 2023-05-21
 categories: ["Industry"]
 tags: ["高考", "强基计划", "基础学科", "面试准备", "Gaokao", "Strong Foundation Plan"]
