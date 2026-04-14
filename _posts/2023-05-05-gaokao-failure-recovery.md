@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考失利后的完整出路指南 - 每一条路都能走向精彩"
-page_title: "高考失利出路完全指南 - 复读决策框架、职业教育路径、出国留学选择、自考成人教育与真实逆袭故事"
+page_title: "高考失利出路完全指南 - 复读决策框架、职业教育路径、出国留学选择、自考成人教育与真实逆袭故事 Gaokao"
 date: 2023-05-05
 categories: ["Industry"]
 tags: ["高考", "高考失利", "复读", "出路", "Gaokao Failure", "Recovery"]
