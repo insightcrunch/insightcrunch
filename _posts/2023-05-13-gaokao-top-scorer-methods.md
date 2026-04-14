@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考状元学习方法完全解码 - 他们到底做了什么不一样的事"
-page_title: "高考状元学习方法全解析 - 作息规律、笔记体系、复习策略、时间管理与可落地的学习经验精华"
+page_title: "高考状元学习方法全解析 - 作息规律、笔记体系、复习策略、时间管理与可落地的学习经验精华 Gaokao"
 date: 2023-05-13
 categories: ["Industry"]
 tags: ["高考", "高考状元", "学习方法", "高分秘诀", "Gaokao Top Scorers", "Study Methods"]
