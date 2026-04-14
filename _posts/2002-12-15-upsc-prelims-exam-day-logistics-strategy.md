@@ -6,17 +6,17 @@ date: 2002-12-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Prelims Strategy", "Exam Day", "OMR Sheet", "IAS Preparation", "Study Strategy"]
 excerpt: "The complete UPSC Prelims exam day playbook: what to carry, OMR handling, first 15 minutes plan, and the post-exam protocol."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "anita-das"
 last_updated: 2002-12-15
+lang: en
 ---
-
 The UPSC Prelims exam day is the single most psychologically loaded morning of an aspirant's life. You have spent twelve, eighteen, sometimes thirty months reading Laxmikanth, marking maps, revising the eleventh standard NCERT for the fourth time, and grinding through twenty-five mock tests. And then, on a Sunday in May or June, every single one of those hours collapses into two sittings of two hours each, separated by a two-hour lunch break, inside an unfamiliar room, on an OMR sheet you have only practised on at home. The UPSC Prelims exam day is not a test of how much you know. It is a test of how reliably you can convert what you know into 100 darkened bubbles under pressure, in heat, in a room with thirty strangers, while a clock ticks louder than your own breathing.
 
 This guide exists because almost every aspirant underestimates exam day. They treat it as the inevitable result of preparation, assuming that if they have studied well, the day itself will take care of itself. It will not. Every year, candidates who scored 130+ in their last five mocks score 92 in the actual paper because they marked the wrong row on the OMR for fifteen questions. Every year, aspirants forget the original photo ID and lose two hours arguing with the invigilator. Every year, brilliant candidates spend the first thirty minutes of CSAT staring at a comprehension passage in panic because they did not eat enough at lunch and their blood sugar crashed. The UPSC Prelims exam day rewards process and punishes improvisation. This article gives you the process.
 
-![UPSC Prelims Exam Day Logistics and Strategy - Insight Crunch](/assets/images/blog/blog-05.webp)
+![UPSC Prelims Exam Day Logistics and Strategy - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 By the time you finish reading this article, you should have a printed checklist for the night before, a complete bag-packing list, a fifteen-minute opening protocol for the answer hall, an OMR-marking discipline, a two-pass attempt strategy for both papers, a lunch-break script, a post-exam decompression plan, and the emotional framing required to walk in calm and walk out clean. None of this is theory. Every recommendation here has been pressure-tested by aspirants who cleared the [UPSC Prelims complete guide and CSAT strategy](/2003/04/02/upsc-prelims-complete-guide/) syllabus and converted preparation into selection. If you are reading this within thirty days of your exam, treat this article as your operating manual. If you are reading it earlier, bookmark it and return to it the night before your final mock.
 

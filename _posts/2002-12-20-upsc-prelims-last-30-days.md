@@ -2,13 +2,15 @@
 layout: post
 title: "UPSC Prelims Last 30 Days Strategy"
 date: 2002-12-20
-author: "Insight Crunch Team"
+author: "deepika-joshi"
 categories: ["Industry"]
 image: /assets/images/blog-04.webp
 reading_time: 59
+lang: en
 ---
-
 The final thirty days before UPSC Prelims are not the time to learn anything new. They are the time to convert everything you already half-know into something you can recall under pressure in under forty seconds per question. Aspirants who understand this distinction tend to clear the cutoff even in years when the paper tilts unexpectedly hard, and aspirants who ignore it tend to walk out of the examination hall saying the paper was unfair when in reality their revision architecture simply collapsed on contact with the OMR sheet.
+
+![UPSC Prelims Last 30 Days Strategy - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 This guide lays out a concrete day by day plan for those last thirty days, built around four ideas that the toppers we have studied across the last two decades keep returning to in their interviews and written accounts. The first idea is that revision beats acquisition in a ratio of roughly four to one during this window. The second is that mock tests are not a measurement tool at this stage, they are a training tool, and the way you review a mock matters far more than the score you posted on it. The third is that current affairs must be consolidated into a single source of truth no later than day twenty of this plan, because flipping between three monthly compilations in the final week is the single most common reason candidates report feeling scattered on examination morning. The fourth is that CSAT, the paper almost everyone underestimates, deserves a protected slot in your daily schedule even if you consider yourself strong at it, because the qualifying cutoff has quietly become one of the most lethal filters in the entire examination cycle.
 
