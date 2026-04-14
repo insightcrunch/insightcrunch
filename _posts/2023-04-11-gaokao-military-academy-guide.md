@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考报考军校完全指南 - 从分数线到政审的全流程解析"
-page_title: "高考军校报考完全指南 - 录取分数线、政治审查、体检标准、面试流程与军旅职业前景全面解析"
+page_title: "高考军校报考完全指南 - 录取分数线、政治审查、体检标准、面试流程与军旅职业前景全面解析 Gaokao"
 date: 2023-04-11
 categories: ["Industry"]
 tags: ["高考", "军校", "军校录取", "政审", "Gaokao Military", "Military Academy"]
