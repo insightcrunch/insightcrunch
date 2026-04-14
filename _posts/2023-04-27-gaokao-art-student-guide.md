@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考艺术生完全指南 - 艺考备考与文化课的完美平衡"
-page_title: "高考艺术生完全指南 - 艺考流程、作品集准备、文化课分数线、顶尖艺术院校与时间规划全面解析"
+page_title: "高考艺术生完全指南 - 艺考流程、作品集准备、文化课分数线、顶尖艺术院校与时间规划全面解析 Gaokao"
 date: 2023-04-27
 categories: ["Industry"]
 tags: ["高考", "艺术生", "艺考", "文化课", "Gaokao Art", "Art Student"]
