@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "高考户籍与异地高考政策完全指南 - 随迁子女如何突破户籍壁垒"
-page_title: "高考户籍与异地高考完全指南 - 户籍要求详解、随迁子女权利、各省政策差异与户籍问题应对策略"
+page_title: "高考户籍与异地高考完全指南 - 户籍要求详解、随迁子女权利、各省政策差异与户籍问题应对策略 Gaokao"
 date: 2023-06-22
 categories: ["Industry"]
 tags: ["高考", "异地高考", "户籍", "随迁子女", "Gaokao Hukou", "Cross-Province"]
