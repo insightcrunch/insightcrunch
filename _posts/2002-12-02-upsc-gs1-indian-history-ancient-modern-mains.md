@@ -9,7 +9,7 @@ excerpt: "Complete UPSC GS1 Indian history Mains strategy: ancient, medieval, mo
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "kavita-sharma"
-last_updated: 2002-12-02
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS1 Indian history for Mains is the section of GS Paper 1 that aspirants underestimate most consistently and pay for most expensively. The widespread assumption is that history preparation done for Prelims will carry over to Mains with minor adjustments. The data does not support this assumption. Aspirants who walk into Mains with Prelims-style history preparation routinely score 25 to 40 marks below their potential in the history section of GS Paper 1, which alone accounts for the gap between rank 200 and rank 600 in any given cycle. The transition from Prelims history to Mains history is not a minor adjustment; it is a fundamental shift in how content is processed, organised, and articulated. This UPSC GS1 history for Mains strategy guide is built around that shift.

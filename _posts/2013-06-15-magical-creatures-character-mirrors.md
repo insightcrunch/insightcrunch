@@ -5,11 +5,11 @@ page_title: "Magical Creatures as Character Mirrors in Harry Potter: What the An
 date: 2013-06-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Magical Creatures", "Buckbeak", "Fawkes", "Nagini", "Thestrals", "Centaurs", "Literary Analysis", "Symbolism"]
-excerpt: "Every significant magical creature in Harry Potter mirrors a human character or condition. Rowling uses them to say things about personhood that the human characters cannot say about themselves."
+excerpt: "Decode every significant magical creature in Harry Potter as a mirror of a human character or condition."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-06-15
+last_updated: 2026-04-15
 lang: en
 ---
 ## Introduction: The Animal as Argument

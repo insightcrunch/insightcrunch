@@ -9,7 +9,7 @@ excerpt: "The complete UPSC Prelims exam day playbook: what to carry, OMR handli
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 60
 author: "anita-das"
-last_updated: 2002-12-15
+last_updated: 2026-04-15
 lang: en
 ---
 The UPSC Prelims exam day is the single most psychologically loaded morning of an aspirant's life. You have spent twelve, eighteen, sometimes thirty months reading Laxmikanth, marking maps, revising the eleventh standard NCERT for the fourth time, and grinding through twenty-five mock tests. And then, on a Sunday in May or June, every single one of those hours collapses into two sittings of two hours each, separated by a two-hour lunch break, inside an unfamiliar room, on an OMR sheet you have only practised on at home. The UPSC Prelims exam day is not a test of how much you know. It is a test of how reliably you can convert what you know into 100 darkened bubbles under pressure, in heat, in a room with thirty strangers, while a clock ticks louder than your own breathing.

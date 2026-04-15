@@ -5,11 +5,11 @@ page_title: "Hogwarts Houses as Personality Theory: What the Sorting Hat Really 
 date: 2013-06-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Hogwarts Houses", "Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff", "Sorting Hat", "Personality Theory", "Literary Analysis"]
-excerpt: "The Sorting Hat does not sort by trait but by value - what you prioritise when traits conflict. This reading resolves every apparent missort in the series and reveals its deepest institutional critique."
+excerpt: "Decode the Sorting Hat as a values test, not a personality quiz, and the institutional critique it hides."
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2013-06-10
+last_updated: 2026-04-15
 lang: en
 ---
 ## Introduction: The Sorting Hat's Real Question

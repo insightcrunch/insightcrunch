@@ -15145,11 +15145,11 @@ george-lennie-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
-- slug: guy-montag-character-analysis
-  title: Guy Montag Character Analysis
-  url: /2014/11/21/guy-montag-character-analysis/
+- slug: atticus-finch-character-analysis
+  title: Atticus Finch Character Analysis
+  url: /2014/02/19/atticus-finch-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-09.webp
   lang: en
 loneliness-of-mice-and-men-themes:
 - slug: complete-analysis-of-mice-and-men
@@ -15220,24 +15220,24 @@ complete-analysis-fahrenheit-451:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: complete-analysis-1984-george-orwell
-  title: Complete Analysis of 1984 by George Orwell
-  url: /2013/12/06/complete-analysis-1984-george-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: complete-analysis-brave-new-world
   title: Complete Analysis of Brave New World
   url: /2014/06/24/complete-analysis-brave-new-world/
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-guy-montag-character-analysis:
-- slug: boo-radley-character-analysis
-  title: Boo Radley Character Analysis
-  url: /2014/03/01/boo-radley-character-analysis/
+- slug: complete-analysis-1984-george-orwell
+  title: Complete Analysis of 1984 by George Orwell
+  url: /2013/12/06/complete-analysis-1984-george-orwell/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-56.webp
+  lang: en
+guy-montag-character-analysis:
+- slug: complete-analysis-fahrenheit-451
+  title: Complete Analysis of Fahrenheit 451
+  url: /2014/11/16/complete-analysis-fahrenheit-451/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
@@ -15245,17 +15245,17 @@ guy-montag-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
+- slug: julia-character-analysis-1984-orwell
+  title: Julia Character Analysis in 1984
+  url: /2014/01/05/julia-character-analysis-1984-orwell/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: complete-analysis-fahrenheit-451
-  title: Complete Analysis of Fahrenheit 451
-  url: /2014/11/16/complete-analysis-fahrenheit-451/
+- slug: victor-frankenstein-character-analysis
+  title: Victor Frankenstein Character Analysis
+  url: /2014/08/23/victor-frankenstein-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
 censorship-themes-fahrenheit-451:
 - slug: complete-analysis-fahrenheit-451
@@ -20097,12 +20097,6 @@ feluda-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: guy-montag-character-analysis
-  title: Guy Montag Character Analysis
-  url: /2014/11/21/guy-montag-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: best-bollywood-gangster-films-complete-guide
   title: Best Bollywood Gangster Films Guide
   url: /2026/02/20/best-bollywood-gangster-films-complete-guide/
@@ -20114,6 +20108,12 @@ feluda-complete-guide:
   url: /2014/08/28/the-creature-frankenstein-analysis/
   category: leisure
   image: /assets/images/blog/blog-84.webp
+  lang: en
+- slug: wand-lore-identity-harry-potter
+  title: 'Wand Lore in Harry Potter: Symbolism and Identity'
+  url: /2013/08/05/wand-lore-identity-harry-potter/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 drm-data-loading-automation-using-odi:
 - slug: drm-batch-client-refresh-current-and-previous-day-versions

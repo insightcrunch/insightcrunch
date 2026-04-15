@@ -9,7 +9,7 @@ excerpt: "The complete UPSC Mains guide: nine-paper architecture, answer writing
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2002-12-11
+last_updated: 2026-04-15
 lang: en
 ---
 If UPSC Prelims is the gate, UPSC Mains is the building. Most aspirants spend eighteen to twenty-four months obsessing over Prelims, then walk into the ninety-day window between Prelims and Mains with no real plan, no answer-writing rhythm, and no idea how the seven counting papers actually translate into a final rank. The result is predictable. They clear Prelims comfortably, then score 780 in Mains when 850 was within reach. They miss the interview cut-off by twelve marks, or they make the interview cut-off but finish at rank 480 when the same effort, redirected with even mediocre Mains strategy, would have placed them at rank 180. UPSC Mains is where ranks are made. This UPSC Mains guide exists because that single sentence is the most underweighted piece of strategic intelligence in the entire IAS preparation ecosystem.

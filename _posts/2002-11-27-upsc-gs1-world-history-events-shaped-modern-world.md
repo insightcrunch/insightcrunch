@@ -9,7 +9,7 @@ excerpt: "Complete UPSC GS1 world history strategy: industrial revolution, world
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "deepika-joshi"
-last_updated: 2002-11-27
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS1 world history is the subdomain that aspirants most consistently neglect, and the neglect is structurally costly. World history typically carries 15 to 25 marks per cycle within GS Paper 1, which feels like a small allocation against the 250 mark paper total, but the marks are reliably available year after year and are surrendered entirely by aspirants who skip world history preparation. A 20 mark allocation that you score zero on is a 20 mark gap; the same allocation scored at 65 to 75 percent yields 13 to 15 marks, which combined across the seven counting Mains papers can move your rank by 100 to 200 places. This UPSC GS1 world history strategy guide is built around the proposition that world history deserves dedicated focused preparation rather than the residual time most aspirants give it.

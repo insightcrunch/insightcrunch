@@ -5,11 +5,11 @@ page_title: "The Marauders in Harry Potter: Friendship, Betrayal, and What Schoo
 date: 2013-05-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Marauders", "James Potter", "Sirius Black", "Remus Lupin", "Peter Pettigrew", "Friendship", "Literary Analysis"]
-excerpt: "The Marauders are Rowling's argument that school friendships can save us or destroy us. The difference depends on whether the friendship makes you braver or simply makes you feel invincible."
+excerpt: "Decode the Marauders' bond in Harry Potter as the series' most cautionary friendship and its lasting consequences."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-05-20
+last_updated: 2026-04-15
 lang: en
 ---
 ## Introduction: Four Boys, One Map, and the Cost of the Circle

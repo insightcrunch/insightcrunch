@@ -9,7 +9,7 @@ excerpt: "Complete UPSC GS1 Indian society strategy: caste, gender, communalism,
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 62
 author: "anita-das"
-last_updated: 2002-11-23
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS1 Indian society is the section of GS Paper 1 that aspirants quietly sabotage through strategic neglect, and the cost is substantial. The section typically carries 40 to 60 marks per cycle across the women's issues, social diversity, communalism, secularism, regionalism, urbanisation, globalisation, and poverty subtopics. Aspirants who approach these subtopics through generalised opinion and newspaper talking points rather than through the conceptual vocabulary of sociology consistently underscore. The gap between an aspirant who scores 20 to 25 marks on the society section and an aspirant who scores 40 to 45 marks is precisely the gap that separates rank 400 from rank 150 in any given cycle. This UPSC GS1 Indian society strategy guide is built around that gap.

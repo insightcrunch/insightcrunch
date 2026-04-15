@@ -7,6 +7,7 @@ categories: ["Industry"]
 image: /assets/images/blog-04.webp
 reading_time: 59
 lang: en
+last_updated: 2026-04-15
 ---
 The final thirty days before UPSC Prelims are not the time to learn anything new. They are the time to convert everything you already half-know into something you can recall under pressure in under forty seconds per question. Aspirants who understand this distinction tend to clear the cutoff even in years when the paper tilts unexpectedly hard, and aspirants who ignore it tend to walk out of the examination hall saying the paper was unfair when in reality their revision architecture simply collapsed on contact with the OMR sheet.
 

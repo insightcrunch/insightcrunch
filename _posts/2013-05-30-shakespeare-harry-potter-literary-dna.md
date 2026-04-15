@@ -4,11 +4,11 @@ title: "Shakespeare in Hogwarts: The Literary DNA of Harry Potter"
 date: 2013-05-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Shakespeare", "Literary Analysis", "Snape", "Voldemort", "Dumbledore", "Malfoy", "Hamlet", "Macbeth", "Prospero"]
-excerpt: "Shakespeare is not merely an influence on Harry Potter - he is its structural DNA. Understanding which play maps to which character unlocks dimensions of the series that pure Harry Potter analysis misses."
+excerpt: "Decode the Shakespearean architecture of Harry Potter and which play maps to which character."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-05-30
+last_updated: 2026-04-15
 lang: en
 ---
 ## Introduction: Why Shakespeare Is the Key

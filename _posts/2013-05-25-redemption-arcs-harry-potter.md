@@ -4,11 +4,11 @@ title: "Redemption Arcs in Harry Potter: Who Earned It and Why"
 date: 2013-05-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Redemption", "Snape", "Draco", "Regulus", "Percy", "Pettigrew", "Dumbledore", "Literary Analysis"]
-excerpt: "Rowling has a specific theory of redemption: it requires action at personal cost, not apology, regret, or good intentions. Snape earns it. Regulus earns it. Draco, despite fan affection, does not."
+excerpt: "Decode every Harry Potter redemption arc with Rowling's specific criteria and the characters who actually qualify."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-05-25
+last_updated: 2026-04-15
 lang: en
 ---
 ## Introduction: The Specific Currency of Redemption

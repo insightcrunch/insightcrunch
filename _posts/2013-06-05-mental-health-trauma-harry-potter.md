@@ -4,11 +4,11 @@ title: "Mental Health and Trauma in Harry Potter: The Psychology of Survival"
 date: 2013-06-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Mental Health", "Trauma", "PTSD", "Depression", "Grief", "Dementors", "Literary Analysis", "Psychology"]
-excerpt: "Harry Potter is one of the most psychologically honest depictions of childhood trauma in popular fiction, embedding clinical-grade PTSD symptomology in Harry's arc from Book 4 onward."
+excerpt: "Decode Harry Potter as one of the most psychologically honest depictions of childhood trauma in popular fiction."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2013-06-05
+last_updated: 2026-04-15
 lang: en
 ---
 ## Introduction: The Boy Who Was Always Already Traumatised

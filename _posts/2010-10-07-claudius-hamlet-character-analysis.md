@@ -9,7 +9,7 @@ excerpt: "Complete analysis of Claudius in Hamlet - his political cunning, guilt
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 59
 author: "victoria-stone"
-last_updated: 2010-10-07
+last_updated: 2026-04-15
 lang: en
 ---
 Most literary villains are frightening because they are powerful or because they are cruel. Claudius is frightening because he is competent. He commits the most intimate of crimes, the murder of his own brother, and then constructs around that crime a functioning and stable government, a plausible marriage, a court that operates with apparent normalcy, and a diplomatic corps that successfully navigates a military threat from Norway. He does not simply seize power through brute force; he governs, and he governs well. He does not simply deceive; he persuades. He does not simply survive; he thrives, at least for a time, and the smoothness of his operation is so convincing that even the audience, who knows he is a murderer from the ghost's first accusation, can find themselves half-admiring the sheer craft of his performance. That reluctant, uncomfortable admiration is exactly what makes Claudius so dangerous, not just to the other figures in the drama but to the moral clarity of everyone who watches it.
