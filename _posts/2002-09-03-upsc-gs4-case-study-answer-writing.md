@@ -9,7 +9,7 @@ excerpt: "UPSC GS4 case study answer writing strategy: CASE framework structure 
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2002-09-03
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS4 case study answer writing represents the single highest-leverage preparation activity for GS4 performance because Section B case studies account for 120 marks (48 percent of total GS4 marks) spread across 6 case studies (typically 20 marks each) and aspirants who deploy structured framework consistently outscore aspirants who use ad hoc reasoning by 3 to 5 marks per case study producing 18 to 30 marks cumulative differential across Section B. The aspirants who write case study answers through structured framework with systematic stakeholder identification multi-framework ethical analysis specific solution articulation and broader evaluation consistently outscore aspirants who produce ad hoc responses that miss critical dimensions skip stakeholder considerations provide vague solutions or ignore implementation challenges. The gap between structured-framework case study answers and ad hoc case study answers is precisely the gap that determines Section B performance every cycle. This UPSC GS4 case study answer writing strategy guide is built around closing that gap through the CASE framework with 10 practice cases with model outlines and systematic preparation approach.

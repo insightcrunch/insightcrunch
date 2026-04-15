@@ -9,7 +9,7 @@ excerpt: "A 700 Math and 550 RW produces the same 1250 composite as a 650 Math a
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1996-09-21
+last_updated: 2026-04-15
 lang: en
 ---
 An uneven section score profile is one of the most common SAT situations students face, and also one of the most strategically mismanaged. Students who score 700 Math and 550 RW often instinctively continue focusing on Math because it is their strength - it feels productive to work in a domain where success comes relatively easily. Students who score 580 Math and 700 RW continue practicing reading passages because their verbal instincts are strong. In both cases, the student is optimizing for comfort rather than composite improvement, and the result is preparation that produces less score gain per hour than the alternative allocation would.

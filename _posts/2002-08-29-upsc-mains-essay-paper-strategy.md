@@ -9,7 +9,7 @@ excerpt: "UPSC Mains essay paper complete strategy: structure brainstorming scor
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 65
 author: "kavita-sharma"
-last_updated: 2002-08-29
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC Mains essay paper is the great equalizer in the civil services examination because it carries 250 marks (the same weight as each GS paper) yet receives disproportionately less dedicated preparation from most aspirants who treat essay writing as supplementary activity rather than systematic preparation domain producing 40 to 60 marks differential between aspirants who prepare essay systematically and aspirants who rely on general writing ability alone. The essay paper requires two essays of 1000 to 1200 words each from two separate sections (Section A typically covering philosophical social and abstract topics and Section B typically covering contemporary policy governance and current affairs topics) with each essay carrying 125 marks. The aspirants who write structured multi-dimensional essays with clear thesis substantive analytical depth diverse examples and compelling conclusions consistently score 130 to 160 marks while aspirants who write unstructured rambling essays with vague thesis shallow analysis limited examples and weak conclusions score 80 to 110 marks. The 40 to 60 marks differential at this scale substantially affects final ranks across the intense competition. This UPSC Mains essay paper strategy guide is built around systematic preparation producing consistent 150 plus marks through structured approach to brainstorming essay architecture dimensional analysis and scoring technique.

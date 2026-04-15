@@ -1,9 +1,139 @@
+sat-section-score-balance:
+- slug: how-to-improve-sat-reading-writing-score
+  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
+  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: how-to-improve-sat-math-score-by-100-points
+  title: How to Improve Your SAT Math Score by 100+ Points
+  url: /2021/01/26/how-to-improve-sat-math-score-by-100-points/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: sat-score-plateau-breakthrough
+  title: 'SAT Score Plateaus: Why You''re Stuck and How to Break Through'
+  url: /1996/10/09/sat-score-plateau-breakthrough/
+  category: industry
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: how-to-go-from-1000-to-1200-on-sat
+  title: How to Go from 1000 to 1200 on the SAT
+  url: /2021/02/11/how-to-go-from-1000-to-1200-on-sat/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+sat-practice-test-analysis:
+- slug: sat-practice-test-strategy-guide
+  title: 'SAT Practice Tests: How to Take and Analyze Them Effectively'
+  url: /2020/05/31/sat-practice-test-strategy-guide/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: sat-error-analysis-mistake-journal-guide
+  title: 'SAT Error Analysis: Build a Mistake Journal That Raises Your Score'
+  url: /2020/05/23/sat-error-analysis-mistake-journal-guide/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: sat-khan-academy-complete-usage-guide
+  title: 'SAT Khan Academy: How to Use It for Maximum Score Improvement'
+  url: /2020/05/07/sat-khan-academy-complete-usage-guide/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: sat-bluebook-app-complete-guide
+  title: 'SAT Bluebook App: Complete Navigation and Practice Guide'
+  url: /2020/11/15/sat-bluebook-app-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: how-colleges-use-sat-scores-in-admissions
+  title: How Colleges Actually Use SAT Scores in Admissions Decisions
+  url: /2020/06/16/how-colleges-use-sat-scores-in-admissions/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: sat-vs-act-which-test-should-you-take
+  title: 'SAT vs ACT: Complete Comparison to Choose the Right Test'
+  url: /2020/11/07/sat-vs-act-which-test-should-you-take/
+  category: industry
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+sat-1300-strategy:
+- slug: sat-1100-1200-strategy
+  title: 'SAT for Scoring 1100-1200: The Solid Middle Strategy'
+  url: /1996/10/05/sat-1100-1200-strategy/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: how-to-go-from-1000-to-1200-on-sat
+  title: How to Go from 1000 to 1200 on the SAT
+  url: /2021/02/11/how-to-go-from-1000-to-1200-on-sat/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: sat-12-week-beginner-plan
+  title: SAT 12-Week Preparation Plan for Complete Beginners
+  url: /1996/10/23/sat-12-week-beginner-plan/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: how-to-score-1500-plus-on-sat
+  title: 'How to Score 1500+ on the SAT: Elite Score Strategy'
+  url: /2021/02/19/how-to-score-1500-plus-on-sat/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: sat-scores-required-top-50-us-universities
+  title: SAT Scores Required for Top 50 US Universities
+  url: /2020/07/18/sat-scores-required-top-50-us-universities/
+  category: industry
+  image: /assets/images/blog/blog-23.webp
+  lang: en
+sat-1100-1200-strategy:
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: how-to-go-from-1000-to-1200-on-sat
+  title: How to Go from 1000 to 1200 on the SAT
+  url: /2021/02/11/how-to-go-from-1000-to-1200-on-sat/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: how-to-score-1500-plus-on-sat
+  title: 'How to Score 1500+ on the SAT: Elite Score Strategy'
+  url: /2021/02/19/how-to-score-1500-plus-on-sat/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: how-to-go-from-1200-to-1400-on-sat
+  title: How to Go from 1200 to 1400 on the SAT
+  url: /2021/02/03/how-to-go-from-1200-to-1400-on-sat/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: sat-score-benchmarks-by-college-tier
+  title: SAT Score Benchmarks by College Tier and Major
+  url: /2020/06/08/sat-score-benchmarks-by-college-tier/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
 sat-score-plateau-breakthrough:
 - slug: how-to-improve-sat-reading-writing-score
   title: How to Improve Your SAT Reading and Writing Score by 100+ Points
   url: /2021/01/18/how-to-improve-sat-reading-writing-score/
   category: industry
   image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
   lang: en
 - slug: how-to-go-from-1000-to-1200-on-sat
   title: How to Go from 1000 to 1200 on the SAT
@@ -16,18 +146,6 @@ sat-score-plateau-breakthrough:
   url: /2021/02/03/how-to-go-from-1200-to-1400-on-sat/
   category: industry
   image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: how-to-improve-sat-math-score-by-100-points
-  title: How to Improve Your SAT Math Score by 100+ Points
-  url: /2021/01/26/how-to-improve-sat-math-score-by-100-points/
-  category: industry
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: sat-score-benchmarks-by-college-tier
-  title: SAT Score Benchmarks by College Tier and Major
-  url: /2020/06/08/sat-score-benchmarks-by-college-tier/
-  category: industry
-  image: /assets/images/blog/blog-11.webp
   lang: en
 sat-winter-break-intensive:
 - slug: sat-summer-preparation
@@ -48,11 +166,11 @@ sat-winter-break-intensive:
   category: industry
   image: /assets/images/blog/blog-89.webp
   lang: en
-- slug: sat-6-month-preparation-plan
-  title: 'SAT 6-Month Study Plan: The Complete Preparation Timeline'
-  url: /2021/01/10/sat-6-month-preparation-plan/
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
   category: industry
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
 - slug: sat-vs-gre-vs-gmat-understanding-us-standardized-tests
   title: 'SAT vs GRE vs GMAT: Understanding US Standardized Tests'
@@ -116,12 +234,6 @@ sat-12-week-beginner-plan:
   category: industry
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: sat-khan-academy-complete-usage-guide
-  title: 'SAT Khan Academy: How to Use It for Maximum Score Improvement'
-  url: /2020/05/07/sat-khan-academy-complete-usage-guide/
-  category: industry
-  image: /assets/images/blog/blog-64.webp
-  lang: en
 - slug: personal-finance-guide-india
   title: 'Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS & Tax'
   url: /2025/06/14/personal-finance-guide-india/
@@ -177,12 +289,6 @@ sat-retake-strategy:
   url: /1996/11/19/sat-800-to-1000-strategy/
   category: industry
   image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: how-colleges-use-sat-scores-in-admissions
-  title: How Colleges Actually Use SAT Scores in Admissions Decisions
-  url: /2020/06/16/how-colleges-use-sat-scores-in-admissions/
-  category: industry
-  image: /assets/images/blog/blog-76.webp
   lang: en
 - slug: sat-registration-process-step-by-step
   title: 'SAT Registration: Complete Step-by-Step Guide'
@@ -269,12 +375,6 @@ sat-score-prediction:
   url: /2020/08/11/sat-preparation-for-students-with-learning-differences/
   category: industry
   image: /assets/images/blog/blog-78.webp
-  lang: en
-- slug: sat-vs-act-which-test-should-you-take
-  title: 'SAT vs ACT: Complete Comparison to Choose the Right Test'
-  url: /2020/11/07/sat-vs-act-which-test-should-you-take/
-  category: industry
-  image: /assets/images/blog/blog-88.webp
   lang: en
 sat-score-trends-2020-2026:
 - slug: sat-problem-solving-data-analysis-complete-guide
@@ -381,12 +481,6 @@ sat-perfect-1600-strategy:
   url: /2020/07/10/sat-scores-for-ivy-league-admission/
   category: industry
   image: /assets/images/blog/blog-68.webp
-  lang: en
-- slug: sat-scores-required-top-50-us-universities
-  title: SAT Scores Required for Top 50 US Universities
-  url: /2020/07/18/sat-scores-required-top-50-us-universities/
-  category: industry
-  image: /assets/images/blog/blog-23.webp
   lang: en
 sat-vocabulary-500-words:
 - slug: sat-vocabulary-in-context-complete-guide
@@ -601,12 +695,6 @@ sat-main-idea-purpose:
   category: industry
   image: /assets/images/blog/blog-51.webp
   lang: en
-- slug: how-to-improve-sat-reading-writing-score
-  title: How to Improve Your SAT Reading and Writing Score by 100+ Points
-  url: /2021/01/18/how-to-improve-sat-reading-writing-score/
-  category: industry
-  image: /assets/images/blog/blog-46.webp
-  lang: en
 - slug: sat-craft-structure-questions
   title: 'SAT Craft and Structure: Purpose and Text Analysis'
   url: /1997/03/16/sat-craft-structure-questions/
@@ -618,6 +706,12 @@ sat-main-idea-purpose:
   url: /2020/02/25/sat-transitions-logical-flow-questions-guide/
   category: industry
   image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: sat-reading-passage-types-evidence-questions-guide
+  title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
+  url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
   lang: en
 sat-inference-implication:
 - slug: sat-reading-comprehension-passage-strategies
@@ -1075,12 +1169,6 @@ sat-rhetorical-synthesis-guide:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
-- slug: sat-bluebook-app-complete-guide
-  title: 'SAT Bluebook App: Complete Navigation and Practice Guide'
-  url: /2020/11/15/sat-bluebook-app-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-31.webp
-  lang: en
 sat-reading-literature-fiction:
 - slug: sat-reading-passage-types-evidence-questions-guide
   title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
@@ -1205,12 +1293,6 @@ sat-math-past-question-analysis:
   url: /2020/05/23/sat-error-analysis-mistake-journal-guide/
   category: industry
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: sat-practice-test-strategy-guide
-  title: 'SAT Practice Tests: How to Take and Analyze Them Effectively'
-  url: /2020/05/31/sat-practice-test-strategy-guide/
-  category: industry
-  image: /assets/images/blog/blog-67.webp
   lang: en
 sat-math-interpreting-coefficients:
 - slug: how-to-improve-sat-math-score-by-100-points
@@ -1924,7 +2006,188 @@ sat-math-exponential-functions:
   category: industry
   image: /assets/images/blog/blog-23.webp
   lang: en
-upsc-gs4-aptitude-foundational-values:
+upsc-mains-diagrams-flowcharts-maps:
+- slug: upsc-mains-answer-writing-formats
+  title: UPSC Mains Answer Writing 200-Word and 150-Word Format
+  url: /2002/08/11/upsc-mains-answer-writing-formats/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: upsc-mains-complete-guide
+  title: 'UPSC Mains Complete Guide: Essay, GS, Optional Strategy'
+  url: /2002/12/11/upsc-mains-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+upsc-mains-answer-writing-formats:
+- slug: upsc-mains-diagrams-flowcharts-maps
+  title: UPSC Mains Diagrams Flowcharts and Maps in Answers
+  url: /2002/08/07/upsc-mains-diagrams-flowcharts-maps/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: upsc-mains-complete-guide
+  title: 'UPSC Mains Complete Guide: Essay, GS, Optional Strategy'
+  url: /2002/12/11/upsc-mains-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+upsc-essay-structure-quotation-conclusion:
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: upsc-essay-current-affairs-policy-topics
+  title: UPSC Essay Current Affairs and Policy-Based Topics
+  url: /2002/08/20/upsc-essay-current-affairs-policy-topics/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: upsc-essay-philosophical-abstract-topics
+  title: UPSC Essay Philosophical and Abstract Topics Strategy
+  url: /2002/08/25/upsc-essay-philosophical-abstract-topics/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: upsc-mains-answer-writing-formats
+  title: UPSC Mains Answer Writing 200-Word and 150-Word Format
+  url: /2002/08/11/upsc-mains-answer-writing-formats/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+upsc-essay-current-affairs-policy-topics:
+- slug: upsc-essay-philosophical-abstract-topics
+  title: UPSC Essay Philosophical and Abstract Topics Strategy
+  url: /2002/08/25/upsc-essay-philosophical-abstract-topics/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: upsc-essay-structure-quotation-conclusion
+  title: UPSC Essay Structure Quotation and Conclusion Techniques
+  url: /2002/08/16/upsc-essay-structure-quotation-conclusion/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: upsc-mains-answer-writing-formats
+  title: UPSC Mains Answer Writing 200-Word and 150-Word Format
+  url: /2002/08/11/upsc-mains-answer-writing-formats/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+upsc-essay-philosophical-abstract-topics:
+- slug: upsc-essay-current-affairs-policy-topics
+  title: UPSC Essay Current Affairs and Policy-Based Topics
+  url: /2002/08/20/upsc-essay-current-affairs-policy-topics/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
+  category: industry
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: upsc-essay-structure-quotation-conclusion
+  title: UPSC Essay Structure Quotation and Conclusion Techniques
+  url: /2002/08/16/upsc-essay-structure-quotation-conclusion/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: upsc-gs4-aptitude-foundational-values
+  title: UPSC GS4 Aptitude and Foundational Values for Civil Service
+  url: /2002/09/16/upsc-gs4-aptitude-foundational-values/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+upsc-mains-essay-paper-strategy:
+- slug: upsc-essay-philosophical-abstract-topics
+  title: UPSC Essay Philosophical and Abstract Topics Strategy
+  url: /2002/08/25/upsc-essay-philosophical-abstract-topics/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: upsc-essay-structure-quotation-conclusion
+  title: UPSC Essay Structure Quotation and Conclusion Techniques
+  url: /2002/08/16/upsc-essay-structure-quotation-conclusion/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: upsc-essay-current-affairs-policy-topics
+  title: UPSC Essay Current Affairs and Policy-Based Topics
+  url: /2002/08/20/upsc-essay-current-affairs-policy-topics/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: upsc-mains-complete-guide
+  title: 'UPSC Mains Complete Guide: Essay, GS, Optional Strategy'
+  url: /2002/12/11/upsc-mains-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+upsc-gs4-case-study-answer-writing:
+- slug: upsc-gs4-public-administration-ethics-case-studies
+  title: UPSC GS4 Public Administration Ethics and Case Studies
+  url: /2002/09/12/upsc-gs4-public-administration-ethics-case-studies/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
+  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
+  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: upsc-gs4-thinkers-philosophers-must-know
+  title: UPSC GS4 Thinkers and Philosophers You Must Know
+  url: /2002/09/07/upsc-gs4-thinkers-philosophers-must-know/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: upsc-gs4-ethics-attitude-emotional-intelligence
+  title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
+  url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+upsc-gs4-thinkers-philosophers-must-know:
+- slug: upsc-gs4-aptitude-foundational-values
+  title: UPSC GS4 Aptitude and Foundational Values for Civil Service
+  url: /2002/09/16/upsc-gs4-aptitude-foundational-values/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
 - slug: upsc-gs4-ethics-attitude-emotional-intelligence
   title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
   url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
@@ -1937,19 +2200,75 @@ upsc-gs4-aptitude-foundational-values:
   category: industry
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: upsc-gs2-governance-transparency-accountability-egovernance
-  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
-  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
   category: industry
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: upsc-gs3-science-technology-mains-deep-dive
-  title: UPSC GS3 Science and Technology Developments
-  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+upsc-gs4-public-administration-ethics-case-studies:
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
   category: industry
-  image: /assets/images/blog/blog-07.webp
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
+  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
+  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: upsc-gs4-ethics-attitude-emotional-intelligence
+  title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
+  url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: upsc-gs4-thinkers-philosophers-must-know
+  title: UPSC GS4 Thinkers and Philosophers You Must Know
+  url: /2002/09/07/upsc-gs4-thinkers-philosophers-must-know/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+upsc-gs4-aptitude-foundational-values:
+- slug: upsc-gs4-thinkers-philosophers-must-know
+  title: UPSC GS4 Thinkers and Philosophers You Must Know
+  url: /2002/09/07/upsc-gs4-thinkers-philosophers-must-know/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
+- slug: upsc-gs4-ethics-attitude-emotional-intelligence
+  title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
+  url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
+  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
+  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: upsc-gs4-public-administration-ethics-case-studies
+  title: UPSC GS4 Public Administration Ethics and Case Studies
+  url: /2002/09/12/upsc-gs4-public-administration-ethics-case-studies/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
   lang: en
 upsc-gs4-ethics-attitude-emotional-intelligence:
+- slug: upsc-gs4-public-administration-ethics-case-studies
+  title: UPSC GS4 Public Administration Ethics and Case Studies
+  url: /2002/09/12/upsc-gs4-public-administration-ethics-case-studies/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: upsc-gs4-thinkers-philosophers-must-know
+  title: UPSC GS4 Thinkers and Philosophers You Must Know
+  url: /2002/09/07/upsc-gs4-thinkers-philosophers-must-know/
+  category: industry
+  image: /assets/images/blog/blog-41.webp
+  lang: en
 - slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
   title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
   url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
@@ -1962,42 +2281,30 @@ upsc-gs4-ethics-attitude-emotional-intelligence:
   category: industry
   image: /assets/images/blog/blog-43.webp
   lang: en
-- slug: upsc-gs3-science-technology-mains-deep-dive
-  title: UPSC GS3 Science and Technology Developments
-  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
-  category: industry
-  image: /assets/images/blog/blog-07.webp
-  lang: en
-- slug: upsc-gs2-governance-transparency-accountability-egovernance
-  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
-  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
-  category: industry
-  image: /assets/images/blog/blog-03.webp
-  lang: en
 upsc-mains-gs-paper-4-ethics-integrity-aptitude:
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: upsc-gs4-public-administration-ethics-case-studies
+  title: UPSC GS4 Public Administration Ethics and Case Studies
+  url: /2002/09/12/upsc-gs4-public-administration-ethics-case-studies/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 - slug: upsc-gs4-ethics-attitude-emotional-intelligence
   title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
   url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
   category: industry
   image: /assets/images/blog/blog-70.webp
   lang: en
-- slug: upsc-gs4-aptitude-foundational-values
-  title: UPSC GS4 Aptitude and Foundational Values for Civil Service
-  url: /2002/09/16/upsc-gs4-aptitude-foundational-values/
+- slug: upsc-gs4-thinkers-philosophers-must-know
+  title: UPSC GS4 Thinkers and Philosophers You Must Know
+  url: /2002/09/07/upsc-gs4-thinkers-philosophers-must-know/
   category: industry
-  image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: upsc-mains-gs2-governance-polity-constitution-ir
-  title: 'UPSC Mains GS Paper 2: Governance, Polity, Constitution, IR'
-  url: /2002/11/14/upsc-mains-gs2-governance-polity-constitution-ir/
-  category: industry
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
-  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
-  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
-  category: industry
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-41.webp
   lang: en
 upsc-gs3-internal-security-mains-deep-dive:
 - slug: upsc-gs3-environment-biodiversity-disaster-management
@@ -2400,29 +2707,29 @@ upsc-mains-gs-paper-1-heritage-history-geography-society:
   image: /assets/images/blog/blog-73.webp
   lang: en
 upsc-mains-complete-guide:
-- slug: upsc-gs1-indian-history-ancient-modern-mains
-  title: 'UPSC GS1 Indian History Ancient to Modern: Mains Strategy'
-  url: /2002/12/02/upsc-gs1-indian-history-ancient-modern-mains/
+- slug: upsc-mains-answer-writing-formats
+  title: UPSC Mains Answer Writing 200-Word and 150-Word Format
+  url: /2002/08/11/upsc-mains-answer-writing-formats/
   category: industry
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-60.webp
   lang: en
-- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
-  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
-  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
   category: industry
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: upsc-gs1-geography-india-world-mains
-  title: 'UPSC GS1 Geography: India and World for Mains Strategy'
-  url: /2002/11/18/upsc-gs1-geography-india-world-mains/
+- slug: upsc-mains-diagrams-flowcharts-maps
+  title: UPSC Mains Diagrams Flowcharts and Maps in Answers
+  url: /2002/08/07/upsc-mains-diagrams-flowcharts-maps/
   category: industry
-  image: /assets/images/blog/blog-42.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
-- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
-  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
-  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
   category: industry
-  image: /assets/images/blog/blog-31.webp
+  image: /assets/images/blog/blog-64.webp
   lang: en
 upsc-prelims-exam-day-logistics-strategy:
 - slug: upsc-prelims-ancient-history
@@ -3062,31 +3369,37 @@ upsc-prelims-complete-guide:
   image: /assets/images/blog/blog-08.webp
   lang: en
 upsc-answer-writing:
+- slug: upsc-mains-answer-writing-formats
+  title: UPSC Mains Answer Writing 200-Word and 150-Word Format
+  url: /2002/08/11/upsc-mains-answer-writing-formats/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
 - slug: upsc-mains-complete-guide
   title: 'UPSC Mains Complete Guide: Essay, GS, Optional Strategy'
   url: /2002/12/11/upsc-mains-complete-guide/
   category: industry
   image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: upsc-cut-off-analysis
-  title: 'UPSC Cut-Off Analysis: Prelims, Mains and Final'
-  url: /2003/06/09/upsc-cut-off-analysis/
+- slug: upsc-mains-diagrams-flowcharts-maps
+  title: UPSC Mains Diagrams Flowcharts and Maps in Answers
+  url: /2002/08/07/upsc-mains-diagrams-flowcharts-maps/
   category: industry
-  image: /assets/images/blog/blog-73.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
-- slug: upsc-syllabus-prelims-mains
-  title: 'UPSC CSE Syllabus: Complete Prelims and Mains Decoded'
-  url: /2003/07/10/upsc-syllabus-prelims-mains/
+- slug: upsc-gs4-case-study-answer-writing
+  title: UPSC GS4 How to Write Case Study Answers That Score
+  url: /2002/09/03/upsc-gs4-case-study-answer-writing/
   category: industry
-  image: /assets/images/blog/blog-21.webp
-  lang: en
-- slug: upsc-current-affairs-strategy
-  title: 'UPSC Current Affairs Strategy: Cover News Without Drowning'
-  url: /2003/04/11/upsc-current-affairs-strategy/
-  category: industry
-  image: /assets/images/blog/blog-15.webp
+  image: /assets/images/blog/blog-64.webp
   lang: en
 upsc-current-affairs-strategy:
+- slug: upsc-essay-current-affairs-policy-topics
+  title: UPSC Essay Current Affairs and Policy-Based Topics
+  url: /2002/08/20/upsc-essay-current-affairs-policy-topics/
+  category: industry
+  image: /assets/images/blog/blog-76.webp
+  lang: en
 - slug: upsc-prelims-current-affairs-strategy
   title: 'UPSC Prelims: Current Affairs Pattern and Coverage'
   url: /2003/03/02/upsc-prelims-current-affairs-strategy/
@@ -3436,11 +3749,11 @@ upsc-cut-off-analysis:
   category: industry
   image: /assets/images/blog/blog-12.webp
   lang: en
-- slug: upsc-booklist
-  title: 'UPSC Booklist: Books for Prelims, Mains, GS'
-  url: /2003/06/27/upsc-booklist/
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
   category: industry
-  image: /assets/images/blog/blog-73.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 upsc-marking-scheme:
 - slug: upsc-prelims-elimination-technique
@@ -3611,11 +3924,11 @@ upsc-syllabus-prelims-mains:
   category: industry
   image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: what-is-the-syllabus-of-tcs-nqt
-  title: TCS NQT Syllabus - Every Topic Covered
-  url: /2021/06/24/what-is-the-syllabus-of-tcs-nqt/
+- slug: upsc-mains-essay-paper-strategy
+  title: UPSC Mains Essay Paper Strategy for 150 Plus
+  url: /2002/08/29/upsc-mains-essay-paper-strategy/
   category: industry
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 upsc-exam-pattern-2026:
 - slug: upsc-syllabus-prelims-mains
@@ -8158,29 +8471,35 @@ predict-your-tcs-ilp-score:
   image: /assets/images/blog/blog-03.webp
   lang: en
 hamlet-character-analysis-deep-dive:
+- slug: gertrude-hamlet-character-analysis
+  title: Gertrude Character Analysis in Hamlet
+  url: /2010/10/12/gertrude-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 - slug: claudius-hamlet-character-analysis
   title: Claudius Character Analysis in Hamlet
   url: /2010/10/07/claudius-hamlet-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-14.webp
   lang: en
-- slug: mr-rochester-character-analysis
-  title: Mr. Rochester Character Analysis
-  url: /2014/10/22/mr-rochester-character-analysis/
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: heathcliff-character-analysis
-  title: Heathcliff Character Analysis
-  url: /2014/09/12/heathcliff-character-analysis/
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: the-creature-frankenstein-analysis
-  title: The Creature Character Analysis
-  url: /2014/08/28/the-creature-frankenstein-analysis/
+- slug: rosencrantz-guildenstern-hamlet-character-analysis
+  title: 'Rosencrantz and Guildenstern: Hamlet Character Analysis'
+  url: /2010/11/07/rosencrantz-guildenstern-hamlet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-84.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 tcs-2010-offcampus-joining-dates:
 - slug: tcs-2010-batch-joining-dates
@@ -8214,23 +8533,48 @@ claudius-hamlet-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: obrien-character-analysis-1984
-  title: O'Brien Character Analysis in 1984
-  url: /2013/12/31/obrien-character-analysis-1984/
+- slug: gertrude-hamlet-character-analysis
+  title: Gertrude Character Analysis in Hamlet
+  url: /2010/10/12/gertrude-hamlet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-03.webp
+  image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: heathcliff-character-analysis
-  title: Heathcliff Character Analysis
-  url: /2014/09/12/heathcliff-character-analysis/
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-57.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+gertrude-hamlet-character-analysis:
+- slug: hamlet-character-analysis-deep-dive
+  title: Hamlet Character Analysis
+  url: /2010/10/02/hamlet-character-analysis-deep-dive/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: claudius-hamlet-character-analysis
+  title: Claudius Character Analysis in Hamlet
+  url: /2010/10/07/claudius-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 tcs-split-wide-open-guest-post:
 - slug: tcs-fresher-life
@@ -8282,6 +8626,31 @@ tcs-2010-q2-results:
   category: industry
   image: /assets/images/blog/blog-22.webp
   lang: en
+ophelia-hamlet-character-analysis:
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: polonius-hamlet-character-analysis
+  title: Polonius Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/28/polonius-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: fortinbras-hamlet-character-analysis
+  title: Fortinbras in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/18/fortinbras-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 tcs-plans-salary-hikes-in-april:
 - slug: tcs-salary
   title: 'TCS Salary: Every Profile Broken Down'
@@ -8331,6 +8700,31 @@ ilp-chalisa:
   url: /2018/02/19/tcs-ilp-trivandrum-accomodation/
   category: industry
   image: /assets/images/blog/blog-35.webp
+  lang: en
+horatio-hamlet-character-analysis:
+- slug: polonius-hamlet-character-analysis
+  title: Polonius Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/28/polonius-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: fortinbras-hamlet-character-analysis
+  title: Fortinbras in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/18/fortinbras-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
   lang: en
 initial-learning-program-at-trivandrum:
 - slug: tcs-ilp-trivandrum-accomodation
@@ -8432,6 +8826,31 @@ first-few-days-at-tcs-ilp:
   category: industry
   image: /assets/images/blog/blog-72.webp
   lang: en
+polonius-hamlet-character-analysis:
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: fortinbras-hamlet-character-analysis
+  title: Fortinbras in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/18/fortinbras-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
 predictions-modified-to-near-perfection:
 - slug: tcs-2011-batch-joining-dates
   title: TCS 2011 Batch Joining Dates
@@ -8482,6 +8901,31 @@ a-story-between-tcs-and-infosys:
   category: industry
   image: /assets/images/blog/blog-03.webp
   lang: en
+laertes-hamlet-character-analysis:
+- slug: polonius-hamlet-character-analysis
+  title: Polonius Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/28/polonius-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: fortinbras-hamlet-character-analysis
+  title: Fortinbras in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/18/fortinbras-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 google-shows-custom-birthday-logo-doodle-on-your-birthdays:
 - slug: google-reader-bug-fixedhooray
   title: Google Reader bug fixed, hooray
@@ -8513,6 +8957,31 @@ google-shows-custom-birthday-logo-doodle-on-your-birthdays:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
+rosencrantz-guildenstern-hamlet-character-analysis:
+- slug: hamlet-character-analysis-deep-dive
+  title: Hamlet Character Analysis
+  url: /2010/10/02/hamlet-character-analysis-deep-dive/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: gertrude-hamlet-character-analysis
+  title: Gertrude Character Analysis in Hamlet
+  url: /2010/10/12/gertrude-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 add-rss-feed-subscription-icon-to-google-chrome-address-bar:
 - slug: top-popular-extensions-for-google-chrome
   title: Top popular extensions for Google Chrome
@@ -8537,6 +9006,31 @@ add-rss-feed-subscription-icon-to-google-chrome-address-bar:
   url: /2010/08/27/google-docs-ready-to-take-on-microsoft-office-2010/
   category: leisure
   image: /assets/images/blog/blog-79.webp
+  lang: en
+ghost-hamlet-character-analysis:
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: fortinbras-hamlet-character-analysis
+  title: Fortinbras in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/18/fortinbras-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
   lang: en
 top-popular-extensions-for-google-chrome:
 - slug: add-rss-feed-subscription-icon-to-google-chrome-address-bar
@@ -8588,6 +9082,31 @@ love-to-forward-mails-to-a-lot-of-friends-make-gmail-contact-groups:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
+fortinbras-hamlet-character-analysis:
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: horatio-hamlet-character-analysis
+  title: Horatio Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/23/horatio-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: ghost-hamlet-character-analysis
+  title: The Ghost in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/12/ghost-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
 how-to-set-your-inactive-windows-to-minimize-automatically:
 - slug: add-facial-recognition-even-to-your-prehistoric-pc
   title: Add Facial Recognition even to your prehistoric PC
@@ -8613,6 +9132,31 @@ how-to-set-your-inactive-windows-to-minimize-automatically:
   category: leisure
   image: /assets/images/blog/blog-82.webp
   lang: en
+macbeth-character-analysis-deep-dive:
+- slug: lady-macbeth-character-analysis
+  title: Lady Macbeth Character Analysis in Shakespeare's Tragedy
+  url: /2010/11/28/lady-macbeth-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: fortinbras-hamlet-character-analysis
+  title: Fortinbras in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/18/fortinbras-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: polonius-hamlet-character-analysis
+  title: Polonius Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/28/polonius-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
 know-the-cpu-temperature-inside-your-computer-and-laptop:
 - slug: how-to-delete-large-folders-in-your-pc-with-gbs-of-files-in-them
   title: How to delete large folders in your PC with GBs of files in them
@@ -8637,6 +9181,31 @@ know-the-cpu-temperature-inside-your-computer-and-laptop:
   url: /2010/09/03/i-am-aware-of-java-but-this/
   category: leisure
   image: /assets/images/blog/blog-82.webp
+  lang: en
+lady-macbeth-character-analysis:
+- slug: macbeth-character-analysis-deep-dive
+  title: Macbeth Character Analysis in Shakespeare's Major Tragedy
+  url: /2010/11/23/macbeth-character-analysis-deep-dive/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: laertes-hamlet-character-analysis
+  title: Laertes Character Analysis in Shakespeare's Hamlet
+  url: /2010/11/02/laertes-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: ghost-hamlet-character-analysis
+  title: The Ghost in Shakespeare's Hamlet Character Analysis
+  url: /2010/11/12/ghost-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: ophelia-hamlet-character-analysis
+  title: Ophelia Character Analysis in Shakespeare's Hamlet
+  url: /2010/10/18/ophelia-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
   lang: en
 monitor-folder-changes-track-activities-on-a-folder-for-any-activity:
 - slug: value-of-rs-500
@@ -13777,6 +14346,12 @@ coming-of-age-to-kill-a-mockingbird:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: coming-of-age-novels-compared
+  title: Greatest Coming of Age Novels Compared
+  url: /2015/01/15/coming-of-age-novels-compared/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
 complete-analysis-pride-and-prejudice:
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
@@ -14714,11 +15289,11 @@ victor-frankenstein-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-15.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: mr-darcy-character-analysis
+  title: Mr. Darcy Character Analysis
+  url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-07.webp
   lang: en
 the-creature-frankenstein-analysis:
 - slug: victor-frankenstein-character-analysis
@@ -15295,17 +15870,17 @@ complete-analysis-scarlet-letter:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: complete-analysis-jane-eyre-bronte
-  title: Complete Analysis of Jane Eyre
-  url: /2014/10/12/complete-analysis-jane-eyre-bronte/
+- slug: complete-analysis-catcher-in-the-rye
+  title: Complete Analysis of Catcher in the Rye
+  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: complete-analysis-frankenstein-shelley
-  title: Complete Analysis of Frankenstein
-  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+- slug: complete-analysis-great-gatsby
+  title: Complete Analysis of The Great Gatsby
+  url: /2014/01/10/complete-analysis-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-36.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 hester-prynne-character-analysis:
 - slug: complete-analysis-scarlet-letter
@@ -15351,11 +15926,11 @@ sin-society-scarlet-letter-themes:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
-- slug: themes-independence-jane-eyre
-  title: Independence and Feminism in Jane Eyre
-  url: /2014/10/27/themes-independence-jane-eyre/
+- slug: themes-symbolism-lord-of-the-flies
+  title: Themes and Symbolism in Lord of the Flies
+  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
   category: leisure
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 complete-analysis-heart-of-darkness:
 - slug: marlow-character-analysis-conrad
@@ -15476,11 +16051,11 @@ colonialism-racism-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: julia-character-analysis-1984-orwell
+  title: Julia Character Analysis in 1984
+  url: /2014/01/05/julia-character-analysis-1984-orwell/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
 - slug: racism-row-over-new-york-post
   title: Racism Row Over New York Post Chimpanzee Cartoon
@@ -15514,17 +16089,17 @@ colonialism-racism-heart-of-darkness:
   image: /assets/images/blog/blog-56.webp
   lang: en
 greatest-literary-villains-compared:
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
-  lang: en
 - slug: fate-vs-free-will-classic-literature
   title: Fate vs Free Will in Classic Literature
   url: /2015/04/05/fate-vs-free-will-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
   lang: en
 - slug: parents-children-classic-literature
   title: Parents and Children in Classic Literature
@@ -15564,29 +16139,29 @@ is-meta-on-hiring-freeze:
   image: /assets/images/blog/blog-59.webp
   lang: en
 coming-of-age-novels-compared:
-- slug: isolation-loneliness-classic-novels
-  title: Isolation in Classic Novels Compared
-  url: /2015/02/09/isolation-loneliness-classic-novels/
-  category: leisure
-  image: /assets/images/blog/blog-80.webp
-  lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
-  category: leisure
-  image: /assets/images/blog/blog-08.webp
-  lang: en
 - slug: coming-of-age-to-kill-a-mockingbird
   title: Coming of Age in To Kill a Mockingbird
   url: /2014/03/16/coming-of-age-to-kill-a-mockingbird/
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
+- slug: isolation-loneliness-classic-novels
+  title: Isolation in Classic Novels Compared
+  url: /2015/02/09/isolation-loneliness-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: social-class-classic-novels-compared
+  title: Social Class in Classic Novels Compared
+  url: /2015/01/20/social-class-classic-novels-compared/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
   lang: en
 social-class-classic-novels-compared:
 - slug: fate-vs-free-will-classic-literature
@@ -15594,12 +16169,6 @@ social-class-classic-novels-compared:
   url: /2015/04/05/fate-vs-free-will-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-36.webp
-  lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
-  category: leisure
-  image: /assets/images/blog/blog-08.webp
   lang: en
 - slug: madness-sanity-classic-literature
   title: Madness and Sanity in Classic Literature
@@ -15613,13 +16182,13 @@ social-class-classic-novels-compared:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-gender-feminism-classic-literature:
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: parents-children-classic-literature
+  title: Parents and Children in Classic Literature
+  url: /2015/02/24/parents-children-classic-literature/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
+gender-feminism-classic-literature:
 - slug: fate-vs-free-will-classic-literature
   title: Fate vs Free Will in Classic Literature
   url: /2015/04/05/fate-vs-free-will-classic-literature/
@@ -15637,6 +16206,12 @@ gender-feminism-classic-literature:
   url: /2015/03/16/american-dream-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
   lang: en
 nature-vs-nurture-classic-novels:
 - slug: nature-wilderness-classic-novels
@@ -15713,12 +16288,6 @@ isolation-loneliness-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: coming-of-age-novels-compared
-  title: Greatest Coming of Age Novels Compared
-  url: /2015/01/15/coming-of-age-novels-compared/
-  category: leisure
-  image: /assets/images/blog/blog-03.webp
-  lang: en
 is-meta-on-a-hiring-freeze:
 - slug: is-meta-on-hiring-freeze
   title: Is Meta on hiring freeze?
@@ -15763,11 +16332,11 @@ power-corruption-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: parents-children-classic-literature
+  title: Parents and Children in Classic Literature
+  url: /2015/02/24/parents-children-classic-literature/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 love-obsession-classic-novels:
 - slug: fate-vs-free-will-classic-literature
@@ -15782,17 +16351,17 @@ love-obsession-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
-  category: leisure
-  image: /assets/images/blog/blog-08.webp
-  lang: en
 - slug: race-justice-american-novels
   title: Race and Justice in Classic American Novels
   url: /2015/03/01/race-justice-american-novels/
   category: leisure
   image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: parents-children-classic-literature
+  title: Parents and Children in Classic Literature
+  url: /2015/02/24/parents-children-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
   lang: en
 parents-children-classic-literature:
 - slug: fate-vs-free-will-classic-literature
@@ -15807,17 +16376,17 @@ parents-children-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
-  category: leisure
-  image: /assets/images/blog/blog-08.webp
-  lang: en
 - slug: power-corruption-classic-literature
   title: Power and Corruption in Classic Literature
   url: /2015/02/14/power-corruption-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: social-class-classic-novels-compared
+  title: Social Class in Classic Novels Compared
+  url: /2015/01/20/social-class-classic-novels-compared/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
   lang: en
 race-justice-american-novels:
 - slug: madness-sanity-classic-literature
@@ -15838,11 +16407,11 @@ race-justice-american-novels:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: parents-children-classic-literature
+  title: Parents and Children in Classic Literature
+  url: /2015/02/24/parents-children-classic-literature/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
 gothic-elements-classic-novels:
 - slug: nature-vs-nurture-classic-novels
@@ -15913,11 +16482,11 @@ american-dream-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: complete-analysis-of-mice-and-men
+  title: Complete Analysis of Of Mice and Men
+  url: /2014/11/01/complete-analysis-of-mice-and-men/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
 revolution-rebellion-classic-novels:
 - slug: power-corruption-classic-literature
@@ -15963,11 +16532,11 @@ madness-sanity-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: social-class-classic-novels-compared
-  title: Social Class in Classic Novels Compared
-  url: /2015/01/20/social-class-classic-novels-compared/
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
   category: leisure
-  image: /assets/images/blog/blog-64.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
 nature-wilderness-classic-novels:
 - slug: nature-vs-nurture-classic-novels
@@ -15975,12 +16544,6 @@ nature-wilderness-classic-novels:
   url: /2015/01/30/nature-vs-nurture-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-65.webp
-  lang: en
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
   lang: en
 - slug: gothic-elements-classic-novels
   title: Gothic Elements in Classic Novels Compared
@@ -15993,6 +16556,12 @@ nature-wilderness-classic-novels:
   url: /2015/02/09/isolation-loneliness-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: love-obsession-classic-novels
+  title: Love and Obsession in Classic Novels
+  url: /2015/02/19/love-obsession-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
   lang: en
 fate-vs-free-will-classic-literature:
 - slug: parents-children-classic-literature
@@ -16007,17 +16576,17 @@ fate-vs-free-will-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: race-justice-american-novels
   title: Race and Justice in Classic American Novels
   url: /2015/03/01/race-justice-american-novels/
   category: leisure
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: social-class-classic-novels-compared
-  title: Social Class in Classic Novels Compared
-  url: /2015/01/20/social-class-classic-novels-compared/
-  category: leisure
-  image: /assets/images/blog/blog-64.webp
   lang: en
 top-25-classic-novels-must-read-list:
 - slug: how-to-write-literary-analysis-essay
@@ -17125,17 +17694,17 @@ abolition-slavery-history-timeline:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
+- slug: biggest-what-ifs-in-history
+  title: The Biggest What Ifs in History
+  url: /2016/08/22/biggest-what-ifs-in-history/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: women-who-changed-history
   title: Women Who Changed History
   url: /2016/08/07/women-who-changed-history/
   category: leisure
   image: /assets/images/blog/blog-88.webp
-  lang: en
-- slug: lessons-history-teaches-us-today
-  title: Lessons That History Teaches Us Today
-  url: /2016/08/27/lessons-history-teaches-us-today/
-  category: leisure
-  image: /assets/images/blog/blog-04.webp
   lang: en
 scramble-for-africa-colonialism:
 - slug: age-of-exploration-history-explained
@@ -18461,6 +19030,31 @@ yugoslav-wars-1990s-explained:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
+iranian-revolution-1979-explained:
+- slug: arab-spring-explained-complete
+  title: The Arab Spring Explained
+  url: /2016/06/18/arab-spring-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 falklands-war-1982-explained:
 - slug: korean-war-explained-complete
   title: The Korean War Explained
@@ -18537,6 +19131,12 @@ war-on-terror-explained-complete:
   image: /assets/images/blog/blog-12.webp
   lang: en
 arab-spring-explained-complete:
+- slug: iranian-revolution-1979-explained
+  title: The Iranian Revolution of 1979 Explained
+  url: /2016/05/29/iranian-revolution-1979-explained/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
+  lang: en
 - slug: greatest-revolutions-history-compared
   title: Greatest Revolutions in History Compared
   url: /2016/07/13/greatest-revolutions-history-compared/
@@ -18554,12 +19154,6 @@ arab-spring-explained-complete:
   url: /2015/09/07/french-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: industrial-revolution-explained
-  title: The Industrial Revolution Explained
-  url: /2015/09/17/industrial-revolution-explained/
-  category: leisure
-  image: /assets/images/blog/blog-80.webp
   lang: en
 european-union-formation-history:
 - slug: how-ww1-changed-the-world
@@ -18880,11 +19474,11 @@ women-who-changed-history:
   category: leisure
   image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: how-ww1-changed-the-world
-  title: How World War I Changed the World Forever
-  url: /2015/12/16/how-ww1-changed-the-world/
+- slug: biggest-what-ifs-in-history
+  title: The Biggest What Ifs in History
+  url: /2016/08/22/biggest-what-ifs-in-history/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 inventions-that-changed-the-world:
 - slug: how-ww1-changed-the-world
@@ -18930,11 +19524,11 @@ history-of-human-rights-explained:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
-- slug: lessons-history-teaches-us-today
-  title: Lessons That History Teaches Us Today
-  url: /2016/08/27/lessons-history-teaches-us-today/
+- slug: biggest-what-ifs-in-history
+  title: The Biggest What Ifs in History
+  url: /2016/08/22/biggest-what-ifs-in-history/
   category: leisure
-  image: /assets/images/blog/blog-04.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 - slug: meiji-restoration-japan-explained
   title: The Meiji Restoration in Japan Explained
@@ -18942,12 +19536,43 @@ history-of-human-rights-explained:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
+biggest-what-ifs-in-history:
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: lessons-history-teaches-us-today
+  title: Lessons That History Teaches Us Today
+  url: /2016/08/27/lessons-history-teaches-us-today/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 lessons-history-teaches-us-today:
 - slug: women-who-changed-history
   title: Women Who Changed History
   url: /2016/08/07/women-who-changed-history/
   category: leisure
   image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: biggest-what-ifs-in-history
+  title: The Biggest What Ifs in History
+  url: /2016/08/22/biggest-what-ifs-in-history/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
   lang: en
 - slug: how-pandemics-changed-history
   title: How Pandemics Changed History
@@ -18960,12 +19585,6 @@ lessons-history-teaches-us-today:
   url: /2016/08/12/inventions-that-changed-the-world/
   category: leisure
   image: /assets/images/blog/blog-74.webp
-  lang: en
-- slug: abolition-slavery-history-timeline
-  title: 'Abolition of Slavery: History and Timeline'
-  url: /2015/10/17/abolition-slavery-history-timeline/
-  category: leisure
-  image: /assets/images/blog/blog-62.webp
   lang: en
 drm-application-not-starting-up-duplicate-versions:
 - slug: drm-ebs-integration-unable-to-fetch-list-of-versions
@@ -23778,11 +24397,11 @@ psat-to-sat-preparation-pathway-guide:
   category: industry
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: sat-summer-preparation
-  title: 'SAT Summer Preparation: How to Use June Through August Effectively'
-  url: /1996/10/18/sat-summer-preparation/
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
   category: industry
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-47.webp
   lang: en
 sat-vs-gre-vs-gmat-understanding-us-standardized-tests:
 - slug: sat-winter-break-intensive
@@ -24159,11 +24778,11 @@ sat-khan-academy-complete-usage-guide:
   category: industry
   image: /assets/images/blog/blog-05.webp
   lang: en
-- slug: sat-rw-past-question-analysis
-  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
-  url: /1996/12/11/sat-rw-past-question-analysis/
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
   category: industry
-  image: /assets/images/blog/blog-37.webp
+  image: /assets/images/blog/blog-47.webp
   lang: en
 best-free-sat-preparation-resources:
 - slug: sat-score-prediction
@@ -24171,6 +24790,12 @@ best-free-sat-preparation-resources:
   url: /1996/11/10/sat-score-prediction/
   category: industry
   image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
   lang: en
 - slug: sat-12-week-beginner-plan
   title: SAT 12-Week Preparation Plan for Complete Beginners
@@ -24183,12 +24808,6 @@ best-free-sat-preparation-resources:
   url: /1996/10/18/sat-summer-preparation/
   category: industry
   image: /assets/images/blog/blog-05.webp
-  lang: en
-- slug: sat-math-preparation-complete-section-guide
-  title: 'SAT Math Preparation: Complete Section Guide'
-  url: /2021/05/10/sat-math-preparation-complete-section-guide/
-  category: industry
-  image: /assets/images/blog/blog-18.webp
   lang: en
 is-tcs-nqt-exam-free:
 - slug: tcs-nqt-registration-last-date
@@ -24216,6 +24835,12 @@ is-tcs-nqt-exam-free:
   image: /assets/images/blog/blog-08.webp
   lang: en
 sat-error-analysis-mistake-journal-guide:
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: sat-math-past-question-analysis
   title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
   url: /1997/04/21/sat-math-past-question-analysis/
@@ -24234,13 +24859,13 @@ sat-error-analysis-mistake-journal-guide:
   category: industry
   image: /assets/images/blog/blog-37.webp
   lang: en
-- slug: sat-cross-text-connections
-  title: 'SAT Reading: Cross-Text Connections and Paired Passage Analysis'
-  url: /1997/01/21/sat-cross-text-connections/
-  category: industry
-  image: /assets/images/blog/blog-32.webp
-  lang: en
 sat-practice-test-strategy-guide:
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: sat-math-past-question-analysis
   title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
   url: /1997/04/21/sat-math-past-question-analysis/
@@ -24259,13 +24884,19 @@ sat-practice-test-strategy-guide:
   category: industry
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: sat-rw-last-2-weeks-checklist
-  title: 'SAT RW: Last 2 Weeks Review Checklist'
-  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
-  category: industry
-  image: /assets/images/blog/blog-33.webp
-  lang: en
 sat-score-benchmarks-by-college-tier:
+- slug: sat-1100-1200-strategy
+  title: 'SAT for Scoring 1100-1200: The Solid Middle Strategy'
+  url: /1996/10/05/sat-1100-1200-strategy/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: sat-score-plateau-breakthrough
   title: 'SAT Score Plateaus: Why You''re Stuck and How to Break Through'
   url: /1996/10/09/sat-score-plateau-breakthrough/
@@ -24277,18 +24908,6 @@ sat-score-benchmarks-by-college-tier:
   url: /1996/11/10/sat-score-prediction/
   category: industry
   image: /assets/images/blog/blog-54.webp
-  lang: en
-- slug: sat-retake-strategy
-  title: 'SAT Retake Strategy: When to Retake, When to Stop, and How to Improve'
-  url: /1996/11/01/sat-retake-strategy/
-  category: industry
-  image: /assets/images/blog/blog-57.webp
-  lang: en
-- slug: sat-rw-hardest-question-types
-  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
-  url: /1997/01/25/sat-rw-hardest-question-types/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 is-tcs-nqt-easy:
 - slug: tcs-nqt-mock-strategy
@@ -24316,6 +24935,12 @@ is-tcs-nqt-easy:
   image: /assets/images/blog/blog-01.webp
   lang: en
 how-colleges-use-sat-scores-in-admissions:
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: sat-retake-strategy
   title: 'SAT Retake Strategy: When to Retake, When to Stop, and How to Improve'
   url: /1996/11/01/sat-retake-strategy/
@@ -24333,12 +24958,6 @@ how-colleges-use-sat-scores-in-admissions:
   url: /1996/10/09/sat-score-plateau-breakthrough/
   category: industry
   image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: sat-math-process-elimination-backsolving
-  title: 'SAT Math: How to Use Process of Elimination and Backsolving'
-  url: /1997/05/13/sat-math-process-elimination-backsolving/
-  category: industry
-  image: /assets/images/blog/blog-81.webp
   lang: en
 sat-optional-vs-required-colleges-guide:
 - slug: sat-retake-strategy
@@ -24366,6 +24985,18 @@ sat-optional-vs-required-colleges-guide:
   image: /assets/images/blog/blog-49.webp
   lang: en
 sat-scores-for-merit-scholarships:
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: sat-math-process-elimination-backsolving
+  title: 'SAT Math: How to Use Process of Elimination and Backsolving'
+  url: /1997/05/13/sat-math-process-elimination-backsolving/
+  category: industry
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 - slug: sat-retake-strategy
   title: 'SAT Retake Strategy: When to Retake, When to Stop, and How to Improve'
   url: /1996/11/01/sat-retake-strategy/
@@ -24377,18 +25008,6 @@ sat-scores-for-merit-scholarships:
   url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: sat-math-module-1-vs-2
-  title: 'SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works'
-  url: /1997/05/31/sat-math-module-1-vs-2/
-  category: industry
-  image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: sat-math-last-2-weeks-checklist
-  title: 'SAT Math: Last 2 Weeks Review Checklist'
-  url: /1997/04/16/sat-math-last-2-weeks-checklist/
-  category: industry
-  image: /assets/images/blog/blog-72.webp
   lang: en
 sat-scores-for-ivy-league-admission:
 - slug: sat-perfect-1600-strategy
@@ -24409,11 +25028,11 @@ sat-scores-for-ivy-league-admission:
   category: industry
   image: /assets/images/blog/blog-59.webp
   lang: en
-- slug: sat-math-hardest-question-types
-  title: 'SAT Math: The 15 Hardest Question Types and How to Solve Them'
-  url: /1997/05/22/sat-math-hardest-question-types/
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
   category: industry
-  image: /assets/images/blog/blog-58.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 interacting-with-enhanced-data-interpretations:
 - slug: tableau-certified-data-analyst-prep
@@ -24441,29 +25060,29 @@ interacting-with-enhanced-data-interpretations:
   image: /assets/images/blog/blog-81.webp
   lang: en
 sat-scores-required-top-50-us-universities:
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: sat-1100-1200-strategy
+  title: 'SAT for Scoring 1100-1200: The Solid Middle Strategy'
+  url: /1996/10/05/sat-1100-1200-strategy/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: sat-perfect-1600-strategy
   title: 'How to Get a Perfect 1600 on the SAT: What It Actually Takes'
   url: /1996/11/28/sat-perfect-1600-strategy/
   category: industry
   image: /assets/images/blog/blog-75.webp
   lang: en
-- slug: sat-score-plateau-breakthrough
-  title: 'SAT Score Plateaus: Why You''re Stuck and How to Break Through'
-  url: /1996/10/09/sat-score-plateau-breakthrough/
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
   category: industry
-  image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: sat-retake-strategy
-  title: 'SAT Retake Strategy: When to Retake, When to Stop, and How to Improve'
-  url: /1996/11/01/sat-retake-strategy/
-  category: industry
-  image: /assets/images/blog/blog-57.webp
-  lang: en
-- slug: sat-score-trends-2020-2026
-  title: 'SAT Score Trends 2020-2026: How Average Scores Changed'
-  url: /1996/11/14/sat-score-trends-2020-2026/
-  category: industry
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 sat-for-adult-non-traditional-test-takers:
 - slug: sat-score-prediction
@@ -24603,17 +25222,17 @@ sat-guide-for-korean-students:
   category: industry
   image: /assets/images/blog/blog-54.webp
   lang: en
+- slug: sat-1100-1200-strategy
+  title: 'SAT for Scoring 1100-1200: The Solid Middle Strategy'
+  url: /1996/10/05/sat-1100-1200-strategy/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: sat-exam-day-mistakes
   title: SAT Exam Day Mistakes That Cost Students 50+ Points
   url: /1996/11/05/sat-exam-day-mistakes/
   category: industry
   image: /assets/images/blog/blog-43.webp
-  lang: en
-- slug: sat-summer-preparation
-  title: 'SAT Summer Preparation: How to Use June Through August Effectively'
-  url: /1996/10/18/sat-summer-preparation/
-  category: industry
-  image: /assets/images/blog/blog-05.webp
   lang: en
 sat-guide-for-chinese-students:
 - slug: sat-math-for-students-who-hate-math
@@ -24653,17 +25272,17 @@ sat-preparation-guide-for-indian-students:
   category: industry
   image: /assets/images/blog/blog-54.webp
   lang: en
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: sat-rw-last-2-weeks-checklist
   title: 'SAT RW: Last 2 Weeks Review Checklist'
   url: /1996/12/07/sat-rw-last-2-weeks-checklist/
   category: industry
   image: /assets/images/blog/blog-33.webp
-  lang: en
-- slug: sat-rw-hardest-question-types
-  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
-  url: /1997/01/25/sat-rw-hardest-question-types/
-  category: industry
-  image: /assets/images/blog/blog-59.webp
   lang: en
 tcs-nqt-results-2022-date:
 - slug: tcs-nqt-results-2023
@@ -24697,12 +25316,6 @@ sat-preparation-for-international-students:
   category: industry
   image: /assets/images/blog/blog-43.webp
   lang: en
-- slug: sat-12-week-beginner-plan
-  title: SAT 12-Week Preparation Plan for Complete Beginners
-  url: /1996/10/23/sat-12-week-beginner-plan/
-  category: industry
-  image: /assets/images/blog/blog-89.webp
-  lang: en
 - slug: sat-summer-preparation
   title: 'SAT Summer Preparation: How to Use June Through August Effectively'
   url: /1996/10/18/sat-summer-preparation/
@@ -24715,7 +25328,19 @@ sat-preparation-for-international-students:
   category: industry
   image: /assets/images/blog/blog-54.webp
   lang: en
+- slug: sat-perfect-1600-strategy
+  title: 'How to Get a Perfect 1600 on the SAT: What It Actually Takes'
+  url: /1996/11/28/sat-perfect-1600-strategy/
+  category: industry
+  image: /assets/images/blog/blog-75.webp
+  lang: en
 sat-test-anxiety-management-guide:
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: sat-exam-day-mistakes
   title: SAT Exam Day Mistakes That Cost Students 50+ Points
   url: /1996/11/05/sat-exam-day-mistakes/
@@ -24733,12 +25358,6 @@ sat-test-anxiety-management-guide:
   url: /1997/02/21/sat-logical-comparisons-idioms/
   category: industry
   image: /assets/images/blog/blog-90.webp
-  lang: en
-- slug: sat-score-plateau-breakthrough
-  title: 'SAT Score Plateaus: Why You''re Stuck and How to Break Through'
-  url: /1996/10/09/sat-score-plateau-breakthrough/
-  category: industry
-  image: /assets/images/blog/blog-38.webp
   lang: en
 sat-accommodations-extended-time-guide:
 - slug: sat-transitions-mastery
@@ -24766,29 +25385,29 @@ sat-accommodations-extended-time-guide:
   image: /assets/images/blog/blog-60.webp
   lang: en
 sat-score-reporting-superscoring-guide:
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: sat-score-plateau-breakthrough
   title: 'SAT Score Plateaus: Why You''re Stuck and How to Break Through'
   url: /1996/10/09/sat-score-plateau-breakthrough/
   category: industry
   image: /assets/images/blog/blog-38.webp
   lang: en
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: sat-score-trends-2020-2026
   title: 'SAT Score Trends 2020-2026: How Average Scores Changed'
   url: /1996/11/14/sat-score-trends-2020-2026/
   category: industry
   image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: sat-math-module-1-vs-2
-  title: 'SAT Math Module 1 vs Module 2: How Adaptive Difficulty Works'
-  url: /1997/05/31/sat-math-module-1-vs-2/
-  category: industry
-  image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: sat-800-to-1000-strategy
-  title: 'How to Go from 800 to 1000 on the SAT: Beginner''s Breakthrough'
-  url: /1996/11/19/sat-800-to-1000-strategy/
-  category: industry
-  image: /assets/images/blog/blog-72.webp
   lang: en
 can-i-appear-in-tcs-nqt:
 - slug: tcs-nqt-eligibility
@@ -24859,11 +25478,11 @@ sat-test-day-complete-guide:
   category: industry
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: sat-reading-science-passages
-  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
-  url: /1997/04/12/sat-reading-science-passages/
+- slug: sat-rw-hardest-question-types
+  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
+  url: /1997/01/25/sat-rw-hardest-question-types/
   category: industry
-  image: /assets/images/blog/blog-10.webp
+  image: /assets/images/blog/blog-59.webp
   lang: en
 catch-22-paradigms:
 - slug: whole-to-part-panorama
@@ -24891,6 +25510,12 @@ catch-22-paradigms:
   image: /assets/images/blog/blog-57.webp
   lang: en
 sat-vs-act-which-test-should-you-take:
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: sat-math-exponential-functions
   title: 'SAT Math: Exponential Functions, Growth and Decay'
   url: /1997/08/25/sat-math-exponential-functions/
@@ -24909,36 +25534,30 @@ sat-vs-act-which-test-should-you-take:
   category: industry
   image: /assets/images/blog/blog-71.webp
   lang: en
-- slug: sat-logical-comparisons-idioms
-  title: 'SAT Writing: Logical Comparisons and Idiomatic Expressions'
-  url: /1997/02/21/sat-logical-comparisons-idioms/
-  category: industry
-  image: /assets/images/blog/blog-90.webp
-  lang: en
 sat-bluebook-app-complete-guide:
+- slug: sat-practice-test-analysis
+  title: 'SAT Practice Test Analysis: How to Review a Full Practice Test Properly'
+  url: /1996/09/26/sat-practice-test-analysis/
+  category: industry
+  image: /assets/images/blog/blog-47.webp
+  lang: en
 - slug: sat-craft-structure-questions
   title: 'SAT Craft and Structure: Purpose and Text Analysis'
   url: /1997/03/16/sat-craft-structure-questions/
   category: industry
   image: /assets/images/blog/blog-05.webp
   lang: en
+- slug: sat-rw-hardest-question-types
+  title: 'SAT RW: The 15 Hardest Question Types and Solutions'
+  url: /1997/01/25/sat-rw-hardest-question-types/
+  category: industry
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 - slug: sat-math-equivalent-expressions
   title: 'SAT Math: Equivalent Expressions and Simplification'
   url: /1997/06/23/sat-math-equivalent-expressions/
   category: industry
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: sat-rw-last-2-weeks-checklist
-  title: 'SAT RW: Last 2 Weeks Review Checklist'
-  url: /1996/12/07/sat-rw-last-2-weeks-checklist/
-  category: industry
-  image: /assets/images/blog/blog-33.webp
-  lang: en
-- slug: sat-math-exponential-functions
-  title: 'SAT Math: Exponential Functions, Growth and Decay'
-  url: /1997/08/25/sat-math-exponential-functions/
-  category: industry
-  image: /assets/images/blog/blog-31.webp
   lang: en
 sat-adaptive-module-strategy:
 - slug: sat-rw-module-strategy
@@ -24997,6 +25616,12 @@ how-many-times-should-you-take-the-sat:
   category: industry
   image: /assets/images/blog/blog-57.webp
   lang: en
+- slug: sat-1100-1200-strategy
+  title: 'SAT for Scoring 1100-1200: The Solid Middle Strategy'
+  url: /1996/10/05/sat-1100-1200-strategy/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: sat-math-last-2-weeks-checklist
   title: 'SAT Math: Last 2 Weeks Review Checklist'
   url: /1997/04/16/sat-math-last-2-weeks-checklist/
@@ -25008,12 +25633,6 @@ how-many-times-should-you-take-the-sat:
   url: /1997/04/12/sat-reading-science-passages/
   category: industry
   image: /assets/images/blog/blog-10.webp
-  lang: en
-- slug: sat-score-plateau-breakthrough
-  title: 'SAT Score Plateaus: Why You''re Stuck and How to Break Through'
-  url: /1996/10/09/sat-score-plateau-breakthrough/
-  category: industry
-  image: /assets/images/blog/blog-38.webp
   lang: en
 sat-study-schedule-for-busy-students:
 - slug: sat-summer-preparation
@@ -25097,25 +25716,31 @@ sat-3-month-preparation-plan:
   category: industry
   image: /assets/images/blog/blog-77.webp
   lang: en
+- slug: sat-summer-preparation
+  title: 'SAT Summer Preparation: How to Use June Through August Effectively'
+  url: /1996/10/18/sat-summer-preparation/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: sat-math-past-question-analysis
   title: 'SAT Math: Past Question Pattern Analysis 2023-2026'
   url: /1997/04/21/sat-math-past-question-analysis/
   category: industry
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: sat-rw-past-question-analysis
-  title: 'SAT RW: Past Question Pattern Analysis 2023-2026'
-  url: /1996/12/11/sat-rw-past-question-analysis/
-  category: industry
-  image: /assets/images/blog/blog-37.webp
-  lang: en
-- slug: sat-2-week-emergency-plan
-  title: 'SAT Last 2 Weeks Emergency Plan: Maximum Points in Minimum Time'
-  url: /1996/10/27/sat-2-week-emergency-plan/
-  category: industry
-  image: /assets/images/blog/blog-68.webp
-  lang: en
 sat-6-month-preparation-plan:
+- slug: sat-summer-preparation
+  title: 'SAT Summer Preparation: How to Use June Through August Effectively'
+  url: /1996/10/18/sat-summer-preparation/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 - slug: sat-winter-break-intensive
   title: 'SAT Winter Break Intensive: Making the Most of December and January'
   url: /1996/10/14/sat-winter-break-intensive/
@@ -25134,12 +25759,6 @@ sat-6-month-preparation-plan:
   category: industry
   image: /assets/images/blog/blog-37.webp
   lang: en
-- slug: sat-2-week-emergency-plan
-  title: 'SAT Last 2 Weeks Emergency Plan: Maximum Points in Minimum Time'
-  url: /1996/10/27/sat-2-week-emergency-plan/
-  category: industry
-  image: /assets/images/blog/blog-68.webp
-  lang: en
 how-to-improve-sat-reading-writing-score:
 - slug: sat-reading-speed-strategy
   title: 'SAT Reading Speed: How to Read Faster Without Losing Accuracy'
@@ -25153,17 +25772,17 @@ how-to-improve-sat-reading-writing-score:
   category: industry
   image: /assets/images/blog/blog-34.webp
   lang: en
+- slug: sat-reading-science-passages
+  title: 'SAT Reading: Science Passages Strategy and Common Question Patterns'
+  url: /1997/04/12/sat-reading-science-passages/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 - slug: sat-rw-module-strategy
   title: 'SAT Reading and Writing Module 1 vs Module 2: Adaptive Strategy'
   url: /1997/02/08/sat-rw-module-strategy/
   category: industry
   image: /assets/images/blog/blog-24.webp
-  lang: en
-- slug: sat-rw-common-mistakes
-  title: 'SAT RW Common Mistakes: The Errors That Cost 50+ Points'
-  url: /1996/12/16/sat-rw-common-mistakes/
-  category: industry
-  image: /assets/images/blog/blog-12.webp
   lang: en
 - slug: sat-poetry-verse-strategy
   title: 'SAT Reading: Poetry and Verse Excerpts on the Digital SAT'
@@ -25227,6 +25846,12 @@ how-to-improve-sat-math-score-by-100-points:
   category: industry
   image: /assets/images/blog/blog-02.webp
   lang: en
+- slug: sat-math-preparation-complete-section-guide
+  title: 'SAT Math Preparation: Complete Section Guide'
+  url: /2021/05/10/sat-math-preparation-complete-section-guide/
+  category: industry
+  image: /assets/images/blog/blog-18.webp
+  lang: en
 how-to-go-from-1200-to-1400-on-sat:
 - slug: sat-1400-to-1500-strategy
   title: 'How to Go from 1400 to 1500 on the SAT: Closing the Gap'
@@ -25265,17 +25890,17 @@ how-to-go-from-1000-to-1200-on-sat:
   category: industry
   image: /assets/images/blog/blog-38.webp
   lang: en
+- slug: sat-section-score-balance
+  title: 'SAT Section Score Balance: When Math and RW Are Uneven'
+  url: /1996/09/21/sat-section-score-balance/
+  category: industry
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: sat-1400-to-1500-strategy
   title: 'How to Go from 1400 to 1500 on the SAT: Closing the Gap'
   url: /1996/11/23/sat-1400-to-1500-strategy/
   category: industry
   image: /assets/images/blog/blog-13.webp
-  lang: en
-- slug: sat-perfect-1600-strategy
-  title: 'How to Get a Perfect 1600 on the SAT: What It Actually Takes'
-  url: /1996/11/28/sat-perfect-1600-strategy/
-  category: industry
-  image: /assets/images/blog/blog-75.webp
   lang: en
 the-elusive-paradox:
 - slug: whole-to-part-panorama
@@ -25309,6 +25934,12 @@ how-to-score-1500-plus-on-sat:
   category: industry
   image: /assets/images/blog/blog-13.webp
   lang: en
+- slug: sat-1300-strategy
+  title: 'SAT for Scoring 1300: The Competitive Sweet Spot'
+  url: /1996/09/30/sat-1300-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: sat-perfect-1600-strategy
   title: 'How to Get a Perfect 1600 on the SAT: What It Actually Takes'
   url: /1996/11/28/sat-perfect-1600-strategy/
@@ -25320,12 +25951,6 @@ how-to-score-1500-plus-on-sat:
   url: /1997/06/27/sat-math-word-problem-translation/
   category: industry
   image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: sat-reading-history-passages
-  title: 'SAT Reading: History and Social Science Passages Strategy'
-  url: /1997/04/07/sat-reading-history-passages/
-  category: industry
-  image: /assets/images/blog/blog-72.webp
   lang: en
 sat-expression-of-ideas-complete-guide:
 - slug: sat-transitions-mastery
@@ -25578,12 +26203,6 @@ sat-algebra-domain-complete-guide:
   image: /assets/images/blog/blog-31.webp
   lang: en
 sat-reading-and-writing-preparation-complete-guide:
-- slug: sat-reading-passage-types-evidence-questions-guide
-  title: 'SAT Reading Passage Types: Literature, Science, and History Strategies'
-  url: /2020/03/04/sat-reading-passage-types-evidence-questions-guide/
-  category: industry
-  image: /assets/images/blog/blog-63.webp
-  lang: en
 - slug: sat-grammar-rules-complete-guide
   title: 'SAT Grammar Rules: Every Rule Tested on the Digital SAT'
   url: /2021/03/23/sat-grammar-rules-complete-guide/
@@ -25601,6 +26220,12 @@ sat-reading-and-writing-preparation-complete-guide:
   url: /1997/03/11/sat-grammar-conventions-complete/
   category: industry
   image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: sat-inference-implication
+  title: 'SAT Reading: Inference and Implication Questions'
+  url: /1997/01/12/sat-inference-implication/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
   lang: en
 infosys-to-product-company-gcc:
 - slug: infosys-to-product-company-gcc-switch-guide
@@ -33920,17 +34545,17 @@ the-alchemist-alternate-endings:
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: jay-gatsby-character-analysis
   title: Jay Gatsby Character Analysis
   url: /2014/01/15/jay-gatsby-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: piggy-character-analysis-lord-flies
-  title: Piggy Character Analysis in Lord of the Flies
-  url: /2014/05/10/piggy-character-analysis-lord-flies/
-  category: leisure
-  image: /assets/images/blog/blog-38.webp
   lang: en
 gaokao-classical-chinese-wenyanwen:
 - slug: gaokao-exam-pattern-format

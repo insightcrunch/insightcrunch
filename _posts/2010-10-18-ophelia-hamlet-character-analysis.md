@@ -9,7 +9,7 @@ excerpt: "Complete study of Ophelia in Hamlet - obedience, heartbreak, manipulat
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 59
 author: "elena-wright"
-last_updated: 2010-10-18
+last_updated: 2026-04-15
 lang: en
 ---
 Consider what it truly means to be Ophelia. Every single person who holds authority over you, your father, your brother, the prince you love, and the king who rules your world, tells you something different about who you are and what you should do. Your father commands you to refuse the prince's letters and reject his company. Your brother warns you that the prince's love is a passing fancy, a violet in the youth of primy nature, not permanent, not sweet, not lasting. The prince himself alternates between passionate declarations of devotion and savage denials that he ever loved you at all, then tells you to enter a convent in a speech that cannot be separated from the performance he may or may not be staging for the hidden watchers behind the curtain. The king deploys you as bait in a surveillance operation. Your world consists entirely of men who use you, and not one of them asks what you want, what you think, or what you feel. When you finally break, when the slowly accumulated weight of obedience, manipulation, grief, and silencing becomes more than any ordinary human mind can bear, your madness is not a collapse into irrationality. It is the first time in your life that you speak without permission.

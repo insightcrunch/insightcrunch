@@ -9,7 +9,7 @@ excerpt: "Deep analysis of Gertrude in Hamlet - her remarriage, relationship wit
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 59
 author: "lauren-hayes"
-last_updated: 2010-10-12
+last_updated: 2026-04-15
 lang: en
 ---
 She speaks fewer than two hundred lines in a tragedy of over four thousand, yet no figure in the drama generates more interpretive controversy than Gertrude. She is the woman at the center of every male crisis in the work: the wife whose remarriage torments her son, the queen whose loyalty is claimed by two rival kings, the mother whose sexuality becomes a battleground for theological, psychological, and moral arguments that have raged for four centuries. And through it all, she says remarkably little. Her reticence is the single most important fact about her characterization, and it is the feature that makes her, paradoxically, one of Shakespeare's most fascinating creations. Where other figures in the drama reveal themselves through torrents of language, Gertrude conceals herself through silence, and the question of what that silence contains, whether it hides guilt, ignorance, wisdom, complicity, or a survival intelligence too shrewd to announce itself in a court full of surveillance and danger, is the question that every reader, director, and performer must confront.
