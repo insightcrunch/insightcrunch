@@ -8,7 +8,7 @@ tags: ["fahrenheit-451", "ray-bradbury", "guy-montag", "character-analysis", "li
 excerpt: "Deep analysis of Guy Montag - his awakening, transformation from book-burner to book-preserver, and escape."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-11-21
 lang: en
 ---

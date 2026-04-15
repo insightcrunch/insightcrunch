@@ -8,7 +8,7 @@ tags: ["fahrenheit-451", "ray-bradbury", "novel-analysis", "literary-analysis", 
 excerpt: "The definitive analysis of Fahrenheit 451 - censorship, technology, conformity, and Bradbury's burning vision."
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2014-11-16
 lang: en
 ---
