@@ -6,12 +6,12 @@ date: 1996-09-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Score Balance", "Section Scores", "Improvement"]
 excerpt: "A 700 Math and 550 RW produces the same 1250 composite as a 650 Math and 600 RW - but one of these students has a clearly better path to 1350 than the other. Here is how to make the allocation decision that produces the fastest composite improvement."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1996-09-21
+lang: en
 ---
-
 An uneven section score profile is one of the most common SAT situations students face, and also one of the most strategically mismanaged. Students who score 700 Math and 550 RW often instinctively continue focusing on Math because it is their strength - it feels productive to work in a domain where success comes relatively easily. Students who score 580 Math and 700 RW continue practicing reading passages because their verbal instincts are strong. In both cases, the student is optimizing for comfort rather than composite improvement, and the result is preparation that produces less score gain per hour than the alternative allocation would.
 
 The core principle of section score balance strategy is straightforward: improving your weaker section is almost always higher return on investment than pushing your stronger section further at the same preparation intensity. This principle applies even when the weaker section is the one you find more difficult, less enjoyable, and less immediately responsive to preparation. Difficulty and lack of enjoyment are the signals that the section has more improvement potential - not reasons to avoid it.
@@ -26,7 +26,7 @@ The framework applies regardless of the specific section scores or the composite
 
 For the foundational practice test analysis system that generates the section-level data this guide uses, the [SAT practice test analysis guide](/1996/09/26/sat-practice-test-analysis/) provides the nine-step methodology. This guide assumes you have section scores and category-level error data from recent practice tests and focuses on the strategic allocation decision that data should drive. For the complete Math section preparation system, the [SAT Math preparation guide](/2021/05/10/sat-math-preparation-complete-section-guide/) provides the foundational category framework. For the complete RW section preparation system, the [SAT Reading and Writing preparation guide](/2021/05/02/sat-reading-and-writing-preparation-complete-guide/) provides the equivalent framework for the verbal section.
 
-![SAT Section Score Balance: When Math and RW Are Uneven](/assets/images/blog/blog-01.webp)
+![SAT Section Score Balance: When Math and RW Are Uneven](/assets/images/blog/blog-62.webp)
 
 ## The ROI Asymmetry: Why the Weaker Section Almost Always Wins
 

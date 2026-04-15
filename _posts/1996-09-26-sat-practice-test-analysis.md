@@ -6,12 +6,12 @@ date: 1996-09-26
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Practice Test", "Error Analysis", "Review"]
 excerpt: "Taking a practice test is not preparation. Reviewing it systematically is. Most students use practice tests as score measurements. Top scorers use them as diagnostic tools. Here is the complete system."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1996-09-26
+lang: en
 ---
-
 Most students use SAT practice tests the wrong way. They take the test, check their score, feel satisfied or disappointed, and move on to the next test. Some repeat this cycle five, six, or ten times and improve modestly. A few discover that the test itself is not the preparation - the systematic review of the test is. These students improve two to three times faster per practice test than students who simply accumulate test volume without structured analysis.
 
 The reason the review generates more improvement than the test itself is not complicated: the practice test generates diagnostic data, and the review extracts that data and converts it into targeted preparation. A practice test without review is a score measurement. A practice test with structured review is a precision roadmap for the next two weeks of preparation. The difference in improvement rate between these two approaches is large and consistent.
@@ -28,7 +28,7 @@ This closed loop is what distinguishes systematic preparation from casual prepar
 
 For the deeper treatment of how to categorize individual error types, the [SAT wrong answer analysis guide](/1996/09/17/sat-wrong-answer-analysis/) provides the full error taxonomy framework that this guide's nine-stage system draws on. For the specific Math question patterns that appear most frequently in practice tests, the [SAT Math past question pattern analysis](/1997/04/21/sat-math-past-question-analysis/) and the [SAT RW past question pattern analysis](/1996/12/11/sat-rw-past-question-analysis/) identify the recurring question structures that the error analysis will most often encounter. This guide and those three guides together form a complete preparation analysis toolkit - this guide provides the system, the wrong answer analysis provides the categorization framework, and the question pattern guides provide the context that makes the categorization more efficient by identifying the most commonly recurring error sources.
 
-![SAT Practice Test Analysis: How to Review a Full Practice Test Properly](/assets/images/blog/blog-15.webp)
+![SAT Practice Test Analysis: How to Review a Full Practice Test Properly](/assets/images/blog/blog-47.webp)
 
 ## Why the Review Matters More Than the Test
 
