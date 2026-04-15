@@ -6,17 +6,17 @@ date: 2002-08-29
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Essay Paper", "Essay Writing", "IAS Preparation"]
 excerpt: "UPSC Mains essay paper complete strategy: structure brainstorming scoring techniques essay as great equalizer for 150 plus marks."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 65
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-08-29
+lang: en
 ---
-
 UPSC Mains essay paper is the great equalizer in the civil services examination because it carries 250 marks (the same weight as each GS paper) yet receives disproportionately less dedicated preparation from most aspirants who treat essay writing as supplementary activity rather than systematic preparation domain producing 40 to 60 marks differential between aspirants who prepare essay systematically and aspirants who rely on general writing ability alone. The essay paper requires two essays of 1000 to 1200 words each from two separate sections (Section A typically covering philosophical social and abstract topics and Section B typically covering contemporary policy governance and current affairs topics) with each essay carrying 125 marks. The aspirants who write structured multi-dimensional essays with clear thesis substantive analytical depth diverse examples and compelling conclusions consistently score 130 to 160 marks while aspirants who write unstructured rambling essays with vague thesis shallow analysis limited examples and weak conclusions score 80 to 110 marks. The 40 to 60 marks differential at this scale substantially affects final ranks across the intense competition. This UPSC Mains essay paper strategy guide is built around systematic preparation producing consistent 150 plus marks through structured approach to brainstorming essay architecture dimensional analysis and scoring technique.
 
 The cognitive shift required is from treating essays as creative expression exercises to treating them as structured analytical compositions requiring systematic multi-dimensional engagement with specific topic within word constraints. The aspirant who reads essay topic and begins writing immediately without systematic brainstorming without thesis formulation without dimensional mapping and without structural planning produces rambling compositions that lack analytical coherence. The aspirant who reads essay topic and deploys systematic 15-minute brainstorming process formulates clear thesis maps multiple analytical dimensions plans structural architecture and then executes disciplined composition produces analytically coherent essays that consistently score in the 60 to 80 range per essay (120 to 160 total). Both aspirants may have similar general knowledge; only one deploys it through systematic analytical framework.
 
-![UPSC Mains Essay Paper Strategy for 150 Plus - Insight Crunch](/assets/images/blog/blog-14.webp)
+![UPSC Mains Essay Paper Strategy for 150 Plus - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 By the end of this guide you will understand why the essay paper is the great equalizer, the 1000-1200 word target and its implications, the essay structure architecture (introduction body with multiple dimensions conclusion), the 15-minute brainstorming method, the multi-dimensional body paragraph approach, the introduction and conclusion techniques, the scoring strategy for consistent 150 plus, the topic selection strategy between Section A and Section B, the common mistakes that produce essay underperformance, the source hierarchy for systematic preparation, and the integration with broader Mains preparation. The total time investment for dedicated essay preparation across the cycle is approximately 60 to 80 hours including 20 to 30 practice essays with structured self-review. The broader integration with Mains preparation is contextualised in the [UPSC Mains complete guide to all 4 GS papers and essay](/2002/12/11/upsc-mains-complete-guide/) article which positions essay preparation within comprehensive Mains architecture.
 
