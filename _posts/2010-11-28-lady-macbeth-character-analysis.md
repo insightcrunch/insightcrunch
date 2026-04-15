@@ -6,15 +6,15 @@ date: 2010-11-28
 categories: ["Leisure"]
 tags: ["shakespeare", "macbeth", "lady-macbeth", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Complete study of Lady Macbeth - her willed self-transformation, the persuasion of her husband, the sleepwalking scene, and psychological collapse."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2010-11-28
+lang: en
 ---
-
 She enters the play reading a letter from her partner and is instantly the most rhetorically powerful figure on the stage, calling on the spirits to unsex her, to fill her from crown to toe topful of direst cruelty, to take her milk for gall, to convert what is feminine in her into something serviceable for the murder she has already calculated must occur, and within four short acts she has helped plan a regicide, framed two innocent grooms with the bloody daggers her partner could not return, hosted a state banquet through her partner's hallucinatory collapse, and been reduced to a sleepwalking specter washing her hands of imagined blood that will not come off, before her death is reported to her partner in the bare terms of her absence and produces from him not grief but the most concentrated declaration of nihilism in the canon. The arc from the unsexing soliloquy to the sleepwalking scene is the most psychologically detailed study of a willed transformation of self and the eventual return of the suppressed conscience that the dramatic literature has produced.
 
-![the queen Character Analysis in Shakespeare's Tragedy](/assets/images/blog/blog-12.webp)
+![the queen Character Analysis in Shakespeare's Tragedy](/assets/images/blog/blog-88.webp)
 
 <!--more-->
 

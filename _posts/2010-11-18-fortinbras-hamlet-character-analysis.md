@@ -6,15 +6,15 @@ date: 2010-11-18
 categories: ["Leisure"]
 tags: ["shakespeare", "hamlet", "fortinbras", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Complete study of Fortinbras in Hamlet - the young prince, his decisive martial action, structural counterweight role, and inheritance of Denmark."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2010-11-18
+lang: en
 ---
-
 He is named in the work's first scene before he ever appears, discussed in geogovernmental terms as a young hothead raising irregular forces on the Norwegian frontier, mentioned again in the second act when Claudius dispatches diplomats to his uncle the Norwegian king, glimpsed only briefly in the fourth act as he marches an army across Danish territory toward a worthless patch of Polish ground, and finally arrives in the closing minutes to inherit a kingdom littered with the corpses of its entire ruling family. Yet despite his minimal stage presence, Fortinbras is the structural counterweight on which the entire moral economy of the work depends, the silent comparison against which every choice Hamlet makes is measured, and the ironic legatee whose inheritance forces the audience to ask what the long catastrophe was actually for.
 
-![Fortinbras in Shakespeare's Hamlet Character Analysis](/assets/images/blog/blog-10.webp)
+![Fortinbras in Shakespeare's Hamlet Character Analysis](/assets/images/blog/blog-46.webp)
 
 <!--more-->
 
@@ -247,7 +247,6 @@ The fifth aspect of the closing authority involves the language Fortinbras uses 
 The sixth aspect involves the dying voice that he claims as endorsement. Hamlet's deathbed designation of him as successor is presented as a key foundation for his accession, but the legal status of such a designation is questionable. Dying men do not normally have the authority to designate successors to thrones they themselves have not legitimately held. Hamlet was never crowned, never recognized as king, never possessed the authority that would allow him to bestow the throne on another. Yet the dying voice is treated by the work as a sufficient endorsement, and the audience is expected to accept the treatment. This acceptance illustrates how the work substitutes dramatic conviction for legal argument when the two diverge.
 
 Throughout these sequences, the seventh aspect involves the rhetoric of sorrow. Fortinbras embraces his fortune with sorrow, he tells the assembled witnesses, framing his accession as an unwanted obligation rather than a desired prize. The framing is politically astute. A successor who openly delights in inheriting a throne over the corpses of the previous family looks predatory. A successor who accepts the throne with reluctance looks dignified. The rhetoric of sorrow is therefore essential to making the accession feel legitimate, and Fortinbras understands this requirement perfectly. His sorrow may or may not be genuine, but the expression of sorrow is what allows the audience to accept his accession as succession rather than as opportunism.
-
 
 
 ### Q: Who is Fortinbras and what is his role in Hamlet?
