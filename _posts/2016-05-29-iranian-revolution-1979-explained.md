@@ -6,19 +6,19 @@ date: 2016-05-29
 categories: ["Leisure"]
 tags: ["iranian-revolution", "1979", "iran", "middle-east", "world-history"]
 excerpt: "The Iranian Revolution explained - the Shah's fall, Khomeini's rise, and the creation of an Islamic Republic."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-05-29
+lang: en
 ---
-
 On January 16, 1979, Mohammad Reza Shah Pahlavi, the last Shah of Iran, departed Tehran's Mehrabad airport carrying a container of Iranian soil. He had told his closest advisors he was leaving for a "vacation." He never returned. Behind him, the country he had ruled for thirty-seven years was convulsing with the largest revolutionary movement in modern history. Ahead of him were years of exile, medical treatment, and eventually death in Egypt in 1980, without the restoration to power that he and American officials had intermittently hoped might be engineered.
 
 <!--more-->
 
 The revolution that drove out the Shah and installed the world's first modern theocracy was not a single event but a year-long revolutionary process whose outcome surprised virtually every participant and observer. Iran in 1979 had a sophisticated urban middle class, a significant secular left, a bazaar merchant class, a clerical establishment, and a mass of impoverished rural migrants who had poured into the cities during the Shah's oil-funded modernisation drive. What united this enormously diverse coalition was opposition to the Shah's authoritarian government, the SAVAK secret police's brutality, and the cultural alienation that the Shah's Westernisation programme had produced. What divided it was everything else: the secular left wanted democracy and socialism, the merchants wanted free enterprise, the liberals wanted constitutional government, and only the clerics under Ayatollah Ruhollah Khomeini wanted what the revolution actually produced.
 
-![The Iranian Revolution of 1979 Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![The Iranian Revolution of 1979 Explained - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The Iranian Revolution was one of the most consequential political events of the twentieth century's second half. It ended sixty years of Pahlavi dynasty rule, transformed the Middle East's political landscape, produced the hostage crisis that defined a presidency, enabled the Iran-Iraq War that killed approximately one million people, created the theocratic model that other Islamist movements have studied and partially emulated, and established the adversarial relationship between Iran and the United States that has defined one of the world's most volatile regions for more than four decades. To [trace the arc from the Shah's 1953 restoration through the revolution to the Islamic Republic's consolidation](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the twentieth century's most important political transformations and one of its most consequential American foreign policy failures.
 

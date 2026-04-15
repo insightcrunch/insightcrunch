@@ -6,19 +6,19 @@ date: 2016-08-22
 categories: ["Leisure"]
 tags: ["alternate-history", "what-if", "world-history", "counterfactual", "historical-analysis"]
 excerpt: "The biggest what ifs in history - alternate scenarios that reveal how fragile the path of history really is."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-08-22
+lang: en
 ---
-
 In July 1944, a German army officer named Claus von Stauffenberg placed a briefcase bomb beneath the conference table at Hitler's Wolf's Lair headquarters in East Prussia. The bomb exploded. The conference table's thick oak leg deflected most of the blast from Hitler, who survived with a perforated eardrum and minor burns. Twenty people were injured; four died. Stauffenberg was executed that night. The war continued for another nine months, killing millions more. If the briefcase had been positioned a few inches differently, or if the meeting had taken place in the concrete bunker originally planned rather than the above-ground conference room whose open windows dissipated the blast, Hitler would have died in July 1944 and the war's final chapter would have been entirely different.
 
 <!--more-->
 
 The study of historical contingency - of what might have happened if a single detail had changed - is one of the most intellectually productive ways of understanding how the present world came to be. It reveals the degree to which the course of history was not predetermined but genuinely contingent on the choices of individuals, the accidents, of weather and geography, and the countless small decisions whose cumulative effects produced the world as it is. Every major historical outcome that seems inevitable in retrospect was, at the time, far from inevitable, and understanding the alternatives that were genuinely possible illuminates both the forces that produced the actual outcome and the nature of historical causation itself.
 
-![The Biggest What Ifs in History - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The Biggest What Ifs in History - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Counterfactual history - the systematic exploration of alternative historical paths - is not merely idle speculation. Historians from Niall Ferguson to E.P. Thompson have argued that understanding what did not happen is essential to understanding what did, because the explanations we give for historical outcomes must be able to account for why the alternatives did not occur. To [trace the most consequential contingent moments in history](https://reportmedic.org/tools/world-history-timeline.html) is to discover how thin the thread is by which the present hangs from the past, and how different our world might have been.
 
