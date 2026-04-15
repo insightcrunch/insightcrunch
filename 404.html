@@ -1,0 +1,289 @@
+---
+layout: none
+permalink: /404.html
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Page Not Found - Insight Crunch</title>
+<link rel="canonical" href="{{ '/404.html' | absolute_url }}">
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Inter:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f5f0e8;--s1:#fdfaf5;--s2:#ede8de;--ink:#1a1208;--mid:#3e3020;--soft:#9a8870;--rule:#ddd0b8;--rule2:#e8e0cc;--esp:#1e1008;--esp2:#281808;--amber:#b06010;--amber-lt:#d07820;--amber-bg:#fdf6e8;--amber-bd:#e8cc90}
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+html{font-size:15px;scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font-family:'Inter',sans-serif;font-weight:300;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;overflow-x:hidden;padding:30px 20px 80px;line-height:1.6}
+body::before{content:'';position:fixed;inset:0;background:radial-gradient(ellipse 700px 500px at 0% 0%,rgba(176,96,16,.05),transparent 60%),radial-gradient(ellipse 600px 500px at 100% 100%,rgba(30,16,8,.06),transparent 60%);pointer-events:none}
+
+.content{text-align:center;position:relative;z-index:1;max-width:520px;width:100%}
+.four-oh-four{font-family:'Lora',serif;font-size:72px;font-weight:400;font-style:italic;color:var(--amber);line-height:1;margin-bottom:6px;text-shadow:0 2px 20px rgba(176,96,16,.15)}
+.ornament{display:flex;align-items:center;justify-content:center;margin-bottom:18px}
+.ornament-line{height:1px;width:80px;background:linear-gradient(90deg,transparent,var(--amber-bd))}
+.ornament-line:last-child{background:linear-gradient(90deg,var(--amber-bd),transparent)}
+.ornament-diamond{color:var(--amber);font-size:12px;padding:0 10px;line-height:1}
+.subtitle{font-family:'Lora',serif;font-size:18px;font-style:italic;color:var(--mid);margin-bottom:8px;font-weight:400}
+.desc{font-size:13px;color:var(--soft);line-height:1.7;margin-bottom:24px}
+
+.search-box{position:relative;margin-bottom:28px}
+.search-box input{width:100%;padding:12px 44px 12px 16px;border:1.5px solid var(--rule);border-radius:8px;font-family:'Inter',sans-serif;font-size:13px;background:var(--s1);color:var(--ink);outline:none;transition:border-color .2s,box-shadow .2s}
+.search-box input::placeholder{color:var(--soft);font-weight:300}
+.search-box input:focus{border-color:var(--amber);box-shadow:0 0 0 3px rgba(176,96,16,.08)}
+.search-icon{position:absolute;right:14px;top:50%;transform:translateY(-50%);width:18px;height:18px;stroke:var(--soft);fill:none;stroke-width:2;stroke-linecap:round;pointer-events:none}
+
+.popular-label{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--soft);font-weight:600;margin-bottom:10px}
+.post-cards{display:flex;flex-direction:column;gap:6px;margin-bottom:24px}
+.post-card{border:1px solid var(--rule2);border-radius:7px;padding:11px 14px;background:var(--s1);text-align:left;cursor:pointer;transition:all .2s;text-decoration:none;display:block}
+.post-card:hover{border-color:var(--amber-bd);box-shadow:0 4px 16px rgba(176,96,16,.08);transform:translateY(-1px)}
+.post-card:hover .pc-title{color:var(--amber)}
+.pc-row{display:flex;align-items:center;gap:8px;margin-bottom:3px}
+.pc-tag{padding:2px 8px;border-radius:4px;font-size:9px;font-weight:600;letter-spacing:.2px}
+.pc-tag-technology{background:#eef2fc;color:#1a3a60}
+.pc-tag-leisure{background:#fff4ec;color:#6a3000}
+.pc-tag-industry{background:#eefaf8;color:#0a4a40}
+.pc-tag-analytics{background:#f4eeff;color:#3a1070}
+.pc-tag-travel{background:#ffeef0;color:#6a001a}
+.pc-date{font-size:10px;color:var(--soft);margin-left:auto}
+.pc-title{font-family:'Lora',serif;font-size:14px;font-weight:400;line-height:1.3;color:var(--ink);transition:color .2s}
+
+.home-link{display:inline-flex;align-items:center;gap:6px;font-family:'Lora',serif;font-size:14px;font-style:italic;color:var(--amber);text-decoration:none;transition:color .15s}
+.home-link:hover{color:var(--amber-lt)}
+
+/* ══ GENIE - EXACT CSS FROM post.html ══ */
+.g-wrap{position:fixed;z-index:9999;bottom:8px;right:8px;display:flex;flex-direction:column;align-items:flex-end;animation:gEnter .8s cubic-bezier(.34,1.4,.64,1) .6s both}
+@keyframes gEnter{0%{opacity:0;transform:translateY(40px) scale(.7)}100%{opacity:1;transform:translateY(0) scale(1)}}
+.g-wrap.wander{transition:right 5s cubic-bezier(.25,.1,.25,1),bottom 5s cubic-bezier(.25,.1,.25,1)}
+.g-bub{position:absolute;bottom:30px;right:95px;background:var(--s1,#fffcf7);border:1.5px solid var(--amber-bd,#e8cc90);border-radius:14px 14px 14px 4px;padding:9px 12px;width:140px;box-shadow:0 4px 18px rgba(120,80,20,.1);font-family:'Inter',sans-serif;font-size:11px;color:var(--mid,#3e3020);line-height:1.5;font-weight:300;opacity:0;transform:translateX(8px) scale(.9);transition:opacity .6s ease,transform .6s ease;pointer-events:none;cursor:pointer}
+.g-bub.show{opacity:1;transform:translateX(0) scale(1);pointer-events:auto}
+.g-bub strong{font-weight:500;color:var(--amber,#b06010)}
+.g-box{cursor:pointer;position:relative;width:90px;height:82px;transition:transform .15s;filter:drop-shadow(0 4px 10px rgba(160,100,30,.18))}
+.g-box:hover{transform:scale(1.08)}
+.g-box:active{transform:scale(.95)}
+.g-body{animation:gBodyBreathe 3.2s ease-in-out infinite;transform-origin:42px 55px;transform-box:view-box}
+@keyframes gBodyBreathe{0%,100%{transform:translateY(0) scaleY(1)}50%{transform:translateY(-1px) scaleY(1.015)}}
+.g-head{animation:gHeadIdle 5s ease-in-out infinite;transform-origin:42px 40px;transform-box:view-box}
+@keyframes gHeadIdle{0%,100%{transform:rotate(0) translateX(0)}25%{transform:rotate(-2deg) translateX(-.5px)}55%{transform:rotate(1.5deg) translateX(.5px)}80%{transform:rotate(-1deg)}}
+@keyframes gShoulderL{0%,38%{transform:rotate(0)}55%,68%{transform:rotate(22deg)}75%,95%{transform:rotate(65deg)}100%{transform:rotate(0)}}
+@keyframes gShoulderR{0%,38%{transform:rotate(0)}55%,68%{transform:rotate(-22deg)}75%,95%{transform:rotate(-65deg)}100%{transform:rotate(0)}}
+.shoulder-L{animation:gShoulderL 5s ease-in-out infinite;transform-origin:33px 48px;transform-box:view-box}
+.shoulder-R{animation:gShoulderR 5s ease-in-out infinite;transform-origin:51px 48px;transform-box:view-box}
+@keyframes gElbowL{0%,38%{transform:rotate(-15deg)}55%,68%{transform:rotate(8deg)}75%,95%{transform:rotate(25deg)}100%{transform:rotate(-15deg)}}
+@keyframes gElbowR{0%,38%{transform:rotate(15deg)}55%,68%{transform:rotate(-8deg)}75%,95%{transform:rotate(-25deg)}100%{transform:rotate(15deg)}}
+.elbow-L{animation:gElbowL 5s ease-in-out infinite;transform-origin:25px 58px;transform-box:view-box}
+.elbow-R{animation:gElbowR 5s ease-in-out infinite;transform-origin:59px 58px;transform-box:view-box}
+@keyframes gWristL{0%,38%{transform:rotate(-8deg)}55%,68%{transform:rotate(5deg)}75%,95%{transform:rotate(30deg)}100%{transform:rotate(-8deg)}}
+@keyframes gWristR{0%,38%{transform:rotate(8deg)}55%,68%{transform:rotate(-5deg)}75%,95%{transform:rotate(-30deg)}100%{transform:rotate(8deg)}}
+.wrist-L{animation:gWristL 5s ease-in-out infinite;transform-origin:21px 66px;transform-box:view-box}
+.wrist-R{animation:gWristR 5s ease-in-out infinite;transform-origin:63px 66px;transform-box:view-box}
+@keyframes gEyeMove{0%,45%{transform:translateX(0)}50%,65%{transform:translateX(.4px)}70%,85%{transform:translateX(-.4px)}90%,100%{transform:translateX(0)}}
+.g-eye{animation:gEyeMove 6s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes gPupilDilate{0%,100%{transform:scale(1)}50%{transform:scale(1.12)}}
+.g-pupil{animation:gPupilDilate 7s ease-in-out infinite;transform-origin:center;transform-box:fill-box}
+@keyframes gBrowLift{0%,70%,100%{transform:translateY(0)}75%,95%{transform:translateY(-.4px)}}
+.g-brow{animation:gBrowLift 5s infinite;transform-origin:center;transform-box:fill-box}
+@keyframes gTwinkle{0%,100%{opacity:0;transform:scale(.5)}50%{opacity:1;transform:scale(1)}}
+.g-s1{animation:gTwinkle 2.2s infinite;transform-origin:center;transform-box:fill-box}
+.g-s2{animation:gTwinkle 2.8s infinite .6s;transform-origin:center;transform-box:fill-box}
+.g-s3{animation:gTwinkle 2.4s infinite 1.1s;transform-origin:center;transform-box:fill-box}
+.g-box.walking .g-body{animation:gWalkBob .55s ease-in-out infinite!important}
+.g-box.walking .g-head{animation:gWalkHead .55s ease-in-out infinite!important}
+@keyframes gWalkBob{0%,100%{transform:translateY(0) scaleY(1)}50%{transform:translateY(-2px) scaleY(.98)}}
+@keyframes gWalkHead{0%,100%{transform:rotate(0) translateY(0)}50%{transform:rotate(1.5deg) translateY(-1.5px)}}
+.g-box.stretch{animation:tStretch 1.6s ease-in-out forwards}
+.g-box.headTilt{animation:tHeadTilt 1.2s ease-in-out forwards}
+.g-box.batPaw{animation:tBatPaw .8s ease-in-out forwards}
+.g-box.yawn{animation:tYawn 1.8s ease-in-out forwards}
+.g-box.knead{animation:tKnead .25s ease-in-out 5 forwards}
+.g-box.pounce{animation:tPounce .7s ease-in-out forwards}
+.g-box.rollSide{animation:tRoll 1.4s ease-in-out forwards}
+.g-box.startle{animation:tStartle .5s ease-in-out forwards}
+.g-box.groom{animation:tGroom 1.5s ease-in-out forwards}
+.g-box.flop{animation:tFlop 1s ease-in-out forwards}
+.g-box.zoomie{animation:tZoomie .8s ease-in-out forwards}
+.g-box.loaf{animation:tLoaf 2s ease-in-out forwards}
+@keyframes tStretch{0%,100%{transform:scaleX(1) scaleY(1) translateY(0)}20%{transform:scaleX(1.18) scaleY(.85) translateY(5px)}50%{transform:scaleX(.92) scaleY(1.12) translateY(-6px)}80%{transform:scaleX(1.04) scaleY(.97) translateY(1px)}}
+@keyframes tHeadTilt{0%,100%{transform:rotate(0)}30%{transform:rotate(-16deg) translateX(-5px)}60%{transform:rotate(10deg) translateX(4px)}}
+@keyframes tBatPaw{0%,100%{transform:translateX(0) rotate(0)}15%{transform:translateX(-10px) rotate(-7deg)}30%{transform:translateX(6px) rotate(4deg)}45%{transform:translateX(-12px) rotate(-9deg)}60%{transform:translateX(4px) rotate(3deg)}}
+@keyframes tYawn{0%,100%{transform:scaleY(1) scaleX(1)}15%{transform:scaleY(1.03)}30%{transform:scaleY(1.1) scaleX(.96) translateY(-3px)}50%{transform:scaleY(1.12) scaleX(.94) translateY(-4px)}70%{transform:scaleY(1.06) scaleX(.97) translateY(-2px)}}
+@keyframes tKnead{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+@keyframes tPounce{0%{transform:translateY(0) scaleY(1) scaleX(1)}25%{transform:translateY(4px) scaleY(.82) scaleX(1.12)}50%{transform:translateY(-22px) scaleY(1.14) scaleX(.92)}75%{transform:translateY(-8px) scaleY(1.04)}100%{transform:translateY(0) scaleY(.95) scaleX(1.04)}}
+@keyframes tRoll{0%,100%{transform:rotate(0) translateX(0)}25%{transform:rotate(18deg) translateX(-6px)}50%{transform:rotate(-12deg) translateX(8px)}75%{transform:rotate(6deg) translateX(-3px)}}
+@keyframes tStartle{0%{transform:translateY(0) scale(1)}20%{transform:translateY(-14px) scale(1.18)}50%{transform:translateY(-14px) scale(1.12) rotate(4deg)}100%{transform:translateY(0) scale(1)}}
+@keyframes tGroom{0%,100%{transform:rotate(0) translateX(0)}20%{transform:rotate(-15deg) translateX(-4px)}35%{transform:rotate(-12deg) translateX(-5px)}50%{transform:rotate(-16deg) translateX(-3px)}65%{transform:rotate(-10deg) translateX(-5px)}80%{transform:rotate(-14deg) translateX(-4px)}}
+@keyframes tFlop{0%{transform:rotate(0) translateY(0)}30%{transform:rotate(0) translateY(-2px)}60%{transform:rotate(25deg) translateY(0) translateX(-4px)}100%{transform:rotate(0) translateY(0)}}
+@keyframes tZoomie{0%{transform:translateX(0) scaleX(1)}20%{transform:translateX(-22px) scaleX(1.18)}40%{transform:translateX(16px) scaleX(.88)}60%{transform:translateX(-12px) scaleX(1.12)}80%{transform:translateX(6px) scaleX(.94)}100%{transform:translateX(0) scaleX(1)}}
+@keyframes tLoaf{0%,100%{transform:scaleX(1) scaleY(1)}30%{transform:scaleX(1.08) scaleY(.92)}60%{transform:scaleX(1.1) scaleY(.9)}80%{transform:scaleX(1.06) scaleY(.94)}}
+@media(max-width:500px){.four-oh-four{font-size:52px}.subtitle{font-size:15px}.g-bub{right:auto;left:-155px;bottom:20px}}
+</style>
+</head>
+<body>
+
+<div class="content">
+  <div class="four-oh-four">404</div>
+  <div class="ornament">
+    <div class="ornament-line"></div>
+    <div class="ornament-diamond">&#9672;</div>
+    <div class="ornament-line"></div>
+  </div>
+  <div class="subtitle">The scroll you seek has vanished</div>
+  <p class="desc">You rubbed the lamp, but this page dissolved into the ether. The genie checked twice. It is not here.</p>
+  <div class="search-box">
+    <input type="text" placeholder="Search the archive..." id="search404" onkeydown="if(event.key==='Enter'){window.location='/?q='+encodeURIComponent(this.value)}">
+    <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+  </div>
+  <div class="popular-label">Popular scrolls</div>
+  <div class="post-cards">
+    {% assign card_count = 0 %}{% for post in site.posts %}{% if card_count >= 3 %}{% break %}{% endif %}{% assign cat = post.categories | first | downcase %}<a class="post-card" href="{{ post.url | relative_url }}"><div class="pc-row"><span class="pc-tag pc-tag-{{ cat }}">{{ post.categories | first }}</span><span class="pc-date">{{ post.date | date: "%b %Y" }}</span></div><div class="pc-title">{{ post.title }}</div></a>{% assign card_count = card_count | plus: 1 %}{% endfor %}
+  </div>
+  <a class="home-link" href="{{ '/' | relative_url }}">&#9672; Return to the archive</a>
+</div>
+
+<!-- ══ GENIE SVG (exact from post.html) ══ -->
+<div class="g-wrap" id="gW">
+  <div class="g-bub" id="bub"><span id="bubT"></span></div>
+  <div class="g-box" id="gBox" onclick="gBox.classList.add('pounce');setTimeout(function(){gBox.classList.remove('pounce')},700)">
+    <svg viewBox="0 0 100 82" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="bodyFur" cx="40%" cy="20%" r="85%"><stop offset="0%" stop-color="#ddb060"/><stop offset="35%" stop-color="#d09a50"/><stop offset="70%" stop-color="#b88038"/><stop offset="100%" stop-color="#966828"/></radialGradient>
+        <radialGradient id="headFur" cx="48%" cy="42%" r="55%"><stop offset="0%" stop-color="#ddb568"/><stop offset="40%" stop-color="#d0a050"/><stop offset="100%" stop-color="#a87a30"/></radialGradient>
+        <linearGradient id="bellyFur" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#f0dbb0"/><stop offset="100%" stop-color="#f8edd0"/></linearGradient>
+        <radialGradient id="cheekGrad" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#e8a090" stop-opacity="0.55"/><stop offset="100%" stop-color="#c87868" stop-opacity="0"/></radialGradient>
+        <radialGradient id="scleraGrad" cx="50%" cy="35%" r="70%"><stop offset="0%" stop-color="#fff"/><stop offset="70%" stop-color="#f4ece0"/><stop offset="100%" stop-color="#d8cab0"/></radialGradient>
+        <radialGradient id="irisOuter" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#b8833a"/><stop offset="40%" stop-color="#8a5820"/><stop offset="80%" stop-color="#4a2a10"/><stop offset="100%" stop-color="#1a0a04"/></radialGradient>
+        <radialGradient id="irisInner" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#d8a858" stop-opacity="0.9"/><stop offset="50%" stop-color="#a87028" stop-opacity="0.4"/><stop offset="100%" stop-color="#6a4010" stop-opacity="0"/></radialGradient>
+        <linearGradient id="lidShadow" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#000" stop-opacity="0.4"/><stop offset="55%" stop-color="#000" stop-opacity="0"/></linearGradient>
+        <clipPath id="eyeClipL"><path d="M32,30 Q36,26 40,30 Q36,34 32,30 Z"/></clipPath>
+        <clipPath id="eyeClipR"><path d="M44,30 Q48,26 52,30 Q48,34 44,30 Z"/></clipPath>
+      </defs>
+      <ellipse cx="42" cy="79" rx="22" ry="2.5" fill="#3a2a10" opacity="0.08"/>
+      <g class="g-s1" transform="translate(14 26)"><path d="M0,-2 L0.5,-0.5 L2,0 L0.5,0.5 L0,2 L-0.5,0.5 L-2,0 L-0.5,-0.5 Z" fill="#b88038"/></g>
+      <g class="g-s2" transform="translate(72 30)"><path d="M0,-1.6 L0.4,-0.4 L1.6,0 L0.4,0.4 L0,1.6 L-0.4,0.4 L-1.6,0 L-0.4,-0.4 Z" fill="#b88038"/></g>
+      <g class="g-s3" transform="translate(70 58)"><path d="M0,-1.3 L0.3,-0.3 L1.3,0 L0.3,0.3 L0,1.3 L-0.3,0.3 L-1.3,0 L-0.3,-0.3 Z" fill="#b88038"/></g>
+      <g class="g-body">
+        <path d="M 42,41 C 20,42 21,68 30,76 C 35,79 39,79 42,79 C 45,79 49,79 54,76 C 63,68 64,42 42,41 Z" fill="url(#bodyFur)"/>
+        <path d="M 42,46 C 31,47 32,68 40,76 C 41,77 42,77 42,77 C 42,77 43,77 44,76 C 52,68 53,47 42,46 Z" fill="url(#bellyFur)" opacity="0.55"/>
+        <g class="shoulder-L"><path d="M33,48 L25,58" stroke="#c49050" stroke-width="5" fill="none" stroke-linecap="round"/><g class="elbow-L"><path d="M25,58 L21,66" stroke="#c49050" stroke-width="4.2" fill="none" stroke-linecap="round"/><ellipse cx="21" cy="66" rx="3" ry="1.3" fill="#8a6020"/><g class="wrist-L"><circle cx="21" cy="69" r="2.7" fill="#d0a050"/><path d="M18.5,70 Q17,72 18,73.5" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M20.5,70.5 Q20,72.5 21,74" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M22.5,70.5 Q22.5,72.5 23.5,73.5" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M24,69.5 Q24.5,71.5 25,73" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M18.5,67.5 Q16,67 15.5,68.5" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/></g></g></g>
+        <g class="shoulder-R"><path d="M51,48 L59,58" stroke="#c49050" stroke-width="5" fill="none" stroke-linecap="round"/><g class="elbow-R"><path d="M59,58 L63,66" stroke="#c49050" stroke-width="4.2" fill="none" stroke-linecap="round"/><ellipse cx="63" cy="66" rx="3" ry="1.3" fill="#8a6020"/><g class="wrist-R"><circle cx="63" cy="69" r="2.7" fill="#d0a050"/><path d="M65.5,70 Q67,72 66,73.5" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M63.5,70.5 Q64,72.5 63,74" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M61.5,70.5 Q61.5,72.5 60.5,73.5" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M60,69.5 Q59.5,71.5 59,73" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/><path d="M65.5,67.5 Q68,67 68.5,68.5" stroke="#d0a050" stroke-width="1.2" fill="none" stroke-linecap="round"/></g></g></g>
+        <g class="g-head" id="headG">
+          <circle cx="42" cy="28" r="13" fill="url(#headFur)"/>
+          <ellipse cx="38" cy="21" rx="5" ry="2" fill="#fff" opacity="0.2"/>
+          <ellipse cx="30" cy="33" rx="3" ry="1.8" fill="url(#cheekGrad)"/>
+          <ellipse cx="54" cy="33" rx="3" ry="1.8" fill="url(#cheekGrad)"/>
+          <path class="g-brow" d="M31,23 Q35,21.5 39,23" stroke="#1a1208" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+          <path class="g-brow" d="M45,23 Q49,21.5 53,23" stroke="#1a1208" stroke-width="0.9" fill="none" stroke-linecap="round"/>
+          <path d="M32,30 Q36,26 40,30 Q36,34 32,30 Z" fill="url(#scleraGrad)"/><path d="M32,30 Q36,26 40,30 Q36,31 32,30 Z" fill="url(#lidShadow)"/><g clip-path="url(#eyeClipL)"><g class="g-eye"><ellipse cx="36" cy="30" rx="2.3" ry="2.3" fill="url(#irisOuter)"/><circle cx="36" cy="30" r="1.7" fill="url(#irisInner)"/><circle cx="36" cy="30" r="2.3" fill="none" stroke="#1a0a04" stroke-width="0.22" opacity="0.9"/><ellipse class="g-pupil" cx="36" cy="30.3" rx="1" ry="1.7" fill="#050302"/><circle cx="35.3" cy="29.2" r="0.5" fill="#fff" opacity="0.95"/><circle cx="36.8" cy="31" r="0.25" fill="#fff" opacity="0.7"/></g></g><path d="M32,30.2 Q36,33.2 40,30.2" stroke="#8a5820" stroke-width="0.25" fill="none" opacity="0.5"/><path d="M32,29.9 Q36,26.3 40,29.9" stroke="#1a1208" stroke-width="0.4" fill="none"/><ellipse cx="36" cy="30" rx="2.6" ry="2.6" fill="url(#headFur)" id="lidL" display="none"/>
+          <path d="M44,30 Q48,26 52,30 Q48,34 44,30 Z" fill="url(#scleraGrad)"/><path d="M44,30 Q48,26 52,30 Q48,31 44,30 Z" fill="url(#lidShadow)"/><g clip-path="url(#eyeClipR)"><g class="g-eye"><ellipse cx="48" cy="30" rx="2.3" ry="2.3" fill="url(#irisOuter)"/><circle cx="48" cy="30" r="1.7" fill="url(#irisInner)"/><circle cx="48" cy="30" r="2.3" fill="none" stroke="#1a0a04" stroke-width="0.22" opacity="0.9"/><ellipse class="g-pupil" cx="48" cy="30.3" rx="1" ry="1.7" fill="#050302"/><circle cx="47.3" cy="29.2" r="0.5" fill="#fff" opacity="0.95"/><circle cx="48.8" cy="31" r="0.25" fill="#fff" opacity="0.7"/></g></g><path d="M44,30.2 Q48,33.2 52,30.2" stroke="#8a5820" stroke-width="0.25" fill="none" opacity="0.5"/><path d="M44,29.9 Q48,26.3 52,29.9" stroke="#1a1208" stroke-width="0.4" fill="none"/><ellipse cx="48" cy="30" rx="2.6" ry="2.6" fill="url(#headFur)" id="lidR" display="none"/>
+          <path d="M38 36.5 Q42 39 46 36.5 Q42 38 38 36.5Z" fill="#fff" opacity="0.85" id="gMouthFill"/>
+          <path d="M38 36.5 Q42 39.5 46 36.5" fill="none" stroke="#7a4a38" stroke-width="0.7" stroke-linecap="round" id="gMouth"/>
+        </g>
+      </g>
+    </svg>
+  </div>
+</div>
+
+<!-- ══ GENIE JS (behavior from post.html, 404-themed quips) ══ -->
+<script>
+(function(){
+var gW=document.getElementById('gW'),gBox=document.getElementById('gBox'),bub=document.getElementById('bub'),bubT=document.getElementById('bubT');
+var lidL=document.getElementById('lidL'),lidR=document.getElementById('lidR');
+var gMouth=document.getElementById('gMouth'),gMouthFill=document.getElementById('gMouthFill');
+var bt,blinkOpen=true;
+var msgs=[
+  'Even genies misplace things. Try searching above.',
+  'This page dissolved in a puff of smoke. Awkward.',
+  'I checked the lamp, the attic, and the void. Nothing.',
+  'The scroll you want? Gone. Poof. Very dramatic exit.',
+  'Not every wish can be granted. This URL, for instance.',
+  'I blame the ethereal plane for this one.',
+  'Four-oh-four. Even in genie math, that is a dead end.',
+  'I have {{ site.posts | size }} scrolls, but this is not one of them.',
+  "Lost? I prefer the term 'on an unplanned adventure.'",
+  'The prophecy did not mention this page. Suspicious.',
+  'Still here. <strong>Rub the lamp</strong> whenever you wish.',
+  'I am not hovering. I am... strategically levitating. ✨',
+  'Do not mind me. Just judging the URL quietly.',
+  'A wink from a genie means you have earned my mild approval.',
+  'I could grant wishes, but first I must find the page.',
+  'I could nap in my lamp, but your confusion is more interesting. Barely.',
+  'Still on this page? You are my favorite mortal today.',
+  'I can wait. I have eternity on my schedule.',
+  'Come on, <strong>try the search bar</strong>. I dare you. 🧞',
+  'Between us, this URL deserves no sympathy.',
+  'They say curiosity killed the cat. I am not a cat. <strong>Search.</strong>',
+  'The archives whisper... but not about this page. Try another.',
+  'Pardon me, the smoke got in my eyes. What were you looking for?'
+];
+var greetMsgs=[
+  'Oh, a lost soul. Interesting. ✨ The archive is just a search away.',
+  'Well, greetings. This page is empty, but the genie is not. <strong>Search above.</strong>',
+  'A visitor. On a page that does not exist. How philosophical. ✨',
+  'Welcome to nowhere. I was floating here looking ornamental. <strong>Search above.</strong>',
+  'You are here. The page is not. This feels fated. ✨',
+  'Ah, a wrong turn. Happens to the best mortals. <strong>Search above.</strong> 🧞',
+  'Finally, someone worth a wink. Shame about the URL though. ✨'
+];
+var priorityUntil=0,bubFading=false;
+function showBub(m,d,pri){
+  var now=Date.now();
+  if(!pri&&now<priorityUntil)return;
+  if(pri)priorityUntil=now+(d||4500)+1500;
+  clearTimeout(bt);
+  if(bub.classList.contains('show')&&!bubFading){
+    bubFading=true;bub.classList.remove('show');
+    setTimeout(function(){bubFading=false;bubT.innerHTML=m||msgs[Math.floor(Math.random()*msgs.length)];bub.classList.add('show');bt=setTimeout(function(){bub.classList.remove('show')},d||4500)},650);
+  }else if(!bubFading){
+    bubT.innerHTML=m||msgs[Math.floor(Math.random()*msgs.length)];bub.classList.add('show');bt=setTimeout(function(){bub.classList.remove('show')},d||4500);
+  }
+}
+function showIdleBub(){if(Math.random()>.3)showBub()}
+function doBlink(){if(!blinkOpen)return;blinkOpen=false;lidL.setAttribute('display','inline');lidR.setAttribute('display','inline');setTimeout(function(){lidL.setAttribute('display','none');lidR.setAttribute('display','none');blinkOpen=true},160)}
+function doSlowBlink(){if(!blinkOpen)return;blinkOpen=false;lidL.setAttribute('display','inline');lidR.setAttribute('display','inline');setTimeout(function(){lidL.setAttribute('display','none');lidR.setAttribute('display','none');blinkOpen=true},600)}
+function mNeutral(){gMouth.setAttribute('d','M38 36.5 Q42 39.5 46 36.5');gMouthFill.setAttribute('d','M38 36.5 Q42 39 46 36.5 Q42 38 38 36.5Z')}
+function mHappy(){gMouth.setAttribute('d','M37.5 36 Q42 40.5 46.5 36');gMouthFill.setAttribute('d','M37.5 36 Q42 40 46.5 36 Q42 38.5 37.5 36Z')}
+function mYawn(){gMouth.setAttribute('d','M39 36 Q42 41 45 36');gMouthFill.setAttribute('d','M39 36 Q42 40.5 45 36 Q42 38.5 39 36Z')}
+var mouthExpressions=[['M38 36.5 Q42 39.5 46 36.5','M38 36.5 Q42 39 46 36.5 Q42 38 38 36.5Z'],['M37.5 36 Q42 40.5 46.5 36','M37.5 36 Q42 40 46.5 36 Q42 38.5 37.5 36Z'],['M38 36.8 Q41 39 44.5 36.3','M38 36.8 Q41 38.8 44.5 36.3 Q41 38 38 36.8Z'],['M39 36.3 Q43 39 46.5 36.5','M39 36.3 Q43 38.8 46.5 36.5 Q43 38 39 36.3Z'],['M38.5 37 Q42 38.8 45.5 37','M38.5 37 Q42 38.5 45.5 37 Q42 37.8 38.5 37Z'],['M37.5 36 Q42 40 46.5 36','M37.5 36 Q42 39.5 46.5 36 Q42 38.5 37.5 36Z']];
+function doMouthCycle(){var e=mouthExpressions[Math.floor(Math.random()*mouthExpressions.length)];gMouth.setAttribute('d',e[0]);gMouthFill.setAttribute('d',e[1])}
+var tricks=['stretch','headTilt','batPaw','yawn','knead','pounce','rollSide','startle','groom','flop','zoomie','loaf'],ti=0;
+function doTrick(){
+  if(gBox.classList.contains('walking'))return;
+  var t=tricks[ti%tricks.length];ti++;
+  if(Math.random()>.5)t=tricks[Math.floor(Math.random()*tricks.length)];
+  if(t==='yawn'){mYawn();setTimeout(mNeutral,1800)}
+  else if(t==='groom'||t==='loaf'){mHappy();setTimeout(mNeutral,2000)}
+  gBox.classList.add(t);setTimeout(function(){gBox.classList.remove(t)},2000);
+}
+function doWander(){
+  gW.classList.add('wander');
+  var r=4+Math.random()*50,b=4+Math.random()*60;
+  gW.style.right=r+'px';gW.style.bottom=b+'px';
+  gBox.classList.add('walking');setTimeout(function(){gBox.classList.remove('walking')},4500);
+}
+function rPick(a){return a[Math.floor(Math.random()*a.length)]}
+function startLife(){
+  setInterval(function(){if(Math.random()>.35)doBlink()},3000);
+  setInterval(function(){if(Math.random()>.7)doSlowBlink()},8000);
+  setInterval(doTrick,3400);
+  setInterval(showIdleBub,7500);
+  setInterval(doWander,9000);
+  setInterval(doMouthCycle,2200);
+}
+setTimeout(function(){showBub(rPick(greetMsgs),5500,true);startLife()},1400);
+})();
+</script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/6313cbe537898912e9670bac/1gc2l8uv9';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body>
+</html>
