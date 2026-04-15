@@ -14,7 +14,6 @@ lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "available"
 word_frequency_ok_count: 3047
-word_frequency_ok_reason: "article rewritten"
 ---
 The most persistent misreading of Fahrenheit 451 is that it is a book about government suppression of speech. It is not. Bradbury said so explicitly, more than once, in interviews spanning decades. When the story is reduced to the straightforward argument that totalitarian governments burn books and that this is bad, it becomes a significantly less disturbing work than it actually is, because the straightforward argument is easy to agree with and requires nothing uncomfortable of the reader. The actually disturbing argument, the one Bradbury was making, requires considerably more. The firemen in Fahrenheit 451 do not burn books because the government ordered them to against the population's will. They burn books because the population wanted them burned, because books made people uncomfortable, because minority groups objected to specific content, because people preferred the television walls and the seashell radios to the demanding, slow, confrontational experience of reading something that might change how you think. The silencing of dissent in Fahrenheit 451 is the silencing that a society performs on itself, and that is precisely why it is the most urgent warning the narrative delivers.
 
