@@ -6,7 +6,7 @@ date: 2014-12-11
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "sin", "society", "themes", "literary-analysis", "classic-literature"]
 excerpt: "How The Scarlet Letter exposes Puritan hypocrisy - public shame vs private guilt and the cost of secrecy."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "olivia-grant"
 last_updated: 2014-12-11
@@ -16,7 +16,7 @@ The argument Nathaniel Hawthorne makes in The Scarlet Letter is not the argument
 
 <!--more-->
 
-![Sin and Society in The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Sin and Society in The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 This is the thesis the book asks us to hold: open shame is survivable because it could not lie, while private guilt is lethal because it can. Hester, standing on the scaffold with the embroidered A on her breast, has been handed a punishment that contains its own ceiling. Whatever Boston says about her, she has already heard it. Whatever they think when they see her, she sees them seeing it. She lives inside the worst version of herself that anyone has ever drawn, and after seven years of living there, she discovers that she can move the furniture. Arthur Dimmesdale, walking away from that same scaffold with the secret intact, is given no such opportunity. He has to construct, every morning, a version of himself that Boston will continue to revere, and every night he has to face the version that knows the morning was a lie. The gap between the two does not shrink. It widens until it kills him. Roger Chillingworth, watching both of them, makes a third choice that the author treats as the true horror of the book: he turns his wound into a profession. He becomes a sin all by himself, with no community, no scaffold, and no audience. The community's failure is not that it punishes the child's mother. The failure is that it has no mechanism to even notice what the doctor is doing, and no theology that can name what the minister is becoming.
 

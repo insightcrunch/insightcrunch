@@ -6,7 +6,7 @@ date: 2015-01-10
 categories: ["Leisure"]
 tags: ["literary-villains", "character-analysis", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "The greatest villains in classic literature ranked and compared - what makes them terrifying and timeless."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2015-01-10
@@ -16,7 +16,7 @@ The question worth asking about literature's greatest antagonists is not which o
 
 <!--more-->
 
-![Greatest Villains in Classic Literature - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Greatest Villains in Classic Literature - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 This article holds eight figures in the same frame and asks the same set of questions about each of them: O'Brien from Nineteen Eighty-Four, Napoleon the pig from Animal Farm, Jack Merridew from Lord of the Flies, Mustapha Mond from Brave New World, Roger Chillingworth from The Scarlet Letter, Heathcliff from Wuthering Heights, Kurtz from Heart of Darkness, and Iago from Othello. The first four were chosen since the authors who wrote them were trying, with full conscious intent, to map the modern forms of political and social tyranny. O'Brien embodies tyranny through pain. Napoleon embodies tyranny through propaganda. Jack embodies tyranny through fear. Mond embodies tyranny through pleasure. Together they cover the four large categories of how power organizes itself in the contemporary world, and the choice of which one to read first depends mostly on which kind of tyranny the reader currently finds most plausible. The remaining four figures complicate this taxonomy in instructive ways. Chillingworth shows what tyranny looks like when it is conducted by one private person against another over years, with no political purpose at all. Heathcliff shows what tyranny looks like when its origin is romantic injury. Kurtz shows what tyranny looks like when no institution is left to restrain it. Iago shows what tyranny looks like when the tyrant's only resource is the credulity of his victims, since he has no army, no office, and no audience beyond the three or four people he can speak to in a given scene.
 
