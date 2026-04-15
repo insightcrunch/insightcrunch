@@ -113,6 +113,8 @@ def parse_front_matter(text):
         'lang':       get_field('lang') or 'en',
         'wf_ok':      get_field('word_frequency_ok').lower() == 'true',
         'wf_reason':  get_field('word_frequency_ok_reason'),
+        'wf_word':    get_field('word_frequency_ok_word').lower(),
+        'wf_count':   int(get_field('word_frequency_ok_count') or 0),
     }, body
 
 
@@ -199,8 +201,24 @@ def main():
 
         # Determine flagged words (above threshold)
         flagged_words = [(w, c) for w, c in top20 if c > DEFAULT_THRESHOLD]
-        wf_ok = fm.get('wf_ok', False)
-        is_flagged = len(flagged_words) > 0 and not wf_ok
+        wf_ok_raw = fm.get('wf_ok', False)
+        wf_word = fm.get('wf_word', '')
+        wf_count = fm.get('wf_count', 0)
+
+        # Validate suppression against snapshot:
+        # Suppression holds only if current top word matches snapshot AND current count <= snapshot count.
+        # If word changed, OR count drifted upward, the snapshot is stale and the post re-flags.
+        suppression_valid = (
+            wf_ok_raw
+            and wf_word
+            and wf_count > 0
+            and top_word.lower() == wf_word
+            and top_count <= wf_count
+        )
+        # Stale = was marked OK but the snapshot no longer matches reality
+        suppression_stale = wf_ok_raw and not suppression_valid and len(flagged_words) > 0
+
+        is_flagged = len(flagged_words) > 0 and not suppression_valid
 
         if is_flagged:
             flagged_count += 1
@@ -223,13 +241,15 @@ def main():
             'topWord': top_word,
             'topCount': top_count,
             'flagged': is_flagged,
-            'suppressed': wf_ok and len(flagged_words) > 0,
-            'suppressReason': fm.get('wf_reason', '') if wf_ok else '',
+            'suppressed': suppression_valid and len(flagged_words) > 0,
+            'suppressReason': fm.get('wf_reason', '') if suppression_valid else '',
+            'suppressSnapshot': {'word': wf_word, 'count': wf_count} if wf_ok_raw else None,
+            'suppressStale': suppression_stale,
             'editUrl': filename_to_edit_url(filename),
         }
 
-        # Include full detail for flagged OR suppressed posts (lean JSON)
-        if is_flagged or entry.get('suppressed'):
+        # Include full detail for flagged OR suppressed OR stale posts (lean JSON)
+        if is_flagged or entry.get('suppressed') or suppression_stale:
             entry['flaggedWords'] = [{'word': w, 'count': c} for w, c in flagged_words]
             entry['top20'] = [{'word': w, 'count': c} for w, c in top20]
 
@@ -237,6 +257,7 @@ def main():
 
     avg_top = round(sum(total_top_counts) / len(total_top_counts), 1) if total_top_counts else 0
     suppressed_count = sum(1 for r in results if r.get('suppressed'))
+    stale_count = sum(1 for r in results if r.get('suppressStale'))
 
     output = {
         'generated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
@@ -244,6 +265,7 @@ def main():
         'totalPosts': len(results),
         'flaggedPosts': flagged_count,
         'suppressedPosts': suppressed_count,
+        'stalePosts': stale_count,
         'worstWord': worst_word,
         'worstCount': worst_count,
         'worstPost': worst_post,
@@ -255,7 +277,7 @@ def main():
     with open(OUT_FILE, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 
-    print(f'Done. {len(results)} posts scanned, {flagged_count} flagged.')
+    print(f'Done. {len(results)} posts scanned, {flagged_count} flagged, {suppressed_count} suppressed, {stale_count} stale.')
     print(f'Worst: "{worst_word}" ({worst_count}x) in "{worst_post}"')
     print(f'Output: {OUT_FILE}')
 
