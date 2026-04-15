@@ -111,6 +111,8 @@ def parse_front_matter(text):
         'title':      get_field('title'),
         'categories': get_list('categories'),
         'lang':       get_field('lang') or 'en',
+        'wf_ok':      get_field('word_frequency_ok').lower() == 'true',
+        'wf_reason':  get_field('word_frequency_ok_reason'),
     }, body
 
 
@@ -197,7 +199,8 @@ def main():
 
         # Determine flagged words (above threshold)
         flagged_words = [(w, c) for w, c in top20 if c > DEFAULT_THRESHOLD]
-        is_flagged = len(flagged_words) > 0
+        wf_ok = fm.get('wf_ok', False)
+        is_flagged = len(flagged_words) > 0 and not wf_ok
 
         if is_flagged:
             flagged_count += 1
@@ -220,23 +223,27 @@ def main():
             'topWord': top_word,
             'topCount': top_count,
             'flagged': is_flagged,
+            'suppressed': wf_ok and len(flagged_words) > 0,
+            'suppressReason': fm.get('wf_reason', '') if wf_ok else '',
             'editUrl': filename_to_edit_url(filename),
         }
 
-        # Include full detail only for flagged posts (lean JSON)
-        if is_flagged:
+        # Include full detail for flagged OR suppressed posts (lean JSON)
+        if is_flagged or entry.get('suppressed'):
             entry['flaggedWords'] = [{'word': w, 'count': c} for w, c in flagged_words]
             entry['top20'] = [{'word': w, 'count': c} for w, c in top20]
 
         results.append(entry)
 
     avg_top = round(sum(total_top_counts) / len(total_top_counts), 1) if total_top_counts else 0
+    suppressed_count = sum(1 for r in results if r.get('suppressed'))
 
     output = {
         'generated': datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
         'threshold': DEFAULT_THRESHOLD,
         'totalPosts': len(results),
         'flaggedPosts': flagged_count,
+        'suppressedPosts': suppressed_count,
         'worstWord': worst_word,
         'worstCount': worst_count,
         'worstPost': worst_post,
