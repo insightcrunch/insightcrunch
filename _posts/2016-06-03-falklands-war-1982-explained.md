@@ -6,16 +6,18 @@ date: 2016-06-03
 categories: ["Leisure"]
 tags: ["falklands-war", "1982", "argentina", "britain", "military-history", "world-history"]
 excerpt: "The Falklands War explained - Argentina's invasion, Britain's response, and the conflict's political consequences."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-06-03
+lang: en
 ---
-
 In the early hours of April 2, 1982, approximately 150 Argentine special forces landed on the beaches outside Stanley, the capital of the Falkland Islands, and within hours had overwhelmed the eighty-four Royal Marines of Naval Party 8901 who garrisoned the islands. Governor Rex Hunt, dressed in his ceremonial uniform and refusing to surrender, had the Marines fight a brief resistance that killed four Argentine soldiers before ordering them to lay down their arms. By that afternoon, Argentina's flag flew over the islands that Argentines called the Malvinas. The junta in Buenos Aires announced that Argentina had recovered what had always been its territory. In London, Margaret Thatcher convened a cabinet meeting that would determine whether Britain would respond militarily to recover territory it had held for 150 years.
 
 <!--more-->
 
+
+![The Falklands War of 1982 Explained - Insight Crunch](/assets/images/blog/blog-79.webp)
 The Falklands War of 1982, which lasted seventy-four days and killed 907 people, was a military anachronism: a conventional territorial conflict between a medium-sized Western democracy and a military dictatorship, fought over a remote archipelago of wind-swept islands at the edge of the South Atlantic that most people in both countries could not have found on a map before the invasion. Its causes were rooted in the collision between Argentine nationalist grievance over what it regarded as the last remnant of British colonialism in the Southern Hemisphere and the miscalculation of a desperate military junta that believed Britain would not fight for islands most British people had never heard of. Its consequences were profound for both nations: it ended Argentina's military government and initiated the transition to democracy, and it transformed Margaret Thatcher from a struggling Prime Minister into a political colossus whose reshaped political landscape endured for decades. To [trace the arc from the disputed sovereignty claims through the invasion, the Task Force, and the land campaign to its lasting political legacies](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) most unexpected and most consequential minor conflicts.
 
 ## The Islands and the Dispute

@@ -6,19 +6,19 @@ date: 2016-06-23
 categories: ["Leisure"]
 tags: ["european-union", "european-history", "integration", "world-history", "historical-analysis"]
 excerpt: "How the EU was formed - from postwar coal agreements to a political union of 27 nations and its challenges."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-06-23
+lang: en
 ---
-
 In May 1950, French Foreign Minister Robert Schuman stood before reporters in the Salon de l'Horloge at the Quai d'Orsay and read a declaration that had been drafted in secrecy with Jean Monnet. The declaration proposed that France and Germany place their entire coal and steel production under a common High Authority, in an organisation open to other European countries. The logic was radical in its simplicity: if the heavy industries that equipped armies were controlled jointly, the nations that had just finished destroying each other twice in thirty years could not go to war with each other again. Europe's future peace, Schuman argued, required not goodwill and not treaties but shared economic institutions so interwoven that war between their members would become materially impossible.
 
 <!--more-->
 
 The European Union that exists today, with twenty-seven member states, a single market of 450 million people, a common currency used by nineteen countries, a parliament directly elected by European citizens, and institutions that have replaced centuries of interstate rivalry with seven decades of unprecedented peace, grew from that moment in the Salon de l'Horloge. The path from the European Coal and Steel Community of 1951 to the contemporary EU required more than seventy years of treaty negotiations, political crises, economic shocks, and enlargements that brought in countries from the ruins of communism to the shores of the Mediterranean. It required the sustained commitment of leaders across multiple countries and multiple generations who chose, in the face of deep nationalist sentiment and genuine political resistance, to build institutions rather than exercise sovereignty alone. To [trace the arc from Schuman's declaration through the Treaty of Rome, the Single European Act, Maastricht, and the enlargements to the current EU](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most ambitious and most consequential political projects in human history.
 
-![How the European Union Was Formed - Insight Crunch](/assets/images/blog/blog-12.webp)
+![How the European Union Was Formed - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 ## The Historical Context: Why Integration?
 

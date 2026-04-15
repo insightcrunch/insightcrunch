@@ -6,19 +6,19 @@ date: 2016-08-02
 categories: ["Leisure"]
 tags: ["pandemics", "world-history", "black-death", "spanish-flu", "historical-analysis"]
 excerpt: "How pandemics shaped history - the Plague, Spanish Flu, and the diseases that transformed civilizations."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-08-02
+lang: en
 ---
-
 In the autumn of 1347, twelve Genoese trading ships docked at the Sicilian port of Messina. When port authorities boarded them, they found most of the sailors dead and the survivors covered in black, pus-filled boils. The ships were ordered back to sea immediately, but it was already too late. Within five years, the Black Death would kill between 30 and 60 percent of Europe's entire population - somewhere between 25 and 50 million people out of a continent of approximately 80 million. In some regions, half or more of the population was gone. Entire villages were abandoned. Cathedral building programmes halted for decades. The labour market that had existed before 1347 ceased to exist afterward.
 
 <!--more-->
 
 No war, no conquest, no political revolution in the pre-modern world produced a demographic shock of this magnitude over this short a period. The Black Death did not merely kill people - it restructured the social, economic, religious, and political orders that had existed before it arrived, producing changes that the subsequent centuries built upon. The scarcity of labour that followed the plague gave surviving peasants bargaining power they had never possessed, contributing to the end of feudal serfdom. The Church's failure to explain or prevent the catastrophe damaged its spiritual authority in ways that the Reformation eventually exploited. The psychological experience of mass death produced the specific artistic traditions of the danse macabre and the ars moriendi that shaped medieval and Renaissance culture.
 
-![How Pandemics Changed History - Insight Crunch](/assets/images/blog/blog-05.webp)
+![How Pandemics Changed History - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The Black Death was not history's only pandemic with civilisation-reshaping consequences. The Antonine Plague weakened Rome at the height of its power. The Justinian Plague delayed Byzantine reconquest of the Western Mediterranean. The Columbian Exchange's disease catastrophe reduced indigenous American populations by perhaps 90 percent, making the [Spanish Empire's](https://insightcrunch.com/2016/07/08/greatest-empires-history-compared.md) conquest possible in ways that military force alone could not have achieved. The 1918 influenza pandemic killed more people in a year than the First World War killed in four, and altered the peace negotiations at Versailles in ways whose consequences reshaped the twentieth century. To [trace the arc from the Plague of Athens through the Black Death to the Spanish Flu and the epidemics that followed](https://reportmedic.org/tools/world-history-timeline.html) is to follow the most consistently underestimated force in human history.
 

@@ -6,19 +6,19 @@ date: 2016-07-03
 categories: ["Leisure"]
 tags: ["china", "superpower", "economic-history", "world-history", "geopolitics"]
 excerpt: "How China rose from Mao's revolution to a global superpower - the reforms, the growth, and the consequences for the world."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-07-03
+lang: en
 ---
-
 In 1978, China's GDP per capita was approximately $156. The average Chinese citizen was poorer than the average citizen of sub-Saharan Africa. The country had just emerged from the catastrophic Cultural Revolution that had closed universities, driven intellectuals into the countryside for re-education, destroyed cultural institutions, and killed between 500,000 and two million people in factional violence. Its economy was organised around collective agriculture and state-owned industry that had failed to deliver the living standards that Mao Zedong's Communist Party had promised. Life expectancy was approximately 66 years. The country produced almost nothing that the rest of the world wished to purchase.
 
 <!--more-->
 
 By 2016, China was the world's second-largest economy by nominal GDP and the largest by purchasing power parity, having maintained average annual growth rates of approximately 9-10% for three and a half decades - a performance without precedent in the history of economic development. It had lifted approximately 800 million people out of poverty, the largest poverty reduction in human history. It was the world's largest manufacturer, the world's largest exporter, the world's largest consumer of steel, cement, and coal, and the holder of the world's largest foreign exchange reserves. Its military had been transformed from a vast but antiquated force into a modern armed services with growing power projection capability. And it was pursuing the Belt and Road Initiative, the most ambitious infrastructure investment programme in history, aimed at connecting Central Asia, the Middle East, Africa, and Europe to Chinese economic networks.
 
-![The Rise of China as a Superpower Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The Rise of China as a Superpower Explained - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The rise of China is the most consequential development in international relations since the [Cold War's](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide.md) end, and arguably the most consequential since the United States' emergence as a global power in the twentieth century. Understanding how it happened - the specific decisions made at critical junctures, the historical conditions that made explosive growth possible, the political framework within which economic transformation occurred, and the international consequences that growth of this scale and speed produces - is essential for understanding the world that the twenty-first century is building. To [trace the arc from Mao's 1949 revolution through Deng Xiaoping's reforms to China's emergence as a global power](https://reportmedic.org/tools/world-history-timeline.html) is to follow the story that will define this century's international order.
 

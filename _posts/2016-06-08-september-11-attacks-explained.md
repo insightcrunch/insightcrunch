@@ -6,19 +6,19 @@ date: 2016-06-08
 categories: ["Leisure"]
 tags: ["september-11", "2001", "terrorism", "american-history", "world-history"]
 excerpt: "September 11 explained - the attacks, immediate response, and how one day reshaped America and the world."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-06-08
+lang: en
 ---
-
 At 8:46 in the morning of September 11, 2001, American Airlines Flight 11 struck the North Tower of the World Trade Center in New York City at approximately 470 miles per hour. The impact, felt across lower Manhattan, was initially reported as a possible small aircraft accident. Seventeen minutes later, at 9:03, United Airlines Flight 175 struck the South Tower, and whatever ambiguity remained about what was happening dissolved instantly for everyone watching. By 10:03, when United Airlines Flight 93 crashed into a field near Shanksville, Pennsylvania, after passengers attempted to overpower the hijackers, four aircraft had been turned into weapons, both World Trade Center towers had collapsed, the Pentagon had been struck, and 2,977 people were dead.
 
 <!--more-->
 
 September 11 was the deadliest terrorist attack in history and the deadliest attack on American soil since Pearl Harbor. Its consequences extended far beyond its immediate death toll: it reshaped American foreign policy for at least two decades, initiated the War on Terror that killed hundreds of thousands of people across Afghanistan, Iraq, and elsewhere, produced the surveillance and security apparatus that transformed daily life for hundreds of millions of people globally, and altered the relationship between Western democracies and their Muslim-minority populations in ways whose political consequences are still accumulating. To [trace the arc from Al-Qaeda's formation through the attacks themselves to the transformations of American domestic and foreign policy that followed](https://reportmedic.org/tools/world-history-timeline.html) is to follow the event that more than any other defined the twenty-first century's opening decades.
 
-![The September 11 Attacks Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The September 11 Attacks Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 ## Al-Qaeda and the Road to September 11
 

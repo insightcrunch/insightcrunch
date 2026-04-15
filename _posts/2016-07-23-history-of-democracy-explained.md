@@ -6,19 +6,19 @@ date: 2016-07-23
 categories: ["Leisure"]
 tags: ["democracy", "world-history", "political-history", "athens", "historical-analysis"]
 excerpt: "The history of democracy from Athens to today - its birth, evolution, crises, and ongoing fragility."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-23
+lang: en
 ---
-
 In 507 BCE, Cleisthenes of Athens introduced a set of constitutional reforms that would become the foundation of the most consequential political idea in human history. He reorganised Athens' citizen body into ten tribes based on geography rather than lineage, created a Council of Five Hundred chosen by lot to set the Assembly's agenda, and gave every male Athenian citizen the right to participate directly in governing the city. He called his system "demokratia" - demos meaning "the people," and kratos meaning "power" or "rule." For the first time in recorded history, a significant political community had established that political authority belonged to the citizens themselves rather than to kings, priests, gods, or hereditary elites.
 
 <!--more-->
 
 The democratic idea that Cleisthenes institutionalised has had one of the strangest trajectories of any political concept in history. It flourished briefly in Athens before being overthrown; it was theorised by Plato as a dangerous and degenerate form of government; it lay largely dormant as a governing practice for nearly two millennia while remaining alive as a philosophical idea; and it then erupted into the world through the [American and French revolutions](https://insightcrunch.com/2016/07/13/greatest-revolutions-history-compared.md) of the late eighteenth century, gradually spreading through a succession of waves until, by 2000, more than half the world's governments claimed the democratic label. The twenty-first century has then produced its own crisis: democratic backsliding, authoritarian restoration, and the rise of "illiberal democracy" have challenged the optimistic democratic triumphalism that the Cold War's end briefly licensed.
 
-![The History of Democracy Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The History of Democracy Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 To [trace the arc from Athenian demokratia through Rome's republic, the medieval communes, the English constitutional settlement, the Atlantic revolutions, and the democratic waves of the twentieth century to the contemporary challenges of democratic governance](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most important stories in political history and to ask what conditions allow the radical idea of self-governance to become reality and what conditions produce its erosion.
 

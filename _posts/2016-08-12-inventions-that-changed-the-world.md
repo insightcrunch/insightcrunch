@@ -6,19 +6,19 @@ date: 2016-08-12
 categories: ["Leisure"]
 tags: ["inventions", "world-history", "technology", "innovation", "historical-analysis"]
 excerpt: "The inventions that changed history - printing press, steam engine, electricity, internet, and their impact."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-08-12
+lang: en
 ---
-
 In 1440, Johannes Gutenberg assembled the first printing press using movable type in Mainz, Germany. Within fifty years, printing presses were operating in more than 250 cities across Europe, and an estimated 20 million books had been printed - more than all the manuscripts that European scribes had produced in the previous thousand years combined. The Protestant Reformation, the Scientific Revolution, the Enlightenment, and the political revolutions that reshaped the modern world were all, in different ways, products of the printed word's ability to distribute ideas at a cost and a speed that the manuscript tradition could not approach.
 
 <!--more-->
 
 The history of invention is inseparable from the history of human civilisation itself. Every significant transition in the way human beings live, work, communicate, fight, heal, and understand their world has been accompanied by or enabled by technological innovation. The control of fire gave early humans the ability to cook food, expanding the caloric density of their diet and possibly contributing to the development of larger brains. The wheel transformed transportation and power transmission. The plough made intensive agriculture possible, which made cities possible, which made civilisation possible in the sense that urban culture produces. Writing made the accumulation and transmission of knowledge across time possible, which made everything else possible in turn.
 
-![Inventions That Changed the World - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Inventions That Changed the World - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 What distinguishes a world-changing invention from a merely useful one is the scale and depth of its secondary consequences: the degree to which it enables other inventions, restructures social and economic relationships, alters the distribution of political power, and changes what is possible in ways that could not have been imagined before the invention existed. To [trace the arc from fire and the wheel through writing and the printing press to the steam engine, electricity, and the internet](https://reportmedic.org/tools/world-history-timeline.html) is to follow the most consequential thread in human history.
 

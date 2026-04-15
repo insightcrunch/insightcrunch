@@ -6,19 +6,19 @@ date: 2016-07-18
 categories: ["Leisure"]
 tags: ["deadliest-wars", "world-history", "military-history", "historical-analysis"]
 excerpt: "The deadliest wars in history ranked - casualties, causes, and what the numbers reveal about human conflict."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-18
+lang: en
 ---
-
 Approximately 70 to 85 million people died in the Second World War between 1939 and 1945. The number is so large that it resists comprehension: if each of those people had been born, lived, and died in a single year, and if we were to observe one second of silence for each one, the silence would last for more than two thousand years. And the Second World War, devastating as it was, was not the deadliest conflict in human history by the ratio of lives lost to the world's total population. The Mongol Conquests of the thirteenth century, which killed an estimated 40 million people in a world of perhaps 400 million, killed a higher proportion of humanity than any subsequent conflict.
 
 <!--more-->
 
 The deadliest wars in human history confront us with figures that are simultaneously staggering and profoundly uncertain. Ancient and medieval casualty figures are estimates from fragmentary sources; even modern war deaths are contested between different methodologies. The distinction between military deaths and civilian deaths, between deaths from combat and deaths from the famine and disease that wars spread, and between direct war deaths and the excess mortality that war produces through its disruption of healthcare and food systems, all affect the numbers significantly. What is certain is that organised violence at scale is among the most consequential forces in human history, shaping populations, erasing civilisations, and redirecting the trajectories of societies in ways that have determined the world we inhabit. To [rank and analyse the deadliest wars in history](https://reportmedic.org/tools/world-history-timeline.html) is to confront both the numbers and the human reality they represent.
 
-![Deadliest Wars in Human History Ranked - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Deadliest Wars in Human History Ranked - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## A Note on the Numbers
 

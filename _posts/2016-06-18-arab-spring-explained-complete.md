@@ -6,19 +6,19 @@ date: 2016-06-18
 categories: ["Leisure"]
 tags: ["arab-spring", "middle-east", "revolution", "tunisia", "egypt", "world-history"]
 excerpt: "The Arab Spring explained - the uprisings, the hopes, the outcomes, and why most revolutions failed."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-06-18
+lang: en
 ---
-
 On December 17, 2010, a twenty-six-year-old Tunisian street vendor named Mohamed Bouazizi walked to the front of the regional government headquarters in Sidi Bouzid, poured a can of paint thinner over himself, and lit a match. He had been selling vegetables to support his widowed mother and six siblings since the age of ten. That morning a municipal inspector had confiscated his cart and his produce, slapped him in the face, and refused to return either when he tried to pay a fine. He had gone to the governor's office to complain and had been turned away. He died eighteen days later in hospital, having never recovered consciousness.
 
 <!--more-->
 
 Within days, protests had begun in Sidi Bouzid. Within weeks, they had spread across Tunisia. Within a month, President Zine El Abidine Ben Ali, who had ruled Tunisia for twenty-three years, had fled to Saudi Arabia. Within two months, Egyptian President Hosni Mubarak, who had governed Egypt for thirty years, had resigned. Within the year, regimes had fallen in Tunisia, Egypt, and Libya; civil wars had begun in Syria, Libya, and Yemen; significant uprisings had occurred in Bahrain, Jordan, Morocco, and a dozen other countries; and the entire Arab political order, which had seemed one of the world's most immovable features, had been shaken to its foundations.
 
-![The Arab Spring Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
+![The Arab Spring Explained - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The Arab Spring, as it came to be called, was the most significant wave of popular political mobilisation in the Arab world since decolonisation, and its consequences have been simultaneously profound and profoundly disappointing. The revolutions that succeeded in removing authoritarian leaders produced only one durable democracy - Tunisia, which itself subsequently experienced democratic backsliding. Egypt returned to military rule within two years. Libya descended into a civil war whose consequences are still accumulating. Syria became the site of the twenty-first century's worst humanitarian catastrophe. Yemen's civil war has killed hundreds of thousands and produced what the UN described as the world's worst humanitarian crisis. To [trace the arc from Bouazizi's death through the revolutionary wave to the authoritarian restoration and ongoing conflicts](https://reportmedic.org/tools/world-history-timeline.html) that followed is to follow one of the most important and most painful political stories of the twenty-first century's opening decades.
 

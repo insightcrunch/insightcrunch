@@ -6,19 +6,19 @@ date: 2016-08-07
 categories: ["Leisure"]
 tags: ["women-in-history", "world-history", "historical-figures", "feminism", "historical-analysis"]
 excerpt: "Women who changed history - rulers, scientists, activists, and the contributions erased and reclaimed."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-08-07
+lang: en
 ---
-
 On December 10, 1903, the Nobel Committee awarded the Prize in Physics to Henri Becquerel and to Pierre and Marie Curie for their research into radiation. Marie Curie was the first woman to receive a Nobel Prize. Eight years later, in 1911, she received a second Nobel Prize - this time in Chemistry - becoming the first person of any gender to win Nobel Prizes in two different scientific disciplines. Between these two prizes, she had been rejected from membership of the French Academy of Sciences, partly on the grounds that she was a woman. The Academy would not admit its first female member until 1962, fifty years after Curie's second Nobel.
 
 <!--more-->
 
 The story of women who changed history is inseparable from the story of how their contributions were systematically minimised, ignored, attributed to others, or erased by the institutional frameworks of societies that denied women full participation in political, intellectual, and scientific life. Curie's story is exceptional not because she was exceptional in her contributions - though those were extraordinary - but because her contributions were visible enough and celebrated enough internationally that they could not be entirely suppressed. For every Marie Curie, there were dozens of women whose contributions to science, philosophy, literature, medicine, and political life shaped the world without receiving any recognition.
 
-![Women Who Changed History - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Women Who Changed History - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The women who changed history did so across every domain of human activity: as rulers and military commanders, as scientists and mathematicians, as writers and philosophers, as activists and reformers, and as the quiet but essential contributors to cultural and intellectual traditions that typically bear the names of the men who published, proclaimed, and received credit for the work. To [trace their contributions from the ancient world through the modern period](https://reportmedic.org/tools/world-history-timeline.html) is to encounter a history that is simultaneously inspiring in its demonstration of what women achieved despite the barriers placed before them and sobering in its revelation of how much was lost when those barriers prevented achievement altogether.
 

@@ -6,19 +6,19 @@ date: 2016-07-13
 categories: ["Leisure"]
 tags: ["revolutions", "world-history", "historical-comparison", "french-revolution", "american-revolution"]
 excerpt: "The greatest revolutions compared - causes, leaders, outcomes, and why some succeed while others devour themselves."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-13
+lang: en
 ---
-
 On the night of July 13-14, 1789, a crowd gathered outside Les Invalides in Paris and seized approximately 30,000 muskets. The next morning they stormed the Bastille fortress, killed its governor, and paraded his head through the streets on a pike. The French Revolution had begun. On October 19, 1781, Lord Cornwallis surrendered to George Washington at Yorktown, effectively ending the American Revolutionary War. On the night of October 25, 1917 (Old Style calendar), Bolshevik forces seized the Winter Palace in Petrograd and overthrew the Provisional Government of Russia. On January 1, 1804, Jean-Jacques Dessalines proclaimed the independence of Haiti, the first Black republic in history, the first country founded by formerly enslaved people.
 
 <!--more-->
 
 These four moments define the most consequential political ruptures in modern history. Together with the Glorious Revolution of 1688, the Mexican Revolution of 1910, the Chinese Revolution of 1949, and the Iranian Revolution of 1979, they form the set of transformations that created the political world we inhabit: the doctrine of popular sovereignty, the liberal democratic republic, the communist state, the nation built from the wreckage of slavery. Each revolution answered the same fundamental questions differently: Where does political authority come from? What justifies overthrowing an existing order? Who are "the people" in whose name power is claimed? And what happens after the moment of liberation, when the old order has been swept away and the new order must be built?
 
-![Greatest Revolutions in History Compared - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Greatest Revolutions in History Compared - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 Understanding these revolutions comparatively illuminates the recurring patterns that the historical record reveals. Some revolutions consume their own children; some produce the opposite of their stated aims; some create durable institutions while others dissolve into terror, dictatorship, or renewed authoritarian rule. To [compare the greatest revolutions across their causes, mechanics, leaders, outcomes, and legacies](https://reportmedic.org/tools/world-history-timeline.html) is to ask what conditions allow political transformation to consolidate into genuine liberation, and what conditions make it degenerate into new forms of tyranny dressed in the language of the old order's overthrow.
 

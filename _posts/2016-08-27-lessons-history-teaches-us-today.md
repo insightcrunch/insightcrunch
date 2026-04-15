@@ -6,19 +6,19 @@ date: 2016-08-27
 categories: ["Leisure"]
 tags: ["lessons-of-history", "world-history", "historical-analysis", "patterns", "historical-wisdom"]
 excerpt: "The most important lessons history teaches - patterns, mistakes, warnings, and wisdom for the present."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-08-27
+lang: en
 ---
-
 The Spanish philosopher George Santayana wrote in 1905: "Those who cannot remember the past are condemned to repeat it." The phrase has been quoted so many times that it has lost the weight it deserves. It is not a platitude but a warning with specific empirical content: the political, economic, and social patterns that have destroyed civilisations, empires, and democratic governments throughout recorded history are not unique to the contexts that produced them. They recur because the human nature that generates them does not change, and because the institutional memory required to resist them is consistently shorter than the intervals at which they appear.
 
 <!--more-->
 
 The purpose of studying history is not merely to accumulate knowledge about the past. It is to develop the pattern recognition that allows people and institutions to identify dangerous trajectories before they become catastrophes, to recognise the early stages of processes whose later stages history has documented, and to maintain the institutional, cultural, and political arrangements that have been found, through long and painful experience, to prevent the worst outcomes. History is the only laboratory in which the experiments of human governance have been run at full scale with real consequences, and its record is the closest thing available to evidence about what works and what does not.
 
-![Lessons That History Teaches Us Today - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Lessons That History Teaches Us Today - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 This final article in the World History Authority Series draws on the full arc of history covered in the preceding articles - from the [greatest empires](https://insightcrunch.com/2016/07/08/greatest-empires-history-compared.md) and their inevitable falls, through the [deadliest wars](https://insightcrunch.com/2016/07/18/deadliest-wars-history-ranked.md) and what made them possible, to the [revolutions](https://insightcrunch.com/2016/07/13/greatest-revolutions-history-compared.md) that promised liberation and often delivered its opposite, the [pandemics](https://insightcrunch.com/2016/08/02/how-pandemics-changed-history.md) that exposed every society's institutional vulnerabilities, and the [human rights](https://insightcrunch.com/2016/08/17-history-of-human-rights-explained.md) framework that humanity has slowly and incompletely built to prevent the worst abuses of power - to ask what the entire record, taken together, teaches about how to navigate the present and the future. To [trace the recurring patterns across the full arc of recorded human history](https://reportmedic.org/tools/world-history-timeline.html) is to confront both the depth of humanity's capacity for catastrophe and the equal depth of its capacity for recovery, renewal, and genuine moral progress.
 

@@ -6,19 +6,19 @@ date: 2016-07-28
 categories: ["Leisure"]
 tags: ["military-leaders", "world-history", "alexander", "napoleon", "caesar", "historical-comparison"]
 excerpt: "The greatest military leaders compared - strategy, vision, brutality, and the qualities that define greatness."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-07-28
+lang: en
 ---
-
 At the Battle of Gaugamela in 331 BCE, Alexander the Great faced a Persian army that ancient sources put at one million men and modern historians estimate at perhaps 200,000 - still vastly outnumbering his 47,000 Macedonians and Greeks. Rather than adopt the defensive formation that military logic seemed to dictate, Alexander led his Companion Cavalry on an oblique charge toward the Persian left flank, found the gap that his studied observation of the enemy line had identified, drove through it, and personally led the thrust toward Darius III that caused the Persian king to flee and his army to collapse. He was twenty-five years old.
 
 <!--more-->
 
 What makes a military commander great? The question is not simply about victory - history records many generals who won through superior numbers, better logistics, or the incompetence of their opponents. Military greatness in the comparative sense requires more: the ability to achieve decisive results against difficult odds, to maintain the cohesion and morale of forces under extreme stress, to adapt rapidly to unexpected circumstances, to identify and exploit the enemy's vulnerabilities faster than those vulnerabilities can be corrected, and to understand that military operations serve political ends and that the decisive victory must produce the right political outcome. To [compare the greatest military leaders across these dimensions](https://reportmedic.org/tools/world-history-timeline.html) is to ask what qualities of mind and character the sustained exercise of this most demanding form of leadership requires, and what the evidence of history says about them.
 
-![Greatest Military Leaders in History Compared - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Greatest Military Leaders in History Compared - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 ## What Makes a Military Leader Great?
 

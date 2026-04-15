@@ -6,19 +6,19 @@ date: 2016-07-08
 categories: ["Leisure"]
 tags: ["empires", "world-history", "historical-comparison", "rome", "mongol", "british-empire"]
 excerpt: "The greatest empires in history compared - size, power, governance, decline, and the patterns that repeat."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-08
+lang: en
 ---
-
 In 117 CE, the Roman Empire reached its greatest territorial extent under Emperor Trajan, encompassing approximately 5 million square kilometres from Scotland to Mesopotamia, from the Rhine to the Sahara. A single administrative, legal, and monetary system governed this territory; Latin was the language of law and commerce; Roman roads connected its frontiers to its capital; and for subjects across the Mediterranean world, "Roman citizen" was the most desirable legal identity a person could hold. In 1270 CE, the Mongol Empire covered approximately 24 million square kilometres, stretching from Korea to Hungary, making it by far the largest contiguous land empire in history, assembled in less than a century through military campaigns whose ferocity and speed had no precedent. At its 1920 peak, the British Empire encompassed approximately 35.5 million square kilometres and governed approximately 500 million people, a quarter of the world's population.
 
 <!--more-->
 
 These three empires - along with the Ottoman, the Han Chinese, the Achaemenid Persian, the Mauryan, the Mughal, and others - are the largest and most consequential political entities that human civilisation has produced. They shaped languages, religions, legal systems, architectural traditions, trade routes, and population distributions in ways that the modern world still lives with. They raised questions about how large human political organisations can grow, what holds them together, and why they inevitably fall, questions that remain as relevant to the present as to the past. To [compare the greatest empires across their size, governance, economics, military power, cultural achievements, and modes of decline](https://reportmedic.org/tools/world-history-timeline.html) is to ask what patterns the arc of history reveals about power at the largest scale.
 
-![Greatest Empires in History Compared - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Greatest Empires in History Compared - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 ## What Makes an Empire?
 

@@ -6,12 +6,12 @@ date: 2016-06-28
 categories: ["Leisure"]
 tags: ["brexit", "european-union", "british-history", "european-history", "world-history"]
 excerpt: "Brexit explained - the referendum, the negotiations, the consequences, and what it means for Britain and Europe."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-06-28
+lang: en
 ---
-
 At 4:40 in the morning of June 24, 2016, the BBC's David Dimbleby looked into the camera and said the words that no political commentator, no polling firm, and no betting market had fully expected: "The British people have spoken, and the answer is: we're out." The Leave campaign had won 51.9% of the vote. Remain had taken 48.1%. Approximately 17.4 million people had voted to leave the European Union, against approximately 16.1 million who had voted to remain. Turnout was 72.2%, the highest for any UK-wide vote since 1992.
 
 <!--more-->
@@ -20,7 +20,7 @@ Within hours, Prime Minister David Cameron appeared outside 10 Downing Street an
 
 What happened next was three and a half years of political paralysis, constitutional crisis, three prime ministers, three general elections in five years, a prorogation of Parliament that the Supreme Court ruled unlawful, a Withdrawal Agreement that Parliament rejected three times before finally accepting a revised version, and ultimately a departure from the European Union at 11 PM on January 31, 2020 - forty-seven years and twenty-four days after Britain had joined. To [trace the arc from Britain's troubled relationship with European integration through the referendum and its aftermath to the eventual departure and its consequences](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of the most significant and most turbulent political episodes in modern British history.
 
-![Brexit Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Brexit Explained - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 ## Britain's Troubled Relationship with European Integration
 

@@ -6,19 +6,19 @@ date: 2016-06-13
 categories: ["Leisure"]
 tags: ["war-on-terror", "afghanistan", "iraq", "american-history", "world-history"]
 excerpt: "The War on Terror explained - Afghanistan, Iraq, counterterrorism, and the costs of two decades of conflict."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-06-13
+lang: en
 ---
-
 On September 20, 2001, nine days after the attacks that killed 2,977 people in New York, Washington, and Pennsylvania, George W. Bush addressed a joint session of Congress. He declared a war on terror that would not end until every terrorist group of global reach had been found, stopped, and defeated. He warned other nations: "Either you are with us, or you are with the terrorists." He promised a campaign unlike any other, fought on many fronts, by many means, sustained over years. He did not say it would end. He could not say it would end, because he was declaring war not against a country or an army but against a tactic, and tactics do not surrender.
 
 <!--more-->
 
 The War on Terror that Bush declared in September 2001 was neither a war in the traditional sense nor a campaign that could be won in the traditional sense. Over the two decades that followed, it produced two major invasions, dozens of smaller military operations across multiple continents, a drone programme that killed thousands in countries with which the United States was not at formal war, a detention and interrogation system that became a global symbol of democratic governments abandoning their values under pressure, and an intelligence and security apparatus whose scale and intrusiveness had no precedent in American history. It killed approximately 929,000 people by the most comprehensive estimates, including 7,052 American military personnel and hundreds of thousands of civilians in Afghanistan, Iraq, Pakistan, Yemen, Syria, and elsewhere. It cost between four and six trillion dollars by analyses that include veterans' healthcare and long-term obligations. And after twenty years, the Taliban was back in power in Afghanistan, Al-Qaeda's affiliates were operating across a wider geography than before, and the Islamic State had emerged, conquered territory, and been militarily defeated but not destroyed.
 
-![The War on Terror Explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The War on Terror Explained - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Understanding the War on Terror requires understanding both what it was designed to accomplish and what it actually produced, holding the genuine achievements, primarily the disruption of Al-Qaeda's original operational network, alongside the genuine failures, primarily the Iraq War's consequences and the democracy-promotion agenda's collapse, in a framework that neither dismisses the threat the policy was designed to address nor pretends the policy successfully addressed it. To [trace the arc from the September 11 attacks through Afghanistan, Iraq, the drone campaigns, and the ISIS emergence to the Afghanistan withdrawal of 2021](https://reportmedic.org/tools/world-history-timeline.html) is to follow the defining foreign policy experience of the early twenty-first century and one of the most consequential sets of strategic decisions in American history.
 

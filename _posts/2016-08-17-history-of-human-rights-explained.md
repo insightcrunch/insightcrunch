@@ -6,19 +6,19 @@ date: 2016-08-17
 categories: ["Leisure"]
 tags: ["human-rights", "world-history", "political-history", "historical-analysis"]
 excerpt: "The history of human rights - from ancient codes to modern declarations and the ongoing fight for dignity."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-08-17
+lang: en
 ---
-
 On December 10, 1948, the United Nations General Assembly meeting in Paris adopted the Universal Declaration of Human Rights by a vote of forty-eight in favour, zero against, and eight abstentions. Eleanor Roosevelt, who had chaired the drafting committee, held the parchment above her head for the assembled delegates and photographers. The document she raised contained thirty articles asserting the rights and dignities that every human being possesses simply by virtue of being human: the right to life, liberty, and security of person; the right to freedom of thought, conscience, and religion; the right to education; the right to work; the right to participate in government; and dozens of others. It was, she said, "a Magna Carta for all mankind."
 
 <!--more-->
 
 The Universal Declaration was not created in a vacuum. It was created in the direct aftermath of the Holocaust, in a world that had just witnessed the systematic murder of six million Jews and five million others through the machinery of a state that operated within the formal structures of law and governance. The Declaration was humanity's attempt to answer the specific question that the Holocaust had posed most urgently: how can the systematic violation of human dignity by a state be prevented when that state's own legal system is the instrument of the violation? The answer the Declaration offered was not complete or fully enforceable, but it was a beginning: by establishing that certain rights belong to every human being regardless of nationality, race, religion, or any other characteristic, it created the standard against which states could be judged and found wanting.
 
-![The History of Human Rights Explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![The History of Human Rights Explained - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The Declaration was not the beginning of the human rights idea, which has roots that extend to the earliest law codes of the ancient world, to the natural rights philosophy of the Enlightenment, and to the political revolutions that first institutionalised rights in governing documents. To [trace the arc from Hammurabi's Code through the Magna Carta, the Atlantic revolutions, and the Universal Declaration to the contemporary human rights system and its ongoing challenges](https://reportmedic.org/tools/world-history-timeline.html) is to follow one of history's most important and most contested stories: the story of how humanity slowly, painfully, and incompletely built the idea that every person has dignity.
 
