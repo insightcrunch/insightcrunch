@@ -9,7 +9,7 @@ excerpt: "UPSC GS2 governance deep dive: RTI, CAG, Lokpal, e-governance, DBT, Aa
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 65
 author: "anita-das"
-last_updated: 2002-11-05
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS2 governance is the subdomain where aspirants most consistently produce vague generic answers because they treat governance as a topic they understand intuitively from being citizens, rather than as a substantive analytical domain requiring systematic study. The result is predictable. Aspirants who write governance answers from intuition and media talking points consistently underscore by 15 to 25 marks per question relative to aspirants who deploy the institutional frameworks, the legislative provisions, the implementation evidence, the case studies, and the analytical vocabulary that governance preparation properly conducted produces. The gap between intuitive governance answers and analytically grounded governance answers is precisely the gap that separates rank 600 from rank 200 in any given cycle when aggregated across the substantial governance allocation in GS Paper 2. This UPSC GS2 governance strategy guide is built around closing that gap.

@@ -1924,12 +1924,568 @@ sat-math-exponential-functions:
   category: industry
   image: /assets/images/blog/blog-23.webp
   lang: en
+upsc-gs4-aptitude-foundational-values:
+- slug: upsc-gs4-ethics-attitude-emotional-intelligence
+  title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
+  url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
+  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
+  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: upsc-gs2-governance-transparency-accountability-egovernance
+  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
+  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+upsc-gs4-ethics-attitude-emotional-intelligence:
+- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
+  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
+  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+- slug: upsc-gs4-aptitude-foundational-values
+  title: UPSC GS4 Aptitude and Foundational Values for Civil Service
+  url: /2002/09/16/upsc-gs4-aptitude-foundational-values/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: upsc-gs2-governance-transparency-accountability-egovernance
+  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
+  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+upsc-mains-gs-paper-4-ethics-integrity-aptitude:
+- slug: upsc-gs4-ethics-attitude-emotional-intelligence
+  title: UPSC GS4 Ethics, Attitude and Emotional Intelligence
+  url: /2002/09/21/upsc-gs4-ethics-attitude-emotional-intelligence/
+  category: industry
+  image: /assets/images/blog/blog-70.webp
+  lang: en
+- slug: upsc-gs4-aptitude-foundational-values
+  title: UPSC GS4 Aptitude and Foundational Values for Civil Service
+  url: /2002/09/16/upsc-gs4-aptitude-foundational-values/
+  category: industry
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: upsc-mains-gs2-governance-polity-constitution-ir
+  title: 'UPSC Mains GS Paper 2: Governance, Polity, Constitution, IR'
+  url: /2002/11/14/upsc-mains-gs2-governance-polity-constitution-ir/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
+  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
+  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+upsc-gs3-internal-security-mains-deep-dive:
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: upsc-mains-gs-paper-3-economy-technology-environment-security
+  title: 'UPSC Mains GS Paper 3: Economy, Technology, Environment, Security'
+  url: /2002/10/22/upsc-mains-gs-paper-3-economy-technology-environment-security/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: upsc-gs3-agriculture-food-processing-land-reforms
+  title: UPSC GS3 Agriculture, Food Processing and Land Reforms
+  url: /2002/10/13/upsc-gs3-agriculture-food-processing-land-reforms/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+upsc-gs3-environment-biodiversity-disaster-management:
+- slug: upsc-gs3-agriculture-food-processing-land-reforms
+  title: UPSC GS3 Agriculture, Food Processing and Land Reforms
+  url: /2002/10/13/upsc-gs3-agriculture-food-processing-land-reforms/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: upsc-gs3-internal-security-mains-deep-dive
+  title: UPSC GS3 Internal Security, Organised Crime and Terrorism
+  url: /2002/09/30/upsc-gs3-internal-security-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: upsc-mains-gs-paper-3-economy-technology-environment-security
+  title: 'UPSC Mains GS Paper 3: Economy, Technology, Environment, Security'
+  url: /2002/10/22/upsc-mains-gs-paper-3-economy-technology-environment-security/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+upsc-gs3-science-technology-mains-deep-dive:
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: upsc-mains-gs-paper-3-economy-technology-environment-security
+  title: 'UPSC Mains GS Paper 3: Economy, Technology, Environment, Security'
+  url: /2002/10/22/upsc-mains-gs-paper-3-economy-technology-environment-security/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-gs3-internal-security-mains-deep-dive
+  title: UPSC GS3 Internal Security, Organised Crime and Terrorism
+  url: /2002/09/30/upsc-gs3-internal-security-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+upsc-gs3-agriculture-food-processing-land-reforms:
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: upsc-gs2-social-justice-welfare-schemes-vulnerable-sections
+  title: UPSC GS2 Social Justice, Welfare Schemes, Vulnerable Sections
+  url: /2002/10/31/upsc-gs2-social-justice-welfare-schemes-vulnerable-sections/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: upsc-gs3-internal-security-mains-deep-dive
+  title: UPSC GS3 Internal Security, Organised Crime and Terrorism
+  url: /2002/09/30/upsc-gs3-internal-security-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+upsc-gs3-indian-economy-mains-deep-dive:
+- slug: upsc-mains-gs-paper-3-economy-technology-environment-security
+  title: 'UPSC Mains GS Paper 3: Economy, Technology, Environment, Security'
+  url: /2002/10/22/upsc-mains-gs-paper-3-economy-technology-environment-security/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-gs3-agriculture-food-processing-land-reforms
+  title: UPSC GS3 Agriculture, Food Processing and Land Reforms
+  url: /2002/10/13/upsc-gs3-agriculture-food-processing-land-reforms/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: upsc-prelims-economy-strategy
+  title: 'UPSC Prelims: Indian Economy Questions Strategy'
+  url: /2003/03/11/upsc-prelims-economy-strategy/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+upsc-mains-gs-paper-3-economy-technology-environment-security:
+- slug: upsc-gs3-indian-economy-mains-deep-dive
+  title: UPSC GS3 Indian Economy, Growth, Development and Budget
+  url: /2002/10/18/upsc-gs3-indian-economy-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: upsc-gs3-internal-security-mains-deep-dive
+  title: UPSC GS3 Internal Security, Organised Crime and Terrorism
+  url: /2002/09/30/upsc-gs3-internal-security-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+upsc-gs2-international-relations-india-neighbours:
+- slug: upsc-gs2-social-justice-welfare-schemes-vulnerable-sections
+  title: UPSC GS2 Social Justice, Welfare Schemes, Vulnerable Sections
+  url: /2002/10/31/upsc-gs2-social-justice-welfare-schemes-vulnerable-sections/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: upsc-mains-gs2-governance-polity-constitution-ir
+  title: 'UPSC Mains GS Paper 2: Governance, Polity, Constitution, IR'
+  url: /2002/11/14/upsc-mains-gs2-governance-polity-constitution-ir/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: upsc-gs2-governance-transparency-accountability-egovernance
+  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
+  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+upsc-gs2-social-justice-welfare-schemes-vulnerable-sections:
+- slug: upsc-gs2-international-relations-india-neighbours
+  title: UPSC GS2 International Relations, India and Its Neighbours
+  url: /2002/10/27/upsc-gs2-international-relations-india-neighbours/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-gs3-agriculture-food-processing-land-reforms
+  title: UPSC GS3 Agriculture, Food Processing and Land Reforms
+  url: /2002/10/13/upsc-gs3-agriculture-food-processing-land-reforms/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: upsc-gs2-governance-transparency-accountability-egovernance
+  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
+  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: upsc-gs1-indian-society-social-issues-diversity-women
+  title: 'UPSC GS1 Indian Society: Social Issues, Diversity, Women'
+  url: /2002/11/23/upsc-gs1-indian-society-social-issues-diversity-women/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+upsc-gs2-governance-transparency-accountability-egovernance:
+- slug: upsc-mains-gs2-governance-polity-constitution-ir
+  title: 'UPSC Mains GS Paper 2: Governance, Polity, Constitution, IR'
+  url: /2002/11/14/upsc-mains-gs2-governance-polity-constitution-ir/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: upsc-gs2-international-relations-india-neighbours
+  title: UPSC GS2 International Relations, India and Its Neighbours
+  url: /2002/10/27/upsc-gs2-international-relations-india-neighbours/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-gs2-social-justice-welfare-schemes-vulnerable-sections
+  title: UPSC GS2 Social Justice, Welfare Schemes, Vulnerable Sections
+  url: /2002/10/31/upsc-gs2-social-justice-welfare-schemes-vulnerable-sections/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+upsc-gs2-constitution-polity-parliamentary-system:
+- slug: upsc-mains-gs2-governance-polity-constitution-ir
+  title: 'UPSC Mains GS Paper 2: Governance, Polity, Constitution, IR'
+  url: /2002/11/14/upsc-mains-gs2-governance-polity-constitution-ir/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: upsc-gs2-governance-transparency-accountability-egovernance
+  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
+  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: upsc-gs2-social-justice-welfare-schemes-vulnerable-sections
+  title: UPSC GS2 Social Justice, Welfare Schemes, Vulnerable Sections
+  url: /2002/10/31/upsc-gs2-social-justice-welfare-schemes-vulnerable-sections/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: upsc-gs2-international-relations-india-neighbours
+  title: UPSC GS2 International Relations, India and Its Neighbours
+  url: /2002/10/27/upsc-gs2-international-relations-india-neighbours/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+upsc-mains-gs2-governance-polity-constitution-ir:
+- slug: upsc-gs2-constitution-polity-parliamentary-system
+  title: UPSC GS2 Constitution, Polity and Parliamentary System
+  url: /2002/11/09/upsc-gs2-constitution-polity-parliamentary-system/
+  category: industry
+  image: /assets/images/blog/blog-90.webp
+  lang: en
+- slug: upsc-gs2-governance-transparency-accountability-egovernance
+  title: UPSC GS2 Governance, Transparency, Accountability, E-Governance
+  url: /2002/11/05/upsc-gs2-governance-transparency-accountability-egovernance/
+  category: industry
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: upsc-gs2-international-relations-india-neighbours
+  title: UPSC GS2 International Relations, India and Its Neighbours
+  url: /2002/10/27/upsc-gs2-international-relations-india-neighbours/
+  category: industry
+  image: /assets/images/blog/blog-50.webp
+  lang: en
+- slug: upsc-prelims-polity-governance-strategy
+  title: 'UPSC Prelims: Indian Polity and Governance Strategy'
+  url: /2003/03/20/upsc-prelims-polity-governance-strategy/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+upsc-gs1-geography-india-world-mains:
+- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
+  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
+  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-indian-history-ancient-modern-mains
+  title: 'UPSC GS1 Indian History Ancient to Modern: Mains Strategy'
+  url: /2002/12/02/upsc-gs1-indian-history-ancient-modern-mains/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-indian-society-social-issues-diversity-women
+  title: 'UPSC GS1 Indian Society: Social Issues, Diversity, Women'
+  url: /2002/11/23/upsc-gs1-indian-society-social-issues-diversity-women/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: upsc-gs1-world-history-events-shaped-modern-world
+  title: 'UPSC GS1 World History: Events That Shaped Modern World'
+  url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+upsc-gs1-indian-society-social-issues-diversity-women:
+- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
+  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
+  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-geography-india-world-mains
+  title: 'UPSC GS1 Geography: India and World for Mains Strategy'
+  url: /2002/11/18/upsc-gs1-geography-india-world-mains/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: upsc-gs1-indian-history-ancient-modern-mains
+  title: 'UPSC GS1 Indian History Ancient to Modern: Mains Strategy'
+  url: /2002/12/02/upsc-gs1-indian-history-ancient-modern-mains/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-world-history-events-shaped-modern-world
+  title: 'UPSC GS1 World History: Events That Shaped Modern World'
+  url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+upsc-gs1-world-history-events-shaped-modern-world:
+- slug: upsc-gs1-indian-history-ancient-modern-mains
+  title: 'UPSC GS1 Indian History Ancient to Modern: Mains Strategy'
+  url: /2002/12/02/upsc-gs1-indian-history-ancient-modern-mains/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-geography-india-world-mains
+  title: 'UPSC GS1 Geography: India and World for Mains Strategy'
+  url: /2002/11/18/upsc-gs1-geography-india-world-mains/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
+  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
+  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-indian-society-social-issues-diversity-women
+  title: 'UPSC GS1 Indian Society: Social Issues, Diversity, Women'
+  url: /2002/11/23/upsc-gs1-indian-society-social-issues-diversity-women/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+upsc-gs1-indian-history-ancient-modern-mains:
+- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
+  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
+  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-world-history-events-shaped-modern-world
+  title: 'UPSC GS1 World History: Events That Shaped Modern World'
+  url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: upsc-gs1-geography-india-world-mains
+  title: 'UPSC GS1 Geography: India and World for Mains Strategy'
+  url: /2002/11/18/upsc-gs1-geography-india-world-mains/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: upsc-gs1-indian-society-social-issues-diversity-women
+  title: 'UPSC GS1 Indian Society: Social Issues, Diversity, Women'
+  url: /2002/11/23/upsc-gs1-indian-society-social-issues-diversity-women/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+upsc-mains-gs-paper-1-heritage-history-geography-society:
+- slug: upsc-gs1-indian-history-ancient-modern-mains
+  title: 'UPSC GS1 Indian History Ancient to Modern: Mains Strategy'
+  url: /2002/12/02/upsc-gs1-indian-history-ancient-modern-mains/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-geography-india-world-mains
+  title: 'UPSC GS1 Geography: India and World for Mains Strategy'
+  url: /2002/11/18/upsc-gs1-geography-india-world-mains/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: upsc-gs1-indian-society-social-issues-diversity-women
+  title: 'UPSC GS1 Indian Society: Social Issues, Diversity, Women'
+  url: /2002/11/23/upsc-gs1-indian-society-social-issues-diversity-women/
+  category: industry
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: upsc-gs1-world-history-events-shaped-modern-world
+  title: 'UPSC GS1 World History: Events That Shaped Modern World'
+  url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+upsc-mains-complete-guide:
+- slug: upsc-gs1-indian-history-ancient-modern-mains
+  title: 'UPSC GS1 Indian History Ancient to Modern: Mains Strategy'
+  url: /2002/12/02/upsc-gs1-indian-history-ancient-modern-mains/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-mains-gs-paper-1-heritage-history-geography-society
+  title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
+  url: /2002/12/06/upsc-mains-gs-paper-1-heritage-history-geography-society/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: upsc-gs1-geography-india-world-mains
+  title: 'UPSC GS1 Geography: India and World for Mains Strategy'
+  url: /2002/11/18/upsc-gs1-geography-india-world-mains/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: upsc-mains-gs-paper-4-ethics-integrity-aptitude
+  title: 'UPSC Mains GS Paper 4: Ethics, Integrity and Aptitude'
+  url: /2002/09/25/upsc-mains-gs-paper-4-ethics-integrity-aptitude/
+  category: industry
+  image: /assets/images/blog/blog-31.webp
+  lang: en
+upsc-prelims-exam-day-logistics-strategy:
+- slug: upsc-prelims-ancient-history
+  title: 'UPSC Prelims: Ancient Indian History Deep Dive'
+  url: /2003/01/20/upsc-prelims-ancient-history/
+  category: industry
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: upsc-prelims-modern-history
+  title: 'UPSC Prelims: Modern Indian History Deep Dive'
+  url: /2003/01/11/upsc-prelims-modern-history/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: upsc-prelims-complete-guide
+  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
+  url: /2003/04/02/upsc-prelims-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: upsc-study-plan-12-18-24-months
+  title: 'UPSC Study Plan: 12, 18 and 24 Month Timelines'
+  url: /2003/07/01/upsc-study-plan-12-18-24-months/
+  category: industry
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+upsc-prelims-last-30-days:
+- slug: upsc-prelims-mock-test-strategy
+  title: UPSC Prelims Mock Test Strategy
+  url: /2003/01/25/upsc-prelims-mock-test-strategy/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: upsc-prelims-science-technology-strategy
+  title: 'UPSC Prelims: Science and Technology Strategy'
+  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+  category: industry
+  image: /assets/images/blog/blog-46.webp
+  lang: en
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 upsc-prelims-biodiversity-ecology:
 - slug: upsc-prelims-geography-environment-strategy
   title: 'UPSC Prelims: Geography and Environment Strategy'
   url: /2003/03/15/upsc-prelims-geography-environment-strategy/
   category: industry
   image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: upsc-gs3-environment-biodiversity-disaster-management
+  title: UPSC GS3 Environment, Biodiversity and Disaster Management
+  url: /2002/10/04/upsc-gs3-environment-biodiversity-disaster-management/
+  category: industry
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: upsc-prelims-international-relations
   title: 'UPSC Prelims: International Relations and Organisations'
@@ -1942,12 +2498,6 @@ upsc-prelims-biodiversity-ecology:
   url: /2003/04/02/upsc-prelims-complete-guide/
   category: industry
   image: /assets/images/blog/blog-28.webp
-  lang: en
-- slug: upsc-prelims-maps-geography
-  title: 'UPSC Prelims: Maps, Atlases and Geography Facts'
-  url: /2003/01/02/upsc-prelims-maps-geography/
-  category: industry
-  image: /assets/images/blog/blog-66.webp
   lang: en
 upsc-prelims-international-relations:
 - slug: upsc-prelims-biodiversity-ecology
@@ -2037,17 +2587,17 @@ upsc-prelims-modern-history:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: upsc-prelims-medieval-history
   title: 'UPSC Prelims: Medieval Indian History Deep Dive'
   url: /2003/01/16/upsc-prelims-medieval-history/
   category: industry
   image: /assets/images/blog/blog-76.webp
-  lang: en
-- slug: upsc-prelims-international-relations
-  title: 'UPSC Prelims: International Relations and Organisations'
-  url: /2002/12/29/upsc-prelims-international-relations/
-  category: industry
-  image: /assets/images/blog/blog-82.webp
   lang: en
 upsc-prelims-medieval-history:
 - slug: upsc-prelims-ancient-history
@@ -2093,11 +2643,11 @@ upsc-prelims-ancient-history:
   category: industry
   image: /assets/images/blog/blog-76.webp
   lang: en
-- slug: upsc-prelims-complete-guide
-  title: 'UPSC Prelims Complete Guide: GS Paper 1 and CSAT Strategy'
-  url: /2003/04/02/upsc-prelims-complete-guide/
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
   category: industry
-  image: /assets/images/blog/blog-28.webp
+  image: /assets/images/blog/blog-16.webp
   lang: en
 upsc-prelims-mock-test-strategy:
 - slug: upsc-prelims-complete-guide
@@ -2105,6 +2655,12 @@ upsc-prelims-mock-test-strategy:
   url: /2003/04/02/upsc-prelims-complete-guide/
   category: industry
   image: /assets/images/blog/blog-28.webp
+  lang: en
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
   lang: en
 - slug: upsc-prelims-time-management
   title: 'UPSC Prelims: Time Management in 120 Minutes'
@@ -2118,11 +2674,11 @@ upsc-prelims-mock-test-strategy:
   category: industry
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: upsc-prelims-science-technology-strategy
-  title: 'UPSC Prelims: Science and Technology Strategy'
-  url: /2003/03/06/upsc-prelims-science-technology-strategy/
+- slug: upsc-prelims-last-30-days
+  title: UPSC Prelims Last 30 Days Strategy
+  url: /2002/12/20/upsc-prelims-last-30-days/
   category: industry
-  image: /assets/images/blog/blog-46.webp
+  image: /assets/images/blog-04.webp
   lang: en
 upsc-prelims-pyq-analysis:
 - slug: upsc-prelims-topic-wise-weightage
@@ -2337,17 +2893,17 @@ upsc-prelims-science-technology-strategy:
   category: industry
   image: /assets/images/blog/blog-50.webp
   lang: en
+- slug: upsc-gs3-science-technology-mains-deep-dive
+  title: UPSC GS3 Science and Technology Developments
+  url: /2002/10/09/upsc-gs3-science-technology-mains-deep-dive/
+  category: industry
+  image: /assets/images/blog/blog-07.webp
+  lang: en
 - slug: upsc-prelims-geography-environment-strategy
   title: 'UPSC Prelims: Geography and Environment Strategy'
   url: /2003/03/15/upsc-prelims-geography-environment-strategy/
   category: industry
   image: /assets/images/blog/blog-33.webp
-  lang: en
-- slug: upsc-prelims-current-affairs-strategy
-  title: 'UPSC Prelims: Current Affairs Pattern and Coverage'
-  url: /2003/03/02/upsc-prelims-current-affairs-strategy/
-  category: industry
-  image: /assets/images/blog/blog-61.webp
   lang: en
 upsc-prelims-economy-strategy:
 - slug: upsc-prelims-polity-governance-strategy
@@ -2506,6 +3062,12 @@ upsc-prelims-complete-guide:
   image: /assets/images/blog/blog-08.webp
   lang: en
 upsc-answer-writing:
+- slug: upsc-mains-complete-guide
+  title: 'UPSC Mains Complete Guide: Essay, GS, Optional Strategy'
+  url: /2002/12/11/upsc-mains-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
 - slug: upsc-cut-off-analysis
   title: 'UPSC Cut-Off Analysis: Prelims, Mains and Final'
   url: /2003/06/09/upsc-cut-off-analysis/
@@ -2523,12 +3085,6 @@ upsc-answer-writing:
   url: /2003/04/11/upsc-current-affairs-strategy/
   category: industry
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: upsc-preparation-cost
-  title: 'UPSC Preparation Cost: Budget for Coaching, Books, Living'
-  url: /2003/04/20/upsc-preparation-cost/
-  category: industry
-  image: /assets/images/blog/blog-37.webp
   lang: en
 upsc-current-affairs-strategy:
 - slug: upsc-prelims-current-affairs-strategy
@@ -2599,11 +3155,11 @@ upsc-preparation-cost:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: upsc-prelims-economy-strategy
-  title: 'UPSC Prelims: Indian Economy Questions Strategy'
-  url: /2003/03/11/upsc-prelims-economy-strategy/
+- slug: upsc-gs3-indian-economy-mains-deep-dive
+  title: UPSC GS3 Indian Economy, Growth, Development and Budget
+  url: /2002/10/18/upsc-gs3-indian-economy-mains-deep-dive/
   category: industry
-  image: /assets/images/blog/blog-50.webp
+  image: /assets/images/blog/blog-11.webp
   lang: en
 - slug: sarkari-naukri-complete-guide
   title: 'Sarkari Naukri Complete Guide: Eligibility, Selection & Preparation'
@@ -2805,11 +3361,11 @@ upsc-working-professionals:
   category: industry
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: upsc-coaching-vs-self-study
-  title: 'UPSC Coaching vs Self-Study: How to Decide'
-  url: /2003/06/22/upsc-coaching-vs-self-study/
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
   category: industry
-  image: /assets/images/blog/blog-35.webp
+  image: /assets/images/blog/blog-16.webp
   lang: en
 upsc-optional-subject-selection:
 - slug: upsc-prelims-geography-environment-strategy
@@ -2843,6 +3399,12 @@ upsc-toppers-strategy:
   category: industry
   image: /assets/images/blog/blog-15.webp
   lang: en
+- slug: upsc-mains-complete-guide
+  title: 'UPSC Mains Complete Guide: Essay, GS, Optional Strategy'
+  url: /2002/12/11/upsc-mains-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-68.webp
+  lang: en
 - slug: upsc-working-professionals
   title: 'UPSC for Working Professionals: Prepare While Working'
   url: /2003/05/26/upsc-working-professionals/
@@ -2854,12 +3416,6 @@ upsc-toppers-strategy:
   url: /2003/01/25/upsc-prelims-mock-test-strategy/
   category: industry
   image: /assets/images/blog/blog-32.webp
-  lang: en
-- slug: upsc-coaching-vs-self-study
-  title: 'UPSC Coaching vs Self-Study: How to Decide'
-  url: /2003/06/22/upsc-coaching-vs-self-study/
-  category: industry
-  image: /assets/images/blog/blog-35.webp
   lang: en
 upsc-cut-off-analysis:
 - slug: upsc-exam-pattern-2026
@@ -2999,17 +3555,17 @@ upsc-study-plan-12-18-24-months:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: upsc-working-professionals
   title: 'UPSC for Working Professionals: Prepare While Working'
   url: /2003/05/26/upsc-working-professionals/
   category: industry
   image: /assets/images/blog/blog-28.webp
-  lang: en
-- slug: upsc-arts-humanities-graduates
-  title: 'UPSC for Arts Graduates: Humanities Background Edge'
-  url: /2003/05/13/upsc-arts-humanities-graduates/
-  category: industry
-  image: /assets/images/blog/blog-50.webp
   lang: en
 upsc-preparation-from-zero:
 - slug: upsc-study-plan-12-18-24-months
@@ -3024,17 +3580,17 @@ upsc-preparation-from-zero:
   category: industry
   image: /assets/images/blog/blog-35.webp
   lang: en
+- slug: upsc-prelims-exam-day-logistics-strategy
+  title: 'UPSC Prelims Exam Day: Logistics and Strategy'
+  url: /2002/12/15/upsc-prelims-exam-day-logistics-strategy/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: upsc-civil-services-complete-guide
   title: The Complete Guide to UPSC Civil Services Exam
   url: /2003/07/24/upsc-civil-services-complete-guide/
   category: industry
   image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: upsc-booklist
-  title: 'UPSC Booklist: Books for Prelims, Mains, GS'
-  url: /2003/06/27/upsc-booklist/
-  category: industry
-  image: /assets/images/blog/blog-73.webp
   lang: en
 upsc-syllabus-prelims-mains:
 - slug: upsc-exam-pattern-2026
@@ -7601,6 +8157,31 @@ predict-your-tcs-ilp-score:
   category: industry
   image: /assets/images/blog/blog-03.webp
   lang: en
+hamlet-character-analysis-deep-dive:
+- slug: claudius-hamlet-character-analysis
+  title: Claudius Character Analysis in Hamlet
+  url: /2010/10/07/claudius-hamlet-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: mr-rochester-character-analysis
+  title: Mr. Rochester Character Analysis
+  url: /2014/10/22/mr-rochester-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: heathcliff-character-analysis
+  title: Heathcliff Character Analysis
+  url: /2014/09/12/heathcliff-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: the-creature-frankenstein-analysis
+  title: The Creature Character Analysis
+  url: /2014/08/28/the-creature-frankenstein-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
+  lang: en
 tcs-2010-offcampus-joining-dates:
 - slug: tcs-2010-batch-joining-dates
   title: TCS Joining Date - How Freshers Get Dates
@@ -7625,6 +8206,31 @@ tcs-2010-offcampus-joining-dates:
   url: /2021/01/22/tcs-2021-joining-date/
   category: industry
   image: /assets/images/blog/blog-10.webp
+  lang: en
+claudius-hamlet-character-analysis:
+- slug: hamlet-character-analysis-deep-dive
+  title: Hamlet Character Analysis
+  url: /2010/10/02/hamlet-character-analysis-deep-dive/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: obrien-character-analysis-1984
+  title: O'Brien Character Analysis in 1984
+  url: /2013/12/31/obrien-character-analysis-1984/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: heathcliff-character-analysis
+  title: Heathcliff Character Analysis
+  url: /2014/09/12/heathcliff-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
+- slug: wickham-character-analysis-austen
+  title: Mr. Wickham Character Analysis
+  url: /2014/04/15/wickham-character-analysis-austen/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 tcs-split-wide-open-guest-post:
 - slug: tcs-fresher-life
@@ -15520,6 +16126,12 @@ will-google-layoff-employees:
   image: /assets/images/blog/blog-59.webp
   lang: en
 ancient-greek-civilization-explained:
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
 - slug: ancient-egyptian-civilization-explained
   title: Ancient Egyptian Civilization Explained
   url: /2015/04/30/ancient-egyptian-civilization-explained/
@@ -15538,12 +16150,6 @@ ancient-greek-civilization-explained:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: ancient-mesopotamia-civilization
-  title: 'Ancient Mesopotamia: Cradle of Civilization'
-  url: /2015/05/30/ancient-mesopotamia-civilization/
-  category: leisure
-  image: /assets/images/blog/blog-43.webp
-  lang: en
 ancient-egyptian-civilization-explained:
 - slug: ancient-greek-civilization-explained
   title: Ancient Greek Civilization Explained
@@ -15557,17 +16163,17 @@ ancient-egyptian-civilization-explained:
   category: leisure
   image: /assets/images/blog/blog-43.webp
   lang: en
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: han-dynasty-china-golden-age
   title: 'Han Dynasty: China''s Golden Age Explained'
   url: /2015/06/19/han-dynasty-china-golden-age/
   category: leisure
   image: /assets/images/blog/blog-68.webp
-  lang: en
-- slug: rise-and-fall-roman-empire-explained
-  title: Rise and Fall of the Roman Empire Explained
-  url: /2015/04/20/rise-and-fall-roman-empire-explained/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
   lang: en
 alexander-the-great-life-conquests:
 - slug: persian-empire-history-explained
@@ -15575,6 +16181,12 @@ alexander-the-great-life-conquests:
   url: /2015/05/25/persian-empire-history-explained/
   category: leisure
   image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
   lang: en
 - slug: battle-of-the-somme-explained
   title: The Battle of the Somme Explained
@@ -15587,12 +16199,6 @@ alexander-the-great-life-conquests:
   url: /2015/05/15/cleopatra-last-pharaoh-egypt/
   category: leisure
   image: /assets/images/blog/blog-70.webp
-  lang: en
-- slug: causes-of-world-war-1-explained
-  title: Causes of World War I Explained
-  url: /2015/11/16/causes-of-world-war-1-explained/
-  category: leisure
-  image: /assets/images/blog/blog-72.webp
   lang: en
 julius-caesar-life-assassination:
 - slug: roman-republic-to-empire-transition
@@ -15670,29 +16276,29 @@ cleopatra-last-pharaoh-egypt:
   image: /assets/images/blog/blog-58.webp
   lang: en
 sparta-vs-athens-compared-explained:
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
 - slug: ancient-greek-civilization-explained
   title: Ancient Greek Civilization Explained
   url: /2015/04/25/ancient-greek-civilization-explained/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: battle-of-stalingrad-explained
-  title: The Battle of Stalingrad Explained
-  url: /2016/02/09/battle-of-stalingrad-explained/
+- slug: greatest-revolutions-history-compared
+  title: Greatest Revolutions in History Compared
+  url: /2016/07/13/greatest-revolutions-history-compared/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: alexander-the-great-life-conquests
-  title: 'Alexander the Great: Life and Conquests'
-  url: /2015/05/05/alexander-the-great-life-conquests/
-  category: leisure
-  image: /assets/images/blog/blog-58.webp
-  lang: en
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-10.webp
   lang: en
 persian-empire-history-explained:
 - slug: rise-and-fall-roman-empire-explained
@@ -15738,11 +16344,11 @@ ancient-mesopotamia-civilization:
   category: leisure
   image: /assets/images/blog/blog-54.webp
   lang: en
-- slug: maurya-empire-ancient-india
-  title: 'Maurya Empire: Ancient India''s First Superpower'
-  url: /2015/06/24/maurya-empire-ancient-india/
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
   category: leisure
-  image: /assets/images/blog/blog-39.webp
+  image: /assets/images/blog/blog-51.webp
   lang: en
 roman-republic-to-empire-transition:
 - slug: julius-caesar-life-assassination
@@ -15801,6 +16407,12 @@ destruction-pompeii-vesuvius-79-ad:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
+- slug: greatest-empires-history-compared
+  title: Greatest Empires in History Compared
+  url: /2016/07/08/greatest-empires-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
 - slug: byzantine-empire-history-explained
   title: The Byzantine Empire Explained
   url: /2015/07/04/byzantine-empire-history-explained/
@@ -15812,12 +16424,6 @@ destruction-pompeii-vesuvius-79-ad:
   url: /2015/06/29/fall-of-roman-empire-causes/
   category: leisure
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: julius-caesar-life-assassination
-  title: 'Julius Caesar: Life, Power, Assassination'
-  url: /2015/05/10/julius-caesar-life-assassination/
-  category: leisure
-  image: /assets/images/blog/blog-10.webp
   lang: en
 is-meta-going-to-have-layoffs-2:
 - slug: is-meta-in-a-hiring-freeze
@@ -15857,17 +16463,17 @@ han-dynasty-china-golden-age:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: mongol-empire-genghis-khan-history
-  title: The Mongol Empire and Genghis Khan Explained
-  url: /2015/07/24/mongol-empire-genghis-khan-history/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
   category: leisure
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-51.webp
   lang: en
 maurya-empire-ancient-india:
 - slug: mughal-empire-india-history
@@ -15926,6 +16532,12 @@ byzantine-empire-history-explained:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
+- slug: rise-and-fall-roman-empire-explained
+  title: Rise and Fall of the Roman Empire Explained
+  url: /2015/04/20/rise-and-fall-roman-empire-explained/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: medieval-feudalism-explained
   title: 'Medieval Feudalism Explained: How It Worked'
   url: /2015/07/29/medieval-feudalism-explained/
@@ -15937,12 +16549,6 @@ byzantine-empire-history-explained:
   url: /2015/07/19/viking-age-history-explained/
   category: leisure
   image: /assets/images/blog/blog-53.webp
-  lang: en
-- slug: the-crusades-explained-complete-guide
-  title: 'The Crusades Explained: Complete Guide'
-  url: /2015/07/09/the-crusades-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-35.webp
   lang: en
 the-crusades-explained-complete-guide:
 - slug: protestant-reformation-explained
@@ -15995,29 +16601,29 @@ is-meta-in-a-hiring-freeze:
   image: /assets/images/blog/blog-02.webp
   lang: en
 black-death-plague-explained:
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
 - slug: mongol-empire-genghis-khan-history
   title: The Mongol Empire and Genghis Khan Explained
   url: /2015/07/24/mongol-empire-genghis-khan-history/
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: viking-age-history-explained
-  title: 'The Viking Age: History and Legacy Explained'
-  url: /2015/07/19/viking-age-history-explained/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: meiji-restoration-japan-explained
-  title: The Meiji Restoration in Japan Explained
-  url: /2015/11/06/meiji-restoration-japan-explained/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
-- slug: ancient-greek-civilization-explained
-  title: Ancient Greek Civilization Explained
-  url: /2015/04/25/ancient-greek-civilization-explained/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 viking-age-history-explained:
 - slug: black-death-plague-explained
@@ -16063,11 +16669,11 @@ mongol-empire-genghis-khan-history:
   category: leisure
   image: /assets/images/blog/blog-79.webp
   lang: en
-- slug: ancient-greek-civilization-explained
-  title: Ancient Greek Civilization Explained
-  url: /2015/04/25/ancient-greek-civilization-explained/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 medieval-feudalism-explained:
 - slug: byzantine-empire-history-explained
@@ -16088,11 +16694,11 @@ medieval-feudalism-explained:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: the-crusades-explained-complete-guide
-  title: 'The Crusades Explained: Complete Guide'
-  url: /2015/07/09/the-crusades-explained-complete-guide/
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-35.webp
+  image: /assets/images/blog/blog-57.webp
   lang: en
 the-renaissance-explained-complete:
 - slug: how-ww1-changed-the-world
@@ -16101,23 +16707,23 @@ the-renaissance-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
+- slug: european-union-formation-history
+  title: How the European Union Was Formed
+  url: /2016/06/23/european-union-formation-history/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: protestant-reformation-explained
   title: The Protestant Reformation Explained
   url: /2015/08/13/protestant-reformation-explained/
   category: leisure
   image: /assets/images/blog/blog-11.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 protestant-reformation-explained:
 - slug: the-renaissance-explained-complete
@@ -16125,6 +16731,12 @@ protestant-reformation-explained:
   url: /2015/08/08/the-renaissance-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
@@ -16138,11 +16750,11 @@ protestant-reformation-explained:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: napoleonic-wars-explained-complete
-  title: The Napoleonic Wars Explained
-  url: /2015/09/22/napoleonic-wars-explained-complete/
+- slug: the-crusades-explained-complete-guide
+  title: 'The Crusades Explained: Complete Guide'
+  url: /2015/07/09/the-crusades-explained-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
+  image: /assets/images/blog/blog-35.webp
   lang: en
 age-of-exploration-history-explained:
 - slug: scramble-for-africa-colonialism
@@ -16150,6 +16762,12 @@ age-of-exploration-history-explained:
   url: /2015/10/22/scramble-for-africa-colonialism/
   category: leisure
   image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: napoleonic-wars-explained-complete
   title: The Napoleonic Wars Explained
@@ -16162,12 +16780,6 @@ age-of-exploration-history-explained:
   url: /2015/08/13/protestant-reformation-explained/
   category: leisure
   image: /assets/images/blog/blog-11.webp
-  lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
   lang: en
 is-meta-going-to-have-layoffs:
 - slug: meta-layoffs-2022
@@ -16201,6 +16813,12 @@ spanish-armada-1588-explained:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
@@ -16212,12 +16830,6 @@ spanish-armada-1588-explained:
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: treaty-of-versailles-explained
-  title: The Treaty of Versailles Explained
-  url: /2015/11/26/treaty-of-versailles-explained/
-  category: leisure
-  image: /assets/images/blog/blog-31.webp
   lang: en
 scientific-revolution-history-explained:
 - slug: french-revolution-explained-complete
@@ -16226,6 +16838,12 @@ scientific-revolution-history-explained:
   category: leisure
   image: /assets/images/blog/blog-30.webp
   lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
@@ -16237,12 +16855,6 @@ scientific-revolution-history-explained:
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 mughal-empire-india-history:
 - slug: ancient-greek-civilization-explained
@@ -16263,11 +16875,11 @@ mughal-empire-india-history:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 french-revolution-explained-complete:
 - slug: napoleonic-wars-explained-complete
@@ -16282,17 +16894,17 @@ french-revolution-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: causes-of-world-war-1-explained
-  title: Causes of World War I Explained
-  url: /2015/11/16/causes-of-world-war-1-explained/
+- slug: greatest-revolutions-history-compared
+  title: Greatest Revolutions in History Compared
+  url: /2016/07/13/greatest-revolutions-history-compared/
   category: leisure
-  image: /assets/images/blog/blog-72.webp
+  image: /assets/images/blog/blog-10.webp
   lang: en
-- slug: age-of-exploration-history-explained
-  title: The Age of Exploration Explained
-  url: /2015/08/18/age-of-exploration-history-explained/
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-77.webp
+  image: /assets/images/blog/blog-57.webp
   lang: en
 american-revolution-explained-complete:
 - slug: declaration-of-independence-explained
@@ -16313,13 +16925,25 @@ american-revolution-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: great-depression-explained-complete
-  title: The Great Depression Explained
-  url: /2015/12/26/great-depression-explained-complete/
+- slug: september-11-attacks-explained
+  title: The September 11 Attacks Explained
+  url: /2016/06/08/september-11-attacks-explained/
   category: leisure
-  image: /assets/images/blog/blog-09.webp
+  image: /assets/images/blog/blog-12.webp
   lang: en
 industrial-revolution-explained:
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
 - slug: great-depression-explained-complete
   title: The Great Depression Explained
   url: /2015/12/26/great-depression-explained-complete/
@@ -16331,18 +16955,6 @@ industrial-revolution-explained:
   url: /2015/11/11/irish-great-famine-history-explained/
   category: leisure
   image: /assets/images/blog/blog-89.webp
-  lang: en
-- slug: battle-of-the-somme-explained
-  title: The Battle of the Somme Explained
-  url: /2015/12/01/battle-of-the-somme-explained/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
-  lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
   lang: en
 how-long-will-the-meta-hiring-freeze-last:
 - slug: meta-hiring-freeze
@@ -16382,17 +16994,17 @@ napoleonic-wars-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
   image: /assets/images/blog/blog-77.webp
-  lang: en
-- slug: causes-of-world-war-1-explained
-  title: Causes of World War I Explained
-  url: /2015/11/16/causes-of-world-war-1-explained/
-  category: leisure
-  image: /assets/images/blog/blog-72.webp
   lang: en
 haitian-revolution-explained:
 - slug: american-civil-war-explained-complete
@@ -16426,23 +17038,23 @@ declaration-of-independence-explained:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: september-11-attacks-explained
+  title: The September 11 Attacks Explained
+  url: /2016/06/08/september-11-attacks-explained/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 - slug: great-depression-explained-complete
   title: The Great Depression Explained
   url: /2015/12/26/great-depression-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-09.webp
-  lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: mccarthyism-red-scare-explained
-  title: McCarthyism and the Red Scare Explained
-  url: /2016/04/09/mccarthyism-red-scare-explained/
-  category: leisure
-  image: /assets/images/blog/blog-18.webp
   lang: en
 how-long-is-ibm-hiring-process:
 - slug: ibm-interview-process
@@ -16476,6 +17088,12 @@ american-civil-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 - slug: american-revolution-explained-complete
   title: The American Revolution Explained
   url: /2015/09/12/american-revolution-explained-complete/
@@ -16488,12 +17106,6 @@ american-civil-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
 - slug: haitian-revolution-explained
   title: The Haitian Revolution Explained
   url: /2015/09/27/haitian-revolution-explained/
@@ -16501,29 +17113,29 @@ american-civil-war-explained-complete:
   image: /assets/images/blog/blog-34.webp
   lang: en
 abolition-slavery-history-timeline:
-- slug: the-holocaust-explained-complete
-  title: 'The Holocaust Explained: Complete History'
-  url: /2016/01/30/the-holocaust-explained-complete/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: lessons-history-teaches-us-today
+  title: Lessons That History Teaches Us Today
+  url: /2016/08/27/lessons-history-teaches-us-today/
   category: leisure
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: black-death-plague-explained
-  title: 'The Black Death Explained: History and Impact'
-  url: /2015/07/14/black-death-plague-explained/
-  category: leisure
-  image: /assets/images/blog/blog-02.webp
-  lang: en
-- slug: how-ww1-changed-the-world
-  title: How World War I Changed the World Forever
-  url: /2015/12/16/how-ww1-changed-the-world/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: ancient-greek-civilization-explained
-  title: Ancient Greek Civilization Explained
-  url: /2015/04/25/ancient-greek-civilization-explained/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
   lang: en
 scramble-for-africa-colonialism:
 - slug: age-of-exploration-history-explained
@@ -16531,6 +17143,12 @@ scramble-for-africa-colonialism:
   url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
   image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: french-revolution-explained-complete
   title: The French Revolution Explained
@@ -16543,12 +17161,6 @@ scramble-for-africa-colonialism:
   url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
   image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: napoleonic-wars-explained-complete
-  title: The Napoleonic Wars Explained
-  url: /2015/09/22/napoleonic-wars-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
   lang: en
 unification-germany-bismarck:
 - slug: unification-italy-risorgimento
@@ -16588,42 +17200,42 @@ unification-italy-risorgimento:
   category: leisure
   image: /assets/images/blog/blog-66.webp
   lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: french-revolution-explained-complete
   title: The French Revolution Explained
   url: /2015/09/07/french-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-30.webp
   lang: en
-- slug: napoleonic-wars-explained-complete
-  title: The Napoleonic Wars Explained
-  url: /2015/09/22/napoleonic-wars-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
 meiji-restoration-japan-explained:
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: nuclear-arms-race-explained
   title: The Nuclear Arms Race Explained
   url: /2016/04/19/nuclear-arms-race-explained/
   category: leisure
   image: /assets/images/blog/blog-78.webp
   lang: en
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
   category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-51.webp
   lang: en
 irish-great-famine-history-explained:
 - slug: battle-of-the-somme-explained
@@ -16807,23 +17419,23 @@ russian-revolution-1917-explained:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: meiji-restoration-japan-explained
-  title: The Meiji Restoration in Japan Explained
-  url: /2015/11/06/meiji-restoration-japan-explained/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-13.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: space-race-explained-complete
-  title: 'The Space Race Explained: US vs USSR'
-  url: /2016/04/04/space-race-explained-complete/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
+- slug: ancient-greek-civilization-explained
+  title: Ancient Greek Civilization Explained
+  url: /2015/04/25/ancient-greek-civilization-explained/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-01.webp
   lang: en
 armenian-genocide-history-explained:
 - slug: rwandan-genocide-1994-explained
@@ -16838,17 +17450,17 @@ armenian-genocide-history-explained:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: apartheid-south-africa-explained
   title: Apartheid in South Africa Explained
   url: /2016/05/09/apartheid-south-africa-explained/
   category: leisure
   image: /assets/images/blog/blog-40.webp
-  lang: en
-- slug: battle-of-the-somme-explained
-  title: The Battle of the Somme Explained
-  url: /2015/12/01/battle-of-the-somme-explained/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
   lang: en
 tcs-hiring-steps:
 - slug: tcs-nqt-hiring-process
@@ -16882,6 +17494,12 @@ how-ww1-changed-the-world:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
+- slug: european-union-formation-history
+  title: How the European Union Was Formed
+  url: /2016/06/23/european-union-formation-history/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
 - slug: treaty-of-versailles-explained
   title: The Treaty of Versailles Explained
   url: /2015/11/26/treaty-of-versailles-explained/
@@ -16893,12 +17511,6 @@ how-ww1-changed-the-world:
   url: /2016/02/19/how-world-war-2-ended-explained/
   category: leisure
   image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
   lang: en
 rise-of-hitler-nazi-germany:
 - slug: nuremberg-trials-explained
@@ -16944,11 +17556,11 @@ great-depression-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
 rise-of-mussolini-fascist-italy:
 - slug: spanish-civil-war-explained
@@ -16994,11 +17606,11 @@ stalin-soviet-union-history:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: the-renaissance-explained-complete
-  title: 'The Renaissance Explained: Complete Guide'
-  url: /2015/08/08/the-renaissance-explained-complete/
+- slug: european-union-formation-history
+  title: How the European Union Was Formed
+  url: /2016/06/23/european-union-formation-history/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
 spanish-civil-war-explained:
 - slug: rise-of-mussolini-fascist-italy
@@ -17019,11 +17631,11 @@ spanish-civil-war-explained:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: american-civil-war-explained-complete
-  title: The American Civil War Explained
-  url: /2015/10/12/american-civil-war-explained-complete/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
 - slug: spanish-armada-1588-explained
   title: The Spanish Armada of 1588 Explained
@@ -17082,6 +17694,12 @@ weimar-republic-explained:
   image: /assets/images/blog/blog-51.webp
   lang: en
 causes-of-world-war-2-explained:
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
+  lang: en
 - slug: how-world-war-2-ended-explained
   title: How World War II Ended Explained
   url: /2016/02/19/how-world-war-2-ended-explained/
@@ -17099,12 +17717,6 @@ causes-of-world-war-2-explained:
   url: /2016/02/29/resistance-movements-world-war-2/
   category: leisure
   image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: battle-of-stalingrad-explained
-  title: The Battle of Stalingrad Explained
-  url: /2016/02/09/battle-of-stalingrad-explained/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
   lang: en
 d-day-normandy-invasion-explained:
 - slug: battle-of-stalingrad-explained
@@ -17156,12 +17768,6 @@ the-holocaust-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: abolition-slavery-history-timeline
-  title: 'Abolition of Slavery: History and Timeline'
-  url: /2015/10/17/abolition-slavery-history-timeline/
-  category: leisure
-  image: /assets/images/blog/blog-62.webp
-  lang: en
 pearl-harbor-attack-explained:
 - slug: vietnam-war-explained-complete
   title: The Vietnam War Explained
@@ -17181,11 +17787,11 @@ pearl-harbor-attack-explained:
   category: leisure
   image: /assets/images/blog/blog-09.webp
   lang: en
-- slug: d-day-normandy-invasion-explained
-  title: D-Day and the Normandy Invasion Explained
-  url: /2016/01/25/d-day-normandy-invasion-explained/
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-83.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
 - slug: hiroshima-nagasaki-atomic-bombs
   title: 'Hiroshima and Nagasaki: The Atomic Bombs'
@@ -17268,11 +17874,11 @@ how-world-war-2-ended-explained:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: resistance-movements-world-war-2
-  title: Resistance Movements in World War II
-  url: /2016/02/29/resistance-movements-world-war-2/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 ibm-interview-questions:
 - slug: ibm-interview-technical-questions
@@ -17468,11 +18074,17 @@ korean-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: soviet-afghanistan-war-explained
-  title: The Soviet-Afghan War Explained
-  url: /2016/04/14/soviet-afghanistan-war-explained/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: falklands-war-1982-explained
+  title: The Falklands War of 1982 Explained
+  url: /2016/06/03/falklands-war-1982-explained/
+  category: leisure
+  image: /assets/images/blog/blog-79.webp
   lang: en
 vietnam-war-explained-complete:
 - slug: korean-war-explained-complete
@@ -17493,11 +18105,11 @@ vietnam-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-18.webp
   lang: en
-- slug: soviet-afghanistan-war-explained
-  title: The Soviet-Afghan War Explained
-  url: /2016/04/14/soviet-afghanistan-war-explained/
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
 berlin-wall-history-explained:
 - slug: fall-of-berlin-wall-1989-explained
@@ -17575,6 +18187,12 @@ ibm-technical-interview-questions:
   image: /assets/images/blog/blog-41.webp
   lang: en
 mccarthyism-red-scare-explained:
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 - slug: korean-war-explained-complete
   title: The Korean War Explained
   url: /2016/03/20/korean-war-explained-complete/
@@ -17587,17 +18205,11 @@ mccarthyism-red-scare-explained:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: american-civil-war-explained-complete
-  title: The American Civil War Explained
-  url: /2015/10/12/american-civil-war-explained-complete/
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
-  lang: en
-- slug: nuclear-arms-race-explained
-  title: The Nuclear Arms Race Explained
-  url: /2016/04/19/nuclear-arms-race-explained/
-  category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
 soviet-afghanistan-war-explained:
 - slug: cold-war-explained-complete-guide
@@ -17612,17 +18224,17 @@ soviet-afghanistan-war-explained:
   category: leisure
   image: /assets/images/blog/blog-85.webp
   lang: en
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 - slug: proxy-wars-cold-war-explained
   title: Proxy Wars of the Cold War Explained
   url: /2016/04/24/proxy-wars-cold-war-explained/
   category: leisure
   image: /assets/images/blog/blog-61.webp
-  lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
   lang: en
 nuclear-arms-race-explained:
 - slug: cold-war-explained-complete-guide
@@ -17643,13 +18255,19 @@ nuclear-arms-race-explained:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: cuban-missile-crisis-explained
-  title: The Cuban Missile Crisis Explained
-  url: /2016/03/15/cuban-missile-crisis-explained/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-13.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 proxy-wars-cold-war-explained:
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 - slug: korean-war-explained-complete
   title: The Korean War Explained
   url: /2016/03/20/korean-war-explained-complete/
@@ -17667,12 +18285,6 @@ proxy-wars-cold-war-explained:
   url: /2016/04/04/space-race-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-44.webp
-  lang: en
-- slug: cold-war-explained-complete-guide
-  title: 'The Cold War Explained: Complete Guide'
-  url: /2016/03/10/cold-war-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
   lang: en
 fall-of-berlin-wall-1989-explained:
 - slug: berlin-wall-history-explained
@@ -17712,17 +18324,17 @@ tiananmen-square-1989-explained:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: rwandan-genocide-1994-explained
-  title: The Rwandan Genocide Explained
-  url: /2016/05/14/rwandan-genocide-1994-explained/
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
   category: leisure
-  image: /assets/images/blog/blog-32.webp
+  image: /assets/images/blog/blog-40.webp
   lang: en
 ibm-associate-developer-interview:
 - slug: ibm-panel-interview
@@ -17849,6 +18461,131 @@ yugoslav-wars-1990s-explained:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
+falklands-war-1982-explained:
+- slug: korean-war-explained-complete
+  title: The Korean War Explained
+  url: /2016/03/20/korean-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: d-day-normandy-invasion-explained
+  title: D-Day and the Normandy Invasion Explained
+  url: /2016/01/25/d-day-normandy-invasion-explained/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+september-11-attacks-explained:
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: great-depression-explained-complete
+  title: The Great Depression Explained
+  url: /2015/12/26/great-depression-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+war-on-terror-explained-complete:
+- slug: soviet-afghanistan-war-explained
+  title: The Soviet-Afghan War Explained
+  url: /2016/04/14/soviet-afghanistan-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: september-11-attacks-explained
+  title: The September 11 Attacks Explained
+  url: /2016/06/08/september-11-attacks-explained/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+arab-spring-explained-complete:
+- slug: greatest-revolutions-history-compared
+  title: Greatest Revolutions in History Compared
+  url: /2016/07/13/greatest-revolutions-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: ancient-egyptian-civilization-explained
+  title: Ancient Egyptian Civilization Explained
+  url: /2015/04/30/ancient-egyptian-civilization-explained/
+  category: leisure
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+european-union-formation-history:
+- slug: how-ww1-changed-the-world
+  title: How World War I Changed the World Forever
+  url: /2015/12/16/how-ww1-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: the-renaissance-explained-complete
+  title: 'The Renaissance Explained: Complete Guide'
+  url: /2015/08/08/the-renaissance-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: stalin-soviet-union-history
+  title: Stalin and the Soviet Union Explained
+  url: /2016/01/05/stalin-soviet-union-history/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 ibm-interview-process:
 - slug: ibm-interview-questions
   title: IBM Interview Questions
@@ -17873,6 +18610,106 @@ ibm-interview-process:
   url: /2016/01/12/ibm-interview-technical-questions/
   category: industry
   image: /assets/images/blog/blog-59.webp
+  lang: en
+brexit-explained-complete-guide:
+- slug: european-union-formation-history
+  title: How the European Union Was Formed
+  url: /2016/06/23/european-union-formation-history/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: irish-great-famine-history-explained
+  title: The Irish Great Famine Explained
+  url: /2015/11/11/irish-great-famine-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
+rise-of-china-superpower-explained:
+- slug: great-depression-explained-complete
+  title: The Great Depression Explained
+  url: /2015/12/26/great-depression-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: tiananmen-square-1989-explained
+  title: Tiananmen Square 1989 Explained
+  url: /2016/05/04/tiananmen-square-1989-explained/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: han-dynasty-china-golden-age
+  title: 'Han Dynasty: China''s Golden Age Explained'
+  url: /2015/06/19/han-dynasty-china-golden-age/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+greatest-empires-history-compared:
+- slug: greatest-revolutions-history-compared
+  title: Greatest Revolutions in History Compared
+  url: /2016/07/13/greatest-revolutions-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: greatest-military-leaders-compared
+  title: Greatest Military Leaders in History
+  url: /2016/07/28/greatest-military-leaders-compared/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: sparta-vs-athens-compared-explained
+  title: 'Sparta vs Athens: Two Cities Compared'
+  url: /2015/05/20/sparta-vs-athens-compared-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: byzantine-empire-history-explained
+  title: The Byzantine Empire Explained
+  url: /2015/07/04/byzantine-empire-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+greatest-revolutions-history-compared:
+- slug: greatest-empires-history-compared
+  title: Greatest Empires in History Compared
+  url: /2016/07/08/greatest-empires-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: greatest-military-leaders-compared
+  title: Greatest Military Leaders in History
+  url: /2016/07/28/greatest-military-leaders-compared/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: arab-spring-explained-complete
+  title: The Arab Spring Explained
+  url: /2016/06/18/arab-spring-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
   lang: en
 azure-fundamentals-az-900-practice-exam-microsoft-certification:
 - slug: upsc-exam-pattern-2026
@@ -17899,6 +18736,106 @@ azure-fundamentals-az-900-practice-exam-microsoft-certification:
   category: industry
   image: /assets/images/blog/blog-77.webp
   lang: en
+deadliest-wars-history-ranked:
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+history-of-democracy-explained:
+- slug: ancient-greek-civilization-explained
+  title: Ancient Greek Civilization Explained
+  url: /2015/04/25/ancient-greek-civilization-explained/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: lessons-history-teaches-us-today
+  title: Lessons That History Teaches Us Today
+  url: /2016/08/27/lessons-history-teaches-us-today/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+greatest-military-leaders-compared:
+- slug: greatest-revolutions-history-compared
+  title: Greatest Revolutions in History Compared
+  url: /2016/07/13/greatest-revolutions-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: greatest-empires-history-compared
+  title: Greatest Empires in History Compared
+  url: /2016/07/08/greatest-empires-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: napoleonic-wars-explained-complete
+  title: The Napoleonic Wars Explained
+  url: /2015/09/22/napoleonic-wars-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: sparta-vs-athens-compared-explained
+  title: 'Sparta vs Athens: Two Cities Compared'
+  url: /2015/05/20/sparta-vs-athens-compared-explained/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+how-pandemics-changed-history:
+- slug: black-death-plague-explained
+  title: 'The Black Death Explained: History and Impact'
+  url: /2015/07/14/black-death-plague-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: inventions-that-changed-the-world
+  title: Inventions That Changed the World
+  url: /2016/08/12/inventions-that-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
 cut-off-for-tcs-nqt:
 - slug: tcs-nqt-strategy
   title: 'Crack TCS NQT: The Complete Strategy'
@@ -17923,6 +18860,112 @@ cut-off-for-tcs-nqt:
   url: /2023/07/25/tcs-nqt-mock-strategy/
   category: industry
   image: /assets/images/blog/blog-57.webp
+  lang: en
+women-who-changed-history:
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: inventions-that-changed-the-world
+  title: Inventions That Changed the World
+  url: /2016/08/12/inventions-that-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: how-ww1-changed-the-world
+  title: How World War I Changed the World Forever
+  url: /2015/12/16/how-ww1-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+inventions-that-changed-the-world:
+- slug: how-ww1-changed-the-world
+  title: How World War I Changed the World Forever
+  url: /2015/12/16/how-ww1-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: how-world-war-2-ended-explained
+  title: How World War II Ended Explained
+  url: /2016/02/19/how-world-war-2-ended-explained/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+history-of-human-rights-explained:
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: the-holocaust-explained-complete
+  title: 'The Holocaust Explained: Complete History'
+  url: /2016/01/30/the-holocaust-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: lessons-history-teaches-us-today
+  title: Lessons That History Teaches Us Today
+  url: /2016/08/27/lessons-history-teaches-us-today/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: meiji-restoration-japan-explained
+  title: The Meiji Restoration in Japan Explained
+  url: /2015/11/06/meiji-restoration-japan-explained/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+lessons-history-teaches-us-today:
+- slug: women-who-changed-history
+  title: Women Who Changed History
+  url: /2016/08/07/women-who-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: inventions-that-changed-the-world
+  title: Inventions That Changed the World
+  url: /2016/08/12/inventions-that-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
   lang: en
 drm-application-not-starting-up-duplicate-versions:
 - slug: drm-ebs-integration-unable-to-fetch-list-of-versions

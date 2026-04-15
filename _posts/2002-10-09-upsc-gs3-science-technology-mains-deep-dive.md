@@ -9,7 +9,7 @@ excerpt: "UPSC GS3 science and technology deep dive: space, defence, biotechnolo
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 65
 author: "kavita-sharma"
-last_updated: 2002-10-09
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS3 science and technology is the subdomain where aspirants most consistently misdiagnose the preparation task because the volume of technological developments breakthroughs and emerging areas produces an information-overload approach where aspirants attempt to master technical details of various technologies without recognising that UPSC science and technology questions test policy understanding and application significance rather than technical expertise. The result is predictable. Aspirants who write science and technology answers as technical briefings consistently underscore by 10 to 20 marks per question relative to aspirants who deploy policy frameworks application significance indigenisation considerations and regulatory dimensions. The gap between technically detailed but policy-thin science and technology answers and policy-relevant science and technology answers is precisely the gap that determines GS3 science and technology performance every cycle. This UPSC GS3 science and technology strategy guide is built around closing that gap.

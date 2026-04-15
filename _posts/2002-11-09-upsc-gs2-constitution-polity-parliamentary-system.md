@@ -9,7 +9,7 @@ excerpt: "UPSC GS2 polity deep dive: fundamental rights, directive principles, f
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 65
 author: "anita-das"
-last_updated: 2002-11-09
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS2 polity preparation is where most aspirants exhaust themselves on memorisation while writing answers that consistently underscore. The Laxmikanth-centric approach that dominates aspirant preparation produces deep familiarity with constitutional articles, parliamentary procedures, and institutional structures, yet the answers that follow this preparation remain stubbornly textbook-derivative. The gap between Laxmikanth-mastered polity preparation and high-scoring polity answers is precisely the gap between fact recall and analytical engagement, between knowing the Constitution and arguing about how it operates in practice. Closing this gap is the central task of polity preparation for Mains, and the discipline of going beyond textbook is what separates aspirants who score 25 to 35 marks on polity from aspirants who score 40 to 50 marks on the same question allocation.

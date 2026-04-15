@@ -9,7 +9,7 @@ excerpt: "Complete UPSC Mains GS Paper 2 strategy: constitution, governance, wel
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2002-11-14
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC Mains GS Paper 2 is the governance paper, and the aspirants who internalise this single framing reorganise their preparation in ways that produce 30 to 50 marks of additional return per cycle. The conventional approach to GS Paper 2 treats it as a compilation of polity content from Laxmikanth supplemented by current affairs, governance schemes scattered across newspapers, and international relations material from monthly compilations. This compilation approach produces fragmented preparation that fails to capture the integrative analytical framing UPSC actually rewards. The successful approach treats GS Paper 2 as the systematic study of how India is governed, with the Constitution as foundational reference, the executive-legislature-judiciary trinity as institutional core, the welfare and developmental policies as substantive focus, and the international relations as contextual extension. This UPSC GS Paper 2 strategy guide is built around this integrative framing.

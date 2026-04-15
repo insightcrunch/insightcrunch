@@ -9,7 +9,7 @@ excerpt: "UPSC GS2 international relations deep dive: India's foreign policy, bi
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2002-10-27
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS2 international relations is the subdomain where aspirants most consistently underperform despite substantial coaching attention, because the volume of bilateral relationships multilateral engagements contemporary developments and strategic debates produces an information-overload preparation approach where aspirants attempt encyclopaedic coverage without developing the analytical frameworks for strategic analysis, the historical context for contemporary engagements, the empirical evidence on specific developments, and the balanced perspective on contested international questions. The result is predictable. Aspirants who write IR answers as breaking-news summaries consistently underscore by 15 to 25 marks per question relative to aspirants who deploy strategic frameworks, historical context, empirical evidence, and balanced analytical perspective. The gap between news-summary IR answers and strategically grounded IR answers is precisely the gap that determines GS Paper 2 performance on the substantial IR allocation. This UPSC GS2 international relations strategy guide is built around closing that gap.

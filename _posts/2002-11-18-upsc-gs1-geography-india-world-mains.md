@@ -9,7 +9,7 @@ excerpt: "Complete UPSC GS1 geography Mains strategy: physical, human, Indian ge
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 62
 author: "anita-das"
-last_updated: 2002-11-18
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS1 geography is the subtopic where aspirants most consistently mistake Prelims preparation for Mains preparation, and the cost of this mistake is substantial. The geography section of GS Paper 1 typically carries 40 to 60 marks per cycle, yet aspirants who approach Mains geography through memorised lists of rivers, mountains, and crops produce Prelims-style factual answers that consistently underscore against the analytical and conceptual depth UPSC actually tests. The cognitive shift required is from recognising geographical features to explaining geographical processes, linking physical features to human activity, connecting regional patterns to policy implications, and grounding answers in spatial awareness that integrates geomorphology, climatology, oceanography, and human geography. This UPSC GS1 geography strategy guide is built around that shift.

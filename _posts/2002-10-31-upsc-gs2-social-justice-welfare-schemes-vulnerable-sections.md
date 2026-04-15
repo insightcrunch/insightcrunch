@@ -9,7 +9,7 @@ excerpt: "UPSC GS2 social justice deep dive: SC ST OBC welfare, women, children,
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2002-10-31
+last_updated: 2026-04-15
 lang: en
 ---
 UPSC GS2 social justice and welfare schemes is the subdomain where aspirants most consistently underperform despite substantial preparation effort, because the volume of welfare schemes and vulnerable groups produces an encyclopaedia approach where aspirants attempt comprehensive memorisation of every scheme's features without developing the analytical frameworks for evaluating scheme effectiveness, the constitutional foundations for affirmative action, the empirical evidence on welfare outcomes, and the reform debates that animate contemporary social justice discussions. The result is predictable. Aspirants who write welfare scheme answers as feature lists consistently underscore by 15 to 25 marks per question relative to aspirants who deploy the constitutional framework, the implementation evidence, the case study depth, the analytical evaluation frameworks, and the policy reform recommendations that social justice preparation properly conducted produces. The gap between encyclopaedic scheme recall and analytically grounded social justice answers is precisely the gap that determines GS Paper 2 performance on the substantial social justice allocation. This UPSC GS2 social justice strategy guide is built around closing that gap.
