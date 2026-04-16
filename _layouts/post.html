@@ -211,14 +211,12 @@ article {
 .author-dialog-overlay .ad-plq .ad-dt{width:4px;height:4px;background:var(--gold);border-radius:50%;opacity:.5}
 .author-dialog-overlay .ad-plq span{font-family:'Lora',serif;font-size:.75em;font-style:italic;color:var(--gold-lt);letter-spacing:.08em}
 
-.author-dialog-overlay .ad-ctar{display:flex;gap:12px;justify-content:center;opacity:0;animation:ad-tu .8s .72s ease forwards}
-.author-dialog-overlay .ad-pb{font-family:'Inter',sans-serif;font-size:.82em;font-weight:500;padding:12px 28px;border-radius:50px;cursor:pointer;text-decoration:none;transition:all .35s cubic-bezier(.16,1,.3,1);letter-spacing:.03em;position:relative;overflow:hidden}
+.author-dialog-overlay .ad-ctar{text-align:center;opacity:0;animation:ad-tu .8s .72s ease forwards}
+.author-dialog-overlay .ad-pb{display:inline-block;font-family:'Inter',sans-serif;font-size:.82em;font-weight:500;padding:12px 28px;border-radius:50px;cursor:pointer;text-decoration:none;transition:all .35s cubic-bezier(.16,1,.3,1);letter-spacing:.03em;position:relative;overflow:hidden}
 .author-dialog-overlay .ad-pb::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,.15),transparent);opacity:0;transition:opacity .3s}
 .author-dialog-overlay .ad-pb:hover::before{opacity:1}
 .author-dialog-overlay .ad-pb.ad-p1{background:linear-gradient(135deg,var(--amber,#b06010),var(--amber-lt,#d07820));color:#fff;border:none;box-shadow:0 6px 30px rgba(176,96,16,.55)}
 .author-dialog-overlay .ad-pb.ad-p1:hover{transform:translateY(-3px);box-shadow:0 14px 48px rgba(176,96,16,.65)}
-.author-dialog-overlay .ad-pb.ad-p2{background:rgba(201,168,76,.06);color:var(--gold-lt);border:1px solid rgba(201,168,76,.32)}
-.author-dialog-overlay .ad-pb.ad-p2:hover{background:rgba(201,168,76,.18);border-color:var(--gold)}
 .author-dialog-overlay .ad-bfl{opacity:0;animation:ad-fin 1.2s .82s ease forwards}
 /* ══════ GENIE ASSISTANT ══════ */
 .g-wrap{position:fixed;z-index:9999;bottom:8px;right:8px;display:flex;flex-direction:column;align-items:flex-end;animation:gEnter 0.8s cubic-bezier(0.34,1.4,0.64,1) 0.6s both}
@@ -512,10 +510,6 @@ article {
     </div>
 
     {% if author %}
-    {% assign author_post_count = 0 %}
-    {% for p in site.posts %}
-      {% if p.author == author_key %}{% assign author_post_count = author_post_count | plus: 1 %}{% endif %}
-    {% endfor %}
     <div id="authorDialog" class="author-dialog-overlay">
       <div class="ad-bg" onclick="document.getElementById('authorDialog').classList.remove('on')"></div>
       <div class="ad-gw"></div>
@@ -603,8 +597,7 @@ article {
             <div class="ad-plq"><svg viewBox="0 0 24 24"><path d="M21.17 2.06c-.38-.15-.78-.04-1.06.25l-2.47 2.47c-.63.63-1.58.82-2.4.5-1.84-.72-3.94-.26-5.32 1.12L3.71 12.6a1 1 0 000 1.42l6.36 6.36a1 1 0 001.42 0l6.19-6.19c1.38-1.38 1.84-3.48 1.12-5.32-.32-.82-.13-1.77.5-2.4l2.47-2.47c.29-.29.4-.68.25-1.06s-.5-.63-.9-.7l-.47-.08a3.6 3.6 0 01-.48-.1z"/></svg><span class="ad-dt"></span><span>Contributor</span><span class="ad-dt"></span><span style="font-style:normal;opacity:.55">Insight Crunch</span></div>
 
             <div class="ad-ctar">
-              <a class="ad-pb ad-p1" href="{{ '/?author=' | append: author_key | relative_url }}">View Articles</a>
-              <a class="ad-pb ad-p2" href="{{ '/about/' | relative_url }}">Write to {{ author.name }}</a>
+              <a class="ad-pb ad-p1" href="{{ '/about/' | relative_url }}">Write to {{ author.name }}</a>
             </div>
 
             <svg class="ad-ofl ad-bfl" width="200" height="36" viewBox="0 0 200 36" style="margin-top:18px">
