@@ -8,10 +8,10 @@ tags: ["nature-vs-nurture", "literary-comparison", "frankenstein", "lord-of-the-
 excerpt: "Nature vs nurture in classic fiction - are we born good or made evil? The novels that tackle the question."
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2015-01-30
+lang: en
 ---
-
 The eternal question of whether humans are born good and corrupted by society, or inherently evil and restrained by civilization, finds its most powerful exploration in classic literature through characters who embody different answers to this fundamental debate. Mary Shelley's Frankenstein presents the Creature as evidence that environment shapes morality—born innocent but transformed into a monster through rejection and cruelty. William Golding's Lord of the Flies offers the opposing view that civilization merely masks an inherent savagery that emerges when social constraints disappear. Emily Brontë's Wuthering Heights provides the most complex perspective through Heathcliff, whose destructive passion stems from both natural temperament and social brutality in ways that resist simple categorization.
 
 <!--more-->

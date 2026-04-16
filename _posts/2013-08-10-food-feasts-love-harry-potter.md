@@ -6,17 +6,17 @@ date: 2013-08-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Food", "Community", "Love"]
 excerpt: "Food in Harry Potter reveals who belongs and who doesn't. Every meal tells a story about love, power, and the politics of care."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-08-10
+lang: en
 ---
-
 Food is never just food in the Harry Potter series. Every meal carries symbolic weight, every feast establishes social hierarchy, every empty plate speaks to emotional starvation. From Harry's calculated portions at Privet Drive to the inexhaustible abundance of Hogwarts tables, from Molly Weasley's love expressed through cooking to the house-elves' invisible labor that sustains magical society, Rowling constructs a complex language where nourishment becomes the most honest expression of care, power, and belonging.
 
 The thesis this analysis will demonstrate is that food functions as Rowling's primary metaphor for love made manifest through action rather than words. Characters who truly care for others feed them well and abundantly. Characters who withhold or control food reveal their emotional cruelty through material deprivation. Communities that share meals equally demonstrate genuine inclusion, while those that create hierarchies of nourishment expose their fundamental inequalities.
 
-![Food and Feasts in Harry Potter: Nourishment and Love](/assets/images/blog/blog-04.webp)
+![Food and Feasts in Harry Potter: Nourishment and Love](/assets/images/blog/blog-80.webp)
 
 This pattern operates with remarkable consistency across all seven books, creating symbolic equations that illuminate character relationships and social structures more clearly than explicit dialogue. Understanding this symbolic system reveals depths in Rowling's social commentary while explaining why food scenes carry such emotional resonance for readers who recognize their own experiences of love and exclusion reflected in magical meals.
 

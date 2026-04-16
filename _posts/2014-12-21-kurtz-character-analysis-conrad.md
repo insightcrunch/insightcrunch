@@ -6,17 +6,17 @@ date: 2014-12-21
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "kurtz", "character-analysis", "literary-analysis", "colonialism"]
 excerpt: "Deep analysis of Kurtz - his brilliance, descent into horror, final words, and meaning as colonial critique."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-12-21
+lang: en
 ---
-
 Kurtz represents the central paradox of Conrad's colonial critique: he embodies both the highest ideals of European civilization and the most extreme expression of what that civilization becomes when stripped of its restraints. He is simultaneously the man who wrote the eloquent justification for the "civilizing mission" and the one who scrawled "Exterminate all the brutes!" at its conclusion. This contradiction is not accidental but deliberate - Kurtz serves as Conrad's argument that colonial brutality is not an aberration of civilized values but their logical conclusion when power operates without accountability.
 
 <!--more-->
 
-![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Kurtz's trajectory from brilliant representative of European culture to the heart of colonial darkness reveals Conrad's thesis that the "civilizing mission" was always a facade for exploitation and domination. His famous last words, "The horror! The horror!", represent the only moment of honest recognition in the novella - a dying acknowledgment of what European civilization actually accomplished in Africa. Through Kurtz, Conrad demonstrates that colonialism did not corrupt good men but revealed what those men had always been beneath their cultural pretenses. The comparison extends to Marlow's journey in the [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) and his role as unreliable narrator in the [Marlow character analysis](https://insightcrunch.com/2014/12/26/marlow-character-analysis-conrad/), which together form Conrad's comprehensive critique of imperial ideology.
 

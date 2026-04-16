@@ -8,10 +8,10 @@ tags: ["social-class", "literary-comparison", "classic-literature", "jane-austen
 excerpt: "How classic novels expose social class - wealth, poverty, mobility, and the systems that keep people in place."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-01-20
+lang: en
 ---
-
 The greatest novels examining social class achieve their power not through simple moral condemnation of inequality but through precise dissection of the mechanisms that perpetuate class divisions across generations. Jane Austen's marriage markets, Charles Dickens' self-deluding aspirants, F. Scott Fitzgerald's impermeable elite circles, and John Steinbeck's economic determinism reveal how different historical periods develop distinct but related systems for maintaining social hierarchy despite democratic ideals and meritocratic mythology.
 
 These writers demonstrate that social class operates through complex cultural, economic, and psychological mechanisms that make individual merit largely irrelevant to ultimate social positioning. Their novels expose how societies maintain inequality through inherited wealth, cultural capital, educational access, marriage arrangements, and ideological systems that convince people their position results from personal virtue or failure rather than systematic advantage or disadvantage.
@@ -951,9 +951,6 @@ The critical thinking skills developed through systematic academic preparation, 
 Through their sophisticated examination of how class systems maintain themselves while limiting human possibility, these authors demonstrate that literature can serve essential functions in democratic societies by providing both analytical understanding and emotional engagement necessary for creating more just and humane social arrangements that honor individual dignity within contexts of collective responsibility and mutual aid.
 
 Their enduring legacy lies in proving that serious cultural work can address the most pressing social questions while achieving lasting artistic significance that continues to educate and inspire readers across different historical periods and social circumstances in pursuit of wisdom, justice, and authentic human community.
-
-
-
 
 
 ## Conclusion: Literature as Social Analysis
