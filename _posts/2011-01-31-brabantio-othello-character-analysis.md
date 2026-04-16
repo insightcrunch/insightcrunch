@@ -6,15 +6,15 @@ date: 2011-01-31
 categories: ["Leisure"]
 tags: ["shakespeare", "othello", "brabantio", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Analysis of Brabantio in Othello - his reaction to the union, his ethnic bias, and the tragic caution whose logic enables the subsequent catastrophe."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2011-01-31
+lang: en
 ---
-
 He is the Venetian parent whose daughter Desdemona has married the Moorish general without his knowledge or consent, whose first appearance in the play is as the outraged parent roused from sleep by Iago's and Roderigo's crude announcement of the union, who pursues the newly married couple to the Senate chamber with the intention of having the union annulled through the accusation of witchcraft against Othello, who argues before the Senate that no daughter of his would have chosen such a husband unless she had been bewitched into the choice, who withdraws his accusation only after Desdemona's testimony establishes that her love is genuine and that the Senate's endorsement of the union is certain, who delivers the bitter parting caution to Othello that a woman who has deceived her parent may deceive her husband as well, who does not appear again in the work after the Senate episode, and whose death is reported in the closing moments of the drama as the consequence of the grief the union produced. The trajectory from parent-parent protecting his household to defeated parent delivering the ominous caution is one of the most concentrated portraits of fatherly possession the canon contains.
 
-![Brabantio Character Analysis in Shakespeare's Othello](/assets/images/blog/blog-09.webp)
+![Brabantio Character Analysis in Shakespeare's Othello](/assets/images/blog/blog-80.webp)
 
 <!--more-->
 

@@ -6,15 +6,15 @@ date: 2010-12-23
 categories: ["Leisure"]
 tags: ["shakespeare", "macbeth", "witches", "weird-sisters", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Complete study of the Weird Sisters - the heath prophecies, the cauldron apparitions, the equivocation, and supernatural agency in the play."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2010-12-23
+lang: en
 ---
-
 They are the three entities who appear in the opening lines of the play amid thunder and lightning on the open heath, who plan to meet again upon the same heath when the hurly-burly is done and the battle has been lost and won, who encounter Macbeth and his companion returning from the field and deliver the forecasts that will set in motion the central tragic action, who vanish when the entities address them and leave behind the questions about whether they were real or hallucinatory, who reappear in the third act in the brief interlude with Hecate to plan the further deceptions that will draw Macbeth deeper into the false security of equivocal forecasts, who summon the apparitions in the cauldron passage of the fourth act to deliver the second set of forecasts that Macbeth will misinterpret as guaranteeing his invincibility, who generate the show of kings that fulfills the prediction about Banquo's descendants while devastating Macbeth's hopes for his own dynasty, and who never appear again after the cauldron passage even as their forecasts continue to operate through the closing acts as the framework within which the drama reaches its conclusion. The compactness of their appearances is inversely proportional to the structural weight they carry through the entire play.
 
-![The Weird Sisters Character Analysis in Shakespeare's Macbeth](/assets/images/blog/blog-17.webp)
+![The Weird Sisters Character Analysis in Shakespeare's Macbeth](/assets/images/blog/blog-81.webp)
 
 <!--more-->
 
