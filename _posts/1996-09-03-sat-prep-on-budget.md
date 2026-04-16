@@ -6,12 +6,12 @@ date: 1996-09-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Free Prep", "Budget", "Resources"]
 excerpt: "A $0 SAT preparation strategy can produce results equal to a $5,000 tutoring package when executed with discipline and the right free resources. This guide covers every free and low-cost preparation tool available, how to use each one effectively, and how to build a complete preparation campaign without spending a single dollar."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1996-09-03
+lang: en
 ---
-
 The SAT preparation industry has built a powerful myth: that score improvement requires expensive tutoring, premium prep courses, or thick prep books that cost $40 and more. This myth is not supported by the evidence. The biggest predictor of SAT score improvement is hours of focused, targeted practice - and focused, targeted practice does not require money. The resources needed for a complete, high-quality SAT preparation campaign are available entirely for free to every student with internet access. This is not a compromise statement. It is an accurate description of what College Board, Khan Academy, and the preparation community have collectively made available at no cost to any student who seeks them out.
 
 The myth persists because the companies that benefit from it have large marketing budgets and the students who disprove it by achieving high scores through free preparation tend not to write press releases about it. This guide assembles the evidence: official free resources, clear usage protocols, and a complete campaign structure that produces the same outcomes as expensive programs when applied with discipline. Every resource named here has been selected because it is specifically useful for SAT preparation and is available at no cost. The list is complete. Nothing has been left out.
@@ -28,7 +28,7 @@ Every student, regardless of financial resources, has access to the official SAT
 
 For the targeting system that makes any preparation - free or paid - most effective, the [SAT 12-week beginner plan](/1996/10/23/sat-12-week-beginner-plan/) provides the framework. For students with limited time regardless of budget, the [SAT studying while busy guide](/1996/09/08/sat-studying-while-busy/) addresses how to fit preparation into any schedule.
 
-![SAT Prep on a Budget: The Complete Free and Low-Cost Strategy](/assets/images/blog/blog-05.webp)
+![SAT Prep on a Budget: The Complete Free and Low-Cost Strategy](/assets/images/blog/blog-35.webp)
 
 ## Why Free Resources Are Sufficient
 

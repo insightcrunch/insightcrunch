@@ -6,12 +6,12 @@ date: 1996-08-30
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "UC System", "UCLA", "UC Berkeley"]
 excerpt: "The University of California system is the largest and most sought-after public university system in the United States - and it no longer uses SAT scores for admissions decisions. But that does not mean SAT scores are irrelevant for UC applicants. Here is exactly what you need to know."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1996-08-30
+lang: en
 ---
-
 The University of California system includes nine undergraduate campuses and enrolls more students than most Ivy League universities combined. It is the most applied-to university system in the United States, with flagship campuses UCLA and UC Berkeley consistently ranked among the top public universities in the world. Understanding how SAT scores interact with UC admissions is essential for any California student considering college options - and for out-of-state students considering the UC system's exceptional value.
 
 The nine campuses together serve one of the most diverse student populations of any research university system in the country, with significant proportions of first-generation college students, Pell Grant recipients, and students from underrepresented backgrounds who go on to graduate and professional programs at exceptional rates. The UC system's combination of research excellence and social mobility is distinctive in American higher education.
@@ -30,7 +30,7 @@ The guide also provides the historical score context that helps students underst
 
 For targeted SAT preparation that maximizes both your score and your scholarship potential, [free SAT practice tests and questions on ReportMedic](https://reportmedic.org/tools/sat-practice-test-questions.html) provides organized question banks for both sections that support efficient score improvement regardless of which colleges are on your list.
 
-![SAT Scores for UC System: UCLA, UC Berkeley, UCSD and All UC Schools](/assets/images/blog/blog-06.webp)
+![SAT Scores for UC System: UCLA, UC Berkeley, UCSD and All UC Schools](/assets/images/blog/blog-39.webp)
 
 ## The UC System's Test-Free Policy
 

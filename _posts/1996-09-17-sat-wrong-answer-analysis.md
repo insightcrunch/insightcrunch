@@ -6,12 +6,12 @@ date: 1996-09-17
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Error Analysis", "Mistakes", "Improvement"]
 excerpt: "Every wrong answer on an SAT practice test has a specific cause. Identifying that cause is the difference between studying harder and studying smarter. Here is the complete four-category system for turning every missed item into a precise action plan."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1996-09-17
+lang: en
 ---
-
 Every wrong answer on an SAT practice test is a message. Most students ignore the message, check the score, and move on. A minority read the message carefully, decode exactly what it says, and use it to direct the next week of focused work. That minority improves twice as fast.
 
 The numbers behind this difference are consistent across preparation campaigns: one practice test analyzed with the four-category system and followed by five days of targeted preparation produces more score improvement than three practice tests taken sequentially without analysis. The analysis is not overhead. It is the mechanism.
@@ -28,7 +28,7 @@ This guide provides the complete deep-dive into each of the four categories, wit
 
 For specific careless mistake patterns in Math, the [SAT Math careless mistakes guide](/1997/05/18/sat-math-careless-mistakes/) provides a deeper taxonomy of Math-specific execution errors. For common mistakes in the Reading and Writing section, the [SAT RW common mistakes guide](/1996/12/16/sat-rw-common-mistakes/) covers the RW-specific error patterns in parallel depth.
 
-![SAT Wrong Answer Analysis: Categorizing Mistakes for Maximum Improvement](/assets/images/blog/blog-02.webp)
+![SAT Wrong Answer Analysis: Categorizing Mistakes for Maximum Improvement](/assets/images/blog/blog-44.webp)
 
 ## Why the Category Matters More Than the Subject
 

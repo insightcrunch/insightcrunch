@@ -6,12 +6,12 @@ date: 1996-09-08
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Busy Schedule", "Time Management", "Student Life"]
 excerpt: "Most SAT guides assume you have three hours a day to study. Most students do not. This guide builds around the schedules students actually have - with sports, extracurriculars, coursework, jobs, and social lives - and shows exactly how to fit effective SAT preparation into whatever time actually exists."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1996-09-08
+lang: en
 ---
-
 The biggest lie in SAT preparation is the implied assumption that students have unlimited time. Most preparation guides are written as if the only item on the calendar is the SAT - three-hour daily sessions, full practice tests every week, hours of review after each test. Most students do not live in that world. They live in the world of third-period AP Calculus, Tuesday soccer practice, Thursday part-time work shifts, college essay drafts, and the human need to sleep eight hours and see friends occasionally. They have AP classes, varsity sports, part-time jobs, family obligations, and the basic human need for sleep and social connection.
 
 This guide is built for the students who live in the real world. It starts from a different assumption: you have limited time, the time you have is variable and often fragmented, and the goal is to produce the maximum score improvement within whatever time structure actually exists in your life. The preparation system here scales from a minimum of thirty minutes per day to a maximum of two hours, accommodates weeks when everything competes for attention, and still produces meaningful score improvement for students who apply it consistently. The system is built around three principles that most SAT preparation guides do not explicitly address: targeted preparation is more efficient than comprehensive preparation, consistent low-intensity work outperforms inconsistent high-intensity work, and minimum effective doses prevent habit disruption during high-demand periods. These three principles together produce a preparation system that fits actual schedules rather than aspirational ones.
@@ -24,7 +24,7 @@ The core claim of this guide is specific: constrained preparation, when correctl
 
 Busy students who implement all three achievable requirements - targeted, consistent, and properly dosed - have done the preparation that produces improvement. The remaining variable is whether the preparation is given sufficient time to compound. Twelve weeks at three hours per week is forty-two hours - enough for a meaningful improvement from any starting point when those hours are correctly used. Not theoretical improvement in ideal conditions, but actual improvement in the schedules that actual students live with. The structure is the three schedule templates. The targeting is the high-yield error analysis. The consistency tool is the minimum effective dose. Together, these produce preparation that fits the real schedule rather than requiring the ideal one.
 
-![SAT Studying While Busy: Fitting Prep into a Full Academic Schedule](/assets/images/blog/blog-04.webp)
+![SAT Studying While Busy: Fitting Prep into a Full Academic Schedule](/assets/images/blog/blog-37.webp)
 
 ## The 30-Minutes-a-Day Principle
 

@@ -6,12 +6,12 @@ date: 1996-09-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Strategy", "Motivation", "Burnout", "Mental Health"]
 excerpt: "SAT preparation campaigns last months. Motivation comes and goes. The exam-takers who improve the most are not the ones with the most initial enthusiasm - they are the ones who have built systems that keep them working on the right things even when enthusiasm is low."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "katherine-blake"
 last_updated: 1996-09-12
+lang: en
 ---
-
 SAT preparation is a months-long campaign. It begins with enthusiasm and clear goals, passes through a plateau phase where progress feels invisible, and arrives at the real test date with whatever consistency was maintained in between. The exam-takers who score highest are not always the most naturally gifted - they are the ones who built preparation systems that kept producing daily work through the weeks when it was hard to start, through the plateau when the score was not moving, and through the final stretch when fatigue was building. The exam-takers who improve the most are not the ones with the most initial enthusiasm - most of them have burned out by week five. The ones who improve most are the ones who understood from the beginning that motivation is variable and unreliable, and who built preparation systems that produce consistent daily work regardless of how motivated they feel on any given day.
 
 This guide is not about maintaining high motivation throughout a preparation campaign - that goal is neither realistic nor necessary. It is about building the habits, environments, goals, and social structures that make daily preparation happen consistently even when motivation is low, and about recognizing and recovering from burnout before it permanently disrupts the campaign. The exam-taker who finishes a twelve-week campaign with consistent daily preparation does not need to have felt motivated every day. They need to have shown up every day - and this guide provides the architecture that makes showing up the default instead of the exception.
@@ -22,7 +22,7 @@ The principles in this guide apply regardless of the specific score target or th
 
 For the specific daily schedule structures that support consistent work during a busy school year, the [SAT studying while busy guide](/1996/09/08/sat-studying-while-busy/) provides the time management framework this guide's principles build on. For the foundational preparation approach that generates the results sustained motivation is meant to support, the [SAT 12-week beginner plan](/1996/10/23/sat-12-week-beginner-plan/) and the [complete SAT preparation guide](/2026/02/19/how-to-prepare-for-sat-exam-complete-guide/) provide the underlying system.
 
-![SAT Motivation and Burnout: Staying Consistent Through Months of Prep](/assets/images/blog/blog-03.webp)
+![SAT Motivation and Burnout: Staying Consistent Through Months of Prep](/assets/images/blog/blog-60.webp)
 
 ## The Consistency Principle: Daily Beats Intensive
 
