@@ -9,7 +9,7 @@ excerpt: "The University of California system is the largest and most sought-aft
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 59
 author: "patrick-dunn"
-last_updated: 1996-08-30
+last_updated: 2026-04-16
 lang: en
 ---
 The University of California system includes nine undergraduate campuses and enrolls more students than most Ivy League universities combined. It is the most applied-to university system in the United States, with flagship campuses UCLA and UC Berkeley consistently ranked among the top public universities in the world. Understanding how SAT scores interact with UC admissions is essential for any California student considering college options - and for out-of-state students considering the UC system's exceptional value.

@@ -9,7 +9,7 @@ excerpt: "Complete study of Polonius in Hamlet - his meddling advice, surveillan
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 59
 author: "sarah-mitchell"
-last_updated: 2010-10-28
+last_updated: 2026-04-16
 lang: en
 ---
 He is killed behind a heavy curtain. This single detail tells you everything you need to know about Polonius. The chief counselor to the king of Denmark, a man who has spent his entire distinguished career hiding behind curtains of one kind or another, concealing his intelligence-gathering behind the appearance of fatherly concern, disguising his political calculations as friendly advice, and screening his manipulation of his own children behind the rhetoric of protection, dies in the precise posture that has defined his existence: hidden, watching, listening to a conversation that is not his business, and completely unable to see the sword that is about to end his life. Shakespeare understood that the most satisfying dramatic deaths are the ones that crystallize a lifetime of behavior into a single, irreversible moment, and Polonius's death behind the arras is arguably the most symbolically precise execution in the entire canon. The surveillance state's chief operative is destroyed by the very act of surveillance.

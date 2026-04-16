@@ -9,7 +9,7 @@ excerpt: "UPSC Mains examiner perspective: how checking camps work mark distribu
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 65
 author: "deepika-joshi"
-last_updated: 2002-07-29
+last_updated: 2026-04-16
 lang: en
 ---
 UPSC Mains mark distribution and examiner perspective represents the critical strategic dimension where aspirants either align their preparation with how examination is actually evaluated or waste preparation effort through approaches disconnected from evaluator realities. The aspirants who prepare without understanding how checking camps work how examiners read answers how mark distribution functions and what creates positive or negative evaluator impressions consistently underscore by 30 to 50 marks per Mains relative to aspirants who calibrate their answer writing to evaluator perspective. The 30 to 50 marks differential reflects the substantive impact that examiner-aware preparation produces compared to examiner-blind preparation. The gap between examiner-aware and examiner-blind aspirants is the gap that determines Mains performance every cycle. This UPSC Mains mark distribution and examiner perspective guide is built around closing that gap through structured understanding of evaluator realities and corresponding answer writing calibration.

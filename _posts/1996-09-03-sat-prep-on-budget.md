@@ -9,7 +9,7 @@ excerpt: "A $0 SAT preparation strategy can produce results equal to a $5,000 tu
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 59
 author: "patrick-dunn"
-last_updated: 1996-09-03
+last_updated: 2026-04-16
 lang: en
 ---
 The SAT preparation industry has built a powerful myth: that score improvement requires expensive tutoring, premium prep courses, or thick prep books that cost $40 and more. This myth is not supported by the evidence. The biggest predictor of SAT score improvement is hours of focused, targeted practice - and focused, targeted practice does not require money. The resources needed for a complete, high-quality SAT preparation campaign are available entirely for free to every student with internet access. This is not a compromise statement. It is an accurate description of what College Board, Khan Academy, and the preparation community have collectively made available at no cost to any student who seeks them out.

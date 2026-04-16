@@ -1,15 +1,873 @@
 {
-  "generated": "2026-04-15T22:50:36Z",
+  "generated": "2026-04-16T06:54:59Z",
   "threshold": 50,
-  "totalPosts": 1549,
-  "flaggedPosts": 1231,
+  "totalPosts": 1576,
+  "flaggedPosts": 1258,
   "suppressedPosts": 0,
   "stalePosts": 0,
   "worstWord": "available",
-  "worstCount": 2073,
-  "worstPost": "Hester Prynne Character Analysis",
-  "avgTopCount": 250.6,
+  "worstCount": 1823,
+  "worstPost": "Colonialism and Racism in Heart of Darkness",
+  "avgTopCount": 235.2,
   "posts": [
+    {
+      "filename": "1996-08-30-sat-uc-system-scores.md",
+      "slug": "sat-uc-system-scores",
+      "title": "SAT Scores for UC System: UCLA, UC Berkeley, UCSD and All UC Schools",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7914,
+      "topWord": "uc",
+      "topCount": 294,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-08-30-sat-uc-system-scores.md",
+      "flaggedWords": [
+        {
+          "word": "uc",
+          "count": 294
+        },
+        {
+          "word": "students",
+          "count": 184
+        },
+        {
+          "word": "campus",
+          "count": 153
+        },
+        {
+          "word": "sat",
+          "count": 110
+        },
+        {
+          "word": "campuses",
+          "count": 106
+        },
+        {
+          "word": "academic",
+          "count": 103
+        },
+        {
+          "word": "admissions",
+          "count": 98
+        },
+        {
+          "word": "application",
+          "count": 75
+        },
+        {
+          "word": "scores",
+          "count": 70
+        },
+        {
+          "word": "specific",
+          "count": 68
+        },
+        {
+          "word": "test",
+          "count": 64
+        },
+        {
+          "word": "gpa",
+          "count": 60
+        },
+        {
+          "word": "student",
+          "count": 57
+        },
+        {
+          "word": "scholarship",
+          "count": 56
+        },
+        {
+          "word": "preparation",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "uc",
+          "count": 294
+        },
+        {
+          "word": "students",
+          "count": 184
+        },
+        {
+          "word": "campus",
+          "count": 153
+        },
+        {
+          "word": "sat",
+          "count": 110
+        },
+        {
+          "word": "campuses",
+          "count": 106
+        },
+        {
+          "word": "academic",
+          "count": 103
+        },
+        {
+          "word": "admissions",
+          "count": 98
+        },
+        {
+          "word": "application",
+          "count": 75
+        },
+        {
+          "word": "scores",
+          "count": 70
+        },
+        {
+          "word": "specific",
+          "count": 68
+        },
+        {
+          "word": "test",
+          "count": 64
+        },
+        {
+          "word": "gpa",
+          "count": 60
+        },
+        {
+          "word": "student",
+          "count": 57
+        },
+        {
+          "word": "scholarship",
+          "count": 56
+        },
+        {
+          "word": "preparation",
+          "count": 52
+        },
+        {
+          "word": "personal",
+          "count": 49
+        },
+        {
+          "word": "applicants",
+          "count": 48
+        },
+        {
+          "word": "competitive",
+          "count": 48
+        },
+        {
+          "word": "california",
+          "count": 47
+        },
+        {
+          "word": "strong",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "filename": "1996-09-03-sat-prep-on-budget.md",
+      "slug": "sat-prep-on-budget",
+      "title": "SAT Prep on a Budget: The Complete Free and Low-Cost Strategy",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8088,
+      "topWord": "preparation",
+      "topCount": 243,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-09-03-sat-prep-on-budget.md",
+      "flaggedWords": [
+        {
+          "word": "preparation",
+          "count": 243
+        },
+        {
+          "word": "free",
+          "count": 206
+        },
+        {
+          "word": "sat",
+          "count": 136
+        },
+        {
+          "word": "students",
+          "count": 136
+        },
+        {
+          "word": "practice",
+          "count": 135
+        },
+        {
+          "word": "resources",
+          "count": 103
+        },
+        {
+          "word": "khan",
+          "count": 88
+        },
+        {
+          "word": "academy",
+          "count": 87
+        },
+        {
+          "word": "test",
+          "count": 87
+        },
+        {
+          "word": "specific",
+          "count": 82
+        },
+        {
+          "word": "paid",
+          "count": 77
+        },
+        {
+          "word": "student",
+          "count": 72
+        },
+        {
+          "word": "content",
+          "count": 72
+        },
+        {
+          "word": "available",
+          "count": 63
+        },
+        {
+          "word": "targeting",
+          "count": 63
+        },
+        {
+          "word": "bluebook",
+          "count": 62
+        },
+        {
+          "word": "official",
+          "count": 60
+        },
+        {
+          "word": "improvement",
+          "count": 55
+        },
+        {
+          "word": "score",
+          "count": 52
+        },
+        {
+          "word": "campaign",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "preparation",
+          "count": 243
+        },
+        {
+          "word": "free",
+          "count": 206
+        },
+        {
+          "word": "sat",
+          "count": 136
+        },
+        {
+          "word": "students",
+          "count": 136
+        },
+        {
+          "word": "practice",
+          "count": 135
+        },
+        {
+          "word": "resources",
+          "count": 103
+        },
+        {
+          "word": "khan",
+          "count": 88
+        },
+        {
+          "word": "academy",
+          "count": 87
+        },
+        {
+          "word": "test",
+          "count": 87
+        },
+        {
+          "word": "specific",
+          "count": 82
+        },
+        {
+          "word": "paid",
+          "count": 77
+        },
+        {
+          "word": "student",
+          "count": 72
+        },
+        {
+          "word": "content",
+          "count": 72
+        },
+        {
+          "word": "available",
+          "count": 63
+        },
+        {
+          "word": "targeting",
+          "count": 63
+        },
+        {
+          "word": "bluebook",
+          "count": 62
+        },
+        {
+          "word": "official",
+          "count": 60
+        },
+        {
+          "word": "improvement",
+          "count": 55
+        },
+        {
+          "word": "score",
+          "count": 52
+        },
+        {
+          "word": "campaign",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "filename": "1996-09-08-sat-studying-while-busy.md",
+      "slug": "sat-studying-while-busy",
+      "title": "SAT Studying While Busy: Fitting Prep into a Full Academic Schedule",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7496,
+      "topWord": "preparation",
+      "topCount": 270,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-09-08-sat-studying-while-busy.md",
+      "flaggedWords": [
+        {
+          "word": "preparation",
+          "count": 270
+        },
+        {
+          "word": "minutes",
+          "count": 129
+        },
+        {
+          "word": "session",
+          "count": 115
+        },
+        {
+          "word": "sessions",
+          "count": 111
+        },
+        {
+          "word": "schedule",
+          "count": 104
+        },
+        {
+          "word": "week",
+          "count": 93
+        },
+        {
+          "word": "thirty",
+          "count": 86
+        },
+        {
+          "word": "improvement",
+          "count": 73
+        },
+        {
+          "word": "student",
+          "count": 73
+        },
+        {
+          "word": "test",
+          "count": 71
+        },
+        {
+          "word": "weeks",
+          "count": 71
+        },
+        {
+          "word": "students",
+          "count": 69
+        },
+        {
+          "word": "sat",
+          "count": 62
+        },
+        {
+          "word": "error",
+          "count": 61
+        },
+        {
+          "word": "produces",
+          "count": 58
+        },
+        {
+          "word": "specific",
+          "count": 58
+        },
+        {
+          "word": "hours",
+          "count": 55
+        },
+        {
+          "word": "practice",
+          "count": 53
+        },
+        {
+          "word": "minute",
+          "count": 51
+        },
+        {
+          "word": "available",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "preparation",
+          "count": 270
+        },
+        {
+          "word": "minutes",
+          "count": 129
+        },
+        {
+          "word": "session",
+          "count": 115
+        },
+        {
+          "word": "sessions",
+          "count": 111
+        },
+        {
+          "word": "schedule",
+          "count": 104
+        },
+        {
+          "word": "week",
+          "count": 93
+        },
+        {
+          "word": "thirty",
+          "count": 86
+        },
+        {
+          "word": "improvement",
+          "count": 73
+        },
+        {
+          "word": "student",
+          "count": 73
+        },
+        {
+          "word": "test",
+          "count": 71
+        },
+        {
+          "word": "weeks",
+          "count": 71
+        },
+        {
+          "word": "students",
+          "count": 69
+        },
+        {
+          "word": "sat",
+          "count": 62
+        },
+        {
+          "word": "error",
+          "count": 61
+        },
+        {
+          "word": "produces",
+          "count": 58
+        },
+        {
+          "word": "specific",
+          "count": 58
+        },
+        {
+          "word": "hours",
+          "count": 55
+        },
+        {
+          "word": "practice",
+          "count": 53
+        },
+        {
+          "word": "minute",
+          "count": 51
+        },
+        {
+          "word": "available",
+          "count": 51
+        }
+      ]
+    },
+    {
+      "filename": "1996-09-12-sat-motivation-burnout.md",
+      "slug": "sat-motivation-burnout",
+      "title": "SAT Motivation and Burnout: Staying Consistent Through Months of Prep",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7427,
+      "topWord": "preparation",
+      "topCount": 263,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-09-12-sat-motivation-burnout.md",
+      "flaggedWords": [
+        {
+          "word": "preparation",
+          "count": 263
+        },
+        {
+          "word": "session",
+          "count": 112
+        },
+        {
+          "word": "week",
+          "count": 103
+        },
+        {
+          "word": "score",
+          "count": 97
+        },
+        {
+          "word": "specific",
+          "count": 78
+        },
+        {
+          "word": "exam",
+          "count": 77
+        },
+        {
+          "word": "daily",
+          "count": 77
+        },
+        {
+          "word": "rest",
+          "count": 77
+        },
+        {
+          "word": "test",
+          "count": 70
+        },
+        {
+          "word": "motivation",
+          "count": 69
+        },
+        {
+          "word": "sessions",
+          "count": 67
+        },
+        {
+          "word": "error",
+          "count": 67
+        },
+        {
+          "word": "burnout",
+          "count": 59
+        },
+        {
+          "word": "practice",
+          "count": 58
+        },
+        {
+          "word": "weeks",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "preparation",
+          "count": 263
+        },
+        {
+          "word": "session",
+          "count": 112
+        },
+        {
+          "word": "week",
+          "count": 103
+        },
+        {
+          "word": "score",
+          "count": 97
+        },
+        {
+          "word": "specific",
+          "count": 78
+        },
+        {
+          "word": "exam",
+          "count": 77
+        },
+        {
+          "word": "daily",
+          "count": 77
+        },
+        {
+          "word": "rest",
+          "count": 77
+        },
+        {
+          "word": "test",
+          "count": 70
+        },
+        {
+          "word": "motivation",
+          "count": 69
+        },
+        {
+          "word": "sessions",
+          "count": 67
+        },
+        {
+          "word": "error",
+          "count": 67
+        },
+        {
+          "word": "burnout",
+          "count": 59
+        },
+        {
+          "word": "practice",
+          "count": 58
+        },
+        {
+          "word": "weeks",
+          "count": 51
+        },
+        {
+          "word": "habit",
+          "count": 50
+        },
+        {
+          "word": "taker",
+          "count": 47
+        },
+        {
+          "word": "produces",
+          "count": 47
+        },
+        {
+          "word": "minutes",
+          "count": 45
+        },
+        {
+          "word": "log",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "filename": "1996-09-17-sat-wrong-answer-analysis.md",
+      "slug": "sat-wrong-answer-analysis",
+      "title": "SAT Wrong Answer Analysis: Categorizing Mistakes for Maximum Improvement",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7548,
+      "topWord": "item",
+      "topCount": 179,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-09-17-sat-wrong-answer-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "item",
+          "count": 179
+        },
+        {
+          "word": "items",
+          "count": 128
+        },
+        {
+          "word": "content",
+          "count": 127
+        },
+        {
+          "word": "error",
+          "count": 122
+        },
+        {
+          "word": "preparation",
+          "count": 97
+        },
+        {
+          "word": "careless",
+          "count": 95
+        },
+        {
+          "word": "test",
+          "count": 93
+        },
+        {
+          "word": "answer",
+          "count": 83
+        },
+        {
+          "word": "habit",
+          "count": 82
+        },
+        {
+          "word": "errors",
+          "count": 82
+        },
+        {
+          "word": "specific",
+          "count": 80
+        },
+        {
+          "word": "gap",
+          "count": 79
+        },
+        {
+          "word": "wrong",
+          "count": 73
+        },
+        {
+          "word": "practice",
+          "count": 72
+        },
+        {
+          "word": "concept",
+          "count": 57
+        },
+        {
+          "word": "reading",
+          "count": 57
+        },
+        {
+          "word": "category",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "item",
+          "count": 179
+        },
+        {
+          "word": "items",
+          "count": 128
+        },
+        {
+          "word": "content",
+          "count": 127
+        },
+        {
+          "word": "error",
+          "count": 122
+        },
+        {
+          "word": "preparation",
+          "count": 97
+        },
+        {
+          "word": "careless",
+          "count": 95
+        },
+        {
+          "word": "test",
+          "count": 93
+        },
+        {
+          "word": "answer",
+          "count": 83
+        },
+        {
+          "word": "habit",
+          "count": 82
+        },
+        {
+          "word": "errors",
+          "count": 82
+        },
+        {
+          "word": "specific",
+          "count": 80
+        },
+        {
+          "word": "gap",
+          "count": 79
+        },
+        {
+          "word": "wrong",
+          "count": 73
+        },
+        {
+          "word": "practice",
+          "count": 72
+        },
+        {
+          "word": "concept",
+          "count": 57
+        },
+        {
+          "word": "reading",
+          "count": 57
+        },
+        {
+          "word": "category",
+          "count": 56
+        },
+        {
+          "word": "timing",
+          "count": 49
+        },
+        {
+          "word": "explanation",
+          "count": 47
+        },
+        {
+          "word": "misread",
+          "count": 44
+        }
+      ]
+    },
     {
       "filename": "1996-09-21-sat-section-score-balance.md",
       "slug": "sat-section-score-balance",
@@ -12595,6 +13453,1462 @@
         {
           "word": "correct",
           "count": 44
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-02-upsc-mains-static-vs-dynamic-content-balance.md",
+      "slug": "upsc-mains-static-vs-dynamic-content-balance",
+      "title": "UPSC Mains Static versus Dynamic Content Balance",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10782,
+      "topWord": "content",
+      "topCount": 323,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-02-upsc-mains-static-vs-dynamic-content-balance.md",
+      "flaggedWords": [
+        {
+          "word": "content",
+          "count": 323
+        },
+        {
+          "word": "static",
+          "count": 302
+        },
+        {
+          "word": "integration",
+          "count": 282
+        },
+        {
+          "word": "current",
+          "count": 262
+        },
+        {
+          "word": "dynamic",
+          "count": 219
+        },
+        {
+          "word": "balance",
+          "count": 214
+        },
+        {
+          "word": "affairs",
+          "count": 209
+        },
+        {
+          "word": "contemporary",
+          "count": 152
+        },
+        {
+          "word": "preparation",
+          "count": 142
+        },
+        {
+          "word": "examination",
+          "count": 120
+        },
+        {
+          "word": "practice",
+          "count": 96
+        },
+        {
+          "word": "recent",
+          "count": 91
+        },
+        {
+          "word": "topic",
+          "count": 86
+        },
+        {
+          "word": "developments",
+          "count": 79
+        },
+        {
+          "word": "foundational",
+          "count": 78
+        },
+        {
+          "word": "capability",
+          "count": 77
+        },
+        {
+          "word": "balanced",
+          "count": 71
+        },
+        {
+          "word": "produces",
+          "count": 70
+        },
+        {
+          "word": "framework",
+          "count": 67
+        },
+        {
+          "word": "policy",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "content",
+          "count": 323
+        },
+        {
+          "word": "static",
+          "count": 302
+        },
+        {
+          "word": "integration",
+          "count": 282
+        },
+        {
+          "word": "current",
+          "count": 262
+        },
+        {
+          "word": "dynamic",
+          "count": 219
+        },
+        {
+          "word": "balance",
+          "count": 214
+        },
+        {
+          "word": "affairs",
+          "count": 209
+        },
+        {
+          "word": "contemporary",
+          "count": 152
+        },
+        {
+          "word": "preparation",
+          "count": 142
+        },
+        {
+          "word": "examination",
+          "count": 120
+        },
+        {
+          "word": "practice",
+          "count": 96
+        },
+        {
+          "word": "recent",
+          "count": 91
+        },
+        {
+          "word": "topic",
+          "count": 86
+        },
+        {
+          "word": "developments",
+          "count": 79
+        },
+        {
+          "word": "foundational",
+          "count": 78
+        },
+        {
+          "word": "capability",
+          "count": 77
+        },
+        {
+          "word": "balanced",
+          "count": 71
+        },
+        {
+          "word": "produces",
+          "count": 70
+        },
+        {
+          "word": "framework",
+          "count": 67
+        },
+        {
+          "word": "policy",
+          "count": 66
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-06-upsc-mains-syllabus-coverage-without-burnout.md",
+      "slug": "upsc-mains-syllabus-coverage-without-burnout",
+      "title": "UPSC Mains Covering Entire Syllabus Without Burnout",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10499,
+      "topWord": "preparation",
+      "topCount": 424,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-06-upsc-mains-syllabus-coverage-without-burnout.md",
+      "flaggedWords": [
+        {
+          "word": "preparation",
+          "count": 424
+        },
+        {
+          "word": "coverage",
+          "count": 302
+        },
+        {
+          "word": "smart",
+          "count": 196
+        },
+        {
+          "word": "topics",
+          "count": 161
+        },
+        {
+          "word": "revision",
+          "count": 158
+        },
+        {
+          "word": "examination",
+          "count": 148
+        },
+        {
+          "word": "topic",
+          "count": 138
+        },
+        {
+          "word": "practice",
+          "count": 116
+        },
+        {
+          "word": "vital",
+          "count": 103
+        },
+        {
+          "word": "depth",
+          "count": 95
+        },
+        {
+          "word": "deep",
+          "count": 91
+        },
+        {
+          "word": "hours",
+          "count": 87
+        },
+        {
+          "word": "paper",
+          "count": 86
+        },
+        {
+          "word": "content",
+          "count": 85
+        },
+        {
+          "word": "integration",
+          "count": 84
+        },
+        {
+          "word": "aspirants",
+          "count": 79
+        },
+        {
+          "word": "intensity",
+          "count": 71
+        },
+        {
+          "word": "methodology",
+          "count": 69
+        },
+        {
+          "word": "cycle",
+          "count": 67
+        },
+        {
+          "word": "gs",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "preparation",
+          "count": 424
+        },
+        {
+          "word": "coverage",
+          "count": 302
+        },
+        {
+          "word": "smart",
+          "count": 196
+        },
+        {
+          "word": "topics",
+          "count": 161
+        },
+        {
+          "word": "revision",
+          "count": 158
+        },
+        {
+          "word": "examination",
+          "count": 148
+        },
+        {
+          "word": "topic",
+          "count": 138
+        },
+        {
+          "word": "practice",
+          "count": 116
+        },
+        {
+          "word": "vital",
+          "count": 103
+        },
+        {
+          "word": "depth",
+          "count": 95
+        },
+        {
+          "word": "deep",
+          "count": 91
+        },
+        {
+          "word": "hours",
+          "count": 87
+        },
+        {
+          "word": "paper",
+          "count": 86
+        },
+        {
+          "word": "content",
+          "count": 85
+        },
+        {
+          "word": "integration",
+          "count": 84
+        },
+        {
+          "word": "aspirants",
+          "count": 79
+        },
+        {
+          "word": "intensity",
+          "count": 71
+        },
+        {
+          "word": "methodology",
+          "count": 69
+        },
+        {
+          "word": "cycle",
+          "count": 67
+        },
+        {
+          "word": "gs",
+          "count": 62
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-11-upsc-qualifying-papers-english-indian-language.md",
+      "slug": "upsc-qualifying-papers-english-indian-language",
+      "title": "UPSC Qualifying Papers English and Indian Language",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10250,
+      "topWord": "preparation",
+      "topCount": 418,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-11-upsc-qualifying-papers-english-indian-language.md",
+      "flaggedWords": [
+        {
+          "word": "preparation",
+          "count": 418
+        },
+        {
+          "word": "paper",
+          "count": 413
+        },
+        {
+          "word": "qualifying",
+          "count": 401
+        },
+        {
+          "word": "language",
+          "count": 178
+        },
+        {
+          "word": "examination",
+          "count": 168
+        },
+        {
+          "word": "performance",
+          "count": 99
+        },
+        {
+          "word": "papers",
+          "count": 98
+        },
+        {
+          "word": "writing",
+          "count": 92
+        },
+        {
+          "word": "practice",
+          "count": 91
+        },
+        {
+          "word": "vocabulary",
+          "count": 90
+        },
+        {
+          "word": "indian",
+          "count": 88
+        },
+        {
+          "word": "essay",
+          "count": 87
+        },
+        {
+          "word": "english",
+          "count": 85
+        },
+        {
+          "word": "requires",
+          "count": 83
+        },
+        {
+          "word": "risk",
+          "count": 82
+        },
+        {
+          "word": "capability",
+          "count": 78
+        },
+        {
+          "word": "scored",
+          "count": 76
+        },
+        {
+          "word": "investment",
+          "count": 75
+        },
+        {
+          "word": "formal",
+          "count": 75
+        },
+        {
+          "word": "approach",
+          "count": 71
+        }
+      ],
+      "top20": [
+        {
+          "word": "preparation",
+          "count": 418
+        },
+        {
+          "word": "paper",
+          "count": 413
+        },
+        {
+          "word": "qualifying",
+          "count": 401
+        },
+        {
+          "word": "language",
+          "count": 178
+        },
+        {
+          "word": "examination",
+          "count": 168
+        },
+        {
+          "word": "performance",
+          "count": 99
+        },
+        {
+          "word": "papers",
+          "count": 98
+        },
+        {
+          "word": "writing",
+          "count": 92
+        },
+        {
+          "word": "practice",
+          "count": 91
+        },
+        {
+          "word": "vocabulary",
+          "count": 90
+        },
+        {
+          "word": "indian",
+          "count": 88
+        },
+        {
+          "word": "essay",
+          "count": 87
+        },
+        {
+          "word": "english",
+          "count": 85
+        },
+        {
+          "word": "requires",
+          "count": 83
+        },
+        {
+          "word": "risk",
+          "count": 82
+        },
+        {
+          "word": "capability",
+          "count": 78
+        },
+        {
+          "word": "scored",
+          "count": 76
+        },
+        {
+          "word": "investment",
+          "count": 75
+        },
+        {
+          "word": "formal",
+          "count": 75
+        },
+        {
+          "word": "approach",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-15-upsc-mains-pyq-analysis-trends.md",
+      "slug": "upsc-mains-pyq-analysis-trends",
+      "title": "UPSC Mains PYQ Analysis GS1 to GS4 Trends",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10557,
+      "topWord": "preparation",
+      "topCount": 397,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-15-upsc-mains-pyq-analysis-trends.md",
+      "flaggedWords": [
+        {
+          "word": "preparation",
+          "count": 397
+        },
+        {
+          "word": "pyq",
+          "count": 259
+        },
+        {
+          "word": "analysis",
+          "count": 237
+        },
+        {
+          "word": "pattern",
+          "count": 207
+        },
+        {
+          "word": "examination",
+          "count": 195
+        },
+        {
+          "word": "recognition",
+          "count": 139
+        },
+        {
+          "word": "framing",
+          "count": 132
+        },
+        {
+          "word": "disciplined",
+          "count": 122
+        },
+        {
+          "word": "paper",
+          "count": 118
+        },
+        {
+          "word": "gs",
+          "count": 118
+        },
+        {
+          "word": "topic",
+          "count": 98
+        },
+        {
+          "word": "frequency",
+          "count": 94
+        },
+        {
+          "word": "patterns",
+          "count": 93
+        },
+        {
+          "word": "calibration",
+          "count": 88
+        },
+        {
+          "word": "capacity",
+          "count": 84
+        },
+        {
+          "word": "contemporary",
+          "count": 81
+        },
+        {
+          "word": "produces",
+          "count": 78
+        },
+        {
+          "word": "governance",
+          "count": 77
+        },
+        {
+          "word": "decades",
+          "count": 77
+        },
+        {
+          "word": "professional",
+          "count": 76
+        }
+      ],
+      "top20": [
+        {
+          "word": "preparation",
+          "count": 397
+        },
+        {
+          "word": "pyq",
+          "count": 259
+        },
+        {
+          "word": "analysis",
+          "count": 237
+        },
+        {
+          "word": "pattern",
+          "count": 207
+        },
+        {
+          "word": "examination",
+          "count": 195
+        },
+        {
+          "word": "recognition",
+          "count": 139
+        },
+        {
+          "word": "framing",
+          "count": 132
+        },
+        {
+          "word": "disciplined",
+          "count": 122
+        },
+        {
+          "word": "paper",
+          "count": 118
+        },
+        {
+          "word": "gs",
+          "count": 118
+        },
+        {
+          "word": "topic",
+          "count": 98
+        },
+        {
+          "word": "frequency",
+          "count": 94
+        },
+        {
+          "word": "patterns",
+          "count": 93
+        },
+        {
+          "word": "calibration",
+          "count": 88
+        },
+        {
+          "word": "capacity",
+          "count": 84
+        },
+        {
+          "word": "contemporary",
+          "count": 81
+        },
+        {
+          "word": "produces",
+          "count": 78
+        },
+        {
+          "word": "governance",
+          "count": 77
+        },
+        {
+          "word": "decades",
+          "count": 77
+        },
+        {
+          "word": "professional",
+          "count": 76
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-20-upsc-mains-time-management.md",
+      "slug": "upsc-mains-time-management",
+      "title": "UPSC Mains Time Management 3 Hours Per Paper",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9479,
+      "topWord": "examination",
+      "topCount": 239,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-20-upsc-mains-time-management.md",
+      "flaggedWords": [
+        {
+          "word": "examination",
+          "count": 239
+        },
+        {
+          "word": "paper",
+          "count": 229
+        },
+        {
+          "word": "discipline",
+          "count": 182
+        },
+        {
+          "word": "preparation",
+          "count": 178
+        },
+        {
+          "word": "management",
+          "count": 160
+        },
+        {
+          "word": "administrative",
+          "count": 160
+        },
+        {
+          "word": "question",
+          "count": 124
+        },
+        {
+          "word": "practice",
+          "count": 122
+        },
+        {
+          "word": "questions",
+          "count": 119
+        },
+        {
+          "word": "marks",
+          "count": 99
+        },
+        {
+          "word": "disciplined",
+          "count": 94
+        },
+        {
+          "word": "capacity",
+          "count": 92
+        },
+        {
+          "word": "effective",
+          "count": 90
+        },
+        {
+          "word": "minutes",
+          "count": 84
+        },
+        {
+          "word": "country",
+          "count": 82
+        },
+        {
+          "word": "careers",
+          "count": 81
+        },
+        {
+          "word": "decades",
+          "count": 80
+        },
+        {
+          "word": "produces",
+          "count": 79
+        },
+        {
+          "word": "pace",
+          "count": 76
+        },
+        {
+          "word": "substantial",
+          "count": 71
+        }
+      ],
+      "top20": [
+        {
+          "word": "examination",
+          "count": 239
+        },
+        {
+          "word": "paper",
+          "count": 229
+        },
+        {
+          "word": "discipline",
+          "count": 182
+        },
+        {
+          "word": "preparation",
+          "count": 178
+        },
+        {
+          "word": "management",
+          "count": 160
+        },
+        {
+          "word": "administrative",
+          "count": 160
+        },
+        {
+          "word": "question",
+          "count": 124
+        },
+        {
+          "word": "practice",
+          "count": 122
+        },
+        {
+          "word": "questions",
+          "count": 119
+        },
+        {
+          "word": "marks",
+          "count": 99
+        },
+        {
+          "word": "disciplined",
+          "count": 94
+        },
+        {
+          "word": "capacity",
+          "count": 92
+        },
+        {
+          "word": "effective",
+          "count": 90
+        },
+        {
+          "word": "minutes",
+          "count": 84
+        },
+        {
+          "word": "country",
+          "count": 82
+        },
+        {
+          "word": "careers",
+          "count": 81
+        },
+        {
+          "word": "decades",
+          "count": 80
+        },
+        {
+          "word": "produces",
+          "count": 79
+        },
+        {
+          "word": "pace",
+          "count": 76
+        },
+        {
+          "word": "substantial",
+          "count": 71
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-24-upsc-mains-interlinking-gs-papers.md",
+      "slug": "upsc-mains-interlinking-gs-papers",
+      "title": "UPSC Mains Interlinking GS Papers for Holistic Answers",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11069,
+      "topWord": "paper",
+      "topCount": 452,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-24-upsc-mains-interlinking-gs-papers.md",
+      "flaggedWords": [
+        {
+          "word": "paper",
+          "count": 452
+        },
+        {
+          "word": "cross",
+          "count": 381
+        },
+        {
+          "word": "dimensional",
+          "count": 343
+        },
+        {
+          "word": "preparation",
+          "count": 235
+        },
+        {
+          "word": "integration",
+          "count": 235
+        },
+        {
+          "word": "analytical",
+          "count": 195
+        },
+        {
+          "word": "multi",
+          "count": 170
+        },
+        {
+          "word": "examination",
+          "count": 163
+        },
+        {
+          "word": "gs",
+          "count": 155
+        },
+        {
+          "word": "dimension",
+          "count": 141
+        },
+        {
+          "word": "treatment",
+          "count": 117
+        },
+        {
+          "word": "topic",
+          "count": 106
+        },
+        {
+          "word": "capacity",
+          "count": 101
+        },
+        {
+          "word": "practice",
+          "count": 98
+        },
+        {
+          "word": "governance",
+          "count": 94
+        },
+        {
+          "word": "answer",
+          "count": 91
+        },
+        {
+          "word": "ahead",
+          "count": 89
+        },
+        {
+          "word": "content",
+          "count": 88
+        },
+        {
+          "word": "administrative",
+          "count": 84
+        },
+        {
+          "word": "dimensions",
+          "count": 83
+        }
+      ],
+      "top20": [
+        {
+          "word": "paper",
+          "count": 452
+        },
+        {
+          "word": "cross",
+          "count": 381
+        },
+        {
+          "word": "dimensional",
+          "count": 343
+        },
+        {
+          "word": "preparation",
+          "count": 235
+        },
+        {
+          "word": "integration",
+          "count": 235
+        },
+        {
+          "word": "analytical",
+          "count": 195
+        },
+        {
+          "word": "multi",
+          "count": 170
+        },
+        {
+          "word": "examination",
+          "count": 163
+        },
+        {
+          "word": "gs",
+          "count": 155
+        },
+        {
+          "word": "dimension",
+          "count": 141
+        },
+        {
+          "word": "treatment",
+          "count": 117
+        },
+        {
+          "word": "topic",
+          "count": 106
+        },
+        {
+          "word": "capacity",
+          "count": 101
+        },
+        {
+          "word": "practice",
+          "count": 98
+        },
+        {
+          "word": "governance",
+          "count": 94
+        },
+        {
+          "word": "answer",
+          "count": 91
+        },
+        {
+          "word": "ahead",
+          "count": 89
+        },
+        {
+          "word": "content",
+          "count": 88
+        },
+        {
+          "word": "administrative",
+          "count": 84
+        },
+        {
+          "word": "dimensions",
+          "count": 83
+        }
+      ]
+    },
+    {
+      "filename": "2002-07-29-upsc-mains-mark-distribution-examiner-perspective.md",
+      "slug": "upsc-mains-mark-distribution-examiner-perspective",
+      "title": "UPSC Mains Mark Distribution and Examiner Perspective",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10307,
+      "topWord": "examiner",
+      "topCount": 274,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-29-upsc-mains-mark-distribution-examiner-perspective.md",
+      "flaggedWords": [
+        {
+          "word": "examiner",
+          "count": 274
+        },
+        {
+          "word": "examination",
+          "count": 186
+        },
+        {
+          "word": "preparation",
+          "count": 185
+        },
+        {
+          "word": "answer",
+          "count": 171
+        },
+        {
+          "word": "perspective",
+          "count": 163
+        },
+        {
+          "word": "analytical",
+          "count": 138
+        },
+        {
+          "word": "content",
+          "count": 128
+        },
+        {
+          "word": "writing",
+          "count": 116
+        },
+        {
+          "word": "quality",
+          "count": 113
+        },
+        {
+          "word": "marks",
+          "count": 110
+        },
+        {
+          "word": "evaluator",
+          "count": 96
+        },
+        {
+          "word": "supports",
+          "count": 92
+        },
+        {
+          "word": "answers",
+          "count": 88
+        },
+        {
+          "word": "presentation",
+          "count": 83
+        },
+        {
+          "word": "communication",
+          "count": 77
+        },
+        {
+          "word": "evaluation",
+          "count": 73
+        },
+        {
+          "word": "practice",
+          "count": 73
+        },
+        {
+          "word": "integration",
+          "count": 72
+        },
+        {
+          "word": "specific",
+          "count": 72
+        },
+        {
+          "word": "civil",
+          "count": 70
+        }
+      ],
+      "top20": [
+        {
+          "word": "examiner",
+          "count": 274
+        },
+        {
+          "word": "examination",
+          "count": 186
+        },
+        {
+          "word": "preparation",
+          "count": 185
+        },
+        {
+          "word": "answer",
+          "count": 171
+        },
+        {
+          "word": "perspective",
+          "count": 163
+        },
+        {
+          "word": "analytical",
+          "count": 138
+        },
+        {
+          "word": "content",
+          "count": 128
+        },
+        {
+          "word": "writing",
+          "count": 116
+        },
+        {
+          "word": "quality",
+          "count": 113
+        },
+        {
+          "word": "marks",
+          "count": 110
+        },
+        {
+          "word": "evaluator",
+          "count": 96
+        },
+        {
+          "word": "supports",
+          "count": 92
+        },
+        {
+          "word": "answers",
+          "count": 88
+        },
+        {
+          "word": "presentation",
+          "count": 83
+        },
+        {
+          "word": "communication",
+          "count": 77
+        },
+        {
+          "word": "evaluation",
+          "count": 73
+        },
+        {
+          "word": "practice",
+          "count": 73
+        },
+        {
+          "word": "integration",
+          "count": 72
+        },
+        {
+          "word": "specific",
+          "count": 72
+        },
+        {
+          "word": "civil",
+          "count": 70
+        }
+      ]
+    },
+    {
+      "filename": "2002-08-02-upsc-mains-introduction-conclusion-techniques.md",
+      "slug": "upsc-mains-introduction-conclusion-techniques",
+      "title": "UPSC Mains Introduction and Conclusion Techniques",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10170,
+      "topWord": "conclusion",
+      "topCount": 217,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-08-02-upsc-mains-introduction-conclusion-techniques.md",
+      "flaggedWords": [
+        {
+          "word": "conclusion",
+          "count": 217
+        },
+        {
+          "word": "introduction",
+          "count": 214
+        },
+        {
+          "word": "analytical",
+          "count": 166
+        },
+        {
+          "word": "preparation",
+          "count": 152
+        },
+        {
+          "word": "opening",
+          "count": 135
+        },
+        {
+          "word": "technique",
+          "count": 125
+        },
+        {
+          "word": "question",
+          "count": 123
+        },
+        {
+          "word": "closing",
+          "count": 115
+        },
+        {
+          "word": "examination",
+          "count": 115
+        },
+        {
+          "word": "deployment",
+          "count": 98
+        },
+        {
+          "word": "formula",
+          "count": 96
+        },
+        {
+          "word": "questions",
+          "count": 91
+        },
+        {
+          "word": "substantial",
+          "count": 87
+        },
+        {
+          "word": "style",
+          "count": 78
+        },
+        {
+          "word": "produces",
+          "count": 76
+        },
+        {
+          "word": "specific",
+          "count": 73
+        },
+        {
+          "word": "capacity",
+          "count": 73
+        },
+        {
+          "word": "civil",
+          "count": 73
+        },
+        {
+          "word": "administration",
+          "count": 71
+        },
+        {
+          "word": "communication",
+          "count": 71
+        }
+      ],
+      "top20": [
+        {
+          "word": "conclusion",
+          "count": 217
+        },
+        {
+          "word": "introduction",
+          "count": 214
+        },
+        {
+          "word": "analytical",
+          "count": 166
+        },
+        {
+          "word": "preparation",
+          "count": 152
+        },
+        {
+          "word": "opening",
+          "count": 135
+        },
+        {
+          "word": "technique",
+          "count": 125
+        },
+        {
+          "word": "question",
+          "count": 123
+        },
+        {
+          "word": "closing",
+          "count": 115
+        },
+        {
+          "word": "examination",
+          "count": 115
+        },
+        {
+          "word": "deployment",
+          "count": 98
+        },
+        {
+          "word": "formula",
+          "count": 96
+        },
+        {
+          "word": "questions",
+          "count": 91
+        },
+        {
+          "word": "substantial",
+          "count": 87
+        },
+        {
+          "word": "style",
+          "count": 78
+        },
+        {
+          "word": "produces",
+          "count": 76
+        },
+        {
+          "word": "specific",
+          "count": 73
+        },
+        {
+          "word": "capacity",
+          "count": 73
+        },
+        {
+          "word": "civil",
+          "count": 73
+        },
+        {
+          "word": "administration",
+          "count": 71
+        },
+        {
+          "word": "communication",
+          "count": 71
         }
       ]
     },
@@ -35757,6 +38071,116 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-11-30-monitor-folder-changes-track-activities-on-a-folder-for-any-activity.md"
     },
     {
+      "filename": "2010-12-03-banquo-character-analysis.md",
+      "slug": "banquo-character-analysis",
+      "title": "Banquo Character Analysis in Shakespeare's Macbeth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6410,
+      "topWord": "banquo",
+      "topCount": 163,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-03-banquo-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "banquo",
+          "count": 163
+        },
+        {
+          "word": "macbeth",
+          "count": 95
+        }
+      ],
+      "top20": [
+        {
+          "word": "banquo",
+          "count": 163
+        },
+        {
+          "word": "macbeth",
+          "count": 95
+        },
+        {
+          "word": "ghost",
+          "count": 50
+        },
+        {
+          "word": "protagonist",
+          "count": 50
+        },
+        {
+          "word": "murder",
+          "count": 50
+        },
+        {
+          "word": "figure",
+          "count": 48
+        },
+        {
+          "word": "king",
+          "count": 48
+        },
+        {
+          "word": "witches",
+          "count": 46
+        },
+        {
+          "word": "response",
+          "count": 44
+        },
+        {
+          "word": "prophecy",
+          "count": 40
+        },
+        {
+          "word": "whose",
+          "count": 39
+        },
+        {
+          "word": "reading",
+          "count": 36
+        },
+        {
+          "word": "political",
+          "count": 35
+        },
+        {
+          "word": "supernatural",
+          "count": 33
+        },
+        {
+          "word": "criminal",
+          "count": 33
+        },
+        {
+          "word": "descendants",
+          "count": 33
+        },
+        {
+          "word": "killing",
+          "count": 33
+        },
+        {
+          "word": "figures",
+          "count": 33
+        },
+        {
+          "word": "banquet",
+          "count": 31
+        },
+        {
+          "word": "himself",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2010-12-03-control-mouse-cursor-using-keyboard.md",
       "slug": "control-mouse-cursor-using-keyboard",
       "title": "Control Mouse Cursor using Keyboard",
@@ -35793,6 +38217,120 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-07-finally-you-can-rotate-a-pdf-document.md"
     },
     {
+      "filename": "2010-12-08-macduff-character-analysis.md",
+      "slug": "macduff-character-analysis",
+      "title": "Macduff Character Analysis in Shakespeare's Macbeth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7284,
+      "topWord": "macduff",
+      "topCount": 180,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-08-macduff-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "macduff",
+          "count": 180
+        },
+        {
+          "word": "macbeth",
+          "count": 72
+        },
+        {
+          "word": "whose",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "macduff",
+          "count": 180
+        },
+        {
+          "word": "macbeth",
+          "count": 72
+        },
+        {
+          "word": "whose",
+          "count": 66
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "personal",
+          "count": 50
+        },
+        {
+          "word": "protagonist",
+          "count": 50
+        },
+        {
+          "word": "combat",
+          "count": 49
+        },
+        {
+          "word": "legitimate",
+          "count": 49
+        },
+        {
+          "word": "action",
+          "count": 49
+        },
+        {
+          "word": "political",
+          "count": 49
+        },
+        {
+          "word": "restoration",
+          "count": 48
+        },
+        {
+          "word": "slaughter",
+          "count": 46
+        },
+        {
+          "word": "killing",
+          "count": 45
+        },
+        {
+          "word": "closing",
+          "count": 45
+        },
+        {
+          "word": "family",
+          "count": 44
+        },
+        {
+          "word": "figures",
+          "count": 42
+        },
+        {
+          "word": "grief",
+          "count": 41
+        },
+        {
+          "word": "moral",
+          "count": 37
+        },
+        {
+          "word": "civic",
+          "count": 37
+        }
+      ]
+    },
+    {
       "filename": "2010-12-10-add-facial-recognition-even-to-your-prehistoric-pc.md",
       "slug": "add-facial-recognition-even-to-your-prehistoric-pc",
       "title": "Add Facial Recognition even to your prehistoric PC",
@@ -35809,6 +38347,120 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-10-add-facial-recognition-even-to-your-prehistoric-pc.md"
+    },
+    {
+      "filename": "2010-12-13-duncan-character-analysis.md",
+      "slug": "duncan-character-analysis",
+      "title": "Duncan Character Analysis in Shakespeare's Macbeth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7460,
+      "topWord": "duncan",
+      "topCount": 224,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-13-duncan-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "duncan",
+          "count": 224
+        },
+        {
+          "word": "whose",
+          "count": 91
+        },
+        {
+          "word": "macbeth",
+          "count": 86
+        }
+      ],
+      "top20": [
+        {
+          "word": "duncan",
+          "count": 224
+        },
+        {
+          "word": "whose",
+          "count": 91
+        },
+        {
+          "word": "macbeth",
+          "count": 86
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "subsequent",
+          "count": 50
+        },
+        {
+          "word": "regicide",
+          "count": 50
+        },
+        {
+          "word": "king",
+          "count": 50
+        },
+        {
+          "word": "slaying",
+          "count": 50
+        },
+        {
+          "word": "authority",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "killing",
+          "count": 50
+        },
+        {
+          "word": "political",
+          "count": 50
+        },
+        {
+          "word": "trust",
+          "count": 49
+        },
+        {
+          "word": "rightful",
+          "count": 48
+        },
+        {
+          "word": "hospitality",
+          "count": 48
+        },
+        {
+          "word": "protagonist",
+          "count": 48
+        },
+        {
+          "word": "legitimate",
+          "count": 48
+        },
+        {
+          "word": "tragedy",
+          "count": 44
+        },
+        {
+          "word": "deed",
+          "count": 44
+        },
+        {
+          "word": "criminal",
+          "count": 43
+        }
+      ]
     },
     {
       "filename": "2010-12-14-how-to-delete-large-folders-in-your-pc-with-gbs-of-files-in-them.md",
@@ -35847,6 +38499,120 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-17-lock-folders-and-hide-your-secret-files.md"
     },
     {
+      "filename": "2010-12-18-malcolm-character-analysis.md",
+      "slug": "malcolm-character-analysis",
+      "title": "Malcolm Character Analysis in Shakespeare's Macbeth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7674,
+      "topWord": "malcolm",
+      "topCount": 179,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-18-malcolm-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "malcolm",
+          "count": 179
+        },
+        {
+          "word": "whose",
+          "count": 88
+        },
+        {
+          "word": "macduff",
+          "count": 74
+        }
+      ],
+      "top20": [
+        {
+          "word": "malcolm",
+          "count": 179
+        },
+        {
+          "word": "whose",
+          "count": 88
+        },
+        {
+          "word": "macduff",
+          "count": 74
+        },
+        {
+          "word": "english",
+          "count": 50
+        },
+        {
+          "word": "closing",
+          "count": 50
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "kingship",
+          "count": 50
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "recovery",
+          "count": 50
+        },
+        {
+          "word": "constitutional",
+          "count": 50
+        },
+        {
+          "word": "protagonist",
+          "count": 50
+        },
+        {
+          "word": "political",
+          "count": 50
+        },
+        {
+          "word": "testing",
+          "count": 50
+        },
+        {
+          "word": "legitimate",
+          "count": 50
+        },
+        {
+          "word": "civic",
+          "count": 48
+        },
+        {
+          "word": "moment",
+          "count": 48
+        },
+        {
+          "word": "personal",
+          "count": 46
+        },
+        {
+          "word": "restoration",
+          "count": 46
+        },
+        {
+          "word": "rightful",
+          "count": 44
+        },
+        {
+          "word": "effort",
+          "count": 44
+        }
+      ]
+    },
+    {
       "filename": "2010-12-21-unleash-the-power-of-new-notepad-q10.md",
       "slug": "unleash-the-power-of-new-notepad-q10",
       "title": "Unleash the power of new Notepad: Q10",
@@ -35883,6 +38649,124 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-23-the-best-birthday-gift.md"
     },
     {
+      "filename": "2010-12-23-witches-character-analysis.md",
+      "slug": "witches-character-analysis",
+      "title": "Weird Sisters Character Analysis in Shakespeare's Macbeth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7482,
+      "topWord": "witches",
+      "topCount": 222,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-23-witches-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "witches",
+          "count": 222
+        },
+        {
+          "word": "macbeth",
+          "count": 113
+        },
+        {
+          "word": "whose",
+          "count": 70
+        },
+        {
+          "word": "banquo",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "witches",
+          "count": 222
+        },
+        {
+          "word": "macbeth",
+          "count": 113
+        },
+        {
+          "word": "whose",
+          "count": 70
+        },
+        {
+          "word": "banquo",
+          "count": 54
+        },
+        {
+          "word": "framework",
+          "count": 50
+        },
+        {
+          "word": "tragedy",
+          "count": 50
+        },
+        {
+          "word": "predictions",
+          "count": 50
+        },
+        {
+          "word": "preternatural",
+          "count": 50
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "beings",
+          "count": 50
+        },
+        {
+          "word": "produce",
+          "count": 50
+        },
+        {
+          "word": "prophecies",
+          "count": 50
+        },
+        {
+          "word": "occult",
+          "count": 50
+        },
+        {
+          "word": "pronouncements",
+          "count": 50
+        },
+        {
+          "word": "figures",
+          "count": 50
+        },
+        {
+          "word": "supernatural",
+          "count": 50
+        },
+        {
+          "word": "human",
+          "count": 49
+        },
+        {
+          "word": "cauldron",
+          "count": 48
+        },
+        {
+          "word": "protagonist",
+          "count": 47
+        },
+        {
+          "word": "play",
+          "count": 46
+        }
+      ]
+    },
+    {
       "filename": "2010-12-27-the-great-businessman.md",
       "slug": "the-great-businessman",
       "title": "The Great Businessman",
@@ -35899,6 +38783,230 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-27-the-great-businessman.md"
+    },
+    {
+      "filename": "2010-12-28-porter-character-analysis.md",
+      "slug": "porter-character-analysis",
+      "title": "The Porter Character Analysis in Shakespeare's Macbeth",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7793,
+      "topWord": "porter",
+      "topCount": 280,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2010-12-28-porter-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "porter",
+          "count": 280
+        },
+        {
+          "word": "whose",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "porter",
+          "count": 280
+        },
+        {
+          "word": "whose",
+          "count": 52
+        },
+        {
+          "word": "monologue",
+          "count": 50
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "audience",
+          "count": 50
+        },
+        {
+          "word": "humorous",
+          "count": 50
+        },
+        {
+          "word": "figures",
+          "count": 50
+        },
+        {
+          "word": "jocular",
+          "count": 50
+        },
+        {
+          "word": "passage",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "commentary",
+          "count": 50
+        },
+        {
+          "word": "dramatic",
+          "count": 50
+        },
+        {
+          "word": "material",
+          "count": 50
+        },
+        {
+          "word": "tragic",
+          "count": 50
+        },
+        {
+          "word": "social",
+          "count": 50
+        },
+        {
+          "word": "structural",
+          "count": 50
+        },
+        {
+          "word": "comic",
+          "count": 50
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "gate",
+          "count": 47
+        },
+        {
+          "word": "hell",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "filename": "2011-01-03-othello-character-analysis-deep-dive.md",
+      "slug": "othello-character-analysis-deep-dive",
+      "title": "Othello Character Analysis - Shakespeare's Noblest Outsider",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6885,
+      "topWord": "othello",
+      "topCount": 157,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-03-othello-character-analysis-deep-dive.md",
+      "flaggedWords": [
+        {
+          "word": "othello",
+          "count": 157
+        },
+        {
+          "word": "whose",
+          "count": 84
+        },
+        {
+          "word": "iago",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "othello",
+          "count": 157
+        },
+        {
+          "word": "whose",
+          "count": 84
+        },
+        {
+          "word": "iago",
+          "count": 65
+        },
+        {
+          "word": "social",
+          "count": 50
+        },
+        {
+          "word": "tragedy",
+          "count": 50
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "destruction",
+          "count": 50
+        },
+        {
+          "word": "racial",
+          "count": 50
+        },
+        {
+          "word": "military",
+          "count": 50
+        },
+        {
+          "word": "specific",
+          "count": 50
+        },
+        {
+          "word": "manipulation",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "identity",
+          "count": 49
+        },
+        {
+          "word": "evidence",
+          "count": 46
+        },
+        {
+          "word": "dimension",
+          "count": 45
+        },
+        {
+          "word": "ethnic",
+          "count": 40
+        },
+        {
+          "word": "desdemona",
+          "count": 39
+        },
+        {
+          "word": "produced",
+          "count": 39
+        },
+        {
+          "word": "honor",
+          "count": 36
+        },
+        {
+          "word": "speech",
+          "count": 35
+        }
+      ]
     },
     {
       "filename": "2011-01-03-the-girl-next-row-x.md",
@@ -36057,6 +39165,128 @@
         {
           "word": "professional",
           "count": 32
+        }
+      ]
+    },
+    {
+      "filename": "2011-01-09-iago-othello-character-analysis.md",
+      "slug": "iago-othello-character-analysis",
+      "title": "Iago Character Analysis - Villainy in Shakespeare's Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6851,
+      "topWord": "iago",
+      "topCount": 224,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-09-iago-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "iago",
+          "count": 224
+        },
+        {
+          "word": "whose",
+          "count": 82
+        },
+        {
+          "word": "cassio",
+          "count": 69
+        },
+        {
+          "word": "othello",
+          "count": 58
+        },
+        {
+          "word": "desdemona",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "iago",
+          "count": 224
+        },
+        {
+          "word": "whose",
+          "count": 82
+        },
+        {
+          "word": "cassio",
+          "count": 69
+        },
+        {
+          "word": "othello",
+          "count": 58
+        },
+        {
+          "word": "desdemona",
+          "count": 53
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "drama",
+          "count": 50
+        },
+        {
+          "word": "campaign",
+          "count": 50
+        },
+        {
+          "word": "destruction",
+          "count": 46
+        },
+        {
+          "word": "roderigo",
+          "count": 41
+        },
+        {
+          "word": "audience",
+          "count": 40
+        },
+        {
+          "word": "reading",
+          "count": 39
+        },
+        {
+          "word": "relationship",
+          "count": 38
+        },
+        {
+          "word": "silence",
+          "count": 37
+        },
+        {
+          "word": "evidence",
+          "count": 36
+        },
+        {
+          "word": "handkerchief",
+          "count": 35
+        },
+        {
+          "word": "capacity",
+          "count": 34
+        },
+        {
+          "word": "involves",
+          "count": 33
+        },
+        {
+          "word": "character",
+          "count": 31
+        },
+        {
+          "word": "sustained",
+          "count": 30
         }
       ]
     },
@@ -36365,6 +39595,120 @@
       ]
     },
     {
+      "filename": "2011-01-15-desdemona-othello-character-analysis.md",
+      "slug": "desdemona-othello-character-analysis",
+      "title": "Desdemona Character Analysis in Shakespeare's Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6596,
+      "topWord": "desdemona",
+      "topCount": 117,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-15-desdemona-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "desdemona",
+          "count": 117
+        },
+        {
+          "word": "othello",
+          "count": 63
+        },
+        {
+          "word": "whose",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "desdemona",
+          "count": 117
+        },
+        {
+          "word": "othello",
+          "count": 63
+        },
+        {
+          "word": "whose",
+          "count": 52
+        },
+        {
+          "word": "evidence",
+          "count": 50
+        },
+        {
+          "word": "agency",
+          "count": 50
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "marriage",
+          "count": 50
+        },
+        {
+          "word": "social",
+          "count": 50
+        },
+        {
+          "word": "conditions",
+          "count": 50
+        },
+        {
+          "word": "iago",
+          "count": 47
+        },
+        {
+          "word": "tragedy",
+          "count": 43
+        },
+        {
+          "word": "framework",
+          "count": 42
+        },
+        {
+          "word": "husband",
+          "count": 41
+        },
+        {
+          "word": "racial",
+          "count": 41
+        },
+        {
+          "word": "qualities",
+          "count": 39
+        },
+        {
+          "word": "figure",
+          "count": 38
+        },
+        {
+          "word": "structural",
+          "count": 38
+        },
+        {
+          "word": "reading",
+          "count": 38
+        },
+        {
+          "word": "loyalty",
+          "count": 36
+        },
+        {
+          "word": "innocence",
+          "count": 35
+        }
+      ]
+    },
+    {
       "filename": "2011-01-16-tcs-ilp-bhubaneswar-survival-of-the-weakest.md",
       "slug": "tcs-ilp-bhubaneswar-survival-of-the-weakest",
       "title": "Surviving TCS ILP - Tips for Beginners",
@@ -36487,6 +39831,124 @@
         {
           "word": "program",
           "count": 34
+        }
+      ]
+    },
+    {
+      "filename": "2011-01-20-cassio-othello-character-analysis.md",
+      "slug": "cassio-othello-character-analysis",
+      "title": "Cassio Character Analysis - The Unwitting Pawn in Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6795,
+      "topWord": "cassio",
+      "topCount": 180,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-20-cassio-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "cassio",
+          "count": 180
+        },
+        {
+          "word": "iago",
+          "count": 128
+        },
+        {
+          "word": "whose",
+          "count": 88
+        },
+        {
+          "word": "desdemona",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "cassio",
+          "count": 180
+        },
+        {
+          "word": "iago",
+          "count": 128
+        },
+        {
+          "word": "whose",
+          "count": 88
+        },
+        {
+          "word": "desdemona",
+          "count": 60
+        },
+        {
+          "word": "campaign",
+          "count": 50
+        },
+        {
+          "word": "evidence",
+          "count": 50
+        },
+        {
+          "word": "tragedy",
+          "count": 50
+        },
+        {
+          "word": "moral",
+          "count": 50
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "figures",
+          "count": 50
+        },
+        {
+          "word": "social",
+          "count": 50
+        },
+        {
+          "word": "behavior",
+          "count": 50
+        },
+        {
+          "word": "institutional",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 48
+        },
+        {
+          "word": "catastrophe",
+          "count": 48
+        },
+        {
+          "word": "othello",
+          "count": 47
+        },
+        {
+          "word": "relationship",
+          "count": 40
+        },
+        {
+          "word": "professional",
+          "count": 40
+        },
+        {
+          "word": "closing",
+          "count": 38
+        },
+        {
+          "word": "unwitting",
+          "count": 38
         }
       ]
     },
@@ -36755,6 +40217,124 @@
       ]
     },
     {
+      "filename": "2011-01-25-emilia-othello-character-analysis.md",
+      "slug": "emilia-othello-character-analysis",
+      "title": "Emilia Character Analysis in Shakespeare's Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6757,
+      "topWord": "emilia",
+      "topCount": 142,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-25-emilia-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "emilia",
+          "count": 142
+        },
+        {
+          "word": "whose",
+          "count": 76
+        },
+        {
+          "word": "iago",
+          "count": 63
+        },
+        {
+          "word": "desdemona",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "emilia",
+          "count": 142
+        },
+        {
+          "word": "whose",
+          "count": 76
+        },
+        {
+          "word": "iago",
+          "count": 63
+        },
+        {
+          "word": "desdemona",
+          "count": 59
+        },
+        {
+          "word": "unwitting",
+          "count": 50
+        },
+        {
+          "word": "handkerchief",
+          "count": 50
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "tragedy",
+          "count": 50
+        },
+        {
+          "word": "specific",
+          "count": 50
+        },
+        {
+          "word": "marriage",
+          "count": 50
+        },
+        {
+          "word": "husband",
+          "count": 50
+        },
+        {
+          "word": "scheme",
+          "count": 50
+        },
+        {
+          "word": "truth",
+          "count": 50
+        },
+        {
+          "word": "heroic",
+          "count": 47
+        },
+        {
+          "word": "closing",
+          "count": 47
+        },
+        {
+          "word": "exposure",
+          "count": 46
+        },
+        {
+          "word": "speaking",
+          "count": 44
+        },
+        {
+          "word": "knowledge",
+          "count": 41
+        },
+        {
+          "word": "participation",
+          "count": 40
+        },
+        {
+          "word": "provides",
+          "count": 39
+        }
+      ]
+    },
+    {
       "filename": "2011-01-27-tcs-ilp-bhubaneswar-picture-abhi-baki-hai-mere-dost.md",
       "slug": "tcs-ilp-bhubaneswar-picture-abhi-baki-hai-mere-dost",
       "title": "After TCS ILP Bhubaneswar - Project Allocation and Career Guide",
@@ -36897,6 +40477,124 @@
       ]
     },
     {
+      "filename": "2011-01-31-brabantio-othello-character-analysis.md",
+      "slug": "brabantio-othello-character-analysis",
+      "title": "Brabantio Character Analysis in Shakespeare's Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6966,
+      "topWord": "brabantio",
+      "topCount": 73,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-01-31-brabantio-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "brabantio",
+          "count": 73
+        },
+        {
+          "word": "whose",
+          "count": 59
+        },
+        {
+          "word": "desdemona",
+          "count": 53
+        },
+        {
+          "word": "othello",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "brabantio",
+          "count": 73
+        },
+        {
+          "word": "whose",
+          "count": 59
+        },
+        {
+          "word": "desdemona",
+          "count": 53
+        },
+        {
+          "word": "othello",
+          "count": 52
+        },
+        {
+          "word": "daughter",
+          "count": 50
+        },
+        {
+          "word": "tragedy",
+          "count": 50
+        },
+        {
+          "word": "scene",
+          "count": 50
+        },
+        {
+          "word": "warning",
+          "count": 50
+        },
+        {
+          "word": "scheming",
+          "count": 50
+        },
+        {
+          "word": "racial",
+          "count": 50
+        },
+        {
+          "word": "opposition",
+          "count": 50
+        },
+        {
+          "word": "parental",
+          "count": 50
+        },
+        {
+          "word": "particular",
+          "count": 50
+        },
+        {
+          "word": "marriage",
+          "count": 50
+        },
+        {
+          "word": "father",
+          "count": 50
+        },
+        {
+          "word": "specific",
+          "count": 50
+        },
+        {
+          "word": "senate",
+          "count": 49
+        },
+        {
+          "word": "death",
+          "count": 49
+        },
+        {
+          "word": "institutional",
+          "count": 49
+        },
+        {
+          "word": "authority",
+          "count": 47
+        }
+      ]
+    },
+    {
       "filename": "2011-02-01-tcl-ilp-gandhinagar-experience-the-journey-begins.md",
       "slug": "tcl-ilp-gandhinagar-experience-the-journey-begins",
       "title": "TCL ILP Gandhinagar Experience – The Journey Begins",
@@ -36913,6 +40611,238 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-01-tcl-ilp-gandhinagar-experience-the-journey-begins.md"
+    },
+    {
+      "filename": "2011-02-06-roderigo-othello-character-analysis.md",
+      "slug": "roderigo-othello-character-analysis",
+      "title": "Roderigo Character Analysis - The Lovesick Fool in Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7114,
+      "topWord": "roderigo",
+      "topCount": 228,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-06-roderigo-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "roderigo",
+          "count": 228
+        },
+        {
+          "word": "iago",
+          "count": 168
+        },
+        {
+          "word": "whose",
+          "count": 64
+        },
+        {
+          "word": "cassio",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "roderigo",
+          "count": 228
+        },
+        {
+          "word": "iago",
+          "count": 168
+        },
+        {
+          "word": "whose",
+          "count": 64
+        },
+        {
+          "word": "cassio",
+          "count": 51
+        },
+        {
+          "word": "financial",
+          "count": 50
+        },
+        {
+          "word": "scheme",
+          "count": 50
+        },
+        {
+          "word": "sustained",
+          "count": 50
+        },
+        {
+          "word": "desire",
+          "count": 50
+        },
+        {
+          "word": "exploitation",
+          "count": 50
+        },
+        {
+          "word": "comic",
+          "count": 50
+        },
+        {
+          "word": "specific",
+          "count": 50
+        },
+        {
+          "word": "pattern",
+          "count": 48
+        },
+        {
+          "word": "class",
+          "count": 45
+        },
+        {
+          "word": "arrangement",
+          "count": 42
+        },
+        {
+          "word": "rational",
+          "count": 40
+        },
+        {
+          "word": "fraud",
+          "count": 40
+        },
+        {
+          "word": "figure",
+          "count": 39
+        },
+        {
+          "word": "figures",
+          "count": 39
+        },
+        {
+          "word": "precise",
+          "count": 38
+        },
+        {
+          "word": "physical",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2011-02-12-bianca-othello-character-analysis.md",
+      "slug": "bianca-othello-character-analysis",
+      "title": "Bianca Character Analysis - The Courtesan in Othello",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7070,
+      "topWord": "bianca",
+      "topCount": 155,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-12-bianca-othello-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "bianca",
+          "count": 155
+        },
+        {
+          "word": "cassio",
+          "count": 86
+        },
+        {
+          "word": "whose",
+          "count": 79
+        }
+      ],
+      "top20": [
+        {
+          "word": "bianca",
+          "count": 155
+        },
+        {
+          "word": "cassio",
+          "count": 86
+        },
+        {
+          "word": "whose",
+          "count": 79
+        },
+        {
+          "word": "profession",
+          "count": 50
+        },
+        {
+          "word": "accusation",
+          "count": 50
+        },
+        {
+          "word": "position",
+          "count": 50
+        },
+        {
+          "word": "drama",
+          "count": 50
+        },
+        {
+          "word": "specific",
+          "count": 50
+        },
+        {
+          "word": "othello",
+          "count": 49
+        },
+        {
+          "word": "relationship",
+          "count": 49
+        },
+        {
+          "word": "social",
+          "count": 49
+        },
+        {
+          "word": "figures",
+          "count": 49
+        },
+        {
+          "word": "handkerchief",
+          "count": 48
+        },
+        {
+          "word": "principal",
+          "count": 48
+        },
+        {
+          "word": "affection",
+          "count": 45
+        },
+        {
+          "word": "involves",
+          "count": 45
+        },
+        {
+          "word": "structural",
+          "count": 42
+        },
+        {
+          "word": "scene",
+          "count": 41
+        },
+        {
+          "word": "iago",
+          "count": 41
+        },
+        {
+          "word": "play",
+          "count": 40
+        }
+      ]
     },
     {
       "filename": "2011-02-19-tcs-2011-batch-community.md",
@@ -50780,9 +54710,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7282,
-      "topWord": "available",
-      "topCount": 1974,
+      "wordCount": 9261,
+      "topWord": "food",
+      "topCount": 259,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -50791,158 +54721,150 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-10-food-feasts-love-harry-potter.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1974
-        },
-        {
-          "word": "specifically",
-          "count": 1128
-        },
-        {
-          "word": "relevant",
-          "count": 235
-        },
-        {
           "word": "food",
-          "count": 232
+          "count": 259
         },
         {
-          "word": "concentrated",
-          "count": 90
+          "word": "social",
+          "count": 147
         },
         {
-          "word": "portrait",
-          "count": 88
+          "word": "care",
+          "count": 107
         },
         {
-          "word": "love",
-          "count": 81
-        },
-        {
-          "word": "feast",
-          "count": 78
+          "word": "magical",
+          "count": 93
         },
         {
           "word": "community",
-          "count": 72
+          "count": 91
         },
         {
-          "word": "material",
-          "count": 67
+          "word": "understanding",
+          "count": 87
         },
         {
-          "word": "ordinary",
-          "count": 66
+          "word": "emotional",
+          "count": 82
         },
         {
-          "word": "harry",
-          "count": 63
-        },
-        {
-          "word": "series",
-          "count": 62
-        },
-        {
-          "word": "dimension",
+          "word": "relationships",
           "count": 60
         },
         {
-          "word": "person",
+          "word": "family",
+          "count": 59
+        },
+        {
+          "word": "individual",
+          "count": 57
+        },
+        {
+          "word": "series",
+          "count": 56
+        },
+        {
+          "word": "abundance",
+          "count": 56
+        },
+        {
+          "word": "cultural",
+          "count": 56
+        },
+        {
+          "word": "harry",
           "count": 55
         },
         {
-          "word": "hogwarts",
-          "count": 52
+          "word": "labor",
+          "count": 51
         },
         {
-          "word": "communal",
-          "count": 52
-        },
-        {
-          "word": "provision",
-          "count": 52
+          "word": "maintaining",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1974
-        },
-        {
-          "word": "specifically",
-          "count": 1128
-        },
-        {
-          "word": "relevant",
-          "count": 235
-        },
-        {
           "word": "food",
-          "count": 232
+          "count": 259
         },
         {
-          "word": "concentrated",
-          "count": 90
+          "word": "social",
+          "count": 147
         },
         {
-          "word": "portrait",
-          "count": 88
+          "word": "care",
+          "count": 107
         },
         {
-          "word": "love",
-          "count": 81
-        },
-        {
-          "word": "feast",
-          "count": 78
+          "word": "magical",
+          "count": 93
         },
         {
           "word": "community",
-          "count": 72
+          "count": 91
         },
         {
-          "word": "material",
-          "count": 67
+          "word": "understanding",
+          "count": 87
         },
         {
-          "word": "ordinary",
-          "count": 66
+          "word": "emotional",
+          "count": 82
         },
         {
-          "word": "harry",
-          "count": 63
-        },
-        {
-          "word": "series",
-          "count": 62
-        },
-        {
-          "word": "dimension",
+          "word": "relationships",
           "count": 60
         },
         {
-          "word": "person",
+          "word": "family",
+          "count": 59
+        },
+        {
+          "word": "individual",
+          "count": 57
+        },
+        {
+          "word": "series",
+          "count": 56
+        },
+        {
+          "word": "abundance",
+          "count": 56
+        },
+        {
+          "word": "cultural",
+          "count": 56
+        },
+        {
+          "word": "harry",
           "count": 55
         },
         {
-          "word": "hogwarts",
-          "count": 52
+          "word": "labor",
+          "count": 51
         },
         {
-          "word": "communal",
-          "count": 52
+          "word": "maintaining",
+          "count": 51
         },
         {
-          "word": "provision",
-          "count": 52
+          "word": "systematic",
+          "count": 49
         },
         {
-          "word": "directly",
+          "word": "create",
+          "count": 47
+        },
+        {
+          "word": "institutional",
           "count": 46
         },
         {
-          "word": "specific",
-          "count": 42
+          "word": "broader",
+          "count": 44
         }
       ]
     },
@@ -51782,9 +55704,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 5125,
-      "topWord": "specifically",
-      "topCount": 1838,
+      "wordCount": 9049,
+      "topWord": "social",
+      "topCount": 131,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -51793,106 +55715,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-15-hermione-vs-luna-comparison.md",
       "flaggedWords": [
         {
-          "word": "specifically",
-          "count": 1838
+          "word": "social",
+          "count": 131
         },
         {
-          "word": "available",
-          "count": 664
+          "word": "approaches",
+          "count": 117
+        },
+        {
+          "word": "intellectual",
+          "count": 105
+        },
+        {
+          "word": "understanding",
+          "count": 100
         },
         {
           "word": "luna",
-          "count": 75
+          "count": 99
         },
         {
           "word": "hermione",
-          "count": 69
+          "count": 97
         },
         {
-          "word": "genuine",
+          "word": "development",
+          "count": 89
+        },
+        {
+          "word": "authentic",
+          "count": 80
+        },
+        {
+          "word": "learning",
+          "count": 79
+        },
+        {
+          "word": "demonstrates",
+          "count": 76
+        },
+        {
+          "word": "systematic",
+          "count": 74
+        },
+        {
+          "word": "wisdom",
+          "count": 73
+        },
+        {
+          "word": "magical",
+          "count": 72
+        },
+        {
+          "word": "academic",
+          "count": 70
+        },
+        {
+          "word": "emotional",
+          "count": 68
+        },
+        {
+          "word": "requiring",
+          "count": 66
+        },
+        {
+          "word": "knowledge",
+          "count": 63
+        },
+        {
+          "word": "individual",
+          "count": 61
+        },
+        {
+          "word": "maintaining",
           "count": 53
+        },
+        {
+          "word": "educational",
+          "count": 52
         }
       ],
       "top20": [
         {
-          "word": "specifically",
-          "count": 1838
+          "word": "social",
+          "count": 131
         },
         {
-          "word": "available",
-          "count": 664
+          "word": "approaches",
+          "count": 117
+        },
+        {
+          "word": "intellectual",
+          "count": 105
+        },
+        {
+          "word": "understanding",
+          "count": 100
         },
         {
           "word": "luna",
-          "count": 75
+          "count": 99
         },
         {
           "word": "hermione",
-          "count": 69
+          "count": 97
         },
         {
-          "word": "genuine",
+          "word": "development",
+          "count": 89
+        },
+        {
+          "word": "authentic",
+          "count": 80
+        },
+        {
+          "word": "learning",
+          "count": 79
+        },
+        {
+          "word": "demonstrates",
+          "count": 76
+        },
+        {
+          "word": "systematic",
+          "count": 74
+        },
+        {
+          "word": "wisdom",
+          "count": 73
+        },
+        {
+          "word": "magical",
+          "count": 72
+        },
+        {
+          "word": "academic",
+          "count": 70
+        },
+        {
+          "word": "emotional",
+          "count": 68
+        },
+        {
+          "word": "requiring",
+          "count": 66
+        },
+        {
+          "word": "knowledge",
+          "count": 63
+        },
+        {
+          "word": "individual",
+          "count": 61
+        },
+        {
+          "word": "maintaining",
           "count": 53
         },
         {
-          "word": "intelligence",
-          "count": 41
-        },
-        {
-          "word": "person",
-          "count": 37
-        },
-        {
-          "word": "concentrated",
-          "count": 37
-        },
-        {
-          "word": "cannot",
-          "count": 35
-        },
-        {
-          "word": "relationship",
-          "count": 35
-        },
-        {
-          "word": "relevant",
-          "count": 34
-        },
-        {
-          "word": "series",
-          "count": 32
-        },
-        {
-          "word": "social",
-          "count": 32
-        },
-        {
-          "word": "framework",
-          "count": 29
-        },
-        {
-          "word": "portrait",
-          "count": 26
-        },
-        {
-          "word": "empirical",
-          "count": 23
-        },
-        {
-          "word": "harry",
-          "count": 18
-        },
-        {
-          "word": "specific",
-          "count": 17
-        },
-        {
-          "word": "complete",
-          "count": 17
-        },
-        {
-          "word": "requires",
-          "count": 17
+          "word": "educational",
+          "count": 52
         }
       ]
     },
@@ -52005,14 +55987,14 @@
     {
       "filename": "2013-09-22-draco-vs-dudley-comparison.md",
       "slug": "draco-vs-dudley-comparison",
-      "title": "Draco Malfoy vs Dudley Dursley: Two Bullies, One Question About Change",
+      "title": "Draco Malfoy vs Dudley Dursley: Two Bullies, One Question",
       "categories": [
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 5731,
-      "topWord": "specifically",
-      "topCount": 1975,
+      "wordCount": 9268,
+      "topWord": "social",
+      "topCount": 199,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -52021,110 +56003,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-22-draco-vs-dudley-comparison.md",
       "flaggedWords": [
         {
-          "word": "specifically",
-          "count": 1975
+          "word": "social",
+          "count": 199
         },
         {
-          "word": "available",
-          "count": 1249
+          "word": "development",
+          "count": 135
+        },
+        {
+          "word": "moral",
+          "count": 128
+        },
+        {
+          "word": "intellectual",
+          "count": 122
         },
         {
           "word": "draco",
-          "count": 82
+          "count": 114
+        },
+        {
+          "word": "individual",
+          "count": 103
         },
         {
           "word": "dudley",
-          "count": 75
+          "count": 102
         },
         {
-          "word": "genuine",
-          "count": 69
+          "word": "growth",
+          "count": 99
         },
         {
-          "word": "harry",
-          "count": 53
+          "word": "understanding",
+          "count": 89
+        },
+        {
+          "word": "educational",
+          "count": 76
+        },
+        {
+          "word": "emotional",
+          "count": 74
+        },
+        {
+          "word": "recognition",
+          "count": 70
+        },
+        {
+          "word": "change",
+          "count": 70
+        },
+        {
+          "word": "redemption",
+          "count": 65
+        },
+        {
+          "word": "psychological",
+          "count": 63
+        },
+        {
+          "word": "authentic",
+          "count": 63
+        },
+        {
+          "word": "analytical",
+          "count": 60
+        },
+        {
+          "word": "education",
+          "count": 60
+        },
+        {
+          "word": "create",
+          "count": 59
+        },
+        {
+          "word": "characters",
+          "count": 58
         }
       ],
       "top20": [
         {
-          "word": "specifically",
-          "count": 1975
+          "word": "social",
+          "count": 199
         },
         {
-          "word": "available",
-          "count": 1249
+          "word": "development",
+          "count": 135
+        },
+        {
+          "word": "moral",
+          "count": 128
+        },
+        {
+          "word": "intellectual",
+          "count": 122
         },
         {
           "word": "draco",
-          "count": 82
+          "count": 114
+        },
+        {
+          "word": "individual",
+          "count": 103
         },
         {
           "word": "dudley",
-          "count": 75
+          "count": 102
         },
         {
-          "word": "genuine",
-          "count": 69
+          "word": "growth",
+          "count": 99
         },
         {
-          "word": "harry",
-          "count": 53
+          "word": "understanding",
+          "count": 89
         },
         {
-          "word": "concentrated",
-          "count": 38
+          "word": "educational",
+          "count": 76
+        },
+        {
+          "word": "emotional",
+          "count": 74
+        },
+        {
+          "word": "recognition",
+          "count": 70
         },
         {
           "word": "change",
-          "count": 27
+          "count": 70
         },
         {
-          "word": "ideology",
-          "count": 25
+          "word": "redemption",
+          "count": 65
         },
         {
-          "word": "boy",
-          "count": 25
+          "word": "psychological",
+          "count": 63
         },
         {
-          "word": "portrait",
-          "count": 25
+          "word": "authentic",
+          "count": 63
         },
         {
-          "word": "arc",
-          "count": 24
+          "word": "analytical",
+          "count": 60
         },
         {
-          "word": "person",
-          "count": 20
+          "word": "education",
+          "count": 60
         },
         {
-          "word": "privilege",
-          "count": 18
+          "word": "create",
+          "count": 59
         },
         {
-          "word": "moment",
-          "count": 18
-        },
-        {
-          "word": "comparison",
-          "count": 17
-        },
-        {
-          "word": "boys",
-          "count": 16
-        },
-        {
-          "word": "relationship",
-          "count": 15
-        },
-        {
-          "word": "father",
-          "count": 14
-        },
-        {
-          "word": "narrative",
-          "count": 13
+          "word": "characters",
+          "count": 58
         }
       ]
     },
@@ -52368,9 +56406,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 5787,
-      "topWord": "available",
-      "topCount": 1960,
+      "wordCount": 8716,
+      "topWord": "harry",
+      "topCount": 156,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -52379,102 +56417,146 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-29-neville-vs-harry-comparison.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1960
+          "word": "harry",
+          "count": 156
         },
         {
-          "word": "specifically",
-          "count": 1904
+          "word": "development",
+          "count": 148
         },
         {
           "word": "neville",
-          "count": 86
+          "count": 140
         },
         {
-          "word": "harry",
+          "word": "heroic",
+          "count": 103
+        },
+        {
+          "word": "individual",
+          "count": 103
+        },
+        {
+          "word": "moral",
+          "count": 97
+        },
+        {
+          "word": "character",
+          "count": 93
+        },
+        {
+          "word": "support",
+          "count": 92
+        },
+        {
+          "word": "circumstances",
+          "count": 78
+        },
+        {
+          "word": "action",
+          "count": 74
+        },
+        {
+          "word": "social",
+          "count": 69
+        },
+        {
+          "word": "community",
+          "count": 68
+        },
+        {
+          "word": "potential",
+          "count": 64
+        },
+        {
+          "word": "heroism",
           "count": 60
+        },
+        {
+          "word": "forms",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1960
+          "word": "harry",
+          "count": 156
         },
         {
-          "word": "specifically",
-          "count": 1904
+          "word": "development",
+          "count": 148
         },
         {
           "word": "neville",
-          "count": 86
+          "count": 140
         },
         {
-          "word": "harry",
-          "count": 60
+          "word": "heroic",
+          "count": 103
         },
         {
-          "word": "concentrated",
-          "count": 37
+          "word": "individual",
+          "count": 103
         },
         {
-          "word": "chosen",
-          "count": 37
+          "word": "moral",
+          "count": 97
         },
         {
-          "word": "voldemort",
-          "count": 30
+          "word": "character",
+          "count": 93
         },
         {
-          "word": "person",
-          "count": 28
+          "word": "support",
+          "count": 92
         },
         {
-          "word": "genuine",
-          "count": 26
+          "word": "circumstances",
+          "count": 78
         },
         {
-          "word": "portrait",
-          "count": 23
+          "word": "action",
+          "count": 74
         },
         {
-          "word": "series",
-          "count": 22
+          "word": "social",
+          "count": 69
         },
         {
-          "word": "choice",
-          "count": 21
+          "word": "community",
+          "count": 68
         },
         {
-          "word": "final",
-          "count": 21
+          "word": "potential",
+          "count": 64
         },
         {
           "word": "heroism",
-          "count": 18
+          "count": 60
         },
         {
-          "word": "courage",
-          "count": 17
+          "word": "forms",
+          "count": 51
         },
         {
-          "word": "argument",
-          "count": 14
+          "word": "choice",
+          "count": 49
         },
         {
-          "word": "chose",
-          "count": 14
+          "word": "capabilities",
+          "count": 49
         },
         {
-          "word": "narrative",
-          "count": 14
+          "word": "achievement",
+          "count": 46
         },
         {
-          "word": "destroyed",
-          "count": 14
+          "word": "educational",
+          "count": 44
         },
         {
-          "word": "prophecy",
-          "count": 13
+          "word": "psychological",
+          "count": 43
         }
       ]
     },
@@ -65260,9 +69342,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7620,
-      "topWord": "available",
-      "topCount": 1841,
+      "wordCount": 8740,
+      "topWord": "social",
+      "topCount": 272,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65271,138 +69353,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-11-loneliness-of-mice-and-men-themes.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1841
+          "word": "social",
+          "count": 272
         },
         {
-          "word": "urgently",
-          "count": 557
+          "word": "economic",
+          "count": 150
         },
         {
-          "word": "completely",
-          "count": 506
+          "word": "isolation",
+          "count": 86
         },
         {
-          "word": "dramatically",
-          "count": 428
+          "word": "human",
+          "count": 79
         },
         {
-          "word": "genuinely",
-          "count": 334
+          "word": "individual",
+          "count": 79
+        },
+        {
+          "word": "community",
+          "count": 78
+        },
+        {
+          "word": "connection",
+          "count": 77
+        },
+        {
+          "word": "workers",
+          "count": 67
+        },
+        {
+          "word": "steinbeck",
+          "count": 63
+        },
+        {
+          "word": "conditions",
+          "count": 62
+        },
+        {
+          "word": "revealing",
+          "count": 62
+        },
+        {
+          "word": "create",
+          "count": 61
+        },
+        {
+          "word": "support",
+          "count": 61
         },
         {
           "word": "loneliness",
-          "count": 204
+          "count": 60
         },
         {
-          "word": "structural",
-          "count": 161
+          "word": "lennie",
+          "count": 60
         },
         {
-          "word": "organized",
-          "count": 148
+          "word": "relationships",
+          "count": 58
         },
         {
-          "word": "specific",
-          "count": 136
+          "word": "demonstrating",
+          "count": 58
         },
         {
-          "word": "social",
-          "count": 121
+          "word": "reflects",
+          "count": 57
         },
         {
-          "word": "formal",
-          "count": 110
+          "word": "characters",
+          "count": 57
         },
         {
-          "word": "argument",
-          "count": 106
-        },
-        {
-          "word": "quality",
-          "count": 65
+          "word": "systematic",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1841
-        },
-        {
-          "word": "urgently",
-          "count": 557
-        },
-        {
-          "word": "completely",
-          "count": 506
-        },
-        {
-          "word": "dramatically",
-          "count": 428
-        },
-        {
-          "word": "genuinely",
-          "count": 334
-        },
-        {
-          "word": "loneliness",
-          "count": 204
-        },
-        {
-          "word": "structural",
-          "count": 161
-        },
-        {
-          "word": "organized",
-          "count": 148
-        },
-        {
-          "word": "specific",
-          "count": 136
-        },
-        {
           "word": "social",
-          "count": 121
-        },
-        {
-          "word": "formal",
-          "count": 110
-        },
-        {
-          "word": "argument",
-          "count": 106
-        },
-        {
-          "word": "quality",
-          "count": 65
+          "count": 272
         },
         {
           "word": "economic",
-          "count": 48
-        },
-        {
-          "word": "forces",
-          "count": 48
-        },
-        {
-          "word": "dream",
-          "count": 44
-        },
-        {
-          "word": "novel",
-          "count": 42
+          "count": 150
         },
         {
           "word": "isolation",
-          "count": 38
+          "count": 86
         },
         {
-          "word": "ranch",
-          "count": 38
+          "word": "human",
+          "count": 79
         },
         {
-          "word": "aspiration",
-          "count": 37
+          "word": "individual",
+          "count": 79
+        },
+        {
+          "word": "community",
+          "count": 78
+        },
+        {
+          "word": "connection",
+          "count": 77
+        },
+        {
+          "word": "workers",
+          "count": 67
+        },
+        {
+          "word": "steinbeck",
+          "count": 63
+        },
+        {
+          "word": "conditions",
+          "count": 62
+        },
+        {
+          "word": "revealing",
+          "count": 62
+        },
+        {
+          "word": "create",
+          "count": 61
+        },
+        {
+          "word": "support",
+          "count": 61
+        },
+        {
+          "word": "loneliness",
+          "count": 60
+        },
+        {
+          "word": "lennie",
+          "count": 60
+        },
+        {
+          "word": "relationships",
+          "count": 58
+        },
+        {
+          "word": "demonstrating",
+          "count": 58
+        },
+        {
+          "word": "reflects",
+          "count": 57
+        },
+        {
+          "word": "characters",
+          "count": 57
+        },
+        {
+          "word": "systematic",
+          "count": 56
         }
       ]
     },
@@ -66023,9 +70133,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7203,
-      "topWord": "available",
-      "topCount": 2073,
+      "wordCount": 8912,
+      "topWord": "hester",
+      "topCount": 183,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66034,154 +70144,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-06-hester-prynne-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 2073
-        },
-        {
-          "word": "urgently",
-          "count": 464
-        },
-        {
-          "word": "completely",
-          "count": 409
-        },
-        {
-          "word": "genuinely",
-          "count": 321
-        },
-        {
-          "word": "dramatically",
-          "count": 316
-        },
-        {
-          "word": "specific",
-          "count": 185
-        },
-        {
-          "word": "organized",
-          "count": 150
-        },
-        {
           "word": "hester",
-          "count": 123
+          "count": 183
         },
         {
-          "word": "formal",
-          "count": 112
+          "word": "authentic",
+          "count": 108
+        },
+        {
+          "word": "development",
+          "count": 102
+        },
+        {
+          "word": "community",
+          "count": 98
         },
         {
           "word": "authority",
+          "count": 98
+        },
+        {
+          "word": "institutional",
           "count": 92
         },
         {
-          "word": "moral",
-          "count": 91
+          "word": "character",
+          "count": 76
         },
         {
-          "word": "engagement",
-          "count": 74
+          "word": "economic",
+          "count": 71
         },
         {
-          "word": "quality",
-          "count": 73
+          "word": "social",
+          "count": 67
         },
         {
-          "word": "argument",
-          "count": 69
-        },
-        {
-          "word": "sustained",
+          "word": "practical",
           "count": 66
         },
         {
-          "word": "shame",
+          "word": "contemporary",
+          "count": 66
+        },
+        {
+          "word": "moral",
+          "count": 65
+        },
+        {
+          "word": "personal",
+          "count": 64
+        },
+        {
+          "word": "demonstrates",
+          "count": 61
+        },
+        {
+          "word": "provides",
+          "count": 60
+        },
+        {
+          "word": "understanding",
           "count": 59
         },
         {
-          "word": "formally",
-          "count": 54
+          "word": "religious",
+          "count": 56
+        },
+        {
+          "word": "hawthorne",
+          "count": 55
+        },
+        {
+          "word": "novel",
+          "count": 51
+        },
+        {
+          "word": "independence",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 2073
-        },
-        {
-          "word": "urgently",
-          "count": 464
-        },
-        {
-          "word": "completely",
-          "count": 409
-        },
-        {
-          "word": "genuinely",
-          "count": 321
-        },
-        {
-          "word": "dramatically",
-          "count": 316
-        },
-        {
-          "word": "specific",
-          "count": 185
-        },
-        {
-          "word": "organized",
-          "count": 150
-        },
-        {
           "word": "hester",
-          "count": 123
+          "count": 183
         },
         {
-          "word": "formal",
-          "count": 112
+          "word": "authentic",
+          "count": 108
+        },
+        {
+          "word": "development",
+          "count": 102
+        },
+        {
+          "word": "community",
+          "count": 98
         },
         {
           "word": "authority",
+          "count": 98
+        },
+        {
+          "word": "institutional",
           "count": 92
         },
         {
-          "word": "moral",
-          "count": 91
+          "word": "character",
+          "count": 76
         },
         {
-          "word": "engagement",
-          "count": 74
+          "word": "economic",
+          "count": 71
         },
         {
-          "word": "quality",
-          "count": 73
+          "word": "social",
+          "count": 67
         },
         {
-          "word": "argument",
-          "count": 69
-        },
-        {
-          "word": "sustained",
+          "word": "practical",
           "count": 66
         },
         {
-          "word": "shame",
+          "word": "contemporary",
+          "count": 66
+        },
+        {
+          "word": "moral",
+          "count": 65
+        },
+        {
+          "word": "personal",
+          "count": 64
+        },
+        {
+          "word": "demonstrates",
+          "count": 61
+        },
+        {
+          "word": "provides",
+          "count": 60
+        },
+        {
+          "word": "understanding",
           "count": 59
         },
         {
-          "word": "formally",
-          "count": 54
+          "word": "religious",
+          "count": 56
         },
         {
-          "word": "character",
-          "count": 50
+          "word": "hawthorne",
+          "count": 55
         },
         {
-          "word": "publicly",
-          "count": 49
+          "word": "novel",
+          "count": 51
         },
         {
-          "word": "institutionalized",
-          "count": 49
+          "word": "independence",
+          "count": 51
         }
       ]
     },
@@ -66331,9 +70453,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7205,
-      "topWord": "available",
-      "topCount": 1990,
+      "wordCount": 9474,
+      "topWord": "cultural",
+      "topCount": 205,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66342,142 +70464,162 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-16-complete-analysis-heart-of-darkness.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1990
+          "word": "cultural",
+          "count": 205
         },
         {
-          "word": "urgently",
-          "count": 398
+          "word": "conrad",
+          "count": 178
         },
         {
-          "word": "completely",
-          "count": 376
+          "word": "moral",
+          "count": 166
         },
         {
-          "word": "organized",
-          "count": 348
-        },
-        {
-          "word": "dramatically",
-          "count": 328
-        },
-        {
-          "word": "genuinely",
-          "count": 274
-        },
-        {
-          "word": "specifically",
-          "count": 211
-        },
-        {
-          "word": "specific",
+          "word": "systematic",
           "count": 144
         },
         {
-          "word": "formal",
-          "count": 80
+          "word": "imperial",
+          "count": 114
         },
         {
-          "word": "darkness",
-          "count": 66
-        },
-        {
-          "word": "central",
-          "count": 66
+          "word": "contemporary",
+          "count": 114
         },
         {
           "word": "colonial",
-          "count": 58
-        },
-        {
-          "word": "argument",
-          "count": 58
+          "count": 109
         },
         {
           "word": "european",
+          "count": 106
+        },
+        {
+          "word": "institutional",
+          "count": 103
+        },
+        {
+          "word": "analysis",
+          "count": 92
+        },
+        {
+          "word": "understanding",
+          "count": 79
+        },
+        {
+          "word": "novella",
+          "count": 73
+        },
+        {
+          "word": "psychological",
+          "count": 66
+        },
+        {
+          "word": "economic",
+          "count": 63
+        },
+        {
+          "word": "exploitation",
+          "count": 56
+        },
+        {
+          "word": "darkness",
+          "count": 55
+        },
+        {
+          "word": "environmental",
+          "count": 53
+        },
+        {
+          "word": "literary",
+          "count": 52
+        },
+        {
+          "word": "frameworks",
           "count": 51
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1990
+          "word": "cultural",
+          "count": 205
         },
         {
-          "word": "urgently",
-          "count": 398
+          "word": "conrad",
+          "count": 178
         },
         {
-          "word": "completely",
-          "count": 376
+          "word": "moral",
+          "count": 166
         },
         {
-          "word": "organized",
-          "count": 348
-        },
-        {
-          "word": "dramatically",
-          "count": 328
-        },
-        {
-          "word": "genuinely",
-          "count": 274
-        },
-        {
-          "word": "specifically",
-          "count": 211
-        },
-        {
-          "word": "specific",
+          "word": "systematic",
           "count": 144
         },
         {
-          "word": "formal",
-          "count": 80
+          "word": "imperial",
+          "count": 114
         },
         {
-          "word": "darkness",
-          "count": 66
-        },
-        {
-          "word": "central",
-          "count": 66
+          "word": "contemporary",
+          "count": 114
         },
         {
           "word": "colonial",
-          "count": 58
-        },
-        {
-          "word": "argument",
-          "count": 58
+          "count": 109
         },
         {
           "word": "european",
+          "count": 106
+        },
+        {
+          "word": "institutional",
+          "count": 103
+        },
+        {
+          "word": "analysis",
+          "count": 92
+        },
+        {
+          "word": "understanding",
+          "count": 79
+        },
+        {
+          "word": "novella",
+          "count": 73
+        },
+        {
+          "word": "psychological",
+          "count": 66
+        },
+        {
+          "word": "economic",
+          "count": 63
+        },
+        {
+          "word": "exploitation",
+          "count": 56
+        },
+        {
+          "word": "darkness",
+          "count": 55
+        },
+        {
+          "word": "environmental",
+          "count": 53
+        },
+        {
+          "word": "literary",
+          "count": 52
+        },
+        {
+          "word": "frameworks",
           "count": 51
         },
         {
           "word": "heart",
-          "count": 49
-        },
-        {
-          "word": "self",
-          "count": 49
-        },
-        {
-          "word": "critique",
-          "count": 47
-        },
-        {
-          "word": "psychological",
-          "count": 44
-        },
-        {
-          "word": "narrative",
-          "count": 44
-        },
-        {
-          "word": "enterprise",
-          "count": 39
+          "count": 50
         }
       ]
     },
@@ -66489,9 +70631,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6959,
-      "topWord": "available",
-      "topCount": 2059,
+      "wordCount": 8854,
+      "topWord": "kurtz",
+      "topCount": 219,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66500,138 +70642,138 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-21-kurtz-character-analysis-conrad.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 2059
-        },
-        {
-          "word": "urgently",
-          "count": 419
-        },
-        {
-          "word": "completely",
-          "count": 402
-        },
-        {
-          "word": "dramatically",
-          "count": 336
-        },
-        {
-          "word": "genuinely",
-          "count": 277
-        },
-        {
-          "word": "organized",
-          "count": 256
-        },
-        {
-          "word": "specifically",
-          "count": 149
-        },
-        {
           "word": "kurtz",
-          "count": 121
+          "count": 219
         },
         {
-          "word": "specific",
-          "count": 91
+          "word": "conrad",
+          "count": 168
         },
         {
-          "word": "extreme",
+          "word": "colonial",
+          "count": 165
+        },
+        {
+          "word": "european",
+          "count": 142
+        },
+        {
+          "word": "cultural",
+          "count": 114
+        },
+        {
+          "word": "moral",
+          "count": 94
+        },
+        {
+          "word": "power",
+          "count": 86
+        },
+        {
+          "word": "character",
+          "count": 86
+        },
+        {
+          "word": "institutional",
+          "count": 75
+        },
+        {
+          "word": "psychological",
+          "count": 71
+        },
+        {
+          "word": "human",
           "count": 66
         },
         {
-          "word": "formal",
-          "count": 66
+          "word": "imperial",
+          "count": 62
         },
         {
-          "word": "argument",
-          "count": 56
-        },
-        {
-          "word": "expression",
+          "word": "development",
           "count": 52
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 2059
-        },
-        {
-          "word": "urgently",
-          "count": 419
-        },
-        {
-          "word": "completely",
-          "count": 402
-        },
-        {
-          "word": "dramatically",
-          "count": 336
-        },
-        {
-          "word": "genuinely",
-          "count": 277
-        },
-        {
-          "word": "organized",
-          "count": 256
-        },
-        {
-          "word": "specifically",
-          "count": 149
-        },
-        {
           "word": "kurtz",
-          "count": 121
+          "count": 219
         },
         {
-          "word": "specific",
-          "count": 91
+          "word": "conrad",
+          "count": 168
         },
         {
-          "word": "extreme",
-          "count": 66
+          "word": "colonial",
+          "count": 165
         },
         {
-          "word": "formal",
-          "count": 66
+          "word": "european",
+          "count": 142
         },
         {
-          "word": "argument",
-          "count": 56
+          "word": "cultural",
+          "count": 114
         },
         {
-          "word": "expression",
-          "count": 52
+          "word": "moral",
+          "count": 94
         },
         {
-          "word": "brilliant",
-          "count": 49
-        },
-        {
-          "word": "formally",
-          "count": 42
-        },
-        {
-          "word": "central",
-          "count": 42
+          "word": "power",
+          "count": 86
         },
         {
           "word": "character",
-          "count": 40
+          "count": 86
         },
         {
-          "word": "quality",
-          "count": 39
+          "word": "institutional",
+          "count": 75
         },
         {
-          "word": "enterprise",
-          "count": 37
+          "word": "psychological",
+          "count": 71
         },
         {
-          "word": "civilization",
-          "count": 35
+          "word": "human",
+          "count": 66
+        },
+        {
+          "word": "imperial",
+          "count": 62
+        },
+        {
+          "word": "development",
+          "count": 52
+        },
+        {
+          "word": "systematic",
+          "count": 49
+        },
+        {
+          "word": "contemporary",
+          "count": 49
+        },
+        {
+          "word": "ideology",
+          "count": 48
+        },
+        {
+          "word": "humanitarian",
+          "count": 47
+        },
+        {
+          "word": "contexts",
+          "count": 47
+        },
+        {
+          "word": "provides",
+          "count": 45
+        },
+        {
+          "word": "authority",
+          "count": 45
         }
       ]
     },
@@ -66749,9 +70891,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6754,
-      "topWord": "available",
-      "topCount": 1930,
+      "wordCount": 9282,
+      "topWord": "moral",
+      "topCount": 214,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66760,138 +70902,158 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-26-marlow-character-analysis-conrad.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1930
+          "word": "moral",
+          "count": 214
         },
         {
-          "word": "urgently",
-          "count": 428
+          "word": "political",
+          "count": 211
         },
         {
-          "word": "completely",
-          "count": 427
-        },
-        {
-          "word": "dramatically",
-          "count": 356
-        },
-        {
-          "word": "genuinely",
-          "count": 330
-        },
-        {
-          "word": "organized",
-          "count": 209
+          "word": "systematic",
+          "count": 176
         },
         {
           "word": "marlow",
-          "count": 139
+          "count": 162
         },
         {
-          "word": "specifically",
-          "count": 109
+          "word": "colonial",
+          "count": 156
         },
         {
-          "word": "specific",
-          "count": 77
+          "word": "individual",
+          "count": 145
         },
         {
-          "word": "formal",
-          "count": 69
+          "word": "imperial",
+          "count": 131
         },
         {
-          "word": "quality",
+          "word": "violence",
+          "count": 102
+        },
+        {
+          "word": "psychological",
+          "count": 101
+        },
+        {
+          "word": "european",
+          "count": 83
+        },
+        {
+          "word": "institutional",
+          "count": 67
+        },
+        {
+          "word": "conrad",
           "count": 64
         },
         {
-          "word": "witness",
-          "count": 59
+          "word": "narrative",
+          "count": 62
         },
         {
-          "word": "central",
+          "word": "cultural",
+          "count": 57
+        },
+        {
+          "word": "contemporary",
           "count": 56
+        },
+        {
+          "word": "responsibility",
+          "count": 55
+        },
+        {
+          "word": "action",
+          "count": 55
+        },
+        {
+          "word": "literary",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1930
+          "word": "moral",
+          "count": 214
         },
         {
-          "word": "urgently",
-          "count": 428
+          "word": "political",
+          "count": 211
         },
         {
-          "word": "completely",
-          "count": 427
-        },
-        {
-          "word": "dramatically",
-          "count": 356
-        },
-        {
-          "word": "genuinely",
-          "count": 330
-        },
-        {
-          "word": "organized",
-          "count": 209
+          "word": "systematic",
+          "count": 176
         },
         {
           "word": "marlow",
-          "count": 139
+          "count": 162
         },
         {
-          "word": "specifically",
-          "count": 109
+          "word": "colonial",
+          "count": 156
         },
         {
-          "word": "specific",
-          "count": 77
+          "word": "individual",
+          "count": 145
         },
         {
-          "word": "formal",
-          "count": 69
+          "word": "imperial",
+          "count": 131
         },
         {
-          "word": "quality",
+          "word": "violence",
+          "count": 102
+        },
+        {
+          "word": "psychological",
+          "count": 101
+        },
+        {
+          "word": "european",
+          "count": 83
+        },
+        {
+          "word": "institutional",
+          "count": 67
+        },
+        {
+          "word": "conrad",
           "count": 64
         },
         {
-          "word": "witness",
-          "count": 59
+          "word": "narrative",
+          "count": 62
         },
         {
-          "word": "central",
+          "word": "cultural",
+          "count": 57
+        },
+        {
+          "word": "contemporary",
           "count": 56
         },
         {
-          "word": "honest",
+          "word": "responsibility",
+          "count": 55
+        },
+        {
+          "word": "action",
+          "count": 55
+        },
+        {
+          "word": "literary",
+          "count": 55
+        },
+        {
+          "word": "analysis",
           "count": 50
         },
         {
-          "word": "argument",
-          "count": 48
-        },
-        {
-          "word": "primary",
-          "count": 48
-        },
-        {
-          "word": "kurtz",
-          "count": 42
-        },
-        {
           "word": "character",
-          "count": 37
-        },
-        {
-          "word": "narrative",
-          "count": 36
-        },
-        {
-          "word": "limits",
-          "count": 34
+          "count": 49
         }
       ]
     },
@@ -67061,9 +71223,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6377,
-      "topWord": "available",
-      "topCount": 1985,
+      "wordCount": 9483,
+      "topWord": "control",
+      "topCount": 142,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -67072,126 +71234,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-05-1984-vs-brave-new-world-vs-fahrenheit.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1985
+          "word": "control",
+          "count": 142
         },
         {
-          "word": "urgently",
-          "count": 419
+          "word": "social",
+          "count": 136
         },
         {
-          "word": "completely",
-          "count": 400
+          "word": "technological",
+          "count": 129
         },
         {
-          "word": "dramatically",
-          "count": 339
+          "word": "systematic",
+          "count": 127
         },
         {
-          "word": "genuinely",
-          "count": 305
+          "word": "democratic",
+          "count": 126
         },
         {
-          "word": "organized",
-          "count": 205
+          "word": "human",
+          "count": 103
         },
         {
-          "word": "specifically",
-          "count": 122
+          "word": "individual",
+          "count": 102
         },
         {
-          "word": "primary",
-          "count": 111
+          "word": "intellectual",
+          "count": 87
         },
         {
-          "word": "formal",
-          "count": 94
+          "word": "resistance",
+          "count": 85
         },
         {
-          "word": "instrument",
-          "count": 61
+          "word": "contemporary",
+          "count": 83
+        },
+        {
+          "word": "entertainment",
+          "count": 77
+        },
+        {
+          "word": "cultural",
+          "count": 77
+        },
+        {
+          "word": "surveillance",
+          "count": 74
+        },
+        {
+          "word": "economic",
+          "count": 66
+        },
+        {
+          "word": "political",
+          "count": 63
+        },
+        {
+          "word": "psychological",
+          "count": 62
+        },
+        {
+          "word": "capabilities",
+          "count": 62
+        },
+        {
+          "word": "sustained",
+          "count": 60
+        },
+        {
+          "word": "institutions",
+          "count": 58
+        },
+        {
+          "word": "choice",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1985
-        },
-        {
-          "word": "urgently",
-          "count": 419
-        },
-        {
-          "word": "completely",
-          "count": 400
-        },
-        {
-          "word": "dramatically",
-          "count": 339
-        },
-        {
-          "word": "genuinely",
-          "count": 305
-        },
-        {
-          "word": "organized",
-          "count": 205
-        },
-        {
-          "word": "specifically",
-          "count": 122
-        },
-        {
-          "word": "primary",
-          "count": 111
-        },
-        {
-          "word": "formal",
-          "count": 94
-        },
-        {
-          "word": "instrument",
-          "count": 61
-        },
-        {
-          "word": "argument",
-          "count": 50
-        },
-        {
           "word": "control",
-          "count": 46
+          "count": 142
         },
         {
-          "word": "voluntary",
-          "count": 42
+          "word": "social",
+          "count": 136
+        },
+        {
+          "word": "technological",
+          "count": 129
+        },
+        {
+          "word": "systematic",
+          "count": 127
+        },
+        {
+          "word": "democratic",
+          "count": 126
+        },
+        {
+          "word": "human",
+          "count": 103
+        },
+        {
+          "word": "individual",
+          "count": 102
+        },
+        {
+          "word": "intellectual",
+          "count": 87
+        },
+        {
+          "word": "resistance",
+          "count": 85
         },
         {
           "word": "contemporary",
-          "count": 40
+          "count": 83
         },
         {
-          "word": "constitutes",
-          "count": 39
+          "word": "entertainment",
+          "count": 77
         },
         {
-          "word": "brave",
-          "count": 38
+          "word": "cultural",
+          "count": 77
         },
         {
-          "word": "novels",
-          "count": 36
+          "word": "surveillance",
+          "count": 74
         },
         {
-          "word": "directly",
-          "count": 36
+          "word": "economic",
+          "count": 66
         },
         {
-          "word": "conditioning",
-          "count": 32
+          "word": "political",
+          "count": 63
         },
         {
-          "word": "surrender",
-          "count": 32
+          "word": "psychological",
+          "count": 62
+        },
+        {
+          "word": "capabilities",
+          "count": 62
+        },
+        {
+          "word": "sustained",
+          "count": 60
+        },
+        {
+          "word": "institutions",
+          "count": 58
+        },
+        {
+          "word": "choice",
+          "count": 56
         }
       ]
     },
@@ -67493,9 +71695,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7131,
-      "topWord": "available",
-      "topCount": 1855,
+      "wordCount": 9411,
+      "topWord": "social",
+      "topCount": 273,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -67504,154 +71706,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-20-social-class-classic-novels-compared.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1855
-        },
-        {
-          "word": "urgently",
-          "count": 423
-        },
-        {
-          "word": "completely",
-          "count": 408
-        },
-        {
-          "word": "dramatically",
-          "count": 319
-        },
-        {
-          "word": "genuinely",
-          "count": 300
-        },
-        {
-          "word": "organized",
-          "count": 288
+          "word": "social",
+          "count": 273
         },
         {
           "word": "class",
-          "count": 260
+          "count": 268
         },
         {
-          "word": "specifically",
-          "count": 169
+          "word": "economic",
+          "count": 188
         },
         {
-          "word": "primary",
-          "count": 120
-        },
-        {
-          "word": "formal",
-          "count": 107
-        },
-        {
-          "word": "specific",
-          "count": 100
-        },
-        {
-          "word": "argument",
-          "count": 92
-        },
-        {
-          "word": "structural",
-          "count": 82
-        },
-        {
-          "word": "social",
-          "count": 81
-        },
-        {
-          "word": "position",
-          "count": 56
+          "word": "cultural",
+          "count": 148
         },
         {
           "word": "individual",
-          "count": 54
+          "count": 106
         },
         {
-          "word": "aspiration",
-          "count": 52
+          "word": "demonstrating",
+          "count": 103
+        },
+        {
+          "word": "revealing",
+          "count": 100
+        },
+        {
+          "word": "systematic",
+          "count": 80
+        },
+        {
+          "word": "arrangements",
+          "count": 79
+        },
+        {
+          "word": "political",
+          "count": 75
+        },
+        {
+          "word": "reveals",
+          "count": 72
+        },
+        {
+          "word": "psychological",
+          "count": 62
+        },
+        {
+          "word": "novels",
+          "count": 61
+        },
+        {
+          "word": "relationships",
+          "count": 61
+        },
+        {
+          "word": "mobility",
+          "count": 60
+        },
+        {
+          "word": "wealth",
+          "count": 59
+        },
+        {
+          "word": "inequality",
+          "count": 56
+        },
+        {
+          "word": "analysis",
+          "count": 56
+        },
+        {
+          "word": "democratic",
+          "count": 55
+        },
+        {
+          "word": "development",
+          "count": 54
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1855
-        },
-        {
-          "word": "urgently",
-          "count": 423
-        },
-        {
-          "word": "completely",
-          "count": 408
-        },
-        {
-          "word": "dramatically",
-          "count": 319
-        },
-        {
-          "word": "genuinely",
-          "count": 300
-        },
-        {
-          "word": "organized",
-          "count": 288
+          "word": "social",
+          "count": 273
         },
         {
           "word": "class",
-          "count": 260
+          "count": 268
         },
         {
-          "word": "specifically",
-          "count": 169
+          "word": "economic",
+          "count": 188
         },
         {
-          "word": "primary",
-          "count": 120
-        },
-        {
-          "word": "formal",
-          "count": 107
-        },
-        {
-          "word": "specific",
-          "count": 100
-        },
-        {
-          "word": "argument",
-          "count": 92
-        },
-        {
-          "word": "structural",
-          "count": 82
-        },
-        {
-          "word": "social",
-          "count": 81
-        },
-        {
-          "word": "position",
-          "count": 56
+          "word": "cultural",
+          "count": 148
         },
         {
           "word": "individual",
+          "count": 106
+        },
+        {
+          "word": "demonstrating",
+          "count": 103
+        },
+        {
+          "word": "revealing",
+          "count": 100
+        },
+        {
+          "word": "systematic",
+          "count": 80
+        },
+        {
+          "word": "arrangements",
+          "count": 79
+        },
+        {
+          "word": "political",
+          "count": 75
+        },
+        {
+          "word": "reveals",
+          "count": 72
+        },
+        {
+          "word": "psychological",
+          "count": 62
+        },
+        {
+          "word": "novels",
+          "count": 61
+        },
+        {
+          "word": "relationships",
+          "count": 61
+        },
+        {
+          "word": "mobility",
+          "count": 60
+        },
+        {
+          "word": "wealth",
+          "count": 59
+        },
+        {
+          "word": "inequality",
+          "count": 56
+        },
+        {
+          "word": "analysis",
+          "count": 56
+        },
+        {
+          "word": "democratic",
+          "count": 55
+        },
+        {
+          "word": "development",
           "count": 54
-        },
-        {
-          "word": "aspiration",
-          "count": 52
-        },
-        {
-          "word": "marriage",
-          "count": 48
-        },
-        {
-          "word": "conditions",
-          "count": 46
-        },
-        {
-          "word": "money",
-          "count": 46
         }
       ]
     },
@@ -67837,9 +72051,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6930,
-      "topWord": "available",
-      "topCount": 1975,
+      "wordCount": 9610,
+      "topWord": "social",
+      "topCount": 357,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -67848,166 +72062,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-30-nature-vs-nurture-classic-novels.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1975
+          "word": "social",
+          "count": 357
         },
         {
-          "word": "urgently",
-          "count": 401
+          "word": "individual",
+          "count": 194
         },
         {
-          "word": "completely",
-          "count": 387
+          "word": "moral",
+          "count": 178
         },
         {
-          "word": "dramatically",
-          "count": 318
-        },
-        {
-          "word": "genuinely",
-          "count": 310
-        },
-        {
-          "word": "organized",
-          "count": 193
-        },
-        {
-          "word": "formal",
-          "count": 136
-        },
-        {
-          "word": "primary",
-          "count": 111
-        },
-        {
-          "word": "specifically",
-          "count": 104
-        },
-        {
-          "word": "specific",
-          "count": 101
-        },
-        {
-          "word": "argument",
-          "count": 85
-        },
-        {
-          "word": "human",
-          "count": 74
-        },
-        {
-          "word": "nature",
-          "count": 72
-        },
-        {
-          "word": "nurture",
-          "count": 69
-        },
-        {
-          "word": "natural",
-          "count": 66
-        },
-        {
-          "word": "versus",
-          "count": 62
-        },
-        {
-          "word": "quality",
-          "count": 61
-        },
-        {
-          "word": "psychology",
-          "count": 60
-        },
-        {
-          "word": "character",
-          "count": 57
+          "word": "development",
+          "count": 171
         },
         {
           "word": "environmental",
-          "count": 56
+          "count": 164
+        },
+        {
+          "word": "conditions",
+          "count": 125
+        },
+        {
+          "word": "approaches",
+          "count": 103
+        },
+        {
+          "word": "behavior",
+          "count": 100
+        },
+        {
+          "word": "human",
+          "count": 99
+        },
+        {
+          "word": "understanding",
+          "count": 97
+        },
+        {
+          "word": "character",
+          "count": 88
+        },
+        {
+          "word": "support",
+          "count": 85
+        },
+        {
+          "word": "literary",
+          "count": 78
+        },
+        {
+          "word": "justice",
+          "count": 74
+        },
+        {
+          "word": "psychological",
+          "count": 73
+        },
+        {
+          "word": "address",
+          "count": 72
+        },
+        {
+          "word": "education",
+          "count": 68
+        },
+        {
+          "word": "natural",
+          "count": 67
+        },
+        {
+          "word": "contemporary",
+          "count": 63
+        },
+        {
+          "word": "factors",
+          "count": 63
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1975
+          "word": "social",
+          "count": 357
         },
         {
-          "word": "urgently",
-          "count": 401
+          "word": "individual",
+          "count": 194
         },
         {
-          "word": "completely",
-          "count": 387
+          "word": "moral",
+          "count": 178
         },
         {
-          "word": "dramatically",
-          "count": 318
-        },
-        {
-          "word": "genuinely",
-          "count": 310
-        },
-        {
-          "word": "organized",
-          "count": 193
-        },
-        {
-          "word": "formal",
-          "count": 136
-        },
-        {
-          "word": "primary",
-          "count": 111
-        },
-        {
-          "word": "specifically",
-          "count": 104
-        },
-        {
-          "word": "specific",
-          "count": 101
-        },
-        {
-          "word": "argument",
-          "count": 85
-        },
-        {
-          "word": "human",
-          "count": 74
-        },
-        {
-          "word": "nature",
-          "count": 72
-        },
-        {
-          "word": "nurture",
-          "count": 69
-        },
-        {
-          "word": "natural",
-          "count": 66
-        },
-        {
-          "word": "versus",
-          "count": 62
-        },
-        {
-          "word": "quality",
-          "count": 61
-        },
-        {
-          "word": "psychology",
-          "count": 60
-        },
-        {
-          "word": "character",
-          "count": 57
+          "word": "development",
+          "count": 171
         },
         {
           "word": "environmental",
-          "count": 56
+          "count": 164
+        },
+        {
+          "word": "conditions",
+          "count": 125
+        },
+        {
+          "word": "approaches",
+          "count": 103
+        },
+        {
+          "word": "behavior",
+          "count": 100
+        },
+        {
+          "word": "human",
+          "count": 99
+        },
+        {
+          "word": "understanding",
+          "count": 97
+        },
+        {
+          "word": "character",
+          "count": 88
+        },
+        {
+          "word": "support",
+          "count": 85
+        },
+        {
+          "word": "literary",
+          "count": 78
+        },
+        {
+          "word": "justice",
+          "count": 74
+        },
+        {
+          "word": "psychological",
+          "count": 73
+        },
+        {
+          "word": "address",
+          "count": 72
+        },
+        {
+          "word": "education",
+          "count": 68
+        },
+        {
+          "word": "natural",
+          "count": 67
+        },
+        {
+          "word": "contemporary",
+          "count": 63
+        },
+        {
+          "word": "factors",
+          "count": 63
         }
       ]
     },
@@ -68019,9 +72233,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6892,
-      "topWord": "available",
-      "topCount": 1978,
+      "wordCount": 9763,
+      "topWord": "social",
+      "topCount": 320,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68030,150 +72244,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-02-04-unreliable-narrators-classic-fiction.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1978
+          "word": "social",
+          "count": 320
         },
         {
-          "word": "urgently",
-          "count": 376
+          "word": "cultural",
+          "count": 239
         },
         {
-          "word": "completely",
-          "count": 357
-        },
-        {
-          "word": "organized",
-          "count": 307
-        },
-        {
-          "word": "dramatically",
-          "count": 300
-        },
-        {
-          "word": "genuinely",
-          "count": 287
-        },
-        {
-          "word": "primary",
-          "count": 199
-        },
-        {
-          "word": "specifically",
-          "count": 157
-        },
-        {
-          "word": "formal",
-          "count": 141
-        },
-        {
-          "word": "specific",
-          "count": 85
+          "word": "understanding",
+          "count": 181
         },
         {
           "word": "unreliable",
-          "count": 81
+          "count": 141
         },
         {
-          "word": "unreliability",
+          "word": "contemporary",
+          "count": 139
+        },
+        {
+          "word": "individual",
+          "count": 120
+        },
+        {
+          "word": "analysis",
+          "count": 101
+        },
+        {
+          "word": "narration",
+          "count": 97
+        },
+        {
+          "word": "political",
+          "count": 94
+        },
+        {
+          "word": "psychological",
+          "count": 92
+        },
+        {
+          "word": "moral",
+          "count": 91
+        },
+        {
+          "word": "literary",
+          "count": 87
+        },
+        {
+          "word": "democratic",
+          "count": 87
+        },
+        {
+          "word": "perspective",
+          "count": 76
+        },
+        {
+          "word": "systematic",
           "count": 71
         },
         {
-          "word": "organizing",
+          "word": "critical",
           "count": 68
         },
         {
-          "word": "narrator",
-          "count": 67
+          "word": "interpretation",
+          "count": 61
         },
         {
-          "word": "force",
-          "count": 60
+          "word": "bias",
+          "count": 58
         },
         {
-          "word": "argument",
-          "count": 59
+          "word": "affects",
+          "count": 57
+        },
+        {
+          "word": "communication",
+          "count": 57
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1978
+          "word": "social",
+          "count": 320
         },
         {
-          "word": "urgently",
-          "count": 376
+          "word": "cultural",
+          "count": 239
         },
         {
-          "word": "completely",
-          "count": 357
-        },
-        {
-          "word": "organized",
-          "count": 307
-        },
-        {
-          "word": "dramatically",
-          "count": 300
-        },
-        {
-          "word": "genuinely",
-          "count": 287
-        },
-        {
-          "word": "primary",
-          "count": 199
-        },
-        {
-          "word": "specifically",
-          "count": 157
-        },
-        {
-          "word": "formal",
-          "count": 141
-        },
-        {
-          "word": "specific",
-          "count": 85
+          "word": "understanding",
+          "count": 181
         },
         {
           "word": "unreliable",
-          "count": 81
+          "count": 141
         },
         {
-          "word": "unreliability",
+          "word": "contemporary",
+          "count": 139
+        },
+        {
+          "word": "individual",
+          "count": 120
+        },
+        {
+          "word": "analysis",
+          "count": 101
+        },
+        {
+          "word": "narration",
+          "count": 97
+        },
+        {
+          "word": "political",
+          "count": 94
+        },
+        {
+          "word": "psychological",
+          "count": 92
+        },
+        {
+          "word": "moral",
+          "count": 91
+        },
+        {
+          "word": "literary",
+          "count": 87
+        },
+        {
+          "word": "democratic",
+          "count": 87
+        },
+        {
+          "word": "perspective",
+          "count": 76
+        },
+        {
+          "word": "systematic",
           "count": 71
         },
         {
-          "word": "organizing",
+          "word": "critical",
           "count": 68
         },
         {
-          "word": "narrator",
-          "count": 67
+          "word": "interpretation",
+          "count": 61
         },
         {
-          "word": "force",
-          "count": 60
+          "word": "bias",
+          "count": 58
         },
         {
-          "word": "argument",
-          "count": 59
+          "word": "affects",
+          "count": 57
         },
         {
-          "word": "reader",
-          "count": 50
-        },
-        {
-          "word": "social",
-          "count": 48
-        },
-        {
-          "word": "grief",
-          "count": 42
-        },
-        {
-          "word": "ideological",
-          "count": 40
+          "word": "communication",
+          "count": 57
         }
       ]
     },
@@ -70235,9 +74465,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6603,
-      "topWord": "available",
-      "topCount": 1831,
+      "wordCount": 9420,
+      "topWord": "social",
+      "topCount": 231,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -70246,150 +74476,158 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-04-10-top-25-classic-novels-must-read-list.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1831
+          "word": "social",
+          "count": 231
         },
         {
-          "word": "organized",
-          "count": 374
+          "word": "cultural",
+          "count": 154
         },
         {
-          "word": "primary",
-          "count": 371
+          "word": "understanding",
+          "count": 111
         },
         {
-          "word": "main",
-          "count": 321
+          "word": "individual",
+          "count": 110
         },
         {
-          "word": "urgently",
-          "count": 299
+          "word": "literary",
+          "count": 108
         },
         {
-          "word": "completely",
-          "count": 288
+          "word": "moral",
+          "count": 97
         },
         {
-          "word": "specifically",
-          "count": 263
+          "word": "contemporary",
+          "count": 82
         },
         {
-          "word": "dramatically",
-          "count": 250
+          "word": "literature",
+          "count": 72
         },
         {
-          "word": "genuinely",
-          "count": 233
-        },
-        {
-          "word": "formal",
-          "count": 132
-        },
-        {
-          "word": "argument",
-          "count": 70
-        },
-        {
-          "word": "formally",
+          "word": "human",
           "count": 67
         },
         {
-          "word": "classic",
-          "count": 63
+          "word": "artistic",
+          "count": 66
         },
         {
-          "word": "precise",
-          "count": 61
+          "word": "demonstrating",
+          "count": 66
         },
         {
-          "word": "instrument",
-          "count": 61
+          "word": "development",
+          "count": 62
         },
         {
-          "word": "student",
-          "count": 58
+          "word": "historical",
+          "count": 60
+        },
+        {
+          "word": "providing",
+          "count": 57
+        },
+        {
+          "word": "revealing",
+          "count": 57
+        },
+        {
+          "word": "engagement",
+          "count": 56
+        },
+        {
+          "word": "narrative",
+          "count": 52
+        },
+        {
+          "word": "serve",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1831
+          "word": "social",
+          "count": 231
         },
         {
-          "word": "organized",
-          "count": 374
+          "word": "cultural",
+          "count": 154
         },
         {
-          "word": "primary",
-          "count": 371
+          "word": "understanding",
+          "count": 111
         },
         {
-          "word": "main",
-          "count": 321
+          "word": "individual",
+          "count": 110
         },
         {
-          "word": "urgently",
-          "count": 299
+          "word": "literary",
+          "count": 108
         },
         {
-          "word": "completely",
-          "count": 288
+          "word": "moral",
+          "count": 97
         },
         {
-          "word": "specifically",
-          "count": 263
+          "word": "contemporary",
+          "count": 82
         },
         {
-          "word": "dramatically",
-          "count": 250
+          "word": "literature",
+          "count": 72
         },
         {
-          "word": "genuinely",
-          "count": 233
-        },
-        {
-          "word": "formal",
-          "count": 132
-        },
-        {
-          "word": "argument",
-          "count": 70
-        },
-        {
-          "word": "formally",
+          "word": "human",
           "count": 67
         },
         {
-          "word": "classic",
-          "count": 63
+          "word": "artistic",
+          "count": 66
         },
         {
-          "word": "precise",
-          "count": 61
+          "word": "demonstrating",
+          "count": 66
         },
         {
-          "word": "instrument",
-          "count": 61
+          "word": "development",
+          "count": 62
         },
         {
-          "word": "student",
-          "count": 58
+          "word": "historical",
+          "count": 60
         },
         {
-          "word": "novels",
-          "count": 43
+          "word": "providing",
+          "count": 57
         },
         {
-          "word": "constitutes",
-          "count": 42
+          "word": "revealing",
+          "count": 57
         },
         {
-          "word": "novel",
-          "count": 38
+          "word": "engagement",
+          "count": 56
         },
         {
-          "word": "read",
-          "count": 33
+          "word": "narrative",
+          "count": 52
+        },
+        {
+          "word": "serve",
+          "count": 51
+        },
+        {
+          "word": "works",
+          "count": 50
+        },
+        {
+          "word": "broader",
+          "count": 47
         }
       ]
     },

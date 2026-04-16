@@ -9,7 +9,7 @@ excerpt: "SAT preparation campaigns last months. Motivation comes and goes. The 
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 59
 author: "katherine-blake"
-last_updated: 1996-09-12
+last_updated: 2026-04-16
 lang: en
 ---
 SAT preparation is a months-long campaign. It begins with enthusiasm and clear goals, passes through a plateau phase where progress feels invisible, and arrives at the real test date with whatever consistency was maintained in between. The exam-takers who score highest are not always the most naturally gifted - they are the ones who built preparation systems that kept producing daily work through the weeks when it was hard to start, through the plateau when the score was not moving, and through the final stretch when fatigue was building. The exam-takers who improve the most are not the ones with the most initial enthusiasm - most of them have burned out by week five. The ones who improve most are the ones who understood from the beginning that motivation is variable and unreliable, and who built preparation systems that produce consistent daily work regardless of how motivated they feel on any given day.

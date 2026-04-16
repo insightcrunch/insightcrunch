@@ -9,7 +9,7 @@ excerpt: "Most SAT guides assume you have three hours a day to study. Most stude
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 59
 author: "samantha-lee"
-last_updated: 1996-09-08
+last_updated: 2026-04-16
 lang: en
 ---
 The biggest lie in SAT preparation is the implied assumption that students have unlimited time. Most preparation guides are written as if the only item on the calendar is the SAT - three-hour daily sessions, full practice tests every week, hours of review after each test. Most students do not live in that world. They live in the world of third-period AP Calculus, Tuesday soccer practice, Thursday part-time work shifts, college essay drafts, and the human need to sleep eight hours and see friends occasionally. They have AP classes, varsity sports, part-time jobs, family obligations, and the basic human need for sleep and social connection.

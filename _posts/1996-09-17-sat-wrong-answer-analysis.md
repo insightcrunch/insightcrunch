@@ -9,7 +9,7 @@ excerpt: "Every wrong answer on an SAT practice test has a specific cause. Ident
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 59
 author: "daniel-morgan"
-last_updated: 1996-09-17
+last_updated: 2026-04-16
 lang: en
 ---
 Every wrong answer on an SAT practice test is a message. Most students ignore the message, check the score, and move on. A minority read the message carefully, decode exactly what it says, and use it to direct the next week of focused work. That minority improves twice as fast.

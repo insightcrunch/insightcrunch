@@ -9,7 +9,7 @@ excerpt: "UPSC Mains introduction and conclusion techniques: 15 introduction for
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 65
 author: "anita-das"
-last_updated: 2002-08-02
+last_updated: 2026-04-16
 lang: en
 ---
 UPSC Mains introduction and conclusion techniques represent the critical opening and closing dimensions where aspirants either capture immediate evaluator attention with strong openings and create lasting impression with strong closings or waste their substantial body content through generic openings and weak closings that fail to showcase the analytical depth their body paragraphs contain. The aspirants who write generic openings (Since time immemorial various examples) and weak conclusions (In conclusion much work needs to be done) consistently underscore by 1 to 2 marks per question relative to aspirants who deploy specific introduction formulas matching question type with substantive opening participation and strategic conclusion styles producing memorable closings with forward-looking implications. The 1 to 2 marks per question accumulates across approximately 20 questions per GS paper producing 20 to 40 marks total differential per paper spanning the four GS papers. The gap between generic and strategic introduction-conclusion craftsmanship is precisely the gap that determines opening-closing marks impact every cycle. This UPSC Mains introduction and conclusion techniques guide is built around closing that gap through structured technique mastery producing strategically deployed introduction-conclusion architectures that maximise opening and closing impact spanning diverse question types.
