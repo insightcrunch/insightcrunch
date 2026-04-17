@@ -381,7 +381,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
 </style>
 
 <div class="posts" id="postList">
-{% for post in site.posts %}
+{% for post in site.posts limit: 30 %}
   {%- assign author_key = site.data.post_authors[post.slug] | default: "insight-crunch-team" -%}
   {%- assign author = site.data.authors_pool[author_key] -%}
 
@@ -420,7 +420,6 @@ per post. Search / load-more remain wired to assets/js/main.js.
            data-title="{{ post.title | downcase | escape }}"
            data-cat="{{ cat }}"
            data-tags="{{ post.tags | join: ' ' | downcase | escape }}"
-           data-body="{{ post.content | strip_html | strip_newlines | truncate: 500 | downcase | escape }}"
            data-index="{{ forloop.index }}"
            data-slug="{{ post.slug }}"
            onclick="window.location='{{ post.url | relative_url }}'">
@@ -472,7 +471,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
 
 <div class="load-more-wrap" id="lmWrap">
   <button class="load-more-btn" id="lmBtn" onclick="loadMore()">Load more posts</button>
-  <div class="lm-status" id="lmStatus">Showing 5 of {{ site.posts | size }} posts</div>
+  <div class="lm-status" id="lmStatus">Showing 5 of 30 latest posts &middot; Browse all via categories</div>
 </div>
 
 {% comment %} CAT CONTACT FORM (single shared panel, populated per byline click) {% endcomment %}
@@ -795,7 +794,7 @@ per post. Search / load-more remain wired to assets/js/main.js.
     var RELATED_BY_SLUG = {
       {% assign first_entry = true %}
       {% assign now_str = site.time | date: "%Y-%m-%d" %}
-      {% for p in site.posts %}
+      {% for p in site.posts limit: 30 %}
         {% assign rel_list = site.data.related_posts[p.slug] %}
         {% if rel_list and rel_list.size > 0 %}
         {% assign post_slug = p.slug %}

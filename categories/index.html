@@ -1,0 +1,74 @@
+---
+layout: default
+title: "Browse by Category | Insight Crunch"
+description: "Every category on Insight Crunch — pick a topic to dive deeper."
+permalink: /categories/
+---
+<style>
+.cat-index { max-width: 780px; margin: 40px auto; padding: 0 20px; }
+.cat-index h1 {
+  font-family: 'Lora', serif; font-size: 28px; font-weight: 600;
+  color: var(--ink, #1a1208); margin-bottom: 8px;
+}
+.cat-index .cat-sub {
+  font-family: 'Inter', sans-serif; font-size: 14px; color: var(--soft, #9a8870);
+  margin-bottom: 32px;
+}
+.cat-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+.cat-card {
+  display: block; padding: 18px 20px;
+  background: var(--s1, #fdfaf5); border: 1px solid var(--rule, #ddd0b8);
+  border-radius: 8px; text-decoration: none; color: var(--ink, #1a1208);
+  transition: all .2s ease;
+}
+.cat-card:hover {
+  background: var(--amber-bg, #fdf6e8); border-color: var(--amber-bd, #e8cc90);
+  transform: translateY(-1px);
+}
+.cat-card .cat-name {
+  font-family: 'Lora', serif; font-weight: 600; font-size: 17px;
+  margin-bottom: 4px;
+}
+.cat-card .cat-count {
+  font-family: 'Inter', sans-serif; font-size: 12px; color: var(--soft, #9a8870);
+  letter-spacing: .04em;
+}
+.cat-back {
+  display: inline-block; margin-top: 28px; padding: 8px 16px;
+  font-family: 'Inter', sans-serif; font-size: 13px; color: var(--amber, #b06010);
+  text-decoration: none; border: 1px solid var(--amber-bd, #e8cc90); border-radius: 20px;
+}
+.cat-back:hover { background: var(--amber-bg, #fdf6e8); }
+</style>
+
+<div class="cat-index">
+  <h1>Browse by Category</h1>
+  <p class="cat-sub">Pick a topic to explore the full archive.</p>
+
+  <div class="cat-grid">
+    {%- assign cat_rows = "" | split: "" -%}
+    {%- for category in site.categories -%}
+      {%- assign cat_name = category[0] -%}
+      {%- assign cat_count = category[1] | size -%}
+      {%- assign matching_page = site.pages | where: 'category', cat_name | first -%}
+      {%- if matching_page -%}
+        {%- assign row = cat_count | prepend: "0000" | slice: -5, 5 | append: "|||" | append: cat_name | append: "|||" | append: matching_page.url -%}
+        {%- assign cat_rows = cat_rows | push: row -%}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- assign cat_rows = cat_rows | sort | reverse -%}
+    {%- for row in cat_rows -%}
+      {%- assign parts = row | split: "|||" -%}
+      {%- assign cnt = parts[0] | plus: 0 -%}
+    <a class="cat-card" href="{{ parts[2] | relative_url }}">
+      <div class="cat-name">{{ parts[1] }}</div>
+      <div class="cat-count">{{ cnt }} article{% unless cnt == 1 %}s{% endunless %}</div>
+    </a>
+    {%- endfor -%}
+  </div>
+
+  <a href="{{ '/' | relative_url }}" class="cat-back">&larr; Back to latest</a>
+</div>
