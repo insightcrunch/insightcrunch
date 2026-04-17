@@ -69,53 +69,99 @@ function loadMore() {
 }
 
 /* ─── Search ─────────────────────────────────────────────────────────
-   Two-phase strategy:
-   Phase 1 (instant): match rendered cards via their data-title/cat/tags
-   Phase 2 (async): once /search-index.json arrives, re-run the query
-                    against the full-site body index and append any
-                    extra matches as lightweight result links.
-   This keeps the first keystroke responsive even on slow networks and
-   only downloads the index when search is actually used. */
+   Works on every page, two modes:
+
+   Home page (has #postList):
+     Phase 1 (instant): hide/show rendered .post-card elements via data-*
+     Phase 2 (async):   fetch /search-index.json, append extended results
+                        as card-style rows after #postList.
+   Other pages (post, category, about — no #postList):
+     Only runs Phase 2. Results render into #searchDropdown beneath the
+     sidebar search input as card-style rows. Clicking navigates to post.
+
+   Either way, the index is only fetched when search is actually used,
+   and the card markup is identical so styling stays consistent.
+*/
+
+function isHomeSearchContext() {
+  return !!document.getElementById('postList');
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, function(c) {
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+
+/* Build a single search-result card. Used by both home (appended after
+   postList) and post pages (inside #searchDropdown). Identical markup
+   ensures identical styling. */
+function buildResultCard(item) {
+  var title = escapeHtml(item.t || '');
+  var url = escapeHtml(item.u || '#');
+  var cat = item.c ? escapeHtml(item.c) : '';
+  // item.b is the body excerpt, case-preserved. Trim to 140 chars for display
+  // and strip trailing "..." that truncate: may have added.
+  var excerpt = '';
+  if (item.b) {
+    var body = item.b.replace(/\.{3,}$/, '').trim();
+    if (body.length > 140) body = body.slice(0, 137).replace(/\s+\S*$/, '') + '…';
+    excerpt = escapeHtml(body);
+  }
+  var html =
+    '<a class="search-result-card" href="' + url + '">' +
+      (cat ? '<div class="src-cat">' + cat + '</div>' : '') +
+      '<div class="src-title">' + title + '</div>' +
+      (excerpt ? '<div class="src-excerpt">' + excerpt + '</div>' : '') +
+    '</a>';
+  return html;
+}
 
 function filterPosts(q) {
-  var postList = document.getElementById('postList');
-  var lmWrap = document.getElementById('lmWrap');
   LAST_QUERY = q;
+  var homeCtx = isHomeSearchContext();
+  var lmWrap = document.getElementById('lmWrap');
+  var dropdown = document.getElementById('searchDropdown');
 
   if (!q.trim()) {
-    // Restore: show first 5 rendered cards, hide rest, drop extended results
+    // Empty query — restore default state
     var extended = document.getElementById('searchExtended');
     if (extended) extended.remove();
     var emptyState = document.getElementById('searchEmpty');
     if (emptyState) emptyState.remove();
+    if (dropdown) { dropdown.hidden = true; dropdown.innerHTML = ''; }
 
-    shown = 0;
-    allPosts().forEach(function(p, i) {
-      p.removeAttribute('data-search-hidden');
-      if (i < 5) { p.classList.remove('hidden'); shown++; }
-      else        { p.classList.add('hidden'); }
-    });
-    if (lmWrap) lmWrap.style.display = '';
-    updateStatus();
+    if (homeCtx) {
+      shown = 0;
+      allPosts().forEach(function(p, i) {
+        p.removeAttribute('data-search-hidden');
+        if (i < 5) { p.classList.remove('hidden'); shown++; }
+        else        { p.classList.add('hidden'); }
+      });
+      if (lmWrap) lmWrap.style.display = '';
+      updateStatus();
+    }
     return;
   }
 
-  if (lmWrap) lmWrap.style.display = 'none';
-
-  // Phase 1: filter rendered cards instantly (no network)
   var qLower = q.toLowerCase();
-  var renderedMatches = 0;
-  allPosts().forEach(function(p) {
-    var title = (p.dataset.title || '').toLowerCase();
-    var cat   = (p.dataset.cat   || '').toLowerCase();
-    var tags  = (p.dataset.tags  || '').toLowerCase();
-    var match = title.indexOf(qLower) !== -1 ||
-                cat.indexOf(qLower)   !== -1 ||
-                tags.indexOf(qLower)  !== -1;
-    p.classList.toggle('hidden', !match);
-    if (match) renderedMatches++;
-  });
-  updateCount(renderedMatches + ' result' + (renderedMatches !== 1 ? 's' : '') + ' for \u201c' + q + '\u201d');
+
+  if (homeCtx) {
+    // Phase 1: filter rendered cards instantly (no network)
+    if (lmWrap) lmWrap.style.display = 'none';
+    var renderedMatches = 0;
+    allPosts().forEach(function(p) {
+      var title = (p.dataset.title || '').toLowerCase();
+      var cat   = (p.dataset.cat   || '').toLowerCase();
+      var tags  = (p.dataset.tags  || '').toLowerCase();
+      var match = title.indexOf(qLower) !== -1 ||
+                  cat.indexOf(qLower)   !== -1 ||
+                  tags.indexOf(qLower)  !== -1;
+      p.classList.toggle('hidden', !match);
+      if (match) renderedMatches++;
+    });
+    updateCount(renderedMatches + ' result' + (renderedMatches !== 1 ? 's' : '') + ' for \u201c' + q + '\u201d');
+  }
 
   // Phase 2: lazy-load full search index and re-render extended results
   if (!SEARCH_INDEX) {
@@ -132,49 +178,55 @@ function loadSearchIndex() {
     .then(function(data) {
       SEARCH_INDEX = data;
       SEARCH_INDEX_LOADING = false;
-      // Re-run the current query with the freshly loaded index
       if (LAST_QUERY && LAST_QUERY.trim()) {
         renderExtendedResults(LAST_QUERY.toLowerCase(), LAST_QUERY);
       }
     })
     .catch(function() {
       SEARCH_INDEX_LOADING = false;
-      // Index unavailable: the Phase 1 rendered-card search is still active,
-      // so the user just gets narrower results. Fail quietly.
     });
-}
-
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, function(c) {
-    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
-  });
 }
 
 function renderExtendedResults(qLower, qDisplay) {
   if (!SEARCH_INDEX) return;
+  var homeCtx = isHomeSearchContext();
 
-  // Collect slugs already present as rendered cards so we don't duplicate
+  // On home, skip items already rendered as cards so we don't duplicate.
+  // On post pages nothing is pre-rendered, so show everything matching.
   var renderedSlugs = {};
-  allPosts().forEach(function(p) { renderedSlugs[p.dataset.slug] = 1; });
+  if (homeCtx) {
+    allPosts().forEach(function(p) { renderedSlugs[p.dataset.slug] = 1; });
+  }
 
   var extras = [];
   for (var i = 0; i < SEARCH_INDEX.length; i++) {
     var p = SEARCH_INDEX[i];
-    if (renderedSlugs[p.s]) continue; // skip if already in DOM
+    if (homeCtx && renderedSlugs[p.s]) continue;
+    // Title, category, tags match case-insensitively. Body is case-preserved
+    // in the index (doubles as excerpt), so lowercase at search time.
     if ((p.t && p.t.toLowerCase().indexOf(qLower) !== -1) ||
         (p.c && p.c.toLowerCase().indexOf(qLower) !== -1) ||
         (p.g && p.g.toLowerCase().indexOf(qLower) !== -1) ||
-        (p.b && p.b.indexOf(qLower) !== -1)) {
+        (p.b && p.b.toLowerCase().indexOf(qLower) !== -1)) {
       extras.push(p);
-      if (extras.length >= 40) break; // cap to keep rendering cheap
+      if (extras.length >= 40) break;
     }
   }
 
-  var existing = document.getElementById('searchExtended');
-  if (existing) existing.remove();
-  var emptyState = document.getElementById('searchEmpty');
-  if (emptyState) emptyState.remove();
+  // Clean up previous render, then render fresh
+  var existingEx = document.getElementById('searchExtended');
+  if (existingEx) existingEx.remove();
+  var existingEmpty = document.getElementById('searchEmpty');
+  if (existingEmpty) existingEmpty.remove();
 
+  if (homeCtx) {
+    renderHomeExtended(extras, qDisplay);
+  } else {
+    renderDropdownResults(extras, qDisplay);
+  }
+}
+
+function renderHomeExtended(extras, qDisplay) {
   var renderedMatchCount = document.querySelectorAll('#postList .post-card:not(.hidden)').length;
   var totalMatches = renderedMatchCount + extras.length;
 
@@ -182,11 +234,11 @@ function renderExtendedResults(qLower, qDisplay) {
     var empty = document.createElement('div');
     empty.id = 'searchEmpty';
     empty.className = 'search-empty';
-    empty.style.cssText = 'text-align:center;padding:32px 18px;color:var(--soft,#9a8870);font-family:Inter,sans-serif;font-size:13px;';
     empty.innerHTML = 'No matches for \u201c' + escapeHtml(qDisplay) + '\u201d';
     document.getElementById('postList').insertAdjacentElement('afterend', empty);
+    updateCount('0 results for \u201c' + qDisplay + '\u201d');
+    return;
   }
-
   if (extras.length === 0) {
     updateCount(totalMatches + ' result' + (totalMatches !== 1 ? 's' : '') + ' for \u201c' + qDisplay + '\u201d');
     return;
@@ -195,24 +247,33 @@ function renderExtendedResults(qLower, qDisplay) {
   var frag = document.createElement('div');
   frag.id = 'searchExtended';
   frag.className = 'search-extended';
-  frag.style.cssText = 'margin-top:16px;';
-
-  var html = '<div style="font-family:Inter,sans-serif;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--soft,#9a8870);margin-bottom:10px;padding:0 2px;">More matches from the archive</div>';
-  html += '<div class="search-extended-list">';
+  var inner = '<div class="src-heading">More matches from the archive</div>';
+  inner += '<div class="src-list">';
   for (var j = 0; j < extras.length; j++) {
-    var item = extras[j];
-    html += '<a class="search-result" href="' + escapeHtml(item.u) + '" style="display:block;padding:11px 14px;border-bottom:1px solid var(--rule,#ddd0b8);color:var(--ink,#1a1208);text-decoration:none;transition:background .15s;">';
-    html += '<div style="font-family:Lora,serif;font-weight:600;font-size:15px;line-height:1.35;margin-bottom:2px;">' + escapeHtml(item.t || '') + '</div>';
-    if (item.c) {
-      html += '<div style="font-family:Inter,sans-serif;font-size:11px;color:var(--soft,#9a8870);letter-spacing:.03em;">' + escapeHtml(item.c) + '</div>';
-    }
-    html += '</a>';
+    inner += buildResultCard(extras[j]);
   }
-  html += '</div>';
-  frag.innerHTML = html;
-
+  inner += '</div>';
+  frag.innerHTML = inner;
   document.getElementById('postList').insertAdjacentElement('afterend', frag);
   updateCount(totalMatches + ' result' + (totalMatches !== 1 ? 's' : '') + ' for \u201c' + qDisplay + '\u201d');
+}
+
+function renderDropdownResults(extras, qDisplay) {
+  var dropdown = document.getElementById('searchDropdown');
+  if (!dropdown) return;
+  if (extras.length === 0) {
+    dropdown.innerHTML = '<div class="src-empty">No matches for \u201c' + escapeHtml(qDisplay) + '\u201d</div>';
+    dropdown.hidden = false;
+    return;
+  }
+  var inner = '<div class="src-heading">' + extras.length + ' result' + (extras.length !== 1 ? 's' : '') + ' for \u201c' + escapeHtml(qDisplay) + '\u201d</div>';
+  inner += '<div class="src-list">';
+  for (var j = 0; j < extras.length; j++) {
+    inner += buildResultCard(extras[j]);
+  }
+  inner += '</div>';
+  dropdown.innerHTML = inner;
+  dropdown.hidden = false;
 }
 
 function setSort(type, el) {
@@ -241,16 +302,44 @@ function setSort(type, el) {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  updateStatus();
+  if (document.getElementById('postList')) {
+    updateStatus();
+  }
 
-  var hasPostList = document.getElementById('postList');
-  if (!hasPostList) return;
-
-  // Prefetch search index on first input focus — cheap UX win, still lazy
-  var searchInput = document.querySelector('input[type=search], #searchBox, .search-input');
+  // Prefetch search index on first input focus — cheap UX win, still lazy.
+  // Runs on every page (home + post + category + about) because the sidebar
+  // search input is global.
+  var searchInput = document.getElementById('searchInput');
   if (searchInput) {
     searchInput.addEventListener('focus', function() {
       if (!SEARCH_INDEX && !SEARCH_INDEX_LOADING) loadSearchIndex();
     }, { once: true });
   }
+
+  // Clicking anywhere outside the sidebar search area closes the dropdown
+  // (so users can dismiss results without clearing the input manually).
+  var dropdown = document.getElementById('searchDropdown');
+  if (dropdown) {
+    document.addEventListener('click', function(e) {
+      var sbSearch = document.querySelector('.sb-search');
+      if (sbSearch && !sbSearch.contains(e.target) && !dropdown.hidden) {
+        dropdown.hidden = true;
+      }
+    });
+    // Re-open if user focuses the input again while a query is active
+    searchInput.addEventListener('focus', function() {
+      if (LAST_QUERY && LAST_QUERY.trim() && dropdown.innerHTML) {
+        dropdown.hidden = false;
+      }
+    });
+  }
+
+  // Escape key clears search on any page
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && document.activeElement === searchInput) {
+      searchInput.value = '';
+      filterPosts('');
+      searchInput.blur();
+    }
+  });
 });
