@@ -10,24 +10,34 @@
     {{ content }}
   </main>
 </div>
-<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+<!-- Auto-link brands (deferred so it doesn't block first paint or interactivity) -->
+<script src="{{ '/assets/js/autolinks.js' | relative_url }}" defer></script>
+
+<!--Start of Tawk.to Script - lazy-loaded for performance-->
+<script>
 (function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/6313cbe537898912e9670bac/1gc2l8uv9';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
+  var loaded=false;
+  function loadTawk(){
+    if(loaded)return;loaded=true;
+    window.Tawk_API=window.Tawk_API||{};window.Tawk_LoadStart=new Date();
+    var s1=document.createElement('script'),s0=document.getElementsByTagName('script')[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/6313cbe537898912e9670bac/1gc2l8uv9';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+  }
+  // Boot Tawk.to on first user interaction, or after 3s idle - whichever first.
+  // This defers ~500KB of chat-widget JS out of the critical path.
+  var t=setTimeout(loadTawk,3000);
+  var evts=['scroll','mousemove','touchstart','keydown','click'];
+  function kick(){loadTawk();clearTimeout(t);evts.forEach(function(e){window.removeEventListener(e,kick)});}
+  evts.forEach(function(e){window.addEventListener(e,kick,{passive:true,once:true})});
 })();
 </script>
 <!--End of Tawk.to Script-->
 
-<!-- Auto-link brands -->
-<script src="{{ '/assets/js/autolinks.js' | relative_url }}"></script>
-  
 </body>
 </html>

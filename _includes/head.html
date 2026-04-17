@@ -3,10 +3,23 @@
 <title>{% if page.title %}{{ page.title }} — {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 155 }}{% else %}{{ site.description }}{% endif %}">
 <link rel="canonical" href="{{ page.url | prepend: site.url }}">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+{%- comment -%}
+  Performance: all four Google Fonts (Lora, Inter, Newsreader, DM Sans) are
+  consolidated into ONE request and async-loaded via the preload+onload swap
+  so they don't block first paint. `font-display: swap` is in the URL, so
+  fallback fonts show immediately and the page paints fast. The `opsz` axis
+  on Newsreader and the italic axis on DM Sans are dropped — they're unused
+  on this site and were adding significant weight to woff2 downloads.
+{%- endcomment -%}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&family=DM+Sans:ital,wght@0,400..700;1,400..500&display=swap">
+<link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'"
+  href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400..700&family=Inter:wght@200;300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Newsreader:ital,wght@0,400..700;1,400..700&display=swap">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400..700&family=Inter:wght@200;300;400;500;600&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Newsreader:ital,wght@0,400..700;1,400..700&display=swap"></noscript>
+
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
 <link rel="icon" href="{{ '/assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
 {% feed_meta %}
 {% seo %}
