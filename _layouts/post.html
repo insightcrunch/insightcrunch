@@ -2,6 +2,24 @@
 layout: default
 ---
 <style>
+/* ── Critical post-page typography (prevents CLS from async main.css) ── */
+.post-header{margin-bottom:24px;padding-bottom:16px;border-bottom:1px solid var(--rule)}
+.post-header h1{font-family:'Lora',serif;font-size:28px;font-weight:400;line-height:1.25;color:var(--ink);margin-bottom:10px;font-style:italic}
+.post-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;color:var(--soft)}
+.post-meta .sep{color:var(--rule)}
+.post-content{font-family:'Lora',serif;font-size:16px;line-height:1.85;color:var(--ink)}
+.post-content h2{font-size:22px;margin:32px 0 12px;font-weight:600}
+.post-content h3{font-size:18px;margin:24px 0 8px}
+.post-content p{margin-bottom:18px}
+.post-content a{color:var(--amber);text-decoration:underline}
+.post-content a:hover{color:var(--amber-lt)}
+.post-content img{max-width:100%;height:auto;border-radius:8px;margin:20px 0}
+.post-content blockquote{border-left:3px solid var(--amber-bd);padding:12px 16px;margin:20px 0;background:var(--amber-bg);border-radius:0 6px 6px 0;color:var(--mid);font-style:italic}
+.post-content code{font-family:'Courier New',monospace;font-size:13px;background:var(--s2);padding:2px 5px;border-radius:3px;color:var(--mid)}
+.post-content pre{background:var(--esp2);padding:16px;border-radius:8px;overflow-x:auto;margin:20px 0}
+.post-content pre code{background:none;color:rgba(255,255,255,.82)}
+@media (max-width:760px){.post-header h1{font-size:19px}.post-content{font-size:13px}.post-content h2{font-size:17px;margin:16px 0 6px}.post-content h3{font-size:14px;margin:12px 0 5px}.post-content p{margin-bottom:12px}}
+
 /* ── text overflow fix for Bengali / long-word content ── */
 .main {
   overflow: hidden !important;
