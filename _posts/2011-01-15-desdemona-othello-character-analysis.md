@@ -9,7 +9,7 @@ excerpt: "Deep analysis of Desdemona in Othello - her defiance of her father, he
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 59
 author: "sophia-turner"
-last_updated: 2011-01-15
+last_updated: 2026-04-17
 lang: en
 ---
 She is the Venetian senator's daughter who has chosen to marry the Moorish general against every expectation of race, class, and parental authority that the republic recognizes, who has defied her father with the clarity and the composure of someone who has thought through the implications of her decision and has determined that the decision is correct regardless of the societal cost, who has testified before the Senate that she saw Othello's visage in his mind and that her love is founded on his qualities rather than on his appearance, who has traveled to the military outpost of Cyprus to be with the husband she has chosen, who has pleaded for the reinstatement of Cassio out of the charitable generosity that defines her nature without any awareness that the pleading will be redirected by Iago into the manufactured evidence of the infidelity she has never committed, who has endured the progressive deterioration of her husband's treatment of her with a loyalty that persists even as his behavior becomes increasingly violent and irrational, who has been struck publicly before the visiting Venetian delegation, who has been called a strumpet to her face by the man she has given everything to follow, and who dies in her bed at the hands of the husband who believes he is performing an act of justice while committing the most grievous act of injustice the tragedy depicts. The trajectory from the Senate chamber to the bedchamber is the most devastating depiction of destroyed innocence in the canon.

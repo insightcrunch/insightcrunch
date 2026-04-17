@@ -9,7 +9,7 @@ excerpt: "Complete study of the Ghost in Hamlet - the murdered king's spirit, hi
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 66
 author: "claire-bennett"
-last_updated: 2010-11-12
+last_updated: 2026-04-17
 lang: en
 ---
 He appears on the cold ramparts of Elsinore in full armor, walks past terrified sentries without speaking, vanishes when the rooster crows, returns the following night, and finally addresses his living heir with a revelation that converts a private grief into a public obligation that will consume every major shade in the play. The specter is identified by the speech prefix as Ghost, but the question of what kind of being he actually is, where he comes from, what authority backs his demands, and whether his account of his own murder can be trusted at face value remains the most consequential unresolved question in Shakespeare's tragedy. Every other major character makes choices that flow downstream from the assumption that this spirit is who he claims to be and that his commands carry the moral weight of a true paternal injunction, yet the tragedy itself never confirms the assumption. The audience watches an entire kingdom collapse around an instruction with a permanently uncertain source.

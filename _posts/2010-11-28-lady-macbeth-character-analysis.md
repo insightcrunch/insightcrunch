@@ -9,7 +9,7 @@ excerpt: "Complete study of Lady Macbeth - her willed self-transformation, the p
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 64
 author: "sophia-turner"
-last_updated: 2010-11-28
+last_updated: 2026-04-17
 lang: en
 ---
 She enters the play reading a letter from her partner and is instantly the most rhetorically powerful figure on the stage, calling on the spirits to unsex her, to fill her from crown to toe topful of direst cruelty, to take her milk for gall, to convert what is feminine in her into something serviceable for the murder she has already calculated must occur, and within four short acts she has helped plan a regicide, framed two innocent grooms with the bloody daggers her partner could not return, hosted a state banquet through her partner's hallucinatory collapse, and been reduced to a sleepwalking specter washing her hands of imagined blood that will not come off, before her death is reported to her partner in the bare terms of her absence and produces from him not grief but the most concentrated declaration of nihilism in the canon. The arc from the unsexing soliloquy to the sleepwalking scene is the most psychologically detailed study of a willed transformation of self and the eventual return of the suppressed conscience that the dramatic literature has produced.

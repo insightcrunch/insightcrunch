@@ -9,7 +9,7 @@ excerpt: "Complete study of Macduff - his discovery of the regicide, his flight 
 image: "/assets/images/blog/blog-43.webp"
 reading_time: 65
 author: "megan-clark"
-last_updated: 2010-12-08
+last_updated: 2026-04-17
 lang: en
 ---
 He is the thane who knocks at the gate of the castle on the morning after the regicide, who is the first to enter the chamber and discover the body of the king, who raises the alarm that wakes the household and brings the assembled nobility into the public space where Macbeth will perform the role of innocent host while the audience watches the gap between performance and truth, who slips away from court before the new monarch can summon him and rides for England to seek alliance with the rightful heir, who receives the news in his exile that his wife and children have been slaughtered by hired assassins on the orders of the man he has fled, who tests the rightful heir through the elaborate self-accusation scene that establishes the conditions of trustworthy kingship before committing himself to the cause of renewal, who returns at the head of the army that will besiege Dunsinane, and who meets Macbeth in single duel in the final moments of the tragedy, revealing that he was from his mother's womb untimely ripped and therefore fulfills the equivocal prophecy that promised Macbeth safety from any man of woman born. The trajectory from gate-knocker to liberator is one of the most carefully engineered in the canon, and the gradual accumulation of moral standing across that trajectory is what allows the final duel to feel earned rather than imposed.

@@ -9,7 +9,7 @@ excerpt: "Complete study of the Porter - the hell-gate monologue, the equivocato
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 67
 author: "emily-reed"
-last_updated: 2010-12-28
+last_updated: 2026-04-17
 lang: en
 ---
 He is the household servant who appears in the third sequence of the second act immediately after the regicide has been committed offstage, who hears the persistent knocking at the gate of the castle without immediately answering it, who delivers the famous monologue in which he imagines himself as the porter of hell admitting various sinners to their eternal torment, who eventually opens the gate to admit Macduff and Lennox into the household where they will discover the king's body, who responds to Macduff's question about whether he was carousing late with the bawdy speech about the three things that drink especially provokes, and who exits the drama after his single appearance without any further appearances or any subsequent reference. The brevity of his presence in the drama is inversely proportional to the critical attention his single monologue has received across four centuries of observations, and the compositional function he performs at the threshold of the discovery sequence is among the most carefully calibrated examples of comedic relief in the theatrical canon.

@@ -9,7 +9,7 @@ excerpt: "Complete analysis of Rosencrantz and Guildenstern in Hamlet - friendsh
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 59
 author: "lauren-hayes"
-last_updated: 2010-11-07
+last_updated: 2026-04-17
 lang: en
 ---
 They arrive at the court together, speak together, are addressed together, and ultimately die together. Throughout the drama, Shakespeare goes to extraordinary lengths to prevent the audience from distinguishing one of them from the other, and the indistinguishability is itself perhaps the most precise observation about their condition that the drama makes. They are not actually two separate people who happen to share a similar function; they are a single function distributed across two essentially interchangeable bodies, summoned by a king to perform a specific service, and discarded the moment that service has been completed. The fact that their names are interchangeable, that Claudius himself confuses which is which, that even the queen's correction of Claudius's mistake establishes nothing about their individual personalities, demonstrates that they have entered the drama not as autonomous agents but as instruments with human qualities have been reduced to the precise minimum required for the task assigned to them. Their fate, the off-stage execution that [Hamlet](https://insightcrunch.com/2010/10/02/hamlet-character-analysis-deep-dive/) engineers and reports without remorse, is the logical conclusion of the dehumanization that began the moment they accepted [Claudius's](https://insightcrunch.com/2010/10/07/claudius-hamlet-character-analysis/) summons.

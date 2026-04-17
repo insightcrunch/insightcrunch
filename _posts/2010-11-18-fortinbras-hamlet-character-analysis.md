@@ -9,7 +9,7 @@ excerpt: "Complete study of Fortinbras in Hamlet - the young prince, his decisiv
 image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2010-11-18
+last_updated: 2026-04-17
 lang: en
 ---
 He is named in the work's first scene before he ever appears, discussed in geogovernmental terms as a young hothead raising irregular forces on the Norwegian frontier, mentioned again in the second act when Claudius dispatches diplomats to his uncle the Norwegian king, glimpsed only briefly in the fourth act as he marches an army across Danish territory toward a worthless patch of Polish ground, and finally arrives in the closing minutes to inherit a kingdom littered with the corpses of its entire ruling family. Yet despite his minimal stage presence, Fortinbras is the structural counterweight on which the entire moral economy of the work depends, the silent comparison against which every choice Hamlet makes is measured, and the ironic legatee whose inheritance forces the audience to ask what the long catastrophe was actually for.

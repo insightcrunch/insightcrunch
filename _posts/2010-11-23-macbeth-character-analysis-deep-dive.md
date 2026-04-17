@@ -9,7 +9,7 @@ excerpt: "Complete study of Macbeth - the honorable warrior, his ethical collaps
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 64
 author: "megan-clark"
-last_updated: 2010-11-23
+last_updated: 2026-04-17
 lang: en
 ---
 He returns from the field as the most decorated commander in the Scottish army, hailed by his king as a worthy gentleman whose valor has saved the realm from invasion and rebellion, addressed by name in dispatches that frame him as the model of martial honor, and within the space of three brief acts he has killinged his sleeping sovereign in his own castle, ordered the slaughter of his closest comrade, attempted the extermination of his rival's children, butchered an entire household of women and infants in their beds, and spoken some of the most chilling lines on the subject of moral exhaustion ever composed in any language. The journey from the opening victory dispatch to the closing severed head being held aloft on a pike is the tightest, most ruthlessly compressed ethical collapse in the Shakespearean canon, and the character who undergoes it is the most psychologically detailed study of conscience in extremis the theater has produced.

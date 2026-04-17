@@ -9,7 +9,7 @@ excerpt: "Complete study of Laertes in Hamlet - his rashness, parallel to Hamlet
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
 author: "elena-wright"
-last_updated: 2010-11-02
+last_updated: 2026-04-17
 lang: en
 ---
 He returns to Denmark with an army at his back, storms the palace of a king he believes has wronged his family, and within just a very few minutes is calmly negotiating the terms of his cooperation in the murder of an innocent man. The transformation of Laertes from righteous avenger to manipulated assassin happens with a speed that should disturb every careful reader and every audience, because it dramatizes one of the most uncomfortable truths the tragedy contains: a person committed to justice can be turned into an instrument of injustice in less than a single conversation, provided the person doing the turning understands which strings to pull. Laertes is the figure through whom Shakespeare demonstrates that grief, rage, and the desire for vengeance are not merely personal emotions but raw materials that more sophisticated political operators can refine into weapons. His destruction is not merely the loss of a young man's life; it is the loss of every value he claimed to defend, surrendered piece by piece in the conversation with [Claudius](https://insightcrunch.com/2010/10/07/claudius-hamlet-character-analysis/) that transforms Laertes from a son demanding justice for his father into a co-conspirator in a poisoned-sword scheme that will kill the avenger along with his target.

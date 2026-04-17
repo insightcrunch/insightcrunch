@@ -9,7 +9,7 @@ excerpt: "Complete study of Duncan - his virtues as a sovereign, the naming of M
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 66
 author: "victoria-stone"
-last_updated: 2010-12-13
+last_updated: 2026-04-17
 lang: en
 ---
 He is the gracious monarch whose first appearance in the second scene of the tragedy establishes him as the figure whose command is unproblematic, whose recognition of his thanes' battlefield service is generous and immediate, whose elevation of Macbeth to the title of Thane of Cawdor in reward for the campaign against Macdonwald sets in motion the partial fulfillment of the witches' prophecy that will eventually lead to his own death, who names his elder son Malcolm as the rightful heir and Prince of Cumberland in the public ceremony that creates the obstacle Macbeth will determine must be removed through criminal action, who travels to Macbeth's castle at Inverness as the honored guest whose hospitality the host has every reason to respect and every obligation to protect, who praises the castle's pleasant seat and the gentle martlet that nests in its eaves in lines of pastoral beauty calibrated to make his subsequent death in this very location the more terrible, who is murdered in his sleep by the host whose elevation he has just confirmed, and whose body provides the stage image around which the discovery scene and the entire subsequent action will revolve. The brevity of his presence in the tragedy is inversely proportional to the weight his memory carries through the closing acts.

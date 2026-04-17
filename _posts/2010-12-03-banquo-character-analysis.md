@@ -9,7 +9,7 @@ excerpt: "Complete study of Banquo - his shared prophecy with Macbeth, divergent
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2010-12-03
+last_updated: 2026-04-17
 lang: en
 ---
 He stands beside the central figure on the heath when the witches deliver their prophecies, hears the same supernatural information his companion hears, receives a prediction of his own that promises him the founding of a royal line without ever placing him on the throne, returns to camp and to court treating the encounter as the strange occasion it appears to be without tamonarch criminal action to advance or prevent any of its predictions, becomes the silent observer whose continued presence threatens his companion's peace because his survival makes the choices visible as choices, is killinged on his ride home in the third act by hired assassins his companion has dispatched, returns one final time as a ghost at the state banquet where his blood-stained presence drives Macbeth into wild speech that exposes the criminal foundation of the throne to the assembled nobility, and lives on through the descendants the prophecy promised him whose eventual succession to the throne fulfills what no killing could prevent. The structural function he performs is the most precisely engineered of any secondary character in the Shakespearean canon.

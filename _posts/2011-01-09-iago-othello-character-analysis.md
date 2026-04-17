@@ -9,7 +9,7 @@ excerpt: "Complete study of Iago in Othello - his methods of scheming, his possi
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 59
 author: "megan-clark"
-last_updated: 2011-01-09
+last_updated: 2026-04-17
 lang: en
 ---
 He is the ensign who opens the tragedy with his grievance about being passed over for promotion, who announces in the first scene that he is not what he appears to be, who conducts a sustained operation of insinuation and manufactured evidence that destroys the marriage of his commanding officer and the life of every principal figure in the play, who manages multiple victims simultaneously with a precision that suggests both deep psychological insight into each target and a creative pleasure in the construction of the deception itself, who offers multiple possible motives for his operation across his various soliloquies without any single motive being sufficient to explain the scale of the destruction he undertakes, who arranges the disgrace of Cassio, the exploitation of Roderigo, the framing of Desdemona, the psychological collapse of Othello, and the unwitting complicity of his own wife Emilia in the handkerchief scheme that provides the manufactured proof the scheme requires, and who responds to the final exposure of his villainy with a silence that has become one of the most dramatically powerful refusals in the canon, declaring that from this time forth he never will speak word. The trajectory from the aggrieved soldier of the opening to the silent prisoner of the closing is one of the most meticulously engineered villain arcs in dramatic literature.
