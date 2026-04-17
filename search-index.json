@@ -5,9 +5,9 @@ sitemap: false
 ---
 [{% for post in site.posts -%}
 {%- if post.excerpt and post.excerpt != "" -%}
-  {%- assign _body = post.excerpt | strip_html | strip_newlines | strip | truncate: 240 -%}
+  {%- assign _body = post.excerpt | strip_html | strip_newlines | strip | truncate: 220 -%}
 {%- else -%}
-  {%- assign _body = post.content | strip_html | strip_newlines | strip | truncate: 240 -%}
+  {%- assign _body = post.content | strip_html | strip_newlines | strip | truncate: 220 -%}
 {%- endif -%}
 {"s":{{ post.slug | jsonify }},"t":{{ post.title | jsonify }},"u":{{ post.url | relative_url | jsonify }},"c":{{ post.categories | first | jsonify }},"g":{{ post.tags | join: " " | downcase | jsonify }},"b":{{ _body | jsonify }}}
 {%- unless forloop.last %},{% endunless -%}
