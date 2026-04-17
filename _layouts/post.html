@@ -1041,6 +1041,11 @@ var GENIE_DIALOG={
 
 /* Resolve dialog for current page language; fall back to en for any
    language not yet translated (ta, te, kn, ml, ur today). */
+/* === v6 perf: defer genie setup to browser idle time.
+       The GENIE_DIALOG object and var declarations above remain parse-time,
+       but all DOM lookups, event binding, and timer setup are deferred so
+       they do not contribute to TBT on long articles. === */
+var __initGenie=function(){
 var CL=GENIE_DIALOG[PAGE_LANG]||GENIE_DIALOG.en;
 function interp(s){return s.replace(/\{POST_TITLE\}/g,POST_TITLE).replace(/\{AUTHOR_FIRST\}/g,AUTHOR_FIRST);}
 var RELATED_POSTS=[{% assign rp_slug = page.slug %}{% if site.data.related_posts[rp_slug] %}{% assign rp_now = site.time | date: "%Y-%m-%d" %}{% assign rp_parent_lang = page.lang | default: "en" %}{% assign rp_seen_authors = "|" %}{% assign rp_seen_urls = "|" %}{% assign rp_count = 0 %}{% assign rp_first = true %}{% for rel in site.data.related_posts[rp_slug] %}{% if rp_count >= 5 %}{% break %}{% endif %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= rp_now %}{% assign rp_lang_ok = true %}{% if rel.lang and rel.lang != rp_parent_lang %}{% assign rp_lang_ok = false %}{% endif %}{% if rp_lang_ok %}{% assign rp_author_key = site.data.post_authors[rel.slug] %}{% assign rp_is_unique = true %}{% if rp_author_key %}{% assign rp_marker = "|" | append: rp_author_key | append: "|" %}{% if rp_seen_authors contains rp_marker %}{% assign rp_is_unique = false %}{% endif %}{% endif %}{% if rp_is_unique %}{% unless rp_first %},{% endunless %}{% assign rp_first = false %}{t:{{ rel.title | jsonify }},u:{{ rel.url | relative_url | jsonify }}{% if rp_author_key %}{% assign rp_author = site.data.authors_pool[rp_author_key] %}{% if rp_author %},a:{{ rp_author.name | jsonify }},av:{{ rp_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% if rp_author_key %}{% assign rp_seen_authors = rp_seen_authors | append: rp_author_key | append: "|" %}{% endif %}{% assign rp_seen_urls = rp_seen_urls | append: rel.url | append: "|" %}{% assign rp_count = rp_count | plus: 1 %}{% endif %}{% endif %}{% endif %}{% endfor %}{% for rel in site.data.related_posts[rp_slug] %}{% if rp_count >= 5 %}{% break %}{% endif %}{% assign rp_url_marker = "|" | append: rel.url | append: "|" %}{% unless rp_seen_urls contains rp_url_marker %}{% assign rurl_parts = rel.url | split: "/" %}{% assign rel_d = rurl_parts[1] | append: "-" | append: rurl_parts[2] | append: "-" | append: rurl_parts[3] %}{% if rel_d <= rp_now %}{% assign rp_lang_ok = true %}{% if rel.lang and rel.lang != rp_parent_lang %}{% assign rp_lang_ok = false %}{% endif %}{% if rp_lang_ok %}{% assign rp_author_key = site.data.post_authors[rel.slug] %}{% unless rp_first %},{% endunless %}{% assign rp_first = false %}{t:{{ rel.title | jsonify }},u:{{ rel.url | relative_url | jsonify }}{% if rp_author_key %}{% assign rp_author = site.data.authors_pool[rp_author_key] %}{% if rp_author %},a:{{ rp_author.name | jsonify }},av:{{ rp_author.avatar | relative_url | jsonify }}{% endif %}{% endif %}}{% assign rp_seen_urls = rp_seen_urls | append: rel.url | append: "|" %}{% assign rp_count = rp_count | plus: 1 %}{% endif %}{% endif %}{% endunless %}{% endfor %}{% endif %}];
@@ -1285,6 +1290,12 @@ setTimeout(function(){showBub(rPick(greetMsgs),5500,true);startLife()},1400);
     }
   });
 })();
+}; // end __initGenie
+if ('requestIdleCallback' in window) {
+  requestIdleCallback(__initGenie, { timeout: 3000 });
+} else {
+  setTimeout(__initGenie, 1000);
+}
 })();
 </script>
 {% endif %}

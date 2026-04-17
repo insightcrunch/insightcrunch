@@ -296,10 +296,20 @@
     });
   }
 
-  // Fire on DOMContentLoaded (before Skimlinks async script loads)
+  // Defer to browser idle time. Auto-linking is decorative enrichment,
+  // not critical rendering, so it should not block the main thread during
+  // FCP-to-TTI. requestIdleCallback runs when the browser has nothing else
+  // to do; the setTimeout fallback covers Safari < 18 which lacks rIC.
+  function schedule() {
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(run, { timeout: 2500 });
+    } else {
+      setTimeout(run, 800);
+    }
+  }
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', run);
+    document.addEventListener('DOMContentLoaded', schedule);
   } else {
-    run();
+    schedule();
   }
 })();
