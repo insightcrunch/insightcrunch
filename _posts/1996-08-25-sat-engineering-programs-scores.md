@@ -6,12 +6,12 @@ date: 1996-08-25
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Engineering", "MIT", "Georgia Tech"]
 excerpt: "Engineering admissions are among the most competitive in undergraduate education - and they weight the SAT Math section more heavily than almost any other field. Here is what you need to know about score expectations at the top 25 engineering programs, why Math matters more than Reading and Writing, and how to position your application in the most competitive discipline in American higher education."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1996-08-25
+lang: en
 ---
-
 Engineering is the most quantitatively demanding undergraduate discipline, and the admissions process reflects this directly. Among the top 25 engineering programs in the United States, SAT Math scores carry more weight than in almost any other field of undergraduate study. A student applying to MIT, Caltech, or Carnegie Mellon's engineering programs with a 780 Math and 680 Reading and Writing is often evaluated more favorably than one with a 720 Math and 740 Reading and Writing - because the Math section more directly predicts the quantitative performance that engineering coursework demands.
 
 This guide provides the most accurate available picture of engineering program competitiveness and score expectations, with the goal of helping students build realistic college lists, direct their SAT preparation effectively, and understand what the non-academic components of a excellent engineering application look like. It covers both the most selective engineering programs in the country and the accessible competitive programs that provide excellent education without requiring near-perfect scores - because the right institution for any student is the one that best matches their academic preparation, career goals, and financial situation.
@@ -28,7 +28,7 @@ For students who are beginning this process early, the most important early inve
 
 For targeted SAT Math preparation that addresses the quantitative demands these programs expect, [free SAT practice tests and questions on ReportMedic](https://reportmedic.org/tools/sat-practice-test-questions.html) provides organized question banks that support focused Math score improvement. For context on how engineering scores compare to the broader university landscape, the [complete SAT score matrix for top 100 universities](/1996/06/01/sat-top-100-university-score-matrix/) provides the comparative reference.
 
-![SAT Scores for Engineering Programs at Top 25 Schools](/assets/images/blog/blog-07.webp)
+![SAT Scores for Engineering Programs at Top 25 Schools](/assets/images/blog/blog-68.webp)
 
 ## Why Engineering Admissions Weight Math More Heavily
 

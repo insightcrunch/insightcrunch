@@ -6,12 +6,12 @@ date: 1996-08-07
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Nursing", "Public Health", "Health Programs"]
 excerpt: "Nursing, public health, and allied health programs are among the fastest-growing areas of undergraduate study - and many have separate, more competitive admissions than their parent universities. Here is what you need to know about SAT scores, direct-entry program structures, and the healthcare career pipeline that begins with undergraduate program selection."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1996-08-07
+lang: en
 ---
-
 Healthcare careers beyond medicine attract more undergraduate students than any other professional pathway, and the undergraduate programs that lead to these careers have become significantly more competitive over the past decade.
 
 The diversity of healthcare career pathways means that students with very different academic profiles, personal values, and professional goals can find a healthcare career that suits them. The nurse who builds therapeutic relationships with patients over days of intensive care, the PA who practices with clinical independence in a rural setting, the public health analyst who models disease transmission patterns, and the speech-language pathologist who helps a child develop communication skills are all healthcare professionals whose work is both meaningful and well-compensated. The undergraduate path to each is different, and understanding how SAT scores and program selection work for each pathway is the starting point for planning.
@@ -48,7 +48,7 @@ Every patient a nurse supports through a difficult diagnosis, every community a 
 
 For SAT preparation that supports admission to competitive healthcare programs - where both Math and Reading and Writing matter for different components of the curriculum - [free SAT practice tests and questions on ReportMedic](https://reportmedic.org/tools/sat-practice-test-questions.html) provides organized practice for both sections. For comparative context across all program types, the [complete SAT score matrix for top 100 universities](/1996/06/01/sat-top-100-university-score-matrix/) provides the full reference.
 
-![SAT Scores for Nursing, Public Health and Allied Health Programs](/assets/images/blog/blog-11.webp)
+![SAT Scores for Nursing, Public Health and Allied Health Programs](/assets/images/blog/blog-76.webp)
 
 ## Direct-Entry BSN Programs: Admissions Structures
 

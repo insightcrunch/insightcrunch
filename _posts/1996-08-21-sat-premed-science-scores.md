@@ -6,12 +6,12 @@ date: 1996-08-21
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Pre-Med", "Science Programs", "Medical School"]
 excerpt: "Pre-med is not a major - it is a track. The SAT score you need depends on the university, not the pre-med label. But the universities that best position students for medical school have well-documented score ranges, and understanding them is essential for building a college list that sets the medical school pathway up for success."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1996-08-21
+lang: en
 ---
-
 Pre-med is not an undergraduate major. It is an intention - a track of coursework that can be completed within virtually any major at virtually any university. A student who wants to attend medical school can major in biology, biochemistry, English literature, philosophy, or computer science, as long as they complete the prerequisite coursework in biology, chemistry, organic chemistry, physics, biochemistry, math, and English that medical schools require.
 
 This distinction is critical for understanding how SAT scores relate to pre-med aspirations. There is no SAT score threshold for declaring a pre-med intent. The relevant score threshold is the admissions standard of the university the student attends - and the most selective pre-med feeder universities have score ranges that are among the highest in American higher education.
@@ -20,7 +20,7 @@ The SAT score a pre-med student needs is the SAT score required to gain admissio
 
 For targeted SAT preparation across both Math and Reading and Writing - both of which matter in the science-heavy coursework of pre-med programs - [free SAT practice tests and questions on ReportMedic](https://reportmedic.org/tools/sat-practice-test-questions.html) provides organized practice for both sections. For context on where pre-med feeder university scores sit within the broader national landscape, the [complete SAT score matrix for top 100 universities](/1996/06/01/sat-top-100-university-score-matrix/) provides the full comparative reference.
 
-![SAT Scores for Pre-Med and Science Programs](/assets/images/blog/blog-08.webp)
+![SAT Scores for Pre-Med and Science Programs](/assets/images/blog/blog-59.webp)
 
 ## What Pre-Med Actually Means
 

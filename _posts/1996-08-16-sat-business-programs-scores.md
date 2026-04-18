@@ -6,12 +6,12 @@ date: 1996-08-16
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Business School", "Wharton", "Finance"]
 excerpt: "Undergraduate business programs are among the fastest-growing sources of competitive college applications in the country. SAT Math performance matters more in business admissions than in most fields. Here is everything you need to know about score expectations at the top programs, how direct-admit versus explore-then-apply structures affect your application timing, and why Wharton is not just hard to get into - it is in a category by itself."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1996-08-16
+lang: en
 ---
-
 Undergraduate business education has become one of the most competitive admission categories in American higher learning. The combination of clear career outcomes, strong alumni networks, and the rise of quantitative finance, consulting, and technology management as aspirational career paths has concentrated an extraordinary volume of high-achieving applicants into a relatively small number of top programs. The result: Wharton, Ross, and Stern are now as difficult to gain admission to as many Ivy League programs that were once viewed as categorically more selective.
 
 This concentration of competition means that a student who would have been automatically admitted to a top business program fifteen years ago may face a genuinely uncertain outcome today. The preparation required to be competitive at Wharton or Ross now mirrors what was required for the most selective institutions in the country, and students who approach business program admissions as if it is somehow easier than the most competitive university admissions are likely to be disappointed.
@@ -26,7 +26,7 @@ The guide is designed for students in the college planning phase who are specifi
 
 For targeted SAT Math preparation that addresses the quantitative demands of business education, [free SAT practice tests and questions on ReportMedic](https://reportmedic.org/tools/sat-practice-test-questions.html) provides practice across both sections. For context on how business school scores sit within the broader landscape, the [complete SAT score matrix for top 100 universities](/1996/06/01/sat-top-100-university-score-matrix/) provides the full comparative reference.
 
-![SAT Scores for Business Schools: Wharton, Ross, Stern and More](/assets/images/blog/blog-09.webp)
+![SAT Scores for Business Schools: Wharton, Ross, Stern and More](/assets/images/blog/blog-36.webp)
 
 ## Why Business Programs Weight Math More Heavily
 

@@ -6,12 +6,12 @@ date: 1996-08-12
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Computer Science", "Carnegie Mellon", "CS"]
 excerpt: "Computer science has become the most competitive undergraduate major at many top universities. Acceptance rates of 2 to 5 percent are common at schools whose overall acceptance rate is 10 to 20 percent. This guide covers what you need to know about SAT scores, admissions structures, and the reality of CS program selectivity."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1996-08-12
+lang: en
 ---
-
 Computer science is no longer simply a popular major. It has become the most competitive undergraduate major at most selective universities in the United States, with acceptance rates that frequently run at one-third to one-half the overall university acceptance rate. At Carnegie Mellon, MIT, and Caltech, direct CS admission is among the most selective academic programs available anywhere in the world. At Georgia Tech, UIUC, and Cornell, the gap between overall university selectivity and CS-specific selectivity is equally striking.
 
 The driver is not mysterious. Technology industry salaries for CS graduates from top programs are extraordinarily high - entry-level roles at the largest technology companies pay total compensation exceeding $200,000, with significant equity on top. The cultural emphasis on coding as a foundational skill has made CS an aspirational major across socioeconomic and demographic lines. The finite capacity of CS programs to admit students - bounded by faculty size, lab infrastructure, and curriculum design - has not grown proportionally with demand. The result is a mismatch between supply and demand that produces the competitive intensity that every serious CS applicant now faces.
@@ -46,7 +46,7 @@ This order of operations is why this guide consistently emphasizes beginning pre
 
 For targeted SAT Math preparation that builds the quantitative foundation CS programs expect, [free SAT practice tests and questions on ReportMedic](https://reportmedic.org/tools/sat-practice-test-questions.html) provides organized practice across both sections. For context on how CS program scores compare to other programs at the same universities, the [engineering programs score guide](/1996/08/25/sat-engineering-programs-scores/) and the [top 100 university score matrix](/1996/06/01/sat-top-100-university-score-matrix/) provide comparative references.
 
-![SAT Scores for Computer Science Programs at Top Universities](/assets/images/blog/blog-10.webp)
+![SAT Scores for Computer Science Programs at Top Universities](/assets/images/blog/blog-42.webp)
 
 ## Why CS Admissions Are So Competitive
 
