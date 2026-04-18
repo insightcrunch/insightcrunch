@@ -6,19 +6,19 @@ date: 2002-06-18
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Common Mistakes", "Answer Writing", "IAS Preparation", "Marks Loss"]
 excerpt: "UPSC Mains common mistakes costing 50 plus marks including not completing papers poor presentation ignoring GS4 question misreading and essay-length short answers."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 65
-author: "Insight Crunch Team"
+author: "kavita-sharma"
 last_updated: 2002-06-18
+lang: en
 ---
-
 UPSC Mains common mistakes represent the preparation blind spots where aspirants forfeit 50 or more marks per paper through avoidable errors rather than knowledge deficiency. The aspirants who lose marks through common mistakes possess adequate content knowledge but deploy it through flawed execution forfeiting marks that proper execution would capture. The aspirants who identify and eliminate common mistakes before examination translate their content knowledge into marks more efficiently than aspirants who carry avoidable errors into the examination hall. The mistake elimination creates 50 to 100 marks per paper recovery compared to mistake-laden performance accumulating to 200 to 400 marks total recovery spanning four GS papers meaningfully affecting final ranks. The gap between mistake-aware and mistake-blind aspirants determines whether content knowledge converts fully into examination marks. This UPSC Mains common mistakes guide is built around closing that gap through systematic mistake identification and elimination methodology.
 
 <!--more-->
 
 The cognitive shift required is from attributing poor marks to insufficient knowledge to recognising that execution errors independently cost substantial marks. The aspirant who scores 100 on a GS paper despite possessing 130 marks worth of knowledge lost 30 marks through execution errors. The aspirant who eliminates those execution errors scores 125 to 130 from the same knowledge base. Both aspirants prepared identically; only one deploys preparation without execution-error marks forfeiture. The execution-error awareness and elimination represents perhaps the highest-return preparation investment given that it converts existing knowledge into additional marks without requiring additional content preparation.
 
-![UPSC Mains Common Mistakes That Cost 50 Plus Marks - Insight Crunch](/assets/images/blog/blog-15.webp)
+![UPSC Mains Common Mistakes That Cost 50 Plus Marks - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 By the end of this guide you will understand the 15 most expensive Mains mistakes the marks cost of each mistake the root cause of each mistake the elimination strategy for each mistake and the integration with broader Mains preparation. The total time investment for mistake awareness and elimination requires approximately 15 to 25 hours of conscious practice producing substantial marks recovery that content-only preparation cannot deliver. The broader Mains framework is established in the [UPSC Mains complete guide to all 4 GS papers and essay](/2002/12/11/upsc-mains-complete-guide/) article. The examiner perspective understanding is in the [UPSC Mains mark distribution and examiner perspective](/2002/07/29/upsc-mains-mark-distribution-examiner-perspective/) article and the time management principles in the [UPSC Mains time management 3 hours per paper](/2002/07/20/upsc-mains-time-management/) article that contextualise mistake elimination within comprehensive preparation.
 
