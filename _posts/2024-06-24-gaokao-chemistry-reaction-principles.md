@@ -6,14 +6,14 @@ date: 2024-06-24
 categories: ["Industry"]
 tags: ["高考化学", "化学反应原理", "反应速率", "化学平衡", "电化学", "Gaokao Chemistry", "Chemical Reactions"]
 excerpt: "全面解析高考反应原理专题，涵盖速率计算、平衡移动规律、电化学基础原理，配有详细例题分析和实用解题技巧。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "li-wei"
+lang: zh
 ---
-
 高考反应原理是理科综合考试中的重要专题，涵盖速率研究、平衡体系、电化学等核心内容，在高考中占分比重约20-25分。掌握反应原理不仅是获得高分的关键，更是培养科学思维和解决实际问题能力的重要途径。本指南将从基础概念到高阶应用，全面解析反应原理的各个知识点，帮助考生系统掌握这一重要专题。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-77.webp)
 *高考反应原理专题备考指南*
 
 反应原理作为高考理综的核心内容，要求学生具备扎实的理论基础和灵活的应用能力。从历年高考真题来看，该专题不仅考查基础知识的记忆，更注重学生对反应机理的理解和分析能力。
