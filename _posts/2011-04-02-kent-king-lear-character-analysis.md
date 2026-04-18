@@ -6,15 +6,15 @@ date: 2011-04-02
 categories: ["Leisure"]
 tags: ["shakespeare", "king-lear", "kent", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Deep analysis of Kent in King Lear - his banishment for plain speaking, his return as Caius, and what his unconditional devotion finally costs."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2011-04-02
+lang: en
 ---
-
 He is the Earl of Kent whose intervention on behalf of [Cordelia](/2011/02/22/cordelia-king-lear-character-analysis/) during the opening ceremony produces the banishment that removes the most loyal counselor from [King Lear's](/2011/02/17/king-lear-character-analysis-deep-dive/) court at the moment when loyal counsel is most desperately needed, who returns almost immediately in the concealment of the plain-spoken servant Caius to continue serving the master who has expelled him, who accompanies Lear through the progressive dispossession of the central acts and into the storm on the heath, who provides the bodily labor that his concealmentd position enables while concealing the identity through which the attendance would normally be recognized, who is placed in the stocks by Cornwall and Regan in one of the humiliations the central acts inflict on those who remain faithful to the dispossessed monarch, who endures the full arc of Lear's descent from authority through madness to the brief reunion with Cordelia and the final catastrophe, and who declares in the concluding passage that his lord calls him and that he must follow into death, refusing the governing authority that Albany offers because the devotion to the dead master exceeds any interest in the living realm. The trajectory from banished loyalist to personad servant to exhausted companion declining the offer of governance is one of the most prolonged portraits of unconditional dedication any figure traces across the Shakespearean canon.
 
-![Kent Character Analysis - The Loyal Earl in King Lear](/assets/images/blog/blog-05.webp)
+![Kent Character Analysis - The Loyal Earl in King Lear](/assets/images/blog/blog-34.webp)
 
 <!--more-->
 
@@ -199,7 +199,6 @@ In every case, the fifth facet involves the question of how the closing refusal 
 By implication, the sixth facet involves the question of how the parallel between Kent's disguise and Edgar's disguise illuminates different relationships between identity and service. Kent's disguise enables the continuation of a service that preceded the disguise. Edgar's disguise enables the development of capacities that the pre-disguise identity did not possess. The different functions of the two disguises demonstrate that concealment can serve different purposes depending on the relationship between the concealing figure and the conditions the concealment addresses.
 
 The seventh facet involves the tragedy's attention to how the preference for death over continued life operates as the closing expression of a commitment that has been tested across every condition the tragedy can produce. The preference is the final test, exceeding the banishment, the reduction, the humiliation, and the physical exposure that the earlier acts had imposed. The preference passes the final test by choosing the option that no conditional commitment would have chosen, and the choosing is what establishes the commitment as unconditional beyond any remaining possibility of qualification.
-
 
 
 Considered closely, the eighth facet of contemporary relevance concerns the recognition that Kent's trajectory provides the concentrated model for how organizational figures whose honest counsel is rejected can transform their service into alternative channels that the rejection has made necessary. The model extends beyond the individual characterization to address the broader question of how organizations benefit from the figures who persist in their labor despite the rejection of the formal channels through which the labor was originally offered. The persistence through alternative channels is recognizable in many contemporary contexts where dedicated individuals continue contributing through informal means when the formal mechanisms for their contribution have been eliminated.

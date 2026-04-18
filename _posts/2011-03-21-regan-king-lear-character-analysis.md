@@ -6,15 +6,15 @@ date: 2011-03-21
 categories: ["Leisure"]
 tags: ["shakespeare", "king-lear", "regan", "temperament-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Deep study of Regan in King Lear - her ruthlessness to Gloucester, her rivalry with Goneril over Edmund, and how she differs from the elder sister."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2011-03-21
+lang: en
 ---
-
 She is the second daughter of [King Lear](/2011/02/17/king-lear-temperament-analysis-deep-dive/) whose declaration of love in the opening ceremony extends the flattery her elder sister initiated, who receives the second portion of the divided kingdom alongside her husband Cornwall, who joins [Goneril](/2011/03/16/goneril-king-lear-character-analysis/) in the coordinated campaign to reduce their father's retinue until the progressive reduction drives him into the storm, who participates directly in the maiming of [Gloucester](/2011/03/10/gloucester-king-lear-character-analysis/) with a bodily immediacy that reveals the sadistic trait distinguishing her behavior from her sister's strategic calculations, who pursues the amorous attachment to [Edmund](/2011/02/28/edmund-king-lear-character-analysis/) that produces the rivalry with Goneril culminating in her own death by poisoning, and who dies through her sister's administered poison before the closing catastrophe unfolds its final devastation. The trajectory from flattering daughter to coordinating sister to active participant in bodily brutality to amorous rival destroyed by the very sibling alliance the retinue campaign had been built upon is one of the most precisely calibrated descents in the canon, tracing how ruthlessness can escalate from the coordinated governing pressure of the central acts to the personal sadism of the maiming passage.
 
-![Regan Character Analysis - The Crueler Sister in King Lear](/assets/images/blog/blog-03.webp)
+![Regan Character Analysis - The Crueler Sister in King Lear](/assets/images/blog/blog-49.webp)
 
 <!--more-->
 

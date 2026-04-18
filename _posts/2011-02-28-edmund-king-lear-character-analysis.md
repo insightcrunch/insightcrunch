@@ -6,15 +6,15 @@ date: 2011-02-28
 categories: ["Leisure"]
 tags: ["shakespeare", "king-lear", "edmund", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Deep analysis of Edmund in King Lear - his illegitimacy, his philosophy of nature, his scheming against father and brother, and late reversal."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2011-02-28
+lang: en
 ---
-
 He is the illegitimate son of the Earl of Gloucester whose resentment at the social exclusion his bastardy imposes drives him to conduct a sustained scheme against his legitimate brother Edgar and his credulous father, who opens his trajectory with the soliloquy invoking Nature as his goddess and declaring his determination to claim through enterprise what the customs of the realm deny him through birth, who forges a letter purporting to reveal Edgar's plan to murder their father in order to seize the inheritance, who manipulates his father into believing the forged evidence and drives Edgar into the disguised exile that produces the Poor Tom persona, who subsequently betrays his father to the forces of Cornwall and Regan by revealing Gloucester's correspondence with the French army, whose betrayal produces the blinding of Gloucester in one of the most physically violent passages in the canon, who rises through the governmental chaos to become the lover of both Goneril and Regan simultaneously while positioning himself for the supreme authority the collapsing power structure has made available, who orders the execution of Cordelia and Lear after their military defeat, who is mortally wounded in the trial by combat with the disguised Edgar in the closing act, and who attempts at the moment of his own dying to reverse the killing order he has issued, the reversal arriving too late to save Cordelia. The trajectory from resentful bastard son to charismatic schemer to ascendant governmental force to mortally wounded villain attempting one final act of decency is one of the most precisely calibrated arcs in the canon.
 
-![Edmund Character Analysis - Villain of King Lear](/assets/images/blog/blog-14.webp)
+![Edmund Character Analysis - Villain of King Lear](/assets/images/blog/blog-03.webp)
 
 <!--more-->
 
@@ -169,7 +169,6 @@ In every case, the fifth dimension involves the question of how instrumental rel
 By implication, the sixth dimension involves the question of how philosophical positions can be deployed selectively to justify whatever the immediate situation requires. His invocation of Nature supports his claim against the conventions that deny him inheritance, but the invocation is abandoned when the conventions provide the advantage his campaign needs. The selective deployment of philosophical positions for instrumental purposes is recognizable in many contemporary contexts where ideological positions serve tactical rather than principled functions.
 
 The seventh dimension involves the play's attention to how timing determines whether moral impulses produce practical effects. His late impulse toward good is genuine but arrives after the consequences have been set in motion. The relationship between the timing of moral recognition and the effectiveness of moral action is one of the permanent concerns of ethical reasoning, and his case provides one of the concentrated dramatizations through which the concern becomes visible.
-
 
 
 Considered closely, the eighth dimension of contemporary relevance involves the question of what responsibility communities bear for the outcomes that their exclusionary practices produce. If the social order that excluded Edmund had addressed the injustice of illegitimacy, the destructive trajectory might not have developed. The conditional does not exonerate the destructive response, but it does raise the question of whether the community that maintained the exclusion bears partial responsibility for the consequences the exclusion eventually generated. The question remains relevant in contemporary contexts where exclusionary practices continue to produce resentment and where the resentment sometimes manifests in destructive responses.

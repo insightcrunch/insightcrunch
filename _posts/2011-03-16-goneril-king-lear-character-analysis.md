@@ -6,15 +6,15 @@ date: 2011-03-16
 categories: ["Leisure"]
 tags: ["shakespeare", "king-lear", "goneril", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Analysis of Goneril in King Lear - her flattery, her pragmatic objections to the household guard, her Edmund affair, and the sympathetic interpretation of her case."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2011-03-16
+lang: en
 ---
-
 She is the eldest daughter of [King Lear](/2011/02/17/king-lear-character-analysis-deep-dive/) whose lavish declaration of love in the opening ceremony secures her portion of the divided kingdom, who subsequently receives her father as a guest in her household and begins the campaign to reduce his household guard of one hundred knights that will eventually drive him into the storm, who is the first of the two elder daughters to challenge her father's continued authority and to articulate the pragmatic objections to maintaining the retinue that the formal arrangement had specified, who coordinates with her sister [Regan](/2011/03/21/regan-king-lear-character-analysis/) to present a unified front against their father's demands, who pursues a romantic involvement with [Edmund](/2011/02/28/edmund-king-lear-character-analysis/) that will eventually produce the poisoning of her sister and her own suicide when the conspiracy is exposed, who writes the letter to Edmund proposing the murder of her husband Albany that will become evidence of her treachery, and who dies by her own hand in the closing act when the accumulating exposures have made her standing untenable. The trajectory from flattering eldest daughter to pragmatic household manager to coordinating conspirator to adulterous plotter to self-destroying villain is one of the most precisely calibrated descents in the canon.
 
-![Goneril Character Analysis - The Eldest Daughter in King Lear](/assets/images/blog/blog-02.webp)
+![Goneril Character Analysis - The Eldest Daughter in King Lear](/assets/images/blog/blog-08.webp)
 
 <!--more-->
 
@@ -199,7 +199,6 @@ In every case, the fifth dimension involves the question of whether female villa
 By implication, the sixth dimension involves the question of what the progressive trajectory from legitimate complaint to unambiguous villainy teaches about how individuals can move across the boundary between the defensible and the indefensible. Her trajectory demonstrates that the movement can be gradual, that each stage can be connected to the previous through the logic of the situation, that the figure who begins with defensible concerns can end with indefensible actions without any single stage representing the clear crossing of the boundary. The gradual quality of the progression is recognizable in many contemporary contexts where individuals whose initial positions were defensible have progressed to positions that exceed any defense the initial concerns could have provided.
 
 The seventh dimension involves the play's attention to how self-destruction operates as the consequence of the position the self-destroying figure has created. Her suicide is not the result of external force but of the internal collapse that the accumulating exposures have produced. The position she had constructed through flattery, coordination, romantic pursuit, and conspiratorial planning has been exposed, and the exposure has made the position untenable. The self-destruction is therefore the consequence of the position's collapse rather than of any external imposition, and the pattern of self-destruction through the collapse of constructed positions is recognizable in many contemporary contexts.
-
 
 
 Considered closely, the eighth element of contemporary relevance concerns the question of how the progressive trajectory from defensible position to indefensible conduct operates when the figure moving through the trajectory does not perceive the progression as progressive. If Goneril perceives each stage as the reasonable response to the current situation, then the trajectory from defensible to indefensible may not be visible from within even as it becomes increasingly visible from without. The gap between internal perception and external assessment is recognizable in many contemporary contexts where individuals whose conduct has progressed from reasonable to unreasonable do not perceive the progression because each stage has seemed reasonable at the moment of its performance.

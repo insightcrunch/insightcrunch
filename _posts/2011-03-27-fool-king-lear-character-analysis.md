@@ -6,15 +6,15 @@ date: 2011-03-27
 categories: ["Leisure"]
 tags: ["shakespeare", "king-lear", "fool", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Analysis of the Fool in King Lear - his riddles that cut deeper than counsel, his fierce loyalty, his mysterious vanishing, and his lasting role."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-70.webp"
 interpretation_time: 59
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2011-03-27
+lang: en
 ---
-
 He is the court jester whose license to speak uncomfortable honestys through the vehicle of jest and riddle provides [King Lear](/2011/02/17/king-lear-character-analysis-deep-dive/) with the only honest commentary on his catastrophic decision that the post-banishment court can still deliver, who appears after the opening ceremony has already produced the disinheritance of [Cordelia](/2011/02/22/cordelia-king-lear-character-analysis/) and the banishment of Kent, who accompanies his master through the progressive dispossession of the central acts and into the storm on the heath, whose songs and riddles and compressed wisdoms articulate what every other figure in Lear's company either cannot or will not say, who is one of the most devoted individuals in the tragedy despite occupying one of the lowest formal positions, whose relationship with the absent Cordelia is gestured at through the enigmatic observation that he has pined away since she went to France, and who vanishes from the tragedy after the third act without explanation, farewell, or resolution, leaving behind one of the most debated disappearances in the canon. The trajectory from arriving honesty-teller to vanishing shadow is one of the most compressed and mysterious arcs any figure traces across the Shakespearean canon.
 
-![The Fool Character Analysis - Truth-Teller in King Lear](/assets/images/blog/blog-04.webp)
+![The Fool Character Analysis - Truth-Teller in King Lear](/assets/images/blog/blog-70.webp)
 
 <!--more-->
 
@@ -163,7 +163,6 @@ In every case, the fifth facet involves the question of how the relationship bet
 By implication, the sixth facet involves the question of how compressed communication operates in comparison with elaborated communication. His riddles and songs deliver analytical content through forms that are shorter, more memorable, and more impactful than the elaborated analysis that longer forms would have produced. The effectiveness of compressed communication relative to elaborated communication is recognizable in many contemporary contexts where the relationship between length and impact is being examined.
 
 The seventh facet involves the play's attention to how the loss of honest voices reshapes the communicative landscape within which remaining figures must operate. His vanishing removes the last honest voice from Lear's immediate company, and the removal reshapes the conditions within which Lear's madness develops. The pattern of honest voices being removed from institutional contexts and the subsequent deterioration of the communicative quality within those contexts is recognizable in many contemporary situations where the departure of truth-telling figures produces the deterioration their presence had been preventing.
-
 
 
 Considered closely, the eighth facet of contemporary relevance concerns the recognition that the Fool's compressed communicative forms have become increasingly resonant in a cultural context that values brevity and impact. His riddles and songs accomplish in compressed form what elaborated analysis accomplishes through extended treatment, and the effectiveness of the compressed form relative to the elaborated form is part of what makes the characterization relevant to contemporary discussions about how communication operates in conditions where attention is limited and impact is valued. The compressed quality of his wisdom anticipates the communicative preferences that contemporary conditions have produced, with the concentrated delivery achieving effects that longer formats might have diluted.
