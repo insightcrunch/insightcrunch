@@ -9,7 +9,7 @@ excerpt: "Pre-med is not a major - it is a track. The SAT score you need depends
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 61
 author: "samantha-lee"
-last_updated: 1996-08-21
+last_updated: 2026-04-18
 lang: en
 ---
 Pre-med is not an undergraduate major. It is an intention - a track of coursework that can be completed within virtually any major at virtually any university. A student who wants to attend medical school can major in biology, biochemistry, English literature, philosophy, or computer science, as long as they complete the prerequisite coursework in biology, chemistry, organic chemistry, physics, biochemistry, math, and English that medical schools require.

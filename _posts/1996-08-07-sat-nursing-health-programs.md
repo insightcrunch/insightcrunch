@@ -9,7 +9,7 @@ excerpt: "Nursing, public health, and allied health programs are among the faste
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
 author: "daniel-morgan"
-last_updated: 1996-08-07
+last_updated: 2026-04-18
 lang: en
 ---
 Healthcare careers beyond medicine attract more undergraduate students than any other professional pathway, and the undergraduate programs that lead to these careers have become significantly more competitive over the past decade.

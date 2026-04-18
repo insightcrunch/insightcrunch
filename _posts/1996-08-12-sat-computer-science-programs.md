@@ -9,7 +9,7 @@ excerpt: "Computer science has become the most competitive undergraduate major a
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 59
 author: "jessica-kim"
-last_updated: 1996-08-12
+last_updated: 2026-04-18
 lang: en
 ---
 Computer science is no longer simply a popular major. It has become the most competitive undergraduate major at most selective universities in the United States, with acceptance rates that frequently run at one-third to one-half the overall university acceptance rate. At Carnegie Mellon, MIT, and Caltech, direct CS admission is among the most selective academic programs available anywhere in the world. At Georgia Tech, UIUC, and Cornell, the gap between overall university selectivity and CS-specific selectivity is equally striking.

@@ -9,7 +9,7 @@ excerpt: "Engineering admissions are among the most competitive in undergraduate
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
 author: "christopher-wells"
-last_updated: 1996-08-25
+last_updated: 2026-04-18
 lang: en
 ---
 Engineering is the most quantitatively demanding undergraduate discipline, and the admissions process reflects this directly. Among the top 25 engineering programs in the United States, SAT Math scores carry more weight than in almost any other field of undergraduate study. A student applying to MIT, Caltech, or Carnegie Mellon's engineering programs with a 780 Math and 680 Reading and Writing is often evaluated more favorably than one with a 720 Math and 740 Reading and Writing - because the Math section more directly predicts the quantitative performance that engineering coursework demands.

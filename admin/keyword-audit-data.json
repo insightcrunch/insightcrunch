@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T07:57:12Z",
-  "total_posts": 1577,
-  "flagged_posts": 71,
-  "clean_posts": 1506,
+  "generated": "2026-04-18T14:24:11Z",
+  "total_posts": 1599,
+  "flagged_posts": 72,
+  "clean_posts": 1527,
   "posts": [
     {
       "filename": "2024-03-04-gaokao-sjtu-admission-guide.md",
@@ -937,6 +937,30 @@
           "in_title": false,
           "in_page_title": false,
           "body_mentions": 4
+        }
+      ],
+      "critical_count": 0,
+      "warning_count": 1
+    },
+    {
+      "filename": "2024-06-24-gaokao-chemistry-reaction-principles.md",
+      "slug": "gaokao-chemistry-reaction-principles",
+      "url": "/2024/06/24/gaokao-chemistry-reaction-principles/",
+      "title": "高考反应原理完全指南 - 速率动力学、平衡体系、电化学基础知识全面解析",
+      "page_title": "高考反应原理专题 - 速率动力学研究、平衡体系移动、电化学原理深度解析与应试技巧",
+      "has_page_title": true,
+      "date": "2024-06-24",
+      "word_count": 294,
+      "issues": [
+        {
+          "keyword": "gaokao",
+          "type": "SLUG_KEYWORD_MISSING_FROM_PAGE_TITLE",
+          "severity": "warning",
+          "detail": "\"gaokao\" is in the URL slug but absent from the effective page title",
+          "in_slug": true,
+          "in_title": false,
+          "in_page_title": false,
+          "body_mentions": 2
         }
       ],
       "critical_count": 0,

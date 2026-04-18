@@ -9,7 +9,7 @@ excerpt: "Undergraduate business programs are among the fastest-growing sources 
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "jessica-kim"
-last_updated: 1996-08-16
+last_updated: 2026-04-18
 lang: en
 ---
 Undergraduate business education has become one of the most competitive admission categories in American higher learning. The combination of clear career outcomes, strong alumni networks, and the rise of quantitative finance, consulting, and technology management as aspirational career paths has concentrated an extraordinary volume of high-achieving applicants into a relatively small number of top programs. The result: Wharton, Ross, and Stern are now as difficult to gain admission to as many Ivy League programs that were once viewed as categorically more selective.

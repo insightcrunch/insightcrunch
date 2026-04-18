@@ -1,15 +1,877 @@
 {
-  "generated": "2026-04-17T07:57:18Z",
+  "generated": "2026-04-18T14:24:17Z",
   "threshold": 50,
-  "totalPosts": 1576,
-  "flaggedPosts": 1258,
+  "totalPosts": 1598,
+  "flaggedPosts": 1280,
   "suppressedPosts": 0,
   "stalePosts": 0,
   "worstWord": "available",
-  "worstCount": 1823,
-  "worstPost": "Colonialism and Racism in Heart of Darkness",
-  "avgTopCount": 235.2,
+  "worstCount": 1711,
+  "worstPost": "Isolation in Classic Novels Compared",
+  "avgTopCount": 224.6,
   "posts": [
+    {
+      "filename": "1996-08-07-sat-nursing-health-programs.md",
+      "slug": "sat-nursing-health-programs",
+      "title": "SAT Scores for Nursing, Public Health and Allied Health Programs",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8363,
+      "topWord": "nursing",
+      "topCount": 234,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-08-07-sat-nursing-health-programs.md",
+      "flaggedWords": [
+        {
+          "word": "nursing",
+          "count": 234
+        },
+        {
+          "word": "programs",
+          "count": 206
+        },
+        {
+          "word": "health",
+          "count": 164
+        },
+        {
+          "word": "students",
+          "count": 162
+        },
+        {
+          "word": "program",
+          "count": 136
+        },
+        {
+          "word": "healthcare",
+          "count": 132
+        },
+        {
+          "word": "clinical",
+          "count": 119
+        },
+        {
+          "word": "undergraduate",
+          "count": 99
+        },
+        {
+          "word": "career",
+          "count": 95
+        },
+        {
+          "word": "public",
+          "count": 84
+        },
+        {
+          "word": "pa",
+          "count": 83
+        },
+        {
+          "word": "sat",
+          "count": 75
+        },
+        {
+          "word": "preparation",
+          "count": 73
+        },
+        {
+          "word": "school",
+          "count": 70
+        },
+        {
+          "word": "practice",
+          "count": 58
+        },
+        {
+          "word": "specific",
+          "count": 55
+        },
+        {
+          "word": "bsn",
+          "count": 54
+        },
+        {
+          "word": "university",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "nursing",
+          "count": 234
+        },
+        {
+          "word": "programs",
+          "count": 206
+        },
+        {
+          "word": "health",
+          "count": 164
+        },
+        {
+          "word": "students",
+          "count": 162
+        },
+        {
+          "word": "program",
+          "count": 136
+        },
+        {
+          "word": "healthcare",
+          "count": 132
+        },
+        {
+          "word": "clinical",
+          "count": 119
+        },
+        {
+          "word": "undergraduate",
+          "count": 99
+        },
+        {
+          "word": "career",
+          "count": 95
+        },
+        {
+          "word": "public",
+          "count": 84
+        },
+        {
+          "word": "pa",
+          "count": 83
+        },
+        {
+          "word": "sat",
+          "count": 75
+        },
+        {
+          "word": "preparation",
+          "count": 73
+        },
+        {
+          "word": "school",
+          "count": 70
+        },
+        {
+          "word": "practice",
+          "count": 58
+        },
+        {
+          "word": "specific",
+          "count": 55
+        },
+        {
+          "word": "bsn",
+          "count": 54
+        },
+        {
+          "word": "university",
+          "count": 52
+        },
+        {
+          "word": "direct",
+          "count": 50
+        },
+        {
+          "word": "admission",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "filename": "1996-08-12-sat-computer-science-programs.md",
+      "slug": "sat-computer-science-programs",
+      "title": "SAT Scores for Computer Science Programs at Top Universities",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7691,
+      "topWord": "cs",
+      "topCount": 434,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-08-12-sat-computer-science-programs.md",
+      "flaggedWords": [
+        {
+          "word": "cs",
+          "count": 434
+        },
+        {
+          "word": "students",
+          "count": 167
+        },
+        {
+          "word": "programs",
+          "count": 141
+        },
+        {
+          "word": "preparation",
+          "count": 104
+        },
+        {
+          "word": "program",
+          "count": 88
+        },
+        {
+          "word": "specific",
+          "count": 87
+        },
+        {
+          "word": "competitive",
+          "count": 68
+        },
+        {
+          "word": "application",
+          "count": 68
+        },
+        {
+          "word": "math",
+          "count": 67
+        },
+        {
+          "word": "sat",
+          "count": 66
+        },
+        {
+          "word": "research",
+          "count": 61
+        },
+        {
+          "word": "admissions",
+          "count": 60
+        },
+        {
+          "word": "student",
+          "count": 60
+        },
+        {
+          "word": "genuine",
+          "count": 56
+        },
+        {
+          "word": "strong",
+          "count": 53
+        },
+        {
+          "word": "major",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "cs",
+          "count": 434
+        },
+        {
+          "word": "students",
+          "count": 167
+        },
+        {
+          "word": "programs",
+          "count": 141
+        },
+        {
+          "word": "preparation",
+          "count": 104
+        },
+        {
+          "word": "program",
+          "count": 88
+        },
+        {
+          "word": "specific",
+          "count": 87
+        },
+        {
+          "word": "competitive",
+          "count": 68
+        },
+        {
+          "word": "application",
+          "count": 68
+        },
+        {
+          "word": "math",
+          "count": 67
+        },
+        {
+          "word": "sat",
+          "count": 66
+        },
+        {
+          "word": "research",
+          "count": 61
+        },
+        {
+          "word": "admissions",
+          "count": 60
+        },
+        {
+          "word": "student",
+          "count": 60
+        },
+        {
+          "word": "genuine",
+          "count": 56
+        },
+        {
+          "word": "strong",
+          "count": 53
+        },
+        {
+          "word": "major",
+          "count": 52
+        },
+        {
+          "word": "school",
+          "count": 48
+        },
+        {
+          "word": "build",
+          "count": 48
+        },
+        {
+          "word": "admission",
+          "count": 43
+        },
+        {
+          "word": "cmu",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "1996-08-16-sat-business-programs-scores.md",
+      "slug": "sat-business-programs-scores",
+      "title": "SAT Scores for Business Schools: Wharton, Ross, Stern and More",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7980,
+      "topWord": "business",
+      "topCount": 413,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-08-16-sat-business-programs-scores.md",
+      "flaggedWords": [
+        {
+          "word": "business",
+          "count": 413
+        },
+        {
+          "word": "students",
+          "count": 160
+        },
+        {
+          "word": "program",
+          "count": 137
+        },
+        {
+          "word": "programs",
+          "count": 127
+        },
+        {
+          "word": "specific",
+          "count": 118
+        },
+        {
+          "word": "school",
+          "count": 107
+        },
+        {
+          "word": "sat",
+          "count": 97
+        },
+        {
+          "word": "career",
+          "count": 90
+        },
+        {
+          "word": "preparation",
+          "count": 90
+        },
+        {
+          "word": "application",
+          "count": 89
+        },
+        {
+          "word": "wharton",
+          "count": 87
+        },
+        {
+          "word": "math",
+          "count": 74
+        },
+        {
+          "word": "quantitative",
+          "count": 67
+        },
+        {
+          "word": "strong",
+          "count": 65
+        },
+        {
+          "word": "admissions",
+          "count": 63
+        },
+        {
+          "word": "finance",
+          "count": 61
+        },
+        {
+          "word": "undergraduate",
+          "count": 56
+        },
+        {
+          "word": "student",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "business",
+          "count": 413
+        },
+        {
+          "word": "students",
+          "count": 160
+        },
+        {
+          "word": "program",
+          "count": 137
+        },
+        {
+          "word": "programs",
+          "count": 127
+        },
+        {
+          "word": "specific",
+          "count": 118
+        },
+        {
+          "word": "school",
+          "count": 107
+        },
+        {
+          "word": "sat",
+          "count": 97
+        },
+        {
+          "word": "career",
+          "count": 90
+        },
+        {
+          "word": "preparation",
+          "count": 90
+        },
+        {
+          "word": "application",
+          "count": 89
+        },
+        {
+          "word": "wharton",
+          "count": 87
+        },
+        {
+          "word": "math",
+          "count": 74
+        },
+        {
+          "word": "quantitative",
+          "count": 67
+        },
+        {
+          "word": "strong",
+          "count": 65
+        },
+        {
+          "word": "admissions",
+          "count": 63
+        },
+        {
+          "word": "finance",
+          "count": 61
+        },
+        {
+          "word": "undergraduate",
+          "count": 56
+        },
+        {
+          "word": "student",
+          "count": 56
+        },
+        {
+          "word": "education",
+          "count": 49
+        },
+        {
+          "word": "genuine",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "filename": "1996-08-21-sat-premed-science-scores.md",
+      "slug": "sat-premed-science-scores",
+      "title": "SAT Scores for Pre-Med and Science Programs: The Complete Admissions Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8462,
+      "topWord": "pre",
+      "topCount": 284,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-08-21-sat-premed-science-scores.md",
+      "flaggedWords": [
+        {
+          "word": "pre",
+          "count": 284
+        },
+        {
+          "word": "med",
+          "count": 284
+        },
+        {
+          "word": "medical",
+          "count": 220
+        },
+        {
+          "word": "students",
+          "count": 204
+        },
+        {
+          "word": "school",
+          "count": 156
+        },
+        {
+          "word": "research",
+          "count": 144
+        },
+        {
+          "word": "university",
+          "count": 136
+        },
+        {
+          "word": "preparation",
+          "count": 114
+        },
+        {
+          "word": "sat",
+          "count": 106
+        },
+        {
+          "word": "undergraduate",
+          "count": 90
+        },
+        {
+          "word": "clinical",
+          "count": 82
+        },
+        {
+          "word": "universities",
+          "count": 81
+        },
+        {
+          "word": "programs",
+          "count": 79
+        },
+        {
+          "word": "student",
+          "count": 68
+        },
+        {
+          "word": "science",
+          "count": 67
+        },
+        {
+          "word": "gpa",
+          "count": 61
+        },
+        {
+          "word": "application",
+          "count": 55
+        },
+        {
+          "word": "medicine",
+          "count": 53
+        },
+        {
+          "word": "strong",
+          "count": 52
+        },
+        {
+          "word": "competitive",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "pre",
+          "count": 284
+        },
+        {
+          "word": "med",
+          "count": 284
+        },
+        {
+          "word": "medical",
+          "count": 220
+        },
+        {
+          "word": "students",
+          "count": 204
+        },
+        {
+          "word": "school",
+          "count": 156
+        },
+        {
+          "word": "research",
+          "count": 144
+        },
+        {
+          "word": "university",
+          "count": 136
+        },
+        {
+          "word": "preparation",
+          "count": 114
+        },
+        {
+          "word": "sat",
+          "count": 106
+        },
+        {
+          "word": "undergraduate",
+          "count": 90
+        },
+        {
+          "word": "clinical",
+          "count": 82
+        },
+        {
+          "word": "universities",
+          "count": 81
+        },
+        {
+          "word": "programs",
+          "count": 79
+        },
+        {
+          "word": "student",
+          "count": 68
+        },
+        {
+          "word": "science",
+          "count": 67
+        },
+        {
+          "word": "gpa",
+          "count": 61
+        },
+        {
+          "word": "application",
+          "count": 55
+        },
+        {
+          "word": "medicine",
+          "count": 53
+        },
+        {
+          "word": "strong",
+          "count": 52
+        },
+        {
+          "word": "competitive",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "filename": "1996-08-25-sat-engineering-programs-scores.md",
+      "slug": "sat-engineering-programs-scores",
+      "title": "SAT Scores for Engineering Programs at Top 25 Schools",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8079,
+      "topWord": "engineering",
+      "topCount": 398,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/1996-08-25-sat-engineering-programs-scores.md",
+      "flaggedWords": [
+        {
+          "word": "engineering",
+          "count": 398
+        },
+        {
+          "word": "math",
+          "count": 156
+        },
+        {
+          "word": "students",
+          "count": 150
+        },
+        {
+          "word": "programs",
+          "count": 148
+        },
+        {
+          "word": "cs",
+          "count": 95
+        },
+        {
+          "word": "program",
+          "count": 90
+        },
+        {
+          "word": "sat",
+          "count": 86
+        },
+        {
+          "word": "preparation",
+          "count": 84
+        },
+        {
+          "word": "student",
+          "count": 81
+        },
+        {
+          "word": "score",
+          "count": 80
+        },
+        {
+          "word": "admissions",
+          "count": 72
+        },
+        {
+          "word": "ap",
+          "count": 66
+        },
+        {
+          "word": "application",
+          "count": 58
+        },
+        {
+          "word": "research",
+          "count": 58
+        },
+        {
+          "word": "competitive",
+          "count": 55
+        },
+        {
+          "word": "specific",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "engineering",
+          "count": 398
+        },
+        {
+          "word": "math",
+          "count": 156
+        },
+        {
+          "word": "students",
+          "count": 150
+        },
+        {
+          "word": "programs",
+          "count": 148
+        },
+        {
+          "word": "cs",
+          "count": 95
+        },
+        {
+          "word": "program",
+          "count": 90
+        },
+        {
+          "word": "sat",
+          "count": 86
+        },
+        {
+          "word": "preparation",
+          "count": 84
+        },
+        {
+          "word": "student",
+          "count": 81
+        },
+        {
+          "word": "score",
+          "count": 80
+        },
+        {
+          "word": "admissions",
+          "count": 72
+        },
+        {
+          "word": "ap",
+          "count": 66
+        },
+        {
+          "word": "application",
+          "count": 58
+        },
+        {
+          "word": "research",
+          "count": 58
+        },
+        {
+          "word": "competitive",
+          "count": 55
+        },
+        {
+          "word": "specific",
+          "count": 55
+        },
+        {
+          "word": "scores",
+          "count": 48
+        },
+        {
+          "word": "strong",
+          "count": 48
+        },
+        {
+          "word": "tech",
+          "count": 47
+        },
+        {
+          "word": "schools",
+          "count": 47
+        }
+      ]
+    },
     {
       "filename": "1996-08-30-sat-uc-system-scores.md",
       "slug": "sat-uc-system-scores",
@@ -13453,6 +14315,1442 @@
         {
           "word": "correct",
           "count": 44
+        }
+      ]
+    },
+    {
+      "filename": "2002-05-27-upsc-history-optional-complete-guide.md",
+      "slug": "upsc-history-optional-complete-guide",
+      "title": "UPSC Optional History Complete Guide for 300 Plus",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10395,
+      "topWord": "history",
+      "topCount": 291,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-05-27-upsc-history-optional-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "history",
+          "count": 291
+        },
+        {
+          "word": "optional",
+          "count": 199
+        },
+        {
+          "word": "preparation",
+          "count": 166
+        },
+        {
+          "word": "analytical",
+          "count": 156
+        },
+        {
+          "word": "paper",
+          "count": 95
+        },
+        {
+          "word": "historiographical",
+          "count": 82
+        },
+        {
+          "word": "india",
+          "count": 81
+        },
+        {
+          "word": "analysis",
+          "count": 75
+        },
+        {
+          "word": "engagement",
+          "count": 73
+        },
+        {
+          "word": "historical",
+          "count": 67
+        },
+        {
+          "word": "examination",
+          "count": 67
+        },
+        {
+          "word": "hours",
+          "count": 63
+        },
+        {
+          "word": "marks",
+          "count": 61
+        },
+        {
+          "word": "source",
+          "count": 60
+        },
+        {
+          "word": "approximately",
+          "count": 59
+        },
+        {
+          "word": "economic",
+          "count": 58
+        },
+        {
+          "word": "answer",
+          "count": 56
+        },
+        {
+          "word": "awareness",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 55
+        },
+        {
+          "word": "section",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "history",
+          "count": 291
+        },
+        {
+          "word": "optional",
+          "count": 199
+        },
+        {
+          "word": "preparation",
+          "count": 166
+        },
+        {
+          "word": "analytical",
+          "count": 156
+        },
+        {
+          "word": "paper",
+          "count": 95
+        },
+        {
+          "word": "historiographical",
+          "count": 82
+        },
+        {
+          "word": "india",
+          "count": 81
+        },
+        {
+          "word": "analysis",
+          "count": 75
+        },
+        {
+          "word": "engagement",
+          "count": 73
+        },
+        {
+          "word": "historical",
+          "count": 67
+        },
+        {
+          "word": "examination",
+          "count": 67
+        },
+        {
+          "word": "hours",
+          "count": 63
+        },
+        {
+          "word": "marks",
+          "count": 61
+        },
+        {
+          "word": "source",
+          "count": 60
+        },
+        {
+          "word": "approximately",
+          "count": 59
+        },
+        {
+          "word": "economic",
+          "count": 58
+        },
+        {
+          "word": "answer",
+          "count": 56
+        },
+        {
+          "word": "awareness",
+          "count": 55
+        },
+        {
+          "word": "reading",
+          "count": 55
+        },
+        {
+          "word": "section",
+          "count": 54
+        }
+      ]
+    },
+    {
+      "filename": "2002-05-31-upsc-geography-optional-map-work.md",
+      "slug": "upsc-geography-optional-map-work",
+      "title": "UPSC Geography Optional Map Work and Scoring Strategy",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10033,
+      "topWord": "map",
+      "topCount": 303,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-05-31-upsc-geography-optional-map-work.md",
+      "flaggedWords": [
+        {
+          "word": "map",
+          "count": 303
+        },
+        {
+          "word": "diagram",
+          "count": 214
+        },
+        {
+          "word": "practice",
+          "count": 169
+        },
+        {
+          "word": "geography",
+          "count": 136
+        },
+        {
+          "word": "paper",
+          "count": 134
+        },
+        {
+          "word": "marks",
+          "count": 120
+        },
+        {
+          "word": "visual",
+          "count": 97
+        },
+        {
+          "word": "preparation",
+          "count": 96
+        },
+        {
+          "word": "optional",
+          "count": 87
+        },
+        {
+          "word": "section",
+          "count": 84
+        },
+        {
+          "word": "scoring",
+          "count": 81
+        },
+        {
+          "word": "capability",
+          "count": 71
+        },
+        {
+          "word": "features",
+          "count": 71
+        },
+        {
+          "word": "plus",
+          "count": 70
+        },
+        {
+          "word": "examination",
+          "count": 69
+        },
+        {
+          "word": "diagrams",
+          "count": 66
+        },
+        {
+          "word": "approximately",
+          "count": 61
+        },
+        {
+          "word": "cross",
+          "count": 61
+        },
+        {
+          "word": "competence",
+          "count": 57
+        },
+        {
+          "word": "spatial",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "map",
+          "count": 303
+        },
+        {
+          "word": "diagram",
+          "count": 214
+        },
+        {
+          "word": "practice",
+          "count": 169
+        },
+        {
+          "word": "geography",
+          "count": 136
+        },
+        {
+          "word": "paper",
+          "count": 134
+        },
+        {
+          "word": "marks",
+          "count": 120
+        },
+        {
+          "word": "visual",
+          "count": 97
+        },
+        {
+          "word": "preparation",
+          "count": 96
+        },
+        {
+          "word": "optional",
+          "count": 87
+        },
+        {
+          "word": "section",
+          "count": 84
+        },
+        {
+          "word": "scoring",
+          "count": 81
+        },
+        {
+          "word": "capability",
+          "count": 71
+        },
+        {
+          "word": "features",
+          "count": 71
+        },
+        {
+          "word": "plus",
+          "count": 70
+        },
+        {
+          "word": "examination",
+          "count": 69
+        },
+        {
+          "word": "diagrams",
+          "count": 66
+        },
+        {
+          "word": "approximately",
+          "count": 61
+        },
+        {
+          "word": "cross",
+          "count": 61
+        },
+        {
+          "word": "competence",
+          "count": 57
+        },
+        {
+          "word": "spatial",
+          "count": 52
+        }
+      ]
+    },
+    {
+      "filename": "2002-06-05-upsc-geography-optional-paper-2.md",
+      "slug": "upsc-geography-optional-paper-2",
+      "title": "UPSC Geography Optional Paper 2 Human and Indian Geography",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10940,
+      "topWord": "geography",
+      "topCount": 359,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-05-upsc-geography-optional-paper-2.md",
+      "flaggedWords": [
+        {
+          "word": "geography",
+          "count": 359
+        },
+        {
+          "word": "indian",
+          "count": 209
+        },
+        {
+          "word": "paper",
+          "count": 179
+        },
+        {
+          "word": "analysis",
+          "count": 159
+        },
+        {
+          "word": "model",
+          "count": 138
+        },
+        {
+          "word": "data",
+          "count": 113
+        },
+        {
+          "word": "map",
+          "count": 100
+        },
+        {
+          "word": "preparation",
+          "count": 85
+        },
+        {
+          "word": "development",
+          "count": 84
+        },
+        {
+          "word": "contemporary",
+          "count": 72
+        },
+        {
+          "word": "analytical",
+          "count": 65
+        },
+        {
+          "word": "industrial",
+          "count": 65
+        },
+        {
+          "word": "integration",
+          "count": 60
+        },
+        {
+          "word": "examination",
+          "count": 56
+        },
+        {
+          "word": "distribution",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "geography",
+          "count": 359
+        },
+        {
+          "word": "indian",
+          "count": 209
+        },
+        {
+          "word": "paper",
+          "count": 179
+        },
+        {
+          "word": "analysis",
+          "count": 159
+        },
+        {
+          "word": "model",
+          "count": 138
+        },
+        {
+          "word": "data",
+          "count": 113
+        },
+        {
+          "word": "map",
+          "count": 100
+        },
+        {
+          "word": "preparation",
+          "count": 85
+        },
+        {
+          "word": "development",
+          "count": 84
+        },
+        {
+          "word": "contemporary",
+          "count": 72
+        },
+        {
+          "word": "analytical",
+          "count": 65
+        },
+        {
+          "word": "industrial",
+          "count": 65
+        },
+        {
+          "word": "integration",
+          "count": 60
+        },
+        {
+          "word": "examination",
+          "count": 56
+        },
+        {
+          "word": "distribution",
+          "count": 54
+        },
+        {
+          "word": "agricultural",
+          "count": 48
+        },
+        {
+          "word": "regional",
+          "count": 48
+        },
+        {
+          "word": "application",
+          "count": 47
+        },
+        {
+          "word": "policy",
+          "count": 47
+        },
+        {
+          "word": "practice",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "filename": "2002-06-09-upsc-geography-optional-paper-1.md",
+      "slug": "upsc-geography-optional-paper-1",
+      "title": "UPSC Geography Optional Paper 1 Physical Geography",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10771,
+      "topWord": "paper",
+      "topCount": 215,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-09-upsc-geography-optional-paper-1.md",
+      "flaggedWords": [
+        {
+          "word": "paper",
+          "count": 215
+        },
+        {
+          "word": "diagram",
+          "count": 194
+        },
+        {
+          "word": "geography",
+          "count": 159
+        },
+        {
+          "word": "preparation",
+          "count": 133
+        },
+        {
+          "word": "environmental",
+          "count": 95
+        },
+        {
+          "word": "examination",
+          "count": 88
+        },
+        {
+          "word": "section",
+          "count": 82
+        },
+        {
+          "word": "geomorphology",
+          "count": 82
+        },
+        {
+          "word": "process",
+          "count": 77
+        },
+        {
+          "word": "marks",
+          "count": 69
+        },
+        {
+          "word": "practice",
+          "count": 69
+        },
+        {
+          "word": "understanding",
+          "count": 66
+        },
+        {
+          "word": "diagrams",
+          "count": 60
+        },
+        {
+          "word": "analysis",
+          "count": 58
+        },
+        {
+          "word": "climate",
+          "count": 58
+        },
+        {
+          "word": "capability",
+          "count": 57
+        },
+        {
+          "word": "climatology",
+          "count": 57
+        },
+        {
+          "word": "development",
+          "count": 55
+        },
+        {
+          "word": "physical",
+          "count": 54
+        },
+        {
+          "word": "ocean",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "paper",
+          "count": 215
+        },
+        {
+          "word": "diagram",
+          "count": 194
+        },
+        {
+          "word": "geography",
+          "count": 159
+        },
+        {
+          "word": "preparation",
+          "count": 133
+        },
+        {
+          "word": "environmental",
+          "count": 95
+        },
+        {
+          "word": "examination",
+          "count": 88
+        },
+        {
+          "word": "section",
+          "count": 82
+        },
+        {
+          "word": "geomorphology",
+          "count": 82
+        },
+        {
+          "word": "process",
+          "count": 77
+        },
+        {
+          "word": "marks",
+          "count": 69
+        },
+        {
+          "word": "practice",
+          "count": 69
+        },
+        {
+          "word": "understanding",
+          "count": 66
+        },
+        {
+          "word": "diagrams",
+          "count": 60
+        },
+        {
+          "word": "analysis",
+          "count": 58
+        },
+        {
+          "word": "climate",
+          "count": 58
+        },
+        {
+          "word": "capability",
+          "count": 57
+        },
+        {
+          "word": "climatology",
+          "count": 57
+        },
+        {
+          "word": "development",
+          "count": 55
+        },
+        {
+          "word": "physical",
+          "count": 54
+        },
+        {
+          "word": "ocean",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "filename": "2002-06-14-upsc-geography-optional-complete-guide.md",
+      "slug": "upsc-geography-optional-complete-guide",
+      "title": "UPSC Optional Geography Complete Guide for 300 Plus",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10375,
+      "topWord": "geography",
+      "topCount": 399,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-14-upsc-geography-optional-complete-guide.md",
+      "flaggedWords": [
+        {
+          "word": "geography",
+          "count": 399
+        },
+        {
+          "word": "optional",
+          "count": 214
+        },
+        {
+          "word": "diagram",
+          "count": 180
+        },
+        {
+          "word": "preparation",
+          "count": 168
+        },
+        {
+          "word": "paper",
+          "count": 158
+        },
+        {
+          "word": "map",
+          "count": 124
+        },
+        {
+          "word": "indian",
+          "count": 96
+        },
+        {
+          "word": "examination",
+          "count": 91
+        },
+        {
+          "word": "marks",
+          "count": 84
+        },
+        {
+          "word": "practice",
+          "count": 84
+        },
+        {
+          "word": "diagrams",
+          "count": 83
+        },
+        {
+          "word": "section",
+          "count": 77
+        },
+        {
+          "word": "content",
+          "count": 74
+        },
+        {
+          "word": "capability",
+          "count": 73
+        },
+        {
+          "word": "gs",
+          "count": 72
+        },
+        {
+          "word": "contemporary",
+          "count": 69
+        },
+        {
+          "word": "depth",
+          "count": 68
+        },
+        {
+          "word": "environmental",
+          "count": 68
+        },
+        {
+          "word": "plus",
+          "count": 67
+        },
+        {
+          "word": "answer",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "geography",
+          "count": 399
+        },
+        {
+          "word": "optional",
+          "count": 214
+        },
+        {
+          "word": "diagram",
+          "count": 180
+        },
+        {
+          "word": "preparation",
+          "count": 168
+        },
+        {
+          "word": "paper",
+          "count": 158
+        },
+        {
+          "word": "map",
+          "count": 124
+        },
+        {
+          "word": "indian",
+          "count": 96
+        },
+        {
+          "word": "examination",
+          "count": 91
+        },
+        {
+          "word": "marks",
+          "count": 84
+        },
+        {
+          "word": "practice",
+          "count": 84
+        },
+        {
+          "word": "diagrams",
+          "count": 83
+        },
+        {
+          "word": "section",
+          "count": 77
+        },
+        {
+          "word": "content",
+          "count": 74
+        },
+        {
+          "word": "capability",
+          "count": 73
+        },
+        {
+          "word": "gs",
+          "count": 72
+        },
+        {
+          "word": "contemporary",
+          "count": 69
+        },
+        {
+          "word": "depth",
+          "count": 68
+        },
+        {
+          "word": "environmental",
+          "count": 68
+        },
+        {
+          "word": "plus",
+          "count": 67
+        },
+        {
+          "word": "answer",
+          "count": 65
+        }
+      ]
+    },
+    {
+      "filename": "2002-06-18-upsc-mains-common-mistakes.md",
+      "slug": "upsc-mains-common-mistakes",
+      "title": "UPSC Mains Common Mistakes That Cost 50 Plus Marks",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9796,
+      "topWord": "mistake",
+      "topCount": 395,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-18-upsc-mains-common-mistakes.md",
+      "flaggedWords": [
+        {
+          "word": "mistake",
+          "count": 395
+        },
+        {
+          "word": "marks",
+          "count": 241
+        },
+        {
+          "word": "elimination",
+          "count": 200
+        },
+        {
+          "word": "practice",
+          "count": 174
+        },
+        {
+          "word": "mistakes",
+          "count": 138
+        },
+        {
+          "word": "paper",
+          "count": 133
+        },
+        {
+          "word": "answer",
+          "count": 125
+        },
+        {
+          "word": "content",
+          "count": 116
+        },
+        {
+          "word": "preparation",
+          "count": 107
+        },
+        {
+          "word": "examination",
+          "count": 102
+        },
+        {
+          "word": "answers",
+          "count": 95
+        },
+        {
+          "word": "question",
+          "count": 90
+        },
+        {
+          "word": "writing",
+          "count": 86
+        },
+        {
+          "word": "gs",
+          "count": 85
+        },
+        {
+          "word": "questions",
+          "count": 76
+        },
+        {
+          "word": "specific",
+          "count": 74
+        },
+        {
+          "word": "quality",
+          "count": 66
+        },
+        {
+          "word": "discipline",
+          "count": 54
+        },
+        {
+          "word": "optional",
+          "count": 53
+        },
+        {
+          "word": "improvement",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "mistake",
+          "count": 395
+        },
+        {
+          "word": "marks",
+          "count": 241
+        },
+        {
+          "word": "elimination",
+          "count": 200
+        },
+        {
+          "word": "practice",
+          "count": 174
+        },
+        {
+          "word": "mistakes",
+          "count": 138
+        },
+        {
+          "word": "paper",
+          "count": 133
+        },
+        {
+          "word": "answer",
+          "count": 125
+        },
+        {
+          "word": "content",
+          "count": 116
+        },
+        {
+          "word": "preparation",
+          "count": 107
+        },
+        {
+          "word": "examination",
+          "count": 102
+        },
+        {
+          "word": "answers",
+          "count": 95
+        },
+        {
+          "word": "question",
+          "count": 90
+        },
+        {
+          "word": "writing",
+          "count": 86
+        },
+        {
+          "word": "gs",
+          "count": 85
+        },
+        {
+          "word": "questions",
+          "count": 76
+        },
+        {
+          "word": "specific",
+          "count": 74
+        },
+        {
+          "word": "quality",
+          "count": 66
+        },
+        {
+          "word": "discipline",
+          "count": 54
+        },
+        {
+          "word": "optional",
+          "count": 53
+        },
+        {
+          "word": "improvement",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "filename": "2002-06-23-upsc-mains-exam-day.md",
+      "slug": "upsc-mains-exam-day",
+      "title": "UPSC Mains Exam Day Paper by Paper Approach",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10138,
+      "topWord": "examination",
+      "topCount": 478,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-23-upsc-mains-exam-day.md",
+      "flaggedWords": [
+        {
+          "word": "examination",
+          "count": 478
+        },
+        {
+          "word": "paper",
+          "count": 252
+        },
+        {
+          "word": "preparation",
+          "count": 141
+        },
+        {
+          "word": "management",
+          "count": 135
+        },
+        {
+          "word": "performance",
+          "count": 109
+        },
+        {
+          "word": "recovery",
+          "count": 89
+        },
+        {
+          "word": "papers",
+          "count": 84
+        },
+        {
+          "word": "gs",
+          "count": 81
+        },
+        {
+          "word": "questions",
+          "count": 77
+        },
+        {
+          "word": "cognitive",
+          "count": 71
+        },
+        {
+          "word": "discipline",
+          "count": 70
+        },
+        {
+          "word": "morning",
+          "count": 67
+        },
+        {
+          "word": "physical",
+          "count": 66
+        },
+        {
+          "word": "answer",
+          "count": 64
+        },
+        {
+          "word": "sleep",
+          "count": 63
+        },
+        {
+          "word": "post",
+          "count": 62
+        },
+        {
+          "word": "approach",
+          "count": 61
+        },
+        {
+          "word": "sustained",
+          "count": 60
+        },
+        {
+          "word": "writing",
+          "count": 55
+        },
+        {
+          "word": "quality",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "examination",
+          "count": 478
+        },
+        {
+          "word": "paper",
+          "count": 252
+        },
+        {
+          "word": "preparation",
+          "count": 141
+        },
+        {
+          "word": "management",
+          "count": 135
+        },
+        {
+          "word": "performance",
+          "count": 109
+        },
+        {
+          "word": "recovery",
+          "count": 89
+        },
+        {
+          "word": "papers",
+          "count": 84
+        },
+        {
+          "word": "gs",
+          "count": 81
+        },
+        {
+          "word": "questions",
+          "count": 77
+        },
+        {
+          "word": "cognitive",
+          "count": 71
+        },
+        {
+          "word": "discipline",
+          "count": 70
+        },
+        {
+          "word": "morning",
+          "count": 67
+        },
+        {
+          "word": "physical",
+          "count": 66
+        },
+        {
+          "word": "answer",
+          "count": 64
+        },
+        {
+          "word": "sleep",
+          "count": 63
+        },
+        {
+          "word": "post",
+          "count": 62
+        },
+        {
+          "word": "approach",
+          "count": 61
+        },
+        {
+          "word": "sustained",
+          "count": 60
+        },
+        {
+          "word": "writing",
+          "count": 55
+        },
+        {
+          "word": "quality",
+          "count": 54
+        }
+      ]
+    },
+    {
+      "filename": "2002-06-27-upsc-mains-last-60-days-strategy.md",
+      "slug": "upsc-mains-last-60-days-strategy",
+      "title": "UPSC Mains Last 60 Days Strategy",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10029,
+      "topWord": "final",
+      "topCount": 340,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-27-upsc-mains-last-60-days-strategy.md",
+      "flaggedWords": [
+        {
+          "word": "final",
+          "count": 340
+        },
+        {
+          "word": "preparation",
+          "count": 286
+        },
+        {
+          "word": "examination",
+          "count": 281
+        },
+        {
+          "word": "phase",
+          "count": 277
+        },
+        {
+          "word": "mock",
+          "count": 190
+        },
+        {
+          "word": "revision",
+          "count": 186
+        },
+        {
+          "word": "review",
+          "count": 136
+        },
+        {
+          "word": "practice",
+          "count": 120
+        },
+        {
+          "word": "gs",
+          "count": 95
+        },
+        {
+          "word": "paper",
+          "count": 94
+        },
+        {
+          "word": "capability",
+          "count": 82
+        },
+        {
+          "word": "essay",
+          "count": 75
+        },
+        {
+          "word": "writing",
+          "count": 74
+        },
+        {
+          "word": "systematic",
+          "count": 73
+        },
+        {
+          "word": "current",
+          "count": 70
+        },
+        {
+          "word": "affairs",
+          "count": 68
+        },
+        {
+          "word": "content",
+          "count": 66
+        },
+        {
+          "word": "management",
+          "count": 62
+        },
+        {
+          "word": "topic",
+          "count": 61
+        },
+        {
+          "word": "hours",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "final",
+          "count": 340
+        },
+        {
+          "word": "preparation",
+          "count": 286
+        },
+        {
+          "word": "examination",
+          "count": 281
+        },
+        {
+          "word": "phase",
+          "count": 277
+        },
+        {
+          "word": "mock",
+          "count": 190
+        },
+        {
+          "word": "revision",
+          "count": 186
+        },
+        {
+          "word": "review",
+          "count": 136
+        },
+        {
+          "word": "practice",
+          "count": 120
+        },
+        {
+          "word": "gs",
+          "count": 95
+        },
+        {
+          "word": "paper",
+          "count": 94
+        },
+        {
+          "word": "capability",
+          "count": 82
+        },
+        {
+          "word": "essay",
+          "count": 75
+        },
+        {
+          "word": "writing",
+          "count": 74
+        },
+        {
+          "word": "systematic",
+          "count": 73
+        },
+        {
+          "word": "current",
+          "count": 70
+        },
+        {
+          "word": "affairs",
+          "count": 68
+        },
+        {
+          "word": "content",
+          "count": 66
+        },
+        {
+          "word": "management",
+          "count": 62
+        },
+        {
+          "word": "topic",
+          "count": 61
+        },
+        {
+          "word": "hours",
+          "count": 60
         }
       ]
     },
@@ -40845,6 +43143,120 @@
       ]
     },
     {
+      "filename": "2011-02-17-king-lear-character-analysis-deep-dive.md",
+      "slug": "king-lear-character-analysis-deep-dive",
+      "title": "King Lear Character Analysis - Shakespeare's Foolish Monarch",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6832,
+      "topWord": "lear",
+      "topCount": 133,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-17-king-lear-character-analysis-deep-dive.md",
+      "flaggedWords": [
+        {
+          "word": "lear",
+          "count": 133
+        },
+        {
+          "word": "cordelia",
+          "count": 58
+        },
+        {
+          "word": "whose",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "lear",
+          "count": 133
+        },
+        {
+          "word": "cordelia",
+          "count": 58
+        },
+        {
+          "word": "whose",
+          "count": 55
+        },
+        {
+          "word": "precise",
+          "count": 50
+        },
+        {
+          "word": "authority",
+          "count": 50
+        },
+        {
+          "word": "produced",
+          "count": 49
+        },
+        {
+          "word": "drama",
+          "count": 49
+        },
+        {
+          "word": "specific",
+          "count": 49
+        },
+        {
+          "word": "involves",
+          "count": 47
+        },
+        {
+          "word": "moral",
+          "count": 45
+        },
+        {
+          "word": "produce",
+          "count": 43
+        },
+        {
+          "word": "distinct",
+          "count": 41
+        },
+        {
+          "word": "scene",
+          "count": 40
+        },
+        {
+          "word": "produces",
+          "count": 40
+        },
+        {
+          "word": "closing",
+          "count": 39
+        },
+        {
+          "word": "opening",
+          "count": 38
+        },
+        {
+          "word": "political",
+          "count": 35
+        },
+        {
+          "word": "reading",
+          "count": 35
+        },
+        {
+          "word": "storm",
+          "count": 34
+        },
+        {
+          "word": "daughters",
+          "count": 33
+        }
+      ]
+    },
+    {
       "filename": "2011-02-19-tcs-2011-batch-community.md",
       "slug": "tcs-2011-batch-community",
       "title": "TCS Batch Community and Networking",
@@ -40987,6 +43399,690 @@
       ]
     },
     {
+      "filename": "2011-02-22-cordelia-king-lear-character-analysis.md",
+      "slug": "cordelia-king-lear-character-analysis",
+      "title": "Cordelia Character Analysis in Shakespeare's King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6788,
+      "topWord": "cordelia",
+      "topCount": 121,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-22-cordelia-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "cordelia",
+          "count": 121
+        }
+      ],
+      "top20": [
+        {
+          "word": "cordelia",
+          "count": 121
+        },
+        {
+          "word": "whose",
+          "count": 50
+        },
+        {
+          "word": "love",
+          "count": 50
+        },
+        {
+          "word": "return",
+          "count": 50
+        },
+        {
+          "word": "honest",
+          "count": 50
+        },
+        {
+          "word": "structural",
+          "count": 50
+        },
+        {
+          "word": "involves",
+          "count": 50
+        },
+        {
+          "word": "execution",
+          "count": 50
+        },
+        {
+          "word": "produces",
+          "count": 50
+        },
+        {
+          "word": "moral",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "military",
+          "count": 50
+        },
+        {
+          "word": "refusal",
+          "count": 47
+        },
+        {
+          "word": "opening",
+          "count": 47
+        },
+        {
+          "word": "father",
+          "count": 46
+        },
+        {
+          "word": "absence",
+          "count": 46
+        },
+        {
+          "word": "audience",
+          "count": 43
+        },
+        {
+          "word": "dimension",
+          "count": 42
+        },
+        {
+          "word": "lear",
+          "count": 41
+        },
+        {
+          "word": "political",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "filename": "2011-02-28-edmund-king-lear-character-analysis.md",
+      "slug": "edmund-king-lear-character-analysis",
+      "title": "Edmund Character Analysis - The Bastard Son in King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7120,
+      "topWord": "edmund",
+      "topCount": 167,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-02-28-edmund-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "edmund",
+          "count": 167
+        },
+        {
+          "word": "whose",
+          "count": 71
+        },
+        {
+          "word": "edgar",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "edmund",
+          "count": 167
+        },
+        {
+          "word": "whose",
+          "count": 71
+        },
+        {
+          "word": "edgar",
+          "count": 51
+        },
+        {
+          "word": "campaign",
+          "count": 50
+        },
+        {
+          "word": "political",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "involves",
+          "count": 50
+        },
+        {
+          "word": "gloucester",
+          "count": 49
+        },
+        {
+          "word": "legitimate",
+          "count": 49
+        },
+        {
+          "word": "reversal",
+          "count": 49
+        },
+        {
+          "word": "nature",
+          "count": 47
+        },
+        {
+          "word": "figures",
+          "count": 47
+        },
+        {
+          "word": "tragedy",
+          "count": 47
+        },
+        {
+          "word": "social",
+          "count": 44
+        },
+        {
+          "word": "dimension",
+          "count": 44
+        },
+        {
+          "word": "philosophical",
+          "count": 43
+        },
+        {
+          "word": "genuine",
+          "count": 43
+        },
+        {
+          "word": "moral",
+          "count": 40
+        },
+        {
+          "word": "characterization",
+          "count": 38
+        },
+        {
+          "word": "question",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2011-03-05-edgar-king-lear-character-analysis.md",
+      "slug": "edgar-king-lear-character-analysis",
+      "title": "Edgar Character Analysis - Transformation in King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7086,
+      "topWord": "edgar",
+      "topCount": 150,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-05-edgar-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "edgar",
+          "count": 150
+        },
+        {
+          "word": "whose",
+          "count": 57
+        },
+        {
+          "word": "figure",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "edgar",
+          "count": 150
+        },
+        {
+          "word": "whose",
+          "count": 57
+        },
+        {
+          "word": "figure",
+          "count": 51
+        },
+        {
+          "word": "identity",
+          "count": 50
+        },
+        {
+          "word": "transformation",
+          "count": 50
+        },
+        {
+          "word": "closing",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "concealment",
+          "count": 50
+        },
+        {
+          "word": "disguise",
+          "count": 50
+        },
+        {
+          "word": "involves",
+          "count": 50
+        },
+        {
+          "word": "conditions",
+          "count": 49
+        },
+        {
+          "word": "tragedy",
+          "count": 44
+        },
+        {
+          "word": "sustained",
+          "count": 44
+        },
+        {
+          "word": "question",
+          "count": 43
+        },
+        {
+          "word": "gloucester",
+          "count": 42
+        },
+        {
+          "word": "experience",
+          "count": 41
+        },
+        {
+          "word": "produces",
+          "count": 39
+        },
+        {
+          "word": "produced",
+          "count": 39
+        },
+        {
+          "word": "episode",
+          "count": 37
+        },
+        {
+          "word": "trajectory",
+          "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2011-03-10-gloucester-king-lear-character-analysis.md",
+      "slug": "gloucester-king-lear-character-analysis",
+      "title": "Gloucester Character Analysis in Shakespeare's King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7104,
+      "topWord": "gloucester",
+      "topCount": 143,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-10-gloucester-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "gloucester",
+          "count": 143
+        },
+        {
+          "word": "lear",
+          "count": 74
+        },
+        {
+          "word": "whose",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "gloucester",
+          "count": 143
+        },
+        {
+          "word": "lear",
+          "count": 74
+        },
+        {
+          "word": "whose",
+          "count": 53
+        },
+        {
+          "word": "children",
+          "count": 50
+        },
+        {
+          "word": "tragedy",
+          "count": 50
+        },
+        {
+          "word": "plot",
+          "count": 50
+        },
+        {
+          "word": "produces",
+          "count": 50
+        },
+        {
+          "word": "perception",
+          "count": 50
+        },
+        {
+          "word": "political",
+          "count": 50
+        },
+        {
+          "word": "moral",
+          "count": 50
+        },
+        {
+          "word": "blinding",
+          "count": 50
+        },
+        {
+          "word": "involves",
+          "count": 49
+        },
+        {
+          "word": "physical",
+          "count": 49
+        },
+        {
+          "word": "credulity",
+          "count": 48
+        },
+        {
+          "word": "relationship",
+          "count": 47
+        },
+        {
+          "word": "parallel",
+          "count": 46
+        },
+        {
+          "word": "structural",
+          "count": 46
+        },
+        {
+          "word": "edgar",
+          "count": 39
+        },
+        {
+          "word": "construction",
+          "count": 39
+        },
+        {
+          "word": "dimension",
+          "count": 39
+        }
+      ]
+    },
+    {
+      "filename": "2011-03-16-goneril-king-lear-character-analysis.md",
+      "slug": "goneril-king-lear-character-analysis",
+      "title": "Goneril Character Analysis in Shakespeare's King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7180,
+      "topWord": "goneril",
+      "topCount": 132,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-16-goneril-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "goneril",
+          "count": 132
+        },
+        {
+          "word": "whose",
+          "count": 82
+        },
+        {
+          "word": "regan",
+          "count": 57
+        },
+        {
+          "word": "edmund",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "goneril",
+          "count": 132
+        },
+        {
+          "word": "whose",
+          "count": 82
+        },
+        {
+          "word": "regan",
+          "count": 57
+        },
+        {
+          "word": "edmund",
+          "count": 54
+        },
+        {
+          "word": "retinue",
+          "count": 50
+        },
+        {
+          "word": "romantic",
+          "count": 50
+        },
+        {
+          "word": "conduct",
+          "count": 50
+        },
+        {
+          "word": "complaints",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "practical",
+          "count": 50
+        },
+        {
+          "word": "characterization",
+          "count": 50
+        },
+        {
+          "word": "concerns",
+          "count": 50
+        },
+        {
+          "word": "position",
+          "count": 49
+        },
+        {
+          "word": "reading",
+          "count": 49
+        },
+        {
+          "word": "villainy",
+          "count": 49
+        },
+        {
+          "word": "dimension",
+          "count": 49
+        },
+        {
+          "word": "albany",
+          "count": 44
+        },
+        {
+          "word": "self",
+          "count": 44
+        },
+        {
+          "word": "household",
+          "count": 43
+        },
+        {
+          "word": "figure",
+          "count": 43
+        }
+      ]
+    },
+    {
+      "filename": "2011-03-21-regan-king-lear-character-analysis.md",
+      "slug": "regan-king-lear-character-analysis",
+      "title": "Regan Character Analysis - The Crueler Sister in King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7294,
+      "topWord": "regan",
+      "topCount": 188,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-21-regan-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "regan",
+          "count": 188
+        },
+        {
+          "word": "goneril",
+          "count": 113
+        },
+        {
+          "word": "whose",
+          "count": 59
+        },
+        {
+          "word": "cornwall",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "regan",
+          "count": 188
+        },
+        {
+          "word": "goneril",
+          "count": 113
+        },
+        {
+          "word": "whose",
+          "count": 59
+        },
+        {
+          "word": "cornwall",
+          "count": 54
+        },
+        {
+          "word": "death",
+          "count": 50
+        },
+        {
+          "word": "passage",
+          "count": 50
+        },
+        {
+          "word": "violence",
+          "count": 50
+        },
+        {
+          "word": "competitive",
+          "count": 50
+        },
+        {
+          "word": "escalation",
+          "count": 50
+        },
+        {
+          "word": "romantic",
+          "count": 50
+        },
+        {
+          "word": "blinding",
+          "count": 50
+        },
+        {
+          "word": "institutional",
+          "count": 50
+        },
+        {
+          "word": "physical",
+          "count": 49
+        },
+        {
+          "word": "sisters",
+          "count": 49
+        },
+        {
+          "word": "quality",
+          "count": 49
+        },
+        {
+          "word": "play",
+          "count": 49
+        },
+        {
+          "word": "cruelty",
+          "count": 49
+        },
+        {
+          "word": "concerns",
+          "count": 48
+        },
+        {
+          "word": "pursuit",
+          "count": 47
+        },
+        {
+          "word": "campaign",
+          "count": 46
+        }
+      ]
+    },
+    {
       "filename": "2011-03-26-india-pakistan-encounter-spice-up-sick-leaves.md",
       "slug": "india-pakistan-encounter-spice-up-sick-leaves",
       "title": "India Pakistan encounter spice up sick leaves",
@@ -41003,6 +44099,234 @@
       "suppressSnapshot": null,
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-26-india-pakistan-encounter-spice-up-sick-leaves.md"
+    },
+    {
+      "filename": "2011-03-27-fool-king-lear-character-analysis.md",
+      "slug": "fool-king-lear-character-analysis",
+      "title": "The Fool Character Analysis - Truth-Teller in King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7179,
+      "topWord": "fool",
+      "topCount": 283,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-03-27-fool-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "fool",
+          "count": 283
+        },
+        {
+          "word": "lear",
+          "count": 94
+        },
+        {
+          "word": "whose",
+          "count": 79
+        },
+        {
+          "word": "characterization",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "fool",
+          "count": 283
+        },
+        {
+          "word": "lear",
+          "count": 94
+        },
+        {
+          "word": "whose",
+          "count": 79
+        },
+        {
+          "word": "characterization",
+          "count": 52
+        },
+        {
+          "word": "involves",
+          "count": 50
+        },
+        {
+          "word": "play",
+          "count": 50
+        },
+        {
+          "word": "figures",
+          "count": 50
+        },
+        {
+          "word": "observations",
+          "count": 49
+        },
+        {
+          "word": "devotion",
+          "count": 49
+        },
+        {
+          "word": "institutional",
+          "count": 49
+        },
+        {
+          "word": "relationship",
+          "count": 48
+        },
+        {
+          "word": "quality",
+          "count": 48
+        },
+        {
+          "word": "truth",
+          "count": 48
+        },
+        {
+          "word": "analytical",
+          "count": 47
+        },
+        {
+          "word": "structural",
+          "count": 47
+        },
+        {
+          "word": "content",
+          "count": 46
+        },
+        {
+          "word": "figure",
+          "count": 45
+        },
+        {
+          "word": "concerns",
+          "count": 44
+        },
+        {
+          "word": "cordelia",
+          "count": 42
+        },
+        {
+          "word": "storm",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "filename": "2011-04-02-kent-king-lear-character-analysis.md",
+      "slug": "kent-king-lear-character-analysis",
+      "title": "Kent Character Analysis - The Loyal Earl in King Lear",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7143,
+      "topWord": "kent",
+      "topCount": 167,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2011-04-02-kent-king-lear-character-analysis.md",
+      "flaggedWords": [
+        {
+          "word": "kent",
+          "count": 167
+        },
+        {
+          "word": "whose",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "kent",
+          "count": 167
+        },
+        {
+          "word": "whose",
+          "count": 63
+        },
+        {
+          "word": "figure",
+          "count": 50
+        },
+        {
+          "word": "closing",
+          "count": 50
+        },
+        {
+          "word": "honest",
+          "count": 50
+        },
+        {
+          "word": "allegiance",
+          "count": 50
+        },
+        {
+          "word": "commitment",
+          "count": 50
+        },
+        {
+          "word": "identity",
+          "count": 49
+        },
+        {
+          "word": "tragedy",
+          "count": 49
+        },
+        {
+          "word": "sustained",
+          "count": 49
+        },
+        {
+          "word": "service",
+          "count": 49
+        },
+        {
+          "word": "involves",
+          "count": 49
+        },
+        {
+          "word": "characterization",
+          "count": 49
+        },
+        {
+          "word": "concerns",
+          "count": 49
+        },
+        {
+          "word": "unconditional",
+          "count": 46
+        },
+        {
+          "word": "counsel",
+          "count": 44
+        },
+        {
+          "word": "death",
+          "count": 43
+        },
+        {
+          "word": "lear",
+          "count": 41
+        },
+        {
+          "word": "master",
+          "count": 41
+        },
+        {
+          "word": "concealment",
+          "count": 40
+        }
+      ]
     },
     {
       "filename": "2011-04-17-disliked-the-biased-documentary-on-kolkata-on-cnn-ibn-by-nilanjana-bose.md",
@@ -68452,9 +71776,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7680,
-      "topWord": "available",
-      "topCount": 1713,
+      "wordCount": 3452,
+      "topWord": "jane",
+      "topCount": 115,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68463,166 +71787,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-17-jane-eyre-character-analysis-bronte.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1713
-        },
-        {
-          "word": "urgently",
-          "count": 450
-        },
-        {
-          "word": "genuinely",
-          "count": 424
-        },
-        {
-          "word": "complete",
-          "count": 293
-        },
-        {
-          "word": "organized",
-          "count": 149
-        },
-        {
-          "word": "formal",
-          "count": 141
-        },
-        {
-          "word": "specific",
-          "count": 132
-        },
-        {
           "word": "jane",
-          "count": 131
-        },
-        {
-          "word": "moral",
-          "count": 118
-        },
-        {
-          "word": "character",
           "count": 115
         },
         {
-          "word": "argument",
-          "count": 114
-        },
-        {
-          "word": "completely",
-          "count": 104
+          "word": "moral",
+          "count": 94
         },
         {
           "word": "social",
-          "count": 97
-        },
-        {
-          "word": "conscience",
-          "count": 97
-        },
-        {
-          "word": "authority",
-          "count": 95
-        },
-        {
-          "word": "individual",
-          "count": 82
-        },
-        {
-          "word": "insistence",
-          "count": 78
-        },
-        {
-          "word": "significant",
-          "count": 73
-        },
-        {
-          "word": "genuine",
-          "count": 73
-        },
-        {
-          "word": "dimension",
-          "count": 73
+          "count": 86
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1713
-        },
-        {
-          "word": "urgently",
-          "count": 450
-        },
-        {
-          "word": "genuinely",
-          "count": 424
-        },
-        {
-          "word": "complete",
-          "count": 293
-        },
-        {
-          "word": "organized",
-          "count": 149
-        },
-        {
-          "word": "formal",
-          "count": 141
-        },
-        {
-          "word": "specific",
-          "count": 132
-        },
-        {
           "word": "jane",
-          "count": 131
-        },
-        {
-          "word": "moral",
-          "count": 118
-        },
-        {
-          "word": "character",
           "count": 115
         },
         {
-          "word": "argument",
-          "count": 114
-        },
-        {
-          "word": "completely",
-          "count": 104
+          "word": "moral",
+          "count": 94
         },
         {
           "word": "social",
-          "count": 97
+          "count": 86
         },
         {
-          "word": "conscience",
-          "count": 97
+          "word": "character",
+          "count": 34
+        },
+        {
+          "word": "rochester",
+          "count": 28
+        },
+        {
+          "word": "relationships",
+          "count": 28
+        },
+        {
+          "word": "novel",
+          "count": 27
+        },
+        {
+          "word": "personal",
+          "count": 25
+        },
+        {
+          "word": "authentic",
+          "count": 25
+        },
+        {
+          "word": "development",
+          "count": 25
+        },
+        {
+          "word": "represents",
+          "count": 24
+        },
+        {
+          "word": "commitment",
+          "count": 23
+        },
+        {
+          "word": "based",
+          "count": 23
+        },
+        {
+          "word": "relationship",
+          "count": 22
+        },
+        {
+          "word": "understanding",
+          "count": 22
+        },
+        {
+          "word": "demonstrates",
+          "count": 22
         },
         {
           "word": "authority",
-          "count": 95
+          "count": 21
+        },
+        {
+          "word": "economic",
+          "count": 21
+        },
+        {
+          "word": "intellectual",
+          "count": 20
         },
         {
           "word": "individual",
-          "count": 82
-        },
-        {
-          "word": "insistence",
-          "count": 78
-        },
-        {
-          "word": "significant",
-          "count": 73
-        },
-        {
-          "word": "genuine",
-          "count": 73
-        },
-        {
-          "word": "dimension",
-          "count": 73
+          "count": 20
         }
       ]
     },
@@ -68634,9 +71890,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7841,
-      "topWord": "available",
-      "topCount": 1788,
+      "wordCount": 9648,
+      "topWord": "requiring",
+      "topCount": 294,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68645,165 +71901,165 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-22-mr-rochester-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1788
-        },
-        {
-          "word": "urgently",
-          "count": 492
-        },
-        {
-          "word": "genuinely",
-          "count": 479
-        },
-        {
-          "word": "completely",
-          "count": 184
-        },
-        {
-          "word": "complete",
-          "count": 183
-        },
-        {
-          "word": "elaborate",
-          "count": 179
-        },
-        {
-          "word": "organized",
-          "count": 168
-        },
-        {
-          "word": "formal",
-          "count": 156
+          "word": "requiring",
+          "count": 294
         },
         {
           "word": "rochester",
+          "count": 144
+        },
+        {
+          "word": "demonstrating",
           "count": 142
         },
         {
           "word": "moral",
-          "count": 132
+          "count": 130
         },
         {
-          "word": "significantly",
-          "count": 114
+          "word": "development",
+          "count": 124
         },
         {
-          "word": "argument",
-          "count": 113
+          "word": "personal",
+          "count": 111
         },
         {
-          "word": "deception",
-          "count": 86
+          "word": "authentic",
+          "count": 105
         },
         {
-          "word": "jane",
-          "count": 82
+          "word": "individual",
+          "count": 99
         },
         {
-          "word": "management",
-          "count": 80
+          "word": "behavior",
+          "count": 91
         },
         {
-          "word": "specific",
-          "count": 78
-        },
-        {
-          "word": "instrument",
-          "count": 78
+          "word": "social",
+          "count": 89
         },
         {
           "word": "character",
-          "count": 64
+          "count": 86
         },
         {
-          "word": "self",
-          "count": 61
+          "word": "contemporary",
+          "count": 83
+        },
+        {
+          "word": "ethical",
+          "count": 82
+        },
+        {
+          "word": "analysis",
+          "count": 82
+        },
+        {
+          "word": "understanding",
+          "count": 81
         },
         {
           "word": "relationship",
+          "count": 76
+        },
+        {
+          "word": "building",
+          "count": 67
+        },
+        {
+          "word": "literary",
+          "count": 67
+        },
+        {
+          "word": "showing",
+          "count": 61
+        },
+        {
+          "word": "revealing",
           "count": 58
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1788
-        },
-        {
-          "word": "urgently",
-          "count": 492
-        },
-        {
-          "word": "genuinely",
-          "count": 479
-        },
-        {
-          "word": "completely",
-          "count": 184
-        },
-        {
-          "word": "complete",
-          "count": 183
-        },
-        {
-          "word": "elaborate",
-          "count": 179
-        },
-        {
-          "word": "organized",
-          "count": 168
-        },
-        {
-          "word": "formal",
-          "count": 156
+          "word": "requiring",
+          "count": 294
         },
         {
           "word": "rochester",
+          "count": 144
+        },
+        {
+          "word": "demonstrating",
           "count": 142
         },
         {
           "word": "moral",
-          "count": 132
+          "count": 130
         },
         {
-          "word": "significantly",
-          "count": 114
+          "word": "development",
+          "count": 124
         },
         {
-          "word": "argument",
-          "count": 113
+          "word": "personal",
+          "count": 111
         },
         {
-          "word": "deception",
-          "count": 86
+          "word": "authentic",
+          "count": 105
         },
         {
-          "word": "jane",
-          "count": 82
+          "word": "individual",
+          "count": 99
         },
         {
-          "word": "management",
-          "count": 80
+          "word": "behavior",
+          "count": 91
         },
         {
-          "word": "specific",
-          "count": 78
-        },
-        {
-          "word": "instrument",
-          "count": 78
+          "word": "social",
+          "count": 89
         },
         {
           "word": "character",
-          "count": 64
+          "count": 86
         },
         {
-          "word": "self",
-          "count": 61
+          "word": "contemporary",
+          "count": 83
+        },
+        {
+          "word": "ethical",
+          "count": 82
+        },
+        {
+          "word": "analysis",
+          "count": 82
+        },
+        {
+          "word": "understanding",
+          "count": 81
         },
         {
           "word": "relationship",
+          "count": 76
+        },
+        {
+          "word": "building",
+          "count": 67
+        },
+        {
+          "word": "literary",
+          "count": 67
+        },
+        {
+          "word": "showing",
+          "count": 61
+        },
+        {
+          "word": "revealing",
           "count": 58
         }
       ]
@@ -68816,9 +72072,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7966,
-      "topWord": "available",
-      "topCount": 1786,
+      "wordCount": 9358,
+      "topWord": "requiring",
+      "topCount": 224,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68827,166 +72083,158 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-27-themes-independence-jane-eyre.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1786
-        },
-        {
-          "word": "urgently",
-          "count": 609
-        },
-        {
-          "word": "genuinely",
-          "count": 411
-        },
-        {
-          "word": "completely",
-          "count": 371
-        },
-        {
-          "word": "organized",
-          "count": 191
-        },
-        {
-          "word": "argument",
-          "count": 188
-        },
-        {
-          "word": "significantly",
-          "count": 167
-        },
-        {
-          "word": "female",
-          "count": 164
-        },
-        {
-          "word": "formal",
-          "count": 164
-        },
-        {
-          "word": "independence",
-          "count": 116
-        },
-        {
-          "word": "jane",
-          "count": 111
-        },
-        {
-          "word": "feminist",
-          "count": 100
-        },
-        {
-          "word": "authority",
-          "count": 86
-        },
-        {
-          "word": "moral",
-          "count": 81
-        },
-        {
-          "word": "social",
-          "count": 76
+          "word": "requiring",
+          "count": 224
         },
         {
           "word": "individual",
+          "count": 198
+        },
+        {
+          "word": "social",
+          "count": 194
+        },
+        {
+          "word": "personal",
+          "count": 179
+        },
+        {
+          "word": "jane",
+          "count": 141
+        },
+        {
+          "word": "authentic",
+          "count": 128
+        },
+        {
+          "word": "development",
+          "count": 122
+        },
+        {
+          "word": "demonstrating",
+          "count": 107
+        },
+        {
+          "word": "independence",
+          "count": 86
+        },
+        {
+          "word": "building",
+          "count": 77
+        },
+        {
+          "word": "moral",
+          "count": 73
+        },
+        {
+          "word": "contemporary",
           "count": 70
         },
         {
-          "word": "insistence",
-          "count": 70
+          "word": "commitment",
+          "count": 68
         },
         {
-          "word": "specific",
-          "count": 63
+          "word": "economic",
+          "count": 66
         },
         {
-          "word": "instrument",
-          "count": 62
+          "word": "intellectual",
+          "count": 58
         },
         {
-          "word": "novel",
-          "count": 59
+          "word": "showing",
+          "count": 56
+        },
+        {
+          "word": "understanding",
+          "count": 54
+        },
+        {
+          "word": "necessary",
+          "count": 52
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1786
-        },
-        {
-          "word": "urgently",
-          "count": 609
-        },
-        {
-          "word": "genuinely",
-          "count": 411
-        },
-        {
-          "word": "completely",
-          "count": 371
-        },
-        {
-          "word": "organized",
-          "count": 191
-        },
-        {
-          "word": "argument",
-          "count": 188
-        },
-        {
-          "word": "significantly",
-          "count": 167
-        },
-        {
-          "word": "female",
-          "count": 164
-        },
-        {
-          "word": "formal",
-          "count": 164
-        },
-        {
-          "word": "independence",
-          "count": 116
-        },
-        {
-          "word": "jane",
-          "count": 111
-        },
-        {
-          "word": "feminist",
-          "count": 100
-        },
-        {
-          "word": "authority",
-          "count": 86
-        },
-        {
-          "word": "moral",
-          "count": 81
-        },
-        {
-          "word": "social",
-          "count": 76
+          "word": "requiring",
+          "count": 224
         },
         {
           "word": "individual",
+          "count": 198
+        },
+        {
+          "word": "social",
+          "count": 194
+        },
+        {
+          "word": "personal",
+          "count": 179
+        },
+        {
+          "word": "jane",
+          "count": 141
+        },
+        {
+          "word": "authentic",
+          "count": 128
+        },
+        {
+          "word": "development",
+          "count": 122
+        },
+        {
+          "word": "demonstrating",
+          "count": 107
+        },
+        {
+          "word": "independence",
+          "count": 86
+        },
+        {
+          "word": "building",
+          "count": 77
+        },
+        {
+          "word": "moral",
+          "count": 73
+        },
+        {
+          "word": "contemporary",
           "count": 70
         },
         {
-          "word": "insistence",
-          "count": 70
+          "word": "commitment",
+          "count": 68
         },
         {
-          "word": "specific",
-          "count": 63
+          "word": "economic",
+          "count": 66
         },
         {
-          "word": "instrument",
-          "count": 62
+          "word": "intellectual",
+          "count": 58
         },
         {
-          "word": "novel",
-          "count": 59
+          "word": "showing",
+          "count": 56
+        },
+        {
+          "word": "understanding",
+          "count": 54
+        },
+        {
+          "word": "necessary",
+          "count": 52
+        },
+        {
+          "word": "relationship",
+          "count": 50
+        },
+        {
+          "word": "relationships",
+          "count": 50
         }
       ]
     },
@@ -69180,9 +72428,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7594,
-      "topWord": "available",
-      "topCount": 1783,
+      "wordCount": 9942,
+      "topWord": "requiring",
+      "topCount": 370,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69191,146 +72439,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-06-george-lennie-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1783
+          "word": "requiring",
+          "count": 370
         },
         {
-          "word": "urgently",
-          "count": 572
+          "word": "social",
+          "count": 336
         },
         {
-          "word": "completely",
-          "count": 532
+          "word": "understanding",
+          "count": 194
         },
         {
-          "word": "genuinely",
-          "count": 410
+          "word": "individual",
+          "count": 154
         },
         {
-          "word": "dramatically",
-          "count": 409
+          "word": "building",
+          "count": 146
+        },
+        {
+          "word": "development",
+          "count": 136
+        },
+        {
+          "word": "demonstrating",
+          "count": 136
+        },
+        {
+          "word": "analysis",
+          "count": 125
+        },
+        {
+          "word": "support",
+          "count": 113
+        },
+        {
+          "word": "contemporary",
+          "count": 103
+        },
+        {
+          "word": "cultural",
+          "count": 93
+        },
+        {
+          "word": "effective",
+          "count": 91
+        },
+        {
+          "word": "relationships",
+          "count": 89
+        },
+        {
+          "word": "moral",
+          "count": 89
+        },
+        {
+          "word": "community",
+          "count": 88
         },
         {
           "word": "lennie",
-          "count": 150
-        },
-        {
-          "word": "organized",
-          "count": 132
-        },
-        {
-          "word": "formal",
-          "count": 131
-        },
-        {
-          "word": "george",
-          "count": 122
-        },
-        {
-          "word": "argument",
-          "count": 109
-        },
-        {
-          "word": "specific",
-          "count": 105
-        },
-        {
-          "word": "dream",
-          "count": 75
-        },
-        {
-          "word": "quality",
-          "count": 72
+          "count": 87
         },
         {
           "word": "relationship",
-          "count": 61
+          "count": 86
         },
         {
-          "word": "structural",
-          "count": 54
+          "word": "necessary",
+          "count": 85
+        },
+        {
+          "word": "george",
+          "count": 84
+        },
+        {
+          "word": "economic",
+          "count": 76
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1783
+          "word": "requiring",
+          "count": 370
         },
         {
-          "word": "urgently",
-          "count": 572
+          "word": "social",
+          "count": 336
         },
         {
-          "word": "completely",
-          "count": 532
-        },
-        {
-          "word": "genuinely",
-          "count": 410
-        },
-        {
-          "word": "dramatically",
-          "count": 409
-        },
-        {
-          "word": "lennie",
-          "count": 150
-        },
-        {
-          "word": "organized",
-          "count": 132
-        },
-        {
-          "word": "formal",
-          "count": 131
-        },
-        {
-          "word": "george",
-          "count": 122
-        },
-        {
-          "word": "argument",
-          "count": 109
-        },
-        {
-          "word": "specific",
-          "count": 105
-        },
-        {
-          "word": "dream",
-          "count": 75
-        },
-        {
-          "word": "quality",
-          "count": 72
-        },
-        {
-          "word": "relationship",
-          "count": 61
-        },
-        {
-          "word": "structural",
-          "count": 54
-        },
-        {
-          "word": "love",
-          "count": 48
-        },
-        {
-          "word": "conditions",
-          "count": 45
-        },
-        {
-          "word": "final",
-          "count": 45
-        },
-        {
-          "word": "aspiration",
-          "count": 40
+          "word": "understanding",
+          "count": 194
         },
         {
           "word": "individual",
-          "count": 36
+          "count": 154
+        },
+        {
+          "word": "building",
+          "count": 146
+        },
+        {
+          "word": "development",
+          "count": 136
+        },
+        {
+          "word": "demonstrating",
+          "count": 136
+        },
+        {
+          "word": "analysis",
+          "count": 125
+        },
+        {
+          "word": "support",
+          "count": 113
+        },
+        {
+          "word": "contemporary",
+          "count": 103
+        },
+        {
+          "word": "cultural",
+          "count": 93
+        },
+        {
+          "word": "effective",
+          "count": 91
+        },
+        {
+          "word": "relationships",
+          "count": 89
+        },
+        {
+          "word": "moral",
+          "count": 89
+        },
+        {
+          "word": "community",
+          "count": 88
+        },
+        {
+          "word": "lennie",
+          "count": 87
+        },
+        {
+          "word": "relationship",
+          "count": 86
+        },
+        {
+          "word": "necessary",
+          "count": 85
+        },
+        {
+          "word": "george",
+          "count": 84
+        },
+        {
+          "word": "economic",
+          "count": 76
         }
       ]
     },
@@ -71065,9 +74333,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6836,
-      "topWord": "available",
-      "topCount": 1823,
+      "wordCount": 9661,
+      "topWord": "cultural",
+      "topCount": 444,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -71076,142 +74344,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-12-31-colonialism-racism-heart-of-darkness.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1823
+          "word": "cultural",
+          "count": 444
         },
         {
-          "word": "urgently",
-          "count": 428
-        },
-        {
-          "word": "completely",
-          "count": 412
-        },
-        {
-          "word": "dramatically",
-          "count": 348
-        },
-        {
-          "word": "genuinely",
-          "count": 294
-        },
-        {
-          "word": "organized",
-          "count": 134
-        },
-        {
-          "word": "specific",
-          "count": 88
-        },
-        {
-          "word": "critique",
-          "count": 88
-        },
-        {
-          "word": "heart",
-          "count": 68
-        },
-        {
-          "word": "darkness",
-          "count": 68
-        },
-        {
-          "word": "formal",
-          "count": 65
+          "word": "requiring",
+          "count": 178
         },
         {
           "word": "colonial",
-          "count": 59
+          "count": 164
         },
         {
-          "word": "specifically",
-          "count": 55
+          "word": "understanding",
+          "count": 137
         },
         {
           "word": "literary",
-          "count": 53
+          "count": 133
+        },
+        {
+          "word": "building",
+          "count": 117
+        },
+        {
+          "word": "contemporary",
+          "count": 90
+        },
+        {
+          "word": "european",
+          "count": 85
+        },
+        {
+          "word": "international",
+          "count": 84
+        },
+        {
+          "word": "african",
+          "count": 82
+        },
+        {
+          "word": "analysis",
+          "count": 81
+        },
+        {
+          "word": "historical",
+          "count": 79
+        },
+        {
+          "word": "approaches",
+          "count": 75
+        },
+        {
+          "word": "artistic",
+          "count": 73
+        },
+        {
+          "word": "development",
+          "count": 72
+        },
+        {
+          "word": "critical",
+          "count": 65
+        },
+        {
+          "word": "representation",
+          "count": 64
+        },
+        {
+          "word": "conrad",
+          "count": 63
+        },
+        {
+          "word": "literature",
+          "count": 63
+        },
+        {
+          "word": "imperial",
+          "count": 61
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1823
+          "word": "cultural",
+          "count": 444
         },
         {
-          "word": "urgently",
-          "count": 428
-        },
-        {
-          "word": "completely",
-          "count": 412
-        },
-        {
-          "word": "dramatically",
-          "count": 348
-        },
-        {
-          "word": "genuinely",
-          "count": 294
-        },
-        {
-          "word": "organized",
-          "count": 134
-        },
-        {
-          "word": "specific",
-          "count": 88
-        },
-        {
-          "word": "critique",
-          "count": 88
-        },
-        {
-          "word": "heart",
-          "count": 68
-        },
-        {
-          "word": "darkness",
-          "count": 68
-        },
-        {
-          "word": "formal",
-          "count": 65
+          "word": "requiring",
+          "count": 178
         },
         {
           "word": "colonial",
-          "count": 59
+          "count": 164
         },
         {
-          "word": "specifically",
-          "count": 55
+          "word": "understanding",
+          "count": 137
         },
         {
           "word": "literary",
-          "count": 53
+          "count": 133
         },
         {
-          "word": "conrad",
-          "count": 50
+          "word": "building",
+          "count": 117
         },
         {
-          "word": "framework",
-          "count": 47
-        },
-        {
-          "word": "achebe",
-          "count": 46
+          "word": "contemporary",
+          "count": 90
         },
         {
           "word": "european",
-          "count": 46
+          "count": 85
         },
         {
-          "word": "argument",
-          "count": 43
+          "word": "international",
+          "count": 84
         },
         {
           "word": "african",
-          "count": 41
+          "count": 82
+        },
+        {
+          "word": "analysis",
+          "count": 81
+        },
+        {
+          "word": "historical",
+          "count": 79
+        },
+        {
+          "word": "approaches",
+          "count": 75
+        },
+        {
+          "word": "artistic",
+          "count": 73
+        },
+        {
+          "word": "development",
+          "count": 72
+        },
+        {
+          "word": "critical",
+          "count": 65
+        },
+        {
+          "word": "representation",
+          "count": 64
+        },
+        {
+          "word": "conrad",
+          "count": 63
+        },
+        {
+          "word": "literature",
+          "count": 63
+        },
+        {
+          "word": "imperial",
+          "count": 61
         }
       ]
     },
@@ -71877,9 +75169,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6881,
-      "topWord": "available",
-      "topCount": 1818,
+      "wordCount": 9721,
+      "topWord": "social",
+      "topCount": 287,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -71888,158 +75180,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-01-25-gender-feminism-classic-literature.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1818
+          "word": "social",
+          "count": 287
         },
         {
-          "word": "urgently",
-          "count": 382
-        },
-        {
-          "word": "completely",
-          "count": 362
-        },
-        {
-          "word": "organized",
-          "count": 293
-        },
-        {
-          "word": "dramatically",
-          "count": 292
-        },
-        {
-          "word": "genuinely",
-          "count": 255
-        },
-        {
-          "word": "specifically",
-          "count": 187
-        },
-        {
-          "word": "primary",
-          "count": 155
-        },
-        {
-          "word": "formal",
-          "count": 148
-        },
-        {
-          "word": "moral",
-          "count": 115
-        },
-        {
-          "word": "female",
-          "count": 76
-        },
-        {
-          "word": "conditions",
-          "count": 67
-        },
-        {
-          "word": "feminist",
-          "count": 66
-        },
-        {
-          "word": "jane",
-          "count": 62
-        },
-        {
-          "word": "authority",
-          "count": 59
-        },
-        {
-          "word": "structural",
-          "count": 59
-        },
-        {
-          "word": "argument",
-          "count": 56
+          "word": "cultural",
+          "count": 160
         },
         {
           "word": "individual",
+          "count": 153
+        },
+        {
+          "word": "development",
+          "count": 119
+        },
+        {
+          "word": "requiring",
+          "count": 104
+        },
+        {
+          "word": "building",
+          "count": 95
+        },
+        {
+          "word": "understanding",
+          "count": 83
+        },
+        {
+          "word": "literary",
+          "count": 82
+        },
+        {
+          "word": "contemporary",
+          "count": 82
+        },
+        {
+          "word": "economic",
+          "count": 81
+        },
+        {
+          "word": "gender",
+          "count": 79
+        },
+        {
+          "word": "feminist",
+          "count": 76
+        },
+        {
+          "word": "moral",
+          "count": 75
+        },
+        {
+          "word": "intellectual",
+          "count": 73
+        },
+        {
+          "word": "opportunities",
+          "count": 64
+        },
+        {
+          "word": "analysis",
+          "count": 61
+        },
+        {
+          "word": "historical",
+          "count": 61
+        },
+        {
+          "word": "equality",
+          "count": 60
+        },
+        {
+          "word": "relationships",
           "count": 56
+        },
+        {
+          "word": "authority",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1818
+          "word": "social",
+          "count": 287
         },
         {
-          "word": "urgently",
-          "count": 382
-        },
-        {
-          "word": "completely",
-          "count": 362
-        },
-        {
-          "word": "organized",
-          "count": 293
-        },
-        {
-          "word": "dramatically",
-          "count": 292
-        },
-        {
-          "word": "genuinely",
-          "count": 255
-        },
-        {
-          "word": "specifically",
-          "count": 187
-        },
-        {
-          "word": "primary",
-          "count": 155
-        },
-        {
-          "word": "formal",
-          "count": 148
-        },
-        {
-          "word": "moral",
-          "count": 115
-        },
-        {
-          "word": "female",
-          "count": 76
-        },
-        {
-          "word": "conditions",
-          "count": 67
-        },
-        {
-          "word": "feminist",
-          "count": 66
-        },
-        {
-          "word": "jane",
-          "count": 62
-        },
-        {
-          "word": "authority",
-          "count": 59
-        },
-        {
-          "word": "structural",
-          "count": 59
-        },
-        {
-          "word": "argument",
-          "count": 56
+          "word": "cultural",
+          "count": 160
         },
         {
           "word": "individual",
+          "count": 153
+        },
+        {
+          "word": "development",
+          "count": 119
+        },
+        {
+          "word": "requiring",
+          "count": 104
+        },
+        {
+          "word": "building",
+          "count": 95
+        },
+        {
+          "word": "understanding",
+          "count": 83
+        },
+        {
+          "word": "literary",
+          "count": 82
+        },
+        {
+          "word": "contemporary",
+          "count": 82
+        },
+        {
+          "word": "economic",
+          "count": 81
+        },
+        {
+          "word": "gender",
+          "count": 79
+        },
+        {
+          "word": "feminist",
+          "count": 76
+        },
+        {
+          "word": "moral",
+          "count": 75
+        },
+        {
+          "word": "intellectual",
+          "count": 73
+        },
+        {
+          "word": "opportunities",
+          "count": 64
+        },
+        {
+          "word": "analysis",
+          "count": 61
+        },
+        {
+          "word": "historical",
+          "count": 61
+        },
+        {
+          "word": "equality",
+          "count": 60
+        },
+        {
+          "word": "relationships",
           "count": 56
         },
         {
-          "word": "conscience",
-          "count": 48
-        },
-        {
-          "word": "literature",
-          "count": 46
+          "word": "authority",
+          "count": 55
         }
       ]
     },
@@ -73457,9 +76757,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6463,
-      "topWord": "available",
-      "topCount": 1712,
+      "wordCount": 3503,
+      "topWord": "social",
+      "topCount": 97,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -73468,150 +76768,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-11-science-morality-classic-fiction.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1712
-        },
-        {
-          "word": "urgently",
-          "count": 368
-        },
-        {
-          "word": "completely",
-          "count": 361
-        },
-        {
-          "word": "organized",
-          "count": 352
-        },
-        {
-          "word": "dramatically",
-          "count": 278
-        },
-        {
-          "word": "genuinely",
-          "count": 272
-        },
-        {
-          "word": "primary",
-          "count": 255
-        },
-        {
-          "word": "specifically",
-          "count": 243
-        },
-        {
-          "word": "formal",
-          "count": 163
-        },
-        {
-          "word": "main",
-          "count": 93
+          "word": "social",
+          "count": 97
         },
         {
           "word": "moral",
-          "count": 81
+          "count": 90
         },
         {
-          "word": "instrument",
-          "count": 78
-        },
-        {
-          "word": "science",
-          "count": 67
-        },
-        {
-          "word": "specific",
+          "word": "human",
           "count": 66
-        },
-        {
-          "word": "scientific",
-          "count": 54
-        },
-        {
-          "word": "quality",
-          "count": 54
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1712
-        },
-        {
-          "word": "urgently",
-          "count": 368
-        },
-        {
-          "word": "completely",
-          "count": 361
-        },
-        {
-          "word": "organized",
-          "count": 352
-        },
-        {
-          "word": "dramatically",
-          "count": 278
-        },
-        {
-          "word": "genuinely",
-          "count": 272
-        },
-        {
-          "word": "primary",
-          "count": 255
-        },
-        {
-          "word": "specifically",
-          "count": 243
-        },
-        {
-          "word": "formal",
-          "count": 163
-        },
-        {
-          "word": "main",
-          "count": 93
+          "word": "social",
+          "count": 97
         },
         {
           "word": "moral",
-          "count": 81
+          "count": 90
         },
         {
-          "word": "instrument",
-          "count": 78
-        },
-        {
-          "word": "science",
-          "count": 67
-        },
-        {
-          "word": "specific",
+          "word": "human",
           "count": 66
         },
         {
+          "word": "ethical",
+          "count": 39
+        },
+        {
           "word": "scientific",
-          "count": 54
+          "count": 39
         },
         {
-          "word": "quality",
-          "count": 54
+          "word": "intellectual",
+          "count": 35
         },
         {
-          "word": "voluntary",
-          "count": 50
+          "word": "contemporary",
+          "count": 31
         },
         {
-          "word": "argument",
-          "count": 48
+          "word": "provides",
+          "count": 31
         },
         {
-          "word": "knowledge",
-          "count": 43
+          "word": "development",
+          "count": 25
         },
         {
-          "word": "morality",
-          "count": 40
+          "word": "responsibility",
+          "count": 22
+        },
+        {
+          "word": "victor",
+          "count": 21
+        },
+        {
+          "word": "represents",
+          "count": 20
+        },
+        {
+          "word": "technological",
+          "count": 18
+        },
+        {
+          "word": "psychological",
+          "count": 18
+        },
+        {
+          "word": "maintaining",
+          "count": 18
+        },
+        {
+          "word": "authentic",
+          "count": 18
+        },
+        {
+          "word": "critical",
+          "count": 17
+        },
+        {
+          "word": "values",
+          "count": 16
+        },
+        {
+          "word": "cultural",
+          "count": 16
+        },
+        {
+          "word": "control",
+          "count": 15
         }
       ]
     },
@@ -73801,9 +77049,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6431,
-      "topWord": "available",
-      "topCount": 1739,
+      "wordCount": 4612,
+      "topWord": "revolutionary",
+      "topCount": 77,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -73812,146 +77060,106 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-21-revolution-rebellion-classic-novels.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1739
-        },
-        {
-          "word": "urgently",
-          "count": 365
-        },
-        {
-          "word": "completely",
-          "count": 347
-        },
-        {
-          "word": "dramatically",
-          "count": 291
-        },
-        {
-          "word": "organized",
-          "count": 272
-        },
-        {
-          "word": "genuinely",
-          "count": 268
-        },
-        {
-          "word": "primary",
-          "count": 227
-        },
-        {
-          "word": "main",
-          "count": 174
-        },
-        {
-          "word": "formal",
-          "count": 153
-        },
-        {
-          "word": "specifically",
-          "count": 136
-        },
-        {
-          "word": "instrument",
-          "count": 92
-        },
-        {
-          "word": "revolution",
-          "count": 84
-        },
-        {
-          "word": "specific",
-          "count": 53
-        },
-        {
           "word": "revolutionary",
+          "count": 77
+        },
+        {
+          "word": "political",
+          "count": 67
+        },
+        {
+          "word": "human",
+          "count": 54
+        },
+        {
+          "word": "demonstrates",
           "count": 53
         },
         {
-          "word": "power",
+          "word": "social",
           "count": 52
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1739
-        },
-        {
-          "word": "urgently",
-          "count": 365
-        },
-        {
-          "word": "completely",
-          "count": 347
-        },
-        {
-          "word": "dramatically",
-          "count": 291
-        },
-        {
-          "word": "organized",
-          "count": 272
-        },
-        {
-          "word": "genuinely",
-          "count": 268
-        },
-        {
-          "word": "primary",
-          "count": 227
-        },
-        {
-          "word": "main",
-          "count": 174
-        },
-        {
-          "word": "formal",
-          "count": 153
-        },
-        {
-          "word": "specifically",
-          "count": 136
-        },
-        {
-          "word": "instrument",
-          "count": 92
-        },
-        {
-          "word": "revolution",
-          "count": 84
-        },
-        {
-          "word": "specific",
-          "count": 53
-        },
-        {
           "word": "revolutionary",
+          "count": 77
+        },
+        {
+          "word": "political",
+          "count": 67
+        },
+        {
+          "word": "human",
+          "count": 54
+        },
+        {
+          "word": "demonstrates",
           "count": 53
         },
         {
-          "word": "power",
+          "word": "social",
           "count": 52
         },
         {
-          "word": "gradual",
-          "count": 50
-        },
-        {
-          "word": "argument",
+          "word": "represents",
           "count": 48
         },
         {
-          "word": "quality",
-          "count": 45
+          "word": "cultural",
+          "count": 47
         },
         {
-          "word": "constitutes",
+          "word": "control",
+          "count": 46
+        },
+        {
+          "word": "totalitarian",
           "count": 43
         },
         {
-          "word": "rebellion",
+          "word": "movements",
+          "count": 37
+        },
+        {
+          "word": "contemporary",
           "count": 36
+        },
+        {
+          "word": "understanding",
+          "count": 36
+        },
+        {
+          "word": "critical",
+          "count": 36
+        },
+        {
+          "word": "analysis",
+          "count": 32
+        },
+        {
+          "word": "power",
+          "count": 32
+        },
+        {
+          "word": "literature",
+          "count": 30
+        },
+        {
+          "word": "development",
+          "count": 29
+        },
+        {
+          "word": "intellectual",
+          "count": 29
+        },
+        {
+          "word": "systems",
+          "count": 28
+        },
+        {
+          "word": "individual",
+          "count": 28
         }
       ]
     },
@@ -73963,9 +77171,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6535,
-      "topWord": "available",
-      "topCount": 1809,
+      "wordCount": 9726,
+      "topWord": "requiring",
+      "topCount": 329,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -73974,154 +77182,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-26-madness-sanity-classic-literature.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1809
-        },
-        {
-          "word": "urgently",
-          "count": 367
-        },
-        {
-          "word": "completely",
-          "count": 345
-        },
-        {
-          "word": "dramatically",
-          "count": 291
-        },
-        {
-          "word": "organized",
-          "count": 276
-        },
-        {
-          "word": "genuinely",
-          "count": 273
-        },
-        {
-          "word": "primary",
-          "count": 228
-        },
-        {
-          "word": "specifically",
-          "count": 174
-        },
-        {
-          "word": "formal",
-          "count": 146
-        },
-        {
-          "word": "madness",
-          "count": 132
-        },
-        {
-          "word": "main",
-          "count": 125
-        },
-        {
-          "word": "instrument",
-          "count": 93
+          "word": "requiring",
+          "count": 329
         },
         {
           "word": "psychological",
-          "count": 63
-        },
-        {
-          "word": "sanity",
-          "count": 61
+          "count": 245
         },
         {
           "word": "social",
-          "count": 61
+          "count": 236
         },
         {
-          "word": "specific",
-          "count": 51
+          "word": "individual",
+          "count": 213
         },
         {
-          "word": "quality",
-          "count": 51
+          "word": "mental",
+          "count": 202
+        },
+        {
+          "word": "literary",
+          "count": 195
+        },
+        {
+          "word": "analysis",
+          "count": 190
+        },
+        {
+          "word": "understanding",
+          "count": 176
+        },
+        {
+          "word": "cultural",
+          "count": 173
+        },
+        {
+          "word": "health",
+          "count": 147
+        },
+        {
+          "word": "development",
+          "count": 145
+        },
+        {
+          "word": "artistic",
+          "count": 105
+        },
+        {
+          "word": "psychology",
+          "count": 101
+        },
+        {
+          "word": "throughout",
+          "count": 94
+        },
+        {
+          "word": "madness",
+          "count": 90
+        },
+        {
+          "word": "demonstrating",
+          "count": 87
+        },
+        {
+          "word": "affect",
+          "count": 86
+        },
+        {
+          "word": "approaches",
+          "count": 70
+        },
+        {
+          "word": "contemporary",
+          "count": 68
+        },
+        {
+          "word": "revealing",
+          "count": 65
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1809
-        },
-        {
-          "word": "urgently",
-          "count": 367
-        },
-        {
-          "word": "completely",
-          "count": 345
-        },
-        {
-          "word": "dramatically",
-          "count": 291
-        },
-        {
-          "word": "organized",
-          "count": 276
-        },
-        {
-          "word": "genuinely",
-          "count": 273
-        },
-        {
-          "word": "primary",
-          "count": 228
-        },
-        {
-          "word": "specifically",
-          "count": 174
-        },
-        {
-          "word": "formal",
-          "count": 146
-        },
-        {
-          "word": "madness",
-          "count": 132
-        },
-        {
-          "word": "main",
-          "count": 125
-        },
-        {
-          "word": "instrument",
-          "count": 93
+          "word": "requiring",
+          "count": 329
         },
         {
           "word": "psychological",
-          "count": 63
-        },
-        {
-          "word": "sanity",
-          "count": 61
+          "count": 245
         },
         {
           "word": "social",
-          "count": 61
+          "count": 236
         },
         {
-          "word": "specific",
-          "count": 51
+          "word": "individual",
+          "count": 213
         },
         {
-          "word": "quality",
-          "count": 51
+          "word": "mental",
+          "count": 202
         },
         {
-          "word": "argument",
-          "count": 49
+          "word": "literary",
+          "count": 195
         },
         {
-          "word": "constitutes",
-          "count": 49
+          "word": "analysis",
+          "count": 190
         },
         {
-          "word": "conventions",
-          "count": 43
+          "word": "understanding",
+          "count": 176
+        },
+        {
+          "word": "cultural",
+          "count": 173
+        },
+        {
+          "word": "health",
+          "count": 147
+        },
+        {
+          "word": "development",
+          "count": 145
+        },
+        {
+          "word": "artistic",
+          "count": 105
+        },
+        {
+          "word": "psychology",
+          "count": 101
+        },
+        {
+          "word": "throughout",
+          "count": 94
+        },
+        {
+          "word": "madness",
+          "count": 90
+        },
+        {
+          "word": "demonstrating",
+          "count": 87
+        },
+        {
+          "word": "affect",
+          "count": 86
+        },
+        {
+          "word": "approaches",
+          "count": 70
+        },
+        {
+          "word": "contemporary",
+          "count": 68
+        },
+        {
+          "word": "revealing",
+          "count": 65
         }
       ]
     },
@@ -74133,9 +77353,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6602,
-      "topWord": "available",
-      "topCount": 1763,
+      "wordCount": 9928,
+      "topWord": "environmental",
+      "topCount": 723,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -74144,150 +77364,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-31-nature-wilderness-classic-novels.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1763
+          "word": "environmental",
+          "count": 723
         },
         {
-          "word": "urgently",
-          "count": 380
+          "word": "requiring",
+          "count": 360
         },
         {
-          "word": "completely",
-          "count": 366
+          "word": "cultural",
+          "count": 266
         },
         {
-          "word": "dramatically",
-          "count": 315
+          "word": "building",
+          "count": 225
         },
         {
-          "word": "primary",
-          "count": 285
+          "word": "understanding",
+          "count": 194
         },
         {
-          "word": "genuinely",
-          "count": 282
+          "word": "effective",
+          "count": 188
         },
         {
-          "word": "organized",
-          "count": 252
+          "word": "literary",
+          "count": 161
         },
         {
-          "word": "specifically",
-          "count": 206
+          "word": "development",
+          "count": 125
         },
         {
-          "word": "formal",
-          "count": 197
+          "word": "natural",
+          "count": 112
         },
         {
-          "word": "main",
-          "count": 165
+          "word": "analysis",
+          "count": 106
         },
         {
-          "word": "instrument",
-          "count": 128
+          "word": "contemporary",
+          "count": 106
         },
         {
-          "word": "nature",
-          "count": 79
+          "word": "literature",
+          "count": 101
         },
         {
-          "word": "dimension",
-          "count": 62
+          "word": "necessary",
+          "count": 99
         },
         {
-          "word": "wilderness",
-          "count": 61
+          "word": "artistic",
+          "count": 91
         },
         {
-          "word": "quality",
-          "count": 53
+          "word": "education",
+          "count": 84
         },
         {
-          "word": "argument",
-          "count": 51
+          "word": "engagement",
+          "count": 83
+        },
+        {
+          "word": "knowledge",
+          "count": 83
+        },
+        {
+          "word": "demonstrating",
+          "count": 81
+        },
+        {
+          "word": "social",
+          "count": 80
+        },
+        {
+          "word": "provides",
+          "count": 76
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1763
+          "word": "environmental",
+          "count": 723
         },
         {
-          "word": "urgently",
-          "count": 380
+          "word": "requiring",
+          "count": 360
         },
         {
-          "word": "completely",
-          "count": 366
+          "word": "cultural",
+          "count": 266
         },
         {
-          "word": "dramatically",
-          "count": 315
+          "word": "building",
+          "count": 225
         },
         {
-          "word": "primary",
-          "count": 285
+          "word": "understanding",
+          "count": 194
         },
         {
-          "word": "genuinely",
-          "count": 282
+          "word": "effective",
+          "count": 188
         },
         {
-          "word": "organized",
-          "count": 252
+          "word": "literary",
+          "count": 161
         },
         {
-          "word": "specifically",
-          "count": 206
-        },
-        {
-          "word": "formal",
-          "count": 197
-        },
-        {
-          "word": "main",
-          "count": 165
-        },
-        {
-          "word": "instrument",
-          "count": 128
-        },
-        {
-          "word": "nature",
-          "count": 79
-        },
-        {
-          "word": "dimension",
-          "count": 62
-        },
-        {
-          "word": "wilderness",
-          "count": 61
-        },
-        {
-          "word": "quality",
-          "count": 53
-        },
-        {
-          "word": "argument",
-          "count": 51
-        },
-        {
-          "word": "specific",
-          "count": 50
+          "word": "development",
+          "count": 125
         },
         {
           "word": "natural",
-          "count": 43
+          "count": 112
         },
         {
-          "word": "island",
-          "count": 38
+          "word": "analysis",
+          "count": 106
         },
         {
-          "word": "self",
-          "count": 37
+          "word": "contemporary",
+          "count": 106
+        },
+        {
+          "word": "literature",
+          "count": 101
+        },
+        {
+          "word": "necessary",
+          "count": 99
+        },
+        {
+          "word": "artistic",
+          "count": 91
+        },
+        {
+          "word": "education",
+          "count": 84
+        },
+        {
+          "word": "engagement",
+          "count": 83
+        },
+        {
+          "word": "knowledge",
+          "count": 83
+        },
+        {
+          "word": "demonstrating",
+          "count": 81
+        },
+        {
+          "word": "social",
+          "count": 80
+        },
+        {
+          "word": "provides",
+          "count": 76
         }
       ]
     },
@@ -74639,9 +77875,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6369,
-      "topWord": "available",
-      "topCount": 1806,
+      "wordCount": 9847,
+      "topWord": "requiring",
+      "topCount": 333,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -74650,150 +77886,166 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-04-15-how-to-write-literary-analysis-essay.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 1806
-        },
-        {
-          "word": "primary",
-          "count": 437
-        },
-        {
-          "word": "main",
-          "count": 384
-        },
-        {
-          "word": "organized",
-          "count": 332
-        },
-        {
-          "word": "completely",
-          "count": 319
-        },
-        {
-          "word": "urgently",
-          "count": 313
-        },
-        {
-          "word": "specifically",
-          "count": 277
-        },
-        {
-          "word": "dramatically",
-          "count": 257
-        },
-        {
-          "word": "genuinely",
-          "count": 230
-        },
-        {
-          "word": "formal",
-          "count": 180
+          "word": "requiring",
+          "count": 333
         },
         {
           "word": "analysis",
-          "count": 116
-        },
-        {
-          "word": "instrument",
-          "count": 105
+          "count": 225
         },
         {
           "word": "literary",
-          "count": 83
+          "count": 203
         },
         {
-          "word": "thesis",
-          "count": 75
+          "word": "building",
+          "count": 175
         },
         {
-          "word": "essay",
-          "count": 64
+          "word": "understanding",
+          "count": 156
         },
         {
-          "word": "constitutes",
-          "count": 62
+          "word": "skills",
+          "count": 156
+        },
+        {
+          "word": "development",
+          "count": 151
+        },
+        {
+          "word": "cultural",
+          "count": 146
+        },
+        {
+          "word": "professional",
+          "count": 141
+        },
+        {
+          "word": "academic",
+          "count": 135
+        },
+        {
+          "word": "serve",
+          "count": 135
+        },
+        {
+          "word": "intellectual",
+          "count": 128
+        },
+        {
+          "word": "analytical",
+          "count": 120
+        },
+        {
+          "word": "communication",
+          "count": 81
+        },
+        {
+          "word": "social",
+          "count": 76
+        },
+        {
+          "word": "artistic",
+          "count": 71
+        },
+        {
+          "word": "throughout",
+          "count": 70
+        },
+        {
+          "word": "evidence",
+          "count": 70
+        },
+        {
+          "word": "achievement",
+          "count": 67
+        },
+        {
+          "word": "capabilities",
+          "count": 66
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 1806
-        },
-        {
-          "word": "primary",
-          "count": 437
-        },
-        {
-          "word": "main",
-          "count": 384
-        },
-        {
-          "word": "organized",
-          "count": 332
-        },
-        {
-          "word": "completely",
-          "count": 319
-        },
-        {
-          "word": "urgently",
-          "count": 313
-        },
-        {
-          "word": "specifically",
-          "count": 277
-        },
-        {
-          "word": "dramatically",
-          "count": 257
-        },
-        {
-          "word": "genuinely",
-          "count": 230
-        },
-        {
-          "word": "formal",
-          "count": 180
+          "word": "requiring",
+          "count": 333
         },
         {
           "word": "analysis",
-          "count": 116
-        },
-        {
-          "word": "instrument",
-          "count": 105
+          "count": 225
         },
         {
           "word": "literary",
-          "count": 83
+          "count": 203
         },
         {
-          "word": "thesis",
-          "count": 75
+          "word": "building",
+          "count": 175
         },
         {
-          "word": "essay",
-          "count": 64
+          "word": "understanding",
+          "count": 156
         },
         {
-          "word": "constitutes",
-          "count": 62
+          "word": "skills",
+          "count": 156
         },
         {
-          "word": "argument",
-          "count": 43
+          "word": "development",
+          "count": 151
         },
         {
-          "word": "organizes",
-          "count": 34
+          "word": "cultural",
+          "count": 146
+        },
+        {
+          "word": "professional",
+          "count": 141
+        },
+        {
+          "word": "academic",
+          "count": 135
+        },
+        {
+          "word": "serve",
+          "count": 135
+        },
+        {
+          "word": "intellectual",
+          "count": 128
+        },
+        {
+          "word": "analytical",
+          "count": 120
+        },
+        {
+          "word": "communication",
+          "count": 81
+        },
+        {
+          "word": "social",
+          "count": 76
+        },
+        {
+          "word": "artistic",
+          "count": 71
+        },
+        {
+          "word": "throughout",
+          "count": 70
         },
         {
           "word": "evidence",
-          "count": 33
+          "count": 70
         },
         {
-          "word": "specific",
-          "count": 28
+          "word": "achievement",
+          "count": 67
+        },
+        {
+          "word": "capabilities",
+          "count": 66
         }
       ]
     },
@@ -147082,14 +150334,14 @@
     {
       "filename": "2024-06-24-gaokao-chemistry-reaction-principles.md",
       "slug": "gaokao-chemistry-reaction-principles",
-      "title": "Gaokao Chemistry Reaction Principles: Full Guide",
+      "title": "高考反应原理完全指南 - 速率动力学、平衡体系、电化学基础知识全面解析",
       "categories": [
         "Industry"
       ],
       "lang": "zh",
-      "wordCount": 19243,
-      "topWord": "化学",
-      "topCount": 1724,
+      "wordCount": 9090,
+      "topWord": "反应",
+      "topCount": 205,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -147098,166 +150350,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2024-06-24-gaokao-chemistry-reaction-principles.md",
       "flaggedWords": [
         {
-          "word": "化学",
-          "count": 1724
+          "word": "反应",
+          "count": 205
         },
         {
           "word": "平衡",
-          "count": 909
+          "count": 129
         },
         {
-          "word": "高考",
-          "count": 845
+          "word": "速率",
+          "count": 74
         },
         {
-          "word": "衡必",
-          "count": 826
-        },
-        {
-          "word": "学必",
-          "count": 826
-        },
-        {
-          "word": "反应",
-          "count": 567
-        },
-        {
-          "word": "离子",
-          "count": 461
-        },
-        {
-          "word": "原理",
-          "count": 442
-        },
-        {
-          "word": "学反",
-          "count": 440
-        },
-        {
-          "word": "应原",
-          "count": 434
-        },
-        {
-          "word": "考化",
-          "count": 425
-        },
-        {
-          "word": "学平",
-          "count": 425
-        },
-        {
-          "word": "热化",
-          "count": 423
-        },
-        {
-          "word": "电化",
-          "count": 422
-        },
-        {
-          "word": "子平",
-          "count": 420
-        },
-        {
-          "word": "掌握",
-          "count": 420
-        },
-        {
-          "word": "向着",
-          "count": 414
-        },
-        {
-          "word": "高分",
-          "count": 414
-        },
-        {
-          "word": "理加",
-          "count": 413
-        },
-        {
-          "word": "加油",
-          "count": 413
+          "word": "计算",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "化学",
-          "count": 1724
+          "word": "反应",
+          "count": 205
         },
         {
           "word": "平衡",
-          "count": 909
+          "count": 129
         },
         {
-          "word": "高考",
-          "count": 845
+          "word": "速率",
+          "count": 74
         },
         {
-          "word": "衡必",
-          "count": 826
-        },
-        {
-          "word": "学必",
-          "count": 826
-        },
-        {
-          "word": "反应",
-          "count": 567
-        },
-        {
-          "word": "离子",
-          "count": 461
+          "word": "计算",
+          "count": 56
         },
         {
           "word": "原理",
-          "count": 442
+          "count": 48
         },
         {
-          "word": "学反",
-          "count": 440
+          "word": "分析",
+          "count": 47
         },
         {
-          "word": "应原",
-          "count": 434
+          "word": "重要",
+          "count": 42
         },
         {
-          "word": "考化",
-          "count": 425
+          "word": "应用",
+          "count": 42
         },
         {
-          "word": "学平",
-          "count": 425
+          "word": "方法",
+          "count": 42
         },
         {
-          "word": "热化",
-          "count": 423
+          "word": "应的",
+          "count": 42
         },
         {
-          "word": "电化",
-          "count": 422
+          "word": "电解",
+          "count": 41
         },
         {
-          "word": "子平",
-          "count": 420
+          "word": "实验",
+          "count": 40
         },
         {
-          "word": "掌握",
-          "count": 420
+          "word": "常数",
+          "count": 40
         },
         {
-          "word": "向着",
-          "count": 414
+          "word": "浓度",
+          "count": 39
         },
         {
-          "word": "高分",
-          "count": 414
+          "word": "电极",
+          "count": 38
         },
         {
-          "word": "理加",
-          "count": 413
+          "word": "应速",
+          "count": 36
         },
         {
-          "word": "加油",
-          "count": 413
+          "word": "条件",
+          "count": 33
+        },
+        {
+          "word": "影响",
+          "count": 32
+        },
+        {
+          "word": "理解",
+          "count": 31
+        },
+        {
+          "word": "衡常",
+          "count": 31
         }
       ]
     },
