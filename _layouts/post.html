@@ -214,8 +214,9 @@ article {
 /* Flourishes */
 .author-dialog-overlay .ad-fl{
   display:flex;align-items:center;justify-content:center;gap:10px;
-  margin-bottom:22px;opacity:0;animation:ad-flIn .8s .3s ease forwards;
+  margin-bottom:22px;opacity:0;
 }
+.author-dialog-overlay.on .ad-fl{animation:ad-flIn .8s .3s ease forwards;}
 .author-dialog-overlay .ad-fl-ln{
   width:50px;height:1px;
   background:linear-gradient(90deg,transparent,var(--gold),transparent);
@@ -229,8 +230,9 @@ article {
 /* Avatar */
 .author-dialog-overlay .ad-avw{
   position:relative;display:inline-block;margin-bottom:18px;
-  opacity:0;animation:ad-avIn .7s .2s cubic-bezier(.16,1,.3,1) forwards;
+  opacity:0;
 }
+.author-dialog-overlay.on .ad-avw{animation:ad-avIn .7s .2s cubic-bezier(.16,1,.3,1) forwards;}
 @keyframes ad-avIn{from{opacity:0;transform:scale(.7)}to{opacity:1;transform:scale(1)}}
 .author-dialog-overlay .ad-avr{
   position:absolute;inset:-5px;border-radius:50%;
@@ -257,30 +259,33 @@ article {
   color:#f0e6d0;margin:0 0 4px;
   text-shadow:0 2px 12px rgba(0,0,0,.6);
   letter-spacing:.01em;opacity:0;
-  animation:ad-tu .6s .35s ease forwards;
 }
+.author-dialog-overlay.on .ad-pn{animation:ad-tu .6s .35s ease forwards;}
 .author-dialog-overlay .ad-pcred{
   font-family:'Inter',sans-serif;font-size:.78em;font-weight:400;
   color:var(--gold);letter-spacing:.12em;text-transform:uppercase;
   margin:0 0 18px;text-shadow:0 1px 6px rgba(0,0,0,.5);
-  opacity:0;animation:ad-tu .6s .45s ease forwards;
+  opacity:0;
 }
+.author-dialog-overlay.on .ad-pcred{animation:ad-tu .6s .45s ease forwards;}
 @keyframes ad-tu{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 
 /* Divider */
 .author-dialog-overlay .ad-dv{
   width:60px;height:1px;
   background:linear-gradient(90deg,transparent,rgba(201,168,76,.4),transparent);
-  margin:0 auto 20px;opacity:0;animation:ad-tu .6s .5s ease forwards;
+  margin:0 auto 20px;opacity:0;
 }
+.author-dialog-overlay.on .ad-dv{animation:ad-tu .6s .5s ease forwards;}
 
 /* Contributor line */
 .author-dialog-overlay .ad-ct{
   display:inline-flex;align-items:center;gap:6px;
   font-family:'Inter',sans-serif;font-size:.72em;
   color:rgba(232,212,138,.6);letter-spacing:.06em;
-  margin-bottom:22px;opacity:0;animation:ad-tu .6s .55s ease forwards;
+  margin-bottom:22px;opacity:0;
 }
+.author-dialog-overlay.on .ad-ct{animation:ad-tu .6s .55s ease forwards;}
 .author-dialog-overlay .ad-ct svg{
   width:13px;height:13px;fill:var(--gold);opacity:.7;
 }
@@ -288,8 +293,9 @@ article {
 /* CTA row */
 .author-dialog-overlay .ad-ctar{
   display:flex;gap:10px;justify-content:center;
-  opacity:0;animation:ad-tu .6s .6s ease forwards;
+  opacity:0;
 }
+.author-dialog-overlay.on .ad-ctar{animation:ad-tu .6s .6s ease forwards;}
 .author-dialog-overlay .ad-pb{
   font-family:'Inter',sans-serif;font-size:.82em;font-weight:500;
   padding:9px 22px;border-radius:6px;cursor:pointer;
@@ -309,8 +315,8 @@ article {
 /* Bottom flourish */
 .author-dialog-overlay .ad-flb{
   margin-top:20px;margin-bottom:0;opacity:0;
-  animation:ad-flIn .8s .7s ease forwards;
 }
+.author-dialog-overlay.on .ad-flb{animation:ad-flIn .8s .7s ease forwards;}
 /* ══════ GENIE ASSISTANT ══════ */
 .g-wrap{position:fixed;z-index:9999;bottom:8px;right:8px;display:flex;flex-direction:column;align-items:flex-end;animation:gEnter 0.8s cubic-bezier(0.34,1.4,0.64,1) 0.6s both}
 @keyframes gEnter{0%{opacity:0;transform:translateY(40px) scale(0.7)}100%{opacity:1;transform:translateY(0) scale(1)}}
@@ -645,12 +651,6 @@ article {
     (function(){
       var dlg=document.getElementById('authorDialog');
       if(!dlg)return;
-      var observer=new MutationObserver(function(){
-        if(dlg.classList.contains('on')){
-          dlg.querySelectorAll('.ad-fl,.ad-avw,.ad-pn,.ad-pcred,.ad-dv,.ad-ct,.ad-ctar,.ad-flb').forEach(function(n){n.style.animation='none';n.offsetHeight;n.style.animation=''});
-        }
-      });
-      observer.observe(dlg,{attributes:true,attributeFilter:['class']});
       document.addEventListener('keydown',function(e){if(e.key==='Escape')dlg.classList.remove('on')});
     })();
     </script>
