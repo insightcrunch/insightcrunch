@@ -6,17 +6,17 @@ date: 2015-03-21
 categories: ["Leisure"]
 tags: ["animal-farm", "nineteen-eighty-four", "fahrenheit-451", "george-orwell", "ray-bradbury", "dystopian-fiction"]
 excerpt: "A side-by-side reading of Animal Farm, 1984, and Fahrenheit 451 on how revolutions are betrayed, absorbed, and forgotten."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2015-03-21
+lang: en
 ---
-
 The question is not which of these three novels is more frightening. The question is which portrait of counter-revolution is most accurate. George Orwell, working in Hertfordshire in 1944, gave us a barnyard in which the animals win, rename their oppressors, and discover after a few harvests that their new masters sleep in the farmhouse beds they swore never to occupy. Orwell again, dying of tuberculosis on the Isle of Jura four years later, imagined a capital in which the rebellion is not lost but never existed, in which the Party has rewritten history so thoroughly that the very impulse to resist has to be invented fresh each generation by bewildered clerks like Winston Smith. Ray Bradbury, writing at a rented basement typewriter in the UCLA library in the summer of 1950, gave us a suburb in which revolt is not suppressed but forgotten, and the firemen burn books that most people have already stopped opening. Three portraits, three mechanisms, one shared diagnosis: freedom is not taken from the unwilling. It is taken from the willing, or from those who have been trained not to care.
 
 <!--more-->
 
-![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 These three texts are almost always taught together, and the reason is not simply chronological proximity or shared genre. Animal Farm appeared in August 1945, 1984 in June 1949, and Fahrenheit 451 in October 1953. Between them they span the last months of the Second World War, the beginning of the Cold War, and the consolidation of postwar consumer society in the United States. Each writer believed he was describing a mechanism of domination that the twentieth century had already invented and that democratic readers had not yet recognized. Read individually they are disturbing. Read together they are a short diagnostic manual for how revolt fails, and the argument of the present essay is that this diagnostic quality is what keeps the three novels current. Every generation since 1953 has read its own counter-revolutions into these three small novels, and the texts have absorbed the new readings without breaking. That is what classics do.
 

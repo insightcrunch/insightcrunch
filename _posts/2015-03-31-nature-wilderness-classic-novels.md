@@ -6,17 +6,17 @@ date: 2015-03-31
 categories: ["Leisure"]
 tags: ["wuthering-heights", "lord-of-the-flies", "heart-of-darkness", "emily-bronte", "william-golding", "joseph-conrad"]
 excerpt: "A comparative study of how Brontë, Golding, and Conrad use wild landscape to reveal what civilised life refuses to acknowledge about itself."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-03-31
+lang: en
 ---
-
 The question is not whether nature is beautiful or terrible. The question is what we are allowed to notice about ourselves when we are inside it. Emily Brontë, writing in 1846 at the parsonage in Haworth where a graveyard pressed against the kitchen wall, gave us a Yorkshire moor whose heather and wind produced a love affair the novel's drawing rooms could not contain. Joseph Conrad, recalling his 1890 journey up the Congo River while working at his desk in Pent Farm in Kent in 1898, gave us an African jungle that exposed the rot beneath European self-presentation. William Golding, composing in a Salisbury grammar-school classroom in 1951 after six years of wartime naval service, gave us a Pacific coral island where a group of English boys worked out, in about two months, what two thousand years of Christian education had been unable to prevent. Three wildernesses, three revelations, one shared thesis: the terrain tells the truth the parlor refuses to hear.
 
 <!--more-->
 
-![Nature and Wilderness in Classic Novels - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Nature and Wilderness in Classic Novels - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 These three novels are often taught together because they share a structural move. Each takes figures formed by civilised institutions and places them in a landscape those institutions cannot regulate. The landscape then acts as a solvent. What dissolves is whatever the civilised institutions had been concealing, and what remains is what was always underneath. Emily Brontë's moor dissolves the marriage plot and reveals a love that refuses the drawing room's etiquette. Golding's island dissolves the English public school and reveals the violence the school was designed to suppress. Conrad's Congo dissolves the civilising mission and reveals the extractive horror it was designed to justify. The three landscapes function differently, and the three authors have different theories of what exactly is revealed, but the mechanism is the same. Wilderness strips. Something shows underneath.
 

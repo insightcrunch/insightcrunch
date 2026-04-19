@@ -6,17 +6,17 @@ date: 2014-11-06
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "george-milton", "lennie-small", "character-analysis", "american-literature"]
 excerpt: "A deep reading of George Milton and Lennie Small, their friendship, the farm dream, and the final scene by the Salinas River."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2014-11-06
+lang: en
 ---
-
 The friendship between George Milton and Lennie Small is not a sentimental parable about loyalty. It is a calculated tragedy, engineered by John Steinbeck in 1937 to show what happens when two working men try to hold onto one another inside an economic order that has no use for their care. The novella gives them six chapters, roughly a hundred pages, and four days of narrated time. It ends, as it begins, on the bank of the Salinas River, under the same sycamores and across the same pool where carp slide between reeds. Everything that passes between the two riverbanks asks a single question: whether love can survive inside a system that pays workers by the week, feeds them beans in a bunkhouse, and keeps them moving.
 
 <!--more-->
 
-![George and Lennie Character Analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
+![George and Lennie Character Analysis - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Steinbeck staged the novella as a play-novelette, writing scenes that could be lifted almost verbatim onto a stage, and the six chapters function as six set pieces. Two pieces happen at the river, two in the bunkhouse, one in the harness room where Crooks sleeps, and one in the barn where Curley's wife dies. Inside that tight architecture, the reader meets two men who violate the central rule of their world: that a ranch hand travels alone, carries his possessions in a bindle, and trusts nobody. George and Lennie are together. They have each other. This fact is introduced in the first paragraph, repeated by both men as a ritual, explained to strangers with a mix of pride and wariness, and, by the end, revealed as the precise reason the story cannot have a happy ending.
 
