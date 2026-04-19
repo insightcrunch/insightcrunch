@@ -14,8 +14,6 @@ lang: en
 ---
 At 0415 on June 5 1944, in the wood-paneled library of Southwick House above Portsmouth, General Dwight Eisenhower looked at six men, waited through a silence of perhaps forty-five seconds, and said: "OK, we'll go." Outside the windows, rain was still whipping the tall cedars on the south lawn. Thirty-nine miles south across the Channel, the Cherbourg-Havre coast was quiet under a force-four wind. Roughly five thousand vessels lay in harbors from Belfast Lough to Torbay, engines cold. One hundred and fifty-six thousand troops were in billets or aboard transports waiting for the sentence that Eisenhower had just delivered. The paratroopers of the US 82nd and 101st Airborne, and the British 6th Airborne, would lift off from airfields across southern England at 2230 that evening. The first allied bayonets would be on French sand at 0630 the following morning.
 
-![Eisenhower conferring with SHAEF commanders at Southwick House on the eve of the Normandy invasion](/assets/blog/blog-01.webp)
-
 <!--more-->
 
 
