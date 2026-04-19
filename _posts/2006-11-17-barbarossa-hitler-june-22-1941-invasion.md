@@ -16,8 +16,6 @@ Hitler signed Directive 21 on December 18 1940, six months before the first panz
 
 ![Barbarossa: Hitler's June 22 1941 Invasion - Insight Crunch](/assets/images/blog/blog-71.webp)
 
-![Wehrmacht Group Center advancing across the Soviet frontier during Operation Barbarossa, June 22 1941](/assets/blog/blog-03.webp)
-
 This article reconstructs Operation Barbarossa as a decision, not as a campaign. The campaign narrative (Minsk, Smolensk, Kiev, Moscow, the Rasputitsa, the Russian winter) has been written well by a dozen historians; the decision narrative has been written less often because it requires holding the ideological frame and the staff planning in the same analytical frame without collapsing either into the other. The argument advanced here sides with David Glantz and David Stahel against the earlier Weinberg consensus: Barbarossa was not a strategically coherent operation that foundered on contingent setbacks. It was an operation whose planning assumptions guaranteed its defeat. The military objections Hitler overrode (Halder's reservations about two-front strategy, Abwehr intelligence that underestimated Soviet strength by nearly half, logistical plans that assumed captured stocks would fuel advance, winter-clothing requisitions sized for sixty percent of forward troops) were not marginal concerns. They were the points at which the plan would fail, and they were all known before June 22 1941.
 
 ## The Ideological Foundation
