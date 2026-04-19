@@ -4,20 +4,22 @@ title: "D-Day: Eisenhower's June 5 1944 Go Decision"
 page_title: "D-Day: Eisenhower's June 4 to 5 1944 Southwick House Go Decision and the Allied Committee That Almost Postponed the Invasion"
 date: 2006-11-28
 last_updated: 2006-11-28
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "decision-reconstruction", "european-theater", "1944", "d-day-normandy", "united-states"]
 image: /assets/blog/blog-01.webp
 excerpt: "Stagg forecast a 36-hour weather break. Eisenhower said 'OK, we'll go.' The committee process behind the most consequential Allied decision."
 slug: "d-day-eisenhower-june-5-1944-go-decision"
+lang: en
 ---
-
 At 0415 on June 5 1944, in the wood-paneled library of Southwick House above Portsmouth, General Dwight Eisenhower looked at six men, waited through a silence of perhaps forty-five seconds, and said: "OK, we'll go." Outside the windows, rain was still whipping the tall cedars on the south lawn. Thirty-nine miles south across the Channel, the Cherbourg-Havre coast was quiet under a force-four wind. Roughly five thousand vessels lay in harbors from Belfast Lough to Torbay, engines cold. One hundred and fifty-six thousand troops were in billets or aboard transports waiting for the sentence that Eisenhower had just delivered. The paratroopers of the US 82nd and 101st Airborne, and the British 6th Airborne, would lift off from airfields across southern England at 2230 that evening. The first allied bayonets would be on French sand at 0630 the following morning.
 
 ![Eisenhower conferring with SHAEF commanders at Southwick House on the eve of the Normandy invasion](/assets/blog/blog-01.webp)
 
 <!--more-->
 
+
+![D-Day: Eisenhower's June 5 1944 Go Decision - Insight Crunch](/assets/images/blog/blog-14.webp)
 This article reconstructs the go-call hour by hour from the first deteriorating forecast on June 2 1944 through the H-Hour of 0630 on June 6 1944. It tracks each meeting at Southwick House, each participant, each weather forecast revision, and each operational order. It adjudicates a specific historiographic disagreement: was the June 5 release a single man's call, as Stephen Ambrose framed it in his 1994 D-Day, or was it the product of the committee architecture that Eisenhower chaired, as Carlo D'Este argued in his 2002 Eisenhower biography and as Rick Atkinson documented in The Guns at Last Light in 2013? The weight of archival evidence supports Atkinson's balanced reconstruction: the committee structure at Southwick was real and was operationally determinative; Eisenhower's personal acceptance of responsibility, captured in his handwritten "In case of failure" note, confirmed singular authority at the moment of release but did not override the committee-informed content of the decision itself. The asymmetry between this model and the Axis command architecture opposite it in Normandy is the series' house thesis at its sharpest.
 
 ## Setup: The Problem Eisenhower Inherited
