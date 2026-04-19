@@ -3,17 +3,17 @@ layout: post
 title: "Pearl Harbor: Yamamoto's December 1941 Strike"
 page_title: "Pearl Harbor: Admiral Yamamoto's January 1941 Through December 1941 Strike Decision and the Japanese Naval Strategy That Defied Army Doctrine"
 date: 2006-11-22
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["isoroku-yamamoto", "decision-reconstruction", "pacific-theater", "1941", "pearl-harbor", "japan"]
 image: /assets/images/blog/blog-02.webp
 excerpt: "Yamamoto opposed war with America but planned the strike anyway. The calculation: six months of free run before industrial weight crushed Japan."
 slug: "pearl-harbor-yamamoto-december-1941-decision"
+lang: en
 ---
-
 On January 7, 1941, Admiral Isoroku Yamamoto sat in his quarters aboard the battleship Nagato in Hiroshima Bay and drafted a private letter to Navy Minister Koshiro Oikawa. The letter opened the most consequential eleven months of naval planning the Imperial Navy would ever undertake. In it, Yamamoto proposed something no Japanese flag officer had committed to paper before: a pre-emptive air strike against the United States Pacific Fleet at anchor in Pearl Harbor, Hawaii, to be launched on the opening day of a conflict that had not yet been declared and that Yamamoto himself publicly and privately opposed.
 
-![Admiral Isoroku Yamamoto over the Pearl Harbor raid plan, December 1941](/assets/images/blog/blog-02.webp)
+![Admiral Isoroku Yamamoto over the Pearl Harbor raid plan, December 1941](/assets/images/blog/blog-27.webp)
 
 This article reconstructs, month by month and in the final weeks day by day, how a commander who believed his country could not win a prolonged war nevertheless authored the operation that made the conflict inevitable. The framework is choice reconstruction in its most demanding form, because the decision being reconstructed is doubled: Yamamoto's private judgment that hostilities would end in Japan's defeat, and his operational judgment that if fighting came, only a crippling opening blow could buy the months of freedom the nation would need to build a defensive perimeter. The core claim defended below is that Pearl Harbor was not a single decision by a single admiral but a sequenced cascade of choices made by distinct actors (Yamamoto, Commander Minoru Genda, Vice Admiral Chuichi Nagumo, the Naval General Staff, the Imperial Conference, and, crucially, the absent Army leadership whose preference for a northern advance Yamamoto's southern-advance logic had to overcome) whose interactions the conventional single-admiral narrative obscures. The house thesis, that Allied committee architecture outperformed Axis command architecture, finds an unusual test case here: the Navy planning was itself committee-driven and produced an operational triumph, while Japan's strategic architecture at the coalition level, fractured by Army-Navy rivalry and the absence of any real German-Italian-Japanese campaign plan, produced the disaster Yamamoto privately predicted.
 

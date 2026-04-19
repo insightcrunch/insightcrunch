@@ -4,17 +4,17 @@ title: "D-Day: Eisenhower's June 5 1944 Go Decision"
 page_title: "D-Day: Eisenhower's June 4 to 5 1944 Southwick House Go Decision and the Allied Committee That Almost Postponed the Invasion"
 date: 2006-11-28
 last_updated: 2006-11-28
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "decision-reconstruction", "european-theater", "1944", "d-day-normandy", "united-states"]
 image: /assets/images/blog/blog-01.webp
 excerpt: "Stagg forecast a 36-hour weather break. Eisenhower said 'OK, we'll go.' The committee process behind the most consequential Allied decision."
 slug: "d-day-eisenhower-june-5-1944-go-decision"
+lang: en
 ---
-
 At 0415 on June 5 1944, in the wood-paneled library of Southwick House above Portsmouth, General Dwight Eisenhower looked at six men, waited through a silence of perhaps forty-five seconds, and said: "OK, we'll go." Outside the windows, rain was still whipping the tall cedars on the south lawn. Thirty-nine miles south across the Channel, the Cherbourg-Havre coast was quiet under a force-four wind. Roughly five thousand vessels lay in harbors from Belfast Lough to Torbay, engines cold. One hundred and fifty-six thousand troops were in billets or aboard transports waiting for the sentence that Eisenhower had just delivered. The paratroopers of the US 82nd and 101st Airborne, and the British 6th Airborne, would lift off from airfields across southern England at 2230 that evening. The first allied bayonets would be on French sand at 0630 the following morning.
 
-![Eisenhower conferring with SHAEF commanders at Southwick House on the eve of the Normandy invasion](/assets/images/blog/blog-01.webp)
+![Eisenhower conferring with SHAEF commanders at Southwick House on the eve of the Normandy invasion](/assets/images/blog/blog-14.webp)
 
 <!--more-->
 
