@@ -10,6 +10,7 @@ image: /assets/blog/blog-02.webp
 excerpt: "Yamamoto opposed war with America but planned the strike anyway. The calculation: six months of free run before industrial weight crushed Japan."
 slug: "pearl-harbor-yamamoto-december-1941-decision"
 lang: en
+last_updated: 2026-04-19
 ---
 On January 7, 1941, Admiral Isoroku Yamamoto sat in his quarters aboard the battleship Nagato in Hiroshima Bay and drafted a private letter to Navy Minister Koshiro Oikawa. The letter opened the most consequential eleven months of naval planning the Imperial Navy would ever undertake. In it, Yamamoto proposed something no Japanese flag officer had committed to paper before: a pre-emptive air strike against the United States Pacific Fleet at anchor in Pearl Harbor, Hawaii, to be launched on the opening day of a conflict that had not yet been declared and that Yamamoto himself publicly and privately opposed.
 

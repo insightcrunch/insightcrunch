@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-18T14:24:17Z",
+  "generated": "2026-04-19T16:41:09Z",
   "threshold": 50,
-  "totalPosts": 1598,
-  "flaggedPosts": 1280,
+  "totalPosts": 1601,
+  "flaggedPosts": 1283,
   "suppressedPosts": 0,
   "stalePosts": 0,
   "worstWord": "available",
   "worstCount": 1711,
   "worstPost": "Isolation in Classic Novels Compared",
-  "avgTopCount": 224.6,
+  "avgTopCount": 223.0,
   "posts": [
     {
       "filename": "1996-08-07-sat-nursing-health-programs.md",
@@ -30065,6 +30065,368 @@
         {
           "word": "current",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2006-11-17-barbarossa-hitler-june-22-1941-invasion.md",
+      "slug": "barbarossa-hitler-june-22-1941-invasion",
+      "title": "Barbarossa: Hitler's June 22 1941 Invasion",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7953,
+      "topWord": "barbarossa",
+      "topCount": 121,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-17-barbarossa-hitler-june-22-1941-invasion.md",
+      "flaggedWords": [
+        {
+          "word": "barbarossa",
+          "count": 121
+        },
+        {
+          "word": "hitler",
+          "count": 114
+        },
+        {
+          "word": "soviet",
+          "count": 110
+        },
+        {
+          "word": "german",
+          "count": 77
+        },
+        {
+          "word": "army",
+          "count": 70
+        },
+        {
+          "word": "war",
+          "count": 58
+        },
+        {
+          "word": "campaign",
+          "count": 55
+        },
+        {
+          "word": "wehrmacht",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "barbarossa",
+          "count": 121
+        },
+        {
+          "word": "hitler",
+          "count": 114
+        },
+        {
+          "word": "soviet",
+          "count": 110
+        },
+        {
+          "word": "german",
+          "count": 77
+        },
+        {
+          "word": "army",
+          "count": 70
+        },
+        {
+          "word": "war",
+          "count": 58
+        },
+        {
+          "word": "campaign",
+          "count": 55
+        },
+        {
+          "word": "wehrmacht",
+          "count": 53
+        },
+        {
+          "word": "halder",
+          "count": 50
+        },
+        {
+          "word": "strategic",
+          "count": 50
+        },
+        {
+          "word": "operational",
+          "count": 49
+        },
+        {
+          "word": "military",
+          "count": 49
+        },
+        {
+          "word": "decision",
+          "count": 48
+        },
+        {
+          "word": "june",
+          "count": 48
+        },
+        {
+          "word": "approximately",
+          "count": 47
+        },
+        {
+          "word": "staff",
+          "count": 44
+        },
+        {
+          "word": "force",
+          "count": 43
+        },
+        {
+          "word": "december",
+          "count": 42
+        },
+        {
+          "word": "july",
+          "count": 42
+        },
+        {
+          "word": "moscow",
+          "count": 42
+        }
+      ]
+    },
+    {
+      "filename": "2006-11-22-pearl-harbor-yamamoto-december-1941-decision.md",
+      "slug": "pearl-harbor-yamamoto-december-1941-decision",
+      "title": "Pearl Harbor: Yamamoto's December 1941 Strike",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7801,
+      "topWord": "harbor",
+      "topCount": 126,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-22-pearl-harbor-yamamoto-december-1941-decision.md",
+      "flaggedWords": [
+        {
+          "word": "harbor",
+          "count": 126
+        },
+        {
+          "word": "pearl",
+          "count": 110
+        },
+        {
+          "word": "yamamoto",
+          "count": 100
+        },
+        {
+          "word": "japan",
+          "count": 57
+        }
+      ],
+      "top20": [
+        {
+          "word": "harbor",
+          "count": 126
+        },
+        {
+          "word": "pearl",
+          "count": 110
+        },
+        {
+          "word": "yamamoto",
+          "count": 100
+        },
+        {
+          "word": "japan",
+          "count": 57
+        },
+        {
+          "word": "naval",
+          "count": 50
+        },
+        {
+          "word": "japanese",
+          "count": 49
+        },
+        {
+          "word": "war",
+          "count": 49
+        },
+        {
+          "word": "operation",
+          "count": 49
+        },
+        {
+          "word": "attack",
+          "count": 48
+        },
+        {
+          "word": "navy",
+          "count": 46
+        },
+        {
+          "word": "strike",
+          "count": 46
+        },
+        {
+          "word": "decision",
+          "count": 45
+        },
+        {
+          "word": "operational",
+          "count": 45
+        },
+        {
+          "word": "strategic",
+          "count": 45
+        },
+        {
+          "word": "approximately",
+          "count": 43
+        },
+        {
+          "word": "pacific",
+          "count": 42
+        },
+        {
+          "word": "imperial",
+          "count": 41
+        },
+        {
+          "word": "aircraft",
+          "count": 41
+        },
+        {
+          "word": "november",
+          "count": 38
+        },
+        {
+          "word": "december",
+          "count": 38
+        }
+      ]
+    },
+    {
+      "filename": "2006-11-28-d-day-eisenhower-june-5-1944-go-decision.md",
+      "slug": "d-day-eisenhower-june-5-1944-go-decision",
+      "title": "D-Day: Eisenhower's June 5 1944 Go Decision",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7523,
+      "topWord": "june",
+      "topCount": 243,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2006-11-28-d-day-eisenhower-june-5-1944-go-decision.md",
+      "flaggedWords": [
+        {
+          "word": "june",
+          "count": 243
+        },
+        {
+          "word": "eisenhower",
+          "count": 124
+        }
+      ],
+      "top20": [
+        {
+          "word": "june",
+          "count": 243
+        },
+        {
+          "word": "eisenhower",
+          "count": 124
+        },
+        {
+          "word": "stagg",
+          "count": 49
+        },
+        {
+          "word": "force",
+          "count": 48
+        },
+        {
+          "word": "operational",
+          "count": 48
+        },
+        {
+          "word": "airborne",
+          "count": 45
+        },
+        {
+          "word": "air",
+          "count": 45
+        },
+        {
+          "word": "release",
+          "count": 44
+        },
+        {
+          "word": "window",
+          "count": 42
+        },
+        {
+          "word": "produced",
+          "count": 37
+        },
+        {
+          "word": "southwick",
+          "count": 36
+        },
+        {
+          "word": "weather",
+          "count": 36
+        },
+        {
+          "word": "channel",
+          "count": 34
+        },
+        {
+          "word": "command",
+          "count": 34
+        },
+        {
+          "word": "conference",
+          "count": 34
+        },
+        {
+          "word": "naval",
+          "count": 34
+        },
+        {
+          "word": "hour",
+          "count": 33
+        },
+        {
+          "word": "allied",
+          "count": 31
+        },
+        {
+          "word": "architecture",
+          "count": 30
+        },
+        {
+          "word": "montgomery",
+          "count": 30
         }
       ]
     },
@@ -72428,9 +72790,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 9942,
-      "topWord": "requiring",
-      "topCount": 370,
+      "wordCount": 6637,
+      "topWord": "lennie",
+      "topCount": 183,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -72439,166 +72801,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-11-06-george-lennie-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "requiring",
-          "count": 370
-        },
-        {
-          "word": "social",
-          "count": 336
-        },
-        {
-          "word": "understanding",
-          "count": 194
-        },
-        {
-          "word": "individual",
-          "count": 154
-        },
-        {
-          "word": "building",
-          "count": 146
-        },
-        {
-          "word": "development",
-          "count": 136
-        },
-        {
-          "word": "demonstrating",
-          "count": 136
-        },
-        {
-          "word": "analysis",
-          "count": 125
-        },
-        {
-          "word": "support",
-          "count": 113
-        },
-        {
-          "word": "contemporary",
-          "count": 103
-        },
-        {
-          "word": "cultural",
-          "count": 93
-        },
-        {
-          "word": "effective",
-          "count": 91
-        },
-        {
-          "word": "relationships",
-          "count": 89
-        },
-        {
-          "word": "moral",
-          "count": 89
-        },
-        {
-          "word": "community",
-          "count": 88
-        },
-        {
           "word": "lennie",
-          "count": 87
-        },
-        {
-          "word": "relationship",
-          "count": 86
-        },
-        {
-          "word": "necessary",
-          "count": 85
+          "count": 183
         },
         {
           "word": "george",
-          "count": 84
+          "count": 158
         },
         {
-          "word": "economic",
-          "count": 76
+          "word": "steinbeck",
+          "count": 120
+        },
+        {
+          "word": "curley",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "requiring",
-          "count": 370
-        },
-        {
-          "word": "social",
-          "count": 336
-        },
-        {
-          "word": "understanding",
-          "count": 194
-        },
-        {
-          "word": "individual",
-          "count": 154
-        },
-        {
-          "word": "building",
-          "count": 146
-        },
-        {
-          "word": "development",
-          "count": 136
-        },
-        {
-          "word": "demonstrating",
-          "count": 136
-        },
-        {
-          "word": "analysis",
-          "count": 125
-        },
-        {
-          "word": "support",
-          "count": 113
-        },
-        {
-          "word": "contemporary",
-          "count": 103
-        },
-        {
-          "word": "cultural",
-          "count": 93
-        },
-        {
-          "word": "effective",
-          "count": 91
-        },
-        {
-          "word": "relationships",
-          "count": 89
-        },
-        {
-          "word": "moral",
-          "count": 89
-        },
-        {
-          "word": "community",
-          "count": 88
-        },
-        {
           "word": "lennie",
-          "count": 87
-        },
-        {
-          "word": "relationship",
-          "count": 86
-        },
-        {
-          "word": "necessary",
-          "count": 85
+          "count": 183
         },
         {
           "word": "george",
-          "count": 84
+          "count": 158
         },
         {
-          "word": "economic",
-          "count": 76
+          "word": "steinbeck",
+          "count": 120
+        },
+        {
+          "word": "curley",
+          "count": 56
+        },
+        {
+          "word": "candy",
+          "count": 50
+        },
+        {
+          "word": "novella",
+          "count": 49
+        },
+        {
+          "word": "chapter",
+          "count": 48
+        },
+        {
+          "word": "dream",
+          "count": 47
+        },
+        {
+          "word": "novel",
+          "count": 45
+        },
+        {
+          "word": "ranch",
+          "count": 43
+        },
+        {
+          "word": "slim",
+          "count": 41
+        },
+        {
+          "word": "crooks",
+          "count": 36
+        },
+        {
+          "word": "book",
+          "count": 35
+        },
+        {
+          "word": "farm",
+          "count": 32
+        },
+        {
+          "word": "specific",
+          "count": 29
+        },
+        {
+          "word": "wife",
+          "count": 27
+        },
+        {
+          "word": "american",
+          "count": 26
+        },
+        {
+          "word": "tells",
+          "count": 25
+        },
+        {
+          "word": "inside",
+          "count": 22
+        },
+        {
+          "word": "reader",
+          "count": 20
         }
       ]
     },
@@ -77049,9 +77347,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4612,
-      "topWord": "revolutionary",
-      "topCount": 77,
+      "wordCount": 6740,
+      "topWord": "orwell",
+      "topCount": 110,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -77060,106 +77358,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-21-revolution-rebellion-classic-novels.md",
       "flaggedWords": [
         {
-          "word": "revolutionary",
-          "count": 77
+          "word": "orwell",
+          "count": 110
         },
         {
-          "word": "political",
-          "count": 67
+          "word": "bradbury",
+          "count": 86
         },
         {
-          "word": "human",
-          "count": 54
-        },
-        {
-          "word": "demonstrates",
-          "count": 53
-        },
-        {
-          "word": "social",
-          "count": 52
+          "word": "animal",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "revolutionary",
-          "count": 77
+          "word": "orwell",
+          "count": 110
         },
         {
-          "word": "political",
-          "count": 67
+          "word": "bradbury",
+          "count": 86
         },
         {
-          "word": "human",
-          "count": 54
+          "word": "animal",
+          "count": 51
         },
         {
-          "word": "demonstrates",
-          "count": 53
-        },
-        {
-          "word": "social",
-          "count": 52
-        },
-        {
-          "word": "represents",
+          "word": "novel",
           "count": 48
         },
         {
-          "word": "cultural",
+          "word": "farm",
           "count": 47
         },
         {
-          "word": "control",
+          "word": "party",
           "count": 46
         },
         {
-          "word": "totalitarian",
-          "count": 43
+          "word": "fahrenheit",
+          "count": 44
         },
         {
-          "word": "movements",
-          "count": 37
+          "word": "political",
+          "count": 41
         },
         {
-          "word": "contemporary",
-          "count": 36
+          "word": "revolution",
+          "count": 40
         },
         {
-          "word": "understanding",
-          "count": 36
+          "word": "winston",
+          "count": 39
         },
         {
-          "word": "critical",
-          "count": 36
+          "word": "montag",
+          "count": 33
         },
         {
-          "word": "analysis",
-          "count": 32
-        },
-        {
-          "word": "power",
-          "count": 32
-        },
-        {
-          "word": "literature",
-          "count": 30
-        },
-        {
-          "word": "development",
-          "count": 29
-        },
-        {
-          "word": "intellectual",
-          "count": 29
-        },
-        {
-          "word": "systems",
+          "word": "books",
           "count": 28
         },
         {
-          "word": "individual",
+          "word": "reading",
           "count": 28
+        },
+        {
+          "word": "regime",
+          "count": 26
+        },
+        {
+          "word": "works",
+          "count": 26
+        },
+        {
+          "word": "readers",
+          "count": 25
+        },
+        {
+          "word": "specific",
+          "count": 25
+        },
+        {
+          "word": "text",
+          "count": 25
+        },
+        {
+          "word": "animals",
+          "count": 24
+        },
+        {
+          "word": "reader",
+          "count": 24
         }
       ]
     },
@@ -77353,9 +77643,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 9928,
-      "topWord": "environmental",
-      "topCount": 723,
+      "wordCount": 6783,
+      "topWord": "golding",
+      "topCount": 68,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -77364,166 +77654,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-03-31-nature-wilderness-classic-novels.md",
       "flaggedWords": [
         {
-          "word": "environmental",
-          "count": 723
+          "word": "golding",
+          "count": 68
         },
         {
-          "word": "requiring",
-          "count": 360
+          "word": "bront",
+          "count": 67
         },
         {
-          "word": "cultural",
-          "count": 266
-        },
-        {
-          "word": "building",
-          "count": 225
-        },
-        {
-          "word": "understanding",
-          "count": 194
-        },
-        {
-          "word": "effective",
-          "count": 188
-        },
-        {
-          "word": "literary",
-          "count": 161
-        },
-        {
-          "word": "development",
-          "count": 125
-        },
-        {
-          "word": "natural",
-          "count": 112
-        },
-        {
-          "word": "analysis",
-          "count": 106
-        },
-        {
-          "word": "contemporary",
-          "count": 106
-        },
-        {
-          "word": "literature",
-          "count": 101
-        },
-        {
-          "word": "necessary",
-          "count": 99
-        },
-        {
-          "word": "artistic",
-          "count": 91
-        },
-        {
-          "word": "education",
-          "count": 84
-        },
-        {
-          "word": "engagement",
-          "count": 83
-        },
-        {
-          "word": "knowledge",
-          "count": 83
-        },
-        {
-          "word": "demonstrating",
-          "count": 81
-        },
-        {
-          "word": "social",
-          "count": 80
-        },
-        {
-          "word": "provides",
-          "count": 76
+          "word": "conrad",
+          "count": 63
         }
       ],
       "top20": [
         {
-          "word": "environmental",
-          "count": 723
+          "word": "golding",
+          "count": 68
         },
         {
-          "word": "requiring",
-          "count": 360
+          "word": "bront",
+          "count": 67
         },
         {
-          "word": "cultural",
-          "count": 266
+          "word": "conrad",
+          "count": 63
         },
         {
-          "word": "building",
-          "count": 225
+          "word": "novel",
+          "count": 48
         },
         {
-          "word": "understanding",
-          "count": 194
+          "word": "boys",
+          "count": 48
         },
         {
-          "word": "effective",
-          "count": 188
+          "word": "moors",
+          "count": 46
         },
         {
-          "word": "literary",
-          "count": 161
+          "word": "civilised",
+          "count": 43
         },
         {
-          "word": "development",
-          "count": 125
+          "word": "landscape",
+          "count": 42
         },
         {
-          "word": "natural",
-          "count": 112
+          "word": "heights",
+          "count": 40
         },
         {
-          "word": "analysis",
-          "count": 106
+          "word": "marlow",
+          "count": 40
         },
         {
-          "word": "contemporary",
-          "count": 106
+          "word": "catherine",
+          "count": 37
         },
         {
-          "word": "literature",
-          "count": 101
+          "word": "jungle",
+          "count": 36
         },
         {
-          "word": "necessary",
-          "count": 99
+          "word": "island",
+          "count": 34
         },
         {
-          "word": "artistic",
-          "count": 91
+          "word": "specific",
+          "count": 34
         },
         {
-          "word": "education",
-          "count": 84
+          "word": "wilderness",
+          "count": 33
         },
         {
-          "word": "engagement",
-          "count": 83
+          "word": "civilisation",
+          "count": 33
         },
         {
-          "word": "knowledge",
-          "count": 83
+          "word": "heathcliff",
+          "count": 33
         },
         {
-          "word": "demonstrating",
-          "count": 81
+          "word": "wuthering",
+          "count": 30
         },
         {
-          "word": "social",
-          "count": 80
+          "word": "darkness",
+          "count": 30
         },
         {
-          "word": "provides",
-          "count": 76
+          "word": "lord",
+          "count": 29
         }
       ]
     },
@@ -189109,9 +189331,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7156,
+      "wordCount": 7176,
       "topWord": "operation",
-      "topCount": 238,
+      "topCount": 164,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -189121,129 +189343,113 @@
       "flaggedWords": [
         {
           "word": "operation",
-          "count": 238
-        },
-        {
-          "word": "franchise",
-          "count": 213
+          "count": 164
         },
         {
           "word": "intelligence",
-          "count": 208
+          "count": 101
         },
         {
-          "word": "operational",
-          "count": 111
-        },
-        {
-          "word": "specific",
-          "count": 97
+          "word": "mission",
+          "count": 80
         },
         {
           "word": "network",
-          "count": 79
+          "count": 78
         },
         {
-          "word": "institutional",
-          "count": 68
-        },
-        {
-          "word": "strategic",
-          "count": 61
+          "word": "franchise",
+          "count": 62
         },
         {
           "word": "hamza",
           "count": 58
         },
         {
-          "word": "collection",
+          "word": "duology",
           "count": 56
-        },
-        {
-          "word": "cover",
-          "count": 55
         }
       ],
       "top20": [
         {
           "word": "operation",
-          "count": 238
-        },
-        {
-          "word": "franchise",
-          "count": 213
+          "count": 164
         },
         {
           "word": "intelligence",
-          "count": 208
+          "count": 101
         },
         {
-          "word": "operational",
-          "count": 111
-        },
-        {
-          "word": "specific",
-          "count": 97
+          "word": "mission",
+          "count": 80
         },
         {
           "word": "network",
-          "count": 79
+          "count": 78
         },
         {
-          "word": "institutional",
-          "count": 68
-        },
-        {
-          "word": "strategic",
-          "count": 61
+          "word": "franchise",
+          "count": 62
         },
         {
           "word": "hamza",
           "count": 58
         },
         {
-          "word": "collection",
+          "word": "duology",
           "count": 56
         },
         {
           "word": "cover",
-          "count": 55
+          "count": 50
         },
         {
           "word": "dhurandhar",
-          "count": 49
+          "count": 47
         },
         {
-          "word": "operations",
-          "count": 45
-        },
-        {
-          "word": "phase",
-          "count": 45
-        },
-        {
-          "word": "asset",
-          "count": 43
+          "word": "institutional",
+          "count": 44
         },
         {
           "word": "decade",
+          "count": 44
+        },
+        {
+          "word": "collection",
+          "count": 44
+        },
+        {
+          "word": "phase",
+          "count": 44
+        },
+        {
+          "word": "spy",
           "count": 43
         },
         {
-          "word": "human",
+          "word": "asset",
+          "count": 42
+        },
+        {
+          "word": "operational",
           "count": 42
         },
         {
           "word": "cost",
-          "count": 42
+          "count": 40
+        },
+        {
+          "word": "specific",
+          "count": 40
         },
         {
           "word": "logic",
-          "count": 40
+          "count": 39
         },
         {
-          "word": "requires",
-          "count": 40
+          "word": "films",
+          "count": 39
         }
       ]
     },
@@ -189255,9 +189461,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7231,
+      "wordCount": 7270,
       "topWord": "franchise",
-      "topCount": 329,
+      "topCount": 145,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -189267,55 +189473,63 @@
       "flaggedWords": [
         {
           "word": "franchise",
-          "count": 329
-        },
-        {
-          "word": "commercial",
-          "count": 199
-        },
-        {
-          "word": "audience",
-          "count": 159
+          "count": 145
         },
         {
           "word": "film",
-          "count": 146
-        },
-        {
-          "word": "hindi",
-          "count": 141
+          "count": 132
         },
         {
           "word": "records",
-          "count": 134
+          "count": 107
         },
         {
-          "word": "performance",
-          "count": 101
+          "word": "audience",
+          "count": 107
         },
         {
           "word": "opening",
-          "count": 90
+          "count": 91
         },
         {
-          "word": "films",
-          "count": 87
+          "word": "hindi",
+          "count": 83
         },
         {
           "word": "week",
-          "count": 80
+          "count": 74
         },
         {
-          "word": "cinema",
-          "count": 78
+          "word": "bollywood",
+          "count": 72
+        },
+        {
+          "word": "films",
+          "count": 70
+        },
+        {
+          "word": "office",
+          "count": 61
+        },
+        {
+          "word": "box",
+          "count": 59
+        },
+        {
+          "word": "performance",
+          "count": 56
         },
         {
           "word": "crore",
+          "count": 54
+        },
+        {
+          "word": "duology",
           "count": 52
         },
         {
-          "word": "indian",
-          "count": 51
+          "word": "release",
+          "count": 52
         },
         {
           "word": "data",
@@ -189325,83 +189539,83 @@
       "top20": [
         {
           "word": "franchise",
-          "count": 329
-        },
-        {
-          "word": "commercial",
-          "count": 199
-        },
-        {
-          "word": "audience",
-          "count": 159
+          "count": 145
         },
         {
           "word": "film",
-          "count": 146
-        },
-        {
-          "word": "hindi",
-          "count": 141
+          "count": 132
         },
         {
           "word": "records",
-          "count": 134
+          "count": 107
         },
         {
-          "word": "performance",
-          "count": 101
+          "word": "audience",
+          "count": 107
         },
         {
           "word": "opening",
-          "count": 90
+          "count": 91
         },
         {
-          "word": "films",
-          "count": 87
+          "word": "hindi",
+          "count": 83
         },
         {
           "word": "week",
-          "count": 80
+          "count": 74
         },
         {
-          "word": "cinema",
-          "count": 78
+          "word": "bollywood",
+          "count": 72
+        },
+        {
+          "word": "films",
+          "count": 70
+        },
+        {
+          "word": "office",
+          "count": 61
+        },
+        {
+          "word": "box",
+          "count": 59
+        },
+        {
+          "word": "performance",
+          "count": 56
         },
         {
           "word": "crore",
+          "count": 54
+        },
+        {
+          "word": "duology",
           "count": 52
         },
         {
-          "word": "indian",
-          "count": 51
+          "word": "release",
+          "count": 52
         },
         {
           "word": "data",
           "count": 51
         },
         {
-          "word": "specific",
-          "count": 50
-        },
-        {
-          "word": "record",
-          "count": 49
-        },
-        {
           "word": "model",
           "count": 47
         },
         {
+          "word": "specific",
+          "count": 46
+        },
+        {
+          "word": "dhurandhar",
+          "count": 45
+        },
+        {
           "word": "industry",
           "count": 44
-        },
-        {
-          "word": "generated",
-          "count": 37
-        },
-        {
-          "word": "advance",
-          "count": 34
         }
       ]
     },
@@ -189413,9 +189627,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6941,
-      "topWord": "franchise",
-      "topCount": 267,
+      "wordCount": 7073,
+      "topWord": "hamza",
+      "topCount": 91,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -189424,140 +189638,132 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-05-24-supporting-characters-analysis-dhurandhar.md",
       "flaggedWords": [
         {
-          "word": "franchise",
-          "count": 267
-        },
-        {
-          "word": "specific",
-          "count": 102
-        },
-        {
-          "word": "institutional",
+          "word": "hamza",
           "count": 91
         },
         {
-          "word": "hamza",
-          "count": 86
-        },
-        {
           "word": "supporting",
-          "count": 82
+          "count": 77
         },
         {
           "word": "character",
-          "count": 78
+          "count": 70
         },
         {
           "word": "ensemble",
-          "count": 71
+          "count": 70
         },
         {
           "word": "operation",
           "count": 62
         },
         {
-          "word": "jameel",
-          "count": 58
+          "word": "dhar",
+          "count": 60
         },
         {
-          "word": "criminal",
-          "count": 52
+          "word": "jameel",
+          "count": 59
+        },
+        {
+          "word": "lyari",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "franchise",
-          "count": 267
-        },
-        {
-          "word": "specific",
-          "count": 102
-        },
-        {
-          "word": "institutional",
+          "word": "hamza",
           "count": 91
         },
         {
-          "word": "hamza",
-          "count": 86
-        },
-        {
           "word": "supporting",
-          "count": 82
+          "count": 77
         },
         {
           "word": "character",
-          "count": 78
+          "count": 70
         },
         {
           "word": "ensemble",
-          "count": 71
+          "count": 70
         },
         {
           "word": "operation",
           "count": 62
         },
         {
+          "word": "dhar",
+          "count": 60
+        },
+        {
           "word": "jameel",
-          "count": 58
+          "count": 59
         },
         {
-          "word": "criminal",
-          "count": 52
-        },
-        {
-          "word": "operational",
-          "count": 50
+          "word": "lyari",
+          "count": 55
         },
         {
           "word": "rehman",
           "count": 50
         },
         {
-          "word": "lyari",
+          "word": "operational",
           "count": 49
         },
         {
-          "word": "characters",
+          "word": "duology",
+          "count": 48
+        },
+        {
+          "word": "agency",
           "count": 47
         },
         {
-          "word": "function",
-          "count": 47
+          "word": "cast",
+          "count": 45
         },
         {
           "word": "community",
           "count": 45
         },
         {
-          "word": "relationship",
+          "word": "criminal",
           "count": 45
+        },
+        {
+          "word": "function",
+          "count": 45
+        },
+        {
+          "word": "films",
+          "count": 44
+        },
+        {
+          "word": "milieu",
+          "count": 44
+        },
+        {
+          "word": "relationship",
+          "count": 44
         },
         {
           "word": "cover",
           "count": 43
-        },
-        {
-          "word": "narrative",
-          "count": 42
-        },
-        {
-          "word": "intelligence",
-          "count": 41
         }
       ]
     },
     {
       "filename": "2026-05-28-dhurandhar-cinematography-visual-style.md",
       "slug": "dhurandhar-cinematography-visual-style",
-      "title": "Dhurandhar Cinematography and Visual Style",
+      "title": "Dhurandhar Cinematography and photographic style",
       "categories": [
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6970,
-      "topWord": "visual",
-      "topCount": 261,
+      "wordCount": 7006,
+      "topWord": "hamza",
+      "topCount": 83,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -189566,114 +189772,82 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-05-28-dhurandhar-cinematography-visual-style.md",
       "flaggedWords": [
         {
-          "word": "visual",
-          "count": 261
-        },
-        {
-          "word": "franchise",
-          "count": 244
-        },
-        {
-          "word": "specific",
-          "count": 123
-        },
-        {
-          "word": "sequences",
-          "count": 114
-        },
-        {
-          "word": "camera",
-          "count": 101
-        },
-        {
           "word": "hamza",
-          "count": 82
+          "count": 83
         },
         {
-          "word": "cover",
-          "count": 63
-        },
-        {
-          "word": "language",
-          "count": 62
-        },
-        {
-          "word": "quality",
-          "count": 61
+          "word": "dhurandhar",
+          "count": 67
         },
         {
           "word": "lyari",
-          "count": 55
-        },
-        {
-          "word": "grammar",
-          "count": 54
+          "count": 58
         }
       ],
       "top20": [
         {
-          "word": "visual",
-          "count": 261
-        },
-        {
-          "word": "franchise",
-          "count": 244
-        },
-        {
-          "word": "specific",
-          "count": 123
-        },
-        {
-          "word": "sequences",
-          "count": 114
-        },
-        {
-          "word": "camera",
-          "count": 101
-        },
-        {
           "word": "hamza",
-          "count": 82
+          "count": 83
         },
         {
-          "word": "cover",
-          "count": 63
-        },
-        {
-          "word": "language",
-          "count": 62
-        },
-        {
-          "word": "quality",
-          "count": 61
+          "word": "dhurandhar",
+          "count": 67
         },
         {
           "word": "lyari",
-          "count": 55
+          "count": 58
         },
         {
-          "word": "grammar",
-          "count": 54
+          "word": "cinematographic",
+          "count": 50
+        },
+        {
+          "word": "camera",
+          "count": 49
+        },
+        {
+          "word": "photographic",
+          "count": 49
+        },
+        {
+          "word": "shot",
+          "count": 48
+        },
+        {
+          "word": "frame",
+          "count": 47
         },
         {
           "word": "audience",
-          "count": 44
+          "count": 46
+        },
+        {
+          "word": "film",
+          "count": 43
         },
         {
           "word": "movement",
           "count": 40
         },
         {
+          "word": "image",
+          "count": 40
+        },
+        {
+          "word": "level",
+          "count": 39
+        },
+        {
           "word": "institutional",
           "count": 39
         },
         {
-          "word": "frame",
-          "count": 38
+          "word": "visual",
+          "count": 39
         },
         {
-          "word": "shot",
-          "count": 37
+          "word": "pairing",
+          "count": 39
         },
         {
           "word": "films",
@@ -189701,9 +189875,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6876,
+      "wordCount": 7142,
       "topWord": "uri",
-      "topCount": 208,
+      "topCount": 222,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -189713,104 +189887,40 @@
       "flaggedWords": [
         {
           "word": "uri",
-          "count": 208
-        },
-        {
-          "word": "franchise",
-          "count": 155
-        },
-        {
-          "word": "specific",
-          "count": 135
-        },
-        {
-          "word": "film",
-          "count": 124
+          "count": 222
         },
         {
           "word": "dhurandhar",
-          "count": 124
-        },
-        {
-          "word": "creative",
-          "count": 109
-        },
-        {
-          "word": "comparison",
-          "count": 74
-        },
-        {
-          "word": "films",
-          "count": 74
-        },
-        {
-          "word": "development",
-          "count": 62
-        },
-        {
-          "word": "commercial",
-          "count": 62
+          "count": 175
         },
         {
           "word": "dhar",
-          "count": 61
-        },
-        {
-          "word": "filmmaker",
-          "count": 54
+          "count": 67
         }
       ],
       "top20": [
         {
           "word": "uri",
-          "count": 208
-        },
-        {
-          "word": "franchise",
-          "count": 155
-        },
-        {
-          "word": "specific",
-          "count": 135
-        },
-        {
-          "word": "film",
-          "count": 124
+          "count": 222
         },
         {
           "word": "dhurandhar",
-          "count": 124
-        },
-        {
-          "word": "creative",
-          "count": 109
-        },
-        {
-          "word": "comparison",
-          "count": 74
-        },
-        {
-          "word": "films",
-          "count": 74
-        },
-        {
-          "word": "development",
-          "count": 62
-        },
-        {
-          "word": "commercial",
-          "count": 62
+          "count": 175
         },
         {
           "word": "dhar",
-          "count": 61
+          "count": 67
         },
         {
-          "word": "filmmaker",
-          "count": 54
+          "word": "film",
+          "count": 49
         },
         {
           "word": "emotional",
+          "count": 49
+        },
+        {
+          "word": "audience",
           "count": 49
         },
         {
@@ -189822,38 +189932,66 @@
           "count": 45
         },
         {
-          "word": "audience",
-          "count": 45
-        },
-        {
           "word": "military",
-          "count": 40
+          "count": 42
         },
         {
           "word": "performance",
-          "count": 40
+          "count": 41
+        },
+        {
+          "word": "creative",
+          "count": 35
         },
         {
           "word": "cinema",
+          "count": 34
+        },
+        {
+          "word": "ambition",
           "count": 33
         },
         {
           "word": "narrative",
           "count": 33
+        },
+        {
+          "word": "indian",
+          "count": 32
+        },
+        {
+          "word": "significant",
+          "count": 32
+        },
+        {
+          "word": "films",
+          "count": 31
+        },
+        {
+          "word": "project",
+          "count": 31
+        },
+        {
+          "word": "artistic",
+          "count": 29
+        },
+        {
+          "word": "requires",
+          "count": 29
         }
       ]
     },
     {
       "filename": "2026-06-03-dhurandhar-controversies-explained.md",
       "slug": "dhurandhar-controversies-explained",
-      "title": "Dhurandhar Controversies Explained",
+      "title": "Dhurandhar Disputes Explained",
       "categories": [
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7342,
-      "topWord": "franchise",
-      "topCount": 386,
+      "wordCount": 7876,
+      "topWord": "dhurandhar",
+      "topCount": 103,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -189862,129 +190000,45 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-03-dhurandhar-controversies-explained.md",
       "flaggedWords": [
         {
-          "word": "franchise",
-          "count": 386
-        },
-        {
-          "word": "political",
-          "count": 182
-        },
-        {
-          "word": "specific",
-          "count": 148
-        },
-        {
-          "word": "controversy",
-          "count": 133
-        },
-        {
-          "word": "commercial",
-          "count": 128
-        },
-        {
-          "word": "controversies",
-          "count": 96
-        },
-        {
-          "word": "cinema",
-          "count": 92
-        },
-        {
-          "word": "indian",
-          "count": 76
-        },
-        {
-          "word": "propaganda",
-          "count": 68
-        },
-        {
-          "word": "content",
-          "count": 60
-        },
-        {
-          "word": "cultural",
-          "count": 59
-        },
-        {
-          "word": "positions",
-          "count": 59
-        },
-        {
-          "word": "film",
-          "count": 53
-        },
-        {
-          "word": "films",
-          "count": 51
+          "word": "dhurandhar",
+          "count": 103
         }
       ],
       "top20": [
         {
-          "word": "franchise",
-          "count": 386
-        },
-        {
-          "word": "political",
-          "count": 182
-        },
-        {
-          "word": "specific",
-          "count": 148
+          "word": "dhurandhar",
+          "count": 103
         },
         {
           "word": "controversy",
-          "count": 133
+          "count": 50
         },
         {
-          "word": "commercial",
-          "count": 128
-        },
-        {
-          "word": "controversies",
-          "count": 96
+          "word": "debate",
+          "count": 50
         },
         {
           "word": "cinema",
-          "count": 92
+          "count": 48
         },
         {
-          "word": "indian",
-          "count": 76
+          "word": "political",
+          "count": 47
         },
         {
-          "word": "propaganda",
-          "count": 68
-        },
-        {
-          "word": "content",
-          "count": 60
-        },
-        {
-          "word": "cultural",
-          "count": 59
-        },
-        {
-          "word": "positions",
-          "count": 59
-        },
-        {
-          "word": "film",
-          "count": 53
-        },
-        {
-          "word": "films",
-          "count": 51
-        },
-        {
-          "word": "artistic",
-          "count": 49
-        },
-        {
-          "word": "audience",
+          "word": "public",
           "count": 46
         },
         {
+          "word": "propaganda",
+          "count": 45
+        },
+        {
           "word": "significant",
+          "count": 42
+        },
+        {
+          "word": "politically",
           "count": 42
         },
         {
@@ -189992,12 +190046,44 @@
           "count": 42
         },
         {
-          "word": "politically",
+          "word": "commercial",
+          "count": 42
+        },
+        {
+          "word": "nationalist",
           "count": 41
         },
         {
           "word": "relationship",
-          "count": 39
+          "count": 40
+        },
+        {
+          "word": "framing",
+          "count": 38
+        },
+        {
+          "word": "film",
+          "count": 37
+        },
+        {
+          "word": "critical",
+          "count": 37
+        },
+        {
+          "word": "engagement",
+          "count": 37
+        },
+        {
+          "word": "pairing",
+          "count": 37
+        },
+        {
+          "word": "audience",
+          "count": 37
+        },
+        {
+          "word": "institutional",
+          "count": 37
         }
       ]
     },
@@ -190009,9 +190095,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6887,
-      "topWord": "dialogue",
-      "topCount": 338,
+      "wordCount": 7244,
+      "topWord": "hamza",
+      "topCount": 98,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -190020,118 +190106,94 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-07-dhurandhar-dialogue-writing-analysis.md",
       "flaggedWords": [
         {
-          "word": "dialogue",
-          "count": 338
-        },
-        {
-          "word": "franchise",
-          "count": 277
-        },
-        {
-          "word": "specific",
-          "count": 190
-        },
-        {
-          "word": "cover",
-          "count": 83
-        },
-        {
-          "word": "audience",
-          "count": 72
-        },
-        {
           "word": "hamza",
-          "count": 67
+          "count": 98
         },
         {
-          "word": "sequences",
-          "count": 65
-        },
-        {
-          "word": "social",
-          "count": 51
+          "word": "dhar",
+          "count": 89
         }
       ],
       "top20": [
         {
-          "word": "dialogue",
-          "count": 338
+          "word": "hamza",
+          "count": 98
         },
         {
-          "word": "franchise",
-          "count": 277
-        },
-        {
-          "word": "specific",
-          "count": 190
-        },
-        {
-          "word": "cover",
-          "count": 83
+          "word": "dhar",
+          "count": 89
         },
         {
           "word": "audience",
-          "count": 72
-        },
-        {
-          "word": "hamza",
-          "count": 67
-        },
-        {
-          "word": "sequences",
-          "count": 65
-        },
-        {
-          "word": "social",
-          "count": 51
-        },
-        {
-          "word": "craft",
-          "count": 48
-        },
-        {
-          "word": "character",
-          "count": 40
-        },
-        {
-          "word": "register",
-          "count": 40
-        },
-        {
-          "word": "characters",
-          "count": 39
-        },
-        {
-          "word": "language",
-          "count": 39
-        },
-        {
-          "word": "emotional",
-          "count": 38
-        },
-        {
-          "word": "quality",
-          "count": 38
-        },
-        {
-          "word": "content",
-          "count": 36
-        },
-        {
-          "word": "performance",
-          "count": 35
-        },
-        {
-          "word": "speech",
-          "count": 35
-        },
-        {
-          "word": "commercial",
-          "count": 34
+          "count": 49
         },
         {
           "word": "lyari",
-          "count": 33
+          "count": 48
+        },
+        {
+          "word": "film",
+          "count": 48
+        },
+        {
+          "word": "register",
+          "count": 48
+        },
+        {
+          "word": "urdu",
+          "count": 48
+        },
+        {
+          "word": "dhurandhar",
+          "count": 47
+        },
+        {
+          "word": "restraint",
+          "count": 47
+        },
+        {
+          "word": "speech",
+          "count": 47
+        },
+        {
+          "word": "hindi",
+          "count": 46
+        },
+        {
+          "word": "script",
+          "count": 45
+        },
+        {
+          "word": "craft",
+          "count": 45
+        },
+        {
+          "word": "writing",
+          "count": 44
+        },
+        {
+          "word": "lines",
+          "count": 43
+        },
+        {
+          "word": "viewer",
+          "count": 43
+        },
+        {
+          "word": "commercial",
+          "count": 42
+        },
+        {
+          "word": "duology",
+          "count": 42
+        },
+        {
+          "word": "dialogue",
+          "count": 40
+        },
+        {
+          "word": "films",
+          "count": 37
         }
       ]
     },
@@ -190143,9 +190205,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6177,
-      "topWord": "franchise",
-      "topCount": 236,
+      "wordCount": 7223,
+      "topWord": "second",
+      "topCount": 80,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -190154,122 +190216,118 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-10-dhurandhar-part-1-vs-part-2-compared.md",
       "flaggedWords": [
         {
-          "word": "franchise",
-          "count": 236
-        },
-        {
-          "word": "specific",
-          "count": 117
+          "word": "second",
+          "count": 80
         },
         {
           "word": "film",
-          "count": 106
+          "count": 78
         },
         {
-          "word": "films",
-          "count": 102
+          "word": "sequel",
+          "count": 64
         },
         {
-          "word": "comparison",
-          "count": 86
+          "word": "hamza",
+          "count": 64
         },
         {
-          "word": "audience",
-          "count": 68
+          "word": "installment",
+          "count": 60
+        },
+        {
+          "word": "project",
+          "count": 58
         },
         {
           "word": "commercial",
-          "count": 66
-        },
-        {
-          "word": "emotional",
           "count": 57
         },
         {
-          "word": "creative",
-          "count": 54
+          "word": "dramatic",
+          "count": 57
         }
       ],
       "top20": [
         {
-          "word": "franchise",
-          "count": 236
-        },
-        {
-          "word": "specific",
-          "count": 117
+          "word": "second",
+          "count": 80
         },
         {
           "word": "film",
-          "count": 106
+          "count": 78
         },
         {
-          "word": "films",
-          "count": 102
-        },
-        {
-          "word": "comparison",
-          "count": 86
-        },
-        {
-          "word": "audience",
-          "count": 68
-        },
-        {
-          "word": "commercial",
-          "count": 66
-        },
-        {
-          "word": "emotional",
-          "count": 57
-        },
-        {
-          "word": "creative",
-          "count": 54
+          "word": "sequel",
+          "count": 64
         },
         {
           "word": "hamza",
+          "count": 64
+        },
+        {
+          "word": "installment",
+          "count": 60
+        },
+        {
+          "word": "project",
+          "count": 58
+        },
+        {
+          "word": "commercial",
+          "count": 57
+        },
+        {
+          "word": "dramatic",
+          "count": 57
+        },
+        {
+          "word": "register",
           "count": 50
         },
         {
-          "word": "phase",
-          "count": 49
+          "word": "paired",
+          "count": 48
         },
         {
-          "word": "relationship",
+          "word": "chapter",
           "count": 47
         },
         {
-          "word": "quality",
+          "word": "arc",
+          "count": 44
+        },
+        {
+          "word": "opener",
+          "count": 43
+        },
+        {
+          "word": "authorial",
+          "count": 43
+        },
+        {
+          "word": "craft",
+          "count": 43
+        },
+        {
+          "word": "scenes",
+          "count": 43
+        },
+        {
+          "word": "follow",
           "count": 41
         },
         {
-          "word": "execution",
-          "count": 41
+          "word": "predecessor",
+          "count": 40
         },
         {
-          "word": "cover",
-          "count": 41
+          "word": "halves",
+          "count": 39
         },
         {
-          "word": "requires",
-          "count": 41
-        },
-        {
-          "word": "built",
-          "count": 35
-        },
-        {
-          "word": "institutional",
-          "count": 35
-        },
-        {
-          "word": "narrative",
-          "count": 34
-        },
-        {
-          "word": "sequences",
-          "count": 31
+          "word": "opening",
+          "count": 39
         }
       ]
     },
@@ -190281,9 +190339,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6949,
-      "topWord": "performance",
-      "topCount": 336,
+      "wordCount": 7293,
+      "topWord": "hamza",
+      "topCount": 87,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -190292,130 +190350,110 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-13-ranveer-singh-career-best-performance-dhurandhar.md",
       "flaggedWords": [
         {
-          "word": "performance",
-          "count": 336
-        },
-        {
-          "word": "specific",
-          "count": 205
+          "word": "hamza",
+          "count": 87
         },
         {
           "word": "singh",
-          "count": 196
+          "count": 68
         },
         {
-          "word": "hamza",
-          "count": 146
-        },
-        {
-          "word": "franchise",
-          "count": 138
-        },
-        {
-          "word": "quality",
-          "count": 93
-        },
-        {
-          "word": "physical",
-          "count": 90
-        },
-        {
-          "word": "commercial",
-          "count": 75
-        },
-        {
-          "word": "character",
-          "count": 66
-        },
-        {
-          "word": "star",
+          "word": "actor",
           "count": 60
         },
         {
-          "word": "cover",
-          "count": 56
+          "word": "performance",
+          "count": 55
+        },
+        {
+          "word": "commercial",
+          "count": 55
+        },
+        {
+          "word": "craft",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "performance",
-          "count": 336
-        },
-        {
-          "word": "specific",
-          "count": 205
+          "word": "hamza",
+          "count": 87
         },
         {
           "word": "singh",
-          "count": 196
-        },
-        {
-          "word": "hamza",
-          "count": 146
-        },
-        {
-          "word": "franchise",
-          "count": 138
-        },
-        {
-          "word": "quality",
-          "count": 93
-        },
-        {
-          "word": "physical",
-          "count": 90
-        },
-        {
-          "word": "commercial",
-          "count": 75
-        },
-        {
-          "word": "character",
-          "count": 66
-        },
-        {
-          "word": "star",
-          "count": 60
-        },
-        {
-          "word": "cover",
-          "count": 56
-        },
-        {
-          "word": "requires",
-          "count": 49
-        },
-        {
-          "word": "career",
-          "count": 40
-        },
-        {
-          "word": "achievement",
-          "count": 39
-        },
-        {
-          "word": "cinema",
-          "count": 38
-        },
-        {
-          "word": "acting",
-          "count": 36
-        },
-        {
-          "word": "emotional",
-          "count": 35
-        },
-        {
-          "word": "dual",
-          "count": 35
-        },
-        {
-          "word": "social",
-          "count": 35
+          "count": 68
         },
         {
           "word": "actor",
-          "count": 35
+          "count": 60
+        },
+        {
+          "word": "performance",
+          "count": 55
+        },
+        {
+          "word": "commercial",
+          "count": 55
+        },
+        {
+          "word": "craft",
+          "count": 51
+        },
+        {
+          "word": "emotional",
+          "count": 50
+        },
+        {
+          "word": "register",
+          "count": 49
+        },
+        {
+          "word": "roles",
+          "count": 49
+        },
+        {
+          "word": "role",
+          "count": 48
+        },
+        {
+          "word": "physical",
+          "count": 47
+        },
+        {
+          "word": "earlier",
+          "count": 47
+        },
+        {
+          "word": "subtractive",
+          "count": 46
+        },
+        {
+          "word": "production",
+          "count": 46
+        },
+        {
+          "word": "lead",
+          "count": 43
+        },
+        {
+          "word": "hindi",
+          "count": 43
+        },
+        {
+          "word": "ranveer",
+          "count": 42
+        },
+        {
+          "word": "career",
+          "count": 42
+        },
+        {
+          "word": "dhurandhar",
+          "count": 41
+        },
+        {
+          "word": "cover",
+          "count": 40
         }
       ]
     },
@@ -190427,9 +190465,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6948,
+      "wordCount": 6941,
       "topWord": "franchise",
-      "topCount": 354,
+      "topCount": 356,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -190439,19 +190477,15 @@
       "flaggedWords": [
         {
           "word": "franchise",
-          "count": 354
+          "count": 356
         },
         {
           "word": "commercial",
           "count": 117
         },
         {
-          "word": "specific",
-          "count": 109
-        },
-        {
           "word": "films",
-          "count": 89
+          "count": 90
         },
         {
           "word": "guide",
@@ -190473,19 +190507,15 @@
       "top20": [
         {
           "word": "franchise",
-          "count": 354
+          "count": 356
         },
         {
           "word": "commercial",
           "count": 117
         },
         {
-          "word": "specific",
-          "count": 109
-        },
-        {
           "word": "films",
-          "count": 89
+          "count": 90
         },
         {
           "word": "guide",
@@ -190508,11 +190538,11 @@
           "count": 46
         },
         {
-          "word": "complete",
-          "count": 44
+          "word": "film",
+          "count": 45
         },
         {
-          "word": "film",
+          "word": "complete",
           "count": 44
         },
         {
@@ -190525,7 +190555,7 @@
         },
         {
           "word": "cover",
-          "count": 39
+          "count": 40
         },
         {
           "word": "lyari",
@@ -190550,6 +190580,10 @@
         {
           "word": "available",
           "count": 35
+        },
+        {
+          "word": "requires",
+          "count": 35
         }
       ]
     },
@@ -190561,9 +190595,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7005,
+      "wordCount": 7019,
       "topWord": "franchise",
-      "topCount": 397,
+      "topCount": 398,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -190573,7 +190607,7 @@
       "flaggedWords": [
         {
           "word": "franchise",
-          "count": 397
+          "count": 398
         },
         {
           "word": "commercial",
@@ -190581,19 +190615,15 @@
         },
         {
           "word": "hindi",
-          "count": 125
+          "count": 126
         },
         {
           "word": "cinema",
           "count": 117
         },
         {
-          "word": "specific",
-          "count": 106
-        },
-        {
           "word": "audience",
-          "count": 102
+          "count": 104
         },
         {
           "word": "creative",
@@ -190613,11 +190643,11 @@
         },
         {
           "word": "performance",
-          "count": 63
+          "count": 64
         },
         {
           "word": "industry",
-          "count": 56
+          "count": 57
         },
         {
           "word": "bollywood",
@@ -190627,7 +190657,7 @@
       "top20": [
         {
           "word": "franchise",
-          "count": 397
+          "count": 398
         },
         {
           "word": "commercial",
@@ -190635,19 +190665,15 @@
         },
         {
           "word": "hindi",
-          "count": 125
+          "count": 126
         },
         {
           "word": "cinema",
           "count": 117
         },
         {
-          "word": "specific",
-          "count": 106
-        },
-        {
           "word": "audience",
-          "count": 102
+          "count": 104
         },
         {
           "word": "creative",
@@ -190667,11 +190693,11 @@
         },
         {
           "word": "performance",
-          "count": 63
+          "count": 64
         },
         {
           "word": "industry",
-          "count": 56
+          "count": 57
         },
         {
           "word": "bollywood",
@@ -190688,6 +190714,10 @@
         {
           "word": "quality",
           "count": 46
+        },
+        {
+          "word": "specific",
+          "count": 45
         },
         {
           "word": "changed",
@@ -190715,9 +190745,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6519,
+      "wordCount": 6446,
       "topWord": "ending",
-      "topCount": 312,
+      "topCount": 313,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -190727,15 +190757,11 @@
       "flaggedWords": [
         {
           "word": "ending",
-          "count": 312
+          "count": 313
         },
         {
           "word": "franchise",
-          "count": 281
-        },
-        {
-          "word": "specific",
-          "count": 193
+          "count": 283
         },
         {
           "word": "honest",
@@ -190743,7 +190769,7 @@
         },
         {
           "word": "institutional",
-          "count": 70
+          "count": 71
         },
         {
           "word": "decade",
@@ -190758,26 +190784,22 @@
           "count": 55
         },
         {
-          "word": "complete",
+          "word": "audience",
           "count": 53
         },
         {
-          "word": "audience",
-          "count": 52
+          "word": "complete",
+          "count": 53
         }
       ],
       "top20": [
         {
           "word": "ending",
-          "count": 312
+          "count": 313
         },
         {
           "word": "franchise",
-          "count": 281
-        },
-        {
-          "word": "specific",
-          "count": 193
+          "count": 283
         },
         {
           "word": "honest",
@@ -190785,7 +190807,7 @@
         },
         {
           "word": "institutional",
-          "count": 70
+          "count": 71
         },
         {
           "word": "decade",
@@ -190800,12 +190822,12 @@
           "count": 55
         },
         {
-          "word": "complete",
+          "word": "audience",
           "count": 53
         },
         {
-          "word": "audience",
-          "count": 52
+          "word": "complete",
+          "count": 53
         },
         {
           "word": "cost",
@@ -190817,19 +190839,19 @@
         },
         {
           "word": "jaskirat",
-          "count": 46
+          "count": 47
         },
         {
           "word": "films",
           "count": 44
         },
         {
-          "word": "fully",
+          "word": "final",
           "count": 42
         },
         {
-          "word": "final",
-          "count": 41
+          "word": "fully",
+          "count": 42
         },
         {
           "word": "hamza",
@@ -190840,12 +190862,16 @@
           "count": 39
         },
         {
+          "word": "identity",
+          "count": 39
+        },
+        {
           "word": "ends",
           "count": 38
         },
         {
-          "word": "identity",
-          "count": 38
+          "word": "endings",
+          "count": 37
         }
       ]
     }

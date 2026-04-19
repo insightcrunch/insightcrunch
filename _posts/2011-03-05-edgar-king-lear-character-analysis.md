@@ -9,7 +9,7 @@ excerpt: "Complete study of Edgar in King Lear - his disguise as Poor Tom, his g
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 59
 author: "elena-wright"
-last_updated: 2011-03-05
+last_updated: 2026-04-19
 lang: en
 ---
 He is the legitimate son of the Earl of Gloucester who begins the tragedy as the naive young nobleman whose trust in his brother Edmund makes him the easiest target of the forged letter scheme, who is driven from his father's household into the coverd exile that produces the Poor Tom persona, who adopts the feigned madness of a bedlam beggar as the strategy that conceals his selfhood while exposing him to the most extreme circumstances of physical and psychological privation the tragedy depicts, who encounters [King Lear](/2011/02/17/king-lear-character-analysis-deep-dive/) on the heath in a passage that brings the displaced monarch and the coverd heir together at the lowest points of their respective trajectories, who guides his blinded father through the Dover cliff episode that represents among the most philosophically charged passages in the canon, who progressively sheds his masking across the concluding acts as the circumstances for his emergence change, who defeats [Edmund](/2011/02-28-edmund-king-lear-character-analysis/) in the trial by combat that resolves the fraternal conflict, and who speaks the concluding lines of the tragedy as the man to whom the institutional authority of the devastated realm is apparently being transferred. The trajectory from naive son to personad beggar to patient guide to avenging combatant to inheriting authority is the most radical character metamorphosis any figure undergoes in the canon.

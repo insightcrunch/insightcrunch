@@ -9,7 +9,7 @@ excerpt: "Analysis of the Fool in King Lear - his riddles that cut deeper than c
 image: "/assets/images/blog/blog-70.webp"
 interpretation_time: 59
 author: "elena-wright"
-last_updated: 2011-03-27
+last_updated: 2026-04-19
 lang: en
 ---
 He is the court jester whose license to speak uncomfortable honestys through the vehicle of jest and riddle provides [King Lear](/2011/02/17/king-lear-character-analysis-deep-dive/) with the only honest commentary on his catastrophic decision that the post-banishment court can still deliver, who appears after the opening ceremony has already produced the disinheritance of [Cordelia](/2011/02/22/cordelia-king-lear-character-analysis/) and the banishment of Kent, who accompanies his master through the progressive dispossession of the central acts and into the storm on the heath, whose songs and riddles and compressed wisdoms articulate what every other figure in Lear's company either cannot or will not say, who is one of the most devoted individuals in the tragedy despite occupying one of the lowest formal positions, whose relationship with the absent Cordelia is gestured at through the enigmatic observation that he has pined away since she went to France, and who vanishes from the tragedy after the third act without explanation, farewell, or resolution, leaving behind one of the most debated disappearances in the canon. The trajectory from arriving honesty-teller to vanishing shadow is one of the most compressed and mysterious arcs any figure traces across the Shakespearean canon.

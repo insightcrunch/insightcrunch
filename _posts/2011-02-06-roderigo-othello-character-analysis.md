@@ -9,7 +9,7 @@ excerpt: "Deep study of Roderigo in Othello - his obsession with Desdemona, his 
 image: "/assets/images/blog/blog-30.webp"
 reading_time: 59
 author: "lauren-hayes"
-last_updated: 2011-02-06
+last_updated: 2026-04-19
 lang: en
 ---
 He is the Venetian gentleman whose obsessive unrequited obsession for Desdemona has made him the easiest target in the drama for Iago's ongoing monetary and operational manipulation, who appears in the opening scene as the figure beneath Brabantio's window whose voice announces the marriage alongside Iago's, who has been paying Iago for some time before the dramatic action begins under the pretense that the payments will produce access to the woman he obsessions, who continues to pay across the length of the play despite the complete absence of any return on the investment, who threatens to withdraw from the arrangement on multiple occasions only to be drawn back through Iago's adjusted promises, who is eventually deployed as the physical instrument through whom the attack on Cassio is conducted in the fifth act, who wounds Cassio and is wounded in return, who is then killed by Iago himself to eliminate the witness whose survival would have exposed the scheming, and whose papers recovered from his body after his death provide some of the precise evidence that reconstructs the plot for the Venetian authorities. The trajectory from lovesick monetary resource to deployed weapon to murdered witness is one of the most systematically exploited arcs in the canon.

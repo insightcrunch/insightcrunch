@@ -4637,6 +4637,81 @@ upsc-civil-services-complete-guide:
   category: industry
   image: /assets/images/blog/blog-42.webp
   lang: en
+barbarossa-hitler-june-22-1941-invasion:
+- slug: pearl-harbor-yamamoto-december-1941-decision
+  title: 'Pearl Harbor: Yamamoto''s December 1941 Strike'
+  url: /2006/11/22/pearl-harbor-yamamoto-december-1941-decision/
+  category: leisure
+  image: /assets/blog/blog-02.webp
+  lang: en
+- slug: rise-of-hitler-nazi-germany
+  title: Rise of Hitler and Nazi Germany Explained
+  url: /2015/12/21/rise-of-hitler-nazi-germany/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: d-day-eisenhower-june-5-1944-go-decision
+  title: 'D-Day: Eisenhower''s June 5 1944 Go Decision'
+  url: /2006/11/28/d-day-eisenhower-june-5-1944-go-decision/
+  category: leisure
+  image: /assets/blog/blog-01.webp
+  lang: en
+- slug: battle-of-stalingrad-explained
+  title: The Battle of Stalingrad Explained
+  url: /2016/02/09/battle-of-stalingrad-explained/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+pearl-harbor-yamamoto-december-1941-decision:
+- slug: pearl-harbor-attack-explained
+  title: The Attack on Pearl Harbor Explained
+  url: /2016/02/04/pearl-harbor-attack-explained/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: barbarossa-hitler-june-22-1941-invasion
+  title: 'Barbarossa: Hitler''s June 22 1941 Invasion'
+  url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
+  category: leisure
+  image: /assets/blog/blog-03.webp
+  lang: en
+- slug: d-day-eisenhower-june-5-1944-go-decision
+  title: 'D-Day: Eisenhower''s June 5 1944 Go Decision'
+  url: /2006/11/28/d-day-eisenhower-june-5-1944-go-decision/
+  category: leisure
+  image: /assets/blog/blog-01.webp
+  lang: en
+- slug: meiji-restoration-japan-explained
+  title: The Meiji Restoration in Japan Explained
+  url: /2015/11/06/meiji-restoration-japan-explained/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+d-day-eisenhower-june-5-1944-go-decision:
+- slug: d-day-normandy-invasion-explained
+  title: D-Day and the Normandy Invasion Explained
+  url: /2016/01/25/d-day-normandy-invasion-explained/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: barbarossa-hitler-june-22-1941-invasion
+  title: 'Barbarossa: Hitler''s June 22 1941 Invasion'
+  url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
+  category: leisure
+  image: /assets/blog/blog-03.webp
+  lang: en
+- slug: pearl-harbor-yamamoto-december-1941-decision
+  title: 'Pearl Harbor: Yamamoto''s December 1941 Strike'
+  url: /2006/11/22/pearl-harbor-yamamoto-december-1941-decision/
+  category: leisure
+  image: /assets/blog/blog-02.webp
+  lang: en
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 end-to-an-unforgettable-era:
 - slug: michael-jackson-no-more-an-era-comes-to-an-end
   title: Michael Jackson no more, an era comes to an end
@@ -16902,17 +16977,23 @@ complete-analysis-of-mice-and-men:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: george-lennie-character-analysis
-  title: George and Lennie Character Analysis
-  url: /2014/11/06/george-lennie-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
-  lang: en
 - slug: american-dream-classic-literature
   title: The American Dream in Classic Literature
   url: /2015/03/16/american-dream-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: complete-analysis-wuthering-heights
+  title: Complete Analysis of Wuthering Heights
+  url: /2014/09/07/complete-analysis-wuthering-heights/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: george-lennie-character-analysis
+  title: George and Lennie Character Analysis
+  url: /2014/11/06/george-lennie-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
   lang: en
 george-lennie-character-analysis:
 - slug: complete-analysis-of-mice-and-men
@@ -16927,17 +17008,17 @@ george-lennie-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
+- slug: mr-darcy-character-analysis
+  title: Mr. Darcy Character Analysis
+  url: /2014/03/31/mr-darcy-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
 - slug: wickham-character-analysis-austen
   title: Mr. Wickham Character Analysis
   url: /2014/04/15/wickham-character-analysis-austen/
   category: leisure
   image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: hamlet-character-analysis-deep-dive
-  title: Hamlet Character Analysis
-  url: /2010/10/02/hamlet-character-analysis-deep-dive/
-  category: leisure
-  image: /assets/images/blog/blog-35.webp
   lang: en
 loneliness-of-mice-and-men-themes:
 - slug: complete-analysis-of-mice-and-men
@@ -16945,12 +17026,6 @@ loneliness-of-mice-and-men-themes:
   url: /2014/11/01/complete-analysis-of-mice-and-men/
   category: leisure
   image: /assets/images/blog/blog-26.webp
-  lang: en
-- slug: george-lennie-character-analysis
-  title: George and Lennie Character Analysis
-  url: /2014/11/06/george-lennie-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
   lang: en
 - slug: themes-symbolism-1984-orwell
   title: Themes and Symbolism in 1984 Explained
@@ -16963,6 +17038,12 @@ loneliness-of-mice-and-men-themes:
   url: /2014/01/30/themes-symbolism-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: themes-symbolism-lord-of-the-flies
+  title: Themes and Symbolism in Lord of the Flies
+  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 meta-layoffs-2022:
 - slug: meta-hiring-2022
@@ -17058,17 +17139,17 @@ censorship-themes-fahrenheit-451:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
+- slug: revolution-rebellion-classic-novels
+  title: Revolution and Rebellion in Classic Novels
+  url: /2015/03/21/revolution-rebellion-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: 1984-vs-brave-new-world-vs-fahrenheit
   title: 1984 vs Brave New World vs Fahrenheit 451
   url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
   category: leisure
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: themes-symbolism-1984-orwell
-  title: Themes and Symbolism in 1984 Explained
-  url: /2013/12/21/themes-symbolism-1984-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-86.webp
   lang: en
 complete-analysis-scarlet-letter:
 - slug: sin-society-scarlet-letter-themes
@@ -17264,11 +17345,11 @@ colonialism-racism-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
+- slug: nature-wilderness-classic-novels
+  title: Nature and Wilderness in Classic Novels
+  url: /2015/03/31/nature-wilderness-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-08.webp
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: racism-row-over-new-york-post
   title: Racism Row Over New York Post Chimpanzee Cartoon
@@ -17427,17 +17508,17 @@ gender-feminism-classic-literature:
   image: /assets/images/blog/blog-36.webp
   lang: en
 nature-vs-nurture-classic-novels:
-- slug: nature-wilderness-classic-novels
-  title: Nature and Wilderness in Classic Novels
-  url: /2015/03/31/nature-wilderness-classic-novels/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
-  lang: en
 - slug: gothic-elements-classic-novels
   title: Gothic Elements in Classic Novels Compared
   url: /2015/03/06/gothic-elements-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: nature-wilderness-classic-novels
+  title: Nature and Wilderness in Classic Novels
+  url: /2015/03/31/nature-wilderness-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: science-morality-classic-fiction
   title: Science and Morality in Classic Fiction
@@ -17545,11 +17626,11 @@ power-corruption-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: revolution-rebellion-classic-novels
-  title: Revolution and Rebellion in Classic Novels
-  url: /2015/03/21/revolution-rebellion-classic-novels/
+- slug: love-obsession-classic-novels
+  title: Love and Obsession in Classic Novels
+  url: /2015/02/19/love-obsession-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-20.webp
   lang: en
 love-obsession-classic-novels:
 - slug: fate-vs-free-will-classic-literature
@@ -17658,12 +17739,6 @@ science-morality-classic-fiction:
   category: leisure
   image: /assets/images/blog/blog-15.webp
   lang: en
-- slug: revolution-rebellion-classic-novels
-  title: Revolution and Rebellion in Classic Novels
-  url: /2015/03/21/revolution-rebellion-classic-novels/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: nature-vs-nurture-classic-novels
   title: Nature vs Nurture in Classic Fiction
   url: /2015/01/30/nature-vs-nurture-classic-novels/
@@ -17675,6 +17750,12 @@ science-morality-classic-fiction:
   url: /2015/02/09/isolation-loneliness-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: themes-science-ambition-frankenstein
+  title: Science and Ambition in Frankenstein
+  url: /2014/09/02/themes-science-ambition-frankenstein/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
   lang: en
 american-dream-classic-literature:
 - slug: american-dream-great-gatsby-analysis
@@ -17702,29 +17783,29 @@ american-dream-classic-literature:
   image: /assets/images/blog/blog-26.webp
   lang: en
 revolution-rebellion-classic-novels:
-- slug: power-corruption-classic-literature
-  title: Power and Corruption in Classic Literature
-  url: /2015/02/14/power-corruption-classic-literature/
+- slug: complete-analysis-fahrenheit-451
+  title: Complete Analysis of Fahrenheit 451
+  url: /2014/11/16/complete-analysis-fahrenheit-451/
   category: leisure
-  image: /assets/images/blog/blog-13.webp
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: censorship-themes-fahrenheit-451
+  title: Censorship and Ignorance in Fahrenheit 451
+  url: /2014/11/26/censorship-themes-fahrenheit-451/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: complete-analysis-1984-george-orwell
+  title: Complete Analysis of 1984 by George Orwell
+  url: /2013/12/06/complete-analysis-1984-george-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 - slug: 1984-vs-brave-new-world-vs-fahrenheit
   title: 1984 vs Brave New World vs Fahrenheit 451
   url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
   category: leisure
   image: /assets/images/blog/blog-15.webp
-  lang: en
-- slug: science-morality-classic-fiction
-  title: Science and Morality in Classic Fiction
-  url: /2015/03/11/science-morality-classic-fiction/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
-- slug: social-class-classic-novels-compared
-  title: Social Class in Classic Novels Compared
-  url: /2015/01/20/social-class-classic-novels-compared/
-  category: leisure
-  image: /assets/images/blog/blog-64.webp
   lang: en
 madness-sanity-classic-literature:
 - slug: greatest-literary-villains-compared
@@ -17758,23 +17839,23 @@ nature-wilderness-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: isolation-loneliness-classic-novels
-  title: Isolation in Classic Novels Compared
-  url: /2015/02/09/isolation-loneliness-classic-novels/
+- slug: marlow-character-analysis-conrad
+  title: Marlow Character Analysis in Heart of Darkness
+  url: /2014/12/26/marlow-character-analysis-conrad/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-73.webp
   lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
+- slug: piggy-character-analysis-lord-flies
+  title: Piggy Character Analysis in Lord of the Flies
+  url: /2014/05/10/piggy-character-analysis-lord-flies/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-38.webp
   lang: en
-- slug: complete-analysis-lord-of-the-flies
-  title: Complete Analysis of Lord of the Flies
-  url: /2014/04/25/complete-analysis-lord-of-the-flies/
+- slug: ralph-character-analysis-lord-flies
+  title: Ralph Character Analysis in Lord of the Flies
+  url: /2014/04/30/ralph-character-analysis-lord-flies/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-71.webp
   lang: en
 fate-vs-free-will-classic-literature:
 - slug: parents-children-classic-literature
@@ -20742,12 +20823,6 @@ history-of-human-rights-explained:
   url: /2016/08/22/biggest-what-ifs-in-history/
   category: leisure
   image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: meiji-restoration-japan-explained
-  title: The Meiji Restoration in Japan Explained
-  url: /2015/11/06/meiji-restoration-japan-explained/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
   lang: en
 biggest-what-ifs-in-history:
 - slug: women-who-changed-history
@@ -39536,11 +39611,11 @@ bollywood-directors-who-changed-indian-cinema:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: dhurandhar-franchise-records-broken
-  title: Every Record Dhurandhar Franchise Broke
-  url: /2026/05/21/dhurandhar-franchise-records-broken/
+- slug: best-bollywood-spy-thriller-movies-ranked
+  title: Best Bollywood Spy Thrillers Ranked
+  url: /2026/02/01/best-bollywood-spy-thriller-movies-ranked/
   category: leisure
-  image: /assets/images/blog/blog-47.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 gaokao-exam-pattern-format:
 - slug: gaokao-classical-chinese-wenyanwen
@@ -39574,29 +39649,23 @@ dhurandhar-the-revenge-alternate-endings:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: complete-analysis-dhurandhar-the-revenge
   title: Complete Analysis of Dhurandhar The Revenge
   url: /2026/03/22/complete-analysis-dhurandhar-the-revenge/
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: dhurandhar-vs-uri-surgical-strike-compared
-  title: Dhurandhar vs Uri The Surgical Strike
-  url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
+- slug: ranveer-singh-career-best-performance-dhurandhar
+  title: Ranveer Singh Career Best in Dhurandhar
+  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: dhurandhar-franchise-complete-guide
-  title: Dhurandhar Franchise Complete Guide
-  url: /2026/06/17/dhurandhar-franchise-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-24.webp
-  lang: en
-- slug: dhurandhar-effect-celebrity-reactions
-  title: The Dhurandhar Effect India's Most Powerful Voices Respond
-  url: /2026/04/04/dhurandhar-effect-celebrity-reactions/
-  category: leisure
-  image: /assets/images/blog/blog-57.webp
+  image: /assets/images/blog/blog-16.webp
   lang: en
 bollywood-box-office-flops-that-deserved-better:
 - slug: best-bollywood-spy-thriller-movies-ranked
@@ -39686,25 +39755,19 @@ complete-analysis-dhurandhar-part-1:
   category: leisure
   image: /assets/images/blog/blog-55.webp
   lang: en
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: dhurandhar-vs-uri-surgical-strike-compared
   title: Dhurandhar vs Uri The Surgical Strike
   url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: operation-dhurandhar-explained
-  title: Operation Dhurandhar Explained
-  url: /2026/05/18/operation-dhurandhar-explained/
-  category: leisure
-  image: /assets/images/blog/blog-75.webp
-  lang: en
 best-bollywood-crime-thrillers-beyond-gangster:
-- slug: best-bollywood-spy-thriller-movies-ranked
-  title: Best Bollywood Spy Thrillers Ranked
-  url: /2026/02/01/best-bollywood-spy-thriller-movies-ranked/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
-  lang: en
 - slug: best-bollywood-gangster-films-complete-guide
   title: Best Bollywood Gangster Films Guide
   url: /2026/02/20/best-bollywood-gangster-films-complete-guide/
@@ -39722,6 +39785,12 @@ best-bollywood-crime-thrillers-beyond-gangster:
   url: /2026/02/05/bollywood-vs-hollywood-action-films-compared/
   category: leisure
   image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: dhurandhar-controversies-explained
+  title: Dhurandhar Disputes Explained
+  url: /2026/06/03/dhurandhar-controversies-explained/
+  category: leisure
+  image: /assets/images/blog/blog-84.webp
   lang: en
 complete-analysis-dhurandhar-the-revenge:
 - slug: complete-analysis-dhurandhar-part-1
@@ -39797,6 +39866,12 @@ hamza-ali-mazari-character-analysis-dhurandhar:
   url: /2026/03/19/complete-analysis-dhurandhar-part-1/
   category: leisure
   image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: jaskirat-singh-rangi-origin-story-analysis
+  title: Jaskirat Singh Rangi Origin Story Analysis
+  url: /2026/05/08/jaskirat-singh-rangi-origin-story-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-80.webp
   lang: en
 guia-carreira-engenheiro-brasileiro-era-ia-2026:
 - slug: how-to-prepare-for-enem-exam-complete-guide
@@ -40068,6 +40143,12 @@ us-engineer-career-guide-ai-era-2026:
   image: /assets/images/blog/blog-33.webp
   lang: en
 dhurandhar-effect-celebrity-reactions:
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: dhurandhar-the-revenge-alternate-endings
   title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
   url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
@@ -40085,12 +40166,6 @@ dhurandhar-effect-celebrity-reactions:
   url: /2026/03/22/complete-analysis-dhurandhar-the-revenge/
   category: leisure
   image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: dhurandhar-franchise-records-broken
-  title: Every Record Dhurandhar Franchise Broke
-  url: /2026/05/21/dhurandhar-franchise-records-broken/
-  category: leisure
-  image: /assets/images/blog/blog-47.webp
   lang: en
 major-iqbal-character-analysis-dhurandhar:
 - slug: rehman-dakait-character-analysis-dhurandhar
@@ -40230,17 +40305,17 @@ dhurandhar-part-1-box-office-collection-analysis:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: dhurandhar-franchise-records-broken
   title: Every Record Dhurandhar Franchise Broke
   url: /2026/05/21/dhurandhar-franchise-records-broken/
   category: leisure
   image: /assets/images/blog/blog-47.webp
-  lang: en
-- slug: ranveer-singh-career-best-performance-dhurandhar
-  title: Ranveer Singh Career Best in Dhurandhar
-  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
   lang: en
 dhurandhar-the-revenge-box-office-collection:
 - slug: dhurandhar-part-1-box-office-collection-analysis
@@ -40367,11 +40442,11 @@ dhurandhar-soundtrack-background-score-analysis:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
-- slug: dhurandhar-cinematography-visual-style
-  title: Dhurandhar Cinematography and Visual Style
-  url: /2026/05/28/dhurandhar-cinematography-visual-style/
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 jaskirat-singh-rangi-origin-story-analysis:
 - slug: hamza-ali-mazari-character-analysis-dhurandhar
@@ -40379,12 +40454,6 @@ jaskirat-singh-rangi-origin-story-analysis:
   url: /2026/03/25/hamza-ali-mazari-character-analysis-dhurandhar/
   category: leisure
   image: /assets/images/blog/blog-71.webp
-  lang: en
-- slug: ranveer-singh-career-best-performance-dhurandhar
-  title: Ranveer Singh Career Best in Dhurandhar
-  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
   lang: en
 - slug: complete-analysis-dhurandhar-the-revenge
   title: Complete Analysis of Dhurandhar The Revenge
@@ -40398,6 +40467,12 @@ jaskirat-singh-rangi-origin-story-analysis:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
+- slug: dhurandhar-part-1-box-office-collection-analysis
+  title: Dhurandhar Part 1 Box Office Collection Analysis
+  url: /2026/04/18/dhurandhar-part-1-box-office-collection-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 karachi-underworld-lyari-dhurandhar:
 - slug: themes-symbolism-dhurandhar-duology
   title: Themes and Symbolism in Dhurandhar Duology
@@ -40406,7 +40481,7 @@ karachi-underworld-lyari-dhurandhar:
   image: /assets/images/blog/blog-52.webp
   lang: en
 - slug: dhurandhar-cinematography-visual-style
-  title: Dhurandhar Cinematography and Visual Style
+  title: Dhurandhar Cinematography and photographic style
   url: /2026/05/28/dhurandhar-cinematography-visual-style/
   category: leisure
   image: /assets/images/blog/blog-71.webp
@@ -40417,18 +40492,18 @@ karachi-underworld-lyari-dhurandhar:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: dhurandhar-ending-explained-both-parts
-  title: Dhurandhar Ending Explained Both Parts
-  url: /2026/06/23/dhurandhar-ending-explained-both-parts/
+- slug: complete-analysis-dhurandhar-the-revenge
+  title: Complete Analysis of Dhurandhar The Revenge
+  url: /2026/03/22/complete-analysis-dhurandhar-the-revenge/
   category: leisure
-  image: /assets/images/blog/blog-17.webp
+  image: /assets/images/blog/blog-31.webp
   lang: en
 dhurandhar-action-sequences-ranked-analyzed:
-- slug: dhurandhar-vs-uri-surgical-strike-compared
-  title: Dhurandhar vs Uri The Surgical Strike
-  url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 - slug: dhurandhar-franchise-complete-guide
   title: Dhurandhar Franchise Complete Guide
@@ -40436,17 +40511,17 @@ dhurandhar-action-sequences-ranked-analyzed:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+- slug: dhurandhar-vs-uri-surgical-strike-compared
+  title: Dhurandhar vs Uri The Surgical Strike
+  url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
 - slug: operation-dhurandhar-explained
   title: Operation Dhurandhar Explained
   url: /2026/05/18/operation-dhurandhar-explained/
   category: leisure
   image: /assets/images/blog/blog-75.webp
-  lang: en
-- slug: dhurandhar-the-revenge-alternate-endings
-  title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
-  url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
-  category: leisure
-  image: /assets/images/blog/blog-55.webp
   lang: en
 operation-dhurandhar-explained:
 - slug: dhurandhar-ending-explained-both-parts
@@ -40499,17 +40574,17 @@ dhurandhar-franchise-records-broken:
   image: /assets/images/blog/blog-58.webp
   lang: en
 supporting-characters-analysis-dhurandhar:
-- slug: rehman-dakait-character-analysis-dhurandhar
-  title: Rehman Dakait Character Analysis
-  url: /2026/03/29/rehman-dakait-character-analysis-dhurandhar/
-  category: leisure
-  image: /assets/images/blog/blog-23.webp
-  lang: en
 - slug: yalina-jamali-sara-arjun-character-analysis
   title: Yalina Jamali Character Analysis
   url: /2026/04/11/yalina-jamali-sara-arjun-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: rehman-dakait-character-analysis-dhurandhar
+  title: Rehman Dakait Character Analysis
+  url: /2026/03/29/rehman-dakait-character-analysis-dhurandhar/
+  category: leisure
+  image: /assets/images/blog/blog-23.webp
   lang: en
 - slug: major-iqbal-character-analysis-dhurandhar
   title: Major Iqbal Character Analysis
@@ -40536,17 +40611,17 @@ dhurandhar-cinematography-visual-style:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: dhurandhar-part-1-vs-part-2-compared
-  title: Dhurandhar Part 1 vs Part 2 Compared
-  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
-  lang: en
 - slug: dhurandhar-action-sequences-ranked-analyzed
   title: Dhurandhar Action Sequences Ranked
   url: /2026/05/14/dhurandhar-action-sequences-ranked-analyzed/
   category: leisure
   image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: dhurandhar-franchise-complete-guide
+  title: Dhurandhar Franchise Complete Guide
+  url: /2026/06/17/dhurandhar-franchise-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 dhurandhar-vs-uri-surgical-strike-compared:
 - slug: aditya-dhar-filmmaking-style-analysis
@@ -40567,11 +40642,11 @@ dhurandhar-vs-uri-surgical-strike-compared:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: hamza-open-letter-to-aditya-dhar
-  title: Hamza’s Open Letter to Aditya Dhar
-  url: /2026/03/29/hamza-open-letter-to-aditya-dhar/
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
   category: leisure
-  image: /assets/images/blog/blog-37.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 dhurandhar-controversies-explained:
 - slug: why-dhurandhar-changed-bollywood-forever
@@ -40599,29 +40674,29 @@ dhurandhar-controversies-explained:
   image: /assets/images/blog/blog-24.webp
   lang: en
 dhurandhar-dialogue-writing-analysis:
+- slug: dhurandhar-part-1-vs-part-2-compared
+  title: Dhurandhar Part 1 vs Part 2 Compared
+  url: /2026/06/10/dhurandhar-part-1-vs-part-2-compared/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: dhurandhar-franchise-complete-guide
   title: Dhurandhar Franchise Complete Guide
   url: /2026/06/17/dhurandhar-franchise-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+- slug: ranveer-singh-career-best-performance-dhurandhar
+  title: Ranveer Singh Career Best in Dhurandhar
+  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: dhurandhar-vs-uri-surgical-strike-compared
   title: Dhurandhar vs Uri The Surgical Strike
   url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
   category: leisure
   image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: dhurandhar-action-sequences-ranked-analyzed
-  title: Dhurandhar Action Sequences Ranked
-  url: /2026/05/14/dhurandhar-action-sequences-ranked-analyzed/
-  category: leisure
-  image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: dhurandhar-the-revenge-alternate-endings
-  title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
-  url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
-  category: leisure
-  image: /assets/images/blog/blog-55.webp
   lang: en
 - slug: dhurandhar-soundtrack-background-score-analysis
   title: Dhurandhar Soundtrack and Score Analyzed
@@ -40630,56 +40705,68 @@ dhurandhar-dialogue-writing-analysis:
   image: /assets/images/blog/blog-45.webp
   lang: en
 dhurandhar-part-1-vs-part-2-compared:
-- slug: dhurandhar-vs-bollywood-spy-thrillers
-  title: Dhurandhar vs Bollywood Spy Thrillers Compared
-  url: /2026/05/01/dhurandhar-vs-bollywood-spy-thrillers/
-  category: leisure
-  image: /assets/images/blog/blog-39.webp
-  lang: en
-- slug: dhurandhar-franchise-records-broken
-  title: Every Record Dhurandhar Franchise Broke
-  url: /2026/05/21/dhurandhar-franchise-records-broken/
-  category: leisure
-  image: /assets/images/blog/blog-47.webp
-  lang: en
-- slug: why-dhurandhar-changed-bollywood-forever
-  title: Why Dhurandhar Changed Bollywood Forever
-  url: /2026/06/20/why-dhurandhar-changed-bollywood-forever/
-  category: leisure
-  image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: dhurandhar-vs-uri-surgical-strike-compared
-  title: Dhurandhar vs Uri The Surgical Strike
-  url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
-ranveer-singh-career-best-performance-dhurandhar:
-- slug: dhurandhar-part-1-box-office-collection-analysis
-  title: Dhurandhar Part 1 Box Office Collection Analysis
-  url: /2026/04/18/dhurandhar-part-1-box-office-collection-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-81.webp
-  lang: en
-- slug: dhurandhar-the-revenge-alternate-endings
-  title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
-  url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
-  category: leisure
-  image: /assets/images/blog/blog-55.webp
-  lang: en
-- slug: jaskirat-singh-rangi-origin-story-analysis
-  title: Jaskirat Singh Rangi Origin Story Analysis
-  url: /2026/05/08/jaskirat-singh-rangi-origin-story-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-80.webp
-  lang: en
 - slug: dhurandhar-franchise-complete-guide
   title: Dhurandhar Franchise Complete Guide
   url: /2026/06/17/dhurandhar-franchise-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
+- slug: ranveer-singh-career-best-performance-dhurandhar
+  title: Ranveer Singh Career Best in Dhurandhar
+  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: dhurandhar-the-revenge-alternate-endings
+  title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
+  url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: dhurandhar-part-1-box-office-collection-analysis
+  title: Dhurandhar Part 1 Box Office Collection Analysis
+  url: /2026/04/18/dhurandhar-part-1-box-office-collection-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
+- slug: dhurandhar-effect-celebrity-reactions
+  title: The Dhurandhar Effect India's Most Powerful Voices Respond
+  url: /2026/04/04/dhurandhar-effect-celebrity-reactions/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
+ranveer-singh-career-best-performance-dhurandhar:
+- slug: dhurandhar-franchise-complete-guide
+  title: Dhurandhar Franchise Complete Guide
+  url: /2026/06/17/dhurandhar-franchise-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
+  lang: en
+- slug: dhurandhar-the-revenge-alternate-endings
+  title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
+  url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: dhurandhar-dialogue-writing-analysis
+  title: Dhurandhar Dialogue Writing Analyzed
+  url: /2026/06/07/dhurandhar-dialogue-writing-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: dhurandhar-part-1-box-office-collection-analysis
+  title: Dhurandhar Part 1 Box Office Collection Analysis
+  url: /2026/04/18/dhurandhar-part-1-box-office-collection-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-81.webp
+  lang: en
 dhurandhar-franchise-complete-guide:
+- slug: ranveer-singh-career-best-performance-dhurandhar
+  title: Ranveer Singh Career Best in Dhurandhar
+  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: dhurandhar-the-revenge-alternate-endings
   title: 'Exploring Alternative Endings to Dhurandhar: The Revenge'
   url: /2026/03/12/dhurandhar-the-revenge-alternate-endings/
@@ -40691,12 +40778,6 @@ dhurandhar-franchise-complete-guide:
   url: /2026/05/21/dhurandhar-franchise-records-broken/
   category: leisure
   image: /assets/images/blog/blog-47.webp
-  lang: en
-- slug: ranveer-singh-career-best-performance-dhurandhar
-  title: Ranveer Singh Career Best in Dhurandhar
-  url: /2026/06/13/ranveer-singh-career-best-performance-dhurandhar/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
   lang: en
 - slug: dhurandhar-action-sequences-ranked-analyzed
   title: Dhurandhar Action Sequences Ranked
@@ -40712,7 +40793,7 @@ why-dhurandhar-changed-bollywood-forever:
   image: /assets/images/blog/blog-47.webp
   lang: en
 - slug: dhurandhar-controversies-explained
-  title: Dhurandhar Controversies Explained
+  title: Dhurandhar Disputes Explained
   url: /2026/06/03/dhurandhar-controversies-explained/
   category: leisure
   image: /assets/images/blog/blog-84.webp
@@ -40736,17 +40817,17 @@ dhurandhar-ending-explained-both-parts:
   category: leisure
   image: /assets/images/blog/blog-75.webp
   lang: en
-- slug: complete-analysis-dhurandhar-the-revenge
-  title: Complete Analysis of Dhurandhar The Revenge
-  url: /2026/03/22/complete-analysis-dhurandhar-the-revenge/
-  category: leisure
-  image: /assets/images/blog/blog-31.webp
-  lang: en
 - slug: themes-symbolism-dhurandhar-duology
   title: Themes and Symbolism in Dhurandhar Duology
   url: /2026/04/14/themes-symbolism-dhurandhar-duology/
   category: leisure
   image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: dhurandhar-vs-uri-surgical-strike-compared
+  title: Dhurandhar vs Uri The Surgical Strike
+  url: /2026/05/31/dhurandhar-vs-uri-surgical-strike-compared/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
   lang: en
 - slug: dhurandhar-action-sequences-ranked-analyzed
   title: Dhurandhar Action Sequences Ranked

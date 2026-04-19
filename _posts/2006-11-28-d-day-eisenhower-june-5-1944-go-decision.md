@@ -3,7 +3,7 @@ layout: post
 title: "D-Day: Eisenhower's June 5 1944 Go Decision"
 page_title: "D-Day: Eisenhower's June 4 to 5 1944 Southwick House Go Decision and the Allied Committee That Almost Postponed the Invasion"
 date: 2006-11-28
-last_updated: 2006-11-28
+last_updated: 2026-04-19
 author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "decision-reconstruction", "european-theater", "1944", "d-day-normandy", "united-states"]

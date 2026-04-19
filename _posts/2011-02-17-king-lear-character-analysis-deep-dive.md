@@ -9,7 +9,7 @@ excerpt: "Deep dive into King Lear - his catastrophic judgment, his descent into
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "sophia-turner"
-last_updated: 2011-02-17
+last_updated: 2026-04-19
 lang: en
 ---
 He is the aged monarch whose decision to divide his kingdom among his three daughters based on the extravagance of their declarations of love opens the tragedy with an act of judgment so catastrophic that the entire subsequent action is the working out of its consequences, who banishes his honest daughter Cordelia and his loyal servant Kent when their truthful responses fail to meet the flattering expectations the ceremony demanded, who distributes his power to his two elder daughters Goneril and Regan in exchange for verbal professions whose emptiness he cannot perceive at the moment of the distribution, who discovers over the subsequent acts that the daughters who flattered him most lavishly have no intention of honoring the domestic arrangements the distribution had specified, who descends progressively from imperious monarch to confused guest to dispossessed wanderer to mad king on the storm-swept heath, who eventually achieves through his madness and his sufferings a moral clarity that the earlier monarch had been incapable of possessing, who is reunited with the banished Cordelia in the penultimate act in what briefly appears to be the redemptive resolution the suffering has earned, and who dies in the closing scene holding the body of the daughter whose execution the plot's machinery has generated despite the apparent reconciliation that had preceded it. The trajectory from imperious monarch to mad wanderer to bereaved father cradling his executed daughter is one of the most devastating arcs in the canon.

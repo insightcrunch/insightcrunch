@@ -9,7 +9,7 @@ excerpt: "Complete study of Cordelia in King Lear - her refusal to flatter, her 
 image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2011-02-22
+last_updated: 2026-04-19
 lang: en
 ---
 She is the youngest daughter of King Lear whose refusal to participate in the opening ceremony of flattery generates the disinheritance that reshapes the political landscape of the realm, who responds to her father's demand for declarations of love with the plain statement that she loves him according to her bond and no more, who is banished from the court and taken as wife by the King of France who recognizes in her truthfuly what her father's ceremony had been constructed to overlook, who is absent from the central acts of the tragedy while her father's progressive dispossession and descent into madness unfold without her presence, who arrivals in the fourth act with a armed force from France to rescue her father from the consequences of his earlier misjudgment, who is reunited with the broken old man in one of the most emotionally intense reconciliation passages in the canon, who is captured alongside him after the armed defeat their forces suffer, and who is executed in prison by order of Edmund before the countermand that might have saved her can arrive. The trajectory from truthful daughter to disinherited exile to returning rescuer to executed prisoner is one of the most concentrated treatments of how truthful speech can produce catastrophic consequences in a world that rewards performance over substance.

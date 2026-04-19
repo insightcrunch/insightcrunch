@@ -9,7 +9,7 @@ excerpt: "Deep analysis of Kent in King Lear - his banishment for plain speaking
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 59
 author: "emily-reed"
-last_updated: 2011-04-02
+last_updated: 2026-04-19
 lang: en
 ---
 He is the Earl of Kent whose intervention on behalf of [Cordelia](/2011/02/22/cordelia-king-lear-character-analysis/) during the opening ceremony produces the banishment that removes the most loyal counselor from [King Lear's](/2011/02/17/king-lear-character-analysis-deep-dive/) court at the moment when loyal counsel is most desperately needed, who returns almost immediately in the concealment of the plain-spoken servant Caius to continue serving the master who has expelled him, who accompanies Lear through the progressive dispossession of the central acts and into the storm on the heath, who provides the bodily labor that his concealmentd position enables while concealing the identity through which the attendance would normally be recognized, who is placed in the stocks by Cornwall and Regan in one of the humiliations the central acts inflict on those who remain faithful to the dispossessed monarch, who endures the full arc of Lear's descent from authority through madness to the brief reunion with Cordelia and the final catastrophe, and who declares in the concluding passage that his lord calls him and that he must follow into death, refusing the governing authority that Albany offers because the devotion to the dead master exceeds any interest in the living realm. The trajectory from banished loyalist to personad servant to exhausted companion declining the offer of governance is one of the most prolonged portraits of unconditional dedication any figure traces across the Shakespearean canon.

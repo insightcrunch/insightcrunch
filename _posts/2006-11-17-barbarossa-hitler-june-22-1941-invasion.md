@@ -10,6 +10,7 @@ image: /assets/blog/blog-03.webp
 excerpt: "Hitler signed Directive 21 on December 18 1940. Halder had already started planning. The largest invasion in history began six months later."
 slug: "barbarossa-hitler-june-22-1941-invasion"
 lang: en
+last_updated: 2026-04-19
 ---
 Hitler signed Directive 21 on December 18 1940, six months before the first panzer rolled across the Bug River. The document ordered the Wehrmacht to "crush Soviet Russia in a quick campaign even before the end of the war against England," and it formalized a decision Hitler had already announced to his senior generals at the Berghof on July 31 1940. By the time the directive carried his signature, Major General Erich Marcks had delivered an operational plan (August 5 1940), the Army General Staff had produced a parallel study under Lieutenant Colonel Bernhard von Lossberg (September 1940), and Lieutenant General Friedrich Paulus had completed a series of war games testing the Marcks conception (November and December 1940). The invasion of the Soviet Union was not an impulse. It was a fifteen-month planning program that integrated professional military advice into a framework Hitler had fixed ideologically before any staff work began.
 
