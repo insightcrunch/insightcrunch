@@ -4,11 +4,11 @@ title: "The Dursleys: Mundane Evil and the Terror of the Ordinary"
 date: 2013-07-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Dursleys", "Vernon", "Petunia", "Dudley", "Child Abuse", "Mundane Evil", "Literary Analysis"]
-excerpt: "The Dursleys are more terrifying than Voldemort because they are real. Rowling's portrait of a family that abuses a child not from malice but from smallness is the series' most autobiographical and most devastating critique."
+excerpt: "Decode the Dursleys in Harry Potter as the series' portrait of mundane evil and its most personal indictment."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-07-20
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Ordinary Horror

@@ -5,11 +5,11 @@ page_title: "Wand Lore in Harry Potter: Object Symbolism, Identity, and the Rela
 date: 2013-08-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Wand Lore", "Elder Wand", "Identity", "Twin Cores", "Neville", "Symbolism", "Literary Analysis"]
-excerpt: "Wands in Harry Potter are not tools but relationships. The wand chooses the wizard, and the choice reveals something true about both. The Elder Wand is power that corrupts precisely because it works too well."
+excerpt: "Decode wand lore in Harry Potter as identity metaphor and the Elder Wand as power that corrupts because it works."
 image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-08-05
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Relationship That Cannot Be Faked

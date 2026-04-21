@@ -5,11 +5,11 @@ page_title: "Prophecy, Free Will, and Destiny in Harry Potter: The Bait-and-Swit
 date: 2013-07-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Prophecy", "Free Will", "Destiny", "Philosophy", "Neville", "Voldemort", "Dumbledore", "Literary Analysis"]
-excerpt: "The prophecy is Rowling's great philosophical bait-and-switch. Voldemort believes the prophecy creates the conflict. Dumbledore understands it is empty. What defines us is not what is predicted but how we respond to prediction."
+excerpt: "Decode the Harry Potter prophecy as a philosophical trap about free will, not a destiny Voldemort could escape."
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2013-07-25
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Prophecy That Means Nothing Until Someone Believes It

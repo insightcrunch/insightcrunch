@@ -5,11 +5,11 @@ page_title: "Half-Blood Identity in Harry Potter: The Person Who Belongs to Two 
 date: 2013-06-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Half-Blood", "Identity", "Heritage", "Snape", "Voldemort", "Harry Potter", "Mixed Identity", "Literary Analysis"]
-excerpt: "The half-blood concept is Rowling's most sophisticated social metaphor - the person who belongs to two worlds and is fully accepted by neither. Snape, Voldemort, and Harry each resolve the tension differently."
+excerpt: "Decode the half-blood concept in Harry Potter through Snape, Voldemort, and Harry, who each resolve it differently."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-06-30
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Identity Between Two Worlds

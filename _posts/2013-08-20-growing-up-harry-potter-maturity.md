@@ -4,11 +4,11 @@ title: "Growing Up With Harry Potter: How the Series Ages With Its Reader"
 date: 2013-08-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Maturity", "Growing Up", "Book 5", "Harry's Anger", "Dumbledore", "Moral Complexity", "Literary Analysis"]
-excerpt: "Book 1 is a fairy tale. Book 7 is a war novel. The series ages with its reader, and the moral complexity increases with each installment in ways that make re-reading as an adult a fundamentally different experience."
+excerpt: "Decode how Harry Potter shifts from fantasy to war literature across seven books and what re-reading reveals."
 image: "/assets/images/blog/blog-47.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2013-08-20
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Book That Grows When You Return to It

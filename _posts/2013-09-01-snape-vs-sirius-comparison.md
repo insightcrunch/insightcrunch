@@ -5,11 +5,11 @@ page_title: "Snape vs Sirius Black: Two Men Who Saw James Potter When They Looke
 date: 2013-09-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Snape", "Sirius Black", "Displaced Love", "Character Analysis", "Literary Analysis"]
-excerpt: "Both men were damaged by their pasts. Both men loved people connected to Harry. Both saw James Potter when they looked at Harry. The question is which form of displaced love caused more damage to its object."
+excerpt: "Decode Snape vs Sirius in Harry Potter: two men, two kinds of unresolved grief, and two ways of loving Harry badly."
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-09-01
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Question That Makes This Comparison Uncomfortable

@@ -5,11 +5,11 @@ page_title: "Food and Feasts in Harry Potter: How Rowling Uses Nourishment as th
 date: 2013-08-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Food", "Community", "Love"]
-excerpt: "Food in Harry Potter reveals who belongs and who doesn't. Every meal tells a story about love, power, and the politics of care."
+excerpt: "Decode food and feasts in Harry Potter as Rowling's clearest signal of love and the politics of who eats."
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-08-10
+last_updated: 2026-04-21
 lang: en
 ---
 Food is never just food in the Harry Potter series. Every meal carries symbolic weight, every feast establishes social hierarchy, every empty plate speaks to emotional starvation. From Harry's calculated portions at Privet Drive to the inexhaustible abundance of Hogwarts tables, from Molly Weasley's love expressed through cooking to the house-elves' invisible labor that sustains magical society, Rowling constructs a complex language where nourishment becomes the most honest expression of care, power, and belonging.

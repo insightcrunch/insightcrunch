@@ -1,9 +1,9 @@
 {
-  "generated": "2026-04-19T16:41:09Z",
+  "generated": "2026-04-21T08:01:26Z",
   "threshold": 50,
   "totalPosts": 1601,
-  "flaggedPosts": 1283,
-  "suppressedPosts": 0,
+  "flaggedPosts": 1275,
+  "suppressedPosts": 8,
   "stalePosts": 0,
   "worstWord": "available",
   "worstCount": 1711,
@@ -15037,10 +15037,13 @@
       "wordCount": 10375,
       "topWord": "geography",
       "topCount": 399,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "\\\"geography\\\" appears in the title - it is the article topic",
+      "suppressSnapshot": {
+        "word": "geography",
+        "count": 399
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-14-upsc-geography-optional-complete-guide.md",
       "flaggedWords": [
@@ -15401,10 +15404,13 @@
       "wordCount": 10138,
       "topWord": "examination",
       "topCount": 478,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Verified fine manually",
+      "suppressSnapshot": {
+        "word": "examination",
+        "count": 478
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-23-upsc-mains-exam-day.md",
       "flaggedWords": [
@@ -15947,10 +15953,13 @@
       "wordCount": 10499,
       "topWord": "preparation",
       "topCount": 424,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Verified fine manually",
+      "suppressSnapshot": {
+        "word": "preparation",
+        "count": 424
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-06-upsc-mains-syllabus-coverage-without-burnout.md",
       "flaggedWords": [
@@ -16129,10 +16138,13 @@
       "wordCount": 10250,
       "topWord": "preparation",
       "topCount": 418,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Verified fine readability",
+      "suppressSnapshot": {
+        "word": "preparation",
+        "count": 418
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-11-upsc-qualifying-papers-english-indian-language.md",
       "flaggedWords": [
@@ -16311,10 +16323,13 @@
       "wordCount": 10557,
       "topWord": "preparation",
       "topCount": 397,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Validated fine readability",
+      "suppressSnapshot": {
+        "word": "preparation",
+        "count": 397
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-15-upsc-mains-pyq-analysis-trends.md",
       "flaggedWords": [
@@ -16675,10 +16690,13 @@
       "wordCount": 11069,
       "topWord": "paper",
       "topCount": 452,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Verified fine manually",
+      "suppressSnapshot": {
+        "word": "paper",
+        "count": 452
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-07-24-upsc-mains-interlinking-gs-papers.md",
       "flaggedWords": [
@@ -17221,10 +17239,13 @@
       "wordCount": 10120,
       "topWord": "visual",
       "topCount": 525,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Verified manually, readability ok",
+      "suppressSnapshot": {
+        "word": "visual",
+        "count": 525
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-08-07-upsc-mains-diagrams-flowcharts-maps.md",
       "flaggedWords": [
@@ -17403,10 +17424,13 @@
       "wordCount": 9662,
       "topWord": "format",
       "topCount": 440,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "Verified fine manually",
+      "suppressSnapshot": {
+        "word": "format",
+        "count": 440
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-08-11-upsc-mains-answer-writing-formats.md",
       "flaggedWords": [

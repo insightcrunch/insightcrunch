@@ -4,11 +4,11 @@ title: "Harry Potter vs Voldemort: The Same Wound, Opposite Scars"
 date: 2013-08-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Harry Potter", "Voldemort", "Tom Riddle", "Orphan Psychology", "Character Analysis", "Literary Analysis"]
-excerpt: "What separates the boy raised without love who becomes a hero from the boy raised without love who becomes a monster? Rowling's answer is not simply 'love' - it is the capacity to form attachments to equals rather than to seek dominion over inferiors."
+excerpt: "Decode the Harry vs Voldemort comparison: two boys without love, one becomes a hero, one becomes a Dark Lord."
 image: "/assets/images/blog/blog-09.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-08-25
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Same Starting Point, Opposite Destinations

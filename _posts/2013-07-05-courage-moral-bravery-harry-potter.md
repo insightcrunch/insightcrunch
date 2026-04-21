@@ -5,11 +5,11 @@ page_title: "Courage and True Moral Bravery in Harry Potter: The Forms That Matt
 date: 2013-07-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Courage", "Bravery", "Neville", "Snape", "Narcissa", "Harry Potter", "Moral Courage", "Literary Analysis"]
-excerpt: "Rowling's most subversive argument: Gryffindor courage - running toward danger - is the least interesting form of bravery. True moral courage is quieter, costlier, and more fully chosen."
+excerpt: "Decode Harry Potter's surprising argument that the bravest characters are not always the Gryffindors."
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-07-05
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Hierarchy of Bravery

@@ -5,11 +5,11 @@ page_title: "Professors and Education Philosophy in Harry Potter: What the Best 
 date: 2013-06-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Education", "Lupin", "Snape", "Umbridge", "McGonagall", "Dumbledore", "Hagrid", "Literary Analysis", "Teaching"]
-excerpt: "Each Hogwarts professor embodies a different educational philosophy. The series argues - through Harry's experience - that the best teaching happens through relationship, not curriculum."
+excerpt: "Decode every Hogwarts professor as a different theory of teaching, and the one Rowling actually defends."
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-06-25
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Classroom as the Series' Most Consistent Moral Test

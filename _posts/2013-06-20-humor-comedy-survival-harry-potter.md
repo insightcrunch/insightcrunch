@@ -5,11 +5,11 @@ page_title: "Humor and Comedy as Survival in Harry Potter: The Moral Diagnostic 
 date: 2013-06-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Thematic Analysis", "Humor", "Comedy", "Fred and George", "Dumbledore", "Ron Weasley", "Voldemort", "Literary Analysis"]
-excerpt: "Humor in Harry Potter is never merely comic relief. It is a survival mechanism, a weapon, a form of resistance, and the series' most reliable moral diagnostic. How characters use humor reveals their quality more honestly than their stated beliefs."
+excerpt: "Decode humor in Harry Potter as a weapon and moral test, not comic relief, across all seven books."
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-06-20
+last_updated: 2026-04-21
 lang: en
 ---
 ## Introduction: The Joke That Is Always a Moral Statement
