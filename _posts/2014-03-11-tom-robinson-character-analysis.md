@@ -6,17 +6,17 @@ date: 2014-03-11
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "tom-robinson", "character-analysis", "literary-analysis", "racial-injustice"]
 excerpt: "Complete analysis of Tom Robinson - his trial, dignity under persecution, and what his fate reveals about justice."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2014-03-11
+lang: en
 ---
-
 Tom Robinson speaks for approximately two thousand words across Harper Lee's 281-page text, all of them in a courtroom, all of them in response to questions posed by attorneys, and none of them revealing what he thinks about the case that will cost him his life. He is the defendant around whom the moral architecture of To Kill a Mockingbird is constructed, and he is the defendant that architecture cannot afford to make fully human. His innocence must be total. His suffering must be visible to the audience. His interior must remain permanently sealed. That combination is not accidental; it is the condition that made Lee's 1960 white-liberal novel possible, and naming the condition is more productive than either canonizing the text or dismissing it.
 
 <!--more-->
 
-![Tom Robinson Character Analysis - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Tom Robinson Character Analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The critical tradition has spent six decades treating Tom Robinson as a tragic victim, a reading that accurately names his plot function but fails to interrogate why the text confines him so narrowly. Isaac Saney's 2003 structural critique of the novel opened a different line of inquiry, one extended by Hortense Spillers's theoretical work on the captive body in American literary narrative and by Roslyn Siegel's earlier scholarship on Black representation in American fiction. The reading that emerges from this critical genealogy treats Tom not as a figure who happens to be underdeveloped but as a person whose underdevelopment is the novel's central design principle. Every element of the moral case Lee constructs depends on Tom remaining exactly as he is: innocent, dignified, voiceless, and dead by Chapter 25. The question this analysis pursues is what that design reveals about the text, about its 1960 audience, and about the tradition of American fiction in which it sits. The question is not whether Lee should have written differently; it is what the novel, as written, tells us about the conditions of its own production and about the literary tradition that produced it.
 

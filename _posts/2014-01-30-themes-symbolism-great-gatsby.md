@@ -6,17 +6,17 @@ date: 2014-01-30
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "themes", "symbolism", "literary-analysis", "classic-literature"]
 excerpt: "Every theme and symbol in The Great Gatsby explained - the green light, Eckleburg's eyes, the valley of ashes."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2014-01-30
+lang: en
 ---
-
 The symbols in The Great Gatsby are not decorations pinned to a love story. They are F. Scott Fitzgerald's compressed economic arguments about how postwar American wealth actually worked, written in images because the analytical vocabulary for what he was describing did not yet exist. The green light at the end of Daisy Buchanan's dock is hope that has been converted into a purchasable commodity. The billboard eyes of Doctor T. J. Eckleburg are the advertising apparatus that has replaced religious conscience in a commercial landscape. The valley of ashes is the geography of industrial cost that the wealth of West Egg and East Egg requires but cannot afford to see. Gatsby's cascade of shirts is love collapsed into commodity display. The telephone calls from Philadelphia are the criminal infrastructure financing the entire spectacle. Read together, these five symbols form a diagnostic system, not a decoration catalog, and the themes they encode - aspiration commodified, cost displaced, conscience outsourced - constitute Fitzgerald's argument about a civilization consuming itself in the act of celebration.
 
 <!--more-->
 
-![Themes and Symbolism in The Great Gatsby](/assets/images/blog/blog-12.webp)
+![Themes and Symbolism in The Great Gatsby](/assets/images/blog/blog-89.webp)
 
 Generic treatments of Gatsby's symbolism - the kind available on competitor sites that color-code theme occurrences across chapters - treat each symbol as an object with an assigned meaning. The green light means hope. The eyes mean God. The ashes mean decay. This approach converts Fitzgerald's most ambitious artistic achievement into a matching exercise, and the matching exercise is precisely what the symbols resist. Fitzgerald was not assigning meanings. He was building arguments in compressed form, arguments about the specific operations of 1920s American capitalism that Thorstein Veblen had begun naming in The Theory of the Leisure Class back in 1899 but that no one had yet described at the scale Fitzgerald saw them operating. The symbols are the tools Fitzgerald used because the vocabulary had not arrived. John Kenneth Galbraith would eventually supply some of that vocabulary in The Affluent Society in 1958, thirty-three years after Gatsby appeared and eighteen years after Fitzgerald died believing the novel had failed. What follows is an attempt to read each symbol as the specific argument it encodes, and then to trace the three themes that bind the arguments into a single diagnosis of the American economy at the peak of its first great consumer expansion.
 

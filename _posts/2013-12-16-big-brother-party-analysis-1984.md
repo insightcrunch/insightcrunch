@@ -6,17 +6,17 @@ date: 2013-12-16
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "big-brother", "the-party", "totalitarianism", "literary-analysis", "classic-literature"]
 excerpt: "Big Brother may not exist. The Party is 1984's true protagonist, and its argument about power still terrifies."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2013-12-16
+lang: en
 ---
-
 Big Brother is probably not a person. Orwell's most famous creation, the face on every poster, the voice in every telescreen broadcast, the recipient of every loyalty oath and every act of compelled love, is almost certainly a fabrication maintained by the Inner Party because a permanent symbolic leader is more stable than any biological dictator. The Party, not the face, is the novel's true protagonist, and its argument about the nature of totalitarian control remains the most disturbing thesis in twentieth-century fiction. Where other dystopian novels imagine repressive states as instruments serving some identifiable goal, Orwell's regime serves nothing except its own perpetuation, and that refusal to justify itself is what makes the novel impossible to refute on its own terms.
 
 <!--more-->
 
-![Big Brother and the Party in 1984 Analysis - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Big Brother and the Party in 1984 Analysis - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 This is not the reading most students receive. The conventional classroom treatment presents Big Brother as a dictator, compares him to Stalin or Hitler, and moves on to discuss surveillance as the novel's central theme. That reading is not wrong, but it flattens the novel's architecture into something manageable and misses the deeper argument Orwell constructed. The Party in 1984 is not a government that happens to use surveillance. It is a political-philosophical machine that has solved the problem every previous tyranny failed to solve: how to make domination permanent. The surveillance, the language manipulation, the historical revision, the perpetual war, and the telescreen in every room are not separate features of the regime. They are components of a single integrated system whose purpose is to eliminate the conditions under which rebellion becomes thinkable. Orwell's achievement is not that he imagined a scary government. His achievement is that he [reverse-engineered the mechanics of permanent control](https://insightcrunch.com/2013/12/06/complete-analysis-1984-george-orwell/) and showed, with technical precision, why those mechanics work.
 

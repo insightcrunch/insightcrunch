@@ -6,17 +6,17 @@ date: 2013-12-31
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "obrien", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Deep analysis of O'Brien in 1984 - his ideology, manipulation of Winston, and role as the face of absolute power."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2013-12-31
+lang: en
 ---
-
 O'Brien is sincere in his cruelty, and that sincerity is what makes him philosophically unanswerable. Most readings of Orwell's 1984 treat O'Brien as a villain, a betrayer, a stock authority figure who tricks Winston Smith into trusting him and then destroys him in the Ministry of Love. These readings are not wrong, but they are dangerously incomplete, because they allow the reader a comfort Orwell was determined to deny. If O'Brien is merely a manipulator, then Winston's defeat is a defeat by deception, and deception can in principle be detected and resisted. Orwell's argument is bleaker than that. O'Brien is not deceiving Winston about anything that matters. He tells Winston exactly what the Party intends to do, explains exactly why the Party does it, and demonstrates exactly how the Party will win. The terror of 1984 does not come from the Party's lies. It comes from the Party's truth, delivered by a man who believes every word of it.
 
 <!--more-->
 
-![O'Brien Character Analysis in 1984 - Insight Crunch](/assets/images/blog/blog-06.webp)
+![O'Brien Character Analysis in 1984 - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 This is the reading that separates a serious engagement with Orwell's work from the SparkNotes summary. The conventional approach treats O'Brien as a traitor whose betrayal of Winston is the novel's plot twist. But O'Brien never pretends to be anything other than what he is. He tells Winston in Part One that they will meet in the place where there is no darkness, and when Winston arrives at the Ministry of Love, the fluorescent lights never go out. He recites the ending of the St Clement's Dane rhyme in Part Two, revealing that he has monitored Winston's most private thought-object, and Winston registers this and proceeds anyway. The so-called betrayal in Part Two Chapter Ten, when the iron voice behind the painting announces that Winston and Julia are under arrest, is not a revelation but a confirmation. O'Brien has been showing his hand from the first page on which he appears, and Winston has been choosing not to read the cards. The question the novel poses is not why O'Brien betrays Winston but why Winston was unable to hear what O'Brien was saying all along, and the answer implicates every reader who identifies with Winston's hope rather than O'Brien's clarity. The reader, like Winston, wants O'Brien to be an ally, and the wanting is so powerful that it overwhelms the textual evidence available from the first encounter.
 

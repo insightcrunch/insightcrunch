@@ -6,17 +6,17 @@ date: 2014-03-06
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "harper-lee", "racial-injustice", "tom-robinson", "literary-analysis", "classic-literature"]
 excerpt: "How To Kill a Mockingbird confronts racial injustice - the trial, Maycomb's caste system, and its limitations."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2014-03-06
+lang: en
 ---
-
 To Kill a Mockingbird treats racism as a problem of individual prejudice that individual moral heroism can address, and that treatment is simultaneously the source of the novel's 1960 power and its twenty-first-century limitation. Harper Lee published into a nation that was beginning to reckon with Jim Crow, and her novel gave white liberal readers exactly what they needed: a white hero who stands against racism, a Black defendant whose innocence is unambiguous, and a child narrator whose confusion at the verdict doubles as the reader's own moral clarity. The novel did genuine work in 1960. Alabama had not integrated its schools. The Greensboro sit-ins were five months old. White Americans who would never read a sociological study of racial oppression read Mockingbird and felt, many for the first time, the weight of a system that convicted innocent men because of their skin color. That achievement was real, and dismissing it is as analytically careless as ignoring the novel's limits.
 
 <!--more-->
 
-![Racial Injustice in To Kill a Mockingbird - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Racial Injustice in To Kill a Mockingbird - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 But the limits are structural, not incidental, and they have become more visible with each decade since publication. Mockingbird frames racism as the aggregate of individual biases: Bob Ewell's malice, the jury's prejudice, the town gossips' casual white supremacy. Under this frame, the remedy is individual moral persuasion, which Atticus Finch embodies when he tells Scout to climb into another person's skin and walk around in it. The frame cannot analyze racism as an institutional system, because that analysis would require Atticus and Maycomb's entire social order to be part of the problem rather than the backdrop against which heroism occurs. Isaac Saney identified this limitation in his 2003 essay in Race and Class, and Malcolm Gladwell sharpened it in his 2009 New Yorker piece comparing Atticus to the real-world Southern moderate Big Jim Folsom. The publication of Go Set a Watchman in 2015 settled the argument by revealing that Lee's original Atticus was a segregationist, and the Mockingbird Atticus was an editorial revision. What follows traces the novel's racial-injustice architecture through five analytical dimensions, arguing that the novel's 1960 liberal virtues and its contemporary liberal embarrassments meet in the same structural features of its design.
 

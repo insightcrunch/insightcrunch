@@ -6,17 +6,17 @@ date: 2014-01-25
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "daisy-buchanan", "character-analysis", "feminist-reading", "classic-literature"]
 excerpt: "Daisy is not Gatsby's villain. She is the most trapped figure in the novel, choosing survival in a system designed to reward her compliance."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2014-01-25
+lang: en
 ---
-
 Daisy Buchanan is not the villain of The Great Gatsby. She is the most constrained character in a novel full of constrained characters, a woman whose apparent carelessness is the behavioral signature of a social position that offered her precisely two choices in the summer of 1919: marry wealth and stay inside the class she was raised to inhabit, or gamble on a man who had already disappeared to Europe and might never return. She chose the option her entire upbringing had trained her to choose, the option her family expected, the option her social world rewarded. That readers continue to condemn her for this choice reveals more about the reading conventions surrounding the novel than about anything F. Scott Fitzgerald actually wrote.
 
 <!--more-->
 
-![Daisy Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Daisy Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The standard reading of Daisy has been remarkably stable for decades: she is shallow, she is careless, she is the object Gatsby pursues and the person who fails to deserve his devotion. Nick Carraway's famous final judgment of the Buchanans as people who smash things and retreat behind their money has become the novel's verdict on Daisy in most classroom discussions and on most study-guide websites. SparkNotes and LitCharts reproduce this reading almost verbatim. The reading has the advantage of simplicity and the disadvantage of accepting Nick's perspective as neutral when the entire novel demonstrates that Nick is anything but. The argument this analysis advances is different. Daisy is not careless in the way Nick means it. Daisy is constrained, and what looks like carelessness from the outside is the set of survival decisions a woman in her position was structurally required to make. The feminist critical tradition, from Lois Tyson's work on gender in Gatsby to Sarah Churchwell's historical contextualization, has built the scholarly foundation for this reassessment. The textual evidence, read without Nick's framing imposed on top of it, supports it decisively.
 

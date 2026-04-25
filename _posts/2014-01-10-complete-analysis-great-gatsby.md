@@ -6,17 +6,17 @@ date: 2014-01-10
 categories: ["Leisure"]
 tags: ["great-gatsby", "f-scott-fitzgerald", "novel-analysis", "american-dream", "jazz-age", "classic-literature"]
 excerpt: "Gatsby is not a love story. It is a 1925 verdict on the American postwar bubble that Fitzgerald knew was about to burst."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-01-10
+lang: en
 ---
-
 The Great Gatsby is the most misread canonical novel in the United States literary tradition. Generations of high-school curricula have taught it as a tragic love story, a tale of doomed romance set against the sparkling backdrop of the Roaring Twenties. That reading requires ignoring most of what F. Scott Fitzgerald actually put on the page. Gatsby is not a love story. It is a 1925 verdict on the American postwar speculative bubble, written by a man who understood the speculative frenzy of the early twenties with the diagnostic precision of an insider and delivered his findings in prose so beautiful that readers mistake the beauty for endorsement.
 
 <!--more-->
 
-![Complete Analysis of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Complete Analysis of The Great Gatsby - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 Fitzgerald published the novel on April 10, 1925, three years into the speculative expansion that would end in the crash of October 1929. The novel is set during the summer of 1922, a period Fitzgerald chose with care: 1922 was the year the postwar boom shifted from recovery into speculation, the year consumer credit began its decisive expansion, the year the Harding administration's corruption began surfacing through the Teapot Dome investigation. Fitzgerald did not need to wait for the crash to see what was coming. He had already written it. The green light at the end of Daisy's dock is not a symbol of romantic longing; it is the beacon of a speculative economy that rewards obsessive pursuit and punishes the pursuer. The novel's final image, the boats beating ceaselessly against the current, is not an elegy for beautiful impossibility. It is a diagnosis of a speculative formation that produces men like Jay Gatsby, uses their energy, and discards their bodies.
 

@@ -6,17 +6,17 @@ date: 2014-02-19
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "atticus-finch", "harper-lee", "character-analysis", "go-set-a-watchman", "classic-literature"]
 excerpt: "Atticus was canonized in 1960 as the moral conscience of race relations. Go Set a Watchman revealed he had always been a moderate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2014-02-19
+lang: en
 ---
-
 Atticus Finch is the most canonized character in American fiction, and the canonization is the problem. For fifty-five years he occupied a position no other fictional figure has held: the moral conscience of an entire profession, the aspirational father of an entire reading culture, the ethical compass that law schools and bar associations cited as though he were a real attorney with a real record. Gregory Peck's 1962 portrayal fixed Atticus in the American imagination as the principled white Southerner who stood against racial injustice when standing was costly, and that image persisted through decades of classroom instruction, legal ethics curricula, and cultural shorthand. Then in 2015 Harper Lee's Go Set a Watchman was published, and the Atticus who emerged from Lee's earlier manuscript was not the 1960 hero at all. He was a Citizens' Council attendee defending segregation as a states' rights matter and opposing federal civil rights intervention with arguments that sounded nothing like the closing argument in the Tom Robinson trial. The shock that followed Watchman's publication was genuine, and it was also instructive, because the textual evidence for the segregationist Atticus had been present in Mockingbird itself for anyone willing to read against the grain of the canonization. The Watchman Atticus was in Mockingbird all along. The canonization required readers to edit him out.
 
 <!--more-->
 
-![Atticus Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Atticus Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 That claim is this article's central argument. What follows is not a simple character sketch of a beloved fictional father. It is a reassessment that takes both novels seriously, engages the critical tradition that anticipated the 2015 revelation, and argues that the honest reckoning with Atticus produces a richer, more instructive reading than the canonized version ever could. The Atticus who emerges from careful reading is not a moral monster. He is something more uncomfortable: a competent, well-meaning Alabama lawyer whose moral ceiling was set by his time, his class, and his region, and whose canonization as a timeless hero required editorial work on the text that his creator, Harper Lee, had not originally intended.
 

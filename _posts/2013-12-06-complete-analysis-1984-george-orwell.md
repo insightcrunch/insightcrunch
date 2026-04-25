@@ -6,17 +6,17 @@ date: 2013-12-06
 categories: ["Leisure"]
 tags: ["1984", "george-orwell", "novel-analysis", "literary-analysis", "dystopian-fiction", "classic-literature"]
 excerpt: "The definitive analysis of 1984 - its themes, symbols, political warnings, and enduring relevance in the modern age."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-12-06
+lang: en
 ---
-
 1984 is not a prophecy. It is a dispatch filed in 1948 from inside the wreckage of three political catastrophes George Orwell had witnessed with his own eyes: the Stalinist betrayal of the Spanish Republic, the propaganda machinery of wartime Britain, and the Soviet consolidation of Eastern Europe that was still in progress as he typed his final manuscript on the Scottish island of Jura, coughing blood into his handkerchief between chapters. The novel that the world has spent seven decades reading as a warning about a possible future was, for its author, a clinical report on a present he had already survived and a near-future he could see arriving with the certainty of a man reading a train timetable. That distinction, between prophecy and diagnosis, is the key to everything the novel does, everything it means, and everything the study-guide industry has spent decades getting wrong about it.
 
 <!--more-->
 
-![Complete Analysis of 1984 by George Orwell - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Complete Analysis of 1984 by George Orwell - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Orwell sent a letter to Francis A. Henson of the United Auto Workers on June 16, 1949, five months before his death and eight months before the Soviet Union detonated its first atomic device, in which he stated plainly that the novel was not intended as a prophecy but as a warning, and that he had set the action in Britain specifically to make the point that English-speaking peoples are not innately superior to anyone else. That letter has been available in the Collected Essays, Journalism and Letters since 1968, edited by Sonia Orwell and Ian Angus, and yet the popular reading of 1984 as a technology-warning or a surveillance-prophecy persists. The reading persists because it is easier than the alternative. If 1984 is about a future that might arrive, the reader can feel vigilant. If 1984 is about a past that already happened and a process that is always happening, the reader must feel implicated. Orwell's novel insists on implication. Its power is not speculative. Its power is testimonial.
 

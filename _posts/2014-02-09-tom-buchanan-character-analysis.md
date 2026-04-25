@@ -6,17 +6,17 @@ date: 2014-02-09
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "tom-buchanan", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Complete analysis of Tom Buchanan - his violence, racism, privilege, and role as the novel's true antagonist."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2014-02-09
+lang: en
 ---
-
 Tom Buchanan is not a stock villain. He is the only character in F. Scott Fitzgerald's masterpiece who never pretends his wealth was earned, his position was merited, or his views are anything other than what they are, and that brutal candor is precisely what makes him the most frightening figure in a cast of liars, dreamers, and cowards.
 
 <!--more-->
 
-![Tom Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Tom Buchanan Character Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Fitzgerald constructed Buchanan with surgical precision, building a character whose racism is documented, whose violence is casual, whose infidelity is brazen, and whose factual accuracy about the people around him is devastating. Standard classroom readings flatten this construction into a one-dimensional brute, the easy villain against whom Jay Gatsby's romantic heroism shines. SparkNotes and LitCharts reinforce this flatness by treating Buchanan as a moral counterweight rather than as the novel's most psychologically coherent character. The reading this article advances is different and harder: Buchanan is morally repellent and factually reliable in the same breath, and the gap between those two qualities is Fitzgerald's most demanding insight into what inherited wealth produces in a human personality. To reduce Buchanan to brutishness is to miss the argument Fitzgerald was making about the American class system in the aftermath of the First World War, an argument whose relevance to [contemporary inherited-wealth dynamics](https://insightcrunch.com/2015/01/20/social-class-classic-novels-compared/) has only intensified since the novel's publication.
 
