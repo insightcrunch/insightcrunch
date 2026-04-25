@@ -5,11 +5,11 @@ page_title: "The Greatest Unreliable Narrators in Classic Fiction - Nick Carrawa
 date: 2015-02-04
 categories: ["Leisure"]
 tags: ["unreliable-narrator", "literary-comparison", "nick-carraway", "holden-caulfield", "marlow", "literary-analysis"]
-excerpt: "Classic fiction's greatest unreliable narrators compared - why we trust them, why we should not, and why it matters."
+excerpt: "Decode the unreliable narrator as a deliberate literary device classic novelists used long before postmodernism."
 image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2015-02-04
+last_updated: 2026-04-25
 lang: en
 ---
 The unreliable narrator represents one of literature's most sophisticated techniques for exploring the gap between perception and reality, forcing readers to become active participants in constructing meaning from incomplete and potentially distorted information. When Nick Carraway claims Gatsby has an "extraordinary gift for hope," when Holden Caulfield dismisses everyone as phonies, and when Marlow insists he hates lies before telling the central falsehood of Heart of Darkness, these narrators reveal as much about themselves as their subjects while challenging readers to discover truth through careful analysis of what remains unsaid.

@@ -5,11 +5,11 @@ page_title: "Gender and Feminism in Classic Literature - Elizabeth Bennet, Jane 
 date: 2015-01-25
 categories: ["Leisure"]
 tags: ["feminism", "gender", "literary-comparison", "classic-literature", "elizabeth-bennet", "jane-eyre", "hester-prynne"]
-excerpt: "How classic literature's greatest heroines challenge gender expectations - Bennet, Eyre, Prynne, and more."
+excerpt: "Decode the proto-feminist heroines of classic literature and the ways their authors quietly subvert convention."
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2015-01-25
+last_updated: 2026-04-25
 lang: en
 ---
 The representation of gender and feminism in classic literature reveals how women writers and progressive male authors challenged patriarchal assumptions while working within publishing systems dominated by masculine cultural authority. The greatest female protagonists in canonical works achieve their lasting impact not through simple rebellion against social constraints but through sophisticated demonstrations of moral authority, intellectual capability, and individual integrity that expose the arbitrary nature of gender-based restrictions while affirming women's capacity for independent thought and ethical action.

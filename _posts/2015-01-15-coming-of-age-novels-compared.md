@@ -5,11 +5,11 @@ page_title: "The Greatest Coming of Age Novels Compared - Scout, Pip, Holden, an
 date: 2015-01-15
 categories: ["Leisure"]
 tags: ["coming-of-age", "literary-comparison", "scout-finch", "pip", "holden-caulfield", "classic-literature"]
-excerpt: "The greatest coming of age novels compared - innocence, experience, and the painful passage to adulthood."
+excerpt: "Decode the coming of age novel as a genre with shared structural beats across classics that span two centuries."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2015-01-15
+last_updated: 2026-04-25
 lang: en
 ---
 The coming of age novel captures the universal human experience of losing innocence, but the greatest examples reveal that this passage takes fundamentally different forms depending on historical context, cultural conditions, and individual psychology. Scout Finch in To Kill a Mockingbird, Pip in Great Expectations, and Holden Caulfield in The Catcher in the Rye each undergo profound transformation from childhood innocence to adult understanding, yet their journeys illuminate distinct models of how young people encounter the complexities and cruelties that define mature experience.

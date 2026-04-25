@@ -1,9 +1,9 @@
 {
-  "generated": "2026-04-25T20:04:21Z",
+  "generated": "2026-04-25T21:28:02Z",
   "threshold": 50,
-  "totalPosts": 1601,
-  "flaggedPosts": 1275,
-  "suppressedPosts": 8,
+  "totalPosts": 1602,
+  "flaggedPosts": 1272,
+  "suppressedPosts": 12,
   "stalePosts": 0,
   "worstWord": "available",
   "worstCount": 1711,
@@ -14693,10 +14693,13 @@
       "wordCount": 10940,
       "topWord": "geography",
       "topCount": 359,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "\\\"geography\\\" appears in the title - it is the article topic",
+      "suppressSnapshot": {
+        "word": "geography",
+        "count": 359
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-05-upsc-geography-optional-paper-2.md",
       "flaggedWords": [
@@ -15222,10 +15225,13 @@
       "wordCount": 9796,
       "topWord": "mistake",
       "topCount": 395,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "\\\"mistake\\\" appears in the title - it is the article topic",
+      "suppressSnapshot": {
+        "word": "mistake",
+        "count": 395
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-06-18-upsc-mains-common-mistakes.md",
       "flaggedWords": [
@@ -19429,10 +19435,13 @@
       "wordCount": 10121,
       "topWord": "security",
       "topCount": 382,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "\\\"security\\\" appears in the title - it is the article topic",
+      "suppressSnapshot": {
+        "word": "security",
+        "count": 382
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2002-09-30-upsc-gs3-internal-security-mains-deep-dive.md",
       "flaggedWords": [
@@ -28405,10 +28414,13 @@
       "wordCount": 7476,
       "topWord": "cut",
       "topCount": 378,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
+      "flagged": false,
+      "suppressed": true,
+      "suppressReason": "\\\"cut\\\" appears in the title - it is the article topic",
+      "suppressSnapshot": {
+        "word": "cut",
+        "count": 378
+      },
       "suppressStale": false,
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2003-06-09-upsc-cut-off-analysis.md",
       "flaggedWords": [
@@ -188480,6 +188492,152 @@
         {
           "word": "moral",
           "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2026-04-25-meta-layoffs-may-2026-8000-jobs-cut-ai-pivot.md",
+      "slug": "meta-layoffs-may-2026-8000-jobs-cut-ai-pivot",
+      "title": "Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 10964,
+      "topWord": "meta",
+      "topCount": 246,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-04-25-meta-layoffs-may-2026-8000-jobs-cut-ai-pivot.md",
+      "flaggedWords": [
+        {
+          "word": "meta",
+          "count": 246
+        },
+        {
+          "word": "ai",
+          "count": 226
+        },
+        {
+          "word": "employees",
+          "count": 103
+        },
+        {
+          "word": "layoffs",
+          "count": 98
+        },
+        {
+          "word": "company",
+          "count": 97
+        },
+        {
+          "word": "technology",
+          "count": 84
+        },
+        {
+          "word": "billion",
+          "count": 70
+        },
+        {
+          "word": "workforce",
+          "count": 59
+        },
+        {
+          "word": "data",
+          "count": 59
+        },
+        {
+          "word": "employment",
+          "count": 53
+        },
+        {
+          "word": "companies",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "meta",
+          "count": 246
+        },
+        {
+          "word": "ai",
+          "count": 226
+        },
+        {
+          "word": "employees",
+          "count": 103
+        },
+        {
+          "word": "layoffs",
+          "count": 98
+        },
+        {
+          "word": "company",
+          "count": 97
+        },
+        {
+          "word": "technology",
+          "count": 84
+        },
+        {
+          "word": "billion",
+          "count": 70
+        },
+        {
+          "word": "workforce",
+          "count": 59
+        },
+        {
+          "word": "data",
+          "count": 59
+        },
+        {
+          "word": "employment",
+          "count": 53
+        },
+        {
+          "word": "companies",
+          "count": 52
+        },
+        {
+          "word": "workers",
+          "count": 49
+        },
+        {
+          "word": "percent",
+          "count": 46
+        },
+        {
+          "word": "human",
+          "count": 42
+        },
+        {
+          "word": "revenue",
+          "count": 35
+        },
+        {
+          "word": "employee",
+          "count": 35
+        },
+        {
+          "word": "industry",
+          "count": 35
+        },
+        {
+          "word": "approximately",
+          "count": 34
+        },
+        {
+          "word": "job",
+          "count": 34
+        },
+        {
+          "word": "positions",
+          "count": 32
         }
       ]
     },

@@ -5,11 +5,11 @@ page_title: "Kurtz in Heart of Darkness - The Brilliant Man Who Became a Monster
 date: 2014-12-21
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "kurtz", "character-analysis", "literary-analysis", "colonialism"]
-excerpt: "Deep analysis of Kurtz - his brilliance, descent into horror, final words, and meaning as colonial critique."
+excerpt: "Decode Kurtz in Heart of Darkness as Conrad's case study in what unchecked power does to a single mind."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2014-12-21
+last_updated: 2026-04-25
 lang: en
 ---
 Kurtz represents the central paradox of Conrad's colonial critique: he embodies both the highest ideals of European civilization and the most extreme expression of what that civilization becomes when stripped of its restraints. He is simultaneously the man who wrote the eloquent justification for the "civilizing mission" and the one who scrawled "Exterminate all the brutes!" at its conclusion. This contradiction is not accidental but deliberate - Kurtz serves as Conrad's argument that colonial brutality is not an aberration of civilized values but their logical conclusion when power operates without accountability.

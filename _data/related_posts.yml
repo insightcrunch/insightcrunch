@@ -16733,12 +16733,6 @@ why-is-meta-not-hiring:
   category: industry
   image: /assets/images/blog/blog-86.webp
   lang: en
-- slug: is-meta-a-good-place-to-work
-  title: Is Meta a good place to work?
-  url: /2014/08/13/is-meta-a-good-place-to-work/
-  category: industry
-  image: /assets/images/blog/blog-28.webp
-  lang: en
 themes-revenge-love-wuthering-heights:
 - slug: complete-analysis-wuthering-heights
   title: Complete Analysis of Wuthering Heights
@@ -17069,12 +17063,6 @@ meta-layoffs-2022:
   url: /2022/12/24/meta-layoffs-and-hiring-freeze/
   category: industry
   image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: is-meta-going-to-have-layoffs
-  title: Is Meta going to have layoffs?
-  url: /2015/08/20/is-meta-going-to-have-layoffs/
-  category: industry
-  image: /assets/images/blog/blog-67.webp
   lang: en
 complete-analysis-fahrenheit-451:
 - slug: censorship-themes-fahrenheit-451
@@ -29769,6 +29757,12 @@ meta-layoffs-and-hiring-freeze:
   category: industry
   image: /assets/images/blog/blog-63.webp
   lang: en
+- slug: meta-layoffs-may-2026-8000-jobs-cut-ai-pivot
+  title: 'Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot'
+  url: /2026/04/25/meta-layoffs-may-2026-8000-jobs-cut-ai-pivot/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 tableau-certified-data-analyst-salary:
 - slug: tableau-certified-data-analyst-prep
   title: Tableau Certified Data Analyst Prep
@@ -40372,6 +40366,31 @@ aditya-dhar-filmmaking-style-analysis:
   url: /2026/04/14/themes-symbolism-dhurandhar-duology/
   category: leisure
   image: /assets/images/blog/blog-52.webp
+  lang: en
+meta-layoffs-may-2026-8000-jobs-cut-ai-pivot:
+- slug: meta-layoffs-and-hiring-freeze
+  title: Meta Layoffs and Hiring Freeze
+  url: /2022/12/24/meta-layoffs-and-hiring-freeze/
+  category: industry
+  image: /assets/images/blog/blog-86.webp
+  lang: en
+- slug: meta-layoffs-2022
+  title: Meta Layoffs 2022
+  url: /2014/11/14/meta-layoffs-2022/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: is-meta-going-to-have-layoffs
+  title: Is Meta going to have layoffs?
+  url: /2015/08/20/is-meta-going-to-have-layoffs/
+  category: industry
+  image: /assets/images/blog/blog-67.webp
+  lang: en
+- slug: is-meta-a-good-place-to-work
+  title: Is Meta a good place to work?
+  url: /2014/08/13/is-meta-a-good-place-to-work/
+  category: industry
+  image: /assets/images/blog/blog-28.webp
   lang: en
 real-events-inspired-dhurandhar:
 - slug: operation-dhurandhar-explained

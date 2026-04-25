@@ -5,11 +5,11 @@ page_title: "Power and Corruption in Classic Literature - Animal Farm, 1984, Lor
 date: 2015-02-14
 categories: ["Leisure"]
 tags: ["power", "corruption", "literary-comparison", "classic-literature", "animal-farm", "1984", "literary-analysis"]
-excerpt: "How classic novels expose power and corruption - from Napoleon the pig to Big Brother to Jack Merridew."
+excerpt: "Decode power and corruption as the recurring obsession of classic literature, across genres and centuries."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2015-02-14
+last_updated: 2026-04-25
 lang: en
 ---
 The most formally significant available argument that classic literature makes about power and corruption is not the argument that power corrupts, though that argument is most urgently and most completely available in every major novel that engages with the theme. The most formally significant available argument is more precisely organized than that: it is the argument about the specific available mechanisms through which power most completely corrupts the most urgently available most genuinely good intentions, the most completely available most sincere available ideology, and the most urgently available most specifically organized most legitimate available grievance into the most completely available most instruments of the most dramatically available most systematic oppression. Napoleon in Animal Farm does not begin as a tyrant any more than the revolution begins as a lie. Jack Merridew in Lord of the Flies does not begin as a savage any more than the choir begins as a hunting party. O'Brien in 1984 does not begin as a torturer any more than the Party begins as a liberating force. Kurtz in Heart of Darkness does not begin as a monster any more than the civilizing mission begins as a genocide. Each most urgently available most specifically organized most transformation is the most completely available most formally precise argument about a specific available mechanism through which the most genuinely available most urgently organized most good intentions are converted into the most dramatically available most systematically organized most oppression, and the most urgently available most comparison across the four most completely available most primary transformations illuminates the most genuinely available most full range of the most dramatically available most specific mechanisms through which power most completely corrupts in the most urgently available most classic literary tradition.

@@ -5,11 +5,11 @@ page_title: "Marlow in Heart of Darkness - The Reluctant Witness, Unreliable Nar
 date: 2014-12-26
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "marlow", "character-analysis", "literary-analysis", "colonialism"]
-excerpt: "Marlow is Conrad's most complex narrator - witness to colonial horror yet unable to speak its full truth."
+excerpt: "Decode Marlow in Heart of Darkness as a narrator whose distance from Kurtz keeps shrinking until the final pages."
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2014-12-26
+last_updated: 2026-04-25
 lang: en
 ---
 Charles Marlow stands as one of literature's most psychologically complex narrators, embodying the fundamental contradictions of colonial witness and imperial complicity. He travels to the Congo as a steamboat captain and returns with a story that simultaneously exposes and conceals the horror of European colonialism. His narrative reveals the systematic brutality of the ivory trade while concluding with a lie that perpetuates the very illusions his journey has supposedly destroyed.

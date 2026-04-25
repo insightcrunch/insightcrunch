@@ -5,11 +5,11 @@ page_title: "Social Class in Classic Literature - How Austen, Dickens, Fitzgeral
 date: 2015-01-20
 categories: ["Leisure"]
 tags: ["social-class", "literary-comparison", "classic-literature", "jane-austen", "charles-dickens", "literary-analysis"]
-excerpt: "How classic novels expose social class - wealth, poverty, mobility, and the systems that keep people in place."
+excerpt: "Decode social class in classic literature as a structural force more powerful than any individual character's will."
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2015-01-20
+last_updated: 2026-04-25
 lang: en
 ---
 The greatest novels examining social class achieve their power not through simple moral condemnation of inequality but through precise dissection of the mechanisms that perpetuate class divisions across generations. Jane Austen's marriage markets, Charles Dickens' self-deluding aspirants, F. Scott Fitzgerald's impermeable elite circles, and John Steinbeck's economic determinism reveal how different historical periods develop distinct but related systems for maintaining social hierarchy despite democratic ideals and meritocratic mythology.
