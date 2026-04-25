@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title: "Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot"
+page_title: "Meta Layoffs May 2026: 8,000 Jobs Cut on May 20 as Zuckerberg Bets $135 Billion on AI, Fires Humans, and Tracks Employee Keystrokes to Train Their Replacements"
 date: "2026-04-25"
 categories: ["Industry"]
 tags: ["Meta"]
