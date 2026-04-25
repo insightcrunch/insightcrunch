@@ -5,10 +5,9 @@ page_title: "Meta Layoffs May 2026: 8,000 Jobs Cut on May 20 as Zuckerberg Bets 
 date: "2026-04-25"
 categories: ["Industry"]
 tags: ["Meta"]
-excerpt: "Meta confirmed 8,000 layoffs starting May 20, 2026, as it redirects billions toward AI infrastructure. Full breakdown of affected teams and more."
+excerpt: "Meta confirmed 8,000 layoffs starting May 20, 2026, as it redirects billions toward AI infrastructure. Full breakdown of affected teams and much more."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 84
-draft_id: "4nwobd"
 ---
 ## The May 20 Announcement That Changed Everything
 
