@@ -14998,17 +14998,17 @@ complete-analysis-1984-george-orwell:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: brave-new-world-vs-1984-compared
+  title: Brave New World vs 1984 Compared
+  url: /2014/07/19/brave-new-world-vs-1984-compared/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 - slug: obrien-character-analysis-1984
   title: O'Brien Character Analysis in 1984
   url: /2013/12/31/obrien-character-analysis-1984/
   category: leisure
   image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
   lang: en
 - slug: julia-character-analysis-1984-orwell
   title: Julia Character Analysis in 1984
@@ -15016,11 +15016,11 @@ complete-analysis-1984-george-orwell:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: big-brother-party-analysis-1984
-  title: Big Brother and the Party in 1984 Analyzed
-  url: /2013/12/16/big-brother-party-analysis-1984/
+- slug: 1984-chapter-summary-analysis-guide
+  title: 1984 Chapter by Chapter Summary and Analysis
+  url: /2013/12/26/1984-chapter-summary-analysis-guide/
   category: leisure
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-44.webp
   lang: en
 winston-smith-character-analysis-1984:
 - slug: julia-character-analysis-1984-orwell
@@ -15035,25 +15035,19 @@ winston-smith-character-analysis-1984:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 - slug: complete-analysis-1984-george-orwell
   title: Complete Analysis of 1984 by George Orwell
   url: /2013/12/06/complete-analysis-1984-george-orwell/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: boxer-character-analysis-animal-farm
+  title: Boxer Character Analysis in Animal Farm
+  url: /2014/06/09/boxer-character-analysis-animal-farm/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
   lang: en
 big-brother-party-analysis-1984:
-- slug: complete-analysis-1984-george-orwell
-  title: Complete Analysis of 1984 by George Orwell
-  url: /2013/12/06/complete-analysis-1984-george-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: julia-character-analysis-1984-orwell
   title: Julia Character Analysis in 1984
   url: /2014/01/05/julia-character-analysis-1984-orwell/
@@ -15066,11 +15060,17 @@ big-brother-party-analysis-1984:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
+- slug: winston-smith-character-analysis-1984
+  title: Winston Smith Character Analysis in 1984
+  url: /2013/12/11/winston-smith-character-analysis-1984/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: complete-analysis-1984-george-orwell
+  title: Complete Analysis of 1984 by George Orwell
+  url: /2013/12/06/complete-analysis-1984-george-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 how-long-is-hiring-process-for-meta:
 - slug: is-it-hard-to-get-hired-at-meta
@@ -15110,30 +15110,24 @@ themes-symbolism-1984-orwell:
   category: leisure
   image: /assets/images/blog/blog-14.webp
   lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
+- slug: obrien-character-analysis-1984
+  title: O'Brien Character Analysis in 1984
+  url: /2013/12/31/obrien-character-analysis-1984/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: themes-symbolism-lord-of-the-flies
-  title: Themes and Symbolism in Lord of the Flies
-  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
-  lang: en
-1984-chapter-summary-analysis-guide:
 - slug: julia-character-analysis-1984-orwell
   title: Julia Character Analysis in 1984
   url: /2014/01/05/julia-character-analysis-1984-orwell/
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: winston-smith-character-analysis-1984
-  title: Winston Smith Character Analysis in 1984
-  url: /2013/12/11/winston-smith-character-analysis-1984/
+1984-chapter-summary-analysis-guide:
+- slug: complete-analysis-1984-george-orwell
+  title: Complete Analysis of 1984 by George Orwell
+  url: /2013/12/06/complete-analysis-1984-george-orwell/
   category: leisure
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-56.webp
   lang: en
 - slug: obrien-character-analysis-1984
   title: O'Brien Character Analysis in 1984
@@ -15141,11 +15135,17 @@ themes-symbolism-1984-orwell:
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: complete-analysis-1984-george-orwell
-  title: Complete Analysis of 1984 by George Orwell
-  url: /2013/12/06/complete-analysis-1984-george-orwell/
+- slug: winston-smith-character-analysis-1984
+  title: Winston Smith Character Analysis in 1984
+  url: /2013/12/11/winston-smith-character-analysis-1984/
   category: leisure
-  image: /assets/images/blog/blog-56.webp
+  image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: julia-character-analysis-1984-orwell
+  title: Julia Character Analysis in 1984
+  url: /2014/01/05/julia-character-analysis-1984-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
   lang: en
 obrien-character-analysis-1984:
 - slug: julia-character-analysis-1984-orwell
@@ -15166,11 +15166,11 @@ obrien-character-analysis-1984:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
+- slug: boxer-character-analysis-animal-farm
+  title: Boxer Character Analysis in Animal Farm
+  url: /2014/06/09/boxer-character-analysis-animal-farm/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 julia-character-analysis-1984-orwell:
 - slug: obrien-character-analysis-1984
@@ -15185,17 +15185,23 @@ julia-character-analysis-1984-orwell:
   category: leisure
   image: /assets/images/blog/blog-55.webp
   lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 - slug: complete-analysis-1984-george-orwell
   title: Complete Analysis of 1984 by George Orwell
   url: /2013/12/06/complete-analysis-1984-george-orwell/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: boxer-character-analysis-animal-farm
+  title: Boxer Character Analysis in Animal Farm
+  url: /2014/06/09/boxer-character-analysis-animal-farm/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: big-brother-party-analysis-1984
+  title: Big Brother and the Party in 1984 Analyzed
+  url: /2013/12/16/big-brother-party-analysis-1984/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
   lang: en
 complete-analysis-great-gatsby:
 - slug: american-dream-great-gatsby-analysis
@@ -15216,11 +15222,11 @@ complete-analysis-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: daisy-buchanan-character-analysis
-  title: Daisy Buchanan Character Analysis
-  url: /2014/01/25/daisy-buchanan-character-analysis/
+- slug: nick-carraway-character-analysis
+  title: Nick Carraway Character Analysis
+  url: /2014/01/20/nick-carraway-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-87.webp
   lang: en
 jay-gatsby-character-analysis:
 - slug: tom-buchanan-character-analysis
@@ -15229,17 +15235,17 @@ jay-gatsby-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: daisy-buchanan-character-analysis
-  title: Daisy Buchanan Character Analysis
-  url: /2014/01/25/daisy-buchanan-character-analysis/
+- slug: themes-symbolism-great-gatsby
+  title: Themes and Symbolism in The Great Gatsby
+  url: /2014/01/30/themes-symbolism-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-89.webp
   lang: en
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
+- slug: american-dream-great-gatsby-analysis
+  title: The American Dream in The Great Gatsby
+  url: /2014/02/04/american-dream-great-gatsby-analysis/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-16.webp
   lang: en
 - slug: nick-carraway-character-analysis
   title: Nick Carraway Character Analysis
@@ -15247,18 +15253,12 @@ jay-gatsby-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-87.webp
   lang: en
-- slug: feluda-complete-guide
-  title: The Complete Guide to Feluda
-  url: /2017/01/01/feluda-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-31.webp
-  lang: en
 nick-carraway-character-analysis:
-- slug: tom-buchanan-character-analysis
-  title: Tom Buchanan Character Analysis
-  url: /2014/02/09/tom-buchanan-character-analysis/
+- slug: daisy-buchanan-character-analysis
+  title: Daisy Buchanan Character Analysis
+  url: /2014/01/25/daisy-buchanan-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-02.webp
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: jay-gatsby-character-analysis
   title: Jay Gatsby Character Analysis
@@ -15266,23 +15266,17 @@ nick-carraway-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: daisy-buchanan-character-analysis
-  title: Daisy Buchanan Character Analysis
-  url: /2014/01/25/daisy-buchanan-character-analysis/
+- slug: tom-buchanan-character-analysis
+  title: Tom Buchanan Character Analysis
+  url: /2014/02/09/tom-buchanan-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: holden-caulfield-character-analysis
-  title: Holden Caulfield Character Analysis
-  url: /2014/07/29/holden-caulfield-character-analysis/
+- slug: complete-analysis-great-gatsby
+  title: Complete Analysis of The Great Gatsby
+  url: /2014/01/10/complete-analysis-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-34.webp
-  lang: en
-- slug: unreliable-narrators-classic-fiction
-  title: Unreliable Narrators in Classic Fiction
-  url: /2015/02/04/unreliable-narrators-classic-fiction/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 meta-interview-experience:
 - slug: what-is-the-meta-interview-process
@@ -15316,17 +15310,17 @@ daisy-buchanan-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: jay-gatsby-character-analysis
-  title: Jay Gatsby Character Analysis
-  url: /2014/01/15/jay-gatsby-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: nick-carraway-character-analysis
   title: Nick Carraway Character Analysis
   url: /2014/01/20/nick-carraway-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: jay-gatsby-character-analysis
+  title: Jay Gatsby Character Analysis
+  url: /2014/01/15/jay-gatsby-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
   lang: en
 - slug: complete-analysis-great-gatsby
   title: Complete Analysis of The Great Gatsby
@@ -15335,12 +15329,6 @@ daisy-buchanan-character-analysis:
   image: /assets/images/blog/blog-29.webp
   lang: en
 themes-symbolism-great-gatsby:
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: american-dream-great-gatsby-analysis
   title: The American Dream in The Great Gatsby
   url: /2014/02/04/american-dream-great-gatsby-analysis/
@@ -15359,12 +15347,49 @@ themes-symbolism-great-gatsby:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: tom-buchanan-character-analysis
+  title: Tom Buchanan Character Analysis
+  url: /2014/02/09/tom-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
 american-dream-great-gatsby-analysis:
+- slug: themes-symbolism-great-gatsby
+  title: Themes and Symbolism in The Great Gatsby
+  url: /2014/01/30/themes-symbolism-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
+  lang: en
+- slug: jay-gatsby-character-analysis
+  title: Jay Gatsby Character Analysis
+  url: /2014/01/15/jay-gatsby-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
 - slug: complete-analysis-great-gatsby
   title: Complete Analysis of The Great Gatsby
   url: /2014/01/10/complete-analysis-great-gatsby/
   category: leisure
   image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: tom-buchanan-character-analysis
+  title: Tom Buchanan Character Analysis
+  url: /2014/02/09/tom-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+tom-buchanan-character-analysis:
+- slug: jay-gatsby-character-analysis
+  title: Jay Gatsby Character Analysis
+  url: /2014/01/15/jay-gatsby-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: daisy-buchanan-character-analysis
+  title: Daisy Buchanan Character Analysis
+  url: /2014/01/25/daisy-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: themes-symbolism-great-gatsby
   title: Themes and Symbolism in The Great Gatsby
@@ -15372,42 +15397,11 @@ american-dream-great-gatsby-analysis:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
-- slug: american-dream-classic-literature
-  title: The American Dream in Classic Literature
-  url: /2015/03/16/american-dream-classic-literature/
+- slug: american-dream-great-gatsby-analysis
+  title: The American Dream in The Great Gatsby
+  url: /2014/02/04/american-dream-great-gatsby-analysis/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: jay-gatsby-character-analysis
-  title: Jay Gatsby Character Analysis
-  url: /2014/01/15/jay-gatsby-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
-tom-buchanan-character-analysis:
-- slug: daisy-buchanan-character-analysis
-  title: Daisy Buchanan Character Analysis
-  url: /2014/01/25/daisy-buchanan-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
-  lang: en
-- slug: jay-gatsby-character-analysis
-  title: Jay Gatsby Character Analysis
-  url: /2014/01/15/jay-gatsby-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: nick-carraway-character-analysis
-  title: Nick Carraway Character Analysis
-  url: /2014/01/20/nick-carraway-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-87.webp
-  lang: en
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-16.webp
   lang: en
 complete-analysis-to-kill-a-mockingbird:
 - slug: racial-injustice-to-kill-a-mockingbird
@@ -15422,17 +15416,17 @@ complete-analysis-to-kill-a-mockingbird:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: tom-robinson-character-analysis
-  title: Tom Robinson Character Analysis
-  url: /2014/03/11/tom-robinson-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-14.webp
-  lang: en
 - slug: atticus-finch-character-analysis
   title: Atticus Finch Character Analysis
   url: /2014/02/19/atticus-finch-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: coming-of-age-to-kill-a-mockingbird
+  title: Coming of Age in To Kill a Mockingbird
+  url: /2014/03/16/coming-of-age-to-kill-a-mockingbird/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
   lang: en
 atticus-finch-character-analysis:
 - slug: boo-radley-character-analysis
@@ -15535,23 +15529,23 @@ boo-radley-character-analysis:
   image: /assets/images/blog/blog-71.webp
   lang: en
 racial-injustice-to-kill-a-mockingbird:
-- slug: complete-analysis-to-kill-a-mockingbird
-  title: Complete Analysis of To Kill a Mockingbird
-  url: /2014/02/14/complete-analysis-to-kill-a-mockingbird/
-  category: leisure
-  image: /assets/images/blog/blog-71.webp
-  lang: en
 - slug: tom-robinson-character-analysis
   title: Tom Robinson Character Analysis
   url: /2014/03/11/tom-robinson-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-14.webp
   lang: en
-- slug: atticus-finch-character-analysis
-  title: Atticus Finch Character Analysis
-  url: /2014/02/19/atticus-finch-character-analysis/
+- slug: complete-analysis-to-kill-a-mockingbird
+  title: Complete Analysis of To Kill a Mockingbird
+  url: /2014/02/14/complete-analysis-to-kill-a-mockingbird/
   category: leisure
-  image: /assets/images/blog/blog-09.webp
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: coming-of-age-to-kill-a-mockingbird
+  title: Coming of Age in To Kill a Mockingbird
+  url: /2014/03/16/coming-of-age-to-kill-a-mockingbird/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
   lang: en
 - slug: boo-radley-character-analysis
   title: Boo Radley Character Analysis
@@ -15591,17 +15585,17 @@ tom-robinson-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: scout-finch-character-analysis
-  title: Scout Finch Character Analysis
-  url: /2014/02/24/scout-finch-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-51.webp
-  lang: en
 - slug: boo-radley-character-analysis
   title: Boo Radley Character Analysis
   url: /2014/03/01/boo-radley-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: scout-finch-character-analysis
+  title: Scout Finch Character Analysis
+  url: /2014/02/24/scout-finch-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
   lang: en
 - slug: atticus-finch-character-analysis
   title: Atticus Finch Character Analysis
@@ -15616,23 +15610,23 @@ coming-of-age-to-kill-a-mockingbird:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
-- slug: complete-analysis-to-kill-a-mockingbird
-  title: Complete Analysis of To Kill a Mockingbird
-  url: /2014/02/14/complete-analysis-to-kill-a-mockingbird/
-  category: leisure
-  image: /assets/images/blog/blog-71.webp
-  lang: en
 - slug: racial-injustice-to-kill-a-mockingbird
   title: Racial Injustice in To Kill a Mockingbird
   url: /2014/03/06/racial-injustice-to-kill-a-mockingbird/
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: boo-radley-character-analysis
-  title: Boo Radley Character Analysis
-  url: /2014/03/01/boo-radley-character-analysis/
+- slug: complete-analysis-to-kill-a-mockingbird
+  title: Complete Analysis of To Kill a Mockingbird
+  url: /2014/02/14/complete-analysis-to-kill-a-mockingbird/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: tom-robinson-character-analysis
+  title: Tom Robinson Character Analysis
+  url: /2014/03/11/tom-robinson-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-14.webp
   lang: en
 - slug: coming-of-age-novels-compared
   title: Greatest Coming of Age Novels Compared
@@ -16415,17 +16409,23 @@ holden-caulfield-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: nick-carraway-character-analysis
-  title: Nick Carraway Character Analysis
-  url: /2014/01/20/nick-carraway-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-87.webp
-  lang: en
 - slug: themes-alienation-catcher-in-the-rye
   title: Alienation in The Catcher in the Rye
   url: /2014/08/03/themes-alienation-catcher-in-the-rye/
   category: leisure
   image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: symbolism-catcher-in-the-rye
+  title: Symbolism in The Catcher in the Rye
+  url: /2014/08/08/symbolism-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: unreliable-narrators-classic-fiction
+  title: Unreliable Narrators in Classic Fiction
+  url: /2015/02/04/unreliable-narrators-classic-fiction/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
   lang: en
 themes-alienation-catcher-in-the-rye:
 - slug: complete-analysis-catcher-in-the-rye
@@ -16702,11 +16702,11 @@ catherine-earnshaw-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
-- slug: julia-character-analysis-1984-orwell
-  title: Julia Character Analysis in 1984
-  url: /2014/01/05/julia-character-analysis-1984-orwell/
+- slug: mrs-bennet-character-analysis
+  title: Mrs. Bennet Character Analysis
+  url: /2014/04/10/mrs-bennet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-19.webp
+  image: /assets/images/blog/blog-88.webp
   lang: en
 why-is-meta-not-hiring:
 - slug: is-meta-on-hiring-freeze
@@ -16777,17 +16777,17 @@ complete-analysis-great-expectations:
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: complete-analysis-of-mice-and-men
   title: Complete Analysis of Of Mice and Men
   url: /2014/11/01/complete-analysis-of-mice-and-men/
   category: leisure
   image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: miss-havisham-character-analysis
+  title: Miss Havisham Character Analysis
+  url: /2014/10/07/miss-havisham-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-38.webp
   lang: en
 pip-character-analysis-dickens:
 - slug: complete-analysis-great-expectations
@@ -16802,17 +16802,17 @@ pip-character-analysis-dickens:
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
-- slug: scout-finch-character-analysis
-  title: Scout Finch Character Analysis
-  url: /2014/02/24/scout-finch-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-51.webp
-  lang: en
 - slug: victor-frankenstein-character-analysis
   title: Victor Frankenstein Character Analysis
   url: /2014/08/23/victor-frankenstein-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: holden-caulfield-character-analysis
+  title: Holden Caulfield Character Analysis
+  url: /2014/07/29/holden-caulfield-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
   lang: en
 miss-havisham-character-analysis:
 - slug: pip-character-analysis-dickens
@@ -16971,12 +16971,6 @@ complete-analysis-of-mice-and-men:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: american-dream-classic-literature
   title: The American Dream in Classic Literature
   url: /2015/03/16/american-dream-classic-literature/
@@ -16988,6 +16982,12 @@ complete-analysis-of-mice-and-men:
   url: /2014/09/07/complete-analysis-wuthering-heights/
   category: leisure
   image: /assets/images/blog/blog-04.webp
+  lang: en
+- slug: complete-analysis-great-expectations
+  title: Complete Analysis of Great Expectations
+  url: /2014/09/27/complete-analysis-great-expectations/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: george-lennie-character-analysis
   title: George and Lennie Character Analysis
@@ -17027,11 +17027,11 @@ loneliness-of-mice-and-men-themes:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
-- slug: themes-symbolism-1984-orwell
-  title: Themes and Symbolism in 1984 Explained
-  url: /2013/12/21/themes-symbolism-1984-orwell/
+- slug: themes-symbolism-lord-of-the-flies
+  title: Themes and Symbolism in Lord of the Flies
+  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
   category: leisure
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 - slug: themes-symbolism-great-gatsby
   title: Themes and Symbolism in The Great Gatsby
@@ -17039,11 +17039,11 @@ loneliness-of-mice-and-men-themes:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
-- slug: themes-symbolism-lord-of-the-flies
-  title: Themes and Symbolism in Lord of the Flies
-  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
+- slug: themes-symbolism-1984-orwell
+  title: Themes and Symbolism in 1984 Explained
+  url: /2013/12/21/themes-symbolism-1984-orwell/
   category: leisure
-  image: /assets/images/blog/blog-83.webp
+  image: /assets/images/blog/blog-86.webp
   lang: en
 meta-layoffs-2022:
 - slug: meta-hiring-2022
@@ -17114,17 +17114,17 @@ guy-montag-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: julia-character-analysis-1984-orwell
-  title: Julia Character Analysis in 1984
-  url: /2014/01/05/julia-character-analysis-1984-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
 - slug: victor-frankenstein-character-analysis
   title: Victor Frankenstein Character Analysis
   url: /2014/08/23/victor-frankenstein-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: wickham-character-analysis-austen
+  title: Mr. Wickham Character Analysis
+  url: /2014/04/15/wickham-character-analysis-austen/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 censorship-themes-fahrenheit-451:
 - slug: complete-analysis-fahrenheit-451
@@ -17145,11 +17145,11 @@ censorship-themes-fahrenheit-451:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: 1984-vs-brave-new-world-vs-fahrenheit
-  title: 1984 vs Brave New World vs Fahrenheit 451
-  url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
+- slug: themes-symbolism-1984-orwell
+  title: Themes and Symbolism in 1984 Explained
+  url: /2013/12/21/themes-symbolism-1984-orwell/
   category: leisure
-  image: /assets/images/blog/blog-15.webp
+  image: /assets/images/blog/blog-86.webp
   lang: en
 complete-analysis-scarlet-letter:
 - slug: sin-society-scarlet-letter-themes
@@ -17170,11 +17170,11 @@ complete-analysis-scarlet-letter:
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
+- slug: complete-analysis-jane-eyre-bronte
+  title: Complete Analysis of Jane Eyre
+  url: /2014/10/12/complete-analysis-jane-eyre-bronte/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
 hester-prynne-character-analysis:
 - slug: complete-analysis-scarlet-letter
@@ -17214,17 +17214,17 @@ sin-society-scarlet-letter-themes:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: themes-symbolism-great-gatsby
-  title: Themes and Symbolism in The Great Gatsby
-  url: /2014/01/30/themes-symbolism-great-gatsby/
-  category: leisure
-  image: /assets/images/blog/blog-89.webp
-  lang: en
 - slug: loneliness-of-mice-and-men-themes
   title: Loneliness in Of Mice and Men Explained
   url: /2014/11/11/loneliness-of-mice-and-men-themes/
   category: leisure
   image: /assets/images/blog/blog-06.webp
+  lang: en
+- slug: themes-symbolism-great-gatsby
+  title: Themes and Symbolism in The Great Gatsby
+  url: /2014/01/30/themes-symbolism-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
   lang: en
 complete-analysis-heart-of-darkness:
 - slug: marlow-character-analysis-conrad
@@ -17370,17 +17370,17 @@ colonialism-racism-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: science-morality-classic-fiction
-  title: Science and Morality in Classic Fiction
-  url: /2015/03/11/science-morality-classic-fiction/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
 - slug: complete-analysis-1984-george-orwell
   title: Complete Analysis of 1984 by George Orwell
   url: /2013/12/06/complete-analysis-1984-george-orwell/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: science-morality-classic-fiction
+  title: Science and Morality in Classic Fiction
+  url: /2015/03/11/science-morality-classic-fiction/
+  category: leisure
+  image: /assets/images/blog/blog-13.webp
   lang: en
 greatest-literary-villains-compared:
 - slug: fate-vs-free-will-classic-literature
@@ -17533,12 +17533,6 @@ nature-vs-nurture-classic-novels:
   image: /assets/images/blog/blog-42.webp
   lang: en
 unreliable-narrators-classic-fiction:
-- slug: nick-carraway-character-analysis
-  title: Nick Carraway Character Analysis
-  url: /2014/01/20/nick-carraway-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-87.webp
-  lang: en
 - slug: holden-caulfield-character-analysis
   title: Holden Caulfield Character Analysis
   url: /2014/07/29/holden-caulfield-character-analysis/
@@ -17556,6 +17550,12 @@ unreliable-narrators-classic-fiction:
   url: /2015/03/26/madness-sanity-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: nature-vs-nurture-classic-novels
+  title: Nature vs Nurture in Classic Fiction
+  url: /2015/01/30/nature-vs-nurture-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
   lang: en
 isolation-loneliness-classic-novels:
 - slug: gothic-elements-classic-novels
@@ -17758,17 +17758,17 @@ science-morality-classic-fiction:
   image: /assets/images/blog/blog-15.webp
   lang: en
 american-dream-classic-literature:
-- slug: american-dream-great-gatsby-analysis
-  title: The American Dream in The Great Gatsby
-  url: /2014/02/04/american-dream-great-gatsby-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
-  lang: en
 - slug: fate-vs-free-will-classic-literature
   title: Fate vs Free Will in Classic Literature
   url: /2015/04/05/fate-vs-free-will-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: american-dream-great-gatsby-analysis
+  title: The American Dream in The Great Gatsby
+  url: /2014/02/04/american-dream-great-gatsby-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
   lang: en
 - slug: power-corruption-classic-literature
   title: Power and Corruption in Classic Literature
@@ -17889,12 +17889,6 @@ top-25-classic-novels-must-read-list:
   category: leisure
   image: /assets/images/blog/blog-16.webp
   lang: en
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 - slug: race-justice-american-novels
   title: Race and Justice in Classic American Novels
   url: /2015/03/01/race-justice-american-novels/
@@ -17907,13 +17901,13 @@ top-25-classic-novels-must-read-list:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-how-to-write-literary-analysis-essay:
-- slug: 1984-chapter-summary-analysis-guide
-  title: 1984 Chapter by Chapter Summary and Analysis
-  url: /2013/12/26/1984-chapter-summary-analysis-guide/
+- slug: love-obsession-classic-novels
+  title: Love and Obsession in Classic Novels
+  url: /2015/02/19/love-obsession-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-20.webp
   lang: en
+how-to-write-literary-analysis-essay:
 - slug: top-25-classic-novels-must-read-list
   title: Top 25 Classic Novels Every Student Must Read
   url: /2015/04/10/top-25-classic-novels-must-read-list/
@@ -17931,6 +17925,12 @@ how-to-write-literary-analysis-essay:
   url: /2014/03/26/elizabeth-bennet-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: catherine-earnshaw-character-analysis
+  title: Catherine Earnshaw Character Analysis
+  url: /2014/09/17/catherine-earnshaw-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
   lang: en
 rise-and-fall-roman-empire-explained:
 - slug: fall-of-roman-empire-causes
@@ -21998,12 +21998,6 @@ feluda-complete-guide-bn:
   image: /assets/images/blog/blog-71.webp
   lang: bn
 feluda-complete-guide:
-- slug: jay-gatsby-character-analysis
-  title: Jay Gatsby Character Analysis
-  url: /2014/01/15/jay-gatsby-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 - slug: best-bollywood-gangster-films-complete-guide
   title: Best Bollywood Gangster Films Guide
   url: /2026/02/20/best-bollywood-gangster-films-complete-guide/
@@ -22021,6 +22015,12 @@ feluda-complete-guide:
   url: /2013/08/05/wand-lore-identity-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: jay-gatsby-character-analysis
+  title: Jay Gatsby Character Analysis
+  url: /2014/01/15/jay-gatsby-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
   lang: en
 drm-data-loading-automation-using-odi:
 - slug: drm-batch-client-refresh-current-and-previous-day-versions
@@ -35839,11 +35839,11 @@ the-alchemist-alternate-endings:
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
-- slug: jay-gatsby-character-analysis
-  title: Jay Gatsby Character Analysis
-  url: /2014/01/15/jay-gatsby-character-analysis/
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-42.webp
   lang: en
 gaokao-classical-chinese-wenyanwen:
 - slug: gaokao-exam-pattern-format
@@ -39329,6 +39329,12 @@ best-bollywood-gangster-films-complete-guide:
   url: /2026/06/20/why-dhurandhar-changed-bollywood-forever/
   category: leisure
   image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: feluda-complete-guide
+  title: The Complete Guide to Feluda
+  url: /2017/01/01/feluda-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 gaokao-registration-process:
 - slug: gaokao-hukou-cross-province

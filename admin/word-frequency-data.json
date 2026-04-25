@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25T07:25:29Z",
+  "generated": "2026-04-25T20:04:21Z",
   "threshold": 50,
   "totalPosts": 1601,
   "flaggedPosts": 1275,
@@ -8,7 +8,7 @@
   "worstWord": "available",
   "worstCount": 1711,
   "worstPost": "Isolation in Classic Novels Compared",
-  "avgTopCount": 223.0,
+  "avgTopCount": 223.4,
   "posts": [
     {
       "filename": "1996-08-07-sat-nursing-health-programs.md",
@@ -61990,9 +61990,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6869,
-      "topWord": "winston",
-      "topCount": 134,
+      "wordCount": 6772,
+      "topWord": "orwell",
+      "topCount": 145,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62001,110 +62001,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-12-06-complete-analysis-1984-george-orwell.md",
       "flaggedWords": [
         {
-          "word": "winston",
-          "count": 134
-        },
-        {
-          "word": "party",
-          "count": 117
+          "word": "orwell",
+          "count": 145
         },
         {
           "word": "novel",
-          "count": 102
+          "count": 145
         },
         {
-          "word": "orwell",
-          "count": 77
+          "word": "winston",
+          "count": 128
         },
         {
-          "word": "political",
-          "count": 66
-        },
-        {
-          "word": "brien",
-          "count": 57
+          "word": "party",
+          "count": 65
         }
       ],
       "top20": [
         {
-          "word": "winston",
-          "count": 134
-        },
-        {
-          "word": "party",
-          "count": 117
+          "word": "orwell",
+          "count": 145
         },
         {
           "word": "novel",
-          "count": 102
+          "count": 145
         },
         {
-          "word": "orwell",
-          "count": 77
+          "word": "winston",
+          "count": 128
+        },
+        {
+          "word": "party",
+          "count": 65
         },
         {
           "word": "political",
-          "count": 66
-        },
-        {
-          "word": "brien",
-          "count": 57
+          "count": 49
         },
         {
           "word": "power",
-          "count": 50
+          "count": 43
         },
         {
-          "word": "self",
-          "count": 32
-        },
-        {
-          "word": "surveillance",
-          "count": 31
-        },
-        {
-          "word": "psychological",
-          "count": 29
-        },
-        {
-          "word": "human",
-          "count": 28
-        },
-        {
-          "word": "julia",
-          "count": 27
-        },
-        {
-          "word": "resistance",
-          "count": 26
-        },
-        {
-          "word": "room",
-          "count": 25
-        },
-        {
-          "word": "historical",
-          "count": 25
-        },
-        {
-          "word": "language",
-          "count": 25
-        },
-        {
-          "word": "individual",
-          "count": 24
-        },
-        {
-          "word": "cannot",
-          "count": 23
-        },
-        {
-          "word": "consciousness",
-          "count": 23
+          "word": "brien",
+          "count": 41
         },
         {
           "word": "argument",
-          "count": 22
+          "count": 33
+        },
+        {
+          "word": "language",
+          "count": 33
+        },
+        {
+          "word": "reading",
+          "count": 32
+        },
+        {
+          "word": "truth",
+          "count": 30
+        },
+        {
+          "word": "war",
+          "count": 29
+        },
+        {
+          "word": "room",
+          "count": 29
+        },
+        {
+          "word": "cannot",
+          "count": 28
+        },
+        {
+          "word": "surveillance",
+          "count": 27
+        },
+        {
+          "word": "love",
+          "count": 25
+        },
+        {
+          "word": "population",
+          "count": 25
+        },
+        {
+          "word": "soviet",
+          "count": 23
+        },
+        {
+          "word": "past",
+          "count": 23
+        },
+        {
+          "word": "ministry",
+          "count": 23
         }
       ]
     },
@@ -62116,9 +62108,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6317,
+      "wordCount": 6982,
       "topWord": "winston",
-      "topCount": 260,
+      "topCount": 244,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62128,97 +62120,105 @@
       "flaggedWords": [
         {
           "word": "winston",
-          "count": 260
+          "count": 244
         },
         {
           "word": "party",
-          "count": 98
+          "count": 144
+        },
+        {
+          "word": "orwell",
+          "count": 129
         },
         {
           "word": "novel",
-          "count": 63
+          "count": 86
+        },
+        {
+          "word": "brien",
+          "count": 52
         }
       ],
       "top20": [
         {
           "word": "winston",
-          "count": 260
+          "count": 244
         },
         {
           "word": "party",
-          "count": 98
-        },
-        {
-          "word": "novel",
-          "count": 63
-        },
-        {
-          "word": "brien",
-          "count": 49
-        },
-        {
-          "word": "political",
-          "count": 45
+          "count": 144
         },
         {
           "word": "orwell",
-          "count": 44
+          "count": 129
+        },
+        {
+          "word": "novel",
+          "count": 86
+        },
+        {
+          "word": "brien",
+          "count": 52
         },
         {
           "word": "julia",
-          "count": 42
+          "count": 45
         },
         {
-          "word": "genuine",
-          "count": 41
+          "word": "room",
+          "count": 34
+        },
+        {
+          "word": "big",
+          "count": 32
+        },
+        {
+          "word": "brother",
+          "count": 32
         },
         {
           "word": "love",
-          "count": 38
+          "count": 31
         },
         {
-          "word": "relationship",
-          "count": 37
-        },
-        {
-          "word": "rebellion",
-          "count": 36
-        },
-        {
-          "word": "specific",
-          "count": 35
-        },
-        {
-          "word": "inner",
-          "count": 32
-        },
-        {
-          "word": "reality",
-          "count": 32
-        },
-        {
-          "word": "cannot",
+          "word": "reading",
           "count": 30
         },
         {
-          "word": "person",
+          "word": "reader",
           "count": 29
         },
         {
-          "word": "resistance",
+          "word": "private",
           "count": 28
         },
         {
-          "word": "defeat",
-          "count": 27
+          "word": "political",
+          "count": 28
         },
         {
-          "word": "individual",
-          "count": 27
-        },
-        {
-          "word": "private",
+          "word": "itself",
           "count": 26
+        },
+        {
+          "word": "act",
+          "count": 25
+        },
+        {
+          "word": "cannot",
+          "count": 25
+        },
+        {
+          "word": "argument",
+          "count": 25
+        },
+        {
+          "word": "experience",
+          "count": 25
+        },
+        {
+          "word": "emotional",
+          "count": 25
         }
       ]
     },
@@ -62230,9 +62230,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6743,
+      "wordCount": 7221,
       "topWord": "party",
-      "topCount": 203,
+      "topCount": 243,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62242,105 +62242,105 @@
       "flaggedWords": [
         {
           "word": "party",
-          "count": 203
-        },
-        {
-          "word": "political",
-          "count": 97
-        },
-        {
-          "word": "power",
-          "count": 67
+          "count": 243
         },
         {
           "word": "orwell",
-          "count": 58
+          "count": 132
         },
         {
           "word": "novel",
-          "count": 54
+          "count": 84
+        },
+        {
+          "word": "winston",
+          "count": 68
+        },
+        {
+          "word": "war",
+          "count": 51
         }
       ],
       "top20": [
         {
           "word": "party",
-          "count": 203
-        },
-        {
-          "word": "political",
-          "count": 97
-        },
-        {
-          "word": "power",
-          "count": 67
+          "count": 243
         },
         {
           "word": "orwell",
-          "count": 58
+          "count": 132
         },
         {
           "word": "novel",
-          "count": 54
-        },
-        {
-          "word": "specific",
-          "count": 46
-        },
-        {
-          "word": "big",
-          "count": 45
-        },
-        {
-          "word": "brother",
-          "count": 45
-        },
-        {
-          "word": "historical",
-          "count": 44
+          "count": 84
         },
         {
           "word": "winston",
+          "count": 68
+        },
+        {
+          "word": "war",
+          "count": 51
+        },
+        {
+          "word": "big",
+          "count": 50
+        },
+        {
+          "word": "brother",
+          "count": 50
+        },
+        {
+          "word": "brien",
+          "count": 49
+        },
+        {
+          "word": "inner",
+          "count": 48
+        },
+        {
+          "word": "regime",
+          "count": 41
+        },
+        {
+          "word": "outer",
           "count": 40
         },
         {
-          "word": "ministry",
-          "count": 35
+          "word": "goldstein",
+          "count": 36
         },
         {
-          "word": "cannot",
-          "count": 34
-        },
-        {
-          "word": "surveillance",
+          "word": "itself",
           "count": 33
         },
         {
-          "word": "management",
+          "word": "class",
+          "count": 33
+        },
+        {
+          "word": "prole",
+          "count": 32
+        },
+        {
+          "word": "political",
           "count": 31
         },
         {
-          "word": "language",
+          "word": "book",
           "count": 31
         },
         {
-          "word": "citizens",
-          "count": 27
+          "word": "proles",
+          "count": 30
         },
         {
-          "word": "control",
+          "word": "power",
+          "count": 28
+        },
+        {
+          "word": "argument",
           "count": 26
-        },
-        {
-          "word": "individual",
-          "count": 25
-        },
-        {
-          "word": "function",
-          "count": 25
-        },
-        {
-          "word": "love",
-          "count": 25
         }
       ]
     },
@@ -62458,9 +62458,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6546,
+      "wordCount": 7230,
       "topWord": "party",
-      "topCount": 146,
+      "topCount": 170,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62470,117 +62470,129 @@
       "flaggedWords": [
         {
           "word": "party",
-          "count": 146
-        },
-        {
-          "word": "political",
-          "count": 95
+          "count": 170
         },
         {
           "word": "winston",
-          "count": 85
+          "count": 108
+        },
+        {
+          "word": "lever",
+          "count": 105
+        },
+        {
+          "word": "orwell",
+          "count": 87
         },
         {
           "word": "novel",
-          "count": 77
+          "count": 68
         },
         {
-          "word": "theme",
-          "count": 66
-        },
-        {
-          "word": "power",
-          "count": 60
+          "word": "memory",
+          "count": 61
         },
         {
           "word": "love",
-          "count": 54
+          "count": 60
         },
         {
-          "word": "resistance",
-          "count": 51
+          "word": "political",
+          "count": 57
+        },
+        {
+          "word": "language",
+          "count": 56
+        },
+        {
+          "word": "private",
+          "count": 56
+        },
+        {
+          "word": "sexual",
+          "count": 52
         }
       ],
       "top20": [
         {
           "word": "party",
-          "count": 146
-        },
-        {
-          "word": "political",
-          "count": 95
+          "count": 170
         },
         {
           "word": "winston",
-          "count": 85
+          "count": 108
         },
         {
-          "word": "novel",
-          "count": 77
-        },
-        {
-          "word": "theme",
-          "count": 66
-        },
-        {
-          "word": "power",
-          "count": 60
-        },
-        {
-          "word": "love",
-          "count": 54
-        },
-        {
-          "word": "resistance",
-          "count": 51
-        },
-        {
-          "word": "specific",
-          "count": 45
-        },
-        {
-          "word": "management",
-          "count": 43
+          "word": "lever",
+          "count": 105
         },
         {
           "word": "orwell",
-          "count": 42
+          "count": 87
         },
         {
-          "word": "genuine",
-          "count": 40
+          "word": "novel",
+          "count": 68
+        },
+        {
+          "word": "memory",
+          "count": 61
+        },
+        {
+          "word": "love",
+          "count": 60
+        },
+        {
+          "word": "political",
+          "count": 57
         },
         {
           "word": "language",
-          "count": 37
-        },
-        {
-          "word": "argument",
-          "count": 37
-        },
-        {
-          "word": "self",
-          "count": 37
-        },
-        {
-          "word": "human",
-          "count": 31
-        },
-        {
-          "word": "symbol",
-          "count": 31
-        },
-        {
-          "word": "hope",
-          "count": 31
+          "count": 56
         },
         {
           "word": "private",
+          "count": 56
+        },
+        {
+          "word": "sexual",
+          "count": 52
+        },
+        {
+          "word": "five",
+          "count": 48
+        },
+        {
+          "word": "levers",
+          "count": 36
+        },
+        {
+          "word": "newspeak",
+          "count": 36
+        },
+        {
+          "word": "cannot",
+          "count": 34
+        },
+        {
+          "word": "destruction",
+          "count": 31
+        },
+        {
+          "word": "julia",
+          "count": 31
+        },
+        {
+          "word": "citizen",
           "count": 30
         },
         {
-          "word": "makes",
-          "count": 29
+          "word": "room",
+          "count": 30
+        },
+        {
+          "word": "specific",
+          "count": 28
         }
       ]
     },
@@ -62592,9 +62604,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6510,
+      "wordCount": 6908,
       "topWord": "winston",
-      "topCount": 206,
+      "topCount": 219,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62604,105 +62616,113 @@
       "flaggedWords": [
         {
           "word": "winston",
-          "count": 206
+          "count": 219
         },
         {
           "word": "chapter",
-          "count": 99
-        },
-        {
-          "word": "novel",
-          "count": 97
-        },
-        {
-          "word": "party",
-          "count": 75
+          "count": 118
         },
         {
           "word": "brien",
-          "count": 65
+          "count": 68
+        },
+        {
+          "word": "orwell",
+          "count": 67
+        },
+        {
+          "word": "party",
+          "count": 64
+        },
+        {
+          "word": "text",
+          "count": 58
+        },
+        {
+          "word": "julia",
+          "count": 53
         }
       ],
       "top20": [
         {
           "word": "winston",
-          "count": 206
+          "count": 219
         },
         {
           "word": "chapter",
-          "count": 99
-        },
-        {
-          "word": "novel",
-          "count": 97
-        },
-        {
-          "word": "party",
-          "count": 75
+          "count": 118
         },
         {
           "word": "brien",
-          "count": 65
-        },
-        {
-          "word": "julia",
-          "count": 50
-        },
-        {
-          "word": "specific",
-          "count": 48
-        },
-        {
-          "word": "political",
-          "count": 44
-        },
-        {
-          "word": "room",
-          "count": 41
-        },
-        {
-          "word": "scene",
-          "count": 35
+          "count": 68
         },
         {
           "word": "orwell",
-          "count": 32
+          "count": 67
         },
         {
-          "word": "shop",
-          "count": 32
+          "word": "party",
+          "count": 64
         },
         {
-          "word": "private",
-          "count": 30
+          "word": "text",
+          "count": 58
+        },
+        {
+          "word": "julia",
+          "count": 53
+        },
+        {
+          "word": "room",
+          "count": 50
+        },
+        {
+          "word": "phase",
+          "count": 49
+        },
+        {
+          "word": "structural",
+          "count": 48
+        },
+        {
+          "word": "processing",
+          "count": 48
+        },
+        {
+          "word": "diagram",
+          "count": 45
         },
         {
           "word": "love",
-          "count": 29
+          "count": 42
+        },
+        {
+          "word": "regime",
+          "count": 42
+        },
+        {
+          "word": "power",
+          "count": 35
         },
         {
           "word": "argument",
-          "count": 25
+          "count": 33
         },
         {
-          "word": "charrington",
-          "count": 25
+          "word": "private",
+          "count": 33
         },
         {
-          "word": "cannot",
-          "count": 24
+          "word": "rebellion",
+          "count": 32
+        },
+        {
+          "word": "chapters",
+          "count": 30
         },
         {
           "word": "reader",
-          "count": 23
-        },
-        {
-          "word": "function",
-          "count": 23
-        },
-        {
-          "word": "relationship",
-          "count": 23
+          "count": 26
         }
       ]
     },
@@ -62714,9 +62734,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6499,
+      "wordCount": 6809,
       "topWord": "brien",
-      "topCount": 272,
+      "topCount": 376,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62726,113 +62746,113 @@
       "flaggedWords": [
         {
           "word": "brien",
-          "count": 272
+          "count": 376
         },
         {
           "word": "winston",
-          "count": 181
-        },
-        {
-          "word": "philosophical",
-          "count": 91
+          "count": 193
         },
         {
           "word": "party",
-          "count": 78
+          "count": 134
         },
         {
           "word": "novel",
-          "count": 73
+          "count": 102
+        },
+        {
+          "word": "orwell",
+          "count": 88
+        },
+        {
+          "word": "philosophical",
+          "count": 68
         },
         {
           "word": "power",
-          "count": 70
-        },
-        {
-          "word": "genuine",
-          "count": 65
+          "count": 57
         }
       ],
       "top20": [
         {
           "word": "brien",
-          "count": 272
+          "count": 376
         },
         {
           "word": "winston",
-          "count": 181
-        },
-        {
-          "word": "philosophical",
-          "count": 91
+          "count": 193
         },
         {
           "word": "party",
-          "count": 78
+          "count": 134
         },
         {
           "word": "novel",
-          "count": 73
+          "count": 102
+        },
+        {
+          "word": "orwell",
+          "count": 88
+        },
+        {
+          "word": "philosophical",
+          "count": 68
         },
         {
           "word": "power",
-          "count": 70
+          "count": 57
         },
         {
-          "word": "genuine",
-          "count": 65
-        },
-        {
-          "word": "love",
-          "count": 47
-        },
-        {
-          "word": "argument",
-          "count": 46
+          "word": "reading",
+          "count": 40
         },
         {
           "word": "intellectual",
-          "count": 40
+          "count": 38
         },
         {
-          "word": "genuinely",
-          "count": 40
-        },
-        {
-          "word": "person",
-          "count": 39
-        },
-        {
-          "word": "ideology",
-          "count": 39
-        },
-        {
-          "word": "specific",
-          "count": 37
-        },
-        {
-          "word": "makes",
-          "count": 35
-        },
-        {
-          "word": "human",
-          "count": 35
-        },
-        {
-          "word": "position",
+          "word": "reader",
           "count": 33
         },
         {
-          "word": "wrong",
-          "count": 33
+          "word": "argument",
+          "count": 31
+        },
+        {
+          "word": "philosophy",
+          "count": 30
+        },
+        {
+          "word": "itself",
+          "count": 30
         },
         {
           "word": "self",
-          "count": 33
+          "count": 29
         },
         {
-          "word": "relationship",
-          "count": 31
+          "word": "inner",
+          "count": 27
+        },
+        {
+          "word": "figure",
+          "count": 26
+        },
+        {
+          "word": "whose",
+          "count": 26
+        },
+        {
+          "word": "position",
+          "count": 26
+        },
+        {
+          "word": "character",
+          "count": 24
+        },
+        {
+          "word": "arguments",
+          "count": 24
         }
       ]
     },
@@ -62844,9 +62864,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6376,
+      "wordCount": 7220,
       "topWord": "julia",
-      "topCount": 250,
+      "topCount": 380,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62856,117 +62876,113 @@
       "flaggedWords": [
         {
           "word": "julia",
-          "count": 250
+          "count": 380
         },
         {
           "word": "winston",
-          "count": 205
+          "count": 216
         },
         {
           "word": "party",
-          "count": 102
-        },
-        {
-          "word": "resistance",
           "count": 98
         },
         {
-          "word": "novel",
-          "count": 88
-        },
-        {
-          "word": "political",
-          "count": 79
-        },
-        {
-          "word": "specific",
+          "word": "orwell",
           "count": 72
         },
         {
-          "word": "relationship",
-          "count": 55
+          "word": "novel",
+          "count": 65
+        },
+        {
+          "word": "whose",
+          "count": 53
+        },
+        {
+          "word": "rebellion",
+          "count": 53
         }
       ],
       "top20": [
         {
           "word": "julia",
-          "count": 250
+          "count": 380
         },
         {
           "word": "winston",
-          "count": 205
+          "count": 216
         },
         {
           "word": "party",
-          "count": 102
-        },
-        {
-          "word": "resistance",
           "count": 98
         },
         {
-          "word": "novel",
-          "count": 88
-        },
-        {
-          "word": "political",
-          "count": 79
-        },
-        {
-          "word": "specific",
+          "word": "orwell",
           "count": 72
         },
         {
-          "word": "relationship",
-          "count": 55
+          "word": "novel",
+          "count": 65
+        },
+        {
+          "word": "whose",
+          "count": 53
         },
         {
           "word": "rebellion",
-          "count": 49
+          "count": 53
         },
         {
-          "word": "pleasure",
+          "word": "reading",
+          "count": 50
+        },
+        {
+          "word": "arc",
           "count": 48
         },
         {
-          "word": "body",
-          "count": 46
-        },
-        {
-          "word": "practical",
-          "count": 45
-        },
-        {
-          "word": "experience",
-          "count": 36
+          "word": "narration",
+          "count": 47
         },
         {
           "word": "character",
-          "count": 31
+          "count": 44
         },
         {
-          "word": "genuine",
-          "count": 30
+          "word": "reader",
+          "count": 44
         },
         {
-          "word": "management",
-          "count": 30
+          "word": "love",
+          "count": 35
         },
         {
-          "word": "intelligence",
-          "count": 30
+          "word": "parallel",
+          "count": 33
         },
         {
-          "word": "perspective",
+          "word": "argument",
+          "count": 29
+        },
+        {
+          "word": "scene",
           "count": 28
         },
         {
-          "word": "approach",
+          "word": "relationship",
           "count": 27
         },
         {
-          "word": "personal",
+          "word": "patai",
           "count": 27
+        },
+        {
+          "word": "cannot",
+          "count": 27
+        },
+        {
+          "word": "romantic",
+          "count": 24
         }
       ]
     },
@@ -62978,9 +62994,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6284,
-      "topWord": "novel",
-      "topCount": 182,
+      "wordCount": 7335,
+      "topWord": "gatsby",
+      "topCount": 262,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -62989,122 +63005,110 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-01-10-complete-analysis-great-gatsby.md",
       "flaggedWords": [
         {
-          "word": "novel",
-          "count": 182
-        },
-        {
           "word": "gatsby",
-          "count": 181
+          "count": 262
         },
         {
-          "word": "nick",
-          "count": 80
-        },
-        {
-          "word": "daisy",
-          "count": 77
-        },
-        {
-          "word": "social",
-          "count": 71
-        },
-        {
-          "word": "specific",
-          "count": 67
-        },
-        {
-          "word": "american",
-          "count": 62
+          "word": "novel",
+          "count": 208
         },
         {
           "word": "fitzgerald",
-          "count": 60
+          "count": 116
         },
         {
-          "word": "dream",
-          "count": 58
+          "word": "daisy",
+          "count": 95
+        },
+        {
+          "word": "nick",
+          "count": 78
+        },
+        {
+          "word": "tom",
+          "count": 69
         }
       ],
       "top20": [
         {
-          "word": "novel",
-          "count": 182
-        },
-        {
           "word": "gatsby",
-          "count": 181
+          "count": 262
         },
         {
-          "word": "nick",
-          "count": 80
-        },
-        {
-          "word": "daisy",
-          "count": 77
-        },
-        {
-          "word": "social",
-          "count": 71
-        },
-        {
-          "word": "specific",
-          "count": 67
-        },
-        {
-          "word": "american",
-          "count": 62
+          "word": "novel",
+          "count": 208
         },
         {
           "word": "fitzgerald",
-          "count": 60
+          "count": 116
         },
         {
-          "word": "dream",
-          "count": 58
+          "word": "daisy",
+          "count": 95
         },
         {
-          "word": "money",
-          "count": 39
+          "word": "nick",
+          "count": 78
         },
         {
           "word": "tom",
+          "count": 69
+        },
+        {
+          "word": "money",
+          "count": 50
+        },
+        {
+          "word": "reading",
+          "count": 48
+        },
+        {
+          "word": "american",
+          "count": 47
+        },
+        {
+          "word": "wealth",
+          "count": 45
+        },
+        {
+          "word": "class",
+          "count": 45
+        },
+        {
+          "word": "economic",
+          "count": 45
+        },
+        {
+          "word": "argument",
+          "count": 44
+        },
+        {
+          "word": "dream",
+          "count": 38
+        },
+        {
+          "word": "wilson",
+          "count": 37
+        },
+        {
+          "word": "social",
+          "count": 35
+        },
+        {
+          "word": "diagnostic",
           "count": 33
         },
         {
-          "word": "moral",
+          "word": "economy",
           "count": 33
         },
         {
-          "word": "self",
-          "count": 31
+          "word": "light",
+          "count": 24
         },
         {
           "word": "egg",
-          "count": 31
-        },
-        {
-          "word": "genuine",
-          "count": 30
-        },
-        {
-          "word": "aspiration",
-          "count": 28
-        },
-        {
-          "word": "east",
-          "count": 28
-        },
-        {
-          "word": "west",
-          "count": 27
-        },
-        {
-          "word": "cannot",
-          "count": 27
-        },
-        {
-          "word": "romantic",
-          "count": 26
+          "count": 24
         }
       ]
     },
@@ -63116,9 +63120,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6154,
+      "wordCount": 6911,
       "topWord": "gatsby",
-      "topCount": 286,
+      "topCount": 255,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -63128,121 +63132,113 @@
       "flaggedWords": [
         {
           "word": "gatsby",
-          "count": 286
-        },
-        {
-          "word": "specific",
-          "count": 88
-        },
-        {
-          "word": "novel",
-          "count": 81
-        },
-        {
-          "word": "dream",
-          "count": 71
-        },
-        {
-          "word": "social",
-          "count": 68
+          "count": 255
         },
         {
           "word": "daisy",
-          "count": 67
+          "count": 121
         },
         {
           "word": "nick",
-          "count": 61
+          "count": 84
         },
         {
-          "word": "american",
-          "count": 57
+          "word": "novel",
+          "count": 80
         },
         {
-          "word": "self",
-          "count": 51
+          "word": "reading",
+          "count": 76
+        },
+        {
+          "word": "fitzgerald",
+          "count": 67
+        },
+        {
+          "word": "romantic",
+          "count": 53
         }
       ],
       "top20": [
         {
           "word": "gatsby",
-          "count": 286
-        },
-        {
-          "word": "specific",
-          "count": 88
-        },
-        {
-          "word": "novel",
-          "count": 81
-        },
-        {
-          "word": "dream",
-          "count": 71
-        },
-        {
-          "word": "social",
-          "count": 68
+          "count": 255
         },
         {
           "word": "daisy",
-          "count": 67
+          "count": 121
         },
         {
           "word": "nick",
-          "count": 61
+          "count": 84
         },
         {
-          "word": "american",
-          "count": 57
+          "word": "novel",
+          "count": 80
         },
         {
-          "word": "self",
-          "count": 51
+          "word": "reading",
+          "count": 76
         },
         {
-          "word": "genuine",
-          "count": 42
+          "word": "fitzgerald",
+          "count": 67
         },
         {
-          "word": "aspiration",
+          "word": "romantic",
+          "count": 53
+        },
+        {
+          "word": "tom",
+          "count": 46
+        },
+        {
+          "word": "character",
+          "count": 43
+        },
+        {
+          "word": "chapter",
           "count": 40
         },
         {
-          "word": "past",
+          "word": "five",
           "count": 38
         },
         {
-          "word": "cannot",
-          "count": 38
+          "word": "love",
+          "count": 37
         },
         {
-          "word": "parties",
-          "count": 35
+          "word": "criminal",
+          "count": 34
+        },
+        {
+          "word": "performance",
+          "count": 34
         },
         {
           "word": "person",
           "count": 34
         },
         {
-          "word": "character",
+          "word": "self",
+          "count": 33
+        },
+        {
+          "word": "reader",
           "count": 32
         },
         {
-          "word": "quality",
-          "count": 31
+          "word": "american",
+          "count": 32
         },
         {
-          "word": "relationship",
+          "word": "obsession",
           "count": 28
         },
         {
-          "word": "fitzgerald",
-          "count": 27
-        },
-        {
-          "word": "tom",
-          "count": 27
+          "word": "predatory",
+          "count": 28
         }
       ]
     },
@@ -63254,9 +63250,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6298,
+      "wordCount": 7085,
       "topWord": "nick",
-      "topCount": 283,
+      "topCount": 303,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -63266,109 +63262,125 @@
       "flaggedWords": [
         {
           "word": "nick",
-          "count": 283
+          "count": 303
         },
         {
           "word": "gatsby",
-          "count": 204
+          "count": 200
+        },
+        {
+          "word": "narrator",
+          "count": 195
         },
         {
           "word": "novel",
-          "count": 129
+          "count": 116
+        },
+        {
+          "word": "fitzgerald",
+          "count": 83
+        },
+        {
+          "word": "daisy",
+          "count": 77
+        },
+        {
+          "word": "narration",
+          "count": 72
+        },
+        {
+          "word": "tom",
+          "count": 65
         },
         {
           "word": "moral",
-          "count": 92
+          "count": 59
         },
         {
-          "word": "specific",
-          "count": 84
-        },
-        {
-          "word": "relationship",
-          "count": 55
+          "word": "reading",
+          "count": 53
         }
       ],
       "top20": [
         {
           "word": "nick",
-          "count": 283
+          "count": 303
         },
         {
           "word": "gatsby",
-          "count": 204
-        },
-        {
-          "word": "novel",
-          "count": 129
-        },
-        {
-          "word": "moral",
-          "count": 92
-        },
-        {
-          "word": "specific",
-          "count": 84
-        },
-        {
-          "word": "relationship",
-          "count": 55
-        },
-        {
-          "word": "events",
-          "count": 48
-        },
-        {
-          "word": "narration",
-          "count": 39
-        },
-        {
-          "word": "character",
-          "count": 39
-        },
-        {
-          "word": "self",
-          "count": 39
-        },
-        {
-          "word": "someone",
-          "count": 39
-        },
-        {
-          "word": "position",
-          "count": 35
+          "count": 200
         },
         {
           "word": "narrator",
-          "count": 34
+          "count": 195
         },
         {
-          "word": "enchantment",
-          "count": 34
+          "word": "novel",
+          "count": 116
         },
         {
-          "word": "himself",
-          "count": 34
-        },
-        {
-          "word": "story",
-          "count": 32
+          "word": "fitzgerald",
+          "count": 83
         },
         {
           "word": "daisy",
-          "count": 31
+          "count": 77
+        },
+        {
+          "word": "narration",
+          "count": 72
+        },
+        {
+          "word": "tom",
+          "count": 65
+        },
+        {
+          "word": "moral",
+          "count": 59
+        },
+        {
+          "word": "reading",
+          "count": 53
         },
         {
           "word": "reader",
+          "count": 49
+        },
+        {
+          "word": "self",
+          "count": 46
+        },
+        {
+          "word": "himself",
+          "count": 38
+        },
+        {
+          "word": "chapter",
+          "count": 38
+        },
+        {
+          "word": "jordan",
+          "count": 36
+        },
+        {
+          "word": "story",
+          "count": 36
+        },
+        {
+          "word": "character",
           "count": 30
         },
         {
-          "word": "simply",
+          "word": "relationship",
           "count": 30
         },
         {
-          "word": "summer",
-          "count": 30
+          "word": "carraway",
+          "count": 25
+        },
+        {
+          "word": "whose",
+          "count": 25
         }
       ]
     },
@@ -63486,9 +63498,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6089,
+      "wordCount": 6808,
       "topWord": "daisy",
-      "topCount": 226,
+      "topCount": 250,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -63498,113 +63510,121 @@
       "flaggedWords": [
         {
           "word": "daisy",
-          "count": 226
-        },
-        {
-          "word": "social",
-          "count": 144
-        },
-        {
-          "word": "specific",
-          "count": 114
+          "count": 250
         },
         {
           "word": "gatsby",
+          "count": 189
+        },
+        {
+          "word": "tom",
           "count": 111
         },
         {
           "word": "novel",
-          "count": 100
+          "count": 96
         },
         {
-          "word": "genuine",
-          "count": 58
+          "word": "reading",
+          "count": 78
+        },
+        {
+          "word": "social",
+          "count": 75
         },
         {
           "word": "nick",
-          "count": 55
+          "count": 73
+        },
+        {
+          "word": "character",
+          "count": 59
+        },
+        {
+          "word": "fitzgerald",
+          "count": 59
         }
       ],
       "top20": [
         {
           "word": "daisy",
-          "count": 226
-        },
-        {
-          "word": "social",
-          "count": 144
-        },
-        {
-          "word": "specific",
-          "count": 114
+          "count": 250
         },
         {
           "word": "gatsby",
+          "count": 189
+        },
+        {
+          "word": "tom",
           "count": 111
         },
         {
           "word": "novel",
-          "count": 100
+          "count": 96
         },
         {
-          "word": "genuine",
-          "count": 58
+          "word": "reading",
+          "count": 78
+        },
+        {
+          "word": "social",
+          "count": 75
         },
         {
           "word": "nick",
-          "count": 55
-        },
-        {
-          "word": "moral",
-          "count": 50
-        },
-        {
-          "word": "charm",
-          "count": 50
-        },
-        {
-          "word": "tom",
-          "count": 44
-        },
-        {
-          "word": "genuinely",
-          "count": 39
-        },
-        {
-          "word": "relationship",
-          "count": 37
-        },
-        {
-          "word": "whose",
-          "count": 34
-        },
-        {
-          "word": "marriage",
-          "count": 31
-        },
-        {
-          "word": "simply",
-          "count": 31
+          "count": 73
         },
         {
           "word": "character",
-          "count": 31
+          "count": 59
         },
         {
-          "word": "voice",
-          "count": 31
+          "word": "fitzgerald",
+          "count": 59
+        },
+        {
+          "word": "position",
+          "count": 44
+        },
+        {
+          "word": "person",
+          "count": 42
+        },
+        {
+          "word": "wealth",
+          "count": 41
+        },
+        {
+          "word": "class",
+          "count": 41
+        },
+        {
+          "word": "moral",
+          "count": 38
         },
         {
           "word": "money",
+          "count": 33
+        },
+        {
+          "word": "careless",
+          "count": 32
+        },
+        {
+          "word": "marriage",
           "count": 30
         },
         {
-          "word": "choices",
+          "word": "evidence",
           "count": 29
         },
         {
-          "word": "full",
+          "word": "cannot",
           "count": 28
+        },
+        {
+          "word": "read",
+          "count": 25
         }
       ]
     },
@@ -63616,9 +63636,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6258,
-      "topWord": "novel",
-      "topCount": 155,
+      "wordCount": 7040,
+      "topWord": "gatsby",
+      "topCount": 152,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -63627,118 +63647,130 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-01-30-themes-symbolism-great-gatsby.md",
       "flaggedWords": [
         {
-          "word": "novel",
-          "count": 155
-        },
-        {
           "word": "gatsby",
-          "count": 132
+          "count": 152
         },
         {
-          "word": "specific",
-          "count": 116
+          "word": "fitzgerald",
+          "count": 106
         },
         {
-          "word": "aspiration",
-          "count": 92
+          "word": "novel",
+          "count": 96
         },
         {
-          "word": "social",
-          "count": 66
+          "word": "economy",
+          "count": 73
         },
         {
-          "word": "dream",
-          "count": 59
+          "word": "argument",
+          "count": 67
         },
         {
           "word": "green",
-          "count": 51
+          "count": 66
+        },
+        {
+          "word": "light",
+          "count": 64
+        },
+        {
+          "word": "valley",
+          "count": 62
+        },
+        {
+          "word": "aspiration",
+          "count": 60
+        },
+        {
+          "word": "wealth",
+          "count": 57
         },
         {
           "word": "daisy",
-          "count": 51
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "novel",
-          "count": 155
-        },
-        {
           "word": "gatsby",
-          "count": 132
+          "count": 152
         },
         {
-          "word": "specific",
-          "count": 116
+          "word": "fitzgerald",
+          "count": 106
         },
         {
-          "word": "aspiration",
-          "count": 92
+          "word": "novel",
+          "count": 96
         },
         {
-          "word": "social",
-          "count": 66
-        },
-        {
-          "word": "dream",
-          "count": 59
-        },
-        {
-          "word": "green",
-          "count": 51
-        },
-        {
-          "word": "daisy",
-          "count": 51
-        },
-        {
-          "word": "light",
-          "count": 50
-        },
-        {
-          "word": "money",
-          "count": 49
-        },
-        {
-          "word": "american",
-          "count": 44
-        },
-        {
-          "word": "symbol",
-          "count": 42
-        },
-        {
-          "word": "symbolic",
-          "count": 42
+          "word": "economy",
+          "count": 73
         },
         {
           "word": "argument",
-          "count": 40
+          "count": 67
         },
         {
-          "word": "parties",
-          "count": 39
+          "word": "green",
+          "count": 66
         },
         {
-          "word": "nick",
-          "count": 36
-        },
-        {
-          "word": "quality",
-          "count": 35
-        },
-        {
-          "word": "past",
-          "count": 35
-        },
-        {
-          "word": "relationship",
-          "count": 32
+          "word": "light",
+          "count": 64
         },
         {
           "word": "valley",
-          "count": 31
+          "count": 62
+        },
+        {
+          "word": "aspiration",
+          "count": 60
+        },
+        {
+          "word": "wealth",
+          "count": 57
+        },
+        {
+          "word": "daisy",
+          "count": 56
+        },
+        {
+          "word": "nick",
+          "count": 47
+        },
+        {
+          "word": "american",
+          "count": 43
+        },
+        {
+          "word": "cost",
+          "count": 41
+        },
+        {
+          "word": "symbol",
+          "count": 41
+        },
+        {
+          "word": "conscience",
+          "count": 39
+        },
+        {
+          "word": "displacement",
+          "count": 39
+        },
+        {
+          "word": "moral",
+          "count": 38
+        },
+        {
+          "word": "commodity",
+          "count": 36
+        },
+        {
+          "word": "shirts",
+          "count": 36
         }
       ]
     },
@@ -63750,9 +63782,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6205,
+      "wordCount": 6988,
       "topWord": "dream",
-      "topCount": 344,
+      "topCount": 227,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -63762,113 +63794,121 @@
       "flaggedWords": [
         {
           "word": "dream",
-          "count": 344
-        },
-        {
-          "word": "specific",
-          "count": 150
+          "count": 227
         },
         {
           "word": "gatsby",
-          "count": 143
+          "count": 204
         },
         {
           "word": "novel",
-          "count": 99
+          "count": 128
+        },
+        {
+          "word": "fitzgerald",
+          "count": 117
+        },
+        {
+          "word": "wealth",
+          "count": 86
         },
         {
           "word": "american",
-          "count": 97
+          "count": 85
         },
         {
-          "word": "social",
-          "count": 58
+          "word": "reading",
+          "count": 78
         },
         {
-          "word": "aspiration",
-          "count": 58
+          "word": "class",
+          "count": 74
+        },
+        {
+          "word": "money",
+          "count": 74
         }
       ],
       "top20": [
         {
           "word": "dream",
-          "count": 344
-        },
-        {
-          "word": "specific",
-          "count": 150
+          "count": 227
         },
         {
           "word": "gatsby",
-          "count": 143
+          "count": 204
         },
         {
           "word": "novel",
-          "count": 99
-        },
-        {
-          "word": "american",
-          "count": 97
-        },
-        {
-          "word": "social",
-          "count": 58
-        },
-        {
-          "word": "aspiration",
-          "count": 58
-        },
-        {
-          "word": "achievement",
-          "count": 49
-        },
-        {
-          "word": "promise",
-          "count": 46
-        },
-        {
-          "word": "organized",
-          "count": 41
-        },
-        {
-          "word": "genuine",
-          "count": 39
-        },
-        {
-          "word": "cannot",
-          "count": 39
-        },
-        {
-          "word": "self",
-          "count": 38
-        },
-        {
-          "word": "past",
-          "count": 38
+          "count": 128
         },
         {
           "word": "fitzgerald",
-          "count": 36
+          "count": 117
         },
         {
-          "word": "genuinely",
-          "count": 34
+          "word": "wealth",
+          "count": 86
+        },
+        {
+          "word": "american",
+          "count": 85
+        },
+        {
+          "word": "reading",
+          "count": 78
         },
         {
           "word": "class",
+          "count": 74
+        },
+        {
+          "word": "money",
+          "count": 74
+        },
+        {
+          "word": "daisy",
+          "count": 49
+        },
+        {
+          "word": "diagnostic",
+          "count": 47
+        },
+        {
+          "word": "nick",
+          "count": 47
+        },
+        {
+          "word": "position",
+          "count": 39
+        },
+        {
+          "word": "economic",
+          "count": 39
+        },
+        {
+          "word": "trilling",
+          "count": 37
+        },
+        {
+          "word": "labor",
+          "count": 36
+        },
+        {
+          "word": "component",
+          "count": 34
+        },
+        {
+          "word": "aspiration",
           "count": 33
         },
         {
-          "word": "conditions",
-          "count": 32
+          "word": "mechanism",
+          "count": 33
         },
         {
-          "word": "toward",
-          "count": 32
-        },
-        {
-          "word": "current",
-          "count": 32
+          "word": "egg",
+          "count": 33
         }
       ]
     },
@@ -63880,9 +63920,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6629,
-      "topWord": "tom",
-      "topCount": 274,
+      "wordCount": 7216,
+      "topWord": "buchanan",
+      "topCount": 375,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -63891,126 +63931,114 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-02-09-tom-buchanan-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "tom",
-          "count": 274
-        },
-        {
-          "word": "specific",
-          "count": 165
-        },
-        {
-          "word": "social",
-          "count": 153
+          "word": "buchanan",
+          "count": 375
         },
         {
           "word": "gatsby",
-          "count": 114
+          "count": 157
         },
         {
           "word": "novel",
-          "count": 100
+          "count": 108
         },
         {
-          "word": "privilege",
-          "count": 67
+          "word": "fitzgerald",
+          "count": 74
         },
         {
-          "word": "authority",
-          "count": 64
+          "word": "daisy",
+          "count": 71
         },
         {
-          "word": "someone",
-          "count": 56
+          "word": "nick",
+          "count": 70
         },
         {
-          "word": "position",
-          "count": 55
-        },
-        {
-          "word": "moral",
-          "count": 54
+          "word": "class",
+          "count": 59
         }
       ],
       "top20": [
         {
-          "word": "tom",
-          "count": 274
-        },
-        {
-          "word": "specific",
-          "count": 165
-        },
-        {
-          "word": "social",
-          "count": 153
+          "word": "buchanan",
+          "count": 375
         },
         {
           "word": "gatsby",
-          "count": 114
+          "count": 157
         },
         {
           "word": "novel",
-          "count": 100
+          "count": 108
         },
         {
-          "word": "privilege",
-          "count": 67
-        },
-        {
-          "word": "authority",
-          "count": 64
-        },
-        {
-          "word": "someone",
-          "count": 56
-        },
-        {
-          "word": "position",
-          "count": 55
-        },
-        {
-          "word": "moral",
-          "count": 54
+          "word": "fitzgerald",
+          "count": 74
         },
         {
           "word": "daisy",
-          "count": 44
-        },
-        {
-          "word": "character",
-          "count": 43
-        },
-        {
-          "word": "american",
-          "count": 41
-        },
-        {
-          "word": "genuine",
-          "count": 40
+          "count": 71
         },
         {
           "word": "nick",
-          "count": 39
+          "count": 70
         },
         {
-          "word": "consequences",
-          "count": 38
+          "word": "class",
+          "count": 59
         },
         {
-          "word": "dream",
-          "count": 37
+          "word": "whose",
+          "count": 48
         },
         {
-          "word": "expression",
-          "count": 37
-        },
-        {
-          "word": "physical",
-          "count": 37
+          "word": "social",
+          "count": 47
         },
         {
           "word": "myrtle",
+          "count": 46
+        },
+        {
+          "word": "position",
+          "count": 45
+        },
+        {
+          "word": "moral",
+          "count": 37
+        },
+        {
+          "word": "specific",
+          "count": 37
+        },
+        {
+          "word": "american",
           "count": 36
+        },
+        {
+          "word": "reading",
+          "count": 33
+        },
+        {
+          "word": "inherited",
+          "count": 33
+        },
+        {
+          "word": "wealth",
+          "count": 32
+        },
+        {
+          "word": "reader",
+          "count": 32
+        },
+        {
+          "word": "tom",
+          "count": 31
+        },
+        {
+          "word": "character",
+          "count": 31
         }
       ]
     },
@@ -64022,9 +64050,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6488,
+      "wordCount": 7001,
       "topWord": "novel",
-      "topCount": 265,
+      "topCount": 148,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64034,129 +64062,121 @@
       "flaggedWords": [
         {
           "word": "novel",
-          "count": 265
+          "count": 148
         },
         {
-          "word": "tom",
-          "count": 88
-        },
-        {
-          "word": "moral",
-          "count": 85
+          "word": "mockingbird",
+          "count": 118
         },
         {
           "word": "atticus",
-          "count": 83
+          "count": 103
         },
         {
-          "word": "social",
-          "count": 82
-        },
-        {
-          "word": "specific",
-          "count": 81
-        },
-        {
-          "word": "scout",
-          "count": 72
-        },
-        {
-          "word": "racial",
-          "count": 69
-        },
-        {
-          "word": "robinson",
-          "count": 66
+          "word": "lee",
+          "count": 85
         },
         {
           "word": "white",
-          "count": 55
+          "count": 73
         },
         {
-          "word": "understanding",
-          "count": 52
+          "word": "racial",
+          "count": 72
+        },
+        {
+          "word": "scout",
+          "count": 68
+        },
+        {
+          "word": "robinson",
+          "count": 60
+        },
+        {
+          "word": "maycomb",
+          "count": 51
         }
       ],
       "top20": [
         {
           "word": "novel",
-          "count": 265
-        },
-        {
-          "word": "tom",
-          "count": 88
-        },
-        {
-          "word": "moral",
-          "count": 85
-        },
-        {
-          "word": "atticus",
-          "count": 83
-        },
-        {
-          "word": "social",
-          "count": 82
-        },
-        {
-          "word": "specific",
-          "count": 81
-        },
-        {
-          "word": "scout",
-          "count": 72
-        },
-        {
-          "word": "racial",
-          "count": 69
-        },
-        {
-          "word": "robinson",
-          "count": 66
-        },
-        {
-          "word": "white",
-          "count": 55
-        },
-        {
-          "word": "understanding",
-          "count": 52
-        },
-        {
-          "word": "argument",
-          "count": 49
-        },
-        {
-          "word": "maycomb",
-          "count": 48
-        },
-        {
-          "word": "boo",
-          "count": 45
-        },
-        {
-          "word": "community",
-          "count": 44
-        },
-        {
-          "word": "genuine",
-          "count": 43
-        },
-        {
-          "word": "injustice",
-          "count": 41
+          "count": 148
         },
         {
           "word": "mockingbird",
+          "count": 118
+        },
+        {
+          "word": "atticus",
+          "count": 103
+        },
+        {
+          "word": "lee",
+          "count": 85
+        },
+        {
+          "word": "white",
+          "count": 73
+        },
+        {
+          "word": "racial",
+          "count": 72
+        },
+        {
+          "word": "scout",
+          "count": 68
+        },
+        {
+          "word": "robinson",
+          "count": 60
+        },
+        {
+          "word": "maycomb",
+          "count": 51
+        },
+        {
+          "word": "black",
+          "count": 50
+        },
+        {
+          "word": "trial",
+          "count": 50
+        },
+        {
+          "word": "moral",
+          "count": 46
+        },
+        {
+          "word": "tom",
           "count": 40
         },
         {
-          "word": "radley",
-          "count": 38
+          "word": "boo",
+          "count": 35
         },
         {
           "word": "children",
-          "count": 36
+          "count": 32
+        },
+        {
+          "word": "radley",
+          "count": 32
+        },
+        {
+          "word": "finch",
+          "count": 31
+        },
+        {
+          "word": "father",
+          "count": 29
+        },
+        {
+          "word": "courage",
+          "count": 28
+        },
+        {
+          "word": "ewell",
+          "count": 27
         }
       ]
     },
@@ -64168,9 +64188,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6385,
+      "wordCount": 7145,
       "topWord": "atticus",
-      "topCount": 221,
+      "topCount": 240,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64180,117 +64200,121 @@
       "flaggedWords": [
         {
           "word": "atticus",
-          "count": 221
+          "count": 240
         },
         {
-          "word": "moral",
-          "count": 137
+          "word": "reading",
+          "count": 82
         },
         {
-          "word": "novel",
-          "count": 127
+          "word": "robinson",
+          "count": 69
         },
         {
-          "word": "specific",
-          "count": 111
-        },
-        {
-          "word": "scout",
-          "count": 80
-        },
-        {
-          "word": "genuine",
-          "count": 79
-        },
-        {
-          "word": "tom",
+          "word": "racial",
           "count": 62
         },
         {
-          "word": "social",
+          "word": "lee",
+          "count": 58
+        },
+        {
+          "word": "canonical",
+          "count": 56
+        },
+        {
+          "word": "novel",
+          "count": 55
+        },
+        {
+          "word": "mockingbird",
+          "count": 54
+        },
+        {
+          "word": "white",
           "count": 51
         }
       ],
       "top20": [
         {
           "word": "atticus",
-          "count": 221
+          "count": 240
         },
         {
-          "word": "moral",
-          "count": 137
-        },
-        {
-          "word": "novel",
-          "count": 127
-        },
-        {
-          "word": "specific",
-          "count": 111
-        },
-        {
-          "word": "scout",
-          "count": 80
-        },
-        {
-          "word": "genuine",
-          "count": 79
-        },
-        {
-          "word": "tom",
-          "count": 62
-        },
-        {
-          "word": "social",
-          "count": 51
+          "word": "reading",
+          "count": 82
         },
         {
           "word": "robinson",
-          "count": 44
-        },
-        {
-          "word": "makes",
-          "count": 42
-        },
-        {
-          "word": "courage",
-          "count": 41
-        },
-        {
-          "word": "relationship",
-          "count": 40
-        },
-        {
-          "word": "character",
-          "count": 38
-        },
-        {
-          "word": "argument",
-          "count": 38
-        },
-        {
-          "word": "white",
-          "count": 38
-        },
-        {
-          "word": "children",
-          "count": 37
-        },
-        {
-          "word": "whose",
-          "count": 36
-        },
-        {
-          "word": "structural",
-          "count": 34
+          "count": 69
         },
         {
           "word": "racial",
-          "count": 31
+          "count": 62
         },
         {
-          "word": "individual",
-          "count": 30
+          "word": "lee",
+          "count": 58
+        },
+        {
+          "word": "canonical",
+          "count": 56
+        },
+        {
+          "word": "novel",
+          "count": 55
+        },
+        {
+          "word": "mockingbird",
+          "count": 54
+        },
+        {
+          "word": "white",
+          "count": 51
+        },
+        {
+          "word": "finch",
+          "count": 48
+        },
+        {
+          "word": "scout",
+          "count": 48
+        },
+        {
+          "word": "black",
+          "count": 48
+        },
+        {
+          "word": "moral",
+          "count": 47
+        },
+        {
+          "word": "father",
+          "count": 47
+        },
+        {
+          "word": "watchman",
+          "count": 42
+        },
+        {
+          "word": "text",
+          "count": 42
+        },
+        {
+          "word": "legal",
+          "count": 39
+        },
+        {
+          "word": "maycomb",
+          "count": 39
+        },
+        {
+          "word": "character",
+          "count": 37
+        },
+        {
+          "word": "ewell",
+          "count": 33
         }
       ]
     },
@@ -64320,9 +64344,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6519,
+      "wordCount": 7379,
       "topWord": "scout",
-      "topCount": 228,
+      "topCount": 348,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64332,121 +64356,117 @@
       "flaggedWords": [
         {
           "word": "scout",
-          "count": 228
+          "count": 348
         },
         {
           "word": "novel",
-          "count": 160
-        },
-        {
-          "word": "adult",
-          "count": 107
-        },
-        {
-          "word": "specific",
-          "count": 107
-        },
-        {
-          "word": "moral",
-          "count": 92
+          "count": 168
         },
         {
           "word": "child",
-          "count": 77
+          "count": 133
         },
         {
-          "word": "understanding",
-          "count": 73
+          "word": "adult",
+          "count": 104
         },
         {
-          "word": "social",
+          "word": "narrator",
           "count": 71
         },
         {
-          "word": "perspective",
+          "word": "voice",
           "count": 62
+        },
+        {
+          "word": "atticus",
+          "count": 60
+        },
+        {
+          "word": "boo",
+          "count": 58
         }
       ],
       "top20": [
         {
           "word": "scout",
-          "count": 228
+          "count": 348
         },
         {
           "word": "novel",
-          "count": 160
-        },
-        {
-          "word": "adult",
-          "count": 107
-        },
-        {
-          "word": "specific",
-          "count": 107
-        },
-        {
-          "word": "moral",
-          "count": 92
+          "count": 168
         },
         {
           "word": "child",
-          "count": 77
+          "count": 133
         },
         {
-          "word": "understanding",
-          "count": 73
+          "word": "adult",
+          "count": 104
         },
         {
-          "word": "social",
+          "word": "narrator",
           "count": 71
         },
         {
-          "word": "perspective",
+          "word": "voice",
           "count": 62
         },
         {
           "word": "atticus",
-          "count": 49
+          "count": 60
         },
         {
           "word": "boo",
+          "count": 58
+        },
+        {
+          "word": "reading",
+          "count": 50
+        },
+        {
+          "word": "jem",
           "count": 49
         },
         {
-          "word": "genuine",
-          "count": 43
+          "word": "moral",
+          "count": 47
         },
         {
-          "word": "quality",
-          "count": 42
+          "word": "convention",
+          "count": 45
         },
         {
-          "word": "education",
-          "count": 38
+          "word": "lee",
+          "count": 41
         },
         {
-          "word": "community",
-          "count": 37
+          "word": "jean",
+          "count": 41
         },
         {
-          "word": "experience",
-          "count": 37
+          "word": "louise",
+          "count": 41
         },
         {
-          "word": "trial",
-          "count": 37
+          "word": "character",
+          "count": 36
         },
         {
-          "word": "maycomb",
-          "count": 35
-        },
-        {
-          "word": "whose",
+          "word": "argument",
           "count": 35
         },
         {
           "word": "radley",
-          "count": 32
+          "count": 34
+        },
+        {
+          "word": "community",
+          "count": 34
+        },
+        {
+          "word": "reader",
+          "count": 33
         }
       ]
     },
@@ -64458,9 +64478,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6283,
+      "wordCount": 6968,
       "topWord": "boo",
-      "topCount": 211,
+      "topCount": 292,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64470,100 +64490,92 @@
       "flaggedWords": [
         {
           "word": "boo",
-          "count": 211
-        },
-        {
-          "word": "specific",
-          "count": 141
-        },
-        {
-          "word": "novel",
-          "count": 135
+          "count": 292
         },
         {
           "word": "radley",
-          "count": 86
-        },
-        {
-          "word": "children",
-          "count": 70
-        },
-        {
-          "word": "mythology",
-          "count": 64
+          "count": 123
         },
         {
           "word": "scout",
-          "count": 61
+          "count": 85
         },
         {
-          "word": "community",
-          "count": 57
+          "word": "novel",
+          "count": 82
         },
         {
-          "word": "social",
-          "count": 53
+          "word": "maycomb",
+          "count": 81
         },
         {
-          "word": "situation",
-          "count": 53
+          "word": "lee",
+          "count": 75
+        },
+        {
+          "word": "jem",
+          "count": 62
+        },
+        {
+          "word": "confinement",
+          "count": 59
+        },
+        {
+          "word": "atticus",
+          "count": 51
         }
       ],
       "top20": [
         {
           "word": "boo",
-          "count": 211
-        },
-        {
-          "word": "specific",
-          "count": 141
-        },
-        {
-          "word": "novel",
-          "count": 135
+          "count": 292
         },
         {
           "word": "radley",
-          "count": 86
-        },
-        {
-          "word": "children",
-          "count": 70
-        },
-        {
-          "word": "mythology",
-          "count": 64
+          "count": 123
         },
         {
           "word": "scout",
-          "count": 61
+          "count": 85
+        },
+        {
+          "word": "novel",
+          "count": 82
+        },
+        {
+          "word": "maycomb",
+          "count": 81
+        },
+        {
+          "word": "lee",
+          "count": 75
+        },
+        {
+          "word": "jem",
+          "count": 62
+        },
+        {
+          "word": "confinement",
+          "count": 59
+        },
+        {
+          "word": "atticus",
+          "count": 51
         },
         {
           "word": "community",
-          "count": 57
+          "count": 49
         },
         {
-          "word": "social",
-          "count": 53
+          "word": "children",
+          "count": 43
         },
         {
-          "word": "situation",
-          "count": 53
+          "word": "arthur",
+          "count": 41
         },
         {
-          "word": "moral",
-          "count": 47
-        },
-        {
-          "word": "genuine",
-          "count": 45
-        },
-        {
-          "word": "understanding",
-          "count": 42
-        },
-        {
-          "word": "argument",
+          "word": "town",
           "count": 40
         },
         {
@@ -64571,24 +64583,28 @@
           "count": 40
         },
         {
-          "word": "confinement",
-          "count": 38
-        },
-        {
-          "word": "story",
-          "count": 37
-        },
-        {
-          "word": "jem",
-          "count": 36
-        },
-        {
-          "word": "evidence",
-          "count": 30
+          "word": "nathan",
+          "count": 39
         },
         {
           "word": "mockingbird",
-          "count": 29
+          "count": 33
+        },
+        {
+          "word": "family",
+          "count": 32
+        },
+        {
+          "word": "reader",
+          "count": 32
+        },
+        {
+          "word": "reading",
+          "count": 30
+        },
+        {
+          "word": "chapter",
+          "count": 30
         }
       ]
     },
@@ -64600,9 +64616,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6863,
+      "wordCount": 7365,
       "topWord": "novel",
-      "topCount": 200,
+      "topCount": 162,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64612,157 +64628,129 @@
       "flaggedWords": [
         {
           "word": "novel",
-          "count": 200
-        },
-        {
-          "word": "racial",
-          "count": 176
-        },
-        {
-          "word": "injustice",
-          "count": 147
+          "count": 162
         },
         {
           "word": "white",
-          "count": 144
+          "count": 147
         },
         {
-          "word": "specific",
-          "count": 119
-        },
-        {
-          "word": "social",
-          "count": 104
-        },
-        {
-          "word": "tom",
-          "count": 91
-        },
-        {
-          "word": "hierarchy",
-          "count": 86
+          "word": "racial",
+          "count": 133
         },
         {
           "word": "black",
-          "count": 82
-        },
-        {
-          "word": "trial",
-          "count": 79
+          "count": 129
         },
         {
           "word": "robinson",
-          "count": 75
+          "count": 104
         },
         {
           "word": "atticus",
-          "count": 74
+          "count": 89
         },
         {
-          "word": "community",
-          "count": 72
+          "word": "mockingbird",
+          "count": 84
         },
         {
-          "word": "moral",
+          "word": "injustice",
           "count": 71
         },
         {
-          "word": "evidence",
-          "count": 69
-        },
-        {
           "word": "structural",
-          "count": 59
+          "count": 55
         },
         {
           "word": "individual",
-          "count": 58
+          "count": 53
         },
         {
-          "word": "legal",
-          "count": 54
+          "word": "prejudice",
+          "count": 51
         }
       ],
       "top20": [
         {
           "word": "novel",
-          "count": 200
-        },
-        {
-          "word": "racial",
-          "count": 176
-        },
-        {
-          "word": "injustice",
-          "count": 147
+          "count": 162
         },
         {
           "word": "white",
-          "count": 144
+          "count": 147
         },
         {
-          "word": "specific",
-          "count": 119
-        },
-        {
-          "word": "social",
-          "count": 104
-        },
-        {
-          "word": "tom",
-          "count": 91
-        },
-        {
-          "word": "hierarchy",
-          "count": 86
+          "word": "racial",
+          "count": 133
         },
         {
           "word": "black",
-          "count": 82
-        },
-        {
-          "word": "trial",
-          "count": 79
+          "count": 129
         },
         {
           "word": "robinson",
-          "count": 75
+          "count": 104
         },
         {
           "word": "atticus",
-          "count": 74
+          "count": 89
         },
         {
-          "word": "community",
-          "count": 72
+          "word": "mockingbird",
+          "count": 84
         },
         {
-          "word": "moral",
+          "word": "injustice",
           "count": 71
         },
         {
-          "word": "evidence",
-          "count": 69
-        },
-        {
           "word": "structural",
-          "count": 59
+          "count": 55
         },
         {
           "word": "individual",
-          "count": 58
+          "count": 53
         },
         {
-          "word": "legal",
-          "count": 54
+          "word": "prejudice",
+          "count": 51
+        },
+        {
+          "word": "model",
+          "count": 45
+        },
+        {
+          "word": "moral",
+          "count": 44
+        },
+        {
+          "word": "racism",
+          "count": 42
         },
         {
           "word": "cannot",
-          "count": 50
+          "count": 42
         },
         {
-          "word": "jury",
-          "count": 45
+          "word": "trial",
+          "count": 42
+        },
+        {
+          "word": "scout",
+          "count": 41
+        },
+        {
+          "word": "lee",
+          "count": 39
+        },
+        {
+          "word": "mayella",
+          "count": 37
+        },
+        {
+          "word": "reduction",
+          "count": 36
         }
       ]
     },
@@ -64792,9 +64780,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6425,
+      "wordCount": 7074,
       "topWord": "tom",
-      "topCount": 224,
+      "topCount": 254,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64804,133 +64792,121 @@
       "flaggedWords": [
         {
           "word": "tom",
-          "count": 224
+          "count": 254
         },
         {
           "word": "robinson",
-          "count": 142
-        },
-        {
-          "word": "specific",
-          "count": 127
+          "count": 104
         },
         {
           "word": "novel",
-          "count": 121
+          "count": 95
         },
         {
-          "word": "social",
-          "count": 86
+          "word": "white",
+          "count": 75
         },
         {
-          "word": "racial",
-          "count": 84
-        },
-        {
-          "word": "evidence",
-          "count": 73
-        },
-        {
-          "word": "hierarchy",
-          "count": 70
-        },
-        {
-          "word": "trial",
-          "count": 68
+          "word": "text",
+          "count": 72
         },
         {
           "word": "atticus",
-          "count": 59
+          "count": 72
         },
         {
-          "word": "character",
+          "word": "black",
+          "count": 60
+        },
+        {
+          "word": "lee",
           "count": 56
         },
         {
-          "word": "moral",
+          "word": "narrative",
           "count": 52
         }
       ],
       "top20": [
         {
           "word": "tom",
-          "count": 224
+          "count": 254
         },
         {
           "word": "robinson",
-          "count": 142
-        },
-        {
-          "word": "specific",
-          "count": 127
+          "count": 104
         },
         {
           "word": "novel",
-          "count": 121
-        },
-        {
-          "word": "social",
-          "count": 86
-        },
-        {
-          "word": "racial",
-          "count": 84
-        },
-        {
-          "word": "evidence",
-          "count": 73
-        },
-        {
-          "word": "hierarchy",
-          "count": 70
-        },
-        {
-          "word": "trial",
-          "count": 68
-        },
-        {
-          "word": "atticus",
-          "count": 59
-        },
-        {
-          "word": "character",
-          "count": 56
-        },
-        {
-          "word": "moral",
-          "count": 52
-        },
-        {
-          "word": "genuine",
-          "count": 49
-        },
-        {
-          "word": "black",
-          "count": 48
-        },
-        {
-          "word": "argument",
-          "count": 47
-        },
-        {
-          "word": "injustice",
-          "count": 46
-        },
-        {
-          "word": "community",
-          "count": 41
+          "count": 95
         },
         {
           "word": "white",
+          "count": 75
+        },
+        {
+          "word": "text",
+          "count": 72
+        },
+        {
+          "word": "atticus",
+          "count": 72
+        },
+        {
+          "word": "black",
+          "count": 60
+        },
+        {
+          "word": "lee",
+          "count": 56
+        },
+        {
+          "word": "narrative",
+          "count": 52
+        },
+        {
+          "word": "reader",
+          "count": 48
+        },
+        {
+          "word": "testimony",
+          "count": 47
+        },
+        {
+          "word": "trial",
+          "count": 44
+        },
+        {
+          "word": "structural",
+          "count": 41
+        },
+        {
+          "word": "reading",
           "count": 40
         },
         {
           "word": "mayella",
-          "count": 39
+          "count": 40
         },
         {
-          "word": "situation",
-          "count": 38
+          "word": "moral",
+          "count": 36
+        },
+        {
+          "word": "mockingbird",
+          "count": 34
+        },
+        {
+          "word": "ewell",
+          "count": 34
+        },
+        {
+          "word": "racial",
+          "count": 32
+        },
+        {
+          "word": "family",
+          "count": 32
         }
       ]
     },
@@ -64942,9 +64918,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6529,
-      "topWord": "specific",
-      "topCount": 163,
+      "wordCount": 7092,
+      "topWord": "jem",
+      "topCount": 283,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -64953,142 +64929,130 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-16-coming-of-age-to-kill-a-mockingbird.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 163
-        },
-        {
-          "word": "age",
-          "count": 156
-        },
-        {
-          "word": "coming",
-          "count": 152
+          "word": "jem",
+          "count": 283
         },
         {
           "word": "scout",
-          "count": 149
+          "count": 160
         },
         {
           "word": "novel",
-          "count": 136
+          "count": 128
         },
         {
-          "word": "moral",
-          "count": 121
+          "word": "age",
+          "count": 112
         },
         {
-          "word": "understanding",
-          "count": 84
-        },
-        {
-          "word": "social",
-          "count": 75
+          "word": "coming",
+          "count": 102
         },
         {
           "word": "atticus",
-          "count": 67
+          "count": 76
         },
         {
-          "word": "jem",
-          "count": 65
+          "word": "maycomb",
+          "count": 74
         },
         {
-          "word": "genuine",
-          "count": 64
+          "word": "lee",
+          "count": 69
         },
         {
-          "word": "development",
-          "count": 60
+          "word": "trial",
+          "count": 69
+        },
+        {
+          "word": "dill",
+          "count": 53
         },
         {
           "word": "boo",
-          "count": 56
-        },
-        {
-          "word": "adult",
-          "count": 51
+          "count": 52
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 163
-        },
-        {
-          "word": "age",
-          "count": 156
-        },
-        {
-          "word": "coming",
-          "count": 152
+          "word": "jem",
+          "count": 283
         },
         {
           "word": "scout",
-          "count": 149
+          "count": 160
         },
         {
           "word": "novel",
-          "count": 136
+          "count": 128
         },
         {
-          "word": "moral",
-          "count": 121
+          "word": "age",
+          "count": 112
         },
         {
-          "word": "understanding",
-          "count": 84
-        },
-        {
-          "word": "social",
-          "count": 75
+          "word": "coming",
+          "count": 102
         },
         {
           "word": "atticus",
-          "count": 67
+          "count": 76
         },
         {
-          "word": "jem",
-          "count": 65
+          "word": "maycomb",
+          "count": 74
         },
         {
-          "word": "genuine",
-          "count": 64
+          "word": "lee",
+          "count": 69
         },
         {
-          "word": "development",
-          "count": 60
+          "word": "trial",
+          "count": 69
+        },
+        {
+          "word": "dill",
+          "count": 53
         },
         {
           "word": "boo",
-          "count": 56
+          "count": 52
         },
         {
-          "word": "adult",
-          "count": 51
+          "word": "mockingbird",
+          "count": 48
         },
         {
-          "word": "simply",
+          "word": "bildungsroman",
+          "count": 48
+        },
+        {
+          "word": "verdict",
           "count": 45
         },
         {
-          "word": "instruction",
-          "count": 43
+          "word": "moral",
+          "count": 37
         },
         {
-          "word": "education",
-          "count": 41
-        },
-        {
-          "word": "evidence",
-          "count": 40
+          "word": "reading",
+          "count": 36
         },
         {
           "word": "radley",
-          "count": 39
+          "count": 35
         },
         {
-          "word": "capacity",
-          "count": 38
+          "word": "protagonist",
+          "count": 33
+        },
+        {
+          "word": "crisis",
+          "count": 33
+        },
+        {
+          "word": "transformation",
+          "count": 32
         }
       ]
     },

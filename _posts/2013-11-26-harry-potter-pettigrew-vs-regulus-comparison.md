@@ -4,11 +4,11 @@ title: "Pettigrew vs Regulus: Two Followers Two Choices"
 date: 2013-11-26
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Regulus Black", "Betrayal", "Character Comparison"]
-excerpt: "Pettigrew and Regulus Black in Harry Potter - both were followers who turned. One from good to evil, one from evil to good. The direction of the turning matters more than the duration of the loyalty."
+excerpt: "Decode Pettigrew and Regulus Black in Harry Potter as mirror conversions across the moral spectrum."
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "olivia-grant"
-last_updated: 2013-11-26
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Turn and What It Makes You

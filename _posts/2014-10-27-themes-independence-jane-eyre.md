@@ -5,11 +5,11 @@ page_title: "Independence and Feminism in Jane Eyre - How Charlotte Bronte Wrote
 date: 2014-10-27
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "independence", "feminism", "themes", "literary-analysis", "classic-literature"]
-excerpt: "How Jane Eyre champions female independence - Bronte's radical feminism hidden inside a Gothic romance."
+excerpt: "Decode independence in Jane Eyre as the spine of the entire novel, more central than the love story itself."
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2014-10-27
+last_updated: 2026-04-25
 lang: en
 ---
 Jane Eyre stands as one of literature's most powerful explorations of female independence, presenting a heroine whose moral autonomy and personal integrity challenge every form of oppression and subordination she encounters. Charlotte Brontë's masterpiece disguises radical feminist ideas within the framework of a Gothic romance, creating a protagonist who refuses to compromise her principles for security, social acceptance, or even love. Jane's journey from orphaned dependent to self-possessed woman represents a revolutionary vision of female agency in Victorian society.

@@ -5,11 +5,11 @@ page_title: "Harry Potter vs Frodo Baggins: Reluctant Heroes and the Burden They
 date: 2013-12-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Tolkien", "Fantasy Literature", "Character Analysis", "Literary Comparison", "Harry Potter", "Frodo Baggins", "Heroism", "Lord of the Rings", "Cross-Literary"]
-excerpt: "Harry Potter and Frodo Baggins - both reluctant heroes carrying burdens they didn't choose. Both walk willingly toward sacrificial death. The comparison is the most ambitious in this series."
+excerpt: "Decode Harry and Frodo as parallel reluctant heroes whose burdens shape their identities and their endings."
 image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2013-12-02
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: Two Heroes, One Question

@@ -5,11 +5,11 @@ page_title: "Censorship in Fahrenheit 451 - How Bradbury Showed That the Real Da
 date: 2014-11-26
 categories: ["Leisure"]
 tags: ["fahrenheit-451", "ray-bradbury", "censorship", "themes", "literary-analysis", "dystopian-fiction"]
-excerpt: "How Fahrenheit 451 treats censorship - not as government tyranny but as a society's voluntary surrender."
+excerpt: "Decode censorship in Fahrenheit 451 as something the public asked for, then forgot they had asked for."
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "lauren-hayes"
-last_updated: 2014-11-26
+last_updated: 2026-04-25
 lang: en
 word_frequency_ok: true
 word_frequency_ok_word: "available"

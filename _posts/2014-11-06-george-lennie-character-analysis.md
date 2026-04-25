@@ -5,11 +5,11 @@ page_title: "George and Lennie in Of Mice and Men: Friendship, the Dream, and Wh
 date: 2014-11-06
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "george-milton", "lennie-small", "character-analysis", "american-literature"]
-excerpt: "A deep reading of George Milton and Lennie Small, their friendship, the farm dream, and the final scene by the Salinas River."
+excerpt: "Decode George and Lennie in Of Mice and Men as the only two characters who have anyone at all, until the end."
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 73
 author: "claire-bennett"
-last_updated: 2014-11-06
+last_updated: 2026-04-25
 lang: en
 ---
 The friendship between George Milton and Lennie Small is not a sentimental parable about loyalty. It is a calculated tragedy, engineered by John Steinbeck in 1937 to show what happens when two working men try to hold onto one another inside an economic order that has no use for their care. The novella gives them six chapters, roughly a hundred pages, and four days of narrated time. It ends, as it begins, on the bank of the Salinas River, under the same sycamores and across the same pool where carp slide between reeds. Everything that passes between the two riverbanks asks a single question: whether love can survive inside a system that pays workers by the week, feeds them beans in a bunkhouse, and keeps them moving.

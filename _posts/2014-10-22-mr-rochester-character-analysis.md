@@ -5,11 +5,11 @@ page_title: "Mr. Rochester in Jane Eyre - The Byronic Hero, the Liar, and Why Hi
 date: 2014-10-22
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "mr-rochester", "character-analysis", "literary-analysis", "byronic-hero"]
-excerpt: "Complete analysis of Rochester - his secrets, Byronic appeal, moral failures, and painful redemption arc."
+excerpt: "Decode Rochester in Jane Eyre as the romantic hero Bronte both creates and quietly disqualifies in the same breath."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2014-10-22
+last_updated: 2026-04-25
 lang: en
 ---
 Edward Rochester stands as one of literature's most morally complex romantic heroes, embodying the contradictions between passionate authenticity and destructive deception that define the Byronic archetype. Charlotte Brontë creates a character whose genuine appeal and intellectual depth exist alongside profound moral failure, forcing readers to grapple with questions about redemption, responsibility, and the relationship between love and ethical behavior in ways that resist simple judgment or easy resolution.
