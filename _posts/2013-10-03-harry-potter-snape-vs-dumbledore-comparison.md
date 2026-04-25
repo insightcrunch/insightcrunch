@@ -4,11 +4,11 @@ title: "Snape vs Dumbledore: Loyalty and the Greater Good"
 date: 2013-10-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Albus Dumbledore", "Ethics", "Character Comparison"]
-excerpt: "Snape and Dumbledore in Harry Potter - one planned the murder, one committed it. Who carried the greater moral burden?"
+excerpt: "Decode the Snape and Dumbledore agreement in Harry Potter: assisted suicide, sacrifice, and shared moral weight."
 image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
 author: "sarah-mitchell"
-last_updated: 2013-10-03
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Murder That Was a Gift

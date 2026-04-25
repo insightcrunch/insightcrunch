@@ -5,11 +5,11 @@ page_title: "Neville Longbottom vs Harry Potter: The Chosen One Question and Wha
 date: 2013-09-29
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Neville Longbottom", "Prophecy"]
-excerpt: "The prophecy could have meant either boy. Voldemort chose Harry. What if he had chosen Neville instead?"
+excerpt: "Decode Neville and Harry as the two prophecy-eligible boys and what makes destiny look retroactively chosen."
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-09-29
+last_updated: 2026-04-25
 lang: en
 ---
 The prophecy never said Harry Potter. It described a boy "born to those who have thrice defied him, born as the seventh month dies" - words that applied equally to Harry Potter and Neville Longbottom. Both sets of parents had defied Voldemort three times. Both boys were born in late July 1980. Until Voldemort made his choice, either could have become the Chosen One.

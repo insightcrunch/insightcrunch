@@ -4,11 +4,11 @@ title: "Hagrid vs Lupin: Two Outsider Mentors Who Shaped Harry"
 date: 2013-10-24
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rubeus Hagrid", "Remus Lupin", "Mentorship", "Character Comparison"]
-excerpt: "Hagrid and Lupin in Harry Potter - both outsiders, both mentors, both essential. One taught Harry the world is wondrous. The other taught him it is dangerous."
+excerpt: "Decode Hagrid and Lupin in Harry Potter as the two outsider mentors Harry needs in opposite ways."
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-10-24
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Two Lessons Harry Could Not Have Learned Elsewhere

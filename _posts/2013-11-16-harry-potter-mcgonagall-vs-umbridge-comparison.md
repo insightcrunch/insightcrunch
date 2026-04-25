@@ -4,11 +4,11 @@ title: "McGonagall vs Umbridge: Two Faces of Authority"
 date: 2013-11-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Minerva McGonagall", "Dolores Umbridge", "Authority", "Character Comparison"]
-excerpt: "McGonagall and Umbridge in Harry Potter - both women in positions of authority at Hogwarts, both operating by rules. Only one uses authority to protect."
+excerpt: "Decode McGonagall and Umbridge as opposite faces of institutional power in Harry Potter."
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 60
 author: "megan-clark"
-last_updated: 2013-11-16
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Same Institution, Two Entirely Different Things

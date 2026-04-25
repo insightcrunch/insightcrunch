@@ -4,11 +4,11 @@ title: "James Potter vs Snape: Bully Victim and Expectations"
 date: 2013-11-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "James Potter", "Severus Snape", "Lily Potter", "Character Comparison"]
-excerpt: "James Potter and Snape in Harry Potter - the bully and his victim loved the same woman. She chose the bully. The comparison is the series' most uncomfortable moral problem."
+excerpt: "Decode James and Snape in Harry Potter: a love triangle that troubles every reader who looks at it honestly."
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-11-10
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Bully, the Victim, and the Woman Between Them

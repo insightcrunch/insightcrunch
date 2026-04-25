@@ -4,11 +4,11 @@ title: "Sirius vs Lupin: Two Outcasts Two Ways of Surviving"
 date: 2013-10-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Remus Lupin", "Outcasts", "Character Comparison"]
-excerpt: "Sirius Black and Remus Lupin in Harry Potter - two outcasts, one friendship, and two irreconcilable ways of surviving a world that rejected both of them."
+excerpt: "Decode Sirius and Lupin in Harry Potter: rebellion versus accommodation, both ways of bearing exclusion."
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-10-13
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: Two Survivors, One Friendship

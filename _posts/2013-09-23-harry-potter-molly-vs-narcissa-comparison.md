@@ -4,11 +4,11 @@ title: "Molly vs Narcissa: Two Mothers One Weapon"
 date: 2013-09-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Molly Weasley", "Narcissa Malfoy", "Motherhood", "Character Comparison"]
-excerpt: "Molly Weasley and Narcissa Malfoy in Harry Potter - two mothers who would do anything for their children, on opposite sides of a war."
+excerpt: "Decode Molly and Narcissa as the same maternal weapon pointed in opposite directions during the wizarding war."
 image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-09-23
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Same Love in Opposite Uniforms

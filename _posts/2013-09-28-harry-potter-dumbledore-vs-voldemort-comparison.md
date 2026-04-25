@@ -4,11 +4,11 @@ title: "Dumbledore vs Voldemort: Brilliant Minds Opposite Paths"
 date: 2013-09-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Voldemort", "Tom Riddle", "Character Comparison"]
-excerpt: "Dumbledore and Voldemort in Harry Potter - two supremely gifted wizards shaped by the same school, separated by what they chose to love."
+excerpt: "Decode Dumbledore and Voldemort in Harry Potter as opposite outcomes from identical brilliance and trauma."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-09-28
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Mirror at the Center of the Series

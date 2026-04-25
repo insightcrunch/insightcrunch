@@ -4,11 +4,11 @@ title: "Hermione vs Bellatrix: Brilliance in Light and Dark"
 date: 2013-10-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Bellatrix Lestrange", "Brilliance", "Character Comparison"]
-excerpt: "Hermione Granger and Bellatrix Lestrange in Harry Potter - two brilliant witches whose devotion defines them, on opposite sides of everything."
+excerpt: "Decode Hermione and Bellatrix in Harry Potter: brilliance turned to learning versus brilliance turned to worship."
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2013-10-08
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Same Gift, Opposite Directions

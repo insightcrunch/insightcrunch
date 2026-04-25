@@ -4,11 +4,11 @@ title: "Fred and George vs Draco Malfoy: Humor vs Cruelty as Power"
 date: 2013-10-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fred Weasley", "George Weasley", "Draco Malfoy", "Character Comparison"]
-excerpt: "Fred, George, and Draco in Harry Potter - all three are clever, all three wield that cleverness as power. What you do with your intelligence is the definitive moral test."
+excerpt: "Decode Fred, George, and Draco in Harry Potter as the same gift used for joy or for cruelty."
 image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-10-18
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: Three Clever Boys and One Moral Test

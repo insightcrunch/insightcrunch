@@ -4,11 +4,11 @@ title: "Dobby vs Kreacher: Two House-Elves Two Journeys to Freedom"
 date: 2013-11-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dobby", "Kreacher", "House-Elves", "Character Comparison"]
-excerpt: "Dobby and Kreacher in Harry Potter - one arrives free and devoted, one arrives enslaved and hostile. Together they make the same argument about what loyalty really means."
+excerpt: "Decode Dobby and Kreacher in Harry Potter as two house-elves making the same point about chosen loyalty."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "emily-reed"
-last_updated: 2013-11-05
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: Two Creatures Who Make the Same Argument

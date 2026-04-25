@@ -4,11 +4,11 @@ title: "Dumbledore vs Gandalf: The Manipulator and the Companion"
 date: 2013-09-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Comparison", "Dumbledore", "Gandalf", "Mentorship", "Literary Analysis", "Tolkien", "Wizard Archetypes"]
-excerpt: "Both are the wise old wizard who guides the young hero. But Dumbledore withholds truth strategically while Gandalf withholds it because he genuinely doesn't know. The comparison reveals fundamentally different theories of mentorship."
+excerpt: "Decode Dumbledore and Gandalf as opposite mentor archetypes and what each reveals about guiding the young hero."
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "elena-wright"
-last_updated: 2013-09-08
+last_updated: 2026-04-25
 lang: en
 ---
 ## Introduction: The Same Archetype, Two Fundamentally Different Philosophies

@@ -5,11 +5,11 @@ page_title: "Draco Malfoy vs Dudley Dursley: Two Bullies Who Shaped Harry Potter
 date: 2013-09-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Draco Malfoy", "Dudley Dursley"]
-excerpt: "Draco Malfoy and Dudley Dursley both torment Harry, but only one finds redemption. What makes the difference reveals uncomfortable truths."
+excerpt: "Decode Draco and Dudley in Harry Potter: two products of bad parenting whose paths diverge in book seven."
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2013-09-22
+last_updated: 2026-04-25
 lang: en
 ---
 Draco Malfoy and Dudley Dursley represent Rowling's most pointed examination of how privilege creates bullies, and more crucially, how different forms of privilege determine whether redemption becomes possible. Both boys torment Harry Potter. Both are products of parental indulgence and ideology. Both wield power over others through systematic cruelty. Yet by the series' end, one extends a tentative hand toward humanity while the other offers only a grudging acknowledgment of basic decency.
