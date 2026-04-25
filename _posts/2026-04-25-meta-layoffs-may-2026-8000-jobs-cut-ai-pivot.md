@@ -13,7 +13,7 @@ reading_time: 84
 
 On April 23, 2026, Bloomberg published an internal memo from Meta’s Chief People Officer Janelle Gale that confirmed what thousands of employees had feared for months. Starting May 20, 2026, Meta Platforms would eliminate approximately 8,000 positions, representing 10 percent of its global workforce of 78,865 people. The company would also cancel 6,000 open roles that it had planned to fill, bringing the total impact to 14,000 positions either eliminated or never created. This was not a rumor. This was not speculation from anonymous sources on Blind or whispered gossip in the cafeteria at Building 20 in Menlo Park. A Meta spokesperson confirmed the report’s accuracy to NPR, CNN, CNBC, and Reuters within hours of the Bloomberg story breaking.
 
-{% include tweet.html id=“2045226609074909461” %}
+{% include tweet.html id="2045226609074909461" %}
 
 The memo itself was remarkable for its candor and its corporate detachment. Gale described the layoffs as “part of our continued effort to run the company more efficiently and to allow us to offset the other investments we’re making.” She acknowledged this was “unwelcome news” that “puts everyone in an uneasy state,” but argued that informing employees now was “the best path forward, given the circumstances.” The investments she referenced were not ambiguous. Meta had committed between $115 billion and $135 billion in capital expenditures for 2026 alone, nearly doubling the $72.2 billion it spent in 2025, primarily to build out artificial intelligence infrastructure. The company was simultaneously firing humans and spending unprecedented sums on the machines that would replace them.
 
@@ -21,7 +21,7 @@ Read more: [Is there a hiring freeze at Facebook? >>](https://insightcrunch.com/
 
 What made this announcement different from the layoffs of 2022 and 2023 was not its scale, although the numbers were staggering. It was the context. Meta reported $200.97 billion in revenue for the full year 2025, a 22 percent increase year over year. Its fourth quarter revenue of $59.89 billion and net income of $22.77 billion were both quarterly records. The company’s Family of Apps division generated approximately $102 billion in operating income on $198 billion in revenue, a 51.5 percent operating margin that most corporations would envy. Meta was not cutting because it was failing. It was cutting because it believed it could succeed with fewer people and more artificial intelligence. That distinction is the defining characteristic of the 2026 tech layoff wave, and it carries implications that extend far beyond the 8,000 individuals who will receive termination emails on May 20.
 
-{% include tweet.html id=“2046394768364585082” %}
+{% include tweet.html id="2046394768364585082" %}
 
 The timing of the announcement was also notable. It arrived just days after Meta revealed that it was rolling out a controversial new employee tracking tool called the Model Capability Initiative, or MCI. This software records keystrokes, mouse movements, click locations, and periodic screenshots from employees’ work computers across hundreds of websites and applications including Google, LinkedIn, Wikipedia, GitHub, Slack, and even Meta’s own properties like Threads and its internal AI assistant Metamate. The stated purpose was to train AI agents capable of performing white-collar tasks autonomously. Employees were asked to enable the tool via a pop-up on their work laptops, though the distinction between voluntary and mandatory participation became blurred when the same company was simultaneously announcing a 10 percent workforce reduction. The juxtaposition was not lost on anyone inside or outside the organization. Meta was recording exactly how its employees worked so that AI systems could learn to do those jobs, and then it was laying off those same employees.
 
@@ -43,7 +43,7 @@ January 2026 marked the beginning of a new phase. Meta cut between 1,000 and 1,5
 
 In March 2026, another 700 employees were cut across at least five divisions, including Facebook, Reality Labs, global operations, and sales. California WARN Act filings began appearing, confirming 124 positions at Meta’s Burlingame office effective May 22 and 74 at its Sunnyvale facility effective May 29. These filings, required by law when employers conduct mass layoffs, provided concrete documentation of what internal sources had been warning about for weeks.
 
-{% include tweet.html id=“2032626560679948628” %}
+{% include tweet.html id="2032626560679948628" %}
 
 And then came the April 23 announcement: 8,000 positions, 10 percent of the global workforce, effective May 20. According to Reuters, additional company-wide cuts are planned for the second half of 2026, though their timing and scope have not been finalized. Earlier reports suggested the total reductions could eventually reach 20 percent of the company, though a Meta spokesperson called that figure “speculative reporting.” If the 20 percent figure proves accurate, it would mean approximately 16,000 total positions eliminated in 2026 alone, making it comparable in scale to the 2022-2023 “Year of Efficiency” that witnessed 21,000 cuts.
 
@@ -75,7 +75,7 @@ Wang had founded Scale AI in 2016 as a 19-year-old MIT student, building it into
 
 Wang’s mandate was clear: rebuild Meta’s AI capabilities from the ground up and create models that could compete with OpenAI, Anthropic, and Google at the frontier. He assembled a team by recruiting aggressively from rival laboratories, offering compensation packages that reportedly reached hundreds of millions of dollars when equity was included. Meta Superintelligence Labs attracted talent from OpenAI, Anthropic, Google DeepMind, Waymo, and other leading research organizations. The division was structured into four groups: the TBD Lab for large language models, led by Wang himself; FAIR for fundamental research; a products and applied research division led by Nat Friedman, the former CEO of GitHub; and an infrastructure unit led by Aparna Ramani.
 
-{% include tweet.html id=“2047393656500273280” %}
+{% include tweet.html id="2047393656500273280" %}
 
 The first tangible output of this restructuring arrived on April 8, 2026, when Meta debuted Muse Spark, the inaugural model from the new Muse series. Code-named Avocado during development, Muse Spark represented a ground-up overhaul of Meta’s entire AI stack, including new infrastructure, new architecture, and new data pipelines. The model is natively multimodal with support for tool-use, visual chain of thought, and multi-agent orchestration. According to Meta’s published benchmarks, Muse Spark achieves its reasoning capabilities using over an order of magnitude less compute than Llama 4 Maverick, Meta’s previous mid-size flagship model. It powers the Meta AI assistant across the company’s standalone app and website, with deployment to WhatsApp, Instagram, Facebook, Messenger, and Ray-Ban Meta AI glasses planned for the coming weeks.
 
@@ -103,7 +103,7 @@ The parallel stories of Wang and LeCun represent the two possible futures of art
 
 The announcement that Meta was installing keystroke and screen-tracking software on employee computers, just days before confirming mass layoffs, represents one of the most provocative corporate decisions in recent memory. The Model Capability Initiative, or MCI, was first reported by Reuters on April 22, 2026, and additional details were published by CNBC, which obtained a list of tracked websites and applications.
 
-{% include tweet.html id=“2047375637288300849” %}
+{% include tweet.html id="2047375637288300849" %}
 
 The tracking tool records mouse movements, click locations, keystrokes, keyboard shortcuts, dropdown menu navigation, and periodic screenshots or “screen content” to provide the AI with context about what is happening on the display. It runs on a pre-approved list of work-related applications and websites. According to CNBC, the list includes Google, LinkedIn, Wikipedia, Microsoft’s GitHub, Salesforce’s Slack, Atlassian, and Meta’s own properties like Threads and Manus. The list, which is still evolving, originally included AI applications like OpenAI’s ChatGPT and Anthropic’s Claude, though it is unclear whether those remained on the final version.
 
@@ -159,7 +159,7 @@ For the full year 2025, Meta reported total revenue of $200.97 billion, a 22 per
 
 The company’s Family of Apps division, which includes Facebook, Instagram, WhatsApp, and Messenger, generated approximately $198 billion in revenue and $102 billion in operating income during 2025, representing a 51.5 percent operating margin. Family daily active people, or DAP, averaged 3.58 billion for December 2025, an increase of 7 percent year over year. Ad impressions increased 18 percent in Q4 and 12 percent for the full year, while average price per ad rose 14 percent in Q4 and 10 percent for the full year.
 
-{% include tweet.html id=“2033704051758506495” %}
+{% include tweet.html id="2033704051758506495" %}
 
 These are not the numbers of a company in distress. They are the numbers of a company that dominates its market and is growing faster than the overall digital advertising sector, which expanded approximately 10 percent in 2025. Meta is taking market share from competitors, and some analysts project it will overtake Google as the company with the most net advertising revenue in 2026.
 
@@ -199,7 +199,7 @@ Discussions on Blind’s Meta channel have been updated continuously since the a
 
 Several Blind posts reference persistent rumors that Meta is targeting employees who actively use the Blind platform for the next round of layoffs. One employee claimed to have overheard someone at a bar discussing a script that checks employee emails to determine whether they are registered on Blind, and that a list was being compiled for management review. While no evidence has corroborated this specific claim, its circulation demonstrates the level of paranoia within the workforce. When employees believe their employer might retaliate against them for participating in anonymous professional discussions, the organizational culture has deteriorated well beyond normal corporate tension.
 
-{% include tweet.html id=“2045251120289726537” %}
+{% include tweet.html id="2045251120289726537" %}
 
 The mood on Reddit’s technology and career-focused subreddits has been similarly grim. Former and current Meta employees have described the atmosphere inside the company as “toxic,” with constant anxiety about whether each day might be their last. Several posts highlight the irony of Meta tracking employee behavior to train AI while simultaneously firing those employees, with one highly upvoted comment describing it as “being asked to build the guillotine and then being led to it.”
 
@@ -213,7 +213,7 @@ Meta’s May 2026 layoffs are not happening in isolation. They are part of the m
 
 As of late April 2026, over 92,000 tech workers have been laid off so far this year, according to the Layoffs.fyi tracker. This brings the total since 2020 to approximately 900,000. The companies conducting these reductions are not startups burning through venture capital. They are the most profitable corporations in the world, and they are cutting headcount while simultaneously reporting record revenues.
 
-{% include tweet.html id=“2046116129345871931” %}
+{% include tweet.html id="2046116129345871931" %}
 
 The week of April 21, 2026 alone saw two of the most significant workforce announcements in corporate history occur on the same day. Meta confirmed its 8,000-person layoff, while Microsoft revealed that it would offer voluntary buyouts to U.S. employees for the first time in its 51-year history. Approximately 7 percent of Microsoft’s 125,000 U.S. employees were eligible, potentially affecting up to 8,750 people. Combined, the two announcements represented more than 20,000 potential job eliminations in a single 24-hour period.
 
@@ -227,7 +227,7 @@ The venture capital perspective reinforces this structural interpretation. Zach 
 
 If this projection is accurate, the implications for the technology labor market are profound. The industry that has been the primary engine of high-paying job creation in the United States for the past three decades may be entering a phase where it continues to generate enormous economic value while employing dramatically fewer people. The wealth created by AI will be concentrated among a smaller number of companies and individuals, while the broader workforce faces displacement that existing social safety nets and retraining programs are not designed to address.
 
-{% include tweet.html id=“2032632033214693699” %}
+{% include tweet.html id="2032632033214693699" %}
 
 ## Inside Meta’s $135 Billion AI Bet: Where the Money Is Going
 
@@ -291,7 +291,7 @@ Compensation inequality within the technology sector will intensify dramatically
 
 The geographic distribution of technology employment will continue to shift. Remote work, which expanded dramatically during the pandemic, is being partially reversed by companies that want to concentrate their remaining workforce in high-productivity hubs near AI research centers. At the same time, AI data center construction is creating blue-collar employment in regions that have not traditionally benefited from the technology boom. The $1 billion data center in Tulsa, Oklahoma, for example, will generate construction and maintenance jobs, but these positions bear little resemblance to the software engineering roles being eliminated in Menlo Park and Sunnyvale.
 
-{% include tweet.html id=“2042442137531208077” %}
+{% include tweet.html id="2042442137531208077" %}
 
 The social contract between employers and employees in the technology sector is being fundamentally renegotiated. For decades, tech companies offered a implicit bargain: work incredibly hard, sacrifice work-life balance, and in return receive generous compensation, job security, and a sense of meaningful impact. The 2026 layoff wave breaks this contract. Employees who worked nights and weekends, relocated their families, and built their identities around their role at Meta or Amazon or Microsoft are discovering that their loyalty and effort offer no protection against a spreadsheet calculation that determines their role can be automated.
 
@@ -399,7 +399,7 @@ Begin updating your resume and professional profiles immediately. Consult an emp
 
 Major 2026 tech layoffs include Amazon (30,000), Microsoft (up to 8,750 via buyouts), Block (over 4,000), Nike (1,400 in tech roles), and Oracle (thousands across multiple rounds). Over 92,000 tech workers have been laid off in 2026 as of late April, bringing the total since 2020 to approximately 900,000.
 
-{% include tweet.html id=“2041032423241322739” %}
+{% include tweet.html id="2041032423241322739" %}
 
 ## The Moral Question Nobody Is Asking
 
@@ -411,7 +411,7 @@ The 8,000 individuals who will lose their jobs include parents who depend on emp
 
 The AI systems that will replace them do not have families. They do not have mortgages. They do not have visa clocks ticking. They do not experience anxiety about their children’s school enrollment or their spouse’s career trajectory. They are efficient, scalable, and tireless. They are also incapable of creativity, empathy, ethical judgment, or any of the distinctly human capacities that no AI model has yet replicated with genuine depth. The question of whether those distinctly human capacities have economic value in a world optimized for efficiency metrics is the defining question of the AI age, and the answer will determine whether the technology transition enriches or impoverishes human civilization.
 
-{% include tweet.html id=“2045228540195733737” %}
+{% include tweet.html id="2045228540195733737" %}
 
 The employees at Meta who enabled the MCI tracking tool on their laptops, who documented their work processes before being escorted out by security, who trained the AI models that will perform their former functions, are not merely unemployed. They are participants in an experiment whose outcome remains profoundly uncertain. If the AI-driven efficiency gains materialize as projected, Meta and its competitors will enter a new era of productivity that could lower costs, improve products, and generate wealth on an unprecedented scale. If the gains are overstated, if the AI models plateau before reaching the capabilities assumed in these workforce plans, then the layoffs will be revealed as a massive strategic error that destroyed human capital that cannot be easily reassembled.
 
@@ -543,7 +543,7 @@ Statistics are abstractions. They are useful for understanding trends, modeling 
 
 The 8,000 people who will be affected on May 20 are not interchangeable units of production. They are software engineers who debugged critical systems at 2 AM during outages. They are product managers who translated business requirements into technical specifications that became features used by billions. They are designers who crafted interfaces that shaped how humanity communicates. They are data scientists who built the recommendation algorithms that made Instagram addictive and profitable. They are recruiters who convinced talented people to join Meta and who will now need to convince someone else to hire them. They are people with stories, ambitions, families, and futures that cannot be reduced to a line item on a budget spreadsheet.
 
-{% include tweet.html id=“2047497548819239128” %}
+{% include tweet.html id="2047497548819239128" %}
 
 The technology industry has always celebrated disruption as a positive force. “Move fast and break things” was Facebook’s original motto, and it captured the Silicon Valley ethos that progress requires destruction of the old to make way for the new. What the motto never acknowledged was that the “things” being broken are sometimes people’s livelihoods, communities, and sense of purpose. The May 2026 Meta layoffs are breaking 8,000 careers, and the AI systems that replace them will never know what it cost.
 
