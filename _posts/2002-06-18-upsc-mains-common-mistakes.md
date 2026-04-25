@@ -11,6 +11,10 @@ reading_time: 65
 author: "kavita-sharma"
 last_updated: 2026-04-18
 lang: en
+word_frequency_ok: true
+word_frequency_ok_word: "mistake"
+word_frequency_ok_count: 395
+word_frequency_ok_reason: "\"mistake\" appears in the title - it is the article topic"
 ---
 UPSC Mains common mistakes represent the preparation blind spots where aspirants forfeit 50 or more marks per paper through avoidable errors rather than knowledge deficiency. The aspirants who lose marks through common mistakes possess adequate content knowledge but deploy it through flawed execution forfeiting marks that proper execution would capture. The aspirants who identify and eliminate common mistakes before examination translate their content knowledge into marks more efficiently than aspirants who carry avoidable errors into the examination hall. The mistake elimination creates 50 to 100 marks per paper recovery compared to mistake-laden performance accumulating to 200 to 400 marks total recovery spanning four GS papers meaningfully affecting final ranks. The gap between mistake-aware and mistake-blind aspirants determines whether content knowledge converts fully into examination marks. This UPSC Mains common mistakes guide is built around closing that gap through systematic mistake identification and elimination methodology.
 
