@@ -6,10 +6,14 @@ date: "2026-04-25"
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta confirmed 8,000 layoffs starting May 20, 2026, as it redirects billions toward AI infrastructure. Full breakdown of affected teams and much more."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 84
+author: "james-carter"
+lang: en
 ---
 ## The May 20 Announcement That Changed Everything
+
+![Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 On April 23, 2026, Bloomberg published an internal memo from Meta’s Chief People Officer Janelle Gale that confirmed what thousands of employees had feared for months. Starting May 20, 2026, Meta Platforms would eliminate approximately 8,000 positions, representing 10 percent of its global workforce of 78,865 people. The company would also cancel 6,000 open roles that it had planned to fill, bringing the total impact to 14,000 positions either eliminated or never created. This was not a rumor. This was not speculation from anonymous sources on Blind or whispered gossip in the cafeteria at Building 20 in Menlo Park. A Meta spokesperson confirmed the report’s accuracy to NPR, CNN, CNBC, and Reuters within hours of the Bloomberg story breaking.
 
