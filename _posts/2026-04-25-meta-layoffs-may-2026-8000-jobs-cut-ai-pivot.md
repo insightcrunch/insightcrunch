@@ -13,8 +13,6 @@ lang: en
 ---
 ## The May 20 Announcement That Changed Everything
 
-![Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot - Insight Crunch](/assets/images/blog/blog-81.webp)
-
 On April 23, 2026, Bloomberg published an internal memo from Meta’s Chief People Officer Janelle Gale that confirmed what thousands of employees had feared for months. Starting May 20, 2026, Meta Platforms would eliminate approximately 8,000 positions, representing 10 percent of its global workforce of 78,865 people. The company would also cancel 6,000 open roles that it had planned to fill, bringing the total impact to 14,000 positions either eliminated or never created. This was not a rumor. This was not speculation from anonymous sources on Blind or whispered gossip in the cafeteria at Building 20 in Menlo Park. A Meta spokesperson confirmed the report’s accuracy to NPR, CNN, CNBC, and Reuters within hours of the Bloomberg story breaking.
 
 {% include tweet.html id="2045226609074909461" %}
@@ -28,6 +26,8 @@ What made this announcement different from the layoffs of 2022 and 2023 was not 
 {% include tweet.html id="2046394768364585082" %}
 
 The timing of the announcement was also notable. It arrived just days after Meta revealed that it was rolling out a controversial new employee tracking tool called the Model Capability Initiative, or MCI. This software records keystrokes, mouse movements, click locations, and periodic screenshots from employees’ work computers across hundreds of websites and applications including Google, LinkedIn, Wikipedia, GitHub, Slack, and even Meta’s own properties like Threads and its internal AI assistant Metamate. The stated purpose was to train AI agents capable of performing white-collar tasks autonomously. Employees were asked to enable the tool via a pop-up on their work laptops, though the distinction between voluntary and mandatory participation became blurred when the same company was simultaneously announcing a 10 percent workforce reduction. The juxtaposition was not lost on anyone inside or outside the organization. Meta was recording exactly how its employees worked so that AI systems could learn to do those jobs, and then it was laying off those same employees.
+
+![Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 This article provides the most comprehensive analysis available of the May 2026 Meta layoffs. It draws on official company statements, SEC filings, internal memos published by Bloomberg and Reuters, verified employee accounts from Blind and Reddit, California WARN Act filings, immigration law analysis, financial modeling, and on-the-ground reporting from multiple technology outlets. It covers every dimension of this event, from the corporate strategy driving the cuts to the individual human consequences of losing a job in a market where over 92,000 tech workers have already been laid off in 2026 alone.
 
