@@ -225,7 +225,8 @@
       "byd"
     ],
     "exclude": [
-      "mercedes"
+      "mercedes",
+      "bmw"
     ]
   },
   "russia": {
