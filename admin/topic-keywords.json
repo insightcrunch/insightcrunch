@@ -206,9 +206,7 @@
     "exclude": []
   },
   "modi": {
-    "include": [
-      "Modi"
-    ],
+    "include": [],
     "exclude": []
   },
   "china": {
