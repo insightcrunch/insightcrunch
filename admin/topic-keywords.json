@@ -224,7 +224,9 @@
       "south china sea",
       "byd"
     ],
-    "exclude": []
+    "exclude": [
+      "bmw"
+    ]
   },
   "russia": {
     "include": [
