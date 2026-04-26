@@ -33,7 +33,7 @@ All admin pages are encrypted with [StatiCrypt](https://github.com/robinmoisson/
 - Direct GitHub API writes (via PAT) for tools that need to commit changes back to the repo
 - Single shared salt across all pages means single sign-on behavior
 
-**Why a PAT is embedded in the client:** The admin pages are encrypted with a 4-character password (`7777`). Anyone who unlocks the dashboard has full write access to the repo. The PAT is a convenience, not a security boundary. The actual security comes from the StatiCrypt encryption layer.
+**Why a PAT is embedded in the client:** The admin pages are encrypted with a password. Anyone who unlocks the dashboard has full write access to the repo. The PAT is a convenience, not a security boundary. The actual security comes from the StatiCrypt encryption layer.
 
 ---
 
@@ -131,16 +131,16 @@ When asked to modify or add admin pages, follow this exact sequence to avoid dis
 
 ```bash
 cd admin
-npx staticrypt --decrypt -p 7777 -s 0225b0a7b3aac02f31e146d7af8711cb --short -d decrypted -c false TARGET.html
+npx staticrypt --decrypt -p XYZA -s 0225b0a7b3aac02f31e146d7af8711cb --short -d decrypted -c false TARGET.html
 ```
 
-Replace `TARGET.html` with one or more filenames. Decrypted inner HTML lands in `admin/decrypted/TARGET.html`.
+Replace `TARGET.html` with one or more filenames. Replace XYZA with the password. Decrypted inner HTML lands in `admin/decrypted/TARGET.html`.
 
 ### One-Command Encrypt
 
 ```bash
 npx staticrypt INNER.html \
-  -p 7777 \
+  -p XYZA \
   -s 0225b0a7b3aac02f31e146d7af8711cb \
   -t admin/ic-password-template.html \
   -d output \
@@ -164,7 +164,7 @@ grep -c '0225b0a7b3aac02f31e146d7af8711cb' output/TARGET.html
 # Must print 1
 
 # 2. Round-trip decrypt
-npx staticrypt --decrypt -p 7777 -s 0225b0a7b3aac02f31e146d7af8711cb --short -d verify -c false output/TARGET.html
+npx staticrypt --decrypt -p XYZA -s 0225b0a7b3aac02f31e146d7af8711cb --short -d verify -c false output/TARGET.html
 head -1 verify/TARGET.html
 # Must show <!DOCTYPE html>
 
@@ -780,7 +780,7 @@ Fix: Check browser console. Common issues: rate limit, invalid PAT, merge confli
 
 | Item | Value |
 |------|-------|
-| Admin password | `7777` |
+| Admin password | Ask user |
 | Shared salt | `0225b0a7b3aac02f31e146d7af8711cb` |
 | localStorage expiration key | `staticrypt_expiration` |
 | localStorage passphrase key | `staticrypt_passphrase` |
@@ -803,14 +803,14 @@ Fix: Check browser console. Common issues: rate limit, invalid PAT, merge confli
 
 ```bash
 # Decrypt one or more admin files
-npx staticrypt --decrypt -p 7777 -s 0225b0a7b3aac02f31e146d7af8711cb --short -d decrypted -c false FILE.html
+npx staticrypt --decrypt -p XYZA -s 0225b0a7b3aac02f31e146d7af8711cb --short -d decrypted -c false FILE.html
 
 # Encrypt one or more inner HTML files
-npx staticrypt FILE.html -p 7777 -s 0225b0a7b3aac02f31e146d7af8711cb -t admin/ic-password-template.html -d output --remember 30 --template-title "Admin Area" --template-button UNLOCK --template-placeholder "Enter password" --template-error "Incorrect password. Please try again." --template-instructions "Enter the admin password to access this page." --short -c false
+npx staticrypt FILE.html -p XYZA -s 0225b0a7b3aac02f31e146d7af8711cb -t admin/ic-password-template.html -d output --remember 30 --template-title "Admin Area" --template-button UNLOCK --template-placeholder "Enter password" --template-error "Incorrect password. Please try again." --template-instructions "Enter the admin password to access this page." --short -c false
 
 # Round-trip verify
 grep -c '0225b0a7b3aac02f31e146d7af8711cb' output/FILE.html    # must be 1
-npx staticrypt --decrypt -p 7777 -s 0225b0a7b3aac02f31e146d7af8711cb --short -d verify -c false output/FILE.html
+npx staticrypt --decrypt -p XYZA -s 0225b0a7b3aac02f31e146d7af8711cb --short -d verify -c false output/FILE.html
 head -1 verify/FILE.html    # must be <!DOCTYPE html>
 
 # Run any build script locally
