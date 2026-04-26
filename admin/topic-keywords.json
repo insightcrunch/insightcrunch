@@ -1,0 +1,66 @@
+{
+  "technology": {
+    "include": ["tech", "software", "hardware", "app", "startup", "developer", "computing", "digital"],
+    "exclude": []
+  },
+  "business": {
+    "include": ["business", "market", "economy", "earnings", "stock", "revenue", "trade", "finance", "investment"],
+    "exclude": []
+  },
+  "world": {
+    "include": ["war", "peace", "diplomacy", "conflict", "government", "minister", "president", "election", "policy"],
+    "exclude": []
+  },
+  "health": {
+    "include": ["health", "medical", "disease", "vaccine", "hospital", "patient", "drug", "treatment", "mental health"],
+    "exclude": []
+  },
+  "entertainment": {
+    "include": ["movie", "film", "actor", "actress", "bollywood", "hollywood", "celebrity", "album", "concert", "streaming", "netflix", "box office", "premiere", "series", "music", "singer", "award"],
+    "exclude": []
+  },
+  "ai": {
+    "include": ["artificial intelligence", "machine learning", "deep learning", "chatbot", "openai", "generative", "llm", "neural", "gpt", "claude", "gemini"],
+    "exclude": []
+  },
+  "swe": {
+    "include": ["software", "developer", "programming", "code", "github", "open source", "framework", "api", "devops", "engineering"],
+    "exclude": []
+  },
+  "jobs": {
+    "include": ["hiring", "jobs", "career", "salary", "interview", "recruitment", "talent", "workforce", "skills", "employment"],
+    "exclude": []
+  },
+  "cloud": {
+    "include": ["cloud", "aws", "azure", "kubernetes", "docker", "devops", "serverless", "infrastructure", "microservice"],
+    "exclude": []
+  },
+  "data": {
+    "include": ["data", "analytics", "dashboard", "visualization", "database", "sql", "warehouse", "pipeline", "spark", "hadoop"],
+    "exclude": []
+  },
+  "layoffs": {
+    "include": ["layoff", "layoffs", "laid off", "firing", "fired", "job cuts", "downsizing", "restructuring", "redundancy", "severance", "workforce reduction", "headcount", "elimination", "cutting jobs", "let go"],
+    "exclude": ["hiring", "expansion", "new jobs"]
+  },
+  "geopolitics": {
+    "include": ["war", "conflict", "sanctions", "military", "ceasefire", "missile", "nato", "nuclear", "treaty", "invasion", "troops", "border", "diplomacy", "arms"],
+    "exclude": []
+  },
+  "trump": {
+    "include": ["trump", "maga", "white house", "presidential", "republican", "gop"],
+    "exclude": []
+  },
+  "modi": {
+    "include": ["modi", "bjp", "india pm", "saffron", "hindu", "lok sabha", "rajya sabha", "nda"],
+    "exclude": []
+  },
+  "china": {
+    "include": ["china", "chinese", "beijing", "xi jinping", "ccp", "taiwan", "south china sea", "huawei", "byd"],
+    "exclude": []
+  },
+  "russia": {
+    "include": ["russia", "russian", "putin", "kremlin", "ukraine", "moscow", "nato", "zelensky"],
+    "exclude": []
+  }
+}
