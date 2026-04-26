@@ -207,14 +207,7 @@
   },
   "modi": {
     "include": [
-      "modi",
-      "bjp",
-      "india pm",
-      "saffron",
-      "hindu",
-      "lok sabha",
-      "rajya sabha",
-      "nda"
+      "modi"
     ],
     "exclude": []
   },
