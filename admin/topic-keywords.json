@@ -225,7 +225,9 @@
       "byd",
       "huawei"
     ],
-    "exclude": []
+    "exclude": [
+      "bmw"
+    ]
   },
   "russia": {
     "include": [
