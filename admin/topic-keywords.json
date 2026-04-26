@@ -192,7 +192,9 @@
       "diplomacy",
       "arms"
     ],
-    "exclude": []
+    "exclude": [
+      "russia"
+    ]
   },
   "trump": {
     "include": [
