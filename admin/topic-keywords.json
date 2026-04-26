@@ -226,7 +226,9 @@
       "huawei",
       "bmw"
     ],
-    "exclude": []
+    "exclude": [
+      "poised"
+    ]
   },
   "russia": {
     "include": [
