@@ -6,17 +6,17 @@ date: 2014-04-05
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "class", "marriage", "themes", "literary-analysis", "feminism"]
 excerpt: "Class and marriage in Pride and Prejudice are not separate themes but a single system. The five Bennet daughters are case studies in its harsh arithmetic."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2014-04-05
+lang: en
 ---
-
 Class and marriage in Pride and Prejudice are not two separate themes that Austen explores in parallel. They are a single system, examined from different angles, and the novel's plot is a series of case studies in how that system produces specific outcomes for specific women. Austen supplies the arithmetic with unusual precision: annual incomes, marriage settlements, the legal mechanism of the entail, the hierarchy of gentry and trade. Most popular treatments mention these numbers in passing and then return to the romance. This article does the opposite. It foregrounds the economics, reconstructs the arithmetic, and argues that the romance is what Austen gave readers to make the market study bearable.
 
 <!--more-->
 
-![Class and Marriage in Pride and Prejudice - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Class and Marriage in Pride and Prejudice - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The Bennet family faces a problem that is not primarily emotional, romantic, or even moral. It is actuarial. Mr. Bennet's estate at Longbourn produces approximately two thousand pounds per year. The estate is entailed in tail male, meaning it passes to his nearest male relative, Mr. Collins, upon Mr. Bennet's death. Mrs. Bennet's marriage settlement is five thousand pounds, a lump sum whose interest (at the standard five percent) yields approximately two hundred and fifty pounds per year. When Mr. Bennet dies, six people (Mrs. Bennet and five daughters) must survive on that income, unless the daughters marry. Two hundred and fifty pounds divided among six is roughly forty-two pounds per person per year, an amount that places the family firmly below the threshold of gentry-adjacent respectability. The urgency that drives Mrs. Bennet's behavior, the urgency that Elizabeth half-mocks and half-fears, is not neurosis. It is arithmetic.
 
