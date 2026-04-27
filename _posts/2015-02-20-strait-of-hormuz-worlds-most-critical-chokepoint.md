@@ -7,7 +7,7 @@ tags: ["Oil", "Energy", "Middle East"]
 excerpt: "The Strait of Hormuz carries 20 percent of global oil supply and has no viable replacement. This 39-km waterway fundamentally shapes the world economy"
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 80
-author: "insight-crunch-team"
+author: "jason-mckenzie"
 last_updated: 2026-04-25
 lang: en
 ---
