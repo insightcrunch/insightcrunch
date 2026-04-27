@@ -2,7 +2,7 @@
 layout: post
 title: "Strait of Hormuz: World's Most Critical Chokepoint"
 date: 2015-02-20
-categories: ["Geopolitics"]
+categories: ["Industry"]
 tags: ["Oil", "Energy", "Middle East"]
 excerpt: "The Strait of Hormuz carries 20 percent of global oil supply and has no viable replacement. This 39-km waterway fundamentally shapes the world economy"
 image: "/assets/images/blog/blog-89.webp"
