@@ -1323,6 +1323,22 @@ if ('requestIdleCallback' in window) {
 .ic-bl-msg{font-family:'Inter',sans-serif;font-size:13px;color:rgba(232,212,138,.7);line-height:1.7;margin:0 0 22px;font-weight:300}
 .ic-bl-timer{font-family:'DM Sans','Inter',sans-serif;font-size:28px;font-weight:700;color:#c9a84c;letter-spacing:2px;margin-bottom:6px}
 .ic-bl-sub{font-family:'Inter',sans-serif;font-size:10px;color:rgba(201,168,76,.45);letter-spacing:1.5px;text-transform:uppercase}
+.ic-bl-appeal-toggle{display:inline-block;margin-top:18px;font-family:'Inter',sans-serif;font-size:11px;color:rgba(201,168,76,.5);cursor:pointer;border:none;background:none;transition:color .2s;padding:0}
+.ic-bl-appeal-toggle:hover{color:var(--gold,#c9a84c)}
+.ic-bl-appeal-toggle.done{pointer-events:none;color:rgba(201,168,76,.35)}
+.ic-bl-appeal-body{max-height:0;overflow:hidden;transition:max-height .35s ease,opacity .3s ease;opacity:0}
+.ic-bl-appeal-body.open{max-height:120px;opacity:1}
+.ic-bl-appeal-row{display:flex;gap:6px;align-items:center;margin-top:14px;padding:0 4px}
+.ic-bl-appeal-row input{flex:1;min-width:0;padding:8px 10px;border:1px solid rgba(201,168,76,.2);border-radius:6px;background:rgba(255,255,255,.05);color:#f0e6d0;font-family:'Inter',sans-serif;font-size:12px;font-weight:300;outline:none;transition:border-color .2s}
+.ic-bl-appeal-row input::placeholder{color:rgba(201,168,76,.3);font-size:11px}
+.ic-bl-appeal-row input:focus{border-color:rgba(201,168,76,.5)}
+.ic-bl-appeal-send{flex-shrink:0;width:34px;height:34px;border:none;border-radius:6px;background:linear-gradient(135deg,#b06010,#d07820);color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:opacity .2s,transform .2s;padding:0}
+.ic-bl-appeal-send:hover{opacity:.88;transform:translateY(-1px)}
+.ic-bl-appeal-send:disabled{opacity:.4;cursor:default;transform:none}
+.ic-bl-appeal-send svg{width:16px;height:16px}
+.ic-bl-appeal-ok{font-family:'Inter',sans-serif;font-size:11px;color:rgba(201,168,76,.6);margin-top:12px;line-height:1.5}
+.ic-bl-appeal-err{font-family:'Inter',sans-serif;font-size:10px;color:#c0523a;margin-top:6px}
+@media(max-width:500px){.ic-bl-appeal-row{flex-wrap:wrap}.ic-bl-appeal-row input:first-child{flex:1 1 100%}.ic-bl-appeal-row input:nth-child(2){flex:1 1 auto}}
 </style>
 <script>
 (function(){
@@ -1345,6 +1361,9 @@ if ('requestIdleCallback' in window) {
   }
 
   /* --- Overlay --- */
+  var postTitle = '';
+  try { var h1El = document.querySelector('.post-header h1'); if (h1El) postTitle = h1El.textContent.trim(); } catch(e){}
+
   function showOverlay(expiry){
     if (document.getElementById('icBlOverlay')) return;
     var ov = document.createElement('div');
@@ -1356,10 +1375,56 @@ if ('requestIdleCallback' in window) {
       + '<p class="ic-bl-msg">Your access has been suspended for one hour due to suspicious copying behavior.<br>This action was logged. Please respect our content policy.</p>'
       + '<div class="ic-bl-timer" id="icBlTimer">--:--</div>'
       + '<div class="ic-bl-sub">until access is restored</div>'
+      + '<button type="button" class="ic-bl-appeal-toggle" id="icBlAppealTog">Think this was a mistake?</button>'
+      + '<div class="ic-bl-appeal-body" id="icBlAppealBody">'
+      +   '<div class="ic-bl-appeal-row">'
+      +     '<input type="email" id="icBlEmail" placeholder="Your email" autocomplete="email">'
+      +     '<input type="text" id="icBlReason" placeholder="Brief reason">'
+      +     '<button type="button" class="ic-bl-appeal-send" id="icBlAppealSend"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L11 13"/><path d="M22 2L15 22L11 13L2 9L22 2Z"/></svg></button>'
+      +   '</div>'
+      +   '<div id="icBlAppealMsg"></div>'
+      + '</div>'
       + '</div>';
     document.body.appendChild(ov);
     document.body.style.overflow = 'hidden';
     tickTimer(expiry);
+
+    /* Accordion toggle */
+    var tog = document.getElementById('icBlAppealTog');
+    var body = document.getElementById('icBlAppealBody');
+    tog.addEventListener('click', function(){ body.classList.toggle('open'); });
+
+    /* Submit appeal */
+    var sendBtn = document.getElementById('icBlAppealSend');
+    sendBtn.addEventListener('click', function(){
+      var email = document.getElementById('icBlEmail').value.trim();
+      var reason = document.getElementById('icBlReason').value.trim();
+      var msgEl = document.getElementById('icBlAppealMsg');
+      if (!email || !reason){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Both fields are required.'; return; }
+      sendBtn.disabled = true;
+      var fd = new FormData();
+      fd.append('access_key', 'f2224780-1439-4498-b498-0990ba34625c');
+      fd.append('subject', '[Copy Appeal] Post: ' + postTitle);
+      fd.append('email', email);
+      fd.append('message', reason);
+      fd.append('page_url', window.location.href);
+      fetch('https://api.web3forms.com/submit', { method: 'POST', body: fd })
+        .then(function(r){ return r.json(); })
+        .then(function(d){
+          if (d.success){
+            body.innerHTML = '<div class="ic-bl-appeal-ok">Appeal received. We will review within 24 hours.</div>';
+            tog.textContent = 'Appeal submitted';
+            tog.classList.add('done');
+          } else {
+            msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Submission failed. Try again.';
+            sendBtn.disabled = false;
+          }
+        })
+        .catch(function(){
+          msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Network error. Try again.';
+          sendBtn.disabled = false;
+        });
+    });
   }
   function tickTimer(expiry){
     var td = document.getElementById('icBlTimer');
