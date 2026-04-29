@@ -1310,3 +1310,27 @@ if ('requestIdleCallback' in window) {
     });
   }
 </script>
+
+<!-- Anti-plagiarism: truncate copied text to first sentence + attribution -->
+<script>
+(function(){
+  var el = document.querySelector('.post-content');
+  if (!el) return;
+  el.addEventListener('copy', function(e){
+    var sel = window.getSelection();
+    if (!sel || !sel.toString().trim()) return;
+    var raw = sel.toString().trim();
+    /* Extract first sentence: split on . ! ? followed by space or end */
+    var m = raw.match(/^[\s\S]*?[.!?](?=\s|$)/);
+    var first = m ? m[0].trim() : raw.split(/\s+/).slice(0, 12).join(' ') + '...';
+    var url = window.location.href;
+    var out = first
+      + '\n\nContinue reading at: ' + url
+      + '\nThis article originally appeared on ' + url;
+    e.preventDefault();
+    if (e.clipboardData) {
+      e.clipboardData.setData('text/plain', out);
+    }
+  });
+})();
+</script>
