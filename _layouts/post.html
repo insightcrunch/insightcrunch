@@ -1403,7 +1403,8 @@ if ('requestIdleCallback' in window) {
       if (!email || !reason){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Both fields are required.'; return; }
       sendBtn.disabled = true;
       var fd = new FormData();
-      fd.append('access_key', 'f2224780-1439-4498-b498-0990ba34625c');
+      fd.append('access_key', '9cb6841a-a3a8-47d1-9598-672b68ab314c');
+      fd.append('from_name', 'IC Copy Appeal');
       fd.append('subject', '[Copy Appeal] Post: ' + postTitle);
       fd.append('email', email);
       fd.append('message', reason);
