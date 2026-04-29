@@ -1327,7 +1327,7 @@ if ('requestIdleCallback' in window) {
 .ic-bl-appeal-toggle:hover{color:var(--gold,#c9a84c)}
 .ic-bl-appeal-toggle.done{pointer-events:none;color:rgba(201,168,76,.35)}
 .ic-bl-appeal-body{max-height:0;overflow:hidden;transition:max-height .35s ease,opacity .3s ease;opacity:0}
-.ic-bl-appeal-body.open{max-height:120px;opacity:1}
+.ic-bl-appeal-body.open{max-height:160px;opacity:1}
 .ic-bl-appeal-row{display:flex;gap:6px;align-items:center;margin-top:14px;padding:0 4px}
 .ic-bl-appeal-row input{flex:1;min-width:0;padding:8px 10px;border:1px solid rgba(201,168,76,.2);border-radius:6px;background:rgba(255,255,255,.05);color:#f0e6d0;font-family:'Inter',sans-serif;font-size:12px;font-weight:300;outline:none;transition:border-color .2s}
 .ic-bl-appeal-row input::placeholder{color:rgba(201,168,76,.3);font-size:11px}
@@ -1337,6 +1337,8 @@ if ('requestIdleCallback' in window) {
 .ic-bl-appeal-send:disabled{opacity:.4;cursor:default;transform:none}
 .ic-bl-appeal-send svg{width:16px;height:16px}
 .ic-bl-appeal-ok{font-family:'Inter',sans-serif;font-size:11px;color:rgba(201,168,76,.6);margin-top:12px;line-height:1.5}
+.ic-bl-appeal-ok a{color:rgba(201,168,76,.45);cursor:pointer;text-decoration:underline;font-size:10px;transition:color .2s}
+.ic-bl-appeal-ok a:hover{color:var(--gold,#c9a84c)}
 .ic-bl-appeal-err{font-family:'Inter',sans-serif;font-size:10px;color:#c0523a;margin-top:6px}
 @media(max-width:500px){.ic-bl-appeal-row{flex-wrap:wrap}.ic-bl-appeal-row input:first-child{flex:1 1 100%}.ic-bl-appeal-row input:nth-child(2){flex:1 1 auto}}
 </style>
@@ -1395,37 +1397,64 @@ if ('requestIdleCallback' in window) {
     tog.addEventListener('click', function(){ body.classList.toggle('open'); });
 
     /* Submit appeal */
-    var sendBtn = document.getElementById('icBlAppealSend');
-    sendBtn.addEventListener('click', function(){
-      var email = document.getElementById('icBlEmail').value.trim();
-      var reason = document.getElementById('icBlReason').value.trim();
-      var msgEl = document.getElementById('icBlAppealMsg');
-      if (!email || !reason){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Both fields are required.'; return; }
-      sendBtn.disabled = true;
-      var fd = new FormData();
-      fd.append('access_key', '9cb6841a-a3a8-47d1-9598-672b68ab314c');
-      fd.append('from_name', 'IC Copy Appeal');
-      fd.append('subject', '[Copy Appeal] Post: ' + postTitle);
-      fd.append('email', email);
-      fd.append('message', reason);
-      fd.append('page_url', window.location.href);
-      fetch('https://api.web3forms.com/submit', { method: 'POST', body: fd })
-        .then(function(r){ return r.json(); })
-        .then(function(d){
-          if (d.success){
-            body.innerHTML = '<div class="ic-bl-appeal-ok">Appeal received. We will review within 24 hours.</div>';
-            tog.textContent = 'Appeal submitted';
-            tog.classList.add('done');
-          } else {
-            msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Submission failed. Try again.';
+    var appealRowHTML =
+        '<div class="ic-bl-appeal-row">'
+      + '<input type="email" id="icBlEmail" placeholder="Your email" autocomplete="email">'
+      + '<input type="text" id="icBlReason" placeholder="Brief reason" maxlength="500">'
+      + '<button type="button" class="ic-bl-appeal-send" id="icBlAppealSend"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2L11 13"/><path d="M22 2L15 22L11 13L2 9L22 2Z"/></svg></button>'
+      + '</div>'
+      + '<div id="icBlAppealMsg"></div>';
+
+    function wireAppealSubmit(){
+      var sendBtn = document.getElementById('icBlAppealSend');
+      sendBtn.addEventListener('click', function(){
+        var email = document.getElementById('icBlEmail').value.trim();
+        var reason = document.getElementById('icBlReason').value.trim();
+        var msgEl = document.getElementById('icBlAppealMsg');
+        msgEl.textContent = '';
+
+        /* --- Validation: 8 checks, first failure wins --- */
+        if (!email || !reason){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Both fields are required.'; return; }
+        if (email.length < 6){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Please enter a valid email address.'; return; }
+        if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Please enter a valid email address.'; return; }
+        var eParts = email.split('@'); if (eParts[0].toLowerCase() === eParts[1].split('.')[0].toLowerCase()){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Please enter a real email address.'; return; }
+        if (reason.length < 20){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Reason must be at least 20 characters.'; return; }
+        if (reason.length > 500){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Reason cannot exceed 500 characters.'; return; }
+        var words = reason.split(/\s+/).filter(function(w){ return w.length > 0; });
+        var unique = {}; words.forEach(function(w){ unique[w.toLowerCase()] = 1; });
+        if (Object.keys(unique).length < 3){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Please describe your reason in at least 3 words.'; return; }
+        if (/https?:\/\/|www\./i.test(reason)){ msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'URLs are not allowed in the reason field.'; return; }
+
+        /* --- Submit --- */
+        sendBtn.disabled = true;
+        var fd = new FormData();
+        fd.append('access_key', '9cb6841a-a3a8-47d1-9598-672b68ab314c');
+        fd.append('from_name', 'IC Copy Appeal');
+        fd.append('subject', '[Copy Appeal] Post: ' + postTitle);
+        fd.append('email', email);
+        fd.append('message', reason);
+        fd.append('page_url', window.location.href);
+        fetch('https://api.web3forms.com/submit', { method: 'POST', body: fd })
+          .then(function(r){ return r.json(); })
+          .then(function(d){
+            if (d.success){
+              body.innerHTML = '<div class="ic-bl-appeal-ok">Appeal received for review.<br><a id="icBlAgain">Submit another appeal</a></div>';
+              document.getElementById('icBlAgain').addEventListener('click', function(){
+                body.innerHTML = appealRowHTML;
+                wireAppealSubmit();
+              });
+            } else {
+              msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Submission failed. Try again.';
+              sendBtn.disabled = false;
+            }
+          })
+          .catch(function(){
+            msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Network error. Try again.';
             sendBtn.disabled = false;
-          }
-        })
-        .catch(function(){
-          msgEl.className = 'ic-bl-appeal-err'; msgEl.textContent = 'Network error. Try again.';
-          sendBtn.disabled = false;
-        });
-    });
+          });
+      });
+    }
+    wireAppealSubmit();
   }
   function tickTimer(expiry){
     var td = document.getElementById('icBlTimer');
