@@ -1311,26 +1311,101 @@ if ('requestIdleCallback' in window) {
   }
 </script>
 
-<!-- Anti-plagiarism: truncate copied text to first sentence + attribution -->
+<!-- Anti-plagiarism: first-sentence truncation + 5-attempt blacklist (1 hr ban) -->
+<style>
+.ic-bl-overlay{position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;background:rgba(10,6,2,.88);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);opacity:0;animation:icBlIn .5s ease forwards}
+@keyframes icBlIn{to{opacity:1}}
+.ic-bl-card{max-width:440px;width:90vw;text-align:center;background:linear-gradient(180deg,#1c1208 0%,#0e0904 100%);border:1.5px solid rgba(201,168,76,.3);border-radius:16px;padding:44px 32px 36px;box-shadow:0 30px 80px rgba(0,0,0,.6),0 0 60px rgba(176,96,16,.12);position:relative;overflow:hidden}
+.ic-bl-card::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at 50% 0%,rgba(201,168,76,.08) 0%,transparent 70%);pointer-events:none}
+.ic-bl-icon{font-size:42px;margin-bottom:16px;display:block;animation:icBlPulse 2s ease-in-out infinite}
+@keyframes icBlPulse{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.08);opacity:.8}}
+.ic-bl-title{font-family:'Lora',serif;font-size:20px;font-weight:600;color:#f0e6d0;margin:0 0 10px;letter-spacing:-.2px}
+.ic-bl-msg{font-family:'Inter',sans-serif;font-size:13px;color:rgba(232,212,138,.7);line-height:1.7;margin:0 0 22px;font-weight:300}
+.ic-bl-timer{font-family:'DM Sans','Inter',sans-serif;font-size:28px;font-weight:700;color:#c9a84c;letter-spacing:2px;margin-bottom:6px}
+.ic-bl-sub{font-family:'Inter',sans-serif;font-size:10px;color:rgba(201,168,76,.45);letter-spacing:1.5px;text-transform:uppercase}
+</style>
 <script>
 (function(){
-  var el = document.querySelector('.post-content');
+  var BL_KEY = 'ic_cp_bl', COUNT_KEY = 'ic_cp_n', MAX = 5, BAN_MS = 3600000;
+  var el = document.querySelector('article');
   if (!el) return;
+
+  /* --- Check existing ban --- */
+  function getBan(){
+    try { var t = localStorage.getItem(BL_KEY); return t && Date.now() < parseInt(t,10) ? parseInt(t,10) : 0; } catch(e){ return 0; }
+  }
+  function getCount(){
+    try { return parseInt(localStorage.getItem(COUNT_KEY),10) || 0; } catch(e){ return 0; }
+  }
+  function setCount(n){
+    try { localStorage.setItem(COUNT_KEY, n); } catch(e){}
+  }
+  function setBan(){
+    try { var exp = Date.now() + BAN_MS; localStorage.setItem(BL_KEY, exp); localStorage.removeItem(COUNT_KEY); return exp; } catch(e){ return Date.now() + BAN_MS; }
+  }
+
+  /* --- Overlay --- */
+  function showOverlay(expiry){
+    if (document.getElementById('icBlOverlay')) return;
+    var ov = document.createElement('div');
+    ov.className = 'ic-bl-overlay'; ov.id = 'icBlOverlay';
+    ov.innerHTML =
+      '<div class="ic-bl-card">'
+      + '<span class="ic-bl-icon">\u26D4</span>'
+      + '<h2 class="ic-bl-title">Session Terminated</h2>'
+      + '<p class="ic-bl-msg">Your access has been suspended for one hour due to suspicious copying behavior.<br>This action was logged. Please respect our content policy.</p>'
+      + '<div class="ic-bl-timer" id="icBlTimer">--:--</div>'
+      + '<div class="ic-bl-sub">until access is restored</div>'
+      + '</div>';
+    document.body.appendChild(ov);
+    document.body.style.overflow = 'hidden';
+    tickTimer(expiry);
+  }
+  function tickTimer(expiry){
+    var td = document.getElementById('icBlTimer');
+    if (!td) return;
+    var iv = setInterval(function(){
+      var left = expiry - Date.now();
+      if (left <= 0){ clearInterval(iv); location.reload(); return; }
+      var m = Math.floor(left/60000), s = Math.floor((left%60000)/1000);
+      td.textContent = (m<10?'0':'') + m + ':' + (s<10?'0':'') + s;
+    }, 1000);
+  }
+
+  /* If already banned on page load, show immediately */
+  var existing = getBan();
+  if (existing){ showOverlay(existing); return; }
+
+  /* --- Copy interception --- */
   el.addEventListener('copy', function(e){
+    /* If banned mid-session */
+    if (getBan()){ e.preventDefault(); return; }
+
     var sel = window.getSelection();
     if (!sel || !sel.toString().trim()) return;
+
+    /* Increment count */
+    var n = getCount() + 1;
+    setCount(n);
+
+    /* Blacklist threshold reached */
+    if (n >= MAX){
+      e.preventDefault();
+      var exp = setBan();
+      showOverlay(exp);
+      return;
+    }
+
+    /* Normal truncation: first sentence + attribution */
     var raw = sel.toString().trim();
-    /* Extract first sentence: split on . ! ? followed by space or end */
-    var m = raw.match(/^[\s\S]*?[.!?](?=\s|$)/);
-    var first = m ? m[0].trim() : raw.split(/\s+/).slice(0, 12).join(' ') + '...';
+    var match = raw.match(/^[\s\S]*?[.!?](?=\s|$)/);
+    var first = match ? match[0].trim() : raw.split(/\s+/).slice(0,12).join(' ') + '...';
     var url = window.location.href;
     var out = first
       + '\n\nContinue reading at: ' + url
       + '\nThis article originally appeared on ' + url;
     e.preventDefault();
-    if (e.clipboardData) {
-      e.clipboardData.setData('text/plain', out);
-    }
+    if (e.clipboardData){ e.clipboardData.setData('text/plain', out); }
   });
 })();
 </script>
