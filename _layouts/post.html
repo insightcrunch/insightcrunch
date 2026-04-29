@@ -1377,12 +1377,13 @@ if ('requestIdleCallback' in window) {
   if (existing){ showOverlay(existing); return; }
 
   /* --- Copy interception --- */
+  var pc = document.querySelector('.post-content');
   el.addEventListener('copy', function(e){
     /* If banned mid-session */
     if (getBan()){ e.preventDefault(); return; }
 
     var sel = window.getSelection();
-    if (!sel || !sel.toString().trim()) return;
+    if (!sel || !sel.rangeCount || !sel.toString().trim()) return;
 
     /* Increment count */
     var n = getCount() + 1;
@@ -1396,11 +1397,32 @@ if ('requestIdleCallback' in window) {
       return;
     }
 
-    /* Normal truncation: first sentence + attribution */
-    var raw = sel.toString().trim();
-    var match = raw.match(/^[\s\S]*?[.!?](?=\s|$)/);
-    var first = match ? match[0].trim() : raw.split(/\s+/).slice(0,12).join(' ') + '...';
+    /* Determine what to put on clipboard */
+    var ph = document.querySelector('.post-header');
+    var origRange = sel.getRangeAt(0);
+    var headerInSelection = ph && origRange.intersectsNode(ph);
     var url = window.location.href;
+    var first;
+
+    if (headerInSelection) {
+      /* Title is in selection: use only the title, drop everything else */
+      var h1 = ph.querySelector('h1');
+      first = h1 ? h1.textContent.trim() : sel.toString().trim().split('\n')[0];
+    } else {
+      /* Body-only selection: clamp to .post-content, take first sentence */
+      var pcRange = document.createRange();
+      pcRange.selectNodeContents(pc);
+      var clamped = origRange.cloneRange();
+      if (origRange.compareBoundaryPoints(Range.START_TO_START, pcRange) < 0)
+        clamped.setStart(pcRange.startContainer, pcRange.startOffset);
+      if (origRange.compareBoundaryPoints(Range.END_TO_END, pcRange) > 0)
+        clamped.setEnd(pcRange.endContainer, pcRange.endOffset);
+      var raw = clamped.toString().trim();
+      if (!raw) raw = sel.toString().trim();
+      var match = raw.match(/^[\s\S]*?[.!?](?=\s|$)/);
+      first = match ? match[0].trim() : raw.split(/\s+/).slice(0,12).join(' ') + '...';
+    }
+
     var out = first
       + '\n\nContinue reading at: ' + url
       + '\nThis article originally appeared on ' + url;
