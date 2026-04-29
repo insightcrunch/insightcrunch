@@ -3288,6 +3288,12 @@ upsc-gs1-world-history-events-shaped-modern-world:
   category: industry
   image: /assets/images/blog/blog-78.webp
   lang: en
+- slug: strait-of-hormuz-worlds-most-critical-chokepoint
+  title: 'Strait of Hormuz: World''s Most Critical Chokepoint'
+  url: /2015/02/20/strait-of-hormuz-worlds-most-critical-chokepoint/
+  category: industry
+  image: /assets/images/blog/blog-89.webp
+  lang: en
 upsc-gs1-indian-history-ancient-modern-mains:
 - slug: upsc-mains-gs-paper-1-heritage-history-geography-society
   title: 'UPSC Mains GS Paper 1: Heritage, History, Geography Strategy'
@@ -5100,12 +5106,6 @@ change-is-finally-here:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
 - slug: battle-of-the-somme-explained
   title: The Battle of the Somme Explained
   url: /2015/12/01/battle-of-the-somme-explained/
@@ -5117,6 +5117,12 @@ change-is-finally-here:
   url: /2015/11/21/trench-warfare-ww1-explained/
   category: leisure
   image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 gmail-grows-up-with-offline-e-mail-access:
 - slug: email-by-sms-from-now-d
@@ -14998,12 +15004,6 @@ complete-analysis-1984-george-orwell:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
-- slug: brave-new-world-vs-1984-compared
-  title: Brave New World vs 1984 Compared
-  url: /2014/07/19/brave-new-world-vs-1984-compared/
-  category: leisure
-  image: /assets/images/blog/blog-14.webp
-  lang: en
 - slug: obrien-character-analysis-1984
   title: O'Brien Character Analysis in 1984
   url: /2013/12/31/obrien-character-analysis-1984/
@@ -15015,6 +15015,12 @@ complete-analysis-1984-george-orwell:
   url: /2014/01/05/julia-character-analysis-1984-orwell/
   category: leisure
   image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: winston-smith-character-analysis-1984
+  title: Winston Smith Character Analysis in 1984
+  url: /2013/12/11/winston-smith-character-analysis-1984/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
   lang: en
 - slug: 1984-chapter-summary-analysis-guide
   title: 1984 Chapter by Chapter Summary and Analysis
@@ -15104,12 +15110,6 @@ themes-symbolism-1984-orwell:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: brave-new-world-vs-1984-compared
-  title: Brave New World vs 1984 Compared
-  url: /2014/07/19/brave-new-world-vs-1984-compared/
-  category: leisure
-  image: /assets/images/blog/blog-14.webp
-  lang: en
 - slug: obrien-character-analysis-1984
   title: O'Brien Character Analysis in 1984
   url: /2013/12/31/obrien-character-analysis-1984/
@@ -15121,6 +15121,12 @@ themes-symbolism-1984-orwell:
   url: /2014/01/05/julia-character-analysis-1984-orwell/
   category: leisure
   image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: themes-symbolism-great-gatsby
+  title: Themes and Symbolism in The Great Gatsby
+  url: /2014/01/30/themes-symbolism-great-gatsby/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
   lang: en
 1984-chapter-summary-analysis-guide:
 - slug: complete-analysis-1984-george-orwell
@@ -15322,11 +15328,11 @@ daisy-buchanan-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: complete-analysis-great-gatsby
-  title: Complete Analysis of The Great Gatsby
-  url: /2014/01/10/complete-analysis-great-gatsby/
+- slug: mrs-bennet-character-analysis
+  title: Mrs. Bennet Character Analysis
+  url: /2014/04/10/mrs-bennet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-88.webp
   lang: en
 themes-symbolism-great-gatsby:
 - slug: american-dream-great-gatsby-analysis
@@ -15647,23 +15653,17 @@ complete-analysis-pride-and-prejudice:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
-  lang: en
-- slug: mrs-bennet-character-analysis
-  title: Mrs. Bennet Character Analysis
-  url: /2014/04/10/mrs-bennet-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
-  lang: en
 - slug: class-marriage-pride-and-prejudice
   title: Class and Marriage in Pride and Prejudice
   url: /2014/04/05/class-marriage-pride-and-prejudice/
   category: leisure
   image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: wickham-character-analysis-austen
+  title: Mr. Wickham Character Analysis
+  url: /2014/04/15/wickham-character-analysis-austen/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 elizabeth-bennet-character-analysis:
 - slug: mrs-bennet-character-analysis
@@ -15672,23 +15672,23 @@ elizabeth-bennet-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
-  lang: en
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
   url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: complete-analysis-pride-and-prejudice
-  title: Complete Analysis of Pride and Prejudice
-  url: /2014/03/21/complete-analysis-pride-and-prejudice/
+- slug: wickham-character-analysis-austen
+  title: Mr. Wickham Character Analysis
+  url: /2014/04/15/wickham-character-analysis-austen/
   category: leisure
-  image: /assets/images/blog/blog-21.webp
+  image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: jane-bennet-bingley-analysis
+  title: Jane Bennet and Mr. Bingley Analyzed
+  url: /2014/04/20/jane-bennet-bingley-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
   lang: en
 mr-darcy-character-analysis:
 - slug: wickham-character-analysis-austen
@@ -15697,23 +15697,23 @@ mr-darcy-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
-- slug: mrs-bennet-character-analysis
-  title: Mrs. Bennet Character Analysis
-  url: /2014/04/10/mrs-bennet-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
-  lang: en
 - slug: elizabeth-bennet-character-analysis
   title: Elizabeth Bennet Character Analysis
   url: /2014/03/26/elizabeth-bennet-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: complete-analysis-pride-and-prejudice
-  title: Complete Analysis of Pride and Prejudice
-  url: /2014/03/21/complete-analysis-pride-and-prejudice/
+- slug: mrs-bennet-character-analysis
+  title: Mrs. Bennet Character Analysis
+  url: /2014/04/10/mrs-bennet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-21.webp
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: jane-bennet-bingley-analysis
+  title: Jane Bennet and Mr. Bingley Analyzed
+  url: /2014/04/20/jane-bennet-bingley-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
   lang: en
 class-marriage-pride-and-prejudice:
 - slug: complete-analysis-pride-and-prejudice
@@ -15722,23 +15722,23 @@ class-marriage-pride-and-prejudice:
   category: leisure
   image: /assets/images/blog/blog-21.webp
   lang: en
-- slug: mrs-bennet-character-analysis
-  title: Mrs. Bennet Character Analysis
-  url: /2014/04/10/mrs-bennet-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
-  lang: en
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
   url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
+- slug: social-class-classic-novels-compared
+  title: Social Class in Classic Novels Compared
+  url: /2015/01/20/social-class-classic-novels-compared/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: themes-independence-jane-eyre
+  title: Independence and Feminism in Jane Eyre
+  url: /2014/10/27/themes-independence-jane-eyre/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 mrs-bennet-character-analysis:
 - slug: elizabeth-bennet-character-analysis
@@ -15747,17 +15747,17 @@ mrs-bennet-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
-  lang: en
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
   url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-07.webp
+  lang: en
+- slug: wickham-character-analysis-austen
+  title: Mr. Wickham Character Analysis
+  url: /2014/04/15/wickham-character-analysis-austen/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 - slug: jane-bennet-bingley-analysis
   title: Jane Bennet and Mr. Bingley Analyzed
@@ -15766,12 +15766,6 @@ mrs-bennet-character-analysis:
   image: /assets/images/blog/blog-04.webp
   lang: en
 wickham-character-analysis-austen:
-- slug: mrs-bennet-character-analysis
-  title: Mrs. Bennet Character Analysis
-  url: /2014/04/10/mrs-bennet-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
-  lang: en
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
   url: /2014/03/31/mr-darcy-character-analysis/
@@ -15784,11 +15778,17 @@ wickham-character-analysis-austen:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: complete-analysis-pride-and-prejudice
-  title: Complete Analysis of Pride and Prejudice
-  url: /2014/03/21/complete-analysis-pride-and-prejudice/
+- slug: mrs-bennet-character-analysis
+  title: Mrs. Bennet Character Analysis
+  url: /2014/04/10/mrs-bennet-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-21.webp
+  image: /assets/images/blog/blog-88.webp
+  lang: en
+- slug: jane-bennet-bingley-analysis
+  title: Jane Bennet and Mr. Bingley Analyzed
+  url: /2014/04/20/jane-bennet-bingley-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
   lang: en
 is-meta-hiring-freeze-2022:
 - slug: meta-hiring-freeze-2022
@@ -15828,19 +15828,25 @@ jane-bennet-bingley-analysis:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
-  lang: en
 - slug: mr-darcy-character-analysis
   title: Mr. Darcy Character Analysis
   url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-07.webp
   lang: en
+- slug: wickham-character-analysis-austen
+  title: Mr. Wickham Character Analysis
+  url: /2014/04/15/wickham-character-analysis-austen/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
+  lang: en
 complete-analysis-lord-of-the-flies:
+- slug: ralph-character-analysis-lord-flies
+  title: Ralph Character Analysis in Lord of the Flies
+  url: /2014/04/30/ralph-character-analysis-lord-flies/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: simon-character-analysis-lord-flies
   title: Simon Character Analysis in Lord of the Flies
   url: /2014/05/15/simon-character-analysis-lord-flies/
@@ -15852,12 +15858,6 @@ complete-analysis-lord-of-the-flies:
   url: /2014/05/10/piggy-character-analysis-lord-flies/
   category: leisure
   image: /assets/images/blog/blog-38.webp
-  lang: en
-- slug: ralph-character-analysis-lord-flies
-  title: Ralph Character Analysis in Lord of the Flies
-  url: /2014/04/30/ralph-character-analysis-lord-flies/
-  category: leisure
-  image: /assets/images/blog/blog-71.webp
   lang: en
 - slug: themes-symbolism-lord-of-the-flies
   title: Themes and Symbolism in Lord of the Flies
@@ -15866,29 +15866,29 @@ complete-analysis-lord-of-the-flies:
   image: /assets/images/blog/blog-83.webp
   lang: en
 ralph-character-analysis-lord-flies:
-- slug: piggy-character-analysis-lord-flies
-  title: Piggy Character Analysis in Lord of the Flies
-  url: /2014/05/10/piggy-character-analysis-lord-flies/
-  category: leisure
-  image: /assets/images/blog/blog-38.webp
-  lang: en
 - slug: simon-character-analysis-lord-flies
   title: Simon Character Analysis in Lord of the Flies
   url: /2014/05/15/simon-character-analysis-lord-flies/
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: jack-merridew-character-analysis
-  title: Jack Merridew Character Analysis
-  url: /2014/05/05/jack-merridew-character-analysis/
+- slug: piggy-character-analysis-lord-flies
+  title: Piggy Character Analysis in Lord of the Flies
+  url: /2014/05/10/piggy-character-analysis-lord-flies/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-38.webp
   lang: en
 - slug: complete-analysis-lord-of-the-flies
   title: Complete Analysis of Lord of the Flies
   url: /2014/04/25/complete-analysis-lord-of-the-flies/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: jack-merridew-character-analysis
+  title: Jack Merridew Character Analysis
+  url: /2014/05/05/jack-merridew-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
   lang: en
 jack-merridew-character-analysis:
 - slug: ralph-character-analysis-lord-flies
@@ -15941,42 +15941,48 @@ is-facebook-hiring-freeze-over:
   image: /assets/images/blog/blog-86.webp
   lang: en
 piggy-character-analysis-lord-flies:
-- slug: simon-character-analysis-lord-flies
-  title: Simon Character Analysis in Lord of the Flies
-  url: /2014/05/15/simon-character-analysis-lord-flies/
-  category: leisure
-  image: /assets/images/blog/blog-32.webp
-  lang: en
 - slug: ralph-character-analysis-lord-flies
   title: Ralph Character Analysis in Lord of the Flies
   url: /2014/04/30/ralph-character-analysis-lord-flies/
   category: leisure
   image: /assets/images/blog/blog-71.webp
   lang: en
-- slug: jack-merridew-character-analysis
-  title: Jack Merridew Character Analysis
-  url: /2014/05/05/jack-merridew-character-analysis/
+- slug: simon-character-analysis-lord-flies
+  title: Simon Character Analysis in Lord of the Flies
+  url: /2014/05/15/simon-character-analysis-lord-flies/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 - slug: complete-analysis-lord-of-the-flies
   title: Complete Analysis of Lord of the Flies
   url: /2014/04/25/complete-analysis-lord-of-the-flies/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: themes-symbolism-lord-of-the-flies
+  title: Themes and Symbolism in Lord of the Flies
+  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 simon-character-analysis-lord-flies:
+- slug: ralph-character-analysis-lord-flies
+  title: Ralph Character Analysis in Lord of the Flies
+  url: /2014/04/30/ralph-character-analysis-lord-flies/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
+  lang: en
 - slug: piggy-character-analysis-lord-flies
   title: Piggy Character Analysis in Lord of the Flies
   url: /2014/05/10/piggy-character-analysis-lord-flies/
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
-- slug: ralph-character-analysis-lord-flies
-  title: Ralph Character Analysis in Lord of the Flies
-  url: /2014/04/30/ralph-character-analysis-lord-flies/
+- slug: complete-analysis-lord-of-the-flies
+  title: Complete Analysis of Lord of the Flies
+  url: /2014/04/25/complete-analysis-lord-of-the-flies/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-22.webp
   lang: en
 - slug: jack-merridew-character-analysis
   title: Jack Merridew Character Analysis
@@ -15984,24 +15990,18 @@ simon-character-analysis-lord-flies:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
-- slug: complete-analysis-lord-of-the-flies
-  title: Complete Analysis of Lord of the Flies
-  url: /2014/04/25/complete-analysis-lord-of-the-flies/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
-  lang: en
 themes-symbolism-lord-of-the-flies:
-- slug: simon-character-analysis-lord-flies
-  title: Simon Character Analysis in Lord of the Flies
-  url: /2014/05/15/simon-character-analysis-lord-flies/
-  category: leisure
-  image: /assets/images/blog/blog-32.webp
-  lang: en
 - slug: complete-analysis-lord-of-the-flies
   title: Complete Analysis of Lord of the Flies
   url: /2014/04/25/complete-analysis-lord-of-the-flies/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: ralph-character-analysis-lord-flies
+  title: Ralph Character Analysis in Lord of the Flies
+  url: /2014/04/30/ralph-character-analysis-lord-flies/
+  category: leisure
+  image: /assets/images/blog/blog-71.webp
   lang: en
 - slug: piggy-character-analysis-lord-flies
   title: Piggy Character Analysis in Lord of the Flies
@@ -16009,11 +16009,11 @@ themes-symbolism-lord-of-the-flies:
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
-- slug: ralph-character-analysis-lord-flies
-  title: Ralph Character Analysis in Lord of the Flies
-  url: /2014/04/30/ralph-character-analysis-lord-flies/
+- slug: simon-character-analysis-lord-flies
+  title: Simon Character Analysis in Lord of the Flies
+  url: /2014/05/15/simon-character-analysis-lord-flies/
   category: leisure
-  image: /assets/images/blog/blog-71.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
 complete-analysis-animal-farm-orwell:
 - slug: animal-farm-political-allegory-guide
@@ -16028,17 +16028,17 @@ complete-analysis-animal-farm-orwell:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: snowball-character-analysis-animal-farm
-  title: Snowball Character Analysis in Animal Farm
-  url: /2014/06/04/snowball-character-analysis-animal-farm/
-  category: leisure
-  image: /assets/images/blog/blog-33.webp
-  lang: en
 - slug: themes-allegory-animal-farm-explained
   title: Themes and Allegory in Animal Farm
   url: /2014/06/14/themes-allegory-animal-farm-explained/
   category: leisure
   image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: complete-analysis-1984-george-orwell
+  title: Complete Analysis of 1984 by George Orwell
+  url: /2013/12/06/complete-analysis-1984-george-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 napoleon-character-analysis-animal-farm:
 - slug: snowball-character-analysis-animal-farm
@@ -16053,17 +16053,17 @@ napoleon-character-analysis-animal-farm:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: complete-analysis-animal-farm-orwell
-  title: Complete Analysis of Animal Farm
-  url: /2014/05/25/complete-analysis-animal-farm-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: animal-farm-political-allegory-guide
   title: Animal Farm as Political Allegory Explained
   url: /2014/06/19/animal-farm-political-allegory-guide/
   category: leisure
   image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: themes-allegory-animal-farm-explained
+  title: Themes and Allegory in Animal Farm
+  url: /2014/06/14/themes-allegory-animal-farm-explained/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
   lang: en
 snowball-character-analysis-animal-farm:
 - slug: napoleon-character-analysis-animal-farm
@@ -16078,17 +16078,17 @@ snowball-character-analysis-animal-farm:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: complete-analysis-animal-farm-orwell
-  title: Complete Analysis of Animal Farm
-  url: /2014/05/25/complete-analysis-animal-farm-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: animal-farm-political-allegory-guide
   title: Animal Farm as Political Allegory Explained
   url: /2014/06/19/animal-farm-political-allegory-guide/
   category: leisure
   image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: themes-allegory-animal-farm-explained
+  title: Themes and Allegory in Animal Farm
+  url: /2014/06/14/themes-allegory-animal-farm-explained/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
   lang: en
 boxer-character-analysis-animal-farm:
 - slug: snowball-character-analysis-animal-farm
@@ -16096,12 +16096,6 @@ boxer-character-analysis-animal-farm:
   url: /2014/06/04/snowball-character-analysis-animal-farm/
   category: leisure
   image: /assets/images/blog/blog-33.webp
-  lang: en
-- slug: complete-analysis-animal-farm-orwell
-  title: Complete Analysis of Animal Farm
-  url: /2014/05/25/complete-analysis-animal-farm-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
   lang: en
 - slug: napoleon-character-analysis-animal-farm
   title: Napoleon Character Analysis in Animal Farm
@@ -16114,6 +16108,12 @@ boxer-character-analysis-animal-farm:
   url: /2014/06/19/animal-farm-political-allegory-guide/
   category: leisure
   image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: themes-allegory-animal-farm-explained
+  title: Themes and Allegory in Animal Farm
+  url: /2014/06/14/themes-allegory-animal-farm-explained/
+  category: leisure
+  image: /assets/images/blog/blog-43.webp
   lang: en
 meta-hiring-2022:
 - slug: is-meta-hiring-freeze-2022
@@ -16153,17 +16153,17 @@ themes-allegory-animal-farm-explained:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: complete-analysis-animal-farm-orwell
-  title: Complete Analysis of Animal Farm
-  url: /2014/05/25/complete-analysis-animal-farm-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: boxer-character-analysis-animal-farm
   title: Boxer Character Analysis in Animal Farm
   url: /2014/06/09/boxer-character-analysis-animal-farm/
   category: leisure
   image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: napoleon-character-analysis-animal-farm
+  title: Napoleon Character Analysis in Animal Farm
+  url: /2014/05/30/napoleon-character-analysis-animal-farm/
+  category: leisure
+  image: /assets/images/blog/blog-55.webp
   lang: en
 - slug: snowball-character-analysis-animal-farm
   title: Snowball Character Analysis in Animal Farm
@@ -16172,17 +16172,17 @@ themes-allegory-animal-farm-explained:
   image: /assets/images/blog/blog-33.webp
   lang: en
 animal-farm-political-allegory-guide:
-- slug: complete-analysis-animal-farm-orwell
-  title: Complete Analysis of Animal Farm
-  url: /2014/05/25/complete-analysis-animal-farm-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: themes-allegory-animal-farm-explained
   title: Themes and Allegory in Animal Farm
   url: /2014/06/14/themes-allegory-animal-farm-explained/
   category: leisure
   image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: complete-analysis-animal-farm-orwell
+  title: Complete Analysis of Animal Farm
+  url: /2014/05/25/complete-analysis-animal-farm-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 - slug: snowball-character-analysis-animal-farm
   title: Snowball Character Analysis in Animal Farm
@@ -16190,36 +16190,36 @@ animal-farm-political-allegory-guide:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: boxer-character-analysis-animal-farm
-  title: Boxer Character Analysis in Animal Farm
-  url: /2014/06/09/boxer-character-analysis-animal-farm/
+- slug: napoleon-character-analysis-animal-farm
+  title: Napoleon Character Analysis in Animal Farm
+  url: /2014/05/30/napoleon-character-analysis-animal-farm/
   category: leisure
-  image: /assets/images/blog/blog-32.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 complete-analysis-brave-new-world:
-- slug: brave-new-world-vs-1984-compared
-  title: Brave New World vs 1984 Compared
-  url: /2014/07/19/brave-new-world-vs-1984-compared/
-  category: leisure
-  image: /assets/images/blog/blog-14.webp
-  lang: en
 - slug: themes-brave-new-world-technology
-  title: Themes of Technology and Control in Brave New World
+  title: Themes of Technology and Control in BNW
   url: /2014/07/14/themes-brave-new-world-technology/
   category: leisure
   image: /assets/images/blog/blog-86.webp
-  lang: en
-- slug: bernard-marx-character-analysis
-  title: Bernard Marx Character Analysis
-  url: /2014/06/29/bernard-marx-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
   lang: en
 - slug: john-the-savage-character-analysis
   title: John the Savage Character Analysis
   url: /2014/07/04/john-the-savage-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: mustapha-mond-character-analysis
+  title: Mustapha Mond Character Analysis
+  url: /2014/07/09/mustapha-mond-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: bernard-marx-character-analysis
+  title: Bernard Marx Character Analysis
+  url: /2014/06/29/bernard-marx-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 bernard-marx-character-analysis:
 - slug: john-the-savage-character-analysis
@@ -16241,48 +16241,48 @@ bernard-marx-character-analysis:
   image: /assets/images/blog/blog-69.webp
   lang: en
 - slug: themes-brave-new-world-technology
-  title: Themes of Technology and Control in Brave New World
+  title: Themes of Technology and Control in BNW
   url: /2014/07/14/themes-brave-new-world-technology/
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
 john-the-savage-character-analysis:
-- slug: bernard-marx-character-analysis
-  title: Bernard Marx Character Analysis
-  url: /2014/06/29/bernard-marx-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-59.webp
-  lang: en
 - slug: mustapha-mond-character-analysis
   title: Mustapha Mond Character Analysis
   url: /2014/07/09/mustapha-mond-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: complete-analysis-brave-new-world
-  title: Complete Analysis of Brave New World
-  url: /2014/06/24/complete-analysis-brave-new-world/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: themes-brave-new-world-technology
-  title: Themes of Technology and Control in Brave New World
-  url: /2014/07/14/themes-brave-new-world-technology/
-  category: leisure
-  image: /assets/images/blog/blog-86.webp
-  lang: en
-mustapha-mond-character-analysis:
 - slug: bernard-marx-character-analysis
   title: Bernard Marx Character Analysis
   url: /2014/06/29/bernard-marx-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
+- slug: complete-analysis-brave-new-world
+  title: Complete Analysis of Brave New World
+  url: /2014/06/24/complete-analysis-brave-new-world/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: mr-darcy-character-analysis
+  title: Mr. Darcy Character Analysis
+  url: /2014/03/31/mr-darcy-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-07.webp
+  lang: en
+mustapha-mond-character-analysis:
 - slug: john-the-savage-character-analysis
   title: John the Savage Character Analysis
   url: /2014/07/04/john-the-savage-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: bernard-marx-character-analysis
+  title: Bernard Marx Character Analysis
+  url: /2014/06/29/bernard-marx-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-59.webp
   lang: en
 - slug: complete-analysis-brave-new-world
   title: Complete Analysis of Brave New World
@@ -16290,11 +16290,11 @@ mustapha-mond-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: themes-brave-new-world-technology
-  title: Themes of Technology and Control in Brave New World
-  url: /2014/07/14/themes-brave-new-world-technology/
+- slug: mr-darcy-character-analysis
+  title: Mr. Darcy Character Analysis
+  url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-86.webp
+  image: /assets/images/blog/blog-07.webp
   lang: en
 themes-brave-new-world-technology:
 - slug: complete-analysis-brave-new-world
@@ -16303,11 +16303,11 @@ themes-brave-new-world-technology:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: bernard-marx-character-analysis
-  title: Bernard Marx Character Analysis
-  url: /2014/06/29/bernard-marx-character-analysis/
+- slug: john-the-savage-character-analysis
+  title: John the Savage Character Analysis
+  url: /2014/07/04/john-the-savage-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
 - slug: mustapha-mond-character-analysis
   title: Mustapha Mond Character Analysis
@@ -16315,24 +16315,24 @@ themes-brave-new-world-technology:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: brave-new-world-vs-1984-compared
-  title: Brave New World vs 1984 Compared
-  url: /2014/07/19/brave-new-world-vs-1984-compared/
+- slug: bernard-marx-character-analysis
+  title: Bernard Marx Character Analysis
+  url: /2014/06/29/bernard-marx-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-14.webp
+  image: /assets/images/blog/blog-59.webp
   lang: en
 brave-new-world-vs-1984-compared:
-- slug: complete-analysis-brave-new-world
-  title: Complete Analysis of Brave New World
-  url: /2014/06/24/complete-analysis-brave-new-world/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: 1984-vs-brave-new-world-vs-fahrenheit
   title: 1984 vs Brave New World vs Fahrenheit 451
   url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
   category: leisure
   image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: complete-analysis-brave-new-world
+  title: Complete Analysis of Brave New World
+  url: /2014/06/24/complete-analysis-brave-new-world/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
   lang: en
 - slug: complete-analysis-1984-george-orwell
   title: Complete Analysis of 1984 by George Orwell
@@ -16372,6 +16372,12 @@ what-is-working-at-meta-like:
   image: /assets/images/blog/blog-57.webp
   lang: en
 complete-analysis-catcher-in-the-rye:
+- slug: holden-caulfield-character-analysis
+  title: Holden Caulfield Character Analysis
+  url: /2014/07/29/holden-caulfield-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
 - slug: symbolism-catcher-in-the-rye
   title: Symbolism in The Catcher in the Rye
   url: /2014/08/08/symbolism-catcher-in-the-rye/
@@ -16384,73 +16390,61 @@ complete-analysis-catcher-in-the-rye:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: complete-analysis-great-expectations
-  title: Complete Analysis of Great Expectations
-  url: /2014/09/27/complete-analysis-great-expectations/
+- slug: complete-analysis-great-gatsby
+  title: Complete Analysis of The Great Gatsby
+  url: /2014/01/10/complete-analysis-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
-  lang: en
-- slug: holden-caulfield-character-analysis
-  title: Holden Caulfield Character Analysis
-  url: /2014/07/29/holden-caulfield-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 holden-caulfield-character-analysis:
+- slug: complete-analysis-catcher-in-the-rye
+  title: Complete Analysis of Catcher in the Rye
+  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: symbolism-catcher-in-the-rye
+  title: Symbolism in The Catcher in the Rye
+  url: /2014/08/08/symbolism-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: heathcliff-character-analysis
+  title: Heathcliff Character Analysis
+  url: /2014/09/12/heathcliff-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
+  lang: en
 - slug: holden-caulfield-unreliable-narrator
   title: Holden Caulfield as Unreliable Narrator
   url: /2014/08/13/holden-caulfield-unreliable-narrator/
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: complete-analysis-catcher-in-the-rye
-  title: Complete Analysis of Catcher in the Rye
-  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
-  lang: en
-- slug: themes-alienation-catcher-in-the-rye
-  title: Alienation in The Catcher in the Rye
-  url: /2014/08/03/themes-alienation-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
-- slug: symbolism-catcher-in-the-rye
-  title: Symbolism in The Catcher in the Rye
-  url: /2014/08/08/symbolism-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: unreliable-narrators-classic-fiction
-  title: Unreliable Narrators in Classic Fiction
-  url: /2015/02/04/unreliable-narrators-classic-fiction/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
-  lang: en
 themes-alienation-catcher-in-the-rye:
+- slug: symbolism-catcher-in-the-rye
+  title: Symbolism in The Catcher in the Rye
+  url: /2014/08/08/symbolism-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 - slug: complete-analysis-catcher-in-the-rye
   title: Complete Analysis of Catcher in the Rye
   url: /2014/07/24/complete-analysis-catcher-in-the-rye/
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
-- slug: symbolism-catcher-in-the-rye
-  title: Symbolism in The Catcher in the Rye
-  url: /2014/08/08/symbolism-catcher-in-the-rye/
+- slug: holden-caulfield-unreliable-narrator
+  title: Holden Caulfield as Unreliable Narrator
+  url: /2014/08/13/holden-caulfield-unreliable-narrator/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-33.webp
   lang: en
 - slug: holden-caulfield-character-analysis
   title: Holden Caulfield Character Analysis
   url: /2014/07/29/holden-caulfield-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-34.webp
-  lang: en
-- slug: holden-caulfield-unreliable-narrator
-  title: Holden Caulfield as Unreliable Narrator
-  url: /2014/08/13/holden-caulfield-unreliable-narrator/
-  category: leisure
-  image: /assets/images/blog/blog-33.webp
   lang: en
 symbolism-catcher-in-the-rye:
 - slug: complete-analysis-catcher-in-the-rye
@@ -16465,11 +16459,11 @@ symbolism-catcher-in-the-rye:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: themes-symbolism-great-gatsby
-  title: Themes and Symbolism in The Great Gatsby
-  url: /2014/01/30/themes-symbolism-great-gatsby/
+- slug: themes-symbolism-lord-of-the-flies
+  title: Themes and Symbolism in Lord of the Flies
+  url: /2014/05/20/themes-symbolism-lord-of-the-flies/
   category: leisure
-  image: /assets/images/blog/blog-89.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 - slug: holden-caulfield-unreliable-narrator
   title: Holden Caulfield as Unreliable Narrator
@@ -16477,36 +16471,30 @@ symbolism-catcher-in-the-rye:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: the-alchemist-alternate-endings
-  title: 'Alternate Endings to The Alchemist: What If Santiago Never Found It?'
-  url: /2025/03/29/the-alchemist-alternate-endings/
-  category: leisure
-  image: /assets/images/blog/blog-48.webp
-  lang: en
 holden-caulfield-unreliable-narrator:
-- slug: holden-caulfield-character-analysis
-  title: Holden Caulfield Character Analysis
-  url: /2014/07/29/holden-caulfield-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
-  lang: en
 - slug: symbolism-catcher-in-the-rye
   title: Symbolism in The Catcher in the Rye
   url: /2014/08/08/symbolism-catcher-in-the-rye/
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: complete-analysis-catcher-in-the-rye
-  title: Complete Analysis of Catcher in the Rye
-  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
-  lang: en
 - slug: themes-alienation-catcher-in-the-rye
   title: Alienation in The Catcher in the Rye
   url: /2014/08/03/themes-alienation-catcher-in-the-rye/
   category: leisure
   image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: holden-caulfield-character-analysis
+  title: Holden Caulfield Character Analysis
+  url: /2014/07/29/holden-caulfield-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: unreliable-narrators-classic-fiction
+  title: Unreliable Narrators in Classic Fiction
+  url: /2015/02/04/unreliable-narrators-classic-fiction/
+  category: leisure
+  image: /assets/images/blog/blog-68.webp
   lang: en
 is-meta-a-good-place-to-work:
 - slug: why-is-meta-not-hiring
@@ -16534,29 +16522,29 @@ is-meta-a-good-place-to-work:
   image: /assets/images/blog/blog-86.webp
   lang: en
 complete-analysis-frankenstein-shelley:
-- slug: victor-frankenstein-character-analysis
-  title: Victor Frankenstein Character Analysis
-  url: /2014/08/23/victor-frankenstein-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: complete-analysis-wuthering-heights
-  title: Complete Analysis of Wuthering Heights
-  url: /2014/09/07/complete-analysis-wuthering-heights/
-  category: leisure
-  image: /assets/images/blog/blog-04.webp
-  lang: en
 - slug: the-creature-frankenstein-analysis
   title: The Creature Character Analysis
   url: /2014/08/28/the-creature-frankenstein-analysis/
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
+- slug: victor-frankenstein-character-analysis
+  title: Victor Frankenstein Character Analysis
+  url: /2014/08/23/victor-frankenstein-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 - slug: themes-science-ambition-frankenstein
   title: Science and Ambition in Frankenstein
   url: /2014/09/02/themes-science-ambition-frankenstein/
   category: leisure
   image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: complete-analysis-1984-george-orwell
+  title: Complete Analysis of 1984 by George Orwell
+  url: /2013/12/06/complete-analysis-1984-george-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 victor-frankenstein-character-analysis:
 - slug: complete-analysis-frankenstein-shelley
@@ -16577,36 +16565,36 @@ victor-frankenstein-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-15.webp
   lang: en
-- slug: mr-darcy-character-analysis
-  title: Mr. Darcy Character Analysis
-  url: /2014/03/31/mr-darcy-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-07.webp
-  lang: en
-the-creature-frankenstein-analysis:
-- slug: victor-frankenstein-character-analysis
-  title: Victor Frankenstein Character Analysis
-  url: /2014/08/23/victor-frankenstein-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: complete-analysis-frankenstein-shelley
-  title: Complete Analysis of Frankenstein
-  url: /2014/08/18/complete-analysis-frankenstein-shelley/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
-  lang: en
 - slug: heathcliff-character-analysis
   title: Heathcliff Character Analysis
   url: /2014/09/12/heathcliff-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-78.webp
   lang: en
+the-creature-frankenstein-analysis:
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: victor-frankenstein-character-analysis
+  title: Victor Frankenstein Character Analysis
+  url: /2014/08/23/victor-frankenstein-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
+  lang: en
 - slug: miss-havisham-character-analysis
   title: Miss Havisham Character Analysis
   url: /2014/10/07/miss-havisham-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-38.webp
+  lang: en
+- slug: hamlet-character-analysis-deep-dive
+  title: Hamlet Character Analysis
+  url: /2010/10/02/hamlet-character-analysis-deep-dive/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
   lang: en
 themes-science-ambition-frankenstein:
 - slug: complete-analysis-frankenstein-shelley
@@ -16634,12 +16622,6 @@ themes-science-ambition-frankenstein:
   image: /assets/images/blog/blog-84.webp
   lang: en
 complete-analysis-wuthering-heights:
-- slug: themes-revenge-love-wuthering-heights
-  title: Revenge and Love in Wuthering Heights
-  url: /2014/09/22/themes-revenge-love-wuthering-heights/
-  category: leisure
-  image: /assets/images/blog/blog-43.webp
-  lang: en
 - slug: heathcliff-character-analysis
   title: Heathcliff Character Analysis
   url: /2014/09/12/heathcliff-character-analysis/
@@ -16652,11 +16634,17 @@ complete-analysis-wuthering-heights:
   category: leisure
   image: /assets/images/blog/blog-55.webp
   lang: en
-- slug: complete-analysis-frankenstein-shelley
-  title: Complete Analysis of Frankenstein
-  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+- slug: themes-revenge-love-wuthering-heights
+  title: Revenge and Love in Wuthering Heights
+  url: /2014/09/22/themes-revenge-love-wuthering-heights/
   category: leisure
-  image: /assets/images/blog/blog-36.webp
+  image: /assets/images/blog/blog-43.webp
+  lang: en
+- slug: complete-analysis-jane-eyre-bronte
+  title: Complete Analysis of Jane Eyre
+  url: /2014/10/12/complete-analysis-jane-eyre-bronte/
+  category: leisure
+  image: /assets/images/blog/blog-53.webp
   lang: en
 heathcliff-character-analysis:
 - slug: catherine-earnshaw-character-analysis
@@ -16671,17 +16659,17 @@ heathcliff-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
-- slug: themes-revenge-love-wuthering-heights
-  title: Revenge and Love in Wuthering Heights
-  url: /2014/09/22/themes-revenge-love-wuthering-heights/
+- slug: holden-caulfield-character-analysis
+  title: Holden Caulfield Character Analysis
+  url: /2014/07/29/holden-caulfield-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-43.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: the-creature-frankenstein-analysis
-  title: The Creature Character Analysis
-  url: /2014/08/28/the-creature-frankenstein-analysis/
+- slug: mr-darcy-character-analysis
+  title: Mr. Darcy Character Analysis
+  url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-84.webp
+  image: /assets/images/blog/blog-07.webp
   lang: en
 catherine-earnshaw-character-analysis:
 - slug: heathcliff-character-analysis
@@ -16690,23 +16678,23 @@ catherine-earnshaw-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-78.webp
   lang: en
-- slug: complete-analysis-wuthering-heights
-  title: Complete Analysis of Wuthering Heights
-  url: /2014/09/07/complete-analysis-wuthering-heights/
+- slug: mr-darcy-character-analysis
+  title: Mr. Darcy Character Analysis
+  url: /2014/03/31/mr-darcy-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-04.webp
+  image: /assets/images/blog/blog-07.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
+- slug: julia-character-analysis-1984-orwell
+  title: Julia Character Analysis in 1984
+  url: /2014/01/05/julia-character-analysis-1984-orwell/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-19.webp
   lang: en
-- slug: mrs-bennet-character-analysis
-  title: Mrs. Bennet Character Analysis
-  url: /2014/04/10/mrs-bennet-character-analysis/
+- slug: guy-montag-character-analysis
+  title: Guy Montag Character Analysis
+  url: /2014/11/21/guy-montag-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 why-is-meta-not-hiring:
 - slug: is-meta-on-hiring-freeze
@@ -16734,17 +16722,17 @@ why-is-meta-not-hiring:
   image: /assets/images/blog/blog-86.webp
   lang: en
 themes-revenge-love-wuthering-heights:
+- slug: gothic-elements-classic-novels
+  title: Gothic Elements in Classic Novels Compared
+  url: /2015/03/06/gothic-elements-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: complete-analysis-wuthering-heights
   title: Complete Analysis of Wuthering Heights
   url: /2014/09/07/complete-analysis-wuthering-heights/
   category: leisure
   image: /assets/images/blog/blog-04.webp
-  lang: en
-- slug: heathcliff-character-analysis
-  title: Heathcliff Character Analysis
-  url: /2014/09/12/heathcliff-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-78.webp
   lang: en
 - slug: catherine-earnshaw-character-analysis
   title: Catherine Earnshaw Character Analysis
@@ -16752,11 +16740,11 @@ themes-revenge-love-wuthering-heights:
   category: leisure
   image: /assets/images/blog/blog-55.webp
   lang: en
-- slug: gothic-elements-classic-novels
-  title: Gothic Elements in Classic Novels Compared
-  url: /2015/03/06/gothic-elements-classic-novels/
+- slug: love-obsession-classic-novels
+  title: Love and Obsession in Classic Novels
+  url: /2015/02/19/love-obsession-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-16.webp
+  image: /assets/images/blog/blog-20.webp
   lang: en
 complete-analysis-great-expectations:
 - slug: pip-character-analysis-dickens
@@ -16765,48 +16753,48 @@ complete-analysis-great-expectations:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: complete-analysis-catcher-in-the-rye
-  title: Complete Analysis of Catcher in the Rye
-  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
+- slug: complete-analysis-great-gatsby
+  title: Complete Analysis of The Great Gatsby
+  url: /2014/01/10/complete-analysis-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-68.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: complete-analysis-of-mice-and-men
-  title: Complete Analysis of Of Mice and Men
-  url: /2014/11/01/complete-analysis-of-mice-and-men/
+- slug: complete-analysis-wuthering-heights
+  title: Complete Analysis of Wuthering Heights
+  url: /2014/09/07/complete-analysis-wuthering-heights/
   category: leisure
-  image: /assets/images/blog/blog-26.webp
+  image: /assets/images/blog/blog-04.webp
   lang: en
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+pip-character-analysis-dickens:
 - slug: miss-havisham-character-analysis
   title: Miss Havisham Character Analysis
   url: /2014/10/07/miss-havisham-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-38.webp
   lang: en
-pip-character-analysis-dickens:
 - slug: complete-analysis-great-expectations
   title: Complete Analysis of Great Expectations
   url: /2014/09/27/complete-analysis-great-expectations/
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: miss-havisham-character-analysis
-  title: Miss Havisham Character Analysis
-  url: /2014/10/07/miss-havisham-character-analysis/
+- slug: the-creature-frankenstein-analysis
+  title: The Creature Character Analysis
+  url: /2014/08/28/the-creature-frankenstein-analysis/
   category: leisure
-  image: /assets/images/blog/blog-38.webp
+  image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: victor-frankenstein-character-analysis
-  title: Victor Frankenstein Character Analysis
-  url: /2014/08/23/victor-frankenstein-character-analysis/
+- slug: jane-eyre-character-analysis-bronte
+  title: Jane Eyre Character Analysis
+  url: /2014/10/17/jane-eyre-character-analysis-bronte/
   category: leisure
-  image: /assets/images/blog/blog-19.webp
-  lang: en
-- slug: holden-caulfield-character-analysis
-  title: Holden Caulfield Character Analysis
-  url: /2014/07/29/holden-caulfield-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
 miss-havisham-character-analysis:
 - slug: pip-character-analysis-dickens
@@ -16815,23 +16803,23 @@ miss-havisham-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: heathcliff-character-analysis
-  title: Heathcliff Character Analysis
-  url: /2014/09/12/heathcliff-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-78.webp
-  lang: en
 - slug: the-creature-frankenstein-analysis
   title: The Creature Character Analysis
   url: /2014/08/28/the-creature-frankenstein-analysis/
   category: leisure
   image: /assets/images/blog/blog-84.webp
   lang: en
-- slug: complete-analysis-great-expectations
-  title: Complete Analysis of Great Expectations
-  url: /2014/09/27/complete-analysis-great-expectations/
+- slug: jane-eyre-character-analysis-bronte
+  title: Jane Eyre Character Analysis
+  url: /2014/10/17/jane-eyre-character-analysis-bronte/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: tom-buchanan-character-analysis
+  title: Tom Buchanan Character Analysis
+  url: /2014/02/09/tom-buchanan-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
   lang: en
 complete-analysis-jane-eyre-bronte:
 - slug: themes-independence-jane-eyre
@@ -16846,17 +16834,17 @@ complete-analysis-jane-eyre-bronte:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: complete-analysis-wuthering-heights
-  title: Complete Analysis of Wuthering Heights
-  url: /2014/09/07/complete-analysis-wuthering-heights/
-  category: leisure
-  image: /assets/images/blog/blog-04.webp
-  lang: en
 - slug: mr-rochester-character-analysis
   title: Mr. Rochester Character Analysis
   url: /2014/10/22/mr-rochester-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: complete-analysis-scarlet-letter
+  title: Complete Analysis of The Scarlet Letter
+  url: /2014/12/01/complete-analysis-scarlet-letter/
+  category: leisure
+  image: /assets/images/blog/blog-90.webp
   lang: en
 meta-hiring-freeze-2022:
 - slug: is-meta-hiring-freeze-2022
@@ -16927,11 +16915,11 @@ mr-rochester-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: heathcliff-character-analysis
-  title: Heathcliff Character Analysis
-  url: /2014/09/12/heathcliff-character-analysis/
+- slug: guy-montag-character-analysis
+  title: Guy Montag Character Analysis
+  url: /2014/11/21/guy-montag-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 themes-independence-jane-eyre:
 - slug: complete-analysis-jane-eyre-bronte
@@ -16971,17 +16959,17 @@ complete-analysis-of-mice-and-men:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: complete-analysis-wuthering-heights
-  title: Complete Analysis of Wuthering Heights
-  url: /2014/09/07/complete-analysis-wuthering-heights/
+- slug: complete-analysis-great-gatsby
+  title: Complete Analysis of The Great Gatsby
+  url: /2014/01/10/complete-analysis-great-gatsby/
   category: leisure
-  image: /assets/images/blog/blog-04.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: complete-analysis-great-expectations
-  title: Complete Analysis of Great Expectations
-  url: /2014/09/27/complete-analysis-great-expectations/
+- slug: complete-analysis-jane-eyre-bronte
+  title: Complete Analysis of Jane Eyre
+  url: /2014/10/12/complete-analysis-jane-eyre-bronte/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
 - slug: george-lennie-character-analysis
   title: George and Lennie Character Analysis
@@ -17002,17 +16990,17 @@ george-lennie-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: mr-darcy-character-analysis
-  title: Mr. Darcy Character Analysis
-  url: /2014/03/31/mr-darcy-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-07.webp
-  lang: en
 - slug: wickham-character-analysis-austen
   title: Mr. Wickham Character Analysis
   url: /2014/04/15/wickham-character-analysis-austen/
   category: leisure
   image: /assets/images/blog/blog-59.webp
+  lang: en
+- slug: julia-character-analysis-1984-orwell
+  title: Julia Character Analysis in 1984
+  url: /2014/01/05/julia-character-analysis-1984-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-19.webp
   lang: en
 loneliness-of-mice-and-men-themes:
 - slug: complete-analysis-of-mice-and-men
@@ -17077,17 +17065,17 @@ complete-analysis-fahrenheit-451:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: complete-analysis-brave-new-world
-  title: Complete Analysis of Brave New World
-  url: /2014/06/24/complete-analysis-brave-new-world/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: complete-analysis-1984-george-orwell
   title: Complete Analysis of 1984 by George Orwell
   url: /2013/12/06/complete-analysis-1984-george-orwell/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: 1984-vs-brave-new-world-vs-fahrenheit
+  title: 1984 vs Brave New World vs Fahrenheit 451
+  url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
+  category: leisure
+  image: /assets/images/blog/blog-15.webp
   lang: en
 guy-montag-character-analysis:
 - slug: complete-analysis-fahrenheit-451
@@ -17096,23 +17084,23 @@ guy-montag-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-59.webp
   lang: en
-- slug: mr-darcy-character-analysis
-  title: Mr. Darcy Character Analysis
-  url: /2014/03/31/mr-darcy-character-analysis/
+- slug: catherine-earnshaw-character-analysis
+  title: Catherine Earnshaw Character Analysis
+  url: /2014/09/17/catherine-earnshaw-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-07.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
-- slug: victor-frankenstein-character-analysis
-  title: Victor Frankenstein Character Analysis
-  url: /2014/08/23/victor-frankenstein-character-analysis/
+- slug: john-the-savage-character-analysis
+  title: John the Savage Character Analysis
+  url: /2014/07/04/john-the-savage-character-analysis/
   category: leisure
-  image: /assets/images/blog/blog-19.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
-- slug: wickham-character-analysis-austen
-  title: Mr. Wickham Character Analysis
-  url: /2014/04/15/wickham-character-analysis-austen/
+- slug: obrien-character-analysis-1984
+  title: O'Brien Character Analysis in 1984
+  url: /2013/12/31/obrien-character-analysis-1984/
   category: leisure
-  image: /assets/images/blog/blog-59.webp
+  image: /assets/images/blog/blog-03.webp
   lang: en
 censorship-themes-fahrenheit-451:
 - slug: complete-analysis-fahrenheit-451
@@ -17152,17 +17140,17 @@ complete-analysis-scarlet-letter:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-- slug: complete-analysis-catcher-in-the-rye
-  title: Complete Analysis of Catcher in the Rye
-  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
-  lang: en
 - slug: complete-analysis-jane-eyre-bronte
   title: Complete Analysis of Jane Eyre
   url: /2014/10/12/complete-analysis-jane-eyre-bronte/
   category: leisure
   image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
   lang: en
 hester-prynne-character-analysis:
 - slug: complete-analysis-scarlet-letter
@@ -17233,11 +17221,11 @@ complete-analysis-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
-- slug: complete-analysis-great-expectations
-  title: Complete Analysis of Great Expectations
-  url: /2014/09/27/complete-analysis-great-expectations/
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
   category: leisure
-  image: /assets/images/blog/blog-06.webp
+  image: /assets/images/blog/blog-36.webp
   lang: en
 kurtz-character-analysis-conrad:
 - slug: marlow-character-analysis-conrad
@@ -17358,17 +17346,17 @@ colonialism-racism-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: complete-analysis-1984-george-orwell
-  title: Complete Analysis of 1984 by George Orwell
-  url: /2013/12/06/complete-analysis-1984-george-orwell/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
 - slug: science-morality-classic-fiction
   title: Science and Morality in Classic Fiction
   url: /2015/03/11/science-morality-classic-fiction/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: themes-symbolism-1984-orwell
+  title: Themes and Symbolism in 1984 Explained
+  url: /2013/12/21/themes-symbolism-1984-orwell/
+  category: leisure
+  image: /assets/images/blog/blog-86.webp
   lang: en
 greatest-literary-villains-compared:
 - slug: fate-vs-free-will-classic-literature
@@ -17394,6 +17382,12 @@ greatest-literary-villains-compared:
   url: /2015/02/14/power-corruption-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: the-alchemist-alternate-endings
+  title: 'Alternate Endings to The Alchemist: What If Santiago Never Found It?'
+  url: /2025/03/29/the-alchemist-alternate-endings/
+  category: leisure
+  image: /assets/images/blog/blog-48.webp
   lang: en
 is-meta-on-hiring-freeze:
 - slug: is-meta-on-a-hiring-freeze
@@ -17521,12 +17515,6 @@ nature-vs-nurture-classic-novels:
   image: /assets/images/blog/blog-42.webp
   lang: en
 unreliable-narrators-classic-fiction:
-- slug: holden-caulfield-character-analysis
-  title: Holden Caulfield Character Analysis
-  url: /2014/07/29/holden-caulfield-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
-  lang: en
 - slug: holden-caulfield-unreliable-narrator
   title: Holden Caulfield as Unreliable Narrator
   url: /2014/08/13/holden-caulfield-unreliable-narrator/
@@ -17544,6 +17532,12 @@ unreliable-narrators-classic-fiction:
   url: /2015/01/30/nature-vs-nurture-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
   lang: en
 isolation-loneliness-classic-novels:
 - slug: gothic-elements-classic-novels
@@ -17644,6 +17638,31 @@ love-obsession-classic-novels:
   url: /2015/02/14/power-corruption-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+strait-of-hormuz-worlds-most-critical-chokepoint:
+- slug: upsc-gs1-world-history-events-shaped-modern-world
+  title: 'UPSC GS1 World History: Events That Shaped Modern World'
+  url: /2002/11/27/upsc-gs1-world-history-events-shaped-modern-world/
+  category: industry
+  image: /assets/images/blog/blog-73.webp
+  lang: en
+- slug: oracle-layoffs-strategic-analysis
+  title: Oracle Layoffs 2026 Strategic Analysis and Industry Fallout
+  url: /2026/04/01/oracle-layoffs-strategic-analysis/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: upsc-csat-reading-comprehension-strategy
+  title: 'UPSC CSAT: Reading Comprehension Strategy'
+  url: /2003/02/21/upsc-csat-reading-comprehension-strategy/
+  category: industry
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: upsc-prelims-geography-environment-strategy
+  title: 'UPSC Prelims: Geography and Environment Strategy'
+  url: /2003/03/15/upsc-prelims-geography-environment-strategy/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
   lang: en
 parents-children-classic-literature:
 - slug: fate-vs-free-will-classic-literature
@@ -17783,17 +17802,17 @@ revolution-rebellion-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: complete-analysis-1984-george-orwell
-  title: Complete Analysis of 1984 by George Orwell
-  url: /2013/12/06/complete-analysis-1984-george-orwell/
+- slug: brave-new-world-vs-1984-compared
+  title: Brave New World vs 1984 Compared
+  url: /2014/07/19/brave-new-world-vs-1984-compared/
   category: leisure
-  image: /assets/images/blog/blog-56.webp
+  image: /assets/images/blog/blog-14.webp
   lang: en
-- slug: 1984-vs-brave-new-world-vs-fahrenheit
-  title: 1984 vs Brave New World vs Fahrenheit 451
-  url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
+- slug: napoleon-character-analysis-animal-farm
+  title: Napoleon Character Analysis in Animal Farm
+  url: /2014/05/30/napoleon-character-analysis-animal-farm/
   category: leisure
-  image: /assets/images/blog/blog-15.webp
+  image: /assets/images/blog/blog-55.webp
   lang: en
 madness-sanity-classic-literature:
 - slug: greatest-literary-villains-compared
@@ -17827,12 +17846,6 @@ nature-wilderness-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: marlow-character-analysis-conrad
-  title: Marlow Character Analysis in Heart of Darkness
-  url: /2014/12/26/marlow-character-analysis-conrad/
-  category: leisure
-  image: /assets/images/blog/blog-73.webp
-  lang: en
 - slug: piggy-character-analysis-lord-flies
   title: Piggy Character Analysis in Lord of the Flies
   url: /2014/05/10/piggy-character-analysis-lord-flies/
@@ -17844,6 +17857,12 @@ nature-wilderness-classic-novels:
   url: /2014/04/30/ralph-character-analysis-lord-flies/
   category: leisure
   image: /assets/images/blog/blog-71.webp
+  lang: en
+- slug: marlow-character-analysis-conrad
+  title: Marlow Character Analysis in Heart of Darkness
+  url: /2014/12/26/marlow-character-analysis-conrad/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
   lang: en
 fate-vs-free-will-classic-literature:
 - slug: parents-children-classic-literature
@@ -17902,23 +17921,23 @@ how-to-write-literary-analysis-essay:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: complete-analysis-heart-of-darkness
   title: Complete Analysis of Heart of Darkness
   url: /2014/12/16/complete-analysis-heart-of-darkness/
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
-- slug: elizabeth-bennet-character-analysis
-  title: Elizabeth Bennet Character Analysis
-  url: /2014/03/26/elizabeth-bennet-character-analysis/
+- slug: complete-analysis-of-mice-and-men
+  title: Complete Analysis of Of Mice and Men
+  url: /2014/11/01/complete-analysis-of-mice-and-men/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: catherine-earnshaw-character-analysis
-  title: Catherine Earnshaw Character Analysis
-  url: /2014/09/17/catherine-earnshaw-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-55.webp
+  image: /assets/images/blog/blog-26.webp
   lang: en
 rise-and-fall-roman-empire-explained:
 - slug: fall-of-roman-empire-causes
@@ -18601,19 +18620,7 @@ protestant-reformation-explained:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: the-crusades-explained-complete-guide
-  title: 'The Crusades Explained: Complete Guide'
-  url: /2015/07/09/the-crusades-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-35.webp
-  lang: en
 age-of-exploration-history-explained:
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
-  category: leisure
-  image: /assets/images/blog/blog-66.webp
-  lang: en
 - slug: brexit-explained-complete-guide
   title: 'Brexit Explained: Complete Guide'
   url: /2016/06/28/brexit-explained-complete-guide/
@@ -18631,6 +18638,12 @@ age-of-exploration-history-explained:
   url: /2015/08/13/protestant-reformation-explained/
   category: leisure
   image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
+  category: leisure
+  image: /assets/images/blog/blog-72.webp
   lang: en
 is-meta-going-to-have-layoffs:
 - slug: meta-layoffs-2022
@@ -18658,12 +18671,6 @@ is-meta-going-to-have-layoffs:
   image: /assets/images/blog/blog-30.webp
   lang: en
 spanish-armada-1588-explained:
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
 - slug: brexit-explained-complete-guide
   title: 'Brexit Explained: Complete Guide'
   url: /2016/06/28/brexit-explained-complete-guide/
@@ -18681,14 +18688,14 @@ spanish-armada-1588-explained:
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 scientific-revolution-history-explained:
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 - slug: brexit-explained-complete-guide
   title: 'Brexit Explained: Complete Guide'
   url: /2016/06/28/brexit-explained-complete-guide/
@@ -18706,6 +18713,12 @@ scientific-revolution-history-explained:
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: the-renaissance-explained-complete
+  title: 'The Renaissance Explained: Complete Guide'
+  url: /2015/08/08/the-renaissance-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
   lang: en
 mughal-empire-india-history:
 - slug: ancient-greek-civilization-explained
@@ -18745,17 +18758,17 @@ french-revolution-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: greatest-revolutions-history-compared
-  title: Greatest Revolutions in History Compared
-  url: /2016/07/13/greatest-revolutions-history-compared/
-  category: leisure
-  image: /assets/images/blog/blog-10.webp
-  lang: en
 - slug: brexit-explained-complete-guide
   title: 'Brexit Explained: Complete Guide'
   url: /2016/06/28/brexit-explained-complete-guide/
   category: leisure
   image: /assets/images/blog/blog-57.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 american-revolution-explained-complete:
 - slug: declaration-of-independence-explained
@@ -18833,12 +18846,6 @@ how-long-will-the-meta-hiring-freeze-last:
   image: /assets/images/blog/blog-59.webp
   lang: en
 napoleonic-wars-explained-complete:
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 - slug: yugoslav-wars-1990s-explained
   title: The Yugoslav Wars of the 1990s Explained
   url: /2016/05/24/yugoslav-wars-1990s-explained/
@@ -18857,30 +18864,42 @@ napoleonic-wars-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-haitian-revolution-explained:
-- slug: american-civil-war-explained-complete
-  title: The American Civil War Explained
-  url: /2015/10/12/american-civil-war-explained-complete/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
+- slug: french-revolution-explained-complete
+  title: The French Revolution Explained
+  url: /2015/09/07/french-revolution-explained-complete/
+  category: ''
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+haitian-revolution-explained:
 - slug: american-revolution-explained-complete
   title: The American Revolution Explained
   url: /2015/09/12/american-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 - slug: industrial-revolution-explained
   title: The Industrial Revolution Explained
   url: /2015/09/17/industrial-revolution-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: the-crusades-explained-complete-guide
+  title: 'The Crusades Explained: Complete Guide'
+  url: /2015/07/09/the-crusades-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-35.webp
+  lang: en
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
+  category: leisure
+  image: /assets/images/blog/blog-62.webp
   lang: en
 declaration-of-independence-explained:
 - slug: american-revolution-explained-complete
@@ -18951,11 +18970,24 @@ american-civil-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: pearl-harbor-attack-explained
-  title: The Attack on Pearl Harbor Explained
-  url: /2016/02/04/pearl-harbor-attack-explained/
+- slug: great-depression-explained-complete
+  title: The Great Depression Explained
+  url: /2015/12/26/great-depression-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+abolition-slavery-history-timeline:
+- slug: unification-germany-bismarck
+  title: Unification of Germany Under Bismarck
+  url: /2015/10/27/unification-germany-bismarck/
+  category: leisure
+  image: /assets/images/blog/blog-39.webp
+  lang: en
+- slug: unification-italy-risorgimento
+  title: 'Unification of Italy: The Risorgimento'
+  url: /2015/11/01/unification-italy-risorgimento/
+  category: leisure
+  image: /assets/images/blog/blog-06.webp
   lang: en
 - slug: haitian-revolution-explained
   title: The Haitian Revolution Explained
@@ -18963,55 +18995,36 @@ american-civil-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-abolition-slavery-history-timeline:
-- slug: history-of-human-rights-explained
-  title: The History of Human Rights Explained
-  url: /2016/08/17/history-of-human-rights-explained/
+- slug: viking-age-history-explained
+  title: 'The Viking Age: History and Legacy Explained'
+  url: /2015/07/19/viking-age-history-explained/
   category: leisure
-  image: /assets/images/blog/blog-63.webp
-  lang: en
-- slug: deadliest-wars-history-ranked
-  title: Deadliest Wars in Human History Ranked
-  url: /2016/07/18/deadliest-wars-history-ranked/
-  category: leisure
-  image: /assets/images/blog/blog-51.webp
-  lang: en
-- slug: biggest-what-ifs-in-history
-  title: The Biggest What Ifs in History
-  url: /2016/08/22/biggest-what-ifs-in-history/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
-- slug: women-who-changed-history
-  title: Women Who Changed History
-  url: /2016/08/07/women-who-changed-history/
-  category: leisure
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
 scramble-for-africa-colonialism:
+- slug: how-world-war-2-ended-explained
+  title: How World War II Ended Explained
+  url: /2016/02/19/how-world-war-2-ended-explained/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-- slug: brexit-explained-complete-guide
-  title: 'Brexit Explained: Complete Guide'
-  url: /2016/06/28/brexit-explained-complete-guide/
+- slug: rwandan-genocide-1994-explained
+  title: The Rwandan Genocide Explained
+  url: /2016/05/14/rwandan-genocide-1994-explained/
   category: leisure
-  image: /assets/images/blog/blog-57.webp
+  image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
+- slug: apartheid-south-africa-explained
+  title: Apartheid in South Africa Explained
+  url: /2016/05/09/apartheid-south-africa-explained/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: causes-of-world-war-1-explained
-  title: Causes of World War I Explained
-  url: /2015/11/16/causes-of-world-war-1-explained/
-  category: leisure
-  image: /assets/images/blog/blog-72.webp
+  image: /assets/images/blog/blog-40.webp
   lang: en
 unification-germany-bismarck:
 - slug: unification-italy-risorgimento
@@ -19020,23 +19033,23 @@ unification-germany-bismarck:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: rise-of-hitler-nazi-germany
-  title: Rise of Hitler and Nazi Germany Explained
-  url: /2015/12/21/rise-of-hitler-nazi-germany/
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
   category: leisure
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: weimar-republic-explained
-  title: 'The Weimar Republic: Rise and Fall'
-  url: /2016/01/15/weimar-republic-explained/
+- slug: medieval-feudalism-explained
+  title: 'Medieval Feudalism Explained: How It Worked'
+  url: /2015/07/29/medieval-feudalism-explained/
   category: leisure
-  image: /assets/images/blog/blog-75.webp
+  image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: treaty-of-versailles-explained
-  title: The Treaty of Versailles Explained
-  url: /2015/11/26/treaty-of-versailles-explained/
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
   category: leisure
-  image: /assets/images/blog/blog-31.webp
+  image: /assets/images/blog/blog-66.webp
   lang: en
 unification-italy-risorgimento:
 - slug: unification-germany-bismarck
@@ -19045,23 +19058,23 @@ unification-italy-risorgimento:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: rise-of-mussolini-fascist-italy
-  title: Mussolini and the Rise of Fascism in Italy
-  url: /2015/12/31/rise-of-mussolini-fascist-italy/
+- slug: abolition-slavery-history-timeline
+  title: 'Abolition of Slavery: History and Timeline'
+  url: /2015/10/17/abolition-slavery-history-timeline/
   category: leisure
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-62.webp
   lang: en
-- slug: brexit-explained-complete-guide
-  title: 'Brexit Explained: Complete Guide'
-  url: /2016/06/28/brexit-explained-complete-guide/
+- slug: medieval-feudalism-explained
+  title: 'Medieval Feudalism Explained: How It Worked'
+  url: /2015/07/29/medieval-feudalism-explained/
   category: leisure
-  image: /assets/images/blog/blog-57.webp
+  image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
+- slug: byzantine-empire-history-explained
+  title: The Byzantine Empire Explained
+  url: /2015/07/04/byzantine-empire-history-explained/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 meiji-restoration-japan-explained:
 - slug: history-of-human-rights-explained
@@ -19089,6 +19102,12 @@ meiji-restoration-japan-explained:
   image: /assets/images/blog/blog-51.webp
   lang: en
 irish-great-famine-history-explained:
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: battle-of-the-somme-explained
   title: The Battle of the Somme Explained
   url: /2015/12/01/battle-of-the-somme-explained/
@@ -19104,12 +19123,6 @@ irish-great-famine-history-explained:
 - slug: winston-churchill-ww2-leadership
   title: Winston Churchill's Leadership in WWII
   url: /2016/03/05/winston-churchill-ww2-leadership/
-  category: leisure
-  image: /assets/images/blog/blog-09.webp
-  lang: en
-- slug: great-depression-explained-complete
-  title: The Great Depression Explained
-  url: /2015/12/26/great-depression-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-09.webp
   lang: en
@@ -19226,11 +19239,11 @@ treaty-of-versailles-explained:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: rise-of-hitler-nazi-germany
   title: Rise of Hitler and Nazi Germany Explained
@@ -19357,11 +19370,11 @@ how-ww1-changed-the-world:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
+- slug: the-renaissance-explained-complete
+  title: 'The Renaissance Explained: Complete Guide'
+  url: /2015/08/08/the-renaissance-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-06.webp
   lang: en
 rise-of-hitler-nazi-germany:
 - slug: nuremberg-trials-explained
@@ -19401,31 +19414,19 @@ great-depression-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
-- slug: pearl-harbor-attack-explained
-  title: The Attack on Pearl Harbor Explained
-  url: /2016/02/04/pearl-harbor-attack-explained/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 - slug: war-on-terror-explained-complete
   title: The War on Terror Explained
   url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 rise-of-mussolini-fascist-italy:
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
-- slug: unification-italy-risorgimento
-  title: 'Unification of Italy: The Risorgimento'
-  url: /2015/11/01/unification-italy-risorgimento/
-  category: leisure
-  image: /assets/images/blog/blog-06.webp
-  lang: en
 - slug: rise-of-hitler-nazi-germany
   title: Rise of Hitler and Nazi Germany Explained
   url: /2015/12/21/rise-of-hitler-nazi-germany/
@@ -19437,6 +19438,18 @@ rise-of-mussolini-fascist-italy:
   url: /2016/01/15/weimar-republic-explained/
   category: leisure
   image: /assets/images/blog/blog-75.webp
+  lang: en
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: causes-of-world-war-2-explained
+  title: Causes of World War II Explained
+  url: /2016/01/20/causes-of-world-war-2-explained/
+  category: leisure
+  image: /assets/images/blog/blog-56.webp
   lang: en
 stalin-soviet-union-history:
 - slug: russian-revolution-1917-explained
@@ -19464,35 +19477,29 @@ stalin-soviet-union-history:
   image: /assets/images/blog/blog-62.webp
   lang: en
 spanish-civil-war-explained:
-- slug: rise-of-mussolini-fascist-italy
-  title: Mussolini and the Rise of Fascism in Italy
-  url: /2015/12/31/rise-of-mussolini-fascist-italy/
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+- slug: how-world-war-2-ended-explained
+  title: How World War II Ended Explained
+  url: /2016/02/19/how-world-war-2-ended-explained/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: pearl-harbor-attack-explained
+  title: The Attack on Pearl Harbor Explained
+  url: /2016/02/04/pearl-harbor-attack-explained/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
   category: leisure
   image: /assets/images/blog/blog-66.webp
-  lang: en
-- slug: weimar-republic-explained
-  title: 'The Weimar Republic: Rise and Fall'
-  url: /2016/01/15/weimar-republic-explained/
-  category: leisure
-  image: /assets/images/blog/blog-75.webp
-  lang: en
-- slug: causes-of-world-war-2-explained
-  title: Causes of World War II Explained
-  url: /2016/01/20/causes-of-world-war-2-explained/
-  category: leisure
-  image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: causes-of-world-war-1-explained
-  title: Causes of World War I Explained
-  url: /2015/11/16/causes-of-world-war-1-explained/
-  category: leisure
-  image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: spanish-armada-1588-explained
-  title: The Spanish Armada of 1588 Explained
-  url: /2015/08/23/spanish-armada-1588-explained/
-  category: leisure
-  image: /assets/images/blog/blog-24.webp
   lang: en
 ibm-interview-technical-questions:
 - slug: ibm-technical-interview-questions
@@ -19520,18 +19527,6 @@ ibm-interview-technical-questions:
   image: /assets/images/blog/blog-64.webp
   lang: en
 weimar-republic-explained:
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
-- slug: unification-germany-bismarck
-  title: Unification of Germany Under Bismarck
-  url: /2015/10/27/unification-germany-bismarck/
-  category: leisure
-  image: /assets/images/blog/blog-39.webp
-  lang: en
 - slug: berlin-wall-history-explained
   title: 'The Berlin Wall: History and Fall Explained'
   url: /2016/03/30/berlin-wall-history-explained/
@@ -19544,6 +19539,18 @@ weimar-republic-explained:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
+- slug: rise-of-hitler-nazi-germany
+  title: Rise of Hitler and Nazi Germany Explained
+  url: /2015/12/21/rise-of-hitler-nazi-germany/
+  category: leisure
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: rise-of-mussolini-fascist-italy
+  title: Mussolini and the Rise of Fascism in Italy
+  url: /2015/12/31/rise-of-mussolini-fascist-italy/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 causes-of-world-war-2-explained:
 - slug: causes-of-world-war-1-explained
   title: Causes of World War I Explained
@@ -19551,23 +19558,23 @@ causes-of-world-war-2-explained:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
 - slug: resistance-movements-world-war-2
   title: Resistance Movements in World War II
   url: /2016/02/29/resistance-movements-world-war-2/
   category: leisure
   image: /assets/images/blog/blog-22.webp
+  lang: en
+- slug: battle-of-stalingrad-explained
+  title: The Battle of Stalingrad Explained
+  url: /2016/02/09/battle-of-stalingrad-explained/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: d-day-normandy-invasion-explained
+  title: D-Day and the Normandy Invasion Explained
+  url: /2016/01/25/d-day-normandy-invasion-explained/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 d-day-normandy-invasion-explained:
 - slug: battle-of-stalingrad-explained
@@ -19620,35 +19627,29 @@ the-holocaust-explained-complete:
   image: /assets/images/blog/blog-32.webp
   lang: en
 pearl-harbor-attack-explained:
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
+- slug: pearl-harbor-yamamoto-december-1941-decision
+  title: 'Pearl Harbor: Yamamoto''s December 1941 Strike'
+  url: /2006/11/22/pearl-harbor-yamamoto-december-1941-decision/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: american-civil-war-explained-complete
-  title: The American Civil War Explained
-  url: /2015/10/12/american-civil-war-explained-complete/
+- slug: how-world-war-2-ended-explained
+  title: How World War II Ended Explained
+  url: /2016/02/19/how-world-war-2-ended-explained/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: great-depression-explained-complete
-  title: The Great Depression Explained
-  url: /2015/12/26/great-depression-explained-complete/
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
   category: leisure
-  image: /assets/images/blog/blog-09.webp
+  image: /assets/images/blog/blog-66.webp
   lang: en
-- slug: war-on-terror-explained-complete
-  title: The War on Terror Explained
-  url: /2016/06/13/war-on-terror-explained-complete/
+- slug: spanish-civil-war-explained
+  title: The Spanish Civil War Explained
+  url: /2016/01/10/spanish-civil-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
-  lang: en
-- slug: hiroshima-nagasaki-atomic-bombs
-  title: 'Hiroshima and Nagasaki: The Atomic Bombs'
-  url: /2016/02/14/hiroshima-nagasaki-atomic-bombs/
-  category: leisure
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
 battle-of-stalingrad-explained:
 - slug: d-day-normandy-invasion-explained
@@ -19682,12 +19683,6 @@ battle-of-stalingrad-explained:
   image: /assets/images/blog/blog-86.webp
   lang: en
 hiroshima-nagasaki-atomic-bombs:
-- slug: pearl-harbor-attack-explained
-  title: The Attack on Pearl Harbor Explained
-  url: /2016/02/04/pearl-harbor-attack-explained/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 - slug: battle-of-stalingrad-explained
   title: The Battle of Stalingrad Explained
   url: /2016/02/09/battle-of-stalingrad-explained/
@@ -19706,6 +19701,12 @@ hiroshima-nagasaki-atomic-bombs:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: resistance-movements-world-war-2
+  title: Resistance Movements in World War II
+  url: /2016/02/29/resistance-movements-world-war-2/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
+  lang: en
 how-world-war-2-ended-explained:
 - slug: causes-of-world-war-2-explained
   title: Causes of World War II Explained
@@ -19713,23 +19714,23 @@ how-world-war-2-ended-explained:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: how-ww1-changed-the-world
-  title: How World War I Changed the World Forever
-  url: /2015/12/16/how-ww1-changed-the-world/
+- slug: spanish-civil-war-explained
+  title: The Spanish Civil War Explained
+  url: /2016/01/10/spanish-civil-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
+- slug: causes-of-world-war-1-explained
+  title: Causes of World War I Explained
+  url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: history-of-human-rights-explained
-  title: The History of Human Rights Explained
-  url: /2016/08/17/history-of-human-rights-explained/
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
   category: leisure
-  image: /assets/images/blog/blog-63.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
 ibm-interview-questions:
 - slug: ibm-interview-technical-questions
@@ -19775,11 +19776,11 @@ nuremberg-trials-explained:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
+- slug: battle-of-stalingrad-explained
+  title: The Battle of Stalingrad Explained
+  url: /2016/02/09/battle-of-stalingrad-explained/
   category: leisure
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 resistance-movements-world-war-2:
 - slug: causes-of-world-war-2-explained
@@ -19787,12 +19788,6 @@ resistance-movements-world-war-2:
   url: /2016/01/20/causes-of-world-war-2-explained/
   category: leisure
   image: /assets/images/blog/blog-56.webp
-  lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
   lang: en
 - slug: rise-of-hitler-nazi-germany
   title: Rise of Hitler and Nazi Germany Explained
@@ -19805,6 +19800,12 @@ resistance-movements-world-war-2:
   url: /2016/01/25/d-day-normandy-invasion-explained/
   category: leisure
   image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: hiroshima-nagasaki-atomic-bombs
+  title: 'Hiroshima and Nagasaki: The Atomic Bombs'
+  url: /2016/02/14/hiroshima-nagasaki-atomic-bombs/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
   lang: en
 winston-churchill-ww2-leadership:
 - slug: d-day-normandy-invasion-explained
@@ -19819,17 +19820,17 @@ winston-churchill-ww2-leadership:
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
 - slug: battle-of-stalingrad-explained
   title: The Battle of Stalingrad Explained
   url: /2016/02/09/battle-of-stalingrad-explained/
   category: leisure
   image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: irish-great-famine-history-explained
+  title: The Irish Great Famine Explained
+  url: /2015/11/11/irish-great-famine-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-89.webp
   lang: en
 cold-war-explained-complete-guide:
 - slug: soviet-afghanistan-war-explained
@@ -19925,11 +19926,11 @@ korean-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: causes-of-world-war-1-explained
-  title: Causes of World War I Explained
-  url: /2015/11/16/causes-of-world-war-1-explained/
+- slug: soviet-afghanistan-war-explained
+  title: The Soviet-Afghan War Explained
+  url: /2016/04/14/soviet-afghanistan-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-72.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 - slug: falklands-war-1982-explained
   title: The Falklands War of 1982 Explained
@@ -20163,6 +20164,12 @@ fall-of-berlin-wall-1989-explained:
   image: /assets/images/blog/blog-65.webp
   lang: en
 tiananmen-square-1989-explained:
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: armenian-genocide-history-explained
   title: The Armenian Genocide Explained
   url: /2015/12/11/armenian-genocide-history-explained/
@@ -20180,12 +20187,6 @@ tiananmen-square-1989-explained:
   url: /2016/07/23/history-of-democracy-explained/
   category: leisure
   image: /assets/images/blog/blog-02.webp
-  lang: en
-- slug: rise-of-china-superpower-explained
-  title: The Rise of China as a Superpower Explained
-  url: /2016/07/03/rise-of-china-superpower-explained/
-  category: leisure
-  image: /assets/images/blog/blog-40.webp
   lang: en
 ibm-associate-developer-interview:
 - slug: ibm-panel-interview
@@ -20219,17 +20220,17 @@ apartheid-south-africa-explained:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: armenian-genocide-history-explained
   title: The Armenian Genocide Explained
   url: /2015/12/11/armenian-genocide-history-explained/
   category: leisure
   image: /assets/images/blog/blog-44.webp
-  lang: en
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
-  category: leisure
-  image: /assets/images/blog/blog-66.webp
   lang: en
 - slug: tiananmen-square-1989-explained
   title: Tiananmen Square 1989 Explained
@@ -20256,11 +20257,11 @@ rwandan-genocide-1994-explained:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
+- slug: tiananmen-square-1989-explained
+  title: Tiananmen Square 1989 Explained
+  url: /2016/05/04/tiananmen-square-1989-explained/
   category: leisure
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-89.webp
   lang: en
 dissolution-soviet-union-explained:
 - slug: soviet-afghanistan-war-explained
@@ -20294,23 +20295,23 @@ yugoslav-wars-1990s-explained:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
   category: leisure
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-31.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
+- slug: rise-of-hitler-nazi-germany
+  title: Rise of Hitler and Nazi Germany Explained
+  url: /2015/12/21/rise-of-hitler-nazi-germany/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-77.webp
   lang: en
 iranian-revolution-1979-explained:
 - slug: arab-spring-explained-complete
@@ -20318,12 +20319,6 @@ iranian-revolution-1979-explained:
   url: /2016/06/18/arab-spring-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-25.webp
-  lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
   lang: en
 - slug: american-revolution-explained-complete
   title: The American Revolution Explained
@@ -20336,6 +20331,12 @@ iranian-revolution-1979-explained:
   url: /2015/09/17/industrial-revolution-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: scientific-revolution-history-explained
+  title: The Scientific Revolution Explained
+  url: /2015/08/28/scientific-revolution-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-44.webp
   lang: en
 falklands-war-1982-explained:
 - slug: korean-war-explained-complete
@@ -20431,11 +20432,11 @@ arab-spring-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-54.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
+- slug: industrial-revolution-explained
+  title: The Industrial Revolution Explained
+  url: /2015/09/17/industrial-revolution-explained/
   category: leisure
-  image: /assets/images/blog/blog-30.webp
+  image: /assets/images/blog/blog-80.webp
   lang: en
 european-union-formation-history:
 - slug: how-ww1-changed-the-world
@@ -20506,11 +20507,17 @@ brexit-explained-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-77.webp
   lang: en
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
+- slug: napoleonic-wars-explained-complete
+  title: The Napoleonic Wars Explained
+  url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: spanish-armada-1588-explained
+  title: The Spanish Armada of 1588 Explained
+  url: /2015/08/23/spanish-armada-1588-explained/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 rise-of-china-superpower-explained:
 - slug: great-depression-explained-complete
@@ -20569,12 +20576,6 @@ greatest-revolutions-history-compared:
   category: leisure
   image: /assets/images/blog/blog-87.webp
   lang: en
-- slug: french-revolution-explained-complete
-  title: The French Revolution Explained
-  url: /2015/09/07/french-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-30.webp
-  lang: en
 - slug: greatest-military-leaders-compared
   title: Greatest Military Leaders in History
   url: /2016/07/28/greatest-military-leaders-compared/
@@ -20586,6 +20587,12 @@ greatest-revolutions-history-compared:
   url: /2016/06/18/arab-spring-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 azure-fundamentals-az-900-practice-exam-microsoft-certification:
 - slug: upsc-exam-pattern-2026
@@ -20744,6 +20751,12 @@ women-who-changed-history:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 - slug: inventions-that-changed-the-world
   title: Inventions That Changed the World
   url: /2016/08/12/inventions-that-changed-the-world/
@@ -20755,12 +20768,6 @@ women-who-changed-history:
   url: /2016/07/23/history-of-democracy-explained/
   category: leisure
   image: /assets/images/blog/blog-02.webp
-  lang: en
-- slug: biggest-what-ifs-in-history
-  title: The Biggest What Ifs in History
-  url: /2016/08/22/biggest-what-ifs-in-history/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
   lang: en
 inventions-that-changed-the-world:
 - slug: how-ww1-changed-the-world
@@ -20781,19 +20788,13 @@ inventions-that-changed-the-world:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
-history-of-human-rights-explained:
-- slug: abolition-slavery-history-timeline
-  title: 'Abolition of Slavery: History and Timeline'
-  url: /2015/10/17/abolition-slavery-history-timeline/
+- slug: european-union-formation-history
+  title: How the European Union Was Formed
+  url: /2016/06/23/european-union-formation-history/
   category: leisure
   image: /assets/images/blog/blog-62.webp
   lang: en
+history-of-human-rights-explained:
 - slug: women-who-changed-history
   title: Women Who Changed History
   url: /2016/08/07/women-who-changed-history/
@@ -20811,6 +20812,12 @@ history-of-human-rights-explained:
   url: /2016/08/22/biggest-what-ifs-in-history/
   category: leisure
   image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: lessons-history-teaches-us-today
+  title: Lessons That History Teaches Us Today
+  url: /2016/08/27/lessons-history-teaches-us-today/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
   lang: en
 biggest-what-ifs-in-history:
 - slug: women-who-changed-history
@@ -20831,11 +20838,11 @@ biggest-what-ifs-in-history:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: abolition-slavery-history-timeline
-  title: 'Abolition of Slavery: History and Timeline'
-  url: /2015/10/17/abolition-slavery-history-timeline/
+- slug: how-ww1-changed-the-world
+  title: How World War I Changed the World Forever
+  url: /2015/12/16/how-ww1-changed-the-world/
   category: leisure
-  image: /assets/images/blog/blog-62.webp
+  image: /assets/images/blog/blog-20.webp
   lang: en
 lessons-history-teaches-us-today:
 - slug: women-who-changed-history
@@ -29761,7 +29768,7 @@ meta-layoffs-and-hiring-freeze:
   title: 'Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot'
   url: /2026/04/25/meta-layoffs-may-2026-8000-jobs-cut-ai-pivot/
   category: industry
-  image: /assets/images/blog/blog-01.webp
+  image: /assets/images/blog/blog-81.webp
   lang: en
 tableau-certified-data-analyst-salary:
 - slug: tableau-certified-data-analyst-prep
@@ -35815,29 +35822,29 @@ ai-for-supply-chain:
   image: /assets/images/blog/blog-16.webp
   lang: en
 the-alchemist-alternate-endings:
-- slug: symbolism-catcher-in-the-rye
-  title: Symbolism in The Catcher in the Rye
-  url: /2014/08/08/symbolism-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: complete-analysis-catcher-in-the-rye
-  title: Complete Analysis of Catcher in the Rye
-  url: /2014/07/24/complete-analysis-catcher-in-the-rye/
-  category: leisure
-  image: /assets/images/blog/blog-68.webp
-  lang: en
 - slug: greatest-literary-villains-compared
   title: Greatest Villains in Classic Literature
   url: /2015/01/10/greatest-literary-villains-compared/
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
+- slug: symbolism-catcher-in-the-rye
+  title: Symbolism in The Catcher in the Rye
+  url: /2014/08/08/symbolism-catcher-in-the-rye/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 - slug: madness-sanity-classic-literature
   title: Madness and Sanity in Classic Literature
   url: /2015/03/26/madness-sanity-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: simon-character-analysis-lord-flies
+  title: Simon Character Analysis in Lord of the Flies
+  url: /2014/05/15/simon-character-analysis-lord-flies/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
   lang: en
 gaokao-classical-chinese-wenyanwen:
 - slug: gaokao-exam-pattern-format

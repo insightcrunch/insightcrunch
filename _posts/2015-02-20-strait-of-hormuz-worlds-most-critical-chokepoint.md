@@ -8,10 +8,9 @@ excerpt: "The Strait of Hormuz carries 20 percent of global oil supply and has n
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 80
 author: "jason-mckenzie"
-last_updated: 2026-04-25
+last_updated: 2026-04-29
 lang: en
 ---
-
 Somewhere between the rocky coastline of Iran and the sun-bleached cliffs of Oman, a narrow passage of water carries more economic significance per square kilometer than any other geography on the planet. The Strait of Hormuz, a waterway approximately 167 kilometers long and just 39 kilometers wide at its narrowest point, connects the Persian Gulf to the Gulf of Oman and the Arabian Sea beyond. Through this passage, approximately 20 million barrels of oil flow every single day. That represents roughly 20 percent of the world's total petroleum consumption and approximately 25 percent of all seaborne oil trade. In addition, around one-fifth of global liquefied natural gas trade and nearly one-third of internationally traded fertilizers transit the same corridor.
 
 ![Strait of Hormuz](/assets/images/blog/blog-89.webp)

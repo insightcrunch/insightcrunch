@@ -5,11 +5,11 @@ page_title: "Madness and Sanity in Classic Literature - Catherine, Heathcliff, V
 date: 2015-03-26
 categories: ["Leisure"]
 tags: ["madness", "sanity", "literary-comparison", "classic-literature", "literary-analysis"]
-excerpt: "How classic novels explore madness - who is truly sane, who is breaking, and where the line disappears."
+excerpt: "Decode madness and sanity in classic literature as a deliberate destabilization that questions both categories."
 image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
 author: "claire-bennett"
-last_updated: 2015-03-26
+last_updated: 2026-04-29
 lang: en
 ---
 The exploration of madness and sanity in classic literature reveals that the boundary between these states often reflects social conventions and cultural expectations rather than absolute psychological conditions. The greatest novels examining mental states demonstrate how circumstances, obsessions, grief, and societal pressures can transform rational individuals while questioning whether apparent madness might actually represent deeper truth or authentic response to impossible situations.

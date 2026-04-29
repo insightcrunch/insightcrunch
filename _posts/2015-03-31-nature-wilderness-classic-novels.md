@@ -5,11 +5,11 @@ page_title: "Nature and Wilderness in Wuthering Heights, Lord of the Flies, and 
 date: 2015-03-31
 categories: ["Leisure"]
 tags: ["wuthering-heights", "lord-of-the-flies", "heart-of-darkness", "emily-bronte", "william-golding", "joseph-conrad"]
-excerpt: "A comparative study of how Brontë, Golding, and Conrad use wild landscape to reveal what civilised life refuses to acknowledge about itself."
+excerpt: "Decode nature in classic literature as a character that reveals the human characters by reflecting their states."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 72
 author: "lauren-hayes"
-last_updated: 2015-03-31
+last_updated: 2026-04-29
 lang: en
 ---
 The question is not whether nature is beautiful or terrible. The question is what we are allowed to notice about ourselves when we are inside it. Emily Brontë, writing in 1846 at the parsonage in Haworth where a graveyard pressed against the kitchen wall, gave us a Yorkshire moor whose heather and wind produced a love affair the novel's drawing rooms could not contain. Joseph Conrad, recalling his 1890 journey up the Congo River while working at his desk in Pent Farm in Kent in 1898, gave us an African jungle that exposed the rot beneath European self-presentation. William Golding, composing in a Salisbury grammar-school classroom in 1951 after six years of wartime naval service, gave us a Pacific coral island where a group of English boys worked out, in about two months, what two thousand years of Christian education had been unable to prevent. Three wildernesses, three revelations, one shared thesis: the terrain tells the truth the parlor refuses to hear.

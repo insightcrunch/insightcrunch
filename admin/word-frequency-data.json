@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-25T21:28:02Z",
+  "generated": "2026-04-29T08:25:56Z",
   "threshold": 50,
-  "totalPosts": 1602,
-  "flaggedPosts": 1272,
+  "totalPosts": 1603,
+  "flaggedPosts": 1273,
   "suppressedPosts": 12,
   "stalePosts": 0,
   "worstWord": "available",
   "worstCount": 1711,
   "worstPost": "Isolation in Classic Novels Compared",
-  "avgTopCount": 223.4,
+  "avgTopCount": 221.7,
   "posts": [
     {
       "filename": "1996-08-07-sat-nursing-health-programs.md",
@@ -65076,9 +65076,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6825,
-      "topWord": "novel",
-      "topCount": 226,
+      "wordCount": 7465,
+      "topWord": "austen",
+      "topCount": 130,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65087,44 +65087,36 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-21-complete-analysis-pride-and-prejudice.md",
       "flaggedWords": [
         {
+          "word": "austen",
+          "count": 130
+        },
+        {
           "word": "novel",
-          "count": 226
-        },
-        {
-          "word": "specific",
-          "count": 158
-        },
-        {
-          "word": "social",
-          "count": 155
+          "count": 130
         },
         {
           "word": "elizabeth",
-          "count": 116
+          "count": 120
         },
         {
           "word": "darcy",
-          "count": 104
+          "count": 106
         },
         {
-          "word": "genuine",
-          "count": 99
-        },
-        {
-          "word": "character",
-          "count": 74
-        },
-        {
-          "word": "pride",
-          "count": 66
+          "word": "market",
+          "count": 97
         },
         {
           "word": "bennet",
-          "count": 64
+          "count": 78
         },
         {
           "word": "marriage",
-          "count": 60
+          "count": 76
+        },
+        {
+          "word": "pride",
+          "count": 61
         },
         {
           "word": "prejudice",
@@ -65133,84 +65125,84 @@
       ],
       "top20": [
         {
+          "word": "austen",
+          "count": 130
+        },
+        {
           "word": "novel",
-          "count": 226
-        },
-        {
-          "word": "specific",
-          "count": 158
-        },
-        {
-          "word": "social",
-          "count": 155
+          "count": 130
         },
         {
           "word": "elizabeth",
-          "count": 116
+          "count": 120
         },
         {
           "word": "darcy",
-          "count": 104
+          "count": 106
         },
         {
-          "word": "genuine",
-          "count": 99
-        },
-        {
-          "word": "character",
-          "count": 74
-        },
-        {
-          "word": "pride",
-          "count": 66
+          "word": "market",
+          "count": 97
         },
         {
           "word": "bennet",
-          "count": 64
+          "count": 78
         },
         {
           "word": "marriage",
-          "count": 60
+          "count": 76
+        },
+        {
+          "word": "pride",
+          "count": 61
         },
         {
           "word": "prejudice",
           "count": 58
         },
         {
-          "word": "intelligence",
-          "count": 50
+          "word": "social",
+          "count": 46
         },
         {
-          "word": "argument",
-          "count": 50
+          "word": "thousand",
+          "count": 36
         },
         {
-          "word": "understanding",
-          "count": 50
+          "word": "pounds",
+          "count": 36
         },
         {
-          "word": "irony",
-          "count": 49
-        },
-        {
-          "word": "wickham",
-          "count": 45
-        },
-        {
-          "word": "austen",
-          "count": 43
-        },
-        {
-          "word": "makes",
-          "count": 42
-        },
-        {
-          "word": "class",
-          "count": 40
-        },
-        {
-          "word": "position",
+          "word": "charlotte",
           "count": 35
+        },
+        {
+          "word": "five",
+          "count": 34
+        },
+        {
+          "word": "collins",
+          "count": 34
+        },
+        {
+          "word": "family",
+          "count": 33
+        },
+        {
+          "word": "mr",
+          "count": 33
+        },
+        {
+          "word": "jane",
+          "count": 31
+        },
+        {
+          "word": "economic",
+          "count": 30
+        },
+        {
+          "word": "daughters",
+          "count": 29
         }
       ]
     },
@@ -65222,9 +65214,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6418,
+      "wordCount": 7325,
       "topWord": "elizabeth",
-      "topCount": 224,
+      "topCount": 379,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65234,133 +65226,105 @@
       "flaggedWords": [
         {
           "word": "elizabeth",
-          "count": 224
-        },
-        {
-          "word": "specific",
-          "count": 219
-        },
-        {
-          "word": "social",
-          "count": 133
-        },
-        {
-          "word": "novel",
-          "count": 115
+          "count": 379
         },
         {
           "word": "darcy",
-          "count": 92
+          "count": 158
         },
         {
-          "word": "genuine",
-          "count": 90
+          "word": "austen",
+          "count": 87
         },
         {
-          "word": "intelligence",
-          "count": 83
-        },
-        {
-          "word": "character",
+          "word": "bennet",
           "count": 68
         },
         {
-          "word": "makes",
-          "count": 65
-        },
-        {
-          "word": "revision",
-          "count": 65
-        },
-        {
-          "word": "genuinely",
-          "count": 63
-        },
-        {
-          "word": "evidence",
+          "word": "wickham",
           "count": 54
         }
       ],
       "top20": [
         {
           "word": "elizabeth",
-          "count": 224
-        },
-        {
-          "word": "specific",
-          "count": 219
-        },
-        {
-          "word": "social",
-          "count": 133
-        },
-        {
-          "word": "novel",
-          "count": 115
+          "count": 379
         },
         {
           "word": "darcy",
-          "count": 92
+          "count": 158
         },
         {
-          "word": "genuine",
-          "count": 90
+          "word": "austen",
+          "count": 87
         },
         {
-          "word": "intelligence",
-          "count": 83
-        },
-        {
-          "word": "character",
+          "word": "bennet",
           "count": 68
         },
         {
-          "word": "makes",
-          "count": 65
-        },
-        {
-          "word": "revision",
-          "count": 65
-        },
-        {
-          "word": "genuinely",
-          "count": 63
-        },
-        {
-          "word": "evidence",
+          "word": "wickham",
           "count": 54
         },
         {
-          "word": "specifically",
-          "count": 44
+          "word": "text",
+          "count": 45
         },
         {
-          "word": "simply",
-          "count": 44
-        },
-        {
-          "word": "relationship",
-          "count": 44
-        },
-        {
-          "word": "wickham",
-          "count": 44
-        },
-        {
-          "word": "quality",
+          "word": "evidence",
           "count": 43
         },
         {
-          "word": "understanding",
+          "word": "jane",
+          "count": 43
+        },
+        {
+          "word": "novel",
+          "count": 43
+        },
+        {
+          "word": "character",
           "count": 42
         },
         {
-          "word": "letter",
-          "count": 42
+          "word": "collins",
+          "count": 41
         },
         {
-          "word": "confident",
+          "word": "mrs",
           "count": 38
+        },
+        {
+          "word": "chapter",
+          "count": 37
+        },
+        {
+          "word": "intelligence",
+          "count": 35
+        },
+        {
+          "word": "refusal",
+          "count": 34
+        },
+        {
+          "word": "marriage",
+          "count": 30
+        },
+        {
+          "word": "reader",
+          "count": 30
+        },
+        {
+          "word": "reading",
+          "count": 29
+        },
+        {
+          "word": "family",
+          "count": 29
+        },
+        {
+          "word": "social",
+          "count": 28
         }
       ]
     },
@@ -65372,9 +65336,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6611,
-      "topWord": "genuine",
-      "topCount": 206,
+      "wordCount": 7072,
+      "topWord": "darcy",
+      "topCount": 322,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65383,146 +65347,110 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-03-31-mr-darcy-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "genuine",
-          "count": 206
-        },
-        {
-          "word": "specific",
-          "count": 202
-        },
-        {
-          "word": "social",
-          "count": 179
-        },
-        {
           "word": "darcy",
-          "count": 163
+          "count": 322
         },
         {
           "word": "elizabeth",
-          "count": 126
+          "count": 121
         },
         {
-          "word": "character",
-          "count": 105
+          "word": "class",
+          "count": 100
         },
         {
-          "word": "pride",
-          "count": 92
-        },
-        {
-          "word": "transformation",
+          "word": "austen",
           "count": 83
         },
         {
-          "word": "novel",
-          "count": 82
+          "word": "whose",
+          "count": 56
         },
         {
-          "word": "genuinely",
-          "count": 67
-        },
-        {
-          "word": "conduct",
-          "count": 66
-        },
-        {
-          "word": "position",
-          "count": 64
-        },
-        {
-          "word": "simply",
-          "count": 58
-        },
-        {
-          "word": "intelligence",
-          "count": 53
-        },
-        {
-          "word": "bingley",
-          "count": 52
+          "word": "reading",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "genuine",
-          "count": 206
-        },
-        {
-          "word": "specific",
-          "count": 202
-        },
-        {
-          "word": "social",
-          "count": 179
-        },
-        {
           "word": "darcy",
-          "count": 163
+          "count": 322
         },
         {
           "word": "elizabeth",
-          "count": 126
-        },
-        {
-          "word": "character",
-          "count": 105
-        },
-        {
-          "word": "pride",
-          "count": 92
-        },
-        {
-          "word": "transformation",
-          "count": 83
-        },
-        {
-          "word": "novel",
-          "count": 82
-        },
-        {
-          "word": "genuinely",
-          "count": 67
-        },
-        {
-          "word": "conduct",
-          "count": 66
-        },
-        {
-          "word": "position",
-          "count": 64
-        },
-        {
-          "word": "simply",
-          "count": 58
-        },
-        {
-          "word": "intelligence",
-          "count": 53
-        },
-        {
-          "word": "bingley",
-          "count": 52
-        },
-        {
-          "word": "evidence",
-          "count": 49
+          "count": 121
         },
         {
           "word": "class",
-          "count": 48
+          "count": 100
         },
         {
-          "word": "intervention",
-          "count": 44
+          "word": "austen",
+          "count": 83
         },
         {
-          "word": "moral",
+          "word": "whose",
+          "count": 56
+        },
+        {
+          "word": "reading",
+          "count": 55
+        },
+        {
+          "word": "bingley",
+          "count": 47
+        },
+        {
+          "word": "novel",
+          "count": 46
+        },
+        {
+          "word": "romantic",
           "count": 43
         },
         {
-          "word": "organized",
-          "count": 39
+          "word": "wickham",
+          "count": 40
+        },
+        {
+          "word": "character",
+          "count": 37
+        },
+        {
+          "word": "behavior",
+          "count": 34
+        },
+        {
+          "word": "jane",
+          "count": 32
+        },
+        {
+          "word": "position",
+          "count": 31
+        },
+        {
+          "word": "bennet",
+          "count": 31
+        },
+        {
+          "word": "proposal",
+          "count": 31
+        },
+        {
+          "word": "wealth",
+          "count": 29
+        },
+        {
+          "word": "genuine",
+          "count": 28
+        },
+        {
+          "word": "pemberley",
+          "count": 27
+        },
+        {
+          "word": "family",
+          "count": 27
         }
       ]
     },
@@ -65534,9 +65462,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7050,
-      "topWord": "market",
-      "topCount": 231,
+      "wordCount": 7495,
+      "topWord": "elizabeth",
+      "topCount": 135,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65545,154 +65473,142 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-05-class-marriage-pride-and-prejudice.md",
       "flaggedWords": [
         {
+          "word": "elizabeth",
+          "count": 135
+        },
+        {
+          "word": "austen",
+          "count": 123
+        },
+        {
           "word": "market",
-          "count": 231
-        },
-        {
-          "word": "social",
-          "count": 197
-        },
-        {
-          "word": "specific",
-          "count": 179
-        },
-        {
-          "word": "marriage",
-          "count": 138
-        },
-        {
-          "word": "novel",
-          "count": 134
-        },
-        {
-          "word": "romantic",
           "count": 116
         },
         {
+          "word": "marriage",
+          "count": 112
+        },
+        {
+          "word": "novel",
+          "count": 109
+        },
+        {
+          "word": "darcy",
+          "count": 106
+        },
+        {
           "word": "class",
-          "count": 92
+          "count": 84
         },
         {
-          "word": "genuine",
-          "count": 81
-        },
-        {
-          "word": "material",
-          "count": 80
+          "word": "charlotte",
+          "count": 74
         },
         {
           "word": "bennet",
-          "count": 77
+          "count": 73
         },
         {
-          "word": "match",
-          "count": 77
+          "word": "economic",
+          "count": 72
         },
         {
-          "word": "logic",
-          "count": 70
+          "word": "collins",
+          "count": 62
         },
         {
-          "word": "elizabeth",
-          "count": 64
+          "word": "social",
+          "count": 62
         },
         {
-          "word": "mythology",
-          "count": 60
+          "word": "five",
+          "count": 55
         },
         {
-          "word": "argument",
-          "count": 60
-        },
-        {
-          "word": "family",
-          "count": 57
-        },
-        {
-          "word": "organized",
-          "count": 52
+          "word": "thousand",
+          "count": 51
         }
       ],
       "top20": [
         {
+          "word": "elizabeth",
+          "count": 135
+        },
+        {
+          "word": "austen",
+          "count": 123
+        },
+        {
           "word": "market",
-          "count": 231
-        },
-        {
-          "word": "social",
-          "count": 197
-        },
-        {
-          "word": "specific",
-          "count": 179
-        },
-        {
-          "word": "marriage",
-          "count": 138
-        },
-        {
-          "word": "novel",
-          "count": 134
-        },
-        {
-          "word": "romantic",
           "count": 116
         },
         {
-          "word": "class",
-          "count": 92
+          "word": "marriage",
+          "count": 112
         },
         {
-          "word": "genuine",
-          "count": 81
-        },
-        {
-          "word": "material",
-          "count": 80
-        },
-        {
-          "word": "bennet",
-          "count": 77
-        },
-        {
-          "word": "match",
-          "count": 77
-        },
-        {
-          "word": "logic",
-          "count": 70
-        },
-        {
-          "word": "elizabeth",
-          "count": 64
-        },
-        {
-          "word": "mythology",
-          "count": 60
-        },
-        {
-          "word": "argument",
-          "count": 60
-        },
-        {
-          "word": "family",
-          "count": 57
-        },
-        {
-          "word": "organized",
-          "count": 52
-        },
-        {
-          "word": "genuinely",
-          "count": 50
+          "word": "novel",
+          "count": 109
         },
         {
           "word": "darcy",
-          "count": 49
+          "count": 106
+        },
+        {
+          "word": "class",
+          "count": 84
+        },
+        {
+          "word": "charlotte",
+          "count": 74
+        },
+        {
+          "word": "bennet",
+          "count": 73
         },
         {
           "word": "economic",
-          "count": 46
+          "count": 72
+        },
+        {
+          "word": "collins",
+          "count": 62
+        },
+        {
+          "word": "social",
+          "count": 62
+        },
+        {
+          "word": "five",
+          "count": 55
+        },
+        {
+          "word": "thousand",
+          "count": 51
+        },
+        {
+          "word": "position",
+          "count": 47
+        },
+        {
+          "word": "bingley",
+          "count": 43
+        },
+        {
+          "word": "family",
+          "count": 42
+        },
+        {
+          "word": "income",
+          "count": 40
+        },
+        {
+          "word": "wickham",
+          "count": 39
+        },
+        {
+          "word": "pride",
+          "count": 36
         }
       ]
     },
@@ -65704,9 +65620,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7015,
-      "topWord": "social",
-      "topCount": 250,
+      "wordCount": 7578,
+      "topWord": "bennet",
+      "topCount": 282,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65715,146 +65631,126 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-04-10-mrs-bennet-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "social",
-          "count": 250
-        },
-        {
           "word": "bennet",
-          "count": 248
-        },
-        {
-          "word": "specific",
-          "count": 210
+          "count": 282
         },
         {
           "word": "mrs",
-          "count": 209
-        },
-        {
-          "word": "market",
-          "count": 125
-        },
-        {
-          "word": "genuine",
-          "count": 90
+          "count": 212
         },
         {
           "word": "novel",
-          "count": 88
+          "count": 162
         },
         {
-          "word": "comedy",
-          "count": 63
+          "word": "austen",
+          "count": 77
         },
         {
           "word": "family",
-          "count": 61
-        },
-        {
-          "word": "material",
-          "count": 60
+          "count": 72
         },
         {
           "word": "marriage",
-          "count": 57
-        },
-        {
-          "word": "daughters",
-          "count": 55
+          "count": 71
         },
         {
           "word": "elizabeth",
-          "count": 54
+          "count": 71
         },
         {
-          "word": "intelligence",
+          "word": "mr",
+          "count": 70
+        },
+        {
+          "word": "daughters",
+          "count": 60
+        },
+        {
+          "word": "lydia",
           "count": 53
-        },
-        {
-          "word": "situation",
-          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "social",
-          "count": 250
-        },
-        {
           "word": "bennet",
-          "count": 248
-        },
-        {
-          "word": "specific",
-          "count": 210
+          "count": 282
         },
         {
           "word": "mrs",
-          "count": 209
-        },
-        {
-          "word": "market",
-          "count": 125
-        },
-        {
-          "word": "genuine",
-          "count": 90
+          "count": 212
         },
         {
           "word": "novel",
-          "count": 88
+          "count": 162
         },
         {
-          "word": "comedy",
-          "count": 63
+          "word": "austen",
+          "count": 77
         },
         {
           "word": "family",
-          "count": 61
-        },
-        {
-          "word": "material",
-          "count": 60
+          "count": 72
         },
         {
           "word": "marriage",
-          "count": 57
-        },
-        {
-          "word": "daughters",
-          "count": 55
+          "count": 71
         },
         {
           "word": "elizabeth",
-          "count": 54
+          "count": 71
         },
         {
-          "word": "intelligence",
+          "word": "mr",
+          "count": 70
+        },
+        {
+          "word": "daughters",
+          "count": 60
+        },
+        {
+          "word": "lydia",
           "count": 53
         },
         {
-          "word": "situation",
-          "count": 51
+          "word": "class",
+          "count": 50
         },
         {
-          "word": "management",
-          "count": 47
+          "word": "mother",
+          "count": 49
         },
         {
           "word": "character",
-          "count": 46
+          "count": 44
         },
         {
-          "word": "anxiety",
-          "count": 43
-        },
-        {
-          "word": "whose",
+          "word": "reading",
           "count": 42
         },
         {
-          "word": "concern",
-          "count": 41
+          "word": "jane",
+          "count": 42
+        },
+        {
+          "word": "comic",
+          "count": 36
+        },
+        {
+          "word": "structural",
+          "count": 36
+        },
+        {
+          "word": "social",
+          "count": 35
+        },
+        {
+          "word": "market",
+          "count": 35
+        },
+        {
+          "word": "darcy",
+          "count": 35
         }
       ]
     },
@@ -65866,9 +65762,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6677,
+      "wordCount": 7195,
       "topWord": "wickham",
-      "topCount": 314,
+      "topCount": 384,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -65878,113 +65774,113 @@
       "flaggedWords": [
         {
           "word": "wickham",
-          "count": 314
+          "count": 384
         },
         {
           "word": "darcy",
-          "count": 122
-        },
-        {
-          "word": "austen",
-          "count": 92
-        },
-        {
-          "word": "elizabeth",
-          "count": 81
-        },
-        {
-          "word": "social",
-          "count": 64
+          "count": 170
         },
         {
           "word": "novel",
-          "count": 53
+          "count": 111
         },
         {
-          "word": "character",
-          "count": 51
+          "word": "elizabeth",
+          "count": 110
+        },
+        {
+          "word": "austen",
+          "count": 76
+        },
+        {
+          "word": "structural",
+          "count": 55
+        },
+        {
+          "word": "lydia",
+          "count": 54
         }
       ],
       "top20": [
         {
           "word": "wickham",
-          "count": 314
+          "count": 384
         },
         {
           "word": "darcy",
-          "count": 122
-        },
-        {
-          "word": "austen",
-          "count": 92
-        },
-        {
-          "word": "elizabeth",
-          "count": 81
-        },
-        {
-          "word": "social",
-          "count": 64
+          "count": 170
         },
         {
           "word": "novel",
-          "count": 53
+          "count": 111
         },
         {
-          "word": "character",
-          "count": 51
+          "word": "elizabeth",
+          "count": 110
+        },
+        {
+          "word": "austen",
+          "count": 76
+        },
+        {
+          "word": "structural",
+          "count": 55
         },
         {
           "word": "lydia",
-          "count": 48
+          "count": 54
         },
         {
-          "word": "makes",
-          "count": 32
+          "word": "social",
+          "count": 44
         },
         {
-          "word": "story",
-          "count": 31
+          "word": "whose",
+          "count": 43
         },
         {
-          "word": "pride",
-          "count": 29
+          "word": "position",
+          "count": 42
         },
         {
-          "word": "bennet",
-          "count": 29
-        },
-        {
-          "word": "charm",
-          "count": 28
+          "word": "character",
+          "count": 36
         },
         {
           "word": "georgiana",
-          "count": 28
+          "count": 36
         },
         {
-          "word": "simply",
-          "count": 25
+          "word": "economic",
+          "count": 35
         },
         {
-          "word": "behavior",
-          "count": 24
+          "word": "property",
+          "count": 33
         },
         {
-          "word": "prejudice",
-          "count": 23
+          "word": "reading",
+          "count": 33
         },
         {
-          "word": "mr",
-          "count": 23
+          "word": "marriage",
+          "count": 32
         },
         {
-          "word": "narrative",
-          "count": 20
+          "word": "thousand",
+          "count": 31
         },
         {
-          "word": "characters",
-          "count": 19
+          "word": "pounds",
+          "count": 30
+        },
+        {
+          "word": "militia",
+          "count": 27
+        },
+        {
+          "word": "elopement",
+          "count": 27
         }
       ]
     },
@@ -66102,9 +65998,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6567,
+      "wordCount": 7492,
       "topWord": "jane",
-      "topCount": 258,
+      "topCount": 323,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66114,113 +66010,109 @@
       "flaggedWords": [
         {
           "word": "jane",
-          "count": 258
+          "count": 323
         },
         {
           "word": "bingley",
-          "count": 226
+          "count": 280
         },
         {
           "word": "darcy",
-          "count": 116
-        },
-        {
-          "word": "social",
-          "count": 90
+          "count": 172
         },
         {
           "word": "elizabeth",
-          "count": 70
-        },
-        {
-          "word": "austen",
-          "count": 68
+          "count": 124
         },
         {
           "word": "novel",
-          "count": 60
+          "count": 93
+        },
+        {
+          "word": "austen",
+          "count": 90
         }
       ],
       "top20": [
         {
           "word": "jane",
-          "count": 258
+          "count": 323
         },
         {
           "word": "bingley",
-          "count": 226
+          "count": 280
         },
         {
           "word": "darcy",
-          "count": 116
-        },
-        {
-          "word": "social",
-          "count": 90
+          "count": 172
         },
         {
           "word": "elizabeth",
-          "count": 70
-        },
-        {
-          "word": "austen",
-          "count": 68
+          "count": 124
         },
         {
           "word": "novel",
-          "count": 60
+          "count": 93
         },
         {
-          "word": "story",
-          "count": 46
+          "word": "austen",
+          "count": 90
         },
         {
-          "word": "love",
-          "count": 44
+          "word": "pairing",
+          "count": 47
         },
         {
-          "word": "caroline",
-          "count": 44
+          "word": "bennet",
+          "count": 45
+        },
+        {
+          "word": "marriage",
+          "count": 42
+        },
+        {
+          "word": "feelings",
+          "count": 41
         },
         {
           "word": "character",
           "count": 40
         },
         {
-          "word": "bennet",
+          "word": "structural",
           "count": 39
         },
         {
-          "word": "happiness",
-          "count": 38
+          "word": "match",
+          "count": 37
+        },
+        {
+          "word": "caroline",
+          "count": 37
+        },
+        {
+          "word": "composure",
+          "count": 37
+        },
+        {
+          "word": "class",
+          "count": 34
         },
         {
           "word": "family",
-          "count": 32
+          "count": 34
         },
         {
-          "word": "goodness",
+          "word": "market",
           "count": 30
         },
         {
-          "word": "genuine",
-          "count": 27
+          "word": "romance",
+          "count": 28
         },
         {
-          "word": "pride",
-          "count": 24
-        },
-        {
-          "word": "separation",
-          "count": 24
-        },
-        {
-          "word": "makes",
-          "count": 22
-        },
-        {
-          "word": "interference",
-          "count": 21
+          "word": "whose",
+          "count": 28
         }
       ]
     },
@@ -66374,9 +66266,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6384,
+      "wordCount": 7221,
       "topWord": "ralph",
-      "topCount": 336,
+      "topCount": 381,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66386,109 +66278,121 @@
       "flaggedWords": [
         {
           "word": "ralph",
-          "count": 336
+          "count": 381
         },
         {
           "word": "jack",
-          "count": 81
+          "count": 106
         },
         {
           "word": "novel",
-          "count": 75
-        },
-        {
-          "word": "piggy",
-          "count": 66
-        },
-        {
-          "word": "golding",
-          "count": 61
+          "count": 96
         },
         {
           "word": "boys",
-          "count": 55
+          "count": 94
+        },
+        {
+          "word": "golding",
+          "count": 90
+        },
+        {
+          "word": "piggy",
+          "count": 72
+        },
+        {
+          "word": "decency",
+          "count": 61
+        },
+        {
+          "word": "simon",
+          "count": 58
+        },
+        {
+          "word": "fire",
+          "count": 52
         }
       ],
       "top20": [
         {
           "word": "ralph",
-          "count": 336
+          "count": 381
         },
         {
           "word": "jack",
-          "count": 81
+          "count": 106
         },
         {
           "word": "novel",
-          "count": 75
-        },
-        {
-          "word": "piggy",
-          "count": 66
-        },
-        {
-          "word": "golding",
-          "count": 61
+          "count": 96
         },
         {
           "word": "boys",
-          "count": 55
+          "count": 94
         },
         {
-          "word": "democratic",
-          "count": 47
+          "word": "golding",
+          "count": 90
         },
         {
-          "word": "island",
-          "count": 44
+          "word": "piggy",
+          "count": 72
         },
         {
-          "word": "civilization",
-          "count": 42
-        },
-        {
-          "word": "human",
-          "count": 39
-        },
-        {
-          "word": "authority",
-          "count": 38
-        },
-        {
-          "word": "cannot",
-          "count": 37
-        },
-        {
-          "word": "leader",
-          "count": 33
-        },
-        {
-          "word": "leadership",
-          "count": 33
-        },
-        {
-          "word": "failure",
-          "count": 31
+          "word": "decency",
+          "count": 61
         },
         {
           "word": "simon",
-          "count": 30
+          "count": 58
         },
         {
-          "word": "boy",
-          "count": 29
+          "word": "fire",
+          "count": 52
         },
         {
-          "word": "moral",
-          "count": 25
-        },
-        {
-          "word": "rules",
-          "count": 25
+          "word": "leadership",
+          "count": 49
         },
         {
           "word": "conch",
-          "count": 24
+          "count": 47
+        },
+        {
+          "word": "authority",
+          "count": 46
+        },
+        {
+          "word": "chapter",
+          "count": 46
+        },
+        {
+          "word": "cannot",
+          "count": 44
+        },
+        {
+          "word": "island",
+          "count": 40
+        },
+        {
+          "word": "failure",
+          "count": 37
+        },
+        {
+          "word": "civilization",
+          "count": 37
+        },
+        {
+          "word": "group",
+          "count": 34
+        },
+        {
+          "word": "civilized",
+          "count": 33
+        },
+        {
+          "word": "leader",
+          "count": 31
         }
       ]
     },
@@ -66500,9 +66404,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6483,
+      "wordCount": 7741,
       "topWord": "jack",
-      "topCount": 361,
+      "topCount": 266,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66512,105 +66416,121 @@
       "flaggedWords": [
         {
           "word": "jack",
-          "count": 361
+          "count": 266
         },
         {
           "word": "ralph",
-          "count": 81
-        },
-        {
-          "word": "power",
-          "count": 71
+          "count": 123
         },
         {
           "word": "golding",
-          "count": 62
+          "count": 118
+        },
+        {
+          "word": "chapter",
+          "count": 94
+        },
+        {
+          "word": "boys",
+          "count": 93
         },
         {
           "word": "novel",
-          "count": 56
+          "count": 70
+        },
+        {
+          "word": "leadership",
+          "count": 65
+        },
+        {
+          "word": "piggy",
+          "count": 57
+        },
+        {
+          "word": "political",
+          "count": 52
         }
       ],
       "top20": [
         {
           "word": "jack",
-          "count": 361
+          "count": 266
         },
         {
           "word": "ralph",
-          "count": 81
-        },
-        {
-          "word": "power",
-          "count": 71
+          "count": 123
         },
         {
           "word": "golding",
-          "count": 62
+          "count": 118
         },
         {
-          "word": "novel",
-          "count": 56
-        },
-        {
-          "word": "authority",
-          "count": 49
+          "word": "chapter",
+          "count": 94
         },
         {
           "word": "boys",
-          "count": 44
+          "count": 93
         },
         {
-          "word": "island",
-          "count": 41
+          "word": "novel",
+          "count": 70
+        },
+        {
+          "word": "leadership",
+          "count": 65
         },
         {
           "word": "piggy",
-          "count": 37
+          "count": 57
         },
         {
-          "word": "democratic",
-          "count": 36
+          "word": "political",
+          "count": 52
         },
         {
           "word": "face",
-          "count": 34
+          "count": 41
         },
         {
-          "word": "group",
-          "count": 33
+          "word": "authority",
+          "count": 40
         },
         {
-          "word": "human",
-          "count": 33
+          "word": "merridew",
+          "count": 39
         },
         {
-          "word": "civilized",
-          "count": 30
-        },
-        {
-          "word": "makes",
-          "count": 29
-        },
-        {
-          "word": "physical",
-          "count": 28
-        },
-        {
-          "word": "rules",
-          "count": 27
-        },
-        {
-          "word": "civilization",
-          "count": 27
+          "word": "island",
+          "count": 39
         },
         {
           "word": "boy",
-          "count": 26
+          "count": 39
         },
         {
-          "word": "institutional",
-          "count": 26
+          "word": "simon",
+          "count": 38
+        },
+        {
+          "word": "chief",
+          "count": 38
+        },
+        {
+          "word": "leader",
+          "count": 34
+        },
+        {
+          "word": "reading",
+          "count": 34
+        },
+        {
+          "word": "violence",
+          "count": 32
+        },
+        {
+          "word": "conditions",
+          "count": 31
         }
       ]
     },
@@ -66728,9 +66648,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6514,
+      "wordCount": 7313,
       "topWord": "piggy",
-      "topCount": 317,
+      "topCount": 275,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66740,19 +66660,11 @@
       "flaggedWords": [
         {
           "word": "piggy",
-          "count": 317
+          "count": 275
         },
         {
-          "word": "social",
-          "count": 107
-        },
-        {
-          "word": "novel",
-          "count": 104
-        },
-        {
-          "word": "golding",
-          "count": 92
+          "word": "class",
+          "count": 184
         },
         {
           "word": "ralph",
@@ -66760,25 +66672,41 @@
         },
         {
           "word": "boys",
-          "count": 57
+          "count": 81
+        },
+        {
+          "word": "golding",
+          "count": 75
+        },
+        {
+          "word": "group",
+          "count": 71
+        },
+        {
+          "word": "novel",
+          "count": 67
+        },
+        {
+          "word": "jack",
+          "count": 64
+        },
+        {
+          "word": "conch",
+          "count": 59
+        },
+        {
+          "word": "chapter",
+          "count": 55
         }
       ],
       "top20": [
         {
           "word": "piggy",
-          "count": 317
+          "count": 275
         },
         {
-          "word": "social",
-          "count": 107
-        },
-        {
-          "word": "novel",
-          "count": 104
-        },
-        {
-          "word": "golding",
-          "count": 92
+          "word": "class",
+          "count": 184
         },
         {
           "word": "ralph",
@@ -66786,63 +66714,71 @@
         },
         {
           "word": "boys",
-          "count": 57
+          "count": 81
         },
         {
-          "word": "argument",
-          "count": 45
-        },
-        {
-          "word": "character",
-          "count": 43
-        },
-        {
-          "word": "jack",
-          "count": 41
-        },
-        {
-          "word": "intelligence",
-          "count": 39
-        },
-        {
-          "word": "simon",
-          "count": 37
-        },
-        {
-          "word": "conch",
-          "count": 36
-        },
-        {
-          "word": "specific",
-          "count": 36
-        },
-        {
-          "word": "death",
-          "count": 35
-        },
-        {
-          "word": "island",
-          "count": 34
-        },
-        {
-          "word": "authority",
-          "count": 26
-        },
-        {
-          "word": "cannot",
-          "count": 24
-        },
-        {
-          "word": "makes",
-          "count": 24
-        },
-        {
-          "word": "reader",
-          "count": 24
+          "word": "golding",
+          "count": 75
         },
         {
           "word": "group",
-          "count": 23
+          "count": 71
+        },
+        {
+          "word": "novel",
+          "count": 67
+        },
+        {
+          "word": "jack",
+          "count": 64
+        },
+        {
+          "word": "conch",
+          "count": 59
+        },
+        {
+          "word": "chapter",
+          "count": 55
+        },
+        {
+          "word": "glasses",
+          "count": 48
+        },
+        {
+          "word": "hierarchy",
+          "count": 47
+        },
+        {
+          "word": "analytical",
+          "count": 46
+        },
+        {
+          "word": "fire",
+          "count": 46
+        },
+        {
+          "word": "island",
+          "count": 42
+        },
+        {
+          "word": "working",
+          "count": 41
+        },
+        {
+          "word": "competence",
+          "count": 40
+        },
+        {
+          "word": "physical",
+          "count": 37
+        },
+        {
+          "word": "reading",
+          "count": 36
+        },
+        {
+          "word": "rational",
+          "count": 34
         }
       ]
     },
@@ -66988,9 +66924,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6886,
-      "topWord": "novel",
-      "topCount": 153,
+      "wordCount": 7600,
+      "topWord": "golding",
+      "topCount": 128,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -66999,134 +66935,118 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-05-20-themes-symbolism-lord-of-the-flies.md",
       "flaggedWords": [
         {
-          "word": "novel",
-          "count": 153
-        },
-        {
-          "word": "island",
-          "count": 105
-        },
-        {
-          "word": "social",
-          "count": 93
+          "word": "golding",
+          "count": 128
         },
         {
           "word": "boys",
-          "count": 81
+          "count": 100
         },
         {
           "word": "beast",
-          "count": 77
+          "count": 92
         },
         {
-          "word": "violence",
-          "count": 70
+          "word": "fire",
+          "count": 90
+        },
+        {
+          "word": "conch",
+          "count": 86
         },
         {
           "word": "flies",
-          "count": 69
+          "count": 68
         },
         {
           "word": "lord",
           "count": 66
         },
         {
-          "word": "golding",
-          "count": 66
-        },
-        {
-          "word": "specific",
-          "count": 61
-        },
-        {
-          "word": "human",
-          "count": 55
-        },
-        {
-          "word": "civilization",
-          "count": 51
+          "word": "piggy",
+          "count": 59
         }
       ],
       "top20": [
         {
-          "word": "novel",
-          "count": 153
-        },
-        {
-          "word": "island",
-          "count": 105
-        },
-        {
-          "word": "social",
-          "count": 93
+          "word": "golding",
+          "count": 128
         },
         {
           "word": "boys",
-          "count": 81
+          "count": 100
         },
         {
           "word": "beast",
-          "count": 77
+          "count": 92
         },
         {
-          "word": "violence",
-          "count": 70
+          "word": "fire",
+          "count": 90
+        },
+        {
+          "word": "conch",
+          "count": 86
         },
         {
           "word": "flies",
-          "count": 69
+          "count": 68
         },
         {
           "word": "lord",
           "count": 66
         },
         {
-          "word": "golding",
-          "count": 66
+          "word": "piggy",
+          "count": 59
         },
         {
-          "word": "specific",
-          "count": 61
-        },
-        {
-          "word": "human",
-          "count": 55
-        },
-        {
-          "word": "civilization",
-          "count": 51
-        },
-        {
-          "word": "conditions",
+          "word": "ralph",
           "count": 50
         },
         {
-          "word": "institutional",
+          "word": "collective",
+          "count": 49
+        },
+        {
+          "word": "argument",
           "count": 49
         },
         {
           "word": "jack",
+          "count": 49
+        },
+        {
+          "word": "specific",
           "count": 48
         },
         {
-          "word": "piggy",
+          "word": "procedural",
+          "count": 48
+        },
+        {
+          "word": "community",
+          "count": 48
+        },
+        {
+          "word": "chapter",
           "count": 47
         },
         {
-          "word": "simon",
+          "word": "violence",
+          "count": 47
+        },
+        {
+          "word": "island",
+          "count": 45
+        },
+        {
+          "word": "social",
           "count": 44
         },
         {
-          "word": "fire",
-          "count": 42
-        },
-        {
-          "word": "adult",
-          "count": 42
-        },
-        {
-          "word": "conch",
-          "count": 40
+          "word": "authority",
+          "count": 39
         }
       ]
     },
@@ -67138,9 +67058,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6780,
-      "topWord": "farm",
-      "topCount": 108,
+      "wordCount": 7505,
+      "topWord": "orwell",
+      "topCount": 140,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -67149,8 +67069,12 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-05-25-complete-analysis-animal-farm-orwell.md",
       "flaggedWords": [
         {
+          "word": "orwell",
+          "count": 140
+        },
+        {
           "word": "farm",
-          "count": 108
+          "count": 110
         },
         {
           "word": "animal",
@@ -67158,41 +67082,37 @@
         },
         {
           "word": "animals",
-          "count": 99
+          "count": 96
         },
         {
-          "word": "novel",
-          "count": 87
-        },
-        {
-          "word": "orwell",
-          "count": 83
+          "word": "pigs",
+          "count": 60
         },
         {
           "word": "revolution",
-          "count": 82
+          "count": 57
         },
         {
-          "word": "political",
-          "count": 69
+          "word": "soviet",
+          "count": 57
         },
         {
           "word": "napoleon",
-          "count": 69
-        },
-        {
-          "word": "power",
-          "count": 66
-        },
-        {
-          "word": "specific",
           "count": 56
+        },
+        {
+          "word": "political",
+          "count": 52
         }
       ],
       "top20": [
         {
+          "word": "orwell",
+          "count": 140
+        },
+        {
           "word": "farm",
-          "count": 108
+          "count": 110
         },
         {
           "word": "animal",
@@ -67200,75 +67120,71 @@
         },
         {
           "word": "animals",
-          "count": 99
-        },
-        {
-          "word": "novel",
-          "count": 87
-        },
-        {
-          "word": "orwell",
-          "count": 83
-        },
-        {
-          "word": "revolution",
-          "count": 82
-        },
-        {
-          "word": "political",
-          "count": 69
-        },
-        {
-          "word": "napoleon",
-          "count": 69
-        },
-        {
-          "word": "power",
-          "count": 66
-        },
-        {
-          "word": "specific",
-          "count": 56
-        },
-        {
-          "word": "squealer",
-          "count": 45
-        },
-        {
-          "word": "class",
-          "count": 40
+          "count": 96
         },
         {
           "word": "pigs",
-          "count": 40
+          "count": 60
         },
         {
-          "word": "argument",
-          "count": 39
+          "word": "revolution",
+          "count": 57
         },
         {
-          "word": "revolutionary",
-          "count": 36
+          "word": "soviet",
+          "count": 57
+        },
+        {
+          "word": "napoleon",
+          "count": 56
+        },
+        {
+          "word": "political",
+          "count": 52
+        },
+        {
+          "word": "specific",
+          "count": 49
+        },
+        {
+          "word": "chapter",
+          "count": 48
+        },
+        {
+          "word": "book",
+          "count": 46
+        },
+        {
+          "word": "novel",
+          "count": 46
         },
         {
           "word": "snowball",
-          "count": 33
+          "count": 46
         },
         {
-          "word": "memory",
-          "count": 32
+          "word": "reading",
+          "count": 41
         },
         {
-          "word": "historical",
-          "count": 31
+          "word": "war",
+          "count": 40
         },
         {
-          "word": "commandments",
-          "count": 31
+          "word": "regime",
+          "count": 40
         },
         {
-          "word": "structural",
-          "count": 29
+          "word": "institutional",
+          "count": 40
+        },
+        {
+          "word": "revolutionary",
+          "count": 37
+        },
+        {
+          "word": "argument",
+          "count": 35
         }
       ]
     },
@@ -67280,9 +67196,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6730,
+      "wordCount": 7801,
       "topWord": "napoleon",
-      "topCount": 352,
+      "topCount": 276,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -67292,129 +67208,125 @@
       "flaggedWords": [
         {
           "word": "napoleon",
-          "count": 352
-        },
-        {
-          "word": "revolution",
-          "count": 77
-        },
-        {
-          "word": "snowball",
-          "count": 75
-        },
-        {
-          "word": "specific",
-          "count": 70
-        },
-        {
-          "word": "authority",
-          "count": 67
-        },
-        {
-          "word": "conditions",
-          "count": 65
-        },
-        {
-          "word": "power",
-          "count": 65
+          "count": 276
         },
         {
           "word": "orwell",
-          "count": 63
+          "count": 138
+        },
+        {
+          "word": "stalin",
+          "count": 84
+        },
+        {
+          "word": "soviet",
+          "count": 67
+        },
+        {
+          "word": "institutional",
+          "count": 64
         },
         {
           "word": "farm",
-          "count": 62
+          "count": 60
         },
         {
-          "word": "animals",
-          "count": 61
+          "word": "snowball",
+          "count": 60
         },
         {
           "word": "novel",
-          "count": 54
+          "count": 59
+        },
+        {
+          "word": "animal",
+          "count": 56
+        },
+        {
+          "word": "animals",
+          "count": 55
         }
       ],
       "top20": [
         {
           "word": "napoleon",
-          "count": 352
-        },
-        {
-          "word": "revolution",
-          "count": 77
-        },
-        {
-          "word": "snowball",
-          "count": 75
-        },
-        {
-          "word": "specific",
-          "count": 70
-        },
-        {
-          "word": "authority",
-          "count": 67
-        },
-        {
-          "word": "conditions",
-          "count": 65
-        },
-        {
-          "word": "power",
-          "count": 65
+          "count": 276
         },
         {
           "word": "orwell",
-          "count": 63
-        },
-        {
-          "word": "farm",
-          "count": 62
-        },
-        {
-          "word": "animals",
-          "count": 61
-        },
-        {
-          "word": "novel",
-          "count": 54
-        },
-        {
-          "word": "structural",
-          "count": 44
-        },
-        {
-          "word": "revolutionary",
-          "count": 40
-        },
-        {
-          "word": "relationship",
-          "count": 36
+          "count": 138
         },
         {
           "word": "stalin",
-          "count": 34
+          "count": 84
+        },
+        {
+          "word": "soviet",
+          "count": 67
+        },
+        {
+          "word": "institutional",
+          "count": 64
+        },
+        {
+          "word": "farm",
+          "count": 60
+        },
+        {
+          "word": "snowball",
+          "count": 60
+        },
+        {
+          "word": "novel",
+          "count": 59
         },
         {
           "word": "animal",
-          "count": 34
+          "count": 56
         },
         {
-          "word": "political",
-          "count": 33
+          "word": "animals",
+          "count": 55
         },
         {
-          "word": "character",
-          "count": 32
+          "word": "specific",
+          "count": 49
+        },
+        {
+          "word": "dogs",
+          "count": 48
         },
         {
           "word": "squealer",
-          "count": 30
+          "count": 47
         },
         {
-          "word": "historical",
-          "count": 29
+          "word": "chapter",
+          "count": 46
+        },
+        {
+          "word": "political",
+          "count": 45
+        },
+        {
+          "word": "reading",
+          "count": 39
+        },
+        {
+          "word": "power",
+          "count": 39
+        },
+        {
+          "word": "revolutionary",
+          "count": 38
+        },
+        {
+          "word": "revolution",
+          "count": 35
+        },
+        {
+          "word": "boxer",
+          "count": 35
         }
       ]
     },
@@ -68100,9 +68012,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6479,
-      "topWord": "human",
-      "topCount": 145,
+      "wordCount": 7456,
+      "topWord": "huxley",
+      "topCount": 132,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68111,122 +68023,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-06-24-complete-analysis-brave-new-world.md",
       "flaggedWords": [
         {
-          "word": "human",
-          "count": 145
-        },
-        {
-          "word": "novel",
+          "word": "huxley",
           "count": 132
         },
         {
-          "word": "specific",
-          "count": 103
-        },
-        {
-          "word": "genuine",
-          "count": 98
-        },
-        {
-          "word": "social",
-          "count": 74
-        },
-        {
           "word": "brave",
-          "count": 61
+          "count": 88
+        },
+        {
+          "word": "novel",
+          "count": 85
         },
         {
           "word": "john",
-          "count": 60
-        },
-        {
-          "word": "argument",
-          "count": 54
-        },
-        {
-          "word": "huxley",
-          "count": 52
+          "count": 80
         }
       ],
       "top20": [
         {
-          "word": "human",
-          "count": 145
-        },
-        {
-          "word": "novel",
+          "word": "huxley",
           "count": 132
         },
         {
-          "word": "specific",
-          "count": 103
-        },
-        {
-          "word": "genuine",
-          "count": 98
-        },
-        {
-          "word": "social",
-          "count": 74
-        },
-        {
           "word": "brave",
-          "count": 61
+          "count": 88
+        },
+        {
+          "word": "novel",
+          "count": 85
         },
         {
           "word": "john",
-          "count": 60
+          "count": 80
         },
         {
-          "word": "argument",
-          "count": 54
-        },
-        {
-          "word": "huxley",
-          "count": 52
-        },
-        {
-          "word": "suffering",
+          "word": "social",
           "count": 50
         },
         {
-          "word": "conditioning",
-          "count": 48
+          "word": "production",
+          "count": 47
         },
         {
-          "word": "experience",
-          "count": 45
-        },
-        {
-          "word": "conditions",
-          "count": 41
-        },
-        {
-          "word": "requires",
+          "word": "human",
           "count": 38
         },
         {
-          "word": "full",
+          "word": "conditioning",
           "count": 36
         },
         {
-          "word": "cannot",
+          "word": "mond",
+          "count": 35
+        },
+        {
+          "word": "soma",
+          "count": 33
+        },
+        {
+          "word": "ford",
           "count": 31
         },
         {
-          "word": "reservation",
-          "count": 31
-        },
-        {
-          "word": "genuinely",
+          "word": "reading",
           "count": 30
         },
         {
-          "word": "sense",
-          "count": 29
+          "word": "logic",
+          "count": 27
         },
         {
-          "word": "relationship",
-          "count": 29
+          "word": "process",
+          "count": 27
+        },
+        {
+          "word": "critique",
+          "count": 25
+        },
+        {
+          "word": "technology",
+          "count": 23
+        },
+        {
+          "word": "society",
+          "count": 23
+        },
+        {
+          "word": "bernard",
+          "count": 22
+        },
+        {
+          "word": "control",
+          "count": 21
+        },
+        {
+          "word": "specific",
+          "count": 21
         }
       ]
     },
@@ -68238,9 +68130,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6412,
+      "wordCount": 7641,
       "topWord": "bernard",
-      "topCount": 281,
+      "topCount": 397,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68250,141 +68142,133 @@
       "flaggedWords": [
         {
           "word": "bernard",
-          "count": 281
-        },
-        {
-          "word": "genuine",
-          "count": 183
+          "count": 397
         },
         {
           "word": "social",
-          "count": 180
+          "count": 129
         },
         {
-          "word": "novel",
-          "count": 108
+          "word": "huxley",
+          "count": 117
         },
         {
-          "word": "specific",
-          "count": 77
+          "word": "dissent",
+          "count": 98
         },
         {
-          "word": "dissatisfaction",
-          "count": 76
-        },
-        {
-          "word": "john",
-          "count": 75
-        },
-        {
-          "word": "values",
-          "count": 73
-        },
-        {
-          "word": "critique",
-          "count": 69
-        },
-        {
-          "word": "organized",
+          "word": "text",
           "count": 65
         },
         {
-          "word": "goods",
+          "word": "helmholtz",
           "count": 60
         },
         {
-          "word": "genuinely",
+          "word": "resentment",
           "count": 59
         },
         {
-          "word": "helmholtz",
-          "count": 59
+          "word": "reading",
+          "count": 56
         },
         {
-          "word": "character",
-          "count": 53
+          "word": "john",
+          "count": 54
+        },
+        {
+          "word": "half",
+          "count": 52
+        },
+        {
+          "word": "conditioning",
+          "count": 52
+        },
+        {
+          "word": "principled",
+          "count": 51
         }
       ],
       "top20": [
         {
           "word": "bernard",
-          "count": 281
-        },
-        {
-          "word": "genuine",
-          "count": 183
+          "count": 397
         },
         {
           "word": "social",
-          "count": 180
+          "count": 129
         },
         {
-          "word": "novel",
-          "count": 108
+          "word": "huxley",
+          "count": 117
         },
         {
-          "word": "specific",
-          "count": 77
+          "word": "dissent",
+          "count": 98
         },
         {
-          "word": "dissatisfaction",
-          "count": 76
-        },
-        {
-          "word": "john",
-          "count": 75
-        },
-        {
-          "word": "values",
-          "count": 73
-        },
-        {
-          "word": "critique",
-          "count": 69
-        },
-        {
-          "word": "organized",
+          "word": "text",
           "count": 65
         },
         {
-          "word": "goods",
+          "word": "helmholtz",
           "count": 60
         },
         {
-          "word": "genuinely",
+          "word": "resentment",
           "count": 59
         },
         {
-          "word": "helmholtz",
-          "count": 59
+          "word": "reading",
+          "count": 56
         },
         {
-          "word": "character",
-          "count": 53
+          "word": "john",
+          "count": 54
         },
         {
-          "word": "intellectual",
-          "count": 47
+          "word": "half",
+          "count": 52
         },
         {
           "word": "conditioning",
+          "count": 52
+        },
+        {
+          "word": "principled",
+          "count": 51
+        },
+        {
+          "word": "alpha",
+          "count": 50
+        },
+        {
+          "word": "plus",
+          "count": 47
+        },
+        {
+          "word": "genuine",
+          "count": 47
+        },
+        {
+          "word": "position",
           "count": 46
         },
         {
-          "word": "experience",
-          "count": 41
+          "word": "critique",
+          "count": 43
         },
         {
-          "word": "access",
-          "count": 41
+          "word": "intellectual",
+          "count": 40
         },
         {
-          "word": "relationship",
-          "count": 41
+          "word": "character",
+          "count": 39
         },
         {
-          "word": "reader",
-          "count": 38
+          "word": "based",
+          "count": 36
         }
       ]
     },
@@ -68396,9 +68280,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6249,
+      "wordCount": 7208,
       "topWord": "john",
-      "topCount": 214,
+      "topCount": 359,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68408,133 +68292,109 @@
       "flaggedWords": [
         {
           "word": "john",
-          "count": 214
+          "count": 359
         },
         {
-          "word": "genuine",
-          "count": 185
-        },
-        {
-          "word": "human",
-          "count": 146
-        },
-        {
-          "word": "specific",
-          "count": 136
-        },
-        {
-          "word": "novel",
-          "count": 99
-        },
-        {
-          "word": "conditions",
-          "count": 76
-        },
-        {
-          "word": "values",
-          "count": 75
-        },
-        {
-          "word": "experience",
-          "count": 74
+          "word": "huxley",
+          "count": 77
         },
         {
           "word": "shakespeare",
-          "count": 63
+          "count": 61
         },
         {
-          "word": "formation",
-          "count": 59
+          "word": "reservation",
+          "count": 61
         },
         {
-          "word": "cannot",
-          "count": 54
+          "word": "lenina",
+          "count": 57
         },
         {
-          "word": "suffering",
+          "word": "linda",
           "count": 51
         }
       ],
       "top20": [
         {
           "word": "john",
-          "count": 214
+          "count": 359
         },
         {
-          "word": "genuine",
-          "count": 185
-        },
-        {
-          "word": "human",
-          "count": 146
-        },
-        {
-          "word": "specific",
-          "count": 136
-        },
-        {
-          "word": "novel",
-          "count": 99
-        },
-        {
-          "word": "conditions",
-          "count": 76
-        },
-        {
-          "word": "values",
-          "count": 75
-        },
-        {
-          "word": "experience",
-          "count": 74
+          "word": "huxley",
+          "count": 77
         },
         {
           "word": "shakespeare",
-          "count": 63
-        },
-        {
-          "word": "formation",
-          "count": 59
-        },
-        {
-          "word": "cannot",
-          "count": 54
-        },
-        {
-          "word": "suffering",
-          "count": 51
-        },
-        {
-          "word": "organized",
-          "count": 48
+          "count": 61
         },
         {
           "word": "reservation",
+          "count": 61
+        },
+        {
+          "word": "lenina",
+          "count": 57
+        },
+        {
+          "word": "linda",
+          "count": 51
+        },
+        {
+          "word": "shakespearean",
+          "count": 47
+        },
+        {
+          "word": "mond",
           "count": 45
         },
         {
-          "word": "managed",
+          "word": "human",
           "count": 44
         },
         {
-          "word": "community",
-          "count": 44
+          "word": "whose",
+          "count": 43
         },
         {
-          "word": "tradition",
-          "count": 39
+          "word": "suffering",
+          "count": 43
+        },
+        {
+          "word": "character",
+          "count": 38
         },
         {
           "word": "social",
-          "count": 37
+          "count": 38
         },
         {
-          "word": "love",
-          "count": 37
+          "word": "position",
+          "count": 38
         },
         {
-          "word": "genuinely",
+          "word": "conditioning",
           "count": 36
+        },
+        {
+          "word": "chapter",
+          "count": 34
+        },
+        {
+          "word": "specific",
+          "count": 34
+        },
+        {
+          "word": "london",
+          "count": 34
+        },
+        {
+          "word": "genuine",
+          "count": 32
+        },
+        {
+          "word": "reader",
+          "count": 31
         }
       ]
     },
@@ -68546,9 +68406,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6134,
+      "wordCount": 7403,
       "topWord": "mond",
-      "topCount": 199,
+      "topCount": 413,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68558,143 +68418,143 @@
       "flaggedWords": [
         {
           "word": "mond",
-          "count": 199
+          "count": 413
         },
         {
-          "word": "genuine",
-          "count": 139
-        },
-        {
-          "word": "specific",
-          "count": 104
-        },
-        {
-          "word": "novel",
-          "count": 102
+          "word": "philosophical",
+          "count": 109
         },
         {
           "word": "john",
-          "count": 80
+          "count": 99
         },
         {
-          "word": "position",
-          "count": 71
+          "word": "text",
+          "count": 74
         },
         {
-          "word": "argument",
+          "word": "huxley",
+          "count": 66
+        },
+        {
+          "word": "intellectual",
           "count": 61
         },
         {
-          "word": "human",
-          "count": 58
-        },
-        {
-          "word": "conditions",
-          "count": 57
-        },
-        {
-          "word": "record",
+          "word": "reader",
           "count": 56
         },
         {
-          "word": "historical",
-          "count": 55
+          "word": "whose",
+          "count": 56
+        },
+        {
+          "word": "character",
+          "count": 53
+        },
+        {
+          "word": "arguments",
+          "count": 53
+        },
+        {
+          "word": "position",
+          "count": 51
         }
       ],
       "top20": [
         {
           "word": "mond",
-          "count": 199
-        },
-        {
-          "word": "genuine",
-          "count": 139
-        },
-        {
-          "word": "specific",
-          "count": 104
-        },
-        {
-          "word": "novel",
-          "count": 102
-        },
-        {
-          "word": "john",
-          "count": 80
-        },
-        {
-          "word": "position",
-          "count": 71
-        },
-        {
-          "word": "argument",
-          "count": 61
-        },
-        {
-          "word": "human",
-          "count": 58
-        },
-        {
-          "word": "conditions",
-          "count": 57
-        },
-        {
-          "word": "record",
-          "count": 56
-        },
-        {
-          "word": "historical",
-          "count": 55
-        },
-        {
-          "word": "social",
-          "count": 46
+          "count": 413
         },
         {
           "word": "philosophical",
-          "count": 42
+          "count": 109
         },
         {
-          "word": "power",
-          "count": 39
+          "word": "john",
+          "count": 99
         },
         {
-          "word": "authority",
+          "word": "text",
+          "count": 74
+        },
+        {
+          "word": "huxley",
+          "count": 66
+        },
+        {
+          "word": "intellectual",
+          "count": 61
+        },
+        {
+          "word": "reader",
+          "count": 56
+        },
+        {
+          "word": "whose",
+          "count": 56
+        },
+        {
+          "word": "character",
+          "count": 53
+        },
+        {
+          "word": "arguments",
+          "count": 53
+        },
+        {
+          "word": "position",
+          "count": 51
+        },
+        {
+          "word": "chapter",
+          "count": 46
+        },
+        {
+          "word": "choice",
+          "count": 40
+        },
+        {
+          "word": "helmholtz",
           "count": 38
         },
         {
-          "word": "requires",
+          "word": "reading",
           "count": 37
         },
         {
           "word": "cannot",
-          "count": 36
-        },
-        {
-          "word": "person",
-          "count": 36
-        },
-        {
-          "word": "available",
-          "count": 36
-        },
-        {
-          "word": "choice",
           "count": 35
+        },
+        {
+          "word": "human",
+          "count": 33
+        },
+        {
+          "word": "bernard",
+          "count": 31
+        },
+        {
+          "word": "argument",
+          "count": 30
+        },
+        {
+          "word": "authority",
+          "count": 30
         }
       ]
     },
     {
       "filename": "2014-07-14-themes-brave-new-world-technology.md",
       "slug": "themes-brave-new-world-technology",
-      "title": "Themes of Technology and Control in Brave New World",
+      "title": "Themes of Technology and Control in BNW",
       "categories": [
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6634,
-      "topWord": "specific",
-      "topCount": 151,
+      "wordCount": 7497,
+      "topWord": "huxley",
+      "topCount": 144,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68703,130 +68563,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-14-themes-brave-new-world-technology.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 151
-        },
-        {
-          "word": "genuine",
-          "count": 151
-        },
-        {
-          "word": "human",
-          "count": 149
-        },
-        {
-          "word": "technology",
-          "count": 114
-        },
-        {
-          "word": "social",
-          "count": 104
-        },
-        {
-          "word": "control",
-          "count": 93
+          "word": "huxley",
+          "count": 144
         },
         {
           "word": "conditioning",
-          "count": 89
+          "count": 76
         },
         {
-          "word": "experience",
-          "count": 66
+          "word": "text",
+          "count": 59
         },
         {
-          "word": "management",
-          "count": 61
-        },
-        {
-          "word": "produces",
-          "count": 56
-        },
-        {
-          "word": "novel",
-          "count": 56
+          "word": "argument",
+          "count": 53
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 151
-        },
-        {
-          "word": "genuine",
-          "count": 151
-        },
-        {
-          "word": "human",
-          "count": 149
-        },
-        {
-          "word": "technology",
-          "count": 114
-        },
-        {
-          "word": "social",
-          "count": 104
-        },
-        {
-          "word": "control",
-          "count": 93
+          "word": "huxley",
+          "count": 144
         },
         {
           "word": "conditioning",
-          "count": 89
+          "count": 76
         },
         {
-          "word": "experience",
-          "count": 66
+          "word": "text",
+          "count": 59
         },
         {
-          "word": "management",
-          "count": 61
-        },
-        {
-          "word": "produces",
-          "count": 56
-        },
-        {
-          "word": "novel",
-          "count": 56
+          "word": "argument",
+          "count": 53
         },
         {
           "word": "brave",
-          "count": 45
+          "count": 50
         },
         {
-          "word": "produce",
-          "count": 45
+          "word": "human",
+          "count": 47
         },
         {
-          "word": "conditions",
+          "word": "soma",
+          "count": 43
+        },
+        {
+          "word": "logic",
+          "count": 39
+        },
+        {
+          "word": "consumption",
+          "count": 39
+        },
+        {
+          "word": "specific",
           "count": 38
         },
         {
-          "word": "elimination",
-          "count": 34
+          "word": "produces",
+          "count": 36
         },
         {
-          "word": "requires",
+          "word": "john",
           "count": 33
         },
         {
-          "word": "process",
+          "word": "social",
           "count": 32
         },
         {
-          "word": "formation",
+          "word": "suffering",
           "count": 32
         },
         {
-          "word": "genuinely",
-          "count": 32
+          "word": "produce",
+          "count": 31
         },
         {
-          "word": "development",
-          "count": 32
+          "word": "cannot",
+          "count": 30
+        },
+        {
+          "word": "reading",
+          "count": 29
+        },
+        {
+          "word": "institutional",
+          "count": 29
+        },
+        {
+          "word": "control",
+          "count": 29
+        },
+        {
+          "word": "technology",
+          "count": 28
         }
       ]
     },
@@ -68838,9 +68670,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6443,
-      "topWord": "specific",
-      "topCount": 136,
+      "wordCount": 7412,
+      "topWord": "huxley",
+      "topCount": 122,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -68849,138 +68681,114 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-07-19-brave-new-world-vs-1984-compared.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 136
+          "word": "huxley",
+          "count": 122
         },
         {
-          "word": "genuine",
-          "count": 103
-        },
-        {
-          "word": "brave",
-          "count": 70
+          "word": "orwell",
+          "count": 115
         },
         {
           "word": "party",
-          "count": 70
+          "count": 63
         },
         {
-          "word": "novels",
-          "count": 68
-        },
-        {
-          "word": "authority",
-          "count": 65
-        },
-        {
-          "word": "coercive",
+          "word": "control",
           "count": 62
         },
         {
-          "word": "human",
-          "count": 60
-        },
-        {
-          "word": "political",
+          "word": "mechanisms",
           "count": 59
         },
         {
-          "word": "management",
-          "count": 55
+          "word": "political",
+          "count": 58
         },
         {
-          "word": "resistance",
-          "count": 52
-        },
-        {
-          "word": "novel",
-          "count": 51
-        },
-        {
-          "word": "social",
-          "count": 51
+          "word": "citizens",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 136
-        },
-        {
-          "word": "genuine",
-          "count": 103
-        },
-        {
-          "word": "brave",
-          "count": 70
-        },
-        {
-          "word": "party",
-          "count": 70
-        },
-        {
-          "word": "novels",
-          "count": 68
-        },
-        {
-          "word": "authority",
-          "count": 65
-        },
-        {
-          "word": "coercive",
-          "count": 62
-        },
-        {
-          "word": "human",
-          "count": 60
-        },
-        {
-          "word": "political",
-          "count": 59
-        },
-        {
-          "word": "management",
-          "count": 55
-        },
-        {
-          "word": "resistance",
-          "count": 52
-        },
-        {
-          "word": "novel",
-          "count": 51
-        },
-        {
-          "word": "social",
-          "count": 51
-        },
-        {
-          "word": "control",
-          "count": 50
-        },
-        {
-          "word": "constitutive",
-          "count": 49
-        },
-        {
-          "word": "available",
-          "count": 46
+          "word": "huxley",
+          "count": 122
         },
         {
           "word": "orwell",
+          "count": 115
+        },
+        {
+          "word": "party",
+          "count": 63
+        },
+        {
+          "word": "control",
+          "count": 62
+        },
+        {
+          "word": "mechanisms",
+          "count": 59
+        },
+        {
+          "word": "political",
+          "count": 58
+        },
+        {
+          "word": "citizens",
+          "count": 56
+        },
+        {
+          "word": "power",
+          "count": 49
+        },
+        {
+          "word": "postman",
           "count": 44
         },
         {
-          "word": "totalitarian",
-          "count": 44
+          "word": "pleasure",
+          "count": 43
         },
         {
-          "word": "complete",
-          "count": 44
+          "word": "texts",
+          "count": 43
         },
         {
-          "word": "huxley",
+          "word": "human",
+          "count": 41
+        },
+        {
+          "word": "brave",
+          "count": 40
+        },
+        {
+          "word": "contemporary",
+          "count": 39
+        },
+        {
+          "word": "truth",
           "count": 38
+        },
+        {
+          "word": "institutional",
+          "count": 37
+        },
+        {
+          "word": "specific",
+          "count": 36
+        },
+        {
+          "word": "comparison",
+          "count": 35
+        },
+        {
+          "word": "emotional",
+          "count": 35
+        },
+        {
+          "word": "logic",
+          "count": 34
         }
       ]
     },
@@ -69098,9 +68906,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6225,
+      "wordCount": 7545,
       "topWord": "holden",
-      "topCount": 213,
+      "topCount": 297,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69110,109 +68918,117 @@
       "flaggedWords": [
         {
           "word": "holden",
-          "count": 213
+          "count": 297
         },
         {
           "word": "novel",
-          "count": 199
+          "count": 151
         },
         {
-          "word": "specific",
-          "count": 146
+          "word": "salinger",
+          "count": 70
         },
         {
-          "word": "genuine",
-          "count": 74
+          "word": "reading",
+          "count": 63
         },
         {
-          "word": "rye",
-          "count": 60
+          "word": "psychological",
+          "count": 63
+        },
+        {
+          "word": "allie",
+          "count": 61
         },
         {
           "word": "catcher",
-          "count": 58
+          "count": 54
+        },
+        {
+          "word": "trauma",
+          "count": 52
         }
       ],
       "top20": [
         {
           "word": "holden",
-          "count": 213
+          "count": 297
         },
         {
           "word": "novel",
-          "count": 199
+          "count": 151
         },
         {
-          "word": "specific",
-          "count": 146
+          "word": "salinger",
+          "count": 70
         },
         {
-          "word": "genuine",
-          "count": 74
+          "word": "reading",
+          "count": 63
         },
         {
-          "word": "rye",
-          "count": 60
-        },
-        {
-          "word": "catcher",
-          "count": 58
-        },
-        {
-          "word": "cannot",
-          "count": 44
-        },
-        {
-          "word": "grief",
-          "count": 43
-        },
-        {
-          "word": "social",
-          "count": 43
-        },
-        {
-          "word": "phoniness",
-          "count": 40
-        },
-        {
-          "word": "person",
-          "count": 38
+          "word": "psychological",
+          "count": 63
         },
         {
           "word": "allie",
-          "count": 38
+          "count": 61
         },
         {
-          "word": "relationship",
-          "count": 35
+          "word": "catcher",
+          "count": 54
         },
         {
-          "word": "connection",
+          "word": "trauma",
+          "count": 52
+        },
+        {
+          "word": "specific",
+          "count": 40
+        },
+        {
+          "word": "rebel",
+          "count": 39
+        },
+        {
+          "word": "cannot",
+          "count": 36
+        },
+        {
+          "word": "teenager",
           "count": 33
         },
         {
-          "word": "framework",
-          "count": 32
-        },
-        {
-          "word": "experience",
+          "word": "grief",
           "count": 30
         },
         {
-          "word": "loss",
-          "count": 28
-        },
-        {
-          "word": "fantasy",
-          "count": 28
-        },
-        {
           "word": "phoebe",
+          "count": 29
+        },
+        {
+          "word": "death",
+          "count": 28
+        },
+        {
+          "word": "narrative",
+          "count": 27
+        },
+        {
+          "word": "voice",
           "count": 26
         },
         {
-          "word": "whose",
-          "count": 25
+          "word": "cultural",
+          "count": 26
+        },
+        {
+          "word": "fantasy",
+          "count": 24
+        },
+        {
+          "word": "reveals",
+          "count": 23
         }
       ]
     },
@@ -69224,9 +69040,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6218,
+      "wordCount": 7067,
       "topWord": "holden",
-      "topCount": 214,
+      "topCount": 354,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69236,105 +69052,97 @@
       "flaggedWords": [
         {
           "word": "holden",
-          "count": 214
-        },
-        {
-          "word": "specific",
-          "count": 169
+          "count": 354
         },
         {
           "word": "novel",
-          "count": 111
+          "count": 74
         },
         {
-          "word": "genuine",
-          "count": 90
-        },
-        {
-          "word": "framework",
-          "count": 72
+          "word": "allie",
+          "count": 73
         }
       ],
       "top20": [
         {
           "word": "holden",
-          "count": 214
-        },
-        {
-          "word": "specific",
-          "count": 169
+          "count": 354
         },
         {
           "word": "novel",
-          "count": 111
-        },
-        {
-          "word": "genuine",
-          "count": 90
-        },
-        {
-          "word": "framework",
-          "count": 72
-        },
-        {
-          "word": "cannot",
-          "count": 50
-        },
-        {
-          "word": "grief",
-          "count": 49
-        },
-        {
-          "word": "phoniness",
-          "count": 48
-        },
-        {
-          "word": "social",
-          "count": 47
-        },
-        {
-          "word": "person",
-          "count": 42
-        },
-        {
-          "word": "available",
-          "count": 39
-        },
-        {
-          "word": "narration",
-          "count": 38
+          "count": 74
         },
         {
           "word": "allie",
-          "count": 37
+          "count": 73
         },
         {
-          "word": "makes",
+          "word": "phoebe",
+          "count": 49
+        },
+        {
+          "word": "reading",
+          "count": 48
+        },
+        {
+          "word": "specific",
+          "count": 47
+        },
+        {
+          "word": "psychological",
+          "count": 43
+        },
+        {
+          "word": "death",
+          "count": 42
+        },
+        {
+          "word": "salinger",
+          "count": 41
+        },
+        {
+          "word": "castle",
+          "count": 41
+        },
+        {
+          "word": "trauma",
+          "count": 39
+        },
+        {
+          "word": "grief",
+          "count": 34
+        },
+        {
+          "word": "fantasy",
+          "count": 34
+        },
+        {
+          "word": "hat",
+          "count": 34
+        },
+        {
+          "word": "rye",
+          "count": 33
+        },
+        {
+          "word": "catcher",
           "count": 32
         },
         {
-          "word": "connection",
-          "count": 28
+          "word": "phony",
+          "count": 30
         },
         {
-          "word": "genuinely",
-          "count": 27
+          "word": "cannot",
+          "count": 30
         },
         {
-          "word": "quality",
-          "count": 26
+          "word": "adult",
+          "count": 29
         },
         {
-          "word": "voice",
-          "count": 26
-        },
-        {
-          "word": "organized",
-          "count": 25
-        },
-        {
-          "word": "someone",
-          "count": 25
+          "word": "social",
+          "count": 29
         }
       ]
     },
@@ -69346,9 +69154,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6280,
-      "topWord": "specific",
-      "topCount": 238,
+      "wordCount": 7432,
+      "topWord": "holden",
+      "topCount": 390,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69357,134 +69165,122 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-03-themes-alienation-catcher-in-the-rye.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 238
-        },
-        {
-          "word": "alienation",
-          "count": 217
-        },
-        {
-          "word": "social",
-          "count": 170
-        },
-        {
           "word": "holden",
-          "count": 161
+          "count": 390
         },
         {
-          "word": "genuine",
-          "count": 126
+          "word": "reading",
+          "count": 97
         },
         {
           "word": "novel",
-          "count": 104
+          "count": 86
         },
         {
-          "word": "framework",
-          "count": 88
-        },
-        {
-          "word": "available",
+          "word": "alienation",
           "count": 84
         },
         {
-          "word": "organized",
-          "count": 70
+          "word": "defensive",
+          "count": 76
         },
         {
-          "word": "grief",
+          "word": "salinger",
+          "count": 64
+        },
+        {
+          "word": "phony",
           "count": 63
         },
         {
-          "word": "forms",
-          "count": 55
+          "word": "allie",
+          "count": 60
         },
         {
-          "word": "loss",
-          "count": 51
+          "word": "grief",
+          "count": 53
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 238
-        },
-        {
-          "word": "alienation",
-          "count": 217
-        },
-        {
-          "word": "social",
-          "count": 170
-        },
-        {
           "word": "holden",
-          "count": 161
+          "count": 390
         },
         {
-          "word": "genuine",
-          "count": 126
+          "word": "reading",
+          "count": 97
         },
         {
           "word": "novel",
-          "count": 104
+          "count": 86
         },
         {
-          "word": "framework",
-          "count": 88
-        },
-        {
-          "word": "available",
+          "word": "alienation",
           "count": 84
         },
         {
-          "word": "organized",
-          "count": 70
+          "word": "defensive",
+          "count": 76
         },
         {
-          "word": "grief",
+          "word": "salinger",
+          "count": 64
+        },
+        {
+          "word": "phony",
           "count": 63
         },
         {
-          "word": "forms",
-          "count": 55
+          "word": "allie",
+          "count": 60
         },
         {
-          "word": "loss",
-          "count": 51
+          "word": "grief",
+          "count": 53
         },
         {
-          "word": "phoniness",
-          "count": 49
+          "word": "judgment",
+          "count": 47
         },
         {
-          "word": "connection",
-          "count": 46
+          "word": "defense",
+          "count": 47
         },
         {
-          "word": "experience",
-          "count": 45
-        },
-        {
-          "word": "conditions",
+          "word": "genuine",
           "count": 44
         },
         {
-          "word": "condition",
+          "word": "connection",
+          "count": 43
+        },
+        {
+          "word": "social",
+          "count": 42
+        },
+        {
+          "word": "antolini",
+          "count": 41
+        },
+        {
+          "word": "psychological",
+          "count": 40
+        },
+        {
+          "word": "catcher",
           "count": 36
         },
         {
-          "word": "cannot",
-          "count": 36
-        },
-        {
-          "word": "person",
+          "word": "phoebe",
           "count": 35
         },
         {
-          "word": "adequate",
+          "word": "cannot",
           "count": 34
+        },
+        {
+          "word": "castle",
+          "count": 33
         }
       ]
     },
@@ -69496,9 +69292,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6092,
-      "topWord": "specific",
-      "topCount": 173,
+      "wordCount": 7395,
+      "topWord": "holden",
+      "topCount": 282,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69507,126 +69303,142 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-08-symbolism-catcher-in-the-rye.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 173
+          "word": "holden",
+          "count": 282
         },
         {
-          "word": "holden",
-          "count": 113
+          "word": "hat",
+          "count": 89
         },
         {
           "word": "novel",
-          "count": 97
+          "count": 75
         },
         {
-          "word": "museum",
-          "count": 97
-        },
-        {
-          "word": "available",
-          "count": 82
-        },
-        {
-          "word": "genuine",
-          "count": 77
-        },
-        {
-          "word": "organized",
-          "count": 76
-        },
-        {
-          "word": "carousel",
-          "count": 67
-        },
-        {
-          "word": "symbolic",
+          "word": "allie",
           "count": 66
         },
         {
-          "word": "cannot",
-          "count": 55
+          "word": "museum",
+          "count": 64
+        },
+        {
+          "word": "symbolic",
+          "count": 61
+        },
+        {
+          "word": "symbols",
+          "count": 60
+        },
+        {
+          "word": "mitt",
+          "count": 54
+        },
+        {
+          "word": "salinger",
+          "count": 53
+        },
+        {
+          "word": "catcher",
+          "count": 52
+        },
+        {
+          "word": "ducks",
+          "count": 52
+        },
+        {
+          "word": "grief",
+          "count": 52
+        },
+        {
+          "word": "phoebe",
+          "count": 52
+        },
+        {
+          "word": "reading",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 173
+          "word": "holden",
+          "count": 282
         },
         {
-          "word": "holden",
-          "count": 113
+          "word": "hat",
+          "count": 89
         },
         {
           "word": "novel",
-          "count": 97
-        },
-        {
-          "word": "museum",
-          "count": 97
-        },
-        {
-          "word": "available",
-          "count": 82
-        },
-        {
-          "word": "genuine",
-          "count": 77
-        },
-        {
-          "word": "organized",
-          "count": 76
-        },
-        {
-          "word": "carousel",
-          "count": 67
-        },
-        {
-          "word": "symbolic",
-          "count": 66
-        },
-        {
-          "word": "cannot",
-          "count": 55
-        },
-        {
-          "word": "social",
-          "count": 49
+          "count": 75
         },
         {
           "word": "allie",
-          "count": 44
+          "count": 66
         },
         {
-          "word": "symbol",
-          "count": 43
+          "word": "museum",
+          "count": 64
+        },
+        {
+          "word": "symbolic",
+          "count": 61
         },
         {
           "word": "symbols",
-          "count": 41
+          "count": 60
         },
         {
-          "word": "fantasy",
-          "count": 40
+          "word": "mitt",
+          "count": 54
+        },
+        {
+          "word": "salinger",
+          "count": 53
         },
         {
           "word": "catcher",
-          "count": 39
+          "count": 52
         },
         {
-          "word": "rye",
-          "count": 36
-        },
-        {
-          "word": "framework",
-          "count": 35
+          "word": "ducks",
+          "count": 52
         },
         {
           "word": "grief",
-          "count": 34
+          "count": 52
         },
         {
-          "word": "forms",
-          "count": 33
+          "word": "phoebe",
+          "count": 52
+        },
+        {
+          "word": "reading",
+          "count": 51
+        },
+        {
+          "word": "carousel",
+          "count": 49
+        },
+        {
+          "word": "fantasy",
+          "count": 48
+        },
+        {
+          "word": "specific",
+          "count": 47
+        },
+        {
+          "word": "psychological",
+          "count": 43
+        },
+        {
+          "word": "question",
+          "count": 43
+        },
+        {
+          "word": "object",
+          "count": 40
         }
       ]
     },
@@ -69638,9 +69450,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6391,
-      "topWord": "narration",
-      "topCount": 226,
+      "wordCount": 7087,
+      "topWord": "holden",
+      "topCount": 356,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69649,146 +69461,126 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-13-holden-caulfield-unreliable-narrator.md",
       "flaggedWords": [
         {
-          "word": "narration",
-          "count": 226
-        },
-        {
-          "word": "specific",
-          "count": 174
-        },
-        {
           "word": "holden",
-          "count": 159
+          "count": 356
         },
         {
-          "word": "unreliability",
+          "word": "narration",
+          "count": 114
+        },
+        {
+          "word": "grief",
+          "count": 101
+        },
+        {
+          "word": "text",
           "count": 97
-        },
-        {
-          "word": "reader",
-          "count": 93
         },
         {
           "word": "unreliable",
           "count": 91
         },
         {
-          "word": "framework",
-          "count": 87
-        },
-        {
           "word": "narrator",
-          "count": 86
+          "count": 88
         },
         {
-          "word": "novel",
-          "count": 84
+          "word": "allie",
+          "count": 73
         },
         {
-          "word": "available",
-          "count": 80
+          "word": "reader",
+          "count": 72
         },
         {
-          "word": "organized",
-          "count": 67
+          "word": "emotional",
+          "count": 70
         },
         {
-          "word": "grief",
-          "count": 62
-        },
-        {
-          "word": "cannot",
-          "count": 58
-        },
-        {
-          "word": "evidence",
-          "count": 56
-        },
-        {
-          "word": "account",
+          "word": "tells",
           "count": 53
         }
       ],
       "top20": [
         {
-          "word": "narration",
-          "count": 226
-        },
-        {
-          "word": "specific",
-          "count": 174
-        },
-        {
           "word": "holden",
-          "count": 159
+          "count": 356
         },
         {
-          "word": "unreliability",
+          "word": "narration",
+          "count": 114
+        },
+        {
+          "word": "grief",
+          "count": 101
+        },
+        {
+          "word": "text",
           "count": 97
-        },
-        {
-          "word": "reader",
-          "count": 93
         },
         {
           "word": "unreliable",
           "count": 91
         },
         {
-          "word": "framework",
-          "count": 87
-        },
-        {
           "word": "narrator",
-          "count": 86
+          "count": 88
         },
         {
-          "word": "novel",
-          "count": 84
+          "word": "allie",
+          "count": 73
         },
         {
-          "word": "available",
-          "count": 80
+          "word": "reader",
+          "count": 72
         },
         {
-          "word": "organized",
-          "count": 67
+          "word": "emotional",
+          "count": 70
         },
         {
-          "word": "grief",
-          "count": 62
-        },
-        {
-          "word": "cannot",
-          "count": 58
-        },
-        {
-          "word": "evidence",
-          "count": 56
-        },
-        {
-          "word": "account",
+          "word": "tells",
           "count": 53
         },
         {
-          "word": "self",
-          "count": 47
+          "word": "salinger",
+          "count": 46
         },
         {
-          "word": "phoniness",
-          "count": 47
+          "word": "narrative",
+          "count": 46
         },
         {
-          "word": "genuine",
-          "count": 43
+          "word": "unreliability",
+          "count": 45
         },
         {
-          "word": "directly",
+          "word": "cannot",
+          "count": 40
+        },
+        {
+          "word": "avoidance",
+          "count": 39
+        },
+        {
+          "word": "label",
           "count": 37
         },
         {
-          "word": "social",
-          "count": 36
+          "word": "self",
+          "count": 35
+        },
+        {
+          "word": "trauma",
+          "count": 34
+        },
+        {
+          "word": "reading",
+          "count": 30
+        },
+        {
+          "word": "specific",
+          "count": 29
         }
       ]
     },
@@ -69906,9 +69698,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6642,
-      "topWord": "specific",
-      "topCount": 218,
+      "wordCount": 7534,
+      "topWord": "victor",
+      "topCount": 202,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -69917,126 +69709,122 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-08-18-complete-analysis-frankenstein-shelley.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 218
-        },
-        {
-          "word": "novel",
-          "count": 171
+          "word": "victor",
+          "count": 202
         },
         {
           "word": "creature",
-          "count": 162
+          "count": 188
         },
         {
-          "word": "victor",
-          "count": 156
+          "word": "novel",
+          "count": 85
         },
         {
-          "word": "creation",
-          "count": 89
+          "word": "shelley",
+          "count": 81
         },
         {
           "word": "frankenstein",
-          "count": 75
+          "count": 76
         },
         {
-          "word": "aspiration",
-          "count": 65
+          "word": "moral",
+          "count": 70
         },
         {
-          "word": "organized",
-          "count": 61
+          "word": "text",
+          "count": 68
         },
         {
-          "word": "argument",
+          "word": "creation",
           "count": 59
         },
         {
-          "word": "available",
-          "count": 52
+          "word": "walton",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 218
-        },
-        {
-          "word": "novel",
-          "count": 171
+          "word": "victor",
+          "count": 202
         },
         {
           "word": "creature",
-          "count": 162
+          "count": 188
         },
         {
-          "word": "victor",
-          "count": 156
+          "word": "novel",
+          "count": 85
         },
         {
-          "word": "creation",
-          "count": 89
+          "word": "shelley",
+          "count": 81
         },
         {
           "word": "frankenstein",
-          "count": 75
-        },
-        {
-          "word": "aspiration",
-          "count": 65
-        },
-        {
-          "word": "organized",
-          "count": 61
-        },
-        {
-          "word": "argument",
-          "count": 59
-        },
-        {
-          "word": "available",
-          "count": 52
-        },
-        {
-          "word": "conditions",
-          "count": 46
-        },
-        {
-          "word": "scientific",
-          "count": 41
-        },
-        {
-          "word": "social",
-          "count": 41
-        },
-        {
-          "word": "relationship",
-          "count": 40
-        },
-        {
-          "word": "genuine",
-          "count": 40
+          "count": 76
         },
         {
           "word": "moral",
-          "count": 39
+          "count": 70
+        },
+        {
+          "word": "text",
+          "count": 68
+        },
+        {
+          "word": "creation",
+          "count": 59
+        },
+        {
+          "word": "walton",
+          "count": 51
         },
         {
           "word": "human",
+          "count": 49
+        },
+        {
+          "word": "ambition",
+          "count": 40
+        },
+        {
+          "word": "reading",
+          "count": 40
+        },
+        {
+          "word": "mary",
+          "count": 39
+        },
+        {
+          "word": "argument",
           "count": 37
         },
         {
-          "word": "creator",
-          "count": 37
+          "word": "female",
+          "count": 34
         },
         {
-          "word": "existence",
-          "count": 36
+          "word": "narrative",
+          "count": 33
         },
         {
-          "word": "created",
-          "count": 35
+          "word": "specific",
+          "count": 31
+        },
+        {
+          "word": "responsibility",
+          "count": 30
+        },
+        {
+          "word": "abandonment",
+          "count": 29
+        },
+        {
+          "word": "produced",
+          "count": 28
         }
       ]
     },
@@ -70048,9 +69836,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6540,
+      "wordCount": 7461,
       "topWord": "victor",
-      "topCount": 292,
+      "topCount": 442,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -70060,121 +69848,113 @@
       "flaggedWords": [
         {
           "word": "victor",
-          "count": 292
-        },
-        {
-          "word": "specific",
-          "count": 217
+          "count": 442
         },
         {
           "word": "creature",
-          "count": 112
+          "count": 160
         },
         {
-          "word": "self",
-          "count": 91
+          "word": "shelley",
+          "count": 72
+        },
+        {
+          "word": "mary",
+          "count": 66
+        },
+        {
+          "word": "creation",
+          "count": 63
+        },
+        {
+          "word": "walton",
+          "count": 57
         },
         {
           "word": "novel",
-          "count": 79
-        },
-        {
-          "word": "genuine",
-          "count": 77
-        },
-        {
-          "word": "organized",
-          "count": 70
-        },
-        {
-          "word": "choices",
-          "count": 55
-        },
-        {
-          "word": "available",
           "count": 51
         }
       ],
       "top20": [
         {
           "word": "victor",
-          "count": 292
-        },
-        {
-          "word": "specific",
-          "count": 217
+          "count": 442
         },
         {
           "word": "creature",
-          "count": 112
+          "count": 160
         },
         {
-          "word": "self",
-          "count": 91
+          "word": "shelley",
+          "count": 72
         },
         {
-          "word": "novel",
-          "count": 79
-        },
-        {
-          "word": "genuine",
-          "count": 77
-        },
-        {
-          "word": "organized",
-          "count": 70
-        },
-        {
-          "word": "choices",
-          "count": 55
-        },
-        {
-          "word": "available",
-          "count": 51
-        },
-        {
-          "word": "person",
-          "count": 50
-        },
-        {
-          "word": "moral",
-          "count": 50
-        },
-        {
-          "word": "consequences",
-          "count": 47
-        },
-        {
-          "word": "responsibility",
-          "count": 45
-        },
-        {
-          "word": "aspiration",
-          "count": 45
-        },
-        {
-          "word": "character",
-          "count": 41
-        },
-        {
-          "word": "failure",
-          "count": 39
-        },
-        {
-          "word": "relationship",
-          "count": 38
+          "word": "mary",
+          "count": 66
         },
         {
           "word": "creation",
-          "count": 36
+          "count": 63
         },
         {
-          "word": "cannot",
-          "count": 36
+          "word": "walton",
+          "count": 57
         },
         {
-          "word": "requires",
-          "count": 35
+          "word": "novel",
+          "count": 51
+        },
+        {
+          "word": "abandonment",
+          "count": 49
+        },
+        {
+          "word": "moral",
+          "count": 49
+        },
+        {
+          "word": "elizabeth",
+          "count": 49
+        },
+        {
+          "word": "failure",
+          "count": 41
+        },
+        {
+          "word": "self",
+          "count": 40
+        },
+        {
+          "word": "reading",
+          "count": 37
+        },
+        {
+          "word": "human",
+          "count": 34
+        },
+        {
+          "word": "himself",
+          "count": 34
+        },
+        {
+          "word": "frankenstein",
+          "count": 33
+        },
+        {
+          "word": "responsibility",
+          "count": 33
+        },
+        {
+          "word": "clerval",
+          "count": 31
+        },
+        {
+          "word": "ambition",
+          "count": 28
+        },
+        {
+          "word": "specific",
+          "count": 27
         }
       ]
     },
@@ -70352,9 +70132,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6696,
-      "topWord": "specific",
-      "topCount": 306,
+      "wordCount": 7664,
+      "topWord": "victor",
+      "topCount": 196,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -70363,158 +70143,138 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-02-themes-science-ambition-frankenstein.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 306
-        },
-        {
-          "word": "organized",
-          "count": 133
+          "word": "victor",
+          "count": 196
         },
         {
           "word": "ambition",
-          "count": 121
+          "count": 152
         },
         {
-          "word": "novel",
-          "count": 121
+          "word": "shelley",
+          "count": 134
         },
         {
-          "word": "scientific",
-          "count": 120
+          "word": "creature",
+          "count": 128
         },
         {
-          "word": "victor",
-          "count": 109
+          "word": "responsibility",
+          "count": 84
         },
         {
-          "word": "aspiration",
-          "count": 98
+          "word": "walton",
+          "count": 79
+        },
+        {
+          "word": "text",
+          "count": 73
         },
         {
           "word": "creation",
-          "count": 88
-        },
-        {
-          "word": "achievement",
-          "count": 87
-        },
-        {
-          "word": "available",
-          "count": 81
-        },
-        {
-          "word": "frankenstein",
-          "count": 79
-        },
-        {
-          "word": "knowledge",
-          "count": 79
-        },
-        {
-          "word": "argument",
-          "count": 77
-        },
-        {
-          "word": "failure",
-          "count": 64
-        },
-        {
-          "word": "requires",
-          "count": 62
+          "count": 73
         },
         {
           "word": "moral",
-          "count": 60
+          "count": 65
         },
         {
-          "word": "whose",
-          "count": 58
+          "word": "reading",
+          "count": 62
         },
         {
-          "word": "result",
+          "word": "argument",
+          "count": 59
+        },
+        {
+          "word": "frankenstein",
+          "count": 56
+        },
+        {
+          "word": "science",
           "count": 51
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 306
-        },
-        {
-          "word": "organized",
-          "count": 133
+          "word": "victor",
+          "count": 196
         },
         {
           "word": "ambition",
-          "count": 121
+          "count": 152
         },
         {
-          "word": "novel",
-          "count": 121
+          "word": "shelley",
+          "count": 134
         },
         {
-          "word": "scientific",
-          "count": 120
+          "word": "creature",
+          "count": 128
         },
         {
-          "word": "victor",
-          "count": 109
+          "word": "responsibility",
+          "count": 84
         },
         {
-          "word": "aspiration",
-          "count": 98
+          "word": "walton",
+          "count": 79
+        },
+        {
+          "word": "text",
+          "count": 73
         },
         {
           "word": "creation",
-          "count": 88
-        },
-        {
-          "word": "achievement",
-          "count": 87
-        },
-        {
-          "word": "available",
-          "count": 81
-        },
-        {
-          "word": "frankenstein",
-          "count": 79
-        },
-        {
-          "word": "knowledge",
-          "count": 79
-        },
-        {
-          "word": "argument",
-          "count": 77
-        },
-        {
-          "word": "failure",
-          "count": 64
-        },
-        {
-          "word": "requires",
-          "count": 62
+          "count": 73
         },
         {
           "word": "moral",
-          "count": 60
+          "count": 65
         },
         {
-          "word": "whose",
-          "count": 58
+          "word": "reading",
+          "count": 62
         },
         {
-          "word": "result",
+          "word": "argument",
+          "count": 59
+        },
+        {
+          "word": "frankenstein",
+          "count": 56
+        },
+        {
+          "word": "science",
           "count": 51
         },
         {
-          "word": "obligations",
+          "word": "scientific",
           "count": 48
         },
         {
-          "word": "consequential",
-          "count": 46
+          "word": "knowledge",
+          "count": 40
+        },
+        {
+          "word": "specific",
+          "count": 40
+        },
+        {
+          "word": "ethical",
+          "count": 38
+        },
+        {
+          "word": "framework",
+          "count": 36
+        },
+        {
+          "word": "intellectual",
+          "count": 36
+        },
+        {
+          "word": "care",
+          "count": 32
         }
       ]
     },
@@ -70526,9 +70286,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6588,
-      "topWord": "specific",
-      "topCount": 308,
+      "wordCount": 7825,
+      "topWord": "heathcliff",
+      "topCount": 227,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -70537,142 +70297,130 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-07-complete-analysis-wuthering-heights.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 308
-        },
-        {
-          "word": "novel",
-          "count": 228
-        },
-        {
-          "word": "social",
-          "count": 171
-        },
-        {
-          "word": "organized",
-          "count": 151
-        },
-        {
           "word": "heathcliff",
-          "count": 116
+          "count": 227
         },
         {
-          "word": "available",
-          "count": 108
-        },
-        {
-          "word": "connection",
-          "count": 88
-        },
-        {
-          "word": "absolute",
-          "count": 82
-        },
-        {
-          "word": "heights",
-          "count": 81
-        },
-        {
-          "word": "forms",
-          "count": 73
+          "word": "class",
+          "count": 126
         },
         {
           "word": "catherine",
-          "count": 71
+          "count": 119
+        },
+        {
+          "word": "bront",
+          "count": 109
+        },
+        {
+          "word": "heights",
+          "count": 103
+        },
+        {
+          "word": "novel",
+          "count": 97
+        },
+        {
+          "word": "property",
+          "count": 70
+        },
+        {
+          "word": "generation",
+          "count": 67
         },
         {
           "word": "wuthering",
-          "count": 60
+          "count": 64
         },
         {
-          "word": "argument",
-          "count": 57
+          "word": "romantic",
+          "count": 56
         },
         {
-          "word": "love",
-          "count": 57
+          "word": "grange",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 308
-        },
-        {
-          "word": "novel",
-          "count": 228
-        },
-        {
-          "word": "social",
-          "count": 171
-        },
-        {
-          "word": "organized",
-          "count": 151
-        },
-        {
           "word": "heathcliff",
-          "count": 116
+          "count": 227
         },
         {
-          "word": "available",
-          "count": 108
-        },
-        {
-          "word": "connection",
-          "count": 88
-        },
-        {
-          "word": "absolute",
-          "count": 82
-        },
-        {
-          "word": "heights",
-          "count": 81
-        },
-        {
-          "word": "forms",
-          "count": 73
+          "word": "class",
+          "count": 126
         },
         {
           "word": "catherine",
-          "count": 71
+          "count": 119
         },
         {
-          "word": "wuthering",
-          "count": 60
+          "word": "bront",
+          "count": 109
         },
         {
-          "word": "argument",
-          "count": 57
+          "word": "heights",
+          "count": 103
         },
         {
-          "word": "love",
-          "count": 57
+          "word": "novel",
+          "count": 97
+        },
+        {
+          "word": "property",
+          "count": 70
         },
         {
           "word": "generation",
-          "count": 48
+          "count": 67
         },
         {
-          "word": "revenge",
-          "count": 48
+          "word": "wuthering",
+          "count": 64
         },
         {
-          "word": "formal",
-          "count": 44
+          "word": "romantic",
+          "count": 56
         },
         {
-          "word": "conventional",
-          "count": 44
+          "word": "grange",
+          "count": 56
         },
         {
-          "word": "produces",
-          "count": 43
+          "word": "nelly",
+          "count": 50
         },
         {
-          "word": "requirements",
-          "count": 42
+          "word": "linton",
+          "count": 49
+        },
+        {
+          "word": "social",
+          "count": 45
+        },
+        {
+          "word": "marriage",
+          "count": 45
+        },
+        {
+          "word": "violence",
+          "count": 40
+        },
+        {
+          "word": "hindley",
+          "count": 39
+        },
+        {
+          "word": "reading",
+          "count": 37
+        },
+        {
+          "word": "cathy",
+          "count": 36
+        },
+        {
+          "word": "moors",
+          "count": 36
         }
       ]
     },
@@ -70684,9 +70432,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6458,
-      "topWord": "specific",
-      "topCount": 359,
+      "wordCount": 7932,
+      "topWord": "heathcliff",
+      "topCount": 319,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -70695,146 +70443,130 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-12-heathcliff-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 359
-        },
-        {
           "word": "heathcliff",
-          "count": 182
+          "count": 319
         },
         {
-          "word": "available",
-          "count": 180
+          "word": "abuse",
+          "count": 103
         },
         {
-          "word": "organized",
-          "count": 145
-        },
-        {
-          "word": "social",
-          "count": 122
-        },
-        {
-          "word": "novel",
-          "count": 106
-        },
-        {
-          "word": "absolute",
-          "count": 92
-        },
-        {
-          "word": "love",
-          "count": 90
-        },
-        {
-          "word": "conditions",
-          "count": 82
-        },
-        {
-          "word": "character",
-          "count": 79
-        },
-        {
-          "word": "revenge",
-          "count": 76
-        },
-        {
-          "word": "dispossession",
-          "count": 68
+          "word": "class",
+          "count": 96
         },
         {
           "word": "catherine",
-          "count": 60
+          "count": 92
         },
         {
-          "word": "force",
-          "count": 51
+          "word": "reading",
+          "count": 85
         },
         {
-          "word": "forms",
+          "word": "revenge",
+          "count": 78
+        },
+        {
+          "word": "hindley",
+          "count": 77
+        },
+        {
+          "word": "response",
+          "count": 58
+        },
+        {
+          "word": "trauma",
+          "count": 57
+        },
+        {
+          "word": "property",
+          "count": 54
+        },
+        {
+          "word": "linton",
           "count": 51
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 359
-        },
-        {
           "word": "heathcliff",
-          "count": 182
+          "count": 319
         },
         {
-          "word": "available",
-          "count": 180
+          "word": "abuse",
+          "count": 103
         },
         {
-          "word": "organized",
-          "count": 145
-        },
-        {
-          "word": "social",
-          "count": 122
-        },
-        {
-          "word": "novel",
-          "count": 106
-        },
-        {
-          "word": "absolute",
-          "count": 92
-        },
-        {
-          "word": "love",
-          "count": 90
-        },
-        {
-          "word": "conditions",
-          "count": 82
-        },
-        {
-          "word": "character",
-          "count": 79
-        },
-        {
-          "word": "revenge",
-          "count": 76
-        },
-        {
-          "word": "dispossession",
-          "count": 68
+          "word": "class",
+          "count": 96
         },
         {
           "word": "catherine",
-          "count": 60
+          "count": 92
         },
         {
-          "word": "force",
+          "word": "reading",
+          "count": 85
+        },
+        {
+          "word": "revenge",
+          "count": 78
+        },
+        {
+          "word": "hindley",
+          "count": 77
+        },
+        {
+          "word": "response",
+          "count": 58
+        },
+        {
+          "word": "trauma",
+          "count": 57
+        },
+        {
+          "word": "property",
+          "count": 54
+        },
+        {
+          "word": "linton",
           "count": 51
         },
         {
-          "word": "forms",
-          "count": 51
+          "word": "bronte",
+          "count": 50
         },
         {
-          "word": "connection",
+          "word": "social",
+          "count": 50
+        },
+        {
+          "word": "hareton",
+          "count": 48
+        },
+        {
+          "word": "character",
+          "count": 47
+        },
+        {
+          "word": "byronic",
           "count": 46
         },
         {
-          "word": "romantic",
-          "count": 44
-        },
-        {
-          "word": "produces",
-          "count": 40
+          "word": "specific",
+          "count": 46
         },
         {
           "word": "whose",
-          "count": 38
+          "count": 44
         },
         {
-          "word": "conventional",
-          "count": 38
+          "word": "earnshaw",
+          "count": 40
+        },
+        {
+          "word": "cruelty",
+          "count": 39
         }
       ]
     },
@@ -70846,9 +70578,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6440,
-      "topWord": "specific",
-      "topCount": 305,
+      "wordCount": 8026,
+      "topWord": "catherine",
+      "topCount": 400,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -70857,154 +70589,134 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-17-catherine-earnshaw-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 305
-        },
-        {
-          "word": "social",
-          "count": 206
-        },
-        {
-          "word": "available",
-          "count": 196
-        },
-        {
           "word": "catherine",
-          "count": 192
-        },
-        {
-          "word": "organized",
-          "count": 150
-        },
-        {
-          "word": "self",
-          "count": 148
-        },
-        {
-          "word": "absolute",
-          "count": 134
-        },
-        {
-          "word": "requirements",
-          "count": 89
-        },
-        {
-          "word": "connection",
-          "count": 85
-        },
-        {
-          "word": "novel",
-          "count": 84
+          "count": 400
         },
         {
           "word": "heathcliff",
-          "count": 78
+          "count": 202
         },
         {
-          "word": "genuine",
-          "count": 68
+          "word": "class",
+          "count": 143
         },
         {
-          "word": "division",
+          "word": "edgar",
+          "count": 99
+        },
+        {
+          "word": "nelly",
+          "count": 77
+        },
+        {
+          "word": "romantic",
+          "count": 69
+        },
+        {
+          "word": "structural",
+          "count": 67
+        },
+        {
+          "word": "shared",
+          "count": 64
+        },
+        {
+          "word": "bronte",
           "count": 62
         },
         {
-          "word": "conditions",
-          "count": 61
+          "word": "identity",
+          "count": 57
         },
         {
-          "word": "forms",
-          "count": 55
+          "word": "marriage",
+          "count": 53
         },
         {
-          "word": "produces",
-          "count": 55
-        },
-        {
-          "word": "argument",
-          "count": 52
+          "word": "consciousness",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 305
-        },
-        {
-          "word": "social",
-          "count": 206
-        },
-        {
-          "word": "available",
-          "count": 196
-        },
-        {
           "word": "catherine",
-          "count": 192
-        },
-        {
-          "word": "organized",
-          "count": 150
-        },
-        {
-          "word": "self",
-          "count": 148
-        },
-        {
-          "word": "absolute",
-          "count": 134
-        },
-        {
-          "word": "requirements",
-          "count": 89
-        },
-        {
-          "word": "connection",
-          "count": 85
-        },
-        {
-          "word": "novel",
-          "count": 84
+          "count": 400
         },
         {
           "word": "heathcliff",
-          "count": 78
+          "count": 202
         },
         {
-          "word": "genuine",
-          "count": 68
+          "word": "class",
+          "count": 143
         },
         {
-          "word": "division",
+          "word": "edgar",
+          "count": 99
+        },
+        {
+          "word": "nelly",
+          "count": 77
+        },
+        {
+          "word": "romantic",
+          "count": 69
+        },
+        {
+          "word": "structural",
+          "count": 67
+        },
+        {
+          "word": "shared",
+          "count": 64
+        },
+        {
+          "word": "bronte",
           "count": 62
         },
         {
-          "word": "conditions",
-          "count": 61
+          "word": "identity",
+          "count": 57
         },
         {
-          "word": "forms",
-          "count": 55
+          "word": "marriage",
+          "count": 53
         },
         {
-          "word": "produces",
-          "count": 55
+          "word": "consciousness",
+          "count": 51
         },
         {
-          "word": "argument",
-          "count": 52
+          "word": "reading",
+          "count": 46
         },
         {
-          "word": "character",
-          "count": 49
+          "word": "hindley",
+          "count": 46
         },
         {
-          "word": "genuinely",
-          "count": 45
-        },
-        {
-          "word": "conventional",
+          "word": "childhood",
           "count": 44
+        },
+        {
+          "word": "gentry",
+          "count": 44
+        },
+        {
+          "word": "psychological",
+          "count": 44
+        },
+        {
+          "word": "earnshaw",
+          "count": 42
+        },
+        {
+          "word": "death",
+          "count": 40
+        },
+        {
+          "word": "social",
+          "count": 39
         }
       ]
     },
@@ -71304,9 +71016,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6799,
-      "topWord": "specific",
-      "topCount": 429,
+      "wordCount": 7746,
+      "topWord": "pip",
+      "topCount": 233,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -71315,166 +71027,122 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-09-27-complete-analysis-great-expectations.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 429
-        },
-        {
-          "word": "available",
-          "count": 407
-        },
-        {
-          "word": "genuine",
-          "count": 225
-        },
-        {
-          "word": "organized",
-          "count": 222
-        },
-        {
-          "word": "aspiration",
-          "count": 162
-        },
-        {
-          "word": "novel",
-          "count": 111
-        },
-        {
-          "word": "social",
-          "count": 108
+          "word": "pip",
+          "count": 233
         },
         {
           "word": "class",
-          "count": 108
+          "count": 150
         },
         {
-          "word": "urgently",
-          "count": 106
+          "word": "dickens",
+          "count": 129
         },
         {
-          "word": "pip",
-          "count": 97
+          "word": "novel",
+          "count": 119
         },
         {
-          "word": "argument",
-          "count": 96
-        },
-        {
-          "word": "recognition",
-          "count": 82
-        },
-        {
-          "word": "external",
-          "count": 76
-        },
-        {
-          "word": "position",
-          "count": 75
-        },
-        {
-          "word": "markers",
-          "count": 69
-        },
-        {
-          "word": "self",
-          "count": 63
-        },
-        {
-          "word": "superior",
-          "count": 62
-        },
-        {
-          "word": "forms",
-          "count": 62
-        },
-        {
-          "word": "connection",
-          "count": 59
+          "word": "magwitch",
+          "count": 84
         },
         {
           "word": "expectations",
-          "count": 54
+          "count": 74
+        },
+        {
+          "word": "joe",
+          "count": 68
+        },
+        {
+          "word": "estella",
+          "count": 61
+        },
+        {
+          "word": "argument",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 429
-        },
-        {
-          "word": "available",
-          "count": 407
-        },
-        {
-          "word": "genuine",
-          "count": 225
-        },
-        {
-          "word": "organized",
-          "count": 222
-        },
-        {
-          "word": "aspiration",
-          "count": 162
-        },
-        {
-          "word": "novel",
-          "count": 111
-        },
-        {
-          "word": "social",
-          "count": 108
+          "word": "pip",
+          "count": 233
         },
         {
           "word": "class",
-          "count": 108
+          "count": 150
         },
         {
-          "word": "urgently",
-          "count": 106
+          "word": "dickens",
+          "count": 129
         },
         {
-          "word": "pip",
-          "count": 97
+          "word": "novel",
+          "count": 119
         },
         {
-          "word": "argument",
-          "count": 96
-        },
-        {
-          "word": "recognition",
-          "count": 82
-        },
-        {
-          "word": "external",
-          "count": 76
-        },
-        {
-          "word": "position",
-          "count": 75
-        },
-        {
-          "word": "markers",
-          "count": 69
-        },
-        {
-          "word": "self",
-          "count": 63
-        },
-        {
-          "word": "superior",
-          "count": 62
-        },
-        {
-          "word": "forms",
-          "count": 62
-        },
-        {
-          "word": "connection",
-          "count": 59
+          "word": "magwitch",
+          "count": 84
         },
         {
           "word": "expectations",
-          "count": 54
+          "count": 74
+        },
+        {
+          "word": "joe",
+          "count": 68
+        },
+        {
+          "word": "estella",
+          "count": 61
+        },
+        {
+          "word": "argument",
+          "count": 55
+        },
+        {
+          "word": "havisham",
+          "count": 46
+        },
+        {
+          "word": "miss",
+          "count": 45
+        },
+        {
+          "word": "structural",
+          "count": 43
+        },
+        {
+          "word": "aspiration",
+          "count": 36
+        },
+        {
+          "word": "victorian",
+          "count": 34
+        },
+        {
+          "word": "self",
+          "count": 34
+        },
+        {
+          "word": "shame",
+          "count": 33
+        },
+        {
+          "word": "cannot",
+          "count": 33
+        },
+        {
+          "word": "moral",
+          "count": 32
+        },
+        {
+          "word": "critique",
+          "count": 31
+        },
+        {
+          "word": "chapter",
+          "count": 31
         }
       ]
     },
@@ -71486,9 +71154,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6832,
-      "topWord": "available",
-      "topCount": 679,
+      "wordCount": 7922,
+      "topWord": "pip",
+      "topCount": 358,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -71497,166 +71165,134 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2014-10-02-pip-character-analysis-dickens.md",
       "flaggedWords": [
         {
-          "word": "available",
-          "count": 679
-        },
-        {
-          "word": "specific",
-          "count": 377
-        },
-        {
-          "word": "genuine",
-          "count": 339
-        },
-        {
-          "word": "urgently",
-          "count": 271
-        },
-        {
-          "word": "organized",
-          "count": 208
-        },
-        {
-          "word": "aspiration",
-          "count": 192
-        },
-        {
           "word": "pip",
-          "count": 149
-        },
-        {
-          "word": "recognition",
-          "count": 137
-        },
-        {
-          "word": "complete",
-          "count": 101
-        },
-        {
-          "word": "forms",
-          "count": 95
-        },
-        {
-          "word": "instrument",
-          "count": 88
-        },
-        {
-          "word": "self",
-          "count": 83
-        },
-        {
-          "word": "novel",
-          "count": 80
-        },
-        {
-          "word": "external",
-          "count": 76
-        },
-        {
-          "word": "markers",
-          "count": 72
-        },
-        {
-          "word": "argument",
-          "count": 69
-        },
-        {
-          "word": "formal",
-          "count": 65
-        },
-        {
-          "word": "completely",
-          "count": 62
-        },
-        {
-          "word": "social",
-          "count": 62
+          "count": 358
         },
         {
           "word": "class",
-          "count": 60
+          "count": 147
+        },
+        {
+          "word": "structural",
+          "count": 131
+        },
+        {
+          "word": "formation",
+          "count": 125
+        },
+        {
+          "word": "joe",
+          "count": 114
+        },
+        {
+          "word": "dickens",
+          "count": 94
+        },
+        {
+          "word": "estella",
+          "count": 91
+        },
+        {
+          "word": "gentleman",
+          "count": 90
+        },
+        {
+          "word": "reading",
+          "count": 75
+        },
+        {
+          "word": "magwitch",
+          "count": 68
+        },
+        {
+          "word": "aspiration",
+          "count": 61
+        },
+        {
+          "word": "forge",
+          "count": 59
         }
       ],
       "top20": [
         {
-          "word": "available",
-          "count": 679
-        },
-        {
-          "word": "specific",
-          "count": 377
-        },
-        {
-          "word": "genuine",
-          "count": 339
-        },
-        {
-          "word": "urgently",
-          "count": 271
-        },
-        {
-          "word": "organized",
-          "count": 208
-        },
-        {
-          "word": "aspiration",
-          "count": 192
-        },
-        {
           "word": "pip",
-          "count": 149
-        },
-        {
-          "word": "recognition",
-          "count": 137
-        },
-        {
-          "word": "complete",
-          "count": 101
-        },
-        {
-          "word": "forms",
-          "count": 95
-        },
-        {
-          "word": "instrument",
-          "count": 88
-        },
-        {
-          "word": "self",
-          "count": 83
-        },
-        {
-          "word": "novel",
-          "count": 80
-        },
-        {
-          "word": "external",
-          "count": 76
-        },
-        {
-          "word": "markers",
-          "count": 72
-        },
-        {
-          "word": "argument",
-          "count": 69
-        },
-        {
-          "word": "formal",
-          "count": 65
-        },
-        {
-          "word": "completely",
-          "count": 62
-        },
-        {
-          "word": "social",
-          "count": 62
+          "count": 358
         },
         {
           "word": "class",
-          "count": 60
+          "count": 147
+        },
+        {
+          "word": "structural",
+          "count": 131
+        },
+        {
+          "word": "formation",
+          "count": 125
+        },
+        {
+          "word": "joe",
+          "count": 114
+        },
+        {
+          "word": "dickens",
+          "count": 94
+        },
+        {
+          "word": "estella",
+          "count": 91
+        },
+        {
+          "word": "gentleman",
+          "count": 90
+        },
+        {
+          "word": "reading",
+          "count": 75
+        },
+        {
+          "word": "magwitch",
+          "count": 68
+        },
+        {
+          "word": "aspiration",
+          "count": 61
+        },
+        {
+          "word": "forge",
+          "count": 59
+        },
+        {
+          "word": "novel",
+          "count": 48
+        },
+        {
+          "word": "satis",
+          "count": 48
+        },
+        {
+          "word": "moral",
+          "count": 45
+        },
+        {
+          "word": "shame",
+          "count": 45
+        },
+        {
+          "word": "produced",
+          "count": 42
+        },
+        {
+          "word": "conditions",
+          "count": 40
+        },
+        {
+          "word": "social",
+          "count": 40
+        },
+        {
+          "word": "havisham",
+          "count": 40
         }
       ]
     },
@@ -76577,6 +76213,164 @@
         },
         {
           "word": "projection",
+          "count": 45
+        }
+      ]
+    },
+    {
+      "filename": "2015-02-20-strait-of-hormuz-worlds-most-critical-chokepoint.md",
+      "slug": "strait-of-hormuz-worlds-most-critical-chokepoint",
+      "title": "Strait of Hormuz: World's Most Critical Chokepoint",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 11586,
+      "topWord": "strait",
+      "topCount": 304,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-02-20-strait-of-hormuz-worlds-most-critical-chokepoint.md",
+      "flaggedWords": [
+        {
+          "word": "strait",
+          "count": 304
+        },
+        {
+          "word": "hormuz",
+          "count": 223
+        },
+        {
+          "word": "oil",
+          "count": 170
+        },
+        {
+          "word": "gulf",
+          "count": 132
+        },
+        {
+          "word": "energy",
+          "count": 122
+        },
+        {
+          "word": "global",
+          "count": 91
+        },
+        {
+          "word": "military",
+          "count": 77
+        },
+        {
+          "word": "iran",
+          "count": 74
+        },
+        {
+          "word": "strategic",
+          "count": 69
+        },
+        {
+          "word": "disruption",
+          "count": 61
+        },
+        {
+          "word": "approximately",
+          "count": 58
+        },
+        {
+          "word": "countries",
+          "count": 58
+        },
+        {
+          "word": "percent",
+          "count": 57
+        },
+        {
+          "word": "economic",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "strait",
+          "count": 304
+        },
+        {
+          "word": "hormuz",
+          "count": 223
+        },
+        {
+          "word": "oil",
+          "count": 170
+        },
+        {
+          "word": "gulf",
+          "count": 132
+        },
+        {
+          "word": "energy",
+          "count": 122
+        },
+        {
+          "word": "global",
+          "count": 91
+        },
+        {
+          "word": "military",
+          "count": 77
+        },
+        {
+          "word": "iran",
+          "count": 74
+        },
+        {
+          "word": "strategic",
+          "count": 69
+        },
+        {
+          "word": "disruption",
+          "count": 61
+        },
+        {
+          "word": "approximately",
+          "count": 58
+        },
+        {
+          "word": "countries",
+          "count": 58
+        },
+        {
+          "word": "percent",
+          "count": 57
+        },
+        {
+          "word": "economic",
+          "count": 55
+        },
+        {
+          "word": "gas",
+          "count": 50
+        },
+        {
+          "word": "shipping",
+          "count": 49
+        },
+        {
+          "word": "supply",
+          "count": 49
+        },
+        {
+          "word": "vulnerability",
+          "count": 47
+        },
+        {
+          "word": "persian",
+          "count": 45
+        },
+        {
+          "word": "maritime",
           "count": 45
         }
       ]
@@ -82151,13 +81945,11 @@
       "filename": "2015-09-07-french-revolution-explained-complete.md",
       "slug": "french-revolution-explained-complete",
       "title": "The French Revolution Explained",
-      "categories": [
-        "Leisure"
-      ],
+      "categories": [],
       "lang": "en",
-      "wordCount": 7301,
-      "topWord": "specific",
-      "topCount": 311,
+      "wordCount": 7845,
+      "topWord": "revolution",
+      "topCount": 153,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -82166,114 +81958,106 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-07-french-revolution-explained-complete.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 311
-        },
-        {
           "word": "revolution",
-          "count": 205
-        },
-        {
-          "word": "political",
-          "count": 150
-        },
-        {
-          "word": "french",
-          "count": 122
+          "count": 153
         },
         {
           "word": "revolutionary",
+          "count": 115
+        },
+        {
+          "word": "political",
           "count": 101
         },
         {
-          "word": "rights",
-          "count": 80
+          "word": "french",
+          "count": 78
         },
         {
-          "word": "terror",
-          "count": 61
+          "word": "france",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 311
-        },
-        {
           "word": "revolution",
-          "count": 205
-        },
-        {
-          "word": "political",
-          "count": 150
-        },
-        {
-          "word": "french",
-          "count": 122
+          "count": 153
         },
         {
           "word": "revolutionary",
+          "count": 115
+        },
+        {
+          "word": "political",
           "count": 101
         },
         {
-          "word": "rights",
-          "count": 80
-        },
-        {
-          "word": "terror",
-          "count": 61
-        },
-        {
-          "word": "principles",
-          "count": 43
-        },
-        {
-          "word": "history",
-          "count": 42
-        },
-        {
-          "word": "military",
-          "count": 39
+          "word": "french",
+          "count": 78
         },
         {
           "word": "france",
+          "count": 55
+        },
+        {
+          "word": "military",
+          "count": 49
+        },
+        {
+          "word": "terror",
+          "count": 41
+        },
+        {
+          "word": "approximately",
           "count": 38
         },
         {
+          "word": "rights",
+          "count": 37
+        },
+        {
+          "word": "produced",
+          "count": 34
+        },
+        {
+          "word": "napoleon",
+          "count": 33
+        },
+        {
           "word": "constitutional",
-          "count": 32
-        },
-        {
-          "word": "subsequent",
-          "count": 32
-        },
-        {
-          "word": "european",
           "count": 31
         },
         {
-          "word": "ad",
-          "count": 30
+          "word": "popular",
+          "count": 31
         },
         {
           "word": "declaration",
-          "count": 30
+          "count": 28
         },
         {
-          "word": "genuine",
-          "count": 29
-        },
-        {
-          "word": "eventually",
+          "word": "established",
           "count": 27
         },
         {
-          "word": "national",
+          "word": "europe",
           "count": 26
         },
         {
-          "word": "republic",
+          "word": "robespierre",
           "count": 26
+        },
+        {
+          "word": "general",
+          "count": 25
+        },
+        {
+          "word": "monarchy",
+          "count": 25
+        },
+        {
+          "word": "republican",
+          "count": 25
         }
       ]
     },
@@ -82717,9 +82501,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7506,
-      "topWord": "specific",
-      "topCount": 685,
+      "wordCount": 7791,
+      "topWord": "french",
+      "topCount": 131,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -82728,86 +82512,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-27-haitian-revolution-explained.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 685
+          "word": "french",
+          "count": 131
         },
         {
           "word": "revolution",
-          "count": 199
-        },
-        {
-          "word": "haitian",
-          "count": 164
-        },
-        {
-          "word": "haiti",
-          "count": 84
-        },
-        {
-          "word": "history",
-          "count": 80
-        },
-        {
-          "word": "slavery",
-          "count": 66
-        },
-        {
-          "word": "military",
-          "count": 66
-        },
-        {
-          "word": "political",
-          "count": 66
-        },
-        {
-          "word": "french",
-          "count": 65
+          "count": 109
         },
         {
           "word": "enslaved",
-          "count": 63
+          "count": 101
+        },
+        {
+          "word": "haitian",
+          "count": 91
+        },
+        {
+          "word": "colonial",
+          "count": 87
+        },
+        {
+          "word": "saint",
+          "count": 79
+        },
+        {
+          "word": "domingue",
+          "count": 78
+        },
+        {
+          "word": "military",
+          "count": 70
+        },
+        {
+          "word": "political",
+          "count": 65
+        },
+        {
+          "word": "toussaint",
+          "count": 60
+        },
+        {
+          "word": "haiti",
+          "count": 55
+        },
+        {
+          "word": "slavery",
+          "count": 53
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 685
+          "word": "french",
+          "count": 131
         },
         {
           "word": "revolution",
-          "count": 199
-        },
-        {
-          "word": "haitian",
-          "count": 164
-        },
-        {
-          "word": "haiti",
-          "count": 84
-        },
-        {
-          "word": "history",
-          "count": 80
-        },
-        {
-          "word": "slavery",
-          "count": 66
-        },
-        {
-          "word": "military",
-          "count": 66
-        },
-        {
-          "word": "political",
-          "count": 66
-        },
-        {
-          "word": "french",
-          "count": 65
+          "count": 109
         },
         {
           "word": "enslaved",
-          "count": 63
+          "count": 101
+        },
+        {
+          "word": "haitian",
+          "count": 91
+        },
+        {
+          "word": "colonial",
+          "count": 87
+        },
+        {
+          "word": "saint",
+          "count": 79
+        },
+        {
+          "word": "domingue",
+          "count": 78
+        },
+        {
+          "word": "military",
+          "count": 70
+        },
+        {
+          "word": "political",
+          "count": 65
+        },
+        {
+          "word": "toussaint",
+          "count": 60
+        },
+        {
+          "word": "haiti",
+          "count": 55
+        },
+        {
+          "word": "slavery",
+          "count": 53
         },
         {
           "word": "independence",
@@ -82815,39 +82615,31 @@
         },
         {
           "word": "american",
-          "count": 47
+          "count": 46
         },
         {
-          "word": "colonial",
-          "count": 44
+          "word": "population",
+          "count": 45
         },
         {
-          "word": "atlantic",
-          "count": 43
+          "word": "produced",
+          "count": 40
         },
         {
-          "word": "approximately",
-          "count": 42
+          "word": "france",
+          "count": 37
         },
         {
-          "word": "historical",
-          "count": 42
+          "word": "caribbean",
+          "count": 34
         },
         {
-          "word": "toussaint",
-          "count": 42
+          "word": "colony",
+          "count": 33
         },
         {
-          "word": "saint",
-          "count": 35
-        },
-        {
-          "word": "domingue",
-          "count": 35
-        },
-        {
-          "word": "vodou",
-          "count": 31
+          "word": "napoleon",
+          "count": 32
         }
       ]
     },
@@ -83161,9 +82953,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8299,
-      "topWord": "specific",
-      "topCount": 1654,
+      "wordCount": 8069,
+      "topWord": "enslaved",
+      "topCount": 91,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -83172,150 +82964,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-17-abolition-slavery-history-timeline.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 1654
+          "word": "enslaved",
+          "count": 91
         },
         {
-          "word": "slavery",
-          "count": 139
-        },
-        {
-          "word": "abolitionist",
-          "count": 132
-        },
-        {
-          "word": "movement",
-          "count": 102
-        },
-        {
-          "word": "abolition",
-          "count": 97
-        },
-        {
-          "word": "slave",
-          "count": 83
+          "word": "emancipation",
+          "count": 71
         },
         {
           "word": "british",
-          "count": 81
-        },
-        {
-          "word": "enslaved",
-          "count": 80
-        },
-        {
-          "word": "political",
-          "count": 77
-        },
-        {
-          "word": "human",
-          "count": 66
-        },
-        {
-          "word": "moral",
-          "count": 64
-        },
-        {
-          "word": "american",
-          "count": 58
-        },
-        {
-          "word": "argument",
           "count": 56
-        },
-        {
-          "word": "legal",
-          "count": 52
-        },
-        {
-          "word": "trade",
-          "count": 51
-        },
-        {
-          "word": "history",
-          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 1654
+          "word": "enslaved",
+          "count": 91
         },
         {
-          "word": "slavery",
-          "count": 139
-        },
-        {
-          "word": "abolitionist",
-          "count": 132
-        },
-        {
-          "word": "movement",
-          "count": 102
-        },
-        {
-          "word": "abolition",
-          "count": 97
-        },
-        {
-          "word": "slave",
-          "count": 83
+          "word": "emancipation",
+          "count": 71
         },
         {
           "word": "british",
-          "count": 81
-        },
-        {
-          "word": "enslaved",
-          "count": 80
-        },
-        {
-          "word": "political",
-          "count": 77
-        },
-        {
-          "word": "human",
-          "count": 66
-        },
-        {
-          "word": "moral",
-          "count": 64
-        },
-        {
-          "word": "american",
-          "count": 58
-        },
-        {
-          "word": "argument",
           "count": 56
         },
         {
-          "word": "legal",
-          "count": 52
-        },
-        {
-          "word": "trade",
-          "count": 51
-        },
-        {
-          "word": "history",
-          "count": 51
-        },
-        {
-          "word": "rights",
+          "word": "american",
           "count": 49
         },
         {
+          "word": "bondage",
+          "count": 44
+        },
+        {
           "word": "economic",
-          "count": 48
+          "count": 43
         },
         {
-          "word": "campaign",
-          "count": 45
-        },
-        {
-          "word": "tradition",
+          "word": "political",
           "count": 42
+        },
+        {
+          "word": "moral",
+          "count": 41
+        },
+        {
+          "word": "labor",
+          "count": 41
+        },
+        {
+          "word": "approximately",
+          "count": 40
+        },
+        {
+          "word": "century",
+          "count": 39
+        },
+        {
+          "word": "colonial",
+          "count": 38
+        },
+        {
+          "word": "black",
+          "count": 38
+        },
+        {
+          "word": "slavery",
+          "count": 33
+        },
+        {
+          "word": "trade",
+          "count": 33
+        },
+        {
+          "word": "institution",
+          "count": 31
+        },
+        {
+          "word": "states",
+          "count": 31
+        },
+        {
+          "word": "free",
+          "count": 30
+        },
+        {
+          "word": "freedom",
+          "count": 29
+        },
+        {
+          "word": "caribbean",
+          "count": 29
         }
       ]
     },
@@ -83327,9 +83067,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 8209,
-      "topWord": "specific",
-      "topCount": 244,
+      "wordCount": 8282,
+      "topWord": "african",
+      "topCount": 161,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -83338,118 +83078,122 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-22-scramble-for-africa-colonialism.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 244
-        },
-        {
           "word": "african",
-          "count": 200
-        },
-        {
-          "word": "colonial",
-          "count": 191
-        },
-        {
-          "word": "scramble",
-          "count": 147
-        },
-        {
-          "word": "africa",
-          "count": 128
+          "count": 161
         },
         {
           "word": "european",
-          "count": 100
+          "count": 116
+        },
+        {
+          "word": "africa",
+          "count": 113
+        },
+        {
+          "word": "partition",
+          "count": 72
+        },
+        {
+          "word": "british",
+          "count": 69
         },
         {
           "word": "political",
-          "count": 99
+          "count": 63
         },
         {
-          "word": "history",
-          "count": 75
+          "word": "congo",
+          "count": 58
+        },
+        {
+          "word": "colonial",
+          "count": 54
+        },
+        {
+          "word": "scramble",
+          "count": 52
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 244
-        },
-        {
           "word": "african",
-          "count": 200
-        },
-        {
-          "word": "colonial",
-          "count": 191
-        },
-        {
-          "word": "scramble",
-          "count": 147
-        },
-        {
-          "word": "africa",
-          "count": 128
+          "count": 161
         },
         {
           "word": "european",
-          "count": 100
+          "count": 116
         },
         {
-          "word": "political",
-          "count": 99
+          "word": "africa",
+          "count": 113
         },
         {
-          "word": "history",
-          "count": 75
-        },
-        {
-          "word": "approximately",
-          "count": 49
-        },
-        {
-          "word": "congo",
-          "count": 47
-        },
-        {
-          "word": "economic",
-          "count": 45
-        },
-        {
-          "word": "contemporary",
-          "count": 43
-        },
-        {
-          "word": "military",
-          "count": 40
-        },
-        {
-          "word": "interests",
-          "count": 38
-        },
-        {
-          "word": "states",
-          "count": 37
+          "word": "partition",
+          "count": 72
         },
         {
           "word": "british",
-          "count": 37
+          "count": 69
+        },
+        {
+          "word": "political",
+          "count": 63
+        },
+        {
+          "word": "congo",
+          "count": 58
+        },
+        {
+          "word": "colonial",
+          "count": 54
+        },
+        {
+          "word": "scramble",
+          "count": 52
+        },
+        {
+          "word": "military",
+          "count": 46
+        },
+        {
+          "word": "powers",
+          "count": 44
+        },
+        {
+          "word": "leopold",
+          "count": 43
+        },
+        {
+          "word": "imperial",
+          "count": 43
+        },
+        {
+          "word": "resistance",
+          "count": 41
+        },
+        {
+          "word": "populations",
+          "count": 41
         },
         {
           "word": "german",
+          "count": 37
+        },
+        {
+          "word": "established",
+          "count": 37
+        },
+        {
+          "word": "economic",
           "count": 36
         },
         {
-          "word": "understanding",
-          "count": 32
+          "word": "states",
+          "count": 35
         },
         {
-          "word": "colonialism",
-          "count": 32
-        },
-        {
-          "word": "independence",
-          "count": 32
+          "word": "period",
+          "count": 35
         }
       ]
     },
@@ -83461,9 +83205,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7822,
-      "topWord": "specific",
-      "topCount": 520,
+      "wordCount": 8009,
+      "topWord": "bismarck",
+      "topCount": 171,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -83472,130 +83216,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-27-unification-germany-bismarck.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 520
+          "word": "bismarck",
+          "count": 171
         },
         {
           "word": "german",
-          "count": 250
-        },
-        {
-          "word": "bismarck",
-          "count": 174
-        },
-        {
-          "word": "political",
-          "count": 138
-        },
-        {
-          "word": "unification",
-          "count": 103
+          "count": 88
         },
         {
           "word": "prussian",
-          "count": 99
-        },
-        {
-          "word": "power",
-          "count": 77
-        },
-        {
-          "word": "military",
-          "count": 68
-        },
-        {
-          "word": "war",
-          "count": 65
-        },
-        {
-          "word": "germany",
-          "count": 61
-        },
-        {
-          "word": "european",
-          "count": 58
+          "count": 71
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 520
+          "word": "bismarck",
+          "count": 171
         },
         {
           "word": "german",
-          "count": 250
-        },
-        {
-          "word": "bismarck",
-          "count": 174
-        },
-        {
-          "word": "political",
-          "count": 138
-        },
-        {
-          "word": "unification",
-          "count": 103
+          "count": 88
         },
         {
           "word": "prussian",
-          "count": 99
-        },
-        {
-          "word": "power",
-          "count": 77
-        },
-        {
-          "word": "military",
-          "count": 68
-        },
-        {
-          "word": "war",
-          "count": 65
-        },
-        {
-          "word": "germany",
-          "count": 61
-        },
-        {
-          "word": "european",
-          "count": 58
-        },
-        {
-          "word": "history",
-          "count": 50
-        },
-        {
-          "word": "diplomatic",
-          "count": 47
-        },
-        {
-          "word": "prussia",
-          "count": 42
-        },
-        {
-          "word": "french",
-          "count": 42
+          "count": 71
         },
         {
           "word": "austria",
-          "count": 39
+          "count": 49
         },
         {
-          "word": "created",
-          "count": 36
+          "word": "diplomatic",
+          "count": 49
+        },
+        {
+          "word": "military",
+          "count": 47
+        },
+        {
+          "word": "political",
+          "count": 47
+        },
+        {
+          "word": "war",
+          "count": 44
         },
         {
           "word": "states",
+          "count": 43
+        },
+        {
+          "word": "unification",
+          "count": 42
+        },
+        {
+          "word": "power",
+          "count": 42
+        },
+        {
+          "word": "germany",
+          "count": 41
+        },
+        {
+          "word": "french",
+          "count": 40
+        },
+        {
+          "word": "empire",
+          "count": 39
+        },
+        {
+          "word": "prussia",
+          "count": 39
+        },
+        {
+          "word": "european",
           "count": 36
         },
         {
-          "word": "france",
-          "count": 32
+          "word": "wilhelm",
+          "count": 36
         },
         {
-          "word": "unified",
+          "word": "confederation",
+          "count": 35
+        },
+        {
+          "word": "france",
           "count": 31
+        },
+        {
+          "word": "austrian",
+          "count": 30
         }
       ]
     },
@@ -83607,9 +83319,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7746,
-      "topWord": "specific",
-      "topCount": 733,
+      "wordCount": 8014,
+      "topWord": "italian",
+      "topCount": 173,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -83618,125 +83330,109 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-11-01-unification-italy-risorgimento.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 733
-        },
-        {
           "word": "italian",
-          "count": 249
-        },
-        {
-          "word": "political",
-          "count": 112
+          "count": 173
         },
         {
           "word": "risorgimento",
-          "count": 108
-        },
-        {
-          "word": "unification",
-          "count": 94
+          "count": 96
         },
         {
           "word": "italy",
-          "count": 77
+          "count": 82
         },
         {
           "word": "garibaldi",
           "count": 67
         },
         {
-          "word": "military",
-          "count": 65
-        },
-        {
-          "word": "history",
-          "count": 64
+          "word": "piedmontese",
+          "count": 61
         },
         {
           "word": "cavour",
-          "count": 56
+          "count": 59
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 733
-        },
-        {
           "word": "italian",
-          "count": 249
-        },
-        {
-          "word": "political",
-          "count": 112
+          "count": 173
         },
         {
           "word": "risorgimento",
-          "count": 108
-        },
-        {
-          "word": "unification",
-          "count": 94
+          "count": 96
         },
         {
           "word": "italy",
-          "count": 77
+          "count": 82
         },
         {
           "word": "garibaldi",
           "count": 67
         },
         {
-          "word": "military",
-          "count": 65
-        },
-        {
-          "word": "history",
-          "count": 64
+          "word": "piedmontese",
+          "count": 61
         },
         {
           "word": "cavour",
-          "count": 56
+          "count": 59
         },
         {
-          "word": "war",
-          "count": 38
+          "word": "military",
+          "count": 50
         },
         {
-          "word": "revolutionary",
-          "count": 37
+          "word": "kingdom",
+          "count": 49
         },
         {
-          "word": "national",
-          "count": 34
+          "word": "unification",
+          "count": 46
         },
         {
-          "word": "unified",
-          "count": 34
-        },
-        {
-          "word": "south",
-          "count": 34
-        },
-        {
-          "word": "nationalist",
-          "count": 34
-        },
-        {
-          "word": "piedmont",
-          "count": 33
-        },
-        {
-          "word": "piedmontese",
-          "count": 29
+          "word": "southern",
+          "count": 45
         },
         {
           "word": "mazzini",
+          "count": 40
+        },
+        {
+          "word": "piedmont",
+          "count": 39
+        },
+        {
+          "word": "northern",
+          "count": 36
+        },
+        {
+          "word": "french",
+          "count": 35
+        },
+        {
+          "word": "austrian",
+          "count": 34
+        },
+        {
+          "word": "produced",
+          "count": 31
+        },
+        {
+          "word": "political",
+          "count": 30
+        },
+        {
+          "word": "war",
+          "count": 30
+        },
+        {
+          "word": "economic",
           "count": 29
         },
         {
-          "word": "full",
+          "word": "south",
           "count": 29
         }
       ]
@@ -85933,9 +85629,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7544,
+      "wordCount": 8461,
       "topWord": "war",
-      "topCount": 159,
+      "topCount": 177,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -85945,117 +85641,133 @@
       "flaggedWords": [
         {
           "word": "war",
-          "count": 159
-        },
-        {
-          "word": "spain",
-          "count": 129
-        },
-        {
-          "word": "military",
-          "count": 129
+          "count": 177
         },
         {
           "word": "spanish",
-          "count": 97
+          "count": 147
+        },
+        {
+          "word": "republican",
+          "count": 113
+        },
+        {
+          "word": "military",
+          "count": 102
         },
         {
           "word": "political",
-          "count": 90
+          "count": 97
         },
         {
           "word": "republic",
-          "count": 83
+          "count": 90
+        },
+        {
+          "word": "intervention",
+          "count": 73
+        },
+        {
+          "word": "franco",
+          "count": 71
+        },
+        {
+          "word": "spain",
+          "count": 67
         },
         {
           "word": "civil",
-          "count": 52
+          "count": 60
         },
         {
-          "word": "soviet",
+          "word": "nationalist",
+          "count": 57
+        },
+        {
+          "word": "approximately",
           "count": 51
         }
       ],
       "top20": [
         {
           "word": "war",
-          "count": 159
-        },
-        {
-          "word": "spain",
-          "count": 129
-        },
-        {
-          "word": "military",
-          "count": 129
+          "count": 177
         },
         {
           "word": "spanish",
-          "count": 97
-        },
-        {
-          "word": "political",
-          "count": 90
-        },
-        {
-          "word": "republic",
-          "count": 83
-        },
-        {
-          "word": "civil",
-          "count": 52
-        },
-        {
-          "word": "soviet",
-          "count": 51
-        },
-        {
-          "word": "nationalist",
-          "count": 47
-        },
-        {
-          "word": "intervention",
-          "count": 46
-        },
-        {
-          "word": "franco",
-          "count": 42
-        },
-        {
-          "word": "fascist",
-          "count": 40
-        },
-        {
-          "word": "communist",
-          "count": 39
-        },
-        {
-          "word": "international",
-          "count": 38
+          "count": 147
         },
         {
           "word": "republican",
-          "count": 35
+          "count": 113
         },
         {
-          "word": "german",
-          "count": 33
+          "word": "military",
+          "count": 102
+        },
+        {
+          "word": "political",
+          "count": 97
+        },
+        {
+          "word": "republic",
+          "count": 90
+        },
+        {
+          "word": "intervention",
+          "count": 73
+        },
+        {
+          "word": "franco",
+          "count": 71
+        },
+        {
+          "word": "spain",
+          "count": 67
+        },
+        {
+          "word": "civil",
+          "count": 60
+        },
+        {
+          "word": "nationalist",
+          "count": 57
         },
         {
           "word": "approximately",
-          "count": 33
+          "count": 51
         },
         {
           "word": "non",
-          "count": 33
+          "count": 42
         },
         {
-          "word": "government",
-          "count": 30
+          "word": "forces",
+          "count": 40
         },
         {
-          "word": "france",
-          "count": 28
+          "word": "foreign",
+          "count": 39
+        },
+        {
+          "word": "conflict",
+          "count": 39
+        },
+        {
+          "word": "italian",
+          "count": 38
+        },
+        {
+          "word": "international",
+          "count": 37
+        },
+        {
+          "word": "soviet",
+          "count": 37
+        },
+        {
+          "word": "internal",
+          "count": 36
         }
       ]
     },
@@ -86617,9 +86329,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7567,
-      "topWord": "american",
-      "topCount": 182,
+      "wordCount": 8587,
+      "topWord": "japanese",
+      "topCount": 188,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -86628,138 +86340,130 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2016-02-04-pearl-harbor-attack-explained.md",
       "flaggedWords": [
         {
+          "word": "japanese",
+          "count": 188
+        },
+        {
           "word": "american",
-          "count": 182
+          "count": 145
         },
         {
           "word": "war",
-          "count": 156
-        },
-        {
-          "word": "japanese",
-          "count": 155
+          "count": 103
         },
         {
           "word": "harbor",
-          "count": 142
+          "count": 97
         },
         {
           "word": "pearl",
-          "count": 141
-        },
-        {
-          "word": "military",
-          "count": 110
-        },
-        {
-          "word": "attack",
-          "count": 104
-        },
-        {
-          "word": "japan",
-          "count": 96
-        },
-        {
-          "word": "pacific",
-          "count": 95
-        },
-        {
-          "word": "specific",
-          "count": 68
+          "count": 86
         },
         {
           "word": "strategic",
-          "count": 62
+          "count": 75
         },
         {
-          "word": "united",
-          "count": 53
+          "word": "pacific",
+          "count": 73
         },
         {
-          "word": "intelligence",
-          "count": 53
+          "word": "military",
+          "count": 71
+        },
+        {
+          "word": "japan",
+          "count": 69
+        },
+        {
+          "word": "approximately",
+          "count": 63
+        },
+        {
+          "word": "assault",
+          "count": 55
         }
       ],
       "top20": [
         {
+          "word": "japanese",
+          "count": 188
+        },
+        {
           "word": "american",
-          "count": 182
+          "count": 145
         },
         {
           "word": "war",
-          "count": 156
-        },
-        {
-          "word": "japanese",
-          "count": 155
+          "count": 103
         },
         {
           "word": "harbor",
-          "count": 142
+          "count": 97
         },
         {
           "word": "pearl",
-          "count": 141
-        },
-        {
-          "word": "military",
-          "count": 110
-        },
-        {
-          "word": "attack",
-          "count": 104
-        },
-        {
-          "word": "japan",
-          "count": 96
-        },
-        {
-          "word": "pacific",
-          "count": 95
-        },
-        {
-          "word": "specific",
-          "count": 68
+          "count": 86
         },
         {
           "word": "strategic",
-          "count": 62
+          "count": 75
         },
         {
-          "word": "united",
-          "count": 53
+          "word": "pacific",
+          "count": 73
         },
         {
-          "word": "intelligence",
-          "count": 53
+          "word": "military",
+          "count": 71
         },
         {
-          "word": "states",
-          "count": 49
-        },
-        {
-          "word": "aircraft",
-          "count": 40
+          "word": "japan",
+          "count": 69
         },
         {
           "word": "approximately",
-          "count": 40
+          "count": 63
         },
         {
-          "word": "forces",
-          "count": 32
+          "word": "assault",
+          "count": 55
         },
         {
-          "word": "naval",
-          "count": 31
+          "word": "december",
+          "count": 48
         },
         {
-          "word": "history",
-          "count": 29
+          "word": "produced",
+          "count": 39
         },
         {
           "word": "decision",
-          "count": 27
+          "count": 39
+        },
+        {
+          "word": "uss",
+          "count": 37
+        },
+        {
+          "word": "fleet",
+          "count": 37
+        },
+        {
+          "word": "naval",
+          "count": 34
+        },
+        {
+          "word": "intelligence",
+          "count": 34
+        },
+        {
+          "word": "conflict",
+          "count": 33
+        },
+        {
+          "word": "aircraft",
+          "count": 30
         }
       ]
     },
@@ -87071,9 +86775,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7399,
+      "wordCount": 8518,
       "topWord": "war",
-      "topCount": 264,
+      "topCount": 149,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -87083,109 +86787,129 @@
       "flaggedWords": [
         {
           "word": "war",
-          "count": 264
-        },
-        {
-          "word": "specific",
-          "count": 196
+          "count": 149
         },
         {
           "word": "soviet",
-          "count": 122
-        },
-        {
-          "word": "military",
-          "count": 69
+          "count": 132
         },
         {
           "word": "germany",
-          "count": 53
+          "count": 74
         },
         {
-          "word": "american",
-          "count": 51
+          "word": "military",
+          "count": 72
+        },
+        {
+          "word": "german",
+          "count": 71
+        },
+        {
+          "word": "japan",
+          "count": 63
+        },
+        {
+          "word": "approximately",
+          "count": 61
+        },
+        {
+          "word": "occupation",
+          "count": 61
+        },
+        {
+          "word": "japanese",
+          "count": 60
+        },
+        {
+          "word": "postwar",
+          "count": 59
+        },
+        {
+          "word": "political",
+          "count": 54
         }
       ],
       "top20": [
         {
           "word": "war",
-          "count": 264
-        },
-        {
-          "word": "specific",
-          "count": 196
+          "count": 149
         },
         {
           "word": "soviet",
-          "count": 122
-        },
-        {
-          "word": "military",
-          "count": 69
+          "count": 132
         },
         {
           "word": "germany",
-          "count": 53
+          "count": 74
         },
         {
-          "word": "american",
-          "count": 51
+          "word": "military",
+          "count": 72
+        },
+        {
+          "word": "german",
+          "count": 71
+        },
+        {
+          "word": "japan",
+          "count": 63
+        },
+        {
+          "word": "approximately",
+          "count": 61
+        },
+        {
+          "word": "occupation",
+          "count": 61
+        },
+        {
+          "word": "japanese",
+          "count": 60
+        },
+        {
+          "word": "postwar",
+          "count": 59
         },
         {
           "word": "political",
+          "count": 54
+        },
+        {
+          "word": "forces",
           "count": 49
         },
         {
           "word": "allied",
-          "count": 48
-        },
-        {
-          "word": "post",
-          "count": 47
-        },
-        {
-          "word": "approximately",
-          "count": 46
-        },
-        {
-          "word": "produced",
-          "count": 45
-        },
-        {
-          "word": "europe",
-          "count": 44
-        },
-        {
-          "word": "japan",
-          "count": 43
-        },
-        {
-          "word": "german",
-          "count": 42
-        },
-        {
-          "word": "japanese",
-          "count": 39
-        },
-        {
-          "word": "forces",
-          "count": 38
-        },
-        {
-          "word": "international",
-          "count": 38
-        },
-        {
-          "word": "eastern",
-          "count": 35
+          "count": 49
         },
         {
           "word": "surrender",
-          "count": 33
+          "count": 49
         },
         {
-          "word": "western",
-          "count": 33
+          "word": "european",
+          "count": 46
+        },
+        {
+          "word": "american",
+          "count": 45
+        },
+        {
+          "word": "berlin",
+          "count": 42
+        },
+        {
+          "word": "pacific",
+          "count": 36
+        },
+        {
+          "word": "endgame",
+          "count": 35
+        },
+        {
+          "word": "economic",
+          "count": 35
         }
       ]
     },

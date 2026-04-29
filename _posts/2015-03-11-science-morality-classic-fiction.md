@@ -5,14 +5,13 @@ page_title: "Science and Morality in Classic Fiction - Frankenstein, Brave New W
 date: 2015-03-11
 categories: ["Leisure"]
 tags: ["science", "morality", "literary-comparison", "frankenstein", "brave-new-world", "fahrenheit-451"]
-excerpt: "How classic novels explore science vs morality - creation, control, and the cost of knowledge without wisdom."
+excerpt: "Decode science and morality in classic literature as a question novelists were already asking before modern bioethics."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
 author: "victoria-stone"
-last_updated: 2015-03-11
+last_updated: 2026-04-29
 lang: en
 ---
-
 Classic fiction has long served as humanity's ethical laboratory, exploring the profound tensions between scientific advancement and moral responsibility. The greatest novels examining science and morality do not simply celebrate or condemn technological progress, but rather illuminate the complex mechanisms through which well-intentioned scientific endeavors can transform into instruments of destruction, oppression, and human degradation.
 
 Through masterful storytelling and psychological insight, authors like Mary Shelley, Aldous Huxley, and Ray Bradbury have created enduring narratives that examine fundamental questions about the relationship between knowledge and wisdom, progress and humanity, innovation and responsibility. These works reveal recurring patterns in how scientific advancement can corrupt moral judgment, how institutional power can manipulate individual choice, and how the pursuit of efficiency and control can ultimately destroy the very humanity it claims to serve.

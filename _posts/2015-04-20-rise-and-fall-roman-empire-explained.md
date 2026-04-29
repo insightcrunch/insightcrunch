@@ -5,11 +5,11 @@ page_title: "The Rise and Fall of the Roman Empire - From a City of Mud Huts to 
 date: 2015-04-20
 categories: ["Leisure"]
 tags: ["roman-empire", "ancient-history", "world-history", "rome", "historical-analysis"]
-excerpt: "The complete rise and fall of the Roman Empire - how Rome conquered the world and why the empire collapsed."
+excerpt: "Decode the rise and fall of Rome across a thousand years of expansion, peak, and slow internal unraveling."
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-04-20
+last_updated: 2026-04-29
 lang: en
 ---
 In the summer of 476 AD, a teenage barbarian king named Odoacer walked into Ravenna and told the last Roman emperor to go home. The emperor's name was Romulus Augustulus, a cruel irony of history: Romulus was the name of the legendary founder of Rome, and Augustus had been the title of the greatest emperors. The boy on the throne was sixteen years old. Odoacer had him escorted to a villa in Campania and paid him a pension. There was no dramatic last stand, no siege, no burning of the city. The Western Roman Empire, which had once stretched from Scotland to Mesopotamia, from the Rhine to the Sahara, simply stopped. The machinery of centuries ran down and went quiet. It is the most consequential collapse in the history of Western civilization, and historians have been arguing about why it happened ever since.

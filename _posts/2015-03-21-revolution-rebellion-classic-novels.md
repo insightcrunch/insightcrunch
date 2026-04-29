@@ -5,11 +5,11 @@ page_title: "Revolution and Rebellion in Animal Farm, 1984, and Fahrenheit 451: 
 date: 2015-03-21
 categories: ["Leisure"]
 tags: ["animal-farm", "nineteen-eighty-four", "fahrenheit-451", "george-orwell", "ray-bradbury", "dystopian-fiction"]
-excerpt: "A side-by-side reading of Animal Farm, 1984, and Fahrenheit 451 on how revolutions are betrayed, absorbed, and forgotten."
+excerpt: "Decode revolution in classic literature as a recurring shape: aspiration, betrayal, and the new boss who looks familiar."
 image: "/assets/images/blog/blog-29.webp"
 reading_time: 71
 author: "elena-wright"
-last_updated: 2015-03-21
+last_updated: 2026-04-29
 lang: en
 ---
 The question is not which of these three novels is more frightening. The question is which portrait of counter-revolution is most accurate. George Orwell, working in Hertfordshire in 1944, gave us a barnyard in which the animals win, rename their oppressors, and discover after a few harvests that their new masters sleep in the farmhouse beds they swore never to occupy. Orwell again, dying of tuberculosis on the Isle of Jura four years later, imagined a capital in which the rebellion is not lost but never existed, in which the Party has rewritten history so thoroughly that the very impulse to resist has to be invented fresh each generation by bewildered clerks like Winston Smith. Ray Bradbury, writing at a rented basement typewriter in the UCLA library in the summer of 1950, gave us a suburb in which revolt is not suppressed but forgotten, and the firemen burn books that most people have already stopped opening. Three portraits, three mechanisms, one shared diagnosis: freedom is not taken from the unwilling. It is taken from the willing, or from those who have been trained not to care.
