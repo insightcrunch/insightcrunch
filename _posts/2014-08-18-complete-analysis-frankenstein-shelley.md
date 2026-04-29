@@ -3,19 +3,19 @@ title: "Complete Analysis of Frankenstein"
 page_title: "Complete Analysis of Frankenstein - Creation, Responsibility, Monstrosity, and Why Mary Shelley's 1818 Novel Invented an Entire Genre"
 date: 2014-08-18
 last_updated: 2014-08-18
-author: "Insight Crunch Team"
+author: "elena-wright"
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "novel-analysis", "literary-analysis", "gothic-fiction", "classic-literature"]
 reading_time: 70
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-36.webp"
 excerpt: "Frankenstein is not primarily anti-science. It is Mary Shelley's specific 1818 argument about paternal abandonment, creators' obligations, and moral failure."
+lang: en
 ---
-
 Frankenstein is one of the most misread novels in the English language. Two centuries of stage productions, Hollywood films, and Halloween costumes have buried Mary Shelley's 1818 text beneath a mythology she did not write: the mad scientist, the bolt-necked monster, the torches-and-pitchforks mob, the cautionary fable about playing God. The actual text tells a different story. Shelley's Frankenstein is not primarily a warning against scientific ambition, though ambition is part of its fabric. It is a sustained argument about what happens when a creator abandons the being he has produced, about the moral obligations that attend the act of bringing sentient life into existence, and about the catastrophe that follows when those obligations are refused. The popular reading flattens the argument. The textual reading restores it.
 
 <!--more-->
 
-![Complete Analysis of Frankenstein by Mary Shelley - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Complete Analysis of Frankenstein by Mary Shelley - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 Reading Shelley's Frankenstein against the cultural mythology requires deliberate effort, because the mythology arrived first for most readers. Boris Karloff's inarticulate, shambling creature has occupied the cultural imagination since James Whale's 1931 film, and that figure bears almost no resemblance to the eloquent, philosophically sophisticated being Shelley actually wrote. The real Creature speaks in paragraphs, reads Milton and Plutarch, constructs moral arguments about his own condition, and articulates his suffering with a precision that exceeds Victor's capacity for self-reflection. Victor Frankenstein, meanwhile, is not a heroic overreacher brought low by cosmic forces. He is a man who created a child and ran away from it because it was ugly. The scientific creation was the occasion; the abandonment was the moral catastrophe. That distinction is Shelley's central argument, and recovering it is the first task of any serious reading.
 

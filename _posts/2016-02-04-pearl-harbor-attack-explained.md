@@ -6,17 +6,17 @@ tags: ["pearl-harbor", "december-7-1941", "japanese-empire", "pacific-war", "wwi
 categories: ["Leisure"]
 excerpt: "Pearl Harbor was tactical success and strategic catastrophe for Japan. The calculation that produced the December 1941 attack was logical but fatally wrong."
 slug: "pearl-harbor-attack-explained"
-author: "Insight Crunch Team"
-image: "/assets/images/blog/blog-14.webp"
+author: "amanda-ross"
+image: "/assets/images/blog/blog-44.webp"
 last_updated: "auto"
 reading_time: 70
+lang: en
 ---
-
 The December 7, 1941 assault on Pearl Harbor killed approximately 2,400 Americans, sank or damaged eight battleships, and destroyed 188 aircraft in roughly two hours of concentrated violence. Japanese losses totaled 64 killed and 29 aircraft lost. By every tactical metric available, the operation succeeded. Yet within four years of this devastating morning, the empire that launched it lay in radioactive ruins, its cities firebombed, its navy annihilated, its sovereignty surrendered unconditionally aboard the USS Missouri in Tokyo Bay. Pearl Harbor represents the starkest example in modern military history of tactical brilliance producing strategic ruin, and understanding why requires reconstructing the calculation that produced the decision rather than treating the assault as inexplicable treachery.
 
 <!--more-->
 
-![The Attack on Pearl Harbor Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The Attack on Pearl Harbor Explained - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The conventional treatment of Pearl Harbor in popular memory and standard educational materials focuses overwhelmingly on the morning itself: the torpedo bombers skimming across the harbor, the explosions tearing through Battleship Row, Roosevelt's "date of infamy" address to Congress. This approach produces vivid narrative but poor understanding. The critical question is not what happened on December 7 but why Japanese leadership concluded that launching such an operation represented their best available option. The answer requires examining the prewar resource constraints, the diplomatic breakdown through 1941, the three-proposition calculation that Admiral Isoroku Yamamoto and other planners assembled, and the reasons each proposition proved fatally mistaken. Historian Eri Hotta's *Japan 1941: Countdown to Infamy* documents the decision-making process from inside Japanese leadership circles, revealing a strategic logic that was coherent on its own terms yet catastrophically wrong in its premises. Gordon Prange's *At Dawn We Slept* remains the foundational operational account, while Ian Toll's Pacific War trilogy provides the comprehensive theater-level context. To [trace these events on the chronological map](https://reportmedic.org/tools/world-history-timeline.html) is to see how the December 1941 decision emerged from a cascade of prior choices stretching back through the entire interwar period.
 

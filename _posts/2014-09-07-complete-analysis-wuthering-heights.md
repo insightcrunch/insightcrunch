@@ -6,17 +6,17 @@ date: 2014-09-07
 categories: ["Leisure"]
 tags: ["wuthering-heights", "emily-bronte", "novel-analysis", "victorian-literature", "class-in-literature", "classic-literature"]
 excerpt: "Wuthering Heights is not a romance. It is Brontë's structured argument about class conflict, childhood cruelty, and Victorian property inheritance law."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2014-09-07
+lang: en
 ---
-
 Wuthering Heights is not a love story. It is a story about what happens when love becomes indistinguishable from revenge, when childhood cruelty warps adult desire into something monstrous, and when the only resolution available requires an entire generation to burn itself out before peace becomes possible. Emily Brontë published her only completed prose work in December 1847 under the pseudonym Ellis Bell, and the critical establishment that received it had no framework adequate to what she had built. The Athenaeum called it "wild" and "knotty." The Atlas praised its power while condemning its subject matter. Charlotte Brontë, writing the preface to the posthumous 1850 edition, felt compelled to apologize for her sister's imagination, assuring readers that Emily had simply transcribed the rough manners of Yorkshire without endorsing them. Every attempt to domesticate this text - romantic, Gothic, moral - has failed, because the text was designed to resist domestication.
 
 <!--more-->
 
-![Complete Analysis of Wuthering Heights - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Complete Analysis of Wuthering Heights - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The namable claim this analysis defends is direct: Wuthering Heights is about class, property, and childhood cruelty, and the romantic reading obscures what Brontë specifically wrote. The two-generation structure that organizes the entire plot is not a narrative convenience but the argument itself. The first generation - Heathcliff, Catherine Earnshaw, Hindley Earnshaw, Edgar Linton, Isabella Linton - destroys itself through passion that cannot find legitimate expression within the class structure that governs Yorkshire property relations. The second generation - young Cathy Linton, Hareton Earnshaw, Linton Heathcliff - recapitulates the first generation's conflicts but resolves them differently, because Heathcliff's obsessive revenge has exhausted itself and left space for something quieter and more durable. Brontë's argument is that obsession must burn itself out before peace becomes possible, and that the burning consumes not just the obsessed but everyone within reach.
 

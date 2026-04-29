@@ -6,17 +6,17 @@ date: 2014-08-23
 categories: ["Leisure"]
 tags: ["frankenstein", "mary-shelley", "victor-frankenstein", "character-analysis", "paternal-abandonment", "classic-literature"]
 excerpt: "Victor Frankenstein's catastrophic error is not creating the Creature but abandoning him immediately. The scientific-hubris reading misses the argument."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2014-08-23
+lang: en
 ---
-
 Victor Frankenstein is one of the most misunderstood figures in Western literature. Popular culture has spent two centuries collapsing him into a cautionary archetype, the mad scientist who dared to play God and paid the price, but Mary Shelley's 1818 text constructs something far more particular and far more damning. Victor is not punished for creating life. He is punished for fleeing the room the moment that life opened its eyes. His catastrophic error is not ambition but abandonment, not the act of creation but the refusal to parent what he created. Reading him primarily through the scientific-hubris lens, as most competitor analyses do, flattens the moral argument Shelley built into every chapter of his arc and replaces it with a generic warning that tells us less than the text actually shows.
 
 <!--more-->
 
-![Victor Frankenstein Character Analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Victor Frankenstein Character Analysis - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 The distinction matters because it changes what the entire novel means. If Victor's sin is playing God, then Frankenstein is a conservative fable about the limits of human knowledge, a story that says certain doors should stay closed. If Victor's sin is abandoning his creation, then Frankenstein is a radical argument about parental obligation, about what creators owe the beings they bring into existence, and about the catastrophic consequences that follow when that obligation is refused. Anne Mellor, Ellen Moers, and Mary Poovey have each demonstrated through rigorous biographical and textual scholarship that the second reading is closer to what Mary Shelley wrote. The abandonment reading does not dismiss Victor's scientific ambition as irrelevant. It repositions ambition as context and abandonment as the specific moral failure that transforms context into catastrophe. Victor's ambition created a being who deserved care. Victor's cowardice denied that care. Everything that follows in the plot is consequence.
 

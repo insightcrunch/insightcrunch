@@ -6,17 +6,17 @@ date: 2014-09-27
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "novel-analysis", "bildungsroman", "victorian-class", "classic-literature"]
 excerpt: "Great Expectations is Dickens's sharpest critique of Victorian class-aspiration machinery. The standard bildungsroman reading misses its structural argument."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2014-09-27
+lang: en
 ---
-
 Great Expectations is not primarily a story about a boy who learns to be good. It is a story about a civilization that teaches its children to be ashamed of the people who love them, and then calls the process of overcoming that shame a moral education. Charles Dickens published the work in weekly serial installments between December 1860 and August 1861, and what he produced across those nine months was the most structurally precise critique of Victorian class-aspiration machinery in the English language. The conventional reading frames Pip's arc as bildungsroman, a young man's passage from innocence through error to hard-won moral maturity. That reading is not wrong, but it is radically incomplete. It treats the symptoms while ignoring the disease. Pip does grow morally. The question Dickens forces is why Pip needed to grow at all, and the answer is that every institution surrounding him, from Satis House to the Inns of Court to the very grammar of Victorian respectability, was engineered to produce exactly the snobbery Pip eventually repents.
 
 <!--more-->
 
-![Complete Analysis of Great Expectations - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Complete Analysis of Great Expectations - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The namable claim this analysis defends is straightforward: Great Expectations is Victorian class-critique disguised as individual moral journey, and the bildungsroman frame that dominates popular reception actively obscures the structural argument Dickens built into every chapter. SparkNotes, LitCharts, and CliffsNotes all organize their Great Expectations pages around Pip's personal growth arc. They track his mistakes, his redemption, his tearful reconciliation with Joe Gargery at the forge. What they do not track is the system that manufactured the mistakes in the first place. Dickens did track that system. He tracked it with the obsessive specificity of a man who had lived inside it, who had been pulled out of a blacking factory at twelve years old and deposited into a genteel world that pretended the factory had never existed. Great Expectations is Dickens writing what he knew, and what he knew was that Victorian England sorted human beings by accent, manners, and income, then persuaded the sorted to believe the sorting was natural.
 

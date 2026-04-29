@@ -6,17 +6,17 @@ date: 2014-06-29
 categories: ["Leisure"]
 tags: ["brave-new-world", "aldous-huxley", "bernard-marx", "character-analysis", "dissent", "classic-literature"]
 excerpt: "Bernard Marx is not the dystopia's outsider-hero. His dissent is resentment toward exclusion, not principle, and he abandons it the moment rewards arrive."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2014-06-29
+lang: en
 ---
-
 Bernard Marx is not the outsider-hero of Aldous Huxley's Brave New World. He is a resentment-driven malcontent whose apparent critique of the World State collapses the moment he receives the social acceptance he was denied, revealing that his dissent was always conditional on his exclusion from the rewards the system offered everyone else. Huxley constructs Bernard as a test case for a question more uncomfortable than any the World State poses directly: how much of what passes for principled dissent is actually frustrated entitlement, and what happens to that dissent when the frustrated individual finally gets what he wanted? The answer Huxley provides across the arc of Brave New World is devastating. Bernard's rebellion lasts exactly as long as his social marginalization. The moment he gains celebrity through his sponsorship of John the Savage, he abandons every critical posture he had held and becomes the eager consumer of precisely those pleasures he had previously rejected. Peter Firchow, in The End of Utopia, identifies this pattern as central to Huxley's satirical method. Jerome Meckier, in Aldous Huxley: Modern Satirical Novelist of Ideas, reads Bernard's arc as the sharpest indictment Huxley levels at the English intellectual class of the early nineteen-thirties. The SparkNotes and LitCharts treatments of Bernard typically frame his second-half transformation as moral failure or betrayal, as if the character changes partway through the text. The reading this analysis defends is different and, textually, more precise: Bernard does not change. The second half of the Brave New World narrative reveals what the first half had already shown less obviously. His dissent was never principled. It was positional.
 
 <!--more-->
 
-![Bernard Marx Character Analysis](/assets/images/blog/blog-12.webp)
+![Bernard Marx Character Analysis](/assets/images/blog/blog-59.webp)
 
 
 ## Bernard's Introduction and the Alpha-Minus Problem

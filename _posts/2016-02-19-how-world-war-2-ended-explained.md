@@ -6,17 +6,17 @@ date: 2016-02-19
 categories: ["Leisure"]
 tags: ["world-war-2-end", "1945", "wwii-endgame", "postwar-settlement", "axis-surrender", "modern-history"]
 excerpt: "WWII ended through progressive Axis collapse in 1945, particular Allied choices about postwar order, and the nuclear threshold that reshaped humanity."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-19
+lang: en
 ---
-
 The most destructive conflict in human history did not conclude with a single dramatic moment but through a cascading sequence of military collapses, diplomatic negotiations, and political decisions across two distinct theaters between February and September 1945, and each of those decisions carried consequences that would shape international politics for the next forty-five years.
 
 <!--more-->
 
-![How World War II Ended Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![How World War II Ended Explained - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 ## The Cumulative Endgame: Where the Belligerents Stood in Early 1945
 

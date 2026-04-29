@@ -6,17 +6,17 @@ date: 2014-10-02
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "pip", "character-analysis", "literary-analysis", "coming-of-age"]
 excerpt: "Pip's snobbery is not a personal moral failing. It is the predictable product of Victorian class-aspiration structures that shaped him before he could resist."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2014-10-02
+lang: en
 ---
-
 Pip's snobbery is not a personal moral failing. It is the predictable product of Victorian class-aspiration structures, and Charles Dickens's 1861 masterpiece traces exactly how those structures produce their effects. Popular readings of Great Expectations treat Philip Pirrip as an individual case study in moral growth: a boy who becomes a snob, gets his comeuppance through the Magwitch revelation, and redeems himself through suffering and reconciliation with Joe Gargery. That reading centers Pip's personal psychology and treats his snobbery as a character flaw he overcomes through moral effort. The structural reading, advanced by Raymond Williams in *The English Novel from Dickens to Lawrence* and Peter Brooks in *Reading for the Plot*, sees something different and more disturbing: Pip's snobbery is manufactured by the conditions he encounters, and his recovery depends not on personal virtue but on the collapse of the class-formation narrative that produced his pretensions. Pip's moral education is the slow, humiliating process of understanding that he has been wrong about everything that matters, and Dickens's argument is that the wrongness was installed rather than chosen.
 
 <!--more-->
 
-![Pip Character Analysis in Great Expectations - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pip Character Analysis in Great Expectations - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 ## The Forge and the Marshes: Pip Before Satis House
 

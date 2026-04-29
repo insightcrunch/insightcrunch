@@ -5,18 +5,18 @@ date: 2016-01-10
 last_updated: 2016-01-10
 slug: "spanish-civil-war-explained"
 excerpt: "The Spanish Civil War was the 1930s ideological dress rehearsal for WWII, shaped by foreign intervention that turned Spanish politics into global proxy war."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-53.webp"
 categories: ["Leisure"]
 tags: ["spanish-civil-war", "francisco-franco", "1930s-ideology", "international-brigades", "spanish-republic", "modern-history"]
 reading_time: 69
-author: "Insight Crunch Team"
+author: "chloe-martin"
+lang: en
 ---
-
 The Spanish Civil War (July 1936 to April 1939) was not primarily a romantic story of international volunteers risking their lives for democracy against fascism. That reading, however compelling, centers the foreign participants and obscures the Spanish internal dynamics that produced the conflict. The reality was more complex, more consequential, and more revealing of the 1930s political landscape than the volunteer narrative captures. What happened in Spain between 1936 and 1939 was a Spanish internal conflict between Republican and Nationalist factions, decisively shaped by foreign intervention from Germany, Italy, the Soviet Union, and - most critically - the calculated non-intervention of Britain and France. The result was a three-year war that killed approximately 500,000 people, established Francisco Franco's authoritarian regime for nearly four decades, and served as the ideological and military dress rehearsal for the global catastrophe that followed.
 
 <!--more-->
 
-![The Spanish Civil War Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The Spanish Civil War Explained - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 Understanding why this conflict matters requires moving beyond the International Brigades and engaging with what Paul Preston, Helen Graham, and Hugh Thomas have documented across decades of archival scholarship. The war's significance lies not in its romantic dimension but in three interconnected realities: the Republican side's internal fragmentation reflected genuine ideological tensions within the Spanish left that Soviet intervention exacerbated but did not create; the Nationalist side's unity under Franco depended on coordinated German and Italian military support that the Non-Intervention Agreement was supposed to prevent; and Western democratic non-intervention produced an asymmetric outcome that encouraged precisely the Axis aggression it was designed to contain. Each of these dynamics illuminates something essential about the 1930s political landscape, and each has been obscured by popular treatments that prefer simpler narratives.
 
