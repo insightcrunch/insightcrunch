@@ -5,11 +5,11 @@ page_title: "The Crusades Explained - Holy Wars, Political Ambition, Cultural Ex
 date: 2015-07-09
 categories: ["Leisure"]
 tags: ["crusades", "medieval-history", "holy-land", "christianity", "islam", "world-history"]
-excerpt: "The Crusades explained - all major campaigns, motivations, outcomes, and lasting impact on East and West."
+excerpt: "Decode the Crusades across two centuries as religion, politics, trade, and violence woven into a single story."
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-07-09
+last_updated: 2026-05-01
 lang: en
 ---
 In November 1095, Pope Urban II stood before a vast crowd at Clermont in southern France and delivered a speech that set the medieval world on fire. The precise words have not survived; the multiple accounts written by contemporaries who claimed to be present all differ in details and probably represent as much reconstruction as memory. But the effect was indisputable: thousands of people in the crowd responded with the shout "Deus vult" (God wills it) and began immediately sewing crosses onto their clothing as a sign of their vow to make the armed pilgrimage to Jerusalem. Within a year, multiple armies totaling perhaps 100,000 people were moving east. Within four years, Jerusalem had been captured and the crusader states established. The First Crusade, which most of its participants had expected to fail or to produce only a temporary liberation, had succeeded beyond anyone's reasonable anticipation, and the psychological and political momentum that success generated would keep the crusading movement alive, in various forms, for the next five centuries.

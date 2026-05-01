@@ -5,11 +5,11 @@ page_title: "From Roman Republic to Roman Empire - How Corruption, Civil War, an
 date: 2015-06-04
 categories: ["Leisure"]
 tags: ["roman-republic", "roman-empire", "ancient-history", "julius-caesar", "augustus", "world-history"]
-excerpt: "How the Roman Republic became an Empire - civil war, Caesar, Augustus, and the death of Roman democracy."
+excerpt: "Decode the transition from Republic to Empire as a long, deliberate concentration of power into single hands."
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-06-04
+last_updated: 2026-05-01
 lang: en
 ---
 On January 13, 27 BC, the Roman Senate convened in an extraordinary session. Octavian, the thirty-five-year-old adopted son of Julius Caesar who had just emerged victorious from seventeen years of continuous civil war, stood before them and announced that he was restoring the Republic. He was renouncing his extraordinary powers; the Senate and the Roman people would resume their traditional constitutional authority; the emergency that had justified his accumulation of power was over. The senators, many of whom owed their positions to his patronage, responded by voting him additional powers, additional titles, and the new honorific name by which history would know him: Augustus, the Revered One. The most consequential political settlement in Western history was achieved through this theatrical exchange of gestures: the appearance of voluntary surrender in exchange for the reality of absolute control. Everyone in the room understood what was happening, and everyone participated willingly, because the alternative, another generation of civil war, was worse than any autocracy that maintained the forms of self-governance.

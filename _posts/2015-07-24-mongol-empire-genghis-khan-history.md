@@ -5,11 +5,11 @@ page_title: "The Mongol Empire - How Genghis Khan Built the Largest Land Empire 
 date: 2015-07-24
 categories: ["Leisure"]
 tags: ["mongol-empire", "genghis-khan", "medieval-history", "world-history", "historical-analysis"]
-excerpt: "The Mongol Empire explained - Genghis Khan's conquests, governance, trade connections, and complex legacy."
+excerpt: "Decode the Mongol Empire as the largest contiguous land empire in history and a study in nomadic statecraft."
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
 author: "diana-patel"
-last_updated: 2015-07-24
+last_updated: 2026-05-01
 lang: en
 ---
 In 1227, Genghis Khan died on campaign in what is now northern China. The exact cause and location of his death are unknown; the Mongol tradition deliberately concealed it, and the funeral procession that carried his body to a secret burial site in the Mongolian heartland reportedly killed anyone who witnessed it passing, so that the great khan's resting place would remain inviolate. He had begun life as Temujin, the son of a minor Mongol chieftain who was poisoned when Temujin was nine years old, after which Temujin's clan abandoned his family on the steppe to die. He ended it as the ruler of the largest contiguous land empire in human history, having conquered territory from the Pacific coast of China to the Caspian Sea in the space of approximately twenty years of continuous campaigning. No other individual in human history compressed so much military achievement into so short a life, and no other empire in human history covered so much territory as the Mongol Empire at its height: approximately 24 million square kilometers, roughly equivalent to the entire continent of Africa.

@@ -5,11 +5,11 @@ page_title: "The Viking Age - Raiders, Traders, Settlers, and How Scandinavian W
 date: 2015-07-19
 categories: ["Leisure"]
 tags: ["viking-age", "vikings", "norse-history", "medieval-history", "world-history"]
-excerpt: "The Viking Age explained - raids, trade, settlement, exploration, and the Norse impact on European history."
+excerpt: "Decode the Viking Age as more than raids: a long story of trade, settlement, and exploration across three continents."
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-07-19
+last_updated: 2026-05-01
 lang: en
 ---
 On June 8, 793 AD, a fleet of longships appeared without warning off the coast of the island of Lindisfarne, the most sacred site in the Anglo-Saxon Christian world, home to the monastery where Saint Cuthbert had lived and died and where his remains were venerated as the holiest relics in northern England. The monks who watched the ships approach had no precedent for what they were seeing: warriors from across the North Sea, armed and equipped for violence in ways that the monastery had never encountered. By the end of the day the monastery was looted, its treasures scattered, several monks killed, others carried off into slavery, and the survivors left in shock. The scholar Alcuin, writing from the court of Charlemagne, described the attack as a catastrophe without parallel, a sign of divine wrath for the sins of the English: "Never before has such terror appeared in Britain. Behold the church of St Cuthbert, splattered with the blood of God's priests, despoiled of all its ornaments."

@@ -5,11 +5,11 @@ page_title: "The Byzantine Empire - How the Eastern Roman Empire Survived a Thou
 date: 2015-07-04
 categories: ["Leisure"]
 tags: ["byzantine-empire", "eastern-rome", "constantinople", "medieval-history", "world-history"]
-excerpt: "The Byzantine Empire explained - how the eastern half of Rome survived, thrived, and preserved civilization."
+excerpt: "Decode the Byzantine Empire as the Roman state that outlasted Rome by a thousand years and shaped Europe quietly."
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
 author: "amanda-ross"
-last_updated: 2015-07-04
+last_updated: 2026-05-01
 lang: en
 ---
 The Byzantines never called themselves Byzantines. They called themselves Romans, Romaioi, and their emperor was the Roman emperor, the direct successor to Augustus and Constantine, governing the Roman Empire from its lawful capital at Constantinople. This is not a historical curiosity but one of the most important facts about the civilization that modern scholarship calls Byzantine: it understood itself as a continuation, not a transformation. When historians finally agreed to call it the Byzantine Empire (after Byzantium, the ancient Greek city on whose site Constantine had founded Constantinople in 330 AD), they were imposing a retrospective identity on a civilization that died insisting it was something else entirely. The name itself reflects the Western European perspective that had already produced the concept of the "fall of Rome" in 476 AD: if Rome had fallen, then whatever had continued in the East must be something different, and it needed a different name. The Byzantines would have found this argument both factually wrong and deeply offensive.
