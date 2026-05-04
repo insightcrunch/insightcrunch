@@ -6,17 +6,17 @@ date: 2012-12-24
 categories: ["Industry"]
 tags: ["unknown-gunmen", "targeted-killings", "modus-operandi", "shadow-war", "india-pakistan", "counter-terrorism"]
 excerpt: "Decoding the unknown gunmen pattern across Pakistan, from motorcycle-borne assassins to mosque killings, and the covert intelligence doctrine behind it."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2012-12-24
+lang: en
 ---
-
 Between 2022 and 2026, a series of killings spread across Pakistan's cities with a consistency that no criminal enterprise, no tribal feud, and no internal rivalry could plausibly explain. In Karachi, Lahore, Sialkot, Rawalpindi, Rawalakot, Nawabshah, Jhelum, Bajaur, and Landi Kotal, two men on a motorcycle would approach a target, fire at close range, and vanish into traffic before anyone could react. The targets shared one feature that connected them across geography, organization, and rank: every single one appeared on India's most-wanted lists, NIA charge sheets, or UNSC sanctions designations. The method was identical. The target selection was surgical. The claim of responsibility was absent. This is not a coincidence. This is a pattern, and the pattern is a doctrine.
 
 <!--more-->
 
-![The Unknown Gunmen Pattern Decoded - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Unknown Gunmen Pattern Decoded - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The phrase "unknown gunmen" appears in Pakistani police First Information Reports with a regularity that has become its own form of dark comedy among intelligence analysts. Every FIR reads the same way: two unidentified men on a motorcycle, faces covered, fired multiple rounds at the victim, fled the scene, no arrests made, no group claimed responsibility. Swap the name, swap the city, swap the date, and the report is interchangeable. Pakistani security officials have, since January 2024, formally alleged that a "hostile intelligence agency" is responsible for at least eight of these incidents. India has denied every allegation as "false and malicious anti-India propaganda." The denials have not altered the pattern, and the pattern has not paused.
 

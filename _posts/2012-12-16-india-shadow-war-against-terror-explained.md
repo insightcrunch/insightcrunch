@@ -6,17 +6,17 @@ date: 2012-12-16
 categories: ["Industry"]
 tags: ["shadow-war", "india-pakistan", "counter-terrorism", "targeted-killings", "unknown-gunmen", "raw"]
 excerpt: "A comprehensive guide to India's shadow war, the unknown gunmen campaign, and how most-wanted terrorists are being systematically eliminated inside Pakistan."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2012-12-16
+lang: en
 ---
-
 India's shadow war against terrorism is the most consequential covert campaign of the twenty-first century, and it is being waged in plain sight. Since mid-2021, a procession of India's most-wanted terrorists has been gunned down across Pakistani cities by assailants who arrive on motorcycles, fire at close range, and vanish into congested streets without leaving a trace of their identity or allegiance. The targets share three characteristics: they appear on Indian government designation lists, they belong to organizations responsible for mass-casualty attacks on Indian soil, and they live in a country that India has accused for decades of providing them sanctuary. The killers share two: they are never identified, and they never claim responsibility.
 
 <!--more-->
 
-![India's Shadow War Against Terror Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![India's Shadow War Against Terror Explained - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 This is not a series of coincidences. The pattern of targeted killings in Pakistan reveals a systematic doctrine, one that follows a consistent modus operandi, an escalating target hierarchy, and a geographic expansion that stretches from Karachi's commercial districts to Lahore's residential neighborhoods to the tribal regions of Khyber Pakhtunkhwa. India's shadow war is the defining counter-terrorism campaign of this era, and every eliminated target exposes the network that produced them, the state that protected them, and the doctrine that hunted them.
 
