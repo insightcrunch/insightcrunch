@@ -6,17 +6,17 @@ date: 2013-01-17
 categories: ["Industry"]
 tags: ["safe-havens", "pakistan", "karachi", "lahore", "rawalpindi", "targeted-killings", "shadow-war"]
 excerpt: "How Pakistan's cities, once considered safe havens for India's most-wanted terrorists, became active hunting grounds for covert elimination campaigns."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2013-01-17
+lang: en
 ---
-
 Pakistan promised its proxy warriors one thing above all others: sanctuary. For decades, that promise held. Lashkar-e-Taiba commanders walked freely through Lahore's markets, Jaish-e-Mohammed operatives ran furniture shops in Karachi under false identities, Hizbul Mujahideen infiltration chiefs maintained homes in Rawalpindi within walking distance of Pakistan Army headquarters, and Khalistan Commando Force leaders took morning strolls through gated housing societies without fear. The promise of sanctuary was not informal or incidental; it was the foundational contract between the Pakistani state and the proxy groups it deployed against India. Train, arm, launch, return, and live safely ever after. That contract is now broken, and every city that once sheltered India's most-wanted has become a theater for targeted killings that follow a consistent, disciplined, and unmistakable pattern.
 
 <!--more-->
 
-![How Safe Havens Became Hunting Grounds - Insight Crunch](/assets/images/blog/blog-05.webp)
+![How Safe Havens Became Hunting Grounds - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 The transformation did not happen overnight, and it did not happen everywhere at once. It began in Karachi in early 2022, when Zahoor Mistry, one of the five hijackers of Indian Airlines flight IC-814, was shot dead by two motorcycle-borne assailants outside his furniture shop in Akhtar Colony. Mistry had lived in Karachi for years under the alias Zahid Akhund, running Crescent Furniture and moving through the city's chaotic streets with the confidence of a man who believed no one was looking for him. Two bullets to the head proved otherwise. Within months, similar killings surfaced in Rawalpindi, then Lahore, then Rawalakot in Pakistan-Occupied Kashmir, then Sialkot, then Nawabshah in rural Sindh, then Landi Kotal deep inside Khyber Pakhtunkhwa's tribal belt. Each killing shared operational features with the others: motorcycle-borne assailants, point-blank range, precise targeting of individuals designated as wanted by India, rapid escape, and no claim of responsibility.
 

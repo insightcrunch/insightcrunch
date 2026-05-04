@@ -6,17 +6,17 @@ date: 2013-02-05
 categories: ["Industry"]
 tags: ["abu-qatal", "qatal-sindhi", "lashkar-e-taiba", "reasi-attack", "targeted-killing", "shadow-war"]
 excerpt: "Abu Qatal, the LeT commander behind the Dhangri massacre and Reasi bus ambush, killed alongside his bodyguard by unknown gunmen on the Jhelum Road in Punjab."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2013-02-05
+lang: en
 ---
-
 On the evening of March 15, 2025, a black jeep traveling along the Mangla-Jhelum Road in Punjab, Pakistan, came under sustained gunfire near Zeenat Hotel, close to Dinah Punjab University. The occupants never had a chance. Fifteen to twenty rounds struck the vehicle, killing Zia-ur-Rehman, a forty-three-year-old man from Sindh Province better known by his operational alias Abu Qatal, and one of his armed bodyguards. A second bodyguard sustained critical injuries and was rushed to Rawalpindi for emergency treatment. The speed and precision of the assault, the fact that Qatal was traveling with armed security details provided by both Lashkar-e-Taiba and, according to reporting from Resonant News, plainclothes Pakistan Army personnel, and the anonymity of the attackers who melted into the Jhelum dusk afterward, all placed this incident within a [pattern that has become impossible for Pakistan to explain away](https://insightcrunch.com/2012/12/24/unknown-gunmen-pattern-decoded/). Abu Qatal's killing closed a chain that began with the blood of nine Hindu pilgrims on a bus in Reasi and the screams of children in Dhangri village. Every attack produces a target. Every target, when identified, gets placed on a list. Every name on that list is eventually reached.
 
 <!--more-->
 
-![Abu Qatal Sindhi LeT Commander Profile - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Abu Qatal Sindhi LeT Commander Profile - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 Qatal was not a foot soldier. He was Lashkar-e-Taiba's chief operational commander for the Poonch-Rajouri sector, the handler who recruited, trained, and dispatched the gunmen responsible for some of the bloodiest attacks on civilians in Jammu and Kashmir in recent years. The National Investigation Agency had charge-sheeted him in a case that bore the clinical designation RC-01 and 02/2023/NIA/JMU, a designation that mapped onto a very specific horror: the twin attacks on Dhangri village in Rajouri on January 1 and 2, 2023, which left seven civilians dead, including two children. Indian intelligence agencies further identified him as the mastermind behind the June 2024 Reasi bus ambush, an assault that killed nine pilgrims returning from the Shiv Khori temple. These were not abstract allegations against a shadowy figure. Qatal was a man whose operational fingerprints were on the weapons, the drone-dropped ammunition, the overground worker networks that provided logistical support to the gunmen who pulled the triggers.
 
