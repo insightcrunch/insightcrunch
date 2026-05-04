@@ -6,17 +6,17 @@ date: 2014-12-26
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "marlow", "character-analysis", "literary-analysis", "unreliable-narrator"]
 excerpt: "Marlow is not Conrad. He is a positioned witness whose social formation produces specific blind spots, and the closing lie reveals his full complicity."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-12-26
+lang: en
 ---
-
 Marlow is not Joseph Conrad. He is a character invented by Conrad to occupy a specific social position, to observe specific horrors from within that position, and to demonstrate the specific limits of what a man in that position can understand about what he has witnessed. The single most consequential interpretive decision any reader makes about Heart of Darkness is whether to treat Marlow as Conrad's transparent spokesman or as a character whose narration the novella permits the reader to evaluate from outside. The classroom tradition has overwhelmingly chosen the first option: Marlow speaks, and we receive his words as reliable moral witness. The critical tradition, particularly since Ian Watt's landmark study in 1979 and Edward Said's intervention in 1993, has increasingly chosen the second. This article argues for the second reading, and the evidence begins with the novella's opening sentence.
 
 <!--more-->
 
-![Marlow Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Marlow Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The distinction between Conrad and Marlow is not a pedantic scholarly quibble. It determines what the novella means. If Marlow is Conrad, then the novella's descriptions of Africans are Conrad's descriptions, and Chinua Achebe's famous charge of racism lands with full force against the author. If Marlow is a character distinct from Conrad, then the novella's descriptions of Africans are evidence of Marlow's positional limitations, and the reader's task is to read through the narrator's blindness to the reality underneath. Both readings have textual support, and the tension between them is what makes Heart of Darkness one of the most consequential short narratives in English literature. But the novella's formal architecture, specifically the double frame that places Marlow's narration inside another narrator's account, is designed to make the distinction between author and narrator visible. The frame is Conrad's signal to the reader that Marlow is not to be trusted completely, and ignoring that signal flattens the novella into something simpler than it is.
 

@@ -6,17 +6,17 @@ date: 2016-05-14
 categories: ["Leisure"]
 tags: ["rwandan-genocide", "1994", "africa", "genocide", "world-history", "human-rights"]
 excerpt: "The Rwandan Genocide killed approximately 800,000 in 100 days. Its causes were colonial, ideological, and international. Prevention failed at every level."
-author: "Insight Crunch Team"
+author: "rachel-foster"
 reading_time: 70
 last_updated: 2016-05-14
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-32.webp"
+lang: en
 ---
-
 The Rwandan Genocide of 1994 remains one of the most documented atrocities of the twentieth century, and yet the most commonly circulated account of it is wrong in a way that matters. The popular version runs as follows: ancient tribal hatreds between Hutu and Tutsi populations erupted following the assassination of President Habyarimana, approximately 800,000 people were killed in 100 days, and the international community failed to respond. Each of these claims contains a fragment of truth. But the fragments assemble into a story that systematically misrepresents what happened, why it happened, and what it reveals about the structures of twentieth-century political violence. The Rwandan Genocide was not ancient ethnic hatred. It was colonially prepared, specifically planned, and internationally preventable. That triple claim, defended through this article's engagement with Mahmood Mamdani, Gerard Prunier, Linda Melvern, Philip Gourevitch, and Romeo Dallaire, constitutes the analytical foundation on which everything that follows rests.
 
 <!--more-->
 
-![The Rwandan Genocide Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
+![The Rwandan Genocide Explained - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The genocide ran from April 7 to mid-July 1994, approximately 100 days. The principal victims were the Tutsi population, with approximately 75 percent of the Tutsi community in Rwanda killed, representing roughly 500,000 to 600,000 Tutsi deaths. Moderate Hutu who opposed the genocide or were associated with opposition politics accounted for an additional 150,000 to 200,000 deaths. The total is estimated at approximately 800,000, though some scholars place the figure above one million. The killing rate peaked at approximately 10,000 people per day, a velocity of violence that surpassed even the industrialized killing systems of the Holocaust when measured by the ratio of deaths to time. But to begin with the killing is to begin at the wrong point. The genocide's causes operated across decades, and recovering those causes requires beginning not in April 1994 but in the late nineteenth century, when European colonial administrators first arrived in the territory that would become Rwanda.
 
