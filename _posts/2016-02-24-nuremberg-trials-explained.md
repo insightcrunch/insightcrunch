@@ -4,19 +4,19 @@ title: "The Nuremberg Trials Explained"
 page_title: "The Nuremberg Trials Explained: Why the 1945-1946 Proceedings Reshaped International Law"
 date: 2016-02-24
 last_updated: 2016-02-24
-author: "Insight Crunch Team"
+author: "diana-patel"
 categories: ["Leisure"]
 tags: ["nuremberg-trials", "international-law", "war-crimes", "crimes-against-humanity", "1945-1946", "modern-history"]
 excerpt: "The Nuremberg Trials of 1945-1946 founded modern international criminal law: individual liability, crimes against humanity, no superior-orders defense."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 71
+lang: en
 ---
-
 On the morning of November 20, 1945, twenty-one men filed into the dock of Courtroom 600 inside the Palace of Justice in Nuremberg. Some had ruled most of Europe six months earlier. One had been head of the German state for a few weeks in May. Another had edited a newspaper that spent fifteen years calling for the elimination of Jews. A third was the architect who had run armaments production for an industrial war machine that consumed entire countries. They were charged with offenses, two of which had not existed as named international crimes when the acts were committed: crimes against humanity, and the planning and waging of aggressive war. The four-power tribunal hearing the charges had been assembled by the four governments whose armies had just defeated theirs. By the standard of pre-1945 international law, the proceedings should not have been possible. Twelve months later, ten of those men had been sentenced to hang, three had been acquitted, and a body of law that did not exist a year earlier had been written into the foundations of the post-war world.
 
 <!--more-->
 
-![The Nuremberg Trials - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Nuremberg Trials - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 The Nuremberg Trials, taken as a single legal-institutional event, refer to two distinct but linked sets of proceedings. The International Military Tribunal, or IMT, ran from October 1945 to October 1946 and tried the surviving senior leadership of the Third Reich under a four-power charter signed in London on August 8, 1945. The twelve subsequent Nuremberg Military Tribunals, or NMT, ran from 1946 to 1949 under United States jurisdiction and tried roughly two hundred additional defendants drawn from the medical profession, the judiciary, the diplomatic corps, the Wehrmacht high command, the SS, and the industrial conglomerates that had built the Reich's economy. Together the proceedings produced not just a set of convictions but a workable legal architecture for holding individual state actors criminally responsible for what their states had done.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Hitler Declares War on US: December 11 1941"
 page_title: "Hitler Declares War on the United States: The December 11 1941 Reichstag Decision That Guaranteed Germany's Defeat"
 date: 2006-10-31
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-10-31
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1941", "hitler-declares-war-us", "germany"]
@@ -11,11 +11,11 @@ image: /assets/images/blog/blog-01.webp
 excerpt: "The Tripartite Pact did not obligate Germany to declare war on America. Hitler did it voluntarily on December 11 1941. The decision shortened the war."
 slug: "hitler-declares-war-on-us-december-1941"
 reading_time: 56
+lang: en
 ---
-
 On December 11, 1941, Adolf Hitler stood before the Reichstag in the Kroll Opera House and declared that Germany was at war with the United States of America. The Tripartite Pact, signed fourteen months earlier between Germany, Italy, and Japan, contained a mutual-defense clause triggered only when a signatory was attacked. Japan had attacked the United States at Pearl Harbor four days prior, not the other way around. No legal obligation compelled Germany to open hostilities with the most powerful industrial economy on earth. Hitler did it anyway, voluntarily, and in doing so converted a two-front European conflict into a global conflagration that guaranteed his own destruction.
 
-![Hitler addressing the Reichstag at the Kroll Opera House to declare war on the United States, December 11 1941](/assets/images/blog/blog-01.webp)
+![Hitler addressing the Reichstag at the Kroll Opera House to declare war on the United States, December 11 1941](/assets/images/blog/blog-06.webp)
 
 The declaration stands as a profoundly consequential unforced error in modern history. Kershaw, in Fateful Choices, places it alongside Barbarossa as one of Hitler's catastrophic decisions driven by ideological rigidity rather than operational calculation. Weinberg, in A World at Arms, treats the declaration as strategically coherent within Hitler's worldview but catastrophic in its real-world consequences. Herwig, in The German Declaration of War on the United States, provides the most granular reconstruction of the seventy-two-hour decision sequence from December 8 through December 11. This article reconstructs that sequence hour by hour, identifies what Hitler believed he gained, documents what he actually lost, and examines why the Axis command architecture could not prevent the blunder.
 

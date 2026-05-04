@@ -7,16 +7,16 @@ last_updated: 2016-05-04
 excerpt: "Tiananmen Square 1989 was a protest movement ended by military suppression. Most deaths occurred outside the Square, a fact Chinese censorship exploits."
 categories: ["Leisure"]
 tags: ["tiananmen-square", "1989", "china", "democracy", "world-history", "human-rights"]
-author: "Insight Crunch Team"
-image: "/assets/images/blog/blog-02.webp"
+author: "rachel-foster"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
+lang: en
 ---
-
 Tiananmen Square 1989 was a seven-week protest movement involving millions of Chinese citizens across dozens of cities, centered on Beijing's Tiananmen Square, and ended on June 3-4, 1989 by People's Liberation Army military suppression that killed hundreds of civilians. The most critical fact that standard treatments understate and Chinese government censorship deliberately exploits is geographic: the majority of casualties occurred not in Tiananmen Square itself but in the western approach corridors to the Square, particularly in the Muxidi neighborhood, where PLA units advancing toward the city center fired on citizens who blocked their path. This geographic specificity permits the Chinese government to claim, with narrow technical accuracy, that no "Tiananmen Square massacre" occurred, while systematically denying the actual massacre that took place across Beijing on those two nights. Responsible scholarship, drawing on Andrew Nathan and Perry Link's work with the smuggled internal Chinese government documents published as The Tiananmen Papers, Louisa Lim's investigative journalism in The People's Republic of Amnesia, and Zhao Ziyang's posthumous memoir Prisoner of the State, establishes that the movement was broader, the leadership divisions deeper, the military operation more systematic, and the subsequent censorship more comprehensive than the compressed popular narrative recognizes.
 
 <!--more-->
 
-![Tiananmen Square 1989 Protest Movement and Military Suppression - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Tiananmen Square 1989 Protest Movement and Military Suppression - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 ## The Political and Economic Context of 1989 China
 

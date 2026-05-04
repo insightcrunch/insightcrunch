@@ -6,17 +6,17 @@ date: 2016-04-14
 categories: ["Leisure"]
 tags: ["soviet-afghan-war", "cold-war", "afghanistan", "soviet-union", "world-history"]
 excerpt: "The Soviet-Afghan War was an imperial intervention accelerating Soviet structural collapse, not the proxy-war story popular accounts still teach."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-04-14
+lang: en
 ---
-
 The Soviet-Afghan War ran from December 27, 1979 to February 15, 1989, but its wide-ranging consequences continue into the present, reshaping geopolitics across Central Asia, the Middle East, and the Western world in ways that the original Soviet Politburo decision-makers could not have anticipated and would not have endorsed. The standard narrative frames this conflict as a Cold War proxy war in which American-backed mujahideen fighters bled the Soviet military until Moscow withdrew in defeat, contributing to the collapse of the Soviet Union two years later. That narrative contains elements of truth, but it systematically misrepresents the war's character, its causes, its internal dynamics, and its consequences. The Soviet-Afghan War was an imperial intervention that accelerated the Soviet system's structural exhaustion, and the American contribution to Soviet defeat was real but not decisive, while the blowback from American policy choices during and after the conflict proved severe and lasting.
 
 <!--more-->
 
-![The Soviet-Afghan War Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![The Soviet-Afghan War Explained - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The scholarly reassessment of the Soviet-Afghan War that emerged after the 1991 opening of Soviet archives has fundamentally complicated every component of the popular account. Gregory Feifer's *The Great Gamble* (2009), Rodric Braithwaite's *Afgantsy* (2011), and Artemy Kalinovsky's *A Long Goodbye* (2011) have collectively demonstrated that the Soviet decision to intervene was neither the product of aggressive expansionism nor the result of a single leader's miscalculation, but rather the outcome of institutional pressures, threat perceptions, and bureaucratic momentum operating within a political system that lacked effective mechanisms for challenging its own assumptions. The war that followed was not the straightforward superpower humiliation that American triumphalist accounts prefer, nor the heroic resistance narrative that Afghan nationalist historiography constructs, but a complex, grinding conflict in which approximately 15,000 Soviet soldiers died, approximately 35,000 were wounded, approximately two million Afghan civilians perished, and approximately five to six million Afghans became refugees, all while producing post-war consequences including the Taliban, al-Qaeda, and the September 11 attacks that drew the United States into its own twenty-year Afghan war.
 

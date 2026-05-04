@@ -6,17 +6,17 @@ date: 2016-04-24
 categories: ["Leisure"]
 tags: ["proxy-wars", "cold-war", "world-history", "military-history", "historical-analysis"]
 excerpt: "Cold War proxy wars killed millions across the Third World while two superpowers maintained direct peace. Their shared architecture is the real subject."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-04-24
+lang: en
 ---
-
 Cold War proxy wars were not a collection of separate regional conflicts that happened to occur during the same geopolitical period. They were a single structural phenomenon operating through a shared architecture of superpower involvement, client-state selection, deniability mechanisms, and escalation controls, and the populations who paid for that architecture with their lives numbered somewhere between twenty and thirty million people across four decades while the United States and the Soviet Union maintained direct peace between themselves. The ratio tells the story of the Cold War more honestly than any diplomatic history: for every American or Soviet soldier killed in Cold War conflicts, approximately two hundred to three hundred Third World civilians died in wars those superpowers funded, armed, advised, and sometimes directly fought. That ratio is not a footnote to Cold War history. It is Cold War history, and the conventional treatments that relegate it to a series of regional chapters are performing exactly the analytical evasion the superpower governments themselves preferred.
 
 <!--more-->
 
-![Cold War Proxy Wars and Their Global Impact - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Cold War Proxy Wars and Their Global Impact - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The scholarly reorientation that makes this argument possible is relatively recent. For decades, Cold War historiography centered on the superpower bilateral relationship: nuclear deterrence, summit diplomacy, arms control negotiations, intelligence operations, and the European theater where NATO and the Warsaw Pact stared at each other across the iron curtain. The Third World appeared in this framework as a secondary arena, a place where the main contest occasionally spilled over into localized violence. Odd Arne Westad's 2005 study *The Global Cold War* reversed the analytical priority. Westad argued that the Third World was not the periphery of the Cold War but its principal killing field, and that the ideological projects the United States and the Soviet Union pursued in Asia, Africa, Latin America, and the Middle East constituted the most consequential and most destructive dimension of the superpower rivalry. Piero Gleijeses's archival work on Cuba's African interventions, Greg Grandin's analysis of Latin American consequences, and a generation of regional specialists have since confirmed and extended Westad's reorientation. The current scholarly consensus holds that proxy wars constitute the substantial moral content of [the Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide/), not its background noise.
 

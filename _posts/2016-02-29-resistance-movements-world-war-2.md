@@ -6,12 +6,12 @@ date: 2016-02-29
 categories: ["Leisure"]
 tags: ["resistance", "world-war-2", "partisans", "occupied-europe", "world-history"]
 excerpt: "WWII resistance against Axis occupation built modest direct military results yet substantial political legacy and national memory shaping postwar Europe."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-02-29
+lang: en
 ---
-
 A young Polish courier crossed the Vistula in October 1944 carrying a written plea from the burning rubble of Warsaw to Soviet headquarters a few miles away, asking for the artillery support that would not come. A Yugoslav peasant in Bosnia hid an Allied airman in a barn while German patrols searched the village. A schoolteacher in Lyon mimeographed an underground bulletin in a back room while her husband watched the street. A Norwegian saboteur strapped explosives to a heavy-water plant in Telemark. A German aristocrat placed a briefcase under a wooden table at the Wolf's Lair and walked out, expecting to die. The word resistance has been asked to cover all of these acts and many thousands more, and the asking has not been gentle on the historical record.
 
 The story most often told about the European resistance is a story of moral clarity and cumulative effect, in which ordinary people across occupied countries took risks for shared values, helped to defeat the Third Reich, and then handed their nations a clean political inheritance. Each piece of that story is partly true. The risks were real, the values were sometimes shared, and the inheritance was substantial in ways that still shape the continent. The decades of scholarship that followed Henri Michel, Henri Noguères, M. R. D. Foot, Julian Jackson, István Deák, Dennis Deletant, Anita Prażmowska, Mark Mazower, and Tim Snyder have not overturned the moral grain of that older account. They have complicated it. They have shown that the direct military contribution of resistance movements to Allied victory was generally modest, that the political composition of resistance varied wildly across countries and shaped postwar arrangements in unpredictable ways, that collaboration was often more common than postwar national memory was prepared to admit, and that the heroic narrative produced for postwar audiences sometimes flattened the harder questions about who participated, who did not, who paid, and who benefited.
@@ -20,7 +20,7 @@ This article works through the major resistance movements of the war one country
 
 <!--more-->
 
-![Resistance Movements in World War II - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Resistance Movements in World War II - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 A note on what this article is doing. The structure that follows is built around the comparative claim that the resistance experience varied so radically across countries that any single answer to the question "how significant was resistance" is worse than no answer. Yugoslavia is not Norway. Poland is not Denmark. Soviet partisans are not French maquisards. Each major national resistance has to be reconstructed in its specific occupation context, and only after that reconstruction can the cross-country pattern be drawn. Readers who already know the basic chronology can skip ahead to the matrix section, which compresses the comparative record into a single readable map. Readers who want the full reconstruction can move through the country sections in order, then follow the historiographical reassessment, the discussion of collaboration, and the closing analysis of why the political legacy was the part that mattered most.
 

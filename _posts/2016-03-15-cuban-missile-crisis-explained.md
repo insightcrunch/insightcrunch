@@ -6,17 +6,17 @@ date: 2016-03-15
 categories: ["Leisure"]
 tags: ["cuban-missile-crisis", "cold-war", "kennedy", "khrushchev", "1962", "history"]
 excerpt: "The October 1962 crisis was more dangerous than the contemporary narrative suggested. Post-1990s declassification has substantially revised the story."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-03-15
+lang: en
 ---
-
 The Cuban Missile Crisis of October 1962 brought civilization closer to nuclear annihilation than any other event in recorded history, and the standard narrative taught in classrooms and repeated in popular culture has been substantially wrong about why. Post-1990s declassification of Kennedy ExComm tapes, Soviet archives, and Cuban communications has revised the story in three fundamental directions: the crisis was far more dangerous than contemporaries understood, with multiple independent near-launch events; the resolution involved a secret missile trade the Kennedy administration denied for decades; and Cuba itself was a more active agent than the American-centered account acknowledges. The revised understanding, now scholarly consensus through the work of Michael Dobbs, Sheldon Stern, and Martin Sherwin, replaces the heroic-firmness narrative with something more complicated, more frightening, and more instructive.
 
 <!--more-->
 
-![The Cuban Missile Crisis Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![The Cuban Missile Crisis Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 ## The Standard Narrative and Its Sources
 

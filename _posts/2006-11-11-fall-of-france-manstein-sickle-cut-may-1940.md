@@ -3,7 +3,7 @@ layout: post
 title: "Fall of France: Manstein's May 1940 Sickle Cut"
 page_title: "Fall of France: Erich von Manstein's October 1939 Through February 1940 Sichelschnitt Plan and the Decision That Broke Western Europe"
 date: 2006-11-11
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-11-11
 categories: ["Leisure"]
 tags: ["erich-von-manstein", "decision-reconstruction", "european-theater", "1940", "fall-of-france", "germany"]
@@ -11,13 +11,13 @@ image: /assets/images/blog/blog-01.webp
 excerpt: "Manstein proposed concentrating panzers through the Ardennes against staff resistance. Halder buried six memos. Hitler approved after a chance meeting."
 reading_time: 70
 slug: "fall-of-france-manstein-sickle-cut-may-1940"
+lang: en
 ---
-
 Between October 1939 and February 1940, a planning dispute inside the German high command produced the single most consequential operational decision of the Second World War's opening year. Lieutenant General Erich von Manstein, then serving as Chief of Staff to Army Group A under Gerd von Rundstedt, conceived an alternative to the conventional invasion plan for France and submitted six memoranda arguing for a concentrated armored thrust through the Ardennes forest toward Sedan. Franz Halder, the Army Chief of Staff, and Walther von Brauchitsch, the Army Commander-in-Chief, filtered every memorandum before it reached Adolf Hitler. They reassigned Manstein to a corps command in February 1940 to remove him from the planning process. Colonel Hans von Tresckow then arranged a Berlin banquet where Manstein explained his concept directly to Hitler on February 17, 1940. Hitler embraced the idea within days. Six weeks after the resulting invasion began on May 10, France requested an armistice.
 
 <!--more-->
 
-![Manstein's Sichelschnitt plan and the Fall of France May to June 1940](/assets/images/blog/blog-01.webp)
+![Manstein's Sichelschnitt plan and the Fall of France May to June 1940](/assets/images/blog/blog-42.webp)
 
 This article reconstructs the decision sequence that produced the Sichelschnitt, the sickle cut, from Manstein's first memorandum on October 31, 1939, through the February 17 meeting that bypassed the institutional hierarchy, to the operational execution that shattered Allied defenses in six weeks. The reconstruction serves a broader argument within the InsightCrunch WWII Decisions series: the house thesis holds that committee-architecture decision systems (democratic governments coordinating through institutional consultation) reliably outperform command-architecture systems (authoritarian regimes routing decisions through a single leader) across the full arc of the war. The Fall of France is the sharpest inverse test of that thesis. Here, a non-standard process inside a command architecture produced a brilliant outcome. The Sickle Cut plan bypassed institutional filters, reached the dictator through a personal channel, and succeeded spectacularly. The article's task is to explain why this happened, acknowledge the genuine complication it poses, and identify what constrains its applicability to the broader pattern.
 

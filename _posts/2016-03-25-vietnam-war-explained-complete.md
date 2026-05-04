@@ -5,17 +5,19 @@ page_title: "The Vietnam War - How America Got Drawn Into a Conflict It Could No
 date:   2016-03-25
 categories: ["Leisure"]
 tags: ["vietnam-war", "cold-war", "american-history", "military-history", "world-history"]
-author: "Insight Crunch Team"
+author: "rachel-foster"
 excerpt: "The Vietnam War was a thirty-year conflict, not merely its American phase. The defeat was structural, rooted in misreadings of Vietnamese nationalism."
 last_updated: 2016-03-25
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
+lang: en
 ---
-
 The Vietnam War was a thirty-year conflict running from 1945 to 1975 that encompassed French and American phases, killed approximately three to four million people across Southeast Asia, and ended with a structural American defeat rooted in fundamental misreadings of Vietnamese nationalism, the legitimacy deficit of successive Saigon governments, and the impossibility of military victory against an insurgency with cross-border sanctuary and broad popular support. Scholarly reassessment since the 1990s, particularly by Fredrik Logevall, Lien-Hang Nguyen, and Pierre Asselin, has substantially complicated earlier narratives while preserving and deepening the structural-defeat analysis that mainstream scholarship now considers settled.
 
 <!--more-->
 
+
+![The Vietnam War Explained - Insight Crunch](/assets/images/blog/blog-69.webp)
 Most English-language treatments of the Vietnam War begin around 1964 and end around 1975, covering the American combat phase as though it constituted the entire conflict. This periodization distorts understanding in ways that matter analytically. The actual war began in 1945 when Ho Chi Minh declared Vietnamese independence from France, drawing language directly from the American Declaration of Independence, and it encompassed three distinct phases: the First Indochina War against French colonial restoration (1946-1954), the American War against successive American-backed South Vietnamese governments and direct American intervention (1955-1975), and a post-war phase that included the Sino-Vietnamese War of 1979 and Vietnamese intervention in Cambodia (1978-1989). The American phase cannot be understood without the French phase, because the legitimacy dynamics, rural political structures, and international alignments that determined the American outcome were established during the earlier conflict. What follows is an account of the full thirty-year war that integrates Vietnamese-perspective scholarship with American-perspective scholarship to produce the combined analytical reading that the standard classroom treatment still lacks.
 
 ## The Colonial Background and the Birth of Vietnamese Nationalism

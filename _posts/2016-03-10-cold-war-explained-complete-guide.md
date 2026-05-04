@@ -6,17 +6,17 @@ date: 2016-03-10
 categories: ["Leisure"]
 tags: ["cold-war", "soviet-union", "united-states", "20th-century", "history", "international-relations"]
 excerpt: "The Cold War was not one conflict. It was a structured bipolar system with specific phases, theaters, and mechanisms each requiring separate assessment."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2016-03-10
+lang: en
 ---
-
 The Cold War is the period running from approximately 1945 to 1991 during which the United States and the Soviet Union conducted a global geopolitical confrontation without ever fighting each other directly, and it is also the twentieth century's most consistently flattened historical episode. Popular treatments deliver a unitary narrative: a single confrontation that began at Yalta, ran through Berlin and Korea and Cuba and Vietnam, and concluded when the Wall came down. This unitary treatment is wrong in ways that matter. The actual Cold War was a structured bipolar international system with distinct phases, distinct theaters, and distinct mechanisms operating in parallel, and each of these dimensions requires separate analytical assessment before any honest synthesis becomes possible.
 
 <!--more-->
 
-![Cold War Geopolitical Confrontation - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Cold War Geopolitical Confrontation - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 A thesis runs through this guide, supported by a generation of scholarship completed after the Soviet archives opened in 1991: there were effectively four Cold Wars stacked on top of each other, fought across three theaters, through four mechanisms, and the conflict ended via structural exhaustion of the Soviet system rather than through any clean Western military or political victory. Understanding the Cold War requires resisting the temptation to compress this complexity into a tidy story. This compression is what makes most general-audience treatments inadequate. Recovery of the underlying structure is what permits sober assessment of what actually happened, what was contingent, and what continues to shape the present international order.
 

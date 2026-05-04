@@ -4,18 +4,20 @@ title: "The Space Race Explained: US vs USSR"
 page_title: "The Space Race: Rocketry, Satellites, Moon Landing, and Technology-As-Politics"
 date: 2016-04-04
 last_updated: 2016-04-04
-author: "Insight Crunch Team"
+author: "amanda-ross"
 excerpt: "The Space Race was not primarily about science. It was a political-technological contest whose outcomes shaped subsequent civilian and military capacity."
 categories: ["Leisure"]
 tags: ["space-race", "cold-war", "apollo-11", "nasa", "world-history", "historical-analysis"]
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 70
+lang: en
 ---
-
 The Space Race was a political-technological contest between the United States and the Soviet Union, running approximately 1955 to 1975, in which both superpowers used rocketry, satellites, and crewed spaceflight as instruments of ideological competition, strategic signaling, and prestige warfare. The standard classroom narrative delivers the story as a simple arc from Soviet surprise to American triumph, with Sputnik as the frightening beginning and Apollo 11 as the triumphant conclusion. That narrative preserves genuine achievements but flattens the structural content that scholars including Asif Siddiqi, Walter McDougall, and John Logsdon have spent decades recovering. The Space Race was not primarily about exploration or scientific discovery. It was about what technology could demonstrate about political systems, what rocketry could deliver to military planners, and what prestige could purchase in a bipolar world where every neutral nation's alignment carried strategic weight. Both programs achieved substantial results. Both programs were shaped by political decisions more than by scientific curiosity. And the "who won" framing, though satisfying as narrative closure, flattens what the two programs were actually doing into a single metric that neither program's architects would have recognized as adequate.
 
 <!--more-->
 
+
+![The Space Race Explained: US vs USSR - Insight Crunch](/assets/images/blog/blog-44.webp)
 ## The Roots of Rocketry and the V-2 Inheritance
 
 Contrary to popular assumption, the Space Race did not begin with Sputnik. It began with the German V-2 rocket program of 1942 to 1945, which produced the first ballistic missile capable of reaching the edge of space and which both superpowers harvested as the technological foundation for their postwar missile and space programs. The V-2, developed at Peenemunde under the direction of Wernher von Braun and Walter Dornberger, was built by slave labor from the Mittelbau-Dora concentration camp, a fact that the postwar narratives of space exploration have consistently struggled to accommodate. The rocket itself was a revolutionary achievement in propulsion, guidance, and engineering integration. Its deployment against London and Antwerp in 1944 and 1945, killing approximately 9,000 people including both direct casualties and the laborers who built the weapons, made it simultaneously a technological marvel and an instrument of terror.

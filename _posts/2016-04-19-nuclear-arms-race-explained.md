@@ -6,17 +6,17 @@ date: 2016-04-19
 categories: ["Leisure"]
 tags: ["nuclear-arms-race", "cold-war", "nuclear-weapons", "world-history", "historical-analysis"]
 excerpt: "The Nuclear Arms Race produced roughly 70,000 warheads at peak. Multiple near-launches proved that deterrence ran on far narrower margins than publics knew."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-04-19
+lang: en
 ---
-
 The Nuclear Arms Race produced roughly 70,000 warheads at its Cold War peak, enough destructive capacity to eliminate human civilization several times over, and multiple documented near-launch incidents demonstrated that the deterrence system keeping those weapons unfired operated on far narrower margins than contemporary publics understood. The standard teaching framework presents the race as a story of arsenal numbers and treaty milestones: weapons built, agreements signed, Mutual Assured Destruction explained, gradual reduction through arms control. That framework is partially accurate but substantially incomplete, because it systematically omits the doctrinal evolution across distinct strategic phases, the specific near-catastrophic incidents that nearly triggered the weapons' use, the command-and-control fragility that left arsenals more vulnerable to accidental launch than official rhetoric acknowledged, and the continuing contemporary relevance of a competition that did not end with the Cold War but entered a new and potentially more dangerous phase. Richard Rhodes, Eric Schlosser, Fred Kaplan, and Campbell Craig have documented these omissions with primary-source precision, and their scholarship recovers the history that the arsenal-numbers-and-treaties framework loses.
 
 <!--more-->
 
-![The Nuclear Arms Race Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The Nuclear Arms Race Explained - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## The American Monopoly Phase: 1945 to 1949
 
