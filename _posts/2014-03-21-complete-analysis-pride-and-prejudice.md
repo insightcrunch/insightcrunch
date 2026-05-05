@@ -6,17 +6,17 @@ date: 2014-03-21
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "novel-analysis", "regency-england", "marriage-market", "classic-literature"]
 excerpt: "Pride and Prejudice is not a romance. It is an 1813 economic novel about the marriage market as labor market, with five daughters and an entailed estate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2014-03-21
+lang: en
 ---
-
 Jane Austen published Pride and Prejudice on January 28, 1813, and the reading public has been misreading it ever since. The conventional reception treats the novel as a love story between a witty woman and a proud man who learn to see each other clearly. The conventional reception is wrong, or at best incomplete in a way that amounts to distortion. Pride and Prejudice is an economic novel about the marriage market as labor market, and the love story is the reward Austen gave readers for sitting through the material analysis. Strip away the romance and what remains is a precise, unsentimental study of how five daughters, an entailed estate, and a narrow pool of eligible men produce five radically different life outcomes, outcomes that correlate with market position more tightly than they correlate with virtue.
 
 <!--more-->
 
-![Complete Analysis of Pride and Prejudice - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Complete Analysis of Pride and Prejudice - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 That claim requires defense, and the defense requires specificity. Austen was not writing allegory or abstraction. She was writing arithmetic. Longbourn, the Bennet family estate in Hertfordshire, generates approximately two thousand pounds per year. The estate is entailed in the male line, meaning that when Mr. Bennet dies, every acre, every wall, every stick of furniture passes to his nearest male relative, the Reverend William Collins. Mrs. Bennet and her five daughters will inherit only Mrs. Bennet's marriage portion of five thousand pounds, which at the prevailing five percent interest yields roughly two hundred and fifty pounds per year. Two hundred and fifty pounds in 1813 was enough to avoid starvation and not enough to maintain the social position the Bennet daughters occupied at birth. Unmarried daughters without independent income faced a slow, quiet slide into what the period called genteel poverty, the kind of half-life that Austen herself had observed in her extended family and that her contemporary Frances Burney had documented in Cecilia (1782) and Evelina (1778). The entail is not backstory. It is the engine that makes the plot move.
 

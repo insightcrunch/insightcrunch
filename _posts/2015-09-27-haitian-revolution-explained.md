@@ -6,17 +6,17 @@ date: 2015-09-27
 categories: ["Leisure"]
 tags: ["haitian-revolution", "toussaint-louverture", "slavery-abolition", "caribbean-history", "revolutionary-era", "medieval-history"]
 excerpt: "The Haitian Revolution produced the only successful large-scale slave revolt in recorded history and created the first Black-led republic in the Americas."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-09-27
+lang: en
 ---
-
 The Haitian Revolution of 1791 to 1804 was the most radical revolution of its era, and it is the most undertreated in standard Western histories. It produced the only successful large-scale slave revolt in recorded history, created the first Black-led republic in the Western Hemisphere, forced the abolition of slavery in French colonial territories earlier than in British or American ones, and handed Napoleon Bonaparte one of the most humiliating military defeats of his career. The revolution's scale and consequences dwarf its reputation: approximately 500,000 enslaved people in the most profitable European colony in the Americas rose against their enslavers, defeated the armies of three imperial powers (France, Spain, and Britain), and established a sovereign nation on January 1, 1804. That this achievement remains peripheral in most world history curricula is not an accident of pedagogical preference. It is a specific historiographical failure that Michel-Rolph Trouillot named and documented in *Silencing the Past: Power and the Production of History* (1995), and naming that failure is the first step toward correcting it.
 
 <!--more-->
 
-![The Haitian Revolution Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Haitian Revolution Explained - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 The question the revolution answers is not simply what happened in Saint-Domingue between 1791 and 1804. The deeper question is why this revolution, the most radical of the revolutionary era, receives less attention than the French Revolution of 1789 or the American Revolution of 1776, both of which were less radical in their social transformation. The French Revolution proclaimed universal rights while maintaining colonial slavery until pressure from Saint-Domingue forced abolition. The American Revolution proclaimed that all men are created equal while constitutionally protecting the institution of slavery for nearly another century. The Haitian Revolution did what neither the French nor the American managed: it destroyed the slave system root and branch, in the colony where that system was most profitable and most brutal. The comparative framework is not incidental to the analysis; it is the analysis. C.L.R. James established this framework in *The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution* (1938), and Laurent Dubois refined it in *Avengers of the New World: The Story of the Haitian Revolution* (2004). The revolution belongs at the center of the revolutionary era, not at its margins, and placing it there changes how we read every other revolution of the period.
 

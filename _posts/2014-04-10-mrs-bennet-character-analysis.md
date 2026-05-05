@@ -6,17 +6,17 @@ date: 2014-04-10
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "mrs-bennet", "character-analysis", "feminist-reading", "classic-literature"]
 excerpt: "Mrs. Bennet is mocked throughout Pride and Prejudice as foolish and embarrassing. She is also the only character who accurately reads the family's crisis."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2014-04-10
+lang: en
 ---
-
 Mrs. Bennet is the most mocked character in English literature who is right about nearly everything. For two centuries, readers have laughed at her nerves, winced at her vulgarity, and sided with her husband's witty contempt for her anxious scheming. Austen's narrator introduces her as a woman of limited intelligence and unstable temperament, and generations of literary criticism have taken this introduction at face value, treating Mrs. Bennet as the novel's comic engine, the character whose social blunders generate embarrassment and whose obsessive matchmaking provides the plot's forward energy without deserving the reader's respect. The conventional reading accepts the novel's framing without questioning it. That framing is wrong, or at the very least, it is incomplete in ways that matter enormously.
 
 <!--more-->
 
-![Mrs. Bennet Character Analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Mrs. Bennet Character Analysis - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The case for Mrs. Bennet's accuracy is arithmetic. Five daughters, an entailed estate, no savings, and a husband who has spent twenty-three years retreating to his library rather than building the financial cushion his family requires. When Mr. Bennet dies, Longbourn passes to Mr. Collins. Mrs. Bennet and her unmarried daughters will survive on approximately two hundred and fifty pounds per year from her marriage settlement, an income that places them below the threshold of gentry respectability. She sees this future clearly. Her husband does not save, does not strategize, does not cultivate the connections that might help his daughters secure advantageous marriages. He reads books. He makes jokes. He watches the approaching catastrophe with the detached amusement of a man who will not live to suffer its worst consequences. She, the woman the novel calls foolish, is the parent who is trying to solve the problem. Mr. Bennet, the man the novel calls wise, is the parent who created it.
 

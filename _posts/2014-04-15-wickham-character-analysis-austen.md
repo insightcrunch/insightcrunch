@@ -6,17 +6,17 @@ date: 2014-04-15
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "george-wickham", "character-analysis", "regency-villains", "classic-literature"]
 excerpt: "Wickham is the test case for what happens to men without property in Regency England. His predation is what the class system produces when blocked from rising."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2014-04-15
+lang: en
 ---
-
 George Wickham enters Meryton on foot, wearing a militia officer's uniform and a smile that makes Elizabeth Bennet forget, however briefly, every reservation she holds about the men she has recently met. He is handsome, articulate, and possessed of the one quality that Austen's Hertfordshire values above almost everything else: he is agreeable. Within two chapters, he has told Elizabeth a story about Mr. Darcy that is almost entirely false, and Elizabeth has believed every word because Wickham delivers falsehood with the fluency of a man who has spent his life learning how to please people who have power over his future. Wickham is not a minor villain inserted to complicate the marriage plot. He is the novel's most sustained examination of what the Regency class system produces when it offers a man talent, education, and charm but denies him the one thing that determines whether those qualities will generate respectability or ruin: property.
 
 <!--more-->
 
-![Mr. Wickham Character Analysis - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Mr. Wickham Character Analysis - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The popular reading of Wickham reduces him to a stock seducer, a Regency rake who exists so that Lydia can elope and Darcy can rescue the Bennet family's honor. SparkNotes gives him a paragraph. LitCharts color-codes his thematic function without examining his structural position. Neither treatment asks the question Austen's novel quietly poses across its second and third volumes: why does a man with Wickham's intelligence, education, and social training end up running away with a fifteen-year-old girl he does not love? The answer is not moral deficiency. The answer is class position. Wickham is what happens when the marriage market, the military, and the Church are the only routes available to a penniless gentleman, and when the man in question has squandered the one legitimate route he was offered. His villainy is not idiosyncratic. It is systemic, and Austen's novel knows this even if the novel's characters do not say it aloud.
 
