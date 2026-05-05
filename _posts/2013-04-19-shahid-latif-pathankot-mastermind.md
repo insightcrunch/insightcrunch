@@ -6,17 +6,17 @@ date: 2013-04-19
 categories: ["Industry"]
 tags: ["shahid-latif", "pathankot-attack", "jaish-e-mohammed", "sialkot", "targeted-killing", "shadow-war"]
 excerpt: "Profile of Shahid Latif, the JeM commander who masterminded the 2016 Pathankot airbase attack and was shot dead inside a Sialkot mosque seven years later."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 56
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2013-04-19
+lang: en
 ---
-
 Shahid Latif was the most well-documented attack-to-elimination case in India's covert campaign against terrorists sheltered on Pakistani soil. He masterminded the January 2016 assault on the Pathankot Indian Air Force base that killed seven Indian security personnel, an operation launched from the [border city of Sialkot](https://insightcrunch.com/2018/07/30/sialkot-jem-operations-hub/) where [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) maintained a forward operations hub barely fifteen kilometers from the international frontier. Seven years later, masked gunmen walked into a Sialkot mosque and shot Latif dead during prayers. Between those two events lies a chain that illuminates everything the shadow war represents: the attack creates the target, intelligence identifies the individual, diplomacy fails to deliver accountability, and the covert operation closes the file that Pakistan refused to open.
 
 <!--more-->
 
-![Shahid Latif Profile - Pathankot Attack Mastermind Eliminated in Sialkot - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Shahid Latif Profile - Pathankot Attack Mastermind Eliminated in Sialkot - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 The seven-year interval separating the Pathankot airbase assault from Latif's killing inside a Sialkot mosque is not a story of delay. It is a story of escalation by stages, of a country that exhausted every alternative before arriving at the one Pakistan feared most. India tried diplomacy first. Prime Minister Narendra Modi had made a surprise visit to Lahore on December 25, 2015, greeting his Pakistani counterpart Nawaz Sharif on his birthday, signaling that a new relationship was possible. Eight days later, JeM infiltrators crossed from the Sialkot sector into Indian territory and attacked the Pathankot airbase. India responded not with missiles but with an extraordinary offer: a Joint Investigation Team from Pakistan would be allowed to visit the attack site and examine the evidence. Pakistan's JIT came, examined, and returned without a single arrest, a single prosecution, or a single public finding that acknowledged JeM's responsibility. That failure sealed Latif's fate. The [diplomatic channel that Pathankot destroyed](https://insightcrunch.com/2019/09/16/pathankot-2016-turning-point/) was never rebuilt, and the covert channel that replaced it eventually reached a mosque in Sialkot where Latif knelt in prayer for the last time.
 

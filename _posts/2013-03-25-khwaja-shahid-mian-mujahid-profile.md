@@ -6,17 +6,17 @@ date: 2013-03-25
 categories: ["Industry"]
 tags: ["khwaja-shahid", "mian-mujahid", "sunjuwan-attack", "lashkar-e-taiba", "pok", "targeted-killing"]
 excerpt: "Profile of Khwaja Shahid aka Mian Mujahid, the LeT commander and Sunjuwan Army camp attack mastermind kidnapped and found beheaded near the LoC in PoK."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2013-03-25
+lang: en
 ---
-
 Most targeted eliminations in Pakistan follow a recognizable signature: motorcycle-borne gunmen approach their target on foot or at a known location, fire at close range, and vanish into congested streets within seconds. Khwaja Shahid, known by his operational alias Mian Mujahid, broke that pattern in every conceivable dimension. He was not shot on a street corner or inside a mosque during prayers. He was kidnapped from the Neelum Valley of Pakistan-Occupied Kashmir, held for days while Pakistan's Inter-Services Intelligence and army scrambled to locate him, tortured extensively, beheaded, and dumped near the Line of Control alongside the body of another unidentified individual. His killing, confirmed in early November 2023, remains the single most violent deviation from the [standard modus operandi](https://insightcrunch.com/2013/01/09/modus-operandi-covert-eliminations/) that defines the broader campaign of covert eliminations on Pakistani soil, and it raises questions that no other case in the series forces the analyst to confront.
 
 <!--more-->
 
-![Khwaja Shahid Sunjuwan Mastermind Profile - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Khwaja Shahid Sunjuwan Mastermind Profile - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Shahid was not a minor operative whose death could be dismissed as a local feud or a criminal settling of scores. He was identified by Indian security forces as one of the masterminds behind the February 2018 terror attack on the Sunjuwan Military Station in Jammu, a predawn assault that killed seven people, including five soldiers from the Jammu and Kashmir Light Infantry and one civilian, while wounding twenty others. The attack targeted not just combatants but the families who lived inside the military station, and the choice to strike a brigade headquarters housing women and children marked Sunjuwan as one of the most provocative terror operations since the [2016 Uri attack](https://insightcrunch.com/2012/05/22/uri-attack-2016-explained/). That Shahid, one of the men who allegedly planned that assault, was found beheaded near the very border he had helped terrorists cross five years earlier carries a symmetry that no analytical framework can fully resolve: was this justice, vengeance, or something else entirely?
 

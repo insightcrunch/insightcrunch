@@ -6,17 +6,17 @@ date: 2013-02-17
 categories: ["Industry"]
 tags: ["mufti-qaiser-farooq", "lashkar-e-taiba", "hafiz-saeed", "karachi", "targeted-killing", "shadow-war"]
 excerpt: "Complete profile of Mufti Qaiser Farooq, LeT founding member and Hafiz Saeed aide shot dead near a Karachi seminary during the shadow war's peak month."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2013-02-17
+lang: en
 ---
-
 On September 30, 2023, Mufti Qaiser Farooq walked toward the Gulshan-e-Omar Madrasa in the Samanabad area of Karachi. He had done this countless times before. He was thirty years old, a founding member of Lashkar-e-Taiba, a close aide to Hafiz Saeed, and a man whose daily routine centered on the religious seminary that served as both his workplace and his operational base. He was not hiding. He was not living under a false identity. He was operating in full view, in a city of fifteen million people, under the theoretical protection of the Pakistani state. That openness killed him. Unknown gunmen shot Farooq in the back as he walked near the madrasa, and the CCTV cameras that captured his final seconds broadcast a message that Pakistan's security establishment has spent years trying to suppress: the people Hafiz Saeed built his empire with are being hunted, and the empire's own infrastructure is leading the hunters to their doors.
 
 <!--more-->
 
-![Mufti Qaiser Farooq LeT Aide Killed Karachi - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Mufti Qaiser Farooq LeT Aide Killed Karachi - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 Farooq's killing was the third targeted assassination of a Lashkar-e-Taiba-linked figure in Karachi in a single month. On September 12, Maulana Ziaur Rahman had been [shot dead during his evening walk](https://insightcrunch.com/2013/02/11/ziaur-rahman-let-karachi-killing/) in the Gulistan-e-Jauhar area by two motorcycle-borne assailants. On September 28, Abu Qasim Kashmiri had been killed in Rawalakot, Pakistan-administered Kashmir. In between these killings, Hafiz Saeed's own son Kamaluddin Saeed had reportedly been abducted from Peshawar on September 26 by unidentified individuals arriving in a car, and social media platforms were flooded with unverified claims that his body had been found in the Jabba Valley of Khyber Pakhtunkhwa. The concentrated violence of that single week sent a seismic tremor through Pakistan's jihadist infrastructure. Farooq's death was not an isolated incident. It was the third blow in a sustained offensive that targeted the men who run Hafiz Saeed's organizational machinery, the mid-tier operatives who keep Lashkar-e-Taiba functional even when its founder sits in a prison cell. The [shadow war's complete timeline](https://insightcrunch.com/2013/01/01/targeted-killings-pakistan-complete-timeline/) records a pattern of escalation that reached its most intense phase in September 2023, and Farooq's name belongs near the center of that cascade.
 

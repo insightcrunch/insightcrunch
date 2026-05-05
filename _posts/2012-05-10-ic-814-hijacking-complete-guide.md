@@ -6,17 +6,17 @@ date: 2012-05-10
 categories: ["Industry"]
 tags: ["ic-814", "hijacking", "kandahar", "masood-azhar", "terrorism", "india"]
 excerpt: "The definitive guide to the IC-814 hijacking, the Kandahar hostage crisis, and how India's decision to release Masood Azhar reshaped decades of terror."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2012-05-10
+lang: en
 ---
-
 On the evening of December 24, 1999, Indian Airlines Flight IC-814, an Airbus A300 carrying 176 passengers and 15 crew members from Kathmandu to New Delhi, was seized by five armed men belonging to Harkat-ul-Mujahideen approximately forty minutes after takeoff. What followed over the next eight days was a hostage crisis that forced the Vajpayee government into a choice between two catastrophes: let hostages die on live television, broadcast into the living rooms of a nation celebrating Christmas, or release three of the most dangerous terrorists in Indian custody, men whose freedom would generate more violence than the hijacking itself. India chose the second catastrophe. The consequences of that choice are still accumulating twenty-six years later. Every Jaish-e-Mohammed attack on Indian soil, every shadow war elimination in Pakistan's cities, every missile fired during Operation Sindoor traces a direct line back to the tarmac at Kandahar airport on December 31, 1999, where External Affairs Minister Jaswant Singh personally handed over three prisoners whose collective body count, post-release, would dwarf the crisis that freed them.
 
 <!--more-->
 
-![IC-814 Hijacking Complete Guide - Insight Crunch](/assets/images/blog/blog-12.webp)
+![IC-814 Hijacking Complete Guide - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The IC-814 hijacking was not an isolated act of aviation piracy. It was a carefully orchestrated operation designed, funded, and directed by elements with deep connections to Pakistan's Inter-Services Intelligence, executed to achieve a single strategic objective: the release of Maulana Masood Azhar, the general secretary of Harkat-ul-Mujahideen, who had been arrested in Indian-administered Kashmir in 1994 while attempting to unify militant factions under a single command. Azhar was not an ordinary prisoner. Pakistan's Interior Minister Nasirullah Khan Babar had formally requested his release on humanitarian grounds in 1996. The Pakistani High Commission in New Delhi had sent a Note Verbale to India's Ministry of External Affairs in 1997, claiming Azhar as a Pakistani national and demanding consular access. When diplomacy failed, the hijacking machinery was activated. From intercepted satellite phone communications made available by a friendly intelligence service, Indian investigators later established that the hijackers maintained real-time contact with Pakistan Army General Headquarters in Rawalpindi throughout the eight-day crisis. The sophistication of the planning, the coordination across three countries, and the speed with which the released prisoners resumed their activities upon reaching Pakistan all pointed to a state-backed operation disguised as terrorism. This article reconstructs the IC-814 crisis day by day, examines the decisions India faced and the options it rejected, profiles the key figures involved, and traces the twenty-six-year consequence chain that makes the Kandahar tarmac the origin point of India's modern counter-terror trajectory.
 

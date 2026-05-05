@@ -6,17 +6,17 @@ date: 2013-05-13
 categories: ["Industry"]
 tags: ["masood-azhar", "jaish-e-mohammed", "network", "targeted-killings", "shadow-war", "counter-terrorism"]
 excerpt: "How targeted eliminations from Karachi to Waziristan are systematically dismantling Masood Azhar's inner circle and JeM's command structure in Pakistan."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2013-05-13
+lang: en
 ---
-
 Masood Azhar built Jaish-e-Mohammed from a prison cell's promise into Pakistan's most operationally lethal terror organization, but the network he spent two decades constructing is now being disassembled with surgical precision, one commander at a time, across cities and provinces he once considered impregnable sanctuaries.
 
 <!--more-->
 
-![Masood Azhar Network Under Siege - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Masood Azhar Network Under Siege - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The campaign against Azhar's network stands apart from every other thread in India's [shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). Where the operations targeting Lashkar-e-Taiba's hierarchy have been opportunistic, climbing the organizational ladder as access permitted, the campaign against [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) follows a different logic entirely. It is methodical. It is sequential. And it is personal. Starting with the IC-814 hijacker Zahoor Mistry in Karachi and progressing through operational commanders, factional allies, and now Azhar's own elder brother, the elimination sequence reads less like a target list being checked off and more like a noose being tightened around a single man. The circle contracts, and every killing brings the perimeter closer to Azhar himself.
 

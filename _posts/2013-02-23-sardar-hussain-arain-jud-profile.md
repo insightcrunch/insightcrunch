@@ -6,17 +6,17 @@ date: 2013-02-23
 categories: ["Industry"]
 tags: ["sardar-hussain-arain", "jamaat-ud-dawa", "lashkar-e-taiba", "nawabshah", "targeted-killing", "shadow-war"]
 excerpt: "Profile of Sardar Hussain Arain, the Jamaat-ud-Dawa figure who ran LeT's madrassa network across rural Sindh, shot dead in Nawabshah's Qazi Ahmed town."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2013-02-23
+lang: en
 ---
-
 Sardar Hussain Arain was not a fugitive hiding in a Karachi safe house or a commander directing cross-border infiltrations from a bunker in Punjab. He was a man who ran shops in Qazi Ahmed town, organized rallies for Jamaat-ud-Dawa in the open streets of Shaheed Benazirabad District, contested a provincial assembly seat on the ticket of Lashkar-e-Taiba's political front in the 2018 general elections, and expanded a network of religious seminaries across rural Sindh that funneled young recruits toward radicalization and, in some cases, toward the armed wings of Pakistan's most dangerous anti-India groups. On August 1, 2023, unknown assailants shot Arain while he traveled from his residence to one of his shops in Qazi Ahmed, a small city in what was formerly called Nawabshah District. He was taken to a local hospital, then transferred to a private facility in Karachi where he was placed on a ventilator. Four days later, on August 5, he died from his injuries, and the Sindhudesh Revolutionary Army, a proscribed Sindhi separatist group, claimed responsibility for the killing, making Arain's case the only one in the targeted elimination series where a non-state actor with no apparent connection to India publicly took credit.
 
 <!--more-->
 
-![Sardar Hussain Arain JuD Profile - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Sardar Hussain Arain JuD Profile - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 His death drew little coverage outside Pakistani regional media and a handful of Indian defense outlets that added his name to the growing ledger of anti-India figures killed by unidentified attackers on Pakistani soil since March 2022. But beneath the thin layer of news reporting lies a case that illuminates something no single-paragraph kill-list entry can capture: the anatomy of Pakistan's safe-haven infrastructure in its most overlooked province. Sindh is not Punjab, where Lashkar-e-Taiba's headquarters in Muridke operated for decades as an open city. Sindh is not Khyber Pakhtunkhwa, where tribal structures provide natural cover for armed groups. Sindh is a province where the Pakistan Peoples Party has governed without interruption for over fifteen years, where ethnic Sindhi politics dominate, and where Punjabi settlers, including the families of retired military personnel who received land grants after Partition, have carved out communities in towns like Qazi Ahmed and Nawabshah. Arain was part of that settler infrastructure. He was, by all available evidence, the man who made Jamaat-ud-Dawa's charitable mask work in rural Sindh, registering seminaries, collecting donations, organizing community events, and building a pipeline that connected young men in Sindhi towns to an ideological apparatus controlled from Lahore and, ultimately, to the armed formations that Hafiz Saeed built across three decades.
 

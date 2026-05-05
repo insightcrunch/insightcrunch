@@ -6,17 +6,17 @@ date: 2013-04-13
 categories: ["Industry"]
 tags: ["zahoor-mistry", "ic-814", "jaish-e-mohammed", "karachi", "targeted-killing", "hijacking"]
 excerpt: "How Zahoor Mistry, IC-814 hijacker who murdered Rupin Katyal, lived as Zahid Akhund in Karachi for two decades before assassins closed a 23-year file."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2013-04-13
+lang: en
 ---
-
 On March 1, 2022, two men on a motorcycle pulled up outside a furniture warehouse in Akhtar Colony, one of Karachi's dense residential neighborhoods wedged between the city's industrial sprawl and its southern coastline. They wore helmets and face coverings. One dismounted, walked into the warehouse belonging to Crescent Furniture, raised a 30-bore pistol, and fired twice into the head of the owner, a middle-aged man known to his neighbors and customers as Zahid Akhund Ghani. The second assailant waited outside, engine idling. Within seconds, both were gone, threading through Akhtar Colony's narrow lanes and vanishing into Karachi's ungovernable traffic. The man they left bleeding on the floor of his own furniture godown was rushed to a nearby hospital, where he was pronounced dead. Pakistani police recovered two spent 30-bore cartridges from the scene. CCTV footage captured the assailants conducting what appeared to be reconnaissance of the area before entering the warehouse. Pakistan's Geo TV reported the incident as the murder of a Karachi businessman, offering no further identification. What Geo TV did not report, and what Pakistani media were reportedly instructed not to publicize, was that Zahid Akhund Ghani was not a furniture dealer. His real name was Zahoor Ibrahim Mistry, and twenty-three years earlier, he had helped hijack Indian Airlines Flight IC-814.
 
 <!--more-->
 
-![Zahoor Mistry IC-814 Hijacker Profile - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Zahoor Mistry IC-814 Hijacker Profile - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 Mistry's elimination represents the shadow war's most dramatic temporal arc. The chain connecting his death in a Karachi warehouse to the tarmac at Kandahar airport stretches across twenty-three years, two decades of geopolitical upheaval, and the entire lifecycle of a terror organization he helped birth. On December 24, 1999, Mistry and four fellow hijackers seized an Indian Airlines Airbus A300 carrying 179 passengers and eleven crew members on a flight from Kathmandu to New Delhi. Over the course of eight days, the [hijacking that started everything](https://insightcrunch.com/2012/05/10/ic-814-hijacking-complete-guide/) forced India into a decision that would shape South Asian security for a generation: release three imprisoned terrorists, including [Masood Azhar](https://insightcrunch.com/2012/01/11/masood-azhar-complete-profile/), in exchange for the hostages' lives. One of those released terrorists founded [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) within weeks. The organization went on to attack India's Parliament, infiltrate the Pathankot airbase, and bomb a CRPF convoy at Pulwama. Mistry, meanwhile, the man who had wielded a knife inside the aircraft and left a twenty-five-year-old newlywed named Rupin Katyal dead, returned to Karachi and disappeared into a new identity. He changed his name. He opened a furniture shop. He grew older in anonymity. But the file remained open, and the motorcycle-borne assailants who found him in Akhtar Colony in March 2022 closed it with two bullets.
 

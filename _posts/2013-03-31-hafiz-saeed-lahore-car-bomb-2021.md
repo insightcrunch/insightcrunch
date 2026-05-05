@@ -6,17 +6,17 @@ date: 2013-03-31
 categories: ["Industry"]
 tags: ["hafiz-saeed", "lahore", "car-bomb", "lashkar-e-taiba", "shadow-war", "raw"]
 excerpt: "Analysis of the June 2021 car bomb near Hafiz Saeed's Lahore residence and the compelling evidence it served as the shadow war's strategic opening salvo."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2013-03-31
+lang: en
 ---
-
 On the morning of June 23, 2021, a car packed with an estimated twenty kilograms of explosives detonated on a residential street in Johar Town, Lahore, killing three people and injuring more than twenty others. The blast carved a crater four feet deep and eight feet wide into the asphalt, shattered windows across a hundred-foot radius, destroyed twelve parked vehicles, and collapsed sections of seven nearby houses. None of those facts, on their own, would distinguish this bombing from the dozens of other violent incidents Pakistan absorbs in any given year. What made the Johar Town detonation different, what elevated it from a local crime-page headline to a geopolitical inflection point, was the address. The car bomb exploded outside the residence of Hafiz Muhammad Saeed, the co-founder of [Lashkar-e-Taiba](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/), the mastermind of the [26/11 Mumbai attacks](https://insightcrunch.com/2012/05/04/26-11-mumbai-attack-complete-guide/) that killed 166 people, and arguably the most protected terrorist in Pakistan's history.
 
 <!--more-->
 
-![Hafiz Saeed Lahore Car Bomb Analysis - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Hafiz Saeed Lahore Car Bomb Analysis - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 That proximity, a car bomb within detonation range of the residence of a man India has spent thirteen years demanding Pakistan surrender, transformed the Johar Town blast from a criminal act into a strategic signal. Within twelve days, Pakistan's National Security Adviser Moeed Yusuf would stand before cameras in Islamabad and accuse India's Research and Analysis Wing of orchestrating the attack. India would deny the allegation. The international community would mostly ignore it. And seven months later, in January 2022, a man named Saleem Rehmani, an India-designated wanted terrorist, would be [shot dead by unidentified gunmen](https://insightcrunch.com/2013/03/19/saleem-rehmani-profile/) in Nawabshah, Sindh. Two months after that, Zahoor Mistry, an IC-814 hijacker living under an assumed identity in Karachi, would be [gunned down by motorcycle-borne assassins](https://insightcrunch.com/2013/04/13/zahoor-mistry-ic814-hijacker-profile/). By 2023, the pattern would be undeniable. By 2024, The Guardian would publish an investigation alleging that India's intelligence services were behind nearly twenty killings on Pakistani soil. By 2026, the body count would exceed thirty. Every one of those events traces its strategic lineage to the Johar Town crater. The car bomb near Hafiz Saeed's residence was not the first assassination attempt in the [shadow war's long arc](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). It was the declaration that made every subsequent assassination possible to interpret as doctrine rather than coincidence.
 

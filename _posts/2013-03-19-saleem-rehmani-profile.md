@@ -6,17 +6,17 @@ date: 2013-03-19
 categories: ["Industry"]
 tags: ["saleem-rehmani", "designated-terrorist", "targeted-killing", "pakistan", "shadow-war", "counter-terrorism"]
 excerpt: "Profile of Saleem Rehmani, an India-designated wanted terrorist shot dead by unidentified gunmen in Pakistan, one of the very earliest confirmed cases."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2013-03-19
+lang: en
 ---
-
 Saleem Rehmani, alias Abu Saad, was shot dead by unidentified gunmen in Nawabshah, Sindh, in January 2022. At the time, Pakistani police treated the incident as a routine armed robbery gone wrong at a commercial mart in the Taj Colony neighborhood. Local media reported three armed men entering the premises, a brief exchange of fire, and two bodies carried to the Peoples Medical Hospital. Rehmani's name appeared on India's list of wanted individuals accused of conspiracy to radicalize, motivate, and recruit youth in Jammu and Kashmir for violence against the Indian state. His killing was one of the first data points in what would become a recognizable pattern of targeted eliminations of India-wanted individuals on Pakistani soil, a [systematic campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) that has now claimed dozens of lives across multiple Pakistani cities and provinces.
 
 <!--more-->
 
-![Saleem Rehmani Profile Analysis - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Saleem Rehmani Profile Analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 Rehmani's death attracted almost no international attention when it occurred. Pakistani media covered the Nawabshah incident as a local crime story, a brief dispatch buried among reports of street robberies and property disputes in Sindh's interior. Indian media did not cover the event at all. No government claimed credit. No investigation produced results. The killing dissolved into the background noise of urban violence in Pakistan's Sindh province, unremarkable in a country where armed encounters between shopkeepers and robbers barely register as news. Only later, after Zahoor Mistry was [shot dead in Karachi by motorcycle-borne assailants](https://insightcrunch.com/2013/04/13/zahoor-mistry-ic814-hijacker-profile/) two months later in March 2022, and after the pace of similar killings accelerated through 2023 and into 2024, did analysts begin tracing the pattern backward to its earliest instances. Rehmani's January 2022 killing emerged in that retrospective analysis as one of the opening moves in a covert campaign that had been invisible while it was happening. That retrospective invisibility is itself analytically significant. The Rehmani case reveals how the campaign's architects designed their operations to be individually unremarkable while collectively unmistakable, a hallmark of intelligence doctrine refined through practice.
 

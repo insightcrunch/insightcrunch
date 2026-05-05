@@ -6,17 +6,17 @@ date: 2013-03-01
 categories: ["Industry"]
 tags: ["abu-qasim", "riyaz-ahmad", "lashkar-e-taiba", "dhangri-attack", "pok", "targeted-killing"]
 excerpt: "Abu Qasim was the senior Lashkar-e-Taiba commander and alleged Dhangri massacre mastermind, shot at point-blank range inside al-Qudus mosque in Rawalakot."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2013-03-01
+lang: en
 ---
-
 On a September evening in Rawalakot, Pakistan-Occupied Kashmir, Riyaz Ahmad knelt inside al-Qudus mosque for prayers. He had performed this ritual hundreds of times, in this same building, surrounded by fellow congregants who knew him as Abu Qasim, a senior Lashkar-e-Taiba operative responsible for coordinating militant infiltration across the Line of Control into the Indian districts of Poonch and Rajouri. Nine months earlier, gunmen he allegedly directed had entered three houses in a Hindu-majority village called Dhangri and opened fire on families as they settled in for the first evening of the new year, killing four people outright and setting an IED that would kill two children the following morning. A seventh victim died of injuries days later. The chain from Dhangri to al-Qudus mosque is the attack-to-elimination sequence in its most distilled form: a terror attack generated a target, intelligence agencies identified and located the target, and unknown gunmen executed the target inside a place of worship in territory Pakistan considers its own.
 
 <!--more-->
 
-![Abu Qasim Riyaz Ahmad Profile - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Abu Qasim Riyaz Ahmad Profile - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 Abu Qasim's killing is the single most operationally precise elimination documented in India's [shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). The attackers knew which mosque he attended, which prayer time brought him reliably to that location, and where he positioned himself within the congregation. They entered during prayers and shot him in the head at point-blank range. The precision required to execute this operation inside Pakistan-Occupied Kashmir, where the Pakistan Army maintains a dense security presence and outsiders are immediately conspicuous, reveals a depth of surveillance capability that goes beyond anything demonstrated in the Karachi or Lahore eliminations. Karachi offers urban anonymity; Lahore offers crowd cover. Rawalakot, a town of perhaps 50,000 people nestled in the hills less than thirty kilometers from the Line of Control, offers neither. Operating here required either deeply embedded local assets or an infiltration and exfiltration capability sophisticated enough to function in territory controlled by the Pakistan Army's 23rd Division.
 

@@ -6,17 +6,17 @@ date: 2013-05-07
 categories: ["Industry"]
 tags: ["muhammad-tahir-anwar", "masood-azhar", "jaish-e-mohammed", "mysterious-death", "shadow-war"]
 excerpt: "Muhammad Tahir Anwar, Masood Azhar's elder brother, died under mysterious circumstances in Pakistan, crossing the shadow war from organizational to personal."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2013-05-07
+lang: en
 ---
-
 Masood Azhar built Jaish-e-Mohammed from a prison cell's memory and a hijacked plane's ransom, converting his own release into an organization that would attack India's Parliament, its airbases, and its military convoys for the next quarter century. Across that span, Azhar depended on a family structure that doubled as a command hierarchy, with brothers, nephews, and in-laws holding positions that ranged from financial management to operational planning. When Muhammad Tahir Anwar, Azhar's elder brother and a figure embedded in JeM's organizational fabric, died under circumstances that Pakistani authorities described only as "mysterious," the [covert elimination campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) crossed a threshold it had not previously approached. Killing operatives sends a message about capability. Killing associates sends a message about reach. Killing a brother sends a message about intent, and that message is addressed not to an organization but to a single man.
 
 <!--more-->
 
-![Muhammad Tahir Anwar Masood Azhar Brother Profile - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Muhammad Tahir Anwar Masood Azhar Brother Profile - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The distinction matters because it reframes what kind of campaign this is. Every previous elimination in the [JeM-targeted sequence](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) followed a recognizable counter-terrorism logic: identify an operative with blood on his hands, locate him through intelligence preparation, and remove him through close-range gunfire. Zahoor Mistry was an IC-814 hijacker. Shahid Latif masterminded the Pathankot airbase assault. Dawood Malik ran operations through Lashkar-e-Jabbar in the tribal belt. Each target had a direct operational portfolio that justified his place on a target list. Tahir Anwar's case is different. His death did not come at the hands of motorcycle-borne gunmen on a Karachi street corner or masked shooters outside a Sialkot mosque. It arrived through circumstances so opaque that even Pakistani media, normally eager to assign blame, could only describe them as mysterious. That opacity is itself a form of communication, one that speaks not to the public but to the inner circle of a family that has spent decades believing it was untouchable.
 
