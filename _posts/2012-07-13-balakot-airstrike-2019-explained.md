@@ -6,17 +6,17 @@ date: 2012-07-13
 categories: ["Industry"]
 tags: ["balakot", "airstrike", "india-pakistan", "pulwama", "2019", "counter-terrorism"]
 excerpt: "How India struck deep inside Pakistani territory for the first time since 1971 with the Balakot airstrike, and permanently changed the strategic rules."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2012-07-13
+lang: en
 ---
-
 Twelve Indian Air Force Mirage 2000 jets crossed the Line of Control at approximately 0345 hours on February 26, 2019, flew over Pakistan-occupied Kashmir, and released five Israeli-made SPICE 2000 precision-guided bombs on a Jaish-e-Mohammed seminary near the town of Balakot in Khyber Pakhtunkhwa province. The operation, codenamed Bandar, lasted roughly twenty minutes from border crossing to the last aircraft's return into Indian airspace. Those twenty minutes broke a forty-eight-year barrier. Since the 1971 war, no Indian aircraft had struck inside undisputed Pakistani territory. The tactical outcome of Balakot remains contested; the strategic consequences do not. India had crossed a line that Pakistan believed would hold forever, and once crossed, the line could never be restored. Every escalation that followed, from the shadow war's acceleration to [Operation Sindoor's missile strikes](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/), became possible because Balakot established the precedent that Pakistani airspace is penetrable and that India is willing to penetrate it.
 
 <!--more-->
 
-![Balakot Airstrike 2019 India Pakistan - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Balakot Airstrike 2019 India Pakistan - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The Balakot airstrike cannot be understood in isolation. It sits at the intersection of four converging trajectories: the forty-year history of [Jaish-e-Mohammed's](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) attacks on Indian soil, the twelve-day crisis triggered by the Pulwama convoy bombing, India's evolving military doctrine after the [2016 surgical strikes](https://insightcrunch.com/2012/07/21/surgical-strikes-2016-explained/), and the nuclear-deterrence debate that constrains every India-Pakistan military interaction. Each trajectory shaped the decision to strike, the selection of targets, the choice of weapons, and the political calculus that determined how far India was willing to go. To understand Balakot is to understand how a democracy arrives at the decision to bomb a sovereign nation's territory, what it risks in doing so, and what it gains when the risk pays off, however partially.
 

@@ -6,17 +6,17 @@ date: 2013-05-19
 categories: ["Industry"]
 tags: ["jaish-e-mohammed", "comparison", "targeted-killings", "shadow-war", "counter-terrorism"]
 excerpt: "Comparing five JeM targeted eliminations from Zahoor Mistry to Tahir Anwar across organizational seniority, attack involvement, and strategic impacts."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2013-05-19
+lang: en
 ---
-
 Five Jaish-e-Mohammed operatives have been killed in Pakistan since March 2022, and the analytical question is not whether they were connected but why they were killed in the order they were. Zahoor Mistry, the IC-814 hijacker living under a false name in Karachi, fell first. Shahid Latif, the Pathankot airbase attack mastermind, fell second in a Sialkot mosque. Dawood Malik, Masood Azhar's tribal-belt affiliate in Lashkar-e-Jabbar, fell third in North Waziristan. Raheem Ullah Tariq, a Karachi-based Azhar associate, fell fourth. Muhammad Tahir Anwar, Azhar's own elder brother, died fifth under circumstances Pakistan has never adequately explained. The sequence, read as a sequence rather than as five isolated incidents, tells a story that no individual profile can tell on its own: a story of systematic organizational penetration that began at JeM's historical periphery and worked inward toward its founder's bloodline.
 
 <!--more-->
 
-![JeM Targets Compared - From Zahoor Mistry to Dawood Malik, How the Campaign Against Jaish-e-Mohammed Has Evolved](/assets/images/blog/blog-10.webp)
+![JeM Targets Compared - From Zahoor Mistry to Dawood Malik, How the Campaign Against Jaish-e-Mohammed Has Evolved](/assets/images/blog/blog-80.webp)
 
 The purpose of comparing these five cases is not to rank them by some abstract measure of importance. It is to answer a precise analytical question: does the JeM targeting sequence reveal a deliberate strategy, or does it reflect opportunistic strikes against whoever happened to be vulnerable at a given moment? The answer matters because it determines whether the campaign against Jaish-e-Mohammed is a systematic decapitation effort or a series of fortunate coincidences. Vipin Narang at MIT has argued that strategic targeting in counter-terrorism campaigns follows organizational logic rather than target availability, and the JeM sequence is perhaps the clearest test case for that argument in the contemporary era. Sushant Sareen at the Observer Research Foundation has mapped JeM's vulnerability points and concluded that the sequence tracks Azhar's organizational dependency chain with uncomfortable precision. If both are right, what happened to Jaish-e-Mohammed between 2022 and 2024 was not a scattering of independent kills but a coordinated campaign that read JeM's organizational chart and worked through it layer by layer.
 

@@ -6,17 +6,17 @@ date: 2012-06-03
 categories: ["Industry"]
 tags: ["pahalgam", "attack", "kashmir", "tourism", "operation-sindoor", "trf", "2025"]
 excerpt: "The Pahalgam tourist massacre in Baisaran Valley that killed 26 people, how TRF claimed and retracted responsibility, and how it triggered Operation Sindoor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2012-06-03
+lang: en
 ---
-
 On April 22, 2025, armed men emerged from the pine forests surrounding Baisaran Valley, a meadow roughly seven kilometers from the Kashmir hill station of Pahalgam in Anantnag district, and opened fire on tourists enjoying the peak spring season. Within approximately ninety minutes, twenty-six people lay dead, including twenty-five tourists from across India and Nepal and one local Kashmiri pony ride operator who tried to protect them. The gunmen, wearing military-style uniforms and carrying M4 carbines alongside AK-pattern rifles, reportedly sorted their victims by faith before pulling the trigger, a sectarian methodology that transformed the massacre from a regional security incident into a national trauma with geopolitical consequences that redrew the India-Pakistan relationship entirely.
 
 <!--more-->
 
-![Pahalgam Attack 2025 Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pahalgam Attack 2025 Explained - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 Pahalgam had long served as one of Kashmir's most iconic tourist destinations, a place synonymous with Himalayan beauty and the kind of fragile normalcy that Indian governments had worked to project since the revocation of Article 370 in August 2019. Baisaran Valley, locally called "Mini Switzerland," sits at an elevation of roughly 2,400 meters, surrounded on all sides by dense pine forests and accessible only on foot or horseback. Hundreds of tourists visited this meadow every day during the spring and summer months, drawn by snow-capped peaks, green pastures, and pony rides along forest trails. No armed security personnel guarded the meadow itself. The nearest CRPF base sat four to five kilometers away, reachable only by a muddy, rocky track that took forty to forty-five minutes to traverse on foot. This gap between the narrative of normalcy and the reality of vulnerability is where the Pahalgam massacre was conceived, planned, and executed.
 

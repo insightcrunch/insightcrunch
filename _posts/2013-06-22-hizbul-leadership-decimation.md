@@ -8,10 +8,10 @@ tags: ["hizbul-mujahideen", "leadership", "targeted-killings", "comparison", "sh
 excerpt: "How Hizbul Mujahideen's Pakistan-based command structure was systematically decimated through targeted killings, assessed from Peer to Raza and beyond."
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2013-06-22
+lang: en
 ---
-
 What does it mean when an armed organization loses its entire Pakistan-based leadership tier in a matter of weeks? Hizbul Mujahideen, Kashmir's oldest militant group, spent three decades building an exile command structure across Pakistani cities, from Rawalpindi to Karachi to the frontier provinces. Syed Salahuddin, the group's supreme commander and a US-designated global terrorist, presided over this structure from a Rawalpindi address that Pakistani authorities treated as a legitimate political office. Beneath him sat a network of launching chiefs, infiltration coordinators, recruiters, and field commanders who converted his fiery rhetoric into actual cross-border operations. By December 2023, this network had been reduced to names on a list of the dead, and the supreme commander found himself issuing orders to an organizational void.
 
 <!--more-->

@@ -6,17 +6,17 @@ date: 2013-07-13
 categories: ["Industry"]
 tags: ["hardeep-singh-nijjar", "khalistan-tiger-force", "canada", "targeted-killing", "diplomatic-crisis"]
 excerpt: "Profile of Hardeep Singh Nijjar, the Khalistan Tiger Force chief killed in Surrey, Canada, and how his killing triggered a severe India-Canada crisis."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2013-07-13
+lang: en
 ---
-
 On the evening of June 18, 2023, two masked gunmen approached a black pickup truck in the parking lot of the Guru Nanak Sikh Gurdwara on 120th Street in Surrey, British Columbia, and fired multiple rounds into the driver's seat, killing 45-year-old Hardeep Singh Nijjar, the president of the gurdwara and the man India's government had designated a terrorist three years earlier, the man Canada's Sikh community regarded as a spiritual leader and political advocate, and the man whose death would ignite the worst diplomatic confrontation between India and Canada in the seventy-five-year history of their bilateral relationship.
 
 <!--more-->
 
-![Hardeep Singh Nijjar Profile - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Hardeep Singh Nijjar Profile - Insight Crunch](/assets/images/blog/blog-27.webp)
 
 What made Nijjar's killing exceptional within [the broader shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) was not the method, which bore surface-level similarities to the motorcycle-borne shootings documented across Pakistan's cities, but the location. Surrey is not Karachi. British Columbia is not Sindh. Canada is a Five Eyes intelligence alliance member, a country with functional law enforcement, sovereign territorial protections, and the diplomatic leverage to punish foreign interference in ways that Pakistan cannot. Nijjar's case stands as the moment the campaign crossed a threshold that separated covert operations conducted inside an adversary state from covert operations conducted inside an ally's territory, and the consequences of that threshold crossing continue to reshape India's foreign relations years after the parking lot in Newton fell silent.
 

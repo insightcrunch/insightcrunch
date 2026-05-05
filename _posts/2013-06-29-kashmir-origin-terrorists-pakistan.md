@@ -6,17 +6,17 @@ date: 2013-06-29
 categories: ["Industry"]
 tags: ["kashmir", "pakistan", "loc", "hizbul-mujahideen", "targeted-killings", "shadow-war"]
 excerpt: "Mapping the fates of Kashmir-origin terrorists who crossed into Pakistan seeking sanctuary, their decades in exile, and how the shadow war found them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2013-06-29
+lang: en
 ---
-
 A generation of Kashmiri men crossed the Line of Control during the 1990s expecting safe passage into a new life. Pakistan's Inter-Services Intelligence had promised them weapons training, organizational support, and permanent sanctuary on the western side of the divide. For more than two decades, that promise held. Bashir Ahmad Peer lived openly in Rawalpindi, less than fifteen kilometers from ISI headquarters in Aabpara. Syed Khalid Raza settled into Karachi's dense neighborhoods, attending local mosques and maintaining contact with Syed Salahuddin's United Jihad Council. Syed Noor Shalobar operated from Khyber Pakhtunkhwa, collaborating directly with Pakistan Army officers who used him as a conduit for recruiting new fighters to infiltrate back across the LoC. These men were not hiding. They were living under the explicit protection of a nuclear-armed state, and they believed that protection was permanent. Starting in 2022, the sanctuary began eliminating them.
 
 <!--more-->
 
-![Kashmir-Origin Terrorists in Pakistan Shadow War Analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kashmir-Origin Terrorists in Pakistan Shadow War Analysis - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 The pattern that has emerged since then constitutes one of the most significant dimensions of India's [shadow war against terrorism](https://insightcrunch.com/2013/01/06/india-shadow-war-explained/). Kashmir-origin terrorists living in Pakistan are being tracked, located, and killed in cities across the country, from Rawalpindi's military cantonments to Karachi's sprawling neighborhoods to the villages and towns of Pakistan-Occupied Kashmir. The men who crossed the Line of Control seeking permanence found impermanence instead. Their fate reveals something fundamental about how the shadow war operates: it is not limited to the senior leadership of Lashkar-e-Taiba or Jaish-e-Mohammed. It extends to the Kashmiri exile community that provides organizational continuity, recruitment networks, and operational knowledge for cross-border infiltration. Understanding who these exiles are, where they settled, and what has happened to them since the campaign began is essential to grasping the full scope of what India's counter-terror doctrine now encompasses.
 

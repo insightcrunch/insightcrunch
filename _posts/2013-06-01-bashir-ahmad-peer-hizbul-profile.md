@@ -6,17 +6,17 @@ date: 2013-06-01
 categories: ["Industry"]
 tags: ["bashir-ahmad-peer", "imtiyaz-alam", "hizbul-mujahideen", "rawalpindi", "targeted-killing"]
 excerpt: "Bashir Ahmad Peer, Hizbul Mujahideen launching chief and India-designated terrorist, was killed by unknown gunmen outside a Rawalpindi shop in February 2023."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2013-06-01
+lang: en
 ---
-
 On a February evening in 2023, Bashir Ahmad Peer stepped outside a shop in Rawalpindi and was shot at point-blank range by an assailant whose identity remains officially undetermined. Peer, known within Hizbul Mujahideen circles by the alias Imtiyaz Alam and sometimes referred to simply as Haji, had been the outfit's launching commander in Pakistan for over fifteen years, responsible for identifying infiltration routes across the Line of Control, coordinating the dispatch of armed recruits into Kashmir's Kupwara sector, and maintaining the logistical pipeline that connected Syed Salahuddin's command structure to the operational theater in the Kashmir Valley. His killing in the garrison city of Rawalpindi, a city synonymous with Pakistan's military establishment, represents one of the most symbolically charged eliminations in the entire shadow war campaign, because it forced a question that Pakistan's security architecture cannot comfortably answer: if a designated terrorist can live and be killed in the city that houses Pakistan Army General Headquarters and the Inter-Services Intelligence directorate, then the safe haven is not merely penetrated; it is a fiction that no longer protects anyone.
 
 <!--more-->
 
-![Bashir Ahmad Peer Hizbul Mujahideen Commander Killed in Rawalpindi - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Bashir Ahmad Peer Hizbul Mujahideen Commander Killed in Rawalpindi - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 Peer's death arrived five months after the Indian government formally designated him a terrorist under the Unlawful Activities (Prevention) Act on October 4, 2022, and just twelve days before the National Investigation Agency would attach his property in Kupwara's Kralpora area, a sequence of events suggesting that Indian intelligence agencies considered him not a relic of 1990s militancy but an actively operational threat coordinating cross-border violence from the safety of his Pakistani exile. The NIA's property attachment on March 4, 2023, targeting immovable land measuring one kanal and thirteen marlas at Estate Batpora, Tehsil Kralpora, under the ownership of Bashir Ahmad Pir, son of late Mohammad Sikander Pir, served as a bureaucratic confirmation that the Indian state's interest in Peer did not end with his death but extended to dismantling the material infrastructure that sustained his exile operations. His funeral in Rawalpindi drew Syed Salahuddin himself, the US-designated Specially Designated Global Terrorist and supreme commander of Hizbul Mujahideen, whose presence at a Pakistan Army burial ground while ISI officers reportedly attended confirmed everything India has argued about [Pakistan's safe-haven network](https://insightcrunch.com/2012/05/19/pakistan-terror-safe-haven-network/) for three decades.
 
