@@ -9,7 +9,7 @@ excerpt: "Muhammad Tahir Anwar, Masood Azhar's elder brother, died under mysteri
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2013-05-07
+last_updated: 2026-05-05
 lang: en
 ---
 Masood Azhar built Jaish-e-Mohammed from a prison cell's memory and a hijacked plane's ransom, converting his own release into an organization that would attack India's Parliament, its airbases, and its military convoys for the next quarter century. Across that span, Azhar depended on a family structure that doubled as a command hierarchy, with brothers, nephews, and in-laws holding positions that ranged from financial management to operational planning. When Muhammad Tahir Anwar, Azhar's elder brother and a figure embedded in JeM's organizational fabric, died under circumstances that Pakistani authorities described only as "mysterious," the [covert elimination campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) crossed a threshold it had not previously approached. Killing operatives sends a message about capability. Killing associates sends a message about reach. Killing a brother sends a message about intent, and that message is addressed not to an organization but to a single man.

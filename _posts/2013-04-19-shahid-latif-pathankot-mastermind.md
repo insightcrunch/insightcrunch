@@ -9,7 +9,7 @@ excerpt: "Profile of Shahid Latif, the JeM commander who masterminded the 2016 P
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 56
 author: "andrew-price"
-last_updated: 2013-04-19
+last_updated: 2026-05-05
 lang: en
 ---
 Shahid Latif was the most well-documented attack-to-elimination case in India's covert campaign against terrorists sheltered on Pakistani soil. He masterminded the January 2016 assault on the Pathankot Indian Air Force base that killed seven Indian security personnel, an operation launched from the [border city of Sialkot](https://insightcrunch.com/2018/07/30/sialkot-jem-operations-hub/) where [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) maintained a forward operations hub barely fifteen kilometers from the international frontier. Seven years later, masked gunmen walked into a Sialkot mosque and shot Latif dead during prayers. Between those two events lies a chain that illuminates everything the shadow war represents: the attack creates the target, intelligence identifies the individual, diplomacy fails to deliver accountability, and the covert operation closes the file that Pakistan refused to open.

@@ -9,7 +9,7 @@ excerpt: "Abu Qasim was the senior Lashkar-e-Taiba commander and alleged Dhangri
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2013-03-01
+last_updated: 2026-05-05
 lang: en
 ---
 On a September evening in Rawalakot, Pakistan-Occupied Kashmir, Riyaz Ahmad knelt inside al-Qudus mosque for prayers. He had performed this ritual hundreds of times, in this same building, surrounded by fellow congregants who knew him as Abu Qasim, a senior Lashkar-e-Taiba operative responsible for coordinating militant infiltration across the Line of Control into the Indian districts of Poonch and Rajouri. Nine months earlier, gunmen he allegedly directed had entered three houses in a Hindu-majority village called Dhangri and opened fire on families as they settled in for the first evening of the new year, killing four people outright and setting an IED that would kill two children the following morning. A seventh victim died of injuries days later. The chain from Dhangri to al-Qudus mosque is the attack-to-elimination sequence in its most distilled form: a terror attack generated a target, intelligence agencies identified and located the target, and unknown gunmen executed the target inside a place of worship in territory Pakistan considers its own.

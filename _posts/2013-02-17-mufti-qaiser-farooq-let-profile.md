@@ -9,7 +9,7 @@ excerpt: "Complete profile of Mufti Qaiser Farooq, LeT founding member and Hafiz
 image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2013-02-17
+last_updated: 2026-05-05
 lang: en
 ---
 On September 30, 2023, Mufti Qaiser Farooq walked toward the Gulshan-e-Omar Madrasa in the Samanabad area of Karachi. He had done this countless times before. He was thirty years old, a founding member of Lashkar-e-Taiba, a close aide to Hafiz Saeed, and a man whose daily routine centered on the religious seminary that served as both his workplace and his operational base. He was not hiding. He was not living under a false identity. He was operating in full view, in a city of fifteen million people, under the theoretical protection of the Pakistani state. That openness killed him. Unknown gunmen shot Farooq in the back as he walked near the madrasa, and the CCTV cameras that captured his final seconds broadcast a message that Pakistan's security establishment has spent years trying to suppress: the people Hafiz Saeed built his empire with are being hunted, and the empire's own infrastructure is leading the hunters to their doors.

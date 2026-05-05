@@ -9,7 +9,7 @@ excerpt: "Comparing five JeM targeted eliminations from Zahoor Mistry to Tahir A
 image: "/assets/images/blog/blog-80.webp"
 reading_time: 50
 author: "robert-quinn"
-last_updated: 2013-05-19
+last_updated: 2026-05-05
 lang: en
 ---
 Five Jaish-e-Mohammed operatives have been killed in Pakistan since March 2022, and the analytical question is not whether they were connected but why they were killed in the order they were. Zahoor Mistry, the IC-814 hijacker living under a false name in Karachi, fell first. Shahid Latif, the Pathankot airbase attack mastermind, fell second in a Sialkot mosque. Dawood Malik, Masood Azhar's tribal-belt affiliate in Lashkar-e-Jabbar, fell third in North Waziristan. Raheem Ullah Tariq, a Karachi-based Azhar associate, fell fourth. Muhammad Tahir Anwar, Azhar's own elder brother, died fifth under circumstances Pakistan has never adequately explained. The sequence, read as a sequence rather than as five isolated incidents, tells a story that no individual profile can tell on its own: a story of systematic organizational penetration that began at JeM's historical periphery and worked inward toward its founder's bloodline.

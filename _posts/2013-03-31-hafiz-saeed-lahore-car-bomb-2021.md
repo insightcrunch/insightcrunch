@@ -9,7 +9,7 @@ excerpt: "Analysis of the June 2021 car bomb near Hafiz Saeed's Lahore residence
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2013-03-31
+last_updated: 2026-05-05
 lang: en
 ---
 On the morning of June 23, 2021, a car packed with an estimated twenty kilograms of explosives detonated on a residential street in Johar Town, Lahore, killing three people and injuring more than twenty others. The blast carved a crater four feet deep and eight feet wide into the asphalt, shattered windows across a hundred-foot radius, destroyed twelve parked vehicles, and collapsed sections of seven nearby houses. None of those facts, on their own, would distinguish this bombing from the dozens of other violent incidents Pakistan absorbs in any given year. What made the Johar Town detonation different, what elevated it from a local crime-page headline to a geopolitical inflection point, was the address. The car bomb exploded outside the residence of Hafiz Muhammad Saeed, the co-founder of [Lashkar-e-Taiba](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/), the mastermind of the [26/11 Mumbai attacks](https://insightcrunch.com/2012/05/04/26-11-mumbai-attack-complete-guide/) that killed 166 people, and arguably the most protected terrorist in Pakistan's history.

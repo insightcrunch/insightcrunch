@@ -9,7 +9,7 @@ excerpt: "Profile of Khwaja Shahid aka Mian Mujahid, the LeT commander and Sunju
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 71
 author: "gregory-marsh"
-last_updated: 2013-03-25
+last_updated: 2026-05-05
 lang: en
 ---
 Most targeted eliminations in Pakistan follow a recognizable signature: motorcycle-borne gunmen approach their target on foot or at a known location, fire at close range, and vanish into congested streets within seconds. Khwaja Shahid, known by his operational alias Mian Mujahid, broke that pattern in every conceivable dimension. He was not shot on a street corner or inside a mosque during prayers. He was kidnapped from the Neelum Valley of Pakistan-Occupied Kashmir, held for days while Pakistan's Inter-Services Intelligence and army scrambled to locate him, tortured extensively, beheaded, and dumped near the Line of Control alongside the body of another unidentified individual. His killing, confirmed in early November 2023, remains the single most violent deviation from the [standard modus operandi](https://insightcrunch.com/2013/01/09/modus-operandi-covert-eliminations/) that defines the broader campaign of covert eliminations on Pakistani soil, and it raises questions that no other case in the series forces the analyst to confront.

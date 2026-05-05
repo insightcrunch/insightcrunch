@@ -9,7 +9,7 @@ excerpt: "Comparative analysis of how the targeted elimination campaign has syst
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2013-04-06
+last_updated: 2026-05-05
 lang: en
 ---
 Somebody is climbing Lashkar-e-Taiba's organizational ladder, and the ascent is accelerating. Between 2022 and April 2026, at least eight LeT-affiliated figures have been killed or attacked by unknown gunmen across Pakistan, from Karachi's congested neighborhoods to the tribal corridors of Khyber Pakhtunkhwa, from the garrison towns of Punjab to the contested valleys of Pakistan-Occupied Kashmir. Taken individually, each killing looks like an isolated security incident in a country plagued by political violence. Taken together, the pattern tells a different story: the campaign began with mid-tier operatives, advanced to regional commanders, and arrived at co-founder level when Amir Hamza was shot in Lahore. The trajectory is not random. It is hierarchical. And the hierarchy has a ceiling that has not yet been tested.

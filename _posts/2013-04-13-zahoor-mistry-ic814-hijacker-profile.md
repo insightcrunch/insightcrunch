@@ -9,7 +9,7 @@ excerpt: "How Zahoor Mistry, IC-814 hijacker who murdered Rupin Katyal, lived as
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2013-04-13
+last_updated: 2026-05-05
 lang: en
 ---
 On March 1, 2022, two men on a motorcycle pulled up outside a furniture warehouse in Akhtar Colony, one of Karachi's dense residential neighborhoods wedged between the city's industrial sprawl and its southern coastline. They wore helmets and face coverings. One dismounted, walked into the warehouse belonging to Crescent Furniture, raised a 30-bore pistol, and fired twice into the head of the owner, a middle-aged man known to his neighbors and customers as Zahid Akhund Ghani. The second assailant waited outside, engine idling. Within seconds, both were gone, threading through Akhtar Colony's narrow lanes and vanishing into Karachi's ungovernable traffic. The man they left bleeding on the floor of his own furniture godown was rushed to a nearby hospital, where he was pronounced dead. Pakistani police recovered two spent 30-bore cartridges from the scene. CCTV footage captured the assailants conducting what appeared to be reconnaissance of the area before entering the warehouse. Pakistan's Geo TV reported the incident as the murder of a Karachi businessman, offering no further identification. What Geo TV did not report, and what Pakistani media were reportedly instructed not to publicize, was that Zahid Akhund Ghani was not a furniture dealer. His real name was Zahoor Ibrahim Mistry, and twenty-three years earlier, he had helped hijack Indian Airlines Flight IC-814.

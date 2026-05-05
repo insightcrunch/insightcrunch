@@ -9,7 +9,7 @@ excerpt: "How targeted eliminations from Karachi to Waziristan are systematicall
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
 author: "gregory-marsh"
-last_updated: 2013-05-13
+last_updated: 2026-05-05
 lang: en
 ---
 Masood Azhar built Jaish-e-Mohammed from a prison cell's promise into Pakistan's most operationally lethal terror organization, but the network he spent two decades constructing is now being disassembled with surgical precision, one commander at a time, across cities and provinces he once considered impregnable sanctuaries.

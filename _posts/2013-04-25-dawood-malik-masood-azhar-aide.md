@@ -9,7 +9,7 @@ excerpt: "Profile of Dawood Malik, close aide to JeM founder Masood Azhar and La
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2013-04-25
+last_updated: 2026-05-05
 lang: en
 ---
 On a Friday morning in October 2023, masked gunmen walked into a private clinic in the Mirali area of North Waziristan, Pakistan's most volatile tribal district, and shot dead Dawood Malik, the founder of the Lashkar-e-Jabbar terror outfit and one of the closest associates of [Jaish-e-Mohammed](https://insightcrunch.com/2012/01/05/jaish-e-mohammed-complete-guide/) founder Masood Azhar. The attackers escaped immediately after the killing, vanishing into the narrow streets and dust-choked alleyways of a town where the Pakistan Army maintains checkpoints every few hundred meters, where tribal codes of hospitality and revenge govern daily life more than any national law, and where outsiders are noticed, questioned, and remembered. That Malik could be hunted and killed in this environment, a landscape where even Pakistani military convoys move with armed escorts, represents something far more significant than the elimination of a single terror operative. It represents the geographic expansion of a campaign that had previously operated in Pakistan's cities, reaching into the country's most remote and lawless region to find its targets.

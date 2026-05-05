@@ -9,7 +9,7 @@ excerpt: "Profile of Sardar Hussain Arain, the Jamaat-ud-Dawa figure who ran LeT
 image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2013-02-23
+last_updated: 2026-05-05
 lang: en
 ---
 Sardar Hussain Arain was not a fugitive hiding in a Karachi safe house or a commander directing cross-border infiltrations from a bunker in Punjab. He was a man who ran shops in Qazi Ahmed town, organized rallies for Jamaat-ud-Dawa in the open streets of Shaheed Benazirabad District, contested a provincial assembly seat on the ticket of Lashkar-e-Taiba's political front in the 2018 general elections, and expanded a network of religious seminaries across rural Sindh that funneled young recruits toward radicalization and, in some cases, toward the armed wings of Pakistan's most dangerous anti-India groups. On August 1, 2023, unknown assailants shot Arain while he traveled from his residence to one of his shops in Qazi Ahmed, a small city in what was formerly called Nawabshah District. He was taken to a local hospital, then transferred to a private facility in Karachi where he was placed on a ventilator. Four days later, on August 5, he died from his injuries, and the Sindhudesh Revolutionary Army, a proscribed Sindhi separatist group, claimed responsibility for the killing, making Arain's case the only one in the targeted elimination series where a non-state actor with no apparent connection to India publicly took credit.

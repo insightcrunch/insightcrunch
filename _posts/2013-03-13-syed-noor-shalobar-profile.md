@@ -9,7 +9,7 @@ excerpt: "Syed Noor Shalobar built the recruitment pipeline that converted ISI s
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2013-03-13
+last_updated: 2026-05-05
 lang: en
 ---
 Syed Noor Shalobar was not a field commander who led fighters into battle. He was not a bomb maker who assembled explosive devices in safe houses. He was not the kind of terrorist whose name appears in headlines after a spectacular attack. Shalobar was something far more dangerous to India's security establishment: he was a recruiter, a man who identified vulnerable young men in the Kashmir Valley, arranged their transport across the Line of Control into Pakistan, shepherded them through radicalization and weapons training in ISI-linked seminaries and camps, and sent them back as operational fighters ready to kill. When unknown gunmen shot Shalobar dead in the Bara area of Khyber Pakhtunkhwa's Khyber District on March 5, 2023, they did not merely eliminate one terrorist. They struck at the human pipeline that converts Pakistan's state-sponsored strategy into boots on the ground in Indian territory, targeting the system at its most critical conversion point.

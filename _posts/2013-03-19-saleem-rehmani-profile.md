@@ -9,7 +9,7 @@ excerpt: "Profile of Saleem Rehmani, an India-designated wanted terrorist shot d
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2013-03-19
+last_updated: 2026-05-05
 lang: en
 ---
 Saleem Rehmani, alias Abu Saad, was shot dead by unidentified gunmen in Nawabshah, Sindh, in January 2022. At the time, Pakistani police treated the incident as a routine armed robbery gone wrong at a commercial mart in the Taj Colony neighborhood. Local media reported three armed men entering the premises, a brief exchange of fire, and two bodies carried to the Peoples Medical Hospital. Rehmani's name appeared on India's list of wanted individuals accused of conspiracy to radicalize, motivate, and recruit youth in Jammu and Kashmir for violence against the Indian state. His killing was one of the first data points in what would become a recognizable pattern of targeted eliminations of India-wanted individuals on Pakistani soil, a [systematic campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) that has now claimed dozens of lives across multiple Pakistani cities and provinces.
