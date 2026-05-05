@@ -6,17 +6,17 @@ date: 2013-10-14
 categories: ["Industry"]
 tags: ["india", "israel", "mossad", "raw", "covert-operations", "comparison", "targeted-killings"]
 excerpt: "Comparing India's shadow war with Mossad's targeted killings across eight dimensions, revealing what the parallels and gaps expose about state doctrine."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2013-10-14
+lang: en
 ---
-
 Two democracies separated by geography, religion, and colonial history arrived at the same conclusion independently: that terrorists sheltered on foreign soil can be killed there, that the killing can be denied or semi-acknowledged depending on domestic political needs, and that the strategic benefits of eliminating enemy combatants outweigh the diplomatic and legal risks. Israel reached this conclusion after the Munich Olympics massacre of 1972, when Golda Meir authorized [Operation Wrath of God](https://insightcrunch.com/2019/01/07/mossad-operation-wrath-of-god/) to hunt Black September operatives across Europe. India reached the same conclusion decades later, after the Pahalgam massacre and the long chain of provocations stretching back to the IC-814 hijacking of 1999. Both programs target specific individuals. Both use deniable methods. Both operate on foreign soil. Yet the two doctrines diverge in ways that illuminate not just how democracies fight terrorism, but how they account for that fighting to their own citizens.
 
 <!--more-->
 
-![India vs Israel Covert Ops Compared - Insight Crunch](/assets/images/blog/blog-15.webp)
+![India vs Israel Covert Ops Compared - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The analytical question is precise: across which dimensions do India's [shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) and Israel's targeted killing program converge, across which do they diverge, and what does each point of convergence or divergence reveal about the relationship between democracy, secrecy, and state violence? This is not a question that opinion columns have answered systematically. Brief comparisons exist, usually noting the obvious parallel (both countries kill terrorists abroad) before moving to commentary. No existing analysis compares the two programs across multiple structured dimensions using specific operational evidence. That is what this article provides: an eight-dimension comparative framework covering target-selection criteria, operational methods, attribution policy, domestic legal architecture, international legal justification, media relationships, diplomatic consequence management, and strategic effectiveness. Each dimension holds both programs in the same analytical frame simultaneously, because a comparison that profiles one program and then the other with a bridging paragraph is not a comparison at all.
 

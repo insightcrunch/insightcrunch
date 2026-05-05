@@ -6,17 +6,17 @@ date: 2013-09-04
 categories: ["Industry"]
 tags: ["mosque", "prayer-time", "targeting", "modus-operandi", "shadow-war", "pattern-analysis"]
 excerpt: "Examining why mosques and prayer times have become the most reliable targeting window for covert eliminations, and what this pattern reveals about surveillance."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2013-09-04
+lang: en
 ---
-
 Muhammad Riaz, known to Indian intelligence as Abu Qasim, knelt in the second row of Al-Quds mosque in Rawalakot, Pakistan-occupied Kashmir, for Fajr prayers on September 8, 2023. A man wearing trousers, a shirt, and a helmet walked into the congregation, positioned himself behind Qasim, and fired four bullets into his head at point-blank range. A second man waited on the mosque's veranda. The two fled together before the prayer leader, Qari Amjad Hashmi, could process what had happened. Qasim died on the floor of the mosque where he had slept overnight as a guest of the imam, scheduled to leave later that Friday morning. He had crossed into Pakistan-occupied Kashmir from India in 1999, risen through Lashkar-e-Taiba's command structure to become the alleged mastermind of the January 2023 Dhangri village massacre in Rajouri district that killed seven civilians, and spent twenty-four years believing that the mosques of PoK placed him beyond the reach of consequence. The four bullets that struck him during Fajr prayer proved that belief fatally wrong.
 
 <!--more-->
 
-![Mosque and Prayer Time Targeting Pattern - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Mosque and Prayer Time Targeting Pattern - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Qasim's killing inside Al-Quds mosque was not an isolated act of violence. It belongs to a distinct pattern within India's [shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) that has unfolded across Pakistani cities since 2021, a pattern in which mosques and prayer times have become the single most reliable targeting window for the elimination of wanted terrorists. Before Qasim's death in September 2023, Jaish-e-Mohammed's Zahoor Ibrahim Mistry had reportedly been killed during prayers in Karachi in March 2022. After Qasim, Shahid Latif, the Pathankot airbase attack mastermind and JeM launching commander in Sialkot, was gunned down alongside his security guard and a prayer leader while offering prayers at a mosque in Daska on October 11, 2023. Intelligence sources confirmed to The Tribune that before Latif's killing, "JeM's Ibrahim Mistry, Hizbul Mujahideen's Imtiaz Alam, and Lashkar-e-Taiba's Abu Qasim had been killed during prayers." The recurrence is too consistent to be coincidental. Prayer times and religious congregations have become the operational cornerstone of the campaign because they solve the hardest problem in targeted killing: locating a target whose entire existence revolves around evading detection.
 

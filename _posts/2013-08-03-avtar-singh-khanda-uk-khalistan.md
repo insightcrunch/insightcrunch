@@ -6,17 +6,17 @@ date: 2013-08-03
 categories: ["Industry"]
 tags: ["avtar-singh-khanda", "khalistan", "uk", "birmingham", "targeted-killing"]
 excerpt: "Profile of Avtar Singh Khanda, the UK-based KLF chief and Amritpal Singh handler who led the Indian High Commission vandalism and died in a Birmingham hospital."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2013-08-03
+lang: en
 ---
-
 Avtar Singh Khanda died on June 15, 2023, at City Hospital in Birmingham, aged thirty-five, after what medical reports described as acute myeloid leukemia diagnosed only four days earlier. He was the self-proclaimed chief of the Khalistan Liberation Force in the United Kingdom, the son of a slain KLF militant, the man Indian agencies credited with masterminding the March 2023 assault on the Indian High Commission in London, and the handler who groomed Amritpal Singh into the figurehead of Waris Punjab De. His death, whether by cancer or by something the cancer was designed to conceal, expanded the geography of suspicion from Pakistan and Canada into a third country: the United Kingdom. If the targeted killings of Paramjit Singh Panjwar in [Lahore](https://insightcrunch.com/2013/07/06/paramjit-singh-panjwar-kcf-chief/) and Hardeep Singh Nijjar in [Surrey, Canada](https://insightcrunch.com/2013/07/13/hardeep-singh-nijjar-ktf-canada/) proved that the campaign against India's most-wanted extended beyond Pakistan's borders and beyond Kashmir-focused organizations, Khanda's death in Birmingham raised the question of whether it extended to British soil and to a man whose operational role was radicalization rather than violence.
 
 <!--more-->
 
-![Avtar Singh Khanda UK Khalistan Profile - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Avtar Singh Khanda UK Khalistan Profile - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 The case of Avtar Singh Khanda is the most attribution-uncertain episode in the entire Khalistan subset of India's shadow war. Panjwar was shot by unidentified gunmen during a morning walk. Nijjar was gunned down in a parking lot outside a gurdwara. Harvinder Singh Rinda died in a [Lahore hospital under circumstances](https://insightcrunch.com/2013/07/27/harvinder-singh-rinda-khalistan/) that defied easy explanation. Khanda's death, by contrast, came with a medical diagnosis, a named disease, and a British police force that concluded there were "no suspicious circumstances." Five British blood cancer specialists examined the clinical trajectory and confirmed that acute myeloid leukemia can progress from apparent health to death within days, consistent with what happened to Khanda. Yet the timing, three days before Nijjar's assassination in Canada, the preceding months of Indian media demonization naming Khanda as India's "most wanted" in the UK, and the rapid appearance of Indian social media accounts celebrating his hospitalization before any public reporting of his illness created a circumstantial cloud that no medical report could fully disperse. Khanda's story is less about whether India killed him and more about what his life and activities reveal about the United Kingdom as an operational base for Khalistan separatist terrorism, a safe haven that functions on principles entirely different from the Pakistani sanctuary that shelters jihadist organizations.
 

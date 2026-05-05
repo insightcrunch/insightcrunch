@@ -6,17 +6,17 @@ date: 2013-10-06
 categories: ["Industry"]
 tags: ["canada", "nijjar", "pannun", "khalistan", "shadow-war", "diplomatic-crisis", "counter-terrorism"]
 excerpt: "Three targeted killings on Canadian soil turned a Five Eyes partner into the shadow war's costliest secondary theater, triggering a full diplomatic war."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2013-10-06
+lang: en
 ---
-
 Canada is not Pakistan. That single observation contains the analytical puzzle at the center of three targeted killings that transformed a trusted Western ally into the most diplomatically explosive theater of India's shadow war against terrorism. Between July 2022 and September 2023, three men connected to Khalistan separatism were killed on Canadian soil in circumstances ranging from a contract-style hit outside a Surrey business park to a gurdwara parking lot ambush to a duplex shooting in suburban Winnipeg. Ripudaman Singh Malik, Hardeep Singh Nijjar, and Sukhdool Singh Gill (known as Sukha Duneke) share a common denominator: all three were figures on India's security radar, all three died violently in Canadian cities, and all three killings generated consequences that no operation on Pakistani soil ever produced. The question this article answers is not whether these three cases are connected, because the attribution evidence varies dramatically across all three. The question is what placing them side by side reveals about the campaign's reach, its risk calculus, and the price India paid for operating, or allegedly operating, inside a Five Eyes nation with functional law enforcement, advanced signals intelligence, and the diplomatic leverage that Pakistan could never muster.
 
 <!--more-->
 
-![Canada as Shadow War's Secondary Theater - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Canada as Shadow War's Secondary Theater - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 Every previous theater of the shadow war operated under conditions that minimized blowback. In Pakistan's Karachi, Lahore, and Rawalpindi, [the campaign proceeded](https://insightcrunch.com/2013/01/14/india-shadow-war-against-terror-explained/) with a rhythm that became almost predictable: motorcycle-borne gunmen, mid-day or post-prayer timing, rapid escape into dense urban traffic, no claims of responsibility, and Pakistani investigations that produced neither arrests nor accountability. The targets were universally designated terrorists, men with UN sanctions listings, NIA charge sheets, and documented involvement in mass-casualty attacks on Indian soil. When Pakistan protested, the protests carried the weight of a country that had sheltered the same men for decades while collecting billions in American counter-terrorism aid. The international community's response to killings in Pakistan ranged from silence to implicit acceptance. Canada changed all of that. When Hardeep Singh Nijjar was shot dead in the parking lot of the Guru Nanak Sikh Gurdwara in Surrey, British Columbia, on June 18, 2023, and when Prime Minister Justin Trudeau stood in Parliament three months later to accuse India of involvement, the shadow war collided with a force it had never encountered in its Pakistani operations: a Western democracy with the institutional capacity to investigate, the diplomatic standing to confront New Delhi publicly, and membership in the Five Eyes intelligence-sharing alliance that gave Ottawa access to signals intelligence Canada alone could not have produced.
 

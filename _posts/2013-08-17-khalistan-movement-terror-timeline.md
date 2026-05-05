@@ -6,17 +6,17 @@ date: 2013-08-17
 categories: ["Industry"]
 tags: ["khalistan", "timeline", "air-india", "nijjar", "panjwar", "terrorism", "canada"]
 excerpt: "Four decades of Khalistan-linked terrorism from the Air India bombing of 1985 to Nijjar's killing in 2023 and the global diplomatic fallout it caused."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2013-08-17
+lang: en
 ---
-
 Khalistan separatism has produced terrorism across four decades, three continents, and at least five countries, leaving a trail of wreckage that stretches from the shattered fuselage of Air India Flight 182 in the Atlantic Ocean to the bullet-riddled parking lot of a Surrey, British Columbia gurdwara where Hardeep Singh Nijjar fell in June 2023, and every act of violence along that forty-year arc connects to the same unresolved question: whether the demand for a Sikh homeland justifies the blood spilled in its name, and whether the states that sheltered the men who spilled it will ever face consequences proportional to their complicity.
 
 <!--more-->
 
-![Khalistan Movement Terror Timeline - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Khalistan Movement Terror Timeline - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 That question has now received a partial answer. Between 2022 and 2023, a series of targeted killings struck Khalistan-linked figures across Pakistan and Canada, eliminating men who had lived freely for decades under the protection of foreign intelligence services and diaspora networks. Paramjit Singh Panjwar, chief of the [Khalistan Commando Force](https://insightcrunch.com/2012/03/11/khalistan-commando-force-explained/), was shot dead during a morning walk near his Lahore residence in May 2023, three decades after fleeing India. Hardeep Singh Nijjar, chief of the [Khalistan Tiger Force](https://insightcrunch.com/2012/03/17/khalistan-tiger-force-explained/), was gunned down outside his Surrey gurdwara a month later, triggering the worst India-Canada diplomatic crisis in history. Ripudaman Singh Malik, acquitted in the Air India bombing trial but never free from suspicion, was killed by unknown gunmen in the same Canadian city a year earlier. These killings did not emerge from nowhere. They are the latest chapter in a narrative that began when Jarnail Singh Bhindranwale walked into the Golden Temple in Amritsar and dared the Indian state to come get him.
 
