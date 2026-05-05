@@ -6,17 +6,17 @@ date: 2015-11-01
 categories: ["Leisure"]
 tags: ["italian-unification", "risorgimento", "giuseppe-garibaldi", "camillo-cavour", "nineteenth-century", "medieval-history"]
 excerpt: "The Risorgimento achieved Italian political unification through Cavour's diplomacy and Garibaldi's campaigns, but creating a country is not creating a nation."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
-author: "chloe-martin"
+author: "Insight Crunch Team"
 last_updated: 2015-11-01
-lang: en
 ---
+
 In 1861, the Kingdom of Italy was proclaimed in Turin, and a peninsula that had been fragmented into approximately nine separate governing entities since the fall of the Roman Empire suddenly became a single country. The achievement was extraordinary. Three men whose names now appear on every Italian piazza and boulevard, Camillo Benso di Cavour, Giuseppe Garibaldi, and Giuseppe Mazzini, had produced through diplomacy, guerrilla warfare, and ideological fervor what centuries of foreign domination had made seem permanently impossible. The moment carried genuine weight: a peninsula whose governmental disunity had been the defining feature of its post-Roman existence was now, formally, one country. Massimo d'Azeglio, the Piedmontese statesman who had helped lay the groundwork for the Risorgimento, reportedly offered a verdict at the moment of triumph that captured something the celebrations missed: "We have made Italy; now we must make Italians." Whether d'Azeglio actually said it remains debated, but the observation, whoever first articulated it, identified the central problem of Italian history for the next century and beyond.
 
 <!--more-->
 
-![Unification of Italy The Risorgimento - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Unification of Italy The Risorgimento - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The Risorgimento, the "resurgence" or "rising again" that produced the Italian kingdom between 1815 and 1871, is most commonly taught through the heroic frame. Garibaldi sails with his Thousand, Cavour outmaneuvers the Austrians through French alliance, Mazzini inspires a generation with republican passion, Vittorio Emanuele II becomes the first king of a united Italy. The heroic frame is not false. Each of these figures did consequential things, and their actions produced a kingdom that would not have existed without them. But the heroic frame systematically misses the central analytical problem: the Risorgimento created a formal governmental entity without creating a substantive national community. The linguistic, economic, administrative, and cultural divisions that characterized the pre-1861 peninsula persisted for decades after the proclamation of the kingdom, and some of them persist into the present. Lucy Riall's revisionist scholarship, particularly her 2009 synthesis *Risorgimento: The History of Italy from Napoleon to Nation State*, has documented this gap between institutional achievement and national reality with precision. Denis Mack Smith's classical treatments of Cavour, Garibaldi, and Mazzini provide the biographical depth. Christopher Duggan's *The Force of Destiny* (2007) addresses the broader trajectory. The article that follows draws on all three traditions to reconstruct what the Risorgimento accomplished, what it failed to accomplish, and what the gap between the two reveals about the relationship between states and nations.
 

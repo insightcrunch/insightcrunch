@@ -4,18 +4,18 @@ title: "The French Revolution Explained"
 page_title: "The French Revolution Explained - Bastille, Terror, Napoleon, and How France Destroyed a Monarchy and Accidentally Invented Modern Politics"
 date: 2015-09-07
 last_updated: 2025-05-15
-author: "insight-crunch-team"
+author: "Insight Crunch Team"
 excerpt: "The French Revolution's decisive phase permanently ended European monarchical legitimacy as the default, and its consequences far outran all intentions."
 tags: ["french-revolution", "european-history", "bastille", "napoleon", "world-history"]
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 56
-lang: en
 ---
+
 The French Revolution permanently ended the assumption that kings ruled by divine right across Europe, and the consequences of that rupture shaped every political order that followed. Between the convening of the Estates-General in May 1789 and Napoleon Bonaparte's seizure of power in November 1799, France destroyed a monarchy, invented modern republican politics, produced the first modern declaration of universal rights, executed a king, unleashed state-sponsored mass killing in the name of virtue, and generated a military-political leader whose campaigns would redraw the map of an entire continent. No single decade in recorded history compressed more political transformation into less time, and no single event's consequences traveled further from the intentions of the people who set it in motion.
 
 <!--more-->
 
-![The French Revolution Explained - Insight Crunch](/assets/images/blog/blog-30.webp)
+![The French Revolution Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 What makes the Revolution intellectually demanding is not the scale of its violence, though that scale was enormous. What makes it demanding is that the violence and the liberation came from the same source, that the Declaration of the Rights of Man and the Reign of Terror were produced by the same political process, and that the Revolution's failures shaped Europe as decisively as its triumphs. The namable claim this analysis advances is direct: the French Revolution's consequences outran its intentions, and the Revolution's failures shaped Europe as much as its successes. The Terror was not an aberration of the revolutionary project. It was an outcome that the revolutionary project's own internal logic made possible, and both the Terror and the Declaration became permanent features of European political life. Understanding why requires tracing the Revolution phase by phase, decision by decision, and consequence by consequence, from the fiscal collapse that produced the Estates-General through the Napoleonic settlement that closed the revolutionary decade and opened the century that followed.
 

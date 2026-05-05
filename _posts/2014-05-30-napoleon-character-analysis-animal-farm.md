@@ -6,17 +6,17 @@ date: 2014-05-30
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "napoleon", "character-analysis", "literary-analysis", "political-allegory"]
 excerpt: "Napoleon in Animal Farm is specifically Stalin, not just a generic tyrant. Orwell's allegory traces precise 1917-1943 Soviet events chapter by chapter."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
-author: "sophia-turner"
+author: "Insight Crunch Team"
 last_updated: 2014-05-30
-lang: en
 ---
+
 Napoleon is the pig who becomes dictator of Animal Farm, and he is specifically Joseph Stalin. That identification is not a loose analogy or a classroom shorthand; it is the allegorical architecture of the entire novel, traceable chapter by chapter from the 1917 October Revolution through the 1943 Tehran Conference. George Orwell (1903-1950) built every major Napoleon episode to correspond to a documented Stalin-era event, and treating Napoleon as a generic symbol of tyranny dilutes the precise historical argument Orwell was making. The pig is not charismatic, not brilliant, not even particularly brave. He is the animal who understands that controlling the dogs and controlling Squealer is all any dictator actually needs.
 
 <!--more-->
 
-![Napoleon Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Napoleon Character Analysis in Animal Farm - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 Orwell composed Animal Farm between November 1943 and February 1944, during the exact period when Stalin's Soviet Union was being publicly celebrated as Britain's indispensable wartime ally. The book's difficulty in finding a publisher, documented extensively in Bernard Crick's 1980 biography George Orwell: A Life, resulted directly from the political climate: Jonathan Cape, Victor Gollancz, Faber and Faber (where T. S. Eliot wrote the rejection letter), and the Dial Press in America all declined the manuscript because criticizing Stalin while Russia was fighting Hitler felt diplomatically reckless. Orwell's 1945 preface, suppressed until 1972 and subsequently published in full in Peter Davison's twenty-volume Complete Works of George Orwell (1998), makes the target explicit: the novel was an attack on the Stalinist corruption of socialist ideals, written by a democratic socialist who had witnessed Stalinist methods firsthand during the Spanish Civil War. Reading Napoleon without reading Stalin is reading the vehicle without the tenor, and the allegory collapses into a fable about bad leadership when it was designed as a forensic account of how one particular leader betrayed one particular revolution through identifiable institutional mechanisms.
 

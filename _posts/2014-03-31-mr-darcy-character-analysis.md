@@ -6,17 +6,17 @@ date: 2014-03-31
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "mr-darcy", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Mr. Darcy is not a proud man reformed by love. He is a propertied gentleman who reassesses Elizabeth Bennet's class position without revising his values."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "megan-clark"
+author: "Insight Crunch Team"
 last_updated: 2014-03-31
-lang: en
 ---
+
 Fitzwilliam Darcy is not a romantic hero who learns to be less proud. He is a man whose ten thousand pounds a year and ownership of Pemberley place him in a position where rudeness costs him nothing and politeness is a gift he can choose to bestow. His arc across Pride and Prejudice is not a journey from arrogance to humility but a reassessment of Elizabeth Bennet's rank compatibility once he gathers better evidence about her family connections. The difference between these two readings, the romantic-transformation version and the class-reassessment version, is the difference between reading Austen as a love story and reading her as the forensic class analyst she actually was. Claudia Johnson's scholarship on Austen's political intelligence and Tony Tanner's reading of the marriage market both point toward the class-reassessment interpretation that the popular reception, shaped by Colin Firth's wet shirt more than by Austen's prose, has progressively obscured.
 
 <!--more-->
 
-![Mr. Darcy Character Analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Mr. Darcy Character Analysis - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The namable claim this analysis advances is precise: Darcy does not learn that class is irrelevant. He learns that the Bennets were more compatible with his world than he had assumed at Meryton. His behavioral softening is real and documented across the text. His ideological revision is absent, and the absence is analytically significant. Separating what changes in Darcy from what remains fixed is the original move this analysis makes, and it produces a portrait more complex and more historically grounded than the romantic simplification that two centuries of popular reception have built around him. For readers working through the full architecture of Austen's marriage-market critique, our [comprehensive Pride and Prejudice analysis](https://insightcrunch.com/2014/03/21/complete-analysis-pride-and-prejudice/) provides the structural frame within which every character analysis operates.
 

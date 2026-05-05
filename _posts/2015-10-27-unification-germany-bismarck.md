@@ -6,17 +6,17 @@ date: 2015-10-27
 categories: ["Leisure"]
 tags: ["german-unification", "otto-von-bismarck", "prussian-wars", "nineteenth-century", "germany-history", "medieval-history"]
 excerpt: "German unification was not inevitable. Bismarck's three calculated wars between 1864 and 1871 produced a Prussian-led empire that closed off alternatives."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "rachel-foster"
+author: "Insight Crunch Team"
 last_updated: 2015-10-27
-lang: en
 ---
+
 German unification was produced, not discovered. Otto von Bismarck fought three wars between 1864 and 1871, each calculated to close off one of the plausible alternative futures for the German-speaking lands of Central Europe. By the time the Prussian king accepted the imperial crown at Versailles in January 1871, the Greater Germany option that would have included Austria was dead, the liberal-democratic option that the Frankfurt Parliament had attempted in 1848 was buried, and the possibility that the thirty-nine separate German states might simply continue as a loose confederation had been rendered unthinkable by military force. Bismarck did not ride a wave of nationalism to its natural conclusion. He constructed the wave, steered it, and decided where it would break.
 
 <!--more-->
 
-![Unification of Germany Under Bismarck - Insight Crunch](/assets/images/blog/blog-39.webp)
+![Unification of Germany Under Bismarck - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The conventional telling treats German unification as an inevitable process driven by economic integration, cultural nationalism, and the logic of modernization. Textbooks describe the Zollverein customs union as a stepping stone, nationalist intellectuals as the architects, and Bismarck as the executor of a process already underway. Jonathan Steinberg's *Bismarck: A Life* (2011) and Christopher Clark's *Iron Kingdom* (2006) expose this framing as retrospective. Unification was contingent at every stage. Bismarck's specific diplomatic and military choices at each juncture foreclosed alternatives that remained plausible until his intervention made them impossible. The story of German unification is the story of one man's capacity to bend an entire continent's geography to his will, and the consequences of that bending reverberated through 1914, through 1945, and into the present.
 
