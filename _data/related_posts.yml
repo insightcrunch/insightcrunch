@@ -73,12 +73,6 @@ sat-business-programs-scores:
   category: industry
   image: /assets/images/blog/blog-28.webp
   lang: en
-- slug: personal-finance-guide-india
-  title: 'Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS & Tax'
-  url: /2025/06/14/personal-finance-guide-india/
-  category: industry
-  image: /assets/images/blog/blog-51.webp
-  lang: en
 sat-premed-science-scores:
 - slug: how-colleges-use-sat-scores-in-admissions
   title: How Colleges Actually Use SAT Scores in Admissions Decisions
@@ -558,12 +552,6 @@ sat-exam-day-mistakes:
   url: /2021/01/26/how-to-improve-sat-math-score-by-100-points/
   category: industry
   image: /assets/images/blog/blog-30.webp
-  lang: en
-- slug: sat-preparation-guide-for-indian-students
-  title: 'SAT Guide for Indian Students: Registration to College Admission'
-  url: /2020/09/12/sat-preparation-guide-for-indian-students/
-  category: industry
-  image: /assets/images/blog/blog-48.webp
   lang: en
 sat-score-prediction:
 - slug: best-free-sat-preparation-resources
@@ -4643,7 +4631,94 @@ upsc-civil-services-complete-guide:
   category: industry
   image: /assets/images/blog/blog-42.webp
   lang: en
+hitler-declares-war-on-us-december-1941:
+- slug: barbarossa-hitler-june-22-1941-invasion
+  title: 'Barbarossa: Hitler''s June 22 1941 Invasion'
+  url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: fall-of-france-manstein-sickle-cut-may-1940
+  title: 'Fall of France: Manstein''s May 1940 Sickle Cut'
+  url: /2006/11/11/fall-of-france-manstein-sickle-cut-may-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: pearl-harbor-yamamoto-december-1941-decision
+  title: 'Pearl Harbor: Yamamoto''s December 1941 Strike'
+  url: /2006/11/22/pearl-harbor-yamamoto-december-1941-decision/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: churchill-becomes-pm-may-10-1940
+  title: 'Churchill Becomes PM: May 10 1940 War Cabinet'
+  url: /2006/11/06/churchill-becomes-pm-may-10-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+churchill-becomes-pm-may-10-1940:
+- slug: fall-of-france-manstein-sickle-cut-may-1940
+  title: 'Fall of France: Manstein''s May 1940 Sickle Cut'
+  url: /2006/11/11/fall-of-france-manstein-sickle-cut-may-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: hitler-declares-war-on-us-december-1941
+  title: 'Hitler Declares War on US: December 11 1941'
+  url: /2006/10/31/hitler-declares-war-on-us-december-1941/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: d-day-eisenhower-june-5-1944-go-decision
+  title: 'D-Day: Eisenhower''s June 5 1944 Go Decision'
+  url: /2006/11/28/d-day-eisenhower-june-5-1944-go-decision/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: winston-churchill-ww2-leadership
+  title: Winston Churchill's Leadership in WWII
+  url: /2016/03/05/winston-churchill-ww2-leadership/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
+  lang: en
+fall-of-france-manstein-sickle-cut-may-1940:
+- slug: churchill-becomes-pm-may-10-1940
+  title: 'Churchill Becomes PM: May 10 1940 War Cabinet'
+  url: /2006/11/06/churchill-becomes-pm-may-10-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: hitler-declares-war-on-us-december-1941
+  title: 'Hitler Declares War on US: December 11 1941'
+  url: /2006/10/31/hitler-declares-war-on-us-december-1941/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: barbarossa-hitler-june-22-1941-invasion
+  title: 'Barbarossa: Hitler''s June 22 1941 Invasion'
+  url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
+  category: leisure
+  image: /assets/images/blog/blog-03.webp
+  lang: en
+- slug: d-day-eisenhower-june-5-1944-go-decision
+  title: 'D-Day: Eisenhower''s June 5 1944 Go Decision'
+  url: /2006/11/28/d-day-eisenhower-june-5-1944-go-decision/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 barbarossa-hitler-june-22-1941-invasion:
+- slug: hitler-declares-war-on-us-december-1941
+  title: 'Hitler Declares War on US: December 11 1941'
+  url: /2006/10/31/hitler-declares-war-on-us-december-1941/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: fall-of-france-manstein-sickle-cut-may-1940
+  title: 'Fall of France: Manstein''s May 1940 Sickle Cut'
+  url: /2006/11/11/fall-of-france-manstein-sickle-cut-may-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: pearl-harbor-yamamoto-december-1941-decision
   title: 'Pearl Harbor: Yamamoto''s December 1941 Strike'
   url: /2006/11/22/pearl-harbor-yamamoto-december-1941-decision/
@@ -4656,18 +4731,6 @@ barbarossa-hitler-june-22-1941-invasion:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: d-day-eisenhower-june-5-1944-go-decision
-  title: 'D-Day: Eisenhower''s June 5 1944 Go Decision'
-  url: /2006/11/28/d-day-eisenhower-june-5-1944-go-decision/
-  category: leisure
-  image: /assets/images/blog/blog-01.webp
-  lang: en
-- slug: battle-of-stalingrad-explained
-  title: The Battle of Stalingrad Explained
-  url: /2016/02/09/battle-of-stalingrad-explained/
-  category: leisure
-  image: /assets/images/blog/blog-29.webp
-  lang: en
 pearl-harbor-yamamoto-december-1941-decision:
 - slug: pearl-harbor-attack-explained
   title: The Attack on Pearl Harbor Explained
@@ -4675,48 +4738,48 @@ pearl-harbor-yamamoto-december-1941-decision:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: hitler-declares-war-on-us-december-1941
+  title: 'Hitler Declares War on US: December 11 1941'
+  url: /2006/10/31/hitler-declares-war-on-us-december-1941/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: barbarossa-hitler-june-22-1941-invasion
   title: 'Barbarossa: Hitler''s June 22 1941 Invasion'
   url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
   category: leisure
   image: /assets/images/blog/blog-03.webp
   lang: en
-- slug: d-day-eisenhower-june-5-1944-go-decision
-  title: 'D-Day: Eisenhower''s June 5 1944 Go Decision'
-  url: /2006/11/28/d-day-eisenhower-june-5-1944-go-decision/
+- slug: churchill-becomes-pm-may-10-1940
+  title: 'Churchill Becomes PM: May 10 1940 War Cabinet'
+  url: /2006/11/06/churchill-becomes-pm-may-10-1940/
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
-- slug: meiji-restoration-japan-explained
-  title: The Meiji Restoration in Japan Explained
-  url: /2015/11/06/meiji-restoration-japan-explained/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
 d-day-eisenhower-june-5-1944-go-decision:
+- slug: churchill-becomes-pm-may-10-1940
+  title: 'Churchill Becomes PM: May 10 1940 War Cabinet'
+  url: /2006/11/06/churchill-becomes-pm-may-10-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: hitler-declares-war-on-us-december-1941
+  title: 'Hitler Declares War on US: December 11 1941'
+  url: /2006/10/31/hitler-declares-war-on-us-december-1941/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
+- slug: fall-of-france-manstein-sickle-cut-may-1940
+  title: 'Fall of France: Manstein''s May 1940 Sickle Cut'
+  url: /2006/11/11/fall-of-france-manstein-sickle-cut-may-1940/
+  category: leisure
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 - slug: d-day-normandy-invasion-explained
   title: D-Day and the Normandy Invasion Explained
   url: /2016/01/25/d-day-normandy-invasion-explained/
   category: leisure
   image: /assets/images/blog/blog-83.webp
-  lang: en
-- slug: barbarossa-hitler-june-22-1941-invasion
-  title: 'Barbarossa: Hitler''s June 22 1941 Invasion'
-  url: /2006/11/17/barbarossa-hitler-june-22-1941-invasion/
-  category: leisure
-  image: /assets/images/blog/blog-03.webp
-  lang: en
-- slug: pearl-harbor-yamamoto-december-1941-decision
-  title: 'Pearl Harbor: Yamamoto''s December 1941 Strike'
-  url: /2006/11/22/pearl-harbor-yamamoto-december-1941-decision/
-  category: leisure
-  image: /assets/images/blog/blog-02.webp
-  lang: en
-- slug: cold-war-explained-complete-guide
-  title: 'The Cold War Explained: Complete Guide'
-  url: /2016/03/10/cold-war-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
   lang: en
 end-to-an-unforgettable-era:
 - slug: michael-jackson-no-more-an-era-comes-to-an-end
@@ -11993,6 +12056,31 @@ is-it-hard-to-get-amazon-warehouse-job:
   category: industry
   image: /assets/images/blog/blog-68.webp
   lang: en
+ic-814-hijacking-complete-guide:
+- slug: sat-preparation-guide-for-indian-students
+  title: 'SAT Guide for Indian Students: Registration to College Admission'
+  url: /2020/09/12/sat-preparation-guide-for-indian-students/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: zahoor-mistry-ic814-hijacker-profile
+  title: Zahoor Mistry IC-814 Hijacker Profile
+  url: /2013/04/13/zahoor-mistry-ic814-hijacker-profile/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: khalistan-movement-terror-timeline
+  title: Khalistan Movement Terror Timeline
+  url: /2013/08/17/khalistan-movement-terror-timeline/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: masood-azhar-network-under-siege
+  title: Masood Azhar Network Under Siege
+  url: /2013/05/13/masood-azhar-network-under-siege/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
 dropbox-vs-google-drive-the-war-begins:
 - slug: dropbox-seems-to-be-waiting-to-raise-a-hurricane
   title: Dropbox seems to be waiting to raise a hurricane
@@ -12017,6 +12105,31 @@ dropbox-vs-google-drive-the-war-begins:
   url: /2011/10/14/bing-bleeding-millions-as-google-remains-at-top/
   category: leisure
   image: /assets/images/blog/blog-74.webp
+  lang: en
+pahalgam-attack-2025-explained:
+- slug: aijaz-ahmad-ahangar-isis-kashmir
+  title: Aijaz Ahmad Ahangar ISIS Kashmir
+  url: /2013/06/15/aijaz-ahmad-ahangar-isis-kashmir/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: shahid-latif-pathankot-mastermind
+  title: Shahid Latif Pathankot Attack Mastermind
+  url: /2013/04/19/shahid-latif-pathankot-mastermind/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
+- slug: syed-noor-shalobar-profile
+  title: Syed Noor Shalobar Profile
+  url: /2013/03/13/syed-noor-shalobar-profile/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
   lang: en
 amazon-jobs-login:
 - slug: amazon-jobs-login-with-pin
@@ -12198,6 +12311,31 @@ albus-dumbledore-complete-character-analysis:
   url: /2012/12/18/kingsley-shacklebolt-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-37.webp
+  lang: en
+balakot-airstrike-2019-explained:
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
   lang: en
 sirius-black-complete-character-analysis:
 - slug: sirius-black-complete-character-analysis
@@ -13030,6 +13168,37 @@ is-amazon-hard-to-get-hired-2:
   category: industry
   image: /assets/images/blog/blog-17.webp
   lang: en
+india-shadow-war-against-terror-explained:
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: pok-operations-shadow-war
+  title: PoK Operations Shadow War Analysis
+  url: /2013/09/28/pok-operations-shadow-war/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: balakot-airstrike-2019-explained
+  title: Balakot Airstrike 2019 Explained
+  url: /2012/07/13/balakot-airstrike-2019-explained/
+  category: industry
+  image: /assets/images/blog/blog-39.webp
+  lang: en
 kingsley-shacklebolt-complete-character-analysis:
 - slug: dolores-umbridge-banality-of-cruelty
   title: 'Dolores Umbridge Character Analysis: The Banality of Cruelty'
@@ -13080,6 +13249,31 @@ lavender-brown-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-01.webp
   lang: en
+unknown-gunmen-pattern-decoded:
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 pansy-parkinson-complete-character-analysis:
 - slug: draco-malfoy-complete-character-analysis
   title: 'Draco Malfoy Character Analysis: Privilege and Conscience'
@@ -13104,6 +13298,31 @@ pansy-parkinson-complete-character-analysis:
   url: /2013/10/18/harry-potter-fred-george-vs-draco-comparison/
   category: leisure
   image: /assets/images/blog/blog-50.webp
+  lang: en
+targeted-killings-pakistan-complete-timeline:
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: saleem-rehmani-profile
+  title: Saleem Rehmani Wanted Terrorist Profile
+  url: /2013/03/19/saleem-rehmani-profile/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
   lang: en
 dean-thomas-complete-character-analysis:
 - slug: hermione-granger-complete-character-analysis
@@ -13161,6 +13380,31 @@ regulus-black-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
+modus-operandi-covert-eliminations:
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: motorcycle-assassinations-pattern
+  title: Motorcycle Assassinations Pattern Analysis
+  url: /2013/08/27/motorcycle-assassinations-pattern/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 lily-potter-complete-character-analysis:
 - slug: nymphadora-tonks-complete-character-analysis
   title: 'Nymphadora Tonks Character Analysis: Identity and Love'
@@ -13210,6 +13454,31 @@ how-can-i-start-working-at-amazon:
   url: /2022/11/06/amazon-jobs-work-from-home/
   category: industry
   image: /assets/images/blog/blog-60.webp
+  lang: en
+pakistan-safe-havens-hunting-grounds:
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
   lang: en
 james-potter-complete-character-analysis:
 - slug: sirius-black-complete-character-analysis
@@ -13261,6 +13530,31 @@ aberforth-dumbledore-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-75.webp
   lang: en
+sheikh-yousaf-afridi-profile:
+- slug: akram-khan-akram-ghazi-let-profile
+  title: Akram Khan LeT Bajaur Profile
+  url: /2013/03/07/akram-khan-akram-ghazi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: sardar-hussain-arain-jud-profile
+  title: Sardar Hussain Arain JuD Profile
+  url: /2013/02/23/sardar-hussain-arain-jud-profile/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 fleur-delacour-complete-character-analysis:
 - slug: viktor-krum-complete-character-analysis
   title: 'Viktor Krum Character Analysis: The Quiet Champion'
@@ -13286,6 +13580,31 @@ fleur-delacour-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-26.webp
   lang: en
+amir-hamza-let-cofounder-shot:
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: lahore-targeting-surge-2026
+  title: Lahore Targeting Surge 2026
+  url: /2013/09/20/lahore-targeting-surge-2026/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: hafiz-saeed-lahore-car-bomb-2021
+  title: Hafiz Saeed Residence Lahore Car Bomb
+  url: /2013/03/31/hafiz-saeed-lahore-car-bomb-2021/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 viktor-krum-complete-character-analysis:
 - slug: fleur-delacour-complete-character-analysis
   title: 'Fleur Delacour Character Analysis: Beauty and the Deeper Magic'
@@ -13310,6 +13629,31 @@ viktor-krum-complete-character-analysis:
   url: /2013/03/05/sybill-trelawney-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-26.webp
+  lang: en
+abu-qatal-sindhi-let-profile:
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: akram-khan-akram-ghazi-let-profile
+  title: Akram Khan LeT Bajaur Profile
+  url: /2013/03/07/akram-khan-akram-ghazi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
   lang: en
 how-long-is-amazon-hiring-process:
 - slug: is-it-hard-to-get-hired-on-at-amazon
@@ -13367,6 +13711,56 @@ percy-weasley-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-87.webp
   lang: en
+ziaur-rahman-let-karachi-killing:
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: let-leadership-under-fire-compared
+  title: LeT Leadership Under Fire Compared
+  url: /2013/04/06/let-leadership-under-fire-compared/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: akram-khan-akram-ghazi-let-profile
+  title: Akram Khan LeT Bajaur Profile
+  url: /2013/03/07/akram-khan-akram-ghazi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+mufti-qaiser-farooq-let-profile:
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: amir-hamza-let-cofounder-shot
+  title: Amir Hamza LeT Co-Founder Shot
+  url: /2013/01/30/amir-hamza-let-cofounder-shot/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: akram-khan-akram-ghazi-let-profile
+  title: Akram Khan LeT Bajaur Profile
+  url: /2013/03/07/akram-khan-akram-ghazi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
 seamus-finnigan-complete-character-analysis:
 - slug: dean-thomas-complete-character-analysis
   title: 'Dean Thomas Character Analysis: The Unsung Gryffindor'
@@ -13391,6 +13785,56 @@ seamus-finnigan-complete-character-analysis:
   url: /2012/08/19/minerva-mcgonagall-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+sardar-hussain-arain-jud-profile:
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: akram-khan-akram-ghazi-let-profile
+  title: Akram Khan LeT Bajaur Profile
+  url: /2013/03/07/akram-khan-akram-ghazi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
+  lang: en
+abu-qasim-riyaz-ahmad-let-profile:
+- slug: khwaja-shahid-mian-mujahid-profile
+  title: Khwaja Shahid Sunjuwan Mastermind
+  url: /2013/03/25/khwaja-shahid-mian-mujahid-profile/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
   lang: en
 sybill-trelawney-complete-character-analysis:
 - slug: neville-vs-harry-comparison
@@ -13417,6 +13861,31 @@ sybill-trelawney-complete-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
+akram-khan-akram-ghazi-let-profile:
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 gilderoy-lockhart-fame-fraud-analysis:
 - slug: gilderoy-lockhart-villain-analysis
   title: 'Gilderoy Lockhart Character Analysis: Vanity Unmasked'
@@ -13441,6 +13910,31 @@ gilderoy-lockhart-fame-fraud-analysis:
   url: /2013/09/29/neville-vs-harry-comparison/
   category: leisure
   image: /assets/images/blog/blog-33.webp
+  lang: en
+syed-noor-shalobar-profile:
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: sardar-hussain-arain-jud-profile
+  title: Sardar Hussain Arain JuD Profile
+  url: /2013/02/23/sardar-hussain-arain-jud-profile/
+  category: industry
+  image: /assets/images/blog/blog-25.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: aijaz-ahmad-ahangar-isis-kashmir
+  title: Aijaz Ahmad Ahangar ISIS Kashmir
+  url: /2013/06/15/aijaz-ahmad-ahangar-isis-kashmir/
+  category: industry
+  image: /assets/images/blog/blog-20.webp
   lang: en
 what-is-amazon-acceptance-rate:
 - slug: is-amazon-hard-to-get-hired
@@ -13498,6 +13992,31 @@ dolores-umbridge-pink-evil-authority:
   category: leisure
   image: /assets/images/blog/blog-74.webp
   lang: en
+saleem-rehmani-profile:
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
 horace-slughorn-complete-character-analysis:
 - slug: severus-snape-complete-character-analysis
   title: 'Severus Snape Character Analysis: The Double Life'
@@ -13522,6 +14041,31 @@ horace-slughorn-complete-character-analysis:
   url: /2012/07/23/remus-lupin-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-79.webp
+  lang: en
+khwaja-shahid-mian-mujahid-profile:
+- slug: abu-qasim-riyaz-ahmad-let-profile
+  title: Abu Qasim Riyaz Ahmad Profile
+  url: /2013/03/01/abu-qasim-riyaz-ahmad-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: abu-qatal-sindhi-let-profile
+  title: Abu Qatal Sindhi LeT Commander Profile
+  url: /2013/02/05/abu-qatal-sindhi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: amir-hamza-let-cofounder-shot
+  title: Amir Hamza LeT Co-Founder Shot
+  url: /2013/01/30/amir-hamza-let-cofounder-shot/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
   lang: en
 love-as-magic-harry-potter-sacrifice-survival:
 - slug: food-feasts-love-harry-potter
@@ -13573,6 +14117,31 @@ bullying-harry-potter-dudley-umbridge:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
+hafiz-saeed-lahore-car-bomb-2021:
+- slug: amir-hamza-let-cofounder-shot
+  title: Amir Hamza LeT Co-Founder Shot
+  url: /2013/01/30/amir-hamza-let-cofounder-shot/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: lahore-targeting-surge-2026
+  title: Lahore Targeting Surge 2026
+  url: /2013/09/20/lahore-targeting-surge-2026/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 father-figures-harry-potter:
 - slug: professors-education-philosophy-harry-potter
   title: 'Teaching in Harry Potter: Professors and Pedagogy'
@@ -13597,6 +14166,31 @@ father-figures-harry-potter:
   url: /2013/06/20/humor-comedy-survival-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-08.webp
+  lang: en
+let-leadership-under-fire-compared:
+- slug: jem-targets-compared
+  title: JeM Targets Elimination Compared
+  url: /2013/05/19/jem-targets-compared/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: hizbul-leadership-decimation
+  title: Hizbul Mujahideen Leadership Decimation
+  url: /2013/06/22/hizbul-leadership-decimation/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
   lang: en
 villain-origins-harry-potter:
 - slug: redemption-arcs-harry-potter
@@ -13623,6 +14217,31 @@ villain-origins-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
+zahoor-mistry-ic814-hijacker-profile:
+- slug: syed-khalid-raza-al-badr-profile
+  title: Syed Khalid Raza Al-Badr Profile
+  url: /2013/06/08/syed-khalid-raza-al-badr-profile/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: dawood-malik-masood-azhar-aide
+  title: Dawood Malik Masood Azhar Aide Profile
+  url: /2013/04/25/dawood-malik-masood-azhar-aide/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 class-wealth-blood-status-harry-potter:
 - slug: love-as-magic-harry-potter-sacrifice-survival
   title: 'Love as Magic in Harry Potter: The Power of Sacrifice'
@@ -13647,6 +14266,31 @@ class-wealth-blood-status-harry-potter:
   url: /2013/04/10/villain-origins-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-46.webp
+  lang: en
+shahid-latif-pathankot-mastermind:
+- slug: jem-targets-compared
+  title: JeM Targets Elimination Compared
+  url: /2013/05/19/jem-targets-compared/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: masood-azhar-network-under-siege
+  title: Masood Azhar Network Under Siege
+  url: /2013/05/13/masood-azhar-network-under-siege/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: akram-khan-akram-ghazi-let-profile
+  title: Akram Khan LeT Bajaur Profile
+  url: /2013/03/07/akram-khan-akram-ghazi-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-33.webp
   lang: en
 women-harry-potter-mothers-warriors-survivors:
 - slug: class-wealth-blood-status-harry-potter
@@ -13697,6 +14341,31 @@ boggarts-fear-harry-potter:
   url: /2013/06/05/mental-health-trauma-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-28.webp
+  lang: en
+dawood-malik-masood-azhar-aide:
+- slug: masood-azhar-network-under-siege
+  title: Masood Azhar Network Under Siege
+  url: /2013/05/13/masood-azhar-network-under-siege/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: muhammad-tahir-anwar-azhar-brother
+  title: Muhammad Tahir Anwar Profile
+  url: /2013/05/07/muhammad-tahir-anwar-azhar-brother/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: zahoor-mistry-ic814-hijacker-profile
+  title: Zahoor Mistry IC-814 Hijacker Profile
+  url: /2013/04/13/zahoor-mistry-ic814-hijacker-profile/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: shahid-latif-pathankot-mastermind
+  title: Shahid Latif Pathankot Attack Mastermind
+  url: /2013/04/19/shahid-latif-pathankot-mastermind/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
   lang: en
 odds-of-getting-hired-at-amazon:
 - slug: what-do-you-need-to-get-hired-at-amazon
@@ -13779,6 +14448,31 @@ orphans-parenting-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-68.webp
   lang: en
+muhammad-tahir-anwar-azhar-brother:
+- slug: masood-azhar-network-under-siege
+  title: Masood Azhar Network Under Siege
+  url: /2013/05/13/masood-azhar-network-under-siege/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: jem-targets-compared
+  title: JeM Targets Elimination Compared
+  url: /2013/05/19/jem-targets-compared/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: dawood-malik-masood-azhar-aide
+  title: Dawood Malik Masood Azhar Aide Profile
+  url: /2013/04/25/dawood-malik-masood-azhar-aide/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
+- slug: shahid-latif-pathankot-mastermind
+  title: Shahid Latif Pathankot Attack Mastermind
+  url: /2013/04/19/shahid-latif-pathankot-mastermind/
+  category: industry
+  image: /assets/images/blog/blog-87.webp
+  lang: en
 death-mortality-harry-potter:
 - slug: prophecy-free-will-destiny-harry-potter
   title: 'Prophecy and Free Will in Harry Potter: Destiny''s Trap'
@@ -13829,6 +14523,31 @@ is-it-hard-to-get-hired-at-amazon:
   category: industry
   image: /assets/images/blog/blog-41.webp
   lang: en
+masood-azhar-network-under-siege:
+- slug: jem-targets-compared
+  title: JeM Targets Elimination Compared
+  url: /2013/05/19/jem-targets-compared/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: muhammad-tahir-anwar-azhar-brother
+  title: Muhammad Tahir Anwar Profile
+  url: /2013/05/07/muhammad-tahir-anwar-azhar-brother/
+  category: industry
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: let-leadership-under-fire-compared
+  title: LeT Leadership Under Fire Compared
+  url: /2013/04/06/let-leadership-under-fire-compared/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: dawood-malik-masood-azhar-aide
+  title: Dawood Malik Masood Azhar Aide Profile
+  url: /2013/04/25/dawood-malik-masood-azhar-aide/
+  category: industry
+  image: /assets/images/blog/blog-82.webp
+  lang: en
 leadership-styles-harry-potter:
 - slug: professors-education-philosophy-harry-potter
   title: 'Teaching in Harry Potter: Professors and Pedagogy'
@@ -13853,6 +14572,31 @@ leadership-styles-harry-potter:
   url: /2013/07/10/ministry-magic-political-satire-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-50.webp
+  lang: en
+jem-targets-compared:
+- slug: masood-azhar-network-under-siege
+  title: Masood Azhar Network Under Siege
+  url: /2013/05/13/masood-azhar-network-under-siege/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: let-leadership-under-fire-compared
+  title: LeT Leadership Under Fire Compared
+  url: /2013/04/06/let-leadership-under-fire-compared/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: hizbul-leadership-decimation
+  title: Hizbul Mujahideen Leadership Decimation
+  url: /2013/06/22/hizbul-leadership-decimation/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
   lang: en
 marauders-friendship-betrayal-harry-potter:
 - slug: father-figures-harry-potter
@@ -13929,6 +14673,31 @@ shakespeare-harry-potter-literary-dna:
   category: leisure
   image: /assets/images/blog/blog-47.webp
   lang: en
+bashir-ahmad-peer-hizbul-profile:
+- slug: hizbul-leadership-decimation
+  title: Hizbul Mujahideen Leadership Decimation
+  url: /2013/06/22/hizbul-leadership-decimation/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: syed-khalid-raza-al-badr-profile
+  title: Syed Khalid Raza Al-Badr Profile
+  url: /2013/06/08/syed-khalid-raza-al-badr-profile/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: abu-qasim-riyaz-ahmad-let-profile
+  title: Abu Qasim Riyaz Ahmad Profile
+  url: /2013/03/01/abu-qasim-riyaz-ahmad-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 mental-health-trauma-harry-potter:
 - slug: boggarts-fear-harry-potter
   title: 'Boggarts in Harry Potter: What Deepest Fears Reveal'
@@ -13954,6 +14723,31 @@ mental-health-trauma-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-18.webp
   lang: en
+syed-khalid-raza-al-badr-profile:
+- slug: bashir-ahmad-peer-hizbul-profile
+  title: Bashir Ahmad Peer Hizbul Commander
+  url: /2013/06/01/bashir-ahmad-peer-hizbul-profile/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: zahoor-mistry-ic814-hijacker-profile
+  title: Zahoor Mistry IC-814 Hijacker Profile
+  url: /2013/04/13/zahoor-mistry-ic814-hijacker-profile/
+  category: industry
+  image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: ziaur-rahman-let-karachi-killing
+  title: Ziaur Rahman LeT Operative Profile
+  url: /2013/02/11/ziaur-rahman-let-karachi-killing/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: mufti-qaiser-farooq-let-profile
+  title: Mufti Qaiser Farooq LeT Aide Profile
+  url: /2013/02/17/mufti-qaiser-farooq-let-profile/
+  category: industry
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 hogwarts-houses-personality-theory:
 - slug: hermione-granger-complete-character-analysis
   title: 'Hermione Granger Character Analysis: The Brightest Witch'
@@ -13978,6 +14772,37 @@ hogwarts-houses-personality-theory:
   url: /2012/08/03/neville-longbottom-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+aijaz-ahmad-ahangar-isis-kashmir:
+- slug: syed-noor-shalobar-profile
+  title: Syed Noor Shalobar Profile
+  url: /2013/03/13/syed-noor-shalobar-profile/
+  category: industry
+  image: /assets/images/blog/blog-74.webp
+  lang: en
+- slug: bashir-ahmad-peer-hizbul-profile
+  title: Bashir Ahmad Peer Hizbul Commander
+  url: /2013/06/01/bashir-ahmad-peer-hizbul-profile/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: pahalgam-attack-2025-explained
+  title: Pahalgam Attack 2025 Explained
+  url: /2012/06/03/pahalgam-attack-2025-explained/
+  category: industry
+  image: /assets/images/blog/blog-84.webp
   lang: en
 magical-creatures-character-mirrors:
 - slug: pets-familiars-animal-symbolism-harry-potter
@@ -14029,6 +14854,31 @@ humor-comedy-survival-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-47.webp
   lang: en
+hizbul-leadership-decimation:
+- slug: let-leadership-under-fire-compared
+  title: LeT Leadership Under Fire Compared
+  url: /2013/04/06/let-leadership-under-fire-compared/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: jem-targets-compared
+  title: JeM Targets Elimination Compared
+  url: /2013/05/19/jem-targets-compared/
+  category: industry
+  image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: bashir-ahmad-peer-hizbul-profile
+  title: Bashir Ahmad Peer Hizbul Commander
+  url: /2013/06/01/bashir-ahmad-peer-hizbul-profile/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
 how-do-i-work-online-for-amazon:
 - slug: amazon-online-jobs-work-from-home-no-experience
   title: Amazon online jobs work from home no experience
@@ -14078,6 +14928,31 @@ professors-education-philosophy-harry-potter:
   url: /2013/07/15/memory-truth-pensieve-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-87.webp
+  lang: en
+kashmir-origin-terrorists-pakistan:
+- slug: pok-operations-shadow-war
+  title: PoK Operations Shadow War Analysis
+  url: /2013/09/28/pok-operations-shadow-war/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: hizbul-leadership-decimation
+  title: Hizbul Mujahideen Leadership Decimation
+  url: /2013/06/22/hizbul-leadership-decimation/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
   lang: en
 half-blood-identity-heritage-harry-potter:
 - slug: wand-lore-identity-harry-potter
@@ -14154,6 +15029,31 @@ ministry-magic-political-satire-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+hardeep-singh-nijjar-ktf-canada:
+- slug: sukhdool-singh-sukha-duneke-canada
+  title: Sukhdool Singh Duneke Canada Killing
+  url: /2013/08/10/sukhdool-singh-sukha-duneke-canada/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: canada-secondary-theater
+  title: Canada as Secondary Shadow War Theater
+  url: /2013/10/06/canada-secondary-theater/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: ripudaman-singh-malik-babbar-khalsa
+  title: Ripudaman Singh Malik Air India Case
+  url: /2013/07/20/ripudaman-singh-malik-babbar-khalsa/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: khalistan-movement-terror-timeline
+  title: Khalistan Movement Terror Timeline
+  url: /2013/08/17/khalistan-movement-terror-timeline/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
 memory-truth-pensieve-harry-potter:
 - slug: professors-education-philosophy-harry-potter
   title: 'Teaching in Harry Potter: Professors and Pedagogy'
@@ -14229,6 +15129,31 @@ dursleys-mundane-evil-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-57.webp
   lang: en
+ripudaman-singh-malik-babbar-khalsa:
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: sukhdool-singh-sukha-duneke-canada
+  title: Sukhdool Singh Duneke Canada Killing
+  url: /2013/08/10/sukhdool-singh-sukha-duneke-canada/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: khalistan-movement-terror-timeline
+  title: Khalistan Movement Terror Timeline
+  url: /2013/08/17/khalistan-movement-terror-timeline/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: harvinder-singh-rinda-khalistan
+  title: Harvinder Singh Rinda Khalistan
+  url: /2013/07/27/harvinder-singh-rinda-khalistan/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
 prophecy-free-will-destiny-harry-potter:
 - slug: humor-comedy-survival-harry-potter
   title: 'Humor in Harry Potter: Comedy as Moral Survival'
@@ -14254,6 +15179,31 @@ prophecy-free-will-destiny-harry-potter:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+harvinder-singh-rinda-khalistan:
+- slug: avtar-singh-khanda-uk-khalistan
+  title: Avtar Singh Khanda UK Khalistan
+  url: /2013/08/03/avtar-singh-khanda-uk-khalistan/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: sukhdool-singh-sukha-duneke-canada
+  title: Sukhdool Singh Duneke Canada Killing
+  url: /2013/08/10/sukhdool-singh-sukha-duneke-canada/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: amir-hamza-let-cofounder-shot
+  title: Amir Hamza LeT Co-Founder Shot
+  url: /2013/01/30/amir-hamza-let-cofounder-shot/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 pets-familiars-animal-symbolism-harry-potter:
 - slug: magical-creatures-character-mirrors
   title: 'Magical Creatures in Harry Potter: Character Mirrors'
@@ -14278,6 +15228,31 @@ pets-familiars-animal-symbolism-harry-potter:
   url: /2013/05/05/orphans-parenting-harry-potter/
   category: leisure
   image: /assets/images/blog/blog-18.webp
+  lang: en
+avtar-singh-khanda-uk-khalistan:
+- slug: sukhdool-singh-sukha-duneke-canada
+  title: Sukhdool Singh Duneke Canada Killing
+  url: /2013/08/10/sukhdool-singh-sukha-duneke-canada/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
+  lang: en
+- slug: harvinder-singh-rinda-khalistan
+  title: Harvinder Singh Rinda Khalistan
+  url: /2013/07/27/harvinder-singh-rinda-khalistan/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: ripudaman-singh-malik-babbar-khalsa
+  title: Ripudaman Singh Malik Air India Case
+  url: /2013/07/20/ripudaman-singh-malik-babbar-khalsa/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
   lang: en
 wand-lore-identity-harry-potter:
 - slug: half-blood-identity-heritage-harry-potter
@@ -14354,6 +15329,31 @@ how-can-i-get-a-job-at-amazon:
   category: industry
   image: /assets/images/blog/blog-66.webp
   lang: en
+sukhdool-singh-sukha-duneke-canada:
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: avtar-singh-khanda-uk-khalistan
+  title: Avtar Singh Khanda UK Khalistan
+  url: /2013/08/03/avtar-singh-khanda-uk-khalistan/
+  category: industry
+  image: /assets/images/blog/blog-52.webp
+  lang: en
+- slug: harvinder-singh-rinda-khalistan
+  title: Harvinder Singh Rinda Khalistan
+  url: /2013/07/27/harvinder-singh-rinda-khalistan/
+  category: industry
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: ripudaman-singh-malik-babbar-khalsa
+  title: Ripudaman Singh Malik Air India Case
+  url: /2013/07/20/ripudaman-singh-malik-babbar-khalsa/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
 deathly-hallows-character-test-harry-potter:
 - slug: death-mortality-harry-potter
   title: 'Death and Mortality in Harry Potter: Facing the End with Courage'
@@ -14378,6 +15378,31 @@ deathly-hallows-character-test-harry-potter:
   url: /2013/01/07/regulus-black-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-66.webp
+  lang: en
+khalistan-movement-terror-timeline:
+- slug: canada-secondary-theater
+  title: Canada as Secondary Shadow War Theater
+  url: /2013/10/06/canada-secondary-theater/
+  category: industry
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: ripudaman-singh-malik-babbar-khalsa
+  title: Ripudaman Singh Malik Air India Case
+  url: /2013/07/20/ripudaman-singh-malik-babbar-khalsa/
+  category: industry
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: sukhdool-singh-sukha-duneke-canada
+  title: Sukhdool Singh Duneke Canada Killing
+  url: /2013/08/10/sukhdool-singh-sukha-duneke-canada/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
   lang: en
 growing-up-harry-potter-maturity:
 - slug: villain-origins-harry-potter
@@ -14435,6 +15460,31 @@ harry-vs-voldemort-comparison:
   category: leisure
   image: /assets/images/blog/blog-28.webp
   lang: en
+motorcycle-assassinations-pattern:
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: mosque-prayer-time-targeting
+  title: Mosque and Prayer Time Targeting Pattern
+  url: /2013/09/04/mosque-prayer-time-targeting/
+  category: industry
+  image: /assets/images/blog/blog-19.webp
+  lang: en
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: saleem-rehmani-profile
+  title: Saleem Rehmani Wanted Terrorist Profile
+  url: /2013/03/19/saleem-rehmani-profile/
+  category: industry
+  image: /assets/images/blog/blog-01.webp
+  lang: en
 snape-vs-sirius-comparison:
 - slug: harry-potter-sirius-vs-lupin-comparison
   title: 'Sirius vs Lupin: Two Outcasts Two Ways of Surviving'
@@ -14460,6 +15510,31 @@ snape-vs-sirius-comparison:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
+mosque-prayer-time-targeting:
+- slug: motorcycle-assassinations-pattern
+  title: Motorcycle Assassinations Pattern Analysis
+  url: /2013/08/27/motorcycle-assassinations-pattern/
+  category: industry
+  image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: lahore-targeting-surge-2026
+  title: Lahore Targeting Surge 2026
+  url: /2013/09/20/lahore-targeting-surge-2026/
+  category: industry
+  image: /assets/images/blog/blog-49.webp
+  lang: en
 dumbledore-vs-gandalf-comparison:
 - slug: harry-potter-hagrid-vs-lupin-mentor-comparison
   title: 'Hagrid vs Lupin: Two Outsider Mentors Who Shaped Harry'
@@ -14484,6 +15559,31 @@ dumbledore-vs-gandalf-comparison:
   url: /2013/08/25/harry-vs-voldemort-comparison/
   category: leisure
   image: /assets/images/blog/blog-09.webp
+  lang: en
+karachi-elimination-capital:
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: pakistan-safe-havens-hunting-grounds
+  title: How Safe Havens Became Hunting Grounds
+  url: /2013/01/17/pakistan-safe-havens-hunting-grounds/
+  category: industry
+  image: /assets/images/blog/blog-11.webp
+  lang: en
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 hermione-vs-luna-comparison:
 - slug: harry-potter-hermione-vs-bellatrix-comparison
@@ -14534,6 +15634,31 @@ is-amazon-hard-to-get-hired:
   url: /2011/11/17/what-do-you-need-to-get-hired-at-amazon/
   category: industry
   image: /assets/images/blog/blog-16.webp
+  lang: en
+lahore-targeting-surge-2026:
+- slug: amir-hamza-let-cofounder-shot
+  title: Amir Hamza LeT Co-Founder Shot
+  url: /2013/01/30/amir-hamza-let-cofounder-shot/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: hafiz-saeed-lahore-car-bomb-2021
+  title: Hafiz Saeed Residence Lahore Car Bomb
+  url: /2013/03/31/hafiz-saeed-lahore-car-bomb-2021/
+  category: industry
+  image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: sheikh-yousaf-afridi-profile
+  title: Sheikh Yousaf Afridi Profile
+  url: /2013/01/24/sheikh-yousaf-afridi-profile/
+  category: industry
+  image: /assets/images/blog/blog-05.webp
+  lang: en
+- slug: let-leadership-under-fire-compared
+  title: LeT Leadership Under Fire Compared
+  url: /2013/04/06/let-leadership-under-fire-compared/
+  category: industry
+  image: /assets/images/blog/blog-15.webp
   lang: en
 draco-vs-dudley-comparison:
 - slug: harry-potter-fred-george-vs-draco-comparison
@@ -14610,6 +15735,31 @@ harry-potter-dumbledore-vs-voldemort-comparison:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+pok-operations-shadow-war:
+- slug: kashmir-origin-terrorists-pakistan
+  title: Kashmir Terrorists Living in Pakistan
+  url: /2013/06/29/kashmir-origin-terrorists-pakistan/
+  category: industry
+  image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: targeted-killings-pakistan-complete-timeline
+  title: Targeted Killings in Pakistan Timeline
+  url: /2013/01/01/targeted-killings-pakistan-complete-timeline/
+  category: industry
+  image: /assets/images/blog/blog-54.webp
+  lang: en
+- slug: karachi-elimination-capital
+  title: Karachi Terror Elimination Capital
+  url: /2013/09/12/karachi-elimination-capital/
+  category: industry
+  image: /assets/images/blog/blog-30.webp
+  lang: en
 neville-vs-harry-comparison:
 - slug: neville-longbottom-complete-character-analysis
   title: 'Neville Longbottom Analysis: The Other Chosen One'
@@ -14659,6 +15809,31 @@ harry-potter-snape-vs-dumbledore-comparison:
   url: /2012/07/07/severus-snape-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-19.webp
+  lang: en
+canada-secondary-theater:
+- slug: hardeep-singh-nijjar-ktf-canada
+  title: Hardeep Singh Nijjar KTF Canada
+  url: /2013/07/13/hardeep-singh-nijjar-ktf-canada/
+  category: industry
+  image: /assets/images/blog/blog-27.webp
+  lang: en
+- slug: khalistan-movement-terror-timeline
+  title: Khalistan Movement Terror Timeline
+  url: /2013/08/17/khalistan-movement-terror-timeline/
+  category: industry
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: sukhdool-singh-sukha-duneke-canada
+  title: Sukhdool Singh Duneke Canada Killing
+  url: /2013/08/10/sukhdool-singh-sukha-duneke-canada/
+  category: industry
+  image: /assets/images/blog/blog-60.webp
   lang: en
 harry-potter-hermione-vs-bellatrix-comparison:
 - slug: bellatrix-lestrange-complete-character-analysis
@@ -14735,6 +15910,37 @@ harry-potter-sirius-vs-lupin-comparison:
   category: leisure
   image: /assets/images/blog/blog-19.webp
   lang: en
+india-israel-covert-ops-compared:
+- slug: guardian-investigation-decoded
+  title: The Guardian India Killings Decoded
+  url: /2013/10/22/guardian-investigation-decoded/
+  category: industry
+  image: /assets/images/blog/blog-17.webp
+  lang: en
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: sat-preparation-guide-for-indian-students
+  title: 'SAT Guide for Indian Students: Registration to College Admission'
+  url: /2020/09/12/sat-preparation-guide-for-indian-students/
+  category: industry
+  image: /assets/images/blog/blog-48.webp
+  lang: en
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: personal-finance-guide-india
+  title: 'Personal Finance Guide for Indians: SIP, Mutual Funds, PPF, NPS & Tax'
+  url: /2025/06/14/personal-finance-guide-india/
+  category: industry
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 harry-potter-fred-george-vs-draco-comparison:
 - slug: draco-vs-dudley-comparison
   title: 'Draco Malfoy vs Dudley Dursley: Two Bullies, One Question'
@@ -14759,6 +15965,31 @@ harry-potter-fred-george-vs-draco-comparison:
   url: /2012/12/28/pansy-parkinson-complete-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-44.webp
+  lang: en
+guardian-investigation-decoded:
+- slug: india-shadow-war-against-terror-explained
+  title: India's Shadow War Against Terror Explained
+  url: /2012/12/16/india-shadow-war-against-terror-explained/
+  category: industry
+  image: /assets/images/blog/blog-79.webp
+  lang: en
+- slug: india-israel-covert-ops-compared
+  title: India vs Israel Covert Ops Compared
+  url: /2013/10/14/india-israel-covert-ops-compared/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: modus-operandi-covert-eliminations
+  title: Modus Operandi of Covert Eliminations
+  url: /2013/01/09/modus-operandi-covert-eliminations/
+  category: industry
+  image: /assets/images/blog/blog-21.webp
+  lang: en
+- slug: unknown-gunmen-pattern-decoded
+  title: The Unknown Gunmen Pattern Decoded
+  url: /2012/12/24/unknown-gunmen-pattern-decoded/
+  category: industry
+  image: /assets/images/blog/blog-34.webp
   lang: en
 harry-potter-hagrid-vs-lupin-mentor-comparison:
 - slug: harry-potter-sirius-vs-lupin-comparison
@@ -16722,12 +17953,6 @@ why-is-meta-not-hiring:
   image: /assets/images/blog/blog-86.webp
   lang: en
 themes-revenge-love-wuthering-heights:
-- slug: gothic-elements-classic-novels
-  title: Gothic Elements in Classic Novels Compared
-  url: /2015/03/06/gothic-elements-classic-novels/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
-  lang: en
 - slug: complete-analysis-wuthering-heights
   title: Complete Analysis of Wuthering Heights
   url: /2014/09/07/complete-analysis-wuthering-heights/
@@ -16739,6 +17964,12 @@ themes-revenge-love-wuthering-heights:
   url: /2014/09/17/catherine-earnshaw-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-55.webp
+  lang: en
+- slug: gothic-elements-classic-novels
+  title: Gothic Elements in Classic Novels Compared
+  url: /2015/03/06/gothic-elements-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
   lang: en
 - slug: love-obsession-classic-novels
   title: Love and Obsession in Classic Novels
@@ -16878,12 +18109,6 @@ jane-eyre-character-analysis-bronte:
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: mr-rochester-character-analysis
-  title: Mr. Rochester Character Analysis
-  url: /2014/10/22/mr-rochester-character-analysis/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
-  lang: en
 - slug: themes-independence-jane-eyre
   title: Independence and Feminism in Jane Eyre
   url: /2014/10/27/themes-independence-jane-eyre/
@@ -16896,13 +18121,13 @@ jane-eyre-character-analysis-bronte:
   category: leisure
   image: /assets/images/blog/blog-33.webp
   lang: en
-mr-rochester-character-analysis:
-- slug: jane-eyre-character-analysis-bronte
-  title: Jane Eyre Character Analysis
-  url: /2014/10/17/jane-eyre-character-analysis-bronte/
+- slug: mr-rochester-character-analysis
+  title: Mr. Rochester Character Analysis
+  url: /2014/10/22/mr-rochester-character-analysis/
   category: leisure
   image: /assets/images/blog/blog-53.webp
   lang: en
+mr-rochester-character-analysis:
 - slug: complete-analysis-jane-eyre-bronte
   title: Complete Analysis of Jane Eyre
   url: /2014/10/12/complete-analysis-jane-eyre-bronte/
@@ -16915,11 +18140,17 @@ mr-rochester-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: guy-montag-character-analysis
-  title: Guy Montag Character Analysis
-  url: /2014/11/21/guy-montag-character-analysis/
+- slug: jane-eyre-character-analysis-bronte
+  title: Jane Eyre Character Analysis
+  url: /2014/10/17/jane-eyre-character-analysis-bronte/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-53.webp
+  lang: en
+- slug: heathcliff-character-analysis
+  title: Heathcliff Character Analysis
+  url: /2014/09/12/heathcliff-character-analysis/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
   lang: en
 themes-independence-jane-eyre:
 - slug: complete-analysis-jane-eyre-bronte
@@ -17071,11 +18302,11 @@ complete-analysis-fahrenheit-451:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: 1984-vs-brave-new-world-vs-fahrenheit
-  title: 1984 vs Brave New World vs Fahrenheit 451
-  url: /2015/01/05/1984-vs-brave-new-world-vs-fahrenheit/
+- slug: revolution-rebellion-classic-novels
+  title: Revolution and Rebellion in Classic Novels
+  url: /2015/03/21/revolution-rebellion-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-15.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
 guy-montag-character-analysis:
 - slug: complete-analysis-fahrenheit-451
@@ -17171,11 +18402,11 @@ hester-prynne-character-analysis:
   category: leisure
   image: /assets/images/blog/blog-45.webp
   lang: en
-- slug: mr-rochester-character-analysis
-  title: Mr. Rochester Character Analysis
-  url: /2014/10/22/mr-rochester-character-analysis/
+- slug: hamlet-character-analysis-deep-dive
+  title: Hamlet Character Analysis
+  url: /2010/10/02/hamlet-character-analysis-deep-dive/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-35.webp
   lang: en
 sin-society-scarlet-letter-themes:
 - slug: complete-analysis-scarlet-letter
@@ -17203,12 +18434,6 @@ sin-society-scarlet-letter-themes:
   image: /assets/images/blog/blog-89.webp
   lang: en
 complete-analysis-heart-of-darkness:
-- slug: marlow-character-analysis-conrad
-  title: Marlow Character Analysis in Heart of Darkness
-  url: /2014/12/26/marlow-character-analysis-conrad/
-  category: leisure
-  image: /assets/images/blog/blog-73.webp
-  lang: en
 - slug: kurtz-character-analysis-conrad
   title: Kurtz Character Analysis in Heart of Darkness
   url: /2014/12/21/kurtz-character-analysis-conrad/
@@ -17221,6 +18446,12 @@ complete-analysis-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
+- slug: marlow-character-analysis-conrad
+  title: Marlow Character Analysis in Heart of Darkness
+  url: /2014/12/26/marlow-character-analysis-conrad/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 - slug: complete-analysis-frankenstein-shelley
   title: Complete Analysis of Frankenstein
   url: /2014/08/18/complete-analysis-frankenstein-shelley/
@@ -17228,17 +18459,17 @@ complete-analysis-heart-of-darkness:
   image: /assets/images/blog/blog-36.webp
   lang: en
 kurtz-character-analysis-conrad:
-- slug: marlow-character-analysis-conrad
-  title: Marlow Character Analysis in Heart of Darkness
-  url: /2014/12/26/marlow-character-analysis-conrad/
-  category: leisure
-  image: /assets/images/blog/blog-73.webp
-  lang: en
 - slug: complete-analysis-heart-of-darkness
   title: Complete Analysis of Heart of Darkness
   url: /2014/12/16/complete-analysis-heart-of-darkness/
   category: leisure
   image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: marlow-character-analysis-conrad
+  title: Marlow Character Analysis in Heart of Darkness
+  url: /2014/12/26/marlow-character-analysis-conrad/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
   lang: en
 - slug: colonialism-racism-heart-of-darkness
   title: Colonialism and Racism in Heart of Darkness
@@ -17296,11 +18527,11 @@ marlow-character-analysis-conrad:
   category: leisure
   image: /assets/images/blog/blog-37.webp
   lang: en
-- slug: mr-rochester-character-analysis
-  title: Mr. Rochester Character Analysis
-  url: /2014/10/22/mr-rochester-character-analysis/
+- slug: unreliable-narrators-classic-fiction
+  title: Unreliable Narrators in Classic Fiction
+  url: /2015/02/04/unreliable-narrators-classic-fiction/
   category: leisure
-  image: /assets/images/blog/blog-53.webp
+  image: /assets/images/blog/blog-68.webp
   lang: en
 colonialism-racism-heart-of-darkness:
 - slug: complete-analysis-heart-of-darkness
@@ -17309,17 +18540,17 @@ colonialism-racism-heart-of-darkness:
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
-- slug: marlow-character-analysis-conrad
-  title: Marlow Character Analysis in Heart of Darkness
-  url: /2014/12/26/marlow-character-analysis-conrad/
-  category: leisure
-  image: /assets/images/blog/blog-73.webp
-  lang: en
 - slug: kurtz-character-analysis-conrad
   title: Kurtz Character Analysis in Heart of Darkness
   url: /2014/12/21/kurtz-character-analysis-conrad/
   category: leisure
   image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: marlow-character-analysis-conrad
+  title: Marlow Character Analysis in Heart of Darkness
+  url: /2014/12/26/marlow-character-analysis-conrad/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
   lang: en
 - slug: nature-wilderness-classic-novels
   title: Nature and Wilderness in Classic Novels
@@ -17359,17 +18590,17 @@ colonialism-racism-heart-of-darkness:
   image: /assets/images/blog/blog-86.webp
   lang: en
 greatest-literary-villains-compared:
-- slug: fate-vs-free-will-classic-literature
-  title: Fate vs Free Will in Classic Literature
-  url: /2015/04/05/fate-vs-free-will-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
-  lang: en
 - slug: madness-sanity-classic-literature
   title: Madness and Sanity in Classic Literature
   url: /2015/03/26/madness-sanity-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: fate-vs-free-will-classic-literature
+  title: Fate vs Free Will in Classic Literature
+  url: /2015/04/05/fate-vs-free-will-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
   lang: en
 - slug: parents-children-classic-literature
   title: Parents and Children in Classic Literature
@@ -17433,11 +18664,11 @@ coming-of-age-novels-compared:
   category: leisure
   image: /assets/images/blog/blog-64.webp
   lang: en
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
   category: leisure
-  image: /assets/images/blog/blog-42.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
 social-class-classic-novels-compared:
 - slug: madness-sanity-classic-literature
@@ -17446,17 +18677,17 @@ social-class-classic-novels-compared:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: greatest-literary-villains-compared
-  title: Greatest Villains in Classic Literature
-  url: /2015/01/10/greatest-literary-villains-compared/
-  category: leisure
-  image: /assets/images/blog/blog-08.webp
-  lang: en
 - slug: race-justice-american-novels
   title: Race and Justice in Classic American Novels
   url: /2015/03/01/race-justice-american-novels/
   category: leisure
   image: /assets/images/blog/blog-69.webp
+  lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
   lang: en
 - slug: fate-vs-free-will-classic-literature
   title: Fate vs Free Will in Classic Literature
@@ -17471,12 +18702,6 @@ gender-feminism-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-24.webp
   lang: en
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
-  lang: en
 - slug: complete-analysis-jane-eyre-bronte
   title: Complete Analysis of Jane Eyre
   url: /2014/10/12/complete-analysis-jane-eyre-bronte/
@@ -17488,6 +18713,12 @@ gender-feminism-classic-literature:
   url: /2015/04/05/fate-vs-free-will-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: american-dream-classic-literature
+  title: The American Dream in Classic Literature
+  url: /2015/03/16/american-dream-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
   lang: en
 nature-vs-nurture-classic-novels:
 - slug: gothic-elements-classic-novels
@@ -17508,24 +18739,24 @@ nature-vs-nurture-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
+- slug: isolation-loneliness-classic-novels
+  title: Isolation in Classic Novels Compared
+  url: /2015/02/09/isolation-loneliness-classic-novels/
   category: leisure
-  image: /assets/images/blog/blog-42.webp
+  image: /assets/images/blog/blog-80.webp
   lang: en
 unreliable-narrators-classic-fiction:
+- slug: marlow-character-analysis-conrad
+  title: Marlow Character Analysis in Heart of Darkness
+  url: /2014/12/26/marlow-character-analysis-conrad/
+  category: leisure
+  image: /assets/images/blog/blog-73.webp
+  lang: en
 - slug: holden-caulfield-unreliable-narrator
   title: Holden Caulfield as Unreliable Narrator
   url: /2014/08/13/holden-caulfield-unreliable-narrator/
   category: leisure
   image: /assets/images/blog/blog-33.webp
-  lang: en
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
   lang: en
 - slug: nature-vs-nurture-classic-novels
   title: Nature vs Nurture in Classic Fiction
@@ -17540,29 +18771,29 @@ unreliable-narrators-classic-fiction:
   image: /assets/images/blog/blog-08.webp
   lang: en
 isolation-loneliness-classic-novels:
-- slug: gothic-elements-classic-novels
-  title: Gothic Elements in Classic Novels Compared
-  url: /2015/03/06/gothic-elements-classic-novels/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
-  lang: en
 - slug: fate-vs-free-will-classic-literature
   title: Fate vs Free Will in Classic Literature
   url: /2015/04/05/fate-vs-free-will-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: love-obsession-classic-novels
   title: Love and Obsession in Classic Novels
   url: /2015/02/19/love-obsession-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: social-class-classic-novels-compared
+  title: Social Class in Classic Novels Compared
+  url: /2015/01/20/social-class-classic-novels-compared/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: gothic-elements-classic-novels
+  title: Gothic Elements in Classic Novels Compared
+  url: /2015/03/06/gothic-elements-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
   lang: en
 is-meta-on-a-hiring-freeze:
 - slug: is-meta-on-hiring-freeze
@@ -17596,23 +18827,23 @@ power-corruption-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: parents-children-classic-literature
-  title: Parents and Children in Classic Literature
-  url: /2015/02/24/parents-children-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-84.webp
-  lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: love-obsession-classic-novels
   title: Love and Obsession in Classic Novels
   url: /2015/02/19/love-obsession-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
   lang: en
 love-obsession-classic-novels:
 - slug: fate-vs-free-will-classic-literature
@@ -17621,23 +18852,23 @@ love-obsession-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: parents-children-classic-literature
-  title: Parents and Children in Classic Literature
-  url: /2015/02/24/parents-children-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-84.webp
-  lang: en
 - slug: power-corruption-classic-literature
   title: Power and Corruption in Classic Literature
   url: /2015/02/14/power-corruption-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-13.webp
+  lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
   lang: en
 strait-of-hormuz-worlds-most-critical-chokepoint:
 - slug: upsc-gs1-world-history-events-shaped-modern-world
@@ -17671,17 +18902,11 @@ parents-children-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
-- slug: power-corruption-classic-literature
-  title: Power and Corruption in Classic Literature
-  url: /2015/02/14/power-corruption-classic-literature/
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
   category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
 - slug: madness-sanity-classic-literature
   title: Madness and Sanity in Classic Literature
@@ -17689,30 +18914,36 @@ parents-children-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
+- slug: race-justice-american-novels
+  title: Race and Justice in Classic American Novels
+  url: /2015/03/01/race-justice-american-novels/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
+  lang: en
 race-justice-american-novels:
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
+  lang: en
 - slug: fate-vs-free-will-classic-literature
   title: Fate vs Free Will in Classic Literature
   url: /2015/04/05/fate-vs-free-will-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-36.webp
   lang: en
+- slug: greatest-literary-villains-compared
+  title: Greatest Villains in Classic Literature
+  url: /2015/01/10/greatest-literary-villains-compared/
+  category: leisure
+  image: /assets/images/blog/blog-08.webp
+  lang: en
 - slug: parents-children-classic-literature
   title: Parents and Children in Classic Literature
   url: /2015/02/24/parents-children-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-84.webp
-  lang: en
-- slug: love-obsession-classic-novels
-  title: Love and Obsession in Classic Novels
-  url: /2015/02/19/love-obsession-classic-novels/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: power-corruption-classic-literature
-  title: Power and Corruption in Classic Literature
-  url: /2015/02/14/power-corruption-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
   lang: en
 gothic-elements-classic-novels:
 - slug: nature-vs-nurture-classic-novels
@@ -17721,23 +18952,23 @@ gothic-elements-classic-novels:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: complete-analysis-frankenstein-shelley
+  title: Complete Analysis of Frankenstein
+  url: /2014/08/18/complete-analysis-frankenstein-shelley/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: social-class-classic-novels-compared
+  title: Social Class in Classic Novels Compared
+  url: /2015/01/20/social-class-classic-novels-compared/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
 - slug: isolation-loneliness-classic-novels
   title: Isolation in Classic Novels Compared
   url: /2015/02/09/isolation-loneliness-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-80.webp
-  lang: en
-- slug: fate-vs-free-will-classic-literature
-  title: Fate vs Free Will in Classic Literature
-  url: /2015/04/05/fate-vs-free-will-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
-  lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
   lang: en
 science-morality-classic-fiction:
 - slug: 1984-vs-brave-new-world-vs-fahrenheit
@@ -17752,42 +18983,42 @@ science-morality-classic-fiction:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
+- slug: gothic-elements-classic-novels
+  title: Gothic Elements in Classic Novels Compared
+  url: /2015/03/06/gothic-elements-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
 - slug: isolation-loneliness-classic-novels
   title: Isolation in Classic Novels Compared
   url: /2015/02/09/isolation-loneliness-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: themes-science-ambition-frankenstein
-  title: Science and Ambition in Frankenstein
-  url: /2014/09/02/themes-science-ambition-frankenstein/
-  category: leisure
-  image: /assets/images/blog/blog-15.webp
-  lang: en
 american-dream-classic-literature:
-- slug: fate-vs-free-will-classic-literature
-  title: Fate vs Free Will in Classic Literature
-  url: /2015/04/05/fate-vs-free-will-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-36.webp
-  lang: en
 - slug: american-dream-great-gatsby-analysis
   title: The American Dream in The Great Gatsby
   url: /2014/02/04/american-dream-great-gatsby-analysis/
   category: leisure
   image: /assets/images/blog/blog-16.webp
   lang: en
-- slug: power-corruption-classic-literature
-  title: Power and Corruption in Classic Literature
-  url: /2015/02/14/power-corruption-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
 - slug: complete-analysis-of-mice-and-men
   title: Complete Analysis of Of Mice and Men
   url: /2014/11/01/complete-analysis-of-mice-and-men/
   category: leisure
   image: /assets/images/blog/blog-26.webp
+  lang: en
+- slug: fate-vs-free-will-classic-literature
+  title: Fate vs Free Will in Classic Literature
+  url: /2015/04/05/fate-vs-free-will-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
+- slug: madness-sanity-classic-literature
+  title: Madness and Sanity in Classic Literature
+  url: /2015/03/26/madness-sanity-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-42.webp
   lang: en
 revolution-rebellion-classic-novels:
 - slug: complete-analysis-fahrenheit-451
@@ -17821,6 +19052,12 @@ madness-sanity-classic-literature:
   category: leisure
   image: /assets/images/blog/blog-08.webp
   lang: en
+- slug: fate-vs-free-will-classic-literature
+  title: Fate vs Free Will in Classic Literature
+  url: /2015/04/05/fate-vs-free-will-classic-literature/
+  category: leisure
+  image: /assets/images/blog/blog-36.webp
+  lang: en
 - slug: parents-children-classic-literature
   title: Parents and Children in Classic Literature
   url: /2015/02/24/parents-children-classic-literature/
@@ -17832,12 +19069,6 @@ madness-sanity-classic-literature:
   url: /2015/03/01/race-justice-american-novels/
   category: leisure
   image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: social-class-classic-novels-compared
-  title: Social Class in Classic Novels Compared
-  url: /2015/01/20/social-class-classic-novels-compared/
-  category: leisure
-  image: /assets/images/blog/blog-64.webp
   lang: en
 nature-wilderness-classic-novels:
 - slug: nature-vs-nurture-classic-novels
@@ -17865,42 +19096,17 @@ nature-wilderness-classic-novels:
   image: /assets/images/blog/blog-73.webp
   lang: en
 fate-vs-free-will-classic-literature:
-- slug: parents-children-classic-literature
-  title: Parents and Children in Classic Literature
-  url: /2015/02/24/parents-children-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-84.webp
-  lang: en
 - slug: power-corruption-classic-literature
   title: Power and Corruption in Classic Literature
   url: /2015/02/14/power-corruption-classic-literature/
   category: leisure
   image: /assets/images/blog/blog-13.webp
   lang: en
-- slug: madness-sanity-classic-literature
-  title: Madness and Sanity in Classic Literature
-  url: /2015/03/26/madness-sanity-classic-literature/
-  category: leisure
-  image: /assets/images/blog/blog-42.webp
-  lang: en
 - slug: greatest-literary-villains-compared
   title: Greatest Villains in Classic Literature
   url: /2015/01/10/greatest-literary-villains-compared/
   category: leisure
   image: /assets/images/blog/blog-08.webp
-  lang: en
-top-25-classic-novels-must-read-list:
-- slug: how-to-write-literary-analysis-essay
-  title: How to Write a Literary Analysis Essay
-  url: /2015/04/15/how-to-write-literary-analysis-essay/
-  category: leisure
-  image: /assets/images/blog/blog-16.webp
-  lang: en
-- slug: race-justice-american-novels
-  title: Race and Justice in Classic American Novels
-  url: /2015/03/01/race-justice-american-novels/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
   lang: en
 - slug: madness-sanity-classic-literature
   title: Madness and Sanity in Classic Literature
@@ -17913,6 +19119,31 @@ top-25-classic-novels-must-read-list:
   url: /2015/02/19/love-obsession-classic-novels/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+top-25-classic-novels-must-read-list:
+- slug: how-to-write-literary-analysis-essay
+  title: How to Write a Literary Analysis Essay
+  url: /2015/04/15/how-to-write-literary-analysis-essay/
+  category: leisure
+  image: /assets/images/blog/blog-16.webp
+  lang: en
+- slug: love-obsession-classic-novels
+  title: Love and Obsession in Classic Novels
+  url: /2015/02/19/love-obsession-classic-novels/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: social-class-classic-novels-compared
+  title: Social Class in Classic Novels Compared
+  url: /2015/01/20/social-class-classic-novels-compared/
+  category: leisure
+  image: /assets/images/blog/blog-64.webp
+  lang: en
+- slug: race-justice-american-novels
+  title: Race and Justice in Classic American Novels
+  url: /2015/03/01/race-justice-american-novels/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
   lang: en
 how-to-write-literary-analysis-essay:
 - slug: top-25-classic-novels-must-read-list
@@ -18152,12 +19383,6 @@ sparta-vs-athens-compared-explained:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
-- slug: history-of-democracy-explained
-  title: The History of Democracy Explained
-  url: /2016/07/23/history-of-democracy-explained/
-  category: leisure
-  image: /assets/images/blog/blog-02.webp
-  lang: en
 - slug: ancient-greek-civilization-explained
   title: Ancient Greek Civilization Explained
   url: /2015/04/25/ancient-greek-civilization-explained/
@@ -18169,6 +19394,12 @@ sparta-vs-athens-compared-explained:
   url: /2016/07/13/greatest-revolutions-history-compared/
   category: leisure
   image: /assets/images/blog/blog-10.webp
+  lang: en
+- slug: greatest-empires-history-compared
+  title: Greatest Empires in History Compared
+  url: /2016/07/08/greatest-empires-history-compared/
+  category: leisure
+  image: /assets/images/blog/blog-87.webp
   lang: en
 persian-empire-history-explained:
 - slug: rise-and-fall-roman-empire-explained
@@ -18264,11 +19495,11 @@ greek-mythology-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: soviet-afghanistan-war-explained
-  title: The Soviet-Afghan War Explained
-  url: /2016/04/14/soviet-afghanistan-war-explained/
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-69.webp
   lang: en
 destruction-pompeii-vesuvius-79-ad:
 - slug: rise-and-fall-roman-empire-explained
@@ -18321,6 +19552,12 @@ is-meta-going-to-have-layoffs-2:
   image: /assets/images/blog/blog-86.webp
   lang: en
 han-dynasty-china-golden-age:
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
+  category: leisure
+  image: /assets/images/blog/blog-40.webp
+  lang: en
 - slug: rise-and-fall-roman-empire-explained
   title: Rise and Fall of the Roman Empire Explained
   url: /2015/04/20/rise-and-fall-roman-empire-explained/
@@ -18338,12 +19575,6 @@ han-dynasty-china-golden-age:
   url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
   image: /assets/images/blog/blog-63.webp
-  lang: en
-- slug: deadliest-wars-history-ranked
-  title: Deadliest Wars in Human History Ranked
-  url: /2016/07/18/deadliest-wars-history-ranked/
-  category: leisure
-  image: /assets/images/blog/blog-51.webp
   lang: en
 maurya-empire-ancient-india:
 - slug: mughal-empire-india-history
@@ -18552,6 +19783,12 @@ medieval-feudalism-explained:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
+  lang: en
 - slug: viking-age-history-explained
   title: 'The Viking Age: History and Legacy Explained'
   url: /2015/07/19/viking-age-history-explained/
@@ -18564,24 +19801,18 @@ medieval-feudalism-explained:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: brexit-explained-complete-guide
-  title: 'Brexit Explained: Complete Guide'
-  url: /2016/06/28/brexit-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-57.webp
-  lang: en
 the-renaissance-explained-complete:
-- slug: how-ww1-changed-the-world
-  title: How World War I Changed the World Forever
-  url: /2015/12/16/how-ww1-changed-the-world/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
 - slug: european-union-formation-history
   title: How the European Union Was Formed
   url: /2016/06/23/european-union-formation-history/
   category: leisure
   image: /assets/images/blog/blog-62.webp
+  lang: en
+- slug: how-ww1-changed-the-world
+  title: How World War I Changed the World Forever
+  url: /2015/12/16/how-ww1-changed-the-world/
+  category: leisure
+  image: /assets/images/blog/blog-20.webp
   lang: en
 - slug: protestant-reformation-explained
   title: The Protestant Reformation Explained
@@ -18621,17 +19852,17 @@ protestant-reformation-explained:
   image: /assets/images/blog/blog-72.webp
   lang: en
 age-of-exploration-history-explained:
-- slug: brexit-explained-complete-guide
-  title: 'Brexit Explained: Complete Guide'
-  url: /2016/06/28/brexit-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-57.webp
-  lang: en
 - slug: napoleonic-wars-explained-complete
   title: The Napoleonic Wars Explained
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: protestant-reformation-explained
   title: The Protestant Reformation Explained
@@ -18644,6 +19875,12 @@ age-of-exploration-history-explained:
   url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
   image: /assets/images/blog/blog-72.webp
+  lang: en
+- slug: spanish-armada-1588-explained
+  title: The Spanish Armada of 1588 Explained
+  url: /2015/08/23/spanish-armada-1588-explained/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 is-meta-going-to-have-layoffs:
 - slug: meta-layoffs-2022
@@ -18671,12 +19908,6 @@ is-meta-going-to-have-layoffs:
   image: /assets/images/blog/blog-30.webp
   lang: en
 spanish-armada-1588-explained:
-- slug: brexit-explained-complete-guide
-  title: 'Brexit Explained: Complete Guide'
-  url: /2016/06/28/brexit-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-57.webp
-  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
@@ -18688,6 +19919,12 @@ spanish-armada-1588-explained:
   url: /2015/09/22/napoleonic-wars-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-20.webp
+  lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: treaty-of-versailles-explained
   title: The Treaty of Versailles Explained
@@ -18739,11 +19976,11 @@ mughal-empire-india-history:
   category: leisure
   image: /assets/images/blog/blog-39.webp
   lang: en
-- slug: history-of-democracy-explained
-  title: The History of Democracy Explained
-  url: /2016/07/23/history-of-democracy-explained/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-02.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 french-revolution-explained-complete:
 - slug: napoleonic-wars-explained-complete
@@ -18852,17 +20089,17 @@ napoleonic-wars-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-48.webp
   lang: en
-- slug: brexit-explained-complete-guide
-  title: 'Brexit Explained: Complete Guide'
-  url: /2016/06/28/brexit-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-57.webp
-  lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
   image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: brexit-explained-complete-guide
+  title: 'Brexit Explained: Complete Guide'
+  url: /2016/06/28/brexit-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-57.webp
   lang: en
 - slug: causes-of-world-war-1-explained
   title: Causes of World War I Explained
@@ -18877,6 +20114,12 @@ napoleonic-wars-explained-complete:
   image: /assets/images/blog/blog-30.webp
   lang: en
 haitian-revolution-explained:
+- slug: arab-spring-explained-complete
+  title: The Arab Spring Explained
+  url: /2016/06/18/arab-spring-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
+  lang: en
 - slug: american-revolution-explained-complete
   title: The American Revolution Explained
   url: /2015/09/12/american-revolution-explained-complete/
@@ -18895,24 +20138,12 @@ haitian-revolution-explained:
   category: leisure
   image: /assets/images/blog/blog-35.webp
   lang: en
-- slug: abolition-slavery-history-timeline
-  title: 'Abolition of Slavery: History and Timeline'
-  url: /2015/10/17/abolition-slavery-history-timeline/
-  category: leisure
-  image: /assets/images/blog/blog-62.webp
-  lang: en
 declaration-of-independence-explained:
 - slug: american-revolution-explained-complete
   title: The American Revolution Explained
   url: /2015/09/12/american-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-83.webp
-  lang: en
-- slug: war-on-terror-explained-complete
-  title: The War on Terror Explained
-  url: /2016/06/13/war-on-terror-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
   lang: en
 - slug: september-11-attacks-explained
   title: The September 11 Attacks Explained
@@ -18925,6 +20156,12 @@ declaration-of-independence-explained:
   url: /2015/12/26/great-depression-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
   lang: en
 how-long-is-ibm-hiring-process:
 - slug: ibm-interview-process
@@ -19002,29 +20239,29 @@ abolition-slavery-history-timeline:
   image: /assets/images/blog/blog-53.webp
   lang: en
 scramble-for-africa-colonialism:
-- slug: how-world-war-2-ended-explained
-  title: How World War II Ended Explained
-  url: /2016/02/19/how-world-war-2-ended-explained/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: age-of-exploration-history-explained
-  title: The Age of Exploration Explained
-  url: /2015/08/18/age-of-exploration-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
-  lang: en
 - slug: rwandan-genocide-1994-explained
   title: The Rwandan Genocide Explained
   url: /2016/05/14/rwandan-genocide-1994-explained/
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: apartheid-south-africa-explained
-  title: Apartheid in South Africa Explained
-  url: /2016/05/09/apartheid-south-africa-explained/
+- slug: how-world-war-2-ended-explained
+  title: How World War II Ended Explained
+  url: /2016/02/19/how-world-war-2-ended-explained/
   category: leisure
-  image: /assets/images/blog/blog-40.webp
+  image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: age-of-exploration-history-explained
+  title: The Age of Exploration Explained
+  url: /2015/08/18/age-of-exploration-history-explained/
+  category: leisure
+  image: /assets/images/blog/blog-77.webp
   lang: en
 unification-germany-bismarck:
 - slug: unification-italy-risorgimento
@@ -19083,23 +20320,23 @@ meiji-restoration-japan-explained:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: nuclear-arms-race-explained
-  title: The Nuclear Arms Race Explained
-  url: /2016/04/19/nuclear-arms-race-explained/
-  category: leisure
-  image: /assets/images/blog/blog-78.webp
-  lang: en
 - slug: history-of-democracy-explained
   title: The History of Democracy Explained
   url: /2016/07/23/history-of-democracy-explained/
   category: leisure
   image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: deadliest-wars-history-ranked
-  title: Deadliest Wars in Human History Ranked
-  url: /2016/07/18/deadliest-wars-history-ranked/
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
   category: leisure
-  image: /assets/images/blog/blog-51.webp
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
   lang: en
 irish-great-famine-history-explained:
 - slug: brexit-explained-complete-guide
@@ -19214,17 +20451,17 @@ trench-warfare-ww1-explained:
   category: leisure
   image: /assets/images/blog/blog-72.webp
   lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: battle-of-stalingrad-explained
   title: The Battle of Stalingrad Explained
   url: /2016/02/09/battle-of-stalingrad-explained/
   category: leisure
   image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
   lang: en
 treaty-of-versailles-explained:
 - slug: causes-of-world-war-1-explained
@@ -19377,12 +20614,6 @@ how-ww1-changed-the-world:
   image: /assets/images/blog/blog-06.webp
   lang: en
 rise-of-hitler-nazi-germany:
-- slug: nuremberg-trials-explained
-  title: The Nuremberg Trials Explained
-  url: /2016/02/24/nuremberg-trials-explained/
-  category: leisure
-  image: /assets/images/blog/blog-24.webp
-  lang: en
 - slug: the-holocaust-explained-complete
   title: 'The Holocaust Explained: Complete History'
   url: /2016/01/30/the-holocaust-explained-complete/
@@ -19401,7 +20632,19 @@ rise-of-hitler-nazi-germany:
   category: leisure
   image: /assets/images/blog/blog-31.webp
   lang: en
+- slug: rise-of-mussolini-fascist-italy
+  title: Mussolini and the Rise of Fascism in Italy
+  url: /2015/12/31/rise-of-mussolini-fascist-italy/
+  category: leisure
+  image: /assets/images/blog/blog-66.webp
+  lang: en
 great-depression-explained-complete:
+- slug: september-11-attacks-explained
+  title: The September 11 Attacks Explained
+  url: /2016/06/08/september-11-attacks-explained/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
 - slug: declaration-of-independence-explained
   title: The Declaration of Independence Explained
   url: /2015/10/07/declaration-of-independence-explained/
@@ -19419,12 +20662,6 @@ great-depression-explained-complete:
   url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-61.webp
-  lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
   lang: en
 rise-of-mussolini-fascist-italy:
 - slug: rise-of-hitler-nazi-germany
@@ -19489,17 +20726,17 @@ spanish-civil-war-explained:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: pearl-harbor-attack-explained
-  title: The Attack on Pearl Harbor Explained
-  url: /2016/02/04/pearl-harbor-attack-explained/
+- slug: korean-war-explained-complete
+  title: The Korean War Explained
+  url: /2016/03/20/korean-war-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-44.webp
+  image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: scramble-for-africa-colonialism
-  title: The Scramble for Africa Explained
-  url: /2015/10/22/scramble-for-africa-colonialism/
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-66.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 ibm-interview-technical-questions:
 - slug: ibm-technical-interview-questions
@@ -19527,12 +20764,6 @@ ibm-interview-technical-questions:
   image: /assets/images/blog/blog-64.webp
   lang: en
 weimar-republic-explained:
-- slug: berlin-wall-history-explained
-  title: 'The Berlin Wall: History and Fall Explained'
-  url: /2016/03/30/berlin-wall-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-44.webp
-  lang: en
 - slug: fall-of-berlin-wall-1989-explained
   title: The Fall of the Berlin Wall in 1989
   url: /2016/04/29/fall-of-berlin-wall-1989-explained/
@@ -19550,6 +20781,12 @@ weimar-republic-explained:
   url: /2015/12/31/rise-of-mussolini-fascist-italy/
   category: leisure
   image: /assets/images/blog/blog-66.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 causes-of-world-war-2-explained:
 - slug: causes-of-world-war-1-explained
@@ -19583,12 +20820,6 @@ d-day-normandy-invasion-explained:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
-  lang: en
 - slug: battle-of-the-somme-explained
   title: The Battle of the Somme Explained
   url: /2015/12/01/battle-of-the-somme-explained/
@@ -19601,18 +20832,24 @@ d-day-normandy-invasion-explained:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-the-holocaust-explained-complete:
-- slug: nuremberg-trials-explained
-  title: The Nuremberg Trials Explained
-  url: /2016/02/24/nuremberg-trials-explained/
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-24.webp
+  image: /assets/images/blog/blog-69.webp
   lang: en
+the-holocaust-explained-complete:
 - slug: rise-of-hitler-nazi-germany
   title: Rise of Hitler and Nazi Germany Explained
   url: /2015/12/21/rise-of-hitler-nazi-germany/
   category: leisure
   image: /assets/images/blog/blog-49.webp
+  lang: en
+- slug: rwandan-genocide-1994-explained
+  title: The Rwandan Genocide Explained
+  url: /2016/05/14/rwandan-genocide-1994-explained/
+  category: leisure
+  image: /assets/images/blog/blog-32.webp
   lang: en
 - slug: armenian-genocide-history-explained
   title: The Armenian Genocide Explained
@@ -19620,11 +20857,11 @@ the-holocaust-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: rwandan-genocide-1994-explained
-  title: The Rwandan Genocide Explained
-  url: /2016/05/14/rwandan-genocide-1994-explained/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-32.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 pearl-harbor-attack-explained:
 - slug: pearl-harbor-yamamoto-december-1941-decision
@@ -19639,17 +20876,17 @@ pearl-harbor-attack-explained:
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
+- slug: nuremberg-trials-explained
+  title: The Nuremberg Trials Explained
+  url: /2016/02/24/nuremberg-trials-explained/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
+  lang: en
 - slug: scramble-for-africa-colonialism
   title: The Scramble for Africa Explained
   url: /2015/10/22/scramble-for-africa-colonialism/
   category: leisure
   image: /assets/images/blog/blog-66.webp
-  lang: en
-- slug: spanish-civil-war-explained
-  title: The Spanish Civil War Explained
-  url: /2016/01/10/spanish-civil-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-53.webp
   lang: en
 battle-of-stalingrad-explained:
 - slug: d-day-normandy-invasion-explained
@@ -19682,6 +20919,12 @@ battle-of-stalingrad-explained:
   category: leisure
   image: /assets/images/blog/blog-86.webp
   lang: en
+- slug: hiroshima-nagasaki-atomic-bombs
+  title: 'Hiroshima and Nagasaki: The Atomic Bombs'
+  url: /2016/02/14/hiroshima-nagasaki-atomic-bombs/
+  category: leisure
+  image: /assets/images/blog/blog-05.webp
+  lang: en
 hiroshima-nagasaki-atomic-bombs:
 - slug: battle-of-stalingrad-explained
   title: The Battle of Stalingrad Explained
@@ -19701,11 +20944,11 @@ hiroshima-nagasaki-atomic-bombs:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: resistance-movements-world-war-2
-  title: Resistance Movements in World War II
-  url: /2016/02/29/resistance-movements-world-war-2/
+- slug: winston-churchill-ww2-leadership
+  title: Winston Churchill's Leadership in WWII
+  url: /2016/03/05/winston-churchill-ww2-leadership/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-09.webp
   lang: en
 how-world-war-2-ended-explained:
 - slug: causes-of-world-war-2-explained
@@ -19713,6 +20956,12 @@ how-world-war-2-ended-explained:
   url: /2016/01/20/causes-of-world-war-2-explained/
   category: leisure
   image: /assets/images/blog/blog-56.webp
+  lang: en
+- slug: nuremberg-trials-explained
+  title: The Nuremberg Trials Explained
+  url: /2016/02/24/nuremberg-trials-explained/
+  category: leisure
+  image: /assets/images/blog/blog-24.webp
   lang: en
 - slug: spanish-civil-war-explained
   title: The Spanish Civil War Explained
@@ -19725,12 +20974,6 @@ how-world-war-2-ended-explained:
   url: /2015/11/16/causes-of-world-war-1-explained/
   category: leisure
   image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: trench-warfare-ww1-explained
-  title: Trench Warfare in World War I Explained
-  url: /2015/11/21/trench-warfare-ww1-explained/
-  category: leisure
-  image: /assets/images/blog/blog-34.webp
   lang: en
 ibm-interview-questions:
 - slug: ibm-interview-technical-questions
@@ -19758,29 +21001,29 @@ ibm-interview-questions:
   image: /assets/images/blog/blog-41.webp
   lang: en
 nuremberg-trials-explained:
-- slug: rise-of-hitler-nazi-germany
-  title: Rise of Hitler and Nazi Germany Explained
-  url: /2015/12/21/rise-of-hitler-nazi-germany/
+- slug: how-world-war-2-ended-explained
+  title: How World War II Ended Explained
+  url: /2016/02/19/how-world-war-2-ended-explained/
   category: leisure
   image: /assets/images/blog/blog-49.webp
   lang: en
-- slug: the-holocaust-explained-complete
-  title: 'The Holocaust Explained: Complete History'
-  url: /2016/01/30/the-holocaust-explained-complete/
+- slug: spanish-civil-war-explained
+  title: The Spanish Civil War Explained
+  url: /2016/01/10/spanish-civil-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-04.webp
+  image: /assets/images/blog/blog-53.webp
   lang: en
-- slug: causes-of-world-war-2-explained
-  title: Causes of World War II Explained
-  url: /2016/01/20/causes-of-world-war-2-explained/
+- slug: pearl-harbor-attack-explained
+  title: The Attack on Pearl Harbor Explained
+  url: /2016/02/04/pearl-harbor-attack-explained/
   category: leisure
-  image: /assets/images/blog/blog-56.webp
+  image: /assets/images/blog/blog-44.webp
   lang: en
-- slug: battle-of-stalingrad-explained
-  title: The Battle of Stalingrad Explained
-  url: /2016/02/09/battle-of-stalingrad-explained/
+- slug: scramble-for-africa-colonialism
+  title: The Scramble for Africa Explained
+  url: /2015/10/22/scramble-for-africa-colonialism/
   category: leisure
-  image: /assets/images/blog/blog-29.webp
+  image: /assets/images/blog/blog-66.webp
   lang: en
 resistance-movements-world-war-2:
 - slug: causes-of-world-war-2-explained
@@ -19789,23 +21032,23 @@ resistance-movements-world-war-2:
   category: leisure
   image: /assets/images/blog/blog-56.webp
   lang: en
-- slug: rise-of-hitler-nazi-germany
-  title: Rise of Hitler and Nazi Germany Explained
-  url: /2015/12/21/rise-of-hitler-nazi-germany/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
-  lang: en
 - slug: d-day-normandy-invasion-explained
   title: D-Day and the Normandy Invasion Explained
   url: /2016/01/25/d-day-normandy-invasion-explained/
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-- slug: hiroshima-nagasaki-atomic-bombs
-  title: 'Hiroshima and Nagasaki: The Atomic Bombs'
-  url: /2016/02/14/hiroshima-nagasaki-atomic-bombs/
+- slug: battle-of-stalingrad-explained
+  title: The Battle of Stalingrad Explained
+  url: /2016/02/09/battle-of-stalingrad-explained/
   category: leisure
-  image: /assets/images/blog/blog-05.webp
+  image: /assets/images/blog/blog-29.webp
+  lang: en
+- slug: winston-churchill-ww2-leadership
+  title: Winston Churchill's Leadership in WWII
+  url: /2016/03/05/winston-churchill-ww2-leadership/
+  category: leisure
+  image: /assets/images/blog/blog-09.webp
   lang: en
 winston-churchill-ww2-leadership:
 - slug: d-day-normandy-invasion-explained
@@ -19839,30 +21082,17 @@ cold-war-explained-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: nuclear-arms-race-explained
-  title: The Nuclear Arms Race Explained
-  url: /2016/04/19/nuclear-arms-race-explained/
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: dissolution-soviet-union-explained
-  title: The Dissolution of the Soviet Union
-  url: /2016/05/19/dissolution-soviet-union-explained/
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: cuban-missile-crisis-explained
-  title: The Cuban Missile Crisis Explained
-  url: /2016/03/15/cuban-missile-crisis-explained/
-  category: leisure
-  image: /assets/images/blog/blog-13.webp
-  lang: en
-cuban-missile-crisis-explained:
-- slug: cold-war-explained-complete-guide
-  title: 'The Cold War Explained: Complete Guide'
-  url: /2016/03/10/cold-war-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
 - slug: korean-war-explained-complete
   title: The Korean War Explained
@@ -19870,17 +21100,30 @@ cuban-missile-crisis-explained:
   category: leisure
   image: /assets/images/blog/blog-22.webp
   lang: en
-- slug: nuclear-arms-race-explained
-  title: The Nuclear Arms Race Explained
-  url: /2016/04/19/nuclear-arms-race-explained/
+cuban-missile-crisis-explained:
+- slug: vietnam-war-explained-complete
+  title: The Vietnam War Explained
+  url: /2016/03/25/vietnam-war-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-78.webp
+  image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: soviet-afghanistan-war-explained
-  title: The Soviet-Afghan War Explained
-  url: /2016/04/14/soviet-afghanistan-war-explained/
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: mccarthyism-red-scare-explained
+  title: McCarthyism and the Red Scare Explained
+  url: /2016/04/09/mccarthyism-red-scare-explained/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: korean-war-explained-complete
+  title: The Korean War Explained
+  url: /2016/03/20/korean-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-22.webp
   lang: en
 ibm-panel-interview:
 - slug: ibm-interview-questions
@@ -19914,9 +21157,40 @@ korean-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 - slug: proxy-wars-cold-war-explained
   title: Proxy Wars of the Cold War Explained
   url: /2016/04/24/proxy-wars-cold-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: soviet-afghanistan-war-explained
+  title: The Soviet-Afghan War Explained
+  url: /2016/04/14/soviet-afghanistan-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+vietnam-war-explained-complete:
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
+  lang: en
+- slug: mccarthyism-red-scare-explained
+  title: McCarthyism and the Red Scare Explained
+  url: /2016/04/09/mccarthyism-red-scare-explained/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
@@ -19926,24 +21200,30 @@ korean-war-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-63.webp
   lang: en
-- slug: soviet-afghanistan-war-explained
-  title: The Soviet-Afghan War Explained
-  url: /2016/04/14/soviet-afghanistan-war-explained/
+- slug: cuban-missile-crisis-explained
+  title: The Cuban Missile Crisis Explained
+  url: /2016/03/15/cuban-missile-crisis-explained/
   category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-13.webp
   lang: en
 - slug: falklands-war-1982-explained
   title: The Falklands War of 1982 Explained
   url: /2016/06/03/falklands-war-1982-explained/
   category: leisure
-  image: /assets/images/blog/blog-79.webp
+  image: /assets/images/blog/blog-08.webp
   lang: en
-vietnam-war-explained-complete:
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
+berlin-wall-history-explained:
+- slug: fall-of-berlin-wall-1989-explained
+  title: The Fall of the Berlin Wall in 1989
+  url: /2016/04/29/fall-of-berlin-wall-1989-explained/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
   lang: en
 - slug: proxy-wars-cold-war-explained
   title: Proxy Wars of the Cold War Explained
@@ -19955,38 +21235,7 @@ vietnam-war-explained-complete:
   title: McCarthyism and the Red Scare Explained
   url: /2016/04/09/mccarthyism-red-scare-explained/
   category: leisure
-  image: /assets/images/blog/blog-18.webp
-  lang: en
-- slug: war-on-terror-explained-complete
-  title: The War on Terror Explained
-  url: /2016/06/13/war-on-terror-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
-  lang: en
-berlin-wall-history-explained:
-- slug: fall-of-berlin-wall-1989-explained
-  title: The Fall of the Berlin Wall in 1989
-  url: /2016/04/29/fall-of-berlin-wall-1989-explained/
-  category: leisure
-  image: /assets/images/blog/blog-51.webp
-  lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: soviet-afghanistan-war-explained
-  title: The Soviet-Afghan War Explained
-  url: /2016/04/14/soviet-afghanistan-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-65.webp
+  image: /assets/images/blog/blog-12.webp
   lang: en
 space-race-explained-complete:
 - slug: nuclear-arms-race-explained
@@ -20001,17 +21250,17 @@ space-race-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
+- slug: history-of-human-rights-explained
+  title: The History of Human Rights Explained
+  url: /2016/08/17/history-of-human-rights-explained/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-63.webp
   lang: en
 ibm-technical-interview-questions:
 - slug: ibm-interview-technical-questions
@@ -20039,17 +21288,36 @@ ibm-technical-interview-questions:
   image: /assets/images/blog/blog-41.webp
   lang: en
 mccarthyism-red-scare-explained:
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
+- slug: war-on-terror-explained-complete
+  title: The War on Terror Explained
+  url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-69.webp
+  image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: soviet-afghanistan-war-explained
+  title: The Soviet-Afghan War Explained
+  url: /2016/04/14/soviet-afghanistan-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
+  lang: en
+soviet-afghanistan-war-explained:
+- slug: dissolution-soviet-union-explained
+  title: The Dissolution of the Soviet Union
+  url: /2016/05/19/dissolution-soviet-union-explained/
+  category: leisure
+  image: /assets/images/blog/blog-85.webp
   lang: en
 - slug: cold-war-explained-complete-guide
   title: 'The Cold War Explained: Complete Guide'
@@ -20063,25 +21331,6 @@ mccarthyism-red-scare-explained:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
-soviet-afghanistan-war-explained:
-- slug: cold-war-explained-complete-guide
-  title: 'The Cold War Explained: Complete Guide'
-  url: /2016/03/10/cold-war-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
-  lang: en
-- slug: dissolution-soviet-union-explained
-  title: The Dissolution of the Soviet Union
-  url: /2016/05/19/dissolution-soviet-union-explained/
-  category: leisure
-  image: /assets/images/blog/blog-85.webp
-  lang: en
-- slug: vietnam-war-explained-complete
-  title: The Vietnam War Explained
-  url: /2016/03/25/vietnam-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: proxy-wars-cold-war-explained
   title: Proxy Wars of the Cold War Explained
   url: /2016/04/24/proxy-wars-cold-war-explained/
@@ -20089,12 +21338,6 @@ soviet-afghanistan-war-explained:
   image: /assets/images/blog/blog-61.webp
   lang: en
 nuclear-arms-race-explained:
-- slug: cold-war-explained-complete-guide
-  title: 'The Cold War Explained: Complete Guide'
-  url: /2016/03/10/cold-war-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
-  lang: en
 - slug: space-race-explained-complete
   title: 'The Space Race Explained: US vs USSR'
   url: /2016/04/04/space-race-explained-complete/
@@ -20107,11 +21350,17 @@ nuclear-arms-race-explained:
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: history-of-human-rights-explained
-  title: The History of Human Rights Explained
-  url: /2016/08/17/history-of-human-rights-explained/
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
   category: leisure
-  image: /assets/images/blog/blog-63.webp
+  image: /assets/images/blog/blog-40.webp
+  lang: en
+- slug: soviet-afghanistan-war-explained
+  title: The Soviet-Afghan War Explained
+  url: /2016/04/14/soviet-afghanistan-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-65.webp
   lang: en
 proxy-wars-cold-war-explained:
 - slug: deadliest-wars-history-ranked
@@ -20119,12 +21368,6 @@ proxy-wars-cold-war-explained:
   url: /2016/07/18/deadliest-wars-history-ranked/
   category: leisure
   image: /assets/images/blog/blog-51.webp
-  lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
   lang: en
 - slug: nuclear-arms-race-explained
   title: The Nuclear Arms Race Explained
@@ -20138,9 +21381,15 @@ proxy-wars-cold-war-explained:
   category: leisure
   image: /assets/images/blog/blog-44.webp
   lang: en
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
+  category: leisure
+  image: /assets/images/blog/blog-63.webp
+  lang: en
 fall-of-berlin-wall-1989-explained:
 - slug: berlin-wall-history-explained
-  title: 'The Berlin Wall: History and Fall Explained'
+  title: 'The Berlin Wall: History and Fall'
   url: /2016/03/30/berlin-wall-history-explained/
   category: leisure
   image: /assets/images/blog/blog-44.webp
@@ -20151,25 +21400,19 @@ fall-of-berlin-wall-1989-explained:
   category: leisure
   image: /assets/images/blog/blog-75.webp
   lang: en
-- slug: mccarthyism-red-scare-explained
-  title: McCarthyism and the Red Scare Explained
-  url: /2016/04/09/mccarthyism-red-scare-explained/
-  category: leisure
-  image: /assets/images/blog/blog-18.webp
-  lang: en
 - slug: soviet-afghanistan-war-explained
   title: The Soviet-Afghan War Explained
   url: /2016/04/14/soviet-afghanistan-war-explained/
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-tiananmen-square-1989-explained:
-- slug: history-of-human-rights-explained
-  title: The History of Human Rights Explained
-  url: /2016/08/17/history-of-human-rights-explained/
+- slug: mccarthyism-red-scare-explained
+  title: McCarthyism and the Red Scare Explained
+  url: /2016/04/09/mccarthyism-red-scare-explained/
   category: leisure
-  image: /assets/images/blog/blog-63.webp
+  image: /assets/images/blog/blog-12.webp
   lang: en
+tiananmen-square-1989-explained:
 - slug: armenian-genocide-history-explained
   title: The Armenian Genocide Explained
   url: /2015/12/11/armenian-genocide-history-explained/
@@ -20182,11 +21425,17 @@ tiananmen-square-1989-explained:
   category: leisure
   image: /assets/images/blog/blog-40.webp
   lang: en
-- slug: history-of-democracy-explained
-  title: The History of Democracy Explained
-  url: /2016/07/23/history-of-democracy-explained/
+- slug: rwandan-genocide-1994-explained
+  title: The Rwandan Genocide Explained
+  url: /2016/05/14/rwandan-genocide-1994-explained/
   category: leisure
-  image: /assets/images/blog/blog-02.webp
+  image: /assets/images/blog/blog-32.webp
+  lang: en
+- slug: the-holocaust-explained-complete
+  title: 'The Holocaust Explained: Complete History'
+  url: /2016/01/30/the-holocaust-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
   lang: en
 ibm-associate-developer-interview:
 - slug: ibm-panel-interview
@@ -20220,17 +21469,17 @@ apartheid-south-africa-explained:
   category: leisure
   image: /assets/images/blog/blog-32.webp
   lang: en
-- slug: history-of-human-rights-explained
-  title: The History of Human Rights Explained
-  url: /2016/08/17/history-of-human-rights-explained/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
-  lang: en
 - slug: armenian-genocide-history-explained
   title: The Armenian Genocide Explained
   url: /2015/12/11/armenian-genocide-history-explained/
   category: leisure
   image: /assets/images/blog/blog-44.webp
+  lang: en
+- slug: the-holocaust-explained-complete
+  title: 'The Holocaust Explained: Complete History'
+  url: /2016/01/30/the-holocaust-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-04.webp
   lang: en
 - slug: tiananmen-square-1989-explained
   title: Tiananmen Square 1989 Explained
@@ -20270,23 +21519,23 @@ dissolution-soviet-union-explained:
   category: leisure
   image: /assets/images/blog/blog-65.webp
   lang: en
-- slug: cold-war-explained-complete-guide
-  title: 'The Cold War Explained: Complete Guide'
-  url: /2016/03/10/cold-war-explained-complete-guide/
-  category: leisure
-  image: /assets/images/blog/blog-63.webp
-  lang: en
 - slug: stalin-soviet-union-history
   title: Stalin and the Soviet Union Explained
   url: /2016/01/05/stalin-soviet-union-history/
   category: leisure
   image: /assets/images/blog/blog-69.webp
   lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
+- slug: cold-war-explained-complete-guide
+  title: 'The Cold War Explained: Complete Guide'
+  url: /2016/03/10/cold-war-explained-complete-guide/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-63.webp
+  lang: en
+- slug: proxy-wars-cold-war-explained
+  title: Proxy Wars of the Cold War Explained
+  url: /2016/04/24/proxy-wars-cold-war-explained/
+  category: leisure
+  image: /assets/images/blog/blog-61.webp
   lang: en
 yugoslav-wars-1990s-explained:
 - slug: napoleonic-wars-explained-complete
@@ -20295,23 +21544,23 @@ yugoslav-wars-1990s-explained:
   category: leisure
   image: /assets/images/blog/blog-20.webp
   lang: en
-- slug: treaty-of-versailles-explained
-  title: The Treaty of Versailles Explained
-  url: /2015/11/26/treaty-of-versailles-explained/
+- slug: protestant-reformation-explained
+  title: The Protestant Reformation Explained
+  url: /2015/08/13/protestant-reformation-explained/
   category: leisure
-  image: /assets/images/blog/blog-31.webp
-  lang: en
-- slug: rise-of-hitler-nazi-germany
-  title: Rise of Hitler and Nazi Germany Explained
-  url: /2015/12/21/rise-of-hitler-nazi-germany/
-  category: leisure
-  image: /assets/images/blog/blog-49.webp
+  image: /assets/images/blog/blog-11.webp
   lang: en
 - slug: age-of-exploration-history-explained
   title: The Age of Exploration Explained
   url: /2015/08/18/age-of-exploration-history-explained/
   category: leisure
   image: /assets/images/blog/blog-77.webp
+  lang: en
+- slug: treaty-of-versailles-explained
+  title: The Treaty of Versailles Explained
+  url: /2015/11/26/treaty-of-versailles-explained/
+  category: leisure
+  image: /assets/images/blog/blog-31.webp
   lang: en
 iranian-revolution-1979-explained:
 - slug: arab-spring-explained-complete
@@ -20320,17 +21569,17 @@ iranian-revolution-1979-explained:
   category: leisure
   image: /assets/images/blog/blog-25.webp
   lang: en
-- slug: american-revolution-explained-complete
-  title: The American Revolution Explained
-  url: /2015/09/12/american-revolution-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-83.webp
-  lang: en
 - slug: industrial-revolution-explained
   title: The Industrial Revolution Explained
   url: /2015/09/17/industrial-revolution-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
+  lang: en
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-83.webp
   lang: en
 - slug: scientific-revolution-history-explained
   title: The Scientific Revolution Explained
@@ -20339,23 +21588,17 @@ iranian-revolution-1979-explained:
   image: /assets/images/blog/blog-44.webp
   lang: en
 falklands-war-1982-explained:
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-22.webp
-  lang: en
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
-  category: leisure
-  image: /assets/images/blog/blog-61.webp
-  lang: en
 - slug: trench-warfare-ww1-explained
   title: Trench Warfare in World War I Explained
   url: /2015/11/21/trench-warfare-ww1-explained/
   category: leisure
   image: /assets/images/blog/blog-34.webp
+  lang: en
+- slug: battle-of-stalingrad-explained
+  title: The Battle of Stalingrad Explained
+  url: /2016/02/09/battle-of-stalingrad-explained/
+  category: leisure
+  image: /assets/images/blog/blog-29.webp
   lang: en
 - slug: d-day-normandy-invasion-explained
   title: D-Day and the Normandy Invasion Explained
@@ -20363,30 +21606,36 @@ falklands-war-1982-explained:
   category: leisure
   image: /assets/images/blog/blog-83.webp
   lang: en
-september-11-attacks-explained:
-- slug: declaration-of-independence-explained
-  title: The Declaration of Independence Explained
-  url: /2015/10/07/declaration-of-independence-explained/
+- slug: battle-of-the-somme-explained
+  title: The Battle of the Somme Explained
+  url: /2015/12/01/battle-of-the-somme-explained/
   category: leisure
-  image: /assets/images/blog/blog-02.webp
+  image: /assets/images/blog/blog-77.webp
   lang: en
+september-11-attacks-explained:
 - slug: war-on-terror-explained-complete
   title: The War on Terror Explained
   url: /2016/06/13/war-on-terror-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-61.webp
   lang: en
-- slug: american-civil-war-explained-complete
-  title: The American Civil War Explained
-  url: /2015/10/12/american-civil-war-explained-complete/
+- slug: declaration-of-independence-explained
+  title: The Declaration of Independence Explained
+  url: /2015/10/07/declaration-of-independence-explained/
   category: leisure
-  image: /assets/images/blog/blog-76.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 - slug: great-depression-explained-complete
   title: The Great Depression Explained
   url: /2015/12/26/great-depression-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-09.webp
+  lang: en
+- slug: american-civil-war-explained-complete
+  title: The American Civil War Explained
+  url: /2015/10/12/american-civil-war-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-76.webp
   lang: en
 war-on-terror-explained-complete:
 - slug: soviet-afghanistan-war-explained
@@ -20401,15 +21650,15 @@ war-on-terror-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-76.webp
   lang: en
-- slug: declaration-of-independence-explained
-  title: The Declaration of Independence Explained
-  url: /2015/10/07/declaration-of-independence-explained/
-  category: leisure
-  image: /assets/images/blog/blog-02.webp
-  lang: en
 - slug: september-11-attacks-explained
   title: The September 11 Attacks Explained
   url: /2016/06/08/september-11-attacks-explained/
+  category: leisure
+  image: /assets/images/blog/blog-12.webp
+  lang: en
+- slug: mccarthyism-red-scare-explained
+  title: McCarthyism and the Red Scare Explained
+  url: /2016/04/09/mccarthyism-red-scare-explained/
   category: leisure
   image: /assets/images/blog/blog-12.webp
   lang: en
@@ -20432,11 +21681,11 @@ arab-spring-explained-complete:
   category: leisure
   image: /assets/images/blog/blog-54.webp
   lang: en
-- slug: industrial-revolution-explained
-  title: The Industrial Revolution Explained
-  url: /2015/09/17/industrial-revolution-explained/
+- slug: american-revolution-explained-complete
+  title: The American Revolution Explained
+  url: /2015/09/12/american-revolution-explained-complete/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-83.webp
   lang: en
 european-union-formation-history:
 - slug: how-ww1-changed-the-world
@@ -20451,17 +21700,17 @@ european-union-formation-history:
   category: leisure
   image: /assets/images/blog/blog-06.webp
   lang: en
-- slug: stalin-soviet-union-history
-  title: Stalin and the Soviet Union Explained
-  url: /2016/01/05/stalin-soviet-union-history/
-  category: leisure
-  image: /assets/images/blog/blog-69.webp
-  lang: en
 - slug: deadliest-wars-history-ranked
   title: Deadliest Wars in Human History Ranked
   url: /2016/07/18/deadliest-wars-history-ranked/
   category: leisure
   image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: stalin-soviet-union-history
+  title: Stalin and the Soviet Union Explained
+  url: /2016/01/05/stalin-soviet-union-history/
+  category: leisure
+  image: /assets/images/blog/blog-69.webp
   lang: en
 ibm-interview-process:
 - slug: ibm-interview-questions
@@ -20501,48 +21750,42 @@ brexit-explained-complete-guide:
   category: leisure
   image: /assets/images/blog/blog-89.webp
   lang: en
-- slug: age-of-exploration-history-explained
-  title: The Age of Exploration Explained
-  url: /2015/08/18/age-of-exploration-history-explained/
-  category: leisure
-  image: /assets/images/blog/blog-77.webp
-  lang: en
-- slug: napoleonic-wars-explained-complete
-  title: The Napoleonic Wars Explained
-  url: /2015/09/22/napoleonic-wars-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-20.webp
-  lang: en
-- slug: spanish-armada-1588-explained
-  title: The Spanish Armada of 1588 Explained
-  url: /2015/08/23/spanish-armada-1588-explained/
-  category: leisure
-  image: /assets/images/blog/blog-24.webp
-  lang: en
-rise-of-china-superpower-explained:
-- slug: great-depression-explained-complete
-  title: The Great Depression Explained
-  url: /2015/12/26/great-depression-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-09.webp
-  lang: en
 - slug: industrial-revolution-explained
   title: The Industrial Revolution Explained
   url: /2015/09/17/industrial-revolution-explained/
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: tiananmen-square-1989-explained
-  title: Tiananmen Square 1989 Explained
-  url: /2016/05/04/tiananmen-square-1989-explained/
+- slug: protestant-reformation-explained
+  title: The Protestant Reformation Explained
+  url: /2015/08/13/protestant-reformation-explained/
   category: leisure
-  image: /assets/images/blog/blog-89.webp
+  image: /assets/images/blog/blog-11.webp
   lang: en
+rise-of-china-superpower-explained:
 - slug: han-dynasty-china-golden-age
   title: 'Han Dynasty: China''s Golden Age Explained'
   url: /2015/06/19/han-dynasty-china-golden-age/
   category: leisure
   image: /assets/images/blog/blog-68.webp
+  lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
+- slug: nuclear-arms-race-explained
+  title: The Nuclear Arms Race Explained
+  url: /2016/04/19/nuclear-arms-race-explained/
+  category: leisure
+  image: /assets/images/blog/blog-78.webp
   lang: en
 greatest-empires-history-compared:
 - slug: greatest-revolutions-history-compared
@@ -20582,17 +21825,17 @@ greatest-revolutions-history-compared:
   category: leisure
   image: /assets/images/blog/blog-42.webp
   lang: en
-- slug: arab-spring-explained-complete
-  title: The Arab Spring Explained
-  url: /2016/06/18/arab-spring-explained-complete/
-  category: leisure
-  image: /assets/images/blog/blog-25.webp
-  lang: en
 - slug: american-revolution-explained-complete
   title: The American Revolution Explained
   url: /2015/09/12/american-revolution-explained-complete/
   category: leisure
   image: /assets/images/blog/blog-83.webp
+  lang: en
+- slug: arab-spring-explained-complete
+  title: The Arab Spring Explained
+  url: /2016/06/18/arab-spring-explained-complete/
+  category: leisure
+  image: /assets/images/blog/blog-25.webp
   lang: en
 azure-fundamentals-az-900-practice-exam-microsoft-certification:
 - slug: upsc-exam-pattern-2026
@@ -20620,11 +21863,11 @@ azure-fundamentals-az-900-practice-exam-microsoft-certification:
   image: /assets/images/blog/blog-38.webp
   lang: en
 deadliest-wars-history-ranked:
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
+- slug: how-pandemics-changed-history
+  title: How Pandemics Changed History
+  url: /2016/08/02/how-pandemics-changed-history/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-80.webp
   lang: en
 - slug: women-who-changed-history
   title: Women Who Changed History
@@ -20632,17 +21875,17 @@ deadliest-wars-history-ranked:
   category: leisure
   image: /assets/images/blog/blog-88.webp
   lang: en
-- slug: how-pandemics-changed-history
-  title: How Pandemics Changed History
-  url: /2016/08/02/how-pandemics-changed-history/
+- slug: biggest-what-ifs-in-history
+  title: The Biggest What Ifs in History
+  url: /2016/08/22/biggest-what-ifs-in-history/
   category: leisure
-  image: /assets/images/blog/blog-80.webp
+  image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: history-of-democracy-explained
-  title: The History of Democracy Explained
-  url: /2016/07/23/history-of-democracy-explained/
+- slug: lessons-history-teaches-us-today
+  title: Lessons That History Teaches Us Today
+  url: /2016/08/27/lessons-history-teaches-us-today/
   category: leisure
-  image: /assets/images/blog/blog-02.webp
+  image: /assets/images/blog/blog-04.webp
   lang: en
 history-of-democracy-explained:
 - slug: ancient-greek-civilization-explained
@@ -20663,11 +21906,11 @@ history-of-democracy-explained:
   category: leisure
   image: /assets/images/blog/blog-04.webp
   lang: en
-- slug: women-who-changed-history
-  title: Women Who Changed History
-  url: /2016/08/07/women-who-changed-history/
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
   category: leisure
-  image: /assets/images/blog/blog-88.webp
+  image: /assets/images/blog/blog-40.webp
   lang: en
 greatest-military-leaders-compared:
 - slug: greatest-revolutions-history-compared
@@ -20713,11 +21956,11 @@ how-pandemics-changed-history:
   category: leisure
   image: /assets/images/blog/blog-51.webp
   lang: en
-- slug: inventions-that-changed-the-world
-  title: Inventions That Changed the World
-  url: /2016/08/12/inventions-that-changed-the-world/
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
   category: leisure
-  image: /assets/images/blog/blog-74.webp
+  image: /assets/images/blog/blog-02.webp
   lang: en
 cut-off-for-tcs-nqt:
 - slug: tcs-nqt-strategy
@@ -20782,19 +22025,25 @@ inventions-that-changed-the-world:
   category: leisure
   image: /assets/images/blog/blog-88.webp
   lang: en
+- slug: deadliest-wars-history-ranked
+  title: Deadliest Wars in Human History Ranked
+  url: /2016/07/18/deadliest-wars-history-ranked/
+  category: leisure
+  image: /assets/images/blog/blog-51.webp
+  lang: en
 - slug: how-pandemics-changed-history
   title: How Pandemics Changed History
   url: /2016/08/02/how-pandemics-changed-history/
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: european-union-formation-history
-  title: How the European Union Was Formed
-  url: /2016/06/23/european-union-formation-history/
-  category: leisure
-  image: /assets/images/blog/blog-62.webp
-  lang: en
 history-of-human-rights-explained:
+- slug: history-of-democracy-explained
+  title: The History of Democracy Explained
+  url: /2016/07/23/history-of-democracy-explained/
+  category: leisure
+  image: /assets/images/blog/blog-02.webp
+  lang: en
 - slug: women-who-changed-history
   title: Women Who Changed History
   url: /2016/08/07/women-who-changed-history/
@@ -20813,11 +22062,11 @@ history-of-human-rights-explained:
   category: leisure
   image: /assets/images/blog/blog-29.webp
   lang: en
-- slug: lessons-history-teaches-us-today
-  title: Lessons That History Teaches Us Today
-  url: /2016/08/27/lessons-history-teaches-us-today/
+- slug: meiji-restoration-japan-explained
+  title: The Meiji Restoration in Japan Explained
+  url: /2015/11/06/meiji-restoration-japan-explained/
   category: leisure
-  image: /assets/images/blog/blog-04.webp
+  image: /assets/images/blog/blog-13.webp
   lang: en
 biggest-what-ifs-in-history:
 - slug: women-who-changed-history
@@ -20838,11 +22087,11 @@ biggest-what-ifs-in-history:
   category: leisure
   image: /assets/images/blog/blog-80.webp
   lang: en
-- slug: how-ww1-changed-the-world
-  title: How World War I Changed the World Forever
-  url: /2015/12/16/how-ww1-changed-the-world/
+- slug: rise-of-china-superpower-explained
+  title: The Rise of China as a Superpower Explained
+  url: /2016/07/03/rise-of-china-superpower-explained/
   category: leisure
-  image: /assets/images/blog/blog-20.webp
+  image: /assets/images/blog/blog-40.webp
   lang: en
 lessons-history-teaches-us-today:
 - slug: women-who-changed-history
@@ -26516,6 +27765,12 @@ sat-guide-for-korean-students:
   url: /1996/10/05/sat-1100-1200-strategy/
   category: industry
   image: /assets/images/blog/blog-42.webp
+  lang: en
+- slug: ielts-toefl-complete-guide
+  title: 'IELTS & TOEFL Prep Guide: Study Plans, Strategies & Free Resources'
+  url: /2025/06/19/ielts-toefl-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-12.webp
   lang: en
 sat-guide-for-chinese-students:
 - slug: sat-math-for-students-who-hate-math
@@ -36546,6 +37801,12 @@ software-engineer-salary-india:
   category: industry
   image: /assets/images/blog/blog-77.webp
   lang: en
+- slug: india-israel-covert-ops-compared
+  title: India vs Israel Covert Ops Compared
+  url: /2013/10/14/india-israel-covert-ops-compared/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
 - slug: software-engineer-interview-roadmap
   title: 'Software Engineer Interview Roadmap: Google, Amazon, Microsoft & More'
   url: /2025/05/18/software-engineer-interview-roadmap/
@@ -36557,12 +37818,6 @@ software-engineer-salary-india:
   url: /2025/05/23/software-engineer-resume-guide-india/
   category: industry
   image: /assets/images/blog/blog-54.webp
-  lang: en
-- slug: tcs-nqt-package
-  title: TCS NQT Package - Ninja vs Digital CTC
-  url: /2021/08/12/tcs-nqt-package/
-  category: industry
-  image: /assets/images/blog/blog-66.webp
   lang: en
 ai-for-data-analysts:
 - slug: best-ai-tools-data-analysis
@@ -36652,6 +37907,18 @@ gaokao-for-parents-guide:
   image: /assets/images/blog/blog-77.webp
   lang: zh
 personal-finance-guide-india:
+- slug: india-israel-covert-ops-compared
+  title: India vs Israel Covert Ops Compared
+  url: /2013/10/14/india-israel-covert-ops-compared/
+  category: industry
+  image: /assets/images/blog/blog-14.webp
+  lang: en
+- slug: ic-814-hijacking-complete-guide
+  title: IC-814 Hijacking Complete Guide
+  url: /2012/05/10/ic-814-hijacking-complete-guide/
+  category: industry
+  image: /assets/images/blog/blog-32.webp
+  lang: en
 - slug: sat-business-programs-scores
   title: 'SAT Scores for Business Schools: Wharton, Ross, Stern and More'
   url: /1996/08/16/sat-business-programs-scores/
@@ -36663,18 +37930,6 @@ personal-finance-guide-india:
   url: /1996/11/19/sat-800-to-1000-strategy/
   category: industry
   image: /assets/images/blog/blog-72.webp
-  lang: en
-- slug: sat-math-for-students-who-hate-math
-  title: 'SAT Math for Students Who Hate Math: Building from the Ground Up'
-  url: /1997/05/04/sat-math-for-students-who-hate-math/
-  category: industry
-  image: /assets/images/blog/blog-49.webp
-  lang: en
-- slug: ielts-toefl-complete-guide
-  title: 'IELTS & TOEFL Prep Guide: Study Plans, Strategies & Free Resources'
-  url: /2025/06/19/ielts-toefl-complete-guide/
-  category: industry
-  image: /assets/images/blog/blog-12.webp
   lang: en
 how-to-use-microsoft-copilot:
 - slug: how-to-use-github-copilot
@@ -39987,17 +41242,17 @@ yrf-spy-universe-complete-guide-all-films:
   category: leisure
   image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: korean-war-explained-complete
-  title: The Korean War Explained
-  url: /2016/03/20/korean-war-explained-complete/
+- slug: trench-warfare-ww1-explained
+  title: Trench Warfare in World War I Explained
+  url: /2015/11/21/trench-warfare-ww1-explained/
   category: leisure
-  image: /assets/images/blog/blog-22.webp
+  image: /assets/images/blog/blog-34.webp
   lang: en
-- slug: proxy-wars-cold-war-explained
-  title: Proxy Wars of the Cold War Explained
-  url: /2016/04/24/proxy-wars-cold-war-explained/
+- slug: soviet-afghanistan-war-explained
+  title: The Soviet-Afghan War Explained
+  url: /2016/04/14/soviet-afghanistan-war-explained/
   category: leisure
-  image: /assets/images/blog/blog-61.webp
+  image: /assets/images/blog/blog-65.webp
   lang: en
 oracle-layoffs-article:
 - slug: oracle-layoffs-every-question-answered

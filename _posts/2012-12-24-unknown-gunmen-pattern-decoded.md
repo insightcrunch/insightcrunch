@@ -9,7 +9,7 @@ excerpt: "Decoding the unknown gunmen pattern across Pakistan, from motorcycle-b
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2012-12-24
+last_updated: 2026-05-05
 lang: en
 ---
 Between 2022 and 2026, a series of killings spread across Pakistan's cities with a consistency that no criminal enterprise, no tribal feud, and no internal rivalry could plausibly explain. In Karachi, Lahore, Sialkot, Rawalpindi, Rawalakot, Nawabshah, Jhelum, Bajaur, and Landi Kotal, two men on a motorcycle would approach a target, fire at close range, and vanish into traffic before anyone could react. The targets shared one feature that connected them across geography, organization, and rank: every single one appeared on India's most-wanted lists, NIA charge sheets, or UNSC sanctions designations. The method was identical. The target selection was surgical. The claim of responsibility was absent. This is not a coincidence. This is a pattern, and the pattern is a doctrine.

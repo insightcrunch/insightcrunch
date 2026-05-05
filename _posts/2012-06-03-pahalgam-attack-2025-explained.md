@@ -9,7 +9,7 @@ excerpt: "The Pahalgam tourist massacre in Baisaran Valley that killed 26 people
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2012-06-03
+last_updated: 2026-05-05
 lang: en
 ---
 On April 22, 2025, armed men emerged from the pine forests surrounding Baisaran Valley, a meadow roughly seven kilometers from the Kashmir hill station of Pahalgam in Anantnag district, and opened fire on tourists enjoying the peak spring season. Within approximately ninety minutes, twenty-six people lay dead, including twenty-five tourists from across India and Nepal and one local Kashmiri pony ride operator who tried to protect them. The gunmen, wearing military-style uniforms and carrying M4 carbines alongside AK-pattern rifles, reportedly sorted their victims by faith before pulling the trigger, a sectarian methodology that transformed the massacre from a regional security incident into a national trauma with geopolitical consequences that redrew the India-Pakistan relationship entirely.

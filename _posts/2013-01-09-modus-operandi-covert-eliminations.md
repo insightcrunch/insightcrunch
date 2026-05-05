@@ -9,7 +9,7 @@ excerpt: "Inside the modus operandi behind covert eliminations in Pakistan, from
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2013-01-09
+last_updated: 2026-05-05
 lang: en
 ---
 Every targeted killing in Pakistan follows an operational script so consistent that the consistency itself becomes evidence. Two men on a motorcycle approach a designated individual at a location the target visits routinely, fire at close range with handguns, and vanish into the urban traffic within seconds. No group claims credit. No arrested operative offers testimony. Pakistani police file FIRs describing "unknown gunmen on a motorcycle," and the case files collect dust. But the script's repetition across Karachi, Lahore, Sialkot, Rawalpindi, Nawabshah, Rawalakot, and Landi Kotal tells a story that individual case files cannot: this is not improvisation. It is doctrine.

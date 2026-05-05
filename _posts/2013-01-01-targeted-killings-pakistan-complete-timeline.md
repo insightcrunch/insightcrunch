@@ -9,7 +9,7 @@ excerpt: "The full chronological record of targeted killings of India's most-wan
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2013-01-01
+last_updated: 2026-05-05
 lang: en
 ---
 Plotted on a calendar, the killings tell a story that no individual case can. Between early 2022 and the first months of 2026, more than thirty individuals linked to India-designated terror organizations were shot, bombed, or found dead under mysterious circumstances across Pakistan's cities, from Karachi's dense neighborhoods to the tribal corridors of Khyber Pakhtunkhwa. The chronological record reveals three distinct phases: an initiation period of two to three carefully spaced operations, an acceleration year in which seven major targets fell in seven months, and a post-Operation Sindoor surge that produced over thirty confirmed cases in under twelve months. Each phase escalated in target seniority, geographic reach, and operational tempo. This is not a list of random violence. It is the documentary record of a [campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) that learned, adapted, and intensified with every successful strike.

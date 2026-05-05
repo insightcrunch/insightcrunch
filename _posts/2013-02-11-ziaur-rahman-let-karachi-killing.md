@@ -9,7 +9,7 @@ excerpt: "Profile of Ziaur Rahman, the Lashkar-e-Taiba operative shot dead durin
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2013-02-11
+last_updated: 2026-05-05
 lang: en
 ---
 Ziaur Rahman was doing something ordinary when he died. He was taking an evening walk through a residential neighborhood in Karachi, following a route he had traced dozens of times before, passing storefronts and tea stalls he knew by name, moving at the unhurried pace of a man who believed himself invisible. Two men on a motorcycle pulled alongside him on a September evening in 2023, fired multiple rounds at close range, and accelerated into the Karachi traffic before anyone on the street could process what had happened. Rahman collapsed on the pavement, a mid-tier Lashkar-e-Taiba operative whose organizational rank would never have placed him on front pages but whose killing revealed something far more unsettling than the death of any single terrorist: the men who shot him had known his walking route, his timing, his habits, and the stretch of sidewalk where he would be most exposed. Someone had been watching Ziaur Rahman for weeks.

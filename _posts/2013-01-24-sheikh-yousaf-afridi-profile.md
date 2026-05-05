@@ -9,7 +9,7 @@ excerpt: "Deep profile of Sheikh Yousaf Afridi, the Lashkar-e-Taiba commander an
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2013-01-24
+last_updated: 2026-05-05
 lang: en
 ---
 Sheikh Yousaf Afridi was gunned down on a Sunday in Landi Kotal, a town perched at the western edge of the Khyber Pass, roughly 250 kilometers from Islamabad, deep inside Pakistan's Khyber Pakhtunkhwa province, in territory where the Pakistan Army maintains a heavy security footprint and where no previous targeted elimination in the [broader shadow war campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) had ever reached.

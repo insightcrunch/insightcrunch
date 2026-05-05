@@ -9,7 +9,7 @@ excerpt: "Abu Qatal, the LeT commander behind the Dhangri massacre and Reasi bus
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2013-02-05
+last_updated: 2026-05-05
 lang: en
 ---
 On the evening of March 15, 2025, a black jeep traveling along the Mangla-Jhelum Road in Punjab, Pakistan, came under sustained gunfire near Zeenat Hotel, close to Dinah Punjab University. The occupants never had a chance. Fifteen to twenty rounds struck the vehicle, killing Zia-ur-Rehman, a forty-three-year-old man from Sindh Province better known by his operational alias Abu Qatal, and one of his armed bodyguards. A second bodyguard sustained critical injuries and was rushed to Rawalpindi for emergency treatment. The speed and precision of the assault, the fact that Qatal was traveling with armed security details provided by both Lashkar-e-Taiba and, according to reporting from Resonant News, plainclothes Pakistan Army personnel, and the anonymity of the attackers who melted into the Jhelum dusk afterward, all placed this incident within a [pattern that has become impossible for Pakistan to explain away](https://insightcrunch.com/2012/12/24/unknown-gunmen-pattern-decoded/). Abu Qatal's killing closed a chain that began with the blood of nine Hindu pilgrims on a bus in Reasi and the screams of children in Dhangri village. Every attack produces a target. Every target, when identified, gets placed on a list. Every name on that list is eventually reached.

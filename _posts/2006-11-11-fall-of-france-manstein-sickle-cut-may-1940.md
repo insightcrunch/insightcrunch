@@ -4,7 +4,7 @@ title: "Fall of France: Manstein's May 1940 Sickle Cut"
 page_title: "Fall of France: Erich von Manstein's October 1939 Through February 1940 Sichelschnitt Plan and the Decision That Broke Western Europe"
 date: 2006-11-11
 author: "diana-patel"
-last_updated: 2006-11-11
+last_updated: 2026-05-05
 categories: ["Leisure"]
 tags: ["erich-von-manstein", "decision-reconstruction", "european-theater", "1940", "fall-of-france", "germany"]
 image: /assets/images/blog/blog-01.webp

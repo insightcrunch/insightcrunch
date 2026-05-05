@@ -4,7 +4,7 @@ title: "Churchill Becomes PM: May 10 1940 War Cabinet"
 page_title: "Churchill Becomes PM: The May 9 to 10 1940 Political Crisis That Produced the Coalition Government When Halifax Declined"
 date: 2006-11-06
 author: "rachel-foster"
-last_updated: 2006-11-06
+last_updated: 2026-05-05
 categories: ["Leisure"]
 tags: ["winston-churchill", "decision-reconstruction", "european-theater", "1940", "churchill-premiership", "united-kingdom"]
 image: /assets/images/blog/blog-01.webp

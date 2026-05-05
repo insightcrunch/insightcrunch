@@ -9,7 +9,7 @@ excerpt: "A comprehensive guide to India's shadow war, the unknown gunmen campai
 image: "/assets/images/blog/blog-79.webp"
 reading_time: 75
 author: "benjamin-scott"
-last_updated: 2012-12-16
+last_updated: 2026-05-05
 lang: en
 ---
 India's shadow war against terrorism is the most consequential covert campaign of the twenty-first century, and it is being waged in plain sight. Since mid-2021, a procession of India's most-wanted terrorists has been gunned down across Pakistani cities by assailants who arrive on motorcycles, fire at close range, and vanish into congested streets without leaving a trace of their identity or allegiance. The targets share three characteristics: they appear on Indian government designation lists, they belong to organizations responsible for mass-casualty attacks on Indian soil, and they live in a country that India has accused for decades of providing them sanctuary. The killers share two: they are never identified, and they never claim responsibility.

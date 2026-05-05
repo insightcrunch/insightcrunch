@@ -9,7 +9,7 @@ excerpt: "How Pakistan's cities, once considered safe havens for India's most-wa
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2013-01-17
+last_updated: 2026-05-05
 lang: en
 ---
 Pakistan promised its proxy warriors one thing above all others: sanctuary. For decades, that promise held. Lashkar-e-Taiba commanders walked freely through Lahore's markets, Jaish-e-Mohammed operatives ran furniture shops in Karachi under false identities, Hizbul Mujahideen infiltration chiefs maintained homes in Rawalpindi within walking distance of Pakistan Army headquarters, and Khalistan Commando Force leaders took morning strolls through gated housing societies without fear. The promise of sanctuary was not informal or incidental; it was the foundational contract between the Pakistani state and the proxy groups it deployed against India. Train, arm, launch, return, and live safely ever after. That contract is now broken, and every city that once sheltered India's most-wanted has become a theater for targeted killings that follow a consistent, disciplined, and unmistakable pattern.

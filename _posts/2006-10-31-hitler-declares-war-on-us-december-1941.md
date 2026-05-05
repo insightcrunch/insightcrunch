@@ -4,7 +4,7 @@ title: "Hitler Declares War on US: December 11 1941"
 page_title: "Hitler Declares War on the United States: The December 11 1941 Reichstag Decision That Guaranteed Germany's Defeat"
 date: 2006-10-31
 author: "rachel-foster"
-last_updated: 2006-10-31
+last_updated: 2026-05-05
 categories: ["Leisure"]
 tags: ["adolf-hitler", "decision-reconstruction", "european-theater", "1941", "hitler-declares-war-us", "germany"]
 image: /assets/images/blog/blog-01.webp

@@ -9,7 +9,7 @@ excerpt: "How India struck deep inside Pakistani territory for the first time si
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "ian-fletcher"
-last_updated: 2012-07-13
+last_updated: 2026-05-05
 lang: en
 ---
 Twelve Indian Air Force Mirage 2000 jets crossed the Line of Control at approximately 0345 hours on February 26, 2019, flew over Pakistan-occupied Kashmir, and released five Israeli-made SPICE 2000 precision-guided bombs on a Jaish-e-Mohammed seminary near the town of Balakot in Khyber Pakhtunkhwa province. The operation, codenamed Bandar, lasted roughly twenty minutes from border crossing to the last aircraft's return into Indian airspace. Those twenty minutes broke a forty-eight-year barrier. Since the 1971 war, no Indian aircraft had struck inside undisputed Pakistani territory. The tactical outcome of Balakot remains contested; the strategic consequences do not. India had crossed a line that Pakistan believed would hold forever, and once crossed, the line could never be restored. Every escalation that followed, from the shadow war's acceleration to [Operation Sindoor's missile strikes](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/), became possible because Balakot established the precedent that Pakistani airspace is penetrable and that India is willing to penetrate it.

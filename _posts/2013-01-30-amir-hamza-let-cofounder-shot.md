@@ -9,7 +9,7 @@ excerpt: "Profile of Amir Hamza, the LeT co-founder and Hafiz Saeed deputy shot 
 image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2013-01-30
+last_updated: 2026-05-05
 lang: en
 ---
 On the morning of April 16, 2026, motorcycle-borne gunmen intercepted a white sedan near Hamdard Chowk in Lahore's Kot Lakhpat area and opened fire on its occupants, striking Amir Hamza in the shoulder. Hamza is not a peripheral figure in Pakistan's constellation of designated terrorists. He co-founded Lashkar-e-Taiba alongside Hafiz Muhammad Saeed in the mid-1980s, served on its central advisory committee for decades, ran its propaganda machinery, negotiated the release of detained operatives, and shaped the ideological architecture that produced the 2008 Mumbai attacks, the 2006 Mumbai train bombings, and the 2025 Pahalgam massacre. The United States Treasury Department designated him a Specially Designated Global Terrorist in August 2012. The United Nations sanctions regime lists him alongside Saeed. Reaching Hamza, in broad daylight, in Lahore, Pakistan's second-largest city, in a vehicle returning from a television studio, represents the single most audacious act in the [shadow war's documented history](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/), and the fact that it happened at all tells a story about operational reach, institutional penetration, and a campaign that has now climbed to the organizational summit of one of the world's most dangerous armed groups.

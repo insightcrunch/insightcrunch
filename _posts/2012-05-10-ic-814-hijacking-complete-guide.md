@@ -9,7 +9,7 @@ excerpt: "The definitive guide to the IC-814 hijacking, the Kandahar hostage cri
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "rahul-banerjee"
-last_updated: 2012-05-10
+last_updated: 2026-05-05
 lang: en
 ---
 On the evening of December 24, 1999, Indian Airlines Flight IC-814, an Airbus A300 carrying 176 passengers and 15 crew members from Kathmandu to New Delhi, was seized by five armed men belonging to Harkat-ul-Mujahideen approximately forty minutes after takeoff. What followed over the next eight days was a hostage crisis that forced the Vajpayee government into a choice between two catastrophes: let hostages die on live television, broadcast into the living rooms of a nation celebrating Christmas, or release three of the most dangerous terrorists in Indian custody, men whose freedom would generate more violence than the hijacking itself. India chose the second catastrophe. The consequences of that choice are still accumulating twenty-six years later. Every Jaish-e-Mohammed attack on Indian soil, every shadow war elimination in Pakistan's cities, every missile fired during Operation Sindoor traces a direct line back to the tarmac at Kandahar airport on December 31, 1999, where External Affairs Minister Jaswant Singh personally handed over three prisoners whose collective body count, post-release, would dwarf the crisis that freed them.
