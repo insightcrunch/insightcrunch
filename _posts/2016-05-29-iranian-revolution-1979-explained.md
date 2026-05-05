@@ -4,19 +4,19 @@ title: "The Iranian Revolution of 1979 Explained"
 page_title: "The Iranian Revolution - How the Shah Fell, Khomeini Rose, and a Secular Monarchy Became an Islamic Republic That Reshaped the Middle East"
 date: 2016-05-29
 last_updated: 2016-05-29
-author: "Insight Crunch Team"
+author: "diana-patel"
 excerpt: "The Iranian Revolution was not inevitably Islamic. It became so through Khomeini's calculated post-revolutionary consolidation against rival factions."
 categories: ["Leisure"]
 tags: ["iranian-revolution", "1979", "iran", "middle-east", "world-history"]
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
+lang: en
 ---
-
 The Iranian Revolution of 1979 was a multi-factional uprising that overthrew the Pahlavi monarchy, but its transformation into an Islamic Republic was not predetermined by the revolution itself. Khomeini's faction achieved dominance through a systematic post-revolutionary consolidation between 1979 and 1981 that eliminated secular nationalists, leftists, and competing Islamist groups who had jointly toppled the Shah, and the distinction between the revolutionary coalition and the post-revolutionary outcome is the single most important analytical fact about this event that popular treatments routinely collapse.
 
 <!--more-->
 
-![The Iranian Revolution of 1979 Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![The Iranian Revolution of 1979 Explained - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 ## The Revolution That Was Not What It Became
 

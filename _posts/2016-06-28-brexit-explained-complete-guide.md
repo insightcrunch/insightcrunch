@@ -6,17 +6,17 @@ date: 2016-06-28
 categories: ["Leisure"]
 tags: ["brexit", "european-union", "british-history", "european-history", "world-history"]
 excerpt: "Brexit was not a single event but a decade of sustained crisis that transformed British governance and tested whether EU membership was truly reversible."
-image: "/assets/images/blog/blog-13.webp"
-author: "Insight Crunch Team"
+image: "/assets/images/blog/blog-57.webp"
+author: "amanda-ross"
 last_updated: 2016-06-28
 reading_time: 70
+lang: en
 ---
-
 Brexit was not a single event but a decade-long political crisis that transformed British politics, cost approximately four percent of GDP according to the Office for Budget Responsibility, and tested whether withdrawal from the European Union was practically reversible. The referendum result of June 2016, the three-and-a-half-year parliamentary deadlock that followed, the eventual departure under Boris Johnson, and the continuing financial and governmental consequences together form a single extended narrative whose causes reach back decades and whose effects remain unresolved. The namable claim at the heart of this analysis is direct: Brexit was produced by the convergence of Conservative Party factional politics, immigration anxieties amplified by the 2004 EU expansion, tactical miscalculations by David Cameron, and campaign distortions whose combined effect was a self-inflicted rupture between Britain and its most significant strategic and economic partnership.
 
 <!--more-->
 
-![Brexit Explained Complete Guide - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Brexit Explained Complete Guide - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 Conventional treatments of Brexit, including those from the BBC, the Guardian, Reuters, and Wikipedia, deliver competent event-by-event chronology: the referendum was held, Britain voted Leave, negotiations followed, departure occurred. This chronological approach captures the surface sequence but systematically misses the structural causes, the referendum-design critiques, the negotiation dynamics, and the continuing consequences that give the episode its historical weight. This article applies the scholarship of Tim Shipman, Anand Menon, Ivan Rogers, and Fintan O'Toole to recover the analytical content that chronological treatments flatten, treating Brexit not as a discrete political decision but as the culmination of decades of Conservative Euroscepticism, a series of tactical miscalculations by identifiable decision-makers, and a referendum whose design was structurally inadequate for the constitutional transformation it initiated.
 

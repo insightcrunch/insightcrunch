@@ -4,19 +4,19 @@ title: "The September 11 Attacks Explained"
 page_title: "September 11, 2001: The Attacks, Al-Qaeda's Strategy, and the Day That Reshaped the Twenty-First Century"
 date: 2016-06-08
 last_updated: 2016-06-08
-author: "Insight Crunch Team"
+author: "chloe-martin"
 categories: ["Leisure"]
 tags: ["september-11", "2001", "terrorism", "american-history", "world-history"]
 excerpt: "September 11 was not random violence. It culminated a planned al-Qaeda strategy rooted in Cold War Afghan blowback and specific intelligence failures."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
+lang: en
 ---
-
 The September 11 attacks killed 2,977 people in New York, Virginia, and Pennsylvania on a single Tuesday morning in 2001. The attacks were not spontaneous, not random, and not without precedent. They were the culmination of a decade-long al-Qaeda operational strategy whose origins trace directly to the Cold War proxy conflict in Afghanistan, whose planning exploited specific and documented failures in American intelligence architecture, and whose consequences reshaped the geopolitical order of the twenty-first century more decisively than any single event since the fall of the Berlin Wall. The thesis of this analysis is precise: September 11, 2001, is best understood not as an unpredictable act of nihilistic violence but as the terminal point of a traceable causal chain running from the Soviet-Afghan War through al-Qaeda's organizational consolidation in Sudan and Afghanistan, through a series of escalating attacks in the 1990s, and through a catastrophic failure of interagency intelligence coordination that left the plot undetected despite multiple warning signals. Understanding September 11 requires recovering that chain in full, because the chain is what transforms the event from inexplicable horror into analyzable history.
 
 <!--more-->
 
-![The September 11 Attacks Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![The September 11 Attacks Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 Popular understanding of September 11 operates through what might be called the shock-and-response framework: the attacks arrived without warning, America was stunned, and the War on Terror followed. This framework is emotionally accurate but analytically insufficient. It erases the specific operational history that made the attacks possible, the specific intelligence failures that left them undetected, and the specific strategic calculations that shaped both al-Qaeda's planning and the American response. Competitor treatments from History.com, Britannica, and Wikipedia deliver compressed chronological narratives that move from attack to aftermath in a single breath, losing the structural causes in the process. The analysis that follows recovers those structures by applying an authoritative-reading framework grounded in historical materialism: the attacks are read as the product of specific material conditions, specific organizational decisions, and specific institutional failures, each of which is traceable through primary documentation including the 9/11 Commission Report, the Joint Congressional Inquiry, and the scholarship of Lawrence Wright, Steve Coll, and Peter Bergen.
 

@@ -5,13 +5,13 @@ page_title:  "The Falklands War - How a Remote South Atlantic Archipelago Sparke
 date:   2016-06-03
 categories: ["Leisure"]
 tags: ["falklands-war", "1982", "argentina", "britain", "military-history", "world-history"]
-author: "Insight Crunch Team"
+author: "chloe-martin"
 excerpt: "The Falklands War lasted 74 days and permanently reshaped both Argentina and Britain. Both governments fought for domestic political survival, not sovereignty."
 last_updated: 2016-06-03
 image: /assets/images/blog/blog-08.webp
 reading_time: 70
+lang: en
 ---
-
 The Falklands War (April 2 to June 14, 1982) was a 74-day armed conflict between Argentina and Britain over a remote South Atlantic archipelago, and its causes were domestic-political rather than strategic. Argentina's military junta invaded the islands to deflect a collapsing economy and mounting opposition to its human rights record, while Margaret Thatcher's government, polling at historic lows with three million unemployed, found in the war an opportunity for political rescue that peacetime governance had failed to provide. The war killed approximately 907 people, sank warships on both sides, produced lasting trauma among veterans of both nations, and generated profound consequences that reshaped both countries in opposite directions: Argentina's defeat triggered democratic transition, while Britain's victory consolidated Thatcherism for a generation.
 
 <!--more-->
@@ -332,4 +332,4 @@ Operation Black Buck was a series of long-range bombing missions flown by RAF Vu
 
 For additional historical context, explore our [World History Timeline at ReportMedic](https://reportmedic.com/world-history-timeline){:target="_blank"} for understanding how the Falklands War fits within the broader pattern of late Cold War conflicts, or visit the [ReportMedic historical events resource](https://reportmedic.com/world-history-timeline){:target="_blank"} for connections between South Atlantic conflict and global political transformation.
 
-![The Falklands War of 1982 Explained](/assets/images/blog/blog-08.webp)
+![The Falklands War of 1982 Explained](/assets/images/blog/blog-79.webp)

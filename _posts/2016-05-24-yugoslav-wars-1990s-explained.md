@@ -5,18 +5,18 @@ page_title:  "The Yugoslav Wars: Nationalist Manipulation, Siege of Sarajevo, Sr
 date:   2016-05-24
 categories: ["Leisure"]
 tags: ["yugoslav-wars", "balkans", "bosnia", "srebrenica", "european-history", "world-history"]
-author: "Insight Crunch Team"
+author: "rachel-foster"
 excerpt: "The Yugoslav Wars were not ancient ethnic hatreds erupting. They were deliberate nationalist manipulations producing Europe's worst violence since 1945."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-48.webp"
 last_updated: 2016-05-24
 reading_time: 70
+lang: en
 ---
-
 The Yugoslav Wars of 1991 to 2001 were not the eruption of ancient tribal hatreds that pundits presented to confused Western audiences throughout the 1990s. They were the product of deliberate nationalist manipulation by identifiable governing elites who calculated that ethnic mobilization offered the surest path to personal power in a collapsing federal state, and who proved willing to unleash siege warfare, concentration camps, systematic sexual violence, and genocide to consolidate that power. The scholarly consensus, built painstakingly by Laura Silber and Allan Little, Noel Malcolm, Samantha Power, and the evidentiary record of the International Criminal Tribunal for the former Yugoslavia, is decisive on this point. The wars killed approximately 140,000 people, displaced more than four million, produced the longest capital-city siege in modern history, and culminated in the Srebrenica genocide of July 1995, when around 8,000 Bosniak men and boys were systematically executed in what the International Court of Justice formally recognized as genocide. Understanding these wars requires abandoning the comfortable fiction that Balkan peoples simply could not live together and confronting the uncomfortable reality that specific leaders made specific decisions that produced specific atrocities.
 
 <!--more-->
 
-![The Yugoslav Wars of the 1990s Explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Yugoslav Wars of the 1990s Explained - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 This article traces the full arc of the Yugoslav Wars from the structural preconditions through the specific political decisions that triggered conflict, through the five distinct wars that comprised the broader catastrophe, through the collective failure to prevent atrocity, through the legal reckoning at The Hague, and through the post-war consequences that continue shaping Southeastern Europe. The thesis throughout is structural and specific: these wars happened because identifiable people chose to make them happen, and the conditions that enabled those choices were created by the intersection of economic crisis, federal constitutional weakness, Cold War's end, and the specific strategic calculations of Slobodan Milosevic, Franjo Tudjman, Radovan Karadzic, and Ratko Mladic. The ancient-hatreds frame is not merely inaccurate. It is analytically disabling, because it converts preventable political decisions into inevitable natural forces, and in doing so, it absolves the outside world of its failure to intervene when intervention could have saved lives. Readers looking to trace these events across the broader Cold War context should explore [the full interactive World History Timeline on ReportMedic](https://reportmedic.org/tools/world-history-timeline.html), which maps the Yugoslav dissolution alongside the parallel transformations reshaping Europe and the wider world during this period.
 
