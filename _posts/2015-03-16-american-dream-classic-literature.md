@@ -6,19 +6,19 @@ date: 2015-03-16
 categories: ["Leisure"]
 tags: ["american-dream", "literary-comparison", "classic-literature", "the-great-gatsby", "of-mice-and-men"]
 excerpt: "Classic American literature does not celebrate the American Dream. It dismantles the Dream by showing its structural impossibility for specific populations."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2015-03-16
+lang: en
 ---
-
 Classic American literature does not celebrate the American Dream. It dismantles the Dream by demonstrating its structural impossibility for specific populations across specific historical conditions. Six canonical works spanning four decades of American writing, from Sinclair Lewis's *Babbitt* in 1922 through Lorraine Hansberry's *A Raisin in the Sun* in 1959, construct a comparative dismantling so thorough that reading them together reveals what reading any single novel in isolation obscures: the American Dream functions as ideology, not aspiration, and the major American novelists and playwrights of the twentieth century diagnosed it as such before the scholarly language for that diagnosis existed.
 
 <!--more-->
 
 The standard treatment of the American Dream in classic literature operates through theme-catalogue framing: Fitzgerald critiques materialism, Steinbeck documents poverty, Miller mourns the common man, and each novel is read as a separate meditation on a shared ideal. This framing, dominant in secondary-school curricula and in SparkNotes-style guides, produces a series of individual moral lessons where each novel says something different about the Dream's availability or corruption. The treatment is not wrong in its parts, but it is structurally inadequate because it misses the comparative architecture. When F. Scott Fitzgerald's *The Great Gatsby*, John Steinbeck's *Of Mice and Men* and *The Grapes of Wrath*, Arthur Miller's *Death of a Salesman*, Lorraine Hansberry's *A Raisin in the Sun*, Ralph Ellison's *Invisible Man*, and Sinclair Lewis's *Babbitt* are read together as a system, the individual theme-meditations collapse into a single structural argument: the Dream is blocked for everyone, through different mechanisms, and the variety of blocking mechanisms is itself the evidence that the blockage is structural rather than accidental.
 
-![The American Dream in Classic Literature - Insight Crunch](/assets/images/blog/blog-04.webp)
+![The American Dream in Classic Literature - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 Jim Cullen's *The American Dream: A Short History of an Idea That Shaped a Nation* (2003) traces the Dream's conceptual history from Puritan covenant theology through Jeffersonian agrarianism through the self-made-man mythology of the Gilded Age through the consumer-prosperity version of the postwar period. Cullen identifies the Dream as an ideology that adapts its content to each historical moment while maintaining its structural promise: that effort produces reward, that mobility is available, that the next generation will do better than the present one. Walter Benn Michaels's *Our America: Nativism, Modernism, and Pluralism* (1995) sharpens Cullen's historical account into a specifically literary argument about the modernist period: the 1920s American Dream was a racialized construction whose promise of mobility was available to white Americans in theory and to wealthy white Americans in practice, and the great American novels of the period registered this gap between promise and delivery with increasing precision. Leo Marx's *The Machine in the Garden* (1964), though focused on an earlier period, provides the foundational analysis of how American literature constructs pastoral ideals that industrial realities dismantle. Warren I. Susman's *Culture as History* (1984) and Lawrence R. Samuel's *The American Dream: A Cultural History* (2012) extend the analysis into the mid-century and contemporary periods respectively, documenting the Dream's persistence as cultural force even as its empirical basis eroded. Reading these scholars together produces a framework that the six-novel comparison both illustrates and extends: the Dream is historically specific ideology whose literary dismantling is itself historically specific evidence.
 

@@ -6,17 +6,17 @@ date: 2015-03-26
 categories: ["Leisure"]
 tags: ["madness", "sanity", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "Madness in classic literature is not a medical diagnosis. It is a specific analytical category contesting what counts as normality and who gets to decide."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2015-03-26
+lang: en
 ---
-
 Madness in classic literature functions as an analytical category, not a clinical description. Six characters across four centuries of English-language fiction demonstrate that what novels call madness is a contest over the boundaries of normality: who draws them, who enforces them, and who suffers when they are drawn in particular ways. Shakespeare's Ophelia, Charlotte Bronte's Bertha Mason, Virginia Woolf's Septimus Smith, Sylvia Plath's Esther Greenwood, Vladimir Nabokov's Charles Kinbote, and Charlotte Perkins Gilman's unnamed narrator in The Yellow Wallpaper each occupy a different position in the madness taxonomy, and the differences reveal that madness in fiction is gendered, racialized, and historically situated rather than a single transhistorical phenomenon. The conventional treatment of these characters catalogs their symptoms and laments their suffering. The more productive reading, advanced by Michel Foucault, Elaine Showalter, Sandra Gilbert and Susan Gubar, and Shoshana Felman, treats their madness as formal and political argument about the conditions that produce deviance and the institutions that enforce conformity.
 
 <!--more-->
 
-![Madness and Sanity in Classic Literature - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Madness and Sanity in Classic Literature - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The thesis of this comparative analysis is direct: madness in classic literature is most productively read not as realistic portrayal of mental illness but as an analytical category through which novels contest the boundaries of normality. Ophelia's madness responds to patriarchal impossibility. Bertha Mason's madness encodes colonial and racial containment. Septimus Smith's madness exposes the inadequacy of civilian medical authority confronting war trauma. Esther Greenwood's madness reveals the structural impossibility of female ambition in 1950s America. Kinbote's madness operates as formal narrative experiment. The Yellow Wallpaper narrator's madness is produced by the very medical treatment prescribed to cure it. Each case answers a different question about what society calls sanity and why the label matters.
 

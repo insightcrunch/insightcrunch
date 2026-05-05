@@ -6,17 +6,17 @@ date: 2016-07-03
 categories: ["Leisure"]
 tags: ["china", "rise-of-china", "economic-history", "world-history", "historical-analysis"]
 excerpt: "China's rise is not the simple story of market reform. It is state capitalism under authoritarian governance producing an alternative developmental model."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-07-03
+lang: en
 ---
-
 China's rise to superpower status is most commonly taught through a compressed economic-miracle narrative: Deng Xiaoping opened markets in 1978, growth exploded, and by the early twenty-first century the People's Republic had become the world's second-largest economy. That narrative is partially accurate and systematically misleading.
 
 <!--more-->
 
-![The Rise of China as a Superpower Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![The Rise of China as a Superpower Explained - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The rise operated through four distinct phases, each driven by different leaders pursuing different strategies under different constraints, and the compressed miracle story flattens those distinctions into a single upward curve. Mao Zedong's era (1949 to 1976) established the unified national state and basic industrialization while producing catastrophic political disasters that killed tens of millions. Deng Xiaoping's era (1978 to approximately 1992) launched Reform and Opening with gradualist market introduction while preserving Communist Party political monopoly. The Jiang Zemin and Hu Jintao era (approximately 1992 to 2012) accelerated global economic integration, achieved World Trade Organization accession, and produced the decade of highest growth rates in modern economic history. Xi Jinping's era (2012 to present) consolidated personal and Party control, pursued assertive foreign policy, abolished presidential term limits, and expanded surveillance and repression while maintaining economic ambitions. Each phase built on the previous one, and none is comprehensible without the others. The scholarly consensus, represented by Ezra Vogel's comprehensive Deng biography, Frank Dikotter's documentation of Mao-era catastrophes, and Yuen Yuen Ang's developmental-state analysis, is that China's rise produced through state capitalism under authoritarian governance, not through market liberalization in the Western sense. That distinction matters because it means the Chinese model represents an alternative developmental path whose internal sustainability and external competitive implications remain genuinely contested.
 
