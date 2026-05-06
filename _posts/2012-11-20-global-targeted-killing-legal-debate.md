@@ -6,17 +6,17 @@ date: 2012-11-20
 categories: ["Industry"]
 tags: ["targeted-killings", "international-law", "sovereignty", "self-defense", "legal-debate"]
 excerpt: "The global legal debate on targeted killings, how five countries justify killing terrorists on foreign soil, and why the law's ambiguity is deliberate."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2012-11-20
+lang: en
 ---
-
 When a state kills a designated terrorist on foreign soil, it simultaneously invokes the right of self-defense under Article 51 of the UN Charter, violates the sovereignty protections enshrined in Article 2(4), and either complies with or breaches international humanitarian law depending on whether the target qualifies as a combatant. The same act, the same bullet, the same body on the same sidewalk in Karachi or Sana'a or Gaza City, is legal or illegal depending entirely on which legal framework the analyst chooses to apply. This is not a gap in international law. It is the central structural feature of the targeted killing debate, and every state that conducts lethal operations abroad understands it, exploits it, and profits from the ambiguity that no government has any incentive to resolve.
 
 <!--more-->
 
-![Global Targeted Killing Legal Debate - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Global Targeted Killing Legal Debate - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The question of whether states possess the right to kill individuals on foreign territory has animated legal scholars, intelligence agencies, diplomats, and human rights advocates for decades. Israel's Supreme Court attempted to answer it in 2006 with a landmark ruling that conditionally permitted targeted killings under strict proportionality requirements. The United States answered it through classified Office of Legal Counsel memoranda that invoked self-defense and imminent threat doctrines to authorize drone strikes across multiple continents. Russia answered it by poisoning defectors in London parks and denying involvement. India answered it by conducting a systematic campaign of eliminations across Pakistani cities while maintaining total deniability. The United Kingdom answered it by prohibiting targeted killing in domestic law while sharing intelligence with allies who conduct them. Five countries, five frameworks, five different relationships between law and lethal force. Each framework reveals something about how states construct legal cover for political violence. Together, they reveal that the legal debate on targeted killing is not a debate between clarity and confusion. It is a debate between competing forms of deliberate ambiguity, each calibrated to the domestic political needs and international positioning of the state conducting operations.
 

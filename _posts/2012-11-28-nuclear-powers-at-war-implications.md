@@ -6,17 +6,17 @@ date: 2012-11-28
 categories: ["Industry"]
 tags: ["nuclear", "india-pakistan", "deterrence", "escalation", "2025-conflict", "strategic-analysis"]
 excerpt: "What the 2025 India-Pakistan military conflict taught the world about nuclear deterrence, escalation control, the stability-instability paradox, and restraint."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 56
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2012-11-28
+lang: en
 ---
-
 For four days in May 2025, two nations armed with thermonuclear warheads fired missiles at each other's territory, scrambled fighter jets into contested airspace, exchanged drone strikes across the Line of Control, and killed each other's soldiers and civilians in sustained combat operations, all while possessing arsenals capable of incinerating each other's cities within thirty minutes of a launch order.
 
 <!--more-->
 
-![Nuclear Powers at War 2025 Implications - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Nuclear Powers at War 2025 Implications - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The fact that this sentence can be written as a description of real events rather than a hypothetical scenario represents the single most consequential development in strategic theory since the Cuban Missile Crisis of 1962. India and Pakistan's May 2025 conflict, triggered by the [Pahalgam tourist massacre](https://insightcrunch.com/2012/06/03/pahalgam-attack-2025-explained/) and culminating in [Operation Sindoor's twenty-three-minute missile barrage](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/), did something that six decades of deterrence scholarship insisted could not happen: it produced sustained conventional warfare between two states possessing thermonuclear weapons. The theoretical literature on deterrence, from Bernard Brodie's foundational 1946 argument that the atomic bomb had made war between great powers obsolete to Kenneth Waltz's 1981 claim that proliferation produces stability, rests on a single foundational assumption. That assumption holds that rational state leaders, faced with the possibility of atomic retaliation, will always prefer restraint over escalation. The 2025 conflict did not merely test this assumption. It shattered the assumption's claim to universality, forced deterrence theorists to confront a case they had dismissed as implausible, and left the international security architecture scrambling to understand why two rational governments chose to fight a war that carried a nonzero probability of annihilation.
 

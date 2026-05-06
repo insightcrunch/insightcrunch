@@ -6,17 +6,17 @@ date: 2012-02-16
 categories: ["Industry"]
 tags: ["hizbul-mujahideen", "kashmir", "syed-salahuddin", "terrorism", "pakistan", "insurgency"]
 excerpt: "The definitive guide to Hizbul Mujahideen, the oldest active Kashmir militant group, its ISI connections, and its decimated Pakistan-based leadership."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2012-02-16
+lang: en
 ---
-
 Hizbul Mujahideen is the Kashmir insurgency's founding organization, the group that converted a political grievance into an armed revolt in 1989 and sustained cross-border violence for over three decades. Led from Pakistan-occupied Kashmir and Rawalpindi by supreme commander Syed Salahuddin, a former mainstream politician who turned to armed separatism after a rigged election, the organization once fielded thousands of fighters across the Kashmir Valley, orchestrated hundreds of infiltration operations across the Line of Control, and served as the primary vehicle through which Pakistan's Inter-Services Intelligence channeled support to indigenous Kashmiri insurgents. Thirty-five years after its founding, Hizbul's arc traces one of the most dramatic organizational lifecycles in modern insurgent history: from a mass movement that commanded genuine popular support across rural Kashmir, through a peak in the mid-1990s when its fighters outnumbered Indian security forces in certain districts, to a long decline accelerated by Indian counter-insurgency success, the rise of rival organizations like [Lashkar-e-Taiba](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) and [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/), and most recently, the systematic elimination of its Pakistan-based command structure by unknown gunmen who have turned the safe haven into a hunting ground. What remains of Hizbul Mujahideen is less a functioning militant organization than a rhetorical apparatus: [Syed Salahuddin](https://insightcrunch.com/2012/01/17/syed-salahuddin-complete-profile/) issues statements, threatens retaliation, and claims operational relevance from his residence in Pakistan, but the men who once implemented his orders on the ground, across the Line of Control, and inside Kashmir's valleys are either dead, imprisoned, or hiding in cities where motorcycle-borne assassins have made public movement a death sentence.
 
 <!--more-->
 
-![Hizbul Mujahideen Complete Guide - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Hizbul Mujahideen Complete Guide - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 Understanding Hizbul Mujahideen requires understanding it as three things simultaneously: as the product of a genuine political crisis in Kashmir that Indian governance failures produced, as an instrument of Pakistani state policy that the ISI co-opted, armed, and directed toward strategic objectives that often had nothing to do with Kashmiri self-determination, and as an organization whose trajectory from founding through dominance through decline through destruction maps onto a universal pattern that scholars of insurgent movements have documented across dozens of conflicts from Colombia to Sri Lanka to Algeria. The analytical payoff of this article is a three-decade operational lifecycle chart rendered in prose, plotting Hizbul's rise, peak, decline, and destruction against the specific decisions, individuals, and structural forces that drove each phase. The chart reveals something that neither Salahuddin's rhetoric nor India's security briefings acknowledge clearly: Hizbul Mujahideen was already dying before the shadow war arrived. The targeted killings that [destroyed its Pakistan-based command in 2023](https://insightcrunch.com/2013/06/22/hizbul-leadership-decimation/) did not kill the organization so much as confirm its death, delivering the autopsy report on a body that had stopped functioning years earlier.
 

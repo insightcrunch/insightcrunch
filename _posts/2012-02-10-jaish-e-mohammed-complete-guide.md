@@ -6,17 +6,17 @@ date: 2012-02-10
 categories: ["Industry"]
 tags: ["jaish-e-mohammed", "jem", "masood-azhar", "terrorism", "pakistan", "pulwama"]
 excerpt: "The definitive guide to Jaish-e-Mohammed, from Masood Azhar's release in the IC-814 hijacking crisis to Pulwama and the shadow war's devastating toll."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2012-02-10
+lang: en
 ---
-
 Jaish-e-Mohammed is the terror organization that India created by accident. Every attack JeM has carried out, from the assault on India's Parliament in December 2001 to the Pathankot airbase infiltration in January 2016 to the Pulwama convoy bombing that killed forty CRPF personnel in February 2019, traces directly to a single decision made under duress at Kandahar airport on the last day of 1999. India released [Masood Azhar](https://insightcrunch.com/2012/01/11/masood-azhar-complete-profile/) from prison to save 176 hostages aboard Indian Airlines Flight IC-814. Within thirty days, Azhar founded Jaish-e-Mohammed. Within twenty-four months, JeM operatives stormed India's Parliament. Within twenty-six years, India was systematically eliminating JeM commanders on Pakistani soil, cleaning up its own catastrophic mistake one bullet at a time. No terror organization in South Asian history illustrates the consequences of a single diplomatic concession with the clarity that JeM provides, and no organization has paid a steeper price for the blowback it generated.
 
 <!--more-->
 
-![Jaish-e-Mohammed Complete Guide - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Jaish-e-Mohammed Complete Guide - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 Understanding Jaish-e-Mohammed requires understanding that it was never an organic product of grassroots radicalization. It was manufactured. Masood Azhar did not emerge from the madrassas of southern Punjab with a vague desire to fight; he was a trained, imprisoned, and then deliberately freed militant who leveraged the IC-814 hostage crisis to extract himself from an Indian jail cell and immediately converted his freedom into an organizational weapon. Hassan Abbas, in his study "Pakistan's Drift into Extremism," traces how JeM's founding fit within a broader pattern of ISI-cultivated militancy in Pakistan, but Azhar's case is distinctive because the Indian government itself supplied the catalyst. The ISI provided the infrastructure, the ideological ecosystem provided the recruits, and the Deobandi seminary network provided the theological cover, but India provided the founder. That foundational irony shapes everything that followed.
 
