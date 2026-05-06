@@ -6,17 +6,17 @@ date: 2012-02-28
 categories: ["Industry"]
 tags: ["trf", "resistance-front", "lashkar-e-taiba", "kashmir", "pahalgam", "terrorism"]
 excerpt: "The Resistance Front explained, from its strategic creation as LeT's deniable Kashmir proxy to its Pahalgam attack role and global terror designation."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2012-02-28
+lang: en
 ---
-
 On April 22, 2025, five armed men walked into the Baisaran Valley near Pahalgam, one of Kashmir's most cherished tourist destinations, and opened fire on visitors. They separated people by religion, asked each person to identify themselves, and then killed twenty-six civilians in what became the deadliest assault on Indian soil since the 2008 Mumbai attacks. Within hours, a group called The Resistance Front posted a claim of responsibility on its social media channels, linking the massacre to opposition against non-local settlement in Kashmir. Within days, that same group retracted the claim, blaming a "coordinated cyber intrusion" for the original statement. The retraction convinced nobody who had been paying attention. It was, instead, the moment when a carefully constructed facade of indigenous Kashmiri resistance crumbled under the weight of its own contradictions, exposing The Resistance Front for what Indian intelligence agencies and counter-terrorism scholars had argued since its inception: not a new organization born from local grievances, but [Lashkar-e-Taiba](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) wearing a different mask, created specifically to provide Pakistan with deniable attribution for continued violence in Kashmir after the revocation of Article 370.
 
 <!--more-->
 
-![The Resistance Front TRF Kashmir Explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The Resistance Front TRF Kashmir Explained - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 Understanding The Resistance Front requires understanding the strategic logic behind its creation, the organizational architecture that sustains it, and the catastrophic moment in Pahalgam where its deniability apparatus collapsed. TRF is not simply another militant outfit in Kashmir's long history of insurgent groups. It represents a specific innovation in Pakistan's proxy warfare strategy, an attempt to maintain cross-border terrorism under a veneer of indigenous resistance at a moment when international pressure through the Financial Action Task Force grey-listing and increased scrutiny after the Pulwama and Balakot cycle had made overt support for groups like LeT and [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) diplomatically costly. That the United States designated TRF as a Foreign Terrorist Organization in July 2025, explicitly calling it a "front and proxy" for LeT, confirms that the disguise was never meant to withstand sustained examination. It was meant to buy time, and for six years, it did.
 
