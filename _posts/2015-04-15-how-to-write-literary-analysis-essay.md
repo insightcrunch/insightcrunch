@@ -6,17 +6,17 @@ date: 2015-04-15
 categories: ["Leisure"]
 tags: ["literary-analysis", "essay-guide", "study-guide", "writing-skills", "classic-literature"]
 excerpt: "A literary analysis essay is not a book report. It requires a defensible thesis, embedded textual evidence, and close reading that general guides omit."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2015-04-15
+lang: en
 ---
-
 A literary analysis essay is an argument about how a specific text works, not a summary of what happens in it. The distinction separates genuine analytical writing from the book-report form that most students produce and most generic essay guides inadvertently teach. Where a book report describes plot, identifies characters, and catalogs themes as nouns, a literary analysis essay makes a claim about the relationship between a text's formal choices and its meanings, then defends that claim through embedded textual evidence, close reading, and structured argumentative progression. The seven skills that produce this kind of writing are distinctive to literary analysis and are not adequately covered by general composition instruction.
 
 <!--more-->
 
-![How to Write a Literary Analysis Essay - Insight Crunch](/assets/images/blog/blog-10.webp)
+![How to Write a Literary Analysis Essay - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 The problem is structural rather than motivational. Students who receive standard five-paragraph essay instruction learn to organize writing around a thesis statement, three body paragraphs, and a conclusion. That scaffold transfers to history essays, social science papers, and argumentative writing with reasonable success. When students apply the same scaffold to literature, the result is predictable: a thematic label masquerading as a thesis, plot summary filling the body paragraphs where evidence should be, and a conclusion that restates the introduction without identifying analytical stakes. The five-paragraph form is not wrong for literature; it is insufficient. Literary analysis requires a thesis that addresses how a text produces its meanings, not what those meanings are, evidence that is embedded in analytical sentences instead of dropped as block quotations, close reading that attends to language and structure instead of paraphrasing content, and counter-reading that demonstrates awareness of alternative interpretations. None of these skills appear in standard composition textbooks with the specificity that literary practice demands.
 

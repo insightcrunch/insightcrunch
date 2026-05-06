@@ -7,15 +7,17 @@ categories: ["Leisure"]
 tags: ["human-rights", "world-history", "political-history", "historical-analysis"]
 excerpt: "Human rights were not discovered progressively. They were declared in response to specific atrocities, enforced through struggle, and remain contested."
 image: /assets/images/blog/blog-08.webp
-author: "Insight Crunch Team"
+author: "diana-patel"
 reading_time: 70
 last_updated: 2016-08-17
+lang: en
 ---
-
 Human rights are declared in response to atrocities, not discovered through moral progress. Every major rights document in history, from the Magna Carta through the Universal Declaration of Human Rights, emerged from specific political crises and specific acts of violence that made the absence of codified protections impossible to ignore. The standard textbook narrative presents human rights as a gradual awakening, a slow moral climb from ancient codes to modern universalism. That narrative is partially accurate and systematically misleading. It obscures the central pattern that scholars like Lynn Hunt, Samuel Moyn, and Micheline Ishay have identified: rights are declared, enforced through political struggle, contested by those whose power the declarations threaten, and never finished.
 
 <!--more-->
 
+
+![The History of Human Rights Explained - Insight Crunch](/assets/images/blog/blog-63.webp)
 ## The Linear Narrative and Its Limits
 
 The version of human rights history most commonly taught in schools and reproduced on general-interest websites follows a recognizable arc. Ancient civilizations produced legal codes. Medieval charters limited sovereign power. Enlightenment thinkers articulated universal principles. The twentieth century globalized those principles through international institutions. In this telling, human rights are something humanity gradually figured out, like the laws of physics or the germ theory of disease, with each era adding another brick to the edifice of moral knowledge.

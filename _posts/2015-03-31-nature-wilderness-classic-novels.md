@@ -5,18 +5,18 @@ page_title: "Nature and Wilderness in Classic Fiction: Moors, Islands, Congo, an
 date: 2015-03-31
 categories: ["Leisure"]
 tags: ["nature", "wilderness", "literary-comparison", "classic-literature", "lord-of-the-flies", "wuthering-heights"]
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 excerpt: "Landscape in classic novels is not decorative scenery. It is analytical space where characters confront the truths that social and domestic worlds forbid."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-06.webp"
 last_updated: 2015-03-31
 reading_time: 70
+lang: en
 ---
-
 Terrain in classic works functions as interpretive arena, not as decorative backdrop. When Emily Bronte sends Catherine and Heathcliff onto the Yorkshire moors, when William Golding strands boys on a tropical island, when Joseph Conrad sends Marlow up the Congo River, when Herman Melville sends Ahab across the Pacific, when Henry David Thoreau retreats to Walden Pond, and when Willa Cather places the Shimerdas on the Nebraska prairie, each textist constructs a precise environment where characters confront content that remains inaccessible within public or domestic settings. The comparative reading across six texts reveals that landscape performs distinct critical work in each text, and that cataloguing landscape as "symbolism" or "setting" systematically misses the structural function these natural realms serve.
 
 <!--more-->
 
-![Nature and Wilderness in Classic Novels - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Nature and Wilderness in Classic Novels - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 Raymond Williams argued in *The Country and the City* (1973) that literary terrains encode precise public relations rather than standing as neutral backdrops to personal drama. Williams demonstrated through close reading of English pastoral and industrial fiction that every representation of "the country" or "the city" carries embedded assumptions about labor, class, ownership, and moral value. His analysis opened a methodological door that subsequent ecocritical scholarship, particularly Lawrence Buell's *The Environmental Imagination* (1995) and Leo Marx's *The Machine in the Garden* (1964), walked through with increasing critical precision. The consensus that emerged from this tradition holds that landscape in major fiction performs precise critical work that the removal of landscape from the text would fundamentally alter. This article applies that consensus to six canonical texts, demonstrating the varieties of structural function landscape serves and arguing that the common competitor approach of cataloguing landscape-as-symbol misses what these works actually do with their natural settings.
 
