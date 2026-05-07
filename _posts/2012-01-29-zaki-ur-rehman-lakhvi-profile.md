@@ -6,17 +6,17 @@ date: 2012-01-29
 categories: ["Industry"]
 tags: ["zaki-ur-rehman-lakhvi", "26-11", "lashkar-e-taiba", "mumbai", "pakistan", "terrorism"]
 excerpt: "Profile of Zaki-ur-Rehman Lakhvi, the LeT operations commander who directed the 26/11 Mumbai attack from a Karachi control room before Pakistan freed him."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2012-01-29
+lang: en
 ---
-
 For seventy-two hours in late November 2008, a man with a satellite phone sat in a control room somewhere on the Pakistani side of the border and ran a war. He told ten young men where to shoot, when to set fires, when to take hostages, when to ignore the wounded, when to burn the bodies. He told one of them to throw a grenade into a children's hospital. He told another to make sure the rabbi's pregnant wife was killed in front of her toddler son. He stayed on the line as Indian commandos closed in, comforting his fighters, congratulating them on their kills, urging them to die well. When the smoke cleared in Mumbai, 166 people were dead. The man on the satellite phone was Zaki-ur-Rehman Lakhvi, military chief of Lashkar-e-Taiba, and Pakistan was holding the recordings of every word he had said.
 
 <!--more-->
 
-![Zaki-ur-Rehman Lakhvi Profile - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Zaki-ur-Rehman Lakhvi Profile - Insight Crunch](/assets/images/blog/blog-18.webp)
 
 What Pakistan did with those recordings, and what Pakistan did with Lakhvi himself, is the most consequential failure of international counter-terrorism cooperation in the twenty-first century. Pakistan arrested him within days. Pakistan placed him in a holding facility outside Rawalpindi. Pakistan filed a charge sheet. Pakistan held hearings. Pakistan permitted his lawyers to argue that the testimony of an Indian-tried gunman could not be admitted, that the satellite phone records were not properly authenticated, that the man named in the Indian dossier was perhaps not the same man in the Adiala Jail cell. And on April 10, 2015, after six years and three months in custody, an Islamabad High Court bench granted Zaki-ur-Rehman Lakhvi bail. He walked out the front gate. He was driven to a safe house. He has not seen the inside of a courtroom in any meaningful way since.
 

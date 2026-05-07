@@ -3,20 +3,20 @@ title: "Pakistan Army and Terror Leadership"
 page_title: "Pakistan Army and Terror Leadership - How the Military Establishment Controls, Protects, and Deploys Terror Group Commanders"
 date: 2012-04-16
 last_updated: 2012-04-16
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 categories: ["Industry"]
 tags: ["pakistan-army", "terrorism", "isi", "military", "state-sponsorship", "let", "jem"]
 excerpt: "How Pakistan's military establishment systematically controls, protects, funds, and strategically deploys terror group leadership as core state policy."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 slug: pakistan-army-terror-leadership
+lang: en
 ---
-
 The Pakistan Army does not merely tolerate terrorism. It manages terrorism. The distinction is not rhetorical, and it is not a matter of degree. It is the central analytical claim that any honest reckoning with the Indian subcontinent's longest unfinished conflict must eventually confront. Tolerance suggests passivity, an institution that looks the other way while bad actors do bad things. Management suggests something else: an institution that selects which groups receive training, which leaders receive protection, which attacks receive authorization, which front organizations receive legitimacy, and which clients are quietly dropped when their utility expires. Tolerance is what Pakistan's diplomats describe when they speak abroad. Management is what the historical record describes when it is read carefully.
 
 <!--more-->
 
-![Pakistan Army and Terror Leadership](/assets/images/blog/blog-08.webp)
+![Pakistan Army and Terror Leadership](/assets/images/blog/blog-04.webp)
 
 This article is the analytical foundation for understanding why Pakistan's terror infrastructure has survived four decades of international pressure, why it has produced the deadliest non-state attacks of the last quarter century, and why the covert campaign now systematically dismantling its leadership operates with the efficiency of an institution penetrating a familiar bureaucracy rather than an enemy unknown. The shadow war is not targeting terrorists in a vacuum. It is targeting the Pakistan Army's clients, and every successful elimination is a demonstration that the Army cannot protect what it created. To grasp why the campaign reaches the people it reaches, in the cities it reaches them in, with the precision it brings to the work, the reader must first understand what the campaign is actually fighting against. It is fighting against an institutional relationship, not a movement. It is fighting against the patronage networks of a uniformed bureaucracy that has, since the late 1970s, treated militant violence as one tool among many in the management of national strategy.
 

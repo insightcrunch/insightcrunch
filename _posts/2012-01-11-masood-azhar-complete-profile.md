@@ -6,17 +6,17 @@ date: 2012-01-11
 categories: ["Industry"]
 tags: ["masood-azhar", "jaish-e-mohammed", "ic-814", "pathankot", "pulwama", "terrorism"]
 excerpt: "The complete profile of Masood Azhar, the Bahawalpur cleric India released in the 1999 IC-814 swap who founded JeM and waged twenty-six years of terror."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2012-01-11
+lang: en
 ---
-
 On the morning of 31 December 1999, on a windswept tarmac at Kandahar's airport, India's foreign minister Jaswant Singh stepped off a special flight from Delhi and walked towards a small group of three men flanked by Taliban fighters. One of those three, a stout cleric with a thick beard and dark glasses, would walk on a few minutes later as the most consequential prisoner India had ever released. His name was Maulana Masood Azhar, and within thirty-one days he would establish Jaish-e-Mohammed in Bahawalpur, the city of his birth. Within seven hundred and seven days he would order the storming of India's Parliament. Within six thousand and two hundred days, his organisation would kill forty Indian paramilitaries on a Pulwama highway. The decision Singh executed in Kandahar that morning has produced more Indian casualties than any single diplomatic concession in the country's history.
 
 <!--more-->
 
-![Masood Azhar Complete Profile - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Masood Azhar Complete Profile - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 This is the central biographical fact of India's twenty-six-year shadow war: every targeted killing across Karachi, Lahore, Sialkot, and Bahawalpur traces back, by a chain of consequence no participant in 1999 could foresee, to the moment a hostage crisis was resolved by handing three militants over to a Taliban regime that would shelter them just long enough for them to walk south into Pakistan. The hijackers wanted four men freed. India released three. One of those three is the subject of this article. The other two, Ahmed Omar Saeed Sheikh and Mushtaq Ahmed Zargar, deserve their own studies. But the man who founded a parallel jihadist enterprise the moment he crossed into Pakistani territory, who married a niece of the chief of Pakistan's most powerful religious party, who recruited fighters at Friday sermons in Karachi, who was photographed in Islamabad addressing crowds of ten thousand armed men eight months after his release, is the figure whose career most exhaustively answers the question that hangs over the entire shadow war: what does a state owe a person it should never have released?
 

@@ -6,17 +6,17 @@ date: 2012-01-05
 categories: ["Industry"]
 tags: ["hafiz-saeed", "lashkar-e-taiba", "26-11", "mumbai", "pakistan", "terrorism", "jamaat-ud-dawa"]
 excerpt: "Definitive Hafiz Saeed profile examining the 26/11 Mumbai attack mastermind, the Lashkar-e-Taiba founder, and the most protected terrorist in Pakistan."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2012-01-05
+lang: en
 ---
-
 On the afternoon of 26 November 2008, ten young men sailed into Mumbai harbour on a hijacked fishing trawler, fanned out across India's financial capital, and over the next sixty hours killed 166 people. The architect of that operation was not on the boat. He was in Pakistan, watching the attack unfold on live television from a compound where he was guarded around the clock by Pakistani security personnel. His name was Hafiz Muhammad Saeed, and the institution he had built over the previous two decades had finally produced its defining work. Mumbai burned because Saeed wanted it to burn, and the world's most populous democracy stood briefly speechless because a single man in Punjab had decided to make it so.
 
 <!--more-->
 
-![Hafiz Saeed Complete Profile](/assets/images/blog/blog-03.webp)
+![Hafiz Saeed Complete Profile](/assets/images/blog/blog-63.webp)
 
 Saeed was already, by 26 November 2008, the most consequential terrorist Pakistan had ever produced. He would become, over the following sixteen years, the most protected. The international community placed him on the United Nations Security Council 1267 list. The United States offered ten million dollars for information leading to his prosecution. India submitted dossiers, extradition requests, and intercepted communications. Pakistan responded with a sequence of arrests, releases, house detentions, court appearances, and acquittals so choreographed that it took FATF grey-listing to break the pattern. By 2022, after seven separate terror financing convictions delivered a combined seventy-eight years, Pakistani authorities at last began detaining Saeed in conditions that resembled actual incarceration. Indian media correspondents who tracked his movements reported a different reality: a military-protected residence in central Lahore with a private mosque, vehicles, and a dedicated bodyguard rotation. Pakistan calls this prison. The men who built the case against him in New Delhi call it something else.
 

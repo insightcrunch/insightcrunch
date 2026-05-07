@@ -6,17 +6,17 @@ date: 2012-04-28
 categories: ["Industry"]
 tags: ["terror-leaders", "at-large", "survival", "adaptation", "shadow-war", "counter-terrorism"]
 excerpt: "The terror commanders alive after the shadow war have changed homes, routines, communications, and security details, and the cost of survival has been steep."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2012-04-28
+lang: en
 ---
-
 The list of terror commanders still breathing in Pakistan grows shorter every year, and the men whose names remain on it know exactly what that arithmetic means. Hafiz Saeed sits inside a high-security compound in Lahore where Punjab Rangers control the perimeter and where his son delivers weekly briefings instead of the founder doing it himself. Masood Azhar has not been seen in public since the 2019 Pulwama attack, his last verifiable photograph dating to a JeM gathering captured by a defector and authenticated against earlier images by Indian analysts. Syed Salahuddin issues recorded statements from undisclosed locations rather than the Muzaffarabad press conferences that used to be his signature. Each of these men is alive. None of them is living the way he did before the shadow war began crossing the Durand frontier and the Sutlej basin to reach into Pakistan's safe houses.
 
 <!--more-->
 
-![Terror Leaders Still at Large - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Terror Leaders Still at Large - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The category itself is new. Before 2021, the question of which Pakistan-based terror commanders had survived a counter-terror campaign had no operational meaning, because no campaign was reaching them with sufficient consistency to sort the alive from the dead. India's targeted killing pattern, anchored in the [definitive guide to Lashkar-e-Taiba's structure and operations](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) and the [JeM organizational analysis](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/), changed that. By late 2024 the pattern had eliminated enough mid-tier and senior figures across LeT, JeM, Hizbul Mujahideen, and the Khalistan groupings that the survivors became identifiable as a distinct cohort. They share a status: they are the men the campaign has not yet reached. They share a problem: every elimination of someone in their orbit reduces the number of people who could be targeted before them.
 

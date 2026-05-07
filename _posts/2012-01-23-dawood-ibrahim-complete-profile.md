@@ -6,17 +6,17 @@ date: 2012-01-23
 categories: ["Industry"]
 tags: ["dawood-ibrahim", "d-company", "1993-bombings", "mumbai", "organized-crime", "pakistan"]
 excerpt: "Definitive profile of Dawood Ibrahim, the 1993 Mumbai bombings mastermind, D-Company boss, and India's most wanted fugitive sheltered openly in Karachi."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2012-01-23
+lang: en
 ---
-
 The most wanted fugitive in Indian history sleeps in a stone-and-marble bungalow on Clifton Road in Karachi, ten minutes from the Pakistan Navy headquarters and forty minutes from the international airport that has flown his daughters to weddings in London and Dubai. His phone numbers have been leaked, redacted, leaked again, and printed in Indian parliamentary submissions. His addresses have been read into the Lok Sabha record. His passport numbers have been published. His brother runs the operation from Mumbai's Nagpada district while serving alternating stints in custody and freedom. His sister attends weddings in Mumbai under her own name. His daughter married the son of a Pakistani cricket legend in a ceremony covered by the international press. And yet for thirty years now, the man whose 1993 Mumbai serial bombings killed 257 people and wounded more than 700 has not been arrested, extradited, prosecuted, or so much as inconvenienced by the Pakistani state that pretends he is not there.
 
 <!--more-->
 
-![Dawood Ibrahim Complete Profile - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Dawood Ibrahim Complete Profile - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 Dawood Ibrahim Kaskar is the most documented protected fugitive on earth. The Indian government has filed Interpol Red Notices, the United States Treasury has designated him a Specially Designated Global Terrorist, the United Nations Security Council has sanctioned him under the 1267 regime for ties to al-Qaeda and Lashkar-e-Taiba, and Indian agencies have submitted dossier after dossier to Islamabad with addresses, telephone numbers, and photographs of the houses he occupies. Pakistan's response has cycled through three positions over three decades: he is not in Pakistan, he was in Pakistan but has left, and he may have been in Pakistan but is not there now. None of these claims has ever been backed by extradition, arrest, or even a serious police inquiry. The pattern is the proof. A state that cannot find a man whose location its own elite knows is not a state that has lost a fugitive. It is a state that has chosen one.
 

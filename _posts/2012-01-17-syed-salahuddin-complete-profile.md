@@ -6,17 +6,17 @@ date: 2012-01-17
 categories: ["Industry"]
 tags: ["syed-salahuddin", "hizbul-mujahideen", "kashmir", "terrorism", "designated-terrorist"]
 excerpt: "The complete profile of Syed Salahuddin, Hizbul Mujahideen supreme commander and US-designated global terrorist, directing Kashmir from Pakistani exile."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2012-01-17
+lang: en
 ---
-
 In April 2024, a stooped, heavily bearded man in his late seventies appeared at a small gathering in Muzaffarabad, capital of Pakistan-occupied Kashmir. Cameras caught him for a few seconds. He spoke briefly. He left. The man was Mohammad Yusuf Shah, the Kashmiri schoolteacher turned militant leader who has called himself Syed Salahuddin since 1991, who has chaired the United Jihad Council since the mid-1990s, who heads Hizbul Mujahideen, who carries a United States Specially Designated Global Terrorist tag from June 2017, who was also notified as a terrorist by the Indian government under the Unlawful Activities (Prevention) Act in October 2020, and who has issued thousands of fiery declarations from Pakistani soil promising that the Kashmir Valley will become "a graveyard for Indian forces." The April 2024 appearance was notable for one reason. It was rare. The man who once spoke at packed Muzaffarabad rallies and gave video interviews to international press is now seen so seldom that a brief glimpse becomes news.
 
 <!--more-->
 
-![Syed Salahuddin Hizbul Mujahideen Supreme Commander Profile](/assets/images/blog/blog-05.webp)
+![Syed Salahuddin Hizbul Mujahideen Supreme Commander Profile](/assets/images/blog/blog-90.webp)
 
 The rarity is not coincidence. It is the visible surface of a deeper collapse. Since February 2023, the Pakistan-based command structure that Salahuddin built across three decades of exile has been gutted by the [systematic elimination campaign documented in this series](https://insightcrunch.com/2013/06/22/hizbul-leadership-decimation/). His launching chief in Rawalpindi was [shot dead by unknown gunmen on a February evening](https://insightcrunch.com/2013/06/01/bashir-ahmad-peer-hizbul-profile/). One week later, his Al-Badr-affiliated lieutenant, who had served as a Hizbul commander in Kupwara before crossing the Line of Control, was [killed in Karachi](https://insightcrunch.com/2013/06/08/syed-khalid-raza-al-badr-profile/). His sons in Kashmir have been arrested by the National Investigation Agency, dismissed from their government jobs, and seen their family properties attached. His funding pipelines have been frozen, his recruits intercepted at the Line of Control, and his rhetoric, when it surfaces, lands in a near-silent Kashmir Valley where Hizbul's operational footprint has shrunk to vanishing.
 
