@@ -6,17 +6,17 @@ date: 2012-05-22
 categories: ["Industry"]
 tags: ["uri-attack", "surgical-strikes", "india", "pakistan", "loc", "jaish-e-mohammed"]
 excerpt: "The Uri Army camp pre-dawn assault that killed 19 Indian soldiers and triggered India's first acknowledged surgical strikes across the Line of Control."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2012-05-22
+lang: en
 ---
-
 The pre-dawn hours of September 18, 2016, brought four Jaish-e-Mohammed fighters through the rear perimeter of an Indian Army administrative base in Kashmir's Baramulla district, where the men of the 6 Bihar and 10 Dogra battalions were sleeping in transit tents during a unit rotation. Within twenty minutes, nineteen of those soldiers were dead, mostly in their sleeping bags, and four more would later die from burn injuries that turned the engagement into the deadliest single-day loss for the Indian Army on the Line of Control in two decades. Eleven days later, on the night of September 28-29, Indian Special Forces crossed the Line of Control in an acknowledged operation, struck terrorist launch pads inside Pakistan-administered Kashmir, and returned. The two events, the camp assault and the cross-border response, fused into a single hinge moment that ended one era of Indian counter-terror policy and inaugurated another.
 
 <!--more-->
 
-![Uri Army Camp Assault and Cross-LoC Surgical Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Uri Army Camp Assault and Cross-LoC Surgical Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 What happened at the Uri brigade headquarters has been narrated many times, but the analytical center of the episode is rarely placed where it belongs. The center is not the attack itself, devastating as the body count was. The center is not even the cross-LoC operation, militarily modest as the strike package proved. The center is the decision chain that connects the two: the eleven days during which the Indian security cabinet, the army headquarters at South Block, the Northern Command at Udhampur, and the special forces units pre-positioned in Jammu and Kashmir compressed a deliberation that had stretched over a decade after the November 2008 Mumbai siege into less than two weeks. That compression was the doctrinal earthquake. Once a state demonstrates that it can convert outrage into cross-border kinetic action in under a fortnight, the calculus of every subsequent provocation changes.
 

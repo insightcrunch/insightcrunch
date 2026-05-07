@@ -6,17 +6,17 @@ date: 2012-05-16
 categories: ["Industry"]
 tags: ["pathankot", "airbase", "jaish-e-mohammed", "terrorism", "india", "shahid-latif"]
 excerpt: "How JeM fighters breached the Pathankot airbase in January 2016, the seven security personnel killed, and the diplomatic collapse that ended engagement."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2012-05-16
+lang: en
 ---
-
 Eight days. That was the gap between the moment Prime Minister Narendra Modi stepped off a helicopter in Lahore on December 25, 2015, embracing his Pakistani counterpart Nawaz Sharif inside the Sharif family estate at Raiwind, and the moment four armed fighters in fatigues climbed over the perimeter wall of the Pathankot Air Force Station in the early hours of January 2, 2016. The Lahore visit was the boldest gesture any Indian prime minister had made toward Pakistan in over a decade. The airbase assault was the answer.
 
 <!--more-->
 
-![Pathankot Airbase Attack Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Pathankot Airbase Attack Explained - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The four fighters belonged to Jaish-e-Mohammed, the organization Masood Azhar had built after India released him from Jammu's Kot Bhalwal prison during the IC-814 hostage exchange at Kandahar in December 1999. Their target was not symbolic. The Pathankot Air Force Station houses MiG-21 Bison fighters, Mi-25 and Mi-35 attack helicopters, and the forward operating capability that defends India's western flank against the Pakistani Punjab. By the time the seventeen-hour battle ended on the morning of January 3 and the residual combing operation closed on January 5, seven Indian security personnel were dead, more than thirty wounded, and the diplomatic opening Modi had pursued at Raiwind was structurally finished. India would still file paperwork, accept inspectors, demand action, and pretend for several more months that engagement remained possible. But the operational reality changed at Pathankot. The next time terrorists struck an Indian military target, at Uri in September 2016, India did not invite anyone to investigate. Indian special forces simply crossed the Line of Control nine days later and announced what they had done.
 

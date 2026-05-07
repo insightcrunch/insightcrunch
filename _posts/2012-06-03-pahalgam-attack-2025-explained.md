@@ -6,17 +6,17 @@ date: 2012-06-03
 categories: ["Industry"]
 tags: ["pahalgam", "attack", "kashmir", "tourism", "operation-sindoor", "trf", "2025"]
 excerpt: "The April 2025 Pahalgam tourist massacre that killed 26 people, how TRF claimed and then denied responsibility, and how it triggered Operation Sindoor."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2012-06-03
+lang: en
 ---
-
 The afternoon of April 22, 2025 began as one of the busiest tourist days the upper Lidder Valley had recorded in years. Families from Maharashtra and Karnataka were riding ponies across the open green of Baisaran. Honeymooners from Hyderabad were photographing snow on the distant ridgelines. A retired naval officer from Pune was walking with his wife. Within forty-five minutes, twenty-six of those visitors would be dead, almost all of them killed at close range by gunmen who reportedly demanded names, asked about religion, and in several cases asked victims to recite Islamic verses before opening fire.
 
 <!--more-->
 
-![Pahalgam Attack 2025 Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pahalgam Attack 2025 Explained - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 The massacre that unfolded in that high meadow, reachable only by foot or by pony from the small resort town below, would become the single most consequential terrorist event on Indian soil since the November 2008 siege of Mumbai. Within fourteen days, India would launch its deepest cross-border missile campaign against Pakistan since 1971. By the third week, the two nuclear-armed neighbours would be exchanging artillery, drones, and combat-aircraft fire across the western frontier. The chain of consequence that began with five men walking out of a treeline at the edge of a tourist meadow would force an emergency United States diplomatic intervention, redraw the Simla Agreement framework that had governed bilateral relations since 1972, and end the decades-long Indus Waters Treaty arrangement with a suspension that has yet to be reversed.
 

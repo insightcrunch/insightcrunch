@@ -6,17 +6,17 @@ date: 2012-06-15
 categories: ["Industry"]
 tags: ["dhangri", "rajouri", "terror-attack", "abu-qasim", "lashkar-e-taiba", "kashmir"]
 excerpt: "The Dhangri village attack in Rajouri killed seven people through gunfire and an IED blast. The alleged mastermind was later shot inside a PoK mosque."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2012-06-15
+lang: en
 ---
-
 On the evening of January 1, 2023, two gunmen carrying rifles walked into the predominantly Hindu hamlet of Dhangri in Jammu and Kashmir's Rajouri district and opened fire on three residential houses, killing four civilians and wounding several others in an act of indiscriminate violence that shattered a decade of relative calm in the Jammu region. The following morning, an improvised explosive device planted near one of the targeted homes detonated among a crowd of mourners and protesters, killing two children and injuring five more. A seventh victim, Prince Sharma, succumbed to his gunshot wounds in a Jammu hospital a week later. Nine months after the carnage, Riyaz Ahmad, known by his operational alias Abu Qasim, the Lashkar-e-Taiba commander whom Indian intelligence identified as the [alleged mastermind](https://insightcrunch.com/2013/03/01/abu-qasim-riyaz-ahmad-let-profile/) of the twin strikes, was shot in the head at point-blank range while kneeling in prayer during the pre-dawn Fajr congregation inside al-Qudus mosque in Rawalakot, Pakistan-Occupied Kashmir. The chain from village massacre to mosque killing took fewer than 270 days, making it one of the fastest major attack-to-elimination sequences documented in India's [shadow war against terrorism](https://insightcrunch.com/2013/01/02/india-shadow-war-explained/).
 
 <!--more-->
 
-![Dhangri Terror Attack Explained](/assets/images/blog/blog-03.webp)
+![Dhangri Terror Attack Explained](/assets/images/blog/blog-71.webp)
 
 What makes the Dhangri incident analytically significant extends beyond its immediate casualties. The twin strikes represented a deliberate revival of civilian-targeted violence in the Jammu division, a region that had been largely free of major terror incidents for years. Rajouri district, which borders Pakistan-Occupied Kashmir's Kotli district along the Line of Control, had experienced sporadic security force encounters but no mass-casualty civilian attack since the mid-2000s. The assault on Dhangri broke that fragile stability and signaled that the [Lashkar-e-Taiba's operational network](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) retained the capability and intent to strike soft civilian targets in regions far from the Kashmir Valley's established conflict zones. The subsequent elimination of the alleged planner inside a house of worship in PoK illustrated a counter-pattern that Indian security analysts and international observers have documented with increasing frequency: those who plan civilian massacres on Indian soil are themselves being reached, identified, and killed on Pakistani soil with surgical precision. Rajouri's geography, its proximity to the LoC, its mixed demographics, and its history of communal violence dating back to the 1947 partition massacres provide essential context for understanding why this particular village became a target and why the response followed the trajectory it did.
 
