@@ -6,17 +6,17 @@ date: 2014-10-17
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "jane-eyre-character", "moral-autonomy", "victorian-woman", "classic-literature"]
 excerpt: "Jane Eyre is not a romantic heroine accidentally given moral seriousness. Her moral autonomy is the novel's central and deliberate Victorian argument."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2014-10-17
+lang: en
 ---
-
 Jane Eyre is among the most discussed female characters in English literature, and almost every popular account of her gets something fundamental wrong. The popular reading treats her as a romantic heroine whose unusual moral seriousness is a charming personality quirk, an interesting decoration on the more central romantic plot with Edward Rochester. The argument of this analysis is the opposite. Jane's moral autonomy is not a personality quirk and is not decoration. It is the book's argument. Charlotte Brontë constructed the character to embody, demonstrate, and defend a particular claim about female interior life and ethical agency in 1847 Victorian England, and every major characterological feature, from the orphan childhood at Gateshead through the refusal at Thornfield to the eventual union at Ferndean, was built to make that claim visible.
 
 <!--more-->
 
-![Jane Eyre Character Analysis - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Jane Eyre Character Analysis - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The popular flattening happens easily because the romantic plot is genuinely compelling. Brontë was an excellent dramatist of attraction, and the Thornfield sequences carry an intensity that overwhelms any abstract framework a reader brings to the page. Many adaptations exploit that intensity exclusively. The 1943 Robert Stevenson film with Orson Welles and Joan Fontaine, the 1996 Franco Zeffirelli version with William Hurt and Charlotte Gainsbourg, the 2011 Cary Fukunaga adaptation with Michael Fassbender and Mia Wasikowska, all foreground the romance and treat the Lowood sequences as backstory to be hurried through, the Moor House refusal of St. John Rivers as a structural delay rather than a thematic peak, and the final match as the resolution of romantic longing rather than the consummation of an ethical experiment. The popular Jane is the woman who said "Reader, I married him." The textual Jane is the woman who said "I would scorn such a union" when Rochester offered to take her abroad as his unmarried partner, and who walked out of Thornfield with twenty shillings in her pocket and slept on a moor for two nights rather than compromise her moral position. These two Janes are not the same character, even though the same words produce both readings.
 

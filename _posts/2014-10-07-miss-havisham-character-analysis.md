@@ -4,18 +4,20 @@ title: "Miss Havisham Character Analysis"
 page_title: "Miss Havisham Character Analysis: Why Her Gothic Surface Obscures a Systematic Trauma-Response Study"
 date: 2014-10-07
 last_updated: 2014-10-07
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "miss-havisham", "character-analysis", "trauma-response", "classic-literature"]
 excerpt: "Miss Havisham is not a Gothic caricature. She is Dickens's coherent trauma-response study, showing what one betrayal produces inside one human personality."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 76
+lang: en
 ---
-
 The yellowed wedding dress, the stopped clocks, the mouse-eaten bridecake under cobwebs: no image in Charles Dickens has burned itself more deeply into popular memory than the tableau Pip walks into on his first visit to Satis House. Generations of readers, teachers, and adapters have treated Miss Havisham as a Gothic curiosity, a grotesque drawn to give the young narrator something operatic to look at while the real story of class and ambition unfolds elsewhere. The popular treatment classifies her as caricature, eccentric, witch-figure, jilted bride frozen in a moment of cinematic sorrow. That treatment is wrong, or at least it is fatally incomplete.
 
 <!--more-->
 
+
+![Miss Havisham Character Analysis - Insight Crunch](/assets/images/blog/blog-38.webp)
 <img src="/assets/images/blog/blog-02.webp" alt="Miss Havisham character analysis Great Expectations" class="img-fluid">
 
 Examined carefully against the textual evidence Dickens places before us, Miss Havisham emerges as something far more demanding and far more contemporary than the Gothic frame can hold. She is a coherent psychological case: a woman whose response to identifiable betrayal at a known age, in known circumstances, produced a recognizable pattern of arrested time, displaced rage, weaponized attachment, and eventual rupturing recognition. The pattern is not mysterious. The pattern is what unaddressed catastrophic loss does to a human being who has the resources to wall herself off from any corrective contact with the world. Dickens did not have the vocabulary of complex trauma, betrayal trauma theory, or attachment disruption when he wrote Great Expectations. He had something better. He had the eye to observe the pattern in his own century and the craft to render it whole.

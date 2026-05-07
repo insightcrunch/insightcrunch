@@ -6,19 +6,19 @@ date: 2014-09-22
 categories: ["Leisure"]
 tags: ["wuthering-heights", "emily-bronte", "revenge", "love", "themes", "literary-analysis", "gothic-fiction"]
 excerpt: "Revenge in Wuthering Heights is not love's opposite. It is the form love takes when class-property structures explicitly deny love its ordinary fulfillment."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2014-09-22
+lang: en
 ---
-
 The most stubborn fact about Wuthering Heights is that it has been read for almost two centuries as a love story, and it has been read this way against substantial textual evidence that Emily Bronte was writing something else. Heathcliff's adult life is dominated by a project of methodical destruction aimed at two families. He degrades a child, imprisons a young woman, marries a sister he despises, and dies refusing food in a way that reads less like grief than like the closing of a settled account. None of these actions is what we ordinarily call love. They are also, in the novel's own logic, inseparable from his attachment to Catherine Earnshaw. The reading that calls the attachment love and the destruction its corruption has solved the problem too easily. This novel's argument is harder and darker, and recovering it is the work of this article.
 
 <!--more-->
 
 On the conventional reading, the novel divides into two affective registers. There is the love between Heathcliff and Catherine, which the reading treats as the novel's valorized material: intense, transcendent, frustrated by the conventions Catherine cannot defy. Then there is Heathcliff's revenge, treated as a tragic deformation of that love. On this account, the love would have been redemptive had Catherine chosen Heathcliff, and the revenge is what happens to a feeling that was denied its proper outlet. The framing is intuitive and has textual support. It is also incomplete, and it has been incomplete since Terry Eagleton published Myths of Power: A Marxist Study of the Brontes in 1975. The half-century of class-attentive scholarship that followed has systematically complicated the love-versus-revenge frame without dislodging it from popular reception, and that gap between scholarly knowledge and popular reading is the gap this analysis tries to close.
 
-![Revenge and Love in Wuthering Heights - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Revenge and Love in Wuthering Heights - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 The argument here is that revenge in the novel is not the betrayal of love but the form love takes once the conditions for ordinary love have been removed. Heathcliff's attachment to Catherine cannot become marriage because the late-eighteenth-century Yorkshire class-property system makes their marriage materially impossible after Hindley's degradation reduces Heathcliff to a position no estate-holding daughter could marry without catastrophic loss. The attachment does not stop existing because it cannot become marriage. It transforms into the only action available to it, which is the methodical dismantling of the families and properties whose configuration produced the impossibility. Heathcliff does not avenge himself on those who blocked his love. He continues his love by destroying what blocked it. The novel's central argument, which is sharper than the love-versus-revenge frame can hold, is that named social structures convert emotional material into apparently opposite forms, and the appearance of opposition hides a continuity of purpose. To read Wuthering Heights well is to recognize that revenge here is what love looks like when the conditions for love have been dismantled by the same society that produced the love in the first place.
 

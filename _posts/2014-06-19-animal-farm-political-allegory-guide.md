@@ -6,17 +6,17 @@ date: 2014-06-19
 categories: ["Leisure"]
 tags: ["animal-farm", "george-orwell", "political-allegory", "russian-revolution", "soviet-history", "classic-literature"]
 excerpt: "Animal Farm's political allegory maps chapter by chapter onto 1917-1943 Soviet history, and the specific correspondences still reward careful tracing."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 98
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2014-06-19
+lang: en
 ---
-
 George Orwell drafted Animal Farm during the Second World War with a specific historical referent in view. The manuscript he produced under London Blitz conditions between November of one wartime year and the following February was an effort to render the Soviet betrayal of 1917 in a form that could be read by anyone who could read a fable. The 1945 preface he composed for the Ukrainian edition (and the longer preface intended for the British edition, suppressed at the time and finally published in 1972) makes the intention explicit. Orwell was not writing a general parable about how power corrupts. He was writing a specific report on how the Bolshevik project had transformed itself into a mass-murdering bureaucracy that, by the end of the European war, had become hard to distinguish from its capitalist opponents.
 
 <!--more-->
 
-![Animal Farm political allegory chapter by chapter Soviet history](/assets/images/blog/blog-10.webp)
+![Animal Farm political allegory chapter by chapter Soviet history](/assets/images/blog/blog-39.webp)
 
 The novel's chapters map onto twentieth-century Soviet events with a precision that rewards detailed tracing. Old Major's barn speech in the opening section articulates the principles of Animalism in terms close enough to The Communist Manifesto that any reader familiar with Marx and Engels can recognize the source. The Rebellion that follows reproduces the rhythm of October 1917 down to the drunken negligence of the deposed master. The dog-pack expulsion of Snowball stages Trotsky's 1929 deportation from the Soviet Union. The animal confessions and executions that fill the seventh chapter capture the Moscow show trials of 1936 to 1938 with a fidelity that the surviving NKVD documents have only confirmed since the post-1991 archival opening. The dinner between pigs and humans in the closing chapter records the 1943 Tehran Conference, at which Stalin met Churchill and Roosevelt as a co-equal great-power leader, confirming in person what Orwell had been arguing throughout the war about the convergence of the Soviet leadership with its capitalist allies.
 
