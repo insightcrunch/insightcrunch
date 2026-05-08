@@ -6,17 +6,17 @@ date: 2012-09-25
 categories: ["Industry"]
 tags: ["isi", "raw", "intelligence-war", "india-pakistan", "espionage", "counter-intelligence"]
 excerpt: "The decades-long intelligence war between Pakistan's ISI and India's RAW, how the rivalry evolved through each major crisis, and why the balance is shifting."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2012-09-25
+lang: en
 ---
-
 For four decades, the contest between Pakistan's Inter-Services Intelligence and India's Research and Analysis Wing was asymmetric in Pakistan's favor. The directorate in Rawalpindi ran proxy wars across the Line of Control, infiltrated trained fighters into Indian territory, coordinated attacks on Indian soil from the 2001 Parliament siege to the 2008 Mumbai massacre, and managed a network of militant organizations whose collective body count runs into the tens of thousands. India's external agency, by contrast, gathered information, filed assessments, and watched as Pakistani-sponsored attacks killed Indian citizens with near-impunity. Islamabad's spy service shaped events; New Delhi's spy service documented them. That asymmetry defined the relationship between the two agencies for most of their shared history, and it is the asymmetry that the shadow war has upended.
 
 <!--more-->
 
-![ISI vs RAW Intelligence War](/assets/images/blog/blog-01.webp)
+![ISI vs RAW Intelligence War](/assets/images/blog/blog-90.webp)
 
 The reversal has not been universally acknowledged. Pakistani analysts, military commentators, and retired directorate officers tend to dismiss the shadow war as either Indian propaganda or the work of internal Pakistani rivalries, Baloch separatists, or Tehrik-i-Taliban Pakistan factions settling scores. Indian analysts, by contrast, tend to interpret the shadow war as vindication of a long-overdue shift toward offensive capability, though New Delhi has never officially confirmed any role. The divergence in interpretation matters because it shapes how each side understands its own position in the rivalry. If Pakistan's directorate genuinely believes the shadow war is not an Indian operation, its institutional response will be calibrated to the wrong threat. If India's agency is not responsible, the analytical framework presented here would require revision on its most consequential dimension.
 

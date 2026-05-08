@@ -6,17 +6,17 @@ date: 2012-07-05
 categories: ["Industry"]
 tags: ["operation-sindoor", "india-pakistan", "missile-strikes", "2025", "conflict", "ceasefire"]
 excerpt: "A definitive guide to Operation Sindoor, covering precision strikes on nine targets inside Pakistan, the 88-hour air conflict, and ceasefire aftermath."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2012-07-05
+lang: en
 ---
-
 Twenty-three minutes separated one strategic era from another. On the intervening night of May 6 and 7, 2025, the Indian Armed Forces launched precision missile strikes against nine sites inside Pakistan and Pakistan-administered Kashmir, targeting what New Delhi described as terrorist infrastructure belonging to Jaish-e-Mohammed and Lashkar-e-Taiba. The strikes, codenamed Operation Sindoor, began at approximately 1:05 a.m. Indian Standard Time and concluded by 1:28 a.m., marking the first time since the 1971 war that India had struck across the settled international boundary with Pakistan. What followed was an 88-hour air conflict between two nuclear-armed states, a retaliatory Pakistani campaign codenamed Operation Bunyan-un-Marsoos, an aerial engagement involving more than a hundred fighter aircraft on both sides, and a fragile ceasefire brokered through the Director General of Military Operations hotline on May 10. Every assumption that had governed South Asian deterrence for half a century buckled under the weight of those four days.
 
 <!--more-->
 
-![Operation Sindoor Complete Guide - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Operation Sindoor Complete Guide - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 The name itself carried deliberate symbolism. Sindoor, the red vermillion mark worn by married Hindu women, referenced the [Pahalgam massacre](https://insightcrunch.com/2012/05/09/pahalgam-attack-2025-explained/) that triggered the operation. Indian Defence Minister Rajnath Singh framed the connection explicitly, stating that the terrorists who had erased the sindoor of many families by killing 26 tourists in Kashmir had now been brought to justice. The naming was not accidental. It embedded the military response in a cultural vocabulary of grief and retribution that resonated across the Indian public, transforming a military operation into a national narrative of reckoning. This guide reconstructs the entire arc, from the Pahalgam trigger through the 23-minute strike window, the Pakistani retaliation, the escalation to airbase strikes, the ceasefire, and the strategic consequences that continue to reshape the subcontinent.
 

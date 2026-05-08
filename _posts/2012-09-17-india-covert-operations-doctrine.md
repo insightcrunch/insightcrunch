@@ -6,17 +6,17 @@ date: 2012-09-17
 categories: ["Industry"]
 tags: ["covert-operations", "doctrine", "india", "raw", "counter-terrorism", "intelligence"]
 excerpt: "How India's covert operations doctrine evolved from defensive intelligence gathering to offensive counter-terrorism and targeted killings across borders."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2012-09-17
+lang: en
 ---
-
 India's approach to covert action against cross-border terrorism has undergone three distinct transformations since the Research and Analysis Wing was established in September 1968, each triggered by a catastrophic failure of the preceding framework, and each expanding the boundaries of what New Delhi considered permissible in its confrontation with Pakistan-sponsored violence.
 
 <!--more-->
 
-![India Covert Operations Doctrine Analysis - Insight Crunch](/assets/images/blog/blog-15.webp)
+![India Covert Operations Doctrine Analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The trajectory is legible only in retrospect. For four decades after R.N. Kao built the Research and Analysis Wing from 250 handpicked operatives in a Cabinet Secretariat annex, India's external intelligence apparatus treated Pakistan as a target for information collection, not kinetic action. The agency that midwifed Bangladesh in 1971, engineered Sikkim's merger in 1975, and ran assets across South Asia and beyond did not apply its covert-action capability to the one adversary that mattered most. When the Gujral Doctrine dismantled even the intelligence-collection infrastructure inside Pakistan in 1997, the defensive posture hardened into institutional paralysis. The consequences arrived two years later at Kandahar, where India surrendered three designated terrorists in exchange for hostages, and then again in November 2008, when ten Lashkar-e-Taiba operatives from Pakistan [turned Mumbai into a three-day battlefield](https://insightcrunch.com/2012/05/04/26-11-mumbai-attack-complete-guide/) that killed 166 people while India's intelligence agencies watched the carnage unfold with no operational response capability in place.
 

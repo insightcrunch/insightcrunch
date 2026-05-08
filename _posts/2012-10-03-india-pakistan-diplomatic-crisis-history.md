@@ -6,17 +6,17 @@ date: 2012-10-03
 categories: ["Industry"]
 tags: ["india-pakistan", "diplomatic-crisis", "history", "partition", "kashmir", "relations"]
 excerpt: "A complete history of India-Pakistan diplomatic breakdowns from Partition to Pahalgam, analyzing why every resolution failed and the next crisis erased it."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2012-10-03
+lang: en
 ---
-
 India and Pakistan have experienced a major bilateral crisis roughly every five years since Partition in 1947, and not one of those crises has produced a resolution that survived the next provocation. The pattern is not accidental, not the product of bad luck or poor leadership at inopportune moments, but structural: rooted in irreconcilable territorial claims over Kashmir, reinforced by domestic political incentives on both sides that reward confrontation over compromise, and sustained by a cross-border proxy apparatus that manufactures crises faster than diplomats can contain them. Seventy-eight years of summits, agreements, back-channel conversations, confidence-building measures, and international mediation have produced exactly zero durable outcomes. The shadow war, India's alleged campaign of [covert eliminations on Pakistani soil](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/), exists precisely because this history of diplomatic failure left New Delhi with no other instrument it considered credible.
 
 <!--more-->
 
-![India Pakistan Diplomatic Crises History - Insight Crunch](/assets/images/blog/blog-02.webp)
+![India Pakistan Diplomatic Crises History - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 This article traces every significant bilateral breakdown from the first Kashmir war through the Pahalgam-Sindoor crisis, analyzing not just what happened in each episode but why the resolution that followed invariably collapsed. The analytical question at the center is deceptively simple: is the India-Pakistan conflict intractable, meaning structurally rooted in identity and territory in ways that no agreement can bridge, or is it solvable given sufficient political will and the right confidence-building architecture? The evidence overwhelmingly supports the first interpretation. Every confidence-building measure ever attempted between the two countries has been destroyed by the next terror attack, and every peace agreement has been rendered irrelevant by the next military confrontation. The pattern is the proof.
 

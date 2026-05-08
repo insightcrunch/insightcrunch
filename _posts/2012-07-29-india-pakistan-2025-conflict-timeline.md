@@ -6,17 +6,17 @@ date: 2012-07-29
 categories: ["Industry"]
 tags: ["india-pakistan", "2025", "conflict", "timeline", "pahalgam", "sindoor", "ceasefire"]
 excerpt: "Every escalation of the 2025 India-Pakistan crisis reconstructed day by day, from the Pahalgam tourist massacre through Operation Sindoor to ceasefire."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2012-07-29
+lang: en
 ---
-
 Nineteen days separated a tourist massacre from a ceasefire between two nuclear-armed nations, and every one of those days brought an escalation that the previous day had not prepared for. From April 22 to May 10, 2025, the Indian subcontinent experienced the most dangerous military confrontation since the Kargil crisis of 1999, a confrontation that compressed diplomatic breakdown, economic warfare, water weaponization, missile strikes, artillery bombardment, aerial combat, and drone warfare into less than three weeks. No crisis in the history of nuclear deterrence theory has moved this fast across this many escalation thresholds, and no two nuclear powers have exchanged this much ordnance since the concept of mutually assured destruction was supposed to make such exchanges unthinkable.
 
 <!--more-->
 
-![India Pakistan 2025 Conflict Timeline - Insight Crunch](/assets/images/blog/blog-09.webp)
+![India Pakistan 2025 Conflict Timeline - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The crisis began in the Baisaran Valley of Pahalgam, where three armed men separated tourists by religion and executed 26 people, most of them Hindu pilgrims. It ended with a telephone call between Directors General of Military Operations at 5:00 PM IST on May 10, after four days of active combat that included missile strikes on nine sites deep inside Pakistani territory, retaliatory artillery bombardment of civilian areas in Jammu's Poonch district, the first drone battle between nuclear states, an aerial engagement involving 114 warplanes, the first combat deployment of Russia's S-400 air defense system, and a ceasefire announcement by a United States president on social media before either belligerent had confirmed the agreement to its own population. What follows is the most detailed publicly available day-by-day reconstruction of those nineteen days, drawing on Indian and Pakistani official statements, satellite imagery reporting, defense journalist accounts, and the analytical frameworks of scholars who have spent careers studying South Asian nuclear crises. The reconstruction does not pretend to neutrality: some events are genuinely contested, and where they are, both versions are presented with the available evidence. Where they are not, the reconstruction states what happened, why, and what it meant for everything that came after.
 

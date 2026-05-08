@@ -6,17 +6,17 @@ date: 2012-07-21
 categories: ["Industry"]
 tags: ["surgical-strikes", "2016", "uri", "loc", "special-forces", "india-pakistan"]
 excerpt: "How Indian special forces crossed the Line of Control after the Uri attack to destroy terrorist launch pads in PoK, permanently changing military doctrine."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2012-07-21
+lang: en
 ---
-
 On September 29, 2016, Indian Army Para Special Forces crossed the Line of Control under cover of darkness, struck terrorist launch pads inside Pakistan-occupied Kashmir, and returned before dawn. The operation lasted roughly four hours. Measured by physical destruction, it was modest: a handful of makeshift camps destroyed, an estimated thirty-five to forty casualties reported among militants and their Pakistani military backers, and no confirmed Indian fatalities. Measured by what it represented, however, the operation was the most significant shift in India's military posture since the 1971 war with Pakistan. For decades, India had absorbed cross-border terrorist provocations, responded with diplomatic protests, and waited for the next attack. On that September night, eleven days after [nineteen Indian soldiers were killed at Uri](https://insightcrunch.com/2012/05/22/uri-attack-2016-explained/), a new doctrine replaced the old one. India would no longer absorb. India would strike back.
 
 <!--more-->
 
-![Surgical Strikes 2016 Explained - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Surgical Strikes 2016 Explained - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 The significance of what happened on September 29 cannot be understood through body counts or damage assessments alone. It must be understood through the lens of what did not happen during every previous crisis. After the 2001 Parliament attack, India mobilized a million soldiers under Operation Parakram, held them on the border for ten months, and ultimately stood them down without firing a shot. After the 2008 Mumbai massacre that killed 166 people, India's political leadership chose restraint over retaliation, judging the risks of escalation under the nuclear umbrella too severe. After the January 2016 [Pathankot airbase infiltration](https://insightcrunch.com/2012/05/16/pathankot-airbase-attack-explained/) that killed seven Indian security personnel, India offered Pakistan a Joint Investigation Team, an olive branch that Pakistan exploited for intelligence gathering rather than genuine inquiry. Each time, the pattern repeated: Pakistan sponsored an attack, India absorbed the blow, and Pakistan's assumption of impunity grew stronger. September 29, 2016, broke that pattern permanently. What India's special forces accomplished in the mountains of PoK was less important than what India's political leadership accomplished in the realm of strategic signaling. They demonstrated that the old rules, absorb the attack, protest diplomatically, and wait for the next one, were over.
 

@@ -6,17 +6,17 @@ date: 2012-07-13
 categories: ["Industry"]
 tags: ["balakot", "airstrike", "india-pakistan", "pulwama", "2019", "counter-terrorism"]
 excerpt: "How India launched the Balakot airstrike, striking inside Pakistani territory for the first time since 1971 and permanently changing the rules of war."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2012-07-13
+lang: en
 ---
-
 Twelve Mirage 2000 fighter jets crossed into Pakistani airspace in the pre-dawn darkness of February 26, 2019, dropped Israeli-made precision munitions on a hilltop compound near the town of Balakot in Khyber Pakhtunkhwa province, and returned to Indian territory before sunrise. The tactical results of that mission remain contested to this day. The strategic consequences are not. India had conducted an airstrike inside Pakistani territory for the first time since the [Indo-Pakistani War of 1971](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/), shattering a forty-eight-year barrier that had shaped every calculation about deterrence, escalation, and restraint on the subcontinent. Whether those bombs killed three hundred fighters or none at all, the airspace violation itself permanently altered the strategic geometry between two nuclear-armed rivals.
 
 <!--more-->
 
-![Balakot Airstrike 2019 Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Balakot Airstrike 2019 Explained - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The strikes followed the [deadliest attack on Indian security forces in Kashmir in three decades](https://insightcrunch.com/2012/05/28/pulwama-attack-2019-explained/). On February 14, 2019, a vehicle-borne improvised explosive device rammed into a Central Reserve Police Force convoy on the Jammu-Srinagar National Highway at Lethpora in Pulwama district, killing forty personnel from the 76th Battalion. [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/), the Pakistan-based militant group founded by [Masood Azhar](https://insightcrunch.com/2012/01/11/masood-azhar-complete-profile/) after his release during the [IC-814 hijacking](https://insightcrunch.com/2012/05/10/ic-814-hijacking-complete-guide/), claimed responsibility. India blamed Pakistan for harboring the group's leadership and infrastructure. Twelve days of diplomatic fury, public rage, and military planning followed. Then came the jets.
 

@@ -6,17 +6,17 @@ date: 2012-06-27
 categories: ["Industry"]
 tags: ["deadliest-attacks", "india", "terrorism", "ranked", "26-11", "pahalgam", "pulwama"]
 excerpt: "The deadliest terror attacks in India ranked by casualty count and strategic consequence, revealing why escalation follows frustration, not body counts."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2012-06-27
+lang: en
 ---
-
 India has suffered more mass-casualty terror attacks from a single state sponsor than any other democracy in recorded history. The cumulative death toll from Pakistan-linked terrorism exceeds every other bilateral terror relationship on earth, surpassing the losses inflicted by any single state's proxies on any single democracy over any comparable period. The shadow war and Operation Sindoor are not disproportionate responses to this record. They are proportionate responses that took three decades to arrive.
 
 <!--more-->
 
-![Deadliest Terror Attacks in India Ranked - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Deadliest Terror Attacks in India Ranked - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 That claim requires evidence, and the evidence requires ranking. Every major Indian news outlet has published a list of the country's worst terror attacks at one point or another, typically organized by casualty count and typically published in the days after a new attack joins the list. Those lists serve a purpose: they quantify horror, they provide context, and they remind readers that what just happened is not without precedent. But casualty-count rankings conceal as much as they reveal. They treat every death as equivalent in strategic weight, every attack as an isolated data point, and every government response as a rational function of the body count that preceded it. None of those assumptions survive contact with the actual historical record.
 

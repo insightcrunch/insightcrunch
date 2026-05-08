@@ -6,17 +6,17 @@ date: 2012-08-30
 categories: ["Industry"]
 tags: ["s-400", "air-defense", "india", "russia", "2025-conflict", "military-technology"]
 excerpt: "India deployed its Russian-built S-400 Triumf air defense system in combat for the first time during the May 2025 conflict with Pakistan, a global debut."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2012-08-30
+lang: en
 ---
-
 Every weapons platform eventually faces a moment when theory yields to practice, when the carefully curated brochure specifications and controlled test-range demonstrations give way to the chaos of live fire, electronic jamming, and an adversary actively trying to overwhelm, evade, or destroy the system before it can function as advertised. For Russia's Triumf long-range surface-to-air missile platform, that moment arrived during the four days of the India-Pakistan military confrontation in May 2025, when Indian Air Force batteries designated Sudarshan Chakra found themselves tracking, targeting, and engaging hostile aircraft, cruise missiles, and unmanned aerial vehicles in the most consequential air defense engagement since the Gulf War. What happened over those eighty-eight hours transformed a procurement controversy into a strategic vindication, reshaped the global air defense market, and gave India a proven capability that no amount of controlled testing could have provided.
 
 <!--more-->
 
-![S-400 First Combat Deployment Analysis - Insight Crunch](/assets/images/blog/blog-13.webp)
+![S-400 First Combat Deployment Analysis - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Before May 2025, every assessment of the Triumf existed in the conditional tense. Manufacturer specifications from Almaz-Antey, the Russian state defense conglomerate responsible for the platform's design and production, described a system capable of detecting aerial targets at six hundred kilometers, tracking three hundred objects simultaneously, and guiding interceptor missiles to engage threats at ranges up to four hundred kilometers. Western defense analysts acknowledged these figures while noting that no customer had ever tested the system against a capable, motivated adversary. Turkey had purchased the platform but never activated it operationally, choosing instead to let its batteries gather dust in warehouses as a bargaining chip with Washington. China deployed its batteries along the Taiwan Strait and near the Senkaku Islands but never fired them in anger. Russia itself used the system in Syria, though the targets there were comparatively unsophisticated. India's conflict with Pakistan in May 2025 changed everything, providing the first real-world dataset against a peer adversary's air force equipped with modern electronic warfare, Chinese-supplied cruise missiles, and Western-designed fighter aircraft.
 
