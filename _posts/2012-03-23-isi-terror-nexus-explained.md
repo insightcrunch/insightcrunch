@@ -9,7 +9,7 @@ excerpt: "How Pakistan's Inter-Services Intelligence agency systematically built
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2012-03-23
+last_updated: 2026-05-09
 lang: en
 ---
 Pakistan's Inter-Services Intelligence directorate did not stumble into the business of sponsoring terrorism against India. It architected terrorism as state policy across four decades, selecting which groups to fund, which leaders to elevate, which attacks to authorize, and which front organizations to create when international scrutiny demanded cosmetic rebranding. The ISI's relationship with Lashkar-e-Taiba, Jaish-e-Mohammed, Hizbul Mujahideen, Al-Badr, and over a dozen other armed groups represents the most extensive state-sponsored terror infrastructure built by any intelligence agency in the post-Cold War era. To understand the targeted elimination campaign now dismantling that infrastructure across Pakistani cities, from Karachi to Rawalpindi to Lahore, one must first understand the system that built it. The ISI did not merely tolerate these groups. It created them, armed them, trained their cadres, financed their operations, protected their leaders, and deployed them as instruments of foreign policy against India, Afghanistan, and any regional actor Islamabad considered a threat. The [shadow war now reaching into the heart of Pakistan's cities](https://insightcrunch.com/2013/01/15/india-shadow-war-explained/) is targeting not random individuals but ISI clients whose patron can no longer guarantee their safety.

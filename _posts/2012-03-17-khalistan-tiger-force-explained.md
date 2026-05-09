@@ -9,7 +9,7 @@ excerpt: "Khalistan Tiger Force explained in full depth, covering Nijjar's milit
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2012-03-17
+last_updated: 2026-05-09
 lang: en
 ---
 On the evening of June 18, 2023, Hardeep Singh Nijjar stepped out of the Guru Nanak Sikh Gurdwara on 120 Street in Surrey, British Columbia, and walked toward his pickup truck in the parking lot. Two masked gunmen approached from behind. They fired multiple rounds at close range, killing Nijjar in his vehicle. The 45-year-old plumber and gurdwara president had been designated a terrorist by India three years earlier, accused of leading an organization that most Canadians had never heard of: the Khalistan Tiger Force. Within three months of his killing, Canadian Prime Minister Justin Trudeau would stand in the House of Commons and accuse the government of India of orchestrating the assassination of a Canadian citizen on Canadian soil, triggering the worst diplomatic crisis between the two countries in living memory. Nijjar's death transformed KTF from a relatively obscure militant outfit into the focal point of a geopolitical confrontation involving three of the world's largest democracies, reshaping the contours of India's shadow war and exposing how a diaspora-driven separatist network could upend international relations between nuclear powers.

@@ -9,7 +9,7 @@ excerpt: "The complete profile of Syed Salahuddin, Hizbul Mujahideen supreme com
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2012-01-17
+last_updated: 2026-05-09
 lang: en
 ---
 In April 2024, a stooped, heavily bearded man in his late seventies appeared at a small gathering in Muzaffarabad, capital of Pakistan-occupied Kashmir. Cameras caught him for a few seconds. He spoke briefly. He left. The man was Mohammad Yusuf Shah, the Kashmiri schoolteacher turned militant leader who has called himself Syed Salahuddin since 1991, who has chaired the United Jihad Council since the mid-1990s, who heads Hizbul Mujahideen, who carries a United States Specially Designated Global Terrorist tag from June 2017, who was also notified as a terrorist by the Indian government under the Unlawful Activities (Prevention) Act in October 2020, and who has issued thousands of fiery declarations from Pakistani soil promising that the Kashmir Valley will become "a graveyard for Indian forces." The April 2024 appearance was notable for one reason. It was rare. The man who once spoke at packed Muzaffarabad rallies and gave video interviews to international press is now seen so seldom that a brief glimpse becomes news.

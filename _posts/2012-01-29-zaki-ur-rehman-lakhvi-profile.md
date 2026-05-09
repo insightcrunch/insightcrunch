@@ -9,7 +9,7 @@ excerpt: "Profile of Zaki-ur-Rehman Lakhvi, the LeT operations commander who dir
 image: "/assets/images/blog/blog-18.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2012-01-29
+last_updated: 2026-05-09
 lang: en
 ---
 For seventy-two hours in late November 2008, a man with a satellite phone sat in a control room somewhere on the Pakistani side of the border and ran a war. He told ten young men where to shoot, when to set fires, when to take hostages, when to ignore the wounded, when to burn the bodies. He told one of them to throw a grenade into a children's hospital. He told another to make sure the rabbi's pregnant wife was killed in front of her toddler son. He stayed on the line as Indian commandos closed in, comforting his fighters, congratulating them on their kills, urging them to die well. When the smoke cleared in Mumbai, 166 people were dead. The man on the satellite phone was Zaki-ur-Rehman Lakhvi, military chief of Lashkar-e-Taiba, and Pakistan was holding the recordings of every word he had said.

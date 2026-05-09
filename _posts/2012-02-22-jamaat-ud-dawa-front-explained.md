@@ -9,7 +9,7 @@ excerpt: "How Hafiz Saeed transformed Jamaat-ud-Dawa into the largest jihadist r
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2012-02-22
+last_updated: 2026-05-09
 lang: en
 ---
 Jamaat-ud-Dawa is the most successful terrorist rebranding operation in modern history. When the United Nations and the United States designated Lashkar-e-Taiba as a terrorist organization after the 2008 Mumbai attacks that [killed 166 people across five locations in three days](https://insightcrunch.com/2012/05/04/26-11-mumbai-attack-complete-guide/), Hafiz Saeed did not dismantle his creation. He renamed it. The same personnel who ran LeT's recruitment operations, the same madrassas that radicalized thousands of young men across Punjab and Sindh, the same hospitals and disaster-relief operations that embedded the organization in Pakistani civil society, all continued operating under the JuD banner. Pakistan's government played along. The international community, for nearly a decade, accepted the fiction. Sajjan Gohel of the Asia Pacific Foundation has described JuD's dual-use infrastructure as the most sophisticated charitable-militant hybrid any terror group has constructed, and the evidence supports that assessment. Understanding JuD requires understanding how a single man built an organization that functions simultaneously as Pakistan's largest private charity and its most effective jihadist recruitment pipeline.

@@ -9,7 +9,7 @@ excerpt: "Definitive Hafiz Saeed profile examining the 26/11 Mumbai attack maste
 image: "/assets/images/blog/blog-63.webp"
 reading_time: 71
 author: "david-thornton"
-last_updated: 2012-01-05
+last_updated: 2026-05-09
 lang: en
 ---
 On the afternoon of 26 November 2008, ten young men sailed into Mumbai harbour on a hijacked fishing trawler, fanned out across India's financial capital, and over the next sixty hours killed 166 people. The architect of that operation was not on the boat. He was in Pakistan, watching the attack unfold on live television from a compound where he was guarded around the clock by Pakistani security personnel. His name was Hafiz Muhammad Saeed, and the institution he had built over the previous two decades had finally produced its defining work. Mumbai burned because Saeed wanted it to burn, and the world's most populous democracy stood briefly speechless because a single man in Punjab had decided to make it so.

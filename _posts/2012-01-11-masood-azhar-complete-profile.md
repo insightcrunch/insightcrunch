@@ -9,7 +9,7 @@ excerpt: "The complete profile of Masood Azhar, the Bahawalpur cleric India rele
 image: "/assets/images/blog/blog-45.webp"
 reading_time: 75
 author: "amit-chatterjee"
-last_updated: 2012-01-11
+last_updated: 2026-05-09
 lang: en
 ---
 On the morning of 31 December 1999, on a windswept tarmac at Kandahar's airport, India's foreign minister Jaswant Singh stepped off a special flight from Delhi and walked towards a small group of three men flanked by Taliban fighters. One of those three, a stout cleric with a thick beard and dark glasses, would walk on a few minutes later as the most consequential prisoner India had ever released. His name was Maulana Masood Azhar, and within thirty-one days he would establish Jaish-e-Mohammed in Bahawalpur, the city of his birth. Within seven hundred and seven days he would order the storming of India's Parliament. Within six thousand and two hundred days, his organisation would kill forty Indian paramilitaries on a Pulwama highway. The decision Singh executed in Kandahar that morning has produced more Indian casualties than any single diplomatic concession in the country's history.

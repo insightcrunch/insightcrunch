@@ -9,7 +9,7 @@ excerpt: "The Resistance Front explained, from its strategic creation as LeT's d
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 71
 author: "andrew-price"
-last_updated: 2012-02-28
+last_updated: 2026-05-09
 lang: en
 ---
 On April 22, 2025, five armed men walked into the Baisaran Valley near Pahalgam, one of Kashmir's most cherished tourist destinations, and opened fire on visitors. They separated people by religion, asked each person to identify themselves, and then killed twenty-six civilians in what became the deadliest assault on Indian soil since the 2008 Mumbai attacks. Within hours, a group called The Resistance Front posted a claim of responsibility on its social media channels, linking the massacre to opposition against non-local settlement in Kashmir. Within days, that same group retracted the claim, blaming a "coordinated cyber intrusion" for the original statement. The retraction convinced nobody who had been paying attention. It was, instead, the moment when a carefully constructed facade of indigenous Kashmiri resistance crumbled under the weight of its own contradictions, exposing The Resistance Front for what Indian intelligence agencies and counter-terrorism scholars had argued since its inception: not a new organization born from local grievances, but [Lashkar-e-Taiba](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) wearing a different mask, created specifically to provide Pakistan with deniable attribution for continued violence in Kashmir after the revocation of Article 370.

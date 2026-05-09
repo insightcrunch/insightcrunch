@@ -9,7 +9,7 @@ excerpt: "Pakistan's safe haven is not passive shelter but active infrastructure
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2012-03-29
+last_updated: 2026-05-09
 lang: en
 ---
 Pakistan does not merely shelter terrorists. It operates an integrated infrastructure that provides designated residences, police non-interference protocols, hospital access under assumed identities, madrassa employment for wanted men, and military-escorted movement corridors linking safe houses across provincial boundaries. Understanding this system requires abandoning the comfortable fiction that Pakistan's safe haven is a passive failure of governance. Rawalpindi, the city where Pakistan's Army General Headquarters and Inter-Services Intelligence directorate are both located, simultaneously hosts the safe houses of designated terrorists from Hizbul Mujahideen. If a man on India's most-wanted list can live openly in the most tightly controlled military city in Pakistan, the safe haven is not an accident of geography or a symptom of state weakness. It is a product of deliberate institutional design, maintained by specific agencies for specific strategic purposes, and funded through identifiable financial channels that the Financial Action Task Force has spent years trying to disrupt.

@@ -9,7 +9,7 @@ excerpt: "Al-Badr Mujahideen explained from founding to present, the often-overl
 image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2012-03-05
+last_updated: 2026-05-09
 lang: en
 ---
 Every insurgency produces organizations that become household names and organizations that slip through the cracks of public memory. In the Kashmir conflict, Lashkar-e-Taiba commands international headlines, Jaish-e-Mohammed triggers parliamentary debates, and [Hizbul Mujahideen](https://insightcrunch.com/2012/02/16/hizbul-mujahideen-complete-guide/) anchors itself as the valley's oldest militant movement. Al-Badr Mujahideen belongs to none of these categories. It occupies the space between relevance and obscurity, between organizational independence and subordination, between a fighting force that shaped the Kashmir insurgency's bloodiest decade and a name that most Indians could not identify if asked. The shadow war, however, does not share the public's selective memory. When unknown gunmen began systematically eliminating India's most-wanted terrorists on Pakistani soil, Al-Badr operatives appeared on the kill list alongside their better-known counterparts from [LeT](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/) and [JeM](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/), a fact that tells us something important about how intelligence agencies prioritize threats versus how journalists and researchers categorize them.

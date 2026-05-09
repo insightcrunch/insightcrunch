@@ -9,7 +9,7 @@ excerpt: "Definitive profile of Dawood Ibrahim, the 1993 Mumbai bombings masterm
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 72
 author: "jason-mckenzie"
-last_updated: 2012-01-23
+last_updated: 2026-05-09
 lang: en
 ---
 The most wanted fugitive in Indian history sleeps in a stone-and-marble bungalow on Clifton Road in Karachi, ten minutes from the Pakistan Navy headquarters and forty minutes from the international airport that has flown his daughters to weddings in London and Dubai. His phone numbers have been leaked, redacted, leaked again, and printed in Indian parliamentary submissions. His addresses have been read into the Lok Sabha record. His passport numbers have been published. His brother runs the operation from Mumbai's Nagpada district while serving alternating stints in custody and freedom. His sister attends weddings in Mumbai under her own name. His daughter married the son of a Pakistani cricket legend in a ceremony covered by the international press. And yet for thirty years now, the man whose 1993 Mumbai serial bombings killed 257 people and wounded more than 700 has not been arrested, extradited, prosecuted, or so much as inconvenienced by the Pakistani state that pretends he is not there.

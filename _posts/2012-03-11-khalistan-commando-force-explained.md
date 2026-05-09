@@ -9,7 +9,7 @@ excerpt: "The complete history of the Khalistan Commando Force from its Punjab i
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 71
 author: "david-thornton"
-last_updated: 2012-03-11
+last_updated: 2026-05-09
 lang: en
 ---
 The Khalistan Commando Force was the Punjab insurgency's most lethal fighting arm, responsible for hundreds of targeted killings during the period stretching from the storming of the Golden Temple through the collapse of the armed Sikh separatist movement in the early 1990s. KCF distinguished itself from other Khalistan groups through a combination of ruthless operational discipline, a willingness to assassinate high-ranking Indian officials, and a command structure that fused religious ideology with military-style organization. Its chief, Paramjit Singh Panjwar, survived the insurgency's defeat, fled to Pakistan, lived openly in Lahore for nearly three decades, and was finally [gunned down on a morning walk](https://insightcrunch.com/2013/07/06/paramjit-singh-panjwar-kcf-chief/) in May 2023 by unknown assailants. That killing, three decades after KCF's peak operational years, captures something essential about the organization and about the broader campaign of targeted eliminations unfolding across Pakistan: dormancy does not mean safety, exile does not mean invisibility, and the passage of time does not erase a wanted status.
