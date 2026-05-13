@@ -2,7 +2,7 @@
 title: "Pakistan Army and Terror Leadership"
 page_title: "Pakistan Army and Terror Leadership - How the Military Establishment Controls, Protects, and Deploys Terror Group Commanders"
 date: 2012-04-16
-last_updated: 2012-04-16
+last_updated: 2026-05-13
 author: "ian-fletcher"
 categories: ["Industry"]
 tags: ["pakistan-army", "terrorism", "isi", "military", "state-sponsorship", "let", "jem"]

@@ -9,7 +9,7 @@ excerpt: "The definitive guide to the 26/11 Mumbai siege, the three-day assault 
 image: "/assets/images/blog/blog-35.webp"
 reading_time: 70
 author: "benjamin-scott"
-last_updated: 2012-05-04
+last_updated: 2026-05-13
 lang: en
 ---
 On the night of November 26, 2008, ten young men climbed off a hijacked fishing trawler into rubber dinghies a few kilometres off the coast of Colaba and rowed toward the lights of south Mumbai. They carried AK-56 rifles, hand grenades, satellite phones, dried fruit, syringes of adrenaline, and a strategic plan written in Urdu by handlers sitting in a control room six hundred kilometres away in Karachi. Over the next sixty hours they would kill 166 people, wound more than three hundred others, hold three luxury establishments and a Jewish outreach centre under siege, and force the Indian state to confront a question it had never confronted with the same clarity before: what happens when diplomacy fails, when international institutions fail, when a neighbouring state refuses to deliver justice, and when the perpetrators themselves are sheltered behind a nuclear umbrella?

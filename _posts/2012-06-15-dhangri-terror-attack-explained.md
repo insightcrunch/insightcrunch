@@ -9,7 +9,7 @@ excerpt: "The Dhangri village attack in Rajouri killed seven people through gunf
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2012-06-15
+last_updated: 2026-05-13
 lang: en
 ---
 On the evening of January 1, 2023, two gunmen carrying rifles walked into the predominantly Hindu hamlet of Dhangri in Jammu and Kashmir's Rajouri district and opened fire on three residential houses, killing four civilians and wounding several others in an act of indiscriminate violence that shattered a decade of relative calm in the Jammu region. The following morning, an improvised explosive device planted near one of the targeted homes detonated among a crowd of mourners and protesters, killing two children and injuring five more. A seventh victim, Prince Sharma, succumbed to his gunshot wounds in a Jammu hospital a week later. Nine months after the carnage, Riyaz Ahmad, known by his operational alias Abu Qasim, the Lashkar-e-Taiba commander whom Indian intelligence identified as the [alleged mastermind](https://insightcrunch.com/2013/03/01/abu-qasim-riyaz-ahmad-let-profile/) of the twin strikes, was shot in the head at point-blank range while kneeling in prayer during the pre-dawn Fajr congregation inside al-Qudus mosque in Rawalakot, Pakistan-Occupied Kashmir. The chain from village massacre to mosque killing took fewer than 270 days, making it one of the fastest major attack-to-elimination sequences documented in India's [shadow war against terrorism](https://insightcrunch.com/2013/01/02/india-shadow-war-explained/).

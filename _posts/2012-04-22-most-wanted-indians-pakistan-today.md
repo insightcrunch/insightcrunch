@@ -2,7 +2,7 @@
 title: "Most Wanted Indians in Pakistan Today"
 page_title: "India's Most Wanted in Pakistan Today - Who Remains on the Target List and Why Pakistan Cannot Protect Them Anymore"
 date: 2012-04-22
-last_updated: 2012-04-22
+last_updated: 2026-05-13
 slug: most-wanted-indians-pakistan-today
 author: "james-carter"
 categories: ["Industry"]

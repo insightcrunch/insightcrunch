@@ -9,7 +9,7 @@ excerpt: "How JeM fighters breached the Pathankot airbase in January 2016, the s
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2012-05-16
+last_updated: 2026-05-13
 lang: en
 ---
 Eight days. That was the gap between the moment Prime Minister Narendra Modi stepped off a helicopter in Lahore on December 25, 2015, embracing his Pakistani counterpart Nawaz Sharif inside the Sharif family estate at Raiwind, and the moment four armed fighters in fatigues climbed over the perimeter wall of the Pathankot Air Force Station in the early hours of January 2, 2016. The Lahore visit was the boldest gesture any Indian prime minister had made toward Pakistan in over a decade. The airbase assault was the answer.

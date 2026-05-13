@@ -9,7 +9,7 @@ excerpt: "The deadliest terror attacks in India ranked by casualty count and str
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
 author: "alex-cunningham"
-last_updated: 2012-06-27
+last_updated: 2026-05-13
 lang: en
 ---
 India has suffered more mass-casualty terror attacks from a single state sponsor than any other democracy in recorded history. The cumulative death toll from Pakistan-linked terrorism exceeds every other bilateral terror relationship on earth, surpassing the losses inflicted by any single state's proxies on any single democracy over any comparable period. The shadow war and Operation Sindoor are not disproportionate responses to this record. They are proportionate responses that took three decades to arrive.

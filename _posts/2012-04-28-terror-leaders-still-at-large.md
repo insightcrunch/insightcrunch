@@ -9,7 +9,7 @@ excerpt: "The terror commanders alive after the shadow war have changed homes, r
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
 author: "marcus-hall"
-last_updated: 2012-04-28
+last_updated: 2026-05-13
 lang: en
 ---
 The list of terror commanders still breathing in Pakistan grows shorter every year, and the men whose names remain on it know exactly what that arithmetic means. Hafiz Saeed sits inside a high-security compound in Lahore where Punjab Rangers control the perimeter and where his son delivers weekly briefings instead of the founder doing it himself. Masood Azhar has not been seen in public since the 2019 Pulwama attack, his last verifiable photograph dating to a JeM gathering captured by a defector and authenticated against earlier images by Indian analysts. Syed Salahuddin issues recorded statements from undisclosed locations rather than the Muzaffarabad press conferences that used to be his signature. Each of these men is alive. None of them is living the way he did before the shadow war began crossing the Durand frontier and the Sutlej basin to reach into Pakistan's safe houses.

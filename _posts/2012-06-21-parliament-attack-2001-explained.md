@@ -9,7 +9,7 @@ excerpt: "The 2001 Indian Parliament attack by JeM and LeT terrorists, the nucle
 image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2012-06-21
+last_updated: 2026-05-13
 lang: en
 ---
 On the morning of December 13, 2001, five heavily armed men drove a white Ambassador car fitted with forged Home Ministry identification stickers and a red beacon light through the security perimeter of the Indian Parliament complex in New Delhi. Both chambers of Parliament had adjourned forty minutes earlier, but more than one hundred lawmakers remained inside the building, including Home Minister L.K. Advani, Minister of State for Defence Harin Pathak, and several members of the Union Cabinet. The attackers carried AK-47 assault rifles, grenade launchers, pistols, and grenades. Their objective was to breach the building and kill as many parliamentarians as possible. In the ensuing firefight, nine security personnel and one gardener lost their lives. All five terrorists were killed by the security forces who responded to the breach. The symbolic weight of what nearly occurred that morning, the potential massacre of India's elected representatives inside the seat of its democracy, would reshape the subcontinent's security architecture for the next quarter century.

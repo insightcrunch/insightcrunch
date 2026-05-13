@@ -9,7 +9,7 @@ excerpt: "How Pakistan's madrassa network functions as a recruitment pipeline fo
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 73
 author: "robert-quinn"
-last_updated: 2012-04-10
+last_updated: 2026-05-13
 lang: en
 ---
 A boy of nine arrives in southern Punjab carrying a small cloth bundle. His father, a tenant farmer near Rahim Yar Khan, can no longer feed him. The seminary at the edge of the village offers free room, free food, and free education in the Quran. The boy enters at age nine. He emerges fifteen years later as a foot soldier in Lashkar-e-Taiba. The path between those two moments is what Pakistani counter-terror officials, Indian intelligence assessments, and Western academic studies have come to call the madrassa-to-militant pipeline. It is not a metaphor. It is a deliberately constructed conveyor that takes in poverty and outputs ideologically committed fighters, and it is the single mechanism that allows Pakistan's terror organizations to regenerate their ranks faster than the shadow war can eliminate them.

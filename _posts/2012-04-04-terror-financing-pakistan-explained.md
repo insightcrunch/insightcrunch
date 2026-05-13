@@ -9,7 +9,7 @@ excerpt: "How Pakistan-based terror groups fund operations through charitable fr
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2012-04-04
+last_updated: 2026-05-13
 lang: en
 ---
 Pakistan's terror financing system is not a shadow economy operating in the cracks between legitimate institutions. It is the formal economy repurposed, charity donations routed through registered foundations, real estate investments managed by front companies, agricultural land titled to madrassa trusts, and government pension payments disbursed to UN-designated terrorists. The system functions because it never needed to hide. It embedded itself within Pakistan's legitimate financial architecture so thoroughly that separating terrorist money from civilian money requires dismantling the architecture itself, a task no Pakistani government has undertaken with genuine intent and no international body has possessed the enforcement authority to compel.

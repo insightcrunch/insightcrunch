@@ -9,7 +9,7 @@ excerpt: "A definitive guide to Operation Sindoor, covering precision strikes on
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2012-07-05
+last_updated: 2026-05-13
 lang: en
 ---
 Twenty-three minutes separated one strategic era from another. On the intervening night of May 6 and 7, 2025, the Indian Armed Forces launched precision missile strikes against nine sites inside Pakistan and Pakistan-administered Kashmir, targeting what New Delhi described as terrorist infrastructure belonging to Jaish-e-Mohammed and Lashkar-e-Taiba. The strikes, codenamed Operation Sindoor, began at approximately 1:05 a.m. Indian Standard Time and concluded by 1:28 a.m., marking the first time since the 1971 war that India had struck across the settled international boundary with Pakistan. What followed was an 88-hour air conflict between two nuclear-armed states, a retaliatory Pakistani campaign codenamed Operation Bunyan-un-Marsoos, an aerial engagement involving more than a hundred fighter aircraft on both sides, and a fragile ceasefire brokered through the Director General of Military Operations hotline on May 10. Every assumption that had governed South Asian deterrence for half a century buckled under the weight of those four days.

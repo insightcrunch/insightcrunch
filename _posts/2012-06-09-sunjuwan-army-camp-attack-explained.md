@@ -9,7 +9,7 @@ excerpt: "The February 2018 Sunjuwan Army camp attack that killed seven people, 
 image: "/assets/images/blog/blog-21.webp"
 reading_time: 78
 author: "ryan-walsh"
-last_updated: 2012-06-09
+last_updated: 2026-05-13
 lang: en
 ---
 The fence at Sunjuwan was breached in the dark, and the people who breached it did not walk toward the armoury or the operations room or the watchtower. They walked toward the family quarters. That single directional choice, the choice to turn left rather than right after entering an Indian Army cantonment in the small hours of 10 February 2018, is the entire moral shape of what happened next. Seven people died at Sunjuwan over the next thirty-six hours. One of them was a four-year-old child. The fidayeen who carried this out were Lashkar-e-Taiba cadres, and the man who planned and dispatched them, a former Hizbul Mujahideen field commander turned LeT-aligned launch handler named Khwaja Shahid alias Mian Mujahid, would walk free across the Line of Control and live for another five years in Pakistan-occupied Kashmir before his decapitated body turned up in a roadside drainage culvert near Naseerabad in October 2023. The five years between the breach and the body are the period this article reconstructs.

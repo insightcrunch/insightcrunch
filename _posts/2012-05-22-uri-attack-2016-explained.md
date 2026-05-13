@@ -9,7 +9,7 @@ excerpt: "The Uri Army camp pre-dawn assault that killed 19 Indian soldiers and 
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 71
 author: "rahul-banerjee"
-last_updated: 2012-05-22
+last_updated: 2026-05-13
 lang: en
 ---
 The pre-dawn hours of September 18, 2016, brought four Jaish-e-Mohammed fighters through the rear perimeter of an Indian Army administrative base in Kashmir's Baramulla district, where the men of the 6 Bihar and 10 Dogra battalions were sleeping in transit tents during a unit rotation. Within twenty minutes, nineteen of those soldiers were dead, mostly in their sleeping bags, and four more would later die from burn injuries that turned the engagement into the deadliest single-day loss for the Indian Army on the Line of Control in two decades. Eleven days later, on the night of September 28-29, Indian Special Forces crossed the Line of Control in an acknowledged operation, struck terrorist launch pads inside Pakistan-administered Kashmir, and returned. The two events, the camp assault and the cross-border response, fused into a single hinge moment that ended one era of Indian counter-terror policy and inaugurated another.

@@ -9,7 +9,7 @@ excerpt: "How Indian special forces crossed the Line of Control after the Uri at
 image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
 author: "nandini-sen"
-last_updated: 2012-07-21
+last_updated: 2026-05-13
 lang: en
 ---
 On September 29, 2016, Indian Army Para Special Forces crossed the Line of Control under cover of darkness, struck terrorist launch pads inside Pakistan-occupied Kashmir, and returned before dawn. The operation lasted roughly four hours. Measured by physical destruction, it was modest: a handful of makeshift camps destroyed, an estimated thirty-five to forty casualties reported among militants and their Pakistani military backers, and no confirmed Indian fatalities. Measured by what it represented, however, the operation was the most significant shift in India's military posture since the 1971 war with Pakistan. For decades, India had absorbed cross-border terrorist provocations, responded with diplomatic protests, and waited for the next attack. On that September night, eleven days after [nineteen Indian soldiers were killed at Uri](https://insightcrunch.com/2012/05/22/uri-attack-2016-explained/), a new doctrine replaced the old one. India would no longer absorb. India would strike back.
