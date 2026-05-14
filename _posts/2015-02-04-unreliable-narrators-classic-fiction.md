@@ -4,20 +4,20 @@ title: "Unreliable Narrators in Classic Fiction"
 page_title: "The Greatest Unreliable Narrators in Classic Fiction - Nick Carraway, Holden Caulfield, Marlow, and Why We Cannot Trust the People Telling the Story"
 date: 2015-02-04
 last_updated: 2015-02-04
-author: "Insight Crunch Team"
+author: "megan-clark"
 excerpt: "Classic fiction's greatest unreliable narrators compared - why we trust them, why we should not, and what their distortions reveal about reading itself."
 slug: "unreliable-narrators-classic-fiction"
 categories: ["Leisure"]
 tags: ["unreliable-narrator", "literary-comparison", "nick-carraway", "holden-caulfield", "marlow", "literary-analysis"]
 reading_time: 70
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-68.webp"
+lang: en
 ---
-
 The compromised narrator is not a trick. It is a formal device that transforms reading from passive reception into active analytical labor, requiring every attentive person to reconstruct what actually happened against the version the narrator provides. Wayne Booth coined the term in The Rhetoric of Fiction in 1961, and the concept has since become one of the most widely deployed labels in literary criticism, applied to narrators from Nick Carraway to Holden Caulfield to Humbert Humbert with a looseness that would have alarmed Booth himself. The label's popularity has obscured its precision. Calling a narrator "untrustworthy" tells us almost nothing unless we specify the type of distortion operating, the mechanisms through which distortion enters the account, and the particular hermeneutic demands each narrator places on the audience. A comparative analysis across six canonical compromised narrators reveals that narrative compromise is not a single condition but a typology, and the typology is itself the subject that literary criticism has been slow to develop.
 
 <!--more-->
 
-![Unreliable Narrators in Classic Fiction - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Unreliable Narrators in Classic Fiction - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 This article advances a five-category framework for analyzing untrustworthy storytelling and applies it systematically across six narrators whose combined careers span from Edgar Allan Poe's nameless madman in 1843 through Kazuo Ishiguro's repressed English butler in 1989. The six cases are the narrator of "The Tell-Tale Heart," Nick Carraway in The Great Gatsby, Holden Caulfield in The Catcher in the Rye, Marlow in Heart of Darkness, Humbert Humbert in Lolita, and Stevens in The Remains of the Day. Each narrator combines the five unreliability categories in distinct proportions, and the specific combination is what makes each narrator's compromised perspective formally interesting rather than generically applicable. The claim this article defends is direct: untrustworthy storytelling is not a literary trick deployed for surprise or suspense, but a formal device that makes reading itself into analytical labor by requiring readers to perform ongoing assessment of the narrator's account against the textual evidence the narrator inadvertently provides.
 

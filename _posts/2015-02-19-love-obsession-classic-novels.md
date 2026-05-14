@@ -6,17 +6,17 @@ date: 2015-02-19
 categories: ["Leisure"]
 tags: ["love", "obsession", "literary-comparison", "classic-literature", "jay-gatsby", "heathcliff", "literary-analysis"]
 excerpt: "Classic literature's great lovers are often obsessives. The novels distinguish love from obsession through structural markers, not through declarations."
-image: "/assets/images/blog/blog-14.webp"
-author: "Insight Crunch Team"
+image: "/assets/images/blog/blog-20.webp"
+author: "olivia-grant"
 reading_time: 70
 last_updated: 2015-02-19
+lang: en
 ---
-
 Love and obsession are not the same thing, but classic literature's most celebrated romantic figures blur the boundary so thoroughly that readers routinely mistake one for the other. Jay Gatsby buys a mansion across a bay so he can watch a green light on a dock belonging to a woman he knew for five weeks. Heathcliff dismantles two families across two generations because a woman he loved as a child married someone else. Humbert Humbert constructs an elaborate prose monument to a twelve-year-old girl whose actual suffering his beautiful sentences work to conceal. These are not love stories in any meaningful sense, yet they are persistently taught and read as though passionate intensity were its own justification. The structural markers that distinguish love from obsession in these novels are specific, recoverable, and consistently deployed, and the failure to read them produces a sentimentalized literary tradition that flatters predators and punishes the people they pursue.
 
 <!--more-->
 
-![Love and Obsession in Classic Novels](/assets/images/blog/blog-14.webp)
+![Love and Obsession in Classic Novels](/assets/images/blog/blog-20.webp)
 
 Four structural markers separate love from obsession across the novels examined here. First, reciprocity-orientation: love seeks mutual recognition, while obsession projects a fantasy onto an unwilling or unknowing target. Second, beloved-as-subject: love recognizes the beloved as a person with independent existence, while obsession constructs the beloved as a figure in the lover's private mythology. Third, growth-orientation: love develops through conflict and mutual transformation, while obsession repeats the same pattern without change. Fourth, response to resistance: love accepts the beloved's autonomy even when that autonomy produces rejection, while obsession escalates in the face of refusal. Applying these four markers to six couples across six novels - Gatsby and Daisy in The Great Gatsby, Heathcliff and Catherine in Wuthering Heights, Rochester and Jane in Jane Eyre, Humbert and Dolores in Lolita, Romeo and Juliet in Shakespeare's tragedy, and Darcy and Elizabeth in Pride and Prejudice - produces a typology that reveals what the novels themselves already knew: love and obsession are distinguishable by structure, not by the beauty of the declaration.
 

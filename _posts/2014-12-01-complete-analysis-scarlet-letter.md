@@ -6,17 +6,17 @@ date: 2014-12-01
 categories: ["Leisure"]
 tags: ["the-scarlet-letter", "nathaniel-hawthorne", "novel-analysis", "literary-analysis", "puritan", "classic-literature"]
 excerpt: "The Scarlet Letter is not a tragic romance. It is Hawthorne's 1850 political argument about how theocratic communities police sin and destroy themselves."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sarah-mitchell"
 last_updated: 2014-12-01
+lang: en
 ---
-
 The Scarlet Letter is not a tragic love story. It is a civic critique of theocratic power, written by a man who had just been fired from his government job by the descendants of the very Puritans his ancestors had served as judges and magistrates. Nathaniel Hawthorne published the work in 1850, and its deepest concern is not Hester Prynne's suffering, not Arthur Dimmesdale's guilt, and not Roger Chillingworth's revenge. Its deepest concern is the specific mechanism by which a theocratic community manufactures its own dominion, polices deviance, absorbs the cost of its own hypocrisy, and ultimately collapses when the hidden contradictions it cannot process erupt through its own legitimating mechanism. The romance between Hester and Dimmesdale is the surface. The civic-theological contention is the structure. Every major narrative decision Hawthorne makes in the prose, from the opening prison-door to Pearl's symbolic function to the election-day sermon to the final scaffold revelation, serves that structural thesis. Sacvan Bercovitch, Nina Baym, and Michael J. Colacurcio have each demonstrated this in landmark scholarship, and the article that follows applies their work to recover the interpretation that classroom tradition has buried under a century of wrongdoing-and-redemption paraphrase.
 
 <!--more-->
 
-![Complete Analysis of The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Complete Analysis of The Scarlet Letter - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The standard classroom treatment of The Scarlet Letter runs roughly as follows. Hester Prynne commits adultery with Reverend Arthur Dimmesdale in the Puritan colony of Massachusetts Bay. She is publicly shamed, forced to wear a scarlet letter A on her bodice, and sentenced to stand on the scaffold before the colony. Dimmesdale hides his role. Roger Chillingworth, Hester's estranged husband, arrives in disguise and torments Dimmesdale psychologically across seven years. Dimmesdale finally confesses on the scaffold and dies. Hester endures, returns to New England voluntarily after a period abroad, and lives out her final years as a counselor to women seeking guidance. The standard treatment then catalogs the book's symbols (the scarlet letter itself, Pearl, the rosebush, the meteor, the forest, the brook) and its themes (iniquity, guilt, redemption, hypocrisy, identity) and presents the whole as a psychological romance about the wages of wrongdoing in a harsh religious settlement.
 

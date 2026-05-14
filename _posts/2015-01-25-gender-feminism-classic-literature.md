@@ -6,17 +6,17 @@ date: 2015-01-25
 categories: ["Leisure"]
 tags: ["feminism", "gender", "literary-comparison", "classic-literature", "elizabeth-bennet", "jane-eyre", "hester-prynne"]
 excerpt: "Calling classic heroines proto-feminist flattens what each actually negotiated. Bennet, Eyre, Prynne, Dalloway, and Offred fought very different systems."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2015-01-25
+lang: en
 ---
-
 Elizabeth Bennet refuses two marriage proposals in an era when refusal could mean destitution. Jane Eyre walks away from the man she loves rather than accept a position that compromises her moral standing. Hester Prynne stands on a scaffold in Puritan Boston, holding the child whose existence marks her as an adulteress, and refuses to name the father. Jo March turns down a wealthy suitor because she does not love him and would rather write than marry. Isabel Archer inherits a fortune and chooses a husband who turns out to be a prison. Clarissa Dalloway spends a single day in post-war London remembering the woman she might have loved and the man she chose instead. Offred, stripped of her name, her daughter, her bank account, and her bodily autonomy, survives a theocratic regime by recording her story in secret. These seven women span two centuries of English-language fiction, and the instinct to call all of them "feminist" or "proto-feminist" is understandable. It is also analytically insufficient. Each heroine operated within constraints so different from the others that the label "feminist" without further specification tells us almost nothing about what she actually did, what she risked, or what her author was arguing.
 
 <!--more-->
 
-![Gender and Feminism in Classic Literature - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Gender and Feminism in Classic Literature - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The better question is not whether these heroines are feminist but what specific gender-regime each one navigates, what negotiations each one performs within her particular system of constraints, what political position each author held relative to the organized feminist movements of their own period, and how subsequent generations of feminist critics have read and re-read each figure. Sandra Gilbert and Susan Gubar's landmark study of nineteenth-century women's writing established that female characters in male-authored and female-authored texts operate within fundamentally different imaginative economies. Nancy Armstrong's research into the domestic novel demonstrated that the very category of "the feminine" was constructed through fiction as much as through law. Elaine Showalter's recovery of a female literary tradition showed that women writers developed distinct strategies for encoding resistance within acceptable forms. Virginia Woolf's argument that a woman needs money and a room of her own to write fiction remains the most elegant formulation of the material conditions that produce or suppress female creativity. Judith Butler's rethinking of gender as performance rather than essence reshaped how we read every heroine on this list. These scholars do not agree with one another on every point, and their disagreements are where the real analytical content lies. What follows is a comparative analysis that takes their work seriously and applies it to seven heroines whose differences matter more than their similarities.
 

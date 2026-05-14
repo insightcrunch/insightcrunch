@@ -6,17 +6,17 @@ date: 2014-12-21
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "kurtz", "character-analysis", "literary-analysis", "colonialism"]
 excerpt: "Kurtz is not a symbol of universal human darkness. He is a specific colonial-agent type that Joseph Conrad observed firsthand in Leopold's Congo system."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2014-12-21
+lang: en
 ---
-
 Kurtz is the most discussed character in Joseph Conrad's Heart of Darkness, and the discussion almost always gets him wrong. Standard classroom readings treat Kurtz as a symbol of the darkness lurking inside every civilized person, a universal figure whose descent into savagery proves that civilization is a thin veneer over primal instincts. Such readings flatter the Western reader by turning atrocity into philosophical parable, transforming a specific historical horror into a generalized meditation on human nature. Conrad knew better. He had traveled to the Congo Free State in 1890 and witnessed firsthand the specific type of European agent who thrived under Leopold II's extractive regime. Kurtz is not Everyman stripped of social restraint. He is a particular product of a particular system, and the novella's power depends on understanding exactly what kind of system produced exactly what kind of man.
 
 <!--more-->
 
-![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Kurtz Character Analysis in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 What this article argues is that Kurtz must be read through both psychological and historical-materialist lenses simultaneously. His psychology matters because the novella insists on his individual brilliance, his specific talents, his particular charisma. His historical context matters because those talents operated within an incentive structure that rewarded ivory extraction without ethical constraint. Neither a purely psychological reading (Kurtz as case study in madness) nor a purely structural reading (Kurtz as interchangeable cog in imperial machinery) captures what Conrad constructed. A [complete analysis of Heart of Darkness](https://insightcrunch.com/2014/12/16/complete-analysis-heart-of-darkness/) establishes the novella's broader architecture; this article focuses on the character who stands at its center and asks what the novella knows about him that most readers miss.
 

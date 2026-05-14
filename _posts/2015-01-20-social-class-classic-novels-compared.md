@@ -6,17 +6,17 @@ date: 2015-01-20
 categories: ["Leisure"]
 tags: ["social-class", "literary-comparison", "classic-literature", "jane-austen", "charles-dickens", "literary-analysis"]
 excerpt: "Classic novels do not merely portray class but theorize it. Austen, Dickens, Fitzgerald, and Steinbeck build four competing analytical frames for one question."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2015-01-20
+lang: en
 ---
-
 The question is not whether classic novels portray social class. Every novel written before the twentieth century takes class for granted as the organizing principle of its fictional world, and most novels written after it do the same, whether or not they acknowledge that organization explicitly. The real question is how specific novelists theorize class differently, and what those differences reveal about the economic systems each novelist inhabited. Jane Austen, Charles Dickens, F. Scott Fitzgerald, and John Steinbeck all wrote novels saturated with class awareness. Their analytical frames, however, are so distinct that treating them as variations on a single theme flatters the reader with false comprehension. Austen theorizes class as a marriage-market currency whose value is set by entailment law and annual income. Dickens theorizes class as industrial social machinery that grinds individuals into categories of suffering. Fitzgerald theorizes class as a specifically American deception in which new money performs visibility and old money performs invisibility. Steinbeck theorizes class as a structural antagonism between labor and capital that can only be resolved through collective action. Comparing across these four frames is not a thematic exercise. It is an analytical one, and the analytical differences constitute the content.
 
 <!--more-->
 
-![Social Class in Classic Novels Compared](/assets/images/blog/blog-08.webp)
+![Social Class in Classic Novels Compared](/assets/images/blog/blog-64.webp)
 
 Raymond Williams, in The English Novel from Dickens to Lawrence, argued that the English novel's deepest subject has always been what he called the knowable community, the social world small enough to be grasped by a single consciousness yet large enough to stand for the pressures of the whole society. Williams was right about English fiction, but his frame needs expansion when American fiction enters the comparison. Lionel Trilling, in The Liberal Imagination, identified a different function for the American novel: the testing of ideology against lived experience, with class operating as the primary terrain where ideology fails. Franco Moretti's The Bourgeois extended the frame further, arguing that the European novel's formal structures, its marriage plots, its inheritance revelations, its endings in financial settlement, are themselves class arguments, whether the novelist intended them as such or not. These three scholars provide the critical foundation for a comparative analysis that identifies frames rather than aggregating observations. The four novelists examined here do not merely portray class. They construct specific analytical instruments for understanding it, and those instruments differ in ways that the standard classroom comparison, which reduces all four to the same vague theme of inequality, systematically misses.
 

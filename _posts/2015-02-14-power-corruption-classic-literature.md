@@ -8,10 +8,10 @@ tags: ["power", "corruption", "literary-comparison", "classic-literature", "anim
 excerpt: "Power corrupts, but the mechanism differs across novels. The great power-and-corruption novels propose specific theories of how power works on the holder."
 image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "olivia-grant"
 last_updated: 2015-02-14
+lang: en
 ---
-
 Classic literature's treatment of power and corruption is typically compressed into Lord Acton's famous observation that power tends to corrupt and absolute power corrupts absolutely. The compression is convenient and nearly universal, appearing in student essays, classroom lectures, and online study guides as though one axiom could substitute for centuries of literary argument. It cannot. The great novels and plays that examine how authority warps those who hold it propose radically different theories of the mechanism, and the differences between those theories are precisely what matters. George Orwell's Animal Farm theorizes corruption as gradual ideological reinterpretation. His 1984 theorizes it as systematic reality-control where power itself becomes the objective. William Golding's Lord of the Flies theorizes it as civilizational regression when civilizational constraints vanish. Joseph Conrad's Heart of Darkness theorizes it as colonial-context moral erosion operating on a specific personality type. Shakespeare's Macbeth theorizes it as a psychological cascade triggered by ambition and sustained by consequent violence. Niccolo Machiavelli's The Prince, the foundational governance text rarely placed alongside these novels despite its analytical centrality, theorizes it as contextual-ethics requiring moral departures for effective governance. Six texts, six mechanisms, six distinct arguments about what power does to the human being who possesses it.
 
 <!--more-->

@@ -6,17 +6,17 @@ date: 2015-01-30
 categories: ["Leisure"]
 tags: ["nature-vs-nurture", "literary-comparison", "frankenstein", "lord-of-the-flies", "wuthering-heights", "literary-analysis"]
 excerpt: "Classic novels test the nature-versus-nurture question as thought experiment. The answers they give are not uniform; the variation is the analytical content."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2015-01-30
+lang: en
 ---
-
 Classic novels do not agree about nature versus nurture. The disagreement is the point. Five of the most celebrated works in the English-language canon construct five distinct thought experiments testing whether human beings are born with fixed moral capacities or whether environment, upbringing, and environmental response shape what people become, and the five experiments yield five different answers. Mary Shelley's Frankenstein argues that monstrousness is made, not born. Emily Bronte's Wuthering Heights refuses to answer at all. William Golding's Lord of the Flies proposes that civilization is a veneer over something darker but complicates the claim through individual variation. Aldous Huxley's Brave New World demonstrates that conditioning can manufacture entire personalities from identical raw material. Mark Twain's Adventures of Huckleberry Finn shows a boy whose moral development actively resists the conditioning his society imposed on him. Taken together, these novels offer something richer than a single verdict on human nature. They offer a comparative anatomy of the question itself, revealing that the assumptions embedded in each author's thought experiment predetermine the answer the novel can reach.
 
 <!--more-->
 
-![Nature vs Nurture in Classic Fiction - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Nature vs Nurture in Classic Fiction - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The standard classroom treatment of nature versus nurture in literature tends to flatten these differences. Students learn that Frankenstein explores the theme, that Lord of the Flies explores the theme, that Wuthering Heights explores the theme, and the explorations are treated as roughly interchangeable. The analytical content disappears. What a comparative reading recovers is that each work constructs a different kind of test, controls for different variables, and reaches a conclusion shaped by the particular conditions the author chose to impose. Shelley isolates a being from all connection and watches what happens. Golding removes adult civilization from a group of children and watches what happens. Huxley engineers every dimension of existence from conception onward and watches what happens. Bronte deliberately withholds the information that would allow the reader to decide. Twain places a child inside a corrupt system and watches whether the child's instinct can overcome what he has been taught. The variation across these experiments is not a failure of the tradition to reach consensus. The variation is the tradition's most valuable analytical contribution, because it reveals what different starting assumptions produce and what each construction leaves out.
 

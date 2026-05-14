@@ -6,17 +6,17 @@ date: 2015-02-09
 categories: ["Leisure"]
 tags: ["isolation", "loneliness", "literary-comparison", "classic-literature", "frankenstein", "catcher-in-the-rye"]
 excerpt: "Classic literature's great isolated figures are not lonely in the same way. Isolation varies by cause, by duration, and by what it finally does to the self."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2015-02-09
+lang: en
 ---
-
 Isolation is one of the most frequently invoked themes in classic literature, and one of the least carefully analyzed. Critics routinely group Frankenstein's Creature, Holden Caulfield, Kurtz, Hester Prynne, Robinson Crusoe, and the unnamed protagonist of Ralph Ellison's Invisible Man under a single heading and treat their separateness as though it were a single condition with a single meaning. That grouping is lazy, and it obscures what the texts actually show. Each of these characters occupies a distinct variety of isolation, produced by a different cause, sustained for a different duration, and generating a different effect on the self. What matters analytically is not that isolation appears across classic fiction but that it appears in structurally different forms whose differences tell us something precise about what each novel thinks the relationship between self and society actually is.
 
 <!--more-->
 
-![Isolation in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Isolation in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 A six-character comparison across Shelley, Salinger, Conrad, Hawthorne, Defoe, and Ellison demonstrates that the varieties of isolation are systematic rather than incidental, and that the specific combination of cause, duration, and effect in each novel constitutes an argument about what human beings require from one another and what happens when that requirement is denied. Philosopher Philip Koch's distinction between solitude as chosen withdrawal and loneliness as unchosen separation provides one axis. Literary scholar Patricia Meyer Spacks's work on privacy and the self provides another. Hannah Arendt's analysis of the conditions under which human beings are reduced to superfluity provides a third, particularly relevant to Ellison's narrator and to the Creature. But the texts themselves supply the primary evidence, and the evidence shows that treating isolation as a single literary theme is like treating color as a single color. What we need is the spectrum.
 
