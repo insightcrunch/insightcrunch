@@ -6,17 +6,17 @@ date: 2012-10-19
 categories: ["Industry"]
 tags: ["us-mediation", "india-pakistan", "trump", "ceasefire", "2025", "diplomacy"]
 excerpt: "How the United States claimed to broker the 2025 ceasefire between two nuclear-armed nations, why Trump took credit, and why New Delhi rejected mediation."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2012-10-19
+lang: en
 ---
-
 On the morning of May 10, 2025, while the Directors General of Military Operations of India and Pakistan were still communicating through a bilateral hotline established decades earlier, Donald Trump posted on Truth Social that he had brokered peace between two nuclear-armed nations. The post arrived before either government had formally announced a ceasefire. It arrived before the terms were finalized. It arrived, in the assessment of senior Indian officials, with the diplomatic subtlety of a freight train crashing through a china shop. Within thirty minutes, Foreign Secretary Vikram Misri held a special briefing that made no mention of the United States, declaring that the ceasefire had been worked out directly between India and Pakistan through existing military channels. Pakistan's Prime Minister Shehbaz Sharif, by contrast, rushed to thank Trump for his "leadership and proactive role." Two nuclear powers had stopped shooting at each other, and the first diplomatic battle of the post-ceasefire era was already about who deserved the credit.
 
 <!--more-->
 
-![US Role in India-Pakistan Mediation 2025 - Insight Crunch](/assets/images/blog/blog-04.webp)
+![US Role in India-Pakistan Mediation 2025 - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 That divergence was not an accident of timing or a minor protocol disagreement. It reflected a fault line in South Asian geopolitics that has persisted for more than half a century: New Delhi's categorical rejection of third-party involvement in its disputes with Pakistan, and Washington's recurring inability to resist inserting itself into crises between the subcontinent's two nuclear-armed rivals. The 2025 ceasefire episode was merely the latest chapter in a pattern that stretches from Bill Clinton's July Fourth summit with Nawaz Sharif during the Kargil conflict in 1999, through Colin Powell and Richard Armitage's shuttle diplomacy during the Parliament attack standoff of 2001-2002, past the careful American pressure following the 26/11 Mumbai massacre in 2008, and into the post-Pulwama phone calls of 2019. Each crisis produced the same choreography: an American president claiming a peacemaking role, an Indian government insisting the resolution was bilateral, and Pakistan eagerly acknowledging Washington's involvement to internationalize its disputes with New Delhi.
 

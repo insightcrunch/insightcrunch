@@ -6,17 +6,17 @@ date: 2017-06-26
 categories: ["Industry"]
 tags: ["dhurandhar-style", "killings", "terminology", "bollywood", "media", "counter-terrorism"]
 excerpt: "How the phrase Dhurandhar-style killing migrated from film reviews to Indian news desks to political rallies, reshaping how a nation discusses state violence."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 74
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-06-26
+lang: en
 ---
-
 When an unknown gunman on a motorcycle pulls alongside a car in Karachi or Lahore, fires three rounds into the driver, and vanishes into afternoon traffic, Indian television anchors do not reach for the terminology of security studies or international law. They do not call it a targeted killing, an extrajudicial execution, or a covert intelligence operation. They call it a Dhurandhar-style killing. A Bollywood film released in December 2025, directed by Aditya Dhar and starring Ranveer Singh as an undercover Indian operative navigating Karachi's criminal underworld, has given an entire nation the words it uses to describe classified state violence on foreign soil. The phrase is not a metaphor. It is not a comparison. It has become the primary interpretive framework through which Indian citizens, Indian journalists, and Indian politicians process a covert campaign that nobody in government has ever officially acknowledged.
 
 <!--more-->
 
-![What Dhurandhar Style Killings Mean - Insight Crunch](/assets/images/blog/blog-09.webp)
+![What Dhurandhar Style Killings Mean - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The significance of this terminological migration cannot be overstated. Covert operations conducted by intelligence agencies operate in a space where official language is deliberately absent. India's Research and Analysis Wing has never confirmed or denied the targeted killings of designated terrorists on Pakistani soil. The Indian Ministry of External Affairs has dismissed Pakistani allegations of Indian involvement as "false and malicious anti-India propaganda." In the absence of official language, the public needed a language to describe what everyone could see happening but nobody would formally name. Aditya Dhar's film, which grossed over 1,300 crore rupees worldwide in its first run alone, did not just entertain 200 million viewers. It handed them a shared language. The consequences of that vocabulary extend far beyond cinema.
 

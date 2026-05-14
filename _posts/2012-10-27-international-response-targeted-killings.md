@@ -6,17 +6,17 @@ date: 2012-10-27
 categories: ["Industry"]
 tags: ["international-response", "targeted-killings", "us", "canada", "uk", "india", "allegations"]
 excerpt: "How the US, Canada, UK, and global community responded to allegations of India's targeted killings, and why selective silence reveals strategic calculus."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2012-10-27
+lang: en
 ---
-
 When The Guardian published its April 2024 investigation alleging that India's government had been carrying out targeted assassinations of suspected terrorists inside Pakistan, the story landed in a geopolitical environment already primed for discomfort. Canada had accused New Delhi of orchestrating the killing of Sikh separatist leader Hardeep Singh Nijjar on Canadian soil months earlier. The United States Department of Justice had unsealed an indictment naming an Indian national in a foiled plot to assassinate another Sikh activist in New York. Pakistan's Foreign Secretary Muhammad Syrus Sajjad Qazi had held a press conference in January 2024 claiming credible evidence of Indian involvement in assassinations on Pakistani territory. The allegations were no longer whispers from Islamabad. They were front-page accusations from Five Eyes capitals, backed by federal indictments and parliamentary statements. And yet, the international response that followed was neither uniform nor proportionate. It was, instead, a masterclass in selective attention, calibrated silence, and strategic calculus disguised as diplomatic prudence.
 
 <!--more-->
 
-![International Response to India's Targeted Killings - Insight Crunch](/assets/images/blog/blog-05.webp)
+![International Response to India's Targeted Killings - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 This pattern of differentiated response is the subject of the analysis that follows. Mapping how each major country and multilateral body reacted to allegations of Indian extraterritorial operations reveals less about the allegations themselves and more about the architecture of contemporary geopolitics. Canada condemned loudly. Washington expressed concern through legal channels while preserving the broader partnership. London offered careful diplomatic language. Brussels stayed largely quiet. Tokyo said nothing. Canberra acknowledged the issue existed. Jerusalem endorsed India's right to self-defense without qualification. Beijing and Moscow issued statements calibrated to their own strategic interests. Each response was shaped not by a universal standard of sovereignty and international law but by the responding country's specific relationship with New Delhi, its own history of extraterritorial operations, and its assessment of whether the targets' status as designated terrorists created a moral exception.
 

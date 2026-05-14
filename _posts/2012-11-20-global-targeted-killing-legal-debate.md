@@ -6,17 +6,17 @@ date: 2012-11-20
 categories: ["Industry"]
 tags: ["targeted-killings", "international-law", "sovereignty", "self-defense", "legal-debate"]
 excerpt: "The global legal debate on targeted killings and why international law remains deliberately ambiguous on whether states may kill abroad with impunity."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2012-11-20
+lang: en
 ---
-
 International law on targeted killing is not settled. It is contested. The same act, killing a designated terrorist on foreign soil, is simultaneously justified under the self-defense doctrine enshrined in Article 51 of the United Nations Charter, prohibited under the sovereignty provisions of Article 2(4), and conditionally permitted under international humanitarian law if the target qualifies as a direct participant in hostilities. Five countries currently operate or have recently operated programs that depend on this legal ambiguity: Israel, the United States, Russia, India, and the United Kingdom through its intelligence-sharing complicity. Each country has constructed a different legal architecture, or deliberately refused to construct one, around the same fundamental act. None of them has resolved the ambiguity. Every one of them exploits it.
 
 <!--more-->
 
-![Global Targeted Killing Legal Debate - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Global Targeted Killing Legal Debate - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The question at the center of this analysis is not whether targeted killing is moral. Morality is a separate inquiry, and the participants in this debate have drawn their moral conclusions independently of the legal framework. The question is whether international law, as it currently exists, permits, prohibits, or deliberately avoids clarity on a practice that at least five major states conduct regularly. Philip Alston, the former United Nations Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions, submitted a report to the Human Rights Council in May 2010 that defined the problem precisely: targeted killing is the intentional, premeditated, and deliberate use of lethal force by a state or its agents against a specific individual who is not in the perpetrator's custody. That definition encompasses drone strikes in Pakistan's tribal areas, motorcycle assassinations in Karachi, Novichok poisoning in Salisbury, and consular dismemberment in Istanbul. The law that governs all of them is the same body of international law. The interpretations could not be more different.
 

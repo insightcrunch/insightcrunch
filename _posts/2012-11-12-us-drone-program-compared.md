@@ -6,17 +6,17 @@ date: 2012-11-12
 categories: ["Industry"]
 tags: ["us-drone-program", "india", "shadow-war", "comparison", "counter-terrorism", "targeted-killings"]
 excerpt: "A systematic comparison of America's drone campaign and India's shadow war in Pakistan, analyzing what each counter-terrorism method achieved and why."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2012-11-12
+lang: en
 ---
-
 Between 2004 and 2018, the United States flew MQ-1 Predator and MQ-9 Reaper drones over Pakistan's Federally Administered Tribal Areas, launching over 430 strikes that killed between 2,366 and 3,702 people by the Bureau of Investigative Journalism's count. Thousands of miles away, operators at Creech Air Force Base in Nevada watched grainy infrared feeds, confirmed targets through chain-of-command protocols, and pressed buttons that released Hellfire missiles onto compounds in North and South Waziristan. Beginning around 2021, a different campaign emerged on Pakistani soil. Unidentified gunmen riding motorcycles through the crowded streets of Karachi, Lahore, and Rawalpindi began shooting designated militants at close range, often during prayer time, often within meters of their target, and disappearing into traffic within seconds. The two campaigns share a common theater and a common objective, but almost nothing else.
 
 <!--more-->
 
-![US Drone Program vs India Shadow War Comparison - Insight Crunch](/assets/images/blog/blog-07.webp)
+![US Drone Program vs India Shadow War Comparison - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This article poses a question that no competitor publication has systematically addressed: when two countries set out to kill the same category of target, on the same soil, in the same decade, but choose radically opposite methods, what do their choices reveal about their strategic doctrines, their political constraints, and the effectiveness of state violence itself? The answer requires moving beyond the surface comparison and examining both campaigns across seven analytical dimensions where the differences are not merely tactical but philosophical. Washington chose altitude, technology, and semi-acknowledged lethality. New Delhi allegedly chose proximity, human operatives, and total deniability. The methodological gulf between a Hellfire missile fired from 15,000 feet and a 9mm pistol fired from two meters is not just a matter of weapons engineering. It reflects two fundamentally different theories about how states should use lethal force beyond their borders, what costs they are willing to absorb, and what accountability they owe to the world and to themselves. The [broader overview of India's campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) provides essential context for understanding the comparison that follows.
 

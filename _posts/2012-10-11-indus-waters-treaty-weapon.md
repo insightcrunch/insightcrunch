@@ -6,17 +6,17 @@ date: 2012-10-11
 categories: ["Industry"]
 tags: ["indus-waters-treaty", "india-pakistan", "water", "strategic-weapon", "2025", "escalation"]
 excerpt: "How India turned the sixty-five-year-old Indus Waters Treaty into a strategic weapon after the Pahalgam attack, and why Pakistan calls it an act of war."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2012-10-11
+lang: en
 ---
-
 On April 23, 2025, one day after gunmen killed twenty-six tourists at the Baisaran meadow near Pahalgam in Indian-administered Kashmir, India's government announced that it was placing the Indus Waters Treaty in abeyance. The decision, communicated without advance notice to Islamabad and without consultation with the World Bank that had brokered the original agreement in 1960, immediately halted all facets of bilateral water cooperation: data sharing on river flows, joint oversight through the Permanent Indus Commission, flood forecasting exchanges, and any form of institutional dialogue. Within eleven days, India lowered the sluice gates of the Baglihar Dam on the Chenab River in Ramban district, Jammu and Kashmir, reducing downstream flow to Pakistan's Punjab province from approximately 29,000 cusecs to 11,000 cusecs. By May 12, monitoring stations at Head Marala recorded flows as low as 3,100 cusecs. For the first time in sixty-five years, water had become a weapon in the India-Pakistan confrontation, and the resource that sustains eighty percent of Pakistan's cultivated farmland was no longer guaranteed by treaty.
 
 <!--more-->
 
-![Indus Waters Treaty as Strategic Weapon - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Indus Waters Treaty as Strategic Weapon - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The Indus Waters Treaty had survived four wars, two nuclear crises, the Kargil conflict, the 26/11 Mumbai siege, the Pulwama bombing, and the Balakot airstrikes. It had survived the 1965 war fought partly over Kashmir, the 1971 war that split Pakistan in two, and the Brasstacks crisis of 1987 that brought both nations to the brink of nuclear exchange. No Indian government, regardless of political orientation, had seriously contemplated suspending it. The treaty's resilience was not a product of goodwill; it reflected a pragmatic calculation that water disputes between nuclear-armed neighbors carried escalation risks that transcended any single crisis. That calculation held for sixty-five years. The [Pahalgam attack](https://insightcrunch.com/2012/08/06/pahalgam-attack-complete-guide/) shattered it in twenty-four hours.
 

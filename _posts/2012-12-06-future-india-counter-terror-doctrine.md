@@ -6,17 +6,17 @@ date: 2012-12-06
 categories: ["Industry"]
 tags: ["counter-terror", "doctrine", "india", "future", "shadow-war", "sindoor", "strategic-analysis"]
 excerpt: "After the shadow war and Operation Sindoor, what comes next for India's counter-terror doctrine, its evolving military posture, and regional stability."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2012-12-06
+lang: en
 ---
-
 India's approach to cross-border terrorism has undergone a transformation so complete that the country's own strategic establishment struggles to define what it has become. Four distinct responses to four distinct provocations have produced something unprecedented in the annals of counter-terrorism: a permanent repertoire of escalation options ranging from covert assassination to conventional missile strikes, all available simultaneously, all proven in operational use, and all now embedded in institutional memory. The question confronting New Delhi, Islamabad, and every capital with a stake in South Asian stability is not what India will do after the next attack. The question is which combination of instruments India will deploy, because the current posture assumes that every tool in the kit is always on the table.
 
 <!--more-->
 
-![Future of India Counter-Terror Doctrine - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Future of India Counter-Terror Doctrine - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 This analysis projects India's counter-terror trajectory forward through three structured scenarios, each grounded in the doctrinal evolution that produced the current posture. Predicting future policy is inherently speculative, and unforeseen events ranging from leadership changes to economic crises to third-party interventions could invalidate any projection. What follows, therefore, is not prophecy but scenario analysis: a disciplined examination of where the logic of each doctrinal instrument leads if current trends continue, accelerate, or reverse. The argument is that India has built a multi-track counter-terror architecture that has no defined endpoint, no exit criteria, and no institutional mechanism for scaling back. Whether that architecture achieves its stated goals or produces permanent low-grade conflict depends on choices that neither New Delhi nor Islamabad has yet made, and on variables that neither side fully controls.
 
