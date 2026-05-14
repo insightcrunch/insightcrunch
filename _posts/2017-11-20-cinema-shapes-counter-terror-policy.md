@@ -6,17 +6,17 @@ date: 2017-11-20
 categories: ["Industry"]
 tags: ["cinema", "counter-terrorism", "policy", "bollywood", "public-opinion", "national-security"]
 excerpt: "Examining the feedback loop between Bollywood counter-terror films and India's security policy, revealing how cinema manufactured consent for covert war."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-11-20
+lang: en
 ---
-
 No Indian politician put the shadow war to a vote. No parliamentary committee debated whether intelligence operatives should be authorized to eliminate designated terrorists on foreign soil. No resolution was passed, no white paper published, no public hearing convened. The democratic mandate for covert killings was manufactured not in Parliament but in multiplexes, not through legislative debate but through box office receipts. Dhurandhar's opening weekend collected more votes for the shadow war than any election has ever counted, and the cinema-to-policy pipeline that carried those votes from ticket counters to strategic decision-making rooms is the subject this article traces from origin to consequence.
 
 <!--more-->
 
-![Cinema Shapes Counter-Terror Policy - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Cinema Shapes Counter-Terror Policy - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 ## The Film's Version
 

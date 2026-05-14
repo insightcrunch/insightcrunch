@@ -6,17 +6,17 @@ date: 2017-07-24
 categories: ["Industry"]
 tags: ["dhurandhar", "pakistan", "ban", "reaction", "bollywood", "censorship", "diplomacy"]
 excerpt: "Why Pakistan banned Dhurandhar, treated the Bollywood spy thriller as a diplomatic and national security threat, and what the fury revealed about accuracy."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-07-24
+lang: en
 ---
-
 Islamabad did not ban Aditya Dhar's blockbuster spy thriller because the production was offensive, provocative, or culturally insensitive. Authorities banned it because it was accurate. A fictional espionage narrative that bore no resemblance to reality would have been dismissible, another piece of Bollywood fantasy that audiences across the border could laugh off as Indian self-congratulation. A production that mapped so precisely onto real covert operations, real political figures, and real geographic locations that citizens in Karachi and Lahore could identify the parallels scene by scene was treated as a threat to national security, because acknowledging the parallels meant acknowledging the operations themselves. The distinction between what Islamabad objected to and why Islamabad objected to it is the central puzzle this article unpacks, and the answer reveals far more about strategic communication vulnerabilities than it does about Bollywood's creative choices.
 
 <!--more-->
 
-![Pakistan Reaction to Dhurandhar Film - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Pakistan Reaction to Dhurandhar Film - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 Aditya Dhar's Ranveer Singh starrer, released on December 5, 2025, accomplished something that no previous Indian production had managed: it forced the state apparatus across the border to respond to a Bollywood production with the institutional seriousness typically reserved for diplomatic incidents. Within days of the trailer going viral, government officials were issuing formal statements. Within a week of theatrical release, the PPP had filed a court petition in Karachi naming the entire cast and crew. Within two weeks, six Gulf Cooperation Council countries had refused certification. Within a month, Islamabad had reportedly explored the possibility of bringing a defamation case at the International Court of Justice against a movie studio. The trajectory of the official response, from cultural criticism to legal action to international diplomacy, is itself the strongest evidence that Dhar's production struck something deeper than national pride. It struck national credibility.
 

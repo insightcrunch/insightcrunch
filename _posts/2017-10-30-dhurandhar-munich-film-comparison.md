@@ -6,17 +6,17 @@ date: 2017-10-30
 categories: ["Industry"]
 tags: ["dhurandhar", "munich", "spielberg", "comparison", "india", "israel", "revenge"]
 excerpt: "Comparing Dhurandhar with Spielberg's Munich reveals how India and Israel construct fundamentally different revenge narratives about covert assassination."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-10-30
+lang: en
 ---
-
 Two films separated by nearly two decades tell a remarkably similar story on paper: a democratic state, wounded by terrorism, authorizes covert assassination squads to hunt and kill those responsible on foreign soil, and a filmmaker turns that covert campaign into a major commercial release consumed by millions of citizens whose tax money funded the real operations. Spielberg's Munich, released in 2005, dramatized Israel's Operation Wrath of God following the 1972 Olympic massacre. Dhurandhar, released two decades later, dramatized India's shadow war against Pakistan-based terrorists following decades of cross-border attacks. Both films depict their nation's intelligence operatives executing targets in foreign cities. Both films were massive cultural events in their home countries. Yet the two films could not be more different in what they ask their audiences to feel about the killing, and that difference reveals something profound about how each democracy processes the moral weight of state-sanctioned violence.
 
 <!--more-->
 
-![Dhurandhar vs Munich Film Comparison - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Dhurandhar vs Munich Film Comparison - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 ## The Film's Version
 

@@ -6,17 +6,17 @@ date: 2017-10-23
 categories: ["Industry"]
 tags: ["dhurandhar", "baby", "phantom", "bollywood", "comparison", "counter-terrorism"]
 excerpt: "Comparing Dhurandhar, Baby, and Phantom reveals how three Bollywood films represent three different phases of India's evolving counter-terror self-image."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2017-10-23
+lang: en
 ---
-
 Three Bollywood films released within a decade of each other told India three different stories about what its intelligence agencies do in the dark, and each story moved the national conversation one step closer to open celebration of covert killing on foreign soil.
 
 <!--more-->
 
-![Dhurandhar vs Baby vs Phantom Compared - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Dhurandhar vs Baby vs Phantom Compared - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 Baby arrived in January 2015 and whispered a secret most Indians had never heard: your government runs covert counter-terror units that operate outside the law, outside borders, and outside public knowledge. Neeraj Pandey's clinical thriller treated the covert world with the cold professionalism of a classified briefing, asking audiences to accept that such units exist and that their existence is necessary. Seven months later, Phantom posed a different proposition entirely. Kabir Khan's film, adapted from Hussain Zaidi's novel Mumbai Avengers, did not ask whether India should strike back against the masterminds of the 26/11 Mumbai massacre. It assumed the answer was yes and spent two hours showing audiences what that revenge might look like. The tagline said everything the screenplay intended: "A story you wish were true." Phantom's genius was not in the execution of its missions but in the honest admission that the entire premise was fantasy, a national wish projected onto celluloid. Then came Dhurandhar. Where Baby had whispered and Phantom had wished, Dhurandhar roared. The Ranveer Singh blockbuster did not merely acknowledge covert operations or fantasize about revenge. It celebrated the act of killing with a visceral cinematic energy that turned targeted assassinations into crowd-pleasing spectacle, complete with a soundtrack that could fill stadiums.
 

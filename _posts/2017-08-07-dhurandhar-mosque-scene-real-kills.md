@@ -6,17 +6,17 @@ date: 2017-08-07
 categories: ["Industry"]
 tags: ["dhurandhar", "mosque", "scene", "real-killings", "reel-vs-real", "controversy"]
 excerpt: "The most controversial parallel between Dhurandhar and reality explored in full: the film's mosque killing scene versus actual prayer-time assassinations."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-08-07
+lang: en
 ---
-
 Dhurandhar's most morally complex moment lasts less than three minutes on screen, but it occupies a permanent space in every honest conversation about the film's relationship to India's covert counter-terror campaign. The protagonist enters a place of worship during Fajr prayers, identifies his target kneeling in the front row, walks forward through the congregation, and fires a single round into the back of the man's head. The congregation scatters. The hero walks out. The background score swells with patriotic resolve. In theaters across India, audiences cheered. In the documented reality of India's [shadow war against wanted terrorists on Pakistani soil](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/), a Lashkar-e-Taiba commander named Riyaz Ahmad, known as Abu Qasim, was shot in the head at point-blank range inside al-Qudus mosque in Rawalakot during pre-dawn prayers in September 2023. The method was identical. The moral framing could not have been more different. This article places the fiction against the documented record, holds both in the same analytical frame, and asks what the gap between Bollywood heroism and operational ambiguity reveals about India's evolving relationship with state violence.
 
 <!--more-->
 
-![Dhurandhar Mosque Scene vs Real Kills Analysis - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Dhurandhar Mosque Scene vs Real Kills Analysis - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## The Film's Version
 

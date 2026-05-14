@@ -6,17 +6,17 @@ date: 2017-08-14
 categories: ["Industry"]
 tags: ["dhurandhar", "handler", "raw", "intelligence", "reel-vs-real", "spymaster"]
 excerpt: "How Dhurandhar's fictional intelligence handler compares to documented RAW officers and which historical spymasters most likely inspired the character."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2017-08-14
+lang: en
 ---
-
 Dhurandhar gave India's shadow war a face, but it also gave the shadow war a brain. Ranveer Singh's protagonist may have pulled the trigger, but the handler character standing behind the desk in New Delhi pulled the strings, and the spymaster archetype that Dhurandhar constructed tells us as much about how India imagines its intelligence leadership as any memoir or declassified file ever could.
 
 <!--more-->
 
-![Dhurandhar Handler vs Real RAW Officers - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dhurandhar Handler vs Real RAW Officers - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The handler in Dhurandhar is not credited with a full name. He is addressed by a rank, referenced by a title, and defined by his actions. He sits in wood-paneled offices. He makes phone calls that determine whether men live or die. He carries the weight of moral authority without ever personally entering the field. He is, in the film's architecture, the intellectual core of the operation, the man who transforms political will into operational reality. Every word he speaks to his operatives is calibrated. Every silence communicates. Every decision he makes balances strategic necessity against human cost, and the film never allows the audience to see him waver. This is the spymaster India wishes it had: cerebral, morally certain, operationally ruthless, and fundamentally decent. The question is whether any real RAW officer has ever matched that portrait, and the answer reveals as much about India's intelligence culture as it does about Bollywood's imagination.
 

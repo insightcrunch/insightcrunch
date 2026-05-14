@@ -6,17 +6,17 @@ date: 2017-09-25
 categories: ["Industry"]
 tags: ["bollywood", "raw", "intelligence", "history", "films", "tiger", "dhurandhar"]
 excerpt: "How Bollywood depicted RAW and India's spy services across three phases, from decades of total absence through the Tiger franchise to Dhurandhar's apex."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2017-09-25
+lang: en
 ---
-
 For more than four decades after India established its external intelligence agency, Bollywood pretended the organization did not exist. The Research and Analysis Wing, founded by Rameshwar Nath Kao in September 1968, operated in a cinematic vacuum where Hindi films explored every conceivable national institution except the one responsible for gathering foreign intelligence and conducting covert operations abroad. That absence was not an oversight. It was a cultural decision, rooted in India's deep discomfort with acknowledging the existence of state-sanctioned clandestine activity and the moral ambiguity that accompanied it. The transformation that followed, from total invisibility through romantic spectacle to operational celebration, tracks one of the most revealing shifts in India's national self-image, and Bollywood's portrayal of RAW across this journey offers a mirror that reflects the country's changing relationship with power, violence, and sovereignty more clearly than any policy document or parliamentary debate ever could.
 
 <!--more-->
 
-![Bollywood and RAW Relationship History](/assets/images/blog/blog-07.webp)
+![Bollywood and RAW Relationship History](/assets/images/blog/blog-19.webp)
 
 ## The Film's Version
 
