@@ -6,17 +6,17 @@ date: 2015-03-21
 categories: ["Leisure"]
 tags: ["revolution", "rebellion", "literary-comparison", "animal-farm", "1984", "fahrenheit-451", "literary-analysis"]
 excerpt: "Classic novels about revolution propose specific theories about why rebellions succeed, fail, or devour themselves. The theories differ, and they matter."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2015-03-21
+lang: en
 ---
-
 Classic novels about revolution are not simply dramatic stories about civic upheaval. They are theoretical propositions, each advancing a specific argument about how rebellions begin, why they succeed or fail, and what happens to the people who live through them. Six foundational works - George Orwell's Animal Farm and 1984, Charles Dickens's A Tale of Two Cities, Victor Hugo's Les Miserables, Margaret Atwood's The Handmaid's Tale, and Ray Bradbury's Fahrenheit 451 - operate at different stages of the revolutionary cycle and propose different theories about the mechanics of revolt. Reading them as a comparative sequence, rather than as isolated thematic exercises, reveals analytical content that individual readings consistently miss.
 
 <!--more-->
 
-![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The conventional approach to revolution in literature treats it as a theme, something novels share in the way they share love or death or coming of age. SparkNotes and similar platforms catalog revolutionary moments across texts without interrogating the theoretical differences between them. Animal Farm gets filed alongside A Tale of Two Cities under "revolution," as though Orwell and Dickens were saying the same thing with different characters. They were not. Orwell was theorizing vanguardist betrayal through the specific lens of Stalinist corruption, drawing on his experience in the Spanish Civil War and his analysis of Soviet institutional decay. Dickens was theorizing revolutionary violence as intergenerational trauma, filtered through a Victorian-Christian framework that understood history as cyclical suffering breakable only through sacrificial love. These are fundamentally different intellectual projects, and treating them as variations on a shared theme flattens precisely the content that makes each novel worth reading.
 

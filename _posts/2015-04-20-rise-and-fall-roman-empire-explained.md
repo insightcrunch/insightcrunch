@@ -6,17 +6,17 @@ date: 2015-04-20
 categories: ["Leisure"]
 tags: ["roman-empire", "rise-and-fall", "ancient-rome", "late-antiquity", "historiography", "ancient-history"]
 excerpt: "Rome did not fall in 476 CE. The Western administrative apparatus dissolved across the fifth century, but most of Rome survived as transformed institutions."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-04-20
+lang: en
 ---
-
 Rome did not fall. The Western administrative apparatus dissolved across the fifth century in a process that took longer than the entire existence of the United States, and what survived the dissolution was nearly everything that mattered: Latin, Roman law, the Catholic Church, the idea of universal governance, and the engineering tradition that kept aqueducts running in some Western cities for centuries after the last emperor was deposed. The story you learned in school, the one where barbarians sacked a decadent civilization and plunged Europe into darkness, is Edward Gibbon's story, published between 1776 and 1789, and it is not the story that archaeology, documentary evidence, and fifty years of late-antique scholarship actually tell. The most defensible one-sentence summary of what happened to Rome is this: the material civilization of the Western provinces collapsed measurably and severely, while the cultural, linguistic, legal, and religious institutions transformed rather than vanished, and both of those statements are true simultaneously at different scales of analysis.
 
 <!--more-->
 
-![Rise and Fall of the Roman Empire - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rise and Fall of the Roman Empire - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 That synthesis, which holds collapse and transformation together rather than choosing between them, is the position this article defends. It draws on Edward Gibbon's canonical narrative, Peter Brown's 1971 paradigm shift, Bryan Ward-Perkins's 2005 archaeological counter-argument, and Peter Heather's 2005 political-military analysis. Wikipedia's entry on the fall of the Western Roman Empire catalogs these positions neutrally without adjudicating among them, because Wikipedia's editorial rules prohibit taking sides. This article takes a side. The side it takes is that Ward-Perkins and Heather are substantially correct for the Western provinces, Brown is substantially correct for the Eastern Empire and for certain dimensions of Western cultural continuity, and the most honest reading treats collapse and transformation as descriptions of the same events measured at different registers. The material register collapsed. The cultural register transformed. Choosing one description and discarding the other produces a false picture.
 
