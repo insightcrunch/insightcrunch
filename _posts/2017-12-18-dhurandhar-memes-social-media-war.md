@@ -6,17 +6,17 @@ date: 2017-12-18
 categories: ["Industry"]
 tags: ["dhurandhar", "memes", "social-media", "india-pakistan", "online-warfare"]
 excerpt: "How Dhurandhar's imagery became a potent weapon in the India-Pakistan social media war, with both sides weaponizing memes from the film as propaganda."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2017-12-18
+lang: en
 ---
-
 Dhurandhar did not stay inside the cinema hall. Ranveer Singh's blockbuster escaped its theatrical run and colonized the digital battlefield between India and Pakistan, producing more viral content than any government press release, any diplomatic statement, or any military briefing could ever generate. When Indian social media users wanted to celebrate a reported targeted killing in Karachi, they reached for a Dhurandhar screenshot. When Pakistani users wanted to mock India's triumphalism, they repurposed the same screenshot with biting counter-captions. Imagery from the film became shared ammunition in a conflict fought not with bullets but with bandwidth, not with soldiers but with smartphones, and the participants numbered not in thousands but in hundreds of millions.
 
 <!--more-->
 
-![Dhurandhar Memes and Social Media War - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Dhurandhar Memes and Social Media War - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 ## The Film's Version
 

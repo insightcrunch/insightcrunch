@@ -6,17 +6,17 @@ date: 2018-01-22
 categories: ["Industry"]
 tags: ["operation-sindoor", "23-minutes", "missile-strikes", "rafale", "scalp", "india"]
 excerpt: "A target-by-target reconstruction of Operation Sindoor's opening 23-minute missile strike campaign, the weapons deployed, and the targets India destroyed."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2018-01-22
+lang: en
 ---
-
 At 0400 hours Indian Standard Time on May 7, 2025, Rafale jets of the Indian Air Force released SCALP cruise missiles into Pakistani airspace, initiating the most consequential twenty-three minutes in South Asian military history since the fall of Dhaka in December 1971. Nine targets across Pakistan-administered Kashmir and Pakistan's Punjab province received precision munitions in rapid succession, each strike calibrated to dismantle infrastructure belonging to Jaish-e-Mohammed, Lashkar-e-Taiba, and Hizbul Mujahideen. By the time the final weapon found its mark, India had crossed every remaining conventional military threshold with its nuclear-armed neighbor: first missile strikes on Pakistani soil proper, first multi-target simultaneous campaign, first combat deployment of the Rafale platform, and first use of SCALP cruise missiles in South Asian airspace. Those twenty-three minutes did not merely punish the perpetrators of the Pahalgam massacre. They permanently altered the strategic geography of the subcontinent.
 
 <!--more-->
 
-![Operation Sindoor The 23 Minutes - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Operation Sindoor The 23 Minutes - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 ## Background and Triggers
 

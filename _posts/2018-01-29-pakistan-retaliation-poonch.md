@@ -6,17 +6,17 @@ date: 2018-01-29
 categories: ["Industry"]
 tags: ["pakistan-retaliation", "poonch", "shelling", "civilians", "operation-sindoor", "artillery", "line-of-control"]
 excerpt: "How Pakistan retaliated after Operation Sindoor by shelling Poonch, Rajouri, and border towns with heavy artillery, killing 21 civilians in four days."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2018-01-29
+lang: en
 ---
-
 At approximately 1:05 AM Indian Standard Time on May 7, 2025, Indian Rafale jets launched SCALP cruise missiles at nine Jaish-e-Mohammed and Lashkar-e-Taiba targets across Pakistan and Pakistan-occupied Kashmir under [the operation codenamed Sindoor](https://insightcrunch.com/2018/01/22/operation-sindoor-23-minutes/). Within hours, Pakistani forces answered with a barrage of artillery shells, mortar rounds, and small-arms fire directed at civilian areas across Jammu and Kashmir's border districts. Poonch, a small hill town less than eight kilometers from the Line of Control, absorbed the worst of that response. By the time a fragile ceasefire took hold on the evening of May 10, at least 21 Indian civilians lay dead, more than 59 others had been wounded, and over two hundred thousand residents of the border belt had abandoned their homes. The children, women, and government officers killed by Pakistani shells in those four days became the human cost of a retaliatory doctrine built around area-effect weapons aimed at population centers, a response so asymmetric in character that it exposed the fundamental difference between how the two nuclear-armed adversaries chose to wage their brief, devastating conflict.
 
 <!--more-->
 
-![Pakistan Retaliation Poonch Shelling - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Pakistan Retaliation Poonch Shelling - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The shells that fell on Poonch town, on the gurdwara where three Sikh devotees were praying, on the compound where seven-year-old Maryam Khatoon sat in her family's courtyard, on the school run by Carmelite nuns, told a story that no official press briefing from either side bothered to narrate in full. India's strikes had been calibrated, employing precision-guided munitions launched from standoff distances against pre-identified infrastructure targets. Pakistan's response reached for the bluntest instruments in its arsenal: 155mm howitzers, 120mm mortars, and multi-barrel rocket launchers aimed at forward towns along the Line of Control. The asymmetry between a precision campaign and an area-effect barrage defined the character of the four-day crisis. Poonch residents, caught in the kill zone of that asymmetry, paid the price that neither capital's strategists acknowledged with adequate gravity.
 

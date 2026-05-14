@@ -6,17 +6,17 @@ date: 2018-02-05
 categories: ["Industry"]
 tags: ["dogfight", "nuclear-powers", "aerial-combat", "india-pakistan", "2025", "rafale"]
 excerpt: "The first jet-era aerial dogfight between two nuclear-armed nations during the 2025 India-Pakistan conflict, what really happened, and why it matters now."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2018-02-05
+lang: en
 ---
-
 On the night of May 6 and 7, 2025, two nuclear-armed nations fought an aerial battle that deterrence theorists had long believed was impossible. More than 114 fighter aircraft from the Indian Air Force and Pakistan Air Force engaged in a beyond-visual-range confrontation that lasted approximately 52 minutes, creating what defense analysts would later describe as the largest air-to-air engagement since the Korean War and one of the most consequential aerial confrontations in the history of military aviation. This air battle shattered assumptions that had held for seven decades: that nuclear-armed states would never permit their air forces to fight each other, that the risk of escalation would freeze all conventional military contact between nuclear powers, and that the nuclear umbrella made aerial combat between such adversaries functionally impossible. Over the skies of the Line of Control separating Indian-administered and Pakistani-administered Kashmir, those assumptions died in a barrage of radar locks, missile launches, and electronic warfare jamming that compressed the future of aerial combat doctrine into less than an hour.
 
 <!--more-->
 
-![First Dogfight Between Nuclear Powers - Insight Crunch](/assets/images/blog/blog-10.webp)
+![First Dogfight Between Nuclear Powers - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 What made this confrontation unprecedented was not merely the number of aircraft involved or the sophistication of the weapons deployed. Previous aerial confrontations between India and Pakistan, including the 2019 Balakot-related skirmishes in which Wing Commander Abhinandan Varthaman was shot down in a MiG-21, had been brief, localized, and limited to a handful of aircraft. May 7 involved the full spectrum of modern aerial combat capability: French-built Rafale multirole fighters armed with Meteor beyond-visual-range missiles facing off against Chinese-built Chengdu J-10C fighters carrying PL-15 long-range air-to-air missiles, with JF-17 Thunder Block III jets, Sukhoi Su-30MKIs, MiG-29 Fulcrums, and American-origin F-16 Fighting Falcons all operating in an electromagnetic environment saturated with jamming, countermeasures, and airborne early warning coordination. The skies over the India-Pakistan border became a testing ground not only for national military capabilities but for the weapons systems that dozens of countries around the world had purchased or were considering purchasing. Every defense ministry from Beijing to Paris to Washington was watching, because the combat performance of these platforms would shape procurement decisions for decades.
 
