@@ -6,17 +6,17 @@ date: 2018-05-07
 categories: ["Industry"]
 tags: ["trade-suspension", "economic-warfare", "india-pakistan", "sanctions", "2025"]
 excerpt: "How India's complete trade suspension with Pakistan after Pahalgam 2025 became economic warfare, what it cost each country, and why the asymmetry matters."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2018-05-07
+lang: en
 ---
-
 On April 23, 2025, less than 24 hours after five gunmen killed 26 tourists in Baisaran Valley, India formally closed the Wagah-Attari Integrated Check Post and suspended all bilateral trade with Pakistan. The announcement came in a Cabinet Committee on Security meeting at Prime Minister Narendra Modi's residence, and it was framed as a punitive measure: commerce cannot continue with a country that sponsors terrorism against Indian civilians. The framing was powerful. The economics, however, told a more complicated story. India's formal commerce with Pakistan had already collapsed to a fraction of its historical levels. The suspension of something that barely existed was, by design, asymmetric economic warfare at minimal domestic cost.
 
 <!--more-->
 
-![India Trade Suspension Pakistan Impact](/assets/images/blog/blog-08.webp)
+![India Trade Suspension Pakistan Impact](/assets/images/blog/blog-09.webp)
 
 That asymmetry is the article's central argument. India-Pakistan bilateral commerce was, by the time of the Pahalgam attack, one of the most artificially constrained commercial relationships between neighboring countries in the world. India's exports to Pakistan from April 2024 to January 2025 amounted to $447.7 million. Pakistan's exports to India in the same ten-month window came to just $420,000, a figure so small it barely registers in India's trade statistics. Deploying the suspension as a weapon in this context carried a specific strategic logic: maximum signaling value, minimal domestic blowback, indefinite sustainability. New Delhi had found a tool it could use without flinching, and it used it on Day 7 of the [14-day escalation ladder](https://insightcrunch.com/2018/01/15/india-response-pahalgam-14-days/) that culminated in Operation Sindoor.
 

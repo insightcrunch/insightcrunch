@@ -6,17 +6,17 @@ date: 2018-03-05
 categories: ["Industry"]
 tags: ["civilian-casualties", "2025", "india-pakistan", "human-cost", "poonch", "kashmir"]
 excerpt: "Documenting the civilian casualties on both sides of the 2025 India-Pakistan conflict, the disputed death tolls, the verification gaps, and the human cost."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2018-03-05
+lang: en
 ---
-
 When the guns went quiet on the evening of May 10, 2025, the four days of fighting between India and Pakistan had killed soldiers in uniform, but it had also killed thirteen-year-old twins who had moved towns for a better school, a doctor's patients inside a mosque at dawn prayer, a district officer who stepped outside to check on his staff, and a farmer in a Punjab field who never saw the loitering munition that found him. Civilian casualties on both sides of the 2025 India-Pakistan conflict became the most politically charged set of numbers the crisis produced, and at the same time the least independently confirmed.
 
 <!--more-->
 
-![Civilian casualties on both sides of the 2025 India-Pakistan conflict](/assets/images/blog/blog-14.webp)
+![Civilian casualties on both sides of the 2025 India-Pakistan conflict](/assets/images/blog/blog-84.webp)
 
 The short answer to the question most readers arrive with is that both countries killed each other's civilians, and neither country's count can be fully trusted. Pakistan said that India's missile strikes on the night of May 6 into May 7 killed civilians in Bahawalpur, Muridke, Muzaffarabad and Kotli, and its military first put the figure at thirty-one before raising it days later to forty civilians, among them seven women and fifteen children. India said that Pakistani artillery and mortar fire across the Line of Control, together with drones and a loitering munition, killed civilians in Poonch, Rajouri, Uri, Kupwara and one town in Punjab, and its official tally settled at roughly twenty-one civilians alongside its uniformed dead. Independent investigators who later studied the firing along the Line of Control suggested the true civilian total was higher than either government's headline number, because much of the killing happened in border villages where nobody was counting in real time.
 

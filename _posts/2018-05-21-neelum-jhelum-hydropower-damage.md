@@ -6,17 +6,17 @@ date: 2018-05-21
 categories: ["Industry"]
 tags: ["neelum-jhelum", "hydropower", "infrastructure", "damage", "india-pakistan"]
 excerpt: "How Pakistan's largest PoK hydropower plant became a casualty of the 2025 conflict, what evidence shows, and the legal and strategic questions it raises."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2018-05-21
+lang: en
 ---
-
 On the night between May 6 and May 7, 2025, as Indian missiles struck nine designated locations across Pakistani territory and Pakistan-occupied Kashmir during Operation Sindoor, Pakistan's military spokesman Lt. General Ahmed Sharif Chaudhry made a claim that would add an entirely new dimension to the conflict. India, he alleged, had targeted the Noseri Dam near the Neelum-Jhelum Hydropower Project, a 969-megawatt facility that ranks as Pakistan's largest run-of-river power station in PoK and one of the most expensive infrastructure projects in the country's history. The accusation transformed the crisis from a counter-terror operation into a debate about civilian infrastructure, international law, and the expanding boundaries of warfare between nuclear-armed states.
 
 <!--more-->
 
-![Neelum Jhelum Hydropower Damage](/assets/images/blog/blog-10.webp)
+![Neelum Jhelum Hydropower Damage](/assets/images/blog/blog-55.webp)
 
 India's response came swiftly and categorically. Foreign Secretary Vikram Misri, briefing the media on May 8, called Pakistan's claim "an absolute and complete fabrication, and a blatant lie." He reiterated that all Indian strikes had targeted terrorist infrastructure and that no civilian or energy facilities had been selected. Between these two narratives, separated by geography, classification, and the fog of a live military conflict, lies one of the most consequential questions of the 2025 crisis. Did the Neelum-Jhelum facility sustain damage from Indian strikes, from collateral effects of nearby operations, or from pre-existing structural failures that Pakistan attributed to Indian fire? The answer carries implications not just for the bilateral relationship but for how future conflicts between nuclear powers will treat civilian energy infrastructure.
 

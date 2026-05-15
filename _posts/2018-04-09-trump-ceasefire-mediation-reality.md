@@ -6,17 +6,17 @@ date: 2018-04-09
 categories: ["Industry"]
 tags: ["trump", "ceasefire", "mediation", "us-role", "india-pakistan", "2025"]
 excerpt: "Did Trump really broker the India-Pakistan ceasefire or merely announce it? The DGMO timeline, Rubio's calls, and why New Delhi rejected the mediation claim."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2018-04-09
+lang: en
 ---
-
 On the morning of May 10, 2025, as missiles and drones tore across the skies between two nuclear-armed nations, Donald Trump posted on Truth Social what appeared to be the single most consequential sentence of the year. He wrote that after a long night of talks mediated by the United States, he was pleased to announce that India and Pakistan had agreed to a full and immediate ceasefire. Within minutes, the post circulated across every newsroom on the planet. The fighting stopped. And the argument over who deserved credit for stopping it began immediately.
 
 <!--more-->
 
-![Trump Ceasefire Mediation Reality - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Trump Ceasefire Mediation Reality - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 That argument has not stopped since. New Delhi insists the ceasefire was a bilateral agreement reached through existing military channels on Pakistan's request. Islamabad thanked Trump personally while simultaneously claiming it acted independently. Washington maintained its diplomats worked through the night to prevent nuclear catastrophe. Each of these accounts contains fragments of truth, but none of them constitutes the complete picture. The reality is messier, more contested, and far more revealing about the state of global power than any single narrative allows. To understand what actually happened on May 10, one must reconstruct the precise timeline of events, plot the communications as they occurred, and assess whether American intervention preceded, accompanied, or merely followed a bilateral agreement that was already taking shape. This article does exactly that. It takes Trump's announcement, India's rejection of the framing, Pakistan's gratitude, and the documented sequence of calls, hotlines, and social media posts, and places them against each other to answer a question that three governments would prefer to leave unanswered: did the United States actually broker the ceasefire, or did Donald Trump simply announce somebody else's achievement as his own?
 

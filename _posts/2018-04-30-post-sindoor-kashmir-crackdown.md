@@ -6,17 +6,17 @@ date: 2018-04-30
 categories: ["Industry"]
 tags: ["kashmir", "crackdown", "post-sindoor", "detentions", "demolitions", "security"]
 excerpt: "The massive security crackdown in Kashmir after Pahalgam and Operation Sindoor, with over 2,800 detained, homes demolished, and an entire valley locked."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2018-04-30
+lang: en
 ---
-
 On April 22, 2025, three gunmen walked into the Baisaran Valley meadow near Pahalgam and killed 26 people, most of them tourists, in the deadliest attack on civilians in Indian-administered Kashmir in nearly two decades. Within hours, the Indian security establishment had begun what would become the largest crackdown in Kashmir since the abrogation of Article 370 in August 2019, a sweeping campaign of mass detentions, property demolitions, communication shutdowns, tourism closures, and expulsions that collectively transformed the valley's security landscape more dramatically than the [attack itself](https://insightcrunch.com/2018/01/08/pahalgam-attack-minute-by-minute/) ever could. The crackdown was the domestic face of the same doctrine that produced [Operation Sindoor](https://insightcrunch.com/2012/07/03/operation-sindoor-complete-guide/) abroad, and its scale raises the defining question of India's post-Pahalgam response: whether security necessity justified what human rights organizations have called collective punishment of a civilian population for the actions of three gunmen.
 
 <!--more-->
 
-![Post Sindoor Kashmir Crackdown - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Post Sindoor Kashmir Crackdown - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The numbers alone tell a story that resists simple interpretation. Approximately 2,800 people were detained or summoned for questioning across Jammu and Kashmir in the weeks following April 22. At least 90 individuals were booked under the Public Safety Act, a preventive detention law that permits incarceration without trial for up to two years. Over 100 were charged under the Unlawful Activities (Prevention) Act, which makes bail functionally impossible in most cases. At least ten to twelve homes belonging to families of suspected militants were demolished by security forces, some through controlled explosions, others through bulldozers. Forty-eight of the valley's eighty-seven tourist destinations were closed. Mobile internet services were suspended across multiple districts. Over 8,000 social media accounts were blocked nationwide. Nearly 800 Pakistani nationals, including women married to Kashmiri men, were ordered to leave the territory. The Indian government described these measures as security necessities in the aftermath of the worst terrorist attack in Kashmir in a quarter century. Human rights organizations, the United Nations Office of the High Commissioner for Human Rights, and multiple UN Special Rapporteurs described them as collective punishment that violated international law.
 

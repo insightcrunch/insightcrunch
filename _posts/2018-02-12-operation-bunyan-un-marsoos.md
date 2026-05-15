@@ -6,17 +6,17 @@ date: 2018-02-12
 categories: ["Industry"]
 tags: ["bunyan-un-marsoos", "pakistan", "retaliation", "operation-sindoor", "claims"]
 excerpt: "Pakistan's Operation Bunyan-un-Marsoos explained in full detail, its claimed strikes on Indian bases, the five-jet downing claim, and what evidence shows."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2018-02-12
+lang: en
 ---
-
 On the morning of May 10, 2025, after three days of absorbing Indian missile and drone strikes without a formal retaliatory response, the Inter-Services Public Relations directorate in Rawalpindi issued a terse announcement that would become the most contested communique of the entire India-Pakistan conflict: the armed forces of the Islamic Republic had launched a comprehensive counter-operation named Bunyan-un-Marsoos, and the results, ISPR declared, would speak for themselves.
 
 <!--more-->
 
-![Operation Bunyan-un-Marsoos Explained](/assets/images/blog/blog-11.webp)
+![Operation Bunyan-un-Marsoos Explained](/assets/images/blog/blog-34.webp)
 
 The results did speak, though what they said depended entirely on which capital you were listening from. Islamabad presented Bunyan-un-Marsoos as the most accomplished Pakistani retaliatory campaign since the 1965 war, claiming successful strikes against at least twenty-six Indian facilities, the downing of five or six fighter jets including Rafale aircraft, the degradation of BrahMos storage facilities, and the neutralization of S-400 air defense batteries worth over a billion dollars each. New Delhi presented a starkly different picture: time-stamped satellite photographs of Indian airbases standing intact, runways operational, aircraft parked neatly in their hangars. Indian defence officials described the Pakistani claims as fabricated, pointing to doctored satellite imagery and manipulated social media content as evidence that Bunyan-un-Marsoos was less a battlefield campaign than a narrative construction designed for domestic Pakistani consumption.
 

@@ -6,17 +6,17 @@ date: 2018-04-23
 categories: ["Industry"]
 tags: ["global-response", "nuclear-war", "risk", "india-pakistan", "2025", "un"]
 excerpt: "How the world responded to the 2025 India-Pakistan conflict, from Malala Yousafzai's peace appeal to UN consultations and the global scramble for de-escalation."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2018-04-23
+lang: en
 ---
-
 For four days in May, the planet watched two nuclear-armed states trade missiles and wondered whether it was witnessing the opening hours of a catastrophe it could not stop. Television networks from Tokyo to London cut to maps of the Line of Control. Foreign ministries that had spent the spring absorbed by Ukraine and Gaza scrambled to draft statements. Markets in Mumbai and Karachi shuddered. Every capital that mattered said something, and almost none of them did anything that altered the trajectory of the fighting. The global reaction to the crisis that began with the Pahalgam massacre and climaxed in Operation Sindoor was loud, fast, and almost entirely rhetorical, and the gap between the volume of the words and the smallness of the actions is the most revealing fact about how the international order now handles a war between states that own atomic weapons.
 
 <!--more-->
 
-![Global Response to the 2025 India-Pakistan Conflict - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Global Response to the 2025 India-Pakistan Conflict - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The terrified fascination was real, and it was justified. Antonio Guterres warned that the confrontation could "spin out of control." A Pakistani ambassador in Moscow raised the spectre of the full spectrum of national power, conventional and atomic alike. Indian officials briefed thirteen of the fifteen Security Council members on the legal basis for their strikes. Donald Trump posted a ceasefire announcement to Truth Social before either government had confirmed it. And through all of it ran a single uncomfortable truth that diplomats acknowledged privately even as they performed urgency in public: no outside actor held the leverage to force New Delhi or Islamabad to stop. The combatants stopped when they chose to stop, for reasons of their own, and the worldwide chorus of concern functioned less as a brake than as a soundtrack.
 

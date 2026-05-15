@@ -6,17 +6,17 @@ date: 2018-04-16
 categories: ["Industry"]
 tags: ["information-war", "india-pakistan", "narrative", "propaganda", "2025", "media"]
 excerpt: "How India and Pakistan fought a parallel information war in 2025, the dueling press conferences, the viral fabrications, and the fight for narrative control."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2018-04-16
+lang: en
 ---
-
 When Indian missiles struck targets inside Pakistan in the small hours of May 7, 2025, two wars began at the same moment. One was fought with cruise missiles, artillery, drones, and air defense batteries, and it produced a contested casualty ledger that neither capital would ever fully agree on. The other was fought on X, on WhatsApp, on Instagram and YouTube, in Urdu and Hindi and English and in meme formats that need no language at all, and it produced something stranger than a casualty ledger. It produced two incompatible versions of reality, each one internally complete, each one believed absolutely by the audience it was built for. The shooting stopped after roughly four days. The contest over what the four days had meant did not stop, and in important respects it has still not stopped.
 
 <!--more-->
 
-![Information War India Pakistan 2025 - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Information War India Pakistan 2025 - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This second war deserves to be studied as carefully as the first, because it was in many ways the more consequential of the two. The physical exchange of May 2025 was brief, geographically bounded, and constrained on both ends by the shared knowledge that escalation between nuclear-armed neighbors has a ceiling no rational government wants to test. The narrative exchange had no such ceiling. It ran in real time across platforms with billions of users, it pulled in Chinese state outlets and Turkish broadcasters and American cable news, and it shaped what publics in both countries believed their soldiers had achieved long before any verified damage assessment existed. The official Indian briefings called it counter-terrorism. The official Pakistani briefings called it unprovoked aggression against a sovereign state. Both descriptions were assembled from selected facts, and both were aimed less at the truth than at specific audiences whose belief was the actual objective. Understanding how that contest unfolded, who shaped it, and who can plausibly be said to have won it is the work of this analysis. The conclusion is uncomfortable for the conventional Indian self-image and only slightly less uncomfortable for the Pakistani one, which is precisely why it is worth setting down with care.
 

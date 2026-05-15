@@ -6,17 +6,17 @@ date: 2018-03-19
 categories: ["Industry"]
 tags: ["china", "weapons", "pakistan", "combat-test", "military-hardware", "jf-17"]
 excerpt: "How the 2025 India-Pakistan conflict became China's most significant real-world combat test, pitting Chinese military hardware against Western systems."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2018-03-19
+lang: en
 ---
-
 The four days between May 7 and May 10, 2025, rewrote decades of assumptions about Chinese military technology in a burst of missile exhaust and radar returns that defense analysts from Washington to Tel Aviv are still processing. When India launched [Operation Sindoor](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/) with precision strikes against militant infrastructure inside Pakistan, the ensuing aerial confrontation became something far larger than a bilateral crisis between South Asian rivals: it became the most consequential real-world evaluation of Chinese military exports since the Korean War, pitting Beijing's fighters, missiles, and air defense platforms against French Rafales, Russian S-400 batteries, and Indo-Israeli precision munitions in an environment no simulation could replicate.
 
 <!--more-->
 
-![Chinese Weapons Pakistan Combat Test - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Chinese Weapons Pakistan Combat Test - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 For China, the stakes extended far beyond Pakistan's borders. Beijing has spent decades building a defense-industrial complex capable of competing with Western and Russian manufacturers, but its hardware had never been tested in a high-intensity conflict between two sophisticated air forces. The exercises, the trade shows, the manufacturer specifications, the computer simulations all pointed toward competitive capability, yet nothing substitutes for the unforgiving audit of actual combat. Pakistan's military, which has been the largest single recipient of Chinese arms exports for three consecutive decades, carried that hardware into battle against some of the most celebrated platforms in global aviation. What emerged from those seventy-two hours of strikes, counterstrikes, and aerial engagements was not a simple narrative of Chinese triumph or failure, but a complex technical picture that has already reshaped procurement decisions from the Gulf to Southeast Asia, sent defense stocks surging on the Shenzhen exchange, and forced every major arms-exporting nation to recalculate the competitive landscape of the global defense market.
 
