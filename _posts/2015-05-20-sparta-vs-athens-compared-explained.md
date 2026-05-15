@@ -6,19 +6,19 @@ last_updated: 2015-05-20
 slug: sparta-vs-athens-compared-explained
 categories: ["Leisure"]
 tags: ["sparta-vs-athens", "ancient-greece", "polis-comparison", "peloponnesian-war", "greek-history", "ancient-history"]
-author: "Insight Crunch Team"
+author: "amanda-ross"
 excerpt: "Athens and Sparta ran the same Greek experiment to opposite ends. Sparta won the Peloponnesian War. Athens won every argument for the next 2,400 years."
 image: /assets/images/blog/blog-07.webp
 reading_time: 70
+lang: en
 ---
-
 Around 700 BCE, two Greek city-states occupied roughly similar positions on the Aegean map. Both governed territories of a few hundred square miles, both fielded citizen armies of comparable size, both spoke dialects of the same language, and both worshipped the same gods at temples built in the same architectural tradition. Over the next two centuries, they made opposite institutional choices at almost every decision point available to a polis. By 500 BCE, the result was the starkest civilizational contrast in the ancient Mediterranean world: Sparta, a militarized oligarchy that had eliminated nearly everything except its army, and Athens, a participatory democracy that had turned the city itself into a cultural engine producing philosophy, drama, history, and architecture at a rate without precedent. This article is the story of that experiment, the war it produced, and the verdict history has delivered on which design mattered more for everything that followed. It draws on the five most analytically rigorous primary sources available - Thucydides's *History of the Peloponnesian War*, Plutarch's *Lives of the Noble Greeks and Romans*, Xenophon's *Hellenica* and *Constitution of the Spartans*, and Aristotle's *Politics* and *Athenian Constitution* - alongside the modern scholarship that has refined, contested, and substantially extended the ancient record. Every factual claim about institutions, battles, population figures, and chronology is grounded in those sources, and the evaluative framework is transparent rather than hidden: the article argues for a verdict, gives the evidence for it, and presents the strongest scholarly counter-arguments rather than suppressing them.
 
 <!--more-->
 
 Few comparisons in the entire history of political thought have been used more continuously or more variously than the Sparta-Athens one. Every subsequent civilization attempting to design a civic order has reached for these two examples, claimed one as an ancestor, and dismissed the other as a cautionary case. Plato used Spartan institutions as partial inspiration for his imagined republic. Roman republicans compared their mixed constitution favorably to Sparta's dual-kingship arrangement. American founders cited Athens as a direct-democracy cautionary tale and Sparta as a citizen-virtue ideal in their ratification debates. Nazi theorists celebrated Spartan eugenics. Twentieth-century progressives celebrated Athenian deliberative culture. Contemporary military training programs invoke the agoge. Modern democratic theory traces its legitimating genealogy to Pericles's Funeral Oration. Neither city has gone out of circulation because the question they embody remains unanswered: what do you optimize a city for, and what are you willing to sacrifice in the process? What follows is an attempt to answer that question with analytical precision, drawing on Thucydides's *History of the Peloponnesian War*, Plutarch's *Lives*, Xenophon's *Hellenica* and *Constitution of the Spartans*, and Aristotle's *Politics* and *Athenian Constitution*, alongside the modern scholarship of Paul Cartledge, Donald Kagan, Mogens Herman Hansen, and Victor Davis Hanson.
 
-![Sparta and Athens: Two Cities Compared](/assets/images/blog/blog-07.webp)
+![Sparta and Athens: Two Cities Compared](/assets/images/blog/blog-80.webp)
 
 ## Background: Two Greek Cities, One Starting Line
 

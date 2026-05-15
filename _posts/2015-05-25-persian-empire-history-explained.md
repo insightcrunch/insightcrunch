@@ -4,20 +4,20 @@ title: "The Persian Empire Explained"
 page_title: "The Persian Empire Explained: Why the Achaemenids Invented the Institutions Later Empires Copied"
 date: 2015-05-25
 last_updated: 2015-05-25
-author: "Insight Crunch Team"
+author: "diana-patel"
 excerpt: "The Persian Empire invented multi-ethnic imperial administration. Every subsequent empire from Rome to Byzantium inherited and modified the Achaemenid design."
 categories: ["Leisure"]
 tags: ["persian-empire", "achaemenid-empire", "cyrus-the-great", "darius", "ancient-history", "institutional-history"]
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-25.webp"
 slug: "persian-empire-history-explained"
 reading_time: 70
+lang: en
 ---
-
 The Persian Empire is one of the most consequential civilizations in human history, yet most people who have heard of it know it mainly as the enemy at Thermopylae, the adversary at Marathon, the realm Alexander destroyed in eleven years. That framing is not a neutral observation. It is a historiographic inheritance from the Greek tradition, and it has distorted the Persian Empire's story for approximately 2,400 years.
 
 <!--more-->
 
-![Persian Empire - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Persian Empire - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The Achaemenid Persian Empire, which ran from Cyrus the Great's founding around 550 BCE to Alexander's final conquest in 330 BCE, was not primarily an enemy of Greece. It was the first successful multi-ethnic imperial system in recorded history, a political construction that governed up to fifty million people across three continents, from the Indus River to the Aegean Sea and from Central Asia to Upper Egypt. The Greek wars were, from a Persian bureaucratic perspective, a difficult but geographically marginal problem on the empire's western frontier. From Susa or Persepolis, the Greek city-states were a collection of small, quarrelsome communities at the far edge of a world the Persians had already organized. That the Greek tradition inverted this perspective and made the Persian Empire into a backdrop for Greek heroism is understandable. It is also wrong, and the wrongness has consequences for understanding how empires work, how institutions are transmitted across civilizations, and why the organizational forms that governed the ancient and medieval Mediterranean world look the way they do.
 

@@ -4,20 +4,20 @@ title: "Cleopatra: The Last Pharaoh of Egypt"
 page_title: "Cleopatra: The Last Pharaoh of Egypt and Why the Shakespeare Version Is Wrong About Her"
 date: 2015-05-15
 last_updated: 2015-05-15
-author: "Insight Crunch Team"
+author: "diana-patel"
 slug: cleopatra-last-pharaoh-egypt
 excerpt: "Cleopatra was not a beauty, not a romantic, and not an exotic foreign queen. She was a Ptolemaic politician who nearly outmaneuvered Rome for a generation."
 tags: ["cleopatra", "ptolemaic-egypt", "ancient-egypt", "roman-republic", "female-rulers", "ancient-history"]
 categories: ["Leisure"]
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
+lang: en
 ---
-
 A version of Cleopatra exists in the popular imagination that has almost nothing to do with the historical person. It is a palimpsest built from three distinct layers of retelling, each adding romance and subtracting governance, each moving further from the Ptolemaic papyri and the policy record and deeper into the realm of constructed mythology. Shakespeare's *Antony and Cleopatra* (1606) is the most familiar layer. Dryden's *All for Love* (1678) added further sentiment and stripped away the remaining traces of agency that Shakespeare had preserved. Hollywood's 1963 Elizabeth Taylor production, budgeted at what remains one of the most expensive films ever made relative to its era, consolidated the image into something almost entirely detached from the historical record. What all three share is a Cleopatra defined by her relationships with powerful men. What all three omit is the Cleopatra who governed Egypt, preserved its independence for twenty-two years after her father nearly lost it entirely, mastered nine languages including Egyptian itself, navigated a dynastic tradition saturated with fratricide and civil war, and came closer than any previous Ptolemaic ruler to transforming the relationship between Egypt and Rome from subordination into something resembling strategic partnership.
 
 <!--more-->
 
-![Cleopatra: The Last Pharaoh of Egypt - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Cleopatra: The Last Pharaoh of Egypt - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 Plutarch, whose account Shakespeare drew on so heavily, wrote roughly 150 years after Cleopatra's death. His sources were primarily Augustan-era texts, filtered through a Greek moralist's interest in illustrating the corrupting effects of fortune on great men. Plutarch's Cleopatra is above all a device for understanding Mark Antony's decline. She is the force that draws a Roman general away from Roman virtue, Roman martial discipline, and ultimately Roman survival. That framing serves Augustan ideology with precision. It explains why Antony lost while simultaneously explaining why Octavian had to win. The difficulty is that it tells us almost nothing reliable about Cleopatra herself, and a great deal about how Octavian wanted her remembered by the generations that would follow.
 

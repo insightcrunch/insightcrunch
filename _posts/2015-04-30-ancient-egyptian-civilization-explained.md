@@ -6,17 +6,17 @@ date: 2015-04-30
 categories: ["Leisure"]
 tags: ["ancient-egypt", "pharaohs", "nile-civilization", "cradle-of-civilization", "egyptian-history", "ancient-history"]
 excerpt: "Ancient Egypt endured for 3,000 years not because its pharaohs were strong but because the Nile was so reliable and the surrounding desert was a wall."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-04-30
+lang: en
 ---
-
 Ancient Egypt lasted from approximately 3100 BCE, when a king called Narmer unified Upper and Lower Egypt into a single state, to 30 BCE, when Cleopatra VII died and Rome absorbed the country as a province. That span is roughly three thousand years. To put it in proportion: three thousand years before Cleopatra's death takes you back to the founding of Egypt itself. Three thousand years after her death takes you to the present day. No other ancient civilization maintained a continuous, recognizable political and cultural identity for anything close to that duration, and the question this article answers is not whether Egypt was impressive but why it lasted so long and what actually held it together.
 
 <!--more-->
 
-![Ancient Egyptian Civilization Explained](/assets/images/blog/blog-03.webp)
+![Ancient Egyptian Civilization Explained](/assets/images/blog/blog-54.webp)
 
 The conventional answer to that question treats Egyptian longevity as proof of Egyptian excellence. The pharaohs were wise, the priests were learned, the armies were strong, and the culture was superior. This is the reading you find in most popular histories and in the promotional literature of every museum with an Egyptian wing. It is also wrong, or at best incomplete. The argument of this article is that Egypt's three thousand years are a geographic-and-institutional accident, not an imperial achievement. Egypt lasted because the Nile produced an agricultural surplus so reliable and a defensive perimeter so natural that the state did not need to innovate and was rarely pressured to change. When the geography changed, when the Nile's behavior shifted or neighboring powers acquired iron weapons and cavalry, Egypt was conquered repeatedly and never recovered its independence. The pharaohs did not build a civilization that endured for three millennia. The Nile built a country, and the pharaohs administered it until the conditions that made administration easy finally disappeared.
 

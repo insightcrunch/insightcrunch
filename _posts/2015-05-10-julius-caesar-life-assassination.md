@@ -8,18 +8,18 @@ slug: julius-caesar-life-assassination
 categories: ["Leisure"]
 tags: ["julius-caesar", "roman-republic", "rubicon", "roman-civil-war", "ancient-rome", "biography"]
 excerpt: "Caesar did not seize power. He crossed the Rubicon because the alternative was prosecution and execution for the very conquests the Senate had authorized."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
+lang: en
 ---
-
 On the morning of January 11, 49 BCE, Gaius Julius Caesar stood at the southern bank of the Rubicon River in northern Italy with a single legion, the Thirteenth, and a decision that could not be reversed. Crossing that shallow stream with armed troops meant war with the Roman Senate - technically treason, practically the beginning of civil conflict. Not crossing meant returning to Rome as a private citizen stripped of command, exposed to the prosecutions his enemies had spent two years arranging, and facing a legal process whose verdict had already been decided before any charge was formally filed. The conventional story presents this moment as the signature act of a man who had always planned to seize power: the ambitious general finally throwing off the mask. The historical sources, read carefully, tell a different story. Caesar crossed the Rubicon not because he had conquered Gaul and wanted to conquer Rome next, but because the Senate faction that controlled the consulship had left him no alternative that did not end in his political destruction or death.
 
 <!--more-->
 
 That distinction matters more than it might appear. It changes the moral calculus of the subsequent civil war, shifts responsibility from a single ambitious man toward the institutional dysfunction of a Republic that had been straining at its seams for a century, and reframes the assassination of Caesar in March 44 BCE from the heroic defense of liberty it claimed to be into something considerably more complicated. This article traces Caesar's life from his birth into a deteriorating Republic through his extraordinary career in Gaul, his calculated crossing of the Rubicon, his five years reshaping Roman institutions, and his death on the Senate floor, arguing throughout that the man who died there was less the architect of tyranny than the product of a system that had already broken beyond repair.
 
-![Julius Caesar - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Julius Caesar - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 ## The World They Were Born Into
 
