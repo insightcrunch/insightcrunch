@@ -6,17 +6,17 @@ date: 2015-06-29
 categories: ["Leisure"]
 tags: ["roman-empire-fall", "decline-of-rome", "barbarian-invasions", "late-antiquity", "historical-causation", "ancient-history"]
 excerpt: "The Roman Empire did not fall for one reason. Six structural causes compounded across two centuries, and only their combination explains the Western collapse."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-06-29
+lang: en
 ---
-
 The Roman Empire did not fall for one reason. It fell since six structural factors compounded across roughly two centuries, and no single one of them would have been fatal on its own. That sentence is the whole answer, and everything below is the evidence for it. Popular versions of the story reach for a single villain, whether barbarians at the gate, moral rot, lead in the water pipes, or the spread of Christianity, since one villain is easy to remember and easy to tell. The real history runs slower and proves far more interesting: a wealthy, militarily dominant Mediterranean state lost its tax base, lost control of its own soldiers, lost the people who had built its economy, lost a critical province, and was finally outcompeted by its own eastern half, all across a span long enough that nobody living through any given decade of it would have described what they saw as an ending.
 
 <!--more-->
 
-![Why the Roman Empire Fell - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Why the Roman Empire Fell - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The deposition of the last Western emperor, a teenager named Romulus Augustulus, by the general Odoacer in 476 CE is the date textbooks hand to students. It is a convenient marker and a misleading one. Nothing dramatic happened in 476 that had not already happened repeatedly across the preceding hundred years. The teenage emperor was a figurehead with no real authority over anything; Odoacer simply declined to appoint a replacement and ruled Italy as a king who still nominally acknowledged the emperor in Constantinople. That imperial office was retired rather than destroyed. What that office had once governed had been hollowing out for generations, and the hollowing is the story that matters.
 

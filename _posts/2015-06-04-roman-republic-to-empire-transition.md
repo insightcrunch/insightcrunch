@@ -4,22 +4,22 @@ title: "Roman Republic to Empire: How Rome Changed"
 page_title: "Roman Republic to Empire: The 27 BCE Settlement That Formalized an Already-Completed Change"
 date: 2015-06-04
 last_updated: 2015-06-04
-author: "Insight Crunch Team"
+author: "amanda-ross"
 categories: ["Leisure"]
 tags: ["roman-republic", "roman-empire", "augustus", "principate", "27-bce", "ancient-history"]
 slug: roman-republic-to-empire-transition
 excerpt: "Rome did not become an empire because any man chose it. The city-state constitution of 509 BCE could not govern a Mediterranean world of fifty million."
 image: /assets/images/blog/blog-10.webp
 reading_time: 70
+lang: en
 ---
-
 The standard telling of Rome's transformation goes something like this: Julius Caesar grew too powerful, crossed the Rubicon in 49 BCE, made himself dictator, and was murdered for it on the Ides of March in 44 BCE. His great-nephew Octavian defeated Mark Antony at Actium in 31 BCE, renamed himself Augustus, and became Rome's first emperor. The Republic ended; the Empire began. The date is usually given as either 44 BCE or 27 BCE depending on the textbook, and the cause is usually attributed to the ambitions of one or two extraordinary men.
 
 This article argues that every element of that telling is either wrong or misleading.
 
 <!--more-->
 
-![Roman Forum ruins - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Roman Forum ruins - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 Rome did not become an empire because Julius Caesar or Augustus wanted to rule. Rome became an empire because the political institutions it had built between 509 and 367 BCE were designed for a city-state governing a few thousand square kilometres of central Italy, and those institutions were constitutionally, practically, and financially incapable of governing the Mediterranean-wide territorial system Rome had acquired between 241 and 30 BCE. The 27 BCE settlement was not the moment the Republic ended. It was the moment Rome's political class formally acknowledged that the Republic had already ended, and papered over that acknowledgement with enough republican language to allow everyone in the room to pretend otherwise.
 
