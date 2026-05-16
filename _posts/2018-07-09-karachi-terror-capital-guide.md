@@ -6,17 +6,17 @@ date: 2018-07-09
 categories: ["Industry"]
 tags: ["karachi", "terror-capital", "targeted-killings", "pakistan", "let", "jem"]
 excerpt: "Why Karachi became Pakistan's primary elimination theater, which terror groups operate there, who was killed, and what the chaos reveals about the shadow war."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2018-07-09
+lang: en
 ---
-
 Karachi is where Pakistan's safe-haven system and India's shadow war collide at maximum density. More wanted militants have been shot dead in Karachi than in every other Pakistani city combined. More proscribed organizations maintain operational cells in Karachi than in any other urban center. The city's chaotic anonymity protects both the hunted and the hunters, making it the shadow war's primary battlefield in a country of 230 million people. Understanding Karachi is not merely understanding one city. It is understanding why the shadow war unfolds the way it does, where it does, and why neither side seems capable of changing those terms.
 
 <!--more-->
 
-![Karachi - Pakistan's Terror Capital and Shadow War Battlefield - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Karachi - Pakistan's Terror Capital and Shadow War Battlefield - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 Pakistan's largest metropolis by population and its financial capital by function, Karachi is a city of approximately 20 million people spread across a coastline on the Arabian Sea. It is also a city of contradictions so stark that they defy easy explanation. Sophisticated corporate towers in Clifton and Defence neighbourhoods stand within an hour's drive of Orangi Town, one of Asia's largest informal settlements, where governance has never reached and where anonymity is structural rather than incidental. A city that generates nearly a quarter of Pakistan's GDP is also a city where the Sindh provincial police force is chronically underfunded, understaffed, and routinely outgunned by the criminal and militant networks operating within it. These contradictions are not accidental byproducts of Karachi's scale. They are the operational preconditions that made the city what it became: the preferred address of militant organizations seeking shelter and, eventually, the preferred hunting ground of the campaign dismantling them.
 

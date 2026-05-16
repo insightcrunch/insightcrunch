@@ -6,17 +6,17 @@ date: 2018-05-28
 categories: ["Industry"]
 tags: ["asim-munir", "field-marshal", "pakistan-army", "promotion", "2025", "military"]
 excerpt: "Why Pakistan promoted Army Chief Asim Munir to Field Marshal during the 2025 India-Pakistan military crisis, what the elevation signals, and historical context."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2018-05-28
+lang: en
 ---
-
 On May 20, 2025, ten days after the ceasefire that ended a four-day armed exchange between India and Pakistan, Pakistan's federal cabinet convened in Islamabad and approved a promotion that had no precedent in the country's history under a civilian government. Syed Asim Munir, Chief of Army Staff, was elevated to the rank of Field Marshal, becoming only the second person in Pakistan's seventy-eight-year existence to hold a five-star general's title. The first had been Ayub Khan, who conferred the rank upon himself in 1959 after staging a coup d'état the previous year. Six decades of democratic rhetoric, four military coups, and three elected prime ministers imprisoned by the army had intervened between these two Field Marshals, and yet the circumstances of the second promotion carried unmistakable echoes of the first: a conflict recently concluded, claims of battlefield success fiercely disputed by independent analysts, and a civilian government ratifying a rank elevation that served the army chief's institutional interests far more than it served the country's long-term constitutional health.
 
 <!--more-->
 
-![Asim Munir Field Marshal Promotion - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Asim Munir Field Marshal Promotion - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 the country's formal justification framed the promotion as recognition of Munir's leadership during [Operation Bunyan-un-Marsoos](https://insightcrunch.com/2018/02/12/operation-bunyan-un-marsoos/), the name Islamabad gave to its counter-response to India's Operation Sindoor. The cabinet resolution employed the language of martial glory, crediting Munir with ensuring Pakistan's national defence while demonstrating courageous leadership and exceptional strategy in repelling what the government characterised as Indian aggression. Critics from Karachi to London read the resolution differently. Defence analyst Ayesha Siddiqa, Pakistan's most incisive observer of civil-military dynamics, offered a simpler framing in the days immediately following the announcement: "Every time the Pakistani army loses a war, their generals pin on a medal." That sentence, widely circulated on social media and quoted in international coverage, captured an analytical consensus outside Pakistan's official narrative, that Munir's elevation was a wartime narrative device dressed as a military ceremony, a political instrument wrapped in ceremonial gold braid.
 

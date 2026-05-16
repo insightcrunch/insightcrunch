@@ -6,19 +6,19 @@ date: 2018-06-25
 categories: ["Industry"]
 tags: ["operation-sindoor", "balakot", "comparison", "india-pakistan", "airstrikes"]
 excerpt: "Comparing India's two military strikes on Pakistan across twelve dimensions reveals why Sindoor's escalation over Balakot was exponential, not incremental."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2018-06-25
+lang: en
 ---
-
 Twelve jets crossed the Line of Control on February 26, 2019. Six years later, an entire tri-service apparatus launched cruise missiles from within Indian territory at nine targets spread across Pakistan's Punjab heartland and Pakistan-occupied Jammu and Kashmir. The distance between those two moments is not simply time. It is a doctrinal chasm, a weapons-system revolution, and a geopolitical irreversibility that has permanently recalibrated how nuclear-armed neighbors calculate risk and resolve. Balakot was New Delhi's first air strike inside Pakistani territory since 1971. Operation Sindoor was something qualitatively and strategically different from anything that came before it.
 
 The two operations are connected not only by causal logic but by institutional memory, procurement timelines, and intelligence investment. Every Rafale acquisition decision, every BrahMos naval variant test, every shadow war operation that updated the 21-target inventory, and every post-Balakot lessons-learned review conducted inside the IAF and the National Security Council Secretariat contributed to the operational architecture that Sindoor deployed. Balakot was not only a precedent. It was a design specification for what came next.
 
 <!--more-->
 
-![Operation Sindoor vs Balakot Compared](/assets/images/blog/blog-15.webp)
+![Operation Sindoor vs Balakot Compared](/assets/images/blog/blog-25.webp)
 
 The comparison between these two operations matters because both are routinely treated as points on the same trajectory line, as if Sindoor were simply a larger Balakot scaled up by a factor of nine. That framing obscures more than it reveals. Both operations share a surface-level logic: a mass-casualty terrorist attack attributed to a Pakistan-based group, a period of national deliberation, a strike. But beneath that shared architecture, [every measurable dimension of both operations](https://insightcrunch.com/2018/06/11/lessons-2025-conflict-analysis/) changed between 2019 and 2025. The weapons changed. The platforms changed. The target list changed in number, geography, and organizational significance. Pakistan's ability to deny the effects of the operation changed entirely. The retaliation changed in kind, scale, and duration. The nuclear signaling changed in intensity and explicitness. The ceasefire mechanism changed in formality and in the institutions it required. The doctrinal consequence changed from precedent-setting to precedent-institutionalizing.
 

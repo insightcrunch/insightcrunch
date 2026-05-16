@@ -6,17 +6,17 @@ date: 2018-08-27
 categories: ["Industry"]
 tags: ["khyber-pakhtunkhwa", "tribal-belt", "bajaur", "landi-kotal", "terrorism"]
 excerpt: "Khyber Pakhtunkhwa is where anti-India and anti-state terror overlap, from Bajaur to Landi Kotal, and where the shadow war finally reached the tribal belt."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2018-08-27
+lang: en
 ---
-
 There is a province in Pakistan's northwest where two separate wars are fought on the same ground, and most people who follow either war never notice the other. The first war is loud and public: the Pakistani state against the Tehrik-i-Taliban Pakistan, an insurgency that has killed soldiers, bombed police lines, and contested the writ of Islamabad across a long mountain frontier. The second war is silent and deniable: an elimination drive that has reached into this same terrain to kill men wanted not by Pakistan but by India, men who belonged to Lashkar-e-Taiba rather than to the Pakistani Taliban. Khyber Pakhtunkhwa is the place where those two campaigns intersect. It is where anti-state terrorism and anti-India terrorism share streets, share seminaries, sometimes share valleys, and where a covert operation has to navigate a battlefield in which every armed actor, the state's enemies and the state's assets alike, has a reason to distrust a stranger.
 
 <!--more-->
 
-![Khyber Pakhtunkhwa Terror Landscape - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Khyber Pakhtunkhwa Terror Landscape - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 The two killings that announced this intersection were quiet by design. One was the shooting of Sheikh Yousaf Afridi, a Lashkar-e-Taiba figure tied to the organization's founder, gunned down near Landi Kotal at the head of the Khyber Pass. The other was the killing of Akram Khan, also known as Akram Ghazi, a Lashkar operative shot dead in the Bajaur frontier district along the Afghan border. Both men were India-designated. Neither belonged to the Pakistani Taliban. Both died in a region where, by every conventional assumption about covert operations, an outsider should never have been able to operate. Karachi is a city of more than fifteen million people where a single unknown face dissolves into the crowd. Lahore is dense, urban, and forgiving of anonymity. Bajaur is the opposite of all of that. It is a place where the army runs checkpoints every few kilometers, where tribal society registers an unfamiliar visitor within hours, and where the question is not whether a stranger will be noticed but how quickly. The campaign reached in anyway. That fact, more than any single biography, is what makes this province worth a careful and complete examination.
 

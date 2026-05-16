@@ -4,19 +4,19 @@ title: "Sialkot JeM Operations Hub"
 page_title: "Sialkot JeM Operations Hub - How Pakistan's Border City Became JeM's Infiltration Staging Ground and Where Pathankot Mastermind Shahid Latif Was Killed"
 date: 2018-07-30
 last_updated: 2018-07-30
-author: "Insight Crunch Team"
+author: "andrew-price"
 categories: ["Industry"]
 tags: ["sialkot", "jaish-e-mohammed", "shahid-latif", "pathankot", "border-city"]
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-51.webp"
 excerpt: "How Sialkot functions as JeM's primary operations hub near the Indian border, enabling infiltration into Jammu and Kashmir, and where Shahid Latif died."
 reading_time: 70
+lang: en
 ---
-
 The city of Sialkot presents the world with one of South Asia's most consequential contradictions. On any given workday, its workshops and factories produce roughly seventy percent of the world's hand-stitched footballs, supply operating theaters across five continents with precision-forged surgical instruments, and manufacture the hockey sticks used by professional athletes from Amsterdam to Auckland. Sialkot is, by any commercial measure, one of the most globally integrated cities in Pakistan, a place whose craftsmen and exporters engage the international economy with a sophistication that its provincial rivals struggle to match. Its businessmen funded their own international airport through private civic initiative. Its Chamber of Commerce conducts trade fairs that draw European and North American buyers. Its surgical instruments hold a market share estimated at roughly twenty percent of global supply, second in quality only to Germany according to international industry assessments. The city exports over $900 million annually in goods that are used, purchased, and trusted across more than one hundred countries. No other city of similar size in Pakistan can claim comparable international economic embeddedness.
 
 <!--more-->
 
-![Sialkot JeM Operations Hub - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Sialkot JeM Operations Hub - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 Yet this same city, separated from Indian-administered Jammu and Kashmir by a strip of flatland that a person can traverse in minutes, has served for decades as one of [Jaish-e-Mohammed's](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) most consequential operational nodes in Pakistan's Punjab province. The infiltration corridors that radiate from Sialkot's district toward the Working Boundary and toward the Line of Control have carried fighters, weapons, and planning instructions into India on a schedule that Indian security forces have spent years trying to disrupt. When Indian precision missiles struck two facilities in Sialkot during Operation Sindoor in May 2025, they confirmed what Indian intelligence had asserted for years: that the city's export workshops and its militant infrastructure exist in the same geographic space, separated only by the institutional decisions of a Pakistani state that chose, repeatedly, to shelter one while celebrating the other. The contradiction is not incidental to Pakistan's relationship with anti-India militancy; it is definitional of it. Sialkot earns international goodwill through its footballs and surgical forceps, and it exports violence through the same border crossings that once carried commuter trains to Jammu before partition made neighbors into adversaries.
 

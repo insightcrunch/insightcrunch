@@ -6,17 +6,17 @@ date: 2018-08-06
 categories: ["Industry"]
 tags: ["bahawalpur", "jaish-e-mohammed", "masood-azhar", "headquarters", "sindoor"]
 excerpt: "How Bahawalpur became JeM's institutional headquarters, Masood Azhar's hometown, and one of the nine targets India struck during Operation Sindoor in 2025."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2018-08-06
+lang: en
 ---
-
 Bahawalpur is not a city the world paid much attention to until the morning of May 7, 2025. Founded in 1748, a former princely state capital graced with Mughal-inspired palaces and a university older than Pakistan itself, it sits in the desert-adjacent south of Punjab at the edge of the Cholistan sands, approximately 400 kilometers from Lahore and roughly 100 kilometers from the Indian border. Its Nawabs built monuments. Its seminaries built clerics. And in January 2000, one of those clerics returned from Kandahar to the city of his birth and transformed it into the institutional capital of the most dangerous anti-India terrorist organization in the subcontinent. Masood Azhar was born in Bahawalpur. He built Jaish-e-Mohammed in Bahawalpur. He housed its headquarters in Bahawalpur. And when Indian Rafale jets launched SCALP missiles in the pre-dawn darkness on May 7, 2025, one of the nine target coordinates they carried in their targeting systems pointed directly at the Jamia Masjid Subhan Allah compound, an 18-acre facility that was simultaneously a mosque, a madrassa, a gymnasium, a stable, and the organizational nerve center of [one of the most lethal terror groups operating against India](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/).
 
 <!--more-->
 
-![Bahawalpur JeM Headquarters Guide - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Bahawalpur JeM Headquarters Guide - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This story cannot be told as the story of a terrorist organization that happened to set up camp in a convenient city. It is the opposite: the story of a man who went home, built his organization in the city where he grew up, and received from that city's surrounding institutions enough cover, enough silence, enough proximity to the Pakistan Army's 31 Corps headquarters, to operate for twenty-five years in plain sight. Pakistan's authorities pointed cameras at the compound. Pakistani police guarded its gates. Pakistani media photographed its minarets. And for twenty-five years, nothing happened to it, until a foreign air force made the decision that Pakistan's own institutions had consistently declined to make. What follows is the complete guide to Bahawalpur as a safe haven: its geography, its terror infrastructure, the men who lived here, what happened when India finally struck, and what the aftermath reveals about the relationship between the Pakistani state and the organization it harbored for a quarter century.
 

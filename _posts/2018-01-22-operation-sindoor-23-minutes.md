@@ -6,17 +6,17 @@ date: 2018-01-22
 categories: ["Industry"]
 tags: ["operation-sindoor", "23-minutes", "missile-strikes", "rafale", "scalp", "india"]
 excerpt: "A target-by-target reconstruction of Operation Sindoor's 23-minute strike campaign on May 7, 2025, the weapons systems used, and what India destroyed."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2018-01-22
+lang: en
 ---
-
 At 0105 hours Indian Standard Time on May 7, 2025, aircraft from No. 17 Squadron of the Indian Air Force climbed from their forward staging positions into the pre-dawn darkness above Rajasthan and Punjab, armed with SCALP-EG cruise missiles and AASM Hammer precision bombs. Along the Line of Control, Indian Army artillery crews had already computed firing solutions for M982 Excalibur GPS-guided rounds, their barrels elevated and charged. SkyStriker loitering munitions sat on their launch rails, their electro-optical seekers cold against the pre-dawn air, their guidance systems loaded with coordinates that had been refined through weeks of satellite imagery analysis, signals intelligence, and human source reporting from networks operating inside Pakistan. Nine sets of coordinates had been programmed. Nine targets would be struck. In the next twenty-three minutes, the armed forces of the Republic of India would execute the most consequential military operation on the subcontinent since December 1971, reaching across international borders to destroy terrorist infrastructure in Pakistan's Punjab heartland and across Pakistan-administered Kashmir in a synchronized campaign that announced, with unmistakable clarity, that the era of strategic restraint was finished.
 
 <!--more-->
 
-![Operation Sindoor 23-Minute Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Operation Sindoor 23-Minute Strike Reconstruction - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The operation's name carried deliberate symbolic weight. Sindoor, the vermilion powder that marks a married Hindu woman's hairline as a sign of matrimonial status, was chosen in direct reference to the women widowed in the Pahalgam massacre of April 22, 2025, when five gunmen descended on the Baisaran Valley tourist site in Indian-administered Kashmir and killed twenty-six people. Witnesses described the attackers checking tourists' religious identities before firing, a sectarian targeting methodology that transformed what might have been treated as another Kashmir security incident into a national trauma demanding a response calibrated to its scale. The name communicated India's framing before the first weapon reached Pakistani soil: this was not merely a counter-terrorism operation but an act of reckoning, tying the vermilion-stained grief of Indian families directly to the infrastructure that created and dispatched the men responsible.
 
