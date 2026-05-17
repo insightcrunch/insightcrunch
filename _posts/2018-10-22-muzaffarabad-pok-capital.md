@@ -6,17 +6,17 @@ date: 2018-10-22
 categories: ["Industry"]
 tags: ["muzaffarabad", "pok", "capital", "terror-hub", "kashmir", "infiltration"]
 excerpt: "How Muzaffarabad, the quiet administrative capital of Pakistan-Occupied Kashmir, became the operational command center for cross-LoC infiltration into India."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2018-10-22
+lang: en
 ---
-
 Every armed campaign needs a capital. Not a battlefield, not a front line, but a place where the planning happens, where the commanders sleep, where the maps are drawn and the recruits are briefed and the money changes hands. For the four decades of organized cross-border militancy aimed at Indian Kashmir, that capital has been a modest town wedged into a river valley in the western Himalayas, a town most outsiders could not place on a map. Muzaffarabad is the administrative seat of the territory Pakistan calls Azad Jammu and Kashmir and India calls Pakistan-Occupied Kashmir. It is also, by any honest accounting of where the infiltration apparatus is run from, the operational seat of the war against the Line of Control.
 
 <!--more-->
 
-![Muzaffarabad, the capital of Pakistan-Occupied Kashmir, viewed from the surrounding ridgelines](/assets/images/blog/blog-01.webp)
+![Muzaffarabad, the capital of Pakistan-Occupied Kashmir, viewed from the surrounding ridgelines](/assets/images/blog/blog-86.webp)
 
 To understand why a town of roughly 150,000 residents matters so much to a conflict that has consumed tens of thousands of lives, you have to abandon the idea that terror infrastructure looks like a fortress. It does not. In Muzaffarabad the militant command shares streets with a functioning civilian bureaucracy, a tourist economy, two universities, a press club, and the heaviest concentration of Pakistan Army formations anywhere in the contested territory. The organizations that have spent decades sending young men across the mountains into Indian Kashmir do not operate from caves on the outskirts. They operate from offices, guesthouses, and seminaries inside the town, within walking distance of the Prime Minister's secretariat of the self-styled government. That proximity is not an accident or an embarrassment that Pakistan has failed to clean up. It is the design. The whole point of placing the infiltration command in the territory's capital is that the capital is the one place where civilian authority, military authority, and militant authority can be made to overlap so completely that no outside observer can cleanly separate them.
 

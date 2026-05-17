@@ -6,17 +6,17 @@ date: 2018-10-01
 categories: ["Industry"]
 tags: ["training-camps", "pakistan", "map", "let", "jem", "hizbul", "sindoor"]
 excerpt: "Mapping Pakistan's terror training camp network from Muridke to Muzaffarabad, the courses these facilities run, and the sites India struck in Operation Sindoor."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2018-10-01
+lang: en
 ---
-
 Pakistan's terror infrastructure is not an abstraction. It carries street addresses, satellite coordinates, construction dates, and named administrators. On the night of May 7, 2025, when Indian Rafale jets released SCALP cruise missiles across the international border, the nine sites that absorbed those missiles were not chosen in haste. Indian intelligence had catalogued each location for years, photographed the buildings from orbit, recorded which organisation ran which compound, and assigned every site a serial number. The targets were instruction facilities, and the strike that destroyed them exposed something the public rarely sees laid out in full: the physical network that converts ordinary recruits into operational fighters.
 
 <!--more-->
 
-![Terror training camps mapped across Pakistan and Pakistan-occupied Kashmir](/assets/images/blog/blog-13.webp)
+![Terror training camps mapped across Pakistan and Pakistan-occupied Kashmir](/assets/images/blog/blog-12.webp)
 
 At the briefing it held on the afternoon of May 7, the Indian military displayed a map. That map marked twenty-one facilities spread across Pakistan and Pakistan-occupied Jammu and Kashmir, nine of them ringed as the night's targets and the remaining twelve catalogued as known but untouched. The display was the clearest public admission of a claim India's security establishment had pressed for two decades. The neighbouring state does not merely shelter wanted men. It schools them.
 

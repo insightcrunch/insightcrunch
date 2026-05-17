@@ -6,17 +6,17 @@ date: 2018-11-19
 categories: ["Industry"]
 tags: ["global", "safe-havens", "comparison", "pakistan", "afghanistan", "yemen"]
 excerpt: "Comparing the world's terror safe havens from Pakistan to Afghanistan, Yemen, Somalia, and Syria, and explaining why Pakistan's state-backed model is unique."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 74
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2018-11-19
+lang: en
 ---
-
 A useful way to understand any sanctuary for terrorism is to ask one blunt question: who is responsible for the fact that wanted men sleep soundly here? The answer separates one kind of refuge from another far more cleanly than geography, religion, or the names of the groups involved. In some places the answer is a collapsed government that simply cannot reach its own hinterland. In others it is a civil war that shattered the writ of every authority at once. And in one place, the answer is an intact, functioning, nuclear-armed government that has decided, as a matter of policy, that certain killers are worth keeping.
 
 <!--more-->
 
-![Global Terror Safe Havens Compared - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Global Terror Safe Havens Compared - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 That last answer is what makes Pakistan different from every other refuge on earth, and it is the reason the phrase "safe haven" flattens a distinction that ought to be the starting point of the entire conversation rather than its afterthought. Lump Pakistan together with Afghanistan, Yemen, Somalia, and Syria, and the analysis collapses into a vague indictment of "ungoverned spaces" that explains nothing and prescribes worse. Pull them apart, sort them by the actual mechanism that produces the shelter, and a far sharper picture emerges. Four of the five sanctuaries examined here are problems of state weakness. One is a problem of state intent. The two require opposite remedies, and confusing them has wasted two decades of counter-terrorism policy.
 

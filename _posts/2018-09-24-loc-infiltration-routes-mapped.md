@@ -6,17 +6,17 @@ date: 2018-09-24
 categories: ["Industry"]
 tags: ["loc", "infiltration", "routes", "kashmir", "border-security", "india-pakistan"]
 excerpt: "Mapping the five infiltration corridors across the Line of Control, how militants cross into Kashmir, and exactly where India's fenced border holds and fails."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2018-09-24
+lang: en
 ---
-
 The Line of Control is 740 kilometers of fortified mountain frontier. Concertina wire runs along most of its length in a double row, twelve feet high in places, strung with motion sensors and watched by thermal cameras. Hundreds of thousands of soldiers hold the ridges and valleys on both sides, and the Indian Army has spent two decades and enormous sums turning a ceasefire line drawn in 1949 into one of the most heavily defended borders on earth. And yet, every spring, when the snow retreats from the high passes and the rivers swell with meltwater, men cross it carrying assault rifles. They cross because the terrain that makes the frontier impossible to live near also makes it impossible to seal completely, and because the men who organize the crossings have studied the gaps for thirty years.
 
 <!--more-->
 
-![Map illustration of Line of Control infiltration corridors between Pakistan-Occupied Kashmir and Indian Kashmir](/assets/images/blog/blog-12.webp)
+![Map illustration of Line of Control infiltration corridors between Pakistan-Occupied Kashmir and Indian Kashmir](/assets/images/blog/blog-35.webp)
 
 This is an attempt to map those crossings honestly, corridor by corridor, without either the triumphalism of official Indian briefings or the fatalism that treats infiltration as a permanent fact of nature. The reality sits between the two. India has not sealed the Line of Control, and the soldiers who patrol it would be the first to say so. What India has done is raise the cost of every crossing so steeply that the volume has collapsed, the success rate has fallen, and the routes that remain viable have narrowed to a handful of terrain features that recur in every infiltration season. Those features are not secret. River valleys where fencing washes out, mountain passes above the snow line where surveillance is seasonal, and densely forested sectors where the tree canopy defeats cameras: these are the conduits, and they have been the conduits for as long as the militancy has existed.
 

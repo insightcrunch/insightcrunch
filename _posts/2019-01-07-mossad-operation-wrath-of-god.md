@@ -6,17 +6,17 @@ date: 2019-01-07
 categories: ["Industry"]
 tags: ["mossad", "wrath-of-god", "munich", "israel", "targeted-killings"]
 excerpt: "Inside Mossad's Operation Wrath of God, the two-decade hunt for the Munich Olympics killers that became the operational template for India's shadow war."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2019-01-07
+lang: en
 ---
-
 On a Rome evening in October 1972, a thin, scholarly Palestinian named Wael Zwaiter walked back from a quiet dinner toward his apartment building on the Piazza Annibaliano. He had spent the evening discussing literature. He translated Italian poetry into Arabic and had a gentle reputation among the writers of the city. As he stepped into the dim foyer of his building and pressed the elevator button, two men emerged from the shadows and fired twelve rounds into him at point-blank range. One bullet for each of the eleven Israeli athletes and coaches murdered five weeks earlier in Munich, and one more, by some accounts, for emphasis. The gunmen vanished into a waiting car. No agency claimed the act. No government acknowledged it. A man was simply dead in a stairwell, and the world was meant to draw its own conclusions.
 
 <!--more-->
 
-![Mossad Operation Wrath of God - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Mossad Operation Wrath of God - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 That killing in Rome was the opening move of a campaign that would last more than two decades and reach into a dozen countries. Israel called it Operation Wrath of God, and within the intelligence service it carried the codename Bayonet. It was not a single strike or a brief spasm of revenge. It was a sustained, methodical, deniable programme of state-sponsored assassination conducted against an enemy that lived beyond Israel's borders, in the cities of friendly democracies, under the protection of governments that would never extradite them. The campaign produced spectacular successes and one catastrophic failure. It killed the right men in Paris and the wrong man in Norway. It generated a body of operational knowledge that intelligence services around the world have studied ever since.
 

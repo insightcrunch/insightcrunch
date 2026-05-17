@@ -6,17 +6,17 @@ date: 2019-01-14
 categories: ["Industry"]
 tags: ["mossad", "eichmann", "buenos-aires", "capture", "extraterritorial"]
 excerpt: "How Mossad's 1960 capture of Adolf Eichmann in Buenos Aires set the template for the extraterritorial intelligence operations that nations still follow today."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2019-01-14
+lang: en
 ---
-
 On the evening of May 11, 1960, a tired man in a grey raincoat stepped off a public bus on Route 202 in the working-class suburb of San Fernando, north of Buenos Aires, and began the short walk toward a half-finished brick house on Garibaldi Street. He had made this walk hundreds of times. He was a foreman at a Mercedes-Benz assembly plant, a husband, a father of four, and to his neighbors an unremarkable German immigrant named Ricardo Klement who kept to himself and grew chrysanthemums. Within ninety seconds he would be lying on the floor of a parked Chevrolet with a gloved hand over his mouth and a small team of Israeli intelligence officers driving him toward a rented safe house, and the question of whether a sovereign state could reach across an ocean to seize a wanted man from the soil of another sovereign state would never again be entirely theoretical.
 
 <!--more-->
 
-![Mossad Eichmann Capture Buenos Aires - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Mossad Eichmann Capture Buenos Aires - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The man in the raincoat was Adolf Eichmann, the SS officer who had managed the transport logistics of the Holocaust, the bureaucrat who turned the murder of European Jewry into a problem of railway timetables and deportation quotas. His capture by a Mossad team and his secret removal to Israel for trial was, at the time, understood mostly as an act of belated justice and an extraordinary feat of tradecraft. What it also was, and what this analysis treats as its central subject, is a precedent. The Buenos Aires operation established in practice, and then forced the world to argue about in principle, the proposition that a state could send agents onto another country's territory without permission, locate a person that country had failed to prosecute or extradite, take physical custody of him, and carry him home. Argentina protested at the United Nations. Israel argued exceptional circumstances. The dispute was patched over within months. The precedent did not go away.
 

@@ -6,17 +6,17 @@ date: 2018-10-08
 categories: ["Industry"]
 tags: ["afghanistan", "border", "spillover", "terror", "pakistan", "taliban"]
 excerpt: "How Afghanistan's chronic instability feeds Pakistan's terror infrastructure, the cross-border spillover dynamic, and what it means for India's security."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2018-10-08
+lang: en
 ---
-
 The frontier between Afghanistan and Pakistan runs for roughly 2,600 kilometers across some of the most broken terrain on the planet, and for the better part of half a century it has functioned less as a national boundary than as a single ungoverned theater that two states pretend to divide. The line on the map carries the name of a British colonial administrator. The reality on the ground is a continuous belt of mountains, valleys, smuggling trails, refugee corridors, and militant sanctuaries that no fence has ever fully sealed. Anyone trying to understand how violence aimed at India is produced, sustained, and refreshed has to reckon with this belt, because the threat that reaches Kashmir and the Indian heartland does not originate at the Line of Control. It originates much further west, in a zone where the writ of the Pakistani state thins out, the writ of the Afghan state has effectively dissolved into Taliban rule, and a jihadist ecosystem older than most of the men who staff it keeps regenerating itself.
 
 <!--more-->
 
-![Afghan Border Terror Spillover - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Afghan Border Terror Spillover - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 This region rarely sits at the center of the targeted-killing story. The eliminations that have defined India's covert campaign happened in Karachi apartments, Lahore mosques, Rawalakot prayer halls, and Sialkot streets, not in the Hindu Kush. Yet the Afghan frontier belongs in any honest account of the shadow war for a reason that is structural rather than incidental. The men who were eventually shot in Pakistani cities were, in many cases, products of this belt. They trained in camps that the Afghan jihad of the 1980s first established. They absorbed an ideology that crossed and recrossed the mountains for four decades. They moved through a corridor that no government has ever controlled, and they belonged to organizations whose survival depends on the strategic depth that Afghanistan provides. To map the safe haven and ignore the country next door would be to study a body without acknowledging its bloodstream.
 

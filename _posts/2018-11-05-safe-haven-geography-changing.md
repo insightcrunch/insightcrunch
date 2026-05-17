@@ -6,17 +6,17 @@ date: 2018-11-05
 categories: ["Industry"]
 tags: ["safe-haven", "geography", "changing", "pakistan", "shadow-war", "future"]
 excerpt: "How the shadow war is shrinking the geographic safety net for wanted terrorists across Pakistan, city by city, from Karachi to Lahore to Rawalpindi and PoK."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2018-11-05
+lang: en
 ---
-
 In 2021, a man wanted by India for mass murder could choose almost any address in Pakistan and sleep soundly at it. He could rent a house in a Karachi suburb, take a flat in central Lahore, settle near the garrison in Rawalpindi, or run a seminary in a Khyber Pakhtunkhwa border town. Geography itself was a form of protection. The distance from the Indian border, the density of a Pakistani city, the proximity of an army cantonment, the lawlessness of a tribal district: each of these was a defensive asset, and a wanted man could combine them to build a personal fortress out of nothing more than location. The safe haven was not a single place. It was a property of the whole map.
 
 <!--more-->
 
-![Map of Pakistan showing how the geography of terror safe havens has contracted under the shadow war](/assets/images/blog/blog-03.webp)
+![Map of Pakistan showing how the geography of terror safe havens has contracted under the shadow war](/assets/images/blog/blog-42.webp)
 
 That map no longer offers what it once did. Over roughly five years, a campaign of targeted eliminations has moved across the Pakistani landscape with a logic that becomes visible only when the individual killings are plotted geographically rather than chronologically. The first strikes clustered in places where a foreign hand was easy to imagine: chaotic Karachi, where a body in a working-class lane attracts little official curiosity, and the border districts where smuggling and infiltration already blur the line between civilian and combatant. Then the campaign reached inward. It touched Sialkot, where a figure linked to the Pathankot airbase attack was shot dead inside a mosque. It reached Rawalpindi, the city the Pakistan Army controls more tightly than any other. It crossed the Line of Control into Pakistan-Occupied Kashmir. By 2026 it had penetrated Lahore, the cultural capital and the home of the country's most carefully protected militant leadership. The geographic safety net was not removed in a single act. It was shredded, one city at a time, until the wanted men of Pakistan could no longer point to a single province and call it secure.
 

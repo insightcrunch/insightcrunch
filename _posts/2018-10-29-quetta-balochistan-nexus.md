@@ -6,17 +6,17 @@ date: 2018-10-29
 categories: ["Industry"]
 tags: ["quetta", "balochistan", "taliban-shura", "terror-nexus", "afghanistan"]
 excerpt: "How Quetta and the wider Balochistan region connect the Afghan Taliban shura, Baloch separatists, and India-focused militant supply lines into one ecosystem."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2018-10-29
+lang: en
 ---
-
 A city that sits closer to Kandahar than to Karachi has spent two decades hosting the men who plan a war in another country. Quetta, the provincial capital of Balochistan, became internationally known not for anything that happened inside it but for a council of Afghan clerics who used it as a base. The leadership body that the world came to call the Quetta Shura gave this dusty highland town a permanent place in the vocabulary of South Asian conflict, and the name stuck long after the men it described had scattered. Yet that council was only the most visible layer of a far more tangled arrangement. Balochistan's largest urban center functions as a junction where several distinct armed projects, each aimed at a different adversary, draw on the same logistical environment: the same arms bazaars, the same smuggling corridors, the same web of safe houses and sympathetic facilitators. Anyone trying to understand why the place matters to the long campaign against India must separate those layers carefully and stay honest about which connections are direct and which are merely structural.
 
 <!--more-->
 
-![Quetta and the Balochistan Terror Nexus - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Quetta and the Balochistan Terror Nexus - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 That honesty is the organizing principle of this analysis. Lahore shelters the headquarters of Lashkar-e-Taiba. Bahawalpur shelters the headquarters of Jaish-e-Mohammed. Rawalpindi sits a short drive from the residences of men who have spent careers planning violence against Indian targets. Balochistan's capital offers nothing so neat. No anti-India organization keeps its central office here. No major plot against an Indian city has been traced to a planning cell in this region. If the shadow war is a story about hunting men who organized attacks on India, then this provincial capital is, at first glance, a marginal character. The argument of this piece is that the marginality is the point. The city earns its place in the wider story not as a command node but as a backend, a part of the supply chain that keeps the storefront stocked even when the storefront faces a different direction entirely. To see that, the reader has to look past the headline name and study the plumbing.
 
