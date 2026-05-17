@@ -9,7 +9,7 @@ excerpt: "The complete history of Mossad's targeted killings from the Munich Oly
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2012-11-04
+last_updated: 2026-05-17
 lang: en
 ---
 Israel's intelligence agency has been killing its enemies on foreign soil for more than six decades, and the world has largely accepted it. From the revenge squads that hunted Black September operatives across European capitals in the 1970s to the remote-controlled machine gun that eliminated Iran's top nuclear scientist on a highway east of Tehran in 2020, the Mossad has built and refined the most sustained, most documented, and most legally scrutinized state assassination program in modern history. No other intelligence agency has conducted targeted killings across so many countries, over so many decades, with so many methods, and with such a complex relationship between official acknowledgment and operational deniability. Understanding this program is not merely an exercise in intelligence history. It is a prerequisite for understanding every subsequent state that has adopted, adapted, or rejected the Israeli model, including India's own emerging shadow war against terrorists sheltered on Pakistani soil.

@@ -9,7 +9,7 @@ excerpt: "How India's covert operations doctrine evolved from defensive intellig
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 70
 author: "gregory-marsh"
-last_updated: 2012-09-17
+last_updated: 2026-05-17
 lang: en
 ---
 India's approach to covert action against cross-border terrorism has undergone three distinct transformations since the Research and Analysis Wing was established in September 1968, each triggered by a catastrophic failure of the preceding framework, and each expanding the boundaries of what New Delhi considered permissible in its confrontation with Pakistan-sponsored violence.

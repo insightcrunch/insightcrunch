@@ -9,7 +9,7 @@ excerpt: "Why the May 2025 India-Pakistan ceasefire is considered fragile, what 
 image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2012-08-06
+last_updated: 2026-05-17
 lang: en
 ---
 At 5:00 PM Indian Standard Time on May 10, 2025, the guns fell silent between two nuclear-armed nations that had spent four days firing missiles, launching drone swarms, and shelling each other across one of the most militarized borders on earth. The Director General of Military Operations hotline between Rawalpindi and New Delhi carried the message that ended the most dangerous military confrontation in South Asia since the Kargil War of 1999. Within minutes, United States President Donald Trump posted on Truth Social claiming credit for brokering the deal. India's Foreign Secretary Vikram Misri confirmed the agreement but insisted it had been worked out bilaterally. Pakistan's Foreign Minister Ishaq Dar announced that thirty-six countries had helped broker the truce. Three versions of the same event, each tailored to a different domestic audience, each telling a fundamentally different story about who had blinked, who had won, and who had saved the subcontinent from nuclear catastrophe.

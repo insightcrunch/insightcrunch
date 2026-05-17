@@ -9,7 +9,7 @@ excerpt: "A complete history of India-Pakistan diplomatic breakdowns from Partit
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2012-10-03
+last_updated: 2026-05-17
 lang: en
 ---
 India and Pakistan have experienced a major bilateral crisis roughly every five years since Partition in 1947, and not one of those crises has produced a resolution that survived the next provocation. The pattern is not accidental, not the product of bad luck or poor leadership at inopportune moments, but structural: rooted in irreconcilable territorial claims over Kashmir, reinforced by domestic political incentives on both sides that reward confrontation over compromise, and sustained by a cross-border proxy apparatus that manufactures crises faster than diplomats can contain them. Seventy-eight years of summits, agreements, back-channel conversations, confidence-building measures, and international mediation have produced exactly zero durable outcomes. The shadow war, India's alleged campaign of [covert eliminations on Pakistani soil](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/), exists precisely because this history of diplomatic failure left New Delhi with no other instrument it considered credible.

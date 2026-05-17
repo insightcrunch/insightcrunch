@@ -9,7 +9,7 @@ excerpt: "How India turned the sixty-five-year-old Indus Waters Treaty into a st
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2012-10-11
+last_updated: 2026-05-17
 lang: en
 ---
 On April 23, 2025, one day after gunmen killed twenty-six tourists at the Baisaran meadow near Pahalgam in Indian-administered Kashmir, India's government announced that it was placing the Indus Waters Treaty in abeyance. The decision, communicated without advance notice to Islamabad and without consultation with the World Bank that had brokered the original agreement in 1960, immediately halted all facets of bilateral water cooperation: data sharing on river flows, joint oversight through the Permanent Indus Commission, flood forecasting exchanges, and any form of institutional dialogue. Within eleven days, India lowered the sluice gates of the Baglihar Dam on the Chenab River in Ramban district, Jammu and Kashmir, reducing downstream flow to Pakistan's Punjab province from approximately 29,000 cusecs to 11,000 cusecs. By May 12, monitoring stations at Head Marala recorded flows as low as 3,100 cusecs. For the first time in sixty-five years, water had become a weapon in the India-Pakistan confrontation, and the resource that sustains eighty percent of Pakistan's cultivated farmland was no longer guaranteed by treaty.

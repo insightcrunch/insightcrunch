@@ -9,7 +9,7 @@ excerpt: "How the United States claimed to broker the 2025 ceasefire between two
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "abigail-cooper"
-last_updated: 2012-10-19
+last_updated: 2026-05-17
 lang: en
 ---
 On the morning of May 10, 2025, while the Directors General of Military Operations of India and Pakistan were still communicating through a bilateral hotline established decades earlier, Donald Trump posted on Truth Social that he had brokered peace between two nuclear-armed nations. The post arrived before either government had formally announced a ceasefire. It arrived before the terms were finalized. It arrived, in the assessment of senior Indian officials, with the diplomatic subtlety of a freight train crashing through a china shop. Within thirty minutes, Foreign Secretary Vikram Misri held a special briefing that made no mention of the United States, declaring that the ceasefire had been worked out directly between India and Pakistan through existing military channels. Pakistan's Prime Minister Shehbaz Sharif, by contrast, rushed to thank Trump for his "leadership and proactive role." Two nuclear powers had stopped shooting at each other, and the first diplomatic battle of the post-ceasefire era was already about who deserved the credit.

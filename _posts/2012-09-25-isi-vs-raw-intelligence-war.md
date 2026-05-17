@@ -9,7 +9,7 @@ excerpt: "The decades-long intelligence war between Pakistan's ISI and India's R
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2012-09-25
+last_updated: 2026-05-17
 lang: en
 ---
 For four decades, the contest between Pakistan's Inter-Services Intelligence and India's Research and Analysis Wing was asymmetric in Pakistan's favor. The directorate in Rawalpindi ran proxy wars across the Line of Control, infiltrated trained fighters into Indian territory, coordinated attacks on Indian soil from the 2001 Parliament siege to the 2008 Mumbai massacre, and managed a network of militant organizations whose collective body count runs into the tens of thousands. India's external agency, by contrast, gathered information, filed assessments, and watched as Pakistani-sponsored attacks killed Indian citizens with near-impunity. Islamabad's spy service shaped events; New Delhi's spy service documented them. That asymmetry defined the relationship between the two agencies for most of their shared history, and it is the asymmetry that the shadow war has upended.

@@ -9,7 +9,7 @@ excerpt: "The first drone battle between two nuclear-armed nations during the In
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2012-08-22
+last_updated: 2026-05-17
 lang: en
 ---
 On the night of May 7, 2025, the skies above the western India-Pakistan border became the testing ground for a form of combat that military theorists had predicted for decades but no two nuclear-armed states had ever attempted against each other. Hundreds of unmanned aerial vehicles, some armed with machine guns and grenade launchers, others carrying high-explosive warheads designed to detonate on impact, crossed from Pakistani airspace into Indian territory across thirty-six separate intrusion points stretching from Leh in the north to Sir Creek in the south. India's response combined kinetic interception with electronic warfare, blending Cold War-era anti-aircraft guns with cutting-edge Israeli-origin loitering munitions. Within seventy-two hours, both nations had deployed, intercepted, and destroyed more combat-capable unmanned platforms than most military forces had ever fielded in a single engagement. South Asia's first full-scale aerial confrontation was not fought primarily by pilots in cockpits but by operators at screens, programmers adjusting algorithms, and autonomous systems hunting for radar emissions in the dark.

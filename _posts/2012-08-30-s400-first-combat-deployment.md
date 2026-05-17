@@ -9,7 +9,7 @@ excerpt: "India deployed its Russian-built S-400 Triumf air defense system in co
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "kevin-reeves"
-last_updated: 2012-08-30
+last_updated: 2026-05-17
 lang: en
 ---
 Every weapons platform eventually faces a moment when theory yields to practice, when the carefully curated brochure specifications and controlled test-range demonstrations give way to the chaos of live fire, electronic jamming, and an adversary actively trying to overwhelm, evade, or destroy the system before it can function as advertised. For Russia's Triumf long-range surface-to-air missile platform, that moment arrived during the four days of the India-Pakistan military confrontation in May 2025, when Indian Air Force batteries designated Sudarshan Chakra found themselves tracking, targeting, and engaging hostile aircraft, cruise missiles, and unmanned aerial vehicles in the most consequential air defense engagement since the Gulf War. What happened over those eighty-eight hours transformed a procurement controversy into a strategic vindication, reshaped the global air defense market, and gave India a proven capability that no amount of controlled testing could have provided.

@@ -9,7 +9,7 @@ excerpt: "Every escalation of the 2025 India-Pakistan crisis reconstructed day b
 image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
 author: "jason-mckenzie"
-last_updated: 2012-07-29
+last_updated: 2026-05-17
 lang: en
 ---
 Nineteen days separated a tourist massacre from a ceasefire between two nuclear-armed nations, and every one of those days brought an escalation that the previous day had not prepared for. From April 22 to May 10, 2025, the Indian subcontinent experienced the most dangerous military confrontation since the Kargil crisis of 1999, a confrontation that compressed diplomatic breakdown, economic warfare, water weaponization, missile strikes, artillery bombardment, aerial combat, and drone warfare into less than three weeks. No crisis in the history of nuclear deterrence theory has moved this fast across this many escalation thresholds, and no two nuclear powers have exchanged this much ordnance since the concept of mutually assured destruction was supposed to make such exchanges unthinkable.

@@ -9,7 +9,7 @@ excerpt: "A systematic comparison of America's drone campaign and India's shadow
 image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "thomas-reid"
-last_updated: 2012-11-12
+last_updated: 2026-05-17
 lang: en
 ---
 Between 2004 and 2018, the United States flew MQ-1 Predator and MQ-9 Reaper drones over Pakistan's Federally Administered Tribal Areas, launching over 430 strikes that killed between 2,366 and 3,702 people by the Bureau of Investigative Journalism's count. Thousands of miles away, operators at Creech Air Force Base in Nevada watched grainy infrared feeds, confirmed targets through chain-of-command protocols, and pressed buttons that released Hellfire missiles onto compounds in North and South Waziristan. Beginning around 2021, a different campaign emerged on Pakistani soil. Unidentified gunmen riding motorcycles through the crowded streets of Karachi, Lahore, and Rawalpindi began shooting designated militants at close range, often during prayer time, often within meters of their target, and disappearing into traffic within seconds. The two campaigns share a common theater and a common objective, but almost nothing else.

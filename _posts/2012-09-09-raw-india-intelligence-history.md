@@ -10,7 +10,7 @@ image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "ian-fletcher"
 slug: "raw-india-intelligence-history"
-last_updated: 2012-09-09
+last_updated: 2026-05-17
 lang: en
 ---
 On September 21, 1968, an organization was born in secrecy that would, over the next five decades, help create a nation, annex a kingdom, arm a rebel force that turned against its creators, and allegedly evolve into an instrument of targeted killing on foreign soil. The Research and Analysis Wing, known universally as RAW, began with 250 employees, an annual budget of roughly twenty million rupees, and a founding chief named Rameshwar Nath Kao whose personal discretion was so absolute that he left behind almost no written records, gave no public interviews, and remains to this day one of the most consequential yet invisible figures in Indian history. What Kao built in 1968 as a defensive intelligence-gathering apparatus has allegedly transformed, through five distinct institutional eras, into an agency whose operational reach now extends to targeted eliminations inside a nuclear-armed neighbor's borders. That transformation, from espionage to alleged assassination, is the institutional story behind India's shadow war, and understanding it requires tracing RAW's complete arc from its origins to the present.

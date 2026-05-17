@@ -9,7 +9,7 @@ excerpt: "After the Pahalgam massacre and Operation Sindoor, India abandoned thr
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2012-08-14
+last_updated: 2026-05-17
 lang: en
 ---
 On the afternoon of April 22, 2025, five gunmen entered the Baisaran Valley meadow near the Kashmiri resort town of Pahalgam and systematically murdered twenty-six tourists after reportedly separating victims by religious identity. Within forty-eight hours, New Delhi had suspended the Indus Waters Treaty, revoked all Pakistani visas, closed the Wagah border crossing, expelled Pakistani military attaches, recalled its own diplomats from Islamabad, and halted bilateral trade. Within fourteen days, Indian missiles struck nine sites across Pakistan and Pakistan-occupied Kashmir. Within three months, Prime Minister Narendra Modi had articulated a new national security posture that differed from every preceding formulation in one critical respect: it contained no off-ramp. The post-Pahalgam framework was not a crisis response calibrated to return to normalcy once tensions cooled. It was a permanent structural realignment of how India relates to Pakistan, one built on the explicit premise that engagement, trade, water sharing, and diplomatic courtesy are conditional on Pakistan's complete cessation of support for cross-border terrorism.

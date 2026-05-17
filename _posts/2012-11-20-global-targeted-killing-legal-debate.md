@@ -9,7 +9,7 @@ excerpt: "The global legal debate on targeted killings and why international law
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2012-11-20
+last_updated: 2026-05-17
 lang: en
 ---
 International law on targeted killing is not settled. It is contested. The same act, killing a designated terrorist on foreign soil, is simultaneously justified under the self-defense doctrine enshrined in Article 51 of the United Nations Charter, prohibited under the sovereignty provisions of Article 2(4), and conditionally permitted under international humanitarian law if the target qualifies as a direct participant in hostilities. Five countries currently operate or have recently operated programs that depend on this legal ambiguity: Israel, the United States, Russia, India, and the United Kingdom through its intelligence-sharing complicity. Each country has constructed a different legal architecture, or deliberately refused to construct one, around the same fundamental act. None of them has resolved the ambiguity. Every one of them exploits it.
