@@ -6,17 +6,17 @@ date: 2015-07-04
 categories: ["Leisure"]
 tags: ["byzantine-empire", "eastern-roman-empire", "constantinople", "medieval-history", "byzantine-history", "ancient-history"]
 excerpt: "The Byzantine Empire is the Eastern Roman Empire. The Rhomaioi called themselves Romans for a thousand years. Byzantine is a 1557 scholarly invention."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-07-04
+lang: en
 ---
-
 No document survives, written by the people it supposedly describes, that uses the word "Byzantine." For eleven centuries, from the moment Constantine I dedicated his new capital on the Bosporus in 330 CE to the morning of May 29, 1453, when Ottoman troops poured through the shattered Theodosian Walls, the inhabitants of the Eastern Roman realm called themselves Rhomaioi - Romans. Their empire was the Basileia ton Rhomaion, the Empire of the Romans. The sovereign carried the title Basileus ton Rhomaion. "Byzantine" entered scholarly vocabulary in 1557 through a German humanist named Hieronymus Wolf who needed a label for a body of Greek historical texts, and it migrated into popular usage over the following centuries until it came to seem like the natural, inevitable name for this civilization. It was not. Rather, it is a sixteenth-century scholarly convenience that has functioned, over four centuries of uncritical repetition, as a quiet mislabeling - one that suggests the Eastern Roman realm was something fundamentally different from what its residents understood themselves to be running and living inside.
 
 <!--more-->
 
-![Byzantine Empire Eastern Roman Continuation Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Byzantine Empire Eastern Roman Continuation Explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 Defending a specific claim is the purpose of this article: the realm that Constantine founded at Constantinople in 330 CE and that Constantine XI died defending in 1453 was the same realm, in Roman legal self-identification and institutional continuity, that Augustus had established when he accepted the title of Princeps in 27 BCE. Understanding that claim requires reconstructing the empire's full arc across eleven centuries, engaging the scholarly debate that Anthony Kaldellis's 2019 Romanland and 2024 The New Roman Empire have reopened, and asking what the mislabeling has cost in historical understanding. At minimum, it has cost the set of comparisons the "Byzantine" label discourages. An empire that lasted eleven hundred years, transmitted Roman law to European legal systems, organized the Orthodox Christianity now practiced by 300 million people, and created the Cyrillic alphabet for Slavic languages is not a medieval footnote. Calling it what it called itself is both an act of historical accuracy and a prerequisite for understanding it analytically.
 

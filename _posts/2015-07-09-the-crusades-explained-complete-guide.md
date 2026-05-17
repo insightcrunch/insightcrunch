@@ -6,19 +6,19 @@ date: 2015-07-09
 categories: ["Leisure"]
 tags: ["crusades", "medieval-warfare", "holy-land", "urban-ii", "islamic-perspective", "medieval-history"]
 excerpt: "The Crusades were not a clash of civilizations. They were two centuries of European internal politics, projected eastward under a sincere religious frame."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-07-09
+lang: en
 ---
-
 The word Crusades arrives in most minds already shaped. It suggests eight numbered expeditions, two clean centuries, a contest between Christianity and Islam, and a confrontation between civilizations with a recognizable beginning and a recognizable end. Almost every element of that shape is a later invention. People who marched east in the year 1095 did not call themselves crusaders, because the term did not yet exist in that sense; the Latin vocabulary that produced the English noun entered common Western usage only in the thirteenth century, well after the First Crusade had passed out of living memory. The numbered sequence that schoolchildren memorize was imposed by scholars writing long after the last expedition sailed. Chroniclers in the Islamic world rarely described a single unified phenomenon at all, referring instead to wars against the Franks, or folding the arrival of the Latins into the ordinary turbulence of regional politics. Before any of this can be explained, the frame around it has to be loosened.
 
 <!--more-->
 
 What survives that loosening is still a real and consequential thing. Between the Council of Clermont in November 1095 and the fall of Acre in May 1291, hundreds of thousands of people from Western Europe traveled to the Eastern Mediterranean to fight, settle, govern, trade, and die under a banner that fused armed pilgrimage with holy war. They established four Latin principalities along the Levantine coast, captured and lost Jerusalem more than once, sacked the largest Christian city in the world, and built an institutional apparatus, the military religious orders, that outlived the expeditions themselves. These events were neither imaginary nor trivial. They were simply not the tidy civilizational duel that later memory made of them.
 
-![The Crusades Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Crusades Explained - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This guide argues a specific thesis. The Crusades are best understood as European internal politics projected outward under a religious frame. The religious motivation was genuine, widespread, and central; it was not a cynical cover for economic appetite, and treating it as one misreads the surviving evidence badly. Yet the impulse to take the cross did not float free of circumstance. Its targets, its timing, its leadership, its logistics, and its long aftermath were all governed by conditions inside Latin Christendom: a reforming papacy fighting for authority over kings, an aristocracy whose habits of violence the Church wanted to redirect, an expanding commercial economy with maritime ambitions, and an urgent appeal for help from a Byzantine emperor. The expeditions happened because Europe in the late eleventh century was a particular kind of place. Understanding them means understanding that place first.
 

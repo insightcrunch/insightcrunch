@@ -6,17 +6,17 @@ date: 2015-07-24
 categories: ["Leisure"]
 tags: ["mongol-empire", "genghis-khan", "medieval-asia", "steppe-empires", "pax-mongolica", "medieval-history"]
 excerpt: "The Mongol Empire was history's largest contiguous land empire and its most misunderstood. The atrocities were real, and the institutional innovations were too."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-07-24
+lang: en
 ---
-
 The Mongol Empire was the largest contiguous land empire in the history of the world, and also the most misunderstood. At its territorial peak it governed close to twenty-four million square kilometers, near a sixth of the planet's land surface, reaching from the Pacific shoreline of Korea to the plains beyond the Danube and from the Siberian forest belt to the warm coast of the Persian Gulf. A loose confederation of nomadic herders assembled it in three generations, and when the man who would unify those herders was born they did not even share a single name for themselves. How that confederation came together, what it then did to the settled civilizations around it, and what it left behind are the questions this account sets out to answer without flinching from either half of the story.
 
 <!--more-->
 
-![The Mongol Empire and Genghis Khan - Insight Crunch](/assets/images/blog/blog-05.webp)
+![The Mongol Empire and Genghis Khan - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Two incompatible stories tend to circulate about this empire. In the older one the Mongols are a hurricane of destruction, a mounted horde that burned libraries, raised pyramids of skulls outside conquered cities, and set the development of half a continent back by a century. In the newer one, popularized above all by Jack Weatherford's widely read book on Genghis Khan, the Mongols become unsung modernizers who guaranteed safe trade across Eurasia, practiced religious tolerance as deliberate policy, and stitched the medieval world into something close to a single connected system. The argument advanced here is that the choice between these stories is a false one. The killing was real and is attested by detailed and often eyewitness sources. The administrative innovation was real and is attested by the same kind of sources. Honest scholarship holds both truths at once and refuses to let either erase the other.
 

@@ -6,17 +6,17 @@ date: 2015-07-19
 categories: ["Leisure"]
 tags: ["viking-age", "vikings", "medieval-scandinavia", "viking-diaspora", "norse-expansion", "medieval-history"]
 excerpt: "Vikings were not only raiders but also traders, settlers, explorers, mercenaries, and administrators whose vast diaspora reshaped early medieval Europe."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-07-19
+lang: en
 ---
-
 On the eighth of June in the year 793, a Northumbrian monastery on the tidal island of Lindisfarne was attacked by men who had arrived from across the North Sea, and the chronicler who recorded the event reached for the language of apocalypse. The Anglo-Saxon Chronicle described heathen men who plundered the holy site, killed monks, and carried off treasure that had been gathered to honor a Christian God who, in the chronicler's understanding, had permitted the desecration as a sign of coming judgment. That single sentence in a monastic record has done more to shape the popular idea of the Viking than any other source, and it has done so misleadingly. The raid on Lindisfarne was real, violent, and traumatic for the community that suffered it. It was also the smallest part of a far larger story.
 
 <!--more-->
 
-![Viking longships and Norse expansion across early medieval Europe - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Viking longships and Norse expansion across early medieval Europe - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The men who sacked that monastery belonged to a movement that historians now describe with a word the monastic chroniclers never used: diaspora. Over roughly three centuries, between the Lindisfarne attack and the year 1066, people from what are now Norway, Denmark, and Sweden spread across an astonishing geographic range. They founded the polity that would become the Russian state. They served as the personal bodyguard of the Byzantine emperor in Constantinople. They settled an empty Iceland, colonized Greenland, and reached the coast of North America five centuries before Columbus. They carved out a zone of Norse law across northern and eastern England, and they planted a colony in northern France whose descendants would conquer England in the very year the Viking Age is conventionally said to end. The raids appear in the Anglo-Saxon Chronicle because chroniclers recorded catastrophes. The settlements, the trade routes, and the new states changed history, and they did so quietly enough that they have been undervalued for a thousand years.
 

@@ -6,17 +6,17 @@ date: 2015-07-14
 categories: ["Leisure"]
 tags: ["black-death", "medieval-plague", "yersinia-pestis", "pandemic-history", "medieval-europe", "medieval-history"]
 excerpt: "The Black Death killed 30 to 60 percent of Europe in just seven years, and no single event in European history has had consequences of a comparable scale."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-07-14
+lang: en
 ---
-
 In October of 1347, a small fleet of Genoese trading galleys put in at the harbor of Messina, on the northeastern tip of Sicily. The men aboard were sick, and many of them were already dead. The Sicilian chronicler Michele da Piazza, writing soon afterward, described sailors carrying a sickness so virulent that anyone who merely spoke with them seemed to catch it. The harbor authorities, recognizing something was badly wrong, ordered the ships back out to sea. They were far too late. Within months the sickness had moved through the ports of the Mediterranean basin, and within four years it had reached the Atlantic coast of Portugal, the cities of the North Sea, the cold valleys of Norway, and the trading towns of Rus. Between the autumn of 1347 and the end of 1353, this single epidemic killed somewhere between a third and three-fifths of every person alive in Europe.
 
 <!--more-->
 
-![The Black Death Explained - Insight Crunch](/assets/images/blog/blog-03.webp)
+![The Black Death Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 That range of estimates is not a sign of confusion. It reflects genuine regional variation that aggregate figures hide. The Norwegian historian Ole Benedictow, whose exhaustive 2004 reconstruction remains the most detailed demographic study of the disaster, argues for a figure near sixty percent of the European population. Older twentieth-century scholarship preferred something closer to a third. Both can be partly correct, because dense Italian cities lost catastrophic proportions of their residents while remote upland districts lost far fewer. What no serious estimate disputes is the order of magnitude. Out of a pre-plague European population of roughly seventy-five to eighty million people, the epidemic of 1346 to 1353 killed something between twenty-five and fifty million in the space of seven years. There is no rival for that statistic in the documented history of the continent.
 
