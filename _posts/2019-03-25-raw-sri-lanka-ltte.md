@@ -6,17 +6,17 @@ date: 2019-03-25
 categories: ["Industry"]
 tags: ["raw", "sri-lanka", "ltte", "tamil-tigers", "operations", "lessons"]
 excerpt: "How RAW armed and trained the Tamil Tigers in the 1980s, then sent the IPKF to fight them, and why that reversal still shapes Indian covert doctrine today."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2019-03-25
+lang: en
 ---
-
 In the autumn of 1987, Indian soldiers who had crossed the Palk Strait expecting flowers and gratitude found themselves pinned down in the lanes of Jaffna by fighters who knew their weapons, their tactics, and their radio frequencies. The fighters knew those things because India had taught them. A few years earlier, in camps tucked into the hills of Tamil Nadu and the forests of Uttar Pradesh, instructors paid by the Indian state had drilled young Tamil men in marksmanship, demolitions, and guerrilla movement. Those same young men were now killing the soldiers of the country that had armed them. No single episode in the history of India's external intelligence service captures the danger of covert proxy warfare more completely than this one, and none has cast a longer shadow over how New Delhi thinks about secret operations abroad.
 
 <!--more-->
 
-![RAW Sri Lanka LTTE Operations](/assets/images/blog/blog-02.webp)
+![RAW Sri Lanka LTTE Operations](/assets/images/blog/blog-33.webp)
 
 This is the story of the operation that intelligence officers in India still discuss in lowered voices, the campaign that began as a calculated geopolitical move and ended with a former prime minister torn apart by a suicide bomber on a campaign stage in his own country. It is the account of how the Research and Analysis Wing trained and equipped Sri Lankan Tamil insurgents, how the most capable of those insurgents grew into a force that India could neither control nor abandon, and how the resulting catastrophe rewired the doctrine that governs every covert decision India has made since. The campaign against the Tamil Tigers is the negative precedent that hangs over the country's modern shadow war, the cautionary tale that explains why India today prefers to eliminate its enemies rather than to arm anyone against them.
 

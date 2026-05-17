@@ -6,17 +6,17 @@ date: 2019-02-04
 categories: ["Industry"]
 tags: ["us-drone-program", "pakistan", "gwot", "targeted-killings", "cia", "comparison"]
 excerpt: "Between 2004 and 2018 the United States flew hundreds of drone strikes over Pakistan, killing thousands. Here is how the secret campaign worked and ended."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-02-04
+lang: en
 ---
-
 For fourteen years a foreign power killed people inside Pakistan almost every week, and Pakistan's government publicly objected to every single death while privately clearing many of them. The United States flew remotely piloted aircraft over the mountains of the northwest, watched suspected militants through cameras controlled from a desert base in Nevada, and fired missiles that landed in compounds, on vehicles, at funerals, and occasionally on the wrong house. By the time the last Hellfire missile struck the tribal belt, the Central Intelligence Agency had conducted more than four hundred strikes and ended somewhere between two and a half thousand and four thousand lives. The aerial campaign over the Federally Administered Tribal Areas became the most extensive program of cross-border killing any state had run in the modern era, and it unfolded on the soil of a nominal American ally.
 
 <!--more-->
 
-![US Drone Program in Pakistan - Insight Crunch](/assets/images/blog/blog-10.webp)
+![US Drone Program in Pakistan - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 That campaign matters far beyond its own grim arithmetic. It established, in plain view of the world, that the territory of a nuclear-armed state could be struck repeatedly by an outside power without the relationship collapsing, without a war, and without consequences severe enough to make the striking power stop. Washington proved that Pakistan was penetrable, that Pakistan's protests could be absorbed, and that the political cost of killing terrorists on Pakistani ground was survivable. A decade later, when [unknown gunmen began eliminating India's most wanted on the same soil](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/), the precedent was already set. New Delhi did not copy the American method. It studied what the American method revealed and chose a quieter instrument. To understand why India reaches for motorcycles and pistols rather than missiles and aircraft, it helps first to understand the program that came before, what it accomplished, what it destroyed, and why it eventually ground to a halt.
 

@@ -6,17 +6,17 @@ date: 2019-03-18
 categories: ["Industry"]
 tags: ["raw", "bangladesh", "1971", "liberation", "covert-operation", "mukti-bahini"]
 excerpt: "How RAW's covert backing of the Mukti Bahini in 1971 became India's first great intelligence triumph and the founding blueprint for operations to come."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2019-03-18
+lang: en
 ---
-
 On the damp afternoon of December 16, 1971, on a polo ground in central Dhaka, Lieutenant General Amir Abdullah Khan Niazi of the Pakistan Army signed an instrument of surrender and handed roughly ninety-three thousand soldiers and officials into the custody of a joint Indian and Bengali command. It was the largest military capitulation since the Second World War, and it closed a nine-month campaign of mass killing that had pushed close to ten million refugees across the border into Indian territory. A new country stood where the eastern wing of Pakistan had stood that morning. The surrender photographs show Indian generals seated beside Bengali commanders, and the official account credits the Indian Army and the Mukti Bahini for the victory. What the photographs do not show, and what the official account was careful never to spell out, is the contribution of an organization barely three years old whose name almost no one on that polo ground would have recognized.
 
 <!--more-->
 
-![RAW Bangladesh 1971 Liberation operation reconstruction](/assets/images/blog/blog-01.webp)
+![RAW Bangladesh 1971 Liberation operation reconstruction](/assets/images/blog/blog-63.webp)
 
 That organization was the Research and Analysis Wing, the external intelligence service Indira Gandhi had carved out of the Intelligence Bureau in September 1968 and placed under a quiet, cultured police officer named Rameshwar Nath Kao. When the eastern crisis broke in March 1971, the agency had existed for less than thirty months. It had no operational history to speak of, no reputation, and no proof that the decision to build a dedicated foreign intelligence arm had been worth the political capital Indira spent on it. Nine months later it had helped raise a guerrilla army, run training camps along a border fifteen hundred kilometres long, supplied the Indian military with a detailed picture of the enemy it would face, and midwifed a sovereign state. No covert undertaking in Indian history before or since has produced a result on that scale.
 

@@ -6,17 +6,17 @@ date: 2019-04-08
 categories: ["Industry"]
 tags: ["raw", "pakistan", "covert-operations", "history", "intelligence", "shadow-war"]
 excerpt: "The complete history of RAW covert operations inside Pakistan, from the 1971 war through the Balochistan question to the present-day shadow war campaign."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2019-04-08
+lang: en
 ---
-
 When unknown gunmen on a motorcycle shot a Lashkar-e-Taiba commander outside a mosque in Punjab and vanished into traffic before the body hit the pavement, much of the commentary treated the killing as something new. It was described as a sudden departure, a doctrine invented overnight, a campaign that materialized from nowhere. That framing is wrong, and the error matters. The men who plan operations of this kind do not begin from a blank page. They begin from files, from networks of informers built over decades, from courier routes already mapped, from safe addresses already known. The lethal effort that has eliminated dozens of wanted men on Pakistani soil since 2021 did not start in 2021. It began fifty years earlier, in a war that proved India could reach inside its rival and reshape the map of South Asia.
 
 <!--more-->
 
-![RAW operations inside Pakistan, a history of India's covert footprint](/assets/images/blog/blog-04.webp)
+![RAW operations inside Pakistan, a history of India's covert footprint](/assets/images/blog/blog-09.webp)
 
 This is the story of how the Research and Analysis Wing came to operate inside the one country it was, in a sense, created to watch. The agency's footprint in Pakistan is the longest-running and least understood chapter of its institutional life. Pakistani officials describe a vast Indian penetration, agents in every city, sleeper cells in every province, a hidden hand behind every misfortune. New Delhi describes nothing at all, because it has never confirmed a single mission. The truth, as it almost always does in the trade of espionage, sits in the contested space between a government that exaggerates and a government that denies. What follows is an attempt to map that space honestly, era by era, from the founding triumph of 1971 to the shadow war of the present decade, and to argue a single proposition. The lethal effort of today rests on an inheritance, and the inheritance is the real subject.
 

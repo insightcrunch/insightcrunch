@@ -6,17 +6,17 @@ date: 2019-02-18
 categories: ["Industry"]
 tags: ["kgb", "assassination", "russia", "trotsky", "litvinenko", "intelligence"]
 excerpt: "The history of KGB assassination operations, from Trotsky's ice axe in 1940 to the Litvinenko polonium case, and the Soviet doctrine of killing to be seen."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-02-18
+lang: en
 ---
-
 On a quiet residential street in Coyoacan, a leafy borough of Mexico City, an exiled revolutionary sat at his desk reading a manuscript handed to him by a young man he believed was a sympathizer. The visitor stood behind him, drew a shortened mountaineering axe from beneath his raincoat, and brought it down on the back of the reader's skull. The victim screamed, fought back, and lived through the night before dying the following day. The man at the desk was Leon Trotsky, co-architect of the Bolshevik Revolution and Joseph Stalin's most hated rival. The killing of August 1940 was not a crime of passion or a private vendetta. It was a state operation, planned over years, funded from Moscow, and executed by an apparatus whose descendants would still be staging similar killings on foreign soil eight decades later.
 
 <!--more-->
 
-![KGB Assassination Operations History - Insight Crunch](/assets/images/blog/blog-12.webp)
+![KGB Assassination Operations History - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 That apparatus has changed its name many times. It was the Cheka, then the OGPU, then the NKVD, then the MGB, then the KGB, and after 1991 it fractured into the Federal Security Service and the Foreign Intelligence Service while the military side, the GRU, continued as it had since the Russian Civil War. The acronyms are a confusion that Moscow has, at times, found useful. What did not change across those generations of letterhead was a particular conviction at the heart of the Soviet and then Russian security state: that the physical elimination of enemies abroad is a legitimate, sometimes necessary, instrument of policy, and that the act of elimination is most valuable when the world can guess who ordered it. This is the thread that runs from the ice axe in Coyoacan through a ricin pellet fired from an umbrella on a London bridge, through a teapot laced with a radioactive isotope, to a nerve agent smeared on a suburban door handle in an English cathedral city. The methods evolved from the crude to the exotic to the industrial. The underlying logic stayed remarkably constant.
 

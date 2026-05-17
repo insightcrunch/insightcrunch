@@ -6,17 +6,17 @@ date: 2019-02-25
 categories: ["Industry"]
 tags: ["mi6", "colonial", "covert-operations", "british-empire", "malaya", "kenya"]
 excerpt: "How Britain's secret colonial campaigns in Malaya, Kenya, and Aden forged the counter-insurgency methods that India's intelligence services later inherited."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2019-02-25
+lang: en
 ---
-
 In June 1948, three British rubber planters were shot dead at their estates near Sungai Siput, a small town in the Malayan state of Perak. Within forty-eight hours, the imperial administration in Kuala Lumpur declared a state of emergency. What followed was a twelve-year campaign that the official vocabulary refused to call a war, partly because the rubber and tin companies that dominated the peninsula could not have renewed their insurance policies against a conflict. The methods Britain refined to win that campaign, namely intelligence-led targeting, deep informant networks, the systematic separation of fighters from the civilian population, and the patient destruction of an insurgent leadership, became a template studied and copied by security services across the decolonizing world. One of those services belonged to the country Britain had ruled for ninety years and had relinquished just ten months before the Malayan guns opened fire.
 
 <!--more-->
 
-![MI6 Colonial Covert Operations](/assets/images/blog/blog-13.webp)
+![MI6 Colonial Covert Operations](/assets/images/blog/blog-06.webp)
 
 That country was India. When the Union Jack came down over Delhi in August 1947, the new republic did not build its intelligence apparatus from a blank sheet. It inherited one. The Intelligence Bureau that the independent Indian state took possession of was the same organization the Raj had used to watch, infiltrate, and disrupt the very independence movement that had just triumphed. The officers who staffed it had trained under British supervisors. The filing systems, the surveillance doctrines, the legal instruments of preventive detention, and the political policing model known across the empire as the Special Branch all carried over intact. India did not so much create an intelligence service as take delivery of one.
 

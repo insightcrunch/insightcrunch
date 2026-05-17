@@ -6,17 +6,17 @@ date: 2019-02-11
 categories: ["Industry"]
 tags: ["russia", "salisbury", "novichok", "poisoning", "extraterritorial"]
 excerpt: "How Russia's Novichok attack on Sergei Skripal in Salisbury exposed the risks of extraterritorial assassination and what its failures teach the world."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2019-02-11
+lang: en
 ---
-
 On a mild Sunday afternoon in March 2018, a retired Russian intelligence officer and his daughter collapsed on a wooden bench beside a shopping centre in a quiet English cathedral city, foaming at the mouth, their pupils reduced to pinpoints, their bodies seizing in front of weekend shoppers who first assumed the pair were drunk. The chemical that put them there was not a bullet, not a knife, not a staged accident on a motorway. It was a fourth-generation military nerve agent, a substance designed in Soviet laboratories for the express purpose of killing soldiers on a battlefield, smeared in gel form onto the front door handle of a suburban home. Within ten days the British government had named the Russian state as the author of the attack. Within a month, twenty-eight other countries had joined a coordinated expulsion of Russian diplomats that remains the largest in the history of the Cold War or anything that followed it. The operation killed one person, an innocent woman who had nothing to do with espionage, and it failed to kill the man it was sent to kill.
 
 <!--more-->
 
-![Russia Salisbury Poisonings Explained - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Russia Salisbury Poisonings Explained - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The Salisbury poisoning matters far beyond the specific tragedy of Sergei Skripal, Yulia Skripal, and Dawn Sturgess. It matters because it is the clearest modern case study of an extraterritorial state assassination going catastrophically wrong, and because every government that conducts operations on foreign soil now studies it as a negative template, a worked example of how not to reach across a border and end a life. For an analytical series concerned with India's shadow war against terror, the Salisbury case is not a digression. It is a control group. India's alleged campaign of targeted killings inside Pakistan, the pattern of motorcycle-borne shooters eliminating designated terrorists in Karachi, Lahore, Sialkot, and Rawalpindi, is conducted under a set of operational constraints that look, in retrospect, like a point-by-point inversion of the choices Russia made in Wiltshire. Russia chose a banned chemical weapon; the shadow war uses conventional pistols. Russia contaminated a city; the shadow war confines its violence to a single target on a single street. Russia left a forensic trail that led directly back to a state laboratory; the shadow war leaves the kind of evidence that produces an unsolved file. Russia triggered universal condemnation; the shadow war has produced diplomatic friction but no coalition. Understanding why Salisbury became a disaster is, in a real sense, understanding why India's quieter campaign has not.
 

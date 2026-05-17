@@ -6,17 +6,17 @@ date: 2019-03-04
 categories: ["Industry"]
 tags: ["dgse", "france", "rainbow-warrior", "africa", "covert-operations"]
 excerpt: "French DGSE operations from the 1985 Rainbow Warrior bombing to Africa's shadow wars, and how France built the most openly aggressive covert model abroad."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2019-03-04
+lang: en
 ---
-
 A little after midnight in Auckland Harbour, two explosions ripped through the hull of a converted trawler tied up at Marsden Wharf. The vessel was the flagship of an environmental movement, and it sank within minutes. A photographer who went back below deck to retrieve his cameras never came back up. He drowned in a flooded cabin while the boat settled into the mud of a foreign port. The men who placed the limpet mines were professional combat divers employed by a Western democracy, and they had crossed an ocean to do it. This was not a terrorist cell. It was a government.
 
 <!--more-->
 
-![French DGSE Rainbow Warrior covert operations analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
+![French DGSE Rainbow Warrior covert operations analysis - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The sinking of the Greenpeace vessel in July 1985 remains the only act of peacetime state terrorism that a Western democracy has ever formally admitted committing on the soil of a friendly nation. That admission, dragged out of Paris over ten weeks of denials, lies, and a collapsing cover story, is what makes the case so useful. Most covert operations vanish into deniability. This one did not. It produced a paper trail, a dead body, two convicted agents, a resigned defence minister, a sacked spy chief, and a prime ministerial confession broadcast to the world. It is the rare shadow operation that became a matter of public record, and the record reveals something other intelligence histories obscure: how a democracy thinks when it decides that violence abroad is simply a tool of policy, no more exceptional than a trade tariff or a diplomatic note.
 

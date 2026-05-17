@@ -6,17 +6,17 @@ date: 2019-03-11
 categories: ["Industry"]
 tags: ["raw", "history", "r-n-kao", "india", "intelligence", "founding-to-present"]
 excerpt: "The complete history of RAW, from R.N. Kao's 1968 founding vision through Bangladesh, Sikkim and the shadow war, and how India's spy agency transformed."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2019-03-11
+lang: en
 ---
-
 On a September morning in 1968, a slim, soft-spoken police officer named Rameshwar Nath Kao walked into a borrowed set of rooms in New Delhi with twelve hundred staff, no charter that the public would ever read, and an instruction from the Prime Minister that amounted to a single sentence: build India an external intelligence service that will never again let the country be surprised. Kao had watched two wars expose the limits of the old arrangement. He had seen the Intelligence Bureau, designed to watch India from within, fail to read the Chinese build-up before 1962 and stumble again before 1965. The new organisation he was asked to create would look outward instead, and it would carry a deliberately bland name chosen so that nobody outside government would think about it twice.
 
 <!--more-->
 
-![RAW History From Founding to Present](/assets/images/blog/blog-15.webp)
+![RAW History From Founding to Present](/assets/images/blog/blog-29.webp)
 
 That organisation was the Research and Analysis Wing, and the story of the next fifty-eight years is the story of how a defensive intelligence service, conceived to prevent surprises, allegedly became an offensive instrument capable of reaching into Pakistani cities and removing India's most wanted men one by one. The distance between Kao's founding charter and the campaign that analysts now call the shadow war is the distance between gathering information and ending lives, and the agency crossed that distance gradually, era by era, failure by failure. Nobody at the founding meeting in 1968 imagined motorcycle assassins in Karachi or coded references to unknown gunmen in Pakistani police reports. Yet the institution that produces such operations today is a direct descendant of the small, careful service Kao assembled, and understanding the shadow war means understanding the half-century of evolution that made it possible.
 
