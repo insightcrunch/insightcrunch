@@ -6,17 +6,17 @@ date: 2019-09-16
 categories: ["Industry"]
 tags: ["pathankot", "2016", "turning-point", "jem", "surgical-strikes"]
 excerpt: "How the Pathankot airbase attack of January 2016 ended India's last real attempt at engagement with Pakistan and reshaped its counter-terror doctrine."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2019-09-16
+lang: en
 ---
-
 On the last morning of 2015, Narendra Modi stepped off an aircraft in Lahore and walked into the home of a man he had every political reason to keep at arm's length. Eight days later, six armed men carrying assault rifles and grenades climbed over a perimeter wall at an Indian Air Force station in Punjab and turned the warmth of that visit into ash. The distance between those two events, measured in hours rather than years, is the reason the Pathankot raid occupies a place in this story that its casualty count alone would never have earned it. Far deadlier assaults had come before, and far deadlier ones would follow, yet none of them severed a relationship as cleanly as this one did. The airbase breach did not merely kill seven members of India's security forces. It killed the proposition, sustained by New Delhi across three prime ministers and two decades, that a terrorist atrocity could be answered with an outstretched hand rather than a clenched fist.
 
 <!--more-->
 
-![Pathankot 2016 the Turning Point](/assets/images/blog/blog-11.webp)
+![Pathankot 2016 the Turning Point](/assets/images/blog/blog-47.webp)
 
 To understand why this particular incident became a hinge rather than another grim entry in a long ledger, the casualty figures have to be set aside. What ended at Pathankot was not principally a battle inside a base. What ended was a strategic posture. For roughly twenty years, New Delhi had treated cross-border terrorism as a problem that diplomacy might eventually solve if pursued with enough patience and enough willingness to absorb provocation. The hijacking of an Indian Airlines flight in 1999, the storming of the national legislature in 2001, the carnage in Mumbai in 2008, each of these had produced anger, mobilisation, and ultimately a return to the negotiating table. The January 2016 raid produced something different. After it, the government stopped offering Islamabad the chance to investigate its own proxies, stopped scheduling the talks that those proxies always interrupted, and began assembling the doctrine that would carry Indian special forces across the Line of Control later that same year. The airbase assault was the last event after which New Delhi tried cooperation, and the failure of that final attempt is what makes the episode the precise moment the engagement era closed.
 

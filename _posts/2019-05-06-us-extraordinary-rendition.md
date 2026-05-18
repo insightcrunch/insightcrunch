@@ -6,17 +6,17 @@ date: 2019-05-06
 categories: ["Industry"]
 tags: ["us", "extraordinary-rendition", "cia", "kidnapping", "legal-fallout", "gwot"]
 excerpt: "How America's extraordinary rendition program kidnapped terror suspects across the globe, the torture and legal fallout, and why India chose a different path."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-05-06
+lang: en
 ---
-
 Khaled El-Masri was riding a bus toward Skopje on the last day of 2003 when Macedonian border guards pulled him off at the Serbian frontier and told him his passport needed checking. He was a car salesman from Ulm, a German citizen of Lebanese origin, traveling alone on a holiday meant to clear his head after an argument with his wife. The passport check turned into twenty-three days in a locked room at the Skylight Hotel in Skopje, where men in plainclothes questioned him about an Islamic centre and a name, al-Masri, that was close to the name of a genuine suspect but belonged to the wrong man. On the twenty-third day a CIA team flew in, stripped him, beat him, forced a suppository and a diaper on him, chained him to the floor of an aircraft, and flew him to a prison in Afghanistan that its inmates would later learn to call the Salt Pit.
 
 <!--more-->
 
-![CIA extraordinary rendition program and black sites - Insight Crunch](/assets/images/blog/blog-08.webp)
+![CIA extraordinary rendition program and black sites - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 El-Masri was held in Afghanistan for four months. He was beaten, interrogated, force-fed during a hunger strike, and never charged with anything, because there was nothing to charge him with. The Central Intelligence Agency had abducted the wrong person, realized its error within weeks, and then argued internally for months about what to do with a man whose only crime was a surname. Eventually he was flown to Albania, driven up a mountain road at night, and left standing on the verge with his belongings, told to walk and not look back. He thought he was about to be shot. Instead he walked until he reached an Albanian checkpoint, where guards assumed from his appearance and his story that he was a terrorist and nearly arrested him again. El-Masri is the human face of a system, and the system had a name that sounded almost bureaucratic: extraordinary rendition.
 

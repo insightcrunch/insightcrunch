@@ -6,17 +6,17 @@ date: 2019-09-02
 categories: ["Industry"]
 tags: ["26-11", "mumbai", "inflection-point", "counter-terror", "doctrine"]
 excerpt: "The 2008 Mumbai siege killed 166 people and rewired how India confronts terrorism, ending the era of absorbing attacks and making the shadow war inevitable."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2019-09-02
+lang: en
 ---
-
 For three days in late November 2008, a single coastal city held the attention of the entire planet, and when the gunfire finally stopped, the country it belonged to was no longer the same country it had been when the shooting began. Ten young men carrying assault rifles, grenades, and improvised explosive charges had crossed the Arabian Sea from Karachi, landed on the southern shore of Mumbai, and turned a railway terminus, two luxury hotels, a Jewish community centre, a hospital, and a popular cafe into killing grounds. By the time the last attacker was shot dead inside the Taj Mahal Palace hotel on the morning of November 29, one hundred and sixty-six people were dead and more than three hundred were wounded. Those numbers are staggering, but they do not capture the deeper transformation. What died in Mumbai over those sixty hours was not only the victims. What died was an entire way of thinking about national security, an entire posture toward a hostile neighbour, and an entire generation's assumption that terrorism was something to be endured rather than answered.
 
 <!--more-->
 
-![26/11 Mumbai the Inflection Point](/assets/images/blog/blog-09.webp)
+![26/11 Mumbai the Inflection Point](/assets/images/blog/blog-90.webp)
 
 This is the reason the date itself became a proper noun. Indians do not say "the November 2008 attacks." They say "26/11," compressing the calendar into two numbers the way Americans compressed September 11 into "9/11," and the comparison is deliberate and exact. Both dates mark a before and an after. Both dates mark the moment a nation decided that the rules it had been playing by were rules written for a world that no longer existed. The siege of Mumbai is the hinge of the long story this series tells, the point at which the chain that began on the Kandahar tarmac in 1999 stopped being a chain of absorbed blows and started becoming a chain of planned responses. Before those three days, the Indian state met cross-border terrorism with diplomatic protest, dossiers handed to foreign capitals, and the patient hope that international pressure would eventually force Pakistan to act. After those three days, a different idea took root in New Delhi, slowly at first and then with gathering force, the idea that if justice was ever going to arrive, the country would have to build the means to deliver it itself.
 

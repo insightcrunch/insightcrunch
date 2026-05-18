@@ -6,17 +6,17 @@ date: 2019-06-17
 categories: ["Industry"]
 tags: ["intelligence-agencies", "ranked", "cia", "mossad", "mi6", "raw", "isi"]
 excerpt: "Ranking the world's most powerful intelligence agencies across six dimensions, from the CIA and Mossad to RAW and ISI, and why no single service wins it."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2019-06-17
+lang: en
 ---
-
 Ranking the world's spy services is an exercise that almost everyone attempts and almost nobody can defend. Type the question into a search engine and a dozen confident lists appear, each crowning a different winner, each built on a different unstated assumption about what power even means in this trade. One list rewards budget. Another rewards body count. A third rewards mystique, which is the least measurable quantity in any field of human activity. The lists rarely agree because the thing they claim to measure does not sit still long enough to be measured.
 
 <!--more-->
 
-![Headquarters and global reach of the world's leading intelligence services](/assets/images/blog/blog-14.webp)
+![Headquarters and global reach of the world's leading intelligence services](/assets/images/blog/blog-82.webp)
 
 And yet the impulse to rank is not foolish. It is the impulse to understand a hidden world by forcing it into a comparison, and comparison is how analysis works. The problem is not the ranking itself. The problem is the single-number ranking, the listicle that declares one service supreme and moves on. A spy organization is not a sprinter who can be timed. It is a sprawling instrument of national power that does several different jobs, in several different environments, against several different adversaries, and it can be excellent at one job while being mediocre at the next. The Central Intelligence Agency commands resources that no rival can approach. Mossad converts a tiny payroll into operational output at a ratio no rival can match. Britain's Secret Intelligence Service carries a century of accumulated tradecraft that newer services are still trying to acquire. India's Research and Analysis Wing has changed faster in the past fifteen years than any peer organization on earth. Pakistan's Inter-Services Intelligence performs the strangest dual role of all, sheltering the very networks it claims to fight. Each of those statements is true. None of them produces a winner.
 

@@ -6,17 +6,17 @@ date: 2019-08-26
 categories: ["Industry"]
 tags: ["parliament-attack", "2001", "nuclear-brink", "jem", "let", "war"]
 excerpt: "How the 2001 Parliament attack pushed India and Pakistan to the nuclear brink, triggered a ten-month military mobilization, and why all-out war was avoided."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2019-08-26
+lang: en
 ---
-
 At 11:40 in the morning on December 13, 2001, a white Ambassador car carrying forged Home Ministry and Parliament stickers rolled through Gate Number Eleven of the Indian Parliament complex in New Delhi, and within the next forty-five minutes the building that houses the world's largest democracy became a battlefield. Five gunmen carrying assault rifles, grenade launchers, and explosive vests had come to do something no terror cell had attempted before. They had come to storm the seat of the Indian state itself, at an hour when more than a hundred lawmakers were still inside the chambers and corridors. By the time the last attacker fell, nine defenders and staff were dead and the subcontinent had begun a slide toward a confrontation that would keep two nuclear-armed armies facing each other across a shared border for the next ten months. This was not a random act of violence. It was the first major detonation of a chain that began two years earlier on a windswept airfield in Kandahar, and it would push New Delhi and Islamabad closer to atomic war than they had ever stood.
 
 <!--more-->
 
-![2001 Parliament attack and the road to the nuclear brink - Insight Crunch](/assets/images/blog/blog-08.webp)
+![2001 Parliament attack and the road to the nuclear brink - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 To understand why a single assault on a single building in central Delhi could bring a fifth of humanity to the edge of catastrophe, the assault has to be read as a link rather than as an isolated event. It sat between a decision India had already made and a decision India would soon be forced to make. The decision behind it was the surrender of a jailed cleric named Masood Azhar in exchange for the lives of airline passengers. The decision in front of it was whether to answer an attack on the nation's sovereign heart with the only instrument that felt proportionate, which was war. Everything that the Indian shadow war would later become, every covert killing on Pakistani soil, every surgical strike and cross-border air raid, traces part of its institutional memory to the trauma of these ten months. The story of the strike on Parliament is the story of how India learned, at terrible cost, that absorbing an attack and threatening a war were not the only two options available to a wounded state.
 

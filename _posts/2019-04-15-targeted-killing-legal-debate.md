@@ -6,17 +6,17 @@ date: 2019-04-15
 categories: ["Industry"]
 tags: ["targeted-killing", "legality", "ethics", "international-law", "sovereignty"]
 excerpt: "The global legal and ethical debate on targeted killings, what international law says about sovereignty, imminence, and self-defense, and where India fits."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2019-04-15
+lang: en
 ---
-
 When a Lashkar-e-Taiba commander is shot outside a mosque in Karachi by two men on a motorcycle, the world reaches for a vocabulary that does not quite fit. Some observers call it an assassination, a word that carries the stain of crime. Others call it a counter-terror operation, a phrase that implies the comfort of law. A few call it murder, full stop. The disagreement is not about what happened. Two men killed a third man, and the third man had a long record of organizing mass violence against civilians. The disagreement is about whether the killing was lawful, and that question has no settled answer anywhere in the body of rules that nations have written for themselves over the past century.
 
 <!--more-->
 
-![Targeted killing legal and ethical debate](/assets/images/blog/blog-05.webp)
+![Targeted killing legal and ethical debate](/assets/images/blog/blog-33.webp)
 
 This is the puzzle that sits underneath every covert elimination of a wanted militant on foreign soil. The legal debate over targeted killing is often described as a clash between two clear camps, one that says such killings are permitted and one that says they are forbidden. That description is wrong. The real situation is stranger and more uncomfortable. International law does not contain a clear permission and it does not contain a clear prohibition. It contains a set of standards, imminence, proportionality, necessity, sovereignty, self-defense, and combatant status, each of which is defined loosely enough that a determined government can argue almost any killing into compliance, and a determined critic can argue almost any killing out of it. The space between those two readings is not an accident. It is the space in which targeted killing has lived for half a century, and it is the space in which India's shadow war operates today.
 

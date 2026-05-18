@@ -6,17 +6,17 @@ date: 2019-04-22
 categories: ["Industry"]
 tags: ["israel", "india", "intelligence", "partnership", "mossad", "raw"]
 excerpt: "How Mossad and RAW built one of the world's most consequential counter-terror intelligence partnerships, what the two services share, and what it produced."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2019-04-22
+lang: en
 ---
-
 There is a question that sits underneath almost every analysis of how a democracy learns to kill its enemies on foreign soil, and it is rarely asked directly. Where did the confidence come from? Targeted killing is not a natural posture for a constitutional state. It demands a particular blend of capability, doctrine, and institutional nerve, and that blend does not assemble itself. Someone has to believe, before the first operation, that a democracy can hunt people beyond its borders without corroding the rule of law at home, without inviting catastrophic blowback, and without collapsing under the weight of its own secrecy. That belief is not a piece of hardware. It cannot be bought. It has to be transferred, demonstrated, and absorbed over years of contact between services that trust each other enough to teach. For the Indian state, the most plausible source of that confidence is a single foreign relationship, and it is one that almost nobody discusses in the same breath as the shadow war it helped make thinkable.
 
 <!--more-->
 
-![Israel India Intelligence Partnership](/assets/images/blog/blog-06.webp)
+![Israel India Intelligence Partnership](/assets/images/blog/blog-83.webp)
 
 The relationship is the bond between Israel's Mossad and India's Research and Analysis Wing. This piece sets out to answer a precise analytical question rather than to recite a list of arms deals. How deep does the Mossad-RAW partnership actually run, and what has it produced? Defense cooperation between Jerusalem and New Delhi is documented in budget lines, signed contracts, and ministerial photo opportunities. Intelligence cooperation is a harder object to study, because it is conducted by two services that share an unusual trait among the world's major agencies: both operate with minimal parliamentary oversight, neither is compelled to disclose its liaison relationships, and neither has any incentive to describe what it teaches a partner. So the honest approach is to build outward from what is verifiable, mark clearly where the evidence ends and inference begins, and resist the temptation to treat a plausible story as a proven one. The argument that follows is that the partnership is real, consequential, and structured across five distinct domains, and that its single most important export was never a drone or a rifle. It was the idea that a democracy could do this at all.
 

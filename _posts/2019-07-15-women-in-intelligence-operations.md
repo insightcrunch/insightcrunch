@@ -6,17 +6,17 @@ date: 2019-07-15
 categories: ["Industry"]
 tags: ["women", "intelligence", "operations", "soe", "mossad", "spies", "history"]
 excerpt: "The hidden history of women in intelligence operations, from the WWII SOE agents to Mossad operatives, and their documented roles in global covert warfare."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2019-07-15
+lang: en
 ---
-
 On a cold night in the Haute-Loire region of occupied France, a radio operator code-named Diane crouched over a wireless set, tapping out a message to London while a German direction-finding van swept the surrounding hills for the source of her signal. The Gestapo had a description of her and a name for her that they used in their internal cables. They called her the limping lady, and they considered her the single most dangerous Allied agent operating on French soil. Diane was Virginia Hall, an American from Baltimore who had lost part of her left leg in a hunting accident years before the war and who walked on a wooden prosthesis she had nicknamed Cuthbert. The men hunting her assumed, as men in their position almost always did, that the most important enemy in their sector would be a man. That assumption protected her for years, and it is the same assumption that has shaped how the history of espionage has been written ever since.
 
 <!--more-->
 
-![Women in intelligence operations through history](/assets/images/blog/blog-03.webp)
+![Women in intelligence operations through history](/assets/images/blog/blog-84.webp)
 
 Intelligence history, as it reaches the public, reads as a chronicle of men. The famous names are male, the famous operations are credited to male officers, and the cultural image of the spy, fixed by decades of fiction, is a man in a dinner jacket or a man in a parked car. The reality has always been more complicated than the record admits. Women served as wireless operators and couriers behind enemy lines during the Second World War, as agents and agent-handlers through the Cold War, as case officers in hostile postings after the Soviet collapse, as the analysts who tracked terrorist networks before and after the attacks of September 2001, and, in the present decade, as the directors of the agencies themselves. This piece reconstructs that history across five distinct eras, names the individuals where the record allows it to be named, and asks a question that the standard accounts rarely confront directly. The question is not whether women participated in covert work. They plainly did. The question is why their participation has been so consistently filed under a different heading, remembered as exceptional rather than structural, and left out of the operational story that gets told.
 

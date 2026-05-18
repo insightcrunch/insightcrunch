@@ -6,17 +6,17 @@ date: 2019-07-01
 categories: ["Industry"]
 tags: ["covert-operations", "success", "failure", "patterns", "history", "analysis"]
 excerpt: "Analyzing the global patterns of covert operation success and failure, and what intelligence history teaches about when shadow wars work and when they fail."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2019-07-01
+lang: en
 ---
-
 Ask an intelligence historian why one secret action succeeds and another collapses, and the honest answer is that the difference is rarely luck. It is structure. A campaign of covert violence is not a single decision but a chain of them, and the chain holds or breaks at predictable joints. Bangladesh in 1971 held. The Bay of Pigs in 1961 broke within seventy-two hours. Both were planned by competent professionals who believed they understood the terrain. The question this analysis sets out to answer is therefore not whether covert action can work, since the historical record proves that it sometimes does, but rather what separates the operations that age into quiet triumphs from the ones that age into national embarrassments, criminal trials, and strategic disasters.
 
 <!--more-->
 
-![Covert operations success and failure patterns analysis](/assets/images/blog/blog-01.webp)
+![Covert operations success and failure patterns analysis](/assets/images/blog/blog-09.webp)
 
 That question is not academic for anyone reading the news out of South Asia. Since 2021, a sequence of wanted militants has been shot dead on Pakistani soil by assailants who arrive on motorcycles, fire at close range, and vanish into traffic. Indian officials have claimed nothing. Pakistani officials have alleged much. The pattern, examined across dozens of incidents, looks less like coincidence and more like a sustained program, and that program now has enough operational history behind it to be measured rather than merely described. The measurement requires a yardstick, and the only honest yardstick is the comparative record of every other state that has tried something similar. India's shadow war is new. The dilemmas it faces are not.
 

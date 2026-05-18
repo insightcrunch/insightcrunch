@@ -6,17 +6,17 @@ date: 2019-04-29
 categories: ["Industry"]
 tags: ["rise-and-kill-first", "israel", "doctrine", "targeted-killing", "india"]
 excerpt: "Israel's Rise and Kill First doctrine systematized targeted killing, and India's shadow war now follows the same logic without the public acknowledgment."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2019-04-29
+lang: en
 ---
-
 When Ronen Bergman published his eight-year investigation into Israel's intelligence services, he gave the practice of state assassination something it had never possessed before: a name borrowed from scripture and a documented institutional logic. The Babylonian Talmud advises that if a man comes to kill you, rise and kill him first, and Bergman took that injunction as the title for a book that traced more than two thousand seven hundred Israeli assassination operations across seven decades. The book argued that Israel had killed more people in targeted operations than any other Western state since the Second World War, and it did so not through improvisation but through a doctrine, a repeatable set of decisions that an operative could pitch to a prime minister and a prime minister could authorize within a structured framework. The question this analysis pursues is narrower and more uncomfortable than the book's sweep. If a doctrine for killing enemies on foreign soil has been written down, examined, and published, and if a second democracy has begun running an extraordinarily similar campaign in the years since, then what does placing the documented Israeli model against the undocumented Indian one reveal about how states learn to kill, and about the price each model exacts in exchange for what it delivers?
 
 <!--more-->
 
-![Rise and Kill First Doctrine Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Rise and Kill First Doctrine Explained - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 India has never published anything resembling Bergman's account. There is no Indian equivalent of the hundreds of on-the-record interviews with serving operatives, no Indian Supreme Court ruling that adjudicates the legality of a targeted strike, no parliamentary committee transcript debating whether a particular elimination served the national interest. What India has instead is a pattern, reconstructed by journalists and Pakistani investigators rather than confessed by the Indian state, of close-range shootings of wanted men in Pakistani cities that began appearing with regularity after 2019. The Indian government calls every report of this pattern false and malicious propaganda. Israel, by contrast, has spent decades arguing in its own courts and to its own public that targeted killing is a lawful instrument of self-defense, losing some of those arguments and winning others, but never pretending the practice did not exist. The comparison between the two doctrines is therefore a comparison between a thing that has been written down and a thing that has been denied, and the most important finding of the comparison is what that single difference costs and buys.
 

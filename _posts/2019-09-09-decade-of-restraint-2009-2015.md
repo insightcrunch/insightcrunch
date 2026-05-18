@@ -6,17 +6,17 @@ date: 2019-09-09
 categories: ["Industry"]
 tags: ["restraint", "2009-2015", "india", "modi", "counter-terrorism", "policy-shift"]
 excerpt: "Why India chose six years of strategic restraint after the 26/11 attacks, what calculation drove that patience, and how Modi reshaped the equation in 2014."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-09-09
+lang: en
 ---
-
 When the last gunman fell at Nariman House on the morning of 29 November 2008, a grieving and furious country expected its government to do something dramatic. Ten attackers had held the financial capital hostage for three days. The planning trail ran through Karachi. The handlers had spoken to the killers by satellite phone from Pakistani soil. Public opinion, talk television, and a good part of the strategic commentariat wanted a military answer, and they wanted it within weeks. What followed instead was nothing visible. No airstrike. No commando raid across the Line of Control. No naval blockade. For the better part of the next six years, New Delhi absorbed the rage, declined the obvious options, and waited. To a public hungry for retribution, the silence read as cowardice. It was something far more deliberate, and understanding it is the key to understanding everything that came afterward.
 
 <!--more-->
 
-![India's decade of strategic restraint from 2009 to 2015](/assets/images/blog/blog-10.webp)
+![India's decade of strategic restraint from 2009 to 2015](/assets/images/blog/blog-13.webp)
 
 This is the story of the years that look empty on the timeline of the shadow war and turn out, on inspection, to be the most consequential of all. Between the carnage in Mumbai and the surgical strikes of September 2016, the Indian state did not retaliate. What it did instead was build. It rewrote its intelligence architecture, signed contracts for a generation of weapons, raised new formations, restructured the relationship between its spy services and its soldiers, and slowly assembled the political will to use the instruments it was forging. The forbearance was not a vacuum. It was a loading phase, and the firing phase that followed could not have happened without it.
 

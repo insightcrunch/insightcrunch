@@ -6,17 +6,17 @@ date: 2019-07-22
 categories: ["Industry"]
 tags: ["fiction-vs-reality", "spy-operations", "james-bond", "jason-bourne", "dhurandhar"]
 excerpt: "Spy fiction from James Bond to Jason Bourne to Dhurandhar gets some of intelligence work right and much of it wrong, and reality is duller and deadlier."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2019-07-22
+lang: en
 ---
-
 A man in a tailored suit walks into a casino, orders a drink with a memorable instruction, beats a billionaire arms dealer at cards, and seduces a woman whose loyalties shift twice before the credits roll. Somewhere in a different theater, a different man wakes up with no memory, fights three pursuers in a Zurich apartment using a ballpoint pen and a hardback book, and drives a small European car down a flight of stairs. And in a packed Indian multiplex, a third man on a motorcycle threads a crowded Pakistani market, a pistol held low against his thigh, and disappears before the body in the street has finished falling. Three audiences watch three versions of the same profession. None of the three is watching the profession as it actually exists, but one of them is watching something much closer to it than the other two, and the distance between those three films is the entire story of how spy cinema has changed in sixty years.
 
 <!--more-->
 
-![Fiction vs Reality in Spy Operations - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Fiction vs Reality in Spy Operations - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 The argument worth making is simple to state and harder to defend. James Bond is fantasy. Jason Bourne is semi-plausible. Dhurandhar is operationally credible. Those three points are not arbitrary; they mark a measurable trajectory across six decades of the genre, a slow narrowing of the gap between what audiences see on screen and what intelligence officers actually do for a living. The narrowing is not an accident of taste, and it is not simply a matter of newer films being grittier than older ones. It tracks something specific in the world outside the cinema. As real covert operations have become more public, through investigative journalism, leaked cables, declassified files, parliamentary inquiries, and the slow erosion of state secrecy, filmmakers have acquired more accurate material to draw from. The genre has not become more honest because writers grew braver. It has become more honest because the raw material it works from is now richer, more documented, and harder to romanticize.
 

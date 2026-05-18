@@ -6,17 +6,17 @@ date: 2019-06-10
 categories: ["Industry"]
 tags: ["isi", "covert-operations", "history", "pakistan", "proxy-wars", "afghanistan"]
 excerpt: "The complete history of ISI covert operations, from the Afghan jihad through the Kashmir proxy wars to the shadow war, and how the agency declined steadily."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2019-06-10
+lang: en
 ---
-
 There was a stretch of years when the Inter-Services Intelligence Directorate ran the single largest covert war on the planet, and almost nobody outside a few rooms in Rawalpindi and Langley understood how completely one Pakistani institution had come to dominate it. Crates of Egyptian and Chinese rifles moved through the port of Karachi, up the road to depots near the Afghan frontier, and into the hands of fighters whose names the directorate kept in its own files and shared with no foreign service. American money, Saudi money, and a steady stream of weapons all passed through a single clearing house, and that clearing house was a spy agency answerable to the Pakistan Army rather than to any elected government. For roughly a decade, Pakistan's premier intelligence service held more operational leverage over the future of a neighboring country than any other actor in the region, including the superpowers funding it.
 
 <!--more-->
 
-![ISI Covert Operations Complete History - Insight Crunch](/assets/images/blog/blog-13.webp)
+![ISI Covert Operations Complete History - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 That peak is the right place to begin any honest account of the agency, because everything the directorate has done since has been measured, consciously or not, against the memory of those years. The institution that allegedly cannot today protect a designated militant living openly in Bahawalpur is the same institution that once decided which Afghan commander received anti-aircraft missiles and which did not. The distance between those two states of being is the real story. It is a story of institutional decline, and the decline matters because it explains why the killings now happening on Pakistani soil are possible at all.
 

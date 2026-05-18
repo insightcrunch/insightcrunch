@@ -6,17 +6,17 @@ date: 2019-06-03
 categories: ["Industry"]
 tags: ["cold-war", "spy", "assassinations", "ranked", "intelligence", "kgb", "cia"]
 excerpt: "A ranked analysis of twelve Cold War spy assassinations, from Trotsky in Mexico City to the Bulgarian umbrella murder, and what each killing still teaches."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2019-06-03
+lang: en
 ---
-
 On an August afternoon in 1940, a man carrying a concealed mountaineering axe walked into a study in the Coyoacan district of Mexico City and brought decades of state-sponsored killing into sharp focus. His victim was Leon Trotsky, the exiled rival whom Joseph Stalin had hunted across three continents. The weapon was crude, the planning had been patient, and the message proved unmistakable. A government had decided that a single death on foreign soil justified years of effort, and the decision was vindicated within twenty-four hours. Trotsky did not invent the political murder, but his death set a template that the next half century of intelligence history would refine, repeat, and occasionally botch.
 
 <!--more-->
 
-![Cold War spy assassinations ranked by lasting significance](/assets/images/blog/blog-12.webp)
+![Cold War spy assassinations ranked by lasting significance](/assets/images/blog/blog-09.webp)
 
 The decades that followed produced a grim catalogue. Soviet operatives sprayed cyanide into the faces of Ukrainian emigres on Munich pavements. Bulgarian intelligence officers, working with technical help from Moscow, fired a ricin pellet into a dissident broadcaster from a modified umbrella on Waterloo Bridge. American case officers shipped poisoned toothpaste to the Congo, recruited mafia bosses to murder a Caribbean head of government, and armed the gunmen who ambushed a Dominican dictator. Chilean secret police detonated a car bomb within sight of the White House. By a conservative count, the period between the late 1940s and the late 1980s saw dozens of state-sponsored killings carried out across four continents, and the true figure is almost certainly higher because the most successful operations leave the least evidence.
 
