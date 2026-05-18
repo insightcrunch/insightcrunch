@@ -6,19 +6,19 @@ date: 2015-10-02
 categories: ["Leisure"]
 tags: ["latin-american-independence", "simon-bolivar", "jose-de-san-martin", "spanish-american-revolutions", "nineteenth-century", "medieval-history"]
 excerpt: "Latin American independence between 1810 and 1825 was not a single coherent movement. It was a series of regional breaks from Spanish and Portuguese rule."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-10-02
+lang: en
 ---
-
 There is a map of the early nineteenth century that most schoolrooms still hang on the wall, and it is wrong in a quiet but consequential way. It shows a vast Spanish empire stretching from California to Cape Horn, and then it shows that empire dissolving, in the span of a single generation, into a constellation of new republics. The story attached to the map is heroic and tidy. Two great liberators, Simon Bolivar in the north and Jose de San Martin in the south, marched armies across mountains and plains, met in the middle, and handed a continent its freedom. The trouble is that the tidy story conceals the thing most worth understanding. What happened across Spanish and Portuguese America between 1810 and 1825 was not a single movement with a unified cause and a common shape. It was a dozen different ruptures, driven by different coalitions, triggered by different crises, and arriving at strikingly different destinations.
 
 <!--more-->
 
 This article makes a specific argument, and it is worth stating plainly before the evidence arrives. The wars that ended Iberian rule in the Americas are best understood not as a liberation but as a set of regional breaks, each one shaped less by a shared continental purpose than by the particular grievances and fears of the people who happened to live in that territory. Mexico broke away for reasons almost opposite to those that moved Buenos Aires. Brazil separated from Portugal without a war of liberation at all, and kept its monarch. Paraguay slipped quietly into a self-isolating dictatorship. The heroic-liberator frame is not false, but it is badly incomplete, and the gap between the frame and the reality is exactly where the most important lesson sits.
 
-![Latin American Independence Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Latin American Independence Explained - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 The lesson is this. Across these territories, the political rupture from Spain and Portugal was real and was won at enormous cost, but it was not accompanied by a transformation of the deeper social and economic structures the colonial centuries had built. The racial hierarchies, the great landed estates, the institutional weight of the Church, the strongman style of rule that the wars themselves rewarded: these survived the break and shaped the next two centuries of the region more powerfully than the change of flag ever did. To understand why there is no single Latin American nation today, why nineteen separate republics emerged where one empire had stood, and why so many of them spent the following century in instability, you have to abandon the heroic map and look instead at what each region actually inherited.
 

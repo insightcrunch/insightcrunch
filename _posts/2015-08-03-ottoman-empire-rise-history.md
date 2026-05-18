@@ -6,19 +6,19 @@ date: 2015-08-03
 categories: ["Leisure"]
 tags: ["ottoman-empire", "ottoman-rise", "devshirme", "suleiman", "mediterranean-history", "medieval-history"]
 excerpt: "The Ottoman rise from a small Anatolian beylik to a Mediterranean empire was a triumph of institutional innovation over inherited size and raw conquest."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-08-03
+lang: en
 ---
-
 In the year 1299, on a hilly stretch of northwest Anatolia where the Byzantine frontier had grown soft and porous, a minor warlord named Osman governed a few hundred tents, a scatter of villages, and a position on the road between worlds. Around him sat a dozen other principalities of similar size, the beyliks that had splintered out of the collapsing Seljuk Sultanate of Rum. Nothing about Osman's holding marked it as the seed of an empire. The beyliks of Aydin, Karaman, Germiyan, and Menteshe were as large, as well placed, and as well led. Most of them would be footnotes within two centuries. The principality Osman founded would rule three continents.
 
 <!--more-->
 
 The usual explanation for that divergence is conquest. The Ottomans, in the popular telling, were simply better at war: fiercer cavalry, bigger guns, a genius for the battlefield that carried them from a frontier camp to the throne room of a fallen Constantinople. That explanation is not wrong so much as shallow. Conquest was the visible surface of the Ottoman rise, and surfaces are what competitor histories tend to describe. What conquest cannot explain is why this particular beylik, and not the equally warlike ones beside it, kept what it took. Armies win battles. They do not, by themselves, hold cities, gather taxes, govern strangers, or survive the death of the leader who assembled them. Something else did that work.
 
-![Rise of the Ottoman Empire Explained - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Rise of the Ottoman Empire Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 That something was institutional. The argument here is that the Ottoman rise, from a small Anatolian principality to a Mediterranean empire at its height under Suleiman, was at its core a story of administrative invention rather than military superiority. Five institutions did the decisive work. The devshirme manufactured a loyal governing elite out of recruited and converted children. The timar fielded tens of thousands of cavalry without draining the central treasury. The synthesis of kanun and sheriat braided two bodies of law into a single working state. The order of confessional communities, later named the millet system, let a Muslim dynasty govern enormous Christian and Jewish populations without constant revolt. The office of grand vizier kept the empire governable even when its sultan was a child or a recluse. The conquests were real, and nothing in this account minimizes their violence. But the conquests were enabled by an administrative capacity that the empire's rivals, the Byzantines, the Mamluks, the Venetians, and the Hungarians, could not match. The Ottoman rise was institutional. The state out-administered the neighbors it outlasted.
 

@@ -6,17 +6,17 @@ date: 2015-10-07
 categories: ["Leisure"]
 tags: ["declaration-of-independence", "thomas-jefferson", "1776", "american-founding", "natural-rights", "medieval-history"]
 excerpt: "The Declaration of Independence was a legal document built to win foreign recognition for a secession, not simply a statement of philosophical ideals."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-10-07
+lang: en
 ---
-
 The Declaration of Independence is a legal and diplomatic instrument that justified one specific act, the secession of thirteen British colonies, to audiences abroad whose recognition the new states urgently needed. That sentence is not how most readers first meet the text. They meet it through a single soaring clause about equal creation and unalienable rights, a clause that occupies roughly two hundred words near the top of a page that runs to about thirteen hundred. The famous passage is real, and its consequences have been enormous, but it is the short philosophical preface to a much longer and far more practical argument. Most of the writing is a detailed indictment of one man, King George III, assembled to prove that the colonists had a lawful grievance and had exhausted every peaceful remedy before resorting to separation.
 
 <!--more-->
 
-![The Declaration of Independence Explained - Insight Crunch](/assets/images/blog/blog-05.webp)
+![The Declaration of Independence Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This article makes a single argument and follows it from the document's structure outward. The claim is that the Declaration is a legal-diplomatic instrument with a philosophical preamble, and that the preamble's modern fame is a later construction, built across the nineteenth century rather than fixed in 1776. Restoring the whole text to view, the introduction, the preamble, the long catalog of complaints, the denunciation of the British public, and the formal closing pledge, does not shrink the Declaration. It sharpens it. A reader who knows only the equality clause holds a fragment. Anyone who understands what the full page was built to do holds the thing itself, and that thing is stranger, more contingent, and more revealing than the civics-class summary suggests.
 

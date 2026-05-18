@@ -6,17 +6,17 @@ date: 2015-09-12
 categories: ["Leisure"]
 tags: ["american-revolution", "declaration-of-independence", "american-founding", "colonial-america", "revolutionary-war", "medieval-history"]
 excerpt: "The American Revolution was a colonial elite's break with Britain, a popular Whig mobilization, and the strategic choices of enslaved and indigenous people."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-09-12
+lang: en
 ---
-
 In the summer of 1776, roughly two and a half million people lived in Britain's thirteen North American colonies, and they did not agree about very much. Some wanted independence and were willing to fight for it. Others wanted reconciliation with London and considered the independence party reckless. Five hundred thousand of those people were enslaved, and they wanted freedom on whatever terms freedom could be had, from whichever side offered it. Tens of thousands more belonged to indigenous nations who watched the quarrel between Britain and its settlers with entirely justified alarm. The American Revolution is usually told as the story of a single people throwing off tyranny. A harder and more accurate story holds that it was a civil war fought across a continent by populations whose interests rarely aligned, and grasping that version is the only way to explain both what the Revolution achieved and what it deliberately left unresolved.
 
 <!--more-->
 
-![The American Revolution Explained - Insight Crunch](/assets/images/blog/blog-15.webp)
+![The American Revolution Explained - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 This article makes a specific argument. The American Revolution was not primarily a tax revolt, and it was not primarily an uprising of an oppressed people against a cruel master. It was something more complicated and more interesting. Rather, it was a decision by a colonial elite to break with Britain rather than accept a reorganized empire, fused with a genuine popular movement organized around a coherent political ideology, fused in turn with the independent strategic calculations of enslaved people and indigenous nations who were not consulted by either side but who acted with clear purpose anyway. The patriotic consensus version of the Revolution flattens all of these participants into a unity they never possessed. Half a century of scholarship has steadily dismantled that flattening, and this article follows where the scholarship leads.
 

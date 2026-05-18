@@ -6,19 +6,19 @@ date: 2015-09-22
 categories: ["Leisure"]
 tags: ["napoleonic-wars", "napoleon-bonaparte", "congress-of-vienna", "european-history", "nineteenth-century", "medieval-history"]
 excerpt: "The Napoleonic Wars continued the French Revolutionary Wars, and the Congress of Vienna settlement reshaped Europe more durably than the fighting did."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-09-22
+lang: en
 ---
-
 In May 1803, after only fourteen months of an uneasy peace, Britain declared war on France, and the conflict that history files under Napoleon Bonaparte's name resumed. The label is misleading. Fought across the European continent and its surrounding oceans from 1803 to 1815, the Napoleonic Wars were not the personal project of one Corsican officer with an appetite for empire. They were the continuation of a struggle that had begun in April 1792, when Revolutionary France declared war on Austria, and they carried forward structural pressures that no single leader had created and none could simply switch off. Europe spent twelve more years at war because the Revolution had loosed forces that one battlefield genius could accelerate and extend but could not invent.
 
 <!--more-->
 
 This is the argument worth holding onto through every campaign that follows, because the conventional story pulls hard in the opposite direction. Napoleon was a genuinely extraordinary commander, and his rise reads like a novel: an obscure artillery lieutenant from a minor Corsican family who, within a decade, crowned himself Emperor of the French and redrew the map of a continent. A story that good invites readers to treat the wars as the lengthened shadow of a single will. The trouble is that the shadow theory cannot explain the timing. Fighting began before Bonaparte held power, the rivalries that drove it predated his birth, and the peace that finally closed it was constructed by diplomats who regarded him as a symptom rather than a cause.
 
-![The Napoleonic Wars Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Napoleonic Wars Explained - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 What follows traces the conflict through its six major phases, from the naval and continental battles of 1805 to the muddy finality of Waterloo in June 1815, and then turns to the settlement that mattered more than any single battle. The Congress of Vienna, which met from September 1814 to June 1815, built a European order so durable that no general war broke out on the continent for ninety-nine years. Posterity remembers the wars for Austerlitz and Borodino and the burning of Moscow. Their most lasting product was a conference table.
 

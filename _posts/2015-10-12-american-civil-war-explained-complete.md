@@ -6,19 +6,19 @@ date: 2015-10-12
 categories: ["Leisure"]
 tags: ["american-civil-war", "slavery", "lincoln", "confederate-states", "reconstruction", "medieval-history"]
 excerpt: "The American Civil War was caused by slavery, the cause the seceding states named openly in their own declarations. The states-rights story came later."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-10-12
+lang: en
 ---
-
 When the men who broke the United States apart sat down to explain why, they did not write about tariffs, and they did not write about an abstract theory of constitutional sovereignty. They wrote about slavery, in plain language, at length, and without embarrassment. South Carolina led the way out of the Union on December 20, 1860, and within seven weeks six more states of the Deep South had followed. Four of those seven states issued formal public documents titled, in one phrasing or another, a declaration of the causes of secession. Read those four documents and the question that has confused American classrooms for a century and a half answers itself in the words of the people who started the rebellion.
 
 <!--more-->
 
 Mississippi's declaration, adopted in January 1861, stated that the state's position was "thoroughly identified with the institution of slavery," which the document called "the greatest material interest of the world." Texas, seceding in February 1861, defended what its declaration called "the servitude of the African race" as an arrangement "abundantly authorized and justified by the experience of mankind." South Carolina's declaration complained at length that the free states had grown hostile to slavery and had failed to return people who escaped from bondage. Georgia's declaration opened by announcing that the dispute over the future of slavery was the reason the state was leaving. None of these documents is obscure. All were printed at the time, circulated widely, and meant to persuade. The men who founded the Confederacy were not ashamed of their cause in 1861. Shame, and the elaborate machinery built to manage it, came later.
 
-![American Civil War battlefield with Union and Confederate forces - Insight Crunch](/assets/images/blog/blog-06.webp)
+![American Civil War battlefield with Union and Confederate forces - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 This article makes one central argument and traces its consequences. The American Civil War, fought from 1861 to 1865, was caused by slavery. Every other factor that historians legitimately discuss, the constitutional disputes, the regional economies, the contest over the western territories, the collapse of the national party system, aligned itself around slavery and drew its energy from slavery. The popular alternative, the idea that the war was "really" about states' rights or sectional economic difference, is not a competing historical interpretation of equal standing. It is a postwar political project, assembled deliberately after 1865 by people who had lost the war and wished to win the memory of it. Understanding the conflict therefore requires two separate acts of attention. One is to reconstruct what actually happened between 1861 and 1865. The other is to understand how the meaning of those events was contested, rewritten, and partially recovered across the long century that followed. Both tasks are necessary, and the second is in some ways harder than the first.
 

@@ -6,19 +6,19 @@ date: 2015-09-17
 categories: ["Leisure"]
 tags: ["industrial-revolution", "british-history", "economic-history", "nineteenth-century", "modernization", "medieval-history"]
 excerpt: "The Industrial Revolution was named long after it ended. What happened in Britain from 1760 to 1840 was stranger and more local than the textbooks admit."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-09-17
+lang: en
 ---
-
 The Industrial Revolution was the cluster of technological, economic, and social changes that turned Britain from a farming society into the world's first industrial economy between roughly 1760 and 1840. Cotton spinning moved from cottage wheels to water-powered mills, iron output multiplied, the steam engine became a general source of power, and a population that had lived on the land for a thousand years began crowding into manufacturing towns. That much almost every account agrees on. What almost every account then does is wrap the whole process in a phrase, the "great transformation," and treat the phrase as an explanation. It is not one. Rather, it is a label, and a fairly recent label, and understanding where it came from is the first step toward seeing what actually happened.
 
 <!--more-->
 
 The argument of this article is straightforward and, in popular treatments, almost never stated. There was no single thing called the Industrial Revolution that began with the steam engine and rolled across the world like weather. What happened instead was a precise, contingent, and stubbornly British sequence of events, and the best modern scholarship explains that sequence not by appealing to genius or destiny but by appealing to two unglamorous facts: British workers were the most expensive in the world, and British coal was the cheapest. Where labour costs a great deal and fuel costs almost nothing, it pays to build a machine that burns fuel to replace labour. That incentive existed in Britain and almost nowhere else, and the machines followed the incentive. The economic historian Robert Allen built an entire book around that claim, and it is the most powerful single explanation anyone has yet offered.
 
-![The Industrial Revolution Explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Industrial Revolution Explained - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This does not mean the Industrial Revolution was inevitable, or admirable, or even, for the people who lived through its first decades, an improvement. It means the event had a structure, and the structure can be reconstructed. The pages that follow trace that reconstruction. They begin with the conditions that made Britain the unlikely birthplace of mechanized industry, move through the cotton mills and the ironworks and the railways that the textbooks rightly emphasize, and then turn to the harder questions: why here, why then, who paid, and how a phrase coined in an Oxford lecture hall in the 1880s came to stand in for one of the genuine hinge moments in the history of the species.
 

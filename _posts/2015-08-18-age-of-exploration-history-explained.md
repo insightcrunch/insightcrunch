@@ -6,17 +6,17 @@ date: 2015-08-18
 categories: ["Leisure"]
 tags: ["age-of-exploration", "columbian-exchange", "european-colonization", "transatlantic-slave-trade", "early-modern-history", "medieval-history"]
 excerpt: "The Age of Exploration is better understood as the Columbian Exchange: epidemiological, demographic, economic, and ecological reshaping of two hemispheres."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-08-18
+lang: en
 ---
-
 The Age of Exploration was the period, running roughly from 1415 to 1600, when maritime powers opened sustained sea contact between the planet's two previously separate halves. That sentence is accurate, and it is also the wrong place to begin. The voyages were a means. What they set loose was a biological, demographic, economic, and ecological reordering of two hemispheres that the historian Alfred Crosby named the Columbian Exchange, and that reordering, rather than the geography of the shipping routes, is the genuine subject of the period.
 
 <!--more-->
 
-![The Age of Exploration Explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![The Age of Exploration Explained - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 Walk into almost any classroom treatment of the years between Prince Henry's first Atlantic ventures and the death of Elizabeth I, and you will meet the same cast in the same order: Henry the Navigator funding Portuguese expeditions down the African coast from 1415, Bartolomeu Dias rounding the Cape of Good Hope in 1488, Christopher Columbus making his Atlantic crossing in 1492, Vasco da Gama reaching Calicut in 1498, Ferdinand Magellan's fleet circling the globe between 1519 and 1522, Hernan Cortes toppling the Aztec capital between 1519 and 1521, and Francisco Pizarro seizing the Inca heartland between 1532 and 1533. The names matter. The trouble is the grammar of the story they are arranged into. That grammar makes the captains the subjects of every sentence and treats the millions of people already living in the lands they reached as the setting. It elevates the act of arriving and quietly demotes everything that arriving did.
 

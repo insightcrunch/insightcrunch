@@ -6,17 +6,17 @@ date: 2015-09-02
 categories: ["Leisure"]
 tags: ["mughal-empire", "akbar", "ancient-india", "early-modern-india", "islamic-india", "medieval-history"]
 excerpt: "The Mughal Empire governed roughly 150 million people at its height, and Akbar's institutional synthesis remains early modernity's most sophisticated."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-09-02
+lang: en
 ---
-
 The Mughal Empire ruled most of the Indian subcontinent from 1526 to 1857, governing perhaps 150 million people at its height. It was founded by a displaced Central Asian prince, refined into a working state by his grandson, expanded to its largest extent by his great-great-great-grandson, and dismantled across a century and a half by regional rivals and a British trading company. The arc looks, at first glance, like every other imperial story: conquest, consolidation, golden age, overreach, collapse. That summary is not wrong. It is simply too small to hold what actually happened.
 
 <!--more-->
 
-![Mughal Empire architecture and imperial history - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Mughal Empire architecture and imperial history - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The argument of this article is that the Mughal Empire was the most institutionally sophisticated of the early-modern Eurasian states, the equal of the Ottoman, Safavid, and Ming achievements, and that it is routinely undersold in Anglophone world-history writing for reasons that have more to do with the politics of the nineteenth century than with the evidence of the sixteenth and seventeenth. The conventional treatment foregrounds spectacle: the Taj Mahal, the Peacock Throne, the jewels later carried off to Persia and London. Spectacle is real, and this article will not pretend otherwise. But the spectacle was the visible surface of something far more interesting underneath, which was a machinery of governance assembled chiefly by one ruler, the emperor Akbar, between roughly 1560 and 1605. That machinery is the story.
 
