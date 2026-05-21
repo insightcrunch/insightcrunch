@@ -9,7 +9,7 @@ excerpt: "Four decades of Khalistan-linked terrorism from the Air India bombing 
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 author: "ryan-walsh"
-last_updated: 2013-08-17
+last_updated: 2026-05-21
 lang: en
 ---
 Khalistan separatism has produced terrorism across four decades, three continents, and at least five countries, leaving a trail of wreckage that stretches from the shattered fuselage of Air India Flight 182 in the Atlantic Ocean to the bullet-riddled parking lot of a Surrey, British Columbia gurdwara where Hardeep Singh Nijjar fell in June 2023, and every act of violence along that forty-year arc connects to the same unresolved question: whether the demand for a Sikh homeland justifies the blood spilled in its name, and whether the states that sheltered the men who spilled it will ever face consequences proportional to their complicity.

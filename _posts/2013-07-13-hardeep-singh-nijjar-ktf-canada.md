@@ -9,7 +9,7 @@ excerpt: "Profile of Hardeep Singh Nijjar, the Khalistan Tiger Force chief kille
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2013-07-13
+last_updated: 2026-05-21
 lang: en
 ---
 On the evening of June 18, 2023, two masked gunmen approached a black pickup truck in the parking lot of the Guru Nanak Sikh Gurdwara on 120th Street in Surrey, British Columbia, and fired multiple rounds into the driver's seat, killing 45-year-old Hardeep Singh Nijjar, the president of the gurdwara and the man India's government had designated a terrorist three years earlier, the man Canada's Sikh community regarded as a spiritual leader and political advocate, and the man whose death would ignite the worst diplomatic confrontation between India and Canada in the seventy-five-year history of their bilateral relationship.

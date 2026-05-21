@@ -9,7 +9,7 @@ excerpt: "Profile of Aijaz Ahmad Ahangar, the Kashmiri ISIS recruit found dead i
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
 author: "andrew-price"
-last_updated: 2013-06-15
+last_updated: 2026-05-21
 lang: en
 ---
 Aijaz Ahmad Ahangar died in Afghanistan's Kunar Province sometime in February 2023, and the circumstances surrounding his death remain among the most opaque in the entire [shadow war campaign](https://insightcrunch.com/2013/01/07/india-shadow-war-explained/) attributed to India. Unlike other targets in the campaign, who were shot at close range by motorcycle-borne gunmen in Pakistani cities, Ahangar was found dead in Taliban-controlled Afghan territory, reportedly killed during Taliban operations against the Islamic State Khorasan Province. His sister, Fahmida Shafi, told journalists in Srinagar that police had summoned her elder brother to deliver the news, telling the family that Ahangar "had slept off," a euphemism that left more questions than answers. The Jammu and Kashmir Police confirmed the information to his family but declined public comment. Whether Ahangar was killed by the Taliban, by an external actor exploiting the Taliban's anti-ISIS campaign, or by some third party remains genuinely unclear, and the ambiguity makes this case the most honest test of the campaign's analytical limits.

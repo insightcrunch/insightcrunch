@@ -9,7 +9,7 @@ excerpt: "Profile of Sukhdool Singh alias Sukha Duneke, the Khalistani gangster-
 image: "/assets/images/blog/blog-60.webp"
 reading_time: 70
 author: "david-thornton"
-last_updated: 2013-08-10
+last_updated: 2026-05-21
 lang: en
 ---
 Sukhdool Singh, known across Punjab's criminal underworld and Canada's Sikh separatist corridors by his alias Sukha Duneke, was shot and killed in Winnipeg, Manitoba, in September 2023. His death came barely three months after the killing of Hardeep Singh Nijjar in Surrey, British Columbia, and it added a second Canadian data point to a pattern that was rapidly extending beyond South Asia. Duneke was neither a battle-hardened ideologue nor a doctrinaire separatist. He occupied a space that confounds traditional terrorism analysis: the gray zone where organized crime and political violence merge into a single operational ecosystem. His killing in a Canadian city, thousands of kilometers from the Punjab flatlands where his criminal career began, raised a question that Canadian law enforcement, Indian intelligence, and the Sikh diaspora community each answered differently. Was this the shadow war reaching across oceans, or was it a gangster catching up with the consequences of a life spent making enemies?

@@ -9,7 +9,7 @@ excerpt: "Bashir Ahmad Peer, Hizbul Mujahideen launching chief and India-designa
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 author: "james-carter"
-last_updated: 2013-06-01
+last_updated: 2026-05-21
 lang: en
 ---
 On a February evening in 2023, Bashir Ahmad Peer stepped outside a shop in Rawalpindi and was shot at point-blank range by an assailant whose identity remains officially undetermined. Peer, known within Hizbul Mujahideen circles by the alias Imtiyaz Alam and sometimes referred to simply as Haji, had been the outfit's launching commander in Pakistan for over fifteen years, responsible for identifying infiltration routes across the Line of Control, coordinating the dispatch of armed recruits into Kashmir's Kupwara sector, and maintaining the logistical pipeline that connected Syed Salahuddin's command structure to the operational theater in the Kashmir Valley. His killing in the garrison city of Rawalpindi, a city synonymous with Pakistan's military establishment, represents one of the most symbolically charged eliminations in the entire shadow war campaign, because it forced a question that Pakistan's security architecture cannot comfortably answer: if a designated terrorist can live and be killed in the city that houses Pakistan Army General Headquarters and the Inter-Services Intelligence directorate, then the safe haven is not merely penetrated; it is a fiction that no longer protects anyone.

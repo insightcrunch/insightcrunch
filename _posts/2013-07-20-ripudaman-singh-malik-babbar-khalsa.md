@@ -9,7 +9,7 @@ excerpt: "Profile of Ripudaman Singh Malik, the Babbar Khalsa-linked figure once
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "jason-mckenzie"
-last_updated: 2013-07-20
+last_updated: 2026-05-21
 lang: en
 ---
 Ripudaman Singh Malik lived thirty-seven years between the deadliest act of aviation terrorism before September 11 and a parking lot in Surrey, British Columbia. On a warm July morning in 2022, unknown gunmen pulled alongside his vehicle and opened fire, killing the seventy-five-year-old businessman whose name had been synonymous with the Air India Flight 182 bombing since 1985. Three hundred and twenty-nine people perished when that aircraft disintegrated over the Atlantic Ocean off the coast of Ireland, and Malik spent two decades in Canadian courts answering for those deaths before a judge acquitted him in 2005. That acquittal did not erase the association. It did not remove the grief of the families who believed he bore responsibility. And it did not, in the end, save his life. Malik's killing represents the longest consequence chain in India's shadow war against terrorism, a thirty-seven-year arc that stretches from the skies above the North Atlantic to a Canadian suburban road, connecting the bloodiest chapter of Khalistan-linked terrorism to the campaign that has reshaped how consequences reach back across decades.

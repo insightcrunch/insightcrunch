@@ -9,7 +9,7 @@ excerpt: "Mapping the fates of Kashmir-origin terrorists who crossed into Pakist
 image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2013-06-29
+last_updated: 2026-05-21
 lang: en
 ---
 A generation of Kashmiri men crossed the Line of Control during the 1990s expecting safe passage into a new life. Pakistan's Inter-Services Intelligence had promised them weapons training, organizational support, and permanent sanctuary on the western side of the divide. For more than two decades, that promise held. Bashir Ahmad Peer lived openly in Rawalpindi, less than fifteen kilometers from ISI headquarters in Aabpara. Syed Khalid Raza settled into Karachi's dense neighborhoods, attending local mosques and maintaining contact with Syed Salahuddin's United Jihad Council. Syed Noor Shalobar operated from Khyber Pakhtunkhwa, collaborating directly with Pakistan Army officers who used him as a conduit for recruiting new fighters to infiltrate back across the LoC. These men were not hiding. They were living under the explicit protection of a nuclear-armed state, and they believed that protection was permanent. Starting in 2022, the sanctuary began eliminating them.

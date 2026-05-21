@@ -9,7 +9,7 @@ excerpt: "Profile of Harvinder Singh Rinda, the Khalistani terrorist linked to S
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 72
 author: "william-knight"
-last_updated: 2013-07-27
+last_updated: 2026-05-21
 lang: en
 ---
 Harvinder Singh Sandhu, known across Punjab's criminal and separatist underworld as Rinda, died on November 19, 2022, inside a military hospital in Lahore under circumstances that remain unexplained to this day. He was approximately thirty-four years old, a wanted man carrying a ten-lakh-rupee reward from India's National Investigation Agency, the subject of an Interpol red notice issued just five months before his death, and the suspected mastermind behind the rocket-propelled grenade attack on the Punjab Police Intelligence Headquarters in Mohali. Rinda was not shot by motorcycle-borne gunmen on a Karachi street. He was not beheaded near the Line of Control. He simply checked into a Lahore hospital and never checked out, making his case the most opaque death in the entire shadow war and the one that most urgently demands an answer to a question the standard modus operandi never raises: what happens when the method is not a bullet?

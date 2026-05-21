@@ -9,7 +9,7 @@ excerpt: "Profiling Syed Khalid Raza, the former Al-Badr commander with close ti
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2013-06-08
+last_updated: 2026-05-21
 lang: en
 ---
 On the evening of February 26, 2023, two gunmen on a motorcycle pulled up outside a residence in the Gulistan-e-Johar neighborhood of Karachi and waited. When Syed Khalid Raza, a fifty-five-year-old former commander of Al-Badr Mujahideen, stepped out of his front door and walked toward his parked car, the gunmen opened fire. A single bullet struck Raza in the head, killing him instantly. The attackers rode away into the dense traffic of Pakistan's largest city, leaving behind a man whose dual affiliations with [Al-Badr Mujahideen](https://insightcrunch.com/2012/03/05/al-badr-mujahideen-explained/) and [Hizbul Mujahideen](https://insightcrunch.com/2012/02/16/hizbul-mujahideen-complete-guide/) had made him a unique node in Kashmir's militant ecology, and whose death, coming six days after the assassination of [Bashir Ahmad Peer](https://insightcrunch.com/2013/06/01/bashir-ahmad-peer-hizbul-profile/) in Rawalpindi, signaled the systematic dismantling of the Kashmir insurgency's Pakistan-based command infrastructure.

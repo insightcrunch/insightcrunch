@@ -9,7 +9,7 @@ excerpt: "Analyzing the motorcycle-borne assassination pattern across Pakistani 
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
 author: "william-knight"
-last_updated: 2013-08-27
+last_updated: 2026-05-21
 lang: en
 ---
 Somewhere in Karachi, in Lahore, in Rawalpindi, in Sialkot, in Nawabshah, the scene repeats with a consistency that defies coincidence. Two men on a motorcycle pull alongside a pedestrian or approach a parked vehicle. The pillion rider draws a 9mm pistol or, in some cases, a .30-bore handgun. He fires between two and six rounds at close range, typically from a distance of fewer than three meters. The motorcycle accelerates through the nearest congested intersection and vanishes into a river of identical two-wheelers, leaving behind a body, a handful of shell casings, and a Pakistani police force that will file a First Information Report against "unknown assailants" and never make an arrest. This is the motorcycle assassination, and it has become the single most identifiable operational signature of the [shadow war unfolding across Pakistan's cities](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/).

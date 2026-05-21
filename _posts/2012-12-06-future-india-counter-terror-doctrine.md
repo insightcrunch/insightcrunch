@@ -9,7 +9,7 @@ excerpt: "After the shadow war and Operation Sindoor, what comes next for India'
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "marcus-hall"
-last_updated: 2012-12-06
+last_updated: 2026-05-21
 lang: en
 ---
 India's approach to cross-border terrorism has undergone a transformation so complete that the country's own strategic establishment struggles to define what it has become. Four distinct responses to four distinct provocations have produced something unprecedented in the annals of counter-terrorism: a permanent repertoire of escalation options ranging from covert assassination to conventional missile strikes, all available simultaneously, all proven in operational use, and all now embedded in institutional memory. The question confronting New Delhi, Islamabad, and every capital with a stake in South Asian stability is not what India will do after the next attack. The question is which combination of instruments India will deploy, because the current posture assumes that every tool in the kit is always on the table.

@@ -9,7 +9,7 @@ excerpt: "Profile of Avtar Singh Khanda, the UK-based KLF chief and Amritpal Sin
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 70
 author: "nathan-cole"
-last_updated: 2013-08-03
+last_updated: 2026-05-21
 lang: en
 ---
 Avtar Singh Khanda died on June 15, 2023, at City Hospital in Birmingham, aged thirty-five, after what medical reports described as acute myeloid leukemia diagnosed only four days earlier. He was the self-proclaimed chief of the Khalistan Liberation Force in the United Kingdom, the son of a slain KLF militant, the man Indian agencies credited with masterminding the March 2023 assault on the Indian High Commission in London, and the handler who groomed Amritpal Singh into the figurehead of Waris Punjab De. His death, whether by cancer or by something the cancer was designed to conceal, expanded the geography of suspicion from Pakistan and Canada into a third country: the United Kingdom. If the targeted killings of Paramjit Singh Panjwar in [Lahore](https://insightcrunch.com/2013/07/06/paramjit-singh-panjwar-kcf-chief/) and Hardeep Singh Nijjar in [Surrey, Canada](https://insightcrunch.com/2013/07/13/hardeep-singh-nijjar-ktf-canada/) proved that the campaign against India's most-wanted extended beyond Pakistan's borders and beyond Kashmir-focused organizations, Khanda's death in Birmingham raised the question of whether it extended to British soil and to a man whose operational role was radicalization rather than violence.

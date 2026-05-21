@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-17T08:27:00Z",
+  "generated": "2026-05-21T09:51:20Z",
   "threshold": 50,
-  "totalPosts": 1789,
-  "flaggedPosts": 1459,
+  "totalPosts": 1813,
+  "flaggedPosts": 1482,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "available",
   "worstCount": 1667,
   "worstPost": "Growing Up With Harry Potter: How the Series Ages With Its Reader",
-  "avgTopCount": 206.7,
+  "avgTopCount": 203.4,
   "posts": [
     {
       "filename": "1996-08-07-sat-nursing-health-programs.md",
@@ -94240,6 +94240,120 @@
       ]
     },
     {
+      "filename": "2015-08-03-ottoman-empire-rise-history.md",
+      "slug": "ottoman-empire-rise-history",
+      "title": "Rise of the Ottoman Empire Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6588,
+      "topWord": "ottoman",
+      "topCount": 148,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-03-ottoman-empire-rise-history.md",
+      "flaggedWords": [
+        {
+          "word": "ottoman",
+          "count": 148
+        },
+        {
+          "word": "empire",
+          "count": 100
+        },
+        {
+          "word": "ottomans",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "ottoman",
+          "count": 148
+        },
+        {
+          "word": "empire",
+          "count": 100
+        },
+        {
+          "word": "ottomans",
+          "count": 62
+        },
+        {
+          "word": "frontier",
+          "count": 38
+        },
+        {
+          "word": "christian",
+          "count": 34
+        },
+        {
+          "word": "sultan",
+          "count": 34
+        },
+        {
+          "word": "army",
+          "count": 34
+        },
+        {
+          "word": "law",
+          "count": 33
+        },
+        {
+          "word": "institutional",
+          "count": 32
+        },
+        {
+          "word": "institutions",
+          "count": 32
+        },
+        {
+          "word": "rise",
+          "count": 31
+        },
+        {
+          "word": "byzantine",
+          "count": 30
+        },
+        {
+          "word": "conquest",
+          "count": 30
+        },
+        {
+          "word": "administrative",
+          "count": 30
+        },
+        {
+          "word": "religious",
+          "count": 29
+        },
+        {
+          "word": "timar",
+          "count": 28
+        },
+        {
+          "word": "power",
+          "count": 28
+        },
+        {
+          "word": "suleiman",
+          "count": 27
+        },
+        {
+          "word": "devshirme",
+          "count": 27
+        },
+        {
+          "word": "war",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2015-08-08-the-renaissance-explained-complete.md",
       "slug": "the-renaissance-explained-complete",
       "title": "The Renaissance Explained: Complete Guide",
@@ -94247,9 +94361,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7566,
+      "wordCount": 6814,
       "topWord": "renaissance",
-      "topCount": 242,
+      "topCount": 130,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -94259,105 +94373,93 @@
       "flaggedWords": [
         {
           "word": "renaissance",
-          "count": 242
+          "count": 130
         },
         {
-          "word": "specific",
-          "count": 203
-        },
-        {
-          "word": "classical",
-          "count": 83
-        },
-        {
-          "word": "tradition",
-          "count": 65
-        },
-        {
-          "word": "ad",
-          "count": 64
+          "word": "italian",
+          "count": 53
         }
       ],
       "top20": [
         {
           "word": "renaissance",
-          "count": 242
+          "count": 130
         },
         {
-          "word": "specific",
-          "count": 203
+          "word": "italian",
+          "count": 53
         },
         {
-          "word": "classical",
-          "count": 83
+          "word": "burckhardt",
+          "count": 49
         },
         {
-          "word": "tradition",
-          "count": 65
-        },
-        {
-          "word": "ad",
-          "count": 64
-        },
-        {
-          "word": "human",
-          "count": 50
-        },
-        {
-          "word": "humanist",
-          "count": 47
+          "word": "century",
+          "count": 48
         },
         {
           "word": "medieval",
-          "count": 44
+          "count": 47
         },
         {
-          "word": "history",
-          "count": 44
+          "word": "period",
+          "count": 47
         },
         {
-          "word": "intellectual",
-          "count": 41
+          "word": "italy",
+          "count": 46
         },
         {
-          "word": "created",
-          "count": 39
-        },
-        {
-          "word": "painting",
-          "count": 37
-        },
-        {
-          "word": "art",
-          "count": 36
-        },
-        {
-          "word": "political",
-          "count": 36
-        },
-        {
-          "word": "cultural",
+          "word": "story",
           "count": 35
         },
         {
-          "word": "visual",
-          "count": 34
-        },
-        {
-          "word": "culture",
+          "word": "art",
           "count": 33
         },
         {
-          "word": "produced",
-          "count": 32
+          "word": "self",
+          "count": 30
         },
         {
-          "word": "developed",
-          "count": 32
+          "word": "cultural",
+          "count": 29
         },
         {
-          "word": "western",
-          "count": 32
+          "word": "history",
+          "count": 28
+        },
+        {
+          "word": "modern",
+          "count": 28
+        },
+        {
+          "word": "frame",
+          "count": 28
+        },
+        {
+          "word": "claim",
+          "count": 28
+        },
+        {
+          "word": "latin",
+          "count": 28
+        },
+        {
+          "word": "greek",
+          "count": 27
+        },
+        {
+          "word": "age",
+          "count": 26
+        },
+        {
+          "word": "classical",
+          "count": 26
+        },
+        {
+          "word": "centuries",
+          "count": 25
         }
       ]
     },
@@ -94369,9 +94471,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7376,
-      "topWord": "reformation",
-      "topCount": 182,
+      "wordCount": 6879,
+      "topWord": "luther",
+      "topCount": 124,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -94380,130 +94482,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-13-protestant-reformation-explained.md",
       "flaggedWords": [
         {
-          "word": "reformation",
-          "count": 182
-        },
-        {
-          "word": "specific",
-          "count": 166
-        },
-        {
-          "word": "protestant",
-          "count": 100
-        },
-        {
           "word": "luther",
-          "count": 89
+          "count": 124
         },
         {
-          "word": "religious",
-          "count": 87
+          "word": "reformation",
+          "count": 108
         },
         {
           "word": "church",
-          "count": 79
-        },
-        {
-          "word": "theological",
-          "count": 71
-        },
-        {
-          "word": "catholic",
-          "count": 70
-        },
-        {
-          "word": "ad",
-          "count": 58
-        },
-        {
-          "word": "political",
-          "count": 55
-        },
-        {
-          "word": "authority",
-          "count": 51
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "reformation",
-          "count": 182
-        },
-        {
-          "word": "specific",
-          "count": 166
-        },
-        {
-          "word": "protestant",
-          "count": 100
-        },
-        {
           "word": "luther",
-          "count": 89
+          "count": 124
         },
         {
-          "word": "religious",
-          "count": 87
+          "word": "reformation",
+          "count": 108
         },
         {
           "word": "church",
-          "count": 79
-        },
-        {
-          "word": "theological",
-          "count": 71
-        },
-        {
-          "word": "catholic",
-          "count": 70
-        },
-        {
-          "word": "ad",
-          "count": 58
-        },
-        {
-          "word": "political",
-          "count": 55
-        },
-        {
-          "word": "authority",
-          "count": 51
-        },
-        {
-          "word": "institutional",
-          "count": 37
-        },
-        {
-          "word": "tradition",
-          "count": 37
-        },
-        {
-          "word": "history",
-          "count": 36
+          "count": 56
         },
         {
           "word": "german",
-          "count": 35
+          "count": 44
         },
         {
-          "word": "modern",
-          "count": 35
+          "word": "protestant",
+          "count": 42
         },
         {
-          "word": "scripture",
-          "count": 35
+          "word": "movement",
+          "count": 42
         },
         {
-          "word": "created",
+          "word": "century",
+          "count": 41
+        },
+        {
+          "word": "catholic",
+          "count": 39
+        },
+        {
+          "word": "frederick",
+          "count": 36
+        },
+        {
+          "word": "authority",
           "count": 34
         },
         {
-          "word": "principle",
-          "count": 33
+          "word": "religious",
+          "count": 32
         },
         {
-          "word": "christian",
-          "count": 31
+          "word": "europe",
+          "count": 25
+        },
+        {
+          "word": "theology",
+          "count": 25
+        },
+        {
+          "word": "political",
+          "count": 24
+        },
+        {
+          "word": "reformed",
+          "count": 24
+        },
+        {
+          "word": "hus",
+          "count": 23
+        },
+        {
+          "word": "produced",
+          "count": 23
+        },
+        {
+          "word": "war",
+          "count": 23
+        },
+        {
+          "word": "wycliffe",
+          "count": 22
+        },
+        {
+          "word": "rome",
+          "count": 21
         }
       ]
     },
@@ -94515,135 +94585,15 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7392,
-      "topWord": "specific",
-      "topCount": 175,
-      "flagged": true,
+      "wordCount": 6597,
+      "topWord": "exchange",
+      "topCount": 49,
+      "flagged": false,
       "suppressed": false,
       "suppressReason": "",
       "suppressSnapshot": null,
       "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-18-age-of-exploration-history-explained.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 175
-        },
-        {
-          "word": "exploration",
-          "count": 114
-        },
-        {
-          "word": "european",
-          "count": 83
-        },
-        {
-          "word": "commercial",
-          "count": 74
-        },
-        {
-          "word": "age",
-          "count": 70
-        },
-        {
-          "word": "ad",
-          "count": 62
-        },
-        {
-          "word": "americas",
-          "count": 58
-        },
-        {
-          "word": "colonial",
-          "count": 51
-        },
-        {
-          "word": "trade",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 175
-        },
-        {
-          "word": "exploration",
-          "count": 114
-        },
-        {
-          "word": "european",
-          "count": 83
-        },
-        {
-          "word": "commercial",
-          "count": 74
-        },
-        {
-          "word": "age",
-          "count": 70
-        },
-        {
-          "word": "ad",
-          "count": 62
-        },
-        {
-          "word": "americas",
-          "count": 58
-        },
-        {
-          "word": "colonial",
-          "count": 51
-        },
-        {
-          "word": "trade",
-          "count": 51
-        },
-        {
-          "word": "indigenous",
-          "count": 50
-        },
-        {
-          "word": "portuguese",
-          "count": 49
-        },
-        {
-          "word": "asia",
-          "count": 46
-        },
-        {
-          "word": "history",
-          "count": 41
-        },
-        {
-          "word": "spanish",
-          "count": 40
-        },
-        {
-          "word": "approximately",
-          "count": 39
-        },
-        {
-          "word": "empire",
-          "count": 38
-        },
-        {
-          "word": "human",
-          "count": 37
-        },
-        {
-          "word": "established",
-          "count": 34
-        },
-        {
-          "word": "century",
-          "count": 34
-        },
-        {
-          "word": "columbus",
-          "count": 33
-        }
-      ]
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-18-age-of-exploration-history-explained.md"
     },
     {
       "filename": "2015-08-20-is-meta-going-to-have-layoffs.md",
@@ -94671,9 +94621,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7481,
+      "wordCount": 6565,
       "topWord": "armada",
-      "topCount": 222,
+      "topCount": 121,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -94683,125 +94633,117 @@
       "flaggedWords": [
         {
           "word": "armada",
-          "count": 222
+          "count": 121
         },
         {
           "word": "english",
-          "count": 208
-        },
-        {
-          "word": "specific",
-          "count": 195
+          "count": 118
         },
         {
           "word": "spanish",
-          "count": 123
+          "count": 112
         },
         {
-          "word": "campaign",
-          "count": 101
-        },
-        {
-          "word": "england",
-          "count": 69
-        },
-        {
-          "word": "naval",
-          "count": 65
+          "word": "plan",
+          "count": 70
         },
         {
           "word": "fleet",
-          "count": 64
+          "count": 69
         },
         {
-          "word": "military",
-          "count": 55
+          "word": "england",
+          "count": 61
         },
         {
-          "word": "spain",
-          "count": 55
+          "word": "philip",
+          "count": 59
+        },
+        {
+          "word": "campaign",
+          "count": 58
         }
       ],
       "top20": [
         {
           "word": "armada",
-          "count": 222
+          "count": 121
         },
         {
           "word": "english",
-          "count": 208
-        },
-        {
-          "word": "specific",
-          "count": 195
+          "count": 118
         },
         {
           "word": "spanish",
-          "count": 123
+          "count": 112
         },
         {
-          "word": "campaign",
-          "count": 101
-        },
-        {
-          "word": "england",
-          "count": 69
-        },
-        {
-          "word": "naval",
-          "count": 65
+          "word": "plan",
+          "count": 70
         },
         {
           "word": "fleet",
-          "count": 64
+          "count": 69
         },
         {
-          "word": "military",
-          "count": 55
-        },
-        {
-          "word": "spain",
-          "count": 55
-        },
-        {
-          "word": "dutch",
-          "count": 41
-        },
-        {
-          "word": "ships",
-          "count": 39
-        },
-        {
-          "word": "tactical",
-          "count": 36
+          "word": "england",
+          "count": 61
         },
         {
           "word": "philip",
-          "count": 33
+          "count": 59
         },
         {
-          "word": "strategic",
-          "count": 33
+          "word": "campaign",
+          "count": 58
+        },
+        {
+          "word": "ships",
+          "count": 50
         },
         {
           "word": "parma",
+          "count": 49
+        },
+        {
+          "word": "spain",
+          "count": 35
+        },
+        {
+          "word": "medina",
           "count": 32
         },
         {
-          "word": "irish",
+          "word": "sidonia",
           "count": 32
         },
         {
-          "word": "history",
-          "count": 30
+          "word": "enterprise",
+          "count": 31
+        },
+        {
+          "word": "channel",
+          "count": 31
+        },
+        {
+          "word": "king",
+          "count": 29
+        },
+        {
+          "word": "failure",
+          "count": 29
+        },
+        {
+          "word": "coast",
+          "count": 28
+        },
+        {
+          "word": "sea",
+          "count": 27
         },
         {
           "word": "army",
-          "count": 29
-        },
-        {
-          "word": "defeat",
-          "count": 29
+          "count": 27
         }
       ]
     },
@@ -94813,9 +94755,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7429,
-      "topWord": "specific",
-      "topCount": 276,
+      "wordCount": 6495,
+      "topWord": "period",
+      "topCount": 53,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -94824,114 +94766,90 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-08-28-scientific-revolution-history-explained.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 276
-        },
-        {
-          "word": "scientific",
-          "count": 204
-        },
-        {
-          "word": "revolution",
-          "count": 181
-        },
-        {
-          "word": "mathematical",
-          "count": 88
-        },
-        {
-          "word": "newton",
-          "count": 69
-        },
-        {
-          "word": "intellectual",
-          "count": 60
-        },
-        {
-          "word": "natural",
-          "count": 59
+          "word": "period",
+          "count": 53
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 276
-        },
-        {
-          "word": "scientific",
-          "count": 204
+          "word": "period",
+          "count": 53
         },
         {
           "word": "revolution",
-          "count": 181
+          "count": 45
         },
         {
-          "word": "mathematical",
-          "count": 88
+          "word": "inquiry",
+          "count": 45
+        },
+        {
+          "word": "century",
+          "count": 44
+        },
+        {
+          "word": "story",
+          "count": 41
+        },
+        {
+          "word": "evidence",
+          "count": 37
+        },
+        {
+          "word": "medieval",
+          "count": 35
         },
         {
           "word": "newton",
-          "count": 69
-        },
-        {
-          "word": "intellectual",
-          "count": 60
-        },
-        {
-          "word": "natural",
-          "count": 59
-        },
-        {
-          "word": "knowledge",
-          "count": 49
-        },
-        {
-          "word": "theory",
-          "count": 40
-        },
-        {
-          "word": "ad",
-          "count": 40
+          "count": 34
         },
         {
           "word": "modern",
-          "count": 38
+          "count": 33
         },
         {
-          "word": "history",
-          "count": 38
+          "word": "scientific",
+          "count": 32
         },
         {
-          "word": "science",
-          "count": 37
+          "word": "european",
+          "count": 31
         },
         {
-          "word": "model",
-          "count": 37
+          "word": "single",
+          "count": 29
         },
         {
-          "word": "established",
-          "count": 37
+          "word": "institutions",
+          "count": 25
         },
         {
-          "word": "philosophy",
-          "count": 36
-        },
-        {
-          "word": "motion",
-          "count": 36
-        },
-        {
-          "word": "laws",
-          "count": 36
+          "word": "authority",
+          "count": 25
         },
         {
           "word": "galileo",
-          "count": 32
+          "count": 24
         },
         {
-          "word": "mechanics",
-          "count": 32
+          "word": "science",
+          "count": 24
+        },
+        {
+          "word": "shapin",
+          "count": 24
+        },
+        {
+          "word": "natural",
+          "count": 23
+        },
+        {
+          "word": "copernicus",
+          "count": 23
+        },
+        {
+          "word": "wootton",
+          "count": 23
         }
       ]
     },
@@ -94943,9 +94861,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7696,
-      "topWord": "specific",
-      "topCount": 295,
+      "wordCount": 7176,
+      "topWord": "mughal",
+      "topCount": 125,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -94954,130 +94872,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-02-mughal-empire-india-history.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 295
-        },
-        {
           "word": "mughal",
-          "count": 249
+          "count": 125
         },
         {
           "word": "empire",
-          "count": 101
-        },
-        {
-          "word": "indian",
-          "count": 87
-        },
-        {
-          "word": "history",
-          "count": 69
-        },
-        {
-          "word": "india",
-          "count": 67
+          "count": 89
         },
         {
           "word": "akbar",
-          "count": 62
-        },
-        {
-          "word": "imperial",
-          "count": 60
-        },
-        {
-          "word": "persian",
-          "count": 60
-        },
-        {
-          "word": "political",
-          "count": 54
-        },
-        {
-          "word": "tradition",
-          "count": 53
+          "count": 57
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 295
-        },
-        {
           "word": "mughal",
-          "count": 249
+          "count": 125
         },
         {
           "word": "empire",
-          "count": 101
-        },
-        {
-          "word": "indian",
-          "count": 87
-        },
-        {
-          "word": "history",
-          "count": 69
-        },
-        {
-          "word": "india",
-          "count": 67
+          "count": 89
         },
         {
           "word": "akbar",
-          "count": 62
+          "count": 57
         },
         {
-          "word": "imperial",
-          "count": 60
+          "word": "revenue",
+          "count": 49
         },
         {
-          "word": "persian",
-          "count": 60
-        },
-        {
-          "word": "political",
-          "count": 54
-        },
-        {
-          "word": "tradition",
-          "count": 53
-        },
-        {
-          "word": "religious",
-          "count": 48
-        },
-        {
-          "word": "hindu",
-          "count": 47
-        },
-        {
-          "word": "cultural",
+          "word": "subcontinent",
           "count": 46
         },
         {
-          "word": "court",
-          "count": 43
-        },
-        {
-          "word": "british",
-          "count": 40
-        },
-        {
-          "word": "military",
-          "count": 39
-        },
-        {
           "word": "dynasty",
-          "count": 35
+          "count": 41
+        },
+        {
+          "word": "central",
+          "count": 38
+        },
+        {
+          "word": "imperial",
+          "count": 37
         },
         {
           "word": "emperor",
-          "count": 32
+          "count": 33
         },
         {
-          "word": "administrative",
+          "word": "court",
           "count": 31
+        },
+        {
+          "word": "century",
+          "count": 30
+        },
+        {
+          "word": "rajput",
+          "count": 30
+        },
+        {
+          "word": "shah",
+          "count": 30
+        },
+        {
+          "word": "babur",
+          "count": 29
+        },
+        {
+          "word": "company",
+          "count": 27
+        },
+        {
+          "word": "throne",
+          "count": 27
+        },
+        {
+          "word": "built",
+          "count": 27
+        },
+        {
+          "word": "single",
+          "count": 27
+        },
+        {
+          "word": "reign",
+          "count": 27
+        },
+        {
+          "word": "itself",
+          "count": 26
         }
       ]
     },
@@ -95209,9 +95095,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7193,
-      "topWord": "specific",
-      "topCount": 404,
+      "wordCount": 6773,
+      "topWord": "revolution",
+      "topCount": 108,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -95220,118 +95106,106 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-12-american-revolution-explained-complete.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 404
-        },
-        {
-          "word": "american",
-          "count": 142
-        },
-        {
           "word": "revolution",
-          "count": 137
-        },
-        {
-          "word": "political",
-          "count": 109
-        },
-        {
-          "word": "constitutional",
-          "count": 94
+          "count": 108
         },
         {
           "word": "british",
-          "count": 87
+          "count": 89
         },
         {
-          "word": "founding",
-          "count": 68
+          "word": "war",
+          "count": 75
         },
         {
           "word": "colonial",
-          "count": 65
+          "count": 64
+        },
+        {
+          "word": "american",
+          "count": 58
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 404
-        },
-        {
-          "word": "american",
-          "count": 142
-        },
-        {
           "word": "revolution",
-          "count": 137
-        },
-        {
-          "word": "political",
-          "count": 109
-        },
-        {
-          "word": "constitutional",
-          "count": 94
+          "count": 108
         },
         {
           "word": "british",
-          "count": 87
-        },
-        {
-          "word": "founding",
-          "count": 68
-        },
-        {
-          "word": "colonial",
-          "count": 65
-        },
-        {
-          "word": "french",
-          "count": 50
-        },
-        {
-          "word": "rights",
-          "count": 48
+          "count": 89
         },
         {
           "word": "war",
-          "count": 47
+          "count": 75
         },
         {
-          "word": "history",
-          "count": 46
+          "word": "colonial",
+          "count": 64
         },
         {
-          "word": "government",
-          "count": 44
+          "word": "american",
+          "count": 58
         },
         {
-          "word": "independence",
-          "count": 43
-        },
-        {
-          "word": "ad",
-          "count": 41
-        },
-        {
-          "word": "tradition",
-          "count": 37
-        },
-        {
-          "word": "military",
-          "count": 36
-        },
-        {
-          "word": "continental",
+          "word": "enslaved",
           "count": 35
         },
         {
-          "word": "declaration",
-          "count": 34
+          "word": "colonists",
+          "count": 35
         },
         {
-          "word": "constitution",
-          "count": 34
+          "word": "political",
+          "count": 33
+        },
+        {
+          "word": "britain",
+          "count": 32
+        },
+        {
+          "word": "population",
+          "count": 32
+        },
+        {
+          "word": "colonies",
+          "count": 31
+        },
+        {
+          "word": "indigenous",
+          "count": 31
+        },
+        {
+          "word": "nations",
+          "count": 28
+        },
+        {
+          "word": "itself",
+          "count": 25
+        },
+        {
+          "word": "revolutionary",
+          "count": 25
+        },
+        {
+          "word": "land",
+          "count": 24
+        },
+        {
+          "word": "boston",
+          "count": 24
+        },
+        {
+          "word": "french",
+          "count": 23
+        },
+        {
+          "word": "power",
+          "count": 23
+        },
+        {
+          "word": "states",
+          "count": 23
         }
       ]
     },
@@ -95343,9 +95217,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7938,
-      "topWord": "specific",
-      "topCount": 577,
+      "wordCount": 6657,
+      "topWord": "industrial",
+      "topCount": 126,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -95354,118 +95228,106 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-17-industrial-revolution-explained.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 577
-        },
-        {
           "word": "industrial",
-          "count": 258
+          "count": 126
         },
         {
           "word": "revolution",
-          "count": 131
+          "count": 70
         },
         {
-          "word": "industrialization",
-          "count": 65
+          "word": "britain",
+          "count": 64
         },
         {
           "word": "british",
+          "count": 58
+        },
+        {
+          "word": "coal",
           "count": 57
-        },
-        {
-          "word": "production",
-          "count": 56
-        },
-        {
-          "word": "factory",
-          "count": 56
-        },
-        {
-          "word": "class",
-          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 577
-        },
-        {
           "word": "industrial",
-          "count": 258
+          "count": 126
         },
         {
           "word": "revolution",
-          "count": 131
-        },
-        {
-          "word": "industrialization",
-          "count": 65
-        },
-        {
-          "word": "british",
-          "count": 57
-        },
-        {
-          "word": "production",
-          "count": 56
-        },
-        {
-          "word": "factory",
-          "count": 56
-        },
-        {
-          "word": "class",
-          "count": 55
-        },
-        {
-          "word": "economic",
-          "count": 50
-        },
-        {
-          "word": "created",
-          "count": 49
-        },
-        {
-          "word": "coal",
-          "count": 46
-        },
-        {
-          "word": "history",
-          "count": 45
-        },
-        {
-          "word": "transformation",
-          "count": 41
-        },
-        {
-          "word": "iron",
-          "count": 39
+          "count": 70
         },
         {
           "word": "britain",
-          "count": 38
+          "count": 64
         },
         {
-          "word": "political",
-          "count": 38
+          "word": "british",
+          "count": 58
         },
         {
-          "word": "working",
-          "count": 38
+          "word": "coal",
+          "count": 57
+        },
+        {
+          "word": "cotton",
+          "count": 50
+        },
+        {
+          "word": "iron",
+          "count": 45
+        },
+        {
+          "word": "factory",
+          "count": 44
+        },
+        {
+          "word": "labour",
+          "count": 42
+        },
+        {
+          "word": "industrialization",
+          "count": 41
+        },
+        {
+          "word": "cheap",
+          "count": 34
+        },
+        {
+          "word": "engine",
+          "count": 32
+        },
+        {
+          "word": "wages",
+          "count": 32
         },
         {
           "word": "century",
-          "count": 37
+          "count": 32
         },
         {
-          "word": "labor",
-          "count": 37
+          "word": "steam",
+          "count": 31
         },
         {
           "word": "workers",
-          "count": 36
+          "count": 28
+        },
+        {
+          "word": "built",
+          "count": 27
+        },
+        {
+          "word": "history",
+          "count": 27
+        },
+        {
+          "word": "power",
+          "count": 26
+        },
+        {
+          "word": "single",
+          "count": 26
         }
       ]
     },
@@ -95495,9 +95357,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7796,
-      "topWord": "specific",
-      "topCount": 599,
+      "wordCount": 6758,
+      "topWord": "napoleon",
+      "topCount": 120,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -95506,129 +95368,105 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-09-22-napoleonic-wars-explained-complete.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 599
-        },
-        {
           "word": "napoleon",
-          "count": 185
-        },
-        {
-          "word": "military",
-          "count": 108
+          "count": 120
         },
         {
           "word": "french",
-          "count": 107
-        },
-        {
-          "word": "napoleonic",
-          "count": 96
-        },
-        {
-          "word": "european",
-          "count": 70
+          "count": 106
         },
         {
           "word": "war",
-          "count": 66
-        },
-        {
-          "word": "history",
-          "count": 63
+          "count": 79
         },
         {
           "word": "wars",
-          "count": 59
+          "count": 74
         },
         {
-          "word": "british",
-          "count": 56
-        },
-        {
-          "word": "political",
-          "count": 52
+          "word": "france",
+          "count": 69
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 599
-        },
-        {
           "word": "napoleon",
-          "count": 185
-        },
-        {
-          "word": "military",
-          "count": 108
+          "count": 120
         },
         {
           "word": "french",
-          "count": 107
-        },
-        {
-          "word": "napoleonic",
-          "count": 96
-        },
-        {
-          "word": "european",
-          "count": 70
+          "count": 106
         },
         {
           "word": "war",
-          "count": 66
-        },
-        {
-          "word": "history",
-          "count": 63
+          "count": 79
         },
         {
           "word": "wars",
-          "count": 59
+          "count": 74
         },
         {
-          "word": "british",
-          "count": 56
-        },
-        {
-          "word": "political",
-          "count": 52
-        },
-        {
-          "word": "approximately",
-          "count": 40
+          "word": "france",
+          "count": 69
         },
         {
           "word": "army",
-          "count": 38
+          "count": 50
         },
         {
-          "word": "battle",
-          "count": 38
+          "word": "britain",
+          "count": 49
         },
         {
-          "word": "russian",
-          "count": 34
-        },
-        {
-          "word": "operational",
-          "count": 31
+          "word": "napoleonic",
+          "count": 47
         },
         {
           "word": "europe",
+          "count": 46
+        },
+        {
+          "word": "peace",
+          "count": 39
+        },
+        {
+          "word": "russia",
+          "count": 37
+        },
+        {
+          "word": "battle",
+          "count": 36
+        },
+        {
+          "word": "british",
+          "count": 32
+        },
+        {
+          "word": "revolutionary",
+          "count": 31
+        },
+        {
+          "word": "austria",
           "count": 30
+        },
+        {
+          "word": "european",
+          "count": 26
+        },
+        {
+          "word": "structural",
+          "count": 26
+        },
+        {
+          "word": "conflict",
+          "count": 25
         },
         {
           "word": "power",
-          "count": 30
+          "count": 25
         },
         {
-          "word": "created",
-          "count": 27
-        },
-        {
-          "word": "century",
+          "word": "vienna",
           "count": 25
         }
       ]
@@ -95784,6 +95622,112 @@
       ]
     },
     {
+      "filename": "2015-10-02-latin-american-independence-explained.md",
+      "slug": "latin-american-independence-explained",
+      "title": "Latin American Independence Explained",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 6569,
+      "topWord": "spanish",
+      "topCount": 51,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-02-latin-american-independence-explained.md",
+      "flaggedWords": [
+        {
+          "word": "spanish",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "spanish",
+          "count": 51
+        },
+        {
+          "word": "american",
+          "count": 48
+        },
+        {
+          "word": "wars",
+          "count": 45
+        },
+        {
+          "word": "political",
+          "count": 45
+        },
+        {
+          "word": "colonial",
+          "count": 44
+        },
+        {
+          "word": "bolivar",
+          "count": 40
+        },
+        {
+          "word": "brazil",
+          "count": 34
+        },
+        {
+          "word": "spain",
+          "count": 33
+        },
+        {
+          "word": "single",
+          "count": 29
+        },
+        {
+          "word": "elite",
+          "count": 29
+        },
+        {
+          "word": "creole",
+          "count": 28
+        },
+        {
+          "word": "states",
+          "count": 27
+        },
+        {
+          "word": "revolution",
+          "count": 27
+        },
+        {
+          "word": "break",
+          "count": 26
+        },
+        {
+          "word": "power",
+          "count": 26
+        },
+        {
+          "word": "mexico",
+          "count": 25
+        },
+        {
+          "word": "republics",
+          "count": 24
+        },
+        {
+          "word": "america",
+          "count": 24
+        },
+        {
+          "word": "social",
+          "count": 24
+        },
+        {
+          "word": "change",
+          "count": 24
+        }
+      ]
+    },
+    {
       "filename": "2015-10-07-declaration-of-independence-explained.md",
       "slug": "declaration-of-independence-explained",
       "title": "The Declaration of Independence Explained",
@@ -95791,9 +95735,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7423,
-      "topWord": "specific",
-      "topCount": 903,
+      "wordCount": 6739,
+      "topWord": "declaration",
+      "topCount": 143,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -95802,122 +95746,98 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-07-declaration-of-independence-explained.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 903
-        },
-        {
           "word": "declaration",
-          "count": 268
+          "count": 143
         },
         {
-          "word": "rights",
-          "count": 132
+          "word": "text",
+          "count": 105
         },
         {
-          "word": "political",
-          "count": 120
-        },
-        {
-          "word": "jefferson",
-          "count": 83
-        },
-        {
-          "word": "american",
-          "count": 75
-        },
-        {
-          "word": "independence",
-          "count": 65
-        },
-        {
-          "word": "founding",
-          "count": 61
-        },
-        {
-          "word": "principles",
-          "count": 57
+          "word": "preamble",
+          "count": 60
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 903
-        },
-        {
           "word": "declaration",
-          "count": 268
+          "count": 143
         },
         {
-          "word": "rights",
-          "count": 132
+          "word": "text",
+          "count": 105
         },
         {
-          "word": "political",
-          "count": 120
-        },
-        {
-          "word": "jefferson",
-          "count": 83
-        },
-        {
-          "word": "american",
-          "count": 75
+          "word": "preamble",
+          "count": 60
         },
         {
           "word": "independence",
-          "count": 65
+          "count": 42
         },
         {
-          "word": "founding",
-          "count": 61
+          "word": "legal",
+          "count": 42
         },
         {
-          "word": "principles",
-          "count": 57
+          "word": "jefferson",
+          "count": 42
         },
         {
-          "word": "document",
-          "count": 47
+          "word": "colonies",
+          "count": 40
         },
         {
-          "word": "natural",
-          "count": 46
-        },
-        {
-          "word": "history",
-          "count": 45
-        },
-        {
-          "word": "equal",
-          "count": 41
-        },
-        {
-          "word": "philosophical",
-          "count": 39
-        },
-        {
-          "word": "government",
-          "count": 38
-        },
-        {
-          "word": "constitutional",
+          "word": "king",
           "count": 36
         },
         {
-          "word": "equality",
+          "word": "states",
           "count": 35
         },
         {
-          "word": "created",
+          "word": "political",
+          "count": 35
+        },
+        {
+          "word": "american",
+          "count": 35
+        },
+        {
+          "word": "government",
+          "count": 34
+        },
+        {
+          "word": "congress",
+          "count": 34
+        },
+        {
+          "word": "founding",
           "count": 33
         },
         {
-          "word": "principle",
-          "count": 31
+          "word": "foreign",
+          "count": 30
         },
         {
-          "word": "human",
-          "count": 31
+          "word": "indictment",
+          "count": 29
+        },
+        {
+          "word": "war",
+          "count": 29
+        },
+        {
+          "word": "separation",
+          "count": 28
+        },
+        {
+          "word": "read",
+          "count": 28
+        },
+        {
+          "word": "july",
+          "count": 28
         }
       ]
     },
@@ -95947,9 +95867,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 7966,
-      "topWord": "specific",
-      "topCount": 1079,
+      "wordCount": 7064,
+      "topWord": "war",
+      "topCount": 129,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -95958,130 +95878,106 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2015-10-12-american-civil-war-explained-complete.md",
       "flaggedWords": [
         {
-          "word": "specific",
-          "count": 1079
-        },
-        {
           "word": "war",
-          "count": 232
-        },
-        {
-          "word": "confederate",
-          "count": 115
-        },
-        {
-          "word": "american",
-          "count": 109
-        },
-        {
-          "word": "civil",
-          "count": 97
-        },
-        {
-          "word": "union",
-          "count": 87
-        },
-        {
-          "word": "political",
-          "count": 81
-        },
-        {
-          "word": "slavery",
-          "count": 74
+          "count": 129
         },
         {
           "word": "states",
-          "count": 74
+          "count": 99
         },
         {
-          "word": "military",
-          "count": 65
+          "word": "slavery",
+          "count": 96
         },
         {
-          "word": "history",
-          "count": 53
+          "word": "union",
+          "count": 76
+        },
+        {
+          "word": "confederate",
+          "count": 66
         }
       ],
       "top20": [
         {
-          "word": "specific",
-          "count": 1079
-        },
-        {
           "word": "war",
-          "count": 232
-        },
-        {
-          "word": "confederate",
-          "count": 115
-        },
-        {
-          "word": "american",
-          "count": 109
-        },
-        {
-          "word": "civil",
-          "count": 97
-        },
-        {
-          "word": "union",
-          "count": 87
-        },
-        {
-          "word": "political",
-          "count": 81
-        },
-        {
-          "word": "slavery",
-          "count": 74
+          "count": 129
         },
         {
           "word": "states",
-          "count": 74
+          "count": 99
         },
         {
-          "word": "military",
-          "count": 65
+          "word": "slavery",
+          "count": 96
         },
         {
-          "word": "history",
-          "count": 53
+          "word": "union",
+          "count": 76
         },
         {
-          "word": "rights",
-          "count": 48
+          "word": "confederate",
+          "count": 66
         },
         {
-          "word": "approximately",
-          "count": 44
+          "word": "confederacy",
+          "count": 47
+        },
+        {
+          "word": "south",
+          "count": 43
         },
         {
           "word": "lincoln",
-          "count": 43
-        },
-        {
-          "word": "ad",
-          "count": 43
-        },
-        {
-          "word": "southern",
-          "count": 43
-        },
-        {
-          "word": "enslaved",
-          "count": 41
-        },
-        {
-          "word": "cause",
           "count": 40
         },
         {
-          "word": "reconstruction",
-          "count": 37
+          "word": "black",
+          "count": 39
         },
         {
-          "word": "constitutional",
-          "count": 35
+          "word": "united",
+          "count": 36
+        },
+        {
+          "word": "cause",
+          "count": 33
+        },
+        {
+          "word": "federal",
+          "count": 31
+        },
+        {
+          "word": "lee",
+          "count": 31
+        },
+        {
+          "word": "southern",
+          "count": 30
+        },
+        {
+          "word": "virginia",
+          "count": 30
+        },
+        {
+          "word": "northern",
+          "count": 29
+        },
+        {
+          "word": "american",
+          "count": 28
+        },
+        {
+          "word": "army",
+          "count": 28
+        },
+        {
+          "word": "government",
+          "count": 27
+        },
+        {
+          "word": "reconstruction",
+          "count": 27
         }
       ]
     },
@@ -129504,6 +129400,136 @@
       ]
     },
     {
+      "filename": "2019-04-15-targeted-killing-legal-debate.md",
+      "slug": "targeted-killing-legal-debate",
+      "title": "Targeted Killing Legal Ethical Debate",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6713,
+      "topWord": "killing",
+      "topCount": 88,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-15-targeted-killing-legal-debate.md",
+      "flaggedWords": [
+        {
+          "word": "killing",
+          "count": 88
+        },
+        {
+          "word": "law",
+          "count": 86
+        },
+        {
+          "word": "legal",
+          "count": 74
+        },
+        {
+          "word": "targeted",
+          "count": 62
+        },
+        {
+          "word": "imminence",
+          "count": 51
+        },
+        {
+          "word": "standard",
+          "count": 51
+        },
+        {
+          "word": "states",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "killing",
+          "count": 88
+        },
+        {
+          "word": "law",
+          "count": 86
+        },
+        {
+          "word": "legal",
+          "count": 74
+        },
+        {
+          "word": "targeted",
+          "count": 62
+        },
+        {
+          "word": "imminence",
+          "count": 51
+        },
+        {
+          "word": "standard",
+          "count": 51
+        },
+        {
+          "word": "states",
+          "count": 51
+        },
+        {
+          "word": "doctrine",
+          "count": 48
+        },
+        {
+          "word": "capture",
+          "count": 45
+        },
+        {
+          "word": "india",
+          "count": 43
+        },
+        {
+          "word": "proportionality",
+          "count": 40
+        },
+        {
+          "word": "attack",
+          "count": 38
+        },
+        {
+          "word": "act",
+          "count": 37
+        },
+        {
+          "word": "strike",
+          "count": 37
+        },
+        {
+          "word": "unable",
+          "count": 35
+        },
+        {
+          "word": "practice",
+          "count": 33
+        },
+        {
+          "word": "unwilling",
+          "count": 33
+        },
+        {
+          "word": "defense",
+          "count": 31
+        },
+        {
+          "word": "cannot",
+          "count": 31
+        },
+        {
+          "word": "necessity",
+          "count": 30
+        }
+      ]
+    },
+    {
       "filename": "2019-04-21-harvard-accommodation-complete-guide.md",
       "slug": "harvard-accommodation-complete-guide",
       "title": "Harvard Accommodation - The Definitive Guide for Students",
@@ -129662,6 +129688,128 @@
         {
           "word": "rooms",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2019-04-22-israel-india-intelligence-partnership.md",
+      "slug": "israel-india-intelligence-partnership",
+      "title": "Israel India Intelligence Partnership",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6770,
+      "topWord": "indian",
+      "topCount": 95,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-22-israel-india-intelligence-partnership.md",
+      "flaggedWords": [
+        {
+          "word": "indian",
+          "count": 95
+        },
+        {
+          "word": "israeli",
+          "count": 77
+        },
+        {
+          "word": "partnership",
+          "count": 73
+        },
+        {
+          "word": "intelligence",
+          "count": 61
+        },
+        {
+          "word": "relationship",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "indian",
+          "count": 95
+        },
+        {
+          "word": "israeli",
+          "count": 77
+        },
+        {
+          "word": "partnership",
+          "count": 73
+        },
+        {
+          "word": "intelligence",
+          "count": 61
+        },
+        {
+          "word": "relationship",
+          "count": 55
+        },
+        {
+          "word": "counter",
+          "count": 50
+        },
+        {
+          "word": "service",
+          "count": 50
+        },
+        {
+          "word": "india",
+          "count": 46
+        },
+        {
+          "word": "campaign",
+          "count": 45
+        },
+        {
+          "word": "capability",
+          "count": 44
+        },
+        {
+          "word": "israel",
+          "count": 44
+        },
+        {
+          "word": "terror",
+          "count": 43
+        },
+        {
+          "word": "doctrine",
+          "count": 36
+        },
+        {
+          "word": "operational",
+          "count": 35
+        },
+        {
+          "word": "services",
+          "count": 32
+        },
+        {
+          "word": "training",
+          "count": 32
+        },
+        {
+          "word": "partner",
+          "count": 30
+        },
+        {
+          "word": "domain",
+          "count": 29
+        },
+        {
+          "word": "technology",
+          "count": 29
+        },
+        {
+          "word": "analysis",
+          "count": 27
         }
       ]
     },
@@ -129942,6 +130090,270 @@
       ]
     },
     {
+      "filename": "2019-04-29-rise-and-kill-first-doctrine.md",
+      "slug": "rise-and-kill-first-doctrine",
+      "title": "Rise and Kill First Doctrine Explained",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7158,
+      "topWord": "india",
+      "topCount": 134,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-04-29-rise-and-kill-first-doctrine.md",
+      "flaggedWords": [
+        {
+          "word": "india",
+          "count": 134
+        },
+        {
+          "word": "israel",
+          "count": 116
+        },
+        {
+          "word": "doctrine",
+          "count": 113
+        },
+        {
+          "word": "indian",
+          "count": 98
+        },
+        {
+          "word": "killing",
+          "count": 83
+        },
+        {
+          "word": "campaign",
+          "count": 75
+        },
+        {
+          "word": "israeli",
+          "count": 74
+        },
+        {
+          "word": "principle",
+          "count": 60
+        },
+        {
+          "word": "targeted",
+          "count": 53
+        },
+        {
+          "word": "comparison",
+          "count": 53
+        },
+        {
+          "word": "practice",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "india",
+          "count": 134
+        },
+        {
+          "word": "israel",
+          "count": 116
+        },
+        {
+          "word": "doctrine",
+          "count": 113
+        },
+        {
+          "word": "indian",
+          "count": 98
+        },
+        {
+          "word": "killing",
+          "count": 83
+        },
+        {
+          "word": "campaign",
+          "count": 75
+        },
+        {
+          "word": "israeli",
+          "count": 74
+        },
+        {
+          "word": "principle",
+          "count": 60
+        },
+        {
+          "word": "targeted",
+          "count": 53
+        },
+        {
+          "word": "comparison",
+          "count": 53
+        },
+        {
+          "word": "practice",
+          "count": 52
+        },
+        {
+          "word": "bergman",
+          "count": 47
+        },
+        {
+          "word": "intelligence",
+          "count": 45
+        },
+        {
+          "word": "public",
+          "count": 38
+        },
+        {
+          "word": "operational",
+          "count": 38
+        },
+        {
+          "word": "framework",
+          "count": 36
+        },
+        {
+          "word": "court",
+          "count": 36
+        },
+        {
+          "word": "denial",
+          "count": 33
+        },
+        {
+          "word": "operation",
+          "count": 33
+        },
+        {
+          "word": "security",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "filename": "2019-05-06-us-extraordinary-rendition.md",
+      "slug": "us-extraordinary-rendition",
+      "title": "US Extraordinary Rendition Program",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6981,
+      "topWord": "program",
+      "topCount": 142,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-06-us-extraordinary-rendition.md",
+      "flaggedWords": [
+        {
+          "word": "program",
+          "count": 142
+        },
+        {
+          "word": "cia",
+          "count": 70
+        },
+        {
+          "word": "rendition",
+          "count": 60
+        },
+        {
+          "word": "american",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "program",
+          "count": 142
+        },
+        {
+          "word": "cia",
+          "count": 70
+        },
+        {
+          "word": "rendition",
+          "count": 60
+        },
+        {
+          "word": "american",
+          "count": 51
+        },
+        {
+          "word": "states",
+          "count": 47
+        },
+        {
+          "word": "intelligence",
+          "count": 41
+        },
+        {
+          "word": "interrogation",
+          "count": 36
+        },
+        {
+          "word": "legal",
+          "count": 36
+        },
+        {
+          "word": "agency",
+          "count": 35
+        },
+        {
+          "word": "secret",
+          "count": 31
+        },
+        {
+          "word": "black",
+          "count": 31
+        },
+        {
+          "word": "united",
+          "count": 30
+        },
+        {
+          "word": "detainees",
+          "count": 30
+        },
+        {
+          "word": "held",
+          "count": 27
+        },
+        {
+          "word": "court",
+          "count": 27
+        },
+        {
+          "word": "produced",
+          "count": 26
+        },
+        {
+          "word": "capture",
+          "count": 26
+        },
+        {
+          "word": "extraordinary",
+          "count": 25
+        },
+        {
+          "word": "detention",
+          "count": 25
+        },
+        {
+          "word": "method",
+          "count": 24
+        }
+      ]
+    },
+    {
       "filename": "2019-05-07-oxford-vs-cambridge-student-life-accommodation.md",
       "slug": "oxford-vs-cambridge-student-life-accommodation",
       "title": "Oxford vs Cambridge - Student Life, Accommodation, and Cost Compared",
@@ -130076,6 +130488,136 @@
         {
           "word": "strong",
           "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2019-05-13-south-africa-apartheid-assassinations.md",
+      "slug": "south-africa-apartheid-assassinations",
+      "title": "South Africa Apartheid Assassinations",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6580,
+      "topWord": "apartheid",
+      "topCount": 100,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-13-south-africa-apartheid-assassinations.md",
+      "flaggedWords": [
+        {
+          "word": "apartheid",
+          "count": 100
+        },
+        {
+          "word": "killing",
+          "count": 89
+        },
+        {
+          "word": "south",
+          "count": 81
+        },
+        {
+          "word": "programme",
+          "count": 66
+        },
+        {
+          "word": "african",
+          "count": 63
+        },
+        {
+          "word": "security",
+          "count": 53
+        },
+        {
+          "word": "truth",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "apartheid",
+          "count": 100
+        },
+        {
+          "word": "killing",
+          "count": 89
+        },
+        {
+          "word": "south",
+          "count": 81
+        },
+        {
+          "word": "programme",
+          "count": 66
+        },
+        {
+          "word": "african",
+          "count": 63
+        },
+        {
+          "word": "security",
+          "count": 53
+        },
+        {
+          "word": "truth",
+          "count": 53
+        },
+        {
+          "word": "death",
+          "count": 48
+        },
+        {
+          "word": "regime",
+          "count": 42
+        },
+        {
+          "word": "commission",
+          "count": 38
+        },
+        {
+          "word": "government",
+          "count": 36
+        },
+        {
+          "word": "covert",
+          "count": 36
+        },
+        {
+          "word": "police",
+          "count": 33
+        },
+        {
+          "word": "political",
+          "count": 32
+        },
+        {
+          "word": "operations",
+          "count": 32
+        },
+        {
+          "word": "squads",
+          "count": 31
+        },
+        {
+          "word": "operatives",
+          "count": 31
+        },
+        {
+          "word": "killed",
+          "count": 28
+        },
+        {
+          "word": "lesson",
+          "count": 25
+        },
+        {
+          "word": "deniability",
+          "count": 24
         }
       ]
     },
@@ -130218,6 +130760,140 @@
         {
           "word": "environment",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2019-05-20-turkey-pkk-cross-border-ops.md",
+      "slug": "turkey-pkk-cross-border-ops",
+      "title": "Turkey PKK Cross-Border Operations",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7256,
+      "topWord": "turkish",
+      "topCount": 143,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-20-turkey-pkk-cross-border-ops.md",
+      "flaggedWords": [
+        {
+          "word": "turkish",
+          "count": 143
+        },
+        {
+          "word": "turkey",
+          "count": 132
+        },
+        {
+          "word": "border",
+          "count": 129
+        },
+        {
+          "word": "india",
+          "count": 111
+        },
+        {
+          "word": "cross",
+          "count": 100
+        },
+        {
+          "word": "organization",
+          "count": 70
+        },
+        {
+          "word": "military",
+          "count": 53
+        },
+        {
+          "word": "war",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "turkish",
+          "count": 143
+        },
+        {
+          "word": "turkey",
+          "count": 132
+        },
+        {
+          "word": "border",
+          "count": 129
+        },
+        {
+          "word": "india",
+          "count": 111
+        },
+        {
+          "word": "cross",
+          "count": 100
+        },
+        {
+          "word": "organization",
+          "count": 70
+        },
+        {
+          "word": "military",
+          "count": 53
+        },
+        {
+          "word": "war",
+          "count": 52
+        },
+        {
+          "word": "operations",
+          "count": 50
+        },
+        {
+          "word": "kurdish",
+          "count": 48
+        },
+        {
+          "word": "indian",
+          "count": 42
+        },
+        {
+          "word": "political",
+          "count": 40
+        },
+        {
+          "word": "armed",
+          "count": 39
+        },
+        {
+          "word": "permanent",
+          "count": 35
+        },
+        {
+          "word": "campaign",
+          "count": 33
+        },
+        {
+          "word": "inside",
+          "count": 31
+        },
+        {
+          "word": "iraq",
+          "count": 30
+        },
+        {
+          "word": "strategy",
+          "count": 29
+        },
+        {
+          "word": "militant",
+          "count": 28
+        },
+        {
+          "word": "states",
+          "count": 28
         }
       ]
     },
@@ -130522,6 +131198,128 @@
       ]
     },
     {
+      "filename": "2019-05-27-saudi-khashoggi-killing.md",
+      "slug": "saudi-khashoggi-killing",
+      "title": "Saudi Khashoggi Killing Aftermath",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6664,
+      "topWord": "killing",
+      "topCount": 136,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-05-27-saudi-khashoggi-killing.md",
+      "flaggedWords": [
+        {
+          "word": "killing",
+          "count": 136
+        },
+        {
+          "word": "saudi",
+          "count": 96
+        },
+        {
+          "word": "khashoggi",
+          "count": 94
+        },
+        {
+          "word": "operation",
+          "count": 86
+        },
+        {
+          "word": "international",
+          "count": 66
+        }
+      ],
+      "top20": [
+        {
+          "word": "killing",
+          "count": 136
+        },
+        {
+          "word": "saudi",
+          "count": 96
+        },
+        {
+          "word": "khashoggi",
+          "count": 94
+        },
+        {
+          "word": "operation",
+          "count": 86
+        },
+        {
+          "word": "international",
+          "count": 66
+        },
+        {
+          "word": "prince",
+          "count": 42
+        },
+        {
+          "word": "crown",
+          "count": 41
+        },
+        {
+          "word": "kingdom",
+          "count": 40
+        },
+        {
+          "word": "states",
+          "count": 38
+        },
+        {
+          "word": "united",
+          "count": 38
+        },
+        {
+          "word": "extraterritorial",
+          "count": 37
+        },
+        {
+          "word": "consulate",
+          "count": 34
+        },
+        {
+          "word": "india",
+          "count": 34
+        },
+        {
+          "word": "arabia",
+          "count": 33
+        },
+        {
+          "word": "turkey",
+          "count": 33
+        },
+        {
+          "word": "evidence",
+          "count": 30
+        },
+        {
+          "word": "campaign",
+          "count": 29
+        },
+        {
+          "word": "consequence",
+          "count": 29
+        },
+        {
+          "word": "method",
+          "count": 27
+        },
+        {
+          "word": "inside",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2019-05-31-oxford-student-budget-real-cost.md",
       "slug": "oxford-student-budget-real-cost",
       "title": "Oxford Student Budget: Real Cost of Studying",
@@ -130672,6 +131470,132 @@
       ]
     },
     {
+      "filename": "2019-06-03-cold-war-spy-assassinations.md",
+      "slug": "cold-war-spy-assassinations",
+      "title": "Cold War Spy Assassinations Ranked",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7025,
+      "topWord": "killing",
+      "topCount": 112,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-03-cold-war-spy-assassinations.md",
+      "flaggedWords": [
+        {
+          "word": "killing",
+          "count": 112
+        },
+        {
+          "word": "operation",
+          "count": 98
+        },
+        {
+          "word": "war",
+          "count": 67
+        },
+        {
+          "word": "assassination",
+          "count": 65
+        },
+        {
+          "word": "cold",
+          "count": 60
+        },
+        {
+          "word": "operations",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "killing",
+          "count": 112
+        },
+        {
+          "word": "operation",
+          "count": 98
+        },
+        {
+          "word": "war",
+          "count": 67
+        },
+        {
+          "word": "assassination",
+          "count": 65
+        },
+        {
+          "word": "cold",
+          "count": 60
+        },
+        {
+          "word": "operations",
+          "count": 56
+        },
+        {
+          "word": "soviet",
+          "count": 49
+        },
+        {
+          "word": "american",
+          "count": 49
+        },
+        {
+          "word": "intelligence",
+          "count": 47
+        },
+        {
+          "word": "political",
+          "count": 42
+        },
+        {
+          "word": "death",
+          "count": 40
+        },
+        {
+          "word": "ranking",
+          "count": 40
+        },
+        {
+          "word": "catalogue",
+          "count": 36
+        },
+        {
+          "word": "strategic",
+          "count": 33
+        },
+        {
+          "word": "coup",
+          "count": 29
+        },
+        {
+          "word": "covert",
+          "count": 28
+        },
+        {
+          "word": "killings",
+          "count": 27
+        },
+        {
+          "word": "consequence",
+          "count": 27
+        },
+        {
+          "word": "campaign",
+          "count": 26
+        },
+        {
+          "word": "whose",
+          "count": 26
+        }
+      ]
+    },
+    {
       "filename": "2019-06-08-oxford-accommodation-couples-families.md",
       "slug": "oxford-accommodation-couples-families",
       "title": "Oxford Accommodation for Couples and Families",
@@ -130818,6 +131742,128 @@
         {
           "word": "costs",
           "count": 33
+        }
+      ]
+    },
+    {
+      "filename": "2019-06-10-isi-covert-ops-complete-history.md",
+      "slug": "isi-covert-ops-complete-history",
+      "title": "ISI Covert Operations Complete History",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6857,
+      "topWord": "directorate",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-10-isi-covert-ops-complete-history.md",
+      "flaggedWords": [
+        {
+          "word": "directorate",
+          "count": 127
+        },
+        {
+          "word": "agency",
+          "count": 98
+        },
+        {
+          "word": "pakistan",
+          "count": 78
+        },
+        {
+          "word": "proxy",
+          "count": 73
+        },
+        {
+          "word": "institution",
+          "count": 56
+        }
+      ],
+      "top20": [
+        {
+          "word": "directorate",
+          "count": 127
+        },
+        {
+          "word": "agency",
+          "count": 98
+        },
+        {
+          "word": "pakistan",
+          "count": 78
+        },
+        {
+          "word": "proxy",
+          "count": 73
+        },
+        {
+          "word": "institution",
+          "count": 56
+        },
+        {
+          "word": "war",
+          "count": 47
+        },
+        {
+          "word": "pakistani",
+          "count": 45
+        },
+        {
+          "word": "service",
+          "count": 41
+        },
+        {
+          "word": "afghan",
+          "count": 38
+        },
+        {
+          "word": "doctrine",
+          "count": 37
+        },
+        {
+          "word": "intelligence",
+          "count": 36
+        },
+        {
+          "word": "militant",
+          "count": 36
+        },
+        {
+          "word": "army",
+          "count": 31
+        },
+        {
+          "word": "built",
+          "count": 31
+        },
+        {
+          "word": "control",
+          "count": 30
+        },
+        {
+          "word": "itself",
+          "count": 28
+        },
+        {
+          "word": "cannot",
+          "count": 27
+        },
+        {
+          "word": "strategic",
+          "count": 27
+        },
+        {
+          "word": "campaign",
+          "count": 25
+        },
+        {
+          "word": "india",
+          "count": 24
         }
       ]
     },
@@ -131058,6 +132104,250 @@
       ]
     },
     {
+      "filename": "2019-06-17-intelligence-agencies-world-ranked.md",
+      "slug": "intelligence-agencies-world-ranked",
+      "title": "Intelligence Agencies World Ranked",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 7038,
+      "topWord": "service",
+      "topCount": 96,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-17-intelligence-agencies-world-ranked.md",
+      "flaggedWords": [
+        {
+          "word": "service",
+          "count": 96
+        },
+        {
+          "word": "intelligence",
+          "count": 84
+        },
+        {
+          "word": "column",
+          "count": 57
+        },
+        {
+          "word": "services",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "service",
+          "count": 96
+        },
+        {
+          "word": "intelligence",
+          "count": 84
+        },
+        {
+          "word": "column",
+          "count": 57
+        },
+        {
+          "word": "services",
+          "count": 53
+        },
+        {
+          "word": "covert",
+          "count": 47
+        },
+        {
+          "word": "organization",
+          "count": 44
+        },
+        {
+          "word": "human",
+          "count": 43
+        },
+        {
+          "word": "single",
+          "count": 41
+        },
+        {
+          "word": "technical",
+          "count": 41
+        },
+        {
+          "word": "action",
+          "count": 40
+        },
+        {
+          "word": "raw",
+          "count": 39
+        },
+        {
+          "word": "budget",
+          "count": 38
+        },
+        {
+          "word": "agency",
+          "count": 37
+        },
+        {
+          "word": "power",
+          "count": 35
+        },
+        {
+          "word": "dimension",
+          "count": 35
+        },
+        {
+          "word": "matrix",
+          "count": 34
+        },
+        {
+          "word": "record",
+          "count": 34
+        },
+        {
+          "word": "capability",
+          "count": 33
+        },
+        {
+          "word": "security",
+          "count": 32
+        },
+        {
+          "word": "mossad",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "filename": "2019-06-24-drone-vs-human-assassination.md",
+      "slug": "drone-vs-human-assassination",
+      "title": "Drone vs Human Assassination Compared",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6885,
+      "topWord": "method",
+      "topCount": 136,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-06-24-drone-vs-human-assassination.md",
+      "flaggedWords": [
+        {
+          "word": "method",
+          "count": 136
+        },
+        {
+          "word": "drone",
+          "count": 105
+        },
+        {
+          "word": "campaign",
+          "count": 99
+        },
+        {
+          "word": "human",
+          "count": 84
+        },
+        {
+          "word": "alleged",
+          "count": 67
+        },
+        {
+          "word": "program",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "method",
+          "count": 136
+        },
+        {
+          "word": "drone",
+          "count": 105
+        },
+        {
+          "word": "campaign",
+          "count": 99
+        },
+        {
+          "word": "human",
+          "count": 84
+        },
+        {
+          "word": "alleged",
+          "count": 67
+        },
+        {
+          "word": "program",
+          "count": 52
+        },
+        {
+          "word": "comparison",
+          "count": 47
+        },
+        {
+          "word": "indian",
+          "count": 44
+        },
+        {
+          "word": "close",
+          "count": 44
+        },
+        {
+          "word": "range",
+          "count": 44
+        },
+        {
+          "word": "pakistan",
+          "count": 41
+        },
+        {
+          "word": "killing",
+          "count": 41
+        },
+        {
+          "word": "aircraft",
+          "count": 39
+        },
+        {
+          "word": "collateral",
+          "count": 33
+        },
+        {
+          "word": "motorcycle",
+          "count": 32
+        },
+        {
+          "word": "american",
+          "count": 31
+        },
+        {
+          "word": "india",
+          "count": 30
+        },
+        {
+          "word": "target",
+          "count": 29
+        },
+        {
+          "word": "remote",
+          "count": 27
+        },
+        {
+          "word": "cannot",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2019-06-24-oxford-neighborhoods-guide-students.md",
       "slug": "oxford-neighborhoods-guide-students",
       "title": "Oxford Neighborhoods Guide for Students",
@@ -131192,6 +132482,132 @@
       ]
     },
     {
+      "filename": "2019-07-01-covert-ops-success-failure.md",
+      "slug": "covert-ops-success-failure",
+      "title": "Covert Ops Success Failure Patterns",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6706,
+      "topWord": "operation",
+      "topCount": 108,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-01-covert-ops-success-failure.md",
+      "flaggedWords": [
+        {
+          "word": "operation",
+          "count": 108
+        },
+        {
+          "word": "campaign",
+          "count": 85
+        },
+        {
+          "word": "intelligence",
+          "count": 61
+        },
+        {
+          "word": "india",
+          "count": 59
+        },
+        {
+          "word": "war",
+          "count": 56
+        },
+        {
+          "word": "covert",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "operation",
+          "count": 108
+        },
+        {
+          "word": "campaign",
+          "count": 85
+        },
+        {
+          "word": "intelligence",
+          "count": 61
+        },
+        {
+          "word": "india",
+          "count": 59
+        },
+        {
+          "word": "war",
+          "count": 56
+        },
+        {
+          "word": "covert",
+          "count": 53
+        },
+        {
+          "word": "program",
+          "count": 49
+        },
+        {
+          "word": "objective",
+          "count": 49
+        },
+        {
+          "word": "shadow",
+          "count": 46
+        },
+        {
+          "word": "failure",
+          "count": 43
+        },
+        {
+          "word": "deniability",
+          "count": 42
+        },
+        {
+          "word": "exit",
+          "count": 37
+        },
+        {
+          "word": "action",
+          "count": 36
+        },
+        {
+          "word": "single",
+          "count": 35
+        },
+        {
+          "word": "tests",
+          "count": 32
+        },
+        {
+          "word": "success",
+          "count": 31
+        },
+        {
+          "word": "strategic",
+          "count": 30
+        },
+        {
+          "word": "dimension",
+          "count": 30
+        },
+        {
+          "word": "criterion",
+          "count": 29
+        },
+        {
+          "word": "operations",
+          "count": 28
+        }
+      ]
+    },
+    {
       "filename": "2019-07-02-oxford-accommodation-international-students.md",
       "slug": "oxford-accommodation-international-students",
       "title": "Oxford Accommodation for International Students",
@@ -131318,6 +132734,136 @@
         {
           "word": "bank",
           "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2019-07-08-blowback-unintended-consequences.md",
+      "slug": "blowback-unintended-consequences",
+      "title": "Blowback Unintended Consequences Guide",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6711,
+      "topWord": "blowback",
+      "topCount": 146,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-08-blowback-unintended-consequences.md",
+      "flaggedWords": [
+        {
+          "word": "blowback",
+          "count": 146
+        },
+        {
+          "word": "program",
+          "count": 106
+        },
+        {
+          "word": "covert",
+          "count": 100
+        },
+        {
+          "word": "campaign",
+          "count": 89
+        },
+        {
+          "word": "war",
+          "count": 85
+        },
+        {
+          "word": "shadow",
+          "count": 76
+        },
+        {
+          "word": "operation",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "blowback",
+          "count": 146
+        },
+        {
+          "word": "program",
+          "count": 106
+        },
+        {
+          "word": "covert",
+          "count": 100
+        },
+        {
+          "word": "campaign",
+          "count": 89
+        },
+        {
+          "word": "war",
+          "count": 85
+        },
+        {
+          "word": "shadow",
+          "count": 76
+        },
+        {
+          "word": "operation",
+          "count": 52
+        },
+        {
+          "word": "cannot",
+          "count": 46
+        },
+        {
+          "word": "afghan",
+          "count": 41
+        },
+        {
+          "word": "indian",
+          "count": 34
+        },
+        {
+          "word": "tamil",
+          "count": 33
+        },
+        {
+          "word": "consequences",
+          "count": 32
+        },
+        {
+          "word": "design",
+          "count": 32
+        },
+        {
+          "word": "action",
+          "count": 30
+        },
+        {
+          "word": "consequence",
+          "count": 30
+        },
+        {
+          "word": "operations",
+          "count": 29
+        },
+        {
+          "word": "cases",
+          "count": 28
+        },
+        {
+          "word": "proxy",
+          "count": 28
+        },
+        {
+          "word": "mechanism",
+          "count": 27
+        },
+        {
+          "word": "scenario",
+          "count": 26
         }
       ]
     },
@@ -131460,6 +133006,136 @@
       ]
     },
     {
+      "filename": "2019-07-15-women-in-intelligence-operations.md",
+      "slug": "women-in-intelligence-operations",
+      "title": "Women in Intelligence Operations",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6788,
+      "topWord": "intelligence",
+      "topCount": 105,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-15-women-in-intelligence-operations.md",
+      "flaggedWords": [
+        {
+          "word": "intelligence",
+          "count": 105
+        },
+        {
+          "word": "female",
+          "count": 90
+        },
+        {
+          "word": "operational",
+          "count": 71
+        },
+        {
+          "word": "war",
+          "count": 67
+        },
+        {
+          "word": "history",
+          "count": 66
+        },
+        {
+          "word": "service",
+          "count": 54
+        },
+        {
+          "word": "officer",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "intelligence",
+          "count": 105
+        },
+        {
+          "word": "female",
+          "count": 90
+        },
+        {
+          "word": "operational",
+          "count": 71
+        },
+        {
+          "word": "war",
+          "count": 67
+        },
+        {
+          "word": "history",
+          "count": 66
+        },
+        {
+          "word": "service",
+          "count": 54
+        },
+        {
+          "word": "officer",
+          "count": 54
+        },
+        {
+          "word": "services",
+          "count": 48
+        },
+        {
+          "word": "operations",
+          "count": 47
+        },
+        {
+          "word": "agents",
+          "count": 38
+        },
+        {
+          "word": "officers",
+          "count": 37
+        },
+        {
+          "word": "record",
+          "count": 37
+        },
+        {
+          "word": "cold",
+          "count": 35
+        },
+        {
+          "word": "era",
+          "count": 31
+        },
+        {
+          "word": "post",
+          "count": 30
+        },
+        {
+          "word": "wireless",
+          "count": 29
+        },
+        {
+          "word": "support",
+          "count": 29
+        },
+        {
+          "word": "analytical",
+          "count": 29
+        },
+        {
+          "word": "france",
+          "count": 28
+        },
+        {
+          "word": "operation",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2019-07-18-oxford-private-renting-guide-students.md",
       "slug": "oxford-private-renting-guide-students",
       "title": "Oxford Private Renting Guide for Students",
@@ -131570,6 +133246,140 @@
         {
           "word": "heating",
           "count": 18
+        }
+      ]
+    },
+    {
+      "filename": "2019-07-22-fiction-vs-reality-spy-ops.md",
+      "slug": "fiction-vs-reality-spy-ops",
+      "title": "Fiction vs Reality Spy Operations",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6673,
+      "topWord": "film",
+      "topCount": 104,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-22-fiction-vs-reality-spy-ops.md",
+      "flaggedWords": [
+        {
+          "word": "film",
+          "count": 104
+        },
+        {
+          "word": "films",
+          "count": 84
+        },
+        {
+          "word": "genre",
+          "count": 68
+        },
+        {
+          "word": "credible",
+          "count": 56
+        },
+        {
+          "word": "intelligence",
+          "count": 54
+        },
+        {
+          "word": "realism",
+          "count": 52
+        },
+        {
+          "word": "movie",
+          "count": 52
+        },
+        {
+          "word": "spectrum",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "film",
+          "count": 104
+        },
+        {
+          "word": "films",
+          "count": 84
+        },
+        {
+          "word": "genre",
+          "count": 68
+        },
+        {
+          "word": "credible",
+          "count": 56
+        },
+        {
+          "word": "intelligence",
+          "count": 54
+        },
+        {
+          "word": "realism",
+          "count": 52
+        },
+        {
+          "word": "movie",
+          "count": 52
+        },
+        {
+          "word": "spectrum",
+          "count": 51
+        },
+        {
+          "word": "spy",
+          "count": 47
+        },
+        {
+          "word": "fantasy",
+          "count": 46
+        },
+        {
+          "word": "documented",
+          "count": 45
+        },
+        {
+          "word": "technology",
+          "count": 43
+        },
+        {
+          "word": "bond",
+          "count": 42
+        },
+        {
+          "word": "dhurandhar",
+          "count": 41
+        },
+        {
+          "word": "access",
+          "count": 38
+        },
+        {
+          "word": "campaign",
+          "count": 36
+        },
+        {
+          "word": "institution",
+          "count": 35
+        },
+        {
+          "word": "operations",
+          "count": 31
+        },
+        {
+          "word": "public",
+          "count": 31
+        },
+        {
+          "word": "realistic",
+          "count": 30
         }
       ]
     },
@@ -131814,6 +133624,116 @@
         {
           "word": "university",
           "count": 21
+        }
+      ]
+    },
+    {
+      "filename": "2019-07-29-future-covert-ops-technology.md",
+      "slug": "future-covert-ops-technology",
+      "title": "Future of Covert Operations Technology",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6835,
+      "topWord": "human",
+      "topCount": 112,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-07-29-future-covert-ops-technology.md",
+      "flaggedWords": [
+        {
+          "word": "human",
+          "count": 112
+        },
+        {
+          "word": "covert",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "human",
+          "count": 112
+        },
+        {
+          "word": "covert",
+          "count": 62
+        },
+        {
+          "word": "machine",
+          "count": 48
+        },
+        {
+          "word": "intelligence",
+          "count": 47
+        },
+        {
+          "word": "technology",
+          "count": 46
+        },
+        {
+          "word": "systems",
+          "count": 45
+        },
+        {
+          "word": "drone",
+          "count": 44
+        },
+        {
+          "word": "biometric",
+          "count": 43
+        },
+        {
+          "word": "campaign",
+          "count": 39
+        },
+        {
+          "word": "killing",
+          "count": 39
+        },
+        {
+          "word": "service",
+          "count": 36
+        },
+        {
+          "word": "target",
+          "count": 36
+        },
+        {
+          "word": "cyber",
+          "count": 35
+        },
+        {
+          "word": "autonomous",
+          "count": 34
+        },
+        {
+          "word": "war",
+          "count": 34
+        },
+        {
+          "word": "built",
+          "count": 33
+        },
+        {
+          "word": "technologies",
+          "count": 32
+        },
+        {
+          "word": "single",
+          "count": 31
+        },
+        {
+          "word": "capability",
+          "count": 30
+        },
+        {
+          "word": "surveillance",
+          "count": 29
         }
       ]
     },
@@ -132118,6 +134038,124 @@
       ]
     },
     {
+      "filename": "2019-08-12-ic814-release-decision-1999.md",
+      "slug": "ic814-release-decision-1999",
+      "title": "IC-814 Release Decision 1999",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6403,
+      "topWord": "india",
+      "topCount": 110,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-12-ic814-release-decision-1999.md",
+      "flaggedWords": [
+        {
+          "word": "india",
+          "count": 110
+        },
+        {
+          "word": "indian",
+          "count": 80
+        },
+        {
+          "word": "kandahar",
+          "count": 70
+        },
+        {
+          "word": "release",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "india",
+          "count": 110
+        },
+        {
+          "word": "indian",
+          "count": 80
+        },
+        {
+          "word": "kandahar",
+          "count": 70
+        },
+        {
+          "word": "release",
+          "count": 53
+        },
+        {
+          "word": "decision",
+          "count": 49
+        },
+        {
+          "word": "azhar",
+          "count": 48
+        },
+        {
+          "word": "branch",
+          "count": 48
+        },
+        {
+          "word": "crisis",
+          "count": 43
+        },
+        {
+          "word": "consequence",
+          "count": 37
+        },
+        {
+          "word": "freed",
+          "count": 33
+        },
+        {
+          "word": "war",
+          "count": 31
+        },
+        {
+          "word": "sheikh",
+          "count": 27
+        },
+        {
+          "word": "shadow",
+          "count": 27
+        },
+        {
+          "word": "operation",
+          "count": 26
+        },
+        {
+          "word": "kashmir",
+          "count": 26
+        },
+        {
+          "word": "militant",
+          "count": 26
+        },
+        {
+          "word": "hijacking",
+          "count": 24
+        },
+        {
+          "word": "ic",
+          "count": 24
+        },
+        {
+          "word": "tree",
+          "count": 24
+        },
+        {
+          "word": "zargar",
+          "count": 23
+        }
+      ]
+    },
+    {
       "filename": "2019-08-16-tcs-nqt-mock-test.md",
       "slug": "tcs-nqt-mock-test",
       "title": "TCS NQT Mock Tests - Practice Resources",
@@ -132284,6 +134322,132 @@
       ]
     },
     {
+      "filename": "2019-08-19-azhar-builds-jem-2000-2001.md",
+      "slug": "azhar-builds-jem-2000-2001",
+      "title": "Azhar Builds JeM 2000 to 2001",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6808,
+      "topWord": "organization",
+      "topCount": 128,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-19-azhar-builds-jem-2000-2001.md",
+      "flaggedWords": [
+        {
+          "word": "organization",
+          "count": 128
+        },
+        {
+          "word": "founding",
+          "count": 122
+        },
+        {
+          "word": "azhar",
+          "count": 112
+        },
+        {
+          "word": "group",
+          "count": 58
+        },
+        {
+          "word": "jaish",
+          "count": 57
+        },
+        {
+          "word": "kashmir",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "organization",
+          "count": 128
+        },
+        {
+          "word": "founding",
+          "count": 122
+        },
+        {
+          "word": "azhar",
+          "count": 112
+        },
+        {
+          "word": "group",
+          "count": 58
+        },
+        {
+          "word": "jaish",
+          "count": 57
+        },
+        {
+          "word": "kashmir",
+          "count": 51
+        },
+        {
+          "word": "indian",
+          "count": 45
+        },
+        {
+          "word": "harkat",
+          "count": 39
+        },
+        {
+          "word": "attack",
+          "count": 37
+        },
+        {
+          "word": "pakistani",
+          "count": 36
+        },
+        {
+          "word": "release",
+          "count": 35
+        },
+        {
+          "word": "weeks",
+          "count": 34
+        },
+        {
+          "word": "india",
+          "count": 32
+        },
+        {
+          "word": "mohammed",
+          "count": 31
+        },
+        {
+          "word": "militant",
+          "count": 31
+        },
+        {
+          "word": "pakistan",
+          "count": 30
+        },
+        {
+          "word": "itself",
+          "count": 29
+        },
+        {
+          "word": "suicide",
+          "count": 29
+        },
+        {
+          "word": "built",
+          "count": 28
+        },
+        {
+          "word": "months",
+          "count": 28
+        }
+      ]
+    },
+    {
       "filename": "2019-08-19-tcs-accommodation-complaints-escalation.md",
       "slug": "tcs-accommodation-complaints-escalation",
       "title": "TCS Accommodation Complaints - How to Escalate Issues Effectively",
@@ -132410,6 +134574,136 @@
       ]
     },
     {
+      "filename": "2019-08-26-parliament-attack-nuclear-brink.md",
+      "slug": "parliament-attack-nuclear-brink",
+      "title": "Parliament Attack Nuclear Brink 2001",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6980,
+      "topWord": "india",
+      "topCount": 127,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-08-26-parliament-attack-nuclear-brink.md",
+      "flaggedWords": [
+        {
+          "word": "india",
+          "count": 127
+        },
+        {
+          "word": "indian",
+          "count": 77
+        },
+        {
+          "word": "war",
+          "count": 71
+        },
+        {
+          "word": "parliament",
+          "count": 68
+        },
+        {
+          "word": "pakistan",
+          "count": 68
+        },
+        {
+          "word": "assault",
+          "count": 64
+        },
+        {
+          "word": "nuclear",
+          "count": 62
+        }
+      ],
+      "top20": [
+        {
+          "word": "india",
+          "count": 127
+        },
+        {
+          "word": "indian",
+          "count": 77
+        },
+        {
+          "word": "war",
+          "count": 71
+        },
+        {
+          "word": "parliament",
+          "count": 68
+        },
+        {
+          "word": "pakistan",
+          "count": 68
+        },
+        {
+          "word": "assault",
+          "count": 64
+        },
+        {
+          "word": "nuclear",
+          "count": 62
+        },
+        {
+          "word": "attack",
+          "count": 48
+        },
+        {
+          "word": "pakistani",
+          "count": 43
+        },
+        {
+          "word": "operation",
+          "count": 43
+        },
+        {
+          "word": "military",
+          "count": 37
+        },
+        {
+          "word": "strategic",
+          "count": 36
+        },
+        {
+          "word": "jaish",
+          "count": 32
+        },
+        {
+          "word": "mohammed",
+          "count": 32
+        },
+        {
+          "word": "strike",
+          "count": 31
+        },
+        {
+          "word": "crisis",
+          "count": 31
+        },
+        {
+          "word": "attacks",
+          "count": 30
+        },
+        {
+          "word": "parakram",
+          "count": 30
+        },
+        {
+          "word": "chain",
+          "count": 29
+        },
+        {
+          "word": "azhar",
+          "count": 29
+        }
+      ]
+    },
+    {
       "filename": "2019-08-27-tcs-ilp-weekend-life.md",
       "slug": "tcs-ilp-weekend-life",
       "title": "TCS ILP Weekend Life - What to Do Near Your Accommodation",
@@ -132528,6 +134822,124 @@
         {
           "word": "associates",
           "count": 24
+        }
+      ]
+    },
+    {
+      "filename": "2019-09-02-mumbai-2611-inflection-point.md",
+      "slug": "mumbai-2611-inflection-point",
+      "title": "26/11 Mumbai the Inflection Point",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6682,
+      "topWord": "siege",
+      "topCount": 91,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-02-mumbai-2611-inflection-point.md",
+      "flaggedWords": [
+        {
+          "word": "siege",
+          "count": 91
+        },
+        {
+          "word": "india",
+          "count": 66
+        },
+        {
+          "word": "mumbai",
+          "count": 58
+        },
+        {
+          "word": "indian",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "siege",
+          "count": 91
+        },
+        {
+          "word": "india",
+          "count": 66
+        },
+        {
+          "word": "mumbai",
+          "count": 58
+        },
+        {
+          "word": "indian",
+          "count": 51
+        },
+        {
+          "word": "operation",
+          "count": 44
+        },
+        {
+          "word": "attack",
+          "count": 37
+        },
+        {
+          "word": "security",
+          "count": 34
+        },
+        {
+          "word": "intelligence",
+          "count": 32
+        },
+        {
+          "word": "attackers",
+          "count": 30
+        },
+        {
+          "word": "response",
+          "count": 29
+        },
+        {
+          "word": "strategic",
+          "count": 27
+        },
+        {
+          "word": "terrorism",
+          "count": 26
+        },
+        {
+          "word": "force",
+          "count": 26
+        },
+        {
+          "word": "capability",
+          "count": 26
+        },
+        {
+          "word": "killed",
+          "count": 25
+        },
+        {
+          "word": "reforms",
+          "count": 24
+        },
+        {
+          "word": "city",
+          "count": 23
+        },
+        {
+          "word": "pakistan",
+          "count": 23
+        },
+        {
+          "word": "followed",
+          "count": 22
+        },
+        {
+          "word": "agency",
+          "count": 22
         }
       ]
     },
@@ -132812,6 +135224,116 @@
       ]
     },
     {
+      "filename": "2019-09-09-decade-of-restraint-2009-2015.md",
+      "slug": "decade-of-restraint-2009-2015",
+      "title": "India Decade of Restraint 2009 2015",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6548,
+      "topWord": "country",
+      "topCount": 72,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-09-decade-of-restraint-2009-2015.md",
+      "flaggedWords": [
+        {
+          "word": "country",
+          "count": 72
+        },
+        {
+          "word": "period",
+          "count": 58
+        }
+      ],
+      "top20": [
+        {
+          "word": "country",
+          "count": 72
+        },
+        {
+          "word": "period",
+          "count": 58
+        },
+        {
+          "word": "capability",
+          "count": 45
+        },
+        {
+          "word": "action",
+          "count": 44
+        },
+        {
+          "word": "intelligence",
+          "count": 40
+        },
+        {
+          "word": "government",
+          "count": 36
+        },
+        {
+          "word": "india",
+          "count": 36
+        },
+        {
+          "word": "construction",
+          "count": 36
+        },
+        {
+          "word": "mumbai",
+          "count": 35
+        },
+        {
+          "word": "strike",
+          "count": 33
+        },
+        {
+          "word": "indian",
+          "count": 32
+        },
+        {
+          "word": "doctrine",
+          "count": 32
+        },
+        {
+          "word": "pakistan",
+          "count": 32
+        },
+        {
+          "word": "force",
+          "count": 31
+        },
+        {
+          "word": "attack",
+          "count": 30
+        },
+        {
+          "word": "military",
+          "count": 29
+        },
+        {
+          "word": "nuclear",
+          "count": 29
+        },
+        {
+          "word": "patience",
+          "count": 28
+        },
+        {
+          "word": "border",
+          "count": 28
+        },
+        {
+          "word": "political",
+          "count": 27
+        }
+      ]
+    },
+    {
       "filename": "2019-09-12-tcs-accommodation-rules-policies.md",
       "slug": "tcs-accommodation-rules-policies",
       "title": "TCS Accommodation Rules and Policies - Everything You Need to Know",
@@ -132922,6 +135444,144 @@
         {
           "word": "cities",
           "count": 19
+        }
+      ]
+    },
+    {
+      "filename": "2019-09-16-pathankot-2016-turning-point.md",
+      "slug": "pathankot-2016-turning-point",
+      "title": "Pathankot 2016 the Turning Point",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 6867,
+      "topWord": "airbase",
+      "topCount": 82,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2019-09-16-pathankot-2016-turning-point.md",
+      "flaggedWords": [
+        {
+          "word": "airbase",
+          "count": 82
+        },
+        {
+          "word": "indian",
+          "count": 77
+        },
+        {
+          "word": "raid",
+          "count": 71
+        },
+        {
+          "word": "india",
+          "count": 68
+        },
+        {
+          "word": "pakistani",
+          "count": 62
+        },
+        {
+          "word": "attack",
+          "count": 58
+        },
+        {
+          "word": "pathankot",
+          "count": 53
+        },
+        {
+          "word": "episode",
+          "count": 53
+        },
+        {
+          "word": "investigation",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "airbase",
+          "count": 82
+        },
+        {
+          "word": "indian",
+          "count": 77
+        },
+        {
+          "word": "raid",
+          "count": 71
+        },
+        {
+          "word": "india",
+          "count": 68
+        },
+        {
+          "word": "pakistani",
+          "count": 62
+        },
+        {
+          "word": "attack",
+          "count": 58
+        },
+        {
+          "word": "pathankot",
+          "count": 53
+        },
+        {
+          "word": "episode",
+          "count": 53
+        },
+        {
+          "word": "investigation",
+          "count": 51
+        },
+        {
+          "word": "government",
+          "count": 42
+        },
+        {
+          "word": "pakistan",
+          "count": 41
+        },
+        {
+          "word": "security",
+          "count": 39
+        },
+        {
+          "word": "joint",
+          "count": 38
+        },
+        {
+          "word": "response",
+          "count": 37
+        },
+        {
+          "word": "military",
+          "count": 37
+        },
+        {
+          "word": "border",
+          "count": 34
+        },
+        {
+          "word": "visit",
+          "count": 32
+        },
+        {
+          "word": "delhi",
+          "count": 32
+        },
+        {
+          "word": "uri",
+          "count": 32
+        },
+        {
+          "word": "relationship",
+          "count": 30
         }
       ]
     },

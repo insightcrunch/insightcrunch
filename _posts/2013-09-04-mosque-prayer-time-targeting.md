@@ -9,7 +9,7 @@ excerpt: "Examining why mosques and prayer times have become the most reliable t
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 70
 author: "robert-quinn"
-last_updated: 2013-09-04
+last_updated: 2026-05-21
 lang: en
 ---
 Muhammad Riaz, known to Indian intelligence as Abu Qasim, knelt in the second row of Al-Quds mosque in Rawalakot, Pakistan-occupied Kashmir, for Fajr prayers on September 8, 2023. A man wearing trousers, a shirt, and a helmet walked into the congregation, positioned himself behind Qasim, and fired four bullets into his head at point-blank range. A second man waited on the mosque's veranda. The two fled together before the prayer leader, Qari Amjad Hashmi, could process what had happened. Qasim died on the floor of the mosque where he had slept overnight as a guest of the imam, scheduled to leave later that Friday morning. He had crossed into Pakistan-occupied Kashmir from India in 1999, risen through Lashkar-e-Taiba's command structure to become the alleged mastermind of the January 2023 Dhangri village massacre in Rajouri district that killed seven civilians, and spent twenty-four years believing that the mosques of PoK placed him beyond the reach of consequence. The four bullets that struck him during Fajr prayer proved that belief fatally wrong.
