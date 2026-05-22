@@ -6,17 +6,17 @@ date: 2016-01-15
 categories: ["Leisure"]
 tags: ["weimar-republic", "1919-germany", "hyperinflation", "weimar-constitution", "interwar-germany", "modern-history"]
 excerpt: "Weimar survived fourteen years of substantial crises before collapsing. Its 1933 end resulted from identifiable decisions, not from the Versailles terms."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-15
+lang: en
 ---
-
 The Weimar Republic was Germany's first democratic government, lasting from its revolutionary founding in November 1918 to Adolf Hitler's appointment as chancellor in January 1933. The conventional narrative frames Weimar as a democracy doomed from birth, crushed between the impossible burdens of the Versailles settlement and the rising tide of extremism. That framing is wrong. Weimar survived the Spartacist revolt, the Kapp Putsch, the French occupation of the Ruhr, a hyperinflation that destroyed the currency, the Beer Hall Putsch, multiple assassination campaigns against its leading politicians, and a global economic catastrophe. It survived these crises because its institutional arrangements, however imperfect, contained resilience that most contemporary observers underestimated. Its collapse between 1930 and 1933 was not the inevitable unfolding of 1919 conditions but the product of identifiable choices by named political actors operating within a crisis they did not have to resolve the way they did.
 
 <!--more-->
 
-![The Weimar Republic: Rise and Fall](/assets/images/blog/blog-10.webp)
+![The Weimar Republic: Rise and Fall](/assets/images/blog/blog-75.webp)
 
 Detlev Peukert's landmark study *The Weimar Republic: The Crisis of Classical Modernity* argued that Weimar represented not simple failure but the collision between democratic aspiration and the structural pressures of industrial modernity. Eric Weitz's *Weimar Germany: Promise and Tragedy* documented the extraordinary cultural and intellectual achievements that flourished within the republic's fourteen-year span. Richard Evans's *The Coming of the Third Reich* traced the precise mechanism by which conservative elites dismantled parliamentary governance and handed power to Hitler. Together, these scholars establish a picture far more complex than the doomed-democracy narrative permits. Weimar was not simply a failed state. It was an institutional experiment that generated remarkable achievements, demonstrated surprising resilience, and collapsed through a sequence of decisions that were neither inevitable nor predetermined. The specific story of those fourteen years matters because it reveals how democracies actually die, not through grand structural forces alone but through the accumulation of choices made by people who believed they were saving the system they were destroying.
 

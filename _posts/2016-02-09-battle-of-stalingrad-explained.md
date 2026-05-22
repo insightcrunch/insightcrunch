@@ -6,17 +6,17 @@ date: 2016-02-09
 tags: ["battle-of-stalingrad", "eastern-front-wwii", "paulus-sixth-army", "operation-uranus", "soviet-victory", "modern-history"]
 excerpt: "Stalingrad was the Eastern Front's decisive turning point where Hitler's no-breakout order and Soviet operational mastery destroyed a German field army."
 slug: "battle-of-stalingrad-explained"
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 reading_time: 70
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-29.webp"
 last_updated: "2016-02-09"
+lang: en
 ---
-
 Stalingrad was the Eastern Front turning point in the Second World War, and the specific decisions that produced its outcome remain among the most consequential command choices in modern military history. Between August 1942 and February 1943, the German Sixth Army under Friedrich Paulus advanced into a Soviet industrial city on the Volga River, became trapped in a Soviet encirclement operation of extraordinary operational sophistication, and was destroyed as a fighting force. Approximately 750,000 German and Axis-allied troops became casualties during the campaign, including roughly 91,000 taken prisoner at the final surrender. Of those prisoners, only approximately 5,000 ever returned to Germany. The catastrophe at Stalingrad shifted the strategic initiative on the Eastern Front permanently to the Soviet Union and established the trajectory that would carry the Red Army westward through Eastern Europe and into Berlin by April 1945.
 
 <!--more-->
 
-![The Battle of Stalingrad Explained](/assets/images/blog/blog-15.webp)
+![The Battle of Stalingrad Explained](/assets/images/blog/blog-29.webp)
 
 What makes Stalingrad analytically distinctive is not the scale of the carnage, though the scale was staggering. The analytical significance lies in the identifiable command decisions that produced the catastrophe. Adolf Hitler refused to permit the Sixth Army to attempt a breakout from the Soviet encirclement. Paulus, despite his professional military judgment warning him that the position was untenable, complied with Hitler's orders and held his troops in place. Hermann Goring promised an airlift that could not deliver the necessary supplies. Erich von Manstein's relief attempt came too late and with insufficient force. On the Soviet side, Georgy Zhukov and Aleksandr Vasilevsky planned Operation Uranus with a precision that exploited every German vulnerability along the Don River flanks. Each of these decisions was specific, identifiable, and consequential. Together, they produced the destruction of an entire field army and the transformation of the Eastern Front from a German offensive theater into a Soviet one. This article reconstructs those decisions with the granularity they deserve, drawing on the scholarship of Antony Beevor, David Glantz, and Jochen Hellbeck, and traces the consequences that followed from the frozen ruins of the city that bore Stalin's name.
 

@@ -6,17 +6,17 @@ date: 2016-01-30
 categories: ["Leisure"]
 tags: ["holocaust", "world-war-2", "genocide", "nazi-germany", "world-history", "human-rights"]
 excerpt: "The Holocaust systematically murdered six million European Jews through escalating Nazi persecution, forced ghettoization, and industrialized extermination."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-30
+lang: en
 ---
-
 Roughly six million European Jews were murdered between 1933 and 1945 in a genocide that the perpetrators planned, documented, and executed through the administrative machinery of a modern state. These victims represented about two-thirds of the entire European Jewish population. An additional five million people perished in the same campaign of systematic killing, including Roma and Sinti, Soviet prisoners of war, disabled persons, political prisoners, Polish and Soviet civilians, homosexuals, Jehovah's Witnesses, and others targeted by the Nazi regime. In total, the Holocaust's death toll reached close to eleven million human beings, each one an individual with a name, a family, and a life destroyed by deliberate state policy. The scale of the crime resists comprehension, but the mechanisms that produced it are historically specific, documentarily established, and essential to understand.
 
 <!--more-->
 
-![The Holocaust Explained Complete History - Insight Crunch](/assets/images/blog/blog-13.webp)
+![The Holocaust Explained Complete History - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 What distinguishes the Holocaust from earlier episodes of mass violence is not merely the number of victims but the systematic character of the killing and the industrial methods employed. This genocide developed progressively through identifiable phases: legal exclusion and persecution from 1933 to 1939, territorial ghettoization from 1939 to 1941, mass killing by mobile shooting units from 1941 to 1942, and industrialized extermination through purpose-built death camps from 1942 to 1945. Each phase built upon the previous one, and the transitions between phases involved specific decisions by identifiable Nazi officials operating within institutional frameworks that scholars have reconstructed in painstaking detail. Understanding the progression from legal discrimination to industrial murder is not merely an academic exercise. It reveals how a modern society with universities, courts, and cultural institutions methodically dismantled the legal personhood of millions of its own citizens, and how bureaucratic processes enabled ordinary individuals to participate in extraordinary crimes.
 

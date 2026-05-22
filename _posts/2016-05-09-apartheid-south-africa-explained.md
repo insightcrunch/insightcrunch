@@ -6,17 +6,17 @@ date: 2016-05-09
 categories: ["Leisure"]
 tags: ["apartheid", "south-africa", "nelson-mandela", "human-rights", "world-history", "historical-analysis"]
 excerpt: "Apartheid was not just racial segregation. It was a comprehensive legal-economic system built to preserve white minority dominance and cheap Black labor."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2016-05-09
+lang: en
 ---
-
 Apartheid was a comprehensive legal-economic system that governed South Africa from 1948 to 1994. It classified every person by race, assigned rights and restrictions based on that classification, and organized an entire economy around the extraction of cheap Black labor for white-owned mining, agricultural, and industrial enterprises. The standard compressed narrative reduces apartheid to racial segregation plus Nelson Mandela plus international pressure plus 1994 elections. That narrative captures the moral arc but obscures the machinery. Understanding apartheid requires examining the legal architecture that made it function, the economic foundation that made it profitable, the multiple resistance traditions that contested it, the international dimensions that isolated it, and the post-apartheid legacies that continue to shape South African society decades after the formal system ended.
 
 <!--more-->
 
-![Apartheid in South Africa Explained](/assets/images/blog/blog-03.webp)
+![Apartheid in South Africa Explained](/assets/images/blog/blog-40.webp)
 
 The formal apartheid period ran from the National Party's election victory in 1948 to the first democratic elections in April 1994, but the system's roots extended much deeper into South African history, and its consequences persist well beyond its formal abolition. Pre-apartheid segregation began with seventeenth-century Dutch settlement at the Cape, intensified under British imperial expansion, and was formalized through early twentieth-century legislation including the 1913 Natives' Land Act and the 1923 Natives (Urban Areas) Act. The 1948 election did not invent racial hierarchy in South Africa. It systematized an existing hierarchy into a comprehensive legal framework whose thoroughness has few parallels in modern political history. Saul Dubow's scholarship on apartheid ideology and Nigel Worden's synthesis of modern South African history both emphasize this continuity between pre-1948 segregation and the post-1948 formalized system, while insisting that the post-1948 intensification represented a qualitative transformation, not merely a quantitative increase in existing practices.
 
