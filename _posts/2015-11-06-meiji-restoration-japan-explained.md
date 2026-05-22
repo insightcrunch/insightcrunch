@@ -6,17 +6,17 @@ date: 2015-11-06
 categories: ["Leisure"]
 tags: ["meiji-restoration", "japan-modernization", "nineteenth-century-japan", "institutional-history", "asian-history", "modern-history"]
 excerpt: "The Meiji Restoration remade Japan in a single generation, and the clearest reading of the evidence is that it was selective adoption, not Westernization."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2015-11-06
+lang: en
 ---
-
 The Meiji Restoration was the deliberate self-reconstruction of a state, carried out fast enough to keep a country from being colonized, and the clearest way to read it is as selective adoption rather than Westernization. Between the seizure of power in the name of a fifteen-year-old emperor in early 1868 and the death of that same emperor as a fifty-nine-year-old monarch in 1912, Japan dismantled a feudal order that had governed for two and a half centuries, built a conscript army, a national railway grid, a constitution, a banking system, and a school network that reached almost every village, and then defeated the Russian Empire in open war. No other society outside the Atlantic world had done anything comparable. The temptation, then and now, is to call this Westernization, as though Japan simply decided to become a European country. That description is wrong, and the wrongness matters, because it hides the actual mechanism that made the transformation work.
 
 <!--more-->
 
-![The Meiji Restoration in Japan - Insight Crunch](/assets/images/blog/blog-11.webp)
+![The Meiji Restoration in Japan - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 What the Meiji leadership did was closer to industrial procurement than to cultural conversion. They sent observers abroad with shopping lists. Their agents studied the British navy, the Prussian army, the American school system, and the German civil code, took the specific institutional component that solved a specific Japanese problem, modified it to fit a political structure they had no intention of abandoning, and discarded the rest. The emperor at the center of the new state was not a Western import. He was an indigenous symbol, ancient and carefully restaged, and the entire modern apparatus was bolted onto him precisely so that the changes would feel like recovery rather than surrender. A country that adopts a foreign army, a foreign legal code, and a foreign constitutional template, and uses all of them to make an eighth-century imperial institution the unquestionable center of national life, has not become Western. It has done something far more interesting and far more deliberate.
 

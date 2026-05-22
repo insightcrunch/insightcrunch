@@ -6,17 +6,17 @@ date: 2015-11-16
 categories: ["Leisure"]
 tags: ["world-war-i", "causes-of-wwi", "july-crisis", "sarajevo", "great-war", "modern-history"]
 excerpt: "World War I was caused by the cumulative choices of decision-makers across six European capitals. No single power caused it, and the war was avoidable."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-11-16
+lang: en
 ---
-
 World War I was caused by specific choices made by a small number of identifiable people over a span of roughly five weeks, and almost every one of those choices had a less catastrophic alternative on the table at the moment it was made. That is the argument of this article, and it runs against the version most readers first learned. The familiar account reaches for an acronym, Militarism, Alliances, Imperialism, and Nationalism, and treats those four structural pressures as if they themselves pulled the trigger. They did not. They built the room in which the trigger could be pulled. The pulling was done by men with names, sitting at desks, signing documents, and choosing among options they understood reasonably well.
 
 <!--more-->
 
-![Causes of World War I Explained - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Causes of World War I Explained - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The distinction matters because it changes what the catastrophe teaches. If a great conflict is the inevitable discharge of accumulated structural tension, then nobody is responsible, nothing could have been different, and the only lesson is fatalism. If instead the conflict was produced by separate decisions in Vienna, Berlin, St. Petersburg, Paris, London, and Belgrade, then responsibility is real, the alternatives were genuine, and the lesson is sharper and more uncomfortable. The lesson is that intelligent, experienced statesmen, none of them insane, several of them reluctant, can still walk a continent into ruin one defensible step at a time.
 

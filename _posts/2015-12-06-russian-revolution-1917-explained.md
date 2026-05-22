@@ -6,17 +6,17 @@ date: 2015-12-06
 categories: ["Leisure"]
 tags: ["russian-revolution-1917", "lenin", "bolsheviks", "february-revolution", "october-revolution", "modern-history"]
 excerpt: "Russia in 1917 had two revolutions with different participants and outcomes. February overthrew Tsar Nicholas II; October was the Bolshevik seizure of power."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 79
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-12-06
+lang: en
 ---
-
 The single most consequential year of the twentieth century happened in a country that used a different calendar from the one the rest of Europe was using. Russia in 1917 produced two revolutions, not one, and the difference between them is the difference between an overthrow and a seizure. The February Revolution was a substantially spontaneous uprising that toppled three hundred years of Romanov autocracy in roughly eight days. The October Revolution was a tactically planned operation by an organized minority that captured the apparatus of an already collapsing provisional government. Both events together set the structural shape of the next seven decades, structured the Cold War, produced the canonical twentieth-century model of one-party state communism, and shaped how every subsequent revolutionary movement understood its own possibilities and risks.
 
 <!--more-->
 
-![The Russian Revolution of 1917 Explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![The Russian Revolution of 1917 Explained - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 This article argues that the conflation of February and October into a single Russian Revolution is not innocent. It serves an interpretive purpose, and that purpose has been claimed by two different traditions for opposite reasons. The Bolshevik-orthodox reading, propagated through Soviet historiography from the 1920s through the 1980s, treated February as an incomplete bourgeois opening that October completed by installing proletarian power. The liberal-conservative reading, developed in Russian emigre circles and extended by Western scholars including Richard Pipes, treated February as the real revolution and October as a coup that usurped rather than completed the revolutionary process. A third tradition, best represented by Orlando Figes in *A People's Tragedy*, treats October as a specific contingent outcome of specific circumstances, neither historically inevitable nor a pure usurpation. The thesis here adopts that conjuncture reading and uses it to argue that distinguishing February from October produces better history than collapsing them into a single narrative.
 

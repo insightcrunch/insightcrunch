@@ -6,17 +6,17 @@ date: 2015-11-21
 categories: ["Leisure"]
 tags: ["trench-warfare", "world-war-1", "western-front", "military-history", "world-history"]
 excerpt: "Trench warfare on the Western Front was the specific outcome of machine gun, barbed wire, and artillery defensive dominance, not generic futile slaughter."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2015-11-21
+lang: en
 ---
-
 Trench warfare is the image the First World War left behind in popular memory: a soldier in a sodden parapet, lice in his uniform, rats in the dugout, a whistle calling him over the top into machine gun fire he cannot survive. The image is accurate, but the image fails as explanation. What yielded the four years of static slaughter on the Western Front was not human stupidity or generic military incompetence. It was a specific combination of industrial technologies, none of them new in 1914, that converged on a battlefield where defenders could kill attackers faster than attackers could cross open ground.
 
 <!--more-->
 
-![Trench Warfare in World War I Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Trench Warfare in World War I Explained - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This article reconstructs the specific conditions that produced the trench system, the specific human experience inside it, and the specific tactical learning that eventually broke the stalemate in 1918. The argument is that trench warfare was the predictable consequence of machine guns plus barbed wire plus quick-firing artillery plus deep entrenchment plus communications asymmetry, and that the casualty figures, the psychiatric casualties later called shell shock, and the cultural disillusionment that followed were the downstream effects of a technological-tactical impasse that no available 1914 doctrine could overcome quickly. The popular shorthand of lions led by donkeys captures something real about specific command failures, but it obscures the structural problem that even competent commanders failed to solve until late in the conflict when several adaptations matured at once.
 

@@ -6,17 +6,17 @@ date: 2015-12-16
 categories: ["Leisure"]
 tags: ["world-war-i-consequences", "interwar-period", "empire-collapse", "modern-history", "twentieth-century"]
 excerpt: "WWI collapsed four empires, ended European global dominance, created the modern Middle East, and produced the structural framework of the twentieth century."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 83
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2015-12-16
+lang: en
 ---
-
 The First World War did not simply end in November 1918. It restructured the planet. Four multinational empires that had ruled most of Eurasia for centuries dissolved within five years of the armistice. A continent that had organized global trade, finance, science, and politics for two centuries discovered it now owed money to a former colony across the Atlantic. The Middle Eastern state borders that diplomats and oil companies still negotiate around today were drawn on French and British staff maps between 1916 and 1923, often by officials who had never visited the territories they were dividing. Marxism leaped from a German philosopher's library into actual state power for the first time, producing a system that would dominate one third of human civilization by the late 1940s.
 
 <!--more-->
 
-![Aftermath of World War I and global transformation - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Aftermath of World War I and global transformation - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 These outcomes were not background noise to the trenches and the casualty lists. They were [the war's](https://insightcrunch.com/2015/11/16/causes-of-world-war-1-explained/) real product. The fighting between August 1914 and November 1918 was the means; the world that emerged in 1919 was the result, and that world is the one our great grandchildren will still be partly living inside when 2114 arrives. Recovery from a conflict this comprehensive does not happen in a generation. The disturbance it set in motion across institutions, economies, ideologies, technologies, and territories required the entire twentieth century to play out, and the playing out was rarely peaceful. Understanding why a question on the contemporary Russian-Ukrainian border, or the contemporary Israeli-Palestinian frontier, or the contemporary American role as security underwriter in the Pacific looks the way it looks, depends on running the analytic path back through 1919.
 
