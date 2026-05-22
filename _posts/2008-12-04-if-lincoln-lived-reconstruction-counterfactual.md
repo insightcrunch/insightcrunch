@@ -6,17 +6,17 @@ date: 2008-12-04
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "counterfactual", "us-presidents", "reconstruction", "civil-war", "andrew-johnson"]
 excerpt: "Had Lincoln survived Ford's Theatre, would Reconstruction have succeeded? Foner, Donald, and McPherson argue rigorously, and their answers disagree sharply."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2008-12-04
+lang: en
 ---
-
 On the evening of April 11, 1865, two days after Appomattox, a tired man stood at a second-floor window of the White House and read aloud from sheets of paper held by an aide who lit each page with a candle. The speech was about Reconstruction. It was, by any honest reckoning, a peculiar address: half lawyer's brief on the disputed status of Louisiana, half public meditation on whether suffrage should extend to the literate freedmen and to those who had fought in Union ranks. In the crowd below stood a 26-year-old actor who turned to a companion and said, by later recollection, that this would be the last speech the President ever gave. Three days later, that promise was kept.
 
 The puzzle that history left behind is not whether John Wilkes Booth changed American politics. He did. The harder question is how much. Suppose the derringer misfired on the night of April 14, 1865. Suppose the .44-caliber ball never reached the back of the president's skull. Suppose he finished his second term in March 1869 and lived, as actuarial tables would have suggested for a 56-year-old man of strong constitution, into the late 1870s or beyond. What changes? Does Reconstruction succeed where it actually failed? Does the Freedmen's Bureau outlast 1872? Does the Klan get crushed in its cradle? Does the Black political class established in the 1868 to 1876 elections survive past 1877? Or does the surviving president find himself, like Andrew Johnson, broken on the same wheel of Northern war-weariness, Southern intransigence, and Congressional Radicalism, with only the cosmetic advantage of a better temperament?
 
-![Abraham Lincoln Reconstruction counterfactual three historians Foner Donald McPherson - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Abraham Lincoln Reconstruction counterfactual three historians Foner Donald McPherson - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 Three historians have answered this question seriously enough to be worth contending with. Eric Foner, whose 1988 *Reconstruction: America's Unfinished Revolution* remains the field's reference text, argues that a surviving president would have moved leftward, eventually allying with the Radical wing rather than splitting from it. David Herbert Donald, in his 1995 *Lincoln*, takes the opposite view: the president would have clashed with the Radicals on substantially the same terrain that destroyed Johnson, but with vastly better political skill. James McPherson, in *Battle Cry of Freedom* and in subsequent essays, occupies a middle position: Lincoln's pragmatism would have produced a workable compromise, neither Radical nor Restoration, that might have stabilized something the actual Reconstruction never achieved. These three answers cannot all be right. The argument among them is the article.
 

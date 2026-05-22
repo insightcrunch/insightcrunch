@@ -6,12 +6,12 @@ date: 2008-12-26
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "john-f-kennedy", "myth-bust", "us-presidents", "american-history", "assassination", "urban-legend"]
 excerpt: "Fifteen Lincoln-Kennedy assassination coincidences graded true, exaggerated, or fabricated, with the specific source disproving or contextualizing each one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 80
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2008-12-26
+lang: en
 ---
-
 ## The List That Refuses to Die
 
 In August 1964, a small mimeographed sheet circulated through Republican congressional offices in Washington. Titled "A Few Curious Facts," the sheet listed sixteen parallels between the assassination of Abraham Lincoln in April 1865 and the assassination of John F. Kennedy in November 1963. Within a year, the sheet had been reprinted in the GOP Congress Committee Newsletter, picked up by syndicated columnists, mailed by readers to local newspapers, and read aloud on AM radio shows from Boston to Bakersfield. By the time the syndicated columnist Lloyd Shearer summarized a version of it in Parade magazine in 1968, the list had achieved its mature form: a numbered catalog of fifteen to twenty assassination coincidences each ostensibly proving that something more than chance linked the two slain presidents.
@@ -20,7 +20,7 @@ What that "something more" was, the list never quite said. Numerology, fate, div
 
 This article grades each of the fifteen most-circulated claims on a four-point rubric: true, true-but-meaningless, exaggerated, and fabricated. Each grade is paired with the specific receipt that supports it: a birth certificate, a hotel register, a payroll record, a newspaper clipping, a White House staff list, a coroner's report, or in the cases of the most egregious inventions, the absence of any such document anywhere. The article also explains why a list of this kind feels uncanny even after every individual claim has been graded. The mathematics of selection bias, the elastic semantics of "similar," and the birthday-paradox logic that makes coincidence inevitable across any two long lives operate beneath the surface of every supernatural list. Once those mechanisms are visible, the Lincoln-Kennedy list joins the catalog of pleasing patterns that human cognition manufactures from any sufficiently rich data set.
 
-![Lincoln Kennedy coincidences fifteen claims graded myth-bust analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lincoln Kennedy coincidences fifteen claims graded myth-bust analysis - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## Where the List Came From and Why It Spread
 
