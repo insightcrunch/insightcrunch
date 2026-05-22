@@ -6,17 +6,17 @@ date: 2019-10-21
 categories: ["Industry"]
 tags: ["2023", "eliminations", "seven-targets", "shadow-war", "undeniable"]
 excerpt: "Across 2023, roughly a dozen wanted militants were eliminated in Pakistan and Canada, turning India's shadow war from rumour into an undeniable record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2019-10-21
+lang: en
 ---
-
 There was a moment, somewhere in the middle of 2023, when the argument changed. For two years, the killing of wanted militants on Pakistani soil had been treated as a curiosity, a string of unconnected local crimes, a coincidence that respectable analysts were reluctant to name. By the autumn of that year, the argument was no longer about whether a pattern existed. It was about what the pattern meant, who was running it, and how far it would go. The shift did not happen because anyone confessed. It happened because the arithmetic became impossible to ignore.
 
 <!--more-->
 
-![2023 Year of Eliminations](/assets/images/blog/blog-01.webp)
+![2023 Year of Eliminations](/assets/images/blog/blog-18.webp)
 
 This is the story of the year that forced the question into the open. Between the first weeks of 2023 and its final days, a sequence of designated terrorists, infiltration coordinators, financiers, and movement chiefs died across five Pakistani cities and one Canadian suburb. Some were shot at point-blank range inside mosques. Some were gunned down on morning walks. One was beheaded near the Line of Control. One died in a road accident that nobody quite believed. Taken individually, each death could be explained away as a sectarian feud, a property dispute, a robbery, an internal purge. Taken together, across twelve months, the deaths formed a cadence too regular to be random, a geographic spread too wide to be a single local vendetta, and an organisational range too diverse to be one outfit settling its own scores. That cadence is what made 2023 the year the shadow war stopped being a theory.
 

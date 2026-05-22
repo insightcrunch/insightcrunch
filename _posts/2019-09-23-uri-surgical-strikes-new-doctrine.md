@@ -6,17 +6,17 @@ date: 2019-09-23
 categories: ["Industry"]
 tags: ["uri", "surgical-strikes", "2016", "new-doctrine", "india-pakistan"]
 excerpt: "How the Uri attack of 2016 and India's eleven day surgical strike response forged a bold new military doctrine that broke decades of strategic restraint."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "nandini-sen"
 last_updated: 2019-09-23
+lang: en
 ---
-
 Eleven days separated two events that, taken together, ended an era. On the morning of 18 September 2016, four heavily armed men crossed the Line of Control and butchered nineteen Indian soldiers as they slept in canvas tents at a brigade headquarters in Uri. On the night of 28 to 29 September 2016, teams of Indian special forces walked the other way across the same disputed frontier, struck a string of staging camps on the Pakistani side, and walked home before dawn. Between the massacre and the raid lay less than a fortnight. That compression of time was not an accident of logistics. It was the message. For two decades New Delhi had answered cross-border terrorism with diplomatic protests, dossiers handed to foreign envoys, and the long patient hope that international pressure would eventually force a change in behaviour across the frontier. The response to Uri announced that the waiting was over, and that a new rule had quietly replaced the old one: strike the Indian army, and the counter-blow will arrive before the diplomatic cables have finished printing.
 
 <!--more-->
 
-![Indian special forces and the Line of Control terrain after the 2016 surgical strikes](/assets/images/blog/blog-12.webp)
+![Indian special forces and the Line of Control terrain after the 2016 surgical strikes](/assets/images/blog/blog-20.webp)
 
 This is the story of how a single pre-dawn assault on a sleeping garrison forced a structural change in how the world's largest democracy thinks about military force. It is not primarily a story about nineteen deaths, terrible as those deaths were, nor about the tactical particulars of a special forces raid, impressive as that raid was. It is a story about velocity. The genuinely new thing that emerged in late September 2016 was not the crossing of the Line of Control, which Indian soldiers had done quietly many times before, but the speed and the public ownership of the response. Within eleven days a prime minister had decided, a plan had been finalised, special forces had crossed and returned, and a serving Director General of Military Operations had stood before cameras to announce it. That sequence had no precedent in the modern history of the subcontinent, and once it had happened it could not be made to un-happen. Every crisis that followed would be measured against the clock that started ticking at Uri.
 

@@ -6,17 +6,17 @@ date: 2019-09-30
 categories: ["Industry"]
 tags: ["pulwama", "balakot", "2019", "escalation", "airstrike", "dogfight"]
 excerpt: "How the Pulwama CRPF convoy bombing led to the Balakot airstrike, India's first strike inside Pakistan since 1971, and the tense aerial duel that followed."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "robert-quinn"
 last_updated: 2019-09-30
+lang: en
 ---
-
 Twelve days separated a parked car on a Kashmir highway from twelve fighter jets crossing into Pakistani airspace, and that compression of time is the entire story of the year India stopped treating the Line of Control as the edge of what it would do. On February 14, 2019, a vehicle packed with explosives tore through a Central Reserve Police Force convoy near Lethpora in Pulwama district, killing forty personnel in the deadliest single strike against Indian security forces in three decades of the Kashmir insurgency. On February 26, the Indian Air Force answered with a bombing run near Balakot in Khyber Pakhtunkhwa, the first occasion since the 1971 war that Indian combat aircraft had struck inside undisputed Pakistani territory. What happened across those twelve days, and in the aerial duel over the Rajouri sector that followed on February 27, did far more than punish a terror group. It dismantled a barrier that had held for forty-eight years, and it set a precedent of barrier-crossing that would shape every confrontation between the two states for the next six years and beyond.
 
 <!--more-->
 
-![Pulwama to Balakot Escalation 2019 - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Pulwama to Balakot Escalation 2019 - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This is one link in a chain that runs from the Kandahar tarmac in 1999 to the missile salvoes of 2025, and it is a link with a particular function. Earlier nodes in the chain established that India would absorb mass-casualty terrorism, then established that India would retaliate, then established that India would retaliate across the Line of Control on the ground. Pulwama and Balakot established something different and more consequential: that the ground was no longer the limit. Once a barrier in this conflict is broken, it is never rebuilt. It becomes the floor for the next response. Understanding why that is true, and what it means for a relationship between two nuclear-armed states, requires walking the twelve days carefully, then stepping back to see the ladder they helped build.
 

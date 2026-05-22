@@ -6,17 +6,17 @@ date: 2019-12-23
 categories: ["Industry"]
 tags: ["ic-814", "pahalgam", "full-arc", "26-years", "counter-terrorism"]
 excerpt: "The complete twenty-six-year arc from the IC-814 hijacking through 26/11, Pathankot, Balakot, the covert shadow war, and Operation Sindoor, told as one story."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 78
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2019-12-23
+lang: en
 ---
-
 On the final day of December 1999, an Indian foreign minister walked across an airport tarmac in Kandahar, Afghanistan, escorting three freed prisoners toward a Taliban reception. On the morning of the twenty-second of April 2025, gunmen walked through a high meadow above Pahalgam asking tourists their religion before they fired into the crowd. Between those two scenes lie twenty-six years, and the central argument here is that they do not belong to twenty-six years of disconnected episodes but to one continuous story with a beginning, a long and brutal middle, and an ending that has not yet arrived. The IC-814 hijacking and the Pahalgam massacre are the opening and the near-closing chapters of a single narrative, and every assault, every act of restraint, every airstrike, and every quiet daylight shooting in between is a link in one unbroken chain.
 
 <!--more-->
 
-![Twenty-Six Years From IC-814 to Pahalgam the Full Arc - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Twenty-Six Years From IC-814 to Pahalgam the Full Arc - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 This is the capstone article of the InsightCrunch Shadow War and Counter-Terror series, and it exists to do something that no news outlet, no encyclopedia entry, and no academic monograph has attempted. It tells the complete India-Pakistan counter-terror story as one arc. Wikipedia fragments those twenty-six years into separate pages that never speak to each other. Television news covers each crisis as a fresh emergency and forgets the previous one by the next ratings cycle. Scholars master a single decade and rarely trace the thread across the whole span. What follows is the thread itself, pulled tight from the Kandahar tarmac in 1999 to the missile strikes on Bahawalpur in 2025 and the events of the year after. Every node in the chain is given here in compressed form, and every node points outward to a fuller treatment elsewhere in this series, so that this article functions as the hub of the entire ecosystem.
 

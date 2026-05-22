@@ -6,17 +6,17 @@ date: 2019-12-09
 categories: ["Industry"]
 tags: ["no-talks", "zero-tolerance", "india", "pakistan", "doctrine"]
 excerpt: "How India declared a permanent end to engagement with Pakistan until terrorism stops, the zero-tolerance doctrine behind it, and what it means going forward."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2019-12-09
+lang: en
 ---
-
 In the weeks after Operation Sindoor, India did something it had never done in the long history of its conflict with Pakistan. It did not lay out terms for resuming the relationship. New Delhi simply stopped engaging Islamabad across every channel that had ever connected the two states, and it declined to say what Pakistan could do to make that engagement restart. Prime Minister Narendra Modi distilled the new posture into a phrase in his address to the nation: terror and talks cannot run together, terror and trade cannot run together, and blood and water cannot flow together. The no-talks policy was born not as a negotiating gambit but as a doctrine, and the doctrine carried a claim that no previous government in New Delhi had made out loud, that the bilateral relationship with Pakistan was no longer paused. It was closed.
 
 <!--more-->
 
-![India No Talks Zero Tolerance Policy - Insight Crunch](/assets/images/blog/blog-08.webp)
+![India No Talks Zero Tolerance Policy - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 This is the link in the chain where the campaign hardens into permanent policy. Everything that came before, the IC-814 hijacking at Kandahar, the 26/11 Mumbai siege, the surgical strikes after Uri, the Balakot air raid after Pulwama, the slow eliminations of the shadow war, and finally the four days of missile exchange in May 2025, had produced reactions that were eventually absorbed back into a fragile normal. India protested, India retaliated, and then, after a decent interval, India re-engaged. The composite dialogue resumed. A prime minister flew to Lahore. A foreign secretary picked up a telephone. The no-talks policy is the moment the country decided to break that reflex on purpose. To understand why the decision belongs in the twenty-six-year arc rather than alongside it, the right place to begin is the event that immediately preceded it, because the no-talks doctrine did not arrive from a clear sky. It arrived as the codified residue of a campaign that had already spent four years proving that India no longer needed Pakistan to be a partner in anything.
 

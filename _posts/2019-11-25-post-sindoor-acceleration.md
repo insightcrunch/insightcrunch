@@ -6,17 +6,17 @@ date: 2019-11-25
 categories: ["Industry"]
 tags: ["post-sindoor", "acceleration", "2025-2026", "targeted-killings", "surge"]
 excerpt: "Targeted killings of militants surged across Pakistan after Operation Sindoor, with more than 30 eliminated by unknown gunmen at an unprecedented pace."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2019-11-25
+lang: en
 ---
-
 The ceasefire stopped the missiles. It did not stop the motorcycles. On the afternoon of May 10, 2025, the directors general of military operations in New Delhi and Rawalpindi agreed to halt all firing across the Line of Control and the international boundary, and within hours the four-day conventional war that had opened with Operation Sindoor's twenty-three-minute missile barrage fell silent. What did not fall silent was the other war. Through the months that followed the truce, men on small motorcycles kept pulling alongside cars on Lahore's avenues, gunmen kept waiting outside mosques in Karachi, and senior militants kept dropping in Khyber Pakhtunkhwa and Sindh. By the opening quarter of 2026 the tempo of these shootings had not merely resumed but quickened, producing more eliminations of wanted operatives in a handful of months than the covert programme had achieved in any earlier full year. This article reconstructs that quickening, asks why a diplomatic pause designed to cool South Asia instead overlapped with the most intense phase of India's shadow war, and examines what the paradox reveals about a campaign that has slipped loose from the constraints governing ordinary statecraft.
 
 <!--more-->
 
-![Post Operation Sindoor acceleration of targeted killings across Pakistan](/assets/images/blog/blog-06.webp)
+![Post Operation Sindoor acceleration of targeted killings across Pakistan](/assets/images/blog/blog-79.webp)
 
 ## The Preceding Link
 
