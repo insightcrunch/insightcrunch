@@ -6,17 +6,17 @@ date: 2015-12-21
 categories: ["Leisure"]
 tags: ["rise-of-hitler", "nazi-germany", "weimar-republic", "1933", "fascism-history", "modern-history"]
 excerpt: "Hitler's rise to power was not inevitable. Specific conservative politicians chose to bring him to power believing they could control him. They failed."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-12-21
+lang: en
 ---
-
 Hitler's rise to power was not a predictable consequence of the Treaty of Versailles, not an inevitable outcome of German national character, and not a force of nature that no political actor could have stopped. It was the specific outcome of particular decisions by named political actors within a democratic system that was under severe stress but not yet dead. Ian Kershaw's landmark two-volume biography established what scholars now call the conjuncture reading: without the economic crisis of 1929-1933, Hitler would not have come to power; with the crisis, specific conservative politicians, above all Franz von Papen and President Paul von Hindenburg, chose to bring him to power as a tool they believed they could control. The tool consumed them, and their miscalculation produced the most catastrophic regime in modern European history. Understanding how this happened requires reconstructing the specific decisions, the specific alternatives that were available at each turning point, and the specific reasons those alternatives were rejected. The retrospective flattening of Hitler's rise into structural inevitability obscures exactly what matters most: the identifiable moments where different choices by different people could have produced a fundamentally different outcome.
 
 <!--more-->
 
-![Rise of Hitler and Nazi Germany - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Rise of Hitler and Nazi Germany - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The story of how a failed Austrian artist, rejected twice by the Vienna Academy of Fine Arts, became the chancellor of Germany and then the dictator who plunged Europe into its most devastating war is not a story about destiny. It is a story about political miscalculation on a civilizational scale. The conservative politicians who brought Hitler to power in January 1933 believed they were using him. Franz von Papen reportedly told associates that within two months, Hitler would be squeaking in a corner under conservative control. Papen was wrong about the timeline by approximately twelve years and wrong about the direction of control by one hundred and eighty degrees. The Enabling Act, the suppression of all opposition parties, the Night of the Long Knives, the fusion of presidential and chancellorial authority upon Hindenburg's death - each step in the destruction of German democracy was enabled by the initial miscalculation. The people who could have prevented it chose not to, and the people who chose to enable it believed they were being clever. To [trace these events on the interactive chronological map](https://reportmedic.org/tools/world-history-timeline.html) is to see how rapidly a democratic system can be dismantled when the institutions designed to protect it are deliberately circumvented by the people entrusted with their preservation. This article reconstructs the specific decisions, names the specific actors, identifies the specific alternatives, and explains why the scholarly consensus has moved decisively toward the decision-reconstruction reading and away from the structural-inevitability narrative that popular treatments still often repeat.
 

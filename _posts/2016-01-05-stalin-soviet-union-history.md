@@ -7,17 +7,17 @@ slug: "stalin-soviet-union-history"
 categories: ["Leisure"]
 tags: ["joseph-stalin", "soviet-union", "stalinism", "ukrainian-famine", "great-terror", "modern-history"]
 excerpt: "Stalin's 1929-1953 rule killed approximately 20-25 million via deliberate policy decisions. Post-1991 archival access reshaped scholarly understanding."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-01-05
+lang: en
 ---
-
 Iosif Vissarionovich Dzhugashvili, known to posterity as Joseph Stalin, ruled the Soviet Union from 1929 to 1953 and produced approximately 20-25 million deaths through deliberate policy decisions, including the 1932-1933 Ukrainian famine, the Great Terror of 1936-1938, wartime civilian casualties attributable to his command choices, and postwar purges. His rule simultaneously transformed the Soviet Union from a predominantly agricultural state into an industrial-military superpower capable of defeating Nazi Germany and projecting global power for the remainder of the twentieth century. The post-1991 opening of Russian archives has fundamentally reshaped how scholars understand both the scale of the dictator's killing and the mechanisms by which these decisions operated within the Soviet state apparatus.
 
 <!--more-->
 
-![Stalin and the Soviet Union Explained](/assets/images/blog/blog-08.webp)
+![Stalin and the Soviet Union Explained](/assets/images/blog/blog-69.webp)
 
 Understanding Stalin requires abandoning two comfortable narratives that have dominated popular treatments for decades. The Soviet-era apologetic framing treated Stalin as a necessary wartime leader whose modernization efforts involved regrettable but ultimately justified costs. The Cold War-era Western framing treated Stalin as a monster whose evil explained everything. Neither framing survives contact with the documentary record that became available after the Soviet Union's dissolution in 1991. What the archives reveal is something more analytically precise and more historically useful: a leader whose deliberate decisions at specific moments produced targeted catastrophes, operating within an institutional apparatus that both enabled his choices and constrained the alternatives available to the millions of Soviet citizens who lived and died under the dictator's rule. Stephen Kotkin's monumental biographical trilogy, Oleg Khlevniuk's archival-based biography, and Sheila Fitzpatrick's social-historical work have collectively established this more nuanced understanding, and the article that follows draws primarily on their scholarship.
 

@@ -6,17 +6,17 @@ date: 2015-12-26
 categories: ["Leisure"]
 tags: ["great-depression", "1929-crash", "monetary-policy", "new-deal", "interwar-economic-history", "modern-history"]
 excerpt: "The October 1929 Wall Street crash was an ordinary recession. Federal Reserve errors and metallic-standard rigidities turned it into a decade-long catastrophe."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 76
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2015-12-26
+lang: en
 ---
-
 The Great Depression is the case study every modern central banker and treasury official keeps within reach. U.S. unemployment peaked near roughly a quarter in 1933. United States gross domestic product fell roughly a third between 1929 and 1933. About nine thousand U.S. lenders closed their doors during those four years. Global trade collapsed by half in value between 1929 and 1932. Germany and Britain experienced declines of comparable or worse severity. The October 1929 Wall Street crash is the date the public remembers, but the crash itself was an ordinary financial shock that ordinary recessions absorb. What converted that shock into a decade of misery was not bad luck or animal spirits or speculative excess. It was a chain of identifiable policy failures whose mechanisms scholars have spent eighty years documenting.
 
 <!--more-->
 
-![The Great Depression Explained - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Great Depression Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The argument of this article is that the Great Depression was made, not born. Milton Friedman and Anna Schwartz established in their 1963 monetary history that the Federal Reserve allowed the American money supply to contract by about a third while bank runs were destroying deposits. Barry Eichengreen extended the analysis internationally in 1992 by showing how the gold standard transmitted American contraction to every major economy. Ben Bernanke added a third layer in his 1983 paper by documenting how bank failures destroyed credit-allocation knowledge that took years to rebuild. Each layer explains a different piece of the depth and the duration. The popular account of irrational speculators and inadequate political response is not wrong so much as shallow. It names real contributors and misses the structural mechanisms that did most of the damage.
 
