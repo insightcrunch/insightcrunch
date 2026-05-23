@@ -6,15 +6,15 @@ date: 2008-09-06
 categories: ["Leisure"]
 tags: ["millard-fillmore", "decision-reconstruction", "us-presidents", "american-history", "compromise-of-1850", "fugitive-slave-act", "whig-party"]
 excerpt: "Taylor blocked the 1850 Compromise; cholera killed him in July. Fillmore signed the Fugitive Slave Act that September, and the Whig Party never recovered."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-09-06
+lang: en
 ---
-
 The President of the United States was dying. On the night of July 8, 1850, Zachary Taylor lay in a second-floor bedroom of the executive mansion, his abdomen seized by what attending physicians, working with the medical vocabulary of their century, called cholera morbus. The diagnosis covered gastroenteritis, food poisoning, dysentery, and almost any acute bowel collapse short of the actual epidemic Asiatic cholera. Taylor had spent the afternoon of July 4 outdoors at the cornerstone ceremony for the Washington Monument, eaten raw cherries, and drunk iced milk; by July 5 he was vomiting. Five days later, his system was finished.
 
-![Fillmore signs the Fugitive Slave Act 1850 Compromise calculation - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Fillmore signs the Fugitive Slave Act 1850 Compromise calculation - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 In a boarding house on Pennsylvania Avenue, roughly half a mile away, Vice President Millard Fillmore was about to inherit a presidency, a constitutional crisis, and a question that the dying man upstairs had spent the entire summer refusing to answer. Henry Clay's omnibus compromise bill, which bundled California's admission as a non-slaveholding jurisdiction, Texas's western boundary, the New Mexico territorial question, the slave trade in the District of Columbia, and a strengthened federal fugitive-slave statute into a single legislative package, was stalled in the Senate. Taylor, a slaveholding Louisiana planter, had threatened to veto the omnibus. He had also threatened, in cabinet, to lead the army personally against any Southern state that talked secession. Fillmore, a cautious lawyer who had spent the summer presiding over a Senate that openly ignored his own administration, held the opposite view in private, and within nine weeks of Taylor's death he would convert that private view into federal law.
 
@@ -194,7 +194,6 @@ The party-system implication threads <a href="https://insightcrunch.com/one-term
 The longest legacy reaches forward into <a href="https://insightcrunch.com/buchanan-secession-winter-inaction">Buchanan's inaction during the secession winter of 1860 and 1861</a>. The 1850 Compromise, in Fillmore's view, was a "final settlement" of the territorial question. The same view was held by Pierce in 1854 (until Kansas-Nebraska repealed the Missouri Compromise and reopened the question), by Buchanan in 1857 (when Dred Scott appeared to settle the question constitutionally), and by Northern Democrats throughout the 1850s. The repeated insistence that the slavery question had been settled became, by 1860, a refusal to recognize that secession was actually being organized. Buchanan's four-month inaction between Lincoln's election and Lincoln's inauguration was the terminal expression of the "settled question" frame that Fillmore's 1850 signature had introduced. The package had not settled the question; it had deferred the question while making its eventual resolution more violent. Buchanan's inaction, ten years later, was an expression of the same illusion of settlement.
 
 The historiographical lesson is that the rhetoric of finality is, in American sectional politics, generally a marker of impending crisis. Every "final settlement" of slavery from 1820 through 1860 (the Missouri Compromise of 1820, the Compromise of 1850, the Kansas-Nebraska Act of 1854, Dred Scott in 1857) was followed within a decade by a sharper sectional confrontation. The 1850 Compromise's claim of finality was, in this reading, evidence that the question was not in fact close to settlement. Fillmore's signing was the institutional vehicle for that claim, and the falsification of the claim across the 1850s was the political education that produced the Republican coalition.
-
 
 
 The 1850 settlement also reshaped the institutional vocabulary of sectional politics. Before the package passed, the dominant frame for sectional questions had been the Missouri Compromise's geographic line: slavery was permitted south of 36 degrees 30 minutes north latitude in the Louisiana Purchase and prohibited above it. After 1850, the dominant frame became popular sovereignty: each territory's settlers would decide. The shift from a geographic principle to a procedural one mattered because procedural frames are inherently unstable. A geographic line either holds or it does not; a procedural rule can be manipulated by who counts as a settler, when the vote is taken, who supervises the polling, and how disputes are resolved. Bleeding Kansas, between 1854 and 1858, was the predictable consequence of the procedural frame the 1850 package had introduced. The territorial votes in Kansas were contested precisely because the procedural rule provided so many opportunities for contestation. The geographic line, whatever its other defects, had not been contestable in this way.

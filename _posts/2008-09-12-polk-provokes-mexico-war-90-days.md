@@ -6,15 +6,15 @@ date: 2008-09-12
 categories: ["Leisure"]
 tags: ["james-polk", "decision-reconstruction", "us-presidents", "mexican-american-war", "manifest-destiny", "war-powers"]
 excerpt: "Polk engineered the Mexican War in ninety days. His own diary proves it. The country doubled in size. The 1846 decision is reconstructed in full detail."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2008-09-12
+lang: en
 ---
-
 At six o'clock on the evening of Saturday, May 9, 1846, a courier reached the White House with dispatches from General Zachary Taylor's camp on the lower Rio Grande. Inside the sealed packet was Captain Seth Thornton's account of a skirmish ten days earlier, in which sixty-three American dragoons riding patrol north of Matamoros had been surrounded by Mexican cavalry under General Anastasio Torrejón. Eleven Americans were dead, five wounded, the rest captured. James Knox Polk read the dispatches in his White House study, summoned his cabinet by note, and prepared the war message he had been writing for months.
 
-![Polk Mexican War cabinet meeting May 1846 decision reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Polk Mexican War cabinet meeting May 1846 decision reconstruction - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 That sentence already contains the central historical claim of this article. Polk did not learn of Thornton's defeat and then decide to recommend hostilities. The reverse occurred: Polk had decided to recommend hostilities, had already polled his cabinet that morning on the question of whether to send a war message based solely on Mexico's refusal to receive his envoy John Slidell, and was given by Thornton's defeat the casus belli he needed to frame the request as a response rather than as a provocation. The diary entry Polk dictated that night, published in 1910 by Milo Milton Quaife and unedited since, is the document that settles the question. The eleventh president wrote himself into the historical record as the engineer of his own war.
 
@@ -345,5 +345,4 @@ The direct fiscal cost of the war to the United States Treasury totaled approxim
 ### Q: How did the war change the size of the United States?
 
 The territorial transfer effected by the Treaty of Guadalupe Hidalgo, combined with the Oregon settlement of June 1846 and the Texas annexation of December 1845, expanded the United States by approximately 1.2 million square miles in the four-year period from 1845 through 1848. The pre-1845 country had encompassed approximately 1.8 million square miles; the post-1848 country encompassed approximately 3.0 million square miles. The expansion was the largest in absolute terms in American history, exceeding the Louisiana Purchase of 1803 (approximately 828,000 square miles) by about 50 percent. The single-administration concentration of the expansion was unprecedented and remains unmatched. The territorial doubling produced demographic, economic, and political consequences that ramified through the rest of the nineteenth century: the California Gold Rush of 1849, the construction of the transcontinental railroad, the development of the cattle and mining economies of the interior West, and the slavery-expansion crisis that produced the Civil War. The eleventh president's territorial legacy, judged on the geographic scale alone, is the largest of any American president.
-
 

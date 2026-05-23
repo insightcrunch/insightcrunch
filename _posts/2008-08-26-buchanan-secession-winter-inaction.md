@@ -6,18 +6,18 @@ date: 2008-08-26
 categories: ["US Presidents"]
 tags: ["james-buchanan", "decision-reconstruction", "us-presidents", "secession-crisis", "civil-war", "fort-sumter"]
 excerpt: "Buchanan watched seven states leave the Union in 126 days. His own attorney general said federal power was real, and he refused to act. The reconstruction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 67
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 slug: "buchanan-secession-winter-inaction"
 last_updated: 2008-08-26
+lang: en
 ---
-
 The morning of December 3, 1860. The clerk of the House of Representatives unfolds the annual presidential message and begins to read aloud. The capital is full of nervous men. South Carolina has called a convention to leave the United States. Three cabinet officers have begun preparing their resignations. Diplomatic dispatches from European chanceries demand to know whether the federal compact will hold. And the message answers each question by answering none of them.
 
 Secession is illegal, the document declares. The Constitution makes no provision for any state to secede from the Union. The framers contemplated no such right. Yet, the message continues, no presidential power exists to prevent secession by force. The Union is perpetual; the executive cannot keep it so. The contradiction is announced from the rostrum as if a settled finding of law.
 
-![James Buchanan secession winter inaction Fort Sumter reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![James Buchanan secession winter inaction Fort Sumter reconstruction - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The legal opinion underneath the message was drafted by Attorney General Jeremiah Black. Its argument runs through Joseph Story's commentaries, the Madison letters from the Nullification Crisis, and the language of Article IV. The opinion is more genuinely conflicted than later critics would allow. Black actually believes both halves of the paradox. So does Buchanan. He has built a forty-year career on the proposition that the Union is older than the states and indissoluble in theory while practically beyond defense.
 

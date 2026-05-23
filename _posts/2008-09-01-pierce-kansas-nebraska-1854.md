@@ -6,19 +6,19 @@ date: 2008-09-01
 categories: ["Leisure"]
 tags: ["franklin-pierce", "decision-reconstruction", "us-presidents", "kansas-nebraska-act", "bleeding-kansas", "republican-party"]
 excerpt: "Pierce backed Douglas on Kansas-Nebraska in January 1854, repealing the Missouri Compromise. The signing birthed the Republican Party and killed his own."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 2008-09-01
+lang: en
 ---
-
 ## The Sunday Meeting
 
 Sunday, January 22, 1854. The White House sitting room held seven men whose decision would crack the country open within seven years. President Franklin Pierce sat at the center. Stephen A. Douglas of Illinois, chairman of the Senate Committee on Territories, had ridden over from his K Street townhouse with a redrafted bill in his pocket, a bill engineered to repeal the Missouri Compromise of 1820. David Rice Atchison of Missouri, the Senate's president pro tempore and acting vice president since the death of William R. King the previous April, stood at Douglas's elbow as the South's enforcer. Jefferson Davis, Secretary of War and the cabinet member closest to Pierce on questions of southern interest, had brokered the meeting at Atchison's insistence the night before. Caleb Cushing, the attorney general, watched from a chair near the fire. James M. Mason of Virginia and Robert M.T. Hunter of Virginia, two members of Atchison's F Street boardinghouse syndicate, completed the room.
 
 The Sabbath constraint was not ornamental. Pierce, a Democrat shaped by Calvinist habits inherited from his New Hampshire upbringing and by the recent death of his eleven-year-old son Bennie, did not conduct government business on Sundays as a rule. Douglas and Atchison knew this. They had come anyway because the bill could not wait another day. The Missouri delegation had threatened to defect from the administration's coalition if Pierce refused to back the explicit repeal. Atchison had told colleagues he would "see the Missouri Compromise line obliterated, sir, or sink in hell," and he meant it. Davis had argued through the previous week that Pierce had no realistic option but to back the explicit repeal Atchison demanded. Cushing agreed. Pierce listened, asked questions, and within ninety minutes committed his administration to a bill he had not drafted, did not yet fully grasp, and would never recover from supporting.
 
-![Pierce Kansas-Nebraska January 22 1854 White House decision reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Pierce Kansas-Nebraska January 22 1854 White House decision reconstruction - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The signature five months later, on May 30, 1854, would ignite Bleeding Kansas. It would birth the Republican Party at Ripon, Wisconsin on March 20, 1854 and crystallize the party at Jackson, Michigan on July 6, 1854. It would collapse the northern Democratic delegation from ninety-one House members in the Thirty-Third Congress to twenty-five in the Thirty-Fourth. It would set in motion the realignment that elected Abraham Lincoln in 1860 and triggered the secession winter of 1860 through 1861. The historical record, more open now than in any previous decade because of the Pierce papers, the Davis correspondence, the Douglas papers at the University of Chicago, and the Atchison files at the State Historical Society of Missouri, allows reconstruction of that Sunday afternoon decision and its slow detonation into national catastrophe.
 
