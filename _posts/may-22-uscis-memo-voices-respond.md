@@ -21,7 +21,7 @@ The social media record of the May 22 announcement, in aggregate, is the cleares
 
 <!--more-->
 
-![The May 22 USCIS Memo Every Voice Responding - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The May 22 USCIS Memo Every Voice Responding - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 -----
 
