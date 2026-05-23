@@ -7,8 +7,8 @@ last_updated: 2026-05-22
 categories: ["Industry"]
 tags: ["uscis", "adjustment of status", "pm-602-0199", "green card memo", "trump immigration", "david bier", "doug rand", "aila", "h1b green card", "consular processing", "may 22 memo", "i-485", "immigration policy 2026", "legal immigration"]
 excerpt: "Every voice responding to the May 22 USCIS adjustment of status memo PM-602-0199: Bier, Rand, AILA, attorneys, founders, and the loud Big Tech silences."
-image: "/assets/images/blog/blog-01.webp"
-author: "rajesh-iyer"
+image: "/assets/images/blog/blog-81.webp"
+author: "kevin-reeves"
 reading_time: 128
 lang: en
 ---
@@ -21,7 +21,7 @@ The social media record of the May 22 announcement, in aggregate, is the cleares
 
 <!--more-->
 
-![USCIS Green Card Memo PM-602-0199 Reactions Decoded - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USCIS Green Card Memo PM-602-0199 Reactions Decoded - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ---
 
