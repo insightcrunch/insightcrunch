@@ -613,7 +613,7 @@ The restrictionist analysis emphasized several arguments. First, that the adjust
 
 Mark Krikorian, the executive director of the Center for Immigration Studies, was among the more visible restrictionist voices in the days after the announcement. His commentary emphasized that the directive did not eliminate any pathway to permanent residence; it simply directed applicants to use the consular processing pathway rather than the domestic adjustment pathway. From the restrictionist perspective, the policy was procedurally neutral, requiring applicants to follow a specific route that the law made available.
 
-{% include tweet.html id="2057817233200418837" %}
+{% include tweet.html id="2058300846417604911" %}
 
 Restrictionist commentary also addressed the litigation threat. The position was that the agency was operating within its longstanding discretionary authority, that the directive merely reminded officers of how that authority should be exercised, and that legal challenges would not succeed because the underlying statutory framework had not been changed. The restrictionist confidence about the directive's legal durability reflected the genuine ambiguity in the law about how aggressively the agency could exercise its discretionary authority.
 
@@ -731,7 +731,7 @@ A particularly affecting set of voices that emerged in the days after the announ
 
 Various American citizen spouses posted on social media about their situations. The frame they used was distinctive. They were not seeking the policy's mercy as immigrants. They were US citizens, born and raised in the United States, whose families were now subject to a discretionary framework that could separate them from their spouses or children. The framing positioned them as the actual American interest at stake, with the policy's impact running through them rather than around them.
 
-{% include tweet.html id="2057981644074618992" %}
+{% include tweet.html id="2057907324380217821" %}
 
 The political dynamics of this voice were significant. US citizen spouses are voters. They are taxpayers. They are members of American communities. Their interests are American interests in a way that even long-term permanent residents' interests are not, in the framing that some restrictionist voices use. The mobilization of US citizen spouses as a constituency for opposition to the directive could create political pressure that was harder to dismiss than the voices of immigrants who could be characterized as the targets of the policy.
 
