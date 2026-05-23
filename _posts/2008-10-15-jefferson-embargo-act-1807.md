@@ -6,19 +6,19 @@ date: 2008-10-15
 categories: ["Leisure"]
 tags: ["thomas-jefferson", "decision-reconstruction", "us-presidents", "early-republic", "embargo-act", "executive-power"]
 excerpt: "Jefferson's 1807 embargo represented the single largest peacetime presidential authority expansion by any Jeffersonian president. New England broke in months."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 2008-10-15
+lang: en
 ---
-
 ## The Strict Constructionist Who Built a Police State
 
 In December 1807, Thomas Jefferson asked Congress for something no Federalist president had ever dared to request: the power to shut down all U.S. foreign commerce. Not some of it. Not trade with one hostile nation. All of it. Every port, every harbor, every ship, every cargo. The man who had spent the 1790s arguing that Alexander Hamilton's reading of centralized authority was dangerously broad, the man who had written that the government which governs best governs least, the man whose first inaugural address promised "a wise and frugal government, which shall restrain men from injuring one another," now proposed the most sweeping assertion of federal economic control that any American president would attempt until Franklin Roosevelt's National Industrial Recovery Act 126 years later.
 
 Congress gave him what he asked for in four days. Then, over the next fourteen months, Jefferson discovered that imposing an embargo was simple compared to enforcing one. The four Supplementary Acts that followed, enacted between January 1808 and January 1809, transformed the embargo from a diplomatic tool into a domestic regulatory regime that gave customs collectors the power to seize goods without warrants, authorized the president to use the army and navy against U.S. citizens, and turned the treasury department into a surveillance apparatus monitoring the movements of private merchants along every navigable waterway in the country.
 
-![Jefferson Embargo Act 1807 presidential authority expansion decision reconstruction - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Jefferson Embargo Act 1807 presidential authority expansion decision reconstruction - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 Albert Gallatin, Jefferson's own treasury secretary and the man responsible for making the embargo work, wrote to the president in July 1808 that enforcement had become "equally dangerous and odious" and that the machinery required to prevent smuggling would "go the whole length" of what the Constitution could possibly permit. Jefferson's reply was to request more compliance authority. The strict constructionist had become an executive maximalist, and the transformation happened not in the dramatic setting of wartime necessity but in the grinding bureaucratic logic of peacetime commercial pressure. The question this article reconstructs is straightforward: how did the man who opposed the Alien and Sedition Acts end up building something arguably worse?
 
