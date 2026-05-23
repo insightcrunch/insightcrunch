@@ -6,17 +6,17 @@ date: 2016-08-07
 categories: ["Leisure"]
 tags: ["women-in-history", "world-history", "historical-figures", "feminism", "historical-analysis"]
 excerpt: "Women's historical contributions were not absent. They were erased. Recovery demands specifying documented achievements and their analytical significance."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-08-07
+lang: en
 ---
-
 Women changed history not occasionally but continuously, and across every field of human endeavor, from governance and military strategy to scientific discovery, literary invention, religious reform, and organized political resistance. The standard popular treatment presents these contributions through an inspirational-list framework, naming remarkable individuals without examining the structural mechanisms that erased their achievements from the historical record or the scholarly methods required to recover them. Gerda Lerner's foundational work in women's history established that women's contributions were not absent from history but were systematically removed through exclusion from record-keeping institutions, credit-redirection to male colleagues, and categorical devaluation of activities associated with the female domain. Recovery requires more than admiration. It requires specifying documented achievements alongside the structural barriers those achievements overcame, applying intersectional analysis that distinguishes the conditions faced by privileged and marginalized women, and restoring the analytical significance that generic celebration obscures.
 
 <!--more-->
 
-![Women Who Changed History - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Women Who Changed History - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The namable claim this article advances is direct: the "exceptional woman" framing that dominates popular treatments of women in history performs a double erasure, celebrating individual achievement while rendering invisible the systemic conditions that made such achievement extraordinary in the first place and that suppressed the contributions of countless others who lacked the class, racial, or geographic privilege to break through. Recovering women's historical contributions demands not simply adding names to existing narratives but restructuring the analytical frameworks through which historical significance is assessed. bell hooks's intersectional critique, Linda Colley's global-historical recovery project, and Natalie Zemon Davis's archival methodology each contribute distinct tools to this restructuring, and the article draws on all three alongside the primary sources that anchor the analysis in documented evidence rather than celebratory abstraction.
 

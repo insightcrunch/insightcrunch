@@ -6,17 +6,17 @@ date: 2016-08-27
 categories: ["Leisure"]
 tags: ["lessons-of-history", "world-history", "historical-analysis", "patterns", "historical-wisdom"]
 excerpt: "History does not repeat, but its patterns recur across eras. The most important lesson is methodological: how to read the past to understand the present."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2016-08-27
+lang: en
 ---
-
 Sometime in 1943, in a French prison cell waiting for a Gestapo interrogator who would eventually order his execution, the historian Marc Bloch wrote a small book called *The Historian's Craft*. Bloch had been one of the founders of the Annales school, a co-editor of the most ambitious historical journal in Europe, and a serving officer in two world wars. In his last weeks he was not writing about empires or revolutions or the catastrophe collapsing around him. He was writing about method: how a historian decides what counts as evidence, how a witness's testimony should be weighed, how a researcher distinguishes a useful comparison from a misleading one. The book was unfinished when he was shot in June 1944. It is the most important text any serious reader of history can hold in mind, because Bloch knew something the contemporary culture of inspirational quotations has forgotten. The lesson of history is not a sentence. It is a discipline.
 
 <!--more-->
 
-![Lessons That History Teaches Us Today - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Lessons That History Teaches Us Today - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The dominant way history is taught to general audiences is through aphorism collections. Those who do not remember the past are condemned to repeat it. History does not repeat, but it rhymes. Eternal vigilance is the price of liberty. The aphorisms are not wrong; they are inadequate. They condense a methodologically rich field into greeting-card philosophy. Real historical thinking does not deliver portable wisdom of the kind that fits on a coffee mug. Real historical thinking trains a mode of analysis: pattern recognition under conditions of irreducible variation, causal reasoning that holds contingency and structure together, source criticism that asks who recorded what and why, and analogical reasoning rigorous enough to know when an analogy is illuminating and when it is fraudulent. The dominant treatments at History.com, Wikipedia overview pages, and inspirational blogs deliver the aphorisms without the discipline. Beating them requires teaching the discipline.
 

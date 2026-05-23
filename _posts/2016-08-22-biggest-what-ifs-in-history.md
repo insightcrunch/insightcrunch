@@ -6,17 +6,17 @@ date: 2016-08-22
 slug: "biggest-what-ifs-in-history"
 excerpt: "Counterfactual history is not idle speculation. It reveals how historical outcomes depended on specific contingencies that could have gone differently."
 tags: ["alternate-history", "what-if", "world-history", "counterfactual", "historical-analysis"]
-image: "/assets/images/blog/blog-09.webp"
-author: "placeholder"
+image: "/assets/images/blog/blog-29.webp"
+author: "insight-crunch-team"
 last_updated: "placeholder"
 reading_time: 70
+lang: en
 ---
-
 History is usually told as inevitability. Rome fell. Napoleon lost. The atomic bomb ended the Pacific War. The cold confidence of hindsight makes every outcome seem scripted in advance, as though the actors were simply playing out a story whose ending was already fixed. Counterfactual history challenges that confidence directly, and it does so not by spinning fantasies but by applying rigorous analytical pressure to the decision-points where outcomes genuinely could have differed.
 
 <!--more-->
 
-![What Ifs in History - Insight Crunch](/assets/images/blog/blog-09.webp)
+![What Ifs in History - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The field has a reputation problem. Popular treatments of historical what-ifs tend toward spectacle: cover art of Nazi swastikas over Washington, or Roman legions marching across North America. Serious historians have pushed back against this tradition with some force. Richard Evans's *Altered Pasts: Counterfactuals in History* (2013) delivers a sustained skeptical argument that counterfactual exercises encourage overestimation of individual agency, produce untestable claims, and slide quickly into ideology-serving fantasy. Evans is right that the worst examples deserve the criticism he gives them. The problem is that his critique, applied broadly, would eliminate a legitimate methodological tool alongside the abuses of it.
 

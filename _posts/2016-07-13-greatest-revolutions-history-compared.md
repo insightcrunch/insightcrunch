@@ -6,17 +6,17 @@ date: 2016-07-13
 categories: ["Leisure"]
 tags: ["revolutions", "world-history", "historical-comparison", "french-revolution", "american-revolution"]
 excerpt: "Great revolutions follow structural patterns identifiable across centuries. Comparing seven cases reveals which succeeded, which consumed themselves, and why."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-13
+lang: en
 ---
-
 Revolutions are not random eruptions of popular anger. They follow identifiable structural patterns, and the patterns are remarkably consistent across centuries, continents, and ideological commitments. Crane Brinton demonstrated this in 1938 when he published The Anatomy of Revolution, mapping the phase-structure that connected the English, American, French, and Russian Revolutions into a single analytical framework: old regime failure through fiscal crisis and legitimacy erosion, a preliminary stage of moderate reform, a radical phase of accelerating violence, and a Thermidorian reaction producing stabilization or exhaustion. Theda Skocpol extended the structural analysis in 1979, arguing that revolutions emerge not from ideology or heroic leadership but from the intersection of state breakdown and peasant revolt within specific international competitive pressures. Jack Goldstone added demographic-fiscal pressures in 1991. C. L. R. James, writing The Black Jacobins in 1938, insisted that the Haitian Revolution belonged in any serious comparative framework, and his insistence remains the single most important corrective in revolution scholarship. The seven revolutions examined in this article, the American (1775-1783), the French (1789-1799), the Haitian (1791-1804), the Latin American independence movements (1808-1825), the Russian (1917), the Chinese (1911 and 1949), and the Iranian (1979), operated through these identifiable phases with distinctive variations. Comparison reveals which revolutions produced durable political orders, which consumed their own creators, and which achieved political liberation only to face continuing economic subjugation. The structural patterns are real. The variations are where the analytical work begins.
 
 <!--more-->
 
-![Greatest Revolutions in History Compared - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Greatest Revolutions in History Compared - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The conventional approach to teaching revolutions treats each one as a self-contained national narrative. Students learn the American Revolution as an American story, the French Revolution as a French story, the Russian Revolution as a Russian story, and the Haitian Revolution often not at all. This approach produces citizens who know revolutionary chronologies but cannot recognize revolutionary dynamics. When Brinton mapped the phase-structure across four cases, he was not arguing that all revolutions are the same. He was arguing that they share a skeletal logic that chronological narrative alone cannot reveal. The fiscal crisis that preceded the American Declaration of Independence in 1776 operated through the same structural mechanism as the fiscal crisis that preceded the summoning of the Estates-General in 1789, even though the specific political content differed enormously. Understanding the mechanism does not erase the differences; it clarifies them. The comparison that follows holds seven revolutions in the same analytical frame simultaneously, tracking how each moved through (or deviated from) the Brinton phases, how structural factors determined outcomes, and where the comparative framework itself fails to capture what made each revolution unique. Great revolutions follow specific structural patterns. Comparison reveals which succeed, which devour themselves, and why.
 

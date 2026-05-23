@@ -5,17 +5,17 @@ page_title: "The Deadliest Wars in Human History - From the Mongol Conquests to 
 date: 2016-07-18
 tags: ["deadliest-wars", "world-history", "military-history", "historical-analysis"]
 excerpt: "The deadliest wars in history killed tens of millions through combat, famine, and disease. These rankings reveal structural patterns about how war kills."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "insight-crunch-team"
 last_updated: "2016-07-18"
+lang: en
 ---
-
 The question most people ask about deadly wars is simple: which war killed the most people? World War II is the answer, with approximately 70 to 85 million deaths between 1939 and 1945. But that answer, while factually correct, conceals more than it reveals. The number tells you the scale. It tells you nothing about how those people died, whether they were soldiers or civilians, whether they starved or were shot, whether the state that killed them intended their deaths or simply produced conditions in which survival became impossible. The real question is not which war killed the most. Instead, it is how war kills, and why the mechanisms of killing change across centuries, technologies, and political structures in ways that simple casualty rankings flatten into meaninglessness.
 
 <!--more-->
 
-![Deadliest Wars in Human History Ranked](/assets/images/blog/blog-02.webp)
+![Deadliest Wars in Human History Ranked](/assets/images/blog/blog-51.webp)
 
 The deadliest wars killed most of their victims outside of combat. That claim sounds counterintuitive, because the popular image of war is the battlefield, the charge, the bombardment, the sniper's shot. Battlefields are where soldiers die. But the majority of deaths in most major conflicts throughout recorded history came from famine produced by agricultural disruption, disease spreading through displaced and weakened populations, exposure and deprivation among refugees, and the collapse of social infrastructure that normally sustains human life. Matthew White's systematic compilation in The Great Big Book of Horrible Things documented this pattern across a hundred conflicts spanning millennia. Steven Pinker's The Better Angels of Our Nature extended the analysis into a broader argument about declining violence that has generated fierce scholarly debate. Niall Ferguson's The War of the World traced the twentieth century's catastrophic violence through ethnic conflict, economic volatility, and imperial decline. John Keegan's A History of Warfare examined the cultural and technological evolution of how humans organize killing. Ian Morris's War! What Is It Good For? asked the provocative question of whether war has paradoxically produced larger, more internally peaceful societies over very long historical periods, even while acknowledging the catastrophic violence of the process. Read together, these scholars establish that understanding war casualties requires distinguishing between direct combat deaths and the substantially larger category of indirect deaths, and that the distinction changes everything about how the deadliest wars should be understood.
 

@@ -6,17 +6,17 @@ date: 2016-07-08
 categories: ["Leisure"]
 tags: ["empires", "world-history", "historical-comparison", "rome", "mongol", "british-empire"]
 excerpt: "The world's greatest empires followed specific foundational patterns. Comparison reveals how empires rise through integration and fall through overextension."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2016-07-08
+lang: en
 ---
-
 Ask which empire was the greatest, and most people will answer with a number. The British controlled approximately 35.5 million square kilometers at their peak. The Mongols held roughly 24 million. The Russian and Soviet system claimed about 22.8 million. Ranking empires by territorial extent is the dominant framework in popular history, and it is the least useful one available. Size tells you how much land a governing entity colored on a map. It tells you almost nothing about how that entity came to exist, how it governed the people who lived inside its borders, how it extracted wealth from the periphery to sustain the core, or why it eventually crumbled. The greatest empires in history followed specific foundational patterns, and understanding those patterns matters more than memorizing acreage.
 
 <!--more-->
 
-![Greatest Empires in History Compared - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Greatest Empires in History Compared - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 Jane Burbank and Frederick Cooper argued in their foundational study *Empires in World History* that empires are best understood not as large states but as governing formations characterized by the governance of multiple distinct populations under a single sovereign authority, typically organized around a core-periphery structure with differentiated incorporation of subject peoples. That definition opens analytical space that ranking-by-size closes. The Roman, Chinese, Mongol, Ottoman, Spanish, British, and Russian empires all operated through recognizable structural mechanisms: military expansion through organizational advantage over neighbors, administrative integration producing governance efficiencies, cultural and ideological projects generating legitimating identity, fiscal extraction channeling peripheral wealth toward the core, and eventual decline through predictable combinations of overextension, succession failure, external challenge, and internal fragmentation. These are not loose analogies. They are foundational patterns visible throughout millennia, and they tell us something important about how large-scale state power operates and why it fails.
 
