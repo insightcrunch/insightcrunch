@@ -65,7 +65,7 @@ The first major analytical voice to respond to the directive was David Bier, dir
 
 His initial response on X, directed at USCIS Director Joseph Edlow, was harsh and unambiguous. He wrote that adjustment of status had been the pathway used for over half of all legal immigrants over the past generation. He noted that the people affected qualified to stay permanently under existing law, that Congress had clearly intended them to have a way to remain, and that the administration was telling them to leave America. He called the directive evidence that the current government was the most anti-legal-immigration administration in US history. He said the harms to legal immigrants would be incalculable. He used the phrase "stupid and evil" to describe the policy.
 
-{% include tweet.html id="2057833484270342590" %}
+{% include tweet.html id="2057825189035999517" %}
 
 Within hours, Bier had also published a long-form analysis on the Cato at Liberty blog titled "DHS Quits Granting Green Cards, Almost Entirely." The piece argued that the policy directive, when stacked with the parallel halts on processing for refugees, asylees, and certain humanitarian categories, effectively ended legal permanent residency adjudication for a substantial fraction of qualifying immigrants. The figures Bier cited in the blog post were striking. Cuban residency approvals had dropped by 99.8 percent from October 2024 to January 2026, falling from 10,984 approvals in February 2025 to just fifteen in January 2026. ICE detentions of Cuban migrants had increased over the same period. The pattern Bier identified was that the administration had been quietly halting processing for category after category, and that the May 22 directive formalized in writing what the agency had been doing in practice for months.
 
@@ -635,7 +635,7 @@ Edlow's public defense of the directive emphasized agency resources and efficien
 
 Professor Stephen Yale-Loehr at Cornell Law School, one of the most prominent academic voices on immigration law, produced commentary in the days after the announcement that situated the directive in the broader context of American immigration law scholarship. His analysis emphasized the doctrinal questions that the directive raised and the academic literature on discretionary adjudication in immigration law.
 
-{% include tweet.html id="2057825189035999517" %}
+{% include tweet.html id="2057833484270342590" %}
 
 Yale-Loehr's commentary addressed several specific scholarly questions. First, how the directive's framework related to the academic literature on procedural rights in administrative adjudication. The literature has long debated the proper scope of agency discretion in benefit adjudication, with various scholars taking different positions on whether agencies should be presumed to have broad discretion or whether statutory eligibility should generally translate into approval. The directive's framework adopted the broad discretion position aggressively, in ways that some scholars would defend and others would critique.
 
@@ -967,6 +967,4 @@ The pending litigation, the future administrative actions that will build on the
 
 What the voices told us, in the days after May 22, was that the directive was significant. It was not, in the analytical consensus, a cosmetic adjustment or a procedural clarification. It was a substantial elevation of discretionary scrutiny in adjudicating the most common pathway to American permanent residence. The professional consensus on this point, the political alignment of voices that spoke and silences that did not, and the substantive arguments brought by both supporters and critics, together constitute the record of what the document meant to the people most engaged with it at the moment of its release.
 
-The conversation will continue. The litigation will unfold. The implementation will become visible. The voices documented here will, in retrospect, be the first wave of a response that may stretch through years of subsequent action. What they said in the immediate aftermath of May 22 is, in its own way, a document of how American legal immigration was being processed at a specific historical moment by the people most directly engaged with it.
-
-The directive was issued on Friday, May 22, 2026. The conversation it generated continues.
+The conversation will continue. The litigation will unfold. The implementation will become visible. The voices documented here will, in retrospect, be the first wave of a response that may stretch through years of subsequent action. What they said in the immediate aftermath of May 22 is, in its own way, a document of how American legal immigration was being processed at a specific historical moment by the people most directly engaged with it. The directive was issued on Friday, May 22, 2026. The conversation it generated continues.
