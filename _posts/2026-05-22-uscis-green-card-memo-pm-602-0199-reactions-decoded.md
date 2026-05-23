@@ -9,9 +9,8 @@ tags: ["uscis", "adjustment of status", "pm-602-0199", "green card memo", "trump
 excerpt: "Every voice responding to the May 22 USCIS adjustment of status memo PM-602-0199: Bier, Rand, AILA, attorneys, founders, and the loud Big Tech silences."
 image: "/assets/images/blog/blog-81.webp"
 author: "kevin-reeves"
-read_time: 128
+reading_time: 128
 lang: en
-image: "/assets/images/blog/blog-81.webp"
 ---
 
 There is a particular kind of policy document that does not change a single word of statute and yet changes everything about how the statute will be applied. The six-page memorandum that the United States Citizenship and Immigration Services issued on May 21, 2026, under the designation PM-602-0199, and publicly announced on Friday, May 22, is exactly that kind of document. It does not amend the Immigration and Nationality Act. It does not eliminate any visa category. It does not even, on its face, prohibit the filing of any application. Yet within hours of its release, immigration attorneys were calling clients to warn them not to leave the country, startup founders were posting on X about scientists and engineers who would now face impossible choices, the Cato Institute was publishing analysis describing the directive as the most consequential restriction on legal immigration in the modern era, and the comments section under every news article about the move was filling with the specific kind of fury that arrives when people who have followed every rule discover that the rules have been reinterpreted against them.
