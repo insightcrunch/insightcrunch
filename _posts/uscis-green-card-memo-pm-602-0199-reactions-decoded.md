@@ -21,7 +21,7 @@ The social media record of the May 22 announcement, in aggregate, is the cleares
 
 <!--more-->
 
-![USCIS Green Card Memo PM-602-0199 Reactions Decoded - Insight Crunch](/assets/images/blog/blog-01.webp)
+![USCIS Green Card Memo PM-602-0199 Reactions Decoded - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 -----
 
