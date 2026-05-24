@@ -6,17 +6,17 @@ date: 2008-04-27
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "decision-reconstruction", "us-presidents", "civil-rights", "little-rock", "101st-airborne"]
 excerpt: "Eisenhower sent 1,200 paratroopers of the 101st Airborne Division to Little Rock in September 1957, the first federal troops for civil rights since 1877."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 75
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-04-27
+lang: en
 ---
-
 At 9:35 p.m. on the evening of Monday, September 23, 1957, a Western Union teletype began chattering in the West Wing of the White House. The message had been filed twenty minutes earlier from City Hall in Little Rock, Arkansas. It was signed by Woodrow Wilson Mann, the city's Democratic mayor, a moderate segregationist who had spent the previous three weeks watching his governor turn a school desegregation order into a national constitutional crisis. The telegram ran to nine sentences. The operative one read: "The immediate need for federal troops is urgent. The mob is much larger in numbers at 8 a.m. than at any time yesterday. People are converging on the scene from all directions. Mob is armed and engaging in fisticuffs and other acts of violence. Situation is out of control and police cannot disperse the mob. I am pleading to you as President of the United States in the interest of humanity, law and order, and because of democracy worldwide, to provide the necessary federal troops within several hours."
 
 Within thirteen hours of receiving that wire, Dwight David Eisenhower, sixty-six years old, vacationing at the Naval Base in Newport, Rhode Island, signed Proclamation 3204 commanding the obstructionists to disperse, signed Executive Order 10730 federalizing the entire Arkansas National Guard out from under Governor Orval Faubus, and ordered Secretary of Defense Charles Wilson to deploy the 327th Airborne Battle Group of the 101st Airborne Division from Fort Campbell, Kentucky, to Little Rock Central High School. By dawn on Wednesday, September 25, roughly 1,200 paratroopers in steel helmets, bayonets fixed to their M1 Garand rifles, were walking nine Black teenagers up the front steps of an American public school past a thinning white crowd.
 
-![Eisenhower 1957 Little Rock airborne deployment civil rights decision reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Eisenhower 1957 Little Rock airborne deployment civil rights decision reconstruction - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 It was the first deployment of regular United States Army combat troops to enforce civil rights since President Ulysses Grant had used the Enforcement Acts to break the Ku Klux Klan in South Carolina in 1871. It was the first time since President Rutherford Hayes had withdrawn federal soldiers from the last three occupied Southern states in 1877, ending Reconstruction, that the Army returned to the South in defense of Black citizens. The gap was eighty years. The decision, which Eisenhower had spent his entire presidency trying to avoid, was made over the course of seventy-two hours, against the unanimous advice of every Southern governor, with full awareness that it would consume his second term, and on the basis of a constitutional theory that even his attorney general, Herbert Brownell, considered the narrowest available reading of federal authority. This article reconstructs how Eisenhower got to that signature.
 

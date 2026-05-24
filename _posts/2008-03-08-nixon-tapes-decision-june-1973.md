@@ -6,15 +6,15 @@ date: 2008-03-08
 categories: ["Leisure"]
 tags: ["richard-nixon", "decision-reconstruction", "us-presidents", "watergate", "white-house-tapes", "executive-privilege"]
 excerpt: "Nixon had months to destroy the tapes after Butterfield's July testimony. He chose preservation over destruction. That single choice ended his presidency."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2008-03-08
+lang: en
 ---
-
 On the afternoon of Monday, July 16, 1973, a balding former Air Force colonel named Alexander Butterfield sat down at the witness table of the Senate Watergate Committee, raised his right hand, and within thirty minutes spoke five sentences that would unwind a presidency. The room was not full. Television cameras were running but the early-afternoon audience was modest. Senator Howard Baker's deputy minority counsel, Fred Thompson, asked the question the staff had spent the prior weekend rehearsing: Mr. Butterfield, are you aware of any listening devices in the Oval Office of the president? Butterfield, who had spent his entire career as a man who answered questions truthfully, did so again. He described a voice-activated recording system installed in February 1971 in the Oval Office, the Cabinet Room, the president's office in the Executive Office Building, and the Lincoln Sitting Room. He described the Camp David recording capability. He described the system as comprehensive.
 
-![Nixon White House tapes decision reconstruction July 1973 choice not to destroy - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Nixon White House tapes decision reconstruction July 1973 choice not to destroy - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The implication was instantaneous and unmistakable to everyone in the room and to the millions who would see the testimony replayed that evening. Every conversation Richard Nixon had held in those locations since February 1971 was on magnetic tape. The cover-up conversations. The hush-money discussions. The orders to obstruct the FBI. All of it. Somewhere in a basement closet of the Old Executive Office Building, the evidence existed in Nixon's own voice. Between that Monday afternoon and Friday of the following week, Nixon held the entire future of his presidency in his hands. He could destroy the tapes. He could preserve them and assert executive privilege. He could selectively release favorable portions. The window was narrow. The legal exposure for destruction was real but defensible. The political exposure for preservation was, on the evidence we now have, fatal. Nixon chose preservation. This article reconstructs why.
 

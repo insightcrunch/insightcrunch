@@ -6,17 +6,17 @@ date: 2008-03-25
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "decision-reconstruction", "us-presidents", "vietnam-war", "escalation", "george-ball"]
 excerpt: "In July 1965, Johnson chose between George Ball's withdrawal memo and William Westmoreland's 125,000 troops over seven days. Westmoreland won the room."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2008-03-25
+lang: en
 ---
-
 The president had been awake since before five. On the morning of Wednesday, July 21, 1965, Lyndon Johnson walked into the Cabinet Room knowing that within seven days he would have to give the country a number. Westmoreland wanted forty-four battalions. McNamara wanted closer to two hundred thousand troops. Ball wanted out, and had spent three weeks writing the memo that argued so. The reporters in the briefing room downstairs already sensed something was coming. What they did not yet know was that the country was about to be quietly committed to a land war on the Asian mainland without a single new vote being asked of Congress.
 
 This is the reconstruction of those seven days. It is the story of a president who had every alternative laid in front of him, who heard the dissent in full sentences from his own undersecretary of state, who recorded the meetings on a Dictabelt system installed by his own order, and who chose anyway. The decision week of July 21 through July 28, 1965 is the cleanest test case in the postwar record of whether executive war-making had become, by then, structurally untethered from the legislative branch. The answer the week produces is unambiguous.
 
-![LBJ July 1965 Vietnam escalation decision week reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![LBJ July 1965 Vietnam escalation decision week reconstruction - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 ## The June 7 Request That Forced the Question
 
