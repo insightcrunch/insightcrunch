@@ -6,17 +6,17 @@ date: 2007-12-16
 categories: ["Leisure"]
 tags: ["woodrow-wilson", "counterfactual", "us-presidents", "league-of-nations", "treaty-of-versailles", "interwar-period"]
 excerpt: "Wilson needed eight more Senate votes to ratify Versailles. He rejected Lodge's reservations. Four historians run the counterfactual scenarios."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 65
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-12-16
+lang: en
 ---
-
 The evening of September 25 that year, at Pueblo, Colorado, marked the practical end of Woodrow Wilson's political life, though formal collapse arrived a week later. The president had completed 22 days on a Western speaking tour: 8,000 miles by train, 40 set speeches, often two per day, all in pursuit of public pressure he believed would force Senate approval of the Treaty of Versailles. Near the close of the Pueblo address, before an audience of roughly 10,000, the chief executive broke down briefly, dabbing tears as he invoked dead American soldiers from the Argonne. Within hours, on the eastbound train, he suffered what physician Cary Grayson recorded as a nervous breakdown. Seven days later, on October 2, in the White House bedroom, came the massive stroke that paralyzed his left side, distorted his speech, and rendered him substantially incapable of governing.
 
 For five months Edith Wilson controlled access to the West Wing, screening visitors, filtering papers, and conveying messages to and from a partially paralyzed husband whom the nation was told had merely suffered fatigue. The Versailles instrument, awaiting Senate action, sat trapped in the political logic of an absent executive whose only message to his own party was that loyal Democrats must defeat any version of the pact containing Henry Cabot Lodge's reservations. They did, twice. On November 19, 1919, the upper chamber voted 39 to 55 to reject the document with reservations attached; the irreconcilables joined Wilson's loyalists against it. On March 19, 1920, a second attempt fell 49 to 35, seven votes short of the two-thirds required for approval.
 
-![Wilson refuses Lodge conditions 1919 League of Nations counterfactual - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Wilson refuses Lodge conditions 1919 League of Nations counterfactual - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The counterfactual is narrower than it first appears. The Princeton president did not need to convert irreconcilables, the dozen senators (William Borah, Hiram Johnson, Robert La Follette, and others) who opposed the League under any conditions. He needed only to release roughly eight Democrats from his instruction to vote against the reserved version. Had he done so, the pact would have passed with approximately 70 votes, the largest margin a contested treaty had achieved in decades, and the United States would have joined the international institution on Lodge's terms rather than on his own. What would that have meant for the 1920s and 1930s? Four historians, each rigorous, have produced four substantially different answers.
 

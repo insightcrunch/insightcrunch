@@ -6,15 +6,15 @@ date: 2007-11-08
 categories: ["Leisure"]
 tags: ["ronald-reagan", "counterfactual", "us-presidents", "hinckley-assassination-attempt", "george-h-w-bush", "reagan-revolution"]
 excerpt: "Hinckley's bullet came within an inch of Reagan's heart on March 30, 1981. If Reagan had died, Bush Sr. takes the presidency seventy days into the term."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2007-11-08
+lang: en
 ---
-
 The bullet entered through the narrow gap between the limousine's body and its open rear door, deflected off the armored panel, and lodged in Ronald Reagan's left lung approximately one inch from the wall of his heart. The wall clock at George Washington University Hospital, when the gurney rolled through the trauma bay doors, read 2:35 PM on Monday, March 30, 1981. Reagan had been the fortieth president for sixty-nine days. The Washington Hilton motorcade had departed ninety seconds earlier. Inside the trauma suite, a surgical team that had not been briefed on which gunshot victim they were about to receive began the standard protocol for thoracic penetration. Within twelve minutes they would locate the bullet and understand they were operating roughly one inch from a different presidential succession, one that would have made Vice President George Herbert Walker Bush the forty-first chief executive eight years and ten months before he actually took the oath.
 
-![Hinckley assassination attempt Reagan counterfactual Bush Sr. 1981 presidency - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Hinckley assassination attempt Reagan counterfactual Bush Sr. 1981 presidency - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 This article runs the counterfactual rigorously. The question is narrow and the evidence is more specific than most counterfactual questions can claim. Reagan came closer to death than the public knew at the time, and the medical record now declassified makes the proximity clear. The Secret Service decision that probably saved his life is documentable to the minute. Bush's political positions in March 1981 are well attested through his 1980 primary campaign record, his vice presidential transition memos, and the recollections of staff who served both men. The historians who have argued about this counterfactual have done so in print, and four readings can be set against each other with enough specificity to compare predictions question by question. What follows is the reconstruction, the four readings, the artifact that makes the disagreement visible, and a verdict on what the evidence supports.
 

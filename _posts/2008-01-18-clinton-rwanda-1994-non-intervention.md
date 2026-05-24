@@ -6,15 +6,15 @@ date: 2008-01-18
 categories: ["Leisure"]
 tags: ["bill-clinton", "decision-reconstruction", "us-presidents", "rwanda-genocide", "pdd-25", "somalia-syndrome"]
 excerpt: "Bill Clinton refused to intervene as roughly 800,000 died in Rwanda's 1994 genocide. The Somalia shadow, the unspoken word, and the regret that followed."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2008-01-18
+lang: en
 ---
-
 On the morning of April 7, 1994, the Belgian peacekeepers guarding Rwandan prime minister Agathe Uwilingiyimana were disarmed by soldiers of the Presidential Guard, taken to Camp Kigali, and killed. Ten of them. Their commander, a Canadian general named Romeo Dallaire, was on the radio to UN headquarters in New York within hours, telling anyone who would listen that the killing he had warned about three months earlier had begun, that he had two thousand five hundred peacekeepers on the ground against a militia force approaching forty thousand, and that without reinforcement the country would collapse. In Washington, a Friday morning interagency conference call convened to discuss the situation focused almost exclusively on evacuating U.S. citizens and contractors. The word that did not appear in the State Department guidance that week, the word that would not appear in formal American policy documents for nearly two months, the word the genocide convention required Washington to act on once spoken, was the word that described what was happening.
 
-![Clinton Rwanda 1994 non-intervention decision reconstruction Somalia syndrome - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Clinton Rwanda 1994 non-intervention decision reconstruction Somalia syndrome - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 By the time the Rwandan Patriotic Front took Kigali on July 4, 1994, roughly eight hundred thousand Tutsi and moderate Hutu lay dead. The Clinton administration had not intervened, had not led a diplomatic effort to expand the existing UN force, had supported a Security Council vote on April 21 to reduce that force from two thousand five hundred to two hundred seventy, and had spent April through mid-May actively avoiding the word "genocide" in its public statements. Operation Support Hope, the humanitarian mission Washington eventually dispatched, arrived in mid-July, after the slaughter had stopped. Four years later, standing on a runway in Kigali on March 25, 1998, Clinton told a small assembly of survivors that the international community, including his own administration, had not done enough. He used the word "genocide" without qualification. He did not, by any honest reading, apologize for a specific decision; he apologized for what he called a failure to fully appreciate what was happening. The distinction matters because the documents declassified between 2001 and 2004, drawn upon by Samantha Power in her Atlantic article "Bystanders to Genocide" and her subsequent book "A Problem from Hell," demonstrate that the administration knew within days what was unfolding, debated the response at the highest levels, and chose not to act for reasons that were political, doctrinal, and structural rather than informational.
 

@@ -6,17 +6,17 @@ date: 2008-01-02
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "counterfactual", "us-presidents", "vietnam-war", "national-security-action-memorandum", "dallas"]
 excerpt: "JFK was approving Vietnam buildup in November 1963 even as NSAM 263 authorized partial adviser drawdown. Withdrawal or escalation? Four historians argue."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2008-01-02
+lang: en
 ---
-
 On October 11, 1963, John F. Kennedy signed National Security Action Memorandum 263. The document authorized withdrawal of 1,000 American military advisers from South Vietnam by year's end. Six weeks later, the president who signed it was dead in Dallas, and the same Pentagon that had drafted 263 was preparing its successor document for a man named Lyndon Johnson.
 
 On November 26, 1963, four days after the assassination, Johnson signed NSAM 273. The successor document had been drafted in the days before Dallas and finalized after it. Its substantive language was largely in place before the motorcade turned onto Elm Street. The new president did not redirect the policy; he ratified what was already in motion. The advisory commitment continued. The combat threshold remained uncrossed. The conditional drawdown framework that 263 sat inside was already eroding because the South Vietnamese regime had collapsed in a coup three weeks earlier, and the Minh government that replaced Diem was performing worse, not better, against the Viet Cong.
 
-![Kennedy Vietnam NSAM 263 counterfactual analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Kennedy Vietnam NSAM 263 counterfactual analysis - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 This is the documentary record. It supports multiple readings. Four major historians have produced four substantially different verdicts about what JFK would have done in a second term. None of those verdicts is unreasonable. None is consensus. The disagreement itself is the most honest answer the field has produced, and walking the evidence underneath it reveals what was actually being decided in those autumn weeks of 1963.
 
@@ -432,5 +432,4 @@ The thesis is debated rather than settled. The strong version of the thesis, ass
 ### Q: Why are counterfactuals worth running if we cannot know the answer?
 
 Counterfactuals are worth running because they make visible the contingency of historical outcomes that otherwise appear inevitable. By imagining a different decision at a specific moment, we make the actual decision visible as a decision rather than as an inevitability. The Vietnam war was not inevitable. The 58,000 American dead were not inevitable. The decade of war was not inevitable. Specific choices, made by specific presidents at specific meetings, produced the actual outcome. The Kennedy-survives counterfactual makes this visible. The exercise is not about producing a confident prediction. It is about understanding what the actual decision depended on, what the alternatives genuinely were, and what would have had to be different for a different outcome to occur. This kind of analysis is essential for understanding both the limits of presidential agency and its real power within those limits.
-
 
