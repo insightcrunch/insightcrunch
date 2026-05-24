@@ -6,19 +6,19 @@ date: 2012-06-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Gryffindor", "Muggle-Born"]
 excerpt: "A deep Hermione Granger character analysis tracing her moral discipline, intellect, friendships, and the hidden costs of her brilliance in Harry Potter."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2012-06-21
+lang: en
 ---
-
 ## Introduction: The Reader Who Walked into a Story
 
 Most analyses of Hermione Granger begin with the wrong adjective. The brightest witch of her age, the clever one, the swot, the bookish best friend. Each of these is true and each conceals what is actually distinctive about her. The young witch who walks into the train carriage on the Hogwarts Express in *Harry Potter and the Philosopher's Stone* is not primarily clever; she is primarily disciplined. The difference matters because cleverness is a gift while discipline is a choice, and the seven-book arc of this character is the slow revelation that every moral position she holds, every loyalty she keeps, every spell she perfects, has been arrived at by an act of will that the narrative seldom pauses to acknowledge.
 
 This is the thesis that other treatments of the character tend to miss. Rowling did not write a clever girl who is also good; she wrote a girl whose goodness is the disciplined application of her cleverness to questions most of her peers do not bother to ask. The bushy-haired witch on the train is already reading textbooks she could ignore, already correcting Ron's mispronounced spell, already deciding to be the kind of person who arrives prepared. The series will reward this discipline and exact a quiet price for it, and the price is what the present essay sets out to name.
 
-![Hermione Granger character analysis in Harry Potter](/assets/images/blog/blog-02.webp)
+![Hermione Granger character analysis in Harry Potter](/assets/images/blog/blog-90.webp)
 
 The price has two parts. The first is that the trio's other members are loved by the narrative for who they are; Hermione is loved for what she does. Harry is loved because of his mother's sacrifice and the lightning scar and the green-eyed orphan inheritance. Ron is loved because he is funny and ordinary and recognisably one of us. Hermione is loved because she rescues them, repeatedly, from situations they could not survive without her. The narrative's affection arrives in the form of usefulness, and usefulness is not the same as recognition. The second part of the price is that she is the only major character who is consistently asked to be reasonable in moments where the boys are permitted to be furious. Her anger is strategic; their anger is volcanic. Her grief is processed; their grief is performed. The reader who notices this asymmetry begins to notice everything else, and everything else is what this analysis is for.
 

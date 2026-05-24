@@ -6,17 +6,17 @@ date: 2012-07-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sirius Black", "Marauders", "Azkaban"]
 excerpt: "Sirius Black in Harry Potter is the series' definitive study of arrested development: a godfather frozen at twenty-one by Azkaban, lovable and tragic at once."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2012-07-18
+lang: en
 ---
-
 ## Introduction: The Godfather Who Never Grew Up
 
 There is a particular cruelty to surviving something you should not have survived. The cruelty is not the survival itself but the fact that you remain the age you were when the world ended. Sirius Black walks out of Azkaban thirty-three years old by the calendar and twenty-one years old by every measurement that matters. He has the body of a haunted middle-aged man and the recklessness of a boy who has not yet been taught that consequences exist. Rowling builds an entire character study around this single, devastating gap, and the series treats his behaviour as charming because Harry needs to be charmed, and because the reader needs Harry to have one adult in his life who is not, finally, a disappointment. The trick the books pull on the reader is that they convince us, almost successfully, that this gap is romantic. It is not romantic. It is the gravest wound any major character in the series carries, and it is the wound that kills him.
 
-![Sirius Black character analysis covering all seven Harry Potter books](/assets/images/blog/blog-07.webp)
+![Sirius Black character analysis covering all seven Harry Potter books](/assets/images/blog/blog-58.webp)
 
 The argument of this analysis is that Sirius Black is the series' study of arrested development as a moral category, not merely a psychological condition. Twelve years in a stone cell with the soul-eaters in the corridors froze the boy who went in. The man who comes out treats Harry as an equal, and the narrative presents this as the great gift Sirius offers, the antidote to a childhood spent shrinking in a cupboard under the stairs. It is a gift. It is also a wound. The boy needs a father. What he gets is the brother he never had, a charismatic almost-twin who shares his name through magical decree but cannot give him the steady, lecturing, frustrating presence of an adult who has lived past twenty-one. The recklessness that makes Sirius lovable is the same recklessness that drives him into the Department of Mysteries. Rowling refuses to separate them, and this refusal is the deepest structural truth about the character: every quality that draws Harry to him is the same quality that ensures he cannot stay.
 

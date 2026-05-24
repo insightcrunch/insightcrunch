@@ -8,10 +8,10 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Ron Weasley in Harry Potter analyzed as the trio's moral pivot: his capacity for return, working-class portrait, chess sacrifice, and the wounds of being sixth."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 77
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2012-06-26
+lang: en
 ---
-
 ## Introduction: The Boy Who Came Back
 
 There are two scenes that bracket the youngest Weasley son's entire arc, and any honest reading of him must hold them in the same hand. In the first, an eleven-year-old chess prodigy walks his queen into capture so that his two friends can survive a board he himself has refused to leave. In the second, a seventeen-year-old in a damp Welsh forest takes off a cursed locket, looks at the two people he loves more than anyone alive, and walks away from them into the dark. The first scene is the one the fandom remembers. The second is the one that defines him.

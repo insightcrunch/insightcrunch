@@ -6,16 +6,17 @@ date: 2012-07-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Hogwarts Headmaster", "Mentor Archetype"]
 excerpt: "Deep literary analysis of Albus Dumbledore across all seven Harry Potter books: fallen idealist, master strategist, and the Machiavellian heart of Hogwarts."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 65
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2012-07-12
+lang: en
 ---
 ## Introduction: The Old Man Who Was Not Innocent
 
 Albus Percival Wulfric Brian Dumbledore eats lemon drops, wears half-moon spectacles, and delivers school-feast speeches that include the word "nitwit." He is also the man who, knowing Harry Potter contained a fragment of Voldemort's soul, raised the boy with the precise tenderness one might give a calf being fattened for slaughter. Both facts are true. Both facts coexist inside a single portrait. The reading of the Hogwarts headmaster as the kindly white wizard, a mentor in the Gandalf tradition, is not wrong. It is the surface of something that grows darker and more architecturally precise every time the careful reader returns to it.
 
-![Albus Dumbledore character analysis across all Harry Potter books](/assets/images/blog/blog-06.webp)
+![Albus Dumbledore character analysis across all Harry Potter books](/assets/images/blog/blog-19.webp)
 
 J.K. Rowling did not write a Gandalf. She wrote a fallen idealist who once shared a fascist's slogan, who lost his sister to a recklessness he never recovered from, who possessed the most dangerous magical object in the world for fifty years and refused to deploy its full power, and who decided, sometime in the years before Harry ever stepped onto Platform Nine and Three-Quarters, that a child would have to die for the war to end. Then she sat that child in the Great Hall every September and watched him grow up. The genius of the portrait is that the lemon drops are not a contradiction of any of this. They are the strategy. They are the disguise of a strategic intelligence so complete that it performs eccentricity as misdirection.
 
