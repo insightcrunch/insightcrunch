@@ -6,19 +6,19 @@ date: 2012-10-27
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cho Chang", "Ravenclaw", "Grief", "Triwizard Tournament"]
 excerpt: "Deep literary analysis of Cho Chang across all Harry Potter books - Cedric's death, complicated grief, Marietta's betrayal, and the girl the series misjudged."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2012-10-27
+lang: en
 ---
-
 ## Introduction: The Girl Who Cried in the Corridor
 
 There is a moment near the start of *Order of the Phoenix* when a fifteen-year-old girl approaches the boy she has begun to like and finds that she cannot speak without crying. The boy, who is also fifteen, panics, says the wrong thing, and walks away. Most readers remember this moment as the start of a doomed flirtation. Almost no one remembers it as what it actually is: a child whose first boyfriend was murdered three months earlier, trying to ask the only living witness whether the dying was quick. The witness, also a child, has no language for the conversation she is trying to have. He does not understand that her tears are not a complaint. He hears them as a problem he is being asked to solve, and he does not know how, and so he flees.
 
 This is the Ravenclaw Seeker's narrative. It is also a narrative about how a story can lose track of its own character. Across the fourth, fifth, and sixth books of the series, J.K. Rowling builds a fascinating and difficult portrait of a teenage girl in the early acute stages of grief, and then asks the reader to find that portrait exhausting, irritating, and ultimately disposable. The text shows one thing. The narrative voice tells another. The gap between them is where this Asian-British witch lives, unrescued by either.
 
-![Cho Chang character analysis in Harry Potter series](/assets/images/blog/blog-11.webp)
+![Cho Chang character analysis in Harry Potter series](/assets/images/blog/blog-59.webp)
 
 To read her seriously is to read against the grain of her own book. It is to insist that her tears are appropriate, that her loyalty to Marietta is admirable, that her question about Cedric's death is the most important question anyone asks Harry in *Order of the Phoenix*, and that the disastrous date at Madam Puddifoot's is not the proof of her unsuitability but the proof of how cruel the framework around her has become. She is the character whose treatment exposes the limits of the romantic plot the books are running. She is also, almost certainly, the most unfairly written major teenage girl in the series, and her reclamation requires the reader to do something the text resists: to take a grieving Asian-British girl seriously as the protagonist of her own ongoing tragedy rather than as a way station on the way to the right relationship.
 

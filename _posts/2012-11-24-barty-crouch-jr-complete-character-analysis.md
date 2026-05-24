@@ -6,19 +6,19 @@ date: 2012-11-24
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Death Eaters", "Goblet of Fire", "Villain Psychology", "Impersonation"]
 excerpt: "Deep literary analysis of Barty Crouch Jr in Harry Potter - fanaticism as inheritance, paternal failure, the Moody impersonation, and a year of disguise."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "lauren-hayes"
 last_updated: 2012-11-24
+lang: en
 ---
-
 ## Introduction: The Son Who Became His Father's Enemy
 
 There is a moment near the end of *Harry Potter and the Goblet of Fire* when a man who has spent an entire school year teaching Defence Against the Dark Arts begins to laugh. He laughs because his Polyjuice has worn off, because his stolen face is collapsing back into the one he was born with, because Albus Dumbledore has finally caught him, and because he no longer has to pretend. The laugh is the most chilling sound in the seven-book series, and it is also, oddly, the most human one. For nine months this man has been performing competence with such precision that no one suspected, and the relief of being seen is so total that he cannot stop himself from spilling the entire confession into Veritaserum-loosened sentences. The man on the floor of the schoolmaster's office is Barty Crouch Jr, and he is the single most psychologically coherent young villain Rowling ever wrote.
 
 He is also, in a structural sense, the most invisible major villain in the series. The reader does not know he exists until *Goblet of Fire* is two-thirds finished. The reader watches him for over five hundred pages without recognising him. The reader trusts him as a teacher, follows his lessons, learns from his demonstrations of the Unforgivable Curses. Then the reader discovers that every interaction has been a long con engineered by a son who was thrown into Azkaban by his own father at the age of nineteen and who has spent the years since calculating exactly how to repay the debt.
 
-![Barty Crouch Jr character analysis in Harry Potter series](/assets/images/blog/blog-01.webp)
+![Barty Crouch Jr character analysis in Harry Potter series](/assets/images/blog/blog-06.webp)
 
 To call him a fanatic and stop there is to miss almost everything important about him. Fanaticism, in the youngest Crouch's case, is not a free-floating ideological commitment. It is a relationship in disguise. He worships the Dark Lord the way Bellatrix worships, but unlike Bellatrix his devotion comes packaged with a perfectly legible psychological history: a father who valued his Ministry career over his only child, a mother who died trying to save him, a Hogwarts record of academic brilliance that should have produced a model citizen, and a radicalisation that the series never quite shows us happening. The reader meets him only after he has already become what he is, and the absence of the conversion scene is itself one of Rowling's most deliberate craft choices. We are denied the moment of becoming, which is the moment that would humanise him most. What we get instead is the finished product.
 
