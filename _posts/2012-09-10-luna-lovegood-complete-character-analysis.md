@@ -6,19 +6,19 @@ date: 2012-09-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Luna Lovegood", "Ravenclaw", "Order of the Phoenix"]
 excerpt: "Luna Lovegood in Harry Potter as Rowling's argument that some forms of knowing are inaccessible to the rational mind and visionary insight has its own truth."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2012-09-10
+lang: en
 ---
-
 ## Introduction: The Girl Who Reads Upside Down
 
 The first thing readers learn about Luna Lovegood is that she has been misread. Before any conversation, before any description of her face, before the radish earrings or the butterbeer-cork necklace, the reader is given a nickname. Loony. The Ravenclaw fifth-year sitting alone in the Hogwarts Express compartment, holding a magazine the wrong way up, is introduced through the verdict her schoolmates have already pronounced. The character enters the books pre-judged, and one of the first projects of the series is to teach the reader that the judgement is wrong.
 
 That correction is the smaller of two projects the books undertake with this character. The larger and more interesting one is the slow demonstration that the empiricist account of intelligence which Hermione Granger embodies is not the only kind worth having. The novels begin by celebrating bookish rationalism as the cardinal virtue of a young witch. Then they introduce a different girl who knows things she cannot prove, sees creatures invisible to most people her age, and contributes to the war effort precisely through faculties that academic instruction does not cultivate. The presence of this second figure quietly complicates what the books have been saying about thinking.
 
-![Luna Lovegood Harry Potter character analysis Ravenclaw visionary](/assets/images/blog/blog-02.webp)
+![Luna Lovegood Harry Potter character analysis Ravenclaw visionary](/assets/images/blog/blog-08.webp)
 
 The literary tradition has many words for what this character represents. Cassandra. Ophelia. The Russian holy fool, the *yurodivy*, whose foolishness is the only language permitted to speak certain truths. The medieval Christian mystic who reaches God through unknowing rather than through reasoning. William Blake, who saw angels in a tree on Peckham Rye and was thought mad by neighbours who saw only branches. Beatrice in Dante, who guides Dante through Paradise not by argument but by being. Rowling places her own version of this figure in a school robe, gives her a butterbeer-cork necklace, and waits for the reader to notice.
 

@@ -6,16 +6,17 @@ date: 2012-08-19
 categories: ["Leisure"]
 tags: ['Thoughts', 'Harry Potter', 'JK Rowling', 'Fantasy Literature', 'Character Analysis', 'Hogwarts', 'Book Analysis', 'Literary Analysis', 'Minerva McGonagall', 'Transfiguration', 'Gryffindor', 'Animagus']
 excerpt: "Minerva McGonagall in Harry Potter analyzed across seven books: the deputy headmistress whose institutional loyalty becomes a quietly radical position."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2012-08-19
+lang: en
 ---
 ## Introduction: The Cat on the Wall
 
 Before the reader meets the boy, the reader meets a cat. A tabby with markings around its eyes that look almost like spectacles, sitting on a brick wall, watching a Muggle street. The cat does not move all day. It is reading the road map, although the reader is not yet told this. It is waiting for two specific people to arrive, although the reader does not yet know who they are. It has come to inspect what is about to happen to a child who has not yet been left here. Of all the openings J.K. Rowling could have given her seven-volume saga, this is the one she chose: a single witch in cat form, doing surveillance with the patience of someone who understands that magic is mostly waiting and only occasionally lightning.
 
-![Minerva McGonagall character analysis Harry Potter steel and grace](/assets/images/blog/blog-13.webp)
+![Minerva McGonagall character analysis Harry Potter steel and grace](/assets/images/blog/blog-36.webp)
 
 The choice tells you everything about who Minerva will be across the next seven books. She is the woman of duty before the woman of magic. She is the witch who arrives ten hours early because someone has to make certain the boy lands in the right place. She is the deputy headmistress of Hogwarts School of Witchcraft and Wizardry, the head of Gryffindor House, the Transfiguration mistress whose lessons leave students sweating over matchsticks, and she will be all of these things for nearly half a century without once asking for promotion, recognition, or thanks. The first image Rowling gives the reader of an adult wizard at work is not a duel, not a spell, not a flourish of robes. It is patience. It is institutional competence wearing fur.
 

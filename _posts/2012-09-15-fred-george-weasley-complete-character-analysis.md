@@ -6,19 +6,19 @@ date: 2012-09-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fred Weasley", "George Weasley", "Weasley Family", "Comic Resistance"]
 excerpt: "Fred and George Weasley in Harry Potter analyzed as Rowling's argument that joy is resistance: pranks as politics, twins as one soul split across two bodies."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2012-09-15
+lang: en
 ---
-
 ## Introduction: The Laughing Resistance
 
 There is a moment in the *Order of the Phoenix* when the entire moral architecture of the Harry Potter series clarifies itself in a single image. A castle corridor has been turned into a swamp. A toad-faced bureaucrat in a pink cardigan stands ankle-deep in the consequence of her own tyranny. Two redheaded boys on broomsticks fly above her, drop a pair of fireworks at her feet, and depart the school they have been imprisoned in, cheered by every student watching. The image is funny. It is also one of the most explicitly political sequences in the seven books. The toad is Umbridge, the Ministry's instrument of slow totalitarian capture. The boys are Fred and George Weasley, leaving behind their formal education to begin the actual work of opposition. The fireworks spell the letter W. The cheer is from a school that has been taught, for an entire year, that joy is a punishable offence.
 
 Rowling spends seven books making an argument that most readers receive without quite registering. The argument is this: humour is not the opposite of seriousness but its highest form. The clown is not beneath the philosopher; the clown is what the philosopher becomes when philosophy has done its work. The Weasley twins exist in the series to defend that proposition against everything that would deny it: against the bureaucratic dread of Umbridge, against the death-cult vacancy of Voldemort, against the worried adult voices that confuse gravity with virtue. The pair laugh, and the laughing is the politics.
 
-![Fred and George Weasley character analysis as comic resistance in Harry Potter](/assets/images/blog/blog-03.webp)
+![Fred and George Weasley character analysis as comic resistance in Harry Potter](/assets/images/blog/blog-43.webp)
 
 And then Rowling kills one of them. In mid-laugh. With his brother Percy beside him, having finally returned to the family. The wall collapses, and the boy who had been the loudest in every room of his life is suddenly silent in a way that no one in the war can quite recover from. The architecture of the death is not accidental. The author who built her case for joy spends one paragraph dismantling the symmetry that has carried it. A single twin survives. The remaining brother is left to live a life structured around the arithmetic of being half a thing that used to be whole.
 
