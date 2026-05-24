@@ -6,17 +6,17 @@ date: 2008-07-02
 categories: ["Leisure"]
 tags: ["william-howard-taft", "decision-reconstruction", "us-presidents", "progressive-era", "conservation", "republican-split"]
 excerpt: "Taft fired Chief Forester Gifford Pinchot in January 1910 over Alaska coal leases. Roosevelt returned from Africa furious. The 1912 Republican split begins."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-07-02
+lang: en
 ---
-
 On the morning of January 7, 1910, William Howard Taft sat at the desk in the second-floor study of the White House and dictated a letter that would end one of the more consequential professional partnerships in American political history. The letter ran four paragraphs. It dismissed Gifford Pinchot, the founding Chief of the United States Forest Service, the closest political and personal ally Theodore Roosevelt had outside his own family, from federal office. Pinchot received it that afternoon. He had been expecting it for thirty days. He had, in a sense, been engineering it for ninety.
 
 The political earthquake that followed did not stop. Within six months Theodore Roosevelt returned from his African safari to a Republican Party already pulling itself apart over what had become known as the Ballinger-Pinchot Affair. Within two years Roosevelt had broken with Taft entirely, founded the Progressive Party, and run against his own handpicked successor in a three-way race that handed the presidency to Woodrow Wilson and ended Republican dominance of the executive branch for two decades. The party split that began with one personnel decision in January 1910 reshaped the American political map for a generation.
 
-![Taft fires Pinchot January 1910 Ballinger conservation Alaska coal leases decision reconstruction - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Taft fires Pinchot January 1910 Ballinger conservation Alaska coal leases decision reconstruction - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 This article reconstructs that decision. It walks through the four options on Taft's desk in the first week of January 1910, the institutional pressures that pushed him toward the most rupturing of them, the legal and administrative case for what he chose, and the political catastrophe that followed regardless. It draws on the contemporary correspondence between Taft and Roosevelt, the testimony before the Joint Congressional Committee that investigated the affair in 1910, the personal letters of the principals, and the four decades of historical scholarship that has tried to assign blame, vindicate one side or the other, or, in the more interesting cases, refuse to do either. The argument advanced here is specific: Taft's firing of Pinchot was administratively defensible, legally clean, and politically self-immolating. It is the canonical case in modern presidential history of a personnel decision that was correct on every dimension except the one that mattered, which was holding the governing coalition together.
 

@@ -8,10 +8,10 @@ tags: ["woodrow-wilson", "decision-reconstruction", "us-presidents", "american-h
 excerpt: "Wilson won 1916 promising he kept the country out of war. Five months later he asked Congress to declare it. The Zimmermann Telegram tipped his cabinet."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2008-06-26
+lang: en
 ---
-
 On the evening of March 20, 1917, ten men sat around the long table in the Cabinet Room of the White House and were polled, one by one, on whether the United States should ask Congress for a declaration of war against the German Empire. The man chairing the session had won re-election four months earlier on the slogan "He Kept Us Out of War." He had told Frank Cobb of the New York World, only weeks before, that a war presidency would mean "the spirit of ruthless brutality will enter into the very fiber of our national life." He had spent two and a half years constructing an elaborate edifice of mediation, of "peace without victory," of armed neutrality just short of belligerency. Yet when Secretary of State Robert Lansing finished noting each cabinet member's position in the small notebook he kept for such occasions, the vote was unanimous. Even Josephus Daniels, the pacifist Secretary of the Navy who had wept in private over the prospect, voted yes. Even Albert Burleson, the Postmaster General whose Texas constituency depended on cotton exports the war would disrupt, voted yes.
 
 ![Woodrow Wilson war message April 1917 Zimmermann Telegram cabinet reversal - Insight Crunch](/assets/images/blog/blog-01.webp)

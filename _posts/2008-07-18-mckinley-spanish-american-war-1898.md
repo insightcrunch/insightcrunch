@@ -6,17 +6,17 @@ date: 2008-07-18
 categories: ["Leisure"]
 tags: ["william-mckinley", "decision-reconstruction", "us-presidents", "spanish-american-war", "imperialism", "philippines"]
 excerpt: "McKinley resisted war with Spain through April 1898 yet got one anyway. America gained Puerto Rico, Guam, and the Philippines from a reluctant Ohio president."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-07-18
+lang: en
 ---
-
 On the morning of April 11, 1898, a clerk read aloud to a packed House chamber a message from the president of the United States. The man who composed that message had spent two months trying to avoid the very thing the message requested. Two days earlier, on April 9, the Spanish government in Madrid had agreed to nearly every demand the American minister had laid before it: immediate armistice in Cuba, an end to the reconcentration policy, the conversion of the Cuban question into a matter for arbitration on terms favorable to the United States. The cable carrying that news had reached the State Department on April 10. The president read it. He attached a single, almost grudging sentence to the war message acknowledging the Spanish concession. And then he sent the message to Congress anyway, asking for authority to use the army and navy of the United States to compel a settlement Spain had already offered without compulsion.
 
 How does a chief executive who does not want a war get one? The question is not rhetorical. William McKinley was a Civil War veteran who had seen Antietam at twenty-one, a methodical lawyer-politician who had run twice for the presidency on tariff and monetary issues with virtually no foreign-policy content, and a man whose private letters from February through early April 1898 record exhausting attempts to keep the peace through diplomacy in Madrid. The standard textbook narrative compresses this into a sentence: yellow journalism and the explosion of the Maine pushed an irresolute president into a popular war. The actual record, recoverable from the McKinley-Woodford correspondence in the State Department archives, the cabinet minutes preserved by John Hay's later editors, the diaries of Henry Cabot Lodge and Theodore Roosevelt, and the Spanish foreign-ministry papers excavated by John Offner and others, is harder. McKinley's reluctance was real. The diplomatic track was succeeding. And the war came anyway, brought by structural forces that operated independently of presidential will.
 
-![William McKinley and the April 1898 War Message - Insight Crunch](/assets/images/blog/blog-01.webp)
+![William McKinley and the April 1898 War Message - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 This article reconstructs the February-through-April 1898 decision arc as a study in how the modern American war power actually works. The reconstruction yields a specific argument and a specific artifact. The argument is what we will call the McKinley paradox: a reluctant executive can be the wrong place to look for the causes of an executive-driven war, because the structural pressures that produce modern wars operate through congressional majorities, organized press campaigns, party-electoral calculation, and bureaucratic action by subordinates (in this case Theodore Roosevelt at the Navy Department), rendering the president's private preferences increasingly irrelevant as the structural ratchet tightens. The artifact is a parallel-track timeline showing diplomatic progress in Madrid on one column and congressional war-pressure escalation in Washington on the other from February 15 through April 11, 1898, documenting that the diplomatic track was winning at the moment the political track foreclosed it. The article also threads what we will call, throughout the InsightCrunch presidents series, the imperial-presidency thesis: that executive power expanded by emergency or war is rarely surrendered after the emergency ends, and that the foreign-policy template established under McKinley between April 1898 and December 1898 is the template from which Theodore Roosevelt, Woodrow Wilson, Franklin Roosevelt, Harry Truman, Lyndon Johnson, and George W. Bush all subsequently worked.
 

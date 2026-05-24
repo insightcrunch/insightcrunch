@@ -6,15 +6,15 @@ date: 2008-08-09
 categories: ["Leisure"]
 tags: ["andrew-johnson", "decision-reconstruction", "us-presidents", "reconstruction", "veto-power", "fourteenth-amendment"]
 excerpt: "Johnson vetoed the Civil Rights Act in 1866. Congress overrode him. First civil rights override in history."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2008-08-09
+lang: en
 ---
-
 On April 9, 1866, the United States Senate voted 33 to 15 to override Johnson's rejection of the Trumbull statute. The House had already done the same three days earlier by a margin of 122 to 41. The gas lamps were being lit outside the Capitol when the Senate roll closed. Inside the chamber, the silence lasted only a moment after the tally was announced, and then it broke. The 1866 statute became law over the express objection of Andrew Johnson, the first equal-protection statute in American history to clear that obstacle, and the first major piece of legislation of any kind to survive executive veto since 1845.
 
-![Johnson 1866 confrontation strategy Civil Rights Act override decision reconstruction - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Johnson 1866 confrontation strategy Civil Rights Act override decision reconstruction - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The seventeenth president learned the result by telegram at the White House. He said little to his aides. He had been warned by every Republican of consequence that this particular rejection would split his administration from his party beyond repair. He had returned the bill anyway. Six weeks earlier he had defeated a similar override attempt on the Freedmen's Bureau extension, and the February 19 rejection held by a comfortable margin in the Senate. He had believed, perhaps reasonably given the precedent of that February vote, that the same coalition would hold again. It did not. Between February 19 and April 9 something had shifted decisively in the Republican congressional caucus, and the Tennessean had failed to read the shift. The April 9 override was the hinge of his presidency. Everything that followed, from the Fourteenth Amendment proposal in June through the Swing Around the Circle tour in late summer, through the November midterm catastrophe and the impeachment of February 1868, flowed from the choice he made on that day, 1866, when he sent the Trumbull statute back to the Capitol with a the message rather than signing it or letting it become law without his signature.
 

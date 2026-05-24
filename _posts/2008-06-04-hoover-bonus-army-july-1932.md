@@ -6,17 +6,17 @@ date: 2008-06-04
 categories: ["Leisure"]
 tags: ["herbert-hoover", "decision-reconstruction", "us-presidents", "great-depression", "bonus-army", "douglas-macarthur"]
 excerpt: "Hoover ordered the BEF camps cleared with humanity. MacArthur burned them. Hoover got the blame. The 1932 election was effectively over by morning."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2008-06-04
+lang: en
 ---
-
 ## The Order, the Bridge, and the Fire
 
 At 4:45 in the afternoon on Thursday, July 28, 1932, Herbert Hoover signed a written instruction to his Secretary of War, Patrick J. Hurley. The paper directed federal troops to assist the District of Columbia police in clearing former soldiers from governmental property along Pennsylvania Avenue between the Capitol and the White House. The president's directive contained a specific geographical limit. Troops were authorized to clear the partially demolished buildings near Third Street where former servicemen had taken shelter. They were not authorized to cross the Eleventh Street Bridge over the Anacostia River. They were not authorized to enter the main veterans' encampment on the muddy flats across the water. They were not authorized to burn anything.
 
-![Herbert Hoover BEF July 1932 decision reconstruction Anacostia camp burning - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Herbert Hoover BEF July 1932 decision reconstruction Anacostia camp burning - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 By 11:00 that night, every one of those limits had been violated. Cavalry under Major George S. Patton had charged civilians on Pennsylvania Avenue. Infantry under Major General Douglas MacArthur, the Army Chief of Staff who had personally taken field command in dress uniform with a row of decorations across his chest, had pushed across the bridge with bayonets fixed and tear gas canisters arcing through the summer air. The wooden shanties at Camp Marks on the Anacostia flats were burning. Two infants would die from the gas exposure in the days that followed. A bystander, William Hushka, lay dead from a District police bullet fired earlier in the day at Pennsylvania Avenue. Another veteran, Eric Carlson, lay mortally wounded. The newspapers the next morning would show photographs of mounted soldiers driving unarmed men in patched uniforms through clouds of gas, the Capitol dome visible in the background of several shots.
 

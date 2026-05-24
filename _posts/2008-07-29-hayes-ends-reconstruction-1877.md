@@ -6,15 +6,15 @@ date: 2008-07-29
 categories: ["Leisure"]
 tags: ["rutherford-hayes", "decision-reconstruction", "us-presidents", "american-history", "compromise-of-1877", "reconstruction-end"]
 excerpt: "Hayes pulled federal troops from South Carolina and Louisiana in April 1877, ending Reconstruction. Black voter turnout in the South collapsed within years."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2008-07-29
+lang: en
 ---
-
 On April 3, less than thirty days after he placed his hand on a Bible at the East Portico of the Capitol, Rutherford Hayes signed the order that pulled federal soldiers away from the South Carolina statehouse in Columbia. Three weeks later, on April 24, he signed a second order for New Orleans. Both documents were brief. Neither contained the words "end" or "Reconstruction." Neither had to. Within seventy-two hours of each order, the Republican statehouse governments in those two states collapsed, replaced by Democratic regimes that white Southerners called the Redeemers. The federal commitment to the region's biracial GOP experiment, written in the blood of Antietam and Gettysburg and codified in three constitutional amendments, ended on those two days in two short executive orders.
 
-![Hayes ends Reconstruction April 1877 national troops withdrawal Wormley Hotel - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Hayes ends Reconstruction April 1877 national troops withdrawal Wormley Hotel - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 This was the decision. The disputed election of 1876, the Electoral Commission of January 1877, the late-night meetings at the Wormley Hotel on February 26 of that year, and the inaugural address of March 5 all funneled into the two signatures the new president placed on paper in that spring. Everything before the spring of that year was prologue. Everything after was consequence. What he pulled out was small in raw numbers, fewer than three thousand soldiers scattered across the former Confederacy, but their presence had been the last guarantor of African American voting rights, Black officeholding, and Black physical safety in the contested statehouses. With them gone, Republican governments in the lower former Confederacy became impossible to defend. The collapse was not gradual. In the affected states, it was immediate.
 
@@ -245,7 +245,6 @@ The central program that Hayes ended in that April was an experiment in racial d
 This article connects to several others in the series. Grant's national enforcement actions of 1870 through 1872, examined at [insightcrunch.com/grant-enforcement-acts-reconstruction](https://insightcrunch.com/grant-enforcement-acts-reconstruction), provide the predecessor decision that Hayes himself effectively unwound. The broader reassessment of Grant's presidency, including the recognition that his civil rights record was substantially stronger than the early-twentieth-century historiography acknowledged, is the subject of [insightcrunch.com/grant-presidential-ranking-rehabilitation](https://insightcrunch.com/grant-presidential-ranking-rehabilitation). The pattern of presidents who won the office while losing the popular vote, which includes Hayes, is examined at [insightcrunch.com/presidents-who-lost-popular-vote-audit](https://insightcrunch.com/presidents-who-lost-popular-vote-audit). The downstream U.S. labor intervention case that built on the precedent of executive selectivity established in 1877 is examined at [insightcrunch.com/cleveland-pullman-strike-1894](https://insightcrunch.com/cleveland-pullman-strike-1894).
 
 
-
 ## The Cabinet Composition and the Symbolism of Reconciliation
 
 The composition of the incoming cabinet in March of that year carried a message that paired with the upcoming withdrawal orders. David M. Key of Tennessee, a former Confederate cavalry officer turned Democratic senator, was named postmaster general. Key was the first cabinet member from the former Confederacy since the war. His appointment was the cabinet-level expression of the conciliatory southern policy. The Postmaster General position carried particular weight: it controlled patronage for tens of thousands of local postmasterships across the country, including in the former Confederacy. By placing a southerner with deep ties to the regional Democratic establishment in that role, the administration was signaling that the federal patronage system would no longer be used to support a competing GOP infrastructure in the former Confederate states.
@@ -281,8 +280,6 @@ The failure of the Lodge Bill marked the end of the Republican party's instituti
 The collapse of the Lodge Bill in 1890 is the bookend to the spring 1877 withdrawals. The withdrawals ended the active enforcement program. The Lodge Bill's failure ended the possibility of reconstituting that program through legislation. From 1891 to 1957, when the first modern Civil Rights Act was passed under the Eisenhower administration, federal civil rights enforcement in the former Confederacy was effectively impossible. Sixty-six years of legal nullification of constitutional rights followed from the conjunction of the withdrawals and the 1890 Lodge Bill defeat.
 
 The historiographic significance of this conjunction is sometimes underemphasized. The Hayes withdrawals were not necessarily the final word in 1877. A subsequent party administration with majorities in Congress could have restored the enforcement program. The Harrison administration of 1889 to 1893, which had Republican congressional majorities, came close to doing so through the Lodge Bill. The bill's defeat by silver-state vote-trading, not by direct ideological opposition to civil rights, illustrates how contingent the southern abandonment remained even thirteen years after the original retreat. Different coalitional politics could have produced a different outcome. The withdrawals were sufficient to end Reconstruction; they were not by themselves sufficient to make the abandonment permanent. The Lodge Bill defeat completed what the withdrawals had begun.
-
-
 
 
 ## The Diary as Source: What the Private Record Reveals
