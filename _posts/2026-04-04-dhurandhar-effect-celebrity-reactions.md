@@ -704,6 +704,8 @@ This distinction mattered in the broader conversation. For audiences who shared 
 
 The pattern of Bollywood voices that did speak about the franchise being disproportionately drawn from a particular political constituency within the industry was something that several commentators noted. Whether this represented genuine ideological homogeneity among the film's Bollywood supporters or simply the fact that people who shared the film's political perspective were less anxious about expressing support was itself a contested question.
 
+{% include tweet.html id="1998793568060952657" %}
+
 ---
 
 ## Part Forty-Three: The Music Industry's Response
