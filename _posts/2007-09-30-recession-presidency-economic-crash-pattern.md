@@ -9,6 +9,7 @@ reading_time: 8
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "economic-voting", "recession", "reelection-defeats"]
 author: "insight-crunch-team"
 lang: en
+last_updated: 2026-05-25
 ---
 The pattern runs from Martin Van Buren to George H.W. Bush. A downturn arriving in year three or year four of a presidential term, with the incumbent on the ballot, has produced reelection defeat in every documented case across two centuries of American politics. When the slump arrives earlier and recovery reaches the election year, the office-holder survives. The window is narrow. The signal is loud.
 

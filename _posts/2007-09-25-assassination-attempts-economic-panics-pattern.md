@@ -9,7 +9,7 @@ excerpt: "Four presidents assassinated. Nine serious attempts on the office sinc
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2007-09-25
+last_updated: 2026-05-25
 lang: en
 ---
 On the afternoon of September 6, 1901, William McKinley extended his right hand to a young man waiting in the receiving line at the Pan-American Exposition in Buffalo. The young man, Leon Czolgosz, had wrapped his own right hand in a handkerchief to conceal a .32 caliber Iver Johnson revolver. He fired twice at point-blank range. The first shot deflected off a button on McKinley's coat. The second tore through the president's stomach, pancreas, and one kidney. McKinley died eight days later of gangrene. The country's third presidential assassination in thirty-six years had occurred in a state whose unemployment rolls had only just stabilized after five years of post-Panic-of-1896 wage compression, populist agitation against the gold standard, and waves of immigrant industrial labor unrest that contemporary newspapers routinely described as the worst conditions since the long depression of the 1870s. Czolgosz's stated motivation, recorded by Buffalo police within hours of the shooting and reaffirmed at his trial three weeks later, was that he had "done his duty" against a "ruler of a good people" who had grown wealthy while working people suffered.

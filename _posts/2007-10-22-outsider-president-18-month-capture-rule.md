@@ -9,7 +9,7 @@ excerpt: "Eight outsider presidents campaigned against Washington across two cen
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2007-10-22
+last_updated: 2026-05-25
 lang: en
 ---
 On September 3, 1982, Ronald Reagan signed the Tax Equity and Fiscal Responsibility Act, the largest peacetime tax increase in American history to that point. The signing was muted. The man who had told the nation in January 1981 that government was not the solution but the problem itself had spent the summer working through Senate Finance Chairman Bob Dole and the standard committee process to assemble a $98 billion revenue package. Howard Phillips of the Conservative Caucus called it a betrayal. The Heritage Foundation circulated a memo cataloguing what it labeled the policy reversals of 1982. Reagan signed anyway, then added an increase in gasoline taxes three months later, then signed the Social Security rescue package in April 1983 that raised payroll levies and lifted the retirement age.

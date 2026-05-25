@@ -9,7 +9,7 @@ excerpt: "Monroe, Truman, Eisenhower, Nixon, Carter, Reagan: each named a doctri
 image: "/assets/images/blog/blog-07.webp"
 reading_time: 56
 author: "amanda-ross"
-last_updated: 2007-09-03
+last_updated: 2026-05-25
 lang: en
 ---
 On February 6, 1985, Ronald Reagan stood before a joint session of Congress and committed the United States to "support [for] the democratic resistance" in every country where Marxist regimes faced armed insurgency. He named no countries. He named no commitments. He attached no budgetary figure, no troop estimate, and no termination criteria. Within forty-eight hours the Washington press corps had labeled the passage the Reagan Doctrine. Within six months the State Department was citing the speech in routine briefings on Afghanistan, Nicaragua, and Angola. Within four years Reagan was a private citizen and George H.W. Bush was invoking the same framework to justify continued funding for the Contras. Within ten years the Cold War was over and the Reagan Doctrine, by any literal reading, no longer applied to anything, yet the foreign-policy bureaucracy continued to file the 1985 paragraph as live precedent for executive authority to back foreign rebels without congressional authorization.

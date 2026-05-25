@@ -9,7 +9,7 @@ excerpt: "Washington seated ten justices. Carter named zero across a full term. 
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 62
 author: "chloe-martin"
-last_updated: 2007-09-08
+last_updated: 2026-05-25
 lang: en
 ---
 Jimmy Carter served a full four years and left office without seating a single justice on the Supreme Court of the United States. Richard Nixon served five and a half years, resigned in disgrace, and seated four, including a Chief Justice. George Washington seated ten because the bench did not exist until he built it. Andrew Johnson seated none because the Senate, with the help of a Congress that simply shrank the bench from ten members down to seven during his tenure, refused to let him. William Henry Harrison and Zachary Taylor each got zero, but neither lived long enough to plausibly try. The lifetime tenure clause embedded in Article III, paired with the political randomness of retirement and the demographic accident of death, distributes a presidency's most enduring power according to a logic that defies the language of merit, ideology, or even effort. It is a logic of timing.

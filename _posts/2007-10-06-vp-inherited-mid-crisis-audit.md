@@ -9,7 +9,7 @@ excerpt: "Nine VPs inherited mid-term after death or resignation. Each made a de
 image: "/assets/images/blog/blog-52.webp"
 reading_time: 62
 author: "rachel-foster"
-last_updated: 2007-10-06
+last_updated: 2026-05-25
 lang: en
 ---
 At 5:08 p.m. on April 12, 1945, Harry Truman walked into Sam Rayburn's first-floor hideaway in the Capitol expecting bourbon and political gossip. The phone rang. Steve Early at the White House asked the vice president to come, quietly, by the back entrance, as quickly as he could. Truman arrived to find Eleanor Roosevelt waiting. She placed a hand on his shoulder. "Harry, the president is dead." Truman stood silent for what witnesses later described as a long moment. He asked if there was anything he could do for her. Eleanor answered with the line that has survived in every Truman biography written since: "Is there anything we can do for you? For you are the one in trouble now."

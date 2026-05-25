@@ -9,7 +9,7 @@ excerpt: "Colonel Lewis Nicola asked General Washington to become king of Americ
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
 author: "rachel-foster"
-last_updated: 2007-11-02
+last_updated: 2026-05-25
 lang: en
 ---
 On the morning of May 22, 1782, the commanding general of the Continental Army sat down at his headquarters in Newburgh, New York, and composed one of the most consequential refusals in the history of executive power. Colonel Lewis Nicola, an Irish-born officer who had served the Continental cause since 1776, had sent a seven-page letter days earlier proposing that the failed Confederation be replaced with a constitutional monarchy and that the new king should be the recipient of the letter himself. The proposal arrived during the spring crisis of an army that had not been paid in months, a Confederation Congress that could not levy taxes to pay them, and a peace negotiation in Paris whose outcome remained uncertain. By the standards of every previous successful revolution in recorded history, a military hero ascending to formal rule was the predictable next step. Cromwell had done it. Caesar had done it. The Stadtholders of the Netherlands had done it in a softer form. The pattern was so well-established that contemporary European observers expected it.

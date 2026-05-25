@@ -9,7 +9,7 @@ excerpt: "Grant's Whiskey Ring. Reagan's Iran-Contra. Clinton's Lewinsky. Every 
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 65
 author: "diana-patel"
-last_updated: 2007-09-19
+last_updated: 2026-05-25
 lang: en
 ---
 On the afternoon of November 25, 1986, Ronald Reagan walked to the White House briefing room podium, stood beside Attorney General Edwin Meese, and announced that funds from arms sales to Iran had been diverted to the Nicaraguan Contras. He took no questions. Meese, summoned by the president three days earlier to investigate what the National Security Council staff had been doing, fielded the press for thirty-eight minutes. By the time the cameras shut off, Reagan's approval rating, which had stood at sixty-seven percent in October according to the Gallup tracking series, was already beginning the slide that would carry it down to forty-three percent by March 1987. The president had entered his sixth year in office on January 20, 1986. He would leave it as a man under federal investigation, with fourteen of his subordinates indicted, eleven convicted, and a special prosecutor's report that would not finally close until 1993, four years after he had left office.

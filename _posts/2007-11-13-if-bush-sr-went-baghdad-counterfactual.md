@@ -9,7 +9,7 @@ excerpt: "Bush Sr. stopped at Kuwait in 1991. If he had continued to Baghdad, th
 image: "/assets/images/blog/blog-72.webp"
 reading_time: 63
 author: "rachel-foster"
-last_updated: 2007-11-13
+last_updated: 2026-05-25
 lang: en
 ---
 At 8:00 p.m. Washington time on February 27, 1991, George H.W. Bush walked into the Oval Office, faced a television camera, and announced that Kuwait was liberated and that the coalition would suspend offensive combat operations at midnight. One hundred hours after the ground war began, the Iraqi army was a wreck on the road north from Kuwait City, the Republican Guard's heavy divisions were either destroyed or fleeing across the Euphrates, and the road to Baghdad was, in the literal military sense, open. Bush halted. The decision has been replayed in every American foreign-policy argument since 2003, when his son inherited the unfinished problem and chose differently. The question this article asks is the narrow counterfactual one: if Bush Sr. had continued to Baghdad in 1991, what would have been different from the 2003 invasion that actually occurred twelve years later? Would the Arab coalition have held? Would Saddam Hussein have been captured or killed? Would the occupation have settled differently than the 2003 through 2011 occupation under the son? Would the 2001 through 2009 foreign-policy arc have looked unrecognizable because Iraq had been resolved a decade earlier?

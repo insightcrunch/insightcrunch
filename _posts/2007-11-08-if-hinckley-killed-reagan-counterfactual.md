@@ -9,7 +9,7 @@ excerpt: "Hinckley's bullet came within an inch of Reagan's heart on March 30, 1
 image: "/assets/images/blog/blog-54.webp"
 reading_time: 64
 author: "diana-patel"
-last_updated: 2007-11-08
+last_updated: 2026-05-25
 lang: en
 ---
 The bullet entered through the narrow gap between the limousine's body and its open rear door, deflected off the armored panel, and lodged in Ronald Reagan's left lung approximately one inch from the wall of his heart. The wall clock at George Washington University Hospital, when the gurney rolled through the trauma bay doors, read 2:35 PM on Monday, March 30, 1981. Reagan had been the fortieth president for sixty-nine days. The Washington Hilton motorcade had departed ninety seconds earlier. Inside the trauma suite, a surgical team that had not been briefed on which gunshot victim they were about to receive began the standard protocol for thoracic penetration. Within twelve minutes they would locate the bullet and understand they were operating roughly one inch from a different presidential succession, one that would have made Vice President George Herbert Walker Bush the forty-first chief executive eight years and ten months before he actually took the oath.

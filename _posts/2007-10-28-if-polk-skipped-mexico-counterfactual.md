@@ -9,7 +9,7 @@ excerpt: "Polk engineered war with Mexico in 1846. The Mexican Cession reignited
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2007-10-28
+last_updated: 2026-05-25
 lang: en
 ---
 On Saturday May 9, 1846, James Knox Polk sat at his desk in the White House and worked on the draft of a war message he had already begun composing days before any news of bloodshed reached Washington. The cabinet had voted that morning to recommend a declaration. Polk's diary entry for that evening records the timing with the precision of a man who knew exactly what he was doing. Word of the April 25 skirmish on the Rio Grande, in which Captain Seth Thornton's patrol had been ambushed by Mexican forces, arrived in the capital only that night. Polk revised his message to incorporate the incident, sent it to Congress on Monday May 11, and within three days had his declaration.

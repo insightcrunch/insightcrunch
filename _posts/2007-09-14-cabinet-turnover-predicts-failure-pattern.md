@@ -9,7 +9,7 @@ excerpt: "Cabinet turnover correlates with presidential trouble. Tyler lost five
 image: "/assets/images/blog/blog-55.webp"
 reading_time: 81
 author: "amanda-ross"
-last_updated: 2007-09-14
+last_updated: 2026-05-25
 lang: en
 ---
 On September 11, 1841, five of the six men sitting in John Tyler's cabinet resigned within hours of one another. Only Daniel Webster stayed, and he stayed because the Webster-Ashburton negotiations with Britain were too far along to abandon. Tyler had been president for five months. He had taken office on April 4 after William Henry Harrison died of pneumonia thirty-one days into the term, and by September the Whig coalition that elected the ticket had fractured so completely that the party formally expelled its own president two days later. Tyler served three and a half more years, vetoed bill after bill, and left office in 1845 having accomplished almost nothing he set out to do. He is ranked, depending on the survey, somewhere between the fifth-worst and the worst president in American history.

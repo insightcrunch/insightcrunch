@@ -9,7 +9,7 @@ excerpt: "Alexander Hamilton died in Burr's 1804 duel at age 49. The Federalist 
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 64
 author: "amanda-ross"
-last_updated: 2007-11-19
+last_updated: 2026-05-25
 lang: en
 ---
 The morning of July 11, 1804 was hot on the Weehawken Heights above the Hudson River. Alexander Hamilton, age 49, faced Vice President Aaron Burr across roughly ten paces of cleared ground. The two men exchanged the formal ritual of the code duello: pistols loaded by their seconds, paces measured, the word given. Both fired. Hamilton's shot struck a tree branch above and behind Burr's head, and the historical disagreement over whether he had deliberately thrown away his fire began that morning and has not ended. Burr's shot struck Hamilton just above the right hip, fractured a rib, ricocheted off his spine, and lodged near his second lumbar vertebra. Hamilton was rowed back across the Hudson, carried to the home of his friend William Bayard at 80 Jane Street in Greenwich Village, and died at two o'clock the following afternoon, July 12, after roughly thirty hours of conscious suffering.

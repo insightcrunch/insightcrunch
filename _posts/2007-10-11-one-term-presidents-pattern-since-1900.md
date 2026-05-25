@@ -10,7 +10,7 @@ excerpt: "Four single-mandate U.S. presidents since 1900 lost reelection. Each d
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2007-10-11
+last_updated: 2026-05-25
 lang: en
 ---
 ## The Question Behind 112 Years of Reelection Losses

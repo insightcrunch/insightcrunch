@@ -9,7 +9,7 @@ excerpt: "Every two-term US president since 1808 has suffered a major second-ter
 image: "/assets/images/blog/blog-27.webp"
 reading_time: 73
 author: "chloe-martin"
-last_updated: 2007-10-17
+last_updated: 2026-05-25
 lang: en
 ---
 ## The Pattern Nobody Wants to Name
