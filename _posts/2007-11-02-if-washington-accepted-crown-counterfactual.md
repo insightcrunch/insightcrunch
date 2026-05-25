@@ -6,17 +6,17 @@ date: 2007-11-02
 categories: ["Leisure"]
 tags: ["george-washington", "counterfactual", "us-presidents", "newburgh-letter", "american-monarchy", "continental-army"]
 excerpt: "Colonel Lewis Nicola asked General Washington to become king of America in May 1782. The reply was a sharp rebuke. What if Washington had explored it?"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2007-11-02
+lang: en
 ---
-
 On the morning of May 22, 1782, the commanding general of the Continental Army sat down at his headquarters in Newburgh, New York, and composed one of the most consequential refusals in the history of executive power. Colonel Lewis Nicola, an Irish-born officer who had served the Continental cause since 1776, had sent a seven-page letter days earlier proposing that the failed Confederation be replaced with a constitutional monarchy and that the new king should be the recipient of the letter himself. The proposal arrived during the spring crisis of an army that had not been paid in months, a Confederation Congress that could not levy taxes to pay them, and a peace negotiation in Paris whose outcome remained uncertain. By the standards of every previous successful revolution in recorded history, a military hero ascending to formal rule was the predictable next step. Cromwell had done it. Caesar had done it. The Stadtholders of the Netherlands had done it in a softer form. The pattern was so well-established that contemporary European observers expected it.
 
 Washington's response, dispatched the same day Nicola's letter arrived in the wider reading, was a four-paragraph rebuke that has been quoted for two centuries as the founding renunciation of American kingship. The General told Nicola that no event of the war had given him "more painful sensations" than learning such proposals were circulating in the army. He demanded that Nicola "banish these thoughts from your Mind," and warned that the proposal was "big with the greatest mischiefs that can befall my Country." The exchange ended there. Nicola wrote three additional apologetic letters within the week. The proposal vanished from the historical record except as a footnote in the story of republican virtue.
 
-![King Washington counterfactual Nicola crown proposal 1782 monarchy Continental Army - Insight Crunch](/assets/images/blog/blog-01.webp)
+![King Washington counterfactual Nicola crown proposal 1782 monarchy Continental Army - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 This article runs the counterfactual rigorously. The historical record supports the strong claim that Washington's refusal was structurally essential to the founding sequence as it actually unfolded. But the counterfactual question is not whether Washington's character permitted acceptance, which it plainly did not. The question is what the political and constitutional architecture of the early republic would have been if the May 1782 rejection had been softer, or if the related Newburgh Conspiracy of March 1783 had produced a different outcome, or if Washington had brought to the Constitutional Convention of 1787 the position Alexander Hamilton actually proposed there: an executive serving for life. Each of these counterfactuals is more epistemically tractable than the cartoon version where the General simply puts on a crown. Each illuminates how much of American executive power was structurally predetermined by the political culture of the late 1770s and 1780s, and how much was contingent on specific choices made by specific actors at specific moments. The verdict will be that the cartoon counterfactual is essentially impossible, but the softer counterfactual is genuinely live, and that the softer counterfactual reveals how close the American executive came to a form recognizably continuous with European elective-monarchical traditions rather than the radically novel republican office it became.
 

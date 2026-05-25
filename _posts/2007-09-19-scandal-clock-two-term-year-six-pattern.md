@@ -6,15 +6,15 @@ date: 2007-09-19
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "presidential-scandals", "congressional-investigations", "second-term"]
 excerpt: "Grant's Whiskey Ring. Reagan's Iran-Contra. Clinton's Lewinsky. Every two-term president gets investigated around year six. Here's the mechanism explained."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 65
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2007-09-19
+lang: en
 ---
-
 On the afternoon of November 25, 1986, Ronald Reagan walked to the White House briefing room podium, stood beside Attorney General Edwin Meese, and announced that funds from arms sales to Iran had been diverted to the Nicaraguan Contras. He took no questions. Meese, summoned by the president three days earlier to investigate what the National Security Council staff had been doing, fielded the press for thirty-eight minutes. By the time the cameras shut off, Reagan's approval rating, which had stood at sixty-seven percent in October according to the Gallup tracking series, was already beginning the slide that would carry it down to forty-three percent by March 1987. The president had entered his sixth year in office on January 20, 1986. He would leave it as a man under federal investigation, with fourteen of his subordinates indicted, eleven convicted, and a special prosecutor's report that would not finally close until 1993, four years after he had left office.
 
-![Year Six Presidential Scandal Clock Pattern Across Two-Term Presidencies - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Year Six Presidential Scandal Clock Pattern Across Two-Term Presidencies - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 Reagan was not unlucky. He was on schedule. Reach back through every two-term presidency since Ulysses S. Grant won his second term in 1872 and the same clock keeps striking the same hour. Grant's Whiskey Ring exposure broke in May 1875, his year seven if measured from his first inauguration. Wilson's Palmer Raids and the collapse of the Versailles treaty fight ran from late 1919 into 1920, his year six and seven. FDR's court-packing debacle detonated in early 1937, his fifth year if measured from 1933, his first year of the second elected term. Truman's MacArthur firing came in April 1951, his year six counting from the 1945 inheritance. Eisenhower's Sherman Adams vicuna-coat scandal forced his chief of staff's resignation in September 1958, year six exactly. The U-2 was shot down in May 1960, year seven. Nixon's Watergate investigation matured through 1973 and 1974, his year five and six of an inherited-and-elected tenure. Reagan's Iran-Contra broke in November 1986, year six. Clinton's Lewinsky deposition was January 17, 1998, year six. The pattern is not coincidence. It is structural. This article names the mechanism, tests the claim against every two-term presidency in the modern record, and offers the Year Six Scandal Clock as a predictive frame any close reader of the executive branch can carry forward.
 
