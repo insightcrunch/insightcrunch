@@ -8,10 +8,10 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Complete literary analysis of Lavender Brown in Harry Potter - the girl dismissed as silly, her quiet loyalty, and her brutal fate at the Battle of Hogwarts."
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2012-12-23
+lang: en
 ---
-
 ## Introduction: The Girl Who Came Back
 
 The girl who loved Ron Weasley dies in fan memory two ways, depending on which medium the reader trusts. In the films she is a corpse on the stone floor of Hogwarts, Fenrir Greyback hunched over her body, the camera lingering for one beat before cutting away. In the books her unconscious form is dragged from the steps by Hermione and Ron, who later watches Trelawney hurl crystal balls at the werewolf above. Word of God has since clarified that the book Lavender survives the battle with permanent scarring; the text itself never confirms the verdict. She is left in that ambiguity which is the precise condition the series imposed on her from the first time the reader met her: half-glimpsed, half-mocked, half-loved, never given the dignity of a settled answer.
