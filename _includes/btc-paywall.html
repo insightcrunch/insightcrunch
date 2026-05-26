@@ -1,16 +1,24 @@
 {%- comment -%}
-  InsightCrunch BTC paywall component.
+  InsightCrunch BTC paywall component (metered version).
   Included by _layouts/post.html when page.paywall == true.
-  Renders a gated card between the free preview and the locked body.
-  Styling matches the existing amber/cream palette from _includes/head.html.
-  Shows both fiat (USD) and sats so non-bitcoin readers understand the price.
+
+  Flow:
+  - Full article renders normally on page load (good for SEO crawlers)
+  - 15 seconds after DOMContentLoaded, JS finds an anchor point in the article
+  - Content from anchor onwards gets wrapped in a blur container
+  - Paywall card slides in above the blur with fiat + sat amount
+  - On successful payment, blur unwraps and card fades out
+
+  Layout requirement: post.html should render full {{ fixed_content }}
+  inside <div class="post-content"> with the paywall include after it.
 {%- endcomment -%}
 
 {%- assign pw = site.data.paywall -%}
 {%- assign post_id = page.slug | default: page.url | md5 -%}
 
 <style>
-.btc-pw{margin:32px 0;padding:0;border:1px solid var(--amber-bd);border-radius:10px;background:linear-gradient(135deg,var(--amber-bg),var(--s1) 70%);overflow:hidden;font-family:'Inter',sans-serif}
+.btc-pw{margin:32px 0;padding:0;border:1px solid var(--amber-bd);border-radius:10px;background:linear-gradient(135deg,var(--amber-bg),var(--s1) 70%);overflow:hidden;font-family:'Inter',sans-serif;display:none;opacity:0;transform:translateY(20px);transition:opacity .5s ease,transform .5s ease}
+.btc-pw.pw-card-active{opacity:1;transform:translateY(0)}
 .btc-pw-head{padding:18px 22px 12px;border-bottom:1px solid var(--amber-bd)}
 .btc-pw-head h3{font-family:'Lora',serif;font-size:20px;font-weight:500;color:var(--esp);margin:0 0 4px}
 .btc-pw-head p{font-size:13px;color:var(--mid);margin:0;line-height:1.55}
@@ -38,15 +46,21 @@
 .btc-pw-status.ok{color:#1a7a3a}
 .btc-pw-foot{padding:10px 22px 16px;font-size:11px;color:var(--soft);border-top:1px dashed var(--rule);line-height:1.6}
 .btc-pw-foot a{color:var(--amber)}
-.paywall-locked{display:none}
-.paywall-locked.unlocked{display:block;animation:pwFade .5s ease both}
+
+/* Metered paywall blur wrapper. JS injects this around the bottom of the article. */
+.pw-blur-wrap{position:relative;max-height:340px;overflow:hidden;user-select:none;-webkit-user-select:none;pointer-events:none;margin-top:8px}
+.pw-blur-wrap > *{filter:blur(4.5px);-webkit-filter:blur(4.5px)}
+.pw-blur-wrap::after{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(to bottom,rgba(253,250,245,.35) 0%,rgba(253,250,245,.75) 55%,rgba(253,250,245,.98) 100%);pointer-events:none}
+
 @keyframes pwFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+
 @media (max-width:760px){
   .btc-pw-row{grid-template-columns:1fr;gap:4px}
   .btc-pw-label{margin-top:6px}
   .btc-pw-val{font-size:11px}
   .btc-pw-amount{font-size:14px}
   .btc-pw-fiat{font-size:22px}
+  .pw-blur-wrap{max-height:240px}
 }
 </style>
 
@@ -101,7 +115,8 @@
     max:  {{ pw.amount_max_sats }},
     win:  {{ pw.unlock_window_minutes }} * 60 * 1000,
     api:  {{ pw.mempool_api | jsonify }},
-    pid:  {{ post_id | jsonify }}
+    pid:  {{ post_id | jsonify }},
+    delaySeconds: 15
   };
 
   var KEY_AMT = 'ic_pw_amt_'   + PW.pid;
@@ -146,22 +161,117 @@
     if (rateEl) rateEl.textContent = '1 BTC ≈ $' + Math.round(rate).toLocaleString();
   }
 
-  function showContent(){
-    var locked = document.querySelector('.paywall-locked[data-post="' + PW.pid + '"]');
-    if (locked) locked.classList.add('unlocked');
-    var card = document.getElementById('btcPaywall-' + PW.pid);
-    if (card) card.style.display = 'none';
+  function findAnchorPoint(){
+    var pc = document.querySelector('.post-content');
+    if (!pc) return null;
+    var pcRect = pc.getBoundingClientRect();
+
+    // Strategy 1: first h2 or h3 that's at least 400px below article top
+    var headings = pc.querySelectorAll('h2, h3');
+    for (var i = 0; i < headings.length; i++){
+      var hRect = headings[i].getBoundingClientRect();
+      if (hRect.top - pcRect.top > 400) return headings[i];
+    }
+
+    // Strategy 2: 30% paragraph mark
+    var paragraphs = pc.querySelectorAll(':scope > p');
+    if (paragraphs.length > 5){
+      return paragraphs[Math.floor(paragraphs.length * 0.3)];
+    }
+
+    // Strategy 3: midpoint of all top-level children if article is moderately sized
+    if (pc.children.length > 4){
+      return pc.children[Math.floor(pc.children.length / 2)];
+    }
+
+    return null;
   }
 
-  // Already unlocked on this device?
-  if (localStorage.getItem(KEY_OK)) { showContent(); return; }
-
-  // Render the per-reader amount on first paint.
-  document.addEventListener('DOMContentLoaded', function(){
+  function revealCard(card){
     var amt = getRequiredAmount();
-    $('pwAmount').textContent = amt.toLocaleString();
+    document.getElementById('pwAmount-' + PW.pid).textContent = amt.toLocaleString();
     renderFiatAmount(amt);
-  });
+
+    card.style.display = 'block';
+    requestAnimationFrame(function(){
+      requestAnimationFrame(function(){
+        card.classList.add('pw-card-active');
+        setTimeout(function(){
+          try { card.scrollIntoView({ behavior: 'smooth', block: 'center' }); } catch(e){}
+        }, 300);
+      });
+    });
+  }
+
+  function lockArticle(){
+    // Race guard: if unlocked during the 15s timer, don't gate
+    if (localStorage.getItem(KEY_OK)) return;
+
+    var pc = document.querySelector('.post-content');
+    if (!pc) return;
+
+    var card = document.getElementById('btcPaywall-' + PW.pid);
+    if (!card) return;
+
+    var anchor = findAnchorPoint();
+    if (!anchor){
+      // Article too short to gate cleanly. Just show the card at the end as a tip jar.
+      pc.parentNode.insertBefore(card, pc.nextSibling);
+      revealCard(card);
+      return;
+    }
+
+    // Collect anchor + all following siblings (within its parent)
+    var nodes = [];
+    var n = anchor;
+    while (n){
+      nodes.push(n);
+      n = n.nextSibling;
+    }
+
+    // Build blur wrap and insert at anchor's position
+    var blurWrap = document.createElement('div');
+    blurWrap.className = 'pw-blur-wrap';
+    blurWrap.setAttribute('data-post', PW.pid);
+    anchor.parentNode.insertBefore(blurWrap, anchor);
+
+    // Insert paywall card just before the blur wrap
+    blurWrap.parentNode.insertBefore(card, blurWrap);
+
+    // Move all collected nodes into the blur wrap
+    nodes.forEach(function(node){ blurWrap.appendChild(node); });
+
+    revealCard(card);
+  }
+
+  function unlockArticle(){
+    var blurWrap = document.querySelector('.pw-blur-wrap[data-post="' + PW.pid + '"]');
+    if (blurWrap){
+      // Move children back out, restoring original flow
+      while (blurWrap.firstChild){
+        blurWrap.parentNode.insertBefore(blurWrap.firstChild, blurWrap);
+      }
+      blurWrap.remove();
+    }
+    var card = document.getElementById('btcPaywall-' + PW.pid);
+    if (card){
+      card.classList.remove('pw-card-active');
+      setTimeout(function(){ card.style.display = 'none'; }, 500);
+    }
+  }
+
+  // If already unlocked on this device, never start the timer
+  if (localStorage.getItem(KEY_OK)) return;
+
+  // Start the 15-second timer once DOM is ready
+  function startGateTimer(){
+    setTimeout(lockArticle, PW.delaySeconds * 1000);
+  }
+  if (document.readyState === 'loading'){
+    document.addEventListener('DOMContentLoaded', startGateTimer);
+  } else {
+    startGateTimer();
+  }
 
   window.pwCopy = function(id, what){
     var el = document.getElementById('pwAddr-' + id);
@@ -212,7 +322,7 @@
 
       localStorage.setItem(KEY_OK, txid);
       setStatus('Payment verified. Unlocking…', 'ok');
-      setTimeout(showContent, 600);
+      setTimeout(unlockArticle, 600);
     } catch (e) {
       setStatus('Network error reaching mempool.space. Try again in a moment.', 'err');
       btn.disabled = false;
