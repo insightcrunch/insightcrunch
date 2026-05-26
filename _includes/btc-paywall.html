@@ -1,0 +1,185 @@
+{%- comment -%}
+  InsightCrunch BTC paywall component.
+  Included by _layouts/post.html when page.paywall == true.
+  Renders a gated card between the free preview and the locked body.
+  Styling matches the existing amber/cream palette from _includes/head.html.
+{%- endcomment -%}
+
+{%- assign pw = site.data.paywall -%}
+{%- assign post_id = page.slug | default: page.url | md5 -%}
+
+<style>
+.btc-pw{margin:32px 0;padding:0;border:1px solid var(--amber-bd);border-radius:10px;background:linear-gradient(135deg,var(--amber-bg),var(--s1) 70%);overflow:hidden;font-family:'Inter',sans-serif}
+.btc-pw-head{padding:18px 22px 12px;border-bottom:1px solid var(--amber-bd)}
+.btc-pw-head h3{font-family:'Lora',serif;font-size:20px;font-weight:500;color:var(--esp);margin:0 0 4px}
+.btc-pw-head p{font-size:13px;color:var(--mid);margin:0;line-height:1.55}
+.btc-pw-body{padding:16px 22px 20px;display:grid;gap:14px}
+.btc-pw-row{display:grid;grid-template-columns:90px 1fr;gap:10px;align-items:center}
+.btc-pw-label{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--soft);font-weight:600}
+.btc-pw-val{font-family:'Courier New',monospace;font-size:13px;color:var(--ink);background:var(--s2);padding:8px 11px;border-radius:5px;border:1px solid var(--rule);word-break:break-all;position:relative}
+.btc-pw-amount{font-family:'Lora',serif;font-size:22px;font-weight:600;color:var(--amber);background:none;border:none;padding:0}
+.btc-pw-amount-sub{font-size:11px;color:var(--soft);font-family:'Inter',sans-serif;font-weight:400;margin-left:6px}
+.btc-pw-copy{position:absolute;right:6px;top:50%;transform:translateY(-50%);background:var(--s1);border:1px solid var(--rule);border-radius:4px;padding:3px 8px;font-size:10px;cursor:pointer;color:var(--soft);font-family:'Inter',sans-serif}
+.btc-pw-copy:hover{color:var(--amber);border-color:var(--amber-bd)}
+.btc-pw-copy.ok{color:#1a7a3a;border-color:#1a7a3a}
+.btc-pw-input{width:100%;padding:9px 11px;border:1px solid var(--rule);border-radius:5px;font-family:'Courier New',monospace;font-size:12px;background:var(--s1);color:var(--ink);outline:none}
+.btc-pw-input:focus{border-color:var(--amber);background:#fff}
+.btc-pw-btn{padding:10px 20px;background:var(--amber);color:#fff;border:none;border-radius:6px;font-size:13px;font-weight:600;cursor:pointer;letter-spacing:.3px;font-family:'Inter',sans-serif;transition:background .15s}
+.btc-pw-btn:hover{background:var(--amber-lt)}
+.btc-pw-btn:disabled{opacity:.5;cursor:not-allowed}
+.btc-pw-actions{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.btc-pw-status{font-size:12px;color:var(--soft);min-height:18px}
+.btc-pw-status.err{color:#a02020}
+.btc-pw-status.ok{color:#1a7a3a}
+.btc-pw-foot{padding:10px 22px 16px;font-size:11px;color:var(--soft);border-top:1px dashed var(--rule);line-height:1.6}
+.btc-pw-foot a{color:var(--amber)}
+.paywall-locked{display:none}
+.paywall-locked.unlocked{display:block;animation:pwFade .5s ease both}
+@keyframes pwFade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@media (max-width:760px){
+  .btc-pw-row{grid-template-columns:1fr;gap:4px}
+  .btc-pw-label{margin-top:6px}
+  .btc-pw-val{font-size:11px}
+  .btc-pw-amount{font-size:18px}
+}
+</style>
+
+<div class="btc-pw" id="btcPaywall-{{ post_id }}" data-post="{{ post_id }}">
+  <div class="btc-pw-head">
+    <h3>{{ pw.title }}</h3>
+    <p>{{ pw.subtitle }}</p>
+  </div>
+  <div class="btc-pw-body">
+
+    <div class="btc-pw-row">
+      <span class="btc-pw-label">Amount</span>
+      <span>
+        <span class="btc-pw-amount" id="pwAmount-{{ post_id }}">…</span>
+        <span class="btc-pw-amount-sub">sats (exact)</span>
+      </span>
+    </div>
+
+    <div class="btc-pw-row">
+      <span class="btc-pw-label">Send to</span>
+      <span class="btc-pw-val">
+        <span id="pwAddr-{{ post_id }}">{{ pw.btc_address }}</span>
+        <button type="button" class="btc-pw-copy" onclick="pwCopy('{{ post_id }}','addr')">Copy</button>
+      </span>
+    </div>
+
+    <div class="btc-pw-row">
+      <span class="btc-pw-label">Your txid</span>
+      <input type="text" class="btc-pw-input" id="pwTxid-{{ post_id }}" placeholder="Paste your transaction ID once it's broadcast" autocomplete="off" spellcheck="false">
+    </div>
+
+    <div class="btc-pw-actions">
+      <button type="button" class="btc-pw-btn" id="pwBtn-{{ post_id }}" onclick="pwUnlock('{{ post_id }}')">Verify and unlock</button>
+      <span class="btc-pw-status" id="pwStatus-{{ post_id }}"></span>
+    </div>
+
+  </div>
+  <div class="btc-pw-foot">
+    Pay the <strong>exact</strong> amount shown. Each reader gets a unique number, so screenshots and shared txids won't work. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
+  </div>
+</div>
+
+<script>
+(function(){
+  var PW = {
+    addr: {{ pw.btc_address | jsonify }},
+    min:  {{ pw.amount_min_sats }},
+    max:  {{ pw.amount_max_sats }},
+    win:  {{ pw.unlock_window_minutes }} * 60 * 1000,
+    api:  {{ pw.mempool_api | jsonify }},
+    pid:  {{ post_id | jsonify }}
+  };
+
+  var KEY_AMT = 'ic_pw_amt_'   + PW.pid;
+  var KEY_TS  = 'ic_pw_ts_'    + PW.pid;
+  var KEY_OK  = 'ic_pw_unlock_'+ PW.pid;
+
+  function $(id){ return document.getElementById(id + '-' + PW.pid); }
+  function setStatus(msg, cls){ var s = $('pwStatus'); s.textContent = msg; s.className = 'btc-pw-status ' + (cls||''); }
+
+  function getRequiredAmount(){
+    var cached = parseInt(localStorage.getItem(KEY_AMT), 10);
+    var when   = parseInt(localStorage.getItem(KEY_TS),  10);
+    if (cached && when && (Date.now() - when) < PW.win) return cached;
+    var amt = PW.min + Math.floor(Math.random() * (PW.max - PW.min + 1));
+    localStorage.setItem(KEY_AMT, amt);
+    localStorage.setItem(KEY_TS,  Date.now());
+    return amt;
+  }
+
+  function showContent(){
+    var locked = document.querySelector('.paywall-locked[data-post="' + PW.pid + '"]');
+    if (locked) locked.classList.add('unlocked');
+    var card = document.getElementById('btcPaywall-' + PW.pid);
+    if (card) card.style.display = 'none';
+  }
+
+  // Already unlocked on this device?
+  if (localStorage.getItem(KEY_OK)) { showContent(); return; }
+
+  // Render the per-reader amount on first paint.
+  document.addEventListener('DOMContentLoaded', function(){
+    $('pwAmount').textContent = getRequiredAmount().toLocaleString();
+  });
+
+  window.pwCopy = function(id, what){
+    var el = document.getElementById('pwAddr-' + id);
+    var btn = el.parentNode.querySelector('.btc-pw-copy');
+    navigator.clipboard.writeText(el.textContent.trim()).then(function(){
+      btn.textContent = 'Copied'; btn.classList.add('ok');
+      setTimeout(function(){ btn.textContent = 'Copy'; btn.classList.remove('ok'); }, 1500);
+    });
+  };
+
+  window.pwUnlock = async function(id){
+    var txid = $('pwTxid').value.trim().toLowerCase();
+    var btn  = $('pwBtn');
+    var required = getRequiredAmount();
+
+    if (!/^[a-f0-9]{64}$/.test(txid)) {
+      setStatus('That does not look like a valid bitcoin txid (64 hex characters).', 'err');
+      return;
+    }
+
+    btn.disabled = true;
+    setStatus('Checking the blockchain…', '');
+
+    try {
+      var res = await fetch(PW.api + '/tx/' + txid);
+      if (!res.ok) {
+        setStatus('Transaction not found yet. Wait a few seconds after broadcast and try again.', 'err');
+        btn.disabled = false; return;
+      }
+      var tx = await res.json();
+
+      var matchedOutput = (tx.vout || []).find(function(o){
+        return o.scriptpubkey_address === PW.addr && o.value === required;
+      });
+
+      if (!matchedOutput) {
+        setStatus('Found the txid but it does not pay exactly ' + required.toLocaleString() + ' sats to the address shown. Double-check the amount.', 'err');
+        btn.disabled = false; return;
+      }
+
+      // Optional freshness check: tx must be newer than when amount was generated.
+      var generatedAt = parseInt(localStorage.getItem(KEY_TS), 10);
+      var txTime = tx.status && tx.status.block_time ? tx.status.block_time * 1000 : Date.now();
+      if (tx.status && tx.status.confirmed && txTime < (generatedAt - 5*60*1000)) {
+        setStatus('That transaction is older than your unlock request. Send a fresh payment.', 'err');
+        btn.disabled = false; return;
+      }
+
+      localStorage.setItem(KEY_OK, txid);
+      setStatus('Payment verified. Unlocking…', 'ok');
+      setTimeout(showContent, 600);
+    } catch (e) {
+      setStatus('Network error reaching mempool.space. Try again in a moment.', 'err');
+      btn.disabled = false;
+    }
+  };
+})();
+</script>
