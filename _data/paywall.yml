@@ -1,7 +1,7 @@
 # InsightCrunch BTC paywall config
 # Update btc_address to your actual on-chain address before going live.
 
-btc_address: "bc1qREPLACE_ME_WITH_YOUR_ADDRESS"
+btc_address: "bc1q6xw6ah9cdvtkagf7mtga2ayjr5p69ppqvskxey"
 
 # Each reader gets a random required amount in this range so two readers
 # never see the same number. Sharing one reader's txid fails for everyone
