@@ -6,10 +6,14 @@ date: "2008-08-26"
 categories: ["Leisure"]
 tags: ["james-buchanan", "decision-reconstruction", "us-presidents", "secession-crisis", "civil-war", "fort-sumter"]
 excerpt: "Buchanan watched seven states leave the Union in 126 days. His own attorney general said federal power was real, and he refused to act. The reconstruction."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 67
+author: "rachel-foster"
+lang: en
 ---
 The morning of December 3, 1860. The clerk of the House of Representatives unfolds the annual presidential message and begins to read aloud. The capital is full of nervous men. South Carolina has called a convention to leave the United States. Three cabinet officers have begun preparing their resignations. Diplomatic dispatches from European chanceries demand to know whether the federal compact will hold. And the message answers each question by answering none of them.
+
+![Buchanan's Secession Winter: The Four Months of Nothing - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 Secession is illegal, the document declares. The Constitution makes no provision for any state to secede from the Union. The framers contemplated no such right. Yet, the message continues, no presidential power exists to prevent secession by force. The Union is perpetual; the executive cannot keep it so. The contradiction is announced from the rostrum as if a settled finding of law.
 

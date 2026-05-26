@@ -6,19 +6,19 @@ date: 2013-01-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "James Potter", "Marauders", "Fatherhood"]
 excerpt: "Complete literary analysis of James Potter in Harry Potter - the bullying, the maturation, the wandless death, and the father Harry had to learn to read."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-01-18
+lang: en
 ---
-
 ## Introduction: The Father Built from Absence
 
 James Potter is the most violently revised character in the series, and the reader who finishes seven books with the same image of him as they had after book one has not been paying attention. He dies in the chapter that begins the saga and never speaks a single line of present-tense dialogue across the entire arc. Every glimpse the reader gets is mediated: a photograph, a Pensieve memory, a dream, a friend's reverent reminiscence, a posthumous appearance in the Resurrection Stone. James is constructed almost entirely from the testimony of others, and the testimony does not agree with itself.
 
 The man Hagrid introduces with affectionate awe in *Philosopher's Stone* is an emblem of pure paternal sacrifice: brave, brilliant, gone too soon. By the central chapter of *Order of the Phoenix*, that same man is on his knees in front of Severus Snape, levitating his classmate upside down for entertainment, weaponising his popularity, performing cruelty for an audience. Then, in the last two volumes, Rowling complicates the portrait again. James becomes neither sainted nor damned but ordinary in the most disturbing way: a person who was genuinely cruel at fifteen and became, by twenty-one, someone who would die wandless to buy his wife and child a few extra seconds.
 
-![James Potter character analysis in Harry Potter series](/assets/images/blog/blog-11.webp)
+![James Potter character analysis in Harry Potter series](/assets/images/blog/blog-84.webp)
 
 This is the argument the series stages through him, and it is the boldest moral claim in the books. People are not their worst moments, but those moments are real and never erased. Adulthood, in Rowling's quiet accounting, is the project of becoming someone different from who you were at fifteen while honouring rather than denying who you were. The Worst Memory does not stop being part of Harry's father. It also does not become the whole of him. The two facts coexist, and the reader who can hold both has done the cognitive work the series is training across seven books.
 

@@ -6,19 +6,19 @@ date: 2013-01-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dean Thomas", "Gryffindor", "Minor Characters", "Hidden Heritage"]
 excerpt: "Complete literary analysis of Dean Thomas in Harry Potter - the Muggle-raised Gryffindor, hidden heritage, art, race, and the protagonist Rowling never wrote."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2013-01-02
+lang: en
 ---
-
 ## Introduction: The Boy Whose Father Was Killed by Death Eaters
 
 Dean Thomas was one year old when his father was murdered by Death Eaters. The man had been a wizard who refused, after the birth of his son, to reveal his magical identity to his Muggle wife, choosing instead to vanish from their lives so that his absence would protect them from the war that was coming for him. The Muggle mother of the boy who would one day share a dormitory with the Boy Who Lived believed, for the rest of her life, that the man she had loved had simply walked out. The son grew up thinking the same. He turned eleven with no inkling that the absence of his father was anything other than ordinary, the residue of an ordinary domestic failure. Then a letter arrived from Hogwarts, and his entire understanding of himself reorganised, and even then the deepest fact about his origin remained hidden from him for another seven years.
 
 Rowling tells this story in something close to a footnote.
 
-![Dean Thomas character analysis in Harry Potter series](/assets/images/blog/blog-08.webp)
+![Dean Thomas character analysis in Harry Potter series](/assets/images/blog/blog-80.webp)
 
 It is, in literal terms, almost the same story as the one the series is built around. A wizard father killed by Death Eaters when the protagonist was a year old. A child raised in the Muggle world, ignorant of his heritage, kept from the war his parents had been fighting. The arrival of a Hogwarts letter that detonates the false biography. The discovery, only at the brink of adulthood, of the truth about his father. Every structural beat of the Harry Potter origin myth is replicated in the backstory of a boy who shares the protagonist's dormitory for seven years and barely gets sustained narrative attention. The series contains, embedded in its margins, an unwritten parallel novel whose protagonist would have been a Black Muggle-raised half-blood with a hidden inheritance, and the series chose to write the other one. Reading this character seriously means reading both the books that exist and the book that does not.
 
