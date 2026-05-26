@@ -53,6 +53,7 @@ defaults:
     values:
       layout: "post"
       author: "insight-crunch-team"
+      paywall: true
 
 exclude:
   - Gemfile
