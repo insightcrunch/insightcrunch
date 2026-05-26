@@ -1,0 +1,21 @@
+# InsightCrunch BTC paywall config
+# Update btc_address to your actual on-chain address before going live.
+
+btc_address: "bc1qREPLACE_ME_WITH_YOUR_ADDRESS"
+
+# Each reader gets a random required amount in this range so two readers
+# never see the same number. Sharing one reader's txid fails for everyone
+# else because the amount on the blockchain won't match.
+amount_min_sats: 500
+amount_max_sats: 999
+
+# How long after the reader generated their amount we accept a matching
+# payment. After this, they have to start over.
+unlock_window_minutes: 90
+
+# Public block explorer used for txid validation. No API key needed.
+mempool_api: "https://mempool.space/api"
+
+# Friendly copy shown on the paywall card.
+title: "Read the rest with bitcoin"
+subtitle: "One-time on-chain payment unlocks this article. No accounts, no email, no tracking."
