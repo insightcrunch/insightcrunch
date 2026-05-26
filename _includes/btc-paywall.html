@@ -3,6 +3,7 @@
   Included by _layouts/post.html when page.paywall == true.
   Renders a gated card between the free preview and the locked body.
   Styling matches the existing amber/cream palette from _includes/head.html.
+  Shows both fiat (USD) and sats so non-bitcoin readers understand the price.
 {%- endcomment -%}
 
 {%- assign pw = site.data.paywall -%}
@@ -17,8 +18,12 @@
 .btc-pw-row{display:grid;grid-template-columns:90px 1fr;gap:10px;align-items:center}
 .btc-pw-label{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--soft);font-weight:600}
 .btc-pw-val{font-family:'Courier New',monospace;font-size:13px;color:var(--ink);background:var(--s2);padding:8px 11px;border-radius:5px;border:1px solid var(--rule);word-break:break-all;position:relative}
-.btc-pw-amount{font-family:'Lora',serif;font-size:22px;font-weight:600;color:var(--amber);background:none;border:none;padding:0}
+.btc-pw-amount{font-family:'Lora',serif;font-size:16px;font-weight:500;color:var(--amber);background:none;border:none;padding:0}
 .btc-pw-amount-sub{font-size:11px;color:var(--soft);font-family:'Inter',sans-serif;font-weight:400;margin-left:6px}
+.btc-pw-price{display:flex;flex-direction:column;gap:3px}
+.btc-pw-fiat{font-family:'Lora',serif;font-size:26px;font-weight:600;color:var(--esp);line-height:1.1}
+.btc-pw-sats-line{display:flex;align-items:baseline;gap:4px;flex-wrap:wrap}
+.btc-pw-rate{font-size:10px;color:var(--soft);letter-spacing:.3px;margin-top:2px}
 .btc-pw-copy{position:absolute;right:6px;top:50%;transform:translateY(-50%);background:var(--s1);border:1px solid var(--rule);border-radius:4px;padding:3px 8px;font-size:10px;cursor:pointer;color:var(--soft);font-family:'Inter',sans-serif}
 .btc-pw-copy:hover{color:var(--amber);border-color:var(--amber-bd)}
 .btc-pw-copy.ok{color:#1a7a3a;border-color:#1a7a3a}
@@ -40,7 +45,8 @@
   .btc-pw-row{grid-template-columns:1fr;gap:4px}
   .btc-pw-label{margin-top:6px}
   .btc-pw-val{font-size:11px}
-  .btc-pw-amount{font-size:18px}
+  .btc-pw-amount{font-size:14px}
+  .btc-pw-fiat{font-size:22px}
 }
 </style>
 
@@ -53,9 +59,13 @@
 
     <div class="btc-pw-row">
       <span class="btc-pw-label">Amount</span>
-      <span>
-        <span class="btc-pw-amount" id="pwAmount-{{ post_id }}">…</span>
-        <span class="btc-pw-amount-sub">sats (exact)</span>
+      <span class="btc-pw-price">
+        <span class="btc-pw-fiat" id="pwFiat-{{ post_id }}">…</span>
+        <span class="btc-pw-sats-line">
+          <span class="btc-pw-amount" id="pwAmount-{{ post_id }}">…</span>
+          <span class="btc-pw-amount-sub">sats (send this exact amount)</span>
+        </span>
+        <span class="btc-pw-rate" id="pwRate-{{ post_id }}"></span>
       </span>
     </div>
 
@@ -79,7 +89,7 @@
 
   </div>
   <div class="btc-pw-foot">
-    Pay the <strong>exact</strong> amount shown. Each reader gets a unique number, so screenshots and shared txids won't work. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
+    Pay the <strong>exact</strong> sat amount shown. Each reader gets a unique number, so screenshots and shared txids won't work. The dollar value is for reference only; bitcoin's price moves minute to minute. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
   </div>
 </div>
 
@@ -97,6 +107,7 @@
   var KEY_AMT = 'ic_pw_amt_'   + PW.pid;
   var KEY_TS  = 'ic_pw_ts_'    + PW.pid;
   var KEY_OK  = 'ic_pw_unlock_'+ PW.pid;
+  var KEY_BTC = 'ic_btc_price';
 
   function $(id){ return document.getElementById(id + '-' + PW.pid); }
   function setStatus(msg, cls){ var s = $('pwStatus'); s.textContent = msg; s.className = 'btc-pw-status ' + (cls||''); }
@@ -111,6 +122,30 @@
     return amt;
   }
 
+  async function getBtcPrice(){
+    try {
+      var cached = JSON.parse(localStorage.getItem(KEY_BTC) || 'null');
+      if (cached && (Date.now() - cached.at) < 60 * 60 * 1000) return cached.usd;
+      var res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd');
+      var data = await res.json();
+      var usd = data.bitcoin.usd;
+      localStorage.setItem(KEY_BTC, JSON.stringify({ usd: usd, at: Date.now() }));
+      return usd;
+    } catch (e) {
+      var fb = JSON.parse(localStorage.getItem(KEY_BTC) || 'null');
+      return (fb && fb.usd) || 100000;
+    }
+  }
+
+  async function renderFiatAmount(satAmount){
+    var rate = await getBtcPrice();
+    var usd = (satAmount / 100000000) * rate;
+    var fiatEl = document.getElementById('pwFiat-' + PW.pid);
+    var rateEl = document.getElementById('pwRate-' + PW.pid);
+    if (fiatEl) fiatEl.textContent = '$' + usd.toFixed(2);
+    if (rateEl) rateEl.textContent = '1 BTC ≈ $' + Math.round(rate).toLocaleString();
+  }
+
   function showContent(){
     var locked = document.querySelector('.paywall-locked[data-post="' + PW.pid + '"]');
     if (locked) locked.classList.add('unlocked');
@@ -123,7 +158,9 @@
 
   // Render the per-reader amount on first paint.
   document.addEventListener('DOMContentLoaded', function(){
-    $('pwAmount').textContent = getRequiredAmount().toLocaleString();
+    var amt = getRequiredAmount();
+    $('pwAmount').textContent = amt.toLocaleString();
+    renderFiatAmount(amt);
   });
 
   window.pwCopy = function(id, what){
