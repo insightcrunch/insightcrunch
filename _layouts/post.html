@@ -670,10 +670,24 @@ article {
     | replace: 'content="/assets/', asset_content_prefix
     | replace: 'srcset="/assets/', asset_srcset_prefix
   %}
-  <div class="post-content">
-    {{ fixed_content }}
-  </div>
 
+  {% if page.paywall %}
+    {%- assign pw_parts = fixed_content | split: "<!--paywall-->" -%}
+    <div class="post-content">
+      {{ pw_parts[0] }}
+      {% if pw_parts.size > 1 %}
+        {% include btc-paywall.html %}
+        <div class="paywall-locked" data-post="{{ page.slug | default: page.url | md5 }}">
+          {{ pw_parts[1] }}
+        </div>
+      {% endif %}
+    </div>
+  {% else %}
+    <div class="post-content">
+      {{ fixed_content }}
+    </div>
+  {% endif %}
+  
   {% if page.tags.size > 0 %}
   <div class="post-taxonomy">
     {% for tag in page.tags %}
