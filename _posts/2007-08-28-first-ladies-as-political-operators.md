@@ -6,17 +6,17 @@ date: 2007-08-28
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "first-ladies", "political-influence", "presidential-spouses"]
 excerpt: "Edith Wilson ran the White House for six months. Eleanor Roosevelt wrote policy. Hillary Clinton led healthcare reform. The operator pattern holds firm."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 73
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2007-08-28
+lang: en
 ---
-
 On the morning of October 2, 1919, Woodrow Wilson collapsed in the family quarters of the White House. The stroke paralyzed his left side, blinded one eye, and reduced his cognitive function so severely that by the standards of any modern medical board he was incapable of executing the office. Vice President Thomas Marshall was not informed for days. The cabinet was not informed in any honest fashion for weeks. Press accounts were managed into vagueness about "nervous exhaustion." For roughly six months the country was governed, in any meaningful operational sense, by the president's second wife, Edith Bolling Galt Wilson, working in concert with the president's physician Cary Grayson and the chief usher Ike Hoover. She decided which papers reached the bedroom, which cabinet members got an audience, which appointments were filled, which vetoes were issued, which crises got attention and which were held back. She later called this arrangement her "stewardship." Constitutional scholars from Edward Corwin forward have called it something else. The point for the present argument is simpler. A presidential wife took operational control of the executive branch for half a year, and the political system absorbed the fact without collapse, because the role of First Lady had already been, for more than a century, a venue for political operation.
 
 That fact is the thesis of this article. The First Lady is one of the most consistently overlooked nodes in the operational map of American executive power. Every presidential administration from Washington forward has included, in some configuration, a woman who exercised political agency on personnel matters, policy advocacy, crisis management, diplomatic representation, or legislative pressure. The visibility of that agency has varied enormously. Its formality has varied enormously. The historical sources documenting it are radically uneven. But the role itself has been continuously occupied, and a serious analysis of how presidencies actually function requires accounting for it.
 
-![First Ladies as political operators across every administration overlooked role - Insight Crunch](/assets/images/blog/blog-01.webp)
+![First Ladies as political operators across every administration overlooked role - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 ## What "Political Operator" Means Here
 

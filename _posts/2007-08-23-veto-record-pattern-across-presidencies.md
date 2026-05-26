@@ -6,15 +6,15 @@ date: 2007-08-23
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "presidential-veto", "executive-power", "legislative-relations"]
 excerpt: "FDR vetoed 635 bills. Jefferson vetoed zero. The gap reveals how presidents actually relate to Congress, and what the historical pattern still predicts."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-08-23
+lang: en
 ---
-
 Franklin Roosevelt struck down 635 acts of Congress between March 1933 and April 1945. Thomas Jefferson struck down none across his eight years in the same office. Between those two anchors sits the most revealing institutional record in American executive history, a record that historians have catalogued but rarely read as a coherent pattern. The veto count is not just a measure of legislative disagreement. It is a fossil of how each president understood the office, the Congress they faced, and the constitutional theory they brought to the desk.
 
-![Presidential veto record pattern across 230 years from Washington to Clinton - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Presidential veto record pattern across 230 years from Washington to Clinton - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 This audit walks every presidency from George Washington through Bill Clinton, counts the regular rejections and the pocket rejections, classifies the philosophy behind the choice to wield or withhold the negative, and asks one question the standard tally tables never ask. Why does the same constitutional power produce nine rejections across the first six presidencies and 635 under one man two centuries later? The answer is not that the office grew stronger in linear fashion, though it did. The answer is that what counts as a legitimate use of the negative was rewritten three times, by Jackson in 1832, by Cleveland in the late 1880s, and by Roosevelt in the 1930s, and each rewriting cemented norms that successors could not roll back. The negative changed character without changing text. The Constitution still says what it said in 1788. The instrument it describes is not the instrument any modern occupant of the office actually holds.
 
