@@ -22,6 +22,11 @@
 
 <script>
 (function(){
+  var ua = navigator.userAgent.toLowerCase();
+  var crawlers = ['googlebot','bingbot','duckduckbot','baiduspider','yandex','applebot','facebookexternalhit','twitterbot','linkedinbot','slackbot','whatsapp','telegrambot','lighthouse','chrome-lighthouse','pagespeed','gtmetrix','pingdom','uptimerobot'];
+  for (var i = 0; i < crawlers.length; i++){
+    if (ua.indexOf(crawlers[i]) !== -1) return;
+  }
   setTimeout(function(){
     var probe = document.getElementById('ic-blocker-check');
     if (!probe) return;
