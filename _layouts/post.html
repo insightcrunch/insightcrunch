@@ -671,32 +671,12 @@ article {
     | replace: 'srcset="/assets/', asset_srcset_prefix
   %}
 
+  <div class="post-content">
+    {{ fixed_content }}
+  </div>
+ 
   {% if page.paywall %}
-    {%- assign pw_parts = fixed_content | split: "<!--paywall-->" -%}
-    {% if pw_parts.size > 1 %}
-      {%- comment -%} Explicit marker: split exactly where author placed it {%- endcomment -%}
-      <div class="post-content">
-        {{ pw_parts[0] }}
-        {% include btc-paywall.html %}
-        <div class="paywall-locked" data-post="{{ page.slug | default: page.url | md5 }}">
-          {{ pw_parts[1] }}
-        </div>
-      </div>
-    {% else %}
-      {%- comment -%} No marker: auto-preview first 150 words, gate the rest {%- endcomment -%}
-      {%- assign preview = fixed_content | strip_html | truncatewords: 150 -%}
-      <div class="post-content">
-        <p>{{ preview }}</p>
-        {% include btc-paywall.html %}
-        <div class="paywall-locked" data-post="{{ page.slug | default: page.url | md5 }}">
-          {{ fixed_content }}
-        </div>
-      </div>
-    {% endif %}
-  {% else %}
-    <div class="post-content">
-      {{ fixed_content }}
-    </div>
+    {% include btc-paywall.html %}
   {% endif %}
   
   {% if page.tags.size > 0 %}
