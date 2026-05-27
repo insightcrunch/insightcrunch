@@ -166,17 +166,17 @@
     if (!pc) return null;
     var pcRect = pc.getBoundingClientRect();
 
-    // Strategy 1: first h2 or h3 that's at least 400px below article top
+    // Strategy 1: first h2 or h3 that's at least 200px below article top
     var headings = pc.querySelectorAll('h2, h3');
     for (var i = 0; i < headings.length; i++){
       var hRect = headings[i].getBoundingClientRect();
-      if (hRect.top - pcRect.top > 400) return headings[i];
+      if (hRect.top - pcRect.top > 200) return headings[i];
     }
 
-    // Strategy 2: 30% paragraph mark
+    // Strategy 2: 15% paragraph mark
     var paragraphs = pc.querySelectorAll(':scope > p');
     if (paragraphs.length > 5){
-      return paragraphs[Math.floor(paragraphs.length * 0.3)];
+      return paragraphs[Math.floor(paragraphs.length * 0.15)];
     }
 
     // Strategy 3: midpoint of all top-level children if article is moderately sized
