@@ -1,0 +1,40 @@
+<div id="ic-blocker-check" class="paywall ad-banner subscribe-gate" style="position:absolute;left:-9999px;width:10px;height:10px;"></div>
+
+<div id="ic-blocker-overlay" style="display:none;position:fixed;inset:0;background:#fdfaf5;z-index:99999;font-family:'Inter',sans-serif;padding:40px 24px;overflow-y:auto;">
+  <div style="max-width:480px;margin:60px auto 0;text-align:center;">
+    <h1 style="font-family:'Lora',serif;font-size:28px;font-weight:500;color:#1e1008;margin:0 0 16px;line-height:1.2;">
+      Please disable your content blocker
+    </h1>
+    <p style="font-size:15px;color:#3e3020;line-height:1.6;margin:0 0 18px;">
+      InsightCrunch is reader-supported. We use a small bitcoin paywall to keep the lights on, with no ads, no tracking, and no email signups.
+    </p>
+    <p style="font-size:15px;color:#3e3020;line-height:1.6;margin:0 0 24px;">
+      Your content blocker is hiding the paywall, which means we can't keep writing without your support. Please pause your blocker for this site and reload the page.
+    </p>
+    <button onclick="location.reload()" style="padding:12px 28px;background:#b06010;color:#fff;border:none;border-radius:6px;font-size:14px;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;">
+      I've disabled it, reload page
+    </button>
+    <p style="font-size:11px;color:#9a8870;margin:28px 0 0;line-height:1.5;">
+      We don't run ads. We don't track you. We don't sell your data. The blocker is hiding our payment widget by mistake. Whitelisting insightcrunch.com keeps independent writing alive.
+    </p>
+  </div>
+</div>
+
+<script>
+(function(){
+  setTimeout(function(){
+    var probe = document.getElementById('ic-blocker-check');
+    if (!probe) return;
+    var hidden = (
+      probe.offsetParent === null ||
+      probe.offsetHeight === 0 ||
+      window.getComputedStyle(probe).display === 'none' ||
+      window.getComputedStyle(probe).visibility === 'hidden'
+    );
+    if (hidden) {
+      document.getElementById('ic-blocker-overlay').style.display = 'block';
+      document.body.style.overflow = 'hidden';
+    }
+  }, 800);
+})();
+</script>
