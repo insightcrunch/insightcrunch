@@ -115,7 +115,7 @@
     api:           {{ pw.mempool_api | jsonify }},
     pid:           {{ post_id | jsonify }},
     delaySeconds:  {{ pw.delay_seconds | default: 15 }},
-    scrollLockPct: {{ pw.scroll_lock_percent | default: 60 }},
+    scrollLockPct: {{ pw.scroll_lock_percent | default: 20 }},
     previewPx:     {{ pw.preview_min_pixels | default: 200 }},
     previewFrac:   {{ pw.preview_paragraph_fraction | default: 0.15 }}
   };
