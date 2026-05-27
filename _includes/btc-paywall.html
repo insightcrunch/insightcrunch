@@ -1,16 +1,15 @@
 {%- comment -%}
-  InsightCrunch BTC paywall component (metered version).
-  Included by _layouts/post.html when page.paywall == true.
+  InsightCrunch BTC paywall component (metered, refresh-resistant).
 
-  Flow:
-  - Full article renders normally on page load (good for SEO crawlers)
-  - 15 seconds after DOMContentLoaded, JS finds an anchor point in the article
-  - Content from anchor onwards gets wrapped in a blur container
-  - Paywall card slides in above the blur with fiat + sat amount
-  - On successful payment, blur unwraps and card fades out
+  Gate fires on whichever happens first:
+    1. Cumulative active reading time across all visits hits delay_seconds
+    2. Reader scrolls past scroll_lock_percent of the article
 
-  Layout requirement: post.html should render full {{ fixed_content }}
-  inside <div class="post-content"> with the paywall include after it.
+  Active reading time only accrues when the tab is visible. Refreshing the
+  page does NOT reset the timer because cumulative time is in localStorage.
+
+  Layout requirement: post.html renders the full article inside
+  <div class="post-content"> with this include right after it.
 {%- endcomment -%}
 
 {%- assign pw = site.data.paywall -%}
@@ -47,7 +46,6 @@
 .btc-pw-foot{padding:10px 22px 16px;font-size:11px;color:var(--soft);border-top:1px dashed var(--rule);line-height:1.6}
 .btc-pw-foot a{color:var(--amber)}
 
-/* Metered paywall blur wrapper. JS injects this around the bottom of the article. */
 .pw-blur-wrap{position:relative;max-height:340px;overflow:hidden;user-select:none;-webkit-user-select:none;pointer-events:none;margin-top:8px}
 .pw-blur-wrap > *{filter:blur(4.5px);-webkit-filter:blur(4.5px)}
 .pw-blur-wrap::after{content:'';position:absolute;top:0;left:0;right:0;bottom:0;background:linear-gradient(to bottom,rgba(253,250,245,.35) 0%,rgba(253,250,245,.75) 55%,rgba(253,250,245,.98) 100%);pointer-events:none}
@@ -110,19 +108,26 @@
 <script>
 (function(){
   var PW = {
-    addr: {{ pw.btc_address | jsonify }},
-    min:  {{ pw.amount_min_sats }},
-    max:  {{ pw.amount_max_sats }},
-    win:  {{ pw.unlock_window_minutes }} * 60 * 1000,
-    api:  {{ pw.mempool_api | jsonify }},
-    pid:  {{ post_id | jsonify }},
-    delaySeconds: 15
+    addr:          {{ pw.btc_address | jsonify }},
+    min:           {{ pw.amount_min_sats }},
+    max:           {{ pw.amount_max_sats }},
+    win:           {{ pw.unlock_window_minutes }} * 60 * 1000,
+    api:           {{ pw.mempool_api | jsonify }},
+    pid:           {{ post_id | jsonify }},
+    delaySeconds:  {{ pw.delay_seconds | default: 15 }},
+    scrollLockPct: {{ pw.scroll_lock_percent | default: 60 }},
+    previewPx:     {{ pw.preview_min_pixels | default: 200 }},
+    previewFrac:   {{ pw.preview_paragraph_fraction | default: 0.15 }}
   };
 
-  var KEY_AMT = 'ic_pw_amt_'   + PW.pid;
-  var KEY_TS  = 'ic_pw_ts_'    + PW.pid;
-  var KEY_OK  = 'ic_pw_unlock_'+ PW.pid;
-  var KEY_BTC = 'ic_btc_price';
+  var KEY_AMT      = 'ic_pw_amt_'      + PW.pid;
+  var KEY_TS       = 'ic_pw_ts_'       + PW.pid;
+  var KEY_OK       = 'ic_pw_unlock_'   + PW.pid;
+  var KEY_READ     = 'ic_pw_readtime_' + PW.pid;
+  var KEY_BTC      = 'ic_btc_price';
+
+  var locked = false;     // becomes true once article gets gated this session
+  var heartbeat = null;   // interval id for the cumulative-time counter
 
   function $(id){ return document.getElementById(id + '-' + PW.pid); }
   function setStatus(msg, cls){ var s = $('pwStatus'); s.textContent = msg; s.className = 'btc-pw-status ' + (cls||''); }
@@ -135,6 +140,15 @@
     localStorage.setItem(KEY_AMT, amt);
     localStorage.setItem(KEY_TS,  Date.now());
     return amt;
+  }
+
+  function getCumulativeReadTime(){
+    return parseInt(localStorage.getItem(KEY_READ) || '0', 10);
+  }
+
+  function addReadSecond(){
+    var current = getCumulativeReadTime();
+    localStorage.setItem(KEY_READ, (current + 1).toString());
   }
 
   async function getBtcPrice(){
@@ -166,17 +180,17 @@
     if (!pc) return null;
     var pcRect = pc.getBoundingClientRect();
 
-    // Strategy 1: first h2 or h3 that's at least 200px below article top
+    // Strategy 1: first h2 or h3 that's at least previewPx below article top
     var headings = pc.querySelectorAll('h2, h3');
     for (var i = 0; i < headings.length; i++){
       var hRect = headings[i].getBoundingClientRect();
-      if (hRect.top - pcRect.top > 200) return headings[i];
+      if (hRect.top - pcRect.top > PW.previewPx) return headings[i];
     }
 
-    // Strategy 2: 15% paragraph mark
+    // Strategy 2: previewFrac paragraph mark
     var paragraphs = pc.querySelectorAll(':scope > p');
     if (paragraphs.length > 5){
-      return paragraphs[Math.floor(paragraphs.length * 0.15)];
+      return paragraphs[Math.floor(paragraphs.length * PW.previewFrac)];
     }
 
     // Strategy 3: midpoint of all top-level children if article is moderately sized
@@ -185,6 +199,17 @@
     }
 
     return null;
+  }
+
+  function getScrollDepthPct(){
+    var pc = document.querySelector('.post-content');
+    if (!pc) return 0;
+    var rect = pc.getBoundingClientRect();
+    var viewportBottom = window.innerHeight;
+    var seenPixels = Math.max(0, viewportBottom - rect.top);
+    var totalPixels = rect.height;
+    if (totalPixels <= 0) return 0;
+    return Math.min(100, (seenPixels / totalPixels) * 100);
   }
 
   function revealCard(card){
@@ -204,8 +229,11 @@
   }
 
   function lockArticle(){
-    // Race guard: if unlocked during the 15s timer, don't gate
-    if (localStorage.getItem(KEY_OK)) return;
+    if (locked) return;
+    if (localStorage.getItem(KEY_OK)) return; // paid race guard
+    locked = true;
+
+    if (heartbeat){ clearInterval(heartbeat); heartbeat = null; }
 
     var pc = document.querySelector('.post-content');
     if (!pc) return;
@@ -215,7 +243,7 @@
 
     var anchor = findAnchorPoint();
     if (!anchor){
-      // Article too short to gate cleanly. Just show the card at the end as a tip jar.
+      // Article too short to gate cleanly. Show card at the end as a tip jar.
       pc.parentNode.insertBefore(card, pc.nextSibling);
       revealCard(card);
       return;
@@ -229,16 +257,13 @@
       n = n.nextSibling;
     }
 
-    // Build blur wrap and insert at anchor's position
     var blurWrap = document.createElement('div');
     blurWrap.className = 'pw-blur-wrap';
     blurWrap.setAttribute('data-post', PW.pid);
     anchor.parentNode.insertBefore(blurWrap, anchor);
 
-    // Insert paywall card just before the blur wrap
     blurWrap.parentNode.insertBefore(card, blurWrap);
 
-    // Move all collected nodes into the blur wrap
     nodes.forEach(function(node){ blurWrap.appendChild(node); });
 
     revealCard(card);
@@ -247,7 +272,6 @@
   function unlockArticle(){
     var blurWrap = document.querySelector('.pw-blur-wrap[data-post="' + PW.pid + '"]');
     if (blurWrap){
-      // Move children back out, restoring original flow
       while (blurWrap.firstChild){
         blurWrap.parentNode.insertBefore(blurWrap.firstChild, blurWrap);
       }
@@ -258,20 +282,53 @@
       card.classList.remove('pw-card-active');
       setTimeout(function(){ card.style.display = 'none'; }, 500);
     }
+    // Reset cumulative time so they can re-read fresh if unlock ever clears
+    localStorage.removeItem(KEY_READ);
   }
 
-  // If already unlocked on this device, never start the timer
-  if (localStorage.getItem(KEY_OK)) return;
+  function startMeteredGate(){
+    // Already paid: never gate
+    if (localStorage.getItem(KEY_OK)) return;
 
-  // Start the 15-second timer once DOM is ready
-  function startGateTimer(){
-    setTimeout(lockArticle, PW.delaySeconds * 1000);
+    // Already over budget from previous visits: gate immediately
+    if (getCumulativeReadTime() >= PW.delaySeconds){
+      lockArticle();
+      return;
+    }
+
+    // Otherwise, start the heartbeat
+    heartbeat = setInterval(function(){
+      // Only count time while tab is visible
+      if (document.visibilityState !== 'visible') return;
+
+      addReadSecond();
+
+      // Two gating conditions: time budget or scroll depth
+      if (getCumulativeReadTime() >= PW.delaySeconds || getScrollDepthPct() >= PW.scrollLockPct){
+        lockArticle();
+      }
+    }, 1000);
+
+    // Also check scroll on actual scroll events, not just heartbeat,
+    // so scrolling fast doesn't outpace the 1-second cadence
+    var scrollHandler = function(){
+      if (locked) return;
+      if (getScrollDepthPct() >= PW.scrollLockPct){
+        lockArticle();
+        window.removeEventListener('scroll', scrollHandler);
+      }
+    };
+    window.addEventListener('scroll', scrollHandler, { passive: true });
   }
-  if (document.readyState === 'loading'){
-    document.addEventListener('DOMContentLoaded', startGateTimer);
-  } else {
-    startGateTimer();
+
+  function boot(){
+    if (document.readyState === 'loading'){
+      document.addEventListener('DOMContentLoaded', startMeteredGate);
+    } else {
+      startMeteredGate();
+    }
   }
+  boot();
 
   window.pwCopy = function(id, what){
     var el = document.getElementById('pwAddr-' + id);
@@ -312,7 +369,6 @@
         btn.disabled = false; return;
       }
 
-      // Optional freshness check: tx must be newer than when amount was generated.
       var generatedAt = parseInt(localStorage.getItem(KEY_TS), 10);
       var txTime = tx.status && tx.status.block_time ? tx.status.block_time * 1000 : Date.now();
       if (tx.status && tx.status.confirmed && txTime < (generatedAt - 5*60*1000)) {
