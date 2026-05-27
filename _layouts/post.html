@@ -676,6 +676,7 @@ article {
   </div>
  
   {% if page.paywall %}
+    {% include blocker-detect.html %}
     {% include btc-paywall.html %}
   {% endif %}
   
