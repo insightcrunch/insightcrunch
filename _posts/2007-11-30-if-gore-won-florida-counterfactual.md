@@ -9,7 +9,7 @@ excerpt: "Gore won the popular vote by 540,000 in 2000 but lost Florida by just 
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 56
 author: "amanda-ross"
-last_updated: 2007-11-30
+last_updated: 2026-05-29
 lang: en
 ---
 Five hundred and thirty-seven ballots, out of nearly six million cast in Florida, separated Al Gore from the presidency on the night of November 7, 2000. The popular-vote tally nationwide gave Gore roughly 540,000 more votes than George W. Bush. The Electoral College, after thirty-six days of recounts, lawsuits, and the December 12 Supreme Court ruling in Bush v. Gore, gave Bush 271 electors to Gore's 266. The historical question this article runs is not whether the Florida outcome was correctly adjudicated. That dispute has been ground over for a generation by lawyers, journalists, and partisans, and the legal record is closed. The question here is narrower and more useful: if those 537 ballots had broken the other way, and Al Gore had been inaugurated on January 20, 2001, what does the decade look like?

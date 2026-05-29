@@ -9,7 +9,7 @@ excerpt: "MacArthur wanted to bomb Manchuria with nuclear weapons in November 19
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 67
 author: "rachel-foster"
-last_updated: 2007-12-11
+last_updated: 2026-05-29
 lang: en
 ---
 At ten minutes past one on the morning of November 28, 1950, the Far East Command headquarters in Tokyo cabled the Joint Chiefs of Staff with intelligence that revised the assumptions of the previous month. Chinese forces, estimated by the Eighth Army at approximately two hundred thousand troops under General Peng Dehuai's Thirteenth Army Group, had counterattacked across an eighty-mile front extending south from the Yalu River. The Eighth Army's right flank had collapsed at the Chongchon River. X Corps, operating independently east of the Taebaek mountain spine, was being encircled by the Chinese Ninth Army Group at the Chosin Reservoir. Douglas MacArthur, who had told reporters in Tokyo six days earlier that American troops would be home by Christmas, now informed Washington that an entirely new war had begun.

@@ -9,7 +9,7 @@ excerpt: "FDR's health was poor in 1940. If he had died before November, Willkie
 image: "/assets/images/blog/blog-38.webp"
 reading_time: 72
 author: "rachel-foster"
-last_updated: 2007-12-27
+last_updated: 2026-05-29
 lang: en
 ---
 The historical record on Franklin Roosevelt's cardiovascular health in 1940 is now substantially clearer than it was during his lifetime. His personal physician Ross McIntire downplayed and concealed; the cardiologist Howard Bruenn, brought into the case in March 1944, found a man with severe hypertension, an enlarged heart, and congestive failure that had been developing for years. Bruenn's clinical notes, declassified and published in the 1970s, are the document that lets us run the counterfactual with rigor: by the spring of 1940, Roosevelt was already a sick man, and a serious cardiovascular event before November of that year was not a remote contingency. It was a plausible one.

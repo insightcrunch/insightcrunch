@@ -9,7 +9,7 @@ excerpt: "From John Quincy Adams in 1824 to George W. Bush in 2000, five US pres
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 63
 author: "amanda-ross"
-last_updated: 2007-08-06
+last_updated: 2026-05-29
 lang: en
 ---
 Five men have taken the presidential oath of office after losing the national popular vote. John Quincy Adams in 1825 after the contested four-way 1824 race that ended in the House of Representatives. Rutherford B. Hayes in 1877 after the disputed returns from Florida, Louisiana, and South Carolina were resolved by a special Electoral Commission. Benjamin Harrison in 1889 after losing the national vote to Grover Cleveland by 90,596 ballots but capturing the Electoral College 233 to 168. George W. Bush in 2001 after losing to Al Gore by roughly 540,000 votes nationally and winning Florida by 537 votes following five weeks of recount litigation that ended at the Supreme Court. Each of these four men, plus a fifth case at the outer boundary of this series that arrived in 2017, governed under a specific structural shadow: the legitimacy question that follows when the office is held without the largest plurality of citizens behind the officeholder.

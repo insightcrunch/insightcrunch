@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-25T10:18:31Z",
+  "generated": "2026-05-29T10:01:54Z",
   "threshold": 50,
-  "totalPosts": 1921,
-  "flaggedPosts": 1581,
+  "totalPosts": 1939,
+  "flaggedPosts": 1599,
   "suppressedPosts": 13,
   "stalePosts": 0,
   "worstWord": "available",
   "worstCount": 1667,
   "worstPost": "Growing Up With Harry Potter: How the Series Ages With Its Reader",
-  "avgTopCount": 197.1,
+  "avgTopCount": 197.2,
   "posts": [
     {
       "filename": "1996-08-07-sat-nursing-health-programs.md",
@@ -30900,6 +30900,1162 @@
       ]
     },
     {
+      "filename": "2007-07-21-coolidge-libertarian-comeback.md",
+      "slug": "coolidge-libertarian-comeback",
+      "title": "Coolidge's Quiet Comeback: The Libertarian Rediscovery",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7689,
+      "topWord": "coolidge",
+      "topCount": 231,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-07-21-coolidge-libertarian-comeback.md",
+      "flaggedWords": [
+        {
+          "word": "coolidge",
+          "count": 231
+        },
+        {
+          "word": "executive",
+          "count": 89
+        },
+        {
+          "word": "federal",
+          "count": 70
+        },
+        {
+          "word": "chief",
+          "count": 64
+        },
+        {
+          "word": "rehabilitation",
+          "count": 64
+        },
+        {
+          "word": "policy",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "coolidge",
+          "count": 231
+        },
+        {
+          "word": "executive",
+          "count": 89
+        },
+        {
+          "word": "federal",
+          "count": 70
+        },
+        {
+          "word": "chief",
+          "count": 64
+        },
+        {
+          "word": "rehabilitation",
+          "count": 64
+        },
+        {
+          "word": "policy",
+          "count": 53
+        },
+        {
+          "word": "twenty",
+          "count": 39
+        },
+        {
+          "word": "fiscal",
+          "count": 39
+        },
+        {
+          "word": "public",
+          "count": 35
+        },
+        {
+          "word": "reading",
+          "count": 35
+        },
+        {
+          "word": "political",
+          "count": 34
+        },
+        {
+          "word": "tradition",
+          "count": 33
+        },
+        {
+          "word": "record",
+          "count": 33
+        },
+        {
+          "word": "substantive",
+          "count": 32
+        },
+        {
+          "word": "question",
+          "count": 30
+        },
+        {
+          "word": "mellon",
+          "count": 30
+        },
+        {
+          "word": "monetary",
+          "count": 30
+        },
+        {
+          "word": "act",
+          "count": 30
+        },
+        {
+          "word": "american",
+          "count": 28
+        },
+        {
+          "word": "book",
+          "count": 27
+        }
+      ]
+    },
+    {
+      "filename": "2007-07-26-eisenhower-reappraisal-golfer-to-genius.md",
+      "slug": "eisenhower-reappraisal-golfer-to-genius",
+      "title": "Eisenhower Reappraised: From Golfer to Strategic Genius",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7541,
+      "topWord": "eisenhower",
+      "topCount": 313,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-07-26-eisenhower-reappraisal-golfer-to-genius.md",
+      "flaggedWords": [
+        {
+          "word": "eisenhower",
+          "count": 313
+        },
+        {
+          "word": "reappraisal",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "eisenhower",
+          "count": 313
+        },
+        {
+          "word": "reappraisal",
+          "count": 53
+        },
+        {
+          "word": "mccarthy",
+          "count": 46
+        },
+        {
+          "word": "presidency",
+          "count": 43
+        },
+        {
+          "word": "policy",
+          "count": 43
+        },
+        {
+          "word": "rights",
+          "count": 42
+        },
+        {
+          "word": "civil",
+          "count": 41
+        },
+        {
+          "word": "american",
+          "count": 40
+        },
+        {
+          "word": "strategic",
+          "count": 39
+        },
+        {
+          "word": "reading",
+          "count": 37
+        },
+        {
+          "word": "record",
+          "count": 36
+        },
+        {
+          "word": "decision",
+          "count": 35
+        },
+        {
+          "word": "dulles",
+          "count": 32
+        },
+        {
+          "word": "military",
+          "count": 32
+        },
+        {
+          "word": "hidden",
+          "count": 32
+        },
+        {
+          "word": "war",
+          "count": 32
+        },
+        {
+          "word": "president",
+          "count": 31
+        },
+        {
+          "word": "strategy",
+          "count": 31
+        },
+        {
+          "word": "nuclear",
+          "count": 31
+        },
+        {
+          "word": "greenstein",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-01-war-hero-to-president-pipeline-pattern.md",
+      "slug": "war-hero-to-president-pipeline-pattern",
+      "title": "The War-Hero Pipeline: Why It Works Less Than Remembered",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8039,
+      "topWord": "pathway",
+      "topCount": 121,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-01-war-hero-to-president-pipeline-pattern.md",
+      "flaggedWords": [
+        {
+          "word": "pathway",
+          "count": 121
+        },
+        {
+          "word": "military",
+          "count": 88
+        },
+        {
+          "word": "war",
+          "count": 79
+        },
+        {
+          "word": "office",
+          "count": 65
+        },
+        {
+          "word": "produced",
+          "count": 63
+        },
+        {
+          "word": "grant",
+          "count": 59
+        },
+        {
+          "word": "american",
+          "count": 57
+        },
+        {
+          "word": "eisenhower",
+          "count": 57
+        },
+        {
+          "word": "electoral",
+          "count": 56
+        },
+        {
+          "word": "harrison",
+          "count": 55
+        },
+        {
+          "word": "washington",
+          "count": 53
+        },
+        {
+          "word": "executive",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "pathway",
+          "count": 121
+        },
+        {
+          "word": "military",
+          "count": 88
+        },
+        {
+          "word": "war",
+          "count": 79
+        },
+        {
+          "word": "office",
+          "count": 65
+        },
+        {
+          "word": "produced",
+          "count": 63
+        },
+        {
+          "word": "grant",
+          "count": 59
+        },
+        {
+          "word": "american",
+          "count": 57
+        },
+        {
+          "word": "eisenhower",
+          "count": 57
+        },
+        {
+          "word": "electoral",
+          "count": 56
+        },
+        {
+          "word": "harrison",
+          "count": 55
+        },
+        {
+          "word": "washington",
+          "count": 53
+        },
+        {
+          "word": "executive",
+          "count": 51
+        },
+        {
+          "word": "political",
+          "count": 45
+        },
+        {
+          "word": "service",
+          "count": 44
+        },
+        {
+          "word": "pierce",
+          "count": 43
+        },
+        {
+          "word": "jackson",
+          "count": 41
+        },
+        {
+          "word": "general",
+          "count": 37
+        },
+        {
+          "word": "civil",
+          "count": 37
+        },
+        {
+          "word": "civilian",
+          "count": 36
+        },
+        {
+          "word": "candidates",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-06-presidents-who-lost-popular-vote-audit.md",
+      "slug": "presidents-who-lost-popular-vote-audit",
+      "title": "Presidents Who Lost the Popular Vote: Five Cases",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8554,
+      "topWord": "popular",
+      "topCount": 229,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-06-presidents-who-lost-popular-vote-audit.md",
+      "flaggedWords": [
+        {
+          "word": "popular",
+          "count": 229
+        },
+        {
+          "word": "vote",
+          "count": 218
+        },
+        {
+          "word": "electoral",
+          "count": 142
+        },
+        {
+          "word": "pattern",
+          "count": 86
+        },
+        {
+          "word": "college",
+          "count": 83
+        },
+        {
+          "word": "loser",
+          "count": 80
+        },
+        {
+          "word": "political",
+          "count": 73
+        },
+        {
+          "word": "bush",
+          "count": 69
+        },
+        {
+          "word": "legitimacy",
+          "count": 67
+        },
+        {
+          "word": "five",
+          "count": 62
+        },
+        {
+          "word": "cases",
+          "count": 60
+        },
+        {
+          "word": "term",
+          "count": 59
+        },
+        {
+          "word": "hayes",
+          "count": 57
+        },
+        {
+          "word": "election",
+          "count": 54
+        },
+        {
+          "word": "adams",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "popular",
+          "count": 229
+        },
+        {
+          "word": "vote",
+          "count": 218
+        },
+        {
+          "word": "electoral",
+          "count": 142
+        },
+        {
+          "word": "pattern",
+          "count": 86
+        },
+        {
+          "word": "college",
+          "count": 83
+        },
+        {
+          "word": "loser",
+          "count": 80
+        },
+        {
+          "word": "political",
+          "count": 73
+        },
+        {
+          "word": "bush",
+          "count": 69
+        },
+        {
+          "word": "legitimacy",
+          "count": 67
+        },
+        {
+          "word": "five",
+          "count": 62
+        },
+        {
+          "word": "cases",
+          "count": 60
+        },
+        {
+          "word": "term",
+          "count": 59
+        },
+        {
+          "word": "hayes",
+          "count": 57
+        },
+        {
+          "word": "election",
+          "count": 54
+        },
+        {
+          "word": "adams",
+          "count": 53
+        },
+        {
+          "word": "states",
+          "count": 50
+        },
+        {
+          "word": "votes",
+          "count": 49
+        },
+        {
+          "word": "constitutional",
+          "count": 49
+        },
+        {
+          "word": "president",
+          "count": 49
+        },
+        {
+          "word": "national",
+          "count": 44
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-12-inaugural-address-word-count-two-centuries.md",
+      "slug": "inaugural-address-word-count-two-centuries",
+      "title": "Inaugural Addresses: 200 Years of Rhetorical Inflation",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7764,
+      "topWord": "inaugural",
+      "topCount": 191,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-12-inaugural-address-word-count-two-centuries.md",
+      "flaggedWords": [
+        {
+          "word": "inaugural",
+          "count": 191
+        },
+        {
+          "word": "words",
+          "count": 146
+        },
+        {
+          "word": "second",
+          "count": 100
+        },
+        {
+          "word": "lincoln",
+          "count": 93
+        },
+        {
+          "word": "text",
+          "count": 91
+        },
+        {
+          "word": "length",
+          "count": 86
+        },
+        {
+          "word": "rhetorical",
+          "count": 80
+        },
+        {
+          "word": "inaugurals",
+          "count": 75
+        },
+        {
+          "word": "speech",
+          "count": 61
+        },
+        {
+          "word": "kennedy",
+          "count": 60
+        },
+        {
+          "word": "modern",
+          "count": 60
+        },
+        {
+          "word": "compression",
+          "count": 58
+        },
+        {
+          "word": "pattern",
+          "count": 57
+        },
+        {
+          "word": "audience",
+          "count": 57
+        },
+        {
+          "word": "broadcast",
+          "count": 54
+        }
+      ],
+      "top20": [
+        {
+          "word": "inaugural",
+          "count": 191
+        },
+        {
+          "word": "words",
+          "count": 146
+        },
+        {
+          "word": "second",
+          "count": 100
+        },
+        {
+          "word": "lincoln",
+          "count": 93
+        },
+        {
+          "word": "text",
+          "count": 91
+        },
+        {
+          "word": "length",
+          "count": 86
+        },
+        {
+          "word": "rhetorical",
+          "count": 80
+        },
+        {
+          "word": "inaugurals",
+          "count": 75
+        },
+        {
+          "word": "speech",
+          "count": 61
+        },
+        {
+          "word": "kennedy",
+          "count": 60
+        },
+        {
+          "word": "modern",
+          "count": 60
+        },
+        {
+          "word": "compression",
+          "count": 58
+        },
+        {
+          "word": "pattern",
+          "count": 57
+        },
+        {
+          "word": "audience",
+          "count": 57
+        },
+        {
+          "word": "broadcast",
+          "count": 54
+        },
+        {
+          "word": "fdr",
+          "count": 50
+        },
+        {
+          "word": "washington",
+          "count": 49
+        },
+        {
+          "word": "address",
+          "count": 48
+        },
+        {
+          "word": "television",
+          "count": 41
+        },
+        {
+          "word": "delivered",
+          "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-17-executive-orders-count-per-president.md",
+      "slug": "executive-orders-count-per-president",
+      "title": "Executive Orders: The Count Per President and Meaning",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8030,
+      "topWord": "directive",
+      "topCount": 190,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-17-executive-orders-count-per-president.md",
+      "flaggedWords": [
+        {
+          "word": "directive",
+          "count": 190
+        },
+        {
+          "word": "directives",
+          "count": 175
+        },
+        {
+          "word": "executive",
+          "count": 127
+        },
+        {
+          "word": "authority",
+          "count": 93
+        },
+        {
+          "word": "federal",
+          "count": 83
+        },
+        {
+          "word": "roosevelt",
+          "count": 81
+        },
+        {
+          "word": "war",
+          "count": 64
+        },
+        {
+          "word": "president",
+          "count": 63
+        },
+        {
+          "word": "act",
+          "count": 62
+        },
+        {
+          "word": "instrument",
+          "count": 61
+        },
+        {
+          "word": "presidential",
+          "count": 57
+        },
+        {
+          "word": "substantive",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "directive",
+          "count": 190
+        },
+        {
+          "word": "directives",
+          "count": 175
+        },
+        {
+          "word": "executive",
+          "count": 127
+        },
+        {
+          "word": "authority",
+          "count": 93
+        },
+        {
+          "word": "federal",
+          "count": 83
+        },
+        {
+          "word": "roosevelt",
+          "count": 81
+        },
+        {
+          "word": "war",
+          "count": 64
+        },
+        {
+          "word": "president",
+          "count": 63
+        },
+        {
+          "word": "act",
+          "count": 62
+        },
+        {
+          "word": "instrument",
+          "count": 61
+        },
+        {
+          "word": "presidential",
+          "count": 57
+        },
+        {
+          "word": "substantive",
+          "count": 51
+        },
+        {
+          "word": "pace",
+          "count": 46
+        },
+        {
+          "word": "modern",
+          "count": 45
+        },
+        {
+          "word": "era",
+          "count": 44
+        },
+        {
+          "word": "national",
+          "count": 43
+        },
+        {
+          "word": "administration",
+          "count": 42
+        },
+        {
+          "word": "presidents",
+          "count": 41
+        },
+        {
+          "word": "count",
+          "count": 41
+        },
+        {
+          "word": "lincoln",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-23-veto-record-pattern-across-presidencies.md",
+      "slug": "veto-record-pattern-across-presidencies",
+      "title": "The Veto Record: Who Used It and What It Predicts",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 8287,
+      "topWord": "rejection",
+      "topCount": 169,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-23-veto-record-pattern-across-presidencies.md",
+      "flaggedWords": [
+        {
+          "word": "rejection",
+          "count": 169
+        },
+        {
+          "word": "rejections",
+          "count": 135
+        },
+        {
+          "word": "president",
+          "count": 110
+        },
+        {
+          "word": "policy",
+          "count": 102
+        },
+        {
+          "word": "pocket",
+          "count": 92
+        },
+        {
+          "word": "constitutional",
+          "count": 86
+        },
+        {
+          "word": "override",
+          "count": 82
+        },
+        {
+          "word": "congress",
+          "count": 73
+        },
+        {
+          "word": "bill",
+          "count": 67
+        },
+        {
+          "word": "veto",
+          "count": 66
+        },
+        {
+          "word": "political",
+          "count": 65
+        },
+        {
+          "word": "regular",
+          "count": 64
+        },
+        {
+          "word": "cleveland",
+          "count": 64
+        },
+        {
+          "word": "instrument",
+          "count": 60
+        },
+        {
+          "word": "bills",
+          "count": 60
+        },
+        {
+          "word": "roosevelt",
+          "count": 57
+        },
+        {
+          "word": "count",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "rejection",
+          "count": 169
+        },
+        {
+          "word": "rejections",
+          "count": 135
+        },
+        {
+          "word": "president",
+          "count": 110
+        },
+        {
+          "word": "policy",
+          "count": 102
+        },
+        {
+          "word": "pocket",
+          "count": 92
+        },
+        {
+          "word": "constitutional",
+          "count": 86
+        },
+        {
+          "word": "override",
+          "count": 82
+        },
+        {
+          "word": "congress",
+          "count": 73
+        },
+        {
+          "word": "bill",
+          "count": 67
+        },
+        {
+          "word": "veto",
+          "count": 66
+        },
+        {
+          "word": "political",
+          "count": 65
+        },
+        {
+          "word": "regular",
+          "count": 64
+        },
+        {
+          "word": "cleveland",
+          "count": 64
+        },
+        {
+          "word": "instrument",
+          "count": 60
+        },
+        {
+          "word": "bills",
+          "count": 60
+        },
+        {
+          "word": "roosevelt",
+          "count": 57
+        },
+        {
+          "word": "count",
+          "count": 52
+        },
+        {
+          "word": "legislative",
+          "count": 50
+        },
+        {
+          "word": "theory",
+          "count": 47
+        },
+        {
+          "word": "legislation",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "filename": "2007-08-28-first-ladies-as-political-operators.md",
+      "slug": "first-ladies-as-political-operators",
+      "title": "First Ladies as Political Operators: The Hidden Role",
+      "categories": [
+        "Leisure"
+      ],
+      "lang": "en",
+      "wordCount": 7802,
+      "topWord": "political",
+      "topCount": 135,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2007-08-28-first-ladies-as-political-operators.md",
+      "flaggedWords": [
+        {
+          "word": "political",
+          "count": 135
+        },
+        {
+          "word": "role",
+          "count": 133
+        },
+        {
+          "word": "lady",
+          "count": 107
+        },
+        {
+          "word": "public",
+          "count": 96
+        },
+        {
+          "word": "administration",
+          "count": 78
+        },
+        {
+          "word": "policy",
+          "count": 77
+        }
+      ],
+      "top20": [
+        {
+          "word": "political",
+          "count": 135
+        },
+        {
+          "word": "role",
+          "count": 133
+        },
+        {
+          "word": "lady",
+          "count": 107
+        },
+        {
+          "word": "public",
+          "count": 96
+        },
+        {
+          "word": "administration",
+          "count": 78
+        },
+        {
+          "word": "policy",
+          "count": 77
+        },
+        {
+          "word": "eleanor",
+          "count": 47
+        },
+        {
+          "word": "husband",
+          "count": 45
+        },
+        {
+          "word": "roosevelt",
+          "count": 44
+        },
+        {
+          "word": "president",
+          "count": 43
+        },
+        {
+          "word": "operational",
+          "count": 43
+        },
+        {
+          "word": "wilson",
+          "count": 39
+        },
+        {
+          "word": "substantive",
+          "count": 38
+        },
+        {
+          "word": "including",
+          "count": 38
+        },
+        {
+          "word": "rights",
+          "count": 38
+        },
+        {
+          "word": "executive",
+          "count": 36
+        },
+        {
+          "word": "ladies",
+          "count": 35
+        },
+        {
+          "word": "documented",
+          "count": 34
+        },
+        {
+          "word": "operation",
+          "count": 33
+        },
+        {
+          "word": "operator",
+          "count": 32
+        }
+      ]
+    },
+    {
       "filename": "2007-09-03-foreign-policy-doctrines-outlive-presidents.md",
       "slug": "foreign-policy-doctrines-outlive-presidents",
       "title": "Foreign Policy Doctrines Outlive Every President",
@@ -39082,7 +40238,7 @@
       "slug": "buchanan-secession-winter-inaction",
       "title": "Buchanan's Secession Winter: The Four Months of Nothing",
       "categories": [
-        "US Presidents"
+        "Leisure"
       ],
       "lang": "en",
       "wordCount": 7910,
@@ -72115,9 +73271,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 5739,
-      "topWord": "dean",
-      "topCount": 235,
+      "wordCount": 6556,
+      "topWord": "muggle",
+      "topCount": 98,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -72126,110 +73282,126 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-01-02-dean-thomas-complete-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "dean",
-          "count": 235
+          "word": "muggle",
+          "count": 98
         },
         {
           "word": "series",
-          "count": 115
+          "count": 87
         },
         {
-          "word": "harry",
-          "count": 113
+          "word": "half",
+          "count": 82
         },
         {
-          "word": "thomas",
-          "count": 78
+          "word": "blood",
+          "count": 81
         },
         {
-          "word": "narrative",
-          "count": 60
+          "word": "gryffindor",
+          "count": 80
         },
         {
-          "word": "muggle",
-          "count": 53
+          "word": "character",
+          "count": 69
+        },
+        {
+          "word": "books",
+          "count": 64
+        },
+        {
+          "word": "raised",
+          "count": 58
+        },
+        {
+          "word": "whose",
+          "count": 57
+        },
+        {
+          "word": "protagonist",
+          "count": 56
         }
       ],
       "top20": [
         {
-          "word": "dean",
-          "count": 235
+          "word": "muggle",
+          "count": 98
         },
         {
           "word": "series",
-          "count": 115
+          "count": 87
         },
         {
-          "word": "harry",
-          "count": 113
+          "word": "half",
+          "count": 82
         },
         {
-          "word": "thomas",
-          "count": 78
+          "word": "blood",
+          "count": 81
+        },
+        {
+          "word": "gryffindor",
+          "count": 80
+        },
+        {
+          "word": "character",
+          "count": 69
+        },
+        {
+          "word": "books",
+          "count": 64
+        },
+        {
+          "word": "raised",
+          "count": 58
+        },
+        {
+          "word": "whose",
+          "count": 57
+        },
+        {
+          "word": "protagonist",
+          "count": 56
+        },
+        {
+          "word": "book",
+          "count": 46
         },
         {
           "word": "narrative",
-          "count": 60
+          "count": 45
         },
         {
-          "word": "muggle",
-          "count": 53
+          "word": "dorm",
+          "count": 43
+        },
+        {
+          "word": "reader",
+          "count": 41
         },
         {
           "word": "father",
           "count": 39
         },
         {
-          "word": "hogwarts",
-          "count": 39
-        },
-        {
-          "word": "story",
-          "count": 38
-        },
-        {
-          "word": "character",
-          "count": 37
-        },
-        {
-          "word": "protagonist",
-          "count": 37
-        },
-        {
-          "word": "specific",
-          "count": 36
-        },
-        {
-          "word": "seamus",
+          "word": "scene",
           "count": 35
         },
         {
-          "word": "potter",
-          "count": 34
+          "word": "boy",
+          "count": 31
         },
         {
-          "word": "experience",
-          "count": 33
+          "word": "thomas",
+          "count": 31
         },
         {
-          "word": "fugitive",
-          "count": 33
+          "word": "seven",
+          "count": 31
         },
         {
-          "word": "person",
-          "count": 33
-        },
-        {
-          "word": "text",
-          "count": 30
-        },
-        {
-          "word": "relationship",
-          "count": 30
-        },
-        {
-          "word": "whose",
-          "count": 28
+          "word": "friendship",
+          "count": 31
         }
       ]
     },
@@ -72241,9 +73413,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 6094,
-      "topWord": "regulus",
-      "topCount": 223,
+      "wordCount": 6656,
+      "topWord": "boy",
+      "topCount": 112,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -72252,114 +73424,126 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-01-07-regulus-black-complete-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "regulus",
-          "count": 223
+          "word": "boy",
+          "count": 112
         },
         {
-          "word": "kreacher",
-          "count": 134
+          "word": "black",
+          "count": 102
         },
         {
-          "word": "voldemort",
-          "count": 77
+          "word": "death",
+          "count": 85
         },
         {
-          "word": "series",
-          "count": 65
-        },
-        {
-          "word": "moral",
-          "count": 65
-        },
-        {
-          "word": "locket",
-          "count": 54
+          "word": "family",
+          "count": 85
         },
         {
           "word": "cave",
-          "count": 52
+          "count": 81
+        },
+        {
+          "word": "reader",
+          "count": 73
+        },
+        {
+          "word": "elf",
+          "count": 72
+        },
+        {
+          "word": "character",
+          "count": 59
+        },
+        {
+          "word": "locket",
+          "count": 58
+        },
+        {
+          "word": "sirius",
+          "count": 55
         }
       ],
       "top20": [
         {
-          "word": "regulus",
-          "count": 223
-        },
-        {
-          "word": "kreacher",
-          "count": 134
-        },
-        {
-          "word": "voldemort",
-          "count": 77
-        },
-        {
-          "word": "series",
-          "count": 65
-        },
-        {
-          "word": "moral",
-          "count": 65
-        },
-        {
-          "word": "locket",
-          "count": 54
-        },
-        {
-          "word": "cave",
-          "count": 52
-        },
-        {
-          "word": "harry",
-          "count": 50
-        },
-        {
-          "word": "death",
-          "count": 48
-        },
-        {
-          "word": "act",
-          "count": 48
+          "word": "boy",
+          "count": 112
         },
         {
           "word": "black",
-          "count": 47
+          "count": 102
         },
         {
-          "word": "sirius",
-          "count": 47
-        },
-        {
-          "word": "person",
-          "count": 40
+          "word": "death",
+          "count": 85
         },
         {
           "word": "family",
-          "count": 40
+          "count": 85
         },
         {
-          "word": "specific",
-          "count": 37
+          "word": "cave",
+          "count": 81
         },
         {
-          "word": "note",
-          "count": 33
-        },
-        {
-          "word": "someone",
-          "count": 33
+          "word": "reader",
+          "count": 73
         },
         {
           "word": "elf",
-          "count": 32
+          "count": 72
         },
         {
-          "word": "ideology",
-          "count": 32
+          "word": "character",
+          "count": 59
         },
         {
-          "word": "suffering",
-          "count": 31
+          "word": "locket",
+          "count": 58
+        },
+        {
+          "word": "sirius",
+          "count": 55
+        },
+        {
+          "word": "series",
+          "count": 50
+        },
+        {
+          "word": "kreacher",
+          "count": 50
+        },
+        {
+          "word": "younger",
+          "count": 45
+        },
+        {
+          "word": "voldemort",
+          "count": 38
+        },
+        {
+          "word": "brother",
+          "count": 36
+        },
+        {
+          "word": "rowling",
+          "count": 35
+        },
+        {
+          "word": "moral",
+          "count": 35
+        },
+        {
+          "word": "conversion",
+          "count": 34
+        },
+        {
+          "word": "books",
+          "count": 33
+        },
+        {
+          "word": "act",
+          "count": 32
         }
       ]
     },
@@ -72505,9 +73689,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 5887,
-      "topWord": "lily",
-      "topCount": 231,
+      "wordCount": 6332,
+      "topWord": "witch",
+      "topCount": 180,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -72516,118 +73700,114 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-01-13-lily-potter-complete-character-analysis.md",
       "flaggedWords": [
         {
-          "word": "lily",
-          "count": 231
+          "word": "witch",
+          "count": 180
         },
         {
-          "word": "series",
-          "count": 124
+          "word": "dead",
+          "count": 126
         },
         {
-          "word": "harry",
-          "count": 117
+          "word": "mother",
+          "count": 96
         },
         {
-          "word": "love",
-          "count": 100
+          "word": "reader",
+          "count": 87
         },
         {
-          "word": "snape",
-          "count": 80
+          "word": "boy",
+          "count": 75
         },
         {
-          "word": "voldemort",
-          "count": 58
+          "word": "books",
+          "count": 52
         },
         {
-          "word": "potter",
-          "count": 57
-        },
-        {
-          "word": "death",
+          "word": "son",
           "count": 51
         }
       ],
       "top20": [
         {
-          "word": "lily",
-          "count": 231
+          "word": "witch",
+          "count": 180
         },
         {
-          "word": "series",
-          "count": 124
+          "word": "dead",
+          "count": 126
         },
         {
-          "word": "harry",
-          "count": 117
+          "word": "mother",
+          "count": 96
         },
         {
-          "word": "love",
-          "count": 100
+          "word": "reader",
+          "count": 87
         },
         {
-          "word": "snape",
-          "count": 80
+          "word": "boy",
+          "count": 75
         },
         {
-          "word": "voldemort",
-          "count": 58
+          "word": "books",
+          "count": 52
         },
         {
-          "word": "potter",
-          "count": 57
-        },
-        {
-          "word": "death",
+          "word": "son",
           "count": 51
         },
         {
-          "word": "james",
-          "count": 50
+          "word": "book",
+          "count": 43
         },
         {
-          "word": "specific",
-          "count": 47
-        },
-        {
-          "word": "person",
-          "count": 46
-        },
-        {
-          "word": "sacrifice",
+          "word": "lily",
           "count": 42
         },
         {
-          "word": "petunia",
-          "count": 42
-        },
-        {
-          "word": "someone",
-          "count": 41
-        },
-        {
-          "word": "relationship",
-          "count": 38
-        },
-        {
-          "word": "protection",
-          "count": 33
-        },
-        {
-          "word": "whose",
-          "count": 31
-        },
-        {
-          "word": "letter",
-          "count": 31
+          "word": "scene",
+          "count": 37
         },
         {
           "word": "cannot",
-          "count": 29
+          "count": 36
         },
         {
-          "word": "dumbledore",
+          "word": "protagonist",
+          "count": 36
+        },
+        {
+          "word": "series",
+          "count": 35
+        },
+        {
+          "word": "love",
+          "count": 34
+        },
+        {
+          "word": "moral",
+          "count": 34
+        },
+        {
+          "word": "sacrifice",
+          "count": 31
+        },
+        {
+          "word": "death",
           "count": 28
+        },
+        {
+          "word": "author",
+          "count": 28
+        },
+        {
+          "word": "potter",
+          "count": 27
+        },
+        {
+          "word": "whose",
+          "count": 26
         }
       ]
     },
@@ -72891,9 +74071,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 5936,
+      "wordCount": 7334,
       "topWord": "james",
-      "topCount": 280,
+      "topCount": 357,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -72903,121 +74083,121 @@
       "flaggedWords": [
         {
           "word": "james",
-          "count": 280
+          "count": 357
         },
         {
           "word": "harry",
-          "count": 128
+          "count": 129
         },
         {
-          "word": "snape",
-          "count": 115
-        },
-        {
-          "word": "series",
-          "count": 92
-        },
-        {
-          "word": "specific",
-          "count": 88
-        },
-        {
-          "word": "potter",
-          "count": 74
+          "word": "reader",
+          "count": 101
         },
         {
           "word": "father",
-          "count": 68
+          "count": 95
+        },
+        {
+          "word": "series",
+          "count": 87
         },
         {
           "word": "lily",
-          "count": 61
+          "count": 76
         },
         {
-          "word": "person",
-          "count": 58
+          "word": "snape",
+          "count": 68
+        },
+        {
+          "word": "reading",
+          "count": 59
+        },
+        {
+          "word": "death",
+          "count": 59
         }
       ],
       "top20": [
         {
           "word": "james",
-          "count": 280
+          "count": 357
         },
         {
           "word": "harry",
-          "count": 128
+          "count": 129
         },
         {
-          "word": "snape",
-          "count": 115
-        },
-        {
-          "word": "series",
-          "count": 92
-        },
-        {
-          "word": "specific",
-          "count": 88
-        },
-        {
-          "word": "potter",
-          "count": 74
+          "word": "reader",
+          "count": 101
         },
         {
           "word": "father",
-          "count": 68
+          "count": 95
+        },
+        {
+          "word": "series",
+          "count": 87
         },
         {
           "word": "lily",
-          "count": 61
+          "count": 76
         },
         {
-          "word": "person",
-          "count": 58
+          "word": "snape",
+          "count": 68
         },
         {
-          "word": "moral",
-          "count": 48
+          "word": "reading",
+          "count": 59
         },
         {
-          "word": "memory",
-          "count": 42
+          "word": "death",
+          "count": 59
         },
         {
-          "word": "love",
-          "count": 42
+          "word": "potter",
+          "count": 50
         },
         {
           "word": "sirius",
-          "count": 39
+          "count": 46
+        },
+        {
+          "word": "moral",
+          "count": 43
+        },
+        {
+          "word": "scene",
+          "count": 42
+        },
+        {
+          "word": "books",
+          "count": 41
+        },
+        {
+          "word": "book",
+          "count": 38
+        },
+        {
+          "word": "evidence",
+          "count": 38
         },
         {
           "word": "cruelty",
-          "count": 39
+          "count": 37
         },
         {
-          "word": "mythology",
-          "count": 36
+          "word": "memory",
+          "count": 35
+        },
+        {
+          "word": "son",
+          "count": 35
         },
         {
           "word": "worst",
-          "count": 36
-        },
-        {
-          "word": "whose",
-          "count": 33
-        },
-        {
-          "word": "someone",
           "count": 32
-        },
-        {
-          "word": "genuinely",
-          "count": 30
-        },
-        {
-          "word": "eventually",
-          "count": 30
         }
       ]
     },
@@ -232006,6 +233186,188 @@
       ]
     },
     {
+      "filename": "2026-06-01-pm-602-0199-uscis-aos-policy-memo-2026.md",
+      "slug": "pm-602-0199-uscis-aos-policy-memo-2026",
+      "title": "PM-602-0199 Memo Explained: USCIS Discretion in I-485",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9016,
+      "topWord": "section",
+      "topCount": 184,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-01-pm-602-0199-uscis-aos-policy-memo-2026.md",
+      "flaggedWords": [
+        {
+          "word": "section",
+          "count": 184
+        },
+        {
+          "word": "pm",
+          "count": 127
+        },
+        {
+          "word": "memorandum",
+          "count": 122
+        },
+        {
+          "word": "adjustment",
+          "count": 112
+        },
+        {
+          "word": "status",
+          "count": 96
+        },
+        {
+          "word": "discretionary",
+          "count": 93
+        },
+        {
+          "word": "analysis",
+          "count": 89
+        },
+        {
+          "word": "applicants",
+          "count": 84
+        },
+        {
+          "word": "uscis",
+          "count": 77
+        },
+        {
+          "word": "arai",
+          "count": 70
+        },
+        {
+          "word": "factors",
+          "count": 68
+        },
+        {
+          "word": "framework",
+          "count": 66
+        },
+        {
+          "word": "immigration",
+          "count": 65
+        },
+        {
+          "word": "operational",
+          "count": 61
+        },
+        {
+          "word": "discretion",
+          "count": 58
+        },
+        {
+          "word": "policy",
+          "count": 57
+        },
+        {
+          "word": "applicant",
+          "count": 57
+        },
+        {
+          "word": "intent",
+          "count": 55
+        },
+        {
+          "word": "adverse",
+          "count": 53
+        },
+        {
+          "word": "consular",
+          "count": 52
+        }
+      ],
+      "top20": [
+        {
+          "word": "section",
+          "count": 184
+        },
+        {
+          "word": "pm",
+          "count": 127
+        },
+        {
+          "word": "memorandum",
+          "count": 122
+        },
+        {
+          "word": "adjustment",
+          "count": 112
+        },
+        {
+          "word": "status",
+          "count": 96
+        },
+        {
+          "word": "discretionary",
+          "count": 93
+        },
+        {
+          "word": "analysis",
+          "count": 89
+        },
+        {
+          "word": "applicants",
+          "count": 84
+        },
+        {
+          "word": "uscis",
+          "count": 77
+        },
+        {
+          "word": "arai",
+          "count": 70
+        },
+        {
+          "word": "factors",
+          "count": 68
+        },
+        {
+          "word": "framework",
+          "count": 66
+        },
+        {
+          "word": "immigration",
+          "count": 65
+        },
+        {
+          "word": "operational",
+          "count": 61
+        },
+        {
+          "word": "discretion",
+          "count": 58
+        },
+        {
+          "word": "policy",
+          "count": 57
+        },
+        {
+          "word": "applicant",
+          "count": 57
+        },
+        {
+          "word": "intent",
+          "count": 55
+        },
+        {
+          "word": "adverse",
+          "count": 53
+        },
+        {
+          "word": "consular",
+          "count": 52
+        }
+      ]
+    },
+    {
       "filename": "2026-06-03-dhurandhar-controversies-explained.md",
       "slug": "dhurandhar-controversies-explained",
       "title": "Dhurandhar Disputes Explained",
@@ -232108,6 +233470,370 @@
         {
           "word": "institutional",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-04-matter-of-arai-aos-discretion-framework.md",
+      "slug": "matter-of-arai-aos-discretion-framework",
+      "title": "Matter of Arai and the AOS Discretion Framework",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9671,
+      "topWord": "arai",
+      "topCount": 236,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-04-matter-of-arai-aos-discretion-framework.md",
+      "flaggedWords": [
+        {
+          "word": "arai",
+          "count": 236
+        },
+        {
+          "word": "factors",
+          "count": 141
+        },
+        {
+          "word": "framework",
+          "count": 139
+        },
+        {
+          "word": "matter",
+          "count": 131
+        },
+        {
+          "word": "section",
+          "count": 121
+        },
+        {
+          "word": "adverse",
+          "count": 109
+        },
+        {
+          "word": "pm",
+          "count": 96
+        },
+        {
+          "word": "uscis",
+          "count": 93
+        },
+        {
+          "word": "favorable",
+          "count": 92
+        },
+        {
+          "word": "memorandum",
+          "count": 92
+        },
+        {
+          "word": "intent",
+          "count": 90
+        },
+        {
+          "word": "immigration",
+          "count": 87
+        },
+        {
+          "word": "discretionary",
+          "count": 79
+        },
+        {
+          "word": "analysis",
+          "count": 76
+        },
+        {
+          "word": "policy",
+          "count": 75
+        },
+        {
+          "word": "adjudication",
+          "count": 71
+        },
+        {
+          "word": "adjustment",
+          "count": 69
+        },
+        {
+          "word": "discretion",
+          "count": 69
+        },
+        {
+          "word": "precedent",
+          "count": 69
+        },
+        {
+          "word": "applicant",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "arai",
+          "count": 236
+        },
+        {
+          "word": "factors",
+          "count": 141
+        },
+        {
+          "word": "framework",
+          "count": 139
+        },
+        {
+          "word": "matter",
+          "count": 131
+        },
+        {
+          "word": "section",
+          "count": 121
+        },
+        {
+          "word": "adverse",
+          "count": 109
+        },
+        {
+          "word": "pm",
+          "count": 96
+        },
+        {
+          "word": "uscis",
+          "count": 93
+        },
+        {
+          "word": "favorable",
+          "count": 92
+        },
+        {
+          "word": "memorandum",
+          "count": 92
+        },
+        {
+          "word": "intent",
+          "count": 90
+        },
+        {
+          "word": "immigration",
+          "count": 87
+        },
+        {
+          "word": "discretionary",
+          "count": 79
+        },
+        {
+          "word": "analysis",
+          "count": 76
+        },
+        {
+          "word": "policy",
+          "count": 75
+        },
+        {
+          "word": "adjudication",
+          "count": 71
+        },
+        {
+          "word": "adjustment",
+          "count": 69
+        },
+        {
+          "word": "discretion",
+          "count": 69
+        },
+        {
+          "word": "precedent",
+          "count": 69
+        },
+        {
+          "word": "applicant",
+          "count": 65
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-07-aos-vs-consular-processing-2026.md",
+      "slug": "aos-vs-consular-processing-2026",
+      "title": "Adjustment of Status vs Consular Processing in 2026",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 9991,
+      "topWord": "consular",
+      "topCount": 345,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-07-aos-vs-consular-processing-2026.md",
+      "flaggedWords": [
+        {
+          "word": "consular",
+          "count": 345
+        },
+        {
+          "word": "section",
+          "count": 227
+        },
+        {
+          "word": "processing",
+          "count": 223
+        },
+        {
+          "word": "pathway",
+          "count": 192
+        },
+        {
+          "word": "aos",
+          "count": 155
+        },
+        {
+          "word": "applicant",
+          "count": 134
+        },
+        {
+          "word": "visa",
+          "count": 129
+        },
+        {
+          "word": "bar",
+          "count": 113
+        },
+        {
+          "word": "applicants",
+          "count": 106
+        },
+        {
+          "word": "analysis",
+          "count": 83
+        },
+        {
+          "word": "framework",
+          "count": 82
+        },
+        {
+          "word": "status",
+          "count": 81
+        },
+        {
+          "word": "substantially",
+          "count": 80
+        },
+        {
+          "word": "immigrant",
+          "count": 79
+        },
+        {
+          "word": "review",
+          "count": 77
+        },
+        {
+          "word": "court",
+          "count": 71
+        },
+        {
+          "word": "uscis",
+          "count": 67
+        },
+        {
+          "word": "presence",
+          "count": 67
+        },
+        {
+          "word": "unlawful",
+          "count": 65
+        },
+        {
+          "word": "choice",
+          "count": 65
+        }
+      ],
+      "top20": [
+        {
+          "word": "consular",
+          "count": 345
+        },
+        {
+          "word": "section",
+          "count": 227
+        },
+        {
+          "word": "processing",
+          "count": 223
+        },
+        {
+          "word": "pathway",
+          "count": 192
+        },
+        {
+          "word": "aos",
+          "count": 155
+        },
+        {
+          "word": "applicant",
+          "count": 134
+        },
+        {
+          "word": "visa",
+          "count": 129
+        },
+        {
+          "word": "bar",
+          "count": 113
+        },
+        {
+          "word": "applicants",
+          "count": 106
+        },
+        {
+          "word": "analysis",
+          "count": 83
+        },
+        {
+          "word": "framework",
+          "count": 82
+        },
+        {
+          "word": "status",
+          "count": 81
+        },
+        {
+          "word": "substantially",
+          "count": 80
+        },
+        {
+          "word": "immigrant",
+          "count": 79
+        },
+        {
+          "word": "review",
+          "count": 77
+        },
+        {
+          "word": "court",
+          "count": 71
+        },
+        {
+          "word": "uscis",
+          "count": 67
+        },
+        {
+          "word": "presence",
+          "count": 67
+        },
+        {
+          "word": "unlawful",
+          "count": 65
+        },
+        {
+          "word": "choice",
+          "count": 65
         }
       ]
     },
@@ -232356,6 +234082,370 @@
       ]
     },
     {
+      "filename": "2026-06-10-h1b-i485-after-pm-602-0199.md",
+      "slug": "h1b-i485-after-pm-602-0199",
+      "title": "H-1B Holders and I-485 After PM-602-0199",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8465,
+      "topWord": "section",
+      "topCount": 216,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-10-h1b-i485-after-pm-602-0199.md",
+      "flaggedWords": [
+        {
+          "word": "section",
+          "count": 216
+        },
+        {
+          "word": "ac",
+          "count": 137
+        },
+        {
+          "word": "framework",
+          "count": 116
+        },
+        {
+          "word": "portability",
+          "count": 106
+        },
+        {
+          "word": "pm",
+          "count": 102
+        },
+        {
+          "word": "status",
+          "count": 98
+        },
+        {
+          "word": "analysis",
+          "count": 98
+        },
+        {
+          "word": "ina",
+          "count": 94
+        },
+        {
+          "word": "intent",
+          "count": 84
+        },
+        {
+          "word": "filing",
+          "count": 78
+        },
+        {
+          "word": "pending",
+          "count": 76
+        },
+        {
+          "word": "dual",
+          "count": 74
+        },
+        {
+          "word": "uscis",
+          "count": 72
+        },
+        {
+          "word": "operational",
+          "count": 71
+        },
+        {
+          "word": "cap",
+          "count": 66
+        },
+        {
+          "word": "holders",
+          "count": 66
+        },
+        {
+          "word": "statutory",
+          "count": 64
+        },
+        {
+          "word": "discretionary",
+          "count": 60
+        },
+        {
+          "word": "date",
+          "count": 60
+        },
+        {
+          "word": "priority",
+          "count": 59
+        }
+      ],
+      "top20": [
+        {
+          "word": "section",
+          "count": 216
+        },
+        {
+          "word": "ac",
+          "count": 137
+        },
+        {
+          "word": "framework",
+          "count": 116
+        },
+        {
+          "word": "portability",
+          "count": 106
+        },
+        {
+          "word": "pm",
+          "count": 102
+        },
+        {
+          "word": "status",
+          "count": 98
+        },
+        {
+          "word": "analysis",
+          "count": 98
+        },
+        {
+          "word": "ina",
+          "count": 94
+        },
+        {
+          "word": "intent",
+          "count": 84
+        },
+        {
+          "word": "filing",
+          "count": 78
+        },
+        {
+          "word": "pending",
+          "count": 76
+        },
+        {
+          "word": "dual",
+          "count": 74
+        },
+        {
+          "word": "uscis",
+          "count": 72
+        },
+        {
+          "word": "operational",
+          "count": 71
+        },
+        {
+          "word": "cap",
+          "count": 66
+        },
+        {
+          "word": "holders",
+          "count": 66
+        },
+        {
+          "word": "statutory",
+          "count": 64
+        },
+        {
+          "word": "discretionary",
+          "count": 60
+        },
+        {
+          "word": "date",
+          "count": 60
+        },
+        {
+          "word": "priority",
+          "count": 59
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-13-l1a-l1b-i485-after-pm-602-0199.md",
+      "slug": "l1a-l1b-i485-after-pm-602-0199",
+      "title": "L-1A and L-1B I-485 After PM-602-0199",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8467,
+      "topWord": "eb",
+      "topCount": 173,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-13-l1a-l1b-i485-after-pm-602-0199.md",
+      "flaggedWords": [
+        {
+          "word": "eb",
+          "count": 173
+        },
+        {
+          "word": "holders",
+          "count": 129
+        },
+        {
+          "word": "section",
+          "count": 125
+        },
+        {
+          "word": "framework",
+          "count": 109
+        },
+        {
+          "word": "operational",
+          "count": 108
+        },
+        {
+          "word": "status",
+          "count": 101
+        },
+        {
+          "word": "cfr",
+          "count": 88
+        },
+        {
+          "word": "substantive",
+          "count": 81
+        },
+        {
+          "word": "analysis",
+          "count": 77
+        },
+        {
+          "word": "pm",
+          "count": 72
+        },
+        {
+          "word": "intent",
+          "count": 71
+        },
+        {
+          "word": "filing",
+          "count": 71
+        },
+        {
+          "word": "ina",
+          "count": 68
+        },
+        {
+          "word": "dual",
+          "count": 65
+        },
+        {
+          "word": "knowledge",
+          "count": 64
+        },
+        {
+          "word": "regulatory",
+          "count": 63
+        },
+        {
+          "word": "documentation",
+          "count": 62
+        },
+        {
+          "word": "specialised",
+          "count": 61
+        },
+        {
+          "word": "uscis",
+          "count": 60
+        },
+        {
+          "word": "classification",
+          "count": 55
+        }
+      ],
+      "top20": [
+        {
+          "word": "eb",
+          "count": 173
+        },
+        {
+          "word": "holders",
+          "count": 129
+        },
+        {
+          "word": "section",
+          "count": 125
+        },
+        {
+          "word": "framework",
+          "count": 109
+        },
+        {
+          "word": "operational",
+          "count": 108
+        },
+        {
+          "word": "status",
+          "count": 101
+        },
+        {
+          "word": "cfr",
+          "count": 88
+        },
+        {
+          "word": "substantive",
+          "count": 81
+        },
+        {
+          "word": "analysis",
+          "count": 77
+        },
+        {
+          "word": "pm",
+          "count": 72
+        },
+        {
+          "word": "intent",
+          "count": 71
+        },
+        {
+          "word": "filing",
+          "count": 71
+        },
+        {
+          "word": "ina",
+          "count": 68
+        },
+        {
+          "word": "dual",
+          "count": 65
+        },
+        {
+          "word": "knowledge",
+          "count": 64
+        },
+        {
+          "word": "regulatory",
+          "count": 63
+        },
+        {
+          "word": "documentation",
+          "count": 62
+        },
+        {
+          "word": "specialised",
+          "count": 61
+        },
+        {
+          "word": "uscis",
+          "count": 60
+        },
+        {
+          "word": "classification",
+          "count": 55
+        }
+      ]
+    },
+    {
       "filename": "2026-06-13-ranveer-singh-career-best-performance-dhurandhar.md",
       "slug": "ranveer-singh-career-best-performance-dhurandhar",
       "title": "Ranveer Singh Career Best in Dhurandhar",
@@ -232478,6 +234568,188 @@
         {
           "word": "cover",
           "count": 40
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-16-f1-opt-stem-opt-i485-after-pm-602-0199.md",
+      "slug": "f1-opt-stem-opt-i485-after-pm-602-0199",
+      "title": "F-1, OPT, STEM OPT and I-485 After PM-602-0199",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8497,
+      "topWord": "opt",
+      "topCount": 263,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-16-f1-opt-stem-opt-i485-after-pm-602-0199.md",
+      "flaggedWords": [
+        {
+          "word": "opt",
+          "count": 263
+        },
+        {
+          "word": "intent",
+          "count": 191
+        },
+        {
+          "word": "stem",
+          "count": 158
+        },
+        {
+          "word": "substantive",
+          "count": 139
+        },
+        {
+          "word": "framework",
+          "count": 126
+        },
+        {
+          "word": "status",
+          "count": 101
+        },
+        {
+          "word": "pm",
+          "count": 94
+        },
+        {
+          "word": "section",
+          "count": 92
+        },
+        {
+          "word": "analysis",
+          "count": 91
+        },
+        {
+          "word": "cap",
+          "count": 89
+        },
+        {
+          "word": "students",
+          "count": 88
+        },
+        {
+          "word": "cavazos",
+          "count": 85
+        },
+        {
+          "word": "preconceived",
+          "count": 84
+        },
+        {
+          "word": "operational",
+          "count": 84
+        },
+        {
+          "word": "matter",
+          "count": 81
+        },
+        {
+          "word": "rule",
+          "count": 79
+        },
+        {
+          "word": "aos",
+          "count": 76
+        },
+        {
+          "word": "marriage",
+          "count": 74
+        },
+        {
+          "word": "based",
+          "count": 65
+        },
+        {
+          "word": "post",
+          "count": 63
+        }
+      ],
+      "top20": [
+        {
+          "word": "opt",
+          "count": 263
+        },
+        {
+          "word": "intent",
+          "count": 191
+        },
+        {
+          "word": "stem",
+          "count": 158
+        },
+        {
+          "word": "substantive",
+          "count": 139
+        },
+        {
+          "word": "framework",
+          "count": 126
+        },
+        {
+          "word": "status",
+          "count": 101
+        },
+        {
+          "word": "pm",
+          "count": 94
+        },
+        {
+          "word": "section",
+          "count": 92
+        },
+        {
+          "word": "analysis",
+          "count": 91
+        },
+        {
+          "word": "cap",
+          "count": 89
+        },
+        {
+          "word": "students",
+          "count": 88
+        },
+        {
+          "word": "cavazos",
+          "count": 85
+        },
+        {
+          "word": "preconceived",
+          "count": 84
+        },
+        {
+          "word": "operational",
+          "count": 84
+        },
+        {
+          "word": "matter",
+          "count": 81
+        },
+        {
+          "word": "rule",
+          "count": 79
+        },
+        {
+          "word": "aos",
+          "count": 76
+        },
+        {
+          "word": "marriage",
+          "count": 74
+        },
+        {
+          "word": "based",
+          "count": 65
+        },
+        {
+          "word": "post",
+          "count": 63
         }
       ]
     },
@@ -232608,6 +234880,184 @@
         {
           "word": "requires",
           "count": 35
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-19-tn-e2-b1-b2-j1-i485-after-pm-602-0199.md",
+      "slug": "tn-e2-b1-b2-j1-i485-after-pm-602-0199",
+      "title": "TN, E-2, B-1, B-2, J-1 and I-485 After PM-602-0199",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8303,
+      "topWord": "intent",
+      "topCount": 215,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-19-tn-e2-b1-b2-j1-i485-after-pm-602-0199.md",
+      "flaggedWords": [
+        {
+          "word": "intent",
+          "count": 215
+        },
+        {
+          "word": "substantive",
+          "count": 180
+        },
+        {
+          "word": "holders",
+          "count": 140
+        },
+        {
+          "word": "section",
+          "count": 125
+        },
+        {
+          "word": "operational",
+          "count": 121
+        },
+        {
+          "word": "tn",
+          "count": 113
+        },
+        {
+          "word": "framework",
+          "count": 102
+        },
+        {
+          "word": "single",
+          "count": 90
+        },
+        {
+          "word": "classification",
+          "count": 78
+        },
+        {
+          "word": "dual",
+          "count": 77
+        },
+        {
+          "word": "pm",
+          "count": 77
+        },
+        {
+          "word": "waiver",
+          "count": 77
+        },
+        {
+          "word": "ina",
+          "count": 69
+        },
+        {
+          "word": "cfr",
+          "count": 65
+        },
+        {
+          "word": "operates",
+          "count": 65
+        },
+        {
+          "word": "analysis",
+          "count": 54
+        },
+        {
+          "word": "based",
+          "count": 54
+        },
+        {
+          "word": "marriage",
+          "count": 53
+        },
+        {
+          "word": "rule",
+          "count": 51
+        }
+      ],
+      "top20": [
+        {
+          "word": "intent",
+          "count": 215
+        },
+        {
+          "word": "substantive",
+          "count": 180
+        },
+        {
+          "word": "holders",
+          "count": 140
+        },
+        {
+          "word": "section",
+          "count": 125
+        },
+        {
+          "word": "operational",
+          "count": 121
+        },
+        {
+          "word": "tn",
+          "count": 113
+        },
+        {
+          "word": "framework",
+          "count": 102
+        },
+        {
+          "word": "single",
+          "count": 90
+        },
+        {
+          "word": "classification",
+          "count": 78
+        },
+        {
+          "word": "dual",
+          "count": 77
+        },
+        {
+          "word": "pm",
+          "count": 77
+        },
+        {
+          "word": "waiver",
+          "count": 77
+        },
+        {
+          "word": "ina",
+          "count": 69
+        },
+        {
+          "word": "cfr",
+          "count": 65
+        },
+        {
+          "word": "operates",
+          "count": 65
+        },
+        {
+          "word": "analysis",
+          "count": 54
+        },
+        {
+          "word": "based",
+          "count": 54
+        },
+        {
+          "word": "marriage",
+          "count": 53
+        },
+        {
+          "word": "rule",
+          "count": 51
+        },
+        {
+          "word": "cluster",
+          "count": 50
         }
       ]
     },
@@ -232762,6 +235212,188 @@
       ]
     },
     {
+      "filename": "2026-06-22-family-based-i485-after-pm-602-0199.md",
+      "slug": "family-based-i485-after-pm-602-0199",
+      "title": "Family-Based I-485 After PM-602-0199",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8498,
+      "topWord": "substantive",
+      "topCount": 245,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-22-family-based-i485-after-pm-602-0199.md",
+      "flaggedWords": [
+        {
+          "word": "substantive",
+          "count": 245
+        },
+        {
+          "word": "section",
+          "count": 193
+        },
+        {
+          "word": "family",
+          "count": 155
+        },
+        {
+          "word": "operational",
+          "count": 148
+        },
+        {
+          "word": "framework",
+          "count": 140
+        },
+        {
+          "word": "pm",
+          "count": 122
+        },
+        {
+          "word": "marriage",
+          "count": 121
+        },
+        {
+          "word": "based",
+          "count": 120
+        },
+        {
+          "word": "ina",
+          "count": 97
+        },
+        {
+          "word": "aos",
+          "count": 96
+        },
+        {
+          "word": "cavazos",
+          "count": 92
+        },
+        {
+          "word": "immediate",
+          "count": 88
+        },
+        {
+          "word": "relative",
+          "count": 83
+        },
+        {
+          "word": "applicants",
+          "count": 71
+        },
+        {
+          "word": "analysis",
+          "count": 70
+        },
+        {
+          "word": "immigration",
+          "count": 65
+        },
+        {
+          "word": "preference",
+          "count": 65
+        },
+        {
+          "word": "visa",
+          "count": 63
+        },
+        {
+          "word": "matter",
+          "count": 61
+        },
+        {
+          "word": "status",
+          "count": 61
+        }
+      ],
+      "top20": [
+        {
+          "word": "substantive",
+          "count": 245
+        },
+        {
+          "word": "section",
+          "count": 193
+        },
+        {
+          "word": "family",
+          "count": 155
+        },
+        {
+          "word": "operational",
+          "count": 148
+        },
+        {
+          "word": "framework",
+          "count": 140
+        },
+        {
+          "word": "pm",
+          "count": 122
+        },
+        {
+          "word": "marriage",
+          "count": 121
+        },
+        {
+          "word": "based",
+          "count": 120
+        },
+        {
+          "word": "ina",
+          "count": 97
+        },
+        {
+          "word": "aos",
+          "count": 96
+        },
+        {
+          "word": "cavazos",
+          "count": 92
+        },
+        {
+          "word": "immediate",
+          "count": 88
+        },
+        {
+          "word": "relative",
+          "count": 83
+        },
+        {
+          "word": "applicants",
+          "count": 71
+        },
+        {
+          "word": "analysis",
+          "count": 70
+        },
+        {
+          "word": "immigration",
+          "count": 65
+        },
+        {
+          "word": "preference",
+          "count": 65
+        },
+        {
+          "word": "visa",
+          "count": 63
+        },
+        {
+          "word": "matter",
+          "count": 61
+        },
+        {
+          "word": "status",
+          "count": 61
+        }
+      ]
+    },
+    {
       "filename": "2026-06-23-dhurandhar-ending-explained-both-parts.md",
       "slug": "dhurandhar-ending-explained-both-parts",
       "title": "Dhurandhar Ending Explained Both Parts",
@@ -232896,6 +235528,370 @@
         {
           "word": "endings",
           "count": 37
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-25-india-china-eb-backlog-after-pm-602-0199.md",
+      "slug": "india-china-eb-backlog-after-pm-602-0199",
+      "title": "India and China EB Backlog Cohorts After PM-602-0199",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8627,
+      "topWord": "substantive",
+      "topCount": 270,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-25-india-china-eb-backlog-after-pm-602-0199.md",
+      "flaggedWords": [
+        {
+          "word": "substantive",
+          "count": 270
+        },
+        {
+          "word": "cohort",
+          "count": 204
+        },
+        {
+          "word": "eb",
+          "count": 199
+        },
+        {
+          "word": "operational",
+          "count": 197
+        },
+        {
+          "word": "backlog",
+          "count": 183
+        },
+        {
+          "word": "section",
+          "count": 173
+        },
+        {
+          "word": "indian",
+          "count": 115
+        },
+        {
+          "word": "priority",
+          "count": 92
+        },
+        {
+          "word": "country",
+          "count": 89
+        },
+        {
+          "word": "pm",
+          "count": 82
+        },
+        {
+          "word": "applicants",
+          "count": 80
+        },
+        {
+          "word": "substantively",
+          "count": 80
+        },
+        {
+          "word": "chinese",
+          "count": 78
+        },
+        {
+          "word": "framework",
+          "count": 77
+        },
+        {
+          "word": "ac",
+          "count": 77
+        },
+        {
+          "word": "date",
+          "count": 66
+        },
+        {
+          "word": "ina",
+          "count": 64
+        },
+        {
+          "word": "considerations",
+          "count": 62
+        },
+        {
+          "word": "analysis",
+          "count": 61
+        },
+        {
+          "word": "cap",
+          "count": 60
+        }
+      ],
+      "top20": [
+        {
+          "word": "substantive",
+          "count": 270
+        },
+        {
+          "word": "cohort",
+          "count": 204
+        },
+        {
+          "word": "eb",
+          "count": 199
+        },
+        {
+          "word": "operational",
+          "count": 197
+        },
+        {
+          "word": "backlog",
+          "count": 183
+        },
+        {
+          "word": "section",
+          "count": 173
+        },
+        {
+          "word": "indian",
+          "count": 115
+        },
+        {
+          "word": "priority",
+          "count": 92
+        },
+        {
+          "word": "country",
+          "count": 89
+        },
+        {
+          "word": "pm",
+          "count": 82
+        },
+        {
+          "word": "applicants",
+          "count": 80
+        },
+        {
+          "word": "substantively",
+          "count": 80
+        },
+        {
+          "word": "chinese",
+          "count": 78
+        },
+        {
+          "word": "framework",
+          "count": 77
+        },
+        {
+          "word": "ac",
+          "count": 77
+        },
+        {
+          "word": "date",
+          "count": 66
+        },
+        {
+          "word": "ina",
+          "count": 64
+        },
+        {
+          "word": "considerations",
+          "count": 62
+        },
+        {
+          "word": "analysis",
+          "count": 61
+        },
+        {
+          "word": "cap",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "filename": "2026-06-28-pm-602-0199-litigation-travel-outlook-2026.md",
+      "slug": "pm-602-0199-litigation-travel-outlook-2026",
+      "title": "PM-602-0199 Litigation, Travel, AC21, and Outlook",
+      "categories": [
+        "Industry"
+      ],
+      "lang": "en",
+      "wordCount": 8726,
+      "topWord": "operational",
+      "topCount": 185,
+      "flagged": true,
+      "suppressed": false,
+      "suppressReason": "",
+      "suppressSnapshot": null,
+      "suppressStale": false,
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2026-06-28-pm-602-0199-litigation-travel-outlook-2026.md",
+      "flaggedWords": [
+        {
+          "word": "operational",
+          "count": 185
+        },
+        {
+          "word": "litigation",
+          "count": 148
+        },
+        {
+          "word": "framework",
+          "count": 148
+        },
+        {
+          "word": "section",
+          "count": 124
+        },
+        {
+          "word": "pm",
+          "count": 116
+        },
+        {
+          "word": "considerations",
+          "count": 105
+        },
+        {
+          "word": "immigration",
+          "count": 89
+        },
+        {
+          "word": "federal",
+          "count": 75
+        },
+        {
+          "word": "law",
+          "count": 71
+        },
+        {
+          "word": "court",
+          "count": 69
+        },
+        {
+          "word": "analysis",
+          "count": 69
+        },
+        {
+          "word": "administrative",
+          "count": 67
+        },
+        {
+          "word": "review",
+          "count": 66
+        },
+        {
+          "word": "practitioner",
+          "count": 65
+        },
+        {
+          "word": "apa",
+          "count": 62
+        },
+        {
+          "word": "memorandum",
+          "count": 58
+        },
+        {
+          "word": "policy",
+          "count": 55
+        },
+        {
+          "word": "doctrinal",
+          "count": 55
+        },
+        {
+          "word": "named",
+          "count": 55
+        },
+        {
+          "word": "precedent",
+          "count": 53
+        }
+      ],
+      "top20": [
+        {
+          "word": "operational",
+          "count": 185
+        },
+        {
+          "word": "litigation",
+          "count": 148
+        },
+        {
+          "word": "framework",
+          "count": 148
+        },
+        {
+          "word": "section",
+          "count": 124
+        },
+        {
+          "word": "pm",
+          "count": 116
+        },
+        {
+          "word": "considerations",
+          "count": 105
+        },
+        {
+          "word": "immigration",
+          "count": 89
+        },
+        {
+          "word": "federal",
+          "count": 75
+        },
+        {
+          "word": "law",
+          "count": 71
+        },
+        {
+          "word": "court",
+          "count": 69
+        },
+        {
+          "word": "analysis",
+          "count": 69
+        },
+        {
+          "word": "administrative",
+          "count": 67
+        },
+        {
+          "word": "review",
+          "count": 66
+        },
+        {
+          "word": "practitioner",
+          "count": 65
+        },
+        {
+          "word": "apa",
+          "count": 62
+        },
+        {
+          "word": "memorandum",
+          "count": 58
+        },
+        {
+          "word": "policy",
+          "count": 55
+        },
+        {
+          "word": "doctrinal",
+          "count": 55
+        },
+        {
+          "word": "named",
+          "count": 55
+        },
+        {
+          "word": "precedent",
+          "count": 53
         }
       ]
     }

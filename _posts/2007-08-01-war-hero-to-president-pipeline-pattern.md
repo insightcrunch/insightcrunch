@@ -9,7 +9,7 @@ excerpt: "Washington, Jackson, Harrison, Taylor, Grant, Hayes, Garfield, B. Harr
 image: "/assets/images/blog/blog-37.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2007-08-01
+last_updated: 2026-05-29
 lang: en
 ---
 The American voter has a soft spot for the soldier. Washington, Jackson, William Henry Harrison, Zachary Taylor, Franklin Pierce, Ulysses Grant, Rutherford Hayes, James Garfield, Benjamin Harrison, Theodore Roosevelt, Dwight Eisenhower. Eleven uniformed officeholders across one hundred sixty-three years of American politics, by the most generous count. Three governed well. Two were killed by their offices before anyone could find out. The remaining six produced presidencies that ran the spectrum from mediocre on a kindly read to catastrophic on a fair one. Eight of the eleven won their elections decisively, which is the appeal that keeps party strategists reaching for the laurels. Three of the eleven left the office in better shape than they found it. That gap, between the electoral payoff and the governing payoff, is the central paradox of what historians call the soldier-statesman pathway, and it is the puzzle this article sets out to test.

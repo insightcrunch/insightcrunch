@@ -9,7 +9,7 @@ excerpt: "Jefferson nearly refused Louisiana on constitutional grounds in 1803. 
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 72
 author: "chloe-martin"
-last_updated: 2007-12-22
+last_updated: 2026-05-29
 lang: en
 ---
 Jefferson sat at his Monticello desk in early July 1803 with a draft constitutional amendment in front of him. The document, two paragraphs in his own hand, authorized the federal government to acquire foreign territory and incorporate it into the Union. He had drafted the language because he was certain the existing Constitution gave the president no such power. James Monroe and Robert R. Livingston had just signed a treaty in Paris on April 30, 1803 acquiring roughly 828,000 square miles of French Louisiana for fifteen million dollars, a transaction that doubled the territorial size of the United States in a single instrument. Jefferson, the strict constructionist who had built fifteen years of opposition theory against Federalist constitutional improvisation, faced a question he had been theorizing about since the late 1780s: was the president constitutionally permitted to do something the Constitution did not specifically authorize?

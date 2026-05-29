@@ -9,7 +9,7 @@ excerpt: "Oswald missed. JFK lives. LBJ never becomes president. The Great Socie
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 64
 author: "rachel-foster"
-last_updated: 2007-11-24
+last_updated: 2026-05-29
 lang: en
 ---
 ## The Question Almost Nobody Asks

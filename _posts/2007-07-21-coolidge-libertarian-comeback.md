@@ -9,7 +9,7 @@ excerpt: "Historians ranked Coolidge 27th of 31 in 1962. Conservative scholars a
 image: "/assets/images/blog/blog-71.webp"
 reading_time: 72 min
 author: "diana-patel"
-last_updated: 2007-07-21
+last_updated: 2026-05-29
 lang: en
 ---
 On a January morning in 1981, a quiet ceremony reshaped the symbolic geography of the West Wing. Ronald Reagan's staff removed the portrait of Harry Truman from its place of honor in the Cabinet Room and hung a portrait of Calvin Coolidge in its stead. The swap drew a few sentences of newspaper commentary at the time and then faded from public attention. Inside the conservative intellectual movement, however, the gesture registered as a deliberate signal. A chief executive written off in the academy for half a century as the passive custodian of a doomed boom had become, in Reagan's hands, a usable past.

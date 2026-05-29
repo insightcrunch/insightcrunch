@@ -9,7 +9,7 @@ excerpt: "FDR signed 3,721 executive orders. Washington signed 8. The raw count 
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 62
 author: "chloe-martin"
-last_updated: 2007-08-17
+last_updated: 2026-05-29
 lang: en
 ---
 Franklin Roosevelt signed 3,721 of them across twelve years and one month. George Washington signed eight across two terms. Woodrow Wilson signed 1,803 in less than eight years, more than every president before Theodore Roosevelt combined. The bare numbers tempt a simple story: a small instrument has become a vast one, and the trajectory tells you everything you need to know about how the American chief executive seized power across two centuries. The story is not wrong. It is, however, dangerously incomplete, and the people who recite it without context have generally not understood what they are counting.

@@ -9,7 +9,7 @@ excerpt: "Washington's second inaugural ran 135 words. William Henry Harrison's 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2007-08-12
+last_updated: 2026-05-29
 lang: en
 ---
 Washington's second inaugural took 135 words to deliver. William Henry Harrison required 8,460 in freezing March rain. Lincoln's second, the one carved on the wall of his memorial, used 701. Kennedy's ran 1,355. These four numbers tell a story that nobody has quite named, and that the standard categories of presidential rhetoric do not capture. The standard story says inaugurals got longer through the nineteenth century, then shorter under television, then settled into a roughly two-thousand-word modern form. That story is partly right and importantly incomplete. The deeper pattern is that inaugural length has moved in two directions at once. The text on the page has compressed since Lincoln. The apparatus around the text, the speechwriting teams, the rehearsal infrastructure, the broadcast scale, the audience reach, the post-delivery analysis industry, has inflated continuously. The word count went down. The rhetorical operation expanded. Both happened. Naming only one of them, as most coverage does, misses what the inaugural address has actually become.

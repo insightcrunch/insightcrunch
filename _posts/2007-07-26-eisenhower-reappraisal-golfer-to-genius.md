@@ -9,7 +9,7 @@ excerpt: "Eisenhower ranked 22nd of 31 in the 1962 Schlesinger poll. He now sits
 image: "/assets/images/blog/blog-90.webp"
 reading_time: 73
 author: "diana-patel"
-last_updated: 2007-07-26
+last_updated: 2026-05-29
 lang: en
 ---
 In 1962, Arthur Schlesinger Sr. published a poll of 75 American historians ranking the presidents. Dwight Eisenhower placed 22nd of 31, three slots below Rutherford Hayes and one slot above Chester Arthur. The verdict was professional consensus, not eccentric opinion. The Columbia historian who organized the survey had built his reputation on assessing the executive, and the scholars he canvassed represented the mainstream of the American history profession at the height of its mid-century confidence. Their reading of the man who left office only eighteen months earlier was that he had been an amiable caretaker who delegated to Dulles abroad and to Sherman Adams at home, who failed to lead on civil rights or McCarthy, who played golf during Little Rock, and who left no signature legislative achievement worth the name. A pleasant interregnum between Truman's responsibilities and Kennedy's energies.

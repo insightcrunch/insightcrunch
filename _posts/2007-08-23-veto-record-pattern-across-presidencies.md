@@ -9,7 +9,7 @@ excerpt: "FDR vetoed 635 bills. Jefferson vetoed zero. The gap reveals how presi
 image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2007-08-23
+last_updated: 2026-05-29
 lang: en
 ---
 Franklin Roosevelt struck down 635 acts of Congress between March 1933 and April 1945. Thomas Jefferson struck down none across his eight years in the same office. Between those two anchors sits the most revealing institutional record in American executive history, a record that historians have catalogued but rarely read as a coherent pattern. The veto count is not just a measure of legislative disagreement. It is a fossil of how each president understood the office, the Congress they faced, and the constitutional theory they brought to the desk.

@@ -9,7 +9,7 @@ excerpt: "Ford lost 1976 by 1.7 percent of the popular vote. A Ford win erases t
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 64
 author: "amanda-ross"
-last_updated: 2007-12-05
+last_updated: 2026-05-29
 lang: en
 ---
 Carter beat Ford by 1.7 percentage points in the popular vote on November 2, 1976, taking 297 electoral votes to 240. The margin was thinner than the rounding error in any contemporary poll. Ohio decided by 11,116 votes. Wisconsin by 35,245. Mississippi by 14,463. Move roughly 9,000 votes across Ohio and Mississippi together, leave Wisconsin alone, and Ford reaches 270 electoral votes and serves until January 1981.

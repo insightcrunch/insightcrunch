@@ -9,7 +9,7 @@ excerpt: "Wilson needed eight more Senate votes to ratify Versailles. He rejecte
 image: "/assets/images/blog/blog-36.webp"
 reading_time: 65
 author: "chloe-martin"
-last_updated: 2007-12-16
+last_updated: 2026-05-29
 lang: en
 ---
 The evening of September 25 that year, at Pueblo, Colorado, marked the practical end of Woodrow Wilson's political life, though formal collapse arrived a week later. The president had completed 22 days on a Western speaking tour: 8,000 miles by train, 40 set speeches, often two per day, all in pursuit of public pressure he believed would force Senate approval of the Treaty of Versailles. Near the close of the Pueblo address, before an audience of roughly 10,000, the chief executive broke down briefly, dabbing tears as he invoked dead American soldiers from the Argonne. Within hours, on the eastbound train, he suffered what physician Cary Grayson recorded as a nervous breakdown. Seven days later, on October 2, in the White House bedroom, came the massive stroke that paralyzed his left side, distorted his speech, and rendered him substantially incapable of governing.
