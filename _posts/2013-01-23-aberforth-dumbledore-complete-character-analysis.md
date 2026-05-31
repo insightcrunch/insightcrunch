@@ -6,17 +6,17 @@ date: 2013-01-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Aberforth Dumbledore", "Albus Dumbledore", "Hog's Head", "Order of the Phoenix"]
 excerpt: "Aberforth Dumbledore in Harry Potter as the proximate-care rebuke to Albus, traced through goats, mirror shards, and the resistance run from a shabby pub."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-01-23
+lang: en
 ---
-
 ## Introduction: The Brother Behind the Bar
 
 Behind the grimy counter of an underpopulated pub in Hogsmeade sits a man with long grey hair, piercing blue eyes the same shade as his more famous sibling's, and a perpetual smell of goats about his robes. He pours bad firewhisky to a clientele of hooded figures whose faces nobody is supposed to see. He cleans glasses with a rag that has not been clean in a decade. He answers questions in monosyllables when he answers at all. The wizarding world, when it bothers to notice him, treats him as the embarrassing relative of greatness, the family stain that refused to leave the family town.
 
-![Aberforth Dumbledore character analysis in Harry Potter](/assets/images/blog/blog-12.webp)
+![Aberforth Dumbledore character analysis in Harry Potter](/assets/images/blog/blog-58.webp)
 
 He is also, by any honest accounting, the most morally reliable man in the seven novels.
 

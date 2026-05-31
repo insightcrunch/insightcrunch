@@ -8,8 +8,9 @@ tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Characte
 excerpt: "Love as a magical mechanism in Harry Potter - Lily's sacrifice, maternal power, compelled love, friendship, and the strict operating conditions of devotion."
 image: "/assets/images/blog/blog-06.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "sophia-turner"
 last_updated: 2013-03-10
+lang: en
 ---
 ## Introduction: The Spell No Dark Wizard Can Cast
 

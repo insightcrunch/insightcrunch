@@ -6,17 +6,17 @@ date: 2013-02-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Viktor Krum", "Quidditch", "Triwizard Tournament"]
 excerpt: "Viktor Krum in Harry Potter is Rowling's study of fame as loneliness: the greatest young Seeker alive, watched by thousands, known by almost no one at all."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-02-02
+lang: en
 ---
-
 ## Introduction: The Most Watched, Least Known Boy at Hogwarts
 
 The crowd at the Quidditch World Cup screams a single syllable until it loses meaning, a chant beaten out by a hundred thousand throats, and the boy at the centre of it flies as though the noise belongs to someone else. That gap, between the deafening attention and the silence inside it, is the whole of the character. Long before he becomes a romantic complication or a plot mechanism, the celebrated Bulgarian Seeker is an experiment Rowling runs on a single hypothesis: what does it do to a young person to be looked at constantly and seen almost never?
 
-![Viktor Krum at the Quidditch World Cup in Harry Potter](/assets/images/blog/blog-14.webp)
+![Viktor Krum at the Quidditch World Cup in Harry Potter](/assets/images/blog/blog-75.webp)
 
 The answer the series gives is unsettling, and it is delivered almost entirely through behaviour rather than exposition. This athlete sulks. He scowls. He mumbles. He drifts to the back of the library and sits where the shelves hide him. He eats without speaking. When he finally does speak, the words come out cramped, accented, hesitant, as if language itself were an instrument he had been handed too late. For most of *Goblet of Fire* the reader receives him the way the watching schoolgirls do, as a surface: famous, foreign, formidable, faintly ridiculous. It takes a deliberate reader to notice that almost every scene featuring this young man is, structurally, a scene about a person being prevented from being known.
 
