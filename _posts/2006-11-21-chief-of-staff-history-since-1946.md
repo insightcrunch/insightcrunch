@@ -6,17 +6,17 @@ date: 2006-11-21
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "chief-of-staff", "white-house-staff", "executive-organization"]
 excerpt: "No president had a chief of staff before 1946. Trace how Steelman, Adams, and Haldeman built the unelected job that now quietly runs the modern White House."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-11-21
+lang: en
 ---
-
 On the afternoon of February 28, 1973, a young White House lawyer named John Dean sat across from the most powerful man he could see without an appointment with the president, and that man was not the president. He was Harry Robbins Haldeman, a former advertising executive from Los Angeles who held a title that had existed in formal terms for barely four years. Haldeman controlled who walked through the door to the Oval Office, which memoranda reached the Resolute desk, which phone calls got returned, and which cabinet secretaries waited weeks for fifteen minutes of presidential attention. He kept a famously short fuse and a famously precise calendar. Aides called the access he guarded the most valuable currency in Washington, and they were not exaggerating. The position Haldeman occupied carried no constitutional definition, required no Senate confirmation, appeared in no statute that created it, and answered to nobody except the one man who could fire him. Thirty years earlier, the job had not existed at all.
 
 That fact deserves to land with full weight. The office that now coordinates the entire executive branch, manages the legislative agenda, controls the president's calendar, screens the information that reaches the most powerful desk on earth, and frequently functions as the second most consequential position in American government is younger than the Social Security Act, younger than the aircraft carrier, younger than commercial television. No framer wrote it into Article Two. No amendment ratified it. No founding statute conjured it. It grew, quietly and then suddenly, out of the practical impossibility of one human being running a government that had swelled past the point any single person could hold in his head.
 
-![White House chief of staff history from Steelman to Haldeman institutional evolution - Insight Crunch](/assets/images/blog/blog-01.webp)
+![White House chief of staff history from Steelman to Haldeman institutional evolution - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 This is the story of how a coordinating aide became a gatekeeper, how a gatekeeper became an institution, and how an institution that no constitution authorized came to stand at the center of the modern presidency. It is a story with a clear shape and a clear argument, which this series calls the Gatekeeper Ratchet: every consequential strengthening of the chief of staff role survived the scandal, failure, or disgrace that discredited the individual who built it, so the institution climbed upward in power even as the people occupying it fell, one after another, into resignation, dismissal, indictment, or quiet rotation. The men changed. The job only grew.
 

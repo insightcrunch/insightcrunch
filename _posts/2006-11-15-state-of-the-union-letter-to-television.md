@@ -6,15 +6,15 @@ date: 2006-11-15
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "state-of-the-union", "presidential-rhetoric", "annual-message"]
 excerpt: "Washington spoke it, Jefferson wrote it, Wilson spoke it again in 1913, then television turned it into spectacle. The address has reversed its form twice."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2006-11-15
+lang: en
 ---
-
 On December 2, 1913, Woodrow Wilson walked into the chamber of the House of Representatives, stood before the assembled members of both houses, and did something no president had done since the last weeks of the John Adams administration. He spoke. He read his annual message aloud, in his own voice, to the faces of the men who would vote on it. The room was not sure how to take it. Some senators grumbled that the spectacle smelled of monarchy, of a king arriving to instruct his parliament. A Connecticut senator reportedly muttered about a return to the methods of George III. Wilson, a former professor of government who had written books about how the American system actually worked versus how the textbooks said it worked, knew exactly what he was doing. He had decided that the president should be a visible, audible person leading a government, not a remote signature at the bottom of a document read by a clerk.
 
-![State of the Union evolution Washington Jefferson Wilson television spectacle - Insight Crunch](/assets/images/blog/blog-01.webp)
+![State of the Union evolution Washington Jefferson Wilson television spectacle - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 What Wilson restored that afternoon was not an innovation. It was a revival of a practice that George Washington had begun and Thomas Jefferson had deliberately killed 112 years earlier. And what Wilson could not have known is that within a generation the thing he revived would be transformed again, this time by a technology that did not yet exist, into something neither Washington nor Jefferson would have recognized: a prime-time television broadcast watched by tens of millions, complete with applause lines, invited heroes seated beside the First Lady, and a rebuttal speech from the opposing party delivered to the same cameras minutes later. The annual constitutional report had become a performance. This is the story of how a single sentence in the Constitution produced three completely different institutions across 230 years, an institution that did not simply expand in one direction but reversed itself twice before settling into the form Americans now take for granted.
 

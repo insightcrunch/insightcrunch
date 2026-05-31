@@ -6,17 +6,17 @@ date: 2006-12-02
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "presidential-veto", "jackson-bank-veto", "legislative-relations"]
 excerpt: "Jackson's 1832 Bank Veto turned a quiet constitutional check into a public weapon aimed past Congress at the voters, and every president since has fired it."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 72
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-12-02
+lang: en
 ---
-
 On the morning of July 10, 1832, Andrew Jackson sent a document to the Senate that did something no presidential message had done before. He returned the bill to recharter the Second Bank of the United States without his signature, which the Constitution plainly allowed him to do. What set the message apart was not the refusal. It was the argument. Across thousands of words, Jackson did not confine himself to the narrow claim that the recharter bill was unconstitutional. He attacked the Bank as a moral and economic menace, a creature that fattened the rich at the expense of farmers and laborers, a institution that handed foreign stockholders a lien on American prosperity. He told the country that the Supreme Court did not get to decide for him what the Constitution meant. And then his managers printed the message by the tens of thousands and scattered it across the republic as a campaign tract for the election that fall.
 
 That is the moment the veto stopped being a lawyer's letter and became a politician's weapon. The clause that gave Jackson the power was old, dry, and procedural. The use he made of it was new, loud, and aimed past the Senate at the voters. This is the story of how a single sentence in Article I traveled from a rarely fired constitutional safety valve into one of the most reliable instruments of presidential leverage in American government, and of the long argument, still unsettled, over whether that journey was legitimate growth or quiet usurpation.
 
-![Jackson 1832 Bank Veto Message transforming the presidential veto into a political weapon - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Jackson 1832 Bank Veto Message transforming the presidential veto into a political weapon - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 ## The Clause Nobody Expected to Matter Much
 

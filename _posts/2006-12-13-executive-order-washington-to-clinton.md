@@ -6,15 +6,15 @@ date: 2006-12-13
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "executive-order", "unilateral-action", "presidential-power"]
 excerpt: "Washington signed 8 executive orders. FDR signed 3,721. Clinton signed 364. Trace how the directive grew into a quasi-legislative weapon across two centuries."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-12-13
+lang: en
 ---
-
 On the evening of April 8, 1952, Harry Truman went on national radio and told the country that the federal government had taken possession of its steel mills. A labor dispute threatened to halt production during the Korean War, and rather than wait for Congress to act, Truman signed a directive numbered 10340 and seized the mills outright. No statute authorized the move. He acted on the claim that the office itself carried an inherent authority to meet emergencies, and that the claim was enough. Seven weeks later the Supreme Court told him he was wrong, in a decision that historians still treat as the clearest constitutional boundary ever drawn around a president acting alone.
 
-![Executive order institutional biography Washington to Clinton presidential power arc - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Executive order institutional biography Washington to Clinton presidential power arc - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 That single episode holds the entire story of the instrument this article follows across two centuries. A pen. A claim of authority drawn from nowhere in particular in the constitutional text. And, eventually, a court willing to say no. The directive Truman signed belonged to a family of presidential actions that the framers never named, never authorized in so many words, and never imagined would grow into a quasi-legislative tool capable of integrating an army, interning a population, creating federal agencies, and reshaping the entire regulatory machinery of the government. George Washington signed eight such directives across two terms. Franklin Roosevelt signed 3,721 across twelve years. Bill Clinton, operating in what looked from the raw numbers like a season of restraint, signed 364. Reading those three figures in sequence tells you that something fundamental changed, but it does not tell you what, and the gap between the count and the meaning is the puzzle this institutional biography exists to solve.
 

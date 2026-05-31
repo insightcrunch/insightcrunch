@@ -6,17 +6,17 @@ date: 2006-12-18
 categories: ["Leisure"]
 tags: ["lyndon-johnson", "close-read", "us-presidents", "voting-rights-act", "we-shall-overcome", "selma"]
 excerpt: "LBJ told Congress 'and we shall overcome' on March 15, 1965, eight days after Selma's Bloody Sunday. The movement's anthem turned into the law of the land."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 2006-12-18
+lang: en
 ---
-
 In a small frame house on Lapsley Street in Selma, Alabama, a knot of weary organizers crowded around a television set on the evening of March 15, 1965. Martin Luther King Jr. sat among them, eight days removed from the violence at the Edmund Pettus Bridge, surrounded by aides who had spent the week burying the wounded count and planning the next march. On the screen, a Texan with a flat drawl stood before a joint session of Congress and began to speak about freedom. For most of forty-five minutes the men in that room listened in the particular silence of people who have learned not to expect much from white politicians. Then the president reached the climax of his argument, paused, lifted his eyes from the lectern, and pronounced four words that belonged to them, that they had sung in jail cells and on courthouse steps and in the back of churches with the windows broken out. According to John Lewis, who was in the room nursing a skull fractured on that bridge, a tear ran down King's cheek. He had heard a president of the United States adopt the anthem of a Black freedom movement as the creed of the American republic.
 
 The address that produced that tear is the subject of this close read. It is one of the few speeches in the American canon whose effect can be measured almost to the day in legislation: the Voting Rights Act, requested that night, became law on August 6, 1965, and it reshaped the political map of the South more completely than any statute since Reconstruction. The speech ran to roughly 3,920 words. It was written in a single feverish day. It has been called, by people who do not agree on much else, the finest presidential address of the twentieth century and a piece of moral theft. This article reads it section by section, traces the eight days that produced it, and tests the argument it built.
 
-![Lyndon Johnson We Shall Overcome March 1965 voting rights address to Congress close read - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Lyndon Johnson We Shall Overcome March 1965 voting rights address to Congress close read - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The house thesis of this series holds that the modern presidency was forged in crisis and that the emergency powers minted in each crisis outlived the emergency, leaving every later occupant of the office wielding authority designed for conditions that had passed. Lyndon Johnson's voting-rights address is the cleanest counterexample and the cleanest confirmation at once. It shows expanded federal power being turned outward, against the states, to enforce a constitutional guarantee that had sat unenforced for ninety years. The same enlargement of executive reach that produced internment and warrantless surveillance produced, in this instance, the dismantling of the literacy test and the poll tax. The ratchet of central authority is not morally fixed. On March 15, 1965, it cut in favor of the franchise.
 

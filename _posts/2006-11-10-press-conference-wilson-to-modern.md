@@ -6,15 +6,15 @@ date: 2006-11-10
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "press-conference", "presidential-press-relations", "white-house-briefings"]
 excerpt: "Wilson opened the first regular White House press meetings in 1913 and FDR held 998. Since Kennedy went live in 1961, the format has declined sharply."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-11-10
+lang: en
 ---
-
 Picture the Oval Office on a Tuesday morning in the autumn of 1934. Forty or so reporters file in past the desk, hats in hand, jostling for position in a rough semicircle three deep. There are no microphones, no cameras, no lectern, no advance text, and no seating chart. The man behind the desk lights a cigarette, leans back, and begins the conversation himself, often with a joke about the weather or a needle aimed at a columnist he dislikes. For the next half hour he answers whatever is thrown at him, sets the ground rules sentence by sentence ("you can use that," "that one is background only," "do not quote me on this"), and steers the morning's news without ever rising from his chair. Franklin Roosevelt did this twice a week, year after year, in war and in peace, until the practice had become so routine that the reporters stopped marveling at it. By the time he died he had run nearly a thousand of these sessions, a figure no successor would approach.
 
-![Presidential press conference institutional evolution Wilson 1913 to FDR 998 to modern combat - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Presidential press conference institutional evolution Wilson 1913 to FDR 998 to modern combat - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Now picture the East Room four decades later, or in any modern administration you care to name. The president stands alone at a lectern bearing the seal. The room is wired for live broadcast. A teleprompter holds an opening statement drafted by a communications team that spent two days anticipating questions and rehearsing answers in a mock session the night before. The reporters in their assigned seats raise their hands, but the president already knows roughly whom he will call on and in what order. Each exchange is a small contest staged for an audience of millions: the questioner performing skepticism for the camera, the president performing command. The whole event is a calculated risk, scheduled only when the upside outweighs the danger, and held perhaps a few dozen times across a full term rather than twice a week.
 

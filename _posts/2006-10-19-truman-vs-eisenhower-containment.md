@@ -6,17 +6,17 @@ date: 2006-10-19
 categories: ["Leisure"]
 tags: ["harry-truman", "dwight-eisenhower", "comparative", "us-presidents", "containment", "cold-war-strategy"]
 excerpt: "Truman named containment in 1947 and fought for it in Korea. Eisenhower ran it through the CIA and nuclear threat. One doctrine, two very different machines."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2006-10-19
+lang: en
 ---
-
 On the evening of April 25, 1950, Paul Nitze carried a stack of typescript into the office of Secretary of State Dean Acheson and laid down a document that would cost the United States Treasury more than any peacetime memorandum in the country's history. The paper had no title that anyone outside the building would recognize for years. It was numbered NSC-68. Its argument was blunt to the point of alarm: the Soviet Union intended to dominate the Eurasian landmass, the free world possessed no automatic defense against that ambition, and the only adequate answer was a vast and immediate expansion of American military power, conventional and nuclear together, at whatever fiscal price the moment demanded. Harry Truman read it, shelved it, worried about its cost, and then watched North Korean tanks cross the 38th parallel ten weeks later. The invasion did what Nitze's prose alone could not. It turned a rejected budget into national policy.
 
 Three years after that, a different man sat in the same chair and quietly decided the document was reckless. Dwight Eisenhower had spent his adult life inside the military machine NSC-68 wanted to enlarge, and he distrusted the assumption that safety could be bought by spending without limit. He believed a republic could ruin itself defending its freedom. He thought there was a cheaper way to hold the line against Moscow, and over eight years he built it: fewer divisions, more bombers, more warheads, and a Central Intelligence Agency turned into an instrument of statecraft that could topple a government for the price of a single afternoon's artillery in Korea. Two presidents, one strategic objective, and two machines for reaching it that looked almost nothing alike. That divergence, and what it cost, is the subject worth examining.
 
-![Truman versus Eisenhower containment comparison Cold War doctrine operational styles - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Truman versus Eisenhower containment comparison Cold War doctrine operational styles - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 ## The Word That Organized Forty Years
 

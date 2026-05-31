@@ -6,15 +6,15 @@ date: 2006-10-24
 categories: ["Leisure"]
 tags: ["andrew-jackson", "thomas-jefferson", "comparative", "us-presidents", "american-history", "democratic-party", "political-tradition"]
 excerpt: "Jefferson named the Democratic-Republican Party and Jackson built the Democratic Party. Both are claimed as founders, yet their visions often contradict."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-10-24
+lang: en
 ---
-
 On the evening of April 13, 1830, the men who ran the Democratic Party gathered at Brown's Indian Queen Hotel in Washington to honor a dead Virginian. The occasion was a dinner marking the birthday of Thomas Jefferson, by then four years in his grave, and the room was thick with the kind of ritual that political parties use to tell themselves who they are. Toasts had been printed in advance. The official ones celebrated states' rights, strict construction, and the memory of the man who had taught the party to distrust concentrated power. Then the sitting president rose. He lifted his glass, fixed his eyes on Vice President John C. Calhoun across the table, and offered seven words that nobody had printed: "Our Federal Union: It must be preserved." Calhoun, pale and furious, answered with his own: "The Union, next to our liberty, most dear." The party that had assembled to celebrate Jefferson had just watched its living leader stake out ground that the dead one had helped make dangerous.
 
-![Andrew Jackson and Thomas Jefferson as rival founders of the Democratic Party tradition - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Andrew Jackson and Thomas Jefferson as rival founders of the Democratic Party tradition - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 That dinner is the cleanest single image of the problem this article exists to examine. The Democratic Party claims two founders, and it has claimed them together for so long that the pairing feels natural, almost grammatical: Jefferson-and-Jackson, the way one says ham-and-eggs or rise-and-fall. For most of the twentieth century the party held an annual fundraising banquet under their joined names, the Jefferson-Jackson Day dinner, in nearly every state. The hyphen did a lot of quiet work. It implied a single tradition handed down from one man to the next, a relay race of democratic conviction running from Monticello to the Hermitage and onward. The trouble is that the men on either side of that hyphen did not agree about the things parties are supposed to agree about, and on at least one occasion, captured perfectly by the 1830 dinner, one of them used a celebration of the other to repudiate a doctrine the other had invented.
 

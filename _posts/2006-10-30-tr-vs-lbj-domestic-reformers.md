@@ -6,15 +6,15 @@ date: 2006-10-30
 categories: ["Leisure"]
 tags: ["theodore-roosevelt", "lyndon-johnson", "comparative", "us-presidents", "progressive-era", "great-society"]
 excerpt: "TR's Square Deal opened the progressive era; LBJ's Great Society finished the New Deal vision. Which president transformed America more, and by which measure?"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2006-10-30
+lang: en
 ---
-
 On the morning of October 3, 1902, a coal operator named George Baer sat in a temporary White House sickroom and refused to look across the table at the union men he had come to despise. Theodore Roosevelt, his leg broken in a recent carriage accident and propped in a wheelchair, had summoned both sides of the great anthracite strike to Washington for a meeting no president had ever convened. The operators believed they owned the coal, the mines, and the right to dictate terms to the men who dug it. Roosevelt believed something more radical and more quietly subversive of the entire nineteenth-century order: that the public had an interest in whether the country froze that winter, and that the president of the United States was the public's agent for protecting it. Baer had recently written, in a letter that would haunt him, that the rights of laboring men would be cared for by the Christian gentlemen to whom God in His infinite wisdom had given control of the property interests of the nation. Roosevelt, reading that line, said it confirmed his low opinion of the man's intelligence.
 
-![Theodore Roosevelt and Lyndon Johnson compared as domestic reformers Square Deal versus Great Society - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Theodore Roosevelt and Lyndon Johnson compared as domestic reformers Square Deal versus Great Society - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 Sixty-three years later, on July 30, 1965, Lyndon Johnson flew to Independence, Missouri, to sign the bill creating Medicare in the modest presence of the only living president who had tried and failed to pass national health insurance. Harry Truman sat beside him as Johnson handed over the first two Medicare cards ever issued. The choreography was deliberate. Johnson understood, better than almost any president in the country's history, that a signature on a page is a claim on memory, and that the man who signs a law inherits the credit and the blame for everything that follows. He had spent the previous eighteen months turning a martyred predecessor's stalled agenda into the largest burst of social legislation since the New Deal, and he was not finished. Before his presidency ended he would sign bills touching civil rights, voting rights, health care, education, immigration, housing, the environment, consumer protection, the structure of the cabinet, and the basic relationship between the federal government and the poorest Americans alive.
 
