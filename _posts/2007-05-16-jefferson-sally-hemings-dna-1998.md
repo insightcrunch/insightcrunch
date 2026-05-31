@@ -6,17 +6,17 @@ date: 2007-05-16
 categories: ["Leisure"]
 tags: ["thomas-jefferson", "myth-bust", "us-presidents", "sally-hemings", "dna-evidence", "historical-proof"]
 excerpt: "Callender alleged it in 1802. Scholars dismissed it for 196 years. The 1998 DNA test on Jefferson and Sally Hemings ended the dismissal, not the debate."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-05-16
+lang: en
 ---
-
 In a laboratory at the University of Leicester in the autumn of 1998, a pathologist named Eugene Foster waited for a set of Y-chromosome haplotypes to resolve. He had spent months collecting blood from elderly men scattered across the United States, men who shared one thing: each descended, in an unbroken father-to-son line, from somebody tangled in the oldest sex scandal in American political history. One line ran back to Field Jefferson, the paternal uncle of the third president, and therefore carried the same Y chromosome Thomas Jefferson carried. One line ran back to the sons of John Carr, grandfather of the two nephews Jefferson's white family had always blamed. One line ran back to Thomas Woodson, the man many Black families believed was Sally Hemings's first child. And one line, the thinnest of all, a single surviving male descendant, ran back to Eston Hemings, the youngest son Sally Hemings bore at Monticello in 1808.
 
 When the markers came back, they did something no diary entry, no deathbed confession, no congressional testimony had managed to do in a hundred and ninety-six years. They spoke in a language that did not care about reputation. The descendant of Eston Hemings carried the rare Jefferson haplotype. The descendants of the Carr brothers did not. The myth that had been comfortable for nearly two centuries, the myth that the whole business was the invention of a drunken pamphleteer, died in that result. What replaced it was not certainty. It was a sharper and more honest argument about what evidence can and cannot prove, and that argument is the real subject of this article.
 
-![Thomas Jefferson and Sally Hemings 1998 DNA evidence evidentiary arc reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Thomas Jefferson and Sally Hemings 1998 DNA evidence evidentiary arc reconstruction - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 ## The myth, stated plainly, and the myth behind the myth
 

@@ -6,19 +6,19 @@ date: 2007-05-05
 categories: ["Leisure"]
 tags: ["george-washington", "myth-bust", "us-presidents", "historical-myths", "washington-dentures", "slavery-history"]
 excerpt: "Washington's teeth were never wood. They were ivory, brass, lead, gold, and human teeth, some bought from enslaved people at his Mount Vernon plantation."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2007-05-05
+lang: en
 ---
-
 On the morning of April 30, 1789, the man about to become the first president of the United States had exactly one of his own teeth left in his head. It was a lower left premolar, and it was failing. Everything else in his mouth was a feat of carpentry and metalwork: a lower plate of carved ivory and animal bone, a set of human teeth fixed with brass, the whole apparatus held against his gums by springs that pushed so hard he had to clench to keep his jaw closed. When he stood on the balcony of Federal Hall and took the oath, witnesses noticed that he barely opened his mouth. He read the oath in a low, halting voice. Then he retreated indoors to deliver his inaugural address to Congress in a near-mumble, his hands trembling, his words swallowed. The crowd in the street below assumed they were watching modesty, the famous Washington reserve. They were watching a man trying not to let his teeth fall out in public.
 
 The country has spent two centuries telling itself a softer story about that mouth. The teeth were wooden, the legend goes, a folksy detail that turns a grown man's chronic agony into a charming bit of frontier improvisation, the sort of thing that belongs in a primary-school pageant beside the cherry tree and the silver dollar thrown across the Potomac. The wooden teeth are false. Not metaphorically false, not exaggerated, but materially, physically, documentably false. No denture Washington ever wore was made of wood. The surviving sets still exist, in museum vaults, and they can be examined, X-rayed, and chemically analyzed. They contain ivory and bone and metal and human teeth. They do not contain wood for biting.
 
 What the wooden-teeth story hides is not a neutral fact about cabinetry. It hides the most uncomfortable truth in the whole account: that some of the human teeth set into the first president's mouth were bought, in May 1784, from enslaved people at Mount Vernon, recorded in his own plantation ledger in a single cold line of accounting. The myth is not merely wrong. It is anesthetic. It replaces a record of bodies, money, and power with a fairy tale about wood.
 
-![George Washington dentures real materials ivory human teeth enslaved purchase myth-bust - Insight Crunch](/assets/images/blog/blog-01.webp)
+![George Washington dentures real materials ivory human teeth enslaved purchase myth-bust - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 This article does three things the wooden-teeth legend was built to prevent. It establishes, from the physical artifacts and the forensic literature, exactly what Washington's dentures were made of, set by set. It traces where the word "wooden" likely came from, since the answer turns out to be more interesting than a simple lie. And it reads the 1784 ledger entry closely, because the entry is the document the whole soft legend exists to keep out of the room. The verdict is not that Washington was uniquely monstrous. The verdict is that a national myth performed a specific kind of work, smoothing a record that deserved to stay rough, and that the cost of the smoothing falls on people whose names the ledger never bothered to write down.
 

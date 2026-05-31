@@ -6,19 +6,19 @@ date: 2007-04-29
 categories: ["Leisure"]
 tags: ["ronald-reagan", "myth-bust", "us-presidents", "historical-myths", "teflon-president", "scandal-handling"]
 excerpt: "Pat Schroeder called Reagan the Teflon president in 1983 and the nickname stuck for decades. Its accuracy was never graded. Here is the honest scorecard."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2007-04-29
+lang: en
 ---
-
 On the morning of August 2, 1983, Congresswoman Patricia Schroeder of Colorado was frying eggs for her children before she left for the Capitol. The eggs slid off the pan without sticking, and the image stayed with her. Later that day, on the floor of the House of Representatives, she reached for the kitchen to describe something that had been frustrating Democrats for two and a half years. Ronald Reagan, she said, was a Teflon president. Nothing stuck to him. Mistakes that would have scorched any other occupant of the office slid right off the man in the Oval Office, and the public never seemed to hold him responsible. The phrase took about four seconds to deliver. It outlived Schroeder's career, outlived Reagan, and became the single most durable shorthand anyone ever attached to his presidency.
 
 The phrase was an accusation dressed as an observation, and like most memorable political insults it was repeated far more often than it was tested. For more than four decades, journalists, columnists, and even working political scientists have used Teflon as if it described a settled fact about how Reagan governed and how Americans responded to him. Almost no one stopped to grade the claim against the record. Did nothing stick? Or did the label congeal into a myth precisely because it was catchy, and because the people who repeated it were not in the business of auditing their own metaphors?
 
 This article grades the Teflon label the way a teacher grades a confident but sloppy essay. The honest mark is a C-plus. Reagan genuinely survived a remarkable run of controversies that would have crippled a less skilled communicator, and the men and women who built his media operation deserve a place in any serious account of how the modern presidency manages crisis. But the label also fails, and it fails on the largest scandal of the era. Iran-Contra stuck. It stuck in 1986 and 1987 in the form of the single steepest approval collapse of Reagan's eight years, and it has stuck harder in the decades since, as the documentary record filled in. Three issues that drew little real-time blame, the AIDS response, the explosion of homelessness, and the savings and loan collapse, have attached themselves to Reagan's name in retrospect with a tenacity that makes the original metaphor look quaint. Teflon, it turns out, is a coating, not a constitution. It worked on some surfaces and failed on others, and the pattern of where it held and where it gave way tells you more about the Reagan presidency than the slogan ever did.
 
-![Ronald Reagan Teflon president label graded against the actual scandal record - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Ronald Reagan Teflon president label graded against the actual scandal record - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 ## Where the Word Came From
 

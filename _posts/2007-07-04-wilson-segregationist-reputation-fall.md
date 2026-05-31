@@ -6,15 +6,15 @@ date: 2007-07-04
 categories: ["Leisure"]
 tags: ["woodrow-wilson", "consensus-flip", "us-presidents", "historical-reappraisal", "segregation", "racial-justice"]
 excerpt: "Wilson ranked 4th in the 1962 historians' poll and just 13th today. The fall tracks his federal-segregation record and the 1915 Birth of a Nation screening."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2007-07-04
+lang: en
 ---
-
 On a November night in 2015, a group of Princeton undergraduates calling themselves the Black Justice League walked into Nassau Hall, the oldest building on the oldest part of the campus, and refused to leave the office of the university president. They had a list of demands, and the first one concerned a name. They wanted the most honored name on the campus, the name attached to the residential college where many of them slept and to the graduate school of public and international affairs where the university trained future diplomats and policymakers, stripped from the buildings. The name was Woodrow Wilson, Princeton's thirteenth president before he was the nation's twenty-eighth, the only president of the United States to hold a doctorate, the scholar-statesman whose face had stared down from the walls of the institution he was thought to have remade. The students argued that the man being honored had used the power of the federal government to throw Black Americans out of their jobs, that he had welcomed into the White House a film celebrating the Ku Klux Klan, and that a university committed to service in the nation's interest should not advertise his name as the standard of that service.
 
-![Woodrow Wilson falling reputation segregationist federal civil service record reappraisal - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Woodrow Wilson falling reputation segregationist federal civil service record reappraisal - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 The protest was easy to dismiss as a campus eruption, the sort of thing that flares and fades. It did not fade. In June 2020, after five years of debate, hearings, and a formal trustee report, Princeton removed Wilson's name from both the school and the college. The decision did not invent a new charge against Wilson. Every fact the trustees cited had been part of the documentary record for a hundred years. What had changed was not the evidence but the weight scholars and citizens were willing to place on it. That shift in weighting is the entire story of how a president who sat fourth on the most respected ranking of American presidents in the middle of the twentieth century sits thirteenth today, and why the historians who moved him insist they did so for reasons that have nothing to do with fashion and everything to do with the archive.
 
