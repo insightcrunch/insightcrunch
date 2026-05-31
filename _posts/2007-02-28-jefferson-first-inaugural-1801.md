@@ -6,19 +6,19 @@ date: 2007-02-28
 categories: ["Leisure"]
 tags: ["thomas-jefferson", "close-read", "us-presidents", "american-history", "first-inaugural", "1800-election", "peaceful-transfer"]
 excerpt: "Jefferson told a divided nation we are all Republicans, we are all Federalists in 1801, the first peaceful transfer of power between rival American parties."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2007-02-28
+lang: en
 ---
-
 The new President spoke so quietly that most of the crowd packed into the unfinished Senate chamber could not make out the words. Witnesses left frustrated. They had walked to the north wing of a Capitol that was still a construction site, its dome unbuilt, its corridors smelling of fresh plaster and sawdust, to hear the man who had just survived the most poisonous election the young republic had yet endured. What reached their ears was a murmur. Newspapers printed the text the next morning, because almost no one in the room had actually heard it. The voice failed. The document did not.
 
 That document ran to roughly 1,730 words. It took perhaps ten minutes to deliver and a century to absorb. Inside it sat a single clause that schoolchildren would later memorize and that scholars would still be arguing about two hundred years on: the assertion that Americans, whatever they called themselves, shared more than the campaign had suggested. The man who wrote it had spent the previous decade building one of the two warring parties whose existence he now appeared to wave away. He had been called an atheist, a Jacobin, a coward, and a danger to the Constitution. He had watched his own running mate nearly steal the presidency out from under him. And on the morning he took the oath, the sitting President of the United States had already climbed into a coach and left town rather than watch.
 
 This is a close read of that address, line by line and section by section, set against the wreckage of the 1800 election that produced it. The argument here is that the First Inaugural was not the olive branch it is usually remembered as. It was something more interesting and more calculated: a performance of conciliation built on the naming of shared principles, designed to disarm opponents without surrendering an inch of policy ground, delivered by a man who would govern far more partisanly than he spoke. Understanding the gap between the rhetoric and the record is the whole point.
 
-![Thomas Jefferson 1801 First Inaugural Address conciliation we are all Republicans we are all Federalists - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Thomas Jefferson 1801 First Inaugural Address conciliation we are all Republicans we are all Federalists - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 ## The Election That Made the Speech Necessary
 

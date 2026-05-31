@@ -6,17 +6,17 @@ date: 2007-01-09
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "close-read", "us-presidents", "jfk-inaugural", "ted-sorensen", "presidential-rhetoric"]
 excerpt: "JFK's 1,355-word inaugural holds ten sentences most Americans still recognize. Sorensen drafted, Kennedy revised, and the balance of the speech was precise."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2007-01-09
+lang: en
 ---
-
 The morning of January 20, 1961 was the coldest inauguration day in living memory, with eight inches of snow on the ground in Washington and an overnight temperature that had dipped near twenty degrees. Army flamethrowers had been used to clear Pennsylvania Avenue. Robert Frost, eighty-six years old, rose to read a poem he had written for the occasion, found that the glare off the snow made his typescript unreadable, and recited "The Gift Outright" from memory instead. Marian Anderson sang the national anthem. Cardinal Cushing of Boston offered an invocation so long that smoke began to rise from the wiring of the lectern's electric heater. And then a forty-three-year-old man stood bareheaded in the cold, took the oath from Chief Justice Earl Warren, and delivered an address that ran one thousand three hundred fifty-five words and lasted under fourteen minutes.
 
 Most of those words are forgotten. That is the ordinary fate of presidential rhetoric, and there is nothing remarkable about it. What makes the January 1961 address worth a close reading is the opposite phenomenon: roughly ten sentences from inside it broke loose, entered the common stock of American political language, and have stayed there for more than sixty years. A reader who has never seen the full text can still complete "ask not what your country can do for you." Speechwriters still study the parallelism of "pay any price, bear any burden." The puzzle this article sets out to solve is mechanical rather than sentimental: what specifically did Theodore Sorensen and the president-elect build into those particular sentences that allowed them to detach from their occasion and survive as standalone quotations, when the surrounding paragraphs did not?
 
-![JFK 1961 inaugural address ask not ten sentences close read - Insight Crunch](/assets/images/blog/blog-01.webp)
+![JFK 1961 inaugural address ask not ten sentences close read - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The honest answer requires resisting two myths at once. The first myth holds that the address sprang fully formed from a single inspired author, whether Sorensen or Kennedy depending on which partisan is telling the story. The second myth holds that the speech was a Cold War call to arms whose every line pointed toward the confrontations that followed. Both flatten a more interesting record. The drafting was collaborative, iterative, and indebted to sources ranging from the Gettysburg Address to the Book of Isaiah. And the most enduring sentences were not the most belligerent ones. The line that outlived all the others asked Americans for sacrifice, not for war.
 

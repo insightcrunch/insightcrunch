@@ -6,17 +6,17 @@ date: 2007-03-05
 categories: ["Leisure"]
 tags: ["george-washington", "close-read", "us-presidents", "farewell-address", "alexander-hamilton", "presidential-rhetoric"]
 excerpt: "Washington's Farewell was drafted with Hamilton, then revised heavily by Washington himself, and its warnings on faction and foreign alliance still echo."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2007-03-05
+lang: en
 ---
-
 On the morning of September 19, 1796, a printer named David Claypoole sat in his office on Market Street in Philadelphia and set into type a document that no one would ever hear spoken from a podium. The piece carried no headline announcing a speech, because there had been no speech. It opened simply, addressed "To the PEOPLE of the United States," and ran across the front and inside pages of the American Daily Advertiser under the byline of a man who had already decided to walk away from the most powerful office his new country had invented. Claypoole had been summoned a few days earlier to the presidential residence, where the sitting president personally asked him to print the text and corrected the proofs in his own hand before publication. The most famous farewell in the history of the American presidency was not a farewell at all in the theatrical sense. It was a newspaper article.
 
 That detail matters more than it first appears, because the address has been remembered for two centuries as if George Washington climbed a rostrum and delivered it through a rising tide of applause. He did nothing of the kind. He released it to the press, declined to read it aloud, and let it travel the country at the speed of reprinting. Within weeks newspapers from Massachusetts to Georgia had carried it forward, and the text began its long second life as scripture for a political tradition that would invoke it, distort it, weaponize it, and quietly ignore it for the next two hundred years. To understand what the Farewell Address actually says, and who actually wrote it, is to understand something fundamental about how the early republic decided what a president was supposed to be, and how far later presidents would drift from that template while still claiming its authority.
 
-![Washington Farewell Address 1796 Hamilton edits close read of the layered drafting - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Washington Farewell Address 1796 Hamilton edits close read of the layered drafting - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 ## The Manuscript Nobody Owns Alone
 
