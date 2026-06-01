@@ -6,16 +6,17 @@ date: 2013-07-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Prophecy", "Free Will", "Destiny"]
 excerpt: "How prophecy and free will collide in Harry Potter: why the prediction is empty, why belief makes it real, and how choice quietly defeats fate in the saga."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-07-20
+lang: en
 ---
 ## Introduction: The Sentence That Made Itself True
 
 There is a sound recorded in a glass sphere deep beneath the Ministry of Magic, and that sound is the engine of the entire saga. Sybill Trelawney, slack-jawed and unaware, speaks a string of words in the upstairs room of a Hog's Head pub. A man crouched at the keyhole hears half of them. He carries the half he heard to the most dangerous wizard alive, and that wizard, acting on a fragment, drives to a cottage in Godric's Hollow and kills two people he need never have touched. Everything that follows across seven volumes, the deaths and the survivals, the marked boy and the broken man, unspools from that half-heard utterance. And the deepest joke of the series, the one Rowling spends six books setting up and one book detonating, is that the words themselves were never the cause of anything.
 
-![Prophecy and free will analysis across the Harry Potter series](/assets/images/blog/blog-15.webp)
+![Prophecy and free will analysis across the Harry Potter series](/assets/images/blog/blog-31.webp)
 
 This is the bait-and-switch at the heart of the books. The reader is trained, by every fantasy convention available, to treat a prophecy as a load-bearing structure: the predicted thing will happen, the only question is how. We expect the prediction to be a constraint on reality, a track laid down in advance along which the plot must run. Rowling lets the reader believe this for years. Then, in a quiet office in *Order of the Phoenix*, she has Albus Dumbledore explain that the foretelling did nothing on its own. It described a condition that would only ever come into being if someone took the words seriously enough to act on them. The man who acted was the man who feared the words most. He believed the prophecy, and his belief, not the prophecy, built the world the prophecy described.
 
