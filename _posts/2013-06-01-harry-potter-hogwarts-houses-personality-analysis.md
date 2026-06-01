@@ -6,16 +6,17 @@ date: 2013-06-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sorting Hat", "Hogwarts Houses", "Personality Theory"]
 excerpt: "How the Sorting Hat in Harry Potter works as a real personality theory: it measures the values you choose over the traits you merely happen to possess."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2013-06-01
+lang: en
 ---
 ## Introduction: The Quiz That Is Not a Quiz
 
 There is a small industry built on the promise that an online questionnaire can tell you which Hogwarts community you belong to. Answer twenty multiple-choice prompts about your favorite color, your reaction to a spider, whether you would rather be feared or loved, and a results page assigns you a crest and a set of colors. The premise of these quizzes is that the four founders' communities are buckets of personality, that each person is fundamentally one type, and that a clever instrument can read your type off the surface of your preferences. This premise is almost exactly wrong. It is, in fact, the single most persistent misreading of how the enchanted relic on the stool actually operates, and untangling it opens up one of the most psychologically sophisticated arguments Rowling ever smuggled into a story for eleven-year-olds.
 
-![Hogwarts Houses as personality theory and the Sorting Hat in Harry Potter](/assets/images/blog/blog-06.webp)
+![Hogwarts Houses as personality theory and the Sorting Hat in Harry Potter](/assets/images/blog/blog-63.webp)
 
 Here is the argument this essay will make, stated plainly so that it can be tested against the text. The thousand-year-old talking cap does not sort by trait. It sorts by value. It does not ask what you are; it asks what you prioritize when two parts of yourself disagree. Hermione Granger is both brave and brilliant, possessed of a courage as real as her intellect, yet she is not placed among the eagles of the tower whose ethos is the life of the mind. Severus Snape is both brave and cunning, a man capable of standing in a graveyard and lying to the most accomplished Legilimens alive, yet his loyalties were forged in the dungeons of the serpent. The reason is not that either of them lacks the trait the other community prizes. The reason is that, when forced to choose what mattered most, each chose differently. The relic surfaces the choice. The choice reveals the self.
 

@@ -6,16 +6,17 @@ date: 2013-05-14
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Redemption", "Severus Snape", "Moral Philosophy"]
 excerpt: "Redemption arcs in Harry Potter decoded: why Snape and Regulus earned it through costly action while Draco and Pettigrew only felt regret and changed nothing."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 58
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-05-14
+lang: en
 ---
 ## Introduction: The Ledger That Only Counts What You Do
 
 There is a quiet, unforgiving accountancy running underneath the seven books, and almost no reader notices it because it never announces itself. The series talks constantly about love, about courage, about choice. It rarely uses the word that governs its sharpest moral judgments. Yet judgment is everywhere, and it follows a rule so consistent that once you see it you cannot unsee it. A character is permitted to climb out of the moral pit only by doing something that costs them, at real risk, for someone else. Feeling sorry buys nothing. Saying you have changed buys nothing. Intending to be better buys, if anything, less than nothing, because intention without action is the precise alibi the worst people in these books reach for.
 
-![Redemption arcs in Harry Potter analyzed across all seven books](/assets/images/blog/blog-03.webp)
+![Redemption arcs in Harry Potter analyzed across all seven books](/assets/images/blog/blog-01.webp)
 
 Set the cast on a single table and the pattern becomes brutal in its clarity. The Potions master who spent two decades as a double agent is treated as fully absolved. The runaway pure-blood heir who drowned in a cave to wound the Dark Lord is treated as fully absolved. The schoolboy who lowered his wand on a tower is given a careful, partial credit and nothing more. The betrayer whose silver hand throttles him at the instant of a single soft impulse is given nothing at all. The estranged brother who walks back through a door during a battle gets his family but not the laurel. The cousin who hands over a cup of tea and mutters that you are not, after all, a waste of space, gets the smallest verdict in the entire work, and the verdict is yes. These outcomes are not arbitrary. They are the output of one formula applied with the cold patience of a bookkeeper.
 

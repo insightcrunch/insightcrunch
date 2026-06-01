@@ -6,16 +6,17 @@ date: 2013-04-29
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Death", "Mortality", "Deathly Hallows"]
 excerpt: "How Harry Potter turns the question of facing death into its only real moral test, judging every character by courage, fear, and what they do with mortality."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-04-29
+lang: en
 ---
 ## Introduction: The Boy Who Lived to Die
 
 The series begins with a murder and ends with a resurrection. Between those two events Rowling buries more than a dozen named characters, invents an artifact that splits the soul to cheat the grave, conjures an object that summons the lost back into the air, and then walks her teenage protagonist into a forest to be killed on purpose. Strip away the wands and the Quidditch and the talking portraits, and what remains is a seven-volume argument about mortality more rigorous than most works that announce themselves as philosophy.
 
-![Death and mortality analysis across all Harry Potter books](/assets/images/blog/blog-15.webp)
+![Death and mortality analysis across all Harry Potter books](/assets/images/blog/blog-77.webp)
 
 The argument runs like this. The refusal to accept the end is the root of every evil in the wizarding world. Not cruelty. Not bigotry. Not the lust for power. Those are symptoms. The disease is one man's primal terror of ceasing to exist, and every torn fragment of his soul, every killing, every act of domination flows from that single screaming refusal. Rowling sets this against the ancient insight the *Bhagavad Gita* articulates and that Dumbledore paraphrases without ever crediting the source: the self that understands mortality as transformation rather than annihilation is the self that is free. Harry walks into the trees not because he is brave in the obvious Gryffindor sense, charging at danger, but because he has grasped something his enemy never will. The end is not the enemy. The fear of it is.
 

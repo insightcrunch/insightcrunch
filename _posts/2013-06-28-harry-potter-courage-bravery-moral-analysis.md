@@ -6,16 +6,17 @@ date: 2013-06-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Courage", "Bravery", "Gryffindor", "Moral Philosophy"]
 excerpt: "Courage in Harry Potter, reframed: why charging Gryffindor bravery is the simplest kind, and how Neville, Snape, and Narcissa reveal a quieter courage."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 57
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-06-28
+lang: en
 ---
 ## Introduction: The Lion Is a Decoy
 
 The most quoted line about bravery in the entire series is spoken not to a hero charging into battle but to a frightened, round-faced boy who tried to stop his friends from breaking school rules. At the end of *Harry Potter and the Philosopher's Stone*, Dumbledore awards Neville Longbottom ten points "because it takes a great deal of bravery to stand up to our enemies, but a great deal more to stand up to our friends." That sentence is the hinge on which the entire moral architecture of the books turns, and almost every reader misremembers it. They remember Neville got the house cup. They forget what he got it for. He did not slay a troll or duel a Death Eater. He stood, alone and trembling, in front of three people he admired and told them they were wrong.
 
-![Courage and moral bravery analysis across all Harry Potter books](/assets/images/blog/blog-11.webp)
+![Courage and moral bravery analysis across all Harry Potter books](/assets/images/blog/blog-78.webp)
 
 Here is the argument this piece will make, and it cuts against the grain of how the wizarding world markets itself. Gryffindor valor, the running-toward-danger that the scarlet-and-gold banner advertises, is the least interesting form of bravery Rowling depicts. It is real. It matters. But it is the entry-level register, the part of the spectrum that requires adrenaline rather than character. The forms of nerve the series actually venerates are quieter and far harder: the moral steadiness of standing against your own community, the emotional honesty of facing what you feel instead of fleeing it, and the sustained endurance of holding a position for years when no one is watching and no applause is coming. The mascot is a lion because a lion is dramatic. The deepest examples of fortitude in these books belong to people the Sorting Hat scattered across all four houses, and they are distributed there unequally and against expectation.
 
