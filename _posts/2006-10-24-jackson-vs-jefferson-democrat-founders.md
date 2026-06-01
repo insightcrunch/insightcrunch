@@ -9,7 +9,7 @@ excerpt: "Jefferson named the Democratic-Republican Party and Jackson built the 
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2006-10-24
+last_updated: 2026-06-01
 lang: en
 ---
 On the evening of April 13, 1830, the men who ran the Democratic Party gathered at Brown's Indian Queen Hotel in Washington to honor a dead Virginian. The occasion was a dinner marking the birthday of Thomas Jefferson, by then four years in his grave, and the room was thick with the kind of ritual that political parties use to tell themselves who they are. Toasts had been printed in advance. The official ones celebrated states' rights, strict construction, and the memory of the man who had taught the party to distrust concentrated power. Then the sitting president rose. He lifted his glass, fixed his eyes on Vice President John C. Calhoun across the table, and offered seven words that nobody had printed: "Our Federal Union: It must be preserved." Calhoun, pale and furious, answered with his own: "The Union, next to our liberty, most dear." The party that had assembled to celebrate Jefferson had just watched its living leader stake out ground that the dead one had helped make dangerous.

@@ -9,7 +9,7 @@ excerpt: "Article II Section 2 hands presidents near-unlimited pardon power. Was
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2006-12-07
+last_updated: 2026-06-01
 lang: en
 ---
 On the morning of January 20, 2001, in the final hours before George W. Bush took the oath on the Capitol steps, William Jefferson Clinton sat in the White House signing clemency grants. The pen moved across one hundred and forty names. Among them, near the bottom of a list that aides had assembled in a scramble of late-night phone calls and faxes from defense lawyers, was a fugitive commodities trader named Marc Rich. Rich had fled to Switzerland in 1983 rather than face a sixty-five-count federal indictment for tax evasion, racketeering, and oil trades with Iran during the hostage crisis. He had spent seventeen years on the run. He had never stood trial. And in the span of a signature, the forty-second president erased the legal jeopardy of a man most of the Justice Department had never been consulted about.

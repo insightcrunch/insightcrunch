@@ -9,7 +9,7 @@ excerpt: "Washington seated four department heads. Modern presidents command fif
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2006-11-26
+last_updated: 2026-06-01
 lang: en
 ---
 On a humid morning in the late summer of 1789, four men who answered to George Washington could have fit around a single table in a rented Manhattan parlor, and on at least one occasion they did. Thomas Jefferson handled foreign relations. Alexander Hamilton handled money. Henry Knox handled the army, such as it was. Edmund Randolph offered legal opinions when the President asked for them, which was not often, and he did so part time while keeping a private law practice. That was the entire senior administrative apparatus of the United States government. No domestic policy staff. No agency for roads or schools or food or labor or science or veterans or energy. Four officers, a handful of clerks, and a Treasury that employed more people than the rest of the executive branch combined because somebody had to count the customs receipts.

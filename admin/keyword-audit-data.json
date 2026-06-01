@@ -1,9 +1,43 @@
 {
-  "generated": "2026-05-29T10:01:46Z",
-  "total_posts": 1940,
-  "flagged_posts": 72,
-  "clean_posts": 1868,
+  "generated": "2026-06-01T11:44:15Z",
+  "total_posts": 2037,
+  "flagged_posts": 73,
+  "clean_posts": 1964,
   "posts": [
+    {
+      "filename": "2013-08-27-harry-potter-snape-vs-sirius-comparison.md",
+      "slug": "harry-potter-snape-vs-sirius-comparison",
+      "url": "/2013/08/27/harry-potter-snape-vs-sirius-comparison/",
+      "title": "Snape vs Sirius: Who Was the Better Man in HP",
+      "page_title": "Snape vs Sirius: Who Was the Better Man in Harry Potter? A Comparative Character Analysis",
+      "has_page_title": true,
+      "date": "2013-08-27",
+      "word_count": 10122,
+      "issues": [
+        {
+          "keyword": "hp",
+          "type": "MISSING_FROM_PAGE_TITLE",
+          "severity": "critical",
+          "detail": "\"hp\" is in the title but absent from page_title",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 0
+        },
+        {
+          "keyword": "hp",
+          "type": "TITLE_KEYWORD_MISSING_FROM_BODY",
+          "severity": "critical",
+          "detail": "\"hp\" is in the title but never appears in the body",
+          "in_slug": false,
+          "in_title": true,
+          "in_page_title": false,
+          "body_mentions": 0
+        }
+      ],
+      "critical_count": 2,
+      "warning_count": 0
+    },
     {
       "filename": "2024-03-04-gaokao-sjtu-admission-guide.md",
       "slug": "gaokao-sjtu-admission-guide",

@@ -9,7 +9,7 @@ excerpt: "The Copperheads were Northern Democrats who opposed the Civil War, and
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2006-10-02
+last_updated: 2026-06-01
 lang: en
 ---
 At roughly half past two in the morning on May 5, 1863, soldiers under the command of Captain Charles Hutton surrounded a brick house on First Street in Dayton, Ohio. They had marched out from Cincinnati on a special train, broken down the front door with axes when the owner refused to open it, and climbed the stairs to the bedroom of a former congressman who had spent the previous year insisting that the federal government could not jail a man for the content of his speeches. The man inside that bedroom was Clement Laird Vallandigham. He had been warned that arrest was coming, had made no effort to flee, and had in fact written out a public protest in advance so that it could be released the moment the soldiers took him. When they came through the door, he leaned out a window and shouted to neighbors gathering in the dark street that he was being seized by military force in defiance of the Constitution, and that they should remember it.

@@ -9,7 +9,7 @@ excerpt: "Inside the White House on August 8, 1974, hour by hour, as Richard Nix
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2006-10-08
+last_updated: 2026-06-01
 lang: en
 ---
 The teleprompter had been wheeled into the Oval Office and tested twice, and still the technicians fussed over the lighting because the man who would sit beneath it had asked them to. It was the evening of Thursday, August 8, 1974, and the room that had hosted every modern American crisis was being dressed for a broadcast no occupant of the building had ever delivered. A makeup artist named Ray Voege, who had powdered the same face through six years of addresses, worked the perspiration off a forehead that would not stop producing it. At a few minutes before nine o'clock, the thirty-seventh president of the United States walked the short corridor from the residence, took the chair behind the Wilson desk, and prepared to tell two hundred and eleven million Americans that he was quitting. No one in the history of the Republic had done what he was about to do. The Constitution did not describe it. The statute books did not anticipate it. The men who designed the office had built impeachment as the remedy for a president who would not leave, and had never seriously imagined one who would.

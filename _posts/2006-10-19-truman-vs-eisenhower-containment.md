@@ -9,7 +9,7 @@ excerpt: "Truman named containment in 1947 and fought for it in Korea. Eisenhowe
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2006-10-19
+last_updated: 2026-06-01
 lang: en
 ---
 On the evening of April 25, 1950, Paul Nitze carried a stack of typescript into the office of Secretary of State Dean Acheson and laid down a document that would cost the United States Treasury more than any peacetime memorandum in the country's history. The paper had no title that anyone outside the building would recognize for years. It was numbered NSC-68. Its argument was blunt to the point of alarm: the Soviet Union intended to dominate the Eurasian landmass, the free world possessed no automatic defense against that ambition, and the only adequate answer was a vast and immediate expansion of American military power, conventional and nuclear together, at whatever fiscal price the moment demanded. Harry Truman read it, shelved it, worried about its cost, and then watched North Korean tanks cross the 38th parallel ten weeks later. The invasion did what Nitze's prose alone could not. It turned a rejected budget into national policy.

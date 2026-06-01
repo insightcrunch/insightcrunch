@@ -9,7 +9,7 @@ excerpt: "Washington signed 8 executive orders. FDR signed 3,721. Clinton signed
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2006-12-13
+last_updated: 2026-06-01
 lang: en
 ---
 On the evening of April 8, 1952, Harry Truman went on national radio and told the country that the federal government had taken possession of its steel mills. A labor dispute threatened to halt production during the Korean War, and rather than wait for Congress to act, Truman signed a directive numbered 10340 and seized the mills outright. No statute authorized the move. He acted on the claim that the office itself carried an inherent authority to meet emergencies, and that the claim was enough. Seven weeks later the Supreme Court told him he was wrong, in a decision that historians still treat as the clearest constitutional boundary ever drawn around a president acting alone.

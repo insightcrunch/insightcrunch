@@ -9,7 +9,7 @@ excerpt: "Jackson's 1832 Bank Veto turned a quiet constitutional check into a pu
 image: "/assets/images/blog/blog-17.webp"
 reading_time: 72
 author: "rachel-foster"
-last_updated: 2006-12-02
+last_updated: 2026-06-01
 lang: en
 ---
 On the morning of July 10, 1832, Andrew Jackson sent a document to the Senate that did something no presidential message had done before. He returned the bill to recharter the Second Bank of the United States without his signature, which the Constitution plainly allowed him to do. What set the message apart was not the refusal. It was the argument. Across thousands of words, Jackson did not confine himself to the narrow claim that the recharter bill was unconstitutional. He attacked the Bank as a moral and economic menace, a creature that fattened the rich at the expense of farmers and laborers, a institution that handed foreign stockholders a lien on American prosperity. He told the country that the Supreme Court did not get to decide for him what the Constitution meant. And then his managers printed the message by the tens of thousands and scattered it across the republic as a campaign tract for the election that fall.

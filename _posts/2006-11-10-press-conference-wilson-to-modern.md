@@ -9,7 +9,7 @@ excerpt: "Wilson opened the first regular White House press meetings in 1913 and
 image: "/assets/images/blog/blog-61.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2006-11-10
+last_updated: 2026-06-01
 lang: en
 ---
 Picture the Oval Office on a Tuesday morning in the autumn of 1934. Forty or so reporters file in past the desk, hats in hand, jostling for position in a rough semicircle three deep. There are no microphones, no cameras, no lectern, no advance text, and no seating chart. The man behind the desk lights a cigarette, leans back, and begins the conversation himself, often with a joke about the weather or a needle aimed at a columnist he dislikes. For the next half hour he answers whatever is thrown at him, sets the ground rules sentence by sentence ("you can use that," "that one is background only," "do not quote me on this"), and steers the morning's news without ever rising from his chair. Franklin Roosevelt did this twice a week, year after year, in war and in peace, until the practice had become so routine that the reporters stopped marveling at it. By the time he died he had run nearly a thousand of these sessions, a figure no successor would approach.

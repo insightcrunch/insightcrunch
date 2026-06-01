@@ -9,7 +9,7 @@ excerpt: "Lincoln suspended habeas corpus. FDR interned Japanese Americans. Both
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2006-11-04
+last_updated: 2026-06-01
 lang: en
 ---
 On the night of May 25, 1861, soldiers pulled John Merryman out of his bed in Cockeysville, Maryland, and carried him to a stone cell inside Fort McHenry. Merryman had drilled secessionist militia and helped burn railroad bridges to slow Union troops moving toward the capital. He had broken laws. What he had not received was a charge, a hearing, or any prospect of a judge ruling on whether his jailers had the right to hold him. When his lawyers carried a petition to the most powerful judicial officer in the country, the Chief Justice of the United States sat down and wrote an opinion declaring that the man who had ordered the suspension keeping Merryman in that cell had no constitutional authority to do it. The man who had ordered it read the opinion, filed it, and did nothing. Merryman stayed in the cell.

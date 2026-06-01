@@ -9,7 +9,7 @@ excerpt: "Washington spoke it, Jefferson wrote it, Wilson spoke it again in 1913
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2006-11-15
+last_updated: 2026-06-01
 lang: en
 ---
 On December 2, 1913, Woodrow Wilson walked into the chamber of the House of Representatives, stood before the assembled members of both houses, and did something no president had done since the last weeks of the John Adams administration. He spoke. He read his annual message aloud, in his own voice, to the faces of the men who would vote on it. The room was not sure how to take it. Some senators grumbled that the spectacle smelled of monarchy, of a king arriving to instruct his parliament. A Connecticut senator reportedly muttered about a return to the methods of George III. Wilson, a former professor of government who had written books about how the American system actually worked versus how the textbooks said it worked, knew exactly what he was doing. He had decided that the president should be a visible, audible person leading a government, not a remote signature at the bottom of a document read by a clerk.

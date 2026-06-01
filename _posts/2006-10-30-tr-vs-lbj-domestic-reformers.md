@@ -9,7 +9,7 @@ excerpt: "TR's Square Deal opened the progressive era; LBJ's Great Society finis
 image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2006-10-30
+last_updated: 2026-06-01
 lang: en
 ---
 On the morning of October 3, 1902, a coal operator named George Baer sat in a temporary White House sickroom and refused to look across the table at the union men he had come to despise. Theodore Roosevelt, his leg broken in a recent carriage accident and propped in a wheelchair, had summoned both sides of the great anthracite strike to Washington for a meeting no president had ever convened. The operators believed they owned the coal, the mines, and the right to dictate terms to the men who dug it. Roosevelt believed something more radical and more quietly subversive of the entire nineteenth-century order: that the public had an interest in whether the country froze that winter, and that the president of the United States was the public's agent for protecting it. Baer had recently written, in a letter that would haunt him, that the rights of laboring men would be cared for by the Christian gentlemen to whom God in His infinite wisdom had given control of the property interests of the nation. Roosevelt, reading that line, said it confirmed his low opinion of the man's intelligence.

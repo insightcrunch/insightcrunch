@@ -9,7 +9,7 @@ excerpt: "No president had a chief of staff before 1946. Trace how Steelman, Ada
 image: "/assets/images/blog/blog-58.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2006-11-21
+last_updated: 2026-06-01
 lang: en
 ---
 On the afternoon of February 28, 1973, a young White House lawyer named John Dean sat across from the most powerful man he could see without an appointment with the president, and that man was not the president. He was Harry Robbins Haldeman, a former advertising executive from Los Angeles who held a title that had existed in formal terms for barely four years. Haldeman controlled who walked through the door to the Oval Office, which memoranda reached the Resolute desk, which phone calls got returned, and which cabinet secretaries waited weeks for fifteen minutes of presidential attention. He kept a famously short fuse and a famously precise calendar. Aides called the access he guarded the most valuable currency in Washington, and they were not exaggerating. The position Haldeman occupied carried no constitutional definition, required no Senate confirmation, appeared in no statute that created it, and answered to nobody except the one man who could fire him. Thirty years earlier, the job had not existed at all.

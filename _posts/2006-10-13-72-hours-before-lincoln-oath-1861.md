@@ -9,7 +9,7 @@ excerpt: "Seven states had seceded, Buchanan stood paralyzed, and Lincoln reache
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 72
 author: "diana-patel"
-last_updated: 2006-10-13
+last_updated: 2026-06-01
 lang: en
 ---
 On the second floor of Willard's Hotel, at the corner of Fourteenth Street and Pennsylvania Avenue, a tall man in a borrowed suite of rooms read and reread a document he had been editing for three months. It was Friday, March 1, 1861. Outside his windows, Washington was filling with soldiers. Sharpshooters were being positioned on rooftops. Cavalry units drilled in the muddy streets. A general who had fought in the War of 1812 was arranging artillery as though the capital might be stormed. The man at the window was not yet president. He would not become president for three more days. Seven states already considered themselves out of the Union he was preparing to lead, and a rival government, complete with its own provisional constitution adopted a month earlier in Montgomery, Alabama, was busy organizing an army and a treasury of its own.

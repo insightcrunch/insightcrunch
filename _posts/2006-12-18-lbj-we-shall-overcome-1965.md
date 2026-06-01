@@ -9,7 +9,7 @@ excerpt: "LBJ told Congress 'and we shall overcome' on March 15, 1965, eight day
 image: "/assets/images/blog/blog-10.webp"
 reading_time: 71
 author: "jessica-kim"
-last_updated: 2006-12-18
+last_updated: 2026-06-01
 lang: en
 ---
 In a small frame house on Lapsley Street in Selma, Alabama, a knot of weary organizers crowded around a television set on the evening of March 15, 1965. Martin Luther King Jr. sat among them, eight days removed from the violence at the Edmund Pettus Bridge, surrounded by aides who had spent the week burying the wounded count and planning the next march. On the screen, a Texan with a flat drawl stood before a joint session of Congress and began to speak about freedom. For most of forty-five minutes the men in that room listened in the particular silence of people who have learned not to expect much from white politicians. Then the president reached the climax of his argument, paused, lifted his eyes from the lectern, and pronounced four words that belonged to them, that they had sung in jail cells and on courthouse steps and in the back of churches with the windows broken out. According to John Lewis, who was in the room nursing a skull fractured on that bridge, a tear ran down King's cheek. He had heard a president of the United States adopt the anthem of a Black freedom movement as the creed of the American republic.
