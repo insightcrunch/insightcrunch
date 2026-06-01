@@ -6,16 +6,17 @@ date: 2013-09-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Lord Voldemort", "Character Comparison"]
 excerpt: "Dumbledore vs Voldemort in Harry Potter: two brilliant orphans with identical magical genius and opposite moral fates, divided by what each chose to love."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 44
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-09-28
+lang: en
 ---
 ## Introduction: Two Brilliant Orphans and the Difference Between Them
 
 The question that organizes the whole wizarding world is not which of these two men was the stronger sorcerer. On raw magical ability they are close enough that the series never bothers to settle it, and when they finally duel in the Ministry atrium the contest reads less like one talent overpowering another than like two forces of nature briefly occupying the same room. The interesting question is quieter and far more dangerous. Two children arrived at Hogwarts within living memory of each other, each recognized at once as the most gifted of his generation, each carrying a magical inheritance the school had rarely seen. One of them grew into the headmaster who spent his life protecting children. The other grew into the figure who hunted them. What, exactly, made the difference?
 
-![Dumbledore versus Voldemort character comparison in Harry Potter](/assets/images/blog/blog-13.webp)
+![Dumbledore versus Voldemort character comparison in Harry Potter](/assets/images/blog/blog-15.webp)
 
 Rowling's answer is not the one a casual reader expects. It is not that one was born good and the other born evil, nor that one was clever and the other merely cruel. The variable is what each of them loved. Albus Dumbledore loved people, and he loved them badly, with the kind of imperfect, guilty, self-implicating love that leaves wreckage in its wake. The man who would call himself Lord Voldemort loved nothing and no one, because he had never been given anything to love and never built the capacity to begin. The series stakes its entire moral architecture on this contrast. Genius is neutral. Talent is neutral. Even the temptation toward domination, as we will see, was shared by both men in their youth. The thing that diverges, the thing that explains why one of them died defending a school and the other died trying to murder a teenager inside it, is the presence or absence of the love-relationships that teach a person there is something in the world worth more than the self.
 

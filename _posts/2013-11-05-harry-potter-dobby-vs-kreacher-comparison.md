@@ -6,16 +6,17 @@ date: 2013-11-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dobby", "Kreacher", "House-Elves", "Slavery"]
 excerpt: "Dobby vs Kreacher in Harry Potter, compared across slavery, freedom, recognition, redemption, and the cross-literary parallels these bound house-elves echo."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 41
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2013-11-05
+lang: en
 ---
 ## Introduction: The Question Behind Two Elves
 
 The question is not which house-elf is the better creature. Both serve Harry by the end of the saga, both die or are remade in the process, and both leave him changed in ways he could not have predicted when each first appeared at the edge of his story. The real question is harder and more uncomfortable: can a system that produces such opposite creatures be morally salvaged at all, or does the wizarding world's bondage of its smallest servants break every elf it touches, whether through release or through the slower violence of a lifetime spent loyal to people who despise them?
 
-![Dobby and Kreacher house-elf comparison in Harry Potter](/assets/images/blog/blog-05.webp)
+![Dobby and Kreacher house-elf comparison in Harry Potter](/assets/images/blog/blog-13.webp)
 
 Rowling sets the two creatures against each other with a precision that is easy to miss because the books wear their cruelty so lightly. One arrives free and devoted, ready to maim himself rather than betray a boy he has only just met. The other arrives enslaved and venomous, muttering insults under his breath, mourning a mistress whose portrait still screams blood-purity from the wall of a decaying townhouse. The surface contrast looks like a contrast of temperaments, as though the freed creature were simply nicer and the bound one simply nastier. It is nothing of the kind. The contrast is structural. Each elf is what the system made of him, and the system made opposite things out of identical raw material, which is the most damning thing the comparison reveals.
 

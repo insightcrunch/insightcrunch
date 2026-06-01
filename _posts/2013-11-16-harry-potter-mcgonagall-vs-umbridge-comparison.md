@@ -6,19 +6,19 @@ date: 2013-11-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Minerva McGonagall", "Dolores Umbridge"]
 excerpt: "McGonagall vs Umbridge in Harry Potter: how two women wielding identical Hogwarts authority expose the deep moral gulf between protection and domination."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 42
-author: "Insight Crunch Team"
+author: "megan-clark"
 last_updated: 2013-11-16
+lang: en
 ---
-
 ## Introduction: Why This Comparison Matters
 
 The question is not whether authority is good or bad. The question is what separates authority used to protect from authority used to control when the institutional machinery handed to both wielders is exactly the same. Two women teach at the same school in the same year. Each holds an office, wears ceremonial robes, deducts house points, assigns detentions, and answers to a larger institution that placed her where she stands. One of them spends that year shielding children from harm. The other spends it manufacturing reasons to inflict it. The structure is identical. The outcome could not be more opposite. That gap is the most direct argument the series ever makes about what power is for.
 
 Most readers experience the contrast as a feeling long before they can articulate it. The Deputy Headmistress in her tartan and tight bun reads as safe; the High Inquisitor in her pink cardigans and kitten plates reads as a threat, and the threat arrives wrapped in saccharine softness that makes it worse rather than better. The instinct is correct, but the instinct is not yet an analysis. The interesting work is in naming precisely what the reader is responding to, because the difference between a good administrator and a fascist administrator turns out not to live in any procedure either woman follows. It lives in something prior to procedure, something moral, and the daily procedural choices each makes flow downstream from that moral fact rather than producing it.
 
-![Minerva McGonagall and Dolores Umbridge character comparison in Harry Potter series](/assets/images/blog/blog-07.webp)
+![Minerva McGonagall and Dolores Umbridge character comparison in Harry Potter series](/assets/images/blog/blog-74.webp)
 
 This comparison resists the trap that ruins most character pairings, which is to assemble two separate mini-profiles and staple them together. The pairing only works held in a single frame. When the strict Transfiguration mistress confiscates a forbidden object, and the pink-clad inquisitor confiscates a forbidden object, the actions look procedurally identical and are morally inverse, and the only way to see why is to watch both hands move at once. Rowling built these two figures as a controlled experiment: hold the role constant, vary the person inside it, and observe what authority becomes. What follows reads the experiment closely, lens by lens, and refuses to let the symmetry collapse into a lazy good-versus-evil tally. The evil is real, but the mechanism of the evil is the prize.
 

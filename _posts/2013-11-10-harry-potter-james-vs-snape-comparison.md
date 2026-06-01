@@ -6,16 +6,17 @@ date: 2013-11-10
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "James Potter", "Severus Snape", "Character Comparison"]
 excerpt: "James Potter vs Severus Snape in Harry Potter, compared across the worst memory, false maturity, devotion, Lily's choice, and the grief that outlives them."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 56
-author: "Insight Crunch Team"
+author: "elena-wright"
 last_updated: 2013-11-10
+lang: en
 ---
 ## Introduction: The Triangle That Outlived Everyone In It
 
 The question is not which man was right about Lily Evans. The question is whether a woman's choice between two flawed men can ever be honoured by both of them after she is gone, and the seven books answer it with a flat refusal: it cannot. One of those men died at twenty-one, before he could prove that the boy he had been was not the man he was becoming. The other lived nearly two more decades, long enough to let the rejection harden into the organizing principle of his entire adult life. Between them they raised, in opposite ways and from opposite sides of the grave, the son neither of them fully recognized as himself.
 
-![James Potter and Severus Snape compared across the Harry Potter series](/assets/images/blog/blog-06.webp)
+![James Potter and Severus Snape compared across the Harry Potter series](/assets/images/blog/blog-39.webp)
 
 This is the most uncomfortable comparison the series offers, and it is uncomfortable by design. Rowling does not permit the reader to land cleanly on either man. The schoolyard tormentor and his favourite target both loved the same red-haired girl, and she married the tormentor. To side with the victim is to side with a man who called that girl a slur and then spent twenty years taking his grief out on her orphaned child. To side with the husband is to side with a boy who hung another boy upside down for an audience's applause. There is no comfortable seat at this table, which is precisely why the comparison teaches something the rest of the books only gesture toward: that romantic choices do not end when the chooser dies. They keep choosing. They keep acting. They shape the world the next generation inherits, and they do so with a force that has nothing to do with who deserved to win.
 

@@ -6,16 +6,17 @@ date: 2013-10-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Fred and George Weasley", "Draco Malfoy", "Character Comparison"]
 excerpt: "Fred and George vs Draco Malfoy in Harry Potter: how the twins weaponise humour and Draco weaponises cruelty, and what each clever performance serves."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 42
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2013-10-18
+lang: en
 ---
 ## Introduction: The Question Cleverness Cannot Answer for Itself
 
 The question is not which of these three is the cleverest. Put Fred Weasley, George Weasley, and Draco Malfoy in a room and ask them to invent something, and all three would produce something inventive. The twins would build a device that turns a teacher purple; Draco would devise an insult that lands precisely on the soft tissue of someone's poverty or blood status. All three are quick. All three perform their quickness in public, hungry for the audience that quickness requires. The question the comparison forces is the one wit can never settle on its own behalf: what is the cleverness *for*?
 
-![Fred and George Weasley compared with Draco Malfoy in Harry Potter](/assets/images/blog/blog-02.webp)
+![Fred and George Weasley compared with Draco Malfoy in Harry Potter](/assets/images/blog/blog-50.webp)
 
 This is the deepest argument Rowling builds through these three pure-blood performers, and it is an argument she refuses to make abstractly. She makes it through joke shops and sneers, through fireworks and slurs, through a swamp that drives a tyrant from a castle and an Inquisitorial Squad badge worn with the pride of a small man given a little power. Intelligence, the series insists across every encounter between these characters, is morally inert. It is a tool, and a tool takes its character from the hand that holds it and the work it is set to. The Weasley twins point their cleverness at hierarchy and try to dismantle it for the joy of watching it fall. The Malfoy heir points his cleverness at hierarchy and tries to enforce it, because hierarchy is the only thing that has ever told him he matters. Same raw faculty. Opposite politics. And the politics, Rowling argues again and again, is the whole of the moral fact.
 

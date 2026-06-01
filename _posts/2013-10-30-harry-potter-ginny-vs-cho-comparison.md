@@ -6,16 +6,17 @@ date: 2013-10-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ginny Weasley", "Cho Chang", "Character Comparison"]
 excerpt: "Ginny vs Cho in Harry Potter compared across grief, empathy, athletic identity, and the uneven sympathy Rowling gives the girl who turns trauma to wit."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 42
-author: "Insight Crunch Team"
+author: "claire-bennett"
 last_updated: 2013-10-30
+lang: en
 ---
 ## Introduction: Two Loves, Two Paths
 
 The question is not which girl Harry should have chosen. The series never offers him a clean choice between the two of them standing side by side, and any reading that pretends it does has already misunderstood the architecture of the romance. The real question is sharper and stranger: what is the story arguing about the nature of lasting love by handing its protagonist these two particular witches in this particular order? Why a tearful Ravenclaw first and a fierce Gryffindor second? Why the older girl who is still inside her grief, then the younger one who has already climbed out of hers? The sequence is not accidental, and once you stop asking who was prettier or sweeter or more deserving, a far more interesting argument surfaces in the gap between them.
 
-![Ginny Weasley and Cho Chang compared as Harry's two loves in Harry Potter](/assets/images/blog/blog-04.webp)
+![Ginny Weasley and Cho Chang compared as Harry's two loves in Harry Potter](/assets/images/blog/blog-44.webp)
 
 Both girls are Seekers, the same Quidditch role the boy himself plays. Both have been touched by Voldemort's violence, one through the death of a boyfriend and one through near-death in a hidden chamber. Both are written as competent, intelligent young women rather than as romantic furniture. The symmetry is so precise that it almost begs to be read as a controlled experiment: the author isolates a single variable and lets it run. The variable is not beauty or kindness or even compatibility. It is the relationship each young woman has to her own pain, and what that relationship makes possible or impossible in the way she can love and be loved.
 
