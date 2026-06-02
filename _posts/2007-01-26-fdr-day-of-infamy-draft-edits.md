@@ -9,7 +9,7 @@ excerpt: "FDR's first draft called December 7 a date that would live in world hi
 image: "/assets/images/blog/blog-34.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-01-26
+last_updated: 2026-06-02
 lang: en
 ---
 The reading copy that survives in Hyde Park has a single word crossed out near the top of the first page, and the word that replaces it sits in the President's own slanted hand in the left margin. The typed line had read that December 7 was a date which would live in "world history." Above the strikethrough, in pencil, Franklin Roosevelt had written "infamy." Grace Tully, the secretary who had taken his dictation a few hours earlier on the afternoon of December 7, 1941, later kept the carbon and the marked-up pages as the most consequential paper she ever handled. The edit took perhaps two seconds. It rearranged the moral architecture of the most important six minutes of speech an American president would deliver in the twentieth century.

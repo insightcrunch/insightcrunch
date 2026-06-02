@@ -9,7 +9,7 @@ excerpt: "Nixon's 1,860-word August 1974 resignation address admits no Watergate
 image: "/assets/images/blog/blog-62.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2006-12-29
+last_updated: 2026-06-02
 lang: en
 ---
 At one minute past nine on the evening of August 8, 1974, a red light blinked on above a television camera in the Oval Office, and the most powerful office in the world prepared to announce its own surrender. Richard Nixon sat behind the desk, lit and powdered, a small American flag pin on his lapel, the pages of a speech he had revised by hand through the previous night squared in front of him. He had been there many times before for moments like this, addresses about Vietnam, about the economy, about the war that had finally caught up with him. He opened by counting them. This was the thirty-seventh time, he told the country, that he had spoken to them from this office where so many decisions had shaped the history of the nation. The number was not idle. It was the first move in a performance built, sentence by sentence, to do a very specific thing under nearly unbearable pressure: to leave the presidency without ever once admitting why he had to.

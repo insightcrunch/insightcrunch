@@ -9,7 +9,7 @@ excerpt: "JFK's 1,355-word inaugural holds ten sentences most Americans still re
 image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2007-01-09
+last_updated: 2026-06-02
 lang: en
 ---
 The morning of January 20, 1961 was the coldest inauguration day in living memory, with eight inches of snow on the ground in Washington and an overnight temperature that had dipped near twenty degrees. Army flamethrowers had been used to clear Pennsylvania Avenue. Robert Frost, eighty-six years old, rose to read a poem he had written for the occasion, found that the glare off the snow made his typescript unreadable, and recited "The Gift Outright" from memory instead. Marian Anderson sang the national anthem. Cardinal Cushing of Boston offered an invocation so long that smoke began to rise from the wiring of the lectern's electric heater. And then a forty-three-year-old man stood bareheaded in the cold, took the oath from Chief Justice Earl Warren, and delivered an address that ran one thousand three hundred fifty-five words and lasted under fourteen minutes.

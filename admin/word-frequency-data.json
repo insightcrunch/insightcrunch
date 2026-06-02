@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-01T11:44:23Z",
+  "generated": "2026-06-02T05:25:52Z",
   "threshold": 50,
-  "totalPosts": 2036,
-  "flaggedPosts": 1695,
+  "totalPosts": 1993,
+  "flaggedPosts": 1649,
   "suppressedPosts": 13,
   "stalePosts": 0,
-  "worstWord": "available",
-  "worstCount": 1667,
-  "worstPost": "Growing Up With Harry Potter: How the Series Ages With Its Reader",
-  "avgTopCount": 194.8,
+  "worstWord": "高考",
+  "worstCount": 1533,
+  "worstPost": "天津大学高考录取完全攻略 - 分数线、化工建筑机械强势专业、北洋传统与天津就业优势",
+  "avgTopCount": 187.0,
   "posts": [
     {
       "filename": "1996-08-07-sat-nursing-health-programs.md",
@@ -74710,140 +74710,6 @@
       ]
     },
     {
-      "filename": "2012-09-05-dolores-umbridge-banality-of-cruelty.md",
-      "slug": "dolores-umbridge-banality-of-cruelty",
-      "title": "Dolores Umbridge Character Analysis: The Banality of Cruelty",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6317,
-      "topWord": "institutional",
-      "topCount": 175,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-09-05-dolores-umbridge-banality-of-cruelty.md",
-      "flaggedWords": [
-        {
-          "word": "institutional",
-          "count": 175
-        },
-        {
-          "word": "umbridge",
-          "count": 159
-        },
-        {
-          "word": "authority",
-          "count": 126
-        },
-        {
-          "word": "specific",
-          "count": 80
-        },
-        {
-          "word": "ministry",
-          "count": 77
-        },
-        {
-          "word": "harm",
-          "count": 59
-        },
-        {
-          "word": "series",
-          "count": 53
-        },
-        {
-          "word": "institution",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "institutional",
-          "count": 175
-        },
-        {
-          "word": "umbridge",
-          "count": 159
-        },
-        {
-          "word": "authority",
-          "count": 126
-        },
-        {
-          "word": "specific",
-          "count": 80
-        },
-        {
-          "word": "ministry",
-          "count": 77
-        },
-        {
-          "word": "harm",
-          "count": 59
-        },
-        {
-          "word": "series",
-          "count": 53
-        },
-        {
-          "word": "institution",
-          "count": 51
-        },
-        {
-          "word": "genuine",
-          "count": 48
-        },
-        {
-          "word": "person",
-          "count": 47
-        },
-        {
-          "word": "voldemort",
-          "count": 42
-        },
-        {
-          "word": "cruelty",
-          "count": 41
-        },
-        {
-          "word": "harry",
-          "count": 41
-        },
-        {
-          "word": "evil",
-          "count": 37
-        },
-        {
-          "word": "entirely",
-          "count": 37
-        },
-        {
-          "word": "framework",
-          "count": 33
-        },
-        {
-          "word": "students",
-          "count": 32
-        },
-        {
-          "word": "cannot",
-          "count": 29
-        },
-        {
-          "word": "book",
-          "count": 28
-        },
-        {
-          "word": "makes",
-          "count": 28
-        }
-      ]
-    },
-    {
       "filename": "2012-09-05-dolores-umbridge-complete-character-analysis.md",
       "slug": "dolores-umbridge-complete-character-analysis",
       "title": "Dolores Umbridge Character Analysis: Bureaucratic Evil",
@@ -75778,132 +75644,6 @@
       ]
     },
     {
-      "filename": "2012-09-20-sirius-black-complete-character-analysis.md",
-      "slug": "sirius-black-complete-character-analysis",
-      "title": "Sirius Black Character Analysis: Freedom and Its Cost",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5773,
-      "topWord": "sirius",
-      "topCount": 212,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-09-20-sirius-black-complete-character-analysis.md",
-      "flaggedWords": [
-        {
-          "word": "sirius",
-          "count": 212
-        },
-        {
-          "word": "harry",
-          "count": 164
-        },
-        {
-          "word": "person",
-          "count": 87
-        },
-        {
-          "word": "specific",
-          "count": 75
-        },
-        {
-          "word": "series",
-          "count": 63
-        },
-        {
-          "word": "james",
-          "count": 54
-        }
-      ],
-      "top20": [
-        {
-          "word": "sirius",
-          "count": 212
-        },
-        {
-          "word": "harry",
-          "count": 164
-        },
-        {
-          "word": "person",
-          "count": 87
-        },
-        {
-          "word": "specific",
-          "count": 75
-        },
-        {
-          "word": "series",
-          "count": 63
-        },
-        {
-          "word": "james",
-          "count": 54
-        },
-        {
-          "word": "love",
-          "count": 48
-        },
-        {
-          "word": "relationship",
-          "count": 46
-        },
-        {
-          "word": "family",
-          "count": 41
-        },
-        {
-          "word": "black",
-          "count": 39
-        },
-        {
-          "word": "azkaban",
-          "count": 36
-        },
-        {
-          "word": "loyalty",
-          "count": 36
-        },
-        {
-          "word": "cannot",
-          "count": 34
-        },
-        {
-          "word": "book",
-          "count": 32
-        },
-        {
-          "word": "genuine",
-          "count": 32
-        },
-        {
-          "word": "whose",
-          "count": 30
-        },
-        {
-          "word": "twelve",
-          "count": 29
-        },
-        {
-          "word": "someone",
-          "count": 29
-        },
-        {
-          "word": "fully",
-          "count": 28
-        },
-        {
-          "word": "himself",
-          "count": 28
-        }
-      ]
-    },
-    {
       "filename": "2012-09-25-arthur-weasley-complete-character-analysis.md",
       "slug": "arthur-weasley-complete-character-analysis",
       "title": "Arthur Weasley Character Analysis: Curiosity and Courage",
@@ -76192,128 +75932,6 @@
         {
           "word": "action",
           "count": 39
-        }
-      ]
-    },
-    {
-      "filename": "2012-09-25-remus-lupin-complete-character-analysis.md",
-      "slug": "remus-lupin-complete-character-analysis",
-      "title": "Remus Lupin Character Analysis: Dignity Under the Moon",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5620,
-      "topWord": "lupin",
-      "topCount": 153,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-09-25-remus-lupin-complete-character-analysis.md",
-      "flaggedWords": [
-        {
-          "word": "lupin",
-          "count": 153
-        },
-        {
-          "word": "harry",
-          "count": 92
-        },
-        {
-          "word": "specific",
-          "count": 72
-        },
-        {
-          "word": "person",
-          "count": 66
-        },
-        {
-          "word": "series",
-          "count": 65
-        }
-      ],
-      "top20": [
-        {
-          "word": "lupin",
-          "count": 153
-        },
-        {
-          "word": "harry",
-          "count": 92
-        },
-        {
-          "word": "specific",
-          "count": 72
-        },
-        {
-          "word": "person",
-          "count": 66
-        },
-        {
-          "word": "series",
-          "count": 65
-        },
-        {
-          "word": "self",
-          "count": 38
-        },
-        {
-          "word": "genuine",
-          "count": 37
-        },
-        {
-          "word": "sirius",
-          "count": 35
-        },
-        {
-          "word": "love",
-          "count": 32
-        },
-        {
-          "word": "condition",
-          "count": 32
-        },
-        {
-          "word": "cannot",
-          "count": 31
-        },
-        {
-          "word": "book",
-          "count": 30
-        },
-        {
-          "word": "patronus",
-          "count": 30
-        },
-        {
-          "word": "tonks",
-          "count": 29
-        },
-        {
-          "word": "someone",
-          "count": 28
-        },
-        {
-          "word": "prejudice",
-          "count": 26
-        },
-        {
-          "word": "situation",
-          "count": 25
-        },
-        {
-          "word": "fully",
-          "count": 23
-        },
-        {
-          "word": "werewolves",
-          "count": 22
-        },
-        {
-          "word": "himself",
-          "count": 22
         }
       ]
     },
@@ -78640,124 +78258,6 @@
         {
           "word": "moral",
           "count": 30
-        }
-      ]
-    },
-    {
-      "filename": "2012-11-18-gilderoy-lockhart-villain-analysis.md",
-      "slug": "gilderoy-lockhart-villain-analysis",
-      "title": "Gilderoy Lockhart Character Analysis: Vanity Unmasked",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6598,
-      "topWord": "lockhart",
-      "topCount": 279,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2012-11-18-gilderoy-lockhart-villain-analysis.md",
-      "flaggedWords": [
-        {
-          "word": "lockhart",
-          "count": 279
-        },
-        {
-          "word": "memory",
-          "count": 55
-        },
-        {
-          "word": "self",
-          "count": 53
-        },
-        {
-          "word": "harry",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "lockhart",
-          "count": 279
-        },
-        {
-          "word": "memory",
-          "count": 55
-        },
-        {
-          "word": "self",
-          "count": 53
-        },
-        {
-          "word": "harry",
-          "count": 51
-        },
-        {
-          "word": "fraud",
-          "count": 49
-        },
-        {
-          "word": "charm",
-          "count": 48
-        },
-        {
-          "word": "rowling",
-          "count": 38
-        },
-        {
-          "word": "himself",
-          "count": 33
-        },
-        {
-          "word": "genuine",
-          "count": 30
-        },
-        {
-          "word": "series",
-          "count": 29
-        },
-        {
-          "word": "nothing",
-          "count": 25
-        },
-        {
-          "word": "relationship",
-          "count": 24
-        },
-        {
-          "word": "reader",
-          "count": 24
-        },
-        {
-          "word": "memories",
-          "count": 23
-        },
-        {
-          "word": "character",
-          "count": 23
-        },
-        {
-          "word": "identity",
-          "count": 23
-        },
-        {
-          "word": "comic",
-          "count": 22
-        },
-        {
-          "word": "performance",
-          "count": 21
-        },
-        {
-          "word": "scene",
-          "count": 21
-        },
-        {
-          "word": "book",
-          "count": 20
         }
       ]
     },
@@ -83942,140 +83442,6 @@
       ]
     },
     {
-      "filename": "2013-03-10-gilderoy-lockhart-fame-fraud-analysis.md",
-      "slug": "gilderoy-lockhart-fame-fraud-analysis",
-      "title": "Gilderoy Lockhart: Fame, Fraud, and the Void",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6272,
-      "topWord": "lockhart",
-      "topCount": 217,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-10-gilderoy-lockhart-fame-fraud-analysis.md",
-      "flaggedWords": [
-        {
-          "word": "lockhart",
-          "count": 217
-        },
-        {
-          "word": "specific",
-          "count": 93
-        },
-        {
-          "word": "self",
-          "count": 75
-        },
-        {
-          "word": "memory",
-          "count": 67
-        },
-        {
-          "word": "harry",
-          "count": 66
-        },
-        {
-          "word": "series",
-          "count": 58
-        },
-        {
-          "word": "genuine",
-          "count": 56
-        },
-        {
-          "word": "fraud",
-          "count": 55
-        }
-      ],
-      "top20": [
-        {
-          "word": "lockhart",
-          "count": 217
-        },
-        {
-          "word": "specific",
-          "count": 93
-        },
-        {
-          "word": "self",
-          "count": 75
-        },
-        {
-          "word": "memory",
-          "count": 67
-        },
-        {
-          "word": "harry",
-          "count": 66
-        },
-        {
-          "word": "series",
-          "count": 58
-        },
-        {
-          "word": "genuine",
-          "count": 56
-        },
-        {
-          "word": "fraud",
-          "count": 55
-        },
-        {
-          "word": "celebrity",
-          "count": 48
-        },
-        {
-          "word": "performance",
-          "count": 48
-        },
-        {
-          "word": "book",
-          "count": 42
-        },
-        {
-          "word": "charm",
-          "count": 42
-        },
-        {
-          "word": "constructed",
-          "count": 39
-        },
-        {
-          "word": "person",
-          "count": 39
-        },
-        {
-          "word": "books",
-          "count": 35
-        },
-        {
-          "word": "magical",
-          "count": 34
-        },
-        {
-          "word": "chamber",
-          "count": 32
-        },
-        {
-          "word": "himself",
-          "count": 31
-        },
-        {
-          "word": "ron",
-          "count": 31
-        },
-        {
-          "word": "fame",
-          "count": 30
-        }
-      ]
-    },
-    {
       "filename": "2013-03-10-harry-potter-love-as-magic-sacrifice-analysis.md",
       "slug": "harry-potter-love-as-magic-sacrifice-analysis",
       "title": "Love as Magic in Harry Potter: Sacrifice and Survival",
@@ -84462,132 +83828,6 @@
       ]
     },
     {
-      "filename": "2013-03-15-dolores-umbridge-pink-evil-authority.md",
-      "slug": "dolores-umbridge-pink-evil-authority",
-      "title": "Dolores Umbridge: Pink Evil and Ministry Cruelty",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6247,
-      "topWord": "umbridge",
-      "topCount": 180,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-15-dolores-umbridge-pink-evil-authority.md",
-      "flaggedWords": [
-        {
-          "word": "umbridge",
-          "count": 180
-        },
-        {
-          "word": "institutional",
-          "count": 146
-        },
-        {
-          "word": "specific",
-          "count": 112
-        },
-        {
-          "word": "ministry",
-          "count": 101
-        },
-        {
-          "word": "authority",
-          "count": 80
-        },
-        {
-          "word": "series",
-          "count": 62
-        }
-      ],
-      "top20": [
-        {
-          "word": "umbridge",
-          "count": 180
-        },
-        {
-          "word": "institutional",
-          "count": 146
-        },
-        {
-          "word": "specific",
-          "count": 112
-        },
-        {
-          "word": "ministry",
-          "count": 101
-        },
-        {
-          "word": "authority",
-          "count": 80
-        },
-        {
-          "word": "series",
-          "count": 62
-        },
-        {
-          "word": "cruelty",
-          "count": 47
-        },
-        {
-          "word": "harry",
-          "count": 46
-        },
-        {
-          "word": "voldemort",
-          "count": 39
-        },
-        {
-          "word": "someone",
-          "count": 36
-        },
-        {
-          "word": "hogwarts",
-          "count": 36
-        },
-        {
-          "word": "blood",
-          "count": 35
-        },
-        {
-          "word": "students",
-          "count": 34
-        },
-        {
-          "word": "power",
-          "count": 32
-        },
-        {
-          "word": "instrument",
-          "count": 31
-        },
-        {
-          "word": "evil",
-          "count": 30
-        },
-        {
-          "word": "institution",
-          "count": 30
-        },
-        {
-          "word": "pink",
-          "count": 29
-        },
-        {
-          "word": "control",
-          "count": 28
-        },
-        {
-          "word": "book",
-          "count": 28
-        }
-      ]
-    },
-    {
       "filename": "2013-03-15-harry-potter-psychology-of-bullying-analysis.md",
       "slug": "harry-potter-psychology-of-bullying-analysis",
       "title": "Bullying in Harry Potter: From Dudley to Umbridge",
@@ -84844,132 +84084,6 @@
         {
           "word": "designated",
           "count": 35
-        }
-      ]
-    },
-    {
-      "filename": "2013-03-20-horace-slughorn-complete-character-analysis.md",
-      "slug": "horace-slughorn-complete-character-analysis",
-      "title": "Horace Slughorn: Complicity, Guilt, and Redemption",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6028,
-      "topWord": "slughorn",
-      "topCount": 200,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-20-horace-slughorn-complete-character-analysis.md",
-      "flaggedWords": [
-        {
-          "word": "slughorn",
-          "count": 200
-        },
-        {
-          "word": "specific",
-          "count": 170
-        },
-        {
-          "word": "memory",
-          "count": 73
-        },
-        {
-          "word": "harry",
-          "count": 65
-        },
-        {
-          "word": "comfortable",
-          "count": 63
-        },
-        {
-          "word": "series",
-          "count": 60
-        }
-      ],
-      "top20": [
-        {
-          "word": "slughorn",
-          "count": 200
-        },
-        {
-          "word": "specific",
-          "count": 170
-        },
-        {
-          "word": "memory",
-          "count": 73
-        },
-        {
-          "word": "harry",
-          "count": 65
-        },
-        {
-          "word": "comfortable",
-          "count": 63
-        },
-        {
-          "word": "series",
-          "count": 60
-        },
-        {
-          "word": "genuine",
-          "count": 49
-        },
-        {
-          "word": "social",
-          "count": 44
-        },
-        {
-          "word": "slug",
-          "count": 43
-        },
-        {
-          "word": "club",
-          "count": 42
-        },
-        {
-          "word": "genuinely",
-          "count": 40
-        },
-        {
-          "word": "someone",
-          "count": 37
-        },
-        {
-          "word": "guilt",
-          "count": 37
-        },
-        {
-          "word": "riddle",
-          "count": 35
-        },
-        {
-          "word": "tom",
-          "count": 34
-        },
-        {
-          "word": "dumbledore",
-          "count": 34
-        },
-        {
-          "word": "makes",
-          "count": 32
-        },
-        {
-          "word": "book",
-          "count": 32
-        },
-        {
-          "word": "person",
-          "count": 30
-        },
-        {
-          "word": "character",
-          "count": 30
         }
       ]
     },
@@ -85238,156 +84352,6 @@
       ]
     },
     {
-      "filename": "2013-03-25-love-as-magic-harry-potter-sacrifice-survival.md",
-      "slug": "love-as-magic-harry-potter-sacrifice-survival",
-      "title": "Love as Magic in Harry Potter: The Power of Sacrifice",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6154,
-      "topWord": "love",
-      "topCount": 386,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-25-love-as-magic-harry-potter-sacrifice-survival.md",
-      "flaggedWords": [
-        {
-          "word": "love",
-          "count": 386
-        },
-        {
-          "word": "harry",
-          "count": 173
-        },
-        {
-          "word": "magic",
-          "count": 167
-        },
-        {
-          "word": "series",
-          "count": 120
-        },
-        {
-          "word": "specific",
-          "count": 110
-        },
-        {
-          "word": "lily",
-          "count": 110
-        },
-        {
-          "word": "voldemort",
-          "count": 101
-        },
-        {
-          "word": "sacrifice",
-          "count": 77
-        },
-        {
-          "word": "death",
-          "count": 62
-        },
-        {
-          "word": "protection",
-          "count": 62
-        },
-        {
-          "word": "conditions",
-          "count": 54
-        },
-        {
-          "word": "genuine",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "love",
-          "count": 386
-        },
-        {
-          "word": "harry",
-          "count": 173
-        },
-        {
-          "word": "magic",
-          "count": 167
-        },
-        {
-          "word": "series",
-          "count": 120
-        },
-        {
-          "word": "specific",
-          "count": 110
-        },
-        {
-          "word": "lily",
-          "count": 110
-        },
-        {
-          "word": "voldemort",
-          "count": 101
-        },
-        {
-          "word": "sacrifice",
-          "count": 77
-        },
-        {
-          "word": "death",
-          "count": 62
-        },
-        {
-          "word": "protection",
-          "count": 62
-        },
-        {
-          "word": "conditions",
-          "count": 54
-        },
-        {
-          "word": "genuine",
-          "count": 51
-        },
-        {
-          "word": "ancient",
-          "count": 49
-        },
-        {
-          "word": "magical",
-          "count": 47
-        },
-        {
-          "word": "cannot",
-          "count": 44
-        },
-        {
-          "word": "dumbledore",
-          "count": 40
-        },
-        {
-          "word": "power",
-          "count": 38
-        },
-        {
-          "word": "person",
-          "count": 35
-        },
-        {
-          "word": "forest",
-          "count": 33
-        },
-        {
-          "word": "freely",
-          "count": 28
-        }
-      ]
-    },
-    {
       "filename": "2013-03-27-harry-potter-villain-origin-stories-analysis.md",
       "slug": "harry-potter-villain-origin-stories-analysis",
       "title": "Villain Origins in Harry Potter: Moral Complexity",
@@ -85506,148 +84470,6 @@
         {
           "word": "cruelty",
           "count": 24
-        }
-      ]
-    },
-    {
-      "filename": "2013-03-30-bullying-harry-potter-dudley-umbridge.md",
-      "slug": "bullying-harry-potter-dudley-umbridge",
-      "title": "Bullying in Harry Potter: Dudley, Umbridge, and Power",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6289,
-      "topWord": "bullying",
-      "topCount": 264,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-03-30-bullying-harry-potter-dudley-umbridge.md",
-      "flaggedWords": [
-        {
-          "word": "bullying",
-          "count": 264
-        },
-        {
-          "word": "series",
-          "count": 174
-        },
-        {
-          "word": "specific",
-          "count": 111
-        },
-        {
-          "word": "harry",
-          "count": 103
-        },
-        {
-          "word": "social",
-          "count": 85
-        },
-        {
-          "word": "institutional",
-          "count": 85
-        },
-        {
-          "word": "bully",
-          "count": 67
-        },
-        {
-          "word": "snape",
-          "count": 67
-        },
-        {
-          "word": "umbridge",
-          "count": 58
-        },
-        {
-          "word": "draco",
-          "count": 55
-        }
-      ],
-      "top20": [
-        {
-          "word": "bullying",
-          "count": 264
-        },
-        {
-          "word": "series",
-          "count": 174
-        },
-        {
-          "word": "specific",
-          "count": 111
-        },
-        {
-          "word": "harry",
-          "count": 103
-        },
-        {
-          "word": "social",
-          "count": 85
-        },
-        {
-          "word": "institutional",
-          "count": 85
-        },
-        {
-          "word": "bully",
-          "count": 67
-        },
-        {
-          "word": "snape",
-          "count": 67
-        },
-        {
-          "word": "umbridge",
-          "count": 58
-        },
-        {
-          "word": "draco",
-          "count": 55
-        },
-        {
-          "word": "dudley",
-          "count": 50
-        },
-        {
-          "word": "power",
-          "count": 44
-        },
-        {
-          "word": "contempt",
-          "count": 39
-        },
-        {
-          "word": "target",
-          "count": 37
-        },
-        {
-          "word": "portrait",
-          "count": 35
-        },
-        {
-          "word": "neville",
-          "count": 35
-        },
-        {
-          "word": "authority",
-          "count": 34
-        },
-        {
-          "word": "cruelty",
-          "count": 33
-        },
-        {
-          "word": "cannot",
-          "count": 33
-        },
-        {
-          "word": "targets",
-          "count": 33
         }
       ]
     },
@@ -85908,152 +84730,6 @@
       ]
     },
     {
-      "filename": "2013-04-05-father-figures-harry-potter.md",
-      "slug": "father-figures-harry-potter",
-      "title": "Father Figures in Harry Potter: Sirius, Dumbledore, Lupin",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5844,
-      "topWord": "harry",
-      "topCount": 355,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-05-father-figures-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "harry",
-          "count": 355
-        },
-        {
-          "word": "father",
-          "count": 188
-        },
-        {
-          "word": "specific",
-          "count": 179
-        },
-        {
-          "word": "series",
-          "count": 102
-        },
-        {
-          "word": "figure",
-          "count": 74
-        },
-        {
-          "word": "figures",
-          "count": 70
-        },
-        {
-          "word": "sirius",
-          "count": 62
-        },
-        {
-          "word": "dumbledore",
-          "count": 58
-        },
-        {
-          "word": "lupin",
-          "count": 57
-        },
-        {
-          "word": "education",
-          "count": 52
-        },
-        {
-          "word": "adult",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "harry",
-          "count": 355
-        },
-        {
-          "word": "father",
-          "count": 188
-        },
-        {
-          "word": "specific",
-          "count": 179
-        },
-        {
-          "word": "series",
-          "count": 102
-        },
-        {
-          "word": "figure",
-          "count": 74
-        },
-        {
-          "word": "figures",
-          "count": 70
-        },
-        {
-          "word": "sirius",
-          "count": 62
-        },
-        {
-          "word": "dumbledore",
-          "count": 58
-        },
-        {
-          "word": "lupin",
-          "count": 57
-        },
-        {
-          "word": "education",
-          "count": 52
-        },
-        {
-          "word": "adult",
-          "count": 51
-        },
-        {
-          "word": "love",
-          "count": 46
-        },
-        {
-          "word": "james",
-          "count": 42
-        },
-        {
-          "word": "child",
-          "count": 41
-        },
-        {
-          "word": "hagrid",
-          "count": 37
-        },
-        {
-          "word": "relationship",
-          "count": 37
-        },
-        {
-          "word": "arthur",
-          "count": 35
-        },
-        {
-          "word": "composite",
-          "count": 30
-        },
-        {
-          "word": "family",
-          "count": 30
-        },
-        {
-          "word": "person",
-          "count": 28
-        }
-      ]
-    },
-    {
       "filename": "2013-04-06-harry-potter-women-characters-analysis.md",
       "slug": "harry-potter-women-characters-analysis",
       "title": "Women of Harry Potter: Mothers Warriors and Survivors",
@@ -86310,148 +84986,6 @@
         {
           "word": "commanders",
           "count": 38
-        }
-      ]
-    },
-    {
-      "filename": "2013-04-10-villain-origins-harry-potter.md",
-      "slug": "villain-origins-harry-potter",
-      "title": "Villain Origins in Harry Potter: Born, Made, or Chosen",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6108,
-      "topWord": "specific",
-      "topCount": 187,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-10-villain-origins-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 187
-        },
-        {
-          "word": "series",
-          "count": 159
-        },
-        {
-          "word": "origin",
-          "count": 104
-        },
-        {
-          "word": "voldemort",
-          "count": 96
-        },
-        {
-          "word": "analysis",
-          "count": 81
-        },
-        {
-          "word": "moral",
-          "count": 80
-        },
-        {
-          "word": "choice",
-          "count": 69
-        },
-        {
-          "word": "villain",
-          "count": 61
-        },
-        {
-          "word": "evil",
-          "count": 57
-        },
-        {
-          "word": "person",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 187
-        },
-        {
-          "word": "series",
-          "count": 159
-        },
-        {
-          "word": "origin",
-          "count": 104
-        },
-        {
-          "word": "voldemort",
-          "count": 96
-        },
-        {
-          "word": "analysis",
-          "count": 81
-        },
-        {
-          "word": "moral",
-          "count": 80
-        },
-        {
-          "word": "choice",
-          "count": 69
-        },
-        {
-          "word": "villain",
-          "count": 61
-        },
-        {
-          "word": "evil",
-          "count": 57
-        },
-        {
-          "word": "person",
-          "count": 51
-        },
-        {
-          "word": "harry",
-          "count": 50
-        },
-        {
-          "word": "circumstances",
-          "count": 48
-        },
-        {
-          "word": "choices",
-          "count": 41
-        },
-        {
-          "word": "draco",
-          "count": 37
-        },
-        {
-          "word": "pettigrew",
-          "count": 35
-        },
-        {
-          "word": "genuine",
-          "count": 34
-        },
-        {
-          "word": "ideology",
-          "count": 33
-        },
-        {
-          "word": "understanding",
-          "count": 32
-        },
-        {
-          "word": "reader",
-          "count": 31
-        },
-        {
-          "word": "whose",
-          "count": 29
         }
       ]
     },
@@ -86724,152 +85258,6 @@
         {
           "word": "operation",
           "count": 34
-        }
-      ]
-    },
-    {
-      "filename": "2013-04-15-class-wealth-blood-status-harry-potter.md",
-      "slug": "class-wealth-blood-status-harry-potter",
-      "title": "Class and Blood Status in Harry Potter: Social System",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6474,
-      "topWord": "specific",
-      "topCount": 230,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-15-class-wealth-blood-status-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 230
-        },
-        {
-          "word": "blood",
-          "count": 158
-        },
-        {
-          "word": "social",
-          "count": 142
-        },
-        {
-          "word": "series",
-          "count": 140
-        },
-        {
-          "word": "class",
-          "count": 93
-        },
-        {
-          "word": "pure",
-          "count": 91
-        },
-        {
-          "word": "muggle",
-          "count": 68
-        },
-        {
-          "word": "position",
-          "count": 66
-        },
-        {
-          "word": "harry",
-          "count": 62
-        },
-        {
-          "word": "capital",
-          "count": 61
-        },
-        {
-          "word": "hermione",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 230
-        },
-        {
-          "word": "blood",
-          "count": 158
-        },
-        {
-          "word": "social",
-          "count": 142
-        },
-        {
-          "word": "series",
-          "count": 140
-        },
-        {
-          "word": "class",
-          "count": 93
-        },
-        {
-          "word": "pure",
-          "count": 91
-        },
-        {
-          "word": "muggle",
-          "count": 68
-        },
-        {
-          "word": "position",
-          "count": 66
-        },
-        {
-          "word": "harry",
-          "count": 62
-        },
-        {
-          "word": "capital",
-          "count": 61
-        },
-        {
-          "word": "hermione",
-          "count": 52
-        },
-        {
-          "word": "economic",
-          "count": 50
-        },
-        {
-          "word": "born",
-          "count": 46
-        },
-        {
-          "word": "family",
-          "count": 45
-        },
-        {
-          "word": "analysis",
-          "count": 40
-        },
-        {
-          "word": "purity",
-          "count": 39
-        },
-        {
-          "word": "wizarding",
-          "count": 39
-        },
-        {
-          "word": "ideology",
-          "count": 38
-        },
-        {
-          "word": "hierarchy",
-          "count": 37
-        },
-        {
-          "word": "status",
-          "count": 33
         }
       ]
     },
@@ -87154,148 +85542,6 @@
       ]
     },
     {
-      "filename": "2013-04-20-women-harry-potter-mothers-warriors-survivors.md",
-      "slug": "women-harry-potter-mothers-warriors-survivors",
-      "title": "Women of Harry Potter: Mothers, Warriors, Survivors",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6257,
-      "topWord": "series",
-      "topCount": 295,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-20-women-harry-potter-mothers-warriors-survivors.md",
-      "flaggedWords": [
-        {
-          "word": "series",
-          "count": 295
-        },
-        {
-          "word": "female",
-          "count": 195
-        },
-        {
-          "word": "specific",
-          "count": 120
-        },
-        {
-          "word": "characters",
-          "count": 76
-        },
-        {
-          "word": "harry",
-          "count": 74
-        },
-        {
-          "word": "narrative",
-          "count": 65
-        },
-        {
-          "word": "character",
-          "count": 59
-        },
-        {
-          "word": "ginny",
-          "count": 55
-        },
-        {
-          "word": "feminist",
-          "count": 54
-        },
-        {
-          "word": "hermione",
-          "count": 54
-        }
-      ],
-      "top20": [
-        {
-          "word": "series",
-          "count": 295
-        },
-        {
-          "word": "female",
-          "count": 195
-        },
-        {
-          "word": "specific",
-          "count": 120
-        },
-        {
-          "word": "characters",
-          "count": 76
-        },
-        {
-          "word": "harry",
-          "count": 74
-        },
-        {
-          "word": "narrative",
-          "count": 65
-        },
-        {
-          "word": "character",
-          "count": 59
-        },
-        {
-          "word": "ginny",
-          "count": 55
-        },
-        {
-          "word": "feminist",
-          "count": 54
-        },
-        {
-          "word": "hermione",
-          "count": 54
-        },
-        {
-          "word": "fully",
-          "count": 41
-        },
-        {
-          "word": "maternal",
-          "count": 38
-        },
-        {
-          "word": "male",
-          "count": 35
-        },
-        {
-          "word": "relationship",
-          "count": 35
-        },
-        {
-          "word": "love",
-          "count": 32
-        },
-        {
-          "word": "whose",
-          "count": 31
-        },
-        {
-          "word": "primarily",
-          "count": 30
-        },
-        {
-          "word": "molly",
-          "count": 30
-        },
-        {
-          "word": "significant",
-          "count": 29
-        },
-        {
-          "word": "defined",
-          "count": 28
-        }
-      ]
-    },
-    {
       "filename": "2013-04-23-harry-potter-orphans-parenting-analysis.md",
       "slug": "harry-potter-orphans-parenting-analysis",
       "title": "Orphans in Harry Potter: Riddle Harry and Neville",
@@ -87422,152 +85668,6 @@
         {
           "word": "raised",
           "count": 24
-        }
-      ]
-    },
-    {
-      "filename": "2013-04-25-boggarts-fear-harry-potter.md",
-      "slug": "boggarts-fear-harry-potter",
-      "title": "Boggarts in Harry Potter: What Deepest Fears Reveal",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6028,
-      "topWord": "fear",
-      "topCount": 271,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-25-boggarts-fear-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "fear",
-          "count": 271
-        },
-        {
-          "word": "boggart",
-          "count": 263
-        },
-        {
-          "word": "specific",
-          "count": 216
-        },
-        {
-          "word": "series",
-          "count": 117
-        },
-        {
-          "word": "harry",
-          "count": 80
-        },
-        {
-          "word": "fears",
-          "count": 64
-        },
-        {
-          "word": "mechanism",
-          "count": 61
-        },
-        {
-          "word": "person",
-          "count": 61
-        },
-        {
-          "word": "courage",
-          "count": 58
-        },
-        {
-          "word": "neville",
-          "count": 55
-        },
-        {
-          "word": "snape",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "fear",
-          "count": 271
-        },
-        {
-          "word": "boggart",
-          "count": 263
-        },
-        {
-          "word": "specific",
-          "count": 216
-        },
-        {
-          "word": "series",
-          "count": 117
-        },
-        {
-          "word": "harry",
-          "count": 80
-        },
-        {
-          "word": "fears",
-          "count": 64
-        },
-        {
-          "word": "mechanism",
-          "count": 61
-        },
-        {
-          "word": "person",
-          "count": 61
-        },
-        {
-          "word": "courage",
-          "count": 58
-        },
-        {
-          "word": "neville",
-          "count": 55
-        },
-        {
-          "word": "snape",
-          "count": 51
-        },
-        {
-          "word": "lesson",
-          "count": 46
-        },
-        {
-          "word": "lupin",
-          "count": 45
-        },
-        {
-          "word": "deepest",
-          "count": 39
-        },
-        {
-          "word": "psychological",
-          "count": 37
-        },
-        {
-          "word": "character",
-          "count": 37
-        },
-        {
-          "word": "chapter",
-          "count": 37
-        },
-        {
-          "word": "relationship",
-          "count": 36
-        },
-        {
-          "word": "cannot",
-          "count": 34
-        },
-        {
-          "word": "wound",
-          "count": 32
         }
       ]
     },
@@ -87930,140 +86030,6 @@
       ]
     },
     {
-      "filename": "2013-04-30-loyalty-betrayal-harry-potter.md",
-      "slug": "loyalty-betrayal-harry-potter",
-      "title": "Loyalty and Betrayal in Harry Potter: Pettigrew, Snape",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5906,
-      "topWord": "loyalty",
-      "topCount": 362,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-04-30-loyalty-betrayal-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "loyalty",
-          "count": 362
-        },
-        {
-          "word": "series",
-          "count": 194
-        },
-        {
-          "word": "specific",
-          "count": 194
-        },
-        {
-          "word": "person",
-          "count": 90
-        },
-        {
-          "word": "harry",
-          "count": 88
-        },
-        {
-          "word": "betrayal",
-          "count": 59
-        },
-        {
-          "word": "snape",
-          "count": 55
-        },
-        {
-          "word": "dumbledore",
-          "count": 54
-        }
-      ],
-      "top20": [
-        {
-          "word": "loyalty",
-          "count": 362
-        },
-        {
-          "word": "series",
-          "count": 194
-        },
-        {
-          "word": "specific",
-          "count": 194
-        },
-        {
-          "word": "person",
-          "count": 90
-        },
-        {
-          "word": "harry",
-          "count": 88
-        },
-        {
-          "word": "betrayal",
-          "count": 59
-        },
-        {
-          "word": "snape",
-          "count": 55
-        },
-        {
-          "word": "dumbledore",
-          "count": 54
-        },
-        {
-          "word": "voldemort",
-          "count": 48
-        },
-        {
-          "word": "pettigrew",
-          "count": 46
-        },
-        {
-          "word": "choice",
-          "count": 41
-        },
-        {
-          "word": "loyal",
-          "count": 36
-        },
-        {
-          "word": "genuine",
-          "count": 34
-        },
-        {
-          "word": "death",
-          "count": 32
-        },
-        {
-          "word": "self",
-          "count": 31
-        },
-        {
-          "word": "simply",
-          "count": 31
-        },
-        {
-          "word": "sustained",
-          "count": 29
-        },
-        {
-          "word": "someone",
-          "count": 27
-        },
-        {
-          "word": "return",
-          "count": 25
-        },
-        {
-          "word": "framework",
-          "count": 25
-        }
-      ]
-    },
-    {
       "filename": "2013-05-04-harry-potter-leadership-styles-analysis.md",
       "slug": "harry-potter-leadership-styles-analysis",
       "title": "Leadership Styles in Harry Potter: A Full Comparison",
@@ -88178,148 +86144,6 @@
         {
           "word": "resistance",
           "count": 19
-        }
-      ]
-    },
-    {
-      "filename": "2013-05-05-orphans-parenting-harry-potter.md",
-      "slug": "orphans-parenting-harry-potter",
-      "title": "Orphans in Harry Potter: Riddle, Harry, and Neville",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5960,
-      "topWord": "specific",
-      "topCount": 255,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-05-orphans-parenting-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 255
-        },
-        {
-          "word": "parenting",
-          "count": 166
-        },
-        {
-          "word": "series",
-          "count": 149
-        },
-        {
-          "word": "harry",
-          "count": 131
-        },
-        {
-          "word": "child",
-          "count": 75
-        },
-        {
-          "word": "love",
-          "count": 57
-        },
-        {
-          "word": "neville",
-          "count": 55
-        },
-        {
-          "word": "person",
-          "count": 53
-        },
-        {
-          "word": "failure",
-          "count": 53
-        },
-        {
-          "word": "parents",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 255
-        },
-        {
-          "word": "parenting",
-          "count": 166
-        },
-        {
-          "word": "series",
-          "count": 149
-        },
-        {
-          "word": "harry",
-          "count": 131
-        },
-        {
-          "word": "child",
-          "count": 75
-        },
-        {
-          "word": "love",
-          "count": 57
-        },
-        {
-          "word": "neville",
-          "count": 55
-        },
-        {
-          "word": "person",
-          "count": 53
-        },
-        {
-          "word": "failure",
-          "count": 53
-        },
-        {
-          "word": "parents",
-          "count": 52
-        },
-        {
-          "word": "tom",
-          "count": 50
-        },
-        {
-          "word": "absence",
-          "count": 46
-        },
-        {
-          "word": "relationship",
-          "count": 43
-        },
-        {
-          "word": "riddle",
-          "count": 42
-        },
-        {
-          "word": "experience",
-          "count": 40
-        },
-        {
-          "word": "analysis",
-          "count": 38
-        },
-        {
-          "word": "argument",
-          "count": 37
-        },
-        {
-          "word": "orphan",
-          "count": 37
-        },
-        {
-          "word": "dumbledore",
-          "count": 37
-        },
-        {
-          "word": "voldemort",
-          "count": 35
         }
       ]
     },
@@ -88588,140 +86412,6 @@
         {
           "word": "reader",
           "count": 26
-        }
-      ]
-    },
-    {
-      "filename": "2013-05-10-death-mortality-harry-potter.md",
-      "slug": "death-mortality-harry-potter",
-      "title": "Death and Mortality in Harry Potter: Facing the End with Courage",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5917,
-      "topWord": "death",
-      "topCount": 363,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-10-death-mortality-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "death",
-          "count": 363
-        },
-        {
-          "word": "specific",
-          "count": 183
-        },
-        {
-          "word": "series",
-          "count": 178
-        },
-        {
-          "word": "harry",
-          "count": 105
-        },
-        {
-          "word": "person",
-          "count": 91
-        },
-        {
-          "word": "acceptance",
-          "count": 74
-        },
-        {
-          "word": "voldemort",
-          "count": 56
-        },
-        {
-          "word": "love",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "death",
-          "count": 363
-        },
-        {
-          "word": "specific",
-          "count": 183
-        },
-        {
-          "word": "series",
-          "count": 178
-        },
-        {
-          "word": "harry",
-          "count": 105
-        },
-        {
-          "word": "person",
-          "count": 91
-        },
-        {
-          "word": "acceptance",
-          "count": 74
-        },
-        {
-          "word": "voldemort",
-          "count": 56
-        },
-        {
-          "word": "love",
-          "count": 52
-        },
-        {
-          "word": "argument",
-          "count": 50
-        },
-        {
-          "word": "philosophical",
-          "count": 43
-        },
-        {
-          "word": "produces",
-          "count": 42
-        },
-        {
-          "word": "makes",
-          "count": 41
-        },
-        {
-          "word": "dying",
-          "count": 39
-        },
-        {
-          "word": "forest",
-          "count": 38
-        },
-        {
-          "word": "mortality",
-          "count": 35
-        },
-        {
-          "word": "wand",
-          "count": 35
-        },
-        {
-          "word": "dead",
-          "count": 34
-        },
-        {
-          "word": "walk",
-          "count": 34
-        },
-        {
-          "word": "terror",
-          "count": 33
-        },
-        {
-          "word": "cannot",
-          "count": 33
         }
       ]
     },
@@ -89092,148 +86782,6 @@
       ]
     },
     {
-      "filename": "2013-05-15-leadership-styles-harry-potter.md",
-      "slug": "leadership-styles-harry-potter",
-      "title": "Leadership in Harry Potter: Dumbledore to Umbridge",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6190,
-      "topWord": "leadership",
-      "topCount": 298,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-15-leadership-styles-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "leadership",
-          "count": 298
-        },
-        {
-          "word": "specific",
-          "count": 219
-        },
-        {
-          "word": "series",
-          "count": 177
-        },
-        {
-          "word": "institutional",
-          "count": 99
-        },
-        {
-          "word": "leader",
-          "count": 93
-        },
-        {
-          "word": "authority",
-          "count": 93
-        },
-        {
-          "word": "harry",
-          "count": 87
-        },
-        {
-          "word": "genuine",
-          "count": 85
-        },
-        {
-          "word": "dumbledore",
-          "count": 59
-        },
-        {
-          "word": "service",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "leadership",
-          "count": 298
-        },
-        {
-          "word": "specific",
-          "count": 219
-        },
-        {
-          "word": "series",
-          "count": 177
-        },
-        {
-          "word": "institutional",
-          "count": 99
-        },
-        {
-          "word": "leader",
-          "count": 93
-        },
-        {
-          "word": "authority",
-          "count": 93
-        },
-        {
-          "word": "harry",
-          "count": 87
-        },
-        {
-          "word": "genuine",
-          "count": 85
-        },
-        {
-          "word": "dumbledore",
-          "count": 59
-        },
-        {
-          "word": "service",
-          "count": 51
-        },
-        {
-          "word": "portrait",
-          "count": 42
-        },
-        {
-          "word": "voldemort",
-          "count": 39
-        },
-        {
-          "word": "requires",
-          "count": 38
-        },
-        {
-          "word": "failure",
-          "count": 37
-        },
-        {
-          "word": "person",
-          "count": 36
-        },
-        {
-          "word": "information",
-          "count": 35
-        },
-        {
-          "word": "loyalty",
-          "count": 35
-        },
-        {
-          "word": "institution",
-          "count": 34
-        },
-        {
-          "word": "style",
-          "count": 31
-        },
-        {
-          "word": "makes",
-          "count": 31
-        }
-      ]
-    },
-    {
       "filename": "2013-05-19-jem-targets-compared.md",
       "slug": "jem-targets-compared",
       "title": "JeM Targets Elimination Compared",
@@ -89514,310 +87062,6 @@
       ]
     },
     {
-      "filename": "2013-05-20-marauders-friendship-betrayal-harry-potter.md",
-      "slug": "marauders-friendship-betrayal-harry-potter",
-      "title": "The Marauders in Harry Potter: Friendship and Betrayal",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6126,
-      "topWord": "specific",
-      "topCount": 313,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-20-marauders-friendship-betrayal-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 313
-        },
-        {
-          "word": "friendship",
-          "count": 274
-        },
-        {
-          "word": "marauder",
-          "count": 145
-        },
-        {
-          "word": "group",
-          "count": 126
-        },
-        {
-          "word": "james",
-          "count": 88
-        },
-        {
-          "word": "series",
-          "count": 81
-        },
-        {
-          "word": "sirius",
-          "count": 77
-        },
-        {
-          "word": "map",
-          "count": 62
-        },
-        {
-          "word": "lupin",
-          "count": 62
-        },
-        {
-          "word": "harry",
-          "count": 56
-        },
-        {
-          "word": "school",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 313
-        },
-        {
-          "word": "friendship",
-          "count": 274
-        },
-        {
-          "word": "marauder",
-          "count": 145
-        },
-        {
-          "word": "group",
-          "count": 126
-        },
-        {
-          "word": "james",
-          "count": 88
-        },
-        {
-          "word": "series",
-          "count": 81
-        },
-        {
-          "word": "sirius",
-          "count": 77
-        },
-        {
-          "word": "map",
-          "count": 62
-        },
-        {
-          "word": "lupin",
-          "count": 62
-        },
-        {
-          "word": "harry",
-          "count": 56
-        },
-        {
-          "word": "school",
-          "count": 52
-        },
-        {
-          "word": "pettigrew",
-          "count": 48
-        },
-        {
-          "word": "person",
-          "count": 47
-        },
-        {
-          "word": "produced",
-          "count": 46
-        },
-        {
-          "word": "produces",
-          "count": 45
-        },
-        {
-          "word": "available",
-          "count": 42
-        },
-        {
-          "word": "snape",
-          "count": 42
-        },
-        {
-          "word": "quality",
-          "count": 42
-        },
-        {
-          "word": "relationship",
-          "count": 41
-        },
-        {
-          "word": "genuinely",
-          "count": 35
-        }
-      ]
-    },
-    {
-      "filename": "2013-05-25-redemption-arcs-harry-potter.md",
-      "slug": "redemption-arcs-harry-potter",
-      "title": "Redemption Arcs in Harry Potter: Who Earned It and Why",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6038,
-      "topWord": "redemption",
-      "topCount": 285,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-25-redemption-arcs-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "redemption",
-          "count": 285
-        },
-        {
-          "word": "specific",
-          "count": 259
-        },
-        {
-          "word": "series",
-          "count": 206
-        },
-        {
-          "word": "act",
-          "count": 122
-        },
-        {
-          "word": "theory",
-          "count": 120
-        },
-        {
-          "word": "harry",
-          "count": 97
-        },
-        {
-          "word": "action",
-          "count": 84
-        },
-        {
-          "word": "cost",
-          "count": 82
-        },
-        {
-          "word": "person",
-          "count": 62
-        },
-        {
-          "word": "draco",
-          "count": 60
-        },
-        {
-          "word": "snape",
-          "count": 58
-        },
-        {
-          "word": "costly",
-          "count": 57
-        },
-        {
-          "word": "genuine",
-          "count": 56
-        },
-        {
-          "word": "requires",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "redemption",
-          "count": 285
-        },
-        {
-          "word": "specific",
-          "count": 259
-        },
-        {
-          "word": "series",
-          "count": 206
-        },
-        {
-          "word": "act",
-          "count": 122
-        },
-        {
-          "word": "theory",
-          "count": 120
-        },
-        {
-          "word": "harry",
-          "count": 97
-        },
-        {
-          "word": "action",
-          "count": 84
-        },
-        {
-          "word": "cost",
-          "count": 82
-        },
-        {
-          "word": "person",
-          "count": 62
-        },
-        {
-          "word": "draco",
-          "count": 60
-        },
-        {
-          "word": "snape",
-          "count": 58
-        },
-        {
-          "word": "costly",
-          "count": 57
-        },
-        {
-          "word": "genuine",
-          "count": 56
-        },
-        {
-          "word": "requires",
-          "count": 51
-        },
-        {
-          "word": "wrong",
-          "count": 44
-        },
-        {
-          "word": "service",
-          "count": 42
-        },
-        {
-          "word": "death",
-          "count": 38
-        },
-        {
-          "word": "available",
-          "count": 38
-        },
-        {
-          "word": "dumbledore",
-          "count": 35
-        },
-        {
-          "word": "question",
-          "count": 35
-        }
-      ]
-    },
-    {
       "filename": "2013-05-26-harry-potter-mental-health-trauma-analysis.md",
       "slug": "harry-potter-mental-health-trauma-analysis",
       "title": "Mental Health in Harry Potter: Trauma Grief and Healing",
@@ -89928,144 +87172,6 @@
         {
           "word": "body",
           "count": 21
-        }
-      ]
-    },
-    {
-      "filename": "2013-05-30-shakespeare-harry-potter-literary-dna.md",
-      "slug": "shakespeare-harry-potter-literary-dna",
-      "title": "Shakespeare in Hogwarts: The Literary DNA of Harry Potter",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6357,
-      "topWord": "specific",
-      "topCount": 290,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-05-30-shakespeare-harry-potter-literary-dna.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 290
-        },
-        {
-          "word": "series",
-          "count": 93
-        },
-        {
-          "word": "shakespeare",
-          "count": 88
-        },
-        {
-          "word": "harry",
-          "count": 86
-        },
-        {
-          "word": "parallel",
-          "count": 74
-        },
-        {
-          "word": "character",
-          "count": 60
-        },
-        {
-          "word": "shakespearean",
-          "count": 60
-        },
-        {
-          "word": "quality",
-          "count": 57
-        },
-        {
-          "word": "snape",
-          "count": 53
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 290
-        },
-        {
-          "word": "series",
-          "count": 93
-        },
-        {
-          "word": "shakespeare",
-          "count": 88
-        },
-        {
-          "word": "harry",
-          "count": 86
-        },
-        {
-          "word": "parallel",
-          "count": 74
-        },
-        {
-          "word": "character",
-          "count": 60
-        },
-        {
-          "word": "shakespearean",
-          "count": 60
-        },
-        {
-          "word": "quality",
-          "count": 57
-        },
-        {
-          "word": "snape",
-          "count": 53
-        },
-        {
-          "word": "person",
-          "count": 50
-        },
-        {
-          "word": "hamlet",
-          "count": 49
-        },
-        {
-          "word": "cannot",
-          "count": 44
-        },
-        {
-          "word": "voldemort",
-          "count": 41
-        },
-        {
-          "word": "dumbledore",
-          "count": 40
-        },
-        {
-          "word": "potter",
-          "count": 39
-        },
-        {
-          "word": "self",
-          "count": 39
-        },
-        {
-          "word": "position",
-          "count": 38
-        },
-        {
-          "word": "whose",
-          "count": 37
-        },
-        {
-          "word": "rowling",
-          "count": 35
-        },
-        {
-          "word": "available",
-          "count": 35
         }
       ]
     },
@@ -90362,144 +87468,6 @@
       ]
     },
     {
-      "filename": "2013-06-05-mental-health-trauma-harry-potter.md",
-      "slug": "mental-health-trauma-harry-potter",
-      "title": "Mental Health and Trauma in Harry Potter: The Psychology of Survival",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6188,
-      "topWord": "specific",
-      "topCount": 368,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-05-mental-health-trauma-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 368
-        },
-        {
-          "word": "series",
-          "count": 195
-        },
-        {
-          "word": "psychological",
-          "count": 151
-        },
-        {
-          "word": "person",
-          "count": 101
-        },
-        {
-          "word": "harry",
-          "count": 86
-        },
-        {
-          "word": "damage",
-          "count": 66
-        },
-        {
-          "word": "magical",
-          "count": 59
-        },
-        {
-          "word": "available",
-          "count": 57
-        },
-        {
-          "word": "dementor",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 368
-        },
-        {
-          "word": "series",
-          "count": 195
-        },
-        {
-          "word": "psychological",
-          "count": 151
-        },
-        {
-          "word": "person",
-          "count": 101
-        },
-        {
-          "word": "harry",
-          "count": 86
-        },
-        {
-          "word": "damage",
-          "count": 66
-        },
-        {
-          "word": "magical",
-          "count": 59
-        },
-        {
-          "word": "available",
-          "count": 57
-        },
-        {
-          "word": "dementor",
-          "count": 51
-        },
-        {
-          "word": "cannot",
-          "count": 50
-        },
-        {
-          "word": "experience",
-          "count": 45
-        },
-        {
-          "word": "grief",
-          "count": 43
-        },
-        {
-          "word": "positive",
-          "count": 42
-        },
-        {
-          "word": "portrait",
-          "count": 41
-        },
-        {
-          "word": "produces",
-          "count": 40
-        },
-        {
-          "word": "quality",
-          "count": 38
-        },
-        {
-          "word": "relationship",
-          "count": 36
-        },
-        {
-          "word": "book",
-          "count": 35
-        },
-        {
-          "word": "trauma",
-          "count": 35
-        },
-        {
-          "word": "argument",
-          "count": 35
-        }
-      ]
-    },
-    {
       "filename": "2013-06-07-harry-potter-magical-creatures-character-mirrors.md",
       "slug": "harry-potter-magical-creatures-character-mirrors",
       "title": "Harry Potter Magical Creatures as Character Mirrors",
@@ -90764,156 +87732,6 @@
         {
           "word": "pakistani",
           "count": 40
-        }
-      ]
-    },
-    {
-      "filename": "2013-06-10-hogwarts-houses-personality-theory.md",
-      "slug": "hogwarts-houses-personality-theory",
-      "title": "Hogwarts Houses as Personality Theory: The Sorting Hat",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6102,
-      "topWord": "specific",
-      "topCount": 260,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-10-hogwarts-houses-personality-theory.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 260
-        },
-        {
-          "word": "value",
-          "count": 206
-        },
-        {
-          "word": "hierarchy",
-          "count": 158
-        },
-        {
-          "word": "sorting",
-          "count": 116
-        },
-        {
-          "word": "series",
-          "count": 113
-        },
-        {
-          "word": "slytherin",
-          "count": 95
-        },
-        {
-          "word": "gryffindor",
-          "count": 82
-        },
-        {
-          "word": "person",
-          "count": 78
-        },
-        {
-          "word": "available",
-          "count": 76
-        },
-        {
-          "word": "hat",
-          "count": 65
-        },
-        {
-          "word": "environment",
-          "count": 62
-        },
-        {
-          "word": "consistently",
-          "count": 56
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 260
-        },
-        {
-          "word": "value",
-          "count": 206
-        },
-        {
-          "word": "hierarchy",
-          "count": 158
-        },
-        {
-          "word": "sorting",
-          "count": 116
-        },
-        {
-          "word": "series",
-          "count": 113
-        },
-        {
-          "word": "slytherin",
-          "count": 95
-        },
-        {
-          "word": "gryffindor",
-          "count": 82
-        },
-        {
-          "word": "person",
-          "count": 78
-        },
-        {
-          "word": "available",
-          "count": 76
-        },
-        {
-          "word": "hat",
-          "count": 65
-        },
-        {
-          "word": "environment",
-          "count": 62
-        },
-        {
-          "word": "consistently",
-          "count": 56
-        },
-        {
-          "word": "courage",
-          "count": 45
-        },
-        {
-          "word": "intelligence",
-          "count": 44
-        },
-        {
-          "word": "produces",
-          "count": 43
-        },
-        {
-          "word": "values",
-          "count": 43
-        },
-        {
-          "word": "identity",
-          "count": 43
-        },
-        {
-          "word": "houses",
-          "count": 41
-        },
-        {
-          "word": "choice",
-          "count": 38
-        },
-        {
-          "word": "strategic",
-          "count": 37
         }
       ]
     },
@@ -91186,164 +88004,6 @@
       ]
     },
     {
-      "filename": "2013-06-15-magical-creatures-character-mirrors.md",
-      "slug": "magical-creatures-character-mirrors",
-      "title": "Magical Creatures in Harry Potter: Character Mirrors",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6120,
-      "topWord": "specific",
-      "topCount": 325,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-15-magical-creatures-character-mirrors.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 325
-        },
-        {
-          "word": "creature",
-          "count": 244
-        },
-        {
-          "word": "series",
-          "count": 141
-        },
-        {
-          "word": "mirror",
-          "count": 100
-        },
-        {
-          "word": "death",
-          "count": 81
-        },
-        {
-          "word": "human",
-          "count": 79
-        },
-        {
-          "word": "relationship",
-          "count": 74
-        },
-        {
-          "word": "creatures",
-          "count": 71
-        },
-        {
-          "word": "quality",
-          "count": 67
-        },
-        {
-          "word": "argument",
-          "count": 66
-        },
-        {
-          "word": "available",
-          "count": 65
-        },
-        {
-          "word": "specifically",
-          "count": 61
-        },
-        {
-          "word": "person",
-          "count": 60
-        },
-        {
-          "word": "character",
-          "count": 57
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 325
-        },
-        {
-          "word": "creature",
-          "count": 244
-        },
-        {
-          "word": "series",
-          "count": 141
-        },
-        {
-          "word": "mirror",
-          "count": 100
-        },
-        {
-          "word": "death",
-          "count": 81
-        },
-        {
-          "word": "human",
-          "count": 79
-        },
-        {
-          "word": "relationship",
-          "count": 74
-        },
-        {
-          "word": "creatures",
-          "count": 71
-        },
-        {
-          "word": "quality",
-          "count": 67
-        },
-        {
-          "word": "argument",
-          "count": 66
-        },
-        {
-          "word": "available",
-          "count": 65
-        },
-        {
-          "word": "specifically",
-          "count": 61
-        },
-        {
-          "word": "person",
-          "count": 60
-        },
-        {
-          "word": "character",
-          "count": 57
-        },
-        {
-          "word": "magical",
-          "count": 50
-        },
-        {
-          "word": "harry",
-          "count": 47
-        },
-        {
-          "word": "animal",
-          "count": 38
-        },
-        {
-          "word": "buckbeak",
-          "count": 34
-        },
-        {
-          "word": "cannot",
-          "count": 32
-        },
-        {
-          "word": "simply",
-          "count": 32
-        }
-      ]
-    },
-    {
       "filename": "2013-06-18-harry-potter-professors-education-philosophy.md",
       "slug": "harry-potter-professors-education-philosophy",
       "title": "Hogwarts Professors: Education Philosophy and Teaching",
@@ -91470,156 +88130,6 @@
         {
           "word": "umbridge",
           "count": 28
-        }
-      ]
-    },
-    {
-      "filename": "2013-06-20-humor-comedy-survival-harry-potter.md",
-      "slug": "humor-comedy-survival-harry-potter",
-      "title": "Humor in Harry Potter: Comedy as Moral Survival",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5828,
-      "topWord": "specific",
-      "topCount": 440,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-20-humor-comedy-survival-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 440
-        },
-        {
-          "word": "humor",
-          "count": 359
-        },
-        {
-          "word": "series",
-          "count": 122
-        },
-        {
-          "word": "specifically",
-          "count": 121
-        },
-        {
-          "word": "available",
-          "count": 111
-        },
-        {
-          "word": "person",
-          "count": 104
-        },
-        {
-          "word": "joke",
-          "count": 73
-        },
-        {
-          "word": "quality",
-          "count": 70
-        },
-        {
-          "word": "completely",
-          "count": 66
-        },
-        {
-          "word": "directly",
-          "count": 55
-        },
-        {
-          "word": "situation",
-          "count": 54
-        },
-        {
-          "word": "relationship",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 440
-        },
-        {
-          "word": "humor",
-          "count": 359
-        },
-        {
-          "word": "series",
-          "count": 122
-        },
-        {
-          "word": "specifically",
-          "count": 121
-        },
-        {
-          "word": "available",
-          "count": 111
-        },
-        {
-          "word": "person",
-          "count": 104
-        },
-        {
-          "word": "joke",
-          "count": 73
-        },
-        {
-          "word": "quality",
-          "count": 70
-        },
-        {
-          "word": "completely",
-          "count": 66
-        },
-        {
-          "word": "directly",
-          "count": 55
-        },
-        {
-          "word": "situation",
-          "count": 54
-        },
-        {
-          "word": "relationship",
-          "count": 51
-        },
-        {
-          "word": "genuine",
-          "count": 47
-        },
-        {
-          "word": "requires",
-          "count": 45
-        },
-        {
-          "word": "laugh",
-          "count": 45
-        },
-        {
-          "word": "produces",
-          "count": 42
-        },
-        {
-          "word": "cannot",
-          "count": 41
-        },
-        {
-          "word": "fred",
-          "count": 40
-        },
-        {
-          "word": "portrait",
-          "count": 38
-        },
-        {
-          "word": "comic",
-          "count": 37
         }
       ]
     },
@@ -92018,172 +88528,6 @@
       ]
     },
     {
-      "filename": "2013-06-25-professors-education-philosophy-harry-potter.md",
-      "slug": "professors-education-philosophy-harry-potter",
-      "title": "Teaching in Harry Potter: Professors and Pedagogy",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6292,
-      "topWord": "specific",
-      "topCount": 571,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-25-professors-education-philosophy-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 571
-        },
-        {
-          "word": "specifically",
-          "count": 302
-        },
-        {
-          "word": "student",
-          "count": 165
-        },
-        {
-          "word": "teaching",
-          "count": 163
-        },
-        {
-          "word": "teacher",
-          "count": 140
-        },
-        {
-          "word": "series",
-          "count": 112
-        },
-        {
-          "word": "relationship",
-          "count": 103
-        },
-        {
-          "word": "available",
-          "count": 97
-        },
-        {
-          "word": "portrait",
-          "count": 92
-        },
-        {
-          "word": "directly",
-          "count": 89
-        },
-        {
-          "word": "institutional",
-          "count": 80
-        },
-        {
-          "word": "subject",
-          "count": 74
-        },
-        {
-          "word": "requires",
-          "count": 66
-        },
-        {
-          "word": "students",
-          "count": 57
-        },
-        {
-          "word": "produces",
-          "count": 51
-        },
-        {
-          "word": "learning",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 571
-        },
-        {
-          "word": "specifically",
-          "count": 302
-        },
-        {
-          "word": "student",
-          "count": 165
-        },
-        {
-          "word": "teaching",
-          "count": 163
-        },
-        {
-          "word": "teacher",
-          "count": 140
-        },
-        {
-          "word": "series",
-          "count": 112
-        },
-        {
-          "word": "relationship",
-          "count": 103
-        },
-        {
-          "word": "available",
-          "count": 97
-        },
-        {
-          "word": "portrait",
-          "count": 92
-        },
-        {
-          "word": "directly",
-          "count": 89
-        },
-        {
-          "word": "institutional",
-          "count": 80
-        },
-        {
-          "word": "subject",
-          "count": 74
-        },
-        {
-          "word": "requires",
-          "count": 66
-        },
-        {
-          "word": "students",
-          "count": 57
-        },
-        {
-          "word": "produces",
-          "count": 51
-        },
-        {
-          "word": "learning",
-          "count": 51
-        },
-        {
-          "word": "encounter",
-          "count": 50
-        },
-        {
-          "word": "classroom",
-          "count": 49
-        },
-        {
-          "word": "dimension",
-          "count": 49
-        },
-        {
-          "word": "harry",
-          "count": 46
-        }
-      ]
-    },
-    {
       "filename": "2013-06-28-harry-potter-courage-bravery-moral-analysis.md",
       "slug": "harry-potter-courage-bravery-moral-analysis",
       "title": "Courage in Harry Potter: Bravery vs True Moral Courage",
@@ -92444,188 +88788,6 @@
       ]
     },
     {
-      "filename": "2013-06-30-half-blood-identity-heritage-harry-potter.md",
-      "slug": "half-blood-identity-heritage-harry-potter",
-      "title": "Half-Blood Identity in Harry Potter: Belonging to Two Worlds",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6651,
-      "topWord": "specific",
-      "topCount": 576,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-06-30-half-blood-identity-heritage-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 576
-        },
-        {
-          "word": "specifically",
-          "count": 310
-        },
-        {
-          "word": "blood",
-          "count": 231
-        },
-        {
-          "word": "identity",
-          "count": 193
-        },
-        {
-          "word": "available",
-          "count": 170
-        },
-        {
-          "word": "heritage",
-          "count": 163
-        },
-        {
-          "word": "ideology",
-          "count": 146
-        },
-        {
-          "word": "directly",
-          "count": 145
-        },
-        {
-          "word": "muggle",
-          "count": 115
-        },
-        {
-          "word": "person",
-          "count": 113
-        },
-        {
-          "word": "pure",
-          "count": 113
-        },
-        {
-          "word": "half",
-          "count": 112
-        },
-        {
-          "word": "series",
-          "count": 101
-        },
-        {
-          "word": "portrait",
-          "count": 80
-        },
-        {
-          "word": "wizarding",
-          "count": 71
-        },
-        {
-          "word": "produces",
-          "count": 68
-        },
-        {
-          "word": "denial",
-          "count": 66
-        },
-        {
-          "word": "completely",
-          "count": 65
-        },
-        {
-          "word": "harry",
-          "count": 56
-        },
-        {
-          "word": "dual",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 576
-        },
-        {
-          "word": "specifically",
-          "count": 310
-        },
-        {
-          "word": "blood",
-          "count": 231
-        },
-        {
-          "word": "identity",
-          "count": 193
-        },
-        {
-          "word": "available",
-          "count": 170
-        },
-        {
-          "word": "heritage",
-          "count": 163
-        },
-        {
-          "word": "ideology",
-          "count": 146
-        },
-        {
-          "word": "directly",
-          "count": 145
-        },
-        {
-          "word": "muggle",
-          "count": 115
-        },
-        {
-          "word": "person",
-          "count": 113
-        },
-        {
-          "word": "pure",
-          "count": 113
-        },
-        {
-          "word": "half",
-          "count": 112
-        },
-        {
-          "word": "series",
-          "count": 101
-        },
-        {
-          "word": "portrait",
-          "count": 80
-        },
-        {
-          "word": "wizarding",
-          "count": 71
-        },
-        {
-          "word": "produces",
-          "count": 68
-        },
-        {
-          "word": "denial",
-          "count": 66
-        },
-        {
-          "word": "completely",
-          "count": 65
-        },
-        {
-          "word": "harry",
-          "count": 56
-        },
-        {
-          "word": "dual",
-          "count": 51
-        }
-      ]
-    },
-    {
       "filename": "2013-07-04-harry-potter-ministry-magic-political-satire.md",
       "slug": "harry-potter-ministry-magic-political-satire",
       "title": "Ministry of Magic as Political Satire: Decoded",
@@ -92740,152 +88902,6 @@
         {
           "word": "ordinary",
           "count": 21
-        }
-      ]
-    },
-    {
-      "filename": "2013-07-05-courage-moral-bravery-harry-potter.md",
-      "slug": "courage-moral-bravery-harry-potter",
-      "title": "Courage and Moral Bravery in Harry Potter: Key Forms",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6030,
-      "topWord": "specific",
-      "topCount": 499,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-05-courage-moral-bravery-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "specific",
-          "count": 499
-        },
-        {
-          "word": "courage",
-          "count": 405
-        },
-        {
-          "word": "available",
-          "count": 385
-        },
-        {
-          "word": "specifically",
-          "count": 261
-        },
-        {
-          "word": "directly",
-          "count": 138
-        },
-        {
-          "word": "series",
-          "count": 136
-        },
-        {
-          "word": "complete",
-          "count": 115
-        },
-        {
-          "word": "completely",
-          "count": 105
-        },
-        {
-          "word": "person",
-          "count": 100
-        },
-        {
-          "word": "portrait",
-          "count": 65
-        },
-        {
-          "word": "harry",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "specific",
-          "count": 499
-        },
-        {
-          "word": "courage",
-          "count": 405
-        },
-        {
-          "word": "available",
-          "count": 385
-        },
-        {
-          "word": "specifically",
-          "count": 261
-        },
-        {
-          "word": "directly",
-          "count": 138
-        },
-        {
-          "word": "series",
-          "count": 136
-        },
-        {
-          "word": "complete",
-          "count": 115
-        },
-        {
-          "word": "completely",
-          "count": 105
-        },
-        {
-          "word": "person",
-          "count": 100
-        },
-        {
-          "word": "portrait",
-          "count": 65
-        },
-        {
-          "word": "harry",
-          "count": 52
-        },
-        {
-          "word": "act",
-          "count": 50
-        },
-        {
-          "word": "immediate",
-          "count": 48
-        },
-        {
-          "word": "demanding",
-          "count": 42
-        },
-        {
-          "word": "cost",
-          "count": 41
-        },
-        {
-          "word": "physical",
-          "count": 41
-        },
-        {
-          "word": "moral",
-          "count": 38
-        },
-        {
-          "word": "requires",
-          "count": 37
-        },
-        {
-          "word": "love",
-          "count": 37
-        },
-        {
-          "word": "sustained",
-          "count": 35
         }
       ]
     },
@@ -93016,176 +89032,6 @@
         {
           "word": "past",
           "count": 27
-        }
-      ]
-    },
-    {
-      "filename": "2013-07-10-ministry-magic-political-satire-harry-potter.md",
-      "slug": "ministry-magic-political-satire-harry-potter",
-      "title": "Ministry of Magic as Political Satire: Democracy's Fall",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6996,
-      "topWord": "available",
-      "topCount": 707,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-10-ministry-magic-political-satire-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 707
-        },
-        {
-          "word": "specific",
-          "count": 553
-        },
-        {
-          "word": "specifically",
-          "count": 460
-        },
-        {
-          "word": "institutional",
-          "count": 379
-        },
-        {
-          "word": "directly",
-          "count": 214
-        },
-        {
-          "word": "ministry",
-          "count": 129
-        },
-        {
-          "word": "portrait",
-          "count": 107
-        },
-        {
-          "word": "series",
-          "count": 103
-        },
-        {
-          "word": "failure",
-          "count": 96
-        },
-        {
-          "word": "purpose",
-          "count": 81
-        },
-        {
-          "word": "completely",
-          "count": 73
-        },
-        {
-          "word": "formally",
-          "count": 71
-        },
-        {
-          "word": "service",
-          "count": 58
-        },
-        {
-          "word": "concentrated",
-          "count": 56
-        },
-        {
-          "word": "democratic",
-          "count": 54
-        },
-        {
-          "word": "dimension",
-          "count": 53
-        },
-        {
-          "word": "legitimate",
-          "count": 53
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 707
-        },
-        {
-          "word": "specific",
-          "count": 553
-        },
-        {
-          "word": "specifically",
-          "count": 460
-        },
-        {
-          "word": "institutional",
-          "count": 379
-        },
-        {
-          "word": "directly",
-          "count": 214
-        },
-        {
-          "word": "ministry",
-          "count": 129
-        },
-        {
-          "word": "portrait",
-          "count": 107
-        },
-        {
-          "word": "series",
-          "count": 103
-        },
-        {
-          "word": "failure",
-          "count": 96
-        },
-        {
-          "word": "purpose",
-          "count": 81
-        },
-        {
-          "word": "completely",
-          "count": 73
-        },
-        {
-          "word": "formally",
-          "count": 71
-        },
-        {
-          "word": "service",
-          "count": 58
-        },
-        {
-          "word": "concentrated",
-          "count": 56
-        },
-        {
-          "word": "democratic",
-          "count": 54
-        },
-        {
-          "word": "dimension",
-          "count": 53
-        },
-        {
-          "word": "legitimate",
-          "count": 53
-        },
-        {
-          "word": "political",
-          "count": 48
-        },
-        {
-          "word": "mechanisms",
-          "count": 47
-        },
-        {
-          "word": "self",
-          "count": 46
         }
       ]
     },
@@ -93454,180 +89300,6 @@
       ]
     },
     {
-      "filename": "2013-07-15-memory-truth-pensieve-harry-potter.md",
-      "slug": "memory-truth-pensieve-harry-potter",
-      "title": "Pensieve in Harry Potter: Memory, Truth, and What We Hide",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6605,
-      "topWord": "available",
-      "topCount": 1039,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-15-memory-truth-pensieve-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1039
-        },
-        {
-          "word": "specifically",
-          "count": 547
-        },
-        {
-          "word": "specific",
-          "count": 516
-        },
-        {
-          "word": "memory",
-          "count": 213
-        },
-        {
-          "word": "directly",
-          "count": 175
-        },
-        {
-          "word": "dimension",
-          "count": 125
-        },
-        {
-          "word": "pensieve",
-          "count": 114
-        },
-        {
-          "word": "complete",
-          "count": 114
-        },
-        {
-          "word": "person",
-          "count": 92
-        },
-        {
-          "word": "portrait",
-          "count": 88
-        },
-        {
-          "word": "truth",
-          "count": 87
-        },
-        {
-          "word": "relevant",
-          "count": 84
-        },
-        {
-          "word": "experience",
-          "count": 77
-        },
-        {
-          "word": "memories",
-          "count": 72
-        },
-        {
-          "word": "completely",
-          "count": 65
-        },
-        {
-          "word": "series",
-          "count": 63
-        },
-        {
-          "word": "private",
-          "count": 55
-        },
-        {
-          "word": "engagement",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1039
-        },
-        {
-          "word": "specifically",
-          "count": 547
-        },
-        {
-          "word": "specific",
-          "count": 516
-        },
-        {
-          "word": "memory",
-          "count": 213
-        },
-        {
-          "word": "directly",
-          "count": 175
-        },
-        {
-          "word": "dimension",
-          "count": 125
-        },
-        {
-          "word": "pensieve",
-          "count": 114
-        },
-        {
-          "word": "complete",
-          "count": 114
-        },
-        {
-          "word": "person",
-          "count": 92
-        },
-        {
-          "word": "portrait",
-          "count": 88
-        },
-        {
-          "word": "truth",
-          "count": 87
-        },
-        {
-          "word": "relevant",
-          "count": 84
-        },
-        {
-          "word": "experience",
-          "count": 77
-        },
-        {
-          "word": "memories",
-          "count": 72
-        },
-        {
-          "word": "completely",
-          "count": 65
-        },
-        {
-          "word": "series",
-          "count": 63
-        },
-        {
-          "word": "private",
-          "count": 55
-        },
-        {
-          "word": "engagement",
-          "count": 52
-        },
-        {
-          "word": "self",
-          "count": 46
-        },
-        {
-          "word": "concentrated",
-          "count": 45
-        }
-      ]
-    },
-    {
       "filename": "2013-07-19-is-amazon-a-good-company-to-work-for.md",
       "slug": "is-amazon-a-good-company-to-work-for",
       "title": "Is Amazon a good company to work for?",
@@ -93730,172 +89402,6 @@
         {
           "word": "choice",
           "count": 5
-        }
-      ]
-    },
-    {
-      "filename": "2013-07-20-dursleys-mundane-evil-harry-potter.md",
-      "slug": "dursleys-mundane-evil-harry-potter",
-      "title": "The Dursleys: Mundane Evil and the Terror of the Ordinary",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6814,
-      "topWord": "available",
-      "topCount": 1467,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-20-dursleys-mundane-evil-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1467
-        },
-        {
-          "word": "specifically",
-          "count": 933
-        },
-        {
-          "word": "directly",
-          "count": 236
-        },
-        {
-          "word": "ordinary",
-          "count": 215
-        },
-        {
-          "word": "extraordinary",
-          "count": 140
-        },
-        {
-          "word": "relevant",
-          "count": 132
-        },
-        {
-          "word": "dimension",
-          "count": 113
-        },
-        {
-          "word": "specific",
-          "count": 111
-        },
-        {
-          "word": "portrait",
-          "count": 108
-        },
-        {
-          "word": "household",
-          "count": 91
-        },
-        {
-          "word": "dursley",
-          "count": 86
-        },
-        {
-          "word": "series",
-          "count": 71
-        },
-        {
-          "word": "evil",
-          "count": 66
-        },
-        {
-          "word": "child",
-          "count": 66
-        },
-        {
-          "word": "fearful",
-          "count": 63
-        },
-        {
-          "word": "concentrated",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1467
-        },
-        {
-          "word": "specifically",
-          "count": 933
-        },
-        {
-          "word": "directly",
-          "count": 236
-        },
-        {
-          "word": "ordinary",
-          "count": 215
-        },
-        {
-          "word": "extraordinary",
-          "count": 140
-        },
-        {
-          "word": "relevant",
-          "count": 132
-        },
-        {
-          "word": "dimension",
-          "count": 113
-        },
-        {
-          "word": "specific",
-          "count": 111
-        },
-        {
-          "word": "portrait",
-          "count": 108
-        },
-        {
-          "word": "household",
-          "count": 91
-        },
-        {
-          "word": "dursley",
-          "count": 86
-        },
-        {
-          "word": "series",
-          "count": 71
-        },
-        {
-          "word": "evil",
-          "count": 66
-        },
-        {
-          "word": "child",
-          "count": 66
-        },
-        {
-          "word": "fearful",
-          "count": 63
-        },
-        {
-          "word": "concentrated",
-          "count": 52
-        },
-        {
-          "word": "dursleys",
-          "count": 43
-        },
-        {
-          "word": "genuine",
-          "count": 43
-        },
-        {
-          "word": "harry",
-          "count": 38
-        },
-        {
-          "word": "genuinely",
-          "count": 38
         }
       ]
     },
@@ -94278,156 +89784,6 @@
       ]
     },
     {
-      "filename": "2013-07-25-prophecy-free-will-destiny-harry-potter.md",
-      "slug": "prophecy-free-will-destiny-harry-potter",
-      "title": "Prophecy and Free Will in Harry Potter: Destiny's Trap",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6877,
-      "topWord": "available",
-      "topCount": 1292,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-25-prophecy-free-will-destiny-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1292
-        },
-        {
-          "word": "specifically",
-          "count": 1130
-        },
-        {
-          "word": "relevant",
-          "count": 539
-        },
-        {
-          "word": "prophecy",
-          "count": 255
-        },
-        {
-          "word": "directly",
-          "count": 182
-        },
-        {
-          "word": "specific",
-          "count": 175
-        },
-        {
-          "word": "harry",
-          "count": 135
-        },
-        {
-          "word": "voldemort",
-          "count": 82
-        },
-        {
-          "word": "series",
-          "count": 81
-        },
-        {
-          "word": "concentrated",
-          "count": 73
-        },
-        {
-          "word": "portrait",
-          "count": 61
-        },
-        {
-          "word": "choice",
-          "count": 54
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1292
-        },
-        {
-          "word": "specifically",
-          "count": 1130
-        },
-        {
-          "word": "relevant",
-          "count": 539
-        },
-        {
-          "word": "prophecy",
-          "count": 255
-        },
-        {
-          "word": "directly",
-          "count": 182
-        },
-        {
-          "word": "specific",
-          "count": 175
-        },
-        {
-          "word": "harry",
-          "count": 135
-        },
-        {
-          "word": "voldemort",
-          "count": 82
-        },
-        {
-          "word": "series",
-          "count": 81
-        },
-        {
-          "word": "concentrated",
-          "count": 73
-        },
-        {
-          "word": "portrait",
-          "count": 61
-        },
-        {
-          "word": "choice",
-          "count": 54
-        },
-        {
-          "word": "chosen",
-          "count": 49
-        },
-        {
-          "word": "choices",
-          "count": 49
-        },
-        {
-          "word": "argument",
-          "count": 45
-        },
-        {
-          "word": "person",
-          "count": 45
-        },
-        {
-          "word": "completely",
-          "count": 45
-        },
-        {
-          "word": "predetermined",
-          "count": 42
-        },
-        {
-          "word": "destiny",
-          "count": 40
-        },
-        {
-          "word": "dumbledore",
-          "count": 40
-        }
-      ]
-    },
-    {
       "filename": "2013-07-27-harvinder-singh-rinda-khalistan.md",
       "slug": "harvinder-singh-rinda-khalistan",
       "title": "Harvinder Singh Rinda Khalistan",
@@ -94700,168 +90056,6 @@
       ]
     },
     {
-      "filename": "2013-07-30-pets-familiars-animal-symbolism-harry-potter.md",
-      "slug": "pets-familiars-animal-symbolism-harry-potter",
-      "title": "Pets and Familiars in Harry Potter: Animal Symbolism",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 6849,
-      "topWord": "available",
-      "topCount": 1334,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-07-30-pets-familiars-animal-symbolism-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1334
-        },
-        {
-          "word": "specifically",
-          "count": 1018
-        },
-        {
-          "word": "relevant",
-          "count": 265
-        },
-        {
-          "word": "familiar",
-          "count": 231
-        },
-        {
-          "word": "directly",
-          "count": 107
-        },
-        {
-          "word": "person",
-          "count": 94
-        },
-        {
-          "word": "portrait",
-          "count": 90
-        },
-        {
-          "word": "private",
-          "count": 85
-        },
-        {
-          "word": "animal",
-          "count": 84
-        },
-        {
-          "word": "concentrated",
-          "count": 78
-        },
-        {
-          "word": "relationship",
-          "count": 77
-        },
-        {
-          "word": "specific",
-          "count": 68
-        },
-        {
-          "word": "dimension",
-          "count": 62
-        },
-        {
-          "word": "harry",
-          "count": 61
-        },
-        {
-          "word": "series",
-          "count": 58
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1334
-        },
-        {
-          "word": "specifically",
-          "count": 1018
-        },
-        {
-          "word": "relevant",
-          "count": 265
-        },
-        {
-          "word": "familiar",
-          "count": 231
-        },
-        {
-          "word": "directly",
-          "count": 107
-        },
-        {
-          "word": "person",
-          "count": 94
-        },
-        {
-          "word": "portrait",
-          "count": 90
-        },
-        {
-          "word": "private",
-          "count": 85
-        },
-        {
-          "word": "animal",
-          "count": 84
-        },
-        {
-          "word": "concentrated",
-          "count": 78
-        },
-        {
-          "word": "relationship",
-          "count": 77
-        },
-        {
-          "word": "specific",
-          "count": 68
-        },
-        {
-          "word": "dimension",
-          "count": 62
-        },
-        {
-          "word": "harry",
-          "count": 61
-        },
-        {
-          "word": "series",
-          "count": 58
-        },
-        {
-          "word": "nature",
-          "count": 48
-        },
-        {
-          "word": "magical",
-          "count": 48
-        },
-        {
-          "word": "companion",
-          "count": 47
-        },
-        {
-          "word": "character",
-          "count": 38
-        },
-        {
-          "word": "genuine",
-          "count": 38
-        }
-      ]
-    },
-    {
       "filename": "2013-08-03-avtar-singh-khanda-uk-khalistan.md",
       "slug": "avtar-singh-khanda-uk-khalistan",
       "title": "Avtar Singh Khanda UK Khalistan",
@@ -95118,334 +90312,6 @@
         {
           "word": "cannot",
           "count": 23
-        }
-      ]
-    },
-    {
-      "filename": "2013-08-05-wand-lore-identity-harry-potter.md",
-      "slug": "wand-lore-identity-harry-potter",
-      "title": "Wand Lore in Harry Potter: Symbolism and Identity",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 7004,
-      "topWord": "available",
-      "topCount": 1486,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-05-wand-lore-identity-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1486
-        },
-        {
-          "word": "specifically",
-          "count": 1278
-        },
-        {
-          "word": "relevant",
-          "count": 486
-        },
-        {
-          "word": "wand",
-          "count": 297
-        },
-        {
-          "word": "person",
-          "count": 129
-        },
-        {
-          "word": "instrument",
-          "count": 93
-        },
-        {
-          "word": "directly",
-          "count": 92
-        },
-        {
-          "word": "concentrated",
-          "count": 92
-        },
-        {
-          "word": "genuine",
-          "count": 84
-        },
-        {
-          "word": "quality",
-          "count": 77
-        },
-        {
-          "word": "portrait",
-          "count": 74
-        },
-        {
-          "word": "relationship",
-          "count": 62
-        },
-        {
-          "word": "specific",
-          "count": 61
-        },
-        {
-          "word": "magical",
-          "count": 56
-        },
-        {
-          "word": "genuinely",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1486
-        },
-        {
-          "word": "specifically",
-          "count": 1278
-        },
-        {
-          "word": "relevant",
-          "count": 486
-        },
-        {
-          "word": "wand",
-          "count": 297
-        },
-        {
-          "word": "person",
-          "count": 129
-        },
-        {
-          "word": "instrument",
-          "count": 93
-        },
-        {
-          "word": "directly",
-          "count": 92
-        },
-        {
-          "word": "concentrated",
-          "count": 92
-        },
-        {
-          "word": "genuine",
-          "count": 84
-        },
-        {
-          "word": "quality",
-          "count": 77
-        },
-        {
-          "word": "portrait",
-          "count": 74
-        },
-        {
-          "word": "relationship",
-          "count": 62
-        },
-        {
-          "word": "specific",
-          "count": 61
-        },
-        {
-          "word": "magical",
-          "count": 56
-        },
-        {
-          "word": "genuinely",
-          "count": 51
-        },
-        {
-          "word": "power",
-          "count": 47
-        },
-        {
-          "word": "dimension",
-          "count": 46
-        },
-        {
-          "word": "series",
-          "count": 44
-        },
-        {
-          "word": "harry",
-          "count": 42
-        },
-        {
-          "word": "elder",
-          "count": 41
-        }
-      ]
-    },
-    {
-      "filename": "2013-08-10-food-feasts-love-harry-potter.md",
-      "slug": "food-feasts-love-harry-potter",
-      "title": "Food and Feasts in Harry Potter: Nourishment and Love",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 9261,
-      "topWord": "food",
-      "topCount": 259,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-10-food-feasts-love-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "food",
-          "count": 259
-        },
-        {
-          "word": "social",
-          "count": 147
-        },
-        {
-          "word": "care",
-          "count": 107
-        },
-        {
-          "word": "magical",
-          "count": 93
-        },
-        {
-          "word": "community",
-          "count": 91
-        },
-        {
-          "word": "understanding",
-          "count": 87
-        },
-        {
-          "word": "emotional",
-          "count": 82
-        },
-        {
-          "word": "relationships",
-          "count": 60
-        },
-        {
-          "word": "family",
-          "count": 59
-        },
-        {
-          "word": "individual",
-          "count": 57
-        },
-        {
-          "word": "series",
-          "count": 56
-        },
-        {
-          "word": "abundance",
-          "count": 56
-        },
-        {
-          "word": "cultural",
-          "count": 56
-        },
-        {
-          "word": "harry",
-          "count": 55
-        },
-        {
-          "word": "labor",
-          "count": 51
-        },
-        {
-          "word": "maintaining",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "food",
-          "count": 259
-        },
-        {
-          "word": "social",
-          "count": 147
-        },
-        {
-          "word": "care",
-          "count": 107
-        },
-        {
-          "word": "magical",
-          "count": 93
-        },
-        {
-          "word": "community",
-          "count": 91
-        },
-        {
-          "word": "understanding",
-          "count": 87
-        },
-        {
-          "word": "emotional",
-          "count": 82
-        },
-        {
-          "word": "relationships",
-          "count": 60
-        },
-        {
-          "word": "family",
-          "count": 59
-        },
-        {
-          "word": "individual",
-          "count": 57
-        },
-        {
-          "word": "series",
-          "count": 56
-        },
-        {
-          "word": "abundance",
-          "count": 56
-        },
-        {
-          "word": "cultural",
-          "count": 56
-        },
-        {
-          "word": "harry",
-          "count": 55
-        },
-        {
-          "word": "labor",
-          "count": 51
-        },
-        {
-          "word": "maintaining",
-          "count": 51
-        },
-        {
-          "word": "systematic",
-          "count": 49
-        },
-        {
-          "word": "create",
-          "count": 47
-        },
-        {
-          "word": "institutional",
-          "count": 46
-        },
-        {
-          "word": "broader",
-          "count": 44
         }
       ]
     },
@@ -95836,172 +90702,6 @@
       ]
     },
     {
-      "filename": "2013-08-15-deathly-hallows-character-test-harry-potter.md",
-      "slug": "deathly-hallows-character-test-harry-potter",
-      "title": "Deathly Hallows as Character Test: What They Reveal",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 7009,
-      "topWord": "available",
-      "topCount": 1586,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-15-deathly-hallows-character-test-harry-potter.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1586
-        },
-        {
-          "word": "specifically",
-          "count": 1164
-        },
-        {
-          "word": "death",
-          "count": 150
-        },
-        {
-          "word": "relevant",
-          "count": 132
-        },
-        {
-          "word": "hallows",
-          "count": 99
-        },
-        {
-          "word": "response",
-          "count": 88
-        },
-        {
-          "word": "person",
-          "count": 84
-        },
-        {
-          "word": "concentrated",
-          "count": 80
-        },
-        {
-          "word": "portrait",
-          "count": 73
-        },
-        {
-          "word": "specific",
-          "count": 72
-        },
-        {
-          "word": "series",
-          "count": 63
-        },
-        {
-          "word": "stone",
-          "count": 57
-        },
-        {
-          "word": "genuine",
-          "count": 57
-        },
-        {
-          "word": "tale",
-          "count": 52
-        },
-        {
-          "word": "harry",
-          "count": 51
-        },
-        {
-          "word": "relationship",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1586
-        },
-        {
-          "word": "specifically",
-          "count": 1164
-        },
-        {
-          "word": "death",
-          "count": 150
-        },
-        {
-          "word": "relevant",
-          "count": 132
-        },
-        {
-          "word": "hallows",
-          "count": 99
-        },
-        {
-          "word": "response",
-          "count": 88
-        },
-        {
-          "word": "person",
-          "count": 84
-        },
-        {
-          "word": "concentrated",
-          "count": 80
-        },
-        {
-          "word": "portrait",
-          "count": 73
-        },
-        {
-          "word": "specific",
-          "count": 72
-        },
-        {
-          "word": "series",
-          "count": 63
-        },
-        {
-          "word": "stone",
-          "count": 57
-        },
-        {
-          "word": "genuine",
-          "count": 57
-        },
-        {
-          "word": "tale",
-          "count": 52
-        },
-        {
-          "word": "harry",
-          "count": 51
-        },
-        {
-          "word": "relationship",
-          "count": 51
-        },
-        {
-          "word": "grief",
-          "count": 44
-        },
-        {
-          "word": "power",
-          "count": 44
-        },
-        {
-          "word": "brother",
-          "count": 39
-        },
-        {
-          "word": "directly",
-          "count": 39
-        }
-      ]
-    },
-    {
       "filename": "2013-08-16-harry-potter-growing-up-maturity-analysis.md",
       "slug": "harry-potter-growing-up-maturity-analysis",
       "title": "Growing Up With Harry Potter: Maturity and Character",
@@ -96274,164 +90974,6 @@
       ]
     },
     {
-      "filename": "2013-08-20-growing-up-harry-potter-maturity.md",
-      "slug": "growing-up-harry-potter-maturity",
-      "title": "Growing Up With Harry Potter: How the Series Ages With Its Reader",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 7307,
-      "topWord": "available",
-      "topCount": 1667,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-20-growing-up-harry-potter-maturity.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 1667
-        },
-        {
-          "word": "specifically",
-          "count": 1513
-        },
-        {
-          "word": "relevant",
-          "count": 220
-        },
-        {
-          "word": "series",
-          "count": 151
-        },
-        {
-          "word": "reader",
-          "count": 100
-        },
-        {
-          "word": "book",
-          "count": 79
-        },
-        {
-          "word": "harry",
-          "count": 77
-        },
-        {
-          "word": "adult",
-          "count": 72
-        },
-        {
-          "word": "moral",
-          "count": 70
-        },
-        {
-          "word": "portrait",
-          "count": 70
-        },
-        {
-          "word": "concentrated",
-          "count": 66
-        },
-        {
-          "word": "developmental",
-          "count": 59
-        },
-        {
-          "word": "genuine",
-          "count": 57
-        },
-        {
-          "word": "person",
-          "count": 54
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 1667
-        },
-        {
-          "word": "specifically",
-          "count": 1513
-        },
-        {
-          "word": "relevant",
-          "count": 220
-        },
-        {
-          "word": "series",
-          "count": 151
-        },
-        {
-          "word": "reader",
-          "count": 100
-        },
-        {
-          "word": "book",
-          "count": 79
-        },
-        {
-          "word": "harry",
-          "count": 77
-        },
-        {
-          "word": "adult",
-          "count": 72
-        },
-        {
-          "word": "moral",
-          "count": 70
-        },
-        {
-          "word": "portrait",
-          "count": 70
-        },
-        {
-          "word": "concentrated",
-          "count": 66
-        },
-        {
-          "word": "developmental",
-          "count": 59
-        },
-        {
-          "word": "genuine",
-          "count": 57
-        },
-        {
-          "word": "person",
-          "count": 54
-        },
-        {
-          "word": "complexity",
-          "count": 46
-        },
-        {
-          "word": "specific",
-          "count": 36
-        },
-        {
-          "word": "growing",
-          "count": 36
-        },
-        {
-          "word": "experience",
-          "count": 35
-        },
-        {
-          "word": "child",
-          "count": 34
-        },
-        {
-          "word": "development",
-          "count": 33
-        }
-      ]
-    },
-    {
       "filename": "2013-08-21-harry-potter-vs-voldemort-character-comparison.md",
       "slug": "harry-potter-vs-voldemort-character-comparison",
       "title": "Harry Potter vs Voldemort: Full Character Comparison",
@@ -96534,140 +91076,6 @@
         {
           "word": "orphan",
           "count": 17
-        }
-      ]
-    },
-    {
-      "filename": "2013-08-25-harry-vs-voldemort-comparison.md",
-      "slug": "harry-vs-voldemort-comparison",
-      "title": "Harry Potter vs Voldemort: The Same Wound, Opposite Scars",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5116,
-      "topWord": "available",
-      "topCount": 865,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-08-25-harry-vs-voldemort-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "available",
-          "count": 865
-        },
-        {
-          "word": "specifically",
-          "count": 790
-        },
-        {
-          "word": "harry",
-          "count": 129
-        },
-        {
-          "word": "voldemort",
-          "count": 115
-        },
-        {
-          "word": "relevant",
-          "count": 98
-        },
-        {
-          "word": "genuine",
-          "count": 57
-        },
-        {
-          "word": "series",
-          "count": 56
-        },
-        {
-          "word": "connection",
-          "count": 55
-        }
-      ],
-      "top20": [
-        {
-          "word": "available",
-          "count": 865
-        },
-        {
-          "word": "specifically",
-          "count": 790
-        },
-        {
-          "word": "harry",
-          "count": 129
-        },
-        {
-          "word": "voldemort",
-          "count": 115
-        },
-        {
-          "word": "relevant",
-          "count": 98
-        },
-        {
-          "word": "genuine",
-          "count": 57
-        },
-        {
-          "word": "series",
-          "count": 56
-        },
-        {
-          "word": "connection",
-          "count": 55
-        },
-        {
-          "word": "specific",
-          "count": 47
-        },
-        {
-          "word": "concentrated",
-          "count": 47
-        },
-        {
-          "word": "portrait",
-          "count": 43
-        },
-        {
-          "word": "capacity",
-          "count": 37
-        },
-        {
-          "word": "person",
-          "count": 35
-        },
-        {
-          "word": "love",
-          "count": 34
-        },
-        {
-          "word": "produces",
-          "count": 34
-        },
-        {
-          "word": "constitutional",
-          "count": 33
-        },
-        {
-          "word": "power",
-          "count": 30
-        },
-        {
-          "word": "comparison",
-          "count": 27
-        },
-        {
-          "word": "circumstances",
-          "count": 27
-        },
-        {
-          "word": "dumbledore",
-          "count": 24
         }
       ]
     },
@@ -96912,144 +91320,6 @@
         {
           "word": "lahore",
           "count": 36
-        }
-      ]
-    },
-    {
-      "filename": "2013-09-01-snape-vs-sirius-comparison.md",
-      "slug": "snape-vs-sirius-comparison",
-      "title": "Snape vs Sirius Black: Two Views of James Potter",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5183,
-      "topWord": "specifically",
-      "topCount": 1002,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-01-snape-vs-sirius-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "specifically",
-          "count": 1002
-        },
-        {
-          "word": "available",
-          "count": 707
-        },
-        {
-          "word": "relevant",
-          "count": 171
-        },
-        {
-          "word": "harry",
-          "count": 122
-        },
-        {
-          "word": "snape",
-          "count": 105
-        },
-        {
-          "word": "sirius",
-          "count": 95
-        },
-        {
-          "word": "relationship",
-          "count": 59
-        },
-        {
-          "word": "person",
-          "count": 51
-        },
-        {
-          "word": "love",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "specifically",
-          "count": 1002
-        },
-        {
-          "word": "available",
-          "count": 707
-        },
-        {
-          "word": "relevant",
-          "count": 171
-        },
-        {
-          "word": "harry",
-          "count": 122
-        },
-        {
-          "word": "snape",
-          "count": 105
-        },
-        {
-          "word": "sirius",
-          "count": 95
-        },
-        {
-          "word": "relationship",
-          "count": 59
-        },
-        {
-          "word": "person",
-          "count": 51
-        },
-        {
-          "word": "love",
-          "count": 51
-        },
-        {
-          "word": "concentrated",
-          "count": 46
-        },
-        {
-          "word": "portrait",
-          "count": 38
-        },
-        {
-          "word": "specific",
-          "count": 33
-        },
-        {
-          "word": "conduct",
-          "count": 30
-        },
-        {
-          "word": "private",
-          "count": 29
-        },
-        {
-          "word": "grief",
-          "count": 28
-        },
-        {
-          "word": "genuine",
-          "count": 27
-        },
-        {
-          "word": "character",
-          "count": 27
-        },
-        {
-          "word": "adult",
-          "count": 25
-        },
-        {
-          "word": "sustained",
-          "count": 23
-        },
-        {
-          "word": "comparison",
-          "count": 21
         }
       ]
     },
@@ -97428,132 +91698,6 @@
       ]
     },
     {
-      "filename": "2013-09-08-dumbledore-vs-gandalf-comparison.md",
-      "slug": "dumbledore-vs-gandalf-comparison",
-      "title": "Dumbledore vs Gandalf: The Manipulator and the Companion",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 5665,
-      "topWord": "specifically",
-      "topCount": 1091,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-08-dumbledore-vs-gandalf-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "specifically",
-          "count": 1091
-        },
-        {
-          "word": "available",
-          "count": 789
-        },
-        {
-          "word": "dumbledore",
-          "count": 93
-        },
-        {
-          "word": "gandalf",
-          "count": 83
-        },
-        {
-          "word": "relevant",
-          "count": 82
-        },
-        {
-          "word": "harry",
-          "count": 81
-        }
-      ],
-      "top20": [
-        {
-          "word": "specifically",
-          "count": 1091
-        },
-        {
-          "word": "available",
-          "count": 789
-        },
-        {
-          "word": "dumbledore",
-          "count": 93
-        },
-        {
-          "word": "gandalf",
-          "count": 83
-        },
-        {
-          "word": "relevant",
-          "count": 82
-        },
-        {
-          "word": "harry",
-          "count": 81
-        },
-        {
-          "word": "person",
-          "count": 43
-        },
-        {
-          "word": "relationship",
-          "count": 35
-        },
-        {
-          "word": "wizard",
-          "count": 33
-        },
-        {
-          "word": "concentrated",
-          "count": 33
-        },
-        {
-          "word": "plan",
-          "count": 32
-        },
-        {
-          "word": "specific",
-          "count": 32
-        },
-        {
-          "word": "genuine",
-          "count": 29
-        },
-        {
-          "word": "comparison",
-          "count": 28
-        },
-        {
-          "word": "power",
-          "count": 28
-        },
-        {
-          "word": "genuinely",
-          "count": 27
-        },
-        {
-          "word": "knowledge",
-          "count": 24
-        },
-        {
-          "word": "hero",
-          "count": 21
-        },
-        {
-          "word": "frodo",
-          "count": 21
-        },
-        {
-          "word": "series",
-          "count": 21
-        }
-      ]
-    },
-    {
       "filename": "2013-09-12-harry-potter-draco-vs-dudley-comparison.md",
       "slug": "harry-potter-draco-vs-dudley-comparison",
       "title": "Draco vs Dudley: Two Bullies Two Paths in Harry Potter",
@@ -97798,188 +91942,6 @@
         {
           "word": "institutional",
           "count": 40
-        }
-      ]
-    },
-    {
-      "filename": "2013-09-15-hermione-vs-luna-comparison.md",
-      "slug": "hermione-vs-luna-comparison",
-      "title": "Hermione Granger vs Luna Lovegood: The Empiricist and the Visionary",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 9049,
-      "topWord": "social",
-      "topCount": 131,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-15-hermione-vs-luna-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "social",
-          "count": 131
-        },
-        {
-          "word": "approaches",
-          "count": 117
-        },
-        {
-          "word": "intellectual",
-          "count": 105
-        },
-        {
-          "word": "understanding",
-          "count": 100
-        },
-        {
-          "word": "luna",
-          "count": 99
-        },
-        {
-          "word": "hermione",
-          "count": 97
-        },
-        {
-          "word": "development",
-          "count": 89
-        },
-        {
-          "word": "authentic",
-          "count": 80
-        },
-        {
-          "word": "learning",
-          "count": 79
-        },
-        {
-          "word": "demonstrates",
-          "count": 76
-        },
-        {
-          "word": "systematic",
-          "count": 74
-        },
-        {
-          "word": "wisdom",
-          "count": 73
-        },
-        {
-          "word": "magical",
-          "count": 72
-        },
-        {
-          "word": "academic",
-          "count": 70
-        },
-        {
-          "word": "emotional",
-          "count": 68
-        },
-        {
-          "word": "requiring",
-          "count": 66
-        },
-        {
-          "word": "knowledge",
-          "count": 63
-        },
-        {
-          "word": "individual",
-          "count": 61
-        },
-        {
-          "word": "maintaining",
-          "count": 53
-        },
-        {
-          "word": "educational",
-          "count": 52
-        }
-      ],
-      "top20": [
-        {
-          "word": "social",
-          "count": 131
-        },
-        {
-          "word": "approaches",
-          "count": 117
-        },
-        {
-          "word": "intellectual",
-          "count": 105
-        },
-        {
-          "word": "understanding",
-          "count": 100
-        },
-        {
-          "word": "luna",
-          "count": 99
-        },
-        {
-          "word": "hermione",
-          "count": 97
-        },
-        {
-          "word": "development",
-          "count": 89
-        },
-        {
-          "word": "authentic",
-          "count": 80
-        },
-        {
-          "word": "learning",
-          "count": 79
-        },
-        {
-          "word": "demonstrates",
-          "count": 76
-        },
-        {
-          "word": "systematic",
-          "count": 74
-        },
-        {
-          "word": "wisdom",
-          "count": 73
-        },
-        {
-          "word": "magical",
-          "count": 72
-        },
-        {
-          "word": "academic",
-          "count": 70
-        },
-        {
-          "word": "emotional",
-          "count": 68
-        },
-        {
-          "word": "requiring",
-          "count": 66
-        },
-        {
-          "word": "knowledge",
-          "count": 63
-        },
-        {
-          "word": "individual",
-          "count": 61
-        },
-        {
-          "word": "maintaining",
-          "count": 53
-        },
-        {
-          "word": "educational",
-          "count": 52
         }
       ]
     },
@@ -98338,188 +92300,6 @@
       ]
     },
     {
-      "filename": "2013-09-22-draco-vs-dudley-comparison.md",
-      "slug": "draco-vs-dudley-comparison",
-      "title": "Draco Malfoy vs Dudley Dursley: Two Bullies, One Question",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 9268,
-      "topWord": "social",
-      "topCount": 199,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-22-draco-vs-dudley-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "social",
-          "count": 199
-        },
-        {
-          "word": "development",
-          "count": 135
-        },
-        {
-          "word": "moral",
-          "count": 128
-        },
-        {
-          "word": "intellectual",
-          "count": 122
-        },
-        {
-          "word": "draco",
-          "count": 114
-        },
-        {
-          "word": "individual",
-          "count": 103
-        },
-        {
-          "word": "dudley",
-          "count": 102
-        },
-        {
-          "word": "growth",
-          "count": 99
-        },
-        {
-          "word": "understanding",
-          "count": 89
-        },
-        {
-          "word": "educational",
-          "count": 76
-        },
-        {
-          "word": "emotional",
-          "count": 74
-        },
-        {
-          "word": "recognition",
-          "count": 70
-        },
-        {
-          "word": "change",
-          "count": 70
-        },
-        {
-          "word": "redemption",
-          "count": 65
-        },
-        {
-          "word": "psychological",
-          "count": 63
-        },
-        {
-          "word": "authentic",
-          "count": 63
-        },
-        {
-          "word": "analytical",
-          "count": 60
-        },
-        {
-          "word": "education",
-          "count": 60
-        },
-        {
-          "word": "create",
-          "count": 59
-        },
-        {
-          "word": "characters",
-          "count": 58
-        }
-      ],
-      "top20": [
-        {
-          "word": "social",
-          "count": 199
-        },
-        {
-          "word": "development",
-          "count": 135
-        },
-        {
-          "word": "moral",
-          "count": 128
-        },
-        {
-          "word": "intellectual",
-          "count": 122
-        },
-        {
-          "word": "draco",
-          "count": 114
-        },
-        {
-          "word": "individual",
-          "count": 103
-        },
-        {
-          "word": "dudley",
-          "count": 102
-        },
-        {
-          "word": "growth",
-          "count": 99
-        },
-        {
-          "word": "understanding",
-          "count": 89
-        },
-        {
-          "word": "educational",
-          "count": 76
-        },
-        {
-          "word": "emotional",
-          "count": 74
-        },
-        {
-          "word": "recognition",
-          "count": 70
-        },
-        {
-          "word": "change",
-          "count": 70
-        },
-        {
-          "word": "redemption",
-          "count": 65
-        },
-        {
-          "word": "psychological",
-          "count": 63
-        },
-        {
-          "word": "authentic",
-          "count": 63
-        },
-        {
-          "word": "analytical",
-          "count": 60
-        },
-        {
-          "word": "education",
-          "count": 60
-        },
-        {
-          "word": "create",
-          "count": 59
-        },
-        {
-          "word": "characters",
-          "count": 58
-        }
-      ]
-    },
-    {
       "filename": "2013-09-23-harry-potter-molly-vs-narcissa-comparison.md",
       "slug": "harry-potter-molly-vs-narcissa-comparison",
       "title": "Molly vs Narcissa: Two Mothers One Weapon",
@@ -98527,9 +92307,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4553,
-      "topWord": "love",
-      "topCount": 113,
+      "wordCount": 4891,
+      "topWord": "narcissa",
+      "topCount": 99,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -98538,102 +92318,110 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-23-harry-potter-molly-vs-narcissa-comparison.md",
       "flaggedWords": [
         {
-          "word": "love",
-          "count": 113
+          "word": "narcissa",
+          "count": 99
         },
         {
           "word": "molly",
-          "count": 108
+          "count": 94
         },
         {
-          "word": "narcissa",
-          "count": 107
+          "word": "maternal",
+          "count": 83
         },
         {
-          "word": "rowling",
-          "count": 52
+          "word": "love",
+          "count": 80
+        },
+        {
+          "word": "mother",
+          "count": 67
+        },
+        {
+          "word": "child",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "love",
-          "count": 113
+          "word": "narcissa",
+          "count": 99
         },
         {
           "word": "molly",
-          "count": 108
+          "count": 94
         },
         {
-          "word": "narcissa",
-          "count": 107
+          "word": "maternal",
+          "count": 83
+        },
+        {
+          "word": "love",
+          "count": 80
+        },
+        {
+          "word": "mother",
+          "count": 67
+        },
+        {
+          "word": "child",
+          "count": 51
         },
         {
           "word": "rowling",
-          "count": 52
+          "count": 47
         },
         {
           "word": "series",
           "count": 41
         },
         {
-          "word": "draco",
-          "count": 38
+          "word": "war",
+          "count": 40
         },
         {
           "word": "comparison",
-          "count": 38
+          "count": 32
         },
         {
-          "word": "harry",
-          "count": 36
-        },
-        {
-          "word": "children",
+          "word": "mothers",
           "count": 31
         },
         {
-          "word": "mother",
-          "count": 26
+          "word": "bellatrix",
+          "count": 30
+        },
+        {
+          "word": "act",
+          "count": 29
         },
         {
           "word": "voldemort",
-          "count": 25
+          "count": 29
         },
         {
-          "word": "family",
-          "count": 24
+          "word": "body",
+          "count": 28
         },
         {
-          "word": "burrow",
-          "count": 23
+          "word": "power",
+          "count": 28
         },
         {
-          "word": "cannot",
-          "count": 22
-        },
-        {
-          "word": "war",
-          "count": 21
-        },
-        {
-          "word": "malfoy",
-          "count": 20
-        },
-        {
-          "word": "moment",
-          "count": 19
+          "word": "weapon",
+          "count": 27
         },
         {
           "word": "lie",
-          "count": 19
+          "count": 26
         },
         {
           "word": "makes",
-          "count": 19
+          "count": 26
         },
         {
-          "word": "bellatrix",
-          "count": 19
+          "word": "force",
+          "count": 25
         }
       ]
     },
@@ -98645,9 +92433,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4604,
-      "topWord": "dumbledore",
-      "topCount": 142,
+      "wordCount": 4127,
+      "topWord": "headmaster",
+      "topCount": 59,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -98656,98 +92444,94 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-28-harry-potter-dumbledore-vs-voldemort-comparison.md",
       "flaggedWords": [
         {
-          "word": "dumbledore",
-          "count": 142
+          "word": "headmaster",
+          "count": 59
         },
         {
-          "word": "voldemort",
-          "count": 140
-        },
-        {
-          "word": "harry",
-          "count": 71
+          "word": "love",
+          "count": 52
         }
       ],
       "top20": [
         {
-          "word": "dumbledore",
-          "count": 142
-        },
-        {
-          "word": "voldemort",
-          "count": 140
-        },
-        {
-          "word": "harry",
-          "count": 71
-        },
-        {
-          "word": "power",
-          "count": 50
-        },
-        {
-          "word": "series",
-          "count": 49
+          "word": "headmaster",
+          "count": 59
         },
         {
           "word": "love",
-          "count": 44
+          "count": 52
         },
         {
-          "word": "death",
-          "count": 43
+          "word": "loved",
+          "count": 42
         },
         {
-          "word": "person",
-          "count": 31
+          "word": "dark",
+          "count": 41
         },
         {
-          "word": "rowling",
-          "count": 29
+          "word": "lord",
+          "count": 40
         },
         {
-          "word": "wand",
-          "count": 29
-        },
-        {
-          "word": "self",
-          "count": 28
-        },
-        {
-          "word": "specific",
-          "count": 27
-        },
-        {
-          "word": "himself",
-          "count": 25
+          "word": "power",
+          "count": 40
         },
         {
           "word": "comparison",
-          "count": 25
+          "count": 36
         },
         {
-          "word": "makes",
+          "word": "boy",
+          "count": 33
+        },
+        {
+          "word": "series",
+          "count": 29
+        },
+        {
+          "word": "capacity",
+          "count": 26
+        },
+        {
+          "word": "nothing",
+          "count": 22
+        },
+        {
+          "word": "himself",
           "count": 21
         },
         {
-          "word": "grindelwald",
+          "word": "whose",
           "count": 21
         },
         {
-          "word": "riddle",
-          "count": 20
-        },
-        {
-          "word": "intelligence",
+          "word": "cannot",
           "count": 19
         },
         {
-          "word": "snape",
-          "count": 19
+          "word": "orphanage",
+          "count": 18
         },
         {
-          "word": "choices",
-          "count": 19
+          "word": "wand",
+          "count": 18
+        },
+        {
+          "word": "question",
+          "count": 17
+        },
+        {
+          "word": "difference",
+          "count": 16
+        },
+        {
+          "word": "soul",
+          "count": 16
+        },
+        {
+          "word": "rowling",
+          "count": 15
         }
       ]
     },
@@ -98906,168 +92690,6 @@
       ]
     },
     {
-      "filename": "2013-09-29-neville-vs-harry-comparison.md",
-      "slug": "neville-vs-harry-comparison",
-      "title": "Neville Longbottom vs Harry Potter: The Chosen One Question",
-      "categories": [
-        "Leisure"
-      ],
-      "lang": "en",
-      "wordCount": 8716,
-      "topWord": "harry",
-      "topCount": 156,
-      "flagged": true,
-      "suppressed": false,
-      "suppressReason": "",
-      "suppressSnapshot": null,
-      "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-09-29-neville-vs-harry-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "harry",
-          "count": 156
-        },
-        {
-          "word": "development",
-          "count": 148
-        },
-        {
-          "word": "neville",
-          "count": 140
-        },
-        {
-          "word": "heroic",
-          "count": 103
-        },
-        {
-          "word": "individual",
-          "count": 103
-        },
-        {
-          "word": "moral",
-          "count": 97
-        },
-        {
-          "word": "character",
-          "count": 93
-        },
-        {
-          "word": "support",
-          "count": 92
-        },
-        {
-          "word": "circumstances",
-          "count": 78
-        },
-        {
-          "word": "action",
-          "count": 74
-        },
-        {
-          "word": "social",
-          "count": 69
-        },
-        {
-          "word": "community",
-          "count": 68
-        },
-        {
-          "word": "potential",
-          "count": 64
-        },
-        {
-          "word": "heroism",
-          "count": 60
-        },
-        {
-          "word": "forms",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "harry",
-          "count": 156
-        },
-        {
-          "word": "development",
-          "count": 148
-        },
-        {
-          "word": "neville",
-          "count": 140
-        },
-        {
-          "word": "heroic",
-          "count": 103
-        },
-        {
-          "word": "individual",
-          "count": 103
-        },
-        {
-          "word": "moral",
-          "count": 97
-        },
-        {
-          "word": "character",
-          "count": 93
-        },
-        {
-          "word": "support",
-          "count": 92
-        },
-        {
-          "word": "circumstances",
-          "count": 78
-        },
-        {
-          "word": "action",
-          "count": 74
-        },
-        {
-          "word": "social",
-          "count": 69
-        },
-        {
-          "word": "community",
-          "count": 68
-        },
-        {
-          "word": "potential",
-          "count": 64
-        },
-        {
-          "word": "heroism",
-          "count": 60
-        },
-        {
-          "word": "forms",
-          "count": 51
-        },
-        {
-          "word": "choice",
-          "count": 49
-        },
-        {
-          "word": "capabilities",
-          "count": 49
-        },
-        {
-          "word": "achievement",
-          "count": 46
-        },
-        {
-          "word": "educational",
-          "count": 44
-        },
-        {
-          "word": "psychological",
-          "count": 43
-        }
-      ]
-    },
-    {
       "filename": "2013-10-03-harry-potter-snape-vs-dumbledore-comparison.md",
       "slug": "harry-potter-snape-vs-dumbledore-comparison",
       "title": "Snape vs Dumbledore: Loyalty and the Greater Good",
@@ -99075,9 +92697,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4272,
-      "topWord": "snape",
-      "topCount": 229,
+      "wordCount": 4393,
+      "topWord": "spy",
+      "topCount": 117,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -99086,98 +92708,94 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-03-harry-potter-snape-vs-dumbledore-comparison.md",
       "flaggedWords": [
         {
-          "word": "snape",
-          "count": 229
+          "word": "spy",
+          "count": 117
         },
         {
-          "word": "dumbledore",
-          "count": 150
-        },
-        {
-          "word": "harry",
-          "count": 86
+          "word": "headmaster",
+          "count": 115
         }
       ],
       "top20": [
         {
-          "word": "snape",
-          "count": 229
+          "word": "spy",
+          "count": 117
         },
         {
-          "word": "dumbledore",
-          "count": 150
-        },
-        {
-          "word": "harry",
-          "count": 86
-        },
-        {
-          "word": "plan",
-          "count": 46
-        },
-        {
-          "word": "series",
-          "count": 41
-        },
-        {
-          "word": "love",
-          "count": 39
-        },
-        {
-          "word": "act",
-          "count": 33
-        },
-        {
-          "word": "lily",
-          "count": 33
-        },
-        {
-          "word": "voldemort",
-          "count": 30
-        },
-        {
-          "word": "full",
-          "count": 27
-        },
-        {
-          "word": "person",
-          "count": 24
-        },
-        {
-          "word": "sacrifice",
-          "count": 24
+          "word": "headmaster",
+          "count": 115
         },
         {
           "word": "cannot",
-          "count": 21
-        },
-        {
-          "word": "death",
-          "count": 20
-        },
-        {
-          "word": "comparison",
-          "count": 19
-        },
-        {
-          "word": "himself",
-          "count": 19
-        },
-        {
-          "word": "killing",
-          "count": 18
-        },
-        {
-          "word": "rowling",
-          "count": 18
-        },
-        {
-          "word": "cost",
-          "count": 17
+          "count": 36
         },
         {
           "word": "relationship",
+          "count": 34
+        },
+        {
+          "word": "comparison",
+          "count": 34
+        },
+        {
+          "word": "love",
+          "count": 33
+        },
+        {
+          "word": "death",
+          "count": 31
+        },
+        {
+          "word": "series",
+          "count": 28
+        },
+        {
+          "word": "war",
+          "count": 28
+        },
+        {
+          "word": "boy",
+          "count": 24
+        },
+        {
+          "word": "killing",
+          "count": 24
+        },
+        {
+          "word": "agent",
+          "count": 22
+        },
+        {
+          "word": "moral",
+          "count": 22
+        },
+        {
+          "word": "whose",
+          "count": 21
+        },
+        {
+          "word": "power",
+          "count": 19
+        },
+        {
+          "word": "toward",
+          "count": 18
+        },
+        {
+          "word": "inside",
+          "count": 18
+        },
+        {
+          "word": "enemy",
           "count": 17
+        },
+        {
+          "word": "consent",
+          "count": 16
+        },
+        {
+          "word": "reader",
+          "count": 15
         }
       ]
     },
@@ -99347,115 +92965,15 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4492,
-      "topWord": "hermione",
-      "topCount": 145,
-      "flagged": true,
+      "wordCount": 4628,
+      "topWord": "comparison",
+      "topCount": 47,
+      "flagged": false,
       "suppressed": false,
       "suppressReason": "",
       "suppressSnapshot": null,
       "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-08-harry-potter-hermione-vs-bellatrix-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "hermione",
-          "count": 145
-        },
-        {
-          "word": "bellatrix",
-          "count": 142
-        },
-        {
-          "word": "series",
-          "count": 58
-        },
-        {
-          "word": "intelligence",
-          "count": 51
-        }
-      ],
-      "top20": [
-        {
-          "word": "hermione",
-          "count": 145
-        },
-        {
-          "word": "bellatrix",
-          "count": 142
-        },
-        {
-          "word": "series",
-          "count": 58
-        },
-        {
-          "word": "intelligence",
-          "count": 51
-        },
-        {
-          "word": "person",
-          "count": 47
-        },
-        {
-          "word": "comparison",
-          "count": 38
-        },
-        {
-          "word": "voldemort",
-          "count": 29
-        },
-        {
-          "word": "rowling",
-          "count": 28
-        },
-        {
-          "word": "specific",
-          "count": 28
-        },
-        {
-          "word": "love",
-          "count": 28
-        },
-        {
-          "word": "power",
-          "count": 27
-        },
-        {
-          "word": "devotion",
-          "count": 27
-        },
-        {
-          "word": "harry",
-          "count": 26
-        },
-        {
-          "word": "brilliance",
-          "count": 23
-        },
-        {
-          "word": "toward",
-          "count": 21
-        },
-        {
-          "word": "magical",
-          "count": 19
-        },
-        {
-          "word": "cannot",
-          "count": 18
-        },
-        {
-          "word": "death",
-          "count": 18
-        },
-        {
-          "word": "born",
-          "count": 17
-        },
-        {
-          "word": "scene",
-          "count": 16
-        }
-      ]
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-08-harry-potter-hermione-vs-bellatrix-comparison.md"
     },
     {
       "filename": "2013-10-09-h1b-dropbox-process-eligibility-documents-change-of-employer.md",
@@ -99571,111 +93089,15 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4121,
-      "topWord": "sirius",
-      "topCount": 154,
-      "flagged": true,
+      "wordCount": 4096,
+      "topWord": "series",
+      "topCount": 36,
+      "flagged": false,
       "suppressed": false,
       "suppressReason": "",
       "suppressSnapshot": null,
       "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-13-harry-potter-sirius-vs-lupin-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "sirius",
-          "count": 154
-        },
-        {
-          "word": "lupin",
-          "count": 138
-        },
-        {
-          "word": "harry",
-          "count": 107
-        }
-      ],
-      "top20": [
-        {
-          "word": "sirius",
-          "count": 154
-        },
-        {
-          "word": "lupin",
-          "count": 138
-        },
-        {
-          "word": "harry",
-          "count": 107
-        },
-        {
-          "word": "person",
-          "count": 36
-        },
-        {
-          "word": "azkaban",
-          "count": 33
-        },
-        {
-          "word": "specific",
-          "count": 28
-        },
-        {
-          "word": "series",
-          "count": 25
-        },
-        {
-          "word": "cannot",
-          "count": 25
-        },
-        {
-          "word": "peter",
-          "count": 22
-        },
-        {
-          "word": "comparison",
-          "count": 19
-        },
-        {
-          "word": "death",
-          "count": 19
-        },
-        {
-          "word": "accommodation",
-          "count": 19
-        },
-        {
-          "word": "james",
-          "count": 18
-        },
-        {
-          "word": "twelve",
-          "count": 18
-        },
-        {
-          "word": "self",
-          "count": 18
-        },
-        {
-          "word": "condition",
-          "count": 17
-        },
-        {
-          "word": "love",
-          "count": 17
-        },
-        {
-          "word": "marauders",
-          "count": 16
-        },
-        {
-          "word": "response",
-          "count": 16
-        },
-        {
-          "word": "careful",
-          "count": 16
-        }
-      ]
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-13-harry-potter-sirius-vs-lupin-comparison.md"
     },
     {
       "filename": "2013-10-14-india-israel-covert-ops-compared.md",
@@ -99843,9 +93265,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4502,
-      "topWord": "draco",
-      "topCount": 112,
+      "wordCount": 4572,
+      "topWord": "twins",
+      "topCount": 81,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -99854,106 +93276,94 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-18-harry-potter-fred-george-vs-draco-comparison.md",
       "flaggedWords": [
         {
+          "word": "twins",
+          "count": 81
+        },
+        {
           "word": "draco",
-          "count": 112
-        },
-        {
-          "word": "fred",
-          "count": 100
-        },
-        {
-          "word": "george",
-          "count": 75
-        },
-        {
-          "word": "comparison",
-          "count": 58
-        },
-        {
-          "word": "humor",
-          "count": 56
+          "count": 54
         }
       ],
       "top20": [
         {
+          "word": "twins",
+          "count": 81
+        },
+        {
           "word": "draco",
-          "count": 112
+          "count": 54
         },
         {
-          "word": "fred",
-          "count": 100
-        },
-        {
-          "word": "george",
-          "count": 75
+          "word": "cleverness",
+          "count": 46
         },
         {
           "word": "comparison",
-          "count": 58
-        },
-        {
-          "word": "humor",
-          "count": 56
+          "count": 42
         },
         {
           "word": "series",
-          "count": 44
-        },
-        {
-          "word": "intelligence",
           "count": 39
         },
         {
-          "word": "specific",
-          "count": 37
-        },
-        {
-          "word": "twins",
+          "word": "malfoy",
           "count": 36
         },
         {
-          "word": "cruelty",
-          "count": 34
-        },
-        {
-          "word": "argument",
-          "count": 32
-        },
-        {
-          "word": "moral",
-          "count": 29
-        },
-        {
-          "word": "person",
-          "count": 26
-        },
-        {
-          "word": "social",
-          "count": 25
-        },
-        {
-          "word": "power",
-          "count": 25
+          "word": "intelligence",
+          "count": 36
         },
         {
           "word": "rowling",
-          "count": 24
+          "count": 27
+        },
+        {
+          "word": "moral",
+          "count": 27
+        },
+        {
+          "word": "makes",
+          "count": 22
         },
         {
           "word": "cannot",
-          "count": 23
+          "count": 21
+        },
+        {
+          "word": "itself",
+          "count": 21
+        },
+        {
+          "word": "reader",
+          "count": 21
         },
         {
           "word": "blood",
-          "count": 23
+          "count": 20
         },
         {
-          "word": "joy",
-          "count": 23
+          "word": "power",
+          "count": 19
         },
         {
-          "word": "malfoy",
-          "count": 22
+          "word": "clever",
+          "count": 19
+        },
+        {
+          "word": "hierarchy",
+          "count": 18
+        },
+        {
+          "word": "cruelty",
+          "count": 18
+        },
+        {
+          "word": "fred",
+          "count": 17
+        },
+        {
+          "word": "character",
+          "count": 17
         }
       ]
     },
@@ -100115,9 +93525,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4389,
-      "topWord": "hagrid",
-      "topCount": 164,
+      "wordCount": 4620,
+      "topWord": "werewolf",
+      "topCount": 64,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -100126,102 +93536,94 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-24-harry-potter-hagrid-vs-lupin-mentor-comparison.md",
       "flaggedWords": [
         {
-          "word": "hagrid",
-          "count": 164
+          "word": "werewolf",
+          "count": 64
         },
         {
-          "word": "harry",
-          "count": 157
-        },
-        {
-          "word": "lupin",
-          "count": 137
-        },
-        {
-          "word": "specific",
-          "count": 55
+          "word": "giant",
+          "count": 57
         }
       ],
       "top20": [
         {
-          "word": "hagrid",
-          "count": 164
-        },
-        {
-          "word": "harry",
-          "count": 157
-        },
-        {
-          "word": "lupin",
-          "count": 137
-        },
-        {
-          "word": "specific",
-          "count": 55
-        },
-        {
-          "word": "comparison",
-          "count": 34
-        },
-        {
-          "word": "love",
-          "count": 33
-        },
-        {
-          "word": "patronus",
-          "count": 33
-        },
-        {
-          "word": "person",
-          "count": 28
-        },
-        {
-          "word": "dangerous",
-          "count": 26
-        },
-        {
-          "word": "emotional",
-          "count": 23
-        },
-        {
-          "word": "wizarding",
-          "count": 22
-        },
-        {
-          "word": "cannot",
-          "count": 22
+          "word": "werewolf",
+          "count": 64
         },
         {
           "word": "giant",
+          "count": 57
+        },
+        {
+          "word": "half",
+          "count": 46
+        },
+        {
+          "word": "love",
+          "count": 44
+        },
+        {
+          "word": "harry",
+          "count": 37
+        },
+        {
+          "word": "boy",
+          "count": 37
+        },
+        {
+          "word": "series",
+          "count": 30
+        },
+        {
+          "word": "comparison",
+          "count": 25
+        },
+        {
+          "word": "rowling",
           "count": 21
         },
         {
-          "word": "teaching",
+          "word": "cannot",
           "count": 21
         },
         {
-          "word": "lesson",
-          "count": 21
-        },
-        {
-          "word": "creature",
-          "count": 21
-        },
-        {
-          "word": "gift",
+          "word": "lessons",
           "count": 19
         },
         {
-          "word": "hogwarts",
+          "word": "child",
+          "count": 19
+        },
+        {
+          "word": "keeper",
+          "count": 19
+        },
+        {
+          "word": "teach",
           "count": 18
         },
         {
-          "word": "needs",
+          "word": "reader",
           "count": 18
         },
         {
-          "word": "makes",
+          "word": "lesson",
           "count": 18
+        },
+        {
+          "word": "mentor",
+          "count": 17
+        },
+        {
+          "word": "taught",
+          "count": 17
+        },
+        {
+          "word": "lupin",
+          "count": 17
+        },
+        {
+          "word": "teaching",
+          "count": 17
         }
       ]
     },
@@ -100233,9 +93635,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4367,
-      "topWord": "harry",
-      "topCount": 175,
+      "wordCount": 4138,
+      "topWord": "girl",
+      "topCount": 57,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -100244,121 +93646,93 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-10-30-harry-potter-ginny-vs-cho-comparison.md",
       "flaggedWords": [
         {
-          "word": "harry",
-          "count": 175
-        },
-        {
-          "word": "cho",
-          "count": 163
-        },
-        {
-          "word": "ginny",
-          "count": 135
-        },
-        {
-          "word": "comparison",
-          "count": 81
-        },
-        {
-          "word": "love",
-          "count": 62
-        },
-        {
-          "word": "relationship",
+          "word": "girl",
           "count": 57
         },
         {
-          "word": "series",
-          "count": 55
-        },
-        {
-          "word": "person",
-          "count": 55
-        },
-        {
-          "word": "grief",
-          "count": 52
+          "word": "boy",
+          "count": 51
         }
       ],
       "top20": [
         {
-          "word": "harry",
-          "count": 175
-        },
-        {
-          "word": "cho",
-          "count": 163
-        },
-        {
-          "word": "ginny",
-          "count": 135
-        },
-        {
-          "word": "comparison",
-          "count": 81
-        },
-        {
-          "word": "love",
-          "count": 62
-        },
-        {
-          "word": "relationship",
+          "word": "girl",
           "count": 57
         },
         {
-          "word": "series",
-          "count": 55
-        },
-        {
-          "word": "person",
-          "count": 55
+          "word": "boy",
+          "count": 51
         },
         {
           "word": "grief",
-          "count": 52
+          "count": 50
         },
         {
-          "word": "specific",
-          "count": 49
+          "word": "series",
+          "count": 47
         },
         {
-          "word": "narrative",
-          "count": 41
+          "word": "story",
+          "count": 39
         },
         {
-          "word": "cedric",
+          "word": "love",
+          "count": 34
+        },
+        {
+          "word": "ravenclaw",
+          "count": 34
+        },
+        {
+          "word": "person",
           "count": 29
         },
         {
-          "word": "romantic",
+          "word": "inside",
+          "count": 26
+        },
+        {
+          "word": "partner",
+          "count": 26
+        },
+        {
+          "word": "older",
           "count": 25
         },
         {
-          "word": "emotional",
-          "count": 25
-        },
-        {
-          "word": "genuine",
+          "word": "romance",
           "count": 24
         },
         {
-          "word": "character",
+          "word": "gryffindor",
+          "count": 24
+        },
+        {
+          "word": "relationship",
           "count": 22
         },
         {
-          "word": "rowling",
-          "count": 21
-        },
-        {
-          "word": "argument",
+          "word": "comparison",
           "count": 20
         },
         {
-          "word": "someone",
+          "word": "voldemort",
           "count": 18
         },
         {
-          "word": "response",
+          "word": "romantic",
+          "count": 18
+        },
+        {
+          "word": "pain",
+          "count": 17
+        },
+        {
+          "word": "reader",
+          "count": 17
+        },
+        {
+          "word": "whose",
           "count": 17
         }
       ]
@@ -100521,9 +93895,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4541,
-      "topWord": "dobby",
-      "topCount": 157,
+      "wordCount": 4525,
+      "topWord": "elf",
+      "topCount": 87,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -100532,110 +93906,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-05-harry-potter-dobby-vs-kreacher-comparison.md",
       "flaggedWords": [
         {
-          "word": "dobby",
-          "count": 157
-        },
-        {
-          "word": "kreacher",
-          "count": 138
-        },
-        {
-          "word": "harry",
-          "count": 117
-        },
-        {
           "word": "elf",
-          "count": 58
+          "count": 87
         },
         {
-          "word": "specific",
-          "count": 57
+          "word": "elves",
+          "count": 77
         },
         {
-          "word": "loyalty",
-          "count": 54
+          "word": "creature",
+          "count": 73
+        },
+        {
+          "word": "saga",
+          "count": 59
         }
       ],
       "top20": [
         {
-          "word": "dobby",
-          "count": 157
-        },
-        {
-          "word": "kreacher",
-          "count": 138
-        },
-        {
-          "word": "harry",
-          "count": 117
-        },
-        {
           "word": "elf",
-          "count": 58
-        },
-        {
-          "word": "specific",
-          "count": 57
-        },
-        {
-          "word": "loyalty",
-          "count": 54
-        },
-        {
-          "word": "comparison",
-          "count": 46
-        },
-        {
-          "word": "series",
-          "count": 43
-        },
-        {
-          "word": "person",
-          "count": 40
-        },
-        {
-          "word": "argument",
-          "count": 38
-        },
-        {
-          "word": "transformation",
-          "count": 36
-        },
-        {
-          "word": "regulus",
-          "count": 36
-        },
-        {
-          "word": "death",
-          "count": 35
-        },
-        {
-          "word": "genuine",
-          "count": 34
-        },
-        {
-          "word": "freedom",
-          "count": 33
+          "count": 87
         },
         {
           "word": "elves",
-          "count": 29
+          "count": 77
+        },
+        {
+          "word": "creature",
+          "count": 73
+        },
+        {
+          "word": "saga",
+          "count": 59
+        },
+        {
+          "word": "harry",
+          "count": 43
+        },
+        {
+          "word": "servant",
+          "count": 37
+        },
+        {
+          "word": "bound",
+          "count": 36
+        },
+        {
+          "word": "comparison",
+          "count": 33
+        },
+        {
+          "word": "servants",
+          "count": 31
+        },
+        {
+          "word": "freed",
+          "count": 30
         },
         {
           "word": "whose",
           "count": 26
         },
         {
-          "word": "respect",
-          "count": 26
+          "word": "wizarding",
+          "count": 25
         },
         {
-          "word": "free",
-          "count": 23
+          "word": "bondage",
+          "count": 25
         },
         {
-          "word": "creature",
-          "count": 23
+          "word": "freedom",
+          "count": 25
+        },
+        {
+          "word": "rowling",
+          "count": 24
+        },
+        {
+          "word": "black",
+          "count": 24
+        },
+        {
+          "word": "moral",
+          "count": 24
+        },
+        {
+          "word": "master",
+          "count": 22
+        },
+        {
+          "word": "reader",
+          "count": 22
+        },
+        {
+          "word": "malfoy",
+          "count": 21
         }
       ]
     },
@@ -100647,9 +94013,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4384,
-      "topWord": "snape",
-      "topCount": 200,
+      "wordCount": 5779,
+      "topWord": "boy",
+      "topCount": 104,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -100658,114 +94024,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-10-harry-potter-james-vs-snape-comparison.md",
       "flaggedWords": [
         {
-          "word": "snape",
-          "count": 200
+          "word": "boy",
+          "count": 104
         },
         {
-          "word": "james",
-          "count": 158
-        },
-        {
-          "word": "harry",
-          "count": 92
-        },
-        {
-          "word": "lily",
+          "word": "love",
           "count": 77
         },
         {
-          "word": "comparison",
-          "count": 64
+          "word": "husband",
+          "count": 65
         },
         {
-          "word": "person",
-          "count": 61
-        },
-        {
-          "word": "specific",
-          "count": 60
+          "word": "friend",
+          "count": 63
         }
       ],
       "top20": [
         {
-          "word": "snape",
-          "count": 200
+          "word": "boy",
+          "count": 104
         },
         {
-          "word": "james",
-          "count": 158
-        },
-        {
-          "word": "harry",
-          "count": 92
-        },
-        {
-          "word": "lily",
+          "word": "love",
           "count": 77
         },
         {
-          "word": "comparison",
-          "count": 64
+          "word": "husband",
+          "count": 65
         },
         {
-          "word": "person",
-          "count": 61
+          "word": "friend",
+          "count": 63
         },
         {
-          "word": "specific",
-          "count": 60
+          "word": "spy",
+          "count": 45
         },
         {
-          "word": "series",
-          "count": 39
+          "word": "father",
+          "count": 40
         },
         {
           "word": "cruelty",
-          "count": 37
+          "count": 36
         },
         {
-          "word": "pensieve",
+          "word": "series",
+          "count": 34
+        },
+        {
+          "word": "cannot",
           "count": 32
         },
         {
-          "word": "bullying",
+          "word": "died",
+          "count": 31
+        },
+        {
+          "word": "slur",
+          "count": 31
+        },
+        {
+          "word": "rejected",
           "count": 30
         },
         {
           "word": "rowling",
+          "count": 29
+        },
+        {
+          "word": "child",
+          "count": 28
+        },
+        {
+          "word": "son",
           "count": 26
         },
         {
-          "word": "social",
+          "word": "single",
           "count": 24
         },
         {
-          "word": "moral",
-          "count": 24
-        },
-        {
-          "word": "choices",
+          "word": "harry",
           "count": 23
-        },
-        {
-          "word": "genuine",
-          "count": 23
-        },
-        {
-          "word": "death",
-          "count": 22
-        },
-        {
-          "word": "love",
-          "count": 21
         },
         {
           "word": "choice",
-          "count": 20
+          "count": 22
         },
         {
-          "word": "moment",
-          "count": 20
+          "word": "death",
+          "count": 21
+        },
+        {
+          "word": "exactly",
+          "count": 19
         }
       ]
     },
@@ -100883,9 +94237,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4430,
+      "wordCount": 4681,
       "topWord": "authority",
-      "topCount": 137,
+      "topCount": 99,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -100895,109 +94249,97 @@
       "flaggedWords": [
         {
           "word": "authority",
-          "count": 137
+          "count": 99
         },
         {
-          "word": "umbridge",
-          "count": 135
+          "word": "reader",
+          "count": 55
         },
         {
-          "word": "mcgonagall",
-          "count": 104
-        },
-        {
-          "word": "comparison",
-          "count": 77
-        },
-        {
-          "word": "students",
-          "count": 67
-        },
-        {
-          "word": "institutional",
-          "count": 56
+          "word": "power",
+          "count": 54
         }
       ],
       "top20": [
         {
           "word": "authority",
-          "count": 137
+          "count": 99
         },
         {
-          "word": "umbridge",
-          "count": 135
-        },
-        {
-          "word": "mcgonagall",
-          "count": 104
-        },
-        {
-          "word": "comparison",
-          "count": 77
-        },
-        {
-          "word": "students",
-          "count": 67
-        },
-        {
-          "word": "institutional",
-          "count": 56
-        },
-        {
-          "word": "person",
-          "count": 46
+          "word": "reader",
+          "count": 55
         },
         {
           "word": "power",
-          "count": 44
+          "count": 54
         },
         {
-          "word": "specific",
-          "count": 38
-        },
-        {
-          "word": "institution",
-          "count": 31
-        },
-        {
-          "word": "dumbledore",
-          "count": 29
-        },
-        {
-          "word": "argument",
-          "count": 28
+          "word": "inquisitor",
+          "count": 49
         },
         {
           "word": "series",
-          "count": 28
+          "count": 46
         },
         {
-          "word": "ministry",
-          "count": 27
+          "word": "moral",
+          "count": 43
         },
         {
-          "word": "position",
-          "count": 26
+          "word": "comparison",
+          "count": 38
+        },
+        {
+          "word": "students",
+          "count": 24
+        },
+        {
+          "word": "deputy",
+          "count": 23
+        },
+        {
+          "word": "person",
+          "count": 23
+        },
+        {
+          "word": "guardian",
+          "count": 19
+        },
+        {
+          "word": "follows",
+          "count": 18
+        },
+        {
+          "word": "pairing",
+          "count": 18
+        },
+        {
+          "word": "role",
+          "count": 18
+        },
+        {
+          "word": "evil",
+          "count": 18
+        },
+        {
+          "word": "office",
+          "count": 17
+        },
+        {
+          "word": "makes",
+          "count": 16
+        },
+        {
+          "word": "pink",
+          "count": 16
         },
         {
           "word": "rules",
-          "count": 25
+          "count": 16
         },
         {
-          "word": "hogwarts",
-          "count": 21
-        },
-        {
-          "word": "structure",
-          "count": 21
-        },
-        {
-          "word": "serves",
-          "count": 20
-        },
-        {
-          "word": "school",
-          "count": 19
+          "word": "cruelty",
+          "count": 16
         }
       ]
     },
@@ -101009,9 +94351,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4529,
-      "topWord": "ron",
-      "topCount": 113,
+      "wordCount": 4733,
+      "topWord": "boy",
+      "topCount": 108,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -101020,126 +94362,102 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-21-harry-potter-ron-vs-draco-comparison.md",
       "flaggedWords": [
         {
-          "word": "ron",
-          "count": 113
+          "word": "boy",
+          "count": 108
         },
         {
-          "word": "draco",
-          "count": 112
-        },
-        {
-          "word": "comparison",
-          "count": 95
-        },
-        {
-          "word": "household",
-          "count": 84
-        },
-        {
-          "word": "love",
-          "count": 71
-        },
-        {
-          "word": "weasley",
-          "count": 63
-        },
-        {
-          "word": "malfoy",
-          "count": 61
+          "word": "blood",
+          "count": 68
         },
         {
           "word": "family",
-          "count": 61
+          "count": 68
         },
         {
-          "word": "specific",
-          "count": 60
-        },
-        {
-          "word": "harry",
-          "count": 59
+          "word": "malfoy",
+          "count": 68
         }
       ],
       "top20": [
         {
-          "word": "ron",
-          "count": 113
-        },
-        {
-          "word": "draco",
-          "count": 112
-        },
-        {
-          "word": "comparison",
-          "count": 95
-        },
-        {
-          "word": "household",
-          "count": 84
-        },
-        {
-          "word": "love",
-          "count": 71
-        },
-        {
-          "word": "weasley",
-          "count": 63
-        },
-        {
-          "word": "malfoy",
-          "count": 61
-        },
-        {
-          "word": "family",
-          "count": 61
-        },
-        {
-          "word": "specific",
-          "count": 60
-        },
-        {
-          "word": "harry",
-          "count": 59
-        },
-        {
-          "word": "series",
-          "count": 46
-        },
-        {
-          "word": "person",
-          "count": 37
-        },
-        {
-          "word": "ideology",
-          "count": 36
-        },
-        {
-          "word": "formation",
-          "count": 36
-        },
-        {
-          "word": "status",
-          "count": 32
+          "word": "boy",
+          "count": 108
         },
         {
           "word": "blood",
-          "count": 31
+          "count": 68
         },
         {
-          "word": "argument",
-          "count": 30
+          "word": "family",
+          "count": 68
         },
         {
-          "word": "social",
-          "count": 27
+          "word": "malfoy",
+          "count": 68
         },
         {
-          "word": "organized",
-          "count": 26
+          "word": "comparison",
+          "count": 40
+        },
+        {
+          "word": "boys",
+          "count": 35
         },
         {
           "word": "pure",
-          "count": 22
+          "count": 34
+        },
+        {
+          "word": "child",
+          "count": 33
+        },
+        {
+          "word": "reader",
+          "count": 31
+        },
+        {
+          "word": "love",
+          "count": 31
+        },
+        {
+          "word": "heir",
+          "count": 29
+        },
+        {
+          "word": "redhead",
+          "count": 29
+        },
+        {
+          "word": "warmth",
+          "count": 29
+        },
+        {
+          "word": "books",
+          "count": 28
+        },
+        {
+          "word": "protagonist",
+          "count": 26
+        },
+        {
+          "word": "weasley",
+          "count": 25
+        },
+        {
+          "word": "children",
+          "count": 24
+        },
+        {
+          "word": "moral",
+          "count": 24
+        },
+        {
+          "word": "himself",
+          "count": 24
+        },
+        {
+          "word": "culture",
+          "count": 23
         }
       ]
     },
@@ -101293,9 +94611,9 @@
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4268,
-      "topWord": "regulus",
-      "topCount": 130,
+      "wordCount": 4435,
+      "topWord": "pettigrew",
+      "topCount": 123,
       "flagged": true,
       "suppressed": false,
       "suppressReason": "",
@@ -101304,238 +94622,118 @@
       "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-11-26-harry-potter-pettigrew-vs-regulus-comparison.md",
       "flaggedWords": [
         {
-          "word": "regulus",
-          "count": 130
-        },
-        {
-          "word": "comparison",
-          "count": 106
-        },
-        {
           "word": "pettigrew",
-          "count": 104
+          "count": 123
         },
         {
-          "word": "person",
-          "count": 59
+          "word": "regulus",
+          "count": 121
         },
         {
-          "word": "harry",
-          "count": 58
-        },
-        {
-          "word": "voldemort",
-          "count": 58
-        },
-        {
-          "word": "kreacher",
+          "word": "moral",
           "count": 54
-        },
-        {
-          "word": "specific",
-          "count": 53
         }
       ],
       "top20": [
         {
-          "word": "regulus",
-          "count": 130
-        },
-        {
-          "word": "comparison",
-          "count": 106
-        },
-        {
           "word": "pettigrew",
-          "count": 104
+          "count": 123
         },
         {
-          "word": "person",
-          "count": 59
+          "word": "regulus",
+          "count": 121
         },
         {
-          "word": "harry",
-          "count": 58
-        },
-        {
-          "word": "voldemort",
-          "count": 58
-        },
-        {
-          "word": "kreacher",
+          "word": "moral",
           "count": 54
-        },
-        {
-          "word": "specific",
-          "count": 53
-        },
-        {
-          "word": "cave",
-          "count": 45
         },
         {
           "word": "series",
           "count": 42
         },
         {
-          "word": "choice",
-          "count": 40
+          "word": "voldemort",
+          "count": 34
         },
         {
-          "word": "act",
+          "word": "comparison",
+          "count": 34
+        },
+        {
+          "word": "rowling",
           "count": 29
         },
         {
-          "word": "death",
-          "count": 28
+          "word": "direction",
+          "count": 26
         },
         {
-          "word": "moment",
-          "count": 27
+          "word": "toward",
+          "count": 26
+        },
+        {
+          "word": "sirius",
+          "count": 23
+        },
+        {
+          "word": "single",
+          "count": 22
         },
         {
           "word": "betrayal",
-          "count": 25
-        },
-        {
-          "word": "argument",
-          "count": 25
-        },
-        {
-          "word": "gryffindor",
-          "count": 25
-        },
-        {
-          "word": "courage",
-          "count": 25
-        },
-        {
-          "word": "fear",
           "count": 22
         },
         {
-          "word": "loyalty",
+          "word": "reader",
           "count": 22
+        },
+        {
+          "word": "choice",
+          "count": 22
+        },
+        {
+          "word": "evil",
+          "count": 20
+        },
+        {
+          "word": "death",
+          "count": 20
+        },
+        {
+          "word": "opposite",
+          "count": 19
+        },
+        {
+          "word": "friend",
+          "count": 18
+        },
+        {
+          "word": "duration",
+          "count": 16
+        },
+        {
+          "word": "neither",
+          "count": 16
         }
       ]
     },
     {
       "filename": "2013-12-02-harry-potter-vs-frodo-baggins-hero-comparison.md",
       "slug": "harry-potter-vs-frodo-baggins-hero-comparison",
-      "title": "Harry Potter vs Frodo Baggins: Reluctant Heroes",
+      "title": "Harry Potter vs Frodo: Reluctant Heroes Compared",
       "categories": [
         "Leisure"
       ],
       "lang": "en",
-      "wordCount": 4206,
-      "topWord": "harry",
-      "topCount": 91,
-      "flagged": true,
+      "wordCount": 4466,
+      "topWord": "boy",
+      "topCount": 49,
+      "flagged": false,
       "suppressed": false,
       "suppressReason": "",
       "suppressSnapshot": null,
       "suppressStale": false,
-      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-12-02-harry-potter-vs-frodo-baggins-hero-comparison.md",
-      "flaggedWords": [
-        {
-          "word": "harry",
-          "count": 91
-        },
-        {
-          "word": "specific",
-          "count": 81
-        },
-        {
-          "word": "comparison",
-          "count": 70
-        },
-        {
-          "word": "frodo",
-          "count": 65
-        }
-      ],
-      "top20": [
-        {
-          "word": "harry",
-          "count": 91
-        },
-        {
-          "word": "specific",
-          "count": 81
-        },
-        {
-          "word": "comparison",
-          "count": 70
-        },
-        {
-          "word": "frodo",
-          "count": 65
-        },
-        {
-          "word": "series",
-          "count": 49
-        },
-        {
-          "word": "tolkien",
-          "count": 49
-        },
-        {
-          "word": "death",
-          "count": 46
-        },
-        {
-          "word": "hero",
-          "count": 43
-        },
-        {
-          "word": "rowling",
-          "count": 41
-        },
-        {
-          "word": "person",
-          "count": 38
-        },
-        {
-          "word": "final",
-          "count": 37
-        },
-        {
-          "word": "ordinary",
-          "count": 35
-        },
-        {
-          "word": "ring",
-          "count": 34
-        },
-        {
-          "word": "heroes",
-          "count": 33
-        },
-        {
-          "word": "heroism",
-          "count": 31
-        },
-        {
-          "word": "story",
-          "count": 30
-        },
-        {
-          "word": "argument",
-          "count": 27
-        },
-        {
-          "word": "voldemort",
-          "count": 27
-        },
-        {
-          "word": "power",
-          "count": 27
-        },
-        {
-          "word": "sam",
-          "count": 27
-        }
-      ]
+      "editUrl": "https://github.com/insightcrunch/insightcrunch/edit/main/_posts/2013-12-02-harry-potter-vs-frodo-baggins-hero-comparison.md"
     },
     {
       "filename": "2013-12-06-complete-analysis-1984-george-orwell.md",

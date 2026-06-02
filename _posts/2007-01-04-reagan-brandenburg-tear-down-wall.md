@@ -9,7 +9,7 @@ excerpt: "Reagan's State Department and NSC tried to cut the tear down this wall
 image: "/assets/images/blog/blog-19.webp"
 reading_time: 71
 author: "anita-das"
-last_updated: 2007-01-04
+last_updated: 2026-06-02
 lang: en
 ---
 The most quoted sentence Ronald Reagan ever spoke was, until the morning he delivered it, a sentence that the United States foreign-policy establishment had spent six weeks trying to delete. By the time the president stood at a lectern in front of the Brandenburg Gate on the afternoon of June 12, 1987, the National Security Council had objected to it, the State Department had objected to it, the American diplomatic mission in West Berlin had objected to it, and at least one senior aide had circled it in a draft with the word "no" beside it. Four words at the center of that sentence kept reappearing in every revision the speechwriter sent back, and kept getting struck out by the bureaucracy that reviewed it, in a slow tug of war that ran from late April through the second week of June. The sentence survived because the president himself read the draft, understood exactly what his own advisors wanted removed, and decided that it would stay.

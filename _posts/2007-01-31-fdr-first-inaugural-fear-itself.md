@@ -9,7 +9,7 @@ excerpt: "FDR's fear itself line sat in Moley's 1933 draft. FDR kept it, added h
 image: "/assets/images/blog/blog-39.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2007-01-31
+last_updated: 2026-06-02
 lang: en
 ---
 The morning of March 4, 1933, broke gray and raw over Washington, and the man about to take the oath had spent part of the previous night at the Mayflower Hotel copying a speech out in his own hand. Outside the Capitol the temperature hovered near freezing, the sky threatened rain that never quite committed, and the crowd packed into the plaza below the East Portico carried with it the particular silence of people who do not know whether the next four years will save them or finish them. Thirteen million Americans had no work. Banks had stopped paying out cash in state after state, and on the morning of the inauguration itself the governors of New York and Illinois shut their banking systems entirely, which meant that the financial heart of the country went dark on the day its new president swore to defend it. Herbert Hoover sat beside Franklin Roosevelt in the open touring car on the ride to the Capitol, and witnesses recalled that the two men barely spoke, the outgoing president staring ahead at a defeat he did not understand and the incoming one waving to crowds who had pinned a desperate hope on a patrician they barely knew.

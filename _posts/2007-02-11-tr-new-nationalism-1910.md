@@ -9,7 +9,7 @@ excerpt: "TR gave the New Nationalism speech at John Brown's old Kansas battlegr
 image: "/assets/images/blog/blog-12.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2007-02-11
+last_updated: 2026-06-02
 lang: en
 ---
 A crowd of roughly thirty thousand people stood on the open Kansas prairie outside the small town of Osawatomie on the afternoon of August 31, 1910, pressed close around a wooden platform that had been thrown up for the dedication of a memorial park. Many had traveled by wagon and rail through dust and heat to hear a private citizen who held no office and commanded no army. The speaker climbed onto a kitchen table because the platform could not lift him high enough above the throng. He was fifty-one years old, eighteen months removed from the most powerful job on earth, sunburned from a year of shooting lions in British East Africa, and visibly impatient with the man he had personally chosen to succeed him. What Theodore Roosevelt said from that kitchen table over the next ninety minutes would not merely criticize his successor. It would propose a wholesale reconception of what the national government was for, attach that reconception to the moral memory of the men who had died to end slavery, and set in motion a party rupture that handed the White House to the Democrats two years later. The address became known as the New Nationalism speech, and it is fair to call it the single most consequential piece of political rhetoric ever delivered by an American who was not at that moment holding office.

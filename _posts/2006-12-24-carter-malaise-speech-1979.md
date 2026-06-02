@@ -9,7 +9,7 @@ excerpt: "Jimmy Carter never said the word malaise in his July 1979 address. The
 image: "/assets/images/blog/blog-77.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2006-12-24
+last_updated: 2026-06-02
 lang: en
 ---
 The most famous word in the most famous speech of Jimmy Carter's presidency does not appear in the speech. He stood in the Oval Office on the evening of July 15, 1979, looked into the camera, and spoke for thirty-three minutes to roughly sixty-five million Americans. He talked about gasoline lines and import quotas and synthetic fuels. He talked about churches and schools and the news media. He talked, more than anything, about faith, and about a country he believed had stopped believing in itself. He used the phrase "crisis of confidence" seven times. He never once said the word that would define the address forever, the word that politicians and historians and his own opponents would hang around his neck like a placard. He never said malaise.

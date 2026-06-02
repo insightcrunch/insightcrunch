@@ -9,7 +9,7 @@ excerpt: "Jefferson told a divided nation we are all Republicans, we are all Fed
 image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-02-28
+last_updated: 2026-06-02
 lang: en
 ---
 The new President spoke so quietly that most of the crowd packed into the unfinished Senate chamber could not make out the words. Witnesses left frustrated. They had walked to the north wing of a Capitol that was still a construction site, its dome unbuilt, its corridors smelling of fresh plaster and sawdust, to hear the man who had just survived the most poisonous election the young republic had yet endured. What reached their ears was a murmur. Newspapers printed the text the next morning, because almost no one in the room had actually heard it. The voice failed. The document did not.

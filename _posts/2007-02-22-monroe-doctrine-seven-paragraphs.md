@@ -9,7 +9,7 @@ excerpt: "Seven paragraphs buried in Monroe 1823 annual message became a doctrin
 image: "/assets/images/blog/blog-75.webp"
 reading_time: 74
 author: "chloe-martin"
-last_updated: 2007-02-22
+last_updated: 2026-06-02
 lang: en
 ---
 On the morning of December 2, 1823, a clerk of the House of Representatives unrolled a long manuscript and began to read aloud. The document was President James Monroe's seventh annual message to Congress, a sprawling state-of-the-nation report that ran through the condition of the Treasury, the progress of coastal fortifications, the suppression of piracy in the West Indies, the status of treaty negotiations with several powers, and the steady retirement of the national debt. Members listened the way legislators have always listened to such reports, which is to say with the patient half-attention of men waiting for the parts that touch their own committees. Nothing in the room signaled that two passages of that message, separated from each other by thousands of words of fiscal and administrative detail, would still be shaping the conduct of the United States in the second half of the twentieth century.

@@ -9,7 +9,7 @@ excerpt: "Truman asked Congress for $400 million in March 1947 for Greece and Tu
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2007-01-20
+last_updated: 2026-06-02
 lang: en
 ---
 At one o'clock on the afternoon of March 12, 1947, Harry Truman walked into the chamber of the House of Representatives, set a thin sheaf of pages on the rostrum, and in eighteen minutes redrew the map of American obligation. The immediate occasion was small enough to fit on an accountant's ledger. He wanted four hundred million dollars, two hundred and fifty for Greece and one hundred and fifty for Turkey, two countries most Americans could not have located within five hundred miles on a blank map. The sum was real but modest, the equivalent of roughly five and a half billion dollars in 2020 money, a rounding error against the cost of the war that had ended only nineteen months earlier. Nothing about the dollar figure explains why historians treat that afternoon as the hinge on which the second half of the twentieth century turned.

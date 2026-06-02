@@ -9,7 +9,7 @@ excerpt: "Washington's Farewell was drafted with Hamilton, then revised heavily 
 image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-03-05
+last_updated: 2026-06-02
 lang: en
 ---
 On the morning of September 19, 1796, a printer named David Claypoole sat in his office on Market Street in Philadelphia and set into type a document that no one would ever hear spoken from a podium. The piece carried no headline announcing a speech, because there had been no speech. It opened simply, addressed "To the PEOPLE of the United States," and ran across the front and inside pages of the American Daily Advertiser under the byline of a man who had already decided to walk away from the most powerful office his new country had invented. Claypoole had been summoned a few days earlier to the presidential residence, where the sitting president personally asked him to print the text and corrected the proofs in his own hand before publication. The most famous farewell in the history of the American presidency was not a farewell at all in the theatrical sense. It was a newspaper article.

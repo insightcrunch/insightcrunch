@@ -9,7 +9,7 @@ excerpt: "Most Americans know 'malice toward none, charity for all.' Almost none
 image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2007-02-17
+last_updated: 2026-06-02
 lang: en
 ---
 Rain had turned the avenue to a soup of mud by mid-morning on March 4, 1865, and the crowd packed before the east front of the Capitol stood ankle deep in it, waiting for a president who had aged a decade in four years. The dome above them was finished now, capped at last by Thomas Crawford's bronze figure of Freedom, a thing that had not existed when this same man took the oath in 1861 with secession spreading and the building itself half-built. Then the clouds broke. Witnesses who left accounts of that morning fixed on the same detail: as the tall figure rose to speak, the sun pushed through and flooded the platform with a light that several in the crowd, including the president himself a few days later, would call an omen. What followed took somewhere between five and seven minutes to deliver. It ran to roughly seven hundred words. And it remains, by the verdict of the historians who have spent careers with the Lincoln corpus, the strangest, hardest, and most theologically daring thing any American president has ever said from a public platform.

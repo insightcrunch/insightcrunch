@@ -9,7 +9,7 @@ excerpt: "Clinton signed the 1997 Balanced Budget Act, but Newt Gingrich and a R
 image: "/assets/images/blog/blog-44.webp"
 reading_time: 70
 author: "diana-patel"
-last_updated: 2007-03-11
+last_updated: 2026-06-02
 lang: en
 ---
 On the evening of January 27, 1998, Bill Clinton walked into the House chamber to deliver a State of the Union address that nobody in the room expected to be about arithmetic. Five days earlier the Monica Lewinsky story had broken, and the press gallery was packed with reporters who had come to watch a presidency possibly end. Instead they watched the president propose that the federal government do something it had not done in twenty-nine years. He asked Congress to take the coming surplus, the first since 1969, and reserve every dollar of it until the country had fixed Social Security. "Save Social Security first," he said, and the line drew a standing ovation from members who, a week earlier, had been measuring him for impeachment. The deficit that had defined American politics for two decades, the number that had sunk one president and elected another, was about to flip its sign.

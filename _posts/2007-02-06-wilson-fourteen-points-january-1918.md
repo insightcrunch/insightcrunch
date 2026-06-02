@@ -9,7 +9,7 @@ excerpt: "Woodrow Wilson read his Fourteen Points to Congress on January 8, 1918
 image: "/assets/images/blog/blog-22.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2007-02-06
+last_updated: 2026-06-02
 lang: en
 ---
 At noon on January 8, 1918, the President of the United States walked into the chamber of the House of Representatives, unfolded a typed manuscript, and read aloud a numbered list that he intended the whole world to overhear. The members of Congress in front of him were not the audience he cared about most. He was speaking past them, across the Atlantic, into the trenches and the war ministries and the newspaper offices of a continent that had been killing itself for forty-one months. He wanted German workers to read his words in the morning papers. He wanted the new Bolshevik government in Petrograd to feel rebuked. He wanted exhausted French and British publics to believe the slaughter had a purpose larger than revenge. Into that hope he poured a program of fourteen specific commitments, and he read them slowly enough that the stenographers could catch every clause.
