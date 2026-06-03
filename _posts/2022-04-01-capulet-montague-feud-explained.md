@@ -6,15 +6,15 @@ date: 2022-04-01
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "the-feud", "verona", "capulet-montague-feud"]
 excerpt: "Romeo and Juliet never explains why the Capulets and Montagues hate each other, and that missing origin is the point of a feud sustained by habit and honor."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-04-01
+lang: en
 ---
-
 A pair of servants stand in a public square trading filthy jokes about which house has the bigger maidenheads to take, and before the audience has met a single named lover, two men of opposing households have their weapons out over nothing. That is how the most famous love story in the English language begins: not with love, but with a brawl that nobody in the scene can quite justify. Sampson and Gregory belong to the Capulets, Abram serves the Montagues, and the spark that sets them swinging is a thumb bitten in the street. No grievance is named. No injury is recounted. The quarrel simply exists, the way weather exists, and the men step into it as into something already prepared for them.
 
-![Capulet and Montague feud opening brawl in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Capulet and Montague feud opening brawl in Romeo and Juliet - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 This article makes a claim that the standard account of the play tends to skip past in its hurry to reach the balcony. The feud between the Capulets and the Montagues is not a backdrop to the romance. It is the play's central engine, the thing that generates every catastrophe, and Shakespeare deliberately refuses to tell us where it came from. We never learn the cause. We are given an "ancient grudge" and nothing more, and that silence is not an oversight or a lost source detail. It is a designed blank, and the blank does specific dramatic work. A feud with a stated cause can in principle be resolved by addressing the cause. A feud with no remembered cause cannot be argued away, because there is nothing to argue with. It runs on habit, on inheritance, and on the honor of young men who would rather die than be seen to back down. Take away the origin and you are left with pure mechanism, hatred as a self-renewing system, and that is exactly what destroys Romeo and Juliet.
 
