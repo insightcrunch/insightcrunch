@@ -6,15 +6,15 @@ date: 2022-05-13
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "romeo", "contradiction", "romeo-character-analysis"]
 excerpt: "Romeo is gentle and violent, fated and impulsive, a Petrarchan moper who becomes a true lover, and the play builds its tragedy out of his contradictions."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "victoria-stone"
 last_updated: 2022-05-13
+lang: en
 ---
-
 The first thing Romeo does in the play is hide. His father reports a boy who locks himself away at dawn, shuts the daylight out of his room, and makes himself "an artificial night," and the cause is a woman the audience never meets and the hero forgets within an hour of seeing her rival. That opening portrait is the puzzle this article sets out to solve, because the figure the culture remembers is nothing like the figure the text introduces. Popular memory keeps a single Romeo, the swooning balcony romantic who exists to love and to die for love. The lines keep a stranger animal: a poseur who graduates into a poet, a peace-lover who commits a revenge killing in broad daylight, a fatalist who blames the stars for choices his own hands make.
 
-![Romeo character analysis lover killer boy and his contradictions - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Romeo character analysis lover killer boy and his contradictions - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The argument here is that the figure at the center of Verona's tragedy is built entirely out of contradiction, and that the contradictions are not flaws in Shakespeare's drawing but the engine of the catastrophe. Read as a smooth romantic lead, the part collapses into sentiment. Read as a knot of opposed impulses, gentleness and violence, fate and will, convention and feeling, boyhood and the demands of manhood, the same part becomes one of the sharpest studies of a young man in the language. The standard account asks what the boy feels. The better question asks what he does, and how the language he speaks changes as he does it. By the time the youth lifts a vial in a tomb and toasts a corpse he believes is dead, the play has earned every turn through a transformation the cliche erases. What follows tracks that transformation line by line, from the manufactured gloom over Rosaline to the last kiss in the Capulet vault, and weighs the long critical quarrel over whether the boy is a victim of the stars or the author of his own ruin. The verdict, argued from the evidence rather than asserted, is that he is both, and that Shakespeare designed him so the two cannot be pulled apart.
 

@@ -6,17 +6,17 @@ date: 1997-07-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Data Analysis", "Test Prep"]
 excerpt: "SAT statistics explained: mean versus median, standard deviation as spread, IQR and outlier effects, with box plots and worked comparison examples throughout."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1997-07-11
+lang: en
 ---
-
 Picture a student two-thirds of the way through a math module who hits a question showing two dot plots side by side and asking which set of values has the greater standard deviation. The instinct, drilled into anyone who once memorized a textbook formula, is to start computing: find each average, subtract, square, total, divide, take a root. Forty seconds vanish. The answer was readable from the picture in five.
 
 That gap between what the SAT statistics question rewards and what a frightened test-taker reaches for is the single most expensive misunderstanding in the descriptive-statistics corner of the math section. The exam does not want arithmetic here. It wants a read. Spread for standard deviation, a middle value that shrugs off extremes for the median, and a small set of rules about what shifting or scaling a dataset does to each summary number. Master those and every descriptive-statistics item on the test collapses into quick reasoning rather than a stopwatch-draining calculation.
 
-![SAT standard deviation, mean and median outlier effects with box plots and dot plots worked examples - Insight Crunch](/assets/images/blog/blog-11.webp)
+![SAT standard deviation, mean and median outlier effects with box plots and dot plots worked examples - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 This piece is built around that claim. The promise is not a refresher on definitions you can find anywhere, because a generic definition will not save you the forty seconds or steer you past the answer choice engineered to punish a computation you should never have begun. The promise is a working method: how to look at a histogram and know which way the spread runs, how to predict the effect of an outlier before touching a number, and how to apply the transformation rules that decide which measures move when a dataset is shifted up or scaled wider. Call it the read-don't-compute habit, the InsightCrunch spread-and-resistance framework for descriptive statistics, and it is the spine of everything below.
 
@@ -364,7 +364,6 @@ The same logic governs the choice between range and IQR for describing spread. T
 Standard deviation enters this family through the language of consistency. When a scenario compares two processes and asks which is more dependable or more uniform, it is asking which has the smaller standard deviation, and the tightly clustered process wins. The judgment never requires the number, only the recognition that less spread means more consistency. Holding these pairings in mind, mean with symmetric data, median with skew, IQR with outliers, standard deviation with consistency, lets you answer the entire judgment family by matching the situation to the measure built for it.
 
 A practical refinement helps on test day: the wording of the scenario usually signals the intended measure before any number appears. Phrases that emphasize a typical or representative case point toward a center measure, while phrases about reliability, consistency, or how tightly results cluster point toward spread. A mention of a single unusual entry, an extreme high or low, a value far from the rest, is the test flagging skew and steering toward the resistant choices, the median and the IQR. Reading the question stem for these cues before looking at the answer choices often settles the decision in a few seconds, because the language is doing the work the arithmetic would otherwise do. Treat the prose as part of the data display, not as packaging around it, and the judgment family becomes one of the quickest clusters on the section.
-
 
 
 Use the median when the data is skewed or contains outliers, because those extremes pull the mean toward themselves and distort the picture of a typical value. The median, resistant to extremes, stays in the middle of the bulk and represents the usual case honestly. Symmetric data with no outliers makes either fine, with the mean the default.
