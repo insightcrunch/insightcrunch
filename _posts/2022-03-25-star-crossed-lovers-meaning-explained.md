@@ -6,15 +6,15 @@ date: 2022-03-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "cultural-afterlife", "star-crossed", "astrology", "star-crossed-lovers-meaning"]
 excerpt: "Romeo and Juliet gave English the phrase star-crossed lovers, and its real sense, thwarted by the stars themselves, is sharper than the loose modern one."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2022-03-25
+lang: en
 ---
-
 Six lines into the Prologue, before a single character has spoken, the Chorus delivers a verdict on two people the audience has not yet met: "A pair of star-cross'd lovers take their life." The phrasing is so familiar that it slips past most listeners as a synonym for unlucky, doomed, or merely sad. That reading empties the words of their actual content. The compound did not signify unlucky to the people who first heard it in the 1590s. It named a working cosmology, a serious theory of how human lives were governed, and it pointed a finger at a precise culprit. The heavens cross these two. Something above and outside them reaches down and thwarts them. The grammar is active, and the agent is celestial.
 
-![Star-crossed lovers phrase meaning in Romeo and Juliet Prologue - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Star-crossed lovers phrase meaning in Romeo and Juliet Prologue - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 What follows recovers the buried machinery inside the most quoted three syllables in English romance. The standard account treats the term as a mood word, a wash of melancholy over a courtship. The sharper account, the one defended here, is that Shakespeare coined a verb of opposition and dressed it as an adjective, that the firmament in his line does something rather than merely loom, and that four centuries of repetition have sanded the action off the word until only the sentiment survives. The expression is a fossil. Inside the smooth modern surface sits a hard kernel of Renaissance astral physics, a claim about cause that the culture forgot it ever made. Restore the cause and the play's whole argument about destiny shifts under your feet.
 
@@ -175,7 +175,6 @@ Juliet too speaks the language of cosmic address. Parting from Romeo at dawn aft
 Closely related but not identical. "Fortune's fool" invokes the medieval image of fickle Fortune and her turning wheel, a power that raises and casts down at random; "star-crossed" invokes the more deterministic astrology of nativities, in which the heavens fix a destiny at birth. Both place the lovers under a force above the self.
 
 The two figures coexist in the play without being reconciled, which is itself revealing. Fortune is changeable, capricious, a wheel that might have turned the other way; the crossing stars are fixed, a sentence passed once and for all. The drama draws on both traditions, sometimes treating the catastrophe as the random fall of a wheel and sometimes as the working out of a written doom. This is not inconsistency so much as range: the play reaches for whatever language of supra-human force the moment requires, and lets the audience feel the lovers pressed from every direction at once. The compound names the deterministic pole of that vocabulary, while fortune's fool names the capricious one, and between them they map the full space of forces the lovers cannot control.
-
 
 
 ## Stage, Screen, and the Afterlife of the Word

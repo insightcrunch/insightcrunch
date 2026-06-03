@@ -6,15 +6,15 @@ date: 2022-02-18
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "juliet-age", "adaptation", "how-old-is-juliet"]
 excerpt: "Romeo and Juliet fixes Juliet at thirteen, younger than in any source, and the reason Shakespeare lowered her age reshapes how the whole play should be read."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2022-02-18
+lang: en
 ---
-
 A father is haggling over his daughter's marriage, and he lets slip her exact age without quite meaning to. "My child is yet a stranger in the world," old Capulet tells the suitor Paris in the play's second scene, "she hath not seen the change of fourteen years." The line is easy to skim past. Most readers do. Yet it carries one of the most deliberate and least understood decisions Shakespeare ever made about a character. The heroine of the most famous love story in the language is not a young woman. She is a child of thirteen, and the dramatist who put her there had to work against every version of the tale he inherited to do it.
 
-![How old are Romeo and Juliet age question Juliet thirteen close reading - Insight Crunch](/assets/images/blog/blog-07.webp)
+![How old are Romeo and Juliet age question Juliet thirteen close reading - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 The question of how old the lovers are belongs to a particular class of search. It is the thing a student types in at eleven at night, the detail a teacher fields every term, the fact a theatre programme footnotes and then declines to examine. The short answer is quickly given and rarely false: the Capulet daughter is thirteen, about a fortnight short of fourteen, and the boy from the Montague house has no stated age at all. That answer is correct and it is also a trapdoor. Underneath it sits a much stranger fact, which is that Shakespeare went out of his way to make his heroine younger than she had ever been in three generations of European retellings, and that this single change presses on the meaning of nearly everything that follows. The aim here is to give the factual answer cleanly, then to refuse to stop there, because the precise number is the kind of detail the cliche of doomed romance erases and a serious reading restores.
 
