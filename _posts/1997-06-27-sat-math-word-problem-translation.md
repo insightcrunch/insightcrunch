@@ -1,798 +1,427 @@
 ---
 layout: post
-title: "SAT Math: Word Problems Translation Strategy"
-page_title: "SAT Math Word Problems: Complete Translation Guide for the Digital SAT"
+title: "SAT Math: Word Problem Translation Strategy"
+page_title: "SAT Word Problems: Translating English to Equations, the \"Let\" Statement and the Answer-the-Question Trap Explained"
 date: 1997-06-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Word Problems", "Problem Solving", "Strategy"]
-excerpt: "Master the SAT word problem translation dictionary, let-statements, systems setup, total cost template, rate-time-distance, mixture problems, and the answer-the-right-question habit."
-image: "/assets/images/blog/blog-19.webp"
-reading_time: 62
-author: "patrick-dunn"
-last_updated: 2026-04-08
-lang: en
+excerpt: "SAT word problems decoded: a translation dictionary, the \"let\" statement, total-cost and rate templates, and the answer-the-question trap, with worked examples."
+image: "/assets/images/blog/blog-14.webp"
+reading_time: 59
+author: "Insight Crunch Team"
+last_updated: 1997-06-27
 ---
-Word problems are not a separate topic on the Digital SAT. They are the primary delivery format for nearly every topic. Approximately sixty to seventy percent of all Math questions are wrapped in a real-world scenario that must be translated into algebra before any solving can begin. A student who excels at equation solving but struggles with word problem translation will consistently miss questions that they are theoretically capable of answering. A student who masters translation will unlock their full algebraic ability across the entire Math section.
 
-This guide treats word problem translation as the core skill it actually is: the interface between the English language and algebraic notation. The translation dictionary (the specific words and phrases that map to mathematical operations), the let-statement habit (defining variables explicitly before writing any equation), the most common word problem templates (total cost, rate-work, distance-rate-time, mixture, age, and percent), and the single most costly error in all of SAT Math (solving correctly for x but reporting the answer to the wrong question) are all covered in complete depth.
+A typical Digital SAT math item does not hand you an equation and ask you to solve it. It hands you a sentence about a moving van, a phone plan, two painters, or a chemist mixing acid, and it expects you to build the equation yourself before any algebra begins. That hidden step, turning ordinary language into symbols, is where most lost points actually go. The arithmetic is rarely the hard part. The translation is. A test-taker who can solve every clean equation in a textbook can still stall on the section because the section refuses to arrive in textbook form. It arrives as paragraphs.
 
-For the algebraic solving techniques that follow successful translation, the [complete SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/) covers linear equations, systems, and inequalities. For the percent-change and markup/discount word problems that are a specific high-frequency subset of the translation challenge, the [SAT Math percent change guide](/1997/08/07/sat-math-percent-change-markup-discount/) provides focused coverage of that template. For the systems of equations setup that is required for two-unknown word problems, the [SAT Math systems of equations guide](/1997/07/29/sat-math-systems-no-infinite-solutions/) provides the complete systems framework. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
+![SAT math word problem translation dictionary and let statement worked examples - Insight Crunch](/assets/images/blog/blog-14.webp)
 
-![SAT Math Word Problems Translation Strategy](/assets/images/blog/blog-19.webp)
+This guide treats translation as the single most transferable skill on the quantitative side of the exam. It is more portable than any one topic, because the majority of the section is presented as language rather than as bare symbols, and the same decoding habit unlocks an algebra prompt, a geometry prompt, a data prompt, and a rate prompt alike. What you will leave with is concrete: a two-column dictionary that maps each English phrase to its operation, the discipline of writing a "let" statement before you touch the algebra, a small set of templates that cover the recurring scenarios (total cost, combined work, distance and speed, ages, mixtures), and a defense against the most expensive single error in the entire section, the one where a candidate solves for the right value and then bubbles the wrong one. None of this is talent. All of it is process.
 
-## The Translation Dictionary: English Words to Mathematical Operations
+## Why Translation, Not Algebra, Is the Real Skill
 
-The most fundamental word problem skill is knowing which English words and phrases correspond to which mathematical operations. This translation dictionary is the foundation of all word problem setup.
+Walk through any released module and tally the prompts that come dressed as paragraphs against the prompts that come as naked equations. The verbal ones dominate. The exam writers know that solving a printed equation is a mechanical act a calculator or a memorized routine can finish, so they bury the mechanical step inside a situation and grade you on whether you can extract the relationship. The point of the section is comprehension under symbolic constraint, not computation. That is the thesis this article keeps returning to: the loss most candidates blame on weak algebra is really a decoding failure that happens before the algebra starts.
 
-EQUALS: "is," "are," "was," "were," "will be," "equals," "is equal to," "results in," "gives," "yields." Any form of the verb "to be" connecting a quantity to another quantity typically signals an equation. "The total cost is $45" translates to total cost = 45.
+Consider what this reframes. When a reader says "I am bad at math," the claim is usually too broad to be useful. Press for specifics and the trouble almost always sits at one of two seams. The first seam is the jump from a sentence to a symbol, the moment "five less than three times a number" has to become an expression and the reader either freezes or writes it backward. The second seam is the jump back, the moment a solved variable has to be matched to the quantity the prompt actually requested. Both seams are translation problems. Neither is an arithmetic problem. A reader who repairs those two seams improves on the section in a way that surprises people who think the result measures innate quantitative ability.
 
-ADDITION: "more than," "increased by," "added to," "sum of," "total," "combined," "together," "gained," "received," "plus." "7 more than x" translates to x + 7. "The sum of a number and 12" translates to n + 12.
+The two seams also explain why timed practice can feel worse than untimed practice by a margin that has nothing to do with knowledge. Under the clock, the temptation is to skip the reading and lunge at the numbers, which sabotages the first seam, and to skip the final re-read and bubble the first value you reach, which sabotages the second. A reader who scores well untimed and poorly timed has not lost any content between the two attempts; they have abandoned the two moves that protect the seams. The fix is counterintuitive: under time pressure, protect the reading and the re-read first, and let the speed come from the middle, the translating and solving, which calculator help and pattern recognition can accelerate. The seams are where haste does the most damage and where deliberate slowness pays the highest return, so they are the last places to cut corners when the clock is loud.
 
-SUBTRACTION: "less than," "decreased by," "subtracted from," "difference of," "reduced by," "lost," "spent," "fewer than," "minus." Critical trap: "less than" reverses order. "5 less than x" translates to x minus 5, NOT 5 minus x. "A number decreased by 8" translates to n minus 8.
+### Is translation a Module 1 or a Module 2 skill?
 
-MULTIPLICATION: "times," "of" (especially with fractions and percents), "product of," "multiplied by," "times as much," "per" (in some contexts), "twice," "double," "triple." "Three times a number" translates to 3n. "Two-thirds of the students" translates to (2/3) times students. "Twice as many" translates to 2 times the quantity.
+It is both, which is exactly why it matters. The first module mixes easier verbal setups with harder ones, and your performance there routes you into a second module of higher or lower difficulty. Translation carries weight at every level because every level is delivered in language. The harder module simply layers more clauses and more disguised operations onto the same decoding act.
 
-DIVISION: "divided by," "quotient of," "per," "ratio of," "out of," "split equally among," "for each." "The cost per unit" means cost divided by units. "The ratio of a to b" means a/b.
+The adaptive structure makes this leverage even clearer. The section routes you by how many items you clear in the first module, and the first module is stocked with verbal setups precisely because they separate readers fast. A candidate who decodes language quickly clears the early items, earns the harder second module, and reaches the questions where the real points sit. A candidate who stalls on translation never gets there, not because the deeper content defeated them but because the gate did. Fixing the decoding habit is therefore not a marginal tweak. It changes which module you see.
 
-EXPONENTS: "squared," "cubed," "the square of," "raised to the power of." "A number squared increased by 4" translates to n squared + 4.
+There is also a calmer, less strategic reason to prize translation. It is teachable in a weekend. The full content of the quantitative section, every function family, every geometry relationship, every statistics idea, takes months to master. The translation layer that sits on top of all of it takes a single focused pass to internalize, because it reduces to a short dictionary, one writing habit, and a handful of templates. That asymmetry, large payoff for small effort, is rare on this exam, and it is why the verbal-decoding skill belongs near the front of any study plan rather than buried in a topic list.
 
-INEQUALITY SIGNALS: "at least" translates to greater than or equal to. "At most" translates to less than or equal to. "More than" in comparison context translates to strictly greater than. "Less than" in comparison context translates to strictly less than. "No more than" translates to less than or equal to. "No fewer than" translates to greater than or equal to.
+### How much does a single misread actually cost?
 
-The "less than" reversal deserves special emphasis because it is consistently among the top three word problem errors on the Digital SAT. "5 less than x" is NOT 5 minus x. It is x minus 5. The phrase "less than" subtracts FROM the referenced quantity. "5 less than x" means "take x and remove 5 from it," which is x minus 5. Students who translate this as 5 minus x will get the entirely wrong expression and a wrong answer. Always read "less than" problems by identifying what is being reduced and by how much, then write quantity minus reduction.
+It costs the whole item, and the whole item is worth the same whether you missed it by a mile or by one sign. There is no partial credit on the digital format, so a reversed "less than" that flips one term and a complete inability to start the prompt produce identical results on the scoring screen. That bluntness is what makes a small decoding error so expensive relative to its size. A reader who could have solved the prompt in thirty seconds, and who made a flawless arithmetic run on a setup that was wrong from its first symbol, earns exactly what a reader who skipped the item earns. The lesson is that accuracy in the translation step is not a refinement applied after you can solve; it is the difference between scoring and not scoring on a prompt you fully understood. Because the loss is all-or-nothing, the few seconds spent confirming a reversed-order phrase or re-reading the final sentence are among the best-paid seconds in the section. They convert near-misses, which score nothing, into correct answers, which score the same as the cleanest solve in the module.
 
-## The Let-Statement Habit: Define Before You Solve
+A useful way to internalize this is to separate two kinds of errors you might be making and treat them differently. Content errors, where you genuinely did not know how to handle the topic, call for studying that topic. Translation errors, where you knew the math but set the prompt up wrong, call for a different fix entirely: not more content, but slower, more deliberate decoding. Many readers who believe they have a content problem actually have a translation problem, and they study the wrong thing for weeks because they never sorted their misses into the two bins. When you review a practice set, label each miss as content or translation, and you will usually find that the translation pile is larger than you expected and far cheaper to fix.
 
-The most common word problem setup error on the Digital SAT is not a translation error but a definition error: the student sets up an equation using x without explicitly defining what x represents. This leads to two problems: first, the student may answer with the value of x when the question actually asks for a different quantity; second, the student cannot check whether the final answer makes sense in context without knowing what the variable represents.
+## The Translation Dictionary
 
-The let-statement habit: before writing any equation, write a clear English sentence defining each variable you will use. The standard format is "Let x = [description of what x represents, including units]."
+Every verbal setup is built from a small vocabulary of operation words. Once you can see them, a sentence stops being prose and becomes a near-mechanical instruction. The dictionary below is the findable core of this article, and it is worth memorizing to the point of reflex, because reflex is what survives test-day pressure. The two-column form maps the English phrase on the left to the operation it triggers on the right, and the rows that cost the most points (the ones where order reverses) are flagged explicitly.
 
-Examples of good let-statements:
+| English phrase | What it means in symbols |
+|---|---|
+| is, was, will be, equals, the same as, results in | = |
+| of (with a fraction or percent) | multiply |
+| per, for each, for every, a (as in "miles per gallon") | divide, or a rate |
+| more than, increased by, sum, total, gained, together | add |
+| less than, decreased by, fewer than, difference, reduced by | subtract |
+| times, twice, double, triple, product, times as much | multiply |
+| half of, a third of, quarter of | multiply by the fraction |
+| what, a number, some quantity, how many | the unknown variable |
+| consecutive integers | n, n plus 1, n plus 2 |
+| consecutive even or odd integers | n, n plus 2, n plus 4 |
+| percent | divide by 100, or use a decimal factor |
+| **5 less than a number** (REVERSED ORDER) | **the number minus 5, written n minus 5, never 5 minus n** |
+| **5 fewer than twice a number** (REVERSED ORDER) | **2n minus 5, never 5 minus 2n** |
+| **A is 5 more than twice B** (REVERSED ORDER inside a clause) | **A equals 2B plus 5** |
+| **the quotient of a and b** | **a divided by b, in that order** |
 
-"Let x = the number of adult tickets sold."
-"Let x = the number of hours Maria works per week."
-"Let x = the original price of the jacket, in dollars."
-"Let x = Juan's current age, in years."
+The reversed-order rows are bolded because they are the rows the exam writers exploit most often, and they are the rows readers get wrong most often. "Five less than a number" feels, to the ear, like it should be written in the order the words arrive: five, then minus, then the number. That instinct is wrong. "Less than" subtracts the first quantity from the second, so the phrase means the number minus five. Read it as an instruction to take a number and remove five from it, and the order corrects itself. The same trap hides inside comparison clauses. "Maria is five years older than twice Juan's age" does not become M equals 5 plus 2, and it does not become 5 minus 2J. It becomes M equals 2J plus 5, because you start from twice Juan's age and add five to reach Maria's. Whenever a phrase compares one quantity to another using "than," slow down and identify which quantity is the anchor and which is being described relative to it.
 
-The let-statement serves three functions: it forces you to identify exactly what you are solving for before you start, it gives you a unit-check mechanism (if x represents hours, the final answer must be in hours), and it allows you to verify that you are answering the question asked (which may be about x itself, about 2x + 5, or about some other expression involving x).
+### What does "per" actually tell you to do?
 
-For two-unknown problems, define both variables explicitly. "Let x = the number of adult tickets and let y = the number of child tickets." Having both definitions written prevents the common error of using x for both variables or confusing which variable represents which quantity when setting up the second equation.
+"Per" signals a rate, which is a division in disguise. "Sixty miles per hour" is sixty miles divided by one hour, "twelve dollars per shirt" is a price ratio, and recognizing the slash hidden in the word is what lets you build the right product later. When you see "per," ask what is being shared out across what, and write the ratio before you do anything else.
 
-The let-statement investment costs five to ten seconds. The payoff: significantly fewer wrong-quantity errors, which on the Digital SAT are responsible for correct algebraic solutions reporting wrong answers.
+The word "of" deserves its own note, because it behaves differently from how casual reading suggests. In ordinary speech "of" signals belonging, but in a quantitative prompt, "of" attached to a fraction or a percent means multiply. "Forty percent of the students" is 0.40 times the student count. "Two-thirds of the remaining budget" is (2/3) times whatever remains. The phrase "what is twenty percent of eighty" is, symbol for symbol, the unknown equals 0.20 times 80. Train your eye to convert "of" to a multiplication sign on sight, and a whole family of percent prompts collapses into one-line arithmetic.
 
-## The Single Most Costly Word Problem Error: Answering the Wrong Question
+A final entry that earns its place: the difference between "more than" as an operation and "more than" as a comparison. "Seven more than a number" adds seven to the number, an operation that produces an expression. "Seven is more than a number" is a comparison, an inequality that reads seven is greater than the number. The grammar around the phrase tells you which one you have. If "more than" sits between two quantities as a verb of comparison ("is more than," "are more than"), it is an inequality. If it sits as a modifier describing a single resulting quantity ("seven more than"), it is addition. Misreading one for the other turns an equation into an inequality and quietly wrecks the setup.
 
-The number-one error type in SAT Math word problems is not an algebra error. It is a comprehension error: solving correctly for x but reporting the answer to a different question. The College Board builds this trap into virtually every word problem by asking for an expression involving x rather than x itself, or by asking for one variable when the student has solved for the other.
+### Which words signal an inequality instead of an equation?
 
-Common trap formats:
+A cluster of phrases shifts a prompt from equality to comparison. "At least" and "no less than" become greater-than-or-equal; "at most" and "no more than" become less-than-or-equal; "more than" and "exceeds" become strictly greater; "fewer than" and "below" become strictly less. Spot one of these and write the inequality sign rather than an equals sign from the start.
 
-Trap one: "What is the value of 3x + 2?" when the student has correctly found x = 5. The answer is not 5; it is 3(5) + 2 = 17.
+Two structural phrases deserve a separate note because their order trips readers the way "less than" does. "The quotient of a and b" is a divided by b, in exactly that order, not b divided by a; the first-named quantity is the dividend. "The product of a and b" is a times b, where order does not change the value, so that one forgives a slip, but the quotient does not. When a prompt builds a fraction out of a "quotient of" phrase, write the first quantity on top and the second on the bottom, and resist the urge to flip them to make the arithmetic look friendlier.
 
-Trap two: "How many adult tickets were sold?" when the student has set up x = child tickets. The student solved correctly for x (the child tickets) but the question asks for adult tickets (some other expression involving x, or the other variable in a system).
+Consecutive-integer language carries its own fixed translation. "Consecutive integers" are n, n plus 1, n plus 2, and so on, each one more than the last. "Consecutive even integers" and "consecutive odd integers" both step by two, so they are n, n plus 2, n plus 4, with n even in the first case and odd in the second, and the even-or-odd label tells you what value n is allowed to take rather than changing the step. The common error is stepping by one for even or odd runs, which produces integers of the wrong parity and a setup that cannot be right. Anchor the run to a single variable, choose the correct step, and the rest of the prompt translates normally.
 
-Trap three: "What is the total cost?" when the student has solved for the unit price. The total requires multiplying the unit price by the quantity.
+## The "Let" Statement: Naming the Unknown Before You Solve
 
-Trap four: "How old will Maria be in 3 years?" when the student has correctly found Maria's current age. Add 3 years to the current age.
+The single most valuable habit in the entire section costs about four seconds and prevents a category of error that no amount of algebra skill can recover from. Before writing any equation, write a "let" statement that names every unknown in plain words. Let h be the number of hours the second painter works. Let p be the price of one adult ticket. Let n be the smaller of the two consecutive integers. The statement looks trivial. It is not. It is the anchor that keeps every later symbol attached to a real quantity, and it is the thing you re-read at the end to confirm you answered the question that was asked.
 
-Trap five: "What is the combined weight of both packages?" when the student has solved for the weight of just one.
+Why does this matter so much? Because variables drift. A reader who writes x without saying what x stands for will, three lines later, forget whether x was the original price or the discounted price, whether it was the total time or one person's time, whether it counted the fixed fee or excluded it. The drift is silent. The algebra still runs, the arithmetic still resolves, and the reader bubbles a number that is internally consistent and externally wrong. The "let" statement freezes the meaning at the start so that meaning cannot slide.
 
-The prevention strategy: after finding x, read the last sentence of the question one more time before reporting the answer. The last sentence of a word problem question almost always specifies exactly what is being asked for. Match what you solved for (explicitly stated in your let-statement) against what the question asks for (the last sentence). If they differ, compute the additional step to transform your answer into the required form.
+### Why write what you are solving for, not just what is given?
 
-On the Digital SAT, this re-reading of the question after solving takes five seconds and prevents the most common correct-algebra-wrong-answer error across the entire test.
+Name the target explicitly, in words, the moment you read the final sentence. If the prompt asks for the combined age, write "find m plus j" before solving. That single line, parked at the top of your scratch work, is what you return to after the algebra so that a solved variable never gets mistaken for the answer the item demanded.
 
-## The Total Cost Template
+The "let" statement also forces a quiet act of comprehension that pays off immediately. To name the unknown you have to decide what the unknown is, and that decision is half the battle. Many verbal setups feel impossible only because the reader has not yet committed to what the variable represents. Once you write "let t be the time in hours both pipes run together," the equation almost assembles itself, because every other quantity in the prompt now has a clear relationship to t. The habit converts a vague situation into a labeled one, and labeled situations are solvable. Skipping the statement to "save time" is the false economy that costs the most, because the seconds saved at the start are paid back many times over in the seconds lost re-reading, the points lost to drift, and the trap answers selected by a tired reader who forgot what the symbol meant.
 
-The total cost template is the most frequently recurring algebraic structure in SAT Math word problems. It appears in dozens of different contextual disguises (tickets, items, shipping, services, subscriptions) but always has the same underlying structure:
+There is a second-order benefit worth naming. When a prompt contains two unknowns, the "let" statement is where you decide whether to use two variables and two equations or to express the second unknown in terms of the first. "The longer piece is three times the shorter piece" invites you to let s be the shorter piece and write the longer piece as 3s, collapsing two unknowns into one. The decision belongs in the naming step, and making it consciously there, rather than discovering the relationship mid-solve, keeps the algebra clean.
 
-Total cost = unit price times quantity + fixed cost
+A small habit makes the "let" statement even sharper: write it where you can see it for the whole solve, at the top of your scratch area, not squeezed into a margin you will lose track of. The statement is a contract you make with yourself at the start of the item, and a contract you cannot find is a contract you will break. On the digital format, where scratch work happens on provided paper rather than in the margins of a booklet, give the naming line its own space and leave it visible until you bubble. Readers who treat the statement as a throwaway note tend to drift back into nameless variables within a few lines; readers who keep it in view treat it as the reference it is meant to be. The few seconds of writing buy a solve that stays anchored from the first symbol to the final re-read, and the anchoring is the entire point, because an unanchored solve is exactly the kind that produces a confident, internally consistent, wrong answer.
 
-The "fixed cost" might be zero (pure unit-price problem), a membership fee, a shipping charge, a setup fee, or any other one-time cost independent of the quantity purchased.
+## The Core Worked Examples
 
-Worked example (basic): a store sells notebooks for $3 each and pens for $1.50 each. If a student buys n notebooks and p pens and spends exactly $18, write the equation.
+What follows is the heart of the article, a graded sequence of fully solved setups that moves from a one-line translation to multi-clause scenarios and ends on the trap that costs more points than any other. Each is narrated the way a tutor would narrate it at a whiteboard, and each closes with the principle that carries to the next item. Read them with a pencil. The skill transfers only if your hand does the translation, not just your eye.
 
-Let x = n (number of notebooks), y = p (number of pens). 3n + 1.50p = 18.
+### Example one: a direct translation with "less than"
 
-Worked example (with fixed cost): a gym charges a $40 monthly membership fee plus $15 per fitness class attended. Write an equation for the total monthly cost T in terms of the number of classes c.
+Prompt: "Seven less than four times a number is twenty-nine. What is the number?"
 
-T = 15c + 40. The 40 is the fixed cost (membership fee); 15c is the variable cost (per-class fee times number of classes).
+Begin with the "let" statement. Let n be the number. Now decode clause by clause. "Four times a number" is 4n. "Seven less than four times a number" reverses order: it is 4n minus 7, not 7 minus 4n. "Is twenty-nine" supplies the equals sign and the right side. The full relationship is 4n minus 7 equals 29. Add 7 to both sides to get 4n equals 36, then divide by 4 to find n equals 9. Check by substituting: four times nine is thirty-six, minus seven is twenty-nine, which matches. The number is 9.
 
-Worked example (system required): a movie theater sold adult tickets for $12 and child tickets for $8. A total of 200 tickets were sold for $1,920. How many of each type were sold?
+The principle: when "less than" appears, the quantity after it is the starting point and the quantity before it is removed. Write the larger structural piece first, then subtract.
 
-Let a = adult tickets, c = child tickets.
-Equation one (quantity): a + c = 200.
-Equation two (revenue): 12a + 8c = 1,920.
+### Example two: building the "let" statement from a comparison
 
-Solve the system: from equation one, a = 200 minus c. Substitute: 12(200 minus c) + 8c = 1,920. 2,400 minus 12c + 8c = 1,920. minus 4c = minus 480. c = 120. a = 200 minus 120 = 80.
+Prompt: "Maria is five years older than twice Juan's age. The sum of their ages is forty-one. How old is Juan?"
 
-Answer: 80 adult tickets and 120 child tickets.
+Two people, two unknowns, but one relationship lets us collapse them. Let j be Juan's age. "Five years older than twice Juan's age" means Maria's age is 2j plus 5, so let Maria's age be 2j plus 5 rather than introducing a second variable. The sum of their ages is forty-one, so j plus (2j plus 5) equals 41. Combine like terms: 3j plus 5 equals 41. Subtract five: 3j equals 36. Divide: j equals 12. Juan is twelve, and as a check, Maria is 2 times 12 plus 5, which is 29, and 12 plus 29 is 41. Juan is 12 years old.
 
-Now re-read the question: "How many of each type?" Both values are needed. Do not report only 80 or only 120.
+The principle: when one quantity is described relative to another, express both in terms of a single variable inside the "let" statement, and a two-unknown situation becomes a one-variable equation.
 
-The total cost template generalizes widely. Any time a problem involves a price per item multiplied by a count, the template applies. The College Board uses this structure for ticket problems, catering costs, mobile data plans, rental fees, and many other contexts.
+### Example three: a two-unknown system from a verbal setup
 
-## Rate-Work Problems: Combined Rates
+Prompt: "A theater sells adult tickets and child tickets. On one evening it sold ninety tickets and collected eight hundred ten dollars. Adult tickets cost twelve dollars and child tickets cost six dollars. How many adult tickets were sold?"
 
-Rate-work problems describe two or more workers (people, machines, pipes) completing a task, and ask for the time to complete the task together. The key concept: rates add.
+Here the relationship genuinely needs two variables. Let a be the number of adult tickets and let c be the number of child tickets. The count gives one equation: a plus c equals 90. The money gives another: 12a plus 6c equals 810. Solve the first for c, so c equals 90 minus a, and substitute into the second: 12a plus 6 times (90 minus a) equals 810. Distribute: 12a plus 540 minus 6a equals 810. Combine: 6a plus 540 equals 810. Subtract: 6a equals 270. Divide: a equals 45. Forty-five adult tickets were sold, and the check confirms it: forty-five child tickets at six dollars is two hundred seventy, forty-five adult at twelve is five hundred forty, and the total is eight hundred ten.
 
-The principle: if Worker A completes a task in a hours, Worker A's rate is 1/a of the task per hour. If Worker B completes a task in b hours, Worker B's rate is 1/b of the task per hour. Working together, their combined rate is 1/a + 1/b of the task per hour.
+The principle: a situation with two genuinely independent facts about two unknowns wants two equations, one per fact, and substitution turns the pair into a single solvable line. For the full machinery of when such a pair has one solution, none, or infinitely many, the companion guide on [systems with no solution and infinite solutions](/1997/07/29/sat-math-systems-no-infinite-solutions/) carries the next step.
 
-Total time together = 1 / (combined rate) = 1 / (1/a + 1/b) = ab / (a + b).
+### Example four: the total-cost template
 
-Worked example: Printer A can print a document in 6 hours. Printer B can print the same document in 4 hours. How long does it take for both printers working together?
+A large family of prompts reduces to one structure: a total equals a fixed amount plus a variable amount that grows with quantity. In symbols, total cost equals unit price times quantity plus fixed cost. Memorize the shape and these prompts stop being puzzles.
 
-Combined rate = 1/6 + 1/4 = 2/12 + 3/12 = 5/12 documents per hour. Time together = 12/5 = 2.4 hours.
+Prompt: "A plumber charges a flat seventy-five dollar visit fee plus ninety dollars for each hour of labor. If a job costs three hundred forty-five dollars, how many hours did the plumber work?"
 
-Worked example: Pump A fills a tank in 3 hours. Pump B fills the same tank in 5 hours. Pump C drains the tank in 10 hours. If all three are operating simultaneously, how long does it take to fill the tank?
+Let h be the number of hours. The fixed cost is seventy-five, the unit price is ninety per hour, and the total is three hundred forty-five. The template gives 345 equals 90h plus 75. Subtract the fixed fee: 270 equals 90h. Divide: h equals 3. The plumber worked three hours, and ninety times three plus seventy-five is indeed three hundred forty-five.
 
-Net rate = 1/3 + 1/5 minus 1/10 (the drain pump subtracts from the fill rate). = 10/30 + 6/30 minus 3/30 = 13/30 of the tank per hour. Time = 30/13 hours approximately 2.31 hours.
+The principle: identify the fixed piece (the part that does not change with quantity) and the variable piece (the part that scales), and the template assembles itself. This same fixed-plus-variable shape underlies most phone-plan, rental, and membership prompts, and it connects directly to the slope-intercept reading you would use in a linear graph.
 
-The trap in rate-work problems: forgetting to account for a draining pump by subtracting its rate rather than adding it. Any machine or process that removes from the task (drains, unloads, etc.) has a negative contribution to the combined rate.
+### Example five: percent inside a word problem
 
-A common Digital SAT format: "Worker X can complete a job in d days. Worker Y can complete the same job in e days. If they work together for h hours, what fraction of the job is complete?" Answer: h times (1/d + 1/e) = h(d + e) / (de).
+Prompt: "After a fifteen percent discount, a jacket costs one hundred two dollars. What was the original price?"
 
-## Distance-Rate-Time Problems
+The phrase to decode is "after a fifteen percent discount," which means the customer pays one hundred percent minus fifteen percent, or eighty-five percent of the original. Let p be the original price. Then 0.85 times p equals 102. Divide both sides by 0.85: p equals 120. The original price was one hundred twenty dollars, and eighty-five percent of one hundred twenty is one hundred two.
 
-Distance-rate-time (DRT) problems use the foundational formula: distance = rate times time, equivalently d = rt.
+The principle: a percent change is a single multiplication by a factor, not a two-step subtraction, and seeing the factor (0.85 for a fifteen percent cut, 1.15 for a fifteen percent rise) is faster and less error-prone than computing the change and subtracting it. The [multiplier method for percent change](/1997/08/07/sat-math-percent-change-markup-discount/) develops this into a complete approach for markups, discounts, and tax stacked together.
 
-The three forms of the formula (one for each unknown): d = rt, r = d/t, t = d/r. Identify which two quantities are given and which is unknown to choose the correct form.
+### Example six: combined work rates
 
-The standard single-traveler problem: "A car travels 240 miles at a constant speed of 60 mph. How long does the trip take?" t = d/r = 240/60 = 4 hours.
+Work-rate prompts intimidate readers who try to reason about them in words, and they become routine the moment you reach for one idea: rates add. If one worker finishes a job in a hours, that worker completes 1/a of the job each hour. Two workers laboring together complete the sum of their individual hourly fractions, and the combined rate tells you the combined time.
 
-The two-traveler same-direction problem: "Two cars start from the same point. Car A travels at 50 mph and Car B travels at 65 mph. How far apart are they after 3 hours?" Distance of A = 50 times 3 = 150 miles. Distance of B = 65 times 3 = 195 miles. Separation = 195 minus 150 = 45 miles.
+Prompt: "One pipe fills a tank in six hours. A second pipe fills the same tank in four hours. Running together, how long do they take to fill the tank?"
 
-The two-traveler toward-each-other problem (closing distance): "Two trains 420 miles apart travel toward each other at 60 mph and 80 mph. How long until they meet?" Combined speed = 60 + 80 = 140 mph. Time to meet = 420/140 = 3 hours.
+Let t be the time in hours for both pipes together. The first pipe's rate is one tank per six hours, or 1/6 of the tank each hour. The second pipe's rate is 1/4 each hour. Together their combined rate is 1/6 plus 1/4. Find a common denominator of twelve: 2/12 plus 3/12 equals 5/12 of the tank per hour. If they fill 5/12 of the tank each hour, the whole tank takes the reciprocal of that rate, so t equals 12/5 hours, which is two and two-fifths hours, or two hours and twenty-four minutes. Check the logic: in 12/5 hours the first pipe does (1/6)(12/5) equals 2/5 of the tank, the second does (1/4)(12/5) equals 3/5, and 2/5 plus 3/5 is one full tank.
 
-The two-traveler away-from-each-other problem (opening distance): "Two ships leave the same port traveling in opposite directions at 25 knots and 35 knots. After t hours, they are 240 nautical miles apart. Find t." Combined speed = 60 knots. t = 240/60 = 4 hours.
+The principle: convert each worker into a per-hour fraction of the job, add the fractions to get the combined rate, and take the reciprocal of the combined rate to get the combined time. Never average the times; averaging six and four to get five is the classic wrong move, and it is wrong because rates add, times do not.
 
-The round-trip problem (same distance, different speeds): "A driver averages 40 mph on the way to a destination and 60 mph on the return trip. If the one-way distance is 120 miles, what is the average speed for the entire round trip?" Time out = 120/40 = 3 hours. Time back = 120/60 = 2 hours. Total time = 5 hours. Total distance = 240 miles. Average speed = 240/5 = 48 mph.
+### Example seven: distance equals rate times time
 
-The trap in round-trip average speed: taking the simple average of 40 and 60 gives 50 mph, which is wrong. The correct average is total distance divided by total time. The simple average of speeds is never the correct average speed unless the times spent at each speed are equal.
+The most reused template in the section is distance equals rate times time, written d equals rt. Any two of the three quantities determine the third, and most prompts hand you two and ask for the missing one, sometimes after a layer of disguise.
 
-The Digital SAT most commonly tests the toward-each-other format and the round-trip format. Setting up the equation system explicitly (rather than using mental arithmetic) prevents the most common setup errors in these problems.
+Prompt: "A cyclist rides for two and a half hours at a steady fourteen miles per hour, then walks the bike home along the same route at four miles per hour. How far from home did the cyclist turn around?"
 
-## Age Problems: Setting Up the Equations
+Let d be the distance from home to the turnaround point. The riding leg covers d at fourteen miles per hour, so its time is d divided by fourteen. But the prompt already gives the riding time directly as two and a half hours, so d equals rate times time gives d equals 14 times 2.5, which is thirty-five miles. The walking-speed detail is a distractor for this particular question; the riding leg alone answers what is asked. The cyclist turned around thirty-five miles from home.
 
-Age problems ask for ages at different points in time. The key relationships: if someone is currently x years old, they were (x minus k) years old k years ago, and they will be (x + k) years old k years from now.
+The principle: write d equals rt, slot in the two known quantities, and solve for the third, but first re-read to confirm which leg the question is about. Extra numbers in a prompt are not all load-bearing, and a careful reader spends a beat deciding what each one is for before using it.
 
-The "older than" relationship: "Maria is 5 years older than twice Juan's age" translates to M = 2J + 5. The trap format is "Maria is 5 years older than twice Juan's age," which students sometimes translate as M + 5 = 2J (wrong). The correct reading: Maria's age = twice Juan's age PLUS 5 more.
+### Example eight: the two-trains variant
 
-Standard worked example: Maria is currently 5 years older than twice Juan's age. In 3 years, Maria will be exactly twice Juan's age. Find both current ages.
+Prompt: "Two trains leave the same station at the same time traveling in opposite directions. One travels at sixty miles per hour and the other at eighty miles per hour. After how many hours are they three hundred fifty miles apart?"
 
-Let J = Juan's current age. Let M = Maria's current age. From the first sentence: M = 2J + 5. In 3 years: M + 3 = 2(J + 3). Substitute M = 2J + 5: (2J + 5) + 3 = 2(J + 3). 2J + 8 = 2J + 6. This simplifies to 8 = 6, which is impossible. The problem as stated has no solution. (Example adjusted for a valid system below.)
+Let t be the number of hours. Because the trains move in opposite directions, the gap between them grows at the sum of their speeds, sixty plus eighty, which is one hundred forty miles per hour. The separating distance is the combined rate times time: 140t equals 350. Divide: t equals 2.5 hours. After two and a half hours the trains are three hundred fifty miles apart, and one hundred forty times two and a half is indeed three hundred fifty.
 
-Valid example: Maria is currently 5 years older than Juan. In 3 years, Maria will be 4 years older than Juan (this does not work since the age difference is constant). Let me use a different structure.
+The principle: when two objects move apart, their separation rate is the sum of their speeds; when they move toward each other, the closing rate is also the sum; when one chases another in the same direction, the gap changes at the difference of their speeds. Decide the geometry first, then choose sum or difference, then apply distance equals rate times time to the gap.
 
-Valid age problem: Alex is currently twice as old as Ben. Eight years ago, Alex was three times as old as Ben. Find their current ages.
+### Example nine: an age problem across time
 
-Let B = Ben's current age. Alex's current age = 2B. Eight years ago: Alex was 2B minus 8, Ben was B minus 8. Equation: 2B minus 8 = 3(B minus 8). 2B minus 8 = 3B minus 24. minus B = minus 16. B = 16. Alex = 32.
+Prompt: "A father is currently four times as old as his daughter. In six years he will be only three times as old as she is. How old is the daughter now?"
 
-Verify: 8 years ago, Alex was 24 and Ben was 8. Alex was 3 times Ben's age. Correct.
+Age prompts reward a clean "let" statement and a careful handling of the time shift. Let d be the daughter's current age. The father is currently four times that, so let the father's age be 4d. In six years each person is six years older, so the daughter will be d plus 6 and the father will be 4d plus 6. The future relationship says the father is then three times the daughter: 4d plus 6 equals 3 times (d plus 6). Expand the right side: 4d plus 6 equals 3d plus 18. Subtract 3d from both sides: d plus 6 equals 18. Subtract six: d equals 12. The daughter is twelve now, the father is forty-eight, and in six years they will be eighteen and fifty-four, where fifty-four is three times eighteen, as required.
 
-The key to age problems: set up the current-age relationship first, then write the past-age or future-age relationship using the current variables plus or minus the time shift.
+The principle: write current ages first, add the same time shift to every person for the future or subtract it for the past, and build the second equation from the relationship that holds at that other moment. The trap is adding the shift to one person and forgetting the other; everyone ages at the same rate.
 
-## Mixture and Concentration Problems
+### Example ten: a mixture and concentration problem
 
-Mixture problems ask about combining two substances of different concentrations to achieve a target concentration. The setup always has the form:
+Prompt: "A chemist has a solution that is twenty percent acid and wants to add pure acid to produce a solution that is fifty percent acid. If she starts with thirty liters of the twenty percent solution, how many liters of pure acid should she add?"
 
-Amount of substance in mixture 1 + Amount of substance in mixture 2 = Amount of substance in final mixture.
+Mixture prompts track one ingredient through a before-and-after balance. Let x be the liters of pure acid added. Before mixing, the acid present is twenty percent of thirty liters, which is 0.20 times 30, or six liters. The pure acid added contributes x liters of acid, since it is one hundred percent acid. After mixing, the total volume is 30 plus x liters, and the acid in it is 6 plus x liters. The target concentration says the acid is fifty percent of the total: 6 plus x equals 0.50 times (30 plus x). Expand: 6 plus x equals 15 plus 0.5x. Subtract 0.5x from both sides: 6 plus 0.5x equals 15. Subtract six: 0.5x equals 9. Divide: x equals 18. She should add eighteen liters of pure acid, and a check confirms it: the mixture then holds 6 plus 18 equals 24 liters of acid in 30 plus 18 equals 48 liters total, and 24 over 48 is exactly fifty percent.
 
-Where "amount of substance" = concentration times volume.
+The principle: track the amount of the single ingredient of interest, not the whole solution, write an equation that balances that ingredient before and after, and remember that pure acid contributes its full volume to the acid total while contributing to the overall volume as well.
 
-Worked example: how many liters of a 20% salt solution must be added to 10 liters of a 50% salt solution to obtain a 30% salt solution?
+### Example eleven: the answer-the-question trap
 
-Let x = liters of 20% solution to add. Salt in 20% solution: 0.20x. Salt in 50% solution: 0.50 times 10 = 5 liters. Total volume of final mixture: x + 10 liters. Salt in final 30% mixture: 0.30(x + 10).
+This is the most expensive item type in the section, and it is not expensive because the math is hard. It is expensive because the math is easy and the final reading is hard.
 
-Equation: 0.20x + 5 = 0.30(x + 10). 0.20x + 5 = 0.30x + 3. 2 = 0.10x. x = 20 liters.
+Prompt: "If 3x minus 7 equals 11, what is the value of 3x plus 2?"
 
-Verify: 20 liters of 20% solution contains 4 liters of salt. 10 liters of 50% solution contains 5 liters of salt. Total: 30 liters containing 9 liters of salt. Concentration = 9/30 = 30%. Correct.
+A hurried reader solves for x out of habit. Add seven to both sides: 3x equals 18. Divide by three: x equals 6. And x equals 6 is sitting right there among the answer choices, placed deliberately as bait. But the prompt did not ask for x. It asked for 3x plus 2. Re-read the final sentence. You already know 3x equals 18, so 3x plus 2 equals 20. The answer is 20, not 6. The faster path skips solving for x at all: the question hands you 3x equals 18 after one step, and the target 3x plus 2 is reachable without ever isolating the variable.
 
-The Digital SAT tests mixture problems with salt solutions, alcohol solutions, acid concentrations, and also with price mixtures (mix two types of coffee at different prices to achieve a target price per pound). The structure is identical in all cases.
+The principle, and the discipline this whole article builds toward: after you solve, re-read the final sentence of the prompt and confirm you are reporting the exact quantity it requested. The wrong-question trap is the single most common avoidable loss on the quantitative side, and the cure is free. Name the target in your "let" statement, solve, then match what you found against what was asked before you bubble.
 
-A price-mixture example: how many pounds of $4/lb coffee must be mixed with 8 pounds of $6/lb coffee to make a blend worth $5/lb?
+### Example twelve: consecutive integers
 
-Let x = pounds of $4/lb coffee. Value of cheap coffee: 4x. Value of expensive coffee: 48. Total pounds: x + 8. Value equation: 4x + 48 = 5(x + 8). 4x + 48 = 5x + 40. 8 = x.
+Prompt: "The sum of three consecutive integers is seventy-two. What is the largest of the three?"
 
-Answer: 8 pounds of $4/lb coffee.
+Consecutive integers have a fixed structure that the dictionary already gave you: if the smallest is n, the next is n plus 1 and the third is n plus 2. Let n be the smallest integer, so the three integers are n, n plus 1, and n plus 2. Their sum is n plus (n plus 1) plus (n plus 2), which combines to 3n plus 3, and that sum equals seventy-two. So 3n plus 3 comes to 72, giving 3n equal to 69 and n equal to 23. The smallest integer is twenty-three, so the largest is twenty-five. Notice the wrong-question bait built into the structure: a hurried solver who reports n bubbles twenty-three, the smallest, when the item asked for the largest, twenty-five.
 
-## Twelve Fully Worked Examples Across All Types
+The principle: model a run of consecutive integers with a single variable and a fixed offset, then watch which member of the run the prompt actually requests, because the smallest, middle, and largest are all plausible-looking values sitting one step apart.
 
-### Example 1: Basic Translation (Easy)
+### Example thirteen: a fraction of a remaining amount
 
-"Five less than three times a number equals 22. Find the number."
+Prompt: "A reader spends one-third of a book allowance on a novel, then spends one-half of what remains on a workbook. If forty dollars is left, what was the original allowance?"
 
-Let n = the number. Translation: 3n minus 5 = 22. Solve: 3n = 27, n = 9. Answer: 9.
+The trap in two-stage fraction prompts is treating the second fraction as a fraction of the original rather than of the remainder. Let b be the original allowance. After the novel, one-third is gone, so two-thirds of b remains, which is (2/3)b. The workbook takes one-half of what remains, so it takes (1/2) times (2/3)b, which is (1/3)b, leaving the other half of the remainder, also (1/3)b. That leftover is forty dollars, so (1/3)b comes to 40, and b equals 120. The original allowance was one hundred twenty dollars. As a check, one-third of one hundred twenty is forty for the novel, leaving eighty; one-half of eighty is forty for the workbook, leaving forty, which matches.
 
-Principle: "five less than three times a number" = (three times the number) minus five = 3n minus 5, not 5 minus 3n.
+The principle: "of what remains" means a fraction of the current remainder, not of the original, so process the stages in order and update the remaining amount before applying the next fraction.
 
-### Example 2: Answer the Right Question (Easy-Medium)
+### Example fourteen: a rate problem that hides a unit conversion
 
-"A number is increased by 7 and the result is doubled to give 30. What is twice the original number?"
+Prompt: "A printer produces forty-five pages per minute. How many pages does it produce in two and a half hours of continuous printing?"
 
-Let n = the original number. Translation: 2(n + 7) = 30. Solve: n + 7 = 15, n = 8. Twice the original = 2(8) = 16.
+The decoding is easy; the hidden work is the unit mismatch between minutes in the rate and hours in the time. Let P be the number of pages. The rate is forty-five pages per minute, and the duration is two and a half hours, which is one hundred fifty minutes, since two and a half hours times sixty minutes per hour comes to one hundred fifty. Now the units agree, and P equals 45 pages per minute times 150 minutes, which is six thousand seven hundred fifty pages. A reader who multiplied forty-five by two and a half without converting would report one hundred twelve and a half, off by a factor of sixty and not even a whole number, which is itself a warning sign.
 
-Principle: the question asks for twice n, not n itself. After finding n = 8, perform the additional step.
+The principle: when a rate and a duration use different units of time, convert one to match the other before multiplying, and let a nonsensical or fractional count flag a units error you can catch before bubbling.
 
-### Example 3: Total Cost Template (Easy-Medium)
+### Example fifteen: a ratio split
 
-"A club charges a $25 annual fee plus $10 per event attended. If a member spent $95 total for the year, how many events did they attend?"
+Prompt: "A sum of money is divided between two siblings in the ratio three to five. If the larger share is one hundred twenty dollars more than the smaller share, what is the total sum?"
 
-Let e = number of events attended. 10e + 25 = 95. 10e = 70. e = 7.
+Ratios translate into a shared multiplier. Let the common part be k, so the smaller share is 3k and the larger share is 5k. The larger exceeds the smaller by one hundred twenty dollars, so 5k minus 3k comes to 120, which gives 2k equal to 120 and k equal to 60. The smaller share is three times sixty, or one hundred eighty, and the larger is five times sixty, or three hundred. The total sum is one hundred eighty plus three hundred, which is four hundred eighty dollars. The check holds: three hundred exceeds one hundred eighty by one hundred twenty, exactly the stated difference.
 
-Principle: identify fixed cost ($25) and variable cost ($10 per event), write the total cost equation.
+The principle: a ratio is a set of parts of one shared unit, so name that unit as a variable, write each share as a multiple of it, and the comparison given in the prompt pins down the unit.
 
-### Example 4: Two-Unknown System From Word Problem (Medium)
+### Example sixteen: an inequality from "at most"
 
-"Adult tickets cost $12 and student tickets cost $7. For a school play, 150 tickets were sold for a total of $1,305. How many student tickets were sold?"
+Prompt: "A delivery driver earns a base of sixty dollars per shift plus eight dollars for each package delivered. The driver wants to earn at least one hundred forty dollars in a shift. What is the fewest packages the driver must deliver?"
 
-Let a = adult tickets, s = student tickets. Equation one: a + s = 150. Equation two: 12a + 7s = 1,305. From equation one: a = 150 minus s. Substitute: 12(150 minus s) + 7s = 1,305. 1,800 minus 12s + 7s = 1,305. minus 5s = minus 495. s = 99.
+The phrase "at least" signals an inequality, not an equation, and it points the comparison one way. Let q be the number of packages. Earnings are the total-cost template in disguise: sixty fixed plus eight per package, or 60 plus 8q. "At least one hundred forty" means earnings are greater than or equal to one hundred forty, so 60 plus 8q is greater than or equal to 140. Subtract sixty: 8q is greater than or equal to 80. Divide by eight: q is greater than or equal to 10. The driver must deliver at least ten packages. Because packages are whole and the inequality allows ten exactly, ten is the fewest that works.
 
-Answer: 99 student tickets.
+The principle: "at least" and "no less than" become greater-than-or-equal, while "at most" and "no more than" become less-than-or-equal, and a real-world count rounds to the nearest whole value that satisfies the inequality, not to the raw decimal.
 
-Principle: two unknown quantities require two equations. The quantity constraint and the value/cost constraint give the two equations.
+### Example seventeen: geometry delivered as words
 
-### Example 5: Rate-Work Problem (Medium)
+Prompt: "The length of a rectangle is three meters more than twice its width. The perimeter is thirty-six meters. What is the area of the rectangle?"
 
-"Pipe A fills a tank in 8 hours. Pipe B fills the same tank in 12 hours. How long does it take for both pipes working together to fill the tank?"
+This setup blends a reversed-order comparison, a geometry formula, and a wrong-question trap. Let w be the width in meters. "Three more than twice the width" makes the length 2w plus 3. The perimeter of a rectangle is twice the length plus twice the width, so 2 times (2w plus 3) plus 2w comes to thirty-six. Expand: 4w plus 6 plus 2w equals 36, which combines to 6w plus 6 equal to 36, giving 6w equal to 30 and w equal to 5. The width is five meters and the length is two times five plus three, or thirteen meters. But the prompt asked for the area, not a side, so multiply: area equals length times width, which is thirteen times five, or sixty-five square meters. A solver who stopped at w equals 5 or at the length thirteen would have answered a question the prompt never posed.
 
-Combined rate = 1/8 + 1/12 = 3/24 + 2/24 = 5/24 of the tank per hour. Time = 24/5 = 4.8 hours.
+The principle: a geometry prompt in words still decodes through the dictionary and the "let" statement, the formula supplies the equation, and the final re-read guards against reporting a side length when the item wanted area, or a radius when it wanted circumference.
 
-Principle: rates add. Time together = reciprocal of combined rate.
+## Strategy and Application on Test Day
 
-### Example 6: Distance-Rate-Time (Medium)
+Knowing the dictionary and the templates is necessary but not sufficient. The points show up only when the habits survive a timed module, a noisy room, and a tired brain in the final ten minutes. This section turns the content into a repeatable procedure you can run under pressure without thinking about it, because the thinking is already done.
 
-"Two cars leave the same city traveling in opposite directions. Car A travels at 55 mph and Car B travels at 45 mph. After how many hours are they 300 miles apart?"
+The procedure has four moves, and you should rehearse them until they feel automatic. First, read the whole prompt once without writing anything, just to learn what kind of situation it is and what it ultimately wants. Second, write the "let" statement, naming every unknown and, crucially, naming the target quantity in words. Third, translate clause by clause into an equation or a system, using the dictionary, paying special attention to reversed-order phrases. Fourth, solve, then re-read the final sentence and confirm you are delivering the requested quantity. Four moves, in that order, every time. The order is not decorative; reading before writing prevents premature symbols, naming before translating prevents drift, and re-reading after solving prevents the wrong-question trap.
 
-Combined speed = 55 + 45 = 100 mph. Time = 300/100 = 3 hours.
+### How should pacing change for word problems specifically?
 
-Principle: for opposite-direction travel, add speeds to get the combined separation rate.
+Verbal setups deserve a different rhythm than bare equations. Spend the opening seconds reading, not writing, because a setup misread in haste costs far more than the seconds saved. Budget your first pass for the prompts whose situation you recognize instantly, flag the multi-clause ones, and return to them once the easy points are banked.
 
-### Example 7: "Less Than" Translation Trap (Medium)
+On the calculator, the embedded Desmos tool is a translation ally, not just an arithmetic one. Once you have built an equation from a prompt, you can type it into Desmos and let the graph or the solver finish, which means your job on a verbal item ends the moment the translation is correct. This is a real shift in where your effort goes. With the tool carrying the algebra, the bottleneck is entirely the setup, so the marginal study hour is far better spent drilling translations than drilling hand computation. A reader who builds the right equation has, on the digital format, essentially finished. Practicing the conversion until it is fast and accurate is therefore the highest-yield rehearsal available, and a focused session on [free, section-targeted SAT math practice questions with full worked solutions through ReportMedic](https://reportmedic.org/tools/sat-math-practice-questions.html) lets you convert this reading into repetition, building setup after setup with immediate feedback on whether the translation held.
 
-"A number decreased by 14 is 5 less than twice the number. Find the number."
+Order of attack matters within a verbal item too. When a prompt contains several numbers, resist plugging them in before you know each one's role. Decide, in the "let" statement and the translation, which numbers are fixed costs, which are rates, which are totals, and which are distractors placed to tempt a careless substitution. Example seven above carried a walking speed that the actual question never used; a reader who grabbed every number and tried to use all of them would have manufactured a harder problem than the one in front of them. Part of translation is deciding what not to translate.
 
-Let n = the number. "A number decreased by 14": n minus 14. "5 less than twice the number": 2n minus 5 (NOT 5 minus 2n). Equation: n minus 14 = 2n minus 5. minus n = 9. n = minus 9.
+A note on units, because units quietly decide a surprising number of items. When a prompt gives a rate in miles per hour and a time in minutes, the mismatch will produce a wrong answer unless you convert first. When a mixture is described in liters and an answer choice is in milliliters, the factor of a thousand is the whole question. Translate the units along with the words: write them next to your numbers, cancel them as you go, and confirm the unit of your final quantity matches the unit the prompt requested. A "let" statement that says "let t be the time in hours" rather than just "let t be the time" is doing unit hygiene at the start, which is exactly where it belongs.
 
-Verify: minus 9 minus 14 = minus 23. 2(minus 9) minus 5 = minus 23. Correct.
+The way you practice matters as much as how much you practice, and translation rewards a specific drilling method. Rather than grinding through mixed sets and checking only whether the final answer was right, keep a short log of every verbal miss and write beside it which of the four moves failed. Did you misread the situation on the first pass, name the unknown wrong, reverse a phrase in translation, or solve correctly and report the wrong quantity? Over a few sessions a pattern emerges, and the pattern tells you exactly which move to rehearse. A reader who keeps reversing "less than" needs ten minutes of nothing but reversed-order phrases, not another full practice test. A reader who keeps answering the wrong question needs to drill the final re-read until it is automatic, not more algebra. Sorting misses by failed move turns vague frustration into a targeted fix, and the targeted fix is what moves the score.
 
-Principle: "less than" always causes the reversal trap. The quantity being reduced comes first.
+This is also where deliberate repetition beats volume. Building twenty setups from twenty prompts, stopping at the equation each time without finishing the arithmetic, trains the exact skill the section grades far more efficiently than solving five prompts end to end. The bottleneck on the digital format is the translation, so rehearse the translation in isolation: read the prompt, write the "let" statement, build the equation, and check that equation against a worked solution, then move on without grinding the algebra you already trust. A focused block of that drill, with each setup confirmed against a model answer, compresses weeks of vague practice into a few sharp sessions, and it is the most direct way to make the four moves disappear into reflex.
 
-### Example 8: Age Problem (Hard)
+### What if you cannot build the equation at all?
 
-"Sarah is currently 3 times as old as her daughter. In 6 years, Sarah will be twice as old as her daughter. Find Sarah's current age."
+When a setup resists translation, fall back on structured guessing. Plug the answer choices into the situation and test which one makes the prompt true, working backward from the options rather than forward from the words. Backsolving is slower than a clean translation, but it converts an unbuildable item into a checkable one and rescues points you would otherwise leave on the table.
 
-Let d = daughter's current age. Sarah's current age = 3d. In 6 years: 3d + 6 = 2(d + 6). 3d + 6 = 2d + 12. d = 6. Sarah = 18.
+Backsolving deserves elaboration because it is the safety net under the entire translation skill. On a multiple-choice item where you cannot assemble the equation, you can still test each choice against the words of the prompt. Start with the middle value, since the choices are usually ordered, so that a too-big or too-small result tells you which direction to move. This is not the elegant path, and it is slower, but it is reliable, and reliability matters more than elegance when the clock is running and one item is blocking the rest of the module. The translation skill makes backsolving rare; it does not make it useless. Keep it in reserve.
 
-Verify: in 6 years, Sarah is 24 and daughter is 12. 24 = 2 times 12. Correct.
+Watch the method work on a prompt that resists a clean setup. "A number increased by twelve is equal to four times the number decreased by three. The choices are 5, 6, 8, and 10." A reader who cannot build the equation comfortably can still test the middle choices. Try six: six increased by twelve is eighteen, and four times six decreased by three is twenty-one, which do not match, and the right side is larger, suggesting the number should be larger to close the gap, except that raising the number raises the right side faster, so the number should be smaller. Try five: five increased by twelve is seventeen, and four times five decreased by three is also seventeen, a match, so five is the answer. The setup, for the record, was n plus 12 equals 4n minus 3, which solves to n equals 5, but the point is that backsolving reached the same place without ever writing that line, by treating the choices as candidates and the prompt as a test of each.
 
-Principle: set up current-age relationship, then write future-age equation using current variables plus the time shift.
+The lesson is not that backsolving replaces translation; it is far slower and it only works on multiple-choice items, leaving the fill-in responses untouched. The lesson is that no verbal item is ever truly unsolvable on the multiple-choice portion, because the choices themselves are data you can feed back into the words. A reader who freezes has forgotten that the answer is already on the screen, waiting to be checked. When the forward path through translation stalls, reverse the direction and let the options carry you.
 
-### Example 9: Mixture Problem (Hard)
+## Edge Cases and the Hardest Variants
 
-"How many gallons of pure water must be added to 10 gallons of a 25% acid solution to dilute it to a 10% acid solution?"
+The second module, earned by clearing the first, layers complications onto the same templates. The decoding act does not change, but the prompts hide more, combine more, and punish carelessness more. Working through the harder forms is what separates a reader who can handle a clean setup from one who can handle the setup the exam actually delivers at the top of the difficulty range.
 
-Let w = gallons of water added (water has 0% acid). Acid in original: 0.25 times 10 = 2.5 gallons. Final volume: w + 10. Acid in final: 2.5 (unchanged, since water has no acid). Final concentration: 2.5 / (w + 10) = 0.10. Solve: 2.5 = 0.10(w + 10) = 0.10w + 1. 1.5 = 0.10w. w = 15.
+A common escalation is the multi-clause comparison, where two or three relationships stack inside one prompt. "The second number is three more than twice the first, and the third is four less than the second; their sum is forty." Each clause is a translation you already know, but now they chain. Let f be the first number. The second is 2f plus 3. The third is the second minus four, which is (2f plus 3) minus 4, or 2f minus 1. The sum is f plus (2f plus 3) plus (2f minus 1) equals 40, which simplifies to 5f plus 2 equals 40, so 5f equals 38 and f equals 7.6. The arithmetic is ordinary; the difficulty lives entirely in keeping three nested expressions straight, which is exactly what the "let" statement and clean notation are for.
 
-Answer: 15 gallons of water.
+Another escalation disguises the template inside an unfamiliar context. A prompt about data downloads, bacterial growth dressed as a linear rate, or a salesperson's commission may all be the total-cost template wearing a costume. The fixed piece becomes a base salary, a starting population, or a flat data allowance; the variable piece becomes commission per sale, growth per hour, or cost per gigabyte. Recognizing the skeleton under the costume is the whole skill at the hard end, and it is why memorizing templates by their structure rather than by their cover story pays off. A reader who learned "phone-plan problems" learned a costume. A reader who learned "fixed plus variable times quantity" learned a skeleton that fits a hundred costumes.
 
-Principle: the amount of solute (acid) is unchanged when water is added; only the total volume increases.
+### Are the hardest word problems harder math or harder reading?
 
-### Example 10: Round-Trip Average Speed (Hard)
+Almost always harder reading. The arithmetic at the top of the range rarely exceeds what a mid-band item demands; what climbs is the number of clauses, the subtlety of a reversed-order phrase, and the care needed to match the solved value to the requested one. The decoding load rises while the computation stays flat.
 
-"A cyclist travels from City A to City B at 15 mph and returns at 25 mph. What is the average speed for the entire trip if the one-way distance is 75 miles?"
+The hardest variant of all blends the wrong-question trap with a multi-step solve, so that the natural intermediate value is also a wrong answer placed among the choices. A prompt might walk you to a value of x, then ask for the perimeter of a figure whose side is x plus 3, with both x and the perimeter sitting in the answer list. Every defense in this article converges here: the "let" statement that named the target, the discipline of re-reading the final sentence, and the habit of confirming units and quantity before bubbling. At the top of the range, sloppiness is not a small tax. It is the difference between the answer and a trap engineered to look like the answer.
 
-Time from A to B = 75/15 = 5 hours. Time from B to A = 75/25 = 3 hours. Total time = 8 hours. Total distance = 150 miles. Average speed = 150/8 = 18.75 mph.
+There are also setups where the translation is correct but the equation has a quirk worth anticipating. A rate prompt can produce a quadratic when distance is fixed and you solve for time across two legs. A mixture can require a system rather than a single equation when two unknown volumes mix. An age prompt can hinge on a past moment rather than a future one, flipping a plus to a minus in the time shift. None of these break the method; they extend it. The "let" statement still names the unknowns, the dictionary still decodes the clauses, and the final re-read still guards the answer. The harder the item, the more the disciplined process earns its keep, because the harder item is precisely where an undisciplined reader's shortcuts fail.
 
-Principle: average speed = total distance / total time. Never average the speeds directly.
+Consider the average-speed round trip, a prompt the writers love because the obvious answer is wrong. "A commuter drives to work at thirty miles per hour and returns home along the same route at sixty miles per hour. What is the average speed for the round trip?" The seductive move is to average the two speeds and report forty-five, and that is the trap choice sitting in the answer list. Average speed is total distance divided by total time, not the average of the two speeds, and the times differ because the slower leg takes longer. Let the one-way distance be d. The trip out takes d divided by thirty, the trip back takes d divided by sixty, and the total distance is 2d. The total time is d over thirty added to d over sixty, which over a common denominator of sixty is 2d over sixty added to d over sixty, giving 3d over sixty, or d over twenty. Average speed is total distance over total time, so 2d divided by (d over twenty), and the d cancels, leaving 2 times twenty, or forty miles per hour. The honest average is forty, not forty-five, because the commuter spends more time at the slower speed, which drags the average below the midpoint.
 
-### Example 11: Combined Translation and System (Hard Module 2)
+The principle: average speed weights time, not distance, so it can never be found by averaging two speeds directly; build total distance over total time and let the algebra cancel the unknown distance. This is the same lesson as the work-rate prompts wearing different clothing, and seeing the connection, that you average neither speeds nor times but combine through a rate, is what makes both families routine.
 
-"The sum of two numbers is 48. The larger number is 6 more than three times the smaller number. What is the product of the two numbers?"
+A second quirk worth a worked look is the rate prompt that resolves into a quadratic. "A boat travels twenty-four miles downstream and twenty-four miles back upstream. The river current flows at two miles per hour, and the whole round trip takes five hours. What is the boat's speed in still water?" Let b be the boat's speed in still water. Downstream the current helps, so the effective speed is b plus 2, and that leg takes 24 divided by (b plus 2). Upstream the current opposes, so the speed is b minus 2, and that leg takes 24 divided by (b minus 2). The total time is five hours, so 24 over (b plus 2) added to 24 over (b minus 2) comes to 5. Clearing the denominators by multiplying through by (b plus 2)(b minus 2) gives 24(b minus 2) added to 24(b plus 2) equal to 5(b squared minus 4). The left side simplifies to forty-eight b, and the right side to five b squared minus twenty, so the relationship rearranges to five b squared minus forty-eight b minus twenty equals zero. Factoring or applying the quadratic formula yields b equals ten, after discarding the negative root as physically impossible. The boat's still-water speed is ten miles per hour. The check holds: downstream at twelve covers twenty-four in two hours, upstream at eight covers twenty-four in three hours, and two added to three is five.
 
-Let s = smaller number, L = larger number. Equation one: s + L = 48. Equation two: L = 3s + 6. Substitute: s + 3s + 6 = 48. 4s = 42. s = 10.5. L = 48 minus 10.5 = 37.5.
+The principle: when distance is fixed and you solve for a speed that appears in two different denominators, expect a quadratic, clear the fractions carefully, and discard any negative or otherwise impossible root, because a real speed, length, or count cannot be negative. The translation produced the equation; recognizing that the equation is a quadratic and that one of its roots is physically meaningless is the final layer of judgment the hardest prompts demand.
 
-Product = 10.5 times 37.5 = 393.75.
+## How Translation Connects to the Whole Exam
 
-Principle: identify the two relationships from the problem, set up the system, solve, then perform the final step (product, not just one of the values).
+The decoding skill is not a corner of the quantitative section; it is the connective tissue of the entire test. Every applied geometry prompt, every statistics interpretation, every function-modeling item is a translation problem with a topic attached. The reader who internalizes the dictionary and the "let" habit is not just better at the named "word problem" category. They are better at every item delivered in language, which is nearly all of them.
 
-### Example 12: Rate-Work With Partial Completion (Hard Module 2)
+The leverage extends past the math too. The same close-reading discipline, identify the exact claim, watch the order of the words, confirm what is actually being asked, is the engine of the verbal section's evidence and inference questions. A candidate who trains careful reading on quantitative prompts is sharpening the muscle that the reading and writing section also grades. The exam, viewed whole, rewards readers who slow down at the moment of comprehension and speed up at the moment of execution, and translation is where that pattern is most visible.
 
-"Worker A can complete a project in 10 days. Worker A works alone for 4 days, then Worker B joins. Together they finish the project in 3 more days. How long would it take Worker B to complete the project alone?"
+It is worth seeing how the named templates fold into one another, because the connections are what make the whole set memorable rather than a list to cram. The total-cost template, fixed plus variable times quantity, is the slope-intercept line in disguise, where the fixed cost is the intercept and the unit price is the slope. The work-rate method, add the per-unit rates, is the same logic as the separating-trains problem, where you add speeds to get a combined rate. The average-speed trap is the work-rate method again, insisting that you combine through total-over-total rather than by averaging. Distance equals rate times time is the parent of the train problems, the boat-in-current problem, and the printer problem alike. Five or six templates, seen as variations on a few core ideas, cover the overwhelming majority of verbal setups, which is why memorizing their skeletons rather than their cover stories is the efficient path. A reader who sees the shared spine stops meeting each prompt as a stranger and starts recognizing old friends in new costumes.
 
-Work done by A in 4 days: 4 times (1/10) = 4/10 = 2/5 of the project. Remaining work: 1 minus 2/5 = 3/5. Let b = days for B to complete the project alone. Combined rate for 3 days: 3 times (1/10 + 1/b) = 3/5. Simplify: 1/10 + 1/b = 1/5. 1/b = 1/5 minus 1/10 = 1/10. b = 10.
+For the broader study plan, this reframes priorities. A reader staring at a topic list, exponential functions, circles, two-way tables, can feel the content is endless, and it is large. But translation sits above every topic and unlocks all of them, which is why it belongs early in a sequence, not late. Master the decoding layer first and every subsequent topic becomes easier to learn, because each new topic arrives as a verbal setup you can already parse. Skip the decoding layer and every topic stays partly locked, because the prompt itself remains an obstacle. The foundational [algebra and domain skills that underpin equation setup](/2021/04/24/sat-algebra-domain-complete-guide/) pair naturally with this guide, since translation produces the equations and algebra solves them.
 
-Verify: both workers complete 3 times (1/10 + 1/10) = 3 times (2/10) = 6/10 = 3/5 of the project in the 3 remaining days. 2/5 + 3/5 = 1 complete project. Correct.
+### Does improving at word problems raise the whole math score?
 
-Principle: track the fraction of work completed in each phase. The fraction done plus the fraction remaining must equal 1.
+More than almost any other single skill, yes. Because the majority of the section is delivered as language, a faster and more accurate decoder gains points across topics at once rather than in one isolated area. The improvement compounds, since clearing more early items also routes you into the higher-difficulty module where additional points live.
 
-## The Translation Dictionary Extended: Harder Phrasings
+There is a confidence dimension here that is easy to undersell. Many readers carry a story that they are "not math people," and that story usually formed at the translation seam, where a sentence refused to become an equation and the failure felt like a verdict on ability. Reframing the difficulty as a decoding skill rather than a fixed trait is not a pep talk; it is an accurate description of what the section measures and how scores actually move. A reader who watches their own setups become fast and reliable over a few weeks of practice receives direct evidence against the fixed-trait story, and that evidence changes how they approach the rest of the test. The section is a learnable, pattern-bound system, and translation is the clearest demonstration of that fact, because nowhere else does so small a habit produce so large a gain.
 
-The standard translation dictionary covers most word problem vocabulary. The following extended entries cover phrasings that appear in harder questions and are more commonly mistranslated.
+The skill also reshapes how a reader should sequence an entire study cycle. A plan that marches through topics in textbook order, exponents, then radicals, then geometry, then statistics, treats every subject as equally urgent and equally isolated, which is not how the points are distributed and not how the prompts arrive. A plan built around translation puts the decoding habit first, then layers topics onto a reader who can already parse any verbal setup, so that each new topic is learned through prompts the reader can read rather than prompts that double as reading obstacles. The difference compounds across weeks. The translation-first reader spends each topic session learning the topic; the textbook-order reader spends part of every session re-fighting the decoding battle they never settled, which is why two students with identical hours can end up far apart. Sequencing is strategy, and translation belongs at the front of the sequence for the same reason a foundation is poured before the walls.
 
-"Is proportional to" means the ratio is constant. If y is proportional to x, then y = kx for some constant k.
+There is a practical corollary for anyone tutoring a younger student or a sibling. When a learner says a prompt is "too hard," the most useful first question is not about the topic but about the sentence: what is the unknown, and what is the prompt asking for? More often than not, the learner can do the arithmetic the moment the situation is labeled, which tells you the obstacle was never the math. Teaching the "let" statement and the dictionary to a struggling student frequently produces a jump that looks like a content breakthrough but is really a reading breakthrough, and naming it correctly matters, because it tells the student where to keep working and protects them from concluding they lack an ability they actually have.
 
-"Inversely proportional to" means the product is constant. If y is inversely proportional to x, then y = k/x, equivalently xy = k.
+## Common Mistakes and Myths Corrected
 
-"At most" = less than or equal to. "At least" = greater than or equal to. "Between" usually means strict inequality (not including endpoints unless "inclusive" is specified).
+The first and most expensive mistake is the one this article has circled repeatedly: solving correctly and answering the wrong question. It deserves restating because readers underestimate how often it happens to strong students specifically. A weak student who cannot solve never reaches the trap. A strong student who solves fast and reads the final sentence fast walks straight into it, because confidence breeds speed and speed skips the confirmation step. The cure is not more skill; it is the deliberate, almost ritual re-read of the final sentence after every solve. Treat it as part of the answer, not as optional polish.
 
-"A fraction of" = multiply by that fraction. "Three-fifths of the students" = (3/5) times number of students.
+The second mistake is writing reversed-order phrases in the order the words arrive. "Five less than a number" becomes 5 minus n in the hands of a reader who translates left to right without thinking, and that single sign reversal corrupts the whole equation. The fix is to read "less than" and "fewer than" as instructions to subtract from the anchor quantity, and to slow down whenever a comparison uses "than." The words are deliberately arranged to tempt the wrong order; knowing that they are a trap is most of the defense.
 
-"n times as many as" = n times the reference quantity. "Twice as many girls as boys" means girls = 2 times boys. This is DIFFERENT from "twice more than," which is ambiguous but often interpreted as boys + 2 times boys = 3 times boys.
+A third mistake belongs to work-rate prompts: averaging the times instead of adding the rates. If one worker takes six hours and another takes four, the careless reader averages to five and reports a combined time of five hours, which is not only wrong but impossible, since two workers together must finish faster than either alone. The combined time has to be less than the faster worker's four hours, and the rate method delivers exactly that, two and two-fifths hours. Whenever a combined-effort answer comes out slower than the fastest single worker, the method was wrong, and that sanity check catches the averaging error every time.
 
-"What fraction of A is B?" = B/A. "What percent of 80 is 24?" = 24/80 = 30%.
+### Is it true that you should always introduce a variable for every unknown?
 
-"How much more than A is B?" = B minus A (if B is larger). "What is the excess of B over A?" = same, B minus A.
+No, and believing it makes setups harder than they need to be. When one unknown is described in terms of another, express it that way inside the "let" statement and collapse two variables into one. Reserve a second variable only for genuinely independent unknowns, as in the ticket-counting problem, where neither count can be written cleanly in terms of the other.
 
-"The ratio of x to y is 3 to 5" means x/y = 3/5, equivalently 5x = 3y.
+A fourth myth is that word problems require some special intuition that either you have or you do not. This is the fixed-trait story in disguise, and it is wrong on the evidence. Every setup in this article was solved by the same mechanical procedure: read, name, translate, solve, confirm. No intuition was required, only a dictionary and a habit. The feeling of intuition that strong decoders seem to have is simply the procedure run so often it became invisible to them. You can build the same fluency the same way, by running the procedure deliberately until it disappears into reflex.
 
-"What is the original value before a 20% increase?" = final value / 1.20. Division by the multiplier reverses a percent change.
+A final misconception worth dismantling is that the calculator removes the need to study word problems. The opposite is true on the digital format. Because the tool handles the algebra and the arithmetic, the entire remaining difficulty concentrates in the translation, which the tool cannot do for you. A reader who leans on Desmos without training their setup will find that the tool is useless until the equation exists, and building the equation is exactly the skill the prompt was testing. The calculator raises the value of translation; it does not lower it.
 
-## Common Structural Patterns to Recognize Instantly
+One more error hides in plain sight and is worth naming because it survives even careful translation: ignoring the units until the very end, or not at all. A reader can decode every phrase correctly, build a flawless equation, and still bubble a wrong answer because the rate was per minute and the time was in hours, or because the question asked for centimeters while the setup ran in meters. Units are not decoration on the numbers; they are part of the translation, and a number without its unit is only half-translated. The defense is mechanical: attach the unit to every quantity in the "let" statement, carry units through the arithmetic so they cancel visibly, and read the final sentence not only for what quantity is wanted but for what unit it is wanted in. When the unit of your answer does not match the unit in the choices, you have found an error before it cost you, which is exactly when you want to find it.
 
-Beyond the translation dictionary, certain structural patterns recur across many word problems with enough frequency that instant recognition eliminates the setup time.
+## Where to Take This Next
 
-Pattern one: two things at different unit prices with a total count and total cost. This is always a two-equation, two-variable system. Template: quantity1 + quantity2 = total count, price1 times quantity1 + price2 times quantity2 = total cost.
+Return to the moving van, the phone plan, the two painters, and the chemist from the opening. None of them is a math problem in the way a printed equation is a math problem. Each is a comprehension problem with an algebraic tail, and the tail is the easy part. The skill that decides your score on the majority of the section is the one this article isolated: turning ordinary sentences into symbols, naming what you do not yet know before you solve, and confirming that the number you found is the number the prompt asked for.
 
-Pattern two: one worker takes a hours alone, another takes b hours alone, together they take how long. This is always a combined rate problem. Answer: ab/(a + b).
+The procedure is short enough to carry into the test on a single breath. Read the whole prompt before writing. Name every unknown, and name the target, in a "let" statement. Translate clause by clause with the dictionary, slowing at every reversed-order phrase. Solve, then re-read the final sentence and match your answer to the request. Four moves, in that order, on every verbal item. The dictionary lives in your memory, the templates fit a hundred disguises, and the final re-read closes the most expensive leak on the quantitative side.
 
-Pattern three: speed there and speed back (round trip). Average speed = total distance / total time = 2d / (d/r1 + d/r2) = 2r1r2 / (r1 + r2).
-
-Pattern four: age now and age at another time. Set up current relationship, then write the shifted relationship (add or subtract years from each person's current age).
-
-Pattern five: mixture of two concentrations to make a target concentration. Set up: concentration1 times volume1 + concentration2 times volume2 = target concentration times total volume.
-
-Pattern six: a percent of a whole equals a part. Whole times percent = part. Missing any one of the three (whole, percent, part) can be found from the other two.
-
-Recognizing these six patterns instantly routes your thinking to the correct equation structure before you read the specific numbers, which saves the time spent puzzling over how to set up the equation.
-
-## The Answer-the-Right-Question System
-
-The answer-the-right-question error is so costly that it deserves a systematic approach, not just a reminder to re-read the question. The system:
-
-Step one: write the let-statement explicitly. "Let x = number of adult tickets sold."
-
-Step two: circle the question at the end of the problem. Physically circle or underline what the problem actually asks for.
-
-Step three: after solving, compare what you found (the let-statement) to what was circled (the question). If they match, report x. If they do not match, compute the additional step(s) to reach the quantity that was circled.
-
-Step four: label the final answer with its units. If x = adult tickets, write "x = 73 adult tickets" not just "73." The unit label confirms the match between what was found and what was asked.
-
-This four-step system takes under 30 seconds to apply and prevents the most common correct-solution wrong-answer error in SAT Math. Students who implement it consistently see immediate improvement in their reported score versus their solved score.
-
-## Test Day Framework for Word Problems
-
-When you encounter a word problem on the Digital SAT, run through this framework:
-
-Step one: identify the unknown(s). What quantity or quantities is the problem asking you to find?
-
-Step two: write the let-statement(s). Define each unknown with a clear English label and units.
-
-Step three: identify the template. Is this a total cost problem? Rate-work? Distance-rate-time? Age? Mixture? Percent? Two-unknown system?
-
-Step four: translate each sentence into an algebraic expression or equation using the translation dictionary. Pay special attention to "less than" (reversal), "times as many as" (multiplication), and "at least/most" (inequality).
-
-Step five: solve the equation or system.
-
-Step six: check whether your answer matches what was asked (compare let-statement to circled question). Perform any additional steps needed.
-
-Step seven: verify the answer in context. Does the number make physical sense? (Negative time or negative quantities usually indicate a setup error.)
-
-This seven-step framework takes 30 to 60 seconds for easy questions and 2 to 3 minutes for harder multi-step problems. For students who currently approach word problems ad hoc, adopting this framework consistently produces the most reliable score improvement of any single habit change.
-
-## Connecting Word Problem Translation to the Broader Test
-
-Word problem translation is not a topic that can be isolated from the rest of SAT Math. It is the interface through which every topic is accessed. The translation skills in this guide apply to algebra (linear equation word problems), data analysis (percent, ratio, proportion word problems), advanced math (function context problems), and geometry (area, perimeter, and measurement word problems).
-
-The [SAT Algebra domain guide](/2021/04/24/sat-algebra-domain-complete-guide/) covers the solving techniques that follow successful translation. The [SAT percent change guide](/1997/08/07/sat-math-percent-change-markup-discount/) covers the specific percentage template that appears frequently as a word problem subtype. The [SAT systems of equations guide](/1997/07/29/sat-math-systems-no-infinite-solutions/) covers the two-equation solution techniques for two-unknown word problems.
-
-## Conclusion
-
-Word problem translation is the most universally applicable skill in all of Digital SAT Math because it is the gateway to every other skill. A student who cannot translate a word problem into algebra cannot use any algebraic technique to solve it, regardless of how proficient they are at solving equations. Conversely, a student who translates accurately and uses let-statements consistently will find that most SAT word problems resolve to familiar equation types that are solvable with the techniques already learned.
-
-The translation dictionary, the let-statement habit, the answer-the-right-question system, and the six common problem templates (total cost, rate-work, distance-rate-time, age, mixture, percent) form the complete word problem preparation toolkit. Students who internalize all six templates and both habits (let-statements and answer verification) will approach every SAT word problem with the structured confidence that produces reliable accuracy under time pressure.
-
-The broader implication for SAT Math performance: word problem translation is the one skill that cuts across every topic domain. An algebraic error on a polynomial question only costs the polynomial question. A translation error on a word problem setup costs the question regardless of how well the algebra was executed afterwards. Investing deeply in word problem translation produces returns that compound across the sixty to seventy percent of questions that are word problems, making it the single highest-leverage preparation investment in the entire Digital SAT Math section.
-
-## How the College Board Structures Word Problems Across Difficulty Levels
-
-Easy word problems in Module 1 test single-step translation with one unknown: a simple total cost equation, a straightforward "less than" subtraction setup, or a direct distance-rate-time calculation. The numbers are small, the relationship is stated clearly, and the question asks for the variable itself (not a derived expression). These problems take under 90 seconds for students who know the translation dictionary.
-
-Medium word problems introduce two-step or two-unknown setups: a two-equation system derived from a quantity constraint and a value constraint, an age problem with both current and future conditions, or a rate-work problem with two workers. The translation still involves familiar vocabulary but requires setting up more than one equation.
-
-Hard word problems in Module 2 combine multiple templates in a single problem: a percent change applied to a mixture, an age problem where the relationship changes between two time points, or a rate-work problem where workers join at different times. They may also ask for a derived expression (not x itself) or embed the real question in a complex multi-sentence setup that requires careful parsing.
-
-The adaptive nature of the Digital SAT means that students routed to the harder Module 2 will encounter multi-step word problems requiring two or more translation steps and careful question identification. Students who have internalized the let-statement habit and the answer-the-right-question system are specifically equipped for these harder variants because the habits apply at every difficulty level.
-
-## The Anatomy of a Digital SAT Word Problem
-
-Every Digital SAT word problem has the same three-part structure, regardless of topic:
-
-Part one: the setup. One or more sentences establish the context (a store sells items, two workers complete a task, a car travels between cities). The setup contains the known quantities and the relationships between them.
-
-Part two: the conditions. One or more sentences state the constraints (total cost is $95, together they finish in 4 hours, the two trains meet after 3 hours). The conditions contain the equations to be written.
-
-Part three: the question. A single sentence (usually beginning with "What is..." or "How many...") specifies exactly what must be found.
-
-The most common navigation error: reading all three parts simultaneously rather than in sequence. Students who read the problem all at once often mix up which quantities are given (part one) and which are unknown (part three), leading to equations with the wrong unknowns or the wrong relationships.
-
-The correct reading sequence: read part one slowly to identify what quantities exist. Read part two to identify what relationships hold (write the equations as you read). Read part three to circle the specific question. Then solve. This sequential reading approach prevents the setup errors that come from processing all information simultaneously.
-
-## Why the Let-Statement Habit Is the Most Important Single Change
-
-Of all the habits described in this guide, the let-statement is the one that produces the most immediate and measurable improvement in word problem performance. This is because it directly addresses the two most common sources of wrong answers: wrong-variable errors (solving for the wrong unknown) and wrong-question errors (reporting the right answer to the wrong question).
-
-The let-statement has no mathematical content; it is purely organizational. Yet its impact on performance is larger than the translation dictionary or the specific templates, because those tools are only useful if the student knows what variable represents what quantity.
-
-A student who writes "let x = the number of adult tickets sold" before any algebraic work has committed to a specific interpretation of x. If the question asks for child tickets, the student will notice the mismatch when comparing the let-statement to the circled question. Without the let-statement, the student may solve for x without ever explicitly defining it, complete the algebra correctly, and report x as the answer even when the question asks for something else.
-
-The evidence: students who adopt the let-statement habit as part of a test prep program report that their word problem accuracy improves immediately, even before they have improved their algebra fluency. This is because many of their previous errors were organizational (wrong variable, wrong question) rather than algebraic. The let-statement eliminates organizational errors without requiring any algebraic improvement.
-
-The implementation challenge: writing the let-statement feels slow at first, especially for students who are used to jumping directly into algebra. The habit feels unnecessary because for easy problems, the definition of x seems obvious. But the habit is most valuable precisely on harder problems where the definition of x is not obvious, and the student who has trained the habit consistently will apply it automatically when it matters most.
-
-## Percent Word Problems: The Most Frequent Specialized Template
-
-Percent word problems appear on every Digital SAT administration and deserve specific attention within the broader word problem framework. The three basic percent relationships are:
-
-Part = percent times whole. ("What is 30% of 80?" = 0.30 times 80 = 24.)
-
-Percent = part / whole times 100. ("24 is what percent of 80?" = (24/80) times 100 = 30%.)
-
-Whole = part / percent. ("24 is 30% of what number?" = 24 / 0.30 = 80.)
-
-The percent change formula: percent change = (new minus original) / original times 100%.
-
-The multiplier approach: a 20% increase means multiplication by 1.20. A 15% decrease means multiplication by 0.85. This approach is faster than calculating the change and adding it separately, especially for multi-step percent chains.
-
-Multi-step percent problems: "A jacket originally costs $80. It is marked up 25% and then discounted 20%. What is the final price?" Markup: 80 times 1.25 = 100. Discount: 100 times 0.80 = 80. Final price: $80. (The original price is restored because 1.25 times 0.80 = 1.00.)
-
-The trap in multi-step percent problems: assuming that a 25% increase followed by a 20% decrease returns to the original price. The percentages apply to different bases (the markup applies to $80, the discount applies to $100), so they do not cancel.
-
-The [SAT Math percent change guide](/1997/08/07/sat-math-percent-change-markup-discount/) covers the complete percent template in extended depth, including commission, tax, and compound percent calculations.
-
-## Direct and Inverse Variation Word Problems
-
-Variation problems are a subset of word problems that describe proportional relationships between variables. They appear regularly at medium and hard difficulty levels and require recognizing the variation type from the problem description.
-
-Direct variation: y varies directly as x means y = kx. When x doubles, y doubles. When x triples, y triples. The constant k is found from a given data point.
-
-Example: "y varies directly as x. When x = 4, y = 20. Find y when x = 7." Since y = kx: 20 = 4k, so k = 5. When x = 7: y = 5 times 7 = 35.
-
-Inverse variation: y varies inversely as x means y = k/x, equivalently xy = k. When x doubles, y halves.
-
-Example: "y varies inversely as x. When x = 3, y = 12. Find y when x = 9." Since xy = k: 3 times 12 = 36 = k. When x = 9: y = 36/9 = 4.
-
-Joint variation: z varies jointly as x and y means z = kxy.
-
-Example: "z varies jointly as x and y. When x = 2 and y = 3, z = 24. Find z when x = 4 and y = 5." Since z = kxy: 24 = k(2)(3) = 6k, so k = 4. When x = 4 and y = 5: z = 4(4)(5) = 80.
-
-The Digital SAT tests variation problems by describing the type in English ("varies directly," "varies inversely," "is proportional to," "is inversely proportional to") and asking for the value of one variable given another. The fastest approach: identify the variation type, find k from the given data point, then use k to find the requested value.
-
-## The Systematic Approach to Multi-Step Word Problems
-
-Multi-step word problems are the hardest type on the Digital SAT because they require translating multiple relationships, solving a system or multi-equation sequence, and then performing additional steps on the result before reporting the final answer. The systematic approach:
-
-Step one: draw a diagram or make a table if the problem involves multiple quantities that change over time or multiple groups with different properties.
-
-Step two: identify all the given quantities (numbers explicitly stated in the problem) and all the unknown quantities (what the problem asks you to find or what you need as intermediate results).
-
-Step three: write a let-statement for each unknown.
-
-Step four: identify how many equations you need (one per unknown, for a determinate system).
-
-Step five: find one relationship per equation in the problem text and translate each into algebra.
-
-Step six: solve the system.
-
-Step seven: re-read the question, perform any final steps, and report the answer with units.
-
-For a problem with three unknowns (rare on the SAT), three independent relationships must be identified and translated. For a problem with one unknown but requiring two sequential calculations (common in percent or rate problems), identify the intermediate result as a separate quantity with its own let-statement.
-
-The table approach for multi-step problems: create a table with columns for each variable (rate, time, distance in DRT problems; quantity, price, total in cost problems; concentration, volume, amount in mixture problems) and rows for each entity (Worker A, Worker B, Combined in rate-work). Fill in the known values and write the unknown as a variable. The equation comes from the relationship between the filled columns.
-
-## Practical Application: Timed Practice Protocol
-
-For students preparing to improve word problem performance specifically, the following timed practice protocol produces the fastest skill improvement:
-
-Phase one (minutes 1-2): read the problem. Write let-statements. Circle the question. Identify the template.
-
-Phase two (minutes 2-5): write and solve the equation(s).
-
-Phase three (minute 5-6): compare the let-statement to the circled question. Compute any additional steps. Label the final answer with units. Do a quick reasonableness check.
-
-The time budget for a medium-difficulty word problem is 2 to 3 minutes. For a hard multi-step word problem, 3 to 4 minutes. Students who find themselves spending more than 4 minutes on a single word problem are likely spending too long on the setup (translation) rather than the solving, which suggests focusing additional practice on the translation dictionary and template recognition rather than algebraic solving speed.
-
-A useful drill: take ten word problems and practice ONLY the translation step (steps one and three of the timed protocol). Write the let-statements and equations without solving them. This isolated translation practice is faster than full problem practice and directly builds the most impactful skill in word problem accuracy.
-
-## Why Translation Errors Are Different From Algebra Errors
-
-A student who makes an algebra error (arithmetic mistake during equation solving) can detect and correct it by checking the solution. A student who makes a translation error (incorrect equation setup) often cannot detect it from the algebra alone, because the algebra may be internally consistent with a wrong equation.
-
-For example: "5 less than three times x is 22" correctly translates to 3x minus 5 = 22, giving x = 9. If incorrectly translated as 5 minus 3x = 22, the student gets 3x = minus 17, x = minus 17/3. This fractional, negative answer might alert the student to an error, but not always, since some SAT answers are negative fractions.
-
-The only reliable detection method for translation errors is to substitute the answer back into the original English problem and verify that the stated conditions are satisfied. "5 less than three times minus 17/3 is 22" becomes "5 less than minus 17 is 22," which is "minus 17 minus 5 = 22," which is "minus 22 = 22," clearly false. This verification catches the translation error immediately.
-
-The verification step takes 20 to 30 seconds and is specifically valuable for "5 less than" and "older than twice" problems where the translation trap is most likely to produce a wrong equation. Students who verify by substituting into the English problem (not just into their equation, which they may have set up wrong) catch translation errors that algebra checking cannot detect.
-
-## Score Range Strategy for Word Problem Translation
-
-For students targeting 550-620, the priority is the translation dictionary (especially "less than" reversal and "of" as multiplication) and the let-statement habit. These two tools alone resolve the majority of word problem errors at easy-to-medium difficulty. The total cost template should also be mastered as the highest-frequency specific template.
-
-For students targeting 620-700, add the rate-work template (product-over-sum for two workers), the toward-each-other DRT setup, and the answer-the-right-question system. These address the question types that appear at medium difficulty and where the most student errors cluster.
-
-For students targeting 700-760, add mixture problems, age problems with two conditions, round-trip average speed, and direct/inverse variation. These appear at hard difficulty and require precise translation of multi-sentence relationships.
-
-For students targeting 760-800, add multi-step combinations (percent plus rate, mixture plus system), the systematic multi-unknown setup protocol, and the verification habit for translation-sensitive problem types. Complete preparation across all templates produces the reliability needed at the top of the score range.
-
-## Pre-Test Checklist: Word Problem Readiness
-
-Before the Digital SAT, confirm automatic fluency with the following:
-
-Translate "7 less than twice a number" to 2n minus 7 (not 7 minus 2n).
-
-Write a let-statement before setting up any equation.
-
-Apply the total cost template: total = unit price times quantity + fixed cost.
-
-Apply the rate-work template: time together = ab/(a + b) for workers taking a and b hours alone.
-
-Apply the toward-each-other DRT template: time to meet = total distance / (sum of speeds).
-
-Apply the mixture template: concentration1 times volume1 + concentration2 times volume2 = target concentration times total volume.
-
-Circle the final question and compare to the let-statement before reporting.
-
-Verify the answer in the original English problem for translation-sensitive problems.
-
-These eight habits and templates cover the complete word problem preparation toolkit. Students who can execute all eight automatically on test day will find word problems to be the most predictable and reliably solvable questions in the entire Digital SAT Math section.
-
-## Real-World Context Types and How to Decode Them Quickly
-
-The College Board uses a consistent set of real-world contexts for word problems. Each context carries with it a predictable set of variables and relationships. Recognizing the context immediately triggers the appropriate template.
-
-TICKET SALES AND EVENT REVENUE: two types of tickets at different prices, total tickets sold and total revenue given. Always a two-equation system. Variables: number of adult tickets (a) and number of child/student tickets (c). Equations: a + c = total tickets, price_a times a + price_c times c = total revenue.
-
-SUBSCRIPTION AND MEMBERSHIP SERVICES: fixed monthly or annual fee plus per-use variable cost. Always a total cost template. Variables: number of uses. Equation: variable rate times uses + fixed fee = total cost.
-
-MANUFACTURING AND PRODUCTION: items produced per hour at different rates, combined production rate, or shift-completion rate. Always a rate-work template applied to production quantity rather than task completion. Variables: production rate or time. Equation: rate times time = quantity.
-
-TRANSPORTATION AND TRAVEL: speed, distance, time. Always DRT. Variables depend on what is missing. Key distinctions: same direction (difference of rates), opposite directions (sum of rates), round trip (apply formula separately for each leg).
-
-SCIENCE AND CHEMISTRY: concentrations of solutions, mixing of different concentrations. Always mixture template. Variables: volumes of each solution. Key: the amount of solute (acid, salt, alcohol) is conserved when mixing.
-
-BUSINESS CONTEXTS: cost, revenue, profit. Revenue = price times quantity. Profit = revenue minus cost. Break-even is where profit = 0 or revenue = cost. Variables: quantity produced or sold.
-
-POPULATION AND DEMOGRAPHICS: age distributions, group compositions, ratios. Often age problems or proportion problems. Variables: current ages or group counts.
-
-GEOMETRY IN CONTEXT: perimeter, area, or volume expressed as a word problem. Variables: side lengths or dimensions. Template depends on the geometric formula.
-
-Recognizing which of these eight contexts applies within the first sentence of reading the problem allows you to prepare the template mentally before you have finished reading the full problem. When you encounter "a store sells adult tickets for $12 and child tickets for $7," you immediately know this is a two-equation ticket system and begin setting up let-statements before reading the specific numbers.
-
-## The Table Method for Complex Word Problem Setup
-
-For word problems with three or more quantities that interact in multiple ways, a table is more reliable than mental organization. The table method:
-
-Step one: draw a table with the relevant categories as column headers (rate, time, distance for DRT; concentration, volume, amount for mixture; price, quantity, total for cost).
-
-Step two: create one row for each entity in the problem (each traveler, each solution, each type of ticket).
-
-Step three: fill in the known values in the appropriate cells. Write the unknown as a variable (with a subscript if there are multiple unknowns).
-
-Step four: use the relationship between the columns to write an equation for each row where an unknown appears (for DRT: distance = rate times time; for mixture: amount = concentration times volume; for cost: total = price times quantity).
-
-Step five: use the constraint on the final column or the total row to write the overall constraint equation.
-
-For a standard two-traveler DRT problem:
-
-        Rate    Time    Distance
-Car A    55      t       55t
-Car B    45      t       45t
-Total    --      --      300
-
-Constraint: 55t + 45t = 300. (They are traveling in opposite directions, so their distances add to 300 miles.)
-100t = 300. t = 3 hours.
-
-The table organizes all the information and makes the equation obvious from the structure. For harder problems with unequal times or changing rates, the table prevents the variable confusion that comes from trying to track all the quantities mentally.
-
-## Avoiding the "Solve for x vs Answer the Question" Trap: Three Levels of Prevention
-
-The answer-the-right-question error has three levels of prevention, from the simplest to the most comprehensive:
-
-Level one (basic): re-read the question after solving. This catches the most obvious errors but relies on the student remembering to do it.
-
-Level two (systematic): write the let-statement explicitly and circle the question before solving. This creates a physical reminder of both what you are solving for and what you need to answer.
-
-Level three (comprehensive): write both the let-statement AND the target expression. For example: "Let x = Juan's current age. The question asks for x + 5 (his age in 5 years)." After solving for x, the target expression x + 5 reminds you to compute the final answer. This is the most reliable because it pre-computes the answer format before solving.
-
-Level three requires one additional sentence of writing but prevents every variant of the wrong-question error, including the cases where the student solves correctly for x, re-reads the question, sees "what is Juan's age in 5 years," and then adds 5 correctly, compared to cases where the student forgets what "in 5 years" means. Pre-writing "x + 5" in the let-statement section makes the final computation automatic.
-
-## Common Word Problem Formats That Confuse Students
-
-Several word problem formats consistently confuse students not because of translation difficulty but because of structural unfamiliarity. Knowing these specific formats removes the confusion.
-
-Format: "Which of the following is equivalent to [expression]?" This is NOT asking you to evaluate the expression at a specific value. It is asking for an algebraically equivalent form. Translate the given expression into simplified or factored form, then match to the answer choices.
-
-Format: "For what value of x does the equation have infinitely many solutions?" Translate this as: find the value that makes the equation have all real numbers as solutions (both sides simplify to the same expression). Set up the equation and apply the infinite solutions condition.
-
-Format: "What is the value of [expression] in terms of [other variable]?" You will not get a numerical answer. Express the target expression using only the other variable. If the problem has multiple variables, use the given relationship to eliminate all but the one specified.
-
-Format: "Which of the following could be the value of x?" The answer is the one that satisfies the given equation or inequality, not necessarily the unique solution. For inequalities, multiple answer choices may work; read carefully for "which is a possible value" vs "which is the value."
-
-Format: "If f(x) = [expression], what is f(2k + 1) in terms of k?" This is a function evaluation word problem. Substitute 2k + 1 for x in the function and simplify.
-
-Recognizing these five non-standard formats prevents the confusion that comes from trying to apply a standard template when the question structure is different.
-
-## The Verification Habit: A Critical Final Step
-
-Verification is the most commonly skipped step in word problem solving because students feel confident after finding a clean numerical answer. On the Digital SAT, skipping verification is a significant risk because the most common wrong answer on word problems is a plausible-looking number that results from one of the common traps (wrong direction for "less than," wrong-question reporting, or wrong equation setup).
-
-The verification procedure: substitute the found answer back into the original English problem and confirm that every stated condition is satisfied.
-
-For the age problem (Alex is twice Ben's age, and eight years ago Alex was three times Ben's age, giving Alex = 32 and Ben = 16): verify "Alex is twice Ben's age": 32 = 2 times 16. Yes. Verify "eight years ago, Alex was three times Ben's age": 24 = 3 times 8. Yes. Verification passes.
-
-For the mixture problem (15 gallons of water added to 10 gallons of 25% acid to get 30 liters of 10% acid): verify "concentration of final mixture": 2.5 liters of acid in 25 liters total = 10%. Yes. Verification passes.
-
-The verification step takes 20 to 30 seconds and should be skipped only when time pressure is severe (less than 30 seconds remaining). In all other cases, verification is the best investment available at the end of a word problem because it catches errors that cannot be detected by internal algebra checking alone.
-
-## The Connection Between Word Problem Translation and Test Timing
-
-Word problems take more time than pure-algebra questions because they require two sequential processes: translation and solving. Students who struggle with translation spend too long on the first process, leaving insufficient time for the second, or they rush the translation and make errors that longer solving cannot correct.
-
-The most efficient time allocation for word problems: spend 20 to 30 percent of your total time on the problem on translation and setup, and 60 to 70 percent on solving. The remaining 10 percent is for the answer-check and question-matching step. For a 3-minute word problem budget: 45 seconds translation, 90 seconds solving, 30 seconds verification.
-
-Students who currently struggle with word problem timing almost always have the problem in the translation phase, not the solving phase. If you regularly run out of time or get confused about setup, invest more practice time in isolated translation exercises (write equations for problems without solving them). If you make algebra errors under time pressure, invest more practice time in timed solving exercises with correctly pre-set equations.
-
-## Final Summary: The Complete Word Problem System
-
-The complete word problem system has five elements:
-
-Element one: the translation dictionary. Know the key conversions: is = equals, of = multiply, less than = subtraction WITH reversal, times as many = multiply, at least = greater than or equal to. These five are the ones that produce the most errors.
-
-Element two: the let-statement. Define every variable explicitly before writing any equation. Include units.
-
-Element three: the six templates. Recognize total cost, rate-work, distance-rate-time, age, mixture, and percent problems by their structural features and apply the appropriate setup.
-
-Element four: the answer-the-right-question system. Compare what you solved for to what was asked. Perform any additional computation steps.
-
-Element five: verification. Substitute the answer into the original English conditions and confirm.
-
-These five elements work together as a system. Using any four without the fifth leaves a gap that the College Board exploits through its most carefully crafted wrong answer choices. Students who implement all five consistently will find that word problems are among the most predictable and reliably correct questions on the entire Digital SAT Math section.
-
-The broader impact of word problem mastery: because approximately sixty to seventy percent of all Digital SAT Math questions are word problems, improving translation accuracy improves performance across virtually every topic domain. A student who masters word problem translation in isolation will see score improvements that cross topic boundaries, because the translation skill unlocks algebraic ability that already exists but has been blocked by setup errors. No other single preparation investment produces such a broad cross-topic return.
-
-## Deepening the Translation Skills: Practice Structure and Progression
-
-The most effective practice structure for word problem translation follows a progression from isolated skills to integrated application.
-
-Stage one: isolated translation practice. Take ten word problems and translate ONLY the verbal relationships into algebraic equations, without solving. Write let-statements and equations for each problem, then compare to the correct equations. This isolates the translation skill and builds accuracy without the confounding variable of algebraic difficulty.
-
-Stage two: template identification practice. Take twenty word problems and identify ONLY which template applies (total cost, rate-work, DRT, age, mixture, percent, or none of the above), without translating or solving. This builds the rapid pattern recognition that routes thinking to the correct setup in under five seconds on test day.
-
-Stage three: full problem practice with let-statements and question verification. Take ten word problems and complete the full seven-step process: let-statement, template identification, translation, equation setup, solving, question verification, and answer with units. Time each problem and aim for the target time allocation (45 seconds translation, 90 seconds solving, 30 seconds verification for medium problems).
-
-Stage four: timed mixed practice. Take a set of twenty mixed problems across all templates under timed conditions (1 to 3 minutes per problem based on difficulty). This integrates all the skills under realistic test conditions.
-
-This four-stage practice progression can be completed in four to six focused study sessions and produces the automatic fluency needed for reliable performance on test day.
-
-## The Connection Between Word Problems and the Adaptive Test Structure
-
-The Digital SAT's adaptive structure means that the word problems in Module 2 are systematically harder than those in Module 1, but harder in a specific way: they require more steps and more precise setup, not fundamentally different skills. The same translation dictionary, the same templates, and the same habits apply across both modules. The difference is that Module 2 problems often have more conditions to track, more potential for the answer-the-right-question error, and more nuanced translation (where "fewer than" must be carefully distinguished from "fewer than or equal to," for example).
-
-Students who perform well on Module 1 word problems (correct setup and solving) and are routed to the harder Module 2 will benefit most from the multi-step problem framework in this guide. The table method, the three levels of answer-the-right-question prevention, and the systematic approach to multi-step problems are specifically valuable for Module 2 difficulty.
-
-Students routed to the easier Module 2 will encounter word problems at roughly the same difficulty as Module 1, and the core translation dictionary plus let-statement habit will handle the majority of problems they face.
-
-## Why Word Problem Translation Is a Learnable Skill, Not a Talent
-
-One of the most common misunderstandings about word problems is that some students are "just good at them" due to innate ability, while others are not. The research on mathematical language learning consistently shows that word problem translation is a skill: it is learned, not innate, and it improves reliably with deliberate practice.
-
-The specific skills that improve with practice are: the translation dictionary (memorizable), the let-statement habit (trainable), the template recognition (recognizable after exposure to enough examples), and the answer-the-right-question habit (a simple discipline that becomes automatic with consistent application). None of these requires mathematical talent in the sense of abstract reasoning ability. They require deliberate study of specific linguistic patterns and algebraic templates.
-
-The implication for preparation: students who believe they are "bad at word problems" can specifically improve this skill through the practice structure described in this guide. The improvement is reliable and measurable, typically visible within two to three practice sessions as translation accuracy increases and wrong-question errors decrease.
-
-Word problems are not harder than pure-algebra questions for students who have mastered translation. For these students, word problems are actually more structured and predictable than abstract algebra questions, because they always have the same three-part structure (setup, conditions, question) and can be classified into one of a small number of templates. The apparent difficulty of word problems for unprepared students is almost entirely attributable to the gap between natural English reading and algebraic translation, not to any inherent mathematical complexity.
-
-The transformation that word problem mastery produces is especially visible in timed test conditions. In untimed practice, a student who struggles with word problem translation may eventually figure out the setup through trial and error. Under 2 to 3-minute per-question time pressure, this trial-and-error approach breaks down completely, while a student who has automatic template recognition and precise translation habits maintains the same accuracy rate as in untimed practice. The habits are specifically designed for timed performance, and their value is most fully realized on test day rather than during leisurely practice.
-
-For any student who wants a single most impactful change to make in SAT Math preparation, the answer is clear: adopt the let-statement habit, learn the translation dictionary cold, and practice the answer-the-right-question system until it is automatic. These three changes, each requiring under one hour to learn and a few sessions to automatize, will produce the broadest and most reliable score improvement available from any single area of focused preparation in the Digital SAT Math section.
-
-## Worked Examples Revisited: Strategic Analysis
-
-Reviewing the twelve worked examples from a strategic rather than mechanical perspective reveals the underlying patterns that predict correct setup on any novel word problem.
-
-Examples 1 and 7 both involve the "less than" trap. Example 1 demonstrates correct translation; Example 7 demonstrates the trap in a harder context ("5 less than twice the number"). The strategic lesson: whenever "less than" appears in a word problem, PAUSE, identify what is being reduced (the subject of "less than" is the larger quantity) and by how much (the number immediately preceding "less than"), and write [larger quantity] minus [smaller number]. This deliberate pause on "less than" prevents the reversal error.
-
-Example 2 demonstrates the answer-the-right-question error explicitly: finding n = 8 but needing to report 2n = 16. The strategic lesson: the word problem asked for "twice the original number," not "the original number." Circling "twice the original number" before solving and writing "target = 2n" in the let-statement section prevents this specific error.
-
-Examples 3 and 4 together cover the total cost template in one-unknown and two-unknown versions. The strategic lesson: total cost problems with two types of items always require a two-equation system, while problems with one type require only one equation. Identifying whether one or two types of items are involved is the first decision in any total cost problem.
-
-Examples 5 and 12 both involve rate-work, but at different difficulty levels. Example 5 has both workers starting simultaneously; Example 12 has one worker starting alone before the other joins. The strategic lesson: the full rate-fraction approach (fraction done by each worker equals rate times time) handles both cases correctly, while the product-over-sum shortcut only applies when both workers work for the same duration.
-
-Examples 6, 10, and the two-trains extension cover DRT in three configurations. The strategic lesson: identify the configuration (toward each other, same direction, or round trip) and apply the appropriate rate combination (sum of rates, difference of rates, or separate calculations for each leg). The table method organizes the three columns (rate, time, distance) for any configuration.
-
-Examples 8 and 9 (age and mixture) both require precise template application with careful variable definition. The strategic lesson: for age problems, define all current ages as variables and then express past/future ages in terms of those same variables with appropriate additions or subtractions. For mixture problems, always set up the "amount of solute" equation (concentration times volume for each component) and the "total volume" equation separately.
-
-Examples 11 represents the highest-difficulty format: a two-unknown word problem where the final answer requires a product (not just one of the unknowns). The strategic lesson: the let-statement must define both unknowns, both equations must be set up from the given conditions, and after solving, the specific requested quantity (product, sum, difference) must be computed before reporting.
-
-This strategic analysis of the twelve examples reveals that the same four habits (let-statements, template recognition, answer-the-right-question, and verification) underlie every worked solution at every difficulty level. The habits do not change; only the complexity of the context increases.
-
----
+Now make it a habit rather than a fact. Build setups until the four moves run without conscious effort, drilling translations from a varied set of prompts and checking each one against a worked solution so the decoding becomes reflex; a steady stream of [section-targeted SAT math practice with immediate answer feedback](https://reportmedic.org/tools/sat-math-practice-questions.html) is the fastest way to convert this reading into rehearsal. The student who writes a "let" statement and re-reads the final question is not relying on talent. They are running a process, and the process turns the section's most common loss into its most reliable gain.
 
 ## Frequently Asked Questions
 
-**Q1: Why is "5 less than x" equal to x minus 5 and not 5 minus x?**
+### How do I translate an SAT word problem into an equation?
 
-The phrase "less than" describes a subtraction FROM the referenced quantity. "5 less than x" means "start with x and subtract 5," which is x minus 5. The 5 is the amount being subtracted; x is the starting point. The correct structure is always [starting quantity] minus [amount subtracted]. This is the opposite order from how English presents it, which is why it is the most common translation error on the SAT. A reliable test: substitute a simple value. If x = 10, then "5 less than 10" should equal 5 (since 5 is indeed 5 less than 10). The expression x minus 5 = 10 minus 5 = 5. Correct. The expression 5 minus x = 5 minus 10 = minus 5. Wrong. This substitution test confirms the correct translation in under 10 seconds.
+Work the prompt in four moves. Read the whole thing once to learn what situation it describes and what it ultimately wants. Write a "let" statement naming every unknown and the target quantity in words. Translate the prompt clause by clause into symbols using a fixed dictionary of operation words, where "is" means equals, "of" means multiply, "per" signals a rate, "more than" adds, and "less than" subtracts with the order reversed. Then solve and re-read the final sentence to confirm you are reporting the exact quantity requested. The decoding, not the algebra, is the skill being graded, so the bulk of your attention belongs in the reading and the naming, not in the arithmetic, which on the digital format the embedded calculator can finish once the equation exists.
 
-**Q2: What is a let-statement and why is it mandatory?**
+### What does "5 less than x" translate to on the SAT?
 
-A let-statement is an explicit English definition of each variable before any equation is written. Format: "Let x = [what x represents, with units]." It is mandatory because it forces you to identify exactly what you are solving for, provides a unit-check mechanism, and allows you to verify after solving that you answered the question asked rather than a related but different quantity. The let-statement is the most impactful single habit in SAT word problem preparation because it directly prevents the most common correct-algebra-wrong-answer error. Without a let-statement, the meaning of x is implicit and can drift between what was intended and what was computed. With a let-statement, the meaning is fixed and verifiable against the question at the end.
+It translates to x minus 5, never 5 minus x. "Less than" subtracts the first-mentioned quantity from the second, so the order of the symbols reverses the order of the words. Read the phrase as an instruction: take the number and remove five from it, which gives x minus 5. The reversal feels unnatural because the ear wants to write symbols in the order it hears them, and the exam writers exploit exactly that instinct by planting the reversed-order wrong answer among the choices. The same reversal governs "fewer than" and comparison clauses built with "than," so any time you see one of those phrases, identify the anchor quantity and subtract from it rather than translating left to right.
 
-**Q3: What is the total cost template and how do I apply it?**
+### Why should I write a "let" statement before solving?
 
-The total cost template is: Total cost = (unit price) times (quantity) + fixed cost. Identify the per-item cost (unit price), the number of items (quantity), and any one-time cost (fixed cost, which may be zero). Write the equation directly from these three components. This template applies to ticket sales, catering, subscriptions, rental fees, and dozens of other common SAT contexts. For two-commodity total cost problems (two different items at different prices), extend to: price1 times quantity1 + price2 times quantity2 = total cost, combined with quantity1 + quantity2 = total items for a two-equation system. Recognizing when the total cost template requires two equations (two unknown quantities) vs one equation (one unknown quantity) is the key distinction in this template.
+Because variables drift silently, and the "let" statement freezes their meaning before the drift can start. When you write a bare variable without saying what it stands for, you risk forgetting three lines later whether it was the original price or the discounted one, the total time or one person's time. The algebra still runs and the arithmetic still resolves, so the error is invisible until you bubble a number that is internally consistent and externally wrong. Naming the unknown in words anchors every later symbol to a real quantity, and naming the target quantity gives you something concrete to re-read against at the end. The habit costs about four seconds and prevents a whole category of mistakes that no amount of algebra skill can recover from.
 
-**Q4: How do I solve a rate-work problem?**
+### What is the total-cost template on the SAT?
 
-Convert each worker's completion time to a rate (rate = 1/time). Add the rates to get the combined rate. Take the reciprocal of the combined rate to find the time to complete the task together. For Worker A completing a task in a hours and Worker B in b hours: combined time = ab/(a + b). The "product over sum" formula (ab/(a+b)) is a direct consequence of the rate-addition approach and can be memorized as a shortcut for standard two-worker problems. For problems where a third entity drains or subtracts from the task, subtract its rate instead of adding, then take the reciprocal of the net rate.
+It is the structure total equals unit price times quantity plus fixed cost, and it covers an enormous family of prompts about phone plans, rentals, memberships, labor charges, and commissions. The fixed cost is the part that does not change with quantity, such as a flat visit fee or a base salary. The unit price is the part that scales, such as a per-hour rate or a per-item charge. Once you identify which number is fixed and which scales, the equation assembles itself. A plumber charging seventy-five dollars plus ninety per hour for a three hundred forty-five dollar job gives 345 equals 90h plus 75, which solves to three hours. Learning the template by its skeleton rather than its cover story lets you recognize it inside unfamiliar contexts.
 
-**Q5: What is the formula for distance-rate-time problems?**
+### How do I solve a combined work-rate problem?
 
-d = rt (distance equals rate times time). The three derived forms: r = d/t and t = d/r. For two-traveler problems, use: toward each other - combined rate is the sum of individual rates; away from each other - same; same direction - difference of rates gives the closing or opening rate. A common harder DRT format: two objects travel the same distance but at different speeds and different times. For example, "if a fast train takes 3 hours to cover the same distance that a slow train covers in 5 hours, find the ratio of their speeds." Since distance is equal for both: r_fast times 3 = r_slow times 5, so r_fast/r_slow = 5/3. This ratio approach bypasses the need to find the actual speeds when only the ratio is asked.
+Convert each worker into a per-hour fraction of the job, add those fractions to get the combined rate, then take the reciprocal of the combined rate to get the combined time. A pipe that fills a tank in six hours fills one-sixth per hour; a pipe that fills it in four hours fills one-quarter per hour. Together they fill one-sixth plus one-quarter, which is five-twelfths per hour, so the whole tank takes twelve-fifths of an hour, or two hours and twenty-four minutes. Never average the times; averaging six and four to get five is the classic wrong move, and it produces an impossible answer, since two workers together must finish faster than the faster one alone. If your combined time comes out slower than the quickest single worker, the method was wrong.
 
-**Q6: What is the biggest mistake in average speed calculations?**
+### How do I set up a distance-rate-time problem?
 
-The average speed for a round trip is NOT the simple average of the two speeds. It is total distance divided by total time. For a trip covering distance d at speed r1 and returning at speed r2: average speed = 2r1r2 / (r1 + r2). The simple arithmetic average (r1 + r2)/2 is wrong unless the times spent at each speed are equal. The formula 2r1r2/(r1 + r2) is the harmonic mean of r1 and r2. Memorizing this formula allows instant resolution of round-trip average speed questions without the full total-distance/total-time calculation. The harmonic mean is always less than the arithmetic mean when r1 is not equal to r2, which explains why the intuitive "average the speeds" answer is always too high.
+Write d equals rt, where d is distance, r is rate, and t is time, then slot in the two quantities the prompt gives and solve for the third. Before substituting, re-read to confirm which leg of the journey the question is about, because many prompts include a rate or a time that belongs to a different leg and serves only as a distractor. Watch your units: a rate in miles per hour paired with a time in minutes needs a conversion first, or the answer will be off by a factor of sixty. When two objects move, decide the geometry before choosing an operation; moving apart or toward each other adds the speeds, while one chasing another in the same direction uses the difference of the speeds.
 
-**Q7: How do I set up an age problem?**
+### How do I avoid answering the wrong question on SAT math?
 
-Define variables for current ages using let-statements. Write the current-age relationship from the first condition. Write the future or past age equation by adding or subtracting the time shift from each person's current variable. Solve the system of two equations. A key insight: the age difference between two people is constant over time. If Alex is 8 years older than Ben now, Alex will always be 8 years older than Ben, whether looking at past or future ages. This means if the age difference is given, you can immediately write one equation (A = B + 8 or A minus B = 8) and focus on finding the second equation from the other condition. The constant-difference insight can eliminate one variable algebraically and simplify the setup.
+Name the target quantity in words in your "let" statement, and after you solve, re-read the final sentence and match what you found against what was asked before you bubble. The wrong-question trap is the single most common avoidable loss on the quantitative side, and it strikes strong students most, because confidence breeds speed and speed skips the confirmation step. A prompt may give 3x minus 7 equals 11 and ask for 3x plus 2; the value x equals 6 sits among the choices as bait, but the answer is 20. Treat the final re-read as part of solving, not as optional polish, and the trap loses its power entirely, because the cure is free and takes only a second.
 
-**Q8: What is the key equation for a mixture problem?**
+### How do I translate "older than twice someone's age"?
 
-Amount of substance in solution 1 plus amount of substance in solution 2 equals amount of substance in final solution. Each "amount" = concentration times volume. The total volume of the final mixture equals the sum of the individual volumes. A special case: when water is added to a solution, water has zero concentration of the solute, so the amount of substance equation simplifies to concentration1 times volume1 = target concentration times (volume1 + water added). The solute amount on the left side is unchanged because water contributes no solute; only the total volume changes. This simplification makes water-addition mixture problems faster to set up than two-solution mixture problems.
+Start from the quantity being doubled and add the difference to it. "Maria is five years older than twice Juan's age" means you take twice Juan's age, which is 2J, and add five, giving M equals 2J plus 5. It does not become 5 plus 2 with the variable dropped, and it does not reverse into 5 minus 2J. The phrase "older than" works like "more than": it adds to an anchor, and the anchor here is the doubled quantity, not Juan's plain age. Whenever a comparison stacks an operation (twice, triple, half of) underneath a "more than" or "older than," build the inner operation first, then apply the comparison on top of it. Reading the clause inside out keeps the order correct.
 
-**Q9: How do I avoid answering the wrong question on a word problem?**
+### How do I set up a system of equations from a word problem?
 
-Use the four-step system: write a let-statement defining your variable, circle the final question, compare what you found to what was circled after solving, and perform any additional steps to transform your answer to the quantity asked. The question is almost always about an expression involving x, not x itself. The most powerful enhancement to this system: before solving, write the target expression alongside your let-statement. If the question asks "what is 3x + 2?" and your let-statement says "let x = the number," also write "target = 3x + 2" at the top of your work. After finding x, substituting into the pre-written target expression is automatic and takes under 5 seconds.
+Use a system when the prompt gives two genuinely independent facts about two unknowns that cannot be written cleanly in terms of each other. Assign one variable per unknown in the "let" statement, then write one equation for each fact. A theater selling ninety total tickets and collecting eight hundred ten dollars at twelve dollars for adults and six for children gives a plus c equals 90 and 12a plus 6c equals 810. Solve one equation for a variable and substitute into the other to collapse the pair into a single line. If instead one unknown is described in terms of the other, skip the second variable and express everything through the first, which turns the system into a single equation and saves a step.
 
-**Q10: What does "at least" translate to in an inequality?**
+### What does "per" mean when translating a word problem?
 
-"At least" means greater than or equal to. "At most" means less than or equal to. "More than" in comparison context means strictly greater than. "Less than" in comparison context means strictly less than. "No more than" means less than or equal to. "No fewer than" means greater than or equal to. A memory device: "at least" and "at most" include the boundary value (the "at" part), so they use the equal-to case. "More than" and "fewer than" exclude the boundary (the "more" and "fewer" parts indicate strictly beyond), so they use strict inequalities. This device correctly translates all six inequality phrases from their everyday English meanings.
+"Per" signals a rate, which is a division. "Sixty miles per hour" is sixty miles divided by one hour, "twelve dollars per shirt" is a price ratio, and "thirty students per class" shares students across classes. When you see "per," "for each," or "for every," write the ratio before doing anything else, then look for where that rate gets multiplied by a quantity later in the prompt. A rate almost never appears alone; it is the variable piece in a total-cost template or the r in distance equals rate times time. Spotting the slash hidden inside the word is what lets you build the correct product, and keeping the units attached to the rate guards against the mismatched-units error that quietly sinks rate problems.
 
-**Q11: What does "of" typically signal in a math word problem?**
+### How do I handle a mixture or concentration problem?
 
-"Of" typically signals multiplication, especially when preceded by a fraction or percent. "Two-thirds of the students" means (2/3) times number of students. "40% of the original price" means 0.40 times original price. In plain English, "of" connects a fraction or proportion to the whole quantity it applies to. A contextual exception: "the cost of 5 items" does not signal multiplication by 5 directly; it refers to the total cost (unit price times 5). The signal word "of" before a specific quantity (fraction, percent) reliably means multiplication; "of" in a possessive or descriptive context ("the cost of") is just English grammar and does not signal a mathematical operation. Additional uses of "of" that mean multiplication: "a factor of" (multiplied by that factor), "double of" (multiply by 2), "half of" (multiply by 0.5 or divide by 2). In all of these, "of" introduces the quantity to which the multiplication is applied.
+Track the single ingredient of interest, not the whole solution, and write an equation that balances that ingredient before and after mixing. If a chemist starts with thirty liters of a twenty percent acid solution, the acid present is 0.20 times 30, or six liters. Adding x liters of pure acid contributes x liters of acid and x liters of volume, so afterward the acid is 6 plus x and the total volume is 30 plus x. Setting the new concentration to fifty percent gives 6 plus x equals 0.50 times (30 plus x), which solves to x equals 18. The key discipline is following the ingredient through the balance rather than the solution as a whole, and remembering that a pure additive contributes its full volume to both the ingredient total and the overall total.
 
-**Q12: How do I handle a word problem with two unknowns?**
+### Why do word problems make up so much of the SAT math section?
 
-Write a let-statement for each unknown. Identify two independent relationships between the unknowns from the problem text. Each relationship gives one equation, producing a two-equation system. Solve the system by substitution or elimination. Verify that both values satisfy both original equations before reporting the answer. The most reliable approach: read the problem and identify which sentence gives the quantity relationship (x + y = total) and which gives the value or rate relationship (price_x times x + price_y times y = total value). These two sentence types almost always appear together in two-unknown word problems and always produce the two equations needed.
+Because the exam is testing comprehension under a symbolic constraint, not raw computation. Solving a printed equation is a mechanical act that a calculator or a memorized routine can finish, so the writers bury that mechanical step inside a situation and grade whether you can extract the relationship. Delivering the content as language also separates readers quickly, which the adaptive format relies on to route you into a higher or lower second module. The result is that the majority of the section arrives as paragraphs, and a faster, more accurate decoder gains points across every topic at once rather than in one isolated area. That breadth of payoff is why translation is the most transferable skill on the quantitative side.
 
-**Q13: What does "proportional to" mean algebraically?**
+### How do I solve a two-trains distance problem?
 
-"y is proportional to x" means y = kx for some constant k (the constant of proportionality). "y is inversely proportional to x" means y = k/x, equivalently xy = k. For "proportional to" problems, find k from a given data point, then use it to answer the question. The fastest approach for proportional-to problems: since y = kx means y/x = k (constant), the ratio y/x is the same for all data points. So if (x1, y1) and (x2, y2) are two points on the relationship, y1/x1 = y2/x2. This proportion can be solved for the unknown without explicitly finding k. For inversely proportional, x1 times y1 = x2 times y2 (constant product), which similarly avoids finding k. The Digital SAT most commonly tests direct and inverse variation in a two-step format: first, use one given data point to establish the relationship (find k), then use the relationship to find a missing value from a second data point. The proportion approach (without finding k) compresses these two steps into one and reduces the arithmetic required.
+Decide the geometry first, then build a single rate for the gap between the objects. Two trains leaving the same station in opposite directions separate at the sum of their speeds, so sixty and eighty miles per hour combine to a one hundred forty mile per hour separation rate. The growing gap is then that combined rate times time: 140t equals 350 gives t equals 2.5 hours. If the trains were moving toward each other, the closing rate would also be the sum; if one were chasing the other in the same direction, the gap would change at the difference of the speeds. Once you have the correct combined rate, the problem reduces to distance equals rate times time applied to the gap rather than to either object alone.
 
-**Q14: What is the rate-work formula for two workers with specific completion times?**
+### What does "times as much" mean in an SAT word problem?
 
-If Worker A takes a units of time and Worker B takes b units of time working alone, their combined rate is 1/a + 1/b = (a + b)/(ab). The time together is ab/(a + b). Memorize this as "product over sum" for two-worker problems. The product over sum formula only applies when both workers start and finish the task simultaneously. For problems where workers start at different times or one works for only part of the time, use the full rate setup: multiply each rate by the time each worker actually works, and set the sum equal to 1 (one complete task). A common harder variant: "If Worker A alone would take 12 hours and Worker B alone would take 8 hours, and Worker A starts alone for 3 hours before Worker B joins, how many more hours until they finish together?" Work done in first 3 hours: 3/12 = 1/4. Remaining: 3/4. Combined rate: 1/12 + 1/8 = 5/24. Time to finish remaining 3/4: (3/4)/(5/24) = (3/4)(24/5) = 18/5 = 3.6 more hours. Setting this up requires the full fraction-of-work approach rather than the product-over-sum shortcut.
+"Times as much," "times as many," "twice," "double," and "triple" all signal multiplication by the stated factor. "Three times as much as y" is 3y, and "twice the smaller number" is 2 times the smaller number. These phrases often sit underneath a comparison, as in "five more than twice a number," where you build the multiplication first to get 2n and then add five for 2n plus 5. The order matters: resolve the multiplying phrase before applying any addition or subtraction stacked on top of it, reading the clause from the inside out. Treating "times as much" as a clean multiply, and keeping it separate from any "more than" or "less than" wrapped around it, prevents the most common compound-phrase errors.
 
-**Q15: How do I check a word problem answer for reasonableness?**
+### What is the single most expensive word-problem mistake on the SAT?
 
-After finding the answer, ask three questions: Does it have the right sign (negative time or negative prices usually indicate an error)? Does it have a plausible magnitude (a price of $10,000 for a pencil is suspicious)? Does it satisfy the original conditions when substituted back in? Plugging the answer back into the original word problem conditions and confirming they are satisfied is the definitive check. For time pressured situations where full verification is not possible, at minimum check that the answer has the correct sign and order of magnitude. These two quick checks catch the most egregious errors (solving the equation for the wrong sign or making an arithmetic mistake that changes the scale of the answer) in under 5 seconds. When verification reveals an error, the most common cause is either the "less than" translation trap or a wrong-question error. Check the translation of any "less than" phrases first, then re-read the question to confirm you answered what was asked. In most cases, one of these two diagnoses identifies the source of the wrong answer within 30 seconds.
+Solving correctly and then answering the wrong question. It is expensive precisely because the math is easy; the loss comes entirely from the final reading. A prompt asks for 3x plus 2 while planting x equals 6 among the choices, and a hurried solver who isolates x bubbles the bait. Strong students fall for it most, because their speed skips the confirmation step that slower students are forced to take. The defense is built into the four-move procedure: name the target quantity in the "let" statement, solve, then re-read the final sentence and confirm you are reporting exactly what was requested. The fix costs a single second and recovers more points than any additional topic study, which is why every part of a translation routine should funnel toward that closing re-read.
 
-**Q16: What is the "older/younger" trap in age problems?**
+### How do I set up a consecutive-integer problem?
 
-The phrase "Maria is 5 years older than twice Juan's age" is sometimes mistranslated as M + 5 = 2J (wrong). The correct translation is M = 2J + 5. "Older than" means addition to the comparison quantity. Maria's age is 2J (twice Juan's) plus 5 more. Always identify which person's age is being described (the subject) and what relationship holds (2J + 5), and write the equation as subject = relationship. A reliable test: substitute simple numbers. If Juan is 10 years old, Maria should be 2(10) + 5 = 25 years old. Check M = 2J + 5: 25 = 2(10) + 5 = 25. Correct. Check M + 5 = 2J: 25 + 5 = 2(10) gives 30 = 20. Wrong. The substitution test confirms the correct translation in under 10 seconds. More generally, comparative age phrases always follow this structure: [Subject]'s age = [multiplier] times [other person's age] +/- [additional years]. Read the subject and its relationship to the comparison person carefully, placing the comparison person and their multiple on the right side and the additional years as an additive term.
+Anchor the whole run to one variable and a fixed step. Let n be the smallest integer; consecutive integers are then n, n plus 1, n plus 2, and so on, while consecutive even or odd integers step by two, giving n, n plus 2, n plus 4. The most common error is stepping by one for an even or odd run, which produces integers of the wrong parity. Write the sum or the relationship the prompt describes using these expressions, solve for n, and then read carefully which member of the run the question wants. Prompts that ask for the largest while you naturally solve for the smallest are a deliberate trap, since the smallest, middle, and largest values all sit one step apart and all look plausible among the choices.
 
-**Q17: How do I handle word problems that involve percents?**
+### How do I handle "one-half of what remains" in a problem?
 
-Translate "percent" as division by 100 or as a decimal. "What percent of 80 is 24?" translates to (24/80) times 100% = 30%. "A number increased by 20%" translates to the number times 1.20. "A number decreased by 15%" translates to the number times 0.85. Percent-change word problems always involve multiplication by (1 plus rate) for increases and (1 minus rate) for decreases. For reverse percent problems ("after a 20% increase, the price is $60; what was the original price?"), divide by the multiplier: original = 60 / 1.20 = 50. Dividing by the multiplier is the algebraic inverse of multiplying by it, and it resolves every "find the original" percent question in one step. For multi-step percent problems (a price is increased by one percent and then decreased by another), apply each multiplier in sequence: final = original times (1 + r1) times (1 minus r2). The order of operations matters only for identifying which base each percentage applies to, not for the multiplication itself (since multiplication is commutative: 1.20 times 0.80 = 0.80 times 1.20 = 0.96, meaning a 20% increase followed by a 20% decrease produces a 4% net decrease, same as the other order).
+Process the stages in order and update the remaining amount before applying the next fraction, because "of what remains" means a fraction of the current remainder, not of the original. If one-third of an allowance is spent first, two-thirds remain, and a later "one-half of what remains" takes half of that two-thirds, not half of the original. Letting b be the original, after the first stage you have (2/3)b, and after taking half of that you are left with (1/3)b. Setting the final leftover equal to the stated amount solves for the original. The trap is computing the second fraction against the starting value, which double-counts the money already spent and gives an answer that is too large.
 
-**Q18: What should I do when I cannot identify which template a word problem fits?**
+### How do I translate a ratio into an equation?
 
-Re-read the problem and identify: what quantities are given, what quantity is unknown, and what relationship connects them. Write the relationship as a sentence before writing the algebra. If the problem involves one price and one count, try total cost. If it involves two people completing a task, try rate-work. If it involves distance, speed, and time, try DRT. If none of the six templates fit, write the relationship in plain English and then convert it directly to algebra. The most reliable fallback: write a proportional relationship or a direct equivalence in words ("the total number of items equals the number of type A plus the number of type B"), then translate word by word using the translation dictionary. Every word problem, regardless of context, can be resolved by this word-to-symbol approach if the template is not immediately recognizable.
+A ratio is a set of parts of one shared unit, so name that unit as a variable and write each share as a multiple of it. A split in the ratio three to five becomes 3k and 5k for some common part k. The prompt then gives one more fact, often the difference or the total, which pins down k. If the larger share exceeds the smaller by a stated amount, write 5k minus 3k equal to that amount and solve for k, then multiply back to recover each actual share. This shared-multiplier method keeps the proportion intact automatically and avoids the cross-multiplication errors that come from treating the two parts as unrelated unknowns. Once k is known, every share and the total follow by simple multiplication.
 
-**Q19: How does the Digital SAT signal that a word problem requires a system rather than a single equation?**
+### How do I know when a word problem is an inequality?
 
-Two signals indicate a system is needed: two unknown quantities (which must appear in two let-statements), and two independent conditions connecting those quantities (which produce two equations). If you can identify two different things you do not know and two different sentences in the problem that say something different about those things, a system is the correct setup. A useful test: after writing one equation, ask "does this equation have one unknown or two?" If one unknown, it is solvable directly. If two unknowns remain, a second equation from the problem is needed. The most common second condition is either a total-count constraint (the two unknown quantities together add up to a given total) or a total-cost constraint (the value of the two unknown quantities together equals a given total cost).
+Watch for comparison phrases that describe a range rather than a single value. "At least" and "no less than" become greater-than-or-equal; "at most" and "no more than" become less-than-or-equal; "more than" and "exceeds" become strictly greater; "fewer than" and "below" become strictly less. When one of these governs the relationship, write the inequality sign from the start rather than an equals sign. After solving, respect the real-world meaning of the quantity: a count of packages or people must be a whole number, so round to the nearest whole value that still satisfies the inequality rather than reporting a decimal. The phrase "the fewest" or "the most" in the question is your cue to find the boundary whole number on the correct side of the inequality.
 
-**Q20: How many word problems appear on the Digital SAT and what is the most efficient preparation strategy?**
+### Do I always need to convert units in a rate problem?
 
-Approximately sixty to seventy percent of all Digital SAT Math questions are word problems, meaning twenty-two to twenty-six of the approximately thirty-two Math questions require translation. The most efficient preparation strategy: first, memorize the translation dictionary (especially the "less than" reversal), second, practice the let-statement habit until it is automatic, third, learn the six problem templates (total cost, rate-work, DRT, age, mixture, percent), and fourth, practice the answer-the-right-question system. These four elements cover the complete word problem skill set and produce the highest score improvement per study hour of any preparation category in the Digital SAT Math section. A practical study plan: spend one session on translation dictionary practice (ten to fifteen translation-only exercises without solving), one session on let-statement and template recognition, one session on the six templates with five examples each, and one session on mixed problems with full application of the answer-the-right-question system. Four sessions of one hour each constitute complete word problem preparation for the majority of students.
+Only when the units do not already match, but checking is never optional. A rate given in pages per minute paired with a time given in hours will produce an answer off by a factor of sixty unless you convert the hours to minutes first. The safe habit is to write the units beside every number, cancel them as you multiply, and confirm that the unit of your result matches the unit the question asked for. A nonsensical or oddly fractional answer, such as a non-whole count of pages, is often the visible symptom of a units mismatch you can catch and repair before bubbling. Naming the unit inside your "let" statement, "let t be the time in minutes," builds this discipline in at the start where it belongs.
