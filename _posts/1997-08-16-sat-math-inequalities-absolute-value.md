@@ -8,10 +8,10 @@ tags: ["SAT", "SAT Math", "Inequalities", "Absolute Value", "Algebra"]
 excerpt: "SAT inequalities and absolute value explained: the sign-flip rule, AND vs OR, system shading and word-problem translation, with worked examples throughout."
 image: "/assets/images/blog/blog-03.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "patrick-dunn"
 last_updated: 1997-08-16
+lang: en
 ---
-
 A student who knows every algebra rule still loses these points, and almost always to the same three slips. SAT inequalities are not hard in the way a tricky geometry proof is hard. They are hard in the way a slippery floor is hard: the danger is not the distance you have to cross, it is the one careless step that puts you on the ground. Across the algebra content, inequality questions sit among the most frequent items you will face, several appearing on a typical form, and the points they carry are some of the most recoverable on the entire exam. The reason students miss them is mechanical, not conceptual, and that is exactly why a focused hour pays off so handsomely.
 
 ![SAT inequalities and absolute value sign flip AND vs OR systems shading worked examples - Insight Crunch](/assets/images/blog/blog-03.webp)
