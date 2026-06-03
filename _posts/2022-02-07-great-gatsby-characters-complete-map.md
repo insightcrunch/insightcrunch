@@ -6,17 +6,17 @@ date: 2022-02-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Character Analysis", "Jay Gatsby", "F. Scott Fitzgerald", "Close Reading", "American Literature"]
 excerpt: "The Great Gatsby characters form two linked triangles, not a flat roster. Map every figure, their ties, and the single job each one does in the novel."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "emily-reed"
 last_updated: 2022-02-07
+lang: en
 ---
-
 Most readers meet the Great Gatsby characters as a list to memorize: a narrator, a millionaire, a married woman, her brutal husband, a golfer, a garage owner and his wife, a gangster. Sorted that way, the cast looks like a roster waiting for a quiz. Read that way, the novel collapses into a love story with a sad ending. The truth is more interesting and far more useful to anyone who has to write about the book. Fitzgerald did not assemble a crowd; he wired a machine. Every person in the novel exists to apply pressure somewhere in a single tight structure, and once you see how the figures connect, the plot stops feeling like a sequence of parties and accidents and starts feeling like a mechanism that could only end one way.
 
 This guide maps that mechanism. It treats each figure not as a personality to admire or condemn but as a working part with a job, and it shows how those jobs lock together into the design that produces the novel's catastrophe. You will leave able to name every character, state exactly how each one is tied to the others, and say in one sentence what each is for. More than that, you will be able to defend a claim that turns the whole cast into an argument rather than a cast list.
 
-![The Great Gatsby characters and their relationships mapped across the two-triangle structure - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Great Gatsby characters and their relationships mapped across the two-triangle structure - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 ## Why the cast of The Great Gatsby works as a network, not a roster
 
