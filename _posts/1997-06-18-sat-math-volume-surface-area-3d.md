@@ -6,15 +6,15 @@ date: 1997-06-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Geometry", "3D Geometry", "Volume"]
 excerpt: "SAT 3D geometry explained: volume and surface area formulas, the scaling principle, composite solids and cross-sections, with worked application examples."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-06-18
+lang: en
 ---
-
 A single sentence on the Digital SAT reference sheet quietly hands you most of what 3D geometry asks for, and the students who lose points here almost never lose them because they forgot a formula. They lose them because they treat the figure as something to memorize rather than something to operate. The volume relationships for prisms, cylinders, cones, spheres, and pyramids are printed for you, right there, available on every screen of the test. What is not printed is the one idea that turns a scary-looking solid into a ten-second win: when a length grows, the space inside grows faster, and it grows by a rule you can predict exactly. This article is about SAT 3D geometry as an application game, not a memorization game, and the centerpiece is the scaling principle that the reference sheet will never explain for you.
 
-![SAT volume surface area and 3D geometry worked examples - Insight Crunch](/assets/images/blog/blog-01.webp)
+![SAT volume surface area and 3D geometry worked examples - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Here is the stakes line, stated plainly. A test-taker who knows that doubling a radius multiplies a sphere's capacity by eight will answer a hard routed item in the time it takes to write the number, while the peer beside them, equally bright, multiplies by two and walks away confident and wrong. The gap between those two students is not talent. It is one principle, applied once. By the end of this guide you will own that principle, you will be able to assemble any surface measure the test asks for even though the sheet does not give those expressions to you, you will decompose a composite solid into clean parts, you will reverse a known capacity back into a missing length, and you will name the slice that appears when a plane cuts through a cone. That is a complete account of what this corner of the exam can throw at you, and none of it requires a formula you have to hold in your head.
 
