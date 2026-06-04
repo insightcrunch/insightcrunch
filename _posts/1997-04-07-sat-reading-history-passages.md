@@ -6,15 +6,15 @@ date: 1997-04-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "History Passages", "Social Science", "Strategy"]
 excerpt: "SAT history passages explained: decoding dense older syntax, finding author purpose and handling dual-text disagreement, with step-by-step parsing walkthroughs."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1997-04-07
+lang: en
 ---
-
 A reader sits down in the Bluebook app, clears the literature openers without trouble, breezes through a science extract about migrating birds, and then hits a forty-word block of eighteenth-century prose that loops back on itself three times before it reaches a verb. The eyes slow. The reader goes back to the start of the line. Then back again. Two minutes evaporate on a single screen, and the question underneath, which turns out to be a plain request for the writer's main point, never gets the attention it needed. This is the history and social-science passage, and the trouble it causes is almost never about ideas. It is about grammar that was assembled before American punctuation settled into its modern habits.
 
-![SAT history and social science passages parsing dense older syntax worked examples - Insight Crunch](/assets/images/blog/blog-02.webp)
+![SAT history and social science passages parsing dense older syntax worked examples - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 Here is the claim this guide will defend, and it is the opposite of how most prep pages frame the problem: a history extract on the Digital SAT is rarely conceptually harder than a science extract. The argument inside it is usually simpler. A speaker wants a colony to resist a tax, or a reformer wants a legislature to fund schools, or two thinkers disagree about who should hold power. What makes the screen feel like a wall is syntax, the architecture of a long period sentence that buries its main clause under a scaffold of subordinate ones. Once you can find the spine of such a construction in a few seconds and treat the rest as decoration you reattach afterward, the older register stops being intimidating and becomes a predictable, repeatable parsing task.
 
@@ -83,7 +83,6 @@ Inversion shows up most in speech extracts, where the speaker's ear governs the 
 Punctuation in period prose carries structural meaning that a modern writer would distribute across separate sentences, and reading it as a map tells you how the parts relate before you have parsed every word. A semicolon almost always joins two complete, balanced thoughts, and the relationship between them follows a small set of patterns: the second half extends the first, contrasts with it, or supplies its consequence. When you see a semicolon, read the two halves as a pair and ask which of those three relationships holds. The line "The law was just; its enforcement was cruel" sets a contrast across the semicolon, and recognizing the contrast immediately tells you the writer's point is the gap between a fair rule and its harsh application.
 
 A colon promises and then delivers. The first half sets up an expectation, and the half after the colon fulfills it, usually by naming, listing, or explaining the thing the first half pointed toward. "The reformer asked only one thing of the assembly: that it hear the petition before dismissing it." The colon tells you the second half defines "one thing," so you read it as the content of the request. Treating the colon as a pointer, rather than as an arbitrary pause, lets you anticipate the structure of the sentence and slot the pieces together faster. The general habit of reading punctuation for meaning carries directly into the grammar half of the exam, where the [complete grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/) treats semicolons and colons as testable structures in their own right; here the move is to read them as comprehension aids on a dense extract before they ever become a grammar question.
-
 
 
 Here is the procedure, named so you can call it up under pressure: the InsightCrunch spine-and-branches method. The spine is the main clause, the irreducible "who did what to whom." The branches are every modifying clause, qualifier, and aside hung off that spine. The routine has two moves. First, find the spine by ignoring everything set off by commas, semicolons, and subordinating words, and locating the one subject and the one verb that carry the sentence's central assertion. Second, reattach the branches one at a time, asking of each what it modifies and what it adds. You read structurally on the first pass and only then read for nuance. The order matters: spine first, branches second, never the reverse.
