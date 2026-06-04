@@ -1,694 +1,303 @@
 ---
 layout: post
-title: "SAT Math: Last 2 Weeks Review Checklist"
-page_title: "SAT Math Last 2 Weeks Review Checklist: Complete 14-Day Countdown Plan"
+title: "SAT Math: Last Two Weeks Review Checklist"
+page_title: "SAT Math Final Two Weeks: A Day-by-Day Countdown Plan to Peak on Test Day"
 date: 1997-04-16
 categories: ["Industry"]
-tags: ["SAT", "SAT Math", "Final Review", "Checklist", "Strategy"]
-excerpt: "The complete 14-day SAT Math countdown plan: two practice tests, targeted error review, Desmos drills, formula confirmation, and day-by-day guidance from Day 14 to test day."
-image: "/assets/images/blog/blog-72.webp"
-reading_time: 61
-author: "natalie-webb"
-last_updated: 2026-04-05
-lang: en
+tags: ["SAT", "SAT Math", "Final Review", "Study Plan", "Checklist"]
+excerpt: "SAT math final two weeks mapped day by day: practice tests, error analysis, Desmos drills, formula review and a taper, ending calm and ready on test day."
+image: "/assets/images/blog/blog-15.webp"
+reading_time: 60
+author: "Insight Crunch Team"
+last_updated: 1997-04-16
 ---
-The two weeks before the SAT are the most consequential preparation period. Every hour invested in the right activity during this window produces real, measurable score improvement. Every hour spent on the wrong activity (or spent doing nothing productive) is an opportunity cost that cannot be recovered.
 
-This article provides a complete, day-by-day plan for the 14 days before your SAT Math section. The plan is built around two core principles: in the first week, continue active learning and gap-filling; in the second week, stop learning anything new and shift entirely to consolidation, confidence, and execution. Students who follow this distinction consistently perform better than students who try to learn new content in the final 7 days.
+The fourteen days before the digital exam are the stretch where most students lose points they had already earned. Not in the obvious way, by forgetting a formula, but in the quiet way: they keep cramming new material, their accuracy on the things they already knew starts to slip, and they walk in tired, jittery, and convinced that one more topic will be the one that saves them. The SAT math final review is not about adding knowledge in the last fortnight. It is about protecting the knowledge you already have and arranging it so that it fires cleanly under timed pressure on the morning that counts.
 
-Every day in this plan has a specific, achievable task. The tasks are sequenced to maximize score improvement while protecting sleep, energy, and confidence for test day. The 30 to 60 minute daily time commitment is intentional: it is long enough to produce meaningful preparation but short enough to be sustainable alongside school, work, and other obligations for 14 consecutive days. Sustainable daily practice outperforms sporadic intensive sessions. A student who completes 30-minute sessions on all 14 days (7 total hours of focused preparation) will typically perform better than a student who completes three 3-hour marathon sessions (same total hours) because the distribution produces better spacing and consolidation.
+![SAT math last two weeks review checklist day-by-day countdown plan - Insight Crunch](/assets/images/blog/blog-15.webp)
 
-For students who find even 30 minutes difficult on certain days: do 15 minutes of the highest-priority part of that day's task rather than skipping entirely. Half a session is better than no session; the consistency of daily engagement matters more than the duration of individual sessions. The daily engagement habit is itself preparation: it keeps the mathematical material in active working memory and maintains the momentum that carries into test day performance.
+Here is the claim this guide will defend, and it is a specific one: in the last two weeks, the highest-return activity is not learning, it is consolidation and tapering. A student who spends these days diagnosing exactly where points leak, drilling those leaks shut, rehearsing the timed rhythm of a module, and then deliberately easing off so they arrive rested will outscore an identical student who studies harder and longer right up to the night before. Effort in this window is not free. Past a point it costs you, because a fatigued brain makes the careless slips that the quantitative section punishes hardest, and a panicked one second-guesses correct first instincts. The plan below treats the taper as preparation, not as a reward for finishing, because peaking on a single date is a thing you engineer, not a thing you hope for.
 
-For the formula reference that Day 10 uses, see the [complete SAT Math formula reference](/1997/05/09/sat-math-formula-reference-sheet/). For the careless mistakes review that Day 9 uses, see [SAT Math careless mistakes prevention](/1997/05/18/sat-math-careless-mistakes/). For timed practice problems at any point in the plan, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
+What this guide gives you that a generic "study hard and relax" tip cannot is a dated, day-by-day calendar with one job per day, each job tied to a specific diagnostic output and to the companion article that teaches the underlying skill. You will not be told to "review your weak areas." You will be told which day to find them, how to rank them, which to fix and which to abandon, when to stop touching new content entirely, and what the final seventy-two hours should look like down to the morning routine. By the end you should be able to print the countdown, tape it above your desk, and execute it without deciding anything new under stress, which is exactly the state you want your decision-making reserved for on the day itself.
 
-![SAT Math Last 2 Weeks Review Checklist](/assets/images/blog/blog-72.webp)
+## Where the final two weeks actually sit in your preparation
 
-## The Two-Week Framework: What Changes at Day 7
+The two-week window is a distinct phase with its own logic, and treating it like an extension of the months that came before is the first mistake. During the long middle of preparation, the goal is acquisition: you are learning linear systems, you are learning how exponential models behave, you are learning to read a Desmos regression. Acquisition is slow, it tolerates mistakes, and it rewards volume. The final fortnight inverts every one of those properties. The goal becomes retrieval under constraint, the tolerance for new mistakes drops to near zero, and volume becomes actively harmful past a modest ceiling. If you carry the acquisition mindset into these days, you will keep opening new topics, each of which you half-learn, and half-learned content is worse than no content because it produces false confidence that collapses on a hard Module 2 item.
 
-The 14-day plan divides into two distinct phases.
+The first thing to understand about this window is that your score is, for practical purposes, already mostly determined. The skills that will carry you through the quantitative section were built over weeks and months, and you cannot meaningfully rebuild them in fourteen days. What you can do, and what this phase is for, is recover the points that sit just outside your grasp: the topics you almost know, the careless slips you keep repeating, the timing decisions you make badly under pressure, and the calculator techniques you have not yet made automatic. These are the recoverable points, and there are usually more of them than students expect. A typical test-taker leaves a meaningful number of points on the table not because the underlying idea is beyond them but because the idea is fragile, the execution is sloppy, or the clock ran out before they reached an item they could have solved. The final two weeks are an exercise in converting fragile knowledge into reliable knowledge and in tightening execution so that what you know becomes what you score.
 
-PHASE 1 (Days 14 through 8): Active preparation. This phase includes taking a full practice test, reviewing errors systematically using the tier system from Article 29, and drilling specific weak areas. The goal is to fix gaps and build competency in weak areas while there is still time to learn.
+The second thing to understand is the role of the diagnostic. You cannot triage what you have not measured, and so the entire plan hinges on an honest, timed practice assessment taken at the very start of the window, with its errors sorted into a structure you can act on. This is where the tier system earns its place. Borrowing the logic from the broader analysis of how the quantitative section distributes its content, you sort every miss into one of three tiers. Tier 1 holds the high-frequency, lower-difficulty content that appears constantly and that you should never miss: linear equations, slope and intercept, percentages, basic data reading. Tier 2 holds the moderate-frequency, moderate-difficulty material that separates a solid middle score from a strong one: systems, quadratics, functions, ratios, the common geometry. Tier 3 holds the rare, hard content that shows up sparingly and mostly in the harder second module. The tier of a missed item, far more than the topic label, tells you what to do about it, because a Tier 1 miss is a five-alarm fire worth fixing first while a Tier 3 miss may be worth deliberately ignoring in a two-week window where time is the binding constraint.
 
-PHASE 2 (Days 7 through 1): Consolidation and execution. Starting on Day 7, no new material is introduced. The goal switches entirely to strengthening what is already prepared, maintaining fluency through low-stakes practice, and ensuring execution habits (Desmos, pacing, careless error prevention) are sharp. New content introduced in the final 7 days is unlikely to be retained well enough to help and may add anxiety by reminding you of what you do not know.
+The third thing to understand is that the digital format changes what final review should rehearse. The exam is adaptive at the module level, which the deeper treatment of [how Module 1 routing gates your score ceiling](/1997/05/31/sat-math-module-1-vs-2/) lays out in full, and the short version is that your Module 1 performance determines whether you are routed into an easier or a harder Module 2, and the harder route is the only one that opens the top of the scale. This single fact reshapes the priority of your final days. It means Module 1 accuracy is not just important, it is the gate, and rehearsing clean, unhurried, error-free execution on the easier and medium items matters more in the last two weeks than chasing the occasional hardest problem. A student who drills exotic Tier 3 content while still dropping a Tier 1 percentage question is optimizing exactly backward. The taper, the rhythm sets, the careless-error audit, all of it bends toward the same end: lock down the points that gate the route, then attempt the ceiling.
 
-This two-phase structure is supported by cognitive science research on learning and performance: spaced practice of existing knowledge in the final week outperforms cramming new content. Students who continue trying to learn new material in the final 3 to 4 days frequently report feeling more anxious and less confident on test day, because exposure to unfamiliar material in the days before the exam amplifies awareness of gaps without providing time to fill them. The final week of preparation should feel like landing, not like flying: settling into and confirming what is prepared, not adding new elements at altitude. Students who have internalized this analogy find Phase 2 significantly less stressful than Phase 1, because the task has shifted from the open-ended work of learning to the satisfying work of confirming and consolidating.
+## How the digital math section behaves in your last fortnight
 
-## Day 14: Full Practice Test and Error Analysis
+To plan the final two weeks well, you need a precise picture of the machine you are walking into, because the plan rehearses behaviors specific to that machine. The quantitative portion of the digital SAT runs as two modules, each timed at thirty-five minutes, taken on the Bluebook application on a screen rather than on paper. The calculator is permitted throughout, with the Desmos graphing calculator embedded directly in the testing application, and the reference sheet of geometry formulas is available on screen at all times. The average time budget works out to roughly ninety-five seconds per item, though that average hides the real distribution, because the early items in a module tend to move fast and the later ones devour the clock. Understanding this rhythm is part of what the final-week timed simulations are meant to ingrain, so that on the day your pacing is a habit rather than a calculation.
 
-TASK: Take a complete Digital SAT Math section (both Module 1 and Module 2, under timed conditions) using one of the official College Board practice tests. Score the test immediately after completing it.
+The adaptive structure is the feature that should shape your priorities most. The first module presents a mix of difficulties, and your accuracy on it routes you to a second module that is either more difficult or less difficult. The harder second module carries the higher scoring ceiling, so reaching it is the precondition for a top result. The practical consequence for your final two weeks is that you should treat Module 1 as a place where accuracy beats speed, every time. There is no medal for finishing the first module with eight minutes to spare if you rushed and dropped two questions you could have nailed. The full reasoning behind accuracy-first pacing lives in the dedicated treatment of [the three-pass system for a thirty-five-minute module](/1997/05/27/sat-math-pacing-strategy/), and the final-week simulations exist precisely to make that three-pass instinct automatic: clear the certain points first, return for the medium ones, then spend whatever remains on the hardest.
 
-TIME REQUIRED: 70 minutes for the test (35 minutes per module), plus 30 to 45 minutes for scoring and error analysis.
+A second behavioral fact worth internalizing before the taper is that the calculator does not save you from conceptual error, it only saves you from arithmetic error, and only if you have rehearsed it. Desmos will graph a system and hand you the intersection, it will find the zeros of a quadratic, it will fit a line to a table, but it does none of this unless your fingers already know the moves. The full catalogue of those moves belongs to the dedicated [Desmos strategy for the digital exam](/1997/06/05/sat-desmos-calculator-strategy/), and one day of your final two weeks is reserved for nothing but rehearsing them until they are reflexive, because a technique you have to think about under time pressure is a technique you will not use when it counts.
 
-HOW TO TAKE THE TEST: Use Bluebook if possible to simulate the exact digital environment. If a paper version is used, follow the same timing constraints (35 minutes per module, no looking up answers during the test).
+The third behavioral fact is the one students most underestimate: the reference sheet is generous but incomplete. It supplies the area and volume formulas and the special-right-triangle ratios, but it does not supply the slope formula, the midpoint formula, the vertex form of a parabola, the quadratic formula, the exponent rules, or the common Pythagorean triples, and reaching for a formula you assumed would be provided and finding it absent is a confidence killer in the first minutes of a module. The complete accounting of what the sheet gives you and what you must carry in memory is the job of the [formula and concept reference sheet](/1997/05/09/sat-math-formula-reference-sheet/), and one day of the countdown is devoted to a final pass through it so that nothing on the day is a surprise.
 
-ERROR ANALYSIS PROCEDURE:
-Step 1: For every incorrect answer, note the topic and the tier (using the tier system from Article 29).
-Step 2: Categorize the error type: content gap (did not know how to approach it), careless error (knew the approach but made an execution mistake), or anxiety/time error (did not attempt or ran out of time).
-Step 3: Count errors per tier. Record: X Tier 1 errors, Y Tier 2 errors, Z Tier 3 errors.
-Step 4: Identify the one or two topic areas with the most errors. These become the focus of Days 13 and 12.
+Finally, the digital format rewards a particular kind of error discipline, because the careless slips that survive into the final weeks are usually not random. They cluster into recognizable patterns: misreading what the item asks for, solving for the wrong variable, dropping a negative sign, answering in the wrong units, or selecting an answer that solves an intermediate step rather than the final question. These patterns are individual, they are yours, and the only way to fix them is to name them from your own work, which the [careless-mistakes elimination method](/1997/05/18/sat-math-careless-mistakes/) treats in depth and which the countdown converts into a single dedicated self-audit day. With the machine and its behaviors clear, the plan itself can be specific, and the rest of this guide is that plan, fourteen days, one job each, ending with the morning routine.
 
-WHY THIS IS THE FIRST STEP: the Day 14 practice test is the diagnostic that personalizes the rest of the two-week plan. Without this data, Days 13 and 12 will be spent on generic review rather than your specific gaps. Taking the practice test first and analyzing it carefully is the single most important action in the entire 14-day plan.
+One last structural fact shapes how the final-week simulations should be run: the quantitative section comes second on the digital exam, after the reading and writing portion, with a short scheduled break between them. This matters for your rehearsal because it means your math performance happens when you are already an hour or more into the sitting, with the freshest part of your concentration spent on the verbal section. A student who only ever practices math cold, first thing, rehearses a condition that will not exist on the day. When you run your timed module simulation around five days out, do it after some other cognitive work rather than as your first act of the morning, so the rehearsal matches the fatigue state you will actually face, and so the warm-up routine you build for test morning is calibrated to wake the right part of your mind at the right moment rather than too early.
 
-WHAT TO DO WITH THE SCORE: record it, note it as your Day 14 baseline, and do not dwell on it emotionally. The score is information, not a verdict. You have 14 days of targeted preparation ahead. If the Day 14 score is lower than expected, resist the urge to re-take the test immediately to get a 'better' score. The Day 14 diagnostic value is in the error analysis, not the score number. A low diagnostic score is more useful than a high one if it reveals more actionable gaps.
+## The fourteen-day countdown, one job per day
 
-## Day 13: Tier 1 Error Review
+What follows is a calendar, not a list of suggestions. Each day carries a single primary job, a clear output, and a tie to the companion article that teaches the underlying skill in full. The structure front-loads diagnosis and repair across the first week, draws a hard line against new content at the one-week mark, and then tapers deliberately into rest and rehearsal across the final stretch. The daily study time is meant to rise gently through the first half and fall through the second, never exceeding a couple of focused hours, because a tired brain in this window subtracts more than it adds. If your test date does not leave you a clean fourteen-day runway, compress the first week and protect the last three days untouched, since the taper is the part of the plan you can least afford to skip.
 
-TASK: Work through every Tier 1 error from yesterday's practice test. For each missed question, redo the problem without looking at the solution first. Only if you cannot solve it after 3 to 5 minutes should you review the solution.
+### Day 14: the diagnostic and the error map
 
-TIME REQUIRED: 30 to 60 minutes depending on the number of Tier 1 errors.
+The window opens with a full, timed, screen-based practice assessment taken under conditions as close to the real thing as you can manage. Sit it in one sitting, on the Bluebook application if you can, with the clock running and no pauses, because a leisurely untimed run measures something other than what you need to measure. The point of this day is not the resulting number, which you should glance at and then set aside. The point is the error map you build afterward, and building it well is the most consequential hour of the entire fortnight.
 
-THE REDO-WITHOUT-SOLUTION APPROACH: Attempting the problem again without looking at the solution immediately serves two purposes. First, it tests whether the error was a content gap (you still cannot solve it) or a one-time careless mistake (you solve it correctly on a fresh attempt). Second, the struggle of re-attempting a problem you missed strengthens the memory of the correct approach more than simply reading the solution. The cognitive mechanism: effortful retrieval attempts (even unsuccessful ones) strengthen the neural encoding of the information more than passive review. This is why the redo protocol produces better retention than solution review alone.
+Here is how that map gets built, walked through as a tutor would narrate it. Take every item you missed and every item you got right but felt unsure of, and write each one on its own line. For each, record three things: the topic, the tier, and the failure mode. The tier comes from the analysis of [how the quantitative section distributes its content across difficulty bands](/1997/04/21/sat-math-past-question-analysis/), and assigning it is the move that turns a pile of mistakes into a plan. Suppose you missed a percentage-increase item, a system-of-equations item, a quadratic-vertex item, and a rare combinatorics item. The percentage miss is Tier 1, high frequency and low difficulty, which means it is bleeding you points across every practice run and it goes to the top of the repair list. The system and the quadratic are Tier 2, moderate frequency and moderate difficulty, the band where most score growth actually lives, so they go in the middle. The combinatorics item is Tier 3, rare and hard, and with only fourteen days you may rationally decide to leave it alone, because the hour you would spend learning it returns less than the same hour spent making the percentage and system items automatic.
 
-WHAT TO DO AFTER THE REDO: for each problem that you still could not solve on the redo, identify the specific concept that is missing (not just "I got it wrong" but "I did not know how to set up the word problem" or "I forgot the parametric systems rule"). Look up that specific concept in the relevant article from the series (use Article 29's topic-to-article cross-reference) and spend 10 to 15 minutes on targeted review.
+Now record the failure mode for each, because the tier tells you how much a fix is worth and the failure mode tells you what the fix actually is. The percentage miss, on inspection, turns out not to be ignorance of percentages at all: you set up the multiplier correctly but computed a 20 percent increase as multiplication by 0.20 rather than by 1.20, a classic execution slip rather than a knowledge gap. That goes in your careless-error log, not your study list. The system miss is genuine: you tried to solve it algebraically, made a substitution error, and never thought to graph both lines in Desmos and read the intersection. That is a method gap, and it points at the calculator-rehearsal day. The quadratic miss is conceptual: you did not remember that the vertex sits at x equal to negative b over 2a, which is a formula the reference sheet does not supply, so it goes to the formula-review day. By the end of this exercise you have not a vague sense of weakness but a sorted, prioritized map: which misses are Tier 1 fires, which are Tier 2 growth, which are Tier 3 you will skip, and for each whether the cure is concept, method, or care. That map drives the next six days. Once you have built it, [a session of targeted practice questions with worked solutions](https://reportmedic.org/tools/sat-math-practice-questions.html) lets you confirm the map against fresh items rather than trusting a single test, and the immediate feedback turns the diagnosis into rehearsal.
 
-TARGET OUTCOME: by the end of Day 13, you should be able to solve all or nearly all of your Day 14 Tier 1 errors correctly on a fresh attempt. If you cannot, add an additional 20 minutes to today's session or carry the remaining gaps into Day 12's session.
+### Day 13: Tier 1 repair, the points you should never lose
 
-## Day 12: Tier 2 Error Review and Focused Drilling
+The second day belongs entirely to Tier 1, the high-frequency low-difficulty content that gates your Module 1 accuracy and therefore your route to the harder, higher-ceiling second module. These are the items you cannot afford to miss, and the cruel truth is that strong students lose more points here than they expect, precisely because they spend their preparation chasing hard problems and treat the easy ones as beneath attention. Work through fresh examples of every Tier 1 topic your diagnostic flagged: linear equations and their graphs, slope and intercept in every form, percentages and percent change, ratios and proportions, and straightforward data reading from tables and bar charts. The goal is not to learn these, you already know them, but to make execution clean and fast so that the early minutes of a module bank certain points without a wobble.
 
-TASK: Part 1: Work through every Tier 2 error from Day 14's practice test using the same redo-without-solution approach from Day 13. Part 2: Identify your single weakest Tier 2 area (the topic with the most Tier 2 errors, or the Tier 2 topic you feel least confident about) and complete 20 focused practice problems in that area.
+Spend the day's energy on the failure modes you logged, not on volume for its own sake. If your percentage misses traced to the multiplier confusion, drill nothing but percentage problems until the 1.20 reflex for a 20 percent increase and the 0.80 reflex for a 20 percent decrease are automatic, and until you can run a percent-change chain, an increase followed by a decrease, without resetting the base incorrectly. If your linear misses traced to confusing slope-intercept with standard form, rehearse converting between them until it is mechanical. The standard you are aiming for is not "I can do this" but "I cannot get this wrong even while tired," because tired is the state you will partly be in on the day, and Tier 1 reliability is what holds when concentration frays. End the day by re-solving the Tier 1 items you missed on the diagnostic, with the failure mode named aloud before each, so the repair is anchored to the specific slip rather than to the topic in general.
 
-TIME REQUIRED: 45 to 60 minutes total.
+### Day 12: Tier 2 repair, where the score actually grows
 
-THE 20-PROBLEM DRILL: The goal of 20 focused problems on one topic is not to master that topic in a single session but to strengthen your current competency level through concentrated exposure. By the end of 20 problems in one topic, patterns become clearer, the specific types of errors you make in that topic become identifiable, and your approach becomes more automatic.
+The third day moves to Tier 2, the moderate-frequency moderate-difficulty band that the content analysis identifies as the region where most realistic score improvement lives. These are systems of equations, quadratics in their several forms, functions and function notation, exponential and linear modeling, the common geometry of triangles and circles, and the data-analysis items that go a step beyond simple reading. A student who has Tier 1 locked and who converts even half of their Tier 2 misses into reliable points moves a meaningful distance up the scale, far more than the same student would gain by finally cracking a single Tier 3 curiosity.
 
-SELECTING THE DRILL TOPIC: if your Day 14 test showed multiple Tier 2 errors in quadratics, that is your drill topic. If errors were spread across multiple Tier 2 topics, choose the topic that appears most frequently on the Digital SAT within Tier 2 (quadratic equations and exponential functions are the highest-frequency Tier 2 topics, as described in Article 29).
+This is the day to drill a weak Tier 2 area to the point of fluency, and it deserves a worked walkthrough because the method matters. Suppose your diagnostic showed repeated misses on systems of equations, and your map flagged the failure mode as method rather than concept: you understand what a solution to a system is, but you default to algebra, make errors in the manipulation, and never reach for the graph. The repair is to rebuild the topic around the most reliable method for the digital format. Take a representative item: a question gives you two linear equations and asks for the value of x at the point where they meet. The slow, error-prone path is substitution by hand. The fast, reliable path is to type both equations into Desmos exactly as written, let the application plot both lines, and read the intersection point directly off the graph, then confirm the x-value matches an answer choice. Walk through three or four such items this way until the move is automatic, then escalate: a system where one equation is a parabola and the other a line, which has two intersection points, where the graph instantly shows you both and saves you from a sign error in the algebra. Then a system presented as a word problem, where the real skill is translating the words into two equations before the graph does the rest. The generalizable principle to carry away is that on the digital exam a system question is usually a graphing question in disguise, and recognizing that converts a method gap into a reliable point. Do the same fluency drill for whichever single Tier 2 area your map ranked highest, and leave the rest for the second half of the week if time allows.
 
-TARGET OUTCOME: after 20 problems on the weakest Tier 2 topic, you should notice at least some improvement in accuracy or speed compared to your performance on the Day 14 test. If you see no improvement at all, identify the specific sub-type within the topic that is blocking progress and spend an additional 15 minutes on that sub-type.
+### Day 11: the Desmos rehearsal day
 
-## Day 11: Desmos Practice Session
+The fourth day is reserved for the calculator, because the embedded Desmos graphing tool is the single largest source of recoverable speed and accuracy on the digital quantitative section, and because its power is entirely contingent on rehearsal. A technique you have to reconstruct under time pressure is a technique you will skip when the clock is loud, so the job today is to make the core moves reflexive, the way a touch typist does not think about the keys. The full method set lives in the [complete Desmos strategy for the digital exam](/1997/06/05/sat-desmos-calculator-strategy/), and today you practice it until your hands move without consulting your memory.
 
-TASK: Spend 30 to 45 minutes practicing the core Desmos techniques from Article 19 on real Digital SAT Math problems.
+Rehearse the moves that recur most. Solving an equation by graphing both sides and reading the intersection, which turns many algebra items into a single plotted picture. Finding the zeros of a function by graphing it and reading where it crosses the horizontal axis, which dissolves most quadratic-root questions. Fitting a line or a curve to a table using a regression, which handles the modeling items that ask for the equation of best fit. Using a slider to test how a parameter changes a graph, which makes the "which value of k" questions visual rather than algebraic. Graphing a system to find an intersection, the move you rehearsed yesterday on the systems repair. Spend the day taking ordinary Tier 1 and Tier 2 items and deliberately solving them the Desmos way even when algebra would also work, because the point is not to choose the calculator every time on the day, it is to have the choice available without hesitation. By evening the test should be whether you can open a fresh modeling item and have the regression set up within a few seconds, hands ahead of thought.
 
-SPECIFIC TECHNIQUES TO PRACTICE:
-Technique 1: The intersection method (graph two equations, click intersection to find the solution of a system or equation). Practice 4 to 5 problems.
-Technique 2: The zeros method (graph a function, click x-intercepts to find roots of a quadratic or polynomial). Practice 3 to 4 problems.
-Technique 3: The equivalence check (graph the original expression and each answer choice, find which choice's graph overlaps the original). Practice 2 to 3 problems.
-Technique 4: The graph feature reading (identify vertex, maximum, minimum, domain, range from a Desmos graph). Practice 3 to 4 problems.
-Technique 5: The numerical evaluation (type a specific value into Desmos to evaluate an expression or verify an answer). Practice 3 to 4 problems.
+### Day 10: the formula and concept pass
 
-TARGET: each Desmos technique should be executable in under 30 seconds per problem by the end of this session. The goal is not just knowing the technique but executing it quickly under simulated conditions.
+The fifth day is a final, deliberate pass through every formula and rule that the on-screen reference sheet does not provide, because the sheet is generous with geometry and silent on much of the algebra and statistics you will actually use. The complete inventory belongs to the [formula and concept reference sheet](/1997/05/09/sat-math-formula-reference-sheet/), and the job today is not to learn these for the first time, which would violate the no-new-content discipline arriving in two days, but to confirm that each is instantly available and to flag any that still feel shaky.
 
-WHY DAY 11: Desmos fluency degrades without practice. If you have not used Desmos in several days, a 30-minute session on Day 11 restores fluency and ensures that the speed advantage of Desmos is available at full strength on exam day. The specific fluency that degrades most quickly is typing speed within Desmos: the physical habit of entering equations quickly and efficiently requires recent practice. Students who used Desmos extensively earlier in their preparation but have not used it in 5 to 7 days will find that their entry speed has decreased and their technique recall is slightly slower. Day 11 restores both.
+Run the pass by domain so nothing slips through. In algebra, confirm the slope formula, the three forms of a line and how to convert among them, the quadratic formula, the vertex location at negative b over 2a, the discriminant and what its sign tells you about the number of real roots, the exponent rules, and the conversion between radical and fractional-exponent notation. In geometry, note which formulas the sheet supplies so you do not waste a second hunting for them, then drill the ones it omits: the distance and midpoint formulas, the equation of a circle and how completing the square recovers its center and radius, the angle relationships created by a transversal, the similar-triangle ratios, and the common Pythagorean triples that let you skip the theorem entirely when you recognize a 3-4-5 or a 5-12-13. In statistics and probability, confirm the mean, the basic probability ratio, the counting principle, and conditional probability from a two-way table. For each item, the standard is recall within a second or two and correct application on one quick example. Anything that fails that standard gets a small flag and a five-minute fix on the spot, because after the hard stop you will not be allowed to open it again.
 
-## Day 10: Formula Review and Self-Quiz
+### Day 9: the careless-error self-audit
 
-TASK: Use the complete formula reference from Article 25 to conduct a self-quiz on all formulas. Mark every formula that takes more than 3 seconds to recall as "not automatic" and spend 5 to 10 minutes of targeted review on those formulas.
+The sixth day is the one most students skip and the one that often returns the most points, because the slips that survive into the final two weeks are rarely random and almost always patterned. The full method belongs to the [careless-mistakes elimination guide](/1997/05/18/sat-math-careless-mistakes/), and today you apply it to your own work by reviewing every error log you have built this week, the diagnostic misses and the slips you caught during the Tier 1 and Tier 2 days, and naming the recurring patterns.
 
-TIME REQUIRED: 30 to 45 minutes.
+The patterns are individual, but they fall into a recognizable set. Misreading what the item asks for, where you solve correctly for x when the question wanted x plus three, or you find the value when it wanted the percent. Solving for the wrong quantity, where you stop at an intermediate result that happens to appear among the answer choices as a trap. Sign errors, where a dropped negative flips your answer. Unit errors, where you answer in minutes when the question wanted hours, or in the wrong dimension entirely. And premature selection, where you grab the first choice that matches a number you computed without checking whether it answers the actual question. For each pattern you find in your own logs, write a one-line cure phrased as a behavior, not a wish: not "be more careful with signs" but "before bubbling, reread the final line of the question and confirm I solved for that exact quantity." Three or four such cures, internalized as habits, close a category of loss that no amount of additional topic study would touch. Spend the rest of the day doing a short mixed set with the cures taped beside you, deliberately executing each one, so the behavior is rehearsed and not merely resolved.
 
-HOW TO SELF-QUIZ: Read the formula name or the "when you need it" description from Article 25, then try to recall the formula from memory before looking at it. For example: read "slope formula" and try to recall (y2 minus y1)/(x2 minus x1) from memory before seeing it. For every formula you cannot recall within 3 seconds, mark it for focused review.
+### Day 8: the second full assessment
 
-PRIORITY FORMULAS (most important to confirm automatic recall):
-Slope formula.
-Quadratic formula.
-Vertex formula (x = minus b over 2a).
-Discriminant (b squared minus 4ac).
-Percent change formula.
-Distance formula.
-Midpoint formula.
-Exponential base interpretation (what (1 + r) means in context).
-Conditional probability formula.
-i-power cycle (i, minus 1, minus i, 1 repeating).
+The seventh day closes the diagnostic-and-repair week with a second full, timed, screen-based assessment, taken under the same conditions as the first. Its purpose is comparison and confirmation: you want to see the Tier 1 fires extinguished, the targeted Tier 2 area converted, and the careless patterns reduced, and you want fresh data on what still leaks. Take it in one sitting, then build the error map exactly as you did on Day 14, sorting misses by tier and failure mode.
 
-THE GOAL IS NOT TO LEARN NEW FORMULAS: if you encounter a formula that you have never seen before (a truly new formula, not one you have forgotten), do not spend significant time learning it from scratch. A completely new formula learned in isolation on Day 10 is unlikely to be recalled reliably on Day 1. Instead, prioritize confirming formulas you have already seen but that are not yet automatic. The formula sheet review is a confirmation exercise, not a learning exercise. The distinction matters for how you approach it: confirmation requires active retrieval; learning requires comprehension. Day 10's task is confirmation only.
+Read the comparison honestly. If the Tier 1 misses are gone, the repair worked and you can trust those points on the day. If a Tier 1 miss persists, it jumps to the very top of your remaining priority, because a fire that survived a week of attention is the single biggest threat to your route through Module 1. If a Tier 2 area you drilled has firmed up, note it and move on, and if a different Tier 2 area now stands out, it becomes the target for your mid-week drilling day. Resist the urge to read too much into the headline number, because a single point swing between two practice runs is noise, not signal, and chasing it will pull you toward panic studying exactly when the plan calls for the opposite. The output of today is a short, final priority list, no more than three items, that you will address in the few remaining active days before the taper takes over. With that list in hand, the diagnostic phase is complete, and the next day draws the line that protects the rest of the plan.
 
-WRITE IT OUT: for any formula that is not yet automatic, write it out from memory 5 times. The physical act of writing reinforces memory retrieval for mathematical symbols and equations. After writing a formula 5 times, immediately close the reference sheet and recall it once more. This one final unaided retrieval after the writing practice is the strongest consolidation step and should not be skipped.
+### Day 7: the hard stop on new content
 
-## Day 9: Careless Mistakes Review
+One week out, you draw a line, and on the far side of it lies every topic you have not yet learned. From this day forward you open no new material. Not the combinatorics item you skipped, not the obscure function transformation, not the rare statistics concept that showed up once. The reasoning is not motivational, it is mechanical: a topic introduced inside the final week cannot be moved from fragile to reliable in time, and fragile knowledge is a liability, because it produces hesitation and false confidence on exactly the hard items where a clean "I will flag this and move on" would have served you better. The students who arrive frazzled are almost always the ones who broke this rule, who spent the last week cramming new content and consequently let their reliable skills go stale while gaining nothing solid in return.
 
-TASK: Re-read Article 23 (SAT Math careless mistakes prevention) and identify the specific mistake types you personally make most often.
+Spend today instead on the short priority list from yesterday's assessment, confined entirely to content you already know. If a Tier 1 miss survived, this is the day to extinguish it for good, with focused repetition until it cannot recur. If a Tier 2 area needs one more pass, give it a measured session, not a marathon. The mood of the day shifts here, from acquisition to consolidation, and your study time should begin its gentle descent. You are no longer building, you are polishing, and the difference shows in how the work feels: lighter, more confident, more like rehearsal than like learning. Mark the hard stop somewhere you will see it, because the temptation to break it grows as the date nears, and the plan only works if the line holds.
 
-TIME REQUIRED: 30 to 45 minutes.
+### Day 6: rhythm with easy and medium sets
 
-THE PERSONAL MISTAKE INVENTORY: Not all students make the same careless errors. After reading Article 23's full list, create a personal shortlist of your 3 to 4 most common mistakes. These become your Day 1 pre-test reminders.
+With new content sealed off, the sixth day builds rhythm on Tier 1 and Tier 2 items, the band that gates Module 1 and grows the score. The aim is flow: a steady, unhurried pace that banks certain points cleanly and keeps the careless cures running in the background. Work a set of mixed easy and medium items at a comfortable speed, not racing the clock yet, attending to clean execution and to the three-pass instinct that the [pacing strategy](/1997/05/27/sat-math-pacing-strategy/) describes, where you clear the certain points first rather than getting stuck early. A continued run through [a targeted practice set with worked solutions](https://reportmedic.org/tools/sat-math-practice-questions.html) suits today well, because the immediate feedback keeps the rhythm honest and surfaces any cure that has not yet become automatic.
 
-COMMON PERSONAL MISTAKE PATTERNS (choose the ones that apply to you from Article 23):
-Error 1: Misreading what the question asks (solving for x but the question asks for 2x + 1).
-Error 2: Forgetting to flip the inequality when multiplying or dividing by a negative.
-Error 3: Computing the vertex formula as b/(2a) instead of minus b/(2a) (missing the negative sign).
-Error 4: Using the wrong denominator in percent change (new value instead of old value).
-Error 5: Selecting the y-intercept answer for a slope question or vice versa.
-Error 6: Not recording the answer choice correctly in Bluebook after computing.
+The purpose of a rhythm day is partly psychological and partly mechanical. Mechanically, it keeps the reliable skills warm without the strain of timed pressure, so they stay sharp through the taper. Psychologically, it rebuilds the confidence that a week of error-hunting can erode, because spending six days finding everything wrong with your performance is demoralizing if it is not balanced by days that remind you how much you can do well. End the session on a run of items you solve cleanly, deliberately, so the last impression of the day is competence rather than struggle, and so your relationship with the section going into the final stretch is calm rather than anxious.
 
-Write down your 3 to 4 personal most-common errors on a small card or note. On test day morning, read this list once before entering the exam room.
+### Day 5: the timed module simulation
 
-ACTIVE PRACTICE: After completing the review, work through 10 problems specifically watching for your personal error types. For each problem, after finding the answer, explicitly check the question to confirm you answered what was asked, check any inequality signs, and confirm the answer is recorded correctly. This active practice with explicit error-watching is the behavioral rehearsal that makes the careless error habits automatic. The habit needs to be practiced, not just described. Ten problems with conscious error-checking on Day 9 installs a behavioral routine that fires automatically on test day.
+The fifth-to-last day is for one timed module simulation, a single thirty-five-minute block taken under the clock, to rehearse pace rather than to learn anything. This is not a full assessment, which would be too taxing this close to the date, but a focused dress rehearsal of the rhythm you will need: the three-pass sweep, the flag-and-return discipline, the decision of when to stop wrestling a hard item and bank the time elsewhere. The adaptive logic means Module 1 accuracy gates your route, so run the simulation with accuracy as the priority and speed as the servant, exactly as the [module-routing analysis](/1997/05/31/sat-math-module-1-vs-2/) recommends.
 
-## Day 8: Second Practice Test and Comparison
+Treat the simulation as a behavior rehearsal, not a score check. Notice whether your pacing instinct fires correctly: do you move on from a stuck item before it eats two minutes, or do you sink into it out of stubbornness? Do you flag and return cleanly, or do you forget the flags? Does the Desmos move come automatically on the items that call for it, or do you still hesitate? The answers tell you what the final two days of light review should reinforce. Keep the analysis afterward short and behavioral, focused on pacing and execution rather than on which topics you missed, because at this point topic gaps are mostly closed and the remaining gains are in how you run the clock. The taper begins in earnest tomorrow, and from here the plan does less, not more, on purpose.
 
-TASK: Take a second complete Digital SAT Math section under timed conditions. Score it and perform the same error analysis as Day 14.
+### Day 4: light targeted review
 
-TIME REQUIRED: 70 minutes for the test plus 30 to 45 minutes for error analysis.
+Four days out, the work goes light and targeted. A short session on the one or two items from the priority list that still feel less than automatic, a quick re-pass of the careless cures, a brief Desmos warm-up to keep the hands fluent. Nothing today should last long or feel heavy. If the priority list is genuinely clear, this becomes a confidence day: a small set of items you solve cleanly, chosen to remind you what reliable execution feels like. The instinct to do more, to squeeze in one more topic or one more full module, is exactly the instinct the taper is designed to override, because the marginal point you might gain from extra cramming is smaller than the point you will lose from arriving depleted.
 
-THE COMPARISON: After scoring Day 8's test, compare the error pattern to Day 14. Specifically:
-Compare Tier 1 error counts: has the number of Tier 1 errors decreased since Day 14? It should have if Days 13 and 12 were productive.
-Compare error types: are there new error patterns that were not present on Day 14?
-Compare overall score: the Day 8 score should be equal to or higher than Day 14. If it is lower, this is unexpected and warrants brief investigation of what went wrong (time pressure? new error types? different topic distribution?).
+This is also the day to begin attending to the non-academic preparation, because logistics handled early are logistics that do not generate anxiety later. Confirm the test center location and the route, check that the Bluebook application is installed and updated on the device you will use, gather the admission ticket and an acceptable photo identification, and locate an approved calculator as a backup even though Desmos is embedded. Handling these now, while you still have days of margin, means the final forty-eight hours can be spent resting rather than scrambling, and a calm logistical runway is part of how you arrive ready.
 
-WHAT TO DO WITH THE COMPARISON:
-If Day 8 score is significantly higher than Day 14: the preparation is working. Continue with the plan.
-If Day 8 score is similar to Day 14 (within 20 to 30 points): the preparation is on track. Continue with the plan. Minor score variation between practice tests is normal.
-If Day 8 score is significantly lower than Day 14: identify the specific questions that were missed on Day 8 but not on Day 14 and determine the cause. Was it a topic not practiced? A new error type? Time pressure? Address the specific cause in the remaining days.
+### Day 3: the taper deepens
 
-DAY 8 IS THE LAST FULL PRACTICE TEST: after Day 8, there are no more full practice test sessions. The preparation phase is ending and the consolidation phase is beginning. The reason for ending practice tests on Day 8 (rather than Day 4 or Day 3) is explicit: students need at least 7 days of consolidation and rest after intensive practice test activity before peak performance is accessible. Practice tests that are too close to the actual exam add fatigue without adding meaningful preparation.
+Three days out, the taper deepens, and the daily work shrinks to a light touch. A brief review of formulas, a short read-through of your careless cures, perhaps a handful of easy items to keep the machine warm, and then you stop. The logic of the final-three-days taper deserves its own explanation, because it is the part of the plan students most distrust and most often sabotage. The reasoning is that quantitative performance under timed pressure depends not only on what you know but on the state of the system executing that knowledge, and that system, your attention, your working memory, your error discipline, degrades with fatigue and recovers with rest. The slips that the careless-error day was built to fight are fatigue-sensitive: a rested brain rereads the question and catches the wrong-variable trap, a tired one does not. So the taper is not a reward for finishing the work, it is the final phase of the work, the part that converts everything you built into something that will actually fire on the day.
 
-## Day 7: THE TRANSITION DAY - Stop Learning New Material
+Concretely, the final three days descend from a light review on Day 3, to a very brief warm-up on Day 2, to no studying at all on Day 1. Each step down is deliberate. The aim is to arrive on test morning with your skills warm but your mind fresh, the way an athlete tapers training before a competition rather than peaking exhaustion the day before. Trust the descent even though it will feel, to a student conditioned by months of daily study, uncomfortably like doing nothing. Doing nearly nothing, on purpose, in these three days, is doing exactly the right thing.
 
-Day 7 is the most important transition in the entire 14-day plan.
+### Day 2: the brief warm-up
 
-THE RULE: Starting today and continuing through test day, do not attempt to learn any content that is not already in your preparation. No new formulas. No new topic areas. No articles you have not already read. No practice with question types you have not already seen.
+Two days out, keep contact light. A short warm-up of a few easy items, solved cleanly, exists only to keep the rhythm from going cold, not to teach or to test. Reread your careless cures one final time, glance at the formula flags, and then close the books. Spend the rest of the day on ordinary life: rest, normal meals, normal sleep, time away from the exam. The work is done, and the most productive thing you can do now is protect the rest that will let the work show.
 
-WHY THIS RULE EXISTS: New content learned in the final 7 days is stored in recent memory and is more vulnerable to anxiety-induced retrieval failures on test day. Reviewing and consolidating existing knowledge produces more reliable performance than adding new material that competes with established knowledge for retrieval pathways.
+This is the day to lock the logistics you confirmed earlier into a simple, written plan for the morning: what time you will wake, what you will eat, when you will leave, what you will carry. Lay out the admission ticket, the identification, the backup calculator, a watch if your center allows one, a snack and water for the break, and a light layer in case the room runs cold. Having all of this assembled and a plan written removes a whole category of morning friction, and a frictionless morning is a calmer mind, which is itself worth points.
 
-WHAT TO DO ON DAY 7: Spend 30 to 45 minutes reviewing any formula gaps identified on Day 10 that are still not automatic. Work through 15 easy problems from topics you know well. The goal of the easy problems is not challenge but rhythm: remind yourself what it feels like to solve problems correctly and fluently.
+### Day 1: rest and logistics, no studying
 
-THE CONFIDENCE FUNCTION: Day 7's easy problem set serves a psychological function as much as a preparation function. Ending a session with 15 correct answers reinforces the sense of competence and familiarity that is essential for exam-day confidence. Hard problems in the final week, especially if you miss them, can undermine confidence without adding meaningful preparation value. The psychological research on self-efficacy (the belief in one's own capability to succeed) shows that successful performance experiences in the days before a challenging event are one of the most effective confidence builders. Day 7's easy problems are deliberate confidence construction.
+The day before the exam, you do not study the quantitative section at all. Not a problem, not a formula, not a flashcard. The temptation to do "just a little" is strong and it is wrong, because a last-minute cram cannot add reliable skill at this point and can easily disturb the rest you need. The job today is recovery and readiness: a normal, restful day, light activity if it relaxes you, ordinary meals, and an early enough night to bank real sleep, since sleep is the single most performance-relevant variable left in your control.
 
-## Day 6: Medium Problems, Focused Weak Area
+Run through the morning plan once so it is fresh, confirm everything is packed, and then deliberately set the exam aside. Anxiety in the final hours is normal and does not predict a poor result, but feeding it with frantic review makes it worse, while a calm evening lets it settle. If you need something to do with nervous energy, a short walk and an early bedtime serve you far better than a problem set. You have spent two weeks building exactly the readiness this day is meant to preserve, and preserving it is now the entire assignment.
 
-TASK: Work through 15 medium-difficulty problems focused on your single remaining weakest area (identified from the Day 8 practice test error analysis).
+### Test morning: the routine
 
-TIME REQUIRED: 30 to 45 minutes.
+On the morning itself, the goal is to arrive warm, calm, fed, and unhurried, and the routine that produces that state is simple enough to execute on autopilot, which is the point, because autopilot is what you want running while your decision-making stays reserved for the items. Wake with enough margin that nothing is rushed, and eat a real breakfast with protein and something slow to digest rather than only sugar, because a stable blood-sugar curve sustains attention across two sections far better than a spike that crashes mid-module. Arrive early enough that traffic or a parking problem cannot rattle you, with everything packed the night before so the morning is only execution.
 
-THE MEDIUM-DIFFICULTY CALIBRATION: Medium problems (not easy, not hard) are the ideal difficulty for Day 6. Easy problems do not challenge existing knowledge; hard problems may produce misses that reduce confidence in the final week. Medium problems provide meaningful practice while keeping accuracy high enough to maintain the confidence built on Day 7.
+A light cognitive warm-up helps and over-preparation hurts. Solving two or three easy items on the way, the kind you can do cleanly, wakes the quantitative part of your mind the way a runner does a few strides before the gun, so that the first real item of Module 1 does not catch you cold. The emphasis is on easy and clean, never on hard or new, because the warm-up exists to switch the machine on, not to test it, and a hard item that you stumble on would do the opposite of what you want, planting doubt at the worst moment. Once the section begins, fall into the rhythm you rehearsed: clear the certain points first, flag and return, let Desmos do the work it is fast at, and reread the final line of each question before you commit, executing the careless cures you spent a whole day building. You arrive having engineered your own peak, and the only job left is to run the plan you already know.
 
-WHAT COUNTS AS THE "WEAKEST AREA": the topic that appeared most frequently in your error lists across both practice tests (Days 14 and 8). If the same topic produced errors on both tests, it is your persistent weak area and receives the Day 6 focus.
+## Worked examples: turning fragile points into reliable ones
 
-DESMOS INTEGRATION: for any Day 6 problem that can be solved using Desmos, use Desmos. The goal is not to avoid Desmos in the final week but to stay sharp with it. Day 6 is a natural opportunity to confirm that Desmos fluency from Day 11 has not degraded.
+The repair days are abstract until you see what the work actually looks like on a single item, so here are several walkthroughs of the kind you will run during the first week, narrated the way a tutor would talk you through them. Each one ends with the principle that generalizes, because the goal is never to memorize one solution but to carry away a move you can reuse on the next item of the same shape. Read these as models for how to drill your own flagged topics, not as a substitute for drilling them.
 
-## Day 5: Desmos Speed Drill
+Start with a quadratic-vertex item, the kind that traces to a concept gap in your error map and gets fixed on the formula day. A function is given as f of x equal to x squared minus six x plus one, and the prompt asks for the minimum value of the function. The slow, anxious response is to start plugging in values and hope a pattern appears. The reliable response begins with a fact the on-screen reference sheet does not supply: the vertex of a parabola sits at x equal to negative b over 2a, and for a parabola opening upward that vertex is the minimum. Here a is one and b is negative six, so the vertex is at x equal to six over two, which is three. Substitute three back into the function: nine minus eighteen plus one, which is negative eight. The minimum value is negative eight. Then confirm it the digital way by typing the function into the graphing tool and reading the lowest point of the curve, which lands at the same place. The principle to carry away is that any "minimum or maximum value of a quadratic" question is a vertex question, the vertex lives at negative b over 2a, and the calculator confirms in seconds what the formula produces, so the formula and the graph check each other rather than competing. A topic that felt fragile on the diagnostic becomes a two-step reflex.
 
-TASK: Work through 10 problems specifically using Desmos to solve, with a target of under 45 seconds per problem.
+Move to an exponential-versus-linear modeling item, the sort of Tier 2 content where the deeper analysis of [linear and exponential models and when each applies](/1997/06/09/sat-math-linear-vs-exponential-models/) does the underlying teaching, and which makes a good target for a mid-window drilling session if your map flagged it. A problem describes a population that grows by the same percentage each year and asks which kind of model fits. The trap is to assume that anything increasing is linear because linear feels simpler. The discriminating question is whether the quantity changes by a constant amount each step, which is linear, or by a constant factor, which is exponential. "The same percentage each year" is a constant factor, so the model is exponential, and the equation takes the form of a starting value times a growth factor raised to the number of years, where a five percent annual increase makes the factor 1.05. Drill three or four of these, deliberately asking each time whether the change is by amount or by factor, until the distinction is automatic, then escalate to a decay version where a quantity loses a fixed percentage and the factor drops below one. The generalizable principle is that the words "constant amount" point to linear and the words "constant percentage" or "constant factor" point to exponential, and naming which one the problem describes resolves the model before any computation begins.
 
-TIME REQUIRED: 20 to 25 minutes.
+Now a Tier 1 percentage chain, the high-frequency content you cannot afford to miss and the place where the careless multiplier slip lives. A price rises by twenty percent and then the higher price is reduced by twenty percent, and the question asks how the final price compares to the original. The intuitive wrong answer is that the two changes cancel and the price returns to the start, and the trap is built precisely to catch that intuition. The reliable method is the multiplier: a twenty percent increase multiplies by 1.20, a twenty percent decrease multiplies by 0.80, and applying both means multiplying by 1.20 and then by 0.80, which gives 0.96. The final price is ninety-six percent of the original, four percent lower, not equal. The reason the changes do not cancel is that the decrease is taken on the larger amount, so it removes more than the increase added. The principle to carry away is that percent changes compound through multiplication rather than addition, that an increase followed by an equal-percentage decrease always lands below the start, and that the multiplier method protects you from the additive intuition the test exploits. This is exactly the kind of item to drill on the Tier 1 day until the multipliers are reflexive.
 
-THE SPEED COMPONENT: Day 5's Desmos drill emphasizes speed more explicitly than Day 11's technique practice. The goal on Day 5 is to confirm that Desmos techniques are not just available but fast. A Desmos technique that takes 60 seconds does not provide a time advantage; a technique that takes 20 seconds does.
+Then a wrong-variable trap, the failure mode the careless-error audit is built to catch. A problem sets up a relationship, asks you to find a quantity, and offers among its choices both the value of x and the value of the thing the question actually wanted, which might be x plus five, or two x, or the price before tax rather than after. You solve correctly, find x equal to seven, see seven sitting right there in the choices, and select it, except the question asked for x plus five, which is twelve, also sitting in the choices as the intended answer. Nothing about your algebra was wrong; the loss came entirely from not rereading the final line. The cure, written as a behavior rather than a wish, is to reread the last sentence of the question after solving and before bubbling, confirming that the number you are about to select answers that exact sentence. Rehearse this on a mixed set with the cure taped beside you, and the wrong-variable loss, which is one of the most common and most maddening on the section, closes.
 
-TIMING METHOD: Use a timer for each problem. Note which techniques take under 30 seconds (strong), which take 30 to 45 seconds (acceptable), and which take over 45 seconds (needs more automatic execution). For any technique consistently taking over 45 seconds, spend 5 minutes of additional targeted practice on that specific technique. The timing data from Day 5 is predictive of exam day performance: techniques you can execute in under 30 seconds on Day 5 will be fast and reliable on Day 1; techniques that take 60 seconds on Day 5 will likely take even longer under exam pressure.
+Finally a conditional-probability item from a two-way table, a statistics concept the formula pass keeps available and one students often overcomplicate. A table breaks a group down by two categories, and the question asks for the probability that a member has one property given that they already have another. The word "given" is the signal, and it changes the denominator. Instead of dividing by the whole group, you divide only by the subgroup named after "given," because that subgroup is now your entire population. If the question asks for the probability that a student plays a sport given that they are a senior, the denominator is the number of seniors, not the number of students, and the numerator is the number of seniors who play a sport. Read the relevant row or column, take the two numbers, and divide. The principle to carry away is that "given" narrows the denominator to the conditioning group, and that conditional-probability items are reading exercises on the table far more than they are calculation, so the whole skill is identifying which subgroup the condition selects.
 
-PROBLEM SELECTION FOR DAY 5: choose problems where Desmos provides a clear time advantage: systems of equations (intersection), quadratic zeros (x-intercepts from graph), and equivalence checks (graphical overlap method).
+These five span the failure modes your map will sort: a concept fix, a method-and-modeling fix, a high-frequency execution fix, a careless-behavior fix, and a reading-precision fix. Run your own flagged topics through the same narration, always ending by stating the move that generalizes, and you convert a pile of misses into a set of reusable reflexes, which is the entire job of the repair days. A further [practice set with worked solutions](https://reportmedic.org/tools/sat-math-practice-questions.html) lets you test each reflex against fresh items, and the immediate feedback confirms whether the fix held or whether the failure mode still lurks.
 
-## Day 4: Module Simulation
+## Reading your two assessments against each other
 
-TASK: Work through a set of 22 questions under a strict 35-minute timer, simulating exactly one Digital SAT Math module.
+The diagnostic on Day 14 and the second assessment on Day 8 are not two separate scores to compare for reassurance, they are a before-and-after pair whose difference, read carefully, tells you exactly where the remaining gains are. The headline numbers matter least, because a single-point swing between two practice runs is noise produced by sleep, item luck, and ordinary variance, and treating it as signal is how students panic or relax at the wrong moment. What matters is the change in the error map, tier by tier and failure mode by failure mode.
 
-TIME REQUIRED: 35 minutes (timed) plus 15 minutes of review.
+Read the Tier 1 line first, because it gates everything downstream. If the high-frequency easy misses that appeared on the diagnostic are gone from the second assessment, your repair worked and you can trust those points on the day, which frees your final active days for polishing rather than firefighting. If even one Tier 1 miss survived a full week of targeted attention, it does not get demoted to "still working on it," it gets promoted to the single highest priority for your remaining days, because a fire that survived a week of water is the biggest threat to your route through the first module. A surviving Tier 1 miss almost always means the failure mode was misdiagnosed: what you logged as a concept gap was really an execution slip, or what you treated as care was really a genuine hole. Relabel it honestly and attack the real cause.
 
-THE SIMULATION PURPOSE: Day 4's module simulation is not about learning or finding new gaps. It is about confirming that your three-pass pacing strategy (from Article 21) is functioning correctly under time pressure and that your execution habits are in good working order. Think of Day 4 as a dress rehearsal: not a performance (that is Day 1), not a diagnostic (that was Days 14 and 8), but a run-through that confirms the execution plan is ready. A good dress rehearsal builds confidence; it does not need to be perfect.
+Read the Tier 2 line next, looking for conversion. The area you drilled to fluency on Day 12 should show fewer misses or none, confirming that the method or concept fix took. If a different Tier 2 area now stands out that the diagnostic did not flag, that is not a failure, it is the natural result of fixing one leak and revealing the next, and it becomes the target for your light targeted-review day. Do not try to drill every Tier 2 area that appears; pick the one with the highest frequency or the clearest, most fixable failure mode, because in the days remaining you are choosing the highest-return single target, not attempting comprehensive coverage.
 
-WHAT TO TRACK DURING THE SIMULATION:
-Were you able to complete all three passes within 35 minutes?
-Did you flag questions appropriately (not over-flagging easy questions, not under-flagging hard ones)?
-Did you leave any answer blanks? (All blanks should have a placeholder guess.)
-Did you use Desmos on the problems where it would have helped?
+Read the failure-mode column across both assessments last, because the careless patterns are where the quietest gains hide. If the wrong-variable trap caught you on the diagnostic and your cure was rehearsed in between, the second assessment should show it gone, and seeing it gone is the proof your behavioral cure works under timed conditions rather than only in calm practice. If a careless pattern persists, the cure was either not specific enough or not rehearsed enough, and the fix is to sharpen the cure into a concrete behavior and run it on a short mixed set with the cure visible beside you. The output of this whole comparison is a short final priority list, no more than three items, that your last active days address before the taper takes over the schedule entirely.
 
-THE REVIEW: after the 35 minutes, review only the questions you found difficult or uncertain. Do not spend extended time reviewing questions you answered correctly. The 15-minute review is for confirming that your judgment (which questions to flag, which to answer directly) is well-calibrated.
+## Deciding which weak spots to abandon
 
-## Day 3: Light Review Only
+A two-week window forces a discipline most students resist: deciding, on purpose, not to fix some of what is broken. Time is the binding constraint, and an hour spent on a rare, hard topic is an hour not spent making a common, easy one reliable, so the question is never "can I improve this" but "is this the highest-return use of the hour." The tier system answers it. A Tier 3 miss, the rare and hard content that shows up sparingly and mostly in the harder second module, frequently fails the return test, because learning it from a fragile start in the final fortnight buys you an occasional, uncertain point at the cost of the warmth and reliability of skills that earn points on every run.
 
-TASK: Re-read the formula reference from Article 25 (not for learning, for confirmation). Work through 10 problems from mixed topics, at easy-to-medium difficulty. Stop at 40 minutes regardless of whether the session feels complete.
+The decision rule is concrete. If a topic is high-frequency, fix it regardless of difficulty, because it pays on every assessment. If a topic is moderate-frequency and the failure mode is a clear, fixable method or concept gap, fix it, because that is where realistic growth lives. If a topic is low-frequency and hard, and especially if your error map shows it as a genuine concept hole rather than a slip, the rational move in a two-week window is to abandon it as a planned flag-and-skip on the day, freeing the time for consolidation. Abandoning is not giving up; it is a deliberate allocation, and on the day it converts into a calm decision to flag the rare hard item and move on rather than sinking three minutes you needed elsewhere. The students who refuse to abandon anything spread their final days too thin and arrive with everything half-warm, while the students who triage honestly arrive with the high-value content reliable and a clear plan for the rest. The full logic of how content concentrates by frequency, which underwrites this whole decision, lives in the [question-pattern analysis](/1997/04/21/sat-math-past-question-analysis/), and leaning on it lets you abandon the right things without guilt.
 
-TIME REQUIRED: 35 to 40 minutes maximum.
+## The countdown at a glance
 
-WHY DAY 3 IS LIGHT: cognitive performance on test day is partially determined by preparation quality, but also by rest and stress management in the final days. Overloading Day 3 with intensive preparation increases stress without proportionally increasing preparation quality. The diminishing returns are steep in the final days before the exam.
+The plan compresses into a single calendar you can print and follow without rethinking it. Each row is one day, its single job, and the companion article that teaches the skill behind it. This is the InsightCrunch math final-review countdown, and it is built so that the decisions are already made, leaving your judgment free for the items themselves on the day.
 
-WHAT NOT TO DO ON DAY 3:
-Do not take a full practice test.
-Do not study a new topic or formula you have not seen before.
-Do not spend more than 40 minutes on preparation activities.
-Do not review hard problems from previous practice tests.
+| Day | Single job | Output | Companion |
+|-----|-----------|--------|-----------|
+| 14 | Full timed assessment, then build the error map | Misses sorted by tier and failure mode | Question-pattern analysis |
+| 13 | Tier 1 repair | The points you should never lose, made reliable | Careless-mistakes method |
+| 12 | Tier 2 repair, drill the weakest area to fluency | One growth area converted | Question-pattern analysis |
+| 11 | Desmos rehearsal until the moves are reflexive | Core calculator techniques automatic | Desmos strategy |
+| 10 | Formula and concept pass | Every off-sheet formula instantly available | Formula reference sheet |
+| 9 | Careless-error self-audit | Three or four behavioral cures | Careless-mistakes method |
+| 8 | Second full timed assessment | Short final priority list of at most three items | Question-pattern analysis |
+| 7 | Hard stop on new content; clear surviving fires | Line drawn, consolidation begins | Pacing strategy |
+| 6 | Rhythm sets at a comfortable pace | Reliable skills warm, confidence rebuilt | Pacing strategy |
+| 5 | One timed module simulation | Pacing and flag-and-return rehearsed | Module 1 vs Module 2 |
+| 4 | Light targeted review; confirm logistics | Loose ends closed, route and ticket ready | Test day complete guide |
+| 3 | Taper deepens, light review only | Skills warm, fatigue clearing | Test day complete guide |
+| 2 | Brief warm-up, then stop; pack the bag | Morning plan written, kit assembled | Test day complete guide |
+| 1 | No studying, rest and sleep | Recovery banked | Test day complete guide |
+| Morning | Eat, arrive early, light warm-up, run the plan | A calm, warm, unhurried start | Test day complete guide |
 
-THE REST PRIORITY: adequate sleep in the 3 to 4 nights before the exam has a larger positive effect on test day performance than the equivalent time spent in additional late-night preparation. Every hour of sleep sacrificed for extra preparation in the final 3 nights is a net negative trade.
+The shape of the calendar is the whole argument in one picture: diagnosis and repair stacked in the first week, a hard line at the seven-day mark, and a deliberate descent through the final stretch. If you remember nothing else, remember that the work bends downward at the end on purpose, and that the bend is preparation, not laziness. For the full logistical side of test morning, the dedicated [test day complete guide](/2020/10/30/sat-test-day-complete-guide/) covers the kit, the timing, and the break strategy in detail.
 
-## Day 2: No Studying
+## Adjusting the countdown to your score target
 
-TASK: No SAT Math preparation. Confirm test center logistics. Pack the bag you will bring to the exam. Set multiple alarms for the morning. Eat normally and sleep at least 8 hours.
+The fourteen-day skeleton is the same for everyone, but where you spend the repair days should bend toward where your points actually are, and that depends on the band you are reaching for. The frequency logic does not change, since Tier 1 reliability gates the first module for every test-taker, but the marginal point sits in different places for a student consolidating a middle result and a student reaching for the top of the scale, and tailoring the emphasis is part of spending the fortnight well.
 
-LOGISTICS TO CONFIRM:
-Test center address and route (confirm the address is not a default or wrong; confirm the specific room or building if relevant).
-Arrival time (aim to arrive 30 minutes before the posted start time to allow for check-in).
-Required ID (confirm which ID is accepted at your test center).
-Permitted materials (pencils, permitted calculator if applicable, water bottle, snack).
-Prohibited materials (phones in testing rooms, external scratch paper).
+For a student whose practice work lands in the middle band and who wants to firm it up, the highest-return emphasis is Tier 1 and the easier half of Tier 2, because that is where the leaks are and where reliable execution converts directly into a steadier first module. A middle-band student who still drops the occasional percentage chain or linear-form item is bleeding the exact points the routing punishes most, so the Day 13 repair and the rhythm day matter more than any pursuit of hard content. The decision to abandon Tier 3 is easy here: a rare, hard item is not where a middle-band score grows, and the time it would consume is far better spent making the common content unmissable. For this student the taper is, if anything, even more important, because a steadier first module under rested conditions is precisely what nudges a middle result upward, and fatigue-driven slips are the main thing standing between the student and the next band.
 
-A logistics failure (wrong test center, missing ID, late arrival) produces a worse outcome than any content gap. Investing 20 minutes confirming logistics on Day 2 is the lowest-cost, highest-reliability preparation available. Students who have experienced logistics surprises on previous test days know this viscerally. Students who have not should take it on faith: no formula, technique, or article review is worth as much as confirmed logistics.
+For a student reaching for the top of the scale, the calculus shifts, because reliable Tier 1 is assumed rather than earned and the marginal point lives in the harder second module the routing unlocks. This student should still verify Tier 1 reliability on the diagnostic, since a single careless slip there can cap the route before the hard module is ever reached, but once that is confirmed the repair days lean toward the trickier Tier 2 content and the more challenging items that the [analysis of the hardest question types](/1997/05/22/sat-math-hardest-question-types/) treats in depth. The abandonment decision is harder for this student, because some Tier 3 content does appear in the route to the top and a genuine concept hole there may be worth a measured fix if the failure mode is clean. Even so, the discipline holds: a top-band student who breaks the hard stop to cram a rare topic in the final week risks the same fragility-and-fatigue trap as anyone else, and the points lost to a frazzled, slip-prone first module would cost more than the exotic item could ever gain. The timed module simulation matters most for this student, because at the top of the scale the difference between bands is often pace and flag-and-return discipline on the hard module rather than raw knowledge.
 
-THE NO-STUDYING RULE: the case for Day 2 as a complete rest day is compelling. There is no new preparation that can be completed in one day that will meaningfully change the test outcome. However, the accumulated fatigue from 12 days of preparation can be meaningfully reduced by one rest day. The net effect of Day 2 rest on test day performance is positive. Students who resist Day 2 rest often report feeling scattered and anxious on test day because they stayed up late trying to review more content. Students who observe Day 2 rest typically report feeling calmer and more mentally sharp. The data across student populations supports the rest day as a net positive for test day performance.
+For a student who has improved quickly and whose practice scores are still climbing, the temptation is to assume the climb continues automatically and to coast through the final two weeks. The countdown protects against this by insisting on the second assessment, which tells you honestly whether the climb has plateaued and where, so you spend your last active days on the real current weak spot rather than on a stale picture of it. A fast-improving student often finds that the failure modes have shifted: the concept gaps that defined the early climb have closed, and what remains is execution and pace, which means the careless-error audit and the rhythm day carry more weight than further topic study. Whatever the band, the rule that does not bend is the hard stop on new content and the taper into rest, because those protect the points everyone has already earned, and protecting earned points is the surest math in the entire window.
 
-MENTAL PREPARATION: Day 2 is also a day for intentional mental preparation. Review your personal careless mistake list (from Day 9) once, briefly. Remind yourself of what you have prepared over the last two weeks. A student who has followed this plan has taken two practice tests, reviewed errors systematically, drilled weak areas, confirmed formula knowledge, practiced Desmos, and simulated a full module. That preparation is real and it is in place. Fourteen days of structured work. Fourteen check marks in the log. The evidence is concrete.
+The single most damaging error in the last two weeks is cramming new material, and it is worth naming the misconception precisely because it feels so productive. The belief is that one more topic, learned at the eleventh hour, will be the topic that appears and saves you. The reality is that a topic learned inside the final week stays fragile, and fragile knowledge does not behave like reliable knowledge on the day. It produces hesitation, it consumes time you cannot spare, and worst of all it generates a false confidence that lures you into attempting an item you should have flagged and skipped. Meanwhile the hours spent on the new topic are hours not spent keeping your reliable skills warm, so the net effect of late cramming is usually negative: you gain a fragile maybe and lose a reliable certainty. The hard stop at the one-week mark exists to make this mistake impossible to commit, and holding the line is one of the highest-return decisions in the entire plan.
 
-The specific reminder for Day 2: you are more prepared than you were on Day 14. Whatever score you received on Day 14, you have spent 12 days building on it. The preparation has happened. Tomorrow you will apply what you have prepared.
+The second mistake is skipping the taper, or worse, inverting it by studying hardest in the final days. Students conditioned by months of daily effort distrust rest, reading a light final week as slacking, and so they push through to the night before and arrive depleted. This is precisely backward. The quantitative section punishes fatigue through exactly the careless-error channel that a whole day of the plan was built to defend, because the wrong-variable slip and the dropped-negative slip are fatigue-sensitive, caught by a rested mind and missed by a tired one. A student who tapers well arrives with the same knowledge as a student who crammed, but with a sharper instrument to execute it, and on a timed test of execution that difference is points. Trust the descent.
 
-The 14-day plan ends here. Its job is complete. What begins tomorrow is performance - the application of everything the plan has prepared. Preparation and performance are different activities. Day 2 is the handoff point between them.
+The third mistake is letting a single practice score, high or low, hijack the plan. Practice numbers wobble for reasons that have nothing to do with your real ability: a bad night's sleep, an unfamiliar item set, simple variance. A test-taker who panics at one low practice result and responds by abandoning the taper to cram, or who relaxes at one high result and stops the repair work early, has let noise overrule the plan. The countdown is built to be robust to a single data point, which is why the second assessment on Day 8 is used to confirm patterns rather than to chase a number, and why the analysis after it stays short and behavioral. Read trends across your week of work, not the headline of any one run.
 
-## Day 1: Test Day
+The fourth mistake is neglecting logistics until they become a crisis. A student who has not confirmed the route, checked the Bluebook installation, or located identification until test morning has manufactured a category of stress that the plan deliberately eliminates by handling all of it on Day 4 and Day 2. A frictionless morning is a calmer mind, and a calmer mind catches the traps a frazzled one walks into, so the logistical preparation that looks like busywork is in fact part of the score.
 
-TASK: Arrive at the test center, perform on the exam, trust your preparation.
+## The verdict on the last two weeks
 
-MORNING ROUTINE:
-Wake up at a consistent time (not dramatically earlier than usual, which disrupts the sleep cycle).
-Eat a normal, familiar breakfast (nothing heavy or unfamiliar that might cause digestive discomfort).
-Briefly review your personal careless mistake list once before leaving the house (30 seconds).
-Arrive at the test center 25 to 30 minutes before the posted start time.
+If the question is what to do in the final fortnight before the quantitative section, the answer is unambiguous: diagnose hard in the first week, draw a firm line against new content at the one-week mark, and taper deliberately into rest across the final stretch. Do not learn new material in the last seven days, do not skip the taper, and do not let a single practice number rewrite the plan. The points that are still available to you this late are not in new topics, they are in the reliable execution of topics you already know, in the careless slips you can name and cure, in the calculator moves you can make reflexive, and in the rested clarity that lets all of it fire cleanly on the day. A student who accepts that the final two weeks are for consolidation and tapering rather than for one last push will, all else equal, outscore the student who studies harder right up to the night before, because peaking on a single date is something you engineer, and the engineering is mostly about knowing when to stop.
 
-BEFORE THE MATH SECTION BEGINS:
-Three slow, controlled breaths (in through the nose for 4 counts, out through the mouth for 6 counts). This reduces the acute stress response without requiring extended time.
-State your preparation commitment internally: "I have prepared. I know Tier 1. I have Desmos. I have my pacing strategy."
-Remind yourself of the three-pass strategy: Pass 1 clears the field, Pass 2 tackles the hard questions, Pass 3 confirms and guesses.
-
-DURING THE MATH SECTION:
-Apply the three-pass strategy from Article 21 exactly as practiced.
-Use Desmos on any problem where it provides a time advantage.
-Flag and move on any question that takes more than 90 seconds without clear progress.
-Never leave a multiple-choice question blank.
-Before submitting each module, verify that every question has an answer selected.
-
-IF ANXIETY SPIKES: breathe. Use the 5-second grounding technique from Article 26 (feel your feet on the floor, take one slow breath, note "I can flag this and come back"). Then flag and move to the next question. The anxiety spike itself is not the problem; the response to it is what matters. A student who has rehearsed the flag-and-move response will execute it automatically even when anxious. That rehearsal happened during the Day 4 module simulation. The flag permission is always available.
-
-## The 14-Day Plan: Complete Summary
-
-The following one-page summary can be printed and posted as a daily reference.
-
-Day 14: Full practice test + error analysis. Identify Tier 1 and Tier 2 gaps.
-Day 13: Redo all Tier 1 errors from Day 14 test without solutions.
-Day 12: Redo Tier 2 errors + 20-problem drill on weakest Tier 2 topic.
-Day 11: 30-minute Desmos technique practice (5 core techniques).
-Day 10: Formula self-quiz from Article 25. Mark and review non-automatic formulas.
-Day 9: Careless mistakes review from Article 23. Build personal mistake list.
-Day 8: Full practice test + compare errors to Day 14 baseline.
-Day 7: STOP NEW MATERIAL. Review formula gaps. 15 easy problems for rhythm.
-Day 6: 15 medium problems on persistent weakest area from Days 14 and 8.
-Day 5: 10 Desmos speed problems. Target under 45 seconds each.
-Day 4: 22-question module simulation under 35-minute timer.
-Day 3: Light review only. Formula re-read. 10 mixed easy problems. Stop at 40 minutes.
-Day 2: No studying. Logistics confirmation. Sleep 8+ hours.
-Day 1: Test day. Trust your preparation.
-
-## Extended Day-by-Day Notes: What to Watch For and Common Mistakes
-
-Each day in the 14-day plan has specific pitfalls that students fall into. The following extended notes address the most common execution mistakes for each day.
-
-DAY 14 EXTENDED NOTES:
-The most common Day 14 mistake is taking the practice test in non-exam conditions: with frequent pauses, with time extensions, or while looking up answers during the test. Any deviation from timed, closed-book conditions produces an inflated score and an inaccurate error analysis that will mislead the entire two-week plan. Commit to the full 70 minutes under strict exam conditions even if it feels uncomfortable. The discomfort of performing under pressure in a practice session is preparation for the exam day experience.
-
-A practical setup for Day 14: remove all distractions, set a timer for 35 minutes for each module, and treat the session as if it is the actual exam. The psychological fidelity of the practice test matters: students who treat practice tests as casual warm-ups do not build the test-taking composure that the real exam requires.
-
-The second most common Day 14 mistake is spending insufficient time on error analysis. Many students score the test, note the number of wrong answers, and consider the analysis complete. The diagnostic value of Day 14 comes from the detailed categorization: which tier, which topic, which error type. Spend a full 30 minutes on the error analysis, not 5 minutes.
-
-DAY 13 EXTENDED NOTES:
-The most common Day 13 mistake is reading the solution immediately when you cannot solve a problem on the redo attempt. The immediate solution review feels productive but bypasses the effortful retrieval that strengthens memory. Set a 3-minute timer for each missed problem on the redo. Only look at the solution when the timer expires and you have not solved it.
-
-The second most common Day 13 mistake is treating Day 13 as a single topic review day (studying linear equations all day) rather than specifically targeting the errors from Day 14's test. If your Day 14 errors were in three different Tier 1 topics, all three should appear in Day 13's review.
-
-DAY 12 EXTENDED NOTES:
-The most common Day 12 mistake is selecting a drill topic based on personal preference (studying quadratics because you find them interesting) rather than error frequency data from Day 14. The drill topic should be determined objectively by which Tier 2 topic produced the most errors on Day 14, not by which topic you enjoy or feel comfortable with.
-
-The second most common Day 12 mistake is attempting to cover multiple Tier 2 topics in the 20-problem drill. Twenty problems spread across four topics produces 5 problems per topic, which is insufficient for the pattern recognition that 20 problems on one topic develops. Focus.
-
-DAY 11 EXTENDED NOTES:
-The most common Day 11 mistake is practicing Desmos techniques on non-representative problems. The techniques should be practiced on actual Digital SAT-format problems (or near-equivalent). Practicing the intersection technique on a straightforward y = 2x problem does not build the fluency needed for the multi-step word problem context where it appears on the actual exam.
-
-DAYS 10 AND 9 EXTENDED NOTES:
-For Day 10 formula review, the most common mistake is passive re-reading of the formula sheet without active self-testing. Passive re-reading creates an illusion of familiarity without building actual retrieval fluency. The self-quiz format (try to recall before seeing the formula) is essential.
-
-For Day 9 careless mistakes review, the most common mistake is creating a list of all possible errors from Article 23 rather than personalizing to your own most frequent errors. A list of 20 possible errors is too long to remember and review effectively on test day morning. The personal shortlist should contain 3 to 4 items, not 20.
-
-DAY 8 EXTENDED NOTES:
-The most common Day 8 mistake is using the same practice test taken on Day 14. The diagnostic value of a practice test depends on it containing questions you have not previously seen. Repeating a test you have already taken will produce unrealistically high accuracy (because you remember some questions) and will not give you useful new error data.
-
-The second most common Day 8 mistake is using Day 8's practice test performance to make drastic changes to the preparation strategy. Day 8 is 7 days before the exam; there is limited time for substantive new learning. Day 8's error analysis should inform Days 6 and 5 (which topics to focus the remaining practice on) but should not trigger a wholesale strategy revision.
-
-DAYS 7 THROUGH 1 EXTENDED NOTES:
-The most common mistake in Phase 2 is violating the no-new-material rule by reading a new article, attempting a new topic, or watching a video about an unfamiliar question type. The psychological temptation to "just check one more thing" in the final week is strong, but it consistently produces anxiety rather than confidence. Trust the preparation that has already been done.
-
-The second most common Phase 2 mistake is allowing the easy problems on Days 7 and 3 to feel "not enough." Students who have been practicing hard problems for weeks may feel that easy problems are insufficient preparation. This feeling is incorrect: the purpose of easy problems in Phase 2 is confidence maintenance, not challenge. Solve them fluently and well; that fluency is preparation.
-
-## The Preparation Confidence Equation
-
-A specific form of test anxiety comes from the gap between what you know and what you feel you should know. In the final two weeks before the exam, this gap often feels largest even if you are well prepared, because awareness of preparation content naturally makes you more aware of preparation gaps.
-
-The counterintuitive truth: feeling like you do not know enough in the final days before the exam is not evidence that you are underprepared. It is evidence that you know enough to recognize what you do not know, which itself reflects preparation. Complete beginners do not feel anxious about SAT Math because they do not know enough to identify the gaps. The anxiety of preparation awareness is a sign of progress, not failure. This reframe is not just comforting psychology; it is logically accurate. You cannot feel anxious about a gap you are not aware of. Awareness of gaps is produced by sufficient preparation to understand what the test requires.
-
-The 14-day plan manages this anxiety through structure. Each day has a specific task that converts vague preparation anxiety into concrete activity. Completing Day 10's formula self-quiz converts "I'm not sure I know the formulas" into "I know these 12 formulas and need to review these 3." That specificity is psychologically grounding. The anxiety of the unknown is replaced by the manageability of the specific.
-
-## What "Trusting Your Preparation" Actually Means on Test Day
-
-Day 1's instruction to "trust your preparation" is not empty encouragement. It has a specific meaning: when you encounter an unfamiliar or difficult question, your first response should be to apply a systematic approach (identify question type, apply known technique, use Desmos if applicable, flag if stuck) rather than panicking about not knowing how to solve it from scratch.
-
-Trusting your preparation means: trusting that the Tier 1 question in front of you is one you have prepared for, even if this specific instance is unfamiliar; trusting that Desmos can solve it graphically if the algebraic approach is not immediately clear; trusting that the flag permission allows you to move on without a penalty; and trusting that a placeholder guess on a question you cannot solve is better than leaving it blank.
-
-Trust is built through preparation, not through positive thinking. Students who have taken two practice tests, reviewed their errors, practiced Desmos, confirmed formulas, and identified their personal careless mistakes have earned the trust. The preparation is real. The evidence is in the Day 14 and Day 8 scores and the daily log.
-
-It does not mean: assuming every question will be easy, assuming you will know every answer immediately, or assuming you will not feel anxious during the exam. It means having a systematic response to difficulty that converts "I do not know how to do this" into "let me apply what I do know and see how far I get."
-
-## How the 14-Day Plan Connects to the Full Article Series
-
-The 14-day plan is designed as the final integration point for the content and strategy preparation described across the 30-article series to date. Each day in the plan references or depends on preparation done in earlier articles.
-
-Days 14 and 8 (practice tests) use the tier system from Article 29 for error analysis.
-Day 13 (Tier 1 review) draws on the content from the Tier 1 articles (Articles 4, 5, 6, 7, 11, 28).
-Day 12 (Tier 2 review and drill) draws on Tier 2 article content (Articles 8, 9, 10, 12).
-Day 11 (Desmos practice) applies the techniques from Article 19.
-Day 10 (formula review) uses the reference sheet from Article 25.
-Day 9 (careless mistakes) applies the error prevention habits from Article 23.
-Day 7 (confidence practice) applies the earn-easy-points-first strategy from Article 26.
-Day 4 (module simulation) applies the three-pass pacing strategy from Article 21.
-Day 1 (test day execution) applies the pacing strategy (Article 21), Desmos (Article 19), non-algebraic techniques (Article 24), and anxiety management (Article 26).
-
-Students who have prepared using the full series will find the 14-day plan straightforward and achievable. Students who have not read all the cross-referenced articles should prioritize Articles 19, 21, 23, 25, and 29 as the minimum reading before beginning the 14-day plan.
-
-## The Post-Exam Review: What to Do After the Test
-
-For students who plan to take the SAT again or who want to understand their performance for future preparation, a brief post-exam review protocol extends the 14-day plan beyond test day.
-
-Immediately after the exam: note, from memory, any question types that were unexpectedly difficult or appeared in formats you had not seen. These are the areas to prioritize in the next preparation cycle.
-
-When scores are released: review the score report's skill area breakdown (if available) to identify domain-level performance gaps. Compare these to your Day 14 and Day 8 error analyses to see whether the practice test error patterns predicted the actual exam performance.
-
-For the next preparation cycle: use the updated Tier 1 and Tier 2 error data from the actual exam to refocus preparation. Apply the same tier system and 14-day plan structure for the subsequent exam, with updated baseline data.
-
-The iterative nature of the preparation and exam cycle means that each exam attempt produces better diagnostic data for the next preparation period. Students who analyze their actual exam performance systematically improve more efficiently across multiple attempts than students who re-prepare generically.
-
-For any student who is preparing for their first SAT: the 14-day plan is the beginning of the process, not the end. Whether you take the SAT once or multiple times, the systematic approach of taking a test, analyzing errors by tier, and targeting specific gaps will serve you across every attempt.
-
-## Final Notes: The Non-Negotiable Elements
-
-If the full 14-day plan cannot be followed exactly due to scheduling constraints, the following elements are non-negotiable and should be preserved even if other days are compressed or modified.
-
-NON-NEGOTIABLE 1: At least one full practice test before the exam, with systematic error analysis using the tier system. The diagnostic is the minimum foundation of any final preparation strategy.
-
-NON-NEGOTIABLE 2: Day 2 rest. No studying the day before the exam. Rest has a larger positive impact on test day performance than any equivalent time of additional preparation in the final 24 hours.
-
-NON-NEGOTIABLE 3: The no-new-material rule in the final 7 days. Whatever knowledge is in place by Day 7 is the knowledge that will be available on test day. Adding new material in the final week creates anxiety without improving performance.
-
-NON-NEGOTIABLE 4: Placeholder guess on every multiple-choice question. No blank multiple-choice answers on the actual exam. This is worth an average of 0.25 points per blank question and costs nothing. Over 22 questions per module, even 5 blank questions represent 1.25 expected points left on the table for free. The no-blank rule is the cheapest possible score improvement available.
-
-NON-NEGOTIABLE 5: The personal careless mistake list, reviewed once on test day morning. Three to four specific items that represent your most common errors, read in 30 seconds before entering the exam room. The careless mistake list works through priming: reading the specific errors you tend to make immediately before the exam increases their salience during the exam, making you more likely to catch them in the moment rather than realizing the error after submitting.
-
-These five elements constitute the minimum viable version of the 14-day plan for students with severely constrained schedules. A student who takes one practice test with error analysis, rests the day before the exam, avoids new material in the final week, guesses on all unanswered questions, and reviews their personal mistake list will perform better on the actual exam than if any of these elements were omitted. Of the five, the rest day and the no-new-material rule produce the largest impact for the least preparation effort, making them the most important for students who must prioritize.
-
-## Calibrating Expectations: What the 14-Day Plan Can and Cannot Do
-
-The 14-day plan is a powerful tool for score improvement, but understanding its limits helps set realistic expectations. Students who enter the 14-day plan with realistic expectations make better decisions throughout: they focus on the achievable improvements rather than the unachievable ones, they apply the plan's structure rather than adding supplementary activities that violate its principles, and they experience less test-day disappointment because their expectations matched the preparation they did.
-
-WHAT THE PLAN CAN DO:
-Consolidate existing preparation: the plan is most effective for students who have spent weeks or months preparing before the final two-week period. It takes that preparation and refines, confirms, and optimizes it for peak test-day performance. A useful analogy: think of prior preparation as building a structure and the 14-day plan as inspecting, reinforcing, and finishing it before the critical test. The structure was built earlier; the plan ensures it is as strong as possible when it needs to be.
-
-Target specific remaining gaps: the two practice tests identify where errors are concentrated, and Days 13 and 12 address those specific gaps. This targeted approach is more efficient than generic review.
-
-Optimize execution habits: Desmos fluency, pacing, and careless error prevention are all addressed in the plan. These execution improvements often produce score gains that content preparation alone cannot.
-
-Build test-day confidence: the structured, successful practice in Phase 2 (Days 7 through 3) builds the execution rhythm and confidence that converts preparation into performance.
-
-WHAT THE PLAN CANNOT DO:
-Teach foundational content from scratch: a student who has never studied quadratic equations cannot learn them reliably in 14 days (though some surface-level exposure is possible). This is why the plan begins with a diagnostic (Day 14) that reveals what is and is not prepared. Students who discover significant foundational gaps on Day 14 should adjust the plan toward more content learning in Phase 1, accepting that Phase 2 will have less preparation depth but still prioritizing the rest day.
-
-Eliminate all anxiety: anxiety management is addressed in the plan, but exam anxiety cannot be fully eliminated by any two-week protocol. The goal is management, not elimination.
-
-Guarantee a specific score outcome: scores are influenced by preparation level, but also by the specific questions on the administered test, the exam day environment, and random variation. The plan maximizes the probability of a strong performance; it does not guarantee any specific outcome.
-
-Recover from complete non-preparation: a student who has not studied any SAT Math content before Day 14 will see smaller gains from the 14-day plan than a student with prior preparation. The plan assumes at least some existing foundation to consolidate.
-
-## Psychological Preparation: The Mental Game in the Final Two Weeks
-
-The 14-day plan addresses the psychological dimension of test preparation explicitly and intentionally. The specific psychological elements of each phase are worth understanding.
-
-PHASE 1 PSYCHOLOGY (Days 14 through 8):
-The primary psychological challenge of Phase 1 is managing anxiety triggered by the practice test results and error analysis. Every student's Day 14 diagnostic will reveal gaps. The correct response to those gaps is targeted action (Days 13 and 12), not rumination or catastrophizing.
-
-A useful reframe for the Phase 1 error analysis: every error identified on Days 14 and 13 is an error that will not be repeated on the actual exam. The process of identifying and reviewing errors is converting test day mistakes into practice test mistakes. Each practice test mistake that is analyzed and corrected is a future test day mistake that no longer exists.
-
-The emotional discipline of Phase 1 is this: look at the Day 14 score and error list with the eyes of a strategist, not a judge. A strategist sees information and plans next steps. A judge sees a verdict and reacts emotionally. The 14-day plan requires the strategist perspective.
-
-Building the strategist perspective is itself a preparation skill. Students who practice it during Phase 1, by deliberately redirecting emotional reactions into action steps, are also building the mindset they will use on test day when encountering a difficult question. The flag mechanism, the placeholder guess, and the move-forward attitude are all expressions of the same strategist mindset: assess, act, advance. The 14-day plan, followed consistently, instills this mindset as a habit rather than a conscious choice.
-
-PHASE 2 PSYCHOLOGY (Days 7 through 1):
-The primary psychological challenge of Phase 2 is resisting the urge to continue intensive preparation. In the final days before a high-stakes exam, the anxiety often presents as "I need to study more, I am not ready." This feeling is present in most students regardless of how prepared they are.
-
-The key cognitive distinction: "I do not feel ready" is not the same as "I am not ready." Feelings of unreadiness are driven by anxiety about the exam outcome, not by an accurate assessment of preparation quality. Students who follow the full 14-day plan are more prepared than they feel. The structure of Phase 2 is designed specifically to provide grounding (the review sessions are real and confirming), while also protecting the rest that exam performance requires.
-
-THE NIGHT BEFORE PSYCHOLOGY:
-The night before the exam is the psychological peak of the pre-exam period. Many students report lying awake worrying about the exam. Recommendations: establish a consistent wind-down routine, limit exposure to screens in the hour before sleep (blue light disrupts melatonin), and if anxious thoughts arise, redirect them to process-focused statements ("I have prepared. Tomorrow I will apply what I know.") rather than outcome-focused thoughts ("I hope I do well. What if I fail?").
-
-## Adapting the Plan for Students Taking Both the Math and Reading/Writing Sections
-
-The 14-day plan focuses on SAT Math. Students who are also preparing for the Reading/Writing section need to integrate both preparation plans within the same 14 days.
-
-A combined approach for students preparing both sections:
-Day 14: Take a full SAT practice test (all sections, including Reading/Writing and both Math modules). Score and analyze errors for both. The full test takes approximately 3 hours, which requires planning for a longer Day 14 session than the Math-only version.
-Days 13 and 12: Split the session. First 30 minutes on Math Tier 1 errors; next 30 minutes on Reading/Writing errors.
-Day 11: Desmos practice for Math; Reading/Writing technique review for the other half.
-Days 10 and 9: Split between formula review (Math) and grammar/rhetoric review (Reading/Writing).
-Day 8: Take a second full SAT practice test. Compare both section error patterns.
-Days 7 through 1: Follow the Math-focused plan but integrate Reading/Writing consolidation at 30 percent of each session's time.
-
-The key principle for combined preparation: Tier 1 Math topics and the highest-frequency Reading/Writing question types take precedence in both phases. Time allocation should be roughly proportional to where each student's score improvement potential is highest.
-
-## The 14-Day Plan for Students Retaking the SAT
-
-Students who are retaking the SAT have a specific advantage: they have already experienced the actual exam conditions, which provides information that first-time test-takers do not have.
-
-HOW TO USE PREVIOUS EXAM DATA:
-If you have a score report from a previous administration: use it alongside the Day 14 practice test to identify persistent error patterns. Topics that appeared in the previous exam score report as weak areas and that also produced errors on Day 14's practice test are persistent weaknesses that deserve the most focused attention in Days 13 and 12.
-
-PACING AND FORMAT FAMILIARITY:
-Students retaking the SAT already know what the testing environment feels like. They can apply their knowledge of how they actually performed under real exam conditions (did they run out of time? did anxiety impair performance on specific question types?) to customize the 14-day plan further.
-
-THE DIMINISHING RETURNS AWARENESS:
-Students who have taken the SAT multiple times sometimes feel that each additional attempt produces smaller gains because "everything has already been tried." The tier system and error analysis approach in this plan often reveals specific, addressable gaps that have not been addressed in previous preparation cycles, providing the specificity needed for continued improvement.
-
-## Using the Day 14 Practice Test as a Full Diagnostic Tool
-
-The Day 14 practice test provides more information than just a score and an error list. A thorough diagnostic uses the full data available.
-
-TIMING DATA: Note how long you spent on each module. If Module 1 took 32 of 35 minutes, you are using time efficiently. If it took 28 minutes, there may be room to invest more time on harder questions. If it took the full 35 minutes and you ran out of time before completing all questions, pacing is a priority for Days 11 and 4. A useful internal benchmark during the actual test: at the halfway point (question 11 of 22), approximately 17 to 18 minutes should have elapsed. If you are at question 11 with 10 or fewer minutes remaining, you have been spending too long on individual questions and the flag rule needs to be applied more aggressively for the second half.
-
-MODULE PERFORMANCE COMPARISON: Compare your Module 1 and Module 2 accuracy rates separately. If Module 1 accuracy is much lower than expected (fewer than 12 correct), Tier 1 mastery needs attention. If Module 1 is strong but Module 2 is weak, the Tier 2 content drives the remaining improvement.
-
-ERROR TYPE DISTRIBUTION: Categorize errors by type across the full test. If more than half of errors are careless errors (you knew how to do the problem but made a mistake), the careless error prevention habits from Article 23 are the primary intervention. Students who discover a high careless error rate often find this more frustrating than a content gap because they feel they 'should have' gotten those questions right. The practical response is not frustration but the systematic application of the 5-second final check habit from Article 23 on every answer before moving to the next question. If most errors are content gaps, the Tier 1 and Tier 2 review days are the primary intervention. If most errors are time-related (unflagged, unattempted, or rushed), pacing is the primary intervention.
-
-PATTERN IDENTIFICATION: Look for unexpected patterns. Did you get all scatter plot questions right but miss all percentage questions? Did you answer hard questions correctly but miss some easy ones (suggesting careless errors on questions you under-estimated)? These patterns are more actionable than aggregate totals.
-
-The Day 14 practice test is a rich dataset. Students who spend 30 to 45 minutes fully analyzing it will build a much more targeted preparation plan than students who scan the results for 5 minutes.
-
-## Emergency Protocol: When There Are Only 3 Days Left
-
-If you discover this plan with only 3 days before the exam and have done minimal preparation:
-
-Day 3: Take one full timed practice test. Score it. Spend 20 minutes identifying which question types you can reliably answer (your personal Tier 1). These become the focus of the next day.
-
-Day 2: Do 15 to 20 problems in the question types you can reliably answer. Review your careless mistake list. Confirm logistics. Stop at 45 minutes. Sleep 8 hours.
-
-Day 1: Light review of your personal mistake list. Arrive early. Apply three-pass pacing. Flag hard questions immediately without hesitation. Guess on everything.
-
-The 3-day emergency protocol produces less improvement than the full 14-day plan, but it still achieves three important things: it confirms which question types are available for reliable correct answers, it reduces anxiety through a structured practice session, and it ensures the most critical execution habits (guessing, pacing, careless error check) are active on test day. Any structured preparation, however compressed, is better than no preparation at all. The enemy of good preparation is not imperfect preparation; it is the paralysis that says 'I don't have enough time so I won't start at all.'
-
-## Integrating the 14-Day Plan With Other Life Commitments
-
-Most students taking the SAT are also managing school, extracurriculars, family commitments, and other responsibilities. The 14-day plan is designed to be completable within 30 to 60 minutes per day, which is achievable for most students even with full schedules.
-
-SCHEDULING STRATEGY:
-Identify your 14 most consistently available 30-to-60-minute windows in the days before the exam. Schedule each day's task in those windows before the 14-day period begins.
-
-WHAT TO PROTECT:
-Sleep takes precedence over additional study time. Any day where additional preparation would come at the cost of adequate sleep should preserve the sleep.
-Day 2 rest is non-negotiable. Whatever else is happening on Day 2, no academic preparation.
-
-WHAT TO COMPRESS IF NECESSARY:
-Days 6 and 5 (medium problems and Desmos speed) can be combined into one 45-minute session if a day is unavailable.
-Day 3's light review can be shortened to 20 minutes if the day is very busy.
-Days 13 and 12 can be combined if the Day 14 error list is short (fewer than 5 total errors to review).
-
-The plan is designed to be flexible within its core structure. The non-negotiable elements (practice tests, error analysis, no new material after Day 7, rest on Day 2) should not be compressed. Everything else can adapt to the realities of your schedule. If a given day's preparation must be shortened to 20 minutes due to other obligations, do the most critical part of that day's task at a faster pace rather than skipping the day entirely. Twenty minutes of focused preparation beats zero minutes in every case.
-
-## Tracking Progress Across the 14 Days
-
-The 14-day plan produces measurable progress if tracked correctly. The following tracking system converts the qualitative experience of preparation into quantitative evidence of improvement.
-
-DAILY TRACKING LOG:
-Maintain a simple log with one line per day. Record: date, day number, task completed, accuracy rate (if applicable), and a one-sentence note on what to adjust for tomorrow.
-
-Example log entries:
-Day 14: Practice test taken. Score: 550. 6 Tier 1 errors (linear equations 2x, percentage 2x, scatter plot 2x). 4 Tier 2 errors (quadratics 2x, exponentials 2x). Focus Days 13 and 12 on linear equations and quadratics.
-Day 13: Redid 6 Tier 1 errors. Got 4 correct on redo. 2 still wrong (both percentage word problems). Will include percentage drill in Day 12.
-Day 12: 20 quadratic problems + 10 percentage word problems. Accuracy: 17/20 quadratics (85%), 8/10 percentage (80%). Good progress on quadratics; percentages need 5 more minutes tomorrow if time allows.
-Day 11: 45-minute Desmos session. Intersection technique: under 20 seconds. Zeros technique: 35 seconds (a bit slow). Will focus on zeros speed in Day 5 drill.
-Day 10: Formula self-quiz. Not automatic: vertex formula, percent change denominator, arc length. Wrote each out 5 times. Will add brief review to Day 9 session.
-
-This type of log takes 3 to 5 minutes per day to maintain and produces a clear record of what was prepared, what improved, and what still needs attention. It also serves as evidence of preparation effort, which is itself psychologically grounding on test day: "I have 14 days of logged practice behind me."
-
-WEEKLY BENCHMARK:
-After Day 8's practice test, compare the Day 8 score to the Day 14 baseline. Calculate the improvement. Even a 20-point improvement after one week of targeted preparation confirms that the plan is working and provides a foundation for the Phase 2 consolidation.
-
-## The Science Behind the Two-Phase Structure
-
-The two-phase structure of the 14-day plan (active learning in Phase 1, consolidation in Phase 2) is grounded in cognitive science research on learning and memory.
-
-THE SPACING EFFECT:
-Memory retrieval is strengthened by spaced practice over time, not by massed practice (cramming). The 14-day plan provides spaced practice by returning to the same content across multiple sessions (Tier 1 content appears on Days 14, 13, 7, and in the Day 4 module simulation). This spacing produces stronger long-term retention than a single intensive session.
-
-THE TESTING EFFECT:
-Testing oneself on material strengthens memory more than re-reading that material. This is why the plan uses practice tests, self-quizzes (Day 10 formula review), and redo-without-solution protocols (Days 13 and 12) rather than passive re-reading of notes or articles.
-
-THE CONSOLIDATION WINDOW:
-Memory consolidation (the process by which newly learned information becomes stable long-term memory) occurs primarily during sleep and in the hours following learning. The Phase 2 structure, which reduces new learning and increases sleep time, optimizes the consolidation window for the content learned in Phase 1.
-
-PRE-PERFORMANCE REST:
-Research on athletic and academic performance consistently shows that performance peaks after rest periods. The rest day (Day 2) and the light preparation on Day 3 provide the recovery needed for peak cognitive performance on Day 1. This is directly analogous to athletic taper periods: athletes reduce training volume before competitions to allow physiological and psychological recovery. The two-phase SAT preparation plan incorporates the same principle: intensive preparation followed by a taper period that allows the preparation to consolidate before the performance event.
-
-Understanding these mechanisms explains why the 14-day plan's specific structure produces better results than alternative approaches. A student who studies intensively every day until test day, with no rest period, violates both the consolidation window principle and the pre-performance rest principle, producing lower performance than their preparation level would suggest. The science validates the plan's structure. The structure is not arbitrary: every element, including the rest periods that feel unproductive, is earning returns on the preparation investment made in the prior weeks.
-
-## Common Questions About the Transition at Day 7
-
-Day 7's transition (from active learning to consolidation) is the most frequently questioned element of the 14-day plan. The following questions address the most common concerns.
-
-"What if I have not finished learning everything I need to by Day 7?"
-If substantial content gaps remain at Day 7, they were present before the 14-day period began. The 14-day plan cannot substitute for months of prior preparation. If significant gaps remain on Day 7, briefly acknowledge them, focus on the content you do know, and apply the pacing strategy's flag rule to the question types that correspond to unprepared topics. Guessing on a topic you do not know well still yields 25 percent expected value.
-
-"Can I make an exception to the no-new-material rule if I have a specific gap?"
-One very narrow exception applies: if a Tier 1 topic is completely absent from your preparation (not a gap but a total blank), spending 20 minutes on the most essential concept in that topic (e.g., the slope formula and how to use it) on Day 7 is justifiable. However, this narrow exception requires honest assessment of whether the topic is genuinely completely absent or whether it is a gap that feels like absence. If you can solve any problems in the topic area, it is a gap, not an absence, and the no-new-material rule applies.
-
-"What if a Day 7 easy problem session reveals a new gap I had not noticed before?"
-Note the gap and decide whether to address it in the remaining Phase 2 days (Days 6 through 4 include focused practice sessions that can accommodate one additional topic) or to accept it as an area where you will apply the guessing strategy on test day. Do not panic about a newly identified gap on Day 7; it has been present throughout preparation and will not be fully resolved in 5 days. The appropriate response to a Day 7 gap discovery is proportional: spend 15 to 20 minutes on the most essential aspect of that topic, then move on. It is not grounds for a full Phase 1 restart.
-
-## Final Countdown: Hour-by-Hour Guide for Test Day Morning
-
-The period between waking up and entering the exam room benefits from a specific routine that has been rehearsed (even briefly) in the days before.
-
-90 MINUTES BEFORE START TIME:
-Wake up. Eat breakfast. The goal is to be fully awake and physically comfortable by the time you enter the exam room. A normal breakfast, eaten 60 to 90 minutes before the exam begins, is the right timing for most students.
-
-60 MINUTES BEFORE START TIME:
-Review your personal careless mistake list (3 to 4 items, 30 seconds). Do not review formulas or articles; this is not preparation time. Gather your materials: valid ID, permitted materials, snack if applicable.
-
-30 MINUTES BEFORE START TIME:
-Travel to the test center. Arrive with time to spare. Standing in line or sitting in a waiting area is normal; use this time for slow breathing and light physical movement, not frantic review.
-
-10 MINUTES BEFORE START TIME:
-Find your assigned seat. Take 3 slow breaths. State your preparation commitments: the three-pass strategy, Desmos is available, no blank answers, flag and move on when stuck.
-
-AT THE START OF THE MATH SECTION:
-Read the first question. Identify whether it is Tier 1 or Tier 2. Apply the appropriate technique. Use Desmos if it provides a time advantage. The first five questions should be the most familiar; they are designed to be accessible and to build confidence for the module. Treat questions 1 through 5 as a warm-up: familiar territory, fast resolution, forward momentum. Get your first five correct answers quickly and carry that momentum into the harder middle section.
-
-If the first question is unexpectedly difficult: flag it, guess, move on. A single difficult opening question is not representative of the whole module and should not affect your confidence. This happens occasionally; it is not a sign that the exam is harder than expected. The three-pass strategy handles this automatically: flag, placeholder, advance. The system is designed for exactly this situation.
-
-## The Complete 14-Day Checklist: Printable Version
-
-The following checklist can be printed and used as a daily reference throughout the two-week preparation period. Check each item as completed.
-
-PHASE 1: ACTIVE PREPARATION (Days 14 through 8)
-
-[ ] Day 14: Full timed practice test (both Math modules). Score the test. Complete error analysis: tier, topic, error type for every incorrect answer.
-
-[ ] Day 13: Redo every Tier 1 error from Day 14 without looking at solutions first. Review solutions only for questions still wrong after redo. Identify specific conceptual gaps.
-
-[ ] Day 12: Redo every Tier 2 error from Day 14. Complete 20-problem drill on weakest Tier 2 topic from Day 14 analysis.
-
-[ ] Day 11: 30 to 45-minute Desmos session. Practice 5 core techniques. Target under 30 seconds per technique.
-
-[ ] Day 10: Formula self-quiz from Article 25. Mark non-automatic formulas. Write out non-automatic formulas 5 times each.
-
-[ ] Day 9: Careless mistakes review from Article 23. Build personal mistake list (3 to 4 items). Practice 10 problems watching specifically for personal error types.
-
-[ ] Day 8: Second full timed practice test (different test from Day 14). Score and analyze errors. Compare to Day 14. Confirm improvement in Tier 1 accuracy.
-
-PHASE 2: CONSOLIDATION (Days 7 through 1)
-
-[ ] Day 7: STOP LEARNING NEW MATERIAL. Review remaining formula gaps (10 minutes). Work through 15 easy problems from known topics.
-
-[ ] Day 6: 15 medium problems on persistent weakest area from Days 14 and 8 error patterns. Use Desmos where applicable.
-
-[ ] Day 5: 10 Desmos speed problems. Time each one. Target under 45 seconds. Note techniques still over 45 seconds.
-
-[ ] Day 4: 22-question module simulation under 35-minute timer. Apply three-pass strategy explicitly. Review flagged questions after 35 minutes.
-
-[ ] Day 3: Re-read formula sheet (10 minutes). Work through 10 mixed easy problems at comfortable pace. Stop at 40 minutes.
-
-[ ] Day 2: NO STUDYING. Confirm test center logistics. Pack bag. Set multiple alarms. Sleep 8+ hours.
-
-[ ] Day 1 (test day): Light breakfast. Review personal mistake list once (30 seconds). Arrive 30 minutes early. Apply three-pass strategy. Use Desmos. Never leave a multiple-choice answer blank.
-
----
+The plan above is that engineering written out, fourteen days with one job each, ending with a morning routine simple enough to run on autopilot. Print it, follow it, and reserve your judgment for the items rather than for second-guessing the schedule. For the verbal side of the same final stretch, the companion [reading and writing final two weeks countdown](/1996/12/07/sat-rw-last-2-weeks-checklist/) mirrors this logic for the other section, and the two together cover the whole runway to the date.
 
 ## Frequently Asked Questions
 
-**Q1: What if I start this plan with fewer than 14 days remaining?**
+### What should I do in the last two weeks before the SAT math?
 
-Adapt proportionally. With 10 days: prioritize Days 14, 13, 12, 8 (the practice tests and error review), then Days 11, 10, 9 (Desmos, formulas, mistakes), then 7, 6, 5 (consolidation), then 4, 3, 2, 1. With 7 days: take one practice test on Day 7, do one day of error review, one day of formula/Desmos review, one light day, one rest day, then test day. With fewer than 7 days, focus exclusively on the consolidation phase: formula review, Desmos speed, your personal careless mistake list, and rest. The key insight for condensed timelines: the two practice tests and the rest day are the highest-value elements that should be preserved even under severe time constraints. If only three activities are possible, take a practice test, do error analysis, and rest the day before the exam.
+In the final fortnight, shift from learning to consolidation and tapering. Open the window with a full timed assessment and sort every miss by difficulty tier and failure mode, then spend the first week repairing the highest-frequency leaks first, rehearsing your calculator moves, confirming off-sheet formulas, and auditing your careless-error patterns. At the one-week mark, stop opening any new content entirely, because a topic learned this late stays fragile and helps less than the reliable skills it crowds out. Across the final stretch, taper deliberately: lighter review each day, a single timed module simulation around five days out, confirmed logistics, and no studying at all the day before. The goal is to arrive with skills warm and mind fresh. You are not adding knowledge in these days, you are protecting what you already have and arranging it to fire cleanly under timed pressure on the morning that counts.
 
-**Q2: Can I substitute a different practice test for the official College Board tests?**
+### Should I study new math material the week before the SAT?
 
-The official College Board Bluebook practice tests (Practice Tests 1 through 8) are strongly preferred. They represent the most accurate simulation of the actual Digital SAT in terms of question format, difficulty calibration, and adaptive scoring. Third-party practice tests vary in quality and some introduce question formats not representative of the actual exam. If official tests are not available, use the highest-quality third-party tests available (Khan Academy's SAT practice is aligned with College Board content). A secondary consideration for choosing between the 8 official practice tests: reserve the most recently released practice tests (higher numbers) for the closest diagnostic days (Days 14 and 8) because they most closely reflect current administration question formats.
+No. Draw a hard line at the one-week mark and open no new content past it. The reasoning is mechanical rather than motivational: a topic introduced inside the final week cannot move from fragile to reliable in time, and fragile knowledge is a liability on the day, because it breeds hesitation and a false confidence that lures you into attempting items you should have flagged and skipped. Worse, the hours spent on new material are hours not spent keeping your reliable skills warm, so late cramming usually nets out negative, trading a shaky maybe for a sure thing you let go stale. Spend the final week instead on consolidating content you already know: extinguishing any high-frequency miss that survived your repair work, polishing your strongest growth area, and rehearsing pace. If a rare topic is still a gap one week out, the rational move is to accept it as a flag-and-skip on the day rather than to chase it.
 
-**Q3: What if my Day 8 score is lower than my Day 14 score?**
+### How do I structure a 14-day SAT math countdown?
 
-First, do not panic. Score variation of 20 to 50 points between practice tests is normal and does not indicate that preparation is failing. Identify the specific questions missed on Day 8 that were answered correctly on Day 14. If the errors are on topics you prepared in Days 13 and 12, this is likely test-to-test variation rather than a preparation problem. If the errors cluster on a new topic area, that topic needs additional review in the remaining days. If the Day 8 score is 80 or more points below Day 14, this is a more significant divergence that warrants closer investigation. Common causes of large score drops between practice tests: severe time pressure (running out of time on Day 8 but not Day 14), test anxiety (harder to manage without the routine of earlier preparation sessions), or significantly different topic distribution between the two tests (one test happened to have more of your weak topics).
+Front-load diagnosis and repair, draw a hard line against new content at the one-week mark, then taper. The first day is a full timed assessment whose real output is an error map sorting misses by tier and failure mode. The next days repair the highest-frequency leaks first, then the growth-band topics, then rehearse the embedded calculator, confirm the formulas the on-screen sheet omits, and audit your careless-error patterns. A second full assessment around the halfway point confirms what the repair fixed and what still leaks. At seven days out, stop all new content and switch to consolidation: rhythm sets, one timed module simulation, light targeted review, and confirmed logistics. The final three days descend from light review to a brief warm-up to no studying at all, ending with a simple test-morning routine. The structure works because the decisions are made in advance, leaving your judgment free for the items rather than for the schedule.
 
-**Q4: Should I review problems I answered correctly during the practice tests?**
+### When should I take my final practice test before the SAT?
 
-Generally no. Reviewing correct answers consumes time that is better spent on incorrect answers. An exception: if you answered a problem correctly but used a very slow method, briefly consider whether a faster approach (Desmos, backsolving, plug-in from Article 24) would have been more efficient. This review is about technique optimization, not error correction. A practical time limit: spend a maximum of 5 minutes reviewing correct answers across the entire practice test review session. The remaining 25 to 40 minutes of the review should be devoted to incorrect answers.
+Take your last full timed assessment about a week out, not in the final days. The plan places a second full assessment around the seven-to-eight-day mark, both to confirm that your week of repair fixed the leaks it targeted and to produce a short final priority list. A single timed module simulation, not a full assessment, fits around five days out as a pace rehearsal. Taking a full test inside the last seventy-two hours is a mistake, because it taxes you when the taper calls for rest and it tempts you to chase a single noisy number into panic cramming. The closer you get to the date, the less you should test and the more you should rest. If your runway is short, protect the final three days as taper days regardless, and compress the assessments into the earlier part of the window rather than pushing them late.
 
-**Q5: How do I choose which official practice test to use on Day 14 vs Day 8?**
+### What should I do the day before the SAT math?
 
-Use a test you have not previously taken for each diagnostic. If you have already taken some of the 8 official practice tests during earlier preparation, reserve two fresh ones for Days 14 and 8. The diagnostic value of a practice test is highest when it contains questions you have not seen before; a test you have already taken will produce an inflated score and inaccurate error analysis. If you have already taken all 8 official practice tests, use the one taken longest ago for Day 14 (you are least likely to remember those questions) and the second-oldest for Day 8. Record which tests you have taken and when to make this selection systematic.
+Do not study the quantitative section at all. Not a problem, not a formula, not a flashcard. A last-minute cram cannot add reliable skill this late and can easily disturb the rest you need, so the day before is for recovery and readiness rather than review. Keep the day normal and restful, with ordinary meals, light activity if it relaxes you, and an early enough night to bank real sleep, which is the most performance-relevant variable left in your control. Run through your written morning plan once, confirm the admission ticket, identification, and backup calculator are packed, and then set the exam aside deliberately. Anxiety in the final hours is normal and does not predict a poor result, but feeding it with frantic review makes it worse while a calm evening lets it settle. You spent two weeks building exactly the readiness this day is meant to preserve, and preserving it is the entire assignment.
 
-**Q6: What should I do if Day 11's Desmos session reveals I am significantly slower than 30 seconds per technique?**
+### How do I taper my studying before test day?
 
-Schedule a supplementary Desmos practice session on Day 10 or 9 (shifting the formula and mistakes review to the alternate day). The Desmos speed target is realistic with practice: most students who have used Desmos regularly can reach under 30 seconds per technique within one focused session. If persistent slowness after two sessions suggests a deeper technique knowledge gap, refer back to Article 19 for the specific technique causing the problem. Identify whether the slowness is in the setup step (getting the equation typed) or the execution step (interpreting the Desmos output). Setup slowness improves with typing practice; execution slowness requires re-reading the technique instructions.
+Tapering means scaling the work down on purpose across the final stretch so you arrive warm but fresh. Concretely, the last three days descend in steps: a light review of formulas and cures three days out, a brief warm-up of a few clean easy items two days out, and no studying at all the day before. Each step down is deliberate. The logic is that timed performance depends not only on what you know but on the state of the system executing it, and that system degrades with fatigue and recovers with rest. The careless slips that cost the most points are fatigue-sensitive, caught by a rested mind and missed by a tired one, so the taper directly protects your accuracy. It will feel, after months of daily study, uncomfortably like doing nothing, but doing nearly nothing on purpose in these final days is doing exactly the right thing. Trust the descent rather than fighting it.
 
-**Q7: Is it necessary to use Bluebook for the practice tests, or can I use paper?**
+### How many practice tests should I take in the final two weeks?
 
-Bluebook is strongly preferred because: (1) the Digital SAT is administered on a screen, and practiced screen-reading habits are different from paper reading; (2) Desmos is only available in the Bluebook environment, and practicing without it does not simulate the real exam experience; (3) the adaptive module routing in Bluebook provides a more accurate simulation of the actual exam structure. Paper practice tests are acceptable if Bluebook is unavailable, but all Desmos techniques should be practiced separately. A hybrid approach that works: use paper for the problem set, but open a Desmos window simultaneously and practice using it for any question where it would provide a time advantage. This combines the ease of paper with the Desmos practice that Bluebook provides natively.
+Two full timed assessments, plus one shorter timed module simulation, is the right volume. Place a full assessment at the very start of the window to build your initial error map, and a second around the one-week mark to confirm what your repair fixed and to set a final priority list. Around five days out, a single thirty-five-minute timed module rehearses pace without the strain of a full test. More than this is counterproductive, because additional full tests in a two-week window eat the energy the taper is meant to preserve and tempt you to chase noisy score swings. Practice numbers wobble for reasons unrelated to ability, so piling on tests to watch the number move is a trap. The assessments exist to diagnose and to rehearse rhythm, not to generate a stream of scores, and once they have done that job, more testing subtracts from your readiness rather than adding to it.
 
-**Q8: What if I have a major commitment on Day 6 or Day 5 and cannot complete the planned task?**
+### What should test-day morning look like for SAT math?
 
-Shift the schedule by one day for the remaining tasks. The relative sequencing of the tasks matters more than the specific day numbers: practice tests first, error review second, skill maintenance third, light review and rest last. If a task must be skipped entirely, the highest-priority tasks to preserve are the two practice tests (Days 14 and 8), the Desmos practice (Day 11), and the rest period (Days 2 through 3). The tasks most replaceable if skipped: Day 5 Desmos speed drill (can be partially replaced by Day 4's module simulation) and Day 6 medium problems (can be partially replaced by Day 4's simulation review). The practice tests and the rest day are not replaceable.
+Aim to arrive warm, calm, fed, and unhurried, running a routine simple enough to execute on autopilot. Wake with enough margin that nothing is rushed and eat a real breakfast with protein and something slow to digest rather than only sugar, because a stable blood-sugar curve sustains attention across two sections far better than a spike that crashes mid-module. Arrive early enough that traffic or parking cannot rattle you, with everything packed the night before. A light cognitive warm-up helps and over-preparation hurts: solving two or three easy items on the way wakes the quantitative part of your mind the way a runner does a few strides before the gun, so the first real item does not catch you cold. Keep the warm-up easy and clean, never hard or new, because its job is to switch the machine on, not to test it. Once the section starts, fall into the rehearsed rhythm: certain points first, flag and return, let the calculator do its fast work, and reread the final line before committing.
 
-**Q9: How should I handle the formula self-quiz on Day 10 if I find many formulas are not automatic?**
+### How do I use my error analysis in the final review?
 
-Prioritize the first-tier formulas (slope, quadratic formula, vertex formula, discriminant, percent change, conditional probability) over all others. If many first-tier formulas are not automatic, focus exclusively on those for Day 10 rather than attempting to review all formulas. It is better to solidify 5 to 6 critical formulas than to partially review all 60 to 70 formulas. Second-tier formulas (distance, midpoint, circle equation, arc length) should be reviewed only after first-tier formulas are confirmed. If even the first-tier formulas are not automatic by Day 10, add a supplementary 10-minute formula session to Day 9 after the careless mistakes review. These two reviews (formulas and mistakes) can be combined into a single 45-minute session without conflicting.
+Your error analysis is the engine that drives the whole plan, so treat it as a structured map rather than a vague sense of weakness. After each timed assessment, write every miss on its own line and record three things: the topic, the difficulty tier, and the failure mode. The tier tells you how much a fix is worth, since a high-frequency easy miss bleeds points constantly while a rare hard miss may be worth skipping in a two-week window. The failure mode tells you what the fix actually is: a conceptual gap points to formula or topic review, a method gap points to calculator rehearsal, and an execution slip points to your careless-error cures rather than to any study list. Sort the whole pile this way and you get a prioritized to-do list: which fires to fight first, which growth areas to drill, which curiosities to abandon, and for each whether the cure is concept, method, or care. That sorted map, not the raw score, is what your repair days act on.
 
-**Q10: Should Day 3 include timing, or should I work through the 10 problems at my own pace?**
+### Should I rest completely the day before the SAT?
 
-Day 3 problems should be done at a comfortable pace, not strictly timed. The goal of Day 3 is rhythm and confidence, not challenge or time pressure. Working at a comfortable pace produces a positive, successful experience that psychologically primes Day 2 rest and Day 1 performance. If timing 10 easy problems sounds appealing and not stressful, add a loose time guideline (aim for under 30 minutes for all 10) but do not treat it as a strict constraint. The key Day 3 guideline: stop at 40 minutes regardless of whether you feel done. The diminishing returns of additional preparation time on Day 3 are steep, and the rest benefit of stopping early is real.
+Yes, rest from studying the quantitative section completely, while keeping the day otherwise normal. Complete rest from review does not mean lying in bed all day, which can leave you restless and anxious, but it does mean closing the books on the exam entirely: no problems, no formulas, no flashcards. The work that mattered is already done, and the most productive thing you can do now is protect the rest that lets it show. Keep ordinary routines, eat normally, do something light and relaxing, and get to bed early enough to bank real sleep, since sleep is the single most performance-relevant variable still in your control. If nervous energy needs an outlet, a short walk serves you far better than a problem set. The temptation to do "just a little" review is strong and it is wrong, because it cannot add reliable skill this late and can easily disturb the recovery you need for clean execution on the day.
 
-**Q11: What is the single most important day in the 14-day plan?**
+### How do I build rhythm with easy problems before the test?
 
-Day 14: the first practice test and error analysis. Every subsequent day in the plan is shaped by the information gathered on Day 14. A student who takes the Day 14 practice test carelessly or skips the error analysis will not know which specific gaps to address on Days 13 and 12, making the entire subsequent plan generic rather than personalized. The Day 14 diagnostic is the foundation of the whole two-week strategy. The runner-up for most important day: Day 2 (rest day). The cognitive benefit of Day 2 rest is immediate and guaranteed; the score benefit of any equivalent time spent studying on Day 2 is marginal and uncertain. Day 14 and Day 2 together represent the two most impactful elements of the entire plan.
+Rhythm days work mixed easy and medium items at a comfortable, unhurried pace, with the goal of flow rather than speed. The point is to keep your reliable skills warm without the strain of full timed pressure, so they stay sharp through the taper, and to rebuild the confidence that a week of error-hunting can erode. Work a steady set, attending to clean execution and to the instinct to clear certain points first before getting stuck on anything hard. Run your careless-error cures in the background, rereading the final line of each question before committing, so the protective habits stay rehearsed. End the session on a run of items you solve cleanly and deliberately, so the last impression of the day is competence rather than struggle. Doing this in the days after your hard stop on new content keeps the machine warm and your relationship with the section calm, which matters because a calm, confident state on the day catches traps that an anxious one misses.
 
-**Q12: Is it possible to improve significantly in just 14 days?**
+### When should I do a timed module simulation?
 
-Yes, but with important caveats. The 14-day plan is most effective for students who have already done substantive preparation in the weeks or months before this final two-week period. For those students, the two-week plan consolidates existing preparation and targets specific remaining gaps, typically producing 20 to 60-point improvements. For students who have done little or no prior preparation, 14 days is not enough time to build foundational content knowledge; in that case, the two-week plan should be extended or preceded by systematic Tier 1 preparation. Realistically, a student who starts from zero preparation on Day 14 can still improve their score through the process of taking two practice tests, identifying which question types they can solve, and applying careless error prevention and pacing strategies. Even without content knowledge, execution improvements (guessing on all blanks, managing time with three passes) can add 20 to 40 points.
+Place a single timed module simulation around five days out, after your second full assessment and before the deepest part of the taper. It is one thirty-five-minute block under the clock, not a full test, and its purpose is to rehearse pace rather than to learn or to measure. Use it to check that your pacing instinct fires correctly: do you move on from a stuck item before it eats two minutes, do you flag and return cleanly, does the calculator move come automatically when an item calls for it? Because the module routing means first-module accuracy gates your score ceiling, run the simulation with accuracy as the priority and speed as its servant. Keep the analysis afterward short and behavioral, focused on how you ran the clock rather than on which topics you missed, since topic gaps should mostly be closed by this point. The simulation tells you what the final light-review days should reinforce, then the taper takes over.
 
-**Q13: Should I take any breaks during the practice tests on Days 14 and 8?**
+### How do I review formulas efficiently in the last week?
 
-Simulate the actual exam conditions as closely as possible. The Digital SAT does not allow breaks between modules (though some testing centers may provide a brief break between the Reading/Writing section and the Math section). Within the Math section, there is no official break between Module 1 and Module 2. For maximum realism, complete both modules without any break between them. The only acceptable pause between modules is a 30-second physical stretch or water break; longer pauses give the brain a recovery period that is not available on the actual exam, making the practice test experience unrealistically comfortable.
+Run a single deliberate pass through every formula and rule the on-screen reference sheet does not provide, confirming instant recall rather than learning anything new. The sheet supplies geometry area and volume formulas and the special-right-triangle ratios, but it omits much of the algebra and statistics you will actually use. Go domain by domain so nothing slips through: in algebra confirm the slope formula, the line forms and their conversions, the quadratic formula, the vertex location, the discriminant, and the exponent rules; in geometry drill the distance and midpoint formulas, the circle equation, the transversal angle rules, the similar-triangle ratios, and the common Pythagorean triples; in statistics confirm the mean, the basic probability ratio, the counting principle, and conditional probability from a two-way table. For each, the standard is recall within a second or two and correct application on one quick example. Anything that fails that standard gets a small flag and a five-minute fix on the spot, since after the hard stop you should not reopen it.
 
-**Q14: What if the Day 4 module simulation shows I am running out of time?**
+### What is the goal of the final Desmos drill before the SAT?
 
-If you cannot complete all 22 questions within 35 minutes, the pacing strategy needs adjustment. Common causes: spending too long on hard questions in the first pass (the flag rule should prevent this), not using Desmos when it would be faster, or attempting to solve every question in Pass 1 rather than flagging harder questions for Pass 2. After the simulation, identify the specific questions that consumed the most time and assess whether a faster technique (Desmos, backsolving, elimination) would have resolved them in less time. Apply the pacing strategy from Article 21 explicitly in the Day 4 simulation. A specific time management benchmark for the Day 4 simulation: by question 11 (the midpoint of the module), approximately 17 to 18 minutes should have elapsed. If you are at question 11 with only 10 minutes remaining, you are running behind and need to apply the flag rule more aggressively in the second half.
+The goal is to make the core calculator moves reflexive, so you use them without hesitation under time pressure rather than reconstructing them mid-module. The embedded graphing tool is the largest source of recoverable speed and accuracy on the digital quantitative section, but only if your hands already know the moves, because a technique you have to think about is a technique you will skip when the clock is loud. Rehearse the moves that recur most: solving an equation by graphing both sides and reading the intersection, finding zeros by reading where a function crosses the axis, fitting a line or curve to a table with a regression, using a slider to test how a parameter changes a graph, and graphing a system to find where two equations meet. Practice by deliberately solving ordinary items the calculator way even when algebra would also work, so the choice is available instantly on the day. By the end, opening a fresh modeling item and setting up the regression should take only a few seconds, hands ahead of thought.
 
-**Q15: Should I review every article in this series as part of the 14-day plan?**
+### How is the two-week plan different from a longer study schedule?
 
-No. Article review during the final 14 days should be limited to: Article 25 (formula reference) on Day 10, Article 23 (careless mistakes) on Day 9, and Article 21 (pacing) briefly before Day 4's simulation if the pacing strategy needs a reminder. Reading multiple articles in the final week is likely to feel overwhelming and to expose you to content that is not yet prepared well enough to be useful. The 14-day plan is for consolidation, not comprehensive learning. The one exception: if your Day 8 error analysis reveals a specific Tier 1 or Tier 2 topic that has never been covered in your preparation (not a gap, but a complete blank), spending 20 to 30 minutes on the relevant article is justified even in Phase 2 of the plan. One specific article for a specific identified gap is different from reading multiple articles generally. The standard for the Phase 2 exception is strict: the topic must be completely absent (not just weak), and the article review must be targeted (reading the most essential concept, not the full article). When in doubt, default to the no-new-material rule. The risk of adding new content in the final week and amplifying anxiety outweighs the risk of leaving a single small gap unaddressed in most circumstances.
+A longer schedule is built for acquisition, and the two-week plan is built for consolidation and tapering, which inverts almost every property. During the long middle of preparation the goal is learning, which is slow, tolerates mistakes, and rewards volume. The final fortnight makes the goal retrieval under timed pressure, drops the tolerance for new mistakes to near zero, and makes volume actively harmful past a modest ceiling. Carrying the acquisition mindset into the last two weeks is the central error, because it keeps you opening new topics you can only half-learn while your reliable skills go stale. The two-week plan therefore does less, not more: it diagnoses precisely, repairs the highest-value leaks, draws a hard line against new content, and tapers into rest. Where a longer schedule asks how much you can learn, the two-week plan asks how cleanly you can execute what you already know, and that difference reshapes every day of the window.
 
-**Q16: What should I eat and drink during the actual exam?**
+### Why does the taper matter so much for math performance?
 
-For the exam day breakfast: familiar foods that you know your body handles well. Avoid foods you have not eaten before or that are known to cause digestive issues. A balanced breakfast with protein, complex carbohydrates, and moderate sugar is generally recommended. For long-format exams (the full SAT is approximately 3 hours), a small snack (brought to the test center if permitted) between sections is beneficial. Stay hydrated; mild dehydration measurably impairs cognitive performance. If coffee or caffeine is part of your normal routine, maintain your usual intake; changing caffeine habits on test day can cause focus issues in either direction (too little or too much). Practically: eat breakfast at the same time you would on any other morning. The goal is to feel normal, not special. Unusual food or timing adds variables that do not help. The exam day morning routine should be as close to a normal morning as possible, with the one addition of reviewing your personal careless mistake list before leaving the house. Everything else: normal.
+Because timed quantitative performance depends not only on what you know but on the state of the system executing that knowledge, and that system recovers with rest and degrades with fatigue. The slips that cost the most points late in preparation are not knowledge gaps but execution errors, and they are fatigue-sensitive: a rested mind rereads the question and catches the wrong-variable trap or the dropped negative, while a tired mind walks into it. So the taper is not a reward for finishing the work, it is the final phase of the work, the part that converts everything you built into something that will actually fire on the day. A student who tapers well arrives with the same knowledge as a student who crammed but with a sharper instrument to use it, and on a timed test of execution that difference shows up as points. Skipping or inverting the taper by studying hardest in the final days is the most common way strong students underperform their real ability.
 
-**Q17: How should I handle the gap between the Reading/Writing section and the Math section on test day?**
+### What if my SAT date does not leave a full fourteen days?
 
-The break between sections (if provided) is a brief mental reset opportunity. Use the time to: take a few slow breaths, review your personal careless mistake list one more time, remind yourself of the three-pass strategy, and eat the small snack if you brought one. Avoid discussing the Reading/Writing section with other students during the break; ruminating on how the first section went distracts from focusing on the upcoming Math section. A specific recommendation: during the break, do not review any math content or formulas. The time is too short to usefully review anything, and attempting to do so can trigger anxiety about gaps. Use the break for breathing and mental reset, not content review. The break is also a good moment for a brief physical activity: a short walk to the restroom, a few shoulder rolls, or standing and stretching. Light physical movement activates the parasympathetic nervous system and reduces the sympathetic (stress) response that builds during sustained exam performance.
+Compress the diagnostic-and-repair phase and protect the taper. The taper is the part of the plan you can least afford to cut, so if your runway is short, keep the final three days light no matter what: a descent from light review, to a brief warm-up, to no studying the day before. Fold the diagnosis and repair into whatever time remains before that: take one timed assessment as early as you can to build your error map, spend your active days on the highest-frequency leaks and your single weakest growth area, do one focused calculator rehearsal and one formula pass, and run your careless-error audit. Skip the second full assessment if you must, and trust trends from your earlier work rather than chasing a fresh number. The principle holds at any length: diagnose what leaks, fix the high-value leaks first, stop new content before the date, and arrive rested. A shorter window simply means tighter triage on the front half, with the taper held sacred on the back half.
 
-**Q18: What if I feel very anxious during the Math section?**
+### Should I focus on Module 1 or Module 2 in my final review?
 
-Apply the techniques from Article 26 (SAT Math for math-anxious students). The three-step anxiety interrupt: (1) feel your feet on the floor (physical grounding), (2) take one slow breath (physiological regulation), (3) say internally "I can flag this and come back" (cognitive reframing). Flag the question, select a placeholder answer, and move forward. Most anxiety spikes reduce naturally within 30 to 60 seconds of moving to a new question. The pacing strategy's flag mechanism is specifically designed to prevent anxiety from compounding on a single question. Remember that anxiety during the exam does not mean you are performing poorly. Some anxiety is normal and even beneficial (it increases alertness). The goal is not zero anxiety but manageable anxiety that does not prevent you from applying what you know.
+Focus your final review on the accuracy that gates Module 1, because the adaptive structure makes first-module performance the precondition for reaching the harder, higher-ceiling second module. The early items of a module are where certain points should be banked cleanly, and dropping a high-frequency easy item there can route you away from the top of the scale entirely. So in the last two weeks, rehearse unhurried, error-free execution on the easier and medium content, run your careless cures, and let accuracy beat speed every time on the first module. This does not mean ignoring harder content, but it does mean that a student still dropping an occasional easy percentage or linear item should fix that before chasing exotic difficulty, because the easy miss costs more through the routing than the hard miss gains. The timed module simulation around five days out is the place to rehearse this priority, treating first-module accuracy as the gate and pacing as its servant.
 
-**Q19: What should I do if I finish early with time remaining in a module?**
+### What is the biggest mistake students make in the last two weeks?
 
-Use remaining time for Pass 3 review. Start from the beginning and re-verify that all questions have an answer selected. For any flagged questions that remain unresolved, make a final attempt. For any question where your answer feels uncertain, re-read the question and answer choice carefully to confirm you answered what was asked (the most common careless error, Error 1 from Article 23). Do not change answers that feel correct without a specific reason; research shows that first instincts are more often right than second-guessing. A specific guideline for answer changing: only change an answer if you can identify a specific reason the original answer is wrong (you computed an error you can now see, you misread a number, you answered for the wrong variable). "This answer feels uncertain" is not a sufficient reason to change; it is a normal feeling that applies to most hard questions.
+Cramming new material, with skipping the taper a close second, and the two often travel together. The cramming mistake feels productive because it looks like effort, but a topic learned inside the final week stays fragile, and fragile knowledge breeds hesitation and false confidence on exactly the hard items where a clean flag-and-skip would have served better. Meanwhile the cramming hours starve your reliable skills of the warmth they need, so the trade is usually negative: a shaky maybe gained, a sure thing let go stale. The taper mistake compounds it, because a student who studies hardest in the final days arrives depleted, and fatigue attacks accuracy through the careless-error channel that costs the most points. The cure for both is the same discipline: draw a hard line against new content at the one-week mark, then taper into rest on purpose. Peaking on a single date is engineered, and the engineering is mostly about knowing when to stop pushing.
 
-**Q20: Is there anything I should not do the night before the exam?**
+### Can I really improve my math score in only two weeks?
 
-Several things to avoid the night before: do not study new content; do not take a practice test; do not review hard problems you got wrong; do not set an alarm so early that it significantly cuts into sleep. What you should do: light review of your careless mistake list (5 minutes maximum), a brief read of the summary table at the end of this article, and an early, consistent bedtime. The night before the exam is the most important sleep of the entire preparation period. Every hour of sleep contributes more to test day performance than any equivalent hour of preparation at this point. A specific sleep guidance note: aim for the same bedtime you would maintain on a typical school night. Significantly earlier or later bedtimes disrupt circadian rhythms and can produce fragmented or insufficient sleep even if the total hours are adequate.
+Yes, but understand what kind of improvement two weeks can buy. You will not build new conceptual range from scratch in this window, because moving a topic from fragile to reliable takes longer than fourteen days. What you can move, and often by a meaningful margin, are the recoverable points: the high-frequency easy items you keep slipping on, the careless patterns you can name and cure, the calculator moves you can make reflexive, and the timing decisions you make badly under pressure. These are usually more numerous than students expect, and they respond fast because the underlying skill already exists and only the execution is leaking. A student who diagnoses precisely, repairs the highest-value leaks first, stops new content before it can do harm, and arrives rested will typically out-perform their recent practice runs, not because they learned more but because they finally executed cleanly what they already knew. The realistic gain comes from consolidation and tapering, not from cramming, which is exactly why the plan does less near the end rather than more.

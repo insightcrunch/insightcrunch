@@ -1,823 +1,465 @@
 ---
 layout: post
-title: "SAT Math: Complete Formula and Concept Reference Sheet"
-page_title: "SAT Math Formula Reference Sheet: Complete Guide to Every Formula and Concept Beyond the SAT Reference"
+title: "SAT Math: Complete Formula Reference"
+page_title: "SAT Math Formulas: The Complete Reference Beyond the Provided Sheet, by Domain, With When to Use Each"
 date: 1997-05-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Formulas", "Reference", "Study Guide"]
-excerpt: "The complete SAT Math formula and concept reference organized by domain: Algebra, Advanced Math, Geometry, Statistics, and key rules, each with a one-sentence explanation of when you need it."
-image: "/assets/images/blog/blog-02.webp"
-reading_time: 61
-author: "hannah-moore"
-last_updated: 2026-04-05
-lang: en
+excerpt: "SAT math formula reference by domain: algebra, geometry and statistics formulas beyond the provided sheet, each with a one-line note on when you need it."
+image: "/assets/images/blog/blog-10.webp"
+reading_time: 59
+author: "Insight Crunch Team"
+last_updated: 1997-05-09
 ---
-The SAT provides a small reference sheet at the start of each Math module containing basic geometry formulas (area of a circle, volume of a box, the Pythagorean theorem, and a few others). Students who prepare only to the level of that reference sheet are under-prepared for the Digital SAT. The full set of formulas and concepts tested on the Digital SAT is substantially larger, and most of the tested formulas are NOT on the provided reference sheet.
 
-This article is the complete formula and concept reference for every formula, rule, and relationship tested on the Digital SAT Math section. It is organized by domain (Algebra, Advanced Math, Geometry, Statistics and Probability, and Key Rules) and each entry includes a one-sentence explanation of when you need it. Use this reference during your final review weeks to confirm that every formula is memorized and that you know the specific question context that triggers its use.
+A student opens the Bluebook testing app, taps into the math section, and finds a blue link near the corner of the screen labeled Reference. Tapping it reveals a small panel of shapes and equations. Relief washes over the unprepared candidate: the formulas are right there, so memorizing them was never necessary. That relief is the single most expensive feeling in the math section, because the supplied panel is a trap of false security. It hands you the area of a circle and the volume of a cone, then stays silent on the slope of a line, the coordinates of a parabola's vertex, the distance between two points, and roughly a dozen other relationships that appear far more often than any solid the panel bothers to define. The candidate who relies only on the provided list walks into Module 2 missing the exact tools the harder items demand.
 
-For the trigonometry context where the right triangle formulas apply, see the [SAT Math right triangles and unit circle guide](/1997/07/20/sat-math-right-triangles-unit-circle/). For the complete Math section format and question distribution, see the [complete Digital SAT guide](/2020/12/01/digital-sat-complete-guide-format-bluebook-adaptive/). For timed practice applying these formulas, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems across all formula areas.
+![SAT math formula reference sheet by domain with worked usage notes - Insight Crunch](/assets/images/blog/blog-10.webp)
 
-![SAT Math Complete Formula Reference Sheet](/assets/images/blog/blog-02.webp)
+This is the complete SAT math formulas reference, built to be the page you keep open during your final review and the one you print and tape above your desk. It is organized the way the digital section actually behaves, by domain, with a one-line usage note attached to every relationship so the page reads as a working tool rather than a memory dump. You will see clearly which items the official panel already supplies, so you never waste a single minute memorizing the area of a triangle, and which high-frequency relationships the panel omits, so you never lose a question because you forgot the vertex form or the rule for an inequality sign. The governing idea of this guide is plain: knowing which relationships the supplied panel leaves out, and knowing precisely when each one applies, converts directly into speed and into points. A relationship you can recall in two seconds is a relationship you can deploy while a slower candidate is still scrolling to the corner of the screen.
 
-## How to Use This Reference Sheet
+The digital format rewards fluency in a way the old paper exam never did. With the built-in graphing calculator one tap away and the clock pacing roughly two questions every three minutes, the candidate who pauses to derive the discriminant or to re-reason the multiplier for a percent decrease is bleeding the one resource that cannot be replaced. Recall is speed. Speed is margin. Margin is the difference between finishing the module with time to flag and recheck, and arriving at the last two items with the timer in single digits. Everything below is engineered around that arithmetic of time. Treat it as a reference you return to, not an essay you read once, and pair it with the deliberate drilling described in the [process of elimination and backsolving guide](/1997/05/13/sat-math-process-elimination-backsolving/), because a memorized relationship is only worth what you can do with it under pressure.
 
-This reference sheet is designed for two uses: study and review.
+## What the Provided Panel Gives You, and Why That Is the Wrong Question
 
-During study (weeks before the exam): work through each domain section and identify the formulas you do not yet have memorized. For each unknown formula, write it on a flash card, study the one-sentence explanation, and practice applying it to one or two sample problems. Prioritize the formulas most heavily tested on the Digital SAT (marked with usage frequency indicators in each section).
+The instinct most candidates bring to the digital exam is to ask what the reference panel contains. That is the wrong question, and the framing quietly costs points. The useful question is the inverse: what does the panel leave out, and how often do the omitted relationships appear? Answer that, and your memorization effort goes exactly where the points live instead of being scattered across material the screen already hands you for free.
 
-During final review (1 to 2 days before the exam): read through the complete reference sheet and confirm that every formula is familiar. For any formula that feels uncertain, spend 5 to 10 minutes working through 2 to 3 practice problems that use it. Do not try to learn new formulas in the 24 hours before the exam; use this reference to confirm what you already know.
+Start with what the panel supplies, because you should never spend a second of study time on any of it. As of the current Digital SAT, and you should always confirm this against the latest official College Board materials since panels are revised over time, the supplied reference contains a tidy set of geometric facts. It gives the area and circumference of a circle. It gives the area of a rectangle and the area of a triangle. It states the Pythagorean theorem. It supplies the side relationships for the two special right triangles, the 30-60-90 and the 45-45-90. It provides volume relationships for a rectangular box, a cylinder, a sphere, a cone, and a pyramid. It states three plain facts as well: a circle contains 360 degrees, a circle contains 2 pi radians, and the angles of a triangle sum to 180 degrees. That is essentially the whole panel. Notice what it is: almost entirely geometry and solid volumes, with a thin sliver of angle facts.
 
-The organizing principle of the reference: formulas are grouped by topic domain, not by difficulty. Easy and hard formulas appear together in each domain because the Digital SAT does not separate by difficulty within a domain. Knowing the domain context of each formula (Algebra vs Geometry, for example) helps with rapid recall during the exam.
+Now notice the silence. The panel says nothing about lines. It offers no slope relationship, no slope-intercept form, no point-slope form, no standard form. It offers nothing about quadratics beyond the bare Pythagorean fact: no quadratic formula, no vertex coordinates, no discriminant rule, no factored form. It offers nothing about exponents, nothing about radicals, nothing about the distance between two points, nothing about the midpoint of a segment, nothing about the equation of a circle in the coordinate plane. On the statistics side it is equally bare: no mean relationship, no probability definition, no counting principle, no conditional probability. The panel is a geometry cheat sheet wearing the costume of a complete reference, and the costume fools thousands of candidates every administration.
 
-## Domain 1: Algebra Formulas
+### Where the Omitted Relationships Actually Live
 
-The Algebra domain accounts for approximately 35 percent of Digital SAT Math questions. Most Algebra formulas are not on the provided SAT reference sheet and must be memorized.
+Here is the part that should reorganize your study plan. The relationships the panel supplies cluster in the lowest-frequency corner of the section. Solid volume questions, the ones for which the screen hands you the cone and the sphere, appear sparingly, often only once across both modules, and they reward application rather than recall because the relationship is right there. Meanwhile the relationships the panel omits, lines and slope and quadratics and exponents and basic statistics, saturate the section. Linear relationships are the connective tissue of the algebra domain. Quadratic and exponential behavior anchors the advanced material. Percent reasoning and data interpretation run through the problem-solving and data-analysis content. The candidate who memorized the supplied volumes and skipped the slope-intercept form prepared for the rarest item and neglected the most common one.
 
-SLOPE FORMULA:
-Formula: m = (y2 minus y1) / (x2 minus x1)
-When you need it: any question that gives two points and asks for the slope, the rate of change, or asks whether lines are parallel or perpendicular.
-Usage: parallel lines have equal slopes. Perpendicular lines have slopes that are negative reciprocals of each other (if one slope is m, the perpendicular slope is minus 1/m).
+Frame the frequencies as observed tendencies rather than fixed counts, because the exam never publishes a guaranteed distribution and the digital format adapts question by question. The durable pattern, verified across recent official practice material and worth re-checking against the current released tests, is that linear and function content dominates, data and statistics content has grown since the digital launch, and pure geometry, the panel's specialty, occupies a smaller share than students expect. So the relationships you most need to own from memory are precisely the ones the screen refuses to give you. This guide front-loads those. The deeper treatment of each topic lives in the domain guides, and you will find the linear material developed fully in the [algebra domain complete guide](/2021/04/24/sat-algebra-domain-complete-guide/) and the quadratic and exponential material in the [advanced math domain complete guide](/2021/04/16/sat-advanced-math-domain-complete-guide/).
 
-SLOPE-INTERCEPT FORM:
-Formula: y = mx + b (m = slope, b = y-intercept)
-When you need it: writing or identifying a linear equation from a description, finding the y-intercept directly (it is the constant term b), or graphing a line on Desmos.
-Note: the y-intercept is the value of y when x = 0; substitute x = 0 to find it directly.
-
-POINT-SLOPE FORM:
-Formula: y minus y1 = m(x minus x1) (where (x1, y1) is a known point and m is the slope)
-When you need it: writing the equation of a line when given a point and a slope (or two points, from which slope is computed first).
-Usage: preferred form when one specific point is given rather than the y-intercept.
-
-STANDARD FORM FOR A LINE:
-Formula: Ax + By = C (A, B, C are integers)
-When you need it: interpreting a linear equation given in standard form; finding x and y intercepts directly. The x-intercept is C/A (set y = 0); the y-intercept is C/B (set x = 0).
-Tip: Desmos accepts this form directly without converting to slope-intercept.
-
-QUADRATIC FORMULA:
-Formula: x = (-b plus or minus sqrt(b squared minus 4ac)) / 2a, where the quadratic is ax squared + bx + c = 0.
-When you need it: solving any quadratic equation that does not factor easily; any question asking for the exact roots of a quadratic.
-Critical note: the formula applies when ax squared + bx + c = 0. Rearrange the equation to this standard form before identifying a, b, and c.
-
-VERTEX FORMULA (x-COORDINATE OF VERTEX):
-Formula: x = minus b / (2a), where the quadratic is ax squared + bx + c.
-When you need it: finding the vertex x-coordinate of a parabola (and the minimum or maximum value of a quadratic function), or the axis of symmetry.
-Usage: after finding x = minus b/(2a), substitute back into the original expression to find the y-coordinate of the vertex (the minimum or maximum value).
-
-VERTEX FORM OF A QUADRATIC:
-Formula: y = a(x minus h) squared + k, where (h, k) is the vertex.
-When you need it: identifying the vertex from the equation, completing the square (which converts standard form to vertex form), or confirming a transformation.
-Usage: if a is positive, the parabola opens upward (minimum at (h, k)). If a is negative, it opens downward (maximum at (h, k)).
-
-DISCRIMINANT ANALYSIS:
-Formula: discriminant = b squared minus 4ac.
-When you need it: determining how many real solutions a quadratic equation has without solving it.
-Outcomes: discriminant greater than 0 means two distinct real solutions. Discriminant equal to 0 means exactly one real solution (a repeated root). Discriminant less than 0 means no real solutions (two complex solutions).
-
-COMPLETING THE SQUARE (STANDARD PROCEDURE):
-Procedure for ax squared + bx + c:
-Step 1: factor out a from the first two terms: a(x squared + (b/a)x) + c.
-Step 2: complete the square inside: half of (b/a) is b/(2a); square it to get b squared/(4a squared).
-Step 3: add and subtract: a(x squared + (b/a)x + b squared/(4a squared)) + c minus a times b squared/(4a squared).
-Step 4: factor the perfect square: a(x + b/(2a)) squared + c minus b squared/(4a).
-When you need it: finding the vertex of a parabola, solving quadratics that do not factor, or rewriting a quadratic in vertex form. Note: the vertex x-coordinate from this procedure confirms the vertex formula x = minus b/(2a). The completing-the-square procedure is the derivation behind the formula; both produce the same x-coordinate.
-
-EXPONENT RULES:
-Product rule: x to the power a times x to the power b = x to the power (a + b). Multiply same base: add exponents.
-Quotient rule: x to the power a divided by x to the power b = x to the power (a minus b). Divide same base: subtract exponents.
-Power rule: (x to the power a) to the power b = x to the power (a times b). Power of a power: multiply exponents.
-Zero exponent: x to the power 0 = 1 (for any nonzero x).
-Negative exponent: x to the power (minus a) = 1 / (x to the power a). Negative exponent means reciprocal.
-When you need them: simplifying exponential expressions, solving exponential equations, working with scientific notation.
-
-RADICAL-EXPONENT CONVERSION:
-Formula: the n-th root of x = x to the power (1/n). The n-th root of x to the power m = x to the power (m/n).
-When you need it: converting between radical notation and fractional exponents; simplifying expressions containing both radicals and exponents.
-Example: cube root of x squared = x to the power (2/3).
-
-ABSOLUTE VALUE DEFINITION:
-Formula: |x| = x if x is non-negative; |x| = minus x if x is negative.
-Alternative interpretation: |x| is the distance from x to 0 on the number line. |x minus a| is the distance from x to a.
-When you need it: solving absolute value equations and inequalities, interpreting |x minus a| as a distance condition. The distance interpretation is especially useful for word problems: "all values of x within 5 of 12" translates to |x minus 12| less than or equal to 5, which gives 7 less than or equal to x less than or equal to 17. The verbal "within d of a" always becomes |x minus a| less than or equal to d.
-
-## Domain 2: Advanced Math Formulas
-
-The Advanced Math domain accounts for approximately 35 percent of Digital SAT Math questions and is the domain with the highest average difficulty.
-
-FACTORED FORM OF A QUADRATIC:
-Formula: ax squared + bx + c = a(x minus r1)(x minus r2), where r1 and r2 are the roots.
-When you need it: identifying zeros of a quadratic from factored form, converting between factored and standard form, writing a quadratic equation from its roots.
-
-DIFFERENCE OF SQUARES:
-Formula: a squared minus b squared = (a + b)(a minus b).
-When you need it: factoring expressions of the form x squared minus 9 = (x+3)(x-3), or any difference-of-squares pattern.
-High-frequency trigger: (x squared minus 4)/(x minus 2) can be simplified by factoring the numerator as (x+2)(x-2), then canceling (x minus 2).
-
-PERFECT SQUARE TRINOMIALS:
-Formulas: (a + b) squared = a squared + 2ab + b squared; (a minus b) squared = a squared minus 2ab + b squared.
-When you need them: recognizing perfect square patterns in algebraic expressions, completing the square, converting between expanded and factored forms.
-
-SUM/DIFFERENCE OF CUBES:
-Formulas: a cubed + b cubed = (a + b)(a squared minus ab + b squared); a cubed minus b cubed = (a minus b)(a squared + ab + b squared).
-When you need them: factoring cubic expressions of the form x cubed plus or minus 8 (where 8 = 2 cubed).
-Digital SAT frequency: low to moderate; these appear primarily on harder Advanced Math questions.
-
-POLYNOMIAL REMAINDER THEOREM:
-Statement: when f(x) is divided by (x minus a), the remainder equals f(a).
-When you need it: any question asking for the remainder of polynomial division, or asking for which value of a makes (x minus a) a factor (set f(a) = 0 and solve).
-Speed advantage: evaluating f(a) takes 15 seconds; polynomial long division takes 2 to 3 minutes. Always use the remainder theorem.
-
-FUNCTION NOTATION:
-f(x): the output of function f when the input is x.
-f(a) = b means: when x = a is substituted into f, the output is b.
-f(g(x)): the composition of f and g; evaluate g first, then substitute the result into f.
-When you need it: any function evaluation or composition question; piecewise function questions (where the correct piece is selected based on the input value).
-
-PIECEWISE FUNCTION EVALUATION:
-Procedure: identify which condition the input x satisfies, then evaluate the corresponding formula.
-When you need it: questions involving piecewise-defined functions; compositions where one function is piecewise.
-Key habit: always check which piece applies before evaluating; the domain condition is part of the function definition.
-
-COMPLEX NUMBER OPERATIONS:
-Definition: i = sqrt(minus 1), so i squared = minus 1.
-i-power cycle: i to the 1 = i; i squared = minus 1; i cubed = minus i; i to the 4 = 1; then the pattern repeats.
-Addition/subtraction: combine real parts and imaginary parts separately: (a + bi) plus (c + di) = (a + c) + (b + d)i.
-Multiplication: FOIL, then replace i squared with minus 1: (a + bi)(c + di) = ac + adi + bci + bdi squared = (ac minus bd) + (ad + bc)i.
-Division (conjugate method): multiply numerator and denominator by the conjugate of the denominator: (a + bi)/(c + di) times (c minus di)/(c minus di).
-When you need them: any question involving i, complex solutions of quadratics (discriminant less than 0), or complex number arithmetic.
-
-CONJUGATE OF A COMPLEX NUMBER:
-Formula: the conjugate of (a + bi) is (a minus bi).
-Property: (a + bi)(a minus bi) = a squared + b squared (a real number).
-When you need it: complex number division; simplifying expressions with imaginary denominators.
-
-EXPONENTIAL FUNCTION MODELS:
-General form: f(t) = a times b to the power t (a = initial value, b = growth/decay factor).
-For percent growth: b = 1 + r (r is the decimal growth rate).
-For percent decay: b = 1 minus r.
-For doubling every d periods: f(t) = a times 2 to the power (t/d).
-For halving every d periods: f(t) = a times (1/2) to the power (t/d).
-When you need them: any exponential modeling question; identifying the growth or decay factor from a given percent rate.
-
-LINEAR vs EXPONENTIAL IDENTIFICATION (TWO-TEST):
-Linear test: constant differences between consecutive y-values (equal x-spacing).
-Exponential test: constant ratios between consecutive y-values (equal x-spacing).
-When you need it: any question asking which model (linear or exponential) better fits given data, or asking for the model type from a table of values.
-
-## Domain 3: Geometry and Trigonometry Formulas
-
-The Geometry and Trigonometry domain accounts for approximately 15 percent of Digital SAT Math questions. The SAT provides some geometry formulas; the following includes all provided formulas PLUS the additional formulas not on the reference sheet.
-
-PROVIDED BY SAT REFERENCE SHEET:
-Area of a rectangle: A = lw.
-Area of a triangle: A = (1/2)bh.
-Area of a circle: A = pi r squared.
-Circumference of a circle: C = 2 pi r.
-Volume of a rectangular prism: V = lwh.
-Volume of a cylinder: V = pi r squared h.
-Volume of a sphere: V = (4/3) pi r cubed.
-Volume of a cone: V = (1/3) pi r squared h.
-Volume of a pyramid: V = (1/3) lwh.
-Pythagorean theorem: a squared + b squared = c squared (a and b are legs, c is hypotenuse).
-Special right triangle 30-60-90: sides are in ratio 1 : sqrt(3) : 2.
-Special right triangle 45-45-90: sides are in ratio 1 : 1 : sqrt(2).
-Number of degrees in a circle: 360.
-Number of radians in a circle: 2 pi.
-Sum of angles in a triangle: 180 degrees.
-
-NOT ON SAT REFERENCE SHEET (MUST MEMORIZE):
-
-DISTANCE FORMULA:
-Formula: d = sqrt((x2 minus x1) squared + (y2 minus y1) squared).
-When you need it: any question asking for the distance between two points in the coordinate plane.
-Desmos shortcut: plot the two points and use the click-to-show-coordinates feature to confirm the distance formula result.
-
-MIDPOINT FORMULA:
-Formula: midpoint = ((x1 + x2)/2, (y1 + y2)/2).
-When you need it: any question asking for the midpoint of a line segment, or any question where the midpoint is given and one endpoint is unknown (solve for the other).
-
-CIRCLE EQUATION (STANDARD FORM):
-Formula: (x minus h) squared + (y minus k) squared = r squared, where (h, k) is the center and r is the radius.
-When you need it: finding the center and radius from a circle equation, writing the equation from given center and radius, or working with circle-line intersection problems.
-Note: the general form ax squared + by squared + cx + dy + e = 0 must be converted to standard form by completing the square in both x and y.
-
-ARC LENGTH:
-Formula: arc length = (central angle / 360) times circumference = (theta / 360) times 2 pi r. In radians: arc length = r times theta.
-When you need it: any question asking for the length of an arc of a circle given the central angle and radius.
-
-SECTOR AREA:
-Formula: sector area = (central angle / 360) times pi r squared. In radians: sector area = (1/2) r squared times theta.
-When you need it: any question asking for the area of a "pie slice" portion of a circle given the central angle and radius.
-
-ANGLE PAIR RELATIONSHIPS:
-Supplementary angles: two angles that sum to 180 degrees.
-Complementary angles: two angles that sum to 90 degrees.
-Vertical angles: angles formed by two intersecting lines opposite each other. Vertical angles are equal.
-Linear pair: two adjacent angles that form a straight line. They are supplementary (sum = 180 degrees).
-When you need them: any multi-angle problem; the angle-sum relationships chain through a sequence of steps to find unknown angles.
-
-PARALLEL LINES AND TRANSVERSAL:
-When a transversal crosses two parallel lines:
-Corresponding angles: equal (in the same position at each intersection).
-Alternate interior angles: equal (on opposite sides of the transversal between the parallel lines).
-Same-side interior angles (co-interior): supplementary (sum to 180 degrees).
-Alternate exterior angles: equal.
-When you need them: any question involving parallel lines and a transversal; "find the angle" questions that require identifying corresponding or alternate angles.
-
-EXTERIOR ANGLE THEOREM:
-Formula: the exterior angle of a triangle equals the sum of the two non-adjacent interior angles.
-When you need it: any question involving an exterior angle of a triangle and the interior angles.
-Example: if exterior angle = 120 degrees and one non-adjacent interior angle = 70 degrees, the other non-adjacent interior angle = 50 degrees.
-
-POLYGON INTERIOR ANGLE SUM:
-Formula: sum of interior angles of an n-sided polygon = (n minus 2) times 180 degrees.
-For a regular polygon, each interior angle = (n minus 2) times 180 / n degrees.
-When you need it: any question asking for the sum of interior angles of a polygon, or the measure of each interior angle of a regular polygon. The formula derives from dividing any polygon into (n minus 2) non-overlapping triangles by drawing diagonals from one vertex; each triangle contributes 180 degrees. For common polygons: triangle (n=3) has sum 180 degrees; quadrilateral (n=4) has 360 degrees; pentagon (n=5) has 540 degrees; hexagon (n=6) has 720 degrees.
-
-SIMILAR TRIANGLES:
-Property: corresponding sides of similar triangles are proportional; corresponding angles are equal.
-Ratios: if triangles ABC and DEF are similar with ratio k, then all lengths in DEF are k times the corresponding lengths in ABC. Areas scale as k squared.
-When you need it: any question involving similar triangles, shadow problems, or scale factor problems. Similar triangles arise in many non-obvious contexts: whenever a line parallel to one side of a triangle is drawn, it creates a smaller similar triangle; whenever two lines from the same point intersect two parallel lines, similar triangles are formed. Recognizing the similar-triangle structure within a complex figure is the primary skill tested in similar-triangle questions.
-
-PYTHAGOREAN TRIPLES (common):
-3-4-5 and multiples (6-8-10, 9-12-15).
-5-12-13.
-8-15-17.
-7-24-25.
-When you need them: recognizing right triangles from side lengths without using the full a squared + b squared = c squared computation.
-
-COORDINATE GEOMETRY: LINE THROUGH TWO POINTS:
-Procedure: find slope m = (y2 minus y1)/(x2 minus x1), then use point-slope form y minus y1 = m(x minus x1), simplify.
-When you need it: writing the equation of a line when two points are given; finding the y-intercept from two points.
-
-TRIGONOMETRIC RATIOS (SOH-CAH-TOA):
-In a right triangle with acute angle theta:
-sin(theta) = opposite / hypotenuse.
-cos(theta) = adjacent / hypotenuse.
-tan(theta) = opposite / adjacent = sin(theta) / cos(theta).
-When you need them: any question involving the length of sides in a right triangle when an angle measure is given, or finding an angle from side lengths.
-
-COMPLEMENTARY ANGLE TRIG IDENTITIES:
-sin(theta) = cos(90 minus theta).
-cos(theta) = sin(90 minus theta).
-When you need them: questions that provide sin(x) = some value and ask for cos(90 minus x), or any combination of complementary angles in a right triangle.
-Derivation: in a right triangle, the two acute angles sum to 90 degrees, so sin of one acute angle = cos of the other.
-Digital SAT application: these identities are tested in a specific high-frequency question format: "In a right triangle, angle A and angle B are the two acute angles. If sin(A) = 4/5, what is cos(B)?" Since A + B = 90, cos(B) = cos(90 minus A) = sin(A) = 4/5. The answer is immediate once the identity is recalled.
-
-UNIT CIRCLE KEY VALUES:
-sin(0) = 0, cos(0) = 1.
-sin(30) = 1/2, cos(30) = sqrt(3)/2.
-sin(45) = sqrt(2)/2, cos(45) = sqrt(2)/2.
-sin(60) = sqrt(3)/2, cos(60) = 1/2.
-sin(90) = 1, cos(90) = 0.
-When you need them: exact trigonometric value questions; verifying solutions to trigonometric equations. Memory aid for sin values at 0, 30, 45, 60, 90 degrees: sqrt(0)/2 = 0, sqrt(1)/2 = 1/2, sqrt(2)/2, sqrt(3)/2, sqrt(4)/2 = 1. The pattern sqrt(k)/2 for k = 0, 1, 2, 3, 4 gives all five sin values in order. Cos values are the reverse sequence.
-
-RADIAN-DEGREE CONVERSION:
-Formula: radians = degrees times pi/180. Degrees = radians times 180/pi.
-Key conversions: pi/6 = 30 degrees, pi/4 = 45 degrees, pi/3 = 60 degrees, pi/2 = 90 degrees, pi = 180 degrees, 2 pi = 360 degrees.
-When you need it: any question mixing radians and degrees, or requiring radian-to-degree conversion for trig function evaluation.
-
-SURFACE AREA FORMULAS (not provided by SAT):
-Rectangular prism: SA = 2(lw + lh + wh).
-Cylinder: SA = 2 pi r squared + 2 pi r h.
-Sphere: SA = 4 pi r squared.
-When you need them: questions explicitly asking for surface area rather than volume.
-
-3D SCALING PRINCIPLE:
-When all linear dimensions of a solid are multiplied by k: volume scales by k cubed; surface area scales by k squared.
-When only one dimension changes (e.g., height of a cylinder): multiply the formula by k raised to the power of that dimension's occurrence in the formula.
-When you need it: "if the radius is doubled, what happens to the volume?" type questions.
-
-## Domain 4: Statistics and Probability Formulas
-
-The Problem Solving and Data Analysis domain accounts for approximately 15 percent of Digital SAT Math questions.
-
-MEAN (ARITHMETIC AVERAGE):
-Formula: mean = (sum of all values) / (number of values).
-When you need it: any question asking for the mean; finding a missing value when the mean is given; working backward from mean to sum.
-Working backward: if mean = m and there are n values, sum = m times n.
-
-WEIGHTED MEAN:
-Formula: weighted mean = (sum of (value times weight)) / (sum of weights).
-When you need it: questions involving grade averages with different credit weights, or population averages for two groups.
-
-MEDIAN:
-Definition: the middle value when data is sorted in order. For an even number of values, the median is the average of the two middle values.
-When you need it: any question asking for the median; questions about the effect of adding or removing a value on the median vs mean.
-
-MODE:
-Definition: the value that appears most frequently in a data set.
-When you need it: questions explicitly asking for the mode; bimodal distributions (where two values tie for most frequent).
-
-RANGE:
-Formula: range = maximum value minus minimum value.
-When you need it: any question asking for the spread of a data set by range.
-
-STANDARD DEVIATION INTERPRETATION:
-Definition: a measure of how spread out values are around the mean. Higher standard deviation = more spread.
-Important property: adding a constant to every value shifts the mean but does not change the standard deviation. Multiplying every value by a constant multiplies both mean and standard deviation by that constant.
-When you need it: questions about spread, comparing variability between two data sets, or answering "what happens to the standard deviation when..." questions.
-
-PROBABILITY FORMULA:
-Formula: P(event) = (number of favorable outcomes) / (total number of equally likely outcomes).
-When you need it: any basic probability question; interpreting probabilities from tables or proportions.
-
-COMPLEMENTARY PROBABILITY:
-Formula: P(not A) = 1 minus P(A).
-When you need it: any question asking for the probability that an event does NOT occur; questions where the complement is easier to compute.
-
-CONDITIONAL PROBABILITY:
-Formula: P(A given B) = P(A and B) / P(B) = (count of A and B) / (count of B).
-When you need it: any question involving "given that" language; two-way table probability questions where the denominator is a row or column total, not the grand total.
-
-INDEPENDENT EVENTS:
-Definition: events A and B are independent if P(A and B) = P(A) times P(B).
-When you need it: probability questions involving two sequential events that do not affect each other (like flipping a coin twice). The Digital SAT tests independence in two ways: directly (asking whether two events are independent given their probabilities) and computationally (finding P(A and B) when independence is stated). For the computational version: identify P(A) and P(B) and multiply them directly. No conditional probability adjustment is needed because independence means P(A given B) = P(A).
-
-COUNTING PRINCIPLE:
-Formula: if event 1 can occur in m ways and event 2 can occur in n ways, the number of ways both can occur in sequence is m times n.
-When you need it: counting problems involving ordered selections, arrangements, or sequences of choices.
-
-COMBINATIONS FORMULA:
-Formula: C(n, k) = n! / (k! times (n minus k)!), where n is the total and k is the number chosen.
-C(n, k) counts the number of ways to choose k items from n items without regard to order.
-When you need it: questions asking "how many ways can a group of k be chosen from n people?" where order does not matter.
-
-PERMUTATIONS FORMULA:
-Formula: P(n, k) = n! / (n minus k)!, where n is the total and k is the number chosen.
-P(n, k) counts ordered arrangements of k items from n items.
-When you need it: questions asking "how many ways can k items be arranged from n?" where order matters (passwords, rankings, etc.).
-
-LINE OF BEST FIT (REGRESSION LINE) INTERPRETATION:
-Slope: the average change in y for each one-unit increase in x.
-Y-intercept: the predicted value of y when x = 0 (valid only if x = 0 is within the data range).
-R-squared: closer to 1.0 means a better fit; closer to 0 means a poor fit.
-When you need it: any question asking what the slope or y-intercept represents in the context of a regression line.
-
-PERCENTILE:
-Definition: the k-th percentile is the value below which k percent of the data falls.
-When you need it: questions about how a given value compares to a distribution; interpreting percentile rankings.
-
-SAMPLING AND INFERENCE:
-Random sample: a sample where every member of the population has an equal chance of being selected.
-Margin of error: the range within which the true population parameter is estimated to fall.
-When you need them: questions about the validity of conclusions from sample data; questions about what inferences can and cannot be drawn from a given sample.
-
-## Domain 5: Key Rules and Identities
-
-The following rules apply across multiple domains and are among the most frequently tested concepts on the Digital SAT Math section.
-
-INEQUALITY FLIP RULE:
-Rule: when multiplying or dividing both sides of an inequality by a negative number, the direction of the inequality sign flips.
-Example: if minus 2x less than 6, divide both sides by minus 2 and flip: x greater than minus 3.
-When you need it: any inequality solution that requires multiplying or dividing by a negative number.
-Prevention habit (from Article 23): write "FLIP" before performing the operation to avoid forgetting.
-
-ABSOLUTE VALUE INEQUALITY CASES:
-For |expression| less than k: the solution is minus k less than expression less than k (a bounded interval).
-For |expression| greater than k: the solution is expression less than minus k OR expression greater than k (two separate intervals).
-When you need it: solving absolute value inequalities; interpreting "within k units of a" as |x minus a| less than or equal to k.
-
-PROPORTIONALITY AND DIRECT VARIATION:
-Direct variation: y = kx (y is directly proportional to x, k is the constant of proportionality).
-Inverse variation: y = k/x (y is inversely proportional to x).
-When you need them: questions about proportional relationships; percent problems where a quantity scales proportionally. For direct variation: if y is proportional to x and one (x, y) pair is known, find k = y/x, then use y = kx for any other x-value. For inverse variation: if y is inversely proportional to x and one pair is known, find k = xy, then use y = k/x for any other value. The key property of inverse variation: as x increases, y decreases, and the product xy is always constant.
-
-PERCENT CHANGE FORMULA:
-Formula: percent change = (new minus old) / old times 100 percent.
-When you need it: any question asking for the percent increase or percent decrease between two values.
-Prevention habit: always label "old" and "new" before computing to avoid using the wrong denominator.
-
-PERCENT OF A NUMBER:
-Formula: percent of a number = (percent / 100) times the number, or decimal times number.
-When you need it: direct "what is P percent of N?" questions; working backward ("N is P percent of what number?").
-
-SUCCESSIVE PERCENT CHANGES:
-Formula: multiply the multipliers. For increase by r1 then decrease by r2: final = original times (1 + r1) times (1 minus r2).
-When you need it: any question involving two or more sequential percent changes; always multiply multipliers, never add rates.
-
-SYSTEMS OF EQUATIONS:
-For two linear equations with two unknowns: the solution is the intersection point of the two lines.
-Substitution method: solve one equation for one variable, substitute into the other.
-Elimination method: add or subtract equations to eliminate one variable.
-Desmos method: graph both equations, click intersection (fastest for ordered numerical answer choices).
-When you need it: any two-variable system of equations; also systems involving quadratics (one equation is quadratic).
-
-SYSTEMS WITH SPECIAL SOLUTIONS:
-No solution: parallel lines (same slope, different y-intercept). Algebraically: contradiction like 5 = 7.
-Infinite solutions: identical lines (same slope, same y-intercept). Algebraically: identity like 0 = 0.
-When you need it: questions asking for the value of a parameter that makes a system have no solution or infinite solutions (covered in detail in Article 22 Type 1).
-
-RATE-WORK-TIME FORMULA:
-Formula: rate = work / time, or work = rate times time.
-For combined work: combined rate = sum of individual rates. 1/a + 1/b = 1/time to complete together.
-When you need it: any "how long does it take two workers together?" or "at what rate is the tank being filled?" question.
-
-DISTANCE-RATE-TIME FORMULA:
-Formula: distance = rate times time (d = rt).
-When you need it: any problem involving a moving object; problems with two objects moving toward or away from each other (set up separate d = rt equations and combine). For two objects moving toward each other: the time until they meet is the total distance divided by the sum of their speeds. For two objects moving in the same direction: the time until the faster one catches the slower one is the initial separation divided by the difference of their speeds. Both setups follow from writing d = rt for each object and equating total distances.
-
-MIXTURE PROBLEMS:
-Setup: (percent of substance A) times (amount of A) + (percent of substance B) times (amount of B) = (percent of mixture) times (total amount).
-When you need it: any question about mixing two solutions or substances with different concentrations.
+### The Recall-Versus-Reference Tradeoff
 
-I-POWER CYCLE:
-i to the 1 = i.
-i squared = minus 1.
-i cubed = minus i.
-i to the 4 = 1.
-Pattern repeats every 4 powers.
-To find i to the n: divide n by 4 and use the remainder: remainder 1 = i, remainder 2 = minus 1, remainder 3 = minus i, remainder 0 = 1.
-When you need it: any question asking for a high power of i (like i to the 47); powers of i in complex number expressions.
+A subtle point separates a high scorer from a middling one. Even for relationships the panel supplies, the strongest candidates memorize the high-frequency ones anyway, because the tap-and-scroll to the corner of the screen costs time that compounds across a module. The special right triangle ratios are on the panel, yet a top scorer recognizes a 30-60-90 the instant it appears and writes the sides without opening anything. The same logic applies to the Pythagorean triples, which are not on the panel at all and which turn a multi-step computation into a single act of recognition. The principle generalizes: memorize anything you will use more than a couple of times per module, regardless of whether the screen offers it, because the panel is a safety net for the rare item, not a substitute for fluency on the common one. The [right triangles and unit circle guide](/1997/07/20/sat-math-right-triangles-unit-circle/) develops this recognition habit in full.
 
-TRIANGLE INEQUALITY THEOREM:
-Rule: the sum of any two sides of a triangle must be greater than the third side.
-When you need it: questions asking which values could be the length of the third side of a triangle, or whether a given set of lengths can form a triangle. For "what values of x could be the third side of a triangle with sides 7 and 12?": the third side must satisfy both 7 + x > 12 (x > 5) AND 7 + 12 > x (x < 19). Combined: 5 < x < 19. This double-inequality setup is the standard application of the triangle inequality.
+This guide therefore flags every relationship in two ways. It tells you whether the official panel already supplies it, so you know what is optional to memorize, and it gives you a usage note, the short statement of when you actually reach for the relationship. Read the usage notes as carefully as the relationships themselves, because a relationship you can state but cannot recognize the moment for is inert. The whole section that follows is the working reference, domain by domain.
 
-SUM OF EXTERIOR ANGLES:
-Rule: the sum of the exterior angles of any convex polygon is always 360 degrees.
-When you need it: questions involving exterior angles of polygons; finding an unknown exterior angle from the others.
+## How to Read the Reference Tables That Follow
 
-## Using the SAT-Provided Reference Sheet Effectively
+Before the relationships themselves, a word on how the tables are built, because the structure is the point. Each domain gets a table. Every row carries three things: the relationship written in plain notation, a short note on when you use it, and a flag stating whether the official panel supplies it. The flag matters for your study plan. A row flagged as supplied is one you may safely leave to the screen if your memory is crowded, though the high-frequency supplied relationships are worth owning anyway for speed. A row flagged as omitted is non-negotiable: the screen will not help you, so the relationship must live in your memory or you will lose the item.
 
-The SAT provides a small reference sheet at the beginning of each Math module. It contains the following formulas:
-Area formulas for rectangles, triangles, and circles.
-Circumference formula for circles.
-Volume formulas for rectangular prisms, cylinders, spheres, cones, and pyramids.
-The Pythagorean theorem.
-Properties of special right triangles (30-60-90 and 45-45-90).
-The number of degrees in a circle (360) and a triangle (180).
-The number of radians in a circle (2 pi).
+Because the absolute formatting rules of this series forbid bullet lists in the body, the tables are the one place the material is allowed to compress into rows, and they are the findable artifact of this page: the domain-organized reference with usage notes and supplied-versus-omitted flags. Everything outside the tables is prose, including the worked demonstrations, because narration teaches the reasoning that a bare row cannot. Read the table to find the relationship, then read the surrounding prose to learn the move.
 
-These formulas are provided because the SAT test designers consider them tools rather than knowledge to be memorized. All other formulas in this article are NOT provided and must be memorized.
+One more orientation point. The relationships are grouped by the College Board's own domain structure where it helps, but the grouping here is pragmatic rather than official. Algebra comes first because linear and quadratic relationships are the highest-frequency omitted material. Geometry and trigonometry come second, blending what the panel supplies with the recognition shortcuts it does not. Statistics and probability come third. A short final group collects the rules that are not relationships in the usual sense but behave like ones, the sign flip on an inequality, the meaning of absolute value as distance, the cycle of the imaginary unit, and the complementary trig identity. Each group is followed by worked micro-demonstrations, because this is a reference, and a reference earns trust by showing the relationship doing its job.
 
-The reference sheet is available throughout both Math modules. It appears as a button or link at the top of the Bluebook interface. Clicking it opens the reference sheet; closing it returns you to the question. The time cost of opening the reference sheet is approximately 5 to 10 seconds per visit.
+## The Algebra Domain Reference
 
-Strategic use of the reference sheet: for the provided formulas (area of a circle, volume formulas, etc.), use the reference sheet during the exam if uncertain. Memorizing these formulas is still faster (saves 5 to 10 seconds per use), but using the reference sheet is a reliable fallback. For all other formulas in this article (slope formula, discriminant, percent change, etc.), no reference is provided and they must be recalled from memory.
+Algebra is where the supplied panel is most silent and where the points are most concentrated. The relationships below are the spine of the section. Linear behavior alone touches more items than any solid the panel defines, and the candidate who owns these cold has a recall advantage that pays off on item after item. Study this group first.
 
-## Formulas That Most Commonly Cause Errors
+### Linear Relationships, Every Form
 
-The following formulas have the highest rate of application errors on the Digital SAT, based on student performance data. Pay special attention to these during final review.
+A line can be written four ways, and each way is the right way for a particular question. The exam exploits this by phrasing items so that one form is fast and the others are slow. Knowing which form to reach for is half the skill.
 
-HIGH ERROR RATE FORMULAS:
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Slope | m = (y2 - y1) / (x2 - x1) | You have two points and need the rate of change | Omitted |
+| Slope-intercept form | y = mx + b | You know slope and y-intercept, or you want to read them off | Omitted |
+| Point-slope form | y - y1 = m(x - x1) | You know one point and the slope | Omitted |
+| Standard form | Ax + By = C | The item gives a line this way, or asks for integer coefficients | Omitted |
+| Parallel lines | slopes equal | Two lines never meet | Omitted |
+| Perpendicular lines | slopes are negative reciprocals | Two lines meet at a right angle | Omitted |
+| x-intercept | set y = 0, solve for x | You need where the line crosses the horizontal axis | Omitted |
+| y-intercept | set x = 0, solve for y, or read b in y = mx + b | You need where the line crosses the vertical axis | Omitted |
 
-Vertex formula (x = minus b / 2a): students frequently compute b/2a without the negative sign, producing the wrong x-coordinate. Habit: write the negative sign first before substituting any values.
+Every row in that table is omitted from the screen, which tells you how badly the panel underserves the most common content. The slope relationship is the workhorse. When a question gives you a table of values and asks for the rate, you compute slope between two rows and you are done. When a question describes a real situation, a phone plan with a flat fee plus a per-minute charge, a tank draining at a steady rate, the slope is the per-unit rate and the y-intercept is the starting amount. Reading those two numbers straight out of the words is the move that the [interpreting coefficients and constants guide](/1997/04/25/sat-math-interpreting-coefficients/) develops in depth, and it is one of the highest-frequency skills in the section.
 
-Percent change denominator: students frequently divide by the new value instead of the old value. Habit: always write "old" and "new" labels before computing.
+The four forms are not redundant. Point-slope is fastest when you have a point and a slope and the question wants the equation, because you plug in and you are finished without solving for the intercept. Standard form matters when the item gives you a line that way and asks you to find an intercept quickly, since setting one variable to zero is instant in standard form. Slope-intercept is the default for reading behavior off a graph. The candidate who can move fluidly among the forms answers a linear item in seconds; the candidate who only knows one form spends those seconds converting.
 
-Conditional probability denominator: students use the total table count instead of the conditional group total as the denominator. Habit: identify the "given" condition and use that group's total as the denominator.
+### Quadratic Relationships
 
-Discriminant formula: students frequently compute b squared minus 4ac incorrectly when a is negative (double negative errors). Habit: substitute a, b, c values with parentheses: (minus 3) squared minus 4(minus 2)(5).
+Quadratics are the heart of the advanced material, and the panel supplies none of what you need. Memorize this group with care, because the questions here carry weight and several of them route to the harder difficulty band where the points are scarce and valuable.
 
-Arc length formula: students forget to multiply by the fraction of the full circle (theta/360). Habit: write the formula as "fraction of circle times full circumference" to enforce the two-step structure.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Standard form | y = ax^2 + bx + c | The default form; c is the y-intercept | Omitted |
+| Quadratic formula | x = (-b plus or minus the square root of (b^2 - 4ac)) / (2a) | You cannot factor and need the roots | Omitted |
+| Discriminant | b^2 - 4ac | You need the number and type of real solutions | Omitted |
+| Vertex form | y = a(x - h)^2 + k, vertex at (h, k) | The question asks for the maximum, minimum, or vertex | Omitted |
+| Axis of symmetry | x = -b / (2a) | You need the x-coordinate of the vertex from standard form | Omitted |
+| Factored form | y = a(x - r1)(x - r2) | You need the roots, which are r1 and r2 | Omitted |
+| Sum of roots | r1 + r2 = -b / a | You need the roots' sum without solving | Omitted |
+| Product of roots | r1 times r2 = c / a | You need the roots' product without solving | Omitted |
 
-Slope between two points: students flip the x-values and y-values (compute x differences in numerator and y differences in denominator). Habit: write "y goes on top" or use the mnemonic "rise over run" (rise = vertical = y change; run = horizontal = x change).
+The discriminant deserves a separate mention because the exam tests it directly and the question type is fast points for anyone who has the rule memorized. The expression under the radical, b squared minus 4ac, decides everything about the real roots. If it is positive, there are two distinct real solutions. If it is exactly zero, there is one repeated real solution, which graphically means the parabola is tangent to the horizontal axis. If it is negative, there are no real solutions, only a complex conjugate pair. A question that asks for the value of a parameter that makes a quadratic have exactly one solution is really asking you to set the discriminant to zero and solve, and a candidate who recognizes that finishes in well under a minute.
 
-## Formula Memorization Strategies
+The vertex form is the other recall that converts directly to points. Whenever a word problem asks for a maximum height, a minimum cost, or the moment a thrown object reaches its peak, the answer is the vertex, and vertex form reads it off without calculus. If the quadratic is in standard form, the axis of symmetry gives the x-coordinate of the vertex as negative b over 2a, and substituting that value back gives the y-coordinate. These are not on the screen, and the questions that need them are common. The [hardest question types guide](/1997/05/22/sat-math-hardest-question-types/) catalogs several disguised quadratic items where this recall is the unlock.
 
-Memorizing the full set of formulas in this reference sheet is achievable with the right strategy. The following three-stage approach works for most students.
+### Exponents, Radicals, and Their Conversions
 
-Stage one: flash card creation (week one). Create one flash card per formula with the formula on one side and the one-sentence explanation of when to use it on the other. Work through the flash card deck daily for 10 minutes.
+Exponent rules are pure recall with zero support from the screen, and they appear constantly inside larger problems rather than as standalone items, which makes forgetting one quietly fatal. You rarely lose a whole question to a forgotten exponent rule and notice it; you lose the question because a simplification stalled and you never reached the answer.
 
-Stage two: application practice (weeks two to three). For each formula, work through 2 to 3 practice problems that specifically require that formula. The goal is to associate each formula with the specific question format that triggers its use. A formula that is memorized but whose trigger is unknown is less useful than a formula whose trigger is automatic.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Product rule | x^a times x^b = x^(a+b) | Multiplying like bases | Omitted |
+| Quotient rule | x^a / x^b = x^(a-b) | Dividing like bases | Omitted |
+| Power rule | (x^a)^b = x^(ab) | Raising a power to a power | Omitted |
+| Negative exponent | x^(-a) = 1 / x^a | Moving a factor across the fraction bar | Omitted |
+| Zero exponent | x^0 = 1, for x not 0 | Any nonzero base to the zero | Omitted |
+| Fractional exponent | x^(a/b) = the b-th root of x^a | Converting between radical and exponent notation | Omitted |
+| Square root as exponent | the square root of x = x^(1/2) | Rewriting a radical so exponent rules apply | Omitted |
+| Rationalizing | multiply by the conjugate or the matching radical | A radical sits in a denominator | Omitted |
 
-Stage three: integrated recall (weeks four through exam). During full practice modules, identify every formula used. After each module, note which formulas were applied correctly and which were recalled incorrectly or not at all. Targeted review of the error formulas uses the remaining preparation time efficiently.
+The fractional exponent conversion is the single most useful row here, because the exam loves to write the same quantity two ways and ask which expressions are equivalent. The cube root of x squared and x to the two-thirds are the same object; recognizing that instantly collapses a question that looks hard into one that is trivial. The negative exponent rule is the second most useful, because it lets you clear a variable out of a denominator and combine terms that otherwise sit on opposite sides of a fraction bar. None of this is on the screen, and all of it is constant connective tissue. Treat the exponent group as vocabulary: you must read it without translating.
 
-A realistic memorization target: the formulas in this reference sheet number approximately 60 to 70 distinct items. Complete memorization of all 60 to 70 is achievable in 3 to 4 weeks with the flash card and application practice approach. Partial memorization (the 25 to 30 highest-frequency formulas) is achievable in 1 to 2 weeks and covers approximately 80 to 85 percent of all formula applications on a typical Digital SAT administration.
+### Worked Demonstrations, Algebra
 
-An efficient alternative to flash cards for some students: formula journals. Instead of cards, write each formula at the top of a page of a dedicated notebook, with the one-sentence explanation and a worked example below it. Review the journal during any brief idle moment (commuting, waiting, etc.). The act of writing the formula from memory while checking the journal builds retrieval practice more effectively than passive re-reading.
+A reference proves itself by showing a relationship at work, so here are three short demonstrations, narrated rather than listed.
 
-## Conclusion
+Consider the discriminant in action. A question states that the equation 2x squared plus kx plus 8 equals 0 has exactly one real solution, and asks for the possible values of k. The single-solution condition means the discriminant equals zero. Here a is 2, b is k, and c is 8, so the discriminant is k squared minus 4 times 2 times 8, which is k squared minus 64. Setting that to zero gives k squared equals 64, so k is 8 or negative 8. The whole solution took one rule and one line of arithmetic. A candidate without the discriminant memorized would try to factor, fail, and burn ninety seconds. The principle generalizes: whenever a question constrains the number of solutions of a quadratic, the discriminant is the lever.
 
-The Digital SAT Math section tests a specific and finite set of formulas and concepts. Every formula that appears on the test is represented in this reference sheet. Students who memorize all formulas in this reference and who understand the specific question type that triggers each formula are mathematically prepared for every formula-based question on the Digital SAT.
+Consider the distance relationship, which is omitted from the panel and which the next domain table also lists because it bridges algebra and geometry. A question gives two points, (1, 2) and (4, 6), and asks for the distance between them. The relationship is the square root of the sum of the squared differences: the horizontal difference is 4 minus 1, which is 3, and the vertical difference is 6 minus 2, which is 4. Squaring and summing gives 9 plus 16, which is 25, and the square root of 25 is 5. The points form the legs of a 3-4-5 right triangle, which is exactly why the distance relationship is the Pythagorean theorem in disguise. A candidate who memorized the triples sees the answer before computing.
 
-The reference sheet is the knowledge foundation. The strategy articles (Articles 19 through 24) provide the execution framework that converts formula knowledge into correct answers under time pressure. Together, the formula knowledge and the execution strategy constitute the complete Digital SAT Math preparation.
+Consider an equivalent-expression item that turns on exponent fluency. A question asks which expression equals the square root of (16 x to the sixth). The square root of 16 is 4, and the square root of x to the sixth is x to the sixth times one-half, which is x cubed. So the expression simplifies to 4 x cubed. The move was the fractional exponent rule applied to the radical, and the candidate who reads radicals as exponents did it in one step. For drilling sets that rehearse exactly these moves under timed conditions, [ReportMedic's SAT math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) give you unlimited items with full worked solutions, which is the natural next action after you have the relationships in memory.
 
-A well-prepared student reading this reference before the exam should feel confident recognition for every formula listed. Any formula that produces uncertainty or a memory blank during review is a formula that needs one more focused practice session. Use this recognition test as a final diagnostic before the exam day.
+## The Functions and Systems Reference
 
-The complete formula reference also functions as a course completion checklist: working through the entire 25-article SAT Math series and being able to recognize every formula in this reference confirms that the preparation is comprehensive. Content gaps (topics not yet studied) correspond to formulas in this reference that are unfamiliar. Strategy gaps (execution skills not yet developed) correspond to the strategy articles (19 through 24). Formula fluency gaps (known content but slow recall) correspond to the flash card practice described in this article.
+Functions and systems sit inside the algebra domain in the official structure, but they deserve their own group here because the relationships govern a question family that the supplied panel ignores entirely and that the digital format leans on heavily. A candidate who owns this group reads graph-behavior items and system-condition items at a glance rather than reasoning them out from scratch.
 
-A student who can look at any formula in this reference sheet and immediately recall: (1) what the formula computes, (2) what the variables represent, (3) what question type triggers its use, and (4) at least one worked example of its application has achieved the level of formula mastery that the Digital SAT requires. This four-dimensional formula knowledge distinguishes students who merely know that a formula exists from students who can apply it fluently in context.
+### Function Notation, Transformations, and Graph Behavior
 
-## Extended Formula Notes: Context, Derivations, and Application Patterns
+Function questions reward a small set of moves applied to a graph or an equation. The transformations especially are pure recall with zero support from the screen, and the exam tests them by showing a base graph and asking what happens when the equation changes.
 
-The formulas in this reference are most useful when accompanied by an understanding of their derivation and the specific question contexts that trigger each one. The following extended notes provide that context for the most important formulas.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Evaluating a function | f(a) substitutes a for the variable | A function is evaluated at a number or expression | Omitted |
+| Vertical shift | f(x) + k moves the graph up by k | A constant is added outside the function | Omitted |
+| Horizontal shift | f(x - h) moves the graph right by h | A constant is subtracted inside the function | Omitted |
+| Vertical reflection | -f(x) flips the graph over the horizontal axis | A negative sits outside the function | Omitted |
+| Horizontal reflection | f(-x) flips the graph over the vertical axis | The variable inside is negated | Omitted |
+| Vertical stretch | a times f(x) stretches by factor a | A coefficient multiplies the whole function | Omitted |
+| Zeros from a graph | the x-values where the graph crosses the horizontal axis | The roots, solutions, or x-intercepts are asked for | Omitted |
+| Maximum or minimum from a graph | the y-value at the highest or lowest point | The extreme value of a function is asked for | Omitted |
 
-THE SLOPE FORMULA IN DEPTH:
-The slope formula m = (y2 minus y1)/(x2 minus x1) quantifies the rate of change between two points. In the context of a linear model (word problem context), slope represents "the change in y per unit of x." For example, if y represents miles driven and x represents hours, a slope of 60 means "60 miles per hour." This contextual interpretation is tested heavily on the Digital SAT in regression interpretation questions (Article 25, Formula Domain 4).
+The horizontal shift is the transformation that trips candidates most, because the direction feels backward: f of the quantity x minus 3 moves the graph to the right by 3, not to the left, even though the sign inside is negative. The cure is to ask what input value makes the inside zero, since that input is where the shifted graph sits. For f of the quantity x minus 3, the inside is zero when x is 3, so the feature that was at the origin is now at 3, confirming a rightward shift. The vertical shift behaves intuitively: adding outside moves up, subtracting outside moves down. Reflections flip across the axis named by where the negative sits, outside for the horizontal axis and inside for the vertical. These relationships are entirely omitted from the screen, and a graph-transformation item is fast points for anyone who has them automatic. The deeper development, including combined transformations, lives in the broader function material referenced throughout the [advanced math domain complete guide](/2021/04/16/sat-advanced-math-domain-complete-guide/).
 
-Parallel lines have identical slopes because parallel lines have the same steepness. Perpendicular lines have slopes that are negative reciprocals because the rotation of 90 degrees transforms a slope of m into a slope of minus 1/m. A quick check: m1 times m2 = minus 1 confirms perpendicularity.
+The reading of zeros from a graph connects to the factored form you saw in the quadratic group. A zero of a function is an x-value where the output is zero, which graphically is a crossing of the horizontal axis, and algebraically is a root or a solution. The exam treats "zero," "root," "solution," and "x-intercept" as the same idea wearing four names, and a candidate who recognizes the synonyms reads a question that switches vocabulary without losing a step. When a polynomial is given in factored form, its zeros are the values that make each factor zero, so the factored form hands you the zeros directly, which is exactly why the factored form is worth memorizing alongside vertex and standard form.
 
-For horizontal lines, y is constant and slope = 0. For vertical lines, x is constant and slope is undefined (division by zero).
+### Systems, Sequences, and Variation
 
-THE QUADRATIC FORMULA IN DEPTH:
-The quadratic formula x = (-b plus or minus sqrt(b squared minus 4ac)) / 2a solves any quadratic equation ax squared + bx + c = 0. The formula is derived by applying completing-the-square to the general quadratic, which is why the vertex x-coordinate (minus b/2a) appears in the center of the formula.
+The conditions under which a system of equations has no solution or infinitely many solutions are a recurring high-value item, and the relationships are omitted from the panel.
 
-The "plus or minus" in the formula produces two solutions (the two roots). The discriminant (b squared minus 4ac) under the radical determines whether these solutions are real and distinct (discriminant greater than 0), real and equal (discriminant = 0, meaning the square root evaluates to 0 and both solutions are identical), or complex (discriminant less than 0, meaning the square root of a negative number produces an imaginary result).
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| System with one solution | the lines have different slopes | Two equations cross at a single point | Omitted |
+| System with no solution | same slope, different intercepts | The lines are parallel and never meet | Omitted |
+| System with infinite solutions | same slope and same intercept | The two equations describe the same line | Omitted |
+| Arithmetic sequence | each term adds a common difference d | Terms grow by a fixed amount | Omitted |
+| Geometric sequence | each term multiplies by a common ratio r | Terms grow by a fixed factor | Omitted |
+| Direct variation | y = kx, y proportional to x | Doubling x doubles y | Omitted |
+| Inverse variation | y = k/x, y inversely proportional to x | Doubling x halves y | Omitted |
+| Average rate of change | (change in output) / (change in input) | The average slope over an interval is asked for | Omitted |
 
-Practical tip: for the Digital SAT, the quadratic formula is most useful when factoring is not obvious. If the quadratic factors easily (e.g., x squared minus 5x + 6 = (x minus 2)(x minus 3)), factoring is faster. If the quadratic does not factor over the integers (e.g., x squared + 3x + 1 = 0), the quadratic formula or Desmos zero-finding is necessary.
+The no-solution and infinite-solution conditions are the system items the exam favors, because they look like ordinary systems but turn on a single recognition. A system has no solution when the two equations have the same slope but different intercepts, meaning the lines are parallel, and it has infinitely many solutions when the equations have the same slope and the same intercept, meaning they are secretly the same line. A question that asks for the value of a coefficient that makes a system have no solution is asking you to match the slopes while keeping the intercepts different, and recognizing that converts a frightening item into a slope comparison. The full treatment is in the [systems with no solution and infinite solutions guide](/1997/07/29/sat-math-systems-no-infinite-solutions/), which works through the algebra step by step.
 
-THE EXPONENT RULES IN DEPTH:
-The five exponent rules (product, quotient, power, zero, negative) follow from the definition of exponentiation as repeated multiplication.
+The distinction between arithmetic and geometric sequences mirrors the distinction between linear and exponential models, which is itself a tested comparison developed in the [linear versus exponential models guide](/1997/06/09/sat-math-linear-vs-exponential-models/). An arithmetic sequence adds the same amount each step, which is linear behavior, while a geometric sequence multiplies by the same factor each step, which is exponential behavior. Direct and inverse variation are the proportional relationships behind a class of word problems: direct variation means the ratio of y to x stays constant, so the two quantities rise and fall together, while inverse variation means their product stays constant, so one rises as the other falls. None of these is on the screen, and the variation problems in particular catch candidates who assume every relationship between two quantities is direct.
 
-Product rule (add exponents when multiplying same base): x cubed times x squared = (x times x times x) times (x times x) = x to the 5. Three factors times two factors = five factors.
+### Worked Demonstrations, Functions and Systems
 
-Quotient rule (subtract exponents when dividing same base): x to the 5 divided by x squared = (x times x times x times x times x) / (x times x) = x cubed. Five factors divided by two factors = three factors.
+A transformation demonstration shows the backward-feeling shift. Suppose the graph of f(x) passes through the origin, and the question asks where the graph of f of the quantity x minus 4, plus 2 passes. The inside subtraction of 4 shifts the graph right by 4, and the outside addition of 2 shifts it up by 2, so the point that was at the origin lands at (4, 2). The candidate who read the inside subtraction as a leftward move would place it at (negative 4, 2) and select a distractor. The principle: inside the function affects the horizontal direction and runs opposite to the sign, while outside affects the vertical direction and runs with the sign.
 
-Power rule (multiply exponents for a power of a power): (x squared) cubed = (x squared) times (x squared) times (x squared) = x to the 6. Three applications of x-squared, each contributing 2, gives 2 times 3 = 6.
+A system demonstration shows the no-solution recognition. A question gives the system 2x plus 3y equals 6 and 4x plus 6y equals 15, asking how many solutions it has. Rewriting both in slope-intercept form, or simply noticing that the second equation's left side is exactly twice the first's while the right sides are not in that same ratio, reveals that the lines have the same slope but different intercepts, so they are parallel and the system has no solution. A candidate who tried to solve by elimination would eliminate both variables and reach a false statement like 0 equals 3, which is the algebraic signature of no solution, but recognizing the parallel condition first is faster.
 
-Zero exponent (x to the 0 = 1): by the quotient rule, x squared / x squared = x to the (2 minus 2) = x to the 0. But any number divided by itself = 1. So x to the 0 = 1.
+A variation demonstration shows the inverse trap. A question states that y varies inversely with x, and that y is 12 when x is 2, then asks for y when x is 8. Inverse variation means the product xy stays constant, so the constant is 12 times 2, which is 24, and when x is 8 the value of y is 24 divided by 8, which is 3. A candidate who assumed direct variation would have scaled y up with x and landed far from the answer. The principle: read the word "inversely" as a signal that the product, not the ratio, is fixed.
 
-Negative exponent (x to the minus a = 1/x to the a): by the quotient rule, x squared / x to the 5 = x to the (2 minus 5) = x to the minus 3. But also, x squared / x to the 5 = 1/(x cubed). So x to the minus 3 = 1/(x cubed).
+## The Polynomial and Unit-Reasoning Reference
 
-These derivations are not tested directly but understanding them prevents errors when applying the rules under time pressure.
+Two more groups round out the omitted material the section leans on. Polynomial factoring patterns turn a hard-looking expression into a solved one, and unit reasoning underlies a quiet but steady share of the problem-solving content. Neither is on the supplied panel, and both reward the same instinct: recognize the pattern, then apply a single move.
 
-THE PYTHAGOREAN THEOREM AND TRIPLES IN DEPTH:
-The Pythagorean theorem a squared + b squared = c squared applies only to right triangles, where c is the hypotenuse (the side opposite the right angle, always the longest side).
+### Factoring Patterns and the Factor Relationship
 
-Pythagorean triples are integer sets (a, b, c) satisfying the theorem. Memorizing the common triples (3-4-5, 5-12-13, 8-15-17, 7-24-25) allows instant recognition of right triangles from side lengths without computation. Any multiple of a Pythagorean triple also forms a right triangle: 6-8-10, 9-12-15, 10-24-26 are all right triangles.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Greatest common factor | pull the shared factor out front | Every term shares a common factor | Omitted |
+| Difference of squares | a^2 - b^2 = (a + b)(a - b) | A subtraction of two perfect squares | Omitted |
+| Perfect square trinomial | a^2 + 2ab + b^2 = (a + b)^2 | A trinomial that is a square | Omitted |
+| Factoring a basic trinomial | find two numbers that multiply to c and add to b | A quadratic x^2 + bx + c must be split | Omitted |
+| Factor and root link | (x - a) is a factor exactly when a is a root | You convert between factors and solutions | Omitted |
 
-On the Digital SAT, Pythagorean triples appear in coordinate geometry questions (distance between two points that happen to form a triple), in classic right triangle problems, and in the 30-60-90 and 45-45-90 triangles (which are related to specific triples).
+The difference of squares is the pattern the exam reuses most, because it lets a candidate collapse an expression in one step. The quantity x squared minus 9 factors instantly into the quantity x plus 3 times the quantity x minus 3, and the same pattern handles less obvious cases like x to the fourth minus 1, which is the quantity x squared plus 1 times the quantity x squared minus 1, and the second factor is itself a difference of squares. Recognizing the pattern twice in one expression is the kind of move the harder routing rewards. The factor-and-root link is the conceptual glue: a value is a root of a polynomial exactly when the corresponding linear factor divides it evenly, so a question that tells you 2 is a solution is also telling you that the quantity x minus 2 is a factor, and that equivalence lets you move between the factored picture and the solution picture without recomputing. The polynomial behavior, including zeros of higher-degree expressions, is developed in the [polynomial zeros and factors guide](/1997/07/06/sat-math-polynomial-zeros-factors/), and the equivalent-expression rewriting that factoring supports is covered in the [equivalent expressions guide](/1997/06/23/sat-math-equivalent-expressions/).
 
-THE DISTANCE AND MIDPOINT FORMULAS IN DEPTH:
-The distance formula sqrt((x2 minus x1) squared + (y2 minus y1) squared) is the Pythagorean theorem applied to the horizontal distance |x2 minus x1| and vertical distance |y2 minus y1| between two points.
+### Unit Rate, Conversion, and Proportional Reasoning
 
-The midpoint formula ((x1 + x2)/2, (y1 + y2)/2) computes the average x-coordinate and average y-coordinate of the two endpoints. A common SAT problem type: the midpoint is given along with one endpoint; find the other endpoint. Setup: ((x1 + x2)/2, (y1 + y2)/2) = (given midpoint). Solve for x2 and y2.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Unit rate | divide to get the amount per single unit | A per-unit price or speed is asked for | Omitted |
+| Unit conversion | multiply by a fraction equal to 1 | A quantity must change units | Omitted |
+| Proportion | set two ratios equal and cross-multiply | Two quantities scale together | Omitted |
+| Combined rate | add rates that act together | Two agents work or fill at the same time | Omitted |
 
-THE PROBABILITY FORMULAS IN DEPTH:
-The basic probability P(A) = favorable/total applies when all outcomes are equally likely. For dependent events (where one outcome affects another), probabilities multiply and adjust: P(A and B) = P(A) times P(B given A).
+Unit conversion is the relationship students underrate, because it looks like arithmetic rather than a technique. The reliable method is to multiply by a fraction that equals 1, arranged so the unwanted unit cancels. Converting 90 kilometers per hour into meters per second means multiplying by 1000 meters per kilometer and by 1 hour per 3600 seconds, so the kilometers and hours cancel and the meters and seconds remain, giving 25 meters per second. Setting the conversion up as canceling fractions rather than as a remembered factor protects you from inverting the conversion, which is the error the exam baits with multi-step unit problems. Proportional reasoning, the cross-multiplication of equal ratios, threads through the problem-solving content and connects to the percent material already covered, and the [problem solving and data analysis guide](/2021/04/08/sat-problem-solving-data-analysis-complete-guide/) develops the full set of rate and ratio techniques.
 
-Conditional probability P(A given B) = P(A and B)/P(B) is the probability of A occurring when it is known that B has occurred. The "given B" restriction changes the sample space from all possible outcomes to only those where B occurred.
+### Worked Demonstrations, Polynomials and Units
 
-On the Digital SAT, conditional probability most commonly appears in two-way table questions. The denominator is always the total for the conditional group (a row total or column total), not the grand total. Correctly identifying the denominator is the primary skill tested in these questions.
+A factoring demonstration shows the difference-of-squares collapse. A question asks for the value of the quantity 102 squared minus 98 squared without a calculator-friendly setup, and the difference-of-squares pattern turns it into the quantity 102 plus 98 times the quantity 102 minus 98, which is 200 times 4, or 800. A candidate who squared both numbers and subtracted would reach the same answer slower and with more chance of an arithmetic slip. The principle: a difference of two squares is always a product of the sum and the difference, and spotting the pattern replaces heavy computation with light computation.
 
-## Worked Example Applications of Key Formulas
+A unit-conversion demonstration shows the canceling-fractions method. A question states that a printer runs at 30 pages per minute and asks how many pages it produces in 2 hours. Converting 2 hours to minutes by multiplying by 60 minutes per hour gives 120 minutes, and 30 pages per minute times 120 minutes gives 3600 pages, with the minutes canceling cleanly. A candidate who multiplied 30 by 2 directly, forgetting the hour-to-minute conversion, would land on 60 and a wrong answer. The principle: when a rate and a time use different units, convert one so the units match before multiplying, and let the canceling units confirm the setup is right.
 
-The following worked examples show each major formula applied to a representative Digital SAT question.
+## How Adaptive Routing Changes Which Relationships Matter
 
-EXAMPLE 1 (Slope and Perpendicular Lines):
-"Line l has slope 3/4. Line m is perpendicular to line l. What is the slope of line m?"
-Perpendicular slopes are negative reciprocals: slope of m = minus 4/3. Formula applied: slope perpendicularity rule.
+The digital exam is section-adaptive, which has a direct consequence for how you weight the relationships above. The math section delivers two modules, and your performance on the first module routes you into an easier or harder second module. The relationships you most need shift between the two, and understanding the shift sharpens your priorities. The mechanics of the routing are developed in the [Module 1 versus Module 2 guide](/1997/05/31/sat-math-module-1-vs-2/), but the formula-recall consequence is worth stating here.
 
-EXAMPLE 2 (Quadratic Formula):
-"Find the roots of 2x squared + 5x minus 3 = 0."
-a = 2, b = 5, c = minus 3. x = (minus 5 plus or minus sqrt(25 + 24)) / 4 = (minus 5 plus or minus sqrt(49)) / 4 = (minus 5 plus or minus 7) / 4. x = 1/2 or x = minus 3. Formula applied: quadratic formula.
+The first module mixes difficulty and leans on the high-frequency foundational relationships: the slope and forms of a line, basic function evaluation, percent reasoning, mean and median, and the straightforward applications of the supplied geometry. A candidate who has the first-tier algebra automatic moves through the first module quickly and accurately, which earns the harder second module where the high scores live. The relationships that carry the first module are precisely the omitted high-frequency ones this reference front-loads, which is another reason to memorize them first: they are the gate to the scoring opportunity.
 
-EXAMPLE 3 (Vertex Formula):
-"Find the maximum value of f(x) = minus x squared + 4x + 1."
-x-coordinate of vertex = minus(4) / (2 times minus 1) = minus 4 / minus 2 = 2. y-coordinate: f(2) = minus 4 + 8 + 1 = 5. Maximum value = 5. Formulas applied: vertex formula x = minus b/(2a), then substitution.
+The harder second module concentrates the second-tier and key-rule relationships. The disguised quadratics that need the discriminant or the vertex, the circle equations that need completing the square, the conditional probability items with a careful denominator, the absolute-value inequalities that split into compound form, the imaginary-unit powers, and the system-condition items all skew toward the harder routing. A candidate aiming above the middle band cannot rely on the supplied panel here, because the panel offers nothing for any of these. The recall that wins the second module is the second-tier and key-rule material, owned cold. This is the structural reason the supplied-versus-omitted flagging matters so much: the harder the module gets, the more it leans on relationships the screen does not provide, so the candidate's memory is the only resource, and the [hardest question types guide](/1997/05/22/sat-math-hardest-question-types/) shows item after item where this holds.
 
-EXAMPLE 4 (Discriminant):
-"For what value of k does kx squared + 6x + 3 = 0 have exactly one real solution?"
-Discriminant = 0: 36 minus 4(k)(3) = 0. 36 = 12k. k = 3. Formula applied: discriminant b squared minus 4ac = 0.
+The practical takeaway is to build recall in the order the routing rewards. Lock the first-tier algebra to automatic speed so the first module is fast and accurate, which earns the harder second module. Then own the second-tier and key-rule relationships so the harder module's disguised items yield rather than stall. A candidate who inverts this, drilling the rare supplied volumes while shaky on slope, prepares for a module they may never see while neglecting the one that decides their score.
 
-EXAMPLE 5 (Percent Change):
-"A store reduces the price of a jacket from $80 to $60. What is the percent decrease?"
-(80 minus 60)/80 times 100 = 20/80 times 100 = 25 percent decrease. Formula applied: percent change = (new minus old)/old.
+## The Geometry and Trigonometry Domain Reference
 
-EXAMPLE 6 (Conditional Probability):
-"Of 40 students, 25 are seniors and 15 are juniors. 10 seniors and 6 juniors play sports. What is the probability that a randomly selected student plays sports given that the student is a junior?"
-P(sports given junior) = 6/15 = 2/5. Formula applied: P(A given B) = (count of A and B)/(count of B).
+Geometry is where the supplied panel is generous, so your job shifts. For this domain you are not memorizing everything; you are memorizing the high-frequency recognition shortcuts the panel omits and confirming you can apply the relationships it supplies. The single most valuable items here, the Pythagorean triples and the complementary trig identity, are not on the screen at all, and they are the ones that turn a slow computation into instant recall.
 
-EXAMPLE 7 (Exterior Angle Theorem):
-"In triangle ABC, angle A = 55 degrees and angle B = 70 degrees. What is the measure of the exterior angle at C?"
-Exterior angle at C = angle A + angle B = 55 + 70 = 125 degrees. Formula applied: exterior angle = sum of non-adjacent interior angles.
+### Coordinate Geometry, Lines and Circles in the Plane
 
-EXAMPLE 8 (i-Power Cycle):
-"What is the value of i to the 53?"
-53 divided by 4 = 13 remainder 1. Remainder 1 corresponds to i. So i to the 53 = i. Formula applied: i-power cycle (remainder after dividing by 4).
+The coordinate relationships bridge algebra and geometry, and almost all of them are omitted from the panel even though they appear regularly.
 
-EXAMPLE 9 (Arc Length):
-"A circle has radius 9 and a central angle of 120 degrees. What is the arc length?"
-Arc length = (120/360) times 2 pi times 9 = (1/3) times 18 pi = 6 pi. Formula applied: arc length = (central angle/360) times circumference.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Distance between two points | the square root of ((x2 - x1)^2 + (y2 - y1)^2) | You need the length of a segment in the plane | Omitted |
+| Midpoint of a segment | ((x1 + x2)/2, (y1 + y2)/2) | You need the point halfway between two points | Omitted |
+| Circle, standard form | (x - h)^2 + (y - k)^2 = r^2, center (h, k), radius r | You need a circle's center and radius and the equation is in standard form | Omitted |
+| Circle, general form | x^2 + y^2 + Dx + Ey + F = 0 | The equation must be completed to the square to find center and radius | Omitted |
+| Recognizing a circle | equal coefficients on x^2 and y^2 | You must identify that an equation is a circle at all | Omitted |
 
-EXAMPLE 10 (Distance Formula):
-"What is the distance between (minus 1, 3) and (5, minus 1)?"
-d = sqrt((5 minus (minus 1)) squared + (minus 1 minus 3) squared) = sqrt(36 + 16) = sqrt(52) = 2 sqrt(13). Formula applied: distance formula.
+The distance and midpoint relationships are high-frequency and entirely absent from the screen, so memorize both. The circle equation is the more dangerous omission, because the exam often disguises a circle in general form, with the squared terms expanded, and the candidate who does not recognize the disguise stares at it as though it were something exotic. The recognition cue is simple and worth stating as a citable rule: when an equation has an x-squared term and a y-squared term with the same coefficient, it is a circle, and you complete the square in both variables to recover the center and radius. The full treatment, including the completing-the-square steps, lives in the [circles, arcs, sectors, and radians guide](/1997/07/24/sat-math-circles-arcs-sectors-radians/).
 
-These ten examples cover the most frequently tested formula applications across all four Digital SAT Math domains. Students who can work through each example in under 60 seconds have achieved a functional level of formula fluency.
+### Right Triangles, the Triples, and the Special Triangles
 
-For students who want to test their formula fluency more systematically: after working through all 10 examples, cover the solution and attempt each one from the formula statement alone, without the worked solution as a guide. The ability to independently apply each formula to a fresh instance of the question type (not just follow the shown solution) is the correct benchmark for exam readiness. If any example requires more than 90 seconds when attempted independently, additional practice with that formula is needed.
+This is the highest-leverage geometry recall in the section, and the panel supplies only part of it.
 
-## Formula Quick-Reference by Question Trigger
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Pythagorean theorem | a^2 + b^2 = c^2 | Any right triangle, finding a third side | Supplied |
+| Common triples | 3-4-5, 5-12-13, 8-15-17, 7-24-25 and their multiples | A right triangle's sides match a triple; recognize instead of computing | Omitted |
+| 30-60-90 ratio | sides in ratio 1 to the square root of 3 to 2 | The triangle has a 30 and a 60 degree angle | Supplied |
+| 45-45-90 ratio | sides in ratio 1 to 1 to the square root of 2 | The triangle is right and isosceles | Supplied |
+| Similar triangles | corresponding sides in equal ratio | Two triangles share all three angle measures | Omitted |
 
-The following quick-reference table organizes formulas by the question trigger phrase or question type, enabling rapid formula selection during the exam.
+The triples are the prize, and they are not on the screen. A right triangle with legs 6 and 8 has a hypotenuse of 10, because 6-8-10 is the 3-4-5 triple doubled, and recognizing that takes a second while applying the Pythagorean theorem takes thirty. Memorize the four common triples and the fact that any multiple of a triple is also a triple. The special triangle ratios are supplied by the panel, which means they are optional to memorize, but the same time argument applies: a candidate who recognizes a 45-45-90 the instant the figure shows two equal legs writes the hypotenuse without scrolling. Similar triangles, omitted from the screen, underlie a whole class of problems where a smaller triangle sits inside a larger one and proportions of corresponding sides solve for an unknown.
 
-"What is the slope?" or "What is the rate of change?" --> Slope formula = (y2 minus y1)/(x2 minus x1).
+### Trigonometry, the Compact Set the Exam Actually Uses
 
-"What is the equation of the line?" --> Slope-intercept: y = mx + b; point-slope: y minus y1 = m(x minus x1).
+The trig the exam tests is narrow, and one identity inside it is the most reliably tested trig fact on the whole section.
 
-"Find the roots/zeros/solutions of a quadratic" --> Quadratic formula or Desmos zero-finding or factoring.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| SOH CAH TOA | sine = opposite/hypotenuse, cosine = adjacent/hypotenuse, tangent = opposite/adjacent | A right triangle and you need a side or an angle ratio | Omitted |
+| Complementary identity | sin(x) = cos(90 - x) | The question pairs the sine of one acute angle with the cosine of the other | Omitted |
+| Radian-degree conversion | multiply by pi/180 for degrees to radians; by 180/pi for the reverse | The item mixes radian and degree measure | Omitted |
+| Common angle values | the sine and cosine of 0, 30, 45, 60, 90 degrees | A unit-circle value is needed for a standard angle | Omitted |
 
-"Find the vertex/minimum/maximum" --> Vertex x = minus b/(2a), then substitute to find y.
+The complementary identity is the trig fact to own absolutely. In a right triangle the two acute angles sum to 90 degrees, so the sine of one equals the cosine of the other, written as the sine of x equals the cosine of 90 minus x. The exam tests this directly with items like "if the sine of A is four-fifths, find the cosine of B" where A and B are the two acute angles of a right triangle, and the answer is simply four-fifths because B is the complement of A. A candidate who has the identity answers instantly; a candidate without it tries to reconstruct the triangle and may not finish. The full development, including the unit-circle angle values, is in the [right triangles and unit circle guide](/1997/07/20/sat-math-right-triangles-unit-circle/).
 
-"How many real solutions?" --> Discriminant b squared minus 4ac: positive = 2, zero = 1, negative = 0.
+### Angles, Parallel Lines, and Polygons
 
-"What is the remainder when divided by (x minus a)?" --> Remainder theorem: f(a).
+Angle reasoning rewards a compact rule set applied in sequence, and the panel supplies only the triangle sum.
 
-"What is the percent change/increase/decrease?" --> Percent change = (new minus old)/old.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Triangle angle sum | three angles sum to 180 degrees | Any triangle | Supplied |
+| Straight angle | adjacent angles on a line sum to 180 degrees | Angles share a vertex on a straight line | Omitted |
+| Vertical angles | opposite angles at an intersection are equal | Two lines cross | Omitted |
+| Transversal, corresponding and alternate | corresponding equal, alternate interior equal, same-side interior supplementary | A line crosses two parallel lines | Omitted |
+| Polygon interior sum | (n - 2) times 180 degrees | You need the sum of a polygon's interior angles | Omitted |
+| Regular polygon interior angle | (n - 2) times 180, divided by n | Each angle of a regular n-sided polygon | Omitted |
+| Exterior angle sum | always 360 degrees | The exterior angles of any polygon | Omitted |
 
-"Mixing two substances/solutions" --> Mixture equation: percent1 times amount1 + percent2 times amount2 = percent_total times total.
+The transversal relationships are the workhorse, since the parallel-lines-cut-by-a-line setup appears on nearly every administration. The trap the exam plants is the confusion between alternate interior angles, which are equal, and same-side interior angles, which are supplementary, and the [angles, parallel lines, and polygons guide](/1997/06/14/sat-math-angles-parallel-polygon/) contrasts the two on a single figure so the distinction sticks.
 
-"How long to complete a task working together?" --> Combined rate = 1/a + 1/b.
+### Worked Demonstrations, Geometry
 
-"Distance between two coordinate points?" --> Distance formula = sqrt((x2 minus x1)^2 + (y2 minus y1)^2).
+A demonstration of the complementary identity makes the recall concrete. A question states that in right triangle ABC the right angle is at C, and the sine of A is 0.6, then asks for the cosine of B. Because A and B are the two acute angles, they are complementary, so the cosine of B equals the sine of A, which is 0.6. No triangle needs to be drawn. The principle: in a right triangle, a sine and the cosine of the other acute angle are always equal, so the question is testing whether you know the relationship, not whether you can compute.
 
-"Midpoint of a segment?" --> Midpoint = ((x1 + x2)/2, (y1 + y2)/2).
+A demonstration of the disguised circle shows the recognition cue at work. A question gives x squared plus y squared minus 6x plus 8y plus 9 equals 0 and asks for the radius. The equal coefficients on the squared terms flag a circle. Completing the square on the x terms turns x squared minus 6x into the quantity x minus 3, squared, minus 9, and completing the square on the y terms turns y squared plus 8y into the quantity y plus 4, squared, minus 16. Substituting back and moving constants gives the quantity x minus 3 squared plus the quantity y plus 4 squared equals 16, so the radius is the square root of 16, which is 4. The recognition that the equation was a circle at all was the entire difficulty; the algebra after that is routine.
 
-"Center and radius of a circle?" --> (x minus h)^2 + (y minus k)^2 = r^2.
+A demonstration of the triple shows the time dividend. A figure shows a right triangle with one leg 9 and a hypotenuse 15, asking for the other leg. Rather than computing 15 squared minus 9 squared, recognize 9-15 as three times 3-5, so the triangle is the 3-4-5 triple scaled by 3, making the missing leg 12. Recognition replaced computation, and across a full module those saved seconds accumulate into the buffer that lets you recheck flagged items.
 
-"Length of an arc?" --> Arc length = (central angle/360) times 2 pi r.
+## The Statistics and Probability Domain Reference
 
-"Area of a sector?" --> Sector area = (central angle/360) times pi r^2.
+The data and statistics content has grown since the digital exam launched, and the panel supplies none of the relationships you need. This domain rewards careful reading as much as recall, but the core relationships still have to live in memory.
 
-"Probability given a condition?" --> P(A given B) = (count of A and B) / (count of B).
+### Center, Spread, and the Reading of Data
 
-"What does the slope represent in context?" --> Slope = average change in y per one-unit increase in x.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Mean | sum of values, divided by the count | The arithmetic average is asked for | Omitted |
+| Median | the middle value when ordered | The center is asked for and outliers may distort the mean | Omitted |
+| Mode | the most frequent value | The most common value is asked for | Omitted |
+| Range | largest value minus smallest value | A simple measure of spread is asked for | Omitted |
+| Weighted mean | sum of (value times weight), divided by sum of weights | Groups of different sizes are combined | Omitted |
+| Effect of an added value | recompute the mean with the new sum and count | A value is added or removed and the mean changes | Omitted |
 
-"What is i to the n-th power?" --> Divide n by 4, use remainder: 1 = i, 2 = minus 1, 3 = minus i, 0 = 1.
+The exam tests the relationship between mean and median more than it tests either in isolation. When a data set is skewed, the mean is pulled toward the long tail while the median holds steady, so a question that adds a large outlier is really asking you to predict that the mean rises while the median barely moves. The standard-deviation comparison, treated fully in the [standard deviation, mean, and median guide](/1997/07/11/sat-math-standard-deviation-mean-median/), is conceptual rather than computational: you compare which of two sets has values clustered more tightly around the center, since the more spread-out set has the larger standard deviation. You will never compute a standard deviation by hand on this exam, but you must reason about it.
 
-"If [dimension] is doubled/tripled, what happens to the volume?" --> Volume scales as k cubed.
+### Probability and Counting
 
-"Find an angle using parallel lines" --> Corresponding angles equal; alternate interior angles equal; co-interior angles supplementary.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Simple probability | favorable outcomes, divided by total outcomes | A single event with equally likely outcomes | Omitted |
+| Probability from a two-way table | the cell count, divided by the relevant row or column total | A frequency table and a probability question | Omitted |
+| Conditional probability | probability of A given B = outcomes in both, divided by outcomes in B | The question restricts attention to a subgroup | Omitted |
+| Counting principle | multiply the number of choices at each independent stage | The total number of arrangements or selections is asked for | Omitted |
+| Complement | probability of not A = 1 minus the probability of A | It is easier to count the unwanted outcomes | Omitted |
 
-"What is the sum of interior angles of an n-gon?" --> (n minus 2) times 180 degrees.
+Conditional probability from a two-way table is the form the exam favors, and it is where careless candidates lose points by dividing by the wrong total. The phrase "given that" is the signal: it tells you to restrict the denominator to the subgroup named after it, not the whole population. A worked demonstration follows below. The full treatment of frequency tables is in the [two-way tables and probability guide](/1997/07/15/sat-math-two-way-tables-probability/).
 
-This quick-reference enables the correct formula to be identified within 5 seconds of reading a question, which is the recognition-speed target for fully prepared students.
+### Percent, the Multiplier, and Change
 
-## Advanced Formula Applications: When Standard Formulas Combine With Novel Contexts
+Percent reasoning runs through the entire problem-solving and data-analysis content, and the multiplier method, while not a single panel relationship, is the recall that converts the most arithmetic into the least effort.
 
-Many high-difficulty Digital SAT questions take standard formulas and embed them in unusual contexts that make the formula harder to recognize. The following examples show each major formula applied in a non-standard context.
+| Relationship | Notation | Use this when | On the panel |
+|---|---|---|---|
+| Percent of a number | the percent as a decimal, times the number | A part of a whole is asked for | Omitted |
+| Percent increase multiplier | multiply by (1 + r) | A quantity grows by rate r | Omitted |
+| Percent decrease multiplier | multiply by (1 - r) | A quantity shrinks by rate r | Omitted |
+| Percent change | (new minus old), divided by old, times 100 | The percent by which a value changed | Omitted |
+| Successive percent change | multiply the multipliers in sequence | Two or more changes apply one after another | Omitted |
 
-SLOPE IN A NON-STANDARD CONTEXT:
-Standard: "Find the slope between (2, 4) and (5, 10)." (Direct application.)
-Non-standard: "A linear function has f(0) = 3 and f(6) = 15. What is the rate of change?" The "rate of change" is the slope. f(0) = 3 gives point (0, 3); f(6) = 15 gives (6, 15). Slope = (15 minus 3)/(6 minus 0) = 2.
-Recognition challenge: the question uses "rate of change" and function notation rather than "slope" and explicit coordinate pairs.
+The multiplier method is the rule worth internalizing. A 20 percent increase is multiplication by 1.2, and a 20 percent decrease is multiplication by 0.8. Successive changes multiply: a 20 percent rise followed by a 20 percent fall is 1.2 times 0.8, which is 0.96, a net 4 percent loss, not a return to the start. The exam plants exactly that trap, expecting candidates to assume the changes cancel. The candidate who reasons with multipliers avoids it automatically.
 
-QUADRATIC FORMULA IN A CONTEXTUAL SETTING:
-Standard: "Solve 2x squared minus 5x minus 3 = 0."
-Non-standard: "A projectile's height is modeled by h(t) = minus 16t squared + 32t + 48. At what time does the projectile hit the ground?" Set h(t) = 0: minus 16t squared + 32t + 48 = 0. Divide by minus 16: t squared minus 2t minus 3 = 0. Factor: (t minus 3)(t + 1) = 0. t = 3 or t = minus 1. Since t is time, t = 3 seconds.
-Recognition challenge: the quadratic appears as a physical model with context variables rather than a naked algebraic equation.
+### Worked Demonstrations, Statistics and Probability
 
-PERCENT CHANGE WITH MULTIPLE STEPS:
-Standard: "A price increases from $40 to $50. What is the percent change?"
-Non-standard: "After two successive 10 percent increases, a quantity is 121 percent of its original value. What is the original value if the final value is 242?" Divide 242 by 1.21: original = 200.
-Recognition challenge: the non-standard version requires recognizing that "two 10 percent increases" equals 1.10 times 1.10 = 1.21, and then working backward from the given final value.
+A conditional probability demonstration makes the denominator trap vivid. Suppose a two-way table sorts 100 students by whether they take a language class and whether they play a sport. Say 40 students play a sport, and of those 40, 30 take a language. The question asks for the probability that a randomly chosen student takes a language, given that the student plays a sport. The phrase "given that the student plays a sport" restricts the universe to the 40 athletes, so the denominator is 40, not 100. The answer is 30 over 40, which is three-quarters. A candidate who divides 30 by 100 has answered a different question and lost the point. The principle: the condition sets the denominator.
 
-DISCRIMINANT IN A TANGENCY CONTEXT:
-Standard: "How many real solutions does x squared minus 4x + 5 = 0 have?"
-Non-standard: "For what value of k does the line y = kx + 1 intersect the parabola y = x squared exactly once?" Substitute: kx + 1 = x squared, so x squared minus kx minus 1 = 0. Discriminant = k squared + 4. Set to 0: k squared = minus 4. No real solutions (the line always intersects the parabola in two real points or is tangent only if the discriminant equals 0, which requires k squared = minus 4, impossible for real k). This reveals that the line y = kx + 1 always intersects y = x squared in two distinct points for any real k.
-Recognition challenge: the discriminant appears as a condition for tangency after a substitution step that creates the quadratic.
+A percent demonstration shows the multiplier saving time. A price rises 10 percent, then the higher price is discounted 30 percent, and the question asks the net percent change from the original. Multiplying the multipliers, 1.10 times 0.70 gives 0.77, which is a net 23 percent decrease. The candidate who tried to add the percents, treating a 10 percent rise and a 30 percent fall as a net 20 percent fall, lands on the wrong answer the exam offers as a distractor. Percent reasoning, developed further in the [problem solving and data analysis guide](/2021/04/08/sat-problem-solving-data-analysis-complete-guide/), rewards the multiplier habit on item after item.
 
-CONDITIONAL PROBABILITY IN A NON-TABLE CONTEXT:
-Standard: "From a two-way table, find P(prefers science given junior)."
-Non-standard: "In a city, 40 percent of residents own dogs, and 30 percent of dog owners also own cats. What is the probability that a randomly selected resident owns both a dog and a cat?" P(dog and cat) = P(dog) times P(cat given dog) = 0.40 times 0.30 = 0.12.
-Recognition challenge: the conditional probability structure is present but no table is given; the question states the conditional probability directly and asks for the joint probability.
+A mean demonstration shows the added-value reasoning. A set of five numbers has a mean of 12, so the sum is 60. A sixth number, 24, is added. The new sum is 84 across six values, so the new mean is 14. The relationship you used was that the mean times the count equals the sum, run in both directions, and that two-way fluency is what separates a quick solve from a stall.
 
-DISTANCE FORMULA IN A CIRCLE RADIUS CONTEXT:
-Standard: "Find the distance between (minus 1, 3) and (5, minus 1)."
-Non-standard: "A circle is centered at (2, minus 3) and passes through the point (8, 5). What is the radius of the circle?" The radius is the distance from the center to the given point: r = sqrt((8 minus 2) squared + (5 minus (minus 3)) squared) = sqrt(36 + 64) = sqrt(100) = 10.
-Recognition challenge: the distance formula appears in the context of a circle radius calculation rather than an explicit "find the distance" prompt.
+A weighted-mean demonstration shows why a plain average sometimes misleads. Suppose one class of 30 students averages 80 on a test and another class of 20 students averages 90, and the question asks for the combined average across all 50 students. A candidate who averages 80 and 90 to get 85 has ignored the different class sizes and chosen a distractor. The correct move multiplies each average by its group size, giving 30 times 80, which is 2400, and 20 times 90, which is 1800, then divides the combined total of 4200 by the 50 students, landing on 84. The larger class pulls the combined average toward its own value, which is the entire point of a weighted mean. The principle: when groups of different sizes are combined, weight each average by its size before dividing, because a simple average of averages silently assumes the groups are equal.
 
-EXTERIOR ANGLE THEOREM IN MULTI-STEP ANGLE CHAINS:
-Standard: "Triangle ABC has angles 55 degrees, 70 degrees, 55 degrees. Find the exterior angle at B."
-Non-standard: "In the figure, lines m and n are parallel. Angle 1 = 60 degrees and angle 2 = 80 degrees. Find angle 3 where a triangle is formed by lines m, n, and a transversal." The triangle formed has angles determined by the parallel line relationships. The exterior angle theorem, alternate interior angles, and the triangle angle sum work together: one step uses parallel lines to find an interior angle, the next uses the exterior angle theorem.
-Recognition challenge: the theorem appears as one step in a multi-step angle chain rather than a direct one-step application.
+## The Key Rules That Behave Like Relationships
 
-## The Formula Reference in the Context of the Full 25-Article Series
+A handful of facts are not relationships in the sense of an equation you plug into, but they govern whole question types and the exam tests them as if they were relationships. None is on the panel, and forgetting any one of them produces a specific, predictable error.
 
-Article 25 is the formula foundation article for the entire series. The earlier topic-specific articles (Articles 1 through 22) each cover the specific formulas relevant to their domain in depth. This reference article consolidates all formulas into a single searchable list for final review.
+| Rule | Statement | Use this when | On the panel |
+|---|---|---|---|
+| Inequality sign flip | reverse the inequality when multiplying or dividing by a negative | You solve an inequality and a negative coefficient appears | Omitted |
+| Absolute value as distance | the absolute value of x is the distance of x from zero | An equation or inequality involves an absolute value | Omitted |
+| Absolute value to compound | the absolute value of an expression less than k becomes a double inequality | You must split an absolute-value inequality | Omitted |
+| Imaginary unit cycle | i, then negative 1, then negative i, then 1, repeating every four powers | A power of the imaginary unit must be simplified | Omitted |
+| Complex conjugate | multiply by the conjugate to clear i from a denominator | A complex number sits in a denominator | Omitted |
+| Function notation | f(a) means substitute a for the variable | A function is evaluated at a value or another function | Omitted |
+| Composition | f(g(x)) means evaluate g first, then f | Two functions are nested | Omitted |
 
-The relationship between this article and the topic articles: when a formula in this reference is applied in a specific context (like completing the square for a circle equation, which involves both the algebra completing-the-square procedure and the circle standard form), the relevant topic article provides the worked-example depth that this reference summarizes. Use this reference for memorization and recall; use the topic articles for understanding and context.
+The inequality sign flip is the most common silent error in the entire section, because the algebra looks identical to solving an equation right up to the moment a negative coefficient demands the reversal, and a candidate in a hurry forgets it and inverts the whole answer set. The absolute-value-to-compound conversion is the rule that unlocks a question type some candidates never crack: the absolute value of an expression being less than a constant becomes a sandwiched double inequality, while the absolute value being greater than a constant splits into two separate inequalities joined by "or." The imaginary unit cycle reduces any power of i to one of four values by taking the exponent's remainder when divided by 4, which turns a frightening-looking power into a one-step lookup. Function notation and composition are not difficult, but they are tested constantly, and the only error candidates make is evaluating the outer function first instead of the inner one. Work the inner function, then feed its output to the outer.
 
-The most effective formula preparation protocol combines both: read the topic article first to understand the formula in context, then use this reference to confirm and test recall. This two-source approach builds both the conceptual understanding that makes formulas meaningful and the automatic recall that makes them fast to apply under exam pressure.
+### Worked Demonstrations, Key Rules
 
-A complete Digital SAT preparation program uses this reference article as follows: during initial topic study (Articles 1 through 22), encounter formulas in context. During strategy study (Articles 19 through 24), learn how to apply formulas efficiently. During final review (this article), consolidate all formula knowledge into a single verified memorization checklist.
+An inequality demonstration shows the flip. Solving negative 3x plus 5 greater than 11, subtract 5 to get negative 3x greater than 6, then divide both sides by negative 3, and the sign reverses, giving x less than negative 2. A candidate who forgot to flip writes x greater than negative 2 and selects the wrong half of the number line. The rule is mechanical, but only if it is automatic.
 
-This approach ensures that formula memorization is not an abstract exercise but a consolidation of formulas that were first encountered in meaningful problem-solving contexts. Formulas learned in context are retained longer and recalled more reliably than formulas memorized in isolation. The twenty-five article series as a whole functions as the contextual learning engine: each topic article teaches the formula in context, and this reference article consolidates the recall. Students who complete the full series find that formula recall is largely automatic by the time they reach this reference article, because each formula has been applied multiple times in worked examples throughout the series.
+An imaginary unit demonstration shows the cycle. To simplify i to the 23rd power, divide 23 by 4 to get a remainder of 3, and i to the third power is negative i. The full power collapsed to a single value because the cycle repeats every four steps. The complex-number material, including division by the conjugate, is developed in the broader treatment of advanced topics, and the [advanced math domain complete guide](/2021/04/16/sat-advanced-math-domain-complete-guide/) carries it further.
 
-## The Formula Reference as a Printable Study Aid
+A composition demonstration shows the order. If f(x) is 2x plus 1 and g(x) is x squared, then f(g(3)) means evaluate g at 3 first, getting 9, then evaluate f at 9, getting 19. A candidate who reversed the order would compute f(3) first and land on the wrong result. Inside out is the rule.
 
-This article functions best as a printable study aid for final review. When printing or using as a digital reference, organize the review as follows:
+## Which Relationships to Memorize First, and Why
 
-Pass one (unfamiliar formulas): read through the complete reference and circle or highlight any formula that requires more than 3 seconds to recall or that feels uncertain. These are the formulas that need additional flash card practice.
+Owning every relationship above is the goal, but a study plan needs an order, because limited time spent on the rarest item is time stolen from the most common one. The priority is set by frequency and by whether the screen helps, and the logic runs straight from the supplied-versus-omitted flags you have been reading.
 
-Pass two (application context): for each circled formula, write one sentence describing the question type that triggers its use. For example: "Sector area formula is triggered when a question asks for the area of a circular slice given the central angle and radius."
+The first tier is the omitted, high-frequency algebra: the slope relationship and the four forms of a line, the quadratic formula and the discriminant and the vertex, and the full exponent rule set. These appear in the largest share of items, the screen supplies none of them, and a gap here costs points across the whole section rather than on one isolated question. If your review time is short, this tier is where it goes, and the broader [SAT math preparation section guide](/2021/05/10/sat-math-preparation-complete-section-guide/) sequences a full plan around exactly this priority.
 
-Pass three (sample problem): for each circled formula, work through one practice problem that specifically requires that formula. The goal is to connect the formula to the problem type so that encountering the problem type triggers automatic formula recall.
+The second tier is the omitted geometry and statistics recall that the panel ignores: the Pythagorean triples, the complementary trig identity, the distance and midpoint relationships, the circle equation and its recognition cue, the conditional probability denominator rule, and the percent multipliers. These are individually high-value, because each one converts a slow computation or a careless error into instant recall, and the questions that need them are common enough that the payoff is reliable.
 
-Pass four (confirmation): re-read the full reference one day before the exam. For any formula that is still not automatic (takes more than 1 second to recall), write it out 5 times from memory and verify the written version against this reference. A final day-before-exam tip: do not try to learn new formulas in the 24 hours before the exam. Focus entirely on confirming what is already memorized. The exam-day benefit of trying to learn one new formula in the final 24 hours is much smaller than the cost of the extra stress and cognitive load. Trust the preparation.  
+The third tier is the supplied geometry you may safely lean on the screen for if your memory is full: the solid volumes, the area relationships, the special triangle ratios. Memorizing these still buys speed, and a candidate aiming above the middle band should, but if you are triaging, this is the tier the panel covers, so it is the tier you can defer. The [score 1500 plus guide](/2021/02/19/how-to-score-1500-plus-on-sat/) makes the case that top scorers memorize even the supplied relationships for the time advantage, while a candidate fighting for a mid-band score gets more return from the first two tiers.
 
-This four-pass review approach, executed over the final 1 to 2 weeks before the exam, ensures that every formula in this reference is at automatic-recall fluency by exam day.
+The fourth and final consideration is the key rules group, which sits outside the frequency tiering because it is small and because each rule governs a whole question type. The inequality sign flip, the absolute-value conversions, the imaginary unit cycle, and function composition are quick to learn and disproportionately costly to forget, so fold them into your first review pass regardless of where the topics fall in the frequency picture.
 
-## Common Formula Confusion Pairs
+## How to Use This Reference in Your Final Two Weeks
 
-Several formula pairs are frequently confused with each other on the Digital SAT. The following disambiguation notes address the most common confusion pairs.
+A reference earns its keep in the last stretch before the exam, when new learning has mostly stopped and consolidation is the work. The relationships above are not meant to be read once; they are meant to be tested against your own recall until the recall is automatic. The most effective final-review use is active rather than passive: cover the notation column, read only the usage note, and produce the relationship from memory, then check. The relationships you miss become your short list, and you cycle that short list daily until it shrinks to nothing.
 
-Arc length vs circumference: arc length = (fraction of circle) times circumference. Circumference = 2 pi r (the full arc length for the whole circle). When the question asks for the full boundary, use circumference. When it asks for a portion, multiply by the fraction.
+Pair the recall drilling with applied practice, because a relationship you can recite is not yet a relationship you can deploy under a running clock. After a recall pass, work a timed set so the relationships fire inside real items rather than in isolation, and the immediate worked-solution feedback from [ReportMedic's math practice tool](https://reportmedic.org/tools/sat-math-practice-questions.html) turns each missed item into a diagnosis: did you not know the relationship, or did you know it and apply it wrong. Those are different failures with different fixes, and the practice tool's full solutions let you tell them apart. The structured countdown for this period, day by day, is laid out in the [last two weeks review checklist](/1997/04/16/sat-math-last-2-weeks-checklist/), which slots formula recall into a taper that leaves you sharp rather than exhausted on exam morning.
 
-Sector area vs circle area: sector area = (fraction of circle) times circle area. Circle area = pi r squared (the full area). When the question asks for the full area, use pi r squared. When it asks for a portion, multiply by the fraction.
+One caution about the final stretch: do not try to add the supplied panel relationships to your memory in the last days if they are not already there, because the screen has them and your scarce review time is better spent locking down the omitted high-frequency tier. The whole point of the supplied-versus-omitted flagging is to let you spend the final hours where they matter. A candidate who, on the night before, drills the cone volume the screen already provides while shaky on the slope relationship has inverted the priorities this reference exists to correct.
 
-Distance formula vs slope formula: distance uses squares and a square root (sqrt((x2-x1)^2+(y2-y1)^2)). Slope uses a simple ratio ((y2-y1)/(x2-x1)). Distance produces a length; slope produces a rate.
+A final note on the digital interface itself. The relationships live in your memory, but the built-in graphing tool can verify many of them, and the strongest candidates use the tool as a check rather than a crutch. Graphing a quadratic confirms the vertex you computed; graphing a circle from its equation confirms the center and radius you found by completing the square. The [Desmos calculator strategy guide](/1997/06/05/sat-desmos-calculator-strategy/) develops this verification habit, and the pairing of memorized recall with on-screen confirmation is how a careful candidate guards against the arithmetic slips catalogued in the [careless mistakes guide](/1997/05/18/sat-math-careless-mistakes/). For US candidates weighing the two main admissions tests, the relationship coverage here maps closely onto the math content of the other exam, and the [ACT versus SAT comparison](/2001/01/27/act-vs-sat-comparison/) lays out where the formula demands diverge.
 
-Mean vs sum: mean = sum/n; sum = mean times n. The confusion: students who want the mean compute the sum, and students who want the sum compute the mean. Label explicitly: "I want the mean" or "I want the sum" before computing.
+## Common Formula-Recall Errors and the Cure for Each
 
-P(A given B) vs P(A and B): P(A given B) has the count of A and B in the numerator and the count of B in the denominator (conditional denominator is the B group). P(A and B) has the count of A and B in the numerator and the total count in the denominator (joint probability denominator is the total).
+Knowing a relationship and deploying it correctly under a clock are different skills, and the gap between them is where a predictable set of recall errors lives. Each error below is specific, each is common, and each has a concrete cure that costs nothing but attention. Folding these cures into your practice is often worth more than learning a new relationship, because they recover points you are already losing on material you already know.
 
-Vertex x-coordinate vs axis of symmetry: they are the same value (x = minus b/(2a)). Some questions call it the "axis of symmetry" and ask for the equation x = [value]; others call it the vertex and ask for the coordinates (h, k). Both require x = minus b/(2a).
+The first error is trusting the supplied panel to be complete, which this entire reference exists to correct. The cure is the supplied-versus-omitted flagging: before the exam, you should be able to state without hesitation which high-frequency relationships the screen omits, because that knowledge tells you exactly what your memory must carry. A candidate who walks in believing the panel has the slope relationship will waste seconds discovering it does not, at the worst possible moment.
 
-i squared vs i: i = sqrt(minus 1) (the imaginary unit, not a real number). i squared = minus 1 (a real number). These look similar but differ fundamentally. In FOIL expansion of complex numbers, replace every i squared with minus 1 immediately.
+The second error is the inequality sign that does not get flipped. The algebra of solving an inequality looks identical to solving an equation right up to the step where a negative coefficient is divided out, and a candidate moving fast forgets to reverse the sign and inverts the entire answer set. The cure is a mechanical habit: the instant you divide or multiply an inequality by a negative, flip the sign before writing the next line, every time, with no exception, so the action becomes automatic rather than a thing you must remember to check.
 
-These confusion pairs represent the specific formula-level errors that commonly appear in Digital SAT answer mistakes. Review this disambiguation section carefully if any of these pairs cause uncertainty during practice.
+The third error is the horizontal transformation read in the wrong direction. The function f of the quantity x minus 3 shifts right, not left, and the negative sign inside misleads candidates into the opposite move. The cure is the zero test described earlier: ask what input makes the inside zero, and that input is where the shifted feature sits, which resolves the direction without relying on a half-remembered rule.
 
-For each confusion pair, the most effective disambiguation strategy is to create a single worked example that highlights the difference: apply both formulas in the pair to the same problem scenario and observe how the outputs differ. The contrast makes the distinction concrete and memorable in a way that reading the formulas in isolation does not.
+The fourth error is the conditional probability denominator. A question that says "given that" restricts the universe to the named subgroup, so the denominator is the subgroup total, not the whole population, and a candidate who divides by the population total answers a different question. The cure is to underline the "given that" phrase and write the subgroup total as the denominator before doing anything else, so the restriction is locked in before the arithmetic begins.
 
----
+The fifth error is treating successive percent changes as additive. A 20 percent rise followed by a 20 percent fall is not a wash; it is a 4 percent net loss, because the multipliers 1.2 and 0.8 give 0.96. The cure is the multiplier habit: convert every percent change to a multiplier and multiply them in sequence, never adding or subtracting the percentages, so the compounding is handled correctly by the arithmetic itself.
+
+The sixth error is evaluating a composition from the outside in. The notation f of g of x means evaluate g first and feed its output to f, but the left-to-right reading of the symbols tempts candidates to start with f. The cure is to read composition as a pipeline that flows from the innermost function outward, working the inside completely before touching the outside.
+
+The seventh error is missing the disguised circle. An equation with expanded squared terms is still a circle if the x-squared and y-squared coefficients match, but a candidate who does not recognize the disguise stalls. The cure is the recognition cue stated as a habit: whenever you see both a squared x term and a squared y term, check whether their coefficients match, and if they do, prepare to complete the square. These error cures, together with the broader catalog of slips in the [careless mistakes guide](/1997/05/18/sat-math-careless-mistakes/), are the difference between a candidate's potential score and the score they actually post, and the unlimited timed sets at [ReportMedic](https://reportmedic.org/tools/sat-math-practice-questions.html) are where you rehearse the cures until they hold under pressure.
+
+## The Most Overlooked Relationship, and the Misconception Behind It
+
+The misconception this guide exists to correct is the belief that the supplied panel is enough. It is the most common formula-related error candidates make, and it is not a small one, because the panel is generous in a low-frequency domain and silent in the high-frequency ones, so trusting it inverts the candidate's priorities without their noticing. The fix is the flagging you now have: memorize the omitted high-frequency relationships, lean on the screen for the supplied low-frequency ones, and never confuse the two. A useful way to test whether you have internalized this is to try, from memory, to list the relationships the screen omits, because a candidate who can produce that list on demand has already organized their preparation around the right priorities, while a candidate who cannot is likely still studying the wrong tier. The list is long and the omissions are the common ones, which is the whole uncomfortable truth of the supplied panel.
+
+If a single overlooked relationship had to be named, it would be the vertex form of a quadratic, with the discriminant a close second. The vertex form is overlooked because students assume the quadratic formula covers all quadratic needs, when in fact a large share of quadratic questions ask not for the roots but for the maximum or minimum, which is the vertex, and the quadratic formula does not give you that directly while vertex form does. The discriminant is overlooked because it never appears as a relationship students are told to memorize, only as a quantity buried inside the quadratic formula, so the question type that asks for the number of solutions catches them flat. Both are omitted from the screen. Both are high-frequency. Both convert a hard-looking item into a one-line solve. If your final review fixes nothing else, fix those two, and then widen out to the rest of the first-tier algebra. The verdict of this reference is unambiguous: study the omitted relationships first, in the order this guide tiers them, because that order is where your points actually are.
 
 ## Frequently Asked Questions
 
-**Q1: What formulas does the SAT provide on the reference sheet?**
+### Which math formulas are not on the SAT reference sheet?
 
-The SAT provides area formulas for rectangles, triangles, and circles; circumference of a circle; volume formulas for rectangular prisms, cylinders, spheres, cones, and pyramids; the Pythagorean theorem; special right triangle ratios (30-60-90 and 45-45-90); and the degree measures for circles (360 degrees) and triangles (180 degrees). Everything else in this article must be memorized. A practical implication: even for the provided formulas (like the volume of a cone = (1/3) pi r squared h), it is worth having them memorized because checking the reference sheet takes 5 to 10 seconds. Over the course of a module, memorizing even the provided formulas saves a cumulative 30 to 60 seconds. The reference sheet is a safety net, not a replacement for memorization. The most frequently used provided formulas: area of a circle (pi r squared) and the Pythagorean theorem (a squared + b squared = c squared) appear in many questions. These are worth memorizing first among the provided formulas, followed by the special right triangle ratios (which appear surprisingly often on coordinate geometry questions).
+The supplied panel leaves out far more than it includes, and the omissions are the high-frequency relationships. It gives you no slope relationship and none of the four forms of a line, no quadratic formula, no discriminant, no vertex form, no exponent or radical rules, no distance or midpoint relationship, and no coordinate-plane circle equation. On the statistics side it omits the mean, simple and conditional probability, the counting principle, and the percent multipliers. It also omits the key rules that govern whole question types, such as the inequality sign flip and the imaginary unit cycle. Because these omitted relationships appear in the largest share of items while the panel's supplied content clusters in low-frequency geometry, the practical takeaway is that the things you most need to memorize are precisely the things the screen refuses to give you. Build your memorization plan around the omissions, not the inclusions.
 
-**Q2: How many formulas do I need to memorize for the Digital SAT Math section?**
+### What formulas does the SAT reference sheet already provide?
 
-Approximately 60 to 70 distinct formulas and rules. The 25 to 30 highest-frequency formulas (slope, quadratic formula, vertex formula, discriminant, exponent rules, percent change, conditional probability, distance formula, midpoint formula, and the key rules) cover approximately 80 to 85 percent of all formula applications on a typical administration. Complete memorization of all formulas in this reference is the goal for students targeting 700 and above. Students targeting 600 to 650 can achieve significant score improvements by memorizing the first tier (highest frequency) formulas, which includes slope, the quadratic formula, vertex formula, discriminant, percent change, and the five exponent rules. These first-tier formulas appear on nearly every module. A useful benchmark: a student who needs more than 3 seconds to recall any first-tier formula has not yet memorized it to automaticity. The goal is instant recall (under 1 second) for all first-tier formulas, which requires repeated retrieval practice (flash cards) beyond initial learning.
+As of the current Digital SAT, and you should confirm against the latest official materials since the panel is occasionally revised, the supplied reference is almost entirely geometry. It provides the area and circumference of a circle, the area of a rectangle and a triangle, the Pythagorean theorem, the side ratios for the 30-60-90 and 45-45-90 special triangles, and volume relationships for a rectangular box, a cylinder, a sphere, a cone, and a pyramid. It also states three facts: a circle has 360 degrees, a circle has 2 pi radians, and a triangle's angles sum to 180 degrees. Notice the pattern. Everything supplied is geometry or a solid volume, and those topics occupy a smaller share of the section than students expect. You should never spend study time memorizing the supplied content, though the highest-frequency supplied items, the special triangles especially, are worth owning anyway for the speed of instant recognition.
 
-**Q3: Which domain has the most formulas to memorize?**
+### What is the vertex formula and when do I use it?
 
-Algebra has the most formulas (slope, intercepts, quadratic formula, vertex formula, discriminant, exponent rules, absolute value), followed by Advanced Math (polynomial theorems, complex numbers, function notation, exponential models). Geometry formulas are partly provided by the SAT reference sheet, reducing the memorization burden. Statistics formulas (mean, probability, conditional probability) are fewer in number but conceptually important. A useful prioritization: since Algebra and Advanced Math together account for approximately 70 percent of Digital SAT Math questions, the formulas in those domains deserve the most memorization effort. Geometry formulas are supplemented by the reference sheet. Statistics formulas are fewer in number. The time allocation for memorization should roughly mirror the domain weight: more time on Algebra and Advanced Math formulas, less time on Geometry (partly provided) and Statistics (fewer formulas). An important note about the Geometry and Trigonometry domain: the trigonometric ratios (SOH-CAH-TOA), the complementary angle identity (sin x = cos(90-x)), and the radian-degree conversion are NOT on the SAT reference sheet and must be memorized. Students who neglect trigonometry formulas and rely on the reference sheet will be unprepared for trig questions.
+A quadratic in vertex form is written as y equals a times the quantity x minus h, squared, plus k, and the vertex sits at the point (h, k). You use it whenever a question asks for a maximum, a minimum, or the turning point of a parabola, which is a common request disguised as a word problem about peak height, minimum cost, or maximum profit. If the quadratic is given in standard form instead, the x-coordinate of the vertex is negative b divided by 2a, the axis of symmetry, and substituting that value back gives the y-coordinate. The vertex form is not on the supplied panel, and it is one of the most overlooked high-value relationships in the section, because students assume the quadratic formula handles every quadratic need when in fact the quadratic formula gives roots, not the vertex. Memorize both vertex form and the axis-of-symmetry shortcut, because together they answer the maximum-and-minimum questions the exam asks repeatedly.
 
-**Q4: What is the most commonly missed formula on the Digital SAT?**
+### What is the distance formula on the SAT?
 
-The vertex formula x = minus b/(2a) is one of the most commonly missed because of the negative sign. Students who know the formula sometimes forget the negative, computing b/(2a) instead of minus b/(2a). This produces the wrong vertex x-coordinate and the wrong answer. Writing the negative sign first before substituting values prevents this specific error. Close competitors for most-commonly-missed formula: the conditional probability denominator (using the grand total instead of the row or column total) and the percent change denominator (using the new value instead of the old value). Both involve correctly identifying which quantity goes in the denominator, and both benefit from the labeling habits in Article 23. A less obvious commonly missed formula: the slope formula with a sign error. Students compute (y1 minus y2)/(x2 minus x1) (mixing which numerator is subtracted from which) and get the negative of the correct slope. The fix: always write the formula explicitly as (y2 minus y1)/(x2 minus x1) and subtract consistently.
+The distance between two points is the square root of the sum of the squared differences in their coordinates: the square root of the quantity x2 minus x1, squared, plus the quantity y2 minus y1, squared. It is not on the supplied panel, yet it appears regularly, so memorize it. The relationship is really the Pythagorean theorem applied to the horizontal and vertical legs between the two points, which is why a candidate who knows the common triples can often skip the computation entirely. If the horizontal difference is 3 and the vertical difference is 4, the distance is 5 without any arithmetic, because 3-4-5 is the most common triple. Use the distance relationship whenever a question asks for the length of a segment drawn in the coordinate plane, the perimeter of a figure with plotted vertices, or whether a point lies inside or outside a circle, since that last question compares a point's distance from the center against the radius.
 
-**Q5: How do I remember the difference between combinations and permutations?**
+### What is the midpoint formula and when is it tested?
 
-Combinations (C) = choices where order does not matter (choosing a committee, selecting items from a group). Permutations (P) = choices where order matters (arranging items in sequence, creating passwords, ranking). The mnemonic: "Combinations are for Collections (order irrelevant); Permutations are for Positions (order matters)." Combinations always produce a smaller or equal count than permutations for the same n and k. On the Digital SAT, most counting problems that appear are either direct counting-principle applications (m times n) or combinations (how many ways to choose a group). Pure permutation questions (ordered arrangements) appear less frequently. When uncertain whether a problem requires combinations or permutations, ask: "does switching the order of the selected items give a different result?" If yes, use permutations. If no, use combinations. A concrete test: "choose 3 students from 10 for a committee" - does switching which student is "first" vs "second" matter? No (a committee is a committee regardless of order). Use combinations: C(10,3) = 120. "Arrange 3 books from 10 on a shelf" - does the order of the books on the shelf matter? Yes. Use permutations: P(10,3) = 720.
+The midpoint of a segment is the average of the endpoints' coordinates, written as the point with x-coordinate equal to the average of the two x-values and y-coordinate equal to the average of the two y-values. The supplied panel omits it. You reach for it whenever a question asks for the point halfway between two given points, the center of a circle whose diameter's endpoints are given, since the center is the midpoint of any diameter, or a missing endpoint when the midpoint and one endpoint are known. That last variant is the one the exam favors as a slightly harder item: it gives you the midpoint and one endpoint and asks for the other, which you solve by reversing the averaging, doubling the midpoint coordinate and subtracting the known endpoint. Memorize the midpoint relationship alongside the distance relationship, because the two appear together often and neither is on the screen.
 
-**Q6: When does the i-power cycle apply?**
+### What are the exponent rules I need for the SAT?
 
-Any time a question asks for i to a power greater than 4. Divide the exponent by 4 and use the remainder: remainder 1 = i, remainder 2 = minus 1, remainder 3 = minus i, remainder 0 (or 4) = 1. Example: i to the 47 = i to the (44 + 3) = (i to the 44) times (i cubed) = 1 times (minus i) = minus i. The cycle applies because i to the 4 = 1, so every 4 powers return to 1. A clean verification: i to the 4 = (i squared) squared = (minus 1) squared = 1. Confirmed. For i to the 8: same calculation gives 1 again. The cycle repeating every 4 powers is provable directly from i squared = minus 1.
+You need the full standard set, and none of it is on the supplied panel. Multiplying like bases adds the exponents, dividing like bases subtracts them, and raising a power to a power multiplies them. A negative exponent moves the factor across the fraction bar, so x to the negative a equals one over x to the a. Any nonzero base to the zero power is 1. The most useful rule for this exam is the fractional exponent: x to the a over b equals the b-th root of x to the a, which lets you convert any radical into exponent notation so the other rules apply. The square root of x is x to the one-half. Exponent rules rarely form a standalone question; they appear inside larger problems as the connective tissue that lets a simplification go through, so a forgotten rule does not cost one question, it stalls the simplification and costs whatever question depended on it. Treat them as automatic vocabulary.
 
-**Q7: What is the practical difference between mean, median, and mode in SAT questions?**
+### How do I read the discriminant to classify roots?
 
-The SAT tests mean most heavily (computing it, working backward from it, finding a missing value when the mean is given). Median questions typically ask about the effect of adding or removing a value; the median of an odd-count data set is the middle value after sorting. Mode questions are relatively rare and typically ask which value appears most frequently. A specific SAT trap: adding a value that is larger than all existing values shifts the mean upward but may not change the median if the new value is not in the middle. A key formula for working backward from mean: if mean = M and the number of values = n, then sum = M times n. If a new value v is added, the new mean = (sum + v)/(n + 1). This backward-calculation technique appears in Digital SAT questions that give the mean and ask for a missing value. Standard deviation, while tested conceptually (which distribution is more spread?), is rarely tested computationally on the Digital SAT. Students should know that standard deviation measures spread and that it increases when data points move farther from the mean.
+The discriminant is the expression b squared minus 4ac, the part of the quadratic formula that sits under the radical, and its sign tells you everything about the real roots without solving. If the discriminant is positive, the quadratic has two distinct real solutions and its graph crosses the horizontal axis twice. If the discriminant is exactly zero, there is one repeated real solution and the graph is tangent to the axis, touching it at a single point. If the discriminant is negative, there are no real solutions, only a conjugate pair of complex ones, and the graph never touches the axis. The exam tests this directly with questions that ask for the value of a parameter making a quadratic have exactly one solution, which means setting the discriminant to zero and solving. The discriminant is omitted from the supplied panel and is one of the most overlooked high-value relationships, so memorize the three-case rule and recognize the question type on sight.
 
-**Q8: How do I remember the area formulas that are NOT provided by the SAT?**
+### Which formulas should I memorize for speed even if provided?
 
-The main area formula not provided is the surface area of 3D solids (rectangular prism SA = 2(lw + lh + wh); cylinder SA = 2 pi r squared + 2 pi r h; sphere SA = 4 pi r squared). The key insight: surface area is the total area of all faces. For a rectangular prism, there are 3 pairs of opposite faces: lw (top and bottom), lh (front and back), wh (left and right). Summing all 6 faces gives the formula. For a cylinder: the surface area has two circular ends (pi r squared each = 2 pi r squared total) plus the lateral surface (which unrolls into a rectangle with height h and width equal to the circumference 2 pi r, giving 2 pi r h area). Total: 2 pi r squared + 2 pi r h. For a sphere: SA = 4 pi r squared (the SAT provides the sphere volume formula but not this surface area formula; it appears less frequently but is worth memorizing for completeness). An important distinction: the SAT provides volume formulas but not surface area formulas for the same solid shapes. When a question specifically asks about surface area rather than volume, the reference sheet will not help. Knowing which questions are about surface area (they typically use the phrase "surface area" or ask about the total outer surface) prevents the confusion of applying volume formulas to surface area questions.
+The supplied panel is a safety net for rare items, not a substitute for fluency on common ones, so the strongest candidates memorize the high-frequency supplied relationships anyway. The clearest examples are the two special right triangles. The 30-60-90 and 45-45-90 ratios are on the screen, but a top scorer recognizes them instantly from a figure and writes the sides without tapping into the panel, saving the seconds that compound across a module. The Pythagorean theorem is supplied, yet the triples built on it, 3-4-5 and its relatives, are not, and memorizing those triples turns the theorem into instant recognition. The triangle angle sum is supplied and worth owning because angle-chasing items use it repeatedly. The rule is simple: memorize anything you will use more than a couple of times per module, regardless of whether the screen offers it, because reaching for the panel costs time you would rather spend on the harder items at the end.
 
-**Q9: What is the difference between arc length and sector area?**
+### What is the counting principle on the SAT?
 
-Arc length is the distance along the curved boundary of a circular sector (a one-dimensional measurement in the same units as the radius). Sector area is the area of the "pie slice" portion of the circle (a two-dimensional measurement in square units). Both use the same fraction of the full circle (central angle / 360), applied to circumference for arc length and to total circle area for sector area. A memory aid: arc length uses 2 pi r (the full circumference); sector area uses pi r squared (the full circle area). Both use the same fractional multiplier. The question type determines which to apply: "how long is the curved edge?" uses arc length; "how much area does the slice cover?" uses sector area. An additional note: radians simplify both formulas. Arc length in radians: L = r times theta (where theta is in radians). Sector area in radians: A = (1/2) r squared times theta. Both radians formulas eliminate the 360-degree division and are cleaner for calculation. Students comfortable with radians can use either form.
+The fundamental counting principle says that if a process happens in independent stages, the total number of outcomes is the product of the number of choices at each stage. If you choose a shirt from 4 options and a pair of pants from 3, you have 4 times 3, which is 12 outfits. The exam uses this for arrangement and selection questions, sometimes dressed up as a menu with several courses, a license plate with several positions, or a committee chosen in steps. The principle is not on the supplied panel. The trap to watch is whether the stages are truly independent and whether order matters or repetition is allowed, since those conditions change the count. For most exam items the straightforward multiplication applies, but read carefully for phrases like "without repetition," which reduce the choices available at later stages. Memorize the multiply-the-stages rule and slow down just enough to confirm the stages are independent before applying it.
 
-**Q10: How do I apply the complementary angle trig identity?**
+### How do I convert between point-slope and slope-intercept form?
 
-sin(theta) = cos(90 minus theta) and cos(theta) = sin(90 minus theta). If a question states "sin(40 degrees) = 0.643" and asks "what is cos(50 degrees)?", the answer is 0.643 because 50 = 90 minus 40. The identity follows from the structure of a right triangle: the two acute angles are complementary (sum to 90), and sin of one equals cos of the other. This identity is one of the most directly testable trig facts on the Digital SAT because it requires knowing the relationship, not performing any calculation. The question often provides one trig value and asks for a trig value of the complementary angle in a deliberately confusing format. Recognizing the "90 minus" relationship immediately resolves the question without any computation. The identity extends: tan(theta) = cot(90 minus theta) (tangent of one angle equals the cotangent of the complement), though cotangent appears rarely on the Digital SAT. The primary identity to memorize is sin(theta) = cos(90 minus theta).
+The two forms describe the same line, and converting is a matter of algebra rather than a separate relationship to memorize. Point-slope form is y minus y1 equals m times the quantity x minus x1, which you write directly when you have one point and the slope. To convert it to slope-intercept form, y equals mx plus b, distribute the slope across the parenthesis and then move the constant to isolate y. For example, starting from y minus 2 equals 3 times the quantity x minus 1, distribute to get y minus 2 equals 3x minus 3, then add 2 to both sides to get y equals 3x minus 1, which is slope-intercept form with a y-intercept of negative 1. The reverse conversion is rarely needed, since slope-intercept is usually the destination. Knowing both forms lets you start from whatever the question gives you, a point and a slope or two points, and arrive at the form the answer choices use without wasted steps.
 
-**Q11: When should I use the distance formula versus the Pythagorean theorem?**
+### Is the quadratic formula on the SAT reference sheet?
 
-They are equivalent. The distance formula for (x1, y1) to (x2, y2) is derived by creating a right triangle with legs |x2 minus x1| and |y2 minus y1| and applying the Pythagorean theorem. Use whichever framing is more natural for the question context. For explicit coordinate pairs in the plane, the distance formula is more direct. For right triangle configurations drawn in the problem, the Pythagorean theorem may be more natural. Desmos integration: for questions where only the distance value is needed (not the formula), plot the two points on Desmos and click each point to confirm coordinates, or use the Desmos distance calculator by typing sqrt((x2-x1)^2+(y2-y1)^2) with specific values substituted. A practical note: recognizing Pythagorean triples (3-4-5, 5-12-13, 8-15-17) in coordinate geometry problems allows instant distance identification without computation. If the legs of the coordinate right triangle are 3 and 4, the hypotenuse (distance) is 5.
+No, the quadratic formula is not on the supplied panel, which surprises many candidates because it is the single most famous relationship in school algebra. You must memorize it: x equals negative b, plus or minus the square root of the quantity b squared minus 4ac, all divided by 2a. You use it to find the roots of any quadratic written as ax squared plus bx plus c equals 0 when factoring is not obvious. Because it is omitted from the screen and because quadratics are high-frequency on this exam, the quadratic formula belongs in your first tier of memorization. A useful companion fact is that the expression under the radical is the discriminant, so once the formula is memorized you get the root-classification rule for free. On the digital exam you can often confirm a root by graphing, but you cannot graph your way out of a question that gives the quadratic only symbolically, so the formula has to be in memory.
 
-**Q12: What is the most efficient way to find the y-intercept of a line given two points?**
+### What is the standard form of a line on the SAT?
 
-Method 1: find the slope using (y2 minus y1)/(x2 minus x1), then substitute one point and the slope into y = mx + b and solve for b. Method 2: substitute both points as simultaneous equations (y1 = m times x1 + b and y2 = m times x2 + b) and solve the system. Method 3 (Desmos): enter the two points in a Desmos table and the regression line y1 ~ mx1 + b gives the slope and intercept directly. Method 1 is the fastest paper-based approach for most students. The calculation: find m, then b = y1 minus m times x1. For example, given points (2, 5) and (4, 9): m = (9 minus 5)/(4 minus 2) = 2. b = 5 minus 2 times 2 = 1. Equation: y = 2x + 1. Total time: approximately 30 seconds.
+Standard form of a line is Ax plus By equals C, where A, B, and C are typically integers. It is omitted from the supplied panel. Its advantage shows up on intercept questions, because setting y to zero and solving for x gives the x-intercept in one step, and setting x to zero gives the y-intercept just as fast, which is quicker in standard form than rearranging into slope-intercept first. The exam sometimes gives a line in standard form and asks for a coefficient that produces a particular slope or a particular intercept, in which case you either rearrange to slope-intercept, where the slope is negative A over B, or work directly. Knowing standard form alongside slope-intercept and point-slope means you can read or build a line in whatever shape the question presents, rather than committing to one form and converting everything into it, which wastes the time the digital clock does not give you.
 
-**Q13: How do I identify whether a data set has a linear or exponential relationship?**
+### Which formulas matter most for a final review?
 
-The two-test: compute first differences (y2 minus y1, y3 minus y2, etc.) and ratios (y2/y1, y3/y2, etc.). If first differences are constant, the relationship is linear. If ratios are constant, the relationship is exponential. For data that is approximately but not exactly linear or exponential, use Desmos regression to compare R-squared values for both models. A common Digital SAT question type: a table of values is provided, and the question asks which type of model (linear, quadratic, or exponential) best fits. After the two-test rules out linear and exponential, a constant second difference (difference of differences) indicates quadratic. Desmos regression confirms which model has the better R-squared fit. A practical shortcut for quick model identification: if the first y-value is much smaller than the last y-value and the data seems to be accelerating (growing faster and faster), the relationship is likely exponential. If the data grows at roughly the same rate throughout, it is likely linear. This visual identification from the table values takes 3 to 5 seconds and eliminates one or two models before applying the two-test.
+Concentrate your final review on the omitted, high-frequency relationships, because those are where the screen does not help and where most points live. The top priority is the algebra: the slope relationship and the four forms of a line, the quadratic formula, the discriminant, the vertex form, and the full exponent rule set. The second priority is the high-value omitted geometry and statistics recall: the Pythagorean triples, the complementary trig identity, the distance and midpoint relationships, the circle equation and its recognition cue, the conditional probability denominator rule, and the percent multipliers. Fold in the key rules that govern whole question types, especially the inequality sign flip and the absolute-value conversions, since they are quick to learn and costly to forget. Do not spend final-review hours on the supplied panel content, the solid volumes and area relationships, because the screen has those and your scarce time is better spent locking the omissions into automatic recall.
 
-**Q14: What is conditional probability and how does it differ from simple probability?**
+### How should I use a formula sheet during the last week?
 
-Simple probability: P(A) = favorable outcomes / total outcomes.
-Conditional probability: P(A given B) = (count of A AND B) / (count of B). The "given B" restricts the sample space to only those outcomes where B occurs; B becomes the new denominator.
-Example from a two-way table: if the table has 80 total students, 30 juniors, and 12 juniors who prefer science, then P(science) = 12/80 = 15 percent, but P(science given junior) = 12/30 = 40 percent. The denominator changes from all students to just juniors. The "given" language is the trigger: any question containing "given that," "if it is known that," or "among those who" is asking for conditional probability. The denominator is the total for the "given" group, not the grand total. The most common conditional probability error on the Digital SAT: using the wrong denominator. Prevention: before writing the probability fraction, explicitly ask "what is the conditional group?" and write that group's total as the denominator. Then find the numerator (the count of the target attribute within that group). This two-step protocol prevents the grand-total denominator error.
+Use it actively, not passively, because reading a reference and recalling from it are different skills and only the second one helps on exam day. Cover the notation and read only the usage note, then produce the relationship from memory and check yourself. The ones you miss become a short list you cycle daily until it shrinks to nothing. Pair each recall pass with a timed practice set so the relationships fire inside real items under a clock rather than in isolation, since a relationship you can recite calmly may still desert you under pressure. After practice, separate two kinds of failure: not knowing a relationship, which recall drilling fixes, and knowing it but applying it wrong, which careful worked-solution review fixes. Avoid cramming the supplied panel content in the last week, because the screen provides it. Taper the volume as exam day approaches so you arrive sharp rather than depleted, and trust that automatic recall, not last-minute additions, is what carries you through the section.
 
-**Q15: How does the counting principle relate to combinations and permutations?**
+### What is the most overlooked formula on the SAT?
 
-The counting principle (m times n for two sequential events) is the foundational principle. Permutations apply the counting principle to ordered selections: choosing 3 from 10 in order = 10 times 9 times 8 = P(10, 3). Combinations divide permutations by k! (the number of orderings of the k selected items that are considered the same): C(10, 3) = P(10, 3) / 3! = 720/6 = 120. Use the counting principle directly for simple sequential choice problems; use combinations when order does not matter. On the Digital SAT, the counting principle appears in questions like "a restaurant offers 4 appetizers, 5 main courses, and 3 desserts; how many different three-course meals are possible?" (answer: 4 times 5 times 3 = 60). Combinations appear in questions like "a committee of 3 is chosen from 8 candidates; how many committees are possible?" (answer: C(8,3) = 56). For combination calculation without the formula: C(n, k) = n! / (k! times (n-k)!). For C(8, 3): 8 times 7 times 6 / (3 times 2 times 1) = 336/6 = 56. The numerator is the top k terms of n! (8, 7, 6 for k=3); the denominator is k!.
-
-**Q16: Why does the SAT test the vertex formula and discriminant specifically?**
-
-The vertex and discriminant are the two key properties of a quadratic function that determine its graphical and solution behavior. The vertex tells you the maximum or minimum value and the axis of symmetry. The discriminant tells you how many real solutions exist. Together, they fully characterize a quadratic without requiring full factoring or the quadratic formula. The SAT tests them specifically because they require understanding the relationship between the algebraic formula and the geometric/solution properties. For the vertex formula: the connection between a quadratic's algebraic form (ax squared + bx + c) and its geometric vertex (minimum or maximum point) is tested in both directions: "given the formula, find the vertex" and "given the vertex, find the formula." Both directions require understanding x = minus b/(2a). For the discriminant: the SAT specifically tests whether students understand the qualitative behavior of a quadratic (how many real solutions) without requiring them to solve it. The discriminant converts a question about solutions into a simple arithmetic check, which tests conceptual understanding rather than procedural solving ability.
-
-**Q17: How do I handle problems that combine multiple formulas?**
-
-Most hard Digital SAT questions require chaining two or three formulas in sequence. For example: finding the area of a sector requires (1) finding the central angle, (2) applying the sector area formula using that angle. Finding the distance between two intersection points requires (1) solving the system to find the intersection points, (2) applying the distance formula to those points. The key skill is sequencing: identify what each step produces and which formula takes that product as an input. Practice identifying the "output-input chain" in multi-step problems: the output of step 1 is the input to step 2. This systematic chain-identification habit prevents the common error of applying formulas in the wrong order or skipping a step. A useful pre-solve strategy for multi-formula questions: before computing, map out the chain on scratch paper: "Step 1: find [X] using [formula]. Step 2: use [X] in [formula] to find [Y]. Final answer: [Y]." This 15-second map prevents getting lost mid-problem.
-
-**Q18: What is the reading-time cost of opening the SAT reference sheet?**
-
-Opening the reference sheet in Bluebook takes approximately 5 to 10 seconds (touch/click to open, scan for the needed formula, close). If a formula is memorized, recall takes approximately 1 to 2 seconds. For the high-frequency formulas (slope, quadratic formula, discriminant, vertex), memorization is significantly faster than reference sheet lookup and is strongly recommended. For the rarely tested volume formulas (cone, sphere, pyramid), using the reference sheet when needed is efficient enough that memorization may not be worth the preparation time. An interesting point about the reference sheet: its presence actually supports the SAT's emphasis on higher-order reasoning. By providing basic geometric formulas, the SAT signals that memorizing those formulas is not the tested skill; applying them in complex contexts is.
-
-**Q19: How should I prioritize formula memorization if I have limited preparation time?**
-
-Memorize in this order, based on Digital SAT frequency:
-First tier (highest frequency, memorize first): slope formula, slope-intercept form, quadratic formula, vertex formula, discriminant, percent change, conditional probability formula, distance formula, angle relationships (supplementary, vertical, exterior angle theorem).
-Second tier: midpoint formula, circle equation, exponent rules, mean formula, arc length, sector area, absolute value inequality cases.
-Third tier: combinations/permutations, i-power cycle, surface area formulas, sum of cubes, sampling/margin of error concepts.
-Students with 1 to 2 weeks should focus on first tier. Students with 3 to 4 weeks should achieve second tier as well. Full preparation covers all three tiers. A practical allocation: the first tier contains approximately 15 to 20 formulas and requires 1 to 2 weeks of flash card study plus application practice to memorize. The second tier adds 10 to 15 more formulas. The third tier adds the remaining 10 to 15. Students with access to this complete reference sheet and 4 or more weeks before the exam can achieve full formula coverage through systematic daily practice.
-
-**Q20: Is there any formula that appears almost every Digital SAT administration?**
-
-Yes. The slope formula, the quadratic formula or discriminant, percent change, and conditional probability from a two-way table appear on nearly every Digital SAT Math administration. These four formula areas are the highest-priority memorization targets for any student. A student who can instantly recall and correctly apply these four formulas has addressed the most frequently appearing formula-based questions across all Digital SAT Math administrations. A student who additionally memorizes the vertex formula, the distance formula, the arc length formula, the exterior angle theorem, and the exponent rules has covered essentially all high-frequency formula applications. These nine formula areas together account for approximately 70 to 80 percent of all formula applications on a typical Digital SAT Math section.
+The vertex form of a quadratic is the most overlooked, with the discriminant close behind. Vertex form, y equals a times the quantity x minus h squared plus k with the vertex at (h, k), is overlooked because students assume the quadratic formula covers every quadratic need, when in fact a large share of quadratic questions ask for a maximum or minimum, which is the vertex, and the quadratic formula gives roots rather than the turning point. The discriminant is overlooked because it is never presented as a relationship to memorize on its own, only as a piece buried inside the quadratic formula, so the question type asking for the number of solutions catches unprepared candidates. Both are omitted from the supplied panel, both are high-frequency, and both turn a hard-looking item into a one-line solve. If your review fixes only two relationships, fix these, then widen out to the rest of the first-tier algebra where the bulk of your points wait.
