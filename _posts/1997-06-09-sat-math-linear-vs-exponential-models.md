@@ -1,849 +1,357 @@
 ---
 layout: post
-title: "SAT Math: Linear vs Exponential Models and When to Use Each"
-page_title: "SAT Math Linear vs Exponential Models: Complete Guide to Choosing, Interpreting and Applying Models for the Digital SAT"
+title: "SAT Math: Linear vs Exponential Models"
+page_title: "SAT Linear vs Exponential Models: The Differences-and-Ratios Test and When to Use Each Explained"
 date: 1997-06-09
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Modeling", "Linear", "Exponential"]
-excerpt: "Master the diagnostic test for linear vs exponential data, translate real-world scenarios, interpret growth and decay, and answer every modeling question on the Digital SAT."
-image: "/assets/images/blog/blog-51.webp"
-reading_time: 61
-author: "katherine-blake"
-last_updated: 2026-04-05
-lang: en
+excerpt: "SAT linear versus exponential models explained: the differences-and-ratios diagnostic, real-world cues and piecewise models, with side-by-side worked examples."
+image: "/assets/images/blog/blog-03.webp"
+reading_time: 59
+author: "Insight Crunch Team"
+last_updated: 1997-06-09
 ---
-Linear and exponential model questions appear two to three times on every Digital SAT administration, spanning both the Problem Solving and Data Analysis domain and the Advanced Math domain. They are among the most conceptually rich questions on the test because they require both mathematical skill (identifying and applying the right function form) and interpretive skill (translating a real-world scenario into a model and reading results in context). A student who can automatically distinguish between a constant rate of change (linear) and a constant multiplicative factor (exponential) will resolve every linear-vs-exponential question on the Digital SAT correctly.
 
-The single most powerful diagnostic tool for these questions is the two-test: compute both the differences between consecutive y-values AND the ratios between consecutive y-values from a data table. If the differences are constant, the model is linear. If the ratios are constant, the model is exponential. This two-calculation test resolves every data-table model identification question in under 60 seconds.
+Two tables sit side by side on the screen. One shows a savings account that adds forty dollars every month. The other shows a culture of bacteria that grows by twelve percent every hour. Both columns climb. Both look, at a glance, like the same kind of upward march. A student who treats them as interchangeable picks the wrong equation, plugs into the wrong form, and loses a point that was never about arithmetic at all. It was about a single decision made in the first ten seconds: is this relationship additive or multiplicative, straight-line or compounding, the kind that grows by a fixed amount or the kind that grows by a fixed proportion.
 
-This guide covers the complete Digital SAT treatment of linear and exponential models: the structure of each model and what makes it linear or exponential, the two-test for identifying the correct model from a data table, translating real-world scenarios into linear or exponential form, the key interpretive vocabulary (initial value, rate of change, growth factor, decay factor, doubling time), piecewise linear models, the inevitable dominance of exponential over linear at large values, and the "approximately linear or exponential" question type where real data fits one model better than the other. For the linear equation and slope-intercept concepts that underlie the linear model, the companion [SAT Math algebra guide](/2021/04/24/sat-algebra-domain-complete-guide/) provides the full linear equation framework. For the exponential function notation and transformations that connect to the exponential model, the [SAT Math functions and transformations guide](/1997/08/02/sat-math-functions-transformations/) provides that foundation. For timed practice, the [free SAT Math practice questions](https://reportmedic.org/tools/sat-math-practice-questions.html) on ReportMedic provide Digital SAT-format problems at every difficulty level.
+That decision is what this guide hands you, cold and repeatable. By the end you will run one diagnostic on any data set, any word problem, any pair of answer choices, and route yourself to the correct family in seconds. You will know that a fixed yearly raise belongs to the straight-line world and a percentage growth rate belongs to the compounding world, and you will know why the two are never the same beast wearing different clothes. The differences-and-ratios diagnostic at the center of this piece is the tool a prepared candidate reaches for the instant a modeling question appears, and the worked sequence below drills it until the choice becomes reflex.
 
-![SAT Math Linear vs Exponential Models](/assets/images/blog/blog-51.webp)
+![SAT linear vs exponential models differences-and-ratios diagnostic worked examples - Insight Crunch](/assets/images/blog/blog-03.webp)
 
-## The Structure of Linear Models
+This article sits one layer above the individual function families. If you have already studied the mechanics of [exponential functions, growth and decay equations, and the growth-factor trap](/1997/08/25/sat-math-exponential-functions/), and you have worked through [scatter plots, lines of best fit, and the correlation-is-not-causation rule](/1997/08/11/sat-math-scatter-plots-regression/), then you have the two vocabularies. What you may still lack is the decision layer that chooses between them under pressure. A surprising share of lost points on the digital exam come not from being unable to solve either kind of model but from solving the wrong one with confidence. The fix is a clean test you apply before you commit, and that test is the spine of everything that follows.
 
-A linear model describes a quantity that changes by the same amount for each equal increase in the input variable. The defining feature: a constant rate of change (constant slope).
+## Where linear and exponential models live on the digital exam
 
-The general form of a linear model: y = mx + b, where m is the rate of change (slope) and b is the initial value (y-intercept, the value of y when x = 0).
+Modeling questions are not a single tidy topic with a fixed location. They are scattered across two of the math content areas the College Board defines, and they surface in both the easier and the harder of the two adaptive modules. Understanding where they sit, and what the prompt is really asking when one appears, is the orientation you need before any diagnostic does its work.
 
-What "constant rate of change" means: for every 1-unit increase in x, y changes by exactly m units. If m = 5 and the model represents daily earnings, the person earns $5 more for each additional day worked, regardless of how many days have already been worked.
+The straight-line family belongs mostly to the Algebra content area. A constant rate of change, a starting value, and a variable that moves in equal steps is the signature of every linear word problem, every cost-plus-fee scenario, every "the temperature drops three degrees each hour" setup. The compounding family belongs mostly to the Advanced Math content area, where a quantity multiplied by the same factor at each step produces the curve that starts slow and then climbs steeply, or starts high and decays toward a floor. Some modeling items also touch the Problem Solving and Data Analysis content area, particularly when a table of real measurements asks which kind of relationship fits best. The point of naming the content areas is not to memorize a taxonomy. It is to recognize that a modeling decision can arrive dressed as algebra, as advanced function work, or as data interpretation, and the same diagnostic resolves all three.
 
-In a data table, a linear model produces equal DIFFERENCES between consecutive y-values when the x-values are equally spaced. If x increases by 1 each row and y increases by 3 each row (constant difference of 3), the model is linear with slope m = 3.
+### How often do modeling questions appear on the SAT?
 
-The four components of a linear model statement: initial value b (the starting amount when x = 0), rate of change m (the constant change per unit of x), the independent variable x (often time), and the dependent variable y (the quantity being modeled).
+Modeling items show up a few times per form across the two relevant content areas, frequently enough that no serious candidate can treat them as a corner case. They cluster in the harder routing of the second module, where the test rewards students who decide the family fast and spend their saved seconds on execution rather than on second-guessing the setup.
 
-Real-world linear scenarios: salary with a fixed annual raise of $2,000 per year (linear because the SAME dollar amount is added each year). A car traveling at constant speed of 60 mph (linear because the SAME distance is covered each hour). A tank draining at a constant rate of 10 gallons per minute (linear because the SAME volume leaves each minute). Renting a bicycle at $8 per hour (linear because the SAME charge applies to each additional hour).
+The frequency framing matters because it shapes how much attention this skill deserves in a study plan. A topic that appears once every few forms and only in a throwaway spot can be triaged to the bottom of a review list. A topic that appears reliably, spans two content areas, and gates the correct equation on a question that would otherwise be solvable belongs near the top. Modeling sits in the second category. The candidate who masters the family decision banks points on every form, while the candidate who guesses between additive and multiplicative loses them unpredictably, which is worse than losing them consistently because it makes diagnosis harder.
 
-The key word signal for linear models: "per" (constant amount per unit), "each" (same amount each time), "added," "increased by a fixed amount," "$X more per unit." These phrases signal constant addition, which is the defining property of linear growth.
+There is a second reason orientation matters here. The two families are taught separately in most classrooms and in most prep resources, each in its own chapter, each with its own worked problems. That separation builds two competent silos and no bridge between them. A student finishes the linear chapter able to solve any straight-line problem handed to them, finishes the exponential chapter able to solve any compounding problem handed to them, and never practices the moment when nobody hands them the label and they have to assign it themselves. The digital format exploits exactly that gap. It presents a table or a scenario with no chapter heading, and the unprepared test-taker defaults to whichever family they studied most recently. This guide closes the bridge.
 
-## The Structure of Exponential Models
+### What is the real question behind a "which model" item?
 
-An exponential model describes a quantity that changes by the same MULTIPLICATIVE FACTOR for each equal increase in the input variable. The defining feature: a constant ratio between consecutive values (a constant growth or decay factor).
+When a prompt asks which equation best represents a situation, it is not testing whether you can solve the equation. It is testing whether you can classify the relationship. The arithmetic is usually trivial once the family is fixed. The entire difficulty lives in the assignment step, and that is precisely where the diagnostic earns its keep.
 
-The general form of an exponential model: y = a times b to the power x, where a is the initial value (the value when x = 0) and b is the growth or decay factor (the ratio between consecutive y-values when x increases by 1).
+This reframing changes how you read the question. A novice reads a modeling prompt and starts hunting for numbers to manipulate. A prepared reader pauses and asks a prior question: what kind of change is happening here, change by a fixed quantity or change by a fixed proportion. Only after answering that does the number-crunching begin, and by then the work is short because the family has already narrowed the possible forms to one. The orientation, then, is a habit as much as a knowledge base. Knowledge tells you what additive and multiplicative mean. The habit makes you check which one you are facing before you write a single symbol.
 
-What "constant multiplicative factor" means: for every 1-unit increase in x, y is multiplied by b. If b = 1.08 and the model represents annual savings, the savings multiply by 1.08 each year, meaning the savings grow by 8 percent of the CURRENT amount (which increases each year).
+## The mechanics up close: additive change versus proportional change
 
-In a data table, an exponential model produces equal RATIOS between consecutive y-values when the x-values are equally spaced. If x increases by 1 each row and y values are 10, 20, 40, 80 (each twice the previous), the ratio is constant at 2, indicating an exponential model with growth factor b = 2.
+A straight-line relationship changes by the same quantity over each equal step of the input. If a quantity starts at one hundred and rises by forty for every unit increase in the variable, it reads one hundred, one hundred forty, one hundred eighty, two hundred twenty, and so on. The defining feature is the constant first difference: subtract any value from the next and you get forty every time. The equation that captures this is the slope-intercept form, where the slope is that constant step and the intercept is the starting value before the variable does anything. The slope answers a "per" question, the amount of change per single unit of input, and the intercept answers a "start" question, the value when the input equals zero.
 
-The four components of an exponential model statement: initial value a (the starting amount when x = 0), growth or decay factor b (the constant multiplier per unit of x), the independent variable x (often time), and the dependent variable y.
+A compounding relationship changes by the same proportion over each equal step. If a quantity starts at one hundred and rises by twelve percent for every unit increase, it reads one hundred, one hundred twelve, then one hundred twelve times 1.12, and so on, each term equal to the one before it multiplied by the same factor. The defining feature is the constant ratio: divide any value by the one before it and you get 1.12 every time. The equation is the product of a starting value and a base raised to the power of the variable, where the starting value is the amount before any compounding and the base is the growth or decay factor.
 
-Real-world exponential scenarios: a 5 percent annual interest rate on an investment (exponential because the SAME percentage of the current balance is added each year, so the dollar amount grows each year). Bacterial population doubling every 3 hours (exponential because the population is multiplied by 2 every 3 hours). A radioactive substance losing 10 percent of its mass each year (exponential decay because the SAME percentage of the current mass is removed each year). A viral video being shared at a rate where views multiply by 3 each hour (exponential).
+The single most expensive confusion in this entire topic is the gap between a rate and a factor. A twelve percent growth rate is not a base of 0.12. It is a base of 1.12, because the new amount equals the whole of the old amount plus the twelve percent it gained, and one hundred percent plus twelve percent expressed as a decimal is 1.12. A twelve percent decay rate is a base of 0.88, because the new amount keeps the eighty-eight percent that remains after losing twelve. This is the same growth-rate versus growth-factor distinction that costs students the entire question in the dedicated exponential function guide, and it is worth burning into memory: add the rate to one for growth, subtract it from one for decay, then use that number as the base. A reader who internalizes that conversion never writes a five percent increase as a base of 0.05 again.
 
-The key word signal for exponential models: "percent increase/decrease," "grows by X%," "doubles," "triples," "halves," "multiplied by a factor of." These phrases signal constant multiplication (or division), which is the defining property of exponential growth or decay.
+### Why does increasing data not always mean exponential?
 
-## The Two-Test: The Fastest Way to Identify the Correct Model
+Both families can rise. A straight-line relationship with a positive slope climbs forever in a straight line, and a compounding relationship with a base above one climbs in an accelerating curve. The mistake is treating any upward column as automatically compounding. Rising is shared. The shape of the rise is what separates them.
 
-The two-test is the most reliable and most time-efficient method for identifying whether a given data table represents a linear or exponential model.
+This is the reflex the diagnostic exists to break. Picture a column of numbers that reads ten, twenty, thirty, forty, fifty. It increases steadily, it might even look dramatic on a small graph, and a hurried student labels it exponential because it goes up. But the first differences are all ten, a dead-flat constant, while the ratios run two, then 1.5, then about 1.33, then 1.25, shrinking toward one. Constant difference, shrinking ratio: this is a textbook straight-line relationship, additive to the core, and calling it compounding would route you to the wrong equation. Increase is not the signal. Constant difference versus constant ratio is the signal, and the only way to read that signal reliably is to compute both.
 
-Step one: compute the differences between consecutive y-values (first differences). If these differences are all equal (constant), the model is LINEAR.
+There is a deeper reason the two get confused. Over a short window and with the right numbers, a gently compounding curve and a straight line can look nearly identical. Three or four data points that happen to fall close together do not always reveal which family generated them, especially to the naked eye. That visual ambiguity is exactly why guessing from the shape of a sparse graph fails and why the arithmetic test succeeds. Your eyes can be fooled by a short stretch of data. The first differences and the ratios cannot, because they reduce the relationship to the one property that defines its family.
 
-Step two: compute the ratios between consecutive y-values (divide each y-value by the previous). If these ratios are all equal (constant), the model is EXPONENTIAL.
+The continuous form of compounding, the one built on the natural base, appears on the exam mostly in finance-flavored or science-flavored prompts that explicitly say "compounded continuously" or describe a process governed by a continuous rate. For the family-decision purpose of this guide, the continuous form is still a member of the multiplicative household: it changes by a constant proportion over each instant rather than each discrete step, and it fails the constant-difference test exactly as the discrete form does. You will rarely need to choose between the discrete and continuous compounding forms on a modeling-classification item; you will far more often need to choose between the additive household and the multiplicative household, and that is the choice the diagnostic settles.
 
-If neither the differences nor the ratios are constant, the data does not fit a simple linear or exponential model.
+## The core investigation: the differences-and-ratios diagnostic
 
-Worked example: the table shows x = 0, 1, 2, 3, 4 and corresponding y = 3, 6, 12, 24, 48.
+Here is the entire method in one sentence. Given a table whose input values are equally spaced, compute the first differences of the output column, then compute the ratios of consecutive output values; if the first differences are constant, the relationship is additive and you reach for the slope-intercept form, and if the ratios are constant, the relationship is multiplicative and you reach for the base-raised-to-a-power form. That is the InsightCrunch differences-and-ratios test, and it resolves the family question on every classification item the exam can build.
 
-Differences: 6 minus 3 = 3, 12 minus 6 = 6, 24 minus 12 = 12, 48 minus 24 = 24. The differences are 3, 6, 12, 24. NOT constant. Not linear.
+The artifact below is the test made visible. The left half tests a data set for a constant first difference, the marker of the straight-line household. The right half tests a different data set for a constant ratio, the marker of the compounding household. Read the two columns of computed values, not the raw outputs, and the family announces itself.
 
-Ratios: 6/3 = 2, 12/6 = 2, 24/12 = 2, 48/24 = 2. The ratios are all 2. CONSTANT. Exponential with growth factor 2 and initial value 3.
+| Step | Additive set (output) | First difference | Multiplicative set (output) | Ratio to previous |
+|------|----------------------|------------------|-----------------------------|-------------------|
+| x = 0 | 50 | (start) | 80 | (start) |
+| x = 1 | 70 | 70 - 50 = 20 | 120 | 120 / 80 = 1.5 |
+| x = 2 | 90 | 90 - 70 = 20 | 180 | 180 / 120 = 1.5 |
+| x = 3 | 110 | 110 - 90 = 20 | 270 | 270 / 180 = 1.5 |
+| x = 4 | 130 | 130 - 110 = 20 | 405 | 405 / 270 = 1.5 |
+| Verdict | constant difference of 20 | straight-line, slope 20 | constant ratio of 1.5 | compounding, base 1.5 |
 
-Model: y = 3 times 2 to the power x.
+The additive set passes the difference test with a flat twenty at every step and fails the ratio test, since 70 over 50 is 1.4 but 90 over 70 is about 1.29 and the ratios keep sliding. The multiplicative set passes the ratio test with a flat 1.5 at every step and fails the difference test, since the gaps run forty, sixty, ninety, one hundred thirty-five, growing rather than holding. Two columns of arithmetic, one verdict each. The starting value in each case is simply the output at x equals zero: fifty for the straight-line set, eighty for the compounding set. With family and starting value in hand, the equation writes itself.
 
-Worked example: the table shows x = 0, 1, 2, 3, 4 and y = 5, 8, 11, 14, 17.
+One caution makes the diagnostic bulletproof: the input values must be equally spaced before you trust the raw differences and ratios. If the table jumps from x equals one to x equals three to x equals four, the steps are uneven and a direct subtraction or division will mislead you. When the spacing is uneven, either compute the change per single unit of input first or test only the pairs that are one step apart. On the exam the spacing is almost always uniform, but the equal-spacing condition is the one assumption the test can quietly violate to trap a careless reader, so confirm it before you compute.
 
-Differences: 8 minus 5 = 3, 11 minus 8 = 3, 14 minus 11 = 3, 17 minus 14 = 3. Constant difference of 3. LINEAR with slope m = 3 and initial value b = 5.
+### Worked example one: classify a table by constant difference
 
-Ratios: 8/5 = 1.6, 11/8 = 1.375, 14/11 = 1.27, 17/14 = 1.21. NOT constant. Not exponential.
+Suppose a table lists the cost of a gym membership over several months: month zero costs ninety dollars, month one costs one hundred fifty, month two costs two hundred ten, month three costs two hundred seventy. Run the diagnostic. The first differences are one hundred fifty minus ninety equals sixty, two hundred ten minus one hundred fifty equals sixty, two hundred seventy minus two hundred ten equals sixty. Constant sixty. Now the ratios: one hundred fifty over ninety is about 1.67, two hundred ten over one hundred fifty is 1.4, two hundred seventy over two hundred ten is about 1.29. Sliding, not constant.
 
-Model: y = 3x + 5.
+The verdict is a straight-line relationship. The starting value at month zero is ninety, the constant step is sixty, so the equation is cost equals sixty times the number of months plus ninety. The generalizable principle: a fixed dollar amount added each period is always additive, no matter how large the amount, and the constant first difference confirms it. The size of the step does not make a relationship compounding. Only a constant ratio does that.
 
-Worked example (harder): the table shows x = 0, 2, 4, 6 and y = 100, 50, 25, 12.5.
+### Worked example two: classify a table by constant ratio
 
-The x-values increase by 2, not 1. Adjust: for equally spaced x-values with spacing 2, the ratio test still applies: 50/100 = 0.5, 25/50 = 0.5, 12.5/25 = 0.5. Constant ratio. Exponential.
+A different table tracks the number of users of an app over several weeks: week zero has two hundred users, week one has three hundred, week two has four hundred fifty, week three has six hundred seventy-five. The first differences are one hundred, one hundred fifty, two hundred twenty-five, plainly growing, so the additive family is out. The ratios are three hundred over two hundred equals 1.5, four hundred fifty over three hundred equals 1.5, six hundred seventy-five over four hundred fifty equals 1.5. Constant.
 
-But this ratio (0.5) is the factor for every 2 units of x, not 1 unit. The per-unit factor b is 0.5 to the power (1/2) = root(0.5) = 1/root(2). Or equivalently, write the model as y = 100 times 0.5 to the power (x/2).
+The verdict is a compounding relationship with a base of 1.5, which is a fifty percent weekly growth rate, since 1.5 equals one plus 0.5. The starting count is two hundred. The equation is users equal two hundred times 1.5 raised to the number of weeks. The principle to carry forward: a constant ratio above one is proportional growth, and the base minus one, expressed as a percent, is the growth rate. Here 1.5 minus one is 0.5, a fifty percent rate per week.
 
-The two-test applies to any equally-spaced x-values by comparing consecutive y-values in the table, regardless of the spacing of x.
+### Worked example three: translate a fixed yearly raise into the right form
 
-## Translating Real-World Scenarios Into Models
+A worker earns forty-two thousand dollars and receives a raise of two thousand five hundred dollars each year. Write a model for the salary after a given number of years. The phrase that decides the family is "two thousand five hundred dollars each year," a fixed quantity added per period. That is additive. The starting value is forty-two thousand and the constant step is two thousand five hundred, so the salary equals two thousand five hundred times the number of years plus forty-two thousand.
 
-The translation skill is the application layer of linear-vs-exponential classification: given a verbal description, identify the model type and write the equation.
+Notice what would have happened with a careless read. A student who saw "raise" and "each year" and reached reflexively for the compounding form would have written something like forty-two thousand times some base raised to the years, and then struggled to find a base, because there is no constant ratio here. Forty-four thousand five hundred over forty-two thousand is about 1.06, but forty-seven thousand over forty-four thousand five hundred is about 1.056, and the supposed base drifts. The fixed dollar raise is the tell. A fixed amount of money added on a schedule is straight-line. The principle: read the unit of the change. Dollars added per year is additive; a percent of the current value added per year is multiplicative.
 
-Linear translation: "A company starts with 200 employees and hires 15 new employees each month." Starting value = 200 (b = 200). Rate of change = 15 per month (m = 15). Model: E(t) = 200 + 15t, where t is months.
+### Worked example four: translate a percentage growth rate into the right form
 
-Exponential translation: "A company starts with 200 employees and its workforce grows 8 percent per month." Starting value = 200 (a = 200). Growth factor = 1.08 per month (b = 1.08; the 1 represents keeping 100 percent plus adding 8 percent). Model: E(t) = 200 times (1.08) to the power t.
+A town of eighteen thousand people grows by three percent per year. Write a model for the population after a given number of years. The phrase "three percent per year" is a proportion of the current value, not a fixed head count, so this is compounding. Convert the rate to a factor by adding it to one: three percent is 0.03, and one plus 0.03 is 1.03. The starting value is eighteen thousand. The population equals eighteen thousand times 1.03 raised to the number of years.
 
-The contrast: in the linear model, 15 employees are added per month regardless of the current count. In the exponential model, 8 percent of the CURRENT count are added per month. At month 1: linear adds 15, exponential adds 0.08 times 200 = 16. By month 10: linear still adds 15, but exponential adds 0.08 times 200(1.08) to the 9th = much more than 15.
+The conversion step is where points die. A student who writes eighteen thousand times 0.03 raised to the years has modeled a population that collapses almost to nothing in a single year, since multiplying by 0.03 cuts the figure to three percent of itself. The growth rate is not the base. The factor is the base, and the factor for three percent growth is 1.03. The principle, stated once more because it is the most lucrative single rule in the topic: for growth, base equals one plus the rate; for decay, base equals one minus the rate.
 
-Decay scenarios:
+### Worked example five: show compounding overtaking the straight line
 
-Linear decay: "A tank contains 500 gallons and drains at 30 gallons per hour." W(t) = 500 minus 30t.
+Set a straight-line model against a compounding one and watch what happens over time. Take a savings plan that starts at one thousand dollars and adds five hundred dollars per year, an additive model of one thousand plus five hundred times the years. Set it against an investment that starts at one thousand dollars and grows by twenty percent per year, a multiplicative model of one thousand times 1.2 raised to the years. In the early years the additive plan looks better. After one year the saver has one thousand five hundred and the investor has one thousand two hundred. After two years, two thousand against one thousand four hundred forty. The straight line is ahead.
 
-Exponential decay: "A radioactive substance has a mass of 500 grams and loses 12 percent of its mass each year." M(t) = 500 times (0.88) to the power t. (Keeping 88 percent each year = multiplying by 0.88.)
+Then the curve catches up. After about year eight or nine the compounding model passes the additive one, and after that it pulls away and never looks back, because a constant proportion of an ever-larger base eventually dwarfs any fixed yearly addition. By year fifteen the investor has well over fifteen thousand while the saver has eight thousand five hundred. The principle the exam loves to test in this shape: a compounding relationship with a base above one will eventually exceed any straight-line relationship, no matter how steep the line, given enough input. The crossover is not immediate, which is exactly why the "which is larger" answer depends on the value of the input, and a good prompt forces you to notice that the early lead reverses.
 
-The growth factor b and decay factor:
-For a percent increase of r percent: b = 1 + r/100.
-For a percent decrease of r percent: b = 1 minus r/100.
+### Worked example six: read a piecewise-linear scenario
 
-For an 8 percent annual increase: b = 1.08.
-For a 15 percent annual decrease: b = 0.85.
-For doubling each period: b = 2.
-For halving each period: b = 0.5.
-For tripling each period: b = 3.
+Not every model is a single clean family across its whole domain. A delivery service charges a flat eight dollars for the first three miles and then ninety cents per mile after that. This is a piecewise-linear model, two straight-line pieces stitched together at a breakpoint. For trips of three miles or fewer the cost is a constant eight dollars, a flat line. For trips beyond three miles the cost is eight dollars plus ninety cents times the miles over three, a straight line with slope ninety hundredths starting from the breakpoint.
 
-## Growth Factor, Decay Factor, and the Initial Value
+To find the cost of a seven-mile trip, recognize that the first three miles are covered by the eight-dollar base, leaving four miles at ninety cents each, which is three dollars and sixty cents, for a total of eleven dollars and sixty cents. The diagnostic still applies within each piece: each segment has a constant first difference, so each segment is additive. What changes is the rate at the breakpoint, where the slope shifts from zero to ninety hundredths. The principle: a piecewise-linear model is not a new family, it is two or more straight-line segments with different slopes, and the work is to identify which segment your input lands in before applying that segment's rate.
 
-The parameters a and b in the exponential model y = a times b to the power x have specific interpretations that the Digital SAT tests in context.
+### Worked example seven: a "which model best represents" multiple-choice item
 
-The initial value a: the value of y when x = 0. In context, this is the starting amount before any growth or decay has occurred. For "a population of 1000 bacteria doubles every hour," a = 1000.
+A prompt describes a quantity that starts at sixty-four and is halved at each step, and asks which equation best represents it. The answer choices typically offer a straight-line form with a negative slope, a compounding form with a base above one, a compounding form with a base below one, and a distractor with the rate placed where the base belongs. Halving is multiplication by one-half at each step, a constant ratio of 0.5, which is a base below one, which means decay. The straight-line choice is wrong because halving subtracts a different amount each step: sixty-four to thirty-two drops thirty-two, thirty-two to sixteen drops sixteen, a shrinking gap, not a constant one.
 
-The growth factor b (when b is greater than 1): the multiplier applied to y for each one-unit increase in x. For b = 1.05, y increases by 5 percent per unit. For b = 2, y doubles per unit. The growth RATE as a percent is (b minus 1) times 100 percent.
+The correct equation is sixty-four times one-half raised to the step. The base-above-one choice describes growth, which contradicts a shrinking quantity. The distractor that writes the form as sixty-four times 0.5 added rather than multiplied, or that places a fifty next to the base, is the trap for students who half-remember the form. The principle: "halved at each step" is the verbal signature of a constant ratio of one-half, a decay base, and the only correct form is the compounding one with a base strictly between zero and one. Run the ratio test mentally on the first two values and the family is settled before you read the choices.
 
-The decay factor b (when 0 is less than b is less than 1): the multiplier applied to y for each one-unit increase in x. For b = 0.90, y decreases by 10 percent per unit (retains 90 percent). For b = 0.5, y halves per unit. The decay RATE as a percent is (1 minus b) times 100 percent.
+### Worked example eight: an "approximately linear" real-data case
 
-A common Digital SAT question: "The function P(t) = 4200 times (0.94) to the power t models the population of a city, where t is years since 2010. What is the annual percent decrease in the population?"
+Real measurements never fall on a perfect line or a perfect curve, and the exam knows it. A table of a plant's height over five weeks reads 2.1, 4.0, 5.9, 8.1, 9.8 centimeters. The differences are 1.9, 1.9, 2.2, 1.7, hovering near two but not identical. The ratios are about 1.90, 1.48, 1.37, 1.21, falling steadily. Neither test gives a perfectly flat column because the data is noisy, but the differences cluster tightly around two while the ratios slide downward across a wide range. The relationship is approximately linear: the best straight-line fit has a slope near two and an intercept near 2.1.
 
-The decay factor is 0.94, meaning the population retains 94 percent each year. The annual decrease = 1 minus 0.94 = 0.06 = 6 percent. The population decreases by 6 percent per year.
+The judgment here is comparative, not absolute. With messy real data you do not demand a perfectly constant difference; you ask which column is closer to constant. Differences bouncing between 1.7 and 2.2 are far more stable than ratios sweeping from 1.9 down to 1.2, so the additive family wins. The principle: for real measurements, the family is whichever computed column varies least, and a steadily sliding ratio against roughly steady differences is the signature of a straight-line process with measurement noise on top. This is the same disciplined reading of imperfect data that drives [interpreting slope and intercept as real-world quantities in a regression context](/1997/04/25/sat-math-interpreting-coefficients/), where the line of best fit summarizes a cloud of points rather than connecting them exactly.
 
-A harder question: "The function V(t) = 8000 times (1.035) to the power (4t) models the value of an investment after t years, where each period is a quarter (three months). What is the approximate annual growth factor?"
+The eight cases above span the full range the exam can build: clean tables of each family, word problems of each family, the crossover behavior, the piecewise twist, the multiple-choice classification, and the noisy real-data judgment. Drill them until the diagnostic runs without conscious effort, then take the rehearsal further with the section-targeted sets and immediate worked solutions on the [ReportMedic SAT Math practice tool](https://reportmedic.org/tools/sat-math-practice-questions.html), which lets you convert this reading into repetitions on fresh modeling items until the family decision is automatic.
 
-The quarterly growth factor is 1.035, and there are 4 quarters per year. The annual growth factor = (1.035) to the power 4 approximately 1.1475. The annual growth rate is approximately 14.75 percent.
+### Worked example nine: a decay table that students mislabel as straight-line
 
-## The Diagnostic Test for Real-World Scenarios
+A medication's concentration in the bloodstream is measured each hour: hour zero reads eighty milligrams, hour one reads sixty-four, hour two reads 51.2, hour three reads 40.96. The values are falling, and a hurried reader sees a steady decline and reaches for a straight-line model with a negative slope. Run the diagnostic instead. The first differences are sixty-four minus eighty equals negative sixteen, 51.2 minus sixty-four equals negative 12.8, 40.96 minus 51.2 equals negative 10.24. The drops are shrinking, not constant, so the additive family is out. The ratios are sixty-four over eighty equals 0.8, 51.2 over sixty-four equals 0.8, 40.96 over 51.2 equals 0.8. Constant.
 
-Beyond data tables, the two-test logic applies to verbal descriptions: is the scenario describing constant addition (linear) or constant multiplication (exponential)?
+The verdict is compounding decay with a base of 0.8, which is a twenty percent hourly decline, since 0.8 equals one minus 0.2. The model is eighty times 0.8 raised to the hours. The mislabel happens because a decay curve, viewed over a few points, can pass for a downward line, and the shrinking drops are subtle. The principle: a falling quantity is not automatically straight-line any more than a rising one is automatically compounding. Compute the differences and the ratios on a decreasing column exactly as you would on an increasing one, and let the constant ratio of 0.8 expose the multiplicative decay that the eye misses.
 
-Scenario test: ask "what happens to the change as the quantity grows?"
+### Worked example ten: a contrast pair the exam builds to test the family decision
 
-If the change stays the same (constant dollar amount, constant rate per time), it is LINEAR.
-If the change grows proportionally (same percentage, same factor), it is EXPONENTIAL.
+The most instructive items put the two families side by side and force a choice on nearly identical-looking data. Consider two savings approaches over four years. Plan A starts at one thousand dollars and adds two hundred fifty dollars each year. Plan B starts at one thousand dollars and grows by twenty percent each year. Plan A reads one thousand, one thousand two hundred fifty, one thousand five hundred, one thousand seven hundred fifty, two thousand: first differences a flat two hundred fifty, ratios sliding from 1.25 down toward 1.14, so additive. Plan B reads one thousand, one thousand two hundred, one thousand four hundred forty, one thousand seven hundred twenty-eight, about two thousand seventy-four: first differences growing from two hundred to two hundred forty to about two hundred eighty-eight, ratios a flat 1.2, so compounding.
 
-Practical examples:
+After four years the two land remarkably close, two thousand against roughly two thousand seventy-four, which is exactly why the exam picks such pairs: the endpoints alone do not reveal the families, and only the derived columns do. The principle: when two models start at the same value and end near each other over a short window, the difference between them is structural, not numerical, and the differences-and-ratios test is the only reliable way to tell them apart. Anyone classifying from the endpoints would be lost; anyone running the diagnostic reads the families off instantly.
 
-"A savings account earns $50 interest per year" - constant $50 added regardless of balance. LINEAR.
+### Worked example eleven: a doubling-time problem that hides the base in the exponent
 
-"A savings account earns 5 percent interest per year" - the interest dollar amount grows as the balance grows. EXPONENTIAL.
+A lab culture doubles its mass every five hours, starting at three grams, and the prompt asks for the mass after twenty hours. The phrase "doubles every five hours" is a multiplicative signature, so the family is compounding, but the base is not stated per hour. Doubling means a factor of two, and that factor applies once per five-hour block, so the exponent must count blocks rather than raw hours. The number of five-hour blocks in twenty hours is twenty divided by five, which is four. The model is three times two raised to the time divided by five, and at twenty hours that is three times two to the fourth, which is three times sixteen, or forty-eight grams.
 
-"A drug leaves the body at a rate of 10 mg per hour" - constant 10 mg removed per hour. LINEAR decay.
+The trap is writing the exponent as five times the time rather than the time divided by five. A student who writes three times two raised to five times twenty computes an impossibly large number, modeling a culture that doubles a hundred times rather than four. The period is a divisor that converts elapsed time into the count of complete multiplications, never a multiplier. The mirror case, a half-life, works identically: a substance with a half-life of five hours is modeled as the start times one-half raised to the time divided by five, and the same division converts hours into half-life periods. The principle: when a prompt states the time required for one full multiplication, whether a doubling, a tripling, or a halving, the exponent is the elapsed time divided by that period. Identify the factor, identify the period, divide the time by the period, and the model is complete.
 
-"A drug leaves the body at a rate of 30 percent per hour" - 30 percent of the CURRENT amount is removed each hour, so the actual amount removed decreases as the drug level falls. EXPONENTIAL decay.
+### Worked example twelve: separating simple interest from compound interest
 
-"A city grows by 3,000 residents per year" - constant 3,000 added. LINEAR.
+Two accounts each open with two thousand dollars at a stated five percent annual rate, and the prompt asks which model fits each. Account one earns five percent of the original two thousand every year, a flat one hundred dollars added annually: two thousand, two thousand one hundred, two thousand two hundred, two thousand three hundred. The first differences are a constant one hundred, so despite the percentage in the description, this account is additive, a straight-line model of two thousand plus one hundred times the years. Account two earns five percent of its current balance every year, so the dollar amount added grows: two thousand, two thousand one hundred, two thousand two hundred five, about two thousand three hundred fifteen. The ratios are a constant 1.05, so this account is compounding, a model of two thousand times 1.05 raised to the years.
 
-"A city grows by 3 percent per year" - the actual number added depends on the current population. EXPONENTIAL.
+The decisive reading is what the five percent is taken of. A percentage of a fixed original amount produces a constant dollar addition and an additive model, the hallmark of simple interest. A percentage of the changing current balance produces a growing addition and a compounding model, the hallmark of compound interest. The presence of the word percent in both descriptions is a deliberate distractor; the phrase that resolves the family is "of the original" versus "of the current balance" or "compounded." The principle: never let a percentage alone push you to the multiplicative family. Read what the percentage applies to, because a percent of something fixed is additive in disguise, and the exam builds this exact pair to catch readers who classify on the word percent rather than on its object.
 
-The decision rule: dollar amount / rate = linear. Percentage / factor = exponential.
+### Building the equation once the family is fixed
 
-## Exponential Always Eventually Dominates Linear
+Classifying the family is the hard part, but a modeling item is not finished until you have written the equation, and the form of the given information changes how you assemble it. Three situations recur, and each has a clean assembly routine.
 
-One of the most conceptually important facts about exponential vs linear growth is that an exponential function with any growth factor greater than 1 will always eventually exceed any linear function, regardless of how large the linear function's slope is or how large a head start it has.
+When the starting value is given outright, the build is direct. For a straight-line relationship you have the intercept already, you read the slope from the constant first difference or from the per-period rate stated in words, and the equation is the intercept plus the slope times the input. For a compounding relationship you have the leading coefficient already, you read the base from the constant ratio or by converting a stated percentage to a factor, and the equation is the coefficient times the base raised to the input. This is the most common case on easier items, where the input-equals-zero value is handed to you in a table or named as an initial amount in a scenario.
 
-This fact appears on the Digital SAT in questions about comparing two models or identifying which model predicts a larger value for large x.
+When two data points are given but not the starting value, you work backward to recover it. For a straight-line relationship, the slope is the change in output divided by the change in input between the two points, and once you have the slope you substitute one point into the equation to solve for the intercept. For a compounding relationship, the ratio of the two outputs raised to the power of one over the step gap gives the base, and substituting one point recovers the coefficient. This is the harder case described in the edge-cases section, and it appears when the table deliberately omits the input-equals-zero row to force the back-solve.
 
-The formal statement: for any exponential function a times b to the power x with b greater than 1 and any linear function mx + c, there exists some threshold x-value X beyond which the exponential function is always larger. For large enough x, the exponential dominates.
+When the relationship is described only in words, you translate the verbal signature into the form. A phrase like "starts at five hundred and falls by forty each week" gives you the intercept of five hundred and a slope of negative forty, producing five hundred minus forty times the weeks. A phrase like "begins at five hundred and decays by eight percent each week" gives you a coefficient of five hundred and a base of 0.92, producing five hundred times 0.92 raised to the weeks. The discipline is to extract the starting value and the per-period behavior separately, decide the family from the per-period behavior, and convert any percentage to a factor before it reaches the equation. Across all three situations, the same two pieces assemble the model, the starting value and the per-step change, and the family decides only which of the two standard forms those pieces drop into.
 
-Why this happens: the linear function adds the same amount each period (m), while the exponential function multiplies by b each period. Multiplication eventually outpaces addition regardless of the constants involved.
+## Strategy and application: turning the diagnostic into banked points
 
-Example comparison: linear function y = 1000x and exponential function y = 2 to the power x.
+Knowing the two families is the knowledge half. Turning that knowledge into reliable marks under a clock is the application half, and it rests on a small set of decision rules you run in a fixed order every time a modeling item appears.
 
-At x = 1: linear = 1000, exponential = 2. Linear leads massively.
-At x = 10: linear = 10,000, exponential = 1024. Linear still leads.
-At x = 15: linear = 15,000, exponential = 32,768. Exponential has overtaken linear.
+The first rule is to classify before you compute. The instant a table or a scenario shows up, do not start manipulating numbers. Ask the prior question: is the change a fixed quantity or a fixed proportion. For a table, that means computing one first difference and one ratio from the first two output values, which takes a few seconds and immediately rules out one household. For a word problem, that means finding the phrase that carries the unit of change. "Plus forty each time," "drops three degrees per hour," "adds five hundred dollars a year" are additive signatures. "Grows twelve percent," "doubles," "is halved," "increases by a factor of" are multiplicative signatures. Identify the signature, fix the family, and only then write symbols. This single habit prevents the most common loss in the topic, which is solving the wrong family well.
 
-Even with a massive initial linear lead and a slope of 1000, the exponential function y = 2 to the power x eventually dominates. The crossover happens around x = 13 to 14.
+The second rule is to convert every percentage to a factor at the moment you read it, never later. The instant a prompt says a percent growth or decay, write the base on your scratch surface before you do anything else: a seven percent increase becomes 1.07, a fifteen percent decrease becomes 0.85, a quadrupling becomes a base of four, a halving becomes a base of one-half. Doing the conversion immediately, while the language is fresh, stops the rate-as-base error before it can happen. Students who defer the conversion until they are assembling the final equation are the ones who slip and write the raw rate where the factor belongs.
 
-Digital SAT application: "For large values of t, which model predicts a greater population: P(t) = 5000t + 100 or P(t) = 10 times 1.2 to the power t?" The answer is always the exponential model for large enough t, regardless of the initial linear lead. For the specific values here, the exponential starts tiny (10 at t = 0) compared to the linear (100 at t = 0) but eventually dominates because 1.2 to the power t grows without bound.
+### Should I graph a modeling question in Desmos?
 
-## Piecewise Linear Models: When the Rate Changes
+Use the graphing tool to confirm a family or to find a crossover, not to discover the family in the first place. Type both candidate equations, look at the shapes, and read the intersection where one overtakes the other. The tool is a verifier and a crossover-finder, fast and exact. It is not a substitute for the diagnostic, which is quicker than typing on most classification items.
 
-A piecewise linear model has different rates of change over different intervals of the independent variable. Each piece is linear (constant rate within its interval), but the rate differs between pieces.
+The graphing strategy deserves precision because the embedded calculator changes what is worth doing by hand and what is worth typing. For a "which model best represents this table" item, the differences-and-ratios test in your head is faster than entering data and fitting a curve, so do the arithmetic. For a "when does the investment exceed the savings plan" crossover item, typing both functions and clicking the intersection point is faster and more reliable than solving the inequality algebraically, so graph it. For an "approximately linear" data table, entering the points and running a linear fit gives you the slope and intercept directly, which is worth the typing when the prompt wants the equation of the line. The full keystroke discipline for each of these lives in the dedicated [Desmos strategy guide that documents exactly what to type for graphing, intersections, and regression](/1997/06/05/sat-desmos-calculator-strategy/), and pairing that mechanical fluency with the family diagnostic is what turns a slow modeling item into a thirty-second one.
 
-The defining feature: a graph of a piecewise linear function is a connected series of line segments, each with its own slope. The slope changes at specific breakpoints (transition points between pieces).
+The third rule is to re-read what the prompt actually asks for after you have the model. Modeling items love a two-step finish: build the equation, then evaluate it at a specific input, or solve for the input that produces a target output, or interpret a coefficient in context. A student who builds the correct model and then answers a different question than the one asked loses the point despite doing the hard part right. The answer-the-question discipline that matters across the whole math section matters acutely here, because the modeling step feels like the finish line and is usually only the setup.
 
-A common real-world piecewise linear scenario: utility pricing with tiered rates. "A utility charges $0.12 per kilowatt-hour for the first 500 kWh and $0.18 per kilowatt-hour for usage above 500 kWh." For usage from 0 to 500 kWh: cost increases linearly at $0.12/kWh. For usage above 500 kWh: cost increases linearly at $0.18/kWh (steeper slope). The transition at 500 kWh is the breakpoint.
+A worked application of all three rules at once: a prompt states that a forty-thousand-dollar car loses eighteen percent of its value each year and asks for its value after three years, rounded to the nearest dollar. Rule one, classify: "eighteen percent of its value each year" is a proportion of the current amount, so this is compounding decay. Rule two, convert immediately: eighteen percent decay means a base of one minus 0.18, which is 0.82. The model is forty thousand times 0.82 raised to the years. Rule three, re-read the ask: it wants the value after three years, so evaluate at three. Forty thousand times 0.82 cubed is forty thousand times about 0.5514, which is about twenty-two thousand fifty-six dollars. Three rules, one clean answer, no family error, no rate-as-base slip, no wrong-question miss.
 
-Reading piecewise linear models from graphs: each line segment's slope represents the rate of change for that interval. A steeper slope means a higher rate. A flat segment means zero rate of change. A segment with negative slope means the quantity is decreasing.
+### When does the early lead reverse on a crossover question?
 
-A specific Digital SAT piecewise linear question type: "The graph shows the distance traveled by a cyclist over 4 hours. During which hour did the cyclist travel the fastest?" The cyclist travels fastest during the hour with the steepest slope (greatest distance per hour). Compare the slopes of each hourly segment; the steepest is the fastest.
+A straight-line model can lead a compounding one for many input values before the curve overtakes it. The crossover point is wherever the two outputs are equal, and before that point the line is ahead while after it the curve is ahead. The exam tests whether you notice that "which is bigger" depends on the input, not on the family alone.
 
-Writing piecewise linear models:
+This is worth dwelling on because the crossover question is one of the few places where the family alone does not give the answer, and that is precisely what makes it a discriminating item. A student who has internalized "compounding always wins" will pick the curve regardless of the input value the prompt specifies, and at small inputs that is wrong. The correct reading is that compounding wins eventually, and the prompt's specific input determines whether "eventually" has arrived yet. When a crossover item names a particular input, the move is to evaluate both models at that input and compare, or to graph both and read which is higher at that x-coordinate. The general truth that the curve dominates in the long run is the wider significance; the specific comparison at the named input is the point on the page. Hold both ideas at once.
 
-Example: a worker earns $15/hour for the first 40 hours and $22.50/hour (1.5 times $15, overtime rate) for hours beyond 40. Model:
+A further strategic layer concerns the harder routing of the second adaptive module. Modeling items that survive into the difficult second module rarely hand you a clean table or an explicit rate. They bury the family signal inside a multi-clause scenario, give you a data point partway through rather than the starting value, or ask you to combine the model with a second condition. The diagnostic still applies, but you may need to extract the family from a sentence rather than from a column, and you may need to solve for the starting value or the base from a known output rather than reading it off directly. The candidate who has drilled the clean cases until the family decision is reflexive has the spare attention to handle the buried signal; the candidate still laboring over the basic classification has none to spare. Mastery of the simple cases is what funds the hard ones.
 
-E(h) = 15h for 0 less than or equal to h less than or equal to 40.
-E(h) = 15(40) + 22.50(h minus 40) = 600 + 22.50(h minus 40) for h greater than 40.
+## Edge cases and the hard end of the topic
 
-At h = 40: E(40) = 600. Continuity: 600 + 22.50(40 minus 40) = 600. Continuous at the breakpoint.
+The cleanest version of a modeling item gives you a labeled table with equal input spacing and asks for the family. The hard end strips away every convenience, and the edge cases below are where a complete preparation separates from an adequate one.
 
-## The "Approximately Linear or Exponential" Question Type
+The first hard variant gives you a data point rather than a starting value. A compounding model is written as a starting value times a base raised to the input, but a prompt may tell you the value at input three is two hundred and the value at input five is four hundred fifty, and ask for the equation. You cannot read the starting value off the table because input zero is not given. The move is to use the ratio between the two known points to find the base, then back-solve for the starting value. From input three to input five is two steps, and the value goes from two hundred to four hundred fifty, a ratio of 2.25 over two steps, so the base squared is 2.25 and the base is the square root of 2.25, which is 1.5. With the base known, plug one known point back into the form to solve for the starting value: two hundred equals starting value times 1.5 cubed, so the starting value is two hundred over 3.375, about 59.3. The principle: when the starting value is hidden, the ratio of two known outputs over their step gap gives the base, and one substitution recovers the start.
 
-The Digital SAT sometimes presents real data that does not perfectly fit either a linear or exponential model but fits one significantly better than the other. The question asks which model type better represents the data.
+The second hard variant disguises a straight-line relationship as something exotic. A prompt might describe a quantity that "increases by the same amount it increased last period," which is just a constant first difference dressed in a sentence, or it might give a graph that curves slightly because of plotting choices while the underlying table is perfectly additive. The defense is to trust the arithmetic over the prose and over the picture. Compute the differences. If they are constant, the relationship is straight-line no matter how the scenario is phrased or how the graph is drawn. The exam rewards the student who checks the numbers and punishes the one who classifies from vibe.
 
-The analysis method: apply the two-test (compute differences AND ratios). If the differences are approximately constant (with small variation) but the ratios vary significantly, the linear model is better. If the ratios are approximately constant but the differences vary significantly, the exponential model is better.
+The third hard variant is the decay model that approaches but never reaches a floor, sometimes framed with a horizontal offset. A cooling-coffee or drug-concentration scenario may describe a quantity that decays toward a nonzero baseline rather than toward zero, written as a baseline plus a compounding term that shrinks. This is the boundary where a pure two-family classification needs a small footnote: the core change is still multiplicative decay, but a constant has been added so the quantity levels off above zero rather than vanishing. On the exam this usually appears as reading a feature off a graph or an equation rather than building the full model from scratch, and the key recognition is that the shrinking part is compounding while the floor is an additive constant layered underneath. You are seeing both families cooperating in one expression.
 
-Example: the table shows x = 0, 1, 2, 3, 4 and y = 10, 21, 33, 46, 60.
+### Is the continuous compounding form tested on the digital SAT?
 
-Differences: 11, 12, 13, 14. Nearly constant but increasing slightly. Approximately linear.
+The natural-base form appears occasionally, almost always flagged by the words "compounded continuously" or by a described process with a continuous rate. For the family decision it behaves like any compounding model: it changes by a constant proportion and fails the constant-difference test. You rarely choose between continuous and discrete; you choose between additive and multiplicative.
 
-Ratios: 21/10 = 2.1, 33/21 = 1.57, 46/33 = 1.39, 60/46 = 1.30. Decreasing significantly. Not approximately exponential.
+The continuous form is worth a brief, precise treatment because students either overweight it, expecting it everywhere, or underweight it, freezing when it appears. The reality sits between. When a prompt explicitly invokes continuous compounding, the model uses the natural base raised to a rate times the input, and the rate inside is a continuous rate that is close to but not identical with the equivalent annual percentage. For classification purposes none of that matters: the relationship is multiplicative, the differences are not constant, and the ratios over equal steps are constant. The detailed mechanics of when the continuous form applies and how its rate relates to a periodic one belong to the focused study of [the two canonical exponential forms and the compound-interest setups](/1997/08/25/sat-math-exponential-functions/), and a candidate who has worked through that material will recognize the continuous case as a variant rather than a new beast.
 
-Conclusion: the linear model better represents this data (the differences are nearly constant, while the ratios are not).
+The fourth edge case is the half-life or doubling-time framing, which hides the base inside the exponent. "A substance with a half-life of six hours" does not give you a per-hour base directly; it tells you the quantity multiplies by one-half every six hours. The model is a starting value times one-half raised to the time divided by six, where the division by six converts hours into half-life periods. The mirror case, "a population that doubles every three days," is a starting value times two raised to the time divided by three. The trap is writing the exponent as the raw time multiplied by the period rather than divided by it, which inverts the speed of the process entirely. The principle: when the prompt gives the time for one full multiplication, the exponent is the elapsed time divided by that period, never multiplied. This is the same structural trap covered in depth in the exponential function guide, and it is the single most-missed feature of decay and doubling problems.
 
-Example: the table shows x = 0, 1, 2, 3, 4 and y = 10, 15, 22, 33, 48.
+The fifth and subtlest edge case is the relationship that genuinely could be modeled either way over the given window, where the prompt asks for the better fit rather than the only fit. Three data points can sometimes be fit acceptably by both a line and a curve, and the correct answer is the one that the prompt's context or the trend of additional points supports. When the data is sparse and the families are close, lean on the real-world cue: a quantity tied to a fixed periodic addition is additive, a quantity tied to a percentage or a multiplicative process is compounding, and the context usually breaks the tie that the numbers alone leave open. This is the rare case where the diagnostic returns "close to both," and the resolution comes from the mechanism the scenario describes rather than from the arithmetic.
 
-Differences: 5, 7, 11, 15. Increasing significantly. Not approximately linear.
+## A side-by-side reference: the two families compared
 
-Ratios: 15/10 = 1.5, 22/15 = 1.47, 33/22 = 1.50, 48/33 = 1.45. Approximately constant near 1.5. Approximately exponential.
+It helps to hold the two households next to each other in a single view, every property aligned so the contrasts are obvious. The table below is a reference you can carry into any modeling item, the additive family in one column and the multiplicative family in the other, matched property by property.
 
-Conclusion: the exponential model better represents this data.
+| Property | Additive (straight-line) | Multiplicative (compounding) |
+|----------|--------------------------|------------------------------|
+| Change per equal step | constant amount added | constant factor multiplied |
+| Diagnostic that is flat | first differences | ratios of consecutive values |
+| Standard equation form | starting value plus rate times input | starting value times base raised to input |
+| Role of the leading number | starting value (intercept) | starting value (coefficient) |
+| Role of the per-step number | constant amount (slope) | growth or decay factor (base) |
+| Verbal signature | "adds 40 each," "drops 3 per" | "grows 5 percent," "doubles," "halved" |
+| Growth shape | straight line, steady climb or fall | accelerating curve up, or decaying curve down |
+| Percentage handling | rarely involves a percent of the current value | percent converts to a factor: rate to one plus or minus |
+| Long-run behavior in a race | loses to compounding eventually | wins eventually, given a base above one |
+| Most common trap | mistaking a steep line for a curve | writing the rate where the factor belongs |
 
-## Ten Worked Examples Across All Question Types
+Read down either column and you have a complete profile of one family. Read across any row and you have the contrast that the exam exploits. The single most useful row for fast classification is the second one: the additive family is the one whose first differences are flat, the multiplicative family is the one whose ratios are flat, and computing both on the first two data points settles the question before you have read past the first answer choice.
 
-### Example 1: Identify Model From Table (Easy)
+Notice what the table does not say. It does not claim that one family produces larger numbers, because that depends entirely on the input window. It does not claim that one is harder than the other, because the arithmetic in each is short once the family is fixed. The difference that matters is structural, the kind of change, not the size of the result, and keeping that straight is what immunizes you against the steep-line-looks-like-a-curve illusion and its mirror.
 
-Table: x = 0, 1, 2, 3; y = 4, 7, 10, 13.
+### What real-world situations map to each family?
 
-Differences: 3, 3, 3. Constant. Linear model. Slope = 3, initial value = 4.
+Fixed periodic additions are additive: a flat monthly fee, a constant hourly wage, a steady temperature drop, a set number of items produced per day. Proportional changes are multiplicative: compound interest, population growth at a percentage rate, radioactive or drug decay, depreciation by a percent of value, viral spread. The mechanism, not the magnitude, assigns the family.
 
-Model: y = 3x + 4.
+This mapping is worth committing to memory because word problems describe the world, and the world's processes fall into these two buckets with remarkable consistency. Anything that adds the same quantity on a schedule, regardless of how big that quantity is, is straight-line: a phone plan with a base charge plus a fixed amount per gigabyte, a road trip covering the same distance each hour, a tank filling at a steady rate. Anything that changes by a proportion of its current size is compounding: money in an account that earns the same percentage each year, a rumor that spreads to a fixed fraction more people each day, a hot object cooling by a percentage of its temperature gap each minute. When a prompt describes a process, ask which kind it is, and the family follows from the mechanism rather than from the numbers. A reader who has internalized this domain map often classifies a word problem before computing a single difference, simply by recognizing the type of process the scenario describes.
 
-Principle: constant differences = linear.
+## Reading the prompt's language: the verbal signatures that decide the family
 
-### Example 2: Identify Model From Table - Exponential (Easy)
+A large fraction of modeling items arrive as words rather than tables, and for those the family decision is a reading skill as much as a computational one. The language carries the signal, and learning to spot the signature phrase is faster than any arithmetic.
 
-Table: x = 0, 1, 2, 3; y = 2, 6, 18, 54.
+The additive signatures all share a structure: a fixed quantity attached to each period, with no reference to the current size of the thing being changed. "Increases by twelve units each year." "Loses two hundred dollars per month." "Adds the same number of seats every season." "Falls four degrees an hour." In each, the amount of change is stated in absolute units, dollars or degrees or seats or units, and it does not depend on how large the quantity already is. That independence from the current value is the deep mark of additive change, and the verbal tell is an absolute quantity per period.
 
-Differences: 4, 12, 36. Not constant.
-Ratios: 3, 3, 3. Constant. Exponential with factor 3 and initial value 2.
+The multiplicative signatures share a different structure: the change is stated as a proportion of the current value, or as an operation that scales the current value. "Grows by eight percent annually." "Decreases by fifteen percent each year." "Doubles every decade." "Is reduced by half each cycle." "Increases by a factor of three." In each, the change references the current size, either through a percentage, which is inherently a proportion of something, or through a scaling word like double, triple, halve, or factor. That dependence on the current value is the deep mark of multiplicative change, and the verbal tell is a percentage or a scaling word.
 
-Model: y = 2 times 3 to the power x.
+### Which phrases are designed to trip you up?
 
-Principle: constant ratios = exponential.
+Watch for "percent" attached to a fixed base rather than the current value, and for absolute amounts dressed in growth language. "Earns 5 percent on the original deposit each year" is simple interest, which is additive, not compounding, because the percentage is of a fixed amount. Read what the percentage is taken of before you assume the multiplicative family.
 
-### Example 3: Translate Scenario to Linear Model (Easy-Medium)
+The simple-interest trap deserves its own attention because it is the most elegant snare in the topic. A prompt says "five percent per year," the student sees a percentage, reaches for the compounding family, and writes a base of 1.05 raised to the years. But if the five percent is always computed on the original deposit rather than on the growing balance, the interest added each year is a constant dollar amount, which makes the total an additive, straight-line model. The decisive question is what the percentage applies to: a percentage of the current, ever-changing value is compounding, while a percentage of a fixed original value is additive in disguise. The presence of the word percent does not settle the family. What the percent is taken of settles it. A careful reader checks that phrase every time a percentage appears in a growth context.
 
-"A plant is 5 cm tall and grows 2 cm per week. Write a function for the height H after t weeks."
+A second deceptive construction is the absolute amount wearing growth language. "The colony expands by exactly three hundred members each generation" uses the words expands and growth-adjacent phrasing, which nudges toward the multiplicative family, but three hundred is an absolute count added per generation, independent of the colony's current size, which is the additive signature. The growth vocabulary is a distractor; the absolute-amount-per-period structure is the truth. Strip the connotation off the verb and read the structure of the change. Expands by a fixed count is additive; expands by a percentage of the current count is compounding.
 
-Constant addition of 2 cm per week = linear. H(t) = 5 + 2t.
+A third construction to watch is the mixed model that combines a fixed component with a proportional one, like an account with a flat annual deposit on top of percentage growth, or a fee that has a fixed part and a per-use part. These are genuinely hybrid, and a clean two-family label does not fit. On the exam such items usually ask you to read or interpret a given equation rather than to classify from scratch, and the skill is to recognize which term is the additive component and which is the multiplicative one, then interpret each in context. Seeing the structure, a constant added to a scaled term, is the recognition that matters, and it is the same structural reading that the coefficient-interpretation items reward.
 
-At t = 0: H = 5 (initial height). Rate of change = 2 cm/week.
+The payoff of treating classification as a reading skill is speed. On a word problem you do not need a table or any arithmetic to fix the family; you need to find the phrase that states how the change is measured and decide whether it is an absolute quantity per period or a proportion of the current value. That single reading, practiced until it is fast, is often quicker than computing differences and ratios, and it is the form the family decision takes on the majority of modeling items, which arrive as scenarios rather than as columns of numbers.
 
-Principle: "grows X cm per week" signals linear (constant addition).
+## Wider significance: how the family decision connects to the rest of the exam
 
-### Example 4: Translate Scenario to Exponential Model (Easy-Medium)
+The choice between additive and multiplicative is not a self-contained trick. It is a node in a web of related skills, and seeing those connections turns an isolated topic into a multiplier on your whole math performance.
 
-"An investment of $1,200 grows at 6 percent annually. Write a function for the value V after t years."
+The most direct connection runs to coefficient interpretation. Once you have classified a relationship and written its model, the exam frequently asks what a particular number in that model means in context. For a straight-line model, the slope is a per-unit rate and the intercept is a starting value, and the question tests whether you can attach the right real-world units to each. For a compounding model, the base encodes a growth or decay rate and the leading coefficient is the starting value, and the question tests whether you can translate a base of 1.04 into "increasing by four percent per period." The family decision and the interpretation skill are two halves of one competence: deciding the form, then explaining what its parts say about the world. A candidate strong on one and weak on the other leaks points at the handoff, which is why building both together pays off.
 
-Constant percentage growth = exponential. Growth factor = 1 + 0.06 = 1.06. V(t) = 1200 times (1.06) to the power t.
+A second connection runs to the data-analysis content area, where tables of real measurements demand the same family judgment under noisier conditions. The discipline of computing differences and ratios on a clean table is the same discipline you apply when a scatter plot of actual data asks whether a straight line or a curve fits better, and the honest reading of imperfect data, the willingness to say "approximately linear" rather than forcing a perfect fit, is a transferable habit. The broader treatment of how the test handles measured rather than manufactured data, including residuals and the strength of an association, lives in the [Problem Solving and Data Analysis domain guide](/2021/04/08/sat-problem-solving-data-analysis-complete-guide/), and the family diagnostic is one of its most reusable tools.
 
-Principle: "grows X percent annually" signals exponential (constant multiplication by 1.06).
+A third connection runs to the deeper algebra and advanced-function content. A straight-line model is a first-degree relationship, the simplest member of the polynomial family, while a compounding model is the gateway to logarithms, since solving a compounding equation for the exponent requires the inverse operation. A student who has the family decision cold is positioned to take the next step into solving for an unknown exponent, which is where the harder advanced-math items go. The path from recognizing a compounding relationship to manipulating it with logarithms is short, and the recognition is the prerequisite.
 
-### Example 5: Interpret Exponential Model Parameters (Medium)
+### Why does the digital format reward the family decision so heavily?
 
-The function P(t) = 8,000 times (0.97) to the power t models the population of a town. What does 0.97 represent?
+The adaptive design routes strong performers into a harder second module where modeling items are denser and the family signal is more buried. A candidate who decides the family by reflex spends saved time on the buried details; one who labors over basic classification runs out of clock. The format converts a small skill into a compounding time advantage.
 
-0.97 is the annual decay factor: the population retains 97 percent each year, decreasing by 3 percent annually.
+This is the strategic core of why the topic deserves real attention rather than a quick skim. On a fixed-form paper exam, a few seconds saved per modeling item is pleasant but minor. On the adaptive digital exam, those saved seconds accumulate in the module where the hardest points live, and time pressure is the binding constraint at the top of the scoring range. The student aiming for a high mark cannot afford to spend ninety seconds deciding whether a relationship is additive or multiplicative when the diagnostic settles it in ten. The full mechanics of how performance in the first module gates the difficulty and the score ceiling of the second are laid out in the [adaptive module strategy guide](/2020/11/23/sat-adaptive-module-strategy/), and modeling fluency is one of the concrete skills that compounds across that routing, since it frees attention for the items the format reserves for high scorers.
 
-Principle: in exponential decay models, the base b = 1 minus (decay rate). Here b = 0.97 means 3 percent annual decline.
+There is a connection beyond the exam as well, into the wider landscape of standardized testing. The additive-versus-multiplicative distinction is not an SAT invention; it is a foundational idea in quantitative reasoning that appears on other high-stakes assessments in their own idioms. A student comparing the American test with another country's system will meet the same families under different names and formats, whether in the data-handling strands of a British qualification or the function-modeling sections of other national exams. The way the SAT frames modeling, as a fast family decision followed by short execution, is one specific cultural choice about how to test a universal idea, and seeing it that way, as covered in the broader comparisons such as [how the SAT stacks up against the GCSE and A-Level system](/1996/02/27/sat-vs-gcse-and-a-levels-us-uk-compared/), helps an international applicant transfer skills rather than relearning them from scratch.
 
-### Example 6: Two-Test on Irregular Data (Medium)
+The deepest significance, though, ties back to the thesis that runs through this entire series. The SAT is widely misread as a test of raw aptitude, a fixed verdict on how quantitatively gifted you are. The modeling topic is a clean refutation of that reading. Nothing about deciding additive versus multiplicative requires unusual talent. It requires one diagnostic, applied with discipline, drilled until it is automatic. The student who could not reliably classify a table last month and can do it in seconds this month did not become more intelligent; they learned a pattern and rehearsed it. That is the whole argument in miniature: the points sit in predictable places, the methods are learnable, and the score reflects preparation far more than it reflects some innate ceiling. Every worked example above is a small piece of evidence for that claim.
 
-Table: x = 0, 2, 4, 6; y = 100, 110, 121, 133.1.
+## Common mistakes and myths corrected
 
-Differences: 10, 11, 12.1. Not constant.
-Ratios: 110/100 = 1.1, 121/110 = 1.1, 133.1/121 = 1.1. Constant at 1.1.
+The first and most expensive mistake is treating any rising data as compounding. The reflex is understandable, because the word "exponential" has leaked into ordinary speech as a synonym for "fast," and students import that loose usage into the math. But a straight line with a steep positive slope rises fast too, and "rising" is shared by both families. The correction is mechanical: rising is not the signal, a constant ratio is. A column that goes ten, twenty, thirty, forty rises and is dead straight. Compute the differences before you label anything, and the myth that fast growth means compounding dissolves on contact with arithmetic.
 
-Exponential: factor 1.1 for every 2 units of x. Per-unit factor = (1.1) to the power (1/2) approximately 1.0488.
+The second mistake is the rate-as-base error, writing a five percent growth as a base of 0.05 instead of 1.05. This single slip transforms a growing model into one that nearly vanishes each step, and it is responsible for a large share of wrong answers on otherwise easy compounding items. Students make it because the prompt says "five percent" and the figure 0.05 is sitting right there, ready to be dropped into the base slot. The correction is the conversion habit: for growth add the rate to one, for decay subtract it from one, and do it the instant you read the percentage so the raw rate never reaches the base.
 
-Model: y = 100 times (1.1) to the power (x/2), or y = 100 times (1.0488) to the power x.
+The third mistake is mishandling the exponent in half-life and doubling problems, multiplying the time by the period instead of dividing. A half-life of six hours means the quantity halves once per six-hour block, so the number of blocks in t hours is t divided by six, and that quotient is the exponent. Writing six times t instead inverts the process, making the substance decay far faster than reality. The myth feeding this error is that the period belongs in the exponent as a multiplier because it is the number attached to the time; the truth is that the period is a divisor, converting raw time into the count of full multiplications.
 
-Principle: apply the two-test even with non-unit x-spacing. Constant ratios still confirm exponential.
+The fourth mistake is classifying from the shape of a graph rather than from the data. A gently compounding curve over a short window can look straight, and a straight line plotted on a poorly scaled axis can look curved. Eyes are unreliable witnesses to family membership over a small stretch. The correction is to trust the table over the picture: if you have access to the underlying values, compute differences and ratios, and let the arithmetic overrule the visual impression every time the two disagree.
 
-### Example 7: Which Model for Large Values (Hard)
+The fifth mistake is the both-sides myth in reverse, the belief that compounding always beats straight-line so the curve is always the bigger answer. It does beat it, eventually, but a crossover question turns on the specific input, and at small inputs the straight line often leads. Students who memorize "exponential wins" without the qualifier "in the long run" pick the curve at an input where the line is still ahead. The correction is to evaluate both models at the input the prompt names rather than answering from the general principle, which is true asymptotically but not at every point.
 
-For large values of t, which model predicts a greater value: A(t) = 5t + 1000 or B(t) = 5 times 1.1 to the power t?
+The sixth and final myth worth naming is that modeling is a marginal topic safe to skip. Because it spans two content areas rather than owning a chapter of its own, it is easy to under-prepare for, and a student who studies linear functions in one session and exponential functions in another may never practice the moment of choosing between them. That gap is exactly what the harder module exploits. Modeling is not marginal; it is a recurring decision point that gates the correct equation on multiple items per form, and the family diagnostic is the cheapest insurance you can buy against losing those points.
 
-For small t, A is much larger (at t = 0: A = 1000, B = 5). But B is exponential: it eventually overtakes A.
+## Closing direction: make the family decision automatic
 
-Find approximate crossover: 5 times 1.1 to the power t = 5t + 1000. Testing t = 70: B = 5 times (1.1) to the 70 approximately 5 times 789 = 3945. A = 5(70) + 1000 = 1350. B is larger.
+Return to the two tables from the opening, the savings account adding forty dollars a month and the bacteria growing twelve percent an hour. You now have the tool that separates them instantly. Compute one first difference and one ratio. The savings account shows a constant forty in its differences and a sliding ratio, so it is additive, a straight-line model with slope forty. The bacteria show a constant 1.12 in their ratios and a growing difference, so they are multiplicative, a compounding model with base 1.12. Ten seconds of arithmetic, two correct families, two correct equations waiting to be written. That is the whole skill, and it is entirely within reach.
 
-For large t, B(t) = 5 times 1.1 to the power t is greater.
-
-Principle: exponential always dominates linear for sufficiently large x.
-
-### Example 8: Piecewise Linear Model (Hard)
-
-A phone plan charges $0.05 per minute for the first 200 minutes and $0.02 per minute for usage beyond 200 minutes. Write the cost function C(m) for any usage m.
-
-C(m) = 0.05m for 0 less than or equal to m less than or equal to 200.
-C(m) = 0.05(200) + 0.02(m minus 200) = 10 + 0.02(m minus 200) for m greater than 200.
-
-At m = 200: C = 10. Continuous.
-
-Principle: write separate formulas for each piece; ensure continuity at the breakpoint.
-
-### Example 9: Find Initial Value and Rate from Context (Hard)
-
-"The temperature of a cooling object is modeled by T(t) = a times b to the power t, where t is minutes. At t = 0, the temperature is 90 degrees. After 5 minutes, the temperature is 60 degrees. Find a and b."
-
-At t = 0: T(0) = a = 90. So a = 90.
-
-At t = 5: 60 = 90 times b to the power 5. b to the power 5 = 60/90 = 2/3. b = (2/3) to the power (1/5) = (2/3) to the 0.2 approximately 0.896.
-
-Model: T(t) = 90 times (0.896) to the power t.
-
-Principle: use given data points to set up and solve for the parameters a and b.
-
-### Example 10: Distinguish Linear and Exponential Salary Raises (Hard Module 2)
-
-"Employee A receives a $3,000 annual raise. Employee B receives a 4 percent annual raise. Both start at a salary of $50,000. After how many years does Employee B's salary first exceed Employee A's?"
-
-A(t) = 50,000 + 3,000t. B(t) = 50,000 times (1.04) to the power t.
-
-At t = 0: both = 50,000. At t = 10: A = 80,000; B = 50,000 times (1.04) to the 10 = 50,000 times 1.480 = 74,000. A still leads.
-
-At t = 20: A = 110,000; B = 50,000 times (1.04) to the 20 = 50,000 times 2.191 = 109,550. Nearly equal.
-
-At t = 21: A = 113,000; B = 50,000 times (1.04) to the 21 approximately 113,931. B first exceeds A.
-
-Answer: after approximately 21 years, Employee B's salary first exceeds Employee A's.
-
-Principle: set up both functions, test values to find the crossover point. Use Desmos for efficiency.
-
-## How the College Board Structures Linear vs Exponential Questions
-
-Easy questions present a data table with obvious constant differences or ratios and ask which type of model fits. The two-test applied quickly identifies the answer.
-
-Medium questions require either translating a verbal scenario into the correct model type (identifying whether a percent or a fixed amount is being added), interpreting the parameters of a given model (what does 0.85 represent in f(t) = 200 times 0.85 to the t?), or applying the model to predict a value at a specific x.
-
-Hard questions compare two models for large values, require finding model parameters from data points (using a system of equations or algebraic substitution), ask about piecewise linear models with breakpoints, or present data that approximately fits one model type and ask for the better-fitting model with justification.
-
-The hardest questions combine model identification with model application: given a verbal scenario, write the model, identify its type, find a specific value, and interpret what that value represents in context.
-
-## Key Vocabulary for Model Interpretation Questions
-
-The Digital SAT tests model interpretation in a specific and predictable vocabulary. Mastering these terms allows instant interpretation of any given function.
-
-For linear functions y = mx + b:
-"m is the slope" = the constant rate of change = how much y changes for each 1-unit increase in x.
-"b is the y-intercept" = the initial value = the value of y when x = 0.
-"The rate of change" = the slope m.
-"The starting value" = b.
-
-For exponential functions y = a times b to the power x:
-"a is the initial value" = the value of y when x = 0.
-"b is the growth factor" (b greater than 1) = the multiplier applied per period. The growth RATE is (b minus 1) expressed as a percent.
-"b is the decay factor" (0 less than b less than 1) = the multiplier applied per period. The decay RATE is (1 minus b) expressed as a percent.
-"Doubling time" = the time T such that b to the power T = 2. For b = 1.05: T = log(2)/log(1.05) approximately 14.2 periods.
-"Half-life" = the time T such that b to the power T = 0.5. For b = 0.87: T = log(0.5)/log(0.87) approximately 5 periods.
-
-The Digital SAT tests interpretation in questions like: "In the function V(t) = 2,500 times (1.07) to the power t, what does 2,500 represent?" Answer: the initial value (the value at t = 0). "What does 1.07 represent?" Answer: the annual growth factor, indicating 7 percent annual growth.
-
-## Desmos for Linear vs Exponential Questions
-
-Desmos is particularly useful for linear-vs-exponential questions in two specific ways.
-
-First: graphing both models to see which fits the data better. If the question provides a data table and asks which model fits, plot the data points in Desmos (by entering them as a table), then graph both a linear function and an exponential function with approximately matching parameters. The model whose curve passes through or near all data points is the better fit.
-
-Second: finding the crossover point for two models. Graph both functions and identify where they intersect. The intersection point is the crossover where one model transitions from predicting a higher value to predicting a lower value than the other.
-
-For example 10 (salary comparison): graph A(t) = 50,000 + 3,000t and B(t) = 50,000 times 1.04 to the t in Desmos. The intersection visually identifies the year when B exceeds A, confirming the algebraic estimate of year 21.
-
-The Desmos regression feature (available in the Bluebook app during the Digital SAT) can also fit a linear or exponential curve to a dataset, though this feature requires knowing which model type to try first.
-
-## Connecting Linear and Exponential Models to the Broader Curriculum
-
-Linear models connect to the linear equation and systems of equations content in the Algebra domain. Recognizing a linear model as y = mx + b and solving for parameters using given data points is identical to solving a linear equation or system. The slope formula (m = (y2 minus y1) / (x2 minus x1)) applies directly when two data points are given for a linear model.
-
-Exponential models connect to the exponential function content in the Advanced Math domain. The growth and decay function y = a times b to the power x is the same as the general exponential function studied in the [SAT Math functions guide](/1997/08/02/sat-math-functions-transformations/), and the domain, range, and transformation properties of exponential functions all apply to exponential models.
-
-The statistical interpretation of model fit connects to the Problem Solving and Data Analysis domain. When the Digital SAT presents data that is "approximately" linear or exponential, the selection of the better-fitting model requires the same data-analysis reasoning used in scatter plot and regression questions (covered in the [SAT Math scatter plots guide](/1997/08/11/sat-math-scatter-plots-regression/)).
-
-## Score Range Strategy for Linear vs Exponential Questions
-
-For students targeting 550-620, the priority is the data-table two-test: identify constant differences (linear) vs constant ratios (exponential). These appear at easy difficulty and are the foundational skill for all model questions.
-
-For students targeting 620-700, add the translation skill (percent increase/decrease signals exponential, fixed amount signals linear), interpretation of model parameters (initial value, growth factor, decay rate), and simple model application (find y at a given x from a model). These appear at medium difficulty.
-
-For students targeting 700-760, add piecewise linear models, the crossover question type (which model dominates for large x), finding model parameters from data points, and approximately-fits questions. These appear at hard difficulty.
-
-For students targeting 760-800, add compound growth and decay (quarterly compounding, different time units than the exponent), complex piecewise models, and questions requiring both model identification and multi-step application in a single problem.
-
-## Conclusion
-
-Linear and exponential model questions reward the student who understands the fundamental distinction between addition and multiplication as the core of growth. A constant addition produces a linear relationship (straight-line graph, equal first differences in a table). A constant multiplicative factor produces an exponential relationship (curved graph, equal ratios in a table).
-
-The two-test (compute differences AND ratios from a data table) is the most reliable identification tool and takes under 60 seconds for any data table the Digital SAT can present. The translation vocabulary (fixed amount = linear, percentage = exponential) resolves every verbal-scenario model question. The interpretation vocabulary (initial value, growth factor, decay rate) resolves every model parameter question.
-
-Together, these tools form a complete framework for every linear vs exponential question on the Digital SAT. The two-to-three questions per administration that test this framework are among the most efficiently prepared questions on the test, because the identification and interpretation rules are small in number, precise in application, and consistent across every format the College Board uses.
-
-The distinguishing insight: the fundamental difference between linear and exponential is the difference between adding and multiplying. Every real-world scenario involving a constant dollar amount, a constant rate per unit, or a constant absolute change is linear. Every scenario involving a constant percent, a constant multiplicative factor, or a compounding mechanism is exponential. Mastering this one distinction at a deep level produces fluency across every format these questions can take.
-
-## How the Digital SAT Tests Model Identification at Each Difficulty Level
-
-Easy model questions present a clean data table with whole-number entries and ask directly whether the relationship is linear or exponential. The differences or ratios are exact integers, requiring only one round of arithmetic. These resolve in under 60 seconds using the two-test.
-
-Medium model questions wrap the identification in a context: "A population of bacteria is recorded each hour. Which type of function best models the data?" The student must apply the two-test to the given table AND recognize how the answer connects to real-world meaning (bacteria doubling = exponential, bacteria growing by a fixed count = linear). Alternatively, medium questions give a function in algebraic form and ask for the interpretation of a specific parameter.
-
-Hard model questions combine identification, translation, and application in a single problem. A harder question might: present a verbal scenario, require the student to identify the model type, write the function, evaluate it at a specific input, and interpret the result in context. Or it might compare two models and ask which gives a larger prediction for a given range of values, requiring both model evaluation and the "exponential dominates linear for large x" understanding.
-
-The hardest questions may involve non-standard time units (quarterly compounding vs annual, half-lives in hours vs years), or require finding a parameter from two given data points using the ratio method (dividing two equations to eliminate the initial value a, then solving for the growth factor b).
-
-## The Slope-Intercept Form of a Linear Model: A Deep Dive
-
-The linear model y = mx + b is the most fundamental algebraic form in all of Digital SAT Math. For the modeling context specifically, each component has a clear real-world interpretation that the Digital SAT tests through context questions.
-
-The slope m: the constant rate of change. Dimensionally, m has units of "y-units per x-unit." If y is dollars and x is months, m has units of dollars per month. If y is kilometers and x is hours, m has units of km/h. The slope tells you: for every one more unit of x, y increases (or decreases if m is negative) by m units.
-
-The y-intercept b: the value of y when x = 0. In context, this is always the starting value before any change has occurred. If x is time in years since 2020, then b is the value in 2020. If x is the number of items purchased, then b is the fixed cost before any items are purchased (a setup fee, membership fee, or base charge).
-
-Practical questions using slope and intercept:
-
-"A plumber charges a $75 flat fee plus $60 per hour. What does the y-intercept represent?" The y-intercept is 75, representing the flat fee charged regardless of hours worked.
-
-"The function C(t) = 450 + 35t models a phone plan's total cost after t months. After how many months will the total cost exceed $1,000?" 450 + 35t is greater than 1000 gives 35t greater than 550, t greater than 15.7, so after month 16 (t = 16).
-
-"The graph of a linear model passes through (0, 120) and (5, 70). What is the rate of change?" Slope = (70 minus 120) / (5 minus 0) = minus 50/5 = minus 10. The quantity decreases by 10 units per 1-unit increase in x.
-
-## The Standard Exponential Form: Writing and Reading
-
-The exponential model y = a times b to the power x appears in the Digital SAT in several algebraic forms that look different but represent the same function.
-
-Standard form: y = a times b to the power x.
-Alternative form with base e: y = a times e to the power (kx), where k = ln(b). The Digital SAT rarely uses this form but it appears in physics and finance contexts.
-Alternative form with explicit rate: y = a times (1 + r) to the power x for growth, or y = a times (1 minus r) to the power x for decay, where r is the per-period rate as a decimal.
-
-Converting between forms: a times b to the power x = a times (1 + r) to the power x means b = 1 + r, so r = b minus 1. For b = 1.06: r = 0.06 = 6 percent growth. For b = 0.92: r = minus 0.08, meaning an 8 percent decay per period (usually stated as "8 percent decay" not "minus 8 percent growth").
-
-The Digital SAT tests this conversion in questions like: "The function V(t) = 3,500 times (1.04) to the power t models the value of a car, where t is years. What is the annual percent increase?" Answer: 4 percent (since b = 1.04 means 1 + 0.04).
-
-A subtler question: "An account has a balance of $1,000. After 3 years, the balance is $1,157.63. What is the annual growth rate assuming exponential growth?"
-
-a = 1000, t = 3, y = 1157.63. Using y = a times b to the t: 1157.63 = 1000 times b cubed. b cubed = 1.15763. b = (1.15763) to the (1/3) approximately 1.05. Annual growth rate approximately 5 percent.
-
-## Negative Exponential: Decay Models in Depth
-
-Exponential decay is as important as exponential growth on the Digital SAT, and it has a few specific features worth detailed coverage.
-
-The structure: for decay, b is between 0 and 1. The model y = a times b to the power x produces a quantity that decreases but never reaches zero (it approaches zero asymptotically). This is a key distinction from linear decay, where the quantity can reach zero (and even become negative if the model is extended beyond the physical situation).
-
-Real-world decay contexts:
-
-Radioactive decay: a substance loses a fixed percentage of its mass per unit time. "Carbon-14 has a half-life of approximately 5,730 years." The half-life is the time for the quantity to halve, so b to the power (5730) = 0.5, giving b = 0.5 to the power (1/5730) approximately 0.99988.
-
-Depreciation: a car loses 15 percent of its value each year. V(t) = initial value times (0.85) to the power t. After 10 years: V(10) = initial value times (0.85) to the 10 approximately 0.197 times initial value. The car retains about 19.7 percent of its original value.
-
-Drug concentration: a medication is eliminated from the bloodstream at 30 percent per hour. C(t) = initial concentration times (0.70) to the power t. After 5 hours: C(5) = initial times (0.70) to the 5 approximately 0.168 times initial. About 16.8 percent remains.
-
-The half-life: the time T at which a decaying quantity reaches half its initial value. Setting a times b to the T = a/2 gives b to the T = 0.5. Solving: T = log(0.5) / log(b) = ln(0.5) / ln(b). For b = 0.85 (15 percent annual decay): T = ln(0.5) / ln(0.85) approximately 4.27 years.
-
-The Digital SAT tests half-life in questions like: "A substance decays according to M(t) = 200 times (0.75) to the power t. Approximately how many years does it take for the mass to reach 100 grams?" 100 = 200 times (0.75) to the t. (0.75) to the t = 0.5. t = ln(0.5) / ln(0.75) approximately 2.41 years.
-
-## Graphical Interpretation of Linear and Exponential Models
-
-The Digital SAT tests linear vs exponential model identification not only from tables and verbal descriptions but also from graphs. Being able to look at a graph and immediately classify the function type is a high-value visual skill.
-
-Linear model graph: a straight line. Constant slope throughout. Can be increasing (positive slope), decreasing (negative slope), or flat (zero slope). The y-intercept is where the line crosses the y-axis.
-
-Exponential growth graph: a curve that starts nearly flat and becomes increasingly steep as x increases. The curve is always concave up (opening upward). The y-intercept is at x = 0 (y = a). The curve approaches the x-axis but never reaches it for negative x (as the function approaches zero asymptotically from above).
-
-Exponential decay graph: a curve that starts steep and flattens as x increases. Always concave up. Approaches the x-axis asymptotically without touching it. For y = a times b to the power x with 0 less than b less than 1: y starts at a (when x = 0) and decreases toward zero.
-
-The visual distinction: if the graph is a straight line, linear. If the graph curves and the curve is concave up, exponential. If the data points on a scatter plot fall close to a straight line, linear model is appropriate. If the data points follow an upward or downward curve that is consistent with concave-up curvature, exponential model is appropriate.
-
-A specific Digital SAT question type: "Which of the following graphs could represent an exponential decay function?" Identify the graph that shows a decreasing, concave-up curve that approaches but never touches the horizontal axis.
-
-## The Relationship Between Linear and Exponential in Tables: Side-by-Side Analysis
-
-Understanding both models simultaneously helps in questions that present a table and ask students to choose between them. A side-by-side comparison reinforces why the two-test is so effective.
-
-For x = 0, 1, 2, 3, 4:
-
-Linear example (y = 5x + 10): y = 10, 15, 20, 25, 30.
-First differences: 5, 5, 5, 5. Constant. Linear confirmed.
-Ratios: 15/10 = 1.5, 20/15 = 1.33, 25/20 = 1.25, 30/25 = 1.20. Decreasing. Not exponential.
-
-Exponential example (y = 10 times 1.5 to the power x): y = 10, 15, 22.5, 33.75, 50.625.
-First differences: 5, 7.5, 11.25, 16.875. Increasing. Not linear.
-Ratios: 15/10 = 1.5, 22.5/15 = 1.5, 33.75/22.5 = 1.5, 50.625/33.75 = 1.5. Constant at 1.5. Exponential confirmed.
-
-Note that at x = 0 and x = 1, both models give y = 10 and y = 15. After this first step, they diverge: the linear model adds 5 each time, while the exponential model multiplies by 1.5 each time, producing larger and larger increases.
-
-This side-by-side comparison reveals why two data points alone cannot distinguish a linear from an exponential model: any two points are consistent with infinitely many functions. At least three points are needed to begin distinguishing, and four or more give a clearer pattern.
-
-## Writing Exponential Models From Context: A Step-by-Step Protocol
-
-Many Digital SAT questions present a verbal scenario and ask for the exponential model. A four-step protocol handles all variants.
-
-Step one: identify the initial value a. This is the value of y when x = 0, usually stated as the "starting" or "initial" amount.
-
-Step two: identify the growth or decay factor b. If a percent rate is given: b = 1 + r for growth (where r is the rate as a decimal) or b = 1 minus r for decay.
-
-Step three: identify the independent variable x and its unit. Usually time (years, months, hours).
-
-Step four: write y = a times b to the power x, labeling what y and x represent.
-
-Example: "A population of 2,500 fish increases by 12 percent every 3 months. Write an exponential function P(t) for the population after t months."
-
-Step one: a = 2,500 (initial population).
-Step two: 12 percent increase every 3 months means b = 1.12 for every 3-month period. For the exponent in terms of months: the exponent becomes t/3 (so that when t = 3, the exponent is 1, giving one growth period).
-Step three: x = t in months.
-Step four: P(t) = 2,500 times (1.12) to the power (t/3).
-
-Alternatively: find the monthly factor. The factor per month = (1.12) to the power (1/3) approximately 1.0385. Then P(t) = 2,500 times (1.0385) to the power t.
-
-Both forms are equivalent. The form P(t) = 2,500 times (1.12) to the power (t/3) is more transparent in showing the 12 percent per 3-month relationship.
-
-## The Doubling Time and Its Relationship to the Growth Factor
-
-Doubling time is the most commonly tested special value for exponential growth models. It connects the growth factor b to a specific observable quantity (the time to double).
-
-Definition: the doubling time T is the value of x such that y doubles: a times b to the T = 2a, which simplifies to b to the T = 2. Solving: T = ln(2) / ln(b) = log(2) / log(b).
-
-For common growth rates:
-b = 1.05 (5 percent per period): T = ln(2)/ln(1.05) approximately 14.2 periods.
-b = 1.10 (10 percent per period): T = ln(2)/ln(1.10) approximately 7.27 periods.
-b = 1.20 (20 percent per period): T = ln(2)/ln(1.20) approximately 3.80 periods.
-b = 2 (doubles each period): T = 1 period (trivially).
-
-The Rule of 70 approximation: for small growth rates r (as a percent), the doubling time approximately equals 70 / r. For 5 percent annual growth: doubling time approximately 70/5 = 14 years (close to the exact 14.2). For 10 percent: approximately 70/10 = 7 years (close to 7.27). This approximation is useful for quick estimation.
-
-The Digital SAT tests doubling time in questions like: "A population model is given by P(t) = 500 times (1.08) to the power t. Approximately how many years does it take for the population to double?" Using the Rule of 70: approximately 70/8 = 8.75 years. Exact: ln(2)/ln(1.08) approximately 9.0 years.
-
-## When the Independent Variable Is Not Time
-
-Linear and exponential models appear with a variety of independent variables, not only time. The same rules apply regardless of what x represents.
-
-Area-based models: "The production cost per item decreases by $0.50 for every additional unit produced." This is a linear model in x = number of units produced.
-
-Distance-based models: "The pressure of the atmosphere decreases by 12 percent for each kilometer of altitude gained." This is an exponential decay model in x = altitude in km.
-
-Count-based models: "Each additional employee generates $3,000 in revenue per year for the company." This is a linear model in x = number of employees.
-
-Biological models: "A species of plant produces 50 percent more seeds than the previous generation for each year of adaptation." This is an exponential growth model in x = generations.
-
-On the Digital SAT, these non-time contexts do not change the underlying mathematics. The two-test, the translation vocabulary, and the model form (y = mx + b or y = a times b to the power x) all apply identically regardless of what x represents physically. The only adjustment: the interpretation of the slope or growth factor must use the correct units from the context.
-
-## Real Data and Model Choice: The Statistical Perspective
-
-In real-world applications, data rarely fits either model perfectly. The Digital SAT acknowledges this through "approximately linear" or "approximately exponential" questions. Understanding the statistical perspective helps in these questions.
-
-For a scatter plot of real data, the appropriate model type is chosen by looking at the overall shape of the data points:
-
-If the scatter plot appears to follow a straight-line trend (with random variation around a line), a linear model is appropriate.
-
-If the scatter plot appears to follow a curved trend that is consistent with a concave-up curve (similar to an exponential curve), an exponential model is appropriate.
-
-The tightness of fit (how closely the data clusters around the model) determines how well the model works. A high correlation (data close to the model) means the model is a good fit. A low correlation (data scattered widely around the model) means the model is a poor fit.
-
-For the Digital SAT, "which model best fits the data?" is answered by comparing the differences (for linear) and ratios (for exponential) and identifying which is more nearly constant. The model with more nearly constant values is the better fit.
-
-## Extended Examples: Parameter Finding From Data Points
-
-The hardest linear-vs-exponential questions on the Digital SAT require finding the model parameters from two or more given data points. This appears more often for exponential models (where the algebra is less familiar) than for linear models.
-
-Finding linear model parameters from two points: slope m = (y2 minus y1) / (x2 minus x1), then b = y1 minus m times x1. This is standard slope-intercept calculation.
-
-Finding exponential model parameters from two points: the ratio method eliminates a.
-
-Given (x1, y1) and (x2, y2) on y = a times b to the power x:
-y1 = a times b to the x1.
-y2 = a times b to the x2.
-Dividing: y2 / y1 = b to the power (x2 minus x1).
-Solve for b: b = (y2/y1) to the power (1/(x2 minus x1)).
-Then find a from y1 = a times b to the x1: a = y1 / (b to the x1).
-
-Example: an exponential function passes through (2, 12) and (5, 96).
-
-y2/y1 = 96/12 = 8. x2 minus x1 = 5 minus 2 = 3. b = 8 to the power (1/3) = 2.
-a = 12 / (2 to the 2) = 12 / 4 = 3.
-Model: y = 3 times 2 to the power x.
-
-Verify: at x = 2: y = 3 times 4 = 12. At x = 5: y = 3 times 32 = 96. Correct.
-
-This ratio method is the standard approach for finding exponential model parameters from data and appears in both the SAT Math section directly and as a component of harder modeling problems.
-
-## Continuous vs Discrete Exponential Growth
-
-The Digital SAT tests the distinction between discrete exponential models (where growth happens in distinct steps, like annually) and continuous growth (where growth happens at every instant, like bacterial population growth in ideal conditions).
-
-Discrete model: y = a times b to the power t, where t takes integer values (years, months, etc.) and b is the per-period multiplier.
-
-Continuous model: y = a times e to the power (rt), where r is the continuous growth rate and e is Euler's number (approximately 2.718). This form appears less frequently on the Digital SAT but is worth recognizing.
-
-Converting between forms: a times e to the power (rt) = a times (e to the r) to the power t. So the effective per-period growth factor is b = e to the r. For r = 0.05 (5 percent continuous rate): b = e to the 0.05 approximately 1.0513. This is slightly more than 1.05 (the discrete 5 percent annual rate) because continuous compounding compounds at every instant.
-
-For the Digital SAT, most exponential model questions use the discrete form y = a times b to the power t. The continuous form appears primarily in physics or finance contexts that are labeled as such.
-
-## Connecting Exponential Models to the Function Notation
-
-On the Digital SAT, exponential models are frequently presented using function notation: P(t) = ..., V(t) = ..., C(x) = .... The function notation emphasizes that the model is a specific rule relating input and output.
-
-Function evaluation: P(5) means the value of P when t = 5. For P(t) = 800 times (1.06) to the t: P(5) = 800 times (1.06) to the 5 = 800 times 1.338 = 1070.4.
-
-Function interpretation: "What does P(10) represent in context?" means asking what the output means when t = 10 (the population/value/quantity 10 periods after the starting point).
-
-Function equation solving: "For what value of t does P(t) = 1600?" Set 800 times (1.06) to the t = 1600. (1.06) to the t = 2. t = ln(2) / ln(1.06) approximately 11.9 periods. The quantity doubles in approximately 11.9 periods.
-
-Composition with linear functions: sometimes the Digital SAT presents a model like V(t) = 5000 times (0.80) to the power (t minus 2) for t greater than or equal to 2. This is an exponential model shifted horizontally: the decay starts at t = 2 rather than t = 0. The value at t = 2 is V(2) = 5000 times (0.80) to the 0 = 5000 (the starting value of the decay).
-
-## Preparing for Model Questions: A Systematic Drill Protocol
-
-The most efficient preparation for linear-vs-exponential model questions follows a three-stage drill protocol that builds each skill layer before combining them.
-
-Stage one: two-test drills. Practice applying the two-test (differences AND ratios) to ten data tables per session. The goal is to compute both tests automatically and identify the model type in under 30 seconds per table. Include tables where neither test gives a constant (to practice recognizing non-standard data).
-
-Stage two: translation drills. Take ten verbal scenarios and write the model equation for each without solving any specific question. Focus on identifying whether "per" or "percent" language signals linear vs exponential, and correctly computing b from a given percentage rate. Verify each model by checking that it produces correct values at t = 0 and t = 1.
-
-Stage three: parameter interpretation drills. Take ten given model equations (mix of linear and exponential) and write a two-sentence interpretation for each parameter in context. For y = 350 times (0.92) to the t: "The initial value is 350, representing the starting amount. The decay factor is 0.92, meaning the quantity decreases by 8 percent per period." This drill builds the interpretive vocabulary needed for context-based questions.
-
-Combining stages: after mastering each stage, practice complete model problems that require all three skills: identify the model type, write the equation, interpret the parameters. Ten complete problems per session bring all the skills together under realistic time pressure.
-
-## The Broader Role of Linear vs Exponential in SAT Data Analysis
-
-Linear and exponential model questions are a subset of the broader data analysis and modeling content that appears throughout the Digital SAT. Understanding where these questions fit helps prioritize preparation.
-
-Within the Problem Solving and Data Analysis domain: linear and exponential models appear alongside scatter plots (the model line or curve fitted to data), two-way tables (categorical data, not directly related to linear/exponential), and summary statistics (mean, median, standard deviation). The model identification skill transfers to scatter plot questions that show a curved vs straight line of best fit.
-
-Within the Advanced Math domain: linear and exponential models appear alongside function analysis questions. The exponential function y = a times b to the power x is a specific case of the general function studied in the functions domain, and model questions in this context may ask about domain, range, transformations, or algebraic properties of the model.
-
-The connection to the algebra domain: finding model parameters from data points is an algebraic skill (setting up and solving equations). The slope calculation for linear models is the same as the slope-formula skill. The ratio method for exponential parameters is an application of exponent rules.
-
-Mastering linear-vs-exponential models as a self-contained unit reinforces skills across three domains simultaneously: data analysis (reading and interpreting data tables), algebra (finding parameters from given values), and advanced math (function notation and exponential function properties).
-
-## The Eight Most Common Digital SAT Model Question Formats
-
-Digital SAT linear and exponential model questions appear in eight specific formats. Recognizing each format immediately routes thinking to the correct approach.
-
-Format one: "Which function type best represents the data?" Given a table, apply the two-test. Constant differences = linear, constant ratios = exponential.
-
-Format two: "What is the value of f(5)?" Given a model function, substitute x = 5 and compute. This is pure function evaluation with no modeling judgment needed.
-
-Format three: "What does the value 1.08 represent in f(t) = 200 times 1.08 to the t?" This is a parameter interpretation question. Answer: 1.08 is the annual growth factor, meaning the quantity increases by 8 percent per year.
-
-Format four: "Write a function that models this scenario." Identify the model type from the verbal description, find a (initial value) and b (growth/decay factor or slope), and write the function.
-
-Format five: "For what value of t does the population reach 500?" Set the function equal to 500 and solve. For linear: straightforward algebra. For exponential: requires logarithms (or a Desmos intersection), which the Digital SAT handles by providing answer choices that can be verified by substitution.
-
-Format six: "Which model predicts a greater value when t = 100?" Evaluate both models at t = 100 and compare. For exponential vs linear, use the "exponential dominates for large t" principle to identify the answer without necessarily computing exact values.
-
-Format seven: "A graph shows data. Which equation could model the data?" Identify the graph's shape (straight line = linear, concave-up curve = exponential growth, concave-down curve = exponential decay) and match to the equation form.
-
-Format eight: "Given that f(2) = 16 and f(5) = 128, find f(0)." Use the ratio method to find b (128/16 = 8 = b to the 3, so b = 2), then find a from f(2) = a times 2 squared = 16, so a = 4. Check: f(0) = 4 times 1 = 4.
-
-These eight formats cover every linear-vs-exponential question type that has appeared on Digital SAT administrations. Preparing a specific response protocol for each format eliminates uncertainty about what to do when the question is encountered.
-
-## A Complete Pre-Test Reference for Linear and Exponential Models
-
-For a concise pre-test review, here is every fact and formula needed for linear-vs-exponential model questions.
-
-IDENTIFICATION: Constant differences in a table = linear. Constant ratios in a table = exponential. Fixed amount per period = linear. Percentage per period = exponential.
-
-LINEAR MODEL: y = mx + b. m is the rate of change (slope, units per x-unit). b is the initial value (value when x = 0).
-
-EXPONENTIAL MODEL: y = a times b to the power x. a is the initial value (value when x = 0). b is the growth factor (b greater than 1) or decay factor (0 less than b less than 1). Growth rate = (b minus 1) times 100 percent. Decay rate = (1 minus b) times 100 percent.
-
-PARAMETER FINDING FROM TWO POINTS - LINEAR: slope m = (y2 minus y1) / (x2 minus x1). Initial value b = y1 minus m times x1.
-
-PARAMETER FINDING FROM TWO POINTS - EXPONENTIAL: growth factor b = (y2/y1) to the power (1/(x2 minus x1)). Initial value a = y1 / (b to the x1).
-
-DOMINANCE: exponential always exceeds linear for large enough x when b is greater than 1.
-
-PIECEWISE LINEAR: constant rate on each interval, continuity at breakpoints.
-
-DECAY HALF-LIFE: T = ln(0.5) / ln(b) where b is the decay factor.
-
-COMPOUNDING: y = a times (1 + r/n) to the power (nt) for nominal rate r compounded n times per year.
-
-This ten-item reference covers every concept tested in linear-vs-exponential model questions. Reviewing it for five minutes before the test activates all relevant memory and reduces setup time on the first model question encountered.
-
-## Why Linear vs Exponential Is Among the Most Productive Preparation Topics
-
-The linear vs exponential distinction produces a high return on preparation time for three reasons.
-
-First, the question type is predictable. The two-test, the translation vocabulary, and the parameter interpretation rules appear consistently across administrations. A student who has mastered these tools will encounter no surprises in this question category.
-
-Second, the tools transfer widely. The two-test applies to scatter plot questions, the slope interpretation applies to all linear function questions, and the growth factor interpretation applies to all exponential function questions. Preparing linear vs exponential models simultaneously prepares adjacent question types.
-
-Third, the preparation is efficient. The complete toolkit can be learned and internalized in two focused study hours. For two to three questions per administration, this investment produces a highly favorable payoff-per-hour ratio compared to harder topics that require much longer preparation for similar question counts.
-
-Students who have not previously distinguished clearly between addition-based and multiplication-based growth will find that this distinction, once internalized, immediately clarifies a wide range of real-world reasoning situations beyond the SAT. The concept that percentage growth is fundamentally different from dollar-amount growth is one of the most practically important mathematical ideas in personal finance, public health, and population biology. The SAT is measuring a genuinely important skill, and preparing for it produces understanding that extends well beyond test day.
-
-## Summary: The Core Framework for Linear vs Exponential Model Mastery
-
-The complete linear-vs-exponential framework has five elements, each building on the previous.
-
-Element one: the distinction. Addition = linear. Multiplication = exponential. This is the conceptual foundation.
-
-Element two: the two-test. Differences = linear. Ratios = exponential. This is the table identification tool.
-
-Element three: the model forms. y = mx + b for linear (m is rate, b is initial). y = a times b to the power x for exponential (a is initial, b is factor). These are the algebraic representations.
-
-Element four: the translation vocabulary. Fixed amount signals linear. Percentage or factor signals exponential. This is the verbal identification tool.
-
-Element five: the interpretation vocabulary. For linear: "m dollars per unit," "b is the initial amount." For exponential: "b = 1.08 means 8 percent growth per period," "a is the starting value." This is the context-reading skill.
-
-All five elements work together as a unified system. Every linear-vs-exponential question on the Digital SAT can be resolved by combining the appropriate elements from this framework: identify the model type (elements one and two), write the model (element three), or interpret the model's parameters (elements four and five).
-
-## Modeling With Technology: Using Desmos Effectively for Model Questions
-
-The Digital SAT's built-in Desmos calculator is especially powerful for linear vs exponential model questions because it can graph functions, evaluate them at specific points, find intersections, and visually confirm which model type fits a dataset.
-
-Plotting data points: Desmos allows entering data as a table. Type "x, y" in the first row, then enter each data point. The data points appear as dots on the graph. This visual allows instant comparison of whether the points follow a straight line (linear) or a curve (exponential).
-
-Graphing candidate models: after plotting the data, graph a candidate linear function (y = mx + b) and adjust m and b using sliders until the line passes through the data points. Repeat for an exponential function (y = a times b to the power x) with sliders for a and b. The model that fits the data points better is the appropriate model type.
-
-Finding intersections: to find where two model functions give the same value, graph both functions and click on the intersection point. Desmos displays the coordinates of the intersection, giving the x-value where the two models agree and allowing determination of which model is greater beyond that point.
-
-Function evaluation: to find f(5) for any model function, type the function in Desmos and evaluate at x = 5 either by tracing the graph or by entering the expression f(5) directly.
-
-Regression features: Desmos can fit a linear regression line (type "y1 ~ mx1 + b" in the expression window, where y1 and x1 are data column labels) or an exponential regression curve (type "y1 ~ a times b to the x1"). Desmos outputs the best-fit values of m and b (or a and b) and displays the R-squared value, which indicates how well the model fits the data.
-
-For Digital SAT purposes, the most efficient use of Desmos for model questions: plot the data (if a table is given), graph both a linear and exponential model, and identify which fits better visually. This visual approach is often faster than computing the two-test by hand, though knowing the two-test remains valuable for non-calculator contexts and for understanding why one model fits better.
-
-## Worked Examples Extended: Five More Practice Problems
-
-The following five additional problems cover question formats and difficulty levels not fully addressed in the initial worked examples.
-
-Practice problem one (medium): "A savings account has a balance of $500. It earns $25 interest per month. Write a linear function B(t) for the balance after t months and find the balance after 18 months."
-
-Initial value a = 500, monthly addition m = 25. B(t) = 500 + 25t. At t = 18: B(18) = 500 + 25(18) = 500 + 450 = $950.
-
-Practice problem two (medium): "A colony of 800 bacteria triples every 4 hours. Write an exponential function P(t) for the population after t hours."
-
-Initial value = 800. Tripling every 4 hours means growth factor = 3 for every 4 hours. Exponent = t/4. P(t) = 800 times 3 to the power (t/4).
-
-At t = 4: P(4) = 800 times 3 = 2,400. At t = 8: P(8) = 800 times 9 = 7,200. Confirmed.
-
-Practice problem three (hard): "The table below shows the value of an investment over time. Determine whether the relationship is linear or exponential and find the function that models the data."
-
-x = 0, 1, 2, 3; y = 1600, 1200, 900, 675.
-
-Differences: 1200 minus 1600 = minus 400, 900 minus 1200 = minus 300, 675 minus 900 = minus 225. Not constant. Not linear.
-
-Ratios: 1200/1600 = 0.75, 900/1200 = 0.75, 675/900 = 0.75. Constant at 0.75. Exponential with decay factor 0.75 and initial value 1600.
-
-Function: y = 1600 times (0.75) to the power x. This represents 25 percent annual depreciation (since 1 minus 0.75 = 0.25).
-
-Practice problem four (hard): "Employee A's salary starts at $60,000 and increases by $4,000 per year. Employee B's salary starts at $45,000 and increases by 6 percent per year. After how many years (approximately) will Employee B's salary first exceed Employee A's?"
-
-A(t) = 60,000 + 4,000t. B(t) = 45,000 times (1.06) to the t.
-
-Testing: t = 10: A = 100,000; B = 45,000 times (1.06) to the 10 = 45,000 times 1.791 = 80,595. A leads.
-t = 20: A = 140,000; B = 45,000 times (1.06) to the 20 = 45,000 times 3.207 = 144,315. B leads.
-t = 19: A = 136,000; B = 45,000 times (1.06) to the 19 approximately 136,240. B barely exceeds A.
-
-Answer: after approximately 19 years, Employee B's salary first exceeds Employee A's.
-
-Practice problem five (hard module 2): "The function P(t) = 3000 times (1 + r) to the t models a population, where t is years. If the population is 3630 after 2 years, find r and use it to determine the population after 5 years."
-
-At t = 2: 3630 = 3000 times (1 + r) squared. (1 + r) squared = 3630/3000 = 1.21. 1 + r = root(1.21) = 1.1. r = 0.1 = 10 percent.
-
-Model: P(t) = 3000 times (1.1) to the t. At t = 5: P(5) = 3000 times (1.1) to the 5 = 3000 times 1.61051 approximately 4,832 people.
-
-These five practice problems span every major format: writing a linear model, writing an exponential model with non-unit time periods, identifying and writing an exponential decay model from a table, finding a crossover point between linear and exponential, and finding a parameter from given data then evaluating the model.
-
----
+The next move is repetition until the diagnostic disappears into reflex. Pull a set of modeling items, force yourself to write one difference and one ratio before touching anything else, convert every percentage to a factor the moment you read it, and re-read the actual question before you bubble. Run those reps on the section-targeted modeling sets and immediate worked solutions at the [ReportMedic SAT Math practice tool](https://reportmedic.org/tools/sat-math-practice-questions.html) until classifying a table feels as fast as reading it. The point you save is small on any single item and large across a full adaptive form, because the seconds you bank on easy classification are the seconds you spend on the buried, high-value items the format reserves for the top of the range. Decide the family first, always, and the rest of the modeling work is short. A student who could not reliably classify a table a month ago and can do it in seconds today did not get smarter; they learned a pattern and rehearsed it until it ran on its own, which is exactly the kind of gain this exam rewards.
 
 ## Frequently Asked Questions
 
-**Q1: What is the key difference between a linear and an exponential model?**
+### How do I tell if a model is linear or exponential on the SAT?
 
-A linear model has a constant rate of change: the same amount is added to y for each unit increase in x. An exponential model has a constant multiplicative factor: y is multiplied by the same value for each unit increase in x. In a data table, constant first differences (y2 minus y1 = y3 minus y2) signal linear; constant ratios (y2/y1 = y3/y2) signal exponential. The conceptual distinction: linear models describe situations where the same quantity is added each period regardless of the current total (a $500 monthly payment on a debt). Exponential models describe situations where the change is proportional to the current total (a 5 percent monthly interest charge that grows as the debt grows). This proportionality is the defining feature that separates exponential from linear. A powerful memory aid: linear comes from "line," and a linear model has a straight-line graph. Exponential comes from "exponent," and an exponential model has x as an exponent in the formula. These two naming conventions reflect the core structural distinction between the two model types.
+Run the differences-and-ratios diagnostic. From a table with equally spaced inputs, subtract consecutive outputs to get the first differences, and divide consecutive outputs to get the ratios. If the differences are constant, the relationship is additive and you write a straight-line equation: a starting value plus a constant rate times the input. If the ratios are constant, the relationship is multiplicative and you write a compounding equation: a starting value times a base raised to the input. For a word problem, skip the arithmetic and read the language instead. A fixed quantity added each period, stated in absolute units like dollars or degrees, is additive. A percentage of the current value, or a scaling word like doubles or halves, is multiplicative. The decision takes seconds once you know to make it, and making it before you compute anything is the habit that prevents solving the wrong family well. Classify first, then write the equation, then evaluate or interpret as the prompt asks.
 
-**Q2: What is the two-test for identifying model type from a data table?**
+### What is the differences-and-ratios test for a data table?
 
-Compute both the first differences (subtract consecutive y-values) and the ratios (divide consecutive y-values). If the differences are constant, the model is linear. If the ratios are constant, the model is exponential. If neither is constant, the data does not fit a simple linear or exponential model. Always compute both before deciding. A systematic approach: label your work. Write "Differences:" and compute each one, then write "Ratios:" and compute each one. Looking at one set without the other risks missing the pattern. Computing both takes under 30 seconds for a four-row table and provides definitive evidence for the model type.
+It is the single procedure that classifies any equally spaced table into its family. You compute two columns of derived values. The first column is the first differences, found by subtracting each output from the next one. The second column is the ratios, found by dividing each output by the one before it. A flat first-difference column means the quantity changes by the same amount at every step, which is the additive, straight-line family. A flat ratio column means the quantity changes by the same proportion at every step, which is the multiplicative, compounding family. The two tests are complementary: a genuine straight-line relationship passes the difference test and fails the ratio test, while a genuine compounding relationship passes the ratio test and fails the difference test. The one precondition is equal spacing of the input values, since uneven steps distort both columns. When the inputs are evenly spaced, which is almost always the case on the exam, the two derived columns settle the family with no ambiguity and no guessing from the shape of a graph.
 
-**Q3: What are the formulas for linear and exponential models?**
+### Does a fixed yearly raise make a linear or exponential model?
 
-Linear: y = mx + b, where m is the slope (rate of change) and b is the y-intercept (initial value). Exponential: y = a times b to the power x, where a is the initial value (value when x = 0) and b is the growth or decay factor. Two derived formulas worth knowing: for exponential growth, y = a times (1 + r) to the power x where r is the per-period rate as a decimal. For exponential decay, y = a times (1 minus r) to the power x. The growth factor b is (1 + r) and the decay factor is (1 minus r). Keeping this connection between b and the percent rate r explicit prevents the common error of using r directly as b (forgetting the "1 +"). A practical comparison of the two forms: y = 1000 times 0.85 to the power t and y = 1000 times (1 minus 0.15) to the power t are identical (since b = 0.85 = 1 minus 0.15 = 1 minus r with r = 0.15). The first form (using b directly) is more compact; the second form (using 1 minus r) makes the decay rate of 15 percent explicit. On the Digital SAT, both forms appear and both must be readable.
+A fixed yearly raise, stated as a set dollar amount, makes a linear model. The defining feature is that the same absolute quantity is added each year regardless of the current salary. If someone earns forty thousand and gets a two-thousand-dollar raise annually, the salary climbs by two thousand every year: forty thousand, forty-two thousand, forty-four thousand, forty-six thousand. The first differences are a flat two thousand, the signature of additive change, so the model is the starting salary plus the raise times the number of years. The trap is the word raise, which sounds like growth and tempts students toward the compounding family. But growth by a fixed dollar amount is straight-line, not compounding, because the raise does not depend on how much the person already earns. Compare this to a percentage raise, say four percent annually, which would be multiplicative because the dollar increase grows as the salary grows. The unit of the change decides everything: dollars per year is additive, percent per year is multiplicative.
 
-**Q4: How do I identify a linear vs exponential scenario from a word problem?**
+### Does a percentage growth rate make a linear or exponential model?
 
-Linear signals: "increases by $X per year," "adds X units per period," "constant rate," "per unit." The change is a fixed amount regardless of the current value. Exponential signals: "increases by X percent per year," "doubles every period," "grows by a factor of," "percent interest." The change is proportional to the current value. A diagnostic question to ask about any scenario: "Does the amount of change stay the same or grow over time?" If it stays the same (same dollars added each year), linear. If it grows (more dollars added each year as the balance grows), exponential. This question reliably distinguishes the two model types even when the verbal phrasing does not use obvious signal words. Tricky phrasings to watch for: "earns 3 percent on top of the original investment" sounds exponential (percent) but is actually linear if "original investment" means the percent always applies to the same fixed starting amount, not the current value. Always identify whether the percentage applies to the original amount (linear) or the current amount (exponential).
+A percentage growth rate, applied to the current value, makes an exponential model. Because the percentage is taken of an amount that keeps changing, the absolute increase grows over time, which produces the accelerating curve of compounding rather than a straight line. Convert the rate to a base by adding it to one for growth or subtracting it from one for decay: three percent growth is a base of 1.03, eight percent decay is a base of 0.92. The model is the starting value times that base raised to the number of periods. The most expensive error here is writing the raw rate as the base, turning three percent growth into a base of 0.03, which collapses the quantity instead of growing it. One caution: confirm the percentage is taken of the current value and not of a fixed original amount. A percent of the original each period, as in simple interest, adds a constant dollar amount and is actually additive. The percentage alone does not decide the family; what the percentage is taken of decides it.
 
-**Q5: What does the growth factor b represent in an exponential model?**
+### Does exponential growth always overtake linear growth?
 
-The growth factor b is the multiplier applied to y for each one-unit increase in x. If b is greater than 1, the model grows (b = 1.08 means 8 percent growth per period). If b is between 0 and 1, the model decays (b = 0.85 means 15 percent decay per period, since 1 minus 0.85 = 0.15). A quick parameter reading guide: b = 1.0X means X percent growth. b = 0.9X means (1 minus 0.9X) = (10 minus X) percent decay. For b = 0.97: 3 percent decay. For b = 1.15: 15 percent growth. For b = 0.80: 20 percent decay. Practicing this instant conversion from b to percent rate (and back) builds the interpretive fluency needed for parameter questions.
+Yes, eventually, given a base above one, but not immediately, and the timing is exactly what the exam tests. A compounding relationship with a base greater than one will surpass any straight-line relationship if the input runs far enough, because a constant proportion of an ever-larger quantity outgrows any fixed addition. The catch is the word eventually. At small input values the straight line often leads, especially when the line has a steep slope and the compounding base is only slightly above one. A savings plan adding five hundred dollars a year beats an investment growing twenty percent a year for the first several years before the curve catches and passes it. So when a prompt asks which is larger at a specific input, you cannot answer from the general principle alone; you must evaluate both models at that input or graph them and read which is higher there. Hold both truths together: the curve dominates in the long run, and the specific comparison depends on the input the prompt names. Memorizing only "exponential wins" produces wrong answers at small inputs.
 
-**Q6: How do I find the growth or decay rate from the growth factor?**
+### What is a piecewise-linear model on the SAT?
 
-For growth (b greater than 1): growth rate = (b minus 1) times 100 percent. For b = 1.07: growth rate = 7 percent. For decay (b between 0 and 1): decay rate = (1 minus b) times 100 percent. For b = 0.93: decay rate = 7 percent. The reverse direction: given a growth rate of r percent, the growth factor is b = 1 + r/100. Given a decay rate of r percent, the decay factor is b = 1 minus r/100. Both conversions are single-step arithmetic. Practice until these conversions are instantaneous: "8 percent growth means b = 1.08," "15 percent decay means b = 0.85."
+A piecewise-linear model is two or more straight-line segments joined at breakpoints, each segment with its own constant rate. It is not a new family; it is the additive family applied in stages. A common example is a pricing structure: a flat charge up to some threshold, then a per-unit rate beyond it, such as eight dollars for the first three miles and ninety cents per mile after that. Within each segment the first differences are constant, so each piece is straight-line, but the slope changes at the breakpoint, which is what makes the overall graph bend. To work with one, first identify which segment your input falls into, then apply that segment's rate and starting point. For a seven-mile trip under the example above, the first three miles cost the eight-dollar base and the remaining four miles cost ninety cents each, totaling eleven dollars sixty. The skill is locating the input on the correct piece before computing, since applying the wrong segment's rate is the usual mistake. Piecewise models reward careful reading of where one rule ends and the next begins.
 
-**Q7: For large values of x, which always dominates: linear or exponential?**
+### Why is increasing data not automatically exponential?
 
-For any exponential function with growth factor b greater than 1 and any linear function, the exponential function will eventually be greater for large enough x, regardless of the initial values or slope. Exponential growth always eventually dominates linear growth because multiplication outpaces addition at large scales. The rate of eventual overtaking depends on b: a large growth factor (b = 3) will overtake a linear function sooner than a small growth factor (b = 1.01), but both will eventually dominate. For Digital SAT questions asking "for large values of t, which model predicts a greater value?", the exponential model is always the answer when its base is greater than 1, without needing to compute a specific crossover point.
+Because both families can increase, and rising is shared rather than distinctive. A straight-line relationship with a positive slope climbs steadily forever, and a compounding relationship with a base above one climbs in an accelerating curve. The fact that a column of numbers goes up tells you nothing about which family produced it. A set that reads ten, twenty, thirty, forty, fifty increases at every step and looks dramatic on a small graph, yet its first differences are a flat ten while its ratios slide from two down toward one, marking it unmistakably as straight-line. The word exponential has leaked into everyday speech as a synonym for fast or dramatic, and students import that loose meaning into the math, labeling any steep rise as compounding. The correction is mechanical: rising is not the signal, a constant ratio is. Before you classify anything, compute the first differences and the ratios, and let the arithmetic overrule the visual impression. A constant difference with a sliding ratio is additive no matter how fast it climbs, and only a constant ratio earns the compounding label.
 
-**Q8: What is a piecewise linear model?**
+### How do I choose the model that best represents a situation?
 
-A piecewise linear model has different constant rates of change over different intervals of the input variable. Each piece is a separate linear function with its own slope. The graph is a series of connected line segments. Real-world examples: utility pricing with tiered rates, overtime pay rates, shipping costs that change above certain weight thresholds. The key requirement: continuity at each breakpoint. The formula for the first piece, evaluated at the breakpoint, must equal the starting value of the second piece, evaluated at the breakpoint. If there is a jump discontinuity at the breakpoint (the two pieces give different values at that x), the model has an error.
+Start by classifying the family, because the family narrows the possible equations to one form before any number-crunching begins. For a table, run the differences-and-ratios test: flat differences point to the straight-line form, flat ratios point to the compounding form. For a scenario, read the language: an absolute quantity added per period is additive, a percentage of the current value or a scaling word is multiplicative. Once the family is fixed, read the starting value off the input-equals-zero row or from the scenario's initial condition, then read the rate or base from the per-step change. For compounding, remember to convert a percentage to a factor by adding to or subtracting from one. Finally, check the answer choices for the trap forms: a straight-line option offered against a compounding situation, a base-above-one option offered against decay, or a choice that places the raw rate where the factor belongs. The correct choice matches both the family your diagnostic found and the direction of change the scenario describes. Classification first, then matching the form to the choices, is the reliable order.
 
-**Q9: How do I write a piecewise linear model?**
+### What does "approximately linear" mean for real SAT data?
 
-Identify the breakpoints (where the rate changes) and the rate for each interval. Write a separate linear formula for each interval: f(x) = formula1 for x in [a, b], f(x) = formula2 for x in [b, c], etc. Ensure continuity at each breakpoint: the formula before the breakpoint and the formula after should give the same value at the breakpoint x. For the second and later pieces, always write the formula as (accumulated total from prior pieces) + (new rate) times (x minus breakpoint). This structure automatically ensures continuity. For example, if the first piece gives 150 at the breakpoint and the second piece has a rate of 20: second piece = 150 + 20(x minus breakpoint).
+It means the relationship is best modeled by a straight line even though the measured values do not fall exactly on one. Real measurements carry noise, so neither the first differences nor the ratios will be perfectly constant. The judgment becomes comparative rather than absolute: you ask which derived column is closer to constant. Differences that cluster tightly around a single value while the ratios slide steadily across a wide range indicate an approximately linear relationship, with the best-fit line summarizing the trend rather than connecting every point. For example, a height table with differences bouncing between 1.7 and 2.2 but ratios sweeping from 1.9 down to 1.2 is approximately linear, because the differences are far steadier than the ratios. The exam uses this framing to test whether you can read messy data honestly instead of forcing a perfect fit. The skill mirrors interpreting a line of best fit on a scatter plot, where the line captures the central tendency of a cloud of points. With real data, the family is whichever computed column varies least, and a steadily sliding ratio against roughly steady differences signals a straight-line process with measurement noise on top.
 
-**Q10: If a data table doesn't perfectly fit either model, how do I choose?**
+### How is the differences test different from the ratios test?
 
-Compute both differences and ratios. Whichever is more nearly constant indicates the better-fitting model. If differences have small variation but ratios vary widely, linear is better. If ratios are approximately constant but differences vary widely, exponential is better. The model with the more stable values from the two-test is the better fit. A quantitative approach when both are nearly constant: compute the range (max minus min) of the differences and the range of the ratios. Compare these ranges proportionally. If the ratios vary by 0.01 around a value of 1.5 (a variation of about 0.7 percent) while the differences vary by 5 around a value of 20 (a variation of 25 percent), the ratios are far more stable, indicating an exponential model.
+The differences test uses subtraction; the ratios test uses division. To run the differences test, subtract each output from the next consecutive output across the table. A constant result means the quantity changes by the same fixed amount at every step, which is the additive, straight-line family. To run the ratios test, divide each output by the one before it. A constant result means the quantity changes by the same proportion at every step, which is the multiplicative, compounding family. The two tests are designed to be complementary, and a relationship passes one while failing the other. A genuine straight-line set produces constant differences and sliding ratios, while a genuine compounding set produces constant ratios and growing differences. Running both on the first two or three data points is the fastest way to settle the family, because the answer reveals itself the moment one column comes out flat and the other does not. Both tests require equally spaced input values; if the inputs jump unevenly, compute the change per single unit first, or compare only pairs that are one step apart, before trusting either derived column.
 
-**Q11: How do I interpret the initial value in a model?**
+### When does the SAT ask me to pick between two models?
 
-The initial value is the value of the dependent variable when the independent variable equals zero. In y = 3x + 7: the initial value is 7 (the value when x = 0). In y = 500 times (0.95) to the power t: the initial value is 500 (the starting amount before any decay). Always specify what the independent variable represents (usually time) and what the initial value means in context (the amount at time zero). A common interpretation question: "What does the value 500 represent in P(t) = 500 times (0.95) to the power t?" A complete answer states both the numerical value (500) and its contextual meaning ("the initial population of 500 at time t = 0" or "the population at the start of the study"). Both parts are needed for a correct interpretation.
+The exam frames the choice in several recognizable ways. The most direct is a "which equation best represents this situation" item that offers a straight-line form and a compounding form among the choices, sometimes with a sign or base variation. Another is a table-classification item that hands you data and asks for the equation or the type of relationship. A third is a crossover item that presents both a straight-line model and a compounding one and asks which is larger at a particular input, or when one exceeds the other. A fourth embeds the choice inside a multi-step problem, where you must build the right model before you can answer a downstream question about a value or a rate. In every case, the difficulty lives in the classification step, not the arithmetic, because once the family is fixed the computation is short. These items cluster in the harder routing of the second adaptive module, where the family signal is more buried inside a longer scenario, which is why a fast, reflexive diagnostic pays off most precisely where the hardest points sit.
 
-**Q12: What is the difference between linear growth of X per year and exponential growth of X percent per year?**
+### How do constant differences signal a linear relationship?
 
-Linear growth of X per year adds the same dollar (or unit) amount X to the total each year, regardless of the current total. Exponential growth of X percent per year adds X percent of the CURRENT total each year, so the actual amount added increases as the total grows. In the long run, even a small percentage exponential rate will far outpace any fixed-amount linear rate. A numerical comparison: a $100 annual increase on a $1,000 starting balance (linear, 10 percent of original) vs a 10 percent annual compounded growth on the same $1,000. In year one, both add $100. In year two, linear adds $100 (same as before), while exponential adds 10 percent of $1,100 = $110. By year 10, linear has added a total of $1,000; exponential has grown to $1,000 times (1.10) to the 10 = $2,594, adding $1,594.
+A constant first difference means the quantity gains or loses the same fixed amount over each equal step of the input, and that fixed step is the definition of a straight-line relationship. The slope of a line is exactly that constant rate of change, the amount added per single unit of input, so when you find a flat difference column you have found the slope directly. If a table reads ninety, one hundred fifty, two hundred ten, two hundred seventy, the differences are a steady sixty, which is the slope, and the starting value at input zero is the intercept. The equation assembles immediately: the intercept plus sixty times the input. The reason the constant difference is decisive is that it ties the change to the step rather than to the current size of the quantity. No matter how large the value gets, the next step adds the same sixty. That independence from the current value is the structural mark of additive change, and it is precisely what fails in a compounding relationship, where the absolute change grows as the quantity grows. A flat difference column is therefore both the test and the source of the slope.
 
-**Q13: How do I find the parameters of an exponential model from two data points?**
+### How do constant ratios signal an exponential relationship?
 
-Write the exponential model y = a times b to the power x. Substitute each data point to get two equations in two unknowns (a and b). Divide the two equations to eliminate a: y2/y1 = b to the power (x2 minus x1). Solve for b: b = (y2/y1) to the power (1/(x2 minus x1)). Then find a from one of the original equations. Common error: using the wrong base for the power. The exponent in the formula for b is 1/(x2 minus x1), not 1/(x2). Always use the DIFFERENCE of the x-values as the denominator. Verification: substitute both original data points into the final model equation and confirm they are satisfied exactly.
+A constant ratio means each output equals the one before it multiplied by the same factor, and repeated multiplication by a fixed factor is the definition of compounding. That constant ratio is the base of the model. If a table reads two hundred, three hundred, four hundred fifty, six hundred seventy-five, each value is 1.5 times the previous one, so the base is 1.5, and the starting value at input zero supplies the leading coefficient. The equation is the starting value times 1.5 raised to the input. The base also encodes the rate: a base of 1.5 is a fifty percent growth rate, since 1.5 equals one plus 0.5, while a base of 0.85 is a fifteen percent decay rate, since 0.85 equals one minus 0.15. The constant ratio is decisive because it ties the change to the current value rather than to a fixed step. Each multiplication scales whatever the quantity currently is, so the absolute change grows as the quantity grows, producing the accelerating curve. That dependence on the current value is the structural mark of multiplicative change, and it is exactly what a flat difference column lacks.
 
-**Q14: How does compounding affect exponential models?**
+### Which domains test linear versus exponential modeling?
 
-Compounding at different frequencies changes the effective growth factor per year. For a nominal annual rate r compounded n times per year over t years: final value = a times (1 + r/n) to the power (nt). Monthly compounding (n = 12) gives a slightly higher effective rate than annual compounding (n = 1) because interest earns interest within the year. The formula (1 + r/n) to the power n gives the effective annual growth factor. For the Digital SAT, compounding questions typically specify the frequency explicitly. A question might give a quarterly rate and ask for the value after a certain number of years, requiring the student to correctly set up the exponent as 4t (four quarters per year times t years) rather than t.
+Modeling spans two of the College Board content areas and brushes a third. Straight-line models live mostly in the Algebra content area, where a constant rate of change and a starting value define the relationship, and they appear in cost problems, rate problems, and any scenario with a fixed periodic change. Compounding models live mostly in the Advanced Math content area, where growth, decay, doubling, half-life, and compound-interest scenarios all use a base raised to a variable. The Problem Solving and Data Analysis content area also touches modeling whenever a table of real measurements asks which kind of relationship fits, including the approximately-linear judgment on noisy data. The practical takeaway is that a modeling decision can arrive dressed as algebra, as advanced function work, or as data interpretation, and the same differences-and-ratios diagnostic resolves all three. Because the topic does not own a single chapter, it is easy to under-prepare for, since classroom study tends to treat straight-line and compounding functions in separate units without practicing the choice between them. The exam exploits exactly that gap by presenting unlabeled scenarios across all three content areas.
 
-**Q15: What does it mean when the Digital SAT asks for the "percent increase per year" from an exponential model?**
+### What is the most common modeling-choice mistake on the SAT?
 
-The percent increase per year is the growth rate expressed as a percentage. For the model y = a times b to the power t: percent increase per year = (b minus 1) times 100 percent. For V(t) = 1000 times (1.06) to the power t: percent increase per year = (1.06 minus 1) times 100 = 6 percent per year. A harder variant: "What is the percent increase per quarter if the model is V(t) = 1000 times (1.06) to the power t where t is years?" The quarterly factor is (1.06) to the power (1/4) approximately 1.01467. Percent increase per quarter approximately 1.47 percent. This requires understanding that the annual factor raised to the 1/4 power gives the quarterly factor.
-
-**Q16: How does the graph of a linear model differ from the graph of an exponential model?**
-
-A linear model graphs as a straight line with constant slope. An exponential growth model graphs as an upward-curving curve that increases faster and faster. An exponential decay model graphs as a downward-curving curve that decreases but never reaches zero. The key visual distinction: if the graph is a straight line, the model is linear. If the graph curves (concave up for growth, concave down for decay), the model is exponential. Note that on a logarithmic scale (where the y-axis shows log(y) rather than y), an exponential function graphs as a straight line. This log-linear relationship is a mathematical property of exponential functions that can appear in graph-interpretation questions on the Digital SAT.
-
-**Q17: How do I find when two models give the same value?**
-
-Set the two model equations equal to each other and solve for x. For two linear models: mx + b = cx + d gives x = (d minus b) / (m minus c). For one linear and one exponential: set them equal and solve numerically or using Desmos, since there is no simple algebraic formula for the intersection of a line and an exponential curve. Desmos approach: graph both functions and look for the intersection point. The x-coordinate of the intersection is where both models give the same value. Use the Desmos click-on-graph feature to read the coordinates of the intersection point precisely. For Digital SAT questions asking "after how many years does model B exceed model A?", identify the intersection and determine which model is greater beyond that point.
-
-**Q18: What does "the model is appropriate for values between x = 0 and x = 10" mean?**
-
-This indicates the domain restriction of the model: the model only accurately represents the quantity for x-values in [0, 10]. Outside this range, the model may not be valid (the underlying relationship may change, or the data the model was based on does not extend beyond this range). Always apply the model only within its stated domain. A practical consequence: if the question asks for the predicted value at x = 15 and the model is stated to be appropriate only for x from 0 to 10, the model cannot reliably predict the value at x = 15. The Digital SAT sometimes asks about predictions outside the stated domain to test whether students understand this domain restriction.
-
-**Q19: How do I handle an exponential model where the time unit and the exponent's unit differ?**
-
-Adjust the exponent to match the model's unit. If a model doubles every 3 years and you want the formula in terms of years: the exponent should be t/3 (so the quantity doubles when t = 3). V(t) = a times 2 to the power (t/3). Alternatively, find the annual growth factor: 2 to the power (1/3) is the annual multiplier. V(t) = a times (2 to the 1/3) to the power t. Both forms are algebraically equivalent. The choice depends on which form is most natural for the given question. If the question asks about values at t = 3, 6, 9 years, the form with t/3 makes the calculation transparent (exponent becomes 1, 2, 3). If the question asks about annual values at t = 1, 2, 3, the per-year factor form is more direct.
-
-**Q20: How many linear vs exponential model questions appear per Digital SAT and what is the most efficient preparation strategy?**
-
-Linear vs exponential questions appear two to three times per administration, across both PSDA and Advanced Math. The most efficient preparation strategy: first, master the two-test (differences for linear, ratios for exponential) for data tables. Second, learn the translation dictionary (percent/factor signals exponential; fixed amount signals linear). Third, practice interpreting a and b in y = a times b to the power x in various real-world contexts. These three elements cover the complete linear-vs-exponential curriculum in approximately two focused study hours. The questions are highly predictable in structure, making this category one of the most efficiently prepared for the score impact it produces. For students who already understand the distinction conceptually but make errors on interpretive questions, targeted practice on the "what does 0.92 represent in this model?" question type builds the vocabulary precision that prevents interpretation errors on test day.
+The most common mistake is labeling any increasing data as exponential because it rises. Rising is shared by both families, so the upward direction carries no information about which one generated the data. A steep straight line climbs fast, and students who equate fast growth with compounding misclassify it, then write the wrong equation form and lose a point that was never about computation. The fix is to compute the first differences and the ratios rather than judging from the shape: a constant difference with a sliding ratio is additive no matter how steep, and only a constant ratio is compounding. Close behind this error is the rate-as-base slip, writing a five percent growth as a base of 0.05 instead of 1.05, which collapses a growing model into a vanishing one. That one is cured by converting every percentage to a factor the instant you read it, adding to one for growth and subtracting from one for decay. Both mistakes come from skipping the classification step and reaching straight for arithmetic. Deciding the family first, with the diagnostic or the language signature, is the habit that prevents the entire category of modeling losses.
