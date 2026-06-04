@@ -6,15 +6,15 @@ date: 2022-01-10
 categories: ["Technology"]
 tags: ["Azure", "App Service", "Cloud Computing", "Architecture", "Performance"]
 excerpt: "Azure App Service explained at engineering depth: how the worker model, plan tiers, deployment slots, scaling, and the sandbox limits shape your design."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2022-01-10
+lang: en
 ---
-
 Azure App Service is the managed application host most teams reach for first, and it is the one most teams misjudge. It runs a startling share of the production web traffic on Azure, from internal line-of-business applications to public APIs serving millions of requests, and it does so by hiding the operating system, the patching, the load balancer, and the autoscaler behind a deployment that can be as simple as a single `git push`. That convenience is exactly why engineers stop reasoning about it. They pick a plan tier from a dropdown, deploy, and discover months later that the tier they chose silently caps their scale-out, forbids their deployment slot, or blocks the virtual network integration the security team now requires. The gap between using App Service and understanding it is the gap between an application that quietly outgrows its plan and a site whose plan was a deliberate decision from the first deployment.
 
-![Azure App Service worker model and plan tiers explained - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Azure App Service worker model and plan tiers explained - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 This article is the engineering deep dive that the product page and the quickstart never give you. It builds the mental model of App Service as a compute plan that hosts sites on a worker fleet, explains how that fleet is provisioned and shared, walks the tier ladder and the precise capabilities each rung unlocks, and then takes you through the configuration that actually decides whether your workload behaves in production: deployment slots and the swap, scale-up versus scale-out, the always-on setting and the idle-unload behavior it defeats, and the difference between virtual network integration and a private endpoint that confuses nearly everyone the first time. By the end you should be able to look at a workload, name the lowest tier that satisfies its requirements, and predict the failure modes before they happen rather than after.
 
