@@ -6,17 +6,17 @@ date: 2022-03-07
 categories: ["Technology"]
 tags: ["Azure", "Key Vault", "Security", "Identity", "Cloud Computing"]
 excerpt: "Azure Key Vault stores secrets, keys, and certificates behind two authorization models that quietly collide. Learn the rule that prevents silent 403s."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "andrew-price"
 last_updated: 2022-03-07
+lang: en
 ---
-
 Almost every Azure workload eventually needs to hold something it cannot afford to leak: a database connection string, an API token, a private key, a TLS certificate. The instinct is to drop that material into an app setting, a config file, or a pipeline variable and move on. Azure Key Vault exists because that instinct produces the breaches that show up in incident reviews months later, when a leaked connection string in a committed `appsettings.json` turns into an exfiltrated database. The service is a managed store for sensitive material, but the gap between using it and understanding it is wide, and most of the pain engineers feel with it comes from one specific design fact that the quickstart pages skip past entirely.
 
 That fact is this: a vault has two completely separate authorization systems layered on top of it, and a request is evaluated against exactly one of them depending on how the vault is configured. Grant someone access in the wrong system and they get a 403 that looks impossible, because the permission you granted is real, it just lives in the model the vault is not currently consulting. Understanding that single distinction turns the most common Key Vault frustration into a five-second diagnosis. This guide builds the full mental model so you can reason about that and everything else the service does.
 
-![Azure Key Vault complete guide to secrets, keys, certificates, and the access model - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Azure Key Vault complete guide to secrets, keys, certificates, and the access model - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 ## What Azure Key Vault actually is, and the model to hold
 

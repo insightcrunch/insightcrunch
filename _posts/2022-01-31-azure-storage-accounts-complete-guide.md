@@ -6,17 +6,17 @@ date: 2022-01-31
 categories: ["Technology"]
 tags: ["Azure", "Storage", "Blob Storage", "Data Redundancy", "Cloud Storage", "Technology"]
 excerpt: "An Azure storage account fronts blob, file, queue, and table data under one set of redundancy, tier, and access choices. Learn to reason through each."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2022-01-31
+lang: en
 ---
-
 Most production incidents that trace back to an Azure storage account are not failures of the platform. They are decisions made by accepting a default in the create blade and never revisiting it. Someone picked geo-redundant replication for a scratch container that gets rebuilt every night, or dropped a year of audit logs into the hot access tier and watched the bill climb, or wired an application to an account key that now lives in three repositories and a Confluence page. The Azure storage account is the most heavily used resource in the cloud and the one engineers understand least precisely, because the create experience hides four independent decisions behind a single friendly form and lets you ship without ever reasoning about any of them.
 
 This guide treats the storage account as what it actually is: a single namespace that fronts four distinct data services, governed by one set of redundancy, performance, access, and networking choices that you make once at creation and live with afterward. By the end you should be able to choose a redundancy option by reasoning about which failure you need to survive, choose an access tier by reasoning about how often the data will be read, secure the account with the right identity model instead of a shared key, and predict the failure modes before they wake you up.
 
-![Azure storage account redundancy, access tiers, and secure access model explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Azure storage account redundancy, access tiers, and secure access model explained - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 ## What an Azure storage account actually is
 

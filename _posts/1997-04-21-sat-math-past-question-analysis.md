@@ -6,15 +6,15 @@ date: 1997-04-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Study Plan", "Question Analysis", "Strategy"]
 excerpt: "SAT math question patterns analyzed into a priority tier system: which topics to study first, second and last, and how Module 1 and Module 2 differ in mix."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1997-04-21
+lang: en
 ---
-
 Two students put in the same forty hours of math prep and walk out with scores eighty points apart. The gap is rarely talent. More often it is sequence: one student spent those hours on the handful of skills the digital exam leans on hardest, and the other spread the same effort evenly across a textbook that gives a rare solids problem the same shelf space as the linear equation that shows up again and again. Effort spent evenly is effort spent badly, because the test is not even. Its question mix is lopsided, predictable, and public enough to reverse-engineer, and once you can see the shape of it you can aim your study hours at the points that are actually on the table.
 
-![SAT math question patterns priority tier system for study time - Insight Crunch](/assets/images/blog/blog-14.webp)
+![SAT math question patterns priority tier system for study time - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This article turns the distribution of SAT math content into a study-priority system. By the end you will have a tier-by-tier map of which topics to learn first, which to learn second, and which to leave for last or skip entirely, plus a read on how the two adaptive modules differ in their content mix so you know where each kind of preparation pays off. The thesis of the whole math block runs through here in its purest form: points-per-hour beats coverage. Studying by frequency rather than by the order a workbook happens to list its chapters is the single highest-leverage decision you make before you solve a single practice problem. The frequencies that follow are observed tendencies drawn from recent official practice material rather than fixed counts, and you should treat them as a planning instrument to verify against the current released tests rather than as a guarantee about any one administration.
 
