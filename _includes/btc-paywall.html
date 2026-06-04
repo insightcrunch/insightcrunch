@@ -101,7 +101,7 @@
 
   </div>
   <div class="btc-pw-foot">
-    Pay the <strong>exact</strong> sat amount shown. Each reader gets a unique number, so screenshots and shared txids won't work. The dollar value is for reference only; bitcoin's price moves minute to minute. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
+    Pay the <strong>exact</strong> sat amount shown. One payment unlocks every article on this site. Each reader gets a unique number, so screenshots and shared txids won't work. The dollar value is for reference only; bitcoin's price moves minute to minute. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
   </div>
 </div>
 
@@ -120,9 +120,13 @@
     previewFrac:   {{ pw.preview_paragraph_fraction | default: 0.15 }}
   };
 
-  var KEY_AMT      = 'ic_pw_amt_'      + PW.pid;
-  var KEY_TS       = 'ic_pw_ts_'       + PW.pid;
-  var KEY_OK       = 'ic_pw_unlock_'   + PW.pid;
+  // Site-wide keys: one payment unlocks every article. The assigned amount and
+  // its timestamp are also global so a reader gets ONE number to pay, not a new
+  // one per article. Read-time stays per-post so each article meters on its own
+  // before the gate fires.
+  var KEY_AMT      = 'ic_pw_amt_all';
+  var KEY_TS       = 'ic_pw_ts_all';
+  var KEY_OK       = 'ic_pw_unlock_all';
   var KEY_READ     = 'ic_pw_readtime_' + PW.pid;
   var KEY_BTC      = 'ic_btc_price';
 
