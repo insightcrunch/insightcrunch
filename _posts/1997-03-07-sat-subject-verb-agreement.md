@@ -1,1189 +1,406 @@
 ---
 layout: post
-title: "SAT Writing: Subject-Verb Agreement and Pronoun-Antecedent Clarity"
-page_title: "SAT Subject-Verb Agreement and Pronoun-Antecedent Clarity: Complete Guide with 10+ Examples Per Pattern"
+title: "SAT Writing: Subject-Verb Agreement"
+page_title: "SAT Subject-Verb Agreement and Pronoun Clarity: The Intervening-Phrase Trap Explained"
 date: 1997-03-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Subject-Verb Agreement", "Pronouns", "Grammar"]
-excerpt: "The most frequently tested grammar rules on the Digital SAT - subject-verb agreement and pronoun clarity - covered exhaustively. All seven agreement patterns and every pronoun error type, with 10+ examples each from straightforward to SAT-level tricky."
-image: "/assets/images/blog/blog-29.webp"
-reading_time: 61
-author: "jessica-kim"
-last_updated: 2026-04-08
-lang: en
----
-Subject-verb agreement is the single most tested grammar rule on the Digital SAT. Pronoun-antecedent agreement and clarity are a close second in the Standard English Conventions category. Together, these two rule areas account for a disproportionate share of grammar questions in every test administration. The combined 80+ examples in this guide represent the complete range of question types across both rule categories, organized from the most frequently tested patterns to the hardest variants.
-
-For students calculating where to focus preparation time: mastering the seven subject-verb agreement patterns and the four pronoun patterns covered in this guide will directly prepare them for more SEC questions than any other grammar rule investment.
-
-A reasonable timeline: two days for Pattern 1 (prepositional phrases - the highest frequency pattern), one day each for Patterns 2 through 5, half a day each for Patterns 6 and 7. For pronoun rules: one day each for Patterns 1 through 3, half a day for Pattern 4. Ten days total for complete coverage, with five more days of mixed practice. Within two weeks, a student can achieve near-mastery of both rule categories. The examples in this article represent the complete universe of pattern types that appear on the Digital SAT - after working through all 70+ examples, no agreement or pronoun question should present an unfamiliar structure. A student who has mastered both - truly mastered them, to the point where errors are immediately noticeable - has secured a substantial advantage in the Writing section.
-
-This guide is the most thorough treatment of both subject-verb agreement and pronoun clarity available for Digital SAT preparation. Every agreement pattern is covered with ten or more examples, organized from the straightforward to the genuinely tricky. Students who work through every example in this guide will have seen, identified, and corrected more subject-verb and pronoun errors than they are likely to encounter in two full administrations of the Digital SAT.
-
-The organization - straightforward to tricky within each pattern - mirrors the actual difficulty range of Digital SAT questions. Examples 1 through 4 in each pattern represent questions that appear with high frequency and moderate difficulty. Examples 7 through 10 represent the harder variants that appear in the higher-difficulty portions of the adaptive test.
-
-Students who work through this entire guide have seen every agreement and pronoun challenge pattern in graduated difficulty order. That graduated exposure is the most efficient path to the pattern recognition that makes agreement questions fast and reliable on exam day.
-
-For the complete grammar rules overview across all ten SEC rule categories, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For the comprehensive reference covering all Standard English Conventions rules in one article, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For punctuation rules including colons, semicolons, and apostrophes, see [SAT Writing: Colon, Semicolon, Dash and Apostrophe Rules Mastered](/1997/03/02/sat-punctuation-mastery/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions including subject-verb agreement.
-
-![SAT Subject-Verb Agreement and Pronoun-Antecedent Clarity](/assets/images/blog/blog-29.webp)
-
-## Part One: Subject-Verb Agreement
-
-The core rule of subject-verb agreement is simple: singular subjects take singular verbs; plural subjects take plural verbs. The test's challenge lies not in the rule itself but in making the rule hard to apply through sentence constructions that obscure or separate the subject from its verb. The Digital SAT exploits this difficulty consistently and predictably.
-
-The strategy for every subject-verb agreement question is a three-step process:
-1. Find the verb in question.
-2. Identify the grammatical subject by asking "who or what [verb]?" - ignoring everything between subject and verb.
-3. Check whether the verb matches the subject's number.
-
-This three-step process should become automatic. During timed exam conditions, students who have practiced this process consistently report that Step 2 (identifying the subject) happens almost simultaneously with reading the sentence - the subject is recognized before conscious analysis begins. Building this automaticity is the goal of the practice protocol at the end of this article.
-
-This process is simple to state and requires deliberate practice to execute automatically under time pressure. Every example in this guide is an opportunity to practice the three steps.
-
+excerpt: "SAT subject-verb agreement explained: the intervening-phrase trap, collective and indefinite subjects, inverted sentences and pronoun clarity, with examples."
+image: "/assets/images/blog/blog-09.webp"
+reading_time: 60
+author: "Insight Crunch Team"
+last_updated: 1997-03-07
 ---
 
-## Pattern 1: Prepositional Phrase Between Subject and Verb
+The single most common question in the Standard English Conventions portion of the Digital SAT is not the hardest one. It is the one students miss because the exam hides the answer in plain sight. A sentence reads, "The collection of rare stamps that my grandfather assembled over four decades ___ now worth a small fortune," and the choices offer *is*, *are*, *were*, and *being*. A test-taker scans the words right before the blank, sees "four decades," hears a plural, and picks *are*. The point is gone. The real subject was *collection*, a singular noun sitting eight words back, and the verb had to be *is*. That one move, dropping a phrase between the subject and its verb to disguise the true head noun, generates more agreement errors on this exam than any other design in the conventions category.
 
-This is the SAT's most exploited subject-verb agreement trap. A prepositional phrase is inserted between the subject and verb, and the noun inside the phrase is a different number than the subject. The test hopes the student will match the verb to the nearby phrase noun rather than the true subject.
+![SAT subject-verb agreement and pronoun clarity worked examples with the intervening-phrase trap - Insight Crunch](/assets/images/blog/blog-09.webp)
 
-THE RULE: The subject of a clause is never the object of a preposition. Mentally remove all prepositional phrases between subject and verb before evaluating agreement.
+This guide treats subject-verb agreement the way it deserves to be treated: as a rule the exam tests relentlessly, with a small set of predictable disguises layered on top of one plain principle. A verb must match its subject in number. Singular subject, singular verb. Plural subject, plural verb. That is the whole rule, and a fifth grader can state it. What turns it into a points machine for the test writers is the gap they open between the subject and the verb, the collective nouns that look plural but act singular, the indefinite pronouns that split into singular and plural camps, the inverted sentences that put the verb before its subject, and the relative-pronoun constructions that bury the agreement two clauses deep. Layer pronoun clarity on top, where a pronoun has to point to exactly one unmistakable noun, and you have the most heavily weighted grammar territory the Writing material covers. Master the disguises and you neutralize the entire category at once.
 
-IDENTIFYING PREPOSITIONAL PHRASES: Prepositions include: of, in, on, at, by, for, with, about, against, between, among, through, during, without, before, after, under, above, behind, beside, from, into, onto, upon.
+## Where subject-verb agreement sits on the Digital SAT
 
-A practical identification technique: prepositional phrases begin with a preposition and end before the verb. When you find the verb, everything between the subject noun and the verb that begins with a preposition from the list above is an intervening phrase that should be mentally removed before checking agreement.
+The Reading and Writing section of the Digital SAT is built from four content domains, and concord between a subject and its verb lives inside the Standard English Conventions domain alongside punctuation, sentence boundaries, modifiers, and verb form. Conventions questions are the ones that present a sentence with a blank and ask which option produces correct, conventional written English. They are not asking whether the sentence sounds nice. They are asking whether it follows a rule, and agreement is the rule the writers reach for again and again because it is easy to disguise and hard to fake your way through.
 
-EXAMPLES (straightforward to tricky):
+### How often does subject-verb agreement appear on the SAT?
 
-1. INCORRECT: "The box of chocolates are on the counter."
-   CORRECT: "The box of chocolates is on the counter."
-   Subject: "box" (singular). Phrase: "of chocolates."
+Agreement and verb-form questions together make up a meaningful share of every Conventions cluster, and a test-taker will reliably meet several across the two Reading and Writing modules. The College Board publishes the domain weighting rather than a fixed per-topic count, so the honest framing is this: you will see agreement tested more than once, you cannot predict the exact tally, and the smart move is to treat it as guaranteed rather than gamble that it sits this one out. Because the rule recurs, a single hour spent making the disguises automatic pays back across the whole section.
 
-2. INCORRECT: "A team of researchers have published the findings."
-   CORRECT: "A team of researchers has published the findings."
-   Subject: "team" (singular). Phrase: "of researchers."
+What the exam actually tests is not whether you know that a singular subject takes a singular verb. Nearly everyone knows that in the abstract. It tests whether you can find the subject when the sentence works to hide it. The skill being measured is identification, not recitation. The writers assume you know the rule and design the item so that the rule is useless until you have located the true head noun. That reframing matters for how you study. You do not need to drill the definition of agreement. You need to drill the act of stripping a sentence down to its subject and verb so the disguise stops working.
 
-   Note that "a team" vs "the team" makes no difference to agreement. "A" or "the" both leave "team" as the singular subject.
+The Conventions questions sit in both modules. The second module adapts to performance in the first, so a strong first module routes a test-taker into a harder second module where the agreement items carry longer intervening phrases, more deceptive collective nouns, and inverted structures rather than plain ones. The rule never changes between modules. The camouflage thickens. A student who can reliably find the subject in a short sentence and then freezes when the sentence runs three lines long has learned the rule but not the skill, and the adaptive design is built to expose exactly that gap.
 
-3. INCORRECT: "The collection of rare manuscripts were damaged in the flood."
-   CORRECT: "The collection of rare manuscripts was damaged in the flood."
-   Subject: "collection" (singular). Phrase: "of rare manuscripts."
+Pronoun clarity belongs in the same neighborhood, though it tests a different relationship. Where agreement asks whether a verb matches its subject, clarity asks whether a pronoun points unambiguously to a single noun. The two share a mental habit: in both, you find the noun that governs the rest of the sentence and check the dependent word against it. Grouping them is deliberate. A student who learns to hunt for the controlling noun handles both categories with one trained reflex.
 
-4. INCORRECT: "The results of the three-year study contradicts the original hypothesis."
-   CORRECT: "The results of the three-year study contradict the original hypothesis."
-   Subject: "results" (plural). Phrase: "of the three-year study." Verb needs plural form.
+### How do I recognize an agreement question before I solve it?
 
-   Note: Pattern 1 traps work in both directions. Usually the distractor is a plural noun that tempts a plural verb with a singular subject. But the reverse also occurs: a singular noun phrase between a plural subject and verb tempts a singular verb. Always identify the subject, not the nearest noun.
+Conventions items announce themselves by shape. The sentence has a blank where a verb or a verb phrase belongs, and the answer choices are forms of the same verb that differ in number or tense: *is*, *are*, *was*, *were*, or *has updated*, *have updated*. The moment the choices are verb forms of one verb varying by number, you know agreement is in play and your first job is to find the subject. Contrast this with the punctuation items, where the choices are different marks for one spot, and the modifier items, where a descriptive phrase is misplaced. Telling the categories apart by the shape of the choices saves time, because each category has its own routine, and starting the right routine immediately is half the speed advantage on this section. When the choices vary a verb by number, do not read further into them; cover them and go hunt the subject.
 
-5. INCORRECT: "The quality of the samples were assessed by independent reviewers."
-   CORRECT: "The quality of the samples was assessed by independent reviewers."
-   Subject: "quality" (singular). Phrase: "of the samples."
+A second recognition cue is the presence of one of the trap-prone subjects. When a sentence opens with a singular head noun likely to be padded, *collection*, *array*, *series*, *variety*, *list*, *box*, or a collective such as *committee* or *jury*, or with an indefinite pronoun such as *each*, *neither*, or *none*, an agreement question is probably coming and the verb is likely singular against the plural decoys. Reading the subject type as a signal lets you anticipate the trap before you reach the verb, which is the difference between solving the item and being solved by it. The exam is recombining a known kit, and recognizing the pieces on sight is the first half of owning the category. This recognition habit connects directly to the broader skill the [SAT Standard English Conventions guide](/sat-grammar-conventions-complete) builds, where every rule begins with identifying which kind of question you are facing before applying its routine.
 
-6. INCORRECT: "The behavior of the particles under high-energy conditions remain poorly understood."
-   CORRECT: "The behavior of the particles under high-energy conditions remains poorly understood."
-   Subject: "behavior" (singular). Two phrases: "of the particles" and "under high-energy conditions."
+## The mechanics: number, the head noun, and how English signals concord
 
-7. INCORRECT: "Access to the archived records from the early colonial period have been restricted."
-   CORRECT: "Access to the archived records from the early colonial period has been restricted."
-   Subject: "access" (singular). Multiple prepositional phrases follow.
+Agreement is the grammatical relationship called concord, and in English it operates almost entirely through number, the contrast between singular and plural. Person matters in a few spots, mainly the difference between *I am*, *you are*, and *she is*, but the SAT lives in the third person, so number is the lever the writers pull. A third-person singular subject in the present tense takes a verb that ends in *s*: *the student writes*, *the engine runs*, *the argument holds*. A third-person plural subject takes the bare verb: *the students write*, *the engines run*, *the arguments hold*. English is unusual here, because the *s* that marks a plural noun is the same *s* that marks a singular verb, which means the two halves of a sentence carry the number marker in opposite places. *Dogs bark* pairs a plural noun ending in *s* with a bare verb. *A dog barks* pairs a singular noun with a verb ending in *s*. Internalizing that the *s* flips sides is the first defense against the trap, because the eye that has just read a plural-looking word right before the verb wants to attach a plural verb, and the rule runs the other way.
 
-8. INCORRECT: "The significance of the findings across multiple replication studies remain contested."
-   CORRECT: "The significance of the findings across multiple replication studies remains contested."
-   Subject: "significance" (singular). Three phrases between subject and verb.
+### What is the head noun and why does it decide the verb?
 
-9. INCORRECT: "One of the most pressing challenges in contemporary environmental policy have been identified."
-   CORRECT: "One of the most pressing challenges in contemporary environmental policy has been identified."
-   Subject: "one" (singular). "Of the most pressing challenges" is a prepositional phrase.
+The head noun is the core noun of the subject, the word the rest of the subject phrase is built around, and it alone controls the verb. Everything hanging off it, the prepositional phrases, the descriptive clauses, the appositives, is grammatical scenery that cannot change the number of the verb. Find the head noun and you have found the only word that matters.
 
-   "One of the [plural noun]" is a particularly frequent trap. The plural noun in the phrase ("challenges," "studies," "researchers") sounds like it should govern the verb, but "one" is the subject. Always match the verb to "one" (singular) in this construction.
+Consider the subject "a box of chocolates." The head noun is *box*, singular. *Of chocolates* is a prepositional phrase modifying *box*; it tells you what kind of box, and it ends in a plural noun, but *chocolates* is the object of the preposition, not the subject. The subject is *box*, so the verb is *is*: "A box of chocolates is on the table." This is the exact construction the exam loves, and it is worth saying plainly why it works as a trap. The plural word *chocolates* sits directly against the verb. The singular word *box* sits four words upstream. Human reading is local; the ear grabs the nearest noun and matches the verb to it, and the nearest noun is the decoy the writers planted. The cure is mechanical. You do not trust your ear. You find the preposition, you recognize that everything from the preposition to the verb is a modifier, and you match the verb to the noun before the preposition.
 
-10. INCORRECT: "The interplay of linguistic, cultural, and historical factors in the formation of national identity deserve further study."
-    CORRECT: "The interplay of linguistic, cultural, and historical factors in the formation of national identity deserves further study."
-    Subject: "interplay" (singular). Multiple long prepositional phrases create maximum temptation.
+The same logic governs the prepositions that introduce these intervening phrases. *Of*, *in*, *on*, *with*, *along with*, *together with*, *as well as*, *including*, *in addition to*: every one of them launches a phrase that modifies the subject without joining it. "The senator, along with her aides, is arriving" keeps the singular *is*, because *along with her aides* is a parenthetical modifier, not a second subject. If the writer had wanted a plural verb, the sentence would need *and*: "The senator and her aides are arriving." The distinction between *and*, which adds subjects together into a plural, and the connective phrases like *along with*, which merely add information about one subject, is the hinge on which a whole family of questions turns.
 
----
+### The base rule, stated so it survives the disguises
 
-## Pattern 2: Compound Subjects
+Strip the sentence to its skeleton. Cross out every modifier, every prepositional phrase, every clause that begins with *who*, *which*, or *that*, every parenthetical set off by commas. What remains is the simple subject and the verb. Check those two against each other for number, ignore everything you crossed out, and the answer falls out. This routine is the engine of the entire topic, and the rest of this guide is mostly a tour of the specific disguises the routine defeats. Call it the InsightCrunch find-the-real-subject routine: locate the verb, ask "who or what is doing this," follow the answer back past every intervening phrase to the head noun, and match. The students who own this section run that loop in two seconds and stop being fooled by proximity.
 
-THE RULE: Subjects joined by "and" create a plural compound subject and take a plural verb. Subjects joined by "or" or "nor" do not create a compound; the verb agrees with the closer subject.
+### Where does the number marker sit in a helping verb?
 
-The logic behind the or/nor rule: "either A or B" means one or the other, not both simultaneously. When only one of the two subjects is responsible for the action, the verb logically matches the specific subject that is responsible. By convention, that subject is the one closest to the verb. This logical basis makes the rule easier to remember and apply.
+Most agreement items do not hinge on a single-word present-tense verb; they hinge on a helping verb, the auxiliary that carries the number while a participle carries the meaning. The pairs you meet most are *is* and *are*, *was* and *were*, *has* and *have*, and *does* and *do*. In every pair the number lives in the helper, not in the main verb. "The collection has been catalogued" puts the singular in *has*; "The collections have been catalogued" puts the plural in *have*; the participle *catalogued* never changes. The same holds for *is* versus *are* in front of an *-ing* form: "The list is growing" against "The lists are growing." This matters because the exam often writes the choices as full verb phrases, *is updated*, *are updated*, *was updated*, *were updated*, so the decision you make is really about the helper. Settle the number of the helper against the subject first, then confirm the tense, and the multi-word choices sort themselves out. Recognizing that the helper carries the number also speeds you up, because you can decide singular or plural the moment you have the subject, before you even read which participle each choice attaches.
 
-EXAMPLES: "And" compounds:
+The past tense hides agreement in a way worth naming, because most past-tense verbs do not change form for number: *the student wrote* and *the students wrote* use the same *wrote*. The exception is the verb *to be*, where *was* and *were* still mark number in the past, and the helpers built on it. So a past-tense agreement item almost always turns on *was* versus *were* or on a *has*/*have* contrast that shades into the present perfect. When you see a past-tense blank that does change with number, expect the verb *to be* or a perfect helper, and apply the same cross-out to find the subject that controls it.
 
-1. INCORRECT: "Research methodology and data analysis requires specialized training."
-   CORRECT: "Research methodology and data analysis require specialized training."
-   "Methodology" and "analysis" joined by "and" = compound plural subject.
+## The worked-example core: every disguise the SAT uses
 
-2. INCORRECT: "The committee chair and the vice-chair has approved the proposal."
-   CORRECT: "The committee chair and the vice-chair have approved the proposal."
-   Two people joined by "and" = plural.
+What follows is the graded sequence the rest of this guide builds toward, a worked set that moves from the plainest version of each disguise to the version the second module throws at a strong test-taker. Read each one as a tutor would narrate it. Find the verb, hunt for the head noun, name the trap, and pull out the principle that carries to the next item.
 
-3. INCORRECT: "Ethics, transparency, and accountability in public institutions needs strengthening."
-   CORRECT: "Ethics, transparency, and accountability in public institutions need strengthening."
-   Three nouns joined = plural.
+### The intervening prepositional phrase
 
-EXAMPLES: "Or/Nor" - agree with the closer subject:
+Start with the construction that produces the most misses. "The list of approved vendors ___ updated every quarter." Choices: *is*, *are*, *were*, *have been*. Cross out *of approved vendors*; it is a prepositional phrase modifying the head noun. What is left is "The list ___ updated." *List* is singular, so the verb is *is*: "The list of approved vendors is updated every quarter." The plural *vendors* sitting against the blank is bait. Principle: a prepositional phrase between the subject and verb never changes the verb, so cross it out before you choose.
 
-4. INCORRECT: "Either the department head or the deans are responsible for the decision."
-   CORRECT: "Either the department head or the deans are responsible for the decision."
-   Closer subject: "deans" (plural) → "are." (This example is actually correct as written - the verb matches the closer subject.)
+Now lengthen the disguise the way the second module does. "A series of escalating disputes between the two neighboring countries ___ threatened the trade agreement." The intervening material now runs long: *of escalating disputes between the two neighboring countries*. Three plural nouns crowd the blank, *disputes*, *countries*, and the implied plurality of the conflict. The head noun is *series*, singular. The verb is *has*: "A series of escalating disputes ... has threatened the trade agreement." The longer the phrase, the more decoys it stacks, and the stronger the pull toward the wrong answer. Principle: length is the weapon; the cure does not change, you still cross out everything from the first preposition to the verb and match the noun before it.
 
-5. INCORRECT: "Either the deans or the department head are responsible for the decision."
-   CORRECT: "Either the deans or the department head is responsible for the decision."
-   Closer subject: "department head" (singular) → "is."
+A subtler version uses a phrase that itself contains a verb-like word. "The professor whose lectures on medieval economies fill the largest hall on campus ___ retiring this spring." Here a relative clause, *whose lectures on medieval economies fill the largest hall on campus*, sits between subject and verb, and inside it the plural verb *fill* agrees correctly with *lectures*. The test-taker who carries that plural feeling forward picks a plural main verb. The main subject is *professor*, singular, so the main verb is *is*: "The professor ... is retiring this spring." Principle: a verb inside an intervening clause agrees with its own local subject and tells you nothing about the main verb; isolate the main clause before you decide.
 
-6. INCORRECT: "Neither the laboratory results nor the field data supports the conclusion."
-   CORRECT: "Neither the laboratory results nor the field data support the conclusion."
-   Closer subject: "field data" (treated as plural in this context) → "support."
+### Compound subjects joined by "and"
 
-7. INCORRECT: "Neither the researcher nor the reviewers was able to identify the error."
-   CORRECT: "Neither the researcher nor the reviewers were able to identify the error."
-   Closer subject: "reviewers" (plural) → "were."
+When two subjects are joined by *and*, they add together into a plural, and the verb is plural. "The lead investigator and her assistant ___ presenting the findings." The compound subject *investigator and assistant* is plural, so the verb is *are*: "The lead investigator and her assistant are presenting the findings." Principle: *and* combines, so two or more singular subjects joined by *and* take a plural verb.
 
-8. INCORRECT: "Either the new policy or the existing regulations are sufficient."
-   CORRECT: "Either the new policy or the existing regulations are sufficient."
-   Closer subject: "regulations" (plural) → "are." (As written this is correct.)
-   Revised version to test: "Either the existing regulations or the new policy are sufficient."
-   CORRECT: "Either the existing regulations or the new policy is sufficient."
-   Closer subject: "policy" (singular) → "is."
+The exam complicates this with a true exception worth memorizing. When the two joined nouns name a single unit or a single idea, the compound takes a singular verb. "Macaroni and cheese ___ the only dish he can cook" takes *is*, because *macaroni and cheese* names one dish, not two foods being counted. The same holds for *bread and butter* as a fixed pairing, or a phrase like "the rise and fall of the empire," which names one historical arc. Principle: *and* normally yields a plural, but when the joined words name one thing, the verb stays singular; the meaning, not the conjunction alone, decides.
 
-SPECIAL CASE: "Along with," "together with," "as well as," "in addition to"
-These phrases are NOT compound conjunctions. They do not create compound subjects.
+A second complication: when *each* or *every* precedes a compound subject, the verb turns singular even though *and* is present. "Every teacher and administrator ___ required to complete the training." *Every* distributes the subject into individual units, so the verb is *is*: "Every teacher and administrator is required to complete the training." Principle: *each* or *every* in front of a compound forces a singular verb regardless of the *and*.
 
-9. INCORRECT: "The professor, along with her graduate students, have published a new paper."
-   CORRECT: "The professor, along with her graduate students, has published a new paper."
-   "Along with her graduate students" is a prepositional phrase, not a compound. Subject: "professor" (singular).
+### Compound subjects joined by "or" and "nor"
 
-10. INCORRECT: "The CEO, as well as the board members, are attending the conference."
-    CORRECT: "The CEO, as well as the board members, is attending the conference."
-    "As well as the board members" is a prepositional phrase. Subject: "CEO" (singular).
+*Or* and *nor* do not add subjects together. They offer alternatives, and the verb agrees with the nearer subject, the one closest to the verb. This is the proximity rule, and it is the one place where the noun nearest the verb does control it, which makes it doubly tricky because the rest of the topic trains you to distrust proximity. "Either the manager or the employees ___ responsible for the error." The nearer subject is *employees*, plural, so the verb is *are*: "Either the manager or the employees are responsible." Reverse the order and the verb flips: "Either the employees or the manager ___ responsible" takes *is*, because *manager* now sits nearer. Principle: with *or* or *nor*, match the verb to the subject closest to it, and notice that reordering the subjects changes the correct verb.
 
-    Complete list of phrase patterns that look like compound conjunctions but aren't: "along with," "together with," "as well as," "in addition to," "accompanied by," "including," "not to mention," "rather than." All create prepositional or parenthetical phrases, not compound subjects. Subject stays singular; verb matches the subject.
+A worked variant the exam favors: "Neither the violinist nor the other musicians ___ aware of the schedule change." Nearer subject *musicians*, plural, verb *were*: "Neither the violinist nor the other musicians were aware." Principle: *neither ... nor* follows the same proximity rule as *or*; the second noun governs.
 
----
+### Collective nouns acting as single units
 
-## Pattern 3: Inverted Sentences
+A collective noun names a group as a single body: *team*, *committee*, *jury*, *family*, *audience*, *staff*, *class*, *government*, *flock*, *collection*. In American usage, which the SAT follows, a collective noun is treated as singular when the group acts as one unit, and on this exam it acts as one unit almost every time. "The committee ___ reached a decision" takes *has*, because the committee acts together: "The committee has reached a decision." "The jury ___ delivering its verdict" takes *is*, with the singular possessive *its* reinforcing the singular reading: "The jury is delivering its verdict." Principle: in American English a collective noun is singular when the group acts as a single body, which on the SAT is the default, and the singular pronoun *its* often appears nearby to confirm it.
 
-THE RULE: In inverted sentences (where the verb precedes the subject), the verb must still agree with the subject, which comes after the verb. Common in sentences beginning with "There is/are," "Here is/are," and sentences with fronted prepositional phrases.
+The exam sets the trap by surrounding the collective noun with plural words. "The faculty of the three smallest departments ___ meeting on Friday." The plural decoys *departments* and the plural-sounding *faculty* push toward a plural verb, but *faculty* here names one body and the head noun governs: *is*. "The faculty ... is meeting on Friday." Principle: a collective noun stays singular even when modifiers around it are plural; do not let the modifiers convert it.
 
-EXAMPLES:
+### Indefinite pronouns: the three groups
 
-1. INCORRECT: "There is many factors to consider."
-   CORRECT: "There are many factors to consider."
-   Verb first, then subject. Subject: "factors" (plural) → "are."
+Indefinite pronouns are the words that stand in for unspecified people or things, and they split into three groups by number. This split is the single most testable fact in the topic, because the exam can build a clean question around it without any intervening phrase at all. The always-singular group takes a singular verb every time; the always-plural group takes a plural verb every time; and a small set depends on what they refer to.
 
-2. INCORRECT: "There remains several unresolved questions in the field."
-   CORRECT: "There remain several unresolved questions in the field."
-   Subject: "questions" (plural) → "remain."
+| Indefinite pronoun | Number | Example verb |
+|---|---|---|
+| each, either, neither | always singular | Each of the runners is ready |
+| everyone, everybody, everything | always singular | Everyone was present |
+| someone, somebody, something | always singular | Somebody has left a bag |
+| anyone, anybody, anything | always singular | Anyone is welcome |
+| no one, nobody, nothing | always singular | Nobody knows the answer |
+| one, much, little | always singular | Much remains undone |
+| both, few, several, many | always plural | Few were chosen |
+| others | always plural | Others have arrived |
+| some, all, any, none, most, more | depends on the referent | All of the cake is gone / All of the cakes are gone |
 
-3. INCORRECT: "Here is the three reports you requested."
-   CORRECT: "Here are the three reports you requested."
-   Subject: "reports" (plural) → "are."
+Work the singular group first, because it hides behind the same prepositional-phrase trap. "Each of the proposals ___ been reviewed." The pronoun *each* is the subject and it is always singular, so the verb is *has*, never mind the plural *proposals* in the phrase: "Each of the proposals has been reviewed." "Neither of the candidates ___ qualified" takes *is*: "Neither of the candidates is qualified." Principle: *each*, *either*, *neither*, and the *-one*, *-body*, *-thing* words are always singular, and the prepositional phrase after them is a decoy.
 
-4. INCORRECT: "Among the ruins were a single stone pillar."
-   CORRECT: "Among the ruins was a single stone pillar."
-   Subject: "pillar" (singular) → "was."
+The depends-on-the-referent group is where the rule rewards careful reading. *Some*, *all*, *any*, *none*, and *most* take their number from the noun in the prepositional phrase that follows them, because that noun is what they actually quantify. "Some of the water ___ evaporated" takes *has*, because *water* is singular and uncountable: "Some of the water has evaporated." "Some of the samples ___ contaminated" takes *are*, because *samples* is plural: "Some of the samples are contaminated." The word *some* did not change; the noun it points to did. Principle: for *some*, *all*, *any*, *none*, and *most*, look at the noun in the following phrase and match the verb to that noun, the one case where the noun after the pronoun rightly controls the verb.
 
-5. INCORRECT: "Embedded in the document are a critical error."
-   CORRECT: "Embedded in the document is a critical error."
-   Subject: "error" (singular) → "is."
+*None* deserves a separate note because folklore insists it is always singular, on the theory that it means "not one." Modern usage, and the SAT with it, treats *none* as singular or plural depending on the referent, exactly like *some* and *all*. "None of the evidence supports the claim" is singular; "None of the witnesses agree" is plural. Principle: *none* follows the referent, not the old "not one" rule.
 
-6. INCORRECT: "At the center of the controversy were a single disputed data point."
-   CORRECT: "At the center of the controversy was a single disputed data point."
-   Subject: "data point" (singular) → "was."
+### Inverted sentences: verb before subject
 
-7. INCORRECT: "On the agenda for the next board meeting is three major policy revisions."
-   CORRECT: "On the agenda for the next board meeting are three major policy revisions."
-   Subject: "revisions" (plural) → "are."
+Normal English order is subject then verb, and the disguises so far all keep that order while padding the gap. Inversion flips it, putting the verb ahead of the subject, and the test-taker who matches the verb to the first noun they meet gets it backward. The two structures that invert are sentences beginning with *there* or *here*, and sentences that front a prepositional phrase for emphasis.
 
-8. INCORRECT: "Accompanying the primary results is supplementary tables and appendices."
-   CORRECT: "Accompanying the primary results are supplementary tables and appendices."
-   Subject: "tables and appendices" (compound plural) → "are."
+"There ___ a serious problem with the figures." *There* is not the subject; it is a placeholder. The real subject comes after the verb, and it is *problem*, singular, so the verb is *is*: "There is a serious problem with the figures." Make the subject plural and the verb follows: "There are several serious problems with the figures." Principle: in a *there* or *here* sentence, the subject sits after the verb, so find it there and match.
 
-INVERSION TEST: Rearrange to standard subject-verb order to confirm. "A single stone pillar was among the ruins" → subject "pillar" is singular → "was."
+The fronted-phrase version is harder. "Among the documents recovered from the archive ___ a letter signed by the founder." The sentence opens with a long prepositional phrase, *among the documents recovered from the archive*, and the eye lands on the plural *documents* right before the blank. But that whole phrase is a modifier; the subject is *a letter*, singular, sitting after the verb. The verb is *was*: "Among the documents ... was a letter signed by the founder." Principle: when a sentence opens with a prepositional phrase and then a verb, the subject is waiting on the far side of the verb; mentally restore normal order, "A letter ... was among the documents," and the agreement becomes obvious.
 
----
+### Relative-pronoun agreement and "one of those who"
 
-## Pattern 4: Collective Nouns
+A relative pronoun, *who*, *which*, or *that*, takes its number from its antecedent, the noun it refers back to, and the verb inside the relative clause agrees with that antecedent. "She is a scientist who ___ published widely" takes *has*, because *who* refers to *scientist*, singular: "a scientist who has published widely." "They are scientists who ___ published widely" takes *have*, because *who* now refers to plural *scientists*. Principle: the verb in a relative clause agrees with whatever noun the relative pronoun stands for, so identify the antecedent first.
 
-THE RULE: Collective nouns (words referring to a group) take singular verbs when the group acts as a single unit. In American English, collective nouns are almost always treated as singular.
+The hardest form of this is the "one of those who" construction, which reverses the intuition. "She is one of those employees who ___ always willing to help." The instinct is to make the clause verb singular to match *one*, but *who* refers to *employees*, not *one*. The sentence means that among the employees who are always willing to help, she is one. The verb is *are*: "one of those employees who are always willing to help." Contrast "She is the only one of the employees who ___ willing to help," where *only one* narrows the reference to a single person and *who* now points at *one*, so the verb is *is*. Principle: in "one of those who," the relative pronoun usually refers to the plural noun, so the clause verb is plural, except when *the only one* forces the reference back to a single individual.
 
-CORE LIST: team, committee, group, board, jury, faculty, staff, administration, audience, crowd, company, government, organization, family, class, club, council, department, panel, crew.
+## Pronoun clarity: one pronoun, one unmistakable noun
 
-For the Digital SAT, these collective nouns are treated as singular in formal academic contexts. The test may occasionally present a sentence where the plural treatment seems more natural (e.g., "The jury has/have been deliberating for three days") but the expected answer for American English is singular. If two answer choices differ only in singular vs plural verb form after a collective noun, the singular form is correct.
+The second half of this territory shifts from matching a verb to checking a pronoun. A pronoun must refer to exactly one noun, its antecedent, and that reference must be unambiguous. The exam tests two failures: the pronoun that could point to more than one noun, and the pronoun that points to no clear noun at all.
 
-Consistency principle: once you treat a collective noun as singular for the verb, all pronouns referring to it should also be singular. "The committee released its findings" - both "released" (verb) and "its" (pronoun) are singular. Mixing ("The committee released their findings") is inconsistent and incorrect.
+### What makes a pronoun ambiguous on the SAT?
 
-EXAMPLES:
+A pronoun is ambiguous when a reader cannot tell, with certainty, which noun it replaces. The sentence "When Maria met Diane, she was nervous" is broken, because *she* could be Maria or Diane and the sentence gives no way to decide. The correct fix is not to add another pronoun; it is to replace the pronoun with the noun it means: "When Maria met Diane, Maria was nervous." This is the InsightCrunch antecedent-swap test, the pronoun-clarity counterpart to the find-the-real-subject routine. For any pronoun in a sentence, try to swap in the single noun it stands for. If exactly one noun fits and the sentence reads cleanly, the pronoun is fine. If two nouns could fit, or none does, the pronoun fails and the answer is the choice that names the noun outright.
 
-1. INCORRECT: "The jury have reached a verdict."
-   CORRECT: "The jury has reached a verdict." (The jury acts as one unit.)
+A worked example: "The technician told the supervisor that his report was incomplete." Whose report, the technician's or the supervisor's? *His* could swap to either. The SAT answer rewrites to name the owner: "The technician told the supervisor that the supervisor's report was incomplete," or the reverse, depending on the intended meaning the rest of the passage supplies. Principle: when a pronoun could refer to two same-gender or same-number nouns, the correct choice replaces the pronoun with the specific noun.
 
-2. INCORRECT: "The committee are reviewing the proposal."
-   CORRECT: "The committee is reviewing the proposal."
+The second failure is the pronoun with no antecedent at all, often a *this*, *that*, *which*, or *it* pointing at a whole idea rather than a noun. "The budget was cut and several programs ended, which frustrated the staff." What does *which* refer to? There is no single noun; *which* gestures vaguely at the entire situation. The fix names the referent: "... ended, a development that frustrated the staff," or "... ended, and the cuts frustrated the staff." Principle: a pronoun needs a noun to refer to, not a clause or a vague situation; when the antecedent is missing, the answer supplies a noun.
 
-3. INCORRECT: "The faculty have voted to approve the new curriculum."
-   CORRECT: "The faculty has voted to approve the new curriculum." (acting as a unit)
+Keep clarity examples distinct from agreement examples in your own practice. Agreement asks whether a verb's number matches its subject's number. Clarity asks whether a pronoun's reference is single and certain. The two never trade places, but they share the discipline of finding the controlling noun before deciding anything, which is why a student who trains one tends to improve at the other.
 
-4. INCORRECT: "The audience were captivated by the performance."
-   CORRECT: "The audience was captivated by the performance."
+## Strategy and application: how to find the subject in two seconds
 
-5. INCORRECT: "The board of directors have decided to postpone the merger."
-   CORRECT: "The board of directors has decided to postpone the merger."
-   Note: "board" is the subject; "of directors" is a prepositional phrase.
+Knowing the rules is necessary and not sufficient. Under timed conditions in the Reading and Writing modules, with roughly a minute and change per item, you need a routine so automatic that you run it without deciding to. Here is how to convert the rules into a reflex that holds up when the clock is moving.
 
-6. INCORRECT: "The research team have collected data from twelve countries."
-   CORRECT: "The research team has collected data from twelve countries."
+Start every agreement question by ignoring the answer choices. The choices are designed to seed doubt; if you read *is*, *are*, *were*, *being* before you have found the subject, the plural decoys in the choices reinforce the plural decoys in the sentence. Instead, cover the choices, read the sentence to the blank, and ask one question: who or what is performing the verb? The answer to that question is your subject, and you locate it before any option touches your reasoning.
 
-7. CORRECT: "The faculty are disagreeing among themselves." (individuals acting separately)
-   This is one case where plural is acceptable: when members act distinctly rather than as a unit. The SAT rarely tests this distinction; the default is singular for collective nouns.
+Once you have a candidate subject, run the cross-out. Mentally delete everything between the subject and the verb. Prepositional phrases beginning with *of*, *in*, *with*, *along with*, *as well as*, and the rest go first. Relative clauses beginning with *who*, *which*, or *that* go next. Appositive phrases set off by commas go too. What survives is a two-word skeleton, subject plus verb, and you test those two for number. This is the whole method, and its power is that it works identically on a six-word sentence and a thirty-word one. The disguises add words; the cross-out removes them; the skeleton is always short.
 
-8. INCORRECT: "The class of 2024 have graduated and entered the workforce."
-   CORRECT: "The class of 2024 has graduated and entered the workforce."
+### Should I trust the noun closest to the verb?
 
----
+Almost never. The default trap matches the verb to the nearest noun, and that noun is usually the decoy inside an intervening phrase. The lone exception is the *or* and *nor* construction, where proximity genuinely controls. So the rule of thumb is: distrust the nearest noun everywhere except after *or* or *nor*, where the nearest subject is exactly the one you want. Knowing which case you are in takes one glance for the conjunction.
 
-## Pattern 5: Indefinite Pronouns as Subjects
+Build a checklist of the trigger words that tell you which disguise you are facing, and let the trigger select the rule. *Of*, *in*, *with*, *along with*, *as well as*, *including*, *in addition to*: intervening phrase, cross it out, match the noun before it. *And*: compound, plural verb, unless the parts name one thing or *each* or *every* precedes them. *Or*, *nor*, *either ... or*, *neither ... nor*: proximity, match the nearer subject. *Each*, *either*, *neither*, *everyone*, *anybody*, *no one*, and the rest of that family: always singular. *Both*, *few*, *several*, *many*: always plural. *Some*, *all*, *any*, *none*, *most*: match the noun in the following phrase. *There*, *here*, or a fronted prepositional phrase before the verb: inverted, the subject follows the verb. *Who*, *which*, *that*: relative clause, match the antecedent. A collective noun such as *team*, *committee*, *jury*: singular in American usage. Train the trigger-to-rule link until the trigger word fires the correct rule on sight, and the section stops costing you time.
 
-THE RULE: Indefinite pronouns have fixed agreement patterns. Some are always singular; some are always plural; some depend on context.
+For pronoun clarity, the routine is the swap test. When a question highlights a pronoun, try to replace it with the one noun it means. If two nouns compete or none fits, choose the option that names the noun outright. The wrong answers in clarity questions almost always keep an ambiguous pronoun and rearrange the rest of the sentence; the right answer usually trades the pronoun for a specific noun, so when you see a choice that names the referent directly, weigh it seriously.
 
-ALWAYS SINGULAR (memorize this group): each, every, either, neither, one, anyone, anybody, anything, someone, somebody, something, everyone, everybody, everything, no one, nobody, nothing.
+A word on the Bluebook testing application and its built-in tools. The Digital SAT runs in Bluebook, and the annotation feature lets you highlight text inside a passage, but Conventions questions are single sentences with a blank rather than long passages, so there is little to annotate. The practical move is mental, not on-screen: read to the blank, find the subject, run the cross-out in your head, and only then uncover the choices. The countdown clock and the mark-for-review flag are the tools that matter here. If a sentence runs long and the subject is buried, mark it, lock in your best application of the cross-out, and move on rather than rereading the intervening phrase a fourth time. The rule does not get easier on the fifth read; the disguise is doing its job, and your defense is the routine, not extra staring.
 
-Memory hook: if the word contains "-one," "-body," or "-thing," it is singular. "Each" and "every" are also singular.
+Pacing matters because Conventions questions reward speed when you trust the method. A test-taker who runs the cross-out confidently spends fifteen to twenty seconds on a clean agreement item and banks the saved time for the longer Reading questions that genuinely need it. The students who lose time here are the ones who reread the whole sentence trying to make it sound right, because sound is exactly what the trap exploits. Convert listening into locating, and the item that felt slow becomes one of the fastest on the section. For drilling the routine against fresh sentences until the cross-out is automatic, work through targeted sets on the [SAT Reading and Writing practice tool from ReportMedic](https://reportmedic.org/tools/sat-reading-writing-practice.html), which serves realistic Conventions items with full worked solutions so you can check whether you found the real subject or fell for the decoy.
 
-A second memory hook: imagine the action being performed. "Everyone is leaving" - picture one event, one unified action where everyone participates. "Both are leaving" - picture two separate entities leaving. The singular/plural distinction often reflects how we imagine the scenario: unified action = singular pronoun/verb; distinct individuals = plural.
+## The hard end: Module 2 variants and the constructions that separate scores
 
-EXAMPLES (always singular):
+A strong first module routes you into a harder second module, and the agreement items there are not different rules; they are thicker disguises and a handful of constructions the first module rarely uses. Knowing them is the difference between a good Conventions score and a clean one.
 
-1. INCORRECT: "Each of the experiments have been replicated three times."
-   CORRECT: "Each of the experiments has been replicated three times."
-   "Each" is singular. "Of the experiments" is a prepositional phrase.
+### "The number of" versus "a number of"
 
-2. INCORRECT: "Everyone on both teams are expected to attend the briefing."
-   CORRECT: "Everyone on both teams is expected to attend the briefing."
-   "Everyone" is singular regardless of context.
+These two phrases look identical and behave oppositely, and the second module loves the contrast. "The number of applicants ___ rising" takes a singular verb, *is*, because the head noun is *number* and *the number* names a single quantity: "The number of applicants is rising." "A number of applicants ___ withdrawn" takes a plural verb, *have*, because *a number of* is an idiom meaning *several* or *many*, and the real subject becomes *applicants*: "A number of applicants have withdrawn." The article, *the* versus *a*, flips the meaning and the verb. Principle: *the number of* is singular because *number* is the subject; *a number of* is plural because it means *many* and the following noun is the subject.
 
-3. INCORRECT: "Neither of the proposed solutions address the core problem."
-   CORRECT: "Neither of the proposed solutions addresses the core problem."
-   "Neither" (used alone without "nor") is singular.
+### Quantities, measurements, and amounts as single units
 
-4. INCORRECT: "Either of the methods are acceptable to the review committee."
-   CORRECT: "Either of the methods is acceptable to the review committee."
-   "Either" (used alone) is singular.
+A measurement or a sum treated as one amount takes a singular verb even when the number is large and plural-looking. "Twenty miles ___ a long way to run" takes *is*, because *twenty miles* names one distance, not twenty separate miles being counted. "Three years ___ a long time to wait" takes *is*. "Forty dollars ___ too much for that book" takes *is*. The plural noun names a single quantity, so the verb is singular. Principle: when a plural amount of money, time, or distance is treated as one unit, the verb is singular.
 
-   Another diagnostic: "either of the [noun]" mirrors the structure of "each of the [noun]" - both are indefinite pronouns functioning as singular subjects with a prepositional phrase following. The pattern is parallel: always singular.
+### Titles, names, and uncountable nouns
 
-5. INCORRECT: "Each of the twelve countries represented at the summit have submitted reports."
-   CORRECT: "Each of the twelve countries represented at the summit has submitted reports."
-   "Each" is singular even though "countries" is plural - it is inside the prepositional phrase.
+A title is a single thing no matter how plural it sounds. "*Great Expectations* ___ a long novel" takes *is*, because the title names one book. A field of study ending in *-ics* is singular when it names the discipline: "Economics ___ a demanding major" takes *is*; "Statistics ___ required for the degree" takes *is* when *statistics* means the subject. But "The statistics ___ misleading" takes *are*, because there *statistics* means individual data points, plural. Principle: a singular title or a discipline name is singular even when it ends in *s*; the same word can turn plural when it names individual items rather than the field.
 
-6. INCORRECT: "No one in any of the three departments were consulted during the process."
-   CORRECT: "No one in any of the three departments was consulted during the process."
-   "No one" is singular.
+### The collective noun that genuinely splits
 
-7. INCORRECT: "Somebody with relevant expertise need to review these findings."
-   CORRECT: "Somebody with relevant expertise needs to review these findings."
-   "Somebody" is singular.
+American usage keeps collective nouns singular by default, but a sentence can force a plural reading when the members of the group act individually rather than as one body. "The jury is unanimous" treats the jury as one unit. A sentence that says "The jury are divided over the verdict" treats the members as acting separately. The SAT overwhelmingly uses the singular, unit reading and pairs the collective noun with a singular pronoun such as *its* to confirm it, so when you see *its* nearby, the singular verb is almost certainly correct. Principle: collective nouns are singular by default on this exam, and a singular pronoun in the sentence is your confirmation.
 
-ALWAYS PLURAL: both, few, many, several, others.
+### Layered intervention plus inversion
 
-8. INCORRECT: "Both of the approaches has merit."
-   CORRECT: "Both of the approaches have merit."
-   "Both" is plural.
+The toughest Module 2 items combine disguises. "Buried in the appendix of each of the reports submitted by the committees ___ a footnote that changes the conclusion." The sentence inverts, fronts a long prepositional chain, stacks the singular *each* with several plural nouns, and lands the verb before the subject. Restore order: "A footnote ... is buried in the appendix ...." The subject is *a footnote*, singular, verb *is*. Every decoy, *appendix*, *reports*, *committees*, is inside a modifier; the cross-out clears all of them. Principle: when disguises stack, the routine does not change; restore normal order, cross out every modifier, and the short skeleton survives every layer.
 
-9. INCORRECT: "Few of the participants was able to complete the full protocol."
-   CORRECT: "Few of the participants were able to complete the full protocol."
-   "Few" is plural.
+### Ambiguous pronouns in long sentences
 
-10. INCORRECT: "Many in the scientific community remains skeptical."
-    CORRECT: "Many in the scientific community remain skeptical."
-    "Many" is plural.
+Module 2 pronoun-clarity items bury the ambiguity in a longer sentence so the competing antecedents sit far apart. "After the director consulted the producer about the schedule, she insisted on a delay." *She* could be the director or the producer, and the distance between the candidates makes the ambiguity easier to miss. The swap test still cracks it: try *the director* and *the producer* in turn, see that both fit, and choose the rewrite that names the intended one. Principle: distance does not change the test; if two nouns can each fill the pronoun's slot, the pronoun is ambiguous no matter how far away they sit.
 
-    Note: "in the scientific community" is a prepositional phrase between "many" (subject) and the verb. This is Pattern 1 combined with Pattern 5 (indefinite pronoun). The subject "many" is always plural; the intervening phrase cannot change that.
+## Why this one topic carries so much of the Writing score
 
-CONTEXT-DEPENDENT: some, all, none, most, more, any, half.
-The verb agrees with the noun in the "of" phrase.
+Subject-verb agreement connects to the whole architecture of the Standard English Conventions domain, and seeing those connections turns isolated rules into a system. The cross-out routine you built here is the same skill that powers verb-tense questions, where you match the form of the verb to the timeline rather than the number of the subject, and the [SAT verb tense and mood guide](/sat-verb-tense-mood) extends the identification habit into sequence and conditionals. The act of stripping a sentence to its core clause is also the foundation of the sentence-boundary questions, where you decide whether two clauses can be joined and how, so the work you do here feeds directly into recognizing complete and incomplete clauses.
 
-11. "Some of the data is missing." ("data" = mass noun → singular)
-    "Some of the files are missing." ("files" = countable plural → plural)
+Agreement, punctuation, modifiers, and sentence structure are not separate subjects the exam happens to test side by side; they are facets of one underlying competence, the ability to see a sentence's grammatical skeleton through the words dressing it up. The student who masters that seeing handles the whole domain, which is why the broad [complete SAT grammar and conventions guide](/sat-grammar-conventions-complete) treats agreement as the keystone rather than one rule among many. If you have not yet built the wider map of every conventions rule the exam tests, that overview is the place to anchor this topic, and the long-standing [complete guide to SAT grammar rules](/2021/03/23/sat-grammar-rules-complete-guide/) gives the reference frame that the newer topic deep dives expand on.
 
-12. "All of the research supports the hypothesis." ("research" = mass noun → singular)
-    "All of the participants have completed the survey." ("participants" = plural → plural)
+### Does mastering agreement raise more than the Conventions score?
 
-13. "None of the information was verified." ("information" = mass noun → singular)
-    "None of the reports were submitted on time." ("reports" = plural → plural)
+It does, and in a way that surprises students. The cross-out habit makes you a faster, more accurate reader of every sentence on the test, including the dense Reading passages where finding the main clause is half the comprehension. A reader who instinctively separates the head noun from its modifiers parses a complex sentence in one pass instead of three, which buys time across the whole section.
 
----
+The wider admissions significance follows the same logic the series argues throughout: the Writing score is not a verdict on whether you are a "good writer." It is a measure of whether you can apply a finite set of rules under time pressure, and agreement is the most learnable of them. A test-taker who treats the Conventions domain as a solvable system, drills the disguises, and runs the routine reliably converts a category that feels like innate language sense into a category of guaranteed points. That conversion, from "I either know it or I don't" to "I have a method that works every time," is the entire thesis of approaching this exam as a pattern-bound, coachable assessment rather than a fixed measure of ability.
 
-## Pattern 6: Relative Clause "Who" Agreement
+### The agreement habit feeds the rest of the conventions domain
 
-THE RULE: When "who," "which," or "that" is the subject of a relative clause, the verb in that clause agrees with the antecedent of the relative pronoun.
+The cross-out you drilled for agreement is the same diagnostic move that the neighboring conventions topics demand, which is why mastering this rule first accelerates everything after it. Parallel structure questions ask whether the items in a series share matching grammatical form, and finding those items requires stripping a sentence to its core the same way you strip it to find a subject, so the routine carries straight into the work the parallel-structure and modifier deep dive builds on. Sentence-boundary questions ask whether two clauses are independent and how they may be joined, and recognizing an independent clause means recognizing a subject paired with a verb, the exact pairing you now find on reflex. Punctuation choices between a colon and a semicolon hinge on the same independent-clause test, so the skeleton-finding habit you built here resolves a punctuation item as cleanly as it resolves an agreement one, a connection the [SAT punctuation rules guide](/sat-punctuation-mastery) develops in full.
 
-A useful framing: the relative pronoun "borrows" its number from the noun it refers back to. "Who" becomes singular when it refers to a singular noun ("the scientist who has...") and plural when it refers to a plural noun ("the scientists who have..."). Track what "who" points to, then assign the verb accordingly.
+This is the deeper reason the series treats the Standard English Conventions domain as one competence rather than a list of unrelated rules. Agreement, verb form, sentence boundaries, punctuation, and parallel structure all reduce to one underlying act: seeing the grammatical skeleton of a sentence through the words that dress it up. A student who builds that vision on the most-tested rule, agreement, then finds the rest of the domain familiar, because every question in it begins with the same move. That transfer is the practical payoff of learning agreement deeply rather than memorizing it shallowly, and it is the reason this topic earns its place at the front of a conventions study plan rather than somewhere in the middle.
 
-EXAMPLES:
+## A graded drill set to make the routine automatic
 
-1. INCORRECT: "She is one of those students who is always prepared."
-   CORRECT: "She is one of those students who are always prepared."
-   "Who" refers to "students" (plural) → "are."
-   Full logic: among those students [who are always prepared], she is one.
+The worked examples above teach each disguise once. Fluency comes from meeting each one many times until the cross-out fires before you have finished reading. What follows is a denser bank, more cases per family, written so you can cover the verb, find the subject, and check yourself against the narrated answer. Treat it as reps, not reading.
 
-2. INCORRECT: "He is the only one of those researchers who have published on this topic."
-   CORRECT: "He is the only one of those researchers who has published on this topic."
-   "Only one" makes the antecedent singular → "has."
+### More intervening-phrase reps
 
-3. INCORRECT: "These are the policies that has driven the improvement."
-   CORRECT: "These are the policies that have driven the improvement."
-   "That" refers to "policies" (plural) → "have."
+"The assortment of tools in the mechanic's largest drawer ___ rarely used." Head noun *assortment*, singular, verb *is*. The decoys *tools* and *drawer* are inside the phrase. "A bouquet of roses, lilies, and carnations ___ on the counter" takes *is*; *bouquet* is the singular head and the three flowers are modifiers. "The stack of overdue invoices on the accountant's desk ___ growing" takes *is*, head noun *stack*. "One of the reasons for the repeated delays ___ obvious" takes *is*; the subject is *one*, always singular, and *reasons* and *delays* are decoys. "The impact of rising temperatures on coastal communities ___ been studied for decades" takes *has*, head noun *impact*. "A shipment of replacement parts for the disabled turbines ___ arriving tomorrow" takes *is*, head noun *shipment*. "The cost of the materials, the permits, and the labor ___ exceeded the estimate" takes *has*, head noun *cost*. Each one plants plural nouns against the verb; each one yields to the same cross-out. Notice that the trap intensifies as the phrase lengthens and the plural decoys multiply, yet the head noun never moves and the routine never changes.
 
-4. INCORRECT: "This is one of the few studies that have examined this phenomenon."
-   CORRECT: "This is one of the few studies that have examined this phenomenon."
-   "That" refers to "studies" (plural) → "have." (This sentence is already correct as written.)
+### More compound-subject reps
 
-5. INCORRECT: "The researchers who has conducted these trials report unexpected findings."
-   CORRECT: "The researchers who have conducted these trials report unexpected findings."
-   "Who" refers to "researchers" (plural) → "have."
+"The director and the cinematographer ___ disagreeing about the lighting" takes *are*; two subjects joined by *and* make a plural. "Honesty and hard work ___ what the scholarship committee rewards" takes *are*. "The novelist and essayist Joan Didion ___ admired for her precision" takes *is*, because the two roles name one person, a single subject. "Research and development ___ funded separately from marketing" can read as one department and take *is*, or as two activities and take *are*; the SAT supplies context that resolves it, and the singular reading wins when the phrase names a single unit. "Every coach and every player ___ expected at the banquet" takes *is*, because *every* forces the singular. "Neither the report nor its appendices ___ been finalized" takes *have*, nearer subject *appendices*, plural. "Either the twins or their mother ___ driving" takes *is*, nearer subject *mother*, singular. Reorder to "Either their mother or the twins ___ driving" and it takes *are*. Run them until the conjunction itself, *and* versus *or*, picks the rule before you think about it.
 
-6. TRICKY: "She is the scientist who we believe has made the discovery."
-   Analysis: "Who" is the subject of "has made." "We believe" is a parenthetical phrase. When "we believe," "they say," "everyone agrees," and similar phrases interrupt a relative clause, they are parenthetical and do not affect the agreement. Remove the parenthetical: "who has made the discovery" → "who" refers to "scientist" (singular) → "has."
+### More indefinite-pronoun reps
 
-7. "He is one of the teachers who inspire their students." ("who" = "teachers" → "inspire" plural)
-   vs.
-   "He is the one teacher who inspires his students." ("who" = "teacher" → "inspires" singular)
-   The presence or absence of "one of" (without "only") determines the antecedent's number.
+"Everybody on both teams ___ shaking hands" takes *is*; *everybody* is always singular. "Each of the contestants ___ given two minutes" takes *is*. "Neither of the explanations ___ convincing" takes *is*. "Few of the original members ___ still active" takes *are*; *few* is always plural. "Several of the proposals ___ been rejected" takes *have*. "Most of the budget ___ already spent" takes *is*, because *budget* is singular. "Most of the recommendations ___ already adopted" takes *have*, because *recommendations* is plural. "None of the equipment ___ functioning" takes *is*. "None of the technicians ___ available" takes *are*. "All of the milk ___ spoiled" takes *is*; "All of the bottles ___ empty" takes *are*. The split between the always-singular group, the always-plural group, and the referent-dependent group is the whole game, and these reps drill the boundary between them.
 
----
+### More inverted-sentence reps
 
-## Pattern 7: Subjects That Look Plural but Are Singular
+"There ___ a discrepancy between the two ledgers" takes *is*, subject *discrepancy*. "There ___ several discrepancies between the two ledgers" takes *are*, subject *discrepancies*. "Here ___ the documents you requested" takes *are*, subject *documents*. "On the far wall ___ a row of antique clocks" takes *is*, subject *row*, singular, even though *clocks* sits near the verb. "Beneath the floorboards ___ hidden the letters" takes *were*, subject *letters*. "Among the finalists ___ a student from our school" takes *is*, subject *student*. Each one rewards the same move: ignore the placeholder or the fronted phrase, find the verb, and look just past it for the subject.
 
-THE RULE: Some nouns look plural (they end in -s or refer to quantities) but are grammatically singular. Academic subjects, diseases, dollar amounts, time periods, and mathematical concepts often fall into this category.
+### More collective-noun and relative-pronoun reps
 
-ACADEMIC SUBJECTS (always singular): mathematics, physics, economics, statistics, linguistics, ethics, politics, genetics, athletics.
+"The orchestra ___ tuning its instruments" takes *is*, with *its* confirming the singular. "The committee ___ released its findings" takes *has*. "The herd ___ moving toward the river" takes *is*. "She is among the engineers who ___ designed the bridge" takes *have*, antecedent *engineers*. "He is the kind of leader who ___ listens" takes *who listens*, antecedent *leader*, singular. "It is one of the few species that ___ survive in the desert" takes *survive*, antecedent *species* in the plural sense the sentence intends. "She is the only one of the analysts who ___ predicted the downturn" takes *predicted* with a singular reading, because *the only one* points *who* back at *one*. The relative pronoun always borrows its number from the noun it stands for, and these reps train you to find that noun before you choose the clause verb.
 
-1. INCORRECT: "Mathematics are essential for scientific literacy."
-   CORRECT: "Mathematics is essential for scientific literacy."
+### More inverted and "number of" reps
 
-2. INCORRECT: "Economics have become increasingly data-driven."
-   CORRECT: "Economics has become increasingly data-driven."
+Build the inverted family to a full set, because the second module leans on it. "Nowhere in the records ___ a mention of the payment" takes *is*, subject *mention*. "Rarely ___ the two analysts agree" takes *do*, subject *analysts*, because a fronted negative adverb also triggers inversion. "Not only ___ the design flawed, but the budget was too" takes *was*, subject *design*. "In the center of the painting ___ two figures" takes *are*, subject *figures*, sitting after the verb despite the singular-sounding *center* nearby. "Down the narrow staircase ___ the missing documents" takes *came* in the plural sense, subject *documents*. Pair these with the quantity cases that behave like inversions of intuition: "The number of errors ___ decreasing" takes *is*, head noun *number*; "A number of errors ___ slipped through" takes *have*, subject *errors*; "The variety of options ___ overwhelming" takes *is*, head noun *variety*; "A variety of options ___ available" takes *are*, subject *options* under the idiom reading. The article and the head noun, not the plural object, set the verb every time.
 
-3. INCORRECT: "Statistics are a challenging field for many students."
-   CORRECT: "Statistics is a challenging field for many students."
-   BUT: "The statistics from the study are surprising." (Here "statistics" means data points, not the field → plural)
+### More measurement, title, and discipline reps
 
-DISEASES AND CONDITIONS (often singular):
-4. "Measles is a preventable disease." (singular despite -s ending)
-5. "Diabetes affects millions globally." (singular)
+"Ten thousand dollars ___ a steep price" takes *is*, one amount. "Six weeks ___ enough time to prepare" takes *is*. "Two-thirds of the report ___ finished" takes *is*, referent *report*; "Two-thirds of the pages ___ finished" takes *are*, referent *pages*. "Mathematics ___ his strongest subject" takes *is*, the discipline. "Politics ___ a dangerous topic at dinner" takes *is* as a field, though "Her politics ___ well known" takes *are* when the word means individual views. "The United States ___ a federal republic" takes *is*, one nation despite the plural form. "Measles ___ preventable" takes *is*, a single disease. Each plural-looking subject names one thing, and the singular verb follows. Drilling these removes the reflex that long or plural-shaped subjects demand plural verbs.
 
-DOLLAR AMOUNTS, TIME PERIODS, DISTANCES (singular when treated as a unit):
-6. INCORRECT: "Twenty dollars are a fair price for the item."
-   CORRECT: "Twenty dollars is a fair price for the item." (unit → singular)
+### How does agreement look different on the digital adaptive exam?
 
-7. INCORRECT: "Three weeks are enough time to complete the project."
-   CORRECT: "Three weeks is enough time to complete the project." (unit → singular)
+The rule is identical across both modules; only the camouflage changes. The first module mixes plain agreement items with single, short intervening phrases, so the cross-out resolves them quickly. A strong first module routes a test-taker into a harder second module, where the same rule arrives wrapped in longer phrases, stacked disguises, inverted order, and the deceptive *number of* and discipline-name constructions. Because the format is single-sentence rather than passage-based for Conventions items, there is little to highlight on screen, so the work stays mental: read to the blank, find the subject, run the routine. The adaptive design is built to reward the student who applies one method consistently rather than the student who happens to recognize easy cases, which is precisely why drilling the routine until it is automatic matters more here than on almost any other topic the exam covers.
 
-8. INCORRECT: "Five miles are a long distance to run."
-   CORRECT: "Five miles is a long distance to run." (unit → singular)
+### More relative-clause and antecedent reps
 
-OTHER SINGULAR-LOOKING PLURALS:
-9. "The news is alarming." (CORRECT - "news" is grammatically singular)
-   "The news are alarming." (INCORRECT)
+"The data that the team collected ___ inconsistent" can take *are* under the formal treatment of *data* as plural or *is* when *data* names a single body of information, and the exam supplies context that fixes the reading, usually the singular in general prose. "He is among the few candidates who ___ qualified" takes *are*, antecedent *candidates*. "This is the report that ___ caused the controversy" takes *has*, antecedent *report*. "These are the reports that ___ caused the controversy" takes *have*, antecedent *reports*. "She is the manager whose decisions ___ shaped the firm" takes *have*, because the clause subject is the plural *decisions*, not *manager*. Each one rewards the same two-step: find the noun the relative pronoun replaces, then match the clause verb to that noun, never to whatever happens to sit nearest. Drilling the relative family to this depth matters because the second module hides agreement inside relative clauses more often than the first, and the construction is where careful students still slip.
 
-   "News" ends in -s but is not plural. Other field names ending in -s that are singular: "mathematics," "athletics," "gymnastics," "acoustics." These take singular verbs despite the -s ending.
+## A diagnostic error rubric for agreement and clarity
 
-10. "The series consists of twelve episodes." (singular - "series" is both singular and plural; context clarifies)
-    "The series of experiments was conducted over two years." ("series" → singular)
+When you miss one of these, the miss falls into a named category, and naming it tells you what to drill. Use this rubric to classify every error in your practice so you fix the cause rather than the single item.
 
----
+| Error category | What it looks like | The fix to drill |
+|---|---|---|
+| Proximity miss | Matched the verb to the nearest noun inside an intervening phrase | Cross out every phrase between subject and verb before choosing |
+| Conjunction confusion | Treated *or* or *nor* like *and*, or vice versa | Check the conjunction first; *and* combines, *or* and *nor* use proximity |
+| Indefinite-group error | Used the wrong number for *each*, *none*, *some*, and similar | Memorize the three groups; for the referent group, read the following noun |
+| Inversion miss | Matched the verb to a fronted phrase or to *there* | Restore normal order and find the subject after the verb |
+| Collective miss | Made a collective noun plural by default | Default to singular in American usage; let *its* confirm it |
+| Relative-clause miss | Matched the clause verb to *one* instead of the plural antecedent | In "one of those who," the antecedent is usually the plural noun |
+| Ambiguous-pronoun miss | Accepted a pronoun that could mean two nouns | Run the swap test; choose the option that names the noun |
+| Missing-antecedent miss | Accepted a *this*, *which*, or *it* pointing at a whole idea | Demand a single noun antecedent; the fix supplies one |
 
-## Part Two: Pronoun-Antecedent Agreement and Clarity
+Track which row you land in most often across a few practice sets, and that row is your study assignment for the week. The InsightCrunch content-careless-timing distinction applies here too: a proximity miss on a clean short sentence is carelessness you fix with discipline, while a relative-clause miss on a long sentence is a content gap you fix by drilling that specific construction. Sorting your errors by cause turns a vague sense that you are "bad at grammar" into a short, fixable list.
 
-Pronoun errors on the Digital SAT fall into three distinct categories: agreement errors (pronoun doesn't match antecedent in number), ambiguity errors (pronoun could refer to more than one noun), and no-antecedent errors (pronoun has no specific noun to refer to).
+## How the exam builds an agreement question, reverse-engineered
 
----
+Understanding how the writers construct these items lets you predict the trap before you meet it. Every agreement question starts from a correct sentence and then gets engineered into a snare, and the engineering follows a small number of moves you can learn to spot.
 
-## Pronoun Pattern 1: Number Agreement Errors
+The first move is selecting a subject whose number is easy to misread. A plain "The dog barks" cannot be turned into a question, because there is nothing to hide. So the writers pick a singular subject that can be padded with plural modifiers, like *collection*, *list*, *series*, *box*, *array*, *variety*, or a collective such as *committee* or *faculty*, or they pick an indefinite pronoun like *each* or *neither* that students misjudge. The choice of subject is the first signal: when you see one of these head nouns, you know an agreement question is likely and the verb is probably singular against the grain.
 
-THE RULE: A pronoun must agree in number with its antecedent. Singular antecedents require singular pronouns; plural antecedents require plural pronouns.
+The second move is inserting the disguise. The most common is the prepositional phrase loaded with plural objects, dropped between the subject and the verb. Less common but harder is the relative clause with its own internal verb, the fronted phrase that triggers inversion, or the compound that tempts you to misread the conjunction. The writers calibrate the disguise to the module: a short, single-phrase intervention in the first module, a stacked or inverted construction in the harder second module. The disguise is where the difficulty lives, which is why the cross-out, the move that removes the disguise, is the master key.
 
-THE SAT'S PRIMARY EXPLOIT: pairing a singular indefinite pronoun antecedent with a plural pronoun ("their"), which has become common in informal speech.
+The third move is writing the distractor choices. A well-built agreement item offers the correct verb and at least one verb that matches the decoy noun rather than the subject, so a student who matched proximity finds their wrong answer waiting and feels confirmed. The choices often vary tense and number together, so the test-taker has to settle number first and then form. This is why covering the choices and finding the subject before reading the options is not a stylistic preference but a structural defense: the options are built to validate the proximity error, and reading them first invites exactly that error.
 
-EXAMPLES (singular antecedents needing singular pronouns):
+### Can you predict the answer before reading the choices?
 
-1. INCORRECT: "Each student should submit their completed form by Friday."
-   CORRECT: "Each student should submit his or her completed form by Friday."
-   OR RESTRUCTURE: "All students should submit their completed forms by Friday."
-   "Each" is singular.
+Often, yes, and that is the goal. If you read to the blank, identify the head noun as singular, and run the cross-out, you can frequently say "the verb must be singular present, so *is* or *has*" before you uncover a single option. Predicting the answer first turns the choices from a source of doubt into a confirmation step, which is faster and far more accurate than reasoning from the options inward.
 
-2. INCORRECT: "Everyone in both groups must update their individual profile."
-   CORRECT: "Everyone in both groups must update his or her individual profile."
-   OR: "All participants in both groups must update their individual profiles."
-   "Everyone" is singular.
+Seeing the construction from the writer's side also explains why agreement is so learnable. The exam is not generating infinite varieties of difficulty; it is recombining a fixed kit of subjects and disguises. Once you have met each subject type and each disguise a dozen times, the recombinations stop being surprising. That finite quality is the whole reason this category rewards focused drilling more than almost any other on the test, and it is why the topic belongs near the front of any Conventions study plan rather than buried at the back.
 
-3. INCORRECT: "Nobody should leave their equipment unattended in the laboratory."
-   CORRECT: "Nobody should leave his or her equipment unattended in the laboratory."
-   "Nobody" is singular.
+## Common mistakes and the myths worth dismantling
 
-4. INCORRECT: "Either candidate may submit their application by the deadline."
-   CORRECT: "Either candidate may submit his or her application by the deadline."
-   "Either" (alone) is singular.
+The errors students make on this topic are specific and repeatable, which is good news, because a named mistake is a fixable one. Here are the ones that cost the most points, each with the misconception that drives it and the correction that ends it.
 
-5. INCORRECT: "The company must resubmit their annual report by March 31."
-   CORRECT: "The company must resubmit its annual report by March 31."
-   "Company" is a singular collective noun → "its."
+The most expensive mistake is matching the verb to the nearest noun. It is expensive because it feels right; the nearest noun is the one ringing in your ear when you reach the verb, and the writers position the plural decoy there on purpose. Students make it because reading is local and the working memory holds the last few words most vividly. The correction is the cross-out, run every time, with no exception except the *or* and *nor* construction. If you train yourself to distrust the noun against the verb, you defuse the single most common trap in the category.
 
-6. INCORRECT: "The committee released their findings last week."
-   CORRECT: "The committee released its findings last week."
-   "Committee" is singular when acting as a unit → "its."
+The second mistake is treating *each*, *every*, *everyone*, and *neither* as plural because they refer to more than one thing. The misconception is that a word about many people must take a plural verb. The reality is that these words grammatically isolate one member at a time, so they are singular: *each is*, *everyone was*, *neither has*. The correction is to memorize the always-singular group as a flat list and stop reasoning about how many people it describes. The grammar, not the headcount, sets the number.
 
-7. INCORRECT: "A researcher should always document their methodology clearly."
-   CORRECT: "A researcher should always document his or her methodology clearly."
-   OR: "Researchers should always document their methodology clearly."
-   "A researcher" is singular.
+The third mistake is believing the myth that *none* is always singular. Generations of students were taught that *none* means "not one" and must take a singular verb, and the SAT does not follow that rule. *None* takes its number from what it refers to, exactly like *some* and *all*. "None of the books are missing" is correct when *none* points at the plural *books*. The correction is to treat *none* as a referent-dependent word and read the following noun, not to apply a folklore rule that the exam rejects.
 
-8. INCORRECT: "Every department has submitted their budget projections."
-   CORRECT: "Every department has submitted its budget projections."
-   "Every department" = singular subject requiring singular pronoun.
+The fourth mistake is reading a collective noun as plural because the group has many members. The misconception is that *team*, *committee*, and *family* describe several people and so must be plural. American usage, which the exam follows, treats the group as one body and uses a singular verb, and the singular pronoun *its* usually appears to confirm it. "The team is celebrating its victory" is correct. The correction is to default every collective noun to singular on this test and to read a nearby *its* as a confirmation rather than a coincidence.
 
-9. INCORRECT: "One of the scientists published their findings in a leading journal."
-   CORRECT: "One of the scientists published his or her findings in a leading journal."
-   "One" is singular.
+The fifth mistake belongs to pronoun clarity: accepting a pronoun that "obviously" refers to one noun because the reader can infer the intended meaning. The misconception is that if you can guess what the writer meant, the pronoun is fine. The exam's standard is stricter: the reference must be unambiguous on the page, not inferable from context. "When the manager met the client, she was late" is wrong even if the passage makes the meaning guessable, because *she* can grammatically be either. The correction is the swap test, applied without charity; if two nouns can each fill the slot, the pronoun fails regardless of what you think the writer intended.
 
-10. INCORRECT: "Neither of the organizations has updated their website."
-    CORRECT: "Neither of the organizations has updated its website."
-    "Neither" (alone) is singular.
+The sixth mistake is the "one of those who" reversal, where students make the clause verb singular to match *one*. The misconception is that *one* is the subject of the relative clause. It is not; *who* refers to the plural noun before it, and the clause verb is plural, except when *the only one* narrows the reference. The correction is to ask what *who* actually replaces, which is almost always the plural noun, and to reserve the singular for the *only one* case.
 
----
+### Is subject-verb agreement really the most tested grammar rule?
 
-## Pronoun Pattern 2: Ambiguous Pronoun Reference
+Among the Standard English Conventions rules, agreement and verb form together are tested as heavily as any single category, which is why this guide treats the topic as the keystone. The exam returns to it because it is easy to disguise and hard to bluff, the perfect properties for a question that separates students who know a rule from students who can apply it under a clock. Calling it the most tested rule is a fair summary of where the points cluster, even though the exam publishes weighting by domain rather than a public ranking of individual rules.
 
-THE RULE: A pronoun must have a clear, unambiguous antecedent. If a pronoun could logically refer to more than one noun, the sentence contains an ambiguity error.
+## Pronoun-antecedent agreement: matching number across the sentence
 
-FIX METHOD: Replace the ambiguous pronoun with the specific noun it is intended to reference.
+Clarity asks whether a pronoun points to one noun; pronoun-antecedent agreement asks whether the pronoun matches that noun in number. The two are cousins, and the exam tests both, sometimes in the same item. A singular antecedent takes a singular pronoun, and a plural antecedent takes a plural pronoun, which sounds as obvious as the verb rule and gets disguised in the same ways.
 
-For Digital SAT ambiguity questions: the answer choices will present the same sentence with the ambiguous pronoun replaced by different noun options. The correct answer specifies the intended referent clearly. Both nouns are typically mentioned in the choices - select the one that matches the logical meaning of the sentence (what actually makes sense given the context).
+The first disguise is the indefinite-pronoun antecedent. The always-singular group governs pronouns just as it governs verbs. "Each of the applicants submitted ___ portfolio" wants the singular *his or her*, because *each* is singular, even though *applicants* is plural and the ear wants *their*. "Everyone must bring ___ own laptop" is singular by the formal rule, taking *his or her*. This is the spot where formal written grammar and everyday speech diverge most sharply, because spoken English has used singular *they* with these antecedents for centuries and increasingly does so in writing. The SAT tends to test the clear, unambiguous cases and to avoid items that hinge only on the contested singular-*they* judgment, so the safe approach is to match the formal number of the indefinite pronoun while knowing the exam is unlikely to force a choice that depends solely on the disputed usage. Principle: indefinite pronouns govern their pronouns by the same three-group split that governs their verbs, and the always-singular group takes a singular pronoun in formal writing.
 
-EXAMPLES:
+The second disguise is the collective-noun antecedent. Because American usage treats a collective noun as singular, the pronoun referring to it is singular too. "The committee released ___ report" takes *its*, not *their*: "The committee released its report." Students who hear the committee as many people reach for *their*, and the exam rewards the singular *its* that matches the singular reading of the group. Principle: a collective-noun antecedent takes the singular *it* or *its*, matching the same unit reading that makes its verb singular.
 
-1. INCORRECT: "When Elena met Sofia, she was nervous."
-   ANALYSIS: "She" could refer to Elena or Sofia. The sentence contains two female-name antecedents, making the pronoun reference ambiguous.
-   CORRECT: "When Elena met Sofia, Elena was nervous."
-   OR: "When Elena met Sofia, Sofia was nervous." (depending on intended meaning)
+The third disguise mirrors the compound-subject rules. Two antecedents joined by *and* take a plural pronoun: "The director and the producer defended ___ decision" takes *their*. Antecedents joined by *or* or *nor* match the nearer one: "Neither the coach nor the players changed ___ approach" takes *their*, matching the nearer plural *players*. Principle: pronoun-antecedent agreement across compounds follows the same *and* combines, *or* and *nor* use proximity logic as subject-verb agreement, so the conjunction rules you already drilled transfer directly.
 
-   This is the canonical example of pronoun ambiguity. Any time a sentence contains two nouns of the same gender and number, a pronoun referring back to one of them will be ambiguous. The fix is always to replace the pronoun with the specific noun.
+### How is pronoun-antecedent agreement different from pronoun clarity?
 
-2. INCORRECT: "The professor told the student that she had misunderstood the assignment."
-   ANALYSIS: "She" could be the professor or the student.
-   CORRECT: "The professor told the student that the student had misunderstood the assignment."
-   OR: "The professor told the student, 'You misunderstood the assignment.'"
+Clarity is about whether the reference is single and certain; agreement is about whether the number matches. A pronoun can be perfectly clear and still wrong in number, as in "Each student raised their hand" under the formal rule, where *their* is unambiguous but mismatched to singular *each*. The same trained instinct fixes both: find the antecedent, confirm there is exactly one, and check that the pronoun matches it in number. The work you did on the verb rule pays off again, because finding the controlling noun is the shared first step.
 
-3. INCORRECT: "When the experimental group outperformed the control group, they were surprised."
-   ANALYSIS: "They" could be either group or the researchers.
-   CORRECT: "When the experimental group outperformed the control group, the researchers were surprised."
+The exam keeps these antecedent items relatively clean compared to the verb items, because a heavily disputed usage makes a poor multiple-choice question. That means the agreement version of pronoun testing tends to reward the student who knows the indefinite-pronoun groups cold and who defaults collective nouns to singular, the two facts that resolve most of these items without any close judgment call. Tie that knowledge to the cross-out habit and the pronoun questions, both the clarity kind and the number kind, fall to the same disciplined search for the noun that runs the sentence.
 
-4. INCORRECT: "The report was sent to the committee, but they took two weeks to respond."
-   ANALYSIS: "They" has no clear antecedent - "committee" works but "they" with a singular collective noun is ambiguous.
-   CORRECT: "The report was sent to the committee, but the committee took two weeks to respond."
-   OR: "The report was sent to the committee, but its members took two weeks to respond."
+## Closing: find the subject, win the point
 
-5. INCORRECT: "Dr. Chen discussed the findings with Dr. Park before she published her paper."
-   ANALYSIS: "She" could be either doctor.
-   CORRECT: "Dr. Chen discussed the findings with Dr. Park before Dr. Chen published her paper."
+Go back to the box of chocolates from the opening. The trap was never the rule; the rule is the simplest one in grammar. The trap was the four words *of chocolates* dropped between *box* and its verb, and the cure was a single mechanical habit: cross out the phrase, find the head noun, match the verb. Everything in this guide is a variation on that one move, applied to compounds, indefinite pronouns, inverted sentences, collective nouns, relative clauses, and the pronouns that have to point cleanly at a single noun. The disguises change. The routine does not.
 
-6. INCORRECT: "After the government proposed the new regulation, they immediately faced criticism."
-   ANALYSIS: "They" is ambiguous after a singular collective noun ("government") - also "they" disagrees with the singular "government." Two errors simultaneously.
-   CORRECT: "After the government proposed the new regulation, government officials immediately faced criticism."
-   OR: "After the government proposed the new regulation, it immediately faced criticism." (singular pronoun, but may still feel odd)
-   The clearest fix names the specific agents ("officials") rather than using either pronoun.
-
-7. INCORRECT: "In the final report, it concludes that more research is needed."
-   ANALYSIS: "It" has no specific antecedent - the report is a thing, not a person.
-   CORRECT: "The final report concludes that more research is needed."
-   OR: "In the final report, the authors conclude that more research is needed."
-
-8. INCORRECT: "The university informed the department that it needed to revise its procedures."
-   ANALYSIS: "It" could refer to the university or the department.
-   CORRECT: "The university informed the department that the department needed to revise its procedures."
-
-9. INCORRECT: "When the hypothesis conflicted with the data, the team decided to revise it."
-   ANALYSIS: "It" could be the hypothesis or the data.
-   CORRECT: "When the hypothesis conflicted with the data, the team decided to revise the hypothesis."
-
-10. INCORRECT: "The editor reviewed the draft with the author and marked it for revision."
-    ANALYSIS: "It" could be the draft or something else. Here context is clearer but still imprecise.
-    CORRECT: "The editor reviewed the draft with the author and marked the draft for revision."
-
----
-
-## Pronoun Pattern 3: No Antecedent (Vague or Missing Reference)
-
-THE RULE: A pronoun must have a specific noun antecedent in the sentence or immediately preceding sentence. Pronouns referring to implied concepts, to sentences as a whole, or to unnamed groups create no-antecedent errors.
-
-The no-antecedent rule is tested through two main patterns on the Digital SAT: (1) "they" with no named group ("In the study, they found...") and (2) "which/this/that" referring to an entire preceding clause ("The deadline was extended, which helped"). Both require restructuring: name the referent for "they"; nominalize the concept for "which/this/that."
-
-EXAMPLES:
-
-1. INCORRECT: "In the article, they argue that climate policy requires bipartisan support."
-   WHO is "they"? No specific noun antecedent.
-   CORRECT: "In the article, the authors argue that climate policy requires bipartisan support."
-
-2. INCORRECT: "When you study grammar carefully, it becomes easier over time."
-   "It" refers to nothing specific - "studying grammar" is implied but not named.
-   CORRECT: "When you study grammar carefully, grammar becomes easier over time."
-   OR: "Grammar becomes easier when you study it carefully." (now "it" refers to "grammar")
-
-3. INCORRECT: "In France, they have universal healthcare."
-   "They" has no antecedent.
-   CORRECT: "In France, the government provides universal healthcare."
-   OR: "France has universal healthcare."
-
-4. INCORRECT: "The experiment was poorly designed, which affected the results."
-   "Which" refers to the entire preceding clause (a prohibited reference in formal writing).
-   CORRECT: "The experiment's poor design affected the results."
-   OR: "Because the experiment was poorly designed, the results were affected."
-
-5. INCORRECT: "She excels at writing, and this has helped her career."
-   "This" refers to the entire preceding clause, not a specific noun.
-   CORRECT: "Her writing ability has helped her career."
-   OR: "She excels at writing, and this skill has helped her career."
-
-6. INCORRECT: "The study used a flawed sampling method, which the peer reviewers criticized."
-   "Which" refers ambiguously to "sampling method" or the whole situation.
-   CORRECT: "The peer reviewers criticized the study's flawed sampling method."
-
-7. INCORRECT: "In many urban areas, they are facing housing shortages."
-   CORRECT: "Many urban areas are facing housing shortages."
-   OR: "In many urban areas, residents are facing housing shortages."
-
-8. INCORRECT: "The policy requires that you submit documentation within thirty days."
-   "You" has no specific antecedent in formal writing contexts.
-   CORRECT: "The policy requires that applicants submit documentation within thirty days."
-
----
-
-## Pronoun Pattern 4: Pronoun Case Errors
-
-THE RULE: Pronouns have three forms depending on their grammatical role: subject (I, he, she, we, they, who), object (me, him, her, us, them, whom), and possessive (my, his, her, our, their, whose).
-
-THE SAT'S PRIMARY EXPLOIT: compound structures that mask the required case.
-
-The compound structure makes wrong pronoun case sound natural because the compound creates a slight cognitive buffer between the preposition or verb and the pronoun. "Between you and me" sounds slightly unusual to some speakers; "between you and I" sounds formal. But the rule is clear: prepositions require object pronouns, always. The compound does not change the required case.
-
-EXAMPLES:
-
-1. INCORRECT: "The award was presented to Elena and I."
-   CORRECT: "The award was presented to Elena and me."
-   Test: remove the compound ("to I" → clearly wrong; "to me" → correct).
-
-2. INCORRECT: "Between you and I, the methodology was flawed."
-   CORRECT: "Between you and me, the methodology was flawed."
-   "Between" is a preposition → requires objective case "me."
-
-3. INCORRECT: "The committee asked her and I to review the document."
-   CORRECT: "The committee asked her and me to review the document."
-   "Asked [object] to review" → object case. Test: "asked I" → wrong; "asked me" → correct.
-
-4. INCORRECT: "Whom do you think will lead the project?"
-   CORRECT: "Who do you think will lead the project?"
-   "Who" is the subject of "will lead," not the object of "think."
-   Test: rearrange: "You think [who/whom] will lead the project." → "He will lead" → "who."
-
-5. INCORRECT: "To who did you address the letter?"
-   CORRECT: "To whom did you address the letter?"
-   "Whom" is the object of the preposition "to."
-   Test: "You addressed the letter to [he/him]" → "him" → "whom."
-
-6. INCORRECT: "It was her who submitted the winning proposal."
-   CORRECT: "It was she who submitted the winning proposal."
-   After "it was," the subject pronoun is required (predicate nominative).
-   OR restructure: "She submitted the winning proposal."
-
-7. INCORRECT: "We scientists must advocate for evidence-based policy."
-   CORRECT: "We scientists must advocate for evidence-based policy." (already correct)
-   Test: "We must advocate" → "we" is correct. The noun "scientists" is an appositive.
-
-8. INCORRECT: "Us researchers rarely receive credit for our work."
-   CORRECT: "We researchers rarely receive credit for our work."
-   Test: "Us rarely receive" → wrong; "We rarely receive" → correct.
-
-   The noun appositive ("researchers") doesn't change the pronoun case requirement. "We" and "us" can both appear before an appositive noun, but the case is determined by the pronoun's grammatical role (subject vs object), not by the noun following it.
-
-9. INCORRECT: "The decision was made by whomever was in charge at the time."
-   CORRECT: "The decision was made by whoever was in charge at the time."
-   "Whoever" is the subject of "was in charge" (the entire clause is the object of "by").
-
-   The key test: identify the function of the pronoun within its own clause. The clause is "whoever was in charge at the time." Within this clause, "whoever" is the subject of "was." Subject form = "whoever." The preposition "by" governs the entire clause, not just the pronoun.
-
-10. INCORRECT: "Please give the report to whoever you think is most qualified."
-    CORRECT: "Please give the report to whoever you think is most qualified."
-    "Whoever" is the subject of "is most qualified" - "you think" is a parenthetical.
-    Test without parenthetical: "give the report to whoever is most qualified" → "whoever" as subject → correct.
-
-## Advanced Agreement Patterns: Harder SAT Examples
-
-The following examples represent the higher-difficulty end of the subject-verb agreement spectrum. These are the sentences where students who know the rule but haven't internalized it will still make errors.
-
-### Hard Examples: Multiple Intervening Phrases
-
-1. INCORRECT: "The significance of the early clinical trials conducted in the 1990s have not been fully appreciated."
-   CORRECT: "The significance of the early clinical trials conducted in the 1990s has not been fully appreciated."
-   Subject: "significance" (singular). Everything between: two prepositional phrases.
-
-2. INCORRECT: "The implications of adopting this policy across all departments and divisions of the organization remain unclear to the executive team."
-   CORRECT: "The implications of adopting this policy across all departments and divisions of the organization remain unclear to the executive team."
-   Wait - "implications" is plural → "remain" is correct. The sentence is already correct.
-   Revised trap: "The implication of adopting this policy across all departments and divisions of the organization remain unclear."
-   CORRECT: "The implication... remains unclear." Subject: "implication" (singular).
-
-3. INCORRECT: "The presence of both these factors in the population studies of industrialized nations suggest a systemic cause."
-   CORRECT: "The presence of both these factors in the population studies of industrialized nations suggests a systemic cause."
-   Subject: "presence" (singular). Three prepositional phrases obscure the subject.
-
-4. INCORRECT: "Awareness among members of the scientific community regarding the limitations of the current peer review process have grown significantly."
-   CORRECT: "Awareness among members of the scientific community regarding the limitations of the current peer review process has grown significantly."
-   Subject: "awareness" (singular). Four phrases separate subject from verb.
-
-### Hard Examples: Inverted Structures
-
-5. INCORRECT: "Only in the final stages of the review process was the critical errors detected."
-   CORRECT: "Only in the final stages of the review process were the critical errors detected."
-   Subject: "errors" (plural, post-verb) → "were."
-
-6. INCORRECT: "Presented at the conclusion of the symposium were a summary of findings."
-   CORRECT: "Presented at the conclusion of the symposium was a summary of findings."
-   Subject: "summary" (singular, post-verb) → "was."
-
-### Hard Examples: "The Number" vs "A Number"
-
-7. INCORRECT: "A number of significant changes has been proposed to the curriculum."
-   CORRECT: "A number of significant changes have been proposed to the curriculum."
-   "A number of" = "many" → plural verb.
-
-8. INCORRECT: "The number of proposed changes to the curriculum have increased significantly."
-   CORRECT: "The number of proposed changes to the curriculum has increased significantly."
-   "The number" = singular concept → singular verb.
-
-### Hard Examples: Quantity Expressions
-
-9. INCORRECT: "Thirty percent of the respondents was in favor of the proposal."
-   CORRECT: "Thirty percent of the respondents were in favor of the proposal."
-   "Respondents" is countable plural → plural verb.
-
-10. INCORRECT: "Thirty percent of the sample were analyzed."
-    CORRECT: "Thirty percent of the sample was analyzed."
-    "Sample" is a mass noun in this context → singular.
-
-## Advanced Pronoun Patterns
-
-### Hard Pronoun Case: "Whoever" vs "Whomever"
-
-1. INCORRECT: "The grant will be awarded to whomever demonstrates the most innovative approach."
-   CORRECT: "The grant will be awarded to whoever demonstrates the most innovative approach."
-   "Whoever" is the subject of "demonstrates" in the embedded clause. The entire clause "whoever demonstrates the most innovative approach" is the object of "to."
-   Test: substitute "he/him": "he demonstrates" → "he" → "whoever."
-
-   The key insight: the object of "to" is the entire embedded clause ("whoever...approach"), not just the pronoun. Within that clause, the pronoun serves as subject. Case is determined by function within the clause, not by the preposition governing the whole clause.
-
-2. INCORRECT: "Please forward the report to whoever the committee designates."
-   CORRECT: "Please forward the report to whomever the committee designates."
-   "Whomever" is the object of "designates" in the embedded clause.
-   Test: "the committee designates him" → "him" → "whomever."
-
-   Compare directly with the previous example: "to whoever was in charge" (whoever = subject of was) vs "to whomever the committee designates" (whomever = object of designates). The distinction is always determined by the pronoun's role within its own clause, not by the preposition governing the clause.
-
-### Hard Pronoun: Reflexive Pronouns
-
-3. INCORRECT: "Please send your responses to myself or a colleague."
-   CORRECT: "Please send your responses to me or a colleague."
-   "Myself" is a reflexive/intensive pronoun. It should only be used when the subject and object are the same ("I hurt myself") or for emphasis ("I myself reviewed the data"). Using "myself" as an object is incorrect.
-
-4. INCORRECT: "The research was conducted by Dr. Park and myself."
-   CORRECT: "The research was conducted by Dr. Park and me."
-   Same issue: "myself" cannot replace "me" as an object pronoun.
-
-### Hard Pronoun: "It" Reference
-
-5. INCORRECT: "The committee revised their position after reviewing the new evidence."
-   CORRECT: "The committee revised its position after reviewing the new evidence."
-   "Committee" is singular → "its." (Not "their.")
-
-6. INCORRECT: "Each organization must file their tax documents by April 15."
-   CORRECT: "Each organization must file its tax documents by April 15."
-   "Organization" is singular → "its."
-
-## The Connection Between Agreement Rules and Pronoun Rules
-
-Subject-verb agreement and pronoun-antecedent agreement are closely related because both require the same underlying skill: identifying the grammatical subject or antecedent accurately, ignoring nearby distractors.
-
-In both cases, the SAT's strategy is identical: place the correct antecedent or subject far from the verb or pronoun, and place an attractively distracting noun of the wrong number nearby. Both traps are defeated by the same discipline: identify the anchor (subject or antecedent) deliberately, ignore the distractors, match the verb or pronoun to the anchor. Students who have not learned to ignore intervening material will make errors in both categories.
-
-The fix for both rule types is the same three-step mental process: (1) identify the anchor (subject or antecedent), (2) isolate it from distractors, (3) match the verb or pronoun to the anchor. This unified approach means that practicing subject-verb agreement also improves pronoun agreement accuracy, and vice versa. The two rule categories reinforce each other during preparation.
-
-Students who practice both rules from this unified perspective - always finding the anchor, always ignoring distractors, always matching to the anchor - develop the grammatical reading accuracy that makes Standard English Conventions questions among the most reliable correct answers in the entire Digital SAT section.
-
-## Practice Protocol for Mastery
-
-Given the frequency with which both rules appear on the Digital SAT, the preparation investment in subject-verb agreement and pronoun clarity produces the highest return per hour of any grammar rule category.
-
-STEP 1: DELIBERATE IDENTIFICATION PRACTICE
-Take 15 sentences per day for five days. For each sentence: identify the grammatical subject (cross out intervening phrases if helpful), identify all pronouns and their antecedents, check agreement in both categories. Do not time yourself during this phase - accuracy before speed.
-
-Using a pencil to physically cross out prepositional phrases during this phase is highly effective: it makes the subject identification concrete and visible. Students who practice this physical technique during study build the same mental bracketing automatically under timed conditions.
-
-STEP 2: ERROR PATTERN IDENTIFICATION
-After each practice session, categorize any errors by pattern type (Pattern 1 through 7 for agreement; Patterns 1 through 4 for pronouns). If Pattern 1 (prepositional phrase) errors dominate, spend an additional day on that pattern alone. Pattern-specific practice is more efficient than general practice.
-
-Most students find that one or two patterns account for the majority of their errors. Identifying and targeting these patterns specifically - rather than doing general grammar practice - produces faster improvement. A student who makes 80 percent of agreement errors on Pattern 1 (prepositional phrases) gains more from 20 focused Pattern 1 examples than from 20 general grammar questions.
-
-STEP 3: TIMED PRACTICE
-Complete 20 agreement and pronoun questions under timed conditions (target: 30 seconds each). Most agreement and pronoun questions should be answerable in 20 to 30 seconds once the rule is internalized - they are among the fastest Digital SAT questions to answer correctly once the subject has been identified. Slower times indicate that subject identification is still requiring conscious effort rather than automatic recognition.
-
-Tracking time per question during practice reveals where the automation is incomplete. Questions that take more than 45 seconds indicate the specific pattern where deliberate rule application is still required - and where additional targeted practice will produce the most time savings on exam day.
-
-The benchmark: for a student who has fully automated subject-verb agreement and pronoun clarity, these questions take 15 to 25 seconds each. That efficiency - gaining 10 to 15 seconds per question compared to the unaided approach - across eight to ten agreement and pronoun questions per module translates to 80 to 150 seconds of saved time that can be redirected to harder questions.
-
-WEEK 2 ONWARD: PASSIVE EXPOSURE
-Read edited academic or professional prose with a light meta-awareness of subject-verb agreement. Notice how correct agreement sounds natural. When an error appears in practice, it should stand out as discordant before conscious analysis is applied. This "grammar ear" develops through volume of exposure to correct English combined with the pattern-recognition training from Steps 1 through 3.
-
-Recommended reading sources for building the grammar ear: journal articles in any field (high agreement standards), quality newspaper editorials, and published academic essays. Students who read these sources regularly for 20 minutes per day during the preparation period build passive exposure that reinforces the explicit pattern training from Steps 1 through 3.
-
-The target: by exam day, subject-verb agreement and pronoun questions should feel like verification tasks - checking that the agreement you already intuitively perceived as correct is indeed correct - rather than analytical tasks requiring deliberate rule application. Verification is faster and more reliable than analysis, and it is the state that deliberate practice produces.
-
-Students who arrive at this verification state report that subject-verb agreement questions feel "obvious" - they see the sentence, the correct form jumps out, they select it, and move on in under 20 seconds. This is the goal. The apparent ease is not lack of rigor; it is the result of rigor applied earlier, during practice, that has been converted into automatic recognition.
-
-## Pattern 7 Extended: Fractions, Portions, and Percentages
-
-Fractions and portions follow the same "of noun" agreement rule as percentages:
-
-"Half of the committee was present." (committee = singular collective → was)
-"Half of the members were present." (members = countable plural → were)
-"Two-thirds of the data is inconclusive." (data = mass noun → is)
-"Two-thirds of the samples are contaminated." (samples = countable → are)
-"A majority of the vote was in favor." (vote = mass noun → was)
-"A majority of the participants were in favor." (participants = countable → were)
-
-The pattern is identical to percentages and to context-dependent indefinite pronouns: the noun in the "of" phrase determines singular or plural. Master this one rule and all three constructions become identical in how they work.
-
-## Pronoun Pattern 3: Additional Examples Beyond "They"
-
-The no-antecedent error is not limited to "they." It appears with any pronoun when the referent is implied but not named.
-
-ADDITIONAL NO-ANTECEDENT EXAMPLES:
-
-1. INCORRECT: "In the study, it was noted that..."
-   "It" has no specific antecedent. The study itself cannot note - the researchers can.
-   CORRECT: "In the study, the researchers noted that..."
-   OR: "The study noted that..." (treating the study as an agent)
-
-2. INCORRECT: "After the board voted, this was reported to shareholders."
-   "This" refers to the vote, an event implied by the sentence but not a specific noun.
-   CORRECT: "After the board voted, the outcome was reported to shareholders."
-   OR: "After the board voted, the vote was reported to shareholders."
-
-3. INCORRECT: "When you fail to document your methods, it becomes impossible to replicate."
-   "It" refers to "replication" - implied but unnamed.
-   CORRECT: "When you fail to document your methods, replication becomes impossible."
-
-## Full Agreement and Pronoun Quick Test
-
-For every Digital SAT grammar question involving agreement or pronouns, run this 15-second check:
-
-AGREEMENT CHECK:
-Step 1: Find the verb (underlined or in question).
-Step 2: Ask "who or what [verb]?" - identify the subject.
-Step 3: Ignore all prepositional phrases and relative clauses between subject and verb.
-Step 4: Is the verb singular or plural? Does it match the subject?
-Step 5: Check for special patterns (indefinite pronoun, collective noun, inverted structure, or/nor).
-
-PRONOUN CHECK:
-Step 1: Find the pronoun (underlined or in question).
-Step 2: Identify its antecedent - the specific noun it refers to.
-Step 3: Is the reference clear (only one possible antecedent)?
-Step 4: Does the pronoun agree in number with the antecedent?
-Step 5: Is the pronoun in the correct case (subject, object, possessive)?
-
-This 10-step combined check takes approximately 15 seconds for a straightforward sentence and 30 seconds for a complex one. At this speed, a student can handle all subject-verb and pronoun questions well within the module's time budget while maintaining accuracy.
-
-## Full Example Bank: Every Verb Agreement Context on the Digital SAT
-
-The following examples cover every sentence construction the Digital SAT uses to test subject-verb agreement. Students who can correctly identify the subject and select the right verb in each of these will be prepared for any agreement question they encounter.
-
-### Group A: Gerund Phrase Subjects
-
-When a gerund phrase (verb + -ing used as a noun) is the subject, it is always singular.
-
-1. CORRECT: "Studying multiple subjects simultaneously is challenging."
-   Subject: "Studying multiple subjects simultaneously" (gerund phrase) → singular → "is."
-
-2. INCORRECT: "Conducting experiments without proper controls are considered poor methodology."
-   CORRECT: "Conducting experiments without proper controls is considered poor methodology."
-   Gerund phrase subject → singular.
-
-   The trap here: "experiments" (plural) follows "conducting" and precedes the verb, appearing to be the subject. But "conducting experiments without proper controls" is one gerund phrase functioning as a singular noun - one act. Strip it to "Conducting is considered poor methodology" → singular → correct.
-
-3. INCORRECT: "Identifying the sources of systematic error in large-scale surveys require careful attention."
-   CORRECT: "Identifying the sources of systematic error in large-scale surveys requires careful attention."
-   Gerund phrase → singular.
-
-   Multiple prepositional phrases ("of systematic error," "in large-scale surveys") follow the gerund, creating ample opportunity for the agreement trap. Strip them away: "Identifying requires careful attention." Clean singular agreement.
-
-### Group B: Noun Clause Subjects
-
-When a noun clause (a clause used as a noun) is the subject, it is singular.
-
-4. CORRECT: "What the researchers found confirms the original hypothesis."
-   "What the researchers found" = noun clause functioning as subject → singular → "confirms."
-
-   Test: substitute "it" for the noun clause: "It confirms the original hypothesis." Singular → "confirms." The substitution test works for any noun clause subject: replace the clause with "it" and the correct agreement becomes obvious.
-
-5. INCORRECT: "That the results were unexpected have not been adequately addressed."
-   CORRECT: "That the results were unexpected has not been adequately addressed."
-   Noun clause → singular.
-
-6. INCORRECT: "Whether these factors are causally related or merely correlated remain an open question."
-   CORRECT: "Whether these factors are causally related or merely correlated remains an open question."
-   Noun clause ("Whether these factors...") → singular.
-
-### Group C: Titles, Names, and Units
-
-7. CORRECT: "'The Collected Works of Margaret Mead' is an essential reference."
-   Book title (singular work) → "is."
-
-   All titles (books, films, articles, artworks, journals) are treated as singular units regardless of whether the title itself contains plural words. Even "The Complete Works" would be singular as a title because it refers to one work.
-
-8. CORRECT: "'Great Expectations' remains one of Dickens's most celebrated novels."
-   Title containing a plural noun ("expectations") → still singular as a work → "remains."
-
-8. CORRECT: "The United States has a complex federal system."
-   Country name treated as singular unit → "has."
-
-9. CORRECT: "Economics is a required subject for business majors."
-   Academic field ending in -s → singular.
-
-10. CORRECT: "Ten miles is a significant distance to run without training."
-    Distance treated as a unit → singular.
-
-11. INCORRECT: "Thirty percent of the world's population live in poverty."
-    CORRECT: "Thirty percent of the world's population lives in poverty."
-    "Population" = mass noun → singular.
-
-    Contrast: "Thirty percent of the residents live in poverty." "Residents" = countable plural → "live." The noun in the "of" phrase determines the verb number for quantity expressions.
-
-### Group D: Expletive Constructions ("There is/are," "Here is/are")
-
-12. INCORRECT: "There was several major flaws in the original experimental design."
-    CORRECT: "There were several major flaws in the original experimental design."
-    Subject: "flaws" (plural) → "were."
-
-13. INCORRECT: "There is a number of important considerations to keep in mind."
-    CORRECT: "There are a number of important considerations to keep in mind."
-    "A number of" = "many" → "considerations" (plural) → "are."
-
-14. CORRECT: "There is one fundamental question that all these studies must answer."
-    Subject: "question" (singular) → "is."
-
-15. INCORRECT: "Here is the three steps for completing the process."
-    CORRECT: "Here are the three steps for completing the process."
-    Subject: "steps" (plural) → "are."
-
-### Group E: Subject-Verb Agreement in Relative Clauses
-
-16. INCORRECT: "The data, which represents months of collection, support the hypothesis."
-    Subject of main clause: "data" (treated as plural here) → "support."
-    Subject of relative clause: "which" → refers to "data" → "represents" (if data is singular) or "represent" (if data is plural). The sentence must be internally consistent.
-    If treating "data" as singular: "The data, which represents months of collection, supports the hypothesis."
-    If treating "data" as plural: "The data, which represent months of collection, support the hypothesis."
-
-17. CORRECT: "The criteria that the committee uses are clearly defined."
-    Main clause subject: "criteria" (plural) → "are."
-    Relative clause: "that" refers to "criteria" → "uses" (the committee uses) - wait, "the committee" is the subject of the relative clause, not "that." "uses" agrees with "committee" (singular) → correct.
-
-## Complete Pronoun Reference Drill: 20 Sentences
-
-The following 20 sentences cover every pronoun clarity pattern the Digital SAT tests. Some are correct as written; identify which, and explain why.
-
-SENTENCE 1: "The laboratory equipment, which the researchers had carefully calibrated, produced accurate measurements."
-STATUS: CORRECT. "Which" unambiguously refers to "laboratory equipment."
-
-Note also the verb agreement: subject "equipment" (singular) → "produced" (singular). The relative clause "which the researchers had calibrated" is nonessential, set off with commas, and does not affect the main clause agreement.
-
-SENTENCE 2: "After reviewing the patient's records, the doctor revised the diagnosis, which the patient found confusing."
-STATUS: PROBLEMATIC. "Which" refers to the entire situation (revised diagnosis) rather than a specific noun. Also: "which" could refer to "the records" or "the diagnosis."
-BETTER: "After reviewing the patient's records, the doctor revised the diagnosis, a change the patient found confusing."
-
-   Converting "which" to a noun phrase ("a change") is a standard technique for fixing broad-reference "which" errors. It turns the relative clause into an appositive phrase, which requires a specific noun referent and thus eliminates the ambiguity.
-
-SENTENCE 3: "The supervisor told the analyst that their report needed revision."
-STATUS: AMBIGUOUS AND INCORRECT. Two errors: (1) "their" is plural but both potential antecedents ("supervisor," "analyst") are singular; (2) "their" is ambiguous even setting aside number - which singular person's report is meant? Both errors require correction.
-BETTER: "The supervisor told the analyst that the analyst's report needed revision."
-OR: "The supervisor told the analyst, 'Your report needs revision.'"
-
-SENTENCE 4: "Both of the proposed approaches have significant merit."
-STATUS: CORRECT. "Both" is plural → "have" is correct.
-
-   A parallel construction: "All of the approaches have merit" (all = plural here, "approaches" are countable). "All of the research has merit" (all = singular here, "research" is mass noun). Both and all follow the same logic: "both" is always plural; "all" depends on the "of" noun.
-
-Contrast with "Either of the proposed approaches has significant merit." "Either" alone = singular → "has." The same "of the proposed approaches" phrase follows both, but "both" (always plural) requires "have" while "either" (always singular) requires "has."
-
-SENTENCE 5: "Neither the experimental results nor the theoretical predictions supports the original model."
-STATUS: INCORRECT. Closer subject: "predictions" (plural) → "support."
-CORRECT: "Neither the experimental results nor the theoretical predictions support the original model."
-
-SENTENCE 6: "The board approved the CEO's recommendation, but some members were not informed about it in advance."
-STATUS: AMBIGUOUS. "It" could refer to the recommendation, the approval, or the decision.
-BETTER: "The board approved the CEO's recommendation, but some members were not informed about the recommendation in advance."
-
-SENTENCE 7: "Each of the twelve studies included in the meta-analysis have been peer-reviewed."
-STATUS: INCORRECT. "Each" is singular → "has been peer-reviewed."
-CORRECT: "Each of the twelve studies included in the meta-analysis has been peer-reviewed."
-
-This sentence combines Pattern 1 (prepositional phrase between subject and verb) and Pattern 5 (indefinite pronoun subject). Two layers of trap: "twelve studies" (plural) between "each" (singular subject) and the verb. Students who also confuse "each" for a plural fail at both layers. The key is recognizing "each" as an always-singular indefinite pronoun first.
-
-SENTENCE 8: "The team that performed best in the preliminary rounds advances to the finals."
-STATUS: CORRECT. "Team" is the subject (singular) → "advances."
-
-   Note: "that performed best in the preliminary rounds" is a relative clause - essential (no commas), specifying which team. Within the relative clause: "that" refers to "team" (singular) → "performed" (singular). Two agreement decisions, both singular, both correct.
-
-SENTENCE 9: "In the revised version of the report, they added three new recommendations."
-STATUS: INCORRECT. "They" has no specific noun antecedent in the sentence. "The report" is an inanimate object; "they" needs human referents who are not named.
-CORRECT: "In the revised version of the report, the authors added three new recommendations."
-
-This is the "in X, they" no-antecedent pattern. It is one of the most frequently tested pronoun clarity errors because it arises naturally when writers assume the reader knows who "they" refers to from context. The Digital SAT treats this as an error requiring a named referent. Whenever "they" follows a location or document phrase ("in the report," "in France," "in the laboratory"), the referent is unnamed. The fix: name the specific agents ("the authors," "the researchers," "the French government").
-
-SENTENCE 10: "Neither the primary investigator nor the co-authors was available for comment."
-STATUS: INCORRECT. Closer subject: "co-authors" (plural) → "were."
-CORRECT: "Neither the primary investigator nor the co-authors were available for comment."
-
-   The "neither...nor" rule with mixed-number subjects: if the closer subject is plural ("co-authors"), use a plural verb ("were"). If the closer subject is singular ("the primary investigator"), use a singular verb ("was"). Rearranging: "Neither the co-authors nor the primary investigator was available for comment." Now the closer subject is singular → "was."
-
-SENTENCE 11: "The committee's decision to delay the vote, which many observers found puzzling, was announced on Thursday."
-STATUS: CORRECT. "Which" refers most naturally to "decision" (the thing announced on Thursday that was puzzling). Context makes the reference clear. Acceptable.
-
-   In Digital SAT pronoun questions, "which" referring to the immediately preceding noun phrase (here, "the committee's decision to delay the vote") is generally acceptable even when the noun phrase itself contains multiple nouns. The grammatically nearest noun is "vote," but the logical referent is "decision" - and when a relative clause follows a complex noun phrase, readers naturally interpret "which" as referring to the head noun of that phrase ("decision," not "vote").
-
-   Compare with a genuinely ambiguous version: "The committee announced the delay of the vote, which many observers found puzzling." Here "which" could refer to the announcement, the delay, or the vote. Ambiguous. The clarity in Sentence 11 comes from the sentence structure making "decision" the clear focus.
-
-SENTENCE 12: "Some of the equipment need to be recalibrated before the next experiment."
-STATUS: INCORRECT. "Equipment" is uncountable/mass noun → singular verb.
-CORRECT: "Some of the equipment needs to be recalibrated before the next experiment."
-
-Mass nouns vs countable nouns: equipment, furniture, information, research, data (sometimes), evidence, knowledge, advice, feedback. All mass nouns. They cannot be pluralized in standard English ("one equipment," "two equipments" - not standard). Mass nouns take singular verbs even after "some of the."
-
-A quick test for mass nouns: can you put "a" before the noun and a number before it in standard usage? "A piece of equipment" works; "an equipment" does not. "A data point" works; "a data" does not. If the noun requires a unit word to be counted ("pieces of equipment," "items of evidence"), it is a mass noun and takes singular verbs.
-
-SENTENCE 13: "The director and the department heads has reviewed the proposal."
-STATUS: INCORRECT. "Director and department heads" is a compound subject → plural → "have reviewed."
-CORRECT: "The director and the department heads have reviewed the proposal."
-
-   The "and" compound always creates a plural subject. There are no exceptions (beyond the stylistic convention of treating very close compound subjects as a unit, which is rare in formal academic writing and not tested on the Digital SAT). If "and" joins subjects, the verb is plural.
-
-SENTENCE 14: "The faculty, together with the student representatives, have voted to extend the deadline."
-STATUS: INCORRECT. "Together with" is a prepositional phrase; subject is "faculty" (singular) → "has voted."
-CORRECT: "The faculty, together with the student representatives, has voted to extend the deadline."
-
-   Contrast: "The faculty and the student representatives have voted to extend the deadline." Using "and" creates a genuine compound subject → plural → "have." The presence of commas around "together with the student representatives" is itself a signal that this is a parenthetical phrase, not a compound conjunction.
-
-SENTENCE 15: "There are one factor that has consistently predicted outcomes across all studies."
-STATUS: INCORRECT. Subject: "factor" (singular) → "is."
-CORRECT: "There is one factor that has consistently predicted outcomes across all studies."
-
-   In "There is/are" constructions, the post-verb noun is the subject. Test by rearranging: "One factor is there" → "factor" is singular → "is." Note also the relative clause: "that has consistently predicted" → "that" refers to "factor" (singular) → "has" is correct.
-
-SENTENCE 16: "Everyone who participated in the trial must submit their follow-up questionnaire within 30 days."
-STATUS: INCORRECT. "Everyone" is singular → "his or her follow-up questionnaire."
-CORRECT: "Everyone who participated in the trial must submit his or her follow-up questionnaire within 30 days."
-OR: "All participants in the trial must submit their follow-up questionnaires within 30 days."
-
-Both corrections are grammatically acceptable. The Digital SAT will typically present one of these as the correct answer choice. Note that the restructured plural version ("all participants... their questionnaires") also makes "questionnaires" plural to match.
-
-SENTENCE 17: "The significance of these findings for future policy decisions have not been fully articulated."
-STATUS: INCORRECT. Subject: "significance" (singular) → "has not been."
-CORRECT: "The significance of these findings for future policy decisions has not been fully articulated."
-
-   Stripped sentence: "The significance has not been fully articulated." Two prepositional phrases ("of these findings," "for future policy decisions") are removed. The bare sentence is clear and correct. The stripped-sentence test works reliably for any amount of intervening material.
-
-SENTENCE 18: "The data that were collected over the three-year period support the hypothesis."
-STATUS: CORRECT. "Data" treated as plural → "were" and "support" both correct.
-
-Note the consistency requirement: both the relative clause verb ("were collected") and the main clause verb ("support") must agree with "data." If "data" is treated as plural, both verbs must be plural. Inconsistency within a sentence ("the data that was collected... support") would be an error even if one of the verbs is correct.
-
-SENTENCE 19: "Neither the original study nor its replication were able to establish causation."
-STATUS: INCORRECT. Closer subject: "replication" (singular) → "was."
-CORRECT: "Neither the original study nor its replication was able to establish causation."
-
-   The farther subject "study" is singular; the closer subject "replication" is also singular. Both are singular, so the agreement is clear: "was." The trickier case is when the subjects differ in number - as in examples 5 through 8 under Pattern 2, where choosing which subject to match requires identifying the closer one.
-
-SENTENCE 20: "The study's reliance on self-reported data, combined with a small sample size, raise questions about its generalizability."
-STATUS: INCORRECT. "Combined with a small sample size" is a prepositional phrase. Subject: "reliance" (singular) → "raises."
-CORRECT: "The study's reliance on self-reported data, combined with a small sample size, raises questions about its generalizability."
-
-This is a two-pattern combination: Pattern 1 (prepositional phrase between subject and verb: "of self-reported data") and a second intervening phrase ("combined with a small sample size"). Two layers of distraction. The stripped sentence: "The reliance raises questions" - singular subject, singular verb, correct.
-
-## The Grammar of Academic Writing: Why These Rules Matter
-
-Subject-verb agreement and pronoun clarity are not arbitrary conventions. They serve communication.
-
-AGREEMENT ENABLES PREDICTION: When a reader encounters a sentence with a clearly identified subject, the verb agreement signals how many entities are involved before the meaning is fully processed. "The collection of rare manuscripts was" tells the reader the collection (one thing) underwent something - before the predicate is complete, the reader knows it is about the single collection, not the individual manuscripts. Agreement carries information.
-
-For academic writers: a sentence whose subject-verb agreement is incorrect actively misleads the reader at the sub-second level before content is even processed. Fixing agreement errors is not pedantry; it is repairing a broken communication signal.
-
-This predictive function is why agreement errors are so cognitively disruptive: they give the reader the wrong prediction. "The collection of rare manuscripts were" sets up the reader to think about individual manuscripts, then the predicate reveals it was the collection - a small but genuine cognitive disruption. The SAT tests agreement because it matters for clear communication.
-
-PRONOUN CLARITY ENABLES EFFICIENT REFERENCE: Pronouns allow writers to refer to previously mentioned nouns without repeating them, which would be cumbersome. But this efficiency only works when the reference is unambiguous. An ambiguous pronoun forces the reader to stop, backtrack, and determine the intended referent - exactly what agreement and clarity rules are designed to prevent.
-
-Clear pronoun reference is a marker of organized thinking. A writer who uses pronouns clearly has a clean mental model of the referents in their sentences. A writer who uses ambiguous pronouns is either thinking unclearly or writing too quickly to check their work. The Digital SAT tests pronoun clarity because it is a genuine indicator of writing quality.
-
-Students who understand WHY these rules exist - that they serve the reader's ability to process information smoothly - are more motivated to apply them and more likely to produce correct usage in their own writing. The SAT tests these rules because they matter in real academic prose. Preparation for the test is preparation for the writing that college courses will require.
-
-The two rules in this article - subject-verb agreement and pronoun clarity - are foundational to academic writing credibility. A paper with consistent agreement errors reads as inattentive and unclear. A paper with clear pronoun references reads as organized and precise. The preparation students do for the SAT is simultaneously preparation for the writing standard that college instructors will expect.
-
-The Digital SAT tests these rules not as arbitrary gatekeeping but as a measure of the writing competency that successful academic work requires. Students who achieve mastery of subject-verb agreement and pronoun clarity will write with more authority, more clarity, and more credibility in every academic context they enter. The test preparation is also preparation for the writing life that follows the test.
-
----
+That is the reason this category rewards practice so richly. You are not learning an open-ended skill that improves slowly forever; you are learning a finite kit of disguises and one routine that defeats all of them, and the gap between recognizing the topic and owning it closes fast once you drill the cross-out until it is automatic. Take ten disguised sentences, cover the choices, find the subject in each, and check yourself, then do ten more on the [SAT Reading and Writing practice tool](https://reportmedic.org/tools/sat-reading-writing-practice.html) until the head noun jumps out before the decoys can pull you. Read to the blank, ask who or what is doing the verb, follow the answer back past every modifier, and match. Do that every time and the most tested rule on the Writing section becomes the most reliable points you own.
 
 ## Frequently Asked Questions
 
-**Q1: Why is subject-verb agreement tested so frequently on the Digital SAT?**
+### Why is it "the box of chocolates is" and not "are"?
 
-Subject-verb agreement errors are among the most common in academic writing, particularly the intervening-phrase pattern where writers match the verb to a nearby noun rather than the true subject. The SAT tests this because identifying the grammatical subject despite intervening material is a genuine academic writing skill. Additionally, the test can create sentences of varying difficulty using the same basic rule by adding more or longer intervening phrases - making agreement questions scalable from easy to hard.
+Because the subject of the sentence is *box*, not *chocolates*. The phrase *of chocolates* is a prepositional phrase that modifies *box*; it describes what kind of box, and *chocolates* is the object of the preposition, never the subject. A verb agrees only with the head noun of its subject, and the head noun here is the singular *box*, so the verb is the singular *is*. The plural *chocolates* sits right next to the verb on purpose, because the writers know the ear grabs the nearest noun. The defense is mechanical: cross out the prepositional phrase, leaving "the box ... is," and the singular verb is obvious. This single construction, a singular head noun followed by a plural prepositional object, is the most common agreement trap on the exam, and recognizing it instantly is worth more than memorizing any list of rules.
 
-For test preparation purposes, this frequency is good news: it means mastering subject-verb agreement produces the most question-by-question impact of any grammar rule. A student who correctly handles all subject-verb agreement questions will score significantly better on the SEC section than a student who handles only lower-frequency rule categories.
+### How do I find the real subject when a phrase intervenes?
 
-**Q2: What is the single fastest way to identify the subject of a sentence?**
+Run the cross-out routine. Find the verb first, then ask who or what is performing it. Follow that answer backward through the sentence, deleting every prepositional phrase, every clause beginning with *who*, *which*, or *that*, and every parenthetical set off by commas. What remains is the simple subject and the verb, a short skeleton you can check for number in a second. The intervening material is grammatical scenery; it cannot change the number of the verb no matter how many plural nouns it contains. The longer the sentence, the more decoys the writers stack between subject and verb, but the routine does not change with length. You always strip the modifiers, match the verb to the surviving head noun, and ignore everything you crossed out. Practiced enough times, this becomes automatic, and the buried subject stops being hidden because you stop reading the disguise as part of the subject.
 
-Find the main verb, then ask "who or what [verbs]?" The answer is the subject. This approach is faster than trying to parse the full sentence grammatically because it gives the subject directly from the verb. For agreement questions: find the verb, find the subject by asking the question, ignore everything between them.
+### Are compound subjects with "and" singular or plural?
 
-Timing note: experienced students can identify the subject in under three seconds for most sentences. For longer, more complex sentences with multiple phrases, allow up to eight seconds. The goal is accuracy first, speed second. Once subject identification is consistently accurate, speed will develop naturally through practice.
+Plural, in nearly every case. When two or more subjects are joined by *and*, they add together into a plural, so the verb is plural: "The teacher and the student are meeting." Two exceptions matter for the exam. First, when the joined words name a single thing or one idea, the compound is singular: "Macaroni and cheese is his favorite" treats the dish as one unit. Second, when *each* or *every* precedes the compound, the verb turns singular: "Every teacher and student is invited," because *every* distributes the subject into individual units. Outside those two exceptions, treat *and* as a plus sign that builds a plural subject and takes a plural verb. The trap the exam sets is mixing a compound subject with intervening singular phrases, but the rule holds: count the subjects joined by *and*, and if there are two or more distinct ones, the verb is plural.
 
-**Q3: What is the "intervening phrase" agreement trap and how do I avoid it?**
+### How do I handle "A or B" for subject-verb agreement?
 
-The intervening phrase trap places a noun of the wrong number between the subject and verb. For example: "The collection of [rare stamps] was damaged." The noun "stamps" (plural) is between "collection" (singular subject) and "was" (verb). Students who hear "stamps were/was" select the wrong form. The fix: mentally bracket off all prepositional phrases and relative clauses between subject and verb, then evaluate the stripped sentence. "The collection was damaged" → correct.
+With *or* and *nor*, the verb agrees with the nearer subject, the one closest to it, not with both together. This is the proximity rule, and it is the single case where the noun nearest the verb genuinely controls it. "Either the manager or the employees are responsible" takes the plural *are* because *employees* sits nearer the verb. Reverse the order to "Either the employees or the manager is responsible" and the verb flips to singular, because *manager* is now nearer. The same applies to *neither ... nor*: "Neither the violinist nor the other musicians were aware" matches the nearer plural *musicians*. The practical move is to find the conjunction first. If it is *or* or *nor*, look at the subject immediately before the verb and match that one, and remember that reordering the two subjects changes which verb is correct, a detail the exam exploits.
 
-With practice, this bracketing becomes automatic. After 30 to 40 examples, the brain automatically ignores prepositional phrase nouns when evaluating agreement, just as it ignores irrelevant background information when reading for meaning. The deliberate practice builds an implicit filter for prepositional phrase nouns - the very skill the test is measuring.
+### Are collective nouns singular on the SAT?
 
-**Q4: Is "data" singular or plural?**
+Almost always, yes. A collective noun names a group as a single body: *team*, *committee*, *jury*, *family*, *audience*, *staff*, *class*, *government*. American English, which the SAT follows, treats such a group as one unit and uses a singular verb, and the exam reinforces this by placing a singular pronoun like *its* nearby: "The committee released its report" pairs the singular verb and the singular pronoun. The trap is surrounding the collective noun with plural words so the verb wants to go plural, as in "The faculty of the three departments is meeting," where *is* stays singular because *faculty* names one body. A sentence can force a plural reading when the members clearly act as separate individuals, but the exam overwhelmingly uses the singular, unit reading, so default every collective noun to singular and treat a nearby *its* as confirmation that you have chosen correctly.
 
-Traditionally, "data" is the plural of "datum" and takes a plural verb in formal scientific writing: "The data show that..." In common usage, "data" is treated as a mass noun (like "information") and takes singular verbs: "The data shows that..." The Digital SAT generally follows formal academic convention, so "the data show/are/were" is likely preferred. When this exact question appears, context usually makes the correct choice clear from surrounding sentences.
+### Which indefinite pronouns are singular and which are plural?
 
-Similar cases: "criteria" (plural of "criterion") → "The criteria are clearly defined." "Phenomena" (plural of "phenomenon") → "These phenomena have been observed." "Bacteria" (plural of "bacterium") → "The bacteria were identified." When these formally plural nouns appear on the SAT, the formally correct plural verb is typically expected.
+They fall into three groups. The always-singular group includes *each*, *either*, *neither*, *everyone*, *everybody*, *everything*, *someone*, *somebody*, *anyone*, *anybody*, *no one*, *nobody*, *nothing*, and *one*; these take a singular verb every time, regardless of any plural noun in a following phrase, so "Each of the runners is ready" is correct. The always-plural group includes *both*, *few*, *several*, and *many*; these take a plural verb every time, as in "Few were chosen." The third group, *some*, *all*, *any*, *none*, and *most*, depends on the noun in the following phrase: "Most of the cake is gone" is singular because *cake* is singular, while "Most of the cakes are gone" is plural because *cakes* is plural. Memorizing the first two groups as flat lists and reading the referent for the third resolves nearly every indefinite-pronoun item on the exam.
 
-**Q5: Does "the number" take a singular or plural verb?**
+### How does agreement work in an inverted sentence?
 
-"The number" takes a singular verb: "The number of applications has increased." However, "a number" (meaning "many") takes a plural verb: "A number of applications have been received." This distinction is worth memorizing: "the number of X" = singular; "a number of X" = plural.
+In an inverted sentence the verb comes before the subject, so you cannot match the verb to the first noun you read. Two structures invert. Sentences beginning with *there* or *here* use those words as placeholders, not subjects; the real subject follows the verb, as in "There is a problem" (singular *problem*) versus "There are problems" (plural *problems*). Sentences that front a prepositional phrase for emphasis also invert, as in "Among the documents was a letter," where the subject *letter* sits after the verb and the plural *documents* in the fronted phrase is a decoy. The fix is to restore normal order in your head. Rewrite "Among the documents was a letter" as "A letter was among the documents," and the singular subject and verb line up plainly. Whenever a sentence opens with *there*, *here*, or a prepositional phrase followed by the verb, look past the verb for the subject.
 
-Memory device: "the number" refers to a specific quantity (one specific number), so it is singular. "A number" means "many" (an unspecified plurality), so it is plural. "The number of errors is rising" (we are talking about one specific count). "A number of errors have been found" (many errors - plural).
+### What makes a pronoun ambiguous on the SAT?
 
-**Q6: How do I handle pronoun agreement when the antecedent is a generic person?**
+A pronoun is ambiguous when a reader cannot tell with certainty which noun it replaces. "When Maria met Diane, she was nervous" is broken because *she* could grammatically be Maria or Diane, and the sentence offers no way to decide. The exam's standard is strict: the reference must be unambiguous on the page, not merely guessable from context. Even if the surrounding passage hints at the intended meaning, a pronoun with two possible antecedents fails. The test for this is the swap: try replacing the pronoun with each candidate noun in turn. If two nouns both fit, the pronoun is ambiguous and the answer rewrites it to name the specific noun. The same failure appears when a *this*, *which*, or *it* points at an entire idea rather than a single noun, leaving the pronoun with no clear antecedent at all. Demand one noun, certain and singular in reference, and reject any pronoun that cannot pass that test.
 
-When the antecedent is a generic singular person ("a student," "each researcher," "anyone"), formal writing uses "his or her" or restructures the sentence to use a plural antecedent. "Each student must submit his or her paper" OR "All students must submit their papers." The Digital SAT still tests the singular agreement rule for these constructions, so "their" with a singular generic antecedent is an error that needs to be corrected.
+### How do I fix an unclear pronoun reference?
 
-For multiple-choice grammar questions presenting this pattern: if one answer choice uses "his or her" and another uses "their," the "his or her" version is correct for a singular antecedent. If an answer choice restructures the sentence to use a genuine plural antecedent and "their," that version is also correct. Both fix the singular-antecedent/plural-pronoun error through different means.
+Replace the pronoun with the noun it is supposed to mean. The correct answer to an ambiguity question almost never adds another pronoun or rearranges the clauses while keeping the vague word; it names the referent outright. "The technician told the supervisor that his report was incomplete" becomes "The technician told the supervisor that the supervisor's report was incomplete," with the specific noun resolving the doubt. When the problem is a pronoun pointing at a whole idea rather than a noun, supply a noun for it to attach to: "Several programs ended, which frustrated the staff" becomes "Several programs ended, a development that frustrated the staff." On the exam, when you see one choice that swaps the unclear pronoun for a precise noun and the other choices keep the pronoun, the noun version is usually correct. The guiding principle is that clarity beats brevity here; naming the noun is not clumsy, it is the fix the exam rewards.
 
-**Q7: What is the difference between "who" and "whom" and how do I choose?**
+### How does "one of those who" affect the verb?
 
-"Who" functions as a subject (performs the action): "Who wrote the report?" "Whom" functions as an object (receives the action or follows a preposition): "Whom did they select?" The reliable test: substitute "he" or "him." If "he" fits, use "who." If "him" fits, use "whom." "He wrote it" → "who wrote it." "They selected him" → "whom they selected."
+In "one of those who," the relative pronoun *who* usually refers to the plural noun, not to *one*, so the verb in the clause is plural. "She is one of those employees who are always willing to help" is correct, because the sentence means that among the employees who are always willing to help, she is one; *who* points at *employees*. Students wrongly make the clause verb singular to match *one*, but *one* is not what *who* replaces. The important exception is the phrase *the only one*: in "She is the only one of the employees who is willing to help," *the only one* narrows the reference to a single person, so *who* now points at *one* and the clause verb is singular. The deciding question is always what noun *who* actually stands for. Strip the sentence to the relative clause, ask which noun the pronoun replaces, and match the verb to that noun.
 
-For Digital SAT purposes, who/whom questions are less common than other pronoun case questions, but the he/him substitution test is 100% reliable. Always apply it before selecting "who" or "whom" - the substitution takes under three seconds and eliminates uncertainty.
+### Why is subject-verb agreement the most tested grammar rule?
 
-**Q8: What makes a pronoun reference "ambiguous"?**
+Because it has the two properties that make a perfect multiple-choice item: it is easy to disguise and hard to fake. Nearly every student can state the rule that a singular subject takes a singular verb, so testing the definition would separate no one. By dropping a phrase between the subject and the verb, the writers turn a known rule into a hidden one, and the question then measures whether you can find the subject under pressure rather than whether you can recite a rule. That skill, identification under a clock, is exactly what the exam wants to measure, which is why agreement and verb form together carry as much weight as any category in the Standard English Conventions domain. The exam publishes weighting by domain rather than ranking individual rules, but the points cluster heavily here, and the recurrence is the reason a single focused study session on the disguises pays back across the whole section.
 
-A pronoun reference is ambiguous when two or more nouns in the preceding text could logically serve as the antecedent, creating uncertainty about which noun the pronoun refers to. "The manager told the analyst that she needed to revise the report" is ambiguous because both the manager and the analyst are female and either could be "she." Fix: replace the ambiguous pronoun with the specific noun it is intended to mean.
+### How do "some, all, none" agree with a verb?
 
-For Digital SAT ambiguity questions: evaluate each answer choice by asking whether the pronoun reference in that choice is clear and unambiguous. The correct answer is the version where no reader could be uncertain about which noun the pronoun refers to.
+These three, along with *any* and *most*, belong to the referent-dependent group of indefinite pronouns, which means they take their number from the noun in the prepositional phrase that follows them. "Some of the water is gone" is singular because *water* is singular and uncountable, while "Some of the samples are missing" is plural because *samples* is plural. The word *some* did not change; the noun it quantifies did. *None* deserves special attention because of a persistent myth that it is always singular, on the theory that it means "not one." Modern usage and the SAT both reject that rule and treat *none* like *some* and *all*: "None of the evidence supports the claim" is singular, "None of the witnesses agree" is plural. For this whole group, the practical move is to find the noun right after the pronoun and match the verb to that noun, the one situation where the noun following the pronoun correctly controls the verb.
 
-**Q9: When is "they" acceptable as a singular pronoun?**
+### How do I match a verb to a relative pronoun?
 
-In contemporary usage, "they" is widely accepted as a singular gender-neutral pronoun when the antecedent's gender is unknown or when referring to a person who uses they/them pronouns. For the Digital SAT, the traditional singular agreement rule still applies: "each student must submit his or her paper" is the expected correct form. The test has not moved to accepting "their" with singular indefinite pronoun antecedents as a correct answer.
+A relative pronoun, *who*, *which*, or *that*, has no number of its own; it borrows the number of its antecedent, the noun it refers back to, and the verb inside the relative clause agrees with that antecedent. "She is a scientist who has published widely" takes the singular *has* because *who* refers to the singular *scientist*, while "They are scientists who have published widely" takes the plural *have* because *who* now refers to plural *scientists*. The step that matters is finding the antecedent before you choose the clause verb. Read backward from the relative pronoun to the noun it stands for, confirm that noun's number, and match. The construction gets hard in "one of those who" sentences, where the antecedent is the plural noun rather than the singular *one*, but the underlying method is identical: identify what the relative pronoun replaces, then make the clause verb agree with that noun.
 
-Practically: when a Digital SAT grammar question presents "their" with a singular indefinite pronoun antecedent (each, everyone, nobody, one) as a potentially correct option alongside "his or her," select "his or her" or choose the restructured plural alternative if available.
+### How do prepositional phrases disguise the subject?
 
-**Q10: What is the "each of the X who" agreement pattern?**
+A prepositional phrase placed between the subject and the verb fills the gap with nouns that are not the subject, and the noun nearest the verb is usually plural while the true subject is singular. "The list of approved vendors is updated" hides the singular subject *list* behind the plural *vendors*, which sits right against the verb. Because human reading is local, the ear matches the verb to the nearest noun, and that nearest noun is the decoy the writers planted. The prepositions that launch these phrases are worth recognizing on sight: *of*, *in*, *on*, *with*, *along with*, *together with*, *as well as*, *including*, and *in addition to*. Each one starts a modifier that adds information about the subject without joining it, so none of them can change the verb's number. The cure is the cross-out: delete everything from the preposition to the verb, leaving the head noun and the verb, and match those two alone.
 
-"Each of the students who [are/is] enrolled in the program..." - in this construction, "who" refers to "students" (plural) → "are." However, "each" is the subject of the main clause and takes a singular verb: "Each of the students who are enrolled is required to attend." "Each" = singular main verb; "who" = plural relative clause verb matching "students."
+### What is the most common subject-verb agreement mistake?
 
-This pattern requires tracking agreement at two levels: the main clause (agree with "each" → singular) and the relative clause (agree with the antecedent of "who" → "students" → plural). Students who conflate the two levels make errors. Keep the two levels separate: main clause verb matches "each"; relative clause verb matches the antecedent of "who."
+Matching the verb to the nearest noun instead of to the true subject. It is the most common error because it feels correct; the noun sitting against the verb is the one freshest in your mind, and the writers position a plural decoy there deliberately. A student reads "The collection of rare stamps ___ valuable," hears the plural *stamps* against the blank, and chooses a plural verb, when the singular subject *collection* required *is*. The fix is to distrust the nearest noun everywhere except after *or* or *nor*, where proximity genuinely controls. Run the cross-out on every agreement item, deleting the intervening phrase before you read the choices, and the decoy loses its power. Training this one habit, the refusal to match by proximity, eliminates more lost points on this topic than any other single change, because the proximity error is the foundation that almost every disguise on the exam is built to trigger.
 
-**Q11: How are "either/neither" used alone vs. with "or/nor"?**
+### What is the difference between "the number of" and "a number of"?
 
-Used alone (without "or/nor"), "either" and "neither" are indefinite pronouns and are singular: "Either of the answers is acceptable." "Neither of the options is available." Used with "or/nor" as correlative conjunctions ("either...or," "neither...nor"), the verb agrees with the closer subject: "Either the manager or the analysts are responsible."
+They look alike and behave oppositely. "The number of" is singular, because the head noun is *number* and *the number* names one quantity: "The number of applicants is rising" takes the singular *is*. "A number of" is an idiom meaning *several* or *many*, so the real subject becomes the noun that follows, and the verb is plural: "A number of applicants have withdrawn" takes the plural *have*. The article does all the work; *the* keeps *number* as the singular subject, while *a* converts the phrase into a plural quantifier. The exam favors this pair in the harder second module precisely because the two phrases are nearly identical on the page, so a quick reader who does not register *the* versus *a* picks the wrong verb. Read the article carefully, decide whether *number* itself is the subject or whether the phrase means *many*, and match the verb accordingly.
 
-A useful check: if "either" or "neither" is followed by "of," it is an indefinite pronoun (singular). If it is followed by a noun and then "or/nor," it is part of a correlative pair (agree with the closer subject).
+### Does the SAT accept singular "they"?
 
-**Q12: What is the no-antecedent pronoun error?**
+Spoken and increasingly written English use singular *they* with indefinite antecedents like *everyone* and *each*, but formal written grammar treats those antecedents as singular, taking *his or her*. The exam tends to avoid items that hinge only on this disputed judgment, because a contested usage makes a weak multiple-choice question, so you are unlikely to be forced to choose between *their* and *his or her* on a sentence where reasonable graders would disagree. The safe approach is to know the formal rule, that the always-singular indefinite pronouns take a singular pronoun in formal writing, while recognizing that the exam will more often test clear cases, such as a collective noun taking *its* or a plural antecedent taking *their*. Focus your study on the unambiguous number matches, where a singular antecedent clearly demands a singular pronoun and a plural one demands a plural pronoun, and treat the contested singular-*they* cases as the part of the topic the exam mostly leaves alone.
 
-A no-antecedent error occurs when a pronoun has no specific noun referent in the text - it refers to an implied concept, a general group, or to nothing at all. "In the study, they concluded that..." - "they" has no specific antecedent. Fix: name the referent ("the researchers concluded") or restructure to eliminate the pronoun ("The study concluded that...").
+### How long should I spend on a subject-verb agreement question?
 
-For Digital SAT no-antecedent questions: the answer choices will typically present versions that (a) eliminate the pronoun and name the referent, (b) add a specific noun antecedent earlier in the sentence, or (c) restructure the sentence to avoid the pronoun. All of these can be correct depending on which produces the clearest, most concise expression. The wrong answers either leave the ambiguous pronoun or introduce a new ambiguity.
+Less time than most students give it, because the routine is fast once trusted. A clean agreement item should take fifteen to twenty seconds: read to the blank, find the subject, run the cross-out in your head, predict the verb, then uncover the choices to confirm. The students who lose time here are the ones who reread the whole sentence trying to make it sound right, and sound is exactly what the trap exploits, so rereading deepens the error rather than fixing it. If a second-module sentence stacks several disguises and the subject is genuinely buried, give it one careful pass with the cross-out, lock in your answer, and move on rather than reading the intervening phrase a fourth time, because the disguise does not weaken on rereading. Bank the time you save on these for the longer Reading questions that actually need it. Speed on agreement comes from trusting the method, not from staring harder at the sentence.
 
-**Q13: Do collective nouns take singular or plural pronouns?**
+### Does "as well as" make a subject plural?
 
-In American English, collective nouns (team, committee, staff, faculty, government) take singular pronouns when acting as a unit: "The committee issued its report." "The team celebrated its victory." British English sometimes uses plural pronouns for collective nouns, but American academic English (which the SAT follows) uses singular.
+No. *As well as*, like *along with*, *together with*, *in addition to*, and *including*, introduces a parenthetical phrase that adds information about the subject without joining a second subject to it, so it never changes the verb's number. "The principal, as well as several teachers, is attending" keeps the singular *is*, because the subject is the singular *principal* and the *as well as* phrase is a modifier set off by commas. If the writer had wanted a plural verb, the sentence would need *and*: "The principal and several teachers are attending" joins two subjects into a plural. The trap works because *as well as several teachers* sits between the subject and the verb and ends in a plural noun, so the ear wants a plural verb. The fix is the cross-out: delete the comma-bracketed phrase, leaving "The principal ... is attending," and the singular verb is clear. Treat every one of these connective phrases as scenery, not as a second subject.
 
-A practical check for Digital SAT collective noun questions: look at both the verb and any pronoun reference. Both should be singular if the collective noun acts as a unit. An answer choice that uses a singular verb but a plural pronoun ("The committee has made their decision") is inconsistent and wrong. Both the verb and pronoun must agree with the collective noun consistently.
+### Why does "neither" alone differ from "neither...nor"?
 
-**Q14: What does "agreement with the closer subject" mean for or/nor constructions?**
-
-When "or" or "nor" joins two subjects, the verb (and any pronoun reference) agrees with the subject that is closest to the verb. "Neither the analysts nor the manager was present" - "manager" (singular, closest) → "was." "Neither the manager nor the analysts were present" - "analysts" (plural, closest) → "were." This rule applies consistently regardless of which element comes first.
-
-For Digital SAT or/nor questions: always identify the closer subject (the one immediately before the verb) and check whether the answer choices match its number. Questions in this category typically present sentences where the closer subject is a different number than the farther subject, requiring students to override the number of the first element they encounter.
-
-**Q15: How do I identify a "which" vs. "that" pronoun error?**
-
-"That" introduces essential (restrictive) clauses with no commas: "The study that produced the most surprising results was published in 2020." "Which" introduces nonessential (non-restrictive) clauses with commas: "The 2020 study, which produced surprising results, was widely cited." If a clause clearly adds extra information (could be removed without changing meaning), use "which" with commas. If it identifies which specific thing, use "that" without commas.
-
-This distinction also matters for pronoun agreement: "which" and "that" both agree with the noun they follow (their antecedent), and the verb in the relative clause agrees with that antecedent. "The studies that were conducted..." ("that" refers to "studies" → "were conducted"). "The study, which was conducted..." ("which" refers to "study" → "was conducted").
-
-**Q16: What is a "broad reference" pronoun error?**
-
-A broad reference error occurs when a pronoun (typically "this," "that," "it," or "which") refers to an entire preceding clause rather than a specific noun. "The study was delayed, which frustrated the team" - "which" refers to "the study was delayed" (an entire clause), not to a specific noun. Fix: restructure to name the concept: "The study's delay frustrated the team."
-
-Broad reference errors are a subset of the no-antecedent category. They are distinguished by using a relative pronoun ("which") or demonstrative pronoun ("this," "that") to refer back to an entire idea rather than a specific noun. The fix always involves nominalizing the concept (turning it into a noun phrase) and making that the subject of the new sentence.
-
-**Q17: How do I handle agreement when the subject and predicate nominative disagree?**
-
-The verb agrees with the subject, not the predicate nominative. "The cause of the problem is poor communication" - subject: "cause" (singular) → "is." Not "the cause of the problem are poor communication." Even when what comes after the verb is plural, the verb agrees with the subject before it.
-
-Additional example: "Her main interests were literature and science" - subject: "interests" (plural) → "were." "Literature and science was her main interest" would require a singular subject. Always identify the subject first, then match the verb to it, regardless of what the predicate contains.
-
-**Q18: What is the "one of those who" agreement pattern tested on the SAT?**
-
-"She is one of those researchers who [have/has] published on this topic." "Who" refers to "researchers" (plural) → "have." Full logic: among those researchers [who have published], she is one. The trap: "she" is singular, so "has" feels right - but "who" refers to the plural "researchers," not to "she."
-
-Compare: "She is the only one of those researchers who has published on this topic." "Only one" makes the antecedent singular → "has."
-
-This is one of the most reliably tested patterns in subject-verb agreement on the Digital SAT. The key: "one of those [plural noun] who [verb]" - the verb in the relative clause agrees with the plural noun, not with "one." "The only one of those [plural noun] who [verb]" - the verb agrees with "only one" (singular).
-
-For exam day: when you see "one of those [noun] who," immediately identify this pattern. The answer will use a plural verb in the relative clause. When you see "the only one of those [noun] who," the answer will use a singular verb.
-
-**Q19: How do I quickly evaluate pronoun case in compound structures?**
-
-Remove the compound element and evaluate the pronoun alone. "Between you and [I/me]" → remove "you and" → "between [I/me]" → "between I" sounds wrong → "between me" is correct. "The report was given to [she/her] and the team" → remove "and the team" → "given to [she/her]" → "to she" is wrong → "to her" is correct. This removal technique works for all compound pronoun case questions.
-
-This removal technique is especially important because compound structures are specifically chosen by the SAT to obscure the required case - "the report was given to Elena and I" sounds natural to many speakers even though it is wrong. The isolation technique removes the misleading compound element and reveals the error.
-
-**Q20: What is the most important single practice habit for subject-verb and pronoun questions?**
-
-Actively identifying the grammatical subject and the pronoun's antecedent in every sentence you encounter in practice passages - not just in grammar questions but in every passage. Students who make subject and antecedent identification a constant reading habit develop the instant pattern recognition that makes agreement questions fast and reliable. The habit is built through repetition: reading, identifying subject, reading, identifying antecedent. After 20 to 30 practice passages with this deliberate attention, the identification becomes automatic.
-
-The subject-first habit also makes writing better: students who habitually identify the subject before the verb write with more structural clarity, avoid agreement errors in their own work, and produce academic writing that reads with the authority of someone who knows exactly what they are saying and who is performing each action. The preparation benefit extends well beyond the test.
-
-Every sentence a student writes after mastering this guide will carry the mark of grammatical precision: subject and verb in clear agreement, pronouns with unambiguous referents. That precision is not a technicality - it is the foundation of credible academic writing.
-
-AGREEMENT AND PRONOUN CLARITY: THE COMBINED PAYOFF
-
-Students who master both rules in this article gain something beyond test points. They gain the grammatical clarity that makes academic writing credible, comprehensible, and authoritative. Agreement and clarity are the two most visible markers of a careful writer. The work done in preparation for the Digital SAT develops habits of precision that carry through every sentence written in college, graduate school, and professional life. That is the true return on the preparation investment this guide represents.
-
-
-## Summary: The Agreement and Clarity Checklist
-
-Every subject-verb agreement and pronoun question on the Digital SAT can be handled with four core techniques:
-
-TECHNIQUE 1 - STRIP THE SENTENCE: For agreement, remove all prepositional phrases and relative clauses between subject and verb. Read the stripped sentence. The correct verb form is immediately apparent.
-
-TECHNIQUE 2 - SUBSTITUTE THE NOUN: For pronoun ambiguity, replace the pronoun with each possible noun referent and read both versions. The intended meaning will make one version clearly correct.
-
-TECHNIQUE 3 - ISOLATE THE COMPOUND: For pronoun case, remove the compound element and evaluate the pronoun alone. "The award was given to Elena and [I/me]" → "given to [I/me]" → "given to me."
-
-TECHNIQUE 4 - IDENTIFY THE CLOSER SUBJECT: For or/nor constructions, identify the subject immediately preceding the verb. That subject determines the verb's number, regardless of what comes first in the sentence.
-
-These four techniques cover every agreement and pronoun question on the Digital SAT. Students who apply them consistently and automatically will find that agreement and pronoun questions take under 30 seconds each and yield near-perfect accuracy. That is the goal of this article, and that is the result its preparation produces.
+Because they are doing different grammatical jobs. *Neither* standing alone is an indefinite pronoun and belongs to the always-singular group, so it takes a singular verb every time: "Neither of the options is acceptable" uses *is* regardless of the plural *options* in the phrase. *Neither ... nor*, by contrast, is a correlative conjunction that links two subjects, and it follows the proximity rule, matching the verb to the nearer subject: "Neither the manager nor the workers are satisfied" takes the plural *are* because *workers* sits nearer the verb, while "Neither the workers nor the manager is satisfied" takes the singular *is*. The single word *neither* is a subject that is fixed as singular; the paired *neither ... nor* is a connector whose verb depends on word order. Spotting which structure you face is quick: if *neither* appears without a following *nor*, treat it as a singular pronoun, and if it pairs with *nor* to link two subjects, apply proximity and match the nearer one.

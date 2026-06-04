@@ -1,1135 +1,355 @@
 ---
 layout: post
-title: "SAT Writing: Logical Comparisons and Idiomatic Expressions"
-page_title: "SAT Logical Comparisons and Idioms: The 25 Most Tested Expressions with Complete Rules"
+title: "SAT Writing: Logical Comparisons and Idioms"
+page_title: "SAT Logical Comparisons and Idiomatic Prepositions: The Equal-Sign Test and 25 Idioms to Know"
 date: 1997-02-21
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Comparisons", "Idioms", "Grammar"]
-excerpt: "Two grammar areas that trip up even strong writers - logical comparisons (comparing like to like) and the 25 most tested idiomatic preposition pairings - covered completely with worked examples and the exact traps the Digital SAT uses."
-image: "/assets/images/blog/blog-90.webp"
-reading_time: 61
-author: "samantha-lee"
-last_updated: 2026-04-08
-lang: en
----
-Logical comparisons and idiomatic expressions are two grammar areas where even strong writers make errors - not because the rules are complex, but because incorrect forms sound natural in conversation and informal writing. The Digital SAT exploits this gap systematically: every comparison trap and every idiom distractor is a form that sounds acceptable in informal English but violates the formal academic English standard the test measures. Preparation for these question types is essentially preparation for formal academic language - the same standard that college writing instructors expect and that the test is designed to assess. "The population of Texas is larger than California" sounds fine in conversation. "Different than" appears everywhere in informal speech. The Digital SAT exploits this gap between what sounds acceptable and what formal academic English requires.
-
-This guide covers both areas completely: the full logical comparison rule set with the "that of / those of" framework, the "like vs unlike" comparison trap, possessive comparison forms, and the 25 most commonly tested idiomatic preposition pairings - each with correct usage examples, wrong-form examples, and the specific traps the Digital SAT constructs around them.
-
-For the complete grammar rules overview across all SEC categories, see the [complete SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/). For the comprehensive reference covering all rule categories in one place, see [SAT Standard English Conventions: Complete Grammar and Usage Guide](/1997/03/11/sat-grammar-conventions-complete/). For parallel structure and modifier placement, the companion concepts covered in the previous article, see [SAT Writing: Parallel Structure and Modifier Placement](/1997/02/26/sat-parallel-structure-modifiers/). For timed practice, the [free SAT Reading and Writing practice questions](https://reportmedic.org/tools/sat-reading-writing-practice.html) on ReportMedic provide Digital SAT-format grammar questions including comparison and idiom questions.
-
-![SAT Logical Comparisons and Idiomatic Expressions](/assets/images/blog/blog-90.webp)
-
-## Part One: Logical Comparisons
-
-### The Core Logical Comparison Rule
-
-RULE: A comparison must compare like to like. Both sides of a comparison must belong to the same category of thing - you cannot compare a quantity to a place, a policy to a person, or a salary to a lawyer.
-
-THIS RULE APPLIES TO: all comparison words and phrases including "than," "as...as," "like," "unlike," "similar to," "different from," and "compared to."
-
-THE TEST: Draw a mental equal sign between the two things being compared. If they can logically be placed on the same scale (salary vs salary, population vs population, method vs method), the comparison is valid. If they cannot (salary vs lawyer, population vs state, method vs researcher), the comparison is faulty and requires correction.
-
-THE FIX: Use "that of" (singular) or "those of" (plural) to refer back to the comparable element, use possessive forms, or restructure the sentence so the main clause subject is in the same category as what follows "like/unlike/similar to."
-
-CHOOSING THE FIX: When two or more fix options are offered as answer choices, all are grammatically valid if they compare like to like. The Digital SAT will offer only one correct fix; evaluate each answer choice by applying the equal-sign test to confirm the fix makes the comparison logical.
-
+excerpt: "SAT logical comparisons and idioms explained: the equal-sign test for comparing like to like and the most-tested prepositions, with 25 idioms and examples."
+image: "/assets/images/blog/blog-12.webp"
+reading_time: 59
+author: "Insight Crunch Team"
+last_updated: 1997-02-21
 ---
 
-## Logical Comparison Pattern 1: Quantity vs Place
-
-The most frequently tested comparison error: comparing a quantity or quality belonging to one place with the place itself rather than the corresponding quantity or quality of another place.
-
-1. INCORRECT: "The population of Texas is larger than California."
-   LEFT SIDE: population of Texas (a quantity - millions of people).
-   RIGHT SIDE: California (a state - a geographic/political entity).
-   A quantity cannot be larger than a state. The comparison is logically invalid.
-   CORRECT: "The population of Texas is larger than that of California."
-   "That" refers back to "population" → population of Texas compared to population of California.
-   EQUAL SIGN TEST: "population of Texas = California" → fails. "population of Texas = that of California" (= population of California) → passes.
-
-2. INCORRECT: "The GDP of China has grown faster than the United States."
-   LEFT SIDE: GDP of China (an economic metric, a dollar amount).
-   RIGHT SIDE: the United States (a country).
-   GDP cannot grow faster than a country.
-   CORRECT: "The GDP of China has grown faster than that of the United States."
-   "That of the United States" = the GDP of the United States → GDP compared to GDP.
-
-3. INCORRECT: "The average temperature in Phoenix is higher than Seattle."
-   LEFT SIDE: average temperature in Phoenix (a measurement).
-   RIGHT SIDE: Seattle (a city).
-   CORRECT: "The average temperature in Phoenix is higher than that in Seattle."
-   Note: "that in" rather than "that of" because the relationship between temperature and Seattle is locative ("in Seattle") rather than possessive ("of Seattle"). Both can appear; "that in" is more precise here.
-
-4. INCORRECT: "Housing costs in San Francisco exceed New York."
-   LEFT SIDE: housing costs in San Francisco.
-   RIGHT SIDE: New York (a city).
-   CORRECT: "Housing costs in San Francisco exceed those in New York."
-   "Those" = costs (plural) → costs compared to costs.
-
----
-
-## Logical Comparison Pattern 2: Salary, Price, or Rate vs Person or Entity
-
-A common variant: comparing a salary, price, cost, or rate on one side to a person or institution rather than to the equivalent salary, price, cost, or rate of that person or institution.
+# SAT Writing: Logical Comparisons and Idioms
 
-5. INCORRECT: "The salary of a senior researcher is higher than a junior analyst."
-   LEFT SIDE: salary (a dollar amount - what a person earns).
-   RIGHT SIDE: a junior analyst (a person).
-   A salary cannot be higher than a person.
-   CORRECT: "The salary of a senior researcher is higher than that of a junior analyst." ("that of" refers back to "salary")
-   OR: "A senior researcher's salary is higher than a junior analyst's." (possessive forms on both sides)
-   Both corrections compare salary to salary.
+A single comparison question can swing on three words you would never hear yourself say wrong out loud. Read this sentence the way the digital test presents it: "The annual rainfall in Seattle is greater than Phoenix." Nothing in your ear flinches. The sentence sounds finished, even confident. Yet it is broken, and the College Board knows that most test-takers will glide right past the flaw because speech tolerates what the written standard does not. Rainfall, a quantity, is being measured against Phoenix, a city. The two sides of the scale hold different kinds of things, so the balance is false. The repair is small and surgical: "greater than that of Phoenix." That fix is worth a point, and the same logic, once you can see it, recurs on every form.
 
-6. INCORRECT: "The compensation package offered by this company exceeds our competitors."
-   LEFT SIDE: compensation package (benefits/salary).
-   RIGHT SIDE: competitors (companies).
-   CORRECT: "The compensation package offered by this company exceeds those of our competitors."
-   "Those" = packages (plural implied by "competitors") → packages compared to packages.
+This guide is built around two skills that quietly drain points from strong writers who trust their instincts. The first is the **logical comparison**: making sure that whatever sits on the left of "than" or "as" matches, in kind, whatever sits on the right. The second is the **idiomatic expression**: choosing the one preposition that a fixed English phrase demands, where "different from" is standard and "different than" is the trap, where you are "prohibited from" doing something and never "prohibited to." Neither skill rewards intuition. Both reward a rule and a checklist. By the end you will carry one portable test for comparisons, the equal-sign test, and a reference set of the twenty-five prepositional pairings the assessment leans on most.
 
-7. POSSESSIVE ALTERNATIVE: Both "that of" and possessive forms are correct.
-   CORRECT: "A senior researcher's salary is higher than a junior analyst's."
-   CORRECT: "A senior researcher's salary is higher than that of a junior analyst."
-   Both compare salary to salary. The possessive form is equally valid and often more concise.
+What the standard account misses is that these two error families look like grammar but behave like logic and memory. A comparison error is a reasoning slip dressed as a sentence. An idiom error is a vocabulary fact dressed as a grammar rule. Treat them that way and the fog lifts. You stop asking "does this sound right" and start asking "can I draw an equal sign here" and "is this the standard preposition for this verb." Those two questions, asked deliberately, convert a fuzzy ear skill into something you can drill, check, and bank.
 
----
+The payoff compounds. Logical comparisons and idiomatic phrasing both fall under Standard English Conventions, the rule-governed half of the Writing content, and conventions questions reward exactly the kind of student who replaces guessing with a procedure. The reader who can name the flaw, apply the repair, and move on in twenty seconds is the reader who finishes the module with time to spare and points banked. Everything below exists to make you that reader.
 
-## Logical Comparison Pattern 3: Method, Policy, or Approach vs Person, Company, or Institution
+## Where comparisons and idioms sit in the Writing content
 
-8. INCORRECT: "The research methods used in this study are more rigorous than the previous study."
-   LEFT SIDE: research methods (methodology - a set of procedures).
-   RIGHT SIDE: the previous study (an entire study, not its methods).
-   Methods cannot be more rigorous than a study.
-   CORRECT: "The research methods used in this study are more rigorous than those used in the previous study." ("those" = methods, plural → "those of" or "those [verb phrase]")
-   Note: "those used in the previous study" uses a participial phrase rather than "those of the previous study" to specify which methods of the previous study are being referred to.
+The Reading and Writing portion of the digital exam blends reading comprehension, rhetoric, and grammar into one section delivered across two modules, and the grammar items live under a banner the test calls Standard English Conventions. Comparisons and idioms are two members of that family, sitting alongside subject-verb agreement, pronoun clarity, punctuation, parallel structure, and verb tense. The College Board does not publish a fixed tally of how many conventions items appear, and the adaptive format means your second module shifts in difficulty based on your first, so the safest framing is that comparison and idiom items appear often enough to matter and cluster toward the harder routing when they do. A student aiming above the middle band cannot afford to treat them as rare.
 
-9. INCORRECT: "Her approach to data analysis differs from most researchers in the field."
-   LEFT SIDE: her approach (a methodology - how she analyzes data).
-   RIGHT SIDE: most researchers (people in the field).
-   An approach cannot differ from researchers.
-   CORRECT: "Her approach to data analysis differs from that of most researchers in the field." ("that of most researchers" = the approaches of most researchers → approach compared to approach)
+Comparison and idiom questions wear a recognizable costume. The prompt gives you a sentence with a blank or an underlined stretch, and the four choices differ in one small spot: a preposition swaps, a phrase like "that of" appears in one option and vanishes in another, or a noun on the right side of "than" changes form. The question never asks "is this a comparison error." It simply offers four versions and trusts you to pick the one that is both grammatical and logical. That silence is the difficulty. You have to supply the diagnosis yourself, which is why a named test and a memorized list beat instinct every time.
 
-10. INCORRECT: "The company's marketing strategy is more aggressive than its competitors."
-    LEFT SIDE: marketing strategy.
-    RIGHT SIDE: competitors (companies).
-    CORRECT: "The company's marketing strategy is more aggressive than those of its competitors."
-    OR: "The company's marketing strategy is more aggressive than its competitors' strategies."
+### Are comparisons and idioms tested in Module 1 or Module 2?
 
----
+Both. Conventions items appear throughout the Reading and Writing section, and because the second module adapts to your first-module performance, a strong start tends to route you toward harder comparison and idiom variants later. Plan to meet these in either module and to see the trickier forms if you are scoring well.
 
-## Logical Comparison Pattern 4: The "Like" and "Unlike" Trap
+The reason these two skills get grouped in this guide is that they share a failure mode. In each case, your ear has been trained by conversation, by social media, by the way people actually talk, and conversation is a lax editor. People say "different than" constantly. People compare a city's weather to another city without naming the second city's weather. The spoken language shrugs. The written standard tested here does not shrug, and the gap between what sounds acceptable and what is correct is precisely the gap the question lives in. Recognizing that gap is half the battle; the procedures below close the rest of it.
 
-"Like" and "unlike" introduce comparisons by nature. What follows "like" or "unlike" must be logically comparable to what follows in the main clause.
+There is a strategic dimension worth naming early. Because these items hinge on a single small swap, they are fast once diagnosed. A reader who knows the equal-sign test can resolve a faulty comparison in well under thirty seconds, banking time for the reading-heavy items that genuinely require slow work. The conventions questions, comparisons and idioms among them, are where a prepared test-taker buys back the clock. For a fuller map of how the rule-governed items fit the whole section, the [complete grammar reference for the Digital SAT](/sat-grammar-conventions-complete/) lays out every conventions family and how the section weights them, and the foundational [SAT grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/) covers the broader terrain these two skills sit within.
 
-THE RULE FOR "LIKE": "Like [X], [Y]..." requires X and Y to be the same category of thing. If X is a person, Y must refer to a person. If X is an organization, Y must refer to an organization.
-
-DIAGNOSTIC: After reading a sentence that opens with "Like [noun phrase]," ask "what category is the noun in the Like phrase?" Then check whether the main clause subject is the same category. If not, the comparison is faulty and the main clause subject must be adjusted to match.
+## The mechanics: what a logical comparison actually requires
 
-11. INCORRECT: "Like many successful companies, Apple's product design is innovative."
-    ANALYSIS: "Like many successful companies" - the comparison introduces companies (organizations).
-    Main clause subject: "Apple's product design" - a design, not a company.
-    Companies cannot be compared to product designs.
-    CORRECT: "Like many successful companies, Apple prioritizes innovative product design."
-    "Apple" (a company) is now the main clause subject, directly comparable to "many successful companies."
-
-12. INCORRECT: "Unlike her predecessor, the new director's policy emphasized inclusion."
-    "Unlike her predecessor" (a person - the predecessor is a person).
-    Main clause subject: "the new director's policy" (a policy - a thing, not a person).
-    A person cannot be compared to a policy.
-    CORRECT: "Unlike her predecessor, the new director emphasized inclusion in her policy."
-    "The new director" (a person) is now the subject, comparable to "her predecessor" (a person).
-    POSSESSIVE TRAP: "the new director's policy" - the possessive "the new director's" makes the director appear to be the subject, but the grammatical subject is "policy." The same possessive trap appears in "her research focused on..." - "her" is possessive, not the subject.
+Strip a comparison down to its skeleton and you find a balance with two pans. On one pan sits the thing being compared; on the other sits the thing it is compared to. The grammar of the sentence demands that those two pans hold items of the same category. You may compare a quantity to a quantity, a person to a person, a city to a city, a year's data to another year's data. What you may not do is compare a quantity to a place, a person's work to the person, or one team's record to another team. When the categories mismatch, the comparison is illogical even when every word is spelled correctly and the verb agrees.
 
-13. INCORRECT: "Like the research from 2015, the current study's methodology was scrutinized."
-    "Like the research from 2015" (a study - the full research project). After the comma: "the current study's methodology" (one component of a study).
-    POSSESSIVE TRAP: "the current study's methodology" - "the current study's" is possessive; "methodology" is the subject.
-    CORRECT: "Like the research from 2015, the current study faced methodological scrutiny."
-    "The current study" (a research project) now follows "Like the research from 2015" (also a research project).
-    OR: "Like the methodology of the 2015 research, the current study's methodology was scrutinized." (methodology compared to methodology - also valid)
-
-14. INCORRECT: "Unlike the results of other treatments, this medication showed no side effects."
-    "Unlike the results of other treatments" (results - outcomes of treatment). After the comma: "this medication" (a pharmaceutical product, not its results).
-    CORRECT: "Unlike the results of other treatments, the results from this medication showed no side effects." (results vs results)
-    OR: "Unlike other treatments, this medication showed no side effects." (medication vs treatments - categories match)
-    CHOICE BETWEEN FIXES: both are valid. The second ("Unlike other treatments") is more concise; the first ("Unlike the results of other treatments") is more precise about what is being compared.
-
----
-
-## Logical Comparison Pattern 5: Plural "Those Of"
+The grammatical machinery that fixes a mismatch is small and consists of three repair tools. The first is the phrase **"that of"** for singular nouns and **"those of"** for plural nouns, which inserts an invisible stand-in for the repeated noun. "The climate of Norway is milder than Russia" becomes "milder than that of Russia," where "that" silently means "the climate." The second tool is the **possessive**, which compresses the same idea: "Dickens's novels are longer than Austen" becomes "longer than Austen's," where the apostrophe-s carries "novels." The third tool is the **matching construction after "like" or "unlike,"** which requires the noun right after it to belong to the same category as the subject of the main clause. Each tool restores the balance; which one you reach for depends on the sentence's shape.
 
-When the noun being compared is plural, "those of" (not "that of") is required.
+### What is the equal-sign test for comparisons?
 
-15. PLURAL: "The findings of this study are more reliable than those of previous studies."
-    "Findings" is plural → "those of" (not "that of").
+Place a mental equal sign between the two things being compared and ask whether the items on each side belong to the same category. If they match, the comparison is logical. If a quantity faces a place, or a thing faces a person, the sentence fails and needs "that of," "those of," or a possessive to balance it.
 
-16. PLURAL: "The results obtained by this team surpassed those obtained by rival teams."
+That test is the single most portable tool in this guide, so it deserves a slow walk-through. Take the sentence "The brushstrokes of Van Gogh are more turbulent than Monet." Find the two things being compared and write them on either side of an imaginary equal sign: "the brushstrokes of Van Gogh" = "Monet." On the left you have brushstrokes; on the right you have a painter. The equal sign is false, because brushstrokes are not a painter. The repair restores the category: "more turbulent than those of Monet," where "those" stands in for "the brushstrokes," giving you brushstrokes = brushstrokes. Now the equal sign holds. The whole diagnosis took the length of a breath, and it never once relied on whether the sentence sounded right.
 
-17. SINGULAR: "The conclusion reached by this study differs from that reached by the 2018 meta-analysis."
-    "Conclusion" is singular → "that" (not "those").
+The test extends cleanly to the "like" and "unlike" constructions, which the exam favors because they hide the comparison at the front of the sentence where readers are not braced for it. "Like the orchestral works of Brahms, the chamber pieces feel architecturally dense" is sound, because orchestral works and chamber pieces are both bodies of music, both compositions. But "Like Brahms, the chamber pieces feel architecturally dense" fails, because Brahms is a person and chamber pieces are compositions. A person cannot be balanced against compositions. The fix names the matching category: "Like the works of Brahms" or "Like other composers, Brahms wrote chamber pieces that feel dense." The equal sign reveals the mismatch instantly.
 
-18. SINGULAR: "The approach taken by Dr. Park is more conservative than that of her colleagues."
+One subtlety separates the careful reader from the merely fast one. The category match is about the grammatical thing being compared, not the topic of the sentence. A sentence can be entirely about music and still commit a comparison error, because the error lives in the nouns flanking "than" or "like," not in the subject matter. Train your eye to land on those flanking nouns and ignore the surrounding content. That discipline, examining the two nouns the comparison joins rather than the sentence's theme, is what the equal-sign test enforces.
 
-THE QUICK CHECK: Is the noun you are referring back to singular or plural? Singular → "that of." Plural → "those of."
+A final mechanical point concerns when you do not need a repair at all. If both sides already hold the same category, leave the sentence alone; adding "that of" where it is not needed creates a different error. "Sales in March exceeded sales in February" is already balanced, sales against sales, and rewriting it as "exceeded that of February" would be wrong because "that" has no singular noun to stand for that the sentence wants repeated. The repair tools are for mismatches, not decorations. Reach for them only when the equal sign fails.
 
----
+## The core investigation: worked examples and the twenty-five-idiom reference
 
-## Logical Comparison Pattern 6: Comparative Adjectives and Parallel Structure
+This is the heart of the guide. We will work a graded sequence of examples, the kind the exam actually builds, and then lay out the reference table of the twenty-five idiomatic pairings the assessment tests most. Read the examples as solved problems: the diagnosis, the repair, and the reasoning, narrated rather than listed, so the procedure sinks in. Each one isolates a slightly different flavor of the same two skills.
 
-Comparisons using comparative adjectives ("more X than," "less X than," "higher than," "lower than") must ensure both sides are in the same category.
+**Worked example one: a quantity compared to a place.** The sentence reads, "The gross domestic product of Japan is larger than South Korea." Apply the equal-sign test. Left side: the gross domestic product of Japan, an economic quantity. Right side: South Korea, a country. Quantity does not equal country, so the comparison is broken. The repair inserts the stand-in: "larger than that of South Korea," where "that" silently carries "the gross domestic product." Now quantity faces quantity and the balance holds. The trap here is that "South Korea" feels parallel to "Japan," so the sentence reads smoothly; but Japan and South Korea are not the things being compared. The product is. Land on the right nouns and the error surfaces.
 
-19. INCORRECT: "The new model is more fuel-efficient than the old model was five years ago."
-    This is actually CORRECT. "More fuel-efficient than the old model was" - both sides describe fuel efficiency in context.
+**Worked example two: the possessive repair.** Consider, "The poetry of Dickinson is more compressed than Whitman." The two compared items are Dickinson's poetry and Whitman, a poet, not Whitman's poetry. Mismatch. You have two legal repairs. The "that of" form gives "more compressed than that of Whitman." The possessive form gives "more compressed than Whitman's," where the apostrophe-s carries "poetry." The exam usually offers the possessive as one choice and "that of" as another, and both can be correct; pick whichever the answer set provides without a second error. The possessive is tighter and the test often prefers it, but do not invent a rule that one is always right. The principle is the category match, achieved by either tool.
 
-20. INCORRECT: "Writing this analysis requires more effort than to read the original paper."
-    LEFT SIDE: the effort required to write (implied gerund).
-    RIGHT SIDE: infinitive phrase ("to read").
-    This is also a parallel structure error.
-    CORRECT: "Writing this analysis requires more effort than reading the original paper."
+**Worked example three: the "like" construction with a person.** The sentence opens, "Like Hemingway, the prose in the later stories grows spare and clipped." The equal-sign test pairs "Hemingway," a person, against "the prose," a body of writing. A person is not prose. The repair supplies the matching category: "Like Hemingway's prose, the later stories grow spare" or, recasting, "Like Hemingway, the author wrote prose that grows spare." Notice that the second repair changes the subject of the main clause to a person, "the author," so that a person now faces a person. Either route restores the balance. The introductory "like" phrase is a favorite hiding spot precisely because the comparison error sits eight words before the reader expects trouble.
 
-21. INCORRECT: "His conclusion was more convincing than any researcher in the study."
-    LEFT SIDE: his conclusion (a finding).
-    RIGHT SIDE: any researcher (a person).
-    CORRECT: "His conclusion was more convincing than that of any other researcher in the study."
+**Worked example four: two populations, the "those of" form.** The sentence states, "The voting patterns of rural counties differ sharply from urban areas." Compared items: the voting patterns of rural counties versus urban areas. Patterns are not areas, so the equal sign fails. The plural noun "patterns" calls for the plural stand-in: "differ sharply from those of urban areas," where "those" carries "the voting patterns." This example also smuggles in an idiom, "differ from," which is correct; the trap "differ than" would be a second, separate error. Watch for items that braid a comparison flaw and an idiom flaw together, because the exam loves to make you fix both in one choice.
 
----
+**Worked example five: the idiom "different from."** Here is a pure idiom item. "The results of the second trial were no different than the results of the first." Your ear, trained by conversation, may accept "different than," but the written standard pairs "different" with "from." The repair is simply "no different from the results of the first." There is no comparison-category error here; both sides already hold results. The only flaw is the preposition. This is the cleanest illustration of why the idiom list matters: nothing about the sentence's logic is wrong, only a memorized pairing, and memory is the only tool that catches it.
 
-## Eight Worked Examples: Logical Comparison in Context
+**Worked example six: the idiom "prohibit from."** The sentence reads, "The new policy prohibits employees to use personal devices during shifts." The verb "prohibit" takes "from" plus a gerund, never "to" plus an infinitive. The repair is "prohibits employees from using personal devices." Compare the near-synonym "forbid," which does take the infinitive ("forbids employees to use"), and you see why the exam tests "prohibit" specifically: the two verbs mean nearly the same thing but govern different structures, and only memory tells them apart. When you meet "prohibit," the hand should reach automatically for "from" and a gerund.
 
-The following complete sentences combine the comparison rules in exam-level complexity.
+**Worked example seven: the idiom "capable of" versus "capable to."** The sentence states, "The new sensor is capable to detect minute temperature shifts." The adjective "capable" pairs with "of" plus a gerund: "capable of detecting minute temperature shifts." The infinitive "capable to detect" is not standard. This pattern, adjective plus "of" plus gerund, recurs across the idiom set, "incapable of," "guilty of," "tired of," and recognizing the family speeds you up. When an adjective is followed by an action, ask whether the standard pairing wants "of" and an -ing verb rather than "to" and a base verb.
 
-EXAMPLE 1:
-"The economic output of Germany is significantly larger than France."
-ERROR: Economic output (a quantity) vs France (a country).
-CORRECT: "The economic output of Germany is significantly larger than that of France."
-EQUAL SIGN TEST: "economic output of Germany = that of France" (= economic output of France) → passes.
+**Worked example eight: a combined comparison-and-idiom item.** The exam's hardest version fuses both skills. "Unlike the symphonies of Beethoven, Mahler relied on enormous orchestras and required far more capable to sustain long movements." First, the comparison: "Unlike the symphonies of Beethoven, Mahler" pairs symphonies against a composer, a mismatch; the repair is "Unlike Beethoven, Mahler" so that composer faces composer, or "Unlike the symphonies of Beethoven, those of Mahler" so that symphonies face symphonies. Second, buried later, "more capable to sustain" repeats the idiom error from example seven and wants "capable of sustaining." A single choice in the answer set will fix both, and only the option that repairs the comparison and the idiom together is correct. These fused items are where the equal-sign test and the idiom list earn their keep at once.
 
-EXAMPLE 2 (Similar to + possessive trap):
-"Similar to other leading research universities, Stanford's endowment has grown substantially."
-ANALYSIS: "Similar to other leading research universities" introduces a comparison requiring universities on both sides. Main clause subject: "Stanford's endowment" (a financial figure, not a university).
-POSSESSIVE TRAP: "Stanford's endowment" - "Stanford's" is possessive; the subject is "endowment," not "Stanford."
-CORRECT: "Similar to other leading research universities, Stanford has seen its endowment grow substantially."
-"Stanford" (a university) is now the subject, comparable to "other leading research universities."
+**Worked example nine: "comply with."** "Manufacturers must comply to the updated safety standards before the product ships." The verb "comply" takes "with," not "to": "comply with the updated safety standards." The pull toward "to" comes from the near-synonym "adhere to," which is itself correct, so the two verbs cross-contaminate in the ear. Hold them apart: you comply with a rule and adhere to a rule, and the exam will test whichever pairing you are likeliest to swap.
 
-EXAMPLE 3 (Findings vs trial):
-"The findings of the new trial are more significant than the 2019 trial."
-ERROR: "findings" (research outputs) vs "the 2019 trial" (an experimental study). Outputs cannot be compared to a study.
-CORRECT: "The findings of the new trial are more significant than those of the 2019 trial."
-"Those of the 2019 trial" = the findings of the 2019 trial → findings compared to findings.
-"THOSE" because "findings" is plural.
+**Worked example ten: "attribute to."** "Historians attribute the city's rapid growth on its position along the trade route." The verb "attribute" pairs with "to": "attribute the city's rapid growth to its position." The wrong preposition "on" feels almost right because "blame on" exists ("blame the growth on its position"), and the two patterns interfere. Sort them: you attribute an effect to a cause, and you blame an effect on a cause. Same idea, different mandated preposition, which is exactly the kind of distinction the assessment rewards you for knowing cold.
 
-EXAMPLE 4 (Salary vs person):
-"A neurosurgeon's salary in Boston is higher than a general practitioner in rural areas."
-ERROR: "salary" (a dollar amount) vs "a general practitioner" (a person). A salary cannot be higher than a person.
-CORRECT: "A neurosurgeon's salary in Boston is higher than that of a general practitioner in rural areas." ("that of" refers back to "salary")
-OR: "A neurosurgeon's salary in Boston is higher than a general practitioner's in rural areas." (possessive form compares salary to salary)
-BOTH are correct. The Digital SAT will typically offer only one of these fixes, and either is acceptable if offered.
+Ten worked items establish the two procedures; the reference table below gives you the raw material the idiom items draw from. The exam tests a recurring core of prepositional pairings, and while no list is exhaustive, the twenty-five below cover the constructions that surface most. Treat this as the citable artifact of this guide: the InsightCrunch equal-sign test paired with a twenty-five-idiom reference you can drill until each pairing is automatic.
 
-EXAMPLE 5 (Unlike + different categories):
-"Unlike the company's previous initiatives, the new program's budget allocation was transparent."
-ERROR: "Unlike the company's previous initiatives" (initiatives - programs or projects) vs "the new program's budget allocation" (an allocation - a financial decision). Initiatives and allocations are different categories.
-POSSESSIVE TRAP: "the new program's budget allocation" - "the new program's" is possessive; "allocation" is the subject.
-CORRECT: "Unlike the company's previous initiatives, the new program was transparent in its budget allocation."
-"The new program" (an initiative) now directly follows "Unlike the company's previous initiatives" (also initiatives) → like compared to like.
-
-EXAMPLE 6 (Immune response vs vaccines):
-"The immune response triggered by this vaccine is stronger than other available vaccines."
-ERROR: "immune response" (a biological reaction - antibodies, T-cells, etc.) vs "other available vaccines" (pharmaceutical products). A biological response cannot be compared to a product.
-CORRECT: "The immune response triggered by this vaccine is stronger than that triggered by other available vaccines."
-"That triggered by other available vaccines" = the immune response triggered by other vaccines → response compared to response.
-Note the participial phrase "triggered by..." is maintained on both sides, ensuring structural parallelism within the comparison as well.
-
-EXAMPLE 7 (Infrastructure vs countries):
-"The infrastructure in developing nations is often less developed than wealthy countries."
-ERROR: "infrastructure" (physical systems - roads, power grids, telecommunications) vs "wealthy countries" (nations). Infrastructure cannot be compared to countries.
-CORRECT: "The infrastructure in developing nations is often less developed than that of wealthy countries."
-"That of wealthy countries" = the infrastructure of wealthy countries → infrastructure compared to infrastructure.
-SINGULAR "THAT": "infrastructure" is singular (even though it comprises many systems) → "that of" rather than "those of."
-
-EXAMPLE 8 (Style vs writers):
-"Her novel's prose style is more accessible than most contemporary literary fiction writers."
-ERROR: "prose style" (a writing quality) vs "most contemporary literary fiction writers" (people). A style cannot be more accessible than writers.
-CORRECT: "Her novel's prose style is more accessible than that of most contemporary literary fiction writers."
-"That of most contemporary literary fiction writers" = the prose style of most contemporary literary fiction writers → style compared to style.
-OR RESTRUCTURE: "Her prose style is more accessible than that of most contemporary literary fiction writers." (Removing "novel's" from the subject makes the subject "she/her" implicitly, but the possessive "her prose style" still works.)
-
----
-
-## Part Two: Idiomatic Expressions
-
-### Why Idioms Are Tested on the Digital SAT
-
-An idiomatic expression is a phrase whose correct form is determined by convention rather than logical rules. "Different from" is correct not because any rule prohibits "different than" but because formal academic English has established "from" as the conventional preposition after "different." The Digital SAT tests whether students know the conventional pairings - the specific prepositions, particles, or constructions that combine correctly with particular adjectives, verbs, and nouns.
-
-WHAT THE SAT TESTS: The test focuses on preposition pairings (adjective + preposition, verb + preposition, noun + preposition) and on a small number of specific phrase constructions. The wrong answers typically substitute a plausible-sounding but incorrect preposition.
-
-HOW TO SPOT IDIOM QUESTIONS: idiom questions often present four answer choices that are identical in every way except for the preposition after a key verb or adjective. When the only variation among the four choices is the preposition, the question is testing the idiom rule. This recognition - "all four choices have the same structure except for the preposition" - is the visual cue that triggers the idiom recall check.
-
----
-
-## The 25 Most Tested SAT Idioms
-
-The following 25 idiom pairings are the most frequently tested on the Digital SAT. Each includes the correct form, the wrong form most often presented as a distractor, and an example sentence.
-
-### Group 1: Adjective + Preposition Pairings
-
-1. DIFFERENT FROM (not "different than")
-   CORRECT: "Her approach is different from her predecessor's."
-   INCORRECT: "Her approach is different than her predecessor's."
-   RULE: "Different from" is standard in formal American English for comparisons between nouns and noun phrases.
-   NOTE: "Different than" appears in informal speech and before a clause ("Her results were different than we expected"), but "different from" is the required form on the Digital SAT whenever "different" precedes a noun or noun phrase.
-   MEMORY AID: "Different" implies separation or departure - you move AWAY FROM something different, not TOWARD it. "From" captures this directional meaning.
-
-2. SIMILAR TO (not "similar with" or "similar as")
-   CORRECT: "The new method is similar to the established protocol."
-   CORRECT: "Her results are similar to those found in the earlier study."
-   INCORRECT: "The new method is similar with the established protocol." ("with" implies association, not similarity)
-   MEMORY AID: "Similar to" parallels "identical to" and "comparable to" - all three use "to" when expressing likeness or equivalence.
-
-3. IDENTICAL TO (not "identical with" or "identical as")
-   CORRECT: "The second sample was identical to the first."
-   CORRECT: "The results were nearly identical to those reported in the 2019 study."
-   INCORRECT: "The second sample was identical as the first." ("as" does not pair with "identical")
-   MEMORY AID: Think of identity as pointing TO something - "identical to X" means "the same as X," and the "to" points toward the thing being matched.
-
-4. RESPONSIBLE FOR (not "responsible of" or "responsible to do")
-   CORRECT: "The committee is responsible for approving budgets."
-   CORRECT: "Each researcher is responsible for the accuracy of their own data."
-   INCORRECT: "The committee is responsible of approving budgets." ("of" is not idiomatic with "responsible")
-   MEMORY AID: Responsibility is held FOR something - you have accountability FOR the outcome. "For" captures this accountability relationship.
-
-5. CAPABLE OF (not "capable to")
-   CORRECT: "The system is capable of processing data in real time."
-   CORRECT: "Only a few institutions are capable of conducting research at this scale."
-   INCORRECT: "The system is capable to process data in real time." ("to" + infinitive doesn't follow "capable" - "capable" requires "of" + gerund)
-   MEMORY AID: Capability is a possession OF a quality or ability. "Capable of [gerund]" = possessing the ability to perform that action. "Of" signals possession.
-
-6. INTERESTED IN (not "interested to" or "interested about")
-   CORRECT: "She is interested in pursuing graduate studies."
-   CORRECT: "The committee expressed interest in funding further research." (noun "interest" also takes "in")
-   INCORRECT: "She is interested to pursue graduate studies." (acceptable only before specific verbs like "learn," "discover," "note")
-   NOTE: The construction "interested to [verb]" is acceptable in very specific contexts: "I was interested to learn that..." where the verb describes reception of information. For all other contexts (especially before a noun or gerund), "interested in" is the standard form.
-
-7. FAMILIAR WITH (not "familiar of" or "familiar to")
-   CORRECT: "The researcher is familiar with the existing literature."
-   CORRECT: "Students entering the program should already be familiar with basic statistical methods."
-   INCORRECT: "The researcher is familiar of the existing literature." ("of" is not idiomatic with "familiar")
-   NOTE: "Familiar to" has a different meaning - something is "familiar to" someone when they recognize it: "This pattern is familiar to researchers in the field." The test uses context to determine whether "familiar with" (person knows something) or "familiar to" (something is recognizable to person) is needed.
-
-8. INDEPENDENT OF (not "independent from")
-   CORRECT: "The results were independent of the researcher's hypothesis."
-   CORRECT: "Each panel operates independently of the others to prevent bias."
-   INCORRECT: "The results were independent from the researcher's hypothesis." (informal but not formal standard)
-   NOTE: "Independent from" appears in informal usage ("She became independent from her parents") with a slightly different meaning (freedom or separation from an entity). In academic usage for research contexts, "independent of" is consistently the correct form.
-
-### Group 2: Verb + Preposition Pairings
-
-9. REGARD AS (not "regard to be" or "regard like")
-   CORRECT: "Experts regard this discovery as significant."
-   CORRECT: "Experts regard this as the most important discovery of the decade." ("regard [noun] as [noun]")
-   INCORRECT: "Experts regard this discovery to be significant." ("to be" is never used with "regard")
-   INCORRECT: "Experts regard this discovery like a breakthrough." ("like" introduces comparisons, not classifications)
-   MEMORY AID: "Regard as" is equivalent to "classify as" or "identify as" - all three use "as" to signal the categorization or assessment.
-
-10. PROHIBIT FROM (not "prohibit to")
-    CORRECT: "The policy prohibits members from voting on their own contracts."
-    CORRECT: "Photography is prohibited from occurring in restricted areas." (passive)
-    INCORRECT: "The policy prohibits members to vote on their own contracts." ("to vote" would require "allows" or "permits," not "prohibits")
-    MEMORY AID: "Prohibit" means "prevent from." The "from" is built into the meaning of the word. You prohibit someone FROM doing something - they are kept FROM the action.
-
-11. SUCCEED IN (not "succeed at" or "succeed to")
-    CORRECT: "The team succeeded in replicating the results."
-    CORRECT: "She succeeded in completing the project ahead of schedule."
-    INCORRECT: "The team succeeded at replicating the results." (informal, not formal standard)
-    INCORRECT: "The team succeeded to replicate the results." ("succeed to" is not idiomatic in this sense)
-    MEMORY AID: Success happens IN a domain or IN an activity. You succeed IN something - you operate within the field and achieve results within it.
-
-12. COMPLY WITH (not "comply to" or "comply by")
-    CORRECT: "All participants must comply with the protocols."
-    CORRECT: "The organization has fully complied with all regulatory requirements."
-    INCORRECT: "All participants must comply to the protocols." ("comply to" is not idiomatic)
-    INCORRECT: "All participants must comply by the protocols." ("comply by" is not standard)
-    MEMORY AID: Compliance is conformity WITH a standard. You align yourself WITH the rules - "with" captures the alignment relationship.
-
-13. ATTRIBUTE TO (not "attribute with" or "attribute for")
-    CORRECT: "The researchers attributed the improvement to the new intervention."
-    CORRECT: "Scholars attribute this work to an anonymous medieval scribe." (assign authorship)
-    INCORRECT: "The researchers attributed the improvement with the new intervention." ("attributed with" is wrong)
-    INCORRECT: "The researchers attributed the improvement for the new intervention." ("for" is wrong)
-    MEMORY AID: To attribute something is to point TO a cause or source. The attribution goes in the direction of the cause - hence "to."
-
-14. DISTINGUISH FROM (not "distinguish than" or "distinguish against")
-    CORRECT: "It is difficult to distinguish correlation from causation."
-    CORRECT: "The study sought to distinguish genuine effects from statistical noise."
-    INCORRECT: "It is difficult to distinguish correlation than causation." ("than" is for comparisons, not distinctions)
-    MEMORY AID: To distinguish X from Y is to separate X FROM Y - you pull them apart, moving one AWAY FROM the other. "From" captures this separation.
-
-15. RESULT IN (not "result to" or "result into")
-    CORRECT: "The intervention resulted in measurable improvement."
-    CORRECT: "Years of preparation resulted in a successful launch."
-    INCORRECT: "The intervention resulted into measurable improvement." ("into" implies transformation, not outcome)
-    INCORRECT: "The intervention resulted to measurable improvement." ("to" is not idiomatic here)
-    MEMORY AID: A result exists IN a domain - the outcome materializes within a space ("in improvement," "in success," "in failure"). Think of the outcome as something you arrive IN, not something you arrive TO.
-
-16. STEM FROM (not "stem in" or "stem because of")
-    CORRECT: "The problem stems from inadequate funding."
-    CORRECT: "Many of the errors in the dataset stem from inconsistent data entry procedures."
-    INCORRECT: "The problem stems in inadequate funding." ("in" is not idiomatic with "stem")
-    MEMORY AID: A stem grows FROM its root. Problems "stem from" their causes - they grow outward FROM the source. The source is what you move FROM.
-
-17. ACCOUNT FOR (not "account to" or "account about")
-    CORRECT: "Researchers must account for all confounding variables."
-    CORRECT: "The model failed to account for the role of socioeconomic factors."
-    INCORRECT: "Researchers must account about all confounding variables." ("about" is not idiomatic with "account")
-    MEMORY AID: To account FOR something is to take responsibility FOR it or make provision FOR it - "for" signals that the thing after it is what is being covered or addressed.
-
-### Group 3: Noun + Preposition Pairings
-
-18. DEBATE OVER / DEBATE ABOUT (not "debate on")
-    CORRECT: "The debate over climate policy has intensified."
-    CORRECT: "There is ongoing debate about the methodology among scholars."
-    LESS PREFERRED: "The debate on climate policy has intensified." (common but not formal standard)
-    NOTE: "Debate over" and "debate about" are both correct and preferred. "Debate on" is common in informal usage but the Digital SAT's formal passages favor "over" or "about."
-    MEMORY AID: A debate goes OVER a contested issue (it circulates around, covering the question from multiple angles) or is ABOUT a topic.
-
-19. BAN ON (not "ban against" or "ban of")
-    CORRECT: "The committee imposed a ban on single-use plastics."
-    CORRECT: "The international treaty includes a ban on chemical weapons testing."
-    INCORRECT: "The committee imposed a ban against single-use plastics." ("against" is not the standard pairing with "ban")
-    INCORRECT: "The committee imposed a ban of single-use plastics." ("of" is wrong)
-    MEMORY AID: A ban is placed ON a category of things - it sits ON top of them, applying to them. "The ban on X" means the prohibition applies specifically ON or TO X.
-
-20. CONCERN ABOUT / CONCERN OVER (not "concern of")
-    CORRECT: "There is growing concern about data privacy in the research community."
-    CORRECT: "Concern over the findings led to a second independent review."
-    INCORRECT: "There is growing concern of data privacy." ("of" is not idiomatic with "concern")
-    NOTE: Both "concern about" and "concern over" are standard. "Concern of" is always wrong.
-    MEMORY AID: You are concerned ABOUT something that troubles you - your attention is directed TOWARD the concern. "About" and "over" both capture this directed attention.
-
-21. INTEREST IN (not "interest for" or "interest about")
-    CORRECT: "Her interest in neuroscience led to her doctoral research."
-    CORRECT: "The growing interest in renewable energy has attracted significant investment."
-    INCORRECT: "Her interest for neuroscience led to her doctoral research." ("for" is not idiomatic with "interest" as a noun)
-    NOTE: "Interested in" (adjective) and "interest in" (noun) both use "in."
-    MEMORY AID: Interest is located IN a domain. You have interest IN a field - your attention is directed WITHIN that area.
-
-### Group 4: Phrase Constructions
-
-22. SO...THAT (not "so...as to" or "so...which")
-    CORRECT: "The sample was so small that the results were inconclusive."
-    CORRECT: "The findings were so surprising that the team immediately launched a follow-up study."
-    INCORRECT: "The sample was so small as to make the results inconclusive." (less preferred)
-    INCORRECT: "The sample was so small which made the results inconclusive." ("which" cannot replace "that" here)
-    NOTE: The Digital SAT tests "so [adjective] that [clause]" as the standard consequence construction.
-
-23. AS...AS (not "as...than" or "as...like")
-    CORRECT: "The new model is as accurate as the original."
-    CORRECT: "The results are not as conclusive as the team had hoped."
-    INCORRECT: "The new model is as accurate than the original." ("more...than" and "as...as" are two separate constructions that must not be mixed)
-    MEMORY AID: "As...as" = same degree. "More...than" = greater degree. Never mix the two patterns.
-
-24. NOT SO MUCH...AS (not "not so much...but" or "not so much...than")
-    CORRECT: "The challenge is not so much the data collection as the interpretation of the results."
-    CORRECT: "The problem is not so much what the data shows as how it has been framed."
-    INCORRECT: "The challenge is not so much the data collection but the interpretation." ("but" cannot replace "as" in this construction)
-    INCORRECT: "The challenge is not so much the data collection than the interpretation." ("than" is for comparisons with "more/less," not with "not so much")
-    MEMORY AID: "Not so much X AS Y" - the "as" introduces the more accurate or greater element. Y is what it IS more than X. The construction uses "as" for contrast, not "but" or "than."
-
-25. MORE...THAN / LESS...THAN (not "more...as" or "less...as")
-    CORRECT: "The second phase was more complex than anticipated."
-    CORRECT: "The revised protocol is less time-consuming than the original."
-    INCORRECT: "The second phase was more complex as anticipated." ("as" belongs to "as...as," not to "more...than")
-    INCORRECT: "The revised protocol is less time-consuming as the original." ("less...as" is not standard)
-    MEMORY AID: The two degree constructions are: EQUALITY = "as...as." DIFFERENCE = "more/less...than." Never substitute one conjunction for the other.
-
----
-
-## Eight Worked Examples: Logical Comparisons and Idioms Combined
-
-The following examples combine both concepts as the Digital SAT presents them.
-
-EXAMPLE 1 (Idiom + comparison combined):
-"The academic credentials of this candidate are different than the other applicants."
-ERROR 1: "different than" → "different from" (idiom: "different from" for noun phrases)
-ERROR 2: "the other applicants" → "those of the other applicants" (comparison: credentials vs applicants; add "those of" to compare credentials to credentials)
-CORRECT: "The academic credentials of this candidate are different from those of the other applicants."
-NOTE: Both errors are fixed in the corrected version. The answer choices on the Digital SAT would offer versions that fix one, both, or neither - the correct answer fixes both.
-
-EXAMPLE 2 (Idiom - verb + preposition):
-"The new policy prohibits researchers to use unconsented data."
-ERROR: "prohibits...to use" should be "prohibits...from using."
-CORRECT: "The new policy prohibits researchers from using unconsented data."
-
-EXAMPLE 3 (Unlike + possessive trap):
-"Unlike traditional models, the new algorithm's accuracy is significantly higher."
-ERROR: "Unlike traditional models" introduces a comparison of models (systems). Main clause subject: "the new algorithm's accuracy" (a measurement). Models cannot be compared to accuracy measurements.
-POSSESSIVE TRAP: "the new algorithm's accuracy" - "the new algorithm's" is possessive. The grammatical subject is "accuracy," not "the algorithm."
-CORRECT: "Unlike traditional models, the new algorithm achieves significantly higher accuracy."
-"The new algorithm" (a model) is now the main clause subject - comparable to "traditional models."
-
-EXAMPLE 4 (As...as - CORRECT):
-"The second study was not as comprehensive as the first."
-ANALYSIS: This is CORRECT. "Not as [adjective] as" is the negative form of the "as...as" equality construction. Both elements are correctly parallel (both describe "comprehensive" in comparative relationship). No error.
-
-EXAMPLE 5 (Regard as):
-"Most scholars regard this text to be the definitive account."
-ERROR: "regard...to be" - "to be" is never correct with "regard" in this sense.
-CORRECT: "Most scholars regard this text as the definitive account."
-VERIFICATION: Can you substitute "classify" for "regard"? "Most scholars classify this text as the definitive account." - "as" works with "classify" too. Both classification verbs take "as."
-
-EXAMPLE 6 (Quality vs places):
-"The quality of education in urban districts is often higher than rural districts."
-ERROR: "quality of education" (an attribute, a standard) vs "rural districts" (geographic/administrative areas).
-CORRECT: "The quality of education in urban districts is often higher than that of rural districts."
-"That of rural districts" = the quality of education of rural districts → quality compared to quality.
-EQUAL SIGN TEST: "quality = rural districts" → fails. "quality = that of rural districts" (= quality of rural districts) → passes.
-
-EXAMPLE 7 (Attribute to):
-"The authors attributed the discrepancy with a flaw in the sampling procedure."
-ERROR: "attributed...with" - "with" is not the correct preposition after "attribute."
-CORRECT: "The authors attributed the discrepancy to a flaw in the sampling procedure."
-MEMORY: Attribution points TO a cause. "Attribute TO" - the attribution goes in the direction of the cause.
-CONFIRMATION: "Attributed to" is equivalent to "caused by" - you could say "The discrepancy was caused by a flaw" → "attribute TO a flaw."
-
-EXAMPLE 8 (Compound - idiom + potential comparison):
-"Her research has been regarded like the most influential contribution to the field, surpassing the work of any other researcher."
-
-ERROR ANALYSIS:
-(1) "regarded like" → "regarded as." "Like" introduces comparisons; "as" is required with "regard."
-(2) "surpassing the work of any other researcher" - is this a comparison error? LEFT: "her research" (work). RIGHT: "the work of any other researcher" (also work). Work compared to work → CORRECT. This is not an error.
-
-So only one error exists in this sentence:
-CORRECT: "Her research has been regarded as the most influential contribution to the field, surpassing the work of any other researcher."
-
-LESSON: Not every sentence with a comparison word contains a comparison error. Always apply the equal-sign test rather than assuming an error exists. "Surpassing the work of any other researcher" correctly compares work to work.
-
----
-
-## Extended Idiom Coverage: Additional Patterns
-
-### Adjective + Preposition: Additional Pairings
-
-CONTRARY TO (not "contrary of"):
-"Contrary to popular belief, the findings showed no significant correlation."
-"Contrary to the original hypothesis, the intervention showed no measurable effect."
-"Contrary to what was expected" - "to" governs the phrase following "contrary."
-NOTE: "Contrary to" frequently introduces a sentence that corrects a false assumption - "contrary to X, the reality is Y." This rhetorical pattern appears often in Digital SAT passages.
-
-CONSISTENT WITH (not "consistent to"):
-"The results were consistent with the original hypothesis."
-
-CHARACTERISTIC OF (not "characteristic to" or "characteristic for"):
-"This pattern is characteristic of populations under resource stress."
-"Rapid cell division is characteristic of cancerous tissue."
-"Characteristic of" - the characteristic belongs to (is OF) the entity or population described. "Of" indicates this belonging relationship.
-
-INDICATIVE OF (not "indicative to" or "indicative for"):
-"The early data are indicative of a positive trend."
-"A sudden increase in volatility is often indicative of an underlying structural change."
-"Indicative of" - something is indicative OF a condition, meaning it points toward that condition as evidence. "Of" signals this evidential pointing relationship.
-
-SUBJECT TO (not "subject of"):
-"All proposals are subject to committee review."
-"The results are subject to revision pending the full dataset analysis."
-"Subject to" - to be under the authority or effect of something. "To" indicates direction toward the governing principle or condition.
-
-COMMITTED TO (not "committed for" or "committed in"):
-"The organization is committed to transparency in reporting."
-"The team is committed to completing the study within the proposed timeline."
-"Committed to" - commitment is directed TOWARD a goal or principle. "To" captures this directional dedication.
-
-DEDICATED TO (not "dedicated for"):
-"She has dedicated her career to understanding neurodegenerative diseases."
-"The journal is dedicated to publishing research on environmental sustainability."
-"Dedicated to" - dedication is directed TOWARD something. Like "committed to," the "to" captures directionality of purpose.
-
-### Verb + Preposition: Additional Pairings
-
-AGREE WITH (a person) / AGREE ON (a topic) / AGREE TO (a proposal):
-"The researchers agreed with the lead author's interpretation." (agreeing with a stated opinion)
-"The team agreed on a revised timeline." (reaching consensus on a decision)
-"Both parties agreed to the new terms." (accepting a formal proposal)
-NOTE: The correct preposition changes based on what follows "agree." This three-way distinction is unusual in the idiom list - most verbs have only one correct preposition. For "agree," always identify what follows before selecting the preposition.
-
-INSIST ON (not "insist to" or "insist about"):
-"The reviewer insisted on a complete revision."
-"The committee insisted on full transparency throughout the process."
-"Insist on" is followed by a noun phrase or gerund: "insisted on revising," "insisted on completion," "insisted on her right to appeal."
-
-OBJECT TO (not "object with" or "object about"):
-"Several committee members objected to the proposed changes."
-"She strongly objected to being excluded from the decision-making process."
-"Object to" signals directed opposition - you object in the direction of the thing you oppose. "To" captures this directed relationship.
-
-CONTRIBUTE TO (not "contribute for" or "contribute in"):
-"Her work contributed to the advancement of the field."
-"Each team member contributed to the final report in a meaningful way."
-"Contribute to" - contributions go TOWARD something; they move in the direction of the recipient or cause. "To" captures this directional movement.
-
-RELY ON (not "rely to" or "rely with"):
-"The study relies on self-reported data."
-"Effective policy relies on accurate research and reliable data collection."
-"Rely on" - reliance rests ON a foundation. You place your trust ON something, as though standing on it. "On" captures this foundational relationship.
-
-CONFORM TO (not "conform with" or "conform by"):
-"All submissions must conform to the style guidelines."
-"The experimental design must conform to the ethical standards established by the review board."
-"Conform to" - conformity is alignment toward a standard. You adjust TO fit the standard. "To" signals this directed alignment.
-NOTE: "Conform with" is occasionally acceptable in British English but "conform to" is the standard tested on the Digital SAT.
-
-### "Not Only...But Also" and Idiom Interaction
-
-When idioms appear inside correlative conjunction constructions, both the idiom and the parallel structure must be correct simultaneously.
-
-INCORRECT: "She is not only interested about the data but also committed for the analysis."
-TWO ERRORS: "interested about" should be "interested in"; "committed for" should be "committed to."
-CORRECT: "She is not only interested in the data but also committed to the analysis."
-
-INCORRECT: "The study was regarded to be both accurate and consistent to previous findings."
-TWO ERRORS: "regarded to be" should be "regarded as"; "consistent to" should be "consistent with."
-CORRECT: "The study was regarded as both accurate and consistent with previous findings."
-
-## Extended Comparison Examples: All Patterns at Every Difficulty Level
-
-### Pattern 1 Additional: Quantity vs Place (Harder Variants)
-
-22. HARDER - NESTED POSSESSIVE:
-INCORRECT: "The rate of economic growth in Singapore has consistently outpaced China."
-"Rate of growth" (a metric) vs "China" (a country). Also note: this could be read as Singapore outpacing the country of China rather than its growth rate.
-CORRECT: "The rate of economic growth in Singapore has consistently outpaced that of China."
-
-23. HARDER - EMBEDDED COMPARISON:
-INCORRECT: "Researchers found that the carbon emissions of developed nations, while declining, still exceed developing nations by a significant margin."
-"Carbon emissions" vs "developing nations."
-CORRECT: "Researchers found that the carbon emissions of developed nations, while declining, still exceed those of developing nations by a significant margin."
-
-24. PASSABLE STRUCTURE (CORRECT):
-CORRECT: "San Francisco's housing market is more expensive than Seattle's."
-The possessive "San Francisco's" and "Seattle's" both refer to housing markets → market compared to market. No error.
-
-### Pattern 4 Additional: "Like" and "Unlike" Harder Variants
-
-25. HARDER - MULTIPLE NOUNS IN PHRASE:
-INCORRECT: "Like the most celebrated novels of the Victorian era, the author's themes explore social inequality."
-"Like the most celebrated novels of the Victorian era" (novels, things) vs "the author's themes" (themes, different things).
-CORRECT: "Like the most celebrated novels of the Victorian era, this novel explores themes of social inequality."
-Now "this novel" (a novel) is compared to "the most celebrated novels."
-
-26. HARDER - SUBJECT CONCEALED IN PASSIVE:
-INCORRECT: "Like many scientific breakthroughs, the discovery was made by accident."
-ANALYSIS: "Like many scientific breakthroughs" (breakthroughs/events) vs "the discovery" (also a breakthrough/event). This is actually CORRECT - a discovery is a type of scientific breakthrough, so the comparison is logically valid.
-
-27. TRICKY - "UNLIKE" WITH POSSESSIVE:
-INCORRECT: "Unlike her mentor's cautious approach, she embraced bold experimentation."
-"Unlike her mentor's cautious approach" (an approach) vs "she" (a person). Approaches and people are not comparable.
-CORRECT: "Unlike her mentor's cautious approach, her approach embraced bold experimentation."
-OR: "Unlike her mentor, she embraced bold experimentation." (compare persons)
-
-### The Comparison Decision Tree
-
-For every comparison question, run this 4-step sequence:
-
-STEP 1: Find the comparison word ("than," "as...as," "like," "unlike," "similar to," "compared to," "different from").
-STEP 2: Identify what is on the LEFT side of the comparison - state the category precisely (person, place, quantity, rate, method, finding, policy, etc.).
-STEP 3: Identify what is on the RIGHT side - state its category.
-STEP 4: Are both categories the same? If yes → no error. If no → error. Fix: "that of" (singular left noun) / "those of" (plural left noun) / possessive / restructure the sentence.
-
-TIMING: This 4-step sequence takes 5 to 8 seconds once practiced. On the exam, most comparison questions are identifiable and fixable in under 20 seconds.
-
-This 4-step sequence takes 5 to 8 seconds per sentence and is 100% reliable for identifying comparison errors.
-
----
-
-## Extended Idiom Coverage: Full 25 Idioms with Worked Sentences
-
-### Group 1 Extended: Adjective + Preposition
-
-DIFFERENT FROM in a complex sentence:
-"The experimental results were completely different from what the theoretical model had predicted."
-"Different from" followed by a clause - "what the theoretical model had predicted" - is also correct. "Different from" governs both noun phrases and clause complements.
-
-RESPONSIBLE FOR in a compound sentence:
-"The lead investigator was responsible for coordinating data collection, managing the team, and submitting the final report."
-"Responsible for" governs all three gerund phrases in the list. The idiom must remain consistent across all items - "responsible for [gerund]" throughout.
-
-CAPABLE OF in a comparative context:
-"The new instrument is capable of detecting concentrations ten times lower than its predecessor."
-"Capable of detecting" - gerund following the idiom is the standard construction.
-
-FAMILIAR WITH combined with comparatives:
-"Most researchers in the field are familiar with the foundational studies but less familiar with recent replication attempts."
-"Familiar with" repeated in both arms; note that "less familiar with" correctly maintains the idiom across the comparison. Both arms use "with."
-
-INDEPENDENT OF with intensifiers:
-"The control group's outcomes were entirely independent of any intervention, as intended by the study design."
-"Independent of" with an intensifier ("entirely") - the preposition stays the same regardless of the modifier. "Completely independent of," "largely independent of," "wholly independent of" all follow the same pattern.
-
-### Group 2 Extended: Verb + Preposition
-
-REGARD AS in passive constructions:
-"This 1962 paper is widely regarded as the foundational text for the entire discipline."
-"Regarded as" in passive voice: the idiom remains "as" even when the verb is passive. "Regarded to be" is wrong whether active or passive.
-
-ATTRIBUTE TO with multiple attributions:
-"The improvement in outcomes can be attributed to better early detection, improved treatment protocols, and greater patient compliance."
-"Attributed to" governs all three noun phrases. The preposition "to" applies to the entire list.
-
-PROHIBIT FROM in formal institutional language:
-"University policy strictly prohibits faculty from serving on dissertation committees for their own graduate students."
-"Prohibits faculty from serving" - note that the gerund "serving" follows "from."
-
-SUCCEED IN with complex gerund phrases:
-"The research team succeeded in developing a model that accurately predicts the behavior of the compound under various temperature conditions."
-"Succeeded in developing" - the gerund follows "in."
-
-COMPLY WITH in regulatory contexts:
-"All submitted manuscripts must comply with the journal's formatting guidelines before peer review begins."
-"Comply with" - "with" is followed by the noun phrase "the journal's formatting guidelines."
-
-STEM FROM in academic analysis:
-"Many of the errors in the original dataset appear to stem from inconsistencies in the data entry procedures used during the first year of the study."
-"Stem from" - "from" introduces the cause.
-
-DISTINGUISH FROM in scientific writing:
-"A key challenge in this field is distinguishing correlation from causation based on observational data alone."
-"Distinguishing correlation from causation" - the preposition "from" separates the two things being distinguished.
-
-### Group 3 Extended: Noun + Preposition
-
-BAN ON in policy contexts:
-"The 2021 legislation imposed a comprehensive ban on the use of certain industrial chemicals in consumer products."
-"Ban on" - "on" governs the thing that is banned.
-
-CONCERN ABOUT in academic discourse:
-"Concerns about reproducibility have prompted major journals to require data sharing as a condition of publication."
-"Concerns about" - note the plural "concerns" is natural; the preposition remains "about."
-
-DEBATE OVER / ABOUT in scholarly contexts:
-"The debate over whether artificial intelligence constitutes genuine intelligence remains unresolved in the philosophy of mind literature."
-"Debate over whether" - "over" can precede a clause introduced by "whether."
-
-### Group 4 Extended: Phrase Constructions
-
-AS...AS in negative constructions:
-"The second trial was not as well-controlled as the first, which limits the comparability of the results."
-"Not as well-controlled as" - negative "as...as" construction is correct.
-
-MORE...THAN in multi-part comparisons:
-"The integrated approach proved more effective, more cost-efficient, and more scalable than any of the single-strategy alternatives."
-"More [adjective], more [adjective], and more [adjective] than" - the parallel construction maintains "more...than" throughout.
-
-NOT SO MUCH...AS with noun phrases:
-"The problem was not so much a lack of data as an inability to interpret the available evidence correctly."
-"Not so much [noun phrase] as [noun phrase]" - the standard pattern with two noun phrases.
-
----
-
-## Idiom Groups by Difficulty Level
-
-For exam preparation, the 25 idioms can be organized by how frequently they appear and how tricky the wrong forms are.
-
-HIGHEST PRIORITY (most frequently tested, most commonly confused):
-1. Different FROM (vs "different than") - appears in comparison and description contexts
-2. Regard AS (vs "regard to be") - appears in academic evaluation contexts
-3. Prohibit FROM (vs "prohibit to") - appears in policy and regulatory contexts
-4. Capable OF (vs "capable to") - appears in description of abilities or features
-5. Attribute TO (vs "attribute with") - appears in causal analysis contexts
-6. Succeed IN (vs "succeed at") - appears in achievement contexts
-
-MODERATE PRIORITY (regularly tested):
-7. Responsible FOR - "The team is responsible for quality control" (not "responsible of")
-8. Comply WITH - "All submissions must comply with guidelines" (not "comply to")
-9. Similar TO - "This approach is similar to the established method" (not "similar as")
-10. Familiar WITH - "The researcher is familiar with the literature" (not "familiar of")
-11. Independent OF - "Results independent of external factors" (not "independent from")
-12. Consistent WITH - "Findings consistent with the hypothesis" (not "consistent to")
-13. Contribute TO - "Her work contributed to the field" (not "contribute for")
-14. Rely ON - "The model relies on three assumptions" (not "rely to")
-15. Ban ON - "A ban on certain substances" (not "ban against")
-
-SUPPORTING KNOWLEDGE (tested less frequently but worth knowing):
-16. Debate OVER/ABOUT - "The debate over methodology" or "debate about findings"
-17. Insist ON - "The reviewer insisted on a complete revision" (not "insist to")
-18. Object TO - "Members objected to the proposed changes" (not "object with")
-19. Contrary TO - "Contrary to popular belief, the data shows..." (not "contrary of")
-20. Characteristic OF - "A pattern characteristic of stress responses" (not "characteristic to")
-21. Indicative OF - "Results indicative of a positive trend" (not "indicative to")
-22. Dedicated TO - "Dedicated to advancing research" (not "dedicated for")
-23. Concerned ABOUT / WITH - "Concerned about reproducibility" or "concerned with methodology"
-24. Stem FROM - "Errors stem from inconsistent procedures" (not "stem in")
-25. Distinguish FROM - "Distinguish correlation from causation" (not "distinguish than")
-
----
-
-## The Comparison-Idiom Connection
-
-Logical comparisons and idiomatic expressions are grouped in this article because they share a preparation principle: both require explicit memorization of correct forms that sound natural in their wrong versions. Neither can be fully prepared for through rule application alone.
-
-Logical comparisons require memorizing the "that of / those of" fix and the principle of like-to-like comparison. Idiomatic expressions require memorizing the 25 preposition pairings. In both cases, the preparation is finite and the payoff is complete: once memorized, every comparison question and every idiom question has a clearly correct answer that the prepared student can identify rapidly.
-
-Together, these two question types account for roughly 15% of all Digital SAT Writing questions. A student who has mastered both achieves reliable correct answers on a meaningful proportion of the section with preparation that is entirely within their control.
-
----
-
-## Practice Protocol
-
-PHASE 1: MEMORIZATION (first week)
-Memorize the 25 idiom pairings using flashcards or spaced repetition. For each idiom, create one example sentence using the correct form and one showing the wrong form. Writing both versions reinforces why the wrong form is wrong.
-
-For the 25 idioms, group them by priority: memorize the six highest-priority pairings first (different from, regard as, prohibit from, capable of, attribute to, succeed in). These six are tested most frequently and produce the highest return on memorization time. Then add the moderate-priority group (9 more pairings), then the supporting group (10 more). This staged approach ensures the most tested idioms are locked in first.
-
-For comparison patterns, practice the equal-sign test on ten sentences per day. Write out the two things being compared and draw the equal sign: "GDP = France" (fails) → error. "GDP = that of France" (passes) → correct.
-
-PHASE 2: RECOGNITION PRACTICE (second week)
-Complete 20 idiom questions and 20 comparison questions per day, focusing on identifying the error type before reading the answer choices.
-
-For comparison questions: before reading the answer choices, identify both sides of the comparison and apply the equal-sign test. Write out "LEFT = RIGHT" and determine whether it holds. If not, determine whether the fix requires "that of," "those of," a possessive, or restructuring. Then read the answer choices and select the one matching your predetermined fix. For idioms: identify the central word (verb, adjective, noun) and recall the correct preposition. For comparisons: apply the equal-sign test before reading choices.
-
-PHASE 3: TIMED INTEGRATION (third week)
-Complete full Writing modules under timed conditions. Idiom questions should resolve in 10 to 20 seconds (recall the correct form, select it). Comparison questions should resolve in 15 to 25 seconds (equal-sign test, identify fix, select correct answer). These are among the most time-efficient questions on the Writing section once the knowledge is solid.
-
-A benchmark for completion: a student who can identify and categorize every error in this article's 25 idioms and 21 comparison examples without hesitation is ready for the exam. That recognition speed is the product of the memorization and practice protocol described in Phase 1 and Phase 2.
-
----
+### The twenty-five most-tested SAT idioms
+
+| Idiom | Standard preposition | Short usage example |
+|---|---|---|
+| different | from | Her method is different *from* the standard approach. |
+| prohibit | from | The rule prohibits drivers *from* parking here. |
+| regard | as | Critics regard the novel *as* a masterpiece. |
+| responsible | for | The committee is responsible *for* the budget. |
+| capable | of | The engine is capable *of* great speed. |
+| succeed | in | She succeeded *in* persuading the board. |
+| comply | with | Firms must comply *with* the regulation. |
+| attribute | to | He attributed the delay *to* bad weather. |
+| debate | over / about | A debate *over* the proposal continued. |
+| ban | on | The city imposed a ban *on* fireworks. |
+| preoccupied | with | He was preoccupied *with* the deadline. |
+| independent | of | The finding is independent *of* the sample size. |
+| consist | of | The committee consists *of* nine members. |
+| composed | of | Water is composed *of* hydrogen and oxygen. |
+| preferable | to | Walking is preferable *to* driving downtown. |
+| superior | to | The new model is superior *to* the old one. |
+| native | to | The species is native *to* the wetlands. |
+| similar | to | Her style is similar *to* her mentor's. |
+| opposed | to | Residents were opposed *to* the rezoning. |
+| insist | on | She insisted *on* paying the full amount. |
+| rely | on | Farmers rely *on* seasonal rainfall. |
+| based | on | The film is based *on* a true account. |
+| centered | on | The discussion centered *on* funding. |
+| accuse | of | The article accused officials *of* negligence. |
+| sympathize | with | Readers sympathize *with* the narrator. |
+
+A few entries on that list deserve a closer note because they hide a near-miss the exam exploits. "Centered on" is standard; "centered around" is the common error, since a center is a point and cannot logically sit "around" anything, yet the phrase saturates casual speech. "Preferable to" never takes "than," even though "prefer" feels comparative; "preferable than" is always wrong. "Independent of" resists the pull toward "independent from," which sounds plausible but is not the tested standard. And "debate over" or "debate about" are both accepted, so an item testing that idiom will hinge on some other flaw, not on choosing between those two. Knowing where the near-misses live turns the table from a memory chore into a map of the traps.
+
+There is a second tier worth absorbing once the core twenty-five are automatic: "result in" an outcome versus "result from" a cause, "contrast with" rather than "contrast to" in most constructions, "in contrast to" as the set phrase, "agree with" a person but "agree to" a proposal and "agree on" an issue, "devoted to," "interested in," "guilty of," and "blame for" or "blame on." These extend the same logic, a fixed verb or adjective demanding one specific preposition, and the exam draws from this wider pool on harder forms. The discipline is identical: when a verb or adjective is followed by a preposition, ask whether the standard pairing is the one on the page, and if your only evidence is that it sounds fine, distrust that evidence, because the ear is exactly the faculty these items are built to fool.
+
+### More worked comparisons: the patterns beyond the basic mismatch
+
+The first ten examples covered the central category mismatch and the most common idiom slips. The exam builds several further patterns on the same foundation, and working them deliberately closes the remaining gaps. Each pattern below is a real variant you should expect to meet.
+
+**Worked example eleven: the incomplete comparison.** The sentence reads, "The new battery lasts longer and charges faster." Longer and faster than what? An incomplete comparison names only one side of the balance and leaves the other implied, which the written standard treats as a flaw when the missing term is genuinely unclear. The repair supplies the second term: "lasts longer and charges faster than the previous model." The equal-sign test exposes the problem indirectly, because you cannot place anything on the right pan; there is no second item to weigh. When a comparative word like "longer," "faster," "more," or "fewer" appears with no stated point of comparison, ask whether the sentence has told you what the comparison is against, and if it has not, the choice that completes the comparison is usually correct.
+
+**Worked example twelve: the "as ... as" construction.** The sentence states, "Her second novel is as ambitious, if not more ambitious than, her first." The paired correlative "as ... as" must be completed before a different comparative structure takes over, and here "as ambitious" is left dangling without its second "as." The standard repair completes both structures: "as ambitious as, if not more ambitious than, her first." This is a comparison error of a structural kind rather than a category kind, and it rewards the reader who notices that "as" opens a frame that must be closed with a matching "as." The equal-sign test still helps, since both sides hold novels and the categories match; the flaw is the broken correlative frame, not a mismatch of kind.
+
+**Worked example thirteen: "compared to" versus "compared with."** The sentence reads, "Compared to last year, enrollment rose by eight percent." Both "compared to" and "compared with" are accepted in standard usage, with a fine traditional distinction, "compared to" for likeness and "compared with" for measured difference, but the exam rarely hinges an item on that subtlety alone. More often it pairs "compared to" with a buried category mismatch: "Compared to last year, the enrollment figures rose" weighs a year against figures, a mismatch repaired by "Compared to last year's figures" or "Compared with the figures from last year." Treat "compared to" as a flag to run the equal-sign test on the two things being set side by side, since the construction so easily smuggles in a mismatch.
+
+**Worked example fourteen: comparing amounts with "fewer" and "less."** The sentence states, "The revised plan requires less staff and fewer overhead." The words "fewer" and "less" are not interchangeable: "fewer" governs countable nouns and "less" governs uncountable ones, so the sentence has them reversed. The repair is "fewer staff and less overhead," since staff members are countable and overhead is a mass quantity. This pairing sits at the border of comparison and word-choice, and the exam tests it because the ear often defaults to "less" for everything. Whenever a quantity word precedes a noun in a comparison, check whether the noun can be counted, and match "fewer" to countable nouns and "less" to uncountable ones.
+
+**Worked example fifteen: the ambiguous comparison resolved by a verb.** The sentence reads, "The director praised the lead actor more than the producer." Two readings compete: the director praised the actor more than the director praised the producer, or more than the producer praised the actor. The first reading is coherent; the second is also coherent but different in meaning. The exam resolves the ambiguity by adding a verb that forces one reading: "more than the producer did" makes the producer a second praiser, while "more than he did the producer" makes the producer a second object of praise. When a comparison could attach to two different things, the correct choice is the one that disambiguates, usually by supplying the missing verb. The category match holds in both readings, so the flaw here is clarity rather than logic.
+
+**Worked example sixteen: "regard as" and the missing preposition.** The sentence states, "Many economists regard the policy a failure." The verb "regard" requires "as": "regard the policy as a failure." Dropping the "as" is a common error because the near-synonym "consider" takes no preposition at all ("consider the policy a failure" is standard). The two verbs mean nearly the same thing and govern different structures, so the exam tests "regard" to catch students who borrow the "consider" pattern. When you see "regard," supply "as" automatically, and when you see "consider," expect no preposition. This is another instance of near-synonym interference, the single most productive source of idiom items on the whole assessment.
+
+**Worked example seventeen: "responsible for" and "responsible to."** The sentence reads, "The new manager is responsible to overseeing three departments." The adjective "responsible" takes "for" plus a gerund when naming a duty: "responsible for overseeing three departments." The form "responsible to" exists but means accountable to a person ("responsible to the board"), a different sense, so the exam tests whether you know which preposition matches which meaning. When "responsible" introduces a task or duty, the pairing is "for" plus an -ing verb; when it introduces a person or authority one answers to, the pairing is "to." Reading the meaning tells you which preposition the standard wants, but only because you have stored both pairings in advance.
+
+**Worked example eighteen: a fused triple, comparison plus two idioms.** The hardest items stack errors. "Unlike the early paintings of Rothko, the later canvases were composed from larger fields of color and were superior than the works that preceded them." Three flaws hide here: the comparison pairs paintings against canvases, which actually matches in category, so that opening is sound; "composed from" should be "composed of"; and "superior than" should be "superior to." The correct choice repairs both idioms while leaving the sound comparison intact. This example teaches a final discipline: do not assume every comparison word signals an error, and do not assume every preposition is wrong. Run each test, confirm or clear each potential flaw, and select the choice that fixes the genuine errors without disturbing what was already correct.
+
+These eight further patterns, added to the first ten, give you eighteen worked items spanning every common form: the quantity-to-place mismatch, the possessive repair, the "like" and "unlike" constructions, the population comparison, the incomplete comparison, the "as ... as" frame, the ambiguous comparison, the "fewer" and "less" distinction, and idiom corrections across "different," "prohibit," "capable," "comply," "attribute," "regard," "responsible," "composed," and "superior." Working them until the diagnosis is automatic is the surest preparation for this corner of the Writing content.
+
+### The idiom families in depth
+
+The twenty-five-idiom table is a reference, but idioms become easier to retain when you see them grouped by the family they belong to, because the families share a structure and a logic. There are three broad families, and a handful of cross-cutting traps that the exam exploits across all of them.
+
+The first family is the **verb-plus-preposition** pairing, where a verb fixes a particular preposition that introduces its object or complement. "Comply with," "attribute to," "prohibit from," "succeed in," "insist on," "rely on," "accuse of," and "sympathize with" all belong here. The defining trap in this family is near-synonym interference: a verb close in meaning takes a different preposition, so the ear borrows the wrong one. "Comply with" sits beside "adhere to"; "attribute to" sits beside "blame on"; "prohibit from" sits beside "forbid to"; "regard as" sits beside "consider" with no preposition at all. The discipline is to store each verb with its own preposition and to be especially wary when a verb has a familiar cousin, because the cousin is exactly what the wrong answer borrows from.
+
+The second family is the **adjective-plus-preposition** pairing, where an adjective demands a specific preposition before its complement. "Different from," "capable of," "responsible for," "independent of," "preferable to," "superior to," "native to," "similar to," "opposed to," and "preoccupied with" populate this group. A recurring trap here is the comparative-feeling adjective that resists "than": "preferable" and "superior" both carry a sense of comparison, so the ear wants "preferable than" and "superior than," yet the standard fixes both to "to." Another trap is the adjective that pairs with "of" plus a gerund when an action follows, as in "capable of detecting" rather than "capable to detect." Grouping the adjectives this way, and noting which ones reject "than" and which ones want "of" plus an -ing verb, turns a scattered list into a small set of patterns.
+
+The third family is the **noun-plus-preposition** pairing, where a noun governs the preposition that follows it. "A ban on," "a debate over" or "about," "a preoccupation with," "an attribute of," and "a contrast with" or "in contrast to" belong here. Nouns formed from verbs often keep a preposition related to the verb's, so "a reliance on" follows "rely on" and "an insistence on" follows "insist on," which gives you a way to reason from the verb to the noun within a single root. The trap in this family is that the noun form sometimes shifts the preposition slightly from the verb form, so "different from" as an adjective pairs with "a difference between" or "a difference from" as a noun depending on the construction, and the exam tests whether you track the shift.
+
+Across all three families runs a single cross-cutting trap that deserves its own mention: the **gerund-versus-infinitive** choice after the preposition. Once a verb or adjective has fixed its preposition, an action that follows usually takes the gerund, the -ing form, not the infinitive. "Capable of detecting," "prohibited from parking," "succeeded in persuading," "responsible for overseeing," and "insisted on paying" all use the gerund because a preposition governs them, and a preposition is followed by a noun or a gerund, never by an infinitive. The error "capable to detect," "prohibited to park," "succeeded to persuade" substitutes the infinitive and is reliably wrong. This single rule, that a preposition takes a gerund rather than an infinitive, resolves a large share of the harder idiom items at a stroke, because the exam loves to pair the right preposition with the wrong following verb form to see whether you notice.
+
+A short tour of the second-tier pairings rounds out the families. "Result in" introduces an outcome ("the delay resulted in higher costs"), while "result from" introduces a cause ("the higher costs resulted from the delay"), and the exam tests whether you can tell the effect direction from the preposition. "Agree with" applies to a person ("I agree with her"), "agree to" applies to a proposal ("they agreed to the terms"), and "agree on" applies to a shared issue ("the parties agreed on a date"), three prepositions for one verb sorted by what follows it. "Contrast with" is the usual verb pairing ("the result contrasts with the prediction"), while "in contrast to" is the set phrase that opens a sentence. "Devoted to," "interested in," "guilty of," "tired of," and "capable of" extend the adjective family, each fixed by convention. None of these can be derived from meaning, which is why even the second tier rewards drilling rather than reasoning.
+
+The practical upshot of grouping idioms into families is retention. A flat list of twenty-five pairings is hard to hold; three families with shared structures and a single gerund rule are far easier, because you are storing patterns rather than isolated facts. When an idiom item appears, identify the family first, verb, adjective, or noun, then recall the family's standard preposition and check whether an action that follows wants the gerund. That two-step recall is faster and more reliable than scanning a memorized list item by item, and it scales to the second-tier pairings the harder routing draws on.
+
+### A worked walkthrough of attacking the four choices
+
+Strategy becomes concrete when you watch it run on a full item, so here is the procedure applied end to end. Suppose the question underlines a stretch of this sentence: "The migratory range of the arctic tern is far greater than the albatross, a bird often assumed to travel the longest distances." The four choices offer "than the albatross," "than that of the albatross," "than the albatross's," and "than those of the albatross."
+
+Step one is to name the family. The sentence contains "than," so this is a comparison, and you run the equal-sign test. The two compared items are "the migratory range of the arctic tern" and whatever follows "than." Range is a singular quantity, so the right pan must hold a range, not a bird.
+
+Step two is to test each choice against that diagnosis. "Than the albatross" pairs range against a bird, a category mismatch, so it is out. "Than those of the albatross" uses the plural stand-in "those," but the noun being replaced, "range," is singular, so the number disagrees and it is out. That leaves "than that of the albatross," where singular "that" carries "range," and "than the albatross's," where the possessive carries "range." Both balance the equal sign and both are grammatical.
+
+Step three is to find the discriminator between the two survivors, because the exam will not present two fully correct answers. Reread both in context. "Greater than that of the albatross" is clean. "Greater than the albatross's" is also clean, but the surrounding sentence and the answer set will usually tilt toward one; if the test intends the explicit stand-in, "that of" is the keyed answer, and if it intends compression, the possessive is. When two repairs are genuinely equal, look for a buried second error in one of them, an idiom or agreement slip, that the exam has planted to break the tie. The correct choice is the one that balances the comparison and carries no second flaw.
+
+This three-step run, name the family, test each choice against the single diagnostic, then discriminate between survivors, is the same procedure for every comparison and idiom item, and it is fast because it never asks you to read the choices holistically. You are not searching for the option that sounds best; you are eliminating the options that fail one precise test. Practiced to reflex, the whole walkthrough takes under thirty seconds, which is exactly the speed that turns these items into the time bank the rest of the section needs.
+
+### Worked corrections across the remaining high-frequency pairings
+
+To make every entry in the reference table a recognized face rather than a name on a list, here are short worked corrections for the pairings the first eighteen examples did not yet exercise. Each follows the same shape: the flawed version, the standard repair, and the reason the error tempts the ear.
+
+The verb "succeed" takes "in" plus a gerund. "After months of lobbying, the coalition succeeded to pass the measure" should read "succeeded in passing the measure." The infinitive tempts because "managed to pass" is standard and "manage" and "succeed" feel interchangeable, but the prepositions diverge. The verb "insist" takes "on" plus a gerund or noun. "The auditor insisted to review every transaction" should read "insisted on reviewing every transaction." The pull toward the infinitive comes from "demanded to review," where "demand" does take the infinitive, another near-synonym crossover.
+
+The verb "rely" takes "on" or "upon." "Coastal towns rely in tourism for most of their income" should read "rely on tourism." The wrong preposition "in" intrudes because "invest in" and "trade in" sit nearby in the economic vocabulary, priming the ear. The adjective "native" takes "to." "The kangaroo is native of Australia" should read "native to Australia." The error "native of" appears because "a native of Australia," using "native" as a noun, is correct, so the adjective borrows the noun's preposition. Meaning and part of speech together fix the standard, but only memory tells you which one the sentence is using.
+
+The adjective "opposed" takes "to." "The council was opposed against the new levy" should read "opposed to the new levy." The redundant "against" creeps in because "against" already carries opposition, so the ear doubles the idea. The verb "sympathize" takes "with." "Readers tend to sympathize for the narrator" should read "sympathize with the narrator." The error "sympathize for" borrows from "feel sympathy for," where the noun form does take "for," another verb-versus-noun crossover within a single root.
+
+The verb "accuse" takes "of" plus a gerund or noun. "The report accused the agency for ignoring the warnings" should read "accused the agency of ignoring the warnings." The wrong "for" comes from "blamed the agency for," since "blame" takes "for" and "accuse" takes "of," two close verbs with different prepositions. The adjective "preoccupied" takes "with." "Throughout the spring she was preoccupied by the upcoming defense" can stand in some registers, but the tested standard is "preoccupied with the upcoming defense," and the exam keys "with."
+
+The adjective "independent" takes "of." "The result proved independent from the sample size" should read "independent of the sample size." The error "independent from" sounds plausible because "free from" and "separate from" sit nearby, but the standard fixes "independent" to "of." The verb "consist" takes "of." "The panel consists in five experts" should read "consists of five experts," since "consist in" exists but means something different ("happiness consists in contentment," meaning is found in), a sense the exam can exploit by offering "consist in" where "consist of" belongs.
+
+Finally, the noun "ban" takes "on" and the noun "debate" takes "over" or "about." "The legislature imposed a ban against single-use plastics" should read "a ban on single-use plastics," and "a debate around the proposal" is better as "a debate over the proposal" or "a debate about the proposal," though "around" has crept into casual use. Working these remaining pairings alongside the earlier eighteen examples means every entry in the reference table now has a face, a flaw, and a repair attached, which is the condition under which the pairing fires automatically on test day.
+
+### A diagnostic error-category rubric
+
+When you review practice items, sorting your misses into categories tells you where the preparation should go, so here is a rubric that classifies every comparison and idiom error into a small set of types. Use it to label each item you get wrong, then drill the category that recurs.
+
+The first category is the **category mismatch**, the classic faulty comparison, where the two compared nouns belong to different kinds. The signal is "than," "as," "like," or "unlike" joining a quantity to a place, a thing to a person, or a body of work to its creator. The repair tool is "that of," "those of," or a possessive. If your misses cluster here, drill the equal-sign test until landing on the two flanking nouns is automatic.
+
+The second category is the **incomplete or ambiguous comparison**, where the second term of the comparison is missing or where the comparison could attach to two different things. The signal is a comparative word with no stated point of comparison, or a comparison that admits two readings. The repair supplies the missing term or adds a disambiguating verb. If your misses cluster here, practice asking "compared to what, exactly" on every comparative word.
+
+The third category is the **structural comparison flaw**, where a correlative frame like "as ... as" is broken or where "fewer" and "less" are swapped. The signal is a half-finished "as" frame or a quantity word that does not match the countability of its noun. The repair completes the frame or matches the quantity word to the noun. If your misses cluster here, review the "as ... as" construction and the "fewer" versus "less" rule specifically.
+
+The fourth category is the **verb-plus-preposition idiom**, where a verb takes the wrong preposition. The signal is a verb followed by a preposition that does not match the stored pairing, often because a near-synonym takes a different one. The repair substitutes the standard preposition. If your misses cluster here, drill the verb family of the reference table and pay special attention to the near-synonym crossovers, comply with versus adhere to, attribute to versus blame on, regard as versus consider.
+
+The fifth category is the **adjective-plus-preposition idiom**, where an adjective takes the wrong preposition, including the comparative-feeling adjectives that wrongly attract "than." The signal is an adjective followed by a nonstandard preposition, especially "superior than," "preferable than," or "independent from." The repair substitutes the standard preposition. If your misses cluster here, drill the adjective family and memorize which adjectives reject "than."
+
+The sixth category is the **gerund-versus-infinitive error after a preposition**, where the right preposition is followed by the wrong verb form. The signal is a correct preposition trailed by an infinitive, "capable to detect," "prohibited to enter," where the standard wants the gerund. The repair converts the infinitive to the -ing form. If your misses cluster here, internalize the single rule that a preposition takes a gerund, never an infinitive.
+
+Labeling each missed item with one of these six categories turns vague underperformance into a targeted plan. Two or three review sessions with the rubric usually reveal that your errors concentrate in one or two categories rather than scattering evenly, and concentrating your drilling on those categories raises accuracy faster than reviewing everything equally. The rubric is itself a findable artifact you can carry into any practice set: six labels, one diagnosis each, one repair each.
+
+### Building the skill before test day
+
+The preparation timeline for these two skills is short relative to reading stamina or math fluency, which is part of why they reward late-stage attention from a student running short on weeks. Begin by converting the twenty-five-idiom table into flashcards, with the verb or adjective on one side and the standard preposition plus a one-line example on the other, and run them daily until each pairing fires before you finish reading the prompt word. Layer in the second-tier pairings once the core is automatic. Flashcards suit idioms perfectly because the knowledge is atomic, a fact per card, with no reasoning to slow the recall.
+
+For comparisons, the drill is different because the skill is procedural rather than factual. Work mixed sets of comparison items and force yourself to run the equal-sign test aloud or on paper for each one, naming the two compared nouns explicitly before choosing an answer. The goal is to make the procedure so habitual that you run it silently and instantly during the exam. Pair this with the rubric, labeling every miss by category, so that your practice is diagnostic rather than merely repetitive. A practice session that ends with a labeled list of your error categories teaches more than one that ends with a raw score.
+
+Realistic rehearsal under timed conditions is the final and most important phase, because the skills must work at speed and under the mild pressure of the clock, not just in untimed review. Drilling comparison and idiom items in an interface that mirrors the digital format and supplies immediate worked solutions lets you confirm each diagnosis the instant you commit, which is the feedback loop that converts a rule you know into a reflex you trust. Spacing this rehearsal across several short sessions beats cramming it into one long block, since the spacing strengthens recall and the variety of items in each session keeps the procedures sharp. Read the rule once, drill the pairings daily, rehearse mixed items under time, and label every miss; that sequence is the whole preparation, and it is short enough to complete in the final weeks before the exam.
+
+The deeper habit you are building is editorial rather than merely test-specific. Every time you correct a "different than" to a "different from," or balance a faulty comparison with "that of," you are practicing the act of editing your own language against a standard, choosing the rule over the reflex. That habit outlasts the exam and serves any writing you do afterward, which is the quiet argument for treating these small items as worth real attention rather than as trivia. The points are the immediate reward; the editorial eye is the lasting one.
+
+### Pronoun case in elliptical comparisons
+
+A comparison family the exam tests quietly involves the case of a pronoun after "than" or "as," and it rewards a small piece of reasoning rather than memorization. When a comparison trails off after the pronoun, the sentence is elliptical, meaning a verb is understood but not written, and the case of the pronoun depends on the verb the reader is meant to supply. "My brother is taller than I" is standard because the full thought is "taller than I am," where "I" is the subject of the implied "am." Replacing it with "taller than me" changes the implied structure and, under the tested standard, is treated as the error in such items.
+
+The reasoning becomes clearer when the two readings produce genuinely different meanings, which is where the exam plants its harder version. "She trusts the new analyst more than I" completes to "more than I trust the new analyst," making "I" a second truster, while "She trusts the new analyst more than me" completes to "more than she trusts me," making "me" a second object of trust. Both are grammatical, but they say different things, and the correct choice is the one whose pronoun case matches the intended meaning. To resolve such an item, mentally finish the elliptical clause with the understood verb and ask whether the pronoun is doing the action (subject case, "I," "he," "she," "they") or receiving it (object case, "me," "him," "her," "them"). The case you need is the one the completed clause demands.
+
+This pattern sits at the intersection of comparison and pronoun usage, so it draws on the same clarity discipline as the ambiguous comparisons worked earlier, and it pairs naturally with the broader pronoun-clarity skills the conventions content tests. The practical move is to treat any pronoun immediately after "than" or "as" as a flag: complete the implied clause, identify the pronoun's role, and choose the case that role requires. Because conversational English overwhelmingly favors the object form, "taller than me," your ear will usually push you toward the wrong answer on these items, which is exactly why the exam includes them. The defense, once more, is to run a quick test rather than to trust the comfortable form, completing the clause in your head and letting the recovered verb decide the case.
+
+A related quantity comparison uses "as much as" and "as many as," and the same countability rule from "fewer" and "less" applies: "as many" governs countable nouns and "as much" governs uncountable ones. "The new reservoir holds as much gallons as the old one" should read "as many gallons," since gallons are countable, while "The new policy generated as many controversy" should read "as much controversy," since controversy is uncountable. These items braid the correlative "as ... as" frame with the countability distinction, so they reward a reader who checks both that the frame is complete and that the quantity word matches the noun. When a comparison uses "as much" or "as many," confirm the noun's countability before accepting the choice, because the ear defaults inconsistently between the two forms.
+
+Taken together, the pronoun-case and quantity-comparison patterns extend the comparison family beyond the core category mismatch into the finer structural choices the exam uses to separate strong test-takers from very strong ones. None of them requires new memorization; each requires the same habit the equal-sign test instills, which is to complete the comparison in full, examine the precise elements it joins, and let the recovered structure rather than the comfortable sound decide the answer. The comparison skill, fully developed, is this single habit applied across every form the sentence can take.
+
+## Strategy and application: turning the rules into points
+
+Knowing the equal-sign test and the idiom list is necessary but not sufficient; the points come from a procedure you run the same way every time, fast enough to leave room for the reading-heavy items. The first move on any conventions question that involves a comparison or a preposition is to identify which family you are in. If the sentence contains "than," "as," "like," or "unlike," suspect a comparison and run the equal-sign test. If the sentence pairs a verb or an adjective with a preposition, suspect an idiom and check the pairing against your memorized set. Naming the family before you evaluate the choices is what keeps you from reading the four options four times.
+
+Once you have named the family, attack the choices through the lens of that single diagnosis rather than reading each one as a fresh sentence. For a comparison item, you are not asking "which choice sounds best"; you are asking "which choice makes the two compared things match in category." Three of the four options will leave the mismatch in place or introduce a new error, and the right one will balance the equal sign. For an idiom item, you are asking "which choice uses the standard preposition," and the answer is the one whose pairing matches your list. This is a process of targeted elimination, not holistic judgment, and targeted elimination is both faster and more reliable.
+
+A practical rule governs the order of attack within a module. Comparison and idiom items are among the quickest conventions questions to resolve once diagnosed, so treat them as time banks. Resolve them decisively, do not second-guess a clean diagnosis, and carry the saved seconds into the rhetoric and reading-comprehension items that genuinely require slow rereading. The student who lingers on a comparison item, rereading all four choices in search of a feeling of rightness, is spending the very time the item was designed to give back. Diagnose, repair, move.
+
+### How should I pace a comparison or idiom item?
+
+Aim to spend under thirty seconds. Name the family first, comparison or idiom, then apply the matching tool: the equal-sign test or the memorized pairing. Eliminate the three choices that fail the single diagnostic, confirm the survivor introduces no new error, and move on without rereading for a feeling of correctness.
+
+The single most useful habit for these items is learning to distrust fluency. The whole reason comparisons and idioms are tested is that the wrong answer reads smoothly. "Different than" flows. Comparing a city to a city's rival feels parallel. Your fluency is the symptom, not the cure, because the choices were engineered to exploit it. The trained response is to notice that a choice sounds fine and then deliberately run the test anyway, treating smoothness as a reason to check rather than a reason to relax. This inversion, where ease becomes a warning rather than a green light, is the strategic core of the whole topic.
+
+For the idiom items specifically, the strategy is mostly preparation rather than in-the-moment technique, because you cannot derive a fixed preposition from logic; you either know it or you guess. That is why the reference table earns daily drilling in the weeks before the exam. Convert the table into flashcards, verb or adjective on one side, mandated preposition and a sample sentence on the other, and run them until the pairing fires automatically. The goal is to reach a state where "prohibit" pulls "from" without a pause and "comply" pulls "with" before you have finished reading the verb. Idiom items reward stored knowledge, so build the store.
+
+Rehearsal beats reading, which is why moving from worked examples to live practice is the step that actually converts these procedures into points. After you have absorbed the equal-sign test and the idiom set, the most efficient next action is to drill comparison and idiom items in a realistic interface with immediate feedback, so you can see whether your diagnosis was right the instant you commit to it; the [SAT Reading and Writing practice tool at ReportMedic](https://reportmedic.org/tools/sat-reading-writing-practice.html) gives you section-targeted conventions questions with full worked solutions, which is exactly the rehearsal loop that turns a memorized rule into an automatic reflex. Read a rule once, then rehearse it ten times; the rehearsal is where the point is won.
+
+Two interface habits help on test day. First, when a comparison choice offers both "that of" and a possessive form as separate options, and both would be grammatical, look for a second discriminator, a subtle idiom or agreement flaw, because the exam will not present two fully correct answers; one of them carries a hidden second error. Second, on idiom items, read the preposition before you read the rest of the choice, since the preposition is the whole question and the surrounding words are camouflage. Training your eye to land on the operative word first saves a reread on every item in the family.
+
+## Edge cases and the harder end
+
+The Module 2 versions of these items raise the difficulty in predictable ways, and knowing the harder forms ahead of time keeps them from surprising you. The most demanding comparison items bury the mismatch inside a long, clause-heavy sentence so that the two compared nouns sit far apart, separated by modifiers and subordinate clauses that wear down your attention before you reach the second noun. The defense is mechanical: regardless of the distance, find the two things the comparison joins, lift them out of the surrounding clutter, and set them on either side of the equal sign. Distance is the only added difficulty; the test itself does not change.
+
+A second hard variant uses an ambiguous comparison, where the sentence could logically compare two different pairs of things and the wrong reading produces a category error while the right reading does not. "The committee admired the design of the new wing more than the architect" can mean the committee admired the design more than it admired the architect, or more than the architect admired the design. The first reading compares a design to a person, a mismatch, while the second is coherent. The exam resolves such ambiguity by offering a choice that disambiguates, often by adding a verb, "more than the architect did," which forces the coherent reading. When a comparison feels slippery, suspect an ambiguity the right answer is built to clear up.
+
+### Why do harder comparison items separate the compared nouns?
+
+Distance erodes attention. By placing modifiers and subordinate clauses between the two nouns a comparison joins, the harder items make you forget the first noun's category before you reach the second. The fix is to pull both nouns out of the sentence and test them against each other directly, ignoring everything in between.
+
+The idiom items grow harder in two ways. The first is by testing the lower-frequency pairings, the second-tier set of "result from," "contrast with," "agree on," and the like, where even prepared students have thinner memory. The second is by embedding the idiom inside a phrase that supplies a competing preposition nearby, so that the surrounding context nudges you toward the wrong choice. "In her response to the criticism, she complied to every demand" floats "to" twice before the tested verb, priming your ear to accept "complied to" when the standard is "complied with." The defense is to isolate the tested verb and its preposition from the surrounding prepositions, evaluating the pairing on its own rather than letting the sentence's other prepositions vote.
+
+A genuinely tricky edge case sits at the boundary between a comparison and a parallelism error, and distinguishing them matters because the repairs differ. A comparison error is about the category of the two compared nouns; a parallelism error is about the grammatical form of items in a series or on two sides of a coordinating structure. "Running on the trail is healthier than to swim in the lake" is a parallelism flaw, mismatched forms, "running" against "to swim," fixed by "than swimming in the lake," not a category mismatch. The two error families look adjacent and sometimes co-occur, but the equal-sign test diagnoses category, while parallelism asks about form. For the full treatment of the form question, the dedicated guide to [parallel structure and modifier placement](/sat-parallel-structure-modifiers/) works the matching-form skill in depth, and keeping the two diagnostics separate, category versus form, prevents you from applying the wrong repair under time pressure.
+
+One more edge case rewards attention: the comparison that is logically sound but stylistically redundant, where the exam offers a tighter choice that conveys the same balanced comparison in fewer words. "The enrollment at the larger campus exceeded the enrollment at the smaller campus" is correct but heavy; a choice reading "exceeded that at the smaller campus" trims the repetition while keeping the equal sign intact. When every choice is grammatical, the exam's preference for concision becomes the discriminator, and the leanest option that preserves the logical comparison is usually the intended answer. Concision is a tiebreaker, never a license to break the category match.
+
+## Wider significance: how these skills connect to the whole exam
+
+Comparisons and idioms are small in footprint but large in what they reveal about how the Writing content is built. Both belong to the rule-governed conventions family, and that family rewards a particular temperament: the student who replaces "what feels right" with "what the rule says" gains points across every conventions question, not just these two. Mastering the equal-sign test and the idiom set is therefore a rehearsal for the whole conventions approach, which is why students who internalize these procedures often see their accuracy rise on subject-verb agreement, pronoun clarity, and punctuation at the same time. The transferable skill is the habit of diagnosing before deciding.
+
+That habit pays a second dividend in the reading-comprehension items, where logical comparison reappears in disguise. Command-of-evidence and inference questions frequently ask you to compare claims, weigh one piece of data against another, or judge whether two ideas are genuinely parallel, and the same discipline that catches a faulty comparison in a grammar item, asking whether two things truly match in kind, sharpens your reading of arguments. The student who can see that a passage compares a quantity to a place, or that an author's analogy pairs two non-matching categories, reads more critically than one who takes every comparison at face value. The conventions skill and the comprehension skill share a root.
+
+The idiom set, meanwhile, connects to vocabulary and to the broader payoff of reading widely. The prepositions English fixes to its verbs and adjectives are not random; they are the residue of how the language evolved, and a reader who has absorbed a great deal of standard written prose tends to have many of these pairings already stored, simply from exposure. Drilling the table is the fast path, but the durable path is reading, because reading installs the pairings alongside everything else it teaches. A student building toward a high Writing score benefits from both the targeted list and the wide reading that makes the list feel like recognition rather than memorization.
+
+There is an admissions dimension as well. The Writing content contributes to the Reading and Writing score, which combines with Math for the total that colleges see, and conventions accuracy is one of the most reliably improvable components of that score because it rests on finite, learnable rules rather than on the slower-growing skills of reading speed and stamina. A student short on time before the exam can raise a conventions subscore faster than almost any other single area, and comparisons and idioms, being rule-based and list-based, are among the fastest of the fast. For the strategic picture of how conventions accuracy fits a target score and where the points are most efficiently won, the [grammar conventions reference](/sat-grammar-conventions-complete/) maps the full set of rule-governed items and their relative weight, while the broader [grammar rules guide](/2021/03/23/sat-grammar-rules-complete-guide/) situates these skills within the writing fundamentals every test-taker needs.
+
+There is also a comparative-exam angle worth noting for students weighing more than one path. The discipline of comparing like to like and of choosing the conventional preposition is not unique to one assessment; the writing portions of the ACT test the same logical-comparison and idiom families, so the equal-sign test and the reference table transfer directly to that exam for students sitting both. Readers mapping a fuller testing plan can see how the rule-governed writing skills line up across formats through the broader grammar reference, since the underlying standard, edited written English, is shared rather than test-specific. A student who builds the editorial habit here is building it for every standardized writing measure at once, which makes the hours spent on these two skills among the most portable in the entire preparation. The same can be said for university-level placement writing and for the editing demanded in first-year composition, where the standard tested here remains the working baseline.
+
+Seen from a distance, the deeper lesson of comparisons and idioms is about the relationship between speech and the written standard. The exam is, in part, a test of whether you can edit the language rather than merely speak it, and editing means knowing where the standard diverges from the comfortable. Every "different from" you correct, every faulty comparison you balance, is a small act of editing, a moment of choosing the rule over the reflex. That capacity, the ability to override fluency with a learned standard, is what the conventions content measures, and it is a capacity that serves a writer long after the exam is over.
+
+## Common mistakes and myths corrected
+
+The most damaging mistake is trusting the ear, and it deserves naming first because it underlies nearly every wrong answer on these items. Students assume that a sentence which sounds fine is fine, but conversation is a permissive editor that tolerates "different than," accepts comparisons between mismatched categories, and lets prepositions slide. The exam is built on exactly the gap between what speech permits and what the written standard requires. The correction is to treat fluency as a prompt to check rather than a verdict, and to run the equal-sign test or consult the idiom list even, especially, when the sentence sounds perfectly natural.
+
+A second, more specific mistake is believing that "different than" is acceptable because everyone says it. In standard written English of the kind tested here, "different" pairs with "from," full stop. "Different than" appears in casual American speech constantly, which is precisely why the exam tests it; the frequency of the error in conversation is the source of its difficulty on the page. The same applies to "centered around," which the ear accepts and the standard rejects in favor of "centered on," and to "preferable than," which feels comparative but must be "preferable to." These are not arbitrary preferences; they are the tested standard, and knowing them is worth real points.
+
+A third myth holds that comparison errors are about the subject matter of the sentence, so that a sentence about cities must be comparing cities and a sentence about authors must be comparing authors. The error lives in the nouns flanking the comparison word, not in the topic. A sentence can be entirely about literature and still compare a body of work to a person, because the flaw is grammatical, located in the two nouns the comparison joins, not thematic. Students who scan for the topic instead of the flanking nouns miss the mismatch every time. Land on the nouns beside "than," "as," "like," or "unlike," and ignore what the sentence is broadly about.
+
+A fourth mistake is over-applying the repair tools, inserting "that of" or "those of" into comparisons that are already balanced. "Sales rose faster than profits" needs no repair, because sales and profits are both quantities and the equal sign already holds; forcing "faster than that of profits" introduces an error by giving "that" no clear noun to carry. The repair tools exist for mismatches, not for every comparison. The test is to apply a fix only after the equal-sign test has actually failed, never as a reflex whenever a comparison appears.
+
+A fifth and subtler error is confusing a comparison flaw with a parallelism flaw and reaching for the wrong repair. When two sides of a comparison differ in grammatical form rather than in category, the issue is parallelism, fixed by matching the form, not by inserting "that of." "She prefers hiking to a swim" mismatches a gerund with a noun phrase and wants "hiking to swimming," a parallelism repair, not a category repair. The two families sit close together and sometimes appear in the same item, but the diagnosis differs, and applying the comparison repair to a parallelism problem leaves the real flaw untouched. Separate the questions: is the category mismatched, or is the form mismatched? The answer tells you which tool to use.
+
+A final myth concerns the idioms specifically: that you can reason your way to the right preposition from the meaning of the words. You cannot, reliably. "Comply with" and "adhere to" mean nearly the same thing yet take different prepositions; "attribute to" and "blame on" share a logic yet diverge; "capable of" and "able to" are near-synonyms with different structures. The prepositions are fixed by convention, not derivable from meaning, which is why the idiom set must be memorized rather than reasoned out. Students who try to logic their way to the preposition will be right just often enough to feel justified and wrong often enough to lose points. Store the pairings; do not derive them.
+
+## Closing direction
+
+The rainfall sentence we opened with, "greater than Phoenix," looked finished and was broken, and you can now see exactly why and exactly how to fix it: the equal sign between "rainfall" and "Phoenix" is false, and "that of Phoenix" restores it. That is the whole skill in miniature. Two questions, asked deliberately on every relevant item, carry the entire topic: can I draw an equal sign between the two things being compared, and is this the standard preposition for this verb or adjective? The first question is logic you can run on any sentence; the second is memory you can build from the table above.
+
+Your next action is concrete. Take the twenty-five-idiom table, convert it to flashcards, and drill it until each pairing fires without a pause, then run a set of mixed comparison and idiom items under timed conditions so the equal-sign test becomes a reflex rather than a deliberate step. Practice the diagnosis until naming the family, comparison or idiom, happens the instant you see "than" or a verb-plus-preposition, because the speed is where the saved time lives. A rule you have read is worth little; a rule you have rehearsed into reflex is worth a point on every item it touches.
+
+Trust the rule over the reflex, and the items that once slipped past you on a wave of fluency become the fastest points in the section. The ear got you this far in life; the standard gets you the score. Learn where they diverge, and you will never again read "different than" without your hand reaching, automatically, for "from."
 
 ## Frequently Asked Questions
 
-**Q1: What is the most reliable test for a faulty comparison?**
+### What is a logical comparison error on the SAT?
 
-Draw a mental equal sign between the two things being compared. If they cannot logically be equivalent, the comparison is faulty. "The population of Texas = California" - a population cannot equal a state; the comparison is faulty. "The population of Texas = that of California" - a population equals another population; the comparison is valid. This equal-sign test takes two seconds and catches every comparison error. Once students apply it automatically, comparison questions become among the fastest on the Writing section.
+A logical comparison error occurs when a sentence compares two things that belong to different categories, such as a quantity and a place or a person's work and the person. The grammar may be flawless and the words correctly spelled, yet the comparison is broken because the two sides of "than," "as," "like," or "unlike" hold mismatched kinds of things. A sentence reading "The population of Brazil is larger than Argentina" compares a population to a country, which is illogical; the population should be compared to another population. These errors are tested under Standard English Conventions because they are rule-governed and detectable with a procedure rather than a feeling. The reliable repair inserts a stand-in such as "that of" or "those of," or uses a possessive, so that the two compared items match in category. The trap is that the broken sentence usually sounds natural, since everyday speech tolerates these mismatches, which is exactly why the assessment includes them.
 
-**Q2: When should I use "that of" vs "those of"?**
+### What is the equal-sign test for comparisons?
 
-"That of" refers back to a singular noun. "Those of" refers back to a plural noun. "The conclusion of this study differs from that of previous studies" - "conclusion" is singular → "that of." "The results of this study surpass those of previous studies" - "results" is plural → "those of." Check the noun on the left side of the comparison: singular → "that of," plural → "those of."
+The equal-sign test is a quick diagnostic for any comparison: place a mental equal sign between the two things being compared and ask whether the items on each side belong to the same category. If a quantity faces a quantity, or a person faces a person, or one body of work faces another body of work, the comparison is logical and the sentence stands. If a quantity faces a place, or a thing faces a person, the equal sign is false and the sentence needs repair. For "The brushstrokes of Van Gogh are bolder than Monet," the test pairs brushstrokes against a painter, a mismatch, so you insert "those of" to get "bolder than those of Monet." The power of the test is that it ignores how the sentence sounds and focuses only on the two nouns the comparison joins, which is precisely where the error lives. Run it on every item containing "than," "as," "like," or "unlike," and you will catch the category mismatch in seconds without relying on instinct.
 
-Common singular nouns that require "that of": approach, method, analysis, conclusion, impact, style, quality, rate, policy, finding (when singular), data (often treated as singular in formal usage).
-Common plural nouns that require "those of": results, findings, outcomes, methods (when plural), studies, analyses, conclusions (when plural).
+### Is it "different from" or "different than" on the SAT?
 
-**Q3: Is "different than" ever correct?**
+It is "different from." In standard written English of the kind the exam tests, the adjective "different" pairs with the preposition "from," and "different than" is treated as an error even though it appears constantly in casual American speech. A sentence reading "The second draft was no different than the first" must be corrected to "no different from the first." The frequency of "different than" in conversation is exactly why the assessment tests it: your ear has been trained to accept the nonstandard form, so the item is designed to catch you trusting that training. When you see "different" followed by a preposition, the correct pairing is always "from," and the appearance of "than" after "different" is a reliable signal that the choice is wrong. Store this pairing as one of the most heavily tested idioms in the set and let it fire automatically whenever "different" appears.
 
-"Different than" is acceptable before a clause in informal and some formal usage: "The results were different than we expected." For the Digital SAT, when "different" precedes a noun or noun phrase, "different from" is the correct form: "Her approach is different from the standard method." When a choice between "different from" and "different than" is offered before a noun, choose "different from."
+### How do I fix a comparison between unlike things?
 
-A quick rule for exam day: if the answer choices offer "different from" vs "different than," and what follows is a noun or noun phrase, choose "different from." This rule is reliable for all Digital SAT contexts.
+You restore the category match using one of three repair tools. The first is "that of" for a singular noun or "those of" for a plural noun, which inserts a stand-in for the repeated noun: "The climate of Norway is milder than that of Russia" balances climate against climate. The second is the possessive, which compresses the same idea: "Dickens's novels are longer than Austen's" lets the apostrophe-s carry "novels." The third applies to "like" and "unlike" constructions and requires the noun right after them to match the subject's category: "Like Hemingway's prose, the later stories grow spare" pairs prose against stories. Choose the tool that fits the sentence's shape and that the answer choices offer; both "that of" and the possessive are often correct, so pick whichever the option set provides without a second error. Apply a repair only after the equal-sign test has actually failed, never as a reflex, because forcing a fix onto an already-balanced comparison introduces a new error.
 
-**Q4: How do I remember that "prohibit" takes "from," not "to"?**
+### Which prepositions does the SAT test most in idioms?
 
-Think of the meaning: "prohibit" means "prevent from doing." When you prevent someone from doing something, the construction is "prevent [someone] from [doing]." Since "prohibit" means the same thing as "prevent," it follows the same preposition pattern: "prohibit [someone] from [doing]." Any verb meaning "prevent" or "block" takes "from" in this construction.
+The most heavily tested prepositions cluster around a recurring core of verb and adjective pairings. "From" appears with "different" and "prohibit"; "of" appears with "capable," "consist," "composed," "independent," and "accuse"; "to" appears with "attribute," "preferable," "superior," "native," "similar," and "opposed"; "with" appears with "comply," "preoccupied," and "sympathize"; "on" appears with "rely," "based," "insist," "centered," and "ban"; "as" appears with "regard"; "for" appears with "responsible"; and "in" appears with "succeed." The exam favors pairings where a near-synonym takes a different preposition, such as "comply with" beside "adhere to," or "attribute to" beside "blame on," because those crossovers are where memory fails. There is no way to derive these pairings from the meanings of the words, so they must be memorized. Drilling the twenty-five-idiom reference table until each pairing fires automatically is the single most efficient preparation for the idiom items, since they reward stored knowledge rather than in-the-moment reasoning.
 
-The full family of "prevent/keep from doing" verbs all take "from": prevent from, prohibit from, keep from, stop from, deter from, discourage from, bar from. When you see any of these verbs followed by a person and an action, the preposition is always "from." "Prohibit" belongs to this family.
+### When do I use "that of" versus a possessive in a comparison?
 
-**Q5: What is the difference between "regard as" and "consider as"?**
+Both repair the same category mismatch, and both are frequently correct, so the choice depends on the sentence's structure and on what the answer set offers. Use "that of" or "those of" when you want an explicit stand-in for the repeated noun: "The output of the new plant exceeds that of the old one" keeps "output" visible through the word "that." Use the possessive when compression reads cleanly and the owner is a name or a noun that takes an apostrophe naturally: "Tolstoy's sentences are longer than Flaubert's" lets the apostrophe carry "sentences." Match singular nouns with "that of" and plural nouns with "those of," since the stand-in must agree in number with the noun it replaces. The exam will not present two fully correct answers, so if both a "that of" choice and a possessive choice appear and both seem grammatical, look for a hidden second error, an idiom slip or an agreement problem, that disqualifies one of them. The category match is the goal; either tool achieves it.
 
-"Regard as" requires "as": "They regard the study as definitive." "Consider" can be used without "as" when followed directly by a noun or adjective: "They consider the study definitive" (no "as"). With "as," both work: "They consider the study as definitive." The Digital SAT most frequently tests "regard as" - the "to be" version ("regard to be") is always wrong.
+### What does the "like" versus "unlike" construction require?
 
-For exam day: whenever you see "regard" in an underlined portion, check whether it is followed by "as" or "to be." "Regard as" is always correct; "regard to be" is always wrong. This is one of the most reliable eliminations in the idiom category.
+A sentence beginning with "like" or "unlike" requires the noun immediately following it to belong to the same category as the subject of the main clause, because "like" and "unlike" set up a comparison between those two nouns. "Like the symphonies of Brahms, the chamber works feel dense" is sound, since symphonies and chamber works are both bodies of music. "Like Brahms, the chamber works feel dense" fails, since Brahms is a person and chamber works are compositions, an illogical pairing. The repair names the matching category: "Like Brahms's symphonies, the chamber works feel dense," or recast so the main subject is a person. These constructions are favored by the exam because the comparison sits at the very front of the sentence, several words before a reader braces for a comparison error, so the mismatch hides in plain sight. Run the equal-sign test on the noun after "like" or "unlike" against the subject of the main clause, and the mismatch surfaces immediately regardless of how natural the opening sounds.
 
-**Q6: Why is "debate on" less preferred than "debate over" or "debate about"?**
+### Why is trusting my ear risky on SAT idioms?
 
-"Debate on" is a matter of register: it appears frequently in informal and journalistic usage but is less standard in formal academic English. The Digital SAT's passages draw from formal academic and scientific writing, where "debate over" and "debate about" are the conventional pairings. When a choice between "debate on" and "debate over/about" appears, prefer "over" or "about."
+Your ear was trained by conversation, and conversation is a permissive editor that tolerates nonstandard prepositions every day. People say "different than," "centered around," "comply to," and "preferable than" so routinely that those forms sound correct, yet each is an error under the written standard the exam tests. The assessment is built precisely on the gap between what speech permits and what standard written English requires, so the wrong answer on an idiom item is engineered to sound natural. Worse, you cannot reason your way to the right preposition from the meaning of the words, because the pairings are fixed by convention rather than logic; "comply with" and "adhere to" mean nearly the same thing yet take different prepositions. This combination, that the wrong form sounds right and that meaning offers no reliable guide, is why instinct fails on idioms. The defense is to memorize the standard pairings and to treat a preposition that merely sounds acceptable as a reason to check the choice against your stored list rather than to accept it.
 
-For practical purposes: if an answer choice shows "debate on" while another shows "debate over" or "debate about," and no other difference exists between the choices, select "debate over" or "debate about." This preference is consistent across Digital SAT question patterns.
+### What is the correct preposition after "prohibit"?
 
-**Q7: What are the most commonly confused preposition pairings on the Digital SAT?**
+The verb "prohibit" takes "from" followed by a gerund, never "to" followed by an infinitive. The standard form is "The policy prohibits employees from using personal devices," not "prohibits employees to use." This pairing is heavily tested because the near-synonym "forbid" governs the opposite structure: "forbids employees to use" is standard for "forbid," which takes the infinitive. The two verbs mean nearly the same thing yet require different constructions, so the exam tests "prohibit" specifically to catch students who borrow the "forbid" pattern. When you see "prohibit," reach automatically for "from" plus an -ing verb, and treat any version using "to" plus a base verb as the error. The same "from" plus gerund structure appears with related verbs such as "discourage from" and "prevent from," so recognizing the family speeds you up. The reliable signal is that an infinitive after "prohibit" is always wrong; the gerund after "from" is always the standard.
 
-The highest-frequency confusion pairs are: (1) "different from" vs "different than," (2) "regard as" vs "regard to be," (3) "prohibit from" vs "prohibit to," (4) "capable of" vs "capable to," (5) "attribute to" vs "attribute with," and (6) "succeed in" vs "succeed at." These six pairs account for the majority of idiom questions. Memorizing the correct form of each of these six is the most efficient idiom preparation investment.
+### How do I compare two populations correctly on the SAT?
 
-A good memorization technique: create a sentence that uses each correct form and a contrasting sentence using the wrong form. Reading both forms repeatedly reinforces why the correct form is correct and helps the wrong form "sound wrong" - the first step toward automatic recognition.
+When you compare one population, dataset, or group to another, make sure both sides of the comparison hold the same kind of thing, and use the plural stand-in "those of" when the noun is plural. "The voting patterns of rural counties differ from urban areas" is broken, because it compares patterns to areas; the repair is "differ from those of urban areas," where "those" carries "the voting patterns." A common version compares one group's rate or average to another group rather than to that group's rate or average: "The graduation rate at the larger school is higher than the smaller school" should read "higher than that of the smaller school." Singular nouns such as "rate" take "that of"; plural nouns such as "patterns" or "scores" take "those of." The stand-in must agree in number with the noun it replaces. These population and dataset comparisons appear often in passages built on social-science or scientific content, so expect the equal-sign test to do steady work whenever two groups are weighed against each other.
 
-**Q8: How does the "like vs as" distinction affect comparison questions?**
+### What are the most commonly tested SAT idioms?
 
-"Like" introduces a noun for comparison: "Like many successful leaders, she prioritized communication." What follows "like" must be logically comparable to the main clause subject. "As" introduces a clause or a role/function: "As the lead researcher, she coordinated the team." On the Digital SAT, the test checks whether what follows "like" is logically comparable to the main clause subject - if not, either restructure the sentence or change "like" to "as [a/the noun]."
+The core set the exam returns to includes "different from," "prohibit from," "regard as," "responsible for," "capable of," "succeed in," "comply with," "attribute to," "debate over" or "about," "ban on," "preoccupied with," "independent of," "consist of," "composed of," "preferable to," "superior to," "native to," "similar to," "opposed to," "insist on," "rely on," "based on," "centered on," "accuse of," and "sympathize with." A second tier extends the same logic and includes "result in" an outcome versus "result from" a cause, "contrast with," "agree with" a person but "agree to" a proposal, "interested in," "guilty of," and "devoted to." The pairings the exam favors most are those where a near-synonym takes a different preposition, such as "comply with" beside "adhere to" or "centered on" beside the nonstandard "centered around," because the crossover is where memory slips. Drill the core twenty-five first until each fires automatically, then absorb the second tier, since the harder routing draws from the wider pool. None of these pairings can be derived from meaning, so memorization is the only reliable preparation.
 
-A practical tip: after reading a sentence with "like" or "unlike," ask "what category follows 'like'?" then "what is the main clause subject's category?" Same category → correct. Different categories → error. The most common fix is to restructure the main clause so the subject matches the category introduced by "like."
+### Is it "comply with" or "comply to"?
 
-**Q9: Can possessive forms always substitute for "that of"?**
+It is "comply with." The verb "comply" pairs with the preposition "with," so the standard form is "Manufacturers must comply with the safety standards," and "comply to" is an error. The pull toward "to" comes from the near-synonym "adhere to," which is itself correct and means roughly the same thing, so the two verbs cross-contaminate in the ear. Hold them apart deliberately: you comply with a rule and you adhere to a rule, two correct pairings that the exam will test by swapping the prepositions. This is a textbook example of why idioms cannot be reasoned out from meaning, since "comply" and "adhere" are close in sense yet diverge in the preposition each demands. When you see "comply," let "with" follow automatically and treat "comply to" as a reliable signal that the choice is wrong. The same kind of near-synonym interference shows up with "attribute to" beside "blame on," so watch for the exam pairing two similar verbs and testing whether you know which preposition each one fixes.
 
-Yes, in most cases. "The GDP of China is larger than that of France" = "China's GDP is larger than France's." Both are grammatically correct and compare GDP to GDP. On the Digital SAT, both forms are typically acceptable, and the question will not force a choice between them unless one version creates a different type of error. When both are offered and both are grammatically valid, either is correct.
+### How does the SAT test idiomatic expressions?
 
-When the Digital SAT offers a choice between "that of [X]" and a possessive form "[X]'s," neither is inherently more correct if both compare equivalent things. The test is checking whether the comparison is logical, not which correct form you use. Choose whichever appears in the answer choice alongside an otherwise error-free sentence.
+The exam tests idioms by underlining a verb or adjective and its preposition, or by offering four answer choices that differ only in the preposition, and trusting you to recognize the standard pairing. The question never announces that it is testing an idiom; it simply presents options such as "capable of," "capable to," "capable for," and "capable in," and expects you to select "capable of." Because the difference between choices is a single small word, these items are fast once you know the pairing and impossible to derive if you do not. The exam often embeds the tested preposition near other prepositions in the sentence to prime your ear toward a wrong choice, and it favors verbs and adjectives whose near-synonyms take different prepositions, so that borrowing the wrong pattern is tempting. The defense is to isolate the tested word and its preposition, evaluate that pairing alone against your memorized list, and ignore the surrounding prepositions. Read the operative preposition first, since it is the entire question, and let the rest of the choice serve as camouflage you can set aside.
 
-**Q10: What is the "not so much...as" construction and why is it tested?**
+### How do comparison and idiom errors appear together?
 
-"Not so much...as" is a set phrase meaning "less X and more Y" where X and Y are competing characterizations: "The challenge is not so much the data collection as the interpretation" (interpretation is the more significant challenge, not data collection). The common wrong form substitutes "but" for "as": "not so much...but." On the Digital SAT, when you see "not so much," the second element must be introduced by "as," not "but" or "than."
+The exam's harder items fuse the two skills into a single sentence so that the correct choice must repair both at once. A sentence might open with a faulty comparison and bury an idiom error later: "Unlike the symphonies of Mahler, Beethoven relied on smaller orchestras and was capable to write tighter movements" contains a comparison flaw, symphonies against a composer, and an idiom flaw, "capable to" instead of "capable of." The repair fixes the comparison with "Unlike Mahler" or "Unlike the symphonies of Mahler, those of Beethoven" and fixes the idiom with "capable of writing." Only the answer that corrects both is right, so you must run the equal-sign test and check the idiom pairing in the same pass. These fused items reward students who have made both procedures automatic, since you cannot afford to spend extra time hunting for the second error. When a sentence contains both a comparison word and a verb-plus-preposition pairing, check both deliberately, because the exam frequently plants an error in each.
 
-This construction is tested because it is a fixed phrase that many students have never explicitly analyzed. The wrong form ("not so much...but") sounds natural to English speakers who unconsciously model it on "not X but Y." Explicit memorization of the complete phrase "not so much X as Y" is the only reliable preparation.
+### What is the most common comparison or idiom mistake on the SAT?
 
-**Q11: How do I handle idiom questions when I am unsure of the correct preposition?**
-
-Use the substitution test: try several prepositions and evaluate which sounds most naturally formal. Also, think about meaning: "attribute to" makes sense because attribution is assigning something TO a cause. "Prohibit from" makes sense because prohibition prevents someone FROM doing something. The preposition reflects the logical relationship. When uncertain, lean toward "to," "from," or "of" - these three are the most common prepositions in academic idiom pairings.
-
-A directional heuristic: prepositions indicate direction or relationship. "From" indicates source or separation. "To" indicates direction or destination. "Of" indicates belonging or origin. "In" indicates location or domain. "On" indicates surface or topic. Applying these directional meanings often reveals which preposition fits the idiom's meaning.
-
-**Q12: Does the "as...as" construction require both elements to be adjectives?**
-
-No. "As...as" can link adjectives ("as accurate as"), adverbs ("as quickly as"), nouns ("as much influence as"), or participial phrases ("as thoroughly tested as"). Both sides must be in the same grammatical form. "As accurate as" is correct (both adjectives). "As accurate than" is wrong ("as...than" is never the correct pattern - "more...than" and "as...as" are the two separate constructions).
-
-The key rule: "as...as" signals EQUALITY (the same degree), and "more/less...than" signals INEQUALITY (a different degree). These two constructions must never be mixed. Never "as...than" and never "more...as."
-
-**Q13: What is the "independent of" vs "independent from" distinction?**
-
-"Independent of" is the formal standard: "The results were independent of the researcher's expectations." "Independent from" appears in informal usage but is not the preferred form in formal academic writing. On the Digital SAT, "independent of" is correct when the meaning is "not affected by" or "separate from." "Independent from" occasionally appears as a wrong answer distractor.
-
-The distinction parallels the "different from" vs "different than" pattern: both have informal variants that sound natural, but the formal standard tested by the SAT uses specific prepositions. When "independent" appears in an underlined portion, the preposition should be "of."
-
-**Q14: When does "agree" change its preposition?**
-
-"Agree" takes different prepositions depending on what it governs: "agree with [a person or opinion]," "agree on [a topic or decision]," "agree to [a proposal or request]." "Agree with the conclusion," "agree on a timeline," "agree to the terms." The Digital SAT may test any of these three patterns. The meaning of "agree" in context determines which preposition is required.
-
-A quick decision guide: WHO or WHAT follows "agree"? A person or stated opinion → "agree with." A topic, plan, or decision → "agree on." A specific proposal, condition, or request → "agree to." When uncertain, read what follows "agree" and identify whether it is a person (with), a topic (on), or a formal proposal (to).
-
-**Q15: How do comparison and idiom errors sometimes appear in the same sentence?**
-
-A sentence can contain both an illogical comparison and an idiomatic error simultaneously. "Her work is regarded to be more significant than any other researcher in the field" has: (1) "regarded to be" (should be "regarded as") and (2) "any other researcher" (work vs researcher, should be "that of any other researcher"). On the Digital SAT, the underlined portion will contain one error; the answer choices will fix that error. Reading the entire sentence helps identify whether there are two errors - the question addresses the one in the underlined portion.
-
-For preparation: practice identifying all errors in a sentence, not just the underlined one. This develops full-sentence structural awareness and helps students confirm that the chosen answer choice does not introduce a new error while fixing the underlined one.
-
-**Q16: Is "concerned about" or "concerned with" correct?**
-
-Both are accepted but have different meanings. "Concerned about" means worried: "She is concerned about the methodology." "Concerned with" means focused on or dealing with: "This chapter is concerned with the historical context." On the Digital SAT, the correct form depends on the intended meaning in context. "Concerned of" is always wrong.
-
-For answer choice evaluation: if the sentence is expressing worry or anxiety, "concerned about" is correct. If the sentence is describing focus, scope, or relevance, "concerned with" is correct. When both are offered, the surrounding sentence context determines which meaning is intended.
-
-**Q17: What is the fastest way to identify a logical comparison error?**
-
-Scan both sides of the comparison word ("than," "as...as," "like," "unlike"). Identify the category of thing on each side (person, place, quantity, process, quality, object). If the categories differ, the comparison is faulty. The fix: add "that of" (singular) or "those of" (plural) to one side, or restructure using possessive forms. The category-identification step takes two to three seconds and immediately identifies whether an error exists.
-
-For speed training: when practicing, verbalize the category scan out loud: "Left side: GDP (a quantity). Right side: France (a country). Different categories - error. Fix: that of France." Verbalizing the steps while practicing installs them as a mental checklist that eventually operates silently and automatically during the exam.
-
-**Q18: Why does the Digital SAT test idioms?**
-
-Idiomatic correctness is a marker of formal academic language command. Students who read widely in academic texts absorb correct pairings naturally; those who primarily engage with informal spoken English may internalize incorrect pairings that "sound right." Students who read widely in academic and professional contexts absorb correct preposition pairings naturally. Students who primarily encounter informal spoken English may have internalized incorrect pairings that "sound right." The Digital SAT tests idioms to assess whether students have developed the formal language command that academic success requires. Preparation requires explicit memorization of the 25 most tested pairings.
-
-**Q19: What is the "so...that" construction and when is it required?**
-
-"So [adjective/adverb] that [clause]" expresses a consequence: "The data was so compelling that the committee approved the proposal immediately." The construction requires "that" to introduce the consequence clause. Wrong: "The data was so compelling as to cause the committee to approve the proposal" (grammatically possible but not the standard construction tested). When "so" introduces an adjective and an answer choice offers both "that" and "as" continuations, choose "that."
-
-The "so...that" construction is a set phrase tested specifically because students sometimes write "so...as" or "so...which" instead. Memorizing the complete phrase - "so [adjective] that [clause]" - is the most reliable preparation for this pattern.
-
-**Q20: How do I approach idiom questions on exam day efficiently?**
-
-For idiom questions, scan the underlined portion for the central word (the verb, adjective, or noun) and immediately recall its conventional preposition pairing from the 25 idioms in this guide. If you know the pairing, select the answer choice with the correct preposition in under 15 seconds. If you are unsure, eliminate answer choices with prepositions that clearly sound wrong, then apply the meaning test (which preposition makes logical sense given what the phrase means). The 25 idioms in this guide cover the majority of what the Digital SAT tests; students who have memorized the correct form for each will handle idiom questions with near-perfect accuracy.
-
-## Idiom Recognition in Context: Passage-Level Practice
-
-The Digital SAT presents idiom questions within a passage, not as isolated sentences. The following extended paragraphs contain idiom and comparison errors. Read each and identify the errors.
-
-PASSAGE A:
-"Recent studies have found that the immune responses generated by mRNA vaccines are different than those produced by traditional inactivated-virus vaccines, though both are regarded to be effective against severe illness. Researchers attribute these differences with the distinct mechanisms by which each vaccine type stimulates the immune system. The debate on whether mRNA technology should replace traditional methods entirely continues among immunologists, though most experts agree to a hybrid approach in which both platforms serve different population needs."
-
-ERRORS IDENTIFIED:
-1. "different than those produced" → "different from those produced" (idiom: "different from" for noun phrases)
-2. "regarded to be effective" → "regarded as effective" (idiom: "regard as" never "regard to be")
-3. "attribute these differences with" → "attribute these differences to" (idiom: "attribute to" not "attribute with")
-4. "The debate on whether" → "The debate over whether" (idiom: "debate over/about" preferred over "debate on")
-5. "agree to a hybrid approach" → "agree on a hybrid approach" (idiom: "agree on" for topics and decisions; "agree to" for proposals/requests)
-
-CORRECTED PASSAGE A:
-"Recent studies have found that the immune responses generated by mRNA vaccines are different from those produced by traditional inactivated-virus vaccines, though both are regarded as effective against severe illness. Researchers attribute these differences to the distinct mechanisms by which each vaccine type stimulates the immune system. The debate over whether mRNA technology should replace traditional methods entirely continues among immunologists, though most experts agree on a hybrid approach in which both platforms serve different population needs."
-
-PASSAGE B:
-"The economic recovery of southern European nations after the 2008 financial crisis was significantly slower than northern Europe. This can be attributed with a combination of structural factors, including higher debt-to-GDP ratios and less diversified export markets. Unlike the recovery programs implemented in Germany, Greece's austerity measures were broadly considered to be counterproductive by international economic observers, who were deeply concerned of the long-term social consequences of sustained unemployment."
-
-ERRORS:
-1. "slower than northern Europe" → "slower than that of northern Europe" (recovery vs region)
-2. "attributed with a combination" → "attributed to a combination"
-3. "Unlike the recovery programs implemented in Germany, Greece's austerity measures" → "Unlike the recovery programs implemented in Germany, those implemented in Greece" OR "Unlike Germany's recovery programs, Greece's austerity measures" (programs vs measures - different categories; best: "Unlike Germany's recovery programs, Greece's...")
-4. "considered to be counterproductive" → "considered counterproductive" (or "regarded as counterproductive")
-5. "concerned of the long-term" → "concerned about the long-term"
-
----
-
-## The Complete Comparison Correction Method
-
-For any comparison error, the correction follows a three-step method:
-
-STEP 1: IDENTIFY THE LEFT SIDE
-What is the noun being described before the comparison word? Include the full noun phrase.
-Example: "The research methodology of this team" → noun = "methodology."
-
-STEP 2: IDENTIFY THE RIGHT SIDE
-What follows "than," "like," "unlike," "as," or "similar to"?
-Example: "other teams" → a reference to the teams, not their methodologies.
-
-STEP 3: APPLY THE FIX
-The right side must match the left side's category. Choose from:
-A) Add "that of" (singular left noun) or "those of" (plural left noun): "that of other teams"
-B) Use possessive form: "other teams'"
-C) Restructure: change the left side to match the right side
-
-FULL EXAMPLE:
-"The research methodology of this team is more rigorous than other teams."
-Step 1: Left noun = "methodology" (singular)
-Step 2: Right side = "other teams" (teams, not methodologies)
-Step 3: Fix = "that of other teams" → "The research methodology of this team is more rigorous than that of other teams."
-
----
-
-## Common SAT Passage Contexts for Comparisons and Idioms
-
-The Digital SAT draws passages from specific content areas. Knowing which contexts most frequently generate comparison and idiom errors helps students apply the right checks quickly.
-
-SCIENCE PASSAGES: Common comparison traps involve comparing research findings/results/methods to studies rather than to their equivalent findings/results/methods. Common idioms in science contexts: "attribute to," "consistent with," "independent of," "characteristic of," "indicative of," "distinguish from."
-
-HISTORY/SOCIAL STUDIES PASSAGES: Common comparison traps involve comparing economic measures to countries, or comparing a historical figure's policies to another historical figure rather than to their policies. Common idioms: "different from," "contrary to," "responsible for," "result in."
-
-HUMANITIES/LITERARY PASSAGES: Common comparison traps involve comparing an author's style or themes to another author rather than to their style or themes. Common idioms: "regard as," "similar to," "dedicated to," "contribute to."
-
-ECONOMICS/BUSINESS PASSAGES: Common comparison traps involve comparing prices, rates, or GDP to countries or companies. Common idioms: "succeed in," "prohibit from," "comply with," "rely on," "account for."
-
----
-
-## Scoring Impact
-
-Logical comparison and idiom questions together typically represent five to eight questions per Digital SAT Writing module. These are among the most preparation-responsive question types on the test:
-
-For idioms: once the 25 pairings are memorized, every idiom question resolves in 10 to 15 seconds with near-perfect accuracy. No analysis is required - recognition and recall are the only skills needed.
-
-For comparisons: once the equal-sign test is automatic, every comparison question resolves in 15 to 20 seconds. The fix method (that of / those of / possessive) is equally mechanical once the error is identified.
-
-Combined time budget: with idiom questions taking 10 to 15 seconds each and comparison questions taking 15 to 20 seconds each, a student who has mastered both rule types will complete five to eight of these questions in under two minutes total across a Writing module. The time saved can be redistributed to more complex rhetorical synthesis or expression of ideas questions.
-
-Combined, these two question types can yield 85 to 95% accuracy with two weeks of dedicated preparation - making them among the highest-return preparation investments in the entire Writing section. A student who spends five hours on idiom memorization and three hours on comparison practice is well-positioned to maximize their score on both question types.
-
----
-
-## The Underlying Principle: Precision in Academic Language
-
-Both logical comparisons and idiomatic expressions are markers of academic language precision - two of the most visible signals that a writer has internalized formal English rather than simply transferred informal speech habits to paper. A writer who compares like to like demonstrates careful, logical thinking - the same precision that makes strong academic arguments. A writer who uses "different from" rather than "different than" demonstrates familiarity with formal academic register, signaling that they have absorbed the conventions of serious scholarly writing.
-
-The Digital SAT tests these skills because they predict success in academic contexts where precision matters: research writing, professional communication, and formal argumentation all require the same habits - comparing equivalent things, using the conventional expression for each relationship.
-
-For students entering university: professors in every discipline use these idioms correctly and expect their students to do the same. An essay that writes "Her results are different than the control group's" signals informal register; one that writes "Her results are different from those of the control group" signals academic precision. The preparation done for this article develops exactly the language habits that academic life rewards. The preparation done for these question types develops exactly the language precision that academic success requires.
-
-Students who complete this guide's preparation protocol will handle logical comparison and idiom questions efficiently and accurately, and they will carry the precision habits developed here into all their academic writing. Both rule types are fully learnable, both are directly testable, and both reward preparation over guessing in exactly the way that makes SAT preparation worthwhile. The return on preparation is both immediate (test score) and long-term (writing quality).
-
-## Summary: Two Rules, Finite Preparation, High Payoff
-
-LOGICAL COMPARISONS: Compare like to like. Apply the equal-sign test. Use "that of" or "those of" for the fix. Watch for the possessive trap (possessive modifiers conceal the actual subject). Fix with "that of" (singular) or "those of" (plural). Check "like/unlike" comparisons by confirming the main clause subject matches the category introduced by "like/unlike."
-
-IDIOMATIC EXPRESSIONS: Memorize the 25 preposition pairings in priority order (six highest-priority first). For each idiom question, identify the central word and recall the correct preposition. Select the answer choice with that preposition. For uncertain cases, use the meaning-based reasoning (direction, belonging, alignment) to eliminate wrong prepositions.
-
-Both rule types are finite, testable, and directly improvable through the preparation this guide provides. Together with parallel structure, modifier placement, punctuation, and subject-verb agreement covered in the companion articles, they form the complete Standard English Conventions toolkit for the Digital SAT Writing section.
-
-A student who has completed Articles 38 through 42 of this series has covered: all major grammar rule categories, all punctuation mark selection rules, parallel structure and modifier placement, and now logical comparisons and idiomatic expressions. This is a comprehensive, exam-ready preparation for every question type in the Standard English Conventions domain. Articles 43 and 44 complete the toolkit with verb tense and mood and sentence boundaries.
-
-## Additional Idiom Context: Formal vs Informal Prepositions
-
-One theme runs through many of the 25 idiom pairings: the correct formal-academic preposition is often the less intuitive one, while the wrong preposition sounds natural because it appears in informal speech. Understanding this pattern helps students anticipate which prepositions the SAT tests.
-
-FORMAL vs INFORMAL PAIRINGS (formal/SAT correct listed first):
-- "different FROM" (formal) vs "different than" (informal) - both are widespread; only "from" is correct on the SAT
-- "succeed IN" (formal) vs "succeed at" (informal) - both heard in everyday speech; "in" is required for the test
-- "independent OF" (formal) vs "independent from" (informal) - "from" appears in independence-of-a-nation usage; "of" is the academic standard
-- "debate OVER/ABOUT" (formal) vs "debate on" (informal) - "debate on" appears in journalism; "over/about" is the academic preference
-- "prohibit FROM" (formal) vs "prohibit to" (never correct but sounds like "allow to") - the confusion with "allow to" is the primary source of this error
-- "regard AS" (formal) vs "regard to be" (sounds formal but is incorrect) - hypercorrection creates this error
-- "consistent WITH" (formal) vs "consistent to" (less standard) - rare error but tested occasionally
-
-When uncertain about a preposition, ask: which form would appear in a peer-reviewed journal or formal policy document? That form is almost always the correct Digital SAT answer.
-
-## The Possessive Trap: A Special Warning
-
-The most common reason students miss logical comparison errors is the possessive trap. A sentence like "Like her mentor, her research focused on equity" looks correct at first glance because "her mentor" (a person) is visible in the "like" phrase. But the grammatical subject of the main clause is "her research" (a thing), not "her" (a person). The possessive "her research" obscures this by making the person seem present when in fact only their possessive modifier appears.
-
-THE POSSESSIVE TRAP RULE: A possessive modifier ("her research," "the company's strategy," "Stanford's endowment") makes a thing the grammatical subject. Even though a person or organization appears in the possessive form, the subject is the THING possessed, not the possessor.
-
-Examples:
-"Her research" → subject is "research," not "her"
-"The company's policy" → subject is "policy," not "the company"
-"Stanford's endowment" → subject is "endowment," not "Stanford"
-"The study's findings" → subject is "findings," not "the study"
-
-When a sentence opens with "Like [person/organization]," the main clause subject must be that same type of entity - a person or organization, not a thing they possess. Sentences where the possessive creates a false impression of the correct subject type are the hardest comparison questions on the Digital SAT.
-
-WORKED EXAMPLE:
-"Like many pioneering scientists of the 20th century, her work challenged established orthodoxies."
-ERROR: "Like many pioneering scientists" (people) vs "her work" (things/output).
-FIX: "Like many pioneering scientists of the 20th century, she challenged established orthodoxies through her work."
-
-"Like the leading economists of her era, her predictions proved remarkably accurate."
-ANALYSIS: "Like the leading economists" (people) vs "her predictions" (things). But wait - is there a person in the main clause? "Her predictions" - possessive trap. The subject is "predictions," not "her."
-FIX: "Like the leading economists of her era, she made predictions that proved remarkably accurate."
-
----
-
-## Summary Table: Quick Reference
-
-| Comparison Type | Example Error | Fix |
-|-----------------|---------------|-----|
-| Quantity vs Place | GDP of China > United States | GDP > that of the United States |
-| Salary vs Person | Salary of X > a lawyer | Salary of X > that of a lawyer |
-| Method vs Study | Methods > the 2019 study | Methods > those of the 2019 study |
-| Like + wrong category | Like scientists, her work... | Like scientists, she... |
-| Unlike + wrong category | Unlike policies, the director... | Unlike her predecessor, the director... |
-| Plural reference | Results > rival teams | Results > those of rival teams |
-
-| Idiom | Correct | Common Wrong Form |
-|-------|---------|-------------------|
-| different | different FROM | different than |
-| regard | regard AS | regard to be |
-| prohibit | prohibit FROM doing | prohibit to do |
-| capable | capable OF | capable to |
-| attribute | attribute TO | attribute with |
-| succeed | succeed IN | succeed at |
-| responsible | responsible FOR | responsible of |
-| comply | comply WITH | comply to |
-| independent | independent OF | independent from |
-| ban | ban ON | ban against |
-| debate | debate OVER/ABOUT | debate on |
-| not so much | not so much X AS Y | not so much X but Y |
-| as...as | as X AS Y | as X than Y |
-| more/less...than | more X THAN Y | more X as Y |
-
-Mastering both rules in this guide - the six comparison patterns and the 25 idiom pairings - prepares a student for every logical comparison and idiomatic expression question the Digital SAT presents. Together with the grammar rules in Articles 38 through 41 and 43 through 44, these two rule sets complete the Standard English Conventions toolkit for the Writing section.
-
-
-## Article 42 at a Glance: The Essential Checklist
-
-**FOR EVERY COMPARISON QUESTION:**
-1. Find the comparison word (than, as...as, like, unlike, similar to, different from).
-2. Identify the category on the LEFT side.
-3. Identify the category on the RIGHT side.
-4. Same category? No error. Different categories? Fix with "that of" (singular), "those of" (plural), possessive form, or restructure.
-5. Watch for the possessive trap: "her research" has "research" as subject, not "her."
-
-**FOR EVERY IDIOM QUESTION:**
-1. Find the central word in the underlined portion (verb, adjective, or noun).
-2. Recall its correct preposition pairing from the 25 idioms listed in this guide.
-3. Select the answer choice with that preposition.
-4. If uncertain, use meaning-based reasoning: direction/destination = "to/from," belonging/possession = "of," mutual alignment = "with," location or activity domain = "in/on."
-5. Eliminate any answer choice whose preposition creates a clearly non-idiomatic phrase.
-
-**SIX HIGHEST-PRIORITY IDIOMS TO ALWAYS KNOW:**
-different FROM | regard AS | prohibit FROM | capable OF | attribute TO | succeed IN
-
-These two checklists, applied automatically, resolve every logical comparison and idiomatic expression question on the Digital SAT Writing section.
-
-
-## One Final Note: Why These Rules Reward Preparation More Than Most
-
-Most reading comprehension and rhetorical analysis questions cannot be fully "prepared" - they require in-the-moment reasoning about specific texts. But logical comparison and idiomatic expression questions are different: they reward explicit prior knowledge over real-time reasoning.
-
-A student who has memorized the 25 idiom pairings will answer every idiom question correctly. A student who has internalized the equal-sign test and the "that of/those of" fix will answer every comparison question correctly. These are not questions where more intelligent students do better - they are questions where more prepared students do better.
-
-This makes them among the highest-return investments in SAT preparation. The time spent with this guide is time that directly and reliably converts to correct answers on exam day.
-
-## Words That Trigger the Equal-Sign Test
-
-For speed on exam day, train yourself to apply the equal-sign test automatically whenever you see any of these words or phrases in an underlined portion or near an answer choice blank:
-
-- than
-- as [adjective] as
-- like / unlike
-- similar to / dissimilar to
-- different from
-- compared to / compared with
-- more [adjective] than / less [adjective] than
-- higher than / lower than / greater than / fewer than
-- the same as
-
-Any of these triggers should immediately prompt: "What is on the left? What is on the right? Same category?" This automatic triggering, combined with the equal-sign test, makes logical comparison questions among the most efficiently handled questions in the Writing section for a prepared student.
-
-Mastering these two rule types - logical comparisons and idiomatic expressions - produces reliable, efficient, high-accuracy performance on a significant portion of every Digital SAT Writing section. The preparation is finite, the rules are learnable, and the payoff is direct.
-
-For students who have completed this article alongside Articles 38, 39, 40, and 41 of this series: every major grammar and usage rule category for the Digital SAT Writing section is now covered. Articles 43 and 44 complete the preparation with verb tense and mood (Article 43) and sentence boundaries (Article 44), rounding out the complete toolkit.
-
-With 25 idioms memorized and the equal-sign test automatic, a student handles these question types with the speed and confidence that comes from complete preparation - not hope.
+The most common mistake across both families is trusting fluency, accepting a choice because it sounds natural rather than testing it against a rule. For comparisons, this shows up as accepting a sentence that compares a quantity to a place because the two proper nouns feel parallel; for idioms, it shows up as accepting "different than" or "centered around" because everyday speech uses them constantly. The wrong answers are engineered to sound right, so smoothness is the symptom of the trap rather than evidence of correctness. The second most common mistake is more specific: writing or accepting "different than" when the standard is "different from," which is among the most heavily tested single pairings in the entire conventions set. The unifying correction is to invert your relationship with fluency, treating a choice that sounds fine as a reason to run the equal-sign test or consult the idiom list, not as a reason to relax. Diagnose with a procedure, never with a feeling, and the items built to exploit your ear become the fastest, most reliable points in the section.
