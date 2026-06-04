@@ -6,17 +6,17 @@ date: 2022-06-06
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "SSH", "Troubleshooting", "Networking", "Linux"]
 excerpt: "Azure VM SSH connection refused, timed out, or denied? Read each error string, map it to the real cause, and recover access without rebuilding the machine."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2022-06-06
+lang: en
 ---
-
 When an Azure VM SSH connection refused message lands in your terminal at the worst possible moment, the instinct is to assume the machine is gone and start planning a rebuild. That instinct is almost always wrong, and acting on it destroys the one thing that would have told you what actually broke. The phrase your client printed is not noise. It is the single most precise diagnostic you will get for free, and the difference between "connection refused," "connection timed out," and "permission denied (publickey)" points at three completely different layers of the stack. Refused means the host answered and told you nothing is listening on port 22. Timed out means nothing answered at all. Permission denied means the network and the daemon are both fine and the problem is purely authentication. Read the message first, and you eliminate two thirds of the possible causes before you touch a single setting.
 
 This article treats the SSH error string as the entry point to a directed diagnosis rather than a generic "VM is unreachable" panic. You will learn to decode each message into the layer it implicates, confirm which specific cause is yours with a command that proves it, apply the matching fix, and recover access through the serial console or the VMAccess extension when you cannot get a shell at all. The recovery paths matter because the most common mistake after misreading the error is reaching for a redeploy, which often wipes the evidence and, on a VM with an ephemeral or improperly backed disk, can lose data outright. The goal is to get you back into the machine, understand why you were locked out, and leave you with the prevention that stops it from happening again.
 
-![Decoding Azure VM SSH connection refused versus timed out and permission denied errors - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Decoding Azure VM SSH connection refused versus timed out and permission denied errors - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 ## Read the SSH Error String Before You Change Anything
 

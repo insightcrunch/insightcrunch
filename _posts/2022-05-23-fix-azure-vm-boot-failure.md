@@ -6,17 +6,17 @@ date: 2022-05-23
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "Boot Diagnostics", "Serial Console", "Troubleshooting"]
 excerpt: "An Azure VM boot failure is almost always a guest OS fault you can read from boot diagnostics and then repair with a rescue VM, not a reason to redeploy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2022-05-23
+lang: en
 ---
-
 An Azure VM boot failure is one of the few problems on the platform that feels genuinely frightening, because the machine has gone dark and the usual tools have nothing to connect to. There is no SSH session, no RDP window, no agent heartbeat, and no obvious place to look. The instinct that follows is almost always wrong: redeploy the machine, or restore last night's backup, and accept the lost state. That instinct throws away the work since the last snapshot to solve a problem that the serial console plus a rescue VM usually fixes in a few minutes, because the cause is sitting in the guest operating system rather than anywhere you cannot reach.
 
 This guide treats a dead virtual machine the way a senior engineer does: as a five-symptom diagnosis with a confirming view, not a guessing game. You will learn to read the boot diagnostics screenshot and the serial log, identify which of the distinct no-boot causes is yours, and recover the instance with the repair commands rather than rebuilding it. Everything here assumes the instance reached the Azure fabric and was assigned to a host, then failed somewhere between power-on and a usable login. That is the territory where the guest, not the platform, owns the problem.
 
-![Diagnosing an Azure VM boot failure with boot diagnostics and the serial console - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diagnosing an Azure VM boot failure with boot diagnostics and the serial console - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 ## What an Azure VM boot failure actually is
 

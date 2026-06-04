@@ -104,6 +104,7 @@ avtar-singh-khanda-uk-khalistan: nathan-cole
 azhar-builds-jem-2000-2001: rahul-banerjee
 azure-api-management-explained: ian-fletcher
 azure-app-service-deep-dive: andrew-price
+azure-blob-storage-engineering-guide: james-carter
 azure-container-apps-explained: william-knight
 azure-cosmos-db-engineering-guide: nathan-cole
 azure-data-factory-complete-guide: david-thornton
@@ -112,10 +113,13 @@ azure-functions-serverless-deep-dive: alex-cunningham
 azure-fundamentals-az-900-practice-exam-microsoft-certification: benjamin-scott
 azure-key-vault-complete-guide: andrew-price
 azure-kubernetes-service-aks-explained: ryan-walsh
+azure-logic-apps-deep-dive: david-thornton
 azure-monitor-log-analytics-guide: jason-mckenzie
+azure-resource-manager-arm-explained: nathan-cole
 azure-service-bus-deep-dive: jason-mckenzie
 azure-sql-database-internals: marcus-hall
 azure-storage-accounts-complete-guide: gregory-marsh
+azure-synapse-analytics-explained: thomas-reid
 azure-virtual-machines-complete-guide: david-thornton
 azure-virtual-network-vnet-deep-dive: abigail-cooper
 badshahi-angti-emperors-ring-bn: rahul-banerjee
@@ -456,6 +460,10 @@ firefox-toolbar-kewll-now-with-twitter-bing-real-time-search: william-knight
 first-dogfight-nuclear-powers: alex-cunningham
 first-few-days-at-tcs-ilp: rajan-kumar
 first-ladies-as-political-operators: amanda-ross
+fix-app-service-503-error: kevin-reeves
+fix-azure-vm-boot-failure: thomas-reid
+fix-azure-vm-rdp-connection-error: ryan-walsh
+fix-azure-vm-ssh-connection-refused: abigail-cooper
 fleur-delacour-complete-character-analysis: olivia-grant
 flickr-addiction-how-not-to-get-rid-of-it: chloe-martin
 flickr-photos-on-sale-report-by-jim-goldstein-is-shocking: chloe-martin
@@ -468,6 +476,7 @@ free-tools-for-small-business-owners: andrew-price
 french-dgse-rainbow-warrior: marcus-hall
 french-revolution-explained-complete: insight-crunch-team
 friar-laurence-character-analysis: rachel-foster
+friar-laurence-plan-failure-analysis: rachel-foster
 from-novice-to-certified-pro-your-tableau-journey: maya-chen
 future-covert-ops-technology: ryan-walsh
 future-india-counter-terror-doctrine: marcus-hall

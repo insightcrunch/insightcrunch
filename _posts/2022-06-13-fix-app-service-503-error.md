@@ -6,15 +6,15 @@ date: 2022-06-13
 categories: ["Technology"]
 tags: ["Azure", "Azure App Service", "503 Error", "Troubleshooting", "SNAT", "Cloud Computing"]
 excerpt: "An Azure App Service 503 has five distinct causes, from startup crashes to SNAT port exhaustion. Learn to read the log stream and fix the right one quickly."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2022-06-13
+lang: en
 ---
-
 An Azure App Service 503 Service Unavailable response tells you that the front end accepted your request but could not route it to a healthy worker that was willing to answer. That single fact is the most useful thing to hold in your head, because it rules out a whole class of guesses before you start. The request reached Azure. The platform front end found your site. What it could not find was a worker process in a state to serve the response, so it returned the generic 503 page instead. The error is not telling you what broke. It is telling you that something between the front end and your application code is in the way, and the entire job of diagnosis is to find which of a small number of distinct conditions is producing it on your site right now.
 
-![Fixing Azure App Service 503 Service Unavailable root causes - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Fixing Azure App Service 503 Service Unavailable root causes - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The reason a 503 frustrates so many engineers is that the symptom is identical across causes that have nothing to do with each other. A site that crashed on startup, a site that ran out of memory, a site that exhausted its outbound connection ports under load, and a site caught mid-swap all return the same three-digit code and the same unhelpful page. The instinct is to restart the app, watch the 503 disappear for a few minutes, and call it solved. That instinct is the single most expensive mistake you can make with this error, because a restart clears a transient condition and masks a structural one. The SNAT-exhausted site comes back the moment traffic returns. The startup-crash site comes back the instant the worker tries to start again. You have spent a restart and learned nothing. The method that actually works is to read the diagnostic signal first, name the cause, and then apply the fix that matches it. That is the whole of this article, and it is the same root-cause-over-symptom discipline the rest of this Azure series is built on.
 
@@ -124,7 +124,6 @@ az webapp log download \
 A registry or image-pull failure is a third container-specific path to a startup 503, because a worker that cannot pull the image cannot start the container, and the platform has no listening process to route to. The signal is an authentication or not-found error in the container startup logs when the platform tries to pull the image, and the fix is in the registry access: the managed identity or credentials the worker uses must have permission to pull from the registry, and the image tag must exist. This sits adjacent to the broader family of registry-access failures, and the same access model that governs a worker pulling its image governs pulls in other Azure container services, so the diagnosis transfers. For a Linux code-based app rather than a custom container, the equivalent startup 503 comes from a missing native dependency or a build step that the platform runs on deploy failing, and the build output in the deployment log names it, which connects back to the deployment-failure treatment for the deploy-time variant.
 
 The lesson across the Linux and container cases is that the startup-crash cause has a richer set of triggers than on Windows, but the diagnostic discipline is identical: read the startup logs, find where the start failed, and fix the specific condition rather than restarting into the same failure. A port mismatch, a slow start, and a pull failure each leave a distinct line in the startup log, and reading that line is faster than any number of redeploys.
-
 
 
 App Service is a managed platform, and managed means the platform moves your workers without asking. Underlying hardware is patched, infrastructure is updated, instances are rebalanced across the fleet, and your worker is migrated from one physical host to another as part of normal operation. During the seconds it takes a worker to recycle or to start on a new host, that worker is not in rotation. If it was your only worker, there is a window in which no healthy worker exists, and requests that arrive in that window return a 503. The error is real, but it is brief, it is self-healing, and it is a direct consequence of running a single instance with no warm replacement standing by.
