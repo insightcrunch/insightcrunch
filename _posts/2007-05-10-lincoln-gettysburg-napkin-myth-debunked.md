@@ -9,7 +9,7 @@ excerpt: "Lincoln never scrawled the Gettysburg Address on an envelope. Five sur
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2007-05-10
+last_updated: 2026-06-05
 lang: en
 ---
 On the evening of November 18, 1863, in a brick house on the diamond at the center of Gettysburg, a tall man in a borrowed upstairs bedroom asked for a pen. The house belonged to David Wills, the local attorney who had organized the entire dedication, and the town outside was so swollen with visitors that bands played in the square past midnight and crowds called for speeches under the windows. The man with the pen had arrived that afternoon on a special train, eaten dinner with the Wills family, stepped out briefly to acknowledge a serenade with a few words declining to say anything of substance, and then retreated upstairs. He had a sheet of paper with him, partly written in Washington before he left. He wanted to finish it. At some point that night he sent a servant across the square to consult with Secretary of State William Seward, who was lodging nearby, and then he came back and worked some more. The next day, after a two-hour oration by the most celebrated speaker in America, this man would stand and talk for somewhere between two and three minutes, and the words he refined in that bedroom would outlast every other sentence spoken at Gettysburg.

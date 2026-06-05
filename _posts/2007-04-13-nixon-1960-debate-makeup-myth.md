@@ -9,7 +9,7 @@ excerpt: "The legend says radio listeners gave the 1960 debate to Nixon and TV v
 image: "/assets/images/blog/blog-74.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-04-13
+last_updated: 2026-06-05
 lang: en
 ---
 On the evening of September 26, 1960, a converted radio studio at WBBM in Chicago held two men, four newspapermen, a moderator, and a bank of cameras feeding the largest political audience that had ever assembled in front of a single broadcast. One of the two men had spent the previous two weeks in a hospital bed. He had banged a knee on a car door in August, the joint had become infected, and he had lost close to twenty pounds before a fever broke and the doctors let him out. He arrived at the studio underweight, pale, and dressed in a light gray suit that swallowed him against a gray backdrop. On the way in, getting out of the car, he hit the same knee again. He turned down a professional makeup artist and let an aide brush a drugstore powder across his jaw to hide the dark stubble that grew back within hours of every shave. Under the lights he began to sweat, and the powder began to streak.

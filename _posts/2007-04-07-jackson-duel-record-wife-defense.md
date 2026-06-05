@@ -9,7 +9,7 @@ excerpt: "Jackson did not fight a dozen duels for Rachel's honor. He fought one 
 image: "/assets/images/blog/blog-02.webp"
 reading_time: 71
 author: "rachel-foster"
-last_updated: 2007-04-07
+last_updated: 2026-06-05
 lang: en
 ---
 On the cold morning of May 30, 1806, on a strip of riverbank in Logan County, Kentucky, a tall, gaunt Tennessee lawyer stood very still and let another man shoot him first. Charles Dickinson was the finest pistol shot in the state, a young dandy who could put four balls in a target the width of a coin from twenty-four feet, and he had bragged about exactly how he would kill the man now facing him. Andrew Jackson knew all of this. He had decided, with his second Thomas Overton, that there was no surviving a contest of speed against such an opponent. The only path was to absorb the first ball, stay upright, and then take careful, unhurried aim. Dickinson fired. The ball struck Jackson in the chest, broke two ribs, and buried itself near his heart, where it would stay for the remaining thirty-nine years of his life. Jackson did not fall. He pressed his left arm against his side, raised his pistol, and shot Charles Dickinson through the body. Dickinson bled to death that evening.

@@ -9,7 +9,7 @@ excerpt: "Presidents elected in years ending in zero died in office from 1840 to
 image: "/assets/images/blog/blog-16.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2007-04-02
+last_updated: 2026-06-05
 lang: en
 ---
 At 2:57 in the afternoon on March 30, 1981, a thoracic surgeon named Benjamin Aaron stood over an open chest in trauma bay five of George Washington University Hospital and went looking for a bullet he could not find. The patient on the table was seventy years old, hypotensive, and bleeding into his left pleural cavity from a wound that had collapsed a lung. Outside the operating room, a small group of aides and Secret Service agents waited with a knowledge most of them would not have said aloud. The man on the table had been elected in 1980. The last six presidents elected in a year ending in zero had all died in office. So had the one before them. Seven straight, going back to 1840. The question hanging in that corridor, unspoken and absurd and impossible to fully dismiss, was whether the eighth was about to make it eight.

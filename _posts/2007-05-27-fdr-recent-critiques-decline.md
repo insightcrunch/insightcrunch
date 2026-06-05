@@ -9,7 +9,7 @@ excerpt: "FDR held third place among historians from 1948 to 2000 without a seri
 image: "/assets/images/blog/blog-11.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2007-05-27
+last_updated: 2026-06-05
 lang: en
 ---
 In the spring of 1948, Arthur Schlesinger Sr. mailed a questionnaire to fifty-five scholars and asked them to rank the presidents. When the results came back and ran in Life magazine that November, the top of the list looked the way it would look for the next half century. Lincoln first. Washington second. Franklin Roosevelt third, dead barely three years, his coalition still in power, his name still on buildings that had not yet been dedicated. No president who had governed within living memory had ever been placed so high so fast. The professors who filled out Schlesinger's cards had voted for the man who pulled them through the worst decade and the worst war the republic had survived, and they did it almost reflexively, as if ranking him anywhere else would have been a category error.

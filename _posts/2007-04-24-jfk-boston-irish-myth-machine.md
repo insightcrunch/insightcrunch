@@ -9,7 +9,7 @@ excerpt: "The Chowder and Marching Club was a 1949 Republican group JFK never jo
 image: "/assets/images/blog/blog-51.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-04-24
+last_updated: 2026-06-05
 lang: en
 ---
 On a Wednesday evening in the spring of 1949, fifteen young Republican congressmen crowded into a House office after the legislative day ended and decided to make trouble. Their target was a pension bill that would have sent ninety dollars a month to aging veterans of the two world wars, a measure pushed by the autocratic chairman of the Veterans' Affairs Committee, John Rankin of Mississippi. The freshmen thought the price tag reckless. They organized, whipped votes, and helped sink the Rankin bill by a single ballot. Out of that small insurgency came a dining society they named, with deliberate self-mockery, the Chowder and Marching Club. Its charter members included a lean, intense Californian named Richard Nixon and a genial Michigan lineman named Gerald Ford, both of whom would later reach the White House. The club met for decades. It welded friendships, traded strategy, and groomed talent.

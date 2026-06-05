@@ -9,7 +9,7 @@ excerpt: "Callender alleged it in 1802. Scholars dismissed it for 196 years. The
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2007-05-16
+last_updated: 2026-06-05
 lang: en
 ---
 In a laboratory at the University of Leicester in the autumn of 1998, a pathologist named Eugene Foster waited for a set of Y-chromosome haplotypes to resolve. He had spent months collecting blood from elderly men scattered across the United States, men who shared one thing: each descended, in an unbroken father-to-son line, from somebody tangled in the oldest sex scandal in American political history. One line ran back to Field Jefferson, the paternal uncle of the third president, and therefore carried the same Y chromosome Thomas Jefferson carried. One line ran back to the sons of John Carr, grandfather of the two nephews Jefferson's white family had always blamed. One line ran back to Thomas Woodson, the man many Black families believed was Sally Hemings's first child. And one line, the thinnest of all, a single surviving male descendant, ran back to Eston Hemings, the youngest son Sally Hemings bore at Monticello in 1808.

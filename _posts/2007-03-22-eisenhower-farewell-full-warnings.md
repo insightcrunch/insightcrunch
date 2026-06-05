@@ -9,7 +9,7 @@ excerpt: "Everyone recalls Eisenhower's military-industrial-complex warning. His
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "chloe-martin"
-last_updated: 2007-03-22
+last_updated: 2026-06-05
 lang: en
 ---
 On the evening of January 17, 1961, three days before he handed the presidency to John Kennedy, Dwight Eisenhower sat at a desk in the Oval Office and read a speech into a bank of television cameras. He was seventy years old, the oldest man to have held the office to that point, and his voice carried the flat Kansas cadence that millions of Americans had come to trust across eight years of Cold War tension. The address ran roughly 1,640 words and lasted under ten minutes. Within those minutes Eisenhower delivered a phrase that would outlive almost everything else he ever said in public. He warned the country to "guard against the acquisition of unwarranted influence, whether sought or unsought, by the military-industrial complex." That single coinage entered the permanent vocabulary of American politics. It has been quoted by senators and protesters, by libertarians and socialists, by filmmakers and historians, by people who agreed with Eisenhower and by people who would have despised everything he stood for.

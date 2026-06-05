@@ -9,7 +9,7 @@ excerpt: "Washington's teeth were never wood. They were ivory, brass, lead, gold
 image: "/assets/images/blog/blog-32.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2007-05-05
+last_updated: 2026-06-05
 lang: en
 ---
 On the morning of April 30, 1789, the man about to become the first president of the United States had exactly one of his own teeth left in his head. It was a lower left premolar, and it was failing. Everything else in his mouth was a feat of carpentry and metalwork: a lower plate of carved ivory and animal bone, a set of human teeth fixed with brass, the whole apparatus held against his gums by springs that pushed so hard he had to clench to keep his jaw closed. When he stood on the balcony of Federal Hall and took the oath, witnesses noticed that he barely opened his mouth. He read the oath in a low, halting voice. Then he retreated indoors to deliver his inaugural address to Congress in a near-mumble, his hands trembling, his words swallowed. The crowd in the street below assumed they were watching modesty, the famous Washington reserve. They were watching a man trying not to let his teeth fall out in public.

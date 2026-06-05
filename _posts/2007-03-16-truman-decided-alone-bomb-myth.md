@@ -9,7 +9,7 @@ excerpt: "Truman said the buck stops here, and he meant it. But on the bomb he r
 image: "/assets/images/blog/blog-83.webp"
 reading_time: 71
 author: "chloe-martin"
-last_updated: 2007-03-16
+last_updated: 2026-06-05
 lang: en
 ---
 On the desk in the Oval Office sat a small lacquered sign, a gift from a friend in Missouri, that read THE BUCK STOPS HERE on the front and I'M FROM MISSOURI on the back. Harry Truman liked the sign because it captured something he believed about the office he had inherited without warning on the evening of April 12, 1945. A president could delegate analysis, delegate planning, delegate the drafting of orders, but he could not delegate the final word. When the country later argued about whether the atomic bomb should have fallen on Hiroshima and Nagasaki, the sign became shorthand for a particular story: that one man, alone at a desk, weighed an unthinkable choice and made it. The story is half right, and the wrong half has done more to distort public understanding of executive power than almost any other myth about the modern presidency.

@@ -9,7 +9,7 @@ excerpt: "Lincoln's Republicans backed federal power, high tariffs, land grants,
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 70
 author: "amanda-ross"
-last_updated: 2007-03-27
+last_updated: 2026-06-05
 lang: en
 ---
 In the summer of 1862, while Confederate armies pressed toward Washington and the Union war effort hung on a knife's edge, the men sitting in the United States Capitol did something that should puzzle anyone who thinks they know what the word Republican has always meant. Inside roughly seven weeks, the antislavery majority in the Thirty-Seventh Congress handed Abraham Lincoln a stack of bills to sign that, taken together, amounted to the most aggressive expansion of federal authority the republic had yet seen. On May 20 came the Homestead Act, the national government giving away 160-acre parcels of the public domain to settlers. On July 1 came the Pacific Railway Act, the national government underwriting a transcontinental railroad with land grants and bond subsidies on a scale no private market would have attempted. On July 2 came the Morrill Land-Grant Colleges Act, the national government endowing public universities in every loyal state. Layered beneath all of it sat the previous summer's Revenue Act, which had created the first federal income tax in American history, and the Legal Tender Act, which had conjured a national paper currency, the greenback, out of nothing but congressional will.

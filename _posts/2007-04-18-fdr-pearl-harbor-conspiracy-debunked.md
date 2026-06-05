@@ -9,7 +9,7 @@ excerpt: "The claim that FDR knew Pearl Harbor was coming and let it happen runs
 image: "/assets/images/blog/blog-24.webp"
 reading_time: 71
 author: "amanda-ross"
-last_updated: 2007-04-18
+last_updated: 2026-06-05
 lang: en
 ---
 On the morning of November 27, 1941, a coded dispatch reached Admiral Husband E. Kimmel at his headquarters above the Pacific Fleet anchorage on Oahu. The first line did not waste words. It told him to treat what followed as a war warning. Negotiations with Tokyo had effectively collapsed, the message said, and an aggressive Japanese move was expected within the next several days. Then it listed where that move was likely to land: the Philippines, the Thai or Kra Peninsula, possibly Borneo. Hawaii was not on the list. Kimmel read the dispatch, conferred with his staff, and concluded that the threat pointed thousands of miles to the west of where his battleships sat in their berths. Ten days later, on the morning of December 7, the first Japanese dive bombers came out of the sun over Battleship Row.

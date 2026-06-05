@@ -9,7 +9,7 @@ excerpt: "Historians rank Reagan 9th while the public consistently puts him in t
 image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "diana-patel"
-last_updated: 2007-06-01
+last_updated: 2026-06-05
 lang: en
 ---
 Two surveys land on a researcher's desk in the same week, and they describe two different men. One comes from a polling outfit that telephoned a representative sample of American adults and asked them to name the greatest president of the modern era. Ronald Reagan finishes near the top, jostling with Franklin Roosevelt and John Kennedy for the lead, the kind of result he has produced almost every time ordinary citizens have been asked the question since he left office. The other survey comes from a panel of professional historians and political scientists who study the presidency for a living. They rank him ninth, respectable but a full tier below the figures the public puts beside him. Same president. Same record. Same forty months of available evidence. Two verdicts that will not reconcile.

@@ -9,7 +9,7 @@ excerpt: "Washington never chopped a cherry tree. Parson Weems invented the tale
 image: "/assets/images/blog/blog-84.webp"
 reading_time: 59
 author: "rachel-foster"
-last_updated: 2007-05-21
+last_updated: 2026-06-05
 lang: en
 ---
 A small boy stands before his father in a Virginia garden, hatchet in one hand, the bark of a young fruit tree freshly gouged behind him. The father's voice rises. The boy looks up, and the words arrive that millions of American children would later recite from memory: he cannot tell a lie, he did it with his little hatchet. The father, overcome, gathers the child into his arms and declares the honest confession worth more than a thousand trees. It is one of the most recognized scenes in the national imagination, taught as fact in classrooms for the better part of a century, repeated in cartoons, advertisements, political speeches, and birthday tributes. It has only one defect. It never happened.

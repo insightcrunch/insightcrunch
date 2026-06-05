@@ -9,7 +9,7 @@ excerpt: "Pat Schroeder called Reagan the Teflon president in 1983 and the nickn
 image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "rachel-foster"
-last_updated: 2007-04-29
+last_updated: 2026-06-05
 lang: en
 ---
 On the morning of August 2, 1983, Congresswoman Patricia Schroeder of Colorado was frying eggs for her children before she left for the Capitol. The eggs slid off the pan without sticking, and the image stayed with her. Later that day, on the floor of the House of Representatives, she reached for the kitchen to describe something that had been frustrating Democrats for two and a half years. Ronald Reagan, she said, was a Teflon president. Nothing stuck to him. Mistakes that would have scorched any other occupant of the office slid right off the man in the Oval Office, and the public never seemed to hold him responsible. The phrase took about four seconds to deliver. It outlived Schroeder's career, outlived Reagan, and became the single most durable shorthand anyone ever attached to his presidency.
