@@ -6,15 +6,15 @@ date: 2022-09-05
 categories: ["Technology"]
 tags: ["Azure", "Cosmos DB", "429", "Troubleshooting", "Performance", "Cloud Computing"]
 excerpt: "A Cosmos DB 429 Too Many Requests means a request outran available RU. Learn to tell a real throughput shortfall from a hot partition and fix the right one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2022-09-05
+lang: en
 ---
-
 A Cosmos DB 429 is the response code that says your request asked for more than the database was willing to serve in that instant. The status line reads `429 Too Many Requests`, the older SDKs surfaced it as `RequestRateTooLarge`, and the substatus that pins it to rate limiting is `3200`. Engineers meet it the moment a workload crosses from a demo into real traffic, and the reflex is almost always the same: open the throughput blade and slide the number up. Sometimes that works. Often it does nothing, the 429s keep coming, the monthly bill climbs, and the team is left staring at a graph that refuses to flatten. The reason is that a 429 has more than one cause, and only one of those causes is cured by buying more capacity.
 
-![Diagnosing Cosmos DB 429 Too Many Requests root causes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diagnosing Cosmos DB 429 Too Many Requests root causes - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The single most useful idea to carry into this problem is what we will call the RU-or-partition rule: a Cosmos DB 429 is either a genuine shortage of request units across the container, or it is a hot partition concentrating load on one physical slice of the data, and the metrics, not your intuition, decide which. Adding throughput before you have read the per-partition view is the most common wasted fix in the entire service, because no amount of provisioned capacity relieves a partition that is hot by design. Everything that follows is built to let you make that determination quickly, confirm it with a command or a metric rather than a guess, and then apply the remedy that matches the cause instead of the remedy that is easiest to reach.
 

@@ -236,6 +236,10 @@ chrome-frame-turn-ie-6-7-8-into-chrome: rachel-foster
 churchill-becomes-pm-may-10-1940: rachel-foster
 cia-bin-laden-hunt-abbottabad: william-knight
 cinema-shapes-counter-terror-policy: amit-chatterjee
+citizen-kane-complete-analytical-guide: amanda-ross
+citizen-kane-greatest-film-ever: diana-patel
+citizen-kane-plot-structure-explained: chloe-martin
+citizen-kane-story-as-analysis: emily-reed
 civilian-casualties-both-sides: abigail-cooper
 class-marriage-pride-and-prejudice: claire-bennett
 claudius-hamlet-character-analysis: victoria-stone
@@ -460,6 +464,9 @@ firefox-toolbar-kewll-now-with-twitter-bing-real-time-search: william-knight
 first-dogfight-nuclear-powers: alex-cunningham
 first-few-days-at-tcs-ilp: rajan-kumar
 first-ladies-as-political-operators: amanda-ross
+fix-aadsts50011-redirect-uri: james-carter
+fix-aadsts65001-consent-required: david-thornton
+fix-aadsts700016-app-not-found: ryan-walsh
 fix-aks-crashloopbackoff: abigail-cooper
 fix-aks-imagepullbackoff: alex-cunningham
 fix-aks-pods-pending: kevin-reeves
@@ -467,10 +474,15 @@ fix-app-service-500-30-startup-error: jason-mckenzie
 fix-app-service-503-error: kevin-reeves
 fix-azure-functions-cold-start: jason-mckenzie
 fix-azure-functions-not-triggering: ian-fletcher
+fix-azure-rbac-authorizationfailed: alex-cunningham
 fix-azure-sql-40613-unavailable: thomas-reid
+fix-azure-sql-dtu-throttling: ryan-walsh
+fix-azure-sql-login-failed-18456: alex-cunningham
 fix-azure-vm-boot-failure: thomas-reid
 fix-azure-vm-rdp-connection-error: ryan-walsh
 fix-azure-vm-ssh-connection-refused: abigail-cooper
+fix-cosmos-db-429-rate-limit: alex-cunningham
+fix-cosmos-db-ru-throttling: thomas-reid
 fix-storage-403-authorization-error: nathan-cole
 fix-storage-409-conflict-error: nathan-cole
 fleur-delacour-complete-character-analysis: olivia-grant

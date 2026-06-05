@@ -6,17 +6,17 @@ date: 2022-08-22
 categories: ["Technology"]
 tags: ["Azure", "Azure SQL Database", "18456", "Troubleshooting", "Identity", "Cloud Computing"]
 excerpt: "Azure SQL login failed error 18456 has distinct causes. Read the error state to localize a bad password, missing login, firewall block, or contained user."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2022-08-22
+lang: en
 ---
-
 The message reads the same every time. `Login failed for user '<name>'. (Microsoft SQL Server, Error: 18456)`. You retype the password, you try again, the same line comes back, and the instinct after the third attempt is to assume your fingers are wrong or the credential was rotated out from under you. That instinct is what wastes the afternoon. The Azure SQL login failed error 18456 is not one problem with one fix. It is a single surface symptom sitting on top of at least six structurally different causes, and the error carries a number that tells you which one you are looking at before you touch the password field again. Learning to read that number is the difference between a five minute correction and an hour of guessing.
 
 This article treats 18456 the way a senior engineer treats it during an incident: as a signal to decode rather than a credential to re-enter. You will learn what the error actually means at the protocol level, how the error state narrows six causes down to one, how to confirm each cause with a command instead of a hunch, and how to apply the fix that addresses the real failure. By the end you will be able to look at a state number and a connection string and say, with confidence, "this is a contained user hitting master" or "this is a firewall rule, not a credential," and act accordingly.
 
-![Reading the Azure SQL 18456 error state to diagnose login failures - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Reading the Azure SQL 18456 error state to diagnose login failures - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 ## What Error 18456 Actually Means
 
