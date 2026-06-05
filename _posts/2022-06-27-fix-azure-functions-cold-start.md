@@ -6,15 +6,15 @@ date: 2022-06-27
 categories: ["Technology"]
 tags: ["Azure", "Azure Functions", "Cold Start", "Serverless", "Troubleshooting", "Performance"]
 excerpt: "Azure Functions cold start slowing the first request? Measure it, attribute it to plan, package, or runtime, then pull the right lever instead of a hack."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2022-06-27
+lang: en
 ---
-
 An Azure Functions cold start is the delay a caller experiences when a request lands on an instance that is not already running, forcing the platform to allocate a worker, load the runtime, mount the deployment, initialize your dependencies, and only then run your code. The first request after a quiet period feels sluggish, sometimes by hundreds of milliseconds and sometimes by several seconds, while every request that follows is fast. That asymmetry is the signature of the problem, and it is the single most misread behavior in the entire serverless model. People reach for a timer that pings the endpoint, blame their code, or quietly accept the latency as a tax they cannot avoid. None of those responses is the right one, because the delay is not a bug and it is not random. It is a measurable, attributable property of the hosting plan and the application, and once you can attribute it you can reduce it deliberately.
 
-![Diagnosing and reducing Azure Functions cold start latency across hosting plans - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Diagnosing and reducing Azure Functions cold start latency across hosting plans - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 This guide treats the slow first invocation as a diagnosis, not a mystery. You will learn to measure the delay precisely rather than estimating it by feel, to break the total into the contributors that actually produce it, to confirm which contributor dominates your specific app, and to apply the lever that addresses that contributor instead of a generic tip that masks the symptom. The central rule, which the rest of this guide defends with measurement, is that the hosting plan is the dominant lever. Shaving microseconds off code matters far less than the plan decision, so a latency-sensitive workload should move to a plan with ready instances before anyone micro-optimizes a constructor. By the end you should be able to look at an Application Insights trace, name the contributor, and choose between a plan change, a package reduction, a dependency trim, or a deliberate decision to live with the latency because the workload tolerates it.
 
@@ -569,7 +569,6 @@ Running Functions on a Dedicated App Service plan keeps the underlying instances
 ### Q: How do I measure cold start latency in Application Insights?
 
 Connect Application Insights to the function app, confirm the instrumentation connection string is present in the app settings, then run a Kusto query against the requests table that summarizes duration by percentile, ordering by the ninety-ninth, so the tail separates from the body of the distribution. To isolate the provisioning event specifically, query the traces for host-start or worker-start messages and correlate them with the slow requests by operation context, which proves a given slow request coincided with an instance coming online. For a deliberate measurement, restart the app to force a cold state, wait for deallocation, then send a single timed request with curl and read the total time, repeating with idle gaps to build a reproducible from-idle distribution. The discipline is to measure the percentile, not the average, and to capture a before-and-after around every change so you keep only the fixes that actually moved the tail.
-
 
 
 ### Q: Should I optimize my code or change the plan first to fix cold start?

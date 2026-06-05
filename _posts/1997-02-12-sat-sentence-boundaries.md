@@ -6,13 +6,15 @@ date: 1997-02-12
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Sentence Boundaries", "Comma Splice", "Grammar"]
 excerpt: "SAT sentence boundaries explained: comma splices, run-ons and fragments, the four legal ways to join clauses and the dependent-clause test, with examples."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1997-02-12
+lang: en
 ---
-
 A student opens the Reading and Writing section, reaches a Standard English Conventions item, and reads two perfectly grammatical halves stitched together with a comma. Each half is fine. The subject agrees with its verb, the modifier sits where it belongs, the diction is clean. The student, seeing nothing wrong inside either half, keeps the comma and moves on, and the point is gone. That single misread is the heart of SAT sentence boundaries, the question family that turns on one thing only: whether the words on each side of a junction can stand alone as a complete thought. Get that judgment right and the four answer choices sort themselves in seconds. Get it wrong and a clean, careful reader still loses a question that was never about meaning at all.
+
+![SAT Writing: Sentence Boundaries - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The trap works because boundary errors hide inside fluent writing. A comma splice reads smoothly aloud; the pause feels natural; nothing screams. The test is built precisely for the reader who trusts the ear over the rule. What this guide gives you, and what the standard grammar roundup skips, is the realization that the entire boundary category reduces to a single diagnostic applied twice, paired with a closed list of legal repairs. There are exactly four sanctioned ways to fuse two free-standing clauses, and the digital exam offers those four as competing options on the same screen, daring you to pick the wrong one. Once the diagnostic and the repair list live in your head as one move, the family collapses from a vague worry into a mechanical decision you can run under time pressure without second-guessing.
 

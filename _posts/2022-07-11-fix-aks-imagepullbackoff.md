@@ -6,17 +6,17 @@ date: 2022-07-11
 categories: ["Technology"]
 tags: ["Azure", "AKS", "ImagePullBackOff", "ErrImagePull", "Troubleshooting", "Kubernetes", "Cloud Computing"]
 excerpt: "ImagePullBackOff in AKS means the kubelet could not pull your image. Read the pod events line to find the real cause, then apply the one matching fix."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 65
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2022-07-11
+lang: en
 ---
-
 A pod sits in `ImagePullBackOff`, the deployment never reaches ready, and the temptation is immediate: rotate the registry credentials, recreate the secret, redeploy, and hope. That guess is wrong far more often than it is right, because `ImagePullBackOff` is not a single fault. It is a status the kubelet shows after it tried to pull a container image, failed, and decided to wait before trying again. The word that matters sits one line lower, under Events, where the kubelet records exactly why the last attempt failed. An unauthorized pull, a tag that does not exist, a registry that is rate limiting, and a host name that will not resolve all surface as the same yellow status in `kubectl get pods`, and all four have different fixes. Reading the events line first is the difference between a five-minute correction and an afternoon of rotating secrets that were never the problem.
 
 This guide treats `ImagePullBackOff` and its companion `ErrImagePull` as a diagnosis you perform on the cluster rather than a verdict you accept. You will learn what the two statuses mean and how they relate, where the real reason is written, how to route each Events message to its cause, and how to confirm and fix every one of the recurring cases engineers hit on Azure Kubernetes Service: an Azure Container Registry that was never attached to the cluster, a Docker Hub anonymous pull that ran into the rate limit, a typo in the tag, a `:latest` that was overwritten or deleted, an `imagePullSecret` created in the wrong namespace, a private registry blocked by a firewall, and registry DNS that fails from the node.
 
-![Fixing AKS ImagePullBackOff and ErrImagePull root causes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fixing AKS ImagePullBackOff and ErrImagePull root causes - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 The shape of the fix is always the same: read the Events line, classify the message into name, tag, authentication, or reachability, confirm the cause with one command, apply the matching remedy, and verify the pod reaches running. Everything below builds that loop and gives you the command for each step. If you want the broader picture of how the scheduler, the node, and the kubelet cooperate to place and start a pod, the [Azure Kubernetes Service deep dive](/2022/01/17/azure-kubernetes-service-aks-explained/) lays out the node-and-pull model that this troubleshooting sits on top of.
 
