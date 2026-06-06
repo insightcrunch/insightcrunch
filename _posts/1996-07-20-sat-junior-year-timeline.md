@@ -6,15 +6,15 @@ date: 1996-07-20
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Junior Year", "Timeline", "Test Dates"]
 excerpt: "SAT junior year timeline explained month by month: PSAT, structured prep, the March baseline test, retakes and the AP overlap, ending before senior year."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "maria-santos"
 last_updated: 1996-07-20
+lang: en
 ---
-
 Most eleventh-graders treat the SAT junior year question as a single decision: pick a date, sign up, show up. That framing is why so many of them end the year with a number that does not reflect what they could have earned. The exam does not reward the student who studied hardest in the final two weeks. It rewards the one who turned a vague intention into a sequence of dated decisions, each made on time, each informed by the result of the one before it. Junior year is the main event of the whole admissions arc, and a junior who walks into it with a calendar instead of a panic schedule keeps options open that a late starter has already lost by spring.
 
-![SAT junior year timeline month by month from PSAT to final score - Insight Crunch](/assets/images/blog/blog-15.webp)
+![SAT junior year timeline month by month from PSAT to final score - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 Here is the claim this guide will defend, and the thing the standard "take it in spring of junior year" advice misses entirely. A junior-year plan is not a study plan. It is a decision tree. Each month of eleventh grade carries one or two choices that change what the rest of the year can become, and the cost of a missed choice compounds. Skip the diagnostic in the fall and you reach March without knowing whether you needed forty hours of prep or four. Treat the first real sitting as the only sitting and you forfeit the single most reliable point gain available to any test-taker, the retake. Pile the spring administration on top of three Advanced Placement exams in the same fortnight and you split your attention so finely that neither score moves. The InsightCrunch Junior-Year Timeline exists to keep those choices visible and in order, so that by the time senior fall arrives the number is already locked, sent, and off the eleventh-grader's plate.
 

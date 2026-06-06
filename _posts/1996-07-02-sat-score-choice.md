@@ -6,15 +6,15 @@ date: 1996-07-02
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Score Choice", "Superscoring", "Strategy"]
 excerpt: "SAT Score Choice explained: choosing which dates to send, which schools require all scores, how superscoring changes the strategy and the percentile rule."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1996-07-02
+lang: en
 ---
-
 SAT Score Choice exists for exactly the student in the story that follows. A student walks out of a second sitting convinced the morning went badly, goes home, and quietly decides to bury the whole attempt. Three weeks later the official report lands and the math came in forty points higher than the first try. The reading and writing slipped a little, but the section that rose is exactly the one a target university happens to rebuild a superscore from. Because that student hid the date out of embarrassment, the application now carries a lower combined figure than the one the College Board would have assembled for free. Nobody asked the student to lie. The points were simply left on the table by a guess made in a bad mood.
 
-![SAT Score Choice send or withhold decision strategy worked examples - Insight Crunch](/assets/images/blog/blog-04.webp)
+![SAT Score Choice send or withhold decision strategy worked examples - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 That is the whole problem with score reporting in one anecdote. Score Choice, the College Board policy that lets you decide which test dates a college sees, is one of the most powerful and least understood levers in the admissions process. Used well, it lets a confident applicant present the strongest possible record without ever misrepresenting anything. Used carelessly, in either direction, it costs real admissions value. The students who send everything blindly hand a few colleges reasons to hesitate that those colleges never needed to see. The students who hide too much amputate a superscore that would have raised their number. This guide gives you the mechanism, the school-by-school logic, and a single decision rule, the InsightCrunch Score Choice rule, that turns the whole question from a worry into a thirty-second call you make per university with confidence.
 

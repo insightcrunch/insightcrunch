@@ -253,6 +253,8 @@ citizen-kane-flashback-structure: rachel-foster
 citizen-kane-genre-form-style: amanda-ross
 citizen-kane-greatest-film-ever: diana-patel
 citizen-kane-inquirer-party-scene: diana-patel
+citizen-kane-leland-drunken-review: chloe-martin
+citizen-kane-leland-kane-fallout: rachel-foster
 citizen-kane-losing-the-election: amanda-ross
 citizen-kane-meets-susan-alexander: amanda-ross
 citizen-kane-misreadings-corrected: diana-patel
@@ -263,6 +265,8 @@ citizen-kane-plot-structure-explained: chloe-martin
 citizen-kane-projection-room-scene: diana-patel
 citizen-kane-story-as-analysis: emily-reed
 citizen-kane-study-guide-deeper: amanda-ross
+citizen-kane-susan-opera-debut: diana-patel
+citizen-kane-susan-suicide-attempt: rachel-foster
 citizen-kane-symbols-complete-guide: rachel-foster
 citizen-kane-takes-over-inquirer: amanda-ross
 citizen-kane-techniques-complete-guide: rachel-foster
@@ -309,12 +313,17 @@ complete-guide-paying-for-college: ryan-walsh
 complete-history-bollywood-action-cinema: nandini-sen
 complete-shadow-war-kill-list: benjamin-scott
 configure-aks-ingress-tls: marcus-hall
+configure-aks-workload-identity: ryan-walsh
 configure-app-gateway-waf: ryan-walsh
+configure-azure-functions-bindings: ian-fletcher
+configure-azure-sql-failover-groups: marcus-hall
 configure-azure-vm-autoshutdown: robert-quinn
+configure-cosmos-db-partition-keys: marcus-hall
 configure-front-door-routing: nathan-cole
 configure-key-vault-references: william-knight
 configure-managed-identities: benjamin-scott
 configure-private-endpoints: marcus-hall
+configure-storage-lifecycle-policies: marcus-hall
 control-mouse-cursor-using-keyboard: marcus-hall
 coolidge-1927-credit-boom-inaction: diana-patel
 coolidge-libertarian-comeback: diana-patel
@@ -1456,6 +1465,7 @@ sat-bluebook-app-complete-guide: natalie-webb
 sat-business-programs-scores: jessica-kim
 sat-college-board-question-bank-strategy: christopher-wells
 sat-command-of-evidence: christopher-wells
+sat-common-app-scores: hannah-moore
 sat-computer-science-programs: jessica-kim
 sat-coordinate-geometry-circles-guide: patrick-dunn
 sat-craft-structure-questions: michael-brooks
@@ -1469,6 +1479,7 @@ sat-expression-of-ideas-complete-guide: daniel-morgan
 sat-financial-aid-scholarships: patrick-dunn
 sat-for-adult-non-traditional-test-takers: christopher-wells
 sat-for-homeschooled-students: maria-santos
+sat-freshman-guide: samantha-lee
 sat-geometry-trigonometry-complete-guide: michael-brooks
 sat-grammar-conventions-complete: natalie-webb
 sat-grammar-rules-complete-guide: daniel-morgan
@@ -1476,6 +1487,7 @@ sat-guide-for-chinese-students: hannah-moore
 sat-guide-for-korean-students: anita-das
 sat-guide-for-parents: samantha-lee
 sat-inference-implication: natalie-webb
+sat-junior-year-timeline: maria-santos
 sat-khan-academy-complete-usage-guide: hannah-moore
 sat-linear-equations-systems-complete-guide: michael-brooks
 sat-logical-comparisons-idioms: samantha-lee
@@ -1548,6 +1560,8 @@ sat-rw-module-strategy: daniel-morgan
 sat-rw-pacing-strategy: hannah-moore
 sat-rw-past-question-analysis: samantha-lee
 sat-score-benchmarks-by-college-tier: patrick-dunn
+sat-score-cancellation: patrick-dunn
+sat-score-choice: simon-hartley
 sat-score-plateau-breakthrough: jessica-kim
 sat-score-prediction: michael-brooks
 sat-score-reporting-superscoring-guide: patrick-dunn
@@ -1556,6 +1570,7 @@ sat-scores-for-ivy-league-admission: christopher-wells
 sat-scores-for-merit-scholarships: jessica-kim
 sat-scores-required-top-50-us-universities: christopher-wells
 sat-section-score-balance: michael-brooks
+sat-senior-last-chance: maria-santos
 sat-sentence-boundaries: michael-brooks
 sat-sophomore-guide: christopher-wells
 sat-statistics-probability-data-analysis-guide: jessica-kim
@@ -1566,6 +1581,7 @@ sat-summer-preparation: michael-brooks
 sat-test-anxiety-management-guide: daniel-morgan
 sat-test-day-complete-guide: natalie-webb
 sat-tone-attitude-questions: christopher-wells
+sat-transfer-students: christopher-wells
 sat-transitions-logical-flow-questions-guide: patrick-dunn
 sat-transitions-mastery: michael-brooks
 sat-uc-system-scores: patrick-dunn

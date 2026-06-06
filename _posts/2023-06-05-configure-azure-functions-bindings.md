@@ -6,13 +6,15 @@ date: 2023-06-05
 categories: ["Technology"]
 tags: ["Azure", "Azure Functions", "Serverless", "Configuration", "DevOps", "Cloud Computing"]
 excerpt: "Azure Functions bindings let a function read and write its sources declaratively. Configure input, output, triggers, bundles, and identity connections."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2023-06-05
+lang: en
 ---
-
 Correct configuration is the difference between a function that reads its queue and writes its table with no glue code, and a function that throws an obscure startup error because one app setting is misspelled. Azure Functions bindings are the declarative input and output model that lets a function connect to its sources without you writing a single line of SDK plumbing. When the configuration is right, a single attribute or a few lines of `function.json` wire a Service Bus queue to your function parameter and a Cosmos DB container to its return value. When the configuration is wrong, the function host fails to load the binding, the trigger never fires, or an output silently writes nowhere, and the error message points at the symptom rather than the cause.
+
+![Configure Azure Functions Bindings Properly - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This article walks the full setup path for Azure Functions bindings: the prerequisites and the order they must happen in, the step-by-step configuration of input and output bindings with working settings, the connection app settings each binding depends on, the extension bundle that supplies the binding types, the trigger that matches your source, and identity-based connections that replace stored secrets. The goal is the InsightCrunch bindings setup checklist, a repeatable sequence you can run for any binding, with the specific gotcha called out at each step so the misconfiguration that wastes an afternoon never reaches production.
 

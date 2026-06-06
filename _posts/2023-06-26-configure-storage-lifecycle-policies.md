@@ -6,17 +6,17 @@ date: 2023-06-26
 categories: ["Technology"]
 tags: ["Azure", "Storage", "Blob Storage", "Cost Management", "Configuration", "Cloud Computing"]
 excerpt: "Storage lifecycle management lets you tier and auto-delete blobs by age. Configure scoped rules so cost falls automatically without removing needed data."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2023-06-26
+lang: en
 ---
-
 A storage account that grows without a plan turns into a slow, expensive liability, and the fix is rarely a one-time cleanup. The durable fix is storage lifecycle management: a set of rules that tier and delete blobs by age automatically, so the bill falls on its own and stays down without anyone running a manual purge every quarter. Configure it well and an account quiets itself, moving cold data to cheaper tiers and expiring what nobody reads anymore. Configure it badly and the same feature deletes a compliance archive at three in the morning, or buries a hot dataset in archive where every read now costs hours of waiting and a rehydration fee.
 
 That gap between the two outcomes is the whole subject of this article. The feature itself is small. The reasoning that keeps it from hurting you is not, and it is the part the documentation tends to skip.
 
-![Configuring Azure storage lifecycle management rules to tier and delete blobs by age - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Configuring Azure storage lifecycle management rules to tier and delete blobs by age - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 ## The Age-and-Scope Rule: What a Lifecycle Rule Actually Is
 
