@@ -6,15 +6,15 @@ date: 1996-09-08
 categories: ["Industry"]
 tags: ["SAT", "Study Plan", "Time Management", "Busy Schedule", "Strategy"]
 excerpt: "SAT studying while busy: the 30-minute daily strategy, weekend intensives, high-yield focus and the minimum effective dose, with three weekly schedules."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1996-09-08
+lang: en
 ---
-
 A junior carrying five academic courses, a varsity sport, a part-time job, and a place in the school orchestra does not have a free afternoon to give the College Board. That student usually does one of two things, and both are wrong. The first is to skip preparation entirely, deciding the exam will have to take whatever score the calendar allows, then walking in cold and losing fifty to a hundred points that thirty quiet minutes a day would have recovered. The second is to set a fantasy plan, three hours every evening starting Monday, that collapses by Wednesday under the weight of real obligations and leaves nothing but guilt where a routine should have been. The truth that sits between those failures is the entire subject of this guide: a small, consistent, well-aimed daily dose, layered with occasional longer blocks on a weekend, moves the score in a way that surprises people who think prep requires a cleared schedule. You do not need an empty week. You need thirty deliberate minutes and a target chosen to fit the hours you actually own.
 
-![SAT studying while busy time management and 30-minute daily strategy for full schedules - Insight Crunch](/assets/images/blog/blog-04.webp)
+![SAT studying while busy time management and 30-minute daily strategy for full schedules - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 This article gives the busy student what generic prep advice withholds: a precise definition of the minimum effective dose, three weekly templates keyed to roughly three, five to seven, and ten or more hours, a method for spending small pockets of dead time on the right material, and an honest framework for setting a gain target that respects your constraints instead of pretending they do not exist. The standard account tells you to "make time" and "study hard," which is useless to a person whose calendar is already full. What follows assumes the constraint is real and builds the plan around it. The phrase to carry through every section is this: time scarcity is a constraint, not a defeat. A student with thirty diligent minutes and a sharp sense of where the points live will out-prepare a student with three idle hours and no plan, every time.
 

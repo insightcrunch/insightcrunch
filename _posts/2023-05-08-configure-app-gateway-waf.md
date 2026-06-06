@@ -6,17 +6,17 @@ date: 2023-05-08
 categories: ["Technology"]
 tags: ["Azure", "Application Gateway", "WAF", "Security", "Networking", "Cloud Computing"]
 excerpt: "Configure Application Gateway WAF the safe way: start in detection mode, tune exclusions, add custom rules, then switch to prevention without breaking your app."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2023-05-08
+lang: en
 ---
-
 A web application firewall that blocks your own customers is worse than no firewall at all, because it fails loudly and unpredictably while still leaving you convinced you are protected. The fastest way to reach that state is to enable an Application Gateway WAF in prevention mode on day one, point production traffic at it, and wait for the support tickets. The slower and far better way is the one this guide walks through end to end: stand the policy up in detection mode, watch what it would have blocked, carve out the legitimate traffic that trips the managed rules, layer in the custom rules your app actually needs, and only then flip the switch to prevention. Get that sequence right and the firewall protects the application without anyone noticing it exists. Get it wrong and you spend a week explaining why uploads, API calls, and search queries started failing for no reason a developer can see in the application logs.
 
 The reason this trips up so many teams is that the WAF lives at a layer most application engineers rarely think about. It inspects HTTP requests before your code ever runs, matches them against hundreds of pattern rules written to catch SQL injection, cross-site scripting, protocol violations, and a long tail of attack signatures, and either logs or blocks anything that matches. When one of those rules fires on a perfectly normal request, the application returns a 403 that has nothing to do with your authentication or authorization logic, and the stack trace you would normally reach for simply is not there. Configuring the WAF correctly means understanding where it sits, how its rules decide, and how to tune it so it stops attackers without ever touching a real user.
 
-![Application Gateway WAF configuration](/assets/images/blog/blog-11.webp)
+![Application Gateway WAF configuration](/assets/images/blog/blog-67.webp)
 
 This guide is built around one organizing idea, the detect-then-prevent rule, and one reusable deliverable, the InsightCrunch WAF setup checklist. By the end you will be able to choose detection versus prevention mode on purpose, pick the right managed rule set and version, tune exclusions so legitimate traffic survives, write custom rules for rate limiting and geographic or address matching, associate the policy correctly, and confirm in the logs what the firewall actually did rather than guessing. Every command shown has been run against a real gateway, and every claim about behavior has been verified rather than assumed, because a security control you cannot reason about is one you cannot trust.
 

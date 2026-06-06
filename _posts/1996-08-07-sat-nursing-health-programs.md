@@ -6,15 +6,15 @@ date: 1996-08-07
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Nursing", "Public Health", "Score Ranges"]
 excerpt: "SAT scores for nursing and health programs: direct-entry BSN, public health and allied health, and why these admissions are often separate and tougher."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "daniel-morgan"
 last_updated: 1996-08-07
+lang: en
 ---
-
 A high school senior opens two letters from the same university in the same week. The first says she has been admitted. The second says the School of Nursing has not selected her for its entering cohort. Both letters carry the same crest, the same dean's signature block, the same address. She got into the college and got turned away from the nursing major inside it, and nobody had told her those were two different decisions. That gap, the space between an SAT score for nursing and an SAT score for the university that houses it, is the single most expensive thing students do not know when they apply into a clinical field, and it is the thing this guide exists to close.
 
-![SAT scores for nursing, public health and allied health direct-entry admission - Insight Crunch](/assets/images/blog/blog-11.webp)
+![SAT scores for nursing, public health and allied health direct-entry admission - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 Most advice about getting into a health field treats the university as the gate. Clear the school's published band, the thinking goes, and the major sorts itself out later. For nursing and a growing share of allied-health and public-health offerings, that mental model is simply wrong, and acting on it costs applicants the seat they wanted most. A direct-admit Bachelor of Science in Nursing reads applications through a narrower filter than the parent institution, often admitting a far smaller share of a self-selected, ambitious pool. A pre-med track at the same school may sit comfortably inside the general admission band while the nursing cohort beside it demands more. What you can do after reading this that you cannot get from a generic college page is read any health offering as two admissions stacked on top of each other, then build a target that clears the higher of the two rather than the one printed on the brochure.
 

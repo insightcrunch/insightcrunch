@@ -237,9 +237,14 @@ churchill-becomes-pm-may-10-1940: rachel-foster
 cia-bin-laden-hunt-abbottabad: william-knight
 cinema-shapes-counter-terror-policy: amit-chatterjee
 citizen-kane-boyhood-sledding-scene: chloe-martin
+citizen-kane-breakfast-montage: rachel-foster
+citizen-kane-campaign-speech-scene: rachel-foster
 citizen-kane-characters-complete-map: victoria-stone
+citizen-kane-charles-sent-away: rachel-foster
 citizen-kane-complete-analytical-guide: amanda-ross
+citizen-kane-confrontation-susan-flat: amanda-ross
 citizen-kane-death-snow-globe-scene: amanda-ross
+citizen-kane-declaration-principles-scene: victoria-stone
 citizen-kane-el-rancho-nightclub: megan-clark
 citizen-kane-ending-explained: rachel-foster
 citizen-kane-first-time-viewers: diana-patel
@@ -247,6 +252,9 @@ citizen-kane-five-narrators-explained: rachel-foster
 citizen-kane-flashback-structure: rachel-foster
 citizen-kane-genre-form-style: amanda-ross
 citizen-kane-greatest-film-ever: diana-patel
+citizen-kane-inquirer-party-scene: diana-patel
+citizen-kane-losing-the-election: amanda-ross
+citizen-kane-meets-susan-alexander: amanda-ross
 citizen-kane-misreadings-corrected: diana-patel
 citizen-kane-motifs-inventory: chloe-martin
 citizen-kane-news-on-the-march: diana-patel
@@ -256,6 +264,7 @@ citizen-kane-projection-room-scene: diana-patel
 citizen-kane-story-as-analysis: emily-reed
 citizen-kane-study-guide-deeper: amanda-ross
 citizen-kane-symbols-complete-guide: rachel-foster
+citizen-kane-takes-over-inquirer: amanda-ross
 citizen-kane-techniques-complete-guide: rachel-foster
 citizen-kane-thatcher-library: chloe-martin
 citizen-kane-themes-overview: chloe-martin
@@ -299,6 +308,13 @@ complete-college-application-guide: jason-mckenzie
 complete-guide-paying-for-college: ryan-walsh
 complete-history-bollywood-action-cinema: nandini-sen
 complete-shadow-war-kill-list: benjamin-scott
+configure-aks-ingress-tls: marcus-hall
+configure-app-gateway-waf: ryan-walsh
+configure-azure-vm-autoshutdown: robert-quinn
+configure-front-door-routing: nathan-cole
+configure-key-vault-references: william-knight
+configure-managed-identities: benjamin-scott
+configure-private-endpoints: marcus-hall
 control-mouse-cursor-using-keyboard: marcus-hall
 coolidge-1927-credit-boom-inaction: diana-patel
 coolidge-libertarian-comeback: diana-patel
@@ -497,6 +513,7 @@ fix-app-service-503-error: kevin-reeves
 fix-app-service-deployment-failed: kevin-reeves
 fix-application-gateway-502: nathan-cole
 fix-arm-template-deployment-errors: alex-cunningham
+fix-azure-429-throttling-guide: william-knight
 fix-azure-deployment-conflict: alex-cunningham
 fix-azure-dns-resolution: marcus-hall
 fix-azure-functions-cold-start: jason-mckenzie
@@ -520,6 +537,7 @@ fix-front-door-502-origin-error: ryan-walsh
 fix-integration-runtime-offline: thomas-reid
 fix-key-vault-access-denied: nathan-cole
 fix-load-balancer-probe-failure: robert-quinn
+fix-log-analytics-ingestion-delay: gregory-marsh
 fix-managed-identity-token-error: nathan-cole
 fix-nsg-blocking-traffic: alex-cunningham
 fix-private-endpoint-dns: marcus-hall
@@ -1448,6 +1466,7 @@ sat-engineering-programs-scores: christopher-wells
 sat-error-analysis-mistake-journal-guide: katherine-blake
 sat-exam-day-mistakes: natalie-webb
 sat-expression-of-ideas-complete-guide: daniel-morgan
+sat-financial-aid-scholarships: patrick-dunn
 sat-for-adult-non-traditional-test-takers: christopher-wells
 sat-for-homeschooled-students: maria-santos
 sat-geometry-trigonometry-complete-guide: michael-brooks
@@ -1538,6 +1557,7 @@ sat-scores-for-merit-scholarships: jessica-kim
 sat-scores-required-top-50-us-universities: christopher-wells
 sat-section-score-balance: michael-brooks
 sat-sentence-boundaries: michael-brooks
+sat-sophomore-guide: christopher-wells
 sat-statistics-probability-data-analysis-guide: jessica-kim
 sat-study-schedule-for-busy-students: katherine-blake
 sat-studying-while-busy: samantha-lee

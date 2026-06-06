@@ -6,17 +6,17 @@ date: 2023-05-22
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Kubernetes", "Networking", "DevOps", "Cloud Computing"]
 excerpt: "Set up AKS ingress with NGINX and TLS: install the controller, bind the ingress class, issue certificates with cert-manager, map DNS, and verify HTTPS works."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 63
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2023-05-22
+lang: en
 ---
-
 A working AKS ingress setup is the difference between a cluster that quietly serves production traffic over HTTPS and one that returns a default backend page, a certificate warning, or nothing at all. The phrase AKS ingress sounds like a single switch you flip, and that framing is exactly why so many setups break. Ingress on Azure Kubernetes Service is not one object. It is a chain of three independent pieces that must agree with each other: a controller that actually moves the packets, a class that tells that controller which rules it owns, and a certificate issuer that supplies the keys for TLS. When all three line up, external clients reach your services by hostname over an encrypted connection and the certificate renews itself without a human touching it. When any single link is missing or mismatched, the symptom you see rarely points at the link that failed, which is what turns a thirty-minute task into a two-day investigation.
 
 This guide walks the entire chain end to end on AKS, with the working commands and manifests for each step and the specific failure each step prevents. The target is a setup you can reproduce, verify, and hand to a colleague, not a copied snippet that happens to work once on your laptop.
 
-![Configuring AKS ingress with NGINX and TLS through cert-manager - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Configuring AKS ingress with NGINX and TLS through cert-manager - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## What correct ingress buys you, and what breaks when it is wrong
 

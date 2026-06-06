@@ -6,17 +6,17 @@ date: 1996-08-25
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Engineering", "STEM", "Score Ranges"]
 excerpt: "SAT scores for top engineering programs explained: middle-50 ranges, why the math side weighs more than reading, plus accessible strong schools and a table."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1996-08-25
+lang: en
 ---
-
 Two applicants sit on a reader's desk with the same total of 1480. One earned a 760 on the math side and a 720 on reading and writing. The other earned a 700 on math and a 780 on reading and writing. To a liberal arts committee, those files are interchangeable. To the person reading them for a competitive engineering cohort, they are not the same applicant at all, and the gap between them is exactly the thing most students never think about when they obsess over the single composite number. The applicant with the higher math figure walks in carrying a signal that lines up with the degree itself. The one with the higher verbal figure has a perfectly respectable file that points, very slightly, in the wrong direction for this particular major.
 
 That asymmetry is the whole point of this guide. The SAT score that gets a student into a strong engineering program is not just a total to clear; it is a profile to build, and the math half of that profile carries weight that the public conversation almost completely ignores.
 
-![SAT scores for top engineering programs middle-50 ranges and math-weighting reference - Insight Crunch](/assets/images/blog/blog-07.webp)
+![SAT scores for top engineering programs middle-50 ranges and math-weighting reference - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 Engineering admissions sit among the most selective corners of American higher education, and they reward a reading of the data that goes beyond a glance at one published band. A student aiming at a top technical school needs to know where the middle-50 ranges actually fall, why the quantitative sub-score tends to matter more than the verbal one for this field, which internal majors are the genuine bottlenecks, and which strong programs hand a real degree to applicants whose totals fall short of the elite tier. Get those four things right and the same score does noticeably more work. This piece builds each of them out, ends with a reference table you can return to, and gives you a decision rule you can actually apply to your own numbers.
 

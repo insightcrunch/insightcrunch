@@ -6,15 +6,15 @@ date: 2011-04-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Breakfast Montage", "Emily Norton Kane", "Close Reading", "Cinematography", "Themes"]
 excerpt: "The Citizen Kane breakfast montage compresses nine years of marriage into two minutes, cooling a union from tenderness to silence across a longer table."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2011-04-15
+lang: en
 ---
-
 A marriage begins, ages, and dies in roughly two minutes of screen time, and almost nothing is said about the dying. The Citizen Kane breakfast montage is the single most teachable passage in the entire film because it carries out, in miniature, the method the rest of the picture spends two hours building toward. It does not announce that Charles Foster Kane and his first wife grew apart. It shows the table between them getting longer, the talk between them getting shorter, and the warmth between them draining out frame by frame until two strangers sit reading rival newspapers in the same room. Form does the work that a lesser film would hand to a tearful confession scene. Watch the sequence once for its surface and you see a clever way to skip ahead in time. Watch it the way it rewards watching, and you see the whole argument of the film compressed into a handful of cuts.
 
-![Citizen Kane: The Breakfast Montage Analyzed](/assets/images/blog/blog-01.webp)
+![Citizen Kane: The Breakfast Montage Analyzed](/assets/images/blog/blog-45.webp)
 
 This article reads that sequence shot by shot and beat by beat. It places the passage inside the larger structure of the film, identifies whose memory is supplying it, and traces every formal choice that does the storytelling: the swish transitions that vault across years, the costumes that age the couple, the seating that pushes them apart, the lighting that cools, and the dialogue that contracts from affection to nothing. It also takes on the two readings that keep people from seeing the sequence clearly: the assumption that it is merely a time skip, a tidy way to move the plot forward, and the assumption that it blames one spouse for the failure. Both readings miss what the passage is actually doing, and correcting them is the fastest route to understanding why this small stretch of film has been taught in classrooms for generations.
 

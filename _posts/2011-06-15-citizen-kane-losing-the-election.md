@@ -6,15 +6,15 @@ date: 2011-06-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Charles Foster Kane", "Jedediah Leland", "Close Reading", "Themes", "Cinematography"]
 excerpt: "Citizen Kane losing the election turns a defeat into a study of denial, from two prepared headlines to the empty office where Kane and Leland break apart."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2011-06-15
+lang: en
 ---
-
 Citizen Kane losing the election is the moment the film stops dramatizing a man's rise and begins, with terrible patience, to dramatize how he refuses to register a fall. The sequence is short on incident. A campaign collapses offscreen, a count comes in, a newspaper goes to press, and two men who built that newspaper together stand in an emptied room and stop being friends. Yet the few minutes between the lost vote and the drunken late-night argument carry more diagnostic weight than almost anything else in the picture, because they show you exactly what Charles Foster Kane does when reality hands him a verdict he did not write. He reaches for the printing press and prints a different verdict. The defeat is the first thing in his adult life he cannot buy, charm, or out-publish, and the sequence watches him try all three anyway.
 
-![Citizen Kane losing the election scene close reading, the FRAUD headline and the empty Inquirer office explained - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizen Kane losing the election scene close reading, the FRAUD headline and the empty Inquirer office explained - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 What makes the loss worth a full close reading rather than a line of plot summary is that Welles stages a political ruin almost entirely through objects and empty space rather than through speeches or tears. There is no concession address, no montage of weeping supporters, no orchestral swell of pathos. There are two front pages set in type before a single ballot is counted, one announcing a triumph and one crying corruption. There is a cavernous office at night with most of its lights off and most of its people gone. There is a banner that should never have been printed running off the press as if denial could be mass-produced and sold for two cents. And there is Jedediah Leland, drunk and clear-eyed at once, saying the thing nobody on Kane's payroll is allowed to say. Read closely, the sequence is the film's neatest demonstration of its central argument about its subject: that the gap between who Kane is and who he insists he is becomes unbridgeable the instant the world stops cooperating.
 
