@@ -70,14 +70,25 @@
   <div class="btc-pw-body">
 
     <div class="btc-pw-row">
-      <span class="btc-pw-label">Amount</span>
+      <span class="btc-pw-label">Reference</span>
       <span class="btc-pw-price">
         <span class="btc-pw-fiat" id="pwFiat-{{ post_id }}">…</span>
-        <span class="btc-pw-sats-line">
-          <span class="btc-pw-amount" id="pwAmount-{{ post_id }}">…</span>
-          <span class="btc-pw-amount-sub">sats (send this exact amount)</span>
-        </span>
         <span class="btc-pw-rate" id="pwRate-{{ post_id }}"></span>
+      </span>
+    </div>
+
+    <div class="btc-pw-row">
+      <span class="btc-pw-label">Send exactly</span>
+      <span class="btc-pw-val">
+        <span id="pwAmountBtc-{{ post_id }}">…</span> BTC
+        <button type="button" class="btc-pw-copy" onclick="pwCopy('{{ post_id }}','btc')">Copy</button>
+      </span>
+    </div>
+
+    <div class="btc-pw-row">
+      <span class="btc-pw-label">Or in sats</span>
+      <span class="btc-pw-val">
+        <span id="pwAmount-{{ post_id }}">…</span> sats
       </span>
     </div>
 
@@ -101,7 +112,7 @@
 
   </div>
   <div class="btc-pw-foot">
-    Pay the <strong>exact</strong> sat amount shown. One payment unlocks every article on this site. Each reader gets a unique number, so screenshots and shared txids won't work. The dollar value is for reference only; bitcoin's price moves minute to minute. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
+    Pay the <strong>exact</strong> amount shown, in BTC or its sats equivalent. One payment unlocks every article on this site. Each reader gets a unique number, so screenshots and shared txids won't work. The dollar value is for reference only; bitcoin's price moves minute to minute. Validation runs against <a href="https://mempool.space" target="_blank" rel="noopener">mempool.space</a>. Once your transaction broadcasts (zero confirmations is fine), paste the txid above. Your unlock is remembered on this device.
   </div>
 </div>
 
@@ -219,6 +230,7 @@
   function revealCard(card){
     var amt = getRequiredAmount();
     document.getElementById('pwAmount-' + PW.pid).textContent = amt.toLocaleString();
+    document.getElementById('pwAmountBtc-' + PW.pid).textContent = (amt / 1e8).toFixed(8);
     renderFiatAmount(amt);
 
     card.style.display = 'block';
@@ -335,7 +347,7 @@
   boot();
 
   window.pwCopy = function(id, what){
-    var el = document.getElementById('pwAddr-' + id);
+    var el = document.getElementById((what === 'btc' ? 'pwAmountBtc-' : 'pwAddr-') + id);
     var btn = el.parentNode.querySelector('.btc-pw-copy');
     navigator.clipboard.writeText(el.textContent.trim()).then(function(){
       btn.textContent = 'Copied'; btn.classList.add('ok');
