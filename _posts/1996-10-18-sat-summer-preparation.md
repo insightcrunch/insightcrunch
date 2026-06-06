@@ -6,15 +6,15 @@ date: 1996-10-18
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Summer Prep", "Study Plan", "Timeline"]
 excerpt: "SAT summer preparation explained: why June through August is the golden window, a month-by-month plan, which test date to target and how to avoid burnout."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "michael-brooks"
 last_updated: 1996-10-18
+lang: en
 ---
-
 A rising senior who walks into the fall with a finished prep arc behind them has already won the part of admissions that most students never get to control. SAT summer preparation is the quiet advantage that separates the applicant who sits the August test rested and rehearsed from the one who crams in October between homework, a fall sport, and the first wave of application deadlines. The warm-weather stretch from the last day of class through the start of the new school year hands you something the academic calendar never will: ten to twelve uninterrupted weeks, with no competing coursework, no Friday quizzes, and no teacher assigning reading the night before you wanted to drill grammar. That window happens to match almost exactly the length a deliberate preparation arc needs to move a score, and the student who uses it well arrives at the test with the kind of automaticity that timed sections reward.
 
-![SAT summer preparation plan June July August month-by-month study schedule - Insight Crunch](/assets/images/blog/blog-10.webp)
+![SAT summer preparation plan June July August month-by-month study schedule - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 Here is the claim this guide defends, and the thing the generic "study over the summer" advice never tells you: the break is not valuable because it is long. It is valuable because it is uninterrupted, and an uninterrupted stretch is the only setting in which the slow, compounding work of pattern recognition actually compounds. A score does not climb because you logged hours. It climbs because the same question type came back across enough sessions, spaced closely enough, that your brain stopped treating each instance as new. During the school year, prep competes with everything else and the spacing collapses; you drill exponential models on Tuesday and do not see another one until the following Sunday, and by then the pattern has gone cold. Across a focused break the spacing stays tight, the patterns stay warm, and the curve bends. What follows is a month-by-month arc built around that single idea, with a daily schedule you can actually keep through July, a clear decision about which test date to target, and a built-in defense against the late-July collapse that quietly wrecks more summer plans than laziness ever does.
 
@@ -240,7 +240,6 @@ The student with a demanding summer job runs the same three phases on a compress
 The student who starts late, in mid-July rather than mid-June, has lost the foundation month and should compress toward the October date rather than force a doomed August attempt. With roughly eight weeks instead of twelve, the arc borrows its pacing from the [twelve-week beginner plan](/sat-12-week-beginner-plan/), collapsing foundation and core skills into a faster front half and protecting only a brief rest before a shortened intensive phase. The trajectory will be steeper and the margin thinner, but the structure still holds: diagnose first, build the foundation, open the analysis loop, drill the weaknesses, taper into the test.
 
 The student who finds themselves with only a couple of weeks before a near test date is in different territory entirely, and the break-long arc is the wrong tool for that emergency. A two-week scramble is not a foundation build; it is a triage operation that focuses entirely on the highest-yield, fastest-to-fix points and accepts that deep content gaps will not close in the time available. That situation has its own dedicated playbook in the [last-two-weeks emergency plan](/sat-2-week-emergency-plan/), which is built around maximum points in minimum time rather than the patient, phased build the break allows. The honest line for a student in that position is that the warm months were the opportunity and the emergency plan is the recovery, which is the strongest argument for starting the arc in June rather than discovering in August that the window has closed.
-
 
 
 The failures of summer preparation are predictable, which means they are preventable, and naming each one precisely is more useful than another round of encouragement. Here are the mistakes that quietly wreck the most break-long plans, each paired with the misconception that produces it.

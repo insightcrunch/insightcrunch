@@ -6,15 +6,15 @@ date: 1996-10-14
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Winter Break", "Study Plan", "Timeline"]
 excerpt: "SAT winter break intensive explained: a two-week December push toward the March test, fitting study around the holidays and carrying momentum into January."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "simon-hartley"
 last_updated: 1996-10-14
+lang: en
 ---
-
 Winter break is the most underused fortnight in the entire admissions calendar. For roughly two to three weeks, the school day stops, homework dries up, club meetings pause, and the ordinary tug-of-war between coursework and exam prep simply ends. What remains is a clean runway: a stretch of mornings with no bell schedule, sitting at exactly the right distance from a spring test date to convert effort into a measurable gain. A junior who treats those mornings as a structured intensive can walk into January already ahead of every classmate who spent the same days scrolling. The reader who finishes this guide will know precisely how to spend each of fourteen days, how to fit the work around family time instead of fighting it, and how to keep the habit alive once the decorations come down.
 
-![SAT winter break intensive two-week December study plan toward the March test - Insight Crunch](/assets/images/blog/blog-11.webp)
+![SAT winter break intensive two-week December study plan toward the March test - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The standard advice about holiday prep is useless because it is vague. "Study over break" is not a plan; it is a wish that collapses the first afternoon a relative shows up with pie. This piece replaces the wish with a defensible structure built around a single insight: a short window produces real points only when it is spent on diagnosed weaknesses and protected by a realistic daily block that survives contact with the holidays. The intensive laid out here is deliberately distinct from the longer beginner timeline and the panicked final fortnight. It is the focused middle path, and its true payoff is not the two weeks themselves but the January habit they seed.
 

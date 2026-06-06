@@ -6,15 +6,15 @@ date: 1996-10-09
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Score Plateau", "Troubleshooting", "Strategy"]
 excerpt: "SAT score plateaus diagnosed: the four causes from practicing too easy to test anxiety, a diagnostic test for each and a targeted cure, with timelines."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1996-10-09
+lang: en
 ---
-
 You have taken four practice tests and the composite has not moved. The first jump came easily, fifty or sixty points from learning the format and shaking off the rust, and then the number froze. You are studying the same hours, drilling the same sets, and the result on test after test lands inside the same narrow band. The instinct at this point is brutally simple and almost always wrong: do more. More practice tests, more drills, more late nights with the same materials that have already taken you as far as they are going to. A stalled result is not a volume problem. It is a diagnosis problem, and pouring more hours into the wrong cure is how motivated students lose entire months without gaining a point.
 
-![SAT score plateau four causes diagnostic test and cure - Insight Crunch](/assets/images/blog/blog-12.webp)
+![SAT score plateau four causes diagnostic test and cure - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 What the standard advice misses is that a flat stretch in your scoring has a cause, and there are only four of them that account for nearly every case. Each cause has a distinct signature you can detect with a specific diagnostic check, and each one responds to a different treatment. The cure that breaks one kind of stall does nothing for another, and the most common mistake students make is applying the universal remedy of more practice tests to a problem that practice tests cannot touch. This guide gives you the four causes, the diagnostic that confirms each one, the matched treatment that actually moves the number, and an honest estimate of how long the breakthrough takes once you stop guessing and start diagnosing. Call it the InsightCrunch plateau diagnosis: name the cause first, treat the named cause, and refuse to do more of what is already not working.
 
@@ -244,7 +244,6 @@ Across all four, one meta-rule applies: do not change your approach mid-test in 
 Keep doing the treatment that broke it, at a reduced maintenance dose, until the test. A raised-difficulty habit, a closed conceptual gap, a trained pace, or a tolerance for real conditions all decay if you stop reinforcing them, so a light, ongoing version of the cure keeps the gain in place. The mistake is treating the breakthrough as finished the moment the number moves once; a single improved sitting confirms the diagnosis but does not permanently install the fix.
 
 The other safeguard is to keep diagnosing. A result that moves up often reveals a second cause that the first one was masking, so after a breakthrough you re-run the diagnostics on your new performance rather than assuming the work is done. Treating preparation as a repeating cycle of diagnose, treat, retest, and re-diagnose is what carries a test-taker from one step up to the next, rather than letting a recovered result drift back down.
-
 
 
 The plateau diagnosis is not just a fix for a stuck result. It is a way of thinking about preparation that pays off long after the current stall breaks, because the same logic, name the specific cause, treat that one thing, and refuse to substitute volume for precision, governs almost every gain available on the assessment. A test-taker who internalizes the diagnostic habit stops asking the useless question of whether they are studying enough and starts asking the productive question of what specifically is costing the next points.

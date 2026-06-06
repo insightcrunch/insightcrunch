@@ -6,17 +6,17 @@ date: 2023-02-27
 categories: ["Technology"]
 tags: ["Azure", "App Service", "WEBSITE_RUN_FROM_PACKAGE", "Troubleshooting", "DevOps", "Cloud Computing"]
 excerpt: "WEBSITE_RUN_FROM_PACKAGE mounts your App Service app read-only, so a runtime write failure is a design mismatch and not a deploy bug. Here is the fix."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2023-02-27
+lang: en
 ---
-
 You ship a deployment to Azure App Service, the pipeline reports success, and then the app falls over with a line you have seen before and never quite trusted: the file system is read-only. Sometimes the message is blunter, a flat refusal when the runtime tries to write a log or a cache file beside its own binaries. Sometimes the symptom is quieter and stranger, a deployment that finished cleanly yet serves the old code, or a remote bundle that simply never appears. In nearly every one of these cases the cause traces back to a single application setting that changed how your code is mounted, and that setting is WEBSITE_RUN_FROM_PACKAGE. When this value is present, App Service stops treating your site directory as an ordinary writable folder and instead mounts your deployed zip as an immutable file system, which is exactly the behavior that breaks any code expecting to write next to its files.
 
 The frustrating part is that almost none of this surfaces as a clear error pointing at the setting. The platform does what it was told, the deployment tooling does what it was told, and the gap sits inside an assumption your application code made about where it lives. Once you see the mechanism, the failures stop looking like a grab bag of unrelated bugs and resolve into a small, predictable family: a value-versus-URL mismatch, a locked file system that rejects runtime writes, a remote bundle that will not mount, or writes that have nowhere to land. This article walks each one to ground, shows the command that confirms it is yours, and gives the tested fix, so that you keep the genuine benefits of running from a package instead of reflexively tearing the setting out.
 
-![Fixing WEBSITE_RUN_FROM_PACKAGE read-only file system errors on Azure App Service - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fixing WEBSITE_RUN_FROM_PACKAGE read-only file system errors on Azure App Service - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 ## What WEBSITE_RUN_FROM_PACKAGE actually does to your app
 

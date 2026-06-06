@@ -6,15 +6,15 @@ date: 2010-10-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Themes", "Symbolism", "Essay Writing", "Close Reading", "Film History"]
 excerpt: "A Citizen Kane study guide that goes past plot recap, teaching you to turn the film's scenes, themes, and symbols into arguments you can defend in an exam."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2010-10-01
+lang: en
 ---
-
 Most students walk into an exam on Citizen Kane carrying the wrong cargo. They have memorized that the sled is called Rosebud, that the film is told in flashback, that Orson Welles was twenty-five when he directed it, and that critics have called it the greatest film ever made. None of that, by itself, earns marks. A Citizen Kane study guide that goes deeper has to do something a plot summary cannot: it has to teach you how to convert what you noticed into what you can argue. The difference between a capped grade and a top one is almost never how much of the story you can retell. It is whether you can take a single shot, a single cut, or a single repeated object and turn it into a claim that a film-studies examiner recognizes as analysis.
 
-![Citizen Kane deeper study guide for exam essays, themes, and symbols - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizen Kane deeper study guide for exam essays, themes, and symbols - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 This guide is built around one conviction, drawn from years of reading what separates strong answers from weak ones. The film is engineered so that its form and its content say the same thing at the same time, and the highest-value study move you can make is to stop revising themes and techniques as separate lists and start pairing every idea with the structural choice that delivers it. When you can say not only that the film is about the unknowability of a human life but also that its five-narrator structure performs that unknowability, you have moved from a viewer who absorbed the plot to a writer who can defend a thesis. Everything below is organized to get you there: the scenes that pay the most in an exam, the themes you must be able to deploy on demand, the symbols worth knowing cold, the technical vocabulary you will be marked on, and a study method that turns passive watching into exam-ready argument.
 

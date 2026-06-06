@@ -6,17 +6,17 @@ date: 2023-01-16
 categories: ["Technology"]
 tags: ["Azure", "Key Vault", "Troubleshooting", "Security", "Identity", "Cloud Computing"]
 excerpt: "Key Vault access denied or Forbidden usually means the wrong access model is in force, a missing data-plane role, the firewall, or a soft-deleted object."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2023-01-16
+lang: en
 ---
-
 A call to Azure Key Vault that returns Forbidden is one of the most disorienting failures in the platform, because everything around it looks correct. You can see the vault in the portal, you can see the secret listed, the application has an identity, and someone on the team swears they granted access last week. Yet the request comes back with a 403 and a message that the caller does not have permission to read the secret. The reason the failure feels contradictory is almost always the same: the permission you granted exists, but it exists in a place the vault is not looking. **Key Vault access denied** is rarely a case of no access being configured at all. It is a case of access being configured against the wrong authorization model, at the wrong scope, for the wrong identity, or behind a network boundary that rejects the caller before authorization is even evaluated.
 
 This article diagnoses the Key Vault Forbidden response to root cause rather than describing the symptom. By the end you will be able to tell which of the distinct causes is yours, confirm it with a command instead of a guess, and grant the access that the vault actually checks, rather than switching authorization models blindly and hoping the error clears. The central idea is a rule worth naming up front, because it explains most of these incidents in a single sentence: a Key Vault request is authorized against whichever model the vault enforces, so a grant made in the other model is invisible, which is exactly why access can look correct and still return Forbidden.
 
-![Fixing Azure Key Vault access denied and Forbidden root causes - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Fixing Azure Key Vault access denied and Forbidden root causes - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 ## What Forbidden and access denied actually mean on Key Vault
 

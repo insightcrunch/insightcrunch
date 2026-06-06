@@ -6,15 +6,15 @@ date: 2023-02-20
 categories: ["Technology"]
 tags: ["Azure", "App Service", "Troubleshooting", "DevOps", "Deployment", "Cloud Computing"]
 excerpt: "An App Service deployment failed message usually traces to a file lock, an Oryx build error, a runtime mismatch, or permissions. Here is how to fix each one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kevin-reeves"
 last_updated: 2023-02-20
+lang: en
 ---
-
 An App Service deployment failed message is one of the least helpful errors Azure shows you, because the words on the screen almost never name the thing that actually broke. The portal says the operation failed, the pipeline turns red, and the underlying reason sits in a log you have not opened yet. Most engineers respond by clicking deploy again, and most of the time the second attempt fails the same way, because the cause was structural rather than transient. The fix is not to retry harder. The fix is to read the right log, decide which of a small set of distinct causes you are looking at, and change the one thing that caused it. This article walks through that diagnosis end to end, with the command that confirms each cause and the tested fix that clears it, including the path that removes both the failure and the downtime at the same time.
 
-![Fixing Azure App Service deployment failed errors and the file lock and build causes - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Fixing Azure App Service deployment failed errors and the file lock and build causes - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The reason the generic message is so common is that "deploy" on App Service is not one operation. It is a family of operations that share a screen. A zip deploy uploads an archive and unpacks it into the site root. A Run From Package deploy uploads or references an archive and mounts it read-only. A continuous integration push hands a build artifact to the platform and asks the platform to build, or asks it only to copy. A local Git push triggers a server-side build through Oryx. FTP copies files directly. Each of these can produce the same red banner for an entirely different reason, so the first job is never to fix anything. The first job is to find out which deploy method you used and which stage of it failed. Once you know that, the cause is usually obvious, and the rest of this guide exists to make that mapping precise.
 

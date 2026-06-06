@@ -6,15 +6,15 @@ date: 2010-12-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Projection Room Scene", "Close Reading", "Cinematography", "Jerry Thompson", "Orson Welles"]
 excerpt: "The Citizen Kane projection room scene stages its whole investigation in near darkness, hiding the reporters' faces to make the searchers as unknown as Kane."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2010-12-15
+lang: en
 ---
-
 The Citizen Kane projection room scene is the least visible passage in the film and the one that decides everything that follows. The brassy newsreel obituary has just ended, the screen has gone white, and the picture cuts to a roomful of newsmen who are barely there at all. They are voices in a haze, shapes against a beam of projected light, a committee meeting held in something close to total darkness. Out of that murk a decision is made, a reporter is sent out, and the rest of the film, every flashback, every interview, every fragment of the puzzle, exists because of what these half-seen men agree to in the dark. A passage most viewers barely register as a scene is in fact the engine room of the whole machine.
 
-![Low-key lighting and faceless reporters in the Citizen Kane projection room scene analyzed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Low-key lighting and faceless reporters in the Citizen Kane projection room scene analyzed - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 That is the first thing to understand about this stretch of film. It looks like a transition, a quick administrative beat to get the story moving, and a careless viewer treats it as exactly that. Look harder and the staging is doing something deliberate and strange. The men who launch a search for the truth about a famous life are themselves denied faces. The camera, which will spend the next hour and a half hunting for the real Charles Foster Kane, opens its hunt by refusing to let us see the hunters. Before the film asks whether anyone can be fully known, it quietly makes its searchers unknowable. The darkness is not a budget compromise or a print defect. It is the argument, stated in light before it is stated in plot.
 
