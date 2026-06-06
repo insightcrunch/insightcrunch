@@ -6,17 +6,17 @@ date: 2022-12-12
 categories: ["Technology"]
 tags: ["Azure", "Application Gateway", "502 Bad Gateway", "Troubleshooting", "Networking", "Cloud Computing"]
 excerpt: "An Application Gateway 502 means no pool member is healthy, so read the Backend health view first to name the real cause before touching a rule or timeout."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2022-12-12
+lang: en
 ---
-
 An Application Gateway 502 is one of the most misread errors in Azure networking, because the page the browser shows says almost nothing about where the failure actually lives. The visitor sees "502 Bad Gateway" with a small "Microsoft-Azure-Application-Gateway/v2" line beneath it, and the instinct is to assume the gateway itself broke. It almost never did. A 502 from Application Gateway means the gateway accepted the client request, tried to forward it to a member of the backend pool, and could not get a valid response back. The gateway is reporting a problem with the upstream, not with itself, and the single most reliable way to find which target host problem you have is to open the Backend health view before you change anything else.
 
 That distinction is the whole article. Engineers lose afternoons restarting the gateway, recycling the backend virtual machines, scaling the instance count, and reissuing certificates, all while the Backend health blade sits one click away with the exact reason written in plain text. The fastest path from a 502 to a fix is to read what the gateway already knows about each server, match that reason to one of a small number of root causes, and apply the change that cause calls for. Everything below builds that habit into a repeatable method.
 
-![Fixing Azure Application Gateway 502 Bad Gateway root causes - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Fixing Azure Application Gateway 502 Bad Gateway root causes - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 ## What a 502 From Application Gateway Actually Means
 

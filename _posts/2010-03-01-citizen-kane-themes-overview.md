@@ -6,17 +6,17 @@ date: 2010-03-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Themes", "The American Dream", "Close Reading", "Film Theory", "Essay Writing"]
 excerpt: "Citizen Kane themes explained: how the American Dream, wealth, loneliness, memory, and the unknowable self interlock into one single argument about a life."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2010-03-01
+lang: en
 ---
-
 Most people who can name a single fact about Welles's first feature can name the same one: a dying man whispers a word, and a reporter spends the rest of the picture trying to find out what it meant. That word, and the sled it finally names, has become shorthand for the whole movie, which is a shame, because the Citizen Kane themes that actually organize the film run far deeper than one buried clue. The reporter never solves his puzzle, and the film is built so that we cannot solve it either. What the picture offers instead is a set of interlocking ideas about ambition, money, love, memory, and the limits of knowing another person, and those ideas are the real reward of watching closely. Read the film for its themes rather than its twist and a thin detective story becomes one of the most sustained arguments cinema has ever made about the gap between a public life and a private one.
 
 This overview maps every major idea in the film and shows how they fit together rather than treating them as a checklist. The single most useful thing to understand before going any further is that these concerns are not separate items that happen to share a movie. They are facets of one argument, repeated through different materials, and the article's job is to make that argument visible.
 
-![Citizen Kane themes overview: the American Dream, wealth, loneliness, memory, and the unknowable self analyzed - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Citizen Kane themes overview: the American Dream, wealth, loneliness, memory, and the unknowable self analyzed - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## Why the Themes of Citizen Kane Work as One System
 

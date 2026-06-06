@@ -6,15 +6,15 @@ date: 2010-04-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Rosebud", "Symbolism", "Close Reading", "Orson Welles", "Themes"]
 excerpt: "Citizen Kane symbols decoded: what Rosebud, the snow globe, Xanadu, and the No Trespassing sign mean, and why the audience alone is ever given the answer."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "rachel-foster"
 last_updated: 2010-04-01
+lang: en
 ---
-
 The most famous word in American cinema is the name of a sled, and almost everyone who can say it has never been shown why it matters. That gap is where the real study of Citizen Kane symbols begins. A viewer can leave the film knowing that Rosebud is the sled burning in the furnace and still have missed the design that makes the burning unbearable, because the design is built out of objects rather than speeches. Orson Welles tells you almost nothing about Charles Foster Kane through confession. He tells you everything through things: a sled, a glass ball full of fake snow, a torn page, a chain-link fence, a half-built palace stuffed with crates nobody opens. The symbols carry the meaning the dialogue refuses to hand over, and learning to read them is the difference between watching the plot and understanding the picture.
 
-![Rosebud and the snow globe symbolism in Citizen Kane explained shot by shot - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Rosebud and the snow globe symbolism in Citizen Kane explained shot by shot - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 This guide is the symbolism hub for everything else in the series. It catalogs every major object Welles loads with meaning, traces each one across its appearances, separates the surface reading from the deeper one, and settles the question students ask most often, which is what Rosebud actually signifies and whether the sled "solves" anything. The short answer, defended at length below, is that the objects in this film are not decoration and not a code to crack for a tidy psychological diagnosis. They are the argument. Where the five narrators give you partial, slanted accounts of a man, the things he touched give you the parts of him no witness could reach, and the film hands those parts to you alone.
 
@@ -187,7 +187,6 @@ Directly after the newsreel, the film cuts to the projection room where the repo
 The withheld faces are deliberate and meaningful. Thompson is the figure through whom the audience conducts the investigation, our surrogate in the search for Kane, and Welles keeps him faceless precisely because he is not a character but a function, the pure act of looking. We are never given his expression to read because his interiority is irrelevant; what matters is the searching, and the film refuses to let the searcher become a person who might distract from the man being searched for. The darkness of the projection room is the darkness of the whole inquiry: a hunt conducted by people who themselves remain in shadow, after a truth that will never fully come to light for any of them.
 
 The scene also rhymes with the film's larger refusal of clear sight. Just as the glass distorts, the windows separate, and the mirrors multiply, the projection-room shadows hide, adding obscured vision to the film's repertoire of images about the difficulty of seeing a person clearly. The search for Kane begins in a dark room full of half-seen faces and ends at a furnace whose secret is shown to the camera alone, and the figure who carries the search from one to the other is kept in shadow the whole way. The staging insists that the looking matters more than the looker, and that even our designated investigator will be denied the clarity the camera reserves for us.
-
 
 
 If the symbols form a network, the Colorado boardinghouse sequence is the knot where every thread is tied, and it repays the closest reading of any scene in the film. The setup is stark: Charlie's mother has come into a fortune through a mining claim left to her, and she arranges for the banker Thatcher to take the boy east and manage both his money and his upbringing, signing away her son to secure his future. The scene plays out indoors, with the adults at a table arranging the transaction, and Welles stages it so that young Charlie is visible the entire time through the window in the deep background, sledding in the snow, a small free figure framed by the very window that separates him from the decision being made about his life.
