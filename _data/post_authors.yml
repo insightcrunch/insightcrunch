@@ -110,6 +110,7 @@ azure-cosmos-db-engineering-guide: nathan-cole
 azure-data-factory-complete-guide: david-thornton
 azure-dns-private-zones-explained: kevin-reeves
 azure-event-hubs-engineering-guide: andrew-price
+azure-firewall-vs-nva-vs-nsg: nathan-cole
 azure-functions-serverless-deep-dive: alex-cunningham
 azure-fundamentals-az-900-practice-exam-microsoft-certification: benjamin-scott
 azure-key-vault-complete-guide: andrew-price
@@ -117,6 +118,7 @@ azure-kubernetes-service-aks-explained: ryan-walsh
 azure-logic-apps-deep-dive: david-thornton
 azure-monitor-log-analytics-guide: jason-mckenzie
 azure-networking-fundamentals: william-knight
+azure-nsg-deep-dive: james-carter
 azure-private-link-deep-dive: alex-cunningham
 azure-resource-manager-arm-explained: nathan-cole
 azure-service-bus-deep-dive: jason-mckenzie
@@ -125,6 +127,7 @@ azure-storage-accounts-complete-guide: gregory-marsh
 azure-synapse-analytics-explained: thomas-reid
 azure-virtual-machines-complete-guide: david-thornton
 azure-virtual-network-vnet-deep-dive: abigail-cooper
+azure-virtual-wan-deep-dive: david-thornton
 badshahi-angti-emperors-ring-bn: rahul-banerjee
 bahawalpur-jem-headquarters: alex-cunningham
 baksho-rahashya-1996-film-bn: amit-chatterjee
@@ -581,6 +584,7 @@ french-revolution-explained-complete: insight-crunch-team
 friar-laurence-character-analysis: rachel-foster
 friar-laurence-plan-failure-analysis: rachel-foster
 from-novice-to-certified-pro-your-tableau-journey: maya-chen
+front-door-vs-cdn-vs-gateway: james-carter
 future-covert-ops-technology: ryan-walsh
 future-india-counter-terror-doctrine: marcus-hall
 gaokao-100-day-countdown: liu-jian
@@ -949,6 +953,7 @@ how-to-watch-citizen-kane-closely: chloe-martin
 how-to-write-literary-analysis-essay: claire-bennett
 how-world-war-2-ended-explained: amanda-ross
 how-ww1-changed-the-world: chloe-martin
+hub-spoke-topology-explained: gregory-marsh
 i-am-aware-of-java-but-this: diana-patel
 iago-othello-character-analysis: megan-clark
 ias-ips-ifs-irs-comparison: deepika-joshi
@@ -1176,6 +1181,7 @@ lincoln-kennedy-coincidences-graded: amanda-ross
 lincoln-republican-party-switch-myth: amanda-ross
 lincoln-second-inaugural-703-words: chloe-martin
 lincoln-vs-fdr-civil-liberties: diana-patel
+load-balancer-vs-app-gateway: thomas-reid
 load-segment-values-and-hierarchies-drm-ebs-integration: ian-fletcher
 loc-infiltration-routes-mapped: william-knight
 lock-folders-and-hide-your-secret-files: diana-patel
@@ -1495,14 +1501,21 @@ sat-financial-aid-scholarships: patrick-dunn
 sat-florida-students: simon-hartley
 sat-for-adult-non-traditional-test-takers: christopher-wells
 sat-for-homeschooled-students: maria-santos
+sat-for-students-with-adhd-accommodations: jessica-kim
 sat-freshman-guide: samantha-lee
 sat-geometry-trigonometry-complete-guide: michael-brooks
 sat-grammar-conventions-complete: natalie-webb
 sat-grammar-rules-complete-guide: daniel-morgan
+sat-guide-for-african-students: samantha-lee
+sat-guide-for-brazilian-students: matheus-oliveira
+sat-guide-for-canadian-students: samantha-lee
 sat-guide-for-chinese-students: hannah-moore
+sat-guide-for-european-students: lukas-weber
 sat-guide-for-japanese-students: christopher-wells
 sat-guide-for-korean-students: anita-das
+sat-guide-for-middle-eastern-students: daniel-morgan
 sat-guide-for-parents: samantha-lee
+sat-guide-for-southeast-asian-students: natalie-webb
 sat-inference-implication: natalie-webb
 sat-junior-year-timeline: maria-santos
 sat-khan-academy-complete-usage-guide: hannah-moore
@@ -2131,6 +2144,7 @@ what-is-working-at-meta-like: ryan-walsh
 what-months-does-amazon-hire: nathan-cole
 whats-my-tcs-college-grade: rajan-kumar
 when-did-shakespeare-write-romeo-and-juliet: rachel-foster
+where-to-stay-yellowstone: rahul-banerjee
 which-ap-classes-to-take: daniel-morgan
 which-job-is-best-in-amazon: james-carter
 which-tableau-certification-is-best: jordan-ellis
@@ -2177,8 +2191,13 @@ yahoo-mail-growing-up-with-gmails-features-and-some-more: amanda-ross
 yahoo-taking-a-dive-into-social-networking: amanda-ross
 yahoo-wants-huffington-post-badly: amanda-ross
 yalina-jamali-sara-arjun-character-analysis: nandini-sen
+yellowstone-best-hikes: nandini-sen
+yellowstone-best-time-to-visit: nandini-sen
 yellowstone-family-7-day-itinerary: nandini-sen
+yellowstone-hidden-gems: amit-chatterjee
 yellowstone-national-park-complete-guide: nandini-sen
+yellowstone-on-a-budget: rahul-banerjee
+yellowstone-wildlife-watching-guide: rahul-banerjee
 you-in-yahoo-spreads-ripples-of-kindness-around-the-world-in-129-characters: rachel-foster
 yrf-spy-universe-complete-guide-all-films: nandini-sen
 yugoslav-wars-1990s-explained: rachel-foster

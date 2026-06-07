@@ -6,13 +6,15 @@ date: 2023-10-23
 categories: ["Technology"]
 tags: ["Azure", "Virtual WAN", "Networking", "Architecture", "Cloud Computing"]
 excerpt: "Azure Virtual WAN is a managed hub-and-spoke backbone. This deep dive covers routing intent, secured virtual hubs, and when it replaces a manual design."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2023-10-23
+lang: en
 ---
-
 The behavior that confuses engineers most about Azure Virtual WAN is the moment they expect it to do something their old hand-built network could not. They stand up a virtual hub, connect two VNets, watch traffic flow between them without writing a single user-defined route, and conclude that Virtual WAN is a different kind of network with capabilities a manual design lacks. Then they hit a routing decision the managed network makes for them, try to override it the way they would override a route table on a spoke, and discover that the control surface is narrower and the abstraction is firmer than they assumed. The confusion is not about what Virtual WAN can do. It is about what kind of thing Virtual WAN is. The answer, and the claim this article will defend with reproducible commands and a reference model you can cite in a design review, is that Azure Virtual WAN is a managed hub-and-spoke and a global connectivity backbone, nothing more exotic and nothing less capable. Adopting it is a decision to trade the granular control of a network you build and route by hand for managed routing, automatic transit, and the ability to scale across regions without hand-stitching every connection. It is not a decision to acquire a capability that a manual hub-spoke fundamentally cannot have.
+
+![Azure Virtual WAN Deep Dive - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 That distinction matters because it tells you where to look when Virtual WAN behaves in a way you did not predict. If you expected new capability, you will keep searching the portal for a knob that does not exist, because the knob you want belongs to the manual world you left behind. If you understand Virtual WAN as a managed version of the topology you already know, you will look in the right place: at the routing the service computes on your behalf, at the routing intent policy that overrides it, and at the few seams where the managed abstraction lets you reassert control. This article builds that mental model from the ground up, walks the routing and the routing intent at the level you need to debug them, shows the configuration that realizes a working multi-region backbone, catalogs the failure modes that send engineers in circles, and closes with the decision rule for when Virtual WAN earns its place and when a hand-built design is still the right call.
 

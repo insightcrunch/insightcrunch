@@ -6,15 +6,15 @@ date: 1996-04-08
 categories: ["Industry"]
 tags: ["SAT", "Accommodations", "ADHD", "Study Strategies", "Test Prep"]
 excerpt: "SAT for students with ADHD: applying for accommodations, focused-study strategies, digital-test focus tactics and the methods that help most, with a timeline."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jessica-kim"
 last_updated: 1996-04-08
+lang: en
 ---
-
 A student with attention differences can sit for the digital SAT, work through a module with the timer running, and watch a question that they fully understand slip away because their focus drifted for ninety seconds at the wrong moment. That is not a knowledge gap. It is a focus-delivery gap, and it is the single most fixable thing standing between many attention-challenged test-takers and the score their ability already deserves. The exam does not measure how long you can hold still. It measures whether you can read carefully, reason cleanly, and finish what you start, and every one of those can be supported, scaffolded, and rehearsed.
 
-![SAT accommodations and focused-study strategies for students with ADHD on the digital test - Insight Crunch](/assets/images/blog/blog-08.webp)
+![SAT accommodations and focused-study strategies for students with ADHD on the digital test - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This guide treats attention differences as a design constraint to engineer around, not a verdict to accept. The standard advice handed to families is thin: apply for extra time, take breaks, you will be fine. That advice skips the part that actually decides outcomes, which is the multi-month approval pipeline run through the College Board's Services for Students with Disabilities, the specific way the digital format helps and hurts a wandering attention span, and the small set of test methods that pull a distracted mind back to the page faster than willpower ever could. What you get here that a generic page cannot give you is a complete operating plan: how to secure the right supports early enough that they exist on test day, how to study in a way that works with attention differences instead of against them, and how to use the Bluebook tools to keep yourself engaged question by question. We will build the whole thing around the InsightCrunch Focus-First Plan, and you will leave able to start the application this week, structure your prep tomorrow, and stay engaged through a full module when the day comes.
 

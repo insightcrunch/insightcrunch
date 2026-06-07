@@ -6,17 +6,17 @@ date: 2023-10-09
 categories: ["Technology"]
 tags: ["Azure", "Azure Front Door", "Azure CDN", "Application Gateway", "Networking", "Cloud Computing"]
 excerpt: "Azure Front Door vs CDN vs Application Gateway compared by global versus regional scope, caching, and WAF placement, with a rule to choose the right one."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2023-10-09
+lang: en
 ---
-
 Three services in Azure sit in front of an application and speak HTTP, and engineers reach for whichever name they heard first. Azure Front Door versus CDN versus Application Gateway is the comparison that decides whether a request crosses the planet to the nearest edge or terminates inside a single region, whether a response comes from a cache or from your servers, and where a web application firewall inspects the traffic. Treating the three as interchangeable produces the two failures this comparison exists to prevent: putting a regional gateway where a worldwide entry point belongs, and standing up three products that compete when the right design layers them.
 
 The confusion is reasonable. All three terminate TLS, all three understand paths and host headers, and all three can carry a WAF in some form. Read the marketing pages and they blur together into "the thing that fronts my web app." The differences that matter are not in the feature checklist. They are structural: scope (does the resource live everywhere or in one region), purpose (does it accelerate and cache content or proxy and balance an application), and placement (where in the path the security and the routing decisions happen). Get those three axes right and the choice becomes mechanical.
 
-![Azure Front Door vs CDN vs Application Gateway edge decision - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Azure Front Door vs CDN vs Application Gateway edge decision - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This guide treats the three as what they are: a global layer-7 entry point, a global content-caching network, and a regional layer-7 reverse proxy. By the end you will be able to place any incoming need against the right tool by asking two questions in order, and you will know how to compose them when one alone does not cover the requirement.
 
