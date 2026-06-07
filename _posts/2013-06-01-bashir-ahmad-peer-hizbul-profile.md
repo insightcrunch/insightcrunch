@@ -6,7 +6,7 @@ date: 2013-06-01
 categories: ["Industry"]
 tags: ["bashir-ahmad-peer", "imtiyaz-alam", "hizbul-mujahideen", "rawalpindi", "targeted-killing"]
 excerpt: "Bashir Ahmad Peer, Hizbul Mujahideen launching chief and India-designated terrorist, was killed by unknown gunmen outside a Rawalpindi shop in February 2023."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ On a February evening in 2023, Bashir Ahmad Peer stepped outside a shop in Rawal
 
 <!--more-->
 
-![Bashir Ahmad Peer Hizbul Mujahideen Commander Killed in Rawalpindi - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Bashir Ahmad Peer Hizbul Mujahideen Commander Killed in Rawalpindi - Insight Crunch](/assets/images/blog/blog-16.webp)
 
 Peer's death arrived five months after the Indian government formally designated him a terrorist under the Unlawful Activities (Prevention) Act on October 4, 2022, and just twelve days before the National Investigation Agency would attach his property in Kupwara's Kralpora area, a sequence of events suggesting that Indian intelligence agencies considered him not a relic of 1990s militancy but an actively operational threat coordinating cross-border violence from the safety of his Pakistani exile. The NIA's property attachment on March 4, 2023, targeting immovable land measuring one kanal and thirteen marlas at Estate Batpora, Tehsil Kralpora, under the ownership of Bashir Ahmad Pir, son of late Mohammad Sikander Pir, served as a bureaucratic confirmation that the Indian state's interest in Peer did not end with his death but extended to dismantling the material infrastructure that sustained his exile operations. His funeral in Rawalpindi drew Syed Salahuddin himself, the US-designated Specially Designated Global Terrorist and supreme commander of Hizbul Mujahideen, whose presence at a Pakistan Army burial ground while ISI officers reportedly attended confirmed everything India has argued about [Pakistan's safe-haven network](https://insightcrunch.com/2012/05/19/pakistan-terror-safe-haven-network/) for three decades.
 

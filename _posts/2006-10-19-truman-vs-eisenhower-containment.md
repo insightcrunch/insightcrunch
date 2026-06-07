@@ -6,7 +6,7 @@ date: 2006-10-19
 categories: ["Leisure"]
 tags: ["harry-truman", "dwight-eisenhower", "comparative", "us-presidents", "containment", "cold-war-strategy"]
 excerpt: "Truman named containment in 1947 and fought for it in Korea. Eisenhower ran it through the CIA and nuclear threat. One doctrine, two very different machines."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2026-06-01
@@ -16,7 +16,7 @@ On the evening of April 25, 1950, Paul Nitze carried a stack of typescript into 
 
 Three years after that, a different man sat in the same chair and quietly decided the document was reckless. Dwight Eisenhower had spent his adult life inside the military machine NSC-68 wanted to enlarge, and he distrusted the assumption that safety could be bought by spending without limit. He believed a republic could ruin itself defending its freedom. He thought there was a cheaper way to hold the line against Moscow, and over eight years he built it: fewer divisions, more bombers, more warheads, and a Central Intelligence Agency turned into an instrument of statecraft that could topple a government for the price of a single afternoon's artillery in Korea. Two presidents, one strategic objective, and two machines for reaching it that looked almost nothing alike. That divergence, and what it cost, is the subject worth examining.
 
-![Truman versus Eisenhower containment comparison Cold War doctrine operational styles - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Truman versus Eisenhower containment comparison Cold War doctrine operational styles - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 ## The Word That Organized Forty Years
 

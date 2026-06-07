@@ -5,7 +5,7 @@ date: 2023-01-09
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "In the tradition of Hemingway's protagonists who navigate the uncharted, the pursuit of Tableau certification demands a robust arsenal of resources. This..."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 3
 author: "nina-petrova"
 last_updated: 2026-04-02
@@ -15,7 +15,7 @@ In the tradition of Hemingway's protagonists who navigate the uncharted, the pur
 
 Read more: [Tableau Certification vs. Self-Learning: Pros and Cons »](https://insightcrunch.com/2023/07/16/tableau-certification-vs-self-learning-pros-and-cons/)
 
-![Top Resources for Tableau Certification Preparation](/assets/images/blog/blog-07.webp)
+![Top Resources for Tableau Certification Preparation](/assets/images/blog/blog-76.webp)
 Top Resources for Tableau Certification Preparation
 
 ## **1. Official Tableau Learning Platform**

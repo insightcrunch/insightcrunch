@@ -6,7 +6,7 @@ date: 2023-02-13
 categories: ["Technology"]
 tags: ["Azure", "Container Apps", "Troubleshooting", "Containers", "DevOps", "Cloud Computing"]
 excerpt: "A Container Apps revision failed and refuses traffic? Read the revision and system logs to find the pull, probe, port, or secret cause and fix it fast."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 59
 author: "jason-mckenzie"
 last_updated: 2023-02-13
@@ -14,7 +14,7 @@ lang: en
 ---
 You push a new image to your container app, the deployment reports success, and then nothing changes. The old version keeps serving traffic, or the endpoint starts returning errors, and the portal shows your newest revision sitting in a failed or unhealthy state instead of taking over. When a Container Apps revision failed to become active, the platform is telling you something precise even when the message on screen looks generic: a revision only receives traffic after it provisions its replicas and those replicas pass health, so a revision that never activates is stuck at one of a small set of gates. The image would not pull, a probe never reported ready, the container does not listen on the target port you configured, a secret or environment variable is missing and the process crashes on start, or the resource and scale settings cannot place a replica. Each of those gates leaves a distinct fingerprint in the revision status and the logs, and the difference between a frustrating afternoon and a five minute fix is knowing which fingerprint is yours.
 
-![Diagnosing Azure Container Apps revision failed states and the pull, probe, port, and secret root causes - Insight Crunch](/assets/images/blog/blog-27.webp)
+![Diagnosing Azure Container Apps revision failed states and the pull, probe, port, and secret root causes - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 This guide treats the failed revision as a diagnosis rather than a symptom. The central idea, the one worth carrying out of this article and into every future incident, is what I will call the pass-health-to-activate rule: a Container Apps revision takes traffic only once it provisions successfully and its replicas pass their health checks, which means a stuck or failed revision is always a pull, a probe, a port, or a configuration problem that the logs will name if you read them in the right order. Redeploying the same image into the same broken configuration cannot fix any of those, which is why the most common mistake is also the least productive: pushing the build again and hoping the platform behaves differently the second time. It will not. The revision failed for a reason, the reason is recorded, and your job is to surface it and match it to the fix.
 

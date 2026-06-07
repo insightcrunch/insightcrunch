@@ -5,13 +5,13 @@ date: 2021-02-12
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "..."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 2
 author: "alex-rivera"
 last_updated: 2026-04-01
 lang: en
 ---
-![](/assets/images/blog/blog-62.webp)
+![](/assets/images/blog/blog-74.webp)
 
 Curiosity to derive a metric however simple or complex it may be, requires clear objective and precision right from the initial stages. Adding to it the modern examples of flashy dashboards and infinite interactivity, and we have all the ingredients of a recipe that can go extreme either way. All that dazzles and sparkles need not help visualize data in the best possible way.
 

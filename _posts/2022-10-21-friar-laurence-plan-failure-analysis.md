@@ -6,7 +6,7 @@ date: 2022-10-21
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "friar-laurence", "the-plan", "friar-plan-failure"]
 excerpt: "Friar Laurence's plan to reunite the lovers hangs on a single letter and on Romeo waiting, and tracing its failure shows how fragile the scheme always was."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 61
 author: "rachel-foster"
 last_updated: 2022-10-21
@@ -14,7 +14,7 @@ lang: en
 ---
 A friar arrives breathless at a cell in Verona with an undelivered letter in his hand, and a tragedy that the audience has been told to expect since the Prologue swings shut on its final hinge. The man is Friar John, sent days earlier to Mantua with a message of life-or-death weight, and his report is almost comically mundane: he went looking for a brother of his order to walk with him, the pair were suspected of carrying infection, the town authorities sealed the doors of the house where they stood, and so the journey to Mantua never happened. The letter that would have told Romeo that Juliet only sleeps comes back unopened. Friar Laurence hears this at Act 5 Scene 2 and grasps at once what it means. The single thread on which his entire rescue depends has snapped, and he has roughly three hours before the girl in the tomb wakes to a vault no rescuer knows to enter.
 
-![Friar Laurence's failed plan in Romeo and Juliet close reading - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Friar Laurence's failed plan in Romeo and Juliet close reading - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The popular account of the ending skips this scene almost entirely. In the cultural shorthand, the lovers die of a tragic misunderstanding, a cruel accident, the indifference of the stars. That shorthand is not wrong so much as it is incurious. It treats the catastrophe as a single event, a stroke of bad luck that falls from the sky, when the text presents something far more interesting: a piece of engineering. Friar Laurence built a machine out of timing, chemistry, and correspondence, set it running, and watched it fail at the one component he could not control. What this article does that the standard summary does not is take the machine apart. It reconstructs the scheme link by link, marks the precise point of fracture, and asks the harder question underneath the plot: was the failure an accident that could have gone otherwise, or the predictable collapse of a design too clever to survive the world it was built in.
 

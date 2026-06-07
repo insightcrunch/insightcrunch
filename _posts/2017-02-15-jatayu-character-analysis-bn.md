@@ -6,7 +6,7 @@ date: 2017-02-15
 categories: ["Leisure"]
 tags: ["jatayu", "feluda", "satyajit-ray", "bengali-literature"]
 excerpt: "জটায়ু চরিত্রের সম্পূর্ণ বিশ্লেষণ। লালমোহন গাঙ্গুলীর পাল্প-লেখক জগৎ, বটতলা পরম্পরা, কৌতুক-সঙ্গীর শান্ত বীরত্ব, এবং কেন তিনি ক্যাননের প্রিয়তম চরিত্র।"
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 110
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-66.webp)
+![জটায়ু: বাংলা সাহিত্যের প্রিয় সহচর - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-93.webp)
 
 ## লালমোহন গাঙ্গুলী: প্রাথমিক পরিচিতি
 

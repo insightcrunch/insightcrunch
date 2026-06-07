@@ -6,7 +6,7 @@ date: 1997-06-23
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Equivalent Expressions", "Algebra", "Advanced Math"]
 excerpt: "SAT equivalent expressions explained: factoring methods, structure recognition, completing the square and the Desmos equivalence check, with worked examples."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1997-06-23
@@ -14,7 +14,7 @@ lang: en
 ---
 A student reads "Which of the following is equivalent to the expression above?" and starts grinding. Distribute here, combine there, cancel a term, recheck a sign. Ninety seconds later a choice gets picked, and on a good day it is right. On a bad day a single dropped negative sends the answer to a wrong option that the writers planted precisely for the person who tried to muscle through by hand. That grind is the trap, and it is optional. The candidate two seats over recognized the shape of the algebra in three seconds, or typed two lines into the graphing tool and watched one curve vanish underneath the other, and moved on with a full minute banked for a harder item later in the module.
 
-![SAT equivalent expressions factoring and structure recognition worked examples - Insight Crunch](/assets/images/blog/blog-81.webp)
+![SAT equivalent expressions factoring and structure recognition worked examples - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 Rewriting and factoring questions sit everywhere across the digital exam, and they are quietly one of the highest-leverage skills on the whole quantitative portion, because two completely different abilities can solve the same item. One is seeing structure: reading 9x^2 - 25 and knowing at once that it splits into (3x - 5)(3x + 5), no scratch work required. The other is verification: confirming a rewrite visually in seconds with a calculator the College Board hands every digital test-taker for free. This guide builds both. By the end you will read disguised algebraic shapes the way a fluent reader skims a sentence, you will complete the square with and without a leading coefficient, you will simplify the layered fractions that scare students into guessing, and you will own a single verification move, the InsightCrunch Desmos equivalence check, that turns a class of items from a coin flip into a certainty.
 

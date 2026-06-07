@@ -6,7 +6,7 @@ date: 1996-10-09
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Score Plateau", "Troubleshooting", "Strategy"]
 excerpt: "SAT score plateaus diagnosed: the four causes from practicing too easy to test anxiety, a diagnostic test for each and a targeted cure, with timelines."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "jessica-kim"
 last_updated: 1996-10-09
@@ -14,7 +14,7 @@ lang: en
 ---
 You have taken four practice tests and the composite has not moved. The first jump came easily, fifty or sixty points from learning the format and shaking off the rust, and then the number froze. You are studying the same hours, drilling the same sets, and the result on test after test lands inside the same narrow band. The instinct at this point is brutally simple and almost always wrong: do more. More practice tests, more drills, more late nights with the same materials that have already taken you as far as they are going to. A stalled result is not a volume problem. It is a diagnosis problem, and pouring more hours into the wrong cure is how motivated students lose entire months without gaining a point.
 
-![SAT score plateau four causes diagnostic test and cure - Insight Crunch](/assets/images/blog/blog-38.webp)
+![SAT score plateau four causes diagnostic test and cure - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 What the standard advice misses is that a flat stretch in your scoring has a cause, and there are only four of them that account for nearly every case. Each cause has a distinct signature you can detect with a specific diagnostic check, and each one responds to a different treatment. The cure that breaks one kind of stall does nothing for another, and the most common mistake students make is applying the universal remedy of more practice tests to a problem that practice tests cannot touch. This guide gives you the four causes, the diagnostic that confirms each one, the matched treatment that actually moves the number, and an honest estimate of how long the breakthrough takes once you stop guessing and start diagnosing. Call it the InsightCrunch plateau diagnosis: name the cause first, treat the named cause, and refuse to do more of what is already not working.
 

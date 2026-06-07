@@ -6,7 +6,7 @@ date: 1997-05-31
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Digital SAT", "Adaptive Testing", "Module Strategy"]
 excerpt: "SAT math Module 1 vs Module 2 explained: how adaptive routing gates your score ceiling and why Module 1 accuracy matters more than speed, with strategy."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "simon-hartley"
 last_updated: 1997-05-31
@@ -14,7 +14,7 @@ lang: en
 ---
 Two students sit down for the SAT math section on the same morning, in the same room, on identical laptops. When the scores arrive, one of them has a 760 and the other has a 640. Here is the part that stings: the 640 answered more questions correctly than the 760 did. Not a typo. The lower scorer got more right and still finished a hundred and twenty points behind. The SAT math Module 1 vs Module 2 routing system is the reason, and almost no one who walks into the exam understands it well enough to use it. That single gap in understanding is the most expensive thing a strong math student can carry into the digital test, and closing it is worth more points than any new content topic you could cram in the final week.
 
-![SAT math Module 1 vs Module 2 adaptive routing and score ceiling worked examples - Insight Crunch](/assets/images/blog/blog-71.webp)
+![SAT math Module 1 vs Module 2 adaptive routing and score ceiling worked examples - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 The story those two students lived through is not bad luck and it is not a scoring glitch. It is the design working exactly as intended. The digital exam decides, partway through your math section, which version of the rest of the section you are allowed to see, and that decision quietly sets a ceiling on the highest score you can still earn. The student who answered fewer questions correctly was sitting on a harder set of problems with a higher ceiling above it. The student who answered more correctly was sitting on an easier set with a low roof bolted overhead, and no amount of perfect work under that roof could push through it. The whole article that follows exists to make sure you are never the second student by accident.
 

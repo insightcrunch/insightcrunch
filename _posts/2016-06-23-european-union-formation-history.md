@@ -6,7 +6,7 @@ date: 2016-06-23
 categories: ["Leisure"]
 tags: ["european-union", "european-history", "integration", "world-history", "historical-analysis"]
 excerpt: "The EU formed through a crisis-driven integration cycle, turning postwar coal-and-steel cooperation into a political union of 27 nations and counting."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2016-06-23
@@ -16,7 +16,7 @@ The European Union was created to make war between European powers structurally 
 
 <!--more-->
 
-![How the European Union Was Formed - Insight Crunch](/assets/images/blog/blog-62.webp)
+![How the European Union Was Formed - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 ## The Ruins from Which Integration Emerged
 

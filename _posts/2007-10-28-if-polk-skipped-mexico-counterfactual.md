@@ -6,7 +6,7 @@ date: 2007-10-28
 categories: ["Leisure"]
 tags: ["james-polk", "counterfactual", "us-presidents", "mexican-american-war", "slavery-expansion", "civil-war-causes"]
 excerpt: "Polk engineered war with Mexico in 1846. The Mexican Cession reignited slavery expansion fights. What if it hadn't happened? A rigorous counterfactual."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 71
 author: "chloe-martin"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 On Saturday May 9, 1846, James Knox Polk sat at his desk in the White House and worked on the draft of a war message he had already begun composing days before any news of bloodshed reached Washington. The cabinet had voted that morning to recommend a declaration. Polk's diary entry for that evening records the timing with the precision of a man who knew exactly what he was doing. Word of the April 25 skirmish on the Rio Grande, in which Captain Seth Thornton's patrol had been ambushed by Mexican forces, arrived in the capital only that night. Polk revised his message to incorporate the incident, sent it to Congress on Monday May 11, and within three days had his declaration.
 
-![If Polk skipped Mexico counterfactual Civil War without Southwest - Insight Crunch](/assets/images/blog/blog-61.webp)
+![If Polk skipped Mexico counterfactual Civil War without Southwest - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The historical record is unusually clear on the engineering question. Polk's diary, his correspondence with Secretary of War William Marcy, his orders to General Zachary Taylor, and the rejected Slidell mission together establish that the eleventh president provoked the conflict deliberately, and that the Thornton incident gave him the casualty list he had been waiting months to obtain. The narrow factual case is rehearsed in detail in [the decision reconstruction of Polk's ninety-day war engineering](/blog/polk-provokes-mexico-war-90-days). The question this article takes up is different, and considerably harder. Suppose Polk had not provoked the conflict. Suppose the Slidell mission had been allowed to continue, or that the army had stayed at Corpus Christi, or that the war message had been withheld until something genuinely indistinguishable from defensive necessity had occurred. The Mexican Cession does not happen on the 1848 timeline. California stays Mexican. Texas remains in the Union by the 1845 annexation already completed. Oregon's resolution proceeds on its own track. The Wilmot Proviso, devised in August 1846 specifically to bar slavery from territories acquired from Mexico, has no occasion to exist. Does the Civil War still happen, does it happen later, does it happen at all?
 

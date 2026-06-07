@@ -6,7 +6,7 @@ date: 2013-04-19
 categories: ["Industry"]
 tags: ["shahid-latif", "pathankot-attack", "jaish-e-mohammed", "sialkot", "targeted-killing", "shadow-war"]
 excerpt: "Profile of Shahid Latif, the JeM commander who masterminded the 2016 Pathankot airbase attack and was shot dead inside a Sialkot mosque seven years later."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 56
 author: "andrew-price"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Shahid Latif was the most well-documented attack-to-elimination case in India's 
 
 <!--more-->
 
-![Shahid Latif Profile - Pathankot Attack Mastermind Eliminated in Sialkot - Insight Crunch](/assets/images/blog/blog-87.webp)
+![Shahid Latif Profile - Pathankot Attack Mastermind Eliminated in Sialkot - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 The seven-year interval separating the Pathankot airbase assault from Latif's killing inside a Sialkot mosque is not a story of delay. It is a story of escalation by stages, of a country that exhausted every alternative before arriving at the one Pakistan feared most. India tried diplomacy first. Prime Minister Narendra Modi had made a surprise visit to Lahore on December 25, 2015, greeting his Pakistani counterpart Nawaz Sharif on his birthday, signaling that a new relationship was possible. Eight days later, JeM infiltrators crossed from the Sialkot sector into Indian territory and attacked the Pathankot airbase. India responded not with missiles but with an extraordinary offer: a Joint Investigation Team from Pakistan would be allowed to visit the attack site and examine the evidence. Pakistan's JIT came, examined, and returned without a single arrest, a single prosecution, or a single public finding that acknowledged JeM's responsibility. That failure sealed Latif's fate. The [diplomatic channel that Pathankot destroyed](https://insightcrunch.com/2019/09/16/pathankot-2016-turning-point/) was never rebuilt, and the covert channel that replaced it eventually reached a mosque in Sialkot where Latif knelt in prayer for the last time.
 

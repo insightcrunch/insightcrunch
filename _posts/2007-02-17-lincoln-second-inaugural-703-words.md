@@ -6,7 +6,7 @@ date: 2007-02-17
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "close-read", "us-presidents", "american-history", "second-inaugural", "civil-war", "theology-politics"]
 excerpt: "Most Americans know 'malice toward none, charity for all.' Almost none have read the entire 703-word address that Lincoln wrote that phrase to conclude."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2026-06-02
@@ -16,7 +16,7 @@ Rain had turned the avenue to a soup of mud by mid-morning on March 4, 1865, and
 
 Almost everyone can quote a piece of it. "With malice toward none, with charity for all" has been carved into the wall of the Lincoln Memorial, printed on currency commemoratives, quoted by presidents from both parties at moments of national strain, and reduced, through a century and a half of repetition, to a kind of gentle benediction, a request that Americans be nice to one another. The trouble is that the phrase is the last twenty-five words of an address that spends its preceding paragraphs building a case so severe that the closing charity reads less like sentimentality than like the only survivable response to a verdict already delivered. Read the whole thing and the famous ending changes meaning entirely. The point of this close read is that the address Americans think they know and the address Lincoln actually wrote are two different documents, and the gap between them is one of the most consequential misreadings in the national memory.
 
-![Lincoln Second Inaugural Address 1865 four-section close read malice toward none - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Lincoln Second Inaugural Address 1865 four-section close read malice toward none - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 ## What a Second Inaugural Was Supposed to Be
 

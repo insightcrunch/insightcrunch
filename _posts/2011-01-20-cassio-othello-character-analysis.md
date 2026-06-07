@@ -6,7 +6,7 @@ date: 2011-01-20
 categories: ["Leisure"]
 tags: ["shakespeare", "othello", "cassio", "character-analysis", "literary-analysis", "shakespeare-characters"]
 excerpt: "Complete study of Cassio in Othello - his bond with Othello, his vulnerability to Iago's scheming, and his role as the unknowing catalyst of ruin."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 59
 author: "elena-wright"
 last_updated: 2026-04-18
@@ -14,7 +14,7 @@ lang: en
 ---
 He is the Florentine lieutenant whose promotion over Iago provides the grievance that opens the play, whose courtly graces and courtly manner with women provide the raw material that Iago redirects into the manufactured proof of an affair with Desdemona that has never occurred, whose weakness for drink provides the vulnerability that Iago engineers into the public disgrace on Cyprus that removes him from his position and sets the larger campaign in motion, whose grateful acceptance of Desdemona's charitable advocacy for his reinstatement provides the visible meetings that Iago reinterprets as the proof of intimate connection, whose possession of the handkerchief that Iago has planted in his lodging provides the physical proof that converts suspicion into certainty in Othello's mind, whose relationship with Bianca provides the overheard conversation that Iago redirects as confirmation of the affair, who is wounded in the fifth act by Roderigo at Iago's arrangement, and who survives the catastrophe to receive the governorship of Cyprus in the closing resolution without ever having understood the full extent of the scheme that was being constructed around him. The trajectory from promoted lieutenant to disgraced officer to unwitting instrument to wounded survivor to appointed governor is one of the most carefully engineered secondary arcs in the canon.
 
-![Cassio Character Analysis - The Unwitting Pawn in Othello](/assets/images/blog/blog-44.webp)
+![Cassio Character Analysis - The Unwitting Pawn in Othello](/assets/images/blog/blog-74.webp)
 
 <!--more-->
 

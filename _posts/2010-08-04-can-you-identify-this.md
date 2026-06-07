@@ -5,10 +5,10 @@ date: 2010-08-04
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "..."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
 lang: en
 ---
-![](/assets/images/blog/blog-47.webp)
+![](/assets/images/blog/blog-86.webp)

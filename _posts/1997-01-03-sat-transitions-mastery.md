@@ -6,7 +6,7 @@ date: 1997-01-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Writing", "Transitions", "Logic", "Expression"]
 excerpt: "SAT transitions explained: ignore the choices, read before and after, name the logical relationship, then pick the matching transition, with worked examples."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 59
 author: "michael-brooks"
 last_updated: 1997-01-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A transition question hands you four words that all sound like reasonable English, and exactly one of them is right. The other three are not grammar errors. They are not awkward. They will read perfectly smoothly in the blank, which is the whole trap. The writers know that a tired test-taker will slot in the choice that flows nicely off the tongue and move on, and they build the wrong answers to flow nicely off the tongue. The word "however" can sit in a blank and feel completely natural while quietly reversing a relationship that was never a contrast in the first place. If you choose by ear, you lose the point and never feel the loss.
 
-![SAT writing transitions logical relationship method worked examples - Insight Crunch](/assets/images/blog/blog-29.webp)
+![SAT writing transitions logical relationship method worked examples - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Here is the claim this guide is built on, and the thing the open web mostly gets wrong: a transition item is not a vocabulary question and it is not a style question. It is a logic question wearing the costume of a word choice. The blank is asking one thing only, which is how the idea after it relates to the idea before it. Once you name that relationship in plain language, the right word is forced, and the three smooth-sounding distractors collapse into the three wrong categories they belong to. The method that follows, the InsightCrunch transition decision method, takes the guessing out entirely: cover the choices, read the sentence before and the sentence after, name the relationship out loud, then go to the choices and pick the one word that signals exactly that relationship. Four steps, in that order, every time. The reader who finishes this article will stop choosing transitions by feel and start deciding them by logic, which is the difference between getting most of them right and getting all of them right.
 

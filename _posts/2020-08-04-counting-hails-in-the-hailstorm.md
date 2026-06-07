@@ -5,7 +5,7 @@ date: 2020-08-04
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "The true essence of technological advances comes with our understanding of the surroundings, getting better with the aid of tools that never existed..."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 1
 author: "maya-chen"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 The true essence of technological advances comes with our understanding of the surroundings, getting better with the aid of tools that never existed before. As analytics continues to evolve at a blistering pace, it brings with it the ability to take decisions that affects the lives of millions around us. Out of seeming nothingness we get concrete patterns that could only have been imagined few decades back.
 
-![](/assets/images/blog/blog-25.webp)
+![](/assets/images/blog/blog-85.webp)
 
 As interesting scenarios continue to emerge in a changing superfluous landscape, the veil is lifted gradually as we intensely dig deeper using instruments ready to redefine our future. Our profound ignorance often becomes bluntly evident as we start to passionately navigate the curves of the charts, allowing us to gradually achieve a level of awareness at which we learn to be amused rather than shocked. The below graphical representation using Tableau of Coronavirus statistics of India depicts statistics of confirmed cases, cured cases and death cases across all the states as of Aug 22nd 2020. It’s strikingly concerning when clicking through the percentages of health stats, we find some states which seemingly have low confirmed cases are not doing too well in overall death percentage. Or states that appear dangerously higher up in rankings of confirmed cases are often actually doing comparatively well considering their cured percentages. The below analytics can be best viewed on a larger screen display.
 

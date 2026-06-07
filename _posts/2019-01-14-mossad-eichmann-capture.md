@@ -6,7 +6,7 @@ date: 2019-01-14
 categories: ["Industry"]
 tags: ["mossad", "eichmann", "buenos-aires", "capture", "extraterritorial"]
 excerpt: "How Mossad's 1960 capture of Adolf Eichmann in Buenos Aires set the template for the extraterritorial intelligence operations that nations still follow today."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 72
 author: "benjamin-scott"
 last_updated: 2019-01-14
@@ -16,7 +16,7 @@ On the evening of May 11, 1960, a tired man in a grey raincoat stepped off a pub
 
 <!--more-->
 
-![Mossad Eichmann Capture Buenos Aires - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Mossad Eichmann Capture Buenos Aires - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The man in the raincoat was Adolf Eichmann, the SS officer who had managed the transport logistics of the Holocaust, the bureaucrat who turned the murder of European Jewry into a problem of railway timetables and deportation quotas. His capture by a Mossad team and his secret removal to Israel for trial was, at the time, understood mostly as an act of belated justice and an extraordinary feat of tradecraft. What it also was, and what this analysis treats as its central subject, is a precedent. The Buenos Aires operation established in practice, and then forced the world to argue about in principle, the proposition that a state could send agents onto another country's territory without permission, locate a person that country had failed to prosecute or extradite, take physical custody of him, and carry him home. Argentina protested at the United Nations. Israel argued exceptional circumstances. The dispute was patched over within months. The precedent did not go away.
 

@@ -6,7 +6,7 @@ date: 2013-10-03
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Severus Snape", "Albus Dumbledore", "Character Comparison"]
 excerpt: "Snape vs Dumbledore in Harry Potter, compared across loyalty, the greater good, sacrifice, and the ethics of using a grieving man as an instrument of war."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 42
 author: "sarah-mitchell"
 last_updated: 2013-10-03
@@ -16,7 +16,7 @@ lang: en
 
 Dumbledore asks Snape to kill him. Snape does it. The reader has spent six books learning to distrust the dour Potions master and to revere the twinkling headmaster, and then, in a single Pensieve memory, that arrangement collapses into something neither comfortable nor clean. The question the scene leaves behind is not whether the old wizard was right to ask, nor whether the younger man was right to obey. The question is older and uglier than either: what does it mean to use a person who loves you as an instrument of a cause that person never chose, and whether the request itself is a kind of injury even when the strategy is sound.
 
-![Snape vs Dumbledore character comparison in Harry Potter](/assets/images/blog/blog-31.webp)
+![Snape vs Dumbledore character comparison in Harry Potter](/assets/images/blog/blog-64.webp)
 
 This is the most extended ethical confrontation in the series, and it cannot be resolved, because the author refuses to resolve it. Two men who know more than anyone around them, who manipulate the people in their orbit toward chosen ends, who work in secrecy and die for the war they serve, are placed in a relationship so unequal that the very word "comparison" begins to strain. One holds institutional power; the other holds only a secret. One designs the chessboard; the other is a piece on it who happens to be conscious of his own square. To set them side by side is not to ask who was the better man. It is to ask whether goodness, exercised from a position of total authority over a vulnerable subordinate, can avoid becoming a more elegant form of exploitation.
 

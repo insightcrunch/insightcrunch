@@ -6,7 +6,7 @@ date: 2014-07-15
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Hiking", "Outdoors"]
 excerpt: "Yosemite hidden gems beyond Half Dome and El Capitan: where the crowds are not, the quiet hours at the icons, and the high country that empties out fast."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 68
 author: "amit-chatterjee"
 last_updated: 2014-07-15
@@ -16,7 +16,7 @@ The most useful thing to understand about Yosemite hidden gems is that they are 
 
 That is the whole argument of this guide. Yosemite is not unbearable; it is unevenly loved. A reader who learns where the foot traffic pools and where it thins, and who treats crowding as a solvable problem of timing and altitude rather than a fixed condition of the place, can experience the marquee scenery nearly alone and still come home with a list of overlooked corners worth the detour. You do not need to skip the famous viewpoints. You need to meet them at the right hour and pair each one with a higher, emptier alternative for the rest of the day.
 
-![Yosemite hidden gems beyond the crowds, a high country and quiet hours guide - Insight Crunch](/assets/images/blog/blog-33.webp)
+![Yosemite hidden gems beyond the crowds, a high country and quiet hours guide - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 This is a different document from a general orientation to the park or a month-by-month timing breakdown. If you want the seasonal crowd picture, which weeks are busiest and which are calm, that lives in the [season-by-season look at when to visit Yosemite for waterfalls and calm](/2014/07/01/yosemite-best-time-to-visit/), and the broad planning model sits in the [complete guide to the park](/2014/06/01/yosemite-national-park-complete-guide/). What follows here is the spatial and hourly map: the elevation escape, the empty windows at each icon, the named substitutes most visitors never reach, and the responsible way to enjoy fragile ground that sees a fraction of the Valley's traffic.
 

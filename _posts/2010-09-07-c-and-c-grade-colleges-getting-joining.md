@@ -5,7 +5,7 @@ date: 2010-09-07
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "Good news for TCS 2010 freshers: C and C* grade colleges are finally getting joining dates. What this means for lower-tier college candidates."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 1
 author: "karthik-menon"
 last_updated: 2026-04-01
@@ -15,5 +15,5 @@ This is good news for all TCS 2010 freshers. Colleges of grades C and C* have st
 
 Read more: [TCS ILP Experience »](https://insightcrunch.com/2010/09/18/tcs-ilp-experience/)
 
-![C and C* grade colleges getting TCS joining](/assets/images/blog/blog-78.webp)
+![C and C* grade colleges getting TCS joining](/assets/images/blog/blog-45.webp)
 C and C* grade colleges getting TCS joining

@@ -5,7 +5,7 @@ date: 2009-07-08
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "What will technology look like in 10 years? Touch interfaces, AI, biotech, and the accelerating pace of innovation that is reshaping everything."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -17,5 +17,5 @@ https://youtu.be/cUdndePGT_I
 
 Communication technologies are ceasing to be as attractive as they were before with tele-presence and tele-conferences quiet common nowadays, yet a great deal of fortune seems to lie in communication technology itself, innovative newer inventions or making existing ones innovatively simple, that’s what it should be like. Yet some more which fascinate me are hand-held technologies you carry with you which can be made to have unlimited possibilities.
 
-![Video Games Xbox Nintendo Playstation Mario](/assets/images/blog/blog-26.webp)
+![Video Games Xbox Nintendo Playstation Mario](/assets/images/blog/blog-80.webp)
 Video Games

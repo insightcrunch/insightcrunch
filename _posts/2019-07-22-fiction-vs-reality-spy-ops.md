@@ -6,7 +6,7 @@ date: 2019-07-22
 categories: ["Industry"]
 tags: ["fiction-vs-reality", "spy-operations", "james-bond", "jason-bourne", "dhurandhar"]
 excerpt: "Spy fiction from James Bond to Jason Bourne to Dhurandhar gets some of intelligence work right and much of it wrong, and reality is duller and deadlier."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2019-07-22
@@ -16,7 +16,7 @@ A man in a tailored suit walks into a casino, orders a drink with a memorable in
 
 <!--more-->
 
-![Fiction vs Reality in Spy Operations - Insight Crunch](/assets/images/blog/blog-26.webp)
+![Fiction vs Reality in Spy Operations - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 The argument worth making is simple to state and harder to defend. James Bond is fantasy. Jason Bourne is semi-plausible. Dhurandhar is operationally credible. Those three points are not arbitrary; they mark a measurable trajectory across six decades of the genre, a slow narrowing of the gap between what audiences see on screen and what intelligence officers actually do for a living. The narrowing is not an accident of taste, and it is not simply a matter of newer films being grittier than older ones. It tracks something specific in the world outside the cinema. As real covert operations have become more public, through investigative journalism, leaked cables, declassified files, parliamentary inquiries, and the slow erosion of state secrecy, filmmakers have acquired more accurate material to draw from. The genre has not become more honest because writers grew braver. It has become more honest because the raw material it works from is now richer, more documented, and harder to romanticize.
 

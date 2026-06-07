@@ -6,7 +6,7 @@ date: 2022-06-20
 categories: ["Technology"]
 tags: ["Azure", "App Service", "500.30", "ASP.NET Core", "Troubleshooting", "Cloud Computing"]
 excerpt: "App Service 500.30 is an in-process startup failure that hides its real exception. Enable stdout logging, read the cause, and fix it without redeploying."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 43
 author: "jason-mckenzie"
 last_updated: 2022-06-20
@@ -14,7 +14,7 @@ lang: en
 ---
 An HTTP 500.30 on Azure App Service is one of the most misread responses in the whole platform, because the page it produces tells you almost nothing and the instinct it triggers is almost always wrong. The status reads "HTTP Error 500.30 - ASP.NET Core app failed to start," and that single line is the entire message most engineers ever see. It looks like a server fault, so the reflex is to restart the site, or worse, to redeploy and wait. Neither helps, because a 500.30 is not a request that went sideways. It is the application host reporting that your process never finished starting, and until you make the real startup exception visible, every restart simply reproduces the same crash a few seconds later.
 
-![Diagnosing an Azure App Service 500.30 ASP.NET Core startup failure with stdout logging - Insight Crunch](/assets/images/blog/blog-54.webp)
+![Diagnosing an Azure App Service 500.30 ASP.NET Core startup failure with stdout logging - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 This guide treats the 500.30 the way a senior engineer mid-incident would: as a signal that points at a deterministic failure during process initialization, not as a flaky symptom to ride out. By the end you will hold a clear model of what the 500.3x family of codes actually reports, a reliable method for surfacing the hidden exception behind the generic page, a mapped set of distinct root causes with the confirming check and the tested fix for each, and the prevention that keeps the failure from recurring after the next deploy. The thesis running through all of it is simple and worth stating plainly: the generic page never names the cause, so the first action is always to read the startup exception, never to redeploy.
 

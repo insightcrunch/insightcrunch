@@ -6,7 +6,7 @@ date: 2018-07-20
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদার গল্পে কলকাতার পাড়া সংস্কৃতি কীভাবে একটি সাহিত্যিক পটভূমি ও সামাজিক কাঠামো হিসেবে কাজ করে"
-image: "/assets/images/blog/blog-74.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 140
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদায় পাড়া সংস্কৃতি - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-74.webp)
+![ফেলুদায় পাড়া সংস্কৃতি - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-23.webp)
 
 ## পাড়া কী: একটি সংজ্ঞায়নের চেষ্টা
 

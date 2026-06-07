@@ -5,7 +5,7 @@ date: 2016-09-25
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The DRM Batch Client is one of the most useful tools that complements the flexibility and features of Oracle Data Relationship Management. It has numerous..."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 2
 author: "nathan-cole"
 last_updated: 2026-04-01
@@ -27,7 +27,7 @@ The DRM Batch Client is one of the most useful tools that complements the flexib
 
 The DRM batch file runs closely integrated with **Windows batch scripting** as well. So we can make it even more powerful by using parameter files that can provide a central point of configuration control instead of making changes in individual files, I will come to that later.
 
-![Oracle DRM Batch Client](/assets/images/blog/blog-44.webp)
+![Oracle DRM Batch Client](/assets/images/blog/blog-08.webp)
 Oracle DRM Batch Client
 
 There are **DRM activities** like Delete Version, Export, Import, Create Version, Restore Version, Add Node, Delete Node, Run Action Script which can be part of a daily activity. Say the admin makes changes on the main version, and for each of the different downstream systems, we need to maintain a separate version according to the specific requirements. These activities can all be automated using the DRM Batch Client commands. Once the script is ready, it will be a bat file which can be run in Windows and hence can easily be scheduled using Windows scheduler like any other task.

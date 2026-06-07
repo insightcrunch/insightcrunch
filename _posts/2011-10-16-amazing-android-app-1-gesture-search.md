@@ -5,7 +5,7 @@ date: 2011-10-16
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Have you ever fantasized to search your contacts, applications, games, settings, and everything on your phone by just using 3-4 swings of your finger?"
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Have you ever fantasized to search your contacts, applications, games, settings, and everything on your phone by just using 3-4 swings of your finger? Well, all of us have, and here is just the app which will make your fantasies come true. Look through any of the contents in our mobile to search using gesture search.
 
-![Android App with Gesture Search](/assets/images/blog/blog-08.webp)
+![Android App with Gesture Search](/assets/images/blog/blog-89.webp)
 Android App with Gesture Search
 
 Read more: [Write a Guest Post for Insight Crunch »](https://insightcrunch.com/2016/10/02/write-a-guest-post-for-insight-crunch/)

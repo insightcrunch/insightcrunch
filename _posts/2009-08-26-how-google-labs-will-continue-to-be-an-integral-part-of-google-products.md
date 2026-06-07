@@ -6,7 +6,7 @@ date: 2009-08-26
 categories: ["Leisure"]
 tags: ["Google", "Thoughts"]
 excerpt: "As is apparently interpreted by many that Google Labs is only a testing ground for crazy fun and not real prime time implementation, I feel Google’s Labs..."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 1
 author: "alex-cunningham"
 last_updated: 2026-04-01
@@ -22,5 +22,5 @@ Keep reading: [Flickr's addiction: How NOT to get rid off it »](https://insight
 
 With so much of flexibility round the corners, Google’s engineers and researchers have no doubt been achieving something which many of us would have thought of but couldn’t find those services. Hope they come up with more such lab stuffs and integrate some of them into their core products.
 
-![Google Projects](/assets/images/blog/blog-45.webp)
+![Google Projects](/assets/images/blog/blog-36.webp)
 Google Projects

@@ -5,7 +5,7 @@ date: 2022-11-26
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest corporations in the world today. There are a variety of jobs that are provided to individuals with different skill sets."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 13
 author: "nathan-cole"
 last_updated: 2026-04-02
@@ -27,7 +27,7 @@ Keep reading: [TCS NQT 2023 »](https://insightcrunch.com/2022/12/16/tcs-nqt-202
 
 Another fact that confused the employees during this message was that extra minutes for hand washing was added which was apparently already in effect for the last four to five months. The extra time of for hand washing was one of the most controversial decisions which employees readily cherished. But the fact was many of the employees were never aware of this policy change that was so helpful to them until they saw that noticeboard. Amazon was particularly known for tracking its employees constantly and penalizing them for taking time offs. Hence, the few extra minutes that employees could take a break and relax was very much welcomed by the employees at Amazon.
 
-![Amazon online jobs work from home no experience](/assets/images/blog/blog-84.webp)
+![Amazon online jobs work from home no experience](/assets/images/blog/blog-66.webp)
 Amazon online jobs work from home no experience
 
 ## Amazon Work-Life Balance

@@ -6,7 +6,7 @@ date: 2017-09-11
 categories: ["Leisure"]
 tags: ["feluda", "hatyapuri", "satyajit-ray", "puri", "late-period"]
 excerpt: "হত্যাপুরী গল্পের সম্পূর্ণ বিশ্লেষণ। পুরী পটভূমি, জগন্নাথ মন্দির ও বাঙালি বৈষ্ণব পরম্পরা, দেরিতে-পর্বের রায়ের শৈলী, এবং ২০২২-এর সৃজিত মুখার্জি চলচ্চিত্রায়ণ।"
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 116
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![হত্যাপুরী: পুরী সমুদ্র সৈকতে দেরিতে-পর্বের ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-61.webp)
+![হত্যাপুরী: পুরী সমুদ্র সৈকতে দেরিতে-পর্বের ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-82.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

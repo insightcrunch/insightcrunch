@@ -6,7 +6,7 @@ date: 2023-10-01
 categories: ["Industry"]
 tags: ["TCS Ninja aptitude", "TCS Ninja quants", "TCS aptitude questions", "TCS numerical ability"]
 excerpt: "Every TCS Ninja aptitude topic with concept refreshers, original practice problems, speed techniques, and priority study order."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "arjun-nair"
 last_updated: 2026-03-30
@@ -14,7 +14,7 @@ lang: en
 ---
 The TCS Ninja Foundation Numerical Ability section is where most candidates either build the confidence to carry through the rest of the test or lose marks they should have locked. Twenty-five questions in twenty-five minutes means sixty seconds per question - enough time if you know the topic, almost never enough if you are figuring it out as you go. This guide covers every topic in the Ninja aptitude syllabus at the exact difficulty level TCS tests, with original practice problems, complete step-by-step solutions, shortcut formulas, and time benchmarks for each type. Work through this guide systematically and you will know every topic. Practice the problems under time pressure and you will know every topic fast.
 
-![TCS Guide](/assets/images/blog/blog-73.webp)
+![TCS Guide](/assets/images/blog/blog-34.webp)
 
 ## The TCS Ninja Foundation Aptitude: Format and Scoring
 

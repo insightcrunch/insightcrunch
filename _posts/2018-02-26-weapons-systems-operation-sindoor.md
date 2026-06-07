@@ -6,7 +6,7 @@ date: 2018-02-26
 categories: ["Industry"]
 tags: ["weapons-systems", "rafale", "scalp", "s-400", "brahmos", "operation-sindoor"]
 excerpt: "The complete catalog of every weapon system deployed in Operation Sindoor, from Rafale jets firing SCALP cruise missiles to the S-400 air defense shield."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 70
 author: "william-knight"
 last_updated: 2018-02-26
@@ -16,7 +16,7 @@ Operation Sindoor was not merely a military campaign. It was the largest real-wo
 
 <!--more-->
 
-![Weapons Systems in Operation Sindoor - Insight Crunch](/assets/images/blog/blog-75.webp)
+![Weapons Systems in Operation Sindoor - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 The weapons catalog that follows is not a celebration of hardware. It is an analytical audit. Every system deployed during the [May 2025 conflict](https://insightcrunch.com/2012/07/29/india-pakistan-2025-conflict-timeline/) arrived at the battlefield carrying years of procurement controversy, billions of dollars in acquisition costs, manufacturer promises, and political expectations. Some of those promises were validated spectacularly. Others were exposed as optimistic. A handful of systems that defense commentators had dismissed as legacy platforms performed beyond expectation, while at least one marquee acquisition generated results that remain genuinely contested between the two belligerents and their international backers. What makes the Sindoor weapons catalog uniquely valuable for strategic analysis is that both sides used systems supplied by competing global defense ecosystems, Western platforms on the Indian side and Chinese platforms on the Pakistani side, turning the four-day conflict into a live comparison that no simulation or exercise could have replicated.
 

@@ -6,7 +6,7 @@ date: 2008-06-15
 categories: ["Leisure"]
 tags: ["warren-harding", "decision-reconstruction", "us-presidents", "return-to-normalcy", "league-of-nations", "washington-naval-conference"]
 excerpt: "Warren Harding won 1920 promising 'normalcy' after Wilson's war and peace crusades. The 1921 League rejection and Naval Conference revealed what he delivered."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 71
 author: "chloe-martin"
 last_updated: 2008-06-15
@@ -18,7 +18,7 @@ On the evening of May 14, 1920, in the dining room of the Home Market Club in Bo
 
 The word landed strangely. Journalists wrote it down as "normality" because they assumed the Republican nominee had misspoken, and several papers printed the corrected form the next morning. But the new chief executive meant "normalcy" and continued to use it, and within months the word, awkward and slightly archaic and faintly ridiculous, had become the brand of a national mood. Eighteen months had passed since the Armistice at Compiègne. Eleven months had passed since the signing at Versailles. Six months had passed since the Senate's first rejection of the Treaty in November 1919. Two months had passed since the Senate's second rejection in March 1920. Woodrow Wilson lay incapacitated in the White House after his October 1919 stroke, his wife Edith filtering what reached him and what left him. U.S. troops were still scattered across northern Russia and Siberia under intervention orders nobody could quite explain. A red scare gripped the nation; Eugene Debs sat in a federal prison in Atlanta; the Senate had not yet formally ended the state of war with Germany.
 
-![Warren Harding return to normalcy 1920 decision reconstruction - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Warren Harding return to normalcy 1920 decision reconstruction - Insight Crunch](/assets/images/blog/blog-22.webp)
 
 Harding's promise was that all of this would stop. The crusades would end. The executive overreach would be reversed. The country would step back from the global mission Wilson had pressed upon it and return, as the candidate would phrase it at his July 22 acceptance address, "to the homely virtues that made and preserved us." Six months later, on November 2, 1920, Marion's most famous son won the largest popular-vote landslide in the nation's history to that point: 60.3 percent to James Cox's 34.1 percent, with the imprisoned Debs collecting 3.4 percent from his cell. The mandate could not have been clearer if it had been written into the Constitution. The voters wanted out of Wilson's world. The question this article reconstructs is whether the 29th president gave it to them, and what it cost when he did.
 

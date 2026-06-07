@@ -6,7 +6,7 @@ date: 2022-11-07
 categories: ["Technology"]
 tags: ["Azure", "Quota", "Virtual Machines", "Troubleshooting", "Compute", "vCPU"]
 excerpt: "An Azure quota exceeded error blocks your deployment. Tell QuotaExceeded from SkuNotAvailable, find the limiting vCPU quota, and request the right fix."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 60
 author: "andrew-price"
 last_updated: 2022-11-07
@@ -14,7 +14,7 @@ lang: en
 ---
 A deployment fails, the portal turns red, and the message reads "Operation could not be completed as it results in exceeding approved quota." That single line of text is where most engineers make their first mistake, because an Azure quota exceeded error is not one problem but the visible end of three completely different ones. The deployment might have hit a soft limit you can raise with a request that often clears in seconds. It might have hit a hard wall of regional capacity that no request will ever move. Or it might have hit a transient allocation shortage in one availability zone that disappears if you point the same template a few kilometers away. The fix for the first is paperwork, the fix for the second is a different region or size, and the fix for the third is a retry with a tweak. Apply the wrong one and you wait days on a support ticket that was never going to help, or you keep hammering a zone that has nothing left to give.
 
-![Diagnosing Azure quota exceeded and vCPU limit errors by cause - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Diagnosing Azure quota exceeded and vCPU limit errors by cause - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 This article treats the quota exceeded message as a diagnosis problem first and a paperwork problem second. The goal is that you leave able to read which of the three failures you actually hit, confirm it with a command rather than a guess, and take the matching action. Compute capacity on Azure is governed by a layered system of allowances scoped per subscription, per region, and per virtual machine family, and the same red banner can mean any layer is full. Reading the error correctly is the whole game, and the rest of this guide walks the layers one at a time, with the command that confirms each and the fix that resolves it.
 

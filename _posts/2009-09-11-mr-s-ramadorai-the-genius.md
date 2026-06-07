@@ -5,7 +5,7 @@ date: 2009-09-11
 categories: ["Industry"]
 tags: ["TCS"]
 excerpt: "He is a self-acknowledged lover of gadgets but surprisingly enough, the TCS CEO, S. Ramadorai, “fought against getting a mobile phone for a long time as I..."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 10
 author: "ritika-singh"
 last_updated: 2026-04-01
@@ -88,5 +88,5 @@ So, which has been a more rewarding partnership?
 
 “Family comes first; without that you can’t do much,” is the candid reply. 
 
-![Mr. S. Ramadorai : The Genius](/assets/images/blog/blog-31.webp)
+![Mr. S. Ramadorai : The Genius](/assets/images/blog/blog-34.webp)
 Mr. S. Ramadorai : The Genius

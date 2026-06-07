@@ -6,7 +6,7 @@ date: 2022-10-24
 categories: ["Technology"]
 tags: ["Azure", "ARM Templates", "Troubleshooting", "DevOps", "InvalidTemplate", "Cloud Computing"]
 excerpt: "ARM template deployment errors hide the real cause inside a nested message. Read InvalidTemplate and DeploymentFailed to the provider error, then fix it."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 61
 author: "alex-cunningham"
 last_updated: 2022-10-24
@@ -14,7 +14,7 @@ lang: en
 ---
 An ARM template deployment that fails almost never tells you the truth in its first line. The top of the error reads `InvalidTemplate` or `DeploymentFailed`, and both are generic envelopes that say something went wrong without saying what. ARM template deployment errors are layered: a broad outer status that the portal and the CLI surface first, and a nested resource-provider message buried one or two levels down that actually names the failing resource and the reason. The engineer who fixes the deployment fast is the one who stops reading the outer line, drills to the nested operation, and reads the provider's own words. The engineer who burns an afternoon is the one who sees `DeploymentFailed`, assumes a syntax problem, and starts rewriting template JSON when the real cause was a missing role assignment or an exhausted quota that the template never touched.
 
-![Fixing ARM template deployment failures by reading the nested provider error - Insight Crunch](/assets/images/blog/blog-26.webp)
+![Fixing ARM template deployment failures by reading the nested provider error - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 This article teaches the diagnosis as a method rather than a list of one-off fixes. You will learn how Azure Resource Manager structures a deployment error, where the actionable message hides, how to pull the nested provider error from the deployment operations rather than guessing from the outer envelope, and how to map each common top-level error to its true cause and the command that confirms it. The distinct root causes behind a failed ARM deployment are few: a schema or expression error in the template itself, a circular dependency in the `dependsOn` graph, a resource-provider validation failure that rejects an otherwise well-formed resource, an `AuthorizationFailed` because the deploying identity lacks a role, a quota or capacity limit surfaced through the deployment, a parameter type or value that the template rejects, and an API version or resource type that does not exist. Each one produces a recognizable nested signal, and once you can read that signal you fix the cause instead of editing syntax at random.
 

@@ -6,7 +6,7 @@ date: 2008-11-23
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "primary-source-close-read", "us-presidents", "civil-war", "gettysburg-address", "rhetoric"]
 excerpt: "272 words. Five drafts. Lincoln's Gettysburg Address parsed phrase by phrase, including what he cut between manuscripts and why each change reframed the war."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 78
 author: "diana-patel"
 last_updated: 2008-11-23
@@ -14,7 +14,7 @@ lang: en
 ---
 On the afternoon of November 19, 1863, in a half-finished cemetery on a Pennsylvania ridge where seven thousand corpses had been collected and reburied four months earlier, a tall man rose from a wooden platform and spoke for approximately two minutes. He had been preceded by Edward Everett, the foremost orator of the age, who had spoken for two hours and seven minutes from memory. Everett's contribution ran to 13,607 words. The remarks that followed totaled 272. The Associated Press reporter who took the speech down in shorthand, Joseph Gilbert, recorded that applause interrupted the delivery five times and a "long-continued applause" closed it. Yet within forty-eight hours, the Chicago Times would call the brief presidential address "silly, flat and dishwatery utterances," and the Patriot and Union in Harrisburg would lament that "we pass over the silly remarks of the President; for the credit of the nation we are willing that the veil of oblivion shall be dropped over them."
 
-![Lincoln 272 words Gettysburg Address five drafts line by line analysis - Insight Crunch](/assets/images/blog/blog-75.webp)
+![Lincoln 272 words Gettysburg Address five drafts line by line analysis - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 The veil did not drop. Five manuscripts in the president's own hand survive: the Nicolay copy, the Hay copy, the Everett copy, the Bancroft copy, and the Bliss copy. They differ. Some differ trivially. Some differ in ways that change the historical claim being made. The phrase "under God," for instance, exists in three of the five and is absent from two. The phrase "for us, the living, rather" exists in one and is reordered in another. The pronoun "this" before "nation, under God" sits in some copies and not in others. Reading the five side by side is the closest a modern reader can get to watching the speech being thought through. It is also the only honest way to ask what the Gettysburg Address actually says, because the question of which Gettysburg Address has no single answer.
 

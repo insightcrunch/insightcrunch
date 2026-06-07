@@ -6,7 +6,7 @@ date: 2013-01-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Lily Potter", "Sacrifice", "Motherhood"]
 excerpt: "Lily Potter in Harry Potter is the mother whose chosen death becomes the protective mechanism, the friend Snape lost, and the moral floor of seven books."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2013-01-13
@@ -16,7 +16,7 @@ lang: en
 
 Twenty-one years old. A red-haired witch with green eyes, top of her class at Hogwarts, Head Girl, recently married to the boy she once told off for hexing her best friend at a lake. In the entire seven-volume saga that bears her son's name, she speaks aloud exactly three times: once in the memory of a playground, once in a fragment of letter prose recovered from a torn page, and once in a forest of the dead where her voice arrives without breath behind it. Every other appearance is reconstructed through Pensieve recovery, through inherited eyes, through a sacrifice whose mechanics the books return to again and again without ever fully decoding.
 
-![Lily Potter character analysis across all Harry Potter books](/assets/images/blog/blog-14.webp)
+![Lily Potter character analysis across all Harry Potter books](/assets/images/blog/blog-38.webp)
 
 And yet the dead mother structures everything. Every Horcrux Voldemort will eventually need is needed because of a curse that backfired in her kitchen. Every twenty-year vigil her best friend will maintain is maintained because of a friendship that ended at a lake when she was sixteen. Every scar her son carries, physical and otherwise, traces back to the specific refusal to step aside one night in late October when the green light came for the boy and was met first by the body of the woman who would not move.
 

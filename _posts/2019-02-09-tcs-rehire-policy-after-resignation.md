@@ -6,7 +6,7 @@ date: 2019-02-09
 categories: ["Industry"]
 tags: ["TCS", "Rehire Policy", "Resignation", "Re-Joining"]
 excerpt: "Tata Consultancy Services is one of the largest software services organization in the world. TCS employs close to a million employees and conducts..."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 45
 author: "shruti-agarwal"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 TCS's rehire policy is one of the most consequential and least understood aspects of the company's employment framework. Employees considering resignation who want to keep their options open, former employees hoping to return, and HR professionals advising on talent decisions all need accurate information about what TCS's policy actually says, when exceptions exist, and how the practical reality of re-joining differs from the written policy.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-77.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-53.webp)
 *The complete guide to TCS's rehire policy - what the policy says, why it was introduced, the cooling period requirements, the eligibility criteria for exceptions, the practical application process, what former TCS employees report about their re-joining experiences, and how to maximize your chances if re-joining is a genuine goal*
 
 The short version: TCS's standard policy discourages or restricts rehiring of former employees who resigned voluntarily. The policy has evolved over time - from relatively open rehire practices in TCS's earlier years, through a restrictive period where return was essentially prohibited, to the current framework where re-joining is possible but requires meeting specific conditions and navigating a deliberate evaluation process.

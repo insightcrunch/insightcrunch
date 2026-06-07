@@ -6,7 +6,7 @@ date: 2018-03-23
 categories: ["Leisure"]
 tags: ["feluda", "soumitra-chatterjee", "satyajit-ray", "sonar-kella", "joi-baba-felunath"]
 excerpt: "সৌমিত্র চট্টোপাধ্যায়ের ফেলুদা চিত্রায়ণের সম্পূর্ণ বিশ্লেষণ। সোনার কেল্লা এবং জয় বাবা ফেলুনাথের অভিনয়, রায়-সৌমিত্র সহযোগিতার বৈশিষ্ট্য, এবং বাঙালি ভদ্রলোক অভিনেতা ঐতিহ্যের শীর্ষ অর্জন।"
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 126
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![সৌমিত্র চট্টোপাধ্যায় ফেলুদা চরিত্রে: দু'টি ছবি, একটি নির্ণায়ক অভিনয় - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-65.webp)
+![সৌমিত্র চট্টোপাধ্যায় ফেলুদা চরিত্রে: দু'টি ছবি, একটি নির্ণায়ক অভিনয় - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-11.webp)
 
 ## সৌমিত্র চট্টোপাধ্যায় ফেলুদার আগে
 

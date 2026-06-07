@@ -6,7 +6,7 @@ date: 2012-05-10
 categories: ["Industry"]
 tags: ["ic-814", "hijacking", "kandahar", "masood-azhar", "terrorism", "india"]
 excerpt: "The definitive guide to IC-814, the eight-day Kandahar hostage crisis, and how India's decision to release Masood Azhar reshaped its security forever."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "rahul-banerjee"
 last_updated: 2012-05-10
@@ -16,7 +16,7 @@ At 4:53 pm on December 24, 1999, an Indian Airlines Airbus A300 carrying 176 pas
 
 <!--more-->
 
-![IC-814 Hijacking Complete Guide](/assets/images/blog/blog-32.webp)
+![IC-814 Hijacking Complete Guide](/assets/images/blog/blog-89.webp)
 
 The story of IC-814 is told in India as a story of helplessness: a winter week of televised agony, a Taliban airfield surrounded by hijackers' allies, a government cornered into trading prisoners for hostages. That telling is true but incomplete. The Kandahar trade was the visible end of a crisis whose decisive moment occurred earlier, on Indian soil, in a forty-nine-minute window at Amritsar's Raja Sansi airport when the aircraft sat refuelling and the Crisis Management Group in Delhi could not decide whether to authorise an assault. Everything that followed, from the flight to Lahore to the long Kandahar stalemate to Azhar's eventual founding rally in Karachi, flowed from a decision not made in those forty-nine minutes.
 

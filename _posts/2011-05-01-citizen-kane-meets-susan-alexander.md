@@ -6,7 +6,7 @@ date: 2011-05-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Susan Alexander", "Charles Foster Kane", "Close Reading", "Themes", "Cinematography"]
 excerpt: "When Kane meets Susan Alexander, a splash of mud and a toothache stage the film's tenderest scene as a substitution for the childhood he lost long ago."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 59
 author: "amanda-ross"
 last_updated: 2011-05-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The moment Kane meets Susan is the only stretch of Citizen Kane in which Charles Foster Kane is caught with his guard down, and the film knows it. Everywhere else he is performing: building a newspaper, courting voters, furnishing a palace, presiding over a marriage that has curdled into silence. Here, for a few minutes on a wet street corner and in a cramped boarding-house room, he is simply a middle-aged man with mud on his coat who has been knocked, briefly, out of his own legend. That is precisely why the passage rewards the close attention this series gives it. The encounter looks like the softest thing in the picture, an almost accidental idyll dropped into a study of power, and it is exactly that softness that hides the wound underneath. Read carefully, the meeting is not a romance at all. It is the beginning of a substitution, and the substitution is doomed before the two of them finish laughing.
 
-![Kane meets Susan Alexander close reading of the mud and toothache scene in Citizen Kane - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Kane meets Susan Alexander close reading of the mud and toothache scene in Citizen Kane - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The thesis of this reading is simple to state and harder to watch the film refusing to let go of: Kane meets Susan on the way to his dead mother's belongings, and the picture never once lets you forget the timing. The relationship begins as a stand-in for a lost childhood, which is why it is fated to repeat the same pattern of control and loss that governs every other attachment in his life. Hold that sentence in mind as the beats unfold, because the staging keeps quietly confirming it while the surface of the passage keeps inviting you to feel charmed. The charm is real. So is the trap.
 

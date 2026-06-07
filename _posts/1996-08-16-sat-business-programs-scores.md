@@ -6,7 +6,7 @@ date: 1996-08-16
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Business School", "Wharton", "Score Ranges"]
 excerpt: "SAT scores for top undergraduate business programs explained: ranges, direct-admit versus internal transfer and math weighting, with a school-by-school table."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 61
 author: "jessica-kim"
 last_updated: 1996-08-16
@@ -14,7 +14,7 @@ lang: en
 ---
 Two students with identical 1480 SAT scores apply to the same university in the same cycle, and one walks into a direct-admit business program while the other gets the general admission letter and is told to apply to the business school as a sophomore. Nothing separated them on paper except a single box on the application: one checked the named business program as a first-choice major, and the other did not. That gap, invisible to most families until the decision lands, is the single most expensive misunderstanding in undergraduate business admissions. The SAT score for a top business program is rarely the number you read on a general admissions page, and the threshold that actually governs your chances depends less on the digit itself than on a structural question almost nobody asks first: does this school admit you to business when you apply to college, or does it make you earn your way in after you arrive?
 
-![SAT scores for top undergraduate business programs Wharton Ross Stern direct-admit ranges - Insight Crunch](/assets/images/blog/blog-36.webp)
+![SAT scores for top undergraduate business programs Wharton Ross Stern direct-admit ranges - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 This guide answers the question the standard college-data pages cannot, because they report one university-wide band and stop. Undergraduate business admission is frequently a separate, tougher process running parallel to general admission, and the score that clears the general bar may sit well below the bar for the business program inside the same school. The page you are reading converts each program's published middle-fifty SAT range into an admission decision, but it does so through the lens that matters: the program's admission model. By the end you will be able to read any business program's score range correctly, weight your math sub-score the way these programs tend to, tell a direct-admit program from an explore-then-apply one in under a minute, and time your application to the model that governs the school you want. That is a different skill from looking up a number, and it is the skill that decides outcomes.
 

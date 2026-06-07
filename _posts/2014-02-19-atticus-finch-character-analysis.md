@@ -6,7 +6,7 @@ date: 2014-02-19
 categories: ["Leisure"]
 tags: ["to-kill-a-mockingbird", "atticus-finch", "harper-lee", "character-analysis", "go-set-a-watchman", "classic-literature"]
 excerpt: "Atticus was canonized in 1960 as the moral conscience of race relations. Go Set a Watchman revealed he had always been a moderate."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 70
 author: "olivia-grant"
 last_updated: 2014-02-19
@@ -16,7 +16,7 @@ Atticus Finch is the most canonized character in American fiction, and the canon
 
 <!--more-->
 
-![Atticus Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Atticus Finch Character Analysis - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 That claim is this article's central argument. What follows is not a simple character sketch of a beloved fictional father. It is a reassessment that takes both novels seriously, engages the critical tradition that anticipated the 2015 revelation, and argues that the honest reckoning with Atticus produces a richer, more instructive reading than the canonized version ever could. The Atticus who emerges from careful reading is not a moral monster. He is something more uncomfortable: a competent, well-meaning Alabama lawyer whose moral ceiling was set by his time, his class, and his region, and whose canonization as a timeless hero required editorial work on the text that his creator, Harper Lee, had not originally intended.
 

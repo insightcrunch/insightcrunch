@@ -6,7 +6,7 @@ date: 2010-08-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Rosebud", "Close Reading", "Themes", "Symbolism", "Orson Welles"]
 excerpt: "Citizen Kane ending explained: why Rosebud is the burning sled, why only the audience ever learns it, and why the answer explains almost nothing about him."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2010-08-01
@@ -14,7 +14,7 @@ lang: en
 ---
 You came here for the Citizen Kane ending explained in a sentence, and the film will let you have that sentence, then quietly take it apart in your hands. Rosebud is the sled. A workman pitches it into a furnace among the unsorted junk of a dead man's house, and the painted name catches fire while nobody who spent the picture hunting for it is anywhere in the room. That is the whole reveal, and it is the easiest thing about the last three minutes to state. The hard part, the part a recap site skips, is that the movie hands its solution to the one audience that did not ask the question, and then dares you to feel satisfied by an answer that solves the mystery while explaining nothing about the man.
 
-![Citizen Kane ending explained, the Rosebud sled in the furnace and the closing No Trespassing fence - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Citizen Kane ending explained, the Rosebud sled in the furnace and the closing No Trespassing fence - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 That gap is the engine of the finale, and it is why the ending of Citizen Kane has stayed an argument for as long as it has been a famous picture. Orson Welles does not close his film by resolving it. He closes it by springing a trap that has been set since the first frame, a trap built so that the moment you possess the answer is the moment you discover the answer was never going to be enough. The reporter never learns it. Susan never learns it. Thatcher, Bernstein, Leland, Raymond, none of the people who narrated this life ever connect a childhood sled to the word a dying billionaire breathed at a snow globe. Only you, watching, are given the missing piece, and Welles makes sure you are alone with it. The privacy of that knowledge is the point.
 

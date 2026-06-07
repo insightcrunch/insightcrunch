@@ -5,7 +5,7 @@ date: 2016-10-13
 categories: ["Analytics"]
 tags: ["Hadoop"]
 excerpt: "While getting started with Hadoop, the [sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) provided by Hortonworks is an easy to use..."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 1
 author: "thomas-reid"
 last_updated: 2026-04-01
@@ -15,7 +15,7 @@ While getting started with Hadoop, the [sandbox](https://www.cloudera.com/downlo
 
 The VirtualBox will create a Virtual Disk Image in the path specified during the import process, I prefer to keep it in my external storage systems to save space since I have more than one such Virtual Boxes deployed.
 
-![](/assets/images/blog/blog-08.webp)
+![](/assets/images/blog/blog-05.webp)
 
 So now that we have imported successfully and logged in using the default credentials **root** and **hadoop**, I get the below error when I try to use hive inside the sandbox.
 

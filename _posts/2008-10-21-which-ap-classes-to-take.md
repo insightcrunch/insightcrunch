@@ -6,7 +6,7 @@ date: 2008-10-21
 categories: ["Industry"]
 tags: ["AP Exams", "Course Selection", "College Admissions", "Study Guide", "Exam Strategy"]
 excerpt: "Choosing which AP classes to take comes down to four levers: strength, interest, major fit, and a schedule you can actually sustain. Here is the method."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 59
 author: "daniel-morgan"
 last_updated: 2008-10-21
@@ -14,7 +14,7 @@ lang: en
 ---
 The single decision that shapes a student's entire Advanced Placement experience happens before a single chapter is read or a single practice question is attempted: choosing which AP classes to take. That choice sets the difficulty of the next three years, the shape of a transcript, the size of a course load on the worst week of the spring, and the number of college credits eventually banked. Pick well and every later hour of study compounds. Pick badly and a capable student spends a year grinding through a subject that drains their schedule, pulls down a grade point average, and produces a 2 that earns nothing. Most guidance on the topic stops at a ranked list of the best APs, as if the right answer were the same for everyone. It is not. The right set of courses depends on who the student is, where they are headed, and what their week can hold. This guide replaces the generic best-AP list with a repeatable method.
 
-![How to choose which AP classes to take, the four-lever AP selection framework - Insight Crunch](/assets/images/blog/blog-42.webp)
+![How to choose which AP classes to take, the four-lever AP selection framework - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 That method is the InsightCrunch AP selection framework, a four-lever approach built around academic strength, genuine interest, intended-major alignment, and schedule sustainability. It is designed to work for a sophomore picking a first AP, a junior assembling the heaviest year of high school, and a senior deciding whether to add one more. The rest of this article walks through each lever, shows how to weight them against one another, sequences courses across four years, and works a full example of building a balanced schedule. It closes with the mistakes that quietly sabotage otherwise smart students and a set of answers to the questions families actually type into a search bar. For the wider picture of how the program fits together, the [complete guide to the AP program](/2008/11/08/ap-exams-complete-guide/) is the companion piece; this article is about the choosing.
 

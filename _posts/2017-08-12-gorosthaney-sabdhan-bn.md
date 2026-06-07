@@ -6,7 +6,7 @@ date: 2017-08-12
 categories: ["Leisure"]
 tags: ["feluda", "gorosthaney-sabdhan", "satyajit-ray", "park-street", "calcutta"]
 excerpt: "গোরস্থানে সাবধান গল্পের সম্পূর্ণ বিশ্লেষণ। পার্ক স্ট্রিট সমাধিক্ষেত্র, ঔপনিবেশিক কলকাতার ভূত, হরিপদ দত্তের বীরত্ব, এবং হেরিটেজ কলকাতার সংরক্ষণের থিম।"
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 116
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![গোরস্থানে সাবধান: পার্ক স্ট্রিট ও ঔপনিবেশিক কলকাতা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-09.webp)
+![গোরস্থানে সাবধান: পার্ক স্ট্রিট ও ঔপনিবেশিক কলকাতা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-81.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

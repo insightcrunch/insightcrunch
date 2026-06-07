@@ -5,7 +5,7 @@ date: 2009-01-04
 categories: ["Leisure"]
 tags: ["Analysis and Opinions"]
 excerpt: "The most staggering question in today’s world of Wordpress, Blogger, Typepad and several such sites has left me wondering, actually why do so many people..."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 3
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -31,5 +31,5 @@ Read more: [Rise, Calcuttans »](https://insightcrunch.com/2009/01/06/rise-calcu
 
 If you were to ask me why do I blog, I would say I belong to class 2(1). Time to take a break…would be soon back.. :)
 
-![Why do one blog?](/assets/images/blog/blog-33.webp)
+![Why do one blog?](/assets/images/blog/blog-30.webp)
 Why do one blog?

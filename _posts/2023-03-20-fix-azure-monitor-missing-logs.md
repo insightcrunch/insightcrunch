@@ -6,7 +6,7 @@ date: 2023-03-20
 categories: ["Technology"]
 tags: ["Azure", "Azure Monitor", "Log Analytics", "Diagnostic Settings", "Troubleshooting", "Observability"]
 excerpt: "Azure Monitor missing logs usually means a broken pipe, not a broken query. Find the real cause and restore your telemetry flow with quick confirming checks."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 59
 author: "thomas-reid"
 last_updated: 2023-03-20
@@ -16,7 +16,7 @@ You open a dashboard expecting to see the last hour of telemetry, and the chart 
 
 This is the single most important reframe for anyone debugging an empty workspace: a resource in Azure emits almost nothing to a queryable store until you explicitly connect a pipe from that resource to a destination. The platform does not assume you want every signal collected and retained, because collection and retention cost money and most signals are noise most of the time. So the default state of a freshly created resource is that its resource logs go nowhere. They are generated internally, they may surface briefly in a live stream, but they are not landing in any table you can query later unless a diagnostic setting carries them there. When the chart is empty, the question is not "what is wrong with my query," it is "is there a pipe, is it pointed at the workspace I am looking at, and is anything actually putting data into the pipe."
 
-![Fix Azure Monitor Missing Logs and Metrics](/assets/images/blog/blog-29.webp)
+![Fix Azure Monitor Missing Logs and Metrics](/assets/images/blog/blog-35.webp)
 
 This article gives you the full diagnostic path. You will learn how to read the symptom correctly, how to separate the distinct root causes that all present as an empty view, how to confirm which one is yours with a specific check rather than a guess, and how to restore the flow with a tested command for each cause. By the end you will be able to walk into a missing-telemetry incident and, within a few minutes, tell whether the resource has a routing pipe, whether an agent is alive, whether the data is landing in a different store than the one you are querying, and whether you are simply asking for a kind of signal the resource does not produce. The goal is to make this a fifteen-minute incident instead of a two-hour one, and to make it a problem you stop having because you build the pipe deliberately the next time.
 

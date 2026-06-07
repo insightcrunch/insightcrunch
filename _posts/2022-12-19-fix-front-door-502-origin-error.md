@@ -6,7 +6,7 @@ date: 2022-12-19
 categories: ["Technology"]
 tags: ["Azure", "Front Door", "502 Bad Gateway", "Troubleshooting", "Networking", "Cloud Computing"]
 excerpt: "A Front Door 502 origin error almost always means the backend rejected the request, not the edge. Diagnose the host header, SNI, probe, and service tag."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 59
 author: "ryan-walsh"
 last_updated: 2022-12-19
@@ -14,7 +14,7 @@ lang: en
 ---
 A Front Door 502 is one of the most misread errors in Azure, because the page that surfaces it sits at the edge while the actual fault almost always lives at the upstream server behind it. When Azure Front Door returns a 502, it is telling you that it reached out to your configured origin, tried to get a valid response, and could not. The edge did its job: it accepted the client request, matched a route, selected a backend from the group, and forwarded the request. What it could not do was complete a usable round trip to the server you pointed it at. That gap, between a healthy edge and an upstream server that will not answer the way Front Door expects, is the entire subject of this article, and learning to localize the 502 to the origin contract is the difference between an afternoon of guessing and a five-minute fix.
 
-![Fixing Azure Front Door 502 origin error root causes - Insight Crunch](/assets/images/blog/blog-67.webp)
+![Fixing Azure Front Door 502 origin error root causes - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The reason engineers waste so much time on a Front Door 502 is that the symptom and the cause sit in different places. The browser shows a generic Microsoft error page, the kind that says the service is not available right now, and the natural instinct is to blame Front Door, open a support ticket about the edge, or start toggling routing rules. Most of the time none of that is the problem. The origin behind the edge is rejecting an unexpected host header, failing its health probe, presenting a certificate Front Door will not trust, timing out under load, or sitting behind a firewall that silently drops the edge's traffic. This article gives you the InsightCrunch Front Door 502 cause table, a confirming signal for each cause, and the tested fix, so you can name which of the distinct failures is yours and repair the server or the routing instead of the edge.
 

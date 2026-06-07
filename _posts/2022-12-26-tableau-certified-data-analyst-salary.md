@@ -5,7 +5,7 @@ date: 2022-12-26
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Tableau is one of the most popular data visualization and analytics tool used in the industry today. The Tableau certified data analyst salary is one of..."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 12
 author: "nina-petrova"
 last_updated: 2026-04-02
@@ -27,7 +27,7 @@ We have also seen candidates who have successfully passed the exam with less tha
 
 It is important to note that you do not need to have Tableau installed as you will be provided the Tableau tool on a virtual machine by the exam provider. Make sure that you have a driver's license or passport ready as your photo identity document before the examination starts. There are a variety of rules that are mentioned during the Tableau certified data analyst certification exam. The photo identity requirement is the most important tool that candidates should abide by. The next important rule is having a clear desk. The third important rule is passing the technical checks and requirements. The fourth rule is having no phones headphones or external monitors near your exam area. 
 
-![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-81.webp)
+![Tableau Certified Data Analyst Salary](/assets/images/blog/blog-39.webp)
 Tableau Certified Data Analyst Salary
 
 ## Tableau Exam Setup and Questions

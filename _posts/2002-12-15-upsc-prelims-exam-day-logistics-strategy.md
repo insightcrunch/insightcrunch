@@ -6,7 +6,7 @@ date: 2002-12-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Prelims Strategy", "Exam Day", "OMR Sheet", "IAS Preparation", "Study Strategy"]
 excerpt: "The complete UPSC Prelims exam day playbook: what to carry, OMR handling, first 15 minutes plan, and the post-exam protocol."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "anita-das"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ The UPSC Prelims exam day is the single most psychologically loaded morning of a
 
 This guide exists because almost every aspirant underestimates exam day. They treat it as the inevitable result of preparation, assuming that if they have studied well, the day itself will take care of itself. It will not. Every year, candidates who scored 130+ in their last five mocks score 92 in the actual paper because they marked the wrong row on the OMR for fifteen questions. Every year, aspirants forget the original photo ID and lose two hours arguing with the invigilator. Every year, brilliant candidates spend the first thirty minutes of CSAT staring at a comprehension passage in panic because they did not eat enough at lunch and their blood sugar crashed. The UPSC Prelims exam day rewards process and punishes improvisation. This article gives you the process.
 
-![UPSC Prelims Exam Day Logistics and Strategy - Insight Crunch](/assets/images/blog/blog-16.webp)
+![UPSC Prelims Exam Day Logistics and Strategy - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 By the time you finish reading this article, you should have a printed checklist for the night before, a complete bag-packing list, a fifteen-minute opening protocol for the answer hall, an OMR-marking discipline, a two-pass attempt strategy for both papers, a lunch-break script, a post-exam decompression plan, and the emotional framing required to walk in calm and walk out clean. None of this is theory. Every recommendation here has been pressure-tested by aspirants who cleared the [UPSC Prelims complete guide and CSAT strategy](/2003/04/02/upsc-prelims-complete-guide/) syllabus and converted preparation into selection. If you are reading this within thirty days of your exam, treat this article as your operating manual. If you are reading it earlier, bookmark it and return to it the night before your final mock.
 

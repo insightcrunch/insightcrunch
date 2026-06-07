@@ -6,7 +6,7 @@ date: 2007-10-17
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "second-term", "presidential-decline", "political-capital"]
 excerpt: "Every two-term US president since 1808 has suffered a major second-term crisis: scandal, war, depression, or revolt. The pattern holds across 18 cases."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 73
 author: "chloe-martin"
 last_updated: 2026-05-25
@@ -18,7 +18,7 @@ The second inaugural address is a celebration. The reelection landslide is a man
 
 Jefferson's second term gave him the Embargo Act of 1807 and the wreckage of New England commerce. Madison's gave him a burned Capitol in August 1814. Jackson's second term swallowed the Bank War and the Specie Circular and the panic that hit his successor. Grant's gave him the Whiskey Ring and the Panic of 1873. Wilson's brought his October 1919 stroke, the Senate rejection of the League, and the Palmer Raids. Franklin Roosevelt's second term produced the court-packing fight of 1937 and a recession that erased much of the New Deal recovery. Truman's elected term ran into Korea and the firing of MacArthur and a 22 percent Gallup approval rating. Nixon resigned. Reagan got Iran-Contra. Clinton got impeached.
 
-![Second-term curse pattern across two centuries of reelected presidents - Insight Crunch](/assets/images/blog/blog-27.webp)
+![Second-term curse pattern across two centuries of reelected presidents - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 This article tests the claim that every president who served a substantial second term suffered a defining crisis in that second term. Across eighteen cases from 1805 through 2001, the pattern holds with two partial exceptions (Monroe and Eisenhower) and one truncated test (Lincoln, assassinated six weeks in). Sixteen of eighteen cases produced a documented second-term collapse: scandal, war, economic crash, party fracture, or some combination. The pattern is so consistent that political scientists have stopped treating it as coincidence and started naming the mechanism.
 

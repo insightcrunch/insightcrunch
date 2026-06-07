@@ -6,7 +6,7 @@ date: 2018-08-19
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদা ও পোয়ারো দুই বুদ্ধিজীবী গোয়েন্দা কিন্তু দুই ভিন্ন সাংস্কৃতিক জগতের প্রতিনিধি - একটি বিস্তৃত তুলনামূলক বিশ্লেষণ"
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 153
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা বনাম এরকুল পোয়ারো - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-06.webp)
+![ফেলুদা বনাম এরকুল পোয়ারো - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-57.webp)
 
 ## দু'জন গোয়েন্দা, দু'টি সংস্কৃতি: একটি প্রাথমিক পরিচয়
 

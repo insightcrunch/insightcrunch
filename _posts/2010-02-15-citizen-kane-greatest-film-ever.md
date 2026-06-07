@@ -6,7 +6,7 @@ date: 2010-02-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Greatest Film", "Reception", "Orson Welles", "Sight and Sound", "Film History", "Close Reading"]
 excerpt: "Citizen Kane is called the greatest film for reasons worth defending. Here is the full reputation story, the overrated debate, and an evidence-led verdict."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2010-02-15
@@ -14,7 +14,7 @@ lang: en
 ---
 No single question follows Orson Welles's debut around more stubbornly than the one this article exists to answer: is Citizen Kane the greatest film ever made, or is it the most overrated picture in the canon? The reputation is so large that it has stopped being a recommendation and become a dare. People sit down expecting a revelation, watch a tycoon grow rich and lonely, hear a man whisper a word about a sled, and rise from the couch faintly cheated. The gap between what the reputation promises and what a first, passive viewing delivers is the real subject here, because that gap is the engine of every "overrated" thread on the internet, and it can be closed only with evidence rather than reverence.
 
-![Why Citizen Kane is called the greatest film, the polls and the overrated debate explained - Insight Crunch](/assets/images/blog/blog-85.webp)
+![Why Citizen Kane is called the greatest film, the polls and the overrated debate explained - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The argument of this guide is blunt and defended at length below: the picture is not overrated, it is the victim of its own influence, and the reason a modern viewer feels they have seen it before is that they have seen its descendants. The grammar Welles and his collaborators synthesized in 1941 became the default language of the medium, so the innovations that once startled audiences now read as ordinary because everything after them learned the dialect. Recognizing that is the difference between dismissing the work and reading it. What follows steelmans the case against the reputation as fairly as its sharpest critics would put it, then dismantles each charge with what is on the screen, and ends with a verdict you can carry into an essay or an argument and actually win.
 

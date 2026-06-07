@@ -6,7 +6,7 @@ date: 1996-08-30
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "UC System", "Test Optional", "UCLA"]
 excerpt: "SAT scores and the UC system explained: the test-free admissions policy, where scores still help with placement and scholarships, and whether to still test."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1996-08-30
@@ -14,7 +14,7 @@ lang: en
 ---
 A high school senior in Fresno spends eleven Saturdays preparing for a December sitting, walks out with a 1480, and proudly attaches that result to her UCLA application. It changes nothing. Not her odds, not her review, not her shot at a Regents scholarship. The University of California will not look at the number at all. This is the single most expensive misunderstanding in California college planning, and it costs families money, weekends, and worse, attention that belonged somewhere else entirely.
 
-![SAT Scores for the UC System - Insight Crunch](/assets/images/blog/blog-39.webp)
+![SAT Scores for the UC System - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The UC system runs a test-free admissions policy. That phrase carries a precise meaning that "test-optional" does not, and the gap between the two words is where most of the confusion lives. Under a test-optional school, a strong result helps and a weak one can be hidden. Under a test-free, or test-blind, policy, the figure is not weighed for anyone, in any direction, ever. A perfect 1600 and a missing report land in the same place in the file: unread. For a California applicant aiming at Berkeley, Los Angeles, San Diego, or any of the nine undergraduate campuses, that reality should reshape an entire year of effort.
 

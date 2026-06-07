@@ -6,7 +6,7 @@ date: 1996-06-28
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Score Cancellation", "Decision", "Strategy"]
 excerpt: "SAT score cancellation: the narrow cancellation window, when it makes sense, the irreversibility trap and why Score Choice is usually the better option."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1996-06-28
@@ -14,7 +14,7 @@ lang: en
 ---
 A test-taker walks out of the testing room convinced the morning went badly. The reading passages felt long, the algebra ran past the clock, and a wave of certainty sets in: that result is going to be a disaster, so it should be deleted before anyone sees it. This is the exact moment SAT score cancellation does the most damage, because the request feels like protection and is actually the surest way to throw away points you have not yet seen. The decision is irreversible, the feeling driving it is unreliable, and the better tool usually sits one click away.
 
-![SAT score cancellation decision and the Score Choice alternative explained - Insight Crunch](/assets/images/blog/blog-36.webp)
+![SAT score cancellation decision and the Score Choice alternative explained - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Most guidance on this topic stops at "you can cancel within a few days." That sentence is true and nearly useless, because it answers the mechanical question while ignoring the only question that matters: should you. This guide treats the decision the way a tutor treats a student standing at the exit with a cancellation form in hand. It walks through what deletion actually does to a result, the narrow set of circumstances where erasing a sitting is the right call, the irreversibility that turns a single bad guess into a permanent loss, and the alternative that lets you keep everything and decide later with full information. By the end you will be able to run your own situation through a clean decision rule instead of acting on the adrenaline of a hard morning.
 

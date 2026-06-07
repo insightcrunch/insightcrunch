@@ -6,7 +6,7 @@ date: 2018-08-04
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "শারদীয়া দেশে ফেলুদার নতুন গল্প প্রকাশের পরম্পরা বাঙালি পাঠ-সংস্কৃতিতে কীভাবে একটি আচারে পরিণত হয়েছিল"
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 142
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![শারদীয়া দেশ পরম্পরা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-50.webp)
+![শারদীয়া দেশ পরম্পরা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-74.webp)
 
 ## পুজোসংখ্যা: বাংলা মুদ্রণ-সংস্কৃতির এক অনন্য আবিষ্কার
 

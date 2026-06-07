@@ -6,7 +6,7 @@ date: 2012-11-30
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Death Eaters", "Werewolves", "Dark Magic"]
 excerpt: "A literary analysis of Fenrir Greyback in Harry Potter - the werewolf without ideology, predator of children, and the series' portrait of pure appetite."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 59
 author: "sophia-turner"
 last_updated: 2012-11-30
@@ -16,7 +16,7 @@ lang: en
 
 A series filled with villains who explain themselves contains exactly one who does not. Voldemort delivers monologues. Bellatrix Lestrange sings devotion. Dolores Umbridge files paperwork that justifies her cruelty in writing. Severus Snape, antagonist or not, carries a private grief that turns out to be a private religion. Even Peter Pettigrew, the most pathetic of the inner circle, gives the reader something to read: cowardice with a backstory. Then there is Fenrir Greyback, who steps into the saga of the Boy Who Lived with no prologue, no manifesto, no recoverable past, and no interior. He arrives, he hunts, he eats, and he disappears from the text without a death scene. The series' bloodiest predator is also its emptiest mouth, and the emptiness is the point.
 
-![Fenrir Greyback character analysis in Harry Potter series](/assets/images/blog/blog-16.webp)
+![Fenrir Greyback character analysis in Harry Potter series](/assets/images/blog/blog-31.webp)
 
 The argument of this analysis is that Rowling, who otherwise believes almost religiously in the recoverability of every soul (Kreacher is redeemed; Narcissa is humanised; even Dudley Dursley gets a handshake), introduces this particular figure to mark the place where her theology stops. Greyback is the boundary condition. He is what evil looks like when ideology, grief, fear, and self-deception are stripped away and only the appetite remains. He is excited to be doing what he is doing. That excitement, calmly noted by the text and never psychologised, is what makes the werewolf-recruiter the most disturbing presence in seven books crowded with monsters. Voldemort kills to live forever; this one kills because biting children is fun. The distance between those two sentences is the moral landscape of the entire series compressed into a single contrast.
 

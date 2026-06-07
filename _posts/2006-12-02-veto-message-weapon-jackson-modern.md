@@ -6,7 +6,7 @@ date: 2006-12-02
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "presidential-veto", "jackson-bank-veto", "legislative-relations"]
 excerpt: "Jackson's 1832 Bank Veto turned a quiet constitutional check into a public weapon aimed past Congress at the voters, and every president since has fired it."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 72
 author: "rachel-foster"
 last_updated: 2026-06-01
@@ -16,7 +16,7 @@ On the morning of July 10, 1832, Andrew Jackson sent a document to the Senate th
 
 That is the moment the veto stopped being a lawyer's letter and became a politician's weapon. The clause that gave Jackson the power was old, dry, and procedural. The use he made of it was new, loud, and aimed past the Senate at the voters. This is the story of how a single sentence in Article I traveled from a rarely fired constitutional safety valve into one of the most reliable instruments of presidential leverage in American government, and of the long argument, still unsettled, over whether that journey was legitimate growth or quiet usurpation.
 
-![Jackson 1832 Bank Veto Message transforming the presidential veto into a political weapon - Insight Crunch](/assets/images/blog/blog-17.webp)
+![Jackson 1832 Bank Veto Message transforming the presidential veto into a political weapon - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## The Clause Nobody Expected to Matter Much
 

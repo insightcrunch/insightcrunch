@@ -6,7 +6,7 @@ date: 2023-03-06
 categories: ["Technology"]
 tags: ["Azure", "Data Factory", "Troubleshooting", "DevOps", "Cloud Computing"]
 excerpt: "Azure Data Factory pipeline failures trace to one failed activity, not the whole run. Read that activity's error to find the real cause and the tested fix."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "kevin-reeves"
 last_updated: 2023-03-06
@@ -14,7 +14,7 @@ lang: en
 ---
 A red dot on a pipeline run and a single line that reads `Operation on target Copy_Customers failed` is where most engineers begin, and far too many of them respond by clicking rerun and walking away to get coffee. The rerun completes, the same red dot appears, and the cycle repeats until somebody senior wanders over and asks the only question that matters: which activity failed, and what did its error actually say? Azure Data Factory pipeline failures are almost never about the pipeline. The pipeline status is a roll-up, a summary verdict that inherits the worst outcome of any step inside it, and the actionable truth lives one level down, in the specific activity that broke and the structured error it recorded. Learn to read that one error and you stop guessing. You will know whether a linked service lost its credential, a copy activity hit a throttling wall against its sink, a mapping data flow could not start its Spark cluster, a source path or schema shifted underneath you, or the integration runtime that runs everything went dark. Each of those leaves a different signature, each has a confirming check you can run in under a minute, and each has a tested fix that is not "rerun and hope."
 
-![Fixing Azure Data Factory pipeline failures by reading the failed activity error - Insight Crunch](/assets/images/blog/blog-90.webp)
+![Fixing Azure Data Factory pipeline failures by reading the failed activity error - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 This is a diagnosis, not a symptom catalog. By the end you will be able to open a failed run, navigate from the generic pipeline result to the failing step, read the error structure the way the platform intends, map the signal to one of a small set of recurring root causes, confirm which one is yours, apply the matching repair, and then rerun from the failed step rather than restarting work that already succeeded. The method generalizes. Orchestration in Azure, whether you build it in Data Factory or in the pipelines engine that ships inside Synapse, follows the same model, so the reading skill you build here transfers directly to either surface.
 

@@ -6,7 +6,7 @@ date: 1997-05-18
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Error Prevention", "Mistakes", "Strategy"]
 excerpt: "SAT math careless mistakes fixed: the 15 most common errors from sign slips to wrong-coordinate picks, each with a concrete behavioral cure, with examples."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1997-05-18
@@ -14,7 +14,7 @@ lang: en
 ---
 A student walks out of a practice section convinced she knew every problem, then opens the score report and finds six wrong. She reads the solutions, and on five of the six her reaction is the same wince: "I knew that." She solved the quadratic correctly and bubbled the wrong root. She set up the percent change flawlessly and divided by the new amount instead of the old one. She solved for x in eleven seconds and forgot the prompt asked for x plus three. None of those five misses came from a gap in what she knows. Every one came from how she executed under a clock, and that distinction is the most under-coached lever in the entire SAT math preparation landscape.
 
-![SAT math careless mistakes and the behavioral cures for each common error - Insight Crunch](/assets/images/blog/blog-12.webp)
+![SAT math careless mistakes and the behavioral cures for each common error - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 Careless mistakes on the SAT math sections are not random noise, and they are not a personality trait you are stuck with. They are a small, finite, repeatable set of execution failures, and each one has a specific countermeasure that you can rehearse until it becomes automatic. For a great many test-takers, mastering that set of countermeasures banks more points than learning any new content topic, because the points are already within reach. You can already do the problem. The only thing standing between you and the credit is a habit. This guide pairs the fifteen most common execution slips with a concrete behavioral cure for each, then shows the cure working inside fully solved problems, so that you leave not with a vague resolution to "be more careful" but with a checklist of trainable habits.
 

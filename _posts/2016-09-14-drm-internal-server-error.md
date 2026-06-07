@@ -5,7 +5,7 @@ date: 2016-09-14
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "Oracle Data Relationship Management is a highly robust tool by Oracle with a 99.99% of uptime month over month and a largely satisfied user base. However..."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 1
 author: "andrew-price"
 last_updated: 2026-04-01
@@ -35,5 +35,5 @@ Everything looked fine, all services are up, restarting the application from DRM
 
 If this did not resolve your issue, there's [another possible scenario here](http://www.insightcrunch.com/2016/09/drm-web-client-internal-server-error.html).
 
-![DRM Internal Server Error](/assets/images/blog/blog-07.webp)
+![DRM Internal Server Error](/assets/images/blog/blog-91.webp)
 DRM Internal Server Error

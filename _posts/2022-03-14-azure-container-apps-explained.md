@@ -6,7 +6,7 @@ date: 2022-03-14
 categories: ["Technology"]
 tags: ["Azure", "Container Apps", "Serverless", "Containers", "KEDA", "Architecture", "Cloud Computing"]
 excerpt: "Azure Container Apps explained: how the serverless container platform runs revisions, scales to zero with KEDA, and when to pick it over AKS or App Service."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 60
 author: "william-knight"
 last_updated: 2022-03-14
@@ -14,7 +14,7 @@ lang: en
 ---
 Azure Container Apps is the platform engineers reach for when they have a containerized workload, want Kubernetes-grade scaling and rolling traffic control, and have no appetite for operating a cluster. That sentence hides the single decision most teams get wrong. They see "containers" and "scaling" and "Kubernetes under the hood," and they provision an Azure Kubernetes Service cluster they will spend the next year patching, upgrading, and right-sizing, when the workload would have run on a managed service that bills to zero between requests and asks nothing of them operationally. The gap between using this platform well and misusing it is not a feature gap. It is a reasoning gap about what you are actually buying, what you are giving up, and which of the three Azure container hosts your workload truly needs.
 
-![Azure Container Apps serverless container platform architecture and revision model - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Azure Container Apps serverless container platform architecture and revision model - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This is a service deep dive, so the goal is not a quickstart. The goal is the mental model that lets you reason about the platform during a design review, predict its behavior under load, debug it when a deployment will not take traffic, and defend the choice against an architect who reflexively wants Kubernetes. By the end you should be able to explain what an environment, a revision, and a replica are and how they relate, why an app can cost nothing while idle and what that costs you in latency, how event-driven scaling reaches all the way down to zero, what the Dapr sidecar adds and when it earns its place, and the one rule that settles the question of when to walk past this service and stand up a real cluster instead.
 

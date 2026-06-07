@@ -6,7 +6,7 @@ date: 2019-04-22
 categories: ["Industry"]
 tags: ["israel", "india", "intelligence", "partnership", "mossad", "raw"]
 excerpt: "How Mossad and RAW built one of the world's most consequential counter-terror intelligence partnerships, what the two services share, and what it produced."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 70
 author: "nathan-cole"
 last_updated: 2019-04-22
@@ -16,7 +16,7 @@ There is a question that sits underneath almost every analysis of how a democrac
 
 <!--more-->
 
-![Israel India Intelligence Partnership](/assets/images/blog/blog-83.webp)
+![Israel India Intelligence Partnership](/assets/images/blog/blog-17.webp)
 
 The relationship is the bond between Israel's Mossad and India's Research and Analysis Wing. This piece sets out to answer a precise analytical question rather than to recite a list of arms deals. How deep does the Mossad-RAW partnership actually run, and what has it produced? Defense cooperation between Jerusalem and New Delhi is documented in budget lines, signed contracts, and ministerial photo opportunities. Intelligence cooperation is a harder object to study, because it is conducted by two services that share an unusual trait among the world's major agencies: both operate with minimal parliamentary oversight, neither is compelled to disclose its liaison relationships, and neither has any incentive to describe what it teaches a partner. So the honest approach is to build outward from what is verifiable, mark clearly where the evidence ends and inference begins, and resist the temptation to treat a plausible story as a proven one. The argument that follows is that the partnership is real, consequential, and structured across five distinct domains, and that its single most important export was never a drone or a rifle. It was the idea that a democracy could do this at all.
 

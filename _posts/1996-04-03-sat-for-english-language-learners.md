@@ -6,7 +6,7 @@ date: 1996-04-03
 categories: ["Industry"]
 tags: ["SAT", "English Language Learners", "ESL", "Reading", "Vocabulary"]
 excerpt: "SAT for English language learners: the hardest RW question types, leveraging strong math, building reading speed and vocabulary, and a realistic timeline."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "maria-santos"
 last_updated: 1996-04-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A student who arrived in the United States two years ago, or who is still living abroad and preparing from a country where English is the second or third language spoken at home, sits down for a practice section and watches the math half go smoothly. The equations behave the same way they did in the home country, the geometry transfers, the algebra is the algebra it always was. Then the Reading and Writing half arrives and the floor tilts. The passages are not impossibly hard in their ideas, yet a single unfamiliar word in a four-line excerpt swallows the whole question, an inference depends on a cultural reference nobody taught, and the clock runs out somewhere in the middle of a paragraph that a native classmate would have cleared in forty seconds. The gap between the two halves of the exam is not a gap in intelligence. It is a gap in one specific resource: fluent, fast, academic English under timed pressure. Naming that gap precisely, and refusing to treat it as a verdict on ability, is where a real plan for the non-native test-taker begins.
 
-![SAT for English language learners hardest Reading and Writing question types and a realistic timeline - Insight Crunch](/assets/images/blog/blog-80.webp)
+![SAT for English language learners hardest Reading and Writing question types and a realistic timeline - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 This guide does something the generic advice does not. Most pages aimed at the ESL test-taker say "read more" and "learn vocabulary" and stop there, which is roughly as useful as telling a runner to "go faster." What a non-native candidate needs instead is a map of exactly which Reading and Writing item types punish a language gap hardest, why each one punishes it, and the targeted fix for each, paired with an honest timeline that does not pretend the verbal half improves at the same speed a native speaker's does. That map is the core of this article. By the end you will be able to name the three language bottlenecks that cost the most points, leverage a strong quantitative half so it carries the composite while the verbal half catches up, build the kind of reading speed the academic passages actually demand, and set an expectation for how many months the climb realistically takes. You will also know where the real accommodations line sits, because the most common piece of misinformation aimed at this group concerns extra time, and getting it wrong wastes a registration cycle.
 

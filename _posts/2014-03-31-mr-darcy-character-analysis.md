@@ -6,7 +6,7 @@ date: 2014-03-31
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "mr-darcy", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Mr. Darcy is not a proud man reformed by love. He is a propertied gentleman who reassesses Elizabeth Bennet's class position without revising his values."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "megan-clark"
 last_updated: 2014-03-31
@@ -16,7 +16,7 @@ Fitzwilliam Darcy is not a romantic hero who learns to be less proud. He is a ma
 
 <!--more-->
 
-![Mr. Darcy Character Analysis - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Mr. Darcy Character Analysis - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 The namable claim this analysis advances is precise: Darcy does not learn that class is irrelevant. He learns that the Bennets were more compatible with his world than he had assumed at Meryton. His behavioral softening is real and documented across the text. His ideological revision is absent, and the absence is analytically significant. Separating what changes in Darcy from what remains fixed is the original move this analysis makes, and it produces a portrait more complex and more historically grounded than the romantic simplification that two centuries of popular reception have built around him. For readers working through the full architecture of Austen's marriage-market critique, our [comprehensive Pride and Prejudice analysis](https://insightcrunch.com/2014/03/21/complete-analysis-pride-and-prejudice/) provides the structural frame within which every character analysis operates.
 

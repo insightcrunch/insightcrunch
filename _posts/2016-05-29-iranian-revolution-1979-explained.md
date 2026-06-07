@@ -8,7 +8,7 @@ author: "diana-patel"
 excerpt: "The Iranian Revolution was not inevitably Islamic. It became so through Khomeini's calculated post-revolutionary consolidation against rival factions."
 categories: ["Leisure"]
 tags: ["iranian-revolution", "1979", "iran", "middle-east", "world-history"]
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 lang: en
 ---
@@ -16,7 +16,7 @@ The Iranian Revolution of 1979 was a multi-factional uprising that overthrew the
 
 <!--more-->
 
-![The Iranian Revolution of 1979 Explained - Insight Crunch](/assets/images/blog/blog-43.webp)
+![The Iranian Revolution of 1979 Explained - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 ## The Revolution That Was Not What It Became
 

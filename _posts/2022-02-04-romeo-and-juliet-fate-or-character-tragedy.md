@@ -6,7 +6,7 @@ date: 2022-02-04
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "fate", "free-will", "romeo-and-juliet-fate"]
 excerpt: "Romeo and Juliet calls its lovers star-crossed, yet nearly every death follows a human choice, which leaves the fate-versus-character question genuinely open."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2022-02-04
@@ -14,7 +14,7 @@ lang: en
 ---
 A chorus walks out before a single character speaks and gives the ending away. The two young people at the centre of the story will die, the audience learns in the first fourteen lines, and they will die because they are "star-crossed." The word does enormous work. It tells a Renaissance crowd that the heavens themselves have arranged this ruin, that the positions of the planets at birth have set two lives on a collision they cannot avoid. And then the drama proceeds to show almost nothing of the kind. What follows the prophecy is a sequence of ordinary human decisions: a father loses his temper, a friend draws a sword, a priest gambles on a sleeping potion, a servant rides too fast with the wrong news. Strip away the cosmic packaging and the catastrophe looks less like the work of the planets than the work of people.
 
-![Romeo and Juliet fate or character tragedy debate, the stars against the lovers' choices - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Romeo and Juliet fate or character tragedy debate, the stars against the lovers' choices - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 That gap between the announced cause and the dramatised cause is the single most interesting problem the tragedy hands its readers, and most discussions miss it entirely. The cliche of the doomed couple, written in the stars, has been repeated so often that it now stands in for analysis rather than prompting it. Read the script against itself, line by decision by line, and a different shape emerges. This article makes the case that Verona's catastrophe is not delivered by destiny and is not delivered by character flaw alone, but is overdetermined: the heavens are invoked as a frame, the people supply the mechanism, and the design deliberately keeps both explanations running at once so that neither can fully absorb the other. To show that, we will audit every death in the script and assign each one a cause, then test the result against four centuries of disagreement about what the word "star-crossed" was ever meant to claim.
 

@@ -6,7 +6,7 @@ date: 2007-04-02
 categories: ["Leisure"]
 tags: ["us-presidents", "myth-bust", "american-history", "historical-myths", "presidential-deaths", "tecumseh-curse"]
 excerpt: "Presidents elected in years ending in zero died in office from 1840 to 1960. The pattern is real and striking. The curse explanation, though, is false."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-06-05
@@ -16,7 +16,7 @@ At 2:57 in the afternoon on March 30, 1981, a thoracic surgeon named Benjamin Aa
 
 He did not. Ronald Reagan survived, and in surviving he broke something that had held for one hundred and forty years. The thing he broke has a name, two of them actually, and the names are where the trouble starts. People call it the Curse of Tippecanoe. They call it Tecumseh's Curse. Both names assert a cause: that a Shawnee leader or his brother, defeated by William Henry Harrison at a creek in Indiana Territory in 1811, laid a death sentence on Harrison and on every president elected at twenty-year intervals thereafter. The pattern those names describe is one of the most genuinely arresting coincidences in American political history. The explanation those names smuggle in is one of the most thoroughly unsupported.
 
-![Curse of Tippecanoe presidential death pattern 1840 to 1980 graded myth-bust - Insight Crunch](/assets/images/blog/blog-16.webp)
+![Curse of Tippecanoe presidential death pattern 1840 to 1980 graded myth-bust - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This is a myth-bust with a complication built into its core, and the complication is the reason the article exists. Most debunkings can afford to be dismissive because the thing being debunked is flimsy. The Lincoln-Kennedy coincidences collapse the moment anyone checks the dates, which is why the [point-by-point grading of the fifteen most-circulated Lincoln-Kennedy claims](https://insightcrunch.com/lincoln-kennedy-coincidences-graded) reads as a clean takedown. The Tippecanoe pattern does not collapse that way, because the pattern is real. Seven presidents elected in zero-ending years really did die in office across seven consecutive twenty-year cycles. No one fabricated the deaths. The fabrication, the part that fails every test of evidence and mechanism, is the word "curse." Pulling those two things apart, the true pattern and the false cause, is the whole job here.
 

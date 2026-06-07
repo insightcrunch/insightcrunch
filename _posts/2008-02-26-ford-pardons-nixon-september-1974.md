@@ -6,7 +6,7 @@ date: 2008-02-26
 categories: ["Leisure"]
 tags: ["gerald-ford", "decision-reconstruction", "us-presidents", "nixon-pardon", "watergate", "presidential-pardon"]
 excerpt: "Gerald Ford pardoned Richard Nixon thirty days into his presidency, knowing his approval rating would collapse from 71 to 49 percent in a single month."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2008-02-26
@@ -20,7 +20,7 @@ Thirty days earlier, on August 9, Ford had taken the oath of office in the East 
 
 He knew it would happen. Press secretary Jerald terHorst had warned him in writing on September 6 that the pardon would "destroy the honeymoon" and possibly "cripple the presidency before it begins." Chief of staff Alexander Haig agreed the political cost would be severe. Counsel Philip Buchen, the closest of Ford's friends, told him directly that the timing meant the public would suspect a deal. Henry Kissinger thought the move was right on the merits and lethal in the polling. Ford went forward anyway.
 
-![Gerald Ford pardons Richard Nixon September 8 1974 decision reconstruction - Insight Crunch](/assets/images/blog/blog-50.webp)
+![Gerald Ford pardons Richard Nixon September 8 1974 decision reconstruction - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 This article reconstructs how a president who had been in office for thirty days arrived at the decision to spend the political capital of an entire administration on a single proclamation. The reconstruction draws on Proclamation 4311 itself, Ford's September 8 address to the nation, Benton Becker's San Clemente negotiation notes from September 3 through 6, Ford's October 17 testimony before the House Judiciary Committee (the first sworn appearance by a sitting president before a congressional committee since Abraham Lincoln voluntarily met with the Committee on the Conduct of the War in 1862), Burdick v. United States as the legal foundation, and terHorst's resignation letter delivered the morning of the pardon. It engages four central historians, John Robert Greene, James Cannon, Yanek Mieczkowski, and Douglas Brinkley, who disagree on whether the pardon was statesmanship, miscalculation, or both, along with Thomas DeFrank's later off-the-record recordings that captured Ford's own retrospective view. The verdict offered here is that the pardon was the right institutional choice executed with politically catastrophic timing, and that Ford understood the trade and accepted it.
 

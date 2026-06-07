@@ -6,7 +6,7 @@ date: 2013-02-11
 categories: ["Industry"]
 tags: ["ziaur-rahman", "lashkar-e-taiba", "karachi", "targeted-killing", "shadow-war", "counter-terrorism"]
 excerpt: "Profile of Ziaur Rahman, the Lashkar-e-Taiba operative shot dead during his evening walk in Karachi, and the deep surveillance pattern his case reveals."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "gregory-marsh"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Ziaur Rahman was doing something ordinary when he died. He was taking an evening
 
 <!--more-->
 
-![Ziaur Rahman LeT Karachi Killing Analysis - Insight Crunch](/assets/images/blog/blog-65.webp)
+![Ziaur Rahman LeT Karachi Killing Analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 Rahman's death carried no banner headlines in the Indian press and barely registered beyond a few wire-service dispatches from Pakistani media. He was not Hafiz Saeed, the architect of the 2008 Mumbai attacks whose name alone could generate a hundred news cycles. He was not Shahid Latif, the Jaish-e-Mohammed operative whose role in the 2016 Pathankot airbase attack made his eventual killing a national story. Rahman occupied a position several rungs below those figures in the hierarchy of Pakistan-based terrorism, a mid-level operative whose primary value lay not in what he had personally planned but in what his death exposed about the campaign that killed him. The [shadow war against India's most wanted](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) has produced dozens of similar killings since 2022, each following a pattern so consistent that the consistency itself has become the evidence. Rahman's case is distinctive not because of who he was but because of how he died: targeted during his most predictable daily routine, by attackers who had clearly mapped that routine in advance, using a method that required patience, local knowledge, and the kind of sustained physical observation that transforms a name on an intelligence list into a body on a sidewalk.
 

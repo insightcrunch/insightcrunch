@@ -6,7 +6,7 @@ date: 2019-02-11
 categories: ["Industry"]
 tags: ["russia", "salisbury", "novichok", "poisoning", "extraterritorial"]
 excerpt: "How Russia's Novichok attack on Sergei Skripal in Salisbury exposed the risks of extraterritorial assassination and what its failures teach the world."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 71
 author: "william-knight"
 last_updated: 2019-02-11
@@ -16,7 +16,7 @@ On a mild Sunday afternoon in March 2018, a retired Russian intelligence officer
 
 <!--more-->
 
-![Russia Salisbury Poisonings Explained - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Russia Salisbury Poisonings Explained - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The Salisbury poisoning matters far beyond the specific tragedy of Sergei Skripal, Yulia Skripal, and Dawn Sturgess. It matters because it is the clearest modern case study of an extraterritorial state assassination going catastrophically wrong, and because every government that conducts operations on foreign soil now studies it as a negative template, a worked example of how not to reach across a border and end a life. For an analytical series concerned with India's shadow war against terror, the Salisbury case is not a digression. It is a control group. India's alleged campaign of targeted killings inside Pakistan, the pattern of motorcycle-borne shooters eliminating designated terrorists in Karachi, Lahore, Sialkot, and Rawalpindi, is conducted under a set of operational constraints that look, in retrospect, like a point-by-point inversion of the choices Russia made in Wiltshire. Russia chose a banned chemical weapon; the shadow war uses conventional pistols. Russia contaminated a city; the shadow war confines its violence to a single target on a single street. Russia left a forensic trail that led directly back to a state laboratory; the shadow war leaves the kind of evidence that produces an unsolved file. Russia triggered universal condemnation; the shadow war has produced diplomatic friction but no coalition. Understanding why Salisbury became a disaster is, in a real sense, understanding why India's quieter campaign has not.
 

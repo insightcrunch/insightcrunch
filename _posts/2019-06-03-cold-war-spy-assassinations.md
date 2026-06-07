@@ -6,7 +6,7 @@ date: 2019-06-03
 categories: ["Industry"]
 tags: ["cold-war", "spy", "assassinations", "ranked", "intelligence", "kgb", "cia"]
 excerpt: "A ranked analysis of twelve Cold War spy assassinations, from Trotsky in Mexico City to the Bulgarian umbrella murder, and what each killing still teaches."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2019-06-03
@@ -16,7 +16,7 @@ On an August afternoon in 1940, a man carrying a concealed mountaineering axe wa
 
 <!--more-->
 
-![Cold War spy assassinations ranked by lasting significance](/assets/images/blog/blog-09.webp)
+![Cold War spy assassinations ranked by lasting significance](/assets/images/blog/blog-57.webp)
 
 The decades that followed produced a grim catalogue. Soviet operatives sprayed cyanide into the faces of Ukrainian emigres on Munich pavements. Bulgarian intelligence officers, working with technical help from Moscow, fired a ricin pellet into a dissident broadcaster from a modified umbrella on Waterloo Bridge. American case officers shipped poisoned toothpaste to the Congo, recruited mafia bosses to murder a Caribbean head of government, and armed the gunmen who ambushed a Dominican dictator. Chilean secret police detonated a car bomb within sight of the White House. By a conservative count, the period between the late 1940s and the late 1980s saw dozens of state-sponsored killings carried out across four continents, and the true figure is almost certainly higher because the most successful operations leave the least evidence.
 

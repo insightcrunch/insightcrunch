@@ -6,7 +6,7 @@ date: 2007-03-11
 categories: ["Leisure"]
 tags: ["bill-clinton", "myth-bust", "us-presidents", "american-history", "newt-gingrich", "balanced-budget", "federal-deficit"]
 excerpt: "Clinton signed the 1997 Balanced Budget Act, but Newt Gingrich and a Republican Congress forced the terms behind the late-1990s federal budget surpluses."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 On the evening of January 27, 1998, Bill Clinton walked into the House chamber to deliver a State of the Union address that nobody in the room expected to be about arithmetic. Five days earlier the Monica Lewinsky story had broken, and the press gallery was packed with reporters who had come to watch a presidency possibly end. Instead they watched the president propose that the federal government do something it had not done in twenty-nine years. He asked Congress to take the coming surplus, the first since 1969, and reserve every dollar of it until the country had fixed Social Security. "Save Social Security first," he said, and the line drew a standing ovation from members who, a week earlier, had been measuring him for impeachment. The deficit that had defined American politics for two decades, the number that had sunk one president and elected another, was about to flip its sign.
 
-![Bill Clinton balanced budget myth Gingrich Republican Congress collaboration surpluses - Insight Crunch](/assets/images/blog/blog-44.webp)
+![Bill Clinton balanced budget myth Gingrich Republican Congress collaboration surpluses - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 The story Americans tell about that moment depends entirely on which party they vote for. Democrats remember a president who inherited a record deficit, raised taxes on the wealthy over unanimous Republican opposition, and handed his successor a fiscal house in order. Republicans remember a Congress that seized power in 1994, shut the government down twice to force spending discipline, and dragged a reluctant White House to the first balanced budget in a generation. Both versions are told as if the other party were a bystander. Both are wrong in the specific way that partisan memory is usually wrong: not by inventing facts, but by deleting the other side's facts. The balanced budgets of the late 1990s were not authored by one man or one party. They were the product of a rivalry so bitter that it twice closed the government, and so productive that it produced four consecutive surpluses. Grading the myth means refusing both flattering stories and reconstructing what the legislative record actually shows.
 

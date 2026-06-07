@@ -6,7 +6,7 @@ date: 2019-10-28
 categories: ["Industry"]
 tags: ["guardian", "investigation", "2024", "fallout", "india", "targeted-killings"]
 excerpt: "How The Guardian's April 2024 investigation into India's alleged role in targeted killings in Pakistan reshaped the global conversation about the shadow war."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 71
 author: "marcus-hall"
 last_updated: 2019-10-28
@@ -16,7 +16,7 @@ On the morning of April 4, 2024, a British newspaper did something that no Pakis
 
 <!--more-->
 
-![The Guardian investigation fallout and India's shadow war](/assets/images/blog/blog-63.webp)
+![The Guardian investigation fallout and India's shadow war](/assets/images/blog/blog-81.webp)
 
 This is the moment the secret war stopped being secret in the way that mattered. Secrecy in a campaign of this kind was never about whether journalists could guess what was happening. By early 2024 any competent observer of South Asian security could recite the pattern, and several had. Secrecy was about whether the guessing carried institutional weight, whether a finance ministry in a Western capital or a parliamentary committee or a wire service would treat the pattern as established fact rather than as a Pakistani talking point. The London paper supplied that weight. It converted suspicion into citation. Every subsequent article about the eliminations, every diplomatic démarche, every academic footnote could now point to a named publication rather than to a hunch. The reporting did not reveal the campaign. It legitimized the discussion of the campaign, and those are different things with very different consequences. The argument that runs through this account is uncomfortable for anyone who believes that sunlight reliably disinfects. Exposure of this campaign did not slow it. The tempo of eliminations in the two years after publication exceeded the tempo of the two years before it. Whether the investigation caused that acceleration or merely failed to prevent it is a question worth holding open, and this piece will hold it open. What is not in dispute is that the most consequential journalism ever produced about the shadow war was followed not by restraint but by a surge.
 

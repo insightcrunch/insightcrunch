@@ -6,7 +6,7 @@ date: 2018-04-07
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদার চলচ্চিত্রায়ন রায়ের গদ্যের যা ধরে রাখে এবং যা পর্দায় ছুঁতে পারে না, তার একটি বিস্তৃত বিশ্লেষণ"
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 105
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদার ছবিরা কী ধরে রাখে - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-68.webp)
+![ফেলুদার ছবিরা কী ধরে রাখে - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-41.webp)
 
 ## রায়ের নিজের ক্যামেরা: সোনার কেল্লার ভূমিকা
 

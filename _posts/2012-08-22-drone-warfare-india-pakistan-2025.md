@@ -6,7 +6,7 @@ date: 2012-08-22
 categories: ["Industry"]
 tags: ["drone-warfare", "india-pakistan", "2025", "military-technology", "nuclear", "conflict"]
 excerpt: "The first drone battle between two nuclear-armed nations during the India-Pakistan conflict of 2025, and what it revealed about the future of aerial war."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ On the night of May 7, 2025, the skies above the western India-Pakistan border b
 
 <!--more-->
 
-![Drone Warfare India Pakistan 2025 - Insight Crunch](/assets/images/blog/blog-54.webp)
+![Drone Warfare India Pakistan 2025 - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 The 2025 India-Pakistan conflict, triggered by the [Pahalgam tourist massacre on April 22](https://insightcrunch.com/2012/06/03/pahalgam-attack-2025-explained/) that killed twenty-six civilians and followed by India's retaliatory [Operation Sindoor](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/) on May 7, produced a concentrated burst of military activity that tested platforms, doctrines, and defense architectures in ways that peacetime exercises never could. Among all the dimensions of this brief but intense confrontation, the unmanned aerial vehicle exchanges stand out as the most technologically novel, the most densely documented, and the most consequential for the future of South Asian security. Previous India-Pakistan conflicts, from the 1965 war through the 1999 Kargil confrontation to the 2019 Balakot exchange, were defined by infantry, armor, artillery, and manned fighter aircraft. The May 2025 crisis added a fundamentally new domain. Unmanned platforms were not peripheral accessories to the fighting. They were central participants, used for offensive strikes, suppression of enemy air defenses, intelligence gathering, and area denial across a geographic expanse larger than any previous South Asian conflict. What happened over those four days carries implications that extend far beyond the subcontinent, because the systems that clashed above the Thar Desert and the Punjab plains are the same systems that arms manufacturers from Ankara to Beijing to Tel Aviv are selling to militaries worldwide. Every country evaluating its aerial defense architecture, its offensive strike capability, and its counter-unmanned-aircraft posture watched the May 2025 exchanges with intense professional interest. The lessons from those nights have already begun reshaping procurement decisions, training doctrines, and strategic calculations from the Persian Gulf to the South China Sea.
 

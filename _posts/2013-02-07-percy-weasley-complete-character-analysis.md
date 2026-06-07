@@ -6,7 +6,7 @@ date: 2013-02-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Percy Weasley", "Weasley Family", "Ambition"]
 excerpt: "Percy Weasley in Harry Potter is the brother who reveals what family costs, his ambition and estrangement read as a working-class wound, not a moral lapse."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2013-02-07
@@ -16,7 +16,7 @@ lang: en
 
 Every other child raised at the Burrow learns to love what the family already is. They absorb Arthur's gentle decency, Molly's fierce protectiveness, the cheerful refusal to be ashamed of secondhand robes and a kitchen table that seats nine only because the chairs do not match. They learn that poverty is survivable if you carry it with humour, and that the wizarding world's contempt for blood-traitors is a badge rather than a wound. The third boy alone declines this inheritance. He looks at the same kitchen and sees something his brothers and sister never name aloud: a ceiling. A limit on how far a person can rise while wearing the surname, the hand-me-downs, the cheerful marginality. And he decides, quietly and then catastrophically, that he wants something else.
 
-![Percy Weasley ambition and estrangement analysis across the Harry Potter books](/assets/images/blog/blog-36.webp)
+![Percy Weasley ambition and estrangement analysis across the Harry Potter books](/assets/images/blog/blog-27.webp)
 
 This is the wound that makes the third Weasley brother the most realistic figure in the entire saga, and the most consistently misread. Readers dismiss him as a pompous prig, a sycophant, a turncoat who chose status over blood. The films flatten him further into comic relief. Yet the estrangement that defines his arc is not a moral failure dressed up as ambition. It is the oldest and least discussable tension in any working-class family: the child who is clever enough to leave, and who reads the family's love as a kind of gravity pulling against the only escape available to him. Rowling, who knew poverty intimately before the series made her wealthy, wrote this wound with a precision she rarely brought to her villains. The pompous prefect is the one character in the books whose betrayal hurts because we recognise it.
 

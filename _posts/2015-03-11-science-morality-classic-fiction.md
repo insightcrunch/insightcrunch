@@ -9,14 +9,14 @@ excerpt: "Classic novels on science are not anti-science. They pose precise ques
 author: "victoria-stone"
 reading_time: 70
 last_updated: 2015-03-11
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-82.webp"
 lang: en
 ---
 The most persistent misreading in literary education is the claim that classic works about science oppose science itself. Teachers assign Mary Shelley's Frankenstein as a warning against playing God. Students summarize Aldous Huxley's Brave New World as a cautionary tale about going too far. Ray Bradbury's Fahrenheit 451 becomes a fable about the dangers of screens. Each of these readings flattens a sophisticated philosophical argument into a bumper sticker, and the flattening is so widespread that recovering what the texts actually say requires deliberate analytical work. The narratives do not oppose science. They pose precise, differentiated concerns about what happens when technological capability develops faster than the ethical and institutional frameworks needed to govern it, and the variety of concerns they pose is itself the analytical content a comparison produces.
 
 <!--more-->
 
-![Science and Morality in Classic Fiction - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Science and Morality in Classic Fiction - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 Six narratives, spanning nearly two centuries of publication, address the relationship between scientific capability and ethical responsibility in structurally different ways. Shelley's Frankenstein (1818) asks what obligations a creator owes to a created being. Huxley's Brave New World (1932) asks whether a society that has engineered away suffering has also engineered away everything that makes human life worth living. Bradbury's Fahrenheit 451 (1953) asks how technological development enables political control through entertainment rather than coercion. Robert Louis Stevenson's Strange Case of Dr Jekyll and Mr Hyde (1886) asks whether scientific access to the unconscious produces ethical consequences the experimenter cannot control. Kazuo Ishiguro's Never Let Me Go (2005) asks what ethical weight created beings carry when the society that made them refuses to look at them as persons. Margaret Atwood's Oryx and Crake (2003) asks what existential risk unchecked bioengineering produces when genius operates without institutional restraint. Reading these six works together does not produce a single reductive verdict. It produces a taxonomy of concerns, and the taxonomy is far more useful than the verdict.
 

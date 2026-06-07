@@ -6,7 +6,7 @@ date: 2023-05-29
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Workload Identity", "Entra ID", "Kubernetes", "Managed Identity", "Security"]
 excerpt: "AKS workload identity lets pods get Entra tokens without secrets. Set up the OIDC issuer, federated credential, and service account binding correctly."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 62
 author: "ryan-walsh"
 last_updated: 2023-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 A pod running in Azure Kubernetes Service needs to read a secret from Key Vault, write a blob to Storage, or call a database, and it needs to prove who it is to do any of that. For years the answer involved a connection string stuffed into an environment variable, a client secret baked into a Kubernetes Secret object, or the brittle and now deprecated AAD Pod Identity that intercepted the instance metadata endpoint. AKS workload identity replaces all of that with a federation model: a Kubernetes service account is federated to a Microsoft Entra identity through the cluster OIDC issuer, and a pod that uses that service account receives short-lived Entra tokens with no stored credential anywhere. Configure it correctly and your workloads authenticate to Azure resources the same way a managed identity on a virtual machine does, except the trust flows through Kubernetes rather than through the host. Configure it wrong and the symptom is almost always the same: the pod starts, the SDK tries to acquire a token, and the call fails with an authorization or federation error that sends engineers chasing code bugs that do not exist.
 
-![Set Up Workload Identity in AKS](/assets/images/blog/blog-89.webp)
+![Set Up Workload Identity in AKS](/assets/images/blog/blog-23.webp)
 
 The correct configuration buys you three concrete things. First, no secret lives in the cluster, in source control, or in a pipeline variable, which removes an entire category of leak and rotation work. Second, the token a pod receives is short-lived and scoped, so a compromised pod yields a credential that expires in minutes rather than a static key that an attacker keeps. Third, the access the workload holds is governed by Azure role-based access control on the target resource, so you reason about permissions in exactly the same vocabulary you use for every other Azure principal. What breaks when the configuration is wrong is rarely subtle once you know where to look, but it is maddening when you do not: a federated credential whose subject does not match the service account, an OIDC issuer that was never enabled on the cluster, a pod that is missing the label that injects the token, or an identity that exists and federates correctly but was never granted a role on the thing it is trying to reach. Each of those produces a token failure, and each has a precise setup step that fixes it.
 

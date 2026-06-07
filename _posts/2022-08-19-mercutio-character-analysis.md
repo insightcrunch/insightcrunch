@@ -6,7 +6,7 @@ date: 2022-08-19
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "mercutio", "joseph-porter", "mercutio-analysis"]
 excerpt: "Mercutio dominates every scene he is in with wit and danger, so vivid that Shakespeare must kill him at the midpoint before he overruns the whole tragedy."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 65
 author: "amanda-ross"
 last_updated: 2022-08-19
@@ -14,7 +14,7 @@ lang: en
 ---
 He has roughly three hundred lines, dies at the structural midpoint of a five-act play, and never once appears in the same room as the title heroine. By any accounting of stage time he is a supporting part. Yet ask a roomful of readers which figure in this tragedy crackles hardest, talks fastest, and lingers longest after the curtain, and a surprising number will name the man who is dead by the end of Act 3. Mercutio is the friend who steals the play, and the theft is so complete that the playwright seems to have understood the danger and acted on it.
 
-![Mercutio character analysis Romeo and Juliet Queen Mab duel - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Mercutio character analysis Romeo and Juliet Queen Mab duel - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 The standard account files him under comic relief, the witty sidekick who lightens the mood before the heavy business of love and death. That account is not wrong so much as fatally incomplete. It misses what makes him combustible: that his wit is a weapon, that his bawdy is a worldview, and that his death is not a sad accident in an otherwise romantic story but the precise hinge on which the entire design turns from one genre into another. To read him only as comic relief is to mistake the fuse for the firework. This study argues something sharper. Mercutio is the play's most electric counter-voice, an anti-romantic intelligence dropped into a romance, and the tragedy cannot survive his presence because he refuses, line by line, to take its central premise seriously. Shakespeare builds a figure so alive that the love plot can only proceed over his corpse.
 

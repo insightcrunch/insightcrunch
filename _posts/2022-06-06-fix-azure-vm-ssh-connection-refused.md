@@ -6,7 +6,7 @@ date: 2022-06-06
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "SSH", "Troubleshooting", "Networking", "Linux"]
 excerpt: "Azure VM SSH connection refused, timed out, or denied? Read each error string, map it to the real cause, and recover access without rebuilding the machine."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 59
 author: "abigail-cooper"
 last_updated: 2022-06-06
@@ -16,7 +16,7 @@ When an Azure VM SSH connection refused message lands in your terminal at the wo
 
 This article treats the SSH error string as the entry point to a directed diagnosis rather than a generic "VM is unreachable" panic. You will learn to decode each message into the layer it implicates, confirm which specific cause is yours with a command that proves it, apply the matching fix, and recover access through the serial console or the VMAccess extension when you cannot get a shell at all. The recovery paths matter because the most common mistake after misreading the error is reaching for a redeploy, which often wipes the evidence and, on a VM with an ephemeral or improperly backed disk, can lose data outright. The goal is to get you back into the machine, understand why you were locked out, and leave you with the prevention that stops it from happening again.
 
-![Decoding Azure VM SSH connection refused versus timed out and permission denied errors - Insight Crunch](/assets/images/blog/blog-54.webp)
+![Decoding Azure VM SSH connection refused versus timed out and permission denied errors - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 ## Read the SSH Error String Before You Change Anything
 

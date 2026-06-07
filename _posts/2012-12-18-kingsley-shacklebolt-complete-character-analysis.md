@@ -6,7 +6,7 @@ date: 2012-12-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Order of the Phoenix", "Ministry of Magic", "Aurors", "Wizarding Politics"]
 excerpt: "Kingsley Shacklebolt in Harry Potter is the anti-Fudge: a calm senior Auror whose lynx Patronus and rise to Minister redefine quiet political authority."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 57
 author: "elena-wright"
 last_updated: 2012-12-18
@@ -16,7 +16,7 @@ lang: en
 
 There is a particular kind of authority that does not announce itself. It enters a room without changing the temperature, sits in the corner, listens for an hour, and then says one sentence that reorganises everyone else's understanding of the problem on the table. Kingsley Shacklebolt is the only character in the seven books who consistently embodies this kind of authority, and it is no accident that the wizarding world ends up handing him the highest office it has. Rowling spends five books building, with extraordinary patience, a portrait of what competent and principled leadership actually looks like, and then she lets the reader almost miss it.
 
-![Kingsley Shacklebolt character analysis in Harry Potter series](/assets/images/blog/blog-37.webp)
+![Kingsley Shacklebolt character analysis in Harry Potter series](/assets/images/blog/blog-40.webp)
 
 The temptation, with a character this composed, is to treat him as a placeholder. The Order needed a senior Auror; Rowling supplied a senior Auror. The post-war government needed a credible Minister; Rowling supplied a credible Minister. Read that way, Kingsley is the structural piece that makes the political plot work, and nothing more. The reading is wrong, but its wrongness reveals something about how readers process quiet competence: as background, as scenery, as the absence of trouble rather than the presence of skill. Loud incompetence registers. Quiet competence vanishes into the wallpaper. The whole series is, among many other things, a long argument against that misreading, and Kingsley is the exhibit Rowling presents most patiently.
 

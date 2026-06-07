@@ -6,7 +6,7 @@ date: 2008-11-08
 categories: ["Industry"]
 tags: ["AP Exams", "Study Guide", "Exam Strategy", "College Admissions", "STEM", "Humanities"]
 excerpt: "AP exams reward strategy over raw effort. This complete guide maps the program, the subjects, the scoring, and how to plan a four-year path that pays off."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
 author: "patrick-dunn"
 last_updated: 2008-11-08
@@ -14,7 +14,7 @@ lang: en
 ---
 The gap between a student who treats AP exams as a pile of hard classes to survive and one who treats them as a planned system is enormous, and it shows up in transcripts, in admissions files, and in the tuition bills that arrive four years later. Two students can sit the same number of Advanced Placement courses, log the same hours, and walk away with wildly different returns, because one chose subjects that compound and the other collected whatever fit the schedule. This guide is built to put you on the first path. It is the map of the whole program: what the AP system is, how the subjects group together, how the scoring works at a high level, how registration and the May testing rhythm operate, and how every piece fits a four-year plan instead of a frantic senior-year scramble.
 
-![AP exams complete guide to format, scoring, registration, and four-year planning - Insight Crunch](/assets/images/blog/blog-11.webp)
+![AP exams complete guide to format, scoring, registration, and four-year planning - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 Think of this article as the hub of a much larger wheel. Every other guide in the InsightCrunch AP series, whether it dissects a single Calculus free-response archetype or ranks which classes the most selective colleges expect, plugs into the framework laid out here. Read this first, and the rest of the series stops feeling like a stack of disconnected tips and starts reading like a coherent strategy you can execute from ninth grade through the spring of senior year.
 

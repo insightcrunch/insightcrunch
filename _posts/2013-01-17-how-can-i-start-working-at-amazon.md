@@ -5,7 +5,7 @@ date: 2013-01-17
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the major players in a variety of technology and industrial fields today. It is important for aspiring candidates who want to be part of..."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 10
 author: "thomas-reid"
 last_updated: 2026-04-01
@@ -19,7 +19,7 @@ Amazon has a wide variety of leadership principles that it focuses on and expect
 
 Read more: [What is Amazon acceptance rate? »](https://insightcrunch.com/2013/03/14/what-is-amazon-acceptance-rate/)
 
-![How can I start working at Amazon](/assets/images/blog/blog-25.webp)
+![How can I start working at Amazon](/assets/images/blog/blog-73.webp)
 How can I start working at Amazon
 
 ## Amazon Interview Tips

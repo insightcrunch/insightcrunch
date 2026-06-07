@@ -6,7 +6,7 @@ date: 2015-12-31
 categories: ["Leisure"]
 tags: ["benito-mussolini", "italian-fascism", "march-on-rome", "interwar-italy", "fascism-history", "modern-history"]
 excerpt: "Mussolini's 1922 rise to power was never predetermined. King Victor Emmanuel III's critical refusal to authorize martial law enabled the March on Rome."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2015-12-31
@@ -16,7 +16,7 @@ On the night of October 27, 1922, Italian Prime Minister Luigi Facta placed a de
 
 <!--more-->
 
-![Mussolini and the Rise of Fascism in Italy - Insight Crunch](/assets/images/blog/blog-66.webp)
+![Mussolini and the Rise of Fascism in Italy - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The conventional account of Mussolini's rise treats it as the inevitable consequence of postwar Italian crisis: a nation battered by war, ravaged by inflation, frightened by socialist agitation, and ripe for a strongman. That reading is comforting because it suggests that fascism requires extraordinary conditions and that ordinary democratic societies are safe from it. The scholarship of R.J.B. Bosworth, Renzo De Felice, and Adrian Lyttelton tells a different and more unsettling story. Italian Fascism was not the inevitable product of structural crisis. It was the product of specific decisions made by specific people at specific crucial moments, and the most consequential of those decisions was made not by Mussolini himself but by the conservative elites who believed they could use him and control him. They were wrong, and the consequences of their miscalculation shaped the twentieth century. Understanding how Mussolini came to power requires reconstructing those decisions in the order they were actually made, without the false clarity that hindsight provides. The question is not simply what happened but what could have happened differently, and why the people who had the authority to prevent fascism chose not to exercise it.
 

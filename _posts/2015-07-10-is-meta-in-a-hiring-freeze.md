@@ -5,7 +5,7 @@ date: 2015-07-10
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is the parent company of Facebook. There has been changes in the hiring plans of Meta. The hiring target has been reduced by a staggering 30%. CEO..."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 5
 author: "ian-fletcher"
 last_updated: 2026-04-01
@@ -25,7 +25,7 @@ The performance management system in Meta is aimed at identifying employees who 
 
 Keep reading: [Black Panther: Wakanda Forever »](https://insightcrunch.com/2022/09/25/black-panther-wakanda-forever/)
 
-![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-44.webp)
+![Meta Layoffs and Hiring Freeze](/assets/images/blog/blog-29.webp)
 Meta Layoffs and Hiring Freeze
 
 ## Meta Revenue Trouble

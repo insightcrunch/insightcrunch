@@ -6,7 +6,7 @@ date: 2019-04-29
 categories: ["Industry"]
 tags: ["rise-and-kill-first", "israel", "doctrine", "targeted-killing", "india"]
 excerpt: "Israel's Rise and Kill First doctrine systematized targeted killing, and India's shadow war now follows the same logic without the public acknowledgment."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 71
 author: "benjamin-scott"
 last_updated: 2019-04-29
@@ -16,7 +16,7 @@ When Ronen Bergman published his eight-year investigation into Israel's intellig
 
 <!--more-->
 
-![Rise and Kill First Doctrine Explained - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Rise and Kill First Doctrine Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 India has never published anything resembling Bergman's account. There is no Indian equivalent of the hundreds of on-the-record interviews with serving operatives, no Indian Supreme Court ruling that adjudicates the legality of a targeted strike, no parliamentary committee transcript debating whether a particular elimination served the national interest. What India has instead is a pattern, reconstructed by journalists and Pakistani investigators rather than confessed by the Indian state, of close-range shootings of wanted men in Pakistani cities that began appearing with regularity after 2019. The Indian government calls every report of this pattern false and malicious propaganda. Israel, by contrast, has spent decades arguing in its own courts and to its own public that targeted killing is a lawful instrument of self-defense, losing some of those arguments and winning others, but never pretending the practice did not exist. The comparison between the two doctrines is therefore a comparison between a thing that has been written down and a thing that has been denied, and the most important finding of the comparison is what that single difference costs and buys.
 

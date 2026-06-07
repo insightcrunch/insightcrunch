@@ -6,7 +6,7 @@ date: 2007-02-11
 categories: ["Leisure"]
 tags: ["theodore-roosevelt", "close-read", "us-presidents", "new-nationalism", "progressive-era", "1912-split"]
 excerpt: "TR gave the New Nationalism speech at John Brown's old Kansas battleground. It split the GOP in 1912 and seeded the income tax and the New Deal program."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 A crowd of roughly thirty thousand people stood on the open Kansas prairie outside the small town of Osawatomie on the afternoon of August 31, 1910, pressed close around a wooden platform that had been thrown up for the dedication of a memorial park. Many had traveled by wagon and rail through dust and heat to hear a private citizen who held no office and commanded no army. The speaker climbed onto a kitchen table because the platform could not lift him high enough above the throng. He was fifty-one years old, eighteen months removed from the most powerful job on earth, sunburned from a year of shooting lions in British East Africa, and visibly impatient with the man he had personally chosen to succeed him. What Theodore Roosevelt said from that kitchen table over the next ninety minutes would not merely criticize his successor. It would propose a wholesale reconception of what the national government was for, attach that reconception to the moral memory of the men who had died to end slavery, and set in motion a party rupture that handed the White House to the Democrats two years later. The address became known as the New Nationalism speech, and it is fair to call it the single most consequential piece of political rhetoric ever delivered by an American who was not at that moment holding office.
 
-![Theodore Roosevelt New Nationalism speech 1910 Osawatomie progressive manifesto close read - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Theodore Roosevelt New Nationalism speech 1910 Osawatomie progressive manifesto close read - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 The speech matters because of what it asked Americans to accept. Roosevelt told a country still half-committed to the idea that government should leave property and contract largely alone that the public had a standing right to regulate private wealth whenever the general welfare required it. He proposed a federal income tax and a federal inheritance tax at a moment when the Supreme Court had ruled the first unconstitutional. He called for the abolition of child labor, for workmen's compensation, for the direct primary, and for mechanisms of direct democracy that would let ordinary voters bypass the legislatures that corporations had purchased. He framed all of it not as a grab bag of reforms but as a coherent doctrine: that the nation, acting through a strong executive, was the proper instrument for disciplining the concentrated economic power that the previous half century of industrial growth had produced. Read carefully, the Osawatomie address is less a campaign speech than a blueprint. Almost every major item in it became law within three decades. That is the argument of this close read, and it is the reason the speech deserves to be treated as a foundational text rather than a footnote in the story of a man who lost an election.
 

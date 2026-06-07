@@ -6,7 +6,7 @@ date: 2017-03-20
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Hiring Process", "Selection Pipeline"]
 excerpt: "TCS NQT hiring process after qualifying: interview stages, HR round expectations, offer letter timeline, and what happens between your NQT score and..."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 45
 author: "arjun-nair"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The TCS NQT hiring pipeline is one of the most consequential selection processes in Indian engineering employment, touching hundreds of thousands of candidates every year. Yet despite its scale and importance, the specific mechanics of how the pipeline works - exactly what happens at each stage, what determines who advances and who does not, how the Ninja and Digital pathways diverge and converge, and what the timeline looks like from first registration to final offer - remain poorly understood by most candidates navigating it.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-55.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-49.webp)
 *The complete NQT hiring pipeline guide - every stage from registration to offer letter explained, with what to expect, what to prepare, and what determines your outcome at each transition*
 
 This guide maps the TCS NQT hiring process comprehensively and specifically. Unlike general hiring process overviews, it focuses exclusively on the NQT pipeline - the specific sequence of events, decisions, and preparations that begin when a candidate registers for TCS NQT and end when an offer letter arrives (or does not). It covers the quarterly NQT schedule, the registration mechanics, the exam structure, the results notification system, the Ninja and Digital interview pathways, the plagiarism policy and its consequences, the specific interview stages, the timeline from test to offer, and what to do at each point to maximize your chances of advancing.

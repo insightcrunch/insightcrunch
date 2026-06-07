@@ -6,7 +6,7 @@ date: 2012-11-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Gilderoy Lockhart", "Chamber of Secrets", "Memory Charm", "Celebrity Culture"]
 excerpt: "Complete literary analysis of Gilderoy Lockhart in Harry Potter - vanity, Memory Charm fraud, the fame machine, and the comedy that conceals real cruelty."
-image: "/assets/images/blog/blog-74.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 66
 author: "olivia-grant"
 last_updated: 2012-11-18
@@ -16,7 +16,7 @@ lang: en
 
 Gilderoy Lockhart is the only Death Eater the books do not call a Death Eater. He has never tortured anyone in a graveyard. He has never carried a Dark Mark. He has not killed, has not raided, has not stood beside Voldemort in any forest. And yet the man who taught Defence Against the Dark Arts during the year of the Chamber of Secrets has, by his own delighted confession in the bowels of Hogwarts, ruined more lives than most of the lesser Death Eaters combined. The wizards and witches whose accomplishments he stole, whose memories he erased, whose careers he wore like a borrowed cloak, are scattered across the wizarding world without the ability to recall their own bravery. The villain of the second book is Tom Riddle's diary. The villain hiding in plain sight, signing autographs in the staff room and posing for the *Daily Prophet*, is Gilderoy Lockhart.
 
-![Gilderoy Lockhart character analysis in Harry Potter series](/assets/images/blog/blog-74.webp)
+![Gilderoy Lockhart character analysis in Harry Potter series](/assets/images/blog/blog-56.webp)
 
 Most analyses of the second novel treat Lockhart as comic relief. He is the buffoon in turquoise robes, the fraud the children see through before the adults do, the entertaining incompetent whose name is half a joke before he has spoken a line. Rowling makes him laughable because his laughability is the camouflage. Every page that invites the reader to giggle at Lockhart's preening is also, on a second reading, a page that documents the wizarding world's complicity in producing the man. He sells books. He wins awards. He is the keynote speaker at openings of memorial gardens. The wizarding economy has a Lockhart industry, and the industry exists because the public wants it to exist. The series's real argument about him is not that he is a fraud. It is that fraudulence on his scale is impossible without an audience that prefers the fraud to the truth.
 

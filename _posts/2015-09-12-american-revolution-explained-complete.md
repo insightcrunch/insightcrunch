@@ -6,7 +6,7 @@ date: 2015-09-12
 categories: ["Leisure"]
 tags: ["american-revolution", "declaration-of-independence", "american-founding", "colonial-america", "revolutionary-war", "medieval-history"]
 excerpt: "The American Revolution was a colonial elite's break with Britain, a popular Whig mobilization, and the strategic choices of enslaved and indigenous people."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2015-09-12
@@ -16,7 +16,7 @@ In the summer of 1776, roughly two and a half million people lived in Britain's 
 
 <!--more-->
 
-![The American Revolution Explained - Insight Crunch](/assets/images/blog/blog-83.webp)
+![The American Revolution Explained - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 This article makes a specific argument. The American Revolution was not primarily a tax revolt, and it was not primarily an uprising of an oppressed people against a cruel master. It was something more complicated and more interesting. Rather, it was a decision by a colonial elite to break with Britain rather than accept a reorganized empire, fused with a genuine popular movement organized around a coherent political ideology, fused in turn with the independent strategic calculations of enslaved people and indigenous nations who were not consulted by either side but who acted with clear purpose anyway. The patriotic consensus version of the Revolution flattens all of these participants into a unity they never possessed. Half a century of scholarship has steadily dismantled that flattening, and this article follows where the scholarship leads.
 

@@ -6,7 +6,7 @@ date: 2014-03-26
 categories: ["Leisure"]
 tags: ["pride-and-prejudice", "jane-austen", "elizabeth-bennet", "character-analysis", "regency-heroine", "classic-literature"]
 excerpt: "Elizabeth Bennet is not a timeless feminist. She is a clear-eyed navigator of a specific 1813 marriage market whose high-risk refusals gambled everything."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "emily-reed"
 last_updated: 2014-03-26
@@ -16,7 +16,7 @@ Elizabeth Bennet is not ahead of her time. She is a woman of her time who happen
 
 <!--more-->
 
-![Elizabeth Bennet Character Analysis - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Elizabeth Bennet Character Analysis - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The scholarly tradition has been moving toward this reading for decades. Claudia Johnson's work on Austen's political dimensions, Emily Auerbach's excavation of Austen's heroines beneath the saccharine popular reception, and Susan Morgan's treatment of Austen's epistemology all point toward an Elizabeth who is brilliant not because she transcends her world but because she reads it with unusual precision. She forms hypotheses about people, tests those hypotheses against evidence, and revises her conclusions when the evidence demands it. Austen gives the reader a protagonist who models a way of thinking, not merely a way of feeling, and that epistemic dimension is what separates Elizabeth from both her competitors in the text and her competitors in literary history. To understand why she remains the most beloved heroine in English-language fiction, one must first understand the system she was navigating, because the system is what gives her choices their weight.
 

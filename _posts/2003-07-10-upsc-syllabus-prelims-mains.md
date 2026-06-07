@@ -6,7 +6,7 @@ date: 2003-07-10
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Syllabus", "IAS Syllabus", "UPSC Prelims Syllabus", "UPSC Mains Syllabus"]
 excerpt: "Decode the full UPSC syllabus topic by topic with PYQ links, recommended sources, and time estimates."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2026-04-13
@@ -20,7 +20,7 @@ The purpose of this article is to prevent that lostness. It takes every line of 
 
 Before proceeding, understand that this guide is most useful read alongside the [UPSC exam pattern guide](/2003/07/15/upsc-exam-pattern-2026/), which explains what each paper tests and how marks are distributed. The syllabus tells you what; the exam pattern tells you how and how many marks. Together they give you the complete picture. For where you are in your overall preparation journey, the [UPSC preparation from zero guide](/2003/07/06/upsc-preparation-from-zero/) provides the week-by-week execution plan that builds on this syllabus foundation.
 
-![UPSC Syllabus Decoded Prelims Mains - Insight Crunch](/assets/images/blog/blog-21.webp)
+![UPSC Syllabus Decoded Prelims Mains - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 ## How to Read the UPSC Syllabus: The Meta-Skill
 

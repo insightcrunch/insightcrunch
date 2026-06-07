@@ -6,7 +6,7 @@ date: 2018-05-22
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "সত্যজিৎ রায় কীভাবে পশ্চিমা গোয়েন্দা-সাহিত্যের কাঠামোকে বাঙালি সংস্কৃতির নিজস্ব ভাষায় রূপান্তরিত করেছিলেন"
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 138
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![গোয়েন্দা ধারার বাঙালিকরণ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-16.webp)
+![গোয়েন্দা ধারার বাঙালিকরণ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-19.webp)
 
 ## ঔপনিবেশিক ছাঁচ: পশ্চিমা গোয়েন্দা-সাহিত্যের কাঠামো
 

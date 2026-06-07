@@ -5,7 +5,7 @@ date: 2023-02-16
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "Just as Hemingway's characters embark on quests of self-discovery and growth, your journey to becoming a Tableau certified professional is a testament to..."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 3
 author: "maya-chen"
 last_updated: 2026-04-02
@@ -15,7 +15,7 @@ Just as Hemingway's characters embark on quests of self-discovery and growth, yo
 
 Read more: [Cracking the Code: Strategies for Passing Tableau Certification »](https://insightcrunch.com/2023/01/16/cracking-the-code-strategies-for-passing-tableau-certification/)
 
-![From Novice to Certified Pro: Your Tableau Journey](/assets/images/blog/blog-59.webp)
+![From Novice to Certified Pro: Your Tableau Journey](/assets/images/blog/blog-56.webp)
 From Novice to Certified Pro: Your Tableau Journey
 
 ## **1. Begin with Curiosity**

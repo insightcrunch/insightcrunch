@@ -6,7 +6,7 @@ date: 2016-07-13
 categories: ["Leisure"]
 tags: ["revolutions", "world-history", "historical-comparison", "french-revolution", "american-revolution"]
 excerpt: "Great revolutions follow structural patterns identifiable across centuries. Comparing seven cases reveals which succeeded, which consumed themselves, and why."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2016-07-13
@@ -16,7 +16,7 @@ Revolutions are not random eruptions of popular anger. They follow identifiable 
 
 <!--more-->
 
-![Greatest Revolutions in History Compared - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Greatest Revolutions in History Compared - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 The conventional approach to teaching revolutions treats each one as a self-contained national narrative. Students learn the American Revolution as an American story, the French Revolution as a French story, the Russian Revolution as a Russian story, and the Haitian Revolution often not at all. This approach produces citizens who know revolutionary chronologies but cannot recognize revolutionary dynamics. When Brinton mapped the phase-structure across four cases, he was not arguing that all revolutions are the same. He was arguing that they share a skeletal logic that chronological narrative alone cannot reveal. The fiscal crisis that preceded the American Declaration of Independence in 1776 operated through the same structural mechanism as the fiscal crisis that preceded the summoning of the Estates-General in 1789, even though the specific political content differed enormously. Understanding the mechanism does not erase the differences; it clarifies them. The comparison that follows holds seven revolutions in the same analytical frame simultaneously, tracking how each moved through (or deviated from) the Brinton phases, how structural factors determined outcomes, and where the comparative framework itself fails to capture what made each revolution unique. Great revolutions follow specific structural patterns. Comparison reveals which succeed, which devour themselves, and why.
 

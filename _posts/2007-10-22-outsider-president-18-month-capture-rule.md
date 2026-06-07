@@ -6,7 +6,7 @@ date: 2007-10-22
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "institutional-analysis", "executive-learning", "administrative-state"]
 excerpt: "Eight outsider presidents campaigned against Washington across two centuries. Each one was absorbed within roughly 18 months. The pattern stays clear."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 On September 3, 1982, Ronald Reagan signed the Tax Equity and Fiscal Responsibility Act, the largest peacetime tax increase in American history to that point. The signing was muted. The man who had told the nation in January 1981 that government was not the solution but the problem itself had spent the summer working through Senate Finance Chairman Bob Dole and the standard committee process to assemble a $98 billion revenue package. Howard Phillips of the Conservative Caucus called it a betrayal. The Heritage Foundation circulated a memo cataloguing what it labeled the policy reversals of 1982. Reagan signed anyway, then added an increase in gasoline taxes three months later, then signed the Social Security rescue package in April 1983 that raised payroll levies and lifted the retirement age.
 
-![18-Month Capture Rule Outsider Presidents Pattern Across 200 Years - Insight Crunch](/assets/images/blog/blog-65.webp)
+![18-Month Capture Rule Outsider Presidents Pattern Across 200 Years - Insight Crunch](/assets/images/blog/blog-68.webp)
 
 The interval between January 1981 and September 1982 is roughly roughly twenty weeks past the first year. The interval is not coincidental. Every president who campaigned against the capital as an insurgent has converged on capital-style governance within a similar window. Jefferson did it by 1803. Jackson by 1831. Lincoln by October 1862. Wilson by 1914 and 1915. Franklin Roosevelt within his first ninety days. Jimmy The Georgia Democrat by the summer of 1978. Bill Clinton by August 1993 and again after the 1994 midterm collapse. The phenomenon repeats across two centuries, eight presidencies, every major partisan alignment, and ideological orientations ranging from Jeffersonian agrarianism to Clintonian neoliberal triangulation. Name it the year-and-a-half capture rule: every challenger candidate gets absorbed into the structural logic of the presidency, and the assimilation happens on roughly the same clock.
 

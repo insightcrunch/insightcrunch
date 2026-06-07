@@ -6,7 +6,7 @@ date: 2026-04-21
 categories: ["Leisure"]
 tags: ["dhurandhar-2", "box-office", "bollywood", "collection-analysis", "ranveer-singh", "blockbuster"]
 excerpt: "Complete box office analysis of Dhurandhar The Revenge - the fastest 500 crore and a record-shattering run."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-30
@@ -22,7 +22,7 @@ The cultural anticipation for the sequel had reached a level that transcended th
 
 <!--more-->
 
-![Dhurandhar The Revenge Box Office Analysis - Insight Crunch](/assets/images/blog/blog-58.webp)
+![Dhurandhar The Revenge Box Office Analysis - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The commercial story of Dhurandhar: The Revenge is, in many respects, the story of what happens when exceptional content meets exceptional anticipation. Part 1 had spent its theatrical run building an audience of extraordinary loyalty and enthusiasm, an audience that did not merely watch the first film but internalized it, discussed it, debated its moral positions, analyzed its characters, and carried the emotional weight of its unresolved narrative threads into the months of waiting that separated the two releases. When The Revenge arrived, this audience did not trickle into theaters over a period of weeks, as the first installment's audience had done; it surged, producing opening numbers that reflected not just the demand for the sequel but the accumulated pressure of months of anticipation released in a single weekend. The result was a commercial performance of historic proportions that comprehensively redefined what a Bollywood opening looks like and that established entirely new benchmarks against which every subsequent Hindi release will inevitably and perhaps uncomfortably be measured.
 

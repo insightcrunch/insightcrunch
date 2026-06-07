@@ -6,7 +6,7 @@ date: 2022-08-29
 categories: ["Technology"]
 tags: ["Azure", "Azure SQL Database", "DTU", "Troubleshooting", "Performance", "Error 40501"]
 excerpt: "Azure SQL DTU throttling at 100 percent rarely needs a bigger tier. Confirm whether CPU, data IO, or log IO is the ceiling first, then tune the cause."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "ryan-walsh"
 last_updated: 2022-08-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Your dashboard shows DTU consumption flat against the ceiling, queries that used to return in milliseconds now hang for seconds, and somewhere a client logs error 40501 with the message that the service is busy. The reflex is almost universal: open the portal, slide the tier up a notch, watch the alert clear, and move on. That reflex is the single most expensive habit in Azure SQL operations, because Azure SQL DTU throttling at 100 percent is a governed behavior, not an outage, and the governor is telling you that one specific resource ran out. Until you know which resource, a bigger tier is a guess you pay for monthly.
 
-![Diagnosing Azure SQL DTU throttling and error 40501 across CPU, data IO, and log IO - Insight Crunch](/assets/images/blog/blog-45.webp)
+![Diagnosing Azure SQL DTU throttling and error 40501 across CPU, data IO, and log IO - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 This article exists to replace the reflex with a measurement. A Database Transaction Unit, the DTU, is a blended budget that bundles compute, reads, writes, and transaction log throughput into one number, and the resource governor enforces that budget by slowing or rejecting work the moment any one of its underlying dimensions hits its individual cap. The headline DTU percentage is an average across those dimensions, so it can read ninety or one hundred while the real constraint is a single starved component the average hides. The work ahead is to pull the dimensions apart, name the one that saturated, and route to the fix that addresses it: tune the workload when a query is the cause, raise the tier only when the workload is genuinely larger than the budget. That ordering is the whole discipline.
 

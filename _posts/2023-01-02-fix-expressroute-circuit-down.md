@@ -6,7 +6,7 @@ date: 2023-01-02
 categories: ["Technology"]
 tags: ["Azure", "ExpressRoute", "Networking", "Troubleshooting", "BGP", "Hybrid Connectivity"]
 excerpt: "An ExpressRoute circuit down is rarely one failure. Localize it to the provider link, BGP, a peering, or a routing problem, then fix the correct layer."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "thomas-reid"
 last_updated: 2023-01-02
@@ -14,7 +14,7 @@ lang: en
 ---
 You open the portal expecting a healthy private path into Azure, and instead the graphs go flat. Applications that depend on on-premises systems begin timing out, a database replication job stalls partway through, and someone on the network team announces that the ExpressRoute circuit is down. That sentence is carrying far more weight than it sounds, because an ExpressRoute circuit down can describe at least six distinct situations, and each one lives at a different layer of the stack and belongs to a different owner. Some of those layers are yours to fix in the next ten minutes from a terminal. One of them is not yours at all, and the only correct action is to open a ticket with the carrier who runs the physical segment. The fastest engineers in an incident like this are not the ones who know the most commands. They are the ones who localize the failure to a single layer first, because the layer tells them whether to reach for the keyboard or the phone.
 
-![Diagnosing an ExpressRoute circuit down to the failed layer and its owner - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Diagnosing an ExpressRoute circuit down to the failed layer and its owner - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The reason teams lose an hour to this is that ExpressRoute presents one resource in the portal, a circuit, but that single object sits on top of a stack with four mechanically separate parts: a physical or provider connection at layer 2, a BGP session running over a primary and a secondary link, one or both peerings that ride those sessions, and the route advertisement that decides which prefixes actually move. A break in any one of those parts can produce the same surface symptom, a loss of reachability, while leaving the others perfectly healthy. Treating the whole thing as a single on-or-off switch is what sends people resetting gateways that were never the problem, or escalating to a carrier for something the carrier cannot touch. This guide walks the stack from the bottom up, gives you the command that confirms each layer, names the owner of each fix, and shows you the tested remedy once you know where the break actually sits. If you want the broader picture of how the service is built before you debug it, the architecture is covered in depth in [the full ExpressRoute deep dive](/2023/11/20/azure-expressroute-deep-dive/); this article assumes you are mid-incident and need the diagnosis now.
 

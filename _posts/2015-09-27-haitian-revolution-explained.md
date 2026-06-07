@@ -6,7 +6,7 @@ date: 2015-09-27
 categories: ["Leisure"]
 tags: ["haitian-revolution", "toussaint-louverture", "slavery-abolition", "caribbean-history", "revolutionary-era", "medieval-history"]
 excerpt: "The Haitian Revolution produced the only successful large-scale slave revolt in recorded history and created the first Black-led republic in the Americas."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2015-09-27
@@ -16,7 +16,7 @@ The Haitian Revolution of 1791 to 1804 was the most radical revolution of its er
 
 <!--more-->
 
-![The Haitian Revolution Explained - Insight Crunch](/assets/images/blog/blog-34.webp)
+![The Haitian Revolution Explained - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 The question the revolution answers is not simply what happened in Saint-Domingue between 1791 and 1804. The deeper question is why this revolution, the most radical of the revolutionary era, receives less attention than the French Revolution of 1789 or the American Revolution of 1776, both of which were less radical in their social transformation. The French Revolution proclaimed universal rights while maintaining colonial slavery until pressure from Saint-Domingue forced abolition. The American Revolution proclaimed that all men are created equal while constitutionally protecting the institution of slavery for nearly another century. The Haitian Revolution did what neither the French nor the American managed: it destroyed the slave system root and branch, in the colony where that system was most profitable and most brutal. The comparative framework is not incidental to the analysis; it is the analysis. C.L.R. James established this framework in *The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution* (1938), and Laurent Dubois refined it in *Avengers of the New World: The Story of the Haitian Revolution* (2004). The revolution belongs at the center of the revolutionary era, not at its margins, and placing it there changes how we read every other revolution of the period.
 

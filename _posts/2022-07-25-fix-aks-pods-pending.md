@@ -6,7 +6,7 @@ date: 2022-07-25
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Kubernetes", "Troubleshooting", "Performance", "Cloud Computing"]
 excerpt: "An AKS pod stuck in Pending means the scheduler found no node to place it on. Read the FailedScheduling events and fix every root cause with confidence."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 59
 author: "kevin-reeves"
 last_updated: 2022-07-25
@@ -16,7 +16,7 @@ A pod that reports `Pending` in Azure Kubernetes Service has not crashed, has no
 
 This guide rebuilds the diagnosis from the scheduling decision outward. You will learn to read the `FailedScheduling` events on a Pending workload, sort the symptom into one of the distinct families that produce it, confirm which family is yours with a command rather than a guess, and apply the matching remedy. The families are resource starvation, autoscaler limits, placement constraints such as taints and affinity, storage that will not bind, and address or quota exhaustion at the platform layer. Each leaves a different fingerprint in the events, and once you can read that fingerprint the fix stops being a gamble.
 
-![Diagnosing AKS pods stuck in Pending state and FailedScheduling root causes - Insight Crunch](/assets/images/blog/blog-63.webp)
+![Diagnosing AKS pods stuck in Pending state and FailedScheduling root causes - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 The reason this matters beyond a single incident is that Pending sits at the boundary between your declared intent and the physical capacity of the cluster. Every other Kubernetes failure mode assumes the workload was placed and then something went wrong; a Pending workload never got that far. Understanding it forces you to understand how the scheduler reasons, which in turn makes you better at sizing requests, designing node pools, and writing affinity rules that do not paint the cluster into a corner. By the end you should be able to look at the events on any unscheduled workload and route directly to the layer that needs your attention.
 

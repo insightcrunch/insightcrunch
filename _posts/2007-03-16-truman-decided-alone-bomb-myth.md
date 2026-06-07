@@ -6,7 +6,7 @@ date: 2007-03-16
 categories: ["Leisure"]
 tags: ["harry-truman", "myth-bust", "us-presidents", "american-history", "atomic-bomb", "interim-committee"]
 excerpt: "Truman said the buck stops here, and he meant it. But on the bomb he ratified a recommendation four advisory bodies had built before he held authority."
-image: "/assets/images/blog/blog-83.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 71
 author: "chloe-martin"
 last_updated: 2026-06-05
@@ -14,7 +14,7 @@ lang: en
 ---
 On the desk in the Oval Office sat a small lacquered sign, a gift from a friend in Missouri, that read THE BUCK STOPS HERE on the front and I'M FROM MISSOURI on the back. Harry Truman liked the sign because it captured something he believed about the office he had inherited without warning on the evening of April 12, 1945. A president could delegate analysis, delegate planning, delegate the drafting of orders, but he could not delegate the final word. When the country later argued about whether the atomic bomb should have fallen on Hiroshima and Nagasaki, the sign became shorthand for a particular story: that one man, alone at a desk, weighed an unthinkable choice and made it. The story is half right, and the wrong half has done more to distort public understanding of executive power than almost any other myth about the modern presidency.
 
-![Truman atomic bomb advisory structure Interim Committee Scientific Panel myth - Insight Crunch](/assets/images/blog/blog-83.webp)
+![Truman atomic bomb advisory structure Interim Committee Scientific Panel myth - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 Here is the claim this article grades, stated as people actually repeat it: Truman personally decided to drop the atomic bomb. He looked at the options, he chose, and the decision was his in the full sense of having been deliberated by him. That claim earns a split verdict. As a statement about ultimate responsibility, it is accurate, and Truman himself never tried to dodge it. As a statement about deliberation, about who actually weighed the alternatives and narrowed them down, it is false, and the falseness matters because it hides the machinery. By the time the buck reached Truman, an elaborate advisory apparatus had already run for months. A cabinet-level committee had met repeatedly and delivered a formal recommendation. A panel of the four most eminent physicists in the program had been asked whether a harmless demonstration could substitute for military use and had answered no. A target committee had drawn up and refined a kill list. The military director of the entire program and the Army chief of staff had set the operational timetable. What Truman did, in the most consequential sense, was decline to stop a process already in motion. That is a real decision. It is not the same decision the myth describes.
 

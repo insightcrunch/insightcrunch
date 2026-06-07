@@ -6,7 +6,7 @@ date: 2012-08-14
 categories: ["Industry"]
 tags: ["defense-doctrine", "india", "pahalgam", "post-2025", "counter-terrorism", "policy"]
 excerpt: "After the Pahalgam massacre and Operation Sindoor, India abandoned three decades of strategic restraint and adopted permanent confrontation as doctrine."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ On the afternoon of April 22, 2025, five gunmen entered the Baisaran Valley mead
 
 <!--more-->
 
-![India Defense Doctrine Post-Pahalgam Analysis - Insight Crunch](/assets/images/blog/blog-62.webp)
+![India Defense Doctrine Post-Pahalgam Analysis - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 That premise, stated in those terms, represents a rupture with three decades of Indian strategic thinking. From the Kargil conflict of 1999 through the 26/11 Mumbai siege, from the Pathankot airbase infiltration through the Pulwama convoy bombing, India had responded to each Pakistani-origin attack with a combination of military gestures, diplomatic protest, and eventual re-engagement. The pattern was consistent enough to be predictable: absorb the attack, consider the options, calibrate a response that stayed below the nuclear threshold, then gradually resume bilateral contact within months. Pakistan's strategic planners had internalized this cycle so thoroughly that they could factor it into their cost-benefit calculations for sponsoring terrorism. The post-Pahalgam framework destroyed that calculus. For the first time, India announced that the penalty for the next attack was not a proportional military response but the permanent absence of the relationship itself. To understand why this shift is genuinely transformative, and whether it can be sustained, it is necessary to trace the full arc of India's evolving posture across five distinct phases, each triggered by a specific terror attack and each adding a permanent capability to the Indian repertoire that was never retracted.
 

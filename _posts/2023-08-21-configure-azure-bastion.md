@@ -6,7 +6,7 @@ date: 2023-08-21
 categories: ["Technology"]
 tags: ["Azure", "Azure Bastion", "Networking", "Security", "Cloud Computing"]
 excerpt: "Set up Azure Bastion for secure browser RDP and SSH access, with the correct AzureBastionSubnet, SKU, and NSG rules so your VMs need no public IP at all."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 63
 author: "kevin-reeves"
 last_updated: 2023-08-21
@@ -16,7 +16,7 @@ Most teams that deploy Azure Bastion think the job is done the moment the resour
 
 That gap between deploying Bastion and actually securing access is where this guide lives. Azure Bastion is a managed platform service that gives you remote desktop and secure shell to your machines through the browser, over TLS, without exposing those machines to the public internet. Getting it right means a dedicated subnet with an exact name, a SKU chosen for the features you need, a precise set of network security group rules, and a verification pass that proves the old exposure is closed rather than merely hidden behind a new tool.
 
-![Azure Bastion setup with AzureBastionSubnet, SKU selection, and NSG rules for browser RDP and SSH without public IPs - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Azure Bastion setup with AzureBastionSubnet, SKU selection, and NSG rules for browser RDP and SSH without public IPs - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 This guide treats the configuration as a single outcome rather than a checklist of clicks. The outcome is the no-public-IP rule: Bastion exists so that your machines need no public IP and no open management port, which means a deployment that leaves either of those in place has not met its own goal. Everything that follows, from the subnet you create first to the public IP you remove last, serves that one measurable result. By the end you will be able to build the service, connect to a machine that has no route from the internet, and confirm with a command that the exposure is genuinely gone.
 

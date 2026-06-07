@@ -6,7 +6,7 @@ date: 2008-11-06
 categories: ["Leisure"]
 tags: ["george-washington", "decision-reconstruction", "us-presidents", "early-republic", "foreign-policy", "french-revolution"]
 excerpt: "Washington's 1793 neutrality proclamation fractured his cabinet between Hamilton and Jefferson. Hamilton prevailed. The foreign-policy template was set."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 56
 author: "diana-patel"
 last_updated: 2008-11-06
@@ -16,7 +16,7 @@ On April 12, 1793, news reached Philadelphia that France had declared war on Gre
 
 Washington's answer arrived on April 22, 1793, in a document that never used the word "neutrality" but established the executive foreign-policy template that every subsequent president would inherit, invoke, and expand. The Proclamation of Neutrality split his cabinet down the center. Alexander Hamilton argued for it with constitutional boldness. Thomas Jefferson fought against it with republican conviction. Edmund Randolph offered a middle path that satisfied nobody fully but shaped the final text. Henry Knox sided with Hamilton almost reflexively. The four men submitted written opinions to Washington, debated in person across multiple sessions, and produced a document whose constitutional implications generated a pamphlet war that remains unresolved two centuries later. The question was not merely whether America should stay out of Europe's conflict. The question was whether a president possessed the inherent authority to commit the nation's foreign policy without congressional approval. Hamilton said yes. Madison, writing as Helvidius at Jefferson's prodding, said no. Washington's action settled the political question for his administration. The constitutional question lingers still.
 
-![Washington 1793 neutrality proclamation cabinet split Hamilton Jefferson decision reconstruction - Insight Crunch](/assets/images/blog/blog-43.webp)
+![Washington 1793 neutrality proclamation cabinet split Hamilton Jefferson decision reconstruction - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 ## The Treaty Problem: What America Owed France in 1793
 

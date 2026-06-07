@@ -6,7 +6,7 @@ date: 2017-06-12
 categories: ["Industry"]
 tags: ["dhurandhar", "characters", "real-inspirations", "bollywood", "counter-terrorism", "raw"]
 excerpt: "Mapping every Dhurandhar character to their real-world inspirations, from RAW spymasters and intelligence handlers to Karachi gangsters and ISI officers."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-06-12
@@ -16,7 +16,7 @@ Aditya Dhar built Dhurandhar on a foundation of real names, real places, and rea
 
 <!--more-->
 
-![Dhurandhar Characters Real-World Inspirations Mapping - Insight Crunch](/assets/images/blog/blog-70.webp)
+![Dhurandhar Characters Real-World Inspirations Mapping - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 ## The Film's Version
 

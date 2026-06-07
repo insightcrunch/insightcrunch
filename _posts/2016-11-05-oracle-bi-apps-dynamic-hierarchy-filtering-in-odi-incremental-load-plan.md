@@ -6,7 +6,7 @@ date: 2016-11-05
 categories: ["Analytics"]
 tags: ["Oracle Data Integrator"]
 excerpt: "Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension..."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 5
 author: "james-carter"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Oracle Business Intelligence Applications often sources data from various systems, and it is often required to restrict or allow various dimension information during the loading processes. There are a variety of ways this can be done, let's take a walk through of few possible mechanisms of how this can be achieved in the Oracle Data Integrator incremental load plan with the maximum amount of flexibility.
 
-![Oracle BI Apps Dynamic Hierarchy Filtering using ODI Incremental Load Plan](/assets/images/blog/blog-89.webp)
+![Oracle BI Apps Dynamic Hierarchy Filtering using ODI Incremental Load Plan](/assets/images/blog/blog-92.webp)
 Oracle BI Apps Dynamic Hierarchy Filtering using ODI Incremental Load Plan
 
 Our source system can be a number of applications like Oracle E-business Suite, Oracle Data Relationship Management, custom data warehouses, custom Essbase cubes, etc. To process the transaction data from each of these source systems, we need to first process the dimensional data from them.

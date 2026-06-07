@@ -6,7 +6,7 @@ date: 2013-07-20
 categories: ["Industry"]
 tags: ["ripudaman-singh-malik", "babbar-khalsa", "air-india", "canada", "targeted-killing"]
 excerpt: "Profile of Ripudaman Singh Malik, the Babbar Khalsa-linked figure once charged for the Air India bombing, shot dead by unknown gunmen in Surrey, Canada."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ Ripudaman Singh Malik lived thirty-seven years between the deadliest act of avia
 
 <!--more-->
 
-![Ripudaman Singh Malik Air India Babbar Khalsa Profile - Insight Crunch](/assets/images/blog/blog-53.webp)
+![Ripudaman Singh Malik Air India Babbar Khalsa Profile - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 The chain from Air India Flight 182 to the Surrey parking lot runs through courtrooms, continents, and the complicated politics of a diaspora community fractured between those who see Malik as a philanthropist and those who remember him as a man who walked free from the most devastating terrorist attack in Canadian history. His story anchors a broader question that hangs over the Khalistan dimension of [India's shadow war against terrorism](https://insightcrunch.com/2013/01/05/india-shadow-war-against-terror-explained/): when a suspect is acquitted by a court of law but remains linked to the networks responsible for mass murder, does the chain of consequences end at the courthouse door, or does it continue until a different kind of reckoning arrives? Malik's killing in Surrey, occurring exactly one year before [Hardeep Singh Nijjar's assassination](https://insightcrunch.com/2013/07/13/hardeep-singh-nijjar-ktf-canada/) at a nearby gurdwara, suggests that for some, the chain never truly ends.
 

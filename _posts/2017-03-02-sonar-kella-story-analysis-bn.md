@@ -6,7 +6,7 @@ date: 2017-03-02
 categories: ["Leisure"]
 tags: ["sonar-kella", "feluda", "satyajit-ray", "jaisalmer"]
 excerpt: "সোনার কেল্লার সম্পূর্ণ বিশ্লেষণ। ১৯৭১-এর শারদীয়া দেশের প্রকাশনা, জাতিস্মর-যুক্তিবাদের দ্বন্দ্ব, জটায়ুর আগমন, এবং রাজস্থান বাঙালির পর্যটনস্থল।"
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 137
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![সোনার কেল্লা: শারদীয়ার ক্লাসিক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-08.webp)
+![সোনার কেল্লা: শারদীয়ার ক্লাসিক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-05.webp)
 
 ## ১৯৭১ সালের শারদীয়া দেশ: প্রকাশনার প্রসঙ্গ
 

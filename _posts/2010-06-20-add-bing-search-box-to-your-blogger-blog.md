@@ -5,7 +5,7 @@ date: 2010-06-20
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Many people had requested for a search box which would enable the visitors of their websites and blogs to search directly through Bing. So here is the..."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
@@ -21,7 +21,7 @@ document.write('<form method="get" action="http://www.bing.com/search" target="_
 
 It will enable you to get a search box like shown here below. Type in to check it out before you use the code above.
 
-![Bing Search Box for Blog](/assets/images/blog/blog-59.webp)
+![Bing Search Box for Blog](/assets/images/blog/blog-29.webp)
 Bing Search Box for Blog
 
 Help your visitors engage in searching anything right from your website and help it make stickier!

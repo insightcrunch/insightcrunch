@@ -6,7 +6,7 @@ date: 2003-07-24
 categories: ["Industry"]
 tags: ["UPSC", "IAS Preparation", "UPSC CSE", "Civil Services", "UPSC Guide"]
 excerpt: "Your one-stop UPSC Civil Services guide covering structure, syllabus, strategy, and a starter action plan."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 69
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -16,7 +16,7 @@ You have just decided to appear for the UPSC Civil Services Examination, or you 
 
 This guide exists to answer that question completely. Not partially, not with hedge words like "it depends" followed by a vague paragraph, but with the specificity and structural clarity that you would get from a mentor who has guided hundreds of aspirants through every stage of UPSC CSE and watched, closely, what works and what destroys preparation cycles. The UPSC Civil Services Examination is simultaneously one of the most demanding, most respected, and most misunderstood examinations in the world. More than 1.3 million people apply for it each cycle. Roughly 1,000 are finally selected, placing the overall selection rate at approximately 0.08 percent. That number is designed to terrify you, and you should not let it. Among candidates who prepare seriously for twelve or more months with a coherent strategy, who complete their syllabus, who practice writing, who solve previous year questions consistently, the effective odds are dramatically better. The examination is not a lottery. It rewards preparation in a predictable, pattern-driven way. Understanding those patterns is what this guide is about.
 
-![Complete UPSC Civil Services Guide - Insight Crunch](/assets/images/blog/blog-81.webp)
+![Complete UPSC Civil Services Guide - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 ## What Is the UPSC Civil Services Examination?
 

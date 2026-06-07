@@ -6,7 +6,7 @@ date: 2019-05-13
 categories: ["Industry"]
 tags: ["south-africa", "apartheid", "assassinations", "death-squads", "truth-commission"]
 excerpt: "How apartheid South Africa used secret death squads to murder its opponents, what the Truth and Reconciliation Commission exposed, and what it teaches today."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2019-05-13
@@ -16,7 +16,7 @@ On a farm in the Skurweberg hills, roughly twenty kilometres west of Pretoria, t
 
 <!--more-->
 
-![A weathered government building at dusk, symbolising the hidden machinery of state security](/assets/images/blog/blog-46.webp)
+![A weathered government building at dusk, symbolising the hidden machinery of state security](/assets/images/blog/blog-55.webp)
 
 Apartheid South Africa is the darkest mirror that any modern targeted-killing campaign can be held up against. Here was a government that decided, as a matter of deliberate strategy, that the cheapest way to manage political opposition was to make selected opponents disappear. It built institutions to do the killing. It built front companies to fund the killing. It built a legal and bureaucratic culture designed to ensure that no minister, no general, and no head of state could ever be tied to a specific corpse. For roughly three decades the system worked, in the narrow sense that the men who pulled triggers and planted bombs were rarely arrested and the politicians who authorised the structure were never charged while it operated. Then the government that built the machine lost power, and within two years the entire apparatus was being described in forensic detail, on television, by the very men who had run it.
 

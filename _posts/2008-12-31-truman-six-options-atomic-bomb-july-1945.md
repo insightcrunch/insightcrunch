@@ -6,7 +6,7 @@ date: 2008-12-31
 categories: ["Leisure"]
 tags: ["harry-truman", "decision-reconstruction", "us-presidents", "american-history", "atomic-bomb", "world-war-ii"]
 excerpt: "Truman confronted six genuine paths in July 1945, from a full-scale invasion to a harmless demonstration shot. Five were rejected. This is why Hiroshima won."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 62
 author: "diana-patel"
 last_updated: 2008-12-31
@@ -18,7 +18,7 @@ On the morning of July 16, 1945, Harry Truman sat inside the "Little White House
 
 The popular version of this story compresses everything into a single man making a single choice. Truman decided. Truman authorized the strike. The buck stopped at his desk. That version is not wrong, but it obscures the architecture of the actual deliberation, which involved six distinct alternatives, each with powerful advocates, each carrying its own projection of casualties and political consequences, and each rejected or chosen for reasons that can be reconstructed from the documentary record. The story of how Hiroshima became the answer requires understanding why five other answers failed.
 
-![Truman atomic authorization six options reconstruction July 1945 - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Truman atomic authorization six options reconstruction July 1945 - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 What makes this choice reconstructible, rather than merely debatable, is the survival of extraordinary primary documentation. The Interim Committee minutes from May 31 and June 1, 1945, record the specific arguments and counterarguments in near-verbatim detail. Henry Stimson's diary, maintained with lawyerly precision throughout his tenure as Secretary of State for Conflict, tracks the evolution of his own thinking week by week. The Franck Report of June 11, 1945, preserves the dissenting scientists' case in their own technical language. Truman's Potsdam diary, not fully declassified until decades after his death, reveals the private calculations behind the public persona. And the July 25 directive to General Carl Spaatz, authorizing the use of "special" ordnance against specific enemy targets, constitutes the moment where executive authorization became operational order. These sources, taken together, allow a reconstruction that moves beyond "the president decided" to the far more consequential question: decided what, among what alternatives, on whose advice, and for which specific reasons?
 

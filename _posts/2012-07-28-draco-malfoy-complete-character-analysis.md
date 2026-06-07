@@ -6,7 +6,7 @@ date: 2012-07-28
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Draco Malfoy", "Slytherin", "Death Eaters", "Pureblood Ideology"]
 excerpt: "Draco Malfoy character analysis in Harry Potter: the heir whose privilege was his prison, the bully who never became free, and the boy his father owned."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 57
 author: "lauren-hayes"
 last_updated: 2012-07-28
@@ -16,7 +16,7 @@ lang: en
 
 Of every figure Rowling places at Hogwarts, the blond Slytherin from Wiltshire is the one most often misread by readers who arrived at the books wanting a villain. He is not a villain. A villain chooses. Draco Malfoy never quite chooses anything. He inherits a position the way he inherits the pallor of his skin and the sound of his surname, and the series's quiet, devastating argument is that no amount of late-stage hesitation can undo what an eleven-year-old has already absorbed by osmosis through a father's silence at the dinner table.
 
-![Draco Malfoy character analysis across all seven Harry Potter books](/assets/images/blog/blog-31.webp)
+![Draco Malfoy character analysis across all seven Harry Potter books](/assets/images/blog/blog-07.webp)
 
 The boy from Slytherin is one of the most morally exquisite figures the series produces, and also one of the most easily reduced. Reduce him to the sneering schoolboy bully and the seven-volume arc collapses. Reduce him to a misunderstood victim of his upbringing and the cruelty he performs across six books vanishes from the moral ledger in a way the text never permits. Rowling holds both pictures together with a discipline most readers do not, and the question she leaves the reader holding by the final chapter is not whether her young pureblood is redeemed but whether he was ever, at any moment, free.
 

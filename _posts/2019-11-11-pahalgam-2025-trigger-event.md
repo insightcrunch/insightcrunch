@@ -6,7 +6,7 @@ date: 2019-11-11
 categories: ["Industry"]
 tags: ["pahalgam", "2025", "trigger-event", "india-pakistan", "operation-sindoor"]
 excerpt: "How the Pahalgam tourist massacre became the trigger event that finally ended India's strategic patience and launched Operation Sindoor against Pakistan."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2019-11-11
@@ -16,7 +16,7 @@ A meadow does not look like a turning point. Baisaran is a bowl of green grass r
 
 <!--more-->
 
-![Pahalgam 2025 the Trigger Event - Insight Crunch](/assets/images/blog/blog-30.webp)
+![Pahalgam 2025 the Trigger Event - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 This is the story of why that particular afternoon, in that particular meadow, became the breaking point. It is not the story of the deadliest attack in the long chain that runs from a hijacked airliner on a Kandahar runway to a missile campaign launched in the dark. Other attacks killed more people. The siege of Mumbai killed one hundred sixty-six. A convoy bombing in 2019 killed forty paramilitary troopers in a single blast. By raw arithmetic, the meadow killings sit below both. Yet neither of those earlier horrors produced what the meadow produced. Understanding the gap between body count and consequence is the whole task of this account, because the gap is where the real lesson lives. A nation does not go to war over a single number. It goes to war when a single number lands on top of a quarter-century of accumulated grievance and pushes the whole structure past a threshold it had been approaching for years.
 

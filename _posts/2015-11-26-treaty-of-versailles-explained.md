@@ -6,7 +6,7 @@ date: 2015-11-26
 categories: ["Leisure"]
 tags: ["treaty-of-versailles", "paris-1919", "woodrow-wilson", "versailles-settlement", "interwar-period", "modern-history"]
 excerpt: "Versailles was a 1919 compromise among competing Allied interests, neither the catastrophic peace of legend nor a wise settlement undone by execution failures."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2015-11-26
@@ -16,7 +16,7 @@ The Treaty of Versailles is the most familiar peace settlement in modern history
 
 <!--more-->
 
-![The Treaty of Versailles Explained - Insight Crunch](/assets/images/blog/blog-31.webp)
+![The Treaty of Versailles Explained - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 The scholarly consensus has moved substantially elsewhere over the past generation. Margaret MacMillan's *Paris 1919: Six Months That Changed the World* (2001) reconstructed the conference from the inside and demonstrated that the treaty was not the dictation of any single power but a negotiated compromise produced by four governments with sharply different interests operating under acute domestic and international pressure. Sally Marks's *The Illusion of Peace* (revised 2003) and her landmark 1978 article "The Myths of Reparations" dismantled key parts of the Keynesian economic argument by showing that German reparations as actually paid were modest, that the hyperinflation of 1923 was a German monetary policy choice rather than a reparations effect, and that the "Germany bankrupted by the peace" narrative was substantially German wartime propaganda accepted by sympathetic Anglo-American observers. Zara Steiner's *The Lights That Failed* (2005) traced how the settlement actually functioned and failed across the 1920s, locating its collapse not in the 1919 terms but in the policy decisions of 1929 to 1933.
 

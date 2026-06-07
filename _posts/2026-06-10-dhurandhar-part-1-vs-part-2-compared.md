@@ -6,7 +6,7 @@ date: 2026-06-10
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "film-analysis", "comparison", "aditya-dhar", "ranveer-singh"]
 excerpt: "A detailed comparison of Dhurandhar's two installments across story, mood, technical craft, and commercial performance."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ When a two-film project earns critical and commercial success across both releas
 
 <!--more-->
 
-![Dhurandhar Part 1 vs Part 2 Compared - Insight Crunch](/assets/images/blog/blog-36.webp)
+![Dhurandhar Part 1 vs Part 2 Compared - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The first installment establishes the deep-cover infiltration: Jaskirat Singh Rangi becomes Hamza Ali Mazari, embeds in Lyari's criminal ecosystem across a decade, and builds the relationships with Rehman Dakait's organisation that will eventually be weaponised. The follow-up executes: Hamza's position pays off operationally, a new antagonist emerges in Major Iqbal, the cover begins to fracture, and the final confrontation unfolds throughout the Karachi-Delhi axis that Part 1 established. These are not two halves of one movie. They are two movies in dialogue with each other, each making arguments the other could not make, each suffering costs the other does not.
 

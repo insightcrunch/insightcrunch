@@ -6,7 +6,7 @@ date: 2011-08-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Susan Alexander Kane", "Deep Focus", "Close Reading", "Cinematography", "Charles Foster Kane"]
 excerpt: "The Citizen Kane Susan deep focus scene works as moral architecture, its three planes framing her crisis as the direct cost of Kane's relentless control."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2011-08-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A single shot in Citizen Kane carries an entire marriage to its breaking point. The Citizen Kane Susan deep focus scene, the darkened bedroom where Susan Alexander reaches the limit of what she can endure, is one of the most discussed compositions Orson Welles and Gregg Toland ever built, and it earns that attention by doing in one frame what most films need a whole sequence to manage. A glass and a small bottle sit huge in the extreme foreground. Susan lies still in the middle distance. Far behind her, a locked door gives way and Kane forces his way in. The frame holds all three at once, and because it holds them at once, the image states its argument without a single line of dialogue: Susan's suffering and Kane's control occupy the same picture, and her collapse is the bill that finally comes due for his refusal to let her live an ordinary life.
 
-![Citizen Kane Susan deep focus bedroom scene composition explained - Insight Crunch](/assets/images/blog/blog-28.webp)
+![Citizen Kane Susan deep focus bedroom scene composition explained - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 This reading stays on the image and its meaning rather than on the act itself. The scene is sober, and the analysis treats it soberly, because the film does. Welles does not dwell on what Susan has done; he holds the camera on a composition that tells you why, and the why is the whole point. If these themes touch your own life or the life of someone close to you, support is available, and reaching out to a trusted person or a helpline is a real and worthwhile step. What follows is a close reading of how the passage is built, what each plane of the famous composition is asked to carry, and why the staging amounts to an indictment of Kane rather than a judgment on the woman he has worn down.
 

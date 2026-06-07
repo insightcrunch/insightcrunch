@@ -6,7 +6,7 @@ date: 2013-04-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Women in Literature", "Feminism", "Gender"]
 excerpt: "The women of Harry Potter analyzed as mothers, warriors, and survivors: how Rowling writes feminist individuals inside a structurally conservative arrangement."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-04-06
@@ -16,7 +16,7 @@ lang: en
 
 Here is the difficulty that any honest reading of the witches and women in this series must begin with. Rowling writes more competent, consequential, morally serious women than almost any fantasy author of her generation, and she writes them inside a structure that quietly keeps every one of them in a supporting orbit around a boy. Both statements are true. Neither softens the other. The reader who insists the series is straightforwardly feminist has not counted how many women hold ultimate institutional power during the main timeline, which is approximately none. The reader who dismisses it as patriarchal fantasy has not read the duel in which a middle-aged housewife kills the most dangerous witch alive and then turns back to her daughter as if nothing unusual has happened. The interesting position, the only position the text actually rewards, is the one that holds both facts at once and refuses to let either dissolve the discomfort of the other.
 
-![Women of Harry Potter analyzed as mothers, warriors, and survivors](/assets/images/blog/blog-39.webp)
+![Women of Harry Potter analyzed as mothers, warriors, and survivors](/assets/images/blog/blog-72.webp)
 
 Consider the roster. Minerva McGonagall, the most formidable teacher at the school, Deputy Head for the entire run of the narrative, Head for roughly a chapter. Hermione Granger, the cleverest of the three protagonists, the one who solves the puzzles the boys cannot be bothered to research, the one without whom the plot does not advance past the first volume. Molly Weasley, mother of seven, household magician, and eventual killer of Bellatrix Lestrange. Luna Lovegood, the only character whose strangeness is permitted to be a form of wisdom rather than a defect to be corrected. Nymphadora Tonks, an Auror, a Metamorphmagus, a woman who proposes marriage and storms a castle while breastfeeding age. Lily Evans, whose single act of refusal rewrites the metaphysics of the entire world. Narcissa Malfoy, whose lie to the Dark Lord decides the war. And against them, the female antagonists: Bellatrix, Umbridge, Rita Skeeter, each rendered with a vividness the reader does not forget.
 

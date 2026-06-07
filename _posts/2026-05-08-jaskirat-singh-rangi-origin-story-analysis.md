@@ -6,7 +6,7 @@ date: 2026-05-08
 categories: ["Leisure"]
 tags: ["dhurandhar", "jaskirat-singh-rangi", "ranveer-singh", "character-analysis", "origin-story", "bollywood"]
 excerpt: "The complete origin story of Jaskirat Singh Rangi - from Pathankot tragedy to RAW recruitment to Hamza."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ The franchise does not call him Jaskirat after the first act. It calls him Hamza
 
 <!--more-->
 
-![Jaskirat Singh Rangi Origin Story - Insight Crunch](/assets/images/blog/blog-80.webp)
+![Jaskirat Singh Rangi Origin Story - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 This article makes a specific and contentious argument about what the origin story means: Dhurandhar does not depict RAW's recruitment of Jaskirat as heroic mentorship or patriotic activation. It depicts it as the state's first act of violence against its own citizen, an act conducted with genuine care and genuine good intentions by a handler who believes in the mission and in the young man he has identified as an instrument for it, but an act that is nonetheless a form of predation. Ajay Sanyal finds a broken person and offers purpose. The purpose is real. The brokenness is the precondition. The offer would not have been possible if the tragedy had not occurred, and the tragedy occurring is not incidental to the narrative. It is the first domino. The franchise is built on the proposition that the state exploits grief, channels it, weaponizes it into covert capacity, and then sends the grieving person into a decade of further damage in service of a strategic objective. That Jaskirat consents to this, that he actively seeks it, does not make the exploitation less real. It makes it more structurally complete.
 

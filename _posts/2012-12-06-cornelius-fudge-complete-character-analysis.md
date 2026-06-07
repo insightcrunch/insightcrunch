@@ -6,7 +6,7 @@ date: 2012-12-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cornelius Fudge", "Ministry of Magic", "Political Failure", "Institutional Denial"]
 excerpt: "Deep literary analysis of Cornelius Fudge across all Harry Potter books - denial, political failure, bureaucratic cowardice, and institutional collapse."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 57
 author: "olivia-grant"
 last_updated: 2012-12-06
@@ -18,7 +18,7 @@ Cornelius Fudge breaks the wizarding world not by doing the wrong thing but by d
 
 The Minister enters the series in *Prisoner of Azkaban* as a worried, well-meaning bureaucrat doing his best with limited information. Rowling spends three books systematically dismantling that initial sympathy. By the atrium duel at the end of *Order of the Phoenix*, his denial has hardened into something close to crime; by his cameo in *Half-Blood Prince*, he is a deposed politician begging the Muggle Prime Minister for help he no longer deserves. The reader's growing disgust with the bowler-hatted Minister is also Rowling's masterclass in how decent men become villains by accumulation rather than choice.
 
-![Cornelius Fudge character analysis in Harry Potter series](/assets/images/blog/blog-28.webp)
+![Cornelius Fudge character analysis in Harry Potter series](/assets/images/blog/blog-85.webp)
 
 The thesis of this analysis is simple to state and complicated to defend. Cornelius is more dangerous than the Death Eaters because the Death Eaters cannot enter the Ministry without a Minister willing to ignore them. He is the institutional condition that allows the war to begin on terms favourable to Voldemort. He chooses denial because belief would require action, and he is incapable of the kind of action required. The denial is performed. The comfort is real. The cost is paid by Cedric Diggory, by Sirius Black, by the Muggle Prime Minister whose populace will spend years wondering why hurricanes and bridge collapses keep accumulating in the headlines.
 

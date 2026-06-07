@@ -6,7 +6,7 @@ date: 2010-04-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Rosebud", "Symbolism", "Close Reading", "Orson Welles", "Themes"]
 excerpt: "Citizen Kane symbols decoded: what Rosebud, the snow globe, Xanadu, and the No Trespassing sign mean, and why the audience alone is ever given the answer."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 59
 author: "rachel-foster"
 last_updated: 2010-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The most famous word in American cinema is the name of a sled, and almost everyone who can say it has never been shown why it matters. That gap is where the real study of Citizen Kane symbols begins. A viewer can leave the film knowing that Rosebud is the sled burning in the furnace and still have missed the design that makes the burning unbearable, because the design is built out of objects rather than speeches. Orson Welles tells you almost nothing about Charles Foster Kane through confession. He tells you everything through things: a sled, a glass ball full of fake snow, a torn page, a chain-link fence, a half-built palace stuffed with crates nobody opens. The symbols carry the meaning the dialogue refuses to hand over, and learning to read them is the difference between watching the plot and understanding the picture.
 
-![Rosebud and the snow globe symbolism in Citizen Kane explained shot by shot - Insight Crunch](/assets/images/blog/blog-59.webp)
+![Rosebud and the snow globe symbolism in Citizen Kane explained shot by shot - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 This guide is the symbolism hub for everything else in the series. It catalogs every major object Welles loads with meaning, traces each one across its appearances, separates the surface reading from the deeper one, and settles the question students ask most often, which is what Rosebud actually signifies and whether the sled "solves" anything. The short answer, defended at length below, is that the objects in this film are not decoration and not a code to crack for a tidy psychological diagnosis. They are the argument. Where the five narrators give you partial, slanted accounts of a man, the things he touched give you the parts of him no witness could reach, and the film hands those parts to you alone.
 

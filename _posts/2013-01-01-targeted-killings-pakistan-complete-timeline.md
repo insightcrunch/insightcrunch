@@ -6,7 +6,7 @@ date: 2013-01-01
 categories: ["Industry"]
 tags: ["targeted-killings", "timeline", "pakistan", "shadow-war", "counter-terrorism", "kill-list"]
 excerpt: "The full chronological record of targeted killings of India's most-wanted terrorists in Pakistan from 2022 to 2026, with three-phase pattern analysis."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 70
 author: "kevin-reeves"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Plotted on a calendar, the killings tell a story that no individual case can. Be
 
 <!--more-->
 
-![Targeted Killings in Pakistan Complete Timeline - Insight Crunch](/assets/images/blog/blog-54.webp)
+![Targeted Killings in Pakistan Complete Timeline - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 ## The Pattern Emerges
 

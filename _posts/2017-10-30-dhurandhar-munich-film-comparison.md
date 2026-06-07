@@ -6,7 +6,7 @@ date: 2017-10-30
 categories: ["Industry"]
 tags: ["dhurandhar", "munich", "spielberg", "comparison", "india", "israel", "revenge"]
 excerpt: "Comparing Dhurandhar with Spielberg's Munich reveals how India and Israel construct fundamentally different revenge narratives about covert assassination."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-10-30
@@ -16,7 +16,7 @@ Two films separated by nearly two decades tell a remarkably similar story on pap
 
 <!--more-->
 
-![Dhurandhar vs Munich Film Comparison - Insight Crunch](/assets/images/blog/blog-02.webp)
+![Dhurandhar vs Munich Film Comparison - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 ## The Film's Version
 

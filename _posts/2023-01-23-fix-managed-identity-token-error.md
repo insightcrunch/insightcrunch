@@ -6,7 +6,7 @@ date: 2023-01-23
 categories: ["Technology"]
 tags: ["Azure", "Managed Identity", "Troubleshooting", "Identity", "Security", "Cloud Computing"]
 excerpt: "A managed identity token error usually means the identity is unassigned, the wrong type, missing a role, or aimed at the wrong audience. Fix each cause."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "nathan-cole"
 last_updated: 2023-01-23
@@ -14,7 +14,7 @@ lang: en
 ---
 A managed identity token error is the moment a workload that was supposed to authenticate without any stored secret suddenly cannot prove who it is. The application code asks the platform for a token, the request comes back empty or with an exception such as `ManagedIdentityCredential authentication failed`, and every downstream call to Key Vault, Storage, or the Azure Resource Manager returns a 401 or a 403. The temptation in that moment is to abandon the credential-free design, paste a client secret back into the configuration, and move on. That reaction trades a five-minute diagnosis for a long-term liability, because a stored secret is a credential someone now has to rotate, guard, and eventually leak. The faster path is to understand that a managed identity does not hold a secret at all. It asks an endpoint on the host for a token, and a token request fails for a small, finite set of reasons. Learn those reasons, learn the one command that confirms each, and the failure becomes routine rather than mysterious.
 
-![Fixing Azure managed identity token errors and ManagedIdentityCredential failures - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Fixing Azure managed identity token errors and ManagedIdentityCredential failures - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 This article diagnoses the managed identity token error down to its real causes and gives the confirming check and the tested fix for each. The thesis the whole piece defends is what I will call the identity-plus-role rule: a token request fails when the principal is either not present on the resource or lacks the role on the thing it is trying to reach, so the correct fix is always to verify both the assignment and the authorization, never to regress to a secret. Hold that rule in mind and the rest of the diagnosis falls into place. Everything that follows is an elaboration of where the assignment can be missing, where the authorization can be missing, and the handful of edge cases (the wrong identity type, the wrong audience, the absence of any identity at all on a developer laptop) that produce the same symptom through a different mechanism.
 

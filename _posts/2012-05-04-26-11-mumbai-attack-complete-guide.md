@@ -6,7 +6,7 @@ date: 2012-05-04
 categories: ["Industry"]
 tags: ["26-11", "mumbai-attack", "lashkar-e-taiba", "hafiz-saeed", "terrorism", "india"]
 excerpt: "The definitive guide to the 26/11 Mumbai siege, the three-day assault that killed 166 people and permanently rewrote India's counter-terror doctrines."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "benjamin-scott"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ On the night of November 26, 2008, ten young men climbed off a hijacked fishing 
 
 <!--more-->
 
-![26/11 Mumbai Attack Complete Guide - Insight Crunch](/assets/images/blog/blog-35.webp)
+![26/11 Mumbai Attack Complete Guide - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 The answer that crystallised in the days, months, and years after 26/11 is the answer that produced everything that followed. It produced the surgical strikes of 2016, the Balakot air raid of 2019, [Operation Sindoor in 2025](https://insightcrunch.com/2018/01/08/operation-sindoor-complete-guide/), and the [shadow war](https://insightcrunch.com/2010/01/04/india-shadow-war-against-terror-explained/) that has, since 2021, taken the lives of more than fifty Pakistan-based militants in a campaign of targeted killings whose architects have never publicly claimed responsibility. Every one of those responses traces back to a single realisation that hardened in the smoke of the Taj Mahal Palace Hotel and the bullet-pocked walls of Chhatrapati Shivaji Maharaj Terminus: if India wanted justice for 26/11, India would have to take it.
 

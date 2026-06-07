@@ -6,7 +6,7 @@ date: 2015-02-14
 categories: ["Leisure"]
 tags: ["power", "corruption", "literary-comparison", "classic-literature", "animal-farm", "1984", "literary-analysis"]
 excerpt: "Power corrupts, but the mechanism differs across novels. The great power-and-corruption novels propose specific theories of how power works on the holder."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 70
 author: "olivia-grant"
 last_updated: 2015-02-14
@@ -16,7 +16,7 @@ Classic literature's treatment of power and corruption is typically compressed i
 
 <!--more-->
 
-![Power and Corruption in Classic Literature - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Power and Corruption in Classic Literature - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 The conventional approach to teaching these works treats them as interchangeable illustrations of a single proverb. SparkNotes and similar platforms isolate the theme of power within each novel but rarely place the novels against one another in sustained analytical comparison. The result is that students encounter Animal Farm's pigs, Orwell's Inner Party, Golding's Jack, Conrad's Kurtz, and Shakespeare's Macbeth as separate data points confirming one thesis rather than as competing arguments about different phenomena. Hannah Arendt's distinction between tyranny, authoritarianism, and totalitarianism in The Origins of Totalitarianism (1951) demonstrates that serious philosophy has long recognized the analytical cost of lumping all forms of concentrated authority into a single category. Literary criticism should recognize the same cost. This article refuses the Acton-aggregate and organizes the six-text comparison around the specific mechanisms each work proposes, demonstrating what the comparative reading gains that the aggregated reading loses.
 

@@ -6,7 +6,7 @@ date: 2003-03-15
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Geography", "Environment", "Climate Change"]
 excerpt: "UPSC Prelims Geography and Environment preparation strategy: NCERT and GC Leong integration, Indian and World Geography prioritisation, environment subdomain analysis, climate conventions tracking, and the systematic approach to two of the highest-weightage Prelims sections."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 59
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ Within this combined cluster, Geography and Environment exhibit different questi
 
 This article provides the complete data-driven preparation strategy for UPSC Prelims Geography and Environment that addresses both the substantial weightage of these subjects and the specific question patterns that they exhibit. The article integrates four critical components: the NCERT and GC Leong integration method that is the most efficient reference strategy for Geography preparation across both Indian and World Geography subdomains, the Indian and World Geography prioritisation framework that allocates preparation time proportionally to question frequency within each subdomain, the Environment subdomain analysis that identifies which specific environment topics produce the highest question frequency and which deserve the most intensive preparation attention, and the climate conventions and contemporary environmental policy tracking approach that captures the current affairs component of Environment questions through systematic integration with daily current affairs reading.
 
-![UPSC Prelims Geography and Environment Strategy - Insight Crunch](/assets/images/blog/blog-33.webp)
+![UPSC Prelims Geography and Environment Strategy - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, the combined Geography and Environment contribution makes these two subject areas one of the four major scoring opportunities (alongside Polity, History, and Economy) that collectively determine the qualification calculation. The [Prelims topic-wise weightage analysis](/2003/03/29/upsc-prelims-topic-wise-weightage/) provides the thirteen-year quantitative breakdown of Geography and Environment's question contributions by subdomain and confirms the dramatic compositional shift in Environment weightage that has emerged over the analysis window. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places Geography and Environment within the broader Prelims preparation framework that this article's subject-specific strategy operates within. The [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/) and [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/) provide the corresponding preparation approaches for the other major Prelims subject areas, completing the systematic subject-by-subject preparation framework that the topic-wise weightage analysis recommends.
 

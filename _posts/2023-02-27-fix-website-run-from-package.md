@@ -6,7 +6,7 @@ date: 2023-02-27
 categories: ["Technology"]
 tags: ["Azure", "App Service", "WEBSITE_RUN_FROM_PACKAGE", "Troubleshooting", "DevOps", "Cloud Computing"]
 excerpt: "WEBSITE_RUN_FROM_PACKAGE mounts your App Service app read-only, so a runtime write failure is a design mismatch and not a deploy bug. Here is the fix."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 60
 author: "ryan-walsh"
 last_updated: 2023-02-27
@@ -16,7 +16,7 @@ You ship a deployment to Azure App Service, the pipeline reports success, and th
 
 The frustrating part is that almost none of this surfaces as a clear error pointing at the setting. The platform does what it was told, the deployment tooling does what it was told, and the gap sits inside an assumption your application code made about where it lives. Once you see the mechanism, the failures stop looking like a grab bag of unrelated bugs and resolve into a small, predictable family: a value-versus-URL mismatch, a locked file system that rejects runtime writes, a remote bundle that will not mount, or writes that have nowhere to land. This article walks each one to ground, shows the command that confirms it is yours, and gives the tested fix, so that you keep the genuine benefits of running from a package instead of reflexively tearing the setting out.
 
-![Fixing WEBSITE_RUN_FROM_PACKAGE read-only file system errors on Azure App Service - Insight Crunch](/assets/images/blog/blog-79.webp)
+![Fixing WEBSITE_RUN_FROM_PACKAGE read-only file system errors on Azure App Service - Insight Crunch](/assets/images/blog/blog-34.webp)
 
 ## What WEBSITE_RUN_FROM_PACKAGE actually does to your app
 

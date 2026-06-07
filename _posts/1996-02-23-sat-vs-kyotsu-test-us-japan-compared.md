@@ -6,7 +6,7 @@ date: 1996-02-23
 categories: ["Industry"]
 tags: ["SAT", "International", "Kyotsu", "Japan", "Exam Comparison", "Study Abroad"]
 excerpt: "SAT vs the Kyotsu test compared: a single holistic factor against Japan's two-stage entrance system, difficulty by subject and the cultural weight of each."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 59
 author: "yamamoto-kenji"
 last_updated: 1996-02-23
@@ -14,7 +14,7 @@ lang: en
 ---
 A student in Yokohama sits two exams in the same admissions cycle, and the two could not be built on more different assumptions. One is the Common Test for University Admissions, the national exam most people in Japan still call the Kyotsu test, and it asks for measured mastery across Japanese, mathematics, a foreign language, the sciences, and the social studies. The other is the SAT, the College Board reasoning exam that a US-bound applicant adds to a holistic file, and it asks almost the opposite question: not how much you have learned across the school curriculum, but how well you reason with a deliberately narrow band of mathematics and English on a single afternoon. Put the two side by side and the contrast is not really about difficulty. It is about what each country decided an entrance exam is for.
 
-![SAT vs Kyotsu Test: US and Japan Compared - Insight Crunch](/assets/images/blog/blog-24.webp)
+![SAT vs Kyotsu Test: US and Japan Compared - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 That contrast is the whole subject of this comparison, and it is worth getting right because the most common mistake a Japanese family makes when a child decides to apply abroad is to assume the SAT is a smaller, easier version of the national exam they already know. It is not smaller. It is a different instrument measuring a different thing, and treating it as a lighter Kyotsu is the surest way to under-prepare for the one section that decides outcomes for Japanese applicants, which is the verbal half of the American test. A student who carries the study habits that earn a strong Common Test mathematics result straight into SAT preparation will find the SAT math comfortable and the SAT reading and writing brutal, and that mismatch is predictable, structural, and fixable once you see why it happens.
 

@@ -6,7 +6,7 @@ date: 2022-11-21
 categories: ["Technology"]
 tags: ["Azure", "NSG", "Networking", "Troubleshooting", "Cloud Computing"]
 excerpt: "NSG blocking traffic in Azure almost always traces to one rule. Read the effective security rules, find the exact blocker by priority, then fix only that rule."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 60
 author: "alex-cunningham"
 last_updated: 2022-11-21
@@ -14,7 +14,7 @@ lang: en
 ---
 An NSG blocking traffic is one of the most common and most misdiagnosed connectivity failures in Azure, and the reason it feels mysterious is almost never that the platform is behaving strangely. A network security group is a deterministic packet filter. Given a flow, it evaluates an ordered set of rules and returns exactly one verdict, allow or deny, and it tells you which rule produced that verdict if you ask it the right way. When a connection that should work does not, the platform already knows why; the engineer simply has not yet read the decision. The afternoon you lose to a blocked port is the afternoon you spent guessing at rules instead of asking Azure which rule actually matched.
 
-![Diagnosing an NSG blocking traffic in Azure by reading the effective security rules - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Diagnosing an NSG blocking traffic in Azure by reading the effective security rules - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 This article treats the block as a lookup, not a mystery. You will learn to read the effective security rules so you can see the single rule that decided your flow, understand why a lower priority number wins and why an NSG on both the subnet and the network interface stacks into a logical AND, recognize the six recurring patterns that produce a surprising block, and apply the narrow one-rule fix for each instead of pasting a broad allow-any rule that quietly over-exposes the workload. The promise is concrete: after this, finding the blocker is a two-command diagnosis, and the fix is one targeted rule, confirmed by the same tool that exposed the problem.
 

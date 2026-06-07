@@ -6,7 +6,7 @@ date: 2017-06-14
 categories: ["Leisure"]
 tags: ["feluda", "samaddarer-chabi", "satyajit-ray", "music", "cryptogram"]
 excerpt: "সমাদ্দারের চাবির সম্পূর্ণ বিশ্লেষণ। রাধারমণ সমাদ্দারের গুপ্ত-সংকেত, বাঙালি সঙ্গীত-পরম্পরা, ধাঁধা-সংস্কৃতি, এবং সঙ্গীত-গণিত-স্মৃতির থিম।"
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 94
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-20.webp)
+![সমাদ্দারের চাবি: সঙ্গীতকারের গুপ্তধন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-14.webp)
 
 ## প্রকাশনার প্রসঙ্গ
 

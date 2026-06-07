@@ -6,7 +6,7 @@ date: 2018-01-15
 categories: ["Industry"]
 tags: ["india-response", "pahalgam", "operation-sindoor", "escalation", "14-days"]
 excerpt: "The fourteen critical days between the Pahalgam massacre and Operation Sindoor, tracing how India escalated from treaty suspensions to missile strikes."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 70
 author: "abigail-cooper"
 last_updated: 2018-01-15
@@ -16,7 +16,7 @@ Between April 22 and May 7, 2025, India executed the most calibrated escalation 
 
 <!--more-->
 
-![India Response to Pahalgam 14 Days - Insight Crunch](/assets/images/blog/blog-38.webp)
+![India Response to Pahalgam 14 Days - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 What makes those fourteen days worthy of granular reconstruction is not simply that they ended in missile strikes. Plenty of crises end in violence. What makes them analytically distinctive is the deliberateness with which India managed each day as a separate act in a choreographed sequence, each escalation calibrated to send a specific signal while leaving room for the next step. The sequence was neither purely diplomatic nor purely military. It was both simultaneously, with Foreign Secretary Vikram Misri announcing treaty suspensions while NSA Ajit Doval coordinated troop movements, and Defence Minister Rajnath Singh presiding over weapons-system readiness checks. The Indian government, critics and supporters agree, treated those fourteen days as a performance designed for three audiences at once: the domestic public demanding vengeance, the international community requiring proportionality, and the Pakistani establishment receiving a message in a language Islamabad had historically ignored. The [complete crisis timeline](https://insightcrunch.com/2012/07/29/india-pakistan-2025-conflict-timeline/) maps every day of the broader conflict, but this article zeroes in on the fourteen-day decision chain that preceded it, tracing each decision, each signal, and each failure of Pakistani response that made Operation Sindoor not only possible but, in New Delhi's framing, inevitable.
 

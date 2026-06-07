@@ -6,7 +6,7 @@ date: 2014-12-31
 categories: ["Leisure"]
 tags: ["heart-of-darkness", "joseph-conrad", "colonialism", "racism", "chinua-achebe", "literary-analysis"]
 excerpt: "Achebe's critique of Heart of Darkness is substantially correct about racism. The historicist defense is correct about anti-colonialism. Both are true."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "olivia-grant"
 last_updated: 2014-12-31
@@ -16,7 +16,7 @@ On February 18, 1975, Chinua Achebe stood before an audience at the University o
 
 <!--more-->
 
-![Colonialism and Racism in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Colonialism and Racism in Heart of Darkness - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 His lecture was titled "An Image of Africa." A revised version appeared in the Massachusetts Review in 1977 and has been reprinted in every major Conrad anthology since. Achebe's argument was grounded in close analysis and devastating in its implications. He contended that Heart of Darkness deploys Africa as a symbolic backdrop for European psychological drama, renders African people as props in that drama rather than as historical actors with their own interiority, and relies on a vocabulary of darkness and primitive otherness that is racist in its formal operation regardless of Conrad's conscious intentions. His most cited sentence called Conrad a thoroughgoing racist. It landed like a detonation in a field that had spent seventy-five years treating the novella as one of the great achievements of English prose. What followed over the next half-century was neither a simple vindication nor a simple dismissal of Achebe's charge but something more productive: a genuine reckoning with what he identified, a historicist recovery of what he set aside, and a synthesis that holds both truths together without collapsing the tension between them. That synthesis is this article's subject. Both Achebe and Conrad's historicist defenders are substantially correct, both truths are products of Conrad's historical position, and the reader's task is to hold both without resolving the contradiction prematurely.
 

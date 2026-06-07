@@ -6,7 +6,7 @@ date: 1996-07-11
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Common App", "Score Reporting", "Application"]
 excerpt: "SAT and the Common App explained: self-reporting versus official reports, when each is needed, sending scores on time and the per-school test-optional choice."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "hannah-moore"
 last_updated: 1996-07-11
@@ -14,7 +14,7 @@ lang: en
 ---
 The single most common application-season panic that lands in a counselor's inbox has nothing to do with essays or recommendation letters. It is a senior staring at the testing page of an application, holding a strong result, and unsure whether typing that number into a box counts, whether the college will believe it, and whether a separate fee and a separate send are still hanging over the submission like an unpaid bill. The number itself is fine. The fear is procedural, and procedural fear is the most wasteful kind, because the entire process is learnable in an afternoon and then never has to cost a moment of worry again.
 
-![SAT and the Common App: Reporting Scores - Insight Crunch](/assets/images/blog/blog-29.webp)
+![SAT and the Common App: Reporting Scores - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Here is the claim this guide defends from the first paragraph to the last: the journey a result takes from the testing center to an admissions reader runs in two distinct stages, and almost every mistake students make comes from collapsing those two stages into one. The first stage is applicant-entered information, the figure you type into the testing area of the application platform while you apply. The second stage is the verified document the College Board transmits directly to a campus, which most institutions only need once a decision has gone your way and you have chosen to enroll. Treat these as two separate clocks, each with its own trigger and its own cost, and the whole anxiety dissolves.
 

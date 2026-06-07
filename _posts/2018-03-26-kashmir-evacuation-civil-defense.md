@@ -6,7 +6,7 @@ date: 2018-03-26
 categories: ["Industry"]
 tags: ["kashmir", "evacuation", "civil-defense", "loc", "2025", "india-pakistan"]
 excerpt: "Millions of civilians on both sides of the Line of Control fled their homes during the 2025 conflict, a forced exodus that no official briefing ever described."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 72
 author: "kevin-reeves"
 last_updated: 2018-03-26
@@ -16,7 +16,7 @@ The press conferences counted missiles. They counted jets, terror camps, interce
 
 <!--more-->
 
-![Kashmir Evacuation Civil Defence 2025 - Insight Crunch](/assets/images/blog/blog-79.webp)
+![Kashmir Evacuation Civil Defence 2025 - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 This is the second story. It is the account of what happened to the people of the Line of Control when the doctrine of immediate military retaliation, the doctrine that produced the strike on nine sites across Pakistani territory, met the geography of one of the most densely militarized civilian landscapes on earth. Roughly fifteen million people live in the contested Kashmir region. A large share of them live within artillery range of a border that, for four days in May, became a live front. They were not combatants. They were farmers in Uri, shopkeepers in Poonch, schoolteachers in the Neelum Valley, day laborers in Chakothi. When the firing began, they did the only thing available to them. They ran. The evacuation of the Kashmir frontier in May 2025 was the conflict's invisible dimension, and the argument of this analysis is that its invisibility was not an accident. A military doctrine that markets itself on precision and proportionality has a structural incentive to keep the displaced out of frame, because the displaced are the part of the ledger that precision cannot explain away.
 

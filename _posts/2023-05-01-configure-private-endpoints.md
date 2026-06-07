@@ -6,7 +6,7 @@ date: 2023-05-01
 categories: ["Technology"]
 tags: ["Azure", "Private Endpoint", "Private Link", "Networking", "Private DNS", "Security"]
 excerpt: "Set up an Azure private endpoint end to end: create the endpoint, link the Private DNS zone, build the zone group, then verify private name resolution."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-51.webp"
 reading_time: 63
 author: "marcus-hall"
 last_updated: 2023-05-01
@@ -14,7 +14,7 @@ lang: en
 ---
 A correctly configured Azure private endpoint moves traffic to a managed service off the public internet and onto your virtual network, where it rides a private IP address that only your network can reach. When the setup is right, an application in a subnet calls its storage account, its SQL database, or its Key Vault using the same hostname it always used, and that name now resolves to a private address inside your address space. Nothing about the connection string changes. The packets simply stop leaving the network. When the setup is wrong, and it is wrong far more often than teams expect, the endpoint exists, the portal shows it as approved and healthy, and the application still talks to the service over the public internet because the one piece almost everyone underestimates was skipped. That missing piece is the DNS chain, and getting it right is the whole job.
 
-![Configuring Azure private endpoints end to end with Private DNS zone and zone group - Insight Crunch](/assets/images/blog/blog-87.webp)
+![Configuring Azure private endpoints end to end with Private DNS zone and zone group - Insight Crunch](/assets/images/blog/blog-51.webp)
 
 This guide walks the full procedure from an empty subnet to a verified private connection, and it does so in the order Azure actually requires rather than the order the portal wizard suggests. You will create the private endpoint in a subnet, create or reuse the Private DNS zone that matches the service, link that zone to the consuming virtual network, configure the private-DNS-zone group so the address record registers automatically, decide whether to disable public network access on the service, and then verify with a name lookup that the hostname now answers with the private IP. Each step has a quiet failure mode that produces a working-looking endpoint with broken behavior, and each of those traps gets named as we reach it. The reader who follows this through leaves able to stand up private connectivity that genuinely keeps traffic private, and able to prove it rather than assume it.
 

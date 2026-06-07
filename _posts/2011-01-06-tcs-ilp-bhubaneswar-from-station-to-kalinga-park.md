@@ -6,7 +6,7 @@ date: 2011-01-06
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Bhubaneswar", "Arrival Guide"]
 excerpt: "Arriving at TCS ILP Bhubaneswar: the journey from the railway station to Kalinga Park training center, first impressions, and settling into hostel life."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 45
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The arrival at Bhubaneswar for TCS ILP is one of the first tests of the professional life you are entering. You step off a train into a city whose script you may never have seen before - Odia, which the original account memorably describes as "Jalebis" for their circular, intricate appearance to the uninitiated eye. You negotiate with an auto driver in a garbled mix of whatever language works, load a cumbersome trolley into the vehicle, and make your way to the residency where your college-mates have already claimed the better rooms. The smallest room is what's left. You console yourself that however you arrange the three beds, the room will look equally small regardless.
 
-![The Bhubaneswar railway station building with its characteristic Kalinga-influenced architecture visible in the backdrop as arriving ILP trainees navigate auto-rickshaws with their luggage toward the Kalinga Park residential campus that will be home for the next several weeks of TCS training](/assets/images/blog/blog-63.webp)
+![The Bhubaneswar railway station building with its characteristic Kalinga-influenced architecture visible in the backdrop as arriving ILP trainees navigate auto-rickshaws with their luggage toward the Kalinga Park residential campus that will be home for the next several weeks of TCS training](/assets/images/blog/blog-60.webp)
 *Arriving at TCS ILP Bhubaneswar complete guide - from stepping off the train at Bhubaneswar Junction to reaching the Kalinga Park residential campus, the first night food reality, what the rules briefing from existing trainees tells you about what's ahead, the EC exam stakes, and the full first-day experience from an ILP trainee who lived it*
 
 This guide expands the original account's vivid, compressed arrival narrative into the complete travel and arrival guide that TCS ILP Bhubaneswar trainees need. The original account's author - Debapriya, arriving from West Bengal and finding Odia script on every advertising board - wrote with the specific sharpness of someone fresh into the experience. The jokes about Jalebis, the tie as "sophisticated and portable gallows pole," the dream about coding a tea-stall management system after hearing the EC pass rate - these are the texture of arrival at Bhubaneswar ILP that no logistics guide can replicate but that this guide sits alongside.

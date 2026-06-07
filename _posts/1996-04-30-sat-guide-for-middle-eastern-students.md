@@ -6,7 +6,7 @@ date: 1996-04-30
 categories: ["Industry"]
 tags: ["SAT", "International", "Middle East", "Gulf", "Study Abroad"]
 excerpt: "SAT guide for Middle Eastern students: strong Gulf testing centers, in-region US campuses, score targets and managing the prestige culture, with strategy."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 1996-04-30
@@ -14,7 +14,7 @@ lang: en
 ---
 A student in Dubai who has spent the last four years in an American-curriculum school is sitting on a structural advantage that most of her classmates never name out loud, and the cost of not naming it is steep. The SAT she will sit, taken at a center fifteen minutes from her home, tests reading, writing, and math in a format that her coursework has been quietly rehearsing since middle school. The Middle East, and the Gulf in particular, has become one of the most testing-rich regions outside the United States, with centers across the major cities and a dense layer of international schools that teach to a syllabus the exam already rewards. Yet the same student is at risk of throwing that edge away, because the dominant conversation around her, at home and among peers, points at a single narrow set of famous American names and treats everything else as a consolation prize. This guide is built to fix that specific failure: to convert a real testing advantage into a smart, fit-based target list that includes the genuinely excellent campuses sitting inside the region itself.
 
-![SAT guide for Middle Eastern students Gulf test centers and in-region campuses worked strategy - Insight Crunch](/assets/images/blog/blog-88.webp)
+![SAT guide for Middle Eastern students Gulf test centers and in-region campuses worked strategy - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 What you will not find here is a recycled overview of what the exam is and a vague encouragement to study hard. You will find the testing map for the Gulf and the wider region as it currently stands, the precise nature of the American-curriculum advantage and how to read whether you actually have it, a tiered set of targets that runs from in-region branch campuses through US-based institutions, and a language-profile method for the candidate moving out of Arabic-medium schooling into an English assessment. By the end you should be able to do the one thing the standard account never teaches a Gulf applicant to do, which is match a realistic predicted result and a clear-eyed reading of your own English profile to a target list you can defend to a skeptical relative.
 

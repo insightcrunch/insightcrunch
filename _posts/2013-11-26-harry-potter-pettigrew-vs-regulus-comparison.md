@@ -6,7 +6,7 @@ date: 2013-11-26
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Regulus Black", "Death Eaters"]
 excerpt: "In Harry Potter, Pettigrew turned good to evil while Regulus turned evil to good; this comparison asks why the direction of a turn outweighs its duration."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 42
 author: "olivia-grant"
 last_updated: 2013-11-26
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which man's reversal was more dramatic. The question is what the moral weight of a turn actually depends on: the courage it takes, the cost it exacts, or the direction it points. Peter Pettigrew and Regulus Black are the two figures J.K. Rowling builds to stage that question, and the answer she arrives at is one of the most counter-intuitive ethical claims in the entire series. One man turned from good toward evil and lived as a coward for thirteen years. The other turned from evil toward good and died as a hero in a single night. The arithmetic of loyalty would seem to favour the longer record, the sustained commitment, the years of service. The series refuses that arithmetic. It argues, with a precision that feels almost theological, that where you end matters more than where you spent your time.
 
-![Peter Pettigrew vs Regulus Black comparison in Harry Potter](/assets/images/blog/blog-19.webp)
+![Peter Pettigrew vs Regulus Black comparison in Harry Potter](/assets/images/blog/blog-58.webp)
 
 Hold the two careers side by side and the symmetry is unsettling. Both were young men shaped by worlds that prized loyalty above independent thought, the Marauders' circle for one and the ancient pure-blood Black household for the other. Both joined Lord Voldemort in early adulthood. Both reached a decisive break with their original allegiance in their early twenties: Pettigrew broke from the people who trusted him by selling the Potters' location, and Regulus broke from the master he had sworn himself to by stealing a Horcrux and leaving a note of open defiance in its place. Both died as a direct consequence of that break. And both had their stories assembled after the fact, told through the testimony of others rather than from their own mouths. The structural rhyme is exact. The moral content runs in opposite directions, and that opposition is the whole subject of this comparison.
 

@@ -6,7 +6,7 @@ date: 2010-07-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Flashback Structure", "Orson Welles", "Close Reading", "Themes", "Film History"]
 excerpt: "Why Citizen Kane is told in flashback is a question of meaning, not gimmick: the form turns a whole life into the partial versions that survivors recall."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 59
 author: "rachel-foster"
 last_updated: 2010-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Most viewers can describe the plot of the film and almost none can say why its plot arrives in the order it does. They remember the dying word, the burning sled, the man who had everything and died alone. What they rarely notice is that they were never shown that life directly. The reason Citizen Kane is told in flashback is the single most consequential decision Orson Welles and his collaborators made, more consequential than any individual shot, because the structure is not a delivery system for the story but the argument the story exists to make. A life cannot be known from the inside, the film proposes; it can only be reassembled, after it ends, from the partial and self-interested memories of the people who survive it. That proposition is not stated in a line of dialogue. It is built into the shape of the movie.
 
-![Why Citizen Kane is told in flashback, the film's structure explained - Insight Crunch](/assets/images/blog/blog-66.webp)
+![Why Citizen Kane is told in flashback, the film's structure explained - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This is the clearest case in the whole film of a principle that runs through everything Welles attempts: form is meaning. A chronological account of a newspaper magnate who inherits a fortune, builds an empire, ruins two marriages, and dies bitter would be a competent tragedy and a forgettable one. The same events routed through five rememberers, each prompted by a reporter who needs an answer, become something a chronological telling could never be: a study of how memory constructs a person who was never available whole to begin with. The order is the point. To understand the order is to understand the film, and to mistake it for a confusing thriller, or to wish it had been straightened out, is to miss the only thing that separates Citizen Kane from a hundred rise-and-fall biographies that have not been studied for eighty years.
 

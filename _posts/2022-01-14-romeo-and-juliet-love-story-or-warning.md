@@ -6,7 +6,7 @@ date: 2022-01-14
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "interpretation-debate", "arthur-brooke", "morality", "is-romeo-and-juliet-a-love-story"]
 excerpt: "Romeo and Juliet reads to most as pure romance, but Shakespeare inherited a tale told as a moral warning, and the text keeps both readings alive at once."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 75
 author: "amanda-ross"
 last_updated: 2022-01-14
@@ -14,7 +14,7 @@ lang: en
 ---
 Before Shakespeare set down a single line, an English poet had already passed sentence on the two young people at the centre of the story. Arthur Brooke, whose 1562 poem supplied the plot the dramatist would later rebuild, opened his verse with a stern address to the reader. He described a couple who thralled themselves to unhonest desire, who set aside the counsel of their elders, who confided their gravest secrets to drunken gossips and a superstitious friar, and who abused the honourable name of marriage to cloak a stolen contract, hastening by every dishonest means toward an unhappy end. In that preface the young Veronese pair are not the casualties of fortune so much as a cautionary exhibit, a moral lesson wearing the costume of a romance.
 
-![Romeo and Juliet love story or warning debate, Brooke's preface versus Shakespeare's text - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Romeo and Juliet love story or warning debate, Brooke's preface versus Shakespeare's text - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 That framing sits awkwardly beside the work most people believe they know. The popular memory of this tragedy is a memory of ardour: a boy and a girl who meet, fall headlong, and die rather than live apart, their devotion so absolute that it shames the petty hatreds of the adult world. On that account the play is a hymn to feeling, and the deaths are the price of a purity the rest of Verona cannot match. Yet the source that gave Shakespeare his story read the same events as an indictment. The question this article sets out to answer is not which reading is correct but why the text sustains both at once, and what the dramatist did to the inherited sermon to make the doubleness possible. The claim advanced here, which the analysis will earn rather than assert, is that the tragedy is built as a double frame: every cue that invites the audience to adore the lovers is shadowed by a counter-cue that invites the audience to fear for them or to judge them, and the refusal to collapse the two is the design rather than a flaw in it. This is the InsightCrunch double-frame reading, and it offers a way past the flattening that turns one of the strangest experiments in English drama into a greeting-card sentiment. The same flattening is the target of the wider argument that the tragedy is not finally about romantic feeling at all, a case set out in the companion study of [why the tragedy is misread as a celebration of love](https://insightcrunch.com/why-romeo-and-juliet-is-not-about-love/).
 
