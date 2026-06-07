@@ -6,15 +6,15 @@ date: 2024-03-11
 categories: ["Technology"]
 tags: ["Azure", "Privileged Identity Management", "Entra ID", "Security", "Identity", "Access Reviews"]
 excerpt: "Privileged Identity Management turns standing Azure admin rights into time-bound, justified activation, so privilege exists only when work demands it."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "gregory-marsh"
 last_updated: 2024-03-11
+lang: en
 ---
-
 A subscription Owner who can delete every resource group at 3 a.m. on a Sunday, with no approval, no justification, and no expiry, is the single most common privileged-access problem in an Azure tenant. Privileged Identity Management is the control that removes it. The account is not malicious and the engineer behind it is not careless. The role was assigned during a project two years ago, the project ended, and the assignment never did. That gap between when privilege was needed and how long it persisted is exactly the exposure that standing access creates, and it is the exposure Privileged Identity Management was built to close.
 
-![Azure Privileged Identity Management: eligible versus active assignments, just-in-time activation, and access reviews](/assets/images/blog/blog-10.webp)
+![Azure Privileged Identity Management: eligible versus active assignments, just-in-time activation, and access reviews](/assets/images/blog/blog-83.webp)
 
 The mental shift this article asks for is small to state and large to absorb. Stop thinking of a privileged role as something a person *has*, and start thinking of it as something a person *can request when they need it and lose when they do not*. A permanent Owner has the role all the time, which means an attacker who phishes that account has Owner all the time, an audit of who can delete production returns a list that grew silently for years, and a single mistake at the keyboard has the blast radius of the highest-authority role in the tenant every minute of every day. Convert that same person to an eligible Owner who activates for four hours with a justification and an approval, and the privilege exists for four hours a quarter instead of permanently. The attack surface shrinks from continuous to occasional, the audit trail becomes a record of deliberate activations rather than a static list, and the blast radius is bounded to the windows when work is actually happening.
 

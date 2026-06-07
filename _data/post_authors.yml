@@ -123,18 +123,22 @@ azure-networking-fundamentals: william-knight
 azure-nsg-deep-dive: james-carter
 azure-oauth-oidc-explained: ian-fletcher
 azure-outbound-snat-explained: insight-crunch-team
+azure-pim-explained: gregory-marsh
 azure-private-link-deep-dive: alex-cunningham
 azure-rbac-vs-abac-explained: ian-fletcher
 azure-resource-manager-arm-explained: nathan-cole
 azure-route-tables-udr-explained: jason-mckenzie
 azure-service-bus-deep-dive: jason-mckenzie
 azure-sql-database-internals: marcus-hall
+azure-sql-security-guide: benjamin-scott
 azure-storage-accounts-complete-guide: gregory-marsh
+azure-storage-security-encryption: james-carter
 azure-synapse-analytics-explained: thomas-reid
 azure-virtual-machines-complete-guide: david-thornton
 azure-virtual-network-vnet-deep-dive: abigail-cooper
 azure-virtual-wan-deep-dive: david-thornton
 azure-vpn-gateway-deep-dive: nathan-cole
+azure-zero-trust-architecture: nathan-cole
 badshahi-angti-emperors-ring-bn: rahul-banerjee
 bahawalpur-jem-headquarters: alex-cunningham
 baksho-rahashya-1996-film-bn: amit-chatterjee
@@ -325,6 +329,7 @@ complete-college-application-guide: jason-mckenzie
 complete-guide-paying-for-college: ryan-walsh
 complete-history-bollywood-action-cinema: nandini-sen
 complete-shadow-war-kill-list: benjamin-scott
+conditional-access-deep-dive: james-carter
 configure-aks-ingress-tls: marcus-hall
 configure-aks-workload-identity: ryan-walsh
 configure-app-gateway-waf: ryan-walsh
@@ -371,6 +376,7 @@ deadliest-wars-history-ranked: insight-crunch-team
 dean-thomas-complete-character-analysis: sophia-turner
 decade-of-restraint-2009-2015: andrew-price
 declaration-of-independence-explained: chloe-martin
+defender-for-cloud-explained: alex-cunningham
 deloitte-vs-accenture-clash-of-the-titans: nikhil-tiwari
 demystifying-tableau-certification-your-questions-answered: nina-petrova
 desdemona-othello-character-analysis: sophia-turner
@@ -416,7 +422,10 @@ dhurandhar-vs-uri-surgical-strike-compared: nandini-sen
 dhurandhar-zero-dark-thirty: rahul-banerjee
 did-india-kill-100-militants: thomas-reid
 digital-products-buying-guide-chinese: david-thornton
+digital-sat-2026-complete-update: natalie-webb
+digital-sat-bluebook-app-complete-guide: michael-brooks
 digital-sat-complete-guide-format-bluebook-adaptive: christopher-wells
+digital-sat-vs-paper-sat-compared: katherine-blake
 disliked-the-biased-documentary-on-kolkata-on-cnn-ibn-by-nilanjana-bose: amit-chatterjee
 dissolution-soviet-union-explained: amanda-ross
 dobby-complete-character-analysis: elena-wright
@@ -472,6 +481,7 @@ embracing-joy-30-simple-pleasures-that-bring-happiness: rachel-foster
 emilia-othello-character-analysis: elena-wright
 end-to-an-unforgettable-era: diana-patel
 engineering-years-the-ideal-approach: diana-patel
+entra-app-registrations-explained: alex-cunningham
 entra-id-authentication-explained: marcus-hall
 envisioning-the-future-with-technology: amanda-ross
 essbase-data-quality-control-using-odi: thomas-reid
@@ -780,6 +790,9 @@ google-wave-aimed-at-a-revolution: ryan-walsh
 googles-chrome-experiments-to-showcase-javascript-applications: alex-cunningham
 gorosthaney-sabdhan-bn: rahul-banerjee
 gothic-elements-classic-novels: lauren-hayes
+grand-canyon-4-day-itinerary: amit-chatterjee
+grand-canyon-best-time-to-visit: amit-chatterjee
+grand-canyon-national-park-complete-guide: rahul-banerjee
 grant-enforcement-acts-reconstruction: diana-patel
 grant-presidential-ranking-rehabilitation: diana-patel
 great-depression-explained-complete: amanda-ross
@@ -1145,6 +1158,7 @@ kartarpur-corridor-during-conflict: benjamin-scott
 kashmir-evacuation-civil-defense: kevin-reeves
 kashmir-origin-terrorists-pakistan: marcus-hall
 kent-king-lear-character-analysis: emily-reed
+key-vault-security-best-practices: david-thornton
 kgb-assassination-history: andrew-price
 khalistan-commando-force-explained: david-thornton
 khalistan-movement-terror-timeline: ryan-walsh
@@ -1212,6 +1226,7 @@ major-iqbal-character-analysis-dhurandhar: rahul-banerjee
 making-a-difference-the-power-of-small-changes-in-the-blogging-world: chloe-martin
 making-money-in-college-guide: marcus-hall
 malcolm-character-analysis: megan-clark
+managed-identity-vs-service-principal: abigail-cooper
 managing-bi-services-using-odi: james-carter
 marlow-character-analysis-conrad: megan-clark
 masood-azhar-complete-profile: amit-chatterjee
@@ -1484,6 +1499,7 @@ sat-6-month-preparation-plan: samantha-lee
 sat-800-to-1000-strategy: natalie-webb
 sat-accommodations-extended-time-guide: patrick-dunn
 sat-adaptive-module-strategy: katherine-blake
+sat-adaptive-testing-deep-dive: daniel-morgan
 sat-advanced-math-domain-complete-guide: patrick-dunn
 sat-advanced-vocabulary: katherine-blake
 sat-algebra-domain-complete-guide: samantha-lee
@@ -1616,6 +1632,7 @@ sat-score-trends-2020-2026: samantha-lee
 sat-scores-for-ivy-league-admission: christopher-wells
 sat-scores-for-merit-scholarships: jessica-kim
 sat-scores-required-top-50-us-universities: christopher-wells
+sat-section-adaptive-cross-section-effects: natalie-webb
 sat-section-score-balance: michael-brooks
 sat-senior-last-chance: maria-santos
 sat-sentence-boundaries: michael-brooks
@@ -1641,7 +1658,11 @@ sat-vocabulary-in-context-complete-guide: jessica-kim
 sat-vs-act-which-test-should-you-take: samantha-lee
 sat-vs-clt-classic-learning-test-compared: patrick-dunn
 sat-vs-gaokao-us-china-admissions: he-xiaomei
+sat-vs-gcse-and-a-levels-us-uk-compared: james-whitfield
 sat-vs-gre-vs-gmat-understanding-us-standardized-tests: maria-santos
+sat-vs-jee-and-neet-us-india-testing: anita-das
+sat-vs-kyotsu-test-us-japan-compared: yamamoto-kenji
+sat-vs-upsc-us-india-exams-compared: anita-das
 sat-winter-break-intensive: simon-hartley
 sat-wrong-answer-analysis: daniel-morgan
 satyam-tainted: andrew-price
@@ -1654,6 +1675,7 @@ scramble-for-africa-colonialism: diana-patel
 seamus-finnigan-complete-character-analysis: sophia-turner
 second-term-presidential-curse-pattern: chloe-martin
 secret-powers-of-time: chloe-martin
+securing-aks-clusters-guide: william-knight
 sensational-sequoia: amit-chatterjee
 september-11-attacks-explained: chloe-martin
 service-vs-private-endpoints: jason-mckenzie
@@ -2163,6 +2185,7 @@ what-months-does-amazon-hire: nathan-cole
 whats-my-tcs-college-grade: rajan-kumar
 when-did-shakespeare-write-romeo-and-juliet: rachel-foster
 where-to-stay-yellowstone: rahul-banerjee
+where-to-stay-yosemite: amit-chatterjee
 which-ap-classes-to-take: daniel-morgan
 which-job-is-best-in-amazon: james-carter
 which-tableau-certification-is-best: jordan-ellis
@@ -2219,9 +2242,13 @@ yellowstone-on-a-budget: rahul-banerjee
 yellowstone-wildlife-watching-guide: rahul-banerjee
 yosemite-5-day-itinerary: rahul-banerjee
 yosemite-best-time-to-visit: nandini-sen
+yosemite-climbing-adventure-guide: nandini-sen
+yosemite-easy-family-hikes: nandini-sen
 yosemite-hidden-gems: amit-chatterjee
 yosemite-national-park-complete-guide: nandini-sen
 yosemite-on-a-budget: amit-chatterjee
+yosemite-waterfalls-guide: amit-chatterjee
+yosemite-with-kids: amit-chatterjee
 you-in-yahoo-spreads-ripples-of-kindness-around-the-world-in-129-characters: rachel-foster
 yrf-spy-universe-complete-guide-all-films: nandini-sen
 yugoslav-wars-1990s-explained: rachel-foster

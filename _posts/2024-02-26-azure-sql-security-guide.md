@@ -6,19 +6,19 @@ date: 2024-02-26
 categories: ["Technology"]
 tags: ["Azure", "Azure SQL", "Security", "Identity", "Encryption", "Cloud Computing"]
 excerpt: "Azure SQL security means closing five surfaces together: Entra authentication, a private endpoint, TDE and Always Encrypted, auditing, and least privilege."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "benjamin-scott"
 last_updated: 2024-02-26
+lang: en
 ---
-
 A database that holds customer records, financial transactions, or anything subject to a compliance regime is the asset an attacker wants most, and Azure SQL security is the discipline that decides whether reaching that asset takes one stolen password or a coordinated breach of several independent controls. The gap between a database that ships with defaults and one that has been hardened is not a single setting. It is the difference between an attack surface that any leaked connection string can cross and one where authentication, network path, encryption, monitoring, and authorization each have to fail before data leaves the building.
 
 The common failure is to treat the database as secure because it sits inside Azure. The platform encrypts storage by default, presents a certificate on the connection, and asks for a username and password, so the surface looks covered. It is not. A SQL login with a password that ends up in a configuration file, a server firewall opened to a broad address range so a developer could connect from home, and the assumption that encryption at rest also protects data while it is being queried, together describe most of the real incidents that reach a database in Azure. None of those gaps shows up as an error. The database works, queries return, and the exposure stays invisible until someone finds it.
 
 This guide treats Azure SQL security as five surfaces that must be closed together rather than a checklist of independent toggles. Authentication decides who can prove identity to the server. The network path decides who can even reach the endpoint to attempt a connection. Encryption decides what an attacker recovers if they reach the storage, the backups, or the query traffic. Auditing and threat detection decide whether you find out an attack happened. Authorization decides how much damage a single compromised identity can do once it is inside. The argument running through every section is the entra-auth-and-network rule: the two changes that move the security posture the furthest are switching to Microsoft Entra authentication and removing public network exposure, because together they close the credential surface that SQL logins leave open and the reachability surface that an open firewall leaves open. Everything else in this guide is defense in depth layered behind those two moves.
 
-![Azure SQL security: authentication, encryption, network lockdown, auditing, and least privilege](/assets/images/blog/blog-08.webp)
+![Azure SQL security: authentication, encryption, network lockdown, auditing, and least privilege](/assets/images/blog/blog-71.webp)
 
 ## What "secure" means for an Azure SQL database
 
@@ -317,7 +317,6 @@ A control that frequently gets mistaken for column encryption is dynamic data ma
 The distinction from Always Encrypted is the one that matters for the threat model. Always Encrypted keeps the column ciphertext on the server, so even a fully privileged server-side reader recovers only encrypted bytes. Dynamic data masking keeps the column plaintext on the server and merely hides it in the result for some readers, so an identity that can run an arbitrary query, that holds the unmask permission, or that can reach the storage directly recovers the real values. Masking is a useful control against the over-the-shoulder and broad-read-access threats, a support engineer who needs to confirm a record without seeing the full card number, or an analyst querying a table who has no business reason to see identifiers, but it is not a defense against a determined attacker who has authenticated with sufficient privilege, and it is no defense at all against someone who reaches the storage beneath the engine.
 
 The practical place for dynamic data masking is as a convenience layer that reduces unnecessary exposure of sensitive values to the many identities that legitimately query a table but do not need the sensitive columns in clear, layered on top of, never instead of, the real protections. A reporting role can read a customer table with identifiers masked, which limits casual exposure without blocking the role's actual work, while the genuinely sensitive columns that must stay secret even from a server-side reader are protected by Always Encrypted, and the whole table sits behind the authentication, network, and least-privilege gates. Treating masking as a usability refinement rather than a security boundary keeps it in its proper role and avoids the trap of designing a data-protection strategy around a control that obscures rather than encrypts. The classification work that decides which columns need Always Encrypted and which only warrant masking is the same exercise either way: identify the values whose exposure would be the breach, protect those with encryption, and use masking to trim the routine over-exposure of the rest.
-
 
 
 Every control in this guide carries an operational cost, and pretending otherwise is how security configurations get abandoned when they collide with delivery. Naming the cost of each move makes the hardening decisions deliberate rather than aspirational, and it is the difference between a posture a team adopts and one they roll back the first time it gets in the way.

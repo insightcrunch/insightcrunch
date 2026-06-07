@@ -5,13 +5,15 @@ date: 1996-02-27
 categories: ["Industry"]
 tags: ["SAT", "International", "A-Levels", "GCSE", "Exam Comparison"]
 excerpt: "SAT vs GCSEs and A-Levels: reasoning breadth versus deep subject specialization, how each system reads the other credential, and which prepares students."
-image: "/assets/images/blog/blog-02.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "james-whitfield"
 last_updated: 1996-02-27
+lang: en
 ---
-
 A British seventeen-year-old who has spent two years reading three subjects in real depth sits down to a sample SAT and finishes the math feeling underwhelmed, then loses points on a reading question that asks nothing about content and everything about how a short paragraph is built. An American junior who has trained for that same reading question stares at a past A-Level chemistry paper and cannot start, because the paper assumes a body of memorized mechanism that the reasoning test never asked for. Both teenagers are strong. Both are about to misjudge the other system, and the misjudgment will cost a family money, time, and sometimes an entire application strategy.
+
+![SAT vs GCSEs and A-Levels: US and UK - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 That collision is the subject of this guide. Most comparisons of the American and British routes line up two columns and declare a winner, which is the one thing the evidence does not support. The honest finding is that the College Board exam and the British advanced courses optimize for different things, read each other through their own assumptions, and produce graduates who are differently prepared rather than better or worse prepared. The reader who understands that difference can plan a dual application without panic, can translate a transcript into the receiving country's language, and can stop asking the unanswerable question of which test is harder. What follows is the InsightCrunch SAT-versus-A-Levels comparison, a framework that places each credential by what it measures, when it is taken, what role it plays in admission, and how the opposite system reads it. The primary keyword here, SAT vs A-Levels, names a question that deserves a precise answer rather than a slogan, and the first hundred words have already given you the shape of that answer: breadth against depth, and neither one crowned.
 

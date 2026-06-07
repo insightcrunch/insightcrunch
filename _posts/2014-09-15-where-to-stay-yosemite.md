@@ -6,17 +6,17 @@ date: 2014-09-15
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "Where to Stay", "National Parks", "Outdoors"]
 excerpt: "Where to stay near Yosemite, from in-park lodges to gateway towns, with booking windows, drive times, and the right base for every trip and budget type."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2014-09-15
+lang: en
 ---
-
 Where to stay near Yosemite is the decision that quietly sets the shape of an entire trip, because it fixes how much of each day disappears into driving rather than standing under a waterfall, what the nightly bill comes to, and whether a room exists at all. Most first-time planners treat lodging as a detail to settle after the dates are chosen. In this park that order is backwards. The rooms people most want to sleep in, the ones on the Valley floor within walking distance of the granite, sell on rolling release windows far ahead and vanish within hours of opening. So the honest question is rarely which room is nicest. It is which base you can actually secure, and how far that base sits from the cliffs and falls you came to see.
 
 That single reframing changes how a sensible person plans the trip. A traveler who understands the booking calendar can still sleep inside the park; a traveler who learns it too late ends up an hour away paying more than they expected for less. This guide settles the inside-versus-outside question with the four factors that actually decide it, ranks the in-park lodges and the gateway towns by who each one suits, and gives you a fallback for the very common moment when you open the reservation site and everything is gone.
 
-![Where to stay near Yosemite, in-park lodges and gateway towns compared - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Where to stay near Yosemite, in-park lodges and gateway towns compared - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 For the wider orientation, this guide assumes you already know roughly how the park is laid out and how many days you want; if not, the [complete Yosemite planning guide](/2014/06/01/yosemite-national-park-complete-guide/) maps the geography and the time you need before you ever think about a bed. What follows here is the lodging layer alone, treated as the planning problem it really is.
 

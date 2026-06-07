@@ -6,15 +6,15 @@ date: 2024-01-08
 categories: ["Technology"]
 tags: ["Azure", "Managed Identity", "Service Principal", "Identity", "Security", "Cloud Computing"]
 excerpt: "Managed identity vs service principal in Azure comes down to secrets: one removes the credential the other still forces you to store and rotate by hand."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2024-01-08
+lang: en
 ---
-
 Every Azure workload that calls another Azure service has to prove who it is, and the choice of how it proves that is where most credential leaks begin. The managed identity vs service principal decision looks like a small implementation detail, a line in a deployment script, until a secret scanner flags a client secret hardcoded in a pipeline variable or a six-month-old certificate expires at two in the morning and takes a production integration down with it. The two options answer the same question, namely how a non-human caller authenticates to Microsoft Entra ID, but they answer it with opposite assumptions about who holds the credential and who is responsible when it leaks or lapses. One asks you to create, store, protect, and rotate a secret forever. The other hands the entire credential problem to the platform and gives you nothing to leak.
 
-![Managed identity vs service principal in Azure secret lifecycle and decision rule - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Managed identity vs service principal in Azure secret lifecycle and decision rule - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 That difference is not cosmetic. It changes your threat model, your operational burden, your audit story, and the blast radius of a mistake. This guide works through the comparison the way an engineer actually faces it: what each object is, where the credential lives, how the lifecycle plays out over the months after deployment, and a decision rule you can apply at design time rather than discovering at incident time. The goal is not to recite feature lists from the portal. The goal is to leave you able to look at any workload and reason your way to the right choice, defaulting to the option that removes the secret unless something concrete forces the other.
 

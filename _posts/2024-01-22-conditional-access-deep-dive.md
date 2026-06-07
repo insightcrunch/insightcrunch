@@ -6,17 +6,17 @@ date: 2024-01-22
 categories: ["Technology"]
 tags: ["Azure", "Conditional Access", "Microsoft Entra ID", "Security", "Identity", "Cloud Computing"]
 excerpt: "Conditional Access deep dive: how Azure weighs signals and risk, applies grant and session controls, and where unblocked legacy auth quietly leaves a gap."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "james-carter"
 last_updated: 2024-01-22
+lang: en
 ---
-
 A tenant can carry a dozen Conditional Access policies, a clean secure score, and a confident architecture diagram, and still hand an attacker a working session through a path nobody mapped. The exposure is rarely a missing rule. It is a rule that looks complete in the portal but never fires against the request that matters, because the request arrived over a protocol the policy was never asked to evaluate, or because two policies that each seemed sensible combined into a verdict neither author intended. Conditional Access is the gate that stands between a valid credential and a granted session, and the difference between a gate that protects and a gate that decorates comes down to whether the person who built it understood what the engine actually inspects before it decides.
 
 That gap matters more in identity than almost anywhere else, because identity is the control plane an attacker reaches for first. A stolen password, a phished token, a reused credential from an unrelated breach: each of these is a knock at the gate, and the gate either asks for more proof or waves the request through. When the gate waves a stolen credential through, the blast radius is the entire reach of that identity, which for an administrator can mean the tenant itself. The cost of a Conditional Access misconfiguration is not measured in a slow page load. It is measured in whether an adversary who already holds a password is stopped at the threshold or seated at the desk.
 
-![Conditional Access deep dive on signals, grant and session controls, and policy gaps in Azure - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Conditional Access deep dive on signals, grant and session controls, and policy gaps in Azure - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 This article treats Conditional Access as a design discipline rather than a checklist. The goal is to leave you able to reason about a policy the way the evaluation engine does: to know which signals it can read, which controls it can apply, how a set of policies resolves into a single grant or block, and where the quiet gaps hide. The organizing idea, the one to carry through every section, is what this series calls the signals-then-controls rule. Conditional Access matches signals and then applies controls, so a strong posture comes from pairing the right signals (risk, device state, location, application sensitivity) with the right controls (multifactor authentication, a compliant device requirement, a session limit), and the most common failure is an unblocked legacy-authentication path that ignores both halves of that pairing entirely.
 

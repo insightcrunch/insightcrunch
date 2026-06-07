@@ -3,18 +3,18 @@ title: "SAT Cross-Section Adaptive Effects"
 page_title: "SAT Cross-Section Adaptive Effects: Why Your Reading Performance Cannot Change Your Math Difficulty"
 date: 1996-01-22
 slug: sat-section-adaptive-cross-section-effects
-author: "Insight Crunch Team"
+author: "natalie-webb"
 image: /assets/images/blog/blog-10.webp
 excerpt: "SAT cross-section adaptive effects explained: why Reading and Writing and Math are independently adaptive, the myths debunked and what it means for strategy."
 tags: ["SAT", "Digital SAT", "Adaptive Testing", "Section Scores", "Myths"]
 reading_time: 60
+lang: en
 ---
-
 There is a question that surfaces in every test-prep forum, every group chat the night before a test date, and every nervous conversation between a student and a parent who half-remembers how computer tests work. It goes like this: if I do badly on the first half of the digital SAT, does the machine hand me an easier second half on the other subject? Phrased more precisely by the students who have read a little about how the exam routes them, the worry becomes a strategy: should I deliberately tank Reading and Writing so the algorithm decides I am weak and serves me a gentler Math section? The premise behind both versions is the same, and it is wrong. Your performance in Reading and Writing has no bearing on the difficulty you face in Math, and your performance in Math has no bearing on the difficulty you face in Reading and Writing. The two halves of the test are sealed off from each other. Each one routes you on its own evidence and nothing else.
 
 This article exists to settle that point completely, to explain the mechanism that makes it true, to trace where the rumor comes from so you can recognize the next mutation of it, and to convert the fact into the handful of strategic decisions it actually changes. Knowing that the sections are walled apart is not trivia. It kills a tempting and self-destructive plan before a student can act on it, and it clarifies how to treat the two halves of a sitting that, on the surface, feel like one continuous ordeal.
 
-![SAT cross-section adaptive effects and section independence explained - Insight Crunch](/assets/images/blog/blog-10.webp)
+![SAT cross-section adaptive effects and section independence explained - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 The shorthand this series uses for the principle is the section firewall. A firewall, in the original architectural sense, is a wall built to stop a fire in one part of a structure from spreading to the rest. The digital SAT has exactly such a barrier between its two scored halves. Whatever happens inside Reading and Writing, however well or badly it burns, stays in Reading and Writing. The routing engine for Math never sees it, never reads it, never adjusts to it. The reverse holds with equal force. Once you internalize the firewall, a whole category of pre-test scheming collapses, and a cleaner way of approaching the day takes its place.
 

@@ -6,17 +6,17 @@ date: 2024-02-12
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Kubernetes", "Security", "Identity", "Networking"]
 excerpt: "Secure AKS cluster hardening across the API server, network policy, the two RBAC layers, workload identity, and image policy, with reasons at each step."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2024-02-12
+lang: en
 ---
-
 A managed control plane does not mean a managed security posture. When you provision an Azure Kubernetes Service cluster with the portal defaults or a quickstart command, you get a working cluster in minutes, and almost every control that would keep an attacker out is either off, wide open, or pointed at a public endpoint. To secure an AKS cluster you have to understand that the defaults optimize for "it runs," not "it is safe," and the gap between those two states is where most real incidents live. This guide walks the full attack surface of a cluster and the concrete control that closes each opening, in the order an engineer should apply them.
 
 The danger is not theoretical. A cluster created the easy way exposes its Kubernetes API server on a public IP, runs every pod in a flat network where any compromised container can talk to any other, ships with a Kubernetes authorization model that grants more than people assume, stores application credentials as base64 strings that anyone with namespace read access can decode, and admits any container image from any registry without a scan or a policy gate. Each of those is a separate door, and locking one while leaving the rest open buys far less protection than people expect.
 
-![Securing AKS clusters across the API server, network, identity, and image surfaces](/assets/images/blog/blog-06.webp)
+![Securing AKS clusters across the API server, network, identity, and image surfaces](/assets/images/blog/blog-52.webp)
 
 This article centers on one organizing idea, the rule that everything else hangs from. Call it the two-RBAC-and-isolation rule: securing AKS means handling both Azure RBAC for the control plane and Kubernetes RBAC inside the cluster, and turning on pod isolation through network policy, because the control plane and the data plane each carry their own access surface that the defaults leave open. Most teams secure one of those two access surfaces, declare victory, and ship a cluster that an auditor or an attacker can walk straight into through the other. Holding both surfaces and the network between them in your head at once is the difference between a cluster that looks secured and one that is.
 
