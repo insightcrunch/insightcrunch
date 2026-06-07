@@ -8,9 +8,9 @@ tags: ["Azure", "Managed HSM", "Key Vault", "Encryption", "Security", "Complianc
 image: /assets/images/blog/blog-13.webp
 excerpt: "Azure Managed HSM is a single-tenant, FIPS 140-3 Level 3 key store. Learn how it differs from standard Key Vault and when compliance truly demands it."
 reading_time: 60
-author: "Insight Crunch Team"
+author: "kevin-reeves"
+lang: en
 ---
-
 A regulator asks a single question during an audit: who, other than your own named administrators, can reach the cryptographic keys that protect your customer data? If the honest answer involves a shared pool of hardware that other tenants also use, or an access model that a subscription owner can quietly override, the conversation gets longer and more expensive. Azure Managed HSM exists for the moment when that answer has to be airtight. It is a single-tenant, FIPS 140-3 Level 3 validated key store with its own access-control plane, and it was built for the workloads where the standard vault, good as it is, cannot satisfy the mandate on paper.
 
 The exposure that drives most teams toward this service is not a dramatic breach. It is the slow realization that a compliance framework, a contractual clause, or an internal control standard names a requirement the team cannot meet with what they already run. Sometimes that requirement is single-tenancy: a demand that the hardware protecting your keys belongs to you alone. Sometimes it is an isolation of administrative authority so complete that even the person who owns the Azure subscription cannot grant themselves access to the keys. Sometimes it is the ability to walk in with a key generated on your own on-premises hardware and import it without it ever existing in plaintext outside a validated module. These are the signals that the standard Key Vault, which serves the vast majority of Azure workloads perfectly well, has reached its boundary.
@@ -21,7 +21,7 @@ There is a second reason the boundary matters so much here. Managed HSM is not a
 
 Azure Managed HSM, then, is best understood not as the most secure key store but as the most controlled one. The difference is the whole subject. What follows walks through what the service is and the mental model to hold, how the underlying hardware and the security domain actually work, the precise line that separates it from standard Key Vault and its premium HSM-backed keys, how to provision and activate it without painting yourself into a corner, how bring-your-own-key import works, the local role model that replaces Azure RBAC inside the cluster, the misconfigurations that turn a high-assurance store into an exposure, how the customer-managed-key consumers such as Storage and SQL plug into it, and how to verify and audit the whole posture. The decision table near the middle is the artifact to bookmark, because it compresses the entire choice into four signals and one verdict.
 
-![Azure Managed HSM single-tenant key store architecture](/assets/images/blog/blog-13.webp)
+![Azure Managed HSM single-tenant key store architecture](/assets/images/blog/blog-73.webp)
 
 ## What Azure Managed HSM actually is
 

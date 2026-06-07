@@ -6,17 +6,17 @@ date: 2024-04-15
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Cloud Security Benchmark", "Security", "Defender for Cloud", "Azure Policy", "Cloud Computing"]
 excerpt: "An Azure security baseline is run as a loop: define the benchmark, enforce it with Azure Policy, assess it in Defender for Cloud, and remediate the drift."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "ryan-walsh"
 last_updated: 2024-04-15
+lang: en
 ---
-
 An Azure security baseline is the standard you have decided your environment must meet, written down as enforceable controls rather than a slide deck of good intentions. The gap between teams that have one and teams that only think they do shows up at the worst possible moment: an auditor asks for evidence that storage accounts deny public network access, and someone opens the portal to check account by account. By then the answer is whatever the last person who touched each resource decided, not what the organization agreed. A baseline that lives in a wiki page is a wish. A baseline wired into Azure Policy and watched by Microsoft Defender for Cloud is a control that holds even when nobody is looking.
 
 Most coverage of this topic treats the benchmark as a reading assignment. You download the Microsoft cloud security benchmark, skim the control domains, map a few of them to whatever framework your auditor cares about, and file the spreadsheet. That work matters, but it is the easy half. The hard half is making the standard true and keeping it true as hundreds of engineers deploy, reconfigure, and decommission resources every week. A control that was satisfied on Monday is violated by Thursday's hotfix, and nothing tells you unless the standard is enforced and assessed continuously. This guide treats the baseline as an operating system for compliance, not a document, and walks the full cycle from definition through enforcement, assessment, and the part everyone skips: remediating the drift that creeps in the moment the audit ends.
 
-![Azure security baselines and benchmarks operating loop](/assets/images/blog/blog-15.webp)
+![Azure security baselines and benchmarks operating loop](/assets/images/blog/blog-31.webp)
 
 ## What an Azure security baseline actually is
 

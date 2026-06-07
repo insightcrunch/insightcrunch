@@ -45,6 +45,7 @@ ai-tools-complete-guide-chinese: andrew-price
 aijaz-ahmad-ahangar-isis-kashmir: andrew-price
 ajay-sanyal-character-analysis-dhurandhar: amit-chatterjee
 akram-khan-akram-ghazi-let-profile: marcus-hall
+aks-microservices-architecture: thomas-reid
 al-badr-mujahideen-explained: david-thornton
 albus-dumbledore-complete-character-analysis: claire-bennett
 alexander-the-great-life-conquests: rachel-foster
@@ -109,6 +110,7 @@ azure-container-apps-explained: william-knight
 azure-cosmos-db-engineering-guide: nathan-cole
 azure-data-factory-complete-guide: david-thornton
 azure-dns-private-zones-explained: kevin-reeves
+azure-event-driven-architecture: nathan-cole
 azure-event-hubs-engineering-guide: andrew-price
 azure-expressroute-deep-dive: ian-fletcher
 azure-firewall-vs-nva-vs-nsg: nathan-cole
@@ -117,7 +119,9 @@ azure-fundamentals-az-900-practice-exam-microsoft-certification: benjamin-scott
 azure-key-vault-complete-guide: andrew-price
 azure-kubernetes-service-aks-explained: ryan-walsh
 azure-logic-apps-deep-dive: david-thornton
+azure-managed-hsm-explained: kevin-reeves
 azure-monitor-log-analytics-guide: jason-mckenzie
+azure-network-security-best-practices: kevin-reeves
 azure-network-watcher-guide: ryan-walsh
 azure-networking-fundamentals: william-knight
 azure-nsg-deep-dive: james-carter
@@ -127,7 +131,11 @@ azure-pim-explained: gregory-marsh
 azure-private-link-deep-dive: alex-cunningham
 azure-rbac-vs-abac-explained: ian-fletcher
 azure-resource-manager-arm-explained: nathan-cole
+azure-retry-circuit-breaker: kevin-reeves
 azure-route-tables-udr-explained: jason-mckenzie
+azure-secrets-management-guide: james-carter
+azure-security-baselines: ryan-walsh
+azure-serverless-architecture: abigail-cooper
 azure-service-bus-deep-dive: jason-mckenzie
 azure-sql-database-internals: marcus-hall
 azure-sql-security-guide: benjamin-scott
@@ -482,6 +490,7 @@ emilia-othello-character-analysis: elena-wright
 end-to-an-unforgettable-era: diana-patel
 engineering-years-the-ideal-approach: diana-patel
 entra-app-registrations-explained: alex-cunningham
+entra-conditional-access-patterns: david-thornton
 entra-id-authentication-explained: marcus-hall
 envisioning-the-future-with-technology: amanda-ross
 essbase-data-quality-control-using-odi: thomas-reid
@@ -605,6 +614,7 @@ from-novice-to-certified-pro-your-tableau-journey: maya-chen
 front-door-vs-cdn-vs-gateway: james-carter
 future-covert-ops-technology: ryan-walsh
 future-india-counter-terror-doctrine: marcus-hall
+future-of-the-sat-coming-changes: simon-hartley
 gaokao-100-day-countdown: liu-jian
 gaokao-after-exam-what-next: li-wei
 gaokao-analytic-geometry-guide: liu-jian
@@ -792,7 +802,13 @@ gorosthaney-sabdhan-bn: rahul-banerjee
 gothic-elements-classic-novels: lauren-hayes
 grand-canyon-4-day-itinerary: amit-chatterjee
 grand-canyon-best-time-to-visit: amit-chatterjee
+grand-canyon-hidden-gems: nandini-sen
 grand-canyon-national-park-complete-guide: rahul-banerjee
+grand-canyon-north-vs-south-rim: amit-chatterjee
+grand-canyon-on-a-budget: nandini-sen
+grand-canyon-south-rim-hikes: rahul-banerjee
+grand-canyon-sunrise-sunset-viewpoints: rahul-banerjee
+grand-canyon-with-kids: amit-chatterjee
 grant-enforcement-acts-reconstruction: diana-patel
 grant-presidential-ranking-rehabilitation: diana-patel
 great-depression-explained-complete: amanda-ross
@@ -1547,6 +1563,7 @@ sat-guide-for-korean-students: anita-das
 sat-guide-for-middle-eastern-students: daniel-morgan
 sat-guide-for-parents: samantha-lee
 sat-guide-for-southeast-asian-students: natalie-webb
+sat-history-1926-to-digital-era: daniel-morgan
 sat-inference-implication: natalie-webb
 sat-junior-year-timeline: maria-santos
 sat-khan-academy-complete-usage-guide: hannah-moore
@@ -1584,9 +1601,11 @@ sat-math-two-way-tables-probability: patrick-dunn
 sat-math-volume-surface-area-3d: michael-brooks
 sat-math-word-problem-translation: patrick-dunn
 sat-motivation-burnout: katherine-blake
+sat-myths-debunked: natalie-webb
 sat-new-york-students: simon-hartley
 sat-notes-summary-questions: maria-santos
 sat-nursing-health-programs: daniel-morgan
+sat-online-courses-ranked: samantha-lee
 sat-optional-vs-required-colleges-guide: daniel-morgan
 sat-parallel-structure-modifiers: katherine-blake
 sat-perfect-1600-strategy: katherine-blake
@@ -1594,6 +1613,8 @@ sat-poetry-verse-strategy: elena-wright
 sat-practice-test-analysis: maria-santos
 sat-practice-test-strategy-guide: katherine-blake
 sat-premed-science-scores: samantha-lee
+sat-prep-apps-ranked: simon-hartley
+sat-prep-books-ranked: maria-santos
 sat-prep-on-budget: patrick-dunn
 sat-preparation-for-international-students: michael-brooks
 sat-preparation-for-students-with-learning-differences: natalie-webb
@@ -1639,11 +1660,13 @@ sat-sentence-boundaries: michael-brooks
 sat-sophomore-guide: christopher-wells
 sat-state-requirements: samantha-lee
 sat-statistics-probability-data-analysis-guide: jessica-kim
+sat-study-groups-how-to-run-them: christopher-wells
 sat-study-schedule-for-busy-students: katherine-blake
 sat-studying-while-busy: samantha-lee
 sat-subject-verb-agreement: jessica-kim
 sat-summer-preparation: michael-brooks
 sat-test-anxiety-management-guide: daniel-morgan
+sat-test-center-vs-at-home-logistics: christopher-wells
 sat-test-day-complete-guide: natalie-webb
 sat-texas-students: michael-brooks
 sat-tone-attitude-questions: christopher-wells
@@ -1651,6 +1674,7 @@ sat-top-100-university-score-matrix: samantha-lee
 sat-transfer-students: christopher-wells
 sat-transitions-logical-flow-questions-guide: patrick-dunn
 sat-transitions-mastery: michael-brooks
+sat-tutoring-when-to-get-roi-analysis: hannah-moore
 sat-uc-system-scores: patrick-dunn
 sat-verb-tense-mood: christopher-wells
 sat-vocabulary-500-words: hannah-moore
@@ -2184,6 +2208,7 @@ what-is-working-at-meta-like: ryan-walsh
 what-months-does-amazon-hire: nathan-cole
 whats-my-tcs-college-grade: rajan-kumar
 when-did-shakespeare-write-romeo-and-juliet: rachel-foster
+where-to-stay-grand-canyon: amit-chatterjee
 where-to-stay-yellowstone: rahul-banerjee
 where-to-stay-yosemite: amit-chatterjee
 which-ap-classes-to-take: daniel-morgan
@@ -2255,6 +2280,7 @@ yugoslav-wars-1990s-explained: rachel-foster
 zahoor-mistry-ic814-hijacker-profile: nandini-sen
 zaki-ur-rehman-lakhvi-profile: thomas-reid
 ziaur-rahman-let-karachi-killing: gregory-marsh
+zion-national-park-complete-guide: amit-chatterjee
 আহ্বানের-ছায়াতে: rahul-banerjee
 দাবানলের-ইন্দ্রজালে: amit-chatterjee
 নীরবতার-সম্মোহনে: rahul-banerjee
