@@ -6,17 +6,17 @@ date: 2014-06-15
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Itineraries", "Hiking", "Outdoors"]
 excerpt: "A sequenced 5-day Yosemite itinerary that solves the Valley and high-country split, so first-timers cross each long road once and never waste a half day."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2014-06-15
+lang: en
 ---
-
 Five days in Yosemite is enough time to do the park properly, and it is also exactly enough time to ruin the trip by driving the same long mountain roads twice. The single decision that separates a smooth first visit from an exhausting one is not which sights you choose. It is the order you put them in. This 5-day Yosemite itinerary is built around that idea: a sequenced first-timer plan that folds the giant sequoias, the Valley icons, the Glacier Point overlooks, and the Tuolumne Meadows high country into one continuous route, so you cross the South Entrance once and Tioga Road once rather than backtracking over either.
 
 Most plans you will find treat Yosemite as a Valley base camp with a list of day trips hanging off it. That works for the Valley itself, but it quietly costs you a day or more in repeated driving, because Mariposa Grove sits near the far South Entrance and Tuolumne Meadows sits an hour and a half up a separate mountain road in the opposite direction. Tack both on as out-and-back errands and you will spend a quarter of your trip looking at the same asphalt. Sequence them into the arrival and the departure instead, and the wasted driving disappears.
 
-![A First-Timer's 5-Day Yosemite Itinerary showing the no-backtrack route through the Valley, sequoias, Glacier Point, and Tuolumne Meadows - Insight Crunch](/assets/images/blog/blog-01.webp)
+![A First-Timer's 5-Day Yosemite Itinerary showing the no-backtrack route through the Valley, sequoias, Glacier Point, and Tuolumne Meadows - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 ## What this 5-day Yosemite itinerary delivers
 

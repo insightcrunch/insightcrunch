@@ -6,13 +6,15 @@ date: 2023-11-20
 categories: ["Technology"]
 tags: ["Azure", "ExpressRoute", "Networking", "Architecture", "Cloud Computing"]
 excerpt: "Azure ExpressRoute deep dive: the circuit, peering, and gateway model that explains throughput, redundancy, FastPath, and BGP for private connectivity."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2023-11-20
+lang: en
 ---
-
 Azure ExpressRoute promises something that feels almost too good when you first read the marketing: a private connection from your datacenter into Azure that never touches the public internet. Teams hear that sentence, provision a circuit, attach a gateway, and then watch their throughput sit stubbornly at a fraction of what the circuit can carry. They blame the provider, open a support case, and wait. The circuit is fine. The gateway is the bottleneck, and nobody told them the gateway has its own ceiling that has nothing to do with the bandwidth they bought from the carrier. This is the most common and most expensive misunderstanding in the entire product, and it comes from treating ExpressRoute as a single thing rather than as three cooperating parts.
+
+![Azure ExpressRoute Deep Dive: The Working Model - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 The reality is that ExpressRoute performance and resilience are never a single number. They emerge from the interaction of three layers: the circuit you order from a connectivity provider, the peerings that ride on top of it, and the virtual network gateway that terminates the private path inside Azure. A throughput question is always a question about which of those three is the limit. A redundancy question is always a question about which of those three has a single point of failure. Once you can name the layer, the answer stops being a guess and becomes a calculation. That naming discipline is what this article gives you, and it is the model that the troubleshooting work later in the series leans on directly.
 

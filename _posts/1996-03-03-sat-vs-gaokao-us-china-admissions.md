@@ -6,17 +6,17 @@ date: 1996-03-03
 categories: ["Industry"]
 tags: ["SAT", "International", "Gaokao", "China", "Exam Comparison"]
 excerpt: "SAT vs Gaokao compared: format, content depth, cultural weight and pressure, and what the two exams reveal about US and Chinese educational philosophy."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "he-xiaomei"
 last_updated: 1996-03-03
+lang: en
 ---
-
 Ask a roomful of American parents whether the SAT or the Gaokao is harder, and most will pick the Gaokao on instinct, picturing nine hours of testing, a single irreversible morning, and a nation that treats the result as destiny. Ask which exam carries more raw academic content, and they will pick the Gaokao again. Both instincts are partly right and almost entirely beside the point. The SAT vs Gaokao question is not a contest with a winner; it is a window into two countries that have built fundamentally different machines for sorting and selecting young people, and the machines reveal what each society believes a measurement is for.
 
 This comparison treats both exams with the respect they deserve as serious, consequential instruments, and it refuses the lazy verdict that one is simply tougher than the other. The honest finding, the one most rankings and viral threads miss, is that the American test and the Chinese examination optimize for different things. One prizes reasoning breadth captured in a short, repeatable, adaptive sitting. The other prizes curricular depth proven across multiple subjects in a single high-pressure window that arrives once a year. Calling one harder is like calling a sprint harder than a marathon. The interesting work is understanding why each country chose the race it runs.
 
-![SAT versus Gaokao comparison of American and Chinese university admissions exams - Insight Crunch](/assets/images/blog/blog-01.webp)
+![SAT versus Gaokao comparison of American and Chinese university admissions exams - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 What follows is built around an accurate, fair contrast of five dimensions: the format and logistics of each exam, the depth and breadth of the content each demands, the cultural role each plays in its society, the pressure each places on a young person, and the preparation each requires. The artifact at the center of this piece, the InsightCrunch SAT-versus-Gaokao comparison, lays those dimensions side by side so a student, a parent, or a counselor can see the structural differences at a glance rather than absorbing them through anecdote. The figures here are current as of the 2025-2026 cycle and should be reverified against the College Board's published Digital SAT specification and the relevant Chinese provincial education authority before any high-stakes decision, because both systems are mid-reform and both move year to year.
 

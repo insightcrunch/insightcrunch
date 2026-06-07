@@ -6,17 +6,17 @@ date: 2023-12-11
 categories: ["Technology"]
 tags: ["Azure", "Route Tables", "UDR", "Networking", "Routing", "Cloud Computing"]
 excerpt: "Azure route tables and user-defined routes decide where packets go. Learn UDR precedence, next-hop types, forced tunneling, and reading effective routes."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2023-12-11
+lang: en
 ---
-
 A packet leaves a virtual machine bound for the public internet, and instead of arriving it vanishes. No security rule denied it. No firewall logged a drop. The application simply times out, and the engineer staring at the screen burns an afternoon blaming the network security group when the real culprit is a single Azure route table entry pointing the traffic at a next hop that no longer answers. This is the most common way Azure routing goes wrong, and it is invisible to anyone who has never learned how the platform actually forwards a packet. Azure route tables and the user-defined routes inside them are the steering wheel of a virtual network, and the difference between an engineer who can drive deliberately and one who guesses is the difference between a five-minute fix and a multi-hour incident.
 
 The promise of this guide is concrete. By the end you will hold a working model of how Azure decides where every packet goes, you will know the precedence rules that let a user-defined route override the defaults, you will recognize each next-hop type and the behavior it produces, and you will be able to read the effective routes on a network interface to see the real forwarding decision rather than the one you assumed. That last skill alone converts routing from guesswork into a deterministic read.
 
-![Azure route tables and user-defined routes precedence diagram - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Azure route tables and user-defined routes precedence diagram - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 ## How Azure routing works before you touch anything
 

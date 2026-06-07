@@ -6,17 +6,17 @@ date: 2024-01-01
 categories: ["Technology"]
 tags: ["Azure", "RBAC", "ABAC", "Security", "Identity", "Cloud Computing"]
 excerpt: "Azure RBAC vs ABAC explained: how role assignments, scope, custom roles, and ABAC conditions work together so you can design least privilege deliberately."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2024-01-01
+lang: en
 ---
-
 Every over-permissioned subscription starts with a reasonable-sounding shortcut. Someone needs an application to read a storage account, the clock is ticking, and the fastest path is to grant Contributor at the subscription. The application works, the ticket closes, and a standing grant now reaches every resource under that subscription for as long as nobody audits it. The exposure is not theoretical. A leaked token for that identity, a compromised pipeline that runs as it, or a misconfigured app that gets tricked into acting on an attacker's behalf now inherits the blast radius of the broadest role at the widest scope. The whole point of authorization in Azure is to make that blast radius a deliberate choice rather than an accident, and the two mechanisms that let you choose it are Azure RBAC and ABAC.
 
 Azure RBAC vs ABAC is not a versus in the sense of picking a winner. RBAC is the foundation, and ABAC is a refinement that layers attribute conditions onto specific RBAC assignments. Understanding both, and knowing exactly where each one earns its place, is the difference between an access model you can defend in a review and a pile of broad grants nobody remembers issuing.
 
-![Azure RBAC vs ABAC least-privilege access design - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Azure RBAC vs ABAC least-privilege access design - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This guide walks through what RBAC actually is at the level of its three moving parts, how scope and inheritance decide reach, when a custom role beats a built-in one, what ABAC conditions add and where they fit, how deny assignments carve out exceptions, and how to assemble all of it into a least-privilege design you can verify and repeat. The recurring habit the series argues for shows up here as a rule you can say out loud: access is a role at a scope, and a condition only when an attribute genuinely refines it.
 

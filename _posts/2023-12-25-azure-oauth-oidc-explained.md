@@ -6,17 +6,17 @@ date: 2023-12-25
 categories: ["Technology"]
 tags: ["Azure", "OAuth 2.0", "OpenID Connect", "Microsoft Entra ID", "Identity", "Security"]
 excerpt: "OAuth 2.0 and OIDC in Azure decide how apps prove identity and obtain tokens. Learn the grant flows, PKCE, scopes, claims, and refresh tokens to choose right."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2023-12-25
+lang: en
 ---
-
 The single most expensive identity mistake in Azure is copying an OAuth flow from a sample without knowing which flow you copied. OAuth 2.0 and OIDC are not interchangeable libraries you bolt on at the end. They are the contract that decides how every app, script, and service in Microsoft Entra ID proves who it is and what it is allowed to touch. Pick the wrong grant flow and you do not get an error at design time. You get a token that works in the demo, leaks in production, and fails the security review six months later when an auditor asks why a single-page app is holding a long-lived secret it was never supposed to have.
 
 That gap between using these protocols and understanding them is where the damage lives. An engineer who pastes the implicit flow into a browser app ships an access token through a URL fragment that ends up in browser history and server logs. An engineer who reaches for the client credentials flow to act on behalf of a signed-in user builds an app that cannot tell users apart and quietly runs every request with full application privilege. Both apps authenticate. Both return a 200. Neither is correct, and the protocol gave no warning because OAuth 2.0 is deliberately a framework of choices rather than a single prescribed path.
 
-![OAuth 2.0 and OIDC in Azure explained](/assets/images/blog/blog-14.webp)
+![OAuth 2.0 and OIDC in Azure explained](/assets/images/blog/blog-43.webp)
 
 This article fixes that by treating flow selection as a decision you can reason about rather than a snippet you inherit. By the end you will hold a working model of OAuth 2.0 as the authorization layer and OpenID Connect as the identity layer built on top of it, know the four grant flows that matter in Entra ID and the exact app shape each one serves, understand why authorization code with PKCE is the modern interactive default and why implicit is deprecated, and be able to read an access token, an ID token, and a refresh token well enough to debug a rejection. The throughline is a single rule that the rest of the article defends and applies: the right flow follows from the type of client, so choosing a flow is an act of reasoning about your app, not an act of copying someone else's.
 

@@ -6,17 +6,17 @@ date: 2014-08-01
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "National Parks", "Budget Travel", "Where to Stay", "Outdoors"]
 excerpt: "Yosemite on a budget comes down to two levers: where you sleep and what you eat. Here is the real ranged cost math and the moves that cut a trip most."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2014-08-01
+lang: en
 ---
-
 A week in Yosemite can cost a couple a small fortune or a modest sum, and the gap between those two outcomes is decided by a handful of choices you make before you ever reach the gate. Doing Yosemite on a budget is not about scrimping on the granite walls and waterfalls that drew you here, because those cost nothing once you are inside. It is about understanding that the price of the trip lives almost entirely in two places: the bed you sleep in and the food you put in your mouth. Get those two levers right and a Yosemite visit lands in the reach of an ordinary traveler. Get them wrong and the same itinerary doubles, with the granite looking exactly the same either way.
 
 This guide does the arithmetic that glossy park marketing tends to skip. It lays out what the trip realistically costs at a shoestring level and at a comfortable level, names the levers that actually move the total, separates the savings that matter from the false economies that feel thrifty but are not, and ends with a sample daily figure you can set, adjust, and book against. The numbers here are kept in durable ranges rather than pinned to a single season's price list, because lodging rates, fuel, and dining costs drift; treat every figure as a planning range and confirm current prices before you reserve anything.
 
-![Yosemite on a budget, a cost guide to lodging, food, and fees - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Yosemite on a budget, a cost guide to lodging, food, and fees - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The central finding, the one rule worth carrying through every decision below, is what we will call the stay-outside-and-pack-food rule. In-park beds and in-park meals are where Yosemite budgets quietly break, so a gateway-town base and a stocked cooler save more than every small tip combined. You can do everything else right, score the cheap entrance pass, drive a fuel-sipping car, skip the souvenirs, and still blow the budget on a valley-floor room and three restaurant meals a day. You can also ignore most thrift advice entirely and still come in well under expectation if you simply sleep a short drive outside the boundary and carry your own breakfast and lunch. Two decisions carry the weight. The rest is rounding.
 

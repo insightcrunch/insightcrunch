@@ -110,6 +110,7 @@ azure-cosmos-db-engineering-guide: nathan-cole
 azure-data-factory-complete-guide: david-thornton
 azure-dns-private-zones-explained: kevin-reeves
 azure-event-hubs-engineering-guide: andrew-price
+azure-expressroute-deep-dive: ian-fletcher
 azure-firewall-vs-nva-vs-nsg: nathan-cole
 azure-functions-serverless-deep-dive: alex-cunningham
 azure-fundamentals-az-900-practice-exam-microsoft-certification: benjamin-scott
@@ -117,10 +118,15 @@ azure-key-vault-complete-guide: andrew-price
 azure-kubernetes-service-aks-explained: ryan-walsh
 azure-logic-apps-deep-dive: david-thornton
 azure-monitor-log-analytics-guide: jason-mckenzie
+azure-network-watcher-guide: ryan-walsh
 azure-networking-fundamentals: william-knight
 azure-nsg-deep-dive: james-carter
+azure-oauth-oidc-explained: ian-fletcher
+azure-outbound-snat-explained: insight-crunch-team
 azure-private-link-deep-dive: alex-cunningham
+azure-rbac-vs-abac-explained: ian-fletcher
 azure-resource-manager-arm-explained: nathan-cole
+azure-route-tables-udr-explained: jason-mckenzie
 azure-service-bus-deep-dive: jason-mckenzie
 azure-sql-database-internals: marcus-hall
 azure-storage-accounts-complete-guide: gregory-marsh
@@ -128,6 +134,7 @@ azure-synapse-analytics-explained: thomas-reid
 azure-virtual-machines-complete-guide: david-thornton
 azure-virtual-network-vnet-deep-dive: abigail-cooper
 azure-virtual-wan-deep-dive: david-thornton
+azure-vpn-gateway-deep-dive: nathan-cole
 badshahi-angti-emperors-ring-bn: rahul-banerjee
 bahawalpur-jem-headquarters: alex-cunningham
 baksho-rahashya-1996-film-bn: amit-chatterjee
@@ -465,6 +472,7 @@ embracing-joy-30-simple-pleasures-that-bring-happiness: rachel-foster
 emilia-othello-character-analysis: elena-wright
 end-to-an-unforgettable-era: diana-patel
 engineering-years-the-ideal-approach: diana-patel
+entra-id-authentication-explained: marcus-hall
 envisioning-the-future-with-technology: amanda-ross
 essbase-data-quality-control-using-odi: thomas-reid
 essbase-shared-member-vs-duplicate-member-vs-new-dimension-odi-roller-coaster: andrew-price
@@ -1297,6 +1305,7 @@ odi-invoke-web-services-with-dynamic-values: alex-cunningham
 odi-performance-tuning-using-indexes-and-keys: ian-fletcher
 odi-trigger-essbase-maxl-dynamically-with-no-hard-coding: ian-fletcher
 odisqlunload-and-the-possibilities: nathan-cole
+one-day-in-yellowstone: rahul-banerjee
 one-of-the-finest-illusions: amanda-ross
 one-term-presidents-pattern-since-1900: diana-patel
 only-bengal-hit-out-of-the-park-paschimbanga-for-a-new-name: wu-chengan
@@ -1500,8 +1509,14 @@ sat-expression-of-ideas-complete-guide: daniel-morgan
 sat-financial-aid-scholarships: patrick-dunn
 sat-florida-students: simon-hartley
 sat-for-adult-non-traditional-test-takers: christopher-wells
+sat-for-applying-to-non-us-universities: patrick-dunn
+sat-for-english-language-learners: maria-santos
+sat-for-gap-year-students: simon-hartley
 sat-for-homeschooled-students: maria-santos
+sat-for-low-income-students-fee-waivers: samantha-lee
+sat-for-student-athletes: patrick-dunn
 sat-for-students-with-adhd-accommodations: jessica-kim
+sat-for-twice-exceptional-students: michael-brooks
 sat-freshman-guide: samantha-lee
 sat-geometry-trigonometry-complete-guide: michael-brooks
 sat-grammar-conventions-complete: natalie-webb
@@ -1582,6 +1597,7 @@ sat-reading-passage-types-evidence-questions-guide: michael-brooks
 sat-reading-science-passages: daniel-morgan
 sat-reading-speed-strategy: daniel-morgan
 sat-registration-process-step-by-step: daniel-morgan
+sat-retake-after-low-score-reset-strategy: daniel-morgan
 sat-retake-strategy: michael-brooks
 sat-rhetorical-synthesis-guide: hannah-moore
 sat-rw-common-mistakes: patrick-dunn
@@ -1624,6 +1640,7 @@ sat-vocabulary-500-words: hannah-moore
 sat-vocabulary-in-context-complete-guide: jessica-kim
 sat-vs-act-which-test-should-you-take: samantha-lee
 sat-vs-clt-classic-learning-test-compared: patrick-dunn
+sat-vs-gaokao-us-china-admissions: he-xiaomei
 sat-vs-gre-vs-gmat-understanding-us-standardized-tests: maria-santos
 sat-winter-break-intensive: simon-hartley
 sat-wrong-answer-analysis: daniel-morgan
@@ -1639,6 +1656,7 @@ second-term-presidential-curse-pattern: chloe-martin
 secret-powers-of-time: chloe-martin
 sensational-sequoia: amit-chatterjee
 september-11-attacks-explained: chloe-martin
+service-vs-private-endpoints: jason-mckenzie
 severus-snape-complete-character-analysis: megan-clark
 shadow-war-begins-2021-2022: gregory-marsh
 shahid-latif-pathankot-mastermind: andrew-price
@@ -2194,10 +2212,16 @@ yalina-jamali-sara-arjun-character-analysis: nandini-sen
 yellowstone-best-hikes: nandini-sen
 yellowstone-best-time-to-visit: nandini-sen
 yellowstone-family-7-day-itinerary: nandini-sen
+yellowstone-geysers-hot-springs-guide: amit-chatterjee
 yellowstone-hidden-gems: amit-chatterjee
 yellowstone-national-park-complete-guide: nandini-sen
 yellowstone-on-a-budget: rahul-banerjee
 yellowstone-wildlife-watching-guide: rahul-banerjee
+yosemite-5-day-itinerary: rahul-banerjee
+yosemite-best-time-to-visit: nandini-sen
+yosemite-hidden-gems: amit-chatterjee
+yosemite-national-park-complete-guide: nandini-sen
+yosemite-on-a-budget: amit-chatterjee
 you-in-yahoo-spreads-ripples-of-kindness-around-the-world-in-129-characters: rachel-foster
 yrf-spy-universe-complete-guide-all-films: nandini-sen
 yugoslav-wars-1990s-explained: rachel-foster

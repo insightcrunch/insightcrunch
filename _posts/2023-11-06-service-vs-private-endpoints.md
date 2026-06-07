@@ -6,17 +6,17 @@ date: 2023-11-06
 categories: ["Technology"]
 tags: ["Azure", "Private Endpoint", "Service Endpoint", "Networking", "Private Link", "Cloud Computing"]
 excerpt: "Service endpoints versus private endpoints in Azure differ on private IP, DNS, on-premises reach, and cost. Learn which one to choose and why it matters."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 64
-author: "Insight Crunch Team"
+author: "jason-mckenzie"
 last_updated: 2023-11-06
+lang: en
 ---
-
 Two features in Azure share a goal, securing traffic to a platform service so it no longer rides the open internet, and engineers conflate them constantly. The choice between a service endpoint and a private endpoint looks like a naming quirk until a storage account refuses a connection from an on-premises server, or a firewall rule that worked yesterday starts dropping requests after a subnet change. The confusion is understandable. Both keep traffic off the public path. Both attach to a virtual network. Both get described in the portal with overlapping language about securing access to a resource. Yet they solve different problems with different mechanics, and treating them as interchangeable is the single most common reason a connectivity design fails review or breaks in production.
 
 This guide draws the line cleanly. By the end you will choose between the two by reasoning about four concrete questions, whether you need a stable private IP address, how name resolution has to behave, whether anything outside the virtual network has to reach the resource, and what you are willing to pay and operate. Those four questions decide every case. Get them straight and the rest follows.
 
-![Service endpoints versus private endpoints in Azure comparison of private IP, DNS, and on-premises reach - Insight Crunch](/assets/images/blog/blog-07.webp)
+![Service endpoints versus private endpoints in Azure comparison of private IP, DNS, and on-premises reach - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 ## What each feature actually is
 
