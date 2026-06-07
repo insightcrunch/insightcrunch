@@ -6,15 +6,15 @@ date: 1996-06-01
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Score Matrix", "University Rankings", "Reference"]
 excerpt: "The complete SAT score matrix for the top 100 US universities: 25th and 75th percentiles, acceptance rates, test-optional status and superscoring in one place."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "samantha-lee"
 last_updated: 1996-06-01
+lang: en
 ---
-
 A high schooler opens an admissions page, finds a single number, and decides on the spot whether the dream is alive or dead. That number is almost always read wrong. SAT scores for the top 100 universities do not work as cutoffs, and treating a published figure as a pass-or-fail line is the most expensive misreading a college applicant makes. The figure that students fixate on is usually the 75th percentile of admitted students, which means a quarter of the enrolled class scored at or below it. Read as a wall, it terrifies. Read correctly, as the upper edge of a band with a floor far lower than the headline, it becomes a planning instrument.
 
-![SAT score matrix for the top 100 US universities with percentile bands and test-optional status - Insight Crunch](/assets/images/blog/blog-11.webp)
+![SAT score matrix for the top 100 US universities with percentile bands and test-optional status - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This reference exists because the open web answers the question badly. A search for what a given campus wants returns a marketing page, a thin aggregator, or a number stripped of the band it came from. What a serious applicant needs is every relevant data point for the schools they care about, laid side by side, with the policy context that changes what the data even means. That is what follows. Below is the InsightCrunch top-100 score matrix: for each of the hundred institutions framed by the US News National Universities ranking, the 25th-percentile composite, the 75th-percentile composite, an approximate admit rate, the current testing policy, whether the campus superscores, and a one-line strategic note. Around the matrix sits the part no table can hold, which is how to read your own result against any one of those bands and turn it into a decision: submit, withhold, or take the optional route.
 

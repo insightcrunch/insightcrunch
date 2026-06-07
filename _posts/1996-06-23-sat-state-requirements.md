@@ -9,12 +9,12 @@ tags: ["SAT", "SAT Policy", "State Testing", "School Day SAT", "Accountability"]
 excerpt: "SAT state requirements explained: which states offer the school-day SAT, what school-day testing means and how it differs from a weekend test, with strategy."
 image: /assets/images/blog/blog-06.webp
 reading_time: 60
-author: "Insight Crunch Team"
+author: "samantha-lee"
+lang: en
 ---
-
 A junior in Connecticut walks into a familiar classroom on a Tuesday in March, opens a school laptop, and takes the SAT for free without paying a registration fee, booking a Saturday seat, or driving to a strange building across town. Many of those juniors treat the morning as a throwaway, a box the school checks, a practice run that cannot possibly matter. That single assumption is the most expensive mistake in this entire topic. The SAT state requirements that put a free school-day administration in front of every public-school junior in roughly a dozen states do not produce a fake test or a meaningless rehearsal. They produce a real, reportable, college-admissions-grade score from the identical exam a weekend tester pays to sit. The reader who understands that turns a mandatory morning into a strategic first attempt, and the reader who does not throws away one of the few genuinely free shots at a number that follows them into every application they file.
 
-![SAT state requirements and school-day testing explained for juniors - Insight Crunch](/assets/images/blog/blog-06.webp)
+![SAT state requirements and school-day testing explained for juniors - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This guide does what the standard state-by-state roundup will not. The typical page lists which jurisdictions give the SAT and stops there, leaving the reader with a roster and no plan. We go further: what the school-day program actually is, how it works mechanically inside the Bluebook testing app, exactly how a campus administration differs from a weekend sitting (it differs in one dimension only, the environment), and the decision framework that converts a state mandate into points on a transcript. The list of contracting jurisdictions changes whenever a multiyear contract renews, so we present it as a dated set flagged for verification rather than a permanent fact, and we give you the framework to confirm your own situation in five minutes. By the end you will know whether your state hands you a free attempt, what that attempt is worth, and how to plan the optional weekend retake that turns one score into your best score.
 

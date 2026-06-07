@@ -108,6 +108,7 @@ azure-blob-storage-engineering-guide: james-carter
 azure-container-apps-explained: william-knight
 azure-cosmos-db-engineering-guide: nathan-cole
 azure-data-factory-complete-guide: david-thornton
+azure-dns-private-zones-explained: kevin-reeves
 azure-event-hubs-engineering-guide: andrew-price
 azure-functions-serverless-deep-dive: alex-cunningham
 azure-fundamentals-az-900-practice-exam-microsoft-certification: benjamin-scott
@@ -115,6 +116,8 @@ azure-key-vault-complete-guide: andrew-price
 azure-kubernetes-service-aks-explained: ryan-walsh
 azure-logic-apps-deep-dive: david-thornton
 azure-monitor-log-analytics-guide: jason-mckenzie
+azure-networking-fundamentals: william-knight
+azure-private-link-deep-dive: alex-cunningham
 azure-resource-manager-arm-explained: nathan-cole
 azure-service-bus-deep-dive: jason-mckenzie
 azure-sql-database-internals: marcus-hall
@@ -315,11 +318,19 @@ complete-shadow-war-kill-list: benjamin-scott
 configure-aks-ingress-tls: marcus-hall
 configure-aks-workload-identity: ryan-walsh
 configure-app-gateway-waf: ryan-walsh
+configure-azure-bastion: kevin-reeves
+configure-azure-devops-connections: gregory-marsh
 configure-azure-functions-bindings: ian-fletcher
+configure-azure-policy-governance: abigail-cooper
+configure-azure-site-recovery: ryan-walsh
 configure-azure-sql-failover-groups: marcus-hall
 configure-azure-vm-autoshutdown: robert-quinn
+configure-azure-vm-backup: ryan-walsh
+configure-conditional-access: benjamin-scott
 configure-cosmos-db-partition-keys: marcus-hall
+configure-diagnostic-settings: abigail-cooper
 configure-front-door-routing: nathan-cole
+configure-github-actions-oidc: gregory-marsh
 configure-key-vault-references: william-knight
 configure-managed-identities: benjamin-scott
 configure-private-endpoints: marcus-hall
@@ -1461,8 +1472,12 @@ sat-adaptive-module-strategy: katherine-blake
 sat-advanced-math-domain-complete-guide: patrick-dunn
 sat-advanced-vocabulary: katherine-blake
 sat-algebra-domain-complete-guide: samantha-lee
+sat-and-ap-together-application-strategy: daniel-morgan
+sat-and-ncaa-eligibility-athletic-recruitment: daniel-morgan
+sat-and-rotc-scholarships-score-requirements: christopher-wells
 sat-bluebook-app-complete-guide: natalie-webb
 sat-business-programs-scores: jessica-kim
+sat-california-students: jessica-kim
 sat-college-board-question-bank-strategy: christopher-wells
 sat-command-of-evidence: christopher-wells
 sat-common-app-scores: hannah-moore
@@ -1477,6 +1492,7 @@ sat-error-analysis-mistake-journal-guide: katherine-blake
 sat-exam-day-mistakes: natalie-webb
 sat-expression-of-ideas-complete-guide: daniel-morgan
 sat-financial-aid-scholarships: patrick-dunn
+sat-florida-students: simon-hartley
 sat-for-adult-non-traditional-test-takers: christopher-wells
 sat-for-homeschooled-students: maria-santos
 sat-freshman-guide: samantha-lee
@@ -1484,6 +1500,7 @@ sat-geometry-trigonometry-complete-guide: michael-brooks
 sat-grammar-conventions-complete: natalie-webb
 sat-grammar-rules-complete-guide: daniel-morgan
 sat-guide-for-chinese-students: hannah-moore
+sat-guide-for-japanese-students: christopher-wells
 sat-guide-for-korean-students: anita-das
 sat-guide-for-parents: samantha-lee
 sat-inference-implication: natalie-webb
@@ -1523,6 +1540,7 @@ sat-math-two-way-tables-probability: patrick-dunn
 sat-math-volume-surface-area-3d: michael-brooks
 sat-math-word-problem-translation: patrick-dunn
 sat-motivation-burnout: katherine-blake
+sat-new-york-students: simon-hartley
 sat-notes-summary-questions: maria-santos
 sat-nursing-health-programs: daniel-morgan
 sat-optional-vs-required-colleges-guide: daniel-morgan
@@ -1573,6 +1591,7 @@ sat-section-score-balance: michael-brooks
 sat-senior-last-chance: maria-santos
 sat-sentence-boundaries: michael-brooks
 sat-sophomore-guide: christopher-wells
+sat-state-requirements: samantha-lee
 sat-statistics-probability-data-analysis-guide: jessica-kim
 sat-study-schedule-for-busy-students: katherine-blake
 sat-studying-while-busy: samantha-lee
@@ -1580,7 +1599,9 @@ sat-subject-verb-agreement: jessica-kim
 sat-summer-preparation: michael-brooks
 sat-test-anxiety-management-guide: daniel-morgan
 sat-test-day-complete-guide: natalie-webb
+sat-texas-students: michael-brooks
 sat-tone-attitude-questions: christopher-wells
+sat-top-100-university-score-matrix: samantha-lee
 sat-transfer-students: christopher-wells
 sat-transitions-logical-flow-questions-guide: patrick-dunn
 sat-transitions-mastery: michael-brooks
@@ -1589,6 +1610,7 @@ sat-verb-tense-mood: christopher-wells
 sat-vocabulary-500-words: hannah-moore
 sat-vocabulary-in-context-complete-guide: jessica-kim
 sat-vs-act-which-test-should-you-take: samantha-lee
+sat-vs-clt-classic-learning-test-compared: patrick-dunn
 sat-vs-gre-vs-gmat-understanding-us-standardized-tests: maria-santos
 sat-winter-break-intensive: simon-hartley
 sat-wrong-answer-analysis: daniel-morgan
@@ -2079,6 +2101,7 @@ victor-frankenstein-character-analysis: sophia-turner
 vietnam-war-explained-complete: rachel-foster
 viking-age-history-explained: amanda-ross
 viktor-krum-complete-character-analysis: claire-bennett
+vnet-peering-vpn-expressroute: james-carter
 vodafone-zoozoo-star-attraction-of-ipl-2009-some-cool-zoo-zoo-ads: rachel-foster
 voldemort-tom-riddle-complete-character-analysis: lauren-hayes
 vp-inherited-mid-crisis-audit: rachel-foster
@@ -2154,6 +2177,8 @@ yahoo-mail-growing-up-with-gmails-features-and-some-more: amanda-ross
 yahoo-taking-a-dive-into-social-networking: amanda-ross
 yahoo-wants-huffington-post-badly: amanda-ross
 yalina-jamali-sara-arjun-character-analysis: nandini-sen
+yellowstone-family-7-day-itinerary: nandini-sen
+yellowstone-national-park-complete-guide: nandini-sen
 you-in-yahoo-spreads-ripples-of-kindness-around-the-world-in-129-characters: rachel-foster
 yrf-spy-universe-complete-guide-all-films: nandini-sen
 yugoslav-wars-1990s-explained: rachel-foster

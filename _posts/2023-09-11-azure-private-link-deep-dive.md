@@ -6,19 +6,19 @@ date: 2023-09-11
 categories: ["Technology"]
 tags: ["Azure", "Private Link", "Private Endpoint", "Networking", "DNS", "Cloud Computing"]
 excerpt: "Azure Private Link projects a service into your VNet as a private endpoint, and DNS is the linchpin that decides whether traffic ever reaches it correctly."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 62
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2023-09-11
+lang: en
 ---
-
 # Azure Private Link and Private Endpoints
 
 Most engineers meet Azure Private Link on a bad afternoon. A storage account, a SQL database, or a Key Vault has been locked down so that public network access is disabled, a endpoint has been created in the right subnet, and yet an application sitting two subnets away still cannot reach it, or worse, it reaches the public front door and gets refused. The team stares at a endpoint that looks correct in the portal, a network interface that holds a tidy private IP, and a connection that behaves as if none of it exists. The configuration is not wrong in the way most people assume. The piece that decides whether any of this works is name resolution, and name resolution is the half of Azure Private Link that the portal makes look optional when it is not.
 
 This deep dive treats Azure Private Link as a mechanism rather than a checkbox. By the end you should be able to hold a clear mental model of what a endpoint actually is at the network layer, explain why DNS is the load-bearing element rather than a finishing touch, reason about how the consumer side and the producer side fit together, and tell the difference between a endpoint and a service endpoint without reaching for a vendor comparison chart. The goal is the kind of understanding that lets you predict behavior before you deploy and localize a failure quickly when it appears.
 
-![Azure Private Link and private endpoints model map](/assets/images/blog/blog-14.webp)
+![Azure Private Link and private endpoints model map](/assets/images/blog/blog-50.webp)
 
 ## What Azure Private Link actually is
 
