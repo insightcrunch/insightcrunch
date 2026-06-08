@@ -6,15 +6,15 @@ date: 1995-12-08
 categories: ["Industry"]
 tags: ["SAT", "Test Optional", "College Admissions", "2026", "Analysis"]
 excerpt: "Does the SAT still matter in 2026? The test-optional analysis: which schools require, are optional or blind, whether to submit, and a clear decision framework."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "christopher-wells"
 last_updated: 1995-12-08
+lang: en
 ---
-
 A senior with a 1380 reads that her dream school is test-optional, decides the score no longer counts, and quietly withholds it. At that same school, the middle range of admitted students sits around 1300 to 1480. Her 1380 lands comfortably above the midpoint, which means she just hid one of the strongest pieces of evidence in her file because she misread what test-optional means. That single decision, repeated across hundreds of thousands of applications every cycle, is the most expensive misunderstanding in admissions right now, and it is the reason this analysis exists.
 
-![SAT test-optional decision framework and submit-or-withhold analysis for 2026 - Insight Crunch](/assets/images/blog/blog-05.webp)
+![SAT test-optional decision framework and submit-or-withhold analysis for 2026 - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 Does the SAT still matter in 2026? The short answer is that it matters less than it did in 2019 and far more than the test-optional headlines suggest, and the gap between those two truths is where students lose admits and merit money they had already earned. The phrase "test-optional" has been read by a generation of applicants as "test-irrelevant," and the two are not the same thing. Optional means you get to choose, and a choice you make well is an advantage while a choice you make badly is a leak. The work of this piece is to replace the headline with a decision: a clean, repeatable rule for whether to take the exam, whether to submit the result, and how to read any school's policy and data to make that call with confidence.
 

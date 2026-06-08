@@ -6,17 +6,17 @@ date: 2024-07-01
 categories: ["Technology"]
 tags: ["Azure", "Strangler Fig", "Architecture", "Migration & Modernization", "API Management", "Cloud Computing"]
 excerpt: "The Strangler Fig pattern migrates an Azure monolith one capability at a time behind a facade, with routing-based rollback and a data coexistence plan."
-image: "/assets/images/blog/blog-11.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2024-07-01
+lang: en
 ---
-
 The Strangler Fig pattern is how you migrate a monolith on Azure without betting the business on one weekend cutover, and the easiest way to see why it matters is to picture the alternative first. A team inherits a monolith that has run the business for nine years. It works, it pays the bills, and nobody fully understands it anymore. Leadership wants microservices, the cloud, and faster releases, so somebody proposes the obvious plan: freeze new features, rewrite the whole thing on Azure, and switch over on a weekend. Eighteen months later the rewrite is two thirds done, the frozen feature backlog has become a competitive liability, and the cutover weekend keeps slipping because nobody can prove the new system matches the old one on every edge case the monolith quietly handles. This is the big-bang rewrite, and it fails the same way almost every time.
 
 The Strangler Fig pattern is the answer to that failure. Named by Martin Fowler in 2004 after the tropical fig that grows around a host tree and gradually replaces it, the Strangler Fig pattern migrates a monolith to a modern architecture one capability at a time, behind a routing layer that decides on every request whether the old system or the new one answers it. The old and the new run side by side for as long as the migration takes, the risk of each step is bounded to the single capability being moved, and a step that goes wrong is undone by routing traffic back rather than by a panicked restore. On Azure the routing layer is realized by Azure API Management, Azure Front Door, or Application Gateway, and the surrounding services give you the observability, the deployment slots, and the data-replication options that make incremental replacement safe. This article gives you a repeatable migration step you can apply to one capability at a time until the monolith is gone.
 
-![Strangler Fig migration pattern on Azure with facade routing between legacy and new systems - Insight Crunch](/assets/images/blog/blog-11.webp)
+![Strangler Fig migration pattern on Azure with facade routing between legacy and new systems - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 The promise is not that migration becomes easy. The promise is that migration becomes a sequence of small, reversible, individually shippable changes instead of one enormous irreversible one. That difference is the whole reason the pattern exists, and it is the difference between a modernization program that ships value every sprint and one that burns a year of engineering before it produces anything a customer can use.
 

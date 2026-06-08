@@ -6,17 +6,17 @@ date: 2024-07-15
 categories: ["Technology"]
 tags: ["Azure", "Idempotency", "Architecture", "Messaging", "Cloud Computing"]
 excerpt: "Idempotency on Azure turns at-least-once delivery into safe, effectively-once processing using idempotency keys, a processed-state store, and the outbox."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2024-07-15
+lang: en
 ---
-
 A payment service charged a customer twice on a Friday afternoon. Nothing crashed, no exception was logged, and the code passed every unit test. The message that triggered the charge was delivered to the handler two times, the handler ran cleanly both times, and the customer saw two line items on a statement. This is the failure that idempotency on Azure exists to prevent, and it is the most common production surprise for teams who assume the messaging platform delivers each event once. It does not. Azure messaging is built on at-least-once delivery, which means a consumer can and will see the same message more than once, and the responsibility for making that safe sits in the consumer, not in the broker.
 
 The gap between expecting exactly-once delivery and getting at-least-once delivery is where double charges, duplicate emails, doubled inventory decrements, and replayed state transitions come from. Closing that gap is not a feature you toggle on. It is a small set of patterns you apply deliberately: an idempotency key that names a unit of work, a processed-state store that records what has already happened, deduplication that rejects a repeat before it does damage, and the outbox pattern that keeps your database and your published events from drifting apart. Put together, these turn an at-least-once channel into processing that behaves as though each message landed exactly once.
 
-![Idempotency and exactly-once patterns on Azure](/assets/images/blog/blog-13.webp)
+![Idempotency and exactly-once patterns on Azure](/assets/images/blog/blog-46.webp)
 
 ## The effectively-once rule that most exactly-once expectations miss
 

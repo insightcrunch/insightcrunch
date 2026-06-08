@@ -6,19 +6,19 @@ date: 2024-06-10
 categories: ["Technology"]
 tags: ["Azure", "Well-Architected Framework", "Architecture", "Reliability", "Cost Management", "Cloud Computing"]
 excerpt: "The Azure Well-Architected Framework turns architecture into deliberate trade-offs across five pillars, so you assess and improve any system by reason."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "ian-fletcher"
 last_updated: 2024-06-10
+lang: en
 ---
-
 Most production incidents do not begin with a single bad decision. They begin with a design that quietly maximized one quality at the silent expense of another, and nobody wrote down the trade. A team buys triple redundancy for a batch job that could tolerate an hour of downtime, then runs out of budget for the monitoring that would have caught the real problem. Another team ships fast and cheap, skips the failover region, and discovers during a zonal outage that "cheap" had a price after all. The Azure Well-Architected Framework exists because these failures are not random. They are the predictable result of judging architecture by intuition instead of by a structured set of qualities that are known to pull against each other.
 
 The framework gives you five pillars to grade a design against: reliability, security, cost optimization, operational excellence, and performance efficiency. That much is easy to memorize and easy to misuse. The trap is reading the five pillars as a checklist where more of each is better. They are not a checklist. They are five forces in tension, and the central skill the framework teaches is not scoring high on all of them but choosing, for a specific workload, which tensions to resolve in which direction, and recording that choice so the next engineer understands it was deliberate.
 
 This guide treats the Azure Well-Architected Framework as exactly that: a discipline for making and documenting trade-offs. We will define the five pillars precisely, then spend most of our time on the part the documentation tends to gloss, which is how the pillars conflict and how a mature team turns a conflict into a written decision. You will get the InsightCrunch pillar trade-off map, a structured reference for the common tensions and how to settle each one. You will see how to run a Well-Architected Review that produces a prioritized list of improvements rather than a wall of generic advice. And you will leave able to look at an architecture and assess it systematically, the way a reviewer does, instead of reacting to whichever pillar happens to be on fire this week.
 
-![Azure Well-Architected Framework: the five pillars and their trade-offs](/assets/images/blog/blog-08.webp)
+![Azure Well-Architected Framework: the five pillars and their trade-offs](/assets/images/blog/blog-21.webp)
 
 ## What the Azure Well-Architected Framework actually is
 

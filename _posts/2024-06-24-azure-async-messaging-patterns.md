@@ -6,17 +6,17 @@ date: 2024-06-24
 categories: ["Technology"]
 tags: ["Azure", "Service Bus", "Event Hubs", "Architecture", "Messaging", "Cloud Computing"]
 excerpt: "Async messaging patterns on Azure ride on at-least-once delivery, so each pattern needs idempotent handling. A catalog mapping each design to its service."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 61
-author: "Insight Crunch Team"
+author: "abigail-cooper"
 last_updated: 2024-06-24
+lang: en
 ---
-
 A team ships an order-processing service backed by a queue. It works in the demo. Then production traffic arrives, one consumer cannot keep up, and they add three more receivers to drain the backlog. Throughput recovers, and a week later finance reports that several hundred customers were charged twice. The team had reached for a scaling technique without noticing that it changed the delivery contract underneath them, and the queue that had quietly guaranteed order to a single reader now interleaved work across four readers with no order at all. Nothing in the code was wrong in isolation. The design drifted because the underlying guarantee was never made explicit.
 
 This is the recurring shape of async messaging trouble on Azure. The platform hands you a small set of building blocks, queues, topics, subscriptions, sessions, partitions, and a delivery guarantee that is almost always at-least-once. Each building block solves one problem cleanly. The failures come from combining them without tracking what the combination does to ordering and duplication. An engineer who can name the four or five canonical designs, knows which Azure service realizes each, and treats duplicate handling as a non-negotiable companion to every one of them will not ship the double-charge bug. That is the gap this guide closes.
 
-![Async messaging patterns on Azure with competing consumers, pub-sub, and sessions - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Async messaging patterns on Azure with competing consumers, pub-sub, and sessions - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 The argument runs in one line that the rest of the article unpacks: every async messaging design on Azure rides on at-least-once delivery, so each design must be paired with idempotent handling, and that pairing is the discipline that makes the designs reliable rather than merely clever. Call it the pattern-plus-idempotency rule. A competing-consumers fan-out, a publish-subscribe broadcast, an ordered session stream, a claim-check for large payloads, none of them are safe on their own. They become safe when the consumer that processes a redelivered copy produces the same result as the consumer that processed the original. Hold that rule in mind and the rest of this is detail.
 

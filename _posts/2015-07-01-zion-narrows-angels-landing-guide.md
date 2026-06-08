@@ -6,17 +6,17 @@ date: 2015-07-01
 categories: ["Travel"]
 tags: ["USA Travel", "Zion", "National Parks", "Hiking", "Outdoors"]
 excerpt: "How to hike the Narrows and Angels Landing in Zion safely, covering the permit lottery, cold-water gear, flash-flood safety, and the best plan for your group."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 68
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2015-07-01
+lang: en
 ---
-
 Two hikes carry most of Zion's reputation, and the first real decision is which one fits you, because the Narrows and Angels Landing demand opposite things from a body and reward opposite kinds of nerve. Angels Landing is a climb that ends on a knife-edge of rock with a chain bolted into it and a long fall on either side, gated now by a permit lottery that decides whether you get to finish at all. The Narrows is a walk straight up a river, cold and slow and governed by a flash-flood forecast that can shut the whole thing down before you take a step. Neither is a stroll, and neither rewards the bravado that treats one as a dare and the other as a casual splash through some water. The single rule that keeps both safe is simple to say and easy to ignore: Angels Landing is gated by a lottery, and the Narrows is gated by the forecast, and a hiker who respects both walks away with the trip of the year while a hiker who shrugs at either is how Zion's famous routes turn into rescues.
 
 This guide treats both as plannable objectives rather than feats, because that is the only honest way to write about them. You will leave knowing how the Angels Landing permit actually works, what the exposed final section really feels like and who should turn around at Scout Lookout, how the Narrows splits into a no-permit day hike and a permitted through-trip, what to wear so the cold water does not end your day early, and how to read the one forecast that decides whether the river is safe. If you want the wider menu of Zion trails first, the easy walks and the strong middle of the ladder that most groups should actually prioritize, start with the [full rundown of Zion's best hikes](/2015/06/15/zion-best-hikes/) and come back here once you have decided these two are for you.
 
-![How to hike the Narrows and Angels Landing in Zion, a permit and safety guide - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to hike the Narrows and Angels Landing in Zion, a permit and safety guide - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 ## How do you decide between the Narrows and Angels Landing?
 
