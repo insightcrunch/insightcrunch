@@ -132,26 +132,26 @@ article {
   display:none;position:fixed;inset:0;z-index:9998;
   align-items:center;justify-content:center;
 }
-.author-dialog-overlay.ad-show{display:flex}
-.author-dialog-overlay .ad-bg{
+.author-dialog-overlay.aud-show{display:flex}
+.author-dialog-overlay .aud-bg{
   position:absolute;inset:0;cursor:pointer;
   background:rgba(245,240,232,.45);
   backdrop-filter:blur(18px) saturate(160%);
   -webkit-backdrop-filter:blur(18px) saturate(160%);
   opacity:0;transition:opacity .5s ease;
 }
-.author-dialog-overlay.on .ad-bg{opacity:1}
+.author-dialog-overlay.on .aud-bg{opacity:1}
 
 /* Dialog shell */
-.author-dialog-overlay .ad-pdlg{
+.author-dialog-overlay .aud-pdlg{
   position:relative;max-width:360px;width:92vw;z-index:1;
   opacity:0;transform:scale(.85) translateY(30px);
   transition:opacity .6s cubic-bezier(.16,1,.3,1),transform .6s cubic-bezier(.16,1,.3,1);
 }
-.author-dialog-overlay.on .ad-pdlg{opacity:1;transform:scale(1) translateY(0)}
+.author-dialog-overlay.on .aud-pdlg{opacity:1;transform:scale(1) translateY(0)}
 
 /* Outer ornamental frame */
-.author-dialog-overlay .ad-fo{
+.author-dialog-overlay .aud-fo{
   border:3px solid var(--gold);border-radius:14px;padding:6px;
   background:linear-gradient(145deg,#2a1c08,#1a1005);
   box-shadow:
@@ -161,162 +161,162 @@ article {
 }
 
 /* Inner frame */
-.author-dialog-overlay .ad-fi{
+.author-dialog-overlay .aud-fi{
   border:1px solid rgba(201,168,76,.35);
   border-radius:10px;overflow:hidden;position:relative;
 }
 
 /* Painting background */
-.author-dialog-overlay .ad-pbg{
+.author-dialog-overlay .aud-pbg{
   position:absolute;inset:0;
   background:url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jean-Honor%C3%A9_Fragonard_-_The_Reader_-_WGA8150.jpg/800px-Jean-Honor%C3%A9_Fragonard_-_The_Reader_-_WGA8150.jpg') center/cover no-repeat;
   filter:blur(3px) brightness(.35) saturate(1.3);
   transform:scale(1.08);
 }
-.author-dialog-overlay .ad-pbg::after{
+.author-dialog-overlay .aud-pbg::after{
   content:'';position:absolute;inset:0;
   background:
     radial-gradient(ellipse at 50% 30%,rgba(176,96,16,.2) 0%,transparent 70%),
     linear-gradient(180deg,rgba(26,18,8,.3) 0%,rgba(26,18,8,.6) 100%);
 }
-.author-dialog-overlay .ad-pbg::before{
+.author-dialog-overlay .aud-pbg::before{
   content:'';position:absolute;inset:0;z-index:1;
   box-shadow:inset 0 0 80px rgba(10,6,2,.7);
 }
 
 /* Corner ornaments */
-.author-dialog-overlay .ad-cr{
+.author-dialog-overlay .aud-cr{
   position:absolute;width:18px;height:18px;
   border-color:var(--gold);z-index:3;opacity:.5;
 }
-.author-dialog-overlay .ad-cr.ad-tl{top:10px;left:10px;border-top:1.5px solid;border-left:1.5px solid}
-.author-dialog-overlay .ad-cr.ad-tr{top:10px;right:10px;border-top:1.5px solid;border-right:1.5px solid}
-.author-dialog-overlay .ad-cr.ad-bl{bottom:10px;left:10px;border-bottom:1.5px solid;border-left:1.5px solid}
-.author-dialog-overlay .ad-cr.ad-br{bottom:10px;right:10px;border-bottom:1.5px solid;border-right:1.5px solid}
+.author-dialog-overlay .aud-cr.aud-tl{top:10px;left:10px;border-top:1.5px solid;border-left:1.5px solid}
+.author-dialog-overlay .aud-cr.aud-tr{top:10px;right:10px;border-top:1.5px solid;border-right:1.5px solid}
+.author-dialog-overlay .aud-cr.aud-bl{bottom:10px;left:10px;border-bottom:1.5px solid;border-left:1.5px solid}
+.author-dialog-overlay .aud-cr.aud-br{bottom:10px;right:10px;border-bottom:1.5px solid;border-right:1.5px solid}
 
 /* Content */
-.author-dialog-overlay .ad-pc{
+.author-dialog-overlay .aud-pc{
   position:relative;z-index:2;padding:36px 28px 30px;text-align:center;
 }
 
 /* Close button */
-.author-dialog-overlay .ad-xb{
+.author-dialog-overlay .aud-xb{
   position:absolute;top:12px;right:14px;z-index:10;
   background:rgba(201,168,76,.12);border:1px solid rgba(201,168,76,.25);
   width:28px;height:28px;border-radius:50%;font-size:14px;cursor:pointer;
   color:var(--gold-lt);display:flex;align-items:center;justify-content:center;
   transition:all .25s;backdrop-filter:blur(8px);padding:0;line-height:1;
 }
-.author-dialog-overlay .ad-xb:hover{
+.author-dialog-overlay .aud-xb:hover{
   background:rgba(201,168,76,.25);border-color:var(--gold);transform:scale(1.1);
 }
 
 /* Flourishes */
-.author-dialog-overlay .ad-fl{
+.author-dialog-overlay .aud-fl{
   display:flex;align-items:center;justify-content:center;gap:10px;
   margin-bottom:22px;opacity:0;
 }
-.author-dialog-overlay.on .ad-fl{animation:ad-flIn .8s .3s ease forwards;}
-.author-dialog-overlay .ad-fl-ln{
+.author-dialog-overlay.on .aud-fl{animation:aud-flIn .8s .3s ease forwards;}
+.author-dialog-overlay .aud-fl-ln{
   width:50px;height:1px;
   background:linear-gradient(90deg,transparent,var(--gold),transparent);
 }
-.author-dialog-overlay .ad-fl-dm{
+.author-dialog-overlay .aud-fl-dm{
   width:7px;height:7px;background:var(--gold);transform:rotate(45deg);
   box-shadow:0 0 8px rgba(201,168,76,.5);
 }
-@keyframes ad-flIn{from{opacity:0;transform:scaleX(.4)}to{opacity:1;transform:scaleX(1)}}
+@keyframes aud-flIn{from{opacity:0;transform:scaleX(.4)}to{opacity:1;transform:scaleX(1)}}
 
 /* Avatar */
-.author-dialog-overlay .ad-avw{
+.author-dialog-overlay .aud-avw{
   position:relative;display:inline-block;margin-bottom:18px;
   opacity:0;
 }
-.author-dialog-overlay.on .ad-avw{animation:ad-avIn .7s .2s cubic-bezier(.16,1,.3,1) forwards;}
-@keyframes ad-avIn{from{opacity:0;transform:scale(.7)}to{opacity:1;transform:scale(1)}}
-.author-dialog-overlay .ad-avr{
+.author-dialog-overlay.on .aud-avw{animation:aud-avIn .7s .2s cubic-bezier(.16,1,.3,1) forwards;}
+@keyframes aud-avIn{from{opacity:0;transform:scale(.7)}to{opacity:1;transform:scale(1)}}
+.author-dialog-overlay .aud-avr{
   position:absolute;inset:-5px;border-radius:50%;
   border:1.5px solid var(--gold);
   box-shadow:0 0 20px rgba(201,168,76,.2);
-  animation:ad-rg 3s ease-in-out infinite alternate;
+  animation:aud-rg 3s ease-in-out infinite alternate;
 }
-@keyframes ad-rg{
+@keyframes aud-rg{
   from{box-shadow:0 0 15px rgba(201,168,76,.15)}
   to{box-shadow:0 0 25px rgba(201,168,76,.35)}
 }
-.author-dialog-overlay .ad-avi{
+.author-dialog-overlay .aud-avi{
   width:92px;height:92px;border-radius:50%;object-fit:cover;
   border:3px solid rgba(30,16,8,.8);
   box-shadow:0 8px 30px rgba(0,0,0,.5);
   display:block;transition:transform .4s ease;
   background:rgba(22,10,4,.92) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='2 2 20 20' fill='%23c9a84c'%3E%3Ccircle cx='12' cy='8' r='4'/%3E%3Cpath d='M12 14c-5.33 0-8 2.67-8 4v2h16v-2c0-1.33-2.67-4-8-4z'/%3E%3C/svg%3E") center/60% no-repeat;
 }
-.author-dialog-overlay .ad-avi:hover{transform:scale(1.05)}
+.author-dialog-overlay .aud-avi:hover{transform:scale(1.05)}
 
 /* Name + credential */
-.author-dialog-overlay .ad-pn{
+.author-dialog-overlay .aud-pn{
   font-family:'Lora',serif;font-size:1.35em;font-weight:600;
   color:#f0e6d0;margin:0 0 4px;
   text-shadow:0 2px 12px rgba(0,0,0,.6);
   letter-spacing:.01em;opacity:0;
 }
-.author-dialog-overlay.on .ad-pn{animation:ad-tu .6s .35s ease forwards;}
-.author-dialog-overlay .ad-pcred{
+.author-dialog-overlay.on .aud-pn{animation:aud-tu .6s .35s ease forwards;}
+.author-dialog-overlay .aud-pcred{
   font-family:'Inter',sans-serif;font-size:.78em;font-weight:400;
   color:var(--gold);letter-spacing:.12em;text-transform:uppercase;
   margin:0 0 18px;text-shadow:0 1px 6px rgba(0,0,0,.5);
   opacity:0;
 }
-.author-dialog-overlay.on .ad-pcred{animation:ad-tu .6s .45s ease forwards;}
-@keyframes ad-tu{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.author-dialog-overlay.on .aud-pcred{animation:aud-tu .6s .45s ease forwards;}
+@keyframes aud-tu{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
 
 /* Divider */
-.author-dialog-overlay .ad-dv{
+.author-dialog-overlay .aud-dv{
   width:60px;height:1px;
   background:linear-gradient(90deg,transparent,rgba(201,168,76,.4),transparent);
   margin:0 auto 20px;opacity:0;
 }
-.author-dialog-overlay.on .ad-dv{animation:ad-tu .6s .5s ease forwards;}
+.author-dialog-overlay.on .aud-dv{animation:aud-tu .6s .5s ease forwards;}
 
 /* Contributor line */
-.author-dialog-overlay .ad-ct{
+.author-dialog-overlay .aud-ct{
   display:inline-flex;align-items:center;gap:6px;
   font-family:'Inter',sans-serif;font-size:.72em;
   color:rgba(232,212,138,.6);letter-spacing:.06em;
   margin-bottom:22px;opacity:0;
 }
-.author-dialog-overlay.on .ad-ct{animation:ad-tu .6s .55s ease forwards;}
-.author-dialog-overlay .ad-ct svg{
+.author-dialog-overlay.on .aud-ct{animation:aud-tu .6s .55s ease forwards;}
+.author-dialog-overlay .aud-ct svg{
   width:13px;height:13px;fill:var(--gold);opacity:.7;
 }
 
 /* CTA row */
-.author-dialog-overlay .ad-ctar{
+.author-dialog-overlay .aud-ctar{
   display:flex;gap:10px;justify-content:center;
   opacity:0;
 }
-.author-dialog-overlay.on .ad-ctar{animation:ad-tu .6s .6s ease forwards;}
-.author-dialog-overlay .ad-pb{
+.author-dialog-overlay.on .aud-ctar{animation:aud-tu .6s .6s ease forwards;}
+.author-dialog-overlay .aud-pb{
   font-family:'Inter',sans-serif;font-size:.82em;font-weight:500;
   padding:9px 22px;border-radius:6px;cursor:pointer;
   text-decoration:none;letter-spacing:.02em;display:inline-block;
   transition:all .3s cubic-bezier(.16,1,.3,1);
 }
-.author-dialog-overlay .ad-pb.ad-p1{
+.author-dialog-overlay .aud-pb.aud-p1{
   background:linear-gradient(135deg,var(--amber),var(--amber-lt));
   color:#fff;border:none;
   box-shadow:0 4px 20px rgba(176,96,16,.4);
 }
-.author-dialog-overlay .ad-pb.ad-p1:hover{
+.author-dialog-overlay .aud-pb.aud-p1:hover{
   transform:translateY(-2px);
   box-shadow:0 8px 30px rgba(176,96,16,.5);
 }
 
 /* Bottom flourish */
-.author-dialog-overlay .ad-flb{
+.author-dialog-overlay .aud-flb{
   margin-top:20px;margin-bottom:0;opacity:0;
 }
-.author-dialog-overlay.on .ad-flb{animation:ad-flIn .8s .7s ease forwards;}
+.author-dialog-overlay.on .aud-flb{animation:aud-flIn .8s .7s ease forwards;}
 /* ══════ GENIE ASSISTANT ══════ */
 .g-wrap{position:fixed;z-index:9999;bottom:8px;right:8px;display:flex;flex-direction:column;align-items:flex-end;animation:gEnter 0.8s cubic-bezier(0.34,1.4,0.64,1) 0.6s both}
 @keyframes gEnter{0%{opacity:0;transform:translateY(40px) scale(0.7)}100%{opacity:1;transform:translateY(0) scale(1)}}
@@ -610,37 +610,37 @@ article {
 
     {% if author %}
     <div id="authorDialog" class="author-dialog-overlay">
-      <div class="ad-bg" onclick="closeAuthorDialog()"></div>
-      <div class="ad-pdlg">
-        <div class="ad-fo">
-          <div class="ad-fi">
-            <div class="ad-pbg"></div>
-            <div class="ad-cr ad-tl"></div>
-            <div class="ad-cr ad-tr"></div>
-            <div class="ad-cr ad-bl"></div>
-            <div class="ad-cr ad-br"></div>
-            <div class="ad-pc">
-              <button class="ad-xb" onclick="closeAuthorDialog()" aria-label="Close">&times;</button>
+      <div class="aud-bg" onclick="closeAuthorDialog()"></div>
+      <div class="aud-pdlg">
+        <div class="aud-fo">
+          <div class="aud-fi">
+            <div class="aud-pbg"></div>
+            <div class="aud-cr aud-tl"></div>
+            <div class="aud-cr aud-tr"></div>
+            <div class="aud-cr aud-bl"></div>
+            <div class="aud-cr aud-br"></div>
+            <div class="aud-pc">
+              <button class="aud-xb" onclick="closeAuthorDialog()" aria-label="Close">&times;</button>
 
-              <div class="ad-fl"><div class="ad-fl-ln"></div><div class="ad-fl-dm"></div><div class="ad-fl-ln"></div></div>
+              <div class="aud-fl"><div class="aud-fl-ln"></div><div class="aud-fl-dm"></div><div class="aud-fl-ln"></div></div>
 
-              <div class="ad-avw"><div class="ad-avr"></div><img class="ad-avi" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='"></div>
+              <div class="aud-avw"><div class="aud-avr"></div><img class="aud-avi" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='"></div>
 
-              <h3 class="ad-pn">{{ author.name }}</h3>
-              {% if author.credential %}<p class="ad-pcred">{{ author.credential }}</p>{% endif %}
+              <h3 class="aud-pn">{{ author.name }}</h3>
+              {% if author.credential %}<p class="aud-pcred">{{ author.credential }}</p>{% endif %}
 
-              <div class="ad-dv"></div>
+              <div class="aud-dv"></div>
 
-              <div class="ad-ct">
+              <div class="aud-ct">
                 <svg viewBox="0 0 24 24"><path d="M21.17 2.06c-.38-.15-.78-.04-1.06.25l-2.47 2.47c-.63.63-1.58.82-2.4.5-1.84-.72-3.94-.26-5.32 1.12L3.71 12.6a1 1 0 000 1.42l6.36 6.36a1 1 0 001.42 0l6.19-6.19c1.38-1.38 1.84-3.48 1.12-5.32-.32-.82-.13-1.77.5-2.4l2.47-2.47c.29-.29.4-.68.25-1.06s-.5-.63-.9-.7l-.47-.08a3.6 3.6 0 01-.48-.1z"/></svg>
                 Contributor &middot; Insight Crunch
               </div>
 
-              <div class="ad-ctar">
-                <a class="ad-pb ad-p1" href="#" onclick="closeAuthorDialog();setTimeout(function(){if(window.openGenieForm&&(!window.isGenieOpen||!window.isGenieOpen()))window.openGenieForm()},450);return false;">Write to {{ author.name | split: ' ' | first }}</a>
+              <div class="aud-ctar">
+                <a class="aud-pb aud-p1" href="#" onclick="closeAuthorDialog();setTimeout(function(){if(window.openGenieForm&&(!window.isGenieOpen||!window.isGenieOpen()))window.openGenieForm()},450);return false;">Write to {{ author.name | split: ' ' | first }}</a>
               </div>
 
-              <div class="ad-fl ad-flb"><div class="ad-fl-ln"></div><div class="ad-fl-dm"></div><div class="ad-fl-ln"></div></div>
+              <div class="aud-fl aud-flb"><div class="aud-fl-ln"></div><div class="aud-fl-dm"></div><div class="aud-fl-ln"></div></div>
             </div>
           </div>
         </div>
@@ -654,8 +654,8 @@ article {
       var hideTimer=null;
       window.openAuthorDialog=function(){
         if(hideTimer){clearTimeout(hideTimer);hideTimer=null;}
-        // 1) Lay the overlay out first (display:flex via .ad-show), still invisible.
-        dlg.classList.add('ad-show');
+        // 1) Lay the overlay out first (display:flex via .aud-show), still invisible.
+        dlg.classList.add('aud-show');
         // 2) Force a synchronous layout pass while it is shown but pre-reveal.
         void dlg.offsetHeight;
         // 3) Arm the entrance animations on the NEXT frame, once layout is settled.
@@ -668,7 +668,7 @@ article {
         // Keep it laid out until the fade-out transition finishes, then unmount.
         if(hideTimer)clearTimeout(hideTimer);
         hideTimer=setTimeout(function(){
-          if(!dlg.classList.contains('on'))dlg.classList.remove('ad-show');
+          if(!dlg.classList.contains('on'))dlg.classList.remove('aud-show');
           hideTimer=null;
         },650);
       };
