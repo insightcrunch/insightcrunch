@@ -132,7 +132,7 @@ article {
   display:none;position:fixed;inset:0;z-index:9998;
   align-items:center;justify-content:center;
 }
-.author-dialog-overlay.on{display:flex}
+.author-dialog-overlay.ad-show{display:flex}
 .author-dialog-overlay .ad-bg{
   position:absolute;inset:0;cursor:pointer;
   background:rgba(245,240,232,.45);
@@ -592,7 +592,7 @@ article {
       {% if author %}
       <div class="post-meta-author">
         <span class="author-by">By</span>
-        <span class="author-byline" onclick="document.getElementById('authorDialog').classList.add('on')">
+        <span class="author-byline" onclick="openAuthorDialog()">
           <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" loading="lazy" onerror="this.onerror=null;this.src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='">
           <span class="author-text"><span class="author-name">{{ author.name }}</span>{% if author.credential %}<span class="author-credential">, {{ author.credential }}</span>{% endif %}</span>
         </span>
@@ -610,7 +610,7 @@ article {
 
     {% if author %}
     <div id="authorDialog" class="author-dialog-overlay">
-      <div class="ad-bg" onclick="document.getElementById('authorDialog').classList.remove('on')"></div>
+      <div class="ad-bg" onclick="closeAuthorDialog()"></div>
       <div class="ad-pdlg">
         <div class="ad-fo">
           <div class="ad-fi">
@@ -620,7 +620,7 @@ article {
             <div class="ad-cr ad-bl"></div>
             <div class="ad-cr ad-br"></div>
             <div class="ad-pc">
-              <button class="ad-xb" onclick="document.getElementById('authorDialog').classList.remove('on')" aria-label="Close">&times;</button>
+              <button class="ad-xb" onclick="closeAuthorDialog()" aria-label="Close">&times;</button>
 
               <div class="ad-fl"><div class="ad-fl-ln"></div><div class="ad-fl-dm"></div><div class="ad-fl-ln"></div></div>
 
@@ -637,7 +637,7 @@ article {
               </div>
 
               <div class="ad-ctar">
-                <a class="ad-pb ad-p1" href="#" onclick="document.getElementById('authorDialog').classList.remove('on');setTimeout(function(){if(window.openGenieForm&&(!window.isGenieOpen||!window.isGenieOpen()))window.openGenieForm()},450);return false;">Write to {{ author.name | split: ' ' | first }}</a>
+                <a class="ad-pb ad-p1" href="#" onclick="closeAuthorDialog();setTimeout(function(){if(window.openGenieForm&&(!window.isGenieOpen||!window.isGenieOpen()))window.openGenieForm()},450);return false;">Write to {{ author.name | split: ' ' | first }}</a>
               </div>
 
               <div class="ad-fl ad-flb"><div class="ad-fl-ln"></div><div class="ad-fl-dm"></div><div class="ad-fl-ln"></div></div>
@@ -651,7 +651,28 @@ article {
     (function(){
       var dlg=document.getElementById('authorDialog');
       if(!dlg)return;
-      document.addEventListener('keydown',function(e){if(e.key==='Escape')dlg.classList.remove('on')});
+      var hideTimer=null;
+      window.openAuthorDialog=function(){
+        if(hideTimer){clearTimeout(hideTimer);hideTimer=null;}
+        // 1) Lay the overlay out first (display:flex via .ad-show), still invisible.
+        dlg.classList.add('ad-show');
+        // 2) Force a synchronous layout pass while it is shown but pre-reveal.
+        void dlg.offsetHeight;
+        // 3) Arm the entrance animations on the NEXT frame, once layout is settled.
+        requestAnimationFrame(function(){
+          requestAnimationFrame(function(){ dlg.classList.add('on'); });
+        });
+      };
+      window.closeAuthorDialog=function(){
+        dlg.classList.remove('on');
+        // Keep it laid out until the fade-out transition finishes, then unmount.
+        if(hideTimer)clearTimeout(hideTimer);
+        hideTimer=setTimeout(function(){
+          if(!dlg.classList.contains('on'))dlg.classList.remove('ad-show');
+          hideTimer=null;
+        },650);
+      };
+      document.addEventListener('keydown',function(e){if(e.key==='Escape')window.closeAuthorDialog();});
     })();
     </script>
     {% endif %}
