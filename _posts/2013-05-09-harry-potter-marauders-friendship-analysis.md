@@ -6,7 +6,7 @@ date: 2013-05-09
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "The Marauders", "James Potter", "Sirius Black", "Remus Lupin"]
 excerpt: "The Marauders in Harry Potter shared one dorm yet met four moral fates, and their friendship and betrayal reveal how a single friend group shapes a life."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2013-05-09
@@ -16,7 +16,7 @@ lang: en
 
 Put four boys in a single room for seven years and you have run an experiment whose results you will not read for two decades. They eat the same meals, learn the same spells, laugh at the same jokes, and sleep within arm's reach of one another through the most formative years a person ever has. By any naive theory of how character forms, they ought to come out the other side broadly similar. Same school, same house, same teachers, same friends. And yet the four boys who shared a dormitory in Gryffindor Tower in the nineteen-seventies grew into a hero, a brave reckless man, a loyal cautious man, and a coward who murdered the other three.
 
-![The Marauders friendship and betrayal analysis across the Harry Potter series](/assets/images/blog/blog-42.webp)
+![The Marauders friendship and betrayal analysis across the Harry Potter series](/assets/images/blog/blog-59.webp)
 
 This is the puzzle the Marauders pose, and it is a deeper one than the surface reading allows. The easy version treats them as a band of charming rule-breakers, the cool older generation whose mischief Harry inherits along with their map and their courage. The harder version notices that the friendship which made them dangerous to authority is the same friendship that tolerated cruelty, that produced a betrayal so total it killed two of them and imprisoned a third, and that left the fourth a hunted man for twelve years. The Marauders are not a nostalgia object. They are a case study in the oldest question a school story can ask: do the friends you make at eleven save you or destroy you?
 

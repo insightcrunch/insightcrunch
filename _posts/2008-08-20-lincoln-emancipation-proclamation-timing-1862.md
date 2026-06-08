@@ -6,7 +6,7 @@ date: 2008-08-20
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "decision-reconstruction", "us-presidents", "american-history", "civil-war", "emancipation-proclamation", "slavery"]
 excerpt: "Lincoln drafted the Emancipation Proclamation in July 1862. He waited for Antietam in September. Then six months more. Why those three specific dates."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 72
 author: "diana-patel"
 last_updated: 2008-08-20
@@ -14,7 +14,7 @@ lang: en
 ---
 The cabinet table in the upstairs library of the White House on Tuesday, July 22, 1862, held seven men who did not yet know the country was about to change. Lincoln had asked them there to listen, not to vote. He had a paper in his hand. The paper proposed that on January 1, 1863, every enslaved person in any state still in armed rebellion against the United States would, by executive proclamation invoking the war powers of the commander-in-chief, be then, thenceforward, and forever free. Salmon Chase, the Treasury Secretary, wanted emancipation immediately and more broadly, especially in occupied districts where he believed loyal labor could replace rebel labor. Edward Bates, the Attorney General, supported issuance but worried about legal form and the constitutional ground. Montgomery Blair, the Postmaster General, opposed entirely, fearing border-state defection and northern Democratic backlash in the fall elections. Gideon Welles, Navy Secretary, took notes that became the most reliable account of what was said. Edwin Stanton, War Secretary, said issue it now. Caleb Smith, Interior, said little. Then William Seward, Secretary of State, spoke, and Seward changed history without changing a word of the draft.
 
-![Lincoln Emancipation Proclamation 1862 timing decision three drafts cabinet reading Antietam - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Lincoln Emancipation Proclamation 1862 timing decision three drafts cabinet reading Antietam - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Wait for a Union victory, Seward urged. Issue this paper after defeat and the world will read it as the last shriek of a dying government, a desperate moral gesture from a regime that cannot win on the battlefield. Issue it after victory and the world will read it as the policy of a winning nation. Lincoln, who had decided on emancipation and had not decided on timing, recognized the wisdom of the timing point instantly. He put the draft back into the upper drawer of his desk in the executive office. He waited two months. He waited for Antietam. Then he waited six more months. That is the question this piece reconstructs: not whether Lincoln freed the enslaved, which he did, but why he chose those three specific dates on which to act, what the legal theory he constructed required him to do and forbade him from doing, and what the gap between the dates reveals about a president whose moral commitments and constitutional caution had to fit inside the same proclamation.
 

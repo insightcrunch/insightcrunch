@@ -6,7 +6,7 @@ date: 2022-01-31
 categories: ["Technology"]
 tags: ["Azure", "Storage", "Blob Storage", "Data Redundancy", "Cloud Storage", "Technology"]
 excerpt: "An Azure storage account fronts blob, file, queue, and table data under one set of redundancy, tier, and access choices. Learn to reason through each."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 60
 author: "gregory-marsh"
 last_updated: 2022-01-31
@@ -16,7 +16,7 @@ Most production incidents that trace back to an Azure storage account are not fa
 
 This guide treats the storage account as what it actually is: a single namespace that fronts four distinct data services, governed by one set of redundancy, performance, access, and networking choices that you make once at creation and live with afterward. By the end you should be able to choose a redundancy option by reasoning about which failure you need to survive, choose an access tier by reasoning about how often the data will be read, secure the account with the right identity model instead of a shared key, and predict the failure modes before they wake you up.
 
-![Azure storage account redundancy, access tiers, and secure access model explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Azure storage account redundancy, access tiers, and secure access model explained - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 ## What an Azure storage account actually is
 

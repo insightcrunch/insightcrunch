@@ -6,7 +6,7 @@ date: 2013-03-13
 categories: ["Industry"]
 tags: ["syed-noor-shalobar", "kashmir", "recruitment", "isi", "targeted-killing", "shadow-war"]
 excerpt: "Syed Noor Shalobar built the recruitment pipeline that converted ISI strategy into Kashmir fighters. His killing in Bara struck the system at its core."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "thomas-reid"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Syed Noor Shalobar was not a field commander who led fighters into battle. He wa
 
 <!--more-->
 
-![Syed Noor Shalobar Kashmir Recruiter Killed in KPK - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Syed Noor Shalobar Kashmir Recruiter Killed in KPK - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Shalobar's killing arrived at a moment when the [broader campaign of targeted eliminations](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) was accelerating at an unprecedented pace. Within a span of roughly two weeks in February and March 2023, four Pakistan-based terror commanders connected to Kashmir operations were killed in separate incidents across Pakistan and Afghanistan. Bashir Ahmad Peer, the Hizbul Mujahideen launching chief, was shot dead outside a shop in Rawalpindi on February 20. Syed Khalid Raza, the former Al-Badr commander with ties to Hizbul chief Syed Salahuddin, was gunned down in Karachi on February 27. Aijaz Ahmad Ahangar, the ISIS-linked Kashmiri, was found dead in Afghanistan's Kunar Province around February 14. Shalobar was the fourth. The cluster demonstrated that the campaign could execute multiple operations in rapid succession across geographically dispersed locations, and it revealed a strategic logic that went beyond simply killing senior commanders. The campaign was systematically dismantling every functional layer of the Kashmir militancy infrastructure: the command layer (Peer), the organizational bridge layer (Raza), the ideological layer (Ahangar), and now the recruitment layer (Shalobar). Each killing removed a different capability. Together, they constituted a coordinated assault on the Kashmir militant ecosystem's ability to sustain itself.
 

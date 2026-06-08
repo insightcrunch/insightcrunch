@@ -6,7 +6,7 @@ date: 2018-06-25
 categories: ["Industry"]
 tags: ["operation-sindoor", "balakot", "comparison", "india-pakistan", "airstrikes"]
 excerpt: "Comparing India's two military strikes on Pakistan across twelve dimensions reveals why Sindoor's escalation over Balakot was exponential, not incremental."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "ryan-walsh"
 last_updated: 2018-06-25
@@ -18,7 +18,7 @@ The two operations are connected not only by causal logic but by institutional m
 
 <!--more-->
 
-![Operation Sindoor vs Balakot Compared](/assets/images/blog/blog-37.webp)
+![Operation Sindoor vs Balakot Compared](/assets/images/blog/blog-95.webp)
 
 The comparison between these two operations matters because both are routinely treated as points on the same trajectory line, as if Sindoor were simply a larger Balakot scaled up by a factor of nine. That framing obscures more than it reveals. Both operations share a surface-level logic: a mass-casualty terrorist attack attributed to a Pakistan-based group, a period of national deliberation, a strike. But beneath that shared architecture, [every measurable dimension of both operations](https://insightcrunch.com/2018/06/11/lessons-2025-conflict-analysis/) changed between 2019 and 2025. The weapons changed. The platforms changed. The target list changed in number, geography, and organizational significance. Pakistan's ability to deny the effects of the operation changed entirely. The retaliation changed in kind, scale, and duration. The nuclear signaling changed in intensity and explicitness. The ceasefire mechanism changed in formality and in the institutions it required. The doctrinal consequence changed from precedent-setting to precedent-institutionalizing.
 

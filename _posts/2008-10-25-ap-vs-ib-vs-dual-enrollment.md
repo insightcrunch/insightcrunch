@@ -6,7 +6,7 @@ date: 2008-10-25
 categories: ["Industry"]
 tags: ["AP Exams", "IB Program", "Dual Enrollment", "College Admissions", "College Credit", "Exam Strategy"]
 excerpt: "AP vs IB vs dual enrollment compared on rigor, scoring, and college credit, with a clear decision rule for choosing the right program for your own goals."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 2008-10-25
@@ -14,7 +14,7 @@ lang: en
 ---
 The question that sends families into hours of forum reading is rarely about a single class. It is about a whole path. AP vs IB vs dual enrollment is the choice between three different theories of what an ambitious high school transcript should look like, and the wrong answer can cost a student credit, sleep, and admissions leverage they did not have to spend. Most of the advice floating around treats the decision as a ranking contest, as if one program were objectively superior and the only task were to identify the winner. That framing is wrong, and acting on it produces students who picked the prestigious-sounding option and then watched their credit fail to transfer, or who shouldered a two-year diploma framework when three targeted exams would have served their goals better.
 
-![AP vs IB vs dual enrollment comparison of rigor, scoring, and college credit - Insight Crunch](/assets/images/blog/blog-28.webp)
+![AP vs IB vs dual enrollment comparison of rigor, scoring, and college credit - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 The strategic reality is that each program is built for a different kind of student in a different kind of situation. The Advanced Placement program is modular and exam-based, letting a student assemble a portfolio of single subjects scored on a national scale. The International Baccalaureate Diploma Programme is an integrated two-year framework with a required core that the student commits to as a whole. Dual enrollment is the most literal of the three: a high school student takes actual college courses, usually at a community college or partner university, and earns real college credit on a real college transcript. These are not three flavors of the same product. They are three structurally different bets, and the right one depends on your target colleges, the strength of each program at your school, and where you intend to major. This guide compares them honestly on structure, rigor, scoring, credit reliability, and admissions signal, then hands you a decision rule you can act on rather than a both-sides shrug.
 

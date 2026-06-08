@@ -8,7 +8,7 @@ author: "diana-patel"
 excerpt: "The Persian Empire invented multi-ethnic imperial administration. Every subsequent empire from Rome to Byzantium inherited and modified the Achaemenid design."
 categories: ["Leisure"]
 tags: ["persian-empire", "achaemenid-empire", "cyrus-the-great", "darius", "ancient-history", "institutional-history"]
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-10.webp"
 slug: "persian-empire-history-explained"
 reading_time: 70
 lang: en
@@ -17,7 +17,7 @@ The Persian Empire is one of the most consequential civilizations in human histo
 
 <!--more-->
 
-![Persian Empire - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Persian Empire - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The Achaemenid Persian Empire, which ran from Cyrus the Great's founding around 550 BCE to Alexander's final conquest in 330 BCE, was not primarily an enemy of Greece. It was the first successful multi-ethnic imperial system in recorded history, a political construction that governed up to fifty million people across three continents, from the Indus River to the Aegean Sea and from Central Asia to Upper Egypt. The Greek wars were, from a Persian bureaucratic perspective, a difficult but geographically marginal problem on the empire's western frontier. From Susa or Persepolis, the Greek city-states were a collection of small, quarrelsome communities at the far edge of a world the Persians had already organized. That the Greek tradition inverted this perspective and made the Persian Empire into a backdrop for Greek heroism is understandable. It is also wrong, and the wrongness has consequences for understanding how empires work, how institutions are transmitted across civilizations, and why the organizational forms that governed the ancient and medieval Mediterranean world look the way they do.
 

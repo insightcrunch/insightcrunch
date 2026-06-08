@@ -6,7 +6,7 @@ date: 2019-05-20
 categories: ["Industry"]
 tags: ["turkey", "pkk", "cross-border", "iraq", "syria", "military-operations"]
 excerpt: "How Turkey conducted decades of cross-border military operations against the PKK in Iraq and Syria, and the strategic parallels with India's own approach."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 70
 author: "william-knight"
 last_updated: 2019-05-20
@@ -18,7 +18,7 @@ There is a country that has spent four decades doing, in plain daylight and with
 
 For an Indian reader trying to understand the logic of cross-border counter-terrorism, no foreign case repays study more richly than this one. The American drone campaign in Pakistan is often offered as the comparison, and it has its uses, but the United States is a distant superpower projecting force into a country it does not border, with no shared frontier, no irredentist claims, and no demographic stake in the outcome. Turkey is something closer to home. It is a regional power with a hostile neighbor, a contested mountain border, a separatist threat that recruits from its own citizens, and an adversary that survives because a weak state next door cannot or will not police its own soil. Strip away the proper nouns and the Turkish predicament reads almost exactly like the one New Delhi has spent a generation describing in white papers and parliamentary debates.
 
-![Turkey PKK Cross-Border Operations - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Turkey PKK Cross-Border Operations - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The argument of this analysis is straightforward, and it is worth stating before the evidence is laid out so that readers can test it as they go. Turkey is the country whose cross-border counter-terrorism behavior most closely parallels India's. Both states face an armed non-state threat that operates from a neighbor's territory. Both have repeatedly sent military force across an international boundary to strike that threat at its source. Both absorb international criticism for doing so and yet suffer remarkably little in the way of actual consequence, because each is too strategically valuable for the world to punish in earnest. And the Turkish record, which now stretches across more than forty years and four distinct phases, offers something India's younger and more deniable campaign cannot yet offer on its own: a long-run answer to the question of whether persistent cross-border pressure actually works. The short version of that answer, examined in detail below, is that it works in the narrow military sense and remains deeply contested in every other sense. That is a finding India should sit with rather than celebrate.
 

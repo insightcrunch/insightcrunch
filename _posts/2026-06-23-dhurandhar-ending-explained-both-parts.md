@@ -6,7 +6,7 @@ date: 2026-06-23
 categories: ["Leisure"]
 tags: ["dhurandhar", "ending-explained", "post-credits", "bollywood", "movie-analysis", "spy-thriller"]
 excerpt: "Both Dhurandhar endings fully explained - post-credits scenes, unanswered questions, and what comes next."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-62.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ The Dhurandhar franchise ends twice. Part 1 ends in suspension: the operation co
 
 <!--more-->
 
-![Dhurandhar Ending Explained - Insight Crunch](/assets/images/blog/blog-92.webp)
+![Dhurandhar Ending Explained - Insight Crunch](/assets/images/blog/blog-62.webp)
 
 A preliminary note before the analysis proceeds: this article discusses both endings in full detail, including the post-credits scenes and the franchise's most significant narrative reveals. It is intended for readers who have watched both films. If you have not yet seen the films, this is the wrong place to start. The [franchise's complete guide](https://insightcrunch.com/2026/06/17/dhurandhar-franchise-complete-guide/) is the right starting point, and the films themselves are the necessary prerequisite for everything this article addresses.
 

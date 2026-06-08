@@ -6,7 +6,7 @@ date: 2016-08-07
 categories: ["Leisure"]
 tags: ["women-in-history", "world-history", "historical-figures", "feminism", "historical-analysis"]
 excerpt: "Women's historical contributions were not absent. They were erased. Recovery demands specifying documented achievements and their analytical significance."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-83.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2016-08-07
@@ -16,7 +16,7 @@ Women changed history not occasionally but continuously, and across every field 
 
 <!--more-->
 
-![Women Who Changed History - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Women Who Changed History - Insight Crunch](/assets/images/blog/blog-83.webp)
 
 The namable claim this article advances is direct: the "exceptional woman" framing that dominates popular treatments of women in history performs a double erasure, celebrating individual achievement while rendering invisible the systemic conditions that made such achievement extraordinary in the first place and that suppressed the contributions of countless others who lacked the class, racial, or geographic privilege to break through. Recovering women's historical contributions demands not simply adding names to existing narratives but restructuring the analytical frameworks through which historical significance is assessed. bell hooks's intersectional critique, Linda Colley's global-historical recovery project, and Natalie Zemon Davis's archival methodology each contribute distinct tools to this restructuring, and the article draws on all three alongside the primary sources that anchor the analysis in documented evidence rather than celebratory abstraction.
 

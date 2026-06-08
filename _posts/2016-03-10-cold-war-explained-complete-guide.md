@@ -6,7 +6,7 @@ date: 2016-03-10
 categories: ["Leisure"]
 tags: ["cold-war", "soviet-union", "united-states", "20th-century", "history", "international-relations"]
 excerpt: "The Cold War was not one conflict. It was a structured bipolar system with specific phases, theaters, and mechanisms each requiring separate assessment."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 72
 author: "amanda-ross"
 last_updated: 2016-03-10
@@ -16,7 +16,7 @@ The Cold War is the period running from approximately 1945 to 1991 during which 
 
 <!--more-->
 
-![Cold War Geopolitical Confrontation - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Cold War Geopolitical Confrontation - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 A thesis runs through this guide, supported by a generation of scholarship completed after the Soviet archives opened in 1991: there were effectively four Cold Wars stacked on top of each other, fought across three theaters, through four mechanisms, and the conflict ended via structural exhaustion of the Soviet system rather than through any clean Western military or political victory. Understanding the Cold War requires resisting the temptation to compress this complexity into a tidy story. This compression is what makes most general-audience treatments inadequate. Recovery of the underlying structure is what permits sober assessment of what actually happened, what was contingent, and what continues to shape the present international order.
 

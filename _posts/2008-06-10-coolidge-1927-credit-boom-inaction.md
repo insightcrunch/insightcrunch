@@ -6,7 +6,7 @@ date: 2008-06-10
 categories: ["Leisure"]
 tags: ["calvin-coolidge", "decision-reconstruction", "us-presidents", "roaring-twenties", "federal-reserve", "great-depression-causes"]
 excerpt: "Coolidge watched brokers loans nearly double through 1927 and 1928 while every executive lever stayed untouched. He chose silence. The 1929 crash arrived."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2008-06-10
@@ -14,7 +14,7 @@ lang: en
 ---
 On August 2, 1927, in a one-room schoolhouse outside Rapid City, South Dakota, Calvin Coolidge handed each reporter present a small slip of paper folded twice. The slips were identical. Each carried twelve words in Coolidge's own typewritten hand: "I do not choose to run for President in nineteen twenty eight." He offered no statement, no elaboration, and no questions. Reporters scrambled for telephones; the wire services moved the bulletin within minutes; markets responded the next day with a brief jitter and then resumed climbing. What received little notice at the time, and what historians have spent eight decades trying to explain, is that Coolidge made this announcement with eighteen months of presidential authority still ahead of him, with the credit and margin lending boom already visibly underway, and with the Federal Reserve Board having just three days earlier authorized a rate cut that economic historians now identify as one of the proximate accelerants of what became the 1929 crash.
 
-![Calvin Coolidge 1927 credit boom inaction decision reconstruction Federal Reserve - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Calvin Coolidge 1927 credit boom inaction decision reconstruction Federal Reserve - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 The question this article reconstructs is not whether Coolidge caused the Great Depression. He did not, and no serious economic historian argues that he did in any single-cause sense. The question is narrower and harder. Coolidge held the office of the presidency from August 2, 1927, when he announced his withdrawal, through March 4, 1929, when Herbert Hoover took the oath. During those nineteen months, the indicators of speculative excess multiplied with documentary clarity in real time. Brokers' loans, which had stood at roughly 2.8 billion dollars at the end of 1926, climbed to 4.4 billion by the end of 1927, to 6.4 billion by the end of 1928, and to 8.5 billion by September 1929. The Standard Statistics common stock index nearly doubled across the same period. Margin requirements remained at twenty-five percent or below across most brokerage houses, meaning a speculator could control a hundred dollars of equity exposure with twenty-five dollars of cash and seventy-five dollars of borrowed money. Commerce Secretary Herbert Hoover sent multiple private warnings to the White House across 1927 and 1928 arguing that the speculation threatened the wider economy. Federal Reserve Board member Adolph Miller fought a sustained internal campaign against New York Fed Governor Benjamin Strong's easy-money policy. Coolidge said nothing publicly that suggested he agreed with the warning camp, and his December 4, 1928, final annual message to Congress praised the economy's condition in language that would read, ten months later, as catastrophic misjudgment.
 

@@ -6,7 +6,7 @@ date: 2017-12-11
 categories: ["Industry"]
 tags: ["dhurandhar", "soundtrack", "music", "nationalism", "bollywood", "anthems"]
 excerpt: "How Dhurandhar's soundtrack transcended the film to become anthems of India's post-Pahalgam nationalist mood, played at rallies, protests, and stadiums."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-12-11
@@ -16,7 +16,7 @@ Dhurandhar's soundtrack did something that no government communique, no diplomat
 
 <!--more-->
 
-![Dhurandhar Soundtrack and Nationalism - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Dhurandhar Soundtrack and Nationalism - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## The Film's Version
 

@@ -6,7 +6,7 @@ date: 2012-11-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hedwig", "Snowy Owl", "Magical Creatures", "Pets in Harry Potter"]
 excerpt: "Hedwig in Harry Potter as Harry's only constant companion across seven books: snowy owl, ethical witness, the silent measure of childhood lost forever."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 57
 author: "victoria-stone"
 last_updated: 2012-11-13
@@ -16,7 +16,7 @@ lang: en
 
 Of all the relationships in the Harry Potter cycle, only one is wholly free of deception. Dumbledore withholds. Sirius projects. The Dursleys lie by their entire existence. Ron quarrels. Hermione corrects. Snape conceals. Even Hagrid, the warmest adult in the orphan's life, smuggles dragons and dodges direct questions about Fluffy. Across seven books and roughly four thousand pages, every human attachment is shadowed by something the other person has not said. A single creature stands outside that pattern. She is a snowy owl in a wicker cage, bought on a hot summer afternoon in Diagon Alley, and her name is the first present the boy receives in eleven years of being alive.
 
-![Hedwig the snowy owl perched in Diagon Alley, the first gift the orphan received](/assets/images/blog/blog-63.webp)
+![Hedwig the snowy owl perched in Diagon Alley, the first gift the orphan received](/assets/images/blog/blog-22.webp)
 
 To call Hedwig a pet is already to misread her. The category of pet implies a hierarchy that the text does not honour. She is not subordinate; she is parallel. Her function in the narrative is to be the addressable centre of a child's life, the recipient of every confidence the boy cannot give to anyone he is supposed to trust. When the orphan needs to vent, he speaks to her. When he is unable to write to Sirius safely, she carries the cipher of the unspoken between them. When the Dursleys lock her in her cage and forbid her exercise, the cage becomes the visible measure of the boy's own imprisonment. There is no shorthand in the wizarding world more economical than her wings. The narrative needs only her presence to signal that the child still has a life elsewhere, and her absence to signal that the life has ended.
 

@@ -6,7 +6,7 @@ date: 2026-05-04
 categories: ["Leisure"]
 tags: ["dhurandhar", "soundtrack", "shashwat-sachdev", "bollywood-music", "background-score", "film-music"]
 excerpt: "Complete analysis of Dhurandhar's soundtrack and score - how Shashwat Sachdev's music elevates every scene."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ There is a scene in Dhurandhar Part 1 where Hamza is alone. He has just navigate
 
 <!--more-->
 
-![Dhurandhar Soundtrack and Background Score - Insight Crunch](/assets/images/blog/blog-63.webp)
+![Dhurandhar Soundtrack and Background Score - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 This is the argument at the center of any serious analysis of the Dhurandhar franchise's music: Sachdev's score is not accompaniment. It is a parallel narrative, a second screenplay running beneath the visible one, and it is the only voice in the franchise that never lies. Every other voice in Dhurandhar lies systematically: Hamza lies to Rehman, to Yalina, to the entire ecosystem of Lyari. Ajay Sanyal lies by omission to his handlers in Delhi. The franchise's surface dialogue is a tissue of strategic deception maintained across six hours of film. The score carries no deception. It maps the emotional reality of the story with a fidelity that no character can afford to demonstrate, and the audience registers this mapping, often without consciously identifying it, every time a cue lands in precisely the moment where the film's emotional truth needs an honest voice.
 

@@ -6,7 +6,7 @@ date: "2026-04-25"
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta confirmed 8,000 layoffs starting May 20, 2026, as it redirects billions toward AI infrastructure. Full breakdown of affected teams and much more."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 84
 author: "james-carter"
 lang: en
@@ -27,7 +27,7 @@ What made this announcement different from the layoffs of 2022 and 2023 was not 
 
 The timing of the announcement was also notable. It arrived just days after Meta revealed that it was rolling out a controversial new employee tracking tool called the Model Capability Initiative, or MCI. This software records keystrokes, mouse movements, click locations, and periodic screenshots from employees’ work computers across hundreds of websites and applications including Google, LinkedIn, Wikipedia, GitHub, Slack, and even Meta’s own properties like Threads and its internal AI assistant Metamate. The stated purpose was to train AI agents capable of performing white-collar tasks autonomously. Employees were asked to enable the tool via a pop-up on their work laptops, though the distinction between voluntary and mandatory participation became blurred when the same company was simultaneously announcing a 10 percent workforce reduction. The juxtaposition was not lost on anyone inside or outside the organization. Meta was recording exactly how its employees worked so that AI systems could learn to do those jobs, and then it was laying off those same employees.
 
-![Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot - Insight Crunch](/assets/images/blog/blog-57.webp)
+![Meta Layoffs May 2026: 8000 Jobs Cut, AI Pivot - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 This article provides the most comprehensive analysis available of the May 2026 Meta layoffs. It draws on official company statements, SEC filings, internal memos published by Bloomberg and Reuters, verified employee accounts from Blind and Reddit, California WARN Act filings, immigration law analysis, financial modeling, and on-the-ground reporting from multiple technology outlets. It covers every dimension of this event, from the corporate strategy driving the cuts to the individual human consequences of losing a job in a market where over 92,000 tech workers have already been laid off in 2026 alone.
 

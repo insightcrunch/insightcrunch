@@ -6,7 +6,7 @@ date: 2016-04-24
 categories: ["Leisure"]
 tags: ["proxy-wars", "cold-war", "world-history", "military-history", "historical-analysis"]
 excerpt: "Cold War proxy wars killed millions across the Third World while two superpowers maintained direct peace. Their shared architecture is the real subject."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2016-04-24
@@ -16,7 +16,7 @@ Cold War proxy wars were not a collection of separate regional conflicts that ha
 
 <!--more-->
 
-![Cold War Proxy Wars and Their Global Impact - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Cold War Proxy Wars and Their Global Impact - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The scholarly reorientation that makes this argument possible is relatively recent. For decades, Cold War historiography centered on the superpower bilateral relationship: nuclear deterrence, summit diplomacy, arms control negotiations, intelligence operations, and the European theater where NATO and the Warsaw Pact stared at each other across the iron curtain. The Third World appeared in this framework as a secondary arena, a place where the main contest occasionally spilled over into localized violence. Odd Arne Westad's 2005 study *The Global Cold War* reversed the analytical priority. Westad argued that the Third World was not the periphery of the Cold War but its principal killing field, and that the ideological projects the United States and the Soviet Union pursued in Asia, Africa, Latin America, and the Middle East constituted the most consequential and most destructive dimension of the superpower rivalry. Piero Gleijeses's archival work on Cuba's African interventions, Greg Grandin's analysis of Latin American consequences, and a generation of regional specialists have since confirmed and extended Westad's reorientation. The current scholarly consensus holds that proxy wars constitute the substantial moral content of [the Cold War](https://insightcrunch.com/2016/03/10/cold-war-explained-complete-guide/), not its background noise.
 

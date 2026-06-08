@@ -6,7 +6,7 @@ date: 1997-08-20
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Radicals", "Rational Equations", "Advanced Math"]
 excerpt: "SAT radicals and rational equations explained: fractional exponents, rationalizing, excluded values and the extraneous solution trap, with worked examples."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 59
 author: "christopher-wells"
 last_updated: 1997-08-20
@@ -14,7 +14,7 @@ lang: en
 ---
 Two whole families of Digital SAT algebra questions share a single hidden discipline, and the students who never learn it lose points they fully earned with their algebra. SAT radicals and rational equations look like separate topics, one about roots and surds, the other about fractions with variables in the bottom. They are graded by the same instinct. Every time you square both sides of an equation, and every time you clear a denominator by multiplying, you create the possibility of a false root, an answer that satisfies your rewritten line but breaks the original one you were actually asked about. The test writers know this. They build the wrong multiple-choice choices directly out of those false roots, so a student who solves the algebra perfectly and skips the final substitution walks straight into the trap that was set for exactly that moment.
 
-![SAT radicals and rational equations fractional exponents and extraneous solutions worked examples - Insight Crunch](/assets/images/blog/blog-25.webp)
+![SAT radicals and rational equations fractional exponents and extraneous solutions worked examples - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 This page treats both families as one skill unified by one rule: every candidate answer must be checked in the original equation before you bubble it. By the end you will be able to simplify any surd the exam can throw at you, translate fluidly between root notation and fractional exponents, rationalize a denominator with a conjugate, solve a rational equation by least common denominator while spotting the excluded values, and catch the manufactured root every single time. That last skill is the one that separates a student who knows the procedure from one who scores the points, because the procedure that creates false roots is also the procedure that lets you guarantee a correct answer instead of guessing. The growth-rate confusion belongs to a sister piece on [exponential functions and modeling equations](/1997/08/25/sat-math-exponential-functions/); here the recurring villain is the extraneous root, and naming it is half the cure.
 

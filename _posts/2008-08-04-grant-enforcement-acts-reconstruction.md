@@ -6,7 +6,7 @@ date: 2008-08-04
 categories: ["Leisure"]
 tags: ["ulysses-grant", "decision-reconstruction", "us-presidents", "reconstruction", "enforcement-acts", "ku-klux-klan"]
 excerpt: "Grant prosecuted the Klan in 1871. 3,000 indictments. 600 convictions. The October habeas suspension worked. Then the political will collapsed by 1874."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 67
 author: "diana-patel"
 last_updated: 2008-08-04
@@ -16,7 +16,7 @@ lang: en
 
 On October 17, 1871, Ulysses Grant signed a proclamation no peacetime president had ever signed. The document suspended the writ of habeas corpus in nine counties of upstate South Carolina, naming York, Spartanburg, Union, Marion, Lancaster, Chester, Chesterfield, Newberry, and Fairfield. Federal soldiers under Major Lewis Merrill would arrest suspected members of the Ku Klux Klan without judicial warrant, hold them without bail, and produce them for trial in federal circuit court at Columbia. The proclamation rested on the Ku Klux Klan Act passed six months earlier, which authorized the president to declare a state of insurrection and use the executive's emergency powers against organized political violence. The legal authority was untested. The political risk was substantial. The only nineteenth-century precedent for a peacetime habeas suspension was Andrew Jackson's military rule of New Orleans in 1815, which had ended with a judge fining Jackson for contempt of court.
 
-![Ulysses Grant prosecutes the Ku Klux Klan Enforcement Acts October 1871 habeas corpus suspension - Insight Crunch](/assets/images/blog/blog-65.webp)
+![Ulysses Grant prosecutes the Ku Klux Klan Enforcement Acts October 1871 habeas corpus suspension - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The proclamation was the peak of something larger. Between May 1870 and the end of 1872, Grant signed three federal statutes that together represented the most ambitious assertion of federal authority over private violence in American history to that point. His Justice Department, created by Congress in June 1870 specifically to handle Klan prosecutions, brought more than three thousand indictments against suspected night riders across the former Confederacy. Federal juries returned roughly six hundred convictions. Attorney General Amos Akerman, the Georgia lawyer Grant appointed in November 1870, traveled to South Carolina personally to oversee the prosecutions and write letters home that read like dispatches from a war zone. The Klan was, by 1872, militarily defeated in the Carolina upcountry. The infrastructure of Reconstruction-era civil rights had, for two years, real federal teeth behind it.
 

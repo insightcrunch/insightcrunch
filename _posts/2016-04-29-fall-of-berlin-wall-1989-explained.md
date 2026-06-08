@@ -6,7 +6,7 @@ date: 2016-04-29
 last_updated: 2016-04-29
 author: "rachel-foster"
 excerpt: "The Berlin Wall fell on November 9, 1989 because a Politburo spokesman misread his notes on live television. Structural crisis met contingent trigger."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-01.webp"
 categories: ["Leisure"]
 tags: ["fall-of-berlin-wall", "1989", "cold-war", "german-history", "world-history"]
 reading_time: 70
@@ -17,7 +17,7 @@ The Berlin Wall fell on November 9, 1989 because Politburo spokesman Gunter Scha
 
 <!--more-->
 
-![The Fall of the Berlin Wall in 1989 - Insight Crunch](/assets/images/blog/blog-06.webp)
+![The Fall of the Berlin Wall in 1989 - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 Mary Elise Sarotte's landmark 2014 study *The Collapse: The Accidental Opening of the Berlin Wall* documented the specific sequence of events on November 9 with archival precision, demonstrating that the Wall's opening was neither planned by the East German government nor anticipated by Western governments, and that the decisive moments came down to choices by mid-ranking officials who had received no guidance from their superiors. The scholarly consensus that has emerged from Sarotte, Timothy Garton Ash, Frederick Taylor, Hope Harrison, and other specialists holds that the Wall's fall resulted from a combination of deep structural factors and remarkably specific contingent triggers, and that neither category of explanation alone captures the actual historical reality. Popular memory has simplified the fall into a triumphalist Western-victory narrative centered on Ronald Reagan's 1987 Brandenburg Gate speech, but while Reagan's contribution was real, the actual events of November 9 bore little resemblance to the story told by triumphalist retrospection. The honest analytical account requires holding both the structural and the contingent in view simultaneously, which is precisely what the most careful scholarship now insists upon.
 

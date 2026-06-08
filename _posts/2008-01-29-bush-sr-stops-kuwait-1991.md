@@ -6,7 +6,7 @@ date: 2008-01-29
 categories: ["Leisure"]
 tags: ["george-h-w-bush", "decision-reconstruction", "us-presidents", "gulf-war", "kuwait-liberation", "coalition-diplomacy"]
 excerpt: "After 100 hours of ground war, Bush halted at Kuwait. Baghdad lay reachable, the coalition had won. He chose restraint over conquest. 2003 reversed it."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 71
 author: "rachel-foster"
 last_updated: 2008-01-29
@@ -18,7 +18,7 @@ Three minutes after nine on the evening of February 27, 1991, George Herbert Wal
 
 The ground campaign in the emirate had begun exactly 100 hours earlier. The Iraqi army had collapsed faster than any senior Pentagon planner had projected. The Republican Guard, Saddam Hussein's elite armored force, was disintegrating in retreat along Highway 80 from Kuwait City toward Basra. U.S. and coalition formations sat positioned to drive on Baghdad with tactical impunity. The road onward to Baghdad was, in the candid assessment of one CENTCOM planner that evening, wide open and largely undefended.
 
-![Bush Sr. halts Gulf War advance February 27 1991 ceasefire decision reconstruction - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Bush Sr. halts Gulf War advance February 27 1991 ceasefire decision reconstruction - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 Bush ordered the guns silenced anyway. The choice was his alone. The Joint Chiefs had not pressed for the ceasefire; they had presented it as one option among several. The coalition partners had not demanded it; they had assumed the president would press for maximum military advantage. Congress had not legislated it; the January 12, 1991 authorization to use force gave the executive broad tactical discretion within the schema of UN Security Council Resolution 678. Bush stopped because he had decided, sometime between mid-afternoon and 6:00 PM that day, that the war's announced aim had been achieved and that further military action would exceed it.
 

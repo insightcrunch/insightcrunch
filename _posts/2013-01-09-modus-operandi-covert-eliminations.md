@@ -6,7 +6,7 @@ date: 2013-01-09
 categories: ["Industry"]
 tags: ["modus-operandi", "covert-operations", "targeted-killings", "shadow-war", "intelligence", "pakistan"]
 excerpt: "Inside the modus operandi behind covert eliminations in Pakistan, from weapons and timing to surveillance networks, escape protocols, and hidden doctrine."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 70
 author: "gregory-marsh"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ Every targeted killing in Pakistan follows an operational script so consistent t
 
 <!--more-->
 
-![Modus Operandi of Covert Eliminations in Pakistan - Insight Crunch](/assets/images/blog/blog-39.webp)
+![Modus Operandi of Covert Eliminations in Pakistan - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 Understanding the modus operandi behind these eliminations requires moving beyond what happened in each case to examine how the killings are structurally executed, what capabilities each element demands, and what the operational signature reveals about the organization conducting them. The [broader campaign](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) has produced enough data points that the MO can be reconstructed from open-source reporting with reasonable confidence. Police FIR descriptions, witness accounts published in Pakistani newspapers, CCTV footage where available, and the geographic and temporal distribution of attacks all feed into a composite operational picture. Taken individually, each piece of evidence is fragmentary. Taken together, they form a mosaic that reveals disciplined operational planning behind what Pakistani authorities publicly dismiss as isolated criminal incidents.
 

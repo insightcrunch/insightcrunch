@@ -6,7 +6,7 @@ date: 2007-06-23
 categories: ["Leisure"]
 tags: ["john-adams", "consensus-flip", "us-presidents", "historical-reappraisal", "david-mccullough", "hbo-miniseries"]
 excerpt: "John Adams ranked near 10th in 1962, then slid for decades. McCullough's 2001 biography and HBO's 2008 series revived a reputation he had feared lost."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2007-06-23
@@ -14,7 +14,7 @@ lang: en
 ---
 In the spring of 1790, sitting in the vice president's residence with a quill and a grievance, John Adams told his friend Benjamin Rush exactly how the story would be told without him. The history of the Revolution, he predicted, would become one continued lie from beginning to end. The whole of it would be reduced to a cartoon: Doctor Franklin's electric rod struck the ground, and up sprang General Washington, fully formed, to lead the new nation. Adams understood that he was writing his own epitaph in advance. He was the lawyer who had defended the British soldiers after the Boston Massacre, the diplomat who had negotiated loans in Holland while Franklin charmed Paris, the man who had spent the war years on cold ships and in colder lodgings far from the glory. He knew that glory required a face the public could love, and he knew his own face was not it.
 
-![John Adams reputation reappraisal McCullough biography HBO miniseries ranking climb - Insight Crunch](/assets/images/blog/blog-55.webp)
+![John Adams reputation reappraisal McCullough biography HBO miniseries ranking climb - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 He was right for two centuries. Then a single biography and a seven-part television drama did something the archives never managed to do on their own. They made Americans care about John Adams. This is the story of how the second president climbed in public esteem without a single new document being unearthed, and the harder question that climb raises: what actually moves a reputation, evidence or attention?
 

@@ -6,7 +6,7 @@ date: 2022-05-27
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "language", "petrarchan-love", "romeo", "romeo-language-analysis"]
 excerpt: "Romeo begins speaking in borrowed Petrarchan cliches over Rosaline, then finds a plainer, truer voice with Juliet, and that shift charts his whole arc."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2022-05-27
@@ -14,7 +14,7 @@ lang: en
 ---
 When the young Montague first walks onto the stage of the play that bears his name, he does not speak like a man in love. He speaks like a man who has read about love. His opening contribution to the action is a cascade of contradictions, a wall of antitheses so polished and so impersonal that it could be lifted whole from a sonnet sequence of the 1590s and dropped into any lover's mouth: brawling love, loving hate, heavy lightness, cold fire, sick health. The verse is exquisite and the feeling is borrowed. That gap, between a dazzling surface and a hollow center, is the first and most important fact about how this character talks, and tracking what happens to it across five acts is the surest way to understand who he becomes.
 
-![Romeo Petrarchan language transformation from Rosaline to Juliet close reading - Insight Crunch](/assets/images/blog/blog-68.webp)
+![Romeo Petrarchan language transformation from Rosaline to Juliet close reading - Insight Crunch](/assets/images/blog/blog-37.webp)
 
 The standard account treats the boy as a romantic, a swooner, a creature of pure feeling who falls headlong and dies for it. That account misses the thing Shakespeare actually built. The lover's growth is not measured by how much he feels but by how he says it, and the play stages a deliberate transformation of style: from the airless paradoxes he pours out over a woman who never appears, to the collaborative sonnet he builds with a partner who answers him line for line, to the brighter, plainer images he reaches for in the orchard. The argument of this piece is that register, not plot, is where Shakespeare marks the difference between infatuation and love, and that the verse of this Montague heir matures faster, and more legibly, than the boy who speaks it. What follows reads the actual lines to show how the change works, where the old habits cling, and why the question of whether he ever truly leaves convention behind is harder, and more interesting, than the cliche allows.
 

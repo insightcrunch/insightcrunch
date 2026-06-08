@@ -5,7 +5,7 @@ date: 2010-12-10
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Have a webcam? Now you can add the latest highest level of technologies, authenticating a user by his looks, by this simple software. By facial..."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 1
 author: "rachel-foster"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Have a webcam? Now you can add the latest highest level of technologies, authenticating a user by his looks, by this simple software. By facial recognition, you can login to your PC in no time. [Install this](http://www.luxand.com/blink/).
 
-![Facial Recognition in Computer](/assets/images/blog/blog-76.webp)
+![Facial Recognition in Computer](/assets/images/blog/blog-42.webp)
 Facial Recognition in Computer
 
 All you will need is a webcam. Even in your old PC, you can have this awesome feature to stun your friends by just having the cheapest of the cheap webcam. It will work with any number of users. Try it out. You will surely like it and share this article to all your friends for sure!

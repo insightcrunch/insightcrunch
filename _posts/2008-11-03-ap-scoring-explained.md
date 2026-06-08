@@ -6,7 +6,7 @@ date: 2008-11-03
 categories: ["Industry"]
 tags: ["AP Exams", "AP Scoring", "Exam Strategy", "Study Guide", "College Admissions"]
 excerpt: "AP exam scoring converts weighted multiple-choice and free-response points into a composite mapped to the 1 to 5 scale, and here is how each grade is built."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-72.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 2008-11-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A student who finishes an AP exam walks out with a vague feeling, good, bad, somewhere in between, and then waits months to learn whether that feeling was right. The number that arrives in July, a single digit from 1 to 5, decides college credit, placement, and sometimes how an admissions reader weighs a transcript. Yet most students never learn how that digit is built. AP exam scoring is not a mystery and it is not a lottery; it is a defined conversion from raw points to a reported scale, and a student who understands the conversion can aim at it deliberately instead of studying blind. This guide takes the scoring machine apart piece by piece so that any future score, on any subject, becomes readable rather than mysterious.
 
-![AP exam scoring explained, how raw points convert to the 1 to 5 scale - Insight Crunch](/assets/images/blog/blog-65.webp)
+![AP exam scoring explained, how raw points convert to the 1 to 5 scale - Insight Crunch](/assets/images/blog/blog-72.webp)
 
 The reason scoring literacy matters so much is leverage. Two students can put in identical hours and walk away with different results, not because one is smarter, but because one knew which points were cheap and which were expensive, which section carried more weight, and what composite total the grade they wanted actually required. The other studied everything evenly, guessed at random under time pressure, and left predictable points on the table. The difference between them is not talent. It is knowing how the number is made. By the end of this article you will be able to explain how a raw score becomes a 1 to 5, why the cutoffs move from one year to the next, and what a 3, a 4, or a 5 actually signals to the colleges that receive it.
 

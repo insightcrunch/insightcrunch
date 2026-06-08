@@ -6,7 +6,7 @@ date: 2014-11-01
 categories: ["Leisure"]
 tags: ["of-mice-and-men", "john-steinbeck", "great-depression-literature", "agricultural-labor", "american-novella", "classic-literature"]
 excerpt: "Of Mice and Men is not a tragic friendship story. It is Steinbeck's 1937 argument about what Depression-era California migratory labor did to workers."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-11-01
@@ -16,7 +16,7 @@ Of Mice and Men is Steinbeck's 1937 argument about Depression-era California mig
 
 <!--more-->
 
-![Complete Analysis of Of Mice and Men - Insight Crunch](/assets/images/blog/blog-26.webp)
+![Complete Analysis of Of Mice and Men - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 John Steinbeck (1902-1968) grew up in Salinas, California, in the agricultural heart of the Central Valley. He worked on farms and ranches during summers while attending Stanford, which he left without completing a degree. His 1930s corpus constitutes one of the most sustained documentary-literary projects in American fiction: Tortilla Flat (1935), In Dubious Battle (1936), Of Mice and Men (1937), The Long Valley (1938), and The Grapes of Wrath (1939, Pulitzer Prize 1940). Each of these texts is rooted in the specific employment conditions of California agriculture during the Depression, and reading any one of them outside that context strips the work of its argumentative content. Steinbeck was not writing universal parables about human suffering. He was writing about particular people in particular conditions, and he was arguing that those conditions could and should be changed.
 

@@ -6,7 +6,7 @@ date: 2018-04-30
 categories: ["Industry"]
 tags: ["kashmir", "crackdown", "post-sindoor", "detentions", "demolitions", "security"]
 excerpt: "The massive security crackdown in Kashmir after Pahalgam and Operation Sindoor, with over 2,800 detained, homes demolished, and an entire valley locked."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2018-04-30
@@ -16,7 +16,7 @@ On April 22, 2025, three gunmen walked into the Baisaran Valley meadow near Paha
 
 <!--more-->
 
-![Post Sindoor Kashmir Crackdown - Insight Crunch](/assets/images/blog/blog-69.webp)
+![Post Sindoor Kashmir Crackdown - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The numbers alone tell a story that resists simple interpretation. Approximately 2,800 people were detained or summoned for questioning across Jammu and Kashmir in the weeks following April 22. At least 90 individuals were booked under the Public Safety Act, a preventive detention law that permits incarceration without trial for up to two years. Over 100 were charged under the Unlawful Activities (Prevention) Act, which makes bail functionally impossible in most cases. At least ten to twelve homes belonging to families of suspected militants were demolished by security forces, some through controlled explosions, others through bulldozers. Forty-eight of the valley's eighty-seven tourist destinations were closed. Mobile internet services were suspended across multiple districts. Over 8,000 social media accounts were blocked nationwide. Nearly 800 Pakistani nationals, including women married to Kashmiri men, were ordered to leave the territory. The Indian government described these measures as security necessities in the aftermath of the worst terrorist attack in Kashmir in a quarter century. Human rights organizations, the United Nations Office of the High Commissioner for Human Rights, and multiple UN Special Rapporteurs described them as collective punishment that violated international law.
 

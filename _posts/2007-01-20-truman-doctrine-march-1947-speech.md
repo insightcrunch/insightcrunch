@@ -6,7 +6,7 @@ date: 2007-01-20
 categories: ["Leisure"]
 tags: ["harry-truman", "close-read", "us-presidents", "truman-doctrine", "cold-war", "containment"]
 excerpt: "Truman asked Congress for $400 million in March 1947 for Greece and Turkey. The words he chose committed America to a Cold War that lasted forty years."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 71
 author: "diana-patel"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 At one o'clock on the afternoon of March 12, 1947, Harry Truman walked into the chamber of the House of Representatives, set a thin sheaf of pages on the rostrum, and in eighteen minutes redrew the map of American obligation. The immediate occasion was small enough to fit on an accountant's ledger. He wanted four hundred million dollars, two hundred and fifty for Greece and one hundred and fifty for Turkey, two countries most Americans could not have located within five hundred miles on a blank map. The sum was real but modest, the equivalent of roughly five and a half billion dollars in 2020 money, a rounding error against the cost of the war that had ended only nineteen months earlier. Nothing about the dollar figure explains why historians treat that afternoon as the hinge on which the second half of the twentieth century turned.
 
-![Truman Doctrine March 1947 speech to Congress universalist framing close read - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Truman Doctrine March 1947 speech to Congress universalist framing close read - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The reason sits in a single sentence buried in the middle of the address, a sentence that began as a request for emergency aid to two governments and ended as a standing promise to every government on earth that might someday feel Soviet pressure on its borders. "I believe that it must be the policy of the United States to support free peoples who are resisting attempted subjugation by armed minorities or by outside pressures." Twenty-eight words. They contain no place name, no dollar amount, no expiration date, no geographic limit. A reader could substitute Korea for Greece, or Vietnam for Turkey, or El Salvador for either, and the sentence would still parse. That was the point, and it was a point made on purpose, by men who knew exactly what they were doing and argued bitterly about whether they should do it. The speech that Americans remember as the opening shot of the Cold War was, at the level of its actual composition, a fight over how large a check the United States was willing to write with its own language.
 

@@ -6,7 +6,7 @@ date: 1996-12-02
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Vocabulary", "Word List", "Study Guide"]
 excerpt: "SAT vocabulary core: 500 essential words in three tiers with definitions, example sentences and traps, plus roots and a spaced-repetition learning plan."
-image: "/assets/images/blog/blog-29.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 79
 author: "hannah-moore"
 last_updated: 1996-12-02
@@ -16,7 +16,7 @@ lang: en
 
 A student walks into the testing center having memorized five hundred definitions from a stack of flashcards. The card reads "abate: to lessen." On the screen, a sentence about a controversy that slowly lost its public heat asks which choice best completes the thought, and the option is "abated." The student, who can recite the definition perfectly, freezes, because nothing on the back of that card taught them what abate looks like doing its work inside a sentence about a fading scandal. That gap, between a memorized gloss and a usable sense, is where most verbal points quietly leak away.
 
-![SAT vocabulary 500 essential words in three tiers with roots and spaced repetition - Insight Crunch](/assets/images/blog/blog-29.webp)
+![SAT vocabulary 500 essential words in three tiers with roots and spaced repetition - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 The digital exam does not ask for definitions. It tests words in context, embedded in Craft and Structure questions that hand you a sentence with a blank and four candidates that all look defensible until you weigh connotation, register, and fit. A list alone will not get you there, and neither will cramming. What follows is the InsightCrunch three-tier 500-word SAT vocabulary core, every entry built with a meaning, a usage cue, and the wrong-usage trap that snares students, paired with a learning method built on spaced repetition, roots, and sentence-level practice. The promise is narrow and concrete: finish this and you will recognize the high-yield words on sight, know how each one behaves in a sentence, and own a daily plan that makes the knowledge stick instead of evaporating the week after you build it.
 

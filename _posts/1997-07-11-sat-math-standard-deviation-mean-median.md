@@ -6,7 +6,7 @@ date: 1997-07-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Statistics", "Data Analysis", "Test Prep"]
 excerpt: "SAT statistics explained: mean versus median, standard deviation as spread, IQR and outlier effects, with box plots and worked comparison examples throughout."
-image: "/assets/images/blog/blog-86.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 59
 author: "samantha-lee"
 last_updated: 1997-07-11
@@ -16,7 +16,7 @@ Picture a student two-thirds of the way through a math module who hits a questio
 
 That gap between what the SAT statistics question rewards and what a frightened test-taker reaches for is the single most expensive misunderstanding in the descriptive-statistics corner of the math section. The exam does not want arithmetic here. It wants a read. Spread for standard deviation, a middle value that shrugs off extremes for the median, and a small set of rules about what shifting or scaling a dataset does to each summary number. Master those and every descriptive-statistics item on the test collapses into quick reasoning rather than a stopwatch-draining calculation.
 
-![SAT standard deviation, mean and median outlier effects with box plots and dot plots worked examples - Insight Crunch](/assets/images/blog/blog-86.webp)
+![SAT standard deviation, mean and median outlier effects with box plots and dot plots worked examples - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 This piece is built around that claim. The promise is not a refresher on definitions you can find anywhere, because a generic definition will not save you the forty seconds or steer you past the answer choice engineered to punish a computation you should never have begun. The promise is a working method: how to look at a histogram and know which way the spread runs, how to predict the effect of an outlier before touching a number, and how to apply the transformation rules that decide which measures move when a dataset is shifted up or scaled wider. Call it the read-don't-compute habit, the InsightCrunch spread-and-resistance framework for descriptive statistics, and it is the spine of everything below.
 

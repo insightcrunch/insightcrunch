@@ -6,7 +6,7 @@ date: 2018-02-05
 categories: ["Industry"]
 tags: ["dogfight", "nuclear-powers", "aerial-combat", "india-pakistan", "2025", "rafale"]
 excerpt: "The first jet-era aerial dogfight between two nuclear-armed nations during the 2025 India-Pakistan conflict, what really happened, and why it matters now."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 70
 author: "alex-cunningham"
 last_updated: 2018-02-05
@@ -16,7 +16,7 @@ On the night of May 6 and 7, 2025, two nuclear-armed nations fought an aerial ba
 
 <!--more-->
 
-![First Dogfight Between Nuclear Powers - Insight Crunch](/assets/images/blog/blog-26.webp)
+![First Dogfight Between Nuclear Powers - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 What made this confrontation unprecedented was not merely the number of aircraft involved or the sophistication of the weapons deployed. Previous aerial confrontations between India and Pakistan, including the 2019 Balakot-related skirmishes in which Wing Commander Abhinandan Varthaman was shot down in a MiG-21, had been brief, localized, and limited to a handful of aircraft. May 7 involved the full spectrum of modern aerial combat capability: French-built Rafale multirole fighters armed with Meteor beyond-visual-range missiles facing off against Chinese-built Chengdu J-10C fighters carrying PL-15 long-range air-to-air missiles, with JF-17 Thunder Block III jets, Sukhoi Su-30MKIs, MiG-29 Fulcrums, and American-origin F-16 Fighting Falcons all operating in an electromagnetic environment saturated with jamming, countermeasures, and airborne early warning coordination. The skies over the India-Pakistan border became a testing ground not only for national military capabilities but for the weapons systems that dozens of countries around the world had purchased or were considering purchasing. Every defense ministry from Beijing to Paris to Washington was watching, because the combat performance of these platforms would shape procurement decisions for decades.
 

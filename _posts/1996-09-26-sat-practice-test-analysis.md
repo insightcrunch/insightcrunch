@@ -6,7 +6,7 @@ date: 1996-09-26
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Practice Test", "Error Analysis", "Strategy"]
 excerpt: "SAT practice test analysis: a nine-step review method that categorizes every error and builds a targeted study plan, worth more than taking more tests."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 60
 author: "maria-santos"
 last_updated: 1996-09-26
@@ -16,7 +16,7 @@ Two students take the same full-length practice exam on a Saturday morning. Both
 
 SAT practice test analysis is the single highest-return activity in the entire preparation cycle, and it is the one almost everyone skips. The scoring takes four minutes and feels like the finish line. The review takes ninety minutes and feels like punishment, so it gets deferred to never. Yet the score report tells you almost nothing you can act on. A 1240 is a verdict, not a diagnosis. It says where you stand; it says nothing about why, and nothing about what to do tomorrow. The diagnosis lives one layer down, inside every wrong answer, and pulling it out is a learnable procedure rather than a talent.
 
-![SAT practice test analysis nine-step review method and error worksheet - Insight Crunch](/assets/images/blog/blog-65.webp)
+![SAT practice test analysis nine-step review method and error worksheet - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 This guide gives you that procedure: a nine-step review method that takes a single completed practice exam and converts it into a ranked study list and a one-to-two-week plan, with every dropped point sorted into one of four causes and each cause routed to its own specific fix. You will leave able to run the full review on your own results, tell within a few minutes whether your real problem is missing knowledge or wasted seconds or a misread prompt, and build the next stretch of study from the answer rather than from a guess. The number on the report is the least useful thing the exam produced. The wrong answers are where the points are hiding, and this is how you go and get them.
 

@@ -6,7 +6,7 @@ date: 2008-01-02
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "counterfactual", "us-presidents", "vietnam-war", "national-security-action-memorandum", "dallas"]
 excerpt: "JFK was approving Vietnam buildup in November 1963 even as NSAM 263 authorized partial adviser drawdown. Withdrawal or escalation? Four historians argue."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 62
 author: "rachel-foster"
 last_updated: 2008-01-02
@@ -16,7 +16,7 @@ On October 11, 1963, John F. Kennedy signed National Security Action Memorandum 
 
 On November 26, 1963, four days after the assassination, Johnson signed NSAM 273. The successor document had been drafted in the days before Dallas and finalized after it. Its substantive language was largely in place before the motorcade turned onto Elm Street. The new president did not redirect the policy; he ratified what was already in motion. The advisory commitment continued. The combat threshold remained uncrossed. The conditional drawdown framework that 263 sat inside was already eroding because the South Vietnamese regime had collapsed in a coup three weeks earlier, and the Minh government that replaced Diem was performing worse, not better, against the Viet Cong.
 
-![Kennedy Vietnam NSAM 263 counterfactual analysis - Insight Crunch](/assets/images/blog/blog-33.webp)
+![Kennedy Vietnam NSAM 263 counterfactual analysis - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 This is the documentary record. It supports multiple readings. Four major historians have produced four substantially different verdicts about what JFK would have done in a second term. None of those verdicts is unreasonable. None is consensus. The disagreement itself is the most honest answer the field has produced, and walking the evidence underneath it reveals what was actually being decided in those autumn weeks of 1963.
 

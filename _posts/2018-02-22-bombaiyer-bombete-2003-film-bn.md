@@ -6,7 +6,7 @@ date: 2018-02-22
 categories: ["Leisure"]
 tags: ["feluda", "bombaiyer-bombete", "sandip-ray", "sabyasachi-chakraborty", "bollywood"]
 excerpt: "২০০৩ সালের বোম্বাইয়ের বম্বেটে ছবির সম্পূর্ণ বিশ্লেষণ। সন্দীপ রায়ের প্রথম থিয়েট্রিক্যাল ফেলুদা, বাঙালি বনাম বলিউডের সাংস্কৃতিক সংলাপ, কলকাতা-মুম্বাই বৈপরীত্য, এবং মেটা-স্তরের বহুগুণ।"
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 89
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![বোম্বাইয়ের বম্বেটে ২০০৩: ফেলুদা যান বলিউডে - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-22.webp)
+![বোম্বাইয়ের বম্বেটে ২০০৩: ফেলুদা যান বলিউডে - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-43.webp)
 
 ## প্রকাশনা প্রসঙ্গ
 

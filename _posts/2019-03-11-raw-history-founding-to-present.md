@@ -6,7 +6,7 @@ date: 2019-03-11
 categories: ["Industry"]
 tags: ["raw", "history", "r-n-kao", "india", "intelligence", "founding-to-present"]
 excerpt: "The complete history of RAW, from R.N. Kao's 1968 founding vision through Bangladesh, Sikkim and the shadow war, and how India's spy agency transformed."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 71
 author: "ian-fletcher"
 last_updated: 2019-03-11
@@ -16,7 +16,7 @@ On a September morning in 1968, a slim, soft-spoken police officer named Rameshw
 
 <!--more-->
 
-![RAW History From Founding to Present](/assets/images/blog/blog-77.webp)
+![RAW History From Founding to Present](/assets/images/blog/blog-94.webp)
 
 That organisation was the Research and Analysis Wing, and the story of the next fifty-eight years is the story of how a defensive intelligence service, conceived to prevent surprises, allegedly became an offensive instrument capable of reaching into Pakistani cities and removing India's most wanted men one by one. The distance between Kao's founding charter and the campaign that analysts now call the shadow war is the distance between gathering information and ending lives, and the agency crossed that distance gradually, era by era, failure by failure. Nobody at the founding meeting in 1968 imagined motorcycle assassins in Karachi or coded references to unknown gunmen in Pakistani police reports. Yet the institution that produces such operations today is a direct descendant of the small, careful service Kao assembled, and understanding the shadow war means understanding the half-century of evolution that made it possible.
 

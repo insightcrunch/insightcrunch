@@ -9,7 +9,7 @@ slug: cleopatra-last-pharaoh-egypt
 excerpt: "Cleopatra was not a beauty, not a romantic, and not an exotic foreign queen. She was a Ptolemaic politician who nearly outmaneuvered Rome for a generation."
 tags: ["cleopatra", "ptolemaic-egypt", "ancient-egypt", "roman-republic", "female-rulers", "ancient-history"]
 categories: ["Leisure"]
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 70
 lang: en
 ---
@@ -17,7 +17,7 @@ A version of Cleopatra exists in the popular imagination that has almost nothing
 
 <!--more-->
 
-![Cleopatra: The Last Pharaoh of Egypt - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Cleopatra: The Last Pharaoh of Egypt - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 Plutarch, whose account Shakespeare drew on so heavily, wrote roughly 150 years after Cleopatra's death. His sources were primarily Augustan-era texts, filtered through a Greek moralist's interest in illustrating the corrupting effects of fortune on great men. Plutarch's Cleopatra is above all a device for understanding Mark Antony's decline. She is the force that draws a Roman general away from Roman virtue, Roman martial discipline, and ultimately Roman survival. That framing serves Augustan ideology with precision. It explains why Antony lost while simultaneously explaining why Octavian had to win. The difficulty is that it tells us almost nothing reliable about Cleopatra herself, and a great deal about how Octavian wanted her remembered by the generations that would follow.
 

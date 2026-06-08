@@ -6,7 +6,7 @@ date: 2026-05-21
 categories: ["Leisure"]
 tags: ["dhurandhar", "box-office-records", "bollywood", "franchise", "ranveer-singh", "indian-cinema"]
 excerpt: "Every box office record the Dhurandhar franchise has shattered - milestones, firsts, and historic achievements."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ The records are the least interesting thing about the Dhurandhar franchise's box
 
 <!--more-->
 
-![Every Record Dhurandhar Franchise Broke - Insight Crunch](/assets/images/blog/blog-65.webp)
+![Every Record Dhurandhar Franchise Broke - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 What Dhar broke was not just a collection of numerical benchmarks that happen to be logged in trade publications. It broke the box office model that Bollywood had been operating on for decades, the implicit agreement between filmmakers and distributors and exhibitors about what kind of Hindi film could generate what kind of returns. That model said: if you want to open big, you make a crowd-pleaser. You cast a major star. You include songs the audience can hum on the way out. You keep the runtime under two and a half hours. You avoid anything that might restrict your certificate to adults only. You do not make a dialogue-heavy psychological spy thriller running nearly three and a half hours with an A certificate, set largely in a Pakistani criminal underworld, with a protagonist who never fully wins anything cleanly. Dhar made exactly that film, twice, and both times it outgrossed almost every crowd-pleasing masala entertainer Bollywood had ever produced.
 

@@ -6,7 +6,7 @@ date: 2003-03-11
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Prelims", "Indian Economy", "Economic Survey", "Budget"]
 excerpt: "UPSC Prelims Indian Economy preparation strategy: NCERT and Ramesh Singh integration, core economic concepts, banking and finance, budget and Economic Survey tracking, government schemes, and the largest single content subject in the Prelims paper."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
 author: "anita-das"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The strategic importance of Indian Economy preparation derives not only from its
 
 This article provides the complete data-driven preparation strategy for UPSC Prelims Indian Economy that addresses both the substantial question contribution and the specific challenges that Economy presents to systematic preparation. The article integrates four critical components: the NCERT and Ramesh Singh integration method that is the foundational reference strategy for comprehensive Economy coverage, the core economic concepts framework that identifies the conceptual building blocks every aspirant must master before attempting analytical questions, the banking and finance subdomain analysis that addresses one of the highest-frequency Economy question types, and the Budget and Economic Survey tracking approach that captures the contemporary policy component which has grown substantially in question frequency over the past decade.
 
-![UPSC Prelims Indian Economy Strategy - Insight Crunch](/assets/images/blog/blog-26.webp)
+![UPSC Prelims Indian Economy Strategy - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, the Economy section's 18-question average contribution makes it one of the four major scoring opportunities (alongside Polity, History, and the Geography-Environment cluster) that collectively determine the qualification calculation. The [Prelims topic-wise weightage analysis](/2003/03/29/upsc-prelims-topic-wise-weightage/) provides the thirteen-year quantitative breakdown of Economy's question contribution and confirms its position as the single largest subject by question volume. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places Economy within the broader Prelims preparation framework that this article's Economy-specific strategy operates within. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/) and the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/) provide the corresponding preparation approaches for the other major Prelims subject areas, completing the systematic subject-by-subject preparation framework that the topic-wise weightage analysis recommends.
 

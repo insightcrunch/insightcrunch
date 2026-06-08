@@ -6,7 +6,7 @@ date: 2022-07-29
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "character-study", "juliet", "the-nurse", "juliet-and-the-nurse"]
 excerpt: "Juliet outgrows the Nurse and her parents within a single act, and her cry of ancient damnation marks the moment she is left to decide entirely alone."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-70.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2022-07-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Two words end a childhood. After the Nurse has counselled her young charge to forget the banished husband and marry the County Paris instead, the Capulet daughter waits until the old woman has shuffled offstage and then turns her back on the only adult who has ever truly stood beside her: "Ancient damnation! O most wicked fiend!" The line lands at Act 3, Scene 5, line 235 in Rene Weis's Arden third series text, and it is the hinge of the whole play. Before it, the thirteen-year-old has a household, a confidante, a structure of care around her. After it, she has nothing but a friar's desperate scheme and her own resolve. The cliche remembers her as a girl on a balcony, a sweetheart, a daughter. The play remembers something harder. Within a single act she loses her father, her mother, and her foster mother in turn, and what is left standing when the supports fall away is not a child at all but an adult who must now act alone.
 
-![Juliet Act 3 Scene 5 break from the Nurse and parents character analysis - Insight Crunch](/assets/images/blog/blog-32.webp)
+![Juliet Act 3 Scene 5 break from the Nurse and parents character analysis - Insight Crunch](/assets/images/blog/blog-70.webp)
 
 This article tracks that collapse line by line and reaches a verdict on what it produces. The argument is that isolation is not a misfortune that happens to the bride in the second half of the tragedy. It is the precondition of everything she does that matters. Her agency, her cunning, her willingness to swallow a sleeping draught alone in the dark, all of it becomes possible only once the people who would have managed her life for her have withdrawn, raged, or betrayed. The standard account treats the Nurse's advice and the father's fury as obstacles thrown in the path of young love. The closer reading treats them as the forge. What walks out of Act 3, Scene 5 is a young woman who has learned, in the space of a few hundred lines, that no one is coming to save her, and who decides to save herself.
 

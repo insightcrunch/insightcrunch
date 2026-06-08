@@ -6,7 +6,7 @@ date: 2013-04-25
 categories: ["Industry"]
 tags: ["dawood-malik", "masood-azhar", "jaish-e-mohammed", "north-waziristan", "targeted-killing"]
 excerpt: "Profile of Dawood Malik, close aide to JeM founder Masood Azhar and Lashkar-e-Jabbar operative, killed by unknown gunmen in North Waziristan, Pakistan."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-92.webp"
 reading_time: 70
 author: "abigail-cooper"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ On a Friday morning in October 2023, masked gunmen walked into a private clinic 
 
 <!--more-->
 
-![Dawood Malik Profile Masood Azhar Aide Killed North Waziristan - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Dawood Malik Profile Masood Azhar Aide Killed North Waziristan - Insight Crunch](/assets/images/blog/blog-92.webp)
 
 Malik's killing came just eleven days after [Shahid Latif](https://insightcrunch.com/2013/04/19/shahid-latif-pathankot-mastermind/), the mastermind of the 2016 Pathankot airbase attack, was shot dead inside a mosque in Sialkot, Punjab. The temporal proximity is analytically significant. Two associates of [Masood Azhar](https://insightcrunch.com/2012/01/11/masood-azhar-complete-profile/) killed within less than two weeks of each other, in two entirely different regions of Pakistan separated by over a thousand kilometers of geography, operated upon by what appear to be two entirely different teams capable of functioning independently in radically different operational environments. Sialkot is urban Punjab, where Urdu is spoken, where the terrain is flat and populated, where escape routes follow paved highways. Mirali is tribal Waziristan, where Pashto dominates, where the landscape is mountainous and barren, where escape requires knowledge of goat tracks and seasonal riverbeds that do not appear on any commercial map. The capability to operate in both environments simultaneously, and to do so within days of each other, reveals an operational infrastructure of extraordinary depth and geographic breadth.
 

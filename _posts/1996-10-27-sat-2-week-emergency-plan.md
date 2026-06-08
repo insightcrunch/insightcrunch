@@ -6,7 +6,7 @@ date: 1996-10-27
 categories: ["Industry"]
 tags: ["SAT", "Score Improvement", "Last Minute", "Emergency Plan", "Study Plan"]
 excerpt: "SAT two-week emergency plan: a triage approach to the easiest score gains, high-yield topics, a Desmos crash course and one timed test, with what to skip."
-image: "/assets/images/blog/blog-77.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "simon-hartley"
 last_updated: 1996-10-27
@@ -14,7 +14,7 @@ lang: en
 ---
 Fourteen days out, the worst thing you can do is open a prep book at chapter one and try to read it cover to cover. That is the instinct, and it is the instinct that burns the two weeks you have left. With a full season you can afford to build foundations, fill every gap, and let mastery accumulate. With fourteen days you cannot, and the students who pretend otherwise spend the time anxiously skimming everything and converting almost none of it into points. The SAT last 2 weeks problem is not a knowledge problem. It is an allocation problem, and the right frame is triage: treat your remaining time the way an emergency room treats a full waiting room, sorting by what can be saved fastest rather than by what is most seriously wrong.
 
-![SAT two-week emergency plan triage calendar and high-yield topic priorities - Insight Crunch](/assets/images/blog/blog-77.webp)
+![SAT two-week emergency plan triage calendar and high-yield topic priorities - Insight Crunch](/assets/images/blog/blog-73.webp)
 
 Triage means you accept, on day one, that you will not fix everything, and you stop trying. A patient with a sprained wrist gets seen before a chronic condition that needs months of care, not because the wrist matters more but because the wrist can be resolved now and the chronic case cannot. Your score works the same way under a fourteen-day clock. Some of the points you are currently losing are recoverable in an afternoon: a percent-change rule you keep inverting, a comma pattern you misread half the time, a pacing habit that leaves four solvable questions unanswered at the end of a module. Other points sit behind weeks of conceptual work you do not have time for, and chasing them is how you lose the recoverable ones too. This piece gives you the triage method, the short list of highest-yield topics in each section, a focused two-hour crash course on the calculator that quietly decides Math questions, a single timed test placed where it does the most good, and an explicit list of what to refuse to do. Spend the fortnight on the gains that are sitting right there, and even two weeks moves your number.
 

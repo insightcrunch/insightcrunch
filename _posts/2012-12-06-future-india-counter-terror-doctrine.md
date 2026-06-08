@@ -6,7 +6,7 @@ date: 2012-12-06
 categories: ["Industry"]
 tags: ["counter-terror", "doctrine", "india", "future", "shadow-war", "sindoor", "strategic-analysis"]
 excerpt: "After the shadow war and Operation Sindoor, what comes next for India's counter-terror doctrine, its evolving military posture, and regional stability."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ India's approach to cross-border terrorism has undergone a transformation so com
 
 <!--more-->
 
-![Future of India Counter-Terror Doctrine - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Future of India Counter-Terror Doctrine - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 This analysis projects India's counter-terror trajectory forward through three structured scenarios, each grounded in the doctrinal evolution that produced the current posture. Predicting future policy is inherently speculative, and unforeseen events ranging from leadership changes to economic crises to third-party interventions could invalidate any projection. What follows, therefore, is not prophecy but scenario analysis: a disciplined examination of where the logic of each doctrinal instrument leads if current trends continue, accelerate, or reverse. The argument is that India has built a multi-track counter-terror architecture that has no defined endpoint, no exit criteria, and no institutional mechanism for scaling back. Whether that architecture achieves its stated goals or produces permanent low-grade conflict depends on choices that neither New Delhi nor Islamabad has yet made, and on variables that neither side fully controls.
 

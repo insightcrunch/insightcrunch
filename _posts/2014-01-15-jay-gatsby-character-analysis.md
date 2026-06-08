@@ -6,7 +6,7 @@ date: 2014-01-15
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "jay-gatsby", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Deep analysis of Jay Gatsby - his reinvention, obsession with Daisy, and what his downfall says about America."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "emily-reed"
 last_updated: 2014-01-15
@@ -16,7 +16,7 @@ Jay Gatsby is not a romantic hero. He is a man who spent five years watching a g
 
 <!--more-->
 
-![Jay Gatsby Character Analysis - Insight Crunch](/assets/images/blog/blog-53.webp)
+![Jay Gatsby Character Analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The conventional classroom reading of Gatsby treats him as the embodiment of the American Dream, a self-made man whose fatal flaw is loving too much. This reading has persisted since Lionel Trilling canonized it in *The Liberal Imagination* in 1950, and it has shaped how millions of high school students encounter the character every year. SparkNotes, LitCharts, and CliffsNotes all reproduce versions of it. The reading is not wrong in every particular, but it is incomplete in a way that distorts the character beyond recognition. Sarah Churchwell's *Careless People* (2013) and the broader reassessment of Fitzgerald's intentions that emerged in the 2010s have made it possible to read Gatsby as the novel itself reads him: as a criminal whose devotion to Daisy Buchanan is indistinguishable from obsession, whose self-invention is a catalog of calculated lies, and whose death is the inevitable terminus of a surveillance operation that began in a Louisville training camp in the autumn of 1917. The gap between who Gatsby claims to be and who the textual evidence reveals him to be is the novel's deepest subject, and the romantic reading requires the reader to look away from that gap at exactly the moments when Fitzgerald is pointing at it most insistently.
 

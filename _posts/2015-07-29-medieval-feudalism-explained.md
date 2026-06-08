@@ -6,7 +6,7 @@ date: 2015-07-29
 categories: ["Leisure"]
 tags: ["medieval-feudalism", "medieval-europe", "susan-reynolds", "historiography", "medieval-society", "medieval-history"]
 excerpt: "Medieval feudalism was never one system. It is a label that seventeenth-century antiquarians pinned on inconsistent local practices, and the pyramid is wrong."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 73
 author: "chloe-martin"
 last_updated: 2015-07-29
@@ -18,7 +18,7 @@ Almost everyone who has sat through a school history lesson can draw the picture
 
 The problem is not that the pyramid simplifies. Every teaching diagram simplifies, and there is nothing wrong with a clear picture. The problem is that this particular picture was never a description of medieval life at all. It was assembled, long after the Middle Ages had ended, by lawyers and antiquarians who needed a tidy model of the past in order to win arguments in their own present. The people who actually lived in twelfth-century Burgundy or eleventh-century Wessex did not know they lived under feudalism, because the word did not exist and the order it names was never experienced as a single order. What looks from a distance like one machine turns out, examined up close, to be a sprawl of local customs, overlapping claims, and arrangements that contradicted each other from one valley to the next.
 
-![Medieval Feudalism Explained - Insight Crunch](/assets/images/blog/blog-68.webp)
+![Medieval Feudalism Explained - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 This article advances a single argument, and it is worth stating plainly before any evidence arrives. Medieval feudalism is not one system that organized medieval Europe. It is a retrospective label, applied in the seventeenth century by legal antiquarians, to a mass of inconsistent practices that varied enormously by region and by era. The classical pyramid is wrong, not as a matter of emphasis but as a matter of fact, and specialists have known this for two full generations. The pyramid is a seventeenth-century invention, and the medieval reality was messier, more regional, and more customary than any triangle can show. What follows traces how the picture was built, why it survived for so long, what genuinely did exist in its place, and why getting this right matters well beyond the study of the Middle Ages.
 

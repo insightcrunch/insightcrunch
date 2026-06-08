@@ -6,7 +6,7 @@ date: 2012-03-11
 categories: ["Industry"]
 tags: ["khalistan-commando-force", "kcf", "khalistan", "punjab", "panjwar", "terrorism"]
 excerpt: "The complete history of the Khalistan Commando Force from its Punjab insurgency origins through three decades of exile to Panjwar's killing in Lahore."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 71
 author: "david-thornton"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ The Khalistan Commando Force was the Punjab insurgency's most lethal fighting ar
 
 <!--more-->
 
-![Khalistan Commando Force Punjab Insurgency History - Insight Crunch](/assets/images/blog/blog-21.webp)
+![Khalistan Commando Force Punjab Insurgency History - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 Understanding KCF requires understanding the Punjab insurgency that produced it, the political trauma that fueled it, and the counter-insurgency campaign that destroyed its operational capacity without dissolving its organizational shell. KCF's story is not a simple arc of formation, violence, and defeat. It is a four-phase lifecycle that reveals how insurgent organizations are born in crisis, peak in chaos, collapse under state pressure, and persist in exile as institutional husks until either their leaders die of natural causes or, as Panjwar's case demonstrates, someone decides that three decades of waiting is long enough. KCF's trajectory from the blood-soaked fields of Punjab in the late 1980s to a quiet Lahore street in 2023 is the story of an organization that outlived its relevance but could not outlive its leader's status on India's wanted lists. Every phase of that trajectory, from founding ideology to organizational structure to operational peak to post-defeat exile, reveals something about how militant groups function, how states shelter them, and how [the shadow war](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/) reaches back across decades to close accounts that conventional counter-insurgency left open.
 

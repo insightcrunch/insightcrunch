@@ -6,7 +6,7 @@ date: 1996-01-18
 categories: ["Industry"]
 tags: ["SAT", "Test Day", "Test Center", "Logistics", "Bluebook"]
 excerpt: "SAT test center logistics: finding a center, arrival and check-in, device and wifi rules, what to bring and what not to, and troubleshooting, all here."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "christopher-wells"
 last_updated: 1996-01-18
@@ -14,7 +14,7 @@ lang: en
 ---
 Two students sit down for the same digital exam with the same scores in practice. One walks in with a laptop charged to full, a photo ID that matches the registration exactly, the testing app already updated and signed in, and a clear memory of which building the proctor said to enter. The other arrives eleven minutes late after circling a community college parking lot, hands over a school ID the proctor cannot accept, and then watches a battery icon turn red during the second module because the charger is sitting on a kitchen counter at home. Nothing about reading comprehension or quadratic equations separated those two outcomes. Logistics did. The points the second student lost were never academic points. They were focus points bled away by avoidable friction, and they are the easiest points on the entire exam to protect, because protecting them costs nothing but a checklist and an evening of preparation.
 
-![SAT test center logistics, check-in, device rules, and what to bring on test day - Insight Crunch](/assets/images/blog/blog-14.webp)
+![SAT test center logistics, check-in, device rules, and what to bring on test day - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 This is a logistics article, not a strategy article, and that distinction is deliberate. Everywhere else in this series the question is how to solve the item, how to pace the module, how to read the adaptive routing. Here the question is narrower and, on the morning it matters, more urgent: what physically happens when you arrive to take the SAT, what you must carry through the door, what you must leave in the car or at home, what the room will feel like, and what you do when the technology misbehaves. The series thesis runs through this piece in its plainest form. The SAT rewards deliberate, format-aware preparation, and the most overlooked part of that preparation is the part that happens before a single question loads. A reader who finishes this article can find and confirm a center, pack correctly the night before, pass check-in without a hitch, and recover from a device failure without panicking, because every one of those moves will already be rehearsed rather than improvised under pressure.
 

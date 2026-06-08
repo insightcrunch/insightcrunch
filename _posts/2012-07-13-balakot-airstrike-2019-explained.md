@@ -6,7 +6,7 @@ date: 2012-07-13
 categories: ["Industry"]
 tags: ["balakot", "airstrike", "india-pakistan", "pulwama", "2019", "counter-terrorism"]
 excerpt: "How India launched the Balakot airstrike, striking inside Pakistani territory for the first time since 1971 and permanently changing the rules of war."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 70
 author: "ian-fletcher"
 last_updated: 2012-07-13
@@ -16,7 +16,7 @@ Twelve Mirage 2000 fighter jets crossed into Pakistani airspace in the pre-dawn 
 
 <!--more-->
 
-![Balakot Airstrike 2019 Explained - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Balakot Airstrike 2019 Explained - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The strikes followed the [deadliest attack on Indian security forces in Kashmir in three decades](https://insightcrunch.com/2012/05/28/pulwama-attack-2019-explained/). On February 14, 2019, a vehicle-borne improvised explosive device rammed into a Central Reserve Police Force convoy on the Jammu-Srinagar National Highway at Lethpora in Pulwama district, killing forty personnel from the 76th Battalion. [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/), the Pakistan-based militant group founded by [Masood Azhar](https://insightcrunch.com/2012/01/11/masood-azhar-complete-profile/) after his release during the [IC-814 hijacking](https://insightcrunch.com/2012/05/10/ic-814-hijacking-complete-guide/), claimed responsibility. India blamed Pakistan for harboring the group's leadership and infrastructure. Twelve days of diplomatic fury, public rage, and military planning followed. Then came the jets.
 

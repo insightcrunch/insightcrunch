@@ -6,7 +6,7 @@ date: 2026-04-04
 categories: ["Leisure"]
 tags: ["dhurandhar", "major-iqbal", "arjun-rampal", "character-analysis", "bollywood", "villain-analysis"]
 excerpt: "Complete analysis of Major Iqbal - Arjun Rampal's chilling antagonist whose menace grows across both films."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-03-30
@@ -16,7 +16,7 @@ If [Rehman Dakait](https://insightcrunch.com/2026/03/29/rehman-dakait-character-
 
 <!--more-->
 
-![Major Iqbal Character Analysis - Insight Crunch](/assets/images/blog/blog-80.webp)
+![Major Iqbal Character Analysis - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 What makes Major Iqbal the franchise's true threat, and what distinguishes him from the more immediately visible dangers that [Hamza Ali Mazari](https://insightcrunch.com/2026/03/25/hamza-ali-mazari-character-analysis-dhurandhar/) faces in the streets of Lyari, is the nature of the power he wields. Rehman Dakait's power was personal: it extended as far as his reputation, his physical reach, and his network of loyal subordinates. When Rehman died, his power died with him, creating a vacuum that destabilized the entire ecosystem he had built. Major Iqbal's power is institutional: it derives not from his personal qualities, considerable though those are, but from his position within a military-intelligence apparatus whose resources, reach, and capacity for sustained action dwarf anything that a single individual or criminal organization can muster. Iqbal can be patient because his institution is patient. He can be methodical because his institution rewards methodology. He can sustain an investigation across years because his institution measures success in strategic outcomes rather than immediate results. This institutional dimension is what makes him the franchise's most formidable antagonist and what gives the [second installment](https://insightcrunch.com/2026/03/22/complete-analysis-dhurandhar-the-revenge/) its distinctive quality of escalating, inescapable threat.
 

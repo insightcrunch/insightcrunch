@@ -6,7 +6,7 @@ date: 2023-10-16
 categories: ["Technology"]
 tags: ["Azure", "Hub-Spoke", "Networking", "VNet Peering", "Architecture", "Cloud Computing"]
 excerpt: "The Azure hub-spoke topology breaks when peered spokes cannot reach each other. Learn why peering is non-transitive and how the hub must route for the spokes."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 61
 author: "gregory-marsh"
 last_updated: 2023-10-16
@@ -14,7 +14,7 @@ lang: en
 ---
 Two virtual networks peered to the same central network do not talk to each other, and that single sentence is where most engineers first misread the hub-spoke topology. They build a clean diagram, draw a hub in the middle, draw three workload networks around it, connect every workload to the center, and assume the picture means full connectivity. Then a virtual machine in one workload network tries to reach a database in another, the packet leaves and never returns, and the diagram that looked correct turns out to describe a network that was never built to behave the way it was drawn. The gap is not a bug. It is the defining property of the design, and understanding why it exists is the difference between a hub-spoke network that scales to fifty workloads and one that quietly breaks the first time two workloads need to reach each other.
 
-![Azure hub-spoke network topology with shared services hub, peered spokes, gateway transit, and central egress firewall - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Azure hub-spoke network topology with shared services hub, peered spokes, gateway transit, and central egress firewall - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The hub-spoke topology is the most common enterprise networking pattern in Azure, and it is common precisely because it answers a question that flat networks cannot: how do you give dozens of isolated workloads a shared set of central services, a single controlled path to the internet, and one connection back to the corporate data center, without wiring every workload to every other workload and to every external endpoint by hand. The answer is a center that owns the shared infrastructure and a set of edges that own the work, joined by virtual network peering, and governed by a routing rule that most people never read closely until it costs them an afternoon of troubleshooting. This article builds the model from the platform behavior up, so that by the end the topology is not a diagram you copied but a set of rules you can reason from, design against, and debug when a packet goes missing.
 

@@ -6,7 +6,7 @@ date: 2006-11-26
 categories: ["Leisure"]
 tags: ["us-presidents", "institutional-biography", "american-history", "cabinet", "executive-departments", "federal-bureaucracy"]
 excerpt: "Washington seated four department heads. Modern presidents command fifteen. Each addition expanded executive power. Here is the full sequence, traced."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 On a humid morning in the late summer of 1789, four men who answered to George Washington could have fit around a single table in a rented Manhattan parlor, and on at least one occasion they did. Thomas Jefferson handled foreign relations. Alexander Hamilton handled money. Henry Knox handled the army, such as it was. Edmund Randolph offered legal opinions when the President asked for them, which was not often, and he did so part time while keeping a private law practice. That was the entire senior administrative apparatus of the United States government. No domestic policy staff. No agency for roads or schools or food or labor or science or veterans or energy. Four officers, a handful of clerks, and a Treasury that employed more people than the rest of the executive branch combined because somebody had to count the customs receipts.
 
-![Washington's original four cabinet departments expanding to the modern fifteen executive departments - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Washington's original four cabinet departments expanding to the modern fifteen executive departments - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Two hundred and seventeen years later, a President governs through fifteen executive departments employing close to three million civilians, spending well over a trillion dollars annually, and reaching into food safety, mortgage finance, nuclear weapons, air traffic, disease research, highway construction, and the schooling of children in every state. The distance between those two pictures is not decoration. It is the single most legible measure of how the office Washington occupied became the office his successors inherited. The cabinet did not grow by constitutional amendment. It grew one department at a time, each addition a response to a crisis or a constituency or a war, each addition leaving behind permanent machinery that no later President dismantled. This is the story of that sequence, told as the biography of an institution rather than the biography of any man who presided over it.
 

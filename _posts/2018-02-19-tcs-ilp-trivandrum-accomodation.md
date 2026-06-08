@@ -5,7 +5,7 @@ date: 2018-02-19
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "TCS ILP Trivandrum accommodation guide: hostel rooms, facilities, laundry, food quality, nearby amenities, and what to pack for your stay."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-80.webp"
 reading_time: 35
 author: "pooja-gupta"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 This is a guest post. The views expressed are of the author.
 
-![TCS ILP Trivandrum Accommodation - Insight Crunch](/assets/images/blog/blog-08.webp)
+![TCS ILP Trivandrum Accommodation - Insight Crunch](/assets/images/blog/blog-80.webp)
 
 My ILP training at Trivandrum was from December 2017 to March 2018. Over those roughly ninety days I gathered enough first-hand knowledge about where TCS puts its trainees, what each location actually feels like to live in, how transport works, where to eat, and what the general quality of life looks like across the different accommodation options. I have written this as an honest reference guide for anyone heading into TCS ILP Trivandrum, covering details for both male and female associates.
 

@@ -6,7 +6,7 @@ date: 2023-05-22
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Kubernetes", "Networking", "DevOps", "Cloud Computing"]
 excerpt: "Set up AKS ingress with NGINX and TLS: install the controller, bind the ingress class, issue certificates with cert-manager, map DNS, and verify HTTPS works."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 63
 author: "marcus-hall"
 last_updated: 2023-05-22
@@ -16,7 +16,7 @@ A working AKS ingress setup is the difference between a cluster that quietly ser
 
 This guide walks the entire chain end to end on AKS, with the working commands and manifests for each step and the specific failure each step prevents. The target is a setup you can reproduce, verify, and hand to a colleague, not a copied snippet that happens to work once on your laptop.
 
-![Configuring AKS ingress with NGINX and TLS through cert-manager - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Configuring AKS ingress with NGINX and TLS through cert-manager - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 ## What correct ingress buys you, and what breaks when it is wrong
 

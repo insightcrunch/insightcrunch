@@ -6,7 +6,7 @@ date: 2015-10-22
 categories: ["Leisure"]
 tags: ["scramble-for-africa", "berlin-conference", "european-colonialism", "nineteenth-century", "african-history", "modern-history"]
 excerpt: "The Scramble for Africa was systematic partition enabled by quinine, rifles, and the Berlin Conference that divided a continent without African consent."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2015-10-22
@@ -16,7 +16,7 @@ The Scramble for Africa was not a haphazard rush by adventurous Europeans into a
 
 <!--more-->
 
-![The Scramble for Africa Explained - Insight Crunch](/assets/images/blog/blog-27.webp)
+![The Scramble for Africa Explained - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 Understanding the Scramble requires holding two truths simultaneously. Africa before European partition was not a political vacuum; it contained states, empires, trading networks, and diverse forms of governance that had developed over millennia. The partition succeeded not because Africa lacked political organization but because a specific set of technological and military asymmetries, combined with inter-European rivalry, created conditions under which organized African resistance could be overwhelmed. Thomas Pakenham's landmark study of the period calls it the most remarkable episode in the history of European expansion, and Adam Hochschild's investigation of King Leopold II's Congo Free State reveals the human costs that the diplomatic language of the Berlin Conference systematically obscured. To [trace these events on the interactive chronological map](https://reportmedic.org/tools/world-history-timeline.html) is to see how rapidly an entire continent's political geography was redrawn by powers operating from thousands of miles away.
 

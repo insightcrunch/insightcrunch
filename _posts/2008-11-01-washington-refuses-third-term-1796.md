@@ -6,7 +6,7 @@ date: 2008-11-01
 categories: ["Leisure"]
 tags: ["george-washington", "decision-reconstruction", "us-presidents", "american-history", "early-republic", "two-term-tradition", "farewell-address"]
 excerpt: "Washington nearly retired in 1792 but stayed. In 1796, he walked away from power, creating the two-term norm that constrained presidents for 144 years."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 56
 author: "rachel-foster"
 last_updated: 2008-11-01
@@ -16,7 +16,7 @@ lang: en
 
 In the spring of 1796, George Washington faced a choice that no human being had confronted before. He held legitimate, constitutional, popular authority over a republic of four million people. No legal barrier prevented him from seeking a third term. No organized opposition could have defeated him. The Electoral College, the state legislatures, and the voting public all would have returned him to office had he chosen to stand again. He chose not to. The conventional telling treats this as a simple act of republican virtue: the Cincinnatus who could have been king walked away from the plow and back to Mount Vernon. The real story is more interesting, more ambiguous, and more consequential than that framing allows. Washington's exit was not a single noble gesture. It was a four-year deliberation that began in frustration during 1792, stalled under pressure from Hamilton and Jefferson alike, resumed amid exhaustion and partisan bitterness in 1795, and culminated in September 1796 with a published farewell that three different hands had shaped across two distinct drafts. The motives were tangled: genuine principle mixed with physical decline, philosophical conviction mixed with wounded pride. The precedent, however, proved cleaner than the process. For 144 years, every president who might have sought a third term measured himself against the standard Washington set, and every one of them chose to honor it until Franklin Roosevelt shattered the custom in 1940.
 
-![George Washington refuses third term 1796 tenure-limit precedent decision reconstruction - Insight Crunch](/assets/images/blog/blog-05.webp)
+![George Washington refuses third term 1796 tenure-limit precedent decision reconstruction - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The question worth reconstructing is not whether Washington was virtuous. He was. The question is what mix of principle, circumstance, exhaustion, and strategic calculation produced the specific decision to publish the Farewell Address on September 19, 1796, and how that decision became the most durable informal constraint on presidential power in American constitutional history.
 

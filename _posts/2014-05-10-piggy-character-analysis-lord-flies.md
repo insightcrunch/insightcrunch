@@ -6,7 +6,7 @@ date: 2014-05-10
 categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "piggy", "character-analysis", "literary-analysis", "classic-literature"]
 excerpt: "Piggy embodies the novel's argument that working-class intellect is systematically devalued in class-coded hierarchies, even when demonstrably competent."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "sophia-turner"
 last_updated: 2014-05-10
@@ -16,7 +16,7 @@ William Golding gave his most analytically gifted character the cruelest name in
 
 <!--more-->
 
-![Piggy Character Analysis in Lord of the Flies - Insight Crunch](/assets/images/blog/blog-32.webp)
+![Piggy Character Analysis in Lord of the Flies - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 Golding published Lord of the Flies in 1954, nine years after the end of a war that had demonstrated what happens when civilized societies abandon reason for tribalism. The novel imagines a group of English schoolboys stranded on a tropical island without adults, and it watches as their inherited civilization disintegrates into hunting rituals, tribal loyalty, and murder. Every character in the novel carries a specific argument about human nature. Ralph argues for procedural order. [Jack Merridew argues for charismatic dominance](https://insightcrunch.com/2014/05/05/jack-merridew-character-analysis/). [Simon argues for spiritual perception](https://insightcrunch.com/2014/05/15/simon-character-analysis-lord-flies/). Piggy argues for rational analysis. The novel kills two of these four and breaks a third, and the order in which it does so constitutes Golding's verdict on which human capacities are most vulnerable when the structures protecting them collapse. Piggy is killed second, immediately after Simon, and immediately before Ralph would have been killed had the naval officer not arrived. Reason and perception die first. Procedure would have followed within hours.
 

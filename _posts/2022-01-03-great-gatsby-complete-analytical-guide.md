@@ -6,7 +6,7 @@ date: 2022-01-03
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Close Reading", "Themes", "Symbolism", "American Literature"]
 excerpt: "A complete analytical guide to The Great Gatsby, teaching a four-lane method for reading plot, symbol, theme, and narration closely in every single scene."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2022-01-03
@@ -16,7 +16,7 @@ lang: en
 
 The Great Gatsby is the most assigned, most quoted, and most thinly understood novel in American literature, and the distance between a reader who can recite its plot and a reader who can argue about its design is enormous. This analytical guide exists to close that distance. Most coverage of Fitzgerald's book online does one of two things: it tells you what happens, beat by beat, or it lists facts about the Jazz Age and the green light without ever making a case. Both leave you exactly where you started, able to summarize a story you cannot yet interpret. The aim here is different. By the end you should hold a working mental model of the whole book, a defensible position on what it actually argues, and a repeatable method you can point at any scene to produce a reading rather than a recap.
 
-![The Great Gatsby complete analytical guide, plot symbol theme and narration explained - Insight Crunch](/assets/images/blog/blog-41.webp)
+![The Great Gatsby complete analytical guide, plot symbol theme and narration explained - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 That promise is worth stating plainly because the book invites lazy treatment. It is short, its sentences are beautiful, and its surface story (a poor boy gets rich, throws parties, loves a married woman, and dies) is easy to retell and easy to misremember. The ease is a trap. Readers who stop at the surface walk away believing the book is a doomed romance or a tidy lecture against greed, and both beliefs are wrong in instructive ways. What follows treats Fitzgerald's work as something to be reasoned about, the way a strong student or a seminar would reason about it, with the text itself as the only evidence that counts.
 

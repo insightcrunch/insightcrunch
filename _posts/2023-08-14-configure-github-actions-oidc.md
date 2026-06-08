@@ -6,7 +6,7 @@ date: 2023-08-14
 categories: ["Technology"]
 tags: ["Azure", "GitHub Actions", "OIDC", "DevOps", "Identity", "Security"]
 excerpt: "GitHub Actions OIDC for Azure removes stored secrets entirely. Configure the federated credential, match the subject claim, and deploy without a client secret."
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 62
 author: "gregory-marsh"
 last_updated: 2023-08-14
@@ -16,7 +16,7 @@ Most teams wire a GitHub workflow to Azure the way they always have: they create
 
 Correct configuration of GitHub Actions OIDC buys you a deployment identity that cannot be stolen from your repository, because the only thing the repository holds is three non-secret identifiers: a client ID, a tenant ID, and a subscription ID. When the configuration is wrong, the symptom is almost always the same: the `azure/login` step fails with an Entra error complaining that no matching federated identity record was found, and the deploy never starts. The gap between a working setup and a failing one is rarely the action, the permissions, or the role. It is one string. The federated credential you create in Entra carries a subject, and the token GitHub mints carries a subject, and those two strings must be identical down to the branch name, the environment name, or the pull-request marker. This article walks the full path: the prerequisites and the order they must happen in, the step-by-step setup with working commands, the settings the portal defaults get wrong, the verification that proves the chain works end to end, the misconfigurations that produce each error you will actually see, and how to make the whole thing repeatable as code so the next repository takes two minutes instead of an afternoon.
 
-![Configuring GitHub Actions OIDC for Azure federated credentials and the subject claim - Insight Crunch](/assets/images/blog/blog-48.webp)
+![Configuring GitHub Actions OIDC for Azure federated credentials and the subject claim - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The framework that holds the rest of the article together is a single rule worth naming up front, because it explains the overwhelming majority of failures engineers hit. Call it the subject-must-match rule: a federated credential authorizes exactly one workflow context, the one whose token subject matches the credential's configured subject, so a login failure under OIDC is almost never a permissions problem and almost always a subject that does not match the branch, environment, repository, or trigger the workflow actually ran under. Hold that rule in mind. Everything below is either a way to satisfy it or a way to confirm you have.
 

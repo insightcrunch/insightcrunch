@@ -6,7 +6,7 @@ date: 2017-01-01
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "বাঙালি পাঠকের জন্য ফেলুদা পরিচিতি - ভদ্রলোক ঐতিহ্য, শারদীয়া দেশের পাঠ-আচার, এবং তিন প্রজন্ম ধরে ক্যাননের পারিবারিক উত্তরাধিকার।"
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 114
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা: এক সম্পূর্ণ পরিচিতি - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-41.webp)
+![ফেলুদা: এক সম্পূর্ণ পরিচিতি - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-11.webp)
 
 ## ভূমিকা: একজন বাঙালির কাছে ফেলুদা কে
 

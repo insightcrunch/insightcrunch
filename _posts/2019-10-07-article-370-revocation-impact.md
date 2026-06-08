@@ -6,7 +6,7 @@ date: 2019-10-07
 categories: ["Industry"]
 tags: ["article-370", "kashmir", "revocation", "consequences", "india-pakistan"]
 excerpt: "How India's revocation of Article 370 in August 2019 hardened Pakistan's strategic position, reshaped the Kashmir landscape, and set the stage for Pahalgam."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 71
 author: "james-carter"
 last_updated: 2019-10-07
@@ -16,7 +16,7 @@ On the morning of August 5, 2019, India's Home Minister rose in the upper house 
 
 <!--more-->
 
-![Indian Parliament and the constitutional change that reshaped the Kashmir question](/assets/images/blog/blog-40.webp)
+![Indian Parliament and the constitutional change that reshaped the Kashmir question](/assets/images/blog/blog-43.webp)
 
 The abrogation of the autonomy provision was not a kinetic event, but it carried kinetic consequences. It removed the diplomatic vocabulary Pakistan had relied upon for generations, it altered the legal architecture through which the valley was governed, it triggered the birth of a new militant brand designed for deniability, and it hardened a posture in New Delhi that treated the territorial question as permanently closed. To understand why a tourist meadow above Pahalgam would become a massacre site in 2025, why Indian missiles would strike deep inside Punjab that same year, and why a covert campaign of targeted killings would accelerate across Pakistani cities, one has to begin here, with a constitutional document and the decision to erase it. This is the link in the chain where the conflict stopped being about disputed sovereignty and became, in New Delhi's framing, an entirely internal matter.
 

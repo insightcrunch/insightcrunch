@@ -6,7 +6,7 @@ date: 2017-11-13
 categories: ["Industry"]
 tags: ["bollywood", "terrorism", "films", "evolution", "hotel-mumbai", "a-wednesday"]
 excerpt: "Bollywood's terrorism genre traversed a complete arc in two decades, moving from helpless victims in Roja to triumphant shadow war aggressors in Dhurandhar."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-11-13
@@ -16,7 +16,7 @@ Bollywood did not invent India's relationship with terrorism, but it did somethi
 
 <!--more-->
 
-![Bollywood Terror Victim to Aggressor](/assets/images/blog/blog-42.webp)
+![Bollywood Terror Victim to Aggressor](/assets/images/blog/blog-63.webp)
 
 ## The Film's Version
 

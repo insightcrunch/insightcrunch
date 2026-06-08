@@ -6,7 +6,7 @@ date: 2017-08-28
 categories: ["Industry"]
 tags: ["dhurandhar", "karachi", "real-operations", "reel-vs-real", "targeted-killings"]
 excerpt: "Comparing Dhurandhar's Karachi sequences with real covert operations in Karachi, where the film's fictional streets and the shadow war converge tightly."
-image: "/assets/images/blog/blog-88.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 70
 author: "rahul-banerjee"
 last_updated: 2017-08-28
@@ -16,7 +16,7 @@ Karachi is not merely the setting where Dhurandhar stages its most gripping assa
 
 <!--more-->
 
-![Dhurandhar Karachi vs Real Karachi Ops - Insight Crunch](/assets/images/blog/blog-88.webp)
+![Dhurandhar Karachi vs Real Karachi Ops - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 ## The Film's Version
 

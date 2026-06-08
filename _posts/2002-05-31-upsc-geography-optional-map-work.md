@@ -6,7 +6,7 @@ date: 2002-05-31
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Optional", "Geography Optional", "Map Work", "Diagram Templates", "Scoring Strategy"]
 excerpt: "UPSC Geography optional map work as guaranteed scoring section with diagram templates time management in geography optional papers and the 300 plus formula."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-18
@@ -18,7 +18,7 @@ UPSC Geography optional map work represents the guaranteed-scoring section where
 
 The cognitive shift required is from treating map work as minor afterthought to recognising it as the most reliable scoring opportunity in Geography optional. The aspirant who prepares map work systematically captures marks with near-certainty regardless of question paper difficulty variation. The aspirant who neglects map work forfeits guaranteed marks while depending entirely on essay-type answers where marks depend on evaluator judgment. The map work section offers certainty that no other Geography optional section can match making it the foundation of the 300 plus scoring formula.
 
-![UPSC Geography Optional Map Work and Scoring Strategy - Insight Crunch](/assets/images/blog/blog-53.webp)
+![UPSC Geography Optional Map Work and Scoring Strategy - Insight Crunch](/assets/images/blog/blog-28.webp)
 
 By the end of this guide you will understand the map work section structure and marks allocation the outline map feature location methodology the topographical map interpretation techniques the diagram template repository for both papers the time management framework for Geography optional examinations the 300 plus scoring formula combining all Geography optional dimensions and the weekly practice protocol producing examination-ready visual competence. The complete Geography optional framework is in the [UPSC Geography optional complete guide for 300 plus](/2002/06/14/upsc-geography-optional-complete-guide/) article. The Paper 1 context is in the [UPSC Geography optional Paper 1 physical geography](/2002/06/09/upsc-geography-optional-paper-1/) article and the Paper 2 context in the [UPSC Geography optional Paper 2 human and Indian geography](/2002/06/05/upsc-geography-optional-paper-2/) article.
 

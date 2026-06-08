@@ -6,7 +6,7 @@ date: 2024-04-29
 categories: ["Technology"]
 tags: ["Azure", "AKS", "Microservices", "Architecture", "Kubernetes", "Cloud Computing"]
 excerpt: "A microservices on AKS reference architecture: ingress, service mesh, sync versus async communication, observability, autoscaling, and private data per domain."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 61
 author: "thomas-reid"
 last_updated: 2024-04-29
@@ -20,7 +20,7 @@ The central rule this article defends, and returns to at every layer, is what we
 
 This is a reference architecture, not a tutorial for one app. It walks the layers you have to decide on, names the deciding question at each, and shows where Azure primitives fit. You will leave able to lay out the cluster, choose where calls go over HTTP and where they go over a queue, wire observability so a request is traceable end to end, set up scaling at both the pod and node level, and keep each domain's data private. If you want the cluster fundamentals underneath all of this, the deep dive on [Azure Kubernetes Service](/2022/01/17/azure-kubernetes-service-aks-explained/) covers the control plane, node pools, and networking model this design assumes you already have.
 
-![Microservices on AKS reference architecture diagram showing ingress, service mesh, communication, observability, autoscaling, and data layers](/assets/images/blog/blog-54.webp)
+![Microservices on AKS reference architecture diagram showing ingress, service mesh, communication, observability, autoscaling, and data layers](/assets/images/blog/blog-78.webp)
 
 ## What the microservices pattern actually promises, stated plainly
 

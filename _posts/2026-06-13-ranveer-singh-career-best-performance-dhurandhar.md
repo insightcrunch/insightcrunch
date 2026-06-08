@@ -6,7 +6,7 @@ date: 2026-06-13
 categories: ["Leisure"]
 tags: ["ranveer-singh", "dhurandhar", "bollywood", "portrayal", "acting", "aditya-dhar"]
 excerpt: "Why Ranveer Singh's piece as Hamza Ali Mazari is the disciplined, subtractive peak of a career built on maximalism."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ Ranveer Singh's public image has been built on maximalism. For more than a decad
 
 <!--more-->
 
-![Ranveer Singh Career Best in Dhurandhar - Insight Crunch](/assets/images/blog/blog-43.webp)
+![Ranveer Singh Career Best in Dhurandhar - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 Dhurandhar breaks the trap. Across two installments totalling roughly six hours of screen time, Ranveer Singh delivers the most disciplined work of his career, in a role that asks him to subtract rather than to add. Hamza Ali Mazari is not Bajirao, not Gully Boy's Murad, not Padmaavat's Alauddin Khilji. The character is a man who must, for a decade of story time, not be noticed. His survival depends on his ability to reduce his presence to the level of the ambient neighbourhood in which his cover embeds him. The role requires an actor capable of performing absence rather than presence, and the achievement of Ranveer Singh's output in Dhurandhar is that he answers this requirement with craft choices that run against every instinct his earlier roles have built.
 

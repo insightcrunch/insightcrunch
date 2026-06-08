@@ -6,7 +6,7 @@ date: 1996-01-31
 categories: ["Industry"]
 tags: ["SAT", "Digital SAT", "Paper SAT", "Transition", "Comparison"]
 excerpt: "Digital SAT vs paper SAT compared: the structural changes, the adaptive system, score comparability and whether the digital version is easier or just different."
-image: "/assets/images/blog/blog-15.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 60
 author: "katherine-blake"
 last_updated: 1996-01-31
@@ -14,7 +14,7 @@ lang: en
 ---
 A student who trained for two months on a stack of old practice booklets, timing each long reading passage with a stopwatch and grinding through a separate no-calculator math block, can walk into a current exam and discover that almost none of what they rehearsed maps onto what is in front of them. The passages are short. The calculator is allowed the whole time. The second math block was assembled, in difficulty, by how the first one went. The total sitting ended sooner than expected. Nothing was wrong with the studying. The studying was simply aimed at a version of the exam that the College Board retired, and the gap between the format that was prepared for and the format that was administered is the single most expensive misunderstanding in test prep right now.
 
-![Digital SAT vs paper SAT structural changes and adaptive system comparison - Insight Crunch](/assets/images/blog/blog-15.webp)
+![Digital SAT vs paper SAT structural changes and adaptive system comparison - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 This article compares the digital SAT against the paper SAT it replaced, and it does so to settle a question that gets answered badly almost everywhere: is the screen-based version easier, or is it just different? The short answer, argued in full below, is that it is different in ways that change strategy more than they change difficulty. Some pieces of the redesign genuinely lighten the load, shorter passages and less raw fatigue chief among them. Other pieces raise the ceiling, because the adaptive engine routes a strong test-taker into a harder second module that a fixed paper form never contained. Treating the redesign as a discount is the mistake that costs points. What follows is a structural change map, an explanation of the adaptive routing that has no paper equivalent, an honest account of whether the two scores mean the same thing, and a verdict you can act on rather than repeat.
 

@@ -8,7 +8,7 @@ author: "diana-patel"
 categories: ["Leisure"]
 tags: ["nuremberg-trials", "international-law", "war-crimes", "crimes-against-humanity", "1945-1946", "modern-history"]
 excerpt: "The Nuremberg Trials of 1945-1946 founded modern international criminal law: individual liability, crimes against humanity, no superior-orders defense."
-image: "/assets/images/blog/blog-39.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 71
 lang: en
 ---
@@ -16,7 +16,7 @@ On the morning of November 20, 1945, twenty-one men filed into the dock of Court
 
 <!--more-->
 
-![The Nuremberg Trials - Insight Crunch](/assets/images/blog/blog-39.webp)
+![The Nuremberg Trials - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The Nuremberg Trials, taken as a single legal-institutional event, refer to two distinct but linked sets of proceedings. The International Military Tribunal, or IMT, ran from October 1945 to October 1946 and tried the surviving senior leadership of the Third Reich under a four-power charter signed in London on August 8, 1945. The twelve subsequent Nuremberg Military Tribunals, or NMT, ran from 1946 to 1949 under United States jurisdiction and tried roughly two hundred additional defendants drawn from the medical profession, the judiciary, the diplomatic corps, the Wehrmacht high command, the SS, and the industrial conglomerates that had built the Reich's economy. Together the proceedings produced not just a set of convictions but a workable legal architecture for holding individual state actors criminally responsible for what their states had done.
 

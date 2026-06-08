@@ -6,7 +6,7 @@ date: 2008-04-16
 categories: ["Leisure"]
 tags: ["john-f-kennedy", "decision-reconstruction", "us-presidents", "bay-of-pigs", "cuba", "cia"]
 excerpt: "Kennedy inherited the Bay of Pigs invasion plan from Eisenhower. He cancelled the second air strike on April 16, 1961. The invasion collapsed in three days."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 64
 author: "rachel-foster"
 last_updated: 2008-04-16
@@ -14,7 +14,7 @@ lang: en
 ---
 At 9:46 pm on April 16, 1961, McGeorge Bundy placed a telephone call to General Charles Cabell, the deputy director of the Central Intelligence Agency. Bundy had just spoken with the president, who was spending Easter weekend at Glen Ora, the rented Virginia estate the Kennedys used as a country retreat. The message Bundy relayed was specific. The dawn air strikes scheduled for the next morning, targeting what remained of Fidel Castro's air force after a partial attack two days earlier, were cancelled. Cabell asked permission to appeal directly to Dean Rusk. Bundy approved the appeal. Rusk took Cabell's call shortly after eleven o'clock from his seventh-floor office at the State Department, listened to the agency's case for restoring the strikes, and let the cancellation stand. The Cuban exile brigade, already at sea aboard five rusting transport ships, would land in the dark at Playa Giron without the air support the operation's planners had spent thirteen months treating as essential.
 
-![John F. Kennedy Bay of Pigs decision air cover withdrawal April 1961 reconstruction - Insight Crunch](/assets/images/blog/blog-92.webp)
+![John F. Kennedy Bay of Pigs decision air cover withdrawal April 1961 reconstruction - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 The question this article reconstructs is narrow and precise. Why did the president, fewer than ninety days into his administration, cancel the second air strike of an operation his own intelligence agency had assured him would succeed? The standard short answer (he lost his nerve, or alternatively, he had judgment good enough to limit a disaster) misreads the evidence in opposite directions. Both versions assume the April 16 cancellation was the hinge on which the invasion turned. The cabinet records, the declassified Taylor Commission Report, the CIA's own internal Kirkpatrick Survey, and the recollections of the planners who lived long enough to write memoirs tell a more uncomfortable story. By the evening of April 16, the operation was already structured to fail. The cancellation accelerated rather than caused the collapse. The harder counterfactual, the one that asks whether any April intervention could have rescued the plan, points back to decisions made in March that no overnight rescue could undo. The president's call was real. The agency it exercised over outcomes was smaller than its reputation later suggested.
 

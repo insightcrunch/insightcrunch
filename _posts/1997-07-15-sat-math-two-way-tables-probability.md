@@ -6,7 +6,7 @@ date: 1997-07-15
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Two-Way Tables", "Probability", "Data Analysis"]
 excerpt: "SAT two-way tables and conditional probability explained: restricting the denominator, given that wording and association, with worked table examples."
-image: "/assets/images/blog/blog-30.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 59
 author: "patrick-dunn"
 last_updated: 1997-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A student stares at a grid of numbers: rows for two age groups, columns for whether each person owns a smartphone, a tidy box of totals along the edges. The question asks for the probability that a randomly chosen person who owns a smartphone is in the younger group. The grid holds every number needed. The student finds the right cell, reads the count, divides by the grand total at the corner, bubbles in the answer, and gets it wrong. Not because the arithmetic failed. Because the phrase "who owns a smartphone" quietly changed which total belongs on the bottom of the fraction, and the student divided by the wrong one.
 
-That single move, choosing the denominator, is the whole game with two-way tables and conditional probability on the SAT. These items reward a reading habit far more than any computation. The numbers are sitting in plain sight, the operations rarely go beyond a single division, and yet a predictable few of them appear on every test precisely because so many test-takers misread the conditioning phrase and divide by the grand total when the wording has restricted them to a subgroup. This guide is built around that one habit. By the end you will read the phrase first, let it point at the correct base group, and only then go hunting for the count in the grid. ![SAT two-way tables and conditional probability worked examples with restricted denominators - Insight Crunch](/assets/images/blog/blog-30.webp)
+That single move, choosing the denominator, is the whole game with two-way tables and conditional probability on the SAT. These items reward a reading habit far more than any computation. The numbers are sitting in plain sight, the operations rarely go beyond a single division, and yet a predictable few of them appear on every test precisely because so many test-takers misread the conditioning phrase and divide by the grand total when the wording has restricted them to a subgroup. This guide is built around that one habit. By the end you will read the phrase first, let it point at the correct base group, and only then go hunting for the count in the grid. ![SAT two-way tables and conditional probability worked examples with restricted denominators - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 What the standard account gives you is a definition: conditional probability is the chance of an event given that another event has occurred, written P(A given B), equal to the joint count over the count of B. True, and nearly useless under timed conditions, because the formula does not tell you which words in a sentence signal B. What this article gives you instead is a translation layer between English and the fraction: a phrase-to-denominator map that takes "among those who," "given that," "of the people who," and "if we know that," and routes each one to the exact total in the grid that belongs on the bottom. We call it the InsightCrunch denominator-selection rule, and once it is automatic, every table item in the data section collapses into a single confident fraction.
 

@@ -6,7 +6,7 @@ date: 2012-08-25
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Lucius Malfoy", "Death Eaters", "Slytherin", "Aristocracy"]
 excerpt: "Deep literary analysis of Lucius Malfoy across all Harry Potter books - performed power, the cane, the Imperius defence, the wand, and aristocratic collapse."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 60
 author: "claire-bennett"
 last_updated: 2012-08-25
@@ -16,7 +16,7 @@ lang: en
 
 Of every accessory in the wizarding world, none has been read more often and understood less than the silver-headed walking cane that Lucius Malfoy carries through the middle books of the series. Readers remember it as a piece of fashion. The text remembers it differently. The cane is hollow. It conceals a wand. Every time the head of the Malfoy household appears on a Diagon Alley street or in the Minister's antechamber or at a Quidditch fixture, he is walking with a weapon dressed up as a class signifier, and the disguise is so successful that even the reader forgets what is inside the elegant casing until the casing is split open by a child in *Order of the Phoenix*.
 
-![Lucius Malfoy character analysis in Harry Potter series](/assets/images/blog/blog-27.webp)
+![Lucius Malfoy character analysis in Harry Potter series](/assets/images/blog/blog-10.webp)
 
 That cane is the entire man. To analyse the patriarch of Malfoy Manor is to take the cane apart and ask what kind of person needs aggression hidden inside elegance, fear concealed as authority, function buried inside form. Rowling has given the reader many villains who frighten through openness: Bellatrix shrieks, Greyback bares his teeth, Voldemort hisses. Here is a different kind of antagonist. This one wears tailored robes and reads the *Daily Prophet* at his own breakfast table while a Horcrux festers two floors above him. He has never raised his voice in public. He has paid his taxes. He sits on the Board of Governors. He has been, for thirteen years before the series begins and for the duration of the first two thirds of the saga, the most respectable Death Eater in Britain, and the respectability is itself the crime.
 

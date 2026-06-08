@@ -6,7 +6,7 @@ date: 2023-10-02
 categories: ["Technology"]
 tags: ["Azure", "Load Balancer", "Application Gateway", "Networking", "Cloud Computing"]
 excerpt: "Load Balancer versus Application Gateway comes down to layer 4 versus layer 7. Learn which features force App Gateway and when raw TCP stays on the LB."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 63
 author: "thomas-reid"
 last_updated: 2023-10-02
@@ -14,7 +14,7 @@ lang: en
 ---
 Choosing between Load Balancer versus Application Gateway is the moment most Azure networking decisions either click into place or quietly go wrong. An engineer needs to spread traffic across a set of backend machines, opens the portal, and finds two services that both promise to do exactly that. Load Balancer sounds general and cheap. Application Gateway sounds powerful and modern. So the temptation is to read a marketing page, pick whichever one was mentioned in the last tutorial, and move on. That guess works often enough to feel safe, which is precisely why it is dangerous: the day a path-based routing requirement or a security-team mandate for a web firewall lands, the wrong choice forces a redesign that touches DNS, certificates, health probes, and every downstream dependency.
 
-![Azure Load Balancer vs Application Gateway layer 4 versus layer 7 decision - Insight Crunch](/assets/images/blog/blog-52.webp)
+![Azure Load Balancer vs Application Gateway layer 4 versus layer 7 decision - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The fix is not memorizing a feature matrix. It is holding a single rule that the entire comparison reduces to, so that any new requirement sorts itself onto the correct service without a coin flip. That rule is the layer the service operates at. Azure Load Balancer is a layer-4 distributor that moves TCP and UDP flows without ever reading what they carry. Application Gateway is a layer-7 reverse proxy that terminates the connection, reads the HTTP request, and acts on its contents. Once you internalize which layer each one lives at, every downstream question (Can it route by URL path? Can it run a web application firewall? Can it offload TLS? Can it pin a user to one backend?) answers itself, because each of those capabilities is a property of layer 7, and only the layer-7 service can have it. This article builds that mental model from the protocol up, gives you a decision table you can keep next to the keyboard, and walks the recurring real-world patterns where the layer is the deciding signal.
 

@@ -6,7 +6,7 @@ date: 2015-08-01
 categories: ["Travel"]
 tags: ["USA Travel", "Zion", "Family Travel", "National Parks", "Hiking", "Outdoors"]
 excerpt: "Plan Zion with kids around the cold Virgin River and the exposed cliffs, with easy shuttle walks, a smart family base, and honest age-by-age safety calls."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 68
 author: "rahul-banerjee"
 last_updated: 2015-08-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The honest way to plan Zion with kids is to build the whole trip around two hazards and let everything else fall into place behind them. The first is the Virgin River, which runs cold and fast through the canyon and tempts every child toward its edge. The second is the height of the cliffs, which turns famous routes like Angels Landing into a hard no for most young travelers. Get those two right and the rest of a Zion family trip is surprisingly easy, because the park hands you a free shuttle, a string of paved riverside walks, and a ranger program that turns a hike into a quest. Get them wrong and the same canyon that delights a five-year-old in the morning becomes the place a parent spends the afternoon white-knuckled and bargaining.
 
-![Planning Zion with kids around easy shuttle walks and river safety - Insight Crunch](/assets/images/blog/blog-13.webp)
+![Planning Zion with kids around easy shuttle walks and river safety - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 This guide is the family planning layer that the scenic overviews skip. It sorts the walks by how much a child can actually handle, names the shuttle stops where each one begins, tells you which of the celebrated adventures belong nowhere near a kid, and is blunt about the river and the heights without turning the whole canyon into a warning label. Zion is one of the better national parks for a family precisely because so much of its best scenery sits at the bottom of the canyon, reachable on flat paved paths, a short walk from a shuttle door. The skill is in matching the right walk to the right age, pacing the day around heat and energy, and keeping a firm line on the two things that genuinely hurt people here. For the broader orientation that any first-timer needs, the [complete guide to Zion National Park](/2015/04/01/zion-national-park-complete-guide/) covers how the shuttle works, where the entrances sit, and how the canyon is laid out; this article assumes you are coming with children and want the family-specific plan.
 

@@ -6,7 +6,7 @@ date: 1996-06-10
 categories: ["Industry"]
 tags: ["SAT", "New York", "CUNY", "SUNY", "College Admissions"]
 excerpt: "SAT for New York students explained: the CUNY and SUNY systems, NYC private schools and the Macaulay Honors pathway, with score ranges and a value strategy."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-17.webp"
 reading_time: 60
 author: "simon-hartley"
 last_updated: 1996-06-10
@@ -16,7 +16,7 @@ A New York teenager with a 1380 SAT result and a high transcript is sitting on a
 
 The standard account tells a New Yorker to study, sit the exam, and apply broadly. That advice is not wrong, but it skips the part that actually moves money: the value math. In a state where a resident can earn a degree from a respected public institution for less than many families spend on a used car, and where one honors program converts a strong result into a free education plus a stipend, the question is rarely whether to take the exam. The question is which threshold each option uses, how the local systems read a result in a test-optional era, and where a small gain near a cutoff turns into real dollars saved over four years. This guide answers those questions with dated ranges, a decision framework you can apply to your own number, and a sortable options table built for the five boroughs and the campuses a downstate family can reach.
 
-![SAT for New York students CUNY SUNY and NYC private college score ranges and value strategy - Insight Crunch](/assets/images/blog/blog-66.webp)
+![SAT for New York students CUNY SUNY and NYC private college score ranges and value strategy - Insight Crunch](/assets/images/blog/blog-17.webp)
 
 What you get here that a generic page will not give you is the local map drawn to scale. You will leave able to read any New York institution's published admission band and decide whether your result helps or hurts your file, name the approximate thresholds that the honors pathways have historically used, and run the value calculation that ranks a commute to a low-cost public against a residential private offer. The framework that organizes all of it is one we will build piece by piece and call the InsightCrunch New York Value Ladder, a way of ordering your options by cost-adjusted return rather than by name recognition. By the time the worked decisions are done, you will know where your own result puts you on that ladder and what one more study cycle is worth in cash.
 

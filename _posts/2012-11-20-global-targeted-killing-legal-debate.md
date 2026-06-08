@@ -6,7 +6,7 @@ date: 2012-11-20
 categories: ["Industry"]
 tags: ["targeted-killings", "international-law", "sovereignty", "self-defense", "legal-debate"]
 excerpt: "The global legal debate on targeted killings and why international law remains deliberately ambiguous on whether states may kill abroad with impunity."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ International law on targeted killing is not settled. It is contested. The same 
 
 <!--more-->
 
-![Global Targeted Killing Legal Debate - Insight Crunch](/assets/images/blog/blog-63.webp)
+![Global Targeted Killing Legal Debate - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 The question at the center of this analysis is not whether targeted killing is moral. Morality is a separate inquiry, and the participants in this debate have drawn their moral conclusions independently of the legal framework. The question is whether international law, as it currently exists, permits, prohibits, or deliberately avoids clarity on a practice that at least five major states conduct regularly. Philip Alston, the former United Nations Special Rapporteur on Extrajudicial, Summary or Arbitrary Executions, submitted a report to the Human Rights Council in May 2010 that defined the problem precisely: targeted killing is the intentional, premeditated, and deliberate use of lethal force by a state or its agents against a specific individual who is not in the perpetrator's custody. That definition encompasses drone strikes in Pakistan's tribal areas, motorcycle assassinations in Karachi, Novichok poisoning in Salisbury, and consular dismemberment in Istanbul. The law that governs all of them is the same body of international law. The interpretations could not be more different.
 

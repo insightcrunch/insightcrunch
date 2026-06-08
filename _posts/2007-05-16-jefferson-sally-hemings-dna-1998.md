@@ -6,7 +6,7 @@ date: 2007-05-16
 categories: ["Leisure"]
 tags: ["thomas-jefferson", "myth-bust", "us-presidents", "sally-hemings", "dna-evidence", "historical-proof"]
 excerpt: "Callender alleged it in 1802. Scholars dismissed it for 196 years. The 1998 DNA test on Jefferson and Sally Hemings ended the dismissal, not the debate."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "chloe-martin"
 last_updated: 2026-06-05
@@ -16,7 +16,7 @@ In a laboratory at the University of Leicester in the autumn of 1998, a patholog
 
 When the markers came back, they did something no diary entry, no deathbed confession, no congressional testimony had managed to do in a hundred and ninety-six years. They spoke in a language that did not care about reputation. The descendant of Eston Hemings carried the rare Jefferson haplotype. The descendants of the Carr brothers did not. The myth that had been comfortable for nearly two centuries, the myth that the whole business was the invention of a drunken pamphleteer, died in that result. What replaced it was not certainty. It was a sharper and more honest argument about what evidence can and cannot prove, and that argument is the real subject of this article.
 
-![Thomas Jefferson and Sally Hemings 1998 DNA evidence evidentiary arc reconstruction - Insight Crunch](/assets/images/blog/blog-17.webp)
+![Thomas Jefferson and Sally Hemings 1998 DNA evidence evidentiary arc reconstruction - Insight Crunch](/assets/images/blog/blog-89.webp)
 
 ## The myth, stated plainly, and the myth behind the myth
 

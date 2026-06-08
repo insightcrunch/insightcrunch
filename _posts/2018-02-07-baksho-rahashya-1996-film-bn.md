@@ -6,7 +6,7 @@ date: 2018-02-07
 categories: ["Leisure"]
 tags: ["feluda", "baksho-rahashya", "sabyasachi-chakraborty", "sandip-ray", "doordarshan"]
 excerpt: "১৯৯৬ সালের বাক্স রহস্য টেলিফিল্মের সম্পূর্ণ বিশ্লেষণ। সব্যসাচী চক্রবর্তীর প্রথম ফেলুদা চিত্রায়ণ, লক-চেস্ট রহস্যের অভিযোজন, বাঙালি দূরদর্শন সংস্কৃতির প্রসঙ্গ, এবং একটি দীর্ঘ চলচ্চিত্রিক চক্রের সূচনা।"
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 96
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![বাক্স রহস্য ১৯৯৬: সব্যসাচী চক্রবর্তী হয়ে ওঠেন ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-04.webp)
+![বাক্স রহস্য ১৯৯৬: সব্যসাচী চক্রবর্তী হয়ে ওঠেন ফেলুদা - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-69.webp)
 
 ## প্রকাশনা প্রসঙ্গ
 

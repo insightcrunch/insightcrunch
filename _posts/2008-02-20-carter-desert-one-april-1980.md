@@ -6,7 +6,7 @@ date: 2008-02-20
 categories: ["Leisure"]
 tags: ["jimmy-carter", "decision-reconstruction", "us-presidents", "iran-hostage-crisis", "operation-eagle-claw", "cyrus-vance"]
 excerpt: "Eight dead. Eight helicopters launched, six reached Desert One, five worked. Below the minimum. Carter aborted. His presidency died in that Iranian desert."
-image: "/assets/images/blog/blog-22.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2008-02-20
@@ -14,7 +14,7 @@ lang: en
 ---
 At 1:30 in the morning local time on April 25, 1980, in a stretch of salt flat 200 miles southeast of Tehran, a Sea Stallion helicopter lifted off the desert floor, drifted laterally in a self-generated cloud of dust, and clipped the upper fuselage of a C-130 Hercules transport plane that sat idling with its turboprops running and its fuel tanks half-empty. Both aircraft caught fire. Ammunition cooked off inside the burning hulks. Eight American servicemen were dead within minutes. The survivors abandoned the wreckage, abandoned five other intact helicopters whose maintenance and classified equipment fell into Iranian hands the next morning, and lifted off in the remaining C-130s for the long flight out of Iranian airspace. By the time the sun rose over the patch of desert the Joint Task Force planners had code-named Desert One, the operation that was supposed to free 53 American hostages from the U.S. Embassy compound in Tehran was a smoldering wreck, and the presidency of James Earl Carter was, in every politically meaningful sense, over.
 
-![Carter Desert One rescue mission failure April 1980 reconstruction - Insight Crunch](/assets/images/blog/blog-22.webp)
+![Carter Desert One rescue mission failure April 1980 reconstruction - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 The hostages would remain in captivity for 270 more days. They walked off their final flight in Wiesbaden, West Germany on January 21, 1981, hours after Ronald Reagan took the oath of office. The choreography of that release, timed almost to the minute, served as the final humiliation: the Iranians had held the hostages until the day Carter ceased to be president, and not a minute longer. The 444-day captivity, the failed rescue, the mishandled diplomacy, the collapse of the dollar against gold, the long fuel lines of the second oil shock, the 13 percent inflation, the 39-state landslide in November: all of it traces back, in the political memory of the United States and in the structural decisions of the Carter White House, to a refueling rendezvous in central Iran that should never have been attempted with the helicopter margin that planners had accepted.
 

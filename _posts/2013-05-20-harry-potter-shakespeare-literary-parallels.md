@@ -6,7 +6,7 @@ date: 2013-05-20
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Shakespeare", "Hamlet", "Tragedy", "Literary Parallels"]
 excerpt: "How Shakespeare forms the structural DNA of Harry Potter, mapping Hamlet, Macbeth, Richard III, and The Tempest onto Rowling's major figures and arcs."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-68.webp"
 reading_time: 56
 author: "emily-reed"
 last_updated: 2013-05-20
@@ -16,7 +16,7 @@ lang: en
 
 There is no copy of *Hamlet* on the shelves of Hogwarts. No student takes a class in Renaissance drama, no professor assigns a soliloquy, and the word Shakespeare appears nowhere across seven volumes of magical education. And yet a reader who knows the plays cannot move through the series without a constant low hum of recognition, the sense that these characters have stood on a stage before, that these speeches have been spoken in older language, that the shapes of these tragedies were cut centuries ago by a glover's son from Warwickshire who never heard the word wizard used the way Rowling uses it.
 
-![Shakespeare and Harry Potter literary parallels across the seven books](/assets/images/blog/blog-21.webp)
+![Shakespeare and Harry Potter literary parallels across the seven books](/assets/images/blog/blog-68.webp)
 
 The argument of this essay is simple to state and difficult to overstate. Shakespeare is not one influence among many on Harry Potter. He is the structural skeleton beneath the flesh. Rowling does not borrow lines, and she rarely borrows scenes, but she borrows the deep architecture of character: the shapes into which a human soul can be bent by ambition, by grief, by the unbearable weight of knowing the right thing and being unable to do it. The major figures of the series each occupy a slot that one of the great plays carved first. Once a reader sees the mapping, the books reorganize themselves. What looked like a children's fantasy reveals itself as the most commercially successful smuggling operation in the history of English literature: a generation of readers absorbed the grammar of Renaissance tragedy without once being told that is what they were learning.
 

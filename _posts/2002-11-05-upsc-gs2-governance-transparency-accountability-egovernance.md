@@ -6,7 +6,7 @@ date: 2002-11-05
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "GS Paper 2", "Governance", "Transparency", "Accountability", "E-Governance", "RTI", "IAS Preparation"]
 excerpt: "UPSC GS2 governance deep dive: RTI, CAG, Lokpal, e-governance, DBT, Aadhaar, MGNREGA with real-world examples and frameworks."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 65
 author: "anita-das"
 last_updated: 2026-04-15
@@ -16,7 +16,7 @@ UPSC GS2 governance is the subdomain where aspirants most consistently produce v
 
 The cognitive shift required is from treating governance as an opinion topic to treating it as an evidence-based analytical domain. The aspirant who can articulate that "the Right to Information Act 2005 has produced over 50 lakh information requests annually with disclosure rates above 90 percent in many states, though the Information Commission backlog has grown to several lakh appeals reflecting institutional capacity gaps, and the 2019 amendments altering the tenure and conditions of Information Commissioners have raised concerns about institutional independence" demonstrates analytical command that a generic "RTI has empowered citizens but faces implementation challenges" entirely lacks. Both statements are accurate; only one signals the substantive engagement with empirical evidence and institutional analysis that UPSC actually rewards. This evidence-based engagement is teachable through structured preparation that consciously builds case studies, empirical data, and analytical frameworks alongside foundational reading.
 
-![UPSC GS2 Governance Transparency Accountability E-Governance Deep Dive - Insight Crunch](/assets/images/blog/blog-54.webp)
+![UPSC GS2 Governance Transparency Accountability E-Governance Deep Dive - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 By the end of this guide you will understand the architecture of the governance subdomain within GS Paper 2, the major transparency and accountability institutions including the Right to Information framework, the Comptroller and Auditor General, the Lokpal and Lokayuktas, and the whistleblower protection regime, the e-governance landscape including Digital India, Aadhaar, the Direct Benefit Transfer framework, and the UPI revolution, the major case studies that illustrate governance principles in operation including MGNREGA social audits and various others, the civil services reform agenda and the Second Administrative Reforms Commission framework, the anti-corruption framework and contemporary debates, the answer-writing techniques specific to governance questions including the deployment of real-world examples and empirical evidence, and the 90-day intensive plan that produces measurable score improvement. The total time investment for dedicated governance preparation across the cycle is approximately 60 to 80 hours, building on the broader GS Paper 2 preparation rather than substituting for it.
 

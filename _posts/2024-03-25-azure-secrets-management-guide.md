@@ -6,7 +6,7 @@ date: 2024-03-25
 categories: ["Technology"]
 tags: ["Azure", "Key Vault", "Security", "Identity", "DevOps"]
 excerpt: "Azure secrets management done right removes secrets from code with managed identity and OIDC, stores the rest in Key Vault, and rotates whatever remains."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 62
 author: "james-carter"
 last_updated: 2024-03-25
@@ -14,7 +14,7 @@ lang: en
 ---
 Most credential breaches in the cloud do not begin with a clever attacker. They begin with a connection string pasted into an `appsettings.json` file, a personal access token committed to a feature branch at midnight, or a storage key copied into a pipeline variable so a deployment would finally go green. Azure secrets management is the discipline of making sure none of those moments can end with an attacker holding a working key to your data. The threat is concrete: a single leaked credential with broad scope hands an outsider the same access your application has, and because that credential was static, it keeps working long after the person who leaked it has forgotten it exists. The exposure a misconfiguration creates is not theoretical either. Public code search engines index newly pushed repositories within minutes, automated scrapers harvest tokens continuously, and a connection string that grants account-level access to a storage account is worth real money to whoever finds it first.
 
-![Azure secrets management with Key Vault, managed identity, and OIDC federation - Insight Crunch](/assets/images/blog/blog-81.webp)
+![Azure secrets management with Key Vault, managed identity, and OIDC federation - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 The reason this problem persists is that the easy path and the safe path point in opposite directions. The easy path is to take a value the application needs, paste it somewhere the application can read, and move on. The safe path asks you to question whether the application should hold that value at all. Doing secrets management well in Azure is less about finding a better hiding place for credentials and more about removing as many of them as you can, then guarding the small set that genuinely has to persist. That reframing is the whole argument of this guide, and it changes how every downstream decision gets made: where a value lives, who can read it, how it rotates, and how you find out when one has escaped into a place it should never have been.
 

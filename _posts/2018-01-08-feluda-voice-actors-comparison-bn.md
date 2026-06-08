@@ -6,7 +6,7 @@ date: 2018-01-08
 categories: ["Leisure"]
 tags: ["feluda", "soumitra-chatterjee", "sabyasachi-chakraborty", "tota-roy-chowdhury", "satyajit-ray"]
 excerpt: "ফেলুদা চরিত্রের তিনজন প্রধান অভিনেতার তুলনামূলক বিশ্লেষণ। সৌমিত্র চট্টোপাধ্যায়ের মূল ফেলুদা, সব্যসাচী চক্রবর্তীর দীর্ঘস্থায়ী চিত্রায়ণ, এবং টোটা রায়চৌধুরীর ২০২২ রিবুট।"
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 121
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদার কণ্ঠস্বর: সৌমিত্র, সব্যসাচী, এবং টোটা রায়চৌধুরী - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-48.webp)
+![ফেলুদার কণ্ঠস্বর: সৌমিত্র, সব্যসাচী, এবং টোটা রায়চৌধুরী - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-33.webp)
 
 ## একজন অভিনেতা একটি চরিত্রকে কীভাবে সংজ্ঞায়িত করেন
 

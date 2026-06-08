@@ -6,7 +6,7 @@ date: 2012-10-16
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Peter Pettigrew", "Wormtail", "Marauders", "Betrayal"]
 excerpt: "Peter Pettigrew in Harry Potter: the ordinary face of betrayal, the Gryffindor turned coward whose cowardice indicts every reader who has ever flinched."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 60
 author: "victoria-stone"
 last_updated: 2012-10-16
@@ -16,7 +16,7 @@ lang: en
 
 There is a moment near the end of *Harry Potter and the Prisoner of Azkaban* when a small balding wizard with watery eyes kneels on the floor of the Shrieking Shack and begs three other men not to kill him. He weeps. He clutches at robes. He calls each of his accusers by the affectionate nicknames they once shared as schoolboys. He is the man who handed his closest friends to a murderer, who let an innocent godfather rot in a wizarding prison for twelve years, who lived as a child's pet rat in a poor family's bedroom while wearing a face nobody knew. And yet, kneeling there, he is not a monster. He is a frightened middle-aged man begging not to die. Rowling lets the reader register the disgust, then lets the reader register something worse: the suspicion that the reader, under sufficient terror, might also have begged.
 
-![Peter Pettigrew character analysis across the Harry Potter series](/assets/images/blog/blog-17.webp)
+![Peter Pettigrew character analysis across the Harry Potter series](/assets/images/blog/blog-03.webp)
 
 This is the central ethical inconvenience of the small Animagus called Wormtail. The series asks the reader to despise him and then refuses to give the reader a satisfying way to do so. The traitor in this story is not a sneering aristocrat, not a fanatic, not an ideologue. He is the smallest, weakest, least talented of his school friends. He values being on the winning side more than he values being on the right side. He is what most readers fear they would become under pressure, which is precisely why most readers cannot stand to look at him directly. The Judas reading is too easy. Judas at least had thirty pieces of silver and a theological role. This betrayer has nothing so dignified. He has only the survivor's calculation, repeated again and again until calculation has eaten the soul that did the calculating.
 

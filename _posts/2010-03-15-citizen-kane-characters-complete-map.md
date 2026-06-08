@@ -6,7 +6,7 @@ date: 2010-03-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Character Analysis", "Charles Foster Kane", "Susan Alexander", "Jedediah Leland", "Close Reading"]
 excerpt: "Citizen Kane characters explained in one complete map: every major and minor figure, who narrates whom, and what each witness reveals and hides about Kane."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 61
 author: "victoria-stone"
 last_updated: 2010-03-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The fastest way to misread the film is to treat the Citizen Kane characters as a gallery of people you are meant to get to know. They are something stranger and more useful than that. Almost the entire cast exists to remember a dead man, and the film is built so that the more they remember, the less certain you become about who he was. A reporter walks into five lives looking for one answer, and what he collects instead is five incompatible portraits that refuse to resolve into a single face. The design is the point. Each figure who steps forward to testify is a lens that catches one angle of Charles Foster Kane and misses the rest, so the supporting cast is not a set of companions to the hero but a set of partial mirrors held up to him from different distances and different years.
 
-![Citizen Kane characters complete map and who narrates whom explained - Insight Crunch](/assets/images/blog/blog-35.webp)
+![Citizen Kane characters complete map and who narrates whom explained - Insight Crunch](/assets/images/blog/blog-65.webp)
 
 That is the claim this guide defends, and it is the thread that ties every entry below together: read each character as a device in the film's argument about the impossibility of summing up a life, and the cast stops looking like a list and starts looking like a machine. This is the character hub for the wider series, the place to learn who everyone is, what each one does for the structure, and which of them are allowed to speak and which are only spoken about. For the whole-film overview that frames all of this, see the [complete analytical guide to Citizen Kane](/2010/01/01/citizen-kane-complete-analytical-guide/); for the way these figures slot into the flashback architecture, the [breakdown of the plot and structure](/2010/01/15/citizen-kane-plot-structure-explained/) is the companion piece.
 

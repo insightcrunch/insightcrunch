@@ -6,7 +6,7 @@ date: 1995-12-13
 categories: ["Industry"]
 tags: ["SAT", "Future", "Test Optional", "Digital SAT", "Predictions"]
 excerpt: "The future of the SAT: the test-optional pendulum, further digitization, AI proctoring, content evolution and whether standardized testing survives, analyzed."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
 author: "simon-hartley"
 last_updated: 1995-12-13
@@ -14,7 +14,7 @@ lang: en
 ---
 Ask ten people about the future of the SAT and you will get ten confident answers, most of them wrong, and almost all of them stated with a certainty the evidence does not support. One person tells you the exam is already dead, killed by the test-optional wave. Another tells you it is roaring back, mandatory again at every selective school by next admissions cycle. A third insists artificial intelligence will replace the whole apparatus inside five years. These are not forecasts. They are moods dressed up as predictions, and a student or parent trying to make a real decision, whether to register, whether to prepare, whether to submit a score, cannot plan a single afternoon around any of them.
 
-![The Future of the SAT: Coming Changes - Insight Crunch](/assets/images/blog/blog-18.webp)
+![The Future of the SAT: Coming Changes - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 The future of the SAT is a genuine question, and it deserves a genuine method rather than a hot take. The honest answer is that nobody knows exactly what the assessment will look like in 2031, because the people who run it do not fully know either; policy responds to events, technology arrives on its own schedule, and admissions offices change their minds. What can be done, and what this analysis does, is read the structural forces already in motion and translate them into reasoned likelihoods, each one flagged for the uncertainty it carries. That is the difference between analysis and prophecy, and treating the two as the same thing is the single most common mistake in every conversation about where this test is headed.
 

@@ -6,7 +6,7 @@ date: 2008-10-30
 categories: ["Industry"]
 tags: ["AP Exams", "College Admissions", "AP Ivy League", "Study Guide", "Exam Strategy"]
 excerpt: "How many AP classes do Ivy League and top colleges expect? A rigor-in-context guide to planning an AP load that signals real strength, not a trophy count."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 2008-10-30
@@ -14,7 +14,7 @@ lang: en
 ---
 The question of how many AP classes the Ivy League and other top colleges want is the single most misread number in selective admissions. Families treat it as a finish line: hit the magic count and the gates swing open. Admissions readers treat it as nothing of the kind. They read your schedule against the menu your own high school offered, ask whether you reached for the harder options available to you, and weigh that reach alongside the grades you earned while reaching. The number on its own carries almost no information. The number relative to opportunity carries a great deal. That gap, between a count students obsess over and a context readers actually evaluate, is where most AP planning goes wrong, and closing it is the entire purpose of this guide.
 
-![Rigor in context: how many AP classes selective colleges expect - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Rigor in context: how many AP classes selective colleges expect - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 Get this framing right and the rest of the planning falls into place. A student at a school that offers six Advanced Placement courses who takes five of the strongest ones has done something more impressive to an admissions committee than a student at a school offering twenty-five who took eight scattered, low-demand options. The first applicant exhausted the rigor available; the second left the hardest courses on the table. Both can describe their record with a single integer, and the integers are not even close to telling the real story. By the end of this guide you will be able to plan a load that reflects your school's actual offerings, your intended field, and your capacity to keep your grades high, rather than chasing a phantom threshold that does not exist.
 

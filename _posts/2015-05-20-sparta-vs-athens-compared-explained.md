@@ -18,7 +18,7 @@ Around 700 BCE, two Greek city-states occupied roughly similar positions on the 
 
 Few comparisons in the entire history of political thought have been used more continuously or more variously than the Sparta-Athens one. Every subsequent civilization attempting to design a civic order has reached for these two examples, claimed one as an ancestor, and dismissed the other as a cautionary case. Plato used Spartan institutions as partial inspiration for his imagined republic. Roman republicans compared their mixed constitution favorably to Sparta's dual-kingship arrangement. American founders cited Athens as a direct-democracy cautionary tale and Sparta as a citizen-virtue ideal in their ratification debates. Nazi theorists celebrated Spartan eugenics. Twentieth-century progressives celebrated Athenian deliberative culture. Contemporary military training programs invoke the agoge. Modern democratic theory traces its legitimating genealogy to Pericles's Funeral Oration. Neither city has gone out of circulation because the question they embody remains unanswered: what do you optimize a city for, and what are you willing to sacrifice in the process? What follows is an attempt to answer that question with analytical precision, drawing on Thucydides's *History of the Peloponnesian War*, Plutarch's *Lives*, Xenophon's *Hellenica* and *Constitution of the Spartans*, and Aristotle's *Politics* and *Athenian Constitution*, alongside the modern scholarship of Paul Cartledge, Donald Kagan, Mogens Herman Hansen, and Victor Davis Hanson.
 
-![Sparta and Athens: Two Cities Compared](/assets/images/blog/blog-20.webp)
+![Sparta and Athens: Two Cities Compared](/assets/images/blog/blog-30.webp)
 
 ## Background: Two Greek Cities, One Starting Line
 

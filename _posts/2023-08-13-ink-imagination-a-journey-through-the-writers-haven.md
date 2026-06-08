@@ -5,7 +5,7 @@ date: 2023-08-13
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2026", "Thoughts"]
 excerpt: "If you could build the perfect space for writing, what would it look like? A creative vision of the ideal writer's haven, from desk to bookshelves."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 3
 author: "rachel-foster"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ lang: en
 
 In a world driven by technology and rapid communication, the allure of a tranquil haven for writers remains undeniable. As an aspiring wordsmith, if I were to open a shop, it would be a sanctuary where the art of writing is celebrated, nurtured, and shared. Join me on a journey through the pages of "Ink & Imagination," a writer's haven unlike any other.
 
-![](/assets/images/blog/blog-47.webp)
+![](/assets/images/blog/blog-41.webp)
 
 ## The Writer's Retreat: Where Words Come to Life
 

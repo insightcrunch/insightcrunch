@@ -6,7 +6,7 @@ date: 2026-05-01
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "spy-thriller", "movie-comparison", "pathaan", "war", "ek-tha-tiger"]
 excerpt: "How Dhurandhar compares to Pathaan, War, Tiger, Baby, and every major Bollywood spy film ever made."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-54.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ The question is not whether Dhurandhar is a better spy film than Pathaan. Better
 
 <!--more-->
 
-![Dhurandhar vs Bollywood Spy Thrillers - Insight Crunch](/assets/images/blog/blog-24.webp)
+![Dhurandhar vs Bollywood Spy Thrillers - Insight Crunch](/assets/images/blog/blog-54.webp)
 
 That is the argument this article makes: Dhurandhar is not an evolution of the Bollywood spy thriller. It is a refusal of the genre's fundamental premise. The mainstream Bollywood spy film, from Ek Tha Tiger through Tiger 3 and from War through War 2, is built on a compact with its audience: the hero is extraordinary, the danger is real enough to generate excitement but never real enough to break him, and the mission ends with triumph that justifies every cost. Dhurandhar offers the audience no such compact. It offers them instead the unromantic proposition that espionage is not about heroes at all. It is about the systematic destruction of a person's identity in service of a strategic objective, and the only question worth asking is how much of the person survives the operation.
 

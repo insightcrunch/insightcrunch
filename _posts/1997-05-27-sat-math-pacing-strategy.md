@@ -6,7 +6,7 @@ date: 1997-05-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Pacing", "Time Management", "Strategy"]
 excerpt: "SAT math pacing explained: a three-pass system for a 35-minute module, the skip decision and Module 1 versus Module 2 timing, with a minute-by-minute model."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "daniel-morgan"
 last_updated: 1997-05-27
@@ -14,7 +14,7 @@ lang: en
 ---
 Most students lose points on the digital SAT math section that they were fully capable of earning. The arithmetic was within reach, the concept was familiar, the answer was sitting there waiting. What stole the credit was not difficulty. It was the clock, and a budget spent in the wrong order. A test-taker grinds four minutes on one stubborn item, gets it right, feels productive, and then watches three easy problems vanish unanswered when the module closes. That trade, four minutes for one point at the cost of three, is the single most expensive habit in the entire math section, and almost nobody is taught to see it as the disaster it is.
 
-![SAT math pacing three-pass system and minute-by-minute module timing - Insight Crunch](/assets/images/blog/blog-70.webp)
+![SAT math pacing three-pass system and minute-by-minute module timing - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 SAT math pacing is the discipline that fixes this. It is not a slogan about managing your time wisely, which tells a nervous student nothing they can act on. It is a concrete system that decides, problem by problem, where each second goes and when to walk away. Every math module on the digital format runs thirty-five minutes, and that block of time is a fixed resource you spend the way you would spend a fixed budget of money. The goal of this article is to hand you a spending plan precise enough to rehearse: a three-pass method, a minute-by-minute model of an ideal module, a hard cutoff for abandoning a problem, and a clear rule for how the two adaptive modules change the way you should attack the clock. By the end you will not merely know that pacing matters. You will know exactly what to do in minute one, minute fifteen, and minute thirty-three, and what to do when you fall behind.
 

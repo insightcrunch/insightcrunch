@@ -6,7 +6,7 @@ date: 1996-11-05
 categories: ["Industry"]
 tags: ["SAT", "Test Day", "Exam Day", "Mistakes", "Strategy"]
 excerpt: "SAT exam day mistakes that cost points: 15 test-day errors from poor sleep to leaving questions blank, each with a prevention strategy, explained clearly."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 60
 author: "natalie-webb"
 last_updated: 1996-11-05
@@ -14,7 +14,7 @@ lang: en
 ---
 A student who has spent three months working through algebra drills and reading passages walks into the exam room having done almost everything right, and then loses forty points before the first question loads. Not because the preparation failed. Because the morning did. The alarm went off late, breakfast was a single energy bar eaten standing up, the tablet was at nine percent battery, and by the time the proctor read the instructions, that test-taker was already breathing shallow and thinking about the parking situation rather than the first reading prompt. None of those losses show up on a practice test. All of them show up on the real one.
 
-![SAT Exam Day Mistakes That Cost Points - Insight Crunch](/assets/images/blog/blog-04.webp)
+![SAT Exam Day Mistakes That Cost Points - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 This guide is a catalog of the fifteen errors that drain points on the day of the exam itself, the ones that have nothing to do with whether you know the quadratic formula and everything to do with how you slept, what you ate, when you arrived, and how you behaved between the first item and the last. Each error here is paired with a concrete prevention you can rehearse, because the central claim of this piece is simple and, for most readers, freeing: the points you lose on the day are almost always preparation failures wearing a disguise. A panic spiral in the second math block looks like bad luck. It is actually an unrehearsed reaction to a routing signal you could have learned to read. A blank grid-in looks like running out of time. It is usually a pacing habit you never built. Logistics and habits are coachable, and coaching them is what the next several thousand words are for.
 

@@ -6,7 +6,7 @@ date: 2023-09-04
 categories: ["Technology"]
 tags: ["Azure", "Networking", "VNet Peering", "ExpressRoute", "VPN Gateway", "Cloud Computing"]
 excerpt: "VNet peering vs VPN vs ExpressRoute: pick Azure connectivity by what you connect and how private and fast the path must be, before doing any cost comparison."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 65
 author: "james-carter"
 last_updated: 2023-09-04
@@ -16,7 +16,7 @@ Three Azure connectivity options sit in front of every engineer who needs to joi
 
 This guide settles the choice with a rule you can defend in a design review, a decision table you can paste into a wiki, and the routing and transitivity behavior that explains why the obvious arrangement sometimes fails to pass traffic. The aim is not to memorize a feature matrix. It is to leave able to name what you are connecting and how private and fast that connection must be, then watch the option fall out of those two answers before cost ever enters the conversation.
 
-![VNet peering vs VPN vs ExpressRoute Azure connectivity decision - Insight Crunch](/assets/images/blog/blog-90.webp)
+![VNet peering vs VPN vs ExpressRoute Azure connectivity decision - Insight Crunch](/assets/images/blog/blog-13.webp)
 
 ## The connect-what-and-how-private rule
 

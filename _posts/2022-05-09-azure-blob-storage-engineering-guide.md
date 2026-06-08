@@ -6,7 +6,7 @@ date: 2022-05-09
 categories: ["Technology"]
 tags: ["Azure", "Blob Storage", "Storage", "Security", "Performance", "Cloud Computing"]
 excerpt: "Azure Blob Storage at engineering depth: choose blob types, master SAS and RBAC access, leases and ETags, and the throughput limits that shape design."
-image: "/assets/images/blog/blog-72.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 59
 author: "james-carter"
 last_updated: 2022-05-09
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams reach for Azure Blob Storage on day one, drop a few files into a container, wire up an account key, and never look back until something breaks at scale. Then a 403 appears on a blob the application could read yesterday, an overwrite silently clobbers a file two services were both editing, or throughput flatlines at a ceiling nobody knew existed. The gap between using Azure Blob Storage and understanding it is exactly the gap between an object store that quietly absorbs everything you throw at it and a production incident that nobody can explain. This guide closes that gap. By the end you should be able to choose a blob type and an access pattern by reasoning about the workload, rather than defaulting to block blobs plus account keys because that is what the first tutorial showed.
 
-![Azure Blob Storage engineering guide cover image](/assets/images/blog/blog-72.webp)
+![Azure Blob Storage engineering guide cover image](/assets/images/blog/blog-14.webp)
 
 The reason this matters is that blob storage sits underneath far more of an Azure estate than most engineers realize. Virtual machine disks, diagnostic logs, container registry layers, backup vaults, data lake analytics, static website hosting, and the staging area for half the data pipelines in the platform all resolve down to blobs in a storage account. Get the mental model right and you can reason confidently about access failures, concurrency races, cost, and performance everywhere blobs appear. Get it wrong and every one of those surfaces becomes a black box you debug by trial and error. The companion to this article is the [Azure Storage Accounts complete guide](/2022/01/31/azure-storage-accounts-complete-guide/), which covers the account container that blob storage lives inside; this piece goes one level deeper into the blob service itself.
 

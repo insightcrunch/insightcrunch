@@ -6,7 +6,7 @@ date: 2018-03-08
 categories: ["Leisure"]
 tags: ["feluda", "parambrata-chattopadhyay", "bangladeshi-feluda", "riddhi-sen", "bioscopelive"]
 excerpt: "পরমব্রত চট্টোপাধ্যায়ের বাংলাদেশি ফেলুদা সিরিজের সম্পূর্ণ বিশ্লেষণ। বায়োস্কোপলাইভ প্রযোজনা, ঋদ্ধি সেনের তোপসে চরিত্র, ক্রস-বর্ডার বাঙালি সাংস্কৃতিক ঐক্য, এবং স্ট্রিমিং-যুগের ফেলুদা।"
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 117
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![পরমব্রত চট্টোপাধ্যায়ের বাংলাদেশি ফেলুদা সিরিজ ২০১৭-২০১৮ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-38.webp)
+![পরমব্রত চট্টোপাধ্যায়ের বাংলাদেশি ফেলুদা সিরিজ ২০১৭-২০১৮ - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-32.webp)
 
 ## প্রকাশনা প্রসঙ্গ
 

@@ -6,7 +6,7 @@ date: 2022-03-11
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "textual-history", "dating", "first-quarto", "when-was-romeo-and-juliet-written"]
 excerpt: "Romeo and Juliet was likely written around 1595, and the clues, from an earthquake line to the sonnet vogue to the 1597 quarto, make dating it a detective case."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2022-03-11
@@ -14,7 +14,7 @@ lang: en
 ---
 A garrulous old woman, trying to fix the age of a girl she nursed, reaches for the one calendar event she can never forget: the night the ground moved. "'Tis since the earthquake now eleven years," the Nurse says in the third scene of the first act, and with that throwaway line she hands four centuries of scholars a riddle she never meant to pose. If the tremor she remembers is a real one, and if we can name its year, we can count backward and pin the composition of the most performed tragedy in the language to a single season. The trouble is that no document tells us when Shakespeare set down the first line of the work, the Nurse is the least reliable witness imaginable, and the earthquake she recalls may be any of several that shook England or Italy in the preceding decades.
 
-![Dating Romeo and Juliet from the earthquake clue, the sonnet vogue, and the 1597 quarto - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Dating Romeo and Juliet from the earthquake clue, the sonnet vogue, and the 1597 quarto - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 That gap between certainty and the desire for it is the whole subject here. The standard account, the one a quick search returns, gives a confident answer with a clean number attached, usually 1594 or 1595 or 1597, and moves on as if the matter were settled. It is not settled. What this page shows is the actual machinery editors use when the record falls silent: how a date gets triangulated from internal allusion, from the grain of the verse, from a printer's title page, and from a single sentence in a 1598 commonplace book. The verdict most modern editions reach, that the tragedy was composed in roughly 1595, is not a fact recovered from an archive. It is a reconstruction built from contested fragments, and the reconstruction is more interesting than the number it produces.
 

@@ -6,7 +6,7 @@ date: 2019-09-09
 categories: ["Industry"]
 tags: ["restraint", "2009-2015", "india", "modi", "counter-terrorism", "policy-shift"]
 excerpt: "Why India chose six years of strategic restraint after the 26/11 attacks, what calculation drove that patience, and how Modi reshaped the equation in 2014."
-image: "/assets/images/blog/blog-43.webp"
+image: "/assets/images/blog/blog-13.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2019-09-09
@@ -16,7 +16,7 @@ When the last gunman fell at Nariman House on the morning of 29 November 2008, a
 
 <!--more-->
 
-![India's decade of strategic restraint from 2009 to 2015](/assets/images/blog/blog-43.webp)
+![India's decade of strategic restraint from 2009 to 2015](/assets/images/blog/blog-13.webp)
 
 This is the story of the years that look empty on the timeline of the shadow war and turn out, on inspection, to be the most consequential of all. Between the carnage in Mumbai and the surgical strikes of September 2016, the Indian state did not retaliate. What it did instead was build. It rewrote its intelligence architecture, signed contracts for a generation of weapons, raised new formations, restructured the relationship between its spy services and its soldiers, and slowly assembled the political will to use the instruments it was forging. The forbearance was not a vacuum. It was a loading phase, and the firing phase that followed could not have happened without it.
 

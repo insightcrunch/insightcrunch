@@ -6,7 +6,7 @@ date: 2019-09-30
 categories: ["Industry"]
 tags: ["pulwama", "balakot", "2019", "escalation", "airstrike", "dogfight"]
 excerpt: "How the Pulwama CRPF convoy bombing led to the Balakot airstrike, India's first strike inside Pakistan since 1971, and the tense aerial duel that followed."
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 72
 author: "robert-quinn"
 last_updated: 2019-09-30
@@ -16,7 +16,7 @@ Twelve days separated a parked car on a Kashmir highway from twelve fighter jets
 
 <!--more-->
 
-![Pulwama to Balakot Escalation 2019 - Insight Crunch](/assets/images/blog/blog-75.webp)
+![Pulwama to Balakot Escalation 2019 - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 This is one link in a chain that runs from the Kandahar tarmac in 1999 to the missile salvoes of 2025, and it is a link with a particular function. Earlier nodes in the chain established that India would absorb mass-casualty terrorism, then established that India would retaliate, then established that India would retaliate across the Line of Control on the ground. Pulwama and Balakot established something different and more consequential: that the ground was no longer the limit. Once a barrier in this conflict is broken, it is never rebuilt. It becomes the floor for the next response. Understanding why that is true, and what it means for a relationship between two nuclear-armed states, requires walking the twelve days carefully, then stepping back to see the ladder they helped build.
 

@@ -6,7 +6,7 @@ date: 2022-06-24
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "tomb-scene", "romeo", "romeo-final-speech"]
 excerpt: "Romeo's last speech in the Capulet tomb, eyes, look your last, is his most controlled poetry, spoken moments before the timing that dooms both lovers."
-image: "/assets/images/blog/blog-36.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 60
 author: "amanda-ross"
 last_updated: 2022-06-24
@@ -14,7 +14,7 @@ lang: en
 ---
 A young man breaks into a sealed monument, lifts a torch over a body he believes is dead, and instead of breaking down he begins to speak in some of the steadiest verse he has produced in the entire play. That contrast is the puzzle of Act 5 Scene 3. The Montague who spent the early scenes spilling oxymorons over a woman who would not have him, who wept on the friar's floor at the word banishment, who could not finish a sentence without a paradox, arrives at the Capulet monument and delivers a farewell so measured that actors and editors have argued for four centuries about what the control means. He addresses his eyes, his arms, his lips. He notices, and refuses to understand, the colour in the cheeks of the figure on the bier. He drinks, and he dies on a rhyme.
 
-![Romeo final speech Capulet tomb eyes look your last close reading - Insight Crunch](/assets/images/blog/blog-36.webp)
+![Romeo final speech Capulet tomb eyes look your last close reading - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 The popular memory of this moment keeps a swoon: a boy collapsing on a corpse in a fit of grief. The text shows something colder and more frightening. The speech is disciplined, almost liturgical, organized into farewells that proceed body part by body part toward a deliberate act. The horror is not that the bridegroom loses his grip. The horror is that he keeps it. This article reads the whole of the address line by line, traces the imagery of light and dark and the personified figure of mortality that organizes it, and confronts the cruelest irony in Shakespeare: that the evidence of returning life is in front of the speaker's eyes, named in his own words, and read by him as proof that the grave is in love with the bride. By the close, the question is not whether the verse is beautiful. It is why the dramatist hands his most reckless character perfect control at the precise instant control can no longer save anyone.
 

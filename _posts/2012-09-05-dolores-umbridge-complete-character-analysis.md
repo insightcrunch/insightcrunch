@@ -6,7 +6,7 @@ date: 2012-09-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dolores Umbridge", "Ministry of Magic", "Order of the Phoenix", "Villains"]
 excerpt: "Literary analysis of Dolores Umbridge across the Harry Potter books, exploring bureaucratic cruelty, the pink aesthetic of menace, and quiet atrocity."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 59
 author: "megan-clark"
 last_updated: 2012-09-05
@@ -16,7 +16,7 @@ lang: en
 
 The most frightening villain in the Harry Potter series does not wield a wand against children in a duel, does not split her soul into seven pieces, does not lead an army of cloaked followers across a darkened battlefield. The most frightening villain in the series sits behind a desk in a small office decorated with kitten plates, drinks tea from a cup with flowers painted on it, wears a cardigan the colour of strawberry ice cream, and asks you, in a voice pitched halfway between a kindergarten teacher and a strangled songbird, to please come in and sign the form. The form authorises your own torture. The form is, of course, in triplicate.
 
-![Dolores Umbridge character analysis in Harry Potter series](/assets/images/blog/blog-67.webp)
+![Dolores Umbridge character analysis in Harry Potter series](/assets/images/blog/blog-28.webp)
 
 Rowling's most disturbing creation is not Voldemort. Voldemort is operatic, theatrical, a Gothic villain whose menace is in his theatricality, in the snake and the skull and the high cold laugh. Voldemort is the kind of evil that can be defeated because it announces itself. The Senior Undersecretary to the Minister for Magic announces nothing. She does not consider herself evil; she considers herself reasonable. The paperwork is there to justify every decision she has ever made. With the law on her side, and where the law is not yet on her side she will write a new law tomorrow morning, sign it before lunch, and have it on the wall by the time afternoon classes resume. The Educational Decrees that paper the walls of Hogwarts during her tenure are not a metaphor. They are the precise mechanism by which the violence happens, and they are, in their tidy numbered way, more terrifying than any Killing Curse.
 

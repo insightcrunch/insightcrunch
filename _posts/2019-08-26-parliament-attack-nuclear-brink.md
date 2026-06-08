@@ -6,7 +6,7 @@ date: 2019-08-26
 categories: ["Industry"]
 tags: ["parliament-attack", "2001", "nuclear-brink", "jem", "let", "war"]
 excerpt: "How the 2001 Parliament attack pushed India and Pakistan to the nuclear brink, triggered a ten-month military mobilization, and why all-out war was avoided."
-image: "/assets/images/blog/blog-07.webp"
+image: "/assets/images/blog/blog-60.webp"
 reading_time: 72
 author: "jason-mckenzie"
 last_updated: 2019-08-26
@@ -16,7 +16,7 @@ At 11:40 in the morning on December 13, 2001, a white Ambassador car carrying fo
 
 <!--more-->
 
-![2001 Parliament attack and the road to the nuclear brink - Insight Crunch](/assets/images/blog/blog-07.webp)
+![2001 Parliament attack and the road to the nuclear brink - Insight Crunch](/assets/images/blog/blog-60.webp)
 
 To understand why a single assault on a single building in central Delhi could bring a fifth of humanity to the edge of catastrophe, the assault has to be read as a link rather than as an isolated event. It sat between a decision India had already made and a decision India would soon be forced to make. The decision behind it was the surrender of a jailed cleric named Masood Azhar in exchange for the lives of airline passengers. The decision in front of it was whether to answer an attack on the nation's sovereign heart with the only instrument that felt proportionate, which was war. Everything that the Indian shadow war would later become, every covert killing on Pakistani soil, every surgical strike and cross-border air raid, traces part of its institutional memory to the trauma of these ten months. The story of the strike on Parliament is the story of how India learned, at terrible cost, that absorbing an attack and threatening a war were not the only two options available to a wounded state.
 

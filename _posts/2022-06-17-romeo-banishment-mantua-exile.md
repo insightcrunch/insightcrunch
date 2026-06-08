@@ -6,7 +6,7 @@ date: 2022-06-17
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "thematic", "banishment", "mantua", "romeo-banishment"]
 excerpt: "Romeo greets banishment to Mantua as worse than death, and his Act 3 despair shows how exile from Juliet and Verona unmakes him faster than any sentence."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 65
 author: "chloe-martin"
 last_updated: 2022-06-17
@@ -14,7 +14,7 @@ lang: en
 ---
 Romeo never speaks the word *death* with the terror he saves for another word entirely. Standing in Friar Laurence's cell at the exact midpoint of the tragedy, having killed Tybalt in the street and learned that the Prince has spared his life, the Montague heir does not sink to his knees in gratitude. He recoils. The friar arrives with what he takes for mercy, that the sentence is removal from the city rather than execution, and the young man answers that the gentler judgment is the crueler one. "Ha, banishment? Be merciful, say 'death'," he tells the priest, "For exile hath more terror in his look, / Much more than death." The line reads easily as the overstatement of a boy who has not yet learned what death actually costs. It is also, by the play's own machinery, precisely accurate. The decree that keeps the bridegroom breathing is the decree that destroys him.
 
-![Romeo's banishment to Mantua and the Act 3 Scene 3 despair in Friar Laurence's cell - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Romeo's banishment to Mantua and the Act 3 Scene 3 despair in Friar Laurence's cell - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 The popular memory of this tragedy runs along a short and famous arc. There is a balcony, there are vows, there is a wedding, and then there is a tomb. The middle drops out. Ask a casual reader what happens between the secret marriage and the double suicide and the answer thins to a vague sense that something went wrong, a letter that failed, a misunderstanding about a sleeping potion. What goes missing in that compression is the single act of state that turns a private romance into a public catastrophe: the Prince's sentence of expulsion, handed down at 3.1, and the long offstage absence it forces. Verona keeps the lovers. Mantua takes the husband. The geography of the play splits in two at this moment, and everything that follows, the desperate potion plan, the unread message, the apothecary's poison, the bodies in the vault, runs along the fault line the sentence opened. This piece argues that exile is the hidden second catastrophe of the drama, the engine that makes the ending mechanically possible, and that the friar's "good" news is the worst thing that happens to anyone in the play.
 

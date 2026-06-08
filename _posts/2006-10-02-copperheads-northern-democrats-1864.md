@@ -6,7 +6,7 @@ date: 2006-10-02
 categories: ["Leisure"]
 tags: ["abraham-lincoln", "losing-side", "us-presidents", "american-history", "copperheads", "1864-election", "peace-democrats"]
 excerpt: "The Copperheads were Northern Democrats who opposed the Civil War, and McClellan nearly beat Lincoln in 1864. Their losing-side case deserves a hearing."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2026-06-01
@@ -14,7 +14,7 @@ lang: en
 ---
 At roughly half past two in the morning on May 5, 1863, soldiers under the command of Captain Charles Hutton surrounded a brick house on First Street in Dayton, Ohio. They had marched out from Cincinnati on a special train, broken down the front door with axes when the owner refused to open it, and climbed the stairs to the bedroom of a former congressman who had spent the previous year insisting that the federal government could not jail a man for the content of his speeches. The man inside that bedroom was Clement Laird Vallandigham. He had been warned that arrest was coming, had made no effort to flee, and had in fact written out a public protest in advance so that it could be released the moment the soldiers took him. When they came through the door, he leaned out a window and shouted to neighbors gathering in the dark street that he was being seized by military force in defiance of the Constitution, and that they should remember it.
 
-![Clement Vallandigham arrest and the Copperhead opposition to Lincoln 1864 - Insight Crunch](/assets/images/blog/blog-53.webp)
+![Clement Vallandigham arrest and the Copperhead opposition to Lincoln 1864 - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 That midnight arrest is the moment most Americans, on the rare occasions they encounter the Copperheads at all, file the entire movement under: a treasonous crank dragged out of bed by patriotic troops, a footnote to the heroic story of how the Union was saved. The filing is convenient and it is wrong, or at least it is so incomplete as to amount to a distortion. The men and women who opposed the war from inside the loyal states were not a fringe. They were the organized remnant of what had been, until 1861, the dominant political party in the United States, and in the autumn of 1864 their candidate for president drew forty-five percent of the popular vote against a sitting commander in chief during a war that the Union was, by then, demonstrably winning. This article reconstructs the Civil War from the side that lost the argument, and it advances a single claim that organizes everything that follows: what we might call the Copperhead revival thesis, the proposition that the Northern antiwar opposition was a serious constitutional movement whose defeat has been mistaken for illegitimacy, and whose specific objections to wartime executive expansion have aged into questions the country never stopped asking.
 

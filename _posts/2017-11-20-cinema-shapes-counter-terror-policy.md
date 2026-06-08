@@ -6,7 +6,7 @@ date: 2017-11-20
 categories: ["Industry"]
 tags: ["cinema", "counter-terrorism", "policy", "bollywood", "public-opinion", "national-security"]
 excerpt: "Examining the feedback loop between Bollywood counter-terror films and India's security policy, revealing how cinema manufactured consent for covert war."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-11-20
@@ -16,7 +16,7 @@ No Indian politician put the shadow war to a vote. No parliamentary committee de
 
 <!--more-->
 
-![Cinema Shapes Counter-Terror Policy - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Cinema Shapes Counter-Terror Policy - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 ## The Film's Version
 

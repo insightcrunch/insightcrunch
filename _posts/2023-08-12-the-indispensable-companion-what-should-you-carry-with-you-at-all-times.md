@@ -6,7 +6,7 @@ date: 2023-08-12
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2025", "Thoughts"]
 excerpt: "If you could carry only one thing with you at all times, what would it be? A thoughtful exploration of essentials in an age of constant connectivity."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 3
 author: "chloe-martin"
 last_updated: 2026-03-30
@@ -16,7 +16,7 @@ lang: en
 
 In our modern world, where technology and convenience are at our fingertips, the question of what is truly essential to carry with us at all times remains a pertinent one. From smartphones to wallets, the items we choose to keep close can greatly influence our day-to-day experiences. However, amidst the array of gadgets and personal effects, one intangible yet profoundly valuable aspect emerges as the most important thing to carry with you: a positive mindset.
 
-![](/assets/images/blog/blog-70.webp)
+![](/assets/images/blog/blog-86.webp)
 
 ## The Power of a Positive Mindset:
 

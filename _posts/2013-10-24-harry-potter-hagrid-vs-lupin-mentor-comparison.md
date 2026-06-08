@@ -6,7 +6,7 @@ date: 2013-10-24
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Rubeus Hagrid", "Remus Lupin", "Mentorship", "Character Comparison"]
 excerpt: "Hagrid vs Lupin in Harry Potter compared across emotion, pedagogy, prejudice, and the opposite fates these two outsider mentors meet by the story's end."
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 41
 author: "claire-bennett"
 last_updated: 2013-10-24
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which mentor mattered more to Harry Potter. The boy who arrives at Hogwarts unloved and unformed needs everything both men can give, and the series never asks the reader to rank them. The real question is stranger and more revealing: why did two figures excluded from full citizenship in the wizarding world, two men the magical establishment regarded with suspicion bordering on contempt, produce opposite pedagogies out of the same wound? One taught the orphan that the world brims with wonder. The other taught him that the world is laced with danger. The exclusion was shared. The lesson was not.
 
-![Hagrid vs Lupin comparison in Harry Potter](/assets/images/blog/blog-56.webp)
+![Hagrid vs Lupin comparison in Harry Potter](/assets/images/blog/blog-89.webp)
 
 Marginalisation, the series quietly argues across seven books, does not dictate what a marginalised person becomes. It supplies the raw material and then steps back. Rubeus Hagrid, half-giant, expelled in his third year on a false charge, carrying a heritage that the magical world treats as a near-criminal taint, chose to meet the boy with open arms and a homemade cake misspelled in pink icing. Remus Lupin, werewolf, forced into concealment for most of his adult life, chose to meet the same boy with measured words, careful lessons, and a chocolate bar pressed into his hand after the Dementor drained him on the Hogwarts Express. The half-giant offers warmth without filter. The werewolf offers protection without display. Both gifts are real. Neither could substitute for the other.
 

@@ -6,7 +6,7 @@ date: 2026-05-11
 categories: ["Leisure"]
 tags: ["dhurandhar", "karachi", "lyari", "world-building", "bollywood", "production-design", "spy-thriller"]
 excerpt: "How Dhurandhar built its immersive Karachi underworld - the Lyari setting, production design, and world-building."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ Karachi in Dhurandhar is not a backdrop. It is not a location scout's decision o
 
 <!--more-->
 
-![The Karachi Underworld in Dhurandhar - Insight Crunch](/assets/images/blog/blog-59.webp)
+![The Karachi Underworld in Dhurandhar - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 A spy thriller's credibility depends on the credibility of the world its spy inhabits. If the world feels constructed, the performance feels performative. If the world feels real, the performance of deception within it becomes genuinely tense, because the audience understands what the operative would lose if the world's inhabitants discovered the truth. Dhurandhar builds a Karachi that the audience comes to understand with the cumulative familiarity of someone who has spent years in the neighborhood, and this understanding is what makes the franchise's emotional stakes real rather than abstract. By the time Part 1's climactic sequences arrive, the audience is not watching a spy thriller set in a generic hostile territory. They are watching a specific person navigate a specific world they have come to know, and the specificity of that world is what transforms genre mechanics into genuine dramatic investment.
 

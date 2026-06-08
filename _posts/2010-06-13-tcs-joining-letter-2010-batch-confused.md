@@ -6,7 +6,7 @@ date: 2010-06-13
 categories: ["Industry"]
 tags: ["TCS", "Joining Letter", "Onboarding", "Offer Process"]
 excerpt: "TCS has started giving out joining letters to it’s 2010 batch selected candidates. The wait is finally over for the thousands of candidates. The mood sure..."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 45
 author: "shruti-agarwal"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The moment a TCS offer letter appears in your NextStep portal, something shifts. The months of preparation, the anxiety of the drive day, the waiting for results - all of that resolves into a single concrete fact: you are going to work at TCS. What follows that moment is a process that most freshers know very little about and for which very little guidance exists in one place. The joining letter, the documents, the medical test, the background verification, the pre-joining communication - these are not formalities to be stumbled through. They are a sequence that requires specific actions, in a specific order, within specific timelines, and getting them right matters more than most freshers realise.
 
-![A freshly printed TCS joining letter on a desk alongside organized document folders, representing the onboarding preparation that follows an offer](/assets/images/blog/blog-78.webp)
+![A freshly printed TCS joining letter on a desk alongside organized document folders, representing the onboarding preparation that follows an offer](/assets/images/blog/blog-90.webp)
 *TCS joining letter and onboarding guide - from offer acceptance through document submission, medical test, background verification, and ILP day one*
 
 This guide covers the complete journey from offer acceptance to walking into ILP on day one. It explains what the joining letter contains and what each part means, what documents are required and why, how the medical fitness process works, how background verification operates and what can go wrong with it, and what the pre-joining period demands of you beyond just waiting. By the time you have read it, the process that seemed opaque and anxiety-producing will be familiar and manageable.

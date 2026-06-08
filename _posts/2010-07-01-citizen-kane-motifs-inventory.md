@@ -6,7 +6,7 @@ date: 2010-07-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Motifs", "Symbolism", "Close Reading", "Themes", "Cinematography"]
 excerpt: "Citizen Kane motifs build meaning by repetition: snow, glass, mirrors, newspapers, jigsaw puzzles, and applause traced and decoded across the whole film."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2010-07-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Watch the film once for plot and you will leave with a sled and a deathbed word. Watch it for pattern and you will start to notice that the same handful of images keep coming back, changed a little each time, until you realize the picture has been making its argument visually the whole way through. The Citizen Kane motifs are the part of the film most casual viewers never consciously register and the part a serious reader can build an entire essay on, because the movie almost never states its meaning in dialogue. It buries that meaning in recurrence. Snow falls, then freezes into a paperweight, then falls again on a marriage that is dying. Glass keeps sliding between Kane and the people he wants. Newspapers swell to fill the screen at his rise and shrink to a torn record of his collapse. A motif is not decoration here; it is the method by which the film thinks.
 
-![Recurring motifs in Citizen Kane explained, snow, glass, mirrors, and newspapers analyzed - Insight Crunch](/assets/images/blog/blog-58.webp)
+![Recurring motifs in Citizen Kane explained, snow, glass, mirrors, and newspapers analyzed - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 This inventory does two jobs at once. It catalogs every recurring pattern the film uses that is not a single discrete object, and it teaches the analytical move that catalog depends on: tracking recurrence. That move is more durable than any single interpretation, because once you can follow an image across a two-hour film and describe how its meaning shifts from one appearance to the next, you can read almost any film closely. The sled belongs to the [complete guide to the symbols of the film](/2010/04/01/citizen-kane-symbols-complete-guide/), where discrete objects that carry meaning are handled one by one. What follows here is the larger and looser category, the threads woven through the whole fabric, and the argument that those threads, not the famous twist, are where the film keeps its real subject.
 

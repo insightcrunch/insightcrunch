@@ -6,7 +6,7 @@ date: 2018-05-21
 categories: ["Industry"]
 tags: ["neelum-jhelum", "hydropower", "infrastructure", "damage", "india-pakistan"]
 excerpt: "How Pakistan's largest PoK hydropower plant became a casualty of the 2025 conflict, what evidence shows, and the legal and strategic questions it raises."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 70
 author: "robert-quinn"
 last_updated: 2018-05-21
@@ -16,7 +16,7 @@ On the night between May 6 and May 7, 2025, as Indian missiles struck nine desig
 
 <!--more-->
 
-![Neelum Jhelum Hydropower Damage](/assets/images/blog/blog-40.webp)
+![Neelum Jhelum Hydropower Damage](/assets/images/blog/blog-35.webp)
 
 India's response came swiftly and categorically. Foreign Secretary Vikram Misri, briefing the media on May 8, called Pakistan's claim "an absolute and complete fabrication, and a blatant lie." He reiterated that all Indian strikes had targeted terrorist infrastructure and that no civilian or energy facilities had been selected. Between these two narratives, separated by geography, classification, and the fog of a live military conflict, lies one of the most consequential questions of the 2025 crisis. Did the Neelum-Jhelum facility sustain damage from Indian strikes, from collateral effects of nearby operations, or from pre-existing structural failures that Pakistan attributed to Indian fire? The answer carries implications not just for the bilateral relationship but for how future conflicts between nuclear powers will treat civilian energy infrastructure.
 

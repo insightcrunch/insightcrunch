@@ -6,7 +6,7 @@ date: 2015-04-15
 categories: ["Travel"]
 tags: ["USA Travel", "Zion", "Bryce Canyon", "National Parks", "Itineraries", "Road Trips"]
 excerpt: "A sequenced 5-day Zion and Bryce Canyon itinerary that bases you smart, beats the heat and the high-rim cold, and shows how to extend into the Mighty 5."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 68
 author: "amit-chatterjee"
 last_updated: 2015-04-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A good Zion and Bryce Canyon itinerary is not two separate park trips stapled together. It is one plan that treats a hot, low desert canyon and a high, cold rim of stone spires as a single problem to solve: where you sleep, which day you spend down in the heat, which day you spend up in the cold, and how the roughly hour-and-a-half to two-hour drive between them fits into the rhythm. Get that structure right and five days feels generous. Get it wrong, split your nights evenly, treat Bryce as a quick photo stop, and you spend half the trip in the car and arrive at the best viewpoints at the worst light.
 
-![A 5-day Zion and Bryce Canyon itinerary with hoodoos at Bryce and the red walls of Zion Canyon](/assets/images/blog/blog-60.webp)
+![A 5-day Zion and Bryce Canyon itinerary with hoodoos at Bryce and the red walls of Zion Canyon](/assets/images/blog/blog-66.webp)
 
 This plan is built for a traveler who is actually going and needs to make real choices: a first-timer or a returning visitor with five days, a rental car, and a reasonable level of fitness, who wants to see the headline experiences in both parks without rushing and without backtracking. It assumes you fly into a regional gateway, pick up a car, and want a plan you could book this week. It also assumes you would rather do two things well each day than five things in a blur. If you have only three days, the cut list later in this guide tells you exactly what to drop. If you have seven or more and the appetite for a bigger loop, the Mighty 5 extension shows you how to keep driving northeast into the rest of Utah's national parks without doubling back.
 

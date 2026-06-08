@@ -6,7 +6,7 @@ date: 2011-01-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Thatcher Memorial Library", "Walter Parks Thatcher", "Close Reading", "Cinematography", "Symbolism"]
 excerpt: "Citizen Kane: the Thatcher library scene analysis reading the marble vault, the shaft of light, and the guarded memoir as the film's first claim on memory."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2011-01-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The first place the reporter goes to find a dead man's childhood is a tomb. In Citizen Kane: the Thatcher library scene, Jerry Thompson walks into a cold marble mausoleum, submits to a guardian's rules, and is allowed to read a few rationed pages of a banker's private memoir under a single beam of light. Before the film shows us one minute of Charles Foster Kane's boyhood, it shows us who keeps that boyhood locked up. That framing is the whole point, and it is why this short bridging sequence rewards the close attention most viewers never give it. This citizen kane scene analysis treats the Thatcher Memorial Library not as a transition to the real material but as the film's opening statement on a theme it will pursue to the warehouse: the past is property, and somebody else owns it.
 
-![Thatcher Memorial Library scene in Citizen Kane analyzed, memory as property and institutional control of the past - Insight Crunch](/assets/images/blog/blog-16.webp)
+![Thatcher Memorial Library scene in Citizen Kane analyzed, memory as property and institutional control of the past - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 Most plot summaries skip this scene in a sentence. They say Thompson reads Thatcher's account and the film flashes back to Kane as a child in the snow. That is accurate as far as it goes, and it misses everything that makes the sequence worth pausing on. The library is the first stop on Thompson's investigation, the first of the five witnesses he will consult, and the only witness who is dead and therefore can speak to him only through a guarded document. Welles and his collaborators stage that fact as architecture. The set is built to intimidate, the light is built to isolate, and the rules are built to remind us that even a man's earliest years can be sealed behind a brass rail and a librarian's clipboard. Read this way, the scene stops being a dull doorway and becomes the doorway argument: the film is about a life that cannot be reconstructed, and the Thatcher library is the place where the reconstruction is first refused.
 

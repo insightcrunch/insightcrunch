@@ -6,7 +6,7 @@ date: 2024-03-04
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Entra ID", "App Registrations", "Identity", "Security", "Cloud Computing"]
 excerpt: "Microsoft Entra app registrations explained: the application object versus the enterprise application, credentials, API permissions, scopes, and consent."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 61
 author: "alex-cunningham"
 last_updated: 2024-03-04
@@ -16,7 +16,7 @@ A team registers an application in Microsoft Entra ID, grants it a permission, e
 
 This article fixes that. The goal is not a click-by-click portal walkthrough that goes stale the moment Microsoft moves a blade. The goal is a model an engineer can hold: what the registration actually is, what the enterprise application actually is, how they relate, where credentials live, how API permissions and consent work, how to expose your own API with scopes and roles, and how single-tenant and multitenant audience choices change the whole picture. Hold that model and the portal stops surprising you, because you can predict what each screen does before you open it.
 
-![Microsoft Entra app registrations explained](/assets/images/blog/blog-71.webp)
+![Microsoft Entra app registrations explained](/assets/images/blog/blog-74.webp)
 
 The single rule that organizes everything here is what this series calls the definition-versus-instance rule. An app registration is the global definition of an application. The enterprise application is the per-tenant instance of that definition, and that instance is a service principal. The registration describes what the app is and what it can request. The service principal is the local identity that actually signs in, holds role assignments, and receives consent inside a specific directory. When you understand which object a setting belongs to, you stop editing the wrong screen and expecting the right result.
 

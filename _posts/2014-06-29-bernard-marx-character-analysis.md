@@ -6,7 +6,7 @@ date: 2014-06-29
 categories: ["Leisure"]
 tags: ["brave-new-world", "aldous-huxley", "bernard-marx", "character-analysis", "dissent", "classic-literature"]
 excerpt: "Bernard Marx is not the dystopia's outsider-hero. His dissent is resentment toward exclusion, not principle, and he abandons it the moment rewards arrive."
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-06-29
@@ -16,7 +16,7 @@ Bernard Marx is not the outsider-hero of Aldous Huxley's Brave New World. He is 
 
 <!--more-->
 
-![Bernard Marx Character Analysis](/assets/images/blog/blog-56.webp)
+![Bernard Marx Character Analysis](/assets/images/blog/blog-14.webp)
 
 
 ## Bernard's Introduction and the Alpha-Minus Problem

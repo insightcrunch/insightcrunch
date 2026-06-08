@@ -6,7 +6,7 @@ date: 1996-08-03
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Financial Aid", "Scholarships", "Merit"]
 excerpt: "SAT scores and financial aid explained: automatic merit grids, the National Merit pathway and the ROI of every score increase, with a worked money calculation."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-79.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1996-08-03
@@ -14,7 +14,7 @@ lang: en
 ---
 Here is the sentence almost no one says out loud to a high school junior staring at a practice result: a forty-point gain on this exam can be worth more than a summer job, a part-time job through college, and a graduation gift combined. Not in some vague motivational sense. In dollars, layered across four years, written into an award letter before you have even chosen a roommate. The reason is a quiet mechanism that most families never learn until they are deep in the application season, when the chance to act on it has mostly passed: a large number of universities convert your composite into automatic scholarship money on a published grid, and a separate national program turns one strong fall morning into a title that follows you onto award letters at hundreds of campuses.
 
-![SAT scores and financial aid merit scholarship grids and ROI math - Insight Crunch](/assets/images/blog/blog-05.webp)
+![SAT scores and financial aid merit scholarship grids and ROI math - Insight Crunch](/assets/images/blog/blog-79.webp)
 
 Most coverage of this subject either drowns you in the difference between subsidized and unsubsidized loans or waves at scholarships as if they were a lottery. This guide does something narrower and more useful. It shows you exactly how a number on a score report becomes money, where that conversion is automatic and where it is discretionary, how the National Merit pathway actually runs from a single test to a recognized award, and how to compute the return on every hour you spend preparing. By the end you will hold a worked dollar figure for your own situation, a model we call the InsightCrunch scholarship ROI model, and a clear line between the aid your result moves and the aid it does not. The distinction matters more than any single tip, because acting on the wrong half of it wastes the most valuable leverage a teenager has over the cost of college.
 

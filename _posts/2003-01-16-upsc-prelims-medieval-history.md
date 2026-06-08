@@ -6,7 +6,7 @@ date: 2003-01-16
 categories: ["Industry"]
 tags: ["UPSC", "Medieval Indian History", "UPSC Prelims", "Delhi Sultanate", "Mughal Empire", "Bhakti Movement"]
 excerpt: "Master medieval Indian history for UPSC Prelims with Delhi Sultanate, Mughal, Bhakti-Sufi coverage and PYQ strategy."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 59
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ Medieval Indian history, spanning roughly from the 8th century CE to the mid-18t
 
 This article is your self-contained reference for medieval Indian history as tested in UPSC Prelims. It decodes the examination's preference for cultural and syncretic themes, maps every major topic to its actual question frequency, provides the analytical frameworks that distinguish a 100-plus scorer in the history segment from an average performer, and delivers a structured study plan that ensures comprehensive coverage within a realistic time frame. By the time you finish reading, you will have a clear, operational understanding of exactly what medieval history knowledge UPSC demands and exactly how to acquire it.
 
-![UPSC Prelims Medieval Indian History Strategy and Study Plan - Insight Crunch](/assets/images/blog/blog-37.webp)
+![UPSC Prelims Medieval Indian History Strategy and Study Plan - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 ## Why Medieval Indian History Is the Prelims Swing Factor
 

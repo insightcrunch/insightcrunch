@@ -5,7 +5,7 @@ date: 2010-08-27
 categories: ["Leisure"]
 tags: ["Google", "Surfing"]
 excerpt: "Google has rolled out some stunning upgrades for its Google Docs, the undoubtedly superb platform for working online with documents. And, not..."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-34.webp"
 reading_time: 1
 author: "ian-fletcher"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Google has rolled out some stunning upgrades for its Google Docs, the undoubtedly superb platform for working online with documents. And, not coincidentally for sure, they come in the same week as Microsoft launched its Office 2010 for the public. Google is now giving users more options for sharing documents: private; anyone with a link; or public on the web. The best part is that public documents will get indexed and even appear in search results.
 
-![Google Docs](/assets/images/blog/blog-46.webp)
+![Google Docs](/assets/images/blog/blog-34.webp)
 Google Docs
 
 Read more: [WordPress 3.0 is here to delight bloggers »](https://insightcrunch.com/2010/08/31/wordpress-3-0-is-here-to-delight-bloggers/)

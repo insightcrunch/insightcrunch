@@ -6,7 +6,7 @@ date: 2011-07-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Susan Alexander Kane", "Close Reading", "Cinematography", "Orson Welles", "Themes"]
 excerpt: "The Citizen Kane opera scene stages Susan's debut so the famous crane to the stagehands can pass the verdict Kane's stubborn applause refuses to hear."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2011-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 The Citizen Kane opera scene is the film's cruelest joke and its clearest act of judgment, and it works because the judgment is never spoken aloud. Kane has spent a fortune to put a voice the world can hear is unready onto the grandest stage money can rent, and rather than argue with him in dialogue, the film answers with a camera move. As Susan strains through her entrance, the camera abandons the stage entirely and climbs, up past the lights and the painted scenery and the ropes, until it arrives among the flies on a narrow catwalk where two stagehands have been listening to the same performance the rich audience below is politely enduring. One of them looks at the other and pinches his nose shut. That gesture is the review. Everything the powerful people in the boxes are too cautious to say, a working man a hundred feet above the stage says with two fingers, and the film cuts the verdict into the picture as plainly as if it had printed it on a card.
 
-![Citizen Kane opera scene close reading: Susan's debut and the crane shot to the stagehands - Insight Crunch](/assets/images/blog/blog-73.webp)
+![Citizen Kane opera scene close reading: Susan's debut and the crane shot to the stagehands - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 That is why this sequence rewards the kind of attention most viewers never give it. On a casual watch the opera premiere reads as a punchline about a bad singer, a comic interlude before the marriage curdles for good. Read closely, it is something far more precise: a scene that uses staging, light, sound, and a single celebrated camera move to convict a man of the offense he will never confess to, the conversion of another human being into an instrument of his own vanity. The laughter the scene invites is real, but it is not aimed where a careless viewer assumes. It is aimed up, at the box where Kane sits applauding into a silence that has already delivered its sentence. This reading is the spine of the series argument set out in [the complete analytical guide to Citizen Kane](/2010/01/01/citizen-kane-complete-analytical-guide/): the film is built to be read at the level of the shot, and its famous answers are often delivered by the camera rather than by anyone who speaks.
 

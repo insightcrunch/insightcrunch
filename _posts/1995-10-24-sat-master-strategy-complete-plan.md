@@ -6,7 +6,7 @@ date: 1995-10-24
 categories: ["Industry"]
 tags: ["SAT", "Master Strategy", "Study Guide", "Score Improvement", "Test Prep"]
 excerpt: "The SAT master strategy: a mastery cycle from diagnose to plan, learn, practice, analyze, repeat, test and evaluate, unifying the whole library into one plan."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
 author: "katherine-blake"
 last_updated: 1995-10-24
@@ -14,7 +14,7 @@ lang: en
 ---
 Most students preparing for the SAT do not lack tips. They drown in them. A folder of screenshots, a few half-watched videos, a workbook open to page forty, three different opinions on whether to guess. What they lack is the thing that turns all of that into a rising number: a system that says do this, then this, then this, and keep doing it until the practice results say you are done. The SAT master strategy is that system. It is the single loop that every other guide in this library feeds into, and it is the reason a motivated student with an average starting point can finish in a stronger band than a more naturally gifted student who studied without a structure.
 
-![SAT master strategy mastery cycle diagnose plan learn practice analyze repeat test evaluate - Insight Crunch](/assets/images/blog/blog-50.webp)
+![SAT master strategy mastery cycle diagnose plan learn practice analyze repeat test evaluate - Insight Crunch](/assets/images/blog/blog-01.webp)
 
 This piece is the capstone of the series, and it does something none of the topic guides do alone. The deep dives teach exponential functions, comma rules, adaptive routing, score bands, and admissions math. Each one is complete on its own subject. What they cannot do individually is tell you the order, the timing, and the feedback loop that converts reading into a result. That is the gap this guide fills. By the end you will hold one repeatable routine, the InsightCrunch mastery cycle, with the exact article that powers each move, a way to split your hours between the two sections, a testing timeline, and a method for setting a target you can actually defend to an admissions reader. The thesis underneath all of it is plain and, by now, well evidenced across this whole library: the exam measures preparation discipline far more than it measures fixed talent.
 

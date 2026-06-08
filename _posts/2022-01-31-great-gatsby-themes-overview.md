@@ -6,7 +6,7 @@ date: 2022-01-31
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Themes", "The American Dream", "Symbolism", "Close Reading", "F. Scott Fitzgerald", "American Literature"]
 excerpt: "The Great Gatsby themes are not a checklist but a connected system. This complete overview maps each major theme and the single root that ties them together."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 59
 author: "amanda-ross"
 last_updated: 2022-01-31
@@ -14,7 +14,7 @@ lang: en
 ---
 Almost every reader of *The Great Gatsby* can name what the book is supposedly about. The American Dream. Wealth. Love. The past. Yet most leave the novel holding a list rather than an understanding, able to recite five or six labels but unable to say how any of them work or why they belong in the same book. The Great Gatsby themes that get reproduced across study guides and revision notes arrive as separate bullet points, each sealed off from the others, as if Fitzgerald wrote a novel about money and then, in a different mood, a novel about time. He did not. The themes of this short, dense book are wired into a single structure, and the reader who sees the wiring can say something true about the novel that the reader holding the list cannot.
 
-![The major themes of The Great Gatsby explained as a connected system - Insight Crunch](/assets/images/blog/blog-91.webp)
+![The major themes of The Great Gatsby explained as a connected system - Insight Crunch](/assets/images/blog/blog-74.webp)
 
 This overview is the theme pillar for our whole study of the novel. It does not try to settle each subject in full, because each one is owned in depth by its own article, linked throughout below. What it does instead is the work no single-theme page can do: it shows the system. It argues that the novel's concerns are not a checklist but a connected machine, that they share symbols, characters, and scenes, and that they all grow from one root. Read this first, and the individual studies become branches of a tree whose trunk you can already see.
 

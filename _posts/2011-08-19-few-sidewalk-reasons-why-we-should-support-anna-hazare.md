@@ -5,7 +5,7 @@ date: 2011-08-19
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "Do you know what will happen if 1,456 Lakh Crores come back to our country?"
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 1
 author: "diana-patel"
 last_updated: 2026-04-01
@@ -20,7 +20,7 @@ Hazare says: Bring back the Black Money.
  No need to participate in this Revolution. Just support Anna Hazare by sharing this article.  
  I did my job for better India and a brighter tomorrow. Jai Hind.
 
-![Anna Hazare for Development](/assets/images/blog/blog-19.webp)
+![Anna Hazare for Development](/assets/images/blog/blog-88.webp)
 Anna Hazare for Development
 
 Nice Text:

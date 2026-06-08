@@ -6,7 +6,7 @@ date: 2018-07-23
 categories: ["Industry"]
 tags: ["rawalpindi", "military", "terror-nexus", "hizbul-mujahideen", "pakistan-army"]
 excerpt: "How Rawalpindi hosts Pakistan's Army GHQ, ISI headquarters, and designated-terrorist safe houses, proving the military-terror nexus is deliberate state policy."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2018-07-23
@@ -16,7 +16,7 @@ Pakistan's safe haven for terrorists has a geography of embarrassment, and no ci
 
 <!--more-->
 
-![Rawalpindi as Pakistan's military headquarters and terror safe haven nexus](/assets/images/blog/blog-55.webp)
+![Rawalpindi as Pakistan's military headquarters and terror safe haven nexus](/assets/images/blog/blog-26.webp)
 
 No other city in the world makes the state-terror nexus this visible. Abbottabad came close when Osama bin Laden was found approximately 800 meters from the Pakistan Military Academy, and that discovery forced a global reckoning with what the Pakistani military knew and when it knew it. Rawalpindi demands the same reckoning, not as a one-time embarrassment but as a structural condition of the garrison city's governance. The Hizbul Mujahideen's terrorist designation comes from the United States, the European Union, India, and Canada. The organization's liaison office is in Rawalpindi. The organization's exiled operatives lived in Rawalpindi. One of them was eliminated on a Rawalpindi street. Peer's killing was not a covert operation in a distant, ungoverned province; it was a targeted assassination in the city the Pakistan Army controls more completely than any other in the country. If a designated terrorist could be eliminated outside a shop in Rawalpindi, that designated terrorist was living in Rawalpindi. The question the Pakistani military has never adequately answered is how.
 

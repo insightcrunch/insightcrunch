@@ -6,7 +6,7 @@ date: 1997-01-07
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Main Idea", "Central Claim", "Purpose"]
 excerpt: "SAT main idea and purpose explained: topic versus argument versus why a text was written, and the too-broad and too-narrow traps, with worked examples."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 59
 author: "michael-brooks"
 last_updated: 1997-01-07
@@ -14,7 +14,7 @@ lang: en
 ---
 # SAT Reading: Main Idea, Purpose, and Central Claim Questions
 
-![SAT Reading: Main Idea, Purpose, Central Claim - Insight Crunch](/assets/images/blog/blog-80.webp)
+![SAT Reading: Main Idea, Purpose, Central Claim - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 A single short text scrolls onto the screen. Below it sits a question that looks almost too simple: which choice best states the main idea? Four options follow, each grammatical, each plausible, each drawn from words you actually read. Three of them are wrong, and they are wrong in ways the test-maker engineered on purpose. Students lose this point not because the prose was hard but because the question quietly asks three different things at once, and the reader answers the wrong one of the three.
 

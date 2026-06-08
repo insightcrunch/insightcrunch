@@ -6,7 +6,7 @@ date: 2007-03-05
 categories: ["Leisure"]
 tags: ["george-washington", "close-read", "us-presidents", "farewell-address", "alexander-hamilton", "presidential-rhetoric"]
 excerpt: "Washington's Farewell was drafted with Hamilton, then revised heavily by Washington himself, and its warnings on faction and foreign alliance still echo."
-image: "/assets/images/blog/blog-53.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 author: "amanda-ross"
 last_updated: 2026-06-02
@@ -16,7 +16,7 @@ On the morning of September 19, 1796, a printer named David Claypoole sat in his
 
 That detail matters more than it first appears, because the address has been remembered for two centuries as if George Washington climbed a rostrum and delivered it through a rising tide of applause. He did nothing of the kind. He released it to the press, declined to read it aloud, and let it travel the country at the speed of reprinting. Within weeks newspapers from Massachusetts to Georgia had carried it forward, and the text began its long second life as scripture for a political tradition that would invoke it, distort it, weaponize it, and quietly ignore it for the next two hundred years. To understand what the Farewell Address actually says, and who actually wrote it, is to understand something fundamental about how the early republic decided what a president was supposed to be, and how far later presidents would drift from that template while still claiming its authority.
 
-![Washington Farewell Address 1796 Hamilton edits close read of the layered drafting - Insight Crunch](/assets/images/blog/blog-53.webp)
+![Washington Farewell Address 1796 Hamilton edits close read of the layered drafting - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 ## The Manuscript Nobody Owns Alone
 

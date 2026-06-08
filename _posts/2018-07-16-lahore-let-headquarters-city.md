@@ -6,7 +6,7 @@ date: 2018-07-16
 categories: ["Industry"]
 tags: ["lahore", "lashkar-e-taiba", "hafiz-saeed", "headquarters", "targeted-killings"]
 excerpt: "How Lahore functions as LeT's headquarters city, Hafiz Saeed's stronghold, and how the shadow war has penetrated Pakistan's cultural and garrison capital."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2018-07-16
@@ -16,7 +16,7 @@ This is two cities at once. The first is Pakistan's cultural capital, the seat o
 
 <!--more-->
 
-![Lahore LeT Headquarters City Shadow War](/assets/images/blog/blog-84.webp)
+![Lahore LeT Headquarters City Shadow War](/assets/images/blog/blog-29.webp)
 
 Lahore's position in India's shadow war is not incidental. The city was chosen by LeT's leadership precisely because it offers every strategic advantage a non-state armed group operating inside a host state could want. The provincial capital of Punjab, Pakistan's most powerful province, Situated within 30 kilometres of the Indian border at Wagah, giving its residents the symbolic satisfaction of proximity to the enemy and the practical advantage of short infiltration corridors. The city houses Pakistan's IV Corps military headquarters, whose presence provides an ambient security architecture that makes covert surveillance and targeted operations harder than in lawless Karachi. Hafiz Saeed chose Lahore as his permanent address. His deputy Amir Hamza called it home. The Khalistan Commando Force chief Paramjit Singh Panjwar spent three decades in Lahore before unknown gunmen shot him during a morning walk in May 2023. The city is not incidentally associated with Pakistan's terror infrastructure. It is the infrastructure's preferred address.
 

@@ -6,7 +6,7 @@ date: 2007-11-13
 categories: ["Leisure"]
 tags: ["george-h-w-bush", "counterfactual", "us-presidents", "gulf-war", "iraq-occupation", "saddam-hussein"]
 excerpt: "Bush Sr. stopped at Kuwait in 1991. If he had continued to Baghdad, the 2003 playbook runs twelve years early. Three historians argue what would differ."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-82.webp"
 reading_time: 63
 author: "rachel-foster"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 At 8:00 p.m. Washington time on February 27, 1991, George H.W. Bush walked into the Oval Office, faced a television camera, and announced that Kuwait was liberated and that the coalition would suspend offensive combat operations at midnight. One hundred hours after the ground war began, the Iraqi army was a wreck on the road north from Kuwait City, the Republican Guard's heavy divisions were either destroyed or fleeing across the Euphrates, and the road to Baghdad was, in the literal military sense, open. Bush halted. The decision has been replayed in every American foreign-policy argument since 2003, when his son inherited the unfinished problem and chose differently. The question this article asks is the narrow counterfactual one: if Bush Sr. had continued to Baghdad in 1991, what would have been different from the 2003 invasion that actually occurred twelve years later? Would the Arab coalition have held? Would Saddam Hussein have been captured or killed? Would the occupation have settled differently than the 2003 through 2011 occupation under the son? Would the 2001 through 2009 foreign-policy arc have looked unrecognizable because Iraq had been resolved a decade earlier?
 
-![George H.W. Bush 1991 Gulf War halt at Kuwait Baghdad counterfactual - Insight Crunch](/assets/images/blog/blog-87.webp)
+![George H.W. Bush 1991 Gulf War halt at Kuwait Baghdad counterfactual - Insight Crunch](/assets/images/blog/blog-82.webp)
 
 Three serious historians give three different answers. Michael Gordon and Bernard Trainor, in The Generals' War, argue that the military advance to Baghdad was viable and that the occupation that followed would have resembled the 2003 through 2011 occupation in difficulty, duration, and human cost. Jeffrey Engel, in When the World Seemed New, argues that the Arab coalition's near-certain collapse on any move past Kuwait's northern border would have made the occupation strategically catastrophic regardless of American military capacity, and that the international legitimacy that made the actual 1991 operation possible would have evaporated within days of a Baghdad advance. Jon Meacham, in Destiny and Power, argues that Bush Sr.'s superior coalition-management skills and the fresher international legitimacy of 1991 would have produced better occupation outcomes than his son's 2003 attempt managed, though Meacham concedes the occupation would still have been hard. This article walks through the actual 1991 conditions, then runs each historian's reading against six specific counterfactual questions, then renders a verdict on which reading the evidence best supports.
 

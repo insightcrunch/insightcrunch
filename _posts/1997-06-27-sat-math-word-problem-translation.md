@@ -6,7 +6,7 @@ date: 1997-06-27
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Word Problems", "Problem Solving", "Strategy"]
 excerpt: "SAT word problems decoded: a translation dictionary, the \"let\" statement, total-cost and rate templates, and the answer-the-question trap, with worked examples."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 59
 author: "patrick-dunn"
 last_updated: 1997-06-27
@@ -14,7 +14,7 @@ lang: en
 ---
 A typical Digital SAT math item does not hand you an equation and ask you to solve it. It hands you a sentence about a moving van, a phone plan, two painters, or a chemist mixing acid, and it expects you to build the equation yourself before any algebra begins. That hidden step, turning ordinary language into symbols, is where most lost points actually go. The arithmetic is rarely the hard part. The translation is. A test-taker who can solve every clean equation in a textbook can still stall on the section because the section refuses to arrive in textbook form. It arrives as paragraphs.
 
-![SAT math word problem translation dictionary and let statement worked examples - Insight Crunch](/assets/images/blog/blog-19.webp)
+![SAT math word problem translation dictionary and let statement worked examples - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 This guide treats translation as the single most transferable skill on the quantitative side of the exam. It is more portable than any one topic, because the majority of the section is presented as language rather than as bare symbols, and the same decoding habit unlocks an algebra prompt, a geometry prompt, a data prompt, and a rate prompt alike. What you will leave with is concrete: a two-column dictionary that maps each English phrase to its operation, the discipline of writing a "let" statement before you touch the algebra, a small set of templates that cover the recurring scenarios (total cost, combined work, distance and speed, ages, mixtures), and a defense against the most expensive single error in the entire section, the one where a candidate solves for the right value and then bubbles the wrong one. None of this is talent. All of it is process.
 

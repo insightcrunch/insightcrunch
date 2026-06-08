@@ -6,7 +6,7 @@ date: 2008-01-13
 categories: ["Leisure"]
 tags: ["bill-clinton", "decision-reconstruction", "us-presidents", "nafta", "free-trade", "ross-perot"]
 excerpt: "Clinton passed NAFTA in 1993 with more Republican than Democratic House votes. Perot warned of a giant sucking sound south. Gore broke him in TV debate."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 64
 author: "chloe-martin"
 last_updated: 2008-01-13
@@ -14,7 +14,7 @@ lang: en
 ---
 The East Room of the White House, September 14, 1993, just past ten in the morning. Behind a long table sit four men who between them have governed the United States for twenty of the previous twenty-five years. Jimmy Carter is on the far left, smiling thinly. Gerald Ford sits to his right, looking like a man surprised to find himself anywhere ceremonial. George H. W. Bush, defeated only ten months earlier by the man now standing at the lectern, leans forward with the practiced public composure of a one-term president still figuring out what to do with his afternoons. And Bill The President, forty-seven years old, eight months into his presidency, is asking three former presidents to lend him their reputations on a bill that the leadership of his own party is preparing to kill.
 
-![Clinton NAFTA 1993 East Room signing ceremony three former presidents - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Clinton NAFTA 1993 East Room signing ceremony three former presidents - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 The bill in question is the North American Free Trade Accord, a tariff-reduction and investment-protection treaty negotiated by the Bush administration in the fall of 1992 and signed in December of that year by Bush, Brian Mulroney of Canada, and Carlos Salinas de Gortari of Mexico. The President had inherited the agreement in January 1993 as a not-quite-finished political problem. His Democratic majorities in both chambers were drawn heavily from labor-aligned districts where the Auto Workers and the Steelworkers and the Teamsters were already mobilizing against a deal they treated as an existential threat. His Lower chamber Majority Leader, Richard Gephardt of Missouri, opposed the accord publicly. His House Whip, David Bonior of Michigan, was preparing to run the most aggressive anti-The pact whip operation in the chamber's modern history. The President of the United States was about to spend the political capital of an eight-month-old administration on a vote that his own majority leader and his own whip were trying to defeat. By the time the House gavel fell on the night of November 17, 1993, NAFTA had passed by a margin of 234 to 200, with 132 Republican yea votes against only 102 Democratic yea votes. A Democratic president had won the largest commerce vote of his presidency by leaning on the opposition party against the leadership of his own.
 

@@ -6,7 +6,7 @@ date: 2022-05-30
 categories: ["Technology"]
 tags: ["Azure", "Azure Virtual Machines", "RDP", "Troubleshooting", "Networking", "Cloud Computing"]
 excerpt: "An Azure VM RDP connection error sits in one of four layers: network path, the service, authentication, or guest state. Localize it, then fix the right one."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 59
 author: "ryan-walsh"
 last_updated: 2022-05-30
@@ -14,7 +14,7 @@ lang: en
 ---
 The screen says the same thing it always says. Remote Desktop cannot connect to the remote computer. There is no exception detail, no log line in front of you, no clue about which of a dozen wholly different problems is the one biting you right now. An Azure VM RDP connection error is one symptom worn by causes that share nothing with each other. A deleted firewall rule and a patched-out authentication protocol produce the identical red banner, and the instinct that follows, restart the machine and try again, fixes neither of them and costs you ten minutes per attempt while a production box stays unreachable.
 
-![Diagnosing an Azure VM RDP connection error across four layers](/assets/images/blog/blog-14.webp)
+![Diagnosing an Azure VM RDP connection error across four layers](/assets/images/blog/blog-11.webp)
 
 This guide is built to end that guessing. Rather than march through a list of twenty fixes in the hope that one lands, you will learn to localize the failure to the single layer it lives in before you change anything at all. The error message you can already see, plus two or three quick checks that need no inbound session, tell you whether you are dealing with the network, the Remote Desktop service inside the guest, the authentication handshake, or the state of the operating system after sign-in. Once the layer is named, the fix is short and the right command is obvious. The reboot-and-pray habit dies here, replaced by a method that turns a vague banner into a precise diagnosis.
 

@@ -6,7 +6,7 @@ date: 2013-11-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ron Weasley", "Draco Malfoy", "Pure-Blood Politics"]
 excerpt: "A Harry Potter comparison of Ron Weasley and Draco Malfoy: two pure-blood boys whose family cultures, not their blood, produced opposite definitions of worth."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 41
 author: "emily-reed"
 last_updated: 2013-11-21
@@ -18,7 +18,7 @@ The question is not which of these two boys you would rather sit beside on the H
 
 Rowling builds her wizarding world on a bigotry that pretends to be biology. The pure-blood ideology insists that magical worth is carried in the blood, that families like the Malfoys and the Weasleys belong to a natural aristocracy, and that everyone else exists somewhere lower on a ladder fixed by birth. Yet the author then does something subversive with that premise. She gives the reader two families who occupy the identical rung of the blood ladder and lets them produce children who are moral opposites. The Weasleys are pure-blood and poor and warm. The Malfoys are pure-blood and rich and cold. If blood determined worth, the sons of these two houses would be interchangeable. They are nothing alike. The whole architecture of the comparison is designed to dismantle the ideology that the wizarding world's villains live by.
 
-![Two young wizards on opposite paths, illustrating the contrast between the Weasley and Malfoy family cultures](/assets/images/blog/blog-61.webp)
+![Two young wizards on opposite paths, illustrating the contrast between the Weasley and Malfoy family cultures](/assets/images/blog/blog-64.webp)
 
 So the real subject here is not blood at all. It is what families do with their children once blood has stopped being the explanation. Arthur and Molly's son inherits downward mobility wrapped in affection. Lucius and Narcissa's son inherits upward expectation wrapped in chill. The two inheritances are arguments, and the boys are the proofs. Read carefully, this pairing becomes the series' most sustained demonstration that family practice, not family status, is the thing that makes a person. Worth, the comparison insists, is taught at the dinner table, not encoded in the blood.
 

@@ -6,7 +6,7 @@ date: 2008-09-28
 categories: ["Leisure"]
 tags: ["andrew-jackson", "decision-reconstruction", "us-presidents", "second-bank", "veto-power", "jacksonian-era"]
 excerpt: "Andrew Jackson vetoed the Bank recharter on July 10, 1832. The 4,500-word message transformed the veto from constitutional check into political weapon."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 64
 author: "rachel-foster"
 last_updated: 2008-09-28
@@ -16,7 +16,7 @@ lang: en
 
 On the morning of July 10, 1832, a secretary carried a leather portfolio from the President's House to the Senate chamber. Inside was a document of roughly 4,500 words bearing Andrew Jackson's signature and the heading "To the Senate." The document rejected an Act to renew the charter of the Second Bank of the United States, an institution scheduled to expire in 1836 but whose backers had pushed early renewal through Congress that summer. The rejection itself surprised nobody. Jackson had spent three years signaling open hostility to the Bank, beginning with his first annual message in December 1829, and Nicholas Biddle, the institution's president, had himself privately acknowledged that a Jackson veto was the most likely outcome of the early-recharter gambit. What surprised Washington was not the rejection but the document's reasoning.
 
-![Andrew Jackson 1832 Bank veto decision reconstruction policy weapon - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Andrew Jackson 1832 Bank veto decision reconstruction policy weapon - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 For forty-three years the presidential veto had been treated as a narrow constitutional safeguard. Washington had used it twice. Jefferson had not used it at all. Madison had used it seven times, Monroe once, John Quincy Adams not at all, and in each case where it had been deployed the stated grounds had been a question of constitutional authority rather than a question of legislative wisdom. The Framers in Philadelphia in 1787, in the debates that produced Article I Section 7, had treated the qualified negative as a check against legislative encroachment on either executive prerogative or constitutional limit, not as an instrument by which the executive could impose substantive policy preferences on lawmaking. Hamilton in Federalist 73 had described the veto as a defensive shield. The first six presidents had treated it as such.
 

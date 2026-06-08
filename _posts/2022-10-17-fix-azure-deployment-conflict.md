@@ -6,7 +6,7 @@ date: 2022-10-17
 categories: ["Technology"]
 tags: ["Azure", "ARM", "Troubleshooting", "DevOps", "Deployment", "Cloud Computing"]
 excerpt: "An Azure deployment conflict error means another operation already owns the resource. Learn the four root causes, their confirming checks, and how to fix each."
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 60
 author: "alex-cunningham"
 last_updated: 2022-10-17
@@ -14,7 +14,7 @@ lang: en
 ---
 An Azure deployment conflict error is the platform telling you that the change you just submitted cannot proceed because something else already owns the resource you are touching. The wording varies. You might see a bare `409 Conflict` returned from the Azure Resource Manager API, a deployment that fails with the message that another operation is in progress, a write that is rejected because a lock forbids it, or a create that fails because the name is already taken or the resource sits in a transitioning state. Whatever the surface text, the underlying meaning is consistent: the control plane has decided that your operation and the current state of the resource cannot both be true at the same moment, so it refuses yours rather than corrupting the resource.
 
-![Diagnosing Azure deployment conflict errors and the 409 control-plane race - Insight Crunch](/assets/images/blog/blog-79.webp)
+![Diagnosing Azure deployment conflict errors and the 409 control-plane race - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 That single meaning is the most useful thing to carry into the diagnosis, because it reframes the whole problem. A conflict is not a transient network blip and it is not usually a bug in your template. It is a statement about ownership and timing. Some other operation, some lock, or some property of the existing resource is incompatible with what you asked for right now. The engineer who internalizes that stops doing the thing almost everyone does first, which is to rerun the deployment immediately and hope. Rerunning collides with the very same in-progress operation or the very same lock that produced the first rejection, and the second attempt fails for the identical reason. The work of fixing a conflict is the work of finding out who or what currently owns the resource, and then either waiting for that owner to finish, removing the thing that blocks you, or serializing your own operations so they stop racing each other.
 

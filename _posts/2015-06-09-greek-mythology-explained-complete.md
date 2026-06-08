@@ -8,7 +8,7 @@ slug: greek-mythology-explained-complete
 categories: ["Leisure"]
 tags: ["greek-mythology", "ancient-greek-religion", "olympian-gods", "ancient-greece", "religious-history", "ancient-history"]
 excerpt: "Greek mythology is not a story collection. It is a religious system that organized polis life, civic festivals, and political legitimacy for a thousand years."
-image: "/assets/images/blog/blog-61.webp"
+image: "/assets/images/blog/blog-35.webp"
 author: "diana-patel"
 reading_time: 70
 lang: en
@@ -19,7 +19,7 @@ Greek mythology is not a story collection. It is not a compilation of charming f
 
 This distinction matters because the dominant modern treatment of Greek mythology, from Edith Hamilton's hugely influential 1942 *Mythology* through countless modern retellings, presents the myths primarily as a catalog of literary stories: Zeus pursuing mortals, Odysseus outwitting monsters, Achilles brooding over honor, Persephone eating the pomegranate that dooms her to winter's absence. These stories are real, and they are extraordinary. But presenting them as a story collection rather than as the narrative layer of a functioning religious system produces a fundamental misreading. It treats Greek mythology as ancient fiction rather than ancient theology, which is roughly equivalent to treating the Book of Genesis as a short story collection and wondering why people took it so seriously. The narrative is inseparable from the institution it serves. To understand one properly, you must understand both.
 
-![Greek Mythology Explained - Insight Crunch](/assets/images/blog/blog-61.webp)
+![Greek Mythology Explained - Insight Crunch](/assets/images/blog/blog-35.webp)
 
 The argument of this article is that Greek mythology is best understood through an institutional lens - specifically, through a four-function operational model applied to Greek religion as a civic institution. The myths were not incidentally connected to Greek religious practice; they were constitutive of it. The stories of the Olympians provided the narrative logic that justified temple construction, mandated festival observance, legitimated ruling dynasties, authorized oracle consultation, organized colonial foundations, and structured the competitive games that served both athletic and religious functions simultaneously. When an Athenian citizen participated in the Panathenaic festival each summer, he was not engaging in cultural entertainment in any way recognizable to the modern concept. He was performing his civic-religious obligation in a system whose mythological narrative told him exactly why Athena deserved the honor, what Athens had to thank her for, and what would happen to the city if the ritual was neglected or improperly observed.
 

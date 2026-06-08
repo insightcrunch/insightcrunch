@@ -6,7 +6,7 @@ date: 2013-06-07
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Magical Creatures", "Buckbeak", "Fawkes", "Thestrals"]
 excerpt: "How the magical creatures of Harry Potter mirror their human counterparts, from Buckbeak and Sirius to Fawkes and Dumbledore, read as the story's shadow."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-28.webp"
 reading_time: 57
 author: "sarah-mitchell"
 last_updated: 2013-06-07
@@ -16,7 +16,7 @@ lang: en
 
 There is a habit among readers, and among the films that shaped how a generation pictures Hogwarts, of treating the magical animals of this world as set dressing. The Hippogriff is a thrilling ride. The phoenix is a beautiful effect. The giant spiders are a scare, the dragons a spectacle, the house-elves a source of comedy and occasionally of guilt. Sort the beasts into the category of wonder, admire them, and move on to the humans, where the real story is presumed to live.
 
-![Magical creatures as character mirrors across the Harry Potter books](/assets/images/blog/blog-76.webp)
+![Magical creatures as character mirrors across the Harry Potter books](/assets/images/blog/blog-28.webp)
 
 This is a misreading, and it is the most consequential misreading the series invites. The animals are not decoration. They are a second cast, running parallel to the human one, and each significant beast carries a meaning that the human beside it cannot say aloud. Sirius Black cannot articulate that he is a proud creature wrongly caged and half-feral by the time he gets out; the Hippogriff he saves does it for him. Dumbledore cannot tell a teenage boy that wisdom requires the willingness to burn down to ash and begin again; the bird on the perch behind his desk has been demonstrating it for centuries. Voldemort cannot grasp that the only relationship he can sustain is one of mutual consumption; the snake he feeds and confides in is the shape of that incapacity. The bestiary is the emotional shadow-system of the books, and the shadow is frequently the deepest layer of the text.
 

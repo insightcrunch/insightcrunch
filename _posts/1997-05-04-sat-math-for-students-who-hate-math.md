@@ -6,7 +6,7 @@ date: 1997-05-04
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Beginner", "Study Plan", "Test Prep"]
 excerpt: "SAT math for students who dread it: an empathetic ground-up path, the minimum topics for a solid base, Desmos as support and a calm eight-week study plan."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
 author: "maria-santos"
 last_updated: 1997-05-04
@@ -14,7 +14,7 @@ lang: en
 ---
 If you opened the calculator portion of a practice test and felt your chest tighten before you read a single line, this guide is written for you specifically. Not for the kid who finished AP Calculus a year early. For the student who has been told, gently or otherwise, that they are "not a math person," and who has half believed it for so long that the belief now feels like a fact about the world rather than a story someone once told them. SAT math, for that student, is rarely a content problem first. It starts as a feeling, and the feeling shuts the thinking down before the thinking gets a chance.
 
-![SAT math for students who hate math, a calm step-by-step path from the ground up - Insight Crunch](/assets/images/blog/blog-31.webp)
+![SAT math for students who hate math, a calm step-by-step path from the ground up - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 Here is the claim this article will defend, and it is the opposite of the story you have been carrying. The quantitative section of the digital exam is not a measure of how clever you were born. It is a measure of how many specific, nameable, repeatable patterns you have practiced until they stopped feeling like riddles. That distinction is the whole game. A riddle either clicks or it does not, and if it does not, you feel stupid. A pattern is something anyone can learn by seeing it enough times with the answer attached. Every point on this test sits on top of a pattern. The student who hates the subject is almost never short on intelligence. They are short on calm, repeated exposure to a small number of patterns, and that shortage is fixable in weeks, not years.
 

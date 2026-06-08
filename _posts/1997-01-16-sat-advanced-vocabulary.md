@@ -6,7 +6,7 @@ date: 1997-01-16
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Vocabulary", "Context Clues", "Word Choice"]
 excerpt: "SAT advanced vocabulary in context explained: connotation, precision and register, the substitute-and-reread method and word clusters, with 200 curated words."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-56.webp"
 reading_time: 60
 author: "katherine-blake"
 last_updated: 1997-01-16
@@ -14,7 +14,7 @@ lang: en
 ---
 A student sits in front of the screen and reads a short passage about a nineteenth-century botanist who kept meticulous records. The blank asks for a single term to describe her record-keeping. Four choices wait below. Two of them, "thorough" and "exhaustive," both fit the loose idea of careful work. The student, primed by years of being told that a bigger vocabulary signals a sharper mind, reaches for "exhaustive" because it sounds more impressive. The scoring engine marks it wrong. The passage praised her steady, complete habits, not a draining or all-consuming effort, and "exhaustive" carries the second sense of wearing something out. One blank, one reflex, fifteen lost points across a section that turns on exactly this reflex.
 
-![SAT Reading: Vocabulary in Context, Advanced - Insight Crunch](/assets/images/blog/blog-20.webp)
+![SAT Reading: Vocabulary in Context, Advanced - Insight Crunch](/assets/images/blog/blog-56.webp)
 
 This guide is about the reflex and how to break it. The hardest vocabulary items on the digital SAT do not reward students who have memorized the most obscure terms. They reward students who can tell two close words apart on the strength of connotation, precision, and register, then confirm the fit by reading the choice back into the sentence. The skill you need is not a longer list of rare entries. It is a method for discriminating among near-synonyms when every remaining option is a real word you already half-know.
 

@@ -6,7 +6,7 @@ date: 1996-09-03
 categories: ["Industry"]
 tags: ["SAT", "Study Plan", "Free Resources", "Budget", "Fee Waivers"]
 excerpt: "SAT prep on a budget: a zero-dollar strategy using free official tools, practice resources and fee waivers that can rival expensive tutoring, with a plan."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-15.webp"
 reading_time: 60
 author: "patrick-dunn"
 last_updated: 1996-09-03
@@ -14,7 +14,7 @@ lang: en
 ---
 A private tutor at a hundred and twenty dollars an hour for two sessions a week across a four-month run will cost a family something close to four thousand dollars. A brand-name course package lands in the same neighborhood. The pitch behind those numbers is that scores are bought: that the student whose parents can write the check walks into the exam with an advantage the rest cannot reach. That pitch is wrong, and the gap between what prep costs and what actually moves a score is the single most useful thing a budget student can understand before spending a dollar.
 
-![SAT prep on a budget free and low-cost study plan with fee waivers - Insight Crunch](/assets/images/blog/blog-65.webp)
+![SAT prep on a budget free and low-cost study plan with fee waivers - Insight Crunch](/assets/images/blog/blog-15.webp)
 
 Here is what the expensive package is really selling, stripped of the marketing: a study schedule, accountability, official-style questions, worked solutions, and someone to answer the occasional question. Every one of those five components is available at no charge to any student with an internet connection and the discipline to sit down and use it. The schedule you can build yourself from a calendar. The accountability you can rent for free from a study partner or an online group. The questions and worked solutions exist in official tools and in the practice sets at ReportMedic. The occasional answered question is the only piece a paid tutor delivers that a no-cost plan delivers less reliably, and even that gap closes when you learn to read your own errors. What predicts improvement is not the price of the plan. It is the number of focused, diagnosed practice hours the student logs, and a student with a library card and a quiet hour after dinner can log as many of those as a student whose parents hired help.
 

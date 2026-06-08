@@ -6,7 +6,7 @@ date: 2012-01-11
 categories: ["Industry"]
 tags: ["masood-azhar", "jaish-e-mohammed", "ic-814", "pathankot", "pulwama", "terrorism"]
 excerpt: "The complete profile of Masood Azhar, the Bahawalpur cleric India released in the 1999 IC-814 swap who founded JeM and waged twenty-six years of terror."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 75
 author: "amit-chatterjee"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ On the morning of 31 December 1999, on a windswept tarmac at Kandahar's airport,
 
 <!--more-->
 
-![Masood Azhar Complete Profile - Insight Crunch](/assets/images/blog/blog-60.webp)
+![Masood Azhar Complete Profile - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 This is the central biographical fact of India's twenty-six-year shadow war: every targeted killing across Karachi, Lahore, Sialkot, and Bahawalpur traces back, by a chain of consequence no participant in 1999 could foresee, to the moment a hostage crisis was resolved by handing three militants over to a Taliban regime that would shelter them just long enough for them to walk south into Pakistan. The hijackers wanted four men freed. India released three. One of those three is the subject of this article. The other two, Ahmed Omar Saeed Sheikh and Mushtaq Ahmed Zargar, deserve their own studies. But the man who founded a parallel jihadist enterprise the moment he crossed into Pakistani territory, who married a niece of the chief of Pakistan's most powerful religious party, who recruited fighters at Friday sermons in Karachi, who was photographed in Islamabad addressing crowds of ten thousand armed men eight months after his release, is the figure whose career most exhaustively answers the question that hangs over the entire shadow war: what does a state owe a person it should never have released?
 

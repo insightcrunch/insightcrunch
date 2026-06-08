@@ -6,7 +6,7 @@ date: 2017-07-31
 categories: ["Industry"]
 tags: ["dhurandhar", "motorcycle", "assassinations", "real-operations", "reel-vs-real"]
 excerpt: "Comparing Dhurandhar's signature motorcycle assassination sequences with the documented targeted killings across Pakistan and what convergence reveals."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-07-31
@@ -16,7 +16,7 @@ The motorcycle is the shadow war's calling card, and Dhurandhar knew it. When Ra
 
 <!--more-->
 
-![Dhurandhar Motorcycle Hits vs Real Ops - Insight Crunch](/assets/images/blog/blog-41.webp)
+![Dhurandhar Motorcycle Hits vs Real Ops - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 This article places Dhurandhar's five major motorcycle assassination sequences side by side with documented real cases and compares them across seven operational dimensions: rider count, approach route type, weapon choice, firing distance, target location, escape method, and aftermath. The comparison reveals not a coincidental overlap between fiction and reality but a systematic convergence that raises uncomfortable questions about what the filmmakers knew, when they knew it, and whether Bollywood's most commercially successful counter-terror film was drawing from classified operational playbooks or simply reading the same pattern any careful observer could reconstruct from public reporting. Defense journalist Rahul Bedi has noted that several of the film's operational details are consistent with documented intelligence tradecraft, while film critic Siddhant Adlakha has argued that Bollywood action choreography, for all its emphasis on spectacle, has increasingly pursued a kind of gritty realism that lends itself to accurate depiction almost by default. The truth, as the seven-dimension comparison matrix in this article demonstrates, lies somewhere between those positions: certain elements of Dhurandhar's motorcycle sequences are so precisely accurate that coincidence strains credulity, while others are so theatrically embellished that no intelligence professional would mistake them for training footage.
 

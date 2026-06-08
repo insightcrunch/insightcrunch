@@ -6,7 +6,7 @@ date: 2012-08-14
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Ginny Weasley", "Chamber of Secrets", "Weasley Family"]
 excerpt: "Ginny Weasley in Harry Potter, from possessed first-year to fierce warrior, reading the character Rowling intended against the one she actually wrote."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-01.webp"
 reading_time: 68
 author: "victoria-stone"
 last_updated: 2012-08-14
@@ -16,7 +16,7 @@ lang: en
 
 There is a horror novel buried inside *Harry Potter and the Chamber of Secrets*, and Rowling never quite wrote it. An eleven-year-old girl, the youngest of seven and the only daughter of a family that loves her openly, arrives at her first year of magical schooling carrying a diary she found in her cauldron of secondhand books. The diary writes back. It is friendly. It listens. It seems, for the first time in her life, to give her the attention that six older brothers and a famously loud household have made it difficult to claim. By Christmas the diary has begun to lose pages of her writing inside its own. By spring she is waking covered in rooster feathers and unable to account for the lost hours. By the climax of that school year she has been carried into a chamber beneath the castle and laid out on the floor as a body emptying of life so that the boy in the diary can become solid again by drinking what is left of her.
 
-![Ginny Weasley character analysis across all seven Harry Potter books](/assets/images/blog/blog-24.webp)
+![Ginny Weasley character analysis across all seven Harry Potter books](/assets/images/blog/blog-01.webp)
 
 The girl survives. The boy who is not yet Voldemort is driven out by a basilisk fang and a phoenix and a sword Harry pulls from a hat. She wakes up sobbing. She is sent home for a brief recovery. She returns to school the following autumn and the narrative essentially never mentions any of this again. There are no nightmares the reader is allowed inside. There is no therapy. There are no flashbacks. The most psychologically devastating thing that happens to any child in the seven books happens to her, and the books treat the aftermath as a kind of furniture, present but unexamined.
 

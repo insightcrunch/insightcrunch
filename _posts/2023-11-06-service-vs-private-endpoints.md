@@ -6,7 +6,7 @@ date: 2023-11-06
 categories: ["Technology"]
 tags: ["Azure", "Private Endpoint", "Service Endpoint", "Networking", "Private Link", "Cloud Computing"]
 excerpt: "Service endpoints versus private endpoints in Azure differ on private IP, DNS, on-premises reach, and cost. Learn which one to choose and why it matters."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 64
 author: "jason-mckenzie"
 last_updated: 2023-11-06
@@ -16,7 +16,7 @@ Two features in Azure share a goal, securing traffic to a platform service so it
 
 This guide draws the line cleanly. By the end you will choose between the two by reasoning about four concrete questions, whether you need a stable private IP address, how name resolution has to behave, whether anything outside the virtual network has to reach the resource, and what you are willing to pay and operate. Those four questions decide every case. Get them straight and the rest follows.
 
-![Service endpoints versus private endpoints in Azure comparison of private IP, DNS, and on-premises reach - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Service endpoints versus private endpoints in Azure comparison of private IP, DNS, and on-premises reach - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 ## What each feature actually is
 

@@ -6,7 +6,7 @@ date: 1996-03-16
 categories: ["Industry"]
 tags: ["SAT", "Gap Year", "Score Validity", "Retake", "Test Prep"]
 excerpt: "SAT for gap year students: how long scores stay valid, keeping skills sharp during a non-academic year, and whether to retake, with a clear decision and plan."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 59
 author: "simon-hartley"
 last_updated: 1996-03-16
@@ -14,7 +14,7 @@ lang: en
 ---
 A student emails in late August, weeks before a gap year begins: the acceptance is deferred for a year, the plane ticket is booked, and a panicked thought has surfaced. Will the SAT result earned last spring still count when applications go out fourteen months from now? The fear behind that question costs real money and real time, because students who believe a strong result evaporates the moment they step off the academic treadmill sign up for a needless retake, lose a chunk of their gap year to prep they did not require, and arrive at the new test date rusty and anxious instead of relaxed and ready. The good news, and the spine of this entire guide, is that an SAT result earned in high school does not vanish because a year off follows it. For a gap year student, the testing question is rarely whether the old number expired. It is whether the old number is high enough, whether a year away from coursework will dull the skills enough to matter, and whether a deliberate retake would buy a better outcome than simply submitting what already exists.
 
-![SAT for Gap Year Students - Insight Crunch](/assets/images/blog/blog-49.webp)
+![SAT for Gap Year Students - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 This guide answers all three. It treats score validity as the foundation, because everything downstream depends on knowing the window. It builds a clear decision aid that maps a competitive result to "rely on it" and a weaker result with time to spare to "retake on purpose." And it lays out two readiness paths that look nothing alike: a light stay-sharp routine for the student who already has the number and only needs to protect it, and a focused six-to-eight-week sprint for the student who chose to climb. By the close you will know exactly which path is yours, when to sit the exam relative to your year away, and how to present the whole arrangement on an application without a hint of apology, because a well-planned year off reads as initiative, not as a gap to explain.
 

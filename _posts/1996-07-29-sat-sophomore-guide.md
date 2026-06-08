@@ -6,7 +6,7 @@ date: 1996-07-29
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Sophomore", "Early Prep", "Timeline"]
 excerpt: "SAT for sophomores: the PSAT as a baseline, foundational skills that serve school and the SAT, and when formal prep should actually begin, with a timeline."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 61
 author: "christopher-wells"
 last_updated: 1996-07-29
@@ -14,7 +14,7 @@ lang: en
 ---
 A tenth grader who spends sophomore fall grinding through timed practice sections is solving the wrong problem two years early. The exam that decides college options is still eighteen months away from mattering, the math that anchors a third of it has not been fully taught in class yet, and the single activity with the highest long-term payoff is one no timed drill can replace: reading widely, every week, for the pleasure and the volume of it. Sophomore year is not the year to cram. It is the year to build the floor that everything else stands on, and to set one low-pressure marker so the work that begins later starts from a known place rather than a guess.
 
-![SAT for sophomores PSAT baseline foundational skills and timeline - Insight Crunch](/assets/images/blog/blog-57.webp)
+![SAT for sophomores PSAT baseline foundational skills and timeline - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 That is the claim this guide defends, and it runs against the instinct of a lot of anxious households. Parents who watched older siblings scramble in twelfth grade decide the fix is to start the younger one at fourteen, and a whole tutoring market exists to sell that fear back to them. The honest counter is that two years of timed practice rarely produces a higher result than one focused year built on top of strong reading and rigorous coursework. It usually produces a burned-out junior who resents the assessment before the work that counts has even begun. What a tenth grader actually needs is awareness of how the path is shaped, a baseline that costs nothing emotionally, and a set of habits that serve the report card and the eventual college entrance exam at the same time. Get those three right and the formal preparation that opens in spring of this grade or fall of the next has a running start that no early cramming can buy.
 
