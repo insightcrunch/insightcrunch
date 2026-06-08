@@ -1,0 +1,305 @@
+{%- comment -%}
+  InsightCrunch "My Notes" — a basic per-reader scratchpad with multiple notes.
+  Bottom-left button opens a typing area; minimize collapses it back.
+  A dropdown in the header switches between notes; "New note" adds one.
+  Notes are saved site-wide in localStorage (key: ic_my_notes_v2, JSON) so they
+  persist across posts and refreshes on the same device. No backend.
+  Class prefix "mn-" is intentionally non-ad to avoid ad-blocker cosmetic rules.
+{%- endcomment -%}
+
+<style>
+.mn-wrap{position:fixed;left:18px;bottom:18px;z-index:9990;font-family:'Inter',sans-serif}
+
+/* Collapsed button */
+.mn-btn{
+  display:inline-flex;align-items:center;gap:7px;
+  padding:9px 15px;border:1px solid var(--amber-bd);border-radius:100px;
+  background:linear-gradient(135deg,var(--amber),var(--amber-lt));
+  color:#fff;font-size:12px;font-weight:600;letter-spacing:.3px;cursor:pointer;
+  box-shadow:0 4px 16px rgba(176,96,16,.28);transition:transform .15s,box-shadow .15s;
+}
+.mn-btn:hover{transform:translateY(-1px);box-shadow:0 6px 22px rgba(176,96,16,.36)}
+.mn-btn svg{width:14px;height:14px;fill:none;stroke:#fff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* Panel */
+.mn-panel{
+  position:absolute;left:0;bottom:0;width:300px;max-width:calc(100vw - 36px);
+  background:var(--s1);border:1px solid var(--amber-bd);border-radius:12px;
+  box-shadow:0 18px 50px rgba(60,35,10,.22),0 0 0 1px rgba(201,168,76,.15) inset;
+  overflow:hidden;opacity:0;transform:translateY(12px) scale(.97);
+  transform-origin:bottom left;pointer-events:none;
+  transition:opacity .22s ease,transform .22s cubic-bezier(.16,1,.3,1);
+}
+.mn-wrap.mn-open .mn-panel{opacity:1;transform:translateY(0) scale(1);pointer-events:auto}
+.mn-wrap.mn-open .mn-btn{display:none}
+
+.mn-head{
+  display:flex;align-items:center;gap:8px;
+  padding:9px 10px 8px 12px;border-bottom:1px solid var(--rule);
+  background:linear-gradient(135deg,var(--amber-bg),var(--s1) 80%);
+}
+
+/* Note dropdown */
+.mn-dd{position:relative;flex:1;min-width:0}
+.mn-dd-trigger{
+  display:flex;align-items:center;gap:6px;width:100%;
+  background:none;border:none;padding:3px 5px;border-radius:6px;cursor:pointer;
+  font-family:'Lora',serif;font-size:15px;font-weight:500;color:var(--esp);text-align:left;
+}
+.mn-dd-trigger:hover{background:rgba(176,96,16,.08)}
+.mn-dd-label{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.mn-dd-chev{width:14px;height:14px;flex-shrink:0;stroke:var(--soft);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round;transition:transform .2s}
+.mn-dd.open .mn-dd-chev{transform:rotate(180deg)}
+
+.mn-dd-list{
+  position:absolute;top:calc(100% + 6px);left:0;right:0;z-index:5;
+  background:var(--s1);border:1px solid var(--amber-bd);border-radius:9px;
+  box-shadow:0 12px 30px rgba(60,35,10,.2);
+  max-height:200px;overflow-y:auto;padding:5px;
+  opacity:0;transform:translateY(-6px);pointer-events:none;transition:opacity .16s,transform .16s;
+}
+.mn-dd.open .mn-dd-list{opacity:1;transform:translateY(0);pointer-events:auto}
+.mn-dd-item{display:flex;align-items:center;gap:8px;padding:7px 9px;border-radius:6px;cursor:pointer}
+.mn-dd-item:hover{background:rgba(176,96,16,.08)}
+.mn-dd-item.active{background:var(--amber-bg)}
+.mn-dd-item-t{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:13px;color:var(--ink)}
+.mn-dd-item.active .mn-dd-item-t{color:var(--amber);font-weight:600}
+.mn-dd-item-ts{flex-shrink:0;font-size:10px;color:var(--soft);font-variant-numeric:tabular-nums}
+.mn-dd-new{
+  display:flex;align-items:center;gap:6px;padding:8px 9px;margin-top:4px;
+  border-top:1px solid var(--rule);cursor:pointer;
+  font-size:12px;font-weight:600;color:var(--amber);
+}
+.mn-dd-new:hover{background:rgba(176,96,16,.08);border-radius:0 0 5px 5px}
+.mn-dd-new svg{width:14px;height:14px;stroke:var(--amber);stroke-width:2.2;fill:none;stroke-linecap:round}
+
+.mn-min{
+  flex-shrink:0;width:26px;height:26px;border-radius:6px;cursor:pointer;
+  border:1px solid var(--rule);background:var(--s1);color:var(--soft);
+  display:flex;align-items:center;justify-content:center;transition:all .15s;padding:0;
+}
+.mn-min:hover{color:var(--amber);border-color:var(--amber-bd)}
+.mn-min svg{width:14px;height:14px;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+
+.mn-body{padding:10px 12px}
+.mn-area{
+  width:100%;min-height:150px;max-height:42vh;resize:vertical;
+  border:1px solid var(--rule);border-radius:8px;background:#fffdf8;
+  padding:10px 11px;font-family:'Inter',sans-serif;font-size:13px;line-height:1.6;
+  color:var(--ink);outline:none;box-sizing:border-box;
+}
+.mn-area::placeholder{color:var(--soft)}
+.mn-area:focus{border-color:var(--amber-bd);background:#fff}
+
+.mn-note{
+  display:flex;align-items:flex-start;gap:6px;
+  padding:0 12px 6px;font-size:11px;line-height:1.5;color:var(--soft);
+}
+.mn-note svg{width:12px;height:12px;flex-shrink:0;margin-top:1px;stroke:var(--soft);stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+
+.mn-foot{display:flex;align-items:center;gap:8px;padding:8px 12px 11px;font-size:11px;color:var(--soft)}
+.mn-saved{display:inline-flex;align-items:center;gap:4px;color:var(--soft);font-weight:500}
+.mn-saved.saved{color:#1a7a3a}
+.mn-saved.saving{color:var(--amber)}
+.mn-saved svg{width:11px;height:11px;stroke:currentColor;stroke-width:2.4;fill:none;stroke-linecap:round;stroke-linejoin:round;opacity:0}
+.mn-saved.saved svg{opacity:1}
+.mn-counts{margin-left:auto;display:inline-flex;gap:10px;font-variant-numeric:tabular-nums;font-weight:600}
+.mn-words{color:var(--amber)}
+.mn-chars{color:#3a1070}
+
+@media (max-width:760px){
+  .mn-wrap{left:12px;bottom:12px}
+  .mn-btn{padding:8px 13px;font-size:11px}
+  .mn-panel{width:280px}
+  .mn-area{font-size:16px}
+}
+</style>
+
+<div class="mn-wrap" id="mnWrap">
+  <button class="mn-btn" id="mnOpen" aria-label="Open my notes">
+    <svg viewBox="0 0 24 24"><path d="M11 4H4v16h16v-7"/><path d="M18.5 2.5a2.12 2.12 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg>
+    My Notes
+  </button>
+
+  <div class="mn-panel" role="dialog" aria-label="My Notes">
+    <div class="mn-head">
+      <div class="mn-dd" id="mnDd">
+        <button class="mn-dd-trigger" id="mnTrigger" aria-haspopup="listbox" aria-expanded="false">
+          <span class="mn-dd-label" id="mnLabel">My Notes</span>
+          <svg class="mn-dd-chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="mn-dd-list" id="mnList" role="listbox"></div>
+      </div>
+      <button class="mn-min" id="mnMin" aria-label="Minimize notes" title="Minimize">
+        <svg viewBox="0 0 24 24"><path d="M5 12h14"/></svg>
+      </button>
+    </div>
+    <div class="mn-body">
+      <textarea class="mn-area" id="mnArea" placeholder="Jot down a thought as you read. Your notes save on their own as you type."></textarea>
+    </div>
+    <div class="mn-note">
+      <svg viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+      Saved only on this device, in this browser. No one else can see them, and they never leave your computer.
+    </div>
+    <div class="mn-foot">
+      <span class="mn-saved" id="mnSaved"><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg><span id="mnSavedTxt">Nothing saved yet</span></span>
+      <span class="mn-counts">
+        <span class="mn-words" id="mnWords">0 words</span>
+        <span class="mn-chars" id="mnChars">0 chars</span>
+      </span>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var V2='ic_my_notes_v2', ACTIVE='ic_my_notes_active', OPEN_KEY='ic_my_notes_open';
+  var OLD_KEY='ic_my_notes', OLD_TS='ic_my_notes_ts';
+
+  var wrap=document.getElementById('mnWrap'),
+      area=document.getElementById('mnArea'),
+      saved=document.getElementById('mnSaved'),
+      savedTxt=document.getElementById('mnSavedTxt'),
+      wordsEl=document.getElementById('mnWords'),
+      charsEl=document.getElementById('mnChars'),
+      btnOpen=document.getElementById('mnOpen'),
+      btnMin=document.getElementById('mnMin'),
+      dd=document.getElementById('mnDd'),
+      trigger=document.getElementById('mnTrigger'),
+      label=document.getElementById('mnLabel'),
+      list=document.getElementById('mnList');
+  if(!wrap||!area)return;
+
+  function read(k){try{return localStorage.getItem(k);}catch(e){return null;}}
+  function write(k,v){try{localStorage.setItem(k,v);}catch(e){}}
+  function genId(){return 'n'+Date.now().toString(36)+Math.random().toString(36).slice(2,6);}
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+
+  // ── State ──
+  var notes=[], activeId=null, listOpen=false, t=null;
+
+  function loadNotes(){
+    var raw=read(V2);
+    if(raw){try{var a=JSON.parse(raw);if(Array.isArray(a)&&a.length)return a;}catch(e){}}
+    // migrate a previous single note, if any
+    var old=read(OLD_KEY)||'', ts=read(OLD_TS);
+    return [{id:genId(),body:old,ts:(ts?+ts:(old?Date.now():0))}];
+  }
+  function saveNotes(){write(V2,JSON.stringify(notes));}
+  function idx(id){for(var i=0;i<notes.length;i++)if(notes[i].id===id)return i;return -1;}
+  function getActive(){var i=idx(activeId);return i>-1?notes[i]:notes[0];}
+
+  function titleOf(body){
+    body=body||'';
+    var lines=body.split('\n');
+    for(var i=0;i<lines.length;i++){var s=lines[i].trim();if(s)return s.length>30?s.slice(0,30)+'\u2026':s;}
+    return 'Untitled note';
+  }
+  function counts(){
+    var v=area.value;
+    var n=v.trim()?v.trim().split(/\s+/).length:0;
+    wordsEl.textContent=n+(n===1?' word':' words');
+    charsEl.textContent=v.length+(v.length===1?' char':' chars');
+  }
+  function fmtTime(ts){
+    var d=new Date(+ts), now=new Date();
+    var tm=d.toLocaleTimeString([],{hour:'numeric',minute:'2-digit'});
+    if(d.toDateString()===now.toDateString())return tm;
+    return d.toLocaleDateString([],{month:'short',day:'numeric'})+', '+tm;
+  }
+  function showSaved(ts){saved.classList.remove('saving');saved.classList.add('saved');savedTxt.textContent='Saved '+fmtTime(ts);}
+  function showSaving(){saved.classList.remove('saved');saved.classList.add('saving');savedTxt.textContent='Saving\u2026';}
+  function showEmpty(){saved.classList.remove('saved','saving');savedTxt.textContent='Nothing saved yet';}
+
+  function updateLabel(){label.textContent=titleOf(getActive().body);}
+
+  function renderList(){
+    var html='';
+    notes.forEach(function(n){
+      html+='<div class="mn-dd-item'+(n.id===activeId?' active':'')+'" data-id="'+n.id+'">'
+          +'<span class="mn-dd-item-t">'+esc(titleOf(n.body))+'</span>'
+          +(n.ts?'<span class="mn-dd-item-ts">'+fmtTime(n.ts)+'</span>':'')
+          +'</div>';
+    });
+    html+='<div class="mn-dd-new" id="mnNew"><svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>New note</div>';
+    list.innerHTML=html;
+  }
+
+  function pruneEmptyActive(){
+    if(notes.length<=1)return;
+    var i=idx(activeId);
+    if(i>-1 && !(notes[i].body && notes[i].body.trim())){notes.splice(i,1);saveNotes();}
+  }
+
+  function setActive(id){
+    if(id!==activeId)pruneEmptyActive();
+    activeId=id;write(ACTIVE,id);
+    var n=getActive();
+    area.value=n.body||'';
+    counts();updateLabel();
+    if(n.body && n.ts)showSaved(n.ts);else showEmpty();
+  }
+
+  function newNote(){
+    pruneEmptyActive();
+    var n={id:genId(),body:'',ts:0};
+    notes.unshift(n);saveNotes();
+    setActive(n.id);
+    closeList();area.focus();
+  }
+
+  function openList(){listOpen=true;dd.classList.add('open');trigger.setAttribute('aria-expanded','true');renderList();}
+  function closeList(){listOpen=false;dd.classList.remove('open');trigger.setAttribute('aria-expanded','false');}
+
+  function openPanel(){wrap.classList.add('mn-open');write(OPEN_KEY,'1');area.focus();}
+  function closePanel(){wrap.classList.remove('mn-open');write(OPEN_KEY,'0');closeList();}
+
+  // ── Init ──
+  notes=loadNotes();
+  var savedActive=read(ACTIVE);
+  activeId=(savedActive && idx(savedActive)>-1)?savedActive:notes[0].id;
+  saveNotes();write(ACTIVE,activeId);
+  setActive(activeId);
+  if(read(OPEN_KEY)==='1')wrap.classList.add('mn-open');
+
+  // ── Events ──
+  btnOpen.addEventListener('click',openPanel);
+  btnMin.addEventListener('click',closePanel);
+
+  trigger.addEventListener('click',function(e){
+    e.stopPropagation();
+    listOpen?closeList():openList();
+  });
+
+  list.addEventListener('click',function(e){
+    var nw=e.target.closest('#mnNew');
+    if(nw){newNote();return;}
+    var item=e.target.closest('.mn-dd-item');
+    if(item){setActive(item.getAttribute('data-id'));closeList();area.focus();}
+  });
+
+  document.addEventListener('click',function(e){
+    if(listOpen && !e.target.closest('#mnDd'))closeList();
+  });
+
+  area.addEventListener('input',function(){
+    counts();updateLabel();
+    if(!area.value)showEmpty();else showSaving();
+    if(t)clearTimeout(t);
+    t=setTimeout(function(){
+      var n=getActive();
+      n.body=area.value;
+      n.ts=area.value?Date.now():0;
+      saveNotes();
+      if(listOpen)renderList();
+      if(!area.value)showEmpty();else showSaved(n.ts);
+    },400);
+  });
+
+  document.addEventListener('keydown',function(e){
+    if(e.key!=='Escape')return;
+    if(listOpen){closeList();return;}
+    if(wrap.classList.contains('mn-open'))closePanel();
+  });
+})();
+</script>
