@@ -6,17 +6,17 @@ date: 2026-06-08
 categories: ["Industry"]
 tags: ["Industry", "Immigration", "H-1B Visa", "Legal", "Workforce", "Policy"]
 excerpt: "H-1B $100,000 fee struck down: a federal judge ruled it an unlawful tax Congress never approved, and the decision reshapes hiring for employers nationwide."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "marcus-hall"
 last_updated: 2026-06-08
+lang: en
 ---
-
 On June 8, 2026, a federal judge in Boston erased one of the most expensive immigration policies the country had ever seen. U.S. District Judge Leo T. Sorokin of the District of Massachusetts ruled that the Trump administration's $100,000 charge on new H-1B visa petitions was not a fee at all but a tax, and that the President had no power to impose a tax that Congress never authorized. In a 42-page decision, Sorokin vacated the policy nationwide, holding that it violated both the Administrative Procedure Act and the constitutional rule that places the taxing power in the hands of Congress. The H-1B $100,000 fee, in other words, was struck down not on the politics of immigration but on a far older question about who in the federal government is allowed to reach into a person's pocket.
 
 The ruling is the loudest moment yet in a fight that has been building since the autumn of 2025, and it lands the country in an unusual position: two federal trial judges, both appointed by the same president, have now looked at the same policy and reached opposite conclusions. To understand why this decision matters so much, and why it is far from the last word, you have to understand the policy it dismantled, the legal theory that brought it down, the conflicting ruling that came six months earlier, and the long shadow that a separate Supreme Court case about tariffs cast over the whole dispute. This is the full picture, assembled from the court record, agency guidance, and the economic data that frames what is genuinely at stake.
 
-![H-1B $100,000 fee struck down - Insight Crunch](/assets/images/blog/blog-01.webp)
+![H-1B $100,000 fee struck down - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 ## What the court actually decided
 
