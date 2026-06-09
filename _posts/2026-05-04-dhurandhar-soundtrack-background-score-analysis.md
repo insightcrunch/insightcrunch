@@ -6,19 +6,19 @@ date: 2026-05-04
 categories: ["Leisure"]
 tags: ["dhurandhar", "soundtrack", "shashwat-sachdev", "bollywood-music", "background-score", "film-music"]
 excerpt: "How Shashwat Sachdev's Dhurandhar score works like a character voicing Hamza's hidden self, plus every song, the Doja Cat gamble, and the sound design."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 71
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-05-04
+lang: en
 ---
-
 Every spy thriller asks the audience to believe that a man can hide his true self for years. Dhurandhar asks something stranger. It asks us to hear the self he hides. Across both installments of Aditya Dhar's espionage saga, Shashwat Sachdev composed a body of work that refuses to sit beneath the images as polite accompaniment. It speaks. It confesses. It grieves. In a story where Jaskirat Singh Rangi must bury his name, his faith, his family, and his own face under the borrowed identity of Hamza Ali Mazari, the orchestration becomes the only presence in the room that never lies.
 
 <!--more-->
 
 This is the claim that organizes everything below, and it is not a modest one. The received wisdom about Hindi-film scoring treats the background as a delivery system for feeling the screenplay has already spelled out: a string swell here to underline grief, a percussive jolt there to punctuate a thrown punch. Sachdev tears up that contract. His work for the duology behaves like a sentient figure with its own memory and its own appetite for contradiction, capable of saying the opposite of what the dialogue insists. When Hamza assures a Lyari crime boss that he feels nothing for the men he is about to betray, a single sustained cello line beneath the conversation tells us he is lying to everyone in the frame, himself included.
 
-![Shashwat Sachdev's Dhurandhar Score as a Character - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Shashwat Sachdev's Dhurandhar Score as a Character - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 To prove that reading, this piece will not march through the soundtrack track by track the way a magazine round-up would. That approach mistakes a catalog for an argument. Instead the analysis is organized by what the music actually does inside the narrative: how it narrates the protagonist's psychology when he cannot speak; how Sachdev's recurring melodic figures function as a private grammar that the careful listener learns to read; how the songs operate as load-bearing story beats instead of decorative interludes; why the series gambled on a Western pop artist for its first teaser and what that decision reveals; how the sonic palette mutates between the patient first chapter and the scorched second one; and how the design of pure noise, gunfire, breath, the hum of a Karachi street, does work that the orchestra alone could never accomplish. Only after building that case will the piece turn, as honest criticism must, to the places where the music overreaches, repeats itself, or substitutes volume for meaning.
 

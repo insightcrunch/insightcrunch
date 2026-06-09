@@ -8,17 +8,17 @@ tags: ["dhurandhar", "box-office-records", "bollywood", "franchise", "ranveer-si
 excerpt: "How a song-free, adults-only Hindi thriller outgrossed every masala blockbuster and shattered the box office records Bollywood had long believed unbreakable."
 image: /assets/images/blog/blog-01.webp
 reading_time: 72
-author: "Insight Crunch Team"
+author: "amit-chatterjee"
 last_updated: 2026-05-21
+lang: en
 ---
-
 There is a comfortable story Bollywood likes to tell about why its films succeed. The hero must be loved before he is feared. The runtime must respect the bladder. The interval must land on a high. There must be a song the wedding DJs can lean on, a comic sidekick to cut the tension, and a third act that sends everyone home reassured. For thirty years this template held, and the movies that broke earnings barriers were almost always the pictures that obeyed it most faithfully. Then a three-and-a-half-hour, adults-only spy picture with no item number, no comedy track, and a protagonist who spends most of the story lying to people he has come to love walked into theatres in December and proceeded to dismantle the entire ledger. The numbers it posted are astonishing on their own. What they actually represent is the collapse of an assumption that had governed Bollywood since the multiplex era began.
 
 <!--more-->
 
 This article is not a listicle. Any trade portal can stack the milestones in a column and call it journalism: fastest to a hundred, fastest to five hundred, biggest opening, highest single day. The figures matter, and we will walk through every one of them with the context that makes them legible. But the argument here is larger than arithmetic. The Dhurandhar franchise did not merely set new highs. It proved that the supposed rules connecting commercial success to a specific kind of crowd-pleasing formula were never rules at all. They were habits, mistaken for laws because nobody with the budget and the conviction had tried the alternative at full scale. When Aditya Dhar's duology outgrossed the cheeriest, broadest, most aggressively four-quadrant entertainers the industry had ever made, it revealed that the ceiling everyone believed in had been self-imposed.
 
-![Dhurandhar Box Office Records Broken - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Dhurandhar Box Office Records Broken - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 Consider the shape of the thing. The original, released on the fifth of December, finished its theatrical life with a worldwide haul in the neighbourhood of 1,350 crore, of which roughly 896 crore came from the Indian net and close to 293 crore arrived from overseas markets. Those are figures that, a few years ago, only a Baahubali sequel or an RRR could dream of, and both of those were spectacle-driven mythological or period epics built for the widest possible embrace. Dhurandhar got there with a grim, morally tangled infiltration thriller certified A by the censor board, which meant a meaningful slice of the family audience was locked out before a single ticket sold. Then, three months later, the second part did not just match the first. It lapped it. Releasing on the nineteenth of March across a holiday cluster that stacked Gudi Padwa, Ugadi, and Eid al-Fitr into one long weekend, and arriving simultaneously in Telugu, Tamil, Malayalam, and Kannada alongside Hindi, the sequel surpassed everything the original had achieved in three months within its first eleven days.
 

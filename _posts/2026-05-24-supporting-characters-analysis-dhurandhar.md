@@ -6,17 +6,17 @@ date: 2026-05-24
 categories: ["Leisure"]
 tags: ["dhurandhar", "supporting-characters", "character-analysis", "rakesh-bedi", "bollywood", "ensemble-cast"]
 excerpt: "A deep analysis of Dhurandhar's supporting cast, from Jameel Jamali and Uzair Baloch to Ulfat and the institutional voices that quietly hold it together."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 70
-author: "Insight Crunch Team"
+author: "rahul-banerjee"
 last_updated: 2026-05-24
+lang: en
 ---
-
 There is a moment roughly an hour into the first film when Hamza, deep inside a city that wants him dead, sits down to eat at a roadside stall run by a fussy, talkative man who complains about the price of onions. Nothing about the exchange advances the plot. No secret is passed, no threat is made, no clue is planted. And yet most people who walk out of the theater remember that man, Jameel Jamali, as vividly as they remember the gunfights. That is not an accident. It is the clearest evidence of what makes this franchise different from almost everything else Bollywood has produced in the action register: Aditya Dhar treats the people standing at the edges of the frame as if they matter, and because he does, the audience does too.
 
 <!--more-->
 
-![Supporting Characters in Dhurandhar - Insight Crunch](/assets/images/blog/blog-06.webp)
+![Supporting Characters in Dhurandhar - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 The thesis of this piece is simple to state and harder to fully appreciate. Dhurandhar succeeds not because of its lead, though Ranveer Singh is extraordinary, but because of the dense human ecology surrounding him. A spy thriller is only as convincing as the world the spy must move through, and a world is made of people, not props. When Dhar spends thirty minutes of expensive screen time on a comic figure who never fires a weapon, he is not padding the runtime. He is building the ground beneath every tense decision Hamza will later have to make. Strip away Jameel, Aalam, Ulfat, Uzair, Sushant, and the rest, and you do not have a leaner thriller. You have a hollow one. The supporting players are the load-bearing walls of the entire structure, and the purpose of what follows is to walk through that structure room by room.
 
