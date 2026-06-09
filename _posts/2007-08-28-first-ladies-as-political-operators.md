@@ -6,7 +6,7 @@ date: 2007-08-28
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "first-ladies", "political-influence", "presidential-spouses"]
 excerpt: "Edith Wilson ran the White House for six months. Eleanor Roosevelt wrote policy. Hillary Clinton led healthcare reform. The operator pattern holds firm."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 73
 author: "amanda-ross"
 last_updated: 2026-05-29
@@ -16,7 +16,7 @@ On the morning of October 2, 1919, Woodrow Wilson collapsed in the family quarte
 
 That fact is the thesis of this article. The First Lady is one of the most consistently overlooked nodes in the operational map of American executive power. Every presidential administration from Washington forward has included, in some configuration, a woman who exercised political agency on personnel matters, policy advocacy, crisis management, diplomatic representation, or legislative pressure. The visibility of that agency has varied enormously. Its formality has varied enormously. The historical sources documenting it are radically uneven. But the role itself has been continuously occupied, and a serious analysis of how presidencies actually function requires accounting for it.
 
-![First Ladies as political operators across every administration overlooked role - Insight Crunch](/assets/images/blog/blog-68.webp)
+![First Ladies as political operators across every administration overlooked role - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 ## What "Political Operator" Means Here
 

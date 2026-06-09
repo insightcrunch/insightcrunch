@@ -5,7 +5,7 @@ date: 2016-09-17
 categories: ["Analytics"]
 tags: ["Master Data Management"]
 excerpt: "The DRM Web Client is usually very responsive and seldom it gives a server down error. But the below error was observed recently which was quite baffling."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 1
 author: "robert-quinn"
 last_updated: 2026-04-01
@@ -17,7 +17,7 @@ The error message when trying to access the DRM Web Client page is as below:
 
     "The page cannot be displayed because an internal server error has occurred."
 
-![Oracle DRM Web Client Internal Server Error](/assets/images/blog/blog-64.webp)
+![Oracle DRM Web Client Internal Server Error](/assets/images/blog/blog-98.webp)
 Oracle DRM Web Client Internal Server Error
 
 On further analysis it has been found that there is a setting in the Shared Services Console that enables the DRM application to authenticate with SSO only if that is enabled. If and only if this is enabled then CSS integration via SSO will be able to authenticate an LDAP user. The parameter is named as 'Enable SSO Compatibility' in Shared Services Console which after being enabled the authentication starts working fine.

@@ -6,7 +6,7 @@ date: 2019-07-24
 categories: ["Industry"]
 tags: ["TCS", "NQT", "Coding Questions", "Programming"]
 excerpt: "TCS NQT coding questions: difficulty level, programming languages allowed, common problem types, and how the coding section is evaluated."
-image: "/assets/images/blog/blog-44.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 45
 author: "nikhil-tiwari"
 last_updated: 2026-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The TCS NQT coding section is the most consequential part of the exam for candidates who want to be considered for the Digital track. It is the section where preparation depth matters most, where the gap between prepared and unprepared candidates is widest, and where the investment in genuine algorithmic skill produces the clearest return.
 
-![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-44.webp)
+![Technology Industry Analysis - InsightCrunch](/assets/images/blog/blog-04.webp)
 *The complete TCS NQT coding preparation guide - what the coding section tests, the five permitted programming languages and how to choose between them, the specific algorithm categories that appear most frequently, worked solutions for Easy and Medium problems, code quality expectations, edge case handling, the scoring system, and a systematic preparation strategy that builds genuine coding competency*
 
 The coding section of the NQT Advanced section presents two programming problems: one at Easy difficulty and one at Medium difficulty, within approximately 45-60 minutes total. Five programming languages are permitted - C, C++, Java, Python, and Perl. Performance in this section, combined with overall NQT score, determines whether a candidate qualifies for the Ninja track, the Digital track, or neither.

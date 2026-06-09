@@ -6,7 +6,7 @@ date: 2022-09-19
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Entra ID", "AADSTS50011", "Troubleshooting", "Identity", "Security"]
 excerpt: "AADSTS50011 means the redirect URI in the request does not match your Entra app registration. Read the rejected value and fix the exact mismatch fast."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 60
 author: "james-carter"
 last_updated: 2022-09-19
@@ -14,7 +14,7 @@ lang: en
 ---
 When a sign-in dies with **AADSTS50011**, the screen tells you almost everything you need, and almost everyone reads past it. The error means one precise thing: the redirect URI your application sent in the authorization request does not match any redirect URI registered on the Microsoft Entra ID app registration. It is not a consent failure. It is not a bad client secret. It is not a token-lifetime problem. Entra received a return address, compared it character by character against the list you configured, found no match, and refused to send the authorization response anywhere it was not told to send it. The whole repair lives in that comparison, and the error names the exact address it rejected.
 
-![Fixing Entra ID AADSTS50011 redirect URI mismatch - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Fixing Entra ID AADSTS50011 redirect URI mismatch - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The reason this error wastes so much engineer time is that the surrounding context invites a wrong theory. The sign-in was working yesterday, or it works for a colleague, or it works on a different machine, so the instinct is to suspect permissions, scopes, admin consent, or a stale token cache. People open the API permissions blade and start granting things. None of that touches the redirect comparison, so the symptom survives every one of those changes, and the wasted hour begins. The discipline that fixes AADSTS50011 quickly is the opposite instinct: read the rejected address out of the error, open the registration, and find the single character that differs. This guide gives you that discipline as a repeatable procedure, names each distinct cause behind the mismatch, and hands you the command to confirm and correct each one.
 

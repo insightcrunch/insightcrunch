@@ -6,7 +6,7 @@ date: 2026-06-03
 categories: ["Leisure"]
 tags: ["dhurandhar", "controversies", "bollywood", "propaganda-debate", "censorship", "cultural-impact"]
 excerpt: "Every Dhurandhar controversy explained - the messaging debate, legal challenges, bans, and lasting impact."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ Every significant film generates controversy proportional to its ambitions, and 
 
 <!--more-->
 
-![Dhurandhar Controversies Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
+![Dhurandhar Controversies Explained - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The saga occupies an uncomfortable stance in Indian public life: it is too cinematically sophisticated to be dismissed as simple propaganda, too politically engaged to be treated as pure entertainment, and too commercially successful to be contained within the smaller space that India's more explicitly ideological pictures typically occupy. This combination, cinematic ambition, ideological engagement, and massive commercial reach, is what makes the duology uniquely controversial and uniquely important as a case study in how Hindi cinema navigates the relationship between storytelling and ideology. The controversies do not resolve into a comfortable conclusion about whether the pairing is good or bad for domestic culture. They produce a more interesting and more honest map of the tensions that serious filmmaking about serious political subjects inevitably generates.
 

@@ -6,7 +6,7 @@ date: 2023-09-25
 categories: ["Technology"]
 tags: ["Azure", "Network Security Group", "Networking", "NSG", "Security", "Cloud Infrastructure"]
 excerpt: "A Network Security Group decides every flow by priority order across both the subnet and the interface, and this guide shows how to predict any allow or deny."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 61
 author: "james-carter"
 last_updated: 2023-09-25
@@ -14,7 +14,7 @@ lang: en
 ---
 An engineer stares at a Network Security Group, sees an entry that plainly allows TCP 443 from the internet, and cannot understand why the connection still times out. The clause is right there, green and explicit, and the connection still dies. This is the single most common confusion in Azure filtering, and it comes from treating a security group as a checklist where any matching allow wins. It is not a checklist. A Network Security Group is an ordered decision engine, and the only allow that matters for a given packet is the first matching entry by priority, evaluated separately for the subnet and for the network interface, with a silent default deny waiting at the bottom of each list. Once you hold that model, the timeout stops being a mystery and becomes a prediction you can make before you ever open the portal.
 
-![Network Security Groups deep dive evaluation map](/assets/images/blog/blog-95.webp)
+![Network Security Groups deep dive evaluation map](/assets/images/blog/blog-24.webp)
 
 This article builds the complete mental model of how a security group evaluates a packet, so that you can look at a set of security rules, a subnet association, and an interface association, and state with confidence whether a particular connection will be permitted or dropped. We will work through the definition model and its priority ordering, the default rules that ship with every group, the stacking of subnet and interface NSGs, the way service tags and application security groups compress and clarify large directive sets, and the flow logs that show you what the engine actually decided rather than what you assumed it would. The goal is not familiarity. The goal is the ability to reason from the mechanism, the same habit this series applies across [Azure networking fundamentals](/2023/08/28/azure-networking-fundamentals/), where filtering sits alongside routing as one of the two forces that govern whether a packet reaches its destination.
 

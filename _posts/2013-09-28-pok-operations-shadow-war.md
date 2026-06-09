@@ -6,7 +6,7 @@ date: 2013-09-28
 categories: ["Industry"]
 tags: ["pok", "pakistan-occupied-kashmir", "shadow-war", "targeted-killings", "loc", "counter-terrorism"]
 excerpt: "How India's shadow war crossed the Line of Control into Pakistan-Occupied Kashmir, with a mosque assassination in Rawalakot and a beheading near the LoC itself."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 70
 author: "thomas-reid"
 last_updated: 2013-09-28
@@ -16,7 +16,7 @@ For decades, the Line of Control dividing Kashmir functioned as a one-way valve.
 
 <!--more-->
 
-![PoK Operations Shadow War Analysis - Insight Crunch](/assets/images/blog/blog-19.webp)
+![PoK Operations Shadow War Analysis - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 Riyaz Ahmad, known by his operational alias Abu Qasim, was shot in the head at point-blank range during Fajr prayers inside Al-Quds mosque in Rawalakot on September 8, 2023. The attackers knew which mosque he attended, which prayer time offered the optimal window, and which row of the congregation he occupied. Fewer than two months later, Khwaja Shahid, an LeT commander linked to the 2018 Sunjuwan Army camp attack that killed seven people in Jammu, was kidnapped from the Neelum Valley, tortured, and found beheaded near the Line of Control itself. These two cases, radically different in method yet unified by geography, constitute the shadow war's penetration into a theater that was supposed to be impenetrable. Every previous documented elimination had occurred in Pakistan's urban centers: Karachi, Lahore, Rawalpindi, Sialkot. PoK was different. It sits under direct Pakistani military administration, its mountain terrain restricts movement to a handful of monitored roads, and Army checkpoints control access to every population center of significance. Operating here required capabilities that Karachi and Lahore did not demand, and the fact that two operations succeeded within the same two-month window suggests that PoK had become a deliberate theater of expansion rather than an opportunistic target.
 

@@ -6,7 +6,7 @@ date: 2026-03-29
 categories: ["Leisure"]
 tags: ["dhurandhar", "rehman-dakait", "akshaye-khanna", "character-analysis", "bollywood", "villain-analysis"]
 excerpt: "Complete analysis of Rehman Dakait - Akshaye Khanna's terrifying, layered villain in Dhurandhar."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-30
@@ -16,7 +16,7 @@ The greatest villains in cinema history share a quality that has nothing to do w
 
 <!--more-->
 
-![Rehman Dakait Character Analysis - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Rehman Dakait Character Analysis - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 What makes Rehman Dakait remarkable, and what makes Khanna's performance one of the most discussed and celebrated villain turns in recent Bollywood history, is the character's refusal to be reduced to a function. In lesser spy thrillers, the crime lord exists to be defeated, a narrative obstacle whose purpose is to test the hero and whose personality is calibrated solely to provide that test. Rehman Dakait does not cooperate with this framework. He has his own agenda, his own emotional life, his own relationships that exist independently of his function as [Hamza Ali Mazari's](https://insightcrunch.com/2026/03/25/hamza-ali-mazari-character-analysis-dhurandhar/) primary antagonist. He has moments of warmth, moments of philosophical reflection, and moments of what might even be called wisdom, and these moments do not soften him; they sharpen him, because they reveal a man who understands exactly what he is doing and has chosen his path with open eyes. The argument this analysis will defend is that Rehman Dakait is not the villain of Dhurandhar; he is the king of a world that operates by different rules than the one the audience inhabits, and Khanna's genius is in making the audience understand those rules so thoroughly that they find themselves, against their better judgment, almost rooting for the king even as they know he must fall.
 

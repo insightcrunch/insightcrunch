@@ -6,7 +6,7 @@ date: 2025-04-13
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Alternate Endings", "Classic Stories", "Philosopher's Stone", "Book Analysis"]
 excerpt: "What if Quirrell had won? What if Hermione had solved the chess puzzle alone? What if the Mirror of Erised showed Harry something entirely different?"
-image: "/assets/images/blog/blog-48.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
 author: "emily-reed"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ lang: en
 
 There are books that begin a journey - and then there are books that begin a world. J.K. Rowling's *Harry Potter and the Philosopher's Stone*, published in 1997, belongs firmly in the second category. It did not merely introduce readers to a boy with a lightning bolt scar; it opened a door to an entire universe so richly imagined, so carefully constructed, that millions of readers have never truly left it.
 
-![Alternate Ending - Insight Crunch](/assets/images/blog/blog-48.webp)
+![Alternate Ending - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 The story is deceptively simple on the surface. An orphaned boy discovers he is a wizard, attends a magical school, makes friends and enemies, and ultimately confronts the dark force responsible for his parents' deaths. But within that apparently straightforward narrative, Rowling planted seeds of extraordinary complexity - moral questions about love and sacrifice, loyalty and prejudice, the nature of power and the courage required to resist it.
 

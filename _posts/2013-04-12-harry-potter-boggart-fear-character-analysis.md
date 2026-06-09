@@ -6,7 +6,7 @@ date: 2013-04-12
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Boggarts", "Fear", "Prisoner of Azkaban"]
 excerpt: "How Harry Potter turns the boggart into its sharpest psychological tool, where one classroom drawer reveals what every character truly fears and why it matters."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-16.webp"
 reading_time: 57
 author: "claire-bennett"
 last_updated: 2013-04-12
@@ -16,7 +16,7 @@ lang: en
 
 There is a wardrobe in a Hogwarts classroom that knows the students better than they know themselves. It rattles. Something inside it presses against the wood, testing the latch, and the thing waiting there has no fixed shape because it does not need one. It will borrow a shape from whoever opens the door. Step too close and it becomes the precise architecture of your private terror, assembled in an instant from material you have never spoken aloud to anyone.
 
-![Boggart and fear analysis across the Harry Potter books](/assets/images/blog/blog-67.webp)
+![Boggart and fear analysis across the Harry Potter books](/assets/images/blog/blog-16.webp)
 
 Rowling invents a great many magical creatures across seven books, and most of them serve the plot. Dragons guard things. Hippogriffs carry riders. Acromantulas threaten. The shape-shifter folded into a Defence Against the Dark Arts cupboard does something stranger and far more useful to a novelist: it does not advance the story so much as it diagnoses the people inside it. A single lesson with this creature tells the reader more about Neville Longbottom, Ron Weasley, and a dozen other students than pages of conventional description could manage. The thing in the drawer is a confession machine. Whatever frightens you most stands revealed the moment you face it, dressed in your own nightmare, and there is no lying to it because it reads its costume directly off your nerves.
 

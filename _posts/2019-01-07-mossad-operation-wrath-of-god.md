@@ -6,7 +6,7 @@ date: 2019-01-07
 categories: ["Industry"]
 tags: ["mossad", "wrath-of-god", "munich", "israel", "targeted-killings"]
 excerpt: "Inside Mossad's Operation Wrath of God, the two-decade hunt for the Munich Olympics killers that became the operational template for India's shadow war."
-image: "/assets/images/blog/blog-57.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 71
 author: "benjamin-scott"
 last_updated: 2019-01-07
@@ -16,7 +16,7 @@ On a Rome evening in October 1972, a thin, scholarly Palestinian named Wael Zwai
 
 <!--more-->
 
-![Mossad Operation Wrath of God - Insight Crunch](/assets/images/blog/blog-57.webp)
+![Mossad Operation Wrath of God - Insight Crunch](/assets/images/blog/blog-66.webp)
 
 That killing in Rome was the opening move of a campaign that would last more than two decades and reach into a dozen countries. Israel called it Operation Wrath of God, and within the intelligence service it carried the codename Bayonet. It was not a single strike or a brief spasm of revenge. It was a sustained, methodical, deniable programme of state-sponsored assassination conducted against an enemy that lived beyond Israel's borders, in the cities of friendly democracies, under the protection of governments that would never extradite them. The campaign produced spectacular successes and one catastrophic failure. It killed the right men in Paris and the wrong man in Norway. It generated a body of operational knowledge that intelligence services around the world have studied ever since.
 

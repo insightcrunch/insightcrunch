@@ -6,7 +6,7 @@ date: 2026-05-18
 categories: ["Leisure"]
 tags: ["dhurandhar", "operation-dhurandhar", "spy-thriller", "bollywood", "movie-analysis", "counter-terrorism"]
 excerpt: "Operation Dhurandhar fully explained - the covert mission's stages, players, strategies, and payoffs."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-94.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ Most audiences watching Dhurandhar experience the operation as a story. The more
 
 <!--more-->
 
-![Operation Dhurandhar Explained - Insight Crunch](/assets/images/blog/blog-85.webp)
+![Operation Dhurandhar Explained - Insight Crunch](/assets/images/blog/blog-94.webp)
 
 The operation's thesis, stated as an analytical proposition rather than as a plot summary, is this: the threat that RAW is responding to is not an event or a person but a network, and networks cannot be disrupted by targeting events or persons. They can only be disrupted from the inside, by an asset who has mapped the network's internal structure, financial relationships, and institutional protections with enough precision that the disruption removes the network's capacity for regeneration rather than merely its current leadership. This is why the operation takes a decade. Not because RAW is inefficient or because the plot requires padding. Because dismantling a network that has survived multiple Pakistani security crackdowns, that has ISI protection, that has community roots in Lyari, and that has financial connections to cross-border violence requires the kind of intelligence that only an embedded human asset can produce. SIGINT cannot map the social relationships that protect the network. A drone strike cannot document the financial flows that fund it. Only a person who is inside the network, trusted by it, present at its operations and its social life, can generate the intelligence that makes disruption sustainable rather than temporary.
 

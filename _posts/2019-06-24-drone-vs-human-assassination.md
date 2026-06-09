@@ -6,7 +6,7 @@ date: 2019-06-24
 categories: ["Industry"]
 tags: ["drone", "human-assassin", "comparison", "targeted-killing", "methods"]
 excerpt: "A ten dimension comparison of drone strikes and close range human assassination, and why India's alleged shadow war deliberately chose the motorcycle method."
-image: "/assets/images/blog/blog-80.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 71
 author: "marcus-hall"
 last_updated: 2019-06-24
@@ -16,7 +16,7 @@ Two states decided, within roughly a decade of each other, that wanted men livin
 
 <!--more-->
 
-![Drone versus human assassination methods compared](/assets/images/blog/blog-80.webp)
+![Drone versus human assassination methods compared](/assets/images/blog/blog-89.webp)
 
 The temptation, when comparing these two approaches, is to treat the American method as advanced and the alleged Indian method as crude, a holdover from an era before remote warfare made the assassin obsolete. That framing is wrong, and the central argument of this piece is that it is wrong in a way that obscures what is actually interesting. New Delhi possesses armed and surveillance drone capability. It flies Israeli Heron and Searcher platforms, it has acquired armed systems, and it demonstrated a willingness to use unmanned aircraft against Pakistan during the 2025 conflict. A country that can put a drone over Pakistani airspace and chooses instead to put a shooter on a Pakistani street is not a country that lacks options. It is a country that has examined the options and selected the one that serves its purposes. The method, in other words, is a message. Reading that message requires holding both programs against each other across every dimension that matters, and refusing to let the apparent sophistication of the aircraft settle the question before the analysis begins.
 

@@ -6,7 +6,7 @@ date: 2017-07-24
 categories: ["Industry"]
 tags: ["dhurandhar", "pakistan", "ban", "reaction", "bollywood", "censorship", "diplomacy"]
 excerpt: "Why Pakistan banned Dhurandhar, treated the Bollywood spy thriller as a diplomatic and national security threat, and what the fury revealed about accuracy."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-76.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-07-24
@@ -16,7 +16,7 @@ Islamabad did not ban Aditya Dhar's blockbuster spy thriller because the product
 
 <!--more-->
 
-![Pakistan Reaction to Dhurandhar Film - Insight Crunch](/assets/images/blog/blog-67.webp)
+![Pakistan Reaction to Dhurandhar Film - Insight Crunch](/assets/images/blog/blog-76.webp)
 
 Aditya Dhar's Ranveer Singh starrer, released on December 5, 2025, accomplished something that no previous Indian production had managed: it forced the state apparatus across the border to respond to a Bollywood production with the institutional seriousness typically reserved for diplomatic incidents. Within days of the trailer going viral, government officials were issuing formal statements. Within a week of theatrical release, the PPP had filed a court petition in Karachi naming the entire cast and crew. Within two weeks, six Gulf Cooperation Council countries had refused certification. Within a month, Islamabad had reportedly explored the possibility of bringing a defamation case at the International Court of Justice against a movie studio. The trajectory of the official response, from cultural criticism to legal action to international diplomacy, is itself the strongest evidence that Dhar's production struck something deeper than national pride. It struck national credibility.
 

@@ -6,7 +6,7 @@ date: 1995-11-07
 categories: ["Industry"]
 tags: ["SAT", "GPA", "College Admissions", "Weighting", "Course Rigor"]
 excerpt: "SAT vs GPA explained: why GPA usually weighs more, when a strong SAT tips the balance, how course rigor interacts and how test-optional shifts the equation."
-image: "/assets/images/blog/blog-20.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
 author: "hannah-moore"
 last_updated: 1995-11-07
@@ -14,7 +14,7 @@ lang: en
 ---
 Two numbers sit at the top of almost every application file, and most students rank them in the wrong order. They walk into junior year believing the test result is the headline and the transcript is the supporting cast, that one strong Saturday morning can rewrite three and a half years of report cards. That belief shapes how they spend their hours, and it usually costs them. The grade point average, the slow accumulation of every quarter and every course, is the figure an admissions reader trusts first, because it answers a question a single sitting never can: what does this person do, week after week, when no proctor is watching and the stakes are quiet.
 
-![SAT vs GPA how colleges weight grades against scores and course rigor - Insight Crunch](/assets/images/blog/blog-20.webp)
+![SAT vs GPA how colleges weight grades against scores and course rigor - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 This is not an argument that the test does not matter. It does, and there are precise, nameable situations where a strong result moves a decision that grades alone would have lost. The point is that the two figures are not interchangeable, they are not weighted equally, and they do not even measure the same thing. One is a longitudinal record of effort, judgment, and consistency across hundreds of school days. The other is a calibrated snapshot of reasoning and content fluency captured in a few hours under timed pressure. Treating the snapshot as if it could outweigh the record, in the general case, is the single most expensive misread a college-bound student makes, and it sends them to drill flashcards on a Tuesday night when the higher-leverage move was finishing the lab report that protects a grade.
 

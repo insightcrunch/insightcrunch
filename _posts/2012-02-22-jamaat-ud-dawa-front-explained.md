@@ -6,7 +6,7 @@ date: 2012-02-22
 categories: ["Industry"]
 tags: ["jamaat-ud-dawa", "jud", "hafiz-saeed", "lashkar-e-taiba", "front-organization", "recruitment"]
 excerpt: "How Hafiz Saeed transformed Jamaat-ud-Dawa into the largest jihadist recruitment infrastructure in Pakistan while the world accepted its charity facade."
-image: "/assets/images/blog/blog-56.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2026-05-09
@@ -16,7 +16,7 @@ Jamaat-ud-Dawa is the most successful terrorist rebranding operation in modern h
 
 <!--more-->
 
-![Jamaat-ud-Dawa Front Organization Analysis - Insight Crunch](/assets/images/blog/blog-56.webp)
+![Jamaat-ud-Dawa Front Organization Analysis - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The scale of the deception is difficult to overstate. At its peak before FATF pressure forced cosmetic changes, JuD operated more than 300 madrassas and religious seminaries across Pakistan, ran a network of hospitals and dispensaries that served hundreds of thousands of patients annually, maintained a publishing house that produced jihadist literature in Urdu and Arabic, and deployed disaster-relief teams that were often among the first responders to earthquakes, floods, and other natural catastrophes. Every one of these institutions served a dual purpose. The hospitals treated patients and recruited sympathizers. The madrassas educated children and radicalized a percentage into future fighters. The disaster-relief operations saved lives and embedded JuD so deeply into local communities that any attempt to shut the organization down would produce immediate humanitarian consequences. [Hafiz Saeed](https://insightcrunch.com/2012/01/05/hafiz-saeed-complete-profile/) designed this architecture deliberately, and it remains the template that counter-terrorism analysts cite when explaining why some terror organizations prove almost impossible to eradicate.
 

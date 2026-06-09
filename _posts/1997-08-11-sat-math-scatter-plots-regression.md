@@ -6,7 +6,7 @@ date: 1997-08-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Scatter Plots", "Statistics", "Data Analysis"]
 excerpt: "SAT scatter plots and regression explained: slope in context, residuals, interpolation and the correlation-versus-causation trap, with worked examples included."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-90.webp"
 reading_time: 59
 author: "samantha-lee"
 last_updated: 1997-08-11
@@ -14,7 +14,7 @@ lang: en
 ---
 There is a single answer choice that appears, in some disguise, on nearly every scatter plot set the Digital SAT serves you, and it is always wrong. It is the choice that says one variable *causes* the other. A graph shows hours of sleep climbing alongside exam performance, four answer options sit below it, and one of them announces that more sleep proves higher scores. Students who have spent weeks memorizing the slope formula and the equation of a line read that option, recognize the relationship they just saw on the screen, and select it. They lose the point not because the arithmetic defeated them but because they answered a statistics question with intuition instead of a rule. The SAT scatter plot is not really a graphing topic. It is a reading-of-the-answer-choices topic wearing a graph as a costume.
 
-![SAT scatter plots line of best fit and regression worked examples - Insight Crunch](/assets/images/blog/blog-06.webp)
+![SAT scatter plots line of best fit and regression worked examples - Insight Crunch](/assets/images/blog/blog-90.webp)
 
 This guide rebuilds the topic around the skills the exam actually rewards: reading the slope and the intercept of a fitted line as real quantities with real units, telling the difference between predicting inside your data and gambling outside it, judging the strength of a relationship from a correlation coefficient, computing a residual and saying what its sign means, and recognizing on sight the answer choice that overreaches into causation. By the end you will be able to look at a fitted line through a cloud of points and translate it into a sentence a non-mathematician would understand, which is precisely what the hardest version of these questions asks you to do. You will also be able to run the whole analysis on the embedded Desmos calculator in under a minute, so that the points on this topic become some of the fastest you bank in the entire Math section. The promise is narrow and concrete: not a tour of statistics, but the specific competence that turns every scatter plot question into a near-automatic point.
 

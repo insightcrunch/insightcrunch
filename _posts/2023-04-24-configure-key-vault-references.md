@@ -6,7 +6,7 @@ date: 2023-04-24
 categories: ["Technology"]
 tags: ["Azure", "Key Vault", "Managed Identity", "App Service", "Security", "Identity"]
 excerpt: "Key Vault references let App Service and Functions read secrets at runtime, but a reference only resolves when the app identity has data-plane access."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 63
 author: "william-knight"
 last_updated: 2023-04-24
@@ -14,7 +14,7 @@ lang: en
 ---
 A Key Vault reference is the feature that lets an App Service or Functions app read a secret from Azure Key Vault at runtime without that secret ever appearing in the application's configuration, in source control, or in a deployment pipeline. You put a small reference string in an app setting, and at runtime the platform swaps that string for the live secret value before your code reads it. Done correctly, your connection strings and API keys live in one audited store, your application sees plain environment variables exactly as it always did, and a secret rotation never requires a redeploy. Done incorrectly, the pointer shows as unresolved, your application reads the literal reference string instead of the secret, and you spend an afternoon convinced you have a syntax typo when the real problem is that the application's principal was never granted access to the store.
 
-![Configure Key Vault references in App Service and Functions with managed identity access - Insight Crunch](/assets/images/blog/blog-18.webp)
+![Configure Key Vault references in App Service and Functions with managed identity access - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 That last sentence is the whole article in miniature. The single most common failure when wiring up a Key Vault reference is treating it as a string-formatting problem when it is an access-control problem. The reference syntax is the easy part, and the portal will even validate the shape of it for you. What the portal cannot do for you is grant the application's managed identity permission to read the secret on the data plane of the store. If that grant is missing, every pointer you write will fail in exactly the same way regardless of how carefully you typed it, and the error surface gives you very little to go on unless you know where to look. This guide walks the complete setup end to end, in the order that actually works, with the verification step that proves the pointer resolved and the misconfigurations that produce each symptom.
 

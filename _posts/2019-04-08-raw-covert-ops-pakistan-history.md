@@ -6,7 +6,7 @@ date: 2019-04-08
 categories: ["Industry"]
 tags: ["raw", "pakistan", "covert-operations", "history", "intelligence", "shadow-war"]
 excerpt: "The complete history of RAW covert operations inside Pakistan, from the 1971 war through the Balochistan question to the present-day shadow war campaign."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 70
 author: "nathan-cole"
 last_updated: 2019-04-08
@@ -16,7 +16,7 @@ When unknown gunmen on a motorcycle shot a Lashkar-e-Taiba commander outside a m
 
 <!--more-->
 
-![RAW operations inside Pakistan, a history of India's covert footprint](/assets/images/blog/blog-89.webp)
+![RAW operations inside Pakistan, a history of India's covert footprint](/assets/images/blog/blog-88.webp)
 
 This is the story of how the Research and Analysis Wing came to operate inside the one country it was, in a sense, created to watch. The agency's footprint in Pakistan is the longest-running and least understood chapter of its institutional life. Pakistani officials describe a vast Indian penetration, agents in every city, sleeper cells in every province, a hidden hand behind every misfortune. New Delhi describes nothing at all, because it has never confirmed a single mission. The truth, as it almost always does in the trade of espionage, sits in the contested space between a government that exaggerates and a government that denies. What follows is an attempt to map that space honestly, era by era, from the founding triumph of 1971 to the shadow war of the present decade, and to argue a single proposition. The lethal effort of today rests on an inheritance, and the inheritance is the real subject.
 

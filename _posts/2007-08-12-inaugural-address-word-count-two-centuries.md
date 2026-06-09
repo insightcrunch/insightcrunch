@@ -6,7 +6,7 @@ date: 2007-08-12
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "inaugural-addresses", "presidential-rhetoric", "political-communication"]
 excerpt: "Washington's second inaugural ran 135 words. William Henry Harrison's stretched to 8,460. JFK delivered 1,355. The word count pattern reveals something."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 71
 author: "chloe-martin"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 Washington's second inaugural took 135 words to deliver. William Henry Harrison required 8,460 in freezing March rain. Lincoln's second, the one carved on the wall of his memorial, used 701. Kennedy's ran 1,355. These four numbers tell a story that nobody has quite named, and that the standard categories of presidential rhetoric do not capture. The standard story says inaugurals got longer through the nineteenth century, then shorter under television, then settled into a roughly two-thousand-word modern form. That story is partly right and importantly incomplete. The deeper pattern is that inaugural length has moved in two directions at once. The text on the page has compressed since Lincoln. The apparatus around the text, the speechwriting teams, the rehearsal infrastructure, the broadcast scale, the audience reach, the post-delivery analysis industry, has inflated continuously. The word count went down. The rhetorical operation expanded. Both happened. Naming only one of them, as most coverage does, misses what the inaugural address has actually become.
 
-![Inaugural address word count pattern across 230 years from Washington to Clinton - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Inaugural address word count pattern across 230 years from Washington to Clinton - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 This article walks through every inaugural delivered between Washington's first in April 1789 and Clinton's second in January 1997. The walk is not a parade of trivia. The walk pays off in a structural claim that the data forces once it is laid out in full: the modern inaugural is a shorter text inside a vastly larger rhetorical event, and the gap between text length and event scale is the actual rhetorical inflation of the office. Jeffrey Tulis named one half of the pattern in his 1987 book on the rhetorical presidency. Kathleen Hall Jamieson named another half in her work on television. Karlyn Kohrs Campbell and Jamieson together examined the speech form itself in their 1990 study of presidential rhetoric. Martin Medhurst placed individual addresses under close analysis. None of them quite stated the synthesis that this article will state: the word count metric reveals a deflation that runs against the conventional inflation story, and that revelation is the lever for understanding what actually changed about the office.
 

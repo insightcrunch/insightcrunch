@@ -6,7 +6,7 @@ date: 2022-07-11
 categories: ["Technology"]
 tags: ["Azure", "AKS", "ImagePullBackOff", "ErrImagePull", "Troubleshooting", "Kubernetes", "Cloud Computing"]
 excerpt: "ImagePullBackOff in AKS means the kubelet could not pull your image. Read the pod events line to find the real cause, then apply the one matching fix."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-12.webp"
 reading_time: 65
 author: "alex-cunningham"
 last_updated: 2022-07-11
@@ -16,7 +16,7 @@ A pod sits in `ImagePullBackOff`, the deployment never reaches ready, and the te
 
 This guide treats `ImagePullBackOff` and its companion `ErrImagePull` as a diagnosis you perform on the cluster rather than a verdict you accept. You will learn what the two statuses mean and how they relate, where the real reason is written, how to route each Events message to its cause, and how to confirm and fix every one of the recurring cases engineers hit on Azure Kubernetes Service: an Azure Container Registry that was never attached to the cluster, a Docker Hub anonymous pull that ran into the rate limit, a typo in the tag, a `:latest` that was overwritten or deleted, an `imagePullSecret` created in the wrong namespace, a private registry blocked by a firewall, and registry DNS that fails from the node.
 
-![Fixing AKS ImagePullBackOff and ErrImagePull root causes - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Fixing AKS ImagePullBackOff and ErrImagePull root causes - Insight Crunch](/assets/images/blog/blog-12.webp)
 
 The shape of the fix is always the same: read the Events line, classify the message into name, tag, authentication, or reachability, confirm the cause with one command, apply the matching remedy, and verify the pod reaches running. Everything below builds that loop and gives you the command for each step. If you want the broader picture of how the scheduler, the node, and the kubelet cooperate to place and start a pod, the [Azure Kubernetes Service deep dive](/2022/01/17/azure-kubernetes-service-aks-explained/) lays out the node-and-pull model that this troubleshooting sits on top of.
 

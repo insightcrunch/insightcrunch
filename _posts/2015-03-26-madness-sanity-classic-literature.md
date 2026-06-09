@@ -6,7 +6,7 @@ date: 2015-03-26
 categories: ["Leisure"]
 tags: ["madness", "sanity", "literary-comparison", "classic-literature", "literary-analysis"]
 excerpt: "Madness in classic literature is not a medical diagnosis. It is a specific analytical category contesting what counts as normality and who gets to decide."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "claire-bennett"
 last_updated: 2015-03-26
@@ -16,7 +16,7 @@ Madness in classic literature functions as an analytical category, not a clinica
 
 <!--more-->
 
-![Madness and Sanity in Classic Literature - Insight Crunch](/assets/images/blog/blog-82.webp)
+![Madness and Sanity in Classic Literature - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 The thesis of this comparative analysis is direct: madness in classic literature is most productively read not as realistic portrayal of mental illness but as an analytical category through which novels contest the boundaries of normality. Ophelia's madness responds to patriarchal impossibility. Bertha Mason's madness encodes colonial and racial containment. Septimus Smith's madness exposes the inadequacy of civilian medical authority confronting war trauma. Esther Greenwood's madness reveals the structural impossibility of female ambition in 1950s America. Kinbote's madness operates as formal narrative experiment. The Yellow Wallpaper narrator's madness is produced by the very medical treatment prescribed to cure it. Each case answers a different question about what society calls sanity and why the label matters.
 

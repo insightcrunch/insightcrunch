@@ -6,7 +6,7 @@ date: 2007-07-15
 categories: ["Leisure"]
 tags: ["james-polk", "consensus-flip", "us-presidents", "historical-reappraisal", "manifest-destiny", "one-term-achievements"]
 excerpt: "Polk ranks eighth on C-SPAN now. He achieved all four campaign promises in one term. The rise is substantial but the moral complications remain unresolved."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-52.webp"
 reading_time: 67
 author: "diana-patel"
 last_updated: 2007-07-15
@@ -14,7 +14,7 @@ lang: en
 ---
 On a humid Washington morning in late June 1846, James Knox Polk sat at his White House desk and opened a leather-bound notebook that has since become the single most useful document any historian possesses about the routine workings of a nineteenth-century American presidency. The entry that day ran several hundred words. It logged a cabinet meeting on the Oregon boundary, a confidential exchange about Mexican territorial negotiations, a complaint about a Treasury Department clerk, and a notation that the President had walked the Treasury grounds for exercise before retiring. He was forty-nine years old, gravely ill from chronic diarrhea and the lingering effects of a botched childhood bladder-stone operation, and he was halfway through a presidency he had publicly promised would end after a single four-year term.
 
-![James K. Polk historian ranking rise expansionist reappraisal - Insight Crunch](/assets/images/blog/blog-28.webp)
+![James K. Polk historian ranking rise expansionist reappraisal - Insight Crunch](/assets/images/blog/blog-52.webp)
 
 Polk wrote in that diary almost every day of his presidency. The four published volumes that resulted are now treated by working historians as the closest thing the United States possesses to a real-time operating manual for the antebellum executive branch. They are also the documentary foundation on which a remarkable reappraisal has been constructed. In the Schlesinger Sr. historians' poll of 1948, Polk ranked tenth among American presidents. In the C-SPAN 2017 survey of 91 academic historians, he ranked twelfth. In several intervening polls he climbed as high as eighth. He has become, in the working consensus of the field, a top-tier American executive, ranked above Madison and Jackson, just below or alongside Theodore Roosevelt and Wilson, and discussed in the same breath as Truman and Eisenhower as a model of effective one-term presidential delivery.
 

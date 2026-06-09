@@ -6,7 +6,7 @@ date: 1997-02-03
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Reading Speed", "Comprehension", "Strategy"]
 excerpt: "SAT reading speed explained: first-sentence-first reading for short passages, when to read closely or skim, and why comprehension is the real cure, with drills."
-image: "/assets/images/blog/blog-06.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 61
 author: "daniel-morgan"
 last_updated: 1997-02-03
@@ -14,7 +14,7 @@ lang: en
 ---
 The student who runs out of time on the Reading and Writing section almost never has slow eyes. They have a slow first pass that fails to land, forcing a second pass that should never have been necessary. They read the short passage once, understand maybe seventy percent of it, feel uncertain at the answer choices, and go back to read it again. That second trip is where the clock dies. Two readings of a four-sentence passage at a shallow first reading cost more total time than one reading done with full attention, and the student who learns this single fact recovers more time than any speed-reading course will ever give them. SAT reading speed is not a function of how fast you move your eyes across a line. It is a function of how completely you understand the passage the first time you touch it.
 
-![SAT reading speed first-sentence-first method and skim versus close-read decision table - Insight Crunch](/assets/images/blog/blog-06.webp)
+![SAT reading speed first-sentence-first method and skim versus close-read decision table - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 This is the claim the rest of this guide defends, drills, and turns into a method you can run on test day: speed follows comprehension, and the right reading method, not faster eyes, produces the time you are missing. The digital format changed the shape of the problem in a way that most advice has not caught up to. Where the paper test gave you long passages with a cluster of questions attached, the current digital section hands you many short, self-contained passages, each tied to a single question. That structural shift means the real cost of the section is no longer endurance over a long text. It is the friction of switching context dozens of times, of arriving cold at a new little world every forty-some seconds, orienting, deciding what the writer is doing, and answering before moving to the next cold start. The student who reads each short text in a way that lands the main idea on the first pass switches context cleanly. The student who skims to save time lands nothing, rereads, and pays the switching tax twice. Below is the method that fixes this, the decision rule for when to read closely and when to skim, the worked walkthroughs that show the method in motion, and the stamina work that lets you hold the method across an entire module.
 

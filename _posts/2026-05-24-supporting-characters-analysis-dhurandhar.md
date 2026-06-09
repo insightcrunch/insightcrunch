@@ -6,7 +6,7 @@ date: 2026-05-24
 categories: ["Leisure"]
 tags: ["dhurandhar", "supporting-characters", "character-analysis", "rakesh-bedi", "bollywood", "ensemble-cast"]
 excerpt: "Deep analysis of Dhurandhar's supporting cast - Jameel Jamali, Uzair Baloch, and the ensemble's impact."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ The supporting cast of a spy thriller is usually furniture. People who hold door
 
 <!--more-->
 
-![supporting players in Dhurandhar Analyzed - Insight Crunch](/assets/images/blog/blog-50.webp)
+![supporting players in Dhurandhar Analyzed - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 This article argues that the duology's supporting players constitute a single integrated dramatic ecosystem rather than a collection of individual roles, and that the ecosystem is organized around three distinct functions. The World-Builders, primarily Jameel Jamali, Mohammad Aalam, and Ulfat, give the Lyari neighbourhood its human texture: they are the characters whose presence makes the neighborhood feel like a community rather than a set. The Complications, primarily Uzair Baloch and General Shamshad Khan, give the duology its structural tension: they are the characters whose competing interests create the operational pressures that test Hamza's cover and drive both films' narrative escalations. The Agency Voices, primarily Sushant Bansal, Devavrat Kapoor, and Shazia Bano, give the duology its political and emotional architecture: they are the characters who represent the institutions whose decisions shape Hamza's fate from a distance, and whose specific relationship to those institutions illuminates the duology's larger argument about what covert service requires of individuals and of the state.
 

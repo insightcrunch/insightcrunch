@@ -6,7 +6,7 @@ date: 2013-07-15
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "The Dursleys", "Mundane Evil", "Child Abuse", "Privet Drive"]
 excerpt: "The Dursleys in Harry Potter embody mundane evil: a respectable family whose quiet refusal to love a child becomes the saga's most real and durable cruelty."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "elena-wright"
 last_updated: 2013-07-15
@@ -18,7 +18,7 @@ Voldemort is easy to survive, in the way that nightmares are easy to survive. Yo
 
 The Dursleys are harder. They do not dissolve. Almost every reader has met them, sat at their dinner table, been related to one of them, watched a child somewhere absorb their particular flavour of slow refusal. They are the family next door with the spotless lawn and the second car and the unbearable certainty that they are decent people. They never raise a wand, because they have no wand. They never raise their voices much beyond a bluster. They simply decline, year after year, to treat the orphan in their house as though he were a person, and that quiet declension turns out to be the most realistic cruelty the series ever depicts.
 
-![The Dursleys and the architecture of mundane evil in Harry Potter](/assets/images/blog/blog-73.webp)
+![The Dursleys and the architecture of mundane evil in Harry Potter](/assets/images/blog/blog-32.webp)
 
 The argument of this essay is that the family at Number Four, Privet Drive is the most frightening thing Rowling ever wrote, precisely because it requires no magic to function. Voldemort is evil as cosmic principle. The Dursleys are evil as municipal byelaw, evil that files its taxes and trims its hedges and would be deeply offended to be called evil at all. Their cruelty is not the heat of hatred but the cold of withholding. They do not torture the boy in the cupboard. They merely refuse to be his family, and the refusal, sustained across a decade, is the abuse. There is no single scene you could carry into a courtroom. There is only a childhood spent being made smaller, and a world of neighbours and teachers and aunts who looked at that childhood and saw nothing worth interrupting.
 

@@ -6,7 +6,7 @@ date: 2023-07-10
 categories: ["Technology"]
 tags: ["Azure", "Azure Site Recovery", "Disaster Recovery", "Architecture", "Cloud Computing"]
 excerpt: "Azure Site Recovery setup means more than enabling replication. Build a replication policy, order recovery plans, and prove DR with a real test failover."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-23.webp"
 reading_time: 61
 author: "ryan-walsh"
 last_updated: 2023-07-10
@@ -14,7 +14,7 @@ lang: en
 ---
 A green replication health icon is the most dangerous thing in your disaster recovery posture, because it looks like readiness and is not. Azure Site Recovery setup tends to stop at the moment the portal reports that a virtual machine is protected and the recovery points are flowing, and the team marks the workload as covered. Then the primary region has a bad afternoon, someone opens the recovery plan that was never built, and the failover that was supposed to be a button press becomes an improvised scramble across a dozen machines that come up in the wrong order with no network to land in. The gap between replication being healthy and a region loss being survivable is the entire subject of this article, and closing it is the difference between disaster recovery on paper and disaster recovery you can actually run.
 
-![Azure Site Recovery setup for disaster recovery replication and test failover - Insight Crunch](/assets/images/blog/blog-69.webp)
+![Azure Site Recovery setup for disaster recovery replication and test failover - Insight Crunch](/assets/images/blog/blog-23.webp)
 
 The claim worth fixing in your head before any commands run is the test-failover rule: disaster recovery readiness is proven by a non-disruptive test failover, not by replication health alone. Replication tells you that bytes are leaving the primary region and landing in the secondary. It says nothing about whether those bytes assemble into a bootable machine, whether that machine can reach a domain controller, whether the application tier comes up after the database tier, or whether anyone has the runbook to coordinate the whole thing under pressure. A test failover answers every one of those questions in an isolated network without touching production, and a setup that skips it has bought storage replication and called it a recovery strategy. Everything below is organized around getting you to a rehearsed, repeatable failover rather than a healthy-looking replication dashboard.
 

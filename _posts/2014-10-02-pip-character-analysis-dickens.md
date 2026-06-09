@@ -6,7 +6,7 @@ date: 2014-10-02
 categories: ["Leisure"]
 tags: ["great-expectations", "charles-dickens", "pip", "character-analysis", "literary-analysis", "coming-of-age"]
 excerpt: "Pip's snobbery is not a personal moral failing. It is the predictable product of Victorian class-aspiration structures that shaped him before he could resist."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "victoria-stone"
 last_updated: 2014-10-02
@@ -16,7 +16,7 @@ Pip's snobbery is not a personal moral failing. It is the predictable product of
 
 <!--more-->
 
-![Pip Character Analysis in Great Expectations - Insight Crunch](/assets/images/blog/blog-84.webp)
+![Pip Character Analysis in Great Expectations - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 ## The Forge and the Marshes: Pip Before Satis House
 

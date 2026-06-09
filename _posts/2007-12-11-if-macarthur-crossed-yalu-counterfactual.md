@@ -6,7 +6,7 @@ date: 2007-12-11
 categories: ["Leisure"]
 tags: ["harry-truman", "counterfactual", "us-presidents", "korean-war", "douglas-macarthur", "nuclear-weapons"]
 excerpt: "MacArthur wanted to bomb Manchuria with nuclear weapons in November 1950. Truman refused. Four historians argue what would have followed if he had agreed."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-05.webp"
 reading_time: 67
 author: "rachel-foster"
 last_updated: 2026-05-29
@@ -14,7 +14,7 @@ lang: en
 ---
 At ten minutes past one on the morning of November 28, 1950, the Far East Command headquarters in Tokyo cabled the Joint Chiefs of Staff with intelligence that revised the assumptions of the previous month. Chinese forces, estimated by the Eighth Army at approximately two hundred thousand troops under General Peng Dehuai's Thirteenth Army Group, had counterattacked across an eighty-mile front extending south from the Yalu River. The Eighth Army's right flank had collapsed at the Chongchon River. X Corps, operating independently east of the Taebaek mountain spine, was being encircled by the Chinese Ninth Army Group at the Chosin Reservoir. Douglas MacArthur, who had told reporters in Tokyo six days earlier that American troops would be home by Christmas, now informed Washington that an entirely new war had begun.
 
-![Truman MacArthur Korean War Yalu nuclear counterfactual analysis - Insight Crunch](/assets/images/blog/blog-85.webp)
+![Truman MacArthur Korean War Yalu nuclear counterfactual analysis - Insight Crunch](/assets/images/blog/blog-05.webp)
 
 What followed across the next four months became the largest civilian-control-of-the-military crisis in twentieth-century American history. MacArthur wanted authorization to pursue Chinese forces across the Yalu River into Manchuria, to bomb the industrial complex at Antung and the rail bridges spanning the river, to blockade the Chinese coast from the Yangtze south to Canton, and, by his own subsequent testimony to the Senate Armed Services and Foreign Relations Committees in May 1951, to lay down a defensive radioactive cobalt belt across the Sino-Korean border using somewhere between thirty and fifty atomic weapons. Harry Truman refused every component of the request. In April 1951, after MacArthur's letter to House Minority Leader Joseph Martin became public, Truman fired him, a decision examined in [the dedicated article on the April 1951 relief](/truman-fires-macarthur-1951).
 

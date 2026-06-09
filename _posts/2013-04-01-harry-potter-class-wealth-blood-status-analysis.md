@@ -6,7 +6,7 @@ date: 2013-04-01
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Blood Status", "Social Class", "Pure-Blood Ideology"]
 excerpt: "How Harry Potter turns blood purity into class warfare: Malfoy wealth, Weasley poverty, and the slave economy of elves the wizarding world refuses to name."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 57
 author: "emily-reed"
 last_updated: 2013-04-01
@@ -16,7 +16,7 @@ lang: en
 
 There is a sleight of hand at the heart of the wizarding world, and most readers never catch it because Rowling performs the trick in plain sight. The pure-bloods who run magical Britain insist that the line dividing the worthy from the worthless is one of biology. Blood, they say. Heritage. The sacred continuity of magical descent. They have built an entire moral cosmology on the premise that some people are born better than others, and they have given that premise a vocabulary of genetics so that it sounds like a fact of nature rather than a decision made by people who benefit from it. But watch where the money sits. Watch who owns the manor and who patches the same set of dress robes for a decade. The vocabulary is genetic. The structure underneath is economic. Pure-blood ideology is not a theory of heredity at all. It is the wizarding aristocracy's defence of its own bank vault, and it has dressed that defence in the language of biology because biology cannot be argued with and a balance sheet can.
 
-![Class, wealth, and blood status analysis across the Harry Potter series](/assets/images/blog/blog-59.webp)
+![Class, wealth, and blood status analysis across the Harry Potter series](/assets/images/blog/blog-98.webp)
 
 This is the argument the series makes and almost never states aloud. Bigotry in these books is usually read as racism by analogy, with Muggle-borns standing in for persecuted minorities and the slur "Mudblood" functioning as a magical equivalent of real-world hatred. That reading is correct as far as it goes. But it stops a layer too early. Underneath the racial grammar there is a class grammar, and the two are not separate systems running in parallel. They are the same system wearing two faces. The people who police blood purity most fiercely are, with almost mathematical reliability, the people whose social position would collapse if blood stopped being the thing that mattered. Strip away the mystification and a brutal question surfaces: if lineage were not the distinguishing factor in this society, what exactly would separate the Malfoys from the Weasleys? Both are pure-blood. Both descend from ancient magical houses. The only meaningful difference between them is that one family is rich and the other is not. Pure-blood ideology exists, in large part, to make sure nobody asks that question out loud.
 

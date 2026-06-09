@@ -6,7 +6,7 @@ date: 2007-09-08
 categories: ["Leisure"]
 tags: ["us-presidents", "pattern-across-presidencies", "american-history", "supreme-court", "judicial-appointments", "presidential-luck"]
 excerpt: "Washington seated ten justices. Carter named zero across a full term. Lifetime tenure plus retirement timing forge a wildly uneven and lasting Court legacy."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 62
 author: "chloe-martin"
 last_updated: 2026-05-25
@@ -14,7 +14,7 @@ lang: en
 ---
 Jimmy Carter served a full four years and left office without seating a single justice on the Supreme Court of the United States. Richard Nixon served five and a half years, resigned in disgrace, and seated four, including a Chief Justice. George Washington seated ten because the bench did not exist until he built it. Andrew Johnson seated none because the Senate, with the help of a Congress that simply shrank the bench from ten members down to seven during his tenure, refused to let him. William Henry Harrison and Zachary Taylor each got zero, but neither lived long enough to plausibly try. The lifetime tenure clause embedded in Article III, paired with the political randomness of retirement and the demographic accident of death, distributes a presidency's most enduring power according to a logic that defies the language of merit, ideology, or even effort. It is a logic of timing.
 
-![Supreme Court appointment variance across presidents from Washington to Clinton - Insight Crunch](/assets/images/blog/blog-70.webp)
+![Supreme Court appointment variance across presidents from Washington to Clinton - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This article tests the variance claim across every presidency from George Washington through Bill Clinton, walks the appointment counts seat by seat, names the InsightCrunch Supreme Court Appointment Variance Analysis as the organizing artifact, and addresses head on the strongest counter to a pure luck account: that presidents shape their own appointment opportunities through political pressure on sitting justices, through Senate maneuvering, and through the calculated holding open or filling in of vacancies. The luck framing is part of the story. It is not the whole story. The accurate account is that the Article III lifetime structure amplifies both genuine accident and political skill, with a residue of variance that no theory can fully smooth out. Carter, in this account, was neither incompetent nor unlucky in any single sense; he was the unique modern case of a full term that produced no organic vacancies and no political opening to manufacture one.
 

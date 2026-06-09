@@ -6,7 +6,7 @@ date: 2022-08-26
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "mercutio", "queen-mab", "queen-mab-speech-analysis"]
 excerpt: "Mercutio's Queen Mab speech opens as a charming fairy fancy and spirals into something bitter and obscene, exposing the dark mind beneath his quick wit."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-29.webp"
 reading_time: 60
 author: "diana-patel"
 last_updated: 2022-08-26
@@ -14,7 +14,7 @@ lang: en
 ---
 A man begins to describe a fairy no bigger than the stone in an alderman's ring, and forty lines later he is talking about horses with matted manes, women pressed in their sleep, and dreams that mean nothing at all. The passage that runs through the middle of Act 1 Scene 4 is the longest single stretch of poetry given to anyone in the play before the lovers meet, and the strangest. It belongs to a character who is not in love, not a Capulet, not a Montague, and not, by the logic of the romance plot, necessary at all. The standard account treats the Queen Mab speech as a charming digression, a bit of fairy whimsy to be cut for time or staged as a party piece. That account misses the design. The lines do not wander. They descend, by deliberate degrees, from delight into filth and from filth into a flat denial that any of it carries weight, and the descent is the point.
 
-![Mercutio Queen Mab speech Act 1 Scene 4 close reading - Insight Crunch](/assets/images/blog/blog-05.webp)
+![Mercutio Queen Mab speech Act 1 Scene 4 close reading - Insight Crunch](/assets/images/blog/blog-29.webp)
 
 What follows is a close reading of the speech as a controlled fall. The fairy who starts as a midwife to dreams ends as a hag who teaches maids to bear the weight of men, and the speaker who began with an agate-stone ends by insisting that dreams are children of an idle brain. The verse gets faster, coarser, and more violent in exact proportion as the conceit gets darker, until the friend beside him has to break in to make it stop. Reading the arc closely reveals more about the man speaking than about the fairy he claims to describe, and it sets the tone for the whole shadow the wit casts across the comedy that surrounds him.
 

@@ -6,7 +6,7 @@ date: 2023-02-06
 categories: ["Technology"]
 tags: ["Azure", "Azure Container Registry", "AKS", "Troubleshooting", "Identity", "Cloud Computing"]
 excerpt: "An unauthorized ACR pull is a missing attach or AcrPull role on the pulling identity, not a reason to enable the admin account. Fix the right cause first."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 61
 author: "gregory-marsh"
 last_updated: 2023-02-06
@@ -14,7 +14,7 @@ lang: en
 ---
 A deployment that worked yesterday stops working today, and the only signal you get is a terse line in the event stream saying the image pull was unauthorized. The node tried to fetch a container image from your Azure Container Registry, the registry refused it with a 401, and now your pod sits in a back-off loop while the rest of the rollout waits. An unauthorized pull from ACR is one of the most common reasons a working container platform suddenly refuses to start a workload, and it is also one of the most misdiagnosed, because the fastest looking fix is almost never the right one. The pull is unauthorized because the thing doing the pulling cannot prove it is allowed to read the registry, and the durable repair is to give that identity the permission it needs, not to weaken the registry until anyone can read it.
 
-![Fix Container Registry Pull Unauthorized](/assets/images/blog/blog-13.webp)
+![Fix Container Registry Pull Unauthorized](/assets/images/blog/blog-22.webp)
 
 This article walks the whole failure from the symptom to the fix. You will learn how to read the error so you know which identity is actually being refused, how to confirm each distinct cause rather than guessing, and how to apply the least-privilege repair for the cause you actually have. By the end you should be able to look at an unauthorized pull, name the cause in one sentence, run one confirming check, and apply one fix, without ever reaching for the registry admin account as a shortcut.
 

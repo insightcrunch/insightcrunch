@@ -6,7 +6,7 @@ date: 2017-06-19
 categories: ["Industry"]
 tags: ["dhurandhar", "fact-check", "reality", "bollywood", "shadow-war", "counter-terrorism"]
 excerpt: "A scene-by-scene fact check of Dhurandhar against the real shadow war, revealing what the film got right, what it invented, and what it deliberately omitted."
-image: "/assets/images/blog/blog-47.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2017-06-19
@@ -16,7 +16,7 @@ Ranveer Singh rides a motorcycle through Karachi's congested lanes, pulls alongs
 
 <!--more-->
 
-![Dhurandhar vs Reality Fact Check - Insight Crunch](/assets/images/blog/blog-47.webp)
+![Dhurandhar vs Reality Fact Check - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 ## The Film's Version
 

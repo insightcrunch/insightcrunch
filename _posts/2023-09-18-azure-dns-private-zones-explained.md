@@ -6,7 +6,7 @@ date: 2023-09-18
 categories: ["Technology"]
 tags: ["Azure", "Azure DNS", "Private DNS", "Networking", "VNet", "Cloud Computing"]
 excerpt: "Azure Private DNS zones resolve only for linked VNets. Learn VNet links, auto-registration, the Azure resolver, and hybrid DNS forwarding in depth here."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 62
 author: "kevin-reeves"
 last_updated: 2023-09-18
@@ -16,7 +16,7 @@ A name that resolves perfectly from one virtual machine and returns nothing from
 
 This article builds the full model of how name resolution works across Azure DNS, the public zones that serve the internet, the private zones that serve your virtual networks, the platform resolver that sits behind both, and the hybrid forwarding that stitches Azure resolution together with on-premises resolution. The goal is not to hand you a recipe to paste. It is to leave you able to design name resolution on purpose, to predict which answer a query will return before you run it, and to look at a resolution failure and know within seconds whether you are chasing a record problem, a link problem, or a forwarder problem.
 
-![Azure DNS and Private DNS Zones explained with VNet links, auto-registration, and the 168.63.129.16 resolver - Insight Crunch](/assets/images/blog/blog-92.webp)
+![Azure DNS and Private DNS Zones explained with VNet links, auto-registration, and the 168.63.129.16 resolver - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 The reason private DNS confuses people is that it behaves nothing like the public DNS they already understand. Public DNS is global by design. You register a domain, you delegate it to a set of name servers, and from that moment any resolver anywhere on the planet can walk the delegation chain and find your records. There is no concept of scope. A record is either published or it is not. Private DNS inverts that assumption completely. A Private DNS zone is not published anywhere. It has no delegation, no public name servers, and no path for an outside resolver to find it. It exists only inside the boundary you draw with virtual network links, and outside that boundary it may as well not exist. Engineers who carry the public model into the private world expect a private record to resolve everywhere, and they spend hours hunting for a corruption that is really just an unlinked network.
 

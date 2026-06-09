@@ -6,7 +6,7 @@ date: 2022-08-15
 categories: ["Technology"]
 tags: ["Azure", "Azure SQL", "40613", "Troubleshooting", "Database", "Cloud Computing"]
 excerpt: "Azure SQL error 40613 means the database is temporarily unavailable. Learn the real causes, when to retry with backoff, and how to handle serverless resume."
-image: "/assets/images/blog/blog-03.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 63
 author: "thomas-reid"
 last_updated: 2022-08-15
@@ -14,7 +14,7 @@ lang: en
 ---
 When an application throws Azure SQL error 40613, the message reads "Database '%.*ls' on server '%.*ls' is not currently available. Please retry the connection later." That single line panics teams because it looks like the database vanished. It almost never has. This code sits squarely on the transient-fault list, which means the platform is telling you the database is momentarily out of reach, not gone. The right response is rarely a frantic investigation and almost always a measured retry with backoff. The engineers who keep getting paged for 40613 are usually the ones whose code treats a five second blip as a permanent failure and surfaces it to the user.
 
-![Diagnosing Azure SQL error 40613 database not currently available - Insight Crunch](/assets/images/blog/blog-03.webp)
+![Diagnosing Azure SQL error 40613 database not currently available - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 The frustrating part is that 40613 is genuinely ambiguous on its own. The same code fires during a routine high-availability reconfiguration, during a service-tier change you triggered yourself, during the resume of a serverless database that auto-paused overnight, during sustained throttling, and during the rare regional incident. Five very different situations, one identical error string. This guide separates those five so you can tell, within a minute or two, which one is yours, whether to wait it out or act, and how to write the retry logic that turns the common cases into a non-event your users never notice. By the end you will be able to look at a burst of 40613 in your logs and say with confidence whether it was a failover that resilient code should have absorbed, a paused database that needed a warm-up, or something that warrants a support ticket.
 

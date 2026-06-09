@@ -6,7 +6,7 @@ date: 2017-06-29
 categories: ["Leisure"]
 tags: ["feluda", "royal-bengal-rahasya", "satyajit-ray", "dooars", "tiger"]
 excerpt: "রয়্যাল বেঙ্গল রহস্যের সম্পূর্ণ বিশ্লেষণ। ডুয়ার্স পটভূমি, বাঘের রহস্য, কোডেড ডায়েরি, বাঙালি শিকার-পরম্পরা, এবং ভয়ের পরিবেশের দক্ষ নির্মাণ।"
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 113
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![রয়্যাল বেঙ্গল রহস্য: বাঘ, ডায়েরি, ও উত্তরবঙ্গের জঙ্গল - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-45.webp)
+![রয়্যাল বেঙ্গল রহস্য: বাঘ, ডায়েরি, ও উত্তরবঙ্গের জঙ্গল - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-84.webp)
 
 ## প্রকাশনা প্রসঙ্গ
 

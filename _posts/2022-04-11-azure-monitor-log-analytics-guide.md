@@ -6,7 +6,7 @@ date: 2022-04-11
 categories: ["Technology"]
 tags: ["Azure", "Azure Monitor", "Log Analytics", "Observability", "KQL", "Cloud Computing"]
 excerpt: "Azure Monitor and Log Analytics confuse most teams. Learn metrics vs logs, KQL, workspace design, diagnostic settings, and the cost model engineers must know."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 59
 author: "jason-mckenzie"
 last_updated: 2022-04-11
@@ -16,7 +16,7 @@ The reason most teams cannot answer a simple incident question, "what was this s
 
 That gap is the subject of this guide. Azure Monitor is the umbrella platform that collects, stores, and acts on telemetry from every layer of your estate, from the bare metal under a virtual machine to a single line of application code. Log Analytics is the query engine and storage tier underneath it, the place where log records land and where you interrogate them with a query language called KQL. The two names get used interchangeably in hallway conversation, and that imprecision is the source of more confusion than any other single thing about Azure observability. They are not the same component, they do not bill the same way, and they do not fail for the same reasons.
 
-![Azure Monitor and Log Analytics architecture, metrics vs logs and diagnostic settings - Insight Crunch](/assets/images/blog/blog-25.webp)
+![Azure Monitor and Log Analytics architecture, metrics vs logs and diagnostic settings - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 By the end of this guide you will be able to draw the boundary between the two with confidence, decide for any given signal whether it belongs in metrics or in logs, design a workspace topology that does not collapse under access-control or cost pressure, write KQL that answers real questions instead of returning timeouts, wire a resource so its telemetry actually arrives, and read an ingestion bill well enough to predict it before it lands. Those are the skills that separate an engineer who has Azure Monitor enabled from one who can use it under fire.
 

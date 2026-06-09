@@ -6,7 +6,7 @@ date: 2022-02-14
 categories: ["Technology"]
 tags: ["Azure", "Cosmos DB", "Architecture", "Performance", "Cloud Computing"]
 excerpt: "Azure Cosmos DB lives or dies by the partition key. Learn the RU model, the five consistency levels, and how to design a container that scales, not throttles."
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-98.webp"
 reading_time: 62
 author: "nathan-cole"
 last_updated: 2022-02-14
@@ -16,7 +16,7 @@ Most teams adopt Azure Cosmos DB for the promise on the label: a globally distri
 
 This guide builds the mental model an engineer needs to reason about Cosmos DB at the level where production incidents actually happen, rather than at the level where the marketing happens. We will work from the resource hierarchy down through logical and physical partitions, treat request units as the unit of currency they really are, walk the five consistency levels and what each one costs you, and finish with a partition-key scorecard you can apply to any container before you ever write a query.
 
-![Azure Cosmos DB engineering guide to partition keys, request units, and consistency - Insight Crunch](/assets/images/blog/blog-04.webp)
+![Azure Cosmos DB engineering guide to partition keys, request units, and consistency - Insight Crunch](/assets/images/blog/blog-98.webp)
 
 ## What Azure Cosmos DB Actually Is: The Mental Model to Hold
 

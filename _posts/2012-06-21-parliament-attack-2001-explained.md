@@ -6,7 +6,7 @@ date: 2012-06-21
 categories: ["Industry"]
 tags: ["parliament-attack", "2001", "jaish-e-mohammed", "lashkar-e-taiba", "nuclear-standoff"]
 excerpt: "The 2001 Indian Parliament attack by JeM and LeT terrorists, the nuclear standoff and military mobilization it triggered, and its lasting consequences."
-image: "/assets/images/blog/blog-25.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 70
 author: "thomas-reid"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ On the morning of December 13, 2001, five heavily armed men drove a white Ambass
 
 <!--more-->
 
-![Parliament Attack 2001 Explained - Insight Crunch](/assets/images/blog/blog-25.webp)
+![Parliament Attack 2001 Explained - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 The National Democratic Alliance government, led by Prime Minister Atal Bihari Vajpayee, blamed two Pakistan-based organizations for the assault: [Jaish-e-Mohammed](https://insightcrunch.com/2012/02/10/jaish-e-mohammed-complete-guide/) and [Lashkar-e-Taiba](https://insightcrunch.com/2012/02/04/lashkar-e-taiba-complete-guide/). Home Minister Advani told the Lok Sabha that evidence pointed conclusively to a neighboring country and terrorist organizations active within its borders. Within a week, India recalled its High Commissioner from Islamabad, severed rail and bus links, banned Pakistani civilian overflights, and initiated Operation Parakram, the largest military mobilization since the 1971 war. By January 2002, between 500,000 and 800,000 Indian troops had deployed to forward positions along the international border and the Line of Control, facing approximately 300,000 Pakistani soldiers on the other side. Both countries repositioned nuclear-capable ballistic missiles closer to each other's territory. For ten months, the world held its breath as two nuclear-armed nations stood on the precipice of a conflict that could have killed millions. The restraint that ultimately prevailed in 2001 would not survive the next two decades. Uri in 2016 triggered [India's first surgical strikes](https://insightcrunch.com/2012/05/22/uri-attack-2016-explained/) across the Line of Control. [Pulwama in 2019](https://insightcrunch.com/2012/05/28/pulwama-attack-2019-explained/) led to the Balakot airstrike inside Pakistani territory. And [Pahalgam in 2025](https://insightcrunch.com/2012/06/03/pahalgam-attack-2025-explained/) triggered [Operation Sindoor](https://insightcrunch.com/2012/07/05/operation-sindoor-complete-guide/), the most dangerous nuclear crisis since the Cuban Missile Crisis. The Parliament attack was the first crack in India's strategic patience. Every crack that followed can be traced back to this morning.
 

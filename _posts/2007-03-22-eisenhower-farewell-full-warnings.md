@@ -6,7 +6,7 @@ date: 2007-03-22
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "myth-bust", "us-presidents", "historical-myths", "eisenhower-farewell", "military-industrial-complex"]
 excerpt: "Everyone recalls Eisenhower's military-industrial-complex warning. His January 1961 farewell held three more, on science, debt, and resources, now lost."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2026-06-05
@@ -18,7 +18,7 @@ And it has almost entirely eaten the rest of the speech.
 
 Ask an educated American what Eisenhower said in his farewell, and the answer comes back in four words: the military-industrial complex. That is the memory. That is what survived. The trouble is that the memory is a fragment. The military-industrial passage occupies roughly two hundred words of a speech more than eight times that length, and Eisenhower built around it a structure of related warnings that popular recollection has quietly discarded. He warned about a "scientific-technological elite" capturing public policy. He warned about plundering the resources of tomorrow for the convenience of today, a fiscal and generational alarm that almost no one quotes. He wove through the entire address a plea for balance, for proportion, for a republic that did not let any single pressure, military or otherwise, dominate its judgment. The farewell was not a single warning with decoration attached. It was a sustained argument with at least four distinct edges, and the country remembers one of them.
 
-![Eisenhower January 1961 farewell address four warnings beyond military-industrial complex analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Eisenhower January 1961 farewell address four warnings beyond military-industrial complex analysis - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 This article grades the popular belief that Eisenhower's farewell warned only about the military-industrial complex. The grade is straightforward. The belief is false as a description of the speech and true as a description of the speech's afterlife. Eisenhower said far more than the famous line. What the culture chose to keep was the famous line. Understanding the gap between those two facts tells us something about Eisenhower, something about the speech's strange and deliberate construction, and something about how national memory edits its own founders. The reader who finishes this piece should be able to reconstruct the farewell's full four-warning architecture from memory, name the men who drafted it, and explain why three of its four warnings vanished while the fourth became immortal.
 

@@ -7,7 +7,7 @@ categories: ["Leisure"]
 tags: ["lord-of-the-flies", "william-golding", "simon-character", "character-analysis", "christ-figure", "classic-literature"]
 author: "lauren-hayes"
 excerpt: "Simon is the only character who understands what the beast actually is. His death is the novel's killing of the one person who could name the problem."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-81.webp"
 last_updated: 2014-05-15
 reading_time: 70
 lang: en
@@ -16,7 +16,7 @@ Simon is the quietest boy on the island and the only one who understands what th
 
 <!--more-->
 
-![Simon Character Analysis in Lord of the Flies - Insight Crunch](/assets/images/blog/blog-87.webp)
+![Simon Character Analysis in Lord of the Flies - Insight Crunch](/assets/images/blog/blog-81.webp)
 
 The standard classroom treatment frames Simon as a Christ figure, and the imagery supports that reading. He is gentle, selfless, prophetic in his understanding, killed by the community he tried to save, and carried out to sea in a passage whose phosphorescent beauty reads as transfiguration. Patrick Reilly's theological analysis in *Lord of the Flies: Fathers and Sons* (1992) develops the Christological parallels extensively, and Golding's own Anglican commitments make the parallel plausible as authorial intention. But the Christ-figure reading, taken alone, flattens what Simon actually does in the novel. It treats him as a symbol of sacrificial innocence when he is better understood as a specific epistemic agent whose knowledge the group destroys because absorbing it would require confronting their own capacity for violence. Simon is the novel's epistemic casualty. He dies not because he is innocent but because he understands what the others cannot bear to understand.
 

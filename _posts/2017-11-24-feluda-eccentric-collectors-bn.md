@@ -6,7 +6,7 @@ date: 2017-11-24
 categories: ["Leisure"]
 tags: ["feluda", "eccentric-collectors", "satyajit-ray", "bhadralok", "shokh"]
 excerpt: "ফেলুদা ক্যাননে পুনরাগত উদ্ভট সংগ্রাহক চরিত্রদের সম্পূর্ণ বিশ্লেষণ। বাঙালি ভদ্রলোকের শখ-ঐতিহ্য, সংরক্ষক হিসেবে সংগ্রাহকের ভূমিকা, এবং উত্তরাধিকার-একাকীত্ব-সংরক্ষণের থিম।"
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 96
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদার পুনরাগত উদ্ভট সংগ্রাহকেরা: একটি চরিত্র-প্যাটার্নের অধ্যয়ন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-34.webp)
+![ফেলুদার পুনরাগত উদ্ভট সংগ্রাহকেরা: একটি চরিত্র-প্যাটার্নের অধ্যয়ন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-63.webp)
 
 ## টাইপটির সংজ্ঞা
 

@@ -6,7 +6,7 @@ date: 2019-03-04
 categories: ["Industry"]
 tags: ["dgse", "france", "rainbow-warrior", "africa", "covert-operations"]
 excerpt: "French DGSE operations from the 1985 Rainbow Warrior bombing to Africa's shadow wars, and how France built the most openly aggressive covert model abroad."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-53.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2019-03-04
@@ -16,7 +16,7 @@ A little after midnight in Auckland Harbour, two explosions ripped through the h
 
 <!--more-->
 
-![French DGSE Rainbow Warrior covert operations analysis - Insight Crunch](/assets/images/blog/blog-49.webp)
+![French DGSE Rainbow Warrior covert operations analysis - Insight Crunch](/assets/images/blog/blog-53.webp)
 
 The sinking of the Greenpeace vessel in July 1985 remains the only act of peacetime state terrorism that a Western democracy has ever formally admitted committing on the soil of a friendly nation. That admission, dragged out of Paris over ten weeks of denials, lies, and a collapsing cover story, is what makes the case so useful. Most covert operations vanish into deniability. This one did not. It produced a paper trail, a dead body, two convicted agents, a resigned defence minister, a sacked spy chief, and a prime ministerial confession broadcast to the world. It is the rare shadow operation that became a matter of public record, and the record reveals something other intelligence histories obscure: how a democracy thinks when it decides that violence abroad is simply a tool of policy, no more exceptional than a trade tariff or a diplomatic note.
 

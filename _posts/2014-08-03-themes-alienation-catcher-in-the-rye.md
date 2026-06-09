@@ -6,7 +6,7 @@ last_updated: 2014-08-03
 author: "elena-wright"
 slug: "themes-alienation-catcher-in-the-rye"
 excerpt: "Holden's alienation reads as cultural critique on the surface. Underneath, it operates as psychological defense against grief and trauma Salinger encoded."
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-42.webp"
 categories: ["Leisure"]
 tags: ["catcher-in-the-rye", "jd-salinger", "alienation", "themes", "literary-analysis", "coming-of-age"]
 reading_time: 70
@@ -16,7 +16,7 @@ J.D. Salinger published The Catcher in the Rye in 1951, and within a decade the 
 
 <!--more-->
 
-![Alienation in The Catcher in the Rye - Insight Crunch](/assets/images/blog/blog-38.webp)
+![Alienation in The Catcher in the Rye - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 This distinction between critique and defense changes everything about how the alienation theme operates in the text. When Holden is read as a social critic, his judgments function as insights, and the reader's proper posture is alignment: we stand with Holden against the phonies. If Holden is a traumatized adolescent deploying rejection as a defensive structure, his judgments function as symptoms, and the reader's proper posture is compassion held alongside analytical distance. The second reading does not dismiss Holden or condescend to him. It takes his pain more seriously than the rebel reading does, because it asks what produced the rejection rather than celebrating the rejection itself. Salinger's text supports both readings, but the psychological-defense reading accounts for more of what the novel actually contains, including the moments the conventional reading has to ignore or explain away.
 

@@ -6,7 +6,7 @@ date: 2019-08-12
 categories: ["Industry"]
 tags: ["ic-814", "1999", "release-decision", "masood-azhar", "consequences"]
 excerpt: "How India's decision to release Masood Azhar during the IC-814 hijacking crisis set in motion a consequence chain spanning twenty-six years and counting."
-image: "/assets/images/blog/blog-85.webp"
+image: "/assets/images/blog/blog-49.webp"
 reading_time: 71
 author: "amit-chatterjee"
 last_updated: 2019-08-12
@@ -16,7 +16,7 @@ On the last day of December 1999, an Indian Airlines aircraft sat on a runway in
 
 <!--more-->
 
-![IC-814 Release Decision 1999 - Insight Crunch](/assets/images/blog/blog-85.webp)
+![IC-814 Release Decision 1999 - Insight Crunch](/assets/images/blog/blog-49.webp)
 
 This is the first link in a chain. Everything that follows in this series, the targeted eliminations on motorcycles in Karachi, the surgical strikes across the Line of Control, the Balakot airstrike, the cross-border missile salvos of Operation Sindoor, traces back through a sequence of attacks and responses to a single tarmac in southern Afghanistan. The argument here is precise and uncomfortable. The shadow war India would eventually wage against terror infrastructure inside Pakistan was not invented by any planner in 2021. It was made inevitable by what happened at Kandahar, because the three men freed there did not retire. One built the deadliest terror organisation Pakistan would ever export. One murdered an American journalist and helped finance the worst terrorist attack in history. One returned to the Kashmir militancy he had been pulled out of. The decision to free them was, in the most literal sense, the planting of three time bombs, and the rest of this twenty-six-year story is the sound of them going off.
 

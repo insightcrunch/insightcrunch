@@ -6,7 +6,7 @@ date: 2024-06-03
 categories: ["Technology"]
 tags: ["Azure", "CQRS", "Event Sourcing", "Architecture", "Cosmos DB", "Cloud Computing"]
 excerpt: "CQRS and event sourcing on Azure separate read and write models and store events, not state. Learn the reference design, projections, and when it pays."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 63
 author: "james-carter"
 last_updated: 2024-06-03
@@ -14,7 +14,7 @@ lang: en
 ---
 Most teams reach for CQRS and event sourcing after a single database has stopped being able to do two jobs at once. The write side wants strict invariants, transactional integrity, and a normalized shape that protects the truth. The read side wants denormalized documents, wide fan-out, and query shapes that have nothing to do with how the data was written. For a while you serve both from one model, and the model slowly turns into a compromise that serves neither well. CQRS, Command Query Responsibility Segregation, is the decision to stop compromising and split the two. Event sourcing is the decision to stop storing the current state at all and instead store the ordered sequence of facts that produced it. The two patterns travel together often enough that people conflate them, but they are separate choices with separate costs, and the central argument of this guide is that you should adopt each one only when the domain earns it.
 
-![CQRS and event sourcing on Azure architecture with read and write models, event store, and projections - Insight Crunch](/assets/images/blog/blog-66.webp)
+![CQRS and event sourcing on Azure architecture with read and write models, event store, and projections - Insight Crunch](/assets/images/blog/blog-55.webp)
 
 The reason this matters on Azure specifically is that the platform gives you several different ways to build the same shape, and the wrong choice locks in operational pain that no amount of clever code removes later. You can use Azure Cosmos DB and its change feed as both the event store and the engine that drives your read models. You can use Azure Event Hubs as a high-throughput append log. You can route commands through Azure Service Bus, build projections with Azure Functions, and serve queries from a denormalized store sized for reads. Each combination has a different consistency profile, a different failure surface, and a different bill. An architect who picks the combination by reasoning about the workload ends up with a system that scales cleanly. An architect who copies a reference diagram without understanding the eventual consistency it introduces ends up explaining to a product owner why a user who just saved a record cannot see it on the next screen.
 

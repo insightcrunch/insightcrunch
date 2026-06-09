@@ -6,7 +6,7 @@ date: 2022-10-31
 categories: ["Technology"]
 tags: ["Azure", "Bicep", "Troubleshooting", "DevOps", "ARM", "Cloud Computing"]
 excerpt: "Bicep deployment errors split into compile-time and deploy-time stages. Learn to read each, confirm the cause, and apply the tested fix at the right stage."
-image: "/assets/images/blog/blog-66.webp"
+image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "marcus-hall"
 last_updated: 2022-10-31
@@ -14,7 +14,7 @@ lang: en
 ---
 When a Bicep deployment fails, the single most useful thing you can do before touching a line of code is decide which of two worlds the failure lives in. Bicep deployment errors fall into exactly two stages, and they look deceptively similar in a terminal scrollback. A compile-time error is the Bicep toolchain refusing to turn your `.bicep` file into a valid ARM template: a linter complaint, a type mismatch, a required property you left out, a module path that does not resolve, or a `targetScope` that does not match the command you ran. A deploy-time error is something else entirely. By that point the compile has already succeeded, an ARM template exists, and Azure Resource Manager is rejecting the request the same way it would reject any ARM deployment: an `AuthorizationFailed` because the deploying identity lacks a role, a `QuotaExceeded` because the region is out of vCPUs, a `Conflict` because another operation holds the resource. Mistaking one stage for the other is the most common reason engineers spend an afternoon rewriting syntax that was never wrong.
 
-![Fixing Bicep deployment errors across compile-time and deploy-time stages - Insight Crunch](/assets/images/blog/blog-66.webp)
+![Fixing Bicep deployment errors across compile-time and deploy-time stages - Insight Crunch](/assets/images/blog/blog-20.webp)
 
 This article is built on one organizing idea that you can carry into every red deployment you ever read. Bicep is a transpiler. It compiles your authored file down to an ARM template in JSON, and then it hands that JSON to the same Resource Manager control plane that a hand-written ARM template would hit. Once you internalize that, the entire error surface separates cleanly. Anything the Bicep CLI emits with a `BCP` code, anything the linter flags, anything about modules and types and scope, happens before a single byte reaches Azure. Anything ARM emits, the provider validation, the role checks, the quota math, the in-progress conflicts, happens after the compile finished and is identical to the errors a JSON author would see. Knowing which side of that line you are on tells you which tool to reach for, which command confirms the cause, and whether the fix belongs in your editor or in your subscription.
 

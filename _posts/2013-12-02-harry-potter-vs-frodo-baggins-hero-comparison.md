@@ -6,7 +6,7 @@ date: 2013-12-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Frodo Baggins", "Tolkien", "Reluctant Hero"]
 excerpt: "Harry Potter vs Frodo Baggins compared through the burden of evil, fellowship, the mentor's death, and the wounded return one survives and one cannot."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 42
 author: "emily-reed"
 last_updated: 2013-12-02
@@ -16,7 +16,7 @@ The question is not which boy is braver. Bravery is the cheapest of the qualitie
 
 Place these two figures side by side and the resemblance is almost embarrassing. A small person raised in obscurity inherits an object that contains a piece of a dark lord's power. A mentor with a long beard and an air of riddling wisdom sets the small person on a road. A loyal companion refuses to leave. The mentor vanishes before the worst of it. The small person walks, knowingly, toward a death he expects to be final. And at the last moment, when his own strength has failed entirely, the thing is undone not by his triumph but by a swerve of fate that an earlier, smaller act of mercy or chance had set in motion. Lay the climaxes over one another and the bones align.
 
-![Harry Potter vs Frodo Baggins comparison in Harry Potter](/assets/images/blog/blog-58.webp)
+![Harry Potter vs Frodo Baggins comparison in Harry Potter](/assets/images/blog/blog-67.webp)
 
 But bones are not bodies, and the flesh on these two skeletons is made of different convictions. Tolkien wrote out of a Catholic imagination that believed evil to be a stain, a corruption that works on whoever touches it, and that believed certain wounds to be permanent in this world and healable only by departure from it. Rowling wrote out of a later, more secular, Anglican-inflected humanism that believed evil to be a kind of self-mutilation, a fragmentation of the soul that an undamaged soul can resist and even, in the right conditions, survive contact with. The boy from Surrey and the gentleman from the Shire are reluctant heroes, yes. But they are reluctant in different grammars, and the grammar is the whole point.
 

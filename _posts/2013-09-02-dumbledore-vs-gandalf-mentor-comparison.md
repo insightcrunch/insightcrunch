@@ -6,7 +6,7 @@ date: 2013-09-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Albus Dumbledore", "Gandalf", "Mentor Comparison"]
 excerpt: "Dumbledore vs Gandalf in Harry Potter and Tolkien compared as two theories of mentorship: the manager who withholds truth and the companion who simply walks."
-image: "/assets/images/blog/blog-52.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 42
 author: "lauren-hayes"
 last_updated: 2013-09-02
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which wizard is wiser. Set the two old men side by side, robe to robe, staff to wand, and the temptation is to score them like prizefighters: who reads the future better, who duels more devastatingly, who delivers the more quotable line at the threshold of catastrophe. That contest is a category error. Both would win it on alternate days, and the winner would tell us nothing. The real question, the one that opens onto two entire moral universes, is this: does mentorship work better as management or as accompaniment? Does the young hero flourish more under a guide who knows the whole plan and parcels out the truth in measured doses, or under a guide who walks beside him precisely because he does not know the ending either?
 
-![Dumbledore and Gandalf compared as two philosophies of mentorship](/assets/images/blog/blog-52.webp)
+![Dumbledore and Gandalf compared as two philosophies of mentorship](/assets/images/blog/blog-11.webp)
 
 Hold the two figures in the same frame and the surface likeness is almost comic in its exactness. Long white beard. Half-moon spectacles or bushy brows above sharp eyes. A staff or a wand that conceals more power than its bearer ever fully unsheathes. An institutional role that grants authority without quite explaining it. A death in the third act that forces the protagonist to continue alone. Yet the resemblance is a trap. It invites the reader to assume the two are doing the same job in the same way, and they are not. One manages a war from above, placing his ward where the ward must stand and declining to say why. The other shoulders a pack and climbs the same mountains as the people he advises, ignorant of the road's end and honest about that ignorance. The likeness is in the costume. The difference is in the soul of the enterprise.
 

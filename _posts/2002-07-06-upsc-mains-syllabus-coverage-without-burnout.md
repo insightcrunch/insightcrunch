@@ -6,7 +6,7 @@ date: 2002-07-06
 categories: ["Industry"]
 tags: ["UPSC", "UPSC Mains", "Syllabus Coverage", "Smart Preparation", "Burnout Prevention", "IAS Preparation"]
 excerpt: "UPSC Mains smart coverage strategy 80-20 rule for syllabus depth versus surface topic identification revision scheduling and sustainable preparation without burnout."
-image: "/assets/images/blog/blog-58.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 65
 author: "deepika-joshi"
 last_updated: 2026-04-16
@@ -22,7 +22,7 @@ UPSC Mains syllabus coverage without burnout represents the sustainability dimen
 
 The cognitive shift required is from treating uniform deep coverage as preparation ideal to recognising strategic depth allocation as preparation reality. The aspirant who attempts to cover every syllabus line with equal depth over 12 months enables either unfinished coverage by examination date or burnout during final months. The aspirant who allocates depth proportional to topic frequency and importance achieves complete syllabus coverage with sustainable intensity producing examination-ready preparation without late-cycle degradation. Both aspirants invest preparation time; only one deploys that time with strategic depth allocation that sustainable preparation requires.
 
-![UPSC Mains Smart Coverage Strategy and Burnout Prevention - Insight Crunch](/assets/images/blog/blog-58.webp)
+![UPSC Mains Smart Coverage Strategy and Burnout Prevention - Insight Crunch](/assets/images/blog/blog-47.webp)
 
 By the end of this guide you will understand the 80-20 principle application to Mains syllabus the deep-coverage topic identification criteria the surface-coverage topic identification criteria the middle-coverage topic handling the smart coverage methodology the revision scheduling that sustains coverage depth the burnout prevention strategies the integration with broader Mains preparation and the sustainability framework that produces examination-ready preparation without late-cycle quality degradation. The total time investment for smart coverage planning requires approximately 10 to 15 hours over the preparation cycle producing substantial coverage efficiency gains that translate to preparation sustainability. The broader Mains framework is established in the [UPSC Mains complete guide to all 4 GS papers and essay](/2002/12/11/upsc-mains-complete-guide/) article and the preparation timeline framework in the [UPSC study plan 12 18 24 months preparation timelines](/2003/07/01/upsc-study-plan-12-18-24-months/) article that contextualise sustainable coverage within comprehensive preparation strategy. The complementary static-dynamic balance is in the [UPSC Mains static versus dynamic content balance](/2002/07/02/upsc-mains-static-vs-dynamic-content/) article and the final phase approach in the [UPSC Mains last 60 days strategy](/2002/06/27/upsc-mains-last-60-days-strategy/) article that complete the strategic coverage framework.
 

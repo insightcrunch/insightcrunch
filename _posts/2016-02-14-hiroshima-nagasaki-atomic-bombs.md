@@ -6,7 +6,7 @@ date: 2016-02-14
 categories: ["Leisure"]
 tags: ["hiroshima", "nagasaki", "atomic-bombs-1945", "manhattan-project", "pacific-war-end", "modern-history"]
 excerpt: "The atomic bombings of Hiroshima and Nagasaki killed between 110,000 and 210,000 people by year's end. No twentieth-century military decision is more contested."
-image: "/assets/images/blog/blog-65.webp"
+image: "/assets/images/blog/blog-44.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2016-02-14
@@ -16,7 +16,7 @@ The atomic bombings of Hiroshima on August 6 and Nagasaki on August 9 represent 
 
 <!--more-->
 
-![Hiroshima and Nagasaki Atomic Bombs Analysis - Insight Crunch](/assets/images/blog/blog-65.webp)
+![Hiroshima and Nagasaki Atomic Bombs Analysis - Insight Crunch](/assets/images/blog/blog-44.webp)
 
 Understanding the atomic bombings requires reconstructing the specific sequence of decisions made between April and August of the war's final year, identifying the information available to each decision-maker at each juncture, and then tracing how historians have subsequently reinterpreted those decisions as new archival material became available. The Manhattan Project that produced the weapons, the military and political context of the Pacific War's final months, the internal Japanese deliberations over surrender, and the emerging Cold War rivalry between Washington and Moscow all converge in a historically dense episode that resists reduction to simple moral judgment. This article reconstructs the decision-making process with the granularity the subject demands, engages the major scholarly positions from Gar Alperovitz through Tsuyoshi Hasegawa, and defends a verdict on where the historiography currently stands. The namable claim is that the bombings were neither purely military necessities nor purely diplomatic signals, but products of institutional momentum within a decision-making environment where multiple rationales reinforced a choice that no single rationale would have produced alone. To [trace these events on the interactive chronological map](https://reportmedic.org/tools/world-history-timeline.html) is to see how compressed the timeline truly was, with civilization-altering decisions unfolding across days rather than months.
 

@@ -6,7 +6,7 @@ date: 2019-09-02
 categories: ["Industry"]
 tags: ["26-11", "mumbai", "inflection-point", "counter-terror", "doctrine"]
 excerpt: "The 2008 Mumbai siege killed 166 people and rewired how India confronts terrorism, ending the era of absorbing attacks and making the shadow war inevitable."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 73
 author: "abigail-cooper"
 last_updated: 2019-09-02
@@ -16,7 +16,7 @@ For three days in late November 2008, a single coastal city held the attention o
 
 <!--more-->
 
-![26/11 Mumbai the Inflection Point](/assets/images/blog/blog-90.webp)
+![26/11 Mumbai the Inflection Point](/assets/images/blog/blog-10.webp)
 
 This is the reason the date itself became a proper noun. Indians do not say "the November 2008 attacks." They say "26/11," compressing the calendar into two numbers the way Americans compressed September 11 into "9/11," and the comparison is deliberate and exact. Both dates mark a before and an after. Both dates mark the moment a nation decided that the rules it had been playing by were rules written for a world that no longer existed. The siege of Mumbai is the hinge of the long story this series tells, the point at which the chain that began on the Kandahar tarmac in 1999 stopped being a chain of absorbed blows and started becoming a chain of planned responses. Before those three days, the Indian state met cross-border terrorism with diplomatic protest, dossiers handed to foreign capitals, and the patient hope that international pressure would eventually force Pakistan to act. After those three days, a different idea took root in New Delhi, slowly at first and then with gathering force, the idea that if justice was ever going to arrive, the country would have to build the means to deliver it itself.
 

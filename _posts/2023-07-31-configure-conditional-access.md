@@ -6,7 +6,7 @@ date: 2023-07-31
 categories: ["Technology"]
 tags: ["Azure", "Conditional Access", "Microsoft Entra ID", "Security", "Identity"]
 excerpt: "Configure Conditional Access policies in Entra ID with report-only mode testing, a break-glass exclusion, required MFA, and blocked legacy auth, safely."
-image: "/assets/images/blog/blog-17.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 61
 author: "benjamin-scott"
 last_updated: 2023-07-31
@@ -14,7 +14,7 @@ lang: en
 ---
 A Conditional Access policy in Microsoft Entra ID is the gate that decides whether a sign-in proceeds, proceeds with an extra requirement, or stops. Configure that gate correctly and you raise the security floor for an entire tenant in an afternoon: you require multifactor authentication where it matters, you shut the door on the legacy authentication protocols that quietly skip every modern control, and you do all of it without surprising a single legitimate user. Configure the same gate carelessly, and you can lock every administrator out of the tenant in the time it takes to click Enable.
 
-![Configure Conditional Access Policies the Safe Way - Insight Crunch](/assets/images/blog/blog-17.webp)
+![Configure Conditional Access Policies the Safe Way - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 That asymmetry is the whole reason this topic deserves a careful procedure rather than a quick walkthrough. A policy that requires MFA from an untrusted location protects the organization. The identical policy, enforced before anyone tested it, with no account left outside its scope, will block the people who would otherwise fix it. The Entra ID sign-in logs fill with failures, the help desk phone rings, and the only accounts that could reverse the policy are themselves caught behind it. Recovery from that state is possible but slow, and it is entirely avoidable.
 

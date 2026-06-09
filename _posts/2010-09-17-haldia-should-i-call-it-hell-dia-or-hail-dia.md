@@ -5,7 +5,7 @@ date: 2010-09-17
 categories: ["Industry"]
 tags: ["ILP", "TCS"]
 excerpt: "This is a post on TCS ILP Haldi by Maithreyi. The views expressed are solely of the writer. This is my first post from Haldia, a small village in the..."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 5
 author: "priya-mehta"
 last_updated: 2026-04-01
@@ -34,5 +34,5 @@ The only certain thing about TCS is uncertainity.I suggest they change their tag
 
 We are just hoping some miracle happens and our release date gets preponed.Meanwhile,we have decided to enjoy the stay at Haldia and try putting up with the conditions here.After all,the Corporate world demands us to be flexible and adaptable.So now its not “Hell-Dia” any longer.Its “HAIL-DIA”, rather “HALE-DIA”!!
 
-![TCS ILP Haldia](/assets/images/blog/blog-42.webp)
+![TCS ILP Haldia](/assets/images/blog/blog-86.webp)
 TCS ILP Haldia

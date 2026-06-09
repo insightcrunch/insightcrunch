@@ -6,7 +6,7 @@ date: 2015-11-11
 categories: ["Leisure"]
 tags: ["irish-great-famine", "potato-blight", "british-colonial-policy", "irish-history", "nineteenth-century", "modern-history"]
 excerpt: "The Irish Great Famine killed roughly a million people. A potato blight triggered it; British government policy decided the lethal scale of the dying."
-image: "/assets/images/blog/blog-54.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 75
 author: "diana-patel"
 last_updated: 2015-11-11
@@ -18,7 +18,7 @@ The Irish Great Famine killed roughly one million people between 1845 and 1852 a
 
 A traveller walking the roads of County Mayo or West Cork in the black winter that ran from late 1846 into 1847 would have passed scenes that contemporaries struggled to describe without sounding hysterical, and then discovered that the plainest description was the most accurate one. William Edward Forster, a young English Quaker who toured the western counties distributing relief, recorded villages where the living were too weak to bury the dead, cabins pulled down on top of their evicted occupants, and children whose limbs had wasted while their bellies swelled with the edema of starvation. Artists sent by the Illustrated London News sketched skeletal families crouched in roadside ditches. The dead were sometimes buried in their cabins because no one had the strength to dig a grave, and the trench graves filled at Skibbereen and at Schull became, within a generation, the most visited sites of a national grief.
 
-![The Irish Great Famine - Insight Crunch](/assets/images/blog/blog-54.webp)
+![The Irish Great Famine - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 What turned a crop failure into that catastrophe is the question this article answers, and the answer has three moving parts. The first is the structure of pre-famine Irish society, a structure of fragmented holdings and absentee ownership that had made three million people dependent on a single root. The second is the sequence of decisions taken by two successive British governments, one Conservative and one Liberal, the second of which governed Ireland according to an economic doctrine that placed the sanctity of markets above the prevention of mass death. The third is the long argument among historians, an argument that ran for a century and a half before the scholarly consensus settled close to where the Irish nationalist writers of the 1840s had stood at the time. Read together, those three parts deliver a hard conclusion. Famine, as the economist Amartya Sen would later argue using this very case, is rarely a simple shortage of food. It is a failure of distribution, and distribution is decided by policy.
 

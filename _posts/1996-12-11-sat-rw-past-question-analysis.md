@@ -6,7 +6,7 @@ date: 1996-12-11
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "Study Plan", "Question Analysis", "Strategy"]
 excerpt: "SAT reading and writing question patterns analyzed into a priority tier system: which question types to study first, second and last, with module differences."
-image: "/assets/images/blog/blog-67.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1996-12-11
@@ -14,7 +14,7 @@ lang: en
 ---
 Two students sit down with the same six weeks, the same stack of official practice, and the same goal of clearing the verbal section with room to spare. One of them opens a grammar textbook at chapter one and works forward, page by page, giving the subjunctive mood and the rules for parallel comparison the same loving attention as the comma splice. The other looks first at what the digital format actually asks, sorts every question type by how often it shows up, and spends the first two weeks almost entirely on the handful of patterns that carry the most points. Six weeks later, the second student is scoring forty to seventy points higher, and the difference has almost nothing to do with talent or vocabulary. It is a difference of allocation. The verbal section rewards the test-taker who studies in the order the section itself tests, not the order a syllabus happens to list.
 
-![SAT RW: Question Pattern Analysis - Insight Crunch](/assets/images/blog/blog-67.webp)
+![SAT RW: Question Pattern Analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 This article gives you that order. It takes the distribution of Reading and Writing item types across recent official practice and turns it into a three-tier study-priority system: the patterns to drill first because they appear constantly, the patterns to reach second because they appear often enough to matter but reward a developed foundation, and the rare patterns to study last or to leave alone entirely if your time is short. It is the verbal counterpart to [the math pattern analysis that maps the algebra and data-analysis frequencies](/1997/04/21/sat-math-past-question-analysis/), and it is built on the same idea that powers this entire series: points per hour is the only honest currency of test preparation. Every claim about how often a pattern appears is presented as an observed tendency across the practice material rather than a fixed quota, and you should confirm each one against the latest official sets before you bet your schedule on it. The College Board does not publish a public frequency table; what follows is a working map drawn from the shape of the released material, and it is meant to be checked, not worshipped.
 

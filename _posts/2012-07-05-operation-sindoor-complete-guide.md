@@ -6,7 +6,7 @@ date: 2012-07-05
 categories: ["Industry"]
 tags: ["operation-sindoor", "india-pakistan", "missile-strikes", "2025", "conflict", "ceasefire"]
 excerpt: "A definitive guide to Operation Sindoor, covering precision strikes on nine targets inside Pakistan, the 88-hour air conflict, and ceasefire aftermath."
-image: "/assets/images/blog/blog-21.webp"
+image: "/assets/images/blog/blog-40.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ Twenty-three minutes separated one strategic era from another. On the intervenin
 
 <!--more-->
 
-![Operation Sindoor Complete Guide - Insight Crunch](/assets/images/blog/blog-21.webp)
+![Operation Sindoor Complete Guide - Insight Crunch](/assets/images/blog/blog-40.webp)
 
 The name itself carried deliberate symbolism. Sindoor, the red vermillion mark worn by married Hindu women, referenced the [Pahalgam massacre](https://insightcrunch.com/2012/05/09/pahalgam-attack-2025-explained/) that triggered the operation. Indian Defence Minister Rajnath Singh framed the connection explicitly, stating that the terrorists who had erased the sindoor of many families by killing 26 tourists in Kashmir had now been brought to justice. The naming was not accidental. It embedded the military response in a cultural vocabulary of grief and retribution that resonated across the Indian public, transforming a military operation into a national narrative of reckoning. This guide reconstructs the entire arc, from the Pahalgam trigger through the 23-minute strike window, the Pakistani retaliation, the escalation to airbase strikes, the ceasefire, and the strategic consequences that continue to reshape the subcontinent.
 

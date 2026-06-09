@@ -6,7 +6,7 @@ date: 2015-08-08
 categories: ["Leisure"]
 tags: ["renaissance", "italian-renaissance", "burckhardt", "humanism", "cultural-history", "medieval-history"]
 excerpt: "The Renaissance is an 1860 Burckhardt invention. The 14th-16th century Italian reality was more continuous with medieval Europe than the frame admits."
-image: "/assets/images/blog/blog-71.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 71
 author: "amanda-ross"
 last_updated: 2015-08-08
@@ -16,7 +16,7 @@ The Renaissance is the most famous turning point in European history, and it is 
 
 <!--more-->
 
-![The Renaissance reconsidered: art, humanism, and a contested historical frame](/assets/images/blog/blog-71.webp)
+![The Renaissance reconsidered: art, humanism, and a contested historical frame](/assets/images/blog/blog-95.webp)
 
 This guide does something popular treatments rarely attempt. It separates two things that share a name. The first is a cluster of cultural production, the frescoes, domes, dialogues, poems, and political treatises made in Florence, Rome, Venice, Milan, Ferrara, and Urbino between roughly 1340 and 1550. The second is a theory about what that production meant: that it constituted a rebirth of antiquity, a birth of individualism, and a clean break from everything before it. The first is documented and genuinely remarkable. The second is an argument, and arguments can be tested against the record. When historians run that test, the headline claims do not survive intact.
 

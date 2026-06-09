@@ -6,7 +6,7 @@ date: 2013-06-22
 categories: ["Industry"]
 tags: ["hizbul-mujahideen", "leadership", "targeted-killings", "comparison", "shadow-war"]
 excerpt: "How Hizbul Mujahideen's Pakistan-based command structure was systematically decimated through targeted killings, assessed from Peer to Raza and beyond."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "jason-mckenzie"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ What does it mean when an armed organization loses its entire Pakistan-based lea
 
 <!--more-->
 
-![Hizbul Mujahideen Leadership Decimation Analysis - Insight Crunch](/assets/images/blog/blog-90.webp)
+![Hizbul Mujahideen Leadership Decimation Analysis - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The question driving this analysis is not simply who was killed, but what their deaths collectively reveal about the targeted campaign's strategic logic and its measurable impact on Hizbul Mujahideen's operational capacity. Bashir Ahmad Peer, Hizbul's designated launching chief in Pakistan, was [shot dead by unknown assailants in Rawalpindi in February 2023](https://insightcrunch.com/2013/06/01/bashir-ahmad-peer-hizbul-profile/). Within a single week, Syed Khalid Raza, a former Al-Badr Mujahideen commander with deep ties to Salahuddin's command structure, was [gunned down in Karachi](https://insightcrunch.com/2013/06/08/syed-khalid-raza-al-badr-profile/). Before that, Syed Noor Shalobar, a key recruiter and Pakistan Army collaborator based in Khyber Pakhtunkhwa, had already been [eliminated in the frontier](https://insightcrunch.com/2013/03/13/syed-noor-shalobar-profile/). Taken individually, each killing is a footnote in a longer campaign. Taken together, they constitute a systematic dismantling of the oldest Kashmiri separatist organization's ability to function from its Pakistani sanctuary.
 

@@ -6,7 +6,7 @@ date: 2023-06-19
 categories: ["Technology"]
 tags: ["Azure", "Cosmos DB", "Performance", "Architecture", "Cloud Computing"]
 excerpt: "Configure Cosmos DB partition keys the right way with high cardinality, even access, and query alignment, plus synthetic and hierarchical key patterns."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 61
 author: "marcus-hall"
 last_updated: 2023-06-19
@@ -14,7 +14,7 @@ lang: en
 ---
 A correctly chosen partition key is the single configuration decision that decides whether an Azure Cosmos DB container scales smoothly to terabytes and millions of requests per second, or quietly collapses into throttling under load that the provisioned throughput should have absorbed easily. When you configure Cosmos DB partition keys well, the database spreads storage and request units evenly across its backing infrastructure, common queries touch one place instead of fanning out, and the cost stays proportional to the work. When you choose badly, a single value soaks up a disproportionate share of traffic, requests pile up behind one busy worker, and you pay for capacity the platform cannot actually use because it sits idle on the partitions that nobody is touching.
 
-![Configuring Cosmos DB partition keys for even distribution and query alignment - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Configuring Cosmos DB partition keys for even distribution and query alignment - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 The difficulty is that this decision is effectively permanent. The key path is fixed when the container is created and cannot be altered in place afterward, so a poor choice is not a setting you toggle later but a migration you schedule, build, and validate. That irreversibility is exactly why the choice deserves a deliberate, scored process rather than a glance at the schema and a guess. This guide gives you that process: a mental model of how the service distributes data, a scorecard for grading candidate keys before you commit, the exact commands and templates to create the container correctly, the synthetic and hierarchical patterns that rescue an otherwise weak natural key, and the verification and migration mechanics for when a key already in production turns out to be wrong.
 

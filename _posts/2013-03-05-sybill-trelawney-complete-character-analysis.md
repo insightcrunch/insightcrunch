@@ -6,7 +6,7 @@ date: 2013-03-05
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Sybill Trelawney", "Divination", "Prophecy"]
 excerpt: "Sybill Trelawney in Harry Potter read as Cassandra reborn: the shabby fraud who made the prophecy that defined Harry's life, mocked yet genuinely gifted."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-35.webp"
 reading_time: 57
 author: "emily-reed"
 last_updated: 2013-03-05
@@ -16,7 +16,7 @@ lang: en
 
 She comes down to lunch perhaps twice a year. The rest of the time she stays in her tower, swathed in shawls and beads and the warm haze of sherry, peering into a future that her colleagues are certain she cannot see. The other professors treat her the way a hospital staff treats an eccentric relative who has been allowed to keep an honorary title: with tolerance, mild embarrassment, and the unspoken agreement that nobody will say the obvious thing out loud. Minerva McGonagall, the most clear-eyed woman in the castle, calls Divination one of the most imprecise branches of magic and barely conceals her contempt. Hermione Granger, the cleverest student of her generation, walks out of the subject in disgust. The reader is invited, lesson by lesson, prediction by overblown prediction, to join the consensus: this woman is a charlatan in a sequinned shawl, a comic interlude between the serious magic of Transfiguration and Potions.
 
-![Sybill Trelawney gazing into a crystal ball in the North Tower of Hogwarts](/assets/images/blog/blog-81.webp)
+![Sybill Trelawney gazing into a crystal ball in the North Tower of Hogwarts](/assets/images/blog/blog-35.webp)
 
 And yet she is the one who got it right. Twice. The single most important sentence in the entire seven-book sequence, the prophecy that sends a man to murder a family, that creates the Boy Who Lived, that structures the moral universe of the whole saga, came out of her mouth in a voice not her own. The prophecy that told a broken servant to return to his master, kicking off the resurrection that turns a children's adventure into a war, came out of her mouth too. The fraud made the forecasts on which everything depends. Rowling builds an elaborate machine of ridicule around this woman and then, quietly, lets the machine prove itself wrong without ever quite admitting that it has.
 

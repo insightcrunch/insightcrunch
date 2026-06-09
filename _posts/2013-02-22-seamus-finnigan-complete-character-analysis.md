@@ -6,7 +6,7 @@ date: 2013-02-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Seamus Finnigan", "Dumbledore's Army", "Gryffindor"]
 excerpt: "Seamus Finnigan in Harry Potter is the friend who is allowed to be wrong: a study of his doubt, his volatility, and his return to loyalty under the Carrows."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2013-02-22
@@ -16,7 +16,7 @@ lang: en
 
 Most friendships in the wizarding world are tested by danger. One is tested by disbelief. When the Boy Who Lived returns from the graveyard at the end of the Triwizard Tournament carrying a corpse and a warning, the adult world splits into those who believe him and those who would rather not. By the following autumn the split has reached the dormitory. A sandy-haired Irish boy who has shared a room with Harry Potter for four years looks at his roommate across the four-poster beds and says, more or less, that he is not sure he believes him either. The scene is brief. It is also one of the quietly devastating moments in the entire series, because the doubter is not a stranger, not a Slytherin, not an enemy. He is a friend. And the series, remarkably, lets him stay one.
 
-![Seamus Finnigan character analysis across the Harry Potter books](/assets/images/blog/blog-12.webp)
+![Seamus Finnigan character analysis across the Harry Potter books](/assets/images/blog/blog-81.webp)
 
 Seamus Finnigan is the character Rowling uses to test a proposition that the rest of the books mostly avoid: that loyalty might survive its own interruption. The trio's friendships are forged and reforged through spectacular ruptures, but the ruptures are almost always healed within the trio, between people whose bond is the structural spine of the narrative. Ron leaves in *Deathly Hallows* and returns transformed; Hermione and Ron fight and reconcile in a dozen registers; Harry and Dumbledore reach an estrangement of grief and information that resolves only after death. These are the great fractures. They are also, every one of them, fractures the plot cannot afford to leave open. The Irish boy in the next bed is different. His break with Harry costs the plot nothing. The story could proceed without ever mending it. And that is precisely why the mending matters: nothing forced Rowling to bring this minor character back into the fold, which means the return is a thesis about friendship rather than a mechanism of plot.
 

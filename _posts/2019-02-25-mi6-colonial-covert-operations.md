@@ -6,7 +6,7 @@ date: 2019-02-25
 categories: ["Industry"]
 tags: ["mi6", "colonial", "covert-operations", "british-empire", "malaya", "kenya"]
 excerpt: "How Britain's secret colonial campaigns in Malaya, Kenya, and Aden forged the counter-insurgency methods that India's intelligence services later inherited."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-55.webp"
 reading_time: 71
 author: "ian-fletcher"
 last_updated: 2019-02-25
@@ -16,7 +16,7 @@ In June 1948, three British rubber planters were shot dead at their estates near
 
 <!--more-->
 
-![MI6 Colonial Covert Operations](/assets/images/blog/blog-91.webp)
+![MI6 Colonial Covert Operations](/assets/images/blog/blog-55.webp)
 
 That country was India. When the Union Jack came down over Delhi in August 1947, the new republic did not build its intelligence apparatus from a blank sheet. It inherited one. The Intelligence Bureau that the independent Indian state took possession of was the same organization the Raj had used to watch, infiltrate, and disrupt the very independence movement that had just triumphed. The officers who staffed it had trained under British supervisors. The filing systems, the surveillance doctrines, the legal instruments of preventive detention, and the political policing model known across the empire as the Special Branch all carried over intact. India did not so much create an intelligence service as take delivery of one.
 

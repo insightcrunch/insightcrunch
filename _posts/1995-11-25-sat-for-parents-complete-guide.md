@@ -6,7 +6,7 @@ date: 1995-11-25
 categories: ["Industry"]
 tags: ["SAT", "Parents", "Support", "College Admissions", "Wellbeing"]
 excerpt: "SAT for parents: understanding the test and realistic scores, supporting without adding pressure, the financial and admissions context, and when to step back."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
 author: "katherine-blake"
 last_updated: 1995-11-25
@@ -14,7 +14,7 @@ lang: en
 ---
 You are not the one taking this test, and that single sentence is the most useful thing a parent can hold onto through the entire SAT season. Your teenager sits in the chair, answers the questions, and watches the score load on the screen weeks later. Your job runs in a different lane entirely, and most of the friction in the average family during junior and senior year comes from a parent who has quietly drifted into the student's lane without noticing. This SAT for parents guide is written to keep you in your own lane and to make that lane genuinely useful, because the supportive role is real, it is large, and it is easy to get wrong in ways that lower a score rather than raise it.
 
-![SAT for parents support without pressure realistic scores and admissions guide - Insight Crunch](/assets/images/blog/blog-05.webp)
+![SAT for parents support without pressure realistic scores and admissions guide - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 Here is the claim this guide defends from the first paragraph to the last. The most powerful thing you can do for your child's SAT result is to provide resources and steady encouragement, and then to trust the young person to use them. We call this the resource-then-trust principle, and it is not a soft sentiment. It is the conclusion you reach after watching what actually moves scores and what actually corrodes them. Pressure does not raise a math score. A quiet desk, a paid registration, an honest conversation about money and college, a practice tool the student can open whenever they want, and a parent who celebrates a four-point gain on a practice run as warmly as a perfect section: those things raise scores. The rest of this guide takes that principle apart, shows you the test in plain language so you can speak to your child without bluffing, places a realistic score next to the national picture so your expectations are built on data rather than on a neighbor's bragging, and draws the line, clearly, at the point where stepping back becomes the most loving move available to you.
 

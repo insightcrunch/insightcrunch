@@ -5,7 +5,7 @@ date: 2017-02-10
 categories: ["Industry"]
 tags: ["Infosys"]
 excerpt: "*This is a guest post on Infosys by Gayathri Sachdeva. The views expressed are of the author.*"
-image: "/assets/images/blog/blog-75.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 4
 author: "ritika-singh"
 last_updated: 2026-04-01
@@ -15,7 +15,7 @@ lang: en
 
 Friends, oday iam going to share some insights on Infosys Hiring Process. Well Infosys also gives many chances to freshers to prove themselves and get into Infosys, similar to TCS.
 
-![Infosys Hiring Process](/assets/images/blog/blog-75.webp)
+![Infosys Hiring Process](/assets/images/blog/blog-14.webp)
 Infosys Hiring Process
 
 Infosys hires freshers through campuses in the following modes

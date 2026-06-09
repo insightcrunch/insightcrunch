@@ -5,7 +5,7 @@ date: 2023-08-11
 categories: ["Leisure"]
 tags: ["dailyprompt", "dailyprompt-2024", "Thoughts"]
 excerpt: "Small changes, big blogging impact. The minor content, design, and engagement tweaks that can transform your blog from overlooked to widely read."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-73.webp"
 reading_time: 2
 author: "chloe-martin"
 last_updated: 2026-03-30
@@ -15,7 +15,7 @@ lang: en
 
 Blogging has evolved from being a personal journal to a powerful platform for sharing ideas, insights, and information. With its global reach, it has the potential to create ripples of change, both big and small. In this article, we'll explore the impact bloggers can have on the world by making even the smallest of changes through their blogs.
 
-![](/assets/images/blog/blog-64.webp)
+![](/assets/images/blog/blog-73.webp)
 
 ## The Butterfly Effect of Words:
 

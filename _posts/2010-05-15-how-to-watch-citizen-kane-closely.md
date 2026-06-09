@@ -6,7 +6,7 @@ date: 2010-05-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Close Reading", "Cinematography", "Film History"]
 excerpt: "How to watch Citizen Kane closely: a two-pass viewing method, a scene-by-scene watch list, and practical fixes for the viewer who finds the film slow or flat."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 60
 author: "chloe-martin"
 last_updated: 2010-05-15
@@ -14,7 +14,7 @@ lang: en
 ---
 Learning how to watch Citizen Kane closely is the difference between a viewer who shrugs at the credits and a viewer who leaves with an argument. The film carries a reputation so heavy that it almost guarantees disappointment: you sit down expecting the greatest motion picture ever made, the plot moves at the pace of a memoir, the famous secret turns out to be a sled, and you wonder what the noise was about. That reaction is honest, it is common, and it is almost entirely a problem of approach rather than a problem with the film. Orson Welles built a picture that hides its richest material in places a casual eye never lands, and once you know where to put your attention the same ninety-nine minutes that felt flat begin to crowd with meaning.
 
-![How to watch Citizen Kane closely with a two-pass viewing method - Insight Crunch](/assets/images/blog/blog-69.webp)
+![How to watch Citizen Kane closely with a two-pass viewing method - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 This guide is a method, not a recap. It assumes you can find a plot summary anywhere and that a list of events is the least useful thing a serious viewer needs. What you need instead is a set of instructions for the eye and the ear: a way to direct your attention so that the staging, the depth, the shadow, the cutting, and the sound stop being background and start being the story. The promise of this series is that Citizen Kane rewards shot-level attention more than almost any film of its decade, and this article hands you the transferable skill that makes that reward available. Once you can read the edges of a composition, you can read any frame Welles built, and you can carry the same habit into every film you watch afterward.
 

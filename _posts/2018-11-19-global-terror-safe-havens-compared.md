@@ -6,7 +6,7 @@ date: 2018-11-19
 categories: ["Industry"]
 tags: ["global", "safe-havens", "comparison", "pakistan", "afghanistan", "yemen"]
 excerpt: "Comparing the world's terror safe havens from Pakistan to Afghanistan, Yemen, Somalia, and Syria, and explaining why Pakistan's state-backed model is unique."
-image: "/assets/images/blog/blog-82.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 74
 author: "ian-fletcher"
 last_updated: 2018-11-19
@@ -16,7 +16,7 @@ A useful way to understand any sanctuary for terrorism is to ask one blunt quest
 
 <!--more-->
 
-![Global Terror Safe Havens Compared - Insight Crunch](/assets/images/blog/blog-82.webp)
+![Global Terror Safe Havens Compared - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 That last answer is what makes Pakistan different from every other refuge on earth, and it is the reason the phrase "safe haven" flattens a distinction that ought to be the starting point of the entire conversation rather than its afterthought. Lump Pakistan together with Afghanistan, Yemen, Somalia, and Syria, and the analysis collapses into a vague indictment of "ungoverned spaces" that explains nothing and prescribes worse. Pull them apart, sort them by the actual mechanism that produces the shelter, and a far sharper picture emerges. Four of the five sanctuaries examined here are problems of state weakness. One is a problem of state intent. The two require opposite remedies, and confusing them has wasted two decades of counter-terrorism policy.
 

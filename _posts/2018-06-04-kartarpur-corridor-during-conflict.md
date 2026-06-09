@@ -6,7 +6,7 @@ date: 2018-06-04
 categories: ["Industry"]
 tags: ["kartarpur-corridor", "sikh-pilgrims", "india-pakistan", "2025", "religious-diplomacy"]
 excerpt: "The Kartarpur Corridor survived the entire diplomatic crisis but fell when missiles flew, revealing exactly where both sides drew their limits in 2025."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 70
 author: "benjamin-scott"
 last_updated: 2018-06-04
@@ -16,7 +16,7 @@ For fifteen days after the Pahalgam massacre, as India expelled Pakistani diplom
 
 <!--more-->
 
-![Kartarpur Corridor During the 2025 India-Pakistan Conflict - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Kartarpur Corridor During the 2025 India-Pakistan Conflict - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 Then, on May 7, 2025, the day [Operation Sindoor's missiles struck nine targets across Pakistan and Pakistan-administered Kashmir](https://insightcrunch.com/2018/01/22/operation-sindoor-23-minutes/), India's Bureau of Immigration suspended passage services "until further notice." One hundred and fifty pilgrims who had assembled at the Integrated Check Post at Dera Baba Nanak were made to wait ninety minutes before being told to go home. The corridor's Indian side went dark on the same day the bombs fell. Pakistan kept its side open, its gates at Gurdwara Darbar Sahib unlocked, its staff present, its infrastructure operational, and its officials pointedly calling India's decision "an attack on the religious rights of Indian Sikhs." The asymmetry in that response is one of the strangest facts to emerge from the [2025 India-Pakistan conflict](https://insightcrunch.com/2012/07/29/india-pakistan-2025-conflict-timeline/): both countries had the same instrument available to them, interpreted its significance in exactly opposite ways, and chose exactly opposite actions toward it.
 

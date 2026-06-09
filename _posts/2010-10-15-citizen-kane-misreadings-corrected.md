@@ -6,7 +6,7 @@ date: 2010-10-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Orson Welles", "Reception", "Film History", "Context"]
 excerpt: "Citizen Kane misconceptions, corrected: the film was no lone-genius feat, no literal Hearst biopic, and not the total flop the legend keeps repeating."
-image: "/assets/images/blog/blog-32.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 59
 author: "diana-patel"
 last_updated: 2010-10-15
@@ -16,7 +16,7 @@ Almost everything most people can tell you about Citizen Kane is half-right, and
 
 This page works as a correction key. It takes the claims that circulate online, in classrooms, and in casual conversation, and sorts them into the true, the partly true, and the wrong, with the evidence that decides each verdict. The point is not to play spoilsport with a beloved movie. It is the opposite: a viewer who knows which received ideas are shaky can watch the picture with sharper eyes and write about it without repeating errors that a careful reader will catch.
 
-![Common Citizen Kane misconceptions corrected with evidence - Insight Crunch](/assets/images/blog/blog-32.webp)
+![Common Citizen Kane misconceptions corrected with evidence - Insight Crunch](/assets/images/blog/blog-07.webp)
 
 The reason these errors stick is structural. Citizen Kane sits at a rare intersection of fame and unfamiliarity: it is one of the most cited movies ever made and one of the least carefully watched, so a great deal of what passes for knowledge about it is secondhand. People absorb the reputation, the Rosebud reveal, and a handful of trivia points, then fill the gaps with plausible-sounding stories. Plausible is the trap. A claim that sounds like the kind of thing that ought to be true about a famous old film travels faster than the documented record, and the record, in this case, has been argued over by scholars for decades. The corrections below are organized from the biggest and most consequential error to the smaller ones, because the large myths shape how the small ones are read.
 

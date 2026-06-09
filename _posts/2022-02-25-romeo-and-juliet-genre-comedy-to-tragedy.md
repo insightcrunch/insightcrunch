@@ -6,7 +6,7 @@ date: 2022-02-25
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "genre", "susan-snyder", "comedy-to-tragedy", "romeo-and-juliet-genre"]
 excerpt: "Romeo and Juliet begins as a romantic comedy and snaps into tragedy at Mercutio's death, a structural switch Susan Snyder made the key to the whole play."
-image: "/assets/images/blog/blog-08.webp"
+image: "/assets/images/blog/blog-03.webp"
 reading_time: 
 author: "rachel-foster"
 last_updated: 2022-02-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A street brawl opens the action, but watch what kind of brawl it is. Two servants trade thumb-biting insults and bad puns about maidenheads, a swaggering bully arrives, a peacemaker fails, and the citizens of Verona spill out with clubs while an old man calls for his sword and his wife mocks him for wanting it. The scene is loud, fast, obscene, and funny. Nobody important dies. By the time Prince Escalus has scolded the households and cleared the stage, the audience has been handed the tonal furniture of a comedy: foolish elders, randy servants, a quarrel that looks more ritual than lethal. Then the same play, ninety minutes of stage time later, will lay four corpses across the boards and close on a sealed tomb. The question this article presses is the one most readers never think to ask, because the title has already answered it for them: in what genre does this drama actually begin, and at what exact instant does it change?
 
-![Romeo and Juliet genre switch from comedy to tragedy at Mercutio's death - Insight Crunch](/assets/images/blog/blog-08.webp)
+![Romeo and Juliet genre switch from comedy to tragedy at Mercutio's death - Insight Crunch](/assets/images/blog/blog-03.webp)
 
 The standard account treats the work as a single sustained note of doomed romance, sad from the first line to the last. That account is wrong about the experience of watching it, and being wrong about the experience makes readers miss the most daring thing the young dramatist attempted. The critic Susan Snyder gave the misreading its correction in 1970, in an essay for the journal Essays in Criticism titled "Romeo and Juliet: Comedy into Tragedy." Her claim was structural and precise: the first half of the drama runs on the machinery of romantic comedy, and the genre does not erode gradually but breaks at a single hinge, the death of Mercutio in Act 3 Scene 1. What this article shows that the cliche of timeless romance cannot is that the work is built out of two incompatible kinds of theatre welded at a seam, and that the seam is visible, datable, and deliberate.
 

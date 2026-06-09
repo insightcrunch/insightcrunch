@@ -6,7 +6,7 @@ date: 1997-06-14
 categories: ["Industry"]
 tags: ["SAT", "SAT Math", "Geometry", "Angles", "Polygons"]
 excerpt: "SAT angle and polygon rules explained: parallel-line transversals, the exterior angle theorem, polygon angle sums and quadrilateral properties, with examples."
-image: "/assets/images/blog/blog-13.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 60
 author: "christopher-wells"
 last_updated: 1997-06-14
@@ -14,7 +14,7 @@ lang: en
 ---
 A figure on the screen shows two parallel lines sliced by a slanted third line, a single measure marked 7 times its neighbor minus a few degrees, and a question asking for a value buried two relationships away from the one labeled. Students who freeze on that figure are not weak at geometry. They are missing a compact, ordered rule set that turns the picture into a chain of one-step deductions. The whole of SAT angle and polygon work, the parallel-line transversal, the exterior shortcut, the polygon-sum formulas, and the quadrilateral families, rests on perhaps a dozen relationships that never change. Learn them in the right order and the intimidating figure collapses into arithmetic.
 
-![SAT angles parallel lines and polygons transversal and polygon sum worked examples - Insight Crunch](/assets/images/blog/blog-13.webp)
+![SAT angles parallel lines and polygons transversal and polygon sum worked examples - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 This guide does something the standard overview will not. It hands you a decision procedure for the transversal, the single setup that shows up on nearly every form of the digital test, so that the moment you see two parallel rails cut by a line you already know which pairs are equal and which pairs add to a straight line. It gives the exterior-angle theorem as a labor-saving shortcut rather than a memorized fact, with the worked figures that prove how much time it banks. It supplies the polygon-sum formula and its regular-polygon cousin, derived rather than asserted, plus the diagonal behavior of parallelograms, rectangles, rhombuses, and squares that the harder items quietly depend on. By the close you will be able to read a multi-step figure, name the relationship at each junction, and march to the answer without guessing, the kind of format recognition that converts a category most candidates fear into one of the most reliable point sources on the Math section.
 

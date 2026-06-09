@@ -6,7 +6,7 @@ date: 2017-09-18
 categories: ["Industry"]
 tags: ["dhurandhar", "nationalism", "propaganda", "debate", "bollywood", "politics"]
 excerpt: "Is Dhurandhar patriotic cinema or state propaganda? Examining the fierce nationalism debate around Bollywood's biggest hit and why the answer matters."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 70
 author: "amit-chatterjee"
 last_updated: 2017-09-18
@@ -16,7 +16,7 @@ Every democracy that has fought a covert war has eventually confronted the same 
 
 <!--more-->
 
-![Dhurandhar and the Nationalism Debate - Insight Crunch](/assets/images/blog/blog-45.webp)
+![Dhurandhar and the Nationalism Debate - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 The debate over whether Dhurandhar is propaganda or patriotism has played out across newspaper op-ed pages, television panel discussions, social media threads, academic conferences, and parliamentary corridors. Film critics, political commentators, cultural theorists, retired intelligence officers, ruling party spokespersons, and opposition politicians have all weighed in with positions that tell us as much about their own political alignment as about the film itself. The intensity of the argument exceeds anything a Bollywood film has provoked since Deepa Mehta's Fire triggered street protests in 1998, and the nationalism debate around Dhurandhar has arguably become more culturally significant than the film that generated it. What began as a question about one movie has become a referendum on what India wants to be: a country that processes state violence through celebration or a country that processes it through interrogation.
 

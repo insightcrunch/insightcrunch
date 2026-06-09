@@ -6,7 +6,7 @@ date: 2016-03-05
 categories: ["Leisure"]
 tags: ["winston-churchill", "wwii-leadership", "britain-wwii", "1940-britain", "churchill-biography", "modern-history"]
 excerpt: "Churchill's WWII leadership was decisive in 1940-1941, when his choices to fight on shaped everything that followed. Later years sustained those gains."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 69
 author: "diana-patel"
 last_updated: 2016-03-05
@@ -16,7 +16,7 @@ Winston Churchill's wartime leadership mattered most between May 1940 and Decemb
 
 <!--more-->
 
-![Winston Churchill's WWII Leadership - Insight Crunch](/assets/images/blog/blog-19.webp)
+![Winston Churchill's WWII Leadership - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 That integrated reading is this article's thesis: Churchill's decisive contribution was concentrated in 1940-1941, and later war was primarily about sustaining positions he had established during those critical months. The hagiographic tradition, dominant from the 1950s through the 1990s, overstates Churchill's uniqueness across the full war period. The critical tradition, gaining strength since Richard Toye's scholarship on Churchill's imperial attitudes, sometimes understates the genuine indispensability of the 1940-1941 choices. The synthetic assessment that Andrew Roberts's 2018 biography and David Reynolds's 2004 study of Churchill's own historical writings converge upon preserves both the celebration and the critique without reducing either. Understanding Churchill means understanding what he did that no other plausible British leader would have done, and also understanding what he failed to do that honest assessment demands acknowledging. The May 1940 War Cabinet records, rarely engaged in popular treatments despite their availability, document the precise moment when Churchill's contribution became historically decisive, and those records form the under-cited evidentiary foundation this analysis foregrounds.
 

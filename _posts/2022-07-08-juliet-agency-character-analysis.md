@@ -6,7 +6,7 @@ date: 2022-07-08
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "feminist-reading", "juliet", "agency", "juliet-agency"]
 excerpt: "Juliet, not Romeo, proposes marriage, takes the potion, and chooses death, which makes the thirteen-year-old the real engine of the plot of Romeo and Juliet."
-image: "/assets/images/blog/blog-78.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 63
 author: "diana-patel"
 last_updated: 2022-07-08
@@ -14,7 +14,7 @@ lang: en
 ---
 Watch who acts. At the Capulet ball a young man crosses a crowded hall to touch a stranger's hand, and the meeting that follows gets filed forever under his name first. Yet the moment the verse settles into the orchard at Act 2 Scene 2, it is the girl on the balcony, not the boy in the dark below, who names the obstacle, sets the terms, fixes the schedule, and tells him to send word by a messenger she will procure. The Capulet daughter does not wait to be courted into a decision. She makes the decision and assigns the man his task. From that point the action of the tragedy runs on choices she initiates: the secret betrothal, the management of the go-between, the refusal to be married off to a county's son, the swallowing of a drug whose dose she cannot verify, and the final stroke at the monument when she wakes alone and declines every safer option offered to her. Strip the cliche of passive girlhood away and a different figure stands at the center of the design, the youngest major character in the script and also its most decisive will.
 
-![Juliet's agency in the orchard scene Act 2 Scene 2 feminist character analysis - Insight Crunch](/assets/images/blog/blog-78.webp)
+![Juliet's agency in the orchard scene Act 2 Scene 2 feminist character analysis - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 This piece argues a position that the play's reputation actively obscures. The cultural shorthand remembers a swooning child borne along by fate and bad luck, a victim of the older men around her. The text records something harder and more interesting: a thirteen-year-old whose practical intelligence sets the plot in motion and keeps it moving, whose soliloquies are not laments but reasoning under pressure, and whose boldness is precisely as costly as the household that hems her in makes it. To read the heroine this way is not to ignore the patriarchal Verona that limits her; it is to hold her initiative and her confinement in a single frame. The InsightCrunch agency ledger built into the middle of this analysis tallies every plot-advancing action in the tragedy and names the figure who starts it, and the count comes out lopsided. The bride from the Capulet house starts most of them.
 

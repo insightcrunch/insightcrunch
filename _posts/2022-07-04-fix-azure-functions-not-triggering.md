@@ -6,7 +6,7 @@ date: 2022-07-04
 categories: ["Technology"]
 tags: ["Azure", "Azure Functions", "Troubleshooting", "Serverless", "Triggers", "Cloud Computing"]
 excerpt: "Azure Functions not triggering usually means a broken connection or a disabled host, not buggy code. Here is how to find the real cause and fix it fast."
-image: "/assets/images/blog/blog-10.webp"
+image: "/assets/images/blog/blog-24.webp"
 reading_time: 59
 author: "ian-fletcher"
 last_updated: 2022-07-04
@@ -14,7 +14,7 @@ lang: en
 ---
 When an Azure Function silently does nothing, the instinct is to open the code and start reading the handler line by line. That instinct is almost always wrong. Azure Functions not triggering is rarely a logic bug, because a logic bug requires the runtime to have invoked your code in the first place, and a dead trigger means the runtime never got that far. The platform decided not to call your function at all, and the reason for that decision lives in the plumbing between the event source and the host, not in the body you wrote. Diagnosing this well means resisting the pull toward the handler and instead asking a colder question first: did the host start, is it connected to the source the trigger listens to, and is the function even enabled?
 
-![Diagnosing why an Azure Function is not triggering across connection, host, and binding layers - Insight Crunch](/assets/images/blog/blog-10.webp)
+![Diagnosing why an Azure Function is not triggering across connection, host, and binding layers - Insight Crunch](/assets/images/blog/blog-24.webp)
 
 That reordering of attention is the whole game. The connection-first rule for a dead trigger states it plainly: most functions that never fire have a broken or missing trigger connection, a stopped or unhealthy host, or a disabled state, and only a small minority have a code path that throws before doing visible work. So the diagnosis runs from the outside in. You confirm the host is up, confirm the trigger has a valid connection to its source, confirm the function is enabled and discovered, and only then look at the handler. Working in that order turns a vague "nothing happens" into a specific, confirmable cause, which is the difference between an afternoon of guesswork and a five-minute fix. The mental model that makes this work is the same one behind the broader serverless execution story, and if you have not internalized how the scale controller and host cooperate, the deeper treatment in our walkthrough of [how Azure Functions serverless really works](/2022/01/24/azure-functions-serverless-deep-dive/) is the foundation this article builds on.
 

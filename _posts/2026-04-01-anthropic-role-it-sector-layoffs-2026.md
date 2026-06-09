@@ -6,7 +6,7 @@ date: 2026-04-01
 categories: ["Industry"]
 tags: ["Anthropic", "Claude", "IT Layoffs", "AI Jobs", "Claude Code", "Dario Amodei", "Workforce Disruption", "AI Safety", "Enterprise AI", "Software Engineers"]
 excerpt: "A deeply researched analysis of how Anthropic - founded explicitly to make AI safe for humanity - has become the single most disruptive company in the global IT labour market through Claude Code, Cowork, and a relentless pace of enterprise deployment. Covers the economic research, the product roadmap, the human cost, and the extraordinary tension at the heart of a company that studies the damage it is doing."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-07.webp"
 reading_time: 90
 author: "thomas-reid"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ There is a five-floor office building in San Francisco where the first thing vis
 
 That same building is the headquarters of Anthropic, which raised $30 billion in a single funding round in February of this year at a valuation of $380 billion, making it one of the most valuable private companies in human history. Its flagship product, the Claude family of AI models, is now used by eight of the ten largest companies in the Fortune 10. Its coding tool, Claude Code, is generating more than $2.5 billion in annualised revenue and is growing so fast that no analyst has produced a reliable quarterly projection. When Anthropic launches a new product or updates an existing one, software stocks crater. When it announced Cowork - a version of Claude Code designed for non-programmers - $300 billion disappeared from the combined market capitalisation of enterprise software companies in a single day. When it published a blog post claiming Claude Code could translate legacy COBOL systems into modern languages, IBM lost roughly $40 billion in market value in a single session.
 
-![Anthropic Claude AI Role in IT Sector Layoffs](/assets/images/blog/blog-27.webp)
+![Anthropic Claude AI Role in IT Sector Layoffs](/assets/images/blog/blog-07.webp)
 
 The company that is doing all of this is, by its own explicit self-description, in the business of making artificial intelligence safe for humanity. Anthropic's founding story, its corporate structure, its research agenda, and the small book it hands to visitors are all organised around a single proposition: that the most dangerous technology in the history of civilisation is being built, that someone is going to build it regardless, and that it is better for safety-focused people to be the ones building it than to leave the field to those who are not. Dario Amodei has warned publicly that AI could displace half of all entry-level white-collar jobs within one to five years and suggested that displaced workers could form "an unemployed or very-low-wage underclass." Then he continued building the technology that will produce that outcome.
 

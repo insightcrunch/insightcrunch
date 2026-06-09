@@ -6,7 +6,7 @@ date: 2012-11-04
 categories: ["Industry"]
 tags: ["mossad", "israel", "targeted-killings", "wrath-of-god", "intelligence", "comparison"]
 excerpt: "The complete history of Mossad's targeted killings from the Munich Olympics revenge campaign to Iran's nuclear scientists and what it teaches about state power."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-86.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2026-05-17
@@ -16,7 +16,7 @@ Israel's intelligence agency has been killing its enemies on foreign soil for mo
 
 <!--more-->
 
-![Mossad Targeted Killings History - Insight Crunch](/assets/images/blog/blog-37.webp)
+![Mossad Targeted Killings History - Insight Crunch](/assets/images/blog/blog-86.webp)
 
 One analytical question drives this article: how did a program born from the rage and grief of the 1972 Munich Olympics massacre evolve into a permanent, institutionalized instrument of Israeli national security, and what does that evolution reveal about the possibilities and limits of democratic states killing their enemies abroad? The answer requires tracing four distinct eras of the program, each defined by different targets, different methods, different levels of public acknowledgment, and different strategic objectives. Era 1, spanning the 1960s, established the precedent through the capture of Adolf Eichmann in Buenos Aires, proving that a state could extend its operational reach across continents. Era 2, from 1972 through 1979, saw the birth of systematic assassination as policy through Operation Wrath of God. Era 3, covering the 1980s through the 2000s, expanded the target set from Palestinian operatives to Hezbollah and Hamas leadership. Era 4, from the 2010s through the present, introduced technological assassination on a scale that earlier generations of operatives could not have imagined. Across all four eras, the institutional logic remained constant: Israel would find, fix, and eliminate individuals it determined posed a threat to its national security, regardless of where those individuals lived and regardless of which country's sovereignty the operation violated.
 

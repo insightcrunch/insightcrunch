@@ -6,7 +6,7 @@ date: 2015-11-21
 categories: ["Leisure"]
 tags: ["trench-warfare", "world-war-1", "western-front", "military-history", "world-history"]
 excerpt: "Trench warfare on the Western Front was the specific outcome of machine gun, barbed wire, and artillery defensive dominance, not generic futile slaughter."
-image: "/assets/images/blog/blog-09.webp"
+image: "/assets/images/blog/blog-04.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2015-11-21
@@ -16,7 +16,7 @@ Trench warfare is the image the First World War left behind in popular memory: a
 
 <!--more-->
 
-![Trench Warfare in World War I Explained - Insight Crunch](/assets/images/blog/blog-09.webp)
+![Trench Warfare in World War I Explained - Insight Crunch](/assets/images/blog/blog-04.webp)
 
 This article reconstructs the specific conditions that produced the trench system, the specific human experience inside it, and the specific tactical learning that eventually broke the stalemate in 1918. The argument is that trench warfare was the predictable consequence of machine guns plus barbed wire plus quick-firing artillery plus deep entrenchment plus communications asymmetry, and that the casualty figures, the psychiatric casualties later called shell shock, and the cultural disillusionment that followed were the downstream effects of a technological-tactical impasse that no available 1914 doctrine could overcome quickly. The popular shorthand of lions led by donkeys captures something real about specific command failures, but it obscures the structural problem that even competent commanders failed to solve until late in the conflict when several adaptations matured at once.
 

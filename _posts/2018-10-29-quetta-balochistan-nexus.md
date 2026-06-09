@@ -6,7 +6,7 @@ date: 2018-10-29
 categories: ["Industry"]
 tags: ["quetta", "balochistan", "taliban-shura", "terror-nexus", "afghanistan"]
 excerpt: "How Quetta and the wider Balochistan region connect the Afghan Taliban shura, Baloch separatists, and India-focused militant supply lines into one ecosystem."
-image: "/assets/images/blog/blog-84.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "andrew-price"
 last_updated: 2018-10-29
@@ -16,7 +16,7 @@ A city that sits closer to Kandahar than to Karachi has spent two decades hostin
 
 <!--more-->
 
-![Quetta and the Balochistan Terror Nexus - Insight Crunch](/assets/images/blog/blog-84.webp)
+![Quetta and the Balochistan Terror Nexus - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 That honesty is the organizing principle of this analysis. Lahore shelters the headquarters of Lashkar-e-Taiba. Bahawalpur shelters the headquarters of Jaish-e-Mohammed. Rawalpindi sits a short drive from the residences of men who have spent careers planning violence against Indian targets. Balochistan's capital offers nothing so neat. No anti-India organization keeps its central office here. No major plot against an Indian city has been traced to a planning cell in this region. If the shadow war is a story about hunting men who organized attacks on India, then this provincial capital is, at first glance, a marginal character. The argument of this piece is that the marginality is the point. The city earns its place in the wider story not as a command node but as a backend, a part of the supply chain that keeps the storefront stocked even when the storefront faces a different direction entirely. To see that, the reader has to look past the headline name and study the plumbing.
 

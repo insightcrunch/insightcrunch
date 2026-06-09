@@ -6,7 +6,7 @@ date: 2008-09-17
 categories: ["Leisure"]
 tags: ["martin-van-buren", "decision-reconstruction", "us-presidents", "amistad", "slavery", "john-quincy-adams"]
 excerpt: "Van Buren tried to return 53 Amistad Africans to Cuban slavers in 1839. John Quincy Adams argued them free before the Supreme Court. Van Buren lost his bet."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 59
 author: "diana-patel"
 last_updated: 2008-09-17
@@ -14,7 +14,7 @@ lang: en
 ---
 John Quincy Adams rose at the bar of the Supreme Court on February 22, 1841, seventy-three years old, his voice carrying enough force to fill the small chamber on the ground floor of the Capitol. He had not argued a case before the Court in thirty-one years. The brief he was about to deliver would span two non-consecutive days and consume approximately eight and a half hours of speaking time. The opposing counsel sat at the table representing the executive branch of the United States: Attorney General Henry Gilpin, arguing on behalf of the sitting administration of President Martin Van Buren. The question before Justice Joseph Story and his colleagues was whether fifty-three Africans, captured by the U.S. Navy off the coast of Long Island in August 1839, should be returned to Spanish slavers in Cuba or freed.
 
-![Van Buren Amistad 1841 decision reconstruction case slavery John Quincy Adams - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Van Buren Amistad 1841 decision reconstruction case slavery John Quincy Adams - Insight Crunch](/assets/images/blog/blog-10.webp)
 
 This was the second oral argument. The administration had appealed the case after losing in district court and then in circuit court. Van Buren had committed his presidency to the proposition that these Africans were Spanish property and that the executive branch had a treaty obligation to deliver them to the Spanish minister. Adams was arguing that the executive had no such obligation, that the Africans were not property, and that the original Spanish documents claiming them were forged. He won.
 

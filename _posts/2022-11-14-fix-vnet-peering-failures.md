@@ -6,7 +6,7 @@ date: 2022-11-14
 categories: ["Technology"]
 tags: ["Azure", "VNet Peering", "Networking", "Troubleshooting", "Cloud Computing"]
 excerpt: "Fix Azure VNet peering failures by root cause: Disconnected state, address overlap, non-transitive routing, and gateway transit, with confirming commands."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "alex-cunningham"
 last_updated: 2022-11-14
@@ -14,7 +14,7 @@ lang: en
 ---
 A VNet peering that will not connect, or that connects and still passes no traffic, is one of the most misread failures in Azure networking, because the symptom and the cause almost never live in the same place. You create the link, the portal shows **Disconnected**, and the instinct is to delete the whole thing and start over. Or the two virtual networks show **Connected** on both sides, every blade looks green, and yet a virtual machine in one network cannot reach a virtual machine in the other. The reader who treats either of these as a single bug burns an afternoon recreating resources that were never broken. The reader who knows the four behaviors that actually produce a peering failure finds the cause in minutes and changes exactly one setting.
 
-![Fixing Azure VNet peering connection failures and Disconnected state root causes - Insight Crunch](/assets/images/blog/blog-70.webp)
+![Fixing Azure VNet peering connection failures and Disconnected state root causes - Insight Crunch](/assets/images/blog/blog-64.webp)
 
 This article diagnoses VNet peering to root cause. Every failure you will hit reduces to one of a small set of distinct mechanisms: a link configured on only one of the two networks, an address range that overlaps between them, an expectation that traffic will route transitively through a shared hub, a gateway-transit setting that on-premises routes need and never received, or a peering that is genuinely up while a network security group or a route table quietly drops the packet downstream. Each mechanism has a state or a command that confirms it is yours, and each has a fix that touches the real cause rather than rebuilding the relationship. The thesis of this series applies directly here: a peering problem is not a mystery, it is a short list of behaviors, and knowing which one you are looking at is the difference between a five-minute change and a wasted day.
 

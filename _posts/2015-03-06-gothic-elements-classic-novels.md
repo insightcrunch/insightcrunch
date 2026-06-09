@@ -7,7 +7,7 @@ categories: ["Leisure"]
 tags: ["gothic-fiction", "literary-comparison", "frankenstein", "wuthering-heights", "jane-eyre", "literary-analysis"]
 author: "lauren-hayes"
 excerpt: "The Gothic is not decoration. It is a structural approach that makes visible what realism cannot represent, and six classic novels prove why it matters."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-95.webp"
 reading_time: 70
 last_updated: 2015-03-06
 lang: en
@@ -16,7 +16,7 @@ The Gothic is not a catalog of spooky props. It is a structural approach to fict
 
 <!--more-->
 
-![Gothic Elements in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-91.webp)
+![Gothic Elements in Classic Novels Compared - Insight Crunch](/assets/images/blog/blog-95.webp)
 
 The argument advanced here challenges the dominant pedagogical treatment of Gothic fiction, which typically catalogs atmospheric elements (ruins, darkness, supernatural manifestations, confined women, mysterious aristocrats) and moves on. That catalog approach, pervasive in study guides and survey courses, misses the structural content that scholars like Sandra Gilbert and Susan Gubar in *The Madwoman in the Attic* (1979), Eve Kosofsky Sedgwick in *The Coherence of Gothic Conventions* (1980), and David Punter in *The Literature of Terror* (1980) have recovered. The catalog tells you what the Gothic contains. The structural reading tells you what the Gothic does. The distinction is the subject of this article.
 

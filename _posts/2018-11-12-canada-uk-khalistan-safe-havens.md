@@ -6,7 +6,7 @@ date: 2018-11-12
 categories: ["Industry"]
 tags: ["canada", "uk", "khalistan", "safe-havens", "sikh-separatism", "terrorism"]
 excerpt: "How Canada and the United Kingdom became shelters for Khalistan separatism, the diaspora networks behind it, and why these Western havens differ from Pakistan."
-image: "/assets/images/blog/blog-34.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 70
 author: "william-knight"
 last_updated: 2018-11-12
@@ -16,7 +16,7 @@ On a Sunday evening in June 2023, two masked men waited in the parking lot of th
 
 <!--more-->
 
-![Canada and the United Kingdom as safe havens for Khalistan separatist networks](/assets/images/blog/blog-34.webp)
+![Canada and the United Kingdom as safe havens for Khalistan separatist networks](/assets/images/blog/blog-33.webp)
 
 That question sits at the centre of one of the strangest features of India's long campaign against the men it accuses of plotting terror. Most of the targeted killings examined across this series occurred inside Pakistan, in cities such as Lahore, Karachi, and Rawalpindi, where a wanted operative could be reached because the state sheltering him was an adversary and the operating environment was permissive. The Western cases break that pattern. They occur in countries that are not adversaries of India but partners, countries with advanced law enforcement, functioning courts, and the legal architecture of liberal democracy. To call Canada and Britain safe havens at all therefore demands a careful definition, because the shelter they provide looks nothing like the shelter Pakistan provides. Pakistan's [terror sanctuary network](https://insightcrunch.com/2012/03/29/pakistan-terror-safe-haven-network/) is built on state policy, military protection, and an intelligence apparatus that treats militants as strategic assets. Canada and the United Kingdom shelter the same movement through an entirely different mechanism. They shelter it through the law itself, through free expression protections, asylum frameworks, and electoral politics that make a hard line against Sikh separatism politically costly. One model is the ungoverned space. The other is the over-governed space, where governance becomes the cover. Understanding the difference is the whole point of this analysis, and getting it wrong in either direction produces a distorted picture of what the West has actually done.
 

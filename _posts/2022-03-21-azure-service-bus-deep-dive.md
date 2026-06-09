@@ -6,7 +6,7 @@ date: 2022-03-21
 categories: ["Technology"]
 tags: ["Azure", "Service Bus", "Messaging", "Dead-Letter Queue", "Sessions", "Technology"]
 excerpt: "Azure Service Bus is an enterprise message broker. Learn queues vs topics, peek-lock, sessions, and how to diagnose a growing dead-letter queue quickly."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-06.webp"
 reading_time: 60
 author: "jason-mckenzie"
 last_updated: 2022-03-21
@@ -16,7 +16,7 @@ Most teams reach for Azure Service Bus the day a single synchronous call between
 
 This guide takes Azure Service Bus apart at the level a working engineer needs to design against it confidently. By the end you will hold an accurate mental model of how a message moves from a producer to a competing consumer, why peek-lock makes redelivery the normal case rather than an error, when a topic earns its keep over a plain queue, how sessions buy you ordering at a real throughput cost, and how to turn a growing dead-letter queue from a mystery into a five-minute diagnosis. The goal is not to restate the API reference. It is to leave you able to defend a Service Bus design in a review and explain what breaks when each choice is made wrong.
 
-![Azure Service Bus internals, peek-lock and dead-letter queue diagnosis - Insight Crunch](/assets/images/blog/blog-16.webp)
+![Azure Service Bus internals, peek-lock and dead-letter queue diagnosis - Insight Crunch](/assets/images/blog/blog-06.webp)
 
 ## What Azure Service Bus actually is
 

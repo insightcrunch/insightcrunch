@@ -6,7 +6,7 @@ date: 2015-10-27
 categories: ["Leisure"]
 tags: ["german-unification", "otto-von-bismarck", "prussian-wars", "nineteenth-century", "germany-history", "medieval-history"]
 excerpt: "German unification was not inevitable. Bismarck's three calculated wars between 1864 and 1871 produced a Prussian-led empire that closed off alternatives."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2015-10-27
@@ -16,7 +16,7 @@ German unification was produced, not discovered. Otto von Bismarck fought three 
 
 <!--more-->
 
-![Unification of Germany Under Bismarck - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Unification of Germany Under Bismarck - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 The conventional telling treats German unification as an inevitable process driven by economic integration, cultural nationalism, and the logic of modernization. Textbooks describe the Zollverein customs union as a stepping stone, nationalist intellectuals as the architects, and Bismarck as the executor of a process already underway. Jonathan Steinberg's *Bismarck: A Life* (2011) and Christopher Clark's *Iron Kingdom* (2006) expose this framing as retrospective. Unification was contingent at every stage. Bismarck's specific diplomatic and military choices at each juncture foreclosed alternatives that remained plausible until his intervention made them impossible. The story of German unification is the story of one man's capacity to bend an entire continent's geography to his will, and the consequences of that bending reverberated through 1914, through 1945, and into the present.
 

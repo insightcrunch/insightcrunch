@@ -6,7 +6,7 @@ date: 2017-04-30
 categories: ["Leisure"]
 tags: ["feluda", "feludar-goendagiri", "satyajit-ray", "darjeeling", "sandesh"]
 excerpt: "ফেলুদার প্রথম গল্পের সম্পূর্ণ বিশ্লেষণ। ১৯৬৫-এর সন্দেশ পত্রিকা, দার্জিলিং পটভূমি, রায়ের দ্বিধাময় কণ্ঠ, এবং একটি ক্যাননের ঐতিহাসিক জন্ম-মুহূর্ত।"
-image: "/assets/images/blog/blog-04.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 113
 author: "amit-chatterjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-04.webp)
+![ফেলুদার গোয়েন্দাগিরি: দার্জিলিং অভিষেক - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-58.webp)
 
 ## ১৯৬৫ সালের সন্দেশ পত্রিকা: প্রকাশনার প্রসঙ্গ
 

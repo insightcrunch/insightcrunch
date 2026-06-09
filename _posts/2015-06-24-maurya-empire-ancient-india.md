@@ -9,7 +9,7 @@ slug: "maurya-empire-ancient-india"
 excerpt: "Ashoka's renunciation of conquest after Kalinga is the ancient world's most unusual imperial decision. Sincere, strategic, or both, it transformed India."
 categories: ["Leisure"]
 tags: ["maurya-empire", "ashoka", "ancient-india", "buddhism", "chandragupta", "ancient-history"]
-image: "/assets/images/blog/blog-79.webp"
+image: "/assets/images/blog/blog-18.webp"
 reading_time: 69
 lang: en
 ---
@@ -17,7 +17,7 @@ The ancient world produced many conquerors who expanded empires, but only one wh
 
 <!--more-->
 
-![Maurya Empire - InsightCrunch](/assets/images/blog/blog-79.webp)
+![Maurya Empire - InsightCrunch](/assets/images/blog/blog-18.webp)
 
 The Maurya Empire at its peak covered roughly 5 million square kilometers, encompassing modern India, Pakistan, Bangladesh, and parts of Afghanistan and Iran. It was the first state to govern most of the Indian subcontinent under a single administrative authority, and the institution it built persisted as an institutional template long after the dynasty collapsed in 185 BCE. Ashoka's personal transformation around 260 BCE triggered a pivot in how that institution operated, and the transmission of Buddhism from a regional Indian sect to a pan-Asian religion is one direct consequence. No other individual conversion in recorded history produced consequences of comparable geographic and cultural scale. That is the claim this article defends, and the primary evidence comes from Ashoka's own voice - the edict corpus he inscribed across his empire, addressed to subjects in their local languages, preserved in stone for more than two thousand years. The edicts do not tell us everything we would wish to know about Ashoka's inner life, but they tell us more about a ruler's intentions, priorities, and emotional responses than any comparable ancient text. Their extraordinary survival - in cliff faces, on rock boulders, on polished sandstone columns - makes the Mauryan period the best-documented reign in the ancient Indian world, and it is from this documentation that every serious historical claim about Ashoka must ultimately be derived.
 

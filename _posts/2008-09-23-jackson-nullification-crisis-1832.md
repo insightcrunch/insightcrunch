@@ -6,7 +6,7 @@ date: 2008-09-23
 categories: ["Leisure"]
 tags: ["andrew-jackson", "decision-reconstruction", "us-presidents", "american-history", "nullification", "states-rights", "john-calhoun"]
 excerpt: "South Carolina voided federal tariffs in 1832. Andrew Jackson, slaveholder and states-rights Democrat, prepared troops and threatened to hang Calhoun."
-image: "/assets/images/blog/blog-27.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 79
 author: "chloe-martin"
 last_updated: 2008-09-23
@@ -20,7 +20,7 @@ A planter from Tennessee. An owner of enslaved laborers. Founder of the Democrat
 
 He did not. Andrew Jackson produced what remains, even after the Civil War rewrote constitutional argument, one of the two or three most uncompromising defenses of national supremacy any American president has written. He fortified Charleston harbor against possible action by his own Vice President's home state. He ordered the army and navy positioned for combat. He asked Congress for explicit statutory power to use military force in collecting customs duties. Multiple contemporary sources record him saying, in private conversation with intimates, that the first person who fired on the American flag would die at the end of a rope, and that Calhoun would lead the procession to the gallows.
 
-![Andrew Jackson nullification crisis 1832 South Carolina decision reconstruction - Insight Crunch](/assets/images/blog/blog-27.webp)
+![Andrew Jackson nullification crisis 1832 South Carolina decision reconstruction - Insight Crunch](/assets/images/blog/blog-41.webp)
 
 Andrew Jackson does not simplify when examined closely. The Nullification Crisis is the moment when the inconsistencies in his constitutional outlook become visible all at the same time, in the same set of documents and decisions, with the same person making each choice. He defends the Union with arguments that handed Abraham Lincoln his constitutional case for the Civil War. He breaks the Cherokee Nation through policies that violate every principle he just articulated. He invents executive tools that will outlive him by two centuries. He commits moral wrongs that will outlive the tools.
 

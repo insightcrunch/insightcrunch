@@ -6,7 +6,7 @@ date: 2017-05-30
 categories: ["Leisure"]
 tags: ["feluda", "kailashey-kelenkari", "satyajit-ray", "ellora", "art-smuggling"]
 excerpt: "কৈলাসে কেলেঙ্কারির সম্পূর্ণ বিশ্লেষণ। ইলোরার গুহা-পটভূমি, শিল্প-পাচার সংকট, ফেলুদার পরিণতি, এবং বাঙালি প্রত্নতাত্ত্বিক ঐতিহ্যের প্রসঙ্গ।"
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-27.webp"
 reading_time: 113
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![কৈলাসে কেলেঙ্কারি: ইলোরা ও শিল্প-পাচার - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-23.webp)
+![কৈলাসে কেলেঙ্কারি: ইলোরা ও শিল্প-পাচার - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-27.webp)
 
 ## ১৯৭০-এর প্রকাশনা প্রসঙ্গ
 

@@ -6,7 +6,7 @@ date: 2012-05-16
 categories: ["Industry"]
 tags: ["pathankot", "airbase", "jaish-e-mohammed", "terrorism", "india", "shahid-latif"]
 excerpt: "How JeM fighters breached the Pathankot airbase in January 2016, the seven security personnel killed, and the diplomatic collapse that ended engagement."
-image: "/assets/images/blog/blog-55.webp"
+image: "/assets/images/blog/blog-14.webp"
 reading_time: 70
 author: "marcus-hall"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ Eight days. That was the gap between the moment Prime Minister Narendra Modi ste
 
 <!--more-->
 
-![Pathankot Airbase Attack Explained - Insight Crunch](/assets/images/blog/blog-55.webp)
+![Pathankot Airbase Attack Explained - Insight Crunch](/assets/images/blog/blog-14.webp)
 
 The four fighters belonged to Jaish-e-Mohammed, the organization Masood Azhar had built after India released him from Jammu's Kot Bhalwal prison during the IC-814 hostage exchange at Kandahar in December 1999. Their target was not symbolic. The Pathankot Air Force Station houses MiG-21 Bison fighters, Mi-25 and Mi-35 attack helicopters, and the forward operating capability that defends India's western flank against the Pakistani Punjab. By the time the seventeen-hour battle ended on the morning of January 3 and the residual combing operation closed on January 5, seven Indian security personnel were dead, more than thirty wounded, and the diplomatic opening Modi had pursued at Raiwind was structurally finished. India would still file paperwork, accept inspectors, demand action, and pretend for several more months that engagement remained possible. But the operational reality changed at Pathankot. The next time terrorists struck an Indian military target, at Uri in September 2016, India did not invite anyone to investigate. Indian special forces simply crossed the Line of Control nine days later and announced what they had done.
 

@@ -6,7 +6,7 @@ date: 2026-05-28
 categories: ["Leisure"]
 tags: ["dhurandhar", "cinematography", "visual-style", "bollywood", "filmmaking", "production-design"]
 excerpt: "How Dhurandhar's cinematography and pictorial design create tension, atmosphere, and storytelling through the lens."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 60
 author: "amit-chatterjee"
 last_updated: 2026-03-31
@@ -16,7 +16,7 @@ The camera in Dhurandhar does not follow the story. It tells a second one. This 
 
 <!--more-->
 
-![Dhurandhar Cinematography and Visual Style - Insight Crunch](/assets/images/blog/blog-31.webp)
+![Dhurandhar Cinematography and Visual Style - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 This article argues that its photographic lexicon operates on three simultaneous levels that must be read together rather than separately. The geographic level is where color and light distinguish the duology's two primary spaces, Lyari and Delhi, with a specificity that makes every frame a locational statement as much as a narrative one. The psychological level is where camera movement and framing track the disguise's condition, mapping the gap between what Hamza performs and what he experiences in purely image-based terms, without requiring dialogue to communicate the difference. The moral level is where its photographic choices about how to stage violence, how to frame institutional power, and how to position the audience relative to the action constitute an argument about the relationship between the state and the individual that runs parallel to the verbal argument the screenplay makes through dialogue. Understanding all three levels simultaneously is what distinguishes a photographic analysis of the saga from a technical inventory of its cinematographic choices.
 

@@ -6,7 +6,7 @@ date: 2018-09-03
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদা ও টিনটিন দুই ভ্রমণ-অভিযান নায়ক কীভাবে বাঙালি শিশুর বড় হওয়ার অভিজ্ঞতায় সমান্তরালভাবে কাজ করে"
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-74.webp"
 reading_time: 143
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা ও টিনটিন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-35.webp)
+![ফেলুদা ও টিনটিন - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-74.webp)
 
 ## ভ্রমণ-কাঠামো: দু'টি সমান্তরাল যাত্রা
 

@@ -5,7 +5,7 @@ date: 2023-03-02
 categories: ["Analytics"]
 tags: ["Tableau"]
 excerpt: "The Tableau skills that make or break your certification. LOD expressions, calculations, formatting tricks, and the shortcuts examiners test hardest."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-47.webp"
 reading_time: 3
 author: "jordan-ellis"
 last_updated: 2026-03-30
@@ -19,7 +19,7 @@ Keep Reading: [Demystifying Tableau Certification: Your Questions Answered »](h
 
 Tableau certification is a testament to your expertise in wielding the power of data visualization and analysis. It elevates your credibility and widens your scope within the dynamic world of data analytics.
 
-![Mastering Tableau: Tips and Tricks for Certification Success](/assets/images/blog/blog-28.webp)
+![Mastering Tableau: Tips and Tricks for Certification Success](/assets/images/blog/blog-47.webp)
 Mastering Tableau: Tips and Tricks for Certification Success
 
 ## The Journey Begins: Mastering Tableau's Complexities

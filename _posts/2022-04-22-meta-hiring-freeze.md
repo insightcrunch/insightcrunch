@@ -5,7 +5,7 @@ date: 2022-04-22
 categories: ["Industry"]
 tags: ["Meta"]
 excerpt: "Meta is the parent company of Facebook. The hiring plans of Meta have been slashed by at least 30% in the current year. CEO Mark Zuckerberg has informed..."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 8
 author: "marcus-hall"
 last_updated: 2026-04-02
@@ -27,7 +27,7 @@ https://youtu.be/4tQYm33aIEU
 
 The number of active users in Meta continues to decline. Faced by intense scrutiny for selling user data to advertisers and analytical firms, Facebook had lost the ethical battle to keep user’s trust. People today post less in Facebook than they used to do 5 years back. Lesser posting means lesser content for users to consume. This is directly affecting the core of Meta’s business model. Without user content, their business model vaporizes into thin air. Analytics show new users are preferring platforms like TikTok over Meta products. The creepiness of the advertisements and suggested posts by Meta algorithms is too intense for humans. No one wants to see the advertisement for a bug spray all over their feed minutes after they were talking to their neighbor over some infestation. How Meta captures these user data from our voices even without us searching on the internet is a cause of intense privacy concern for many today.
 
-![](/assets/images/blog/blog-24.webp)
+![](/assets/images/blog/blog-43.webp)
 
 ## Meta looking at Reels as last resort
 

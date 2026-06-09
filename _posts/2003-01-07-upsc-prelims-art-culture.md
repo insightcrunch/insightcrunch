@@ -6,7 +6,7 @@ date: 2003-01-07
 categories: ["Industry"]
 tags: ["UPSC", "Art and Culture", "UPSC Prelims", "Indian Heritage", "Classical Dance", "Prelims Strategy"]
 excerpt: "Master UPSC Prelims art and culture with painting, dance, music, UNESCO sites, and architecture strategy."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-69.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The predictability of Art and Culture stems from its finite knowledge base. Unli
 
 This article is your comprehensive manual for Art and Culture as tested in UPSC Prelims. It maps every major sub-topic to its examination frequency, provides the distinguishing details that UPSC uses to construct tricky answer options, covers the classical performing arts, painting traditions, architectural styles, UNESCO heritage sites, literary traditions, handicrafts, and tribal cultural practices that collectively form the Art and Culture syllabus, and delivers a structured study plan that transforms this seemingly vast subject into a manageable, scoreable knowledge domain.
 
-![UPSC Prelims Art and Culture Strategy and Study Guide - Insight Crunch](/assets/images/blog/blog-35.webp)
+![UPSC Prelims Art and Culture Strategy and Study Guide - Insight Crunch](/assets/images/blog/blog-69.webp)
 
 ## Why Art and Culture Is the Most Predictable Prelims Section
 

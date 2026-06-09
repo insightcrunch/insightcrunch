@@ -6,7 +6,7 @@ date: 2014-10-27
 categories: ["Leisure"]
 tags: ["jane-eyre", "charlotte-bronte", "independence", "feminism", "themes", "literary-analysis", "classic-literature"]
 excerpt: "Jane Eyre champions female independence through four radical interventions that define a particular 1847 Victorian-feminist argument still powerful today."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 75
 author: "lauren-hayes"
 last_updated: 2014-10-27
@@ -16,7 +16,7 @@ Charlotte Bronte's Jane Eyre is not a romance that happens to contain liberation
 
 <!--more-->
 
-![Independence and Feminism in Jane Eyre - Insight Crunch](/assets/images/blog/blog-59.webp)
+![Independence and Feminism in Jane Eyre - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 Two common misinterpretations distort the gender-autonomy content of Jane Eyre. The first imposes twentieth- and twenty-first-century frameworks onto an 1847 work, turning Jane into a proto-suffragette or a consciousness-raising activist who simply arrived too early. The second denies the presence of any liberation politics altogether because the prose does not address suffrage, reproductive rights, or institutional critique, concluding that because the protagonist marries, the work cannot carry a emancipatory agenda. Both approaches flatten the historical specificity of what Bronte accomplished. The position defended throughout this analysis is that [Jane Eyre's broader analytical vision](https://insightcrunch.com/2014/10/12/complete-analysis-jane-eyre-bronte/) is best understood through four precise interventions the narrative makes regarding personal autonomy and four concerns about the politics of autonomy it deliberately or structurally omits, and that mapping both sides of that ledger produces a historically grounded interpretation that neither anachronism nor denial can match.
 

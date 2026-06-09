@@ -6,7 +6,7 @@ date: 2011-02-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Boyhood Sledding Scene", "Deep Focus", "Close Reading", "Cinematography", "Orson Welles"]
 excerpt: "The Citizen Kane sledding scene signs a child's future away while he plays in the snow outside, the film's greatest deep focus shot read plane by plane."
-image: "/assets/images/blog/blog-40.webp"
+image: "/assets/images/blog/blog-84.webp"
 reading_time: 61
 author: "chloe-martin"
 last_updated: 2011-02-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The Citizen Kane sledding scene compresses an entire life into a single arrangement of glass, snow, and depth. A boy plays outside in the white, shouting at an imaginary war, while indoors his mother and a banker bend over a contract that hands him to a stranger and an empire. The boyhood sledding scene gives the film its most quoted composition and its quietest catastrophe at the same instant, because the camera keeps the child sharp and small in the far distance while the people deciding his fate fill the front of the frame. Nothing in the picture argues its central idea more efficiently than this one setup, and nothing rewards slow looking more.
 
-![Citizen Kane sledding scene deep focus boyhood shot analyzed - Insight Crunch](/assets/images/blog/blog-40.webp)
+![Citizen Kane sledding scene deep focus boyhood shot analyzed - Insight Crunch](/assets/images/blog/blog-84.webp)
 
 Most viewers remember the moment as a feeling, a hush of snow and loss, without registering how the feeling is engineered. The point of this reading is to make the engineering visible. By the time you finish, you should be able to walk through the composition plane by plane, name what each layer is doing, explain why the depth staging carries the meaning instead of merely decorating it, and turn the whole thing into a defensible paragraph for an essay. The scene is short. The design packed into it is not.
 

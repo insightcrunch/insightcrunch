@@ -6,7 +6,7 @@ date: 2016-04-19
 categories: ["Leisure"]
 tags: ["nuclear-arms-race", "cold-war", "nuclear-weapons", "world-history", "historical-analysis"]
 excerpt: "The Nuclear Arms Race produced roughly 70,000 warheads at peak. Multiple near-launches proved that deterrence ran on far narrower margins than publics knew."
-image: "/assets/images/blog/blog-63.webp"
+image: "/assets/images/blog/blog-77.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2016-04-19
@@ -16,7 +16,7 @@ The Nuclear Arms Race produced roughly 70,000 warheads at its Cold War peak, eno
 
 <!--more-->
 
-![The Nuclear Arms Race Explained - Insight Crunch](/assets/images/blog/blog-63.webp)
+![The Nuclear Arms Race Explained - Insight Crunch](/assets/images/blog/blog-77.webp)
 
 ## The American Monopoly Phase: 1945 to 1949
 

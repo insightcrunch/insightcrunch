@@ -6,7 +6,7 @@ date: 2012-10-22
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Cedric Diggory", "Hufflepuff", "Goblet of Fire", "Triwizard Tournament"]
 excerpt: "Cedric Diggory in Harry Potter as the series' true Hufflepuff: the golden boy whose graveyard death transforms a children's tale into a wartime moral reckoning."
-image: "/assets/images/blog/blog-37.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 60
 author: "sarah-mitchell"
 last_updated: 2012-10-22
@@ -18,7 +18,7 @@ There are characters who die in the Harry Potter series, and there is Cedric Dig
 
 The mechanism Rowling uses to perform this transition is not a battle, not a fall from power, not a great revelation. It is a single sentence. "Kill the spare." Voldemort, newly resurrected, has no time for the seventh-year Hogwarts student who has accidentally arrived in his graveyard. The young man is not a target. He is not an enemy. He is debris. The instruction is administrative. The murder is incidental. And the seven-volume saga is, from that moment, a different work.
 
-![Cedric Diggory character analysis from Harry Potter and the Goblet of Fire](/assets/images/blog/blog-37.webp)
+![Cedric Diggory character analysis from Harry Potter and the Goblet of Fire](/assets/images/blog/blog-66.webp)
 
 The Hufflepuff champion is the price the series pays to become serious about itself. He is also, less appreciated, the reader's first lesson that the world the books inhabit is not morally legible. The boy does nothing wrong. He commits no error of judgment. He is not naive in any consequential way. He is generous, talented, hardworking, and kind to a fourth-year boy he has every social reason to ignore. He is killed because he is standing in the wrong field at the wrong second. The randomness is not a flaw of the narrative. The randomness is the narrative. Wartime morality, the books begin to argue here, is not a curriculum.
 

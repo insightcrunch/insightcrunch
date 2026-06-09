@@ -6,7 +6,7 @@ date: 2014-02-04
 categories: ["Leisure"]
 tags: ["the-great-gatsby", "f-scott-fitzgerald", "american-dream", "literary-analysis", "classic-literature", "social-criticism"]
 excerpt: "How The Great Gatsby dismantles the American Dream - class, wealth, self-invention, and beautiful corruption."
-image: "/assets/images/blog/blog-16.webp"
+image: "/assets/images/blog/blog-45.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2014-02-04
@@ -16,7 +16,7 @@ Fitzgerald did not write a simple tragedy about the American Dream's corruption.
 
 <!--more-->
 
-![The American Dream in The Great Gatsby Analysis - Insight Crunch](/assets/images/blog/blog-16.webp)
+![The American Dream in The Great Gatsby Analysis - Insight Crunch](/assets/images/blog/blog-45.webp)
 
 That diagnostic reading is what this analysis defends. Against the mid-twentieth-century critical tradition that treated Gatsby as a tragic romantic destroyed by a coarsened America, this article argues that Fitzgerald saw something colder: a national mythology designed to keep men like James Gatz producing wealth they could never convert into social position, because the social position was reserved for men like Tom Buchanan who had inherited it. The green light is not a symbol of lost innocence. It is the bait on a trap, and the trap's elegance is that the bait is genuinely beautiful. Nick Carraway's final elegy for the Dream is not Fitzgerald mourning its loss. It is Fitzgerald acknowledging that a fiction so deeply felt can operate as aspiration even after the reader has watched it kill a man. The Dream's beauty is part of its machinery, and the novel is a manual for reading that machinery without being seduced by it. For a broader view of how this diagnosis fits within the [complete architecture of Fitzgerald's argument](https://insightcrunch.com/2014/01/10/complete-analysis-great-gatsby/), the stakes become even clearer: every thread in the novel runs back to this single structural claim about wealth, class, and the mythology that binds them.
 

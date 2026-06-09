@@ -6,7 +6,7 @@ date: 2015-11-16
 categories: ["Leisure"]
 tags: ["world-war-i", "causes-of-wwi", "july-crisis", "sarajevo", "great-war", "modern-history"]
 excerpt: "World War I was caused by the cumulative choices of decision-makers across six European capitals. No single power caused it, and the war was avoidable."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 70
 author: "chloe-martin"
 last_updated: 2015-11-16
@@ -16,7 +16,7 @@ World War I was caused by specific choices made by a small number of identifiabl
 
 <!--more-->
 
-![Causes of World War I Explained - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Causes of World War I Explained - Insight Crunch](/assets/images/blog/blog-21.webp)
 
 The distinction matters because it changes what the catastrophe teaches. If a great conflict is the inevitable discharge of accumulated structural tension, then nobody is responsible, nothing could have been different, and the only lesson is fatalism. If instead the conflict was produced by separate decisions in Vienna, Berlin, St. Petersburg, Paris, London, and Belgrade, then responsibility is real, the alternatives were genuine, and the lesson is sharper and more uncomfortable. The lesson is that intelligent, experienced statesmen, none of them insane, several of them reluctant, can still walk a continent into ruin one defensible step at a time.
 

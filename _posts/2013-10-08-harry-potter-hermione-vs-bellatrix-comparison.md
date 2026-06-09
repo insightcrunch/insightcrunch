@@ -6,7 +6,7 @@ date: 2013-10-08
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Hermione Granger", "Bellatrix Lestrange", "Character Comparison"]
 excerpt: "Hermione vs Bellatrix in Harry Potter: two witches of equal brilliance and devotion whose opposite allegiances prove that talent is a morally neutral resource."
-image: "/assets/images/blog/blog-45.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 41
 author: "claire-bennett"
 last_updated: 2013-10-08
@@ -16,7 +16,7 @@ lang: en
 
 The question is not which witch is more powerful. Set that aside, because it produces no insight worth having. The question is harder and stranger: are intelligence and total devotion, considered purely as cognitive capacities, themselves morally neutral resources that can be aimed in any direction whatsoever? Rowling answers the question by building two women of identical magnitude and pointing them at opposite ends of the universe, and the answer she arrives at is uncomfortable. The brilliance is the same. The devotion is the same. Only the object differs, and the object is the entire moral fact.
 
-![Hermione Granger and Bellatrix Lestrange compared across brilliance, devotion, and allegiance in Harry Potter](/assets/images/blog/blog-45.webp)
+![Hermione Granger and Bellatrix Lestrange compared across brilliance, devotion, and allegiance in Harry Potter](/assets/images/blog/blog-59.webp)
 
 Most readers never put these two side by side, because the surface morality of the series keeps them apart. One is the heroine's best friend, the moral conscience of the trio, the girl who reads. The other is a torturer who laughs while she works, a killer of cousins, the most loyal weapon in a fascist's arsenal. To compare them feels almost obscene, as though the act of placing them on the same page launders the murderer by association. That discomfort is precisely why the comparison matters. The series invites it, then refuses to let the reader take the easy exit, because the two women are constructed to be magnitude-equivalent and allegiance-opposite, and that exact symmetry is the engine of one of Rowling's most precise arguments about the nature of human capacity.
 

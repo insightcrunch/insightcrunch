@@ -6,7 +6,7 @@ date: 2023-01-09
 categories: ["Technology"]
 tags: ["Azure", "VPN Gateway", "Troubleshooting", "Networking", "IPsec", "Cloud Computing"]
 excerpt: "An Azure VPN gateway tunnel that drops or never connects is almost always a setting the two ends disagree on. Diagnose the real cause and align both sides."
-image: "/assets/images/blog/blog-41.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 60
 author: "benjamin-scott"
 last_updated: 2023-01-09
@@ -16,7 +16,7 @@ A site-to-site connection that sits at Connecting forever, a tunnel that comes u
 
 This article diagnoses the failure to root cause. You will learn to read the two phases a tunnel goes through before it carries a single packet, to gather the diagnostic signal that tells you which phase failed, and to map the failure to one of a small set of distinct causes: an IKE phase 1 parameter mismatch, an IPsec phase 2 parameter mismatch, a wrong or rotated pre-shared key, a traffic-selector or policy-based mismatch, a routing problem over an otherwise healthy tunnel, or a tunnel that flaps under rekey. For each cause you get the check that confirms it is yours and the command that fixes it on the correct end.
 
-![Diagnosing Azure VPN gateway tunnel disconnects and IPsec mismatch root causes - Insight Crunch](/assets/images/blog/blog-41.webp)
+![Diagnosing Azure VPN gateway tunnel disconnects and IPsec mismatch root causes - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 ## What a down Azure VPN gateway tunnel actually means
 

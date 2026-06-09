@@ -6,7 +6,7 @@ date: 2022-01-03
 categories: ["Technology"]
 tags: ["Azure", "Virtual Machines", "Compute", "Managed Disks", "Cloud Infrastructure", "IaaS"]
 excerpt: "Azure Virtual Machines reduce to four coupled choices: size family, disk tier, availability construct, and cost commitment. Here is how to reason through each."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
 author: "david-thornton"
 last_updated: 2022-01-03
@@ -14,7 +14,7 @@ lang: en
 ---
 Most engineers create their first Azure Virtual Machines by accepting a portal default, and the bill, the latency, and the 3 a.m. page all arrive later as separate surprises that nobody connects back to that one click. The gap between using a VM and understanding one is the gap between copying a size name and being able to predict, before deployment, how the machine will behave under load, what it will cost when idle, and which failure will take it down first. This guide closes that gap. The claim it argues is simple to state and easy to get wrong in practice: every production VM is really four coupled choices, the size family, the disk tier, the availability construct, and the cost commitment, and getting one wrong silently caps the other three.
 
-![Azure Virtual Machines four-decision model for sizing, disks, availability, and cost - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Azure Virtual Machines four-decision model for sizing, disks, availability, and cost - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 No single documentation page joins those four decisions into one reasoning chain, which is why so many deployments are individually defensible and collectively wrong: a generously sized machine throttled by a cheap disk, a redundant pair that shares one failure domain, a reserved commitment on a workload that should have been interruptible. The reader who finishes this guide should be able to derive a size from a workload rather than guess it, name the failure modes before they happen, and read a monthly invoice without surprise.
 

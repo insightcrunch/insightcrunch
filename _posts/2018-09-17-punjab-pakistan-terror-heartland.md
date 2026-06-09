@@ -6,7 +6,7 @@ date: 2018-09-17
 categories: ["Industry"]
 tags: ["punjab-pakistan", "terror-heartland", "let", "jem", "lahore", "sialkot"]
 excerpt: "How Pakistani Punjab, the country's most prosperous and politically dominant province, became the organizational heartland of jihad operations against India."
-image: "/assets/images/blog/blog-33.webp"
+image: "/assets/images/blog/blog-32.webp"
 reading_time: 72
 author: "david-thornton"
 last_updated: 2018-09-17
@@ -16,7 +16,7 @@ Every map of Pakistan's long campaign against India has a center of gravity, and
 
 <!--more-->
 
-![Punjab Pakistan Terror Heartland - Insight Crunch](/assets/images/blog/blog-33.webp)
+![Punjab Pakistan Terror Heartland - Insight Crunch](/assets/images/blog/blog-32.webp)
 
 Pakistan has four provinces, and only one of them functions as the organizational homeland of jihad against its eastern neighbour. Sindh has Karachi, a sprawling port city where operatives hide and where many have been hunted down, a story told in full in the [Karachi safe haven analysis](https://insightcrunch.com/2018/07/09/karachi-terror-capital-guide/). Khyber Pakhtunkhwa has the tribal belt, lawless and ungoverned, useful for training camps and transit. Balochistan has weapons markets and smuggling corridors. Each of those territories matters. None of them is the heartland. The seminaries that write the doctrine, the compounds that house the leadership, the offices that move the money, and the residences where the founders sleep at night are overwhelmingly concentrated in the country's eastern province, the same province that produces most of the soldiers and nearly all of the generals who run the state.
 

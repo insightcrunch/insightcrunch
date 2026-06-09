@@ -6,7 +6,7 @@ date: 2015-10-17
 categories: ["Leisure"]
 tags: ["abolition-of-slavery", "transatlantic-slave-trade", "emancipation", "nineteenth-century", "slavery-history", "medieval-history"]
 excerpt: "The end of Atlantic slavery took nearly a century and was driven by enslaved resistance, economic change, and political contingency, not just morality."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-61.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2015-10-17
@@ -16,7 +16,7 @@ The standard narrative of how slavery ended goes something like this: good peopl
 
 <!--more-->
 
-![Abolition of Slavery History and Timeline - Insight Crunch](/assets/images/blog/blog-42.webp)
+![Abolition of Slavery History and Timeline - Insight Crunch](/assets/images/blog/blog-61.webp)
 
 The timeline of major abolition acts spans nearly a century and proceeded through substantially different mechanisms on different continents. The French National Convention declared emancipation across French colonies in 1794, only for Napoleon to reverse the decree and reimpose bondage in 1802. Haiti achieved permanent freedom through armed revolution and declared independence in 1804, becoming the first nation in the Americas to abolish the institution entirely. Britain banned the transatlantic trade in 1807 and abolished the practice throughout its empire in 1833. France enacted a second, permanent decree in 1848. The United States accomplished its own transformation through four years of civil war and the Thirteenth Amendment in 1865. Spain ended the system in Puerto Rico in 1873 and in Cuba in 1886. Brazil, the last major Western Hemisphere nation to act, signed the Lei Aurea (Golden Law) in 1888. Each of these moments involved different combinations of resistance, economics, politics, and moral argument, and understanding the process requires examining all of them rather than extracting a single explanatory thread. To [trace these events on the chronological map](https://reportmedic.org/tools/world-history-timeline.html) is to see a century-long sequence whose unevenness itself is evidence against the simple moral-progress reading.
 

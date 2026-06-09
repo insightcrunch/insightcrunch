@@ -6,7 +6,7 @@ date: 1996-08-21
 categories: ["Industry"]
 tags: ["SAT", "College Admissions", "Pre-Med", "Science", "Score Ranges"]
 excerpt: "SAT scores for pre-med explained: why pre-med is a track not a major, feeder-school score ranges, scholarships and the big-fish-small-pond debate, with a table."
-image: "/assets/images/blog/blog-69.webp"
+image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1996-08-21
@@ -14,7 +14,7 @@ lang: en
 ---
 Every fall, thousands of high school juniors type the same phrase into a search bar: what SAT score do I need for pre-med? They are looking for a number, a single threshold that admits them to the path toward a white coat. The number does not exist, and chasing it is the first strategic error a future physician can make. SAT scores for pre-med are real and they matter, but they are not pre-med scores at all. They are admission scores for the undergraduate university where a student happens to pursue the pre-med track, and the right target moves with the school, not with the career goal.
 
-![SAT scores for pre-med and science programs feeder school ranges and decision guide - Insight Crunch](/assets/images/blog/blog-69.webp)
+![SAT scores for pre-med and science programs feeder school ranges and decision guide - Insight Crunch](/assets/images/blog/blog-78.webp)
 
 That distinction is not pedantry. It reshapes the entire application strategy. A student who believes pre-med is a major builds a college list around a fantasy and writes essays for a credential that no registrar issues. A student who understands that pre-med is a track, a set of prerequisite courses and a long arc toward the Medical College Admission Test, builds the list around something verifiable: which undergraduate institutions place students into medical school at high rates, what their published middle-50 score bands actually are, and where a strong applicant can both get admitted and protect the grade point average that medical schools weigh above almost everything else. The score you need is the score that gets you into the right campus for that plan, and the right campus is rarely the one with the most famous name.
 

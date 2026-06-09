@@ -6,7 +6,7 @@ date: 2013-06-18
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Education", "Teaching Philosophy", "Hogwarts Professors"]
 excerpt: "How Harry Potter makes each Hogwarts professor a theory of teaching, where the educator who sees the student matters more than the one who masters the subject."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-10.webp"
 reading_time: 62
 author: "megan-clark"
 last_updated: 2013-06-18
@@ -16,7 +16,7 @@ lang: en
 
 Hogwarts is a school, and yet the series that bears its name almost never shows anyone learning anything. We see a great deal of magic performed, plenty of homework lamented, the occasional exam endured, but the actual transmission of knowledge from one mind to another happens, on the page, surprisingly rarely. What the books show instead, again and again, is something subtler and more consequential than instruction. They show attention. They show which adults in the castle look at a particular child and see him, and which look at the same child and see only a seat to be filled, a name on a register, an interruption to a lesson plan. Rowling's seven volumes contain an argument about education that is hidden in plain sight, and the argument is this: the curriculum is almost irrelevant. What forms a person is whether anyone is watching when it counts.
 
-![Hogwarts professors and the education philosophy of Harry Potter](/assets/images/blog/blog-70.webp)
+![Hogwarts professors and the education philosophy of Harry Potter](/assets/images/blog/blog-10.webp)
 
 The claim sounds sentimental until you test it against the text, at which point it becomes uncomfortably precise. Every professor in the castle teaches a recognisable pedagogical philosophy, and the series quietly grades each one not on subject mastery but on the moral quality of attention. The brilliant Potions master who can brew anything fails utterly as a teacher because he never once looks at his students as people; he sees only his own grief reflected in their faces. The shabby, exhausted, chronically ill Defence professor who can barely keep a job designs an entire lesson around the private fears of each child in the room, and in doing so produces the only competent year of Defence instruction in the whole series. Set those two figures side by side and the series has already made its case. Knowledge of the subject is the entry ticket, not the qualification. The qualification is the willingness to see.
 

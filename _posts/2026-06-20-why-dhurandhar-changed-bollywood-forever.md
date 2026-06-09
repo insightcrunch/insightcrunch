@@ -6,7 +6,7 @@ date: 2026-06-20
 categories: ["Leisure"]
 tags: ["dhurandhar", "bollywood", "indian-cinema", "cultural-impact", "industry-analysis", "franchise"]
 excerpt: "How Dhurandhar permanently changed Bollywood - what the industry looked like before and what it must become after."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-87.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ The most important thing that changed when the Dhurandhar franchise became the c
 
 <!--more-->
 
-![Why Dhurandhar Changed Bollywood Forever - Insight Crunch](/assets/images/blog/blog-23.webp)
+![Why Dhurandhar Changed Bollywood Forever - Insight Crunch](/assets/images/blog/blog-87.webp)
 
 This article traces what changed and why. It addresses the industry before the franchise arrived, the changes the franchise produced, the dimensions in which those changes are already visible in the industry's creative and commercial choices, and the dimensions in which the changes will take longer to fully manifest. It is not a celebration of the franchise, though the franchise deserves celebration. It is an analysis of mechanism: of how specifically the franchise changed what Hindi commercial cinema is and what it believes it can be.
 

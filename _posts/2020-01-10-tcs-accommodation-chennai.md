@@ -5,7 +5,7 @@ date: 2020-01-10
 categories: ["Industry"]
 tags: ["TCS", "ILP", "Accommodation", "Chennai", "Fresher", "Hostel", "OMR", "Karapakkam", "Siruseri", "IT Career"]
 excerpt: "The complete guide to TCS accommodation in Chennai for ILP associates. Covers residential and non-residential ILP, PG and hostel options near Karapakkam and Siruseri, the OMR corridor food and transport ecosystem, room quality, costs, female associate housing, climate preparation, and everything you need to know before arriving."
-image: "/assets/images/blog/blog-35.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 50
 author: "shruti-agarwal"
 last_updated: 2026-04-01
@@ -13,7 +13,7 @@ lang: en
 ---
 Chennai is one of the most important TCS ILP locations in India, and it is also one of the most complicated in terms of accommodation because it operates differently from most other ILP cities. The single most important thing to understand about TCS accommodation in Chennai is this: a very large proportion of Chennai ILP associates are classified as non-residential, which means TCS does not provide them accommodation and they must arrange their own housing. This is fundamentally different from Trivandrum, where virtually all ILP associates receive TCS-arranged accommodation. If your joining letter contains the phrase "you are advised to make your own arrangements for accommodation and transport," you are in the non-residential category and this guide's sections on finding your own PG and hostel options will be your primary resource.
 
-![TCS Accommodation Chennai - Complete Hostel and Housing Guide](/assets/images/blog/blog-35.webp)
+![TCS Accommodation Chennai - Complete Hostel and Housing Guide](/assets/images/blog/blog-19.webp)
 TCS Accommodation Chennai - Complete Hostel and Housing Guide
 
 For the broader picture of how TCS accommodation works across all ILP cities, including the deduction structure, salary impact, and general policies, read the [TCS Accommodation Complete Guide](https://insightcrunch.com/2020/01/18/tcs-accommodation-complete-guide/). If you are still preparing for the TCS recruitment assessment, the [TCS NQT Preparation Guide](https://reportmedic.org/tools/tcs-nqt-preparation-guide.html) on ReportMedic covers the exam comprehensively. And for ILP-specific preparation covering the technical curriculum, assessments, and rating system, use the [TCS ILP Preparation Guide](https://reportmedic.org/tools/tcs-ilp-preparation-guide.html).

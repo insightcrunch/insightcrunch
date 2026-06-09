@@ -6,7 +6,7 @@ date: 2011-02-15
 categories: ["Leisure"]
 tags: ["Citizen Kane", "Charles Foster Kane", "Close Reading", "Cinematography", "Deep Focus", "Themes"]
 excerpt: "In Citizen Kane, young Charles is sent away in a deep-focus scene that stages a child's loss as a cold contract and seeds his every later grab for love."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-88.webp"
 reading_time: 60
 author: "rachel-foster"
 last_updated: 2011-02-15
@@ -14,7 +14,7 @@ lang: en
 ---
 A film about a man nobody can explain spends one small, freezing afternoon explaining everything, and then refuses to admit it has done so. In Citizen Kane, young Charles is sent away in a single Colorado boarding-house scene that lasts only a few minutes, yet the rest of the picture, with all its palaces and newspapers and divorces, reads as one long failed attempt to undo what happens here. A boy plays in the snow outside a window while three adults inside trade his future across a tabletop, and the camera holds them all in the same merciless focus. Nothing in the film is more decisive, and nothing is staged more coldly. The genius of the passage is that it gives you the cause of a wrecked life in plain sight and dares you to recognize how ordinary catastrophe looks while it is happening.
 
-![Young Charles Is Sent Away scene in Citizen Kane deep focus boarding house analysis - Insight Crunch](/assets/images/blog/blog-19.webp)
+![Young Charles Is Sent Away scene in Citizen Kane deep focus boarding house analysis - Insight Crunch](/assets/images/blog/blog-88.webp)
 
 Most viewers remember the snow globe, the burning sled, and the dying whisper, and they file the sending-away under background, a bit of childhood we pass through on the way to the spectacle. That instinct gets the architecture exactly backward. The reporter Jerry Thompson is chasing the meaning of a word, and the closest the film ever comes to handing him an answer sits in this room, in the contract a mother signs and the sled a boy will not let go of. Reading the scene where Charles is sent away properly means treating it not as prologue but as the engine, the originating loss that the entire structure of the film is built to circle without ever quite naming. This is where the wound is delivered, and the film's refusal to underline it is the whole point.
 

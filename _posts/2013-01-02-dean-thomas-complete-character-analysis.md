@@ -6,7 +6,7 @@ date: 2013-01-02
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Dean Thomas", "Gryffindor", "Minor Characters", "Hidden Heritage"]
 excerpt: "Complete literary analysis of Dean Thomas in Harry Potter - the Muggle-raised Gryffindor, hidden heritage, art, race, and the protagonist Rowling never wrote."
-image: "/assets/images/blog/blog-50.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 57
 author: "sophia-turner"
 last_updated: 2013-01-02
@@ -18,7 +18,7 @@ Dean Thomas was one year old when his father was murdered by Death Eaters. The m
 
 Rowling tells this story in something close to a footnote.
 
-![Dean Thomas character analysis in Harry Potter series](/assets/images/blog/blog-50.webp)
+![Dean Thomas character analysis in Harry Potter series](/assets/images/blog/blog-39.webp)
 
 It is, in literal terms, almost the same story as the one the series is built around. A wizard father killed by Death Eaters when the protagonist was a year old. A child raised in the Muggle world, ignorant of his heritage, kept from the war his parents had been fighting. The arrival of a Hogwarts letter that detonates the false biography. The discovery, only at the brink of adulthood, of the truth about his father. Every structural beat of the Harry Potter origin myth is replicated in the backstory of a boy who shares the protagonist's dormitory for seven years and barely gets sustained narrative attention. The series contains, embedded in its margins, an unwritten parallel novel whose protagonist would have been a Black Muggle-raised half-blood with a hidden inheritance, and the series chose to write the other one. Reading this character seriously means reading both the books that exist and the book that does not.
 

@@ -6,7 +6,7 @@ date: 2026-06-07
 categories: ["Leisure"]
 tags: ["dhurandhar", "dialogue", "screenwriting", "bollywood", "aditya-dhar", "film-writing"]
 excerpt: "How Dhurandhar uses speech to build tension, define character, and deliver both restraint and spectacle."
-image: "/assets/images/blog/blog-73.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ Bollywood dialogue traditionally announces itself. It arrives at the emotional d
 
 <!--more-->
 
-![Dhurandhar Dialogue Writing Analyzed - Insight Crunch](/assets/images/blog/blog-73.webp)
+![Dhurandhar Dialogue Writing Analyzed - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 Aditya Dhar's writing in the Dhurandhar pair refuses this convention. The most devastating lines in these films are the ones in which a character says less than they mean, and the viewer must close the gap. When Hamza speaks with his Lyari neighbours, the surface chatter hides strategic calculation; when Sushant Bansal briefs the Delhi room on an operation, the clipped briefing hides moral exhaustion. Restraint carries the weight that announcement carries in conventional Bollywood text. The lines that earn theatre-wide cheers and the lines that demand a second viewing are often the same lines, operating at two registers simultaneously.
 

@@ -5,7 +5,7 @@ date: 2008-12-29
 categories: ["Leisure"]
 tags: ["Thoughts"]
 excerpt: "As we all know, Blogger uses Picasa Web Albums to store any image that we upload in our blog. It creates an album with the same name as the blog and..."
-image: "/assets/images/blog/blog-23.webp"
+image: "/assets/images/blog/blog-37.webp"
 reading_time: 2
 author: "chloe-martin"
 last_updated: 2026-04-01
@@ -33,5 +33,5 @@ Read more: [Why do one blog? »](https://insightcrunch.com/2009/01/04/why-do-one
 
 This saved a lot of my problems as I have always wanted some place to share all my memories and my snapshots without being restricted. Thanks to Picasa Web Albums and Zooomr.
 
-![Breaking the photo limit while using Windows Live Writer and Blogger](/assets/images/blog/blog-23.webp)
+![Breaking the photo limit while using Windows Live Writer and Blogger](/assets/images/blog/blog-37.webp)
 Breaking the photo limit while using Windows Live Writer and Blogger

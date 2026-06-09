@@ -5,7 +5,7 @@ date: 2022-10-21
 categories: ["Industry"]
 tags: ["Amazon"]
 excerpt: "Amazon is one of the largest companies in the world today, and the technologies it works on is one of the latest and greatest where innovations are..."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 10
 author: "jason-mckenzie"
 last_updated: 2026-04-02
@@ -25,7 +25,7 @@ The work from home jobs has a lot of benefits, as it saves a lot of money in out
 
 Amazon churns through and analyzes its workers at an astonishing rate, which is far more than the industry average. There has been various reports that has been found recently where the attrition rate of Amazon is far greater than the industry average due to a variety of factors. And this has now come with the specific cost value that Amazon is suffering. The Amazon workforce has been working on analyzing a high level of attrition across all the levels at Amazon, which has totaled nearly $8 billion annually for the shareholders. The company's net profits for the recent fiscal year was close to $40 billion and hence this amount of cost of attrition is not negligible. 
 
-![Amazon work from home reviews](/assets/images/blog/blog-68.webp)
+![Amazon work from home reviews](/assets/images/blog/blog-08.webp)
 Amazon work from home reviews
 
 ## Amazon Lack of Employee Training

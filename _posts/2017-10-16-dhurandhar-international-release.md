@@ -6,7 +6,7 @@ date: 2017-10-16
 categories: ["Industry"]
 tags: ["dhurandhar", "international", "japan", "global", "bollywood", "india-image"]
 excerpt: "How Dhurandhar's international release carried India's shadow war narrative to global audiences, from the Japan premiere to diaspora screenings abroad."
-image: "/assets/images/blog/blog-74.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "nandini-sen"
 last_updated: 2017-10-16
@@ -16,7 +16,7 @@ Dhurandhar's international release accomplished something that decades of Indian
 
 <!--more-->
 
-![Dhurandhar International Release Impact - Insight Crunch](/assets/images/blog/blog-74.webp)
+![Dhurandhar International Release Impact - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 ## The Film's Version
 

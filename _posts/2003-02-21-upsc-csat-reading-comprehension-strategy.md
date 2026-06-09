@@ -6,7 +6,7 @@ date: 2003-02-21
 categories: ["Industry"]
 tags: ["UPSC", "CSAT", "Reading Comprehension", "UPSC Prelims", "Inference"]
 excerpt: "UPSC CSAT reading comprehension complete strategy: passage analysis approach, all six question type techniques, active reading methodology, vocabulary building, time management, and the systematic approach to mastering the largest single CSAT section that anchors qualification for non-technical aspirants."
-image: "/assets/images/blog/blog-28.webp"
+image: "/assets/images/blog/blog-08.webp"
 reading_time: 59
 author: "deepika-joshi"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ The strategic centrality of reading comprehension for non-technical aspirants is
 
 This article provides the complete preparation strategy for UPSC CSAT reading comprehension that addresses both the structural characteristics of the section and the specific skill development that contemporary papers require. The article integrates four critical components: the passage analysis approach that explains the nature of CSAT reading comprehension passages and how they differ from typical newspaper reading, the comprehensive question type techniques covering all six major question types (direct comprehension, inference, assumption, author's tone, conclusion, and specific detail) with specific solution methods for each, the active reading methodology that develops the deep engagement skills that contemporary analytical questions require, and the integrated three-phase preparation methodology that builds reading comprehension capability from foundation through skill development to examination-ready performance.
 
-![UPSC CSAT Reading Comprehension Strategy - Insight Crunch](/assets/images/blog/blog-28.webp)
+![UPSC CSAT Reading Comprehension Strategy - Insight Crunch](/assets/images/blog/blog-08.webp)
 
 As the [complete UPSC guide](/2003/07/24/upsc-civil-services-complete-guide/) explains, the Civil Services Examination is a three-stage process where Prelims serves as the qualifying gate for Mains, and within Prelims, both papers must be cleared independently for qualification with CSAT serving as the binary qualifying filter at 33 percent. The [CSAT Paper 2 complete guide](/2003/02/25/upsc-csat-paper-2-complete-guide/) describes the broader CSAT preparation framework that this reading comprehension specific strategy operates within. The [Prelims complete guide](/2003/04/02/upsc-prelims-complete-guide/) places CSAT within the overall Prelims preparation framework. The [Prelims Polity strategy](/2003/03/20/upsc-prelims-polity-governance-strategy/), the [Prelims History strategy](/2003/03/24/upsc-prelims-history-culture-strategy/), the [Prelims Geography and Environment strategy](/2003/03/15/upsc-prelims-geography-environment-strategy/), the [Prelims Economy strategy](/2003/03/11/upsc-prelims-economy-strategy/), and the [Prelims Science and Technology strategy](/2003/03/06/upsc-prelims-science-technology-strategy/) provide the corresponding GS Paper 1 subject preparation approaches that operate alongside the CSAT preparation that this article addresses. The [current affairs strategy guide](/2003/03/02/upsc-prelims-current-affairs-strategy/) describes the cross-cutting current affairs preparation that supports both reading comprehension skill development and GS Paper 1 content preparation through the daily newspaper reading habit that serves both purposes.
 

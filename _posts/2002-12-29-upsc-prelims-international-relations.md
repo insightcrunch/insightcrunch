@@ -6,7 +6,7 @@ date: 2002-12-29
 categories: ["Industry"]
 tags: ["UPSC", "International Relations", "UPSC Prelims", "UN Organisations", "Multilateral Groups", "Prelims Strategy"]
 excerpt: "Master UPSC Prelims international relations with UN bodies, multilateral organisations, treaties, and India's foreign policy."
-image: "/assets/images/blog/blog-92.webp"
+image: "/assets/images/blog/blog-02.webp"
 reading_time: 59
 author: "kavita-sharma"
 last_updated: 2026-04-13
@@ -18,7 +18,7 @@ International relations and organisations represent a unique segment of UPSC Pre
 
 This article is your comprehensive manual for international relations and organisations as tested in UPSC Prelims. It maps the entire institutional architecture of the United Nations system, covers the major multilateral economic and political groupings, traces India's key bilateral and multilateral engagements, catalogs the international treaties and conventions that UPSC tests, and provides a structured study plan that transforms this seemingly vast subject into a finite, manageable, and high-yield knowledge domain.
 
-![UPSC Prelims International Relations Organisations UN Bodies Strategy - Insight Crunch](/assets/images/blog/blog-92.webp)
+![UPSC Prelims International Relations Organisations UN Bodies Strategy - Insight Crunch](/assets/images/blog/blog-02.webp)
 
 ## Why International Relations and Organisations Matter for Prelims
 

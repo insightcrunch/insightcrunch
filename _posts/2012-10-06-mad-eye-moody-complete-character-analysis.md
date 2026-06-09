@@ -6,7 +6,7 @@ date: 2012-10-06
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Mad-Eye Moody", "Auror", "Order of the Phoenix"]
 excerpt: "Mad-Eye Moody in Harry Potter as a study of survival, paranoia, and isolation: the Auror whose vigilance saved many but cost him every close relationship."
-image: "/assets/images/blog/blog-95.webp"
+image: "/assets/images/blog/blog-64.webp"
 reading_time: 60
 author: "sophia-turner"
 last_updated: 2012-10-06
@@ -16,7 +16,7 @@ lang: en
 
 He filled half of Azkaban. That single line, spoken by Sirius Black in the kitchen at Number Twelve Grimmauld Place, does most of the work the actual character of Alastor Moody is asked to do across four books. The reader meets the legend before meeting the man, and the legend turns out to be most of what the books are willing to give. The real Alastor stays at the bottom of his own enchanted trunk for an entire school year while an impostor wears his face, teaches his classes, and bonds with the boy he was supposed to be protecting. The real Alastor passes through Number Twelve Grimmauld Place as a watcher rather than a participant, watches at meetings rather than speaking, drinks from a flask rather than a shared cup. The real Alastor dies in the third chapter of the seventh book, mid-flight, before he can say much of consequence. What survives is the reputation. The reputation outlives the person, and then the person dies before the reputation can be corrected.
 
-![Mad-Eye Moody character analysis in Harry Potter series](/assets/images/blog/blog-95.webp)
+![Mad-Eye Moody character analysis in Harry Potter series](/assets/images/blog/blog-64.webp)
 
 This is not a craft failure. It is the character. Moody is what happens to a person whose vocation has been suspicion for forty years, the Auror who outlived every colleague who entered the service alongside him, the survivor of a war that killed most of his peers, the veteran whose hyper-vigilance turned out to be empirically justified by a Dark Lord who actually returned. The terrible joke at the centre of this character is that paranoia is supposed to be the failure mode of the unbalanced mind, and Alastor's paranoia turned out to be the most accurate piece of perception in the wizarding world. He was right. About Voldemort, about Barty Crouch Jr, about the slow rot inside the Ministry, about the fact that the first war never really ended and would resume on someone else's chosen timetable. He was right. The reward for being right was that no one could quite stand to be in a room with him without flinching.
 

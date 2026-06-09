@@ -6,7 +6,7 @@ date: 2026-05-31
 categories: ["Leisure"]
 tags: ["dhurandhar", "uri", "aditya-dhar", "movie-comparison", "bollywood", "spy-thriller"]
 excerpt: "Dhurandhar vs Uri compared - how Aditya Dhar evolved from a lean war film to an epic spy saga."
-image: "/assets/images/blog/blog-90.webp"
+image: "/assets/images/blog/blog-19.webp"
 reading_time: 60
 author: "nandini-sen"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ The question that frames this parallel is not which movie is better. It is what 
 
 <!--more-->
 
-![Dhurandhar vs Uri Compared - Insight Crunch](/assets/images/blog/blog-90.webp)
+![Dhurandhar vs Uri Compared - Insight Crunch](/assets/images/blog/blog-19.webp)
 
 Uri is a tightly made, morally clear, emotionally direct picture about a military operation conducted in response to a provocation. It does exactly what it sets out to do with more craft and confidence than most debut feature films achieve. Its famous rallying cry, the "How's the josh?" exchange that became a cultural phenomenon, is the film's thesis in dialogue form: it is about a group of people whose institutional identity gives them access to a kind of elevated collective purpose that makes them effective, and the title presents this identity and this purpose as straightforwardly admirable. The film's moral architecture is clean because the situation it depicts is morally clean: India was attacked at Uri, India struck back with precision and minimal collateral damage, and the operational success is also a moral success. Uri is the kind of nationalist action feature that Indian cinema has made in various forms for decades, but it is made with a cinematographic intelligence and a narrative economy that most of its predecessors do not bring.
 

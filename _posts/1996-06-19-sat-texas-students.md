@@ -6,7 +6,7 @@ date: 1996-06-19
 categories: ["Industry"]
 tags: ["SAT", "Texas", "UT Austin", "College Admissions", "Automatic Admission", "Study Guide"]
 excerpt: "SAT for Texas students: how automatic admission guarantees a spot but not a major, plus university ranges, merit aid and in-state versus out-of-state strategy."
-image: "/assets/images/blog/blog-59.webp"
+image: "/assets/images/blog/blog-58.webp"
 reading_time: 60
 author: "michael-brooks"
 last_updated: 1996-06-19
@@ -14,7 +14,7 @@ lang: en
 ---
 A junior in Plano sits in the top 5 percent of her class, qualifies for automatic admission to the University of Texas at Austin, and decides she can stop studying for the exam. She has heard the rule her whole life: hit the right class rank, get the guaranteed seat, skip the test-prep grind that students in other states sweat over. Then she opens the major application for computer science, reads that the program reviews scores and the rest of the file separately from the class-rank guarantee, and realizes the seat she earned might be a seat in a major she did not want. That gap, between a guaranteed place on campus and a place in the program she actually came for, is the single most expensive misunderstanding a Texan brings to this assessment, and it is the reason this guide exists.
 
-![SAT for Texas students automatic admission major placement and university score targets - Insight Crunch](/assets/images/blog/blog-59.webp)
+![SAT for Texas students automatic admission major placement and university score targets - Insight Crunch](/assets/images/blog/blog-58.webp)
 
 Most pages written for Texans stop at the headline. They tell you the percentage that earns the guarantee, repeat that the state runs a class-rank law, and leave you believing the score conversation ended in your sophomore year. What they skip is the structure underneath: a guarantee that opens the campus gate but not the program gate, a flagship that caps how many guaranteed admits it takes and therefore tightens the rank threshold almost every cycle, a second tier of strong universities with their own ranges and their own rules, and a value calculation that decides whether a resident seat at a public flagship beats a merit offer from a private campus two states away. This article gives you all four. By the end you will be able to read your own rank, your own target program, and your own score against current Texas data and decide exactly how hard the test still matters for you, which for most readers turns out to be a great deal more than the rank rule suggests.
 

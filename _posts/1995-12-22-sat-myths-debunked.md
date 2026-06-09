@@ -6,7 +6,7 @@ date: 1995-12-22
 categories: ["Industry"]
 tags: ["SAT", "Myths", "Test Prep", "Misconceptions", "Strategy", "Study Guide"]
 excerpt: "SAT myths debunked: 20 common beliefs from \"you cannot improve much\" to \"the SAT measures IQ,\" each tested against the evidence with a clear, fair verdict."
-image: "/assets/images/blog/blog-64.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "natalie-webb"
 last_updated: 1995-12-22
@@ -14,7 +14,7 @@ lang: en
 ---
 A student walks into a first tutoring session convinced of three things: that the exam measures something fixed inside her, that she has maybe forty points of movement in her, and that the only way to find those forty points is to pay for a course she cannot afford. By the end of the hour none of those three beliefs survives contact with the evidence. She is not unusual. The folklore around this admissions test is denser than the folklore around almost any other thing a teenager will do before turning eighteen, and most of it is wrong, half-wrong, or true only inside a fence the believer never notices.
 
-![SAT myths debunked with evidence and calibrated verdicts - Insight Crunch](/assets/images/blog/blog-64.webp)
+![SAT myths debunked with evidence and calibrated verdicts - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 This article takes twenty of the beliefs students, parents, and even a few counselors hold about the assessment and tests each one against what the data and the mechanics actually show. The point is not to flatten every claim into a tidy true or false. Some of the beliefs are flat wrong. Some are nuanced, true in one frame and false in another. A few are partly true, right about the conclusion but wrong about the reason, or right for one question type and wrong for the rest. The honest verdict for several of these is "it depends," and where that is the answer this piece says what it depends on rather than pretending to a certainty the evidence does not support. What you get that a quick search will not give you is a calibrated verdict on each belief, the reasoning behind it, and the worked detail that turns a slogan into something you can act on.
 

@@ -6,7 +6,7 @@ date: 1997-01-25
 categories: ["Industry"]
 tags: ["SAT", "SAT Reading", "SAT Writing", "Hard Questions", "Strategy"]
 excerpt: "SAT reading and writing hardest questions catalogued: 15 recurring hard types from near-identical synthesis choices to two-step inferences, each solved fully."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-38.webp"
 reading_time: 59
 author: "samantha-lee"
 last_updated: 1997-01-25
@@ -14,7 +14,7 @@ lang: en
 ---
 A student walks out of the Reading and Writing section convinced that the few items that beat them were unfair, subjective, a matter of opinion that happened to disagree with the answer key. That belief is the single most expensive misconception in the verbal half of this exam, because it tells the student there is nothing to study. There is. Every hard Reading and Writing item resolves to a specific, evidence-bound decision, and the reason it felt subjective is that the student never learned to see the line of text that settles it. The hardest reading and writing questions are not the ones with no right answer. They are the ones with two answers that look right until you find the word, the clause, the data cell, or the logical step that quietly eliminates one of them.
 
-![SAT reading and writing hardest question types worked examples and solving moves - Insight Crunch](/assets/images/blog/blog-14.webp)
+![SAT reading and writing hardest question types worked examples and solving moves - Insight Crunch](/assets/images/blog/blog-38.webp)
 
 This piece is the difficulty index for the verbal section. It catalogs the fifteen recurring hard types that separate a strong score from a top one, solves a full example of each, and reduces each to a transferable move you can rehearse. It is the Reading and Writing companion to the catalog of [the fifteen hardest Math question types and how to solve them](/1997/05/22/sat-math-hardest-question-types/), and it works the same way: name the pattern, watch it solved, keep the move. The promise is narrow and concrete. After this, when two choices both seem defensible, you will have a procedure for finding the one piece of evidence that breaks the tie, rather than guessing and blaming the test.
 

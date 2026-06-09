@@ -6,7 +6,7 @@ date: 2022-01-28
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "timeline", "close-reading", "time-compression", "romeo-and-juliet-how-long"]
 excerpt: "Romeo and Juliet meet, marry, and die inside a single furious week, and the exact hour-by-hour timeline shows how deliberately Shakespeare compressed it."
-image: "/assets/images/blog/blog-62.webp"
+image: "/assets/images/blog/blog-46.webp"
 reading_time: 
 author: "diana-patel"
 last_updated: 2022-01-28
@@ -14,7 +14,7 @@ lang: en
 ---
 A clock is running under this play, and almost nobody who loves it can say what time it is. Ask a room of readers how long the action lasts and the answers scatter across weeks, even months, because the memory keeps the famous scenes and loses the calendar that holds them. The truth is harder and stranger. From the Sunday street fight that opens the action to the deaths in the Capulet vault before dawn, the whole catastrophe burns through in a span you could mark on the back of a hand. The lovers see each other at a feast on a Sunday night, marry on Monday afternoon, lose Tybalt and Romeo's liberty within hours of the wedding, part at the next morning's first light, and lie dead together inside the family tomb four nights after they first spoke. Everything that the wider culture files under eternal romance happens faster than a long weekend.
 
-![Romeo and Juliet five-day timeline reconstruction, Sunday feast to Thursday tomb, hour by hour - Insight Crunch](/assets/images/blog/blog-62.webp)
+![Romeo and Juliet five-day timeline reconstruction, Sunday feast to Thursday tomb, hour by hour - Insight Crunch](/assets/images/blog/blog-46.webp)
 
 That speed is not an accident of plotting and it is not a flaw to be apologized for. It is the engineering. Arthur Brooke, whose 1562 narrative poem stands directly behind the play, lets his Romeus and Juliet love through a leisurely span of roughly nine months, courting across a winter and into spring, so that the lovers in the source have time to be ordinary, to scheme at length, to grow careless through habit. Shakespeare took that loose, slow ribbon of story and pulled it taut until it could barely hold, squeezing the same events into the breathless arc of a single week. The compression is the difference between a sad anecdote and a tragedy that feels like a fall down a stairwell. Recover the timeline and you recover the argument the surface reading buries: that haste, not fate and not even love, is the force that does the killing here, and that the playwright built the clock to prove it. This is what the rest of the analysis sets out to demonstrate against the lines, hour by hour, including the genuine puzzle of whether the count comes to four days or five.
 

@@ -6,7 +6,7 @@ date: 2016-02-29
 categories: ["Leisure"]
 tags: ["resistance", "world-war-2", "partisans", "occupied-europe", "world-history"]
 excerpt: "WWII resistance against Axis occupation built modest direct military results yet substantial political legacy and national memory shaping postwar Europe."
-image: "/assets/images/blog/blog-12.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 83
 author: "amanda-ross"
 last_updated: 2016-02-29
@@ -20,7 +20,7 @@ This article works through the major resistance movements of the war one country
 
 <!--more-->
 
-![Resistance Movements in World War II - Insight Crunch](/assets/images/blog/blog-12.webp)
+![Resistance Movements in World War II - Insight Crunch](/assets/images/blog/blog-31.webp)
 
 A note on what this article is doing. The structure that follows is built around the comparative claim that the resistance experience varied so radically across countries that any single answer to the question "how significant was resistance" is worse than no answer. Yugoslavia is not Norway. Poland is not Denmark. Soviet partisans are not French maquisards. Each major national resistance has to be reconstructed in its specific occupation context, and only after that reconstruction can the cross-country pattern be drawn. Readers who already know the basic chronology can skip ahead to the matrix section, which compresses the comparative record into a single readable map. Readers who want the full reconstruction can move through the country sections in order, then follow the historiographical reassessment, the discussion of collaboration, and the closing analysis of why the political legacy was the part that mattered most.
 

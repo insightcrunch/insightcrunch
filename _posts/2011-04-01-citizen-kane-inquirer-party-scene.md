@@ -6,7 +6,7 @@ date: 2011-04-01
 categories: ["Leisure"]
 tags: ["Citizen Kane", "The Inquirer Party", "Jedediah Leland", "Close Reading", "Cinematography", "Themes"]
 excerpt: "The Citizen Kane party scene reads triumph as a warning: Kane buys the best men, performs for an adoring crowd, and Leland asks the question that dooms him."
-image: "/assets/images/blog/blog-93.webp"
+image: "/assets/images/blog/blog-42.webp"
 reading_time: 61
 author: "diana-patel"
 last_updated: 2011-04-01
@@ -14,7 +14,7 @@ lang: en
 ---
 The Citizen Kane party scene is the film's most charming sequence and its most quietly damning, and the reason it works on both registers at once is the secret to reading the whole film. A man throws a celebration for his own triumph, fills the room with the best newspapermen money can hire, pays a band and a line of dancing girls to honor him, and then climbs into the middle of the crowd to perform. Every guest adores him. Every face turns his way. And while the music plays, two of his oldest associates stand at the edge of the room and ask the only question that matters, the question the rest of the film will spend two hours answering: when a man buys the people around him, who ends up changing whom. The celebration looks like the high point of a rising career. Watched closely, it is the first clear picture of the appetite that will hollow that career out.
 
-![Citizen Kane party scene analysis, the Inquirer celebration staging and Leland's warning - Insight Crunch](/assets/images/blog/blog-93.webp)
+![Citizen Kane party scene analysis, the Inquirer celebration staging and Leland's warning - Insight Crunch](/assets/images/blog/blog-42.webp)
 
 That double vision is what separates a close reading of this sequence from a recap of it. A recap says Kane threw a party because his newspaper beat its rival. A reading notices that the same charm filling the room is already an appetite, that the staging keeps Kane at the literal and figurative center because the film is showing you a man who needs to be the center, and that the celebration is built as a self-portrait Kane is composing in real time, with a hired chorus to sing the caption. This article tracks the sequence beat by beat, reads the staging and the song and the cutting, sets the celebration inside the structure of Bernstein's account, and shows how a single joyful interlude plants a warning the film will collect on for the rest of its running time. By the end you should be able to defend a specific thesis about the sequence, cite the shots that support it, and pre-empt the obvious counter-reading that the celebration is nothing more than youthful high spirits.
 

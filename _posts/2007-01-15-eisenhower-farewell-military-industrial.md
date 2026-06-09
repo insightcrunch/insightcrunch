@@ -6,7 +6,7 @@ date: 2007-01-15
 categories: ["Leisure"]
 tags: ["dwight-eisenhower", "close-read", "us-presidents", "american-history", "military-industrial-complex", "eisenhower-farewell", "malcolm-moos"]
 excerpt: "Eisenhower's 207-word military-industrial complex warning took four years and many drafts to build. Here is the January 1961 passage, read phrase by phrase."
-image: "/assets/images/blog/blog-42.webp"
+image: "/assets/images/blog/blog-91.webp"
 reading_time: 70
 author: "rachel-foster"
 last_updated: 2026-06-02
@@ -14,7 +14,7 @@ lang: en
 ---
 On the evening of January 17, 1961, a five-star general who had commanded the largest amphibious invasion in human history sat before a bank of television cameras in the Oval Office and warned the country he had served for half a century about a danger he had helped create. He was tired. The lights were hot, the teleprompter unfamiliar, and the man reading the words had spent fifty years inside the institution he was about to indict. Three nights later a young senator from Massachusetts would take the oath and the cameras would swing toward youth and vigor and the New Frontier. Almost nobody listening that Tuesday night understood that the old soldier had just delivered the most quoted, most contested, and most prophetic sentence any departing president would speak in the twentieth century. The phrase was "military-industrial complex." It sat near the end of a 207-word passage that had been four years in the making, rewritten across dozens of drafts, argued over by a Johns Hopkins political scientist and the president's own brother, and revised in pencil by the general himself in the final 48 hours. This is that passage, read the way it was written: phrase by phrase, choice by choice, with the drafting record open beside the delivered text.
 
-![Eisenhower military-industrial complex farewell address 1961 phrase by phrase close read - Insight Crunch](/assets/images/blog/blog-42.webp)
+![Eisenhower military-industrial complex farewell address 1961 phrase by phrase close read - Insight Crunch](/assets/images/blog/blog-91.webp)
 
 ## Why a Farewell at All
 

@@ -6,7 +6,7 @@ date: 2013-03-21
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Father Figures", "Albus Dumbledore", "Sirius Black", "Coming of Age"]
 excerpt: "Father figures in Harry Potter, from Dumbledore and Sirius to Lupin, Hagrid, and Snape, each gave Harry a single piece of the fatherhood he built whole."
-image: "/assets/images/blog/blog-14.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 62
 author: "emily-reed"
 last_updated: 2013-03-21
@@ -16,7 +16,7 @@ lang: en
 
 The first father the orphan ever meets is made of light and silence. He stands inside the Mirror of Erised with one hand raised in greeting, mouthing words that never reach the boy who presses his face to the glass, and he is dead. James Potter has been dead for ten years when his son finds him in that abandoned classroom, and the encounter establishes, in a single uncanny image, the central condition of the entire seven-book sequence. The father is present and unreachable. He can be seen but not heard, longed for but not held. A boy can stand in front of him every night until his eyes ache and learn nothing from him at all, because a reflection cannot teach. It can only be wanted.
 
-![Father figures in Harry Potter analyzed across all seven books](/assets/images/blog/blog-14.webp)
+![Father figures in Harry Potter analyzed across all seven books](/assets/images/blog/blog-63.webp)
 
 Out of that founding absence the series builds something stranger and more interesting than a story about a boy missing his dad. It builds a curriculum. The protagonist's genuine education does not happen in Transfiguration or Potions or even in Defence Against the Dark Arts, though the most important of his teachers will turn out to be father-shaped. It happens in the long, unsystematic apprenticeship he serves under a succession of older men, each of whom carries one fragment of fatherhood and none of whom carries the whole. The headmaster offers vision and withholds tenderness. The godfather offers devotion and cannot see the actual child in front of him. The werewolf offers gentleness and nearly abandons his own son. The Ministry clerk offers warmth and has no attention to spare. The half-giant offers unconditional love and cannot offer structure. The Potions master offers protection disguised as contempt and is recognised only after he is dead. The argument the books make, slowly and without ever stating it outright, is that the absent father is the absent centre of a boy's psychology, and that the child who must survive without one ends by understanding fatherhood more precisely than the children who simply inherited theirs. He has had to build his from spare parts. He knows what each piece is for.
 

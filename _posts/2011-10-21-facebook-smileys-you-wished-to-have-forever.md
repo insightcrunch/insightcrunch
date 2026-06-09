@@ -5,7 +5,7 @@ date: 2011-10-21
 categories: ["Leisure"]
 tags: ["Surfing"]
 excerpt: "Emoticons and smileys are the key essence to online chatting and communication. It lets us express ourselves a lot better with them. Facebook till now..."
-image: "/assets/images/blog/blog-05.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 1
 author: "amanda-ross"
 last_updated: 2026-04-01
@@ -15,5 +15,5 @@ Emoticons and smileys are the key essence to online chatting and communication. 
 
 Read more: [Dropbox vs Google Drive »](https://insightcrunch.com/2012/05/13/dropbox-vs-google-drive-the-war-begins/)
 
-![Popular Emojis and Emoticons for Social Media](/assets/images/blog/blog-05.webp)
+![Popular Emojis and Emoticons for Social Media](/assets/images/blog/blog-89.webp)
 Popular Emojis and Emoticons for Social Media

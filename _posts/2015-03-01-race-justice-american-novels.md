@@ -5,7 +5,7 @@ date: 2015-03-01
 last_updated: 2015-03-01
 slug: "race-justice-american-novels"
 excerpt: "American fiction's greatest race novels work through six structural strategies. The question is not whether they address race but how they make it visible."
-image: "/assets/images/blog/blog-89.webp"
+image: "/assets/images/blog/blog-09.webp"
 categories: ["Leisure"]
 tags: ["race", "justice", "american-literature", "literary-comparison", "classic-literature", "literary-analysis"]
 reading_time: 70
@@ -16,7 +16,7 @@ Classic American novels on race and justice operate through six distinct structu
 
 <!--more-->
 
-![Race and Justice in Classic American Novels - Insight Crunch](/assets/images/blog/blog-89.webp)
+![Race and Justice in Classic American Novels - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The standard treatment of race in American literature proceeds by cataloguing novels that "address" or "explore" the theme of racial injustice. SparkNotes lists it as a theme. LitCharts color-codes it. Generic literature blogs compile ranked lists of "novels about race." The approach treats race as a subject that some novels include and others do not, as though race were a decorative element that could be added or removed without altering the novel's fundamental operations. This approach misses what is most important about how American fiction handles race: the specific structural strategies through which different novelists, writing from different positions and in different historical moments, make race visible to their readers. The strategies differ because the positions differ, and the differences carry analytical content that the theme-catalog approach erases.
 

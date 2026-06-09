@@ -6,7 +6,7 @@ date: 2019-01-28
 categories: ["Industry"]
 tags: ["cia", "bin-laden", "abbottabad", "hunt", "intelligence", "seal-team-six"]
 excerpt: "The CIA's decade-long hunt for Osama bin Laden, from the escape at Tora Bora through the Abbottabad raid, and what it revealed about intelligence work."
-image: "/assets/images/blog/blog-18.webp"
+image: "/assets/images/blog/blog-67.webp"
 reading_time: 70
 author: "william-knight"
 last_updated: 2019-01-28
@@ -16,7 +16,7 @@ For months in the winter of 2010 and the spring of 2011, a small group of analys
 
 <!--more-->
 
-![CIA Bin Laden Hunt to Abbottabad - Insight Crunch](/assets/images/blog/blog-18.webp)
+![CIA Bin Laden Hunt to Abbottabad - Insight Crunch](/assets/images/blog/blog-67.webp)
 
 That uncertainty is the real subject of this account, because the operation that ended on the night of May 2, 2011, was not a story of perfect knowledge acting decisively. It was a story of imperfect knowledge forced to a decision by the weight of a decade of failure. The Central Intelligence Agency had been hunting Osama bin Laden since before the attacks of September 11, 2001, and had lost him at least once when it had him nearly cornered. The trail that finally reached Abbottabad ran through interrogation rooms, telephone intercepts, a single nickname repeated by detainees, a white sport utility vehicle followed across Pakistani roads, and a piece of suburban real estate that did not behave the way ordinary houses behave. The raid itself lasted under forty minutes. The hunt that made the raid possible lasted nearly ten years.
 

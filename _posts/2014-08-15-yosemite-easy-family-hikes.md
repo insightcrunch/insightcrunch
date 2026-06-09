@@ -6,7 +6,7 @@ date: 2014-08-15
 categories: ["Travel"]
 tags: ["USA Travel", "Yosemite", "Hiking", "Family Travel", "National Parks", "Outdoors"]
 excerpt: "Easy Yosemite hikes graded for families by distance, surface, and stroller fit, with honest cutoffs so young kids finish the walk and skip the meltdown."
-image: "/assets/images/blog/blog-76.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 68
 author: "nandini-sen"
 last_updated: 2014-08-15
@@ -16,7 +16,7 @@ The question that decides a family day in Yosemite is not which trail is the mos
 
 This guide grades the gentle and moderate options the way a parent needs them graded: by distance, by surface underfoot, by how much a stroller can take, and by the honest age at which a child can carry their own legs the whole way. It is a matching tool, not a top-ten list, because the right family walk depends entirely on who is in your group and how much daylight and patience you have left.
 
-![Easy and family-grade hikes in Yosemite, a trail-matching guide - Insight Crunch](/assets/images/blog/blog-76.webp)
+![Easy and family-grade hikes in Yosemite, a trail-matching guide - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 The park rewards families who plan around their weakest hiker rather than their strongest. Pick the walk your youngest can finish with energy to spare, and the whole day stays cheerful. Overreach by a single trail and you spend the afternoon negotiating instead of exploring. Everything below is organized to help you make that call before you leave the car, so the trail you choose is the trail that fits.
 

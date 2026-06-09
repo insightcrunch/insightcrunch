@@ -6,7 +6,7 @@ date: 2026-06-17
 categories: ["Leisure"]
 tags: ["dhurandhar", "franchise-guide", "bollywood", "complete-guide", "ranveer-singh", "aditya-dhar"]
 excerpt: "The ultimate guide to the Dhurandhar franchise - both films, every character, the timeline, and what comes next."
-image: "/assets/images/blog/blog-19.webp"
+image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ The Dhurandhar franchise is the most analytically complex and commercially signi
 
 <!--more-->
 
-![Dhurandhar Franchise Complete Guide - Insight Crunch](/assets/images/blog/blog-19.webp)
+![Dhurandhar Franchise Complete Guide - Insight Crunch](/assets/images/blog/blog-33.webp)
 
 The guide covers the franchise in seven sections: the franchise overview and creative context, both films addressed separately in the detail they require, the complete character guide, the operational timeline, the franchise's key themes and what they mean, the commercial record, and what comes next. Each section is designed to be used independently as a reference as well as read sequentially as a comprehensive account. The complete franchise record, including day-wise and week-wise box office data, is available through [the Bollywood Box Office Explorer](https://reportmedic.org/tools/bollywood-box-office-explorer.html).
 

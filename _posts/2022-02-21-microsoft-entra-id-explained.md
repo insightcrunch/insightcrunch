@@ -6,7 +6,7 @@ date: 2022-02-21
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Entra ID", "Identity", "Security", "Cloud Computing"]
 excerpt: "Microsoft Entra ID explained: the tenant, identities, app registrations, tokens, and the two-plane rule that separates identity from Azure resource access."
-image: "/assets/images/blog/blog-46.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 59
 author: "william-knight"
 last_updated: 2022-02-21
@@ -14,7 +14,7 @@ lang: en
 ---
 Most access problems in Azure trace back to one confusion, and Microsoft Entra ID sits at the center of it. An engineer assigns someone the Global Administrator role and is baffled when that person still gets a 403 trying to read a storage blob. A developer registers an application, gets a token, and cannot understand why the API keeps rejecting it. A team treats their cloud directory like the on-premises Active Directory they have run for a decade, then discovers that none of the muscle memory transfers. Each of these is the same mistake wearing a different costume: treating identity and resource access as one thing when Azure splits them into two distinct planes. This guide builds the mental model that dissolves the confusion, so you can reason about how an application obtains a token and what a role assignment actually grants instead of guessing.
 
-![Microsoft Entra ID identity and access model explained - Insight Crunch](/assets/images/blog/blog-46.webp)
+![Microsoft Entra ID identity and access model explained - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 The product carried the name Azure Active Directory for years, and Microsoft renamed it to Microsoft Entra ID in 2023. The older name appears throughout existing documentation, blog posts, portal screenshots, and the error codes you will still hit, so it helps to acknowledge it once: Azure AD and Entra ID are the same identity service. From here on this guide uses Entra ID, because the name itself encodes the most important lesson. It is not a cloud-hosted copy of Active Directory. It is an identity and access management platform built for the cloud, for web and mobile applications, and for the protocols those applications speak. Understanding why the rename matters is the first step toward understanding the service.
 

@@ -6,7 +6,7 @@ date: 2013-07-27
 categories: ["Industry"]
 tags: ["harvinder-singh-rinda", "khalistan", "sidhu-moose-wala", "lahore", "targeted-killing"]
 excerpt: "Profile of Harvinder Singh Rinda, the Khalistani terrorist linked to Sidhu Moose Wala's murder case, who died in a Lahore military hospital suspiciously."
-image: "/assets/images/blog/blog-91.webp"
+image: "/assets/images/blog/blog-50.webp"
 reading_time: 72
 author: "william-knight"
 last_updated: 2026-05-21
@@ -16,7 +16,7 @@ Harvinder Singh Sandhu, known across Punjab's criminal and separatist underworld
 
 <!--more-->
 
-![Harvinder Singh Rinda Khalistan Profile - Insight Crunch](/assets/images/blog/blog-91.webp)
+![Harvinder Singh Rinda Khalistan Profile - Insight Crunch](/assets/images/blog/blog-50.webp)
 
 Rinda's significance to India's [shadow war](https://insightcrunch.com/2013/01/01/shadow-war-india-pakistan-explained/) extends far beyond any single criminal act. His career traced a pathway that security agencies across South Asia increasingly recognize as a defining threat: the gangster-to-terrorist conversion pipeline that fuses Punjab's organized crime networks with Pakistan-based Khalistan separatist groups. Beginning as a teenage killer in Tarn Taran, graduating to contract murders and extortion rackets in Maharashtra's Nanded, acquiring connections to Canada-based gangster syndicates, and ultimately fleeing to Pakistan on a forged passport to become the operational bridge between Babbar Khalsa International and the Lawrence Bishnoi crime empire, Rinda embodied a hybrid category that defies conventional classification. He was not purely a gangster. He was not purely a terrorist. He was the junction point where those two worlds merged, and his death in a Lahore hospital stripped that junction point from the network at a moment when its operational reach had extended to rocket-propelled grenades fired at state security installations.
 

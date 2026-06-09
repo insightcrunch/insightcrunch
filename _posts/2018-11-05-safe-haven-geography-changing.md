@@ -6,7 +6,7 @@ date: 2018-11-05
 categories: ["Industry"]
 tags: ["safe-haven", "geography", "changing", "pakistan", "shadow-war", "future"]
 excerpt: "How the shadow war is shrinking the geographic safety net for wanted terrorists across Pakistan, city by city, from Karachi to Lahore to Rawalpindi and PoK."
-image: "/assets/images/blog/blog-87.webp"
+image: "/assets/images/blog/blog-31.webp"
 reading_time: 70
 author: "james-carter"
 last_updated: 2018-11-05
@@ -16,7 +16,7 @@ In 2021, a man wanted by India for mass murder could choose almost any address i
 
 <!--more-->
 
-![Map of Pakistan showing how the geography of terror safe havens has contracted under the shadow war](/assets/images/blog/blog-87.webp)
+![Map of Pakistan showing how the geography of terror safe havens has contracted under the shadow war](/assets/images/blog/blog-31.webp)
 
 That map no longer offers what it once did. Over roughly five years, a campaign of targeted eliminations has moved across the Pakistani landscape with a logic that becomes visible only when the individual killings are plotted geographically rather than chronologically. The first strikes clustered in places where a foreign hand was easy to imagine: chaotic Karachi, where a body in a working-class lane attracts little official curiosity, and the border districts where smuggling and infiltration already blur the line between civilian and combatant. Then the campaign reached inward. It touched Sialkot, where a figure linked to the Pathankot airbase attack was shot dead inside a mosque. It reached Rawalpindi, the city the Pakistan Army controls more tightly than any other. It crossed the Line of Control into Pakistan-Occupied Kashmir. By 2026 it had penetrated Lahore, the cultural capital and the home of the country's most carefully protected militant leadership. The geographic safety net was not removed in a single act. It was shredded, one city at a time, until the wanted men of Pakistan could no longer point to a single province and call it secure.
 

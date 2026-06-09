@@ -6,7 +6,7 @@ date: 2022-09-26
 categories: ["Technology"]
 tags: ["Azure", "Microsoft Entra ID", "AADSTS700016", "Troubleshooting", "Identity", "Security", "Cloud Computing"]
 excerpt: "AADSTS700016 means Entra cannot find your app by its client ID. Diagnose a wrong ID, wrong tenant, or a missing service principal and fix the real cause."
-image: "/assets/images/blog/blog-68.webp"
+image: "/assets/images/blog/blog-57.webp"
 reading_time: 60
 author: "ryan-walsh"
 last_updated: 2022-09-26
@@ -14,7 +14,7 @@ lang: en
 ---
 AADSTS700016 is the error Microsoft Entra ID returns when the application identified by the client ID in your sign-in or token request was not found in the directory the request was sent to. The full message usually reads something close to "Application with identifier 'GUID' was not found in the directory 'tenant'," and it stops authentication before any password, secret, or consent ever comes into play. The error is not about a wrong password, a missing permission, or an expired certificate. It is about identity resolution: Entra looked for an application registered under that client ID in the tenant your request named, and the lookup came back empty.
 
-![Fix AADSTS700016 application not found in the directory root causes - Insight Crunch](/assets/images/blog/blog-68.webp)
+![Fix AADSTS700016 application not found in the directory root causes - Insight Crunch](/assets/images/blog/blog-57.webp)
 
 That single fact is what makes AADSTS700016 both easy to misread and easy to fix once you read it correctly. The reflex when an app stops authenticating is to assume the registration is broken and to recreate it, generate a fresh client secret, or rebuild the whole app from scratch. That reflex is almost always wrong here, and it costs hours. The application is usually fine. What is wrong is that the client ID and the tenant the request is aimed at no longer agree, or a multitenant application was never provisioned into the tenant that is trying to use it, or the request is hitting an authority that points at the wrong directory entirely. This article walks through every distinct cause, the exact lookup that confirms which one is yours, and the fix for each, so you stop guessing and start resolving the identity the way Entra does.
 

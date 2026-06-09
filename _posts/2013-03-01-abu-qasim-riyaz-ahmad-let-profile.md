@@ -6,7 +6,7 @@ date: 2013-03-01
 categories: ["Industry"]
 tags: ["abu-qasim", "riyaz-ahmad", "lashkar-e-taiba", "dhangri-attack", "pok", "targeted-killing"]
 excerpt: "Abu Qasim was the senior Lashkar-e-Taiba commander and alleged Dhangri massacre mastermind, shot at point-blank range inside al-Qudus mosque in Rawalakot."
-image: "/assets/images/blog/blog-49.webp"
+image: "/assets/images/blog/blog-93.webp"
 reading_time: 70
 author: "ian-fletcher"
 last_updated: 2026-05-05
@@ -16,7 +16,7 @@ On a September evening in Rawalakot, Pakistan-Occupied Kashmir, Riyaz Ahmad knel
 
 <!--more-->
 
-![Abu Qasim Riyaz Ahmad Profile - Insight Crunch](/assets/images/blog/blog-49.webp)
+![Abu Qasim Riyaz Ahmad Profile - Insight Crunch](/assets/images/blog/blog-93.webp)
 
 Abu Qasim's killing is the single most operationally precise elimination documented in India's [shadow war against terror](https://insightcrunch.com/2012/12/16/india-shadow-war-against-terror-explained/). The attackers knew which mosque he attended, which prayer time brought him reliably to that location, and where he positioned himself within the congregation. They entered during prayers and shot him in the head at point-blank range. The precision required to execute this operation inside Pakistan-Occupied Kashmir, where the Pakistan Army maintains a dense security presence and outsiders are immediately conspicuous, reveals a depth of surveillance capability that goes beyond anything demonstrated in the Karachi or Lahore eliminations. Karachi offers urban anonymity; Lahore offers crowd cover. Rawalakot, a town of perhaps 50,000 people nestled in the hills less than thirty kilometers from the Line of Control, offers neither. Operating here required either deeply embedded local assets or an infiltration and exfiltration capability sophisticated enough to function in territory controlled by the Pakistan Army's 23rd Division.
 

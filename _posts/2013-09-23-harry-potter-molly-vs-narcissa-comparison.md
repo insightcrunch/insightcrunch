@@ -6,7 +6,7 @@ date: 2013-09-23
 categories: ["Leisure"]
 tags: ["Thoughts", "Harry Potter", "JK Rowling", "Fantasy Literature", "Character Analysis", "Hogwarts", "Book Analysis", "Literary Analysis", "Molly Weasley", "Narcissa Malfoy", "Character Comparison"]
 excerpt: "Molly Weasley vs Narcissa Malfoy in Harry Potter compared across combat, deception, class, and the feminist question of whether motherhood is power or cage."
-image: "/assets/images/blog/blog-26.webp"
+image: "/assets/images/blog/blog-65.webp"
 reading_time: 43
 author: "victoria-stone"
 last_updated: 2013-09-23
@@ -16,7 +16,7 @@ lang: en
 
 The Dark Lord lost twice on the same day, and a mother won each time. One won with a curse spoken in fury across the wreckage of a Great Hall. The other won with three quiet words breathed into the dirt of a forest floor, a lie offered to the most dangerous wizard alive while she knelt over a body she believed might be dead. Neither woman held office. Neither commanded an army. Neither had been chosen by a prophecy or trained by a secret order to deliver the decisive stroke. They were, in the bureaucratic vocabulary of the war, civilians. And the war turned on each of them.
 
-![Molly Weasley vs Narcissa Malfoy comparison in Harry Potter](/assets/images/blog/blog-26.webp)
+![Molly Weasley vs Narcissa Malfoy comparison in Harry Potter](/assets/images/blog/blog-65.webp)
 
 The question this comparison answers is not which woman loved her child more, nor which acted more bravely, nor even which stood on the right side. The question is harder and more uncomfortable. Rowling has built a magical universe in which maternal love is the single most reliable force capable of defeating the most powerful wizard in history. Lily Potter establishes the principle in the first book by dying. Molly Weasley and Narcissa Malfoy confirm it in the last by killing and by lying. If this is the deepest law of the wizarding world, then we have to ask what kind of law it is. Is a cosmos in which mothers are the only ones who can stop the tyrant a feminist triumph, granting women the war's most consequential agency? Or is it a cage, a system in which a woman's most powerful public act becomes available to her only when her child's body is on the line?
 

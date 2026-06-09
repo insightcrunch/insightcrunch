@@ -6,7 +6,7 @@ date: 2022-07-22
 categories: ["Leisure"]
 tags: ["romeo-and-juliet", "shakespeare", "close-reading", "juliet", "soliloquy", "potion-soliloquy-analysis"]
 excerpt: "Juliet's potion soliloquy turns a brave choice into raw terror, as she imagines waking among corpses in the vault before she drinks the Friar's draught."
-image: "/assets/images/blog/blog-31.webp"
+image: "/assets/images/blog/blog-75.webp"
 reading_time: 70
 author: "diana-patel"
 last_updated: 2022-07-22
@@ -14,7 +14,7 @@ lang: en
 ---
 A girl of thirteen stands alone in her bedroom at night, holding a vial of something that will stop her heart for hours and counterfeit her death. She has dismissed her mother. She has sent away the woman who nursed her and raised her. She has a wedding she does not want set for the morning and a husband she has already married in secret who is now a banished killer in another city. And before she drinks, she talks. For roughly forty lines she runs through every catastrophe the drug might bring, naming each one, weighing it, picturing it in detail so vivid that the audience watches a brave young woman frighten herself half to madness, and then drink anyway.
 
-![Juliet's Potion Soliloquy: Fear in the Dark - Insight Crunch](/assets/images/blog/blog-31.webp)
+![Juliet's Potion Soliloquy: Fear in the Dark - Insight Crunch](/assets/images/blog/blog-75.webp)
 
 This is the potion soliloquy, Act 4, Scene 3 of Shakespeare's tragedy, and it is the play's single greatest study of fear. The standard account of Juliet either skips this speech or treats it as a hysterical interlude before the plot moves on, a moment of girlish panic that the audience endures on the way to the tomb. That account gets the scene exactly backward. The soliloquy does not prove Juliet weak. It proves her brave in the only way courage can ever be proved, which is under terror rather than in its absence. A person who feels nothing and acts has risked nothing. Juliet feels everything the situation contains, follows each horror to its end, and acts in the teeth of it. The speech is the climax of her agency, not a lapse from it.
 

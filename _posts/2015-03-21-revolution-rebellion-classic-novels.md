@@ -6,7 +6,7 @@ date: 2015-03-21
 categories: ["Leisure"]
 tags: ["revolution", "rebellion", "literary-comparison", "animal-farm", "1984", "fahrenheit-451", "literary-analysis"]
 excerpt: "Classic novels about revolution propose specific theories about why rebellions succeed, fail, or devour themselves. The theories differ, and they matter."
-image: "/assets/images/blog/blog-24.webp"
+image: "/assets/images/blog/blog-48.webp"
 reading_time: 70
 author: "elena-wright"
 last_updated: 2015-03-21
@@ -16,7 +16,7 @@ Classic novels about revolution are not simply dramatic stories about civic uphe
 
 <!--more-->
 
-![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-24.webp)
+![Revolution and Rebellion in Classic Novels - Insight Crunch](/assets/images/blog/blog-48.webp)
 
 The conventional approach to revolution in literature treats it as a theme, something novels share in the way they share love or death or coming of age. SparkNotes and similar platforms catalog revolutionary moments across texts without interrogating the theoretical differences between them. Animal Farm gets filed alongside A Tale of Two Cities under "revolution," as though Orwell and Dickens were saying the same thing with different characters. They were not. Orwell was theorizing vanguardist betrayal through the specific lens of Stalinist corruption, drawing on his experience in the Spanish Civil War and his analysis of Soviet institutional decay. Dickens was theorizing revolutionary violence as intergenerational trauma, filtered through a Victorian-Christian framework that understood history as cyclical suffering breakable only through sacrificial love. These are fundamentally different intellectual projects, and treating them as variations on a shared theme flattens precisely the content that makes each novel worth reading.
 

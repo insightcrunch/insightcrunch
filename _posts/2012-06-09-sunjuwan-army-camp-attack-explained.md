@@ -6,7 +6,7 @@ date: 2012-06-09
 categories: ["Industry"]
 tags: ["sunjuwan", "army-camp", "lashkar-e-taiba", "khwaja-shahid", "terrorism", "kashmir"]
 excerpt: "The February 2018 Sunjuwan Army camp attack that killed seven people, how the LeT breached the family quarters, and the mastermind found beheaded in PoK."
-image: "/assets/images/blog/blog-81.webp"
+image: "/assets/images/blog/blog-30.webp"
 reading_time: 78
 author: "ryan-walsh"
 last_updated: 2026-05-13
@@ -16,7 +16,7 @@ The fence at Sunjuwan was breached in the dark, and the people who breached it d
 
 <!--more-->
 
-![Sunjuwan Army Camp Attack 2018 Reconstruction - Insight Crunch](/assets/images/blog/blog-81.webp)
+![Sunjuwan Army Camp Attack 2018 Reconstruction - Insight Crunch](/assets/images/blog/blog-30.webp)
 
 The Sunjuwan attack matters for reasons that exceed its casualty count. Sunjuwan was the first major fidayeen breach of an Indian Army installation after the Uri attack of September 2016 and the surgical strikes that followed it, a sequence that India had publicly framed as the moment doctrine changed. Eighteen months later, four LeT cadres in Pakistan Army-issue combat fatigues climbed a perimeter fence on the outskirts of Jammu and demonstrated that the doctrinal change had not closed the operational window. They demonstrated more than that. By turning toward the family quarters rather than the operational core of the camp, they signalled that the rules of who counts as a target had been rewritten. A four-year-old becomes a target when the goal is not to disable a military function but to inflict pain that political leadership cannot ignore. The attack was a message addressed to the Indian state through its soldiers' children. The Indian state heard the message, and the long, quiet response that followed produced Khwaja Shahid's body in a culvert.
 

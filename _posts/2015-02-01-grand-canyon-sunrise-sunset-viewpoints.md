@@ -6,7 +6,7 @@ date: 2015-02-01
 categories: ["Travel"]
 tags: ["USA Travel", "Grand Canyon", "National Parks", "Photography", "Outdoors"]
 excerpt: "Grand Canyon sunrise and sunset viewpoints matched to the direction each overlook faces, so you stand in the right place at the right hour for the light."
-image: "/assets/images/blog/blog-60.webp"
+image: "/assets/images/blog/blog-59.webp"
 reading_time: 68
 author: "rahul-banerjee"
 last_updated: 2015-02-01
@@ -14,7 +14,7 @@ lang: en
 ---
 Almost everyone who plans a Grand Canyon trip asks the same two questions in the wrong order. They ask which overlook is the prettiest, then they show up whenever the day allows and hope the light cooperates. The travelers who walk away with the canyon burned into memory do it the other way around. They decide what hour they want to be on the rim, then they choose the overlook that faces the right direction for that hour. That single reversal is what this guide is built around, because the best of the Grand Canyon sunrise and sunset viewpoints are not the famous ones or the easy ones. They are the ones that happen to face the sun when the sun is doing its best work, and knowing which way each overlook points turns a gamble into a plan.
 
-![Grand Canyon sunrise and sunset viewpoints, a where-to-stand and when guide for the South Rim - Insight Crunch](/assets/images/blog/blog-60.webp)
+![Grand Canyon sunrise and sunset viewpoints, a where-to-stand and when guide for the South Rim - Insight Crunch](/assets/images/blog/blog-59.webp)
 
 The canyon runs roughly east to west, and the South Rim overlooks all face north across the gorge toward the far wall and the buttes that rise from the inner canyon. That orientation is the whole game. Because the rim faces north, the sun never rises or sets directly in front of you the way it does over an ocean horizon. Instead it swings up from your right side at dawn and drops away to your left at dusk, raking sideways across the cliffs and temples and throwing the long shadows that give the canyon its depth. A flat front-lit canyon at midday looks like a postcard with the contrast turned off. The same view at the low sun hours, lit from the side, separates every ridge and side canyon into its own plane, and the red rock saturates into the color people think they imagined afterward. The light, not the location, is the attraction, and the location is simply how you catch the light.
 

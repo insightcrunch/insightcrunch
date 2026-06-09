@@ -6,7 +6,7 @@ date: 1996-04-12
 categories: ["Industry"]
 tags: ["SAT", "International", "Canada", "Cross-Border", "College Admissions", "Study Guide"]
 excerpt: "SAT guide for Canadian students: who benefits, testing access, how Canadian admissions differ and the cross-border application strategy, with clear guidance."
-image: "/assets/images/blog/blog-70.webp"
+image: "/assets/images/blog/blog-39.webp"
 reading_time: 60
 author: "samantha-lee"
 last_updated: 1996-04-12
@@ -14,7 +14,7 @@ lang: en
 ---
 A Grade 11 student in Mississauga emails her counselor in a panic because a friend told her that every serious university applicant writes the SAT, and she has not registered. She is applying to McMaster, Western, and Queen's, with one reach south of the border at the University of Michigan. The honest answer her counselor gives saves her four months of preparation she does not need: for the three Ontario schools on her list, the College Board exam earns her nothing, because those programs admit on her Grade 12 marks. For Michigan, the picture is different, and there the test can matter. The mistake she nearly made is the single most expensive misconception a student north of the border carries into the admissions cycle, and it costs the people who fall for it whole semesters of misdirected effort.
 
-![SAT guide for Canadian students cross-border application strategy and testing access - Insight Crunch](/assets/images/blog/blog-70.webp)
+![SAT guide for Canadian students cross-border application strategy and testing access - Insight Crunch](/assets/images/blog/blog-39.webp)
 
 This guide answers the question that thin pages mangle: when does a Canadian applicant actually need the SAT, and when is sitting it a waste of a Saturday. The short version is that domestic admission in Canada runs on your provincial academic record rather than a national entrance exam, so the test is primarily an instrument for United States applications. The longer version, the one that lets you build a real plan, depends on the geography of your application list, the specific programs you are targeting, and whether you are running two admissions systems at once. By the end you will be able to place yourself in one of three clear lanes, decide whether to register, and lay your testing dates against two sets of deadlines without either one tripping the other.
 

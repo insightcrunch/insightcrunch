@@ -6,7 +6,7 @@ date: 2018-07-05
 categories: ["Leisure"]
 tags: ["feluda", "satyajit-ray", "bengali-literature", "detective-fiction"]
 excerpt: "ফেলুদা কীভাবে বাঙালি পরিচয়ের একটি আয়না হিসেবে কাজ করেন এবং তাঁর বাঙালিয়ানা কী প্রকাশ করে"
-image: "/assets/images/blog/blog-38.webp"
+image: "/assets/images/blog/blog-22.webp"
 reading_time: 142
 author: "rahul-banerjee"
 last_updated: 2026-04-01
@@ -16,7 +16,7 @@ lang: bn
 
 <!--more-->
 
-![ফেলুদা ও বাঙালি পরিচয় - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-38.webp)
+![ফেলুদা ও বাঙালি পরিচয় - ইনসাইট ক্রাঞ্চ](/assets/images/blog/blog-22.webp)
 
 ## বাঙালি পরিচয়ের ইতিহাস: একটি সংক্ষিপ্ত রূপরেখা
 
