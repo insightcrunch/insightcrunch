@@ -9,7 +9,7 @@ excerpt: "SAT study groups explained: the optimal size and composition, the teac
 image: "/assets/images/blog/blog-05.webp"
 reading_time: 60
 author: "christopher-wells"
-last_updated: 1995-12-26
+last_updated: 2026-06-09
 lang: en
 ---
 Two groups of four students each sit down to prep for the same test date. The first opens a shared doc, picks a topic, and spends ninety minutes with one person talking through linear equation word problems while the others half-listen and check their phones. The second runs a timer: fifteen minutes reviewing the problems everyone missed on last week's practice set, twenty minutes where one member teaches quadratics to the table and fields questions, thirty minutes of timed problems solved independently and then compared, and ten minutes assigning the next block of work. After six weeks the first group has met nine times and improved almost nothing. The second has met the same nine times and every member has gained between forty and ninety points. Same hours, same starting scores, wildly different results, and the only variable that changed was the structure.

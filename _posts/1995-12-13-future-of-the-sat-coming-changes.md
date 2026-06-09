@@ -9,7 +9,7 @@ excerpt: "The future of the SAT: the test-optional pendulum, further digitizatio
 image: "/assets/images/blog/blog-01.webp"
 reading_time: 60
 author: "simon-hartley"
-last_updated: 1995-12-13
+last_updated: 2026-06-09
 lang: en
 ---
 Ask ten people about the future of the SAT and you will get ten confident answers, most of them wrong, and almost all of them stated with a certainty the evidence does not support. One person tells you the exam is already dead, killed by the test-optional wave. Another tells you it is roaring back, mandatory again at every selective school by next admissions cycle. A third insists artificial intelligence will replace the whole apparatus inside five years. These are not forecasts. They are moods dressed up as predictions, and a student or parent trying to make a real decision, whether to register, whether to prepare, whether to submit a score, cannot plan a single afternoon around any of them.

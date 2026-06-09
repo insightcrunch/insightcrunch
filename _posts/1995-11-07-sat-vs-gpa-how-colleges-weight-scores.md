@@ -9,7 +9,7 @@ excerpt: "SAT vs GPA explained: why GPA usually weighs more, when a strong SAT t
 image: "/assets/images/blog/blog-59.webp"
 reading_time: 59
 author: "hannah-moore"
-last_updated: 1995-11-07
+last_updated: 2026-06-09
 lang: en
 ---
 Two numbers sit at the top of almost every application file, and most students rank them in the wrong order. They walk into junior year believing the test result is the headline and the transcript is the supporting cast, that one strong Saturday morning can rewrite three and a half years of report cards. That belief shapes how they spend their hours, and it usually costs them. The grade point average, the slow accumulation of every quarter and every course, is the figure an admissions reader trusts first, because it answers a question a single sitting never can: what does this person do, week after week, when no proctor is watching and the stakes are quiet.

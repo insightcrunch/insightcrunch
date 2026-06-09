@@ -9,7 +9,7 @@ excerpt: "SAT and equity: the fairness debate presented even-handedly, the score
 image: "/assets/images/blog/blog-66.webp"
 reading_time: 59
 author: "michael-brooks"
-last_updated: 1995-11-29
+last_updated: 2026-06-09
 lang: en
 ---
 Ask whether the SAT is fair and you will get a fight, not an answer. One side treats the exam as a meritocratic equalizer that lets a brilliant student from a struggling school be seen by an admissions office that would otherwise never look. The other treats it as a polished proxy for family income, a number that mostly tells a college how much money and how many advantages a household already had. Both camps cite real data. Both can point to students whose lives the verdict touched. And most readers who land on a page like this one want the argument settled in a paragraph, ideally in their own favor.

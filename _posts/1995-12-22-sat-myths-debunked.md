@@ -9,7 +9,7 @@ excerpt: "SAT myths debunked: 20 common beliefs from \"you cannot improve much\"
 image: "/assets/images/blog/blog-33.webp"
 reading_time: 60
 author: "natalie-webb"
-last_updated: 1995-12-22
+last_updated: 2026-06-09
 lang: en
 ---
 A student walks into a first tutoring session convinced of three things: that the exam measures something fixed inside her, that she has maybe forty points of movement in her, and that the only way to find those forty points is to pay for a course she cannot afford. By the end of the hour none of those three beliefs survives contact with the evidence. She is not unusual. The folklore around this admissions test is denser than the folklore around almost any other thing a teenager will do before turning eighteen, and most of it is wrong, half-wrong, or true only inside a fence the believer never notices.

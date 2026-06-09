@@ -9,7 +9,7 @@ excerpt: "SAT and extracurriculars: balancing prep against activities, when to s
 image: "/assets/images/blog/blog-67.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1995-11-02
+last_updated: 2026-06-09
 lang: en
 ---
 There is a moment in almost every motivated student's application year when one more hour of SAT prep becomes the worst possible use of that hour. A junior sitting at 1480 decides to grind toward 1540, books another six weeks of timed sections, and in the same six weeks lets the robotics club presidency slip to someone else, skips the regional science fair deadline, and turns in a personal essay drafted in a single tired evening. The 60 points may or may not arrive. The presidency, the fair, and the essay do not come back. That trade is the single most common strategic error strong applicants make, and it is invisible while it is happening, because studying always feels productive. This article is about seeing the trade before you make it.

@@ -9,7 +9,7 @@ excerpt: "SAT and mental health: normalizing some test anxiety, reframing the te
 image: "/assets/images/blog/blog-20.webp"
 reading_time: 60
 author: "hannah-moore"
-last_updated: 1995-11-20
+last_updated: 2026-06-09
 lang: en
 ---
 The night before a test, a lot of students lie awake running the same loop. The chest feels tight. The mind rehearses the worst version of the morning, the blank screen, the clock, the question that will not resolve. By the time the alarm goes off, the body is already tired from a fight that never happened. If that sounds familiar, you are not broken and you are not alone, and the first thing worth saying plainly is that some of what you are feeling is the most ordinary thing in the world. A pounding heart before something that matters is your body taking the morning seriously. The problem is never that you feel something. The problem is when the feeling grows large enough to crowd out sleep, focus, and the parts of your life that have nothing to do with a college entrance exam.

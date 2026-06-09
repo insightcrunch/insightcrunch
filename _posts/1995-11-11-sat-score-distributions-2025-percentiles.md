@@ -9,7 +9,7 @@ excerpt: "SAT score distributions and percentiles: what share scores at each lev
 image: "/assets/images/blog/blog-81.webp"
 reading_time: 60
 author: "katherine-blake"
-last_updated: 1995-11-11
+last_updated: 2026-06-09
 lang: en
 ---
 A 1250 on its own tells you almost nothing. It is a number on a 400 to 1600 scale, and on a scale you have never seen mapped, the only honest reaction is a shrug. The SAT score distribution is the map. Once you lay a 1250 against the full national spread of results, the same four digits turn into something you can act on: a standing somewhere near the top fifth of all test-takers, comfortably above the midpoint, short of the bands most selective universities post, and close enough to several strong public flagships to be worth a serious application. Nothing about the digits changed. What changed is that you now know where they sit in the field, and that single piece of context is the difference between a number and a decision.

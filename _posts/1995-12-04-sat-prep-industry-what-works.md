@@ -9,7 +9,7 @@ excerpt: "The SAT prep industry examined: what the evidence says about course ef
 image: "/assets/images/blog/blog-78.webp"
 reading_time: 60
 author: "jessica-kim"
-last_updated: 1995-12-04
+last_updated: 2026-06-09
 lang: en
 ---
 A family writes a check for two thousand dollars, sometimes far more, and believes they have bought a higher score. That belief is the engine of the SAT prep industry, and it is mostly wrong about what the money does. The check does not buy a secret method, a hidden question bank, or knowledge that a disciplined student could not find for free. It buys structure, accountability, scheduling, and a person to answer to on Tuesday afternoon. Those things have real value for some students and almost none for others, and the difference between the two cases is the most useful thing a parent can learn before spending anything at all.

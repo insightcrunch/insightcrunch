@@ -9,7 +9,7 @@ excerpt: "Does the SAT still matter in 2026? The test-optional analysis: which s
 image: "/assets/images/blog/blog-92.webp"
 reading_time: 60
 author: "christopher-wells"
-last_updated: 1995-12-08
+last_updated: 2026-06-09
 lang: en
 ---
 A senior with a 1380 reads that her dream school is test-optional, decides the score no longer counts, and quietly withholds it. At that same school, the middle range of admitted students sits around 1300 to 1480. Her 1380 lands comfortably above the midpoint, which means she just hid one of the strongest pieces of evidence in her file because she misread what test-optional means. That single decision, repeated across hundreds of thousands of applications every cycle, is the most expensive misunderstanding in admissions right now, and it is the reason this analysis exists.

@@ -9,7 +9,7 @@ excerpt: "SAT history from 1926 to the digital era: the creation, postwar expans
 image: "/assets/images/blog/blog-73.webp"
 reading_time: 60
 author: "daniel-morgan"
-last_updated: 1995-12-17
+last_updated: 2026-06-09
 lang: en
 ---
 Most students sit down for the exam believing they are facing something fixed, a permanent fact of American life that has always looked roughly the way it looks now. That belief is wrong, and the SAT history that corrects it changes how you should approach the test today. The instrument you take has been torn down and rebuilt at least five separate times since its first administration in 1926, and each rebuild was an argument, a deliberate answer to a national disagreement about who deserves a college seat and how anyone should be measured for one. A student who understands that lineage stops treating the score as a verdict on raw intelligence and starts treating it as what it actually is: a designed, revisable instrument with rules that can be learned.
