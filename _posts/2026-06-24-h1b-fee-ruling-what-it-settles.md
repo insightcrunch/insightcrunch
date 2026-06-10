@@ -6,17 +6,17 @@ date: 2026-06-24
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Forecasting", "Executive Power", "Litigation", "Immigration", "Policy"]
 excerpt: "The H-1B fee ruling vacated the charge nationwide yet left the refund question, the entry power, and the live appeal open: a map of what stays unsettled."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-25.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "david-thornton"
 last_updated: 2026-06-24
+lang: en
 ---
-
 A reader who wants a single sentence on the H-1B fee ruling can have one: the Massachusetts court struck down the $100,000 charge on covered petitions and removed it across the country. The harder and more useful question is the one the headline cannot answer. What did that decision actually close, and what did it leave open for the next round? A charge can be defeated in the form it took and still return in another. A nationwide remedy can be granted and then narrowed on review. Money already collected can sit unaddressed while the rule that demanded it is gone. The decision of June 8, 2026 did all three of those things at once, which is why the most accurate description of the moment is not victory or defeat but a precise map of settled ground and open ground.
 
 That map is the whole point of this analysis. The temptation, on a story this large, is to treat the strike-down as the end of the fight. It is not. It is the resolution of one question, asked in one posture, by one judge, on one record, and it sits inside a larger contest that includes a separate decision pointing the other way, an appeal the government has signaled, a sunset clause that could end the matter on its own, and a recovery question that no court has yet answered. Reading the ruling as the close of the saga misreads it. Reading it as a clean account of what is now decided, what is expressly undecided, and which threads remain live is the disciplined alternative, and it is the one a researcher, an attorney, an employer, or a worker can actually use.
 
-![What the H-1B fee ruling settles and what it leaves open, a forecasting analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![What the H-1B fee ruling settles and what it leaves open, a forecasting analysis - Insight Crunch](/assets/images/blog/blog-25.webp)
 
 This article works through the settled and the open in turn. It states what the decision conclusively establishes, then catalogs what it pointedly does not reach, then traces the live paths and the conditions that select among them. It lays out the appeal and stay mechanics that govern the near term, sets out the plausible branches in durable conditional terms, and explains what each would mean for the people the policy touched. Throughout, it holds to one rule: forecasting is framed as conditional analysis, never disguised as prediction. Where the answer depends on a future event or on a contested point of law, the condition is named rather than the outcome asserted. The closing identifies the single variable that does the most work in deciding how the rest unfolds.
 

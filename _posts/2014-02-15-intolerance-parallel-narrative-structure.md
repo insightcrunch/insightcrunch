@@ -6,15 +6,15 @@ date: 2014-02-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "Intolerance", "D.W. Griffith", "Silent Film", "Screenwriting", "Film History", "World Cinema"]
 excerpt: "Intolerance braids four distant eras around one idea, and its accelerating cross-cut taught cinema parallel structure before Soviet montage made it grammar."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-36.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2014-02-15
+lang: en
 ---
-
 The boldest structural decision in *Intolerance* is also the one most viewers misremember. The four periods it dramatizes, ancient Babylon, Judea at the time of the Nazarene, France on the eve of the 1572 massacre, and a contemporary American city, never meet. No character crosses from one panel into another. No plot in any of the four depends on a plot in the others. What binds them is a single argument, advanced through image and rhythm rather than through event, and a cutting pattern that grows faster the closer the film gets to its end, until four climaxes that share no causal thread detonate within the same handful of minutes. D.W. Griffith built a feature-length picture out of timelines that have no business being in the same building, and he held them together with an idea and a recurring image of a woman rocking a cradle. That is the move worth studying, and it is the move this article maps.
 
-![How Intolerance braids four eras into one parallel structure, a screenwriting analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Intolerance braids four eras into one parallel structure, a screenwriting analysis - Insight Crunch](/assets/images/blog/blog-36.webp)
 
 Released in 1916, a year after the commercial triumph and lasting disgrace of his Civil War epic, *Intolerance* is the film in which Griffith reached past the linear melodrama he had already mastered and tried to make narrative itself behave like an argument. The reach exceeded what audiences of the period would follow, and the picture lost money on a scale that haunted its director for the rest of his career. Yet the structure he attempted, the braiding of unrelated eras around a recurring thought, turned out to be one of the most generative ideas in the history of the medium. It is the ancestor of the mosaic film, the cross-cut climax, the hyperlink narrative, and a good deal of montage theory besides. To understand *Intolerance* is to understand where a large share of cinema's structural vocabulary was first attempted at scale.
 

@@ -6,17 +6,17 @@ date: 2026-06-10
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Constitutional Law", "Executive Power", "Immigration", "Legal"]
 excerpt: "A clear analysis of the H-1B fee ruling: what the federal court held when it vacated the $100,000 charge, the two grounds it rested on, and its limits."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-06-10
+lang: en
 ---
-
 The question at the center of the H-1B fee ruling is narrower, and stranger, than most of the coverage lets on. It is not whether the United States should make skilled-worker visas more expensive, and it is not whether the H-1B program serves the country well or badly. It is a question about authority: who, under the Constitution, may reach into a private party's accounts and demand a six-figure payment as the price of doing something the law otherwise permits. The President acting alone through a proclamation, or Congress acting through a statute? On June 8, 2026, a federal court in Boston gave an answer, and the answer was Congress.
 
 That answer is what this article unpacks. United States District Judge Leo T. Sorokin, sitting in the District of Massachusetts, issued a forty-two-page decision on summary judgment that vacated the $100,000 charge the administration had imposed on most new H-1B petitions, holding that the charge is a tax and that the power to levy a tax of this kind sits with the legislature, not the executive. The decision rested on two independent grounds and granted relief that reaches the whole country. Read carefully, it is less a verdict on immigration than a verdict on the separation of powers, which is precisely why it travels well beyond the visa world and why it is worth understanding in full rather than in headline form.
 
-![How the H-1B fee ruling vacated the $100,000 charge as an unauthorized tax, a legal analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the H-1B fee ruling vacated the $100,000 charge as an unauthorized tax, a legal analysis - Insight Crunch](/assets/images/blog/blog-26.webp)
 
 What follows is built to be useful rather than merely current. It states what the court held, traces the reasoning from the threshold question through to the remedy, separates what the decision settles from what it deliberately leaves for another day, places the ruling beside the doctrine and the sibling case that frame it, and compares the American method of changing skilled-visa costs against the way peer democracies do the same thing. The goal is that a researcher, an attorney advising a client, an employer weighing a hiring plan, a worker reading the news with rising anxiety, or a student building an outline can each leave with something they could not assemble from a wire recap and an agency notice in twenty minutes: a structured, cite-able account of the holding, the grounds, the scope, and the limits.
 

@@ -6,17 +6,17 @@ date: 2026-06-20
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Executive Power", "Immigration", "Legal", "Litigation"]
 excerpt: "The H-1B fee ruling set the administration's entry-power case against the states' unauthorized-tax case. Read the strongest version of each side here."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-21.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "alex-cunningham"
 last_updated: 2026-06-20
+lang: en
 ---
-
 When Judge Leo T. Sorokin vacated the H-1B fee on June 8, 2026, the headline wrote itself: a six-figure charge on skilled-worker petitions, gone. What the headline obscured is that the case was never a contest between a serious legal position and a frivolous one. Both the federal government and the coalition of states that sued advanced real arguments, anchored in real statutes and real precedent, and a different judge in Washington had already accepted the government's version of those arguments months earlier. To understand why the Massachusetts court came out the other way, and why the appeal is far from a formality, you have to read each side at its strongest rather than at its most quotable.
 
 This is the who-argued-what of the dispute, set out evenhandedly. The aim is not to pick a political team. It is to reconstruct the administration's case for the charge as its own lawyers would put it, reconstruct the states' case against it as their attorneys general would put it, locate the precise point where the two collide, and only then assess which reading the statute and the precedent support better. Official statements are quoted exactly and kept short; nothing is invented and nothing is paraphrased into something it did not say.
 
-![Two competing legal arguments over the H-1B fee, the entry-power reading against the unauthorized-tax reading, meeting at a single framing question a court had to resolve.](/assets/images/blog/blog-01.webp)
+![Two competing legal arguments over the H-1B fee, the entry-power reading against the unauthorized-tax reading, meeting at a single framing question a court had to resolve.](/assets/images/blog/blog-21.webp)
 
 ## The framing fork: entry condition or revenue measure
 

@@ -6,15 +6,15 @@ date: 2014-03-15
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Crowd", "King Vidor", "Silent Film", "World Cinema", "Film History", "Film Analysis"]
 excerpt: "The Crowd (1928) made the anonymity of modern city work its subject, and this analysis reads King Vidor's silent film against its German and Soviet rivals."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-71.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "diana-patel"
 last_updated: 2014-03-15
+lang: en
 ---
-
 A man is born on the Fourth of July, 1900, and his father announces that this boy is going to be somebody. Twenty-seven years later he is one clerk among hundreds in an insurance office, a single number on a single ledger, and the camera that finds him has to climb the face of a skyscraper and travel across a sea of identical desks before it can pick him out at all. That descent from national promise to statistical anonymity is the whole argument of King Vidor's The Crowd, the 1928 Metro-Goldwyn-Mayer production that took the most ordinary life imaginable and made it the explicit subject of a major studio film. The pressure the picture registers is the central social fact of its decade: the arrival of a mass white-collar population, the salaried clerks and stenographers and office men whose work was interchangeable and whose individuality the modern corporation had no particular use for. The Crowd is the film that looked straight at that population and refused to pretend any one of them was exceptional.
 
-![How King Vidor's The Crowd turned urban anonymity into film form, a comparative analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How King Vidor's The Crowd turned urban anonymity into film form, a comparative analysis - Insight Crunch](/assets/images/blog/blog-71.webp)
 
 This is what makes The Crowd worth the attention of anyone studying cinema as a record of its moment rather than merely as entertainment. Most American films of the late silent era were built to flatter, to offer a star face the audience could borrow for ninety minutes and a fantasy of distinction. Vidor built a film around the opposite premise: that the audience and the man on screen were the same person, equally undistinguished, equally swallowed by the metropolis, and that this shared condition was a subject worthy of an MGM budget and the most sophisticated camerawork the studio could mount. The film is at once a melodrama about a marriage and a sociological document about what the modern city does to the sense of self, and its lasting power comes from the fact that Vidor never separated the two. The private grief and the public anonymity are filmed as the same problem.
 

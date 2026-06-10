@@ -6,17 +6,17 @@ date: 2014-03-01
 categories: ["Leisure"]
 tags: ["Cinema Classics", "The Phantom of the Opera", "Lon Chaney", "Silent Horror", "Performances", "World Cinema"]
 excerpt: "How Lon Chaney built the monster of The Phantom of the Opera through self-applied makeup, a staged unmasking, and a realism that opposed Expressionism."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-97.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2014-03-01
+lang: en
 ---
-
 The performance problem at the center of The Phantom of the Opera (1925) is a problem of withholding. An actor playing a monster usually wants the monster seen, the way a comedian wants the joke heard. Lon Chaney wanted the opposite. He built a face so specific, so anatomically argued, that the entire film is engineered to keep it hidden until a single moment will detonate it, and his whole performance is a study in how a man behaves when his most important fact about himself is the thing he most needs to conceal. The mask is not a costume accessory. It is the dramatic engine. Everything Chaney does with his shoulders, his hands, his gait, and the tilt of his half-covered head exists to make the audience desperate to see what is behind the porcelain, and then to punish that desire when the cloth comes away.
 
 This is the rare horror performance organized entirely around a reveal that the film spends most of its running time refusing. Chaney understood that the shock would only land if the body underneath the cloak earned it, and so he played Erik, the disfigured musician haunting the cellars of the Paris Opera House, as a man with a complete interior life rather than a lurching effect. The result is a piece of screen acting that invented one of the templates American horror would use for the next century, and it did so by going in the opposite direction from the European horror being made at exactly the same moment.
 
-![How Lon Chaney built the Phantom through self-applied makeup and a staged unmasking, a performance analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How Lon Chaney built the Phantom through self-applied makeup and a staged unmasking, a performance analysis - Insight Crunch](/assets/images/blog/blog-97.webp)
 
 To watch the film as a performance study is to watch a single actor solve a design problem that the production around him could barely hold together. The shoot was famously chaotic, passed between directors, previewed to confused audiences, and recut more than once. What survives the chaos is Chaney. He is the organizing intelligence of the picture, and the argument of this analysis is that his performance, not the credited direction, is what gives The Phantom of the Opera its coherence and its permanence. Strip away the troubled history and you are left with a man who turned his own skull into a script.
 
