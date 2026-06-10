@@ -6,15 +6,15 @@ date: 2026-07-18
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee", "Immigration Policy", "Skilled Immigration", "Immigration", "Policy", "Workforce"]
 excerpt: "The H-1B $100,000 fee falls on the employer, yet coverage turns on where the worker sits rather than company size. Here is who pays and who is exempt."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-43.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "thomas-reid"
 last_updated: 2026-07-18
+lang: en
 ---
-
 A hiring manager who reads only the headline walks away with a single number and a wrong conclusion. The number is right: the H-1B $100,000 fee is real, and for a covered petition it is exactly that, a six-figure charge per worker sitting on top of filing costs that for most private employers ran under four thousand dollars before. The wrong conclusion is that the charge applies to every H-1B hire, or that a small company is spared because it is small, or that a university escapes because it is cap-exempt. None of that is how the rule actually works. Coverage does not turn on who the employer is. It turns on a single fact about the worker: where that person is standing, and what kind of petition is being filed, at the moment the case goes in.
 
-![Who pays the H-1B $100,000 fee and who is exempt, a coverage analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![Who pays the H-1B $100,000 fee and who is exempt, a coverage analysis - Insight Crunch](/assets/images/blog/blog-43.webp)
 
 That distinction is the whole article, and it is the difference between a hiring plan that survives contact with the rule and one that collapses on a misread. An employer that internalizes the location trigger can sort its pipeline in an afternoon: which candidates owe the charge, which fall outside it, and which sit in the gray zone where a travel plan or a status problem flips the answer. An employer that does not internalize it will either pay where it did not have to or, worse, file without the payment where the payment was required and watch the case stall. The aim here is a usable coverage map, not a restatement of the news. By the end you should be able to take a named hire, run it through three questions, and reach a defensible yes or no.
 

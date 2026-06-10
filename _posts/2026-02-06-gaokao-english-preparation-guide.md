@@ -6,14 +6,14 @@ date: 2026-02-06
 categories: ["Industry"]
 tags: ["高考", "高考英语", "英语备考", "English", "Study Guide"]
 excerpt: "英语是高考里最可被训练的科目,140分以上并非天赋专属。本指南把听力、阅读理解、完形填空、语法填空、短文改错和书面表达逐一拆解,详解词汇积累方法、词根词缀技巧、四阶段备考计划、一百五十天倒计时训练表、考场时间分配以及不同考生画像的提分路线,并附二十条常见问题解答,帮助考生与家长用系统的努力稳步冲击高分目标。"
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 50
-author: "Insight Crunch Team"
+author: "li-wei"
+lang: zh
 ---
-
 在高考全部科目里,英语是最值得被认真对待、也最容易被低估的一门。它不像数学那样依赖临场的灵感,也不像语文那样需要多年沉淀出的文学感受力。英语真正奖励的是稳定的词汇积累、清晰的语法模式识别,以及在限定时间内把这些能力转化为产出的反复练习。换句话说,这是一门把努力直接折算成分数的科目。正因如此,140分以上的成绩并不是少数天才的专属,而是任何一位愿意按系统方法长期投入的考生都能争取到的目标。本文会把整张试卷拆开,逐个模块讲清楚怎么练、练到什么程度、容易在哪里丢分,并给出一份可以贴在书桌前的倒计时训练表。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-26.webp)
 *高考英语备考路线图:从词汇地基到考场产出的系统训练全流程*
 
 ## 为什么英语是最可被训练的一门

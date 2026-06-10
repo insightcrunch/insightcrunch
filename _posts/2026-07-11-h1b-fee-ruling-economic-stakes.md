@@ -6,17 +6,17 @@ date: 2026-07-11
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee Ruling", "Economic Impact", "Immigration Policy", "Litigation", "Economics", "Workforce"]
 excerpt: "How the H-1B fee ruling weighed economic harm: the chilling effect, the public-employer stakes, and the contested payment counts that split the record."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-85.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "william-knight"
 last_updated: 2026-07-11
+lang: en
 ---
-
 When a court records that only 85 payments of a $100,000 charge had been logged months after the charge took effect, that single number does more analytical work than any amount of argument about hardship. The H-1B fee ruling that came out of the District of Massachusetts on June 8, 2026 did not turn on economic harm in the abstract. It turned on a record in which the economic evidence and the legal characterization of the charge converged on the same conclusion, because the very feature that made the payment behave like a tax, its capacity to raise revenue far past the cost of processing a petition, was also the feature the challenging states pointed to when they said the levy had priced public hospitals, universities, and school districts out of hiring the workers they depend on.
 
 That convergence is the analytical core of this article, and it is the part a wire recap leaves on the floor. Most coverage of the decision reported that a judge struck the charge and quoted a sentence or two from each side. What follows instead is the economic spine of the case: the harm the states asserted, the evidence they offered for it, the chilling effect a six-figure surcharge produced on covered filings, the contested counts of how many employers actually paid, and the way the charge's revenue function fed directly into the conclusion that it was an unlawful tax rather than a permissible fee. The standalone analyses of the cost jump, the labor-market modeling, and the revenue arithmetic belong to other articles in this series; here the lens is narrower and sharper, namely the economics as the ruling itself addressed them.
 
-![How the H-1B fee ruling weighed economic harm, the chilling effect, and the contested payment counts, an analysis - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How the H-1B fee ruling weighed economic harm, the chilling effect, and the contested payment counts, an analysis - Insight Crunch](/assets/images/blog/blog-85.webp)
 
 ## The number that turned an economic dispute into a constitutional one
 

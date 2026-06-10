@@ -6,15 +6,15 @@ date: 2026-07-22
 categories: ["Industry"]
 tags: ["H-1B Visa", "H-1B Fee", "Immigration Compliance", "Employer Guidance", "Immigration", "Legal", "Workforce"]
 excerpt: "The H-1B fee payment ran through pay.gov before filing, with proof required at submission. Here is the workflow, the proof rule, and the missed-payment risk."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-89.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "nathan-cole"
 last_updated: 2026-07-22
+lang: en
 ---
-
 The single operational fact that reshaped H-1B filing under the new H-1B fee was deceptively simple: a covered petition could not move forward until a six-figure sum had already cleared a federal collection portal and a receipt sat inside the filing package. Everything an employer or an attorney needed to do flowed from that one ordering rule. The money came first, the paperwork came second, and a submission that reversed the sequence was not a late filing to be cured later but a defective one that an adjudicator would set aside. For the people who actually assembled these packages, the legal arguments about whether the charge was a tax or a lawful condition mattered far less, in the moment, than the mechanical question of how the transaction ran, when it had to happen, what evidence had to accompany the case, and what became of a petition that arrived without it.
 
-![An employer reviewing an H-1B petition package and a pay.gov payment receipt before filing](/assets/images/blog/blog-01.webp)
+![An employer reviewing an H-1B petition package and a pay.gov payment receipt before filing](/assets/images/blog/blog-89.webp)
 
 This article is the operational reference for that workflow. It does not relitigate who owed the charge or why the order was issued; those questions belong to their own canonical treatments, and the relevant cross-links appear throughout. Here the focus is narrower and more practical: the precise sequence a petitioner followed, the role the pay.gov system played, the proof requirement that attached at the moment of filing, the consequence of skipping any step, the exception path that could substitute for payment, the records a careful employer kept, and the persistent misconceptions that tripped up filers who assumed the charge behaved like an ordinary visa fee. The aim is the kind of clarity an employer can act on, set against how other countries collect their own employer immigration charges, so the reader closes the page knowing not just what the process demanded but why it demanded it in that order.
 
