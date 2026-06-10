@@ -6,14 +6,14 @@ date: 2026-01-05
 categories: ["Industry"]
 tags: ["高考", "高考生物", "生物备考", "Biology", "Science Preparation", "选考赋分", "Study Guide"]
 excerpt: "这是一份面向高中生、家长与教师的高考生物备考完全指南,系统讲解分子细胞、遗传进化、稳态环境、生物技术与实验设计五大模块,详解试卷结构与赋分规则,提供读图精通、遗传计算与综合题答题规范的专项训练,并给出四阶段复习计划、分段周计划、目标分数拆解、常见失分点与选考专业影响,帮助不同基础的考生稳步把分数练到位。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-66.webp"
 reading_time: 66
-author: "Insight Crunch Team"
+author: "sun-ming"
+lang: zh
 ---
-
 在新高考的选考格局里,生物常被贴上"最容易"的标签,可真正坐进考场的人会发现,它既不像外界想的那样轻松,也远没有物理化学那样难以入门。把这门学科真正讲清楚,需要回答两个问题:它为什么是中等水平考生最值得押注的理科选考?以及,想拿到接近满分的成绩,究竟难在哪里?本指南要建立的核心判断是,这门学科靠的是有纪律的记忆,加上反复打磨的读图与计算训练,它的入门门槛低于物理化学,因此中等能力的考生完全可以通过结构化的学习冲到赋分高档;但正因为选考人数众多,顶端的竞争其实相当激烈。理解了这一点,后面的所有备考动作才有方向。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-66.webp)
 *高考生物备考全景图:从分子细胞、遗传进化到稳态环境,配合图示与计算专项,搭建可预测的得分体系。*
 
 ## 一、战略定位:为什么这门学科值得押注

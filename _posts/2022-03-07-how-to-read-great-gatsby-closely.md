@@ -6,15 +6,15 @@ date: 2022-03-07
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Close Reading", "F. Scott Fitzgerald", "Literary Criticism", "Essay Writing", "American Literature"]
 excerpt: "Learn how to read The Great Gatsby closely with a five rung method that turns any passage into a defensible argument, shown on Fitzgerald's own pages."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-63.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-03-07
+lang: en
 ---
-
 Millions of people have read *The Great Gatsby* and remember the plot. Far fewer can open the book to any page and say something true about how a single sentence works. That gap is the whole subject of this guide. To read *The Great Gatsby* closely is to stop treating the novel as a story you summarize and start treating it as a piece of made language you can take apart, sentence by sentence, and argue about with evidence. Close reading is the skill that separates a reader who has absorbed the events from a reader who can defend a claim, and it is the one transferable ability that powers every other analytical piece in this series.
 
-![How to read The Great Gatsby closely with a five rung close reading method - Insight Crunch](/assets/images/blog/blog-01.webp)
+![How to read The Great Gatsby closely with a five rung close reading method - Insight Crunch](/assets/images/blog/blog-63.webp)
 
 This guide does not hand you an interpretation to memorize. It hands you a method you can run on any page, and then it runs that method in front of you on four decisive passages so the moves stop being abstract. By the end you should be able to take a paragraph you have never analyzed before, work through it in order, and arrive at a defensible reading rather than a guess. That is the difference between looking something up and being able to do it yourself.
 

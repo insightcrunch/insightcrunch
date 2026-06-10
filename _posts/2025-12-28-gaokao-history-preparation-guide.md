@@ -6,14 +6,14 @@ date: 2025-12-28
 categories: ["Industry"]
 tags: ["高考", "高考历史", "历史备考", "人文学科", "History", "Study Guide"]
 excerpt: "这是一份面向高中生、家长与教师的高考历史备考完全指南,系统讲解中国古代史、近现代史与世界史的知识框架,拆解五大核心素养背后的命题逻辑,手把手教你掌握史料解析题与小论文的答题方法,并提供中外对照时间线、四阶段复习规划、各分数段提分策略与真题训练建议,从打牢基础一直陪你走到考场冲刺,帮你把这门曾经头疼的学科真正学透学通。"
-image: "/assets/images/technology-industry-analysis-insightcrunch.webp"
+image: "/assets/images/blog/blog-26.webp"
 reading_time: 45
-author: "Insight Crunch Team"
+author: "yang-bo"
+lang: zh
 ---
-
 在很多同学眼里,历史这门学科是一座靠死记硬背堆出来的高山:背年表、背事件、背意义,考试时再把背过的东西原样默写出来。这种印象曾经接近事实,但放到今天的考场上,它几乎是最容易让人失分的误区。近年来,这门学科的命题方向已经悄悄完成了一次深刻转向,从"考你记得多少"转变为"考你能不能从材料里读出门道、并且把观点讲清楚"。换句话说,真正决定分数的,不再是你脑子里塞了多少条目,而是你面对一段陌生史料时,能不能像一个受过训练的研究者那样去分析、推断和论证。这份指南要做的,就是带你看清这场转向背后的逻辑,并给出一整套可以落地执行的备考方法。
 
-![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/technology-industry-analysis-insightcrunch.webp)
+![Gaokao Exam Preparation Guide - InsightCrunch](/assets/images/blog/blog-26.webp)
 *高考历史备考全景图:从中国古代史、近现代史到世界史,从史料解析到论述写作的系统突破路径*
 
 如果你想先把整场考试的全局结构搞清楚,建议先读一读[高考完全指南](/2026/03/18/gaokao-complete-guide/)与[考试模式与结构](/2026/03/10/gaokao-exam-pattern-format/);而想了解分数是怎么算出来的,可以参考[评分体系解析](/2026/03/02/gaokao-scoring-system-explained/)。本文则专注在历史一科,带你从顶层认知一直走到具体的解题动作。

@@ -6,17 +6,17 @@ date: 2022-03-21
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "F. Scott Fitzgerald", "Literary Criticism", "Close Reading", "American Literature", "Themes"]
 excerpt: "The Great Gatsby genre explained: this guide weighs the novel as a modernist work, a tragedy, a romance, and a social satire, then defends the hybrid case."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-11.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-03-21
+lang: en
 ---
-
 Ask ten readers what kind of book *The Great Gatsby* is and you will get a tangle of half-answers: a love story, a sad book about a rich man, a critique of the American Dream, a period piece about the Roaring Twenties. Each of those answers catches something true and misses the larger point, which is that the question of genre is not a librarian's filing problem but the first real act of interpretation. Naming the genre of *The Great Gatsby* commits you to a way of reading it, and most readers commit by accident. This guide replaces the accidental label with a defended one. It treats classification as an argument you build from the text rather than a tag you inherit from a teacher, and it works through the four labels the novel keeps attracting, modernist work, tragedy, romance, and social satire, before showing how its form and its style hold all of them at once.
 
 The stakes are higher than they look. A reader who decides the book is "just" a romance will spend the whole novel waiting for Gatsby and Daisy to either succeed or fail, and will treat the valley of ashes and the eyes of Doctor T. J. Eckleburg as scenery. A reader who decides it is a social critique will read the parties as exhibits and miss the ache underneath them. The book punishes single-label reading because it was built to operate on several frequencies at once. Getting the genre right, or rather getting the genre argument right, is what lets you read every scene for what it is actually doing.
 
-![The Great Gatsby genre, form, and style explained: modernist novel, tragedy, romance, and social satire - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby genre, form, and style explained: modernist novel, tragedy, romance, and social satire - Insight Crunch](/assets/images/blog/blog-11.webp)
 
 ## What "Genre" Actually Asks of a Reader
 
@@ -59,7 +59,6 @@ The first and most quoted instance of the gap between Nick's self-image and his 
 The bend in Nick's telling matters most around Gatsby, because Nick admires him and the admiration colors the prose. Nick tells us he disapproved of Gatsby from beginning to end and in the same breath grants him a romantic readiness he has never found in anyone else. The book asks the reader to hold both: to feel the pull of Nick's admiration and to remember that it is admiration, an attitude rather than a neutral fact. When Nick lifts the prose into its highest lyric register, the elegy is partly Gatsby's tragedy and partly Nick's need to make a hero of the man whose summer he shared. The famous closing meditation is as much about Nick's longing to redeem what he witnessed as it is about Gatsby, and reading it as pure objective verdict misses the modernist layering of the telling.
 
 There is also the matter of what Nick does not say, the modernist craft of omission. Key information is withheld, delayed, or handed over in fragments: the truth of Gatsby's origins arrives late and incomplete, the circumstances of Myrtle's death are revealed obliquely, and certain motives are left in shadow for the reader to infer. This withholding is not coyness. It mirrors the way the characters cannot see one another whole, and it forces the reader into the active, assembling posture that modernist fiction demands. The reader becomes a kind of detective of meaning, piecing together a coherent picture from a narrator who offers the pieces out of order and never quite admits how much his own desires have arranged them. Recognizing how the telling is engineered, and where the gaps fall, is exactly the work the series lays out in its [full plot and structure map](/2022/01/17/great-gatsby-plot-structure-map/), which tracks how the revelations are placed and what the placement does to the reader.
-
 
 
 If modernism names the method, tragedy names the shape. The novel is built on the bones of tragic structure, and reading it as a tragedy explains why a book full of parties and gossip leaves so many readers gutted. A tragedy in the classical sense gives you a protagonist of unusual size, a fatal commitment or illusion that drives him, a movement that looks for a while like rising fortune, and then a fall that feels both shocking and, in hindsight, inevitable. Gatsby fits the mold so cleanly that the fit is almost the point.

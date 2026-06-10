@@ -6,15 +6,15 @@ date: 2022-03-14
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Chapter Guide", "Close Reading", "Plot Structure", "American Literature", "F. Scott Fitzgerald"]
 excerpt: "A Great Gatsby chapter guide covering all nine chapters, what each one does, where to find every key scene, and the three-movement design beneath them."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-09.webp"
 reading_time: 59
-author: "Insight Crunch Team"
+author: "amanda-ross"
 last_updated: 2022-03-14
+lang: en
 ---
-
 Most readers reach for a Great Gatsby chapter guide for the wrong reason and leave with the right one. They open it to remember what happens, which scene sits where, who says the thing about the past, where the green light is mentioned. That is a fine reason to arrive. It is a poor reason to stay. A guide that only tells you the sequence of events has handed you a table of contents with adjectives. This page is built to do more than that. It treats Fitzgerald's nine sections as a designed sequence, names what each one accomplishes for the book as a whole, and points you toward the close reading that unpacks any scene in depth. Keep it open beside the novel and it works as a map; read it on its own and it teaches you how the novel is put together.
 
-![The Great Gatsby chapter guide covering all nine chapters and their function - Insight Crunch](/assets/images/blog/blog-01.webp)
+![The Great Gatsby chapter guide covering all nine chapters and their function - Insight Crunch](/assets/images/blog/blog-09.webp)
 
 The promise here is orientation plus signposting. You will find, for each of the nine sections, a one-line statement of its function, a sense of where it sits in the larger arc, and a hand-off to the dedicated analysis that goes deeper. You will also find the single structural claim that organizes the whole book once you see it: a three-movement shape laid underneath the nine divisions, in which the first four sections set the board, the middle three collide, and the last two reckon with the wreck. That pattern is the argument this page defends, and it is the thing a bare list can never give you.
 

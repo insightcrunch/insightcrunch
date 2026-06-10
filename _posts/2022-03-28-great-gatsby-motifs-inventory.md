@@ -6,15 +6,15 @@ date: 2022-03-28
 categories: ["Leisure"]
 tags: ["The Great Gatsby", "Motifs", "Symbolism", "Close Reading", "Themes", "American Literature"]
 excerpt: "The Great Gatsby motifs, fully catalogued: weather, cars, clocks, music, geography, and eyes, plus the motif versus symbol distinction students always blur."
-image: "/assets/images/blog/blog-01.webp"
+image: "/assets/images/blog/blog-41.webp"
 reading_time: 60
-author: "Insight Crunch Team"
+author: "chloe-martin"
 last_updated: 2022-03-28
+lang: en
 ---
-
 Most readers finish The Great Gatsby able to name the green light, the eyes on the billboard, and perhaps the valley of ashes, then stop, as though the novel's patterning began and ended with three famous images. The motifs in The Great Gatsby are the layer underneath those headline symbols, the repeated details that thread through every chapter and quietly build the meaning the symbols later announce. A reader who can spot only the symbols is reading the novel's conclusions; a reader who can track its motifs is reading its method. This guide is the complete inventory of those recurring patterns, organized so that you can find any one of them, see where it returns, and read what it does, and it draws the line between a motif and a symbol that students blur on almost every essay.
 
-![The Great Gatsby motifs inventory](/assets/images/blog/blog-01.webp)
+![The Great Gatsby motifs inventory](/assets/images/blog/blog-41.webp)
 
 The payoff of learning to read patterns rather than objects is that it turns you into an active analyst of the page. Once you notice that Fitzgerald keeps returning to the weather at the exact moments his characters change, or that a clock topples at the precise instant Gatsby tries to reverse time, you stop waiting for a teacher to hand you an interpretation and start generating your own. That is the habit this entire series is built to train, and the motif inventory is where the training begins, because pattern-spotting is the smallest, most repeatable unit of literary analysis.
 
